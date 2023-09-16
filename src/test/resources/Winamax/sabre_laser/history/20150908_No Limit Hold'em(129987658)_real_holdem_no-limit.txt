@@ -1,0 +1,1172 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #558292739993632769-1-1441665976 - Holdem no limit (10/20) - 2015/09/07 22:46:16 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 22raptor (1500)
+Seat 2: Ezio89 (1500)
+Seat 3: michigan86 (1500)
+Seat 4: Kcdq69003 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: lapetitesoso (1500)
+Seat 7: senior_syl (1500)
+Seat 8: Ouups (1500)
+Seat 9: tysonfull (1500)
+Seat 10: Woalith (1500)
+*** ANTE/BLINDS ***
+lapetitesoso posts small blind 10
+senior_syl posts big blind 20
+Dealt to sabre_laser [9h Ad]
+*** PRE-FLOP *** 
+Ouups folds
+tysonfull folds
+Woalith raises 40 to 60
+22raptor folds
+Ezio89 folds
+michigan86 calls 60
+Kcdq69003 folds
+sabre_laser folds
+lapetitesoso calls 50
+senior_syl folds
+*** FLOP *** [Ac 5s 5h]
+lapetitesoso checks
+Woalith checks
+michigan86 checks
+*** TURN *** [Ac 5s 5h][6h]
+lapetitesoso bets 20
+Woalith folds
+michigan86 calls 20
+*** RIVER *** [Ac 5s 5h 6h][8h]
+lapetitesoso bets 20
+michigan86 raises 40 to 60
+lapetitesoso calls 40
+*** SHOW DOWN ***
+lapetitesoso shows [Kc 6d] (Two pairs : 6 and 5)
+michigan86 shows [4h Jh] (Flush Jack high)
+michigan86 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ac 5s 5h 6h 8h]
+Seat 3: michigan86 showed [4h Jh] and won 360 with Flush Jack high
+Seat 6: lapetitesoso (small blind) showed [Kc 6d] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #558292739993632769-2-1441666200 - Holdem no limit (10/20) - 2015/09/07 22:50:00 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 22raptor (1500)
+Seat 2: Ezio89 (1500)
+Seat 3: michigan86 (1720)
+Seat 4: Kcdq69003 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: lapetitesoso (1360)
+Seat 7: senior_syl (1480)
+Seat 8: Ouups (1500)
+Seat 9: tysonfull (1500)
+Seat 10: Woalith (1440)
+*** ANTE/BLINDS ***
+senior_syl posts small blind 10
+Ouups posts big blind 20
+Dealt to sabre_laser [Qd 8h]
+*** PRE-FLOP *** 
+tysonfull folds
+Woalith folds
+22raptor raises 60 to 80
+Ezio89 folds
+michigan86 calls 80
+Kcdq69003 calls 80
+sabre_laser folds
+lapetitesoso raises 1280 to 1360 and is all-in
+senior_syl folds
+Ouups folds
+22raptor folds
+michigan86 folds
+Kcdq69003 calls 1280
+*** FLOP *** [7d 2d 6s]
+*** TURN *** [7d 2d 6s][Qh]
+*** RIVER *** [7d 2d 6s Qh][8s]
+*** SHOW DOWN ***
+lapetitesoso shows [Kd Js] (High card : King)
+Kcdq69003 shows [Ac Kc] (High card : Ace)
+Kcdq69003 collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | No rake
+Board: [7d 2d 6s Qh 8s]
+Seat 4: Kcdq69003 showed [Ac Kc] and won 2910 with High card : Ace
+Seat 6: lapetitesoso (button) showed [Kd Js] and lost with High card : King
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #558292739993632769-3-1441666289 - Holdem no limit (10/20) - 2015/09/07 22:51:29 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #7 is the button
+Seat 1: 22raptor (1420)
+Seat 2: Ezio89 (1500)
+Seat 3: michigan86 (1640)
+Seat 4: Kcdq69003 (3050)
+Seat 5: sabre_laser (1500)
+Seat 7: senior_syl (1470)
+Seat 8: Ouups (1480)
+Seat 9: tysonfull (1500)
+Seat 10: Woalith (1440)
+*** ANTE/BLINDS ***
+Ouups posts small blind 10
+tysonfull posts big blind 20
+Dealt to sabre_laser [Qs 2h]
+*** PRE-FLOP *** 
+Woalith folds
+22raptor folds
+Ezio89 folds
+michigan86 calls 20
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+Ouups folds
+tysonfull checks
+*** FLOP *** [Th 5d 2c]
+tysonfull checks
+michigan86 bets 50
+tysonfull folds
+michigan86 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Th 5d 2c]
+Seat 3: michigan86 won 100
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #558292739993632769-4-1441666377 - Holdem no limit (10/20) - 2015/09/07 22:52:57 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 22raptor (1420)
+Seat 2: Ezio89 (1500)
+Seat 3: michigan86 (1670)
+Seat 4: Kcdq69003 (3050)
+Seat 5: sabre_laser (1500)
+Seat 7: senior_syl (1470)
+Seat 8: Ouups (1470)
+Seat 9: tysonfull (1480)
+Seat 10: Woalith (1440)
+*** ANTE/BLINDS ***
+tysonfull posts small blind 10
+Woalith posts big blind 20
+Dealt to sabre_laser [3c Th]
+*** PRE-FLOP *** 
+22raptor calls 20
+Ezio89 folds
+michigan86 calls 20
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+Ouups folds
+tysonfull calls 10
+Woalith checks
+*** FLOP *** [8d Ac 4c]
+tysonfull checks
+Woalith checks
+22raptor bets 50
+michigan86 folds
+tysonfull calls 50
+Woalith calls 50
+*** TURN *** [8d Ac 4c][7d]
+tysonfull checks
+Woalith checks
+22raptor bets 50
+tysonfull calls 50
+Woalith folds
+*** RIVER *** [8d Ac 4c 7d][Jh]
+tysonfull checks
+22raptor checks
+*** SHOW DOWN ***
+22raptor shows [7s 6s] (One pair : 7)
+tysonfull shows [Ah 5c] (One pair : Aces)
+tysonfull collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [8d Ac 4c 7d Jh]
+Seat 1: 22raptor showed [7s 6s] and lost with One pair : 7
+Seat 9: tysonfull (small blind) showed [Ah 5c] and won 330 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #558292739993632769-5-1441666504 - Holdem no limit (15/30) - 2015/09/07 22:55:04 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 22raptor (1300)
+Seat 2: Ezio89 (1500)
+Seat 3: michigan86 (1650)
+Seat 4: Kcdq69003 (3050)
+Seat 5: sabre_laser (1500)
+Seat 7: senior_syl (1470)
+Seat 8: Ouups (1470)
+Seat 9: tysonfull (1690)
+Seat 10: Woalith (1370)
+*** ANTE/BLINDS ***
+Woalith posts small blind 15
+22raptor posts big blind 30
+Dealt to sabre_laser [Qc Tc]
+*** PRE-FLOP *** 
+Ezio89 folds
+michigan86 calls 30
+Kcdq69003 calls 30
+sabre_laser folds
+senior_syl folds
+Ouups folds
+tysonfull calls 30
+Woalith raises 150 to 180
+22raptor folds
+michigan86 calls 150
+Kcdq69003 folds
+tysonfull folds
+*** FLOP *** [Qd 3s 9h]
+Woalith bets 450
+michigan86 folds
+Woalith collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 3s 9h]
+Seat 10: Woalith (small blind) won 900
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #558292739993632769-6-1441666581 - Holdem no limit (15/30) - 2015/09/07 22:56:21 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 22raptor (1270)
+Seat 2: Ezio89 (1500)
+Seat 3: michigan86 (1470)
+Seat 4: Kcdq69003 (3020)
+Seat 5: sabre_laser (1500)
+Seat 7: senior_syl (1470)
+Seat 8: Ouups (1470)
+Seat 9: tysonfull (1660)
+Seat 10: Woalith (1640)
+*** ANTE/BLINDS ***
+22raptor posts small blind 15
+Ezio89 posts big blind 30
+Dealt to sabre_laser [Qd 7c]
+*** PRE-FLOP *** 
+michigan86 folds
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+Ouups folds
+tysonfull folds
+Woalith raises 60 to 90
+22raptor calls 75
+Ezio89 folds
+*** FLOP *** [Kd 6s Qc]
+22raptor bets 105
+Woalith raises 420 to 525
+22raptor folds
+Woalith collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Kd 6s Qc]
+Seat 10: Woalith (button) won 840
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #558292739993632769-7-1441666648 - Holdem no limit (15/30) - 2015/09/07 22:57:28 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 22raptor (1075)
+Seat 2: Ezio89 (1470)
+Seat 3: michigan86 (1470)
+Seat 4: Kcdq69003 (3020)
+Seat 5: sabre_laser (1500)
+Seat 7: senior_syl (1470)
+Seat 8: Ouups (1470)
+Seat 9: tysonfull (1660)
+Seat 10: Woalith (1865)
+*** ANTE/BLINDS ***
+Ezio89 posts small blind 15
+michigan86 posts big blind 30
+Dealt to sabre_laser [7s 4h]
+*** PRE-FLOP *** 
+Kcdq69003 raises 90 to 120
+sabre_laser folds
+senior_syl calls 120
+Ouups calls 120
+tysonfull folds
+Woalith folds
+22raptor folds
+Ezio89 folds
+michigan86 calls 90
+*** FLOP *** [Ks Td 6d]
+michigan86 checks
+Kcdq69003 bets 248
+senior_syl calls 248
+Ouups raises 1102 to 1350 and is all-in
+michigan86 folds
+Kcdq69003 folds
+senior_syl calls 1102 and is all-in
+*** TURN *** [Ks Td 6d][3d]
+*** RIVER *** [Ks Td 6d 3d][Qh]
+*** SHOW DOWN ***
+Ouups shows [Ah Kd] (One pair : Kings)
+senior_syl shows [Tc Th] (Trips of Tens)
+senior_syl collected 3443 from pot
+*** SUMMARY ***
+Total pot 3443 | No rake
+Board: [Ks Td 6d 3d Qh]
+Seat 7: senior_syl showed [Tc Th] and won 3443 with Trips of Tens
+Seat 8: Ouups showed [Ah Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #558292739993632769-8-1441666729 - Holdem no limit (15/30) - 2015/09/07 22:58:49 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 22raptor (1075)
+Seat 2: Ezio89 (1455)
+Seat 3: michigan86 (1350)
+Seat 4: Kcdq69003 (2652)
+Seat 5: sabre_laser (1500)
+Seat 7: senior_syl (3443)
+Seat 9: tysonfull (1660)
+Seat 10: Woalith (1865)
+*** ANTE/BLINDS ***
+michigan86 posts small blind 15
+Kcdq69003 posts big blind 30
+Dealt to sabre_laser [As 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+senior_syl folds
+tysonfull folds
+Woalith folds
+22raptor raises 45 to 75
+Ezio89 folds
+michigan86 folds
+Kcdq69003 folds
+22raptor collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: 22raptor won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #558292739993632769-9-1441666778 - Holdem no limit (15/30) - 2015/09/07 22:59:38 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 22raptor (1120)
+Seat 2: Ezio89 (1455)
+Seat 3: michigan86 (1335)
+Seat 4: Kcdq69003 (2622)
+Seat 5: sabre_laser (1500)
+Seat 7: senior_syl (3443)
+Seat 9: tysonfull (1660)
+Seat 10: Woalith (1865)
+*** ANTE/BLINDS ***
+Kcdq69003 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Qs 2c]
+*** PRE-FLOP *** 
+senior_syl folds
+tysonfull folds
+Woalith folds
+22raptor folds
+Ezio89 folds
+michigan86 calls 30
+Kcdq69003 calls 15
+sabre_laser checks
+*** FLOP *** [7s Qd Kh]
+Kcdq69003 checks
+sabre_laser bets 90
+michigan86 folds
+Kcdq69003 calls 90
+*** TURN *** [7s Qd Kh][8c]
+Kcdq69003 checks
+sabre_laser checks
+*** RIVER *** [7s Qd Kh 8c][5h]
+Kcdq69003 bets 270
+sabre_laser calls 270
+*** SHOW DOWN ***
+sabre_laser shows [Qs 2c] (One pair : Queens)
+Kcdq69003 shows [5s Qh] (Two pairs : Queens and 5)
+Kcdq69003 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [7s Qd Kh 8c 5h]
+Seat 4: Kcdq69003 (small blind) showed [5s Qh] and won 810 with Two pairs : Queens and 5
+Seat 5: sabre_laser (big blind) showed [Qs 2c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #558292739993632769-10-1441666874 - Holdem no limit (15/30) - 2015/09/07 23:01:14 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 22raptor (1120)
+Seat 2: Ezio89 (1455)
+Seat 3: michigan86 (1305)
+Seat 4: Kcdq69003 (3042)
+Seat 5: sabre_laser (1110)
+Seat 7: senior_syl (3443)
+Seat 9: tysonfull (1660)
+Seat 10: Woalith (1865)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+senior_syl posts big blind 30
+Dealt to sabre_laser [5d 2h]
+*** PRE-FLOP *** 
+tysonfull folds
+Woalith folds
+22raptor folds
+Ezio89 calls 30
+michigan86 calls 30
+Kcdq69003 raises 90 to 120
+sabre_laser folds
+senior_syl folds
+Ezio89 folds
+michigan86 calls 90
+*** FLOP *** [Qs Ts 9d]
+michigan86 bets 158
+Kcdq69003 raises 2764 to 2922 and is all-in
+michigan86 calls 1027 and is all-in
+*** TURN *** [Qs Ts 9d][8s]
+*** RIVER *** [Qs Ts 9d 8s][Ad]
+*** SHOW DOWN ***
+michigan86 shows [5s 2s] (Flush Queen high)
+Kcdq69003 shows [Jc Qc] (Straight Queen high)
+Kcdq69003 collected 1737 from side pot 1
+michigan86 collected 2685 from main pot
+*** SUMMARY ***
+Total pot 4422 | No rake
+Board: [Qs Ts 9d 8s Ad]
+Seat 3: michigan86 showed [5s 2s] and won 2685 with Flush Queen high
+Seat 4: Kcdq69003 (button) showed [Jc Qc] and won 1737 with Straight Queen high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #558292739993632769-11-1441666944 - Holdem no limit (20/40) - 2015/09/07 23:02:24 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 22raptor (1120)
+Seat 2: Ezio89 (1425)
+Seat 3: michigan86 (2685)
+Seat 4: Kcdq69003 (1737)
+Seat 5: sabre_laser (1095)
+Seat 7: senior_syl (3413)
+Seat 9: tysonfull (1660)
+Seat 10: Woalith (1865)
+*** ANTE/BLINDS ***
+senior_syl posts small blind 20
+tysonfull posts big blind 40
+Dealt to sabre_laser [3c 4d]
+*** PRE-FLOP *** 
+Woalith folds
+22raptor folds
+Ezio89 folds
+michigan86 folds
+Kcdq69003 folds
+sabre_laser folds
+senior_syl raises 60 to 100
+tysonfull calls 60
+*** FLOP *** [Jh 7d 2c]
+senior_syl bets 100
+tysonfull calls 100
+*** TURN *** [Jh 7d 2c][7h]
+senior_syl checks
+tysonfull bets 200
+senior_syl folds
+tysonfull collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jh 7d 2c 7h]
+Seat 9: tysonfull (big blind) won 600
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #558292739993632769-12-1441667020 - Holdem no limit (20/40) - 2015/09/07 23:03:40 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #7 is the button
+Seat 1: 22raptor (1120)
+Seat 2: Ezio89 (1425)
+Seat 3: michigan86 (2685)
+Seat 4: Kcdq69003 (1737)
+Seat 5: sabre_laser (1095)
+Seat 7: senior_syl (3213)
+Seat 9: tysonfull (1860)
+Seat 10: Woalith (1865)
+*** ANTE/BLINDS ***
+tysonfull posts small blind 20
+Woalith posts big blind 40
+Dealt to sabre_laser [4h 6c]
+*** PRE-FLOP *** 
+22raptor calls 40
+Ezio89 calls 40
+michigan86 calls 40
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+tysonfull folds
+Woalith checks
+*** FLOP *** [5d Js 3s]
+Woalith checks
+22raptor checks
+Ezio89 bets 120
+michigan86 folds
+Woalith folds
+22raptor folds
+Ezio89 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5d Js 3s]
+Seat 2: Ezio89 won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #558292739993632769-13-1441667111 - Holdem no limit (20/40) - 2015/09/07 23:05:11 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 22raptor (1080)
+Seat 2: Ezio89 (1565)
+Seat 3: michigan86 (2645)
+Seat 4: Kcdq69003 (1737)
+Seat 5: sabre_laser (1095)
+Seat 7: senior_syl (3213)
+Seat 9: tysonfull (1840)
+Seat 10: Woalith (1825)
+*** ANTE/BLINDS ***
+Woalith posts small blind 20
+22raptor posts big blind 40
+Dealt to sabre_laser [Qc Tc]
+*** PRE-FLOP *** 
+Ezio89 folds
+michigan86 calls 40
+Kcdq69003 folds
+sabre_laser calls 40
+senior_syl folds
+tysonfull folds
+Woalith folds
+22raptor checks
+*** FLOP *** [Jc 8d 4c]
+22raptor checks
+michigan86 checks
+sabre_laser checks
+*** TURN *** [Jc 8d 4c][3d]
+22raptor checks
+michigan86 checks
+sabre_laser checks
+*** RIVER *** [Jc 8d 4c 3d][4s]
+22raptor bets 200
+michigan86 folds
+sabre_laser folds
+22raptor collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Jc 8d 4c 3d 4s]
+Seat 1: 22raptor (big blind) won 340
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #558292739993632769-14-1441667193 - Holdem no limit (20/40) - 2015/09/07 23:06:33 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 22raptor (1180)
+Seat 2: Ezio89 (1565)
+Seat 3: michigan86 (2605)
+Seat 4: Kcdq69003 (1737)
+Seat 5: sabre_laser (1055)
+Seat 7: senior_syl (3213)
+Seat 9: tysonfull (1840)
+Seat 10: Woalith (1805)
+*** ANTE/BLINDS ***
+22raptor posts small blind 20
+Ezio89 posts big blind 40
+Dealt to sabre_laser [Qh Jh]
+*** PRE-FLOP *** 
+michigan86 folds
+Kcdq69003 folds
+sabre_laser calls 40
+senior_syl folds
+tysonfull folds
+Woalith folds
+22raptor folds
+Ezio89 checks
+*** FLOP *** [9d 9c Ks]
+Ezio89 bets 67
+sabre_laser calls 67
+*** TURN *** [9d 9c Ks][Ad]
+Ezio89 bets 117
+sabre_laser raises 176 to 293
+Ezio89 calls 176
+*** RIVER *** [9d 9c Ks Ad][Kh]
+Ezio89 checks
+sabre_laser checks
+*** SHOW DOWN ***
+Ezio89 shows [Jd 7d] (Two pairs : Kings and 9)
+sabre_laser shows [Qh Jh] (Two pairs : Kings and 9)
+sabre_laser collected 410 from pot
+Ezio89 collected 410 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [9d 9c Ks Ad Kh]
+Seat 2: Ezio89 (big blind) showed [Jd 7d] and won 410 with Two pairs : Kings and 9
+Seat 5: sabre_laser showed [Qh Jh] and won 410 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #558292739993632769-15-1441667280 - Holdem no limit (20/40) - 2015/09/07 23:08:00 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 22raptor (1160)
+Seat 2: Ezio89 (1575)
+Seat 3: michigan86 (2605)
+Seat 4: Kcdq69003 (1737)
+Seat 5: sabre_laser (1065)
+Seat 7: senior_syl (3213)
+Seat 9: tysonfull (1840)
+Seat 10: Woalith (1805)
+*** ANTE/BLINDS ***
+Ezio89 posts small blind 20
+michigan86 posts big blind 40
+Dealt to sabre_laser [7d Js]
+*** PRE-FLOP *** 
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+tysonfull folds
+Woalith raises 80 to 120
+22raptor folds
+Ezio89 folds
+michigan86 calls 80
+*** FLOP *** [9d 9s 9c]
+michigan86 checks
+Woalith bets 260
+michigan86 calls 260
+*** TURN *** [9d 9s 9c][5d]
+michigan86 bets 390
+Woalith calls 390
+*** RIVER *** [9d 9s 9c 5d][5s]
+michigan86 bets 780
+Woalith calls 780
+*** SHOW DOWN ***
+Woalith shows [As 4d] (Full of 9 and 5)
+michigan86 shows [9h Jc] (Quads of 9)
+michigan86 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [9d 9s 9c 5d 5s]
+Seat 3: michigan86 (big blind) showed [9h Jc] and won 3120 with Quads of 9
+Seat 10: Woalith showed [As 4d] and lost with Full of 9 and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #558292739993632769-16-1441667357 - Holdem no limit (20/40) - 2015/09/07 23:09:17 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 22raptor (1160)
+Seat 2: Ezio89 (1555)
+Seat 3: michigan86 (4175)
+Seat 4: Kcdq69003 (1737)
+Seat 5: sabre_laser (1065)
+Seat 7: senior_syl (3213)
+Seat 9: tysonfull (1840)
+Seat 10: Woalith (255)
+*** ANTE/BLINDS ***
+michigan86 posts small blind 20
+Kcdq69003 posts big blind 40
+Dealt to sabre_laser [Qh 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+senior_syl folds
+tysonfull calls 40
+Woalith raises 215 to 255 and is all-in
+22raptor calls 255
+Ezio89 folds
+michigan86 calls 235
+Kcdq69003 folds
+tysonfull calls 215
+*** FLOP *** [Qc 9h 2s]
+michigan86 bets 40
+tysonfull calls 40
+22raptor raises 200 to 240
+michigan86 folds
+tysonfull folds
+*** TURN *** [Qc 9h 2s][8c]
+*** RIVER *** [Qc 9h 2s 8c][6d]
+*** SHOW DOWN ***
+Woalith shows [Jh 7h] (High card : Queen)
+22raptor shows [Qd Jc] (One pair : Queens)
+22raptor collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [Qc 9h 2s 8c 6d]
+Seat 1: 22raptor showed [Qd Jc] and won 1380 with One pair : Queens
+Seat 10: Woalith showed [Jh 7h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #558292739993632769-17-1441667459 - Holdem no limit (30/60) - 2015/09/07 23:10:59 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 22raptor (2045)
+Seat 2: Ezio89 (1555)
+Seat 3: michigan86 (3880)
+Seat 4: Kcdq69003 (1697)
+Seat 5: sabre_laser (1065)
+Seat 7: senior_syl (3213)
+Seat 9: tysonfull (1545)
+*** ANTE/BLINDS ***
+Kcdq69003 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Kd Ad]
+*** PRE-FLOP *** 
+senior_syl folds
+tysonfull folds
+22raptor folds
+Ezio89 calls 60
+michigan86 calls 60
+Kcdq69003 calls 30
+sabre_laser raises 120 to 180
+Ezio89 folds
+michigan86 calls 120
+Kcdq69003 calls 120
+*** FLOP *** [3h 9c 7h]
+Kcdq69003 checks
+sabre_laser checks
+michigan86 checks
+*** TURN *** [3h 9c 7h][Qh]
+Kcdq69003 checks
+sabre_laser checks
+michigan86 checks
+*** RIVER *** [3h 9c 7h Qh][3d]
+Kcdq69003 bets 400
+sabre_laser folds
+michigan86 folds
+Kcdq69003 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [3h 9c 7h Qh 3d]
+Seat 4: Kcdq69003 (small blind) won 1000
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #558292739993632769-18-1441667526 - Holdem no limit (30/60) - 2015/09/07 23:12:06 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 22raptor (2045)
+Seat 2: Ezio89 (1495)
+Seat 3: michigan86 (3700)
+Seat 4: Kcdq69003 (2117)
+Seat 5: sabre_laser (885)
+Seat 7: senior_syl (3213)
+Seat 9: tysonfull (1545)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+senior_syl posts big blind 60
+Dealt to sabre_laser [3d Ts]
+*** PRE-FLOP *** 
+tysonfull folds
+22raptor raises 150 to 210
+Ezio89 folds
+michigan86 folds
+Kcdq69003 calls 210
+sabre_laser folds
+senior_syl folds
+*** FLOP *** [2h 5s 8d]
+22raptor bets 1835 and is all-in
+Kcdq69003 folds
+22raptor collected 2345 from pot
+*** SUMMARY ***
+Total pot 2345 | No rake
+Board: [2h 5s 8d]
+Seat 1: 22raptor won 2345
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #558292739993632769-19-1441667576 - Holdem no limit (30/60) - 2015/09/07 23:12:56 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 22raptor (2345)
+Seat 2: Ezio89 (1495)
+Seat 3: michigan86 (3700)
+Seat 4: Kcdq69003 (1907)
+Seat 5: sabre_laser (855)
+Seat 7: senior_syl (3153)
+Seat 9: tysonfull (1545)
+*** ANTE/BLINDS ***
+senior_syl posts small blind 30
+tysonfull posts big blind 60
+Dealt to sabre_laser [6s Ac]
+*** PRE-FLOP *** 
+22raptor raises 150 to 210
+Ezio89 folds
+michigan86 folds
+Kcdq69003 folds
+sabre_laser folds
+senior_syl calls 180
+tysonfull folds
+*** FLOP *** [3d Js Jh]
+senior_syl checks
+22raptor checks
+*** TURN *** [3d Js Jh][2c]
+senior_syl bets 240
+22raptor raises 240 to 480
+senior_syl calls 240
+*** RIVER *** [3d Js Jh 2c][8c]
+senior_syl checks
+22raptor bets 720
+senior_syl raises 1743 to 2463 and is all-in
+22raptor folds
+senior_syl collected 4623 from pot
+*** SUMMARY ***
+Total pot 4623 | No rake
+Board: [3d Js Jh 2c 8c]
+Seat 7: senior_syl (small blind) won 4623
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #558292739993632769-20-1441667662 - Holdem no limit (30/60) - 2015/09/07 23:14:22 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #7 is the button
+Seat 1: 22raptor (935)
+Seat 2: Ezio89 (1495)
+Seat 3: michigan86 (3700)
+Seat 4: Kcdq69003 (1907)
+Seat 5: sabre_laser (855)
+Seat 7: senior_syl (4623)
+Seat 9: tysonfull (1485)
+*** ANTE/BLINDS ***
+tysonfull posts small blind 30
+22raptor posts big blind 60
+Dealt to sabre_laser [5c 8s]
+*** PRE-FLOP *** 
+Ezio89 calls 60
+michigan86 calls 60
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+tysonfull raises 60 to 120
+22raptor calls 60
+Ezio89 calls 60
+michigan86 calls 60
+*** FLOP *** [Tc 3c 6c]
+tysonfull checks
+22raptor checks
+Ezio89 bets 360
+michigan86 folds
+tysonfull folds
+22raptor folds
+Ezio89 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Tc 3c 6c]
+Seat 2: Ezio89 won 840
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #558292739993632769-21-1441667766 - Holdem no limit (30/60) - 2015/09/07 23:16:06 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 22raptor (815)
+Seat 2: Ezio89 (1855)
+Seat 3: michigan86 (3580)
+Seat 4: Kcdq69003 (1907)
+Seat 5: sabre_laser (855)
+Seat 7: senior_syl (4623)
+Seat 9: tysonfull (1365)
+*** ANTE/BLINDS ***
+22raptor posts small blind 30
+Ezio89 posts big blind 60
+Dealt to sabre_laser [2c 8s]
+*** PRE-FLOP *** 
+michigan86 raises 60 to 120
+Kcdq69003 folds
+sabre_laser folds
+senior_syl raises 150 to 270
+tysonfull calls 270
+22raptor raises 545 to 815 and is all-in
+Ezio89 folds
+michigan86 calls 695
+senior_syl calls 545
+tysonfull calls 545
+*** FLOP *** [7h Js Jd]
+michigan86 bets 60
+senior_syl calls 60
+tysonfull calls 60
+*** TURN *** [7h Js Jd][Ac]
+michigan86 bets 60
+senior_syl calls 60
+tysonfull folds
+*** RIVER *** [7h Js Jd Ac][As]
+michigan86 checks
+senior_syl checks
+*** SHOW DOWN ***
+22raptor shows [9d 6d] (Two pairs : Aces and Jacks)
+michigan86 shows [8c 8d] (Two pairs : Aces and Jacks)
+senior_syl shows [Td Tc] (Two pairs : Aces and Jacks)
+senior_syl collected 3620 from pot
+*** SUMMARY ***
+Total pot 3620 | No rake
+Board: [7h Js Jd Ac As]
+Seat 1: 22raptor (small blind) showed [9d 6d] and lost with Two pairs : Aces and Jacks
+Seat 3: michigan86 showed [8c 8d] and lost with Two pairs : Aces and Jacks
+Seat 7: senior_syl showed [Td Tc] and won 3620 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #558292739993632769-22-1441667861 - Holdem no limit (30/60) - 2015/09/07 23:17:41 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #1 is the button
+Seat 2: Ezio89 (1795)
+Seat 3: michigan86 (2645)
+Seat 4: Kcdq69003 (1907)
+Seat 5: sabre_laser (855)
+Seat 7: senior_syl (7308)
+Seat 9: tysonfull (490)
+*** ANTE/BLINDS ***
+Ezio89 posts small blind 30
+michigan86 posts big blind 60
+Dealt to sabre_laser [2s 7c]
+*** PRE-FLOP *** 
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+tysonfull folds
+Ezio89 calls 30
+michigan86 checks
+*** FLOP *** [6d 6c Ac]
+Ezio89 checks
+michigan86 checks
+*** TURN *** [6d 6c Ac][Qs]
+Ezio89 checks
+michigan86 checks
+*** RIVER *** [6d 6c Ac Qs][4d]
+Ezio89 checks
+michigan86 bets 210
+Ezio89 folds
+michigan86 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [6d 6c Ac Qs 4d]
+Seat 3: michigan86 (big blind) won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-23-1441667934 - Holdem no limit (40/80) - 2015/09/07 23:18:54 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Ezio89 (1735)
+Seat 3: michigan86 (2705)
+Seat 4: Kcdq69003 (1907)
+Seat 5: sabre_laser (855)
+Seat 7: senior_syl (7308)
+Seat 9: tysonfull (490)
+*** ANTE/BLINDS ***
+michigan86 posts small blind 40
+Kcdq69003 posts big blind 80
+Dealt to sabre_laser [As 7h]
+*** PRE-FLOP *** 
+sabre_laser raises 775 to 855 and is all-in
+senior_syl folds
+tysonfull folds
+Ezio89 folds
+michigan86 folds
+Kcdq69003 folds
+sabre_laser collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Seat 5: sabre_laser won 975
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-24-1441667962 - Holdem no limit (40/80) - 2015/09/07 23:19:22 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Ezio89 (1735)
+Seat 3: michigan86 (2665)
+Seat 4: Kcdq69003 (1827)
+Seat 5: sabre_laser (975)
+Seat 7: senior_syl (7308)
+Seat 9: tysonfull (490)
+*** ANTE/BLINDS ***
+Kcdq69003 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [2s Ks]
+*** PRE-FLOP *** 
+senior_syl folds
+tysonfull folds
+Ezio89 folds
+michigan86 raises 80 to 160
+Kcdq69003 folds
+sabre_laser calls 80
+*** FLOP *** [9h Jc Ad]
+sabre_laser checks
+michigan86 bets 240
+sabre_laser folds
+michigan86 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9h Jc Ad]
+Seat 3: michigan86 (button) won 600
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-25-1441668008 - Holdem no limit (40/80) - 2015/09/07 23:20:08 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Ezio89 (1735)
+Seat 3: michigan86 (2865)
+Seat 4: Kcdq69003 (1787)
+Seat 5: sabre_laser (815)
+Seat 7: senior_syl (7308)
+Seat 9: tysonfull (490)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+senior_syl posts big blind 80
+Dealt to sabre_laser [8c 6c]
+*** PRE-FLOP *** 
+tysonfull folds
+Ezio89 folds
+michigan86 calls 80
+Kcdq69003 calls 80
+sabre_laser calls 40
+senior_syl checks
+*** FLOP *** [2s 7c Kh]
+sabre_laser checks
+senior_syl checks
+michigan86 checks
+Kcdq69003 checks
+*** TURN *** [2s 7c Kh][5s]
+sabre_laser checks
+senior_syl bets 160
+michigan86 calls 160
+Kcdq69003 calls 160
+sabre_laser calls 160
+*** RIVER *** [2s 7c Kh 5s][Kd]
+sabre_laser checks
+senior_syl checks
+michigan86 checks
+Kcdq69003 bets 640
+sabre_laser folds
+senior_syl folds
+michigan86 folds
+Kcdq69003 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [2s 7c Kh 5s Kd]
+Seat 4: Kcdq69003 (button) won 1600
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-26-1441668112 - Holdem no limit (40/80) - 2015/09/07 23:21:52 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Ezio89 (1735)
+Seat 3: michigan86 (2625)
+Seat 4: Kcdq69003 (2507)
+Seat 5: sabre_laser (575)
+Seat 7: senior_syl (7068)
+Seat 9: tysonfull (490)
+*** ANTE/BLINDS ***
+senior_syl posts small blind 40
+tysonfull posts big blind 80
+Dealt to sabre_laser [Td 5c]
+*** PRE-FLOP *** 
+Ezio89 calls 80
+michigan86 raises 80 to 160
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+tysonfull calls 80
+Ezio89 calls 80
+*** FLOP *** [Tc 9s Ad]
+tysonfull checks
+Ezio89 checks
+michigan86 checks
+*** TURN *** [Tc 9s Ad][9d]
+tysonfull checks
+Ezio89 checks
+michigan86 checks
+*** RIVER *** [Tc 9s Ad 9d][Jd]
+tysonfull folds
+Ezio89 checks
+michigan86 bets 520
+Ezio89 folds
+michigan86 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [Tc 9s Ad 9d Jd]
+Seat 3: michigan86 won 1040
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-27-1441668184 - Holdem no limit (40/80) - 2015/09/07 23:23:04 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Ezio89 (1575)
+Seat 3: michigan86 (2985)
+Seat 4: Kcdq69003 (2507)
+Seat 5: sabre_laser (575)
+Seat 7: senior_syl (7028)
+Seat 9: tysonfull (330)
+*** ANTE/BLINDS ***
+tysonfull posts small blind 40
+Ezio89 posts big blind 80
+Dealt to sabre_laser [5s 3c]
+*** PRE-FLOP *** 
+michigan86 folds
+Kcdq69003 folds
+sabre_laser folds
+senior_syl folds
+tysonfull raises 250 to 330 and is all-in
+Ezio89 calls 250
+*** FLOP *** [Ad 3s Jh]
+*** TURN *** [Ad 3s Jh][Td]
+*** RIVER *** [Ad 3s Jh Td][9s]
+*** SHOW DOWN ***
+tysonfull shows [5c Ks] (High card : Ace)
+Ezio89 shows [Qh Qd] (One pair : Queens)
+Ezio89 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Ad 3s Jh Td 9s]
+Seat 2: Ezio89 (big blind) showed [Qh Qd] and won 660 with One pair : Queens
+Seat 9: tysonfull (small blind) showed [5c Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-28-1441668216 - Holdem no limit (40/80) - 2015/09/07 23:23:36 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Ezio89 (1905)
+Seat 3: michigan86 (2985)
+Seat 4: Kcdq69003 (2507)
+Seat 5: sabre_laser (575)
+Seat 7: senior_syl (7028)
+*** ANTE/BLINDS ***
+Ezio89 posts small blind 40
+michigan86 posts big blind 80
+Dealt to sabre_laser [Ts Jd]
+*** PRE-FLOP *** 
+Kcdq69003 raises 160 to 240
+sabre_laser folds
+senior_syl folds
+Ezio89 folds
+michigan86 calls 160
+*** FLOP *** [Qs 4c 3c]
+michigan86 checks
+Kcdq69003 checks
+*** TURN *** [Qs 4c 3c][9s]
+michigan86 checks
+Kcdq69003 checks
+*** RIVER *** [Qs 4c 3c 9s][2c]
+michigan86 checks
+Kcdq69003 bets 347
+michigan86 folds
+Kcdq69003 collected 867 from pot
+*** SUMMARY ***
+Total pot 867 | No rake
+Board: [Qs 4c 3c 9s 2c]
+Seat 4: Kcdq69003 won 867
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-29-1441668261 - Holdem no limit (40/80) - 2015/09/07 23:24:21 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Ezio89 (1865)
+Seat 3: michigan86 (2745)
+Seat 4: Kcdq69003 (2787)
+Seat 5: sabre_laser (575)
+Seat 7: senior_syl (7028)
+*** ANTE/BLINDS ***
+michigan86 posts small blind 40
+Kcdq69003 posts big blind 80
+Dealt to sabre_laser [9c 9d]
+*** PRE-FLOP *** 
+sabre_laser raises 495 to 575 and is all-in
+senior_syl calls 575
+Ezio89 folds
+michigan86 folds
+Kcdq69003 folds
+*** FLOP *** [Ks 3c 3h]
+*** TURN *** [Ks 3c 3h][2c]
+*** RIVER *** [Ks 3c 3h 2c][5s]
+*** SHOW DOWN ***
+senior_syl shows [4s 4c] (Two pairs : 4 and 3)
+sabre_laser shows [9c 9d] (Two pairs : 9 and 3)
+sabre_laser collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | No rake
+Board: [Ks 3c 3h 2c 5s]
+Seat 5: sabre_laser showed [9c 9d] and won 1270 with Two pairs : 9 and 3
+Seat 7: senior_syl showed [4s 4c] and lost with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #558292739993632769-30-1441668293 - Holdem no limit (40/80) - 2015/09/07 23:24:53 UTC
+Table: 'No Limit Hold'em(129987658)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Ezio89 (1865)
+Seat 3: michigan86 (2705)
+Seat 4: Kcdq69003 (2707)
+Seat 5: sabre_laser (1270)
+Seat 7: senior_syl (6453)
+*** ANTE/BLINDS ***
+Kcdq69003 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Kd Ah]
+*** PRE-FLOP *** 
+senior_syl folds
+Ezio89 folds
+michigan86 calls 80
+Kcdq69003 folds
+sabre_laser raises 1190 to 1270 and is all-in
+michigan86 calls 1190
+*** FLOP *** [Ts 2c Qd]
+*** TURN *** [Ts 2c Qd][9s]
+*** RIVER *** [Ts 2c Qd 9s][5s]
+*** SHOW DOWN ***
+sabre_laser shows [Kd Ah] (High card : Ace)
+michigan86 shows [5h Ad] (One pair : 5)
+michigan86 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [Ts 2c Qd 9s 5s]
+Seat 3: michigan86 (button) showed [5h Ad] and won 2580 with One pair : 5
+Seat 5: sabre_laser (big blind) showed [Kd Ah] and lost with High card : Ace
+
+

@@ -1,0 +1,1336 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564657714022580225-1-1442780780 - Holdem no limit (10/20) - 2015/09/20 20:26:20 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #6 is the button
+Seat 1: djokos89zoo (1500)
+Seat 2: scoobz900 (1500)
+Seat 3: jejellyroll (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: tcheppp (1500)
+Seat 6: Meeky810 (1500)
+Seat 7: bella-k94 (1500)
+Seat 8: FataIBazooka (1500)
+Seat 9: Caro0104 (1500)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+bella-k94 posts small blind 10
+FataIBazooka posts big blind 20
+Dealt to sabre_laser [Ks 5h]
+*** PRE-FLOP *** 
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 raises 40 to 60
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+bella-k94 folds
+FataIBazooka folds
+scoobz900 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: scoobz900 won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564657714022580225-2-1442780860 - Holdem no limit (10/20) - 2015/09/20 20:27:40 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #7 is the button
+Seat 1: djokos89zoo (1500)
+Seat 2: scoobz900 (1530)
+Seat 3: jejellyroll (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: tcheppp (1500)
+Seat 6: Meeky810 (1500)
+Seat 7: bella-k94 (1490)
+Seat 8: FataIBazooka (1480)
+Seat 9: Caro0104 (1500)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 10
+Caro0104 posts big blind 20
+Dealt to sabre_laser [As 8h]
+*** PRE-FLOP *** 
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser raises 40 to 60
+tcheppp folds
+Meeky810 calls 60
+bella-k94 folds
+FataIBazooka folds
+Caro0104 folds
+*** FLOP *** [Ac Td Jh]
+sabre_laser bets 113
+Meeky810 calls 113
+*** TURN *** [Ac Td Jh][Ks]
+sabre_laser checks
+Meeky810 checks
+*** RIVER *** [Ac Td Jh Ks][6c]
+sabre_laser checks
+Meeky810 checks
+*** SHOW DOWN ***
+sabre_laser shows [As 8h] (One pair : Aces)
+Meeky810 shows [Js Kc] (Two pairs : Kings and Jacks)
+Meeky810 collected 376 from pot
+*** SUMMARY ***
+Total pot 376 | No rake
+Board: [Ac Td Jh Ks 6c]
+Seat 4: sabre_laser showed [As 8h] and lost with One pair : Aces
+Seat 6: Meeky810 showed [Js Kc] and won 376 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564657714022580225-3-1442780990 - Holdem no limit (15/30) - 2015/09/20 20:29:50 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #8 is the button
+Seat 1: djokos89zoo (1500)
+Seat 2: scoobz900 (1530)
+Seat 3: jejellyroll (1500)
+Seat 4: sabre_laser (1327)
+Seat 5: tcheppp (1500)
+Seat 6: Meeky810 (1703)
+Seat 7: bella-k94 (1490)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1480)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+Caro0104 posts small blind 15
+SpewItRight posts big blind 30
+Dealt to sabre_laser [8c 4s]
+*** PRE-FLOP *** 
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+bella-k94 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 10: SpewItRight (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564657714022580225-4-1442781021 - Holdem no limit (15/30) - 2015/09/20 20:30:21 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #9 is the button
+Seat 1: djokos89zoo (1500)
+Seat 2: scoobz900 (1530)
+Seat 3: jejellyroll (1500)
+Seat 4: sabre_laser (1327)
+Seat 5: tcheppp (1500)
+Seat 6: Meeky810 (1703)
+Seat 7: bella-k94 (1490)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1465)
+Seat 10: SpewItRight (1515)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 15
+djokos89zoo posts big blind 30
+Dealt to sabre_laser [Tc Ks]
+*** PRE-FLOP *** 
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp raises 60 to 90
+Meeky810 folds
+bella-k94 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+tcheppp collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 5: tcheppp won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564657714022580225-5-1442781048 - Holdem no limit (15/30) - 2015/09/20 20:30:48 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #10 is the button
+Seat 1: djokos89zoo (1470)
+Seat 2: scoobz900 (1530)
+Seat 3: jejellyroll (1500)
+Seat 4: sabre_laser (1327)
+Seat 5: tcheppp (1545)
+Seat 6: Meeky810 (1703)
+Seat 7: bella-k94 (1490)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1465)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+djokos89zoo posts small blind 15
+scoobz900 posts big blind 30
+Dealt to sabre_laser [6s 2s]
+*** PRE-FLOP *** 
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+bella-k94 raises 30 to 60
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo calls 45
+scoobz900 folds
+*** FLOP *** [Jc Ah 8d]
+djokos89zoo bets 150
+bella-k94 calls 150
+*** TURN *** [Jc Ah 8d][7s]
+djokos89zoo bets 450
+bella-k94 raises 830 to 1280 and is all-in
+djokos89zoo calls 810 and is all-in
+*** RIVER *** [Jc Ah 8d 7s][Qd]
+*** SHOW DOWN ***
+djokos89zoo shows [Js As] (Two pairs : Aces and Jacks)
+bella-k94 shows [7d Ad] (Two pairs : Aces and 7)
+bella-k94 collected 20 from side pot 1
+djokos89zoo collected 2970 from main pot
+*** SUMMARY ***
+Total pot 2990 | No rake
+Board: [Jc Ah 8d 7s Qd]
+Seat 1: djokos89zoo (small blind) showed [Js As] and won 2970 with Two pairs : Aces and Jacks
+Seat 7: bella-k94 showed [7d Ad] and won 20 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564657714022580225-6-1442781136 - Holdem no limit (20/40) - 2015/09/20 20:32:16 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #1 is the button
+Seat 1: djokos89zoo (2970)
+Seat 2: scoobz900 (1500)
+Seat 3: jejellyroll (1500)
+Seat 4: sabre_laser (1327)
+Seat 5: tcheppp (1545)
+Seat 6: Meeky810 (1703)
+Seat 7: bella-k94 (20)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1465)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+scoobz900 posts small blind 20
+jejellyroll posts big blind 40
+Dealt to sabre_laser [Td 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+tcheppp folds
+Meeky810 raises 40 to 80
+bella-k94 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 calls 60
+jejellyroll folds
+*** FLOP *** [Th Kd 3h]
+scoobz900 checks
+Meeky810 checks
+*** TURN *** [Th Kd 3h][Qc]
+scoobz900 checks
+Meeky810 bets 40
+scoobz900 folds
+Meeky810 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Th Kd 3h Qc]
+Seat 6: Meeky810 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564657714022580225-7-1442781299 - Holdem no limit (20/40) - 2015/09/20 20:34:59 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #2 is the button
+Seat 1: djokos89zoo (2970)
+Seat 2: scoobz900 (1420)
+Seat 3: jejellyroll (1460)
+Seat 4: sabre_laser (1327)
+Seat 5: tcheppp (1545)
+Seat 6: Meeky810 (1823)
+Seat 7: bella-k94 (20)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1465)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+jejellyroll posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [2s Kc]
+*** PRE-FLOP *** 
+tcheppp folds
+Meeky810 folds
+bella-k94 folds
+FataIBazooka folds
+Caro0104 calls 40
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser checks
+*** FLOP *** [2h Qh 5h]
+sabre_laser checks
+Caro0104 checks
+*** TURN *** [2h Qh 5h][4c]
+sabre_laser bets 100
+Caro0104 folds
+sabre_laser collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [2h Qh 5h 4c]
+Seat 4: sabre_laser (big blind) won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564657714022580225-8-1442781343 - Holdem no limit (30/60) - 2015/09/20 20:35:43 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #3 is the button
+Seat 1: djokos89zoo (2970)
+Seat 2: scoobz900 (1420)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1387)
+Seat 5: tcheppp (1545)
+Seat 6: Meeky810 (1823)
+Seat 7: bella-k94 (20)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1425)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+tcheppp posts big blind 60
+Dealt to sabre_laser [5d 7d]
+*** PRE-FLOP *** 
+Meeky810 raises 60 to 120
+bella-k94 calls 20 and is all-in
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 calls 120
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+*** FLOP *** [3h Ah 7h]
+Meeky810 bets 240
+scoobz900 calls 240
+*** TURN *** [3h Ah 7h][7c]
+Meeky810 checks
+scoobz900 checks
+*** RIVER *** [3h Ah 7h 7c][6c]
+Meeky810 checks
+scoobz900 bets 553
+Meeky810 calls 553
+*** SHOW DOWN ***
+Meeky810 shows [Jd Ac] (Two pairs : Aces and 7)
+bella-k94 shows [Ad 4c] (Two pairs : Aces and 7)
+scoobz900 shows [6h Th] (Flush Ace high)
+scoobz900 collected 1936 from pot
+*** SUMMARY ***
+Total pot 1936 | No rake
+Board: [3h Ah 7h 7c 6c]
+Seat 2: scoobz900 showed [6h Th] and won 1936 with Flush Ace high
+Seat 6: Meeky810 showed [Jd Ac] and lost with Two pairs : Aces and 7
+Seat 7: bella-k94 showed [Ad 4c] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564657714022580225-9-1442781429 - Holdem no limit (30/60) - 2015/09/20 20:37:09 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #4 is the button
+Seat 1: djokos89zoo (2970)
+Seat 2: scoobz900 (2443)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1357)
+Seat 5: tcheppp (1485)
+Seat 6: Meeky810 (910)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1425)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+tcheppp posts small blind 30
+Meeky810 posts big blind 60
+Dealt to sabre_laser [9d 7s]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 calls 60
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 raises 60 to 120
+scoobz900 calls 60
+*** FLOP *** [3h Td Ah]
+Meeky810 bets 790 and is all-in
+scoobz900 folds
+Meeky810 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [3h Td Ah]
+Seat 6: Meeky810 (big blind) won 1060
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564657714022580225-10-1442781481 - Holdem no limit (30/60) - 2015/09/20 20:38:01 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #5 is the button
+Seat 1: djokos89zoo (2970)
+Seat 2: scoobz900 (2323)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1357)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1060)
+Seat 8: FataIBazooka (1470)
+Seat 9: Caro0104 (1425)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+Meeky810 posts small blind 30
+FataIBazooka posts big blind 60
+Dealt to sabre_laser [Jh Jc]
+*** PRE-FLOP *** 
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser raises 120 to 180
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 4: sabre_laser won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564657714022580225-11-1442781536 - Holdem no limit (40/80) - 2015/09/20 20:38:56 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #6 is the button
+Seat 1: djokos89zoo (2970)
+Seat 2: scoobz900 (2323)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1447)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1030)
+Seat 8: FataIBazooka (1410)
+Seat 9: Caro0104 (1425)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 40
+Caro0104 posts big blind 80
+Dealt to sabre_laser [Kd 3d]
+*** PRE-FLOP *** 
+SpewItRight folds
+djokos89zoo raises 200 to 280
+scoobz900 calls 280
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+*** FLOP *** [Ts Jd Js]
+djokos89zoo checks
+scoobz900 checks
+*** TURN *** [Ts Jd Js][2c]
+djokos89zoo checks
+scoobz900 checks
+*** RIVER *** [Ts Jd Js 2c][Kc]
+djokos89zoo bets 80
+scoobz900 calls 80
+*** SHOW DOWN ***
+djokos89zoo shows [Kh Ac] (Two pairs : Kings and Jacks)
+scoobz900 shows [Ad Ah] (Two pairs : Aces and Jacks)
+scoobz900 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Ts Jd Js 2c Kc]
+Seat 1: djokos89zoo showed [Kh Ac] and lost with Two pairs : Kings and Jacks
+Seat 2: scoobz900 showed [Ad Ah] and won 840 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564657714022580225-12-1442781589 - Holdem no limit (40/80) - 2015/09/20 20:39:49 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #8 is the button
+Seat 1: djokos89zoo (2610)
+Seat 2: scoobz900 (2803)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1447)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1030)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1345)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+Caro0104 posts small blind 40
+SpewItRight posts big blind 80
+Dealt to sabre_laser [4h 7h]
+*** PRE-FLOP *** 
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 calls 80
+FataIBazooka folds
+Caro0104 folds
+SpewItRight checks
+*** FLOP *** [Jc 3h Kc]
+SpewItRight checks
+Meeky810 bets 200
+SpewItRight folds
+Meeky810 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Jc 3h Kc]
+Seat 6: Meeky810 won 400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564657714022580225-13-1442781638 - Holdem no limit (40/80) - 2015/09/20 20:40:38 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #9 is the button
+Seat 1: djokos89zoo (2610)
+Seat 2: scoobz900 (2803)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1447)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1150)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1305)
+Seat 10: SpewItRight (1420)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 40
+djokos89zoo posts big blind 80
+Dealt to sabre_laser [Qc 3c]
+*** PRE-FLOP *** 
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 calls 80
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo checks
+*** FLOP *** [9h Qh 7s]
+djokos89zoo checks
+Meeky810 checks
+*** TURN *** [9h Qh 7s][Td]
+djokos89zoo bets 80
+Meeky810 raises 80 to 160
+djokos89zoo calls 80
+*** RIVER *** [9h Qh 7s Td][8h]
+djokos89zoo checks
+Meeky810 bets 520
+djokos89zoo folds
+Meeky810 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [9h Qh 7s Td 8h]
+Seat 6: Meeky810 won 1040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564657714022580225-14-1442781787 - Holdem no limit (60/120) - 2015/09/20 20:43:07 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #10 is the button
+Seat 1: djokos89zoo (2370)
+Seat 2: scoobz900 (2803)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1447)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1430)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1305)
+Seat 10: SpewItRight (1380)
+*** ANTE/BLINDS ***
+djokos89zoo posts small blind 60
+scoobz900 posts big blind 120
+Dealt to sabre_laser [Qd Ad]
+*** PRE-FLOP *** 
+jejellyroll folds
+sabre_laser raises 120 to 240
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 4: sabre_laser won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564657714022580225-15-1442781835 - Holdem no limit (60/120) - 2015/09/20 20:43:55 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #1 is the button
+Seat 1: djokos89zoo (2310)
+Seat 2: scoobz900 (2683)
+Seat 3: jejellyroll (1440)
+Seat 4: sabre_laser (1627)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1430)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1305)
+Seat 10: SpewItRight (1380)
+*** ANTE/BLINDS ***
+scoobz900 posts small blind 60
+jejellyroll posts big blind 120
+Dealt to sabre_laser [5c Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: jejellyroll (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564657714022580225-16-1442781892 - Holdem no limit (80/160) - 2015/09/20 20:44:52 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #2 is the button
+Seat 1: djokos89zoo (2310)
+Seat 2: scoobz900 (2623)
+Seat 3: jejellyroll (1500)
+Seat 4: sabre_laser (1627)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1430)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1305)
+Seat 10: SpewItRight (1380)
+*** ANTE/BLINDS ***
+jejellyroll posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [8h 7c]
+*** PRE-FLOP *** 
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo calls 160
+scoobz900 folds
+jejellyroll folds
+sabre_laser checks
+*** FLOP *** [2s 9s Ks]
+sabre_laser checks
+djokos89zoo checks
+*** TURN *** [2s 9s Ks][Qh]
+sabre_laser checks
+djokos89zoo checks
+*** RIVER *** [2s 9s Ks Qh][Jc]
+sabre_laser bets 320
+djokos89zoo folds
+sabre_laser collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [2s 9s Ks Qh Jc]
+Seat 4: sabre_laser (big blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564657714022580225-17-1442781953 - Holdem no limit (80/160) - 2015/09/20 20:45:53 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #3 is the button
+Seat 1: djokos89zoo (2150)
+Seat 2: scoobz900 (2623)
+Seat 3: jejellyroll (1420)
+Seat 4: sabre_laser (1867)
+Seat 5: tcheppp (1455)
+Seat 6: Meeky810 (1430)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1305)
+Seat 10: SpewItRight (1380)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+tcheppp posts big blind 160
+Dealt to sabre_laser [9s Qd]
+*** PRE-FLOP *** 
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: tcheppp (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564657714022580225-18-1442782014 - Holdem no limit (80/160) - 2015/09/20 20:46:54 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #4 is the button
+Seat 1: djokos89zoo (2150)
+Seat 2: scoobz900 (2623)
+Seat 3: jejellyroll (1420)
+Seat 4: sabre_laser (1787)
+Seat 5: tcheppp (1535)
+Seat 6: Meeky810 (1430)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1305)
+Seat 10: SpewItRight (1380)
+*** ANTE/BLINDS ***
+tcheppp posts small blind 80
+Meeky810 posts big blind 160
+Dealt to sabre_laser [Ks 4c]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Caro0104 calls 160
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp calls 80
+Meeky810 checks
+*** FLOP *** [4s 7c Ts]
+tcheppp checks
+Meeky810 checks
+Caro0104 bets 160
+tcheppp folds
+Meeky810 folds
+Caro0104 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4s 7c Ts]
+Seat 9: Caro0104 won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564657714022580225-19-1442782072 - Holdem no limit (10/100/200) - 2015/09/20 20:47:52 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #5 is the button
+Seat 1: djokos89zoo (2150)
+Seat 2: scoobz900 (2623)
+Seat 3: jejellyroll (1420)
+Seat 4: sabre_laser (1787)
+Seat 5: tcheppp (1375)
+Seat 6: Meeky810 (1270)
+Seat 8: FataIBazooka (1370)
+Seat 9: Caro0104 (1625)
+Seat 10: SpewItRight (1380)
+*** ANTE/BLINDS ***
+Meeky810 posts ante 10
+FataIBazooka posts ante 10
+djokos89zoo posts ante 10
+scoobz900 posts ante 10
+jejellyroll posts ante 10
+sabre_laser posts ante 10
+tcheppp posts ante 10
+Caro0104 posts ante 10
+SpewItRight posts ante 10
+Meeky810 posts small blind 100
+FataIBazooka posts big blind 200
+Dealt to sabre_laser [5c Qd]
+*** PRE-FLOP *** 
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 8: FataIBazooka (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564657714022580225-20-1442782103 - Holdem no limit (10/100/200) - 2015/09/20 20:48:23 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #6 is the button
+Seat 1: djokos89zoo (2140)
+Seat 2: scoobz900 (2613)
+Seat 3: jejellyroll (1410)
+Seat 4: sabre_laser (1777)
+Seat 5: tcheppp (1365)
+Seat 6: Meeky810 (1160)
+Seat 8: FataIBazooka (1550)
+Seat 9: Caro0104 (1615)
+Seat 10: SpewItRight (1370)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 10
+Caro0104 posts ante 10
+djokos89zoo posts ante 10
+scoobz900 posts ante 10
+jejellyroll posts ante 10
+sabre_laser posts ante 10
+tcheppp posts ante 10
+Meeky810 posts ante 10
+SpewItRight posts ante 10
+FataIBazooka posts small blind 100
+Caro0104 posts big blind 200
+Dealt to sabre_laser [8d Js]
+*** PRE-FLOP *** 
+SpewItRight folds
+djokos89zoo folds
+scoobz900 raises 200 to 400
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+scoobz900 collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 2: scoobz900 won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564657714022580225-21-1442782131 - Holdem no limit (10/100/200) - 2015/09/20 20:48:51 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #8 is the button
+Seat 1: djokos89zoo (2130)
+Seat 2: scoobz900 (2993)
+Seat 3: jejellyroll (1400)
+Seat 4: sabre_laser (1767)
+Seat 5: tcheppp (1355)
+Seat 6: Meeky810 (1150)
+Seat 8: FataIBazooka (1440)
+Seat 9: Caro0104 (1405)
+Seat 10: SpewItRight (1360)
+*** ANTE/BLINDS ***
+Caro0104 posts ante 10
+SpewItRight posts ante 10
+djokos89zoo posts ante 10
+scoobz900 posts ante 10
+jejellyroll posts ante 10
+sabre_laser posts ante 10
+tcheppp posts ante 10
+Meeky810 posts ante 10
+FataIBazooka posts ante 10
+Caro0104 posts small blind 100
+SpewItRight posts big blind 200
+Dealt to sabre_laser [8s 6h]
+*** PRE-FLOP *** 
+djokos89zoo folds
+scoobz900 raises 200 to 400
+jejellyroll folds
+sabre_laser folds
+tcheppp raises 945 to 1345 and is all-in
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+scoobz900 calls 945
+*** FLOP *** [Td 4s 7h]
+*** TURN *** [Td 4s 7h][Kc]
+*** RIVER *** [Td 4s 7h Kc][Qd]
+*** SHOW DOWN ***
+scoobz900 shows [2d 2h] (One pair : 2)
+tcheppp shows [As Ks] (One pair : Kings)
+tcheppp collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [Td 4s 7h Kc Qd]
+Seat 2: scoobz900 showed [2d 2h] and lost with One pair : 2
+Seat 5: tcheppp showed [As Ks] and won 3080 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564657714022580225-22-1442782198 - Holdem no limit (10/100/200) - 2015/09/20 20:49:58 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #9 is the button
+Seat 1: djokos89zoo (2120)
+Seat 2: scoobz900 (1638)
+Seat 3: jejellyroll (1390)
+Seat 4: sabre_laser (1757)
+Seat 5: tcheppp (3080)
+Seat 6: Meeky810 (1140)
+Seat 8: FataIBazooka (1430)
+Seat 9: Caro0104 (1295)
+Seat 10: SpewItRight (1150)
+*** ANTE/BLINDS ***
+SpewItRight posts ante 10
+djokos89zoo posts ante 10
+scoobz900 posts ante 10
+jejellyroll posts ante 10
+sabre_laser posts ante 10
+tcheppp posts ante 10
+Meeky810 posts ante 10
+FataIBazooka posts ante 10
+Caro0104 posts ante 10
+SpewItRight posts small blind 100
+djokos89zoo posts big blind 200
+Dealt to sabre_laser [Kh Th]
+*** PRE-FLOP *** 
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 1: djokos89zoo (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564657714022580225-23-1442782220 - Holdem no limit (20/150/300) - 2015/09/20 20:50:20 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #10 is the button
+Seat 1: djokos89zoo (2300)
+Seat 2: scoobz900 (1628)
+Seat 3: jejellyroll (1380)
+Seat 4: sabre_laser (1747)
+Seat 5: tcheppp (3070)
+Seat 6: Meeky810 (1130)
+Seat 8: FataIBazooka (1420)
+Seat 9: Caro0104 (1285)
+Seat 10: SpewItRight (1040)
+*** ANTE/BLINDS ***
+djokos89zoo posts ante 20
+scoobz900 posts ante 20
+jejellyroll posts ante 20
+sabre_laser posts ante 20
+tcheppp posts ante 20
+Meeky810 posts ante 20
+FataIBazooka posts ante 20
+Caro0104 posts ante 20
+SpewItRight posts ante 20
+djokos89zoo posts small blind 150
+scoobz900 posts big blind 300
+Dealt to sabre_laser [Kc 7c]
+*** PRE-FLOP *** 
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight raises 720 to 1020 and is all-in
+djokos89zoo folds
+scoobz900 folds
+SpewItRight collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 10: SpewItRight (button) won 1650
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564657714022580225-24-1442782289 - Holdem no limit (20/150/300) - 2015/09/20 20:51:29 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #1 is the button
+Seat 1: djokos89zoo (2130)
+Seat 2: scoobz900 (1308)
+Seat 3: jejellyroll (1360)
+Seat 4: sabre_laser (1727)
+Seat 5: tcheppp (3050)
+Seat 6: Meeky810 (1110)
+Seat 8: FataIBazooka (1400)
+Seat 9: Caro0104 (1265)
+Seat 10: SpewItRight (1650)
+*** ANTE/BLINDS ***
+scoobz900 posts ante 20
+jejellyroll posts ante 20
+djokos89zoo posts ante 20
+sabre_laser posts ante 20
+tcheppp posts ante 20
+Meeky810 posts ante 20
+FataIBazooka posts ante 20
+Caro0104 posts ante 20
+SpewItRight posts ante 20
+scoobz900 posts small blind 150
+jejellyroll posts big blind 300
+Dealt to sabre_laser [8h 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+tcheppp raises 300 to 600
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+tcheppp collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Seat 5: tcheppp won 1230
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564657714022580225-25-1442782329 - Holdem no limit (20/150/300) - 2015/09/20 20:52:09 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #2 is the button
+Seat 1: djokos89zoo (2110)
+Seat 2: scoobz900 (1138)
+Seat 3: jejellyroll (1040)
+Seat 4: sabre_laser (1707)
+Seat 5: tcheppp (3660)
+Seat 6: Meeky810 (1090)
+Seat 8: FataIBazooka (1380)
+Seat 9: Caro0104 (1245)
+Seat 10: SpewItRight (1630)
+*** ANTE/BLINDS ***
+jejellyroll posts ante 20
+sabre_laser posts ante 20
+djokos89zoo posts ante 20
+scoobz900 posts ante 20
+tcheppp posts ante 20
+Meeky810 posts ante 20
+FataIBazooka posts ante 20
+Caro0104 posts ante 20
+SpewItRight posts ante 20
+jejellyroll posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [6c 2d]
+*** PRE-FLOP *** 
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 raises 818 to 1118 and is all-in
+jejellyroll folds
+sabre_laser folds
+scoobz900 collected 1748 from pot
+*** SUMMARY ***
+Total pot 1748 | No rake
+Seat 2: scoobz900 (button) won 1748
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564657714022580225-26-1442782362 - Holdem no limit (20/150/300) - 2015/09/20 20:52:42 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #3 is the button
+Seat 1: djokos89zoo (2090)
+Seat 2: scoobz900 (1748)
+Seat 3: jejellyroll (870)
+Seat 4: sabre_laser (1387)
+Seat 5: tcheppp (3640)
+Seat 6: Meeky810 (1070)
+Seat 8: FataIBazooka (1360)
+Seat 9: Caro0104 (1225)
+Seat 10: SpewItRight (1610)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+tcheppp posts ante 20
+djokos89zoo posts ante 20
+scoobz900 posts ante 20
+jejellyroll posts ante 20
+Meeky810 posts ante 20
+FataIBazooka posts ante 20
+Caro0104 posts ante 20
+SpewItRight posts ante 20
+sabre_laser posts small blind 150
+tcheppp posts big blind 300
+Dealt to sabre_laser [Kc 5c]
+*** PRE-FLOP *** 
+Meeky810 raises 300 to 600
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Seat 6: Meeky810 won 1230
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564657714022580225-27-1442782403 - Holdem no limit (50/200/400) - 2015/09/20 20:53:23 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #4 is the button
+Seat 1: djokos89zoo (2070)
+Seat 2: scoobz900 (1728)
+Seat 3: jejellyroll (850)
+Seat 4: sabre_laser (1217)
+Seat 5: tcheppp (3320)
+Seat 6: Meeky810 (1680)
+Seat 8: FataIBazooka (1340)
+Seat 9: Caro0104 (1205)
+Seat 10: SpewItRight (1590)
+*** ANTE/BLINDS ***
+tcheppp posts ante 50
+Meeky810 posts ante 50
+djokos89zoo posts ante 50
+scoobz900 posts ante 50
+jejellyroll posts ante 50
+sabre_laser posts ante 50
+FataIBazooka posts ante 50
+Caro0104 posts ante 50
+SpewItRight posts ante 50
+tcheppp posts small blind 200
+Meeky810 posts big blind 400
+Dealt to sabre_laser [Kc 5c]
+*** PRE-FLOP *** 
+FataIBazooka raises 890 to 1290 and is all-in
+Caro0104 folds
+SpewItRight folds
+djokos89zoo raises 730 to 2020 and is all-in
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+*** FLOP *** [9c Qh 8h]
+*** TURN *** [9c Qh 8h][Ts]
+*** RIVER *** [9c Qh 8h Ts][5h]
+*** SHOW DOWN ***
+FataIBazooka shows [Jc Qc] (Straight Queen high)
+djokos89zoo shows [Ad Kh] (High card : Ace)
+djokos89zoo collected 730 from side pot 1
+FataIBazooka collected 3630 from main pot
+*** SUMMARY ***
+Total pot 4360 | No rake
+Board: [9c Qh 8h Ts 5h]
+Seat 1: djokos89zoo showed [Ad Kh] and won 730 with High card : Ace
+Seat 8: FataIBazooka showed [Jc Qc] and won 3630 with Straight Queen high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564657714022580225-28-1442782441 - Holdem no limit (50/200/400) - 2015/09/20 20:54:01 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #5 is the button
+Seat 1: djokos89zoo (730)
+Seat 2: scoobz900 (1678)
+Seat 3: jejellyroll (800)
+Seat 4: sabre_laser (1167)
+Seat 5: tcheppp (3070)
+Seat 6: Meeky810 (1230)
+Seat 8: FataIBazooka (3630)
+Seat 9: Caro0104 (1155)
+Seat 10: SpewItRight (1540)
+*** ANTE/BLINDS ***
+Meeky810 posts ante 50
+FataIBazooka posts ante 50
+djokos89zoo posts ante 50
+scoobz900 posts ante 50
+jejellyroll posts ante 50
+sabre_laser posts ante 50
+tcheppp posts ante 50
+Caro0104 posts ante 50
+SpewItRight posts ante 50
+Meeky810 posts small blind 200
+FataIBazooka posts big blind 400
+Dealt to sabre_laser [7c Qh]
+*** PRE-FLOP *** 
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 raises 780 to 1180 and is all-in
+FataIBazooka folds
+Meeky810 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Seat 6: Meeky810 (small blind) won 2030
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564657714022580225-29-1442782471 - Holdem no limit (50/200/400) - 2015/09/20 20:54:31 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #6 is the button
+Seat 1: djokos89zoo (680)
+Seat 2: scoobz900 (1628)
+Seat 3: jejellyroll (750)
+Seat 4: sabre_laser (1117)
+Seat 5: tcheppp (3020)
+Seat 6: Meeky810 (2030)
+Seat 8: FataIBazooka (3180)
+Seat 9: Caro0104 (1105)
+Seat 10: SpewItRight (1490)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 50
+Caro0104 posts ante 50
+djokos89zoo posts ante 50
+scoobz900 posts ante 50
+jejellyroll posts ante 50
+sabre_laser posts ante 50
+tcheppp posts ante 50
+Meeky810 posts ante 50
+SpewItRight posts ante 50
+FataIBazooka posts small blind 200
+Caro0104 posts big blind 400
+Dealt to sabre_laser [2h 9d]
+*** PRE-FLOP *** 
+SpewItRight raises 1040 to 1440 and is all-in
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight collected 2490 from pot
+*** SUMMARY ***
+Total pot 2490 | No rake
+Seat 10: SpewItRight won 2490
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564657714022580225-30-1442782499 - Holdem no limit (50/200/400) - 2015/09/20 20:54:59 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #8 is the button
+Seat 1: djokos89zoo (630)
+Seat 2: scoobz900 (1578)
+Seat 3: jejellyroll (700)
+Seat 4: sabre_laser (1067)
+Seat 5: tcheppp (2970)
+Seat 6: Meeky810 (1980)
+Seat 8: FataIBazooka (2930)
+Seat 9: Caro0104 (655)
+Seat 10: SpewItRight (2490)
+*** ANTE/BLINDS ***
+Caro0104 posts ante 50
+SpewItRight posts ante 50
+djokos89zoo posts ante 50
+scoobz900 posts ante 50
+jejellyroll posts ante 50
+sabre_laser posts ante 50
+tcheppp posts ante 50
+Meeky810 posts ante 50
+FataIBazooka posts ante 50
+Caro0104 posts small blind 200
+SpewItRight posts big blind 400
+Dealt to sabre_laser [Td 7s]
+*** PRE-FLOP *** 
+djokos89zoo folds
+scoobz900 folds
+jejellyroll folds
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 raises 205 to 605 and is all-in
+SpewItRight raises 400 to 1005
+*** FLOP *** [Qs 5c 4s]
+*** TURN *** [Qs 5c 4s][5h]
+*** RIVER *** [Qs 5c 4s 5h][5s]
+*** SHOW DOWN ***
+Caro0104 shows [Qh Ah] (Full of 5 and Queens)
+SpewItRight shows [9c 8c] (Trips of 5)
+SpewItRight collected 400 from side pot 1
+Caro0104 collected 1660 from main pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Board: [Qs 5c 4s 5h 5s]
+Seat 9: Caro0104 (small blind) showed [Qh Ah] and won 1660 with Full of 5 and Queens
+Seat 10: SpewItRight (big blind) showed [9c 8c] and won 400 with Trips of 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564657714022580225-31-1442782536 - Holdem no limit (50/200/400) - 2015/09/20 20:55:36 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #9 is the button
+Seat 1: djokos89zoo (580)
+Seat 2: scoobz900 (1528)
+Seat 3: jejellyroll (650)
+Seat 4: sabre_laser (1017)
+Seat 5: tcheppp (2920)
+Seat 6: Meeky810 (1930)
+Seat 8: FataIBazooka (2880)
+Seat 9: Caro0104 (1660)
+Seat 10: SpewItRight (1835)
+*** ANTE/BLINDS ***
+SpewItRight posts ante 50
+djokos89zoo posts ante 50
+scoobz900 posts ante 50
+jejellyroll posts ante 50
+sabre_laser posts ante 50
+tcheppp posts ante 50
+Meeky810 posts ante 50
+FataIBazooka posts ante 50
+Caro0104 posts ante 50
+SpewItRight posts small blind 200
+djokos89zoo posts big blind 400
+Dealt to sabre_laser [4d Ac]
+*** PRE-FLOP *** 
+scoobz900 folds
+jejellyroll folds
+sabre_laser raises 567 to 967 and is all-in
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 calls 967
+SpewItRight folds
+djokos89zoo calls 130 and is all-in
+*** FLOP *** [Ad 8h 6c]
+*** TURN *** [Ad 8h 6c][Ah]
+*** RIVER *** [Ad 8h 6c Ah][7d]
+*** SHOW DOWN ***
+Caro0104 shows [Qc Kd] (One pair : Aces)
+djokos89zoo shows [As Jd] (Trips of Aces)
+sabre_laser shows [4d Ac] (Trips of Aces)
+sabre_laser collected 874 from side pot 1
+djokos89zoo collected 2240 from main pot
+*** SUMMARY ***
+Total pot 3114 | No rake
+Board: [Ad 8h 6c Ah 7d]
+Seat 1: djokos89zoo (big blind) showed [As Jd] and won 2240 with Trips of Aces
+Seat 4: sabre_laser showed [4d Ac] and won 874 with Trips of Aces
+Seat 9: Caro0104 (button) showed [Qc Kd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564657714022580225-32-1442782586 - Holdem no limit (75/300/600) - 2015/09/20 20:56:26 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #10 is the button
+Seat 1: djokos89zoo (2240)
+Seat 2: scoobz900 (1478)
+Seat 3: jejellyroll (600)
+Seat 4: sabre_laser (874)
+Seat 5: tcheppp (2870)
+Seat 6: Meeky810 (1880)
+Seat 8: FataIBazooka (2830)
+Seat 9: Caro0104 (643)
+Seat 10: SpewItRight (1585)
+*** ANTE/BLINDS ***
+djokos89zoo posts ante 75
+scoobz900 posts ante 75
+jejellyroll posts ante 75
+sabre_laser posts ante 75
+tcheppp posts ante 75
+Meeky810 posts ante 75
+FataIBazooka posts ante 75
+Caro0104 posts ante 75
+SpewItRight posts ante 75
+djokos89zoo posts small blind 300
+scoobz900 posts big blind 600
+Dealt to sabre_laser [Ks Tc]
+*** PRE-FLOP *** 
+jejellyroll calls 525 and is all-in
+sabre_laser folds
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+*** FLOP *** [5d Ah As]
+*** TURN *** [5d Ah As][6c]
+*** RIVER *** [5d Ah As 6c][8d]
+*** SHOW DOWN ***
+jejellyroll shows [Kc Ad] (Trips of Aces)
+scoobz900 shows [Th Jd] (One pair : Aces)
+scoobz900 collected 75 from side pot 1
+jejellyroll collected 2025 from main pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [5d Ah As 6c 8d]
+Seat 2: scoobz900 (big blind) showed [Th Jd] and won 75 with One pair : Aces
+Seat 3: jejellyroll showed [Kc Ad] and won 2025 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564657714022580225-33-1442782615 - Holdem no limit (75/300/600) - 2015/09/20 20:56:55 UTC
+Table: 'Double or Nothing(131469619)#0' 10-max (real money) Seat #1 is the button
+Seat 1: djokos89zoo (1865)
+Seat 2: scoobz900 (878)
+Seat 3: jejellyroll (2025)
+Seat 4: sabre_laser (799)
+Seat 5: tcheppp (2795)
+Seat 6: Meeky810 (1805)
+Seat 8: FataIBazooka (2755)
+Seat 9: Caro0104 (568)
+Seat 10: SpewItRight (1510)
+*** ANTE/BLINDS ***
+scoobz900 posts ante 75
+jejellyroll posts ante 75
+djokos89zoo posts ante 75
+sabre_laser posts ante 75
+tcheppp posts ante 75
+Meeky810 posts ante 75
+FataIBazooka posts ante 75
+Caro0104 posts ante 75
+SpewItRight posts ante 75
+scoobz900 posts small blind 300
+jejellyroll posts big blind 600
+Dealt to sabre_laser [Ah 3d]
+*** PRE-FLOP *** 
+sabre_laser raises 124 to 724 and is all-in
+tcheppp folds
+Meeky810 folds
+FataIBazooka folds
+Caro0104 folds
+SpewItRight folds
+djokos89zoo folds
+scoobz900 folds
+jejellyroll calls 124
+*** FLOP *** [9d Qd Ad]
+*** TURN *** [9d Qd Ad][Kd]
+*** RIVER *** [9d Qd Ad Kd][8c]
+*** SHOW DOWN ***
+sabre_laser shows [Ah 3d] (Flush Ace high)
+jejellyroll shows [Jd 8d] (Flush Ace high)
+jejellyroll collected 2423 from pot
+*** SUMMARY ***
+Total pot 2423 | No rake
+Board: [9d Qd Ad Kd 8c]
+Seat 3: jejellyroll (big blind) showed [Jd 8d] and won 2423 with Flush Ace high
+Seat 4: sabre_laser showed [Ah 3d] and lost with Flush Ace high
+
+

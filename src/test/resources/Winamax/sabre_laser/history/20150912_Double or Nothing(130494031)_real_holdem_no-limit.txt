@@ -1,0 +1,920 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560467595468210177-1-1442059017 - Holdem no limit (10/20) - 2015/09/12 11:56:57 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Sony55 (1500)
+Seat 2: Mx855 (1500)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1500)
+Seat 5: mafalex (1500)
+Seat 6: FataIBazooka (1500)
+Seat 7: s a p i a c (1500)
+Seat 8: CR7-RF (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: 20coeurs12 (1500)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 10
+mafalex posts big blind 20
+Dealt to sabre_laser [Qc Kh]
+*** PRE-FLOP *** 
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser calls 20
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex checks
+*** FLOP *** [Ah Qd 2s]
+mafalex checks
+sabre_laser bets 30
+mafalex folds
+sabre_laser collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ah Qd 2s]
+Seat 9: sabre_laser won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560467595468210177-2-1442059083 - Holdem no limit (10/20) - 2015/09/12 11:58:03 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Sony55 (1500)
+Seat 2: Mx855 (1500)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1490)
+Seat 5: mafalex (1480)
+Seat 6: FataIBazooka (1500)
+Seat 7: s a p i a c (1500)
+Seat 8: CR7-RF (1500)
+Seat 9: sabre_laser (1530)
+Seat 10: 20coeurs12 (1500)
+*** ANTE/BLINDS ***
+mafalex posts small blind 10
+FataIBazooka posts big blind 20
+Dealt to sabre_laser [7c 5c]
+*** PRE-FLOP *** 
+s a p i a c calls 20
+CR7-RF folds
+sabre_laser folds
+20coeurs12 folds
+Sony55 calls 20
+Mx855 folds
+WuTang_check folds
+Donkinou calls 20
+mafalex folds
+FataIBazooka checks
+*** FLOP *** [Kh 5h 2c]
+FataIBazooka checks
+s a p i a c checks
+Sony55 bets 20
+Donkinou folds
+FataIBazooka folds
+s a p i a c folds
+Sony55 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Kh 5h 2c]
+Seat 1: Sony55 won 110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560467595468210177-3-1442059166 - Holdem no limit (10/20) - 2015/09/12 11:59:26 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Sony55 (1570)
+Seat 2: Mx855 (1500)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1470)
+Seat 5: mafalex (1470)
+Seat 6: FataIBazooka (1480)
+Seat 7: s a p i a c (1480)
+Seat 8: CR7-RF (1500)
+Seat 9: sabre_laser (1530)
+Seat 10: 20coeurs12 (1500)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 10
+s a p i a c posts big blind 20
+Dealt to sabre_laser [2s 8c]
+*** PRE-FLOP *** 
+CR7-RF calls 20
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c checks
+*** FLOP *** [Tc Ah 7s]
+s a p i a c checks
+CR7-RF bets 20
+s a p i a c folds
+CR7-RF collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Tc Ah 7s]
+Seat 8: CR7-RF won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560467595468210177-4-1442059205 - Holdem no limit (15/30) - 2015/09/12 12:00:05 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Sony55 (1570)
+Seat 2: Mx855 (1500)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1470)
+Seat 5: mafalex (1470)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1460)
+Seat 8: CR7-RF (1530)
+Seat 9: sabre_laser (1530)
+Seat 10: 20coeurs12 (1500)
+*** ANTE/BLINDS ***
+s a p i a c posts small blind 15
+CR7-RF posts big blind 30
+Dealt to sabre_laser [2s Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex calls 30
+FataIBazooka folds
+s a p i a c folds
+CR7-RF checks
+*** FLOP *** [As 8h 9s]
+CR7-RF checks
+mafalex checks
+*** TURN *** [As 8h 9s][Jh]
+CR7-RF bets 30
+mafalex calls 30
+*** RIVER *** [As 8h 9s Jh][Ac]
+CR7-RF bets 30
+mafalex folds
+CR7-RF collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [As 8h 9s Jh Ac]
+Seat 8: CR7-RF (big blind) won 165
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560467595468210177-5-1442059289 - Holdem no limit (15/30) - 2015/09/12 12:01:29 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Sony55 (1570)
+Seat 2: Mx855 (1500)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1470)
+Seat 5: mafalex (1410)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1605)
+Seat 9: sabre_laser (1530)
+Seat 10: 20coeurs12 (1500)
+*** ANTE/BLINDS ***
+CR7-RF posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [9c 5c]
+*** PRE-FLOP *** 
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF calls 15
+sabre_laser checks
+*** FLOP *** [9d 2d 6c]
+CR7-RF bets 30
+sabre_laser calls 30
+*** TURN *** [9d 2d 6c][Qs]
+CR7-RF checks
+sabre_laser bets 120
+CR7-RF folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9d 2d 6c Qs]
+Seat 9: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560467595468210177-6-1442059369 - Holdem no limit (15/30) - 2015/09/12 12:02:49 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Sony55 (1570)
+Seat 2: Mx855 (1500)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1470)
+Seat 5: mafalex (1410)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1545)
+Seat 9: sabre_laser (1590)
+Seat 10: 20coeurs12 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+20coeurs12 posts big blind 30
+Dealt to sabre_laser [8h 3s]
+*** PRE-FLOP *** 
+Sony55 folds
+Mx855 calls 30
+WuTang_check folds
+Donkinou calls 30
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser calls 15
+20coeurs12 checks
+*** FLOP *** [7d 4h 9h]
+sabre_laser checks
+20coeurs12 checks
+Mx855 bets 30
+Donkinou folds
+sabre_laser folds
+20coeurs12 folds
+Mx855 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [7d 4h 9h]
+Seat 2: Mx855 won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560467595468210177-7-1442059442 - Holdem no limit (20/40) - 2015/09/12 12:04:02 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Sony55 (1570)
+Seat 2: Mx855 (1590)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1410)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1545)
+Seat 9: sabre_laser (1560)
+Seat 10: 20coeurs12 (1470)
+*** ANTE/BLINDS ***
+20coeurs12 posts small blind 20
+Sony55 posts big blind 40
+Dealt to sabre_laser [6c As]
+*** PRE-FLOP *** 
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser raises 80 to 120
+20coeurs12 folds
+Sony55 folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: sabre_laser (button) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560467595468210177-8-1442059486 - Holdem no limit (20/40) - 2015/09/12 12:04:46 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Sony55 (1530)
+Seat 2: Mx855 (1590)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1410)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1545)
+Seat 9: sabre_laser (1620)
+Seat 10: 20coeurs12 (1450)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 20
+Mx855 posts big blind 40
+Dealt to sabre_laser [3d 4c]
+*** PRE-FLOP *** 
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF raises 60 to 100
+sabre_laser folds
+20coeurs12 folds
+Sony55 calls 80
+Mx855 folds
+*** FLOP *** [Ad 3c Qh]
+Sony55 checks
+CR7-RF bets 120
+Sony55 folds
+CR7-RF collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ad 3c Qh]
+Seat 8: CR7-RF won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560467595468210177-9-1442059557 - Holdem no limit (30/60) - 2015/09/12 12:05:57 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1550)
+Seat 3: WuTang_check (1500)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1410)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1685)
+Seat 9: sabre_laser (1620)
+Seat 10: 20coeurs12 (1450)
+*** ANTE/BLINDS ***
+Mx855 posts small blind 30
+WuTang_check posts big blind 60
+Dealt to sabre_laser [Ah Kh]
+*** PRE-FLOP *** 
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser raises 120 to 180
+20coeurs12 raises 1270 to 1450 and is all-in
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+sabre_laser calls 1270
+*** FLOP *** [Qc 8d 6s]
+*** TURN *** [Qc 8d 6s][7h]
+*** RIVER *** [Qc 8d 6s 7h][3d]
+*** SHOW DOWN ***
+sabre_laser shows [Ah Kh] (High card : Ace)
+20coeurs12 shows [Kc Kd] (One pair : Kings)
+20coeurs12 collected 2990 from pot
+*** SUMMARY ***
+Total pot 2990 | No rake
+Board: [Qc 8d 6s 7h 3d]
+Seat 9: sabre_laser showed [Ah Kh] and lost with High card : Ace
+Seat 10: 20coeurs12 showed [Kc Kd] and won 2990 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560467595468210177-10-1442059615 - Holdem no limit (30/60) - 2015/09/12 12:06:55 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1520)
+Seat 3: WuTang_check (1440)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1410)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1685)
+Seat 9: sabre_laser (170)
+Seat 10: 20coeurs12 (2990)
+*** ANTE/BLINDS ***
+WuTang_check posts small blind 30
+Donkinou posts big blind 60
+Dealt to sabre_laser [8h Js]
+*** PRE-FLOP *** 
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Donkinou (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560467595468210177-11-1442059635 - Holdem no limit (30/60) - 2015/09/12 12:07:15 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1520)
+Seat 3: WuTang_check (1410)
+Seat 4: Donkinou (1470)
+Seat 5: mafalex (1410)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1685)
+Seat 9: sabre_laser (170)
+Seat 10: 20coeurs12 (2990)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 30
+mafalex posts big blind 60
+Dealt to sabre_laser [Jh As]
+*** PRE-FLOP *** 
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser raises 110 to 170 and is all-in
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check raises 110 to 280
+Donkinou folds
+mafalex folds
+*** FLOP *** [Td 4d 3h]
+*** TURN *** [Td 4d 3h][Ks]
+*** RIVER *** [Td 4d 3h Ks][Qc]
+*** SHOW DOWN ***
+sabre_laser shows [Jh As] (Straight Ace high)
+WuTang_check shows [Ad Ah] (One pair : Aces)
+WuTang_check collected 110 from side pot 1
+sabre_laser collected 430 from main pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Td 4d 3h Ks Qc]
+Seat 3: WuTang_check (button) showed [Ad Ah] and won 110 with One pair : Aces
+Seat 9: sabre_laser showed [Jh As] and won 430 with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560467595468210177-12-1442059702 - Holdem no limit (30/60) - 2015/09/12 12:08:22 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1520)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1350)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1685)
+Seat 9: sabre_laser (430)
+Seat 10: 20coeurs12 (2990)
+*** ANTE/BLINDS ***
+mafalex posts small blind 30
+FataIBazooka posts big blind 60
+Dealt to sabre_laser [4h Ah]
+*** PRE-FLOP *** 
+s a p i a c folds
+CR7-RF folds
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: FataIBazooka (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560467595468210177-13-1442059727 - Holdem no limit (30/60) - 2015/09/12 12:08:47 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1520)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1500)
+Seat 7: s a p i a c (1445)
+Seat 8: CR7-RF (1685)
+Seat 9: sabre_laser (430)
+Seat 10: 20coeurs12 (2990)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 30
+s a p i a c posts big blind 60
+Dealt to sabre_laser [Jc 7h]
+*** PRE-FLOP *** 
+CR7-RF folds
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 calls 60
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c checks
+*** FLOP *** [8c 6h 3d]
+s a p i a c checks
+Mx855 bets 60
+s a p i a c folds
+Mx855 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [8c 6h 3d]
+Seat 2: Mx855 won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560467595468210177-14-1442059781 - Holdem no limit (40/80) - 2015/09/12 12:09:41 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1610)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1385)
+Seat 8: CR7-RF (1685)
+Seat 9: sabre_laser (430)
+Seat 10: 20coeurs12 (2990)
+*** ANTE/BLINDS ***
+s a p i a c posts small blind 40
+CR7-RF posts big blind 80
+Dealt to sabre_laser [Kd 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: CR7-RF (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560467595468210177-15-1442059810 - Holdem no limit (40/80) - 2015/09/12 12:10:10 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1610)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1470)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1725)
+Seat 9: sabre_laser (430)
+Seat 10: 20coeurs12 (2990)
+*** ANTE/BLINDS ***
+CR7-RF posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [3d Jd]
+*** PRE-FLOP *** 
+20coeurs12 folds
+Sony55 folds
+Mx855 calls 80
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka calls 80
+s a p i a c folds
+CR7-RF calls 40
+sabre_laser checks
+*** FLOP *** [9s 4s Qh]
+CR7-RF checks
+sabre_laser checks
+Mx855 bets 120
+FataIBazooka folds
+CR7-RF folds
+sabre_laser folds
+Mx855 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [9s 4s Qh]
+Seat 2: Mx855 won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560467595468210177-16-1442059893 - Holdem no limit (40/80) - 2015/09/12 12:11:33 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1850)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1440)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1390)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1645)
+Seat 9: sabre_laser (350)
+Seat 10: 20coeurs12 (2990)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+20coeurs12 posts big blind 80
+Dealt to sabre_laser [9s 3c]
+*** PRE-FLOP *** 
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou calls 80
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser folds
+20coeurs12 checks
+*** FLOP *** [4h 4c 5c]
+20coeurs12 checks
+Donkinou checks
+*** TURN *** [4h 4c 5c][7d]
+20coeurs12 checks
+Donkinou checks
+*** RIVER *** [4h 4c 5c 7d][Qs]
+20coeurs12 checks
+Donkinou checks
+*** SHOW DOWN ***
+20coeurs12 shows [Jh Ac] (One pair : 4)
+Donkinou shows [5d Ad] (Two pairs : 5 and 4)
+Donkinou collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [4h 4c 5c 7d Qs]
+Seat 4: Donkinou showed [5d Ad] and won 200 with Two pairs : 5 and 4
+Seat 10: 20coeurs12 (big blind) showed [Jh Ac] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560467595468210177-17-1442059960 - Holdem no limit (60/120) - 2015/09/12 12:12:40 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Sony55 (1430)
+Seat 2: Mx855 (1850)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1560)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1390)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1645)
+Seat 9: sabre_laser (310)
+Seat 10: 20coeurs12 (2910)
+*** ANTE/BLINDS ***
+20coeurs12 posts small blind 60
+Sony55 posts big blind 120
+Dealt to sabre_laser [3d 6s]
+*** PRE-FLOP *** 
+Mx855 calls 120
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser folds
+20coeurs12 folds
+Sony55 checks
+*** FLOP *** [8d Jc Kh]
+Sony55 checks
+Mx855 checks
+*** TURN *** [8d Jc Kh][8h]
+Sony55 checks
+Mx855 bets 120
+Sony55 calls 120
+*** RIVER *** [8d Jc Kh 8h][3c]
+Sony55 checks
+Mx855 checks
+*** SHOW DOWN ***
+Mx855 shows [Th Ad] (One pair : 8)
+Sony55 shows [Kd Qh] (Two pairs : Kings and 8)
+Sony55 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [8d Jc Kh 8h 3c]
+Seat 1: Sony55 (big blind) showed [Kd Qh] and won 540 with Two pairs : Kings and 8
+Seat 2: Mx855 showed [Th Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560467595468210177-18-1442060034 - Holdem no limit (60/120) - 2015/09/12 12:13:54 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Sony55 (1730)
+Seat 2: Mx855 (1610)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1560)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1390)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1645)
+Seat 9: sabre_laser (310)
+Seat 10: 20coeurs12 (2850)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 60
+Mx855 posts big blind 120
+Dealt to sabre_laser [Ac 2c]
+*** PRE-FLOP *** 
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser raises 190 to 310 and is all-in
+20coeurs12 folds
+Sony55 folds
+Mx855 calls 190
+*** FLOP *** [3s 6h 4s]
+*** TURN *** [3s 6h 4s][2d]
+*** RIVER *** [3s 6h 4s 2d][8s]
+*** SHOW DOWN ***
+Mx855 shows [Qs 9h] (High card : Queen)
+sabre_laser shows [Ac 2c] (One pair : 2)
+sabre_laser collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3s 6h 4s 2d 8s]
+Seat 2: Mx855 (big blind) showed [Qs 9h] and lost with High card : Queen
+Seat 9: sabre_laser showed [Ac 2c] and won 680 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560467595468210177-19-1442060091 - Holdem no limit (60/120) - 2015/09/12 12:14:51 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Sony55 (1670)
+Seat 2: Mx855 (1300)
+Seat 3: WuTang_check (1240)
+Seat 4: Donkinou (1560)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1390)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1645)
+Seat 9: sabre_laser (680)
+Seat 10: 20coeurs12 (2850)
+*** ANTE/BLINDS ***
+Mx855 posts small blind 60
+WuTang_check posts big blind 120
+Dealt to sabre_laser [7c 6h]
+*** PRE-FLOP *** 
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF raises 120 to 240
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 calls 180
+WuTang_check folds
+*** FLOP *** [3h Qh 5d]
+Mx855 bets 120
+CR7-RF calls 120
+*** TURN *** [3h Qh 5d][As]
+Mx855 checks
+CR7-RF bets 240
+Mx855 calls 240
+*** RIVER *** [3h Qh 5d As][7h]
+Mx855 bets 700 and is all-in
+CR7-RF folds
+Mx855 collected 2020 from pot
+*** SUMMARY ***
+Total pot 2020 | No rake
+Board: [3h Qh 5d As 7h]
+Seat 2: Mx855 (small blind) won 2020
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560467595468210177-20-1442060187 - Holdem no limit (80/160) - 2015/09/12 12:16:27 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Sony55 (1670)
+Seat 2: Mx855 (2020)
+Seat 3: WuTang_check (1120)
+Seat 4: Donkinou (1560)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1390)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1045)
+Seat 9: sabre_laser (680)
+Seat 10: 20coeurs12 (2850)
+*** ANTE/BLINDS ***
+WuTang_check posts small blind 80
+Donkinou posts big blind 160
+Dealt to sabre_laser [Qs Ad]
+*** PRE-FLOP *** 
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser raises 520 to 680 and is all-in
+20coeurs12 folds
+Sony55 folds
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+sabre_laser collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Seat 9: sabre_laser won 920
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560467595468210177-21-1442060210 - Holdem no limit (80/160) - 2015/09/12 12:16:50 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Sony55 (1670)
+Seat 2: Mx855 (2020)
+Seat 3: WuTang_check (1040)
+Seat 4: Donkinou (1400)
+Seat 5: mafalex (1320)
+Seat 6: FataIBazooka (1390)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1045)
+Seat 9: sabre_laser (920)
+Seat 10: 20coeurs12 (2850)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 80
+mafalex posts big blind 160
+Dealt to sabre_laser [6s 5d]
+*** PRE-FLOP *** 
+FataIBazooka folds
+s a p i a c folds
+CR7-RF folds
+sabre_laser folds
+20coeurs12 folds
+Sony55 folds
+Mx855 calls 160
+WuTang_check folds
+Donkinou folds
+mafalex checks
+*** FLOP *** [Jd 6c 4c]
+mafalex checks
+Mx855 checks
+*** TURN *** [Jd 6c 4c][9s]
+mafalex checks
+Mx855 bets 160
+mafalex folds
+Mx855 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Jd 6c 4c 9s]
+Seat 2: Mx855 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560467595468210177-22-1442060279 - Holdem no limit (10/100/200) - 2015/09/12 12:17:59 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Sony55 (1670)
+Seat 2: Mx855 (2260)
+Seat 3: WuTang_check (1040)
+Seat 4: Donkinou (1320)
+Seat 5: mafalex (1160)
+Seat 6: FataIBazooka (1390)
+Seat 7: s a p i a c (1345)
+Seat 8: CR7-RF (1045)
+Seat 9: sabre_laser (920)
+Seat 10: 20coeurs12 (2850)
+*** ANTE/BLINDS ***
+mafalex posts ante 10
+FataIBazooka posts ante 10
+Sony55 posts ante 10
+Mx855 posts ante 10
+WuTang_check posts ante 10
+Donkinou posts ante 10
+s a p i a c posts ante 10
+CR7-RF posts ante 10
+sabre_laser posts ante 10
+20coeurs12 posts ante 10
+mafalex posts small blind 100
+FataIBazooka posts big blind 200
+Dealt to sabre_laser [6d 4c]
+*** PRE-FLOP *** 
+s a p i a c folds
+CR7-RF folds
+sabre_laser folds
+20coeurs12 folds
+Sony55 raises 1460 to 1660 and is all-in
+Mx855 folds
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+Sony55 collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Seat 1: Sony55 won 2060
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560467595468210177-23-1442060328 - Holdem no limit (10/100/200) - 2015/09/12 12:18:48 UTC
+Table: 'Double or Nothing(130494031)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Sony55 (2060)
+Seat 2: Mx855 (2250)
+Seat 3: WuTang_check (1030)
+Seat 4: Donkinou (1310)
+Seat 5: mafalex (1050)
+Seat 6: FataIBazooka (1180)
+Seat 7: s a p i a c (1335)
+Seat 8: CR7-RF (1035)
+Seat 9: sabre_laser (910)
+Seat 10: 20coeurs12 (2840)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 10
+s a p i a c posts ante 10
+Sony55 posts ante 10
+Mx855 posts ante 10
+WuTang_check posts ante 10
+Donkinou posts ante 10
+mafalex posts ante 10
+CR7-RF posts ante 10
+sabre_laser posts ante 10
+20coeurs12 posts ante 10
+FataIBazooka posts small blind 100
+s a p i a c posts big blind 200
+Dealt to sabre_laser [9h As]
+*** PRE-FLOP *** 
+CR7-RF folds
+sabre_laser raises 700 to 900 and is all-in
+20coeurs12 folds
+Sony55 folds
+Mx855 calls 900
+WuTang_check folds
+Donkinou folds
+mafalex folds
+FataIBazooka folds
+s a p i a c folds
+*** FLOP *** [6h 4h Js]
+*** TURN *** [6h 4h Js][3d]
+*** RIVER *** [6h 4h Js 3d][5s]
+*** SHOW DOWN ***
+sabre_laser shows [9h As] (High card : Ace)
+Mx855 shows [Th Tc] (One pair : Tens)
+Mx855 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [6h 4h Js 3d 5s]
+Seat 2: Mx855 showed [Th Tc] and won 2200 with One pair : Tens
+Seat 9: sabre_laser showed [9h As] and lost with High card : Ace
+
+

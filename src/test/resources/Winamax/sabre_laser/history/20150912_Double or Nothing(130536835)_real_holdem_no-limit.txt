@@ -1,0 +1,2385 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560651437248348161-1-1442082575 - Holdem no limit (10/20) - 2015/09/12 18:29:35 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #4 is the button
+Seat 1: loubiel (1500)
+Seat 2: AAFlo777 (1500)
+Seat 3: Bikon13 (1500)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: stanxgame (1500)
+Seat 7: placebo (1500)
+Seat 8: PALHACO79 (1500)
+Seat 9: PHENIX 21500 (1500)
+Seat 10: benlours (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+stanxgame posts big blind 20
+Dealt to sabre_laser [7c 2d]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel calls 20
+AAFlo777 raises 70 to 90
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+loubiel calls 70
+*** FLOP *** [9h 7d Ac]
+loubiel checks
+AAFlo777 bets 140
+loubiel folds
+AAFlo777 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [9h 7d Ac]
+Seat 2: AAFlo777 won 350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560651437248348161-2-1442082648 - Holdem no limit (10/20) - 2015/09/12 18:30:48 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 1: loubiel (1410)
+Seat 2: AAFlo777 (1620)
+Seat 3: Bikon13 (1500)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1490)
+Seat 6: stanxgame (1480)
+Seat 7: placebo (1500)
+Seat 8: PALHACO79 (1500)
+Seat 9: PHENIX 21500 (1500)
+Seat 10: benlours (1500)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 10
+placebo posts big blind 20
+Dealt to sabre_laser [9d Td]
+*** PRE-FLOP *** 
+PALHACO79 folds
+PHENIX 21500 folds
+benlours raises 20 to 40
+loubiel folds
+AAFlo777 folds
+Bikon13 calls 40
+cerbere70 calls 40
+sabre_laser calls 40
+stanxgame folds
+placebo folds
+*** FLOP *** [2s Qs 8s]
+benlours bets 20
+Bikon13 calls 20
+cerbere70 calls 20
+sabre_laser calls 20
+*** TURN *** [2s Qs 8s][8h]
+benlours bets 20
+Bikon13 calls 20
+cerbere70 calls 20
+sabre_laser calls 20
+*** RIVER *** [2s Qs 8s 8h][5d]
+benlours checks
+Bikon13 checks
+cerbere70 checks
+sabre_laser checks
+*** SHOW DOWN ***
+Bikon13 shows [Jc As] (One pair : 8)
+cerbere70 shows [Ts Tc] (Two pairs : Tens and 8)
+sabre_laser shows [9d Td] (One pair : 8)
+benlours shows [Kc Kh] (Two pairs : Kings and 8)
+benlours collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [2s Qs 8s 8h 5d]
+Seat 3: Bikon13 showed [Jc As] and lost with One pair : 8
+Seat 4: cerbere70 showed [Ts Tc] and lost with Two pairs : Tens and 8
+Seat 5: sabre_laser (button) showed [9d Td] and lost with One pair : 8
+Seat 10: benlours showed [Kc Kh] and won 350 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560651437248348161-3-1442082784 - Holdem no limit (10/20) - 2015/09/12 18:33:04 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 1: loubiel (1410)
+Seat 2: AAFlo777 (1620)
+Seat 3: Bikon13 (1420)
+Seat 4: cerbere70 (1420)
+Seat 5: sabre_laser (1410)
+Seat 6: stanxgame (1470)
+Seat 7: placebo (1480)
+Seat 8: PALHACO79 (1500)
+Seat 9: PHENIX 21500 (1500)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+placebo posts small blind 10
+PALHACO79 posts big blind 20
+Dealt to sabre_laser [Ts 6c]
+*** PRE-FLOP *** 
+PHENIX 21500 folds
+benlours folds
+loubiel calls 20
+AAFlo777 folds
+Bikon13 folds
+cerbere70 calls 20
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 checks
+*** FLOP *** [7d 4d 8c]
+PALHACO79 checks
+loubiel checks
+cerbere70 checks
+*** TURN *** [7d 4d 8c][Jc]
+PALHACO79 checks
+loubiel checks
+cerbere70 checks
+*** RIVER *** [7d 4d 8c Jc][2h]
+PALHACO79 checks
+loubiel checks
+cerbere70 bets 47
+PALHACO79 folds
+loubiel folds
+cerbere70 collected 117 from pot
+*** SUMMARY ***
+Total pot 117 | No rake
+Board: [7d 4d 8c Jc 2h]
+Seat 4: cerbere70 won 117
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560651437248348161-4-1442083006 - Holdem no limit (15/30) - 2015/09/12 18:36:46 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 1: loubiel (1390)
+Seat 2: AAFlo777 (1620)
+Seat 3: Bikon13 (1420)
+Seat 4: cerbere70 (1470)
+Seat 5: sabre_laser (1410)
+Seat 6: stanxgame (1470)
+Seat 7: placebo (1470)
+Seat 8: PALHACO79 (1480)
+Seat 9: PHENIX 21500 (1500)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+PALHACO79 posts small blind 15
+PHENIX 21500 posts big blind 30
+Dealt to sabre_laser [Ad 7s]
+*** PRE-FLOP *** 
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser raises 45 to 75
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: sabre_laser won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560651437248348161-5-1442083073 - Holdem no limit (15/30) - 2015/09/12 18:37:53 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 1: loubiel (1390)
+Seat 2: AAFlo777 (1620)
+Seat 3: Bikon13 (1420)
+Seat 4: cerbere70 (1470)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1470)
+Seat 7: placebo (1470)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1470)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+PHENIX 21500 posts small blind 15
+benlours posts big blind 30
+Dealt to sabre_laser [2h 4c]
+*** PRE-FLOP *** 
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 10: benlours (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560651437248348161-6-1442083117 - Holdem no limit (15/30) - 2015/09/12 18:38:37 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #9 is the button
+Seat 1: loubiel (1390)
+Seat 2: AAFlo777 (1620)
+Seat 3: Bikon13 (1420)
+Seat 4: cerbere70 (1470)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1470)
+Seat 7: placebo (1470)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1785)
+*** ANTE/BLINDS ***
+benlours posts small blind 15
+loubiel posts big blind 30
+Dealt to sabre_laser [7s 5c]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: loubiel (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560651437248348161-7-1442083167 - Holdem no limit (15/30) - 2015/09/12 18:39:27 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 1: loubiel (1405)
+Seat 2: AAFlo777 (1620)
+Seat 3: Bikon13 (1420)
+Seat 4: cerbere70 (1470)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1470)
+Seat 7: placebo (1470)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+loubiel posts small blind 15
+AAFlo777 posts big blind 30
+Dealt to sabre_laser [2h Th]
+*** PRE-FLOP *** 
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo calls 30
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel raises 1375 to 1405 and is all-in
+AAFlo777 folds
+placebo folds
+loubiel shows [Tc Td] (One pair : Tens)
+loubiel collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 1: loubiel (small blind) showed [Tc Td] and won 1465 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560651437248348161-8-1442083238 - Holdem no limit (15/30) - 2015/09/12 18:40:38 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #1 is the button
+Seat 1: loubiel (1465)
+Seat 2: AAFlo777 (1590)
+Seat 3: Bikon13 (1420)
+Seat 4: cerbere70 (1470)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1470)
+Seat 7: placebo (1440)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 15
+Bikon13 posts big blind 30
+Dealt to sabre_laser [4s Jh]
+*** PRE-FLOP *** 
+cerbere70 folds
+sabre_laser folds
+stanxgame raises 30 to 60
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 calls 30
+*** FLOP *** [3s 7d 9s]
+Bikon13 checks
+stanxgame bets 68
+Bikon13 folds
+stanxgame collected 203 from pot
+*** SUMMARY ***
+Total pot 203 | No rake
+Board: [3s 7d 9s]
+Seat 6: stanxgame won 203
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560651437248348161-9-1442083286 - Holdem no limit (15/30) - 2015/09/12 18:41:26 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #2 is the button
+Seat 1: loubiel (1465)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1360)
+Seat 4: cerbere70 (1470)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1545)
+Seat 7: placebo (1440)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 15
+cerbere70 posts big blind 30
+Dealt to sabre_laser [Jh 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame raises 30 to 60
+placebo calls 60
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 calls 30
+*** FLOP *** [Th 9s Ah]
+cerbere70 checks
+stanxgame checks
+placebo bets 1380 and is all-in
+cerbere70 folds
+stanxgame folds
+placebo collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [Th 9s Ah]
+Seat 7: placebo won 1575
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560651437248348161-10-1442083369 - Holdem no limit (20/40) - 2015/09/12 18:42:49 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 1: loubiel (1465)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1410)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1485)
+Seat 7: placebo (1575)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+cerbere70 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [6s 7c]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours raises 100 to 140
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+benlours collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 10: benlours won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560651437248348161-11-1442083442 - Holdem no limit (20/40) - 2015/09/12 18:44:02 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #4 is the button
+Seat 1: loubiel (1465)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1415)
+Seat 6: stanxgame (1485)
+Seat 7: placebo (1575)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1830)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+stanxgame posts big blind 40
+Dealt to sabre_laser [7d Kc]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours raises 160 to 200
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+benlours collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 10: benlours won 260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560651437248348161-12-1442083559 - Holdem no limit (20/40) - 2015/09/12 18:45:59 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 1: loubiel (1465)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1395)
+Seat 6: stanxgame (1445)
+Seat 7: placebo (1575)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1890)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 20
+placebo posts big blind 40
+Dealt to sabre_laser [9d 5d]
+*** PRE-FLOP *** 
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser raises 40 to 80
+stanxgame folds
+placebo folds
+sabre_laser collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 5: sabre_laser (button) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560651437248348161-13-1442083609 - Holdem no limit (20/40) - 2015/09/12 18:46:49 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 1: loubiel (1465)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1425)
+Seat 7: placebo (1535)
+Seat 8: PALHACO79 (1465)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1890)
+*** ANTE/BLINDS ***
+placebo posts small blind 20
+PALHACO79 posts big blind 40
+Dealt to sabre_laser [6d 4h]
+*** PRE-FLOP *** 
+PHENIX 21500 folds
+benlours folds
+loubiel raises 1425 to 1465 and is all-in
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+loubiel shows [Jd Ad] (High card : Ace)
+loubiel collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Seat 1: loubiel showed [Jd Ad] and won 1525 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560651437248348161-14-1442083659 - Holdem no limit (30/60) - 2015/09/12 18:47:39 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 1: loubiel (1525)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1425)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1425)
+Seat 9: PHENIX 21500 (1455)
+Seat 10: benlours (1890)
+*** ANTE/BLINDS ***
+PALHACO79 posts small blind 30
+PHENIX 21500 posts big blind 60
+Dealt to sabre_laser [Ts 6d]
+*** PRE-FLOP *** 
+benlours folds
+loubiel calls 60
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame raises 120 to 180
+placebo folds
+PALHACO79 folds
+PHENIX 21500 calls 120
+loubiel calls 120
+*** FLOP *** [6c 2s 4d]
+PHENIX 21500 checks
+loubiel bets 1345 and is all-in
+stanxgame folds
+PHENIX 21500 folds
+loubiel shows [6h Ad] (One pair : 6)
+loubiel collected 1915 from pot
+*** SUMMARY ***
+Total pot 1915 | No rake
+Board: [6c 2s 4d]
+Seat 1: loubiel showed [6h Ad] and won 1915 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560651437248348161-15-1442083742 - Holdem no limit (30/60) - 2015/09/12 18:49:02 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 1: loubiel (1915)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1245)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1275)
+Seat 10: benlours (1890)
+*** ANTE/BLINDS ***
+PHENIX 21500 posts small blind 30
+benlours posts big blind 60
+Dealt to sabre_laser [8c 6s]
+*** PRE-FLOP *** 
+loubiel calls 60
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours checks
+*** FLOP *** [Tc Td 3d]
+benlours checks
+loubiel bets 1855 and is all-in
+benlours folds
+loubiel shows [8d 5d] (One pair : Tens)
+loubiel collected 2005 from pot
+*** SUMMARY ***
+Total pot 2005 | No rake
+Board: [Tc Td 3d]
+Seat 1: loubiel showed [8d 5d] and won 2005 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560651437248348161-16-1442083789 - Holdem no limit (30/60) - 2015/09/12 18:49:49 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #9 is the button
+Seat 1: loubiel (2005)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1455)
+Seat 6: stanxgame (1245)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1830)
+*** ANTE/BLINDS ***
+benlours posts small blind 30
+loubiel posts big blind 60
+Dealt to sabre_laser [8d 7d]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser calls 60
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours calls 30
+loubiel checks
+*** FLOP *** [6s Kd 5s]
+benlours checks
+loubiel bets 510
+sabre_laser folds
+benlours folds
+loubiel shows [8s As] (High card : Ace)
+loubiel collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [6s Kd 5s]
+Seat 1: loubiel (big blind) showed [8s As] and won 690 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560651437248348161-17-1442083871 - Holdem no limit (30/60) - 2015/09/12 18:51:11 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 1: loubiel (2125)
+Seat 2: AAFlo777 (1575)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1395)
+Seat 6: stanxgame (1245)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+loubiel posts small blind 30
+AAFlo777 posts big blind 60
+Dealt to sabre_laser [Ac Ks]
+*** PRE-FLOP *** 
+Bikon13 folds
+cerbere70 folds
+sabre_laser raises 90 to 150
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel calls 120
+AAFlo777 folds
+*** FLOP *** [Qd 6c 2s]
+loubiel checks
+sabre_laser checks
+*** TURN *** [Qd 6c 2s][7c]
+loubiel checks
+sabre_laser bets 270
+loubiel folds
+sabre_laser collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qd 6c 2s 7c]
+Seat 5: sabre_laser won 630
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560651437248348161-18-1442083948 - Holdem no limit (30/60) - 2015/09/12 18:52:28 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #1 is the button
+Seat 1: loubiel (1975)
+Seat 2: AAFlo777 (1515)
+Seat 3: Bikon13 (1345)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1605)
+Seat 6: stanxgame (1245)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 30
+Bikon13 posts big blind 60
+Dealt to sabre_laser [Ts 6s]
+*** PRE-FLOP *** 
+cerbere70 folds
+sabre_laser folds
+stanxgame raises 90 to 150
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+stanxgame collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: stanxgame won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560651437248348161-19-1442083976 - Holdem no limit (30/60) - 2015/09/12 18:52:56 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #2 is the button
+Seat 1: loubiel (1975)
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1285)
+Seat 4: cerbere70 (1390)
+Seat 5: sabre_laser (1605)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 30
+cerbere70 posts big blind 60
+Dealt to sabre_laser [Th Ac]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: cerbere70 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560651437248348161-20-1442084016 - Holdem no limit (40/80) - 2015/09/12 18:53:36 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 1: loubiel (1975)
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1255)
+Seat 4: cerbere70 (1420)
+Seat 5: sabre_laser (1605)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+cerbere70 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [6d 6h]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 calls 40
+sabre_laser checks
+*** FLOP *** [Jc 2d 7s]
+cerbere70 bets 80
+sabre_laser folds
+cerbere70 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jc 2d 7s]
+Seat 4: cerbere70 (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560651437248348161-21-1442084075 - Holdem no limit (40/80) - 2015/09/12 18:54:35 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #4 is the button
+Seat 1: loubiel (1975)
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1255)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1525)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+stanxgame posts big blind 80
+Dealt to sabre_laser [6c 8d]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 raises 1315 to 1395 and is all-in
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+PALHACO79 collected 1515 from pot
+*** SUMMARY ***
+Total pot 1515 | No rake
+Seat 8: PALHACO79 won 1515
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560651437248348161-22-1442084130 - Holdem no limit (40/80) - 2015/09/12 18:55:30 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 1: loubiel (1975)
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1255)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1485)
+Seat 6: stanxgame (1255)
+Seat 7: placebo (1515)
+Seat 8: PALHACO79 (1515)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 40
+placebo posts big blind 80
+Dealt to sabre_laser [6s 2s]
+*** PRE-FLOP *** 
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+loubiel folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame raises 120 to 200
+placebo folds
+stanxgame collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: stanxgame (small blind) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560651437248348161-23-1442084192 - Holdem no limit (40/80) - 2015/09/12 18:56:32 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 1: loubiel (1975)
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1255)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1485)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1435)
+Seat 8: PALHACO79 (1515)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (1770)
+*** ANTE/BLINDS ***
+placebo posts small blind 40
+PALHACO79 posts big blind 80
+Dealt to sabre_laser [Jh Th]
+*** PRE-FLOP *** 
+PHENIX 21500 folds
+benlours raises 1690 to 1770 and is all-in
+loubiel raises 205 to 1975 and is all-in
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+*** FLOP *** [8h Tc 4h]
+*** TURN *** [8h Tc 4h][8d]
+*** RIVER *** [8h Tc 4h 8d][2c]
+*** SHOW DOWN ***
+benlours shows [Qs Qh] (Two pairs : Queens and 8)
+loubiel shows [Jc Ad] (One pair : 8)
+loubiel collected 205 from side pot 1
+benlours collected 3660 from main pot
+*** SUMMARY ***
+Total pot 3865 | No rake
+Board: [8h Tc 4h 8d 2c]
+Seat 1: loubiel showed [Jc Ad] and won 205 with One pair : 8
+Seat 10: benlours showed [Qs Qh] and won 3660 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560651437248348161-24-1442084229 - Holdem no limit (40/80) - 2015/09/12 18:57:09 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 1: loubiel (205)
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1255)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1485)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1435)
+Seat 9: PHENIX 21500 (1245)
+Seat 10: benlours (3660)
+*** ANTE/BLINDS ***
+PALHACO79 posts small blind 40
+PHENIX 21500 posts big blind 80
+Dealt to sabre_laser [4s 7h]
+*** PRE-FLOP *** 
+benlours folds
+loubiel raises 125 to 205 and is all-in
+AAFlo777 folds
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 calls 125
+*** FLOP *** [6c Qh 2c]
+*** TURN *** [6c Qh 2c][5s]
+*** RIVER *** [6c Qh 2c 5s][As]
+*** SHOW DOWN ***
+loubiel shows [Jc 7s] (High card : Ace)
+PHENIX 21500 shows [Ad Th] (One pair : Aces)
+PHENIX 21500 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [6c Qh 2c 5s As]
+Seat 1: loubiel showed [Jc 7s] and lost with High card : Ace
+Seat 9: PHENIX 21500 (big blind) showed [Ad Th] and won 450 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560651437248348161-25-1442084291 - Holdem no limit (40/80) - 2015/09/12 18:58:11 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1255)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1485)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1490)
+Seat 10: benlours (3660)
+*** ANTE/BLINDS ***
+PHENIX 21500 posts small blind 40
+benlours posts big blind 80
+Dealt to sabre_laser [Td Ad]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Bikon13 calls 80
+cerbere70 folds
+sabre_laser raises 120 to 200
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+Bikon13 folds
+sabre_laser collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 5: sabre_laser won 400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560651437248348161-26-1442084367 - Holdem no limit (40/80) - 2015/09/12 18:59:27 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #9 is the button
+Seat 2: AAFlo777 (1485)
+Seat 3: Bikon13 (1175)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1685)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1450)
+Seat 10: benlours (3580)
+*** ANTE/BLINDS ***
+benlours posts small blind 40
+AAFlo777 posts big blind 80
+Dealt to sabre_laser [5h 9h]
+*** PRE-FLOP *** 
+Bikon13 folds
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+AAFlo777 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: AAFlo777 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560651437248348161-27-1442084397 - Holdem no limit (60/120) - 2015/09/12 18:59:57 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 2: AAFlo777 (1525)
+Seat 3: Bikon13 (1175)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1685)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1450)
+Seat 10: benlours (3540)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 60
+Bikon13 posts big blind 120
+Dealt to sabre_laser [Ts 3d]
+*** PRE-FLOP *** 
+cerbere70 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 calls 120
+benlours raises 3420 to 3540 and is all-in
+AAFlo777 folds
+Bikon13 folds
+PHENIX 21500 folds
+benlours shows [Ah 5c] (High card : Ace)
+benlours collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Seat 10: benlours (button) showed [Ah 5c] and won 3840 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560651437248348161-28-1442084447 - Holdem no limit (60/120) - 2015/09/12 19:00:47 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #2 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (1055)
+Seat 4: cerbere70 (1500)
+Seat 5: sabre_laser (1685)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1330)
+Seat 10: benlours (3840)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 60
+cerbere70 posts big blind 120
+Dealt to sabre_laser [Qh 9s]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: cerbere70 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560651437248348161-29-1442084491 - Holdem no limit (60/120) - 2015/09/12 19:01:31 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (995)
+Seat 4: cerbere70 (1560)
+Seat 5: sabre_laser (1685)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1330)
+Seat 10: benlours (3840)
+*** ANTE/BLINDS ***
+cerbere70 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3c 2c]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 calls 60
+sabre_laser checks
+*** FLOP *** [2d 3h Td]
+cerbere70 bets 180
+sabre_laser raises 180 to 360
+cerbere70 calls 180
+*** TURN *** [2d 3h Td][5h]
+cerbere70 checks
+sabre_laser checks
+*** RIVER *** [2d 3h Td 5h][4s]
+cerbere70 checks
+sabre_laser checks
+*** SHOW DOWN ***
+cerbere70 shows [9h Ts] (One pair : Tens)
+sabre_laser shows [3c 2c] (Two pairs : 3 and 2)
+sabre_laser collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [2d 3h Td 5h 4s]
+Seat 4: cerbere70 (small blind) showed [9h Ts] and lost with One pair : Tens
+Seat 5: sabre_laser (big blind) showed [3c 2c] and won 960 with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560651437248348161-30-1442084559 - Holdem no limit (60/120) - 2015/09/12 19:02:39 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #4 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (995)
+Seat 4: cerbere70 (1080)
+Seat 5: sabre_laser (2165)
+Seat 6: stanxgame (1335)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1330)
+Seat 10: benlours (3840)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+stanxgame posts big blind 120
+Dealt to sabre_laser [2c Kd]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+AAFlo777 folds
+Bikon13 folds
+cerbere70 raises 960 to 1080 and is all-in
+sabre_laser folds
+stanxgame calls 960
+*** FLOP *** [8c 9d As]
+*** TURN *** [8c 9d As][7h]
+*** RIVER *** [8c 9d As 7h][3d]
+*** SHOW DOWN ***
+cerbere70 shows [Jd Ks] (High card : Ace)
+stanxgame shows [Ad Kh] (One pair : Aces)
+stanxgame collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [8c 9d As 7h 3d]
+Seat 4: cerbere70 (button) showed [Jd Ks] and lost with High card : Ace
+Seat 6: stanxgame (big blind) showed [Ad Kh] and won 2220 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560651437248348161-31-1442084606 - Holdem no limit (60/120) - 2015/09/12 19:03:26 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (995)
+Seat 5: sabre_laser (2105)
+Seat 6: stanxgame (2475)
+Seat 7: placebo (1395)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1330)
+Seat 10: benlours (3840)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 60
+placebo posts big blind 120
+Dealt to sabre_laser [3c 5c]
+*** PRE-FLOP *** 
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+AAFlo777 folds
+Bikon13 raises 875 to 995 and is all-in
+sabre_laser folds
+stanxgame folds
+placebo folds
+Bikon13 collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | No rake
+Seat 3: Bikon13 won 1175
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560651437248348161-32-1442084680 - Holdem no limit (60/120) - 2015/09/12 19:04:40 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (2105)
+Seat 6: stanxgame (2415)
+Seat 7: placebo (1275)
+Seat 8: PALHACO79 (1395)
+Seat 9: PHENIX 21500 (1330)
+Seat 10: benlours (3840)
+*** ANTE/BLINDS ***
+placebo posts small blind 60
+PALHACO79 posts big blind 120
+Dealt to sabre_laser [2h 8h]
+*** PRE-FLOP *** 
+PHENIX 21500 raises 120 to 240
+benlours folds
+AAFlo777 folds
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 9: PHENIX 21500 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560651437248348161-33-1442084761 - Holdem no limit (80/160) - 2015/09/12 19:06:01 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (2105)
+Seat 6: stanxgame (2415)
+Seat 7: placebo (1215)
+Seat 8: PALHACO79 (1275)
+Seat 9: PHENIX 21500 (1510)
+Seat 10: benlours (3840)
+*** ANTE/BLINDS ***
+PALHACO79 posts small blind 80
+PHENIX 21500 posts big blind 160
+Dealt to sabre_laser [4h Ad]
+*** PRE-FLOP *** 
+benlours folds
+AAFlo777 folds
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: PHENIX 21500 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560651437248348161-34-1442084814 - Holdem no limit (80/160) - 2015/09/12 19:06:54 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (2105)
+Seat 6: stanxgame (2415)
+Seat 7: placebo (1215)
+Seat 8: PALHACO79 (1195)
+Seat 9: PHENIX 21500 (1590)
+Seat 10: benlours (3840)
+*** ANTE/BLINDS ***
+PHENIX 21500 posts small blind 80
+benlours posts big blind 160
+Dealt to sabre_laser [8s Ah]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 10: benlours (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560651437248348161-35-1442084867 - Holdem no limit (80/160) - 2015/09/12 19:07:47 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #9 is the button
+Seat 2: AAFlo777 (1465)
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (2105)
+Seat 6: stanxgame (2415)
+Seat 7: placebo (1215)
+Seat 8: PALHACO79 (1195)
+Seat 9: PHENIX 21500 (1510)
+Seat 10: benlours (3920)
+*** ANTE/BLINDS ***
+benlours posts small blind 80
+AAFlo777 posts big blind 160
+Dealt to sabre_laser [Tc Qd]
+*** PRE-FLOP *** 
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours raises 160 to 320
+AAFlo777 raises 1145 to 1465 and is all-in
+benlours raises 2455 to 3920 and is all-in
+*** FLOP *** [2h 5d Kh]
+*** TURN *** [2h 5d Kh][Ac]
+*** RIVER *** [2h 5d Kh Ac][Qc]
+*** SHOW DOWN ***
+AAFlo777 shows [9c 9s] (One pair : 9)
+benlours shows [7h As] (One pair : Aces)
+benlours collected 5385 from pot
+*** SUMMARY ***
+Total pot 5385 | No rake
+Board: [2h 5d Kh Ac Qc]
+Seat 2: AAFlo777 (big blind) showed [9c 9s] and lost with One pair : 9
+Seat 10: benlours (small blind) showed [7h As] and won 5385 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560651437248348161-36-1442084922 - Holdem no limit (80/160) - 2015/09/12 19:08:42 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (2105)
+Seat 6: stanxgame (2415)
+Seat 7: placebo (1215)
+Seat 8: PALHACO79 (1195)
+Seat 9: PHENIX 21500 (1510)
+Seat 10: benlours (5385)
+*** ANTE/BLINDS ***
+Bikon13 posts big blind 160
+Dealt to sabre_laser [6d 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours raises 5225 to 5385 and is all-in
+Bikon13 folds
+benlours collected 5545 from pot
+*** SUMMARY ***
+Total pot 5545 | No rake
+Seat 10: benlours (button) won 5545
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560651437248348161-37-1442084984 - Holdem no limit (80/160) - 2015/09/12 19:09:44 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #2 is the button
+Seat 3: Bikon13 (1015)
+Seat 5: sabre_laser (2105)
+Seat 6: stanxgame (2415)
+Seat 7: placebo (1215)
+Seat 8: PALHACO79 (1195)
+Seat 9: PHENIX 21500 (1510)
+Seat 10: benlours (5545)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Tc 6h]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+Bikon13 raises 855 to 1015 and is all-in
+sabre_laser folds
+Bikon13 collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | No rake
+Seat 3: Bikon13 (small blind) won 1175
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560651437248348161-38-1442085040 - Holdem no limit (80/160) - 2015/09/12 19:10:40 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (1945)
+Seat 6: stanxgame (2415)
+Seat 7: placebo (1215)
+Seat 8: PALHACO79 (1195)
+Seat 9: PHENIX 21500 (1510)
+Seat 10: benlours (5545)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+stanxgame posts big blind 160
+Dealt to sabre_laser [9d 8h]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: stanxgame (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560651437248348161-39-1442085076 - Holdem no limit (80/160) - 2015/09/12 19:11:16 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (1865)
+Seat 6: stanxgame (2495)
+Seat 7: placebo (1215)
+Seat 8: PALHACO79 (1195)
+Seat 9: PHENIX 21500 (1510)
+Seat 10: benlours (5545)
+*** ANTE/BLINDS ***
+stanxgame posts small blind 80
+placebo posts big blind 160
+Dealt to sabre_laser [9s Qs]
+*** PRE-FLOP *** 
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame raises 160 to 320
+placebo folds
+stanxgame collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 6: stanxgame (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-40-1442085115 - Holdem no limit (10/100/200) - 2015/09/12 19:11:55 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Bikon13 (1175)
+Seat 5: sabre_laser (1865)
+Seat 6: stanxgame (2655)
+Seat 7: placebo (1055)
+Seat 8: PALHACO79 (1195)
+Seat 9: PHENIX 21500 (1510)
+Seat 10: benlours (5545)
+*** ANTE/BLINDS ***
+placebo posts ante 10
+PALHACO79 posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+stanxgame posts ante 10
+PHENIX 21500 posts ante 10
+benlours posts ante 10
+placebo posts small blind 100
+PALHACO79 posts big blind 200
+Dealt to sabre_laser [Kc 3d]
+*** PRE-FLOP *** 
+PHENIX 21500 calls 200
+benlours raises 5335 to 5535 and is all-in
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours shows [Kd Ah] (High card : Ace)
+benlours collected 6105 from pot
+*** SUMMARY ***
+Total pot 6105 | No rake
+Seat 10: benlours showed [Kd Ah] and won 6105 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-41-1442085174 - Holdem no limit (10/100/200) - 2015/09/12 19:12:54 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 3: Bikon13 (1165)
+Seat 5: sabre_laser (1855)
+Seat 6: stanxgame (2645)
+Seat 7: placebo (945)
+Seat 8: PALHACO79 (985)
+Seat 9: PHENIX 21500 (1300)
+Seat 10: benlours (6105)
+*** ANTE/BLINDS ***
+PALHACO79 posts ante 10
+PHENIX 21500 posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+stanxgame posts ante 10
+placebo posts ante 10
+benlours posts ante 10
+PALHACO79 posts small blind 100
+PHENIX 21500 posts big blind 200
+Dealt to sabre_laser [Th 7h]
+*** PRE-FLOP *** 
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 raises 775 to 975 and is all-in
+PHENIX 21500 raises 315 to 1290 and is all-in
+*** FLOP *** [Js 7s 6h]
+*** TURN *** [Js 7s 6h][Kc]
+*** RIVER *** [Js 7s 6h Kc][3c]
+*** SHOW DOWN ***
+PALHACO79 shows [Ad Jc] (One pair : Jacks)
+PHENIX 21500 shows [Jd Ac] (One pair : Jacks)
+PHENIX 21500 collected 1325 from side pot 1
+PALHACO79 collected 1010 from main pot
+*** SUMMARY ***
+Total pot 2335 | No rake
+Board: [Js 7s 6h Kc 3c]
+Seat 8: PALHACO79 (small blind) showed [Ad Jc] and won 1010 with One pair : Jacks
+Seat 9: PHENIX 21500 (big blind) showed [Jd Ac] and won 1325 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-42-1442085218 - Holdem no limit (10/100/200) - 2015/09/12 19:13:38 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Bikon13 (1155)
+Seat 5: sabre_laser (1845)
+Seat 6: stanxgame (2635)
+Seat 7: placebo (935)
+Seat 8: PALHACO79 (1010)
+Seat 9: PHENIX 21500 (1325)
+Seat 10: benlours (6095)
+*** ANTE/BLINDS ***
+PHENIX 21500 posts ante 10
+benlours posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+stanxgame posts ante 10
+placebo posts ante 10
+PALHACO79 posts ante 10
+PHENIX 21500 posts small blind 100
+benlours posts big blind 200
+Dealt to sabre_laser [Ks 9h]
+*** PRE-FLOP *** 
+Bikon13 folds
+sabre_laser folds
+stanxgame raises 200 to 400
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+stanxgame collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 6: stanxgame won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-43-1442085268 - Holdem no limit (10/100/200) - 2015/09/12 19:14:28 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #9 is the button
+Seat 3: Bikon13 (1145)
+Seat 5: sabre_laser (1835)
+Seat 6: stanxgame (2995)
+Seat 7: placebo (925)
+Seat 8: PALHACO79 (1000)
+Seat 9: PHENIX 21500 (1215)
+Seat 10: benlours (5885)
+*** ANTE/BLINDS ***
+benlours posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+stanxgame posts ante 10
+placebo posts ante 10
+PALHACO79 posts ante 10
+PHENIX 21500 posts ante 10
+benlours posts small blind 100
+Bikon13 posts big blind 200
+Dealt to sabre_laser [6s 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours raises 5675 to 5875 and is all-in
+Bikon13 folds
+benlours shows [Jc Kc] (High card : King)
+benlours collected 6145 from pot
+*** SUMMARY ***
+Total pot 6145 | No rake
+Seat 10: benlours (small blind) showed [Jc Kc] and won 6145 with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-44-1442085309 - Holdem no limit (10/100/200) - 2015/09/12 19:15:09 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 3: Bikon13 (935)
+Seat 5: sabre_laser (1825)
+Seat 6: stanxgame (2985)
+Seat 7: placebo (915)
+Seat 8: PALHACO79 (990)
+Seat 9: PHENIX 21500 (1205)
+Seat 10: benlours (6145)
+*** ANTE/BLINDS ***
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+stanxgame posts ante 10
+placebo posts ante 10
+PALHACO79 posts ante 10
+PHENIX 21500 posts ante 10
+benlours posts ante 10
+Bikon13 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [2d Ah]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 folds
+PHENIX 21500 folds
+benlours folds
+Bikon13 folds
+sabre_laser collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 5: sabre_laser (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-45-1442085333 - Holdem no limit (10/100/200) - 2015/09/12 19:15:33 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Bikon13 (825)
+Seat 5: sabre_laser (1985)
+Seat 6: stanxgame (2975)
+Seat 7: placebo (905)
+Seat 8: PALHACO79 (980)
+Seat 9: PHENIX 21500 (1195)
+Seat 10: benlours (6135)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+stanxgame posts ante 10
+Bikon13 posts ante 10
+placebo posts ante 10
+PALHACO79 posts ante 10
+PHENIX 21500 posts ante 10
+benlours posts ante 10
+sabre_laser posts small blind 100
+stanxgame posts big blind 200
+Dealt to sabre_laser [Kd 7c]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+PHENIX 21500 calls 200
+benlours folds
+Bikon13 raises 615 to 815 and is all-in
+sabre_laser folds
+stanxgame folds
+PHENIX 21500 calls 615
+*** FLOP *** [3h Qd Jh]
+*** TURN *** [3h Qd Jh][Jd]
+*** RIVER *** [3h Qd Jh Jd][6d]
+*** SHOW DOWN ***
+PHENIX 21500 shows [8h 7h] (One pair : Jacks)
+Bikon13 shows [Tc Th] (Two pairs : Jacks and Tens)
+Bikon13 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [3h Qd Jh Jd 6d]
+Seat 3: Bikon13 (button) showed [Tc Th] and won 2000 with Two pairs : Jacks and Tens
+Seat 9: PHENIX 21500 showed [8h 7h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-46-1442085379 - Holdem no limit (10/100/200) - 2015/09/12 19:16:19 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 3: Bikon13 (2000)
+Seat 5: sabre_laser (1875)
+Seat 6: stanxgame (2765)
+Seat 7: placebo (895)
+Seat 8: PALHACO79 (970)
+Seat 9: PHENIX 21500 (370)
+Seat 10: benlours (6125)
+*** ANTE/BLINDS ***
+stanxgame posts ante 10
+placebo posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+PALHACO79 posts ante 10
+PHENIX 21500 posts ante 10
+benlours posts ante 10
+stanxgame posts small blind 100
+placebo posts big blind 200
+Dealt to sabre_laser [3s 2d]
+*** PRE-FLOP *** 
+PALHACO79 folds
+PHENIX 21500 raises 160 to 360 and is all-in
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo calls 160
+*** FLOP *** [6d 4c As]
+*** TURN *** [6d 4c As][Ts]
+*** RIVER *** [6d 4c As Ts][7h]
+*** SHOW DOWN ***
+PHENIX 21500 shows [7d 9d] (One pair : 7)
+placebo shows [Qd Tc] (One pair : Tens)
+placebo collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [6d 4c As Ts 7h]
+Seat 7: placebo (big blind) showed [Qd Tc] and won 890 with One pair : Tens
+Seat 9: PHENIX 21500 showed [7d 9d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-47-1442085431 - Holdem no limit (10/100/200) - 2015/09/12 19:17:11 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Bikon13 (1990)
+Seat 5: sabre_laser (1865)
+Seat 6: stanxgame (2655)
+Seat 7: placebo (1415)
+Seat 8: PALHACO79 (960)
+Seat 10: benlours (6115)
+*** ANTE/BLINDS ***
+placebo posts ante 10
+PALHACO79 posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+stanxgame posts ante 10
+benlours posts ante 10
+placebo posts small blind 100
+PALHACO79 posts big blind 200
+Dealt to sabre_laser [Kd Tc]
+*** PRE-FLOP *** 
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 8: PALHACO79 (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560651437248348161-48-1442085450 - Holdem no limit (10/100/200) - 2015/09/12 19:17:30 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 3: Bikon13 (1980)
+Seat 5: sabre_laser (1855)
+Seat 6: stanxgame (2645)
+Seat 7: placebo (1305)
+Seat 8: PALHACO79 (1110)
+Seat 10: benlours (6105)
+*** ANTE/BLINDS ***
+PALHACO79 posts ante 10
+benlours posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+stanxgame posts ante 10
+placebo posts ante 10
+PALHACO79 posts small blind 100
+benlours posts big blind 200
+Dealt to sabre_laser [5c 3s]
+*** PRE-FLOP *** 
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+benlours collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 10: benlours (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-49-1442085491 - Holdem no limit (20/150/300) - 2015/09/12 19:18:11 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Bikon13 (1970)
+Seat 5: sabre_laser (1845)
+Seat 6: stanxgame (2635)
+Seat 7: placebo (1295)
+Seat 8: PALHACO79 (1000)
+Seat 10: benlours (6255)
+*** ANTE/BLINDS ***
+benlours posts ante 20
+Bikon13 posts ante 20
+sabre_laser posts ante 20
+stanxgame posts ante 20
+placebo posts ante 20
+PALHACO79 posts ante 20
+benlours posts small blind 150
+Bikon13 posts big blind 300
+Dealt to sabre_laser [4d 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame raises 300 to 600
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+stanxgame collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 6: stanxgame won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-50-1442085561 - Holdem no limit (20/150/300) - 2015/09/12 19:19:21 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 3: Bikon13 (1650)
+Seat 5: sabre_laser (1825)
+Seat 6: stanxgame (3185)
+Seat 7: placebo (1275)
+Seat 8: PALHACO79 (980)
+Seat 10: benlours (6085)
+*** ANTE/BLINDS ***
+Bikon13 posts ante 20
+sabre_laser posts ante 20
+stanxgame posts ante 20
+placebo posts ante 20
+PALHACO79 posts ante 20
+benlours posts ante 20
+Bikon13 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [7c 4h]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+sabre_laser collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 5: sabre_laser (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-51-1442085591 - Holdem no limit (20/150/300) - 2015/09/12 19:19:51 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Bikon13 (1480)
+Seat 5: sabre_laser (2075)
+Seat 6: stanxgame (3165)
+Seat 7: placebo (1255)
+Seat 8: PALHACO79 (960)
+Seat 10: benlours (6065)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+stanxgame posts ante 20
+Bikon13 posts ante 20
+placebo posts ante 20
+PALHACO79 posts ante 20
+benlours posts ante 20
+sabre_laser posts small blind 150
+stanxgame posts big blind 300
+Dealt to sabre_laser [Ah 8s]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 raises 1160 to 1460 and is all-in
+sabre_laser folds
+stanxgame folds
+Bikon13 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Seat 3: Bikon13 (button) won 2030
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-52-1442085641 - Holdem no limit (20/150/300) - 2015/09/12 19:20:41 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 3: Bikon13 (2030)
+Seat 5: sabre_laser (1905)
+Seat 6: stanxgame (2845)
+Seat 7: placebo (1235)
+Seat 8: PALHACO79 (940)
+Seat 10: benlours (6045)
+*** ANTE/BLINDS ***
+stanxgame posts ante 20
+placebo posts ante 20
+Bikon13 posts ante 20
+sabre_laser posts ante 20
+PALHACO79 posts ante 20
+benlours posts ante 20
+stanxgame posts small blind 150
+placebo posts big blind 300
+Dealt to sabre_laser [Jh Js]
+*** PRE-FLOP *** 
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+sabre_laser raises 1585 to 1885 and is all-in
+stanxgame folds
+placebo folds
+sabre_laser collected 2455 from pot
+*** SUMMARY ***
+Total pot 2455 | No rake
+Seat 5: sabre_laser (button) won 2455
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-53-1442085661 - Holdem no limit (20/150/300) - 2015/09/12 19:21:01 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Bikon13 (2010)
+Seat 5: sabre_laser (2455)
+Seat 6: stanxgame (2675)
+Seat 7: placebo (915)
+Seat 8: PALHACO79 (920)
+Seat 10: benlours (6025)
+*** ANTE/BLINDS ***
+placebo posts ante 20
+PALHACO79 posts ante 20
+Bikon13 posts ante 20
+sabre_laser posts ante 20
+stanxgame posts ante 20
+benlours posts ante 20
+placebo posts small blind 150
+PALHACO79 posts big blind 300
+Dealt to sabre_laser [2h 8h]
+*** PRE-FLOP *** 
+benlours raises 5705 to 6005 and is all-in
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 calls 600 and is all-in
+*** FLOP *** [9s 9h 7s]
+*** TURN *** [9s 9h 7s][2s]
+*** RIVER *** [9s 9h 7s 2s][8c]
+*** SHOW DOWN ***
+PALHACO79 shows [Ac Qh] (One pair : 9)
+benlours shows [Ad Qs] (One pair : 9)
+benlours collected 6140 from side pot 1
+PALHACO79 collected 1035 from main pot
+*** SUMMARY ***
+Total pot 7175 | No rake
+Board: [9s 9h 7s 2s 8c]
+Seat 8: PALHACO79 (big blind) showed [Ac Qh] and won 1035 with One pair : 9
+Seat 10: benlours showed [Ad Qs] and won 6140 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-54-1442085688 - Holdem no limit (20/150/300) - 2015/09/12 19:21:28 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 3: Bikon13 (1990)
+Seat 5: sabre_laser (2435)
+Seat 6: stanxgame (2655)
+Seat 7: placebo (745)
+Seat 8: PALHACO79 (1035)
+Seat 10: benlours (6140)
+*** ANTE/BLINDS ***
+PALHACO79 posts ante 20
+benlours posts ante 20
+Bikon13 posts ante 20
+sabre_laser posts ante 20
+stanxgame posts ante 20
+placebo posts ante 20
+PALHACO79 posts small blind 150
+benlours posts big blind 300
+Dealt to sabre_laser [Kc 2h]
+*** PRE-FLOP *** 
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+benlours collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 10: benlours (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-55-1442085737 - Holdem no limit (20/150/300) - 2015/09/12 19:22:17 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Bikon13 (1970)
+Seat 5: sabre_laser (2415)
+Seat 6: stanxgame (2635)
+Seat 7: placebo (725)
+Seat 8: PALHACO79 (865)
+Seat 10: benlours (6390)
+*** ANTE/BLINDS ***
+benlours posts ante 20
+Bikon13 posts ante 20
+sabre_laser posts ante 20
+stanxgame posts ante 20
+placebo posts ante 20
+PALHACO79 posts ante 20
+benlours posts small blind 150
+Bikon13 posts big blind 300
+Dealt to sabre_laser [5h Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 raises 545 to 845 and is all-in
+benlours raises 5525 to 6370 and is all-in
+Bikon13 folds
+*** FLOP *** [2c Ks 3d]
+*** TURN *** [2c Ks 3d][6c]
+*** RIVER *** [2c Ks 3d 6c][3s]
+*** SHOW DOWN ***
+PALHACO79 shows [Kc Qd] (Two pairs : Kings and 3)
+benlours shows [Kd Qh] (Two pairs : Kings and 3)
+benlours collected 6580 from side pot 1
+PALHACO79 collected 1055 from main pot
+*** SUMMARY ***
+Total pot 7635 | No rake
+Board: [2c Ks 3d 6c 3s]
+Seat 8: PALHACO79 (button) showed [Kc Qd] and won 1055 with Two pairs : Kings and 3
+Seat 10: benlours (small blind) showed [Kd Qh] and won 6580 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560651437248348161-56-1442085802 - Holdem no limit (20/150/300) - 2015/09/12 19:23:22 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 3: Bikon13 (1650)
+Seat 5: sabre_laser (2395)
+Seat 6: stanxgame (2615)
+Seat 7: placebo (705)
+Seat 8: PALHACO79 (1055)
+Seat 10: benlours (6580)
+*** ANTE/BLINDS ***
+Bikon13 posts ante 20
+sabre_laser posts ante 20
+stanxgame posts ante 20
+placebo posts ante 20
+PALHACO79 posts ante 20
+benlours posts ante 20
+Bikon13 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Kh Ad]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+sabre_laser collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 5: sabre_laser (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-57-1442085823 - Holdem no limit (50/200/400) - 2015/09/12 19:23:43 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Bikon13 (1480)
+Seat 5: sabre_laser (2645)
+Seat 6: stanxgame (2595)
+Seat 7: placebo (685)
+Seat 8: PALHACO79 (1035)
+Seat 10: benlours (6560)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+stanxgame posts ante 50
+Bikon13 posts ante 50
+placebo posts ante 50
+PALHACO79 posts ante 50
+benlours posts ante 50
+sabre_laser posts small blind 200
+stanxgame posts big blind 400
+Dealt to sabre_laser [Js Ks]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: stanxgame (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-58-1442085853 - Holdem no limit (50/200/400) - 2015/09/12 19:24:13 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 3: Bikon13 (1430)
+Seat 5: sabre_laser (2395)
+Seat 6: stanxgame (3045)
+Seat 7: placebo (635)
+Seat 8: PALHACO79 (985)
+Seat 10: benlours (6510)
+*** ANTE/BLINDS ***
+stanxgame posts ante 50
+placebo posts ante 50
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+PALHACO79 posts ante 50
+benlours posts ante 50
+stanxgame posts small blind 200
+placebo posts big blind 400
+Dealt to sabre_laser [Kc 6s]
+*** PRE-FLOP *** 
+PALHACO79 folds
+benlours raises 6060 to 6460 and is all-in
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+benlours collected 7360 from pot
+*** SUMMARY ***
+Total pot 7360 | No rake
+Seat 10: benlours won 7360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-59-1442085902 - Holdem no limit (50/200/400) - 2015/09/12 19:25:02 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Bikon13 (1380)
+Seat 5: sabre_laser (2345)
+Seat 6: stanxgame (2795)
+Seat 7: placebo (185)
+Seat 8: PALHACO79 (935)
+Seat 10: benlours (7360)
+*** ANTE/BLINDS ***
+placebo posts ante 50
+PALHACO79 posts ante 50
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+stanxgame posts ante 50
+benlours posts ante 50
+placebo posts small blind 135 and is all-in
+PALHACO79 posts big blind 400
+Dealt to sabre_laser [Ad 2c]
+*** PRE-FLOP *** 
+benlours folds
+Bikon13 folds
+sabre_laser calls 400
+stanxgame folds
+PALHACO79 checks
+*** FLOP *** [9d 8s Qd]
+PALHACO79 checks
+sabre_laser checks
+*** TURN *** [9d 8s Qd][3h]
+PALHACO79 checks
+sabre_laser checks
+*** RIVER *** [9d 8s Qd 3h][7s]
+PALHACO79 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Ad 2c] (High card : Ace)
+placebo shows [Qc 5h] (One pair : Queens)
+PALHACO79 shows [6s 8c] (One pair : 8)
+PALHACO79 collected 530 from side pot 1
+placebo collected 705 from main pot
+*** SUMMARY ***
+Total pot 1235 | No rake
+Board: [9d 8s Qd 3h 7s]
+Seat 5: sabre_laser showed [Ad 2c] and lost with High card : Ace
+Seat 7: placebo (small blind) showed [Qc 5h] and won 705 with One pair : Queens
+Seat 8: PALHACO79 (big blind) showed [6s 8c] and won 530 with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-60-1442085937 - Holdem no limit (50/200/400) - 2015/09/12 19:25:37 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 3: Bikon13 (1330)
+Seat 5: sabre_laser (1895)
+Seat 6: stanxgame (2745)
+Seat 7: placebo (705)
+Seat 8: PALHACO79 (1015)
+Seat 10: benlours (7310)
+*** ANTE/BLINDS ***
+PALHACO79 posts ante 50
+benlours posts ante 50
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+stanxgame posts ante 50
+placebo posts ante 50
+PALHACO79 posts small blind 200
+benlours posts big blind 400
+Dealt to sabre_laser [2d Td]
+*** PRE-FLOP *** 
+Bikon13 folds
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+benlours collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 10: benlours (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-61-1442085955 - Holdem no limit (50/200/400) - 2015/09/12 19:25:55 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Bikon13 (1280)
+Seat 5: sabre_laser (1845)
+Seat 6: stanxgame (2695)
+Seat 7: placebo (655)
+Seat 8: PALHACO79 (765)
+Seat 10: benlours (7760)
+*** ANTE/BLINDS ***
+benlours posts ante 50
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+stanxgame posts ante 50
+placebo posts ante 50
+PALHACO79 posts ante 50
+benlours posts small blind 200
+Bikon13 posts big blind 400
+Dealt to sabre_laser [Ac 4c]
+*** PRE-FLOP *** 
+sabre_laser raises 1395 to 1795 and is all-in
+stanxgame folds
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+sabre_laser collected 2695 from pot
+*** SUMMARY ***
+Total pot 2695 | No rake
+Seat 5: sabre_laser won 2695
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-62-1442086002 - Holdem no limit (50/200/400) - 2015/09/12 19:26:42 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 3: Bikon13 (830)
+Seat 5: sabre_laser (2695)
+Seat 6: stanxgame (2645)
+Seat 7: placebo (605)
+Seat 8: PALHACO79 (715)
+Seat 10: benlours (7510)
+*** ANTE/BLINDS ***
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+stanxgame posts ante 50
+placebo posts ante 50
+PALHACO79 posts ante 50
+benlours posts ante 50
+Bikon13 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [5d 6s]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo folds
+PALHACO79 raises 265 to 665 and is all-in
+benlours folds
+Bikon13 folds
+sabre_laser calls 265
+*** FLOP *** [3d Kd Kc]
+*** TURN *** [3d Kd Kc][3c]
+*** RIVER *** [3d Kd Kc 3c][4s]
+*** SHOW DOWN ***
+sabre_laser shows [5d 6s] (Two pairs : Kings and 3)
+PALHACO79 shows [Ac 5s] (Two pairs : Kings and 3)
+PALHACO79 collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Board: [3d Kd Kc 3c 4s]
+Seat 5: sabre_laser (big blind) showed [5d 6s] and lost with Two pairs : Kings and 3
+Seat 8: PALHACO79 showed [Ac 5s] and won 1830 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-63-1442086046 - Holdem no limit (50/200/400) - 2015/09/12 19:27:26 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Bikon13 (580)
+Seat 5: sabre_laser (1980)
+Seat 6: stanxgame (2595)
+Seat 7: placebo (555)
+Seat 8: PALHACO79 (1830)
+Seat 10: benlours (7460)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+stanxgame posts ante 50
+Bikon13 posts ante 50
+placebo posts ante 50
+PALHACO79 posts ante 50
+benlours posts ante 50
+sabre_laser posts small blind 200
+stanxgame posts big blind 400
+Dealt to sabre_laser [Jc 6d]
+*** PRE-FLOP *** 
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: stanxgame (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-64-1442086076 - Holdem no limit (50/200/400) - 2015/09/12 19:27:56 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #5 is the button
+Seat 3: Bikon13 (530)
+Seat 5: sabre_laser (1730)
+Seat 6: stanxgame (3045)
+Seat 7: placebo (505)
+Seat 8: PALHACO79 (1780)
+Seat 10: benlours (7410)
+*** ANTE/BLINDS ***
+stanxgame posts ante 50
+placebo posts ante 50
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+PALHACO79 posts ante 50
+benlours posts ante 50
+stanxgame posts small blind 200
+placebo posts big blind 400
+Dealt to sabre_laser [9d 2s]
+*** PRE-FLOP *** 
+PALHACO79 folds
+benlours folds
+Bikon13 folds
+sabre_laser folds
+stanxgame raises 400 to 800
+placebo calls 55 and is all-in
+*** FLOP *** [Ks 6c Td]
+*** TURN *** [Ks 6c Td][2h]
+*** RIVER *** [Ks 6c Td 2h][5c]
+*** SHOW DOWN ***
+placebo shows [Ac 8s] (High card : Ace)
+stanxgame shows [Qc 9c] (High card : King)
+stanxgame collected 345 from side pot 1
+placebo collected 1210 from main pot
+*** SUMMARY ***
+Total pot 1555 | No rake
+Board: [Ks 6c Td 2h 5c]
+Seat 6: stanxgame (small blind) showed [Qc 9c] and won 345 with High card : King
+Seat 7: placebo (big blind) showed [Ac 8s] and won 1210 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-65-1442086109 - Holdem no limit (50/200/400) - 2015/09/12 19:28:29 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Bikon13 (480)
+Seat 5: sabre_laser (1680)
+Seat 6: stanxgame (2540)
+Seat 7: placebo (1210)
+Seat 8: PALHACO79 (1730)
+Seat 10: benlours (7360)
+*** ANTE/BLINDS ***
+placebo posts ante 50
+PALHACO79 posts ante 50
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+stanxgame posts ante 50
+benlours posts ante 50
+placebo posts small blind 200
+PALHACO79 posts big blind 400
+Dealt to sabre_laser [Qs Js]
+*** PRE-FLOP *** 
+benlours folds
+Bikon13 raises 30 to 430 and is all-in
+sabre_laser calls 430
+stanxgame folds
+placebo folds
+PALHACO79 calls 30
+*** FLOP *** [4d Kh 2s]
+PALHACO79 checks
+sabre_laser checks
+*** TURN *** [4d Kh 2s][Ac]
+PALHACO79 checks
+sabre_laser checks
+*** RIVER *** [4d Kh 2s Ac][Qc]
+PALHACO79 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Qs Js] (One pair : Queens)
+PALHACO79 shows [8h Tc] (High card : Ace)
+Bikon13 shows [Ah 9d] (One pair : Aces)
+Bikon13 collected 1790 from pot
+*** SUMMARY ***
+Total pot 1790 | No rake
+Board: [4d Kh 2s Ac Qc]
+Seat 3: Bikon13 showed [Ah 9d] and won 1790 with One pair : Aces
+Seat 5: sabre_laser showed [Qs Js] and lost with One pair : Queens
+Seat 8: PALHACO79 (big blind) showed [8h Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560651437248348161-66-1442086151 - Holdem no limit (50/200/400) - 2015/09/12 19:29:11 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #7 is the button
+Seat 3: Bikon13 (1790)
+Seat 5: sabre_laser (1200)
+Seat 6: stanxgame (2490)
+Seat 7: placebo (960)
+Seat 8: PALHACO79 (1250)
+Seat 10: benlours (7310)
+*** ANTE/BLINDS ***
+PALHACO79 posts ante 50
+benlours posts ante 50
+Bikon13 posts ante 50
+sabre_laser posts ante 50
+stanxgame posts ante 50
+placebo posts ante 50
+PALHACO79 posts small blind 200
+benlours posts big blind 400
+Dealt to sabre_laser [8s Qs]
+*** PRE-FLOP *** 
+Bikon13 raises 1340 to 1740 and is all-in
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 folds
+benlours folds
+Bikon13 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 3: Bikon13 won 2640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #560651437248348161-67-1442086180 - Holdem no limit (75/300/600) - 2015/09/12 19:29:40 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Bikon13 (2640)
+Seat 5: sabre_laser (1150)
+Seat 6: stanxgame (2440)
+Seat 7: placebo (910)
+Seat 8: PALHACO79 (1000)
+Seat 10: benlours (6860)
+*** ANTE/BLINDS ***
+benlours posts ante 75
+Bikon13 posts ante 75
+sabre_laser posts ante 75
+stanxgame posts ante 75
+placebo posts ante 75
+PALHACO79 posts ante 75
+benlours posts small blind 300
+Bikon13 posts big blind 600
+Dealt to sabre_laser [5s 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+stanxgame folds
+placebo folds
+PALHACO79 raises 325 to 925 and is all-in
+benlours folds
+Bikon13 folds
+PALHACO79 collected 2275 from pot
+*** SUMMARY ***
+Total pot 2275 | No rake
+Seat 8: PALHACO79 (button) won 2275
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #560651437248348161-68-1442086228 - Holdem no limit (75/300/600) - 2015/09/12 19:30:28 UTC
+Table: 'Double or Nothing(130536835)#0' 10-max (real money) Seat #10 is the button
+Seat 3: Bikon13 (1965)
+Seat 5: sabre_laser (1075)
+Seat 6: stanxgame (2365)
+Seat 7: placebo (835)
+Seat 8: PALHACO79 (2275)
+Seat 10: benlours (6485)
+*** ANTE/BLINDS ***
+Bikon13 posts ante 75
+sabre_laser posts ante 75
+stanxgame posts ante 75
+placebo posts ante 75
+PALHACO79 posts ante 75
+benlours posts ante 75
+Bikon13 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [Ks Js]
+*** PRE-FLOP *** 
+stanxgame folds
+placebo raises 160 to 760 and is all-in
+PALHACO79 folds
+benlours raises 5650 to 6410 and is all-in
+Bikon13 folds
+sabre_laser calls 400 and is all-in
+*** FLOP *** [8h Qs Th]
+*** TURN *** [8h Qs Th][Ts]
+*** RIVER *** [8h Qs Th Ts][3s]
+*** SHOW DOWN ***
+placebo shows [Ad 2d] (One pair : Tens)
+sabre_laser shows [Ks Js] (Flush King high)
+benlours shows [Ac Td] (Trips of Tens)
+benlours collected 5410 from side pot 1
+sabre_laser collected 3510 from main pot
+*** SUMMARY ***
+Total pot 8920 | No rake
+Board: [8h Qs Th Ts 3s]
+Seat 5: sabre_laser (big blind) showed [Ks Js] and won 3510 with Flush King high
+Seat 7: placebo showed [Ad 2d] and lost with One pair : Tens
+Seat 10: benlours (button) showed [Ac Td] and won 5410 with Trips of Tens
+
+

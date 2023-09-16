@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #458789188242767873-1-1421358752 - Holdem no limit (10/20) - 2015/01/15 21:52:32 UTC
+Table: 'Double or Nothing(106820182)#0' 10-max (real money) Seat #8 is the button
+Seat 1: LABELLE VIE (1500)
+Seat 2: Jb P (1500)
+Seat 3: violettedu54 (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: thierg63 (1500)
+Seat 6: zedbez (1500)
+Seat 7: Floo60 (1500)
+Seat 8: PushMerguez (1500)
+Seat 9: fan2Slash (1500)
+Seat 10: Rudy7 (1500)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 10
+Rudy7 posts big blind 20
+Dealt to sabre_laser [3c Ts]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+Jb P folds
+violettedu54 calls 20
+sabre_laser folds
+thierg63 folds
+zedbez folds
+Floo60 folds
+PushMerguez folds
+fan2Slash calls 10
+Rudy7 checks
+*** FLOP *** [6h 5h 4c]
+fan2Slash bets 20
+Rudy7 calls 20
+violettedu54 calls 20
+*** TURN *** [6h 5h 4c][7c]
+fan2Slash checks
+Rudy7 bets 80
+violettedu54 calls 80
+fan2Slash calls 80
+*** RIVER *** [6h 5h 4c 7c][Th]
+fan2Slash checks
+Rudy7 checks
+violettedu54 bets 100
+fan2Slash folds
+Rudy7 folds
+violettedu54 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [6h 5h 4c 7c Th]
+Seat 3: violettedu54 won 460
+
+

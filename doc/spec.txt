@@ -1,0 +1,19 @@
+spec :
+lecture de la log
+sauvegarde en base de données
+ SQLLite
+lecture de la base
+création des stats
+détection des joueurs en présence à la table
+affichage des stats par joueur
+mise à jour de la base régulièrement
+mise à jour des stats régulièrement
+
+au démarrage,
+si abscence de hup.db, création + import complet
+si présence, ouverture + lecture et création du Site tel que sauvegardé puis 
+import partiel:
+pour chaque jeu, regarder la date de la dernière main jouée.
+pour chaque main, si jeu sauvegardé et date postérieure alors on crée la main
+si jeu déjà existant on ne s'intéresse qu'aux mains postérieures à la dernière
+sauvegardée.

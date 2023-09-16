@@ -1,0 +1,1398 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563287550735679489-1-1442521659 - Holdem no limit (10/20) - 2015/09/17 20:27:39 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HaryPOKER_67 (1500)
+Seat 2: donfazer46 (1500)
+Seat 3: berbere14000 (1500)
+Seat 4: alyssia38 (1500)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1500)
+Seat 8: cedoune BaBy (1500)
+Seat 9: Zoanthus sp. (1500)
+Seat 10: Almuric12 (1500)
+*** ANTE/BLINDS ***
+cyrillas25 posts small blind 10
+cedoune BaBy posts big blind 20
+Dealt to sabre_laser [Jh Js]
+*** PRE-FLOP *** 
+Zoanthus sp. raises 1480 to 1500 and is all-in
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 calls 1500 and is all-in
+berbere14000 folds
+alyssia38 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+cedoune BaBy calls 1480 and is all-in
+*** FLOP *** [4d 8h Qc]
+*** TURN *** [4d 8h Qc][Tc]
+*** RIVER *** [4d 8h Qc Tc][Ks]
+*** SHOW DOWN ***
+cedoune BaBy shows [7c Ac] (High card : Ace)
+donfazer46 shows [Ad Qd] (One pair : Queens)
+Zoanthus sp. shows [Qh Ah] (One pair : Queens)
+Zoanthus sp. collected 2255 from pot
+donfazer46 collected 2255 from pot
+*** SUMMARY ***
+Total pot 4510 | No rake
+Board: [4d 8h Qc Tc Ks]
+Seat 2: donfazer46 showed [Ad Qd] and won 2255 with One pair : Queens
+Seat 8: cedoune BaBy (big blind) showed [7c Ac] and lost with High card : Ace
+Seat 9: Zoanthus sp. showed [Qh Ah] and won 2255 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563287550735679489-2-1442521690 - Holdem no limit (10/20) - 2015/09/17 20:28:10 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HaryPOKER_67 (1500)
+Seat 2: donfazer46 (2255)
+Seat 3: berbere14000 (1500)
+Seat 4: alyssia38 (1500)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1490)
+Seat 9: Zoanthus sp. (2255)
+Seat 10: Almuric12 (1500)
+*** ANTE/BLINDS ***
+Zoanthus sp. posts big blind 20
+Dealt to sabre_laser [3d 3s]
+*** PRE-FLOP *** 
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+berbere14000 folds
+alyssia38 raises 1480 to 1500 and is all-in
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+alyssia38 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Seat 4: alyssia38 won 1520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563287550735679489-3-1442521710 - Holdem no limit (10/20) - 2015/09/17 20:28:30 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #8 is the button
+Seat 1: HaryPOKER_67 (1500)
+Seat 2: donfazer46 (2255)
+Seat 3: berbere14000 (1500)
+Seat 4: alyssia38 (1520)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1490)
+Seat 9: Zoanthus sp. (2235)
+Seat 10: Almuric12 (1500)
+*** ANTE/BLINDS ***
+Zoanthus sp. posts small blind 10
+Almuric12 posts big blind 20
+Dealt to sabre_laser [2h 3d]
+*** PRE-FLOP *** 
+HaryPOKER_67 folds
+donfazer46 calls 20
+berbere14000 raises 1480 to 1500 and is all-in
+alyssia38 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+donfazer46 folds
+berbere14000 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 3: berbere14000 won 1550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563287550735679489-4-1442521741 - Holdem no limit (10/20) - 2015/09/17 20:29:01 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HaryPOKER_67 (1500)
+Seat 2: donfazer46 (2235)
+Seat 3: berbere14000 (1550)
+Seat 4: alyssia38 (1520)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1490)
+Seat 9: Zoanthus sp. (2225)
+Seat 10: Almuric12 (1480)
+*** ANTE/BLINDS ***
+Almuric12 posts small blind 10
+HaryPOKER_67 posts big blind 20
+Dealt to sabre_laser [Kh Tc]
+*** PRE-FLOP *** 
+donfazer46 calls 20
+berbere14000 folds
+alyssia38 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 calls 10
+HaryPOKER_67 checks
+*** FLOP *** [Ts Jd 8c]
+Almuric12 checks
+HaryPOKER_67 bets 20
+donfazer46 raises 100 to 120
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Ts Jd 8c]
+Seat 2: donfazer46 won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563287550735679489-5-1442521786 - Holdem no limit (10/20) - 2015/09/17 20:29:46 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HaryPOKER_67 (1460)
+Seat 2: donfazer46 (2295)
+Seat 3: berbere14000 (1550)
+Seat 4: alyssia38 (1520)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1490)
+Seat 9: Zoanthus sp. (2225)
+Seat 10: Almuric12 (1460)
+*** ANTE/BLINDS ***
+HaryPOKER_67 posts small blind 10
+donfazer46 posts big blind 20
+Dealt to sabre_laser [9s 5h]
+*** PRE-FLOP *** 
+berbere14000 folds
+alyssia38 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 calls 20
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 checks
+*** FLOP *** [Kh 7s Js]
+donfazer46 checks
+cyrillas25 checks
+*** TURN *** [Kh 7s Js][Qc]
+donfazer46 checks
+cyrillas25 bets 30
+donfazer46 calls 30
+*** RIVER *** [Kh 7s Js Qc][4d]
+donfazer46 checks
+cyrillas25 checks
+*** SHOW DOWN ***
+donfazer46 shows [9h 2s] (High card : King)
+cyrillas25 shows [Qh Th] (One pair : Queens)
+cyrillas25 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Kh 7s Js Qc 4d]
+Seat 2: donfazer46 (big blind) showed [9h 2s] and lost with High card : King
+Seat 7: cyrillas25 showed [Qh Th] and won 110 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563287550735679489-6-1442521858 - Holdem no limit (15/30) - 2015/09/17 20:30:58 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HaryPOKER_67 (1450)
+Seat 2: donfazer46 (2245)
+Seat 3: berbere14000 (1550)
+Seat 4: alyssia38 (1520)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1550)
+Seat 9: Zoanthus sp. (2225)
+Seat 10: Almuric12 (1460)
+*** ANTE/BLINDS ***
+donfazer46 posts small blind 15
+berbere14000 posts big blind 30
+Dealt to sabre_laser [6s Jd]
+*** PRE-FLOP *** 
+alyssia38 raises 1490 to 1520 and is all-in
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+berbere14000 folds
+alyssia38 collected 1565 from pot
+*** SUMMARY ***
+Total pot 1565 | No rake
+Seat 4: alyssia38 won 1565
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563287550735679489-7-1442521870 - Holdem no limit (15/30) - 2015/09/17 20:31:10 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HaryPOKER_67 (1450)
+Seat 2: donfazer46 (2230)
+Seat 3: berbere14000 (1520)
+Seat 4: alyssia38 (1565)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1550)
+Seat 9: Zoanthus sp. (2225)
+Seat 10: Almuric12 (1460)
+*** ANTE/BLINDS ***
+berbere14000 posts small blind 15
+alyssia38 posts big blind 30
+Dealt to sabre_laser [8h 9s]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 calls 30
+HaryPOKER_67 folds
+donfazer46 folds
+berbere14000 calls 15
+alyssia38 checks
+*** FLOP *** [5h 7h 3s]
+berbere14000 checks
+alyssia38 bets 30
+Almuric12 calls 30
+berbere14000 folds
+*** TURN *** [5h 7h 3s][4h]
+alyssia38 bets 30
+Almuric12 calls 30
+*** RIVER *** [5h 7h 3s 4h][2c]
+alyssia38 bets 30
+Almuric12 raises 170 to 200
+alyssia38 folds
+Almuric12 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [5h 7h 3s 4h 2c]
+Seat 10: Almuric12 won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563287550735679489-8-1442521918 - Holdem no limit (15/30) - 2015/09/17 20:31:58 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #3 is the button
+Seat 1: HaryPOKER_67 (1450)
+Seat 2: donfazer46 (2230)
+Seat 3: berbere14000 (1490)
+Seat 4: alyssia38 (1445)
+Seat 5: cool4321 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1550)
+Seat 9: Zoanthus sp. (2225)
+Seat 10: Almuric12 (1610)
+*** ANTE/BLINDS ***
+alyssia38 posts small blind 15
+cool4321 posts big blind 30
+Dealt to sabre_laser [Qh 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. calls 30
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 calls 30
+berbere14000 raises 1460 to 1490 and is all-in
+alyssia38 folds
+cool4321 folds
+Zoanthus sp. calls 1460
+donfazer46 folds
+*** FLOP *** [Js 7d 2h]
+*** TURN *** [Js 7d 2h][Kc]
+*** RIVER *** [Js 7d 2h Kc][Ah]
+*** SHOW DOWN ***
+berbere14000 shows [9h Ac] (One pair : Aces)
+Zoanthus sp. shows [As 7s] (Two pairs : Aces and 7)
+Zoanthus sp. collected 3055 from pot
+*** SUMMARY ***
+Total pot 3055 | No rake
+Board: [Js 7d 2h Kc Ah]
+Seat 3: berbere14000 (button) showed [9h Ac] and lost with One pair : Aces
+Seat 9: Zoanthus sp. showed [As 7s] and won 3055 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563287550735679489-9-1442521959 - Holdem no limit (15/30) - 2015/09/17 20:32:39 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #4 is the button
+Seat 1: HaryPOKER_67 (1450)
+Seat 2: donfazer46 (2200)
+Seat 4: alyssia38 (1430)
+Seat 5: cool4321 (1470)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (1550)
+Seat 9: Zoanthus sp. (3790)
+Seat 10: Almuric12 (1610)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [3c 6s]
+*** PRE-FLOP *** 
+cyrillas25 calls 30
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 calls 30
+donfazer46 raises 60 to 90
+alyssia38 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 calls 60
+HaryPOKER_67 calls 60
+*** FLOP *** [Tc 9d 6h]
+cyrillas25 checks
+HaryPOKER_67 checks
+donfazer46 bets 315
+cyrillas25 folds
+HaryPOKER_67 folds
+donfazer46 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Tc 9d 6h]
+Seat 2: donfazer46 won 630
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563287550735679489-10-1442522051 - Holdem no limit (20/40) - 2015/09/17 20:34:11 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HaryPOKER_67 (1360)
+Seat 2: donfazer46 (2425)
+Seat 4: alyssia38 (1430)
+Seat 5: cool4321 (1455)
+Seat 6: sabre_laser (1470)
+Seat 7: cyrillas25 (1460)
+Seat 9: Zoanthus sp. (3790)
+Seat 10: Almuric12 (1610)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+cyrillas25 posts big blind 40
+Dealt to sabre_laser [6h Kd]
+*** PRE-FLOP *** 
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+alyssia38 folds
+cool4321 raises 120 to 160
+sabre_laser folds
+cyrillas25 calls 120
+*** FLOP *** [Qs 4c 4s]
+cyrillas25 checks
+cool4321 checks
+*** TURN *** [Qs 4c 4s][2h]
+cyrillas25 checks
+cool4321 bets 227
+cyrillas25 folds
+cool4321 collected 567 from pot
+*** SUMMARY ***
+Total pot 567 | No rake
+Board: [Qs 4c 4s 2h]
+Seat 5: cool4321 (button) won 567
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563287550735679489-11-1442522088 - Holdem no limit (20/40) - 2015/09/17 20:34:48 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HaryPOKER_67 (1360)
+Seat 2: donfazer46 (2425)
+Seat 4: alyssia38 (1430)
+Seat 5: cool4321 (1635)
+Seat 6: sabre_laser (1450)
+Seat 7: cyrillas25 (1300)
+Seat 9: Zoanthus sp. (3790)
+Seat 10: Almuric12 (1610)
+*** ANTE/BLINDS ***
+cyrillas25 posts small blind 20
+Zoanthus sp. posts big blind 40
+Dealt to sabre_laser [8d Tc]
+*** PRE-FLOP *** 
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+alyssia38 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 calls 20
+Zoanthus sp. checks
+*** FLOP *** [2c 2s Js]
+cyrillas25 bets 40
+Zoanthus sp. calls 40
+*** TURN *** [2c 2s Js][3h]
+cyrillas25 bets 60
+Zoanthus sp. calls 60
+*** RIVER *** [2c 2s Js 3h][4d]
+cyrillas25 bets 187
+Zoanthus sp. raises 654 to 841
+cyrillas25 folds
+Zoanthus sp. collected 1308 from pot
+*** SUMMARY ***
+Total pot 1308 | No rake
+Board: [2c 2s Js 3h 4d]
+Seat 9: Zoanthus sp. (big blind) won 1308
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563287550735679489-12-1442522139 - Holdem no limit (20/40) - 2015/09/17 20:35:39 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HaryPOKER_67 (1360)
+Seat 2: donfazer46 (2425)
+Seat 4: alyssia38 (1430)
+Seat 5: cool4321 (1635)
+Seat 6: sabre_laser (1450)
+Seat 7: cyrillas25 (973)
+Seat 9: Zoanthus sp. (4117)
+Seat 10: Almuric12 (1610)
+*** ANTE/BLINDS ***
+Zoanthus sp. posts small blind 20
+Almuric12 posts big blind 40
+Dealt to sabre_laser [7h 3c]
+*** PRE-FLOP *** 
+HaryPOKER_67 folds
+donfazer46 raises 160 to 200
+alyssia38 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+donfazer46 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 2: donfazer46 won 260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563287550735679489-13-1442522166 - Holdem no limit (20/40) - 2015/09/17 20:36:06 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HaryPOKER_67 (1360)
+Seat 2: donfazer46 (2485)
+Seat 4: alyssia38 (1430)
+Seat 5: cool4321 (1635)
+Seat 6: sabre_laser (1450)
+Seat 7: cyrillas25 (973)
+Seat 9: Zoanthus sp. (4097)
+Seat 10: Almuric12 (1570)
+*** ANTE/BLINDS ***
+Almuric12 posts small blind 20
+HaryPOKER_67 posts big blind 40
+Dealt to sabre_laser [Tc 8c]
+*** PRE-FLOP *** 
+donfazer46 calls 40
+alyssia38 raises 1390 to 1430 and is all-in
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 calls 1390
+*** FLOP *** [Ks 8d 6h]
+*** TURN *** [Ks 8d 6h][4d]
+*** RIVER *** [Ks 8d 6h 4d][7c]
+*** SHOW DOWN ***
+alyssia38 shows [Ah Jd] (High card : Ace)
+donfazer46 shows [Qd Qh] (One pair : Queens)
+donfazer46 collected 2920 from pot
+*** SUMMARY ***
+Total pot 2920 | No rake
+Board: [Ks 8d 6h 4d 7c]
+Seat 2: donfazer46 showed [Qd Qh] and won 2920 with One pair : Queens
+Seat 4: alyssia38 showed [Ah Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563287550735679489-14-1442522201 - Holdem no limit (30/60) - 2015/09/17 20:36:41 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HaryPOKER_67 (1320)
+Seat 2: donfazer46 (3975)
+Seat 5: cool4321 (1635)
+Seat 6: sabre_laser (1450)
+Seat 7: cyrillas25 (973)
+Seat 9: Zoanthus sp. (4097)
+Seat 10: Almuric12 (1550)
+*** ANTE/BLINDS ***
+HaryPOKER_67 posts small blind 30
+donfazer46 posts big blind 60
+Dealt to sabre_laser [5d 9c]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+cyrillas25 calls 60
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 checks
+*** FLOP *** [6c 4d 7d]
+donfazer46 bets 60
+cyrillas25 calls 60
+*** TURN *** [6c 4d 7d][Kh]
+donfazer46 bets 60
+cyrillas25 raises 793 to 853 and is all-in
+donfazer46 folds
+cyrillas25 collected 1183 from pot
+*** SUMMARY ***
+Total pot 1183 | No rake
+Board: [6c 4d 7d Kh]
+Seat 7: cyrillas25 won 1183
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563287550735679489-15-1442522240 - Holdem no limit (30/60) - 2015/09/17 20:37:20 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HaryPOKER_67 (1290)
+Seat 2: donfazer46 (3795)
+Seat 5: cool4321 (1635)
+Seat 6: sabre_laser (1450)
+Seat 7: cyrillas25 (1183)
+Seat 9: Zoanthus sp. (4097)
+Seat 10: Almuric12 (1550)
+*** ANTE/BLINDS ***
+donfazer46 posts small blind 30
+cool4321 posts big blind 60
+Dealt to sabre_laser [4s Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. raises 150 to 210
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+Zoanthus sp. collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 9: Zoanthus sp. won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563287550735679489-16-1442522263 - Holdem no limit (30/60) - 2015/09/17 20:37:43 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HaryPOKER_67 (1290)
+Seat 2: donfazer46 (3765)
+Seat 5: cool4321 (1575)
+Seat 6: sabre_laser (1450)
+Seat 7: cyrillas25 (1183)
+Seat 9: Zoanthus sp. (4187)
+Seat 10: Almuric12 (1550)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [9s As]
+*** PRE-FLOP *** 
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 raises 240 to 300
+cool4321 folds
+sabre_laser calls 240
+*** FLOP *** [5s Jc Ac]
+sabre_laser bets 1150 and is all-in
+donfazer46 calls 1150
+*** TURN *** [5s Jc Ac][Jh]
+*** RIVER *** [5s Jc Ac Jh][Th]
+*** SHOW DOWN ***
+donfazer46 shows [Ad 6s] (Two pairs : Aces and Jacks)
+sabre_laser shows [9s As] (Two pairs : Aces and Jacks)
+sabre_laser collected 1465 from pot
+donfazer46 collected 1465 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Board: [5s Jc Ac Jh Th]
+Seat 2: donfazer46 (button) showed [Ad 6s] and won 1465 with Two pairs : Aces and Jacks
+Seat 6: sabre_laser (big blind) showed [9s As] and won 1465 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563287550735679489-17-1442522295 - Holdem no limit (30/60) - 2015/09/17 20:38:15 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HaryPOKER_67 (1290)
+Seat 2: donfazer46 (3780)
+Seat 5: cool4321 (1545)
+Seat 6: sabre_laser (1465)
+Seat 7: cyrillas25 (1183)
+Seat 9: Zoanthus sp. (4187)
+Seat 10: Almuric12 (1550)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+cyrillas25 posts big blind 60
+Dealt to sabre_laser [9s 8d]
+*** PRE-FLOP *** 
+Zoanthus sp. folds
+Almuric12 raises 60 to 120
+HaryPOKER_67 folds
+donfazer46 raises 60 to 180
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Almuric12 calls 60
+*** FLOP *** [Kd 3h 2h]
+Almuric12 checks
+donfazer46 bets 300
+Almuric12 calls 300
+*** TURN *** [Kd 3h 2h][Jh]
+Almuric12 checks
+donfazer46 bets 302
+Almuric12 calls 302
+*** RIVER *** [Kd 3h 2h Jh][2c]
+Almuric12 bets 768 and is all-in
+donfazer46 folds
+Almuric12 collected 2422 from pot
+*** SUMMARY ***
+Total pot 2422 | No rake
+Board: [Kd 3h 2h Jh 2c]
+Seat 10: Almuric12 won 2422
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563287550735679489-18-1442522356 - Holdem no limit (30/60) - 2015/09/17 20:39:16 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HaryPOKER_67 (1290)
+Seat 2: donfazer46 (2998)
+Seat 5: cool4321 (1545)
+Seat 6: sabre_laser (1435)
+Seat 7: cyrillas25 (1123)
+Seat 9: Zoanthus sp. (4187)
+Seat 10: Almuric12 (2422)
+*** ANTE/BLINDS ***
+cyrillas25 posts small blind 30
+Zoanthus sp. posts big blind 60
+Dealt to sabre_laser [9c 6s]
+*** PRE-FLOP *** 
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 raises 240 to 300
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. calls 240
+*** FLOP *** [4h Th 4s]
+Zoanthus sp. checks
+donfazer46 bets 630
+Zoanthus sp. raises 3257 to 3887 and is all-in
+donfazer46 folds
+Zoanthus sp. collected 5147 from pot
+*** SUMMARY ***
+Total pot 5147 | No rake
+Board: [4h Th 4s]
+Seat 9: Zoanthus sp. (big blind) won 5147
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563287550735679489-19-1442522394 - Holdem no limit (40/80) - 2015/09/17 20:39:54 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HaryPOKER_67 (1290)
+Seat 2: donfazer46 (2068)
+Seat 5: cool4321 (1545)
+Seat 6: sabre_laser (1435)
+Seat 7: cyrillas25 (1093)
+Seat 9: Zoanthus sp. (5147)
+Seat 10: Almuric12 (2422)
+*** ANTE/BLINDS ***
+Zoanthus sp. posts small blind 40
+Almuric12 posts big blind 80
+Dealt to sabre_laser [Qc 3s]
+*** PRE-FLOP *** 
+HaryPOKER_67 folds
+donfazer46 raises 1988 to 2068 and is all-in
+cool4321 folds
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+donfazer46 collected 2188 from pot
+*** SUMMARY ***
+Total pot 2188 | No rake
+Seat 2: donfazer46 won 2188
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563287550735679489-20-1442522416 - Holdem no limit (40/80) - 2015/09/17 20:40:16 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HaryPOKER_67 (1290)
+Seat 2: donfazer46 (2188)
+Seat 5: cool4321 (1545)
+Seat 6: sabre_laser (1435)
+Seat 7: cyrillas25 (1093)
+Seat 9: Zoanthus sp. (5107)
+Seat 10: Almuric12 (2342)
+*** ANTE/BLINDS ***
+Almuric12 posts small blind 40
+HaryPOKER_67 posts big blind 80
+Dealt to sabre_laser [8s Ah]
+*** PRE-FLOP *** 
+donfazer46 folds
+cool4321 folds
+sabre_laser raises 80 to 160
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 calls 120
+HaryPOKER_67 folds
+*** FLOP *** [3c Qh Ad]
+Almuric12 checks
+sabre_laser checks
+*** TURN *** [3c Qh Ad][5s]
+Almuric12 checks
+sabre_laser bets 120
+Almuric12 raises 260 to 380
+sabre_laser calls 260
+*** RIVER *** [3c Qh Ad 5s][3d]
+Almuric12 bets 580
+sabre_laser calls 580
+*** SHOW DOWN ***
+sabre_laser shows [8s Ah] (Two pairs : Aces and 3)
+Almuric12 shows [Ac Qs] (Two pairs : Aces and Queens)
+Almuric12 collected 2320 from pot
+*** SUMMARY ***
+Total pot 2320 | No rake
+Board: [3c Qh Ad 5s 3d]
+Seat 6: sabre_laser showed [8s Ah] and lost with Two pairs : Aces and 3
+Seat 10: Almuric12 (small blind) showed [Ac Qs] and won 2320 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563287550735679489-21-1442522500 - Holdem no limit (40/80) - 2015/09/17 20:41:40 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HaryPOKER_67 (1210)
+Seat 2: donfazer46 (2188)
+Seat 5: cool4321 (1545)
+Seat 6: sabre_laser (315)
+Seat 7: cyrillas25 (1093)
+Seat 9: Zoanthus sp. (5107)
+Seat 10: Almuric12 (3542)
+*** ANTE/BLINDS ***
+HaryPOKER_67 posts small blind 40
+donfazer46 posts big blind 80
+Dealt to sabre_laser [5s 8c]
+*** PRE-FLOP *** 
+cool4321 raises 160 to 240
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 5: cool4321 won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563287550735679489-22-1442522524 - Holdem no limit (40/80) - 2015/09/17 20:42:04 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HaryPOKER_67 (1170)
+Seat 2: donfazer46 (2108)
+Seat 5: cool4321 (1665)
+Seat 6: sabre_laser (315)
+Seat 7: cyrillas25 (1093)
+Seat 9: Zoanthus sp. (5107)
+Seat 10: Almuric12 (3542)
+*** ANTE/BLINDS ***
+donfazer46 posts small blind 40
+cool4321 posts big blind 80
+Dealt to sabre_laser [Tc 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 calls 80
+donfazer46 calls 40
+cool4321 checks
+*** FLOP *** [9h 3d 8s]
+donfazer46 checks
+cool4321 checks
+HaryPOKER_67 bets 120
+donfazer46 folds
+cool4321 folds
+HaryPOKER_67 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [9h 3d 8s]
+Seat 1: HaryPOKER_67 (button) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563287550735679489-23-1442522558 - Holdem no limit (60/120) - 2015/09/17 20:42:38 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HaryPOKER_67 (1330)
+Seat 2: donfazer46 (2028)
+Seat 5: cool4321 (1585)
+Seat 6: sabre_laser (315)
+Seat 7: cyrillas25 (1093)
+Seat 9: Zoanthus sp. (5107)
+Seat 10: Almuric12 (3542)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [9h 9s]
+*** PRE-FLOP *** 
+cyrillas25 calls 120
+Zoanthus sp. calls 120
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 raises 120 to 240
+cool4321 folds
+sabre_laser raises 75 to 315 and is all-in
+cyrillas25 calls 195
+Zoanthus sp. calls 195
+donfazer46 calls 75
+*** FLOP *** [5s Qh 8c]
+cyrillas25 checks
+Zoanthus sp. checks
+donfazer46 checks
+*** TURN *** [5s Qh 8c][2d]
+cyrillas25 checks
+Zoanthus sp. checks
+donfazer46 checks
+*** RIVER *** [5s Qh 8c 2d][6d]
+cyrillas25 checks
+Zoanthus sp. checks
+donfazer46 checks
+*** SHOW DOWN ***
+donfazer46 shows [Kd Th] (High card : King)
+cyrillas25 shows [Ks Jc] (High card : King)
+Zoanthus sp. shows [3s 3h] (One pair : 3)
+sabre_laser shows [9h 9s] (One pair : 9)
+sabre_laser collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [5s Qh 8c 2d 6d]
+Seat 2: donfazer46 (button) showed [Kd Th] and lost with High card : King
+Seat 6: sabre_laser (big blind) showed [9h 9s] and won 1320 with One pair : 9
+Seat 7: cyrillas25 showed [Ks Jc] and lost with High card : King
+Seat 9: Zoanthus sp. showed [3s 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563287550735679489-24-1442522648 - Holdem no limit (60/120) - 2015/09/17 20:44:08 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HaryPOKER_67 (1330)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1525)
+Seat 6: sabre_laser (1320)
+Seat 7: cyrillas25 (778)
+Seat 9: Zoanthus sp. (4792)
+Seat 10: Almuric12 (3542)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+cyrillas25 posts big blind 120
+Dealt to sabre_laser [Qc 3s]
+*** PRE-FLOP *** 
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 calls 120
+donfazer46 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 checks
+*** FLOP *** [Ks Ad Qs]
+cyrillas25 checks
+HaryPOKER_67 bets 120
+cyrillas25 folds
+HaryPOKER_67 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Ks Ad Qs]
+Seat 1: HaryPOKER_67 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563287550735679489-25-1442522688 - Holdem no limit (60/120) - 2015/09/17 20:44:48 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HaryPOKER_67 (1510)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1525)
+Seat 6: sabre_laser (1260)
+Seat 7: cyrillas25 (658)
+Seat 9: Zoanthus sp. (4792)
+Seat 10: Almuric12 (3542)
+*** ANTE/BLINDS ***
+cyrillas25 posts small blind 60
+Zoanthus sp. posts big blind 120
+Dealt to sabre_laser [5d Js]
+*** PRE-FLOP *** 
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+sabre_laser folds
+cyrillas25 calls 60
+Zoanthus sp. checks
+*** FLOP *** [Qc 9s 5s]
+cyrillas25 checks
+Zoanthus sp. checks
+*** TURN *** [Qc 9s 5s][6d]
+cyrillas25 checks
+Zoanthus sp. checks
+*** RIVER *** [Qc 9s 5s 6d][Ks]
+cyrillas25 bets 538 and is all-in
+Zoanthus sp. folds
+cyrillas25 collected 778 from pot
+*** SUMMARY ***
+Total pot 778 | No rake
+Board: [Qc 9s 5s 6d Ks]
+Seat 7: cyrillas25 (small blind) won 778
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563287550735679489-26-1442522737 - Holdem no limit (80/160) - 2015/09/17 20:45:37 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HaryPOKER_67 (1510)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1525)
+Seat 6: sabre_laser (1260)
+Seat 7: cyrillas25 (778)
+Seat 9: Zoanthus sp. (4672)
+Seat 10: Almuric12 (3542)
+*** ANTE/BLINDS ***
+Zoanthus sp. posts small blind 80
+Almuric12 posts big blind 160
+Dealt to sabre_laser [Jc As]
+*** PRE-FLOP *** 
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+sabre_laser raises 1100 to 1260 and is all-in
+cyrillas25 folds
+Zoanthus sp. folds
+Almuric12 folds
+sabre_laser collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 6: sabre_laser won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563287550735679489-27-1442522766 - Holdem no limit (80/160) - 2015/09/17 20:46:06 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HaryPOKER_67 (1510)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1525)
+Seat 6: sabre_laser (1500)
+Seat 7: cyrillas25 (778)
+Seat 9: Zoanthus sp. (4592)
+Seat 10: Almuric12 (3382)
+*** ANTE/BLINDS ***
+Almuric12 posts small blind 80
+HaryPOKER_67 posts big blind 160
+Dealt to sabre_laser [5c 5s]
+*** PRE-FLOP *** 
+donfazer46 folds
+cool4321 folds
+sabre_laser calls 160
+cyrillas25 raises 618 to 778 and is all-in
+Zoanthus sp. calls 778
+Almuric12 folds
+HaryPOKER_67 folds
+sabre_laser folds
+*** FLOP *** [2d Th 6c]
+*** TURN *** [2d Th 6c][Jd]
+*** RIVER *** [2d Th 6c Jd][9s]
+*** SHOW DOWN ***
+cyrillas25 shows [Qs Ah] (High card : Ace)
+Zoanthus sp. shows [4h 4d] (One pair : 4)
+Zoanthus sp. collected 1956 from pot
+*** SUMMARY ***
+Total pot 1956 | No rake
+Board: [2d Th 6c Jd 9s]
+Seat 7: cyrillas25 showed [Qs Ah] and lost with High card : Ace
+Seat 9: Zoanthus sp. (button) showed [4h 4d] and won 1956 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563287550735679489-28-1442522825 - Holdem no limit (80/160) - 2015/09/17 20:47:05 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HaryPOKER_67 (1350)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1525)
+Seat 6: sabre_laser (1340)
+Seat 9: Zoanthus sp. (5770)
+Seat 10: Almuric12 (3302)
+*** ANTE/BLINDS ***
+HaryPOKER_67 posts small blind 80
+donfazer46 posts big blind 160
+Dealt to sabre_laser [As 3h]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: donfazer46 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563287550735679489-29-1442522850 - Holdem no limit (80/160) - 2015/09/17 20:47:30 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HaryPOKER_67 (1270)
+Seat 2: donfazer46 (1793)
+Seat 5: cool4321 (1525)
+Seat 6: sabre_laser (1340)
+Seat 9: Zoanthus sp. (5770)
+Seat 10: Almuric12 (3302)
+*** ANTE/BLINDS ***
+donfazer46 posts small blind 80
+cool4321 posts big blind 160
+Dealt to sabre_laser [Ac Jd]
+*** PRE-FLOP *** 
+sabre_laser raises 1180 to 1340 and is all-in
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+sabre_laser collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 6: sabre_laser won 1580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563287550735679489-30-1442522874 - Holdem no limit (80/160) - 2015/09/17 20:47:54 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HaryPOKER_67 (1270)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1365)
+Seat 6: sabre_laser (1580)
+Seat 9: Zoanthus sp. (5770)
+Seat 10: Almuric12 (3302)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [6h 8s]
+*** PRE-FLOP *** 
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563287550735679489-31-1442522903 - Holdem no limit (80/160) - 2015/09/17 20:48:23 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HaryPOKER_67 (1270)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1285)
+Seat 6: sabre_laser (1660)
+Seat 9: Zoanthus sp. (5770)
+Seat 10: Almuric12 (3302)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Zoanthus sp. posts big blind 160
+Dealt to sabre_laser [6c Qc]
+*** PRE-FLOP *** 
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+sabre_laser folds
+Zoanthus sp. collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: Zoanthus sp. (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563287550735679489-32-1442522920 - Holdem no limit (10/100/200) - 2015/09/17 20:48:40 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HaryPOKER_67 (1270)
+Seat 2: donfazer46 (1713)
+Seat 5: cool4321 (1285)
+Seat 6: sabre_laser (1580)
+Seat 9: Zoanthus sp. (5850)
+Seat 10: Almuric12 (3302)
+*** ANTE/BLINDS ***
+Zoanthus sp. posts ante 10
+Almuric12 posts ante 10
+HaryPOKER_67 posts ante 10
+donfazer46 posts ante 10
+cool4321 posts ante 10
+sabre_laser posts ante 10
+Zoanthus sp. posts small blind 100
+Almuric12 posts big blind 200
+Dealt to sabre_laser [6c 8c]
+*** PRE-FLOP *** 
+HaryPOKER_67 folds
+donfazer46 calls 200
+cool4321 folds
+sabre_laser folds
+Zoanthus sp. folds
+Almuric12 checks
+*** FLOP *** [Jh 7h 3d]
+Almuric12 checks
+donfazer46 checks
+*** TURN *** [Jh 7h 3d][Qc]
+Almuric12 checks
+donfazer46 bets 200
+Almuric12 calls 200
+*** RIVER *** [Jh 7h 3d Qc][Js]
+Almuric12 checks
+donfazer46 bets 200
+Almuric12 folds
+donfazer46 collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [Jh 7h 3d Qc Js]
+Seat 2: donfazer46 won 1160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563287550735679489-33-1442522959 - Holdem no limit (10/100/200) - 2015/09/17 20:49:19 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HaryPOKER_67 (1260)
+Seat 2: donfazer46 (2263)
+Seat 5: cool4321 (1275)
+Seat 6: sabre_laser (1570)
+Seat 9: Zoanthus sp. (5740)
+Seat 10: Almuric12 (2892)
+*** ANTE/BLINDS ***
+Almuric12 posts ante 10
+HaryPOKER_67 posts ante 10
+donfazer46 posts ante 10
+cool4321 posts ante 10
+sabre_laser posts ante 10
+Zoanthus sp. posts ante 10
+Almuric12 posts small blind 100
+HaryPOKER_67 posts big blind 200
+Dealt to sabre_laser [8h 3d]
+*** PRE-FLOP *** 
+donfazer46 folds
+cool4321 folds
+sabre_laser folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: HaryPOKER_67 (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563287550735679489-34-1442522977 - Holdem no limit (10/100/200) - 2015/09/17 20:49:37 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HaryPOKER_67 (1410)
+Seat 2: donfazer46 (2253)
+Seat 5: cool4321 (1265)
+Seat 6: sabre_laser (1560)
+Seat 9: Zoanthus sp. (5730)
+Seat 10: Almuric12 (2782)
+*** ANTE/BLINDS ***
+HaryPOKER_67 posts ante 10
+donfazer46 posts ante 10
+cool4321 posts ante 10
+sabre_laser posts ante 10
+Zoanthus sp. posts ante 10
+Almuric12 posts ante 10
+HaryPOKER_67 posts small blind 100
+donfazer46 posts big blind 200
+Dealt to sabre_laser [5h Qs]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+Zoanthus sp. raises 200 to 400
+Almuric12 folds
+HaryPOKER_67 raises 1000 to 1400 and is all-in
+donfazer46 folds
+Zoanthus sp. calls 1000
+*** FLOP *** [Ad 9d 5d]
+*** TURN *** [Ad 9d 5d][4h]
+*** RIVER *** [Ad 9d 5d 4h][2h]
+*** SHOW DOWN ***
+Zoanthus sp. shows [Kh Jd] (High card : Ace)
+HaryPOKER_67 shows [9h 9s] (Trips of 9)
+HaryPOKER_67 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Board: [Ad 9d 5d 4h 2h]
+Seat 1: HaryPOKER_67 (small blind) showed [9h 9s] and won 3060 with Trips of 9
+Seat 9: Zoanthus sp. showed [Kh Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563287550735679489-35-1442523013 - Holdem no limit (10/100/200) - 2015/09/17 20:50:13 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HaryPOKER_67 (3060)
+Seat 2: donfazer46 (2043)
+Seat 5: cool4321 (1255)
+Seat 6: sabre_laser (1550)
+Seat 9: Zoanthus sp. (4320)
+Seat 10: Almuric12 (2772)
+*** ANTE/BLINDS ***
+donfazer46 posts ante 10
+cool4321 posts ante 10
+HaryPOKER_67 posts ante 10
+sabre_laser posts ante 10
+Zoanthus sp. posts ante 10
+Almuric12 posts ante 10
+donfazer46 posts small blind 100
+cool4321 posts big blind 200
+Dealt to sabre_laser [7c 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 raises 1833 to 2033 and is all-in
+cool4321 folds
+donfazer46 collected 2293 from pot
+*** SUMMARY ***
+Total pot 2293 | No rake
+Seat 2: donfazer46 (small blind) won 2293
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563287550735679489-36-1442523038 - Holdem no limit (10/100/200) - 2015/09/17 20:50:38 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HaryPOKER_67 (3050)
+Seat 2: donfazer46 (2293)
+Seat 5: cool4321 (1045)
+Seat 6: sabre_laser (1540)
+Seat 9: Zoanthus sp. (4310)
+Seat 10: Almuric12 (2762)
+*** ANTE/BLINDS ***
+cool4321 posts ante 10
+sabre_laser posts ante 10
+HaryPOKER_67 posts ante 10
+donfazer46 posts ante 10
+Zoanthus sp. posts ante 10
+Almuric12 posts ante 10
+cool4321 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Jc Ks]
+*** PRE-FLOP *** 
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 raises 200 to 400
+cool4321 folds
+sabre_laser calls 200
+*** FLOP *** [4s Td 6s]
+sabre_laser checks
+donfazer46 bets 640
+sabre_laser folds
+donfazer46 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [4s Td 6s]
+Seat 2: donfazer46 (button) won 1600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563287550735679489-37-1442523072 - Holdem no limit (10/100/200) - 2015/09/17 20:51:12 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HaryPOKER_67 (3040)
+Seat 2: donfazer46 (2843)
+Seat 5: cool4321 (935)
+Seat 6: sabre_laser (1130)
+Seat 9: Zoanthus sp. (4300)
+Seat 10: Almuric12 (2752)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Zoanthus sp. posts ante 10
+HaryPOKER_67 posts ante 10
+donfazer46 posts ante 10
+cool4321 posts ante 10
+Almuric12 posts ante 10
+sabre_laser posts small blind 100
+Zoanthus sp. posts big blind 200
+Dealt to sabre_laser [Ac 6h]
+*** PRE-FLOP *** 
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+sabre_laser raises 920 to 1120 and is all-in
+Zoanthus sp. folds
+sabre_laser collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Seat 6: sabre_laser (small blind) won 1380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563287550735679489-38-1442523093 - Holdem no limit (10/100/200) - 2015/09/17 20:51:33 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HaryPOKER_67 (3030)
+Seat 2: donfazer46 (2833)
+Seat 5: cool4321 (925)
+Seat 6: sabre_laser (1380)
+Seat 9: Zoanthus sp. (4090)
+Seat 10: Almuric12 (2742)
+*** ANTE/BLINDS ***
+Zoanthus sp. posts ante 10
+Almuric12 posts ante 10
+HaryPOKER_67 posts ante 10
+donfazer46 posts ante 10
+cool4321 posts ante 10
+sabre_laser posts ante 10
+Zoanthus sp. posts small blind 100
+Almuric12 posts big blind 200
+Dealt to sabre_laser [9d 7d]
+*** PRE-FLOP *** 
+HaryPOKER_67 folds
+donfazer46 folds
+cool4321 folds
+sabre_laser folds
+Zoanthus sp. calls 100
+Almuric12 checks
+*** FLOP *** [7s 5d 3c]
+Zoanthus sp. checks
+Almuric12 bets 200
+Zoanthus sp. calls 200
+*** TURN *** [7s 5d 3c][3s]
+Zoanthus sp. checks
+Almuric12 checks
+*** RIVER *** [7s 5d 3c 3s][3h]
+Zoanthus sp. bets 430
+Almuric12 folds
+Zoanthus sp. collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [7s 5d 3c 3s 3h]
+Seat 9: Zoanthus sp. (small blind) won 1290
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563287550735679489-39-1442523140 - Holdem no limit (20/150/300) - 2015/09/17 20:52:20 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HaryPOKER_67 (3020)
+Seat 2: donfazer46 (2823)
+Seat 5: cool4321 (915)
+Seat 6: sabre_laser (1370)
+Seat 9: Zoanthus sp. (4540)
+Seat 10: Almuric12 (2332)
+*** ANTE/BLINDS ***
+Almuric12 posts ante 20
+HaryPOKER_67 posts ante 20
+donfazer46 posts ante 20
+cool4321 posts ante 20
+sabre_laser posts ante 20
+Zoanthus sp. posts ante 20
+Almuric12 posts small blind 150
+HaryPOKER_67 posts big blind 300
+Dealt to sabre_laser [Ah Ts]
+*** PRE-FLOP *** 
+donfazer46 folds
+cool4321 folds
+sabre_laser raises 1050 to 1350 and is all-in
+Zoanthus sp. folds
+Almuric12 folds
+HaryPOKER_67 folds
+sabre_laser collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Seat 6: sabre_laser won 1920
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563287550735679489-40-1442523158 - Holdem no limit (20/150/300) - 2015/09/17 20:52:38 UTC
+Table: 'Double or Nothing(131150603)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HaryPOKER_67 (2700)
+Seat 2: donfazer46 (2803)
+Seat 5: cool4321 (895)
+Seat 6: sabre_laser (1920)
+Seat 9: Zoanthus sp. (4520)
+Seat 10: Almuric12 (2162)
+*** ANTE/BLINDS ***
+HaryPOKER_67 posts ante 20
+donfazer46 posts ante 20
+cool4321 posts ante 20
+sabre_laser posts ante 20
+Zoanthus sp. posts ante 20
+Almuric12 posts ante 20
+HaryPOKER_67 posts small blind 150
+donfazer46 posts big blind 300
+Dealt to sabre_laser [6d Kd]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+Zoanthus sp. raises 300 to 600
+Almuric12 folds
+HaryPOKER_67 folds
+donfazer46 calls 300
+*** FLOP *** [Ad 3c Jd]
+donfazer46 bets 300
+Zoanthus sp. raises 2070 to 2370
+donfazer46 calls 1883 and is all-in
+*** TURN *** [Ad 3c Jd][9s]
+*** RIVER *** [Ad 3c Jd 9s][As]
+*** SHOW DOWN ***
+donfazer46 shows [4h Ac] (Trips of Aces)
+Zoanthus sp. shows [Ah 9c] (Full of Aces and 9)
+Zoanthus sp. collected 6023 from pot
+*** SUMMARY ***
+Total pot 6023 | No rake
+Board: [Ad 3c Jd 9s As]
+Seat 2: donfazer46 (big blind) showed [4h Ac] and lost with Trips of Aces
+Seat 9: Zoanthus sp. showed [Ah 9c] and won 6023 with Full of Aces and 9
+
+

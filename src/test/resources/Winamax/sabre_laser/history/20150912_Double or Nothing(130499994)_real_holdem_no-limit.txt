@@ -1,0 +1,1282 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560493206358196225-1-1442062973 - Holdem no limit (10/20) - 2015/09/12 13:02:53 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #10 is the button
+Seat 1: cool4321 (1500)
+Seat 2: FataIBazooka (1500)
+Seat 3: anoda12 (1500)
+Seat 4: rescator35 (1500)
+Seat 5: Weedy78 (1500)
+Seat 6: patrick 1958 (1500)
+Seat 7: yackd (1500)
+Seat 8: Geogeo57 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: creepy75 (1500)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 10
+FataIBazooka posts big blind 20
+Dealt to sabre_laser [8c 8d]
+*** PRE-FLOP *** 
+anoda12 folds
+rescator35 raises 50 to 70
+Weedy78 folds
+patrick 1958 calls 70
+yackd folds
+Geogeo57 folds
+sabre_laser calls 70
+creepy75 folds
+cool4321 folds
+FataIBazooka folds
+*** FLOP *** [3d 6c Qc]
+rescator35 bets 20
+patrick 1958 raises 50 to 70
+sabre_laser folds
+rescator35 calls 50
+*** TURN *** [3d 6c Qc][Td]
+rescator35 checks
+patrick 1958 bets 70
+rescator35 folds
+patrick 1958 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [3d 6c Qc Td]
+Seat 6: patrick 1958 won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560493206358196225-2-1442063057 - Holdem no limit (10/20) - 2015/09/12 13:04:17 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1480)
+Seat 3: anoda12 (1500)
+Seat 4: rescator35 (1360)
+Seat 5: Weedy78 (1500)
+Seat 6: patrick 1958 (1740)
+Seat 7: yackd (1500)
+Seat 8: Geogeo57 (1500)
+Seat 9: sabre_laser (1430)
+Seat 10: creepy75 (1500)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 10
+anoda12 posts big blind 20
+Dealt to sabre_laser [Ts 2c]
+*** PRE-FLOP *** 
+rescator35 folds
+Weedy78 folds
+patrick 1958 calls 20
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+creepy75 folds
+cool4321 folds
+FataIBazooka folds
+anoda12 checks
+*** FLOP *** [8h 6s 8c]
+anoda12 bets 20
+patrick 1958 calls 20
+*** TURN *** [8h 6s 8c][Ah]
+anoda12 checks
+patrick 1958 bets 20
+anoda12 calls 20
+*** RIVER *** [8h 6s 8c Ah][Ks]
+anoda12 checks
+patrick 1958 bets 20
+anoda12 calls 20
+*** SHOW DOWN ***
+anoda12 shows [2d 2s] (Two pairs : 8 and 2)
+patrick 1958 shows [Kc 9c] (Two pairs : Kings and 8)
+patrick 1958 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [8h 6s 8c Ah Ks]
+Seat 3: anoda12 (big blind) showed [2d 2s] and lost with Two pairs : 8 and 2
+Seat 6: patrick 1958 showed [Kc 9c] and won 170 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560493206358196225-3-1442063235 - Holdem no limit (15/30) - 2015/09/12 13:07:15 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (1420)
+Seat 4: rescator35 (1360)
+Seat 5: Weedy78 (1500)
+Seat 6: patrick 1958 (1830)
+Seat 7: yackd (1500)
+Seat 8: Geogeo57 (1500)
+Seat 9: sabre_laser (1430)
+Seat 10: creepy75 (1500)
+*** ANTE/BLINDS ***
+anoda12 posts small blind 15
+rescator35 posts big blind 30
+Dealt to sabre_laser [Ts 5h]
+*** PRE-FLOP *** 
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+creepy75 raises 30 to 60
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 calls 30
+*** FLOP *** [6d Kh Qc]
+rescator35 bets 30
+creepy75 raises 30 to 60
+rescator35 raises 1240 to 1300 and is all-in
+creepy75 folds
+rescator35 collected 1495 from pot
+*** SUMMARY ***
+Total pot 1495 | No rake
+Board: [6d Kh Qc]
+Seat 4: rescator35 (big blind) won 1495
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560493206358196225-4-1442063296 - Holdem no limit (15/30) - 2015/09/12 13:08:16 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (1405)
+Seat 4: rescator35 (1495)
+Seat 5: Weedy78 (1500)
+Seat 6: patrick 1958 (1830)
+Seat 7: yackd (1500)
+Seat 8: Geogeo57 (1500)
+Seat 9: sabre_laser (1430)
+Seat 10: creepy75 (1380)
+*** ANTE/BLINDS ***
+rescator35 posts small blind 15
+Weedy78 posts big blind 30
+Dealt to sabre_laser [5d 4h]
+*** PRE-FLOP *** 
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+creepy75 folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 raises 30 to 60
+Weedy78 calls 30
+*** FLOP *** [Td 5h 8c]
+rescator35 checks
+Weedy78 bets 30
+rescator35 folds
+Weedy78 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Td 5h 8c]
+Seat 5: Weedy78 (big blind) won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560493206358196225-5-1442063346 - Holdem no limit (20/40) - 2015/09/12 13:09:06 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (1405)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (1560)
+Seat 6: patrick 1958 (1830)
+Seat 7: yackd (1500)
+Seat 8: Geogeo57 (1500)
+Seat 9: sabre_laser (1430)
+Seat 10: creepy75 (1380)
+*** ANTE/BLINDS ***
+Weedy78 posts small blind 20
+patrick 1958 posts big blind 40
+Dealt to sabre_laser [9d 5h]
+*** PRE-FLOP *** 
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+creepy75 folds
+cool4321 folds
+FataIBazooka folds
+anoda12 calls 40
+rescator35 folds
+Weedy78 calls 20
+patrick 1958 checks
+*** FLOP *** [3s Js 9c]
+Weedy78 bets 40
+patrick 1958 calls 40
+anoda12 calls 40
+*** TURN *** [3s Js 9c][Kc]
+Weedy78 bets 160
+patrick 1958 folds
+anoda12 calls 160
+*** RIVER *** [3s Js 9c Kc][8h]
+Weedy78 bets 560
+anoda12 calls 560
+*** SHOW DOWN ***
+anoda12 shows [8s 9s] (Two pairs : 9 and 8)
+Weedy78 shows [Th Qh] (Straight King high)
+Weedy78 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [3s Js 9c Kc 8h]
+Seat 3: anoda12 showed [8s 9s] and lost with Two pairs : 9 and 8
+Seat 5: Weedy78 (small blind) showed [Th Qh] and won 1680 with Straight King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560493206358196225-6-1442063407 - Holdem no limit (20/40) - 2015/09/12 13:10:07 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (605)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (2440)
+Seat 6: patrick 1958 (1750)
+Seat 7: yackd (1500)
+Seat 8: Geogeo57 (1500)
+Seat 9: sabre_laser (1430)
+Seat 10: creepy75 (1380)
+*** ANTE/BLINDS ***
+patrick 1958 posts small blind 20
+yackd posts big blind 40
+Dealt to sabre_laser [Th 3c]
+*** PRE-FLOP *** 
+Geogeo57 raises 80 to 120
+sabre_laser folds
+creepy75 folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: Geogeo57 won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560493206358196225-7-1442063452 - Holdem no limit (20/40) - 2015/09/12 13:10:52 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (605)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (2440)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (1460)
+Seat 8: Geogeo57 (1560)
+Seat 9: sabre_laser (1430)
+Seat 10: creepy75 (1380)
+*** ANTE/BLINDS ***
+yackd posts small blind 20
+Geogeo57 posts big blind 40
+Dealt to sabre_laser [Jd 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+creepy75 calls 40
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd raises 160 to 200
+Geogeo57 folds
+creepy75 raises 1180 to 1380 and is all-in
+yackd raises 80 to 1460 and is all-in
+*** FLOP *** [3c Kd Kh]
+*** TURN *** [3c Kd Kh][2c]
+*** RIVER *** [3c Kd Kh 2c][As]
+*** SHOW DOWN ***
+creepy75 shows [6c 6d] (Two pairs : Kings and 6)
+yackd shows [Ad Qh] (Two pairs : Aces and Kings)
+yackd collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [3c Kd Kh 2c As]
+Seat 7: yackd (small blind) showed [Ad Qh] and won 2880 with Two pairs : Aces and Kings
+Seat 10: creepy75 showed [6c 6d] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560493206358196225-8-1442063489 - Holdem no limit (20/40) - 2015/09/12 13:11:29 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (605)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (2440)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (2880)
+Seat 8: Geogeo57 (1520)
+Seat 9: sabre_laser (1430)
+*** ANTE/BLINDS ***
+Geogeo57 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [6s 9d]
+*** PRE-FLOP *** 
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 calls 40
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser checks
+*** FLOP *** [Jh Ks 8d]
+sabre_laser checks
+Weedy78 bets 50
+sabre_laser folds
+Weedy78 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Jh Ks 8d]
+Seat 5: Weedy78 won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560493206358196225-9-1442063552 - Holdem no limit (30/60) - 2015/09/12 13:12:32 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cool4321 (1490)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (605)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (2880)
+Seat 8: Geogeo57 (1500)
+Seat 9: sabre_laser (1390)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+cool4321 posts big blind 60
+Dealt to sabre_laser [Ks Js]
+*** PRE-FLOP *** 
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd raises 240 to 300
+Geogeo57 raises 1200 to 1500 and is all-in
+sabre_laser folds
+cool4321 folds
+yackd folds
+Geogeo57 collected 1890 from pot
+*** SUMMARY ***
+Total pot 1890 | No rake
+Seat 8: Geogeo57 (button) won 1890
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560493206358196225-10-1442063630 - Holdem no limit (30/60) - 2015/09/12 13:13:50 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cool4321 (1430)
+Seat 2: FataIBazooka (1470)
+Seat 3: anoda12 (605)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (2580)
+Seat 8: Geogeo57 (1890)
+Seat 9: sabre_laser (1360)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 30
+FataIBazooka posts big blind 60
+Dealt to sabre_laser [Ad As]
+*** PRE-FLOP *** 
+anoda12 raises 545 to 605 and is all-in
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser raises 755 to 1360 and is all-in
+cool4321 folds
+FataIBazooka folds
+*** FLOP *** [7d 3h 3d]
+*** TURN *** [7d 3h 3d][8h]
+*** RIVER *** [7d 3h 3d 8h][Qd]
+*** SHOW DOWN ***
+anoda12 shows [Kd Td] (Flush King high)
+sabre_laser shows [Ad As] (Two pairs : Aces and 3)
+sabre_laser collected 755 from side pot 1
+anoda12 collected 1300 from main pot
+*** SUMMARY ***
+Total pot 2055 | No rake
+Board: [7d 3h 3d 8h Qd]
+Seat 3: anoda12 showed [Kd Td] and won 1300 with Flush King high
+Seat 9: sabre_laser (button) showed [Ad As] and won 755 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560493206358196225-11-1442063673 - Holdem no limit (30/60) - 2015/09/12 13:14:33 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1410)
+Seat 3: anoda12 (1300)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (2580)
+Seat 8: Geogeo57 (1890)
+Seat 9: sabre_laser (755)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 30
+anoda12 posts big blind 60
+Dealt to sabre_laser [Qd 2d]
+*** PRE-FLOP *** 
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd raises 240 to 300
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+yackd collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 7: yackd won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560493206358196225-12-1442063715 - Holdem no limit (40/80) - 2015/09/12 13:15:15 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1380)
+Seat 3: anoda12 (1240)
+Seat 4: rescator35 (1435)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (2670)
+Seat 8: Geogeo57 (1890)
+Seat 9: sabre_laser (755)
+*** ANTE/BLINDS ***
+anoda12 posts small blind 40
+rescator35 posts big blind 80
+Dealt to sabre_laser [9s 6c]
+*** PRE-FLOP *** 
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 raises 80 to 160
+rescator35 calls 80
+*** FLOP *** [As Kh Kd]
+anoda12 bets 160
+rescator35 raises 1115 to 1275 and is all-in
+anoda12 folds
+rescator35 collected 1755 from pot
+*** SUMMARY ***
+Total pot 1755 | No rake
+Board: [As Kh Kd]
+Seat 4: rescator35 (big blind) won 1755
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560493206358196225-13-1442063772 - Holdem no limit (40/80) - 2015/09/12 13:16:12 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1380)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1755)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (2670)
+Seat 8: Geogeo57 (1890)
+Seat 9: sabre_laser (755)
+*** ANTE/BLINDS ***
+rescator35 posts small blind 40
+Weedy78 posts big blind 80
+Dealt to sabre_laser [9d 2s]
+*** PRE-FLOP *** 
+patrick 1958 folds
+yackd folds
+Geogeo57 raises 240 to 320
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+Geogeo57 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 8: Geogeo57 won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560493206358196225-14-1442063821 - Holdem no limit (40/80) - 2015/09/12 13:17:01 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1380)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2420)
+Seat 6: patrick 1958 (1730)
+Seat 7: yackd (2670)
+Seat 8: Geogeo57 (2010)
+Seat 9: sabre_laser (755)
+*** ANTE/BLINDS ***
+Weedy78 posts small blind 40
+patrick 1958 posts big blind 80
+Dealt to sabre_laser [3d 6c]
+*** PRE-FLOP *** 
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 calls 40
+patrick 1958 checks
+*** FLOP *** [8s 4h 5s]
+Weedy78 bets 80
+patrick 1958 folds
+Weedy78 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8s 4h 5s]
+Seat 5: Weedy78 (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560493206358196225-15-1442063866 - Holdem no limit (40/80) - 2015/09/12 13:17:46 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1380)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1650)
+Seat 7: yackd (2670)
+Seat 8: Geogeo57 (2010)
+Seat 9: sabre_laser (755)
+*** ANTE/BLINDS ***
+patrick 1958 posts small blind 40
+yackd posts big blind 80
+Dealt to sabre_laser [9s 2d]
+*** PRE-FLOP *** 
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+patrick 1958 calls 40
+yackd raises 160 to 240
+patrick 1958 folds
+yackd collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 7: yackd (big blind) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560493206358196225-16-1442063914 - Holdem no limit (60/120) - 2015/09/12 13:18:34 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1380)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (2750)
+Seat 8: Geogeo57 (2010)
+Seat 9: sabre_laser (755)
+*** ANTE/BLINDS ***
+yackd posts small blind 60
+Geogeo57 posts big blind 120
+Dealt to sabre_laser [Ac 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd raises 240 to 360
+Geogeo57 folds
+yackd collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 7: yackd (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560493206358196225-17-1442063974 - Holdem no limit (60/120) - 2015/09/12 13:19:34 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1380)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (2870)
+Seat 8: Geogeo57 (1890)
+Seat 9: sabre_laser (755)
+*** ANTE/BLINDS ***
+Geogeo57 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [6h As]
+*** PRE-FLOP *** 
+cool4321 folds
+FataIBazooka raises 1260 to 1380 and is all-in
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+FataIBazooka collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 2: FataIBazooka won 1560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560493206358196225-18-1442064005 - Holdem no limit (60/120) - 2015/09/12 13:20:05 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cool4321 (1400)
+Seat 2: FataIBazooka (1560)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (2870)
+Seat 8: Geogeo57 (1830)
+Seat 9: sabre_laser (635)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+cool4321 posts big blind 120
+Dealt to sabre_laser [Jd 4d]
+*** PRE-FLOP *** 
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd raises 480 to 600
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+yackd collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 7: yackd won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560493206358196225-19-1442064038 - Holdem no limit (60/120) - 2015/09/12 13:20:38 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cool4321 (1280)
+Seat 2: FataIBazooka (1560)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2500)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (3050)
+Seat 8: Geogeo57 (1830)
+Seat 9: sabre_laser (575)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 60
+FataIBazooka posts big blind 120
+Dealt to sabre_laser [8h Ad]
+*** PRE-FLOP *** 
+anoda12 folds
+rescator35 folds
+Weedy78 calls 120
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser raises 455 to 575 and is all-in
+cool4321 folds
+FataIBazooka folds
+Weedy78 folds
+sabre_laser collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | No rake
+Seat 9: sabre_laser (button) won 875
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560493206358196225-20-1442064104 - Holdem no limit (80/160) - 2015/09/12 13:21:44 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cool4321 (1220)
+Seat 2: FataIBazooka (1440)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2380)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (3050)
+Seat 8: Geogeo57 (1830)
+Seat 9: sabre_laser (875)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 80
+anoda12 posts big blind 160
+Dealt to sabre_laser [Qd 8s]
+*** PRE-FLOP *** 
+rescator35 folds
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 raises 320 to 480
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+Geogeo57 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 8: Geogeo57 won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560493206358196225-21-1442064144 - Holdem no limit (80/160) - 2015/09/12 13:22:24 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cool4321 (1220)
+Seat 2: FataIBazooka (1360)
+Seat 3: anoda12 (760)
+Seat 4: rescator35 (1715)
+Seat 5: Weedy78 (2380)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (3050)
+Seat 8: Geogeo57 (2070)
+Seat 9: sabre_laser (875)
+*** ANTE/BLINDS ***
+anoda12 posts small blind 80
+rescator35 posts big blind 160
+Dealt to sabre_laser [6c Ah]
+*** PRE-FLOP *** 
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 raises 600 to 760 and is all-in
+rescator35 folds
+anoda12 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Seat 3: anoda12 (small blind) won 920
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560493206358196225-22-1442064205 - Holdem no limit (80/160) - 2015/09/12 13:23:25 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cool4321 (1220)
+Seat 2: FataIBazooka (1360)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1555)
+Seat 5: Weedy78 (2380)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (3050)
+Seat 8: Geogeo57 (2070)
+Seat 9: sabre_laser (875)
+*** ANTE/BLINDS ***
+rescator35 posts small blind 80
+Weedy78 posts big blind 160
+Dealt to sabre_laser [6c Ts]
+*** PRE-FLOP *** 
+patrick 1958 folds
+yackd raises 640 to 800
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 folds
+Weedy78 calls 640
+*** FLOP *** [Kd 4c 2h]
+Weedy78 bets 1580 and is all-in
+yackd calls 1580
+*** TURN *** [Kd 4c 2h][Kh]
+*** RIVER *** [Kd 4c 2h Kh][6d]
+*** SHOW DOWN ***
+yackd shows [Td Tc] (Two pairs : Kings and Tens)
+Weedy78 shows [Ks 5d] (Trips of Kings)
+Weedy78 collected 4840 from pot
+*** SUMMARY ***
+Total pot 4840 | No rake
+Board: [Kd 4c 2h Kh 6d]
+Seat 5: Weedy78 (big blind) showed [Ks 5d] and won 4840 with Trips of Kings
+Seat 7: yackd showed [Td Tc] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560493206358196225-23-1442064256 - Holdem no limit (10/100/200) - 2015/09/12 13:24:16 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cool4321 (1220)
+Seat 2: FataIBazooka (1360)
+Seat 3: anoda12 (920)
+Seat 4: rescator35 (1475)
+Seat 5: Weedy78 (4840)
+Seat 6: patrick 1958 (1570)
+Seat 7: yackd (670)
+Seat 8: Geogeo57 (2070)
+Seat 9: sabre_laser (875)
+*** ANTE/BLINDS ***
+Weedy78 posts ante 10
+patrick 1958 posts ante 10
+cool4321 posts ante 10
+FataIBazooka posts ante 10
+anoda12 posts ante 10
+rescator35 posts ante 10
+yackd posts ante 10
+Geogeo57 posts ante 10
+sabre_laser posts ante 10
+Weedy78 posts small blind 100
+patrick 1958 posts big blind 200
+Dealt to sabre_laser [Ks Kc]
+*** PRE-FLOP *** 
+yackd folds
+Geogeo57 folds
+sabre_laser raises 665 to 865 and is all-in
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 calls 865
+Weedy78 folds
+patrick 1958 folds
+*** FLOP *** [6h 2s 7s]
+*** TURN *** [6h 2s 7s][2c]
+*** RIVER *** [6h 2s 7s 2c][3s]
+*** SHOW DOWN ***
+rescator35 shows [Ad Jc] (One pair : 2)
+sabre_laser shows [Ks Kc] (Two pairs : Kings and 2)
+sabre_laser collected 2120 from pot
+*** SUMMARY ***
+Total pot 2120 | No rake
+Board: [6h 2s 7s 2c 3s]
+Seat 4: rescator35 (button) showed [Ad Jc] and lost with One pair : 2
+Seat 9: sabre_laser showed [Ks Kc] and won 2120 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560493206358196225-24-1442064295 - Holdem no limit (10/100/200) - 2015/09/12 13:24:55 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cool4321 (1210)
+Seat 2: FataIBazooka (1350)
+Seat 3: anoda12 (910)
+Seat 4: rescator35 (600)
+Seat 5: Weedy78 (4730)
+Seat 6: patrick 1958 (1360)
+Seat 7: yackd (660)
+Seat 8: Geogeo57 (2060)
+Seat 9: sabre_laser (2120)
+*** ANTE/BLINDS ***
+patrick 1958 posts ante 10
+yackd posts ante 10
+cool4321 posts ante 10
+FataIBazooka posts ante 10
+anoda12 posts ante 10
+rescator35 posts ante 10
+Weedy78 posts ante 10
+Geogeo57 posts ante 10
+sabre_laser posts ante 10
+patrick 1958 posts small blind 100
+yackd posts big blind 200
+Dealt to sabre_laser [Jc 5c]
+*** PRE-FLOP *** 
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+FataIBazooka folds
+anoda12 folds
+rescator35 raises 390 to 590 and is all-in
+Weedy78 calls 590
+patrick 1958 folds
+yackd calls 390
+*** FLOP *** [Ad 5d 7c]
+yackd bets 60 and is all-in
+Weedy78 calls 60
+*** TURN *** [Ad 5d 7c][Td]
+*** RIVER *** [Ad 5d 7c Td][Qd]
+*** SHOW DOWN ***
+rescator35 shows [Ah 4s] (One pair : Aces)
+Weedy78 shows [9d Jh] (Flush Ace high)
+yackd shows [6d Jd] (Flush Ace high)
+yackd collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Board: [Ad 5d 7c Td Qd]
+Seat 4: rescator35 showed [Ah 4s] and lost with One pair : Aces
+Seat 5: Weedy78 (button) showed [9d Jh] and lost with Flush Ace high
+Seat 7: yackd (big blind) showed [6d Jd] and won 2080 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560493206358196225-25-1442064347 - Holdem no limit (10/100/200) - 2015/09/12 13:25:47 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cool4321 (1200)
+Seat 2: FataIBazooka (1340)
+Seat 3: anoda12 (900)
+Seat 5: Weedy78 (4070)
+Seat 6: patrick 1958 (1250)
+Seat 7: yackd (2080)
+Seat 8: Geogeo57 (2050)
+Seat 9: sabre_laser (2110)
+*** ANTE/BLINDS ***
+yackd posts ante 10
+Geogeo57 posts ante 10
+cool4321 posts ante 10
+FataIBazooka posts ante 10
+anoda12 posts ante 10
+Weedy78 posts ante 10
+patrick 1958 posts ante 10
+sabre_laser posts ante 10
+yackd posts small blind 100
+Geogeo57 posts big blind 200
+Dealt to sabre_laser [3s 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+cool4321 folds
+FataIBazooka raises 1130 to 1330 and is all-in
+anoda12 folds
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 raises 710 to 2040 and is all-in
+*** FLOP *** [Kd 2s 8d]
+*** TURN *** [Kd 2s 8d][Kc]
+*** RIVER *** [Kd 2s 8d Kc][7c]
+*** SHOW DOWN ***
+FataIBazooka shows [Th Ac] (One pair : Kings)
+Geogeo57 shows [Ah Jh] (One pair : Kings)
+Geogeo57 collected 3550 from pot
+*** SUMMARY ***
+Total pot 3550 | No rake
+Board: [Kd 2s 8d Kc 7c]
+Seat 2: FataIBazooka showed [Th Ac] and lost with One pair : Kings
+Seat 8: Geogeo57 (big blind) showed [Ah Jh] and won 3550 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560493206358196225-26-1442064386 - Holdem no limit (10/100/200) - 2015/09/12 13:26:26 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cool4321 (1190)
+Seat 3: anoda12 (890)
+Seat 5: Weedy78 (4060)
+Seat 6: patrick 1958 (1240)
+Seat 7: yackd (1970)
+Seat 8: Geogeo57 (3550)
+Seat 9: sabre_laser (2100)
+*** ANTE/BLINDS ***
+Geogeo57 posts ante 10
+sabre_laser posts ante 10
+cool4321 posts ante 10
+anoda12 posts ante 10
+Weedy78 posts ante 10
+patrick 1958 posts ante 10
+yackd posts ante 10
+Geogeo57 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Jc 2d]
+*** PRE-FLOP *** 
+cool4321 folds
+anoda12 folds
+Weedy78 calls 200
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser checks
+*** FLOP *** [As Kd 6h]
+sabre_laser checks
+Weedy78 bets 200
+sabre_laser folds
+Weedy78 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [As Kd 6h]
+Seat 5: Weedy78 won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560493206358196225-27-1442064435 - Holdem no limit (20/150/300) - 2015/09/12 13:27:15 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cool4321 (1180)
+Seat 3: anoda12 (880)
+Seat 5: Weedy78 (4420)
+Seat 6: patrick 1958 (1230)
+Seat 7: yackd (1960)
+Seat 8: Geogeo57 (3440)
+Seat 9: sabre_laser (1890)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+cool4321 posts ante 20
+anoda12 posts ante 20
+Weedy78 posts ante 20
+patrick 1958 posts ante 20
+yackd posts ante 20
+Geogeo57 posts ante 20
+sabre_laser posts small blind 150
+cool4321 posts big blind 300
+Dealt to sabre_laser [6h 4d]
+*** PRE-FLOP *** 
+anoda12 raises 560 to 860 and is all-in
+Weedy78 calls 860
+patrick 1958 folds
+yackd calls 860
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+*** FLOP *** [9s Ks Jd]
+Weedy78 checks
+yackd checks
+*** TURN *** [9s Ks Jd][5d]
+Weedy78 bets 1085
+yackd folds
+*** RIVER *** [9s Ks Jd 5d][6d]
+*** SHOW DOWN ***
+anoda12 shows [Ah 7s] (High card : Ace)
+Weedy78 shows [Ts Qs] (Straight King high)
+Weedy78 collected 4255 from pot
+*** SUMMARY ***
+Total pot 4255 | No rake
+Board: [9s Ks Jd 5d 6d]
+Seat 3: anoda12 showed [Ah 7s] and lost with High card : Ace
+Seat 5: Weedy78 showed [Ts Qs] and won 4255 with Straight King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560493206358196225-28-1442064502 - Holdem no limit (20/150/300) - 2015/09/12 13:28:22 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cool4321 (860)
+Seat 5: Weedy78 (6710)
+Seat 6: patrick 1958 (1210)
+Seat 7: yackd (1080)
+Seat 8: Geogeo57 (3420)
+Seat 9: sabre_laser (1720)
+*** ANTE/BLINDS ***
+cool4321 posts ante 20
+Weedy78 posts ante 20
+patrick 1958 posts ante 20
+yackd posts ante 20
+Geogeo57 posts ante 20
+sabre_laser posts ante 20
+cool4321 posts small blind 150
+Weedy78 posts big blind 300
+Dealt to sabre_laser [As Th]
+*** PRE-FLOP *** 
+patrick 1958 folds
+yackd raises 760 to 1060 and is all-in
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+Weedy78 folds
+yackd collected 1630 from pot
+*** SUMMARY ***
+Total pot 1630 | No rake
+Seat 7: yackd won 1630
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560493206358196225-29-1442064543 - Holdem no limit (20/150/300) - 2015/09/12 13:29:03 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cool4321 (690)
+Seat 5: Weedy78 (6390)
+Seat 6: patrick 1958 (1190)
+Seat 7: yackd (1630)
+Seat 8: Geogeo57 (3400)
+Seat 9: sabre_laser (1700)
+*** ANTE/BLINDS ***
+Weedy78 posts ante 20
+patrick 1958 posts ante 20
+cool4321 posts ante 20
+yackd posts ante 20
+Geogeo57 posts ante 20
+sabre_laser posts ante 20
+Weedy78 posts small blind 150
+patrick 1958 posts big blind 300
+Dealt to sabre_laser [5d Ad]
+*** PRE-FLOP *** 
+yackd folds
+Geogeo57 folds
+sabre_laser folds
+cool4321 raises 370 to 670 and is all-in
+Weedy78 folds
+patrick 1958 folds
+cool4321 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Seat 1: cool4321 (button) won 1240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560493206358196225-30-1442064562 - Holdem no limit (20/150/300) - 2015/09/12 13:29:22 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cool4321 (1240)
+Seat 5: Weedy78 (6220)
+Seat 6: patrick 1958 (870)
+Seat 7: yackd (1610)
+Seat 8: Geogeo57 (3380)
+Seat 9: sabre_laser (1680)
+*** ANTE/BLINDS ***
+patrick 1958 posts ante 20
+yackd posts ante 20
+cool4321 posts ante 20
+Weedy78 posts ante 20
+Geogeo57 posts ante 20
+sabre_laser posts ante 20
+patrick 1958 posts small blind 150
+yackd posts big blind 300
+Dealt to sabre_laser [7h 4d]
+*** PRE-FLOP *** 
+Geogeo57 folds
+sabre_laser folds
+cool4321 folds
+Weedy78 folds
+patrick 1958 folds
+yackd collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 7: yackd (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560493206358196225-31-1442064579 - Holdem no limit (20/150/300) - 2015/09/12 13:29:39 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cool4321 (1220)
+Seat 5: Weedy78 (6200)
+Seat 6: patrick 1958 (700)
+Seat 7: yackd (1860)
+Seat 8: Geogeo57 (3360)
+Seat 9: sabre_laser (1660)
+*** ANTE/BLINDS ***
+yackd posts ante 20
+Geogeo57 posts ante 20
+cool4321 posts ante 20
+Weedy78 posts ante 20
+patrick 1958 posts ante 20
+sabre_laser posts ante 20
+yackd posts small blind 150
+Geogeo57 posts big blind 300
+Dealt to sabre_laser [5s Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+cool4321 folds
+Weedy78 calls 300
+patrick 1958 folds
+yackd folds
+Geogeo57 checks
+*** FLOP *** [2c 5d 6h]
+Geogeo57 checks
+Weedy78 bets 300
+Geogeo57 raises 300 to 600
+Weedy78 calls 300
+*** TURN *** [2c 5d 6h][Js]
+Geogeo57 bets 300
+Weedy78 raises 300 to 600
+Geogeo57 calls 300
+*** RIVER *** [2c 5d 6h Js][Kh]
+Geogeo57 checks
+Weedy78 checks
+*** SHOW DOWN ***
+Weedy78 shows [Qs 8s] (High card : King)
+Geogeo57 shows [7d 6c] (One pair : 6)
+Geogeo57 collected 3270 from pot
+*** SUMMARY ***
+Total pot 3270 | No rake
+Board: [2c 5d 6h Js Kh]
+Seat 5: Weedy78 showed [Qs 8s] and lost with High card : King
+Seat 8: Geogeo57 (big blind) showed [7d 6c] and won 3270 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560493206358196225-32-1442064624 - Holdem no limit (50/200/400) - 2015/09/12 13:30:24 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cool4321 (1200)
+Seat 5: Weedy78 (4680)
+Seat 6: patrick 1958 (680)
+Seat 7: yackd (1690)
+Seat 8: Geogeo57 (5110)
+Seat 9: sabre_laser (1640)
+*** ANTE/BLINDS ***
+Geogeo57 posts ante 50
+sabre_laser posts ante 50
+cool4321 posts ante 50
+Weedy78 posts ante 50
+patrick 1958 posts ante 50
+yackd posts ante 50
+Geogeo57 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Tc 2h]
+*** PRE-FLOP *** 
+cool4321 folds
+Weedy78 calls 400
+patrick 1958 folds
+yackd folds
+Geogeo57 calls 200
+sabre_laser checks
+*** FLOP *** [Qh 4s 4c]
+Geogeo57 checks
+sabre_laser checks
+Weedy78 checks
+*** TURN *** [Qh 4s 4c][Td]
+Geogeo57 checks
+sabre_laser bets 1190 and is all-in
+Weedy78 folds
+Geogeo57 folds
+sabre_laser collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Board: [Qh 4s 4c Td]
+Seat 9: sabre_laser (big blind) won 2690
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560493206358196225-33-1442064701 - Holdem no limit (50/200/400) - 2015/09/12 13:31:41 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cool4321 (1150)
+Seat 5: Weedy78 (4230)
+Seat 6: patrick 1958 (630)
+Seat 7: yackd (1640)
+Seat 8: Geogeo57 (4660)
+Seat 9: sabre_laser (2690)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+cool4321 posts ante 50
+Weedy78 posts ante 50
+patrick 1958 posts ante 50
+yackd posts ante 50
+Geogeo57 posts ante 50
+sabre_laser posts small blind 200
+cool4321 posts big blind 400
+Dealt to sabre_laser [3s 3d]
+*** PRE-FLOP *** 
+Weedy78 folds
+patrick 1958 folds
+yackd folds
+Geogeo57 folds
+sabre_laser raises 2240 to 2640 and is all-in
+cool4321 folds
+sabre_laser collected 3340 from pot
+*** SUMMARY ***
+Total pot 3340 | No rake
+Seat 9: sabre_laser (small blind) won 3340
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560493206358196225-34-1442064723 - Holdem no limit (50/200/400) - 2015/09/12 13:32:03 UTC
+Table: 'Double or Nothing(130499994)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cool4321 (700)
+Seat 5: Weedy78 (4180)
+Seat 6: patrick 1958 (580)
+Seat 7: yackd (1590)
+Seat 8: Geogeo57 (4610)
+Seat 9: sabre_laser (3340)
+*** ANTE/BLINDS ***
+cool4321 posts ante 50
+Weedy78 posts ante 50
+patrick 1958 posts ante 50
+yackd posts ante 50
+Geogeo57 posts ante 50
+sabre_laser posts ante 50
+cool4321 posts small blind 200
+Weedy78 posts big blind 400
+Dealt to sabre_laser [Jc 4h]
+*** PRE-FLOP *** 
+patrick 1958 raises 130 to 530 and is all-in
+yackd folds
+Geogeo57 folds
+sabre_laser calls 530
+cool4321 calls 330
+Weedy78 calls 130
+*** FLOP *** [Td Kh 4c]
+cool4321 checks
+Weedy78 bets 400
+sabre_laser folds
+cool4321 calls 120 and is all-in
+*** TURN *** [Td Kh 4c][3d]
+*** RIVER *** [Td Kh 4c 3d][Jd]
+*** SHOW DOWN ***
+cool4321 shows [2d Tc] (One pair : Tens)
+patrick 1958 shows [9c 9d] (One pair : 9)
+Weedy78 shows [Ad Kd] (Flush Ace high)
+Weedy78 collected 2940 from pot
+*** SUMMARY ***
+Total pot 2940 | No rake
+Board: [Td Kh 4c 3d Jd]
+Seat 1: cool4321 (small blind) showed [2d Tc] and lost with One pair : Tens
+Seat 5: Weedy78 (big blind) showed [Ad Kd] and won 2940 with Flush Ace high
+Seat 6: patrick 1958 showed [9c 9d] and lost with One pair : 9
+
+

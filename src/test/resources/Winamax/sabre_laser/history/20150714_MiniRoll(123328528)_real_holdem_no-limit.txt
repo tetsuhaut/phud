@@ -1,0 +1,222 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #529691994423820322-5-1436875569 - Holdem no limit (50/100) - 2015/07/14 12:06:09 UTC
+Table: 'MiniRoll(123328528)#033' 6-max (real money) Seat #3 is the button
+Seat 1: sarahds (9925)
+Seat 2: atchoum83300 (10000)
+Seat 3: WinComputer1 (9950)
+Seat 4: remember-me (10100)
+Seat 6: sabre_laser (10000)
+*** ANTE/BLINDS ***
+remember-me posts small blind 50
+sabre_laser posts big blind 100
+Dealt to sabre_laser [6c 9s]
+*** PRE-FLOP *** 
+sarahds folds
+atchoum83300 calls 100
+WinComputer1 folds
+remember-me raises 700 to 800
+sabre_laser folds
+atchoum83300 calls 700
+*** FLOP *** [Ac 7s 2c]
+remember-me checks
+atchoum83300 checks
+*** TURN *** [Ac 7s 2c][7h]
+remember-me checks
+atchoum83300 checks
+*** RIVER *** [Ac 7s 2c 7h][Jd]
+remember-me checks
+atchoum83300 checks
+*** SHOW DOWN ***
+atchoum83300 shows [Qh Ks] (One pair : 7)
+remember-me shows [5c 5d] (Two pairs : 7 and 5)
+remember-me collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [Ac 7s 2c 7h Jd]
+Seat 2: atchoum83300 showed [Qh Ks] and lost with One pair : 7
+Seat 4: remember-me (small blind) showed [5c 5d] and won 1700 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #529691994423820322-6-1436875614 - Holdem no limit (50/100) - 2015/07/14 12:06:54 UTC
+Table: 'MiniRoll(123328528)#033' 6-max (real money) Seat #4 is the button
+Seat 1: sarahds (9925)
+Seat 2: atchoum83300 (9200)
+Seat 3: WinComputer1 (9950)
+Seat 4: remember-me (11000)
+Seat 5: Blade30140 (9775)
+Seat 6: sabre_laser (9900)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 50
+sarahds posts big blind 100
+Dealt to sabre_laser [9s 4d]
+*** PRE-FLOP *** 
+atchoum83300 folds
+WinComputer1 folds
+remember-me folds
+sabre_laser calls 50
+sarahds raises 250 to 350
+sabre_laser folds
+sarahds collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: sarahds (big blind) won 450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #529691994423820322-7-1436875652 - Holdem no limit (50/100) - 2015/07/14 12:07:32 UTC
+Table: 'MiniRoll(123328528)#033' 6-max (real money) Seat #6 is the button
+Seat 1: sarahds (10025)
+Seat 2: atchoum83300 (9200)
+Seat 3: WinComputer1 (9950)
+Seat 4: Ensorceleuze (10200)
+Seat 5: Blade30140 (9775)
+Seat 6: sabre_laser (9800)
+*** ANTE/BLINDS ***
+sarahds posts small blind 50
+atchoum83300 posts big blind 100
+Dealt to sabre_laser [Jc 3s]
+*** PRE-FLOP *** 
+WinComputer1 folds
+Ensorceleuze folds
+Blade30140 calls 100
+sabre_laser folds
+sarahds folds
+atchoum83300 checks
+*** FLOP *** [Qh Qc Js]
+atchoum83300 checks
+Blade30140 checks
+*** TURN *** [Qh Qc Js][Jh]
+atchoum83300 checks
+Blade30140 bets 125
+atchoum83300 calls 125
+*** RIVER *** [Qh Qc Js Jh][7h]
+atchoum83300 bets 100
+Blade30140 raises 700 to 800
+atchoum83300 calls 700
+*** SHOW DOWN ***
+atchoum83300 shows [3h 9h] (Flush Queen high)
+Blade30140 shows [Kh Jd] (Full of Jacks and Queens)
+Blade30140 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [Qh Qc Js Jh 7h]
+Seat 2: atchoum83300 (big blind) showed [3h 9h] and lost with Flush Queen high
+Seat 5: Blade30140 showed [Kh Jd] and won 2100 with Full of Jacks and Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #529691994423820322-8-1436875700 - Holdem no limit (50/100) - 2015/07/14 12:08:20 UTC
+Table: 'MiniRoll(123328528)#033' 6-max (real money) Seat #1 is the button
+Seat 1: sarahds (9975)
+Seat 2: atchoum83300 (8175)
+Seat 3: WinComputer1 (9950)
+Seat 4: Ensorceleuze (10200)
+Seat 5: Blade30140 (10850)
+Seat 6: sabre_laser (9800)
+*** ANTE/BLINDS ***
+atchoum83300 posts small blind 50
+WinComputer1 posts big blind 100
+Dealt to sabre_laser [Qd Jd]
+*** PRE-FLOP *** 
+Ensorceleuze folds
+Blade30140 calls 100
+sabre_laser calls 100
+sarahds folds
+atchoum83300 calls 50
+WinComputer1 checks
+*** FLOP *** [Ad Ts Ks]
+atchoum83300 checks
+WinComputer1 checks
+Blade30140 checks
+sabre_laser bets 250
+atchoum83300 folds
+WinComputer1 folds
+Blade30140 calls 250
+*** TURN *** [Ad Ts Ks][6c]
+Blade30140 checks
+sabre_laser checks
+*** RIVER *** [Ad Ts Ks 6c][4c]
+Blade30140 bets 900
+sabre_laser raises 900 to 1800
+Blade30140 raises 8700 to 10500 and is all-in
+sabre_laser calls 7650 and is all-in
+*** SHOW DOWN ***
+sabre_laser shows [Qd Jd] (Straight Ace high)
+Blade30140 shows [Jh Qs] (Straight Ace high)
+Blade30140 collected 10950 from side pot 1
+sabre_laser collected 9900 from main pot
+*** SUMMARY ***
+Total pot 20850 | No rake
+Board: [Ad Ts Ks 6c 4c]
+Seat 5: Blade30140 showed [Jh Qs] and won 10950 with Straight Ace high
+Seat 6: sabre_laser showed [Qd Jd] and won 9900 with Straight Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #529691994423820322-9-1436875788 - Holdem no limit (50/100) - 2015/07/14 12:09:48 UTC
+Table: 'MiniRoll(123328528)#033' 6-max (real money) Seat #2 is the button
+Seat 1: sarahds (9975)
+Seat 2: atchoum83300 (8075)
+Seat 3: WinComputer1 (9850)
+Seat 4: Ensorceleuze (10200)
+Seat 5: Blade30140 (10950)
+Seat 6: sabre_laser (9900)
+*** ANTE/BLINDS ***
+WinComputer1 posts small blind 50
+Ensorceleuze posts big blind 100
+Dealt to sabre_laser [4h Qs]
+*** PRE-FLOP *** 
+Blade30140 folds
+sabre_laser folds
+sarahds folds
+atchoum83300 folds
+WinComputer1 calls 50
+Ensorceleuze checks
+*** FLOP *** [7c Qh Kh]
+WinComputer1 bets 200
+Ensorceleuze folds
+WinComputer1 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [7c Qh Kh]
+Seat 3: WinComputer1 (small blind) won 400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #529691994423820322-10-1436875829 - Holdem no limit (50/100) - 2015/07/14 12:10:29 UTC
+Table: 'MiniRoll(123328528)#033' 6-max (real money) Seat #3 is the button
+Seat 1: sarahds (9975)
+Seat 2: atchoum83300 (8075)
+Seat 3: WinComputer1 (9950)
+Seat 4: Ensorceleuze (10100)
+Seat 5: Blade30140 (10950)
+Seat 6: sabre_laser (9900)
+*** ANTE/BLINDS ***
+Ensorceleuze posts small blind 50
+Blade30140 posts big blind 100
+Dealt to sabre_laser [Tc Jc]
+*** PRE-FLOP *** 
+sabre_laser calls 100
+sarahds raises 200 to 300
+atchoum83300 folds
+WinComputer1 folds
+Ensorceleuze folds
+Blade30140 calls 200
+sabre_laser calls 200
+*** FLOP *** [Th 6h 9s]
+Blade30140 checks
+sabre_laser bets 713
+sarahds calls 713
+Blade30140 folds
+*** TURN *** [Th 6h 9s][Ks]
+sabre_laser checks
+sarahds bets 1584
+sabre_laser raises 7303 to 8887 and is all-in
+sarahds calls 7303
+*** RIVER *** [Th 6h 9s Ks][As]
+*** SHOW DOWN ***
+sabre_laser shows [Tc Jc] (One pair : Tens)
+sarahds shows [Qc Kc] (One pair : Kings)
+sarahds collected 20150 from pot
+*** SUMMARY ***
+Total pot 20150 | No rake
+Board: [Th 6h 9s Ks As]
+Seat 1: sarahds showed [Qc Kc] and won 20150 with One pair : Kings
+Seat 6: sabre_laser showed [Tc Jc] and lost with One pair : Tens
+
+

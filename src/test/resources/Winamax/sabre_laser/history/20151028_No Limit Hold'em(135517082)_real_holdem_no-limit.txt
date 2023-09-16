@@ -1,0 +1,1944 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #582041435239350273-1-1446065503 - Holdem no limit (10/20) - 2015/10/28 20:51:43 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Z6471 (1500)
+Seat 2: mr_mojo (1500)
+Seat 3: Silent Ghost (1500)
+Seat 4: 8LuckyRenzo8 (1500)
+Seat 5: esbrouf62 (1500)
+Seat 6: saumon4764 (1500)
+Seat 7: BEN85GAU (1500)
+Seat 8: Atalie (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: berni37 (1500)
+*** ANTE/BLINDS ***
+esbrouf62 posts small blind 10
+saumon4764 posts big blind 20
+Dealt to sabre_laser [6c 4s]
+*** PRE-FLOP *** 
+BEN85GAU calls 20
+Atalie calls 20
+sabre_laser folds
+berni37 calls 20
+Z6471 calls 20
+mr_mojo folds
+Silent Ghost folds
+8LuckyRenzo8 folds
+esbrouf62 calls 10
+saumon4764 checks
+*** FLOP *** [Ah 6s 4c]
+esbrouf62 checks
+saumon4764 checks
+BEN85GAU bets 90
+Atalie folds
+berni37 folds
+Z6471 folds
+esbrouf62 folds
+saumon4764 folds
+BEN85GAU collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Ah 6s 4c]
+Seat 7: BEN85GAU won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #582041435239350273-2-1446065583 - Holdem no limit (10/20) - 2015/10/28 20:53:03 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Z6471 (1480)
+Seat 2: mr_mojo (1500)
+Seat 3: Silent Ghost (1500)
+Seat 4: 8LuckyRenzo8 (1500)
+Seat 5: esbrouf62 (1480)
+Seat 6: saumon4764 (1480)
+Seat 7: BEN85GAU (1600)
+Seat 8: Atalie (1480)
+Seat 9: sabre_laser (1500)
+Seat 10: berni37 (1480)
+*** ANTE/BLINDS ***
+saumon4764 posts small blind 10
+BEN85GAU posts big blind 20
+Dealt to sabre_laser [3h Jd]
+*** PRE-FLOP *** 
+Atalie calls 20
+sabre_laser folds
+berni37 raises 60 to 80
+Z6471 folds
+mr_mojo calls 80
+Silent Ghost calls 80
+8LuckyRenzo8 calls 80
+esbrouf62 folds
+saumon4764 folds
+BEN85GAU folds
+Atalie calls 60
+*** FLOP *** [Ah Ks 5s]
+Atalie checks
+berni37 checks
+mr_mojo checks
+Silent Ghost bets 430
+8LuckyRenzo8 folds
+Atalie calls 430
+berni37 folds
+mr_mojo folds
+*** TURN *** [Ah Ks 5s][8h]
+Atalie checks
+Silent Ghost bets 990 and is all-in
+Atalie calls 970 and is all-in
+*** RIVER *** [Ah Ks 5s 8h][8s]
+*** SHOW DOWN ***
+Atalie shows [Js 6s] (Flush King high)
+Silent Ghost shows [5h Kh] (Two pairs : Kings and 8)
+Silent Ghost collected 20 from side pot 1
+Atalie collected 3230 from main pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Board: [Ah Ks 5s 8h 8s]
+Seat 3: Silent Ghost showed [5h Kh] and won 20 with Two pairs : Kings and 8
+Seat 8: Atalie showed [Js 6s] and won 3230 with Flush King high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #582041435239350273-3-1446065683 - Holdem no limit (10/20) - 2015/10/28 20:54:43 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Z6471 (1480)
+Seat 2: mr_mojo (1420)
+Seat 3: Silent Ghost (20)
+Seat 4: 8LuckyRenzo8 (1420)
+Seat 5: esbrouf62 (1480)
+Seat 6: saumon4764 (1470)
+Seat 7: BEN85GAU (1580)
+Seat 8: Atalie (3230)
+Seat 9: sabre_laser (1500)
+Seat 10: berni37 (1400)
+*** ANTE/BLINDS ***
+BEN85GAU posts small blind 10
+Atalie posts big blind 20
+Dealt to sabre_laser [6s Qd]
+*** PRE-FLOP *** 
+sabre_laser folds
+berni37 raises 60 to 80
+Z6471 folds
+mr_mojo folds
+Silent Ghost calls 20 and is all-in
+8LuckyRenzo8 folds
+esbrouf62 folds
+saumon4764 folds
+BEN85GAU folds
+Atalie calls 60
+*** FLOP *** [Kh Ts 5s]
+Atalie bets 3150 and is all-in
+berni37 folds
+*** TURN *** [Kh Ts 5s][Ah]
+*** RIVER *** [Kh Ts 5s Ah][7c]
+*** SHOW DOWN ***
+Silent Ghost shows [Tc 7s] (Two pairs : Tens and 7)
+Atalie shows [Jh Kd] (One pair : Kings)
+Atalie collected 3270 from side pot 1
+Silent Ghost collected 70 from main pot
+*** SUMMARY ***
+Total pot 3340 | No rake
+Board: [Kh Ts 5s Ah 7c]
+Seat 3: Silent Ghost showed [Tc 7s] and won 70 with Two pairs : Tens and 7
+Seat 8: Atalie (big blind) showed [Jh Kd] and won 3270 with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #582041435239350273-4-1446065727 - Holdem no limit (10/20) - 2015/10/28 20:55:27 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Z6471 (1480)
+Seat 2: mr_mojo (1420)
+Seat 3: Silent Ghost (70)
+Seat 4: 8LuckyRenzo8 (1420)
+Seat 5: esbrouf62 (1480)
+Seat 6: saumon4764 (1470)
+Seat 7: BEN85GAU (1570)
+Seat 8: Atalie (3270)
+Seat 9: sabre_laser (1500)
+Seat 10: berni37 (1320)
+*** ANTE/BLINDS ***
+Atalie posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Jc Jh]
+*** PRE-FLOP *** 
+berni37 calls 20
+Z6471 folds
+mr_mojo folds
+Silent Ghost raises 50 to 70 and is all-in
+8LuckyRenzo8 folds
+esbrouf62 folds
+saumon4764 calls 70
+BEN85GAU folds
+Atalie calls 60
+sabre_laser raises 1430 to 1500 and is all-in
+berni37 folds
+saumon4764 folds
+Atalie folds
+*** FLOP *** [Ah Ad 5s]
+*** TURN *** [Ah Ad 5s][Js]
+*** RIVER *** [Ah Ad 5s Js][Th]
+*** SHOW DOWN ***
+Silent Ghost shows [2h Kh] (One pair : Aces)
+sabre_laser shows [Jc Jh] (Full of Jacks and Aces)
+sabre_laser collected 1730 from pot
+*** SUMMARY ***
+Total pot 1730 | No rake
+Board: [Ah Ad 5s Js Th]
+Seat 3: Silent Ghost showed [2h Kh] and lost with One pair : Aces
+Seat 9: sabre_laser (big blind) showed [Jc Jh] and won 1730 with Full of Jacks and Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #582041435239350273-5-1446065787 - Holdem no limit (10/20) - 2015/10/28 20:56:27 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Z6471 (1480)
+Seat 2: mr_mojo (1420)
+Seat 4: 8LuckyRenzo8 (1420)
+Seat 5: esbrouf62 (1480)
+Seat 6: saumon4764 (1400)
+Seat 7: BEN85GAU (1570)
+Seat 8: Atalie (3200)
+Seat 9: sabre_laser (1730)
+Seat 10: berni37 (1300)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+berni37 posts big blind 20
+Dealt to sabre_laser [Qc Th]
+*** PRE-FLOP *** 
+Z6471 folds
+mr_mojo calls 20
+8LuckyRenzo8 folds
+esbrouf62 folds
+saumon4764 folds
+BEN85GAU folds
+Atalie calls 20
+sabre_laser calls 10
+berni37 checks
+*** FLOP *** [3s 3c 6s]
+sabre_laser checks
+berni37 bets 40
+mr_mojo raises 80 to 120
+Atalie folds
+sabre_laser folds
+berni37 calls 80
+*** TURN *** [3s 3c 6s][5h]
+berni37 checks
+mr_mojo bets 320
+berni37 calls 320
+*** RIVER *** [3s 3c 6s 5h][6d]
+berni37 checks
+mr_mojo checks
+*** SHOW DOWN ***
+berni37 shows [5s Js] (Two pairs : 6 and 5)
+mr_mojo shows [2d 3d] (Full of 3 and 6)
+mr_mojo collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [3s 3c 6s 5h 6d]
+Seat 2: mr_mojo showed [2d 3d] and won 960 with Full of 3 and 6
+Seat 10: berni37 (big blind) showed [5s Js] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #582041435239350273-6-1446065871 - Holdem no limit (15/30) - 2015/10/28 20:57:51 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Z6471 (1480)
+Seat 2: mr_mojo (1920)
+Seat 4: 8LuckyRenzo8 (1420)
+Seat 5: esbrouf62 (1480)
+Seat 6: saumon4764 (1400)
+Seat 7: BEN85GAU (1570)
+Seat 8: Atalie (3180)
+Seat 9: sabre_laser (1710)
+Seat 10: berni37 (840)
+*** ANTE/BLINDS ***
+berni37 posts small blind 15
+Z6471 posts big blind 30
+Dealt to sabre_laser [Qh 7s]
+*** PRE-FLOP *** 
+mr_mojo folds
+8LuckyRenzo8 folds
+esbrouf62 folds
+saumon4764 folds
+BEN85GAU raises 45 to 75
+Atalie folds
+sabre_laser folds
+berni37 folds
+Z6471 folds
+BEN85GAU collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 7: BEN85GAU won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #582041435239350273-7-1446065897 - Holdem no limit (15/30) - 2015/10/28 20:58:17 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Z6471 (1450)
+Seat 2: mr_mojo (1920)
+Seat 4: 8LuckyRenzo8 (1420)
+Seat 5: esbrouf62 (1480)
+Seat 6: saumon4764 (1400)
+Seat 7: BEN85GAU (1615)
+Seat 8: Atalie (3180)
+Seat 9: sabre_laser (1710)
+Seat 10: berni37 (825)
+*** ANTE/BLINDS ***
+Z6471 posts small blind 15
+mr_mojo posts big blind 30
+Dealt to sabre_laser [5s Qh]
+*** PRE-FLOP *** 
+8LuckyRenzo8 folds
+esbrouf62 raises 30 to 60
+saumon4764 calls 60
+BEN85GAU folds
+Atalie folds
+sabre_laser folds
+berni37 folds
+Z6471 raises 40 to 100
+mr_mojo folds
+esbrouf62 calls 40
+saumon4764 calls 40
+*** FLOP *** [Qd 2c Ac]
+Z6471 checks
+esbrouf62 bets 220
+saumon4764 folds
+Z6471 calls 220
+*** TURN *** [Qd 2c Ac][Js]
+Z6471 checks
+esbrouf62 bets 578
+Z6471 calls 578
+*** RIVER *** [Qd 2c Ac Js][8h]
+Z6471 checks
+esbrouf62 bets 582 and is all-in
+Z6471 calls 552 and is all-in
+*** SHOW DOWN ***
+Z6471 shows [As Kd] (One pair : Aces)
+esbrouf62 shows [Tc Jc] (One pair : Jacks)
+esbrouf62 collected 30 from side pot 1
+Z6471 collected 3030 from main pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Board: [Qd 2c Ac Js 8h]
+Seat 1: Z6471 (small blind) showed [As Kd] and won 3030 with One pair : Aces
+Seat 5: esbrouf62 showed [Tc Jc] and won 30 with One pair : Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #582041435239350273-8-1446065989 - Holdem no limit (15/30) - 2015/10/28 20:59:49 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Z6471 (3030)
+Seat 2: mr_mojo (1890)
+Seat 4: 8LuckyRenzo8 (1420)
+Seat 5: esbrouf62 (30)
+Seat 6: saumon4764 (1300)
+Seat 7: BEN85GAU (1615)
+Seat 8: Atalie (3180)
+Seat 9: sabre_laser (1710)
+Seat 10: berni37 (825)
+*** ANTE/BLINDS ***
+mr_mojo posts small blind 15
+8LuckyRenzo8 posts big blind 30
+Dealt to sabre_laser [Kc 7h]
+*** PRE-FLOP *** 
+esbrouf62 calls 30 and is all-in
+saumon4764 folds
+BEN85GAU folds
+Atalie calls 30
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo calls 15
+8LuckyRenzo8 checks
+*** FLOP *** [4s 2d Td]
+mr_mojo checks
+8LuckyRenzo8 checks
+Atalie checks
+*** TURN *** [4s 2d Td][4c]
+mr_mojo checks
+8LuckyRenzo8 checks
+Atalie checks
+*** RIVER *** [4s 2d Td 4c][Ah]
+mr_mojo checks
+8LuckyRenzo8 checks
+Atalie bets 30
+mr_mojo calls 30
+8LuckyRenzo8 folds
+*** SHOW DOWN ***
+mr_mojo shows [Qs 8d] (One pair : 4)
+esbrouf62 shows [2h As] (Two pairs : Aces and 4)
+Atalie shows [5h Ac] (Two pairs : Aces and 4)
+Atalie collected 120 from side pot 1
+esbrouf62 collected 60 from main pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4s 2d Td 4c Ah]
+Seat 2: mr_mojo (small blind) showed [Qs 8d] and lost with One pair : 4
+Seat 5: esbrouf62 showed [2h As] and won 60 with Two pairs : Aces and 4
+Seat 8: Atalie showed [5h Ac] and won 120 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #582041435239350273-9-1446066044 - Holdem no limit (15/30) - 2015/10/28 21:00:44 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Z6471 (3030)
+Seat 2: mr_mojo (1830)
+Seat 4: 8LuckyRenzo8 (1390)
+Seat 5: esbrouf62 (60)
+Seat 6: saumon4764 (1300)
+Seat 7: BEN85GAU (1615)
+Seat 8: Atalie (3240)
+Seat 9: sabre_laser (1710)
+Seat 10: berni37 (825)
+*** ANTE/BLINDS ***
+8LuckyRenzo8 posts small blind 15
+esbrouf62 posts big blind 30
+Dealt to sabre_laser [8s Kc]
+*** PRE-FLOP *** 
+saumon4764 calls 30
+BEN85GAU folds
+Atalie calls 30
+sabre_laser folds
+berni37 folds
+Z6471 calls 30
+mr_mojo folds
+8LuckyRenzo8 raises 150 to 180
+esbrouf62 calls 30 and is all-in
+saumon4764 calls 150
+Atalie calls 150
+Z6471 calls 150
+*** FLOP *** [5c 3d Ac]
+8LuckyRenzo8 bets 520
+saumon4764 calls 520
+Atalie raises 2540 to 3060 and is all-in
+Z6471 folds
+8LuckyRenzo8 calls 690 and is all-in
+saumon4764 calls 600 and is all-in
+*** TURN *** [5c 3d Ac][3s]
+*** RIVER *** [5c 3d Ac 3s][2s]
+*** SHOW DOWN ***
+8LuckyRenzo8 shows [Ah Jd] (Two pairs : Aces and 3)
+esbrouf62 shows [4c Ad] (Straight 5 high)
+saumon4764 shows [7c 9c] (One pair : 3)
+Atalie shows [2h 2c] (Full of 2 and 3)
+Atalie collected 6170 from pot
+*** SUMMARY ***
+Total pot 6170 | No rake
+Board: [5c 3d Ac 3s 2s]
+Seat 4: 8LuckyRenzo8 (small blind) showed [Ah Jd] and lost with Two pairs : Aces and 3
+Seat 5: esbrouf62 (big blind) showed [4c Ad] and lost with Straight 5 high
+Seat 6: saumon4764 showed [7c 9c] and lost with One pair : 3
+Seat 8: Atalie showed [2h 2c] and won 6170 with Full of 2 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #582041435239350273-10-1446066112 - Holdem no limit (15/30) - 2015/10/28 21:01:52 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Z6471 (2850)
+Seat 2: mr_mojo (1830)
+Seat 7: BEN85GAU (1615)
+Seat 8: Atalie (6170)
+Seat 9: sabre_laser (1710)
+Seat 10: berni37 (825)
+*** ANTE/BLINDS ***
+BEN85GAU posts big blind 30
+Dealt to sabre_laser [4h Qs]
+*** PRE-FLOP *** 
+Atalie calls 30
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo folds
+BEN85GAU checks
+*** FLOP *** [8c Jh 2d]
+BEN85GAU checks
+Atalie bets 30
+BEN85GAU calls 30
+*** TURN *** [8c Jh 2d][3c]
+BEN85GAU checks
+Atalie bets 30
+BEN85GAU calls 30
+*** RIVER *** [8c Jh 2d 3c][5h]
+BEN85GAU checks
+Atalie bets 30
+BEN85GAU calls 30
+*** SHOW DOWN ***
+BEN85GAU shows [9h Ad] (High card : Ace)
+Atalie shows [7s Js] (One pair : Jacks)
+Atalie collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c Jh 2d 3c 5h]
+Seat 7: BEN85GAU (big blind) showed [9h Ad] and lost with High card : Ace
+Seat 8: Atalie showed [7s Js] and won 240 with One pair : Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #582041435239350273-11-1446066142 - Holdem no limit (15/30) - 2015/10/28 21:02:22 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Z6471 (2850)
+Seat 2: mr_mojo (1830)
+Seat 5: jenmelais (1420)
+Seat 6: TOF_05 (1490)
+Seat 7: BEN85GAU (1495)
+Seat 8: Atalie (6290)
+Seat 9: sabre_laser (1710)
+Seat 10: berni37 (825)
+*** ANTE/BLINDS ***
+BEN85GAU posts small blind 15
+Atalie posts big blind 30
+Dealt to sabre_laser [8h 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+berni37 calls 30
+Z6471 folds
+mr_mojo raises 60 to 90
+BEN85GAU folds
+Atalie calls 60
+berni37 folds
+*** FLOP *** [8c Td 5c]
+Atalie checks
+mr_mojo bets 225
+Atalie calls 225
+*** TURN *** [8c Td 5c][Kd]
+Atalie checks
+mr_mojo checks
+*** RIVER *** [8c Td 5c Kd][Ah]
+Atalie checks
+mr_mojo bets 675
+Atalie folds
+mr_mojo collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [8c Td 5c Kd Ah]
+Seat 2: mr_mojo won 1350
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #582041435239350273-12-1446066209 - Holdem no limit (15/30) - 2015/10/28 21:03:29 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Z6471 (2850)
+Seat 2: mr_mojo (2190)
+Seat 5: jenmelais (1420)
+Seat 6: TOF_05 (1490)
+Seat 7: BEN85GAU (1480)
+Seat 8: Atalie (5975)
+Seat 9: sabre_laser (1710)
+Seat 10: berni37 (795)
+*** ANTE/BLINDS ***
+Atalie posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Js 8s]
+*** PRE-FLOP *** 
+berni37 folds
+Z6471 folds
+mr_mojo folds
+jenmelais raises 305 to 335
+TOF_05 folds
+BEN85GAU folds
+Atalie raises 5640 to 5975 and is all-in
+sabre_laser folds
+jenmelais calls 1085 and is all-in
+*** FLOP *** [7h 8d Qc]
+*** TURN *** [7h 8d Qc][5c]
+*** RIVER *** [7h 8d Qc 5c][4h]
+*** SHOW DOWN ***
+jenmelais shows [As Ah] (One pair : Aces)
+Atalie shows [Jh Ac] (High card : Ace)
+Atalie collected 4555 from side pot 1
+jenmelais collected 2870 from main pot
+*** SUMMARY ***
+Total pot 7425 | No rake
+Board: [7h 8d Qc 5c 4h]
+Seat 5: jenmelais showed [As Ah] and won 2870 with One pair : Aces
+Seat 8: Atalie (small blind) showed [Jh Ac] and won 4555 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #582041435239350273-13-1446066261 - Holdem no limit (20/40) - 2015/10/28 21:04:21 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Z6471 (2850)
+Seat 2: mr_mojo (2190)
+Seat 5: jenmelais (2870)
+Seat 6: TOF_05 (1490)
+Seat 7: BEN85GAU (1480)
+Seat 8: Atalie (4555)
+Seat 9: sabre_laser (1680)
+Seat 10: berni37 (795)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+berni37 posts big blind 40
+Dealt to sabre_laser [Qh 9d]
+*** PRE-FLOP *** 
+Z6471 folds
+mr_mojo calls 40
+jenmelais folds
+TOF_05 folds
+BEN85GAU folds
+Atalie calls 40
+sabre_laser calls 20
+berni37 checks
+*** FLOP *** [6s Ts 4c]
+sabre_laser checks
+berni37 bets 80
+mr_mojo calls 80
+Atalie calls 80
+sabre_laser calls 80
+*** TURN *** [6s Ts 4c][Ks]
+sabre_laser checks
+berni37 checks
+mr_mojo checks
+Atalie checks
+*** RIVER *** [6s Ts 4c Ks][8c]
+sabre_laser checks
+berni37 checks
+mr_mojo checks
+Atalie checks
+*** SHOW DOWN ***
+mr_mojo shows [6c 7s] (One pair : 6)
+Atalie shows [As 4d] (One pair : 4)
+sabre_laser shows [Qh 9d] (High card : King)
+berni37 shows [6d Ac] (One pair : 6)
+berni37 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6s Ts 4c Ks 8c]
+Seat 2: mr_mojo showed [6c 7s] and lost with One pair : 6
+Seat 8: Atalie (button) showed [As 4d] and lost with One pair : 4
+Seat 9: sabre_laser (small blind) showed [Qh 9d] and lost with High card : King
+Seat 10: berni37 (big blind) showed [6d Ac] and won 480 with One pair : 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #582041435239350273-14-1446066343 - Holdem no limit (20/40) - 2015/10/28 21:05:43 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Z6471 (2850)
+Seat 2: mr_mojo (2070)
+Seat 5: jenmelais (2870)
+Seat 6: TOF_05 (1490)
+Seat 7: BEN85GAU (1480)
+Seat 8: Atalie (4435)
+Seat 9: sabre_laser (1560)
+Seat 10: berni37 (1155)
+*** ANTE/BLINDS ***
+berni37 posts small blind 20
+Z6471 posts big blind 40
+Dealt to sabre_laser [Tc 3d]
+*** PRE-FLOP *** 
+mr_mojo raises 80 to 120
+jenmelais folds
+TOF_05 raises 1370 to 1490 and is all-in
+BEN85GAU folds
+Atalie folds
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo calls 1370
+*** FLOP *** [8s Kc 6s]
+*** TURN *** [8s Kc 6s][Qc]
+*** RIVER *** [8s Kc 6s Qc][4h]
+*** SHOW DOWN ***
+mr_mojo shows [8c 8d] (Trips of 8)
+TOF_05 shows [Ks Kd] (Trips of Kings)
+TOF_05 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [8s Kc 6s Qc 4h]
+Seat 2: mr_mojo showed [8c 8d] and lost with Trips of 8
+Seat 6: TOF_05 showed [Ks Kd] and won 3040 with Trips of Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #582041435239350273-15-1446066392 - Holdem no limit (20/40) - 2015/10/28 21:06:32 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Z6471 (2810)
+Seat 2: mr_mojo (580)
+Seat 5: jenmelais (2870)
+Seat 6: TOF_05 (3040)
+Seat 7: BEN85GAU (1480)
+Seat 8: Atalie (4435)
+Seat 9: sabre_laser (1560)
+Seat 10: berni37 (1135)
+*** ANTE/BLINDS ***
+Z6471 posts small blind 20
+mr_mojo posts big blind 40
+Dealt to sabre_laser [As 5c]
+*** PRE-FLOP *** 
+jenmelais raises 105 to 145
+TOF_05 folds
+BEN85GAU raises 290 to 435
+Atalie folds
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo raises 145 to 580 and is all-in
+jenmelais calls 435
+BEN85GAU calls 145
+*** FLOP *** [8h 2s 5s]
+jenmelais checks
+BEN85GAU checks
+*** TURN *** [8h 2s 5s][9c]
+jenmelais checks
+BEN85GAU checks
+*** RIVER *** [8h 2s 5s 9c][2d]
+jenmelais checks
+BEN85GAU checks
+*** SHOW DOWN ***
+jenmelais shows [Ad Kh] (One pair : 2)
+BEN85GAU shows [Qd Ac] (One pair : 2)
+mr_mojo shows [Td Th] (Two pairs : Tens and 2)
+mr_mojo collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [8h 2s 5s 9c 2d]
+Seat 2: mr_mojo (big blind) showed [Td Th] and won 1760 with Two pairs : Tens and 2
+Seat 5: jenmelais showed [Ad Kh] and lost with One pair : 2
+Seat 7: BEN85GAU showed [Qd Ac] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #582041435239350273-16-1446066451 - Holdem no limit (20/40) - 2015/10/28 21:07:31 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Z6471 (2790)
+Seat 2: mr_mojo (1760)
+Seat 5: jenmelais (2290)
+Seat 6: TOF_05 (3040)
+Seat 7: BEN85GAU (900)
+Seat 8: Atalie (4435)
+Seat 9: sabre_laser (1560)
+Seat 10: berni37 (1135)
+*** ANTE/BLINDS ***
+mr_mojo posts small blind 20
+jenmelais posts big blind 40
+Dealt to sabre_laser [Qd Td]
+*** PRE-FLOP *** 
+TOF_05 folds
+BEN85GAU calls 40
+Atalie calls 40
+sabre_laser calls 40
+berni37 folds
+Z6471 calls 40
+mr_mojo calls 20
+jenmelais checks
+*** FLOP *** [4h 4d 9c]
+mr_mojo checks
+jenmelais bets 40
+BEN85GAU folds
+Atalie folds
+sabre_laser folds
+Z6471 calls 40
+mr_mojo folds
+*** TURN *** [4h 4d 9c][5c]
+jenmelais bets 90
+Z6471 calls 90
+*** RIVER *** [4h 4d 9c 5c][Qs]
+jenmelais checks
+Z6471 bets 160
+jenmelais folds
+Z6471 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [4h 4d 9c 5c Qs]
+Seat 1: Z6471 (button) won 660
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #582041435239350273-17-1446066543 - Holdem no limit (20/40) - 2015/10/28 21:09:03 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Z6471 (3120)
+Seat 2: mr_mojo (1720)
+Seat 5: jenmelais (2120)
+Seat 6: TOF_05 (3040)
+Seat 7: BEN85GAU (860)
+Seat 8: Atalie (4395)
+Seat 9: sabre_laser (1520)
+Seat 10: berni37 (1135)
+*** ANTE/BLINDS ***
+jenmelais posts small blind 20
+TOF_05 posts big blind 40
+Dealt to sabre_laser [Ac 3c]
+*** PRE-FLOP *** 
+BEN85GAU folds
+Atalie calls 40
+sabre_laser raises 200 to 240
+berni37 folds
+Z6471 folds
+mr_mojo folds
+jenmelais folds
+TOF_05 folds
+Atalie calls 200
+*** FLOP *** [7c Ah Kc]
+Atalie checks
+sabre_laser checks
+*** TURN *** [7c Ah Kc][6d]
+Atalie checks
+sabre_laser bets 220
+Atalie calls 220
+*** RIVER *** [7c Ah Kc 6d][6s]
+Atalie checks
+sabre_laser checks
+*** SHOW DOWN ***
+Atalie shows [Th Qs] (One pair : 6)
+sabre_laser shows [Ac 3c] (Two pairs : Aces and 6)
+sabre_laser collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [7c Ah Kc 6d 6s]
+Seat 8: Atalie showed [Th Qs] and lost with One pair : 6
+Seat 9: sabre_laser showed [Ac 3c] and won 980 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #582041435239350273-18-1446066599 - Holdem no limit (30/60) - 2015/10/28 21:09:59 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Z6471 (3120)
+Seat 2: mr_mojo (1720)
+Seat 5: jenmelais (2100)
+Seat 6: TOF_05 (3000)
+Seat 7: BEN85GAU (860)
+Seat 8: Atalie (3935)
+Seat 9: sabre_laser (2040)
+Seat 10: berni37 (1135)
+*** ANTE/BLINDS ***
+TOF_05 posts small blind 30
+BEN85GAU posts big blind 60
+Dealt to sabre_laser [Tc 7d]
+*** PRE-FLOP *** 
+Atalie folds
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo raises 120 to 180
+jenmelais calls 180
+TOF_05 folds
+BEN85GAU raises 680 to 860 and is all-in
+mr_mojo calls 680
+jenmelais folds
+*** FLOP *** [Jd 4d Qh]
+*** TURN *** [Jd 4d Qh][3c]
+*** RIVER *** [Jd 4d Qh 3c][Td]
+*** SHOW DOWN ***
+BEN85GAU shows [8s 7c] (High card : Queen)
+mr_mojo shows [6h 6c] (One pair : 6)
+mr_mojo collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Board: [Jd 4d Qh 3c Td]
+Seat 2: mr_mojo showed [6h 6c] and won 1930 with One pair : 6
+Seat 7: BEN85GAU (big blind) showed [8s 7c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #582041435239350273-19-1446066644 - Holdem no limit (30/60) - 2015/10/28 21:10:44 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Z6471 (3120)
+Seat 2: mr_mojo (2790)
+Seat 5: jenmelais (1920)
+Seat 6: TOF_05 (2970)
+Seat 8: Atalie (3935)
+Seat 9: sabre_laser (2040)
+Seat 10: berni37 (1135)
+*** ANTE/BLINDS ***
+Atalie posts big blind 60
+Dealt to sabre_laser [5s 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo folds
+jenmelais calls 60
+TOF_05 folds
+Atalie checks
+*** FLOP *** [8s Td Jc]
+Atalie bets 60
+jenmelais calls 60
+*** TURN *** [8s Td Jc][3c]
+Atalie bets 60
+jenmelais calls 60
+*** RIVER *** [8s Td Jc 3c][Js]
+Atalie bets 60
+jenmelais calls 60
+*** SHOW DOWN ***
+jenmelais shows [5d Kd] (One pair : Jacks)
+Atalie shows [Jh 4h] (Trips of Jacks)
+Atalie collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8s Td Jc 3c Js]
+Seat 5: jenmelais showed [5d Kd] and lost with One pair : Jacks
+Seat 8: Atalie (big blind) showed [Jh 4h] and won 480 with Trips of Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #582041435239350273-20-1446066697 - Holdem no limit (30/60) - 2015/10/28 21:11:37 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Z6471 (3120)
+Seat 2: mr_mojo (2790)
+Seat 5: jenmelais (1680)
+Seat 6: TOF_05 (2970)
+Seat 8: Atalie (4175)
+Seat 9: sabre_laser (2040)
+Seat 10: berni37 (1135)
+*** ANTE/BLINDS ***
+Atalie posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [7d Ah]
+*** PRE-FLOP *** 
+berni37 folds
+Z6471 folds
+mr_mojo calls 60
+jenmelais calls 60
+TOF_05 calls 60
+Atalie calls 30
+sabre_laser checks
+*** FLOP *** [5s 3h 6c]
+Atalie checks
+sabre_laser checks
+mr_mojo checks
+jenmelais checks
+TOF_05 checks
+*** TURN *** [5s 3h 6c][7s]
+Atalie bets 60
+sabre_laser calls 60
+mr_mojo calls 60
+jenmelais calls 60
+TOF_05 folds
+*** RIVER *** [5s 3h 6c 7s][4h]
+Atalie bets 60
+sabre_laser calls 60
+mr_mojo raises 720 to 780
+jenmelais raises 720 to 1500
+Atalie folds
+sabre_laser folds
+mr_mojo calls 720
+*** SHOW DOWN ***
+mr_mojo shows [Kc 8d] (Straight 8 high)
+jenmelais shows [Qd 8s] (Straight 8 high)
+jenmelais collected 1830 from pot
+mr_mojo collected 1830 from pot
+*** SUMMARY ***
+Total pot 3660 | No rake
+Board: [5s 3h 6c 7s 4h]
+Seat 2: mr_mojo showed [Kc 8d] and won 1830 with Straight 8 high
+Seat 5: jenmelais showed [Qd 8s] and won 1830 with Straight 8 high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #582041435239350273-21-1446066835 - Holdem no limit (30/60) - 2015/10/28 21:13:55 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Z6471 (3120)
+Seat 2: mr_mojo (3000)
+Seat 5: jenmelais (1890)
+Seat 6: TOF_05 (2910)
+Seat 8: Atalie (3995)
+Seat 9: sabre_laser (1860)
+Seat 10: berni37 (1135)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+berni37 posts big blind 60
+Dealt to sabre_laser [6h 7s]
+*** PRE-FLOP *** 
+Z6471 folds
+mr_mojo calls 60
+jenmelais folds
+TOF_05 folds
+Atalie folds
+sabre_laser calls 30
+berni37 checks
+*** FLOP *** [Kc 9d 8h]
+sabre_laser checks
+berni37 checks
+mr_mojo checks
+*** TURN *** [Kc 9d 8h][Ts]
+sabre_laser checks
+berni37 checks
+mr_mojo checks
+*** RIVER *** [Kc 9d 8h Ts][Jh]
+sabre_laser bets 60
+berni37 folds
+mr_mojo folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kc 9d 8h Ts Jh]
+Seat 9: sabre_laser (small blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #582041435239350273-22-1446066904 - Holdem no limit (30/60) - 2015/10/28 21:15:04 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Z6471 (3120)
+Seat 2: mr_mojo (2940)
+Seat 5: jenmelais (1890)
+Seat 6: TOF_05 (2910)
+Seat 8: Atalie (3995)
+Seat 9: sabre_laser (1980)
+Seat 10: berni37 (1075)
+*** ANTE/BLINDS ***
+berni37 posts small blind 30
+Z6471 posts big blind 60
+Dealt to sabre_laser [2d 6h]
+*** PRE-FLOP *** 
+mr_mojo folds
+jenmelais calls 60
+TOF_05 folds
+Atalie calls 60
+sabre_laser folds
+berni37 calls 30
+Z6471 checks
+*** FLOP *** [Ac Qs Ad]
+berni37 checks
+Z6471 bets 160
+jenmelais folds
+Atalie folds
+berni37 folds
+Z6471 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Ac Qs Ad]
+Seat 1: Z6471 (big blind) won 400
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #582041435239350273-23-1446066944 - Holdem no limit (40/80) - 2015/10/28 21:15:44 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Z6471 (3300)
+Seat 2: mr_mojo (2940)
+Seat 5: jenmelais (1830)
+Seat 6: TOF_05 (2910)
+Seat 8: Atalie (3935)
+Seat 9: sabre_laser (1980)
+Seat 10: berni37 (1015)
+*** ANTE/BLINDS ***
+Z6471 posts small blind 40
+mr_mojo posts big blind 80
+Dealt to sabre_laser [Th 9d]
+*** PRE-FLOP *** 
+jenmelais folds
+TOF_05 folds
+Atalie calls 80
+sabre_laser folds
+berni37 raises 160 to 240
+Z6471 folds
+mr_mojo calls 160
+Atalie calls 160
+*** FLOP *** [As 3h 9c]
+mr_mojo checks
+Atalie bets 80
+berni37 raises 695 to 775 and is all-in
+mr_mojo folds
+Atalie calls 695
+*** TURN *** [As 3h 9c][Tc]
+*** RIVER *** [As 3h 9c Tc][2h]
+*** SHOW DOWN ***
+Atalie shows [Qc Qs] (One pair : Queens)
+berni37 shows [8s Ad] (One pair : Aces)
+berni37 collected 2310 from pot
+*** SUMMARY ***
+Total pot 2310 | No rake
+Board: [As 3h 9c Tc 2h]
+Seat 8: Atalie showed [Qc Qs] and lost with One pair : Queens
+Seat 10: berni37 (button) showed [8s Ad] and won 2310 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #582041435239350273-24-1446067012 - Holdem no limit (40/80) - 2015/10/28 21:16:52 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Z6471 (3260)
+Seat 2: mr_mojo (2700)
+Seat 5: jenmelais (1830)
+Seat 6: TOF_05 (2910)
+Seat 8: Atalie (2920)
+Seat 9: sabre_laser (1980)
+Seat 10: berni37 (2310)
+*** ANTE/BLINDS ***
+mr_mojo posts small blind 40
+jenmelais posts big blind 80
+Dealt to sabre_laser [7c 4d]
+*** PRE-FLOP *** 
+TOF_05 folds
+Atalie raises 2840 to 2920 and is all-in
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo folds
+jenmelais folds
+Atalie collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Seat 8: Atalie won 3040
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #582041435239350273-25-1446067052 - Holdem no limit (40/80) - 2015/10/28 21:17:32 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Z6471 (3260)
+Seat 2: mr_mojo (2660)
+Seat 5: jenmelais (1750)
+Seat 6: TOF_05 (2910)
+Seat 8: Atalie (3040)
+Seat 9: sabre_laser (1980)
+Seat 10: berni37 (2310)
+*** ANTE/BLINDS ***
+jenmelais posts small blind 40
+TOF_05 posts big blind 80
+Dealt to sabre_laser [6d Kc]
+*** PRE-FLOP *** 
+Atalie calls 80
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo calls 80
+jenmelais calls 40
+TOF_05 checks
+*** FLOP *** [3c 8d 2h]
+jenmelais checks
+TOF_05 checks
+Atalie checks
+mr_mojo bets 320
+jenmelais folds
+TOF_05 folds
+Atalie folds
+mr_mojo collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3c 8d 2h]
+Seat 2: mr_mojo (button) won 640
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #582041435239350273-26-1446067114 - Holdem no limit (40/80) - 2015/10/28 21:18:34 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Z6471 (3260)
+Seat 2: mr_mojo (2900)
+Seat 5: jenmelais (1670)
+Seat 6: TOF_05 (2830)
+Seat 8: Atalie (2960)
+Seat 9: sabre_laser (1980)
+Seat 10: berni37 (2310)
+*** ANTE/BLINDS ***
+TOF_05 posts small blind 40
+Atalie posts big blind 80
+Dealt to sabre_laser [2s Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo raises 160 to 240
+jenmelais folds
+TOF_05 folds
+Atalie calls 160
+*** FLOP *** [3d Qh 4h]
+Atalie checks
+mr_mojo bets 360
+Atalie folds
+mr_mojo collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [3d Qh 4h]
+Seat 2: mr_mojo won 880
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #582041435239350273-27-1446067167 - Holdem no limit (40/80) - 2015/10/28 21:19:27 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Z6471 (3260)
+Seat 2: mr_mojo (3180)
+Seat 5: jenmelais (1670)
+Seat 6: TOF_05 (2790)
+Seat 8: Atalie (2720)
+Seat 9: sabre_laser (1980)
+Seat 10: berni37 (2310)
+*** ANTE/BLINDS ***
+Atalie posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [8c 2d]
+*** PRE-FLOP *** 
+berni37 folds
+Z6471 raises 120 to 200
+mr_mojo folds
+jenmelais folds
+TOF_05 folds
+Atalie folds
+sabre_laser folds
+Z6471 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Z6471 won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #582041435239350273-28-1446067208 - Holdem no limit (40/80) - 2015/10/28 21:20:08 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Z6471 (3380)
+Seat 2: mr_mojo (3180)
+Seat 5: jenmelais (1670)
+Seat 6: TOF_05 (2790)
+Seat 8: Atalie (2680)
+Seat 9: sabre_laser (1900)
+Seat 10: berni37 (2310)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+berni37 posts big blind 80
+Dealt to sabre_laser [Jh Ts]
+*** PRE-FLOP *** 
+Z6471 folds
+mr_mojo folds
+jenmelais calls 80
+TOF_05 folds
+Atalie calls 80
+sabre_laser calls 40
+berni37 checks
+*** FLOP *** [Qh Kc 3d]
+sabre_laser checks
+berni37 checks
+jenmelais checks
+Atalie checks
+*** TURN *** [Qh Kc 3d][5c]
+sabre_laser checks
+berni37 checks
+jenmelais checks
+Atalie checks
+*** RIVER *** [Qh Kc 3d 5c][Th]
+sabre_laser bets 160
+berni37 folds
+jenmelais folds
+Atalie folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh Kc 3d 5c Th]
+Seat 9: sabre_laser (small blind) won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #582041435239350273-29-1446067313 - Holdem no limit (60/120) - 2015/10/28 21:21:53 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Z6471 (3380)
+Seat 2: mr_mojo (3180)
+Seat 5: jenmelais (1590)
+Seat 6: TOF_05 (2790)
+Seat 8: Atalie (2600)
+Seat 9: sabre_laser (2140)
+Seat 10: berni37 (2230)
+*** ANTE/BLINDS ***
+berni37 posts small blind 60
+Z6471 posts big blind 120
+Dealt to sabre_laser [Kc 2h]
+*** PRE-FLOP *** 
+mr_mojo calls 120
+jenmelais folds
+TOF_05 raises 120 to 240
+Atalie calls 240
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo calls 120
+*** FLOP *** [3s 2d Qs]
+mr_mojo checks
+TOF_05 checks
+Atalie checks
+*** TURN *** [3s 2d Qs][Kd]
+mr_mojo checks
+TOF_05 checks
+Atalie checks
+*** RIVER *** [3s 2d Qs Kd][3c]
+mr_mojo checks
+TOF_05 checks
+Atalie checks
+*** SHOW DOWN ***
+mr_mojo shows [4s As] (One pair : 3)
+TOF_05 shows [Js Ad] (One pair : 3)
+Atalie shows [6c Ac] (One pair : 3)
+Atalie collected 300 from pot
+TOF_05 collected 300 from pot
+mr_mojo collected 300 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 2d Qs Kd 3c]
+Seat 2: mr_mojo showed [4s As] and won 300 with One pair : 3
+Seat 6: TOF_05 showed [Js Ad] and won 300 with One pair : 3
+Seat 8: Atalie showed [6c Ac] and won 300 with One pair : 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #582041435239350273-30-1446067367 - Holdem no limit (60/120) - 2015/10/28 21:22:47 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Z6471 (3260)
+Seat 2: mr_mojo (3240)
+Seat 5: jenmelais (1590)
+Seat 6: TOF_05 (2850)
+Seat 8: Atalie (2660)
+Seat 9: sabre_laser (2140)
+Seat 10: berni37 (2170)
+*** ANTE/BLINDS ***
+Z6471 posts small blind 60
+mr_mojo posts big blind 120
+Dealt to sabre_laser [Ad Td]
+*** PRE-FLOP *** 
+jenmelais calls 120
+TOF_05 folds
+Atalie folds
+sabre_laser raises 240 to 360
+berni37 folds
+Z6471 folds
+mr_mojo folds
+jenmelais calls 240
+*** FLOP *** [4h Ah 9d]
+jenmelais checks
+sabre_laser bets 120
+jenmelais folds
+sabre_laser collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [4h Ah 9d]
+Seat 9: sabre_laser won 1020
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #582041435239350273-31-1446067416 - Holdem no limit (60/120) - 2015/10/28 21:23:36 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Z6471 (3200)
+Seat 2: mr_mojo (3120)
+Seat 5: jenmelais (1230)
+Seat 6: TOF_05 (2850)
+Seat 8: Atalie (2660)
+Seat 9: sabre_laser (2680)
+Seat 10: berni37 (2170)
+*** ANTE/BLINDS ***
+mr_mojo posts small blind 60
+jenmelais posts big blind 120
+Dealt to sabre_laser [6h 5s]
+*** PRE-FLOP *** 
+TOF_05 folds
+Atalie calls 120
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo calls 60
+jenmelais checks
+*** FLOP *** [Qd Ts Ad]
+mr_mojo checks
+jenmelais bets 120
+Atalie calls 120
+mr_mojo calls 120
+*** TURN *** [Qd Ts Ad][Kc]
+mr_mojo checks
+jenmelais bets 120
+Atalie calls 120
+mr_mojo raises 1080 to 1200
+jenmelais calls 870 and is all-in
+Atalie calls 1080
+*** RIVER *** [Qd Ts Ad Kc][5c]
+mr_mojo bets 1680 and is all-in
+Atalie folds
+*** SHOW DOWN ***
+jenmelais shows [Kd 8d] (One pair : Kings)
+mr_mojo shows [3c Jd] (Straight Ace high)
+mr_mojo collected 5790 from pot
+*** SUMMARY ***
+Total pot 5790 | No rake
+Board: [Qd Ts Ad Kc 5c]
+Seat 2: mr_mojo (small blind) showed [3c Jd] and won 5790 with Straight Ace high
+Seat 5: jenmelais (big blind) showed [Kd 8d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #582041435239350273-32-1446067493 - Holdem no limit (60/120) - 2015/10/28 21:24:53 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Z6471 (3200)
+Seat 2: mr_mojo (5790)
+Seat 6: TOF_05 (2850)
+Seat 8: Atalie (1220)
+Seat 9: sabre_laser (2680)
+Seat 10: berni37 (2170)
+*** ANTE/BLINDS ***
+TOF_05 posts big blind 120
+Dealt to sabre_laser [2c Kh]
+*** PRE-FLOP *** 
+Atalie raises 1100 to 1220 and is all-in
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo folds
+TOF_05 folds
+Atalie collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | No rake
+Seat 8: Atalie won 1340
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #582041435239350273-33-1446067538 - Holdem no limit (60/120) - 2015/10/28 21:25:38 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Z6471 (3200)
+Seat 2: mr_mojo (5790)
+Seat 6: TOF_05 (2730)
+Seat 8: Atalie (1340)
+Seat 9: sabre_laser (2680)
+Seat 10: berni37 (2170)
+*** ANTE/BLINDS ***
+TOF_05 posts small blind 60
+Atalie posts big blind 120
+Dealt to sabre_laser [7d 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo folds
+TOF_05 calls 60
+Atalie checks
+*** FLOP *** [Qh Ad Th]
+TOF_05 bets 120
+Atalie calls 120
+*** TURN *** [Qh Ad Th][Ah]
+TOF_05 checks
+Atalie bets 1100 and is all-in
+TOF_05 folds
+Atalie collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Board: [Qh Ad Th Ah]
+Seat 8: Atalie (big blind) won 1580
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #582041435239350273-34-1446067589 - Holdem no limit (60/120) - 2015/10/28 21:26:29 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Z6471 (3200)
+Seat 2: mr_mojo (5790)
+Seat 6: TOF_05 (2490)
+Seat 8: Atalie (1580)
+Seat 9: sabre_laser (2680)
+Seat 10: berni37 (2170)
+*** ANTE/BLINDS ***
+Atalie posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [6d 4d]
+*** PRE-FLOP *** 
+berni37 folds
+Z6471 folds
+mr_mojo folds
+TOF_05 calls 120
+Atalie raises 1460 to 1580 and is all-in
+sabre_laser folds
+TOF_05 folds
+Atalie collected 1820 from pot
+*** SUMMARY ***
+Total pot 1820 | No rake
+Seat 8: Atalie (small blind) won 1820
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #582041435239350273-35-1446067621 - Holdem no limit (60/120) - 2015/10/28 21:27:01 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Z6471 (3200)
+Seat 2: mr_mojo (5790)
+Seat 6: TOF_05 (2370)
+Seat 8: Atalie (1820)
+Seat 9: sabre_laser (2560)
+Seat 10: berni37 (2170)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+berni37 posts big blind 120
+Dealt to sabre_laser [Ah 7s]
+*** PRE-FLOP *** 
+Z6471 raises 120 to 240
+mr_mojo folds
+TOF_05 folds
+Atalie folds
+sabre_laser folds
+berni37 raises 480 to 720
+Z6471 folds
+berni37 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Seat 10: berni37 (big blind) won 1020
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 6 - HandId: #582041435239350273-36-1446067667 - Holdem no limit (80/160) - 2015/10/28 21:27:47 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Z6471 (2960)
+Seat 2: mr_mojo (5790)
+Seat 6: TOF_05 (2370)
+Seat 8: Atalie (1820)
+Seat 9: sabre_laser (2500)
+Seat 10: berni37 (2470)
+*** ANTE/BLINDS ***
+berni37 posts small blind 80
+Z6471 posts big blind 160
+Dealt to sabre_laser [4s 7d]
+*** PRE-FLOP *** 
+mr_mojo folds
+TOF_05 folds
+Atalie raises 1660 to 1820 and is all-in
+sabre_laser folds
+berni37 folds
+Z6471 folds
+Atalie collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Seat 8: Atalie won 2060
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 6 - HandId: #582041435239350273-37-1446067702 - Holdem no limit (80/160) - 2015/10/28 21:28:22 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Z6471 (2800)
+Seat 2: mr_mojo (5790)
+Seat 6: TOF_05 (2370)
+Seat 8: Atalie (2060)
+Seat 9: sabre_laser (2500)
+Seat 10: berni37 (2390)
+*** ANTE/BLINDS ***
+Z6471 posts small blind 80
+mr_mojo posts big blind 160
+Dealt to sabre_laser [Td 9h]
+*** PRE-FLOP *** 
+TOF_05 folds
+Atalie raises 1900 to 2060 and is all-in
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo folds
+Atalie collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 8: Atalie won 2300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 6 - HandId: #582041435239350273-38-1446067744 - Holdem no limit (80/160) - 2015/10/28 21:29:04 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Z6471 (2720)
+Seat 2: mr_mojo (5630)
+Seat 6: TOF_05 (2370)
+Seat 8: Atalie (2300)
+Seat 9: sabre_laser (2500)
+Seat 10: berni37 (2390)
+*** ANTE/BLINDS ***
+mr_mojo posts small blind 80
+TOF_05 posts big blind 160
+Dealt to sabre_laser [5d As]
+*** PRE-FLOP *** 
+Atalie folds
+sabre_laser raises 160 to 320
+berni37 folds
+Z6471 folds
+mr_mojo folds
+TOF_05 folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 9: sabre_laser won 560
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 6 - HandId: #582041435239350273-39-1446067789 - Holdem no limit (80/160) - 2015/10/28 21:29:49 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Z6471 (2720)
+Seat 2: mr_mojo (5550)
+Seat 6: TOF_05 (2210)
+Seat 8: Atalie (2300)
+Seat 9: sabre_laser (2740)
+Seat 10: berni37 (2390)
+*** ANTE/BLINDS ***
+TOF_05 posts small blind 80
+Atalie posts big blind 160
+Dealt to sabre_laser [4d 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+berni37 folds
+Z6471 folds
+mr_mojo folds
+TOF_05 calls 80
+Atalie checks
+*** FLOP *** [5h 5d 4s]
+TOF_05 checks
+Atalie bets 160
+TOF_05 folds
+Atalie collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5h 5d 4s]
+Seat 8: Atalie (big blind) won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 6 - HandId: #582041435239350273-40-1446067844 - Holdem no limit (80/160) - 2015/10/28 21:30:44 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Z6471 (2720)
+Seat 2: mr_mojo (5550)
+Seat 6: TOF_05 (2050)
+Seat 8: Atalie (2460)
+Seat 9: sabre_laser (2740)
+Seat 10: berni37 (2390)
+*** ANTE/BLINDS ***
+Atalie posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [2h Kd]
+*** PRE-FLOP *** 
+berni37 folds
+Z6471 raises 160 to 320
+mr_mojo folds
+TOF_05 folds
+Atalie calls 240
+sabre_laser folds
+*** FLOP *** [6h 8c 7s]
+Atalie bets 640
+Z6471 folds
+Atalie collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [6h 8c 7s]
+Seat 8: Atalie (small blind) won 1440
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 6 - HandId: #582041435239350273-41-1446067896 - Holdem no limit (80/160) - 2015/10/28 21:31:36 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Z6471 (2400)
+Seat 2: mr_mojo (5550)
+Seat 6: TOF_05 (2050)
+Seat 8: Atalie (2940)
+Seat 9: sabre_laser (2580)
+Seat 10: berni37 (2390)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+berni37 posts big blind 160
+Dealt to sabre_laser [2s Jc]
+*** PRE-FLOP *** 
+Z6471 folds
+mr_mojo calls 160
+TOF_05 folds
+Atalie folds
+sabre_laser folds
+berni37 checks
+*** FLOP *** [6d Ah 7h]
+berni37 bets 200
+mr_mojo raises 440 to 640
+berni37 folds
+mr_mojo collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [6d Ah 7h]
+Seat 2: mr_mojo won 1240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 6 - HandId: #582041435239350273-42-1446067958 - Holdem no limit (80/160) - 2015/10/28 21:32:38 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Z6471 (2400)
+Seat 2: mr_mojo (5990)
+Seat 6: TOF_05 (2050)
+Seat 8: Atalie (2940)
+Seat 9: sabre_laser (2500)
+Seat 10: berni37 (2030)
+*** ANTE/BLINDS ***
+berni37 posts small blind 80
+Z6471 posts big blind 160
+Dealt to sabre_laser [4s 4c]
+*** PRE-FLOP *** 
+mr_mojo folds
+TOF_05 folds
+Atalie folds
+sabre_laser raises 160 to 320
+berni37 raises 640 to 960
+Z6471 raises 1440 to 2400 and is all-in
+sabre_laser calls 2080
+berni37 calls 1070 and is all-in
+*** FLOP *** [7d 8c 7c]
+*** TURN *** [7d 8c 7c][Qd]
+*** RIVER *** [7d 8c 7c Qd][6d]
+*** SHOW DOWN ***
+Z6471 shows [As Ts] (One pair : 7)
+berni37 shows [Qh Ad] (Two pairs : Queens and 7)
+sabre_laser shows [4s 4c] (Two pairs : 7 and 4)
+sabre_laser collected 740 from side pot 1
+berni37 collected 6090 from main pot
+*** SUMMARY ***
+Total pot 6830 | No rake
+Board: [7d 8c 7c Qd 6d]
+Seat 1: Z6471 (big blind) showed [As Ts] and lost with One pair : 7
+Seat 9: sabre_laser (button) showed [4s 4c] and won 740 with Two pairs : 7 and 4
+Seat 10: berni37 (small blind) showed [Qh Ad] and won 6090 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #582041435239350273-43-1446068087 - Holdem no limit (10/100/200) - 2015/10/28 21:34:47 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #1 is the button
+Seat 1: layadou (2043)
+Seat 2: berni37 (6090)
+Seat 3: mr_mojo (5990)
+Seat 4: mouk577 (1372)
+Seat 5: chrisc81 (3060)
+Seat 6: TOF_05 (2050)
+Seat 7: loogi (3565)
+Seat 8: Atalie (2940)
+Seat 9: Jo Hanna (2050)
+Seat 10: sabre_laser (840)
+*** ANTE/BLINDS ***
+layadou posts ante 10
+berni37 posts ante 10
+layadou posts small blind 100
+berni37 posts big blind 200
+*** PRE-FLOP *** 
+layadou calls 100
+berni37 checks
+*** FLOP *** [Ac 9s Qs]
+berni37 checks
+layadou bets 200
+berni37 folds
+layadou collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ac 9s Qs]
+Seat 1: layadou (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #582041435239350273-44-1446068133 - Holdem no limit (10/100/200) - 2015/10/28 21:35:33 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #1 is the button
+Seat 1: layadou (2253)
+Seat 2: berni37 (5880)
+Seat 3: mr_mojo (5990)
+Seat 4: mouk577 (1372)
+Seat 5: chrisc81 (3060)
+Seat 6: TOF_05 (2050)
+Seat 7: loogi (3565)
+Seat 8: Atalie (2940)
+Seat 9: Jo Hanna (2050)
+Seat 10: sabre_laser (840)
+*** ANTE/BLINDS ***
+berni37 posts ante 10
+mr_mojo posts ante 10
+layadou posts ante 10
+mouk577 posts ante 10
+chrisc81 posts ante 10
+TOF_05 posts ante 10
+loogi posts ante 10
+Atalie posts ante 10
+Jo Hanna posts ante 10
+sabre_laser posts ante 10
+berni37 posts small blind 100
+mr_mojo posts big blind 200
+Dealt to sabre_laser [Kh Ah]
+*** PRE-FLOP *** 
+mouk577 folds
+chrisc81 folds
+TOF_05 folds
+loogi folds
+Atalie folds
+Jo Hanna folds
+sabre_laser raises 630 to 830 and is all-in
+layadou folds
+berni37 folds
+mr_mojo folds
+sabre_laser collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Seat 10: sabre_laser won 1230
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #582041435239350273-45-1446068168 - Holdem no limit (10/100/200) - 2015/10/28 21:36:08 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #2 is the button
+Seat 1: layadou (2243)
+Seat 2: berni37 (5770)
+Seat 3: mr_mojo (5780)
+Seat 4: mouk577 (1362)
+Seat 5: chrisc81 (3050)
+Seat 6: TOF_05 (2040)
+Seat 7: loogi (3555)
+Seat 8: Atalie (2930)
+Seat 9: Jo Hanna (2040)
+Seat 10: sabre_laser (1230)
+*** ANTE/BLINDS ***
+mr_mojo posts ante 10
+mouk577 posts ante 10
+layadou posts ante 10
+berni37 posts ante 10
+chrisc81 posts ante 10
+TOF_05 posts ante 10
+loogi posts ante 10
+Atalie posts ante 10
+Jo Hanna posts ante 10
+sabre_laser posts ante 10
+mr_mojo posts small blind 100
+mouk577 posts big blind 200
+Dealt to sabre_laser [9s 2d]
+*** PRE-FLOP *** 
+chrisc81 folds
+TOF_05 folds
+loogi calls 200
+Atalie folds
+Jo Hanna folds
+sabre_laser folds
+layadou folds
+berni37 calls 200
+mr_mojo calls 100
+mouk577 raises 1152 to 1352 and is all-in
+loogi folds
+berni37 folds
+mr_mojo calls 1152
+*** FLOP *** [Jd Jc Tc]
+*** TURN *** [Jd Jc Tc][9c]
+*** RIVER *** [Jd Jc Tc 9c][4h]
+*** SHOW DOWN ***
+mr_mojo shows [7d Ac] (One pair : Jacks)
+mouk577 shows [Ts Th] (Full of Tens and Jacks)
+mouk577 collected 3204 from pot
+*** SUMMARY ***
+Total pot 3204 | No rake
+Board: [Jd Jc Tc 9c 4h]
+Seat 3: mr_mojo (small blind) showed [7d Ac] and lost with One pair : Jacks
+Seat 4: mouk577 (big blind) showed [Ts Th] and won 3204 with Full of Tens and Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #582041435239350273-46-1446068250 - Holdem no limit (10/100/200) - 2015/10/28 21:37:30 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #3 is the button
+Seat 1: layadou (2233)
+Seat 2: berni37 (5560)
+Seat 3: mr_mojo (4418)
+Seat 4: mouk577 (3204)
+Seat 5: chrisc81 (3040)
+Seat 6: TOF_05 (2030)
+Seat 7: loogi (3345)
+Seat 8: Atalie (2920)
+Seat 9: Jo Hanna (2030)
+Seat 10: sabre_laser (1220)
+*** ANTE/BLINDS ***
+mouk577 posts ante 10
+chrisc81 posts ante 10
+layadou posts ante 10
+berni37 posts ante 10
+mr_mojo posts ante 10
+TOF_05 posts ante 10
+loogi posts ante 10
+Atalie posts ante 10
+Jo Hanna posts ante 10
+sabre_laser posts ante 10
+mouk577 posts small blind 100
+chrisc81 posts big blind 200
+Dealt to sabre_laser [6d 6h]
+*** PRE-FLOP *** 
+TOF_05 folds
+loogi calls 200
+Atalie raises 2710 to 2910 and is all-in
+Jo Hanna folds
+sabre_laser folds
+layadou folds
+berni37 folds
+mr_mojo calls 2910
+mouk577 folds
+chrisc81 folds
+loogi folds
+*** FLOP *** [5c 2c 3d]
+*** TURN *** [5c 2c 3d][Qs]
+*** RIVER *** [5c 2c 3d Qs][7h]
+*** SHOW DOWN ***
+mr_mojo shows [Ah Kh] (High card : Ace)
+Atalie shows [8s 8d] (One pair : 8)
+Atalie collected 6420 from pot
+*** SUMMARY ***
+Total pot 6420 | No rake
+Board: [5c 2c 3d Qs 7h]
+Seat 3: mr_mojo (button) showed [Ah Kh] and lost with High card : Ace
+Seat 8: Atalie showed [8s 8d] and won 6420 with One pair : 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #582041435239350273-47-1446068316 - Holdem no limit (10/100/200) - 2015/10/28 21:38:36 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #4 is the button
+Seat 1: layadou (2223)
+Seat 2: berni37 (5550)
+Seat 3: mr_mojo (1498)
+Seat 4: mouk577 (3094)
+Seat 5: chrisc81 (2830)
+Seat 6: TOF_05 (2020)
+Seat 7: loogi (3135)
+Seat 8: Atalie (6420)
+Seat 9: Jo Hanna (2020)
+Seat 10: sabre_laser (1210)
+*** ANTE/BLINDS ***
+chrisc81 posts ante 10
+TOF_05 posts ante 10
+layadou posts ante 10
+berni37 posts ante 10
+mr_mojo posts ante 10
+mouk577 posts ante 10
+loogi posts ante 10
+Atalie posts ante 10
+Jo Hanna posts ante 10
+sabre_laser posts ante 10
+chrisc81 posts small blind 100
+TOF_05 posts big blind 200
+Dealt to sabre_laser [9h Js]
+*** PRE-FLOP *** 
+loogi folds
+Atalie folds
+Jo Hanna folds
+sabre_laser folds
+layadou folds
+berni37 raises 600 to 800
+mr_mojo folds
+mouk577 folds
+chrisc81 folds
+TOF_05 folds
+berni37 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Seat 2: berni37 won 1200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #582041435239350273-48-1446068371 - Holdem no limit (10/100/200) - 2015/10/28 21:39:31 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #5 is the button
+Seat 1: layadou (2213)
+Seat 2: berni37 (5940)
+Seat 3: mr_mojo (1488)
+Seat 4: mouk577 (3084)
+Seat 5: chrisc81 (2720)
+Seat 6: TOF_05 (1810)
+Seat 7: loogi (3125)
+Seat 8: Atalie (6410)
+Seat 9: Jo Hanna (2010)
+Seat 10: sabre_laser (1200)
+*** ANTE/BLINDS ***
+TOF_05 posts ante 10
+loogi posts ante 10
+layadou posts ante 10
+berni37 posts ante 10
+mr_mojo posts ante 10
+mouk577 posts ante 10
+chrisc81 posts ante 10
+Atalie posts ante 10
+Jo Hanna posts ante 10
+sabre_laser posts ante 10
+TOF_05 posts small blind 100
+loogi posts big blind 200
+Dealt to sabre_laser [Qh Kd]
+*** PRE-FLOP *** 
+Atalie folds
+Jo Hanna folds
+sabre_laser raises 990 to 1190 and is all-in
+layadou folds
+berni37 folds
+mr_mojo folds
+mouk577 folds
+chrisc81 folds
+TOF_05 folds
+loogi folds
+sabre_laser collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Seat 10: sabre_laser won 1590
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 8 - HandId: #582041435239350273-49-1446068416 - Holdem no limit (15/150/300) - 2015/10/28 21:40:16 UTC
+Table: 'No Limit Hold'em(135517082)#0' 10-max (real money) Seat #6 is the button
+Seat 1: layadou (2203)
+Seat 2: berni37 (5930)
+Seat 3: mr_mojo (1478)
+Seat 4: mouk577 (3074)
+Seat 5: chrisc81 (2710)
+Seat 6: TOF_05 (1700)
+Seat 7: loogi (2915)
+Seat 8: Atalie (6400)
+Seat 9: Jo Hanna (2000)
+Seat 10: sabre_laser (1590)
+*** ANTE/BLINDS ***
+loogi posts ante 15
+Atalie posts ante 15
+layadou posts ante 15
+berni37 posts ante 15
+mr_mojo posts ante 15
+mouk577 posts ante 15
+chrisc81 posts ante 15
+TOF_05 posts ante 15
+Jo Hanna posts ante 15
+sabre_laser posts ante 15
+loogi posts small blind 150
+Atalie posts big blind 300
+Dealt to sabre_laser [Kh Tc]
+*** PRE-FLOP *** 
+Jo Hanna folds
+sabre_laser raises 1275 to 1575 and is all-in
+layadou folds
+berni37 folds
+mr_mojo folds
+mouk577 folds
+chrisc81 folds
+TOF_05 folds
+loogi calls 1425
+Atalie raises 4810 to 6385 and is all-in
+loogi calls 1325 and is all-in
+*** FLOP *** [As 8d Qh]
+*** TURN *** [As 8d Qh][2c]
+*** RIVER *** [As 8d Qh 2c][9d]
+*** SHOW DOWN ***
+loogi shows [Jh Jd] (One pair : Jacks)
+sabre_laser shows [Kh Tc] (High card : Ace)
+Atalie shows [Ah 3h] (One pair : Aces)
+Atalie collected 11010 from pot
+*** SUMMARY ***
+Total pot 11010 | No rake
+Board: [As 8d Qh 2c 9d]
+Seat 7: loogi (small blind) showed [Jh Jd] and lost with One pair : Jacks
+Seat 8: Atalie (big blind) showed [Ah 3h] and won 11010 with One pair : Aces
+Seat 10: sabre_laser showed [Kh Tc] and lost with High card : Ace
+
+

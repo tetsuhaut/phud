@@ -1,0 +1,1383 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #554631112870068225-1-1441038096 - Holdem no limit (10/20) - 2015/08/31 16:21:36 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #8 is the button
+Seat 1: -ILP- (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: fishman2014 (1500)
+Seat 4: .Roxon. (1500)
+Seat 5: Caro0104 (1500)
+Seat 6: Gilfourn (1500)
+Seat 7: fablaxe (1500)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1500)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+FabriceDo posts small blind 10
+Grinderdon posts big blind 20
+Dealt to sabre_laser [3c 8h]
+*** PRE-FLOP *** 
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. raises 60 to 80
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+.Roxon. collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 4: .Roxon. won 110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #554631112870068225-2-1441038158 - Holdem no limit (10/20) - 2015/08/31 16:22:38 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #9 is the button
+Seat 1: -ILP- (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: fishman2014 (1500)
+Seat 4: .Roxon. (1530)
+Seat 5: Caro0104 (1500)
+Seat 6: Gilfourn (1500)
+Seat 7: fablaxe (1500)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1490)
+Seat 10: Grinderdon (1480)
+*** ANTE/BLINDS ***
+Grinderdon posts small blind 10
+-ILP- posts big blind 20
+Dealt to sabre_laser [5s 9s]
+*** PRE-FLOP *** 
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon raises 25 to 45
+-ILP- folds
+Grinderdon collected 65 from pot
+*** SUMMARY ***
+Total pot 65 | No rake
+Seat 10: Grinderdon (small blind) won 65
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #554631112870068225-3-1441038212 - Holdem no limit (10/20) - 2015/08/31 16:23:32 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #10 is the button
+Seat 1: -ILP- (1480)
+Seat 2: sabre_laser (1500)
+Seat 3: fishman2014 (1500)
+Seat 4: .Roxon. (1530)
+Seat 5: Caro0104 (1500)
+Seat 6: Gilfourn (1500)
+Seat 7: fablaxe (1500)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1490)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+-ILP- posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Kc 2h]
+*** PRE-FLOP *** 
+fishman2014 folds
+.Roxon. folds
+Caro0104 calls 20
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser checks
+*** FLOP *** [6s 9h 2c]
+sabre_laser bets 30
+Caro0104 calls 30
+*** TURN *** [6s 9h 2c][Ks]
+sabre_laser checks
+Caro0104 bets 30
+sabre_laser calls 30
+*** RIVER *** [6s 9h 2c Ks][Js]
+sabre_laser bets 90
+Caro0104 calls 90
+*** SHOW DOWN ***
+Caro0104 shows [Qd Kh] (One pair : Kings)
+sabre_laser shows [Kc 2h] (Two pairs : Kings and 2)
+sabre_laser collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [6s 9h 2c Ks Js]
+Seat 2: sabre_laser (big blind) showed [Kc 2h] and won 350 with Two pairs : Kings and 2
+Seat 5: Caro0104 showed [Qd Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #554631112870068225-4-1441038282 - Holdem no limit (15/30) - 2015/08/31 16:24:42 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #1 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1680)
+Seat 3: fishman2014 (1500)
+Seat 4: .Roxon. (1530)
+Seat 5: Caro0104 (1330)
+Seat 6: Gilfourn (1500)
+Seat 7: fablaxe (1500)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1490)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+fishman2014 posts big blind 30
+Dealt to sabre_laser [Jd Kc]
+*** PRE-FLOP *** 
+.Roxon. folds
+Caro0104 calls 30
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser calls 15
+fishman2014 checks
+*** FLOP *** [2c 5d 5h]
+sabre_laser checks
+fishman2014 checks
+Caro0104 checks
+*** TURN *** [2c 5d 5h][7c]
+sabre_laser checks
+fishman2014 checks
+Caro0104 checks
+*** RIVER *** [2c 5d 5h 7c][Qc]
+sabre_laser checks
+fishman2014 checks
+Caro0104 bets 90
+sabre_laser folds
+fishman2014 folds
+Caro0104 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2c 5d 5h 7c Qc]
+Seat 5: Caro0104 won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #554631112870068225-5-1441038414 - Holdem no limit (15/30) - 2015/08/31 16:26:54 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #2 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1650)
+Seat 3: fishman2014 (1470)
+Seat 4: .Roxon. (1530)
+Seat 5: Caro0104 (1390)
+Seat 6: Gilfourn (1500)
+Seat 7: fablaxe (1500)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1490)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+fishman2014 posts small blind 15
+.Roxon. posts big blind 30
+Dealt to sabre_laser [3d 9h]
+*** PRE-FLOP *** 
+Caro0104 calls 30
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. checks
+*** FLOP *** [Jc 2c Qc]
+.Roxon. checks
+Caro0104 checks
+*** TURN *** [Jc 2c Qc][6h]
+.Roxon. checks
+Caro0104 checks
+*** RIVER *** [Jc 2c Qc 6h][4s]
+.Roxon. checks
+Caro0104 checks
+*** SHOW DOWN ***
+.Roxon. shows [2h 9d] (One pair : 2)
+Caro0104 shows [3h 3c] (One pair : 3)
+Caro0104 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Jc 2c Qc 6h 4s]
+Seat 4: .Roxon. (big blind) showed [2h 9d] and lost with One pair : 2
+Seat 5: Caro0104 showed [3h 3c] and won 75 with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #554631112870068225-6-1441038499 - Holdem no limit (20/40) - 2015/08/31 16:28:19 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #3 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1650)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1500)
+Seat 5: Caro0104 (1435)
+Seat 6: Gilfourn (1500)
+Seat 7: fablaxe (1500)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1490)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 20
+Caro0104 posts big blind 40
+Dealt to sabre_laser [2d Ad]
+*** PRE-FLOP *** 
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser raises 40 to 80
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+sabre_laser collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: sabre_laser won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #554631112870068225-7-1441038546 - Holdem no limit (20/40) - 2015/08/31 16:29:06 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #4 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1710)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (1395)
+Seat 6: Gilfourn (1500)
+Seat 7: fablaxe (1500)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1490)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+Caro0104 posts small blind 20
+Gilfourn posts big blind 40
+Dealt to sabre_laser [Ah 9s]
+*** PRE-FLOP *** 
+fablaxe calls 40
+titou9488 folds
+FabriceDo calls 40
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 calls 20
+Gilfourn checks
+*** FLOP *** [5s Qh Ac]
+Caro0104 checks
+Gilfourn checks
+fablaxe checks
+FabriceDo bets 80
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+FabriceDo collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5s Qh Ac]
+Seat 9: FabriceDo won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554631112870068225-8-1441038634 - Holdem no limit (30/60) - 2015/08/31 16:30:34 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #5 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1710)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (1355)
+Seat 6: Gilfourn (1460)
+Seat 7: fablaxe (1460)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1610)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+Gilfourn posts small blind 30
+fablaxe posts big blind 60
+Dealt to sabre_laser [8h 5d]
+*** PRE-FLOP *** 
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 7: fablaxe (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554631112870068225-9-1441038683 - Holdem no limit (30/60) - 2015/08/31 16:31:23 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #6 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1710)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (1355)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1490)
+Seat 8: titou9488 (1500)
+Seat 9: FabriceDo (1610)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+fablaxe posts small blind 30
+titou9488 posts big blind 60
+Dealt to sabre_laser [5c 9d]
+*** PRE-FLOP *** 
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 raises 60 to 120
+Gilfourn folds
+fablaxe folds
+titou9488 raises 240 to 360
+Caro0104 calls 240
+*** FLOP *** [3h 4c 7s]
+titou9488 bets 563
+Caro0104 folds
+titou9488 collected 1313 from pot
+*** SUMMARY ***
+Total pot 1313 | No rake
+Board: [3h 4c 7s]
+Seat 8: titou9488 (big blind) won 1313
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554631112870068225-10-1441038757 - Holdem no limit (30/60) - 2015/08/31 16:32:37 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #7 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1710)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (995)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1460)
+Seat 8: titou9488 (1890)
+Seat 9: FabriceDo (1610)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+titou9488 posts small blind 30
+FabriceDo posts big blind 60
+Dealt to sabre_laser [7h 7c]
+*** PRE-FLOP *** 
+Grinderdon folds
+-ILP- folds
+sabre_laser calls 60
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo raises 120 to 180
+sabre_laser calls 120
+*** FLOP *** [6d Ah 8d]
+FabriceDo bets 195
+sabre_laser folds
+FabriceDo collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [6d Ah 8d]
+Seat 9: FabriceDo (big blind) won 585
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554631112870068225-11-1441038801 - Holdem no limit (30/60) - 2015/08/31 16:33:21 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #8 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1530)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (995)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1460)
+Seat 8: titou9488 (1860)
+Seat 9: FabriceDo (1820)
+Seat 10: Grinderdon (1500)
+*** ANTE/BLINDS ***
+FabriceDo posts small blind 30
+Grinderdon posts big blind 60
+Dealt to sabre_laser [Qd 9d]
+*** PRE-FLOP *** 
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 10: Grinderdon (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #554631112870068225-12-1441038828 - Holdem no limit (40/80) - 2015/08/31 16:33:48 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #9 is the button
+Seat 1: -ILP- (1470)
+Seat 2: sabre_laser (1530)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (995)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1460)
+Seat 8: titou9488 (1860)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+Grinderdon posts small blind 40
+-ILP- posts big blind 80
+Dealt to sabre_laser [3s Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon raises 100 to 180
+-ILP- folds
+Grinderdon collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 10: Grinderdon (small blind) won 260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #554631112870068225-13-1441038880 - Holdem no limit (40/80) - 2015/08/31 16:34:40 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #10 is the button
+Seat 1: -ILP- (1390)
+Seat 2: sabre_laser (1530)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (995)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1460)
+Seat 8: titou9488 (1860)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1610)
+*** ANTE/BLINDS ***
+-ILP- posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Js Ac]
+*** PRE-FLOP *** 
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe calls 80
+titou9488 folds
+FabriceDo folds
+Grinderdon calls 80
+-ILP- folds
+sabre_laser raises 240 to 320
+fablaxe folds
+Grinderdon folds
+sabre_laser collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 2: sabre_laser (big blind) won 520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #554631112870068225-14-1441038966 - Holdem no limit (40/80) - 2015/08/31 16:36:06 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #1 is the button
+Seat 1: -ILP- (1350)
+Seat 2: sabre_laser (1730)
+Seat 3: fishman2014 (1455)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (995)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1380)
+Seat 8: titou9488 (1860)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+fishman2014 posts big blind 80
+Dealt to sabre_laser [6h 5c]
+*** PRE-FLOP *** 
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe calls 80
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- raises 240 to 320
+sabre_laser folds
+fishman2014 folds
+fablaxe calls 240
+*** FLOP *** [9h Ks 6s]
+fablaxe bets 760
+-ILP- folds
+fablaxe collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [9h Ks 6s]
+Seat 7: fablaxe won 1520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554631112870068225-15-1441039042 - Holdem no limit (60/120) - 2015/08/31 16:37:22 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #2 is the button
+Seat 1: -ILP- (1030)
+Seat 2: sabre_laser (1690)
+Seat 3: fishman2014 (1375)
+Seat 4: .Roxon. (1480)
+Seat 5: Caro0104 (995)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1820)
+Seat 8: titou9488 (1860)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+fishman2014 posts small blind 60
+.Roxon. posts big blind 120
+Dealt to sabre_laser [5c Ac]
+*** PRE-FLOP *** 
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser raises 120 to 240
+fishman2014 folds
+.Roxon. calls 120
+*** FLOP *** [Ks 2s 7c]
+.Roxon. checks
+sabre_laser checks
+*** TURN *** [Ks 2s 7c][9h]
+.Roxon. checks
+sabre_laser bets 270
+.Roxon. folds
+sabre_laser collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [Ks 2s 7c 9h]
+Seat 2: sabre_laser (button) won 810
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554631112870068225-16-1441039123 - Holdem no limit (60/120) - 2015/08/31 16:38:43 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #3 is the button
+Seat 1: -ILP- (1030)
+Seat 2: sabre_laser (1990)
+Seat 3: fishman2014 (1315)
+Seat 4: .Roxon. (1240)
+Seat 5: Caro0104 (995)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1820)
+Seat 8: titou9488 (1860)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 60
+Caro0104 posts big blind 120
+Dealt to sabre_laser [9h 5c]
+*** PRE-FLOP *** 
+Gilfourn folds
+fablaxe folds
+titou9488 raises 1740 to 1860 and is all-in
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+titou9488 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Seat 8: titou9488 won 2040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554631112870068225-17-1441039190 - Holdem no limit (80/160) - 2015/08/31 16:39:50 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #4 is the button
+Seat 1: -ILP- (1030)
+Seat 2: sabre_laser (1990)
+Seat 3: fishman2014 (1315)
+Seat 4: .Roxon. (1180)
+Seat 5: Caro0104 (875)
+Seat 6: Gilfourn (1430)
+Seat 7: fablaxe (1820)
+Seat 8: titou9488 (2040)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+Caro0104 posts small blind 80
+Gilfourn posts big blind 160
+Dealt to sabre_laser [8c Ac]
+*** PRE-FLOP *** 
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser raises 160 to 320
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 2: sabre_laser won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554631112870068225-18-1441039237 - Holdem no limit (80/160) - 2015/08/31 16:40:37 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #5 is the button
+Seat 1: -ILP- (1030)
+Seat 2: sabre_laser (2230)
+Seat 3: fishman2014 (1315)
+Seat 4: .Roxon. (1180)
+Seat 5: Caro0104 (795)
+Seat 6: Gilfourn (1270)
+Seat 7: fablaxe (1820)
+Seat 8: titou9488 (2040)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+Gilfourn posts small blind 80
+fablaxe posts big blind 160
+Dealt to sabre_laser [Qh 5h]
+*** PRE-FLOP *** 
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: fablaxe (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554631112870068225-19-1441039313 - Holdem no limit (80/160) - 2015/08/31 16:41:53 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #6 is the button
+Seat 1: -ILP- (1030)
+Seat 2: sabre_laser (2230)
+Seat 3: fishman2014 (1315)
+Seat 4: .Roxon. (1180)
+Seat 5: Caro0104 (795)
+Seat 6: Gilfourn (1190)
+Seat 7: fablaxe (1900)
+Seat 8: titou9488 (2040)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+fablaxe posts small blind 80
+titou9488 posts big blind 160
+Dealt to sabre_laser [4h 5c]
+*** PRE-FLOP *** 
+FabriceDo folds
+Grinderdon folds
+-ILP- raises 870 to 1030 and is all-in
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+-ILP- collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | No rake
+Seat 1: -ILP- won 1270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554631112870068225-20-1441039379 - Holdem no limit (10/100/200) - 2015/08/31 16:42:59 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #7 is the button
+Seat 1: -ILP- (1270)
+Seat 2: sabre_laser (2230)
+Seat 3: fishman2014 (1315)
+Seat 4: .Roxon. (1180)
+Seat 5: Caro0104 (795)
+Seat 6: Gilfourn (1190)
+Seat 7: fablaxe (1820)
+Seat 8: titou9488 (1880)
+Seat 9: FabriceDo (1790)
+Seat 10: Grinderdon (1530)
+*** ANTE/BLINDS ***
+titou9488 posts ante 10
+FabriceDo posts ante 10
+-ILP- posts ante 10
+sabre_laser posts ante 10
+fishman2014 posts ante 10
+.Roxon. posts ante 10
+Caro0104 posts ante 10
+Gilfourn posts ante 10
+fablaxe posts ante 10
+Grinderdon posts ante 10
+titou9488 posts small blind 100
+FabriceDo posts big blind 200
+Dealt to sabre_laser [5d 5c]
+*** PRE-FLOP *** 
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 raises 1670 to 1870 and is all-in
+FabriceDo folds
+titou9488 collected 2170 from pot
+*** SUMMARY ***
+Total pot 2170 | No rake
+Seat 8: titou9488 (small blind) won 2170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554631112870068225-21-1441039434 - Holdem no limit (10/100/200) - 2015/08/31 16:43:54 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #8 is the button
+Seat 1: -ILP- (1260)
+Seat 2: sabre_laser (2220)
+Seat 3: fishman2014 (1305)
+Seat 4: .Roxon. (1170)
+Seat 5: Caro0104 (785)
+Seat 6: Gilfourn (1180)
+Seat 7: fablaxe (1810)
+Seat 8: titou9488 (2170)
+Seat 9: FabriceDo (1580)
+Seat 10: Grinderdon (1520)
+*** ANTE/BLINDS ***
+FabriceDo posts ante 10
+Grinderdon posts ante 10
+-ILP- posts ante 10
+sabre_laser posts ante 10
+fishman2014 posts ante 10
+.Roxon. posts ante 10
+Caro0104 posts ante 10
+Gilfourn posts ante 10
+fablaxe posts ante 10
+titou9488 posts ante 10
+FabriceDo posts small blind 100
+Grinderdon posts big blind 200
+Dealt to sabre_laser [5d 9s]
+*** PRE-FLOP *** 
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 raises 1960 to 2160 and is all-in
+FabriceDo folds
+Grinderdon calls 1310 and is all-in
+*** FLOP *** [9c 4c Ac]
+*** TURN *** [9c 4c Ac][2s]
+*** RIVER *** [9c 4c Ac 2s][Td]
+*** SHOW DOWN ***
+Grinderdon shows [Ks Ad] (One pair : Aces)
+titou9488 shows [Ah Qs] (One pair : Aces)
+titou9488 collected 650 from side pot 1
+Grinderdon collected 3220 from main pot
+*** SUMMARY ***
+Total pot 3870 | No rake
+Board: [9c 4c Ac 2s Td]
+Seat 8: titou9488 (button) showed [Ah Qs] and won 650 with One pair : Aces
+Seat 10: Grinderdon (big blind) showed [Ks Ad] and won 3220 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554631112870068225-22-1441039493 - Holdem no limit (10/100/200) - 2015/08/31 16:44:53 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #9 is the button
+Seat 1: -ILP- (1250)
+Seat 2: sabre_laser (2210)
+Seat 3: fishman2014 (1295)
+Seat 4: .Roxon. (1160)
+Seat 5: Caro0104 (775)
+Seat 6: Gilfourn (1170)
+Seat 7: fablaxe (1800)
+Seat 8: titou9488 (650)
+Seat 9: FabriceDo (1470)
+Seat 10: Grinderdon (3220)
+*** ANTE/BLINDS ***
+Grinderdon posts ante 10
+-ILP- posts ante 10
+sabre_laser posts ante 10
+fishman2014 posts ante 10
+.Roxon. posts ante 10
+Caro0104 posts ante 10
+Gilfourn posts ante 10
+fablaxe posts ante 10
+titou9488 posts ante 10
+FabriceDo posts ante 10
+Grinderdon posts small blind 100
+-ILP- posts big blind 200
+Dealt to sabre_laser [Qc 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 raises 440 to 640 and is all-in
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+titou9488 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Seat 8: titou9488 won 1040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #554631112870068225-23-1441039562 - Holdem no limit (20/150/300) - 2015/08/31 16:46:02 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #10 is the button
+Seat 1: -ILP- (1040)
+Seat 2: sabre_laser (2200)
+Seat 3: fishman2014 (1285)
+Seat 4: .Roxon. (1150)
+Seat 5: Caro0104 (765)
+Seat 6: Gilfourn (1160)
+Seat 7: fablaxe (1790)
+Seat 8: titou9488 (1040)
+Seat 9: FabriceDo (1460)
+Seat 10: Grinderdon (3110)
+*** ANTE/BLINDS ***
+-ILP- posts ante 20
+sabre_laser posts ante 20
+fishman2014 posts ante 20
+.Roxon. posts ante 20
+Caro0104 posts ante 20
+Gilfourn posts ante 20
+fablaxe posts ante 20
+titou9488 posts ante 20
+FabriceDo posts ante 20
+Grinderdon posts ante 20
+-ILP- posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [8s Jd]
+*** PRE-FLOP *** 
+fishman2014 folds
+.Roxon. folds
+Caro0104 raises 445 to 745 and is all-in
+Gilfourn folds
+fablaxe calls 745
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+*** FLOP *** [5h 6h 5s]
+*** TURN *** [5h 6h 5s][2d]
+*** RIVER *** [5h 6h 5s 2d][9h]
+*** SHOW DOWN ***
+fablaxe shows [Kd Jh] (One pair : 5)
+Caro0104 shows [Ad Qc] (One pair : 5)
+Caro0104 collected 2140 from pot
+*** SUMMARY ***
+Total pot 2140 | No rake
+Board: [5h 6h 5s 2d 9h]
+Seat 5: Caro0104 showed [Ad Qc] and won 2140 with One pair : 5
+Seat 7: fablaxe showed [Kd Jh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #554631112870068225-24-1441039654 - Holdem no limit (20/150/300) - 2015/08/31 16:47:34 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #1 is the button
+Seat 1: -ILP- (870)
+Seat 2: sabre_laser (1880)
+Seat 3: fishman2014 (1265)
+Seat 4: .Roxon. (1130)
+Seat 5: Caro0104 (2140)
+Seat 6: Gilfourn (1140)
+Seat 7: fablaxe (1025)
+Seat 8: titou9488 (1020)
+Seat 9: FabriceDo (1440)
+Seat 10: Grinderdon (3090)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+fishman2014 posts ante 20
+-ILP- posts ante 20
+.Roxon. posts ante 20
+Caro0104 posts ante 20
+Gilfourn posts ante 20
+fablaxe posts ante 20
+titou9488 posts ante 20
+FabriceDo posts ante 20
+Grinderdon posts ante 20
+sabre_laser posts small blind 150
+fishman2014 posts big blind 300
+Dealt to sabre_laser [4s 6s]
+*** PRE-FLOP *** 
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- raises 550 to 850 and is all-in
+sabre_laser folds
+fishman2014 folds
+-ILP- collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 1: -ILP- (button) won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #554631112870068225-25-1441039712 - Holdem no limit (50/200/400) - 2015/08/31 16:48:32 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #2 is the button
+Seat 1: -ILP- (1500)
+Seat 2: sabre_laser (1710)
+Seat 3: fishman2014 (945)
+Seat 4: .Roxon. (1110)
+Seat 5: Caro0104 (2120)
+Seat 6: Gilfourn (1120)
+Seat 7: fablaxe (1005)
+Seat 8: titou9488 (1000)
+Seat 9: FabriceDo (1420)
+Seat 10: Grinderdon (3070)
+*** ANTE/BLINDS ***
+fishman2014 posts ante 50
+.Roxon. posts ante 50
+-ILP- posts ante 50
+sabre_laser posts ante 50
+Caro0104 posts ante 50
+Gilfourn posts ante 50
+fablaxe posts ante 50
+titou9488 posts ante 50
+FabriceDo posts ante 50
+Grinderdon posts ante 50
+fishman2014 posts small blind 200
+.Roxon. posts big blind 400
+Dealt to sabre_laser [8c Kc]
+*** PRE-FLOP *** 
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- raises 1050 to 1450 and is all-in
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+-ILP- collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 1: -ILP- won 2550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #554631112870068225-26-1441039769 - Holdem no limit (50/200/400) - 2015/08/31 16:49:29 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #3 is the button
+Seat 1: -ILP- (2550)
+Seat 2: sabre_laser (1660)
+Seat 3: fishman2014 (695)
+Seat 4: .Roxon. (660)
+Seat 5: Caro0104 (2070)
+Seat 6: Gilfourn (1070)
+Seat 7: fablaxe (955)
+Seat 8: titou9488 (950)
+Seat 9: FabriceDo (1370)
+Seat 10: Grinderdon (3020)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 50
+Caro0104 posts ante 50
+-ILP- posts ante 50
+sabre_laser posts ante 50
+fishman2014 posts ante 50
+Gilfourn posts ante 50
+fablaxe posts ante 50
+titou9488 posts ante 50
+FabriceDo posts ante 50
+Grinderdon posts ante 50
+.Roxon. posts small blind 200
+Caro0104 posts big blind 400
+Dealt to sabre_laser [7h 2d]
+*** PRE-FLOP *** 
+Gilfourn raises 620 to 1020 and is all-in
+fablaxe folds
+titou9488 calls 900 and is all-in
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+*** FLOP *** [Kc 3d Ac]
+*** TURN *** [Kc 3d Ac][9s]
+*** RIVER *** [Kc 3d Ac 9s][As]
+*** SHOW DOWN ***
+titou9488 shows [Jc Ah] (Trips of Aces)
+Gilfourn shows [Js Ad] (Trips of Aces)
+Gilfourn collected 1570 from side pot 1
+titou9488 collected 1450 from main pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [Kc 3d Ac 9s As]
+Seat 6: Gilfourn showed [Js Ad] and won 1570 with Trips of Aces
+Seat 8: titou9488 showed [Jc Ah] and won 1450 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #554631112870068225-27-1441039809 - Holdem no limit (50/200/400) - 2015/08/31 16:50:09 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #4 is the button
+Seat 1: -ILP- (2500)
+Seat 2: sabre_laser (1610)
+Seat 3: fishman2014 (645)
+Seat 4: .Roxon. (410)
+Seat 5: Caro0104 (1620)
+Seat 6: Gilfourn (1570)
+Seat 7: fablaxe (905)
+Seat 8: titou9488 (1450)
+Seat 9: FabriceDo (1320)
+Seat 10: Grinderdon (2970)
+*** ANTE/BLINDS ***
+Caro0104 posts ante 50
+Gilfourn posts ante 50
+-ILP- posts ante 50
+sabre_laser posts ante 50
+fishman2014 posts ante 50
+.Roxon. posts ante 50
+fablaxe posts ante 50
+titou9488 posts ante 50
+FabriceDo posts ante 50
+Grinderdon posts ante 50
+Caro0104 posts small blind 200
+Gilfourn posts big blind 400
+Dealt to sabre_laser [Js 8h]
+*** PRE-FLOP *** 
+fablaxe folds
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 raises 195 to 595 and is all-in
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fishman2014 collected 1695 from pot
+*** SUMMARY ***
+Total pot 1695 | No rake
+Seat 3: fishman2014 won 1695
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #554631112870068225-28-1441039878 - Holdem no limit (50/200/400) - 2015/08/31 16:51:18 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #5 is the button
+Seat 1: -ILP- (2450)
+Seat 2: sabre_laser (1560)
+Seat 3: fishman2014 (1695)
+Seat 4: .Roxon. (360)
+Seat 5: Caro0104 (1370)
+Seat 6: Gilfourn (1120)
+Seat 7: fablaxe (855)
+Seat 8: titou9488 (1400)
+Seat 9: FabriceDo (1270)
+Seat 10: Grinderdon (2920)
+*** ANTE/BLINDS ***
+Gilfourn posts ante 50
+fablaxe posts ante 50
+-ILP- posts ante 50
+sabre_laser posts ante 50
+fishman2014 posts ante 50
+.Roxon. posts ante 50
+Caro0104 posts ante 50
+titou9488 posts ante 50
+FabriceDo posts ante 50
+Grinderdon posts ante 50
+Gilfourn posts small blind 200
+fablaxe posts big blind 400
+Dealt to sabre_laser [2h 2s]
+*** PRE-FLOP *** 
+titou9488 folds
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 raises 920 to 1320 and is all-in
+Gilfourn folds
+fablaxe calls 405 and is all-in
+*** FLOP *** [6c 3d Ks]
+*** TURN *** [6c 3d Ks][Ad]
+*** RIVER *** [6c 3d Ks Ad][Tc]
+*** SHOW DOWN ***
+fablaxe shows [Kc 4h] (One pair : Kings)
+Caro0104 shows [Qh Qd] (One pair : Queens)
+Caro0104 collected 515 from side pot 1
+fablaxe collected 2310 from main pot
+*** SUMMARY ***
+Total pot 2825 | No rake
+Board: [6c 3d Ks Ad Tc]
+Seat 5: Caro0104 (button) showed [Qh Qd] and won 515 with One pair : Queens
+Seat 7: fablaxe (big blind) showed [Kc 4h] and won 2310 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #554631112870068225-29-1441039949 - Holdem no limit (75/300/600) - 2015/08/31 16:52:29 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #6 is the button
+Seat 1: -ILP- (2400)
+Seat 2: sabre_laser (1510)
+Seat 3: fishman2014 (1645)
+Seat 4: .Roxon. (310)
+Seat 5: Caro0104 (515)
+Seat 6: Gilfourn (870)
+Seat 7: fablaxe (2310)
+Seat 8: titou9488 (1350)
+Seat 9: FabriceDo (1220)
+Seat 10: Grinderdon (2870)
+*** ANTE/BLINDS ***
+fablaxe posts ante 75
+titou9488 posts ante 75
+-ILP- posts ante 75
+sabre_laser posts ante 75
+fishman2014 posts ante 75
+.Roxon. posts ante 75
+Caro0104 posts ante 75
+Gilfourn posts ante 75
+FabriceDo posts ante 75
+Grinderdon posts ante 75
+fablaxe posts small blind 300
+titou9488 posts big blind 600
+Dealt to sabre_laser [8d 5c]
+*** PRE-FLOP *** 
+FabriceDo folds
+Grinderdon folds
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 8: titou9488 (big blind) won 1650
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #554631112870068225-30-1441040000 - Holdem no limit (75/300/600) - 2015/08/31 16:53:20 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #7 is the button
+Seat 1: -ILP- (2325)
+Seat 2: sabre_laser (1435)
+Seat 3: fishman2014 (1570)
+Seat 4: .Roxon. (235)
+Seat 5: Caro0104 (440)
+Seat 6: Gilfourn (795)
+Seat 7: fablaxe (1935)
+Seat 8: titou9488 (2325)
+Seat 9: FabriceDo (1145)
+Seat 10: Grinderdon (2795)
+*** ANTE/BLINDS ***
+titou9488 posts ante 75
+FabriceDo posts ante 75
+-ILP- posts ante 75
+sabre_laser posts ante 75
+fishman2014 posts ante 75
+.Roxon. posts ante 75
+Caro0104 posts ante 75
+Gilfourn posts ante 75
+fablaxe posts ante 75
+Grinderdon posts ante 75
+titou9488 posts small blind 300
+FabriceDo posts big blind 600
+Dealt to sabre_laser [Kh 4d]
+*** PRE-FLOP *** 
+Grinderdon raises 600 to 1200
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. folds
+Caro0104 folds
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+FabriceDo calls 470 and is all-in
+*** FLOP *** [Th Kc 9d]
+*** TURN *** [Th Kc 9d][9s]
+*** RIVER *** [Th Kc 9d 9s][2s]
+*** SHOW DOWN ***
+FabriceDo shows [4c Ac] (One pair : 9)
+Grinderdon shows [Qd Qs] (Two pairs : Queens and 9)
+Grinderdon collected 3320 from pot
+*** SUMMARY ***
+Total pot 3320 | No rake
+Board: [Th Kc 9d 9s 2s]
+Seat 9: FabriceDo (big blind) showed [4c Ac] and lost with One pair : 9
+Seat 10: Grinderdon showed [Qd Qs] and won 3320 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #554631112870068225-31-1441040055 - Holdem no limit (75/300/600) - 2015/08/31 16:54:15 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #8 is the button
+Seat 1: -ILP- (2250)
+Seat 2: sabre_laser (1360)
+Seat 3: fishman2014 (1495)
+Seat 4: .Roxon. (160)
+Seat 5: Caro0104 (365)
+Seat 6: Gilfourn (720)
+Seat 7: fablaxe (1860)
+Seat 8: titou9488 (1950)
+Seat 10: Grinderdon (4840)
+*** ANTE/BLINDS ***
+Grinderdon posts ante 75
+-ILP- posts ante 75
+sabre_laser posts ante 75
+fishman2014 posts ante 75
+.Roxon. posts ante 75
+Caro0104 posts ante 75
+Gilfourn posts ante 75
+fablaxe posts ante 75
+titou9488 posts ante 75
+Grinderdon posts big blind 600
+Dealt to sabre_laser [9c Td]
+*** PRE-FLOP *** 
+-ILP- folds
+sabre_laser folds
+fishman2014 folds
+.Roxon. calls 85 and is all-in
+Caro0104 calls 290 and is all-in
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+*** FLOP *** [Jh 6c 4c]
+*** TURN *** [Jh 6c 4c][Qc]
+*** RIVER *** [Jh 6c 4c Qc][5d]
+*** SHOW DOWN ***
+.Roxon. shows [8h Ah] (High card : Ace)
+Caro0104 shows [Qh Ad] (One pair : Queens)
+Grinderdon shows [5s 4d] (Two pairs : 5 and 4)
+Grinderdon collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [Jh 6c 4c Qc 5d]
+Seat 4: .Roxon. showed [8h Ah] and lost with High card : Ace
+Seat 5: Caro0104 showed [Qh Ad] and lost with One pair : Queens
+Seat 10: Grinderdon (big blind) showed [5s 4d] and won 1650 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #554631112870068225-32-1441040091 - Holdem no limit (100/400/800) - 2015/08/31 16:54:51 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #9 is the button
+Seat 1: -ILP- (2175)
+Seat 2: sabre_laser (1285)
+Seat 3: fishman2014 (1420)
+Seat 6: Gilfourn (645)
+Seat 7: fablaxe (1785)
+Seat 8: titou9488 (1875)
+Seat 10: Grinderdon (5815)
+*** ANTE/BLINDS ***
+Grinderdon posts ante 100
+-ILP- posts ante 100
+sabre_laser posts ante 100
+fishman2014 posts ante 100
+Gilfourn posts ante 100
+fablaxe posts ante 100
+titou9488 posts ante 100
+Grinderdon posts small blind 400
+-ILP- posts big blind 800
+Dealt to sabre_laser [2h 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+fishman2014 raises 520 to 1320 and is all-in
+Gilfourn folds
+fablaxe folds
+titou9488 folds
+Grinderdon folds
+-ILP- folds
+fishman2014 collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Seat 3: fishman2014 won 3220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #554631112870068225-33-1441040137 - Holdem no limit (100/400/800) - 2015/08/31 16:55:37 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #10 is the button
+Seat 1: -ILP- (1275)
+Seat 2: sabre_laser (1185)
+Seat 3: fishman2014 (3220)
+Seat 6: Gilfourn (545)
+Seat 7: fablaxe (1685)
+Seat 8: titou9488 (1775)
+Seat 10: Grinderdon (5315)
+*** ANTE/BLINDS ***
+-ILP- posts ante 100
+sabre_laser posts ante 100
+fishman2014 posts ante 100
+Gilfourn posts ante 100
+fablaxe posts ante 100
+titou9488 posts ante 100
+Grinderdon posts ante 100
+-ILP- posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [3h Td]
+*** PRE-FLOP *** 
+fishman2014 folds
+Gilfourn calls 445 and is all-in
+fablaxe folds
+titou9488 folds
+Grinderdon folds
+-ILP- folds
+*** FLOP *** [Kh 9d Qh]
+*** TURN *** [Kh 9d Qh][7d]
+*** RIVER *** [Kh 9d Qh 7d][5c]
+*** SHOW DOWN ***
+Gilfourn shows [Jc Ts] (Straight King high)
+sabre_laser shows [3h Td] (High card : King)
+sabre_laser collected 355 from side pot 1
+Gilfourn collected 1990 from main pot
+*** SUMMARY ***
+Total pot 2345 | No rake
+Board: [Kh 9d Qh 7d 5c]
+Seat 2: sabre_laser (big blind) showed [3h Td] and won 355 with High card : King
+Seat 6: Gilfourn showed [Jc Ts] and won 1990 with Straight King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #554631112870068225-34-1441040185 - Holdem no limit (100/400/800) - 2015/08/31 16:56:25 UTC
+Table: 'Double or Nothing(129135119)#0' 10-max (real money) Seat #1 is the button
+Seat 1: -ILP- (775)
+Seat 2: sabre_laser (640)
+Seat 3: fishman2014 (3120)
+Seat 6: Gilfourn (1990)
+Seat 7: fablaxe (1585)
+Seat 8: titou9488 (1675)
+Seat 10: Grinderdon (5215)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+fishman2014 posts ante 100
+-ILP- posts ante 100
+Gilfourn posts ante 100
+fablaxe posts ante 100
+titou9488 posts ante 100
+Grinderdon posts ante 100
+sabre_laser posts small blind 400
+fishman2014 posts big blind 800
+Dealt to sabre_laser [7c 7h]
+*** PRE-FLOP *** 
+Gilfourn folds
+fablaxe folds
+titou9488 raises 775 to 1575 and is all-in
+Grinderdon folds
+-ILP- folds
+sabre_laser calls 140 and is all-in
+fishman2014 folds
+*** FLOP *** [2c Kh Ad]
+*** TURN *** [2c Kh Ad][5d]
+*** RIVER *** [2c Kh Ad 5d][2h]
+*** SHOW DOWN ***
+sabre_laser shows [7c 7h] (Two pairs : 7 and 2)
+titou9488 shows [Jd Jh] (Two pairs : Jacks and 2)
+titou9488 collected 3615 from pot
+*** SUMMARY ***
+Total pot 3615 | No rake
+Board: [2c Kh Ad 5d 2h]
+Seat 2: sabre_laser (small blind) showed [7c 7h] and lost with Two pairs : 7 and 2
+Seat 8: titou9488 showed [Jd Jh] and won 3615 with Two pairs : Jacks and 2
+
+

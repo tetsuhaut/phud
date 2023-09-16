@@ -1,0 +1,1049 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #577555672611160065-1-1445198201 - Holdem no limit (10/20) - 2015/10/18 19:56:41 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: patrice89 (1500)
+Seat 3: Davideusse (1500)
+Seat 4: xwinstOnvOlf (1500)
+Seat 5: C_Pa_2_Ku (1500)
+Seat 6: acoma (1500)
+Seat 7: Nabuch (1500)
+Seat 8: spyce174 (1500)
+Seat 9: kevv95 (1500)
+Seat 10: RV-ROUTE66 (1500)
+*** ANTE/BLINDS ***
+acoma posts small blind 10
+Nabuch posts big blind 20
+Dealt to sabre_laser [Jd 8d]
+*** PRE-FLOP *** 
+spyce174 calls 20
+kevv95 folds
+RV-ROUTE66 calls 20
+sabre_laser folds
+patrice89 raises 20 to 40
+Davideusse calls 40
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma folds
+Nabuch folds
+spyce174 calls 20
+RV-ROUTE66 calls 20
+*** FLOP *** [2d 6s 9h]
+spyce174 checks
+RV-ROUTE66 checks
+patrice89 bets 190
+Davideusse calls 190
+spyce174 calls 190
+RV-ROUTE66 folds
+*** TURN *** [2d 6s 9h][Qh]
+spyce174 checks
+patrice89 bets 1270 and is all-in
+Davideusse calls 1270 and is all-in
+spyce174 folds
+*** RIVER *** [2d 6s 9h Qh][3d]
+*** SHOW DOWN ***
+Davideusse shows [Th Ah] (High card : Ace)
+patrice89 shows [2h 2s] (Trips of 2)
+patrice89 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [2d 6s 9h Qh 3d]
+Seat 2: patrice89 showed [2h 2s] and won 3300 with Trips of 2
+Seat 3: Davideusse showed [Th Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #577555672611160065-2-1445198309 - Holdem no limit (10/20) - 2015/10/18 19:58:29 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: patrice89 (3300)
+Seat 4: xwinstOnvOlf (1500)
+Seat 5: C_Pa_2_Ku (1500)
+Seat 6: acoma (1490)
+Seat 7: Nabuch (1480)
+Seat 8: spyce174 (1270)
+Seat 9: kevv95 (1500)
+Seat 10: RV-ROUTE66 (1460)
+*** ANTE/BLINDS ***
+Nabuch posts small blind 10
+spyce174 posts big blind 20
+Dealt to sabre_laser [4h 7d]
+*** PRE-FLOP *** 
+kevv95 folds
+RV-ROUTE66 folds
+sabre_laser folds
+patrice89 raises 20 to 40
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma calls 40
+Nabuch folds
+spyce174 calls 20
+*** FLOP *** [5s 2c 9s]
+spyce174 bets 20
+patrice89 folds
+acoma calls 20
+*** TURN *** [5s 2c 9s][Qd]
+spyce174 bets 20
+acoma folds
+spyce174 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [5s 2c 9s Qd]
+Seat 8: spyce174 (big blind) won 190
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #577555672611160065-3-1445198388 - Holdem no limit (15/30) - 2015/10/18 19:59:48 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: patrice89 (3260)
+Seat 4: xwinstOnvOlf (1500)
+Seat 5: C_Pa_2_Ku (1500)
+Seat 6: acoma (1430)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (1380)
+Seat 9: kevv95 (1500)
+Seat 10: RV-ROUTE66 (1460)
+*** ANTE/BLINDS ***
+spyce174 posts small blind 15
+kevv95 posts big blind 30
+Dealt to sabre_laser [9s 2s]
+*** PRE-FLOP *** 
+RV-ROUTE66 raises 30 to 60
+sabre_laser folds
+patrice89 calls 60
+xwinstOnvOlf folds
+C_Pa_2_Ku calls 60
+acoma folds
+Nabuch folds
+spyce174 calls 45
+kevv95 raises 300 to 360
+RV-ROUTE66 folds
+patrice89 folds
+C_Pa_2_Ku folds
+spyce174 calls 300
+*** FLOP *** [5c 6d 4d]
+spyce174 checks
+kevv95 bets 1140 and is all-in
+spyce174 calls 1020 and is all-in
+*** TURN *** [5c 6d 4d][Ah]
+*** RIVER *** [5c 6d 4d Ah][Qd]
+*** SHOW DOWN ***
+spyce174 shows [7h Qs] (One pair : Queens)
+kevv95 shows [Js Jh] (One pair : Jacks)
+kevv95 collected 120 from side pot 1
+spyce174 collected 2940 from main pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Board: [5c 6d 4d Ah Qd]
+Seat 8: spyce174 (small blind) showed [7h Qs] and won 2940 with One pair : Queens
+Seat 9: kevv95 (big blind) showed [Js Jh] and won 120 with One pair : Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #577555672611160065-4-1445198468 - Holdem no limit (15/30) - 2015/10/18 20:01:08 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: patrice89 (3200)
+Seat 4: xwinstOnvOlf (1500)
+Seat 5: C_Pa_2_Ku (1440)
+Seat 6: acoma (1430)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (2940)
+Seat 9: kevv95 (120)
+Seat 10: RV-ROUTE66 (1400)
+*** ANTE/BLINDS ***
+kevv95 posts small blind 15
+RV-ROUTE66 posts big blind 30
+Dealt to sabre_laser [6h Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+patrice89 calls 30
+xwinstOnvOlf calls 30
+C_Pa_2_Ku folds
+acoma folds
+Nabuch folds
+spyce174 calls 30
+kevv95 raises 90 to 120 and is all-in
+RV-ROUTE66 calls 90
+patrice89 calls 90
+xwinstOnvOlf calls 90
+spyce174 calls 90
+*** FLOP *** [5s 8d 5h]
+RV-ROUTE66 checks
+patrice89 checks
+xwinstOnvOlf bets 180
+spyce174 calls 180
+RV-ROUTE66 folds
+patrice89 folds
+*** TURN *** [5s 8d 5h][Jc]
+xwinstOnvOlf bets 420
+spyce174 calls 420
+*** RIVER *** [5s 8d 5h Jc][Ts]
+xwinstOnvOlf bets 600
+spyce174 calls 600
+*** SHOW DOWN ***
+spyce174 shows [Ks 5d] (Trips of 5)
+kevv95 shows [2c 2s] (Two pairs : 5 and 2)
+xwinstOnvOlf shows [Ah 5c] (Trips of 5)
+xwinstOnvOlf collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [5s 8d 5h Jc Ts]
+Seat 4: xwinstOnvOlf showed [Ah 5c] and won 3000 with Trips of 5
+Seat 8: spyce174 (button) showed [Ks 5d] and lost with Trips of 5
+Seat 9: kevv95 (small blind) showed [2c 2s] and lost with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #577555672611160065-5-1445198575 - Holdem no limit (20/40) - 2015/10/18 20:02:55 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: patrice89 (3080)
+Seat 4: xwinstOnvOlf (3180)
+Seat 5: C_Pa_2_Ku (1440)
+Seat 6: acoma (1430)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (1620)
+Seat 10: RV-ROUTE66 (1280)
+*** ANTE/BLINDS ***
+RV-ROUTE66 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Qs 4c]
+*** PRE-FLOP *** 
+patrice89 folds
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma folds
+Nabuch folds
+spyce174 folds
+RV-ROUTE66 raises 120 to 160
+sabre_laser calls 120
+*** FLOP *** [Qc As 3h]
+RV-ROUTE66 bets 180
+sabre_laser calls 180
+*** TURN *** [Qc As 3h][4s]
+RV-ROUTE66 bets 380
+sabre_laser raises 780 to 1160 and is all-in
+RV-ROUTE66 folds
+sabre_laser collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [Qc As 3h 4s]
+Seat 1: sabre_laser (big blind) won 2220
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #577555672611160065-6-1445198660 - Holdem no limit (20/40) - 2015/10/18 20:04:20 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2220)
+Seat 2: patrice89 (3080)
+Seat 4: xwinstOnvOlf (3180)
+Seat 5: C_Pa_2_Ku (1440)
+Seat 6: acoma (1430)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (1620)
+Seat 10: RV-ROUTE66 (560)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+patrice89 posts big blind 40
+Dealt to sabre_laser [Ac Qc]
+*** PRE-FLOP *** 
+xwinstOnvOlf raises 40 to 80
+C_Pa_2_Ku folds
+acoma folds
+Nabuch folds
+spyce174 calls 80
+RV-ROUTE66 calls 80
+sabre_laser folds
+patrice89 calls 40
+*** FLOP *** [Kc Ah 3h]
+patrice89 checks
+xwinstOnvOlf checks
+spyce174 bets 40
+RV-ROUTE66 raises 440 to 480 and is all-in
+patrice89 folds
+xwinstOnvOlf folds
+spyce174 calls 440
+*** TURN *** [Kc Ah 3h][2d]
+*** RIVER *** [Kc Ah 3h 2d][6d]
+*** SHOW DOWN ***
+RV-ROUTE66 shows [Jh 7h] (High card : Ace)
+spyce174 shows [6h 6s] (Trips of 6)
+spyce174 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [Kc Ah 3h 2d 6d]
+Seat 8: spyce174 showed [6h 6s] and won 1300 with Trips of 6
+Seat 10: RV-ROUTE66 (button) showed [Jh 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #577555672611160065-7-1445198791 - Holdem no limit (30/60) - 2015/10/18 20:06:31 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2200)
+Seat 2: patrice89 (3000)
+Seat 4: xwinstOnvOlf (3100)
+Seat 5: C_Pa_2_Ku (1440)
+Seat 6: acoma (1430)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (2360)
+*** ANTE/BLINDS ***
+patrice89 posts small blind 30
+xwinstOnvOlf posts big blind 60
+Dealt to sabre_laser [Kh Qh]
+*** PRE-FLOP *** 
+C_Pa_2_Ku raises 120 to 180
+acoma folds
+Nabuch folds
+spyce174 folds
+sabre_laser calls 180
+patrice89 folds
+xwinstOnvOlf calls 120
+*** FLOP *** [4s 2s Kc]
+xwinstOnvOlf checks
+C_Pa_2_Ku checks
+sabre_laser bets 570
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+sabre_laser collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | No rake
+Board: [4s 2s Kc]
+Seat 1: sabre_laser (button) won 1140
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #577555672611160065-8-1445198853 - Holdem no limit (30/60) - 2015/10/18 20:07:33 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2590)
+Seat 2: patrice89 (2970)
+Seat 4: xwinstOnvOlf (2920)
+Seat 5: C_Pa_2_Ku (1260)
+Seat 6: acoma (1430)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (2360)
+*** ANTE/BLINDS ***
+xwinstOnvOlf posts small blind 30
+C_Pa_2_Ku posts big blind 60
+Dealt to sabre_laser [Qd 2d]
+*** PRE-FLOP *** 
+acoma raises 60 to 120
+Nabuch folds
+spyce174 folds
+sabre_laser folds
+patrice89 calls 120
+xwinstOnvOlf folds
+C_Pa_2_Ku calls 60
+*** FLOP *** [Jd Ad 5d]
+C_Pa_2_Ku checks
+acoma bets 165
+patrice89 calls 165
+C_Pa_2_Ku folds
+*** TURN *** [Jd Ad 5d][Qc]
+acoma bets 120
+patrice89 calls 120
+*** RIVER *** [Jd Ad 5d Qc][Tc]
+acoma bets 120
+patrice89 calls 120
+*** SHOW DOWN ***
+patrice89 shows [2s As] (One pair : Aces)
+acoma shows [Kc Jh] (Straight Ace high)
+acoma collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Jd Ad 5d Qc Tc]
+Seat 2: patrice89 (button) showed [2s As] and lost with One pair : Aces
+Seat 6: acoma showed [Kc Jh] and won 1200 with Straight Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #577555672611160065-9-1445198925 - Holdem no limit (40/80) - 2015/10/18 20:08:45 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2590)
+Seat 2: patrice89 (2445)
+Seat 4: xwinstOnvOlf (2890)
+Seat 5: C_Pa_2_Ku (1140)
+Seat 6: acoma (2105)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (2360)
+*** ANTE/BLINDS ***
+C_Pa_2_Ku posts small blind 40
+acoma posts big blind 80
+Dealt to sabre_laser [6c 9d]
+*** PRE-FLOP *** 
+Nabuch folds
+spyce174 calls 80
+sabre_laser folds
+patrice89 folds
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma checks
+*** FLOP *** [5h 2c Qh]
+acoma checks
+spyce174 checks
+*** TURN *** [5h 2c Qh][Jh]
+acoma checks
+spyce174 checks
+*** RIVER *** [5h 2c Qh Jh][Jd]
+acoma bets 120
+spyce174 folds
+acoma collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5h 2c Qh Jh Jd]
+Seat 6: acoma (big blind) won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #577555672611160065-10-1445198997 - Holdem no limit (40/80) - 2015/10/18 20:09:57 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (2590)
+Seat 2: patrice89 (2445)
+Seat 4: xwinstOnvOlf (2890)
+Seat 5: C_Pa_2_Ku (1100)
+Seat 6: acoma (2225)
+Seat 7: Nabuch (1470)
+Seat 8: spyce174 (2280)
+*** ANTE/BLINDS ***
+acoma posts small blind 40
+Nabuch posts big blind 80
+Dealt to sabre_laser [Ts 8s]
+*** PRE-FLOP *** 
+spyce174 folds
+sabre_laser calls 80
+patrice89 calls 80
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma folds
+Nabuch checks
+*** FLOP *** [4s Ac 6d]
+Nabuch checks
+sabre_laser checks
+patrice89 checks
+*** TURN *** [4s Ac 6d][6s]
+Nabuch checks
+sabre_laser bets 140
+patrice89 calls 140
+Nabuch folds
+*** RIVER *** [4s Ac 6d 6s][4h]
+sabre_laser checks
+patrice89 bets 80
+sabre_laser folds
+patrice89 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4s Ac 6d 6s 4h]
+Seat 2: patrice89 won 640
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #577555672611160065-11-1445199126 - Holdem no limit (60/120) - 2015/10/18 20:12:06 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2370)
+Seat 2: patrice89 (2785)
+Seat 4: xwinstOnvOlf (2890)
+Seat 5: C_Pa_2_Ku (1100)
+Seat 6: acoma (2185)
+Seat 7: Nabuch (1390)
+Seat 8: spyce174 (2280)
+*** ANTE/BLINDS ***
+Nabuch posts small blind 60
+spyce174 posts big blind 120
+Dealt to sabre_laser [2h 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+patrice89 folds
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma folds
+Nabuch raises 1270 to 1390 and is all-in
+spyce174 folds
+Nabuch collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Seat 7: Nabuch (small blind) won 1510
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #577555672611160065-12-1445199180 - Holdem no limit (60/120) - 2015/10/18 20:13:00 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2370)
+Seat 2: patrice89 (2785)
+Seat 4: xwinstOnvOlf (2890)
+Seat 5: C_Pa_2_Ku (1100)
+Seat 6: acoma (2185)
+Seat 7: Nabuch (1510)
+Seat 8: spyce174 (2160)
+*** ANTE/BLINDS ***
+spyce174 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [9d Kh]
+*** PRE-FLOP *** 
+patrice89 calls 120
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma folds
+Nabuch folds
+spyce174 calls 60
+sabre_laser checks
+*** FLOP *** [6h 2s 7h]
+spyce174 checks
+sabre_laser checks
+patrice89 checks
+*** TURN *** [6h 2s 7h][8d]
+spyce174 checks
+sabre_laser checks
+patrice89 checks
+*** RIVER *** [6h 2s 7h 8d][2c]
+spyce174 checks
+sabre_laser checks
+patrice89 checks
+*** SHOW DOWN ***
+sabre_laser shows [9d Kh] (One pair : 2)
+spyce174 shows [Qs 4c] (One pair : 2)
+patrice89 shows [Ah 9c] (One pair : 2)
+patrice89 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6h 2s 7h 8d 2c]
+Seat 1: sabre_laser (big blind) showed [9d Kh] and lost with One pair : 2
+Seat 2: patrice89 showed [Ah 9c] and won 360 with One pair : 2
+Seat 8: spyce174 (small blind) showed [Qs 4c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #577555672611160065-13-1445199245 - Holdem no limit (60/120) - 2015/10/18 20:14:05 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2250)
+Seat 2: patrice89 (3025)
+Seat 4: xwinstOnvOlf (2890)
+Seat 5: C_Pa_2_Ku (1100)
+Seat 6: acoma (2185)
+Seat 7: Nabuch (1510)
+Seat 8: spyce174 (2040)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+patrice89 posts big blind 120
+Dealt to sabre_laser [3h 5s]
+*** PRE-FLOP *** 
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma raises 240 to 360
+Nabuch folds
+spyce174 folds
+sabre_laser folds
+patrice89 folds
+acoma collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 6: acoma won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577555672611160065-14-1445199286 - Holdem no limit (80/160) - 2015/10/18 20:14:46 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2190)
+Seat 2: patrice89 (2905)
+Seat 4: xwinstOnvOlf (2890)
+Seat 5: C_Pa_2_Ku (1100)
+Seat 6: acoma (2365)
+Seat 7: Nabuch (1510)
+Seat 8: spyce174 (2040)
+*** ANTE/BLINDS ***
+patrice89 posts small blind 80
+xwinstOnvOlf posts big blind 160
+Dealt to sabre_laser [8h Qd]
+*** PRE-FLOP *** 
+C_Pa_2_Ku folds
+acoma folds
+Nabuch folds
+spyce174 calls 160
+sabre_laser folds
+patrice89 folds
+xwinstOnvOlf checks
+*** FLOP *** [9h 9c 4s]
+xwinstOnvOlf checks
+spyce174 checks
+*** TURN *** [9h 9c 4s][Js]
+xwinstOnvOlf checks
+spyce174 checks
+*** RIVER *** [9h 9c 4s Js][3s]
+xwinstOnvOlf checks
+spyce174 checks
+*** SHOW DOWN ***
+xwinstOnvOlf shows [2s Kc] (One pair : 9)
+spyce174 shows [As 6c] (One pair : 9)
+spyce174 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [9h 9c 4s Js 3s]
+Seat 4: xwinstOnvOlf (big blind) showed [2s Kc] and lost with One pair : 9
+Seat 8: spyce174 showed [As 6c] and won 400 with One pair : 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577555672611160065-15-1445199329 - Holdem no limit (80/160) - 2015/10/18 20:15:29 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2190)
+Seat 2: patrice89 (2825)
+Seat 4: xwinstOnvOlf (2730)
+Seat 5: C_Pa_2_Ku (1100)
+Seat 6: acoma (2365)
+Seat 7: Nabuch (1510)
+Seat 8: spyce174 (2280)
+*** ANTE/BLINDS ***
+xwinstOnvOlf posts small blind 80
+C_Pa_2_Ku posts big blind 160
+Dealt to sabre_laser [7c Ac]
+*** PRE-FLOP *** 
+acoma folds
+Nabuch raises 1350 to 1510 and is all-in
+spyce174 folds
+sabre_laser folds
+patrice89 folds
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+Nabuch collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Seat 7: Nabuch won 1750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577555672611160065-16-1445199356 - Holdem no limit (80/160) - 2015/10/18 20:15:56 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2190)
+Seat 2: patrice89 (2825)
+Seat 4: xwinstOnvOlf (2650)
+Seat 5: C_Pa_2_Ku (940)
+Seat 6: acoma (2365)
+Seat 7: Nabuch (1750)
+Seat 8: spyce174 (2280)
+*** ANTE/BLINDS ***
+C_Pa_2_Ku posts small blind 80
+acoma posts big blind 160
+Dealt to sabre_laser [Qc 6h]
+*** PRE-FLOP *** 
+Nabuch folds
+spyce174 calls 160
+sabre_laser folds
+patrice89 folds
+xwinstOnvOlf folds
+C_Pa_2_Ku folds
+acoma checks
+*** FLOP *** [Ts Qs Jd]
+acoma checks
+spyce174 checks
+*** TURN *** [Ts Qs Jd][Tc]
+acoma bets 160
+spyce174 calls 160
+*** RIVER *** [Ts Qs Jd Tc][Qh]
+acoma checks
+spyce174 checks
+*** SHOW DOWN ***
+spyce174 shows [2h Kd] (Two pairs : Queens and Tens)
+acoma shows [8h Ac] (Two pairs : Queens and Tens)
+acoma collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Ts Qs Jd Tc Qh]
+Seat 6: acoma (big blind) showed [8h Ac] and won 720 with Two pairs : Queens and Tens
+Seat 8: spyce174 showed [2h Kd] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577555672611160065-17-1445199403 - Holdem no limit (80/160) - 2015/10/18 20:16:43 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (2190)
+Seat 2: patrice89 (2825)
+Seat 4: xwinstOnvOlf (2650)
+Seat 5: C_Pa_2_Ku (860)
+Seat 6: acoma (2765)
+Seat 7: Nabuch (1750)
+Seat 8: spyce174 (1960)
+*** ANTE/BLINDS ***
+acoma posts small blind 80
+Nabuch posts big blind 160
+Dealt to sabre_laser [Th Ks]
+*** PRE-FLOP *** 
+spyce174 calls 160
+sabre_laser folds
+patrice89 calls 160
+xwinstOnvOlf calls 160
+C_Pa_2_Ku raises 700 to 860 and is all-in
+acoma folds
+Nabuch folds
+spyce174 calls 700
+patrice89 calls 700
+xwinstOnvOlf raises 1790 to 2650 and is all-in
+spyce174 folds
+patrice89 raises 175 to 2825 and is all-in
+*** FLOP *** [2d 7h Qd]
+*** TURN *** [2d 7h Qd][Ac]
+*** RIVER *** [2d 7h Qd Ac][Qc]
+*** SHOW DOWN ***
+xwinstOnvOlf shows [8c 8d] (Two pairs : Queens and 8)
+C_Pa_2_Ku shows [3d 3c] (Two pairs : Queens and 3)
+patrice89 shows [9d 9c] (Two pairs : Queens and 9)
+patrice89 collected 7435 from pot
+*** SUMMARY ***
+Total pot 7435 | No rake
+Board: [2d 7h Qd Ac Qc]
+Seat 2: patrice89 showed [9d 9c] and won 7435 with Two pairs : Queens and 9
+Seat 4: xwinstOnvOlf showed [8c 8d] and lost with Two pairs : Queens and 8
+Seat 5: C_Pa_2_Ku (button) showed [3d 3c] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #577555672611160065-18-1445199493 - Holdem no limit (10/100/200) - 2015/10/18 20:18:13 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2190)
+Seat 2: patrice89 (7435)
+Seat 6: acoma (2685)
+Seat 7: Nabuch (1590)
+Seat 8: spyce174 (1100)
+*** ANTE/BLINDS ***
+Nabuch posts ante 10
+spyce174 posts ante 10
+sabre_laser posts ante 10
+patrice89 posts ante 10
+acoma posts ante 10
+Nabuch posts small blind 100
+spyce174 posts big blind 200
+Dealt to sabre_laser [6d 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+patrice89 folds
+acoma folds
+Nabuch raises 1380 to 1580 and is all-in
+spyce174 folds
+Nabuch collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Seat 7: Nabuch (small blind) won 1830
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #577555672611160065-19-1445199514 - Holdem no limit (10/100/200) - 2015/10/18 20:18:34 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2180)
+Seat 2: patrice89 (7425)
+Seat 6: acoma (2675)
+Seat 7: Nabuch (1830)
+Seat 8: spyce174 (890)
+*** ANTE/BLINDS ***
+spyce174 posts ante 10
+sabre_laser posts ante 10
+patrice89 posts ante 10
+acoma posts ante 10
+Nabuch posts ante 10
+spyce174 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [8c Jd]
+*** PRE-FLOP *** 
+patrice89 folds
+acoma calls 200
+Nabuch folds
+spyce174 calls 100
+sabre_laser checks
+*** FLOP *** [6h 6c 5d]
+spyce174 checks
+sabre_laser checks
+acoma bets 650
+spyce174 folds
+sabre_laser folds
+acoma collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [6h 6c 5d]
+Seat 6: acoma won 1300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #577555672611160065-20-1445199570 - Holdem no limit (10/100/200) - 2015/10/18 20:19:30 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1970)
+Seat 2: patrice89 (7415)
+Seat 6: acoma (3115)
+Seat 7: Nabuch (1820)
+Seat 8: spyce174 (680)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+patrice89 posts ante 10
+acoma posts ante 10
+Nabuch posts ante 10
+spyce174 posts ante 10
+sabre_laser posts small blind 100
+patrice89 posts big blind 200
+Dealt to sabre_laser [Kh 8s]
+*** PRE-FLOP *** 
+acoma folds
+Nabuch folds
+spyce174 calls 200
+sabre_laser calls 100
+patrice89 checks
+*** FLOP *** [Qs Td 8h]
+sabre_laser bets 325
+patrice89 calls 325
+spyce174 folds
+*** TURN *** [Qs Td 8h][7d]
+sabre_laser checks
+patrice89 checks
+*** RIVER *** [Qs Td 8h 7d][4s]
+sabre_laser bets 500
+patrice89 raises 6380 to 6880 and is all-in
+sabre_laser folds
+patrice89 collected 8680 from pot
+*** SUMMARY ***
+Total pot 8680 | No rake
+Board: [Qs Td 8h 7d 4s]
+Seat 2: patrice89 (big blind) won 8680
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #577555672611160065-21-1445199628 - Holdem no limit (10/100/200) - 2015/10/18 20:20:28 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (935)
+Seat 2: patrice89 (8680)
+Seat 6: acoma (3105)
+Seat 7: Nabuch (1810)
+Seat 8: spyce174 (470)
+*** ANTE/BLINDS ***
+patrice89 posts ante 10
+acoma posts ante 10
+sabre_laser posts ante 10
+Nabuch posts ante 10
+spyce174 posts ante 10
+patrice89 posts small blind 100
+acoma posts big blind 200
+Dealt to sabre_laser [Jh 9c]
+*** PRE-FLOP *** 
+Nabuch folds
+spyce174 folds
+sabre_laser folds
+patrice89 calls 100
+acoma checks
+*** FLOP *** [8s 2h 3s]
+patrice89 checks
+acoma bets 450
+patrice89 folds
+acoma collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 2h 3s]
+Seat 6: acoma (big blind) won 900
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #577555672611160065-22-1445199663 - Holdem no limit (20/150/300) - 2015/10/18 20:21:03 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (925)
+Seat 2: patrice89 (8470)
+Seat 6: acoma (3345)
+Seat 7: Nabuch (1800)
+Seat 8: spyce174 (460)
+*** ANTE/BLINDS ***
+acoma posts ante 20
+Nabuch posts ante 20
+sabre_laser posts ante 20
+patrice89 posts ante 20
+spyce174 posts ante 20
+acoma posts small blind 150
+Nabuch posts big blind 300
+Dealt to sabre_laser [8s 5s]
+*** PRE-FLOP *** 
+spyce174 folds
+sabre_laser folds
+patrice89 calls 300
+acoma folds
+Nabuch raises 1480 to 1780 and is all-in
+patrice89 calls 1480
+*** FLOP *** [3d 4d 3h]
+*** TURN *** [3d 4d 3h][Ts]
+*** RIVER *** [3d 4d 3h Ts][Jd]
+*** SHOW DOWN ***
+patrice89 shows [Qc 9c] (One pair : 3)
+Nabuch shows [Ad Tc] (Two pairs : Tens and 3)
+Nabuch collected 3810 from pot
+*** SUMMARY ***
+Total pot 3810 | No rake
+Board: [3d 4d 3h Ts Jd]
+Seat 2: patrice89 (button) showed [Qc 9c] and lost with One pair : 3
+Seat 7: Nabuch (big blind) showed [Ad Tc] and won 3810 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #577555672611160065-23-1445199708 - Holdem no limit (20/150/300) - 2015/10/18 20:21:48 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (905)
+Seat 2: patrice89 (6670)
+Seat 6: acoma (3175)
+Seat 7: Nabuch (3810)
+Seat 8: spyce174 (440)
+*** ANTE/BLINDS ***
+Nabuch posts ante 20
+spyce174 posts ante 20
+sabre_laser posts ante 20
+patrice89 posts ante 20
+acoma posts ante 20
+Nabuch posts small blind 150
+spyce174 posts big blind 300
+Dealt to sabre_laser [6s Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+patrice89 folds
+acoma folds
+Nabuch raises 300 to 600
+spyce174 calls 120 and is all-in
+*** FLOP *** [Th 5h 6c]
+*** TURN *** [Th 5h 6c][Jh]
+*** RIVER *** [Th 5h 6c Jh][Tc]
+*** SHOW DOWN ***
+spyce174 shows [Kh 7h] (Flush King high)
+Nabuch shows [8s 9c] (One pair : Tens)
+Nabuch collected 180 from side pot 1
+spyce174 collected 940 from main pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [Th 5h 6c Jh Tc]
+Seat 7: Nabuch (small blind) showed [8s 9c] and won 180 with One pair : Tens
+Seat 8: spyce174 (big blind) showed [Kh 7h] and won 940 with Flush King high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #577555672611160065-24-1445199740 - Holdem no limit (20/150/300) - 2015/10/18 20:22:20 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (885)
+Seat 2: patrice89 (6650)
+Seat 6: acoma (3155)
+Seat 7: Nabuch (3370)
+Seat 8: spyce174 (940)
+*** ANTE/BLINDS ***
+spyce174 posts ante 20
+sabre_laser posts ante 20
+patrice89 posts ante 20
+acoma posts ante 20
+Nabuch posts ante 20
+spyce174 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Qs 4c]
+*** PRE-FLOP *** 
+patrice89 calls 300
+acoma folds
+Nabuch folds
+spyce174 calls 150
+sabre_laser checks
+*** FLOP *** [Qh 8h 8c]
+spyce174 checks
+sabre_laser bets 565 and is all-in
+patrice89 calls 565
+spyce174 folds
+*** TURN *** [Qh 8h 8c][4s]
+*** RIVER *** [Qh 8h 8c 4s][Qd]
+*** SHOW DOWN ***
+patrice89 shows [9h Ts] (Two pairs : Queens and 8)
+sabre_laser shows [Qs 4c] (Full of Queens and 8)
+sabre_laser collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Board: [Qh 8h 8c 4s Qd]
+Seat 1: sabre_laser (big blind) showed [Qs 4c] and won 2130 with Full of Queens and 8
+Seat 2: patrice89 showed [9h Ts] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #577555672611160065-25-1445199783 - Holdem no limit (20/150/300) - 2015/10/18 20:23:03 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2130)
+Seat 2: patrice89 (5765)
+Seat 6: acoma (3135)
+Seat 7: Nabuch (3350)
+Seat 8: spyce174 (620)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+patrice89 posts ante 20
+acoma posts ante 20
+Nabuch posts ante 20
+spyce174 posts ante 20
+sabre_laser posts small blind 150
+patrice89 posts big blind 300
+Dealt to sabre_laser [Jh As]
+*** PRE-FLOP *** 
+acoma folds
+Nabuch raises 300 to 600
+spyce174 folds
+sabre_laser calls 450
+patrice89 calls 300
+*** FLOP *** [7h 5s Qs]
+sabre_laser checks
+patrice89 checks
+Nabuch bets 969
+sabre_laser folds
+patrice89 folds
+Nabuch collected 2869 from pot
+*** SUMMARY ***
+Total pot 2869 | No rake
+Board: [7h 5s Qs]
+Seat 7: Nabuch won 2869
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #577555672611160065-26-1445199857 - Holdem no limit (50/200/400) - 2015/10/18 20:24:17 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1510)
+Seat 2: patrice89 (5145)
+Seat 6: acoma (3115)
+Seat 7: Nabuch (4630)
+Seat 8: spyce174 (600)
+*** ANTE/BLINDS ***
+patrice89 posts ante 50
+acoma posts ante 50
+sabre_laser posts ante 50
+Nabuch posts ante 50
+spyce174 posts ante 50
+patrice89 posts small blind 200
+acoma posts big blind 400
+Dealt to sabre_laser [Qs Th]
+*** PRE-FLOP *** 
+Nabuch folds
+spyce174 calls 400
+sabre_laser folds
+patrice89 calls 200
+acoma checks
+*** FLOP *** [Tc As Qd]
+patrice89 checks
+acoma checks
+spyce174 checks
+*** TURN *** [Tc As Qd][3c]
+patrice89 checks
+acoma checks
+spyce174 checks
+*** RIVER *** [Tc As Qd 3c][Td]
+patrice89 checks
+acoma checks
+spyce174 checks
+*** SHOW DOWN ***
+spyce174 shows [6d 5d] (One pair : Tens)
+patrice89 shows [4h 8c] (One pair : Tens)
+acoma shows [4s 8d] (One pair : Tens)
+acoma collected 725 from pot
+patrice89 collected 725 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [Tc As Qd 3c Td]
+Seat 2: patrice89 (small blind) showed [4h 8c] and won 725 with One pair : Tens
+Seat 6: acoma (big blind) showed [4s 8d] and won 725 with One pair : Tens
+Seat 8: spyce174 showed [6d 5d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #577555672611160065-27-1445199908 - Holdem no limit (50/200/400) - 2015/10/18 20:25:08 UTC
+Table: 'No Limit Hold'em(134472659)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1460)
+Seat 2: patrice89 (5420)
+Seat 6: acoma (3390)
+Seat 7: Nabuch (4580)
+Seat 8: spyce174 (150)
+*** ANTE/BLINDS ***
+acoma posts ante 50
+Nabuch posts ante 50
+sabre_laser posts ante 50
+patrice89 posts ante 50
+spyce174 posts ante 50
+acoma posts small blind 200
+Nabuch posts big blind 400
+Dealt to sabre_laser [Jc Kh]
+*** PRE-FLOP *** 
+spyce174 folds
+sabre_laser raises 1010 to 1410 and is all-in
+patrice89 calls 1410
+acoma folds
+Nabuch folds
+*** FLOP *** [Th 9s 4h]
+*** TURN *** [Th 9s 4h][7d]
+*** RIVER *** [Th 9s 4h 7d][9h]
+*** SHOW DOWN ***
+sabre_laser shows [Jc Kh] (One pair : 9)
+patrice89 shows [As Qs] (One pair : 9)
+patrice89 collected 3670 from pot
+*** SUMMARY ***
+Total pot 3670 | No rake
+Board: [Th 9s 4h 7d 9h]
+Seat 1: sabre_laser showed [Jc Kh] and lost with One pair : 9
+Seat 2: patrice89 (button) showed [As Qs] and won 3670 with One pair : 9
+
+

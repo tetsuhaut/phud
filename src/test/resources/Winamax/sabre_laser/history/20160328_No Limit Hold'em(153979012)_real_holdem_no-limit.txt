@@ -1,0 +1,882 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661334820810391553-1-1459181482 - Holdem no limit (10/20) - 2016/03/28 16:11:22 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Corleone7523 (1500)
+Seat 2: Domartus (1500)
+Seat 3: AA-Sick-AA (1500)
+Seat 4: Ricardo (1500)
+Seat 5: aExz (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Aukin12fr (1500)
+Seat 8: Lolitus94 (1500)
+Seat 9: Autran24 (1500)
+Seat 10: mystyk49 (1500)
+*** ANTE/BLINDS ***
+Corleone7523 posts small blind 10
+Domartus posts big blind 20
+Dealt to sabre_laser [4s Qh]
+*** PRE-FLOP *** 
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser folds
+Aukin12fr calls 20
+Lolitus94 calls 20
+Autran24 calls 20
+mystyk49 calls 20
+Corleone7523 calls 10
+Domartus checks
+*** FLOP *** [Qs Tc Ac]
+Corleone7523 checks
+Domartus checks
+Aukin12fr bets 120
+Lolitus94 calls 120
+Autran24 folds
+mystyk49 folds
+Corleone7523 calls 120
+Domartus folds
+*** TURN *** [Qs Tc Ac][Kd]
+Corleone7523 bets 480
+Aukin12fr folds
+Lolitus94 calls 480
+*** RIVER *** [Qs Tc Ac Kd][Ah]
+Corleone7523 bets 880 and is all-in
+Lolitus94 calls 880 and is all-in
+*** SHOW DOWN ***
+Corleone7523 shows [6h Td] (Two pairs : Aces and Tens)
+Lolitus94 shows [9s Js] (Straight Ace high)
+Lolitus94 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [Qs Tc Ac Kd Ah]
+Seat 1: Corleone7523 (small blind) showed [6h Td] and lost with Two pairs : Aces and Tens
+Seat 8: Lolitus94 showed [9s Js] and won 3200 with Straight Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661334820810391553-2-1459181613 - Holdem no limit (10/20) - 2016/03/28 16:13:33 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #1 is the button
+Seat 2: Domartus (1480)
+Seat 3: AA-Sick-AA (1500)
+Seat 4: Ricardo (1500)
+Seat 5: aExz (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Aukin12fr (1360)
+Seat 8: Lolitus94 (3200)
+Seat 9: Autran24 (1480)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+Domartus posts small blind 10
+AA-Sick-AA posts big blind 20
+Dealt to sabre_laser [Qc Jd]
+*** PRE-FLOP *** 
+Ricardo folds
+aExz folds
+sabre_laser calls 20
+Aukin12fr folds
+Lolitus94 folds
+Autran24 calls 20
+mystyk49 folds
+Domartus calls 10
+AA-Sick-AA checks
+*** FLOP *** [Td 8h Ac]
+Domartus checks
+AA-Sick-AA checks
+sabre_laser checks
+Autran24 checks
+*** TURN *** [Td 8h Ac][6c]
+Domartus checks
+AA-Sick-AA bets 60
+sabre_laser folds
+Autran24 calls 60
+Domartus calls 60
+*** RIVER *** [Td 8h Ac 6c][3s]
+Domartus checks
+AA-Sick-AA checks
+Autran24 bets 180
+Domartus calls 180
+AA-Sick-AA calls 180
+*** SHOW DOWN ***
+Domartus shows [5h Th] (One pair : Tens)
+Autran24 shows [8c 2s] (One pair : 8)
+AA-Sick-AA shows [Ad 5s] (One pair : Aces)
+AA-Sick-AA collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Td 8h Ac 6c 3s]
+Seat 2: Domartus (small blind) showed [5h Th] and lost with One pair : Tens
+Seat 3: AA-Sick-AA (big blind) showed [Ad 5s] and won 800 with One pair : Aces
+Seat 9: Autran24 showed [8c 2s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661334820810391553-3-1459181736 - Holdem no limit (10/20) - 2016/03/28 16:15:36 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Domartus (1220)
+Seat 3: AA-Sick-AA (2040)
+Seat 4: Ricardo (1500)
+Seat 5: aExz (1500)
+Seat 6: sabre_laser (1480)
+Seat 7: Aukin12fr (1360)
+Seat 8: Lolitus94 (3200)
+Seat 9: Autran24 (1220)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+AA-Sick-AA posts small blind 10
+Ricardo posts big blind 20
+Dealt to sabre_laser [Jh Kd]
+*** PRE-FLOP *** 
+aExz folds
+sabre_laser raises 40 to 60
+Aukin12fr folds
+Lolitus94 folds
+Autran24 calls 60
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+*** FLOP *** [7h Kh Tc]
+sabre_laser checks
+Autran24 checks
+*** TURN *** [7h Kh Tc][4h]
+sabre_laser bets 113
+Autran24 calls 113
+*** RIVER *** [7h Kh Tc 4h][9c]
+sabre_laser bets 80
+Autran24 raises 967 to 1047 and is all-in
+sabre_laser folds
+Autran24 collected 1503 from pot
+*** SUMMARY ***
+Total pot 1503 | No rake
+Board: [7h Kh Tc 4h 9c]
+Seat 9: Autran24 won 1503
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661334820810391553-4-1459181843 - Holdem no limit (10/20) - 2016/03/28 16:17:23 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Domartus (1220)
+Seat 3: AA-Sick-AA (2030)
+Seat 4: Ricardo (1480)
+Seat 5: aExz (1500)
+Seat 6: sabre_laser (1227)
+Seat 7: Aukin12fr (1360)
+Seat 8: Lolitus94 (3200)
+Seat 9: Autran24 (1503)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+Ricardo posts small blind 10
+aExz posts big blind 20
+Dealt to sabre_laser [Td 9s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Aukin12fr folds
+Lolitus94 folds
+Autran24 calls 20
+mystyk49 folds
+Domartus folds
+AA-Sick-AA calls 20
+Ricardo folds
+aExz checks
+*** FLOP *** [8h Th As]
+aExz checks
+Autran24 checks
+AA-Sick-AA bets 50
+aExz folds
+Autran24 calls 50
+*** TURN *** [8h Th As][9h]
+Autran24 checks
+AA-Sick-AA bets 90
+Autran24 calls 90
+*** RIVER *** [8h Th As 9h][6h]
+Autran24 checks
+AA-Sick-AA checks
+*** SHOW DOWN ***
+Autran24 shows [Ks Ad] (One pair : Aces)
+AA-Sick-AA shows [7d 6d] (Straight Ten high)
+AA-Sick-AA collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [8h Th As 9h 6h]
+Seat 3: AA-Sick-AA (button) showed [7d 6d] and won 350 with Straight Ten high
+Seat 9: Autran24 showed [Ks Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661334820810391553-5-1459181964 - Holdem no limit (15/30) - 2016/03/28 16:19:24 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Domartus (1220)
+Seat 3: AA-Sick-AA (2220)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1480)
+Seat 6: sabre_laser (1227)
+Seat 7: Aukin12fr (1360)
+Seat 8: Lolitus94 (3200)
+Seat 9: Autran24 (1343)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+aExz posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [5s Qc]
+*** PRE-FLOP *** 
+Aukin12fr calls 30
+Lolitus94 folds
+Autran24 calls 30
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+aExz calls 15
+sabre_laser checks
+*** FLOP *** [7s Jh 8h]
+aExz checks
+sabre_laser checks
+Aukin12fr checks
+Autran24 checks
+*** TURN *** [7s Jh 8h][6d]
+aExz checks
+sabre_laser bets 120
+Aukin12fr folds
+Autran24 calls 120
+aExz folds
+*** RIVER *** [7s Jh 8h 6d][5d]
+sabre_laser checks
+Autran24 bets 150
+sabre_laser folds
+Autran24 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [7s Jh 8h 6d 5d]
+Seat 9: Autran24 won 510
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661334820810391553-6-1459182052 - Holdem no limit (15/30) - 2016/03/28 16:20:52 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Domartus (1220)
+Seat 3: AA-Sick-AA (2220)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1077)
+Seat 7: Aukin12fr (1330)
+Seat 8: Lolitus94 (3200)
+Seat 9: Autran24 (1553)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Aukin12fr posts big blind 30
+Dealt to sabre_laser [Jc 3c]
+*** PRE-FLOP *** 
+Lolitus94 calls 30
+Autran24 calls 30
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser calls 15
+Aukin12fr checks
+*** FLOP *** [7d 6c 7s]
+sabre_laser checks
+Aukin12fr bets 120
+Lolitus94 folds
+Autran24 folds
+sabre_laser folds
+Aukin12fr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7d 6c 7s]
+Seat 7: Aukin12fr (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661334820810391553-7-1459182112 - Holdem no limit (15/30) - 2016/03/28 16:21:52 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Domartus (1220)
+Seat 3: AA-Sick-AA (2220)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1047)
+Seat 7: Aukin12fr (1420)
+Seat 8: Lolitus94 (3170)
+Seat 9: Autran24 (1523)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+Aukin12fr posts small blind 15
+Lolitus94 posts big blind 30
+Dealt to sabre_laser [Ah 4h]
+*** PRE-FLOP *** 
+Autran24 calls 30
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser calls 30
+Aukin12fr folds
+Lolitus94 checks
+*** FLOP *** [4c Tc Qh]
+Lolitus94 checks
+Autran24 checks
+sabre_laser bets 105
+Lolitus94 folds
+Autran24 folds
+sabre_laser collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [4c Tc Qh]
+Seat 6: sabre_laser (button) won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661334820810391553-8-1459182175 - Holdem no limit (15/30) - 2016/03/28 16:22:55 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Domartus (1220)
+Seat 3: AA-Sick-AA (2220)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1122)
+Seat 7: Aukin12fr (1405)
+Seat 8: Lolitus94 (3140)
+Seat 9: Autran24 (1493)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+Lolitus94 posts small blind 15
+Autran24 posts big blind 30
+Dealt to sabre_laser [8d 2s]
+*** PRE-FLOP *** 
+mystyk49 folds
+Domartus raises 50 to 80
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser folds
+Aukin12fr calls 80
+Lolitus94 calls 65
+Autran24 calls 50
+*** FLOP *** [Jc 3h 9s]
+Lolitus94 bets 30
+Autran24 calls 30
+Domartus calls 30
+Aukin12fr calls 30
+*** TURN *** [Jc 3h 9s][7h]
+Lolitus94 bets 30
+Autran24 calls 30
+Domartus calls 30
+Aukin12fr calls 30
+*** RIVER *** [Jc 3h 9s 7h][7c]
+Lolitus94 bets 30
+Autran24 calls 30
+Domartus calls 30
+Aukin12fr folds
+*** SHOW DOWN ***
+Domartus shows [Ts Ac] (One pair : 7)
+Autran24 shows [3s 6d] (Two pairs : 7 and 3)
+Lolitus94 shows [9d Qc] (Two pairs : 9 and 7)
+Lolitus94 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Jc 3h 9s 7h 7c]
+Seat 2: Domartus showed [Ts Ac] and lost with One pair : 7
+Seat 8: Lolitus94 (small blind) showed [9d Qc] and won 650 with Two pairs : 9 and 7
+Seat 9: Autran24 (big blind) showed [3s 6d] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661334820810391553-9-1459182320 - Holdem no limit (15/30) - 2016/03/28 16:25:20 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Domartus (1050)
+Seat 3: AA-Sick-AA (2220)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1122)
+Seat 7: Aukin12fr (1265)
+Seat 8: Lolitus94 (3620)
+Seat 9: Autran24 (1323)
+Seat 10: mystyk49 (1480)
+*** ANTE/BLINDS ***
+Autran24 posts small blind 15
+mystyk49 posts big blind 30
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+Domartus folds
+AA-Sick-AA raises 45 to 75
+Ricardo folds
+aExz folds
+sabre_laser calls 75
+Aukin12fr calls 75
+Lolitus94 folds
+Autran24 folds
+mystyk49 folds
+*** FLOP *** [6c Ad 9c]
+AA-Sick-AA bets 195
+sabre_laser folds
+Aukin12fr raises 195 to 390
+AA-Sick-AA raises 1755 to 2145 and is all-in
+Aukin12fr calls 800 and is all-in
+*** TURN *** [6c Ad 9c][Th]
+*** RIVER *** [6c Ad 9c Th][3s]
+*** SHOW DOWN ***
+Aukin12fr shows [Jc Ac] (One pair : Aces)
+AA-Sick-AA shows [9s As] (Two pairs : Aces and 9)
+AA-Sick-AA collected 3605 from pot
+*** SUMMARY ***
+Total pot 3605 | No rake
+Board: [6c Ad 9c Th 3s]
+Seat 3: AA-Sick-AA showed [9s As] and won 3605 with Two pairs : Aces and 9
+Seat 7: Aukin12fr showed [Jc Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661334820810391553-10-1459182400 - Holdem no limit (15/30) - 2016/03/28 16:26:40 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Domartus (1050)
+Seat 3: AA-Sick-AA (3605)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1047)
+Seat 8: Lolitus94 (3620)
+Seat 9: Autran24 (1308)
+Seat 10: mystyk49 (1450)
+*** ANTE/BLINDS ***
+mystyk49 posts small blind 15
+Domartus posts big blind 30
+Dealt to sabre_laser [7s 6h]
+*** PRE-FLOP *** 
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser folds
+Lolitus94 folds
+Autran24 calls 30
+mystyk49 calls 15
+Domartus raises 70 to 100
+Autran24 calls 70
+mystyk49 folds
+*** FLOP *** [5d 2c 4d]
+Domartus bets 140
+Autran24 calls 140
+*** TURN *** [5d 2c 4d][Kc]
+Domartus bets 255
+Autran24 folds
+Domartus collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Board: [5d 2c 4d Kc]
+Seat 2: Domartus (big blind) won 765
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-11-1459182478 - Holdem no limit (20/40) - 2016/03/28 16:27:58 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Domartus (1320)
+Seat 3: AA-Sick-AA (3605)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1047)
+Seat 8: Lolitus94 (3620)
+Seat 9: Autran24 (1068)
+Seat 10: mystyk49 (1420)
+*** ANTE/BLINDS ***
+Domartus posts small blind 20
+AA-Sick-AA posts big blind 40
+Dealt to sabre_laser [6d Qc]
+*** PRE-FLOP *** 
+Ricardo folds
+aExz folds
+sabre_laser folds
+Lolitus94 folds
+Autran24 calls 40
+mystyk49 folds
+Domartus folds
+AA-Sick-AA checks
+*** FLOP *** [7s 9c Kd]
+AA-Sick-AA checks
+Autran24 checks
+*** TURN *** [7s 9c Kd][As]
+AA-Sick-AA checks
+Autran24 checks
+*** RIVER *** [7s 9c Kd As][3s]
+AA-Sick-AA checks
+Autran24 bets 220
+AA-Sick-AA folds
+Autran24 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [7s 9c Kd As 3s]
+Seat 9: Autran24 won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-12-1459182543 - Holdem no limit (20/40) - 2016/03/28 16:29:03 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Domartus (1300)
+Seat 3: AA-Sick-AA (3565)
+Seat 4: Ricardo (1470)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1047)
+Seat 8: Lolitus94 (3620)
+Seat 9: Autran24 (1128)
+Seat 10: mystyk49 (1420)
+*** ANTE/BLINDS ***
+AA-Sick-AA posts small blind 20
+Ricardo posts big blind 40
+Dealt to sabre_laser [Qs Qc]
+*** PRE-FLOP *** 
+aExz folds
+sabre_laser raises 60 to 100
+Lolitus94 folds
+Autran24 calls 100
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+*** FLOP *** [2d Ts Ac]
+sabre_laser bets 260
+Autran24 folds
+sabre_laser collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [2d Ts Ac]
+Seat 6: sabre_laser won 520
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-13-1459182583 - Holdem no limit (20/40) - 2016/03/28 16:29:43 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Domartus (1300)
+Seat 3: AA-Sick-AA (3545)
+Seat 4: Ricardo (1430)
+Seat 5: aExz (1450)
+Seat 6: sabre_laser (1207)
+Seat 8: Lolitus94 (3620)
+Seat 9: Autran24 (1028)
+Seat 10: mystyk49 (1420)
+*** ANTE/BLINDS ***
+Ricardo posts small blind 20
+aExz posts big blind 40
+Dealt to sabre_laser [8h 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Lolitus94 raises 40 to 80
+Autran24 calls 80
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+*** FLOP *** [6h 8d 5h]
+Lolitus94 bets 110
+Autran24 calls 110
+*** TURN *** [6h 8d 5h][9s]
+Lolitus94 checks
+Autran24 bets 100
+Lolitus94 calls 100
+*** RIVER *** [6h 8d 5h 9s][4h]
+Lolitus94 checks
+Autran24 bets 738 and is all-in
+Lolitus94 calls 738
+*** SHOW DOWN ***
+Autran24 shows [Qs 3h] (High card : Queen)
+Lolitus94 shows [Kc 5c] (One pair : 5)
+Lolitus94 collected 2116 from pot
+*** SUMMARY ***
+Total pot 2116 | No rake
+Board: [6h 8d 5h 9s 4h]
+Seat 8: Lolitus94 showed [Kc 5c] and won 2116 with One pair : 5
+Seat 9: Autran24 showed [Qs 3h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-14-1459182654 - Holdem no limit (20/40) - 2016/03/28 16:30:54 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Domartus (1300)
+Seat 3: AA-Sick-AA (3545)
+Seat 4: Ricardo (1410)
+Seat 5: aExz (1410)
+Seat 6: sabre_laser (1207)
+Seat 8: Lolitus94 (4708)
+Seat 10: mystyk49 (1420)
+*** ANTE/BLINDS ***
+aExz posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ah 3c]
+*** PRE-FLOP *** 
+Lolitus94 calls 40
+mystyk49 folds
+Domartus calls 40
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser checks
+*** FLOP *** [Kh 8h Kc]
+sabre_laser checks
+Lolitus94 checks
+Domartus checks
+*** TURN *** [Kh 8h Kc][Qs]
+sabre_laser bets 40
+Lolitus94 folds
+Domartus calls 40
+*** RIVER *** [Kh 8h Kc Qs][2h]
+sabre_laser checks
+Domartus bets 140
+sabre_laser folds
+Domartus collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kh 8h Kc Qs 2h]
+Seat 2: Domartus won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-15-1459182743 - Holdem no limit (20/40) - 2016/03/28 16:32:23 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Domartus (1440)
+Seat 3: AA-Sick-AA (3545)
+Seat 4: Ricardo (1410)
+Seat 5: aExz (1390)
+Seat 6: sabre_laser (1127)
+Seat 8: Lolitus94 (4668)
+Seat 10: mystyk49 (1420)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Lolitus94 posts big blind 40
+Dealt to sabre_laser [As 7s]
+*** PRE-FLOP *** 
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser calls 20
+Lolitus94 checks
+*** FLOP *** [5c Qd 6s]
+sabre_laser checks
+Lolitus94 bets 40
+sabre_laser calls 40
+*** TURN *** [5c Qd 6s][Ts]
+sabre_laser checks
+Lolitus94 bets 80
+sabre_laser calls 80
+*** RIVER *** [5c Qd 6s Ts][4h]
+sabre_laser checks
+Lolitus94 bets 160
+sabre_laser folds
+Lolitus94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5c Qd 6s Ts 4h]
+Seat 8: Lolitus94 (big blind) won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-16-1459182820 - Holdem no limit (20/40) - 2016/03/28 16:33:40 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Domartus (1440)
+Seat 3: AA-Sick-AA (3545)
+Seat 4: Ricardo (1410)
+Seat 5: aExz (1390)
+Seat 6: sabre_laser (967)
+Seat 8: Lolitus94 (4828)
+Seat 10: mystyk49 (1420)
+*** ANTE/BLINDS ***
+Lolitus94 posts small blind 20
+mystyk49 posts big blind 40
+Dealt to sabre_laser [7s 8h]
+*** PRE-FLOP *** 
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser folds
+Lolitus94 calls 20
+mystyk49 checks
+*** FLOP *** [5c 4s 4c]
+Lolitus94 checks
+mystyk49 checks
+*** TURN *** [5c 4s 4c][9c]
+Lolitus94 bets 40
+mystyk49 folds
+Lolitus94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c 4s 4c 9c]
+Seat 8: Lolitus94 (small blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-17-1459182872 - Holdem no limit (20/40) - 2016/03/28 16:34:32 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Domartus (1440)
+Seat 3: AA-Sick-AA (3545)
+Seat 4: Ricardo (1410)
+Seat 5: aExz (1390)
+Seat 6: sabre_laser (967)
+Seat 8: Lolitus94 (4868)
+Seat 10: mystyk49 (1380)
+*** ANTE/BLINDS ***
+mystyk49 posts small blind 20
+Domartus posts big blind 40
+Dealt to sabre_laser [8s 5s]
+*** PRE-FLOP *** 
+AA-Sick-AA folds
+Ricardo folds
+aExz folds
+sabre_laser folds
+Lolitus94 folds
+mystyk49 calls 20
+Domartus checks
+*** FLOP *** [5c 4s 6h]
+mystyk49 checks
+Domartus bets 40
+mystyk49 folds
+Domartus collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c 4s 6h]
+Seat 2: Domartus (big blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661334820810391553-18-1459182916 - Holdem no limit (20/40) - 2016/03/28 16:35:16 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Domartus (1480)
+Seat 3: AA-Sick-AA (3545)
+Seat 4: Ricardo (1410)
+Seat 5: aExz (1390)
+Seat 6: sabre_laser (967)
+Seat 8: Lolitus94 (4868)
+Seat 10: mystyk49 (1340)
+*** ANTE/BLINDS ***
+Domartus posts small blind 20
+AA-Sick-AA posts big blind 40
+Dealt to sabre_laser [7c 7d]
+*** PRE-FLOP *** 
+Ricardo folds
+aExz folds
+sabre_laser raises 40 to 80
+Lolitus94 folds
+mystyk49 calls 80
+Domartus folds
+AA-Sick-AA folds
+*** FLOP *** [9h Kh Ac]
+sabre_laser checks
+mystyk49 checks
+*** TURN *** [9h Kh Ac][3c]
+sabre_laser bets 60
+mystyk49 folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [9h Kh Ac 3c]
+Seat 6: sabre_laser won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661334820810391553-19-1459182975 - Holdem no limit (30/60) - 2016/03/28 16:36:15 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Domartus (1460)
+Seat 3: AA-Sick-AA (3505)
+Seat 4: Ricardo (1410)
+Seat 5: aExz (1390)
+Seat 6: sabre_laser (1107)
+Seat 8: Lolitus94 (4868)
+Seat 10: mystyk49 (1260)
+*** ANTE/BLINDS ***
+AA-Sick-AA posts small blind 30
+Ricardo posts big blind 60
+Dealt to sabre_laser [Kh 8h]
+*** PRE-FLOP *** 
+aExz folds
+sabre_laser folds
+Lolitus94 folds
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Ricardo (big blind) won 90
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661334820810391553-20-1459182995 - Holdem no limit (30/60) - 2016/03/28 16:36:35 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Domartus (1460)
+Seat 3: AA-Sick-AA (3475)
+Seat 4: Ricardo (1440)
+Seat 5: aExz (1390)
+Seat 6: sabre_laser (1107)
+Seat 8: Lolitus94 (4868)
+Seat 10: mystyk49 (1260)
+*** ANTE/BLINDS ***
+Ricardo posts small blind 30
+aExz posts big blind 60
+Dealt to sabre_laser [Js 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Lolitus94 folds
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo folds
+aExz collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: aExz (big blind) won 90
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661334820810391553-21-1459183032 - Holdem no limit (30/60) - 2016/03/28 16:37:12 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Domartus (1460)
+Seat 3: AA-Sick-AA (3475)
+Seat 4: Ricardo (1410)
+Seat 5: aExz (1420)
+Seat 6: sabre_laser (1107)
+Seat 8: Lolitus94 (4868)
+Seat 10: mystyk49 (1260)
+*** ANTE/BLINDS ***
+aExz posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Ac 4c]
+*** PRE-FLOP *** 
+Lolitus94 folds
+mystyk49 folds
+Domartus folds
+AA-Sick-AA folds
+Ricardo raises 60 to 120
+aExz folds
+sabre_laser calls 60
+*** FLOP *** [Kh 7s Ks]
+sabre_laser checks
+Ricardo checks
+*** TURN *** [Kh 7s Ks][Ad]
+sabre_laser bets 60
+Ricardo folds
+sabre_laser collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Kh 7s Ks Ad]
+Seat 6: sabre_laser (big blind) won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661334820810391553-22-1459183112 - Holdem no limit (30/60) - 2016/03/28 16:38:32 UTC
+Table: 'No Limit Hold'em(153979012)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Domartus (1460)
+Seat 3: AA-Sick-AA (3475)
+Seat 4: Ricardo (1290)
+Seat 5: aExz (1390)
+Seat 6: sabre_laser (1257)
+Seat 8: Lolitus94 (4868)
+Seat 10: mystyk49 (1260)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Lolitus94 posts big blind 60
+Dealt to sabre_laser [Js Qd]
+*** PRE-FLOP *** 
+mystyk49 folds
+Domartus folds
+AA-Sick-AA raises 90 to 150
+Ricardo folds
+aExz folds
+sabre_laser calls 120
+Lolitus94 calls 90
+*** FLOP *** [Jd 9s 7s]
+sabre_laser bets 450
+Lolitus94 calls 450
+AA-Sick-AA folds
+*** TURN *** [Jd 9s 7s][5c]
+sabre_laser bets 657 and is all-in
+Lolitus94 calls 657
+*** RIVER *** [Jd 9s 7s 5c][As]
+*** SHOW DOWN ***
+sabre_laser shows [Js Qd] (One pair : Jacks)
+Lolitus94 shows [Ac 9c] (Two pairs : Aces and 9)
+Lolitus94 collected 2664 from pot
+*** SUMMARY ***
+Total pot 2664 | No rake
+Board: [Jd 9s 7s 5c As]
+Seat 6: sabre_laser (small blind) showed [Js Qd] and lost with One pair : Jacks
+Seat 8: Lolitus94 (big blind) showed [Ac 9c] and won 2664 with Two pairs : Aces and 9
+
+

@@ -1,0 +1,819 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #463027925826928642-1-1422221197 - Holdem no limit (10/20) - 2015/01/25 21:26:37 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #3 is the button
+Seat 1: Mankino (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: rickdu78 (1500)
+Seat 4: arduz69 (1500)
+Seat 5: Jefav (1500)
+*** ANTE/BLINDS ***
+arduz69 posts small blind 10
+Jefav posts big blind 20
+Dealt to sabre_laser [4c 5h]
+*** PRE-FLOP *** 
+Mankino folds
+sabre_laser folds
+rickdu78 calls 20
+arduz69 calls 10
+Jefav raises 60 to 80
+rickdu78 folds
+arduz69 calls 60
+*** FLOP *** [3h Jh Qs]
+arduz69 checks
+Jefav bets 135
+arduz69 folds
+Jefav collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [3h Jh Qs]
+Seat 5: Jefav (big blind) won 315
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #463027925826928642-2-1422221230 - Holdem no limit (10/20) - 2015/01/25 21:27:10 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #4 is the button
+Seat 1: Mankino (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: rickdu78 (1480)
+Seat 4: arduz69 (1420)
+Seat 5: Jefav (1600)
+*** ANTE/BLINDS ***
+Jefav posts small blind 10
+Mankino posts big blind 20
+Dealt to sabre_laser [Tc 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+rickdu78 raises 30 to 50
+arduz69 calls 50
+Jefav folds
+Mankino raises 30 to 80
+rickdu78 calls 30
+arduz69 calls 30
+*** FLOP *** [4c 9c 6h]
+Mankino bets 125
+rickdu78 raises 125 to 250
+arduz69 calls 250
+Mankino calls 125
+*** TURN *** [4c 9c 6h][5c]
+Mankino checks
+rickdu78 bets 500
+arduz69 folds
+Mankino calls 500
+*** RIVER *** [4c 9c 6h 5c][Ah]
+Mankino checks
+rickdu78 checks
+*** SHOW DOWN ***
+Mankino shows [8c 8d] (One pair : 8)
+rickdu78 shows [9d Th] (One pair : 9)
+rickdu78 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [4c 9c 6h 5c Ah]
+Seat 1: Mankino (big blind) showed [8c 8d] and lost with One pair : 8
+Seat 3: rickdu78 showed [9d Th] and won 2000 with One pair : 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #463027925826928642-3-1422221313 - Holdem no limit (10/20) - 2015/01/25 21:28:33 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #5 is the button
+Seat 1: Mankino (670)
+Seat 2: sabre_laser (1500)
+Seat 3: rickdu78 (2650)
+Seat 4: arduz69 (1090)
+Seat 5: Jefav (1590)
+*** ANTE/BLINDS ***
+Mankino posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [3c Jh]
+*** PRE-FLOP *** 
+rickdu78 raises 40 to 60
+arduz69 folds
+Jefav raises 130 to 190
+Mankino folds
+sabre_laser folds
+rickdu78 calls 130
+*** FLOP *** [Ah 6d Tc]
+rickdu78 checks
+Jefav bets 273
+rickdu78 calls 273
+*** TURN *** [Ah 6d Tc][8c]
+rickdu78 checks
+Jefav checks
+*** RIVER *** [Ah 6d Tc 8c][3d]
+rickdu78 checks
+Jefav checks
+*** SHOW DOWN ***
+rickdu78 shows [Jc Kc] (High card : Ace)
+Jefav shows [9c 9h] (One pair : 9)
+Jefav collected 956 from pot
+*** SUMMARY ***
+Total pot 956 | No rake
+Board: [Ah 6d Tc 8c 3d]
+Seat 3: rickdu78 showed [Jc Kc] and lost with High card : Ace
+Seat 5: Jefav (button) showed [9c 9h] and won 956 with One pair : 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #463027925826928642-4-1422221364 - Holdem no limit (10/20) - 2015/01/25 21:29:24 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #1 is the button
+Seat 1: Mankino (660)
+Seat 2: sabre_laser (1480)
+Seat 3: rickdu78 (2187)
+Seat 4: arduz69 (1090)
+Seat 5: Jefav (2083)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+rickdu78 posts big blind 20
+Dealt to sabre_laser [As 4s]
+*** PRE-FLOP *** 
+arduz69 folds
+Jefav folds
+Mankino folds
+sabre_laser calls 10
+rickdu78 checks
+*** FLOP *** [8c Td Qs]
+sabre_laser checks
+rickdu78 bets 30
+sabre_laser calls 30
+*** TURN *** [8c Td Qs][2s]
+sabre_laser checks
+rickdu78 bets 50
+sabre_laser calls 50
+*** RIVER *** [8c Td Qs 2s][Ad]
+sabre_laser checks
+rickdu78 checks
+*** SHOW DOWN ***
+rickdu78 shows [8h 5h] (One pair : 8)
+sabre_laser shows [As 4s] (One pair : Aces)
+sabre_laser collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [8c Td Qs 2s Ad]
+Seat 2: sabre_laser (small blind) showed [As 4s] and won 200 with One pair : Aces
+Seat 3: rickdu78 (big blind) showed [8h 5h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #463027925826928642-5-1422221440 - Holdem no limit (15/30) - 2015/01/25 21:30:40 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #2 is the button
+Seat 1: Mankino (660)
+Seat 2: sabre_laser (1580)
+Seat 3: rickdu78 (2087)
+Seat 4: arduz69 (1090)
+Seat 5: Jefav (2083)
+*** ANTE/BLINDS ***
+rickdu78 posts small blind 15
+arduz69 posts big blind 30
+Dealt to sabre_laser [9s 8c]
+*** PRE-FLOP *** 
+Jefav raises 60 to 90
+Mankino folds
+sabre_laser folds
+rickdu78 folds
+arduz69 calls 60
+*** FLOP *** [6s 7s 6h]
+arduz69 checks
+Jefav bets 98
+arduz69 folds
+Jefav collected 293 from pot
+*** SUMMARY ***
+Total pot 293 | No rake
+Board: [6s 7s 6h]
+Seat 5: Jefav won 293
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #463027925826928642-6-1422221461 - Holdem no limit (15/30) - 2015/01/25 21:31:01 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #3 is the button
+Seat 1: Mankino (660)
+Seat 2: sabre_laser (1580)
+Seat 3: rickdu78 (2072)
+Seat 4: arduz69 (1000)
+Seat 5: Jefav (2188)
+*** ANTE/BLINDS ***
+arduz69 posts small blind 15
+Jefav posts big blind 30
+Dealt to sabre_laser [Ts 2s]
+*** PRE-FLOP *** 
+Mankino calls 30
+sabre_laser folds
+rickdu78 raises 90 to 120
+arduz69 folds
+Jefav folds
+Mankino calls 90
+*** FLOP *** [Qs 8h 4d]
+Mankino checks
+rickdu78 bets 190
+Mankino folds
+rickdu78 collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | No rake
+Board: [Qs 8h 4d]
+Seat 3: rickdu78 (button) won 475
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #463027925826928642-7-1422221501 - Holdem no limit (15/30) - 2015/01/25 21:31:41 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #4 is the button
+Seat 1: Mankino (540)
+Seat 2: sabre_laser (1580)
+Seat 3: rickdu78 (2237)
+Seat 4: arduz69 (985)
+Seat 5: Jefav (2158)
+*** ANTE/BLINDS ***
+Jefav posts small blind 15
+Mankino posts big blind 30
+Dealt to sabre_laser [3h Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+rickdu78 raises 75 to 105
+arduz69 calls 105
+Jefav folds
+Mankino folds
+*** FLOP *** [8d Kd Qh]
+rickdu78 bets 170
+arduz69 folds
+rickdu78 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Board: [8d Kd Qh]
+Seat 3: rickdu78 won 425
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #463027925826928642-8-1422221534 - Holdem no limit (15/30) - 2015/01/25 21:32:14 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #5 is the button
+Seat 1: Mankino (510)
+Seat 2: sabre_laser (1580)
+Seat 3: rickdu78 (2387)
+Seat 4: arduz69 (880)
+Seat 5: Jefav (2143)
+*** ANTE/BLINDS ***
+Mankino posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [7d 3h]
+*** PRE-FLOP *** 
+rickdu78 folds
+arduz69 raises 30 to 60
+Jefav folds
+Mankino folds
+sabre_laser folds
+arduz69 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 4: arduz69 won 105
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #463027925826928642-9-1422221551 - Holdem no limit (20/40) - 2015/01/25 21:32:31 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #1 is the button
+Seat 1: Mankino (495)
+Seat 2: sabre_laser (1550)
+Seat 3: rickdu78 (2387)
+Seat 4: arduz69 (925)
+Seat 5: Jefav (2143)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+rickdu78 posts big blind 40
+Dealt to sabre_laser [9c 7d]
+*** PRE-FLOP *** 
+arduz69 raises 40 to 80
+Jefav calls 80
+Mankino folds
+sabre_laser folds
+rickdu78 calls 40
+*** FLOP *** [8d 2s 3h]
+rickdu78 checks
+arduz69 checks
+Jefav bets 173
+rickdu78 folds
+arduz69 folds
+Jefav collected 433 from pot
+*** SUMMARY ***
+Total pot 433 | No rake
+Board: [8d 2s 3h]
+Seat 5: Jefav won 433
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #463027925826928642-10-1422221587 - Holdem no limit (20/40) - 2015/01/25 21:33:07 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #2 is the button
+Seat 1: Mankino (495)
+Seat 2: sabre_laser (1530)
+Seat 3: rickdu78 (2307)
+Seat 4: arduz69 (845)
+Seat 5: Jefav (2323)
+*** ANTE/BLINDS ***
+rickdu78 posts small blind 20
+arduz69 posts big blind 40
+Dealt to sabre_laser [Js 7c]
+*** PRE-FLOP *** 
+Jefav folds
+Mankino folds
+sabre_laser folds
+rickdu78 calls 20
+arduz69 checks
+*** FLOP *** [6d 8d Td]
+rickdu78 checks
+arduz69 checks
+*** TURN *** [6d 8d Td][4h]
+rickdu78 checks
+arduz69 bets 40
+rickdu78 folds
+arduz69 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6d 8d Td 4h]
+Seat 4: arduz69 (big blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #463027925826928642-11-1422221627 - Holdem no limit (20/40) - 2015/01/25 21:33:47 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #3 is the button
+Seat 1: Mankino (495)
+Seat 2: sabre_laser (1530)
+Seat 3: rickdu78 (2267)
+Seat 4: arduz69 (885)
+Seat 5: Jefav (2323)
+*** ANTE/BLINDS ***
+arduz69 posts small blind 20
+Jefav posts big blind 40
+Dealt to sabre_laser [Td Qc]
+*** PRE-FLOP *** 
+Mankino raises 40 to 80
+sabre_laser folds
+rickdu78 calls 80
+arduz69 calls 60
+Jefav calls 40
+*** FLOP *** [Jc 7h 8d]
+arduz69 checks
+Jefav bets 40
+Mankino raises 200 to 240
+rickdu78 folds
+arduz69 raises 565 to 805 and is all-in
+Jefav folds
+Mankino calls 175 and is all-in
+*** TURN *** [Jc 7h 8d][5c]
+*** RIVER *** [Jc 7h 8d 5c][Kh]
+*** SHOW DOWN ***
+Mankino shows [8s Ac] (One pair : 8)
+arduz69 shows [Jh Ah] (One pair : Jacks)
+arduz69 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Board: [Jc 7h 8d 5c Kh]
+Seat 1: Mankino showed [8s Ac] and lost with One pair : 8
+Seat 4: arduz69 (small blind) showed [Jh Ah] and won 1580 with One pair : Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #463027925826928642-12-1422221690 - Holdem no limit (20/40) - 2015/01/25 21:34:50 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #4 is the button
+Seat 2: sabre_laser (1530)
+Seat 3: rickdu78 (2187)
+Seat 4: arduz69 (1580)
+Seat 5: Jefav (2203)
+*** ANTE/BLINDS ***
+Jefav posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ts 2s]
+*** PRE-FLOP *** 
+rickdu78 folds
+arduz69 folds
+Jefav folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: sabre_laser (big blind) won 60
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #463027925826928642-13-1422221697 - Holdem no limit (20/40) - 2015/01/25 21:34:57 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #5 is the button
+Seat 2: sabre_laser (1550)
+Seat 3: rickdu78 (2187)
+Seat 4: arduz69 (1580)
+Seat 5: Jefav (2183)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+rickdu78 posts big blind 40
+Dealt to sabre_laser [Td Th]
+*** PRE-FLOP *** 
+arduz69 folds
+Jefav folds
+sabre_laser raises 60 to 100
+rickdu78 calls 60
+*** FLOP *** [7c 5h 7h]
+sabre_laser bets 40
+rickdu78 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7c 5h 7h]
+Seat 2: sabre_laser (small blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #463027925826928642-14-1422221730 - Holdem no limit (20/40) - 2015/01/25 21:35:30 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (1650)
+Seat 3: rickdu78 (2087)
+Seat 4: arduz69 (1580)
+Seat 5: Jefav (2183)
+*** ANTE/BLINDS ***
+rickdu78 posts small blind 20
+arduz69 posts big blind 40
+Dealt to sabre_laser [8s Ac]
+*** PRE-FLOP *** 
+Jefav folds
+sabre_laser raises 60 to 100
+rickdu78 folds
+arduz69 calls 60
+*** FLOP *** [Qh 3c Th]
+arduz69 checks
+sabre_laser checks
+*** TURN *** [Qh 3c Th][5c]
+arduz69 checks
+sabre_laser bets 110
+arduz69 calls 110
+*** RIVER *** [Qh 3c Th 5c][5s]
+arduz69 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [8s Ac] (One pair : 5)
+arduz69 shows [Ad 4d] (One pair : 5)
+arduz69 collected 220 from pot
+sabre_laser collected 220 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Qh 3c Th 5c 5s]
+Seat 2: sabre_laser (button) showed [8s Ac] and won 220 with One pair : 5
+Seat 4: arduz69 (big blind) showed [Ad 4d] and won 220 with One pair : 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #463027925826928642-15-1422221777 - Holdem no limit (30/60) - 2015/01/25 21:36:17 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (1660)
+Seat 3: rickdu78 (2067)
+Seat 4: arduz69 (1590)
+Seat 5: Jefav (2183)
+*** ANTE/BLINDS ***
+arduz69 posts small blind 30
+Jefav posts big blind 60
+Dealt to sabre_laser [Ac 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+rickdu78 folds
+arduz69 calls 30
+Jefav checks
+*** FLOP *** [5c As 5s]
+arduz69 checks
+Jefav bets 90
+arduz69 folds
+Jefav collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [5c As 5s]
+Seat 5: Jefav (big blind) won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #463027925826928642-16-1422221802 - Holdem no limit (30/60) - 2015/01/25 21:36:42 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #4 is the button
+Seat 1: BELA LUGOSI (1985)
+Seat 2: sabre_laser (1660)
+Seat 3: rickdu78 (2067)
+Seat 4: arduz69 (1530)
+Seat 5: Jefav (2243)
+*** ANTE/BLINDS ***
+Jefav posts small blind 30
+BELA LUGOSI posts big blind 60
+Dealt to sabre_laser [9h 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+rickdu78 raises 90 to 150
+arduz69 folds
+Jefav folds
+BELA LUGOSI raises 300 to 450
+rickdu78 folds
+BELA LUGOSI collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 1: BELA LUGOSI (big blind) won 630
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #463027925826928642-17-1422221838 - Holdem no limit (30/60) - 2015/01/25 21:37:18 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #5 is the button
+Seat 1: BELA LUGOSI (2165)
+Seat 2: sabre_laser (1660)
+Seat 3: rickdu78 (1917)
+Seat 4: arduz69 (1530)
+Seat 5: Jefav (2213)
+*** ANTE/BLINDS ***
+BELA LUGOSI posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [3d 9c]
+*** PRE-FLOP *** 
+rickdu78 raises 90 to 150
+arduz69 folds
+Jefav folds
+BELA LUGOSI folds
+sabre_laser folds
+rickdu78 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: rickdu78 won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #463027925826928642-18-1422221873 - Holdem no limit (30/60) - 2015/01/25 21:37:53 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #1 is the button
+Seat 1: BELA LUGOSI (2135)
+Seat 2: sabre_laser (1600)
+Seat 3: rickdu78 (2007)
+Seat 4: arduz69 (1530)
+Seat 5: Jefav (2213)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+rickdu78 posts big blind 60
+Dealt to sabre_laser [5h 7c]
+*** PRE-FLOP *** 
+arduz69 folds
+Jefav raises 120 to 180
+BELA LUGOSI folds
+sabre_laser folds
+rickdu78 folds
+Jefav collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 5: Jefav won 270
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #463027925826928642-19-1422221898 - Holdem no limit (30/60) - 2015/01/25 21:38:18 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #2 is the button
+Seat 1: BELA LUGOSI (2135)
+Seat 2: sabre_laser (1570)
+Seat 3: rickdu78 (1947)
+Seat 4: arduz69 (1530)
+Seat 5: Jefav (2303)
+*** ANTE/BLINDS ***
+rickdu78 posts small blind 30
+arduz69 posts big blind 60
+Dealt to sabre_laser [6h 4s]
+*** PRE-FLOP *** 
+Jefav folds
+BELA LUGOSI folds
+sabre_laser folds
+rickdu78 calls 30
+arduz69 checks
+*** FLOP *** [8d 9d 3d]
+rickdu78 checks
+arduz69 bets 80
+rickdu78 folds
+arduz69 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [8d 9d 3d]
+Seat 4: arduz69 (big blind) won 200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #463027925826928642-20-1422221925 - Holdem no limit (40/80) - 2015/01/25 21:38:45 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #3 is the button
+Seat 1: BELA LUGOSI (2135)
+Seat 2: sabre_laser (1570)
+Seat 3: rickdu78 (1887)
+Seat 4: arduz69 (1590)
+Seat 5: Jefav (2303)
+*** ANTE/BLINDS ***
+arduz69 posts small blind 40
+Jefav posts big blind 80
+Dealt to sabre_laser [5c Qh]
+*** PRE-FLOP *** 
+BELA LUGOSI folds
+sabre_laser folds
+rickdu78 raises 120 to 200
+arduz69 folds
+Jefav folds
+rickdu78 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: rickdu78 (button) won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #463027925826928642-21-1422221946 - Holdem no limit (40/80) - 2015/01/25 21:39:06 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #4 is the button
+Seat 1: BELA LUGOSI (2135)
+Seat 2: sabre_laser (1570)
+Seat 3: rickdu78 (2007)
+Seat 4: arduz69 (1550)
+Seat 5: Jefav (2223)
+*** ANTE/BLINDS ***
+Jefav posts small blind 40
+BELA LUGOSI posts big blind 80
+Dealt to sabre_laser [6s 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+rickdu78 folds
+arduz69 folds
+Jefav raises 160 to 240
+BELA LUGOSI folds
+Jefav collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 5: Jefav (small blind) won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #463027925826928642-22-1422221963 - Holdem no limit (40/80) - 2015/01/25 21:39:23 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #5 is the button
+Seat 1: BELA LUGOSI (2055)
+Seat 2: sabre_laser (1570)
+Seat 3: rickdu78 (2007)
+Seat 4: arduz69 (1550)
+Seat 5: Jefav (2303)
+*** ANTE/BLINDS ***
+BELA LUGOSI posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Ah As]
+*** PRE-FLOP *** 
+rickdu78 folds
+arduz69 folds
+Jefav raises 160 to 240
+BELA LUGOSI folds
+sabre_laser calls 160
+*** FLOP *** [6h 2h 4d]
+sabre_laser bets 1330 and is all-in
+Jefav folds
+sabre_laser collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [6h 2h 4d]
+Seat 2: sabre_laser (big blind) won 1850
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #463027925826928642-23-1422221993 - Holdem no limit (40/80) - 2015/01/25 21:39:53 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #1 is the button
+Seat 1: BELA LUGOSI (2015)
+Seat 2: sabre_laser (1850)
+Seat 3: rickdu78 (2007)
+Seat 4: arduz69 (1550)
+Seat 5: Jefav (2063)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+rickdu78 posts big blind 80
+Dealt to sabre_laser [Ad Ac]
+*** PRE-FLOP *** 
+arduz69 folds
+Jefav folds
+BELA LUGOSI raises 80 to 160
+sabre_laser raises 1690 to 1850 and is all-in
+rickdu78 folds
+BELA LUGOSI folds
+sabre_laser collected 2090 from pot
+*** SUMMARY ***
+Total pot 2090 | No rake
+Seat 2: sabre_laser (small blind) won 2090
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #463027925826928642-24-1422222019 - Holdem no limit (40/80) - 2015/01/25 21:40:19 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #2 is the button
+Seat 1: BELA LUGOSI (1855)
+Seat 2: sabre_laser (2090)
+Seat 3: rickdu78 (1927)
+Seat 4: arduz69 (1550)
+Seat 5: Jefav (2063)
+*** ANTE/BLINDS ***
+rickdu78 posts small blind 40
+arduz69 posts big blind 80
+Dealt to sabre_laser [9h 9c]
+*** PRE-FLOP *** 
+Jefav raises 160 to 240
+BELA LUGOSI folds
+sabre_laser raises 1850 to 2090 and is all-in
+rickdu78 calls 1887 and is all-in
+arduz69 folds
+Jefav folds
+*** FLOP *** [Th 8h 5s]
+*** TURN *** [Th 8h 5s][2h]
+*** RIVER *** [Th 8h 5s 2h][4h]
+*** SHOW DOWN ***
+rickdu78 shows [Ah As] (Flush Ace high)
+sabre_laser shows [9h 9c] (Flush Ten high)
+sabre_laser collected 163 from side pot 1
+rickdu78 collected 4174 from main pot
+*** SUMMARY ***
+Total pot 4337 | No rake
+Board: [Th 8h 5s 2h 4h]
+Seat 2: sabre_laser (button) showed [9h 9c] and won 163 with Flush Ten high
+Seat 3: rickdu78 (small blind) showed [Ah As] and won 4174 with Flush Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #463027925826928642-25-1422222049 - Holdem no limit (40/80) - 2015/01/25 21:40:49 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #3 is the button
+Seat 1: BELA LUGOSI (1855)
+Seat 2: sabre_laser (163)
+Seat 3: rickdu78 (4174)
+Seat 4: arduz69 (1470)
+Seat 5: Jefav (1823)
+*** ANTE/BLINDS ***
+arduz69 posts small blind 40
+Jefav posts big blind 80
+Dealt to sabre_laser [4s Kd]
+*** PRE-FLOP *** 
+BELA LUGOSI folds
+sabre_laser folds
+rickdu78 folds
+arduz69 calls 40
+Jefav checks
+*** FLOP *** [Ad 2d 9c]
+arduz69 bets 120
+Jefav folds
+arduz69 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Ad 2d 9c]
+Seat 4: arduz69 (small blind) won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #463027925826928642-26-1422222090 - Holdem no limit (40/80) - 2015/01/25 21:41:30 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #4 is the button
+Seat 1: BELA LUGOSI (1855)
+Seat 2: sabre_laser (163)
+Seat 3: rickdu78 (4174)
+Seat 4: arduz69 (1550)
+Seat 5: Jefav (1743)
+*** ANTE/BLINDS ***
+Jefav posts small blind 40
+BELA LUGOSI posts big blind 80
+Dealt to sabre_laser [6c 6h]
+*** PRE-FLOP *** 
+sabre_laser raises 83 to 163 and is all-in
+rickdu78 folds
+arduz69 folds
+Jefav folds
+BELA LUGOSI calls 83
+*** FLOP *** [7h 3h 5s]
+*** TURN *** [7h 3h 5s][3c]
+*** RIVER *** [7h 3h 5s 3c][Qs]
+*** SHOW DOWN ***
+BELA LUGOSI shows [8c 9h] (One pair : 3)
+sabre_laser shows [6c 6h] (Two pairs : 6 and 3)
+sabre_laser collected 366 from pot
+*** SUMMARY ***
+Total pot 366 | No rake
+Board: [7h 3h 5s 3c Qs]
+Seat 1: BELA LUGOSI (big blind) showed [8c 9h] and lost with One pair : 3
+Seat 2: sabre_laser showed [6c 6h] and won 366 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #463027925826928642-27-1422222125 - Holdem no limit (60/120) - 2015/01/25 21:42:05 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #5 is the button
+Seat 1: BELA LUGOSI (1692)
+Seat 2: sabre_laser (366)
+Seat 3: rickdu78 (4174)
+Seat 4: arduz69 (1550)
+Seat 5: Jefav (1703)
+*** ANTE/BLINDS ***
+BELA LUGOSI posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [6d Qs]
+*** PRE-FLOP *** 
+rickdu78 calls 120
+arduz69 folds
+Jefav folds
+BELA LUGOSI folds
+sabre_laser checks
+*** FLOP *** [Kh 2c 3d]
+sabre_laser checks
+rickdu78 checks
+*** TURN *** [Kh 2c 3d][7s]
+sabre_laser checks
+rickdu78 checks
+*** RIVER *** [Kh 2c 3d 7s][8s]
+sabre_laser checks
+rickdu78 checks
+*** SHOW DOWN ***
+sabre_laser shows [6d Qs] (High card : King)
+rickdu78 shows [Qd Td] (High card : King)
+rickdu78 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kh 2c 3d 7s 8s]
+Seat 2: sabre_laser (big blind) showed [6d Qs] and lost with High card : King
+Seat 3: rickdu78 showed [Qd Td] and won 300 with High card : King
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #463027925826928642-28-1422222170 - Holdem no limit (60/120) - 2015/01/25 21:42:50 UTC
+Table: 'No Limit Hold'em(107807090)#1' 5-max (real money) Seat #1 is the button
+Seat 1: BELA LUGOSI (1632)
+Seat 2: sabre_laser (246)
+Seat 3: rickdu78 (4354)
+Seat 4: arduz69 (1550)
+Seat 5: Jefav (1703)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+rickdu78 posts big blind 120
+Dealt to sabre_laser [Ad Ts]
+*** PRE-FLOP *** 
+arduz69 folds
+Jefav raises 240 to 360
+BELA LUGOSI folds
+sabre_laser calls 186 and is all-in
+rickdu78 folds
+*** FLOP *** [3c Jh 2d]
+*** TURN *** [3c Jh 2d][7h]
+*** RIVER *** [3c Jh 2d 7h][Qs]
+*** SHOW DOWN ***
+sabre_laser shows [Ad Ts] (High card : Ace)
+Jefav shows [Ks As] (High card : Ace)
+Jefav collected 726 from pot
+*** SUMMARY ***
+Total pot 726 | No rake
+Board: [3c Jh 2d 7h Qs]
+Seat 2: sabre_laser (small blind) showed [Ad Ts] and lost with High card : Ace
+Seat 5: Jefav showed [Ks As] and won 726 with High card : Ace
+
+

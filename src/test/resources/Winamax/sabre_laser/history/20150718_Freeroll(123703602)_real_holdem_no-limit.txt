@@ -1,0 +1,470 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #531302924987400260-20-1437228002 - Holdem no limit (20/100/200) - 2015/07/18 14:00:02 UTC
+Table: 'Freeroll(123703602)#067' 9-max (real money) Seat #3 is the button
+Seat 1: Mong1984 (14323)
+Seat 2: delfast (10355)
+Seat 3: yaggayow (2360)
+Seat 4: brutus du 42 (1555)
+Seat 5: Kether008 (2700)
+Seat 6: sabre_laser (2680)
+Seat 7: DARKVADOR72 (3367)
+Seat 8: alan53 (2630)
+Seat 9: ROMIGACA (3670)
+*** ANTE/BLINDS ***
+brutus du 42 posts ante 20
+Kether008 posts ante 20
+Mong1984 posts ante 20
+delfast posts ante 20
+yaggayow posts ante 20
+sabre_laser posts ante 20
+DARKVADOR72 posts ante 20
+alan53 posts ante 20
+ROMIGACA posts ante 20
+brutus du 42 posts small blind 100
+Kether008 posts big blind 200
+Dealt to sabre_laser [Jd 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+DARKVADOR72 raises 200 to 400
+alan53 folds
+ROMIGACA folds
+Mong1984 folds
+delfast calls 400
+yaggayow folds
+brutus du 42 calls 300
+Kether008 folds
+*** FLOP *** [5c 8s 2d]
+brutus du 42 bets 1135 and is all-in
+DARKVADOR72 raises 1812 to 2947 and is all-in
+delfast folds
+*** TURN *** [5c 8s 2d][4h]
+*** RIVER *** [5c 8s 2d 4h][Js]
+*** SHOW DOWN ***
+brutus du 42 shows [Ts Td] (One pair : Tens)
+DARKVADOR72 shows [9h 9s] (One pair : 9)
+DARKVADOR72 collected 1812 from side pot 1
+brutus du 42 collected 3850 from main pot
+*** SUMMARY ***
+Total pot 5662 | No rake
+Board: [5c 8s 2d 4h Js]
+Seat 4: brutus du 42 (small blind) showed [Ts Td] and won 3850 with One pair : Tens
+Seat 7: DARKVADOR72 showed [9h 9s] and won 1812 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #531302924987400628-10-1437228172 - Holdem no limit (25/125/250) - 2015/07/18 14:02:52 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #3 is the button
+Seat 1: misterpmp (2025)
+Seat 2: scale51 (6025)
+Seat 3: trinitat11 (5341)
+Seat 4: sabre_laser (2660)
+Seat 5: Bassir65 (12072)
+Seat 6: SemoshMaggle (12610)
+Seat 7: Max Lukane (4235)
+Seat 8: GWADAMAL (3070)
+Seat 9: NicoTahiti (13795)
+*** ANTE/BLINDS ***
+SemoshMaggle posts ante 25
+Max Lukane posts ante 25
+misterpmp posts ante 25
+scale51 posts ante 25
+trinitat11 posts ante 25
+GWADAMAL posts ante 25
+NicoTahiti posts ante 25
+SemoshMaggle posts small blind 125
+Max Lukane posts big blind 250
+*** PRE-FLOP *** 
+GWADAMAL folds
+NicoTahiti folds
+misterpmp folds
+scale51 calls 250
+trinitat11 folds
+SemoshMaggle raises 12335 to 12585 and is all-in
+Max Lukane folds
+scale51 folds
+SemoshMaggle collected 13260 from pot
+*** SUMMARY ***
+Total pot 13260 | No rake
+Seat 6: SemoshMaggle (small blind) won 13260
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #531302924987400628-11-1437228209 - Holdem no limit (25/125/250) - 2015/07/18 14:03:29 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #6 is the button
+Seat 1: misterpmp (2000)
+Seat 2: scale51 (5750)
+Seat 3: trinitat11 (5316)
+Seat 4: sabre_laser (2660)
+Seat 5: Bassir65 (12072)
+Seat 6: SemoshMaggle (13260)
+Seat 7: Max Lukane (3960)
+Seat 8: GWADAMAL (3045)
+Seat 9: NicoTahiti (13770)
+*** ANTE/BLINDS ***
+Max Lukane posts ante 25
+GWADAMAL posts ante 25
+misterpmp posts ante 25
+scale51 posts ante 25
+trinitat11 posts ante 25
+sabre_laser posts ante 25
+Bassir65 posts ante 25
+SemoshMaggle posts ante 25
+NicoTahiti posts ante 25
+Max Lukane posts small blind 125
+GWADAMAL posts big blind 250
+Dealt to sabre_laser [6d Qs]
+*** PRE-FLOP *** 
+NicoTahiti folds
+misterpmp folds
+scale51 calls 250
+trinitat11 folds
+sabre_laser folds
+Bassir65 folds
+SemoshMaggle raises 1000 to 1250
+Max Lukane folds
+GWADAMAL folds
+scale51 calls 1000
+*** FLOP *** [5c 4c Ah]
+scale51 checks
+SemoshMaggle bets 1550
+scale51 folds
+SemoshMaggle collected 4650 from pot
+*** SUMMARY ***
+Total pot 4650 | No rake
+Board: [5c 4c Ah]
+Seat 6: SemoshMaggle (button) won 4650
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #531302924987400628-12-1437228257 - Holdem no limit (25/125/250) - 2015/07/18 14:04:17 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #7 is the button
+Seat 1: misterpmp (1975)
+Seat 2: scale51 (4475)
+Seat 3: trinitat11 (5291)
+Seat 4: sabre_laser (2635)
+Seat 5: Bassir65 (12047)
+Seat 6: SemoshMaggle (15085)
+Seat 7: Max Lukane (3810)
+Seat 8: GWADAMAL (2770)
+Seat 9: NicoTahiti (13745)
+*** ANTE/BLINDS ***
+GWADAMAL posts ante 25
+NicoTahiti posts ante 25
+misterpmp posts ante 25
+scale51 posts ante 25
+trinitat11 posts ante 25
+sabre_laser posts ante 25
+Bassir65 posts ante 25
+SemoshMaggle posts ante 25
+Max Lukane posts ante 25
+GWADAMAL posts small blind 125
+NicoTahiti posts big blind 250
+Dealt to sabre_laser [2s 4s]
+*** PRE-FLOP *** 
+misterpmp folds
+scale51 calls 250
+trinitat11 calls 250
+sabre_laser folds
+Bassir65 folds
+SemoshMaggle calls 250
+Max Lukane folds
+GWADAMAL folds
+NicoTahiti folds
+*** FLOP *** [6h 3h Ks]
+scale51 checks
+trinitat11 bets 250
+SemoshMaggle folds
+scale51 calls 250
+*** TURN *** [6h 3h Ks][2d]
+scale51 checks
+trinitat11 bets 500
+scale51 calls 500
+*** RIVER *** [6h 3h Ks 2d][3c]
+scale51 checks
+trinitat11 bets 500
+scale51 calls 500
+*** SHOW DOWN ***
+trinitat11 shows [Tc Jc] (One pair : 3)
+scale51 shows [5d 4d] (Straight 6 high)
+scale51 collected 3850 from pot
+*** SUMMARY ***
+Total pot 3850 | No rake
+Board: [6h 3h Ks 2d 3c]
+Seat 2: scale51 showed [5d 4d] and won 3850 with Straight 6 high
+Seat 3: trinitat11 showed [Tc Jc] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #531302924987400628-13-1437228345 - Holdem no limit (35/150/300) - 2015/07/18 14:05:45 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #8 is the button
+Seat 1: misterpmp (1950)
+Seat 2: scale51 (6800)
+Seat 3: trinitat11 (3766)
+Seat 4: sabre_laser (2610)
+Seat 5: Bassir65 (12022)
+Seat 6: SemoshMaggle (14810)
+Seat 7: Max Lukane (3785)
+Seat 8: GWADAMAL (2620)
+Seat 9: NicoTahiti (13470)
+*** ANTE/BLINDS ***
+NicoTahiti posts ante 35
+misterpmp posts ante 35
+scale51 posts ante 35
+trinitat11 posts ante 35
+sabre_laser posts ante 35
+Bassir65 posts ante 35
+SemoshMaggle posts ante 35
+Max Lukane posts ante 35
+GWADAMAL posts ante 35
+NicoTahiti posts small blind 150
+misterpmp posts big blind 300
+Dealt to sabre_laser [3c 5s]
+*** PRE-FLOP *** 
+scale51 calls 300
+trinitat11 folds
+sabre_laser folds
+Bassir65 calls 300
+SemoshMaggle folds
+Max Lukane folds
+GWADAMAL folds
+NicoTahiti folds
+misterpmp raises 1615 to 1915 and is all-in
+scale51 folds
+Bassir65 calls 1615
+*** FLOP *** [2h Qc Qd]
+*** TURN *** [2h Qc Qd][Ac]
+*** RIVER *** [2h Qc Qd Ac][7h]
+*** SHOW DOWN ***
+misterpmp shows [Kd Kh] (Two pairs : Kings and Queens)
+Bassir65 shows [Tc As] (Two pairs : Aces and Queens)
+Bassir65 collected 4595 from pot
+*** SUMMARY ***
+Total pot 4595 | No rake
+Board: [2h Qc Qd Ac 7h]
+Seat 1: misterpmp (big blind) showed [Kd Kh] and lost with Two pairs : Kings and Queens
+Seat 5: Bassir65 showed [Tc As] and won 4595 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #531302924987400628-14-1437228387 - Holdem no limit (35/150/300) - 2015/07/18 14:06:27 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #9 is the button
+Seat 2: scale51 (6465)
+Seat 3: trinitat11 (3731)
+Seat 4: sabre_laser (2575)
+Seat 5: Bassir65 (14667)
+Seat 6: SemoshMaggle (14775)
+Seat 7: Max Lukane (3750)
+Seat 8: GWADAMAL (2585)
+Seat 9: NicoTahiti (13285)
+*** ANTE/BLINDS ***
+scale51 posts ante 35
+trinitat11 posts ante 35
+sabre_laser posts ante 35
+Bassir65 posts ante 35
+SemoshMaggle posts ante 35
+Max Lukane posts ante 35
+GWADAMAL posts ante 35
+NicoTahiti posts ante 35
+scale51 posts big blind 300
+Dealt to sabre_laser [Qh 8s]
+*** PRE-FLOP *** 
+trinitat11 folds
+sabre_laser folds
+Bassir65 calls 300
+SemoshMaggle folds
+Max Lukane calls 300
+GWADAMAL folds
+NicoTahiti folds
+scale51 checks
+*** FLOP *** [5h As 2c]
+scale51 checks
+Bassir65 bets 300
+Max Lukane folds
+scale51 folds
+Bassir65 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Board: [5h As 2c]
+Seat 5: Bassir65 won 1480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #531302924987400628-15-1437228419 - Holdem no limit (35/150/300) - 2015/07/18 14:06:59 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #1 is the button
+Seat 1: Bruguieres (14842)
+Seat 2: scale51 (6130)
+Seat 3: trinitat11 (3696)
+Seat 4: sabre_laser (2540)
+Seat 5: Bassir65 (15512)
+Seat 6: SemoshMaggle (14740)
+Seat 7: Max Lukane (3415)
+Seat 8: GWADAMAL (2550)
+Seat 9: NicoTahiti (13250)
+*** ANTE/BLINDS ***
+scale51 posts ante 35
+trinitat11 posts ante 35
+sabre_laser posts ante 35
+Bassir65 posts ante 35
+SemoshMaggle posts ante 35
+Max Lukane posts ante 35
+GWADAMAL posts ante 35
+NicoTahiti posts ante 35
+scale51 posts small blind 150
+trinitat11 posts big blind 300
+Dealt to sabre_laser [5c 5s]
+*** PRE-FLOP *** 
+sabre_laser calls 300
+Bassir65 folds
+SemoshMaggle calls 300
+Max Lukane calls 300
+GWADAMAL folds
+NicoTahiti folds
+scale51 calls 150
+trinitat11 checks
+*** FLOP *** [Th 6s 9c]
+scale51 checks
+trinitat11 bets 600
+sabre_laser folds
+SemoshMaggle calls 600
+Max Lukane folds
+scale51 calls 600
+*** TURN *** [Th 6s 9c][Qh]
+scale51 checks
+trinitat11 bets 2761 and is all-in
+SemoshMaggle raises 2761 to 5522
+scale51 calls 5195 and is all-in
+*** RIVER *** [Th 6s 9c Qh][Td]
+*** SHOW DOWN ***
+trinitat11 shows [8s Js] (Straight Queen high)
+scale51 shows [2d Ts] (Trips of Tens)
+SemoshMaggle shows [Qs Kh] (Two pairs : Queens and Tens)
+SemoshMaggle collected 327 from side pot 2
+scale51 collected 4868 from side pot 1
+trinitat11 collected 11863 from main pot
+*** SUMMARY ***
+Total pot 17058 | No rake
+Board: [Th 6s 9c Qh Td]
+Seat 2: scale51 (small blind) showed [2d Ts] and won 4868 with Trips of Tens
+Seat 3: trinitat11 (big blind) showed [8s Js] and won 11863 with Straight Queen high
+Seat 6: SemoshMaggle showed [Qs Kh] and won 327 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #531302924987400628-16-1437228475 - Holdem no limit (35/150/300) - 2015/07/18 14:07:55 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #2 is the button
+Seat 1: Bruguieres (14842)
+Seat 2: scale51 (4868)
+Seat 3: trinitat11 (11863)
+Seat 4: sabre_laser (2205)
+Seat 5: Bassir65 (15477)
+Seat 6: SemoshMaggle (8610)
+Seat 7: Max Lukane (3080)
+Seat 8: GWADAMAL (2515)
+Seat 9: NicoTahiti (13215)
+*** ANTE/BLINDS ***
+trinitat11 posts ante 35
+sabre_laser posts ante 35
+Bruguieres posts ante 35
+scale51 posts ante 35
+Bassir65 posts ante 35
+SemoshMaggle posts ante 35
+Max Lukane posts ante 35
+GWADAMAL posts ante 35
+NicoTahiti posts ante 35
+trinitat11 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9s 2d]
+*** PRE-FLOP *** 
+Bassir65 calls 300
+SemoshMaggle calls 300
+Max Lukane calls 300
+GWADAMAL folds
+NicoTahiti folds
+Bruguieres calls 300
+scale51 folds
+trinitat11 calls 150
+sabre_laser checks
+*** FLOP *** [8c Kd 4h]
+trinitat11 checks
+sabre_laser checks
+Bassir65 checks
+SemoshMaggle checks
+Max Lukane checks
+Bruguieres checks
+*** TURN *** [8c Kd 4h][5h]
+trinitat11 bets 300
+sabre_laser folds
+Bassir65 calls 300
+SemoshMaggle calls 300
+Max Lukane folds
+Bruguieres raises 300 to 600
+trinitat11 calls 300
+Bassir65 calls 300
+SemoshMaggle calls 300
+*** RIVER *** [8c Kd 4h 5h][9d]
+trinitat11 checks
+Bassir65 checks
+SemoshMaggle checks
+Bruguieres bets 4515
+trinitat11 folds
+Bassir65 folds
+SemoshMaggle folds
+Bruguieres collected 9030 from pot
+*** SUMMARY ***
+Total pot 9030 | No rake
+Board: [8c Kd 4h 5h 9d]
+Seat 1: Bruguieres won 9030
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #531302924987400628-17-1437228578 - Holdem no limit (40/200/400) - 2015/07/18 14:09:38 UTC
+Table: 'Freeroll(123703602)#435' 9-max (real money) Seat #3 is the button
+Seat 1: Bruguieres (18422)
+Seat 2: scale51 (4833)
+Seat 3: trinitat11 (10928)
+Seat 4: sabre_laser (1870)
+Seat 5: Bassir65 (14542)
+Seat 6: SemoshMaggle (7675)
+Seat 7: Max Lukane (2745)
+Seat 8: GWADAMAL (2480)
+Seat 9: NicoTahiti (13180)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+Bassir65 posts ante 40
+Bruguieres posts ante 40
+scale51 posts ante 40
+trinitat11 posts ante 40
+SemoshMaggle posts ante 40
+Max Lukane posts ante 40
+GWADAMAL posts ante 40
+NicoTahiti posts ante 40
+sabre_laser posts small blind 200
+Bassir65 posts big blind 400
+Dealt to sabre_laser [7h 7s]
+*** PRE-FLOP *** 
+SemoshMaggle calls 400
+Max Lukane folds
+GWADAMAL folds
+NicoTahiti folds
+Bruguieres raises 400 to 800
+scale51 folds
+trinitat11 folds
+sabre_laser raises 1030 to 1830 and is all-in
+Bassir65 calls 1430
+SemoshMaggle calls 1430
+Bruguieres calls 1030
+*** FLOP *** [Kd 5h 3s]
+Bassir65 checks
+SemoshMaggle checks
+Bruguieres checks
+*** TURN *** [Kd 5h 3s][3h]
+Bassir65 bets 400
+SemoshMaggle calls 400
+Bruguieres calls 400
+*** RIVER *** [Kd 5h 3s 3h][Th]
+Bassir65 checks
+SemoshMaggle bets 2600
+Bruguieres folds
+Bassir65 folds
+*** SHOW DOWN ***
+sabre_laser shows [7h 7s] (Two pairs : 7 and 3)
+SemoshMaggle shows [Kc 2c] (Two pairs : Kings and 3)
+SemoshMaggle collected 11480 from pot
+*** SUMMARY ***
+Total pot 11480 | No rake
+Board: [Kd 5h 3s 3h Th]
+Seat 4: sabre_laser (small blind) showed [7h 7s] and lost with Two pairs : 7 and 3
+Seat 6: SemoshMaggle showed [Kc 2c] and won 11480 with Two pairs : Kings and 3
+
+

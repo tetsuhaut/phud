@@ -1,0 +1,931 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #554775582685003777-1-1441056173 - Holdem no limit (10/20) - 2015/08/31 21:22:53 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #4 is the button
+Seat 1: pap31 (1500)
+Seat 2: D-money (1500)
+Seat 3: tonyp49 (1500)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: .Roxon. (1500)
+Seat 7: NydanBerg (1500)
+Seat 8: Piing05 (1500)
+Seat 9: V-KING (1500)
+Seat 10: pasurdegagne (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+.Roxon. posts big blind 20
+Dealt to sabre_laser [9d 7d]
+*** PRE-FLOP *** 
+NydanBerg folds
+Piing05 calls 20
+V-KING folds
+pasurdegagne calls 20
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser calls 10
+.Roxon. checks
+*** FLOP *** [Ac 4s 2d]
+sabre_laser checks
+.Roxon. checks
+Piing05 checks
+pasurdegagne checks
+*** TURN *** [Ac 4s 2d][Jc]
+sabre_laser checks
+.Roxon. checks
+Piing05 bets 40
+pasurdegagne calls 40
+sabre_laser folds
+.Roxon. folds
+*** RIVER *** [Ac 4s 2d Jc][3s]
+Piing05 bets 100
+pasurdegagne calls 100
+*** SHOW DOWN ***
+Piing05 shows [Qd Qc] (One pair : Queens)
+pasurdegagne shows [Kh Kd] (One pair : Kings)
+pasurdegagne collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ac 4s 2d Jc 3s]
+Seat 8: Piing05 showed [Qd Qc] and lost with One pair : Queens
+Seat 10: pasurdegagne showed [Kh Kd] and won 360 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #554775582685003777-2-1441056338 - Holdem no limit (10/20) - 2015/08/31 21:25:38 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #5 is the button
+Seat 1: pap31 (1500)
+Seat 2: D-money (1500)
+Seat 3: tonyp49 (1500)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1480)
+Seat 6: .Roxon. (1480)
+Seat 7: NydanBerg (1500)
+Seat 8: Piing05 (1340)
+Seat 9: V-KING (1500)
+Seat 10: pasurdegagne (1700)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 10
+NydanBerg posts big blind 20
+Dealt to sabre_laser [4h 3h]
+*** PRE-FLOP *** 
+Piing05 folds
+V-KING folds
+pasurdegagne calls 20
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg checks
+*** FLOP *** [Td 3s 7s]
+NydanBerg checks
+pasurdegagne bets 20
+NydanBerg folds
+pasurdegagne collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Td 3s 7s]
+Seat 10: pasurdegagne won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #554775582685003777-3-1441056394 - Holdem no limit (15/30) - 2015/08/31 21:26:34 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #6 is the button
+Seat 1: pap31 (1500)
+Seat 2: D-money (1500)
+Seat 3: tonyp49 (1500)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1480)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1480)
+Seat 8: Piing05 (1340)
+Seat 9: V-KING (1500)
+Seat 10: pasurdegagne (1730)
+*** ANTE/BLINDS ***
+NydanBerg posts small blind 15
+Piing05 posts big blind 30
+Dealt to sabre_laser [Kc 4c]
+*** PRE-FLOP *** 
+V-KING folds
+pasurdegagne calls 30
+pap31 raises 60 to 90
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg calls 75
+Piing05 calls 60
+pasurdegagne calls 60
+*** FLOP *** [7d 3s 7s]
+NydanBerg checks
+Piing05 checks
+pasurdegagne bets 30
+pap31 calls 30
+NydanBerg calls 30
+Piing05 folds
+*** TURN *** [7d 3s 7s][As]
+NydanBerg checks
+pasurdegagne checks
+pap31 checks
+*** RIVER *** [7d 3s 7s As][Kh]
+NydanBerg checks
+pasurdegagne bets 30
+pap31 calls 30
+NydanBerg calls 30
+*** SHOW DOWN ***
+pap31 shows [5d 5h] (Two pairs : 7 and 5)
+NydanBerg shows [Jc Jh] (Two pairs : Jacks and 7)
+pasurdegagne shows [3c Kd] (Two pairs : Kings and 7)
+pasurdegagne collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7d 3s 7s As Kh]
+Seat 1: pap31 showed [5d 5h] and lost with Two pairs : 7 and 5
+Seat 7: NydanBerg (small blind) showed [Jc Jh] and lost with Two pairs : Jacks and 7
+Seat 10: pasurdegagne showed [3c Kd] and won 540 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #554775582685003777-4-1441056504 - Holdem no limit (15/30) - 2015/08/31 21:28:24 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #7 is the button
+Seat 1: pap31 (1350)
+Seat 2: D-money (1500)
+Seat 3: tonyp49 (1500)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1480)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (1250)
+Seat 9: V-KING (1500)
+Seat 10: pasurdegagne (2120)
+*** ANTE/BLINDS ***
+Piing05 posts small blind 15
+V-KING posts big blind 30
+Dealt to sabre_laser [Kh 7h]
+*** PRE-FLOP *** 
+pasurdegagne folds
+pap31 folds
+D-money folds
+tonyp49 calls 30
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+V-KING checks
+*** FLOP *** [3c Qh Tc]
+V-KING bets 56
+tonyp49 calls 56
+*** TURN *** [3c Qh Tc][7d]
+V-KING bets 140
+tonyp49 raises 140 to 280
+V-KING calls 140
+*** RIVER *** [3c Qh Tc 7d][6d]
+V-KING checks
+tonyp49 bets 1134 and is all-in
+V-KING calls 1134 and is all-in
+*** SHOW DOWN ***
+V-KING shows [Qc 2h] (One pair : Queens)
+tonyp49 shows [Kd Kc] (One pair : Kings)
+tonyp49 collected 3015 from pot
+*** SUMMARY ***
+Total pot 3015 | No rake
+Board: [3c Qh Tc 7d 6d]
+Seat 3: tonyp49 showed [Kd Kc] and won 3015 with One pair : Kings
+Seat 9: V-KING (big blind) showed [Qc 2h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #554775582685003777-5-1441056576 - Holdem no limit (20/40) - 2015/08/31 21:29:36 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #8 is the button
+Seat 1: pap31 (1350)
+Seat 2: D-money (1500)
+Seat 3: tonyp49 (3015)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1480)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (1235)
+Seat 10: pasurdegagne (2120)
+*** ANTE/BLINDS ***
+pasurdegagne posts big blind 40
+Dealt to sabre_laser [2s 6s]
+*** PRE-FLOP *** 
+pap31 folds
+D-money calls 40
+tonyp49 calls 40
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne raises 40 to 80
+D-money raises 40 to 120
+tonyp49 calls 80
+pasurdegagne calls 40
+*** FLOP *** [Ks 3c 4c]
+pasurdegagne checks
+D-money bets 360
+tonyp49 calls 360
+pasurdegagne calls 360
+*** TURN *** [Ks 3c 4c][Qd]
+pasurdegagne checks
+D-money bets 1020 and is all-in
+tonyp49 folds
+pasurdegagne folds
+D-money collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [Ks 3c 4c Qd]
+Seat 2: D-money won 2460
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #554775582685003777-6-1441056651 - Holdem no limit (20/40) - 2015/08/31 21:30:51 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #9 is the button
+Seat 1: pap31 (1350)
+Seat 2: D-money (2460)
+Seat 3: tonyp49 (2535)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1480)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (1235)
+Seat 10: pasurdegagne (1640)
+*** ANTE/BLINDS ***
+pasurdegagne posts small blind 20
+pap31 posts big blind 40
+Dealt to sabre_laser [Qh Ac]
+*** PRE-FLOP *** 
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser raises 60 to 100
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne calls 80
+pap31 folds
+*** FLOP *** [2c 4c 9s]
+pasurdegagne checks
+sabre_laser checks
+*** TURN *** [2c 4c 9s][4d]
+pasurdegagne checks
+sabre_laser bets 140
+pasurdegagne calls 140
+*** RIVER *** [2c 4c 9s 4d][9c]
+pasurdegagne checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Qh Ac] (Two pairs : 9 and 4)
+pasurdegagne shows [Ah 7s] (Two pairs : 9 and 4)
+pasurdegagne collected 260 from pot
+sabre_laser collected 260 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [2c 4c 9s 4d 9c]
+Seat 5: sabre_laser showed [Qh Ac] and won 260 with Two pairs : 9 and 4
+Seat 10: pasurdegagne (small blind) showed [Ah 7s] and won 260 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554775582685003777-7-1441056734 - Holdem no limit (30/60) - 2015/08/31 21:32:14 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #10 is the button
+Seat 1: pap31 (1310)
+Seat 2: D-money (2460)
+Seat 3: tonyp49 (2535)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (1235)
+Seat 10: pasurdegagne (1660)
+*** ANTE/BLINDS ***
+pap31 posts small blind 30
+D-money posts big blind 60
+Dealt to sabre_laser [Jh 5s]
+*** PRE-FLOP *** 
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne folds
+pap31 calls 30
+D-money checks
+*** FLOP *** [8s 2h 4d]
+pap31 bets 60
+D-money raises 2340 to 2400 and is all-in
+pap31 folds
+D-money collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [8s 2h 4d]
+Seat 2: D-money (big blind) won 2580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554775582685003777-8-1441056797 - Holdem no limit (30/60) - 2015/08/31 21:33:17 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #1 is the button
+Seat 1: pap31 (1190)
+Seat 2: D-money (2580)
+Seat 3: tonyp49 (2535)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (1235)
+Seat 10: pasurdegagne (1660)
+*** ANTE/BLINDS ***
+D-money posts small blind 30
+tonyp49 posts big blind 60
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+NicoBigBlind folds
+sabre_laser raises 90 to 150
+.Roxon. folds
+NydanBerg folds
+Piing05 calls 150
+pasurdegagne folds
+pap31 folds
+D-money folds
+tonyp49 folds
+*** FLOP *** [7c 5s 8s]
+sabre_laser checks
+Piing05 checks
+*** TURN *** [7c 5s 8s][Jd]
+sabre_laser bets 180
+Piing05 folds
+sabre_laser collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [7c 5s 8s Jd]
+Seat 5: sabre_laser won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554775582685003777-9-1441056886 - Holdem no limit (30/60) - 2015/08/31 21:34:46 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #2 is the button
+Seat 1: pap31 (1190)
+Seat 2: D-money (2550)
+Seat 3: tonyp49 (2475)
+Seat 4: NicoBigBlind (1500)
+Seat 5: sabre_laser (1740)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (1085)
+Seat 10: pasurdegagne (1660)
+*** ANTE/BLINDS ***
+tonyp49 posts small blind 30
+NicoBigBlind posts big blind 60
+Dealt to sabre_laser [3s 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 calls 60
+pasurdegagne calls 60
+pap31 calls 60
+D-money calls 60
+tonyp49 folds
+NicoBigBlind checks
+*** FLOP *** [Ks 7c 2s]
+NicoBigBlind checks
+Piing05 checks
+pasurdegagne checks
+pap31 checks
+D-money checks
+*** TURN *** [Ks 7c 2s][Ah]
+NicoBigBlind checks
+Piing05 bets 150
+pasurdegagne folds
+pap31 calls 150
+D-money folds
+NicoBigBlind folds
+*** RIVER *** [Ks 7c 2s Ah][Jd]
+Piing05 checks
+pap31 checks
+*** SHOW DOWN ***
+Piing05 shows [3h As] (One pair : Aces)
+pap31 shows [Ac 8s] (One pair : Aces)
+pap31 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ks 7c 2s Ah Jd]
+Seat 1: pap31 showed [Ac 8s] and won 630 with One pair : Aces
+Seat 8: Piing05 showed [3h As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #554775582685003777-10-1441057018 - Holdem no limit (40/80) - 2015/08/31 21:36:58 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #3 is the button
+Seat 1: pap31 (1610)
+Seat 2: D-money (2490)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1440)
+Seat 5: sabre_laser (1740)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (875)
+Seat 10: pasurdegagne (1600)
+*** ANTE/BLINDS ***
+NicoBigBlind posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Kh 7c]
+*** PRE-FLOP *** 
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne calls 80
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind calls 40
+sabre_laser checks
+*** FLOP *** [6h Ad 9h]
+NicoBigBlind checks
+sabre_laser checks
+pasurdegagne checks
+*** TURN *** [6h Ad 9h][6s]
+NicoBigBlind checks
+sabre_laser bets 120
+pasurdegagne calls 120
+NicoBigBlind folds
+*** RIVER *** [6h Ad 9h 6s][Ah]
+sabre_laser bets 200
+pasurdegagne calls 200
+*** SHOW DOWN ***
+sabre_laser shows [Kh 7c] (Two pairs : Aces and 6)
+pasurdegagne shows [7s 7d] (Two pairs : Aces and 7)
+pasurdegagne collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [6h Ad 9h 6s Ah]
+Seat 5: sabre_laser (big blind) showed [Kh 7c] and lost with Two pairs : Aces and 6
+Seat 10: pasurdegagne showed [7s 7d] and won 880 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554775582685003777-11-1441057101 - Holdem no limit (60/120) - 2015/08/31 21:38:21 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #4 is the button
+Seat 1: pap31 (1610)
+Seat 2: D-money (2490)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1340)
+Seat 6: .Roxon. (1470)
+Seat 7: NydanBerg (1330)
+Seat 8: Piing05 (875)
+Seat 10: pasurdegagne (2080)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+.Roxon. posts big blind 120
+Dealt to sabre_laser [Th 3s]
+*** PRE-FLOP *** 
+NydanBerg raises 120 to 240
+Piing05 folds
+pasurdegagne folds
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 7: NydanBerg won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554775582685003777-12-1441057141 - Holdem no limit (60/120) - 2015/08/31 21:39:01 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #5 is the button
+Seat 1: pap31 (1610)
+Seat 2: D-money (2490)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1280)
+Seat 6: .Roxon. (1350)
+Seat 7: NydanBerg (1510)
+Seat 8: Piing05 (875)
+Seat 10: pasurdegagne (2080)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 60
+NydanBerg posts big blind 120
+Dealt to sabre_laser [7s Ks]
+*** PRE-FLOP *** 
+Piing05 folds
+pasurdegagne folds
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: NydanBerg (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554775582685003777-13-1441057183 - Holdem no limit (60/120) - 2015/08/31 21:39:43 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #6 is the button
+Seat 1: pap31 (1610)
+Seat 2: D-money (2490)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1280)
+Seat 6: .Roxon. (1290)
+Seat 7: NydanBerg (1570)
+Seat 8: Piing05 (875)
+Seat 10: pasurdegagne (2080)
+*** ANTE/BLINDS ***
+NydanBerg posts small blind 60
+Piing05 posts big blind 120
+Dealt to sabre_laser [6h 9d]
+*** PRE-FLOP *** 
+pasurdegagne folds
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: Piing05 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554775582685003777-14-1441057235 - Holdem no limit (60/120) - 2015/08/31 21:40:35 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #7 is the button
+Seat 1: pap31 (1610)
+Seat 2: D-money (2490)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1280)
+Seat 6: .Roxon. (1290)
+Seat 7: NydanBerg (1510)
+Seat 8: Piing05 (935)
+Seat 10: pasurdegagne (2080)
+*** ANTE/BLINDS ***
+Piing05 posts small blind 60
+pasurdegagne posts big blind 120
+Dealt to sabre_laser [6s 3d]
+*** PRE-FLOP *** 
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 calls 60
+pasurdegagne checks
+*** FLOP *** [8d 7s Ah]
+Piing05 bets 815 and is all-in
+pasurdegagne folds
+Piing05 collected 1055 from pot
+*** SUMMARY ***
+Total pot 1055 | No rake
+Board: [8d 7s Ah]
+Seat 8: Piing05 (small blind) won 1055
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554775582685003777-15-1441057280 - Holdem no limit (80/160) - 2015/08/31 21:41:20 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #8 is the button
+Seat 1: pap31 (1610)
+Seat 2: D-money (2490)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1280)
+Seat 6: .Roxon. (1290)
+Seat 7: NydanBerg (1510)
+Seat 8: Piing05 (1055)
+Seat 10: pasurdegagne (1960)
+*** ANTE/BLINDS ***
+pasurdegagne posts small blind 80
+pap31 posts big blind 160
+Dealt to sabre_laser [Ks 5h]
+*** PRE-FLOP *** 
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne calls 80
+pap31 checks
+*** FLOP *** [6h Qc 9c]
+pasurdegagne bets 160
+pap31 calls 160
+*** TURN *** [6h Qc 9c][Tc]
+pasurdegagne checks
+pap31 checks
+*** RIVER *** [6h Qc 9c Tc][4s]
+pasurdegagne checks
+pap31 checks
+*** SHOW DOWN ***
+pasurdegagne shows [Ad 7c] (High card : Ace)
+pap31 shows [2d 9s] (One pair : 9)
+pap31 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [6h Qc 9c Tc 4s]
+Seat 1: pap31 (big blind) showed [2d 9s] and won 640 with One pair : 9
+Seat 10: pasurdegagne (small blind) showed [Ad 7c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554775582685003777-16-1441057352 - Holdem no limit (80/160) - 2015/08/31 21:42:32 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #10 is the button
+Seat 1: pap31 (1930)
+Seat 2: D-money (2490)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1280)
+Seat 6: .Roxon. (1290)
+Seat 7: NydanBerg (1510)
+Seat 8: Piing05 (1055)
+Seat 10: pasurdegagne (1640)
+*** ANTE/BLINDS ***
+pap31 posts small blind 80
+D-money posts big blind 160
+Dealt to sabre_laser [8c Qh]
+*** PRE-FLOP *** 
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne folds
+pap31 folds
+D-money collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: D-money (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554775582685003777-17-1441057370 - Holdem no limit (80/160) - 2015/08/31 21:42:50 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #1 is the button
+Seat 1: pap31 (1850)
+Seat 2: D-money (2570)
+Seat 3: tonyp49 (2445)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1280)
+Seat 6: .Roxon. (1290)
+Seat 7: NydanBerg (1510)
+Seat 8: Piing05 (1055)
+Seat 10: pasurdegagne (1640)
+*** ANTE/BLINDS ***
+D-money posts small blind 80
+tonyp49 posts big blind 160
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+NicoBigBlind folds
+sabre_laser calls 160
+.Roxon. folds
+NydanBerg folds
+Piing05 calls 160
+pasurdegagne calls 160
+pap31 folds
+D-money calls 80
+tonyp49 checks
+*** FLOP *** [3h Qd Kc]
+D-money checks
+tonyp49 checks
+sabre_laser checks
+Piing05 checks
+pasurdegagne bets 160
+D-money folds
+tonyp49 folds
+sabre_laser folds
+Piing05 folds
+pasurdegagne collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [3h Qd Kc]
+Seat 10: pasurdegagne won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554775582685003777-18-1441057438 - Holdem no limit (10/100/200) - 2015/08/31 21:43:58 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #2 is the button
+Seat 1: pap31 (1850)
+Seat 2: D-money (2410)
+Seat 3: tonyp49 (2285)
+Seat 4: NicoBigBlind (1360)
+Seat 5: sabre_laser (1120)
+Seat 6: .Roxon. (1290)
+Seat 7: NydanBerg (1510)
+Seat 8: Piing05 (895)
+Seat 10: pasurdegagne (2280)
+*** ANTE/BLINDS ***
+tonyp49 posts ante 10
+NicoBigBlind posts ante 10
+pap31 posts ante 10
+D-money posts ante 10
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+NydanBerg posts ante 10
+Piing05 posts ante 10
+pasurdegagne posts ante 10
+tonyp49 posts small blind 100
+NicoBigBlind posts big blind 200
+Dealt to sabre_laser [4h 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+NydanBerg raises 300 to 500
+Piing05 folds
+pasurdegagne folds
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+NydanBerg collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Seat 7: NydanBerg won 890
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554775582685003777-19-1441057475 - Holdem no limit (10/100/200) - 2015/08/31 21:44:35 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #3 is the button
+Seat 1: pap31 (1840)
+Seat 2: D-money (2400)
+Seat 3: tonyp49 (2175)
+Seat 4: NicoBigBlind (1150)
+Seat 5: sabre_laser (1110)
+Seat 6: .Roxon. (1280)
+Seat 7: NydanBerg (1890)
+Seat 8: Piing05 (885)
+Seat 10: pasurdegagne (2270)
+*** ANTE/BLINDS ***
+NicoBigBlind posts ante 10
+sabre_laser posts ante 10
+pap31 posts ante 10
+D-money posts ante 10
+tonyp49 posts ante 10
+.Roxon. posts ante 10
+NydanBerg posts ante 10
+Piing05 posts ante 10
+pasurdegagne posts ante 10
+NicoBigBlind posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [5h 9d]
+*** PRE-FLOP *** 
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne calls 200
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind folds
+sabre_laser checks
+*** FLOP *** [Kh 5c Qh]
+sabre_laser checks
+pasurdegagne bets 200
+sabre_laser folds
+pasurdegagne collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [Kh 5c Qh]
+Seat 10: pasurdegagne won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554775582685003777-20-1441057524 - Holdem no limit (10/100/200) - 2015/08/31 21:45:24 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #4 is the button
+Seat 1: pap31 (1830)
+Seat 2: D-money (2390)
+Seat 3: tonyp49 (2165)
+Seat 4: NicoBigBlind (1040)
+Seat 5: sabre_laser (900)
+Seat 6: .Roxon. (1270)
+Seat 7: NydanBerg (1880)
+Seat 8: Piing05 (875)
+Seat 10: pasurdegagne (2650)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+pap31 posts ante 10
+D-money posts ante 10
+tonyp49 posts ante 10
+NicoBigBlind posts ante 10
+NydanBerg posts ante 10
+Piing05 posts ante 10
+pasurdegagne posts ante 10
+sabre_laser posts small blind 100
+.Roxon. posts big blind 200
+Dealt to sabre_laser [5d 7c]
+*** PRE-FLOP *** 
+NydanBerg folds
+Piing05 folds
+pasurdegagne calls 200
+pap31 folds
+D-money folds
+tonyp49 folds
+NicoBigBlind raises 830 to 1030 and is all-in
+sabre_laser folds
+.Roxon. folds
+pasurdegagne calls 830
+*** FLOP *** [Jd Jh Ah]
+*** TURN *** [Jd Jh Ah][7s]
+*** RIVER *** [Jd Jh Ah 7s][6h]
+*** SHOW DOWN ***
+NicoBigBlind shows [Qd Td] (One pair : Jacks)
+pasurdegagne shows [Tc Js] (Trips of Jacks)
+pasurdegagne collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Board: [Jd Jh Ah 7s 6h]
+Seat 4: NicoBigBlind (button) showed [Qd Td] and lost with One pair : Jacks
+Seat 10: pasurdegagne showed [Tc Js] and won 2450 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554775582685003777-21-1441057572 - Holdem no limit (10/100/200) - 2015/08/31 21:46:12 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #5 is the button
+Seat 1: pap31 (1820)
+Seat 2: D-money (2380)
+Seat 3: tonyp49 (2155)
+Seat 5: sabre_laser (790)
+Seat 6: .Roxon. (1060)
+Seat 7: NydanBerg (1870)
+Seat 8: Piing05 (865)
+Seat 10: pasurdegagne (4060)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 10
+NydanBerg posts ante 10
+pap31 posts ante 10
+D-money posts ante 10
+tonyp49 posts ante 10
+sabre_laser posts ante 10
+Piing05 posts ante 10
+pasurdegagne posts ante 10
+.Roxon. posts small blind 100
+NydanBerg posts big blind 200
+Dealt to sabre_laser [Qd Kd]
+*** PRE-FLOP *** 
+Piing05 folds
+pasurdegagne raises 200 to 400
+pap31 folds
+D-money folds
+tonyp49 folds
+sabre_laser folds
+.Roxon. folds
+NydanBerg folds
+pasurdegagne collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 10: pasurdegagne won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #554775582685003777-22-1441057615 - Holdem no limit (20/150/300) - 2015/08/31 21:46:55 UTC
+Table: 'Double or Nothing(129168756)#0' 10-max (real money) Seat #6 is the button
+Seat 1: pap31 (1810)
+Seat 2: D-money (2370)
+Seat 3: tonyp49 (2145)
+Seat 5: sabre_laser (780)
+Seat 6: .Roxon. (950)
+Seat 7: NydanBerg (1660)
+Seat 8: Piing05 (855)
+Seat 10: pasurdegagne (4430)
+*** ANTE/BLINDS ***
+NydanBerg posts ante 20
+Piing05 posts ante 20
+pap31 posts ante 20
+D-money posts ante 20
+tonyp49 posts ante 20
+sabre_laser posts ante 20
+.Roxon. posts ante 20
+pasurdegagne posts ante 20
+NydanBerg posts small blind 150
+Piing05 posts big blind 300
+Dealt to sabre_laser [Ks 8h]
+*** PRE-FLOP *** 
+pasurdegagne calls 300
+pap31 folds
+D-money calls 300
+tonyp49 folds
+sabre_laser raises 460 to 760 and is all-in
+.Roxon. folds
+NydanBerg folds
+Piing05 folds
+pasurdegagne calls 460
+D-money calls 460
+*** FLOP *** [9h Qd Jc]
+pasurdegagne checks
+D-money checks
+*** TURN *** [9h Qd Jc][Qc]
+pasurdegagne checks
+D-money checks
+*** RIVER *** [9h Qd Jc Qc][Qh]
+pasurdegagne checks
+D-money checks
+*** SHOW DOWN ***
+D-money shows [Ts Ah] (Trips of Queens)
+sabre_laser shows [Ks 8h] (Trips of Queens)
+pasurdegagne shows [4c Js] (Full of Queens and Jacks)
+pasurdegagne collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | No rake
+Board: [9h Qd Jc Qc Qh]
+Seat 2: D-money showed [Ts Ah] and lost with Trips of Queens
+Seat 5: sabre_laser showed [Ks 8h] and lost with Trips of Queens
+Seat 10: pasurdegagne showed [4c Js] and won 2890 with Full of Queens and Jacks
+
+

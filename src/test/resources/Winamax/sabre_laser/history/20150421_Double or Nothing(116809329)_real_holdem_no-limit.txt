@@ -1,0 +1,1242 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #501692247922704385-1-1429642941 - Holdem no limit (10/20) - 2015/04/21 19:02:21 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #5 is the button
+Seat 1: tiara64 (1500)
+Seat 2: tchiba (1500)
+Seat 3: ACEost (1500)
+Seat 4: FataIBazooka (1500)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: rudy270 (1500)
+Seat 8: nakharez (1500)
+Seat 9: emilie49000 (1500)
+Seat 10: Bagnolais30 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+rudy270 posts big blind 20
+Dealt to sabre_laser [Ac 4d]
+*** PRE-FLOP *** 
+nakharez folds
+emilie49000 folds
+Bagnolais30 folds
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka calls 20
+gnikgnok folds
+sabre_laser calls 10
+rudy270 checks
+*** FLOP *** [Kd 2h 2d]
+sabre_laser checks
+rudy270 checks
+FataIBazooka checks
+*** TURN *** [Kd 2h 2d][Jd]
+sabre_laser checks
+rudy270 checks
+FataIBazooka checks
+*** RIVER *** [Kd 2h 2d Jd][Qc]
+sabre_laser bets 30
+rudy270 folds
+FataIBazooka calls 30
+*** SHOW DOWN ***
+sabre_laser shows [Ac 4d] (One pair : 2)
+FataIBazooka shows [Ah Th] (Straight Ace high)
+FataIBazooka collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kd 2h 2d Jd Qc]
+Seat 4: FataIBazooka showed [Ah Th] and won 120 with Straight Ace high
+Seat 6: sabre_laser (small blind) showed [Ac 4d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #501692247922704385-2-1429643052 - Holdem no limit (10/20) - 2015/04/21 19:04:12 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #6 is the button
+Seat 1: tiara64 (1500)
+Seat 2: tchiba (1500)
+Seat 3: ACEost (1500)
+Seat 4: FataIBazooka (1570)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1450)
+Seat 7: rudy270 (1480)
+Seat 8: nakharez (1500)
+Seat 9: emilie49000 (1500)
+Seat 10: Bagnolais30 (1500)
+*** ANTE/BLINDS ***
+rudy270 posts small blind 10
+nakharez posts big blind 20
+Dealt to sabre_laser [Kc Jd]
+*** PRE-FLOP *** 
+emilie49000 folds
+Bagnolais30 folds
+tiara64 folds
+tchiba folds
+ACEost raises 20 to 40
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+rudy270 folds
+nakharez folds
+ACEost collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: ACEost won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #501692247922704385-3-1429643170 - Holdem no limit (15/30) - 2015/04/21 19:06:10 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #7 is the button
+Seat 1: tiara64 (1500)
+Seat 2: tchiba (1500)
+Seat 3: ACEost (1530)
+Seat 4: FataIBazooka (1570)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1450)
+Seat 7: rudy270 (1470)
+Seat 8: nakharez (1480)
+Seat 9: emilie49000 (1500)
+Seat 10: Bagnolais30 (1500)
+*** ANTE/BLINDS ***
+nakharez posts small blind 15
+emilie49000 posts big blind 30
+Dealt to sabre_laser [Js Qd]
+*** PRE-FLOP *** 
+Bagnolais30 folds
+tiara64 calls 30
+tchiba folds
+ACEost calls 30
+FataIBazooka calls 30
+gnikgnok folds
+sabre_laser calls 30
+rudy270 folds
+nakharez raises 30 to 60
+emilie49000 folds
+tiara64 calls 30
+ACEost calls 30
+FataIBazooka calls 30
+sabre_laser calls 30
+*** FLOP *** [8s Td 4c]
+nakharez checks
+tiara64 checks
+ACEost checks
+FataIBazooka bets 165
+sabre_laser folds
+nakharez folds
+tiara64 folds
+ACEost folds
+FataIBazooka collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [8s Td 4c]
+Seat 4: FataIBazooka won 495
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #501692247922704385-4-1429643268 - Holdem no limit (15/30) - 2015/04/21 19:07:48 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #8 is the button
+Seat 1: tiara64 (1440)
+Seat 2: tchiba (1500)
+Seat 3: ACEost (1470)
+Seat 4: FataIBazooka (1840)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1390)
+Seat 7: rudy270 (1470)
+Seat 8: nakharez (1420)
+Seat 9: emilie49000 (1470)
+Seat 10: Bagnolais30 (1500)
+*** ANTE/BLINDS ***
+emilie49000 posts small blind 15
+Bagnolais30 posts big blind 30
+Dealt to sabre_laser [6s 6d]
+*** PRE-FLOP *** 
+tiara64 raises 1410 to 1440 and is all-in
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+rudy270 raises 30 to 1470 and is all-in
+nakharez folds
+emilie49000 folds
+Bagnolais30 folds
+*** FLOP *** [Tc 9h 3s]
+*** TURN *** [Tc 9h 3s][7h]
+*** RIVER *** [Tc 9h 3s 7h][Qs]
+*** SHOW DOWN ***
+tiara64 shows [Ah 9s] (One pair : 9)
+rudy270 shows [Kd Ac] (High card : Ace)
+rudy270 collected 30 from side pot 1
+tiara64 collected 2925 from main pot
+*** SUMMARY ***
+Total pot 2955 | No rake
+Board: [Tc 9h 3s 7h Qs]
+Seat 1: tiara64 showed [Ah 9s] and won 2925 with One pair : 9
+Seat 7: rudy270 showed [Kd Ac] and won 30 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #501692247922704385-5-1429643325 - Holdem no limit (20/40) - 2015/04/21 19:08:45 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #9 is the button
+Seat 1: tiara64 (2925)
+Seat 2: tchiba (1500)
+Seat 3: ACEost (1470)
+Seat 4: FataIBazooka (1840)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1390)
+Seat 7: rudy270 (30)
+Seat 8: nakharez (1420)
+Seat 9: emilie49000 (1455)
+Seat 10: Bagnolais30 (1470)
+*** ANTE/BLINDS ***
+Bagnolais30 posts small blind 20
+tiara64 posts big blind 40
+Dealt to sabre_laser [Td 3d]
+*** PRE-FLOP *** 
+tchiba calls 40
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+rudy270 folds
+nakharez calls 40
+emilie49000 folds
+Bagnolais30 folds
+tiara64 checks
+*** FLOP *** [3h 9s Qc]
+tiara64 checks
+tchiba checks
+nakharez bets 40
+tiara64 calls 40
+tchiba folds
+*** TURN *** [3h 9s Qc][Ah]
+tiara64 checks
+nakharez bets 110
+tiara64 calls 110
+*** RIVER *** [3h 9s Qc Ah][Ks]
+tiara64 checks
+nakharez checks
+*** SHOW DOWN ***
+nakharez shows [2h 4d] (High card : Ace)
+tiara64 shows [Qh 6h] (One pair : Queens)
+tiara64 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [3h 9s Qc Ah Ks]
+Seat 1: tiara64 (big blind) showed [Qh 6h] and won 440 with One pair : Queens
+Seat 8: nakharez showed [2h 4d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #501692247922704385-6-1429643410 - Holdem no limit (20/40) - 2015/04/21 19:10:10 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #10 is the button
+Seat 1: tiara64 (3175)
+Seat 2: tchiba (1460)
+Seat 3: ACEost (1470)
+Seat 4: FataIBazooka (1840)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1390)
+Seat 7: rudy270 (30)
+Seat 8: nakharez (1230)
+Seat 9: emilie49000 (1455)
+Seat 10: Bagnolais30 (1450)
+*** ANTE/BLINDS ***
+tiara64 posts small blind 20
+tchiba posts big blind 40
+Dealt to sabre_laser [4d Kd]
+*** PRE-FLOP *** 
+ACEost calls 40
+FataIBazooka calls 40
+gnikgnok folds
+sabre_laser folds
+rudy270 calls 30 and is all-in
+nakharez folds
+emilie49000 folds
+Bagnolais30 folds
+tiara64 folds
+tchiba checks
+*** FLOP *** [3c 4s 2s]
+tchiba checks
+ACEost bets 100
+FataIBazooka folds
+tchiba folds
+*** TURN *** [3c 4s 2s][Qh]
+*** RIVER *** [3c 4s 2s Qh][Qd]
+*** SHOW DOWN ***
+rudy270 shows [8h Ad] (One pair : Queens)
+ACEost shows [4c 4h] (Full of 4 and Queens)
+ACEost collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3c 4s 2s Qh Qd]
+Seat 3: ACEost showed [4c 4h] and won 270 with Full of 4 and Queens
+Seat 7: rudy270 showed [8h Ad] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #501692247922704385-7-1429643477 - Holdem no limit (30/60) - 2015/04/21 19:11:17 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #1 is the button
+Seat 1: tiara64 (3155)
+Seat 2: tchiba (1420)
+Seat 3: ACEost (1600)
+Seat 4: FataIBazooka (1800)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1390)
+Seat 8: nakharez (1230)
+Seat 9: emilie49000 (1455)
+Seat 10: Bagnolais30 (1450)
+*** ANTE/BLINDS ***
+tchiba posts small blind 30
+ACEost posts big blind 60
+Dealt to sabre_laser [Th 4c]
+*** PRE-FLOP *** 
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+nakharez calls 60
+emilie49000 folds
+Bagnolais30 folds
+tiara64 folds
+tchiba calls 30
+ACEost checks
+*** FLOP *** [Kd 9d 5d]
+tchiba checks
+ACEost checks
+nakharez checks
+*** TURN *** [Kd 9d 5d][8c]
+tchiba checks
+ACEost checks
+nakharez bets 120
+tchiba calls 120
+ACEost folds
+*** RIVER *** [Kd 9d 5d 8c][Ac]
+tchiba checks
+nakharez bets 853
+tchiba calls 853
+*** SHOW DOWN ***
+nakharez shows [Ts Qs] (High card : Ace)
+tchiba shows [7d Ks] (One pair : Kings)
+tchiba collected 2126 from pot
+*** SUMMARY ***
+Total pot 2126 | No rake
+Board: [Kd 9d 5d 8c Ac]
+Seat 2: tchiba (small blind) showed [7d Ks] and won 2126 with One pair : Kings
+Seat 8: nakharez showed [Ts Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #501692247922704385-8-1429643580 - Holdem no limit (30/60) - 2015/04/21 19:13:00 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #2 is the button
+Seat 1: tiara64 (3155)
+Seat 2: tchiba (2513)
+Seat 3: ACEost (1540)
+Seat 4: FataIBazooka (1800)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1390)
+Seat 8: nakharez (197)
+Seat 9: emilie49000 (1455)
+Seat 10: Bagnolais30 (1450)
+*** ANTE/BLINDS ***
+ACEost posts small blind 30
+FataIBazooka posts big blind 60
+Dealt to sabre_laser [5c Ah]
+*** PRE-FLOP *** 
+gnikgnok folds
+sabre_laser folds
+nakharez folds
+emilie49000 folds
+Bagnolais30 raises 90 to 150
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka folds
+Bagnolais30 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 10: Bagnolais30 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #501692247922704385-9-1429643634 - Holdem no limit (30/60) - 2015/04/21 19:13:54 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #3 is the button
+Seat 1: tiara64 (3155)
+Seat 2: tchiba (2513)
+Seat 3: ACEost (1510)
+Seat 4: FataIBazooka (1740)
+Seat 5: gnikgnok (1500)
+Seat 6: sabre_laser (1390)
+Seat 8: nakharez (197)
+Seat 9: emilie49000 (1455)
+Seat 10: Bagnolais30 (1540)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 30
+gnikgnok posts big blind 60
+Dealt to sabre_laser [2s Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+nakharez raises 137 to 197 and is all-in
+emilie49000 folds
+Bagnolais30 folds
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok calls 137
+*** FLOP *** [6c 9c 4s]
+*** TURN *** [6c 9c 4s][Ad]
+*** RIVER *** [6c 9c 4s Ad][2h]
+*** SHOW DOWN ***
+nakharez shows [Ts 7s] (High card : Ace)
+gnikgnok shows [5s Jd] (High card : Ace)
+gnikgnok collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | No rake
+Board: [6c 9c 4s Ad 2h]
+Seat 5: gnikgnok (big blind) showed [5s Jd] and won 424 with High card : Ace
+Seat 8: nakharez showed [Ts 7s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #501692247922704385-10-1429643692 - Holdem no limit (40/80) - 2015/04/21 19:14:52 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #4 is the button
+Seat 1: tiara64 (3155)
+Seat 2: tchiba (2513)
+Seat 3: ACEost (1510)
+Seat 4: FataIBazooka (1710)
+Seat 5: gnikgnok (1727)
+Seat 6: sabre_laser (1390)
+Seat 9: emilie49000 (1455)
+Seat 10: Bagnolais30 (1540)
+*** ANTE/BLINDS ***
+gnikgnok posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Ks Tc]
+*** PRE-FLOP *** 
+emilie49000 folds
+Bagnolais30 raises 120 to 200
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok raises 1527 to 1727 and is all-in
+sabre_laser folds
+Bagnolais30 calls 1340 and is all-in
+*** FLOP *** [8s Ac Th]
+*** TURN *** [8s Ac Th][Ah]
+*** RIVER *** [8s Ac Th Ah][Js]
+*** SHOW DOWN ***
+Bagnolais30 shows [Qs Qh] (Two pairs : Aces and Queens)
+gnikgnok shows [Qd As] (Trips of Aces)
+gnikgnok collected 3347 from pot
+*** SUMMARY ***
+Total pot 3347 | No rake
+Board: [8s Ac Th Ah Js]
+Seat 5: gnikgnok (small blind) showed [Qd As] and won 3347 with Trips of Aces
+Seat 10: Bagnolais30 showed [Qs Qh] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #501692247922704385-11-1429643752 - Holdem no limit (40/80) - 2015/04/21 19:15:52 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #5 is the button
+Seat 1: tiara64 (3155)
+Seat 2: tchiba (2513)
+Seat 3: ACEost (1510)
+Seat 4: FataIBazooka (1710)
+Seat 5: gnikgnok (3347)
+Seat 6: sabre_laser (1310)
+Seat 9: emilie49000 (1455)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+emilie49000 posts big blind 80
+Dealt to sabre_laser [3c 7d]
+*** PRE-FLOP *** 
+tiara64 calls 80
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 checks
+*** FLOP *** [Tc Kc 8s]
+emilie49000 checks
+tiara64 checks
+*** TURN *** [Tc Kc 8s][Ah]
+emilie49000 checks
+tiara64 bets 80
+emilie49000 folds
+tiara64 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Tc Kc 8s Ah]
+Seat 1: tiara64 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501692247922704385-12-1429643856 - Holdem no limit (60/120) - 2015/04/21 19:17:36 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #6 is the button
+Seat 1: tiara64 (3275)
+Seat 2: tchiba (2513)
+Seat 3: ACEost (1510)
+Seat 4: FataIBazooka (1710)
+Seat 5: gnikgnok (3347)
+Seat 6: sabre_laser (1270)
+Seat 9: emilie49000 (1375)
+*** ANTE/BLINDS ***
+emilie49000 posts small blind 60
+tiara64 posts big blind 120
+Dealt to sabre_laser [8s Th]
+*** PRE-FLOP *** 
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: tiara64 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501692247922704385-13-1429643909 - Holdem no limit (60/120) - 2015/04/21 19:18:29 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #9 is the button
+Seat 1: tiara64 (3335)
+Seat 2: tchiba (2513)
+Seat 3: ACEost (1510)
+Seat 4: FataIBazooka (1710)
+Seat 5: gnikgnok (3347)
+Seat 6: sabre_laser (1270)
+Seat 9: emilie49000 (1315)
+*** ANTE/BLINDS ***
+tiara64 posts small blind 60
+tchiba posts big blind 120
+Dealt to sabre_laser [Ah 5h]
+*** PRE-FLOP *** 
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser raises 120 to 240
+emilie49000 folds
+tiara64 folds
+tchiba folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: sabre_laser won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501692247922704385-14-1429643951 - Holdem no limit (60/120) - 2015/04/21 19:19:11 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #1 is the button
+Seat 1: tiara64 (3275)
+Seat 2: tchiba (2393)
+Seat 3: ACEost (1510)
+Seat 4: FataIBazooka (1710)
+Seat 5: gnikgnok (3347)
+Seat 6: sabre_laser (1450)
+Seat 9: emilie49000 (1315)
+*** ANTE/BLINDS ***
+tchiba posts small blind 60
+ACEost posts big blind 120
+Dealt to sabre_laser [5c 9d]
+*** PRE-FLOP *** 
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+tchiba calls 60
+ACEost checks
+*** FLOP *** [Qh Tc As]
+tchiba checks
+ACEost bets 180
+tchiba folds
+ACEost collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Qh Tc As]
+Seat 3: ACEost (big blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501692247922704385-15-1429644000 - Holdem no limit (60/120) - 2015/04/21 19:20:00 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #2 is the button
+Seat 1: tiara64 (3275)
+Seat 2: tchiba (2273)
+Seat 3: ACEost (1630)
+Seat 4: FataIBazooka (1710)
+Seat 5: gnikgnok (3347)
+Seat 6: sabre_laser (1450)
+Seat 9: emilie49000 (1315)
+*** ANTE/BLINDS ***
+ACEost posts small blind 60
+FataIBazooka posts big blind 120
+Dealt to sabre_laser [8s 9c]
+*** PRE-FLOP *** 
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+tchiba folds
+ACEost raises 120 to 240
+FataIBazooka folds
+ACEost collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: ACEost (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501692247922704385-16-1429644053 - Holdem no limit (80/160) - 2015/04/21 19:20:53 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #3 is the button
+Seat 1: tiara64 (3275)
+Seat 2: tchiba (2273)
+Seat 3: ACEost (1750)
+Seat 4: FataIBazooka (1590)
+Seat 5: gnikgnok (3347)
+Seat 6: sabre_laser (1450)
+Seat 9: emilie49000 (1315)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 80
+gnikgnok posts big blind 160
+Dealt to sabre_laser [Kh 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+tchiba calls 160
+ACEost folds
+FataIBazooka calls 80
+gnikgnok checks
+*** FLOP *** [9h 6h 5h]
+FataIBazooka checks
+gnikgnok checks
+tchiba checks
+*** TURN *** [9h 6h 5h][4d]
+FataIBazooka checks
+gnikgnok checks
+tchiba bets 160
+FataIBazooka folds
+gnikgnok folds
+tchiba collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [9h 6h 5h 4d]
+Seat 2: tchiba won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501692247922704385-17-1429644137 - Holdem no limit (80/160) - 2015/04/21 19:22:17 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #4 is the button
+Seat 1: tiara64 (3275)
+Seat 2: tchiba (2593)
+Seat 3: ACEost (1750)
+Seat 4: FataIBazooka (1430)
+Seat 5: gnikgnok (3187)
+Seat 6: sabre_laser (1450)
+Seat 9: emilie49000 (1315)
+*** ANTE/BLINDS ***
+gnikgnok posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Kh 7h]
+*** PRE-FLOP *** 
+emilie49000 folds
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok calls 80
+sabre_laser checks
+*** FLOP *** [6d 3s 5c]
+gnikgnok checks
+sabre_laser checks
+*** TURN *** [6d 3s 5c][2s]
+gnikgnok bets 160
+sabre_laser folds
+gnikgnok collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6d 3s 5c 2s]
+Seat 5: gnikgnok (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #501692247922704385-18-1429644202 - Holdem no limit (10/100/200) - 2015/04/21 19:23:22 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #5 is the button
+Seat 1: tiara64 (3275)
+Seat 2: tchiba (2593)
+Seat 3: ACEost (1750)
+Seat 4: FataIBazooka (1430)
+Seat 5: gnikgnok (3347)
+Seat 6: sabre_laser (1290)
+Seat 9: emilie49000 (1315)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+emilie49000 posts ante 10
+tiara64 posts ante 10
+tchiba posts ante 10
+ACEost posts ante 10
+FataIBazooka posts ante 10
+gnikgnok posts ante 10
+sabre_laser posts small blind 100
+emilie49000 posts big blind 200
+Dealt to sabre_laser [Qs Th]
+*** PRE-FLOP *** 
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser raises 200 to 400
+emilie49000 folds
+sabre_laser collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 6: sabre_laser (small blind) won 670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #501692247922704385-19-1429644287 - Holdem no limit (10/100/200) - 2015/04/21 19:24:47 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #6 is the button
+Seat 1: tiara64 (3265)
+Seat 2: tchiba (2583)
+Seat 3: ACEost (1740)
+Seat 4: FataIBazooka (1420)
+Seat 5: gnikgnok (3337)
+Seat 6: sabre_laser (1550)
+Seat 9: emilie49000 (1105)
+*** ANTE/BLINDS ***
+emilie49000 posts ante 10
+tiara64 posts ante 10
+tchiba posts ante 10
+ACEost posts ante 10
+FataIBazooka posts ante 10
+gnikgnok posts ante 10
+sabre_laser posts ante 10
+emilie49000 posts small blind 100
+tiara64 posts big blind 200
+Dealt to sabre_laser [Qd 5d]
+*** PRE-FLOP *** 
+tchiba folds
+ACEost folds
+FataIBazooka raises 1210 to 1410 and is all-in
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+FataIBazooka collected 1780 from pot
+*** SUMMARY ***
+Total pot 1780 | No rake
+Seat 4: FataIBazooka won 1780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #501692247922704385-20-1429644344 - Holdem no limit (10/100/200) - 2015/04/21 19:25:44 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #9 is the button
+Seat 1: tiara64 (3055)
+Seat 2: tchiba (2573)
+Seat 3: ACEost (1730)
+Seat 4: FataIBazooka (1780)
+Seat 5: gnikgnok (3327)
+Seat 6: sabre_laser (1540)
+Seat 9: emilie49000 (995)
+*** ANTE/BLINDS ***
+tiara64 posts ante 10
+tchiba posts ante 10
+ACEost posts ante 10
+FataIBazooka posts ante 10
+gnikgnok posts ante 10
+sabre_laser posts ante 10
+emilie49000 posts ante 10
+tiara64 posts small blind 100
+tchiba posts big blind 200
+Dealt to sabre_laser [9d 9c]
+*** PRE-FLOP *** 
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser raises 1330 to 1530 and is all-in
+emilie49000 folds
+tiara64 folds
+tchiba folds
+sabre_laser collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 6: sabre_laser won 1900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #501692247922704385-21-1429644396 - Holdem no limit (20/150/300) - 2015/04/21 19:26:36 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #1 is the button
+Seat 1: tiara64 (2945)
+Seat 2: tchiba (2363)
+Seat 3: ACEost (1720)
+Seat 4: FataIBazooka (1770)
+Seat 5: gnikgnok (3317)
+Seat 6: sabre_laser (1900)
+Seat 9: emilie49000 (985)
+*** ANTE/BLINDS ***
+tchiba posts ante 20
+ACEost posts ante 20
+tiara64 posts ante 20
+FataIBazooka posts ante 20
+gnikgnok posts ante 20
+sabre_laser posts ante 20
+emilie49000 posts ante 20
+tchiba posts small blind 150
+ACEost posts big blind 300
+Dealt to sabre_laser [Qc 8s]
+*** PRE-FLOP *** 
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+tchiba calls 150
+ACEost checks
+*** FLOP *** [Qh Js Qd]
+tchiba checks
+ACEost checks
+*** TURN *** [Qh Js Qd][4c]
+tchiba bets 300
+ACEost folds
+tchiba collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [Qh Js Qd 4c]
+Seat 2: tchiba (small blind) won 1040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #501692247922704385-22-1429644448 - Holdem no limit (20/150/300) - 2015/04/21 19:27:28 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #2 is the button
+Seat 1: tiara64 (2925)
+Seat 2: tchiba (2783)
+Seat 3: ACEost (1400)
+Seat 4: FataIBazooka (1750)
+Seat 5: gnikgnok (3297)
+Seat 6: sabre_laser (1880)
+Seat 9: emilie49000 (965)
+*** ANTE/BLINDS ***
+ACEost posts ante 20
+FataIBazooka posts ante 20
+tiara64 posts ante 20
+tchiba posts ante 20
+gnikgnok posts ante 20
+sabre_laser posts ante 20
+emilie49000 posts ante 20
+ACEost posts small blind 150
+FataIBazooka posts big blind 300
+Dealt to sabre_laser [9c Jh]
+*** PRE-FLOP *** 
+gnikgnok folds
+sabre_laser folds
+emilie49000 raises 645 to 945 and is all-in
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka folds
+emilie49000 collected 1535 from pot
+*** SUMMARY ***
+Total pot 1535 | No rake
+Seat 9: emilie49000 won 1535
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #501692247922704385-23-1429644474 - Holdem no limit (20/150/300) - 2015/04/21 19:27:54 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #3 is the button
+Seat 1: tiara64 (2905)
+Seat 2: tchiba (2763)
+Seat 3: ACEost (1230)
+Seat 4: FataIBazooka (1430)
+Seat 5: gnikgnok (3277)
+Seat 6: sabre_laser (1860)
+Seat 9: emilie49000 (1535)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 20
+gnikgnok posts ante 20
+tiara64 posts ante 20
+tchiba posts ante 20
+ACEost posts ante 20
+sabre_laser posts ante 20
+emilie49000 posts ante 20
+FataIBazooka posts small blind 150
+gnikgnok posts big blind 300
+Dealt to sabre_laser [8d Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+tchiba calls 300
+ACEost folds
+FataIBazooka folds
+gnikgnok checks
+*** FLOP *** [Kc Qd Ts]
+gnikgnok bets 300
+tchiba calls 300
+*** TURN *** [Kc Qd Ts][6h]
+gnikgnok bets 300
+tchiba calls 300
+*** RIVER *** [Kc Qd Ts 6h][8s]
+gnikgnok checks
+tchiba bets 300
+gnikgnok folds
+tchiba collected 2390 from pot
+*** SUMMARY ***
+Total pot 2390 | No rake
+Board: [Kc Qd Ts 6h 8s]
+Seat 2: tchiba won 2390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #501692247922704385-24-1429644521 - Holdem no limit (20/150/300) - 2015/04/21 19:28:41 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #4 is the button
+Seat 1: tiara64 (2885)
+Seat 2: tchiba (3933)
+Seat 3: ACEost (1210)
+Seat 4: FataIBazooka (1260)
+Seat 5: gnikgnok (2357)
+Seat 6: sabre_laser (1840)
+Seat 9: emilie49000 (1515)
+*** ANTE/BLINDS ***
+gnikgnok posts ante 20
+sabre_laser posts ante 20
+tiara64 posts ante 20
+tchiba posts ante 20
+ACEost posts ante 20
+FataIBazooka posts ante 20
+emilie49000 posts ante 20
+gnikgnok posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Jh 8c]
+*** PRE-FLOP *** 
+emilie49000 raises 1195 to 1495 and is all-in
+tiara64 folds
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 collected 2085 from pot
+*** SUMMARY ***
+Total pot 2085 | No rake
+Seat 9: emilie49000 won 2085
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #501692247922704385-25-1429644541 - Holdem no limit (20/150/300) - 2015/04/21 19:29:01 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #5 is the button
+Seat 1: tiara64 (2865)
+Seat 2: tchiba (3913)
+Seat 3: ACEost (1190)
+Seat 4: FataIBazooka (1240)
+Seat 5: gnikgnok (2187)
+Seat 6: sabre_laser (1520)
+Seat 9: emilie49000 (2085)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+emilie49000 posts ante 20
+tiara64 posts ante 20
+tchiba posts ante 20
+ACEost posts ante 20
+FataIBazooka posts ante 20
+gnikgnok posts ante 20
+sabre_laser posts small blind 150
+emilie49000 posts big blind 300
+Dealt to sabre_laser [4c 7h]
+*** PRE-FLOP *** 
+tiara64 raises 2545 to 2845 and is all-in
+tchiba calls 2845
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+*** FLOP *** [8h 5h Td]
+*** TURN *** [8h 5h Td][Qs]
+*** RIVER *** [8h 5h Td Qs][6d]
+*** SHOW DOWN ***
+tchiba shows [Ah Jd] (High card : Ace)
+tiara64 shows [Th Jh] (One pair : Tens)
+tiara64 collected 6280 from pot
+*** SUMMARY ***
+Total pot 6280 | No rake
+Board: [8h 5h Td Qs 6d]
+Seat 1: tiara64 showed [Th Jh] and won 6280 with One pair : Tens
+Seat 2: tchiba showed [Ah Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #501692247922704385-26-1429644600 - Holdem no limit (50/200/400) - 2015/04/21 19:30:00 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #6 is the button
+Seat 1: tiara64 (6280)
+Seat 2: tchiba (1048)
+Seat 3: ACEost (1170)
+Seat 4: FataIBazooka (1220)
+Seat 5: gnikgnok (2167)
+Seat 6: sabre_laser (1350)
+Seat 9: emilie49000 (1765)
+*** ANTE/BLINDS ***
+emilie49000 posts ante 50
+tiara64 posts ante 50
+tchiba posts ante 50
+ACEost posts ante 50
+FataIBazooka posts ante 50
+gnikgnok posts ante 50
+sabre_laser posts ante 50
+emilie49000 posts small blind 200
+tiara64 posts big blind 400
+Dealt to sabre_laser [Qc Td]
+*** PRE-FLOP *** 
+tchiba folds
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 1: tiara64 (big blind) won 950
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #501692247922704385-27-1429644650 - Holdem no limit (50/200/400) - 2015/04/21 19:30:50 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #9 is the button
+Seat 1: tiara64 (6780)
+Seat 2: tchiba (998)
+Seat 3: ACEost (1120)
+Seat 4: FataIBazooka (1170)
+Seat 5: gnikgnok (2117)
+Seat 6: sabre_laser (1300)
+Seat 9: emilie49000 (1515)
+*** ANTE/BLINDS ***
+tiara64 posts ante 50
+tchiba posts ante 50
+ACEost posts ante 50
+FataIBazooka posts ante 50
+gnikgnok posts ante 50
+sabre_laser posts ante 50
+emilie49000 posts ante 50
+tiara64 posts small blind 200
+tchiba posts big blind 400
+Dealt to sabre_laser [As 6h]
+*** PRE-FLOP *** 
+ACEost folds
+FataIBazooka folds
+gnikgnok raises 1667 to 2067 and is all-in
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+tchiba calls 548 and is all-in
+*** FLOP *** [Ac 3h 9s]
+*** TURN *** [Ac 3h 9s][7d]
+*** RIVER *** [Ac 3h 9s 7d][2s]
+*** SHOW DOWN ***
+tchiba shows [Jd Kc] (High card : Ace)
+gnikgnok shows [Kd Qs] (High card : Ace)
+gnikgnok collected 3565 from pot
+*** SUMMARY ***
+Total pot 3565 | No rake
+Board: [Ac 3h 9s 7d 2s]
+Seat 2: tchiba (big blind) showed [Jd Kc] and lost with High card : Ace
+Seat 5: gnikgnok showed [Kd Qs] and won 3565 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #501692247922704385-28-1429644678 - Holdem no limit (50/200/400) - 2015/04/21 19:31:18 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #1 is the button
+Seat 1: tiara64 (6530)
+Seat 3: ACEost (1070)
+Seat 4: FataIBazooka (1120)
+Seat 5: gnikgnok (3565)
+Seat 6: sabre_laser (1250)
+Seat 9: emilie49000 (1465)
+*** ANTE/BLINDS ***
+ACEost posts ante 50
+tiara64 posts ante 50
+FataIBazooka posts ante 50
+gnikgnok posts ante 50
+sabre_laser posts ante 50
+emilie49000 posts ante 50
+ACEost posts big blind 400
+Dealt to sabre_laser [Jd Qd]
+*** PRE-FLOP *** 
+FataIBazooka folds
+gnikgnok folds
+sabre_laser raises 800 to 1200 and is all-in
+emilie49000 folds
+tiara64 folds
+ACEost folds
+sabre_laser collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 6: sabre_laser won 1900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #501692247922704385-29-1429644708 - Holdem no limit (50/200/400) - 2015/04/21 19:31:48 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #2 is the button
+Seat 1: tiara64 (6480)
+Seat 3: ACEost (620)
+Seat 4: FataIBazooka (1070)
+Seat 5: gnikgnok (3515)
+Seat 6: sabre_laser (1900)
+Seat 9: emilie49000 (1415)
+*** ANTE/BLINDS ***
+ACEost posts ante 50
+FataIBazooka posts ante 50
+tiara64 posts ante 50
+gnikgnok posts ante 50
+sabre_laser posts ante 50
+emilie49000 posts ante 50
+ACEost posts small blind 200
+FataIBazooka posts big blind 400
+Dealt to sabre_laser [5c 4h]
+*** PRE-FLOP *** 
+gnikgnok raises 3065 to 3465 and is all-in
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+ACEost folds
+FataIBazooka folds
+gnikgnok collected 4365 from pot
+*** SUMMARY ***
+Total pot 4365 | No rake
+Seat 5: gnikgnok won 4365
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #501692247922704385-30-1429644753 - Holdem no limit (75/300/600) - 2015/04/21 19:32:33 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #3 is the button
+Seat 1: tiara64 (6430)
+Seat 3: ACEost (370)
+Seat 4: FataIBazooka (620)
+Seat 5: gnikgnok (4365)
+Seat 6: sabre_laser (1850)
+Seat 9: emilie49000 (1365)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 75
+gnikgnok posts ante 75
+tiara64 posts ante 75
+ACEost posts ante 75
+sabre_laser posts ante 75
+emilie49000 posts ante 75
+FataIBazooka posts small blind 300
+gnikgnok posts big blind 600
+Dealt to sabre_laser [7s 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+emilie49000 folds
+tiara64 folds
+ACEost folds
+FataIBazooka folds
+gnikgnok collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 5: gnikgnok (big blind) won 1350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #501692247922704385-31-1429644781 - Holdem no limit (75/300/600) - 2015/04/21 19:33:01 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #4 is the button
+Seat 1: tiara64 (6355)
+Seat 3: ACEost (295)
+Seat 4: FataIBazooka (245)
+Seat 5: gnikgnok (5040)
+Seat 6: sabre_laser (1775)
+Seat 9: emilie49000 (1290)
+*** ANTE/BLINDS ***
+gnikgnok posts ante 75
+sabre_laser posts ante 75
+tiara64 posts ante 75
+ACEost posts ante 75
+FataIBazooka posts ante 75
+emilie49000 posts ante 75
+gnikgnok posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [4s 5d]
+*** PRE-FLOP *** 
+emilie49000 folds
+tiara64 folds
+ACEost folds
+FataIBazooka folds
+gnikgnok raises 1200 to 1800
+sabre_laser folds
+gnikgnok collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Seat 5: gnikgnok (small blind) won 2850
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #501692247922704385-32-1429644804 - Holdem no limit (75/300/600) - 2015/04/21 19:33:24 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #5 is the button
+Seat 1: tiara64 (6280)
+Seat 3: ACEost (220)
+Seat 4: FataIBazooka (170)
+Seat 5: gnikgnok (6015)
+Seat 6: sabre_laser (1100)
+Seat 9: emilie49000 (1215)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+emilie49000 posts ante 75
+tiara64 posts ante 75
+ACEost posts ante 75
+FataIBazooka posts ante 75
+gnikgnok posts ante 75
+sabre_laser posts small blind 300
+emilie49000 posts big blind 600
+Dealt to sabre_laser [Td 9h]
+*** PRE-FLOP *** 
+tiara64 raises 600 to 1200
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 1: tiara64 won 2550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #501692247922704385-33-1429644819 - Holdem no limit (75/300/600) - 2015/04/21 19:33:39 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #6 is the button
+Seat 1: tiara64 (7555)
+Seat 3: ACEost (145)
+Seat 4: FataIBazooka (95)
+Seat 5: gnikgnok (5940)
+Seat 6: sabre_laser (725)
+Seat 9: emilie49000 (540)
+*** ANTE/BLINDS ***
+emilie49000 posts ante 75
+tiara64 posts ante 75
+ACEost posts ante 75
+FataIBazooka posts ante 75
+gnikgnok posts ante 75
+sabre_laser posts ante 75
+emilie49000 posts small blind 300
+tiara64 posts big blind 600
+Dealt to sabre_laser [6d Kh]
+*** PRE-FLOP *** 
+ACEost folds
+FataIBazooka folds
+gnikgnok folds
+sabre_laser folds
+emilie49000 folds
+tiara64 shows [4s Kc] (High card : King)
+tiara64 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 1: tiara64 (big blind) showed [4s Kc] and won 1350 with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #501692247922704385-34-1429644859 - Holdem no limit (75/300/600) - 2015/04/21 19:34:19 UTC
+Table: 'Double or Nothing(116809329)#0' 10-max (real money) Seat #9 is the button
+Seat 1: tiara64 (8230)
+Seat 3: ACEost (70)
+Seat 4: FataIBazooka (20)
+Seat 5: gnikgnok (5865)
+Seat 6: sabre_laser (650)
+Seat 9: emilie49000 (165)
+*** ANTE/BLINDS ***
+tiara64 posts ante 75
+ACEost posts ante 70 and is all-in
+FataIBazooka posts ante 20 and is all-in
+gnikgnok posts ante 75
+sabre_laser posts ante 75
+emilie49000 posts ante 75
+tiara64 posts small blind 300
+ACEost posts big blind 0 and is all-in
+Dealt to sabre_laser [9c Kd]
+*** PRE-FLOP *** 
+gnikgnok folds
+sabre_laser calls 575 and is all-in
+emilie49000 folds
+tiara64 folds
+*** FLOP *** [6c 3h Th]
+*** TURN *** [6c 3h Th][Ah]
+*** RIVER *** [6c 3h Th Ah][8c]
+*** SHOW DOWN ***
+FataIBazooka shows [9h 3s] (One pair : 3)
+ACEost shows [6s 9s] (One pair : 6)
+sabre_laser shows [9c Kd] (High card : Ace)
+sabre_laser collected 895 from side pot 1
+ACEost collected 370 from main pot
+*** SUMMARY ***
+Total pot 1265 | No rake
+Board: [6c 3h Th Ah 8c]
+Seat 3: ACEost (big blind) showed [6s 9s] and won 370 with One pair : 6
+Seat 4: FataIBazooka showed [9h 3s] and lost with One pair : 3
+Seat 6: sabre_laser showed [9c Kd] and won 895 with High card : Ace
+
+

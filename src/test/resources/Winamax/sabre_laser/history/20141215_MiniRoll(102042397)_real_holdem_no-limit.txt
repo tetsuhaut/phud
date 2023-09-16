@@ -1,0 +1,1285 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 0 - HandId: #438268757920448549-5-1418673061 - Holdem no limit (25/50) - 2014/12/15 19:51:01 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: aurelien1300 (11833)
+Seat 3: Sambarb (10500)
+Seat 4: damien d (9975)
+Seat 5: craytattoo76 (8442)
+Seat 6: Fasterking3 (9850)
+*** ANTE/BLINDS ***
+aurelien1300 posts small blind 25
+Sambarb posts big blind 50
+*** PRE-FLOP *** 
+damien d calls 50
+craytattoo76 raises 175 to 225
+aurelien1300 folds
+Sambarb calls 175
+damien d calls 175
+*** FLOP *** [Ah Ac Ts]
+Sambarb checks
+damien d checks
+craytattoo76 bets 50
+Sambarb calls 50
+damien d calls 50
+*** TURN *** [Ah Ac Ts][Kc]
+Sambarb bets 425
+damien d folds
+craytattoo76 raises 1700 to 2125
+Sambarb raises 1700 to 3825
+craytattoo76 raises 4342 to 8167 and is all-in
+Sambarb calls 4342
+*** RIVER *** [Ah Ac Ts Kc][7d]
+*** SHOW DOWN ***
+craytattoo76 shows [As Qd] (Trips of Aces)
+Sambarb shows [Qh Js] (Straight Ace high)
+Sambarb collected 17184 from pot
+*** SUMMARY ***
+Total pot 17184 | No rake
+Board: [Ah Ac Ts Kc 7d]
+Seat 3: Sambarb (big blind) showed [Qh Js] and won 17184 with Straight Ace high
+Seat 5: craytattoo76 showed [As Qd] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #438268757920448549-6-1418673194 - Holdem no limit (50/100) - 2014/12/15 19:53:14 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: aurelien1300 (11808)
+Seat 3: Sambarb (19242)
+Seat 4: damien d (9700)
+Seat 6: Fasterking3 (9850)
+*** ANTE/BLINDS ***
+Sambarb posts small blind 50
+damien d posts big blind 100
+Dealt to sabre_laser [Ac Ah]
+*** PRE-FLOP *** 
+Fasterking3 calls 100
+sabre_laser raises 400 to 500
+aurelien1300 folds
+Sambarb folds
+damien d calls 400
+Fasterking3 calls 400
+*** FLOP *** [6c Td 9c]
+damien d checks
+Fasterking3 checks
+sabre_laser checks
+*** TURN *** [6c Td 9c][9h]
+damien d checks
+Fasterking3 checks
+sabre_laser bets 550
+damien d folds
+Fasterking3 calls 550
+*** RIVER *** [6c Td 9c 9h][7h]
+Fasterking3 checks
+sabre_laser bets 750
+Fasterking3 raises 1700 to 2450
+sabre_laser calls 1700
+*** SHOW DOWN ***
+Fasterking3 shows [2d Kd] (One pair : 9)
+sabre_laser shows [Ac Ah] (Two pairs : Aces and 9)
+sabre_laser collected 7550 from pot
+*** SUMMARY ***
+Total pot 7550 | No rake
+Board: [6c Td 9c 9h 7h]
+Seat 1: sabre_laser showed [Ac Ah] and won 7550 with Two pairs : Aces and 9
+Seat 6: Fasterking3 showed [2d Kd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #438268757920448549-7-1418673300 - Holdem no limit (50/100) - 2014/12/15 19:55:00 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (14050)
+Seat 2: aurelien1300 (11808)
+Seat 3: Sambarb (19192)
+Seat 4: damien d (9200)
+Seat 5: CABASLOUP (10000)
+Seat 6: Fasterking3 (6350)
+*** ANTE/BLINDS ***
+damien d posts small blind 50
+CABASLOUP posts big blind 100
+Dealt to sabre_laser [8h Jh]
+*** PRE-FLOP *** 
+Fasterking3 folds
+sabre_laser folds
+aurelien1300 folds
+Sambarb raises 100 to 200
+damien d calls 150
+CABASLOUP calls 100
+*** FLOP *** [Td Qs 6d]
+damien d checks
+CABASLOUP bets 300
+Sambarb calls 300
+damien d folds
+*** TURN *** [Td Qs 6d][Ad]
+CABASLOUP checks
+Sambarb bets 800
+CABASLOUP calls 800
+*** RIVER *** [Td Qs 6d Ad][5d]
+CABASLOUP checks
+Sambarb bets 1400
+CABASLOUP raises 7300 to 8700 and is all-in
+Sambarb folds
+CABASLOUP collected 12900 from pot
+*** SUMMARY ***
+Total pot 12900 | No rake
+Board: [Td Qs 6d Ad 5d]
+Seat 5: CABASLOUP (big blind) won 12900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #438268757920448549-8-1418673600 - Holdem no limit (50/100) - 2014/12/15 20:00:00 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (14050)
+Seat 2: aurelien1300 (11808)
+Seat 3: Sambarb (16492)
+Seat 4: damien d (9000)
+Seat 5: CABASLOUP (12900)
+Seat 6: Fasterking3 (6350)
+*** ANTE/BLINDS ***
+CABASLOUP posts small blind 50
+Fasterking3 posts big blind 100
+Dealt to sabre_laser [6c Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+aurelien1300 calls 100
+Sambarb folds
+damien d calls 100
+CABASLOUP folds
+Fasterking3 checks
+*** FLOP *** [8h 4h Qh]
+Fasterking3 checks
+aurelien1300 bets 100
+damien d folds
+Fasterking3 folds
+aurelien1300 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [8h 4h Qh]
+Seat 2: aurelien1300 won 450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #438268757920448549-9-1418673701 - Holdem no limit (50/100) - 2014/12/15 20:01:41 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (14050)
+Seat 2: aurelien1300 (12058)
+Seat 3: Sambarb (16492)
+Seat 4: damien d (8900)
+Seat 5: CABASLOUP (12850)
+Seat 6: Fasterking3 (6250)
+*** ANTE/BLINDS ***
+Fasterking3 posts small blind 50
+sabre_laser posts big blind 100
+Dealt to sabre_laser [4h Qs]
+*** PRE-FLOP *** 
+aurelien1300 folds
+Sambarb folds
+damien d calls 100
+CABASLOUP folds
+Fasterking3 raises 100 to 200
+sabre_laser folds
+damien d calls 100
+*** FLOP *** [Js Kd Tc]
+Fasterking3 bets 250
+damien d folds
+Fasterking3 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Js Kd Tc]
+Seat 6: Fasterking3 (small blind) won 750
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #438268757920448549-10-1418673748 - Holdem no limit (50/100) - 2014/12/15 20:02:28 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (13950)
+Seat 2: aurelien1300 (12058)
+Seat 3: Sambarb (16492)
+Seat 4: damien d (8700)
+Seat 5: CABASLOUP (12850)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 50
+aurelien1300 posts big blind 100
+Dealt to sabre_laser [7h 3s]
+*** PRE-FLOP *** 
+Sambarb folds
+damien d calls 100
+CABASLOUP folds
+Fasterking3 folds
+sabre_laser calls 50
+aurelien1300 raises 100 to 200
+damien d calls 100
+sabre_laser calls 100
+*** FLOP *** [6h 8s 9c]
+sabre_laser bets 300
+aurelien1300 calls 300
+damien d folds
+*** TURN *** [6h 8s 9c][Td]
+sabre_laser bets 350
+aurelien1300 calls 350
+*** RIVER *** [6h 8s 9c Td][4s]
+sabre_laser bets 450
+aurelien1300 calls 450
+*** SHOW DOWN ***
+aurelien1300 shows [Kd 9s] (One pair : 9)
+sabre_laser shows [7h 3s] (Straight Ten high)
+sabre_laser collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [6h 8s 9c Td 4s]
+Seat 1: sabre_laser (small blind) showed [7h 3s] and won 2800 with Straight Ten high
+Seat 2: aurelien1300 (big blind) showed [Kd 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #438268757920448549-11-1418673831 - Holdem no limit (75/150) - 2014/12/15 20:03:51 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (15450)
+Seat 2: aurelien1300 (10758)
+Seat 3: Sambarb (16492)
+Seat 4: damien d (8500)
+Seat 5: CABASLOUP (12850)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+aurelien1300 posts small blind 75
+Sambarb posts big blind 150
+Dealt to sabre_laser [3c Jc]
+*** PRE-FLOP *** 
+damien d calls 150
+CABASLOUP folds
+Fasterking3 folds
+sabre_laser folds
+aurelien1300 calls 75
+Sambarb checks
+*** FLOP *** [7h 8c 7d]
+aurelien1300 checks
+Sambarb checks
+damien d checks
+*** TURN *** [7h 8c 7d][7c]
+aurelien1300 bets 150
+Sambarb folds
+damien d folds
+aurelien1300 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7h 8c 7d 7c]
+Seat 2: aurelien1300 (small blind) won 600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #438268757920448549-12-1418673887 - Holdem no limit (75/150) - 2014/12/15 20:04:47 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (15450)
+Seat 2: aurelien1300 (11058)
+Seat 3: Sambarb (16342)
+Seat 4: damien d (8350)
+Seat 5: CABASLOUP (12850)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+Sambarb posts small blind 75
+damien d posts big blind 150
+Dealt to sabre_laser [Kd 2c]
+*** PRE-FLOP *** 
+CABASLOUP folds
+Fasterking3 folds
+sabre_laser folds
+aurelien1300 calls 150
+Sambarb folds
+damien d checks
+*** FLOP *** [9d 2s Tc]
+damien d bets 150
+aurelien1300 calls 150
+*** TURN *** [9d 2s Tc][Jd]
+damien d bets 150
+aurelien1300 calls 150
+*** RIVER *** [9d 2s Tc Jd][7d]
+damien d bets 150
+aurelien1300 calls 150
+*** SHOW DOWN ***
+aurelien1300 shows [9h Ks] (One pair : 9)
+damien d shows [Jc 8c] (Straight Jack high)
+damien d collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Board: [9d 2s Tc Jd 7d]
+Seat 2: aurelien1300 (button) showed [9h Ks] and lost with One pair : 9
+Seat 4: damien d (big blind) showed [Jc 8c] and won 1275 with Straight Jack high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #438268757920448549-13-1418673939 - Holdem no limit (75/150) - 2014/12/15 20:05:39 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (15450)
+Seat 2: aurelien1300 (10458)
+Seat 3: Sambarb (16267)
+Seat 4: damien d (9025)
+Seat 5: CABASLOUP (12850)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+damien d posts small blind 75
+CABASLOUP posts big blind 150
+Dealt to sabre_laser [Tc 9c]
+*** PRE-FLOP *** 
+Fasterking3 folds
+sabre_laser raises 225 to 375
+aurelien1300 calls 375
+Sambarb folds
+damien d calls 300
+CABASLOUP folds
+*** FLOP *** [Ks Ah Kd]
+damien d checks
+sabre_laser checks
+aurelien1300 checks
+*** TURN *** [Ks Ah Kd][Ad]
+damien d checks
+sabre_laser bets 638
+aurelien1300 folds
+damien d calls 638
+*** RIVER *** [Ks Ah Kd Ad][6c]
+damien d bets 8012 and is all-in
+sabre_laser folds
+damien d collected 10563 from pot
+*** SUMMARY ***
+Total pot 10563 | No rake
+Board: [Ks Ah Kd Ad 6c]
+Seat 4: damien d (small blind) won 10563
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #438268757920448549-14-1418674028 - Holdem no limit (75/150) - 2014/12/15 20:07:08 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (14437)
+Seat 2: aurelien1300 (10083)
+Seat 3: Sambarb (16267)
+Seat 4: damien d (10563)
+Seat 5: CABASLOUP (12700)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+CABASLOUP posts small blind 75
+Fasterking3 posts big blind 150
+Dealt to sabre_laser [2c 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+aurelien1300 folds
+Sambarb folds
+damien d folds
+CABASLOUP folds
+Fasterking3 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 6: Fasterking3 (big blind) won 225
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #438268757920448549-15-1418674046 - Holdem no limit (75/150) - 2014/12/15 20:07:26 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (14437)
+Seat 2: aurelien1300 (10083)
+Seat 3: Sambarb (16267)
+Seat 4: damien d (10563)
+Seat 5: CABASLOUP (12625)
+Seat 6: Fasterking3 (6625)
+*** ANTE/BLINDS ***
+Fasterking3 posts small blind 75
+sabre_laser posts big blind 150
+Dealt to sabre_laser [9c 7d]
+*** PRE-FLOP *** 
+aurelien1300 folds
+Sambarb raises 300 to 450
+damien d calls 450
+CABASLOUP folds
+Fasterking3 folds
+sabre_laser folds
+*** FLOP *** [6h 9h Js]
+Sambarb bets 1125
+damien d calls 1125
+*** TURN *** [6h 9h Js][2d]
+Sambarb bets 1688
+damien d raises 7300 to 8988 and is all-in
+Sambarb folds
+damien d collected 14051 from pot
+*** SUMMARY ***
+Total pot 14051 | No rake
+Board: [6h 9h Js 2d]
+Seat 4: damien d won 14051
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #438268757920448549-16-1418674132 - Holdem no limit (100/200) - 2014/12/15 20:08:52 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (14287)
+Seat 2: aurelien1300 (10083)
+Seat 3: Sambarb (13004)
+Seat 4: damien d (14051)
+Seat 5: CABASLOUP (12625)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 100
+aurelien1300 posts big blind 200
+Dealt to sabre_laser [7s 5d]
+*** PRE-FLOP *** 
+Sambarb folds
+damien d calls 200
+CABASLOUP folds
+Fasterking3 folds
+sabre_laser calls 100
+aurelien1300 checks
+*** FLOP *** [7d 9s 6s]
+sabre_laser checks
+aurelien1300 bets 200
+damien d calls 200
+sabre_laser calls 200
+*** TURN *** [7d 9s 6s][Qc]
+sabre_laser checks
+aurelien1300 bets 200
+damien d calls 200
+sabre_laser folds
+*** RIVER *** [7d 9s 6s Qc][7c]
+aurelien1300 bets 500
+damien d folds
+aurelien1300 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [7d 9s 6s Qc 7c]
+Seat 2: aurelien1300 (big blind) won 2100
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #438268757920448549-17-1418674209 - Holdem no limit (100/200) - 2014/12/15 20:10:09 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (13887)
+Seat 2: aurelien1300 (11083)
+Seat 3: Sambarb (13004)
+Seat 4: damien d (13451)
+Seat 5: CABASLOUP (12625)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+aurelien1300 posts small blind 100
+Sambarb posts big blind 200
+Dealt to sabre_laser [2s Ts]
+*** PRE-FLOP *** 
+damien d calls 200
+CABASLOUP folds
+Fasterking3 folds
+sabre_laser folds
+aurelien1300 raises 200 to 400
+Sambarb folds
+damien d calls 200
+*** FLOP *** [Ah 3d 8c]
+aurelien1300 bets 200
+damien d calls 200
+*** TURN *** [Ah 3d 8c][6c]
+aurelien1300 bets 200
+damien d raises 200 to 400
+aurelien1300 raises 200 to 600
+damien d calls 200
+*** RIVER *** [Ah 3d 8c 6c][8h]
+aurelien1300 bets 1000
+damien d calls 1000
+*** SHOW DOWN ***
+aurelien1300 shows [2h 4s] (One pair : 8)
+damien d shows [Ad 2c] (Two pairs : Aces and 8)
+damien d collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Board: [Ah 3d 8c 6c 8h]
+Seat 2: aurelien1300 (small blind) showed [2h 4s] and lost with One pair : 8
+Seat 4: damien d showed [Ad 2c] and won 4600 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #438268757920448549-18-1418674262 - Holdem no limit (100/200) - 2014/12/15 20:11:02 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (13887)
+Seat 2: aurelien1300 (8883)
+Seat 3: Sambarb (12804)
+Seat 4: damien d (15851)
+Seat 5: CABASLOUP (12625)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+Sambarb posts small blind 100
+damien d posts big blind 200
+Dealt to sabre_laser [Ac 2c]
+*** PRE-FLOP *** 
+CABASLOUP folds
+Fasterking3 folds
+sabre_laser raises 300 to 500
+aurelien1300 calls 500
+Sambarb calls 400
+damien d calls 300
+*** FLOP *** [6c Jd 5s]
+Sambarb checks
+damien d checks
+sabre_laser folds
+aurelien1300 checks
+*** TURN *** [6c Jd 5s][3s]
+Sambarb checks
+damien d checks
+aurelien1300 checks
+*** RIVER *** [6c Jd 5s 3s][Kd]
+Sambarb checks
+damien d bets 200
+aurelien1300 folds
+Sambarb calls 200
+*** SHOW DOWN ***
+Sambarb shows [Ad Qs] (High card : Ace)
+damien d shows [8c Jh] (One pair : Jacks)
+damien d collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [6c Jd 5s 3s Kd]
+Seat 3: Sambarb (small blind) showed [Ad Qs] and lost with High card : Ace
+Seat 4: damien d (big blind) showed [8c Jh] and won 2400 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #438268757920448549-19-1418674354 - Holdem no limit (100/200) - 2014/12/15 20:12:34 UTC
+Table: 'MiniRoll(102042397)#036' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (13387)
+Seat 2: aurelien1300 (8383)
+Seat 3: Sambarb (12104)
+Seat 4: damien d (17551)
+Seat 5: la mano 56 (1877)
+Seat 6: Fasterking3 (6550)
+*** ANTE/BLINDS ***
+damien d posts small blind 100
+la mano 56 posts big blind 200
+Dealt to sabre_laser [3d Ts]
+*** PRE-FLOP *** 
+Fasterking3 folds
+sabre_laser folds
+aurelien1300 calls 200
+Sambarb raises 600 to 800
+damien d folds
+la mano 56 raises 1077 to 1877 and is all-in
+aurelien1300 calls 1677
+Sambarb calls 1077
+*** FLOP *** [5h 7h 7d]
+aurelien1300 checks
+Sambarb bets 5731
+aurelien1300 folds
+*** TURN *** [5h 7h 7d][4s]
+*** RIVER *** [5h 7h 7d 4s][Js]
+*** SHOW DOWN ***
+la mano 56 shows [5d 2d] (Two pairs : 7 and 5)
+Sambarb shows [Tc Ad] (One pair : 7)
+Sambarb collected 5731 from side pot 1
+la mano 56 collected 5731 from main pot
+*** SUMMARY ***
+Total pot 11462 | No rake
+Board: [5h 7h 7d 4s Js]
+Seat 3: Sambarb (button) showed [Tc Ad] and won 5731 with One pair : 7
+Seat 5: la mano 56 (big blind) showed [5d 2d] and won 5731 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #438268757920448751-1-1418674407 - Holdem no limit (100/200) - 2014/12/15 20:13:27 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (13387)
+Seat 2: papatte39 (10000)
+Seat 4: vincew7 (7675)
+Seat 5: Diego soa (10675)
+Seat 6: matan62 (24716)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 100
+papatte39 posts big blind 200
+Dealt to sabre_laser [Kd Qh]
+*** PRE-FLOP *** 
+vincew7 folds
+Diego soa raises 600 to 800
+matan62 calls 800
+sabre_laser folds
+papatte39 folds
+*** FLOP *** [9d Kc 4d]
+Diego soa bets 1900
+matan62 folds
+Diego soa collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [9d Kc 4d]
+Seat 5: Diego soa won 3800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #438268757920448751-2-1418674545 - Holdem no limit (150/300) - 2014/12/15 20:15:45 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (13287)
+Seat 2: papatte39 (9800)
+Seat 3: C.rien (10000)
+Seat 4: vincew7 (7675)
+Seat 5: Diego soa (11775)
+Seat 6: matan62 (23916)
+*** ANTE/BLINDS ***
+papatte39 posts small blind 150
+C.rien posts big blind 300
+Dealt to sabre_laser [4s 7d]
+*** PRE-FLOP *** 
+vincew7 folds
+Diego soa folds
+matan62 folds
+sabre_laser raises 600 to 900
+papatte39 folds
+C.rien calls 600
+*** FLOP *** [Ad 7h 6s]
+C.rien checks
+sabre_laser bets 1463
+C.rien folds
+sabre_laser collected 3413 from pot
+*** SUMMARY ***
+Total pot 3413 | No rake
+Board: [Ad 7h 6s]
+Seat 1: sabre_laser (button) won 3413
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #438268757920448751-3-1418674625 - Holdem no limit (150/300) - 2014/12/15 20:17:05 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (14337)
+Seat 2: papatte39 (9650)
+Seat 3: C.rien (9100)
+Seat 4: vincew7 (7675)
+Seat 5: Diego soa (11775)
+Seat 6: matan62 (23916)
+*** ANTE/BLINDS ***
+C.rien posts small blind 150
+vincew7 posts big blind 300
+Dealt to sabre_laser [Jd 9c]
+*** PRE-FLOP *** 
+Diego soa folds
+matan62 folds
+sabre_laser raises 300 to 600
+papatte39 folds
+C.rien folds
+vincew7 folds
+sabre_laser collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 1: sabre_laser won 1050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #438268757920448751-4-1418674651 - Holdem no limit (150/300) - 2014/12/15 20:17:31 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (14787)
+Seat 2: papatte39 (9650)
+Seat 3: C.rien (8950)
+Seat 4: vincew7 (7375)
+Seat 5: Diego soa (11775)
+Seat 6: matan62 (23916)
+*** ANTE/BLINDS ***
+vincew7 posts small blind 150
+Diego soa posts big blind 300
+Dealt to sabre_laser [5h 5d]
+*** PRE-FLOP *** 
+matan62 folds
+sabre_laser calls 300
+papatte39 folds
+C.rien calls 300
+vincew7 calls 150
+Diego soa checks
+*** FLOP *** [2h Kh Ac]
+vincew7 checks
+Diego soa checks
+sabre_laser checks
+C.rien checks
+*** TURN *** [2h Kh Ac][9s]
+vincew7 checks
+Diego soa bets 300
+sabre_laser folds
+C.rien folds
+vincew7 raises 300 to 600
+Diego soa calls 300
+*** RIVER *** [2h Kh Ac 9s][6s]
+vincew7 checks
+Diego soa checks
+*** SHOW DOWN ***
+Diego soa shows [5c 9d] (One pair : 9)
+vincew7 shows [Th Ks] (One pair : Kings)
+vincew7 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [2h Kh Ac 9s 6s]
+Seat 4: vincew7 (small blind) showed [Th Ks] and won 2400 with One pair : Kings
+Seat 5: Diego soa (big blind) showed [5c 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #438268757920448751-5-1418674736 - Holdem no limit (150/300) - 2014/12/15 20:18:56 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (14487)
+Seat 2: papatte39 (9650)
+Seat 3: C.rien (8650)
+Seat 4: vincew7 (8875)
+Seat 5: Diego soa (10875)
+Seat 6: matan62 (23916)
+*** ANTE/BLINDS ***
+Diego soa posts small blind 150
+matan62 posts big blind 300
+Dealt to sabre_laser [6s 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+papatte39 folds
+C.rien folds
+vincew7 folds
+Diego soa folds
+matan62 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 6: matan62 (big blind) won 450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #438268757920448751-6-1418674787 - Holdem no limit (150/300) - 2014/12/15 20:19:47 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (14487)
+Seat 2: papatte39 (9650)
+Seat 3: C.rien (8650)
+Seat 4: vincew7 (8875)
+Seat 5: Diego soa (10725)
+Seat 6: matan62 (24066)
+*** ANTE/BLINDS ***
+matan62 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [3d 5d]
+*** PRE-FLOP *** 
+papatte39 folds
+C.rien folds
+vincew7 calls 300
+Diego soa calls 300
+matan62 calls 150
+sabre_laser checks
+*** FLOP *** [7h Kd 6h]
+matan62 checks
+sabre_laser bets 600
+vincew7 folds
+Diego soa folds
+matan62 folds
+sabre_laser collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [7h Kd 6h]
+Seat 1: sabre_laser (big blind) won 1800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #438268757920448751-7-1418674849 - Holdem no limit (25/150/300) - 2014/12/15 20:20:49 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (15387)
+Seat 2: papatte39 (9650)
+Seat 3: C.rien (8650)
+Seat 4: vincew7 (8575)
+Seat 5: Diego soa (10425)
+Seat 6: matan62 (23766)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+papatte39 posts ante 25
+C.rien posts ante 25
+vincew7 posts ante 25
+Diego soa posts ante 25
+matan62 posts ante 25
+sabre_laser posts small blind 150
+papatte39 posts big blind 300
+Dealt to sabre_laser [As 9h]
+*** PRE-FLOP *** 
+C.rien calls 300
+vincew7 folds
+Diego soa folds
+matan62 folds
+sabre_laser raises 600 to 900
+papatte39 folds
+C.rien raises 7725 to 8625 and is all-in
+sabre_laser calls 7725
+*** FLOP *** [Td Kc 8d]
+*** TURN *** [Td Kc 8d][6d]
+*** RIVER *** [Td Kc 8d 6d][3h]
+*** SHOW DOWN ***
+sabre_laser shows [As 9h] (High card : Ace)
+C.rien shows [Qd Kh] (One pair : Kings)
+C.rien collected 17700 from pot
+*** SUMMARY ***
+Total pot 17700 | No rake
+Board: [Td Kc 8d 6d 3h]
+Seat 1: sabre_laser (small blind) showed [As 9h] and lost with High card : Ace
+Seat 3: C.rien showed [Qd Kh] and won 17700 with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #438268757920448751-8-1418674935 - Holdem no limit (25/150/300) - 2014/12/15 20:22:15 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (6737)
+Seat 2: papatte39 (9325)
+Seat 3: C.rien (17700)
+Seat 4: vincew7 (8550)
+Seat 5: Diego soa (10400)
+Seat 6: matan62 (23741)
+*** ANTE/BLINDS ***
+papatte39 posts ante 25
+C.rien posts ante 25
+sabre_laser posts ante 25
+vincew7 posts ante 25
+Diego soa posts ante 25
+matan62 posts ante 25
+papatte39 posts small blind 150
+C.rien posts big blind 300
+Dealt to sabre_laser [4c 7s]
+*** PRE-FLOP *** 
+vincew7 calls 300
+Diego soa folds
+matan62 folds
+sabre_laser folds
+papatte39 folds
+C.rien checks
+*** FLOP *** [Qs 2d 5c]
+C.rien checks
+vincew7 bets 300
+C.rien folds
+vincew7 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Qs 2d 5c]
+Seat 4: vincew7 won 1200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #438268757920448751-9-1418674970 - Holdem no limit (25/150/300) - 2014/12/15 20:22:50 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (6712)
+Seat 2: papatte39 (9150)
+Seat 3: C.rien (17375)
+Seat 4: vincew7 (9125)
+Seat 5: Diego soa (10375)
+Seat 6: matan62 (23716)
+*** ANTE/BLINDS ***
+C.rien posts ante 25
+vincew7 posts ante 25
+sabre_laser posts ante 25
+papatte39 posts ante 25
+Diego soa posts ante 25
+matan62 posts ante 25
+C.rien posts small blind 150
+vincew7 posts big blind 300
+Dealt to sabre_laser [7h Ks]
+*** PRE-FLOP *** 
+Diego soa calls 300
+matan62 calls 300
+sabre_laser folds
+papatte39 folds
+C.rien calls 150
+vincew7 checks
+*** FLOP *** [8s 6s 3c]
+C.rien checks
+vincew7 checks
+Diego soa checks
+matan62 checks
+*** TURN *** [8s 6s 3c][9h]
+C.rien checks
+vincew7 bets 300
+Diego soa folds
+matan62 calls 300
+C.rien calls 300
+*** RIVER *** [8s 6s 3c 9h][Tc]
+C.rien checks
+vincew7 bets 1050
+matan62 calls 1050
+C.rien folds
+*** SHOW DOWN ***
+matan62 shows [As 6h] (One pair : 6)
+vincew7 shows [Ts 9s] (Two pairs : Tens and 9)
+vincew7 collected 4350 from pot
+*** SUMMARY ***
+Total pot 4350 | No rake
+Board: [8s 6s 3c 9h Tc]
+Seat 4: vincew7 (big blind) showed [Ts 9s] and won 4350 with Two pairs : Tens and 9
+Seat 6: matan62 showed [As 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #438268757920448751-10-1418675077 - Holdem no limit (25/150/300) - 2014/12/15 20:24:37 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (6687)
+Seat 2: papatte39 (9125)
+Seat 3: C.rien (16750)
+Seat 4: vincew7 (11800)
+Seat 5: Diego soa (10050)
+Seat 6: matan62 (22041)
+*** ANTE/BLINDS ***
+vincew7 posts ante 25
+Diego soa posts ante 25
+sabre_laser posts ante 25
+papatte39 posts ante 25
+C.rien posts ante 25
+matan62 posts ante 25
+vincew7 posts small blind 150
+Diego soa posts big blind 300
+Dealt to sabre_laser [Kh 7s]
+*** PRE-FLOP *** 
+matan62 folds
+sabre_laser folds
+papatte39 folds
+C.rien folds
+vincew7 raises 300 to 600
+Diego soa folds
+vincew7 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 4: vincew7 (small blind) won 1050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #438268757920448751-11-1418675109 - Holdem no limit (25/150/300) - 2014/12/15 20:25:09 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (6662)
+Seat 2: papatte39 (9100)
+Seat 3: thibalvls (15675)
+Seat 4: vincew7 (12225)
+Seat 5: Diego soa (9725)
+Seat 6: matan62 (22016)
+*** ANTE/BLINDS ***
+Diego soa posts ante 25
+matan62 posts ante 25
+sabre_laser posts ante 25
+papatte39 posts ante 25
+thibalvls posts ante 25
+vincew7 posts ante 25
+Diego soa posts small blind 150
+matan62 posts big blind 300
+Dealt to sabre_laser [Th Td]
+*** PRE-FLOP *** 
+sabre_laser raises 300 to 600
+papatte39 calls 600
+thibalvls folds
+vincew7 folds
+Diego soa folds
+matan62 calls 300
+*** FLOP *** [9c 7s Kh]
+matan62 checks
+sabre_laser checks
+papatte39 checks
+*** TURN *** [9c 7s Kh][Kc]
+matan62 checks
+sabre_laser checks
+papatte39 checks
+*** RIVER *** [9c 7s Kh Kc][Jc]
+matan62 checks
+sabre_laser bets 450
+papatte39 raises 8025 to 8475 and is all-in
+matan62 folds
+sabre_laser folds
+papatte39 shows [Ts 8s] (Straight Jack high)
+papatte39 collected 11025 from pot
+*** SUMMARY ***
+Total pot 11025 | No rake
+Board: [9c 7s Kh Kc Jc]
+Seat 2: papatte39 showed [Ts 8s] and won 11025 with Straight Jack high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #438268757920448751-12-1418675223 - Holdem no limit (30/200/400) - 2014/12/15 20:27:03 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (5587)
+Seat 2: papatte39 (11025)
+Seat 3: thibalvls (15650)
+Seat 4: vincew7 (12200)
+Seat 5: Diego soa (9550)
+Seat 6: matan62 (21391)
+*** ANTE/BLINDS ***
+matan62 posts ante 30
+sabre_laser posts ante 30
+papatte39 posts ante 30
+thibalvls posts ante 30
+vincew7 posts ante 30
+Diego soa posts ante 30
+matan62 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [9h 8s]
+*** PRE-FLOP *** 
+papatte39 folds
+thibalvls folds
+vincew7 folds
+Diego soa folds
+matan62 calls 200
+sabre_laser checks
+*** FLOP *** [7d Kc Jd]
+matan62 checks
+sabre_laser bets 980
+matan62 folds
+sabre_laser collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [7d Kc Jd]
+Seat 1: sabre_laser (big blind) won 1960
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #438268757920448751-13-1418675274 - Holdem no limit (30/200/400) - 2014/12/15 20:27:54 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (6137)
+Seat 2: papatte39 (10995)
+Seat 3: thibalvls (15620)
+Seat 4: vincew7 (12170)
+Seat 5: Diego soa (9520)
+Seat 6: matan62 (20961)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 30
+papatte39 posts ante 30
+thibalvls posts ante 30
+vincew7 posts ante 30
+Diego soa posts ante 30
+matan62 posts ante 30
+sabre_laser posts small blind 200
+papatte39 posts big blind 400
+Dealt to sabre_laser [Ah 2h]
+*** PRE-FLOP *** 
+thibalvls raises 600 to 1000
+vincew7 folds
+Diego soa folds
+matan62 folds
+sabre_laser calls 800
+papatte39 calls 600
+*** FLOP *** [8s Kc 7d]
+sabre_laser checks
+papatte39 checks
+thibalvls bets 1200
+sabre_laser folds
+papatte39 calls 1200
+*** TURN *** [8s Kc 7d][Qd]
+papatte39 checks
+thibalvls bets 2200
+papatte39 calls 2200
+*** RIVER *** [8s Kc 7d Qd][As]
+papatte39 checks
+thibalvls bets 5200
+papatte39 folds
+thibalvls collected 15180 from pot
+*** SUMMARY ***
+Total pot 15180 | No rake
+Board: [8s Kc 7d Qd As]
+Seat 3: thibalvls won 15180
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #438268757920448751-14-1418675380 - Holdem no limit (30/200/400) - 2014/12/15 20:29:40 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (5107)
+Seat 2: papatte39 (6565)
+Seat 3: thibalvls (21170)
+Seat 4: vincew7 (12140)
+Seat 5: Diego soa (9490)
+Seat 6: matan62 (20931)
+*** ANTE/BLINDS ***
+papatte39 posts ante 30
+thibalvls posts ante 30
+sabre_laser posts ante 30
+vincew7 posts ante 30
+Diego soa posts ante 30
+matan62 posts ante 30
+papatte39 posts small blind 200
+thibalvls posts big blind 400
+Dealt to sabre_laser [2d 6d]
+*** PRE-FLOP *** 
+vincew7 folds
+Diego soa folds
+matan62 calls 400
+sabre_laser folds
+papatte39 calls 200
+thibalvls checks
+*** FLOP *** [6c 8d Ac]
+papatte39 checks
+thibalvls checks
+matan62 checks
+*** TURN *** [6c 8d Ac][4d]
+papatte39 checks
+thibalvls checks
+matan62 checks
+*** RIVER *** [6c 8d Ac 4d][Kd]
+papatte39 checks
+thibalvls checks
+matan62 checks
+*** SHOW DOWN ***
+thibalvls shows [3h 4h] (One pair : 4)
+matan62 shows [Td Qs] (High card : Ace)
+papatte39 shows [Js 6s] (One pair : 6)
+papatte39 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [6c 8d Ac 4d Kd]
+Seat 2: papatte39 (small blind) showed [Js 6s] and won 1380 with One pair : 6
+Seat 3: thibalvls (big blind) showed [3h 4h] and lost with One pair : 4
+Seat 6: matan62 showed [Td Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #438268757920448751-15-1418675449 - Holdem no limit (30/200/400) - 2014/12/15 20:30:49 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (5077)
+Seat 2: papatte39 (7515)
+Seat 3: thibalvls (20740)
+Seat 4: vincew7 (12110)
+Seat 5: Diego soa (9460)
+Seat 6: matan62 (20501)
+*** ANTE/BLINDS ***
+thibalvls posts ante 30
+vincew7 posts ante 30
+sabre_laser posts ante 30
+papatte39 posts ante 30
+Diego soa posts ante 30
+matan62 posts ante 30
+thibalvls posts small blind 200
+vincew7 posts big blind 400
+Dealt to sabre_laser [Qs Kd]
+*** PRE-FLOP *** 
+Diego soa calls 400
+matan62 calls 400
+sabre_laser folds
+papatte39 calls 400
+thibalvls calls 200
+vincew7 checks
+*** FLOP *** [4c 3h Kh]
+thibalvls checks
+vincew7 checks
+Diego soa checks
+matan62 bets 2180
+papatte39 folds
+thibalvls folds
+vincew7 folds
+Diego soa folds
+matan62 collected 4360 from pot
+*** SUMMARY ***
+Total pot 4360 | No rake
+Board: [4c 3h Kh]
+Seat 6: matan62 won 4360
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #438268757920448751-16-1418675515 - Holdem no limit (30/200/400) - 2014/12/15 20:31:55 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (5047)
+Seat 2: papatte39 (7085)
+Seat 3: thibalvls (20310)
+Seat 4: vincew7 (11680)
+Seat 5: Diego soa (9030)
+Seat 6: matan62 (22251)
+*** ANTE/BLINDS ***
+vincew7 posts ante 30
+Diego soa posts ante 30
+sabre_laser posts ante 30
+papatte39 posts ante 30
+thibalvls posts ante 30
+matan62 posts ante 30
+vincew7 posts small blind 200
+Diego soa posts big blind 400
+Dealt to sabre_laser [2s 6d]
+*** PRE-FLOP *** 
+matan62 calls 400
+sabre_laser folds
+papatte39 calls 400
+thibalvls calls 400
+vincew7 calls 200
+Diego soa checks
+*** FLOP *** [Qd Qh Jh]
+vincew7 checks
+Diego soa checks
+matan62 checks
+papatte39 checks
+thibalvls checks
+*** TURN *** [Qd Qh Jh][Kc]
+vincew7 bets 600
+Diego soa folds
+matan62 calls 600
+papatte39 calls 600
+thibalvls folds
+*** RIVER *** [Qd Qh Jh Kc][4h]
+vincew7 bets 2000
+matan62 folds
+papatte39 folds
+vincew7 collected 5980 from pot
+*** SUMMARY ***
+Total pot 5980 | No rake
+Board: [Qd Qh Jh Kc 4h]
+Seat 4: vincew7 (small blind) won 5980
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #438268757920448751-17-1418675612 - Holdem no limit (40/250/500) - 2014/12/15 20:33:32 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (5017)
+Seat 2: papatte39 (6055)
+Seat 3: thibalvls (19880)
+Seat 4: vincew7 (14630)
+Seat 5: Diego soa (8600)
+Seat 6: matan62 (21221)
+*** ANTE/BLINDS ***
+Diego soa posts ante 40
+matan62 posts ante 40
+sabre_laser posts ante 40
+papatte39 posts ante 40
+thibalvls posts ante 40
+vincew7 posts ante 40
+Diego soa posts small blind 250
+matan62 posts big blind 500
+Dealt to sabre_laser [9c 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+papatte39 folds
+thibalvls folds
+vincew7 folds
+Diego soa folds
+matan62 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 6: matan62 (big blind) won 990
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #438268757920448751-18-1418675670 - Holdem no limit (40/250/500) - 2014/12/15 20:34:30 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (4977)
+Seat 2: papatte39 (6015)
+Seat 3: thibalvls (19840)
+Seat 4: vincew7 (14590)
+Seat 5: Diego soa (8310)
+Seat 6: matan62 (21671)
+*** ANTE/BLINDS ***
+matan62 posts ante 40
+sabre_laser posts ante 40
+papatte39 posts ante 40
+thibalvls posts ante 40
+vincew7 posts ante 40
+Diego soa posts ante 40
+matan62 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [Kh Tc]
+*** PRE-FLOP *** 
+papatte39 calls 500
+thibalvls raises 750 to 1250
+vincew7 folds
+Diego soa folds
+matan62 calls 1000
+sabre_laser folds
+papatte39 calls 750
+*** FLOP *** [Qc 2h Td]
+matan62 checks
+papatte39 bets 500
+thibalvls folds
+matan62 calls 500
+*** TURN *** [Qc 2h Td][9s]
+matan62 bets 19881 and is all-in
+papatte39 folds
+matan62 collected 25371 from pot
+*** SUMMARY ***
+Total pot 25371 | No rake
+Board: [Qc 2h Td 9s]
+Seat 6: matan62 (small blind) won 25371
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #438268757920448751-19-1418675734 - Holdem no limit (40/250/500) - 2014/12/15 20:35:34 UTC
+Table: 'MiniRoll(102042397)#238' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (4437)
+Seat 2: papatte39 (4225)
+Seat 3: thibalvls (18550)
+Seat 4: vincew7 (14550)
+Seat 5: Diego soa (8270)
+Seat 6: matan62 (25371)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+papatte39 posts ante 40
+thibalvls posts ante 40
+vincew7 posts ante 40
+Diego soa posts ante 40
+matan62 posts ante 40
+sabre_laser posts small blind 250
+papatte39 posts big blind 500
+Dealt to sabre_laser [6s 8h]
+*** PRE-FLOP *** 
+thibalvls calls 500
+vincew7 folds
+Diego soa folds
+matan62 folds
+sabre_laser calls 250
+papatte39 checks
+*** FLOP *** [Td Qc 8s]
+sabre_laser bets 3897 and is all-in
+papatte39 folds
+thibalvls calls 3897
+*** TURN *** [Td Qc 8s][5h]
+*** RIVER *** [Td Qc 8s 5h][Ac]
+*** SHOW DOWN ***
+sabre_laser shows [6s 8h] (One pair : 8)
+thibalvls shows [Tc Qs] (Two pairs : Queens and Tens)
+thibalvls collected 9534 from pot
+*** SUMMARY ***
+Total pot 9534 | No rake
+Board: [Td Qc 8s 5h Ac]
+Seat 1: sabre_laser (small blind) showed [6s 8h] and lost with One pair : 8
+Seat 3: thibalvls showed [Tc Qs] and won 9534 with Two pairs : Queens and Tens
+
+

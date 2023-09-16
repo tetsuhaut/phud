@@ -1,0 +1,1256 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559228149510963201-1-1441829157 - Holdem no limit (10/20) - 2015/09/09 20:05:57 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HeadsOrTails (1500)
+Seat 2: Archantho (1500)
+Seat 3: FIRLOU (1500)
+Seat 4: dreamz56 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: BZHlich (1500)
+Seat 7: r9bis (1500)
+Seat 8: eli vonallen (1500)
+Seat 9: liodu46 (1500)
+Seat 10: coraralie31 (1500)
+*** ANTE/BLINDS ***
+HeadsOrTails posts small blind 10
+Archantho posts big blind 20
+Dealt to sabre_laser [Kc Qc]
+*** PRE-FLOP *** 
+FIRLOU folds
+dreamz56 folds
+sabre_laser raises 40 to 60
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+coraralie31 folds
+HeadsOrTails calls 50
+Archantho calls 40
+*** FLOP *** [7h 9s As]
+HeadsOrTails checks
+Archantho checks
+sabre_laser bets 90
+HeadsOrTails folds
+Archantho raises 110 to 200
+sabre_laser folds
+Archantho collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [7h 9s As]
+Seat 2: Archantho (big blind) won 470
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559228149510963201-2-1441829298 - Holdem no limit (10/20) - 2015/09/09 20:08:18 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HeadsOrTails (1440)
+Seat 2: Archantho (1710)
+Seat 3: FIRLOU (1500)
+Seat 4: dreamz56 (1500)
+Seat 5: sabre_laser (1350)
+Seat 6: BZHlich (1500)
+Seat 7: r9bis (1500)
+Seat 8: eli vonallen (1500)
+Seat 9: liodu46 (1500)
+Seat 10: coraralie31 (1500)
+*** ANTE/BLINDS ***
+Archantho posts small blind 10
+FIRLOU posts big blind 20
+Dealt to sabre_laser [Qh 7s]
+*** PRE-FLOP *** 
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+coraralie31 calls 20
+HeadsOrTails folds
+Archantho calls 10
+FIRLOU checks
+*** FLOP *** [Ks 4s 6s]
+Archantho checks
+FIRLOU checks
+coraralie31 checks
+*** TURN *** [Ks 4s 6s][2h]
+Archantho checks
+FIRLOU checks
+coraralie31 checks
+*** RIVER *** [Ks 4s 6s 2h][6h]
+Archantho bets 320
+FIRLOU folds
+coraralie31 folds
+Archantho collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Ks 4s 6s 2h 6h]
+Seat 2: Archantho (small blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559228149510963201-3-1441829383 - Holdem no limit (15/30) - 2015/09/09 20:09:43 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HeadsOrTails (1440)
+Seat 2: Archantho (1750)
+Seat 3: FIRLOU (1480)
+Seat 4: dreamz56 (1500)
+Seat 5: sabre_laser (1350)
+Seat 6: BZHlich (1500)
+Seat 7: r9bis (1500)
+Seat 8: eli vonallen (1500)
+Seat 9: liodu46 (1500)
+Seat 10: coraralie31 (1480)
+*** ANTE/BLINDS ***
+FIRLOU posts small blind 15
+dreamz56 posts big blind 30
+Dealt to sabre_laser [7c 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+BZHlich folds
+r9bis calls 30
+eli vonallen folds
+liodu46 folds
+coraralie31 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU calls 15
+dreamz56 folds
+*** FLOP *** [9h Qs 3d]
+FIRLOU bets 340
+r9bis folds
+FIRLOU collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [9h Qs 3d]
+Seat 3: FIRLOU (small blind) won 430
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559228149510963201-4-1441829479 - Holdem no limit (15/30) - 2015/09/09 20:11:19 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #3 is the button
+Seat 1: HeadsOrTails (1440)
+Seat 2: Archantho (1750)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1470)
+Seat 5: sabre_laser (1350)
+Seat 6: BZHlich (1500)
+Seat 7: r9bis (1470)
+Seat 8: eli vonallen (1500)
+Seat 9: liodu46 (1500)
+Seat 10: coraralie31 (1480)
+*** ANTE/BLINDS ***
+dreamz56 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [8s 4d]
+*** PRE-FLOP *** 
+BZHlich folds
+r9bis calls 30
+eli vonallen calls 30
+liodu46 folds
+coraralie31 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser checks
+*** FLOP *** [Jh Td 3h]
+sabre_laser checks
+r9bis checks
+eli vonallen bets 30
+sabre_laser folds
+r9bis calls 30
+*** TURN *** [Jh Td 3h][Jc]
+r9bis checks
+eli vonallen bets 82
+r9bis calls 82
+*** RIVER *** [Jh Td 3h Jc][Qd]
+r9bis checks
+eli vonallen bets 127
+r9bis folds
+eli vonallen collected 456 from pot
+*** SUMMARY ***
+Total pot 456 | No rake
+Board: [Jh Td 3h Jc Qd]
+Seat 8: eli vonallen won 456
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559228149510963201-5-1441829600 - Holdem no limit (20/40) - 2015/09/09 20:13:20 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #4 is the button
+Seat 1: HeadsOrTails (1440)
+Seat 2: Archantho (1750)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1455)
+Seat 5: sabre_laser (1320)
+Seat 6: BZHlich (1500)
+Seat 7: r9bis (1328)
+Seat 8: eli vonallen (1687)
+Seat 9: liodu46 (1500)
+Seat 10: coraralie31 (1480)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+BZHlich posts big blind 40
+Dealt to sabre_laser [Js 4s]
+*** PRE-FLOP *** 
+r9bis folds
+eli vonallen calls 40
+liodu46 folds
+coraralie31 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 calls 40
+sabre_laser calls 20
+BZHlich checks
+*** FLOP *** [2h 3d Ts]
+sabre_laser checks
+BZHlich checks
+eli vonallen bets 40
+dreamz56 calls 40
+sabre_laser folds
+BZHlich folds
+*** TURN *** [2h 3d Ts][Jc]
+eli vonallen checks
+dreamz56 bets 40
+eli vonallen folds
+dreamz56 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2h 3d Ts Jc]
+Seat 4: dreamz56 (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559228149510963201-6-1441829653 - Holdem no limit (20/40) - 2015/09/09 20:14:13 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HeadsOrTails (1440)
+Seat 2: Archantho (1750)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1615)
+Seat 5: sabre_laser (1280)
+Seat 6: BZHlich (1460)
+Seat 7: r9bis (1328)
+Seat 8: eli vonallen (1607)
+Seat 9: liodu46 (1500)
+Seat 10: coraralie31 (1480)
+*** ANTE/BLINDS ***
+BZHlich posts small blind 20
+r9bis posts big blind 40
+Dealt to sabre_laser [9h Tc]
+*** PRE-FLOP *** 
+eli vonallen folds
+liodu46 folds
+coraralie31 folds
+HeadsOrTails raises 60 to 100
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich calls 80
+r9bis calls 60
+*** FLOP *** [2d Td 9s]
+BZHlich checks
+r9bis checks
+HeadsOrTails checks
+*** TURN *** [2d Td 9s][Jd]
+BZHlich checks
+r9bis bets 40
+HeadsOrTails calls 40
+BZHlich folds
+*** RIVER *** [2d Td 9s Jd][Qs]
+r9bis checks
+HeadsOrTails checks
+*** SHOW DOWN ***
+HeadsOrTails shows [As Qc] (One pair : Queens)
+r9bis shows [Th Js] (Two pairs : Jacks and Tens)
+r9bis collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [2d Td 9s Jd Qs]
+Seat 1: HeadsOrTails showed [As Qc] and lost with One pair : Queens
+Seat 7: r9bis (big blind) showed [Th Js] and won 380 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559228149510963201-7-1441829770 - Holdem no limit (30/60) - 2015/09/09 20:16:10 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HeadsOrTails (1300)
+Seat 2: Archantho (1750)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1615)
+Seat 5: sabre_laser (1280)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (1568)
+Seat 8: eli vonallen (1607)
+Seat 9: liodu46 (1500)
+Seat 10: coraralie31 (1480)
+*** ANTE/BLINDS ***
+r9bis posts small blind 30
+eli vonallen posts big blind 60
+Dealt to sabre_laser [8s 4s]
+*** PRE-FLOP *** 
+liodu46 folds
+coraralie31 raises 120 to 180
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis raises 120 to 300
+eli vonallen folds
+coraralie31 calls 120
+*** FLOP *** [Td Qh 9s]
+r9bis bets 330
+coraralie31 calls 330
+*** TURN *** [Td Qh 9s][Kc]
+r9bis bets 660
+coraralie31 raises 190 to 850 and is all-in
+r9bis calls 190
+*** RIVER *** [Td Qh 9s Kc][3c]
+*** SHOW DOWN ***
+coraralie31 shows [Qs Ad] (One pair : Queens)
+r9bis shows [Ks As] (One pair : Kings)
+r9bis collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [Td Qh 9s Kc 3c]
+Seat 7: r9bis (small blind) showed [Ks As] and won 3020 with One pair : Kings
+Seat 10: coraralie31 showed [Qs Ad] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559228149510963201-8-1441829849 - Holdem no limit (30/60) - 2015/09/09 20:17:29 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HeadsOrTails (1300)
+Seat 2: Archantho (1750)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1615)
+Seat 5: sabre_laser (1280)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (3108)
+Seat 8: eli vonallen (1547)
+Seat 9: liodu46 (1500)
+*** ANTE/BLINDS ***
+eli vonallen posts small blind 30
+liodu46 posts big blind 60
+Dealt to sabre_laser [5s 8s]
+*** PRE-FLOP *** 
+HeadsOrTails folds
+Archantho raises 90 to 150
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+Archantho collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: Archantho won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559228149510963201-9-1441829896 - Holdem no limit (40/80) - 2015/09/09 20:18:16 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #8 is the button
+Seat 1: HeadsOrTails (1300)
+Seat 2: Archantho (1840)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1615)
+Seat 5: sabre_laser (1280)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (3108)
+Seat 8: eli vonallen (1517)
+Seat 9: liodu46 (1440)
+*** ANTE/BLINDS ***
+liodu46 posts small blind 40
+HeadsOrTails posts big blind 80
+Dealt to sabre_laser [4c 4h]
+*** PRE-FLOP *** 
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser calls 80
+BZHlich folds
+r9bis calls 80
+eli vonallen raises 320 to 400
+liodu46 folds
+HeadsOrTails folds
+sabre_laser folds
+r9bis folds
+eli vonallen collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 8: eli vonallen (button) won 680
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559228149510963201-10-1441829949 - Holdem no limit (40/80) - 2015/09/09 20:19:09 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HeadsOrTails (1220)
+Seat 2: Archantho (1840)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1615)
+Seat 5: sabre_laser (1200)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (3028)
+Seat 8: eli vonallen (1797)
+Seat 9: liodu46 (1400)
+*** ANTE/BLINDS ***
+HeadsOrTails posts small blind 40
+Archantho posts big blind 80
+Dealt to sabre_laser [7c 9c]
+*** PRE-FLOP *** 
+FIRLOU folds
+dreamz56 calls 80
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho checks
+*** FLOP *** [Td Js Ad]
+Archantho checks
+dreamz56 bets 80
+Archantho folds
+dreamz56 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Td Js Ad]
+Seat 4: dreamz56 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559228149510963201-11-1441830015 - Holdem no limit (40/80) - 2015/09/09 20:20:15 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HeadsOrTails (1180)
+Seat 2: Archantho (1760)
+Seat 3: FIRLOU (1540)
+Seat 4: dreamz56 (1735)
+Seat 5: sabre_laser (1200)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (3028)
+Seat 8: eli vonallen (1797)
+Seat 9: liodu46 (1400)
+*** ANTE/BLINDS ***
+Archantho posts small blind 40
+FIRLOU posts big blind 80
+Dealt to sabre_laser [Kd 5s]
+*** PRE-FLOP *** 
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis raises 80 to 160
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho raises 120 to 280
+FIRLOU folds
+r9bis calls 120
+*** FLOP *** [Jd 8c Tc]
+Archantho checks
+r9bis checks
+*** TURN *** [Jd 8c Tc][Qc]
+Archantho bets 120
+r9bis calls 120
+*** RIVER *** [Jd 8c Tc Qc][5d]
+Archantho bets 1360 and is all-in
+r9bis folds
+Archantho collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Board: [Jd 8c Tc Qc 5d]
+Seat 2: Archantho (small blind) won 2240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559228149510963201-12-1441830111 - Holdem no limit (60/120) - 2015/09/09 20:21:51 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HeadsOrTails (1180)
+Seat 2: Archantho (2240)
+Seat 3: FIRLOU (1460)
+Seat 4: dreamz56 (1735)
+Seat 5: sabre_laser (1200)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (2628)
+Seat 8: eli vonallen (1797)
+Seat 9: liodu46 (1400)
+*** ANTE/BLINDS ***
+FIRLOU posts small blind 60
+dreamz56 posts big blind 120
+Dealt to sabre_laser [5d Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 raises 1280 to 1400 and is all-in
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+liodu46 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 9: liodu46 won 1580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559228149510963201-13-1441830156 - Holdem no limit (60/120) - 2015/09/09 20:22:36 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #3 is the button
+Seat 1: HeadsOrTails (1180)
+Seat 2: Archantho (2240)
+Seat 3: FIRLOU (1400)
+Seat 4: dreamz56 (1615)
+Seat 5: sabre_laser (1200)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (2628)
+Seat 8: eli vonallen (1797)
+Seat 9: liodu46 (1580)
+*** ANTE/BLINDS ***
+dreamz56 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3s As]
+*** PRE-FLOP *** 
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 calls 60
+sabre_laser checks
+*** FLOP *** [Tc Kh 9d]
+dreamz56 checks
+sabre_laser checks
+*** TURN *** [Tc Kh 9d][6c]
+dreamz56 checks
+sabre_laser bets 240
+dreamz56 folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Tc Kh 9d 6c]
+Seat 5: sabre_laser (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559228149510963201-14-1441830210 - Holdem no limit (60/120) - 2015/09/09 20:23:30 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #4 is the button
+Seat 1: HeadsOrTails (1180)
+Seat 2: Archantho (2240)
+Seat 3: FIRLOU (1400)
+Seat 4: dreamz56 (1495)
+Seat 5: sabre_laser (1320)
+Seat 6: BZHlich (1360)
+Seat 7: r9bis (2628)
+Seat 8: eli vonallen (1797)
+Seat 9: liodu46 (1580)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+BZHlich posts big blind 120
+Dealt to sabre_laser [Ks 5d]
+*** PRE-FLOP *** 
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho calls 120
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich checks
+*** FLOP *** [8d Kc 5c]
+BZHlich checks
+Archantho checks
+*** TURN *** [8d Kc 5c][3h]
+BZHlich checks
+Archantho checks
+*** RIVER *** [8d Kc 5c 3h][2h]
+BZHlich checks
+Archantho bets 300
+BZHlich calls 300
+*** SHOW DOWN ***
+Archantho shows [Ah 2d] (One pair : 2)
+BZHlich shows [7d 5s] (One pair : 5)
+BZHlich collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Kc 5c 3h 2h]
+Seat 2: Archantho showed [Ah 2d] and lost with One pair : 2
+Seat 6: BZHlich (big blind) showed [7d 5s] and won 900 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #559228149510963201-15-1441830306 - Holdem no limit (80/160) - 2015/09/09 20:25:06 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HeadsOrTails (1180)
+Seat 2: Archantho (1820)
+Seat 3: FIRLOU (1400)
+Seat 4: dreamz56 (1495)
+Seat 5: sabre_laser (1260)
+Seat 6: BZHlich (1840)
+Seat 7: r9bis (2628)
+Seat 8: eli vonallen (1797)
+Seat 9: liodu46 (1580)
+*** ANTE/BLINDS ***
+BZHlich posts small blind 80
+r9bis posts big blind 160
+Dealt to sabre_laser [Jd 9d]
+*** PRE-FLOP *** 
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: r9bis (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #559228149510963201-16-1441830336 - Holdem no limit (80/160) - 2015/09/09 20:25:36 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HeadsOrTails (1180)
+Seat 2: Archantho (1820)
+Seat 3: FIRLOU (1400)
+Seat 4: dreamz56 (1495)
+Seat 5: sabre_laser (1260)
+Seat 6: BZHlich (1760)
+Seat 7: r9bis (2708)
+Seat 8: eli vonallen (1797)
+Seat 9: liodu46 (1580)
+*** ANTE/BLINDS ***
+r9bis posts small blind 80
+eli vonallen posts big blind 160
+Dealt to sabre_laser [4d Jd]
+*** PRE-FLOP *** 
+liodu46 folds
+HeadsOrTails raises 1020 to 1180 and is all-in
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+HeadsOrTails collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | No rake
+Seat 1: HeadsOrTails won 1420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #559228149510963201-17-1441830397 - Holdem no limit (80/160) - 2015/09/09 20:26:37 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HeadsOrTails (1420)
+Seat 2: Archantho (1820)
+Seat 3: FIRLOU (1400)
+Seat 4: dreamz56 (1495)
+Seat 5: sabre_laser (1260)
+Seat 6: BZHlich (1760)
+Seat 7: r9bis (2628)
+Seat 8: eli vonallen (1637)
+Seat 9: liodu46 (1580)
+*** ANTE/BLINDS ***
+eli vonallen posts small blind 80
+liodu46 posts big blind 160
+Dealt to sabre_laser [6s 9s]
+*** PRE-FLOP *** 
+HeadsOrTails folds
+Archantho folds
+FIRLOU calls 160
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 checks
+*** FLOP *** [9c 9h 5h]
+liodu46 checks
+FIRLOU checks
+*** TURN *** [9c 9h 5h][2s]
+liodu46 checks
+FIRLOU checks
+*** RIVER *** [9c 9h 5h 2s][As]
+liodu46 checks
+FIRLOU bets 200
+liodu46 folds
+FIRLOU collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9c 9h 5h 2s As]
+Seat 3: FIRLOU won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #559228149510963201-18-1441830494 - Holdem no limit (10/100/200) - 2015/09/09 20:28:14 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #8 is the button
+Seat 1: HeadsOrTails (1420)
+Seat 2: Archantho (1820)
+Seat 3: FIRLOU (1640)
+Seat 4: dreamz56 (1495)
+Seat 5: sabre_laser (1260)
+Seat 6: BZHlich (1760)
+Seat 7: r9bis (2628)
+Seat 8: eli vonallen (1557)
+Seat 9: liodu46 (1420)
+*** ANTE/BLINDS ***
+liodu46 posts ante 10
+HeadsOrTails posts ante 10
+Archantho posts ante 10
+FIRLOU posts ante 10
+dreamz56 posts ante 10
+sabre_laser posts ante 10
+BZHlich posts ante 10
+r9bis posts ante 10
+eli vonallen posts ante 10
+liodu46 posts small blind 100
+HeadsOrTails posts big blind 200
+Dealt to sabre_laser [2d 6c]
+*** PRE-FLOP *** 
+Archantho folds
+FIRLOU calls 200
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails checks
+*** FLOP *** [2c 8h 8c]
+HeadsOrTails checks
+FIRLOU checks
+*** TURN *** [2c 8h 8c][Ts]
+HeadsOrTails checks
+FIRLOU checks
+*** RIVER *** [2c 8h 8c Ts][7d]
+HeadsOrTails checks
+FIRLOU bets 200
+HeadsOrTails folds
+FIRLOU collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [2c 8h 8c Ts 7d]
+Seat 3: FIRLOU won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #559228149510963201-19-1441830571 - Holdem no limit (10/100/200) - 2015/09/09 20:29:31 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HeadsOrTails (1210)
+Seat 2: Archantho (1810)
+Seat 3: FIRLOU (2020)
+Seat 4: dreamz56 (1485)
+Seat 5: sabre_laser (1250)
+Seat 6: BZHlich (1750)
+Seat 7: r9bis (2618)
+Seat 8: eli vonallen (1547)
+Seat 9: liodu46 (1310)
+*** ANTE/BLINDS ***
+HeadsOrTails posts ante 10
+Archantho posts ante 10
+FIRLOU posts ante 10
+dreamz56 posts ante 10
+sabre_laser posts ante 10
+BZHlich posts ante 10
+r9bis posts ante 10
+eli vonallen posts ante 10
+liodu46 posts ante 10
+HeadsOrTails posts small blind 100
+Archantho posts big blind 200
+Dealt to sabre_laser [Js 8c]
+*** PRE-FLOP *** 
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich raises 1540 to 1740 and is all-in
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho folds
+BZHlich collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Seat 6: BZHlich won 2130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559228149510963201-20-1441830611 - Holdem no limit (20/150/300) - 2015/09/09 20:30:11 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HeadsOrTails (1100)
+Seat 2: Archantho (1600)
+Seat 3: FIRLOU (2010)
+Seat 4: dreamz56 (1475)
+Seat 5: sabre_laser (1240)
+Seat 6: BZHlich (2130)
+Seat 7: r9bis (2608)
+Seat 8: eli vonallen (1537)
+Seat 9: liodu46 (1300)
+*** ANTE/BLINDS ***
+Archantho posts ante 20
+FIRLOU posts ante 20
+HeadsOrTails posts ante 20
+dreamz56 posts ante 20
+sabre_laser posts ante 20
+BZHlich posts ante 20
+r9bis posts ante 20
+eli vonallen posts ante 20
+liodu46 posts ante 20
+Archantho posts small blind 150
+FIRLOU posts big blind 300
+Dealt to sabre_laser [8d 9d]
+*** PRE-FLOP *** 
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen raises 900 to 1200
+liodu46 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+eli vonallen collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Seat 8: eli vonallen won 1830
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559228149510963201-21-1441830647 - Holdem no limit (20/150/300) - 2015/09/09 20:30:47 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #2 is the button
+Seat 1: HeadsOrTails (1080)
+Seat 2: Archantho (1430)
+Seat 3: FIRLOU (1690)
+Seat 4: dreamz56 (1455)
+Seat 5: sabre_laser (1220)
+Seat 6: BZHlich (2110)
+Seat 7: r9bis (2588)
+Seat 8: eli vonallen (2147)
+Seat 9: liodu46 (1280)
+*** ANTE/BLINDS ***
+FIRLOU posts ante 20
+dreamz56 posts ante 20
+HeadsOrTails posts ante 20
+Archantho posts ante 20
+sabre_laser posts ante 20
+BZHlich posts ante 20
+r9bis posts ante 20
+eli vonallen posts ante 20
+liodu46 posts ante 20
+FIRLOU posts small blind 150
+dreamz56 posts big blind 300
+Dealt to sabre_laser [3c 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 raises 960 to 1260 and is all-in
+HeadsOrTails calls 1060 and is all-in
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+*** FLOP *** [6d 5c Js]
+*** TURN *** [6d 5c Js][Qc]
+*** RIVER *** [6d 5c Js Qc][6s]
+*** SHOW DOWN ***
+HeadsOrTails shows [Ad 7s] (One pair : 6)
+liodu46 shows [3d Ac] (One pair : 6)
+liodu46 collected 1575 from side pot 1
+HeadsOrTails collected 1375 from main pot
+*** SUMMARY ***
+Total pot 2950 | No rake
+Board: [6d 5c Js Qc 6s]
+Seat 1: HeadsOrTails showed [Ad 7s] and won 1375 with One pair : 6
+Seat 9: liodu46 showed [3d Ac] and won 1575 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559228149510963201-22-1441830702 - Holdem no limit (20/150/300) - 2015/09/09 20:31:42 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #3 is the button
+Seat 1: HeadsOrTails (1375)
+Seat 2: Archantho (1410)
+Seat 3: FIRLOU (1520)
+Seat 4: dreamz56 (1135)
+Seat 5: sabre_laser (1200)
+Seat 6: BZHlich (2090)
+Seat 7: r9bis (2568)
+Seat 8: eli vonallen (2127)
+Seat 9: liodu46 (1575)
+*** ANTE/BLINDS ***
+dreamz56 posts ante 20
+sabre_laser posts ante 20
+HeadsOrTails posts ante 20
+Archantho posts ante 20
+FIRLOU posts ante 20
+BZHlich posts ante 20
+r9bis posts ante 20
+eli vonallen posts ante 20
+liodu46 posts ante 20
+dreamz56 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [8h 3s]
+*** PRE-FLOP *** 
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 raises 815 to 1115 and is all-in
+sabre_laser folds
+dreamz56 collected 1595 from pot
+*** SUMMARY ***
+Total pot 1595 | No rake
+Seat 4: dreamz56 (small blind) won 1595
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559228149510963201-23-1441830761 - Holdem no limit (20/150/300) - 2015/09/09 20:32:41 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #4 is the button
+Seat 1: HeadsOrTails (1355)
+Seat 2: Archantho (1390)
+Seat 3: FIRLOU (1500)
+Seat 4: dreamz56 (1595)
+Seat 5: sabre_laser (880)
+Seat 6: BZHlich (2070)
+Seat 7: r9bis (2548)
+Seat 8: eli vonallen (2107)
+Seat 9: liodu46 (1555)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+BZHlich posts ante 20
+HeadsOrTails posts ante 20
+Archantho posts ante 20
+FIRLOU posts ante 20
+dreamz56 posts ante 20
+r9bis posts ante 20
+eli vonallen posts ante 20
+liodu46 posts ante 20
+sabre_laser posts small blind 150
+BZHlich posts big blind 300
+Dealt to sabre_laser [Kc 2s]
+*** PRE-FLOP *** 
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails raises 1035 to 1335 and is all-in
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+HeadsOrTails collected 1965 from pot
+*** SUMMARY ***
+Total pot 1965 | No rake
+Seat 1: HeadsOrTails won 1965
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559228149510963201-24-1441830814 - Holdem no limit (50/200/400) - 2015/09/09 20:33:34 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HeadsOrTails (1965)
+Seat 2: Archantho (1370)
+Seat 3: FIRLOU (1480)
+Seat 4: dreamz56 (1575)
+Seat 5: sabre_laser (710)
+Seat 6: BZHlich (1750)
+Seat 7: r9bis (2528)
+Seat 8: eli vonallen (2087)
+Seat 9: liodu46 (1535)
+*** ANTE/BLINDS ***
+BZHlich posts ante 50
+r9bis posts ante 50
+HeadsOrTails posts ante 50
+Archantho posts ante 50
+FIRLOU posts ante 50
+dreamz56 posts ante 50
+sabre_laser posts ante 50
+eli vonallen posts ante 50
+liodu46 posts ante 50
+BZHlich posts small blind 200
+r9bis posts big blind 400
+Dealt to sabre_laser [8s 4d]
+*** PRE-FLOP *** 
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+Archantho folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 7: r9bis (big blind) won 1050
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559228149510963201-25-1441830882 - Holdem no limit (50/200/400) - 2015/09/09 20:34:42 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HeadsOrTails (1915)
+Seat 2: Archantho (1320)
+Seat 3: FIRLOU (1430)
+Seat 4: dreamz56 (1525)
+Seat 5: sabre_laser (660)
+Seat 6: BZHlich (1500)
+Seat 7: r9bis (3128)
+Seat 8: eli vonallen (2037)
+Seat 9: liodu46 (1485)
+*** ANTE/BLINDS ***
+r9bis posts ante 50
+eli vonallen posts ante 50
+HeadsOrTails posts ante 50
+Archantho posts ante 50
+FIRLOU posts ante 50
+dreamz56 posts ante 50
+sabre_laser posts ante 50
+BZHlich posts ante 50
+liodu46 posts ante 50
+r9bis posts small blind 200
+eli vonallen posts big blind 400
+Dealt to sabre_laser [7s 3h]
+*** PRE-FLOP *** 
+liodu46 folds
+HeadsOrTails folds
+Archantho raises 870 to 1270 and is all-in
+FIRLOU calls 1270
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+*** FLOP *** [Jd 2d 6s]
+*** TURN *** [Jd 2d 6s][Ks]
+*** RIVER *** [Jd 2d 6s Ks][9s]
+*** SHOW DOWN ***
+Archantho shows [Ad 4h] (High card : Ace)
+FIRLOU shows [Ac Ah] (One pair : Aces)
+FIRLOU collected 3590 from pot
+*** SUMMARY ***
+Total pot 3590 | No rake
+Board: [Jd 2d 6s Ks 9s]
+Seat 2: Archantho showed [Ad 4h] and lost with High card : Ace
+Seat 3: FIRLOU showed [Ac Ah] and won 3590 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559228149510963201-26-1441830945 - Holdem no limit (50/200/400) - 2015/09/09 20:35:45 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HeadsOrTails (1865)
+Seat 3: FIRLOU (3700)
+Seat 4: dreamz56 (1475)
+Seat 5: sabre_laser (610)
+Seat 6: BZHlich (1450)
+Seat 7: r9bis (2878)
+Seat 8: eli vonallen (1587)
+Seat 9: liodu46 (1435)
+*** ANTE/BLINDS ***
+eli vonallen posts ante 50
+liodu46 posts ante 50
+HeadsOrTails posts ante 50
+FIRLOU posts ante 50
+dreamz56 posts ante 50
+sabre_laser posts ante 50
+BZHlich posts ante 50
+r9bis posts ante 50
+eli vonallen posts small blind 200
+liodu46 posts big blind 400
+Dealt to sabre_laser [5s Tc]
+*** PRE-FLOP *** 
+HeadsOrTails folds
+FIRLOU folds
+dreamz56 folds
+sabre_laser folds
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 9: liodu46 (big blind) won 1000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559228149510963201-27-1441830985 - Holdem no limit (75/300/600) - 2015/09/09 20:36:25 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #8 is the button
+Seat 1: HeadsOrTails (1815)
+Seat 3: FIRLOU (3650)
+Seat 4: dreamz56 (1425)
+Seat 5: sabre_laser (560)
+Seat 6: BZHlich (1400)
+Seat 7: r9bis (2828)
+Seat 8: eli vonallen (1337)
+Seat 9: liodu46 (1985)
+*** ANTE/BLINDS ***
+liodu46 posts ante 75
+HeadsOrTails posts ante 75
+FIRLOU posts ante 75
+dreamz56 posts ante 75
+sabre_laser posts ante 75
+BZHlich posts ante 75
+r9bis posts ante 75
+eli vonallen posts ante 75
+liodu46 posts small blind 300
+HeadsOrTails posts big blind 600
+Dealt to sabre_laser [Ac 5h]
+*** PRE-FLOP *** 
+FIRLOU folds
+dreamz56 folds
+sabre_laser calls 485 and is all-in
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+*** FLOP *** [2c Ad 9c]
+*** TURN *** [2c Ad 9c][5s]
+*** RIVER *** [2c Ad 9c 5s][7s]
+*** SHOW DOWN ***
+sabre_laser shows [Ac 5h] (Two pairs : Aces and 5)
+HeadsOrTails shows [9h 6d] (One pair : 9)
+HeadsOrTails collected 115 from side pot 1
+sabre_laser collected 1870 from main pot
+*** SUMMARY ***
+Total pot 1985 | No rake
+Board: [2c Ad 9c 5s 7s]
+Seat 1: HeadsOrTails (big blind) showed [9h 6d] and won 115 with One pair : 9
+Seat 5: sabre_laser showed [Ac 5h] and won 1870 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559228149510963201-28-1441831031 - Holdem no limit (75/300/600) - 2015/09/09 20:37:11 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HeadsOrTails (1255)
+Seat 3: FIRLOU (3575)
+Seat 4: dreamz56 (1350)
+Seat 5: sabre_laser (1870)
+Seat 6: BZHlich (1325)
+Seat 7: r9bis (2753)
+Seat 8: eli vonallen (1262)
+Seat 9: liodu46 (1610)
+*** ANTE/BLINDS ***
+HeadsOrTails posts ante 75
+FIRLOU posts ante 75
+dreamz56 posts ante 75
+sabre_laser posts ante 75
+BZHlich posts ante 75
+r9bis posts ante 75
+eli vonallen posts ante 75
+liodu46 posts ante 75
+HeadsOrTails posts small blind 300
+FIRLOU posts big blind 600
+Dealt to sabre_laser [8s 8h]
+*** PRE-FLOP *** 
+dreamz56 folds
+sabre_laser raises 1195 to 1795 and is all-in
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+HeadsOrTails folds
+FIRLOU folds
+sabre_laser collected 3295 from pot
+*** SUMMARY ***
+Total pot 3295 | No rake
+Seat 5: sabre_laser won 3295
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559228149510963201-29-1441831072 - Holdem no limit (75/300/600) - 2015/09/09 20:37:52 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HeadsOrTails (880)
+Seat 3: FIRLOU (2900)
+Seat 4: dreamz56 (1275)
+Seat 5: sabre_laser (3295)
+Seat 6: BZHlich (1250)
+Seat 7: r9bis (2678)
+Seat 8: eli vonallen (1187)
+Seat 9: liodu46 (1535)
+*** ANTE/BLINDS ***
+FIRLOU posts ante 75
+dreamz56 posts ante 75
+HeadsOrTails posts ante 75
+sabre_laser posts ante 75
+BZHlich posts ante 75
+r9bis posts ante 75
+eli vonallen posts ante 75
+liodu46 posts ante 75
+FIRLOU posts small blind 300
+dreamz56 posts big blind 600
+Dealt to sabre_laser [Qc 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+BZHlich folds
+r9bis raises 600 to 1200
+eli vonallen folds
+liodu46 folds
+HeadsOrTails calls 805 and is all-in
+FIRLOU folds
+dreamz56 calls 600 and is all-in
+*** FLOP *** [7s Qs Js]
+*** TURN *** [7s Qs Js][9s]
+*** RIVER *** [7s Qs Js 9s][7c]
+*** SHOW DOWN ***
+HeadsOrTails shows [Jc Kc] (Two pairs : Jacks and 7)
+dreamz56 shows [5d 5c] (Two pairs : 7 and 5)
+r9bis shows [Ks Kd] (Flush King high)
+r9bis collected 4105 from pot
+*** SUMMARY ***
+Total pot 4105 | No rake
+Board: [7s Qs Js 9s 7c]
+Seat 1: HeadsOrTails (button) showed [Jc Kc] and lost with Two pairs : Jacks and 7
+Seat 4: dreamz56 (big blind) showed [5d 5c] and lost with Two pairs : 7 and 5
+Seat 7: r9bis showed [Ks Kd] and won 4105 with Flush King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559228149510963201-30-1441831121 - Holdem no limit (75/300/600) - 2015/09/09 20:38:41 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #3 is the button
+Seat 3: FIRLOU (2525)
+Seat 5: sabre_laser (3220)
+Seat 6: BZHlich (1175)
+Seat 7: r9bis (5508)
+Seat 8: eli vonallen (1112)
+Seat 9: liodu46 (1460)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+FIRLOU posts ante 75
+BZHlich posts ante 75
+r9bis posts ante 75
+eli vonallen posts ante 75
+liodu46 posts ante 75
+sabre_laser posts big blind 600
+Dealt to sabre_laser [9c Jh]
+*** PRE-FLOP *** 
+BZHlich folds
+r9bis folds
+eli vonallen folds
+liodu46 folds
+FIRLOU raises 1200 to 1800
+sabre_laser folds
+FIRLOU collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Seat 3: FIRLOU (button) won 2850
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #559228149510963201-31-1441831153 - Holdem no limit (100/400/800) - 2015/09/09 20:39:13 UTC
+Table: 'Double or Nothing(130205450)#0' 10-max (real money) Seat #4 is the button
+Seat 3: FIRLOU (3500)
+Seat 5: sabre_laser (2545)
+Seat 6: BZHlich (1100)
+Seat 7: r9bis (5433)
+Seat 8: eli vonallen (1037)
+Seat 9: liodu46 (1385)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+BZHlich posts ante 100
+FIRLOU posts ante 100
+r9bis posts ante 100
+eli vonallen posts ante 100
+liodu46 posts ante 100
+sabre_laser posts small blind 400
+BZHlich posts big blind 800
+Dealt to sabre_laser [Jh Kc]
+*** PRE-FLOP *** 
+r9bis folds
+eli vonallen folds
+liodu46 folds
+FIRLOU folds
+sabre_laser raises 800 to 1600
+BZHlich calls 200 and is all-in
+*** FLOP *** [Ks 7c Kd]
+*** TURN *** [Ks 7c Kd][4c]
+*** RIVER *** [Ks 7c Kd 4c][Qs]
+*** SHOW DOWN ***
+BZHlich shows [Td As] (One pair : Kings)
+sabre_laser shows [Jh Kc] (Trips of Kings)
+sabre_laser collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [Ks 7c Kd 4c Qs]
+Seat 5: sabre_laser (small blind) showed [Jh Kc] and won 3200 with Trips of Kings
+Seat 6: BZHlich (big blind) showed [Td As] and lost with One pair : Kings
+
+

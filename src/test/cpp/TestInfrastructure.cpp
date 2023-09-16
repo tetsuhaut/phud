@@ -1,0 +1,224 @@
+///////////////////////////////////////////////////////////////////////////////////
+// No unit tests here. This file must be the only one defining BOOST_TEST_MODULE. //
+///////////////////////////////////////////////////////////////////////////////////
+#define BOOST_TEST_MODULE Unit Tests for the Poker Head-Up Dispay
+
+#include "TestInfrastructure.hpp" // boost::unit_test::*
+#include "db/Database.hpp"
+#include "entities/Game.hpp" // needed as Site declares incomplete CashGame type
+#include "entities/Player.hpp" // needed as Site declares incomplete Player type
+#include "entities/Site.hpp"
+#include "history/WinamaxHistory.hpp" // PokerSiteHistory
+#include "language/assert.hpp" // phudAssert
+#include "log/Logger.hpp" // fmt::format(), LoggingLevel
+#include "system/ErrorCode.hpp"
+
+#include <boost/test/debug.hpp> // detect_memory_leaks()
+
+#if defined(__MINGW32__) // removal of specific gcc warnings
+#  pragma GCC diagnostic push
+#  pragma GCC diagnostic ignored "-Wsuggest-override"
+#endif //__MINGW32__
+
+#include <boost/test/unit_test_parameters.hpp>
+
+#if defined(__MINGW32__)
+#  pragma GCC diagnostic pop
+#endif //__MINGW32__
+
+#include <fstream> // std::ofstream
+
+namespace fs = std::filesystem;
+namespace pf = phud::filesystem;
+namespace ps = phud::strings;
+namespace pt = phud::test;
+
+//#define BOOST_TEST_ALTERNATIVE_INIT_API
+//int main(int argc, char* argv[], char* /*envp*/[]) {
+//  std::setlocale(LC_ALL, "en_US.utf8");
+//  auto ret = boost::unit_test::unit_test_main(init_unit_test, argc, argv);
+//  return ret;
+//}
+
+class [[nodiscard]] GlobalFixture final {
+public:
+  GlobalFixture() {
+    Logger::setupConsoleWarnLogging("[%D %H:%M:%S.%e] [%l] [%t] %v");
+    namespace but = boost::unit_test;
+
+    if (but::log_level::log_successful_tests ==
+        but::runtime_config::get<but::log_level>(but::runtime_config::btrt_log_level)) {
+      /* if unit tests are launched with option -l all, set log to trace level */
+      Logger::setLoggingLevel(LoggingLevel::trace);
+    }
+  }
+  ~GlobalFixture() {
+    Logger::shutdownLogging();
+  }
+}; /* GlobalFixture */
+
+BOOST_GLOBAL_FIXTURE(GlobalFixture);
+
+namespace {
+struct IsFile {};
+struct IsDir {};
+};
+
+template<typename TYPE>
+[[nodiscard]] static inline Path getGenericFileFromTestResources(const auto& file) {
+  static_assert(std::is_same_v<TYPE, ::IsFile> or std::is_same_v<TYPE, ::IsDir>);
+  phudAssert(!file.empty(), "file or dir can't be empty");
+  phudAssert('/' != file.front(), "file or dir can't start with '/'");
+  const auto& ret { (pt::getTestResourcesDir() / file) };
+
+  if constexpr(std::is_same_v<TYPE, ::IsFile> or std::is_same_v<TYPE, ::IsDir>) {
+    if (!pf::isFile(ret)) {
+      // fmt won't handle char8_t
+      throw std::runtime_error{ fmt::format("Couldn't find the file '{}' looking into '{}'.",
+                                            reinterpret_cast<const char*>(file.data()),
+                                            pt::getTestResourcesDir().string()) };
+    }
+  }
+
+  return ret;
+}
+
+/** returns the db file named <file>.db located in the current directory.
+ * if the file does not exist, it is created by loading the history files
+ * located in the testResourceDir/<file stem>history directory
+ */
+Path pt::loadDatabaseFromTestResources(StringView file, StringView pokerSite) {
+  phudAssert(file.ends_with(".db"), "A database file should end by '.db'");
+  phudAssert(!ps::contains(file, '/') and !ps::contains(file, "\\"), "Needs a relative file name");
+  Path dbFile { file };
+
+  if (!pf::isFile(dbFile)) {
+    fmt::print("Can't find the database file {}, will create it.\n", file);
+    const auto& historyDir { pt::getTestResourcesDir() / pokerSite / dbFile.stem() };
+    phudAssert(pf::isDir(historyDir),
+               "Can't find the given file in the src/test/resource/<file stem>history directory");
+    const auto& pSite { PokerSiteHistory::load(historyDir) };
+    Database db { file };
+    db.save(*pSite);
+  }
+
+  return dbFile;
+}
+
+Path pt::getFileFromTestResources(std::u8string_view file) {
+  return getGenericFileFromTestResources<::IsFile>(file);
+}
+
+Path pt::getDirFromTestResources(std::u8string_view dir) {
+  return getGenericFileFromTestResources<::IsDir>(dir);
+}
+
+Path pt::getFileFromTestResources(StringView file) {
+  return getGenericFileFromTestResources<::IsFile>(file);
+}
+
+Path pt::getDirFromTestResources(StringView dir) {
+  return getGenericFileFromTestResources<::IsDir>(dir);
+}
+
+[[nodiscard]] static inline Path throwIfNotADirectory(const Path& dir, StringView macro) {
+  if (pf::isDir(dir)) { return dir; }
+
+  throw std::runtime_error { fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'", dir.string(), macro) };
+}
+
+Path pt::getMainCppDir() {
+#ifndef PHUD_MAIN_SRC_DIR
+#error The macro PHUD_MAIN_SRC_DIR should have been defined in CMakeLists.txt
+#endif // PHUD_MAIN_SRC_DIR
+  return throwIfNotADirectory(PHUD_MAIN_SRC_DIR, "PHUD_MAIN_SRC_DIR");
+}
+
+Path pt::getTestCppDir() {
+#ifndef PHUD_TEST_SRC_DIR
+#error The macro PHUD_TEST_SRC_DIR should have been defined in CMakeLists.txt
+#endif // PHUD_TEST_SRC_DIR
+  return throwIfNotADirectory(PHUD_TEST_SRC_DIR, "PHUD_TEST_SRC_DIR");
+}
+
+Path pt::getTestResourcesDir() {
+#ifndef PHUD_TEST_RESOURCE_DIR
+#error The macro PHUD_TEST_RESOURCE_DIR should have been defined in CMakeLists.txt
+#endif // PHUD_TEST_RESOURCE_DIR
+  return throwIfNotADirectory(PHUD_TEST_RESOURCE_DIR, "PHUD_TEST_RESOURCE_DIR");
+}
+
+/**
+ * @return the absolute path of a temp file.
+ * @note We use Path to handle UTF-8 and UTF-16 file names.
+*/
+[[nodiscard]] static inline Path getTmpFilePath() {
+  char ret[256] { '\0' };
+
+  if (const auto errorCode { tmpnam_s(ret, std::size(ret)) }; 0 != errorCode) [[unlikely]] {
+    strerror_s(ret, std::size(ret), errorCode);
+    throw ret;
+  }
+
+  // with gcc lhmouse, fs::temp_directory_path() returns an empty path and
+  // tmpnam_s gives a relative file name
+  if (Path(ret).is_relative()) {
+    std::cout << "getTmpFilePath retourne " << fs::temp_directory_path() / ret << '\n';
+    return fs::temp_directory_path() / Path(ret).filename();
+  }
+
+  return ret;
+}
+
+static inline void removeWithMessage(const Path& file) {
+  ErrorCode ec;
+  const auto& fileType { pf::isFile(file) ? "file" : "directory" };
+
+  if (!std::filesystem::remove_all(file, ec)) {
+    BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
+  } else if (!isOk(ec)) [[unlikely]] {
+    BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
+    BOOST_TEST_MESSAGE(ec.message());
+  }
+}
+
+pt::TmpFile::TmpFile(StringView name)
+  : m_file { name.empty() ? getTmpFilePath().string() : String(name) } {
+  std::filesystem::remove(m_file);
+  this->print("");
+}
+
+pt::TmpFile::~TmpFile() {
+  removeWithMessage(m_file);
+}
+
+void pt::TmpFile::print(StringView s) const {
+  std::ofstream writer(m_file, std::ios_base::app);
+  writer << s;
+}
+
+void pt::TmpFile::printLn(StringView s) const {
+  std::ofstream writer(m_file, std::ios_base::app);
+  writer << s << '\n';
+}
+
+pt::TmpDir::TmpDir(StringView dirName) :
+  m_dir { std::filesystem::temp_directory_path().append(dirName) } {
+  if (pf::isDir(m_dir)) { removeWithMessage(m_dir); }
+
+  std::filesystem::create_directories(m_dir);
+}
+
+pt::TmpDir::~TmpDir() { removeWithMessage(m_dir); }
+
+String pt::TmpDir::operator/(StringView file) const {
+  Path p { m_dir };
+  return p.append(file).string();
+}
+
+pt::LogDisabler::LogDisabler()
+  : m_beforeDisabling { Logger::getCurrentLoggingLevel() } {
+  Logger::setLoggingLevel(LoggingLevel::none);
+}
+
+pt::LogDisabler::~LogDisabler() { Logger::setLoggingLevel(m_beforeDisabling); }

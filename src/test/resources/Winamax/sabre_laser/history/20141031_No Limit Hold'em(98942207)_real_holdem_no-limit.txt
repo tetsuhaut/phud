@@ -1,0 +1,1959 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #424953543259062273-1-1414716317 - Holdem no limit (10/20) - 2014/10/31 00:45:17 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (1500)
+Seat 2: callerCsuce (1500)
+Seat 3: moulecroute (1500)
+Seat 4: tchico81 (1500)
+Seat 5: M.G.IllIl77 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: BUBBLEBOY08 (1500)
+Seat 8: fok3alek (1500)
+Seat 9: bettyboop49 (1500)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 10
+callerCsuce posts big blind 20
+Dealt to sabre_laser [6s 2c]
+*** PRE-FLOP *** 
+moulecroute folds
+tchico81 raises 29 to 49
+M.G.IllIl77 folds
+sabre_laser folds
+BUBBLEBOY08 folds
+fok3alek calls 49
+bettyboop49 folds
+CompteSuisse folds
+elvicky30 calls 39
+callerCsuce calls 29
+*** FLOP *** [Ah Kc 2d]
+elvicky30 bets 160
+callerCsuce folds
+tchico81 calls 160
+fok3alek calls 160
+*** TURN *** [Ah Kc 2d][7c]
+elvicky30 bets 20
+tchico81 calls 20
+fok3alek raises 1271 to 1291 and is all-in
+elvicky30 calls 1271 and is all-in
+tchico81 folds
+*** RIVER *** [Ah Kc 2d 7c][6c]
+*** SHOW DOWN ***
+fok3alek shows [Qd Tc] (High card : Ace)
+elvicky30 shows [3s As] (One pair : Aces)
+elvicky30 collected 3278 from pot
+*** SUMMARY ***
+Total pot 3278 | No rake
+Board: [Ah Kc 2d 7c 6c]
+Seat 1: elvicky30 (small blind) showed [3s As] and won 3278 with One pair : Aces
+Seat 8: fok3alek showed [Qd Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #424953543259062273-2-1414716419 - Holdem no limit (10/20) - 2014/10/31 00:46:59 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (1451)
+Seat 3: moulecroute (1500)
+Seat 4: tchico81 (1271)
+Seat 5: M.G.IllIl77 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: BUBBLEBOY08 (1500)
+Seat 9: bettyboop49 (1500)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 10
+moulecroute posts big blind 20
+Dealt to sabre_laser [5s Kc]
+*** PRE-FLOP *** 
+tchico81 folds
+M.G.IllIl77 folds
+sabre_laser folds
+BUBBLEBOY08 folds
+bettyboop49 calls 20
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute checks
+*** FLOP *** [As 9d 6h]
+moulecroute checks
+bettyboop49 checks
+*** TURN *** [As 9d 6h][8c]
+moulecroute checks
+bettyboop49 checks
+*** RIVER *** [As 9d 6h 8c][6c]
+moulecroute checks
+bettyboop49 checks
+*** SHOW DOWN ***
+bettyboop49 shows [Kd 3d] (One pair : 6)
+moulecroute shows [3c 9c] (Two pairs : 9 and 6)
+moulecroute collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [As 9d 6h 8c 6c]
+Seat 3: moulecroute (big blind) showed [3c 9c] and won 50 with Two pairs : 9 and 6
+Seat 9: bettyboop49 showed [Kd 3d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #424953543259062273-3-1414716491 - Holdem no limit (10/20) - 2014/10/31 00:48:11 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (1441)
+Seat 3: moulecroute (1530)
+Seat 4: tchico81 (1271)
+Seat 5: M.G.IllIl77 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: BUBBLEBOY08 (1500)
+Seat 9: bettyboop49 (1480)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 10
+tchico81 posts big blind 20
+Dealt to sabre_laser [5c Kc]
+*** PRE-FLOP *** 
+M.G.IllIl77 raises 41 to 61
+sabre_laser folds
+BUBBLEBOY08 folds
+bettyboop49 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+tchico81 calls 41
+*** FLOP *** [4h 9h 7d]
+tchico81 checks
+M.G.IllIl77 bets 106
+tchico81 raises 1104 to 1210 and is all-in
+M.G.IllIl77 calls 1104
+*** TURN *** [4h 9h 7d][Qc]
+*** RIVER *** [4h 9h 7d Qc][2s]
+*** SHOW DOWN ***
+M.G.IllIl77 shows [As Ac] (One pair : Aces)
+tchico81 shows [Qh 9d] (Two pairs : Queens and 9)
+tchico81 collected 2552 from pot
+*** SUMMARY ***
+Total pot 2552 | No rake
+Board: [4h 9h 7d Qc 2s]
+Seat 4: tchico81 (big blind) showed [Qh 9d] and won 2552 with Two pairs : Queens and 9
+Seat 5: M.G.IllIl77 showed [As Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #424953543259062273-4-1414716558 - Holdem no limit (10/20) - 2014/10/31 00:49:18 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (1441)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (2552)
+Seat 5: M.G.IllIl77 (229)
+Seat 6: sabre_laser (1500)
+Seat 7: BUBBLEBOY08 (1500)
+Seat 9: bettyboop49 (1480)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+tchico81 posts small blind 10
+M.G.IllIl77 posts big blind 20
+Dealt to sabre_laser [3c Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 raises 60 to 80
+bettyboop49 calls 80
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+tchico81 calls 70
+M.G.IllIl77 folds
+*** FLOP *** [6c 5d Kc]
+tchico81 checks
+BUBBLEBOY08 bets 172
+bettyboop49 calls 172
+tchico81 calls 172
+*** TURN *** [6c 5d Kc][Ad]
+tchico81 checks
+BUBBLEBOY08 checks
+bettyboop49 checks
+*** RIVER *** [6c 5d Kc Ad][Ac]
+tchico81 bets 388
+BUBBLEBOY08 folds
+bettyboop49 raises 840 to 1228 and is all-in
+tchico81 folds
+bettyboop49 collected 2392 from pot
+*** SUMMARY ***
+Total pot 2392 | No rake
+Board: [6c 5d Kc Ad Ac]
+Seat 9: bettyboop49 won 2392
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #424953543259062273-5-1414716635 - Holdem no limit (10/20) - 2014/10/31 00:50:35 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #4 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (1441)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (1912)
+Seat 5: M.G.IllIl77 (209)
+Seat 6: sabre_laser (1500)
+Seat 7: BUBBLEBOY08 (1248)
+Seat 9: bettyboop49 (2392)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+M.G.IllIl77 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Tc 8s]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+bettyboop49 calls 20
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+tchico81 folds
+M.G.IllIl77 folds
+sabre_laser checks
+*** FLOP *** [Jc 2s Qc]
+sabre_laser checks
+bettyboop49 checks
+*** TURN *** [Jc 2s Qc][6c]
+sabre_laser checks
+bettyboop49 checks
+*** RIVER *** [Jc 2s Qc 6c][8c]
+sabre_laser bets 20
+bettyboop49 raises 2352 to 2372 and is all-in
+sabre_laser calls 1460 and is all-in
+*** SHOW DOWN ***
+sabre_laser shows [Tc 8s] (Flush Queen high)
+bettyboop49 shows [7d 7c] (Flush Queen high)
+bettyboop49 collected 892 from side pot 1
+sabre_laser collected 3010 from main pot
+*** SUMMARY ***
+Total pot 3902 | No rake
+Board: [Jc 2s Qc 6c 8c]
+Seat 6: sabre_laser (big blind) showed [Tc 8s] and won 3010 with Flush Queen high
+Seat 9: bettyboop49 showed [7d 7c] and won 892 with Flush Queen high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #424953543259062273-6-1414716722 - Holdem no limit (10/20) - 2014/10/31 00:52:02 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #5 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (1441)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (1912)
+Seat 5: M.G.IllIl77 (199)
+Seat 6: sabre_laser (3010)
+Seat 7: BUBBLEBOY08 (1248)
+Seat 9: bettyboop49 (892)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+BUBBLEBOY08 posts big blind 20
+Dealt to sabre_laser [7c Td]
+*** PRE-FLOP *** 
+bettyboop49 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 40 to 60
+moulecroute folds
+tchico81 calls 60
+M.G.IllIl77 raises 139 to 199 and is all-in
+sabre_laser folds
+BUBBLEBOY08 folds
+callerCsuce calls 139
+tchico81 calls 139
+*** FLOP *** [8d 5d 3s]
+callerCsuce checks
+tchico81 checks
+*** TURN *** [8d 5d 3s][6d]
+callerCsuce bets 314
+tchico81 folds
+*** RIVER *** [8d 5d 3s 6d][9h]
+*** SHOW DOWN ***
+M.G.IllIl77 shows [Ac Qs] (High card : Ace)
+callerCsuce shows [Ts 7s] (Straight Ten high)
+callerCsuce collected 941 from pot
+*** SUMMARY ***
+Total pot 941 | No rake
+Board: [8d 5d 3s 6d 9h]
+Seat 2: callerCsuce showed [Ts 7s] and won 941 with Straight Ten high
+Seat 5: M.G.IllIl77 (button) showed [Ac Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #424953543259062273-7-1414716783 - Holdem no limit (10/20) - 2014/10/31 00:53:03 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (1869)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (1713)
+Seat 6: sabre_laser (3000)
+Seat 7: BUBBLEBOY08 (1228)
+Seat 9: bettyboop49 (892)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 10
+bettyboop49 posts big blind 20
+Dealt to sabre_laser [Tc 8d]
+*** PRE-FLOP *** 
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+tchico81 calls 20
+sabre_laser folds
+BUBBLEBOY08 raises 60 to 80
+bettyboop49 calls 60
+tchico81 calls 60
+*** FLOP *** [8c Jc Qd]
+BUBBLEBOY08 bets 158
+bettyboop49 folds
+tchico81 folds
+BUBBLEBOY08 collected 398 from pot
+*** SUMMARY ***
+Total pot 398 | No rake
+Board: [8c Jc Qd]
+Seat 7: BUBBLEBOY08 (small blind) won 398
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-8-1414716828 - Holdem no limit (15/30) - 2014/10/31 00:53:48 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (1869)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (1633)
+Seat 6: sabre_laser (3000)
+Seat 7: BUBBLEBOY08 (1388)
+Seat 9: bettyboop49 (812)
+Seat 10: CompteSuisse (1500)
+*** ANTE/BLINDS ***
+bettyboop49 posts small blind 15
+CompteSuisse posts big blind 30
+Dealt to sabre_laser [Ks 9h]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 30 to 60
+moulecroute folds
+tchico81 calls 60
+sabre_laser folds
+BUBBLEBOY08 calls 60
+bettyboop49 folds
+CompteSuisse folds
+*** FLOP *** [8s 2d 9s]
+callerCsuce bets 140
+tchico81 folds
+BUBBLEBOY08 folds
+callerCsuce collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Board: [8s 2d 9s]
+Seat 2: callerCsuce won 365
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-9-1414716869 - Holdem no limit (15/30) - 2014/10/31 00:54:29 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #9 is the button
+Seat 1: elvicky30 (3278)
+Seat 2: callerCsuce (2034)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (1573)
+Seat 6: sabre_laser (3000)
+Seat 7: BUBBLEBOY08 (1328)
+Seat 9: bettyboop49 (797)
+Seat 10: CompteSuisse (1470)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 15
+elvicky30 posts big blind 30
+Dealt to sabre_laser [5s Ks]
+*** PRE-FLOP *** 
+callerCsuce raises 30 to 60
+moulecroute folds
+tchico81 calls 60
+sabre_laser folds
+BUBBLEBOY08 folds
+bettyboop49 folds
+CompteSuisse folds
+elvicky30 folds
+*** FLOP *** [9s Qs 6h]
+callerCsuce bets 83
+tchico81 calls 83
+*** TURN *** [9s Qs 6h][Jh]
+callerCsuce bets 166
+tchico81 calls 166
+*** RIVER *** [9s Qs 6h Jh][7c]
+callerCsuce bets 1260
+tchico81 folds
+callerCsuce collected 1923 from pot
+*** SUMMARY ***
+Total pot 1923 | No rake
+Board: [9s Qs 6h Jh 7c]
+Seat 2: callerCsuce won 1923
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-10-1414716936 - Holdem no limit (15/30) - 2014/10/31 00:55:36 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (3248)
+Seat 2: callerCsuce (2388)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (1264)
+Seat 6: sabre_laser (3000)
+Seat 7: BUBBLEBOY08 (1328)
+Seat 9: bettyboop49 (797)
+Seat 10: CompteSuisse (1455)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 15
+callerCsuce posts big blind 30
+Dealt to sabre_laser [7h 6h]
+*** PRE-FLOP *** 
+moulecroute folds
+tchico81 raises 70 to 100
+sabre_laser calls 100
+BUBBLEBOY08 calls 100
+bettyboop49 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+*** FLOP *** [6c 7d Jh]
+tchico81 checks
+sabre_laser checks
+BUBBLEBOY08 checks
+*** TURN *** [6c 7d Jh][4h]
+tchico81 checks
+sabre_laser bets 345
+BUBBLEBOY08 folds
+tchico81 folds
+sabre_laser collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [6c 7d Jh 4h]
+Seat 6: sabre_laser won 690
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-11-1414717004 - Holdem no limit (15/30) - 2014/10/31 00:56:44 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (3233)
+Seat 2: callerCsuce (2358)
+Seat 3: moulecroute (1520)
+Seat 4: tchico81 (1164)
+Seat 6: sabre_laser (3245)
+Seat 7: BUBBLEBOY08 (1228)
+Seat 9: bettyboop49 (797)
+Seat 10: CompteSuisse (1455)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 15
+moulecroute posts big blind 30
+Dealt to sabre_laser [Kh 4s]
+*** PRE-FLOP *** 
+tchico81 raises 44 to 74
+sabre_laser folds
+BUBBLEBOY08 folds
+bettyboop49 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+tchico81 collected 119 from pot
+*** SUMMARY ***
+Total pot 119 | No rake
+Seat 4: tchico81 won 119
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-12-1414717033 - Holdem no limit (15/30) - 2014/10/31 00:57:13 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (3233)
+Seat 2: callerCsuce (2343)
+Seat 3: moulecroute (1490)
+Seat 4: tchico81 (1209)
+Seat 6: sabre_laser (3245)
+Seat 7: BUBBLEBOY08 (1228)
+Seat 9: bettyboop49 (797)
+Seat 10: CompteSuisse (1455)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 15
+tchico81 posts big blind 30
+Dealt to sabre_laser [Jd 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 calls 30
+bettyboop49 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 110 to 140
+moulecroute raises 1350 to 1490 and is all-in
+tchico81 folds
+BUBBLEBOY08 folds
+callerCsuce folds
+moulecroute collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Seat 3: moulecroute (small blind) won 1690
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-13-1414717088 - Holdem no limit (15/30) - 2014/10/31 00:58:08 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (3233)
+Seat 2: callerCsuce (2203)
+Seat 3: moulecroute (1690)
+Seat 4: tchico81 (1179)
+Seat 6: sabre_laser (3245)
+Seat 7: BUBBLEBOY08 (1198)
+Seat 9: bettyboop49 (797)
+Seat 10: CompteSuisse (1455)
+*** ANTE/BLINDS ***
+tchico81 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Th 2h]
+*** PRE-FLOP *** 
+BUBBLEBOY08 raises 60 to 90
+bettyboop49 calls 90
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 235 to 325
+moulecroute folds
+tchico81 folds
+sabre_laser folds
+BUBBLEBOY08 calls 235
+bettyboop49 raises 472 to 797 and is all-in
+callerCsuce folds
+BUBBLEBOY08 calls 472
+*** FLOP *** [7h 4c Ks]
+*** TURN *** [7h 4c Ks][8s]
+*** RIVER *** [7h 4c Ks 8s][4h]
+*** SHOW DOWN ***
+bettyboop49 shows [Ts Ad] (One pair : 4)
+BUBBLEBOY08 shows [Qh Kd] (Two pairs : Kings and 4)
+BUBBLEBOY08 collected 1964 from pot
+*** SUMMARY ***
+Total pot 1964 | No rake
+Board: [7h 4c Ks 8s 4h]
+Seat 7: BUBBLEBOY08 showed [Qh Kd] and won 1964 with Two pairs : Kings and 4
+Seat 9: bettyboop49 showed [Ts Ad] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-14-1414717166 - Holdem no limit (15/30) - 2014/10/31 00:59:26 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #4 is the button
+Seat 1: elvicky30 (3233)
+Seat 2: callerCsuce (1878)
+Seat 3: moulecroute (1690)
+Seat 4: tchico81 (1164)
+Seat 6: sabre_laser (3215)
+Seat 7: BUBBLEBOY08 (2365)
+Seat 10: CompteSuisse (1455)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+BUBBLEBOY08 posts big blind 30
+Dealt to sabre_laser [8c Ac]
+*** PRE-FLOP *** 
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+tchico81 folds
+sabre_laser calls 15
+BUBBLEBOY08 raises 75 to 105
+sabre_laser calls 75
+*** FLOP *** [9d 2h 3d]
+sabre_laser checks
+BUBBLEBOY08 bets 105
+sabre_laser folds
+BUBBLEBOY08 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [9d 2h 3d]
+Seat 7: BUBBLEBOY08 (big blind) won 315
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-15-1414717217 - Holdem no limit (15/30) - 2014/10/31 01:00:17 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (3233)
+Seat 2: callerCsuce (1878)
+Seat 3: moulecroute (1690)
+Seat 4: tchico81 (1164)
+Seat 6: sabre_laser (3110)
+Seat 7: BUBBLEBOY08 (2470)
+Seat 10: CompteSuisse (1455)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 15
+CompteSuisse posts big blind 30
+Dealt to sabre_laser [Ac 2h]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 30 to 60
+moulecroute folds
+tchico81 folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: callerCsuce won 105
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #424953543259062273-16-1414717270 - Holdem no limit (15/30) - 2014/10/31 01:01:10 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (3233)
+Seat 2: callerCsuce (1923)
+Seat 3: moulecroute (1690)
+Seat 4: tchico81 (1164)
+Seat 6: sabre_laser (3110)
+Seat 7: BUBBLEBOY08 (2455)
+Seat 10: CompteSuisse (1425)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 15
+elvicky30 posts big blind 30
+Dealt to sabre_laser [5c Td]
+*** PRE-FLOP *** 
+callerCsuce raises 30 to 60
+moulecroute calls 60
+tchico81 calls 60
+sabre_laser folds
+BUBBLEBOY08 calls 60
+CompteSuisse folds
+elvicky30 folds
+*** FLOP *** [Qd Kh 2c]
+callerCsuce checks
+moulecroute checks
+tchico81 bets 1104 and is all-in
+BUBBLEBOY08 calls 1104
+callerCsuce folds
+moulecroute folds
+*** TURN *** [Qd Kh 2c][Ts]
+*** RIVER *** [Qd Kh 2c Ts][3d]
+*** SHOW DOWN ***
+tchico81 shows [Ks 7d] (One pair : Kings)
+BUBBLEBOY08 shows [Kd As] (One pair : Kings)
+BUBBLEBOY08 collected 2493 from pot
+*** SUMMARY ***
+Total pot 2493 | No rake
+Board: [Qd Kh 2c Ts 3d]
+Seat 4: tchico81 showed [Ks 7d] and lost with One pair : Kings
+Seat 7: BUBBLEBOY08 (button) showed [Kd As] and won 2493 with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-17-1414717342 - Holdem no limit (20/40) - 2014/10/31 01:02:22 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (3203)
+Seat 2: callerCsuce (1863)
+Seat 3: moulecroute (1630)
+Seat 6: sabre_laser (3110)
+Seat 7: BUBBLEBOY08 (3784)
+Seat 10: CompteSuisse (1410)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 20
+callerCsuce posts big blind 40
+Dealt to sabre_laser [8c Js]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 raises 60 to 100
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+BUBBLEBOY08 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 7: BUBBLEBOY08 won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-18-1414717374 - Holdem no limit (20/40) - 2014/10/31 01:02:54 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (3183)
+Seat 2: callerCsuce (1823)
+Seat 3: moulecroute (1630)
+Seat 6: sabre_laser (3110)
+Seat 7: BUBBLEBOY08 (3844)
+Seat 10: CompteSuisse (1410)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 20
+moulecroute posts big blind 40
+Dealt to sabre_laser [7s 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 50 to 90
+elvicky30 folds
+callerCsuce raises 50 to 140
+moulecroute raises 1490 to 1630 and is all-in
+CompteSuisse folds
+callerCsuce folds
+moulecroute collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 3: moulecroute (big blind) won 1860
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-19-1414717409 - Holdem no limit (20/40) - 2014/10/31 01:03:29 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (3183)
+Seat 2: callerCsuce (1683)
+Seat 3: moulecroute (1860)
+Seat 6: sabre_laser (3110)
+Seat 7: BUBBLEBOY08 (3844)
+Seat 10: CompteSuisse (1320)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Js Qc]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse raises 60 to 100
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+sabre_laser calls 60
+*** FLOP *** [4d 5h 5s]
+sabre_laser checks
+CompteSuisse bets 110
+sabre_laser folds
+CompteSuisse collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [4d 5h 5s]
+Seat 10: CompteSuisse won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-20-1414717447 - Holdem no limit (20/40) - 2014/10/31 01:04:07 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (3183)
+Seat 2: callerCsuce (1683)
+Seat 3: moulecroute (1840)
+Seat 6: sabre_laser (3010)
+Seat 7: BUBBLEBOY08 (3844)
+Seat 10: CompteSuisse (1440)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+BUBBLEBOY08 posts big blind 40
+Dealt to sabre_laser [Ac 7d]
+*** PRE-FLOP *** 
+CompteSuisse raises 60 to 100
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+sabre_laser calls 80
+BUBBLEBOY08 folds
+*** FLOP *** [2s 6h 7c]
+sabre_laser checks
+CompteSuisse checks
+*** TURN *** [2s 6h 7c][Kh]
+sabre_laser bets 120
+CompteSuisse folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2s 6h 7c Kh]
+Seat 6: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-21-1414717536 - Holdem no limit (20/40) - 2014/10/31 01:05:36 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (3183)
+Seat 2: callerCsuce (1683)
+Seat 3: moulecroute (1840)
+Seat 6: sabre_laser (3150)
+Seat 7: BUBBLEBOY08 (3804)
+Seat 10: CompteSuisse (1340)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 20
+CompteSuisse posts big blind 40
+Dealt to sabre_laser [5s Td]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 40 to 80
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: callerCsuce won 140
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-22-1414717557 - Holdem no limit (20/40) - 2014/10/31 01:05:57 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (3183)
+Seat 2: callerCsuce (1743)
+Seat 3: moulecroute (1840)
+Seat 6: sabre_laser (3150)
+Seat 7: BUBBLEBOY08 (3784)
+Seat 10: CompteSuisse (1300)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 20
+elvicky30 posts big blind 40
+Dealt to sabre_laser [5h Ac]
+*** PRE-FLOP *** 
+callerCsuce folds
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 40 to 80
+elvicky30 folds
+CompteSuisse collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 10: CompteSuisse (small blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-23-1414717591 - Holdem no limit (20/40) - 2014/10/31 01:06:31 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (3143)
+Seat 2: callerCsuce (1743)
+Seat 3: moulecroute (1840)
+Seat 6: sabre_laser (3150)
+Seat 7: BUBBLEBOY08 (3784)
+Seat 10: CompteSuisse (1340)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 20
+callerCsuce posts big blind 40
+Dealt to sabre_laser [Ah 5d]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 70 to 110
+elvicky30 folds
+callerCsuce calls 70
+*** FLOP *** [Kc 4s 7h]
+callerCsuce checks
+CompteSuisse checks
+*** TURN *** [Kc 4s 7h][8d]
+callerCsuce bets 40
+CompteSuisse folds
+callerCsuce collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Kc 4s 7h 8d]
+Seat 2: callerCsuce (big blind) won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-24-1414717639 - Holdem no limit (20/40) - 2014/10/31 01:07:19 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (3123)
+Seat 2: callerCsuce (1873)
+Seat 3: moulecroute (1840)
+Seat 6: sabre_laser (3150)
+Seat 7: BUBBLEBOY08 (3784)
+Seat 10: CompteSuisse (1230)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 20
+moulecroute posts big blind 40
+Dealt to sabre_laser [7d 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 80 to 120
+moulecroute folds
+callerCsuce collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: callerCsuce (small blind) won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-25-1414717664 - Holdem no limit (20/40) - 2014/10/31 01:07:44 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (3123)
+Seat 2: callerCsuce (1913)
+Seat 3: moulecroute (1800)
+Seat 6: sabre_laser (3150)
+Seat 7: BUBBLEBOY08 (3784)
+Seat 10: CompteSuisse (1230)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [3d Th]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 40 to 80
+moulecroute folds
+sabre_laser calls 40
+*** FLOP *** [4s 6h Kc]
+sabre_laser checks
+callerCsuce bets 90
+sabre_laser folds
+callerCsuce collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [4s 6h Kc]
+Seat 2: callerCsuce (button) won 270
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #424953543259062273-26-1414717715 - Holdem no limit (20/40) - 2014/10/31 01:08:35 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (3123)
+Seat 2: callerCsuce (2013)
+Seat 3: moulecroute (1780)
+Seat 6: sabre_laser (3070)
+Seat 7: BUBBLEBOY08 (3784)
+Seat 10: CompteSuisse (1230)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+BUBBLEBOY08 posts big blind 40
+Dealt to sabre_laser [3d Qc]
+*** PRE-FLOP *** 
+CompteSuisse raises 60 to 100
+elvicky30 folds
+callerCsuce calls 100
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 calls 60
+*** FLOP *** [8d Jh Ac]
+BUBBLEBOY08 checks
+CompteSuisse checks
+callerCsuce bets 160
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8d Jh Ac]
+Seat 2: callerCsuce won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-27-1414717807 - Holdem no limit (30/60) - 2014/10/31 01:10:07 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (3123)
+Seat 2: callerCsuce (2233)
+Seat 3: moulecroute (1780)
+Seat 6: sabre_laser (3050)
+Seat 7: BUBBLEBOY08 (3684)
+Seat 10: CompteSuisse (1130)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 30
+CompteSuisse posts big blind 60
+Dealt to sabre_laser [2s 7d]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 60 to 120
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce shows [As Qd] (High card : Ace)
+callerCsuce collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: callerCsuce showed [As Qd] and won 210 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-28-1414717837 - Holdem no limit (30/60) - 2014/10/31 01:10:37 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (3123)
+Seat 2: callerCsuce (2323)
+Seat 3: moulecroute (1780)
+Seat 6: sabre_laser (3050)
+Seat 7: BUBBLEBOY08 (3654)
+Seat 10: CompteSuisse (1070)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 30
+elvicky30 posts big blind 60
+Dealt to sabre_laser [Tc 6s]
+*** PRE-FLOP *** 
+callerCsuce raises 60 to 120
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: callerCsuce won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-29-1414717866 - Holdem no limit (30/60) - 2014/10/31 01:11:06 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (3063)
+Seat 2: callerCsuce (2413)
+Seat 3: moulecroute (1780)
+Seat 6: sabre_laser (3050)
+Seat 7: BUBBLEBOY08 (3654)
+Seat 10: CompteSuisse (1040)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 30
+callerCsuce posts big blind 60
+Dealt to sabre_laser [As 2d]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 raises 120 to 180
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 2233 to 2413 and is all-in
+BUBBLEBOY08 folds
+callerCsuce shows [Ac Qh] (High card : Ace)
+callerCsuce collected 2623 from pot
+*** SUMMARY ***
+Total pot 2623 | No rake
+Seat 2: callerCsuce (big blind) showed [Ac Qh] and won 2623 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-30-1414717930 - Holdem no limit (30/60) - 2014/10/31 01:12:10 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (3033)
+Seat 2: callerCsuce (2623)
+Seat 3: moulecroute (1780)
+Seat 6: sabre_laser (3050)
+Seat 7: BUBBLEBOY08 (3474)
+Seat 10: CompteSuisse (1040)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 30
+moulecroute posts big blind 60
+Dealt to sabre_laser [Qh 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 75 to 135
+elvicky30 folds
+callerCsuce raises 75 to 210
+moulecroute folds
+CompteSuisse folds
+callerCsuce collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Seat 2: callerCsuce (small blind) won 405
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-31-1414717975 - Holdem no limit (30/60) - 2014/10/31 01:12:55 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (3033)
+Seat 2: callerCsuce (2818)
+Seat 3: moulecroute (1720)
+Seat 6: sabre_laser (3050)
+Seat 7: BUBBLEBOY08 (3474)
+Seat 10: CompteSuisse (905)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [4s Js]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse raises 90 to 150
+elvicky30 folds
+callerCsuce folds
+moulecroute raises 1570 to 1720 and is all-in
+sabre_laser folds
+CompteSuisse calls 755 and is all-in
+*** FLOP *** [3s 4h 3d]
+*** TURN *** [3s 4h 3d][3h]
+*** RIVER *** [3s 4h 3d 3h][6d]
+*** SHOW DOWN ***
+CompteSuisse shows [Qs Qd] (Full of 3 and Queens)
+moulecroute shows [Kd As] (Trips of 3)
+moulecroute collected 815 from side pot 1
+CompteSuisse collected 1870 from main pot
+*** SUMMARY ***
+Total pot 2685 | No rake
+Board: [3s 4h 3d 3h 6d]
+Seat 3: moulecroute (small blind) showed [Kd As] and won 815 with Trips of 3
+Seat 10: CompteSuisse showed [Qs Qd] and won 1870 with Full of 3 and Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-32-1414718032 - Holdem no limit (30/60) - 2014/10/31 01:13:52 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (3033)
+Seat 2: callerCsuce (2818)
+Seat 3: moulecroute (815)
+Seat 6: sabre_laser (2990)
+Seat 7: BUBBLEBOY08 (3474)
+Seat 10: CompteSuisse (1870)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+BUBBLEBOY08 posts big blind 60
+Dealt to sabre_laser [3d Js]
+*** PRE-FLOP *** 
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 60 to 120
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+callerCsuce collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: callerCsuce won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-33-1414718058 - Holdem no limit (30/60) - 2014/10/31 01:14:18 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (3033)
+Seat 2: callerCsuce (2908)
+Seat 3: moulecroute (815)
+Seat 6: sabre_laser (2960)
+Seat 7: BUBBLEBOY08 (3414)
+Seat 10: CompteSuisse (1870)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 30
+CompteSuisse posts big blind 60
+Dealt to sabre_laser [9d Kh]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 60 to 120
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: callerCsuce won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-34-1414718088 - Holdem no limit (30/60) - 2014/10/31 01:14:48 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (3033)
+Seat 2: callerCsuce (2998)
+Seat 3: moulecroute (815)
+Seat 6: sabre_laser (2960)
+Seat 7: BUBBLEBOY08 (3384)
+Seat 10: CompteSuisse (1810)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 30
+elvicky30 posts big blind 60
+Dealt to sabre_laser [9c 5c]
+*** PRE-FLOP *** 
+callerCsuce raises 60 to 120
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 calls 120
+CompteSuisse raises 1690 to 1810 and is all-in
+elvicky30 folds
+callerCsuce folds
+BUBBLEBOY08 folds
+CompteSuisse collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 10: CompteSuisse (small blind) won 2110
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-35-1414718125 - Holdem no limit (30/60) - 2014/10/31 01:15:25 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (2973)
+Seat 2: callerCsuce (2878)
+Seat 3: moulecroute (815)
+Seat 6: sabre_laser (2960)
+Seat 7: BUBBLEBOY08 (3264)
+Seat 10: CompteSuisse (2110)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 30
+callerCsuce posts big blind 60
+Dealt to sabre_laser [7s 5d]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: callerCsuce (big blind) won 90
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-36-1414718161 - Holdem no limit (30/60) - 2014/10/31 01:16:01 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (2943)
+Seat 2: callerCsuce (2908)
+Seat 3: moulecroute (815)
+Seat 6: sabre_laser (2960)
+Seat 7: BUBBLEBOY08 (3264)
+Seat 10: CompteSuisse (2110)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 30
+moulecroute posts big blind 60
+Dealt to sabre_laser [6d 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 75 to 135
+elvicky30 folds
+callerCsuce calls 105
+moulecroute raises 680 to 815 and is all-in
+CompteSuisse folds
+callerCsuce folds
+moulecroute collected 1085 from pot
+*** SUMMARY ***
+Total pot 1085 | No rake
+Seat 3: moulecroute (big blind) won 1085
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #424953543259062273-37-1414718206 - Holdem no limit (30/60) - 2014/10/31 01:16:46 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (2943)
+Seat 2: callerCsuce (2773)
+Seat 3: moulecroute (1085)
+Seat 6: sabre_laser (2960)
+Seat 7: BUBBLEBOY08 (3264)
+Seat 10: CompteSuisse (1975)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [8h Qs]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 60 to 120
+moulecroute folds
+sabre_laser calls 60
+*** FLOP *** [2h 9c 5s]
+sabre_laser checks
+callerCsuce bets 135
+sabre_laser folds
+callerCsuce collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [2h 9c 5s]
+Seat 2: callerCsuce (button) won 405
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-38-1414718262 - Holdem no limit (40/80) - 2014/10/31 01:17:42 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (2943)
+Seat 2: callerCsuce (2923)
+Seat 3: moulecroute (1055)
+Seat 6: sabre_laser (2840)
+Seat 7: BUBBLEBOY08 (3264)
+Seat 10: CompteSuisse (1975)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+BUBBLEBOY08 posts big blind 80
+Dealt to sabre_laser [4c 9s]
+*** PRE-FLOP *** 
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 80 to 160
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+callerCsuce collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: callerCsuce won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-39-1414718287 - Holdem no limit (40/80) - 2014/10/31 01:18:07 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (2943)
+Seat 2: callerCsuce (3043)
+Seat 3: moulecroute (1055)
+Seat 6: sabre_laser (2800)
+Seat 7: BUBBLEBOY08 (3184)
+Seat 10: CompteSuisse (1975)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 40
+CompteSuisse posts big blind 80
+Dealt to sabre_laser [6h Qc]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 80 to 160
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: callerCsuce won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-40-1414718311 - Holdem no limit (40/80) - 2014/10/31 01:18:31 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (2943)
+Seat 2: callerCsuce (3163)
+Seat 3: moulecroute (1055)
+Seat 6: sabre_laser (2800)
+Seat 7: BUBBLEBOY08 (3144)
+Seat 10: CompteSuisse (1895)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 40
+elvicky30 posts big blind 80
+Dealt to sabre_laser [6d Ts]
+*** PRE-FLOP *** 
+callerCsuce raises 80 to 160
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 calls 160
+CompteSuisse folds
+elvicky30 folds
+*** FLOP *** [Th 7d Ac]
+callerCsuce bets 220
+BUBBLEBOY08 calls 220
+*** TURN *** [Th 7d Ac][4s]
+callerCsuce bets 440
+BUBBLEBOY08 folds
+callerCsuce shows [5c 6s] (High card : Ace)
+callerCsuce collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [Th 7d Ac 4s]
+Seat 2: callerCsuce showed [5c 6s] and won 1320 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-41-1414718353 - Holdem no limit (40/80) - 2014/10/31 01:19:13 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (2863)
+Seat 2: callerCsuce (3663)
+Seat 3: moulecroute (1055)
+Seat 6: sabre_laser (2800)
+Seat 7: BUBBLEBOY08 (2764)
+Seat 10: CompteSuisse (1855)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 40
+callerCsuce posts big blind 80
+Dealt to sabre_laser [Jd 7h]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 raises 120 to 200
+CompteSuisse folds
+elvicky30 folds
+callerCsuce calls 120
+*** FLOP *** [Jc 6s 5h]
+callerCsuce checks
+BUBBLEBOY08 bets 220
+callerCsuce folds
+BUBBLEBOY08 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Jc 6s 5h]
+Seat 7: BUBBLEBOY08 won 660
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-42-1414718405 - Holdem no limit (40/80) - 2014/10/31 01:20:05 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (2823)
+Seat 2: callerCsuce (3463)
+Seat 3: moulecroute (1055)
+Seat 6: sabre_laser (2800)
+Seat 7: BUBBLEBOY08 (3004)
+Seat 10: CompteSuisse (1855)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 40
+moulecroute posts big blind 80
+Dealt to sabre_laser [8s 7d]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 100 to 180
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+CompteSuisse collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 10: CompteSuisse won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-43-1414718444 - Holdem no limit (40/80) - 2014/10/31 01:20:44 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (2823)
+Seat 2: callerCsuce (3423)
+Seat 3: moulecroute (975)
+Seat 6: sabre_laser (2800)
+Seat 7: BUBBLEBOY08 (3004)
+Seat 10: CompteSuisse (1975)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Th Qd]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse raises 120 to 200
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+sabre_laser calls 120
+*** FLOP *** [7s Js 6s]
+sabre_laser checks
+CompteSuisse checks
+*** TURN *** [7s Js 6s][3s]
+sabre_laser bets 220
+CompteSuisse calls 220
+*** RIVER *** [7s Js 6s 3s][Ac]
+sabre_laser checks
+CompteSuisse bets 880
+sabre_laser folds
+CompteSuisse collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [7s Js 6s 3s Ac]
+Seat 10: CompteSuisse won 1760
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-44-1414718536 - Holdem no limit (40/80) - 2014/10/31 01:22:16 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (2823)
+Seat 2: callerCsuce (3423)
+Seat 3: moulecroute (935)
+Seat 6: sabre_laser (2380)
+Seat 7: BUBBLEBOY08 (3004)
+Seat 10: CompteSuisse (2435)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+BUBBLEBOY08 posts big blind 80
+Dealt to sabre_laser [2h Qs]
+*** PRE-FLOP *** 
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 100 to 180
+moulecroute raises 755 to 935 and is all-in
+sabre_laser folds
+BUBBLEBOY08 folds
+callerCsuce folds
+moulecroute collected 1235 from pot
+*** SUMMARY ***
+Total pot 1235 | No rake
+Seat 3: moulecroute (button) won 1235
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-45-1414718578 - Holdem no limit (40/80) - 2014/10/31 01:22:58 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (2823)
+Seat 2: callerCsuce (3243)
+Seat 3: moulecroute (1235)
+Seat 6: sabre_laser (2340)
+Seat 7: BUBBLEBOY08 (2924)
+Seat 10: CompteSuisse (2435)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 40
+CompteSuisse posts big blind 80
+Dealt to sabre_laser [4c Th]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 80 to 160
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: callerCsuce won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-46-1414718607 - Holdem no limit (40/80) - 2014/10/31 01:23:27 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (2823)
+Seat 2: callerCsuce (3363)
+Seat 3: moulecroute (1235)
+Seat 6: sabre_laser (2340)
+Seat 7: BUBBLEBOY08 (2884)
+Seat 10: CompteSuisse (2355)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 40
+elvicky30 posts big blind 80
+Dealt to sabre_laser [5s 7c]
+*** PRE-FLOP *** 
+callerCsuce folds
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 raises 160 to 240
+CompteSuisse folds
+elvicky30 folds
+BUBBLEBOY08 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 7: BUBBLEBOY08 (button) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-47-1414718642 - Holdem no limit (40/80) - 2014/10/31 01:24:02 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (2743)
+Seat 2: callerCsuce (3363)
+Seat 3: moulecroute (1235)
+Seat 6: sabre_laser (2340)
+Seat 7: BUBBLEBOY08 (3004)
+Seat 10: CompteSuisse (2315)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 40
+callerCsuce posts big blind 80
+Dealt to sabre_laser [4d 9h]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+callerCsuce collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: callerCsuce (big blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #424953543259062273-48-1414718669 - Holdem no limit (40/80) - 2014/10/31 01:24:29 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (2703)
+Seat 2: callerCsuce (3403)
+Seat 3: moulecroute (1235)
+Seat 6: sabre_laser (2340)
+Seat 7: BUBBLEBOY08 (3004)
+Seat 10: CompteSuisse (2315)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 40
+moulecroute posts big blind 80
+Dealt to sabre_laser [7c 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 100 to 180
+elvicky30 folds
+callerCsuce raises 420 to 600
+moulecroute folds
+CompteSuisse folds
+callerCsuce collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 2: callerCsuce (small blind) won 860
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-49-1414718733 - Holdem no limit (60/120) - 2014/10/31 01:25:33 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (2703)
+Seat 2: callerCsuce (3663)
+Seat 3: moulecroute (1155)
+Seat 6: sabre_laser (2340)
+Seat 7: BUBBLEBOY08 (3004)
+Seat 10: CompteSuisse (2135)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3s 6h]
+*** PRE-FLOP *** 
+BUBBLEBOY08 calls 120
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 420 to 540
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 raises 2464 to 3004 and is all-in
+callerCsuce folds
+BUBBLEBOY08 collected 3724 from pot
+*** SUMMARY ***
+Total pot 3724 | No rake
+Seat 7: BUBBLEBOY08 won 3724
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-50-1414718779 - Holdem no limit (60/120) - 2014/10/31 01:26:19 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (2703)
+Seat 2: callerCsuce (3123)
+Seat 3: moulecroute (1095)
+Seat 6: sabre_laser (2220)
+Seat 7: BUBBLEBOY08 (3724)
+Seat 10: CompteSuisse (2135)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+BUBBLEBOY08 posts big blind 120
+Dealt to sabre_laser [Ad 8h]
+*** PRE-FLOP *** 
+CompteSuisse folds
+elvicky30 folds
+callerCsuce folds
+moulecroute raises 975 to 1095 and is all-in
+sabre_laser folds
+BUBBLEBOY08 folds
+moulecroute collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Seat 3: moulecroute (button) won 1275
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-51-1414718809 - Holdem no limit (60/120) - 2014/10/31 01:26:49 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (2703)
+Seat 2: callerCsuce (3123)
+Seat 3: moulecroute (1275)
+Seat 6: sabre_laser (2160)
+Seat 7: BUBBLEBOY08 (3604)
+Seat 10: CompteSuisse (2135)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 60
+CompteSuisse posts big blind 120
+Dealt to sabre_laser [6h 9h]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce raises 120 to 240
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+callerCsuce collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: callerCsuce won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-52-1414718829 - Holdem no limit (60/120) - 2014/10/31 01:27:09 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (2703)
+Seat 2: callerCsuce (3303)
+Seat 3: moulecroute (1275)
+Seat 6: sabre_laser (2160)
+Seat 7: BUBBLEBOY08 (3544)
+Seat 10: CompteSuisse (2015)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 60
+elvicky30 posts big blind 120
+Dealt to sabre_laser [3s Qc]
+*** PRE-FLOP *** 
+callerCsuce raises 120 to 240
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 1775 to 2015 and is all-in
+elvicky30 folds
+callerCsuce folds
+CompteSuisse collected 2375 from pot
+*** SUMMARY ***
+Total pot 2375 | No rake
+Seat 10: CompteSuisse (small blind) won 2375
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-53-1414718871 - Holdem no limit (60/120) - 2014/10/31 01:27:51 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (2583)
+Seat 2: callerCsuce (3063)
+Seat 3: moulecroute (1275)
+Seat 6: sabre_laser (2160)
+Seat 7: BUBBLEBOY08 (3544)
+Seat 10: CompteSuisse (2375)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 60
+callerCsuce posts big blind 120
+Dealt to sabre_laser [5d 2c]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 calls 120
+CompteSuisse folds
+elvicky30 folds
+callerCsuce raises 480 to 600
+BUBBLEBOY08 folds
+callerCsuce collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 2: callerCsuce (big blind) won 780
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-54-1414718921 - Holdem no limit (60/120) - 2014/10/31 01:28:41 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (2523)
+Seat 2: callerCsuce (3243)
+Seat 3: moulecroute (1275)
+Seat 6: sabre_laser (2160)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (2375)
+*** ANTE/BLINDS ***
+callerCsuce posts small blind 60
+moulecroute posts big blind 120
+Dealt to sabre_laser [3h Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 150 to 270
+elvicky30 folds
+callerCsuce raises 2973 to 3243 and is all-in
+moulecroute folds
+CompteSuisse calls 2105 and is all-in
+*** FLOP *** [7d 3s 9c]
+*** TURN *** [7d 3s 9c][7c]
+*** RIVER *** [7d 3s 9c 7c][Kd]
+*** SHOW DOWN ***
+CompteSuisse shows [Qh Qs] (Two pairs : Queens and 7)
+callerCsuce shows [4h 4s] (Two pairs : 7 and 4)
+callerCsuce collected 868 from side pot 1
+CompteSuisse collected 4870 from main pot
+*** SUMMARY ***
+Total pot 5738 | No rake
+Board: [7d 3s 9c 7c Kd]
+Seat 2: callerCsuce (small blind) showed [4h 4s] and won 868 with Two pairs : 7 and 4
+Seat 10: CompteSuisse showed [Qh Qs] and won 4870 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-55-1414718960 - Holdem no limit (60/120) - 2014/10/31 01:29:20 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #2 is the button
+Seat 1: elvicky30 (2523)
+Seat 2: callerCsuce (868)
+Seat 3: moulecroute (1155)
+Seat 6: sabre_laser (2160)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (4870)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Js 6s]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse raises 180 to 300
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+sabre_laser folds
+CompteSuisse collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 10: CompteSuisse won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-56-1414718997 - Holdem no limit (60/120) - 2014/10/31 01:29:57 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (2523)
+Seat 2: callerCsuce (868)
+Seat 3: moulecroute (1095)
+Seat 6: sabre_laser (2040)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (5050)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+BUBBLEBOY08 posts big blind 120
+Dealt to sabre_laser [3s 8s]
+*** PRE-FLOP *** 
+CompteSuisse raises 180 to 300
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 10: CompteSuisse won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-57-1414719036 - Holdem no limit (60/120) - 2014/10/31 01:30:36 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (2523)
+Seat 2: callerCsuce (868)
+Seat 3: moulecroute (1095)
+Seat 6: sabre_laser (1980)
+Seat 7: BUBBLEBOY08 (3304)
+Seat 10: CompteSuisse (5230)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 60
+CompteSuisse posts big blind 120
+Dealt to sabre_laser [6d 7s]
+*** PRE-FLOP *** 
+elvicky30 folds
+callerCsuce folds
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 raises 300 to 420
+CompteSuisse folds
+BUBBLEBOY08 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 7: BUBBLEBOY08 (small blind) won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-58-1414719095 - Holdem no limit (60/120) - 2014/10/31 01:31:35 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (2523)
+Seat 2: callerCsuce (868)
+Seat 3: moulecroute (1095)
+Seat 6: sabre_laser (1980)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (5110)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 60
+elvicky30 posts big blind 120
+Dealt to sabre_laser [Td Ts]
+*** PRE-FLOP *** 
+callerCsuce raises 748 to 868 and is all-in
+moulecroute folds
+sabre_laser raises 1112 to 1980 and is all-in
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+*** FLOP *** [As Qs Th]
+*** TURN *** [As Qs Th][7h]
+*** RIVER *** [As Qs Th 7h][4h]
+*** SHOW DOWN ***
+callerCsuce shows [6h 4s] (One pair : 4)
+sabre_laser shows [Td Ts] (Trips of Tens)
+sabre_laser collected 3028 from pot
+*** SUMMARY ***
+Total pot 3028 | No rake
+Board: [As Qs Th 7h 4h]
+Seat 2: callerCsuce showed [6h 4s] and lost with One pair : 4
+Seat 6: sabre_laser showed [Td Ts] and won 3028 with Trips of Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-59-1414719139 - Holdem no limit (60/120) - 2014/10/31 01:32:19 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (2403)
+Seat 3: moulecroute (1095)
+Seat 6: sabre_laser (3028)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (5050)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 60
+moulecroute posts big blind 120
+Dealt to sabre_laser [6c 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 4930 to 5050 and is all-in
+elvicky30 folds
+moulecroute calls 975 and is all-in
+*** FLOP *** [9h 5h Kd]
+*** TURN *** [9h 5h Kd][6d]
+*** RIVER *** [9h 5h Kd 6d][4c]
+*** SHOW DOWN ***
+moulecroute shows [Tc Th] (One pair : Tens)
+CompteSuisse shows [7c 9s] (One pair : 9)
+CompteSuisse collected 3955 from side pot 1
+moulecroute collected 2250 from main pot
+*** SUMMARY ***
+Total pot 6205 | No rake
+Board: [9h 5h Kd 6d 4c]
+Seat 3: moulecroute (big blind) showed [Tc Th] and won 2250 with One pair : Tens
+Seat 10: CompteSuisse (button) showed [7c 9s] and won 3955 with One pair : 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #424953543259062273-60-1414719180 - Holdem no limit (60/120) - 2014/10/31 01:33:00 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (2343)
+Seat 3: moulecroute (2250)
+Seat 6: sabre_laser (3028)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (3955)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Qc 5h]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse folds
+elvicky30 folds
+moulecroute folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #424953543259062273-61-1414719197 - Holdem no limit (80/160) - 2014/10/31 01:33:17 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #3 is the button
+Seat 1: elvicky30 (2343)
+Seat 3: moulecroute (2190)
+Seat 6: sabre_laser (3088)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (3955)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+BUBBLEBOY08 posts big blind 160
+Dealt to sabre_laser [2d Qc]
+*** PRE-FLOP *** 
+CompteSuisse folds
+elvicky30 folds
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: BUBBLEBOY08 (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #424953543259062273-62-1414719218 - Holdem no limit (80/160) - 2014/10/31 01:33:38 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #6 is the button
+Seat 1: elvicky30 (2343)
+Seat 3: moulecroute (2190)
+Seat 6: sabre_laser (3008)
+Seat 7: BUBBLEBOY08 (3504)
+Seat 10: CompteSuisse (3955)
+*** ANTE/BLINDS ***
+BUBBLEBOY08 posts small blind 80
+CompteSuisse posts big blind 160
+Dealt to sabre_laser [7c 8s]
+*** PRE-FLOP *** 
+elvicky30 folds
+moulecroute raises 2030 to 2190 and is all-in
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse folds
+moulecroute collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Seat 3: moulecroute won 2430
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #424953543259062273-63-1414719243 - Holdem no limit (80/160) - 2014/10/31 01:34:03 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #7 is the button
+Seat 1: elvicky30 (2343)
+Seat 3: moulecroute (2430)
+Seat 6: sabre_laser (3008)
+Seat 7: BUBBLEBOY08 (3424)
+Seat 10: CompteSuisse (3795)
+*** ANTE/BLINDS ***
+CompteSuisse posts small blind 80
+elvicky30 posts big blind 160
+Dealt to sabre_laser [5h 8c]
+*** PRE-FLOP *** 
+moulecroute folds
+sabre_laser folds
+BUBBLEBOY08 raises 320 to 480
+CompteSuisse folds
+elvicky30 folds
+BUBBLEBOY08 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 7: BUBBLEBOY08 (button) won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #424953543259062273-64-1414719276 - Holdem no limit (80/160) - 2014/10/31 01:34:36 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #10 is the button
+Seat 1: elvicky30 (2183)
+Seat 3: moulecroute (2430)
+Seat 6: sabre_laser (3008)
+Seat 7: BUBBLEBOY08 (3664)
+Seat 10: CompteSuisse (3715)
+*** ANTE/BLINDS ***
+elvicky30 posts small blind 80
+moulecroute posts big blind 160
+Dealt to sabre_laser [Qs 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+BUBBLEBOY08 folds
+CompteSuisse raises 280 to 440
+elvicky30 folds
+moulecroute folds
+CompteSuisse collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 10: CompteSuisse (button) won 680
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #424953543259062273-65-1414719300 - Holdem no limit (80/160) - 2014/10/31 01:35:00 UTC
+Table: 'No Limit Hold'em(98942207)#0' 10-max (real money) Seat #1 is the button
+Seat 1: elvicky30 (2103)
+Seat 3: moulecroute (2270)
+Seat 6: sabre_laser (3008)
+Seat 7: BUBBLEBOY08 (3664)
+Seat 10: CompteSuisse (3955)
+*** ANTE/BLINDS ***
+moulecroute posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Qc 9c]
+*** PRE-FLOP *** 
+BUBBLEBOY08 folds
+CompteSuisse raises 200 to 360
+elvicky30 folds
+moulecroute folds
+sabre_laser calls 200
+*** FLOP *** [Qd 6s 5d]
+sabre_laser checks
+CompteSuisse bets 400
+sabre_laser raises 560 to 960
+CompteSuisse calls 560
+*** TURN *** [Qd 6s 5d][7d]
+sabre_laser bets 1688 and is all-in
+CompteSuisse calls 1688
+*** RIVER *** [Qd 6s 5d 7d][3s]
+*** SHOW DOWN ***
+sabre_laser shows [Qc 9c] (One pair : Queens)
+CompteSuisse shows [5h 5s] (Trips of 5)
+CompteSuisse collected 6096 from pot
+*** SUMMARY ***
+Total pot 6096 | No rake
+Board: [Qd 6s 5d 7d 3s]
+Seat 6: sabre_laser (big blind) showed [Qc 9c] and lost with One pair : Queens
+Seat 10: CompteSuisse showed [5h 5s] and won 6096 with Trips of 5
+
+

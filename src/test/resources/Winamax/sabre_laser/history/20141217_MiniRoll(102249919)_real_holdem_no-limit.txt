@@ -1,0 +1,274 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #439160058123649303-3-1418848371 - Holdem no limit (40/250/500) - 2014/12/17 20:32:51 UTC
+Table: 'MiniRoll(102249919)#278' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: As_CoEuR_810 (5960)
+Seat 3: Finwe (35395)
+Seat 4: mf13mf (18320)
+Seat 5: kev8706 (10715)
+Seat 6: phil987 (30100)
+*** ANTE/BLINDS ***
+As_CoEuR_810 posts ante 40
+Finwe posts ante 40
+mf13mf posts ante 40
+kev8706 posts ante 40
+phil987 posts ante 40
+As_CoEuR_810 posts big blind 500
+*** PRE-FLOP *** 
+Finwe folds
+mf13mf folds
+kev8706 folds
+phil987 folds
+As_CoEuR_810 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 2: As_CoEuR_810 (big blind) won 700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #439160058123649303-4-1418848413 - Holdem no limit (40/250/500) - 2014/12/17 20:33:33 UTC
+Table: 'MiniRoll(102249919)#278' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: As_CoEuR_810 (6120)
+Seat 3: Finwe (35355)
+Seat 4: mf13mf (18280)
+Seat 5: kev8706 (10675)
+Seat 6: phil987 (30060)
+*** ANTE/BLINDS ***
+As_CoEuR_810 posts ante 40
+Finwe posts ante 40
+mf13mf posts ante 40
+kev8706 posts ante 40
+phil987 posts ante 40
+As_CoEuR_810 posts small blind 250
+Finwe posts big blind 500
+*** PRE-FLOP *** 
+mf13mf calls 500
+kev8706 folds
+phil987 folds
+As_CoEuR_810 calls 250
+Finwe checks
+*** FLOP *** [5c 7h 7s]
+As_CoEuR_810 checks
+Finwe checks
+mf13mf checks
+*** TURN *** [5c 7h 7s][Qc]
+As_CoEuR_810 checks
+Finwe checks
+mf13mf bets 1133
+As_CoEuR_810 folds
+Finwe folds
+mf13mf collected 2833 from pot
+*** SUMMARY ***
+Total pot 2833 | No rake
+Board: [5c 7h 7s Qc]
+Seat 4: mf13mf won 2833
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #439160058123649303-5-1418848506 - Holdem no limit (40/250/500) - 2014/12/17 20:35:06 UTC
+Table: 'MiniRoll(102249919)#278' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: As_CoEuR_810 (5580)
+Seat 3: Finwe (34815)
+Seat 4: mf13mf (19440)
+Seat 5: kev8706 (10635)
+Seat 6: phil987 (30020)
+*** ANTE/BLINDS ***
+Finwe posts ante 40
+mf13mf posts ante 40
+sabre_laser posts ante 40
+As_CoEuR_810 posts ante 40
+kev8706 posts ante 40
+phil987 posts ante 40
+Finwe posts small blind 250
+mf13mf posts big blind 500
+Dealt to sabre_laser [8h Qh]
+*** PRE-FLOP *** 
+kev8706 calls 500
+phil987 folds
+sabre_laser calls 500
+As_CoEuR_810 folds
+Finwe raises 500 to 1000
+mf13mf calls 500
+kev8706 calls 500
+sabre_laser calls 500
+*** FLOP *** [Ks Ac Qs]
+Finwe checks
+mf13mf checks
+kev8706 checks
+sabre_laser checks
+*** TURN *** [Ks Ac Qs][Ah]
+Finwe checks
+mf13mf bets 2827
+kev8706 folds
+sabre_laser folds
+Finwe folds
+mf13mf collected 7067 from pot
+*** SUMMARY ***
+Total pot 7067 | No rake
+Board: [Ks Ac Qs Ah]
+Seat 4: mf13mf (big blind) won 7067
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #439160058123649303-6-1418848567 - Holdem no limit (40/250/500) - 2014/12/17 20:36:07 UTC
+Table: 'MiniRoll(102249919)#278' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (8960)
+Seat 2: As_CoEuR_810 (5540)
+Seat 3: Finwe (33775)
+Seat 4: mf13mf (22640)
+Seat 5: kev8706 (9595)
+Seat 6: phil987 (29980)
+*** ANTE/BLINDS ***
+mf13mf posts ante 40
+kev8706 posts ante 40
+sabre_laser posts ante 40
+As_CoEuR_810 posts ante 40
+Finwe posts ante 40
+phil987 posts ante 40
+mf13mf posts small blind 250
+kev8706 posts big blind 500
+Dealt to sabre_laser [Qs 7s]
+*** PRE-FLOP *** 
+phil987 folds
+sabre_laser calls 500
+As_CoEuR_810 folds
+Finwe folds
+mf13mf calls 250
+kev8706 checks
+*** FLOP *** [2s Tc 8h]
+mf13mf checks
+kev8706 checks
+sabre_laser bets 1000
+mf13mf calls 1000
+kev8706 folds
+*** TURN *** [2s Tc 8h][2h]
+mf13mf bets 1250
+sabre_laser calls 1250
+*** RIVER *** [2s Tc 8h 2h][6h]
+mf13mf checks
+sabre_laser bets 3120
+mf13mf calls 3120
+*** SHOW DOWN ***
+sabre_laser shows [Qs 7s] (One pair : 2)
+mf13mf shows [Th 7c] (Two pairs : Tens and 2)
+mf13mf collected 12480 from pot
+*** SUMMARY ***
+Total pot 12480 | No rake
+Board: [2s Tc 8h 2h 6h]
+Seat 1: sabre_laser showed [Qs 7s] and lost with One pair : 2
+Seat 4: mf13mf (small blind) showed [Th 7c] and won 12480 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #439160058123649303-7-1418848650 - Holdem no limit (40/250/500) - 2014/12/17 20:37:30 UTC
+Table: 'MiniRoll(102249919)#278' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3050)
+Seat 2: As_CoEuR_810 (5500)
+Seat 3: Finwe (33735)
+Seat 4: mf13mf (29210)
+Seat 5: kev8706 (9055)
+Seat 6: phil987 (29940)
+*** ANTE/BLINDS ***
+kev8706 posts ante 40
+phil987 posts ante 40
+sabre_laser posts ante 40
+As_CoEuR_810 posts ante 40
+Finwe posts ante 40
+mf13mf posts ante 40
+kev8706 posts small blind 250
+phil987 posts big blind 500
+Dealt to sabre_laser [Kd 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+As_CoEuR_810 folds
+Finwe folds
+mf13mf folds
+kev8706 raises 1000 to 1500
+phil987 folds
+kev8706 collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Seat 5: kev8706 (small blind) won 2240
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #439160058123649303-8-1418848688 - Holdem no limit (40/250/500) - 2014/12/17 20:38:08 UTC
+Table: 'MiniRoll(102249919)#278' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (3010)
+Seat 2: As_CoEuR_810 (5460)
+Seat 3: Finwe (33695)
+Seat 4: mf13mf (29170)
+Seat 5: kev8706 (9755)
+Seat 6: phil987 (29400)
+*** ANTE/BLINDS ***
+phil987 posts ante 40
+sabre_laser posts ante 40
+As_CoEuR_810 posts ante 40
+Finwe posts ante 40
+mf13mf posts ante 40
+kev8706 posts ante 40
+phil987 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [9s 7h]
+*** PRE-FLOP *** 
+As_CoEuR_810 folds
+Finwe calls 500
+mf13mf folds
+kev8706 calls 500
+phil987 folds
+sabre_laser checks
+*** FLOP *** [3s 2s Kh]
+sabre_laser checks
+Finwe checks
+kev8706 bets 1250
+sabre_laser folds
+Finwe folds
+kev8706 collected 3240 from pot
+*** SUMMARY ***
+Total pot 3240 | No rake
+Board: [3s 2s Kh]
+Seat 5: kev8706 (button) won 3240
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #439160058123649303-9-1418848749 - Holdem no limit (60/300/600) - 2014/12/17 20:39:09 UTC
+Table: 'MiniRoll(102249919)#278' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2470)
+Seat 2: As_CoEuR_810 (5420)
+Seat 3: Finwe (33155)
+Seat 4: mf13mf (29130)
+Seat 5: kev8706 (11205)
+Seat 6: phil987 (29110)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 60
+As_CoEuR_810 posts ante 60
+Finwe posts ante 60
+mf13mf posts ante 60
+kev8706 posts ante 60
+phil987 posts ante 60
+sabre_laser posts small blind 300
+As_CoEuR_810 posts big blind 600
+Dealt to sabre_laser [Tc Td]
+*** PRE-FLOP *** 
+Finwe raises 600 to 1200
+mf13mf calls 1200
+kev8706 calls 1200
+phil987 folds
+sabre_laser raises 1210 to 2410 and is all-in
+As_CoEuR_810 folds
+Finwe calls 1210
+mf13mf raises 1210 to 3620
+kev8706 folds
+Finwe calls 1210
+*** FLOP *** [3c Kd 6d]
+Finwe checks
+mf13mf bets 25450 and is all-in
+Finwe folds
+*** TURN *** [3c Kd 6d][5h]
+*** RIVER *** [3c Kd 6d 5h][7h]
+*** SHOW DOWN ***
+sabre_laser shows [Tc Td] (One pair : Tens)
+mf13mf shows [Th Kh] (One pair : Kings)
+mf13mf collected 37260 from pot
+*** SUMMARY ***
+Total pot 37260 | No rake
+Board: [3c Kd 6d 5h 7h]
+Seat 1: sabre_laser (small blind) showed [Tc Td] and lost with One pair : Tens
+Seat 4: mf13mf showed [Th Kh] and won 37260 with One pair : Kings
+
+

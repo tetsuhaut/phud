@@ -1,0 +1,221 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #566940489140404370-10-1444484559 - Holdem no limit (40/80) - 2015/10/10 13:42:39 UTC
+Table: 'Freeroll(132001119)#145' 9-max (real money) Seat #4 is the button
+Seat 1: opsfx09dz (2900)
+Seat 2: Marie2350 (2930)
+Seat 3: WALTER-KIKI (18335)
+Seat 5: sabre_laser (3000)
+Seat 6: CP40 (5910)
+Seat 7: Fuxman_at (5895)
+Seat 8: karinoah (3000)
+Seat 9: jeandoc222 (2940)
+*** ANTE/BLINDS ***
+Fuxman_at posts small blind 40
+karinoah posts big blind 80
+*** PRE-FLOP *** 
+jeandoc222 folds
+opsfx09dz folds
+Marie2350 folds
+WALTER-KIKI calls 80
+Fuxman_at raises 5815 to 5895 and is all-in
+karinoah calls 2920 and is all-in
+WALTER-KIKI folds
+*** FLOP *** [Td Ac 2h]
+*** TURN *** [Td Ac 2h][6s]
+*** RIVER *** [Td Ac 2h 6s][5s]
+*** SHOW DOWN ***
+karinoah shows [5d 5c] (Trips of 5)
+Fuxman_at shows [6d 6c] (Trips of 6)
+Fuxman_at collected 8975 from pot
+*** SUMMARY ***
+Total pot 8975 | No rake
+Board: [Td Ac 2h 6s 5s]
+Seat 7: Fuxman_at (small blind) showed [6d 6c] and won 8975 with Trips of 6
+Seat 8: karinoah (big blind) showed [5d 5c] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #566940489140404370-11-1444484582 - Holdem no limit (40/80) - 2015/10/10 13:43:02 UTC
+Table: 'Freeroll(132001119)#145' 9-max (real money) Seat #7 is the button
+Seat 1: opsfx09dz (2900)
+Seat 2: Marie2350 (2930)
+Seat 3: WALTER-KIKI (18255)
+Seat 4: tmdr26 (3000)
+Seat 5: sabre_laser (3000)
+Seat 6: CP40 (5910)
+Seat 7: Fuxman_at (8975)
+Seat 9: jeandoc222 (2940)
+*** ANTE/BLINDS ***
+jeandoc222 posts big blind 80
+Dealt to sabre_laser [4c 7s]
+*** PRE-FLOP *** 
+opsfx09dz folds
+Marie2350 folds
+WALTER-KIKI calls 80
+tmdr26 calls 80
+sabre_laser folds
+CP40 folds
+Fuxman_at calls 80
+jeandoc222 folds
+*** FLOP *** [Ac 8s 8c]
+WALTER-KIKI checks
+tmdr26 checks
+Fuxman_at bets 80
+WALTER-KIKI folds
+tmdr26 folds
+Fuxman_at collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Ac 8s 8c]
+Seat 7: Fuxman_at (button) won 400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #566940489140404370-12-1444484635 - Holdem no limit (40/80) - 2015/10/10 13:43:55 UTC
+Table: 'Freeroll(132001119)#145' 9-max (real money) Seat #8 is the button
+Seat 1: opsfx09dz (2900)
+Seat 2: Marie2350 (2930)
+Seat 3: WALTER-KIKI (18175)
+Seat 4: tmdr26 (2920)
+Seat 5: sabre_laser (3000)
+Seat 6: CP40 (5910)
+Seat 7: Fuxman_at (9215)
+Seat 9: jeandoc222 (2860)
+*** ANTE/BLINDS ***
+jeandoc222 posts small blind 40
+opsfx09dz posts big blind 80
+Dealt to sabre_laser [7d 4h]
+*** PRE-FLOP *** 
+Marie2350 folds
+WALTER-KIKI calls 80
+tmdr26 calls 80
+sabre_laser folds
+CP40 calls 80
+Fuxman_at raises 80 to 160
+jeandoc222 folds
+opsfx09dz folds
+WALTER-KIKI calls 80
+tmdr26 calls 80
+CP40 calls 80
+*** FLOP *** [9d 5d Qh]
+WALTER-KIKI bets 80
+tmdr26 folds
+CP40 calls 80
+Fuxman_at calls 80
+*** TURN *** [9d 5d Qh][8c]
+WALTER-KIKI bets 1000
+CP40 calls 1000
+Fuxman_at calls 1000
+*** RIVER *** [9d 5d Qh 8c][8d]
+WALTER-KIKI bets 16935 and is all-in
+CP40 calls 4670 and is all-in
+Fuxman_at calls 7975 and is all-in
+*** SHOW DOWN ***
+CP40 shows [5s 5h] (Full of 5 and 8)
+Fuxman_at shows [Td Kd] (Flush King high)
+WALTER-KIKI shows [Th 6h] (One pair : 8)
+WALTER-KIKI collected 8960 from side pot 2
+Fuxman_at collected 6610 from side pot 1
+CP40 collected 18010 from main pot
+*** SUMMARY ***
+Total pot 33580 | No rake
+Board: [9d 5d Qh 8c 8d]
+Seat 3: WALTER-KIKI showed [Th 6h] and won 8960 with One pair : 8
+Seat 6: CP40 showed [5s 5h] and won 18010 with Full of 5 and 8
+Seat 7: Fuxman_at showed [Td Kd] and won 6610 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #566940489140404370-13-1444484732 - Holdem no limit (60/120) - 2015/10/10 13:45:32 UTC
+Table: 'Freeroll(132001119)#145' 9-max (real money) Seat #9 is the button
+Seat 1: opsfx09dz (2820)
+Seat 2: Marie2350 (2930)
+Seat 3: WALTER-KIKI (8960)
+Seat 4: tmdr26 (2760)
+Seat 5: sabre_laser (3000)
+Seat 6: CP40 (18010)
+Seat 7: Fuxman_at (6610)
+Seat 8: ganster80 (3000)
+Seat 9: jeandoc222 (2820)
+*** ANTE/BLINDS ***
+opsfx09dz posts small blind 60
+Marie2350 posts big blind 120
+Dealt to sabre_laser [7d 4c]
+*** PRE-FLOP *** 
+WALTER-KIKI folds
+tmdr26 calls 120
+sabre_laser folds
+CP40 folds
+Fuxman_at folds
+ganster80 folds
+jeandoc222 folds
+opsfx09dz calls 60
+Marie2350 checks
+*** FLOP *** [5s 6d Kh]
+opsfx09dz checks
+Marie2350 checks
+tmdr26 checks
+*** TURN *** [5s 6d Kh][7c]
+opsfx09dz checks
+Marie2350 checks
+tmdr26 bets 120
+opsfx09dz raises 120 to 240
+Marie2350 calls 240
+tmdr26 folds
+*** RIVER *** [5s 6d Kh 7c][6c]
+opsfx09dz bets 960
+Marie2350 calls 960
+*** SHOW DOWN ***
+Marie2350 shows [Kd 3s] (Two pairs : Kings and 6)
+opsfx09dz shows [8h 9d] (Straight 9 high)
+opsfx09dz collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [5s 6d Kh 7c 6c]
+Seat 1: opsfx09dz (small blind) showed [8h 9d] and won 2880 with Straight 9 high
+Seat 2: Marie2350 (big blind) showed [Kd 3s] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #566940489140404370-14-1444484861 - Holdem no limit (60/120) - 2015/10/10 13:47:41 UTC
+Table: 'Freeroll(132001119)#145' 9-max (real money) Seat #1 is the button
+Seat 1: opsfx09dz (4380)
+Seat 2: Marie2350 (1610)
+Seat 3: WALTER-KIKI (8960)
+Seat 4: tmdr26 (2520)
+Seat 5: sabre_laser (3000)
+Seat 6: CP40 (18010)
+Seat 7: Fuxman_at (6610)
+Seat 8: ganster80 (3000)
+Seat 9: jeandoc222 (2820)
+*** ANTE/BLINDS ***
+Marie2350 posts small blind 60
+WALTER-KIKI posts big blind 120
+Dealt to sabre_laser [Ah Ks]
+*** PRE-FLOP *** 
+tmdr26 calls 120
+sabre_laser raises 120 to 240
+CP40 folds
+Fuxman_at folds
+ganster80 calls 240
+jeandoc222 folds
+opsfx09dz raises 120 to 360
+Marie2350 folds
+WALTER-KIKI raises 8600 to 8960 and is all-in
+tmdr26 folds
+sabre_laser calls 2760 and is all-in
+ganster80 calls 2760 and is all-in
+opsfx09dz calls 4020 and is all-in
+*** FLOP *** [2c Qc Jc]
+*** TURN *** [2c Qc Jc][Kc]
+*** RIVER *** [2c Qc Jc Kc][9h]
+*** SHOW DOWN ***
+opsfx09dz shows [Qd As] (One pair : Queens)
+sabre_laser shows [Ah Ks] (One pair : Kings)
+ganster80 shows [7c 7d] (Flush King high)
+WALTER-KIKI shows [Tc Th] (Flush King high)
+WALTER-KIKI collected 19520 from pot
+*** SUMMARY ***
+Total pot 19520 | No rake
+Board: [2c Qc Jc Kc 9h]
+Seat 1: opsfx09dz (button) showed [Qd As] and lost with One pair : Queens
+Seat 3: WALTER-KIKI (big blind) showed [Tc Th] and won 19520 with Flush King high
+Seat 5: sabre_laser showed [Ah Ks] and lost with One pair : Kings
+Seat 8: ganster80 showed [7c 7d] and lost with Flush King high
+
+

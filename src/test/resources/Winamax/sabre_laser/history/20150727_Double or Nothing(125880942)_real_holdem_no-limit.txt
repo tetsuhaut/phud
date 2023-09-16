@@ -1,0 +1,1496 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540654529079672833-1-1438025573 - Holdem no limit (10/20) - 2015/07/27 19:32:53 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Maxwell50110 (1500)
+Seat 5: WILD CHILD (1500)
+Seat 6: loloblanco (1500)
+Seat 7: olive850 (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1500)
+Seat 10: MOKA94 (1500)
+*** ANTE/BLINDS ***
+Bookaddict73 posts small blind 10
+MOKA94 posts big blind 20
+Dealt to sabre_laser [Js 7h]
+*** PRE-FLOP *** 
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 raises 80 to 100
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 90
+MOKA94 folds
+*** FLOP *** [7c 4c Qh]
+Bookaddict73 checks
+Maxwell50110 bets 220
+Bookaddict73 folds
+Maxwell50110 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [7c 4c Qh]
+Seat 4: Maxwell50110 won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540654529079672833-2-1438025717 - Holdem no limit (10/20) - 2015/07/27 19:35:17 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Maxwell50110 (1620)
+Seat 5: WILD CHILD (1500)
+Seat 6: loloblanco (1500)
+Seat 7: olive850 (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1400)
+Seat 10: MOKA94 (1480)
+*** ANTE/BLINDS ***
+MOKA94 posts small blind 10
+mafalex posts big blind 20
+Dealt to sabre_laser [Jc Qh]
+*** PRE-FLOP *** 
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: mafalex (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540654529079672833-3-1438025775 - Holdem no limit (10/20) - 2015/07/27 19:36:15 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #10 is the button
+Seat 1: mafalex (1510)
+Seat 2: Mars_Attack (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Maxwell50110 (1620)
+Seat 5: WILD CHILD (1500)
+Seat 6: loloblanco (1500)
+Seat 7: olive850 (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1400)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+mafalex posts small blind 10
+Mars_Attack posts big blind 20
+Dealt to sabre_laser [Qc 8s]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 20
+MOKA94 folds
+mafalex folds
+Mars_Attack checks
+*** FLOP *** [5s 2d 6s]
+Mars_Attack checks
+Bookaddict73 checks
+*** TURN *** [5s 2d 6s][Qs]
+Mars_Attack checks
+Bookaddict73 checks
+*** RIVER *** [5s 2d 6s Qs][As]
+Mars_Attack checks
+Bookaddict73 checks
+*** SHOW DOWN ***
+Bookaddict73 shows [7c Kc] (High card : Ace)
+Mars_Attack shows [3d Qh] (One pair : Queens)
+Mars_Attack collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [5s 2d 6s Qs As]
+Seat 2: Mars_Attack (big blind) showed [3d Qh] and won 50 with One pair : Queens
+Seat 9: Bookaddict73 showed [7c Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540654529079672833-4-1438025863 - Holdem no limit (10/20) - 2015/07/27 19:37:43 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1530)
+Seat 3: AAFlo777 (1500)
+Seat 4: Maxwell50110 (1620)
+Seat 5: WILD CHILD (1500)
+Seat 6: loloblanco (1500)
+Seat 7: olive850 (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1380)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 10
+AAFlo777 posts big blind 20
+Dealt to sabre_laser [Ts Qd]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 calls 20
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 checks
+*** FLOP *** [5c Qs Ah]
+AAFlo777 checks
+olive850 bets 20
+AAFlo777 folds
+olive850 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [5c Qs Ah]
+Seat 7: olive850 won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540654529079672833-5-1438025953 - Holdem no limit (15/30) - 2015/07/27 19:39:13 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1480)
+Seat 4: Maxwell50110 (1620)
+Seat 5: WILD CHILD (1500)
+Seat 6: loloblanco (1500)
+Seat 7: olive850 (1530)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1380)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 15
+Maxwell50110 posts big blind 30
+Dealt to sabre_laser [Qh 5s]
+*** PRE-FLOP *** 
+WILD CHILD folds
+loloblanco folds
+olive850 raises 30 to 60
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+olive850 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 7: olive850 won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540654529079672833-6-1438025998 - Holdem no limit (15/30) - 2015/07/27 19:39:58 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1465)
+Seat 4: Maxwell50110 (1590)
+Seat 5: WILD CHILD (1500)
+Seat 6: loloblanco (1500)
+Seat 7: olive850 (1575)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1380)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 15
+WILD CHILD posts big blind 30
+Dealt to sabre_laser [Kd 3h]
+*** PRE-FLOP *** 
+loloblanco raises 30 to 60
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 60
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+*** FLOP *** [7c Th 2d]
+loloblanco bets 90
+Bookaddict73 folds
+loloblanco collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [7c Th 2d]
+Seat 6: loloblanco won 255
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540654529079672833-7-1438026056 - Holdem no limit (15/30) - 2015/07/27 19:40:56 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1465)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1470)
+Seat 6: loloblanco (1605)
+Seat 7: olive850 (1575)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1320)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 15
+loloblanco posts big blind 30
+Dealt to sabre_laser [8c Qs]
+*** PRE-FLOP *** 
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 raises 60 to 90
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+AAFlo777 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 3: AAFlo777 won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540654529079672833-8-1438026095 - Holdem no limit (15/30) - 2015/07/27 19:41:35 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1510)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1575)
+Seat 7: olive850 (1575)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1320)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+loloblanco posts small blind 15
+olive850 posts big blind 30
+Dealt to sabre_laser [8d Ac]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bookaddict73 calls 30
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 checks
+*** FLOP *** [6c Kh 3c]
+olive850 checks
+Bookaddict73 checks
+*** TURN *** [6c Kh 3c][Ts]
+olive850 checks
+Bookaddict73 checks
+*** RIVER *** [6c Kh 3c Ts][Kc]
+olive850 bets 30
+Bookaddict73 calls 30
+*** SHOW DOWN ***
+olive850 shows [8c 4d] (One pair : Kings)
+Bookaddict73 shows [9h 5h] (One pair : Kings)
+Bookaddict73 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [6c Kh 3c Ts Kc]
+Seat 7: olive850 (big blind) showed [8c 4d] and lost with One pair : Kings
+Seat 9: Bookaddict73 showed [9h 5h] and won 135 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540654529079672833-9-1438026192 - Holdem no limit (15/30) - 2015/07/27 19:43:12 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #6 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1510)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1560)
+Seat 7: olive850 (1515)
+Seat 8: sabre_laser (1500)
+Seat 9: Bookaddict73 (1395)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+olive850 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [7h Ac]
+*** PRE-FLOP *** 
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 calls 15
+sabre_laser raises 90 to 120
+olive850 folds
+sabre_laser collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 8: sabre_laser (big blind) won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540654529079672833-10-1438026257 - Holdem no limit (15/30) - 2015/07/27 19:44:17 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #7 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1510)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1560)
+Seat 7: olive850 (1485)
+Seat 8: sabre_laser (1530)
+Seat 9: Bookaddict73 (1395)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Bookaddict73 posts big blind 30
+Dealt to sabre_laser [9c 7c]
+*** PRE-FLOP *** 
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 raises 60 to 90
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser calls 75
+Bookaddict73 calls 60
+*** FLOP *** [5s 9s Kh]
+sabre_laser bets 135
+Bookaddict73 calls 135
+AAFlo777 folds
+*** TURN *** [5s 9s Kh][3s]
+sabre_laser bets 270
+Bookaddict73 calls 270
+*** RIVER *** [5s 9s Kh 3s][7d]
+sabre_laser checks
+Bookaddict73 bets 180
+sabre_laser calls 180
+*** SHOW DOWN ***
+sabre_laser shows [9c 7c] (Two pairs : 9 and 7)
+Bookaddict73 shows [6s 8s] (Flush 9 high)
+Bookaddict73 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [5s 9s Kh 3s 7d]
+Seat 8: sabre_laser (small blind) showed [9c 7c] and lost with Two pairs : 9 and 7
+Seat 9: Bookaddict73 (big blind) showed [6s 8s] and won 1440 with Flush 9 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540654529079672833-11-1438026362 - Holdem no limit (20/40) - 2015/07/27 19:46:02 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1560)
+Seat 7: olive850 (1485)
+Seat 8: sabre_laser (855)
+Seat 9: Bookaddict73 (2160)
+Seat 10: MOKA94 (1470)
+*** ANTE/BLINDS ***
+Bookaddict73 posts small blind 20
+MOKA94 posts big blind 40
+Dealt to sabre_laser [2s Kh]
+*** PRE-FLOP *** 
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco raises 40 to 80
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+loloblanco collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 6: loloblanco won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540654529079672833-12-1438026409 - Holdem no limit (20/40) - 2015/07/27 19:46:49 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mafalex (1500)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1620)
+Seat 7: olive850 (1485)
+Seat 8: sabre_laser (855)
+Seat 9: Bookaddict73 (2140)
+Seat 10: MOKA94 (1430)
+*** ANTE/BLINDS ***
+MOKA94 posts small blind 20
+mafalex posts big blind 40
+Dealt to sabre_laser [3s Td]
+*** PRE-FLOP *** 
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 40
+MOKA94 folds
+mafalex checks
+*** FLOP *** [2h Js Qd]
+mafalex bets 40
+Bookaddict73 raises 40 to 80
+mafalex calls 40
+*** TURN *** [2h Js Qd][5h]
+mafalex bets 40
+Bookaddict73 calls 40
+*** RIVER *** [2h Js Qd 5h][Ah]
+mafalex bets 40
+Bookaddict73 raises 220 to 260
+mafalex folds
+Bookaddict73 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2h Js Qd 5h Ah]
+Seat 9: Bookaddict73 (button) won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540654529079672833-13-1438026508 - Holdem no limit (20/40) - 2015/07/27 19:48:28 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #10 is the button
+Seat 1: mafalex (1300)
+Seat 2: Mars_Attack (1520)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1620)
+Seat 7: olive850 (1485)
+Seat 8: sabre_laser (855)
+Seat 9: Bookaddict73 (2360)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+mafalex posts small blind 20
+Mars_Attack posts big blind 40
+Dealt to sabre_laser [4d 8s]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Maxwell50110 raises 80 to 120
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+Maxwell50110 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: Maxwell50110 won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540654529079672833-14-1438026538 - Holdem no limit (20/40) - 2015/07/27 19:48:58 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: mafalex (1280)
+Seat 2: Mars_Attack (1480)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1635)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1620)
+Seat 7: olive850 (1485)
+Seat 8: sabre_laser (855)
+Seat 9: Bookaddict73 (2360)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 20
+AAFlo777 posts big blind 40
+Dealt to sabre_laser [6h Ts]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: AAFlo777 (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540654529079672833-15-1438026552 - Holdem no limit (20/40) - 2015/07/27 19:49:12 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: mafalex (1280)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1440)
+Seat 4: Maxwell50110 (1635)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1620)
+Seat 7: olive850 (1485)
+Seat 8: sabre_laser (855)
+Seat 9: Bookaddict73 (2360)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 20
+Maxwell50110 posts big blind 40
+Dealt to sabre_laser [2d Tc]
+*** PRE-FLOP *** 
+WILD CHILD folds
+loloblanco raises 40 to 80
+olive850 calls 80
+sabre_laser folds
+Bookaddict73 calls 80
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+*** FLOP *** [9h 6s 5d]
+loloblanco checks
+olive850 checks
+Bookaddict73 checks
+*** TURN *** [9h 6s 5d][5h]
+loloblanco checks
+olive850 bets 40
+Bookaddict73 calls 40
+loloblanco folds
+*** RIVER *** [9h 6s 5d 5h][As]
+olive850 bets 40
+Bookaddict73 folds
+olive850 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9h 6s 5d 5h As]
+Seat 7: olive850 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540654529079672833-16-1438026642 - Holdem no limit (20/40) - 2015/07/27 19:50:42 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: mafalex (1280)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1595)
+Seat 5: WILD CHILD (1455)
+Seat 6: loloblanco (1540)
+Seat 7: olive850 (1745)
+Seat 8: sabre_laser (855)
+Seat 9: Bookaddict73 (2240)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 20
+WILD CHILD posts big blind 40
+Dealt to sabre_laser [Kh Jh]
+*** PRE-FLOP *** 
+loloblanco folds
+olive850 folds
+sabre_laser calls 40
+Bookaddict73 calls 40
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD checks
+*** FLOP *** [3s Tc Kd]
+WILD CHILD checks
+sabre_laser bets 40
+Bookaddict73 calls 40
+WILD CHILD folds
+*** TURN *** [3s Tc Kd][9h]
+sabre_laser checks
+Bookaddict73 checks
+*** RIVER *** [3s Tc Kd 9h][4s]
+sabre_laser bets 60
+Bookaddict73 calls 60
+*** SHOW DOWN ***
+Bookaddict73 shows [Js Td] (One pair : Tens)
+sabre_laser shows [Kh Jh] (One pair : Kings)
+sabre_laser collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [3s Tc Kd 9h 4s]
+Seat 8: sabre_laser showed [Kh Jh] and won 340 with One pair : Kings
+Seat 9: Bookaddict73 showed [Js Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540654529079672833-17-1438026760 - Holdem no limit (30/60) - 2015/07/27 19:52:40 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: mafalex (1280)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1415)
+Seat 6: loloblanco (1540)
+Seat 7: olive850 (1745)
+Seat 8: sabre_laser (1055)
+Seat 9: Bookaddict73 (2100)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 30
+loloblanco posts big blind 60
+Dealt to sabre_laser [As 6s]
+*** PRE-FLOP *** 
+olive850 folds
+sabre_laser calls 60
+Bookaddict73 calls 60
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco checks
+*** FLOP *** [9d 7h 5d]
+loloblanco checks
+sabre_laser checks
+Bookaddict73 checks
+*** TURN *** [9d 7h 5d][8d]
+loloblanco checks
+sabre_laser bets 210
+Bookaddict73 folds
+loloblanco folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9d 7h 5d 8d]
+Seat 8: sabre_laser won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540654529079672833-18-1438026857 - Holdem no limit (30/60) - 2015/07/27 19:54:17 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: mafalex (1280)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1385)
+Seat 6: loloblanco (1480)
+Seat 7: olive850 (1745)
+Seat 8: sabre_laser (1205)
+Seat 9: Bookaddict73 (2040)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+loloblanco posts small blind 30
+olive850 posts big blind 60
+Dealt to sabre_laser [9h 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex raises 60 to 120
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco raises 1360 to 1480 and is all-in
+olive850 folds
+mafalex folds
+loloblanco collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | No rake
+Seat 6: loloblanco (small blind) won 1660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540654529079672833-19-1438026929 - Holdem no limit (30/60) - 2015/07/27 19:55:29 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #6 is the button
+Seat 1: mafalex (1160)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1385)
+Seat 6: loloblanco (1660)
+Seat 7: olive850 (1685)
+Seat 8: sabre_laser (1205)
+Seat 9: Bookaddict73 (2040)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+olive850 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [8s Ts]
+*** PRE-FLOP *** 
+Bookaddict73 calls 60
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 calls 30
+sabre_laser checks
+*** FLOP *** [Jc 2d 8h]
+olive850 checks
+sabre_laser checks
+Bookaddict73 checks
+*** TURN *** [Jc 2d 8h][Js]
+olive850 checks
+sabre_laser bets 120
+Bookaddict73 calls 120
+olive850 folds
+*** RIVER *** [Jc 2d 8h Js][4d]
+sabre_laser checks
+Bookaddict73 checks
+*** SHOW DOWN ***
+Bookaddict73 shows [Tc 9c] (One pair : Jacks)
+sabre_laser shows [8s Ts] (Two pairs : Jacks and 8)
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jc 2d 8h Js 4d]
+Seat 8: sabre_laser (big blind) showed [8s Ts] and won 420 with Two pairs : Jacks and 8
+Seat 9: Bookaddict73 showed [Tc 9c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540654529079672833-20-1438027029 - Holdem no limit (40/80) - 2015/07/27 19:57:09 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #7 is the button
+Seat 1: mafalex (1160)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1385)
+Seat 6: loloblanco (1660)
+Seat 7: olive850 (1625)
+Seat 8: sabre_laser (1445)
+Seat 9: Bookaddict73 (1860)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Bookaddict73 posts big blind 80
+Dealt to sabre_laser [2h 8d]
+*** PRE-FLOP *** 
+MOKA94 folds
+mafalex folds
+Mars_Attack raises 80 to 160
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+Mars_Attack collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: Mars_Attack won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540654529079672833-21-1438027090 - Holdem no limit (40/80) - 2015/07/27 19:58:10 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mafalex (1160)
+Seat 2: Mars_Attack (1580)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1385)
+Seat 6: loloblanco (1660)
+Seat 7: olive850 (1625)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1780)
+Seat 10: MOKA94 (1410)
+*** ANTE/BLINDS ***
+Bookaddict73 posts small blind 40
+MOKA94 posts big blind 80
+Dealt to sabre_laser [Kh 7c]
+*** PRE-FLOP *** 
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco raises 80 to 160
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 calls 80
+*** FLOP *** [2d 5c 6c]
+MOKA94 checks
+loloblanco bets 200
+MOKA94 calls 200
+*** TURN *** [2d 5c 6c][4s]
+MOKA94 checks
+loloblanco checks
+*** RIVER *** [2d 5c 6c 4s][Jd]
+MOKA94 bets 1050 and is all-in
+loloblanco folds
+MOKA94 collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | No rake
+Board: [2d 5c 6c 4s Jd]
+Seat 10: MOKA94 (big blind) won 1810
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540654529079672833-22-1438027172 - Holdem no limit (40/80) - 2015/07/27 19:59:32 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mafalex (1160)
+Seat 2: Mars_Attack (1580)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1385)
+Seat 6: loloblanco (1300)
+Seat 7: olive850 (1625)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1740)
+Seat 10: MOKA94 (1810)
+*** ANTE/BLINDS ***
+MOKA94 posts small blind 40
+mafalex posts big blind 80
+Dealt to sabre_laser [5h 7c]
+*** PRE-FLOP *** 
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+loloblanco raises 1220 to 1300 and is all-in
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 calls 1260
+mafalex folds
+*** FLOP *** [Qd 8d 7s]
+*** TURN *** [Qd 8d 7s][Qs]
+*** RIVER *** [Qd 8d 7s Qs][8s]
+*** SHOW DOWN ***
+loloblanco shows [6c Ah] (Two pairs : Queens and 8)
+MOKA94 shows [Jh Js] (Two pairs : Queens and Jacks)
+MOKA94 collected 2680 from pot
+*** SUMMARY ***
+Total pot 2680 | No rake
+Board: [Qd 8d 7s Qs 8s]
+Seat 6: loloblanco showed [6c Ah] and lost with Two pairs : Queens and 8
+Seat 10: MOKA94 (small blind) showed [Jh Js] and won 2680 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540654529079672833-23-1438027238 - Holdem no limit (40/80) - 2015/07/27 20:00:38 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #10 is the button
+Seat 1: mafalex (1080)
+Seat 2: Mars_Attack (1580)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1385)
+Seat 7: olive850 (1625)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1740)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+mafalex posts small blind 40
+Mars_Attack posts big blind 80
+Dealt to sabre_laser [6s Kc]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD raises 120 to 200
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+WILD CHILD collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 5: WILD CHILD won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540654529079672833-24-1438027311 - Holdem no limit (40/80) - 2015/07/27 20:01:51 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1500)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1505)
+Seat 7: olive850 (1625)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1740)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 40
+AAFlo777 posts big blind 80
+Dealt to sabre_laser [4c Qh]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: AAFlo777 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540654529079672833-25-1438027355 - Holdem no limit (40/80) - 2015/07/27 20:02:35 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1460)
+Seat 4: Maxwell50110 (1575)
+Seat 5: WILD CHILD (1505)
+Seat 7: olive850 (1625)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1740)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 40
+Maxwell50110 posts big blind 80
+Dealt to sabre_laser [7d 6h]
+*** PRE-FLOP *** 
+WILD CHILD folds
+olive850 raises 80 to 160
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 calls 80
+*** FLOP *** [4d Js Kd]
+Maxwell50110 checks
+olive850 bets 1465 and is all-in
+Maxwell50110 folds
+olive850 shows [Ad Ac] (One pair : Aces)
+olive850 collected 1825 from pot
+*** SUMMARY ***
+Total pot 1825 | No rake
+Board: [4d Js Kd]
+Seat 7: olive850 showed [Ad Ac] and won 1825 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540654529079672833-26-1438027405 - Holdem no limit (60/120) - 2015/07/27 20:03:25 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1415)
+Seat 5: WILD CHILD (1505)
+Seat 7: olive850 (1825)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1740)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 60
+WILD CHILD posts big blind 120
+Dealt to sabre_laser [Tc 2s]
+*** PRE-FLOP *** 
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 raises 120 to 240
+WILD CHILD raises 1265 to 1505 and is all-in
+Maxwell50110 folds
+WILD CHILD collected 1745 from pot
+*** SUMMARY ***
+Total pot 1745 | No rake
+Seat 5: WILD CHILD (big blind) won 1745
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540654529079672833-27-1438027469 - Holdem no limit (60/120) - 2015/07/27 20:04:29 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1175)
+Seat 5: WILD CHILD (1745)
+Seat 7: olive850 (1825)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1740)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 60
+olive850 posts big blind 120
+Dealt to sabre_laser [Jc 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bookaddict73 calls 120
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+olive850 checks
+*** FLOP *** [6d Th 8h]
+olive850 checks
+Bookaddict73 checks
+*** TURN *** [6d Th 8h][2h]
+olive850 checks
+Bookaddict73 bets 120
+olive850 folds
+Bookaddict73 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [6d Th 8h 2h]
+Seat 9: Bookaddict73 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540654529079672833-28-1438027511 - Holdem no limit (60/120) - 2015/07/27 20:05:11 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1175)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1705)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1920)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+olive850 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3h 3d]
+*** PRE-FLOP *** 
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 raises 240 to 360
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Maxwell50110 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 4: Maxwell50110 won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540654529079672833-29-1438027565 - Holdem no limit (60/120) - 2015/07/27 20:06:05 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #7 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1355)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1285)
+Seat 9: Bookaddict73 (1920)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Bookaddict73 posts big blind 120
+Dealt to sabre_laser [8d 4h]
+*** PRE-FLOP *** 
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: Bookaddict73 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540654529079672833-30-1438027609 - Holdem no limit (60/120) - 2015/07/27 20:06:49 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1355)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1225)
+Seat 9: Bookaddict73 (1980)
+Seat 10: MOKA94 (3190)
+*** ANTE/BLINDS ***
+Bookaddict73 posts small blind 60
+MOKA94 posts big blind 120
+Dealt to sabre_laser [Qd Ad]
+*** PRE-FLOP *** 
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+sabre_laser raises 120 to 240
+Bookaddict73 folds
+MOKA94 folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 8: sabre_laser (button) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540654529079672833-31-1438027669 - Holdem no limit (60/120) - 2015/07/27 20:07:49 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mafalex (1040)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1355)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1920)
+Seat 10: MOKA94 (3070)
+*** ANTE/BLINDS ***
+MOKA94 posts small blind 60
+mafalex posts big blind 120
+Dealt to sabre_laser [8s 7d]
+*** PRE-FLOP *** 
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 120
+MOKA94 calls 60
+mafalex checks
+*** FLOP *** [Ac 8h 4h]
+MOKA94 bets 360
+mafalex folds
+Bookaddict73 folds
+MOKA94 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Ac 8h 4h]
+Seat 10: MOKA94 (small blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540654529079672833-32-1438027748 - Holdem no limit (80/160) - 2015/07/27 20:09:08 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #10 is the button
+Seat 1: mafalex (920)
+Seat 2: Mars_Attack (1460)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1355)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (1800)
+Seat 10: MOKA94 (3310)
+*** ANTE/BLINDS ***
+mafalex posts small blind 80
+Mars_Attack posts big blind 160
+Dealt to sabre_laser [7c 4s]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 160
+MOKA94 folds
+mafalex folds
+Mars_Attack checks
+*** FLOP *** [3s 3c 4d]
+Mars_Attack checks
+Bookaddict73 checks
+*** TURN *** [3s 3c 4d][Ah]
+Mars_Attack checks
+Bookaddict73 bets 240
+Mars_Attack folds
+Bookaddict73 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3s 3c 4d Ah]
+Seat 9: Bookaddict73 won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540654529079672833-33-1438027827 - Holdem no limit (80/160) - 2015/07/27 20:10:27 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: mafalex (840)
+Seat 2: Mars_Attack (1300)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1355)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (2040)
+Seat 10: MOKA94 (3310)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 80
+AAFlo777 posts big blind 160
+Dealt to sabre_laser [Jd 9s]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 160
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 checks
+*** FLOP *** [5d 2c Ah]
+AAFlo777 checks
+Bookaddict73 bets 240
+AAFlo777 folds
+Bookaddict73 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [5d 2c Ah]
+Seat 9: Bookaddict73 won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540654529079672833-34-1438027888 - Holdem no limit (80/160) - 2015/07/27 20:11:28 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: mafalex (840)
+Seat 2: Mars_Attack (1220)
+Seat 3: AAFlo777 (1260)
+Seat 4: Maxwell50110 (1355)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (2280)
+Seat 10: MOKA94 (3310)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 80
+Maxwell50110 posts big blind 160
+Dealt to sabre_laser [4h 9d]
+*** PRE-FLOP *** 
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 raises 1100 to 1260 and is all-in
+Maxwell50110 folds
+AAFlo777 collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | No rake
+Seat 3: AAFlo777 (small blind) won 1420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540654529079672833-35-1438027919 - Holdem no limit (80/160) - 2015/07/27 20:11:59 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: mafalex (840)
+Seat 2: Mars_Attack (1220)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1195)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (2280)
+Seat 10: MOKA94 (3310)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 80
+WILD CHILD posts big blind 160
+Dealt to sabre_laser [6s 6h]
+*** PRE-FLOP *** 
+olive850 folds
+sabre_laser raises 1245 to 1405 and is all-in
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+sabre_laser collected 1645 from pot
+*** SUMMARY ***
+Total pot 1645 | No rake
+Seat 8: sabre_laser won 1645
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540654529079672833-36-1438027969 - Holdem no limit (80/160) - 2015/07/27 20:12:49 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: mafalex (840)
+Seat 2: Mars_Attack (1220)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1115)
+Seat 5: WILD CHILD (1525)
+Seat 7: olive850 (1645)
+Seat 8: sabre_laser (1645)
+Seat 9: Bookaddict73 (2280)
+Seat 10: MOKA94 (3310)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 80
+olive850 posts big blind 160
+Dealt to sabre_laser [Kc 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bookaddict73 folds
+MOKA94 raises 160 to 320
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+MOKA94 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 10: MOKA94 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540654529079672833-37-1438028016 - Holdem no limit (80/160) - 2015/07/27 20:13:36 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: mafalex (840)
+Seat 2: Mars_Attack (1220)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1115)
+Seat 5: WILD CHILD (1445)
+Seat 7: olive850 (1485)
+Seat 8: sabre_laser (1645)
+Seat 9: Bookaddict73 (2280)
+Seat 10: MOKA94 (3550)
+*** ANTE/BLINDS ***
+olive850 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Qs 5c]
+*** PRE-FLOP *** 
+Bookaddict73 folds
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD raises 160 to 320
+olive850 folds
+sabre_laser folds
+WILD CHILD collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 5: WILD CHILD (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540654529079672833-38-1438028049 - Holdem no limit (80/160) - 2015/07/27 20:14:09 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #7 is the button
+Seat 1: mafalex (840)
+Seat 2: Mars_Attack (1220)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1115)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1405)
+Seat 8: sabre_laser (1485)
+Seat 9: Bookaddict73 (2280)
+Seat 10: MOKA94 (3550)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Bookaddict73 posts big blind 160
+Dealt to sabre_laser [2d Jh]
+*** PRE-FLOP *** 
+MOKA94 folds
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 raises 955 to 1115 and is all-in
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 folds
+Maxwell50110 collected 1355 from pot
+*** SUMMARY ***
+Total pot 1355 | No rake
+Seat 4: Maxwell50110 won 1355
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540654529079672833-39-1438028092 - Holdem no limit (10/100/200) - 2015/07/27 20:14:52 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mafalex (840)
+Seat 2: Mars_Attack (1220)
+Seat 3: AAFlo777 (1420)
+Seat 4: Maxwell50110 (1355)
+Seat 5: WILD CHILD (1685)
+Seat 7: olive850 (1405)
+Seat 8: sabre_laser (1405)
+Seat 9: Bookaddict73 (2120)
+Seat 10: MOKA94 (3550)
+*** ANTE/BLINDS ***
+Bookaddict73 posts ante 10
+MOKA94 posts ante 10
+mafalex posts ante 10
+Mars_Attack posts ante 10
+AAFlo777 posts ante 10
+Maxwell50110 posts ante 10
+WILD CHILD posts ante 10
+olive850 posts ante 10
+sabre_laser posts ante 10
+Bookaddict73 posts small blind 100
+MOKA94 posts big blind 200
+Dealt to sabre_laser [2h Jc]
+*** PRE-FLOP *** 
+mafalex folds
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 raises 1145 to 1345 and is all-in
+WILD CHILD folds
+olive850 folds
+sabre_laser folds
+Bookaddict73 calls 1245
+MOKA94 folds
+*** FLOP *** [4d 3s Tc]
+*** TURN *** [4d 3s Tc][6c]
+*** RIVER *** [4d 3s Tc 6c][Kc]
+*** SHOW DOWN ***
+Bookaddict73 shows [6s Ad] (One pair : 6)
+Maxwell50110 shows [Ks Ah] (One pair : Kings)
+Maxwell50110 collected 2980 from pot
+*** SUMMARY ***
+Total pot 2980 | No rake
+Board: [4d 3s Tc 6c Kc]
+Seat 4: Maxwell50110 showed [Ks Ah] and won 2980 with One pair : Kings
+Seat 9: Bookaddict73 (small blind) showed [6s Ad] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540654529079672833-40-1438028150 - Holdem no limit (10/100/200) - 2015/07/27 20:15:50 UTC
+Table: 'Double or Nothing(125880942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mafalex (830)
+Seat 2: Mars_Attack (1210)
+Seat 3: AAFlo777 (1410)
+Seat 4: Maxwell50110 (2980)
+Seat 5: WILD CHILD (1675)
+Seat 7: olive850 (1395)
+Seat 8: sabre_laser (1395)
+Seat 9: Bookaddict73 (765)
+Seat 10: MOKA94 (3340)
+*** ANTE/BLINDS ***
+MOKA94 posts ante 10
+mafalex posts ante 10
+Mars_Attack posts ante 10
+AAFlo777 posts ante 10
+Maxwell50110 posts ante 10
+WILD CHILD posts ante 10
+olive850 posts ante 10
+sabre_laser posts ante 10
+Bookaddict73 posts ante 10
+MOKA94 posts small blind 100
+mafalex posts big blind 200
+Dealt to sabre_laser [9c Ks]
+*** PRE-FLOP *** 
+Mars_Attack folds
+AAFlo777 folds
+Maxwell50110 folds
+WILD CHILD folds
+olive850 folds
+sabre_laser raises 1185 to 1385 and is all-in
+Bookaddict73 calls 755 and is all-in
+MOKA94 calls 1285
+mafalex folds
+*** FLOP *** [4h Jc 2d]
+*** TURN *** [4h Jc 2d][2c]
+*** RIVER *** [4h Jc 2d 2c][Jh]
+*** SHOW DOWN ***
+sabre_laser shows [9c Ks] (Two pairs : Jacks and 2)
+Bookaddict73 shows [Th Ad] (Two pairs : Jacks and 2)
+MOKA94 shows [7d 7c] (Two pairs : Jacks and 7)
+MOKA94 collected 3815 from pot
+*** SUMMARY ***
+Total pot 3815 | No rake
+Board: [4h Jc 2d 2c Jh]
+Seat 8: sabre_laser showed [9c Ks] and lost with Two pairs : Jacks and 2
+Seat 9: Bookaddict73 (button) showed [Th Ad] and lost with Two pairs : Jacks and 2
+Seat 10: MOKA94 (small blind) showed [7d 7c] and won 3815 with Two pairs : Jacks and 7
+
+

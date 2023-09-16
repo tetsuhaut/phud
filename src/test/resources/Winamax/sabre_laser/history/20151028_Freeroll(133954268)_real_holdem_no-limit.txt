@@ -1,0 +1,459 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #575329200219620089-1-1446066930 - Holdem no limit (10/20) - 2015/10/28 21:15:30 UTC
+Table: 'Freeroll(133954268)#760' 6-max (real money) Seat #1 is the button
+Seat 1: jackryan82 (3000)
+Seat 2: sabre_laser (3000)
+Seat 3: jcl06 (3000)
+Seat 4: KAIJUKIKI (3000)
+Seat 5: YOHAN92100 (3000)
+Seat 6: Marty 25 (3000)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+jcl06 posts big blind 20
+Dealt to sabre_laser [Jh Jc]
+*** PRE-FLOP *** 
+KAIJUKIKI folds
+YOHAN92100 folds
+Marty 25 folds
+jackryan82 folds
+sabre_laser raises 40 to 60
+jcl06 folds
+sabre_laser collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: sabre_laser (small blind) won 80
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #575329200219620089-2-1446067040 - Holdem no limit (10/20) - 2015/10/28 21:17:20 UTC
+Table: 'Freeroll(133954268)#760' 6-max (real money) Seat #2 is the button
+Seat 1: jackryan82 (3000)
+Seat 2: sabre_laser (3020)
+Seat 3: jcl06 (2980)
+Seat 4: KAIJUKIKI (3000)
+Seat 5: YOHAN92100 (3000)
+Seat 6: Marty 25 (3000)
+*** ANTE/BLINDS ***
+jcl06 posts small blind 10
+KAIJUKIKI posts big blind 20
+Dealt to sabre_laser [8d Th]
+*** PRE-FLOP *** 
+YOHAN92100 folds
+Marty 25 folds
+jackryan82 calls 20
+sabre_laser folds
+jcl06 calls 10
+KAIJUKIKI checks
+*** FLOP *** [3h Ks 2s]
+jcl06 bets 2960 and is all-in
+KAIJUKIKI folds
+jackryan82 folds
+jcl06 collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [3h Ks 2s]
+Seat 3: jcl06 (small blind) won 3020
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #575329200219620089-3-1446067087 - Holdem no limit (10/20) - 2015/10/28 21:18:07 UTC
+Table: 'Freeroll(133954268)#760' 6-max (real money) Seat #3 is the button
+Seat 1: jackryan82 (2980)
+Seat 2: sabre_laser (3020)
+Seat 3: jcl06 (3020)
+Seat 4: KAIJUKIKI (2980)
+Seat 5: YOHAN92100 (3000)
+Seat 6: Marty 25 (3000)
+*** ANTE/BLINDS ***
+KAIJUKIKI posts small blind 10
+YOHAN92100 posts big blind 20
+Dealt to sabre_laser [4s Td]
+*** PRE-FLOP *** 
+Marty 25 raises 20 to 40
+jackryan82 raises 120 to 160
+sabre_laser folds
+jcl06 folds
+KAIJUKIKI folds
+YOHAN92100 folds
+Marty 25 calls 120
+*** FLOP *** [Jh 2s 2c]
+Marty 25 bets 350
+jackryan82 folds
+Marty 25 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Jh 2s 2c]
+Seat 6: Marty 25 won 700
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #575329200219620089-4-1446067126 - Holdem no limit (15/30) - 2015/10/28 21:18:46 UTC
+Table: 'Freeroll(133954268)#760' 6-max (real money) Seat #4 is the button
+Seat 1: jackryan82 (2820)
+Seat 2: sabre_laser (3020)
+Seat 3: jcl06 (3020)
+Seat 4: KAIJUKIKI (2970)
+Seat 5: YOHAN92100 (2980)
+Seat 6: Marty 25 (3190)
+*** ANTE/BLINDS ***
+YOHAN92100 posts small blind 15
+Marty 25 posts big blind 30
+Dealt to sabre_laser [4s 3s]
+*** PRE-FLOP *** 
+jackryan82 raises 90 to 120
+sabre_laser calls 120
+jcl06 folds
+KAIJUKIKI folds
+YOHAN92100 folds
+Marty 25 folds
+*** FLOP *** [5d Ks 3c]
+jackryan82 checks
+sabre_laser bets 60
+jackryan82 folds
+sabre_laser collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [5d Ks 3c]
+Seat 2: sabre_laser won 345
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #575329200219619591-9-1446067216 - Holdem no limit (15/30) - 2015/10/28 21:20:16 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #2 is the button
+Seat 1: baronet noir (2945)
+Seat 2: Rabzouz67000 (5650)
+Seat 4: xanaboum (2965)
+Seat 5: sabre_laser (3185)
+Seat 6: valdo126 (6440)
+*** ANTE/BLINDS ***
+xanaboum posts big blind 30
+Dealt to sabre_laser [9h 6h]
+*** PRE-FLOP *** 
+sabre_laser raises 30 to 60
+valdo126 calls 60
+baronet noir folds
+Rabzouz67000 calls 60
+xanaboum folds
+*** FLOP *** [3d Ad 4d]
+sabre_laser checks
+valdo126 checks
+Rabzouz67000 checks
+*** TURN *** [3d Ad 4d][7s]
+sabre_laser checks
+valdo126 checks
+Rabzouz67000 checks
+*** RIVER *** [3d Ad 4d 7s][Th]
+sabre_laser checks
+valdo126 bets 210
+Rabzouz67000 folds
+sabre_laser folds
+valdo126 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [3d Ad 4d 7s Th]
+Seat 6: valdo126 won 420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #575329200219619591-10-1446067341 - Holdem no limit (20/40) - 2015/10/28 21:22:21 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #3 is the button
+Seat 1: baronet noir (2945)
+Seat 2: Rabzouz67000 (5590)
+Seat 3: JOSE MARIA (3970)
+Seat 4: xanaboum (2935)
+Seat 5: sabre_laser (3125)
+Seat 6: valdo126 (6590)
+*** ANTE/BLINDS ***
+xanaboum posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ks 6s]
+*** PRE-FLOP *** 
+valdo126 raises 40 to 80
+baronet noir folds
+Rabzouz67000 calls 80
+xanaboum folds
+sabre_laser calls 40
+*** FLOP *** [Kh 8d Ts]
+sabre_laser checks
+valdo126 bets 40
+Rabzouz67000 calls 40
+sabre_laser raises 170 to 210
+valdo126 folds
+Rabzouz67000 folds
+sabre_laser collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Kh 8d Ts]
+Seat 5: sabre_laser (big blind) won 550
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #575329200219619591-11-1446067385 - Holdem no limit (20/40) - 2015/10/28 21:23:05 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #4 is the button
+Seat 1: baronet noir (2945)
+Seat 2: Rabzouz67000 (5470)
+Seat 3: JOSE MARIA (3970)
+Seat 4: xanaboum (2915)
+Seat 5: sabre_laser (3385)
+Seat 6: valdo126 (6470)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+valdo126 posts big blind 40
+Dealt to sabre_laser [8c 2h]
+*** PRE-FLOP *** 
+baronet noir raises 2905 to 2945 and is all-in
+Rabzouz67000 folds
+JOSE MARIA folds
+xanaboum folds
+sabre_laser folds
+valdo126 folds
+baronet noir collected 3005 from pot
+*** SUMMARY ***
+Total pot 3005 | No rake
+Seat 1: baronet noir won 3005
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #575329200219619591-12-1446067416 - Holdem no limit (20/40) - 2015/10/28 21:23:36 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #5 is the button
+Seat 1: baronet noir (3005)
+Seat 2: Rabzouz67000 (5470)
+Seat 3: JOSE MARIA (3970)
+Seat 4: xanaboum (2915)
+Seat 5: sabre_laser (3365)
+Seat 6: valdo126 (6430)
+*** ANTE/BLINDS ***
+valdo126 posts small blind 20
+baronet noir posts big blind 40
+Dealt to sabre_laser [Qh 9h]
+*** PRE-FLOP *** 
+Rabzouz67000 folds
+JOSE MARIA folds
+xanaboum folds
+sabre_laser raises 80 to 120
+valdo126 raises 480 to 600
+baronet noir folds
+sabre_laser calls 480
+*** FLOP *** [Kc 9d Jh]
+valdo126 bets 5830 and is all-in
+sabre_laser folds
+valdo126 collected 7070 from pot
+*** SUMMARY ***
+Total pot 7070 | No rake
+Board: [Kc 9d Jh]
+Seat 6: valdo126 (small blind) won 7070
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #575329200219619591-13-1446067460 - Holdem no limit (20/40) - 2015/10/28 21:24:20 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #6 is the button
+Seat 1: baronet noir (2965)
+Seat 2: Rabzouz67000 (5470)
+Seat 3: JOSE MARIA (3970)
+Seat 4: xanaboum (2915)
+Seat 5: sabre_laser (2765)
+Seat 6: valdo126 (7070)
+*** ANTE/BLINDS ***
+baronet noir posts small blind 20
+Rabzouz67000 posts big blind 40
+Dealt to sabre_laser [6d 5c]
+*** PRE-FLOP *** 
+JOSE MARIA folds
+xanaboum folds
+sabre_laser folds
+valdo126 folds
+baronet noir raises 120 to 160
+Rabzouz67000 raises 480 to 640
+baronet noir calls 480
+*** FLOP *** [Qh Th 8s]
+baronet noir checks
+Rabzouz67000 bets 1280
+baronet noir folds
+Rabzouz67000 collected 2560 from pot
+*** SUMMARY ***
+Total pot 2560 | No rake
+Board: [Qh Th 8s]
+Seat 2: Rabzouz67000 (big blind) won 2560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #575329200219619591-14-1446067508 - Holdem no limit (30/60) - 2015/10/28 21:25:08 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #1 is the button
+Seat 1: baronet noir (2325)
+Seat 2: Rabzouz67000 (6110)
+Seat 3: JOSE MARIA (3970)
+Seat 4: xanaboum (2915)
+Seat 5: sabre_laser (2765)
+Seat 6: valdo126 (7070)
+*** ANTE/BLINDS ***
+Rabzouz67000 posts small blind 30
+JOSE MARIA posts big blind 60
+Dealt to sabre_laser [6c 9h]
+*** PRE-FLOP *** 
+xanaboum folds
+sabre_laser folds
+valdo126 raises 120 to 180
+baronet noir calls 180
+Rabzouz67000 calls 150
+JOSE MARIA calls 120
+*** FLOP *** [Jd 4d 4s]
+Rabzouz67000 checks
+JOSE MARIA checks
+valdo126 bets 360
+baronet noir calls 360
+Rabzouz67000 calls 360
+JOSE MARIA folds
+*** TURN *** [Jd 4d 4s][7s]
+Rabzouz67000 checks
+valdo126 bets 1200
+baronet noir folds
+Rabzouz67000 calls 1200
+*** RIVER *** [Jd 4d 4s 7s][Ah]
+Rabzouz67000 checks
+valdo126 bets 5330 and is all-in
+Rabzouz67000 folds
+valdo126 collected 9530 from pot
+*** SUMMARY ***
+Total pot 9530 | No rake
+Board: [Jd 4d 4s 7s Ah]
+Seat 6: valdo126 won 9530
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #575329200219619591-15-1446067585 - Holdem no limit (30/60) - 2015/10/28 21:26:25 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #2 is the button
+Seat 1: baronet noir (1785)
+Seat 2: Rabzouz67000 (4370)
+Seat 3: JOSE MARIA (3790)
+Seat 4: xanaboum (2915)
+Seat 5: sabre_laser (2765)
+Seat 6: valdo126 (9530)
+*** ANTE/BLINDS ***
+JOSE MARIA posts small blind 30
+xanaboum posts big blind 60
+Dealt to sabre_laser [6h Kh]
+*** PRE-FLOP *** 
+sabre_laser folds
+valdo126 calls 60
+baronet noir raises 60 to 120
+Rabzouz67000 calls 120
+JOSE MARIA calls 90
+xanaboum folds
+valdo126 calls 60
+*** FLOP *** [8s 7c Jc]
+JOSE MARIA checks
+valdo126 checks
+baronet noir bets 240
+Rabzouz67000 calls 240
+JOSE MARIA folds
+valdo126 calls 240
+*** TURN *** [8s 7c Jc][7s]
+valdo126 checks
+baronet noir bets 780
+Rabzouz67000 calls 780
+valdo126 folds
+*** RIVER *** [8s 7c Jc 7s][4s]
+baronet noir bets 645 and is all-in
+Rabzouz67000 folds
+baronet noir collected 3465 from pot
+*** SUMMARY ***
+Total pot 3465 | No rake
+Board: [8s 7c Jc 7s 4s]
+Seat 1: baronet noir won 3465
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #575329200219619591-16-1446067670 - Holdem no limit (40/80) - 2015/10/28 21:27:50 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #3 is the button
+Seat 1: baronet noir (3465)
+Seat 2: Rabzouz67000 (3230)
+Seat 3: JOSE MARIA (3670)
+Seat 4: xanaboum (2855)
+Seat 5: sabre_laser (2765)
+Seat 6: valdo126 (9170)
+*** ANTE/BLINDS ***
+xanaboum posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [6h 5h]
+*** PRE-FLOP *** 
+valdo126 calls 80
+baronet noir folds
+Rabzouz67000 raises 320 to 400
+JOSE MARIA folds
+xanaboum folds
+sabre_laser calls 320
+valdo126 folds
+*** FLOP *** [7c 2s 2h]
+sabre_laser checks
+Rabzouz67000 bets 920
+sabre_laser folds
+Rabzouz67000 collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Board: [7c 2s 2h]
+Seat 2: Rabzouz67000 won 1840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #575329200219619591-17-1446067705 - Holdem no limit (40/80) - 2015/10/28 21:28:25 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #4 is the button
+Seat 1: baronet noir (3465)
+Seat 2: Rabzouz67000 (3750)
+Seat 3: JOSE MARIA (3670)
+Seat 4: xanaboum (2815)
+Seat 5: sabre_laser (2365)
+Seat 6: valdo126 (9090)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+valdo126 posts big blind 80
+Dealt to sabre_laser [Td 9h]
+*** PRE-FLOP *** 
+baronet noir raises 120 to 200
+Rabzouz67000 calls 200
+JOSE MARIA folds
+xanaboum folds
+sabre_laser folds
+valdo126 calls 120
+*** FLOP *** [6h 5s Qc]
+valdo126 checks
+baronet noir bets 440
+Rabzouz67000 calls 440
+valdo126 folds
+*** TURN *** [6h 5s Qc][Tc]
+baronet noir bets 2825 and is all-in
+Rabzouz67000 calls 2825
+*** RIVER *** [6h 5s Qc Tc][9c]
+*** SHOW DOWN ***
+baronet noir shows [Ac As] (One pair : Aces)
+Rabzouz67000 shows [7c 3c] (Flush Queen high)
+Rabzouz67000 collected 7170 from pot
+*** SUMMARY ***
+Total pot 7170 | No rake
+Board: [6h 5s Qc Tc 9c]
+Seat 1: baronet noir showed [Ac As] and lost with One pair : Aces
+Seat 2: Rabzouz67000 showed [7c 3c] and won 7170 with Flush Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #575329200219619591-18-1446067754 - Holdem no limit (40/80) - 2015/10/28 21:29:14 UTC
+Table: 'Freeroll(133954268)#262' 6-max (real money) Seat #5 is the button
+Seat 2: Rabzouz67000 (7455)
+Seat 3: JOSE MARIA (3670)
+Seat 4: xanaboum (2815)
+Seat 5: sabre_laser (2325)
+Seat 6: valdo126 (8890)
+*** ANTE/BLINDS ***
+valdo126 posts small blind 40
+Rabzouz67000 posts big blind 80
+Dealt to sabre_laser [Td Qs]
+*** PRE-FLOP *** 
+JOSE MARIA folds
+xanaboum folds
+sabre_laser calls 80
+valdo126 calls 40
+Rabzouz67000 raises 160 to 240
+sabre_laser calls 160
+valdo126 folds
+*** FLOP *** [9c Kc 6h]
+Rabzouz67000 checks
+sabre_laser bets 2085 and is all-in
+Rabzouz67000 calls 2085
+*** TURN *** [9c Kc 6h][Qc]
+*** RIVER *** [9c Kc 6h Qc][3s]
+*** SHOW DOWN ***
+sabre_laser shows [Td Qs] (One pair : Queens)
+Rabzouz67000 shows [Jd Qh] (One pair : Queens)
+Rabzouz67000 collected 4730 from pot
+*** SUMMARY ***
+Total pot 4730 | No rake
+Board: [9c Kc 6h Qc 3s]
+Seat 2: Rabzouz67000 (big blind) showed [Jd Qh] and won 4730 with One pair : Queens
+Seat 5: sabre_laser (button) showed [Td Qs] and lost with One pair : Queens
+
+

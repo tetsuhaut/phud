@@ -1,0 +1,2401 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540651934919426049-1-1438025350 - Holdem no limit (10/20) - 2015/07/27 19:29:10 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Rythie63 (1500)
+Seat 2: Maxwell50110 (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: serge63360 (1500)
+Seat 7: jey4433 (1500)
+Seat 8: Crisssis (1500)
+Seat 9: sisi673 (1500)
+Seat 10: jadedel (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+serge63360 posts big blind 20
+Dealt to sabre_laser [Qs 2h]
+*** PRE-FLOP *** 
+jey4433 folds
+Crisssis folds
+sisi673 folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack raises 20 to 40
+sabre_laser folds
+serge63360 calls 20
+*** FLOP *** [3s Jd Ac]
+serge63360 checks
+Mars_Attack bets 45
+serge63360 raises 45 to 90
+Mars_Attack folds
+serge63360 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [3s Jd Ac]
+Seat 6: serge63360 (big blind) won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540651934919426049-2-1438025418 - Holdem no limit (10/20) - 2015/07/27 19:30:18 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Rythie63 (1500)
+Seat 2: Maxwell50110 (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1595)
+Seat 7: jey4433 (1500)
+Seat 8: Crisssis (1500)
+Seat 9: sisi673 (1500)
+Seat 10: jadedel (1500)
+*** ANTE/BLINDS ***
+serge63360 posts small blind 10
+jey4433 posts big blind 20
+Dealt to sabre_laser [Th Qc]
+*** PRE-FLOP *** 
+Crisssis folds
+sisi673 folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser raises 30 to 50
+serge63360 folds
+jey4433 folds
+sabre_laser collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 5: sabre_laser (button) won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540651934919426049-3-1438025462 - Holdem no limit (10/20) - 2015/07/27 19:31:02 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Rythie63 (1500)
+Seat 2: Maxwell50110 (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1480)
+Seat 8: Crisssis (1500)
+Seat 9: sisi673 (1500)
+Seat 10: jadedel (1500)
+*** ANTE/BLINDS ***
+jey4433 posts small blind 10
+Crisssis posts big blind 20
+Dealt to sabre_laser [4s Ad]
+*** PRE-FLOP *** 
+sisi673 folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 folds
+Crisssis collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 8: Crisssis (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540651934919426049-4-1438025515 - Holdem no limit (10/20) - 2015/07/27 19:31:55 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Rythie63 (1500)
+Seat 2: Maxwell50110 (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1470)
+Seat 8: Crisssis (1510)
+Seat 9: sisi673 (1500)
+Seat 10: jadedel (1500)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 10
+sisi673 posts big blind 20
+Dealt to sabre_laser [3h As]
+*** PRE-FLOP *** 
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 folds
+Crisssis raises 40 to 60
+sisi673 raises 120 to 180
+Crisssis calls 120
+*** FLOP *** [7c 3c Js]
+Crisssis bets 360
+sisi673 raises 960 to 1320 and is all-in
+Crisssis calls 960
+*** TURN *** [7c 3c Js][2c]
+*** RIVER *** [7c 3c Js 2c][Kh]
+*** SHOW DOWN ***
+sisi673 shows [Qh Ad] (High card : Ace)
+Crisssis shows [Ac Kc] (Flush Ace high)
+Crisssis collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [7c 3c Js 2c Kh]
+Seat 8: Crisssis (small blind) showed [Ac Kc] and won 3000 with Flush Ace high
+Seat 9: sisi673 (big blind) showed [Qh Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540651934919426049-5-1438025601 - Holdem no limit (10/20) - 2015/07/27 19:33:21 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Rythie63 (1500)
+Seat 2: Maxwell50110 (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1470)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1500)
+*** ANTE/BLINDS ***
+jadedel posts big blind 20
+Dealt to sabre_laser [6h 3h]
+*** PRE-FLOP *** 
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 raises 40 to 60
+Crisssis folds
+jadedel folds
+jey4433 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 7: jey4433 won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540651934919426049-6-1438025664 - Holdem no limit (10/20) - 2015/07/27 19:34:24 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Rythie63 (1500)
+Seat 2: Maxwell50110 (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1490)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1480)
+*** ANTE/BLINDS ***
+jadedel posts small blind 10
+Rythie63 posts big blind 20
+Dealt to sabre_laser [Tc 6h]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Rythie63 (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540651934919426049-7-1438025711 - Holdem no limit (15/30) - 2015/07/27 19:35:11 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Rythie63 (1510)
+Seat 2: Maxwell50110 (1500)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1490)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1470)
+*** ANTE/BLINDS ***
+Rythie63 posts small blind 15
+Maxwell50110 posts big blind 30
+Dealt to sabre_laser [4d Ts]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 folds
+Crisssis folds
+jadedel raises 46 to 76
+Rythie63 calls 61
+Maxwell50110 folds
+*** FLOP *** [Js 6c 7d]
+Rythie63 checks
+jadedel checks
+*** TURN *** [Js 6c 7d][5h]
+Rythie63 checks
+jadedel checks
+*** RIVER *** [Js 6c 7d 5h][2d]
+Rythie63 checks
+jadedel checks
+*** SHOW DOWN ***
+Rythie63 shows [Kd 9d] (High card : King)
+jadedel shows [Ks Td] (High card : King)
+jadedel collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Board: [Js 6c 7d 5h 2d]
+Seat 1: Rythie63 (small blind) showed [Kd 9d] and lost with High card : King
+Seat 10: jadedel (button) showed [Ks Td] and won 182 with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540651934919426049-8-1438025830 - Holdem no limit (15/30) - 2015/07/27 19:37:10 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Rythie63 (1434)
+Seat 2: Maxwell50110 (1470)
+Seat 3: AAFlo777 (1500)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1490)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1576)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 15
+AAFlo777 posts big blind 30
+Dealt to sabre_laser [4d Kd]
+*** PRE-FLOP *** 
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 raises 120 to 150
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+jey4433 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Seat 7: jey4433 won 195
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540651934919426049-9-1438025882 - Holdem no limit (15/30) - 2015/07/27 19:38:02 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Rythie63 (1434)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1470)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1535)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1576)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 15
+Mars_Attack posts big blind 30
+Dealt to sabre_laser [2d 3d]
+*** PRE-FLOP *** 
+sabre_laser folds
+serge63360 folds
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 4: Mars_Attack (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540651934919426049-10-1438025917 - Holdem no limit (15/30) - 2015/07/27 19:38:37 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Rythie63 (1434)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1430)
+Seat 5: sabre_laser (1520)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1535)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1576)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [8c 9s]
+*** PRE-FLOP *** 
+serge63360 folds
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 raises 30 to 60
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser calls 30
+*** FLOP *** [2c Kh As]
+sabre_laser checks
+Rythie63 bets 135
+sabre_laser folds
+Rythie63 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [2c Kh As]
+Seat 1: Rythie63 won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540651934919426049-11-1438025990 - Holdem no limit (15/30) - 2015/07/27 19:39:50 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Rythie63 (1509)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1460)
+Seat 6: serge63360 (1585)
+Seat 7: jey4433 (1535)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1576)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+serge63360 posts big blind 30
+Dealt to sabre_laser [5s 2h]
+*** PRE-FLOP *** 
+jey4433 folds
+Crisssis folds
+jadedel raises 60 to 90
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jadedel collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 10: jadedel won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540651934919426049-12-1438026039 - Holdem no limit (15/30) - 2015/07/27 19:40:39 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Rythie63 (1509)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1445)
+Seat 6: serge63360 (1555)
+Seat 7: jey4433 (1535)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1621)
+*** ANTE/BLINDS ***
+serge63360 posts small blind 15
+jey4433 posts big blind 30
+Dealt to sabre_laser [Kh 5d]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser raises 45 to 75
+serge63360 folds
+jey4433 folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: sabre_laser (button) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540651934919426049-13-1438026093 - Holdem no limit (20/40) - 2015/07/27 19:41:33 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Rythie63 (1509)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1540)
+Seat 7: jey4433 (1505)
+Seat 8: Crisssis (3010)
+Seat 10: jadedel (1621)
+*** ANTE/BLINDS ***
+jey4433 posts small blind 20
+Crisssis posts big blind 40
+Dealt to sabre_laser [8h Js]
+*** PRE-FLOP *** 
+jadedel folds
+Rythie63 calls 40
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 calls 20
+Crisssis checks
+*** FLOP *** [5c 3d 3s]
+jey4433 checks
+Crisssis checks
+Rythie63 checks
+*** TURN *** [5c 3d 3s][4c]
+jey4433 checks
+Crisssis checks
+Rythie63 bets 120
+jey4433 folds
+Crisssis folds
+Rythie63 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5c 3d 3s 4c]
+Seat 1: Rythie63 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540651934919426049-14-1438026155 - Holdem no limit (20/40) - 2015/07/27 19:42:35 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Rythie63 (1589)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1540)
+Seat 7: jey4433 (1465)
+Seat 8: Crisssis (2970)
+Seat 10: jadedel (1621)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 20
+jadedel posts big blind 40
+Dealt to sabre_laser [6c Tc]
+*** PRE-FLOP *** 
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 raises 40 to 80
+Crisssis folds
+jadedel folds
+jey4433 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 7: jey4433 (button) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540651934919426049-15-1438026244 - Holdem no limit (20/40) - 2015/07/27 19:44:04 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Rythie63 (1589)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1540)
+Seat 7: jey4433 (1525)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1581)
+*** ANTE/BLINDS ***
+jadedel posts small blind 20
+Rythie63 posts big blind 40
+Dealt to sabre_laser [8d 4c]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 calls 40
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 checks
+*** FLOP *** [6d 7c Kc]
+Rythie63 checks
+serge63360 checks
+*** TURN *** [6d 7c Kc][8h]
+Rythie63 checks
+serge63360 checks
+*** RIVER *** [6d 7c Kc 8h][2d]
+Rythie63 checks
+serge63360 checks
+*** SHOW DOWN ***
+Rythie63 shows [2c 5c] (One pair : 2)
+serge63360 shows [4h 4d] (One pair : 4)
+serge63360 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [6d 7c Kc 8h 2d]
+Seat 1: Rythie63 (big blind) showed [2c 5c] and lost with One pair : 2
+Seat 6: serge63360 showed [4h 4d] and won 100 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540651934919426049-16-1438026312 - Holdem no limit (20/40) - 2015/07/27 19:45:12 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Rythie63 (1549)
+Seat 2: Maxwell50110 (1455)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1600)
+Seat 7: jey4433 (1525)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1561)
+*** ANTE/BLINDS ***
+Rythie63 posts small blind 20
+Maxwell50110 posts big blind 40
+Dealt to sabre_laser [Jd 8c]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 calls 20
+Maxwell50110 checks
+*** FLOP *** [6s Js 7c]
+Rythie63 checks
+Maxwell50110 bets 53
+Rythie63 folds
+Maxwell50110 collected 133 from pot
+*** SUMMARY ***
+Total pot 133 | No rake
+Board: [6s Js 7c]
+Seat 2: Maxwell50110 (big blind) won 133
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540651934919426049-17-1438026387 - Holdem no limit (20/40) - 2015/07/27 19:46:27 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Rythie63 (1509)
+Seat 2: Maxwell50110 (1495)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1600)
+Seat 7: jey4433 (1525)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1561)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 20
+AAFlo777 posts big blind 40
+Dealt to sabre_laser [Td 8h]
+*** PRE-FLOP *** 
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 folds
+Crisssis folds
+jadedel raises 62 to 102
+Rythie63 calls 102
+Maxwell50110 folds
+AAFlo777 folds
+*** FLOP *** [Tc 9h Qc]
+jadedel checks
+Rythie63 bets 264
+jadedel folds
+Rythie63 collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | No rake
+Board: [Tc 9h Qc]
+Seat 1: Rythie63 (button) won 528
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540651934919426049-18-1438026457 - Holdem no limit (30/60) - 2015/07/27 19:47:37 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Rythie63 (1671)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1415)
+Seat 4: Mars_Attack (1415)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1600)
+Seat 7: jey4433 (1525)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 30
+Mars_Attack posts big blind 60
+Dealt to sabre_laser [Ah Qh]
+*** PRE-FLOP *** 
+sabre_laser raises 90 to 150
+serge63360 folds
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 raises 90 to 240
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser calls 90
+*** FLOP *** [Jc 4h 5d]
+sabre_laser checks
+Rythie63 bets 285
+sabre_laser folds
+Rythie63 collected 855 from pot
+*** SUMMARY ***
+Total pot 855 | No rake
+Board: [Jc 4h 5d]
+Seat 1: Rythie63 won 855
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540651934919426049-19-1438026540 - Holdem no limit (30/60) - 2015/07/27 19:49:00 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Rythie63 (2001)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1355)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 7: jey4433 (1525)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [3s Ac]
+*** PRE-FLOP *** 
+serge63360 raises 1540 to 1600 and is all-in
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Seat 6: serge63360 won 1690
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540651934919426049-20-1438026619 - Holdem no limit (30/60) - 2015/07/27 19:50:19 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Rythie63 (2001)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1190)
+Seat 6: serge63360 (1690)
+Seat 7: jey4433 (1525)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+serge63360 posts big blind 60
+Dealt to sabre_laser [Jd 6c]
+*** PRE-FLOP *** 
+jey4433 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser calls 30
+serge63360 checks
+*** FLOP *** [Kd 2s Td]
+sabre_laser checks
+serge63360 checks
+*** TURN *** [Kd 2s Td][Qc]
+sabre_laser checks
+serge63360 checks
+*** RIVER *** [Kd 2s Td Qc][Qs]
+sabre_laser checks
+serge63360 checks
+*** SHOW DOWN ***
+serge63360 shows [4d 9c] (One pair : Queens)
+sabre_laser shows [Jd 6c] (One pair : Queens)
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kd 2s Td Qc Qs]
+Seat 5: sabre_laser (small blind) showed [Jd 6c] and won 120 with One pair : Queens
+Seat 6: serge63360 (big blind) showed [4d 9c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540651934919426049-21-1438026743 - Holdem no limit (30/60) - 2015/07/27 19:52:23 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Rythie63 (2001)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1630)
+Seat 7: jey4433 (1525)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+serge63360 posts small blind 30
+jey4433 posts big blind 60
+Dealt to sabre_laser [6s 3s]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 7: jey4433 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540651934919426049-22-1438026786 - Holdem no limit (40/80) - 2015/07/27 19:53:06 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Rythie63 (2001)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 7: jey4433 (1555)
+Seat 8: Crisssis (2950)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+jey4433 posts small blind 40
+Crisssis posts big blind 80
+Dealt to sabre_laser [7s 9h]
+*** PRE-FLOP *** 
+jadedel folds
+Rythie63 raises 160 to 240
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jey4433 calls 200
+Crisssis folds
+*** FLOP *** [7d Jc 2c]
+jey4433 bets 560
+Rythie63 raises 1201 to 1761 and is all-in
+jey4433 calls 755 and is all-in
+*** TURN *** [7d Jc 2c][Th]
+*** RIVER *** [7d Jc 2c Th][3c]
+*** SHOW DOWN ***
+jey4433 shows [Jd Ad] (One pair : Jacks)
+Rythie63 shows [Kh Kc] (One pair : Kings)
+Rythie63 collected 3636 from pot
+*** SUMMARY ***
+Total pot 3636 | No rake
+Board: [7d Jc 2c Th 3c]
+Seat 1: Rythie63 showed [Kh Kc] and won 3636 with One pair : Kings
+Seat 7: jey4433 (small blind) showed [Jd Ad] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540651934919426049-23-1438026838 - Holdem no limit (40/80) - 2015/07/27 19:53:58 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Rythie63 (3636)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 8: Crisssis (2870)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 40
+jadedel posts big blind 80
+Dealt to sabre_laser [Td 4h]
+*** PRE-FLOP *** 
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis raises 120 to 200
+jadedel calls 120
+*** FLOP *** [Tc Ah Th]
+Crisssis checks
+jadedel checks
+*** TURN *** [Tc Ah Th][5h]
+Crisssis checks
+jadedel bets 200
+Crisssis folds
+jadedel collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Tc Ah Th 5h]
+Seat 10: jadedel (big blind) won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540651934919426049-24-1438026961 - Holdem no limit (40/80) - 2015/07/27 19:56:01 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Rythie63 (3636)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 8: Crisssis (2670)
+Seat 10: jadedel (1659)
+*** ANTE/BLINDS ***
+jadedel posts small blind 40
+Rythie63 posts big blind 80
+Dealt to sabre_laser [3s 4h]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Rythie63 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540651934919426049-25-1438026999 - Holdem no limit (40/80) - 2015/07/27 19:56:39 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Rythie63 (3676)
+Seat 2: Maxwell50110 (1475)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 8: Crisssis (2670)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Rythie63 posts small blind 40
+Maxwell50110 posts big blind 80
+Dealt to sabre_laser [Tc Qs]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 calls 40
+Maxwell50110 raises 160 to 240
+Rythie63 calls 160
+*** FLOP *** [Th 8s 8d]
+Rythie63 checks
+Maxwell50110 bets 240
+Rythie63 folds
+Maxwell50110 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Th 8s 8d]
+Seat 2: Maxwell50110 (big blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540651934919426049-26-1438027056 - Holdem no limit (40/80) - 2015/07/27 19:57:36 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Rythie63 (3436)
+Seat 2: Maxwell50110 (1715)
+Seat 3: AAFlo777 (1385)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 8: Crisssis (2670)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 40
+AAFlo777 posts big blind 80
+Dealt to sabre_laser [4h Td]
+*** PRE-FLOP *** 
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis raises 120 to 200
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Crisssis collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 8: Crisssis won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540651934919426049-27-1438027108 - Holdem no limit (40/80) - 2015/07/27 19:58:28 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Rythie63 (3436)
+Seat 2: Maxwell50110 (1675)
+Seat 3: AAFlo777 (1305)
+Seat 4: Mars_Attack (1325)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 8: Crisssis (2790)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 40
+Mars_Attack posts big blind 80
+Dealt to sabre_laser [Tc Ad]
+*** PRE-FLOP *** 
+sabre_laser raises 80 to 160
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 5: sabre_laser won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-28-1438027168 - Holdem no limit (60/120) - 2015/07/27 19:59:28 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Rythie63 (3436)
+Seat 2: Maxwell50110 (1675)
+Seat 3: AAFlo777 (1265)
+Seat 4: Mars_Attack (1245)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1600)
+Seat 8: Crisssis (2790)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Kd 2d]
+*** PRE-FLOP *** 
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 raises 120 to 240
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+Maxwell50110 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: Maxwell50110 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-29-1438027211 - Holdem no limit (60/120) - 2015/07/27 20:00:11 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Rythie63 (3436)
+Seat 2: Maxwell50110 (1855)
+Seat 3: AAFlo777 (1265)
+Seat 4: Mars_Attack (1185)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1600)
+Seat 8: Crisssis (2790)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+serge63360 posts big blind 120
+Dealt to sabre_laser [Qd Kh]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser raises 120 to 240
+serge63360 folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 5: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-30-1438027252 - Holdem no limit (60/120) - 2015/07/27 20:00:52 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Rythie63 (3436)
+Seat 2: Maxwell50110 (1855)
+Seat 3: AAFlo777 (1265)
+Seat 4: Mars_Attack (1185)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1480)
+Seat 8: Crisssis (2790)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+serge63360 posts small blind 60
+Crisssis posts big blind 120
+Dealt to sabre_laser [3s 6d]
+*** PRE-FLOP *** 
+jadedel folds
+Rythie63 raises 300 to 420
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+Rythie63 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: Rythie63 won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-31-1438027288 - Holdem no limit (60/120) - 2015/07/27 20:01:28 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Rythie63 (3616)
+Seat 2: Maxwell50110 (1855)
+Seat 3: AAFlo777 (1265)
+Seat 4: Mars_Attack (1185)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1420)
+Seat 8: Crisssis (2670)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 60
+jadedel posts big blind 120
+Dealt to sabre_laser [9s 2s]
+*** PRE-FLOP *** 
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 10: jadedel (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-32-1438027347 - Holdem no limit (60/120) - 2015/07/27 20:02:27 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Rythie63 (3616)
+Seat 2: Maxwell50110 (1855)
+Seat 3: AAFlo777 (1265)
+Seat 4: Mars_Attack (1185)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1420)
+Seat 8: Crisssis (2610)
+Seat 10: jadedel (1679)
+*** ANTE/BLINDS ***
+jadedel posts small blind 60
+Rythie63 posts big blind 120
+Dealt to sabre_laser [9s Th]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: Rythie63 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-33-1438027380 - Holdem no limit (60/120) - 2015/07/27 20:03:00 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Rythie63 (3676)
+Seat 2: Maxwell50110 (1855)
+Seat 3: AAFlo777 (1265)
+Seat 4: Mars_Attack (1185)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1420)
+Seat 8: Crisssis (2610)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Rythie63 posts small blind 60
+Maxwell50110 posts big blind 120
+Dealt to sabre_laser [2h 5d]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 raises 480 to 600
+Maxwell50110 folds
+Rythie63 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 1: Rythie63 (small blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-34-1438027426 - Holdem no limit (60/120) - 2015/07/27 20:03:46 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Rythie63 (3796)
+Seat 2: Maxwell50110 (1735)
+Seat 3: AAFlo777 (1265)
+Seat 4: Mars_Attack (1185)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1420)
+Seat 8: Crisssis (2610)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 60
+AAFlo777 posts big blind 120
+Dealt to sabre_laser [Ks 8c]
+*** PRE-FLOP *** 
+Mars_Attack raises 1065 to 1185 and is all-in
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | No rake
+Seat 4: Mars_Attack won 1365
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-35-1438027464 - Holdem no limit (60/120) - 2015/07/27 20:04:24 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Rythie63 (3796)
+Seat 2: Maxwell50110 (1675)
+Seat 3: AAFlo777 (1145)
+Seat 4: Mars_Attack (1365)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1420)
+Seat 8: Crisssis (2610)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 60
+Mars_Attack posts big blind 120
+Dealt to sabre_laser [Ts 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: Mars_Attack (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540651934919426049-36-1438027480 - Holdem no limit (60/120) - 2015/07/27 20:04:40 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Rythie63 (3796)
+Seat 2: Maxwell50110 (1675)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1425)
+Seat 5: sabre_laser (1370)
+Seat 6: serge63360 (1420)
+Seat 8: Crisssis (2610)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [9h Qc]
+*** PRE-FLOP *** 
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 calls 120
+Maxwell50110 raises 1555 to 1675 and is all-in
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+Rythie63 folds
+Maxwell50110 collected 1975 from pot
+*** SUMMARY ***
+Total pot 1975 | No rake
+Seat 2: Maxwell50110 won 1975
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540651934919426049-37-1438027538 - Holdem no limit (80/160) - 2015/07/27 20:05:38 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Rythie63 (3676)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1365)
+Seat 5: sabre_laser (1250)
+Seat 6: serge63360 (1420)
+Seat 8: Crisssis (2610)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+serge63360 posts big blind 160
+Dealt to sabre_laser [Kd 6c]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser calls 80
+serge63360 raises 1260 to 1420 and is all-in
+sabre_laser folds
+serge63360 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 6: serge63360 (big blind) won 1580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540651934919426049-38-1438027580 - Holdem no limit (80/160) - 2015/07/27 20:06:20 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Rythie63 (3676)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1365)
+Seat 5: sabre_laser (1090)
+Seat 6: serge63360 (1580)
+Seat 8: Crisssis (2610)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+serge63360 posts small blind 80
+Crisssis posts big blind 160
+Dealt to sabre_laser [4c 3s]
+*** PRE-FLOP *** 
+jadedel calls 160
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis checks
+*** FLOP *** [Jc 7c Ks]
+Crisssis checks
+jadedel bets 200
+Crisssis folds
+jadedel collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc 7c Ks]
+Seat 10: jadedel won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540651934919426049-39-1438027642 - Holdem no limit (80/160) - 2015/07/27 20:07:22 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Rythie63 (3676)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1365)
+Seat 5: sabre_laser (1090)
+Seat 6: serge63360 (1500)
+Seat 8: Crisssis (2450)
+Seat 10: jadedel (1859)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 80
+jadedel posts big blind 160
+Dealt to sabre_laser [3d Js]
+*** PRE-FLOP *** 
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack raises 1205 to 1365 and is all-in
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Mars_Attack collected 1605 from pot
+*** SUMMARY ***
+Total pot 1605 | No rake
+Seat 4: Mars_Attack won 1605
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540651934919426049-40-1438027685 - Holdem no limit (80/160) - 2015/07/27 20:08:05 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Rythie63 (3676)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1605)
+Seat 5: sabre_laser (1090)
+Seat 6: serge63360 (1500)
+Seat 8: Crisssis (2370)
+Seat 10: jadedel (1699)
+*** ANTE/BLINDS ***
+jadedel posts small blind 80
+Rythie63 posts big blind 160
+Dealt to sabre_laser [Ah 8h]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser raises 160 to 320
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 calls 160
+*** FLOP *** [6d Kd 8s]
+Rythie63 checks
+sabre_laser bets 320
+Rythie63 folds
+sabre_laser collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [6d Kd 8s]
+Seat 5: sabre_laser won 1040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540651934919426049-41-1438027745 - Holdem no limit (80/160) - 2015/07/27 20:09:05 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Rythie63 (3356)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1605)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1500)
+Seat 8: Crisssis (2370)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Rythie63 posts small blind 80
+Maxwell50110 posts big blind 160
+Dealt to sabre_laser [4h Ah]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: Maxwell50110 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540651934919426049-42-1438027775 - Holdem no limit (80/160) - 2015/07/27 20:09:35 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Rythie63 (3276)
+Seat 2: Maxwell50110 (2055)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1605)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1500)
+Seat 8: Crisssis (2370)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Maxwell50110 posts small blind 80
+AAFlo777 posts big blind 160
+Dealt to sabre_laser [2c Qd]
+*** PRE-FLOP *** 
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: AAFlo777 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540651934919426049-43-1438027810 - Holdem no limit (80/160) - 2015/07/27 20:10:10 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Rythie63 (3276)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1165)
+Seat 4: Mars_Attack (1605)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1500)
+Seat 8: Crisssis (2370)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 80
+Mars_Attack posts big blind 160
+Dealt to sabre_laser [7d 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 calls 160
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack checks
+*** FLOP *** [3h Jd 6h]
+Mars_Attack checks
+Rythie63 checks
+*** TURN *** [3h Jd 6h][Qc]
+Mars_Attack checks
+Rythie63 checks
+*** RIVER *** [3h Jd 6h Qc][Tc]
+Mars_Attack checks
+Rythie63 checks
+*** SHOW DOWN ***
+Rythie63 shows [8c Kc] (High card : King)
+Mars_Attack shows [Ad 7s] (High card : Ace)
+Mars_Attack collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [3h Jd 6h Qc Tc]
+Seat 1: Rythie63 showed [8c Kc] and lost with High card : King
+Seat 4: Mars_Attack (big blind) showed [Ad 7s] and won 400 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-44-1438027899 - Holdem no limit (10/100/200) - 2015/07/27 20:11:39 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Rythie63 (3116)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1085)
+Seat 4: Mars_Attack (1845)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1500)
+Seat 8: Crisssis (2370)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 10
+sabre_laser posts ante 10
+Rythie63 posts ante 10
+Maxwell50110 posts ante 10
+AAFlo777 posts ante 10
+serge63360 posts ante 10
+Crisssis posts ante 10
+jadedel posts ante 10
+Mars_Attack posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 raises 875 to 1075 and is all-in
+Mars_Attack folds
+sabre_laser folds
+AAFlo777 collected 1455 from pot
+*** SUMMARY ***
+Total pot 1455 | No rake
+Seat 3: AAFlo777 (button) won 1455
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-45-1438027944 - Holdem no limit (10/100/200) - 2015/07/27 20:12:24 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Rythie63 (3106)
+Seat 2: Maxwell50110 (1965)
+Seat 3: AAFlo777 (1455)
+Seat 4: Mars_Attack (1735)
+Seat 5: sabre_laser (1280)
+Seat 6: serge63360 (1490)
+Seat 8: Crisssis (2360)
+Seat 10: jadedel (1609)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+serge63360 posts ante 10
+Rythie63 posts ante 10
+Maxwell50110 posts ante 10
+AAFlo777 posts ante 10
+Mars_Attack posts ante 10
+Crisssis posts ante 10
+jadedel posts ante 10
+sabre_laser posts small blind 100
+serge63360 posts big blind 200
+Dealt to sabre_laser [3c 2c]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel raises 1399 to 1599 and is all-in
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jadedel collected 1979 from pot
+*** SUMMARY ***
+Total pot 1979 | No rake
+Seat 10: jadedel won 1979
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-46-1438027984 - Holdem no limit (10/100/200) - 2015/07/27 20:13:04 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Rythie63 (3096)
+Seat 2: Maxwell50110 (1955)
+Seat 3: AAFlo777 (1445)
+Seat 4: Mars_Attack (1725)
+Seat 5: sabre_laser (1170)
+Seat 6: serge63360 (1280)
+Seat 8: Crisssis (2350)
+Seat 10: jadedel (1979)
+*** ANTE/BLINDS ***
+serge63360 posts ante 10
+Crisssis posts ante 10
+Rythie63 posts ante 10
+Maxwell50110 posts ante 10
+AAFlo777 posts ante 10
+Mars_Attack posts ante 10
+sabre_laser posts ante 10
+jadedel posts ante 10
+serge63360 posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [4c 9s]
+*** PRE-FLOP *** 
+jadedel folds
+Rythie63 calls 200
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis checks
+*** FLOP *** [3h 7h Js]
+Crisssis checks
+Rythie63 bets 200
+Crisssis folds
+Rythie63 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [3h 7h Js]
+Seat 1: Rythie63 won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-47-1438028036 - Holdem no limit (10/100/200) - 2015/07/27 20:13:56 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Rythie63 (3466)
+Seat 2: Maxwell50110 (1945)
+Seat 3: AAFlo777 (1435)
+Seat 4: Mars_Attack (1715)
+Seat 5: sabre_laser (1160)
+Seat 6: serge63360 (1170)
+Seat 8: Crisssis (2140)
+Seat 10: jadedel (1969)
+*** ANTE/BLINDS ***
+Crisssis posts ante 10
+jadedel posts ante 10
+Rythie63 posts ante 10
+Maxwell50110 posts ante 10
+AAFlo777 posts ante 10
+Mars_Attack posts ante 10
+sabre_laser posts ante 10
+serge63360 posts ante 10
+Crisssis posts small blind 100
+jadedel posts big blind 200
+Dealt to sabre_laser [Ks Ts]
+*** PRE-FLOP *** 
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack raises 1505 to 1705 and is all-in
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Mars_Attack collected 2085 from pot
+*** SUMMARY ***
+Total pot 2085 | No rake
+Seat 4: Mars_Attack won 2085
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-48-1438028100 - Holdem no limit (10/100/200) - 2015/07/27 20:15:00 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Rythie63 (3456)
+Seat 2: Maxwell50110 (1935)
+Seat 3: AAFlo777 (1425)
+Seat 4: Mars_Attack (2085)
+Seat 5: sabre_laser (1150)
+Seat 6: serge63360 (1160)
+Seat 8: Crisssis (2030)
+Seat 10: jadedel (1759)
+*** ANTE/BLINDS ***
+jadedel posts ante 10
+Rythie63 posts ante 10
+Maxwell50110 posts ante 10
+AAFlo777 posts ante 10
+Mars_Attack posts ante 10
+sabre_laser posts ante 10
+serge63360 posts ante 10
+Crisssis posts ante 10
+jadedel posts small blind 100
+Rythie63 posts big blind 200
+Dealt to sabre_laser [7h 8s]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 raises 950 to 1150 and is all-in
+Crisssis folds
+jadedel folds
+Rythie63 folds
+serge63360 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 6: serge63360 won 1530
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-49-1438028147 - Holdem no limit (10/100/200) - 2015/07/27 20:15:47 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Rythie63 (3246)
+Seat 2: Maxwell50110 (1925)
+Seat 3: AAFlo777 (1415)
+Seat 4: Mars_Attack (2075)
+Seat 5: sabre_laser (1140)
+Seat 6: serge63360 (1530)
+Seat 8: Crisssis (2020)
+Seat 10: jadedel (1649)
+*** ANTE/BLINDS ***
+Rythie63 posts ante 10
+Maxwell50110 posts ante 10
+AAFlo777 posts ante 10
+Mars_Attack posts ante 10
+sabre_laser posts ante 10
+serge63360 posts ante 10
+Crisssis posts ante 10
+jadedel posts ante 10
+Rythie63 posts small blind 100
+Maxwell50110 posts big blind 200
+Dealt to sabre_laser [8c Qh]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser raises 930 to 1130 and is all-in
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+sabre_laser collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Seat 5: sabre_laser won 1510
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-50-1438028185 - Holdem no limit (10/100/200) - 2015/07/27 20:16:25 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Rythie63 (3136)
+Seat 2: Maxwell50110 (1715)
+Seat 3: AAFlo777 (1405)
+Seat 4: Mars_Attack (2065)
+Seat 5: sabre_laser (1510)
+Seat 6: serge63360 (1520)
+Seat 8: Crisssis (2010)
+Seat 10: jadedel (1639)
+*** ANTE/BLINDS ***
+Maxwell50110 posts ante 10
+AAFlo777 posts ante 10
+Rythie63 posts ante 10
+Mars_Attack posts ante 10
+sabre_laser posts ante 10
+serge63360 posts ante 10
+Crisssis posts ante 10
+jadedel posts ante 10
+Maxwell50110 posts small blind 100
+AAFlo777 posts big blind 200
+Dealt to sabre_laser [2h 3h]
+*** PRE-FLOP *** 
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: AAFlo777 (big blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540651934919426049-51-1438028209 - Holdem no limit (10/100/200) - 2015/07/27 20:16:49 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Rythie63 (3126)
+Seat 2: Maxwell50110 (1605)
+Seat 3: AAFlo777 (1575)
+Seat 4: Mars_Attack (2055)
+Seat 5: sabre_laser (1500)
+Seat 6: serge63360 (1510)
+Seat 8: Crisssis (2000)
+Seat 10: jadedel (1629)
+*** ANTE/BLINDS ***
+AAFlo777 posts ante 10
+Mars_Attack posts ante 10
+Rythie63 posts ante 10
+Maxwell50110 posts ante 10
+sabre_laser posts ante 10
+serge63360 posts ante 10
+Crisssis posts ante 10
+jadedel posts ante 10
+AAFlo777 posts small blind 100
+Mars_Attack posts big blind 200
+Dealt to sabre_laser [4s 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 raises 1395 to 1595 and is all-in
+AAFlo777 folds
+Mars_Attack folds
+Maxwell50110 collected 1975 from pot
+*** SUMMARY ***
+Total pot 1975 | No rake
+Seat 2: Maxwell50110 (button) won 1975
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540651934919426049-52-1438028317 - Holdem no limit (20/150/300) - 2015/07/27 20:18:37 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Rythie63 (3116)
+Seat 2: Maxwell50110 (1975)
+Seat 3: AAFlo777 (1465)
+Seat 4: Mars_Attack (1845)
+Seat 5: sabre_laser (1490)
+Seat 6: serge63360 (1500)
+Seat 8: Crisssis (1990)
+Seat 10: jadedel (1619)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 20
+sabre_laser posts ante 20
+Rythie63 posts ante 20
+Maxwell50110 posts ante 20
+AAFlo777 posts ante 20
+serge63360 posts ante 20
+Crisssis posts ante 20
+jadedel posts ante 20
+Mars_Attack posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [4c Qh]
+*** PRE-FLOP *** 
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 5: sabre_laser (big blind) won 610
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540651934919426049-53-1438028343 - Holdem no limit (20/150/300) - 2015/07/27 20:19:03 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Rythie63 (3096)
+Seat 2: Maxwell50110 (1955)
+Seat 3: AAFlo777 (1445)
+Seat 4: Mars_Attack (1675)
+Seat 5: sabre_laser (1780)
+Seat 6: serge63360 (1480)
+Seat 8: Crisssis (1970)
+Seat 10: jadedel (1599)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+serge63360 posts ante 20
+Rythie63 posts ante 20
+Maxwell50110 posts ante 20
+AAFlo777 posts ante 20
+Mars_Attack posts ante 20
+Crisssis posts ante 20
+jadedel posts ante 20
+sabre_laser posts small blind 150
+serge63360 posts big blind 300
+Dealt to sabre_laser [5d Jc]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel raises 1279 to 1579 and is all-in
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+jadedel collected 2189 from pot
+*** SUMMARY ***
+Total pot 2189 | No rake
+Seat 10: jadedel won 2189
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540651934919426049-54-1438028393 - Holdem no limit (20/150/300) - 2015/07/27 20:19:53 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Rythie63 (3076)
+Seat 2: Maxwell50110 (1935)
+Seat 3: AAFlo777 (1425)
+Seat 4: Mars_Attack (1655)
+Seat 5: sabre_laser (1610)
+Seat 6: serge63360 (1160)
+Seat 8: Crisssis (1950)
+Seat 10: jadedel (2189)
+*** ANTE/BLINDS ***
+serge63360 posts ante 20
+Crisssis posts ante 20
+Rythie63 posts ante 20
+Maxwell50110 posts ante 20
+AAFlo777 posts ante 20
+Mars_Attack posts ante 20
+sabre_laser posts ante 20
+jadedel posts ante 20
+serge63360 posts small blind 150
+Crisssis posts big blind 300
+Dealt to sabre_laser [7s 2h]
+*** PRE-FLOP *** 
+jadedel folds
+Rythie63 raises 300 to 600
+Maxwell50110 raises 1315 to 1915 and is all-in
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+Rythie63 calls 1315
+*** FLOP *** [As Qd 4h]
+*** TURN *** [As Qd 4h][7d]
+*** RIVER *** [As Qd 4h 7d][Ts]
+*** SHOW DOWN ***
+Rythie63 shows [Qs Ah] (Two pairs : Aces and Queens)
+Maxwell50110 shows [7c 7h] (Trips of 7)
+Maxwell50110 collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [As Qd 4h 7d Ts]
+Seat 1: Rythie63 showed [Qs Ah] and lost with Two pairs : Aces and Queens
+Seat 2: Maxwell50110 showed [7c 7h] and won 4440 with Trips of 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540651934919426049-55-1438028477 - Holdem no limit (20/150/300) - 2015/07/27 20:21:17 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Rythie63 (1141)
+Seat 2: Maxwell50110 (4440)
+Seat 3: AAFlo777 (1405)
+Seat 4: Mars_Attack (1635)
+Seat 5: sabre_laser (1590)
+Seat 6: serge63360 (990)
+Seat 8: Crisssis (1630)
+Seat 10: jadedel (2169)
+*** ANTE/BLINDS ***
+Crisssis posts ante 20
+jadedel posts ante 20
+Rythie63 posts ante 20
+Maxwell50110 posts ante 20
+AAFlo777 posts ante 20
+Mars_Attack posts ante 20
+sabre_laser posts ante 20
+serge63360 posts ante 20
+Crisssis posts small blind 150
+jadedel posts big blind 300
+Dealt to sabre_laser [6d 5d]
+*** PRE-FLOP *** 
+Rythie63 folds
+Maxwell50110 folds
+AAFlo777 raises 1085 to 1385 and is all-in
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+AAFlo777 collected 1995 from pot
+*** SUMMARY ***
+Total pot 1995 | No rake
+Seat 3: AAFlo777 won 1995
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540651934919426049-56-1438028527 - Holdem no limit (20/150/300) - 2015/07/27 20:22:07 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Rythie63 (1121)
+Seat 2: Maxwell50110 (4420)
+Seat 3: AAFlo777 (1995)
+Seat 4: Mars_Attack (1615)
+Seat 5: sabre_laser (1570)
+Seat 6: serge63360 (970)
+Seat 8: Crisssis (1460)
+Seat 10: jadedel (1849)
+*** ANTE/BLINDS ***
+jadedel posts ante 20
+Rythie63 posts ante 20
+Maxwell50110 posts ante 20
+AAFlo777 posts ante 20
+Mars_Attack posts ante 20
+sabre_laser posts ante 20
+serge63360 posts ante 20
+Crisssis posts ante 20
+jadedel posts small blind 150
+Rythie63 posts big blind 300
+Dealt to sabre_laser [Tc Ts]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser raises 1250 to 1550 and is all-in
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 folds
+sabre_laser collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Seat 5: sabre_laser won 2160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540651934919426049-57-1438028563 - Holdem no limit (20/150/300) - 2015/07/27 20:22:43 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Rythie63 (801)
+Seat 2: Maxwell50110 (4400)
+Seat 3: AAFlo777 (1975)
+Seat 4: Mars_Attack (1595)
+Seat 5: sabre_laser (2160)
+Seat 6: serge63360 (950)
+Seat 8: Crisssis (1440)
+Seat 10: jadedel (1679)
+*** ANTE/BLINDS ***
+Rythie63 posts ante 20
+Maxwell50110 posts ante 20
+AAFlo777 posts ante 20
+Mars_Attack posts ante 20
+sabre_laser posts ante 20
+serge63360 posts ante 20
+Crisssis posts ante 20
+jadedel posts ante 20
+Rythie63 posts small blind 150
+Maxwell50110 posts big blind 300
+Dealt to sabre_laser [Ks As]
+*** PRE-FLOP *** 
+AAFlo777 folds
+Mars_Attack folds
+sabre_laser raises 1840 to 2140 and is all-in
+serge63360 folds
+Crisssis folds
+jadedel folds
+Rythie63 calls 631 and is all-in
+Maxwell50110 folds
+*** FLOP *** [2c 6c 6d]
+*** TURN *** [2c 6c 6d][Ah]
+*** RIVER *** [2c 6c 6d Ah][3s]
+*** SHOW DOWN ***
+Rythie63 shows [7c 7h] (Two pairs : 7 and 6)
+sabre_laser shows [Ks As] (Two pairs : Aces and 6)
+sabre_laser collected 3381 from pot
+*** SUMMARY ***
+Total pot 3381 | No rake
+Board: [2c 6c 6d Ah 3s]
+Seat 1: Rythie63 (small blind) showed [7c 7h] and lost with Two pairs : 7 and 6
+Seat 5: sabre_laser showed [Ks As] and won 3381 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-58-1438028607 - Holdem no limit (50/200/400) - 2015/07/27 20:23:27 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #1 is the button
+Seat 2: Maxwell50110 (4080)
+Seat 3: AAFlo777 (1955)
+Seat 4: Mars_Attack (1575)
+Seat 5: sabre_laser (3381)
+Seat 6: serge63360 (930)
+Seat 8: Crisssis (1420)
+Seat 10: jadedel (1659)
+*** ANTE/BLINDS ***
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+Mars_Attack posts ante 50
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Crisssis posts ante 50
+jadedel posts ante 50
+Maxwell50110 posts small blind 200
+AAFlo777 posts big blind 400
+Dealt to sabre_laser [2s 3c]
+*** PRE-FLOP *** 
+Mars_Attack folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Maxwell50110 folds
+AAFlo777 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 3: AAFlo777 (big blind) won 950
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-59-1438028645 - Holdem no limit (50/200/400) - 2015/07/27 20:24:05 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Maxwell50110 (3830)
+Seat 3: AAFlo777 (2455)
+Seat 4: Mars_Attack (1525)
+Seat 5: sabre_laser (3331)
+Seat 6: serge63360 (880)
+Seat 8: Crisssis (1370)
+Seat 10: jadedel (1609)
+*** ANTE/BLINDS ***
+AAFlo777 posts ante 50
+Mars_Attack posts ante 50
+Maxwell50110 posts ante 50
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Crisssis posts ante 50
+jadedel posts ante 50
+AAFlo777 posts small blind 200
+Mars_Attack posts big blind 400
+Dealt to sabre_laser [Tc Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+serge63360 folds
+Crisssis raises 920 to 1320 and is all-in
+jadedel folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack folds
+Crisssis collected 2270 from pot
+*** SUMMARY ***
+Total pot 2270 | No rake
+Seat 8: Crisssis won 2270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-60-1438028682 - Holdem no limit (50/200/400) - 2015/07/27 20:24:42 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Maxwell50110 (3780)
+Seat 3: AAFlo777 (2205)
+Seat 4: Mars_Attack (1075)
+Seat 5: sabre_laser (3281)
+Seat 6: serge63360 (830)
+Seat 8: Crisssis (2270)
+Seat 10: jadedel (1559)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 50
+sabre_laser posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+serge63360 posts ante 50
+Crisssis posts ante 50
+jadedel posts ante 50
+Mars_Attack posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [8s 4c]
+*** PRE-FLOP *** 
+serge63360 folds
+Crisssis folds
+jadedel folds
+Maxwell50110 folds
+AAFlo777 folds
+Mars_Attack raises 625 to 1025 and is all-in
+sabre_laser calls 625
+*** FLOP *** [8h 3c 5d]
+*** TURN *** [8h 3c 5d][Ks]
+*** RIVER *** [8h 3c 5d Ks][4d]
+*** SHOW DOWN ***
+Mars_Attack shows [Ad 8c] (One pair : 8)
+sabre_laser shows [8s 4c] (Two pairs : 8 and 4)
+sabre_laser collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [8h 3c 5d Ks 4d]
+Seat 4: Mars_Attack (small blind) showed [Ad 8c] and lost with One pair : 8
+Seat 5: sabre_laser (big blind) showed [8s 4c] and won 2400 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-61-1438028723 - Holdem no limit (50/200/400) - 2015/07/27 20:25:23 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Maxwell50110 (3730)
+Seat 3: AAFlo777 (2155)
+Seat 5: sabre_laser (4606)
+Seat 6: serge63360 (780)
+Seat 8: Crisssis (2220)
+Seat 10: jadedel (1509)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+Crisssis posts ante 50
+jadedel posts ante 50
+sabre_laser posts small blind 200
+serge63360 posts big blind 400
+Dealt to sabre_laser [Jh 8d]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel folds
+Maxwell50110 raises 400 to 800
+AAFlo777 folds
+sabre_laser folds
+serge63360 folds
+Maxwell50110 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 2: Maxwell50110 won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-62-1438028740 - Holdem no limit (50/200/400) - 2015/07/27 20:25:40 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Maxwell50110 (4580)
+Seat 3: AAFlo777 (2105)
+Seat 5: sabre_laser (4356)
+Seat 6: serge63360 (330)
+Seat 8: Crisssis (2170)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+serge63360 posts ante 50
+Crisssis posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+sabre_laser posts ante 50
+jadedel posts ante 50
+serge63360 posts small blind 200
+Crisssis posts big blind 400
+Dealt to sabre_laser [4c 3d]
+*** PRE-FLOP *** 
+jadedel folds
+Maxwell50110 folds
+AAFlo777 folds
+sabre_laser folds
+serge63360 calls 80 and is all-in
+*** FLOP *** [6c Qh 5h]
+*** TURN *** [6c Qh 5h][7c]
+*** RIVER *** [6c Qh 5h 7c][5d]
+*** SHOW DOWN ***
+serge63360 shows [2c Qs] (Two pairs : Queens and 5)
+Crisssis shows [Kd 3h] (One pair : 5)
+Crisssis collected 120 from side pot 1
+serge63360 collected 860 from main pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [6c Qh 5h 7c 5d]
+Seat 6: serge63360 (small blind) showed [2c Qs] and won 860 with Two pairs : Queens and 5
+Seat 8: Crisssis (big blind) showed [Kd 3h] and won 120 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-63-1438028768 - Holdem no limit (50/200/400) - 2015/07/27 20:26:08 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Maxwell50110 (4530)
+Seat 3: AAFlo777 (2055)
+Seat 5: sabre_laser (4306)
+Seat 6: serge63360 (860)
+Seat 8: Crisssis (1840)
+Seat 10: jadedel (1409)
+*** ANTE/BLINDS ***
+Crisssis posts ante 50
+jadedel posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Crisssis posts small blind 200
+jadedel posts big blind 400
+Dealt to sabre_laser [6s 3d]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 10: jadedel (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-64-1438028788 - Holdem no limit (50/200/400) - 2015/07/27 20:26:28 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Maxwell50110 (4480)
+Seat 3: AAFlo777 (2005)
+Seat 5: sabre_laser (4256)
+Seat 6: serge63360 (810)
+Seat 8: Crisssis (1590)
+Seat 10: jadedel (1859)
+*** ANTE/BLINDS ***
+jadedel posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Crisssis posts ante 50
+jadedel posts small blind 200
+Maxwell50110 posts big blind 400
+Dealt to sabre_laser [9h Js]
+*** PRE-FLOP *** 
+AAFlo777 folds
+sabre_laser folds
+serge63360 raises 360 to 760 and is all-in
+Crisssis folds
+jadedel folds
+Maxwell50110 folds
+serge63360 collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | No rake
+Seat 6: serge63360 won 1660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-65-1438028814 - Holdem no limit (50/200/400) - 2015/07/27 20:26:54 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Maxwell50110 (4030)
+Seat 3: AAFlo777 (1955)
+Seat 5: sabre_laser (4206)
+Seat 6: serge63360 (1660)
+Seat 8: Crisssis (1540)
+Seat 10: jadedel (1609)
+*** ANTE/BLINDS ***
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Crisssis posts ante 50
+jadedel posts ante 50
+Maxwell50110 posts small blind 200
+AAFlo777 posts big blind 400
+Dealt to sabre_laser [6c Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel folds
+Maxwell50110 folds
+AAFlo777 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 3: AAFlo777 (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-66-1438028826 - Holdem no limit (50/200/400) - 2015/07/27 20:27:06 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Maxwell50110 (3780)
+Seat 3: AAFlo777 (2405)
+Seat 5: sabre_laser (4156)
+Seat 6: serge63360 (1610)
+Seat 8: Crisssis (1490)
+Seat 10: jadedel (1559)
+*** ANTE/BLINDS ***
+AAFlo777 posts ante 50
+sabre_laser posts ante 50
+Maxwell50110 posts ante 50
+serge63360 posts ante 50
+Crisssis posts ante 50
+jadedel posts ante 50
+AAFlo777 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [7d 3d]
+*** PRE-FLOP *** 
+serge63360 folds
+Crisssis folds
+jadedel folds
+Maxwell50110 folds
+AAFlo777 raises 1955 to 2355 and is all-in
+sabre_laser folds
+AAFlo777 collected 3055 from pot
+*** SUMMARY ***
+Total pot 3055 | No rake
+Seat 3: AAFlo777 (small blind) won 3055
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-67-1438028869 - Holdem no limit (50/200/400) - 2015/07/27 20:27:49 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Maxwell50110 (3730)
+Seat 3: AAFlo777 (3055)
+Seat 5: sabre_laser (3706)
+Seat 6: serge63360 (1560)
+Seat 8: Crisssis (1440)
+Seat 10: jadedel (1509)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+Crisssis posts ante 50
+jadedel posts ante 50
+sabre_laser posts small blind 200
+serge63360 posts big blind 400
+Dealt to sabre_laser [2c 3d]
+*** PRE-FLOP *** 
+Crisssis folds
+jadedel folds
+Maxwell50110 folds
+AAFlo777 folds
+sabre_laser folds
+serge63360 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: serge63360 (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-68-1438028896 - Holdem no limit (50/200/400) - 2015/07/27 20:28:16 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Maxwell50110 (3680)
+Seat 3: AAFlo777 (3005)
+Seat 5: sabre_laser (3456)
+Seat 6: serge63360 (2010)
+Seat 8: Crisssis (1390)
+Seat 10: jadedel (1459)
+*** ANTE/BLINDS ***
+serge63360 posts ante 50
+Crisssis posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+sabre_laser posts ante 50
+jadedel posts ante 50
+serge63360 posts small blind 200
+Crisssis posts big blind 400
+Dealt to sabre_laser [Js Ad]
+*** PRE-FLOP *** 
+jadedel raises 1009 to 1409 and is all-in
+Maxwell50110 folds
+AAFlo777 folds
+sabre_laser folds
+serge63360 folds
+Crisssis folds
+jadedel collected 2309 from pot
+*** SUMMARY ***
+Total pot 2309 | No rake
+Seat 10: jadedel won 2309
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540651934919426049-69-1438028937 - Holdem no limit (50/200/400) - 2015/07/27 20:28:57 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Maxwell50110 (3630)
+Seat 3: AAFlo777 (2955)
+Seat 5: sabre_laser (3406)
+Seat 6: serge63360 (1760)
+Seat 8: Crisssis (940)
+Seat 10: jadedel (2309)
+*** ANTE/BLINDS ***
+Crisssis posts ante 50
+jadedel posts ante 50
+Maxwell50110 posts ante 50
+AAFlo777 posts ante 50
+sabre_laser posts ante 50
+serge63360 posts ante 50
+Crisssis posts small blind 200
+jadedel posts big blind 400
+Dealt to sabre_laser [Ac Kc]
+*** PRE-FLOP *** 
+Maxwell50110 folds
+AAFlo777 folds
+sabre_laser raises 2956 to 3356 and is all-in
+serge63360 folds
+Crisssis folds
+jadedel folds
+sabre_laser collected 4256 from pot
+*** SUMMARY ***
+Total pot 4256 | No rake
+Seat 5: sabre_laser won 4256
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #540651934919426049-70-1438028963 - Holdem no limit (75/300/600) - 2015/07/27 20:29:23 UTC
+Table: 'Double or Nothing(125880338)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Maxwell50110 (3580)
+Seat 3: AAFlo777 (2905)
+Seat 5: sabre_laser (4256)
+Seat 6: serge63360 (1710)
+Seat 8: Crisssis (690)
+Seat 10: jadedel (1859)
+*** ANTE/BLINDS ***
+jadedel posts ante 75
+Maxwell50110 posts ante 75
+AAFlo777 posts ante 75
+sabre_laser posts ante 75
+serge63360 posts ante 75
+Crisssis posts ante 75
+jadedel posts small blind 300
+Maxwell50110 posts big blind 600
+Dealt to sabre_laser [5d 2d]
+*** PRE-FLOP *** 
+AAFlo777 folds
+sabre_laser folds
+serge63360 folds
+Crisssis raises 15 to 615 and is all-in
+jadedel folds
+Maxwell50110 calls 15
+*** FLOP *** [Kd 7c 6d]
+*** TURN *** [Kd 7c 6d][2c]
+*** RIVER *** [Kd 7c 6d 2c][2h]
+*** SHOW DOWN ***
+Crisssis shows [8c Ad] (One pair : 2)
+Maxwell50110 shows [Js 6h] (Two pairs : 6 and 2)
+Maxwell50110 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [Kd 7c 6d 2c 2h]
+Seat 2: Maxwell50110 (big blind) showed [Js 6h] and won 1980 with Two pairs : 6 and 2
+Seat 8: Crisssis (button) showed [8c Ad] and lost with One pair : 2
+
+

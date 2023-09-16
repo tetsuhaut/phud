@@ -1,0 +1,240 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #458785833873309697-1-1421358723 - Holdem no limit (10/20) - 2015/01/15 21:52:03 UTC
+Table: 'Double or Nothing(106819401)#0' 10-max (real money) Seat #1 is the button
+Seat 1: zedbez (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: Damstar93420 (1500)
+Seat 4: vidda 93 (1500)
+Seat 5: INES1317 (1500)
+Seat 6: zemalinou (1500)
+Seat 7: tfabalex (1500)
+Seat 8: Floo60 (1500)
+Seat 9: LABELLE VIE (1500)
+Seat 10: Coolairone (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Damstar93420 posts big blind 20
+Dealt to sabre_laser [Jh Jc]
+*** PRE-FLOP *** 
+vidda 93 folds
+INES1317 folds
+zemalinou calls 20
+tfabalex folds
+Floo60 folds
+LABELLE VIE folds
+Coolairone folds
+zedbez folds
+sabre_laser raises 30 to 50
+Damstar93420 calls 30
+zemalinou calls 30
+*** FLOP *** [9h Th Td]
+sabre_laser bets 150
+Damstar93420 folds
+zemalinou calls 150
+*** TURN *** [9h Th Td][Kd]
+sabre_laser bets 450
+zemalinou raises 850 to 1300 and is all-in
+sabre_laser folds
+zemalinou collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [9h Th Td Kd]
+Seat 6: zemalinou won 2200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #458785833873309697-2-1421358864 - Holdem no limit (10/20) - 2015/01/15 21:54:24 UTC
+Table: 'Double or Nothing(106819401)#0' 10-max (real money) Seat #2 is the button
+Seat 1: zedbez (1500)
+Seat 2: sabre_laser (850)
+Seat 3: Damstar93420 (1450)
+Seat 4: vidda 93 (1500)
+Seat 5: INES1317 (1500)
+Seat 6: zemalinou (2200)
+Seat 7: tfabalex (1500)
+Seat 8: Floo60 (1500)
+Seat 9: LABELLE VIE (1500)
+Seat 10: Coolairone (1500)
+*** ANTE/BLINDS ***
+Damstar93420 posts small blind 10
+vidda 93 posts big blind 20
+Dealt to sabre_laser [3d Jd]
+*** PRE-FLOP *** 
+INES1317 folds
+zemalinou folds
+tfabalex folds
+Floo60 folds
+LABELLE VIE folds
+Coolairone folds
+zedbez folds
+sabre_laser folds
+Damstar93420 calls 10
+vidda 93 folds
+Damstar93420 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Seat 3: Damstar93420 (small blind) won 40
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #458785833873309697-3-1421358994 - Holdem no limit (15/30) - 2015/01/15 21:56:34 UTC
+Table: 'Double or Nothing(106819401)#0' 10-max (real money) Seat #3 is the button
+Seat 1: zedbez (1500)
+Seat 2: sabre_laser (850)
+Seat 3: Damstar93420 (1470)
+Seat 4: vidda 93 (1480)
+Seat 5: INES1317 (1500)
+Seat 6: zemalinou (2200)
+Seat 7: tfabalex (1500)
+Seat 8: Floo60 (1500)
+Seat 9: LABELLE VIE (1500)
+Seat 10: Coolairone (1500)
+*** ANTE/BLINDS ***
+vidda 93 posts small blind 15
+INES1317 posts big blind 30
+Dealt to sabre_laser [Kc 3h]
+*** PRE-FLOP *** 
+zemalinou calls 30
+tfabalex folds
+Floo60 folds
+LABELLE VIE folds
+Coolairone folds
+zedbez folds
+sabre_laser folds
+Damstar93420 folds
+vidda 93 folds
+INES1317 checks
+*** FLOP *** [Ah Ad 4d]
+INES1317 checks
+zemalinou bets 90
+INES1317 folds
+zemalinou collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Ah Ad 4d]
+Seat 6: zemalinou won 165
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #458785833873309697-4-1421359075 - Holdem no limit (15/30) - 2015/01/15 21:57:55 UTC
+Table: 'Double or Nothing(106819401)#0' 10-max (real money) Seat #4 is the button
+Seat 1: zedbez (1500)
+Seat 2: sabre_laser (850)
+Seat 3: Damstar93420 (1470)
+Seat 4: vidda 93 (1465)
+Seat 5: INES1317 (1470)
+Seat 6: zemalinou (2245)
+Seat 7: tfabalex (1500)
+Seat 8: Floo60 (1500)
+Seat 9: LABELLE VIE (1500)
+Seat 10: Coolairone (1500)
+*** ANTE/BLINDS ***
+INES1317 posts small blind 15
+zemalinou posts big blind 30
+Dealt to sabre_laser [4h 9s]
+*** PRE-FLOP *** 
+tfabalex folds
+Floo60 folds
+LABELLE VIE folds
+Coolairone folds
+zedbez folds
+sabre_laser folds
+Damstar93420 folds
+vidda 93 folds
+INES1317 calls 15
+zemalinou checks
+*** FLOP *** [As Jc 8d]
+INES1317 bets 30
+zemalinou calls 30
+*** TURN *** [As Jc 8d][4s]
+INES1317 bets 30
+zemalinou folds
+INES1317 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [As Jc 8d 4s]
+Seat 5: INES1317 (small blind) won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #458785833873309697-5-1421359167 - Holdem no limit (20/40) - 2015/01/15 21:59:27 UTC
+Table: 'Double or Nothing(106819401)#0' 10-max (real money) Seat #5 is the button
+Seat 1: zedbez (1500)
+Seat 2: sabre_laser (850)
+Seat 3: Damstar93420 (1470)
+Seat 4: vidda 93 (1465)
+Seat 5: INES1317 (1530)
+Seat 6: zemalinou (2185)
+Seat 7: tfabalex (1500)
+Seat 8: Floo60 (1500)
+Seat 9: LABELLE VIE (1500)
+Seat 10: Coolairone (1500)
+*** ANTE/BLINDS ***
+zemalinou posts small blind 20
+tfabalex posts big blind 40
+Dealt to sabre_laser [8h Ad]
+*** PRE-FLOP *** 
+Floo60 folds
+LABELLE VIE folds
+Coolairone folds
+zedbez folds
+sabre_laser folds
+Damstar93420 calls 40
+vidda 93 folds
+INES1317 folds
+zemalinou calls 20
+tfabalex raises 80 to 120
+Damstar93420 calls 80
+zemalinou calls 80
+*** FLOP *** [5h 8s Ts]
+zemalinou checks
+tfabalex checks
+Damstar93420 bets 180
+zemalinou folds
+tfabalex folds
+Damstar93420 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [5h 8s Ts]
+Seat 3: Damstar93420 won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #458785833873309697-6-1421359280 - Holdem no limit (30/60) - 2015/01/15 22:01:20 UTC
+Table: 'Double or Nothing(106819401)#0' 10-max (real money) Seat #6 is the button
+Seat 1: zedbez (1500)
+Seat 2: sabre_laser (850)
+Seat 3: Damstar93420 (1710)
+Seat 4: vidda 93 (1465)
+Seat 5: INES1317 (1530)
+Seat 6: zemalinou (2065)
+Seat 7: tfabalex (1380)
+Seat 8: Floo60 (1500)
+Seat 9: LABELLE VIE (1500)
+Seat 10: Coolairone (1500)
+*** ANTE/BLINDS ***
+tfabalex posts small blind 30
+Floo60 posts big blind 60
+Dealt to sabre_laser [9c Ac]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+Coolairone folds
+zedbez folds
+sabre_laser raises 60 to 120
+Damstar93420 folds
+vidda 93 folds
+INES1317 calls 120
+zemalinou calls 120
+tfabalex folds
+Floo60 folds
+*** FLOP *** [3d 4d 2c]
+sabre_laser bets 730 and is all-in
+INES1317 calls 730
+zemalinou folds
+*** TURN *** [3d 4d 2c][Kh]
+*** RIVER *** [3d 4d 2c Kh][6c]
+*** SHOW DOWN ***
+sabre_laser shows [9c Ac] (High card : Ace)
+INES1317 shows [Ad Js] (High card : Ace)
+INES1317 collected 1910 from pot
+*** SUMMARY ***
+Total pot 1910 | No rake
+Board: [3d 4d 2c Kh 6c]
+Seat 2: sabre_laser showed [9c Ac] and lost with High card : Ace
+Seat 5: INES1317 showed [Ad Js] and won 1910 with High card : Ace
+
+

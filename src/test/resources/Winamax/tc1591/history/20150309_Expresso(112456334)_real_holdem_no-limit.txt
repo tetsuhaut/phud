@@ -1,0 +1,120 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996276758052865-1-1425937904 - Holdem no limit (10/20) - 2015/03/09 21:51:44 UTC
+Table: 'Expresso(112456334)#0' 3-max (real money) Seat #1 is the button
+Seat 1: abass59 (500)
+Seat 2: tc1591 (500)
+Seat 3: rwin55 (500)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 10
+rwin55 posts big blind 20
+Dealt to tc1591 [7s 5d]
+*** PRE-FLOP *** 
+abass59 raises 40 to 60
+tc1591 folds
+rwin55 calls 40
+*** FLOP *** [2h 3h Qh]
+rwin55 checks
+abass59 bets 87
+rwin55 raises 152 to 239
+abass59 folds
+rwin55 collected 456 from pot
+*** SUMMARY ***
+Total pot 456 | No rake
+Board: [2h 3h Qh]
+Seat 3: rwin55 (big blind) won 456
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996276758052865-2-1425937949 - Holdem no limit (10/20) - 2015/03/09 21:52:29 UTC
+Table: 'Expresso(112456334)#0' 3-max (real money) Seat #2 is the button
+Seat 1: abass59 (353)
+Seat 2: tc1591 (490)
+Seat 3: rwin55 (657)
+*** ANTE/BLINDS ***
+rwin55 posts small blind 10
+abass59 posts big blind 20
+Dealt to tc1591 [Ac 4h]
+*** PRE-FLOP *** 
+tc1591 raises 470 to 490 and is all-in
+rwin55 folds
+abass59 folds
+tc1591 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 2: tc1591 (button) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996276758052865-3-1425937965 - Holdem no limit (10/20) - 2015/03/09 21:52:45 UTC
+Table: 'Expresso(112456334)#0' 3-max (real money) Seat #3 is the button
+Seat 1: abass59 (333)
+Seat 2: tc1591 (520)
+Seat 3: rwin55 (647)
+*** ANTE/BLINDS ***
+abass59 posts small blind 10
+tc1591 posts big blind 20
+Dealt to tc1591 [Qc 2c]
+*** PRE-FLOP *** 
+rwin55 folds
+abass59 raises 40 to 60
+tc1591 calls 40
+*** FLOP *** [2h Js Jd]
+abass59 checks
+tc1591 bets 460 and is all-in
+abass59 folds
+tc1591 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2h Js Jd]
+Seat 2: tc1591 (big blind) won 580
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996276758052865-4-1425938003 - Holdem no limit (10/20) - 2015/03/09 21:53:23 UTC
+Table: 'Expresso(112456334)#0' 3-max (real money) Seat #1 is the button
+Seat 1: abass59 (273)
+Seat 2: tc1591 (580)
+Seat 3: rwin55 (647)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 10
+rwin55 posts big blind 20
+Dealt to tc1591 [4h 9s]
+*** PRE-FLOP *** 
+abass59 folds
+tc1591 calls 10
+rwin55 raises 80 to 100
+tc1591 calls 80
+*** FLOP *** [Jh 5c 7h]
+tc1591 bets 40
+rwin55 raises 140 to 180
+tc1591 folds
+rwin55 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jh 5c 7h]
+Seat 3: rwin55 (big blind) won 420
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996276758052865-5-1425938043 - Holdem no limit (10/20) - 2015/03/09 21:54:03 UTC
+Table: 'Expresso(112456334)#0' 3-max (real money) Seat #2 is the button
+Seat 1: abass59 (273)
+Seat 2: tc1591 (440)
+Seat 3: rwin55 (787)
+*** ANTE/BLINDS ***
+rwin55 posts small blind 10
+abass59 posts big blind 20
+Dealt to tc1591 [4d Ad]
+*** PRE-FLOP *** 
+tc1591 raises 420 to 440 and is all-in
+rwin55 calls 430
+abass59 folds
+*** FLOP *** [2h Kd Kh]
+*** TURN *** [2h Kd Kh][7c]
+*** RIVER *** [2h Kd Kh 7c][Qd]
+*** SHOW DOWN ***
+tc1591 shows [4d Ad] (One pair : Kings)
+rwin55 shows [Ts Ac] (One pair : Kings)
+rwin55 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h Kd Kh 7c Qd]
+Seat 2: tc1591 (button) showed [4d Ad] and lost with One pair : Kings
+Seat 3: rwin55 (small blind) showed [Ts Ac] and won 900 with One pair : Kings
+
+

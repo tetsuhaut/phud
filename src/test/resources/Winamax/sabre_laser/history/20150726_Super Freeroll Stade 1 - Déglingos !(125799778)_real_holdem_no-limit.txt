@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #540305932354060289-1-1437943880 - Holdem no limit (10/20) - 2015/07/26 20:51:20 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(125799778)#0' 6-max (real money) Seat #2 is the button
+Seat 1: maelmelvin (500)
+Seat 2: Caretta (500)
+Seat 3: antonio226 (500)
+Seat 4: Lose_AA_max (500)
+Seat 5: zeus8121 (500)
+Seat 6: sabre_laser (500)
+*** ANTE/BLINDS ***
+antonio226 posts small blind 10
+Lose_AA_max posts big blind 20
+Dealt to sabre_laser [3h 9h]
+*** PRE-FLOP *** 
+zeus8121 folds
+sabre_laser folds
+maelmelvin folds
+Caretta raises 20 to 40
+antonio226 raises 460 to 500 and is all-in
+Lose_AA_max calls 480 and is all-in
+Caretta calls 460 and is all-in
+*** FLOP *** [Ts Qd 4d]
+*** TURN *** [Ts Qd 4d][2h]
+*** RIVER *** [Ts Qd 4d 2h][4h]
+*** SHOW DOWN ***
+antonio226 shows [As 9d] (One pair : 4)
+Lose_AA_max shows [5c 3c] (One pair : 4)
+Caretta shows [Ad Ks] (One pair : 4)
+Caretta collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Ts Qd 4d 2h 4h]
+Seat 2: Caretta (button) showed [Ad Ks] and won 1500 with One pair : 4
+Seat 3: antonio226 (small blind) showed [As 9d] and lost with One pair : 4
+Seat 4: Lose_AA_max (big blind) showed [5c 3c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #540305932354060289-2-1437943928 - Holdem no limit (10/20) - 2015/07/26 20:52:08 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(125799778)#0' 6-max (real money) Seat #3 is the button
+Seat 1: maelmelvin (500)
+Seat 2: Caretta (1500)
+Seat 5: zeus8121 (500)
+Seat 6: sabre_laser (500)
+*** ANTE/BLINDS ***
+zeus8121 posts big blind 20
+Dealt to sabre_laser [Ks Js]
+*** PRE-FLOP *** 
+sabre_laser raises 30 to 50
+maelmelvin folds
+Caretta folds
+zeus8121 calls 30
+*** FLOP *** [7d 8d Qs]
+zeus8121 bets 100
+sabre_laser folds
+zeus8121 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [7d 8d Qs]
+Seat 5: zeus8121 (big blind) won 200
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #540305932354060289-3-1437943965 - Holdem no limit (10/20) - 2015/07/26 20:52:45 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(125799778)#0' 6-max (real money) Seat #4 is the button
+Seat 1: maelmelvin (500)
+Seat 2: Caretta (1500)
+Seat 5: zeus8121 (550)
+Seat 6: sabre_laser (450)
+*** ANTE/BLINDS ***
+zeus8121 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [4h 2s]
+*** PRE-FLOP *** 
+maelmelvin raises 20 to 40
+Caretta folds
+zeus8121 folds
+sabre_laser folds
+maelmelvin collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: maelmelvin won 70
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #540305932354060289-4-1437943991 - Holdem no limit (10/20) - 2015/07/26 20:53:11 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(125799778)#0' 6-max (real money) Seat #5 is the button
+Seat 1: maelmelvin (530)
+Seat 2: Caretta (1500)
+Seat 5: zeus8121 (540)
+Seat 6: sabre_laser (430)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+maelmelvin posts big blind 20
+Dealt to sabre_laser [6c 2c]
+*** PRE-FLOP *** 
+Caretta calls 20
+zeus8121 folds
+sabre_laser calls 10
+maelmelvin checks
+*** FLOP *** [Kc Qc Th]
+sabre_laser checks
+maelmelvin bets 20
+Caretta calls 20
+sabre_laser raises 90 to 110
+maelmelvin folds
+Caretta calls 90
+*** TURN *** [Kc Qc Th][6h]
+sabre_laser bets 300 and is all-in
+Caretta calls 300
+*** RIVER *** [Kc Qc Th 6h][Jh]
+*** SHOW DOWN ***
+sabre_laser shows [6c 2c] (One pair : 6)
+Caretta shows [Ah 9c] (Straight Ace high)
+Caretta collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc Qc Th 6h Jh]
+Seat 2: Caretta showed [Ah 9c] and won 900 with Straight Ace high
+Seat 6: sabre_laser (small blind) showed [6c 2c] and lost with One pair : 6
+
+

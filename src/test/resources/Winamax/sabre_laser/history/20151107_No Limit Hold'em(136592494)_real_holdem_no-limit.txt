@@ -1,0 +1,980 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586660294609076225-1-1446905837 - Holdem no limit (10/20) - 2015/11/07 14:17:17 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #2 is the button
+Seat 1: xwinstOnvOlf (1500)
+Seat 2: jyer50 (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: el metms (1500)
+Seat 5: JeanValjan34 (1500)
+Seat 6: AR666 (1500)
+Seat 7: tosh33 (1500)
+Seat 8: 85kiki85 (1500)
+Seat 9: mafalex (1500)
+Seat 10: Didouu.. (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+el metms posts big blind 20
+Dealt to sabre_laser [Jd 2d]
+*** PRE-FLOP *** 
+JeanValjan34 folds
+AR666 folds
+tosh33 folds
+85kiki85 folds
+mafalex folds
+Didouu.. folds
+xwinstOnvOlf folds
+jyer50 folds
+sabre_laser folds
+el metms collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 4: el metms (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586660294609076225-2-1446905891 - Holdem no limit (10/20) - 2015/11/07 14:18:11 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #3 is the button
+Seat 1: xwinstOnvOlf (1500)
+Seat 2: jyer50 (1500)
+Seat 3: sabre_laser (1490)
+Seat 4: el metms (1510)
+Seat 5: JeanValjan34 (1500)
+Seat 6: AR666 (1500)
+Seat 7: tosh33 (1500)
+Seat 8: 85kiki85 (1500)
+Seat 9: mafalex (1500)
+Seat 10: Didouu.. (1500)
+*** ANTE/BLINDS ***
+el metms posts small blind 10
+JeanValjan34 posts big blind 20
+Dealt to sabre_laser [7d Ks]
+*** PRE-FLOP *** 
+AR666 folds
+tosh33 folds
+85kiki85 folds
+mafalex folds
+Didouu.. folds
+xwinstOnvOlf raises 30 to 50
+jyer50 folds
+sabre_laser calls 50
+el metms calls 40
+JeanValjan34 calls 30
+*** FLOP *** [Ad As Ts]
+el metms bets 133
+JeanValjan34 folds
+xwinstOnvOlf folds
+sabre_laser folds
+el metms collected 333 from pot
+*** SUMMARY ***
+Total pot 333 | No rake
+Board: [Ad As Ts]
+Seat 4: el metms (small blind) won 333
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586660294609076225-3-1446905973 - Holdem no limit (10/20) - 2015/11/07 14:19:33 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #4 is the button
+Seat 1: xwinstOnvOlf (1450)
+Seat 2: jyer50 (1500)
+Seat 3: sabre_laser (1440)
+Seat 4: el metms (1660)
+Seat 5: JeanValjan34 (1450)
+Seat 6: AR666 (1500)
+Seat 7: tosh33 (1500)
+Seat 8: 85kiki85 (1500)
+Seat 9: mafalex (1500)
+Seat 10: Didouu.. (1500)
+*** ANTE/BLINDS ***
+JeanValjan34 posts small blind 10
+AR666 posts big blind 20
+Dealt to sabre_laser [8s 8c]
+*** PRE-FLOP *** 
+tosh33 calls 20
+85kiki85 raises 70 to 90
+mafalex folds
+Didouu.. folds
+xwinstOnvOlf folds
+jyer50 folds
+sabre_laser calls 90
+el metms folds
+JeanValjan34 folds
+AR666 folds
+tosh33 calls 70
+*** FLOP *** [5c 4h Qs]
+tosh33 bets 150
+85kiki85 calls 150
+sabre_laser folds
+*** TURN *** [5c 4h Qs][3s]
+tosh33 bets 300
+85kiki85 folds
+tosh33 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 4h Qs 3s]
+Seat 7: tosh33 won 900
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586660294609076225-4-1446906070 - Holdem no limit (15/30) - 2015/11/07 14:21:10 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #5 is the button
+Seat 1: xwinstOnvOlf (1450)
+Seat 2: jyer50 (1500)
+Seat 3: sabre_laser (1350)
+Seat 4: el metms (1660)
+Seat 5: JeanValjan34 (1440)
+Seat 6: AR666 (1480)
+Seat 7: tosh33 (1860)
+Seat 8: 85kiki85 (1260)
+Seat 9: mafalex (1500)
+Seat 10: Didouu.. (1500)
+*** ANTE/BLINDS ***
+AR666 posts small blind 15
+tosh33 posts big blind 30
+Dealt to sabre_laser [3s Jc]
+*** PRE-FLOP *** 
+85kiki85 folds
+mafalex folds
+Didouu.. folds
+xwinstOnvOlf folds
+jyer50 folds
+sabre_laser folds
+el metms raises 30 to 60
+JeanValjan34 folds
+AR666 folds
+tosh33 calls 30
+*** FLOP *** [5d 7s Kd]
+tosh33 bets 68
+el metms calls 68
+*** TURN *** [5d 7s Kd][Js]
+tosh33 checks
+el metms bets 30
+tosh33 calls 30
+*** RIVER *** [5d 7s Kd Js][8s]
+tosh33 checks
+el metms bets 331
+tosh33 folds
+el metms collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | No rake
+Board: [5d 7s Kd Js 8s]
+Seat 4: el metms won 662
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586660294609076225-5-1446906150 - Holdem no limit (15/30) - 2015/11/07 14:22:30 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #6 is the button
+Seat 1: xwinstOnvOlf (1450)
+Seat 2: jyer50 (1500)
+Seat 3: sabre_laser (1350)
+Seat 4: el metms (1833)
+Seat 5: JeanValjan34 (1440)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (1702)
+Seat 8: 85kiki85 (1260)
+Seat 9: mafalex (1500)
+Seat 10: Didouu.. (1500)
+*** ANTE/BLINDS ***
+tosh33 posts small blind 15
+85kiki85 posts big blind 30
+Dealt to sabre_laser [2s 9h]
+*** PRE-FLOP *** 
+mafalex folds
+Didouu.. folds
+xwinstOnvOlf folds
+jyer50 raises 45 to 75
+sabre_laser folds
+el metms folds
+JeanValjan34 folds
+AR666 folds
+tosh33 folds
+85kiki85 calls 45
+*** FLOP *** [7h Qs 8c]
+85kiki85 bets 165
+jyer50 folds
+85kiki85 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [7h Qs 8c]
+Seat 8: 85kiki85 (big blind) won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586660294609076225-6-1446906220 - Holdem no limit (20/40) - 2015/11/07 14:23:40 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #7 is the button
+Seat 1: xwinstOnvOlf (1450)
+Seat 2: jyer50 (1425)
+Seat 3: sabre_laser (1350)
+Seat 4: el metms (1833)
+Seat 5: JeanValjan34 (1440)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (1687)
+Seat 8: 85kiki85 (1350)
+Seat 9: mafalex (1500)
+Seat 10: Didouu.. (1500)
+*** ANTE/BLINDS ***
+85kiki85 posts small blind 20
+mafalex posts big blind 40
+Dealt to sabre_laser [2s 2d]
+*** PRE-FLOP *** 
+Didouu.. raises 1460 to 1500 and is all-in
+xwinstOnvOlf folds
+jyer50 folds
+sabre_laser folds
+el metms calls 1500
+JeanValjan34 folds
+AR666 folds
+tosh33 folds
+85kiki85 folds
+mafalex folds
+*** FLOP *** [Ah Jd 3d]
+*** TURN *** [Ah Jd 3d][6c]
+*** RIVER *** [Ah Jd 3d 6c][9c]
+*** SHOW DOWN ***
+Didouu.. shows [7h 7d] (One pair : 7)
+el metms shows [Td Tc] (One pair : Tens)
+el metms collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Board: [Ah Jd 3d 6c 9c]
+Seat 4: el metms showed [Td Tc] and won 3060 with One pair : Tens
+Seat 10: Didouu.. showed [7h 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586660294609076225-7-1446906269 - Holdem no limit (20/40) - 2015/11/07 14:24:29 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #8 is the button
+Seat 1: xwinstOnvOlf (1450)
+Seat 2: jyer50 (1425)
+Seat 3: sabre_laser (1350)
+Seat 4: el metms (3393)
+Seat 5: JeanValjan34 (1440)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (1687)
+Seat 8: 85kiki85 (1330)
+Seat 9: mafalex (1460)
+*** ANTE/BLINDS ***
+mafalex posts small blind 20
+xwinstOnvOlf posts big blind 40
+Dealt to sabre_laser [Ac Ad]
+*** PRE-FLOP *** 
+jyer50 folds
+sabre_laser calls 40
+el metms folds
+JeanValjan34 calls 40
+AR666 folds
+tosh33 calls 40
+85kiki85 folds
+mafalex folds
+xwinstOnvOlf checks
+*** FLOP *** [7h Td 6c]
+xwinstOnvOlf checks
+sabre_laser bets 135
+JeanValjan34 folds
+tosh33 calls 135
+xwinstOnvOlf folds
+*** TURN *** [7h Td 6c][3s]
+sabre_laser checks
+tosh33 bets 225
+sabre_laser raises 338 to 563
+tosh33 folds
+sabre_laser collected 1238 from pot
+*** SUMMARY ***
+Total pot 1238 | No rake
+Board: [7h Td 6c 3s]
+Seat 3: sabre_laser won 1238
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586660294609076225-8-1446906377 - Holdem no limit (30/60) - 2015/11/07 14:26:17 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #9 is the button
+Seat 1: xwinstOnvOlf (1410)
+Seat 2: jyer50 (1425)
+Seat 3: sabre_laser (1850)
+Seat 4: el metms (3393)
+Seat 5: JeanValjan34 (1400)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (1287)
+Seat 8: 85kiki85 (1330)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+xwinstOnvOlf posts small blind 30
+jyer50 posts big blind 60
+Dealt to sabre_laser [Qs 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+el metms raises 60 to 120
+JeanValjan34 folds
+AR666 folds
+tosh33 folds
+85kiki85 folds
+mafalex folds
+xwinstOnvOlf folds
+jyer50 calls 60
+*** FLOP *** [Kd 4h 8c]
+jyer50 checks
+el metms checks
+*** TURN *** [Kd 4h 8c][Jc]
+jyer50 bets 90
+el metms calls 90
+*** RIVER *** [Kd 4h 8c Jc][9c]
+jyer50 checks
+el metms bets 60
+jyer50 folds
+el metms collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Kd 4h 8c Jc 9c]
+Seat 4: el metms won 510
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586660294609076225-9-1446906449 - Holdem no limit (30/60) - 2015/11/07 14:27:29 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #1 is the button
+Seat 1: xwinstOnvOlf (1380)
+Seat 2: jyer50 (1215)
+Seat 3: sabre_laser (1850)
+Seat 4: el metms (3633)
+Seat 5: JeanValjan34 (1400)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (1287)
+Seat 8: 85kiki85 (1330)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+jyer50 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [2h 3c]
+*** PRE-FLOP *** 
+el metms folds
+JeanValjan34 folds
+AR666 folds
+tosh33 calls 60
+85kiki85 folds
+mafalex folds
+xwinstOnvOlf folds
+jyer50 calls 30
+sabre_laser checks
+*** FLOP *** [5s Ks 2d]
+jyer50 checks
+sabre_laser bets 90
+tosh33 calls 90
+jyer50 folds
+*** TURN *** [5s Ks 2d][4s]
+sabre_laser checks
+tosh33 checks
+*** RIVER *** [5s Ks 2d 4s][9s]
+sabre_laser bets 150
+tosh33 raises 150 to 300
+sabre_laser folds
+tosh33 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [5s Ks 2d 4s 9s]
+Seat 7: tosh33 won 810
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586660294609076225-10-1446906543 - Holdem no limit (30/60) - 2015/11/07 14:29:03 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #2 is the button
+Seat 1: xwinstOnvOlf (1380)
+Seat 2: jyer50 (1155)
+Seat 3: sabre_laser (1550)
+Seat 4: el metms (3633)
+Seat 5: JeanValjan34 (1400)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (1647)
+Seat 8: 85kiki85 (1330)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+el metms posts big blind 60
+Dealt to sabre_laser [2d 3d]
+*** PRE-FLOP *** 
+JeanValjan34 folds
+AR666 folds
+tosh33 calls 60
+85kiki85 folds
+mafalex folds
+xwinstOnvOlf folds
+jyer50 raises 180 to 240
+sabre_laser folds
+el metms folds
+tosh33 folds
+jyer50 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 2: jyer50 (button) won 390
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586660294609076225-11-1446906585 - Holdem no limit (40/80) - 2015/11/07 14:29:45 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #3 is the button
+Seat 1: xwinstOnvOlf (1380)
+Seat 2: jyer50 (1305)
+Seat 3: sabre_laser (1520)
+Seat 4: el metms (3573)
+Seat 5: JeanValjan34 (1400)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (1587)
+Seat 8: 85kiki85 (1330)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+el metms posts small blind 40
+JeanValjan34 posts big blind 80
+Dealt to sabre_laser [7d 9s]
+*** PRE-FLOP *** 
+AR666 folds
+tosh33 calls 80
+85kiki85 folds
+mafalex folds
+xwinstOnvOlf raises 240 to 320
+jyer50 folds
+sabre_laser folds
+el metms folds
+JeanValjan34 folds
+tosh33 calls 240
+*** FLOP *** [3h Tc Th]
+tosh33 bets 760
+xwinstOnvOlf folds
+tosh33 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [3h Tc Th]
+Seat 7: tosh33 won 1520
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586660294609076225-12-1446906642 - Holdem no limit (40/80) - 2015/11/07 14:30:42 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #4 is the button
+Seat 1: xwinstOnvOlf (1060)
+Seat 2: jyer50 (1305)
+Seat 3: sabre_laser (1520)
+Seat 4: el metms (3533)
+Seat 5: JeanValjan34 (1320)
+Seat 6: AR666 (1465)
+Seat 7: tosh33 (2027)
+Seat 8: 85kiki85 (1330)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+JeanValjan34 posts small blind 40
+AR666 posts big blind 80
+Dealt to sabre_laser [Qc Ks]
+*** PRE-FLOP *** 
+tosh33 calls 80
+85kiki85 raises 280 to 360
+mafalex folds
+xwinstOnvOlf folds
+jyer50 folds
+sabre_laser folds
+el metms calls 360
+JeanValjan34 folds
+AR666 folds
+tosh33 folds
+*** FLOP *** [6s 3s 7d]
+85kiki85 bets 970 and is all-in
+el metms calls 970
+*** TURN *** [6s 3s 7d][2d]
+*** RIVER *** [6s 3s 7d 2d][5d]
+*** SHOW DOWN ***
+el metms shows [Ah Qs] (High card : Ace)
+85kiki85 shows [Ad As] (One pair : Aces)
+85kiki85 collected 2860 from pot
+*** SUMMARY ***
+Total pot 2860 | No rake
+Board: [6s 3s 7d 2d 5d]
+Seat 4: el metms (button) showed [Ah Qs] and lost with High card : Ace
+Seat 8: 85kiki85 showed [Ad As] and won 2860 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586660294609076225-13-1446906698 - Holdem no limit (40/80) - 2015/11/07 14:31:38 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #5 is the button
+Seat 1: xwinstOnvOlf (1060)
+Seat 2: jyer50 (1305)
+Seat 3: sabre_laser (1520)
+Seat 4: el metms (2203)
+Seat 5: JeanValjan34 (1280)
+Seat 6: AR666 (1385)
+Seat 7: tosh33 (1947)
+Seat 8: 85kiki85 (2860)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+AR666 posts small blind 40
+tosh33 posts big blind 80
+Dealt to sabre_laser [Qd 7c]
+*** PRE-FLOP *** 
+85kiki85 folds
+mafalex folds
+xwinstOnvOlf raises 120 to 200
+jyer50 folds
+sabre_laser folds
+el metms folds
+JeanValjan34 folds
+AR666 folds
+tosh33 calls 120
+*** FLOP *** [Jd 9s 9c]
+tosh33 bets 220
+xwinstOnvOlf folds
+tosh33 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Jd 9s 9c]
+Seat 7: tosh33 (big blind) won 660
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586660294609076225-14-1446906748 - Holdem no limit (60/120) - 2015/11/07 14:32:28 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #6 is the button
+Seat 1: xwinstOnvOlf (860)
+Seat 2: jyer50 (1305)
+Seat 3: sabre_laser (1520)
+Seat 4: el metms (2203)
+Seat 5: JeanValjan34 (1280)
+Seat 6: AR666 (1345)
+Seat 7: tosh33 (2187)
+Seat 8: 85kiki85 (2860)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+tosh33 posts small blind 60
+85kiki85 posts big blind 120
+Dealt to sabre_laser [2h Jc]
+*** PRE-FLOP *** 
+mafalex folds
+xwinstOnvOlf folds
+jyer50 folds
+sabre_laser folds
+el metms calls 120
+JeanValjan34 folds
+AR666 folds
+tosh33 calls 60
+85kiki85 checks
+*** FLOP *** [3h Qs 5c]
+tosh33 bets 120
+85kiki85 calls 120
+el metms raises 480 to 600
+tosh33 folds
+85kiki85 folds
+el metms collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [3h Qs 5c]
+Seat 4: el metms won 1200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586660294609076225-15-1446906848 - Holdem no limit (60/120) - 2015/11/07 14:34:08 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #7 is the button
+Seat 1: xwinstOnvOlf (860)
+Seat 2: jyer50 (1305)
+Seat 3: sabre_laser (1520)
+Seat 4: el metms (2683)
+Seat 5: JeanValjan34 (1280)
+Seat 6: AR666 (1345)
+Seat 7: tosh33 (1947)
+Seat 8: 85kiki85 (2620)
+Seat 9: mafalex (1440)
+*** ANTE/BLINDS ***
+85kiki85 posts small blind 60
+mafalex posts big blind 120
+Dealt to sabre_laser [Jd Jh]
+*** PRE-FLOP *** 
+xwinstOnvOlf raises 740 to 860 and is all-in
+jyer50 folds
+sabre_laser raises 660 to 1520 and is all-in
+el metms folds
+JeanValjan34 folds
+AR666 calls 1345 and is all-in
+tosh33 folds
+85kiki85 folds
+mafalex folds
+*** FLOP *** [2c 3d 4h]
+*** TURN *** [2c 3d 4h][7c]
+*** RIVER *** [2c 3d 4h 7c][9s]
+*** SHOW DOWN ***
+xwinstOnvOlf shows [5c 5h] (One pair : 5)
+AR666 shows [Qc Ad] (High card : Ace)
+sabre_laser shows [Jd Jh] (One pair : Jacks)
+sabre_laser collected 3905 from pot
+*** SUMMARY ***
+Total pot 3905 | No rake
+Board: [2c 3d 4h 7c 9s]
+Seat 1: xwinstOnvOlf showed [5c 5h] and lost with One pair : 5
+Seat 3: sabre_laser showed [Jd Jh] and won 3905 with One pair : Jacks
+Seat 6: AR666 showed [Qc Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586660294609076225-16-1446906884 - Holdem no limit (60/120) - 2015/11/07 14:34:44 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #8 is the button
+Seat 2: jyer50 (1305)
+Seat 3: sabre_laser (3905)
+Seat 4: el metms (2683)
+Seat 5: JeanValjan34 (1280)
+Seat 7: tosh33 (1947)
+Seat 8: 85kiki85 (2560)
+Seat 9: mafalex (1320)
+*** ANTE/BLINDS ***
+mafalex posts small blind 60
+jyer50 posts big blind 120
+Dealt to sabre_laser [5d As]
+*** PRE-FLOP *** 
+sabre_laser folds
+el metms folds
+JeanValjan34 folds
+tosh33 calls 120
+85kiki85 folds
+mafalex folds
+jyer50 raises 1185 to 1305 and is all-in
+tosh33 calls 1185
+*** FLOP *** [Jc 4d Kd]
+*** TURN *** [Jc 4d Kd][9c]
+*** RIVER *** [Jc 4d Kd 9c][Tc]
+*** SHOW DOWN ***
+tosh33 shows [Js Qc] (Straight King high)
+jyer50 shows [Ad Qd] (Straight Ace high)
+jyer50 collected 2670 from pot
+*** SUMMARY ***
+Total pot 2670 | No rake
+Board: [Jc 4d Kd 9c Tc]
+Seat 2: jyer50 (big blind) showed [Ad Qd] and won 2670 with Straight Ace high
+Seat 7: tosh33 showed [Js Qc] and lost with Straight King high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586660294609076225-17-1446906917 - Holdem no limit (80/160) - 2015/11/07 14:35:17 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #9 is the button
+Seat 2: jyer50 (2670)
+Seat 3: sabre_laser (3905)
+Seat 4: el metms (2683)
+Seat 5: JeanValjan34 (1280)
+Seat 7: tosh33 (642)
+Seat 8: 85kiki85 (2560)
+Seat 9: mafalex (1260)
+*** ANTE/BLINDS ***
+jyer50 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Jh 7s]
+*** PRE-FLOP *** 
+el metms folds
+JeanValjan34 folds
+tosh33 raises 482 to 642 and is all-in
+85kiki85 folds
+mafalex folds
+jyer50 calls 562
+sabre_laser folds
+*** FLOP *** [5s 6h 2c]
+*** TURN *** [5s 6h 2c][Jc]
+*** RIVER *** [5s 6h 2c Jc][4c]
+*** SHOW DOWN ***
+tosh33 shows [8c 9s] (High card : Jack)
+jyer50 shows [6s 5c] (Two pairs : 6 and 5)
+jyer50 collected 1444 from pot
+*** SUMMARY ***
+Total pot 1444 | No rake
+Board: [5s 6h 2c Jc 4c]
+Seat 2: jyer50 (small blind) showed [6s 5c] and won 1444 with Two pairs : 6 and 5
+Seat 7: tosh33 showed [8c 9s] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586660294609076225-18-1446906949 - Holdem no limit (80/160) - 2015/11/07 14:35:49 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #2 is the button
+Seat 2: jyer50 (3472)
+Seat 3: sabre_laser (3745)
+Seat 4: el metms (2683)
+Seat 5: JeanValjan34 (1280)
+Seat 8: 85kiki85 (2560)
+Seat 9: mafalex (1260)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+el metms posts big blind 160
+Dealt to sabre_laser [7s 4c]
+*** PRE-FLOP *** 
+JeanValjan34 folds
+85kiki85 folds
+mafalex folds
+jyer50 raises 160 to 320
+sabre_laser folds
+el metms folds
+jyer50 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 2: jyer50 (button) won 560
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586660294609076225-19-1446906971 - Holdem no limit (80/160) - 2015/11/07 14:36:11 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #3 is the button
+Seat 2: jyer50 (3712)
+Seat 3: sabre_laser (3665)
+Seat 4: el metms (2523)
+Seat 5: JeanValjan34 (1280)
+Seat 8: 85kiki85 (2560)
+Seat 9: mafalex (1260)
+*** ANTE/BLINDS ***
+el metms posts small blind 80
+JeanValjan34 posts big blind 160
+Dealt to sabre_laser [7c 9c]
+*** PRE-FLOP *** 
+85kiki85 folds
+mafalex folds
+jyer50 raises 160 to 320
+sabre_laser folds
+el metms folds
+JeanValjan34 raises 960 to 1280 and is all-in
+jyer50 folds
+JeanValjan34 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Seat 5: JeanValjan34 (big blind) won 1680
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586660294609076225-20-1446907005 - Holdem no limit (80/160) - 2015/11/07 14:36:45 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #4 is the button
+Seat 2: jyer50 (3392)
+Seat 3: sabre_laser (3665)
+Seat 4: el metms (2443)
+Seat 5: JeanValjan34 (1680)
+Seat 8: 85kiki85 (2560)
+Seat 9: mafalex (1260)
+*** ANTE/BLINDS ***
+JeanValjan34 posts small blind 80
+85kiki85 posts big blind 160
+Dealt to sabre_laser [5h Ac]
+*** PRE-FLOP *** 
+mafalex folds
+jyer50 folds
+sabre_laser folds
+el metms folds
+JeanValjan34 raises 160 to 320
+85kiki85 calls 160
+*** FLOP *** [7c 8c Kh]
+JeanValjan34 bets 1360 and is all-in
+85kiki85 calls 1360
+*** TURN *** [7c 8c Kh][5d]
+*** RIVER *** [7c 8c Kh 5d][2h]
+*** SHOW DOWN ***
+85kiki85 shows [7s Ah] (One pair : 7)
+JeanValjan34 shows [Td Tc] (One pair : Tens)
+JeanValjan34 collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Board: [7c 8c Kh 5d 2h]
+Seat 5: JeanValjan34 (small blind) showed [Td Tc] and won 3360 with One pair : Tens
+Seat 8: 85kiki85 (big blind) showed [7s Ah] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586660294609076225-21-1446907044 - Holdem no limit (80/160) - 2015/11/07 14:37:24 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #5 is the button
+Seat 2: jyer50 (3392)
+Seat 3: sabre_laser (3665)
+Seat 4: el metms (2443)
+Seat 5: JeanValjan34 (3360)
+Seat 8: 85kiki85 (880)
+Seat 9: mafalex (1260)
+*** ANTE/BLINDS ***
+85kiki85 posts small blind 80
+mafalex posts big blind 160
+Dealt to sabre_laser [2h Kd]
+*** PRE-FLOP *** 
+jyer50 folds
+sabre_laser folds
+el metms folds
+JeanValjan34 folds
+85kiki85 folds
+mafalex collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: mafalex (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586660294609076225-22-1446907059 - Holdem no limit (80/160) - 2015/11/07 14:37:39 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #8 is the button
+Seat 2: jyer50 (3392)
+Seat 3: sabre_laser (3665)
+Seat 4: el metms (2443)
+Seat 5: JeanValjan34 (3360)
+Seat 8: 85kiki85 (800)
+Seat 9: mafalex (1340)
+*** ANTE/BLINDS ***
+mafalex posts small blind 80
+jyer50 posts big blind 160
+Dealt to sabre_laser [Jd Th]
+*** PRE-FLOP *** 
+sabre_laser raises 160 to 320
+el metms calls 320
+JeanValjan34 folds
+85kiki85 folds
+mafalex folds
+jyer50 folds
+*** FLOP *** [Jh 8d 5d]
+sabre_laser bets 880
+el metms calls 880
+*** TURN *** [Jh 8d 5d][Ah]
+sabre_laser checks
+el metms bets 1243 and is all-in
+sabre_laser calls 1243
+*** RIVER *** [Jh 8d 5d Ah][7s]
+*** SHOW DOWN ***
+sabre_laser shows [Jd Th] (One pair : Jacks)
+el metms shows [Ad 6d] (One pair : Aces)
+el metms collected 5126 from pot
+*** SUMMARY ***
+Total pot 5126 | No rake
+Board: [Jh 8d 5d Ah 7s]
+Seat 3: sabre_laser showed [Jd Th] and lost with One pair : Jacks
+Seat 4: el metms showed [Ad 6d] and won 5126 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586660294609076225-23-1446907126 - Holdem no limit (10/100/200) - 2015/11/07 14:38:46 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #9 is the button
+Seat 2: jyer50 (3232)
+Seat 3: sabre_laser (1222)
+Seat 4: el metms (5126)
+Seat 5: JeanValjan34 (3360)
+Seat 8: 85kiki85 (800)
+Seat 9: mafalex (1260)
+*** ANTE/BLINDS ***
+jyer50 posts ante 10
+sabre_laser posts ante 10
+el metms posts ante 10
+JeanValjan34 posts ante 10
+85kiki85 posts ante 10
+mafalex posts ante 10
+jyer50 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Ks 2d]
+*** PRE-FLOP *** 
+el metms raises 200 to 400
+JeanValjan34 folds
+85kiki85 folds
+mafalex folds
+jyer50 folds
+sabre_laser folds
+el metms collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 4: el metms won 760
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586660294609076225-24-1446907151 - Holdem no limit (10/100/200) - 2015/11/07 14:39:11 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #2 is the button
+Seat 2: jyer50 (3122)
+Seat 3: sabre_laser (1012)
+Seat 4: el metms (5476)
+Seat 5: JeanValjan34 (3350)
+Seat 8: 85kiki85 (790)
+Seat 9: mafalex (1250)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+el metms posts ante 10
+jyer50 posts ante 10
+JeanValjan34 posts ante 10
+85kiki85 posts ante 10
+mafalex posts ante 10
+sabre_laser posts small blind 100
+el metms posts big blind 200
+Dealt to sabre_laser [6d 4c]
+*** PRE-FLOP *** 
+JeanValjan34 folds
+85kiki85 folds
+mafalex folds
+jyer50 folds
+sabre_laser calls 100
+el metms raises 5266 to 5466 and is all-in
+sabre_laser folds
+el metms collected 5726 from pot
+*** SUMMARY ***
+Total pot 5726 | No rake
+Seat 4: el metms (big blind) won 5726
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586660294609076225-25-1446907178 - Holdem no limit (10/100/200) - 2015/11/07 14:39:38 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #3 is the button
+Seat 2: jyer50 (3112)
+Seat 3: sabre_laser (802)
+Seat 4: el metms (5726)
+Seat 5: JeanValjan34 (3340)
+Seat 8: 85kiki85 (780)
+Seat 9: mafalex (1240)
+*** ANTE/BLINDS ***
+el metms posts ante 10
+JeanValjan34 posts ante 10
+jyer50 posts ante 10
+sabre_laser posts ante 10
+85kiki85 posts ante 10
+mafalex posts ante 10
+el metms posts small blind 100
+JeanValjan34 posts big blind 200
+Dealt to sabre_laser [As 4s]
+*** PRE-FLOP *** 
+85kiki85 raises 570 to 770 and is all-in
+mafalex folds
+jyer50 folds
+sabre_laser folds
+el metms folds
+JeanValjan34 calls 570
+*** FLOP *** [6h 8h 3s]
+*** TURN *** [6h 8h 3s][Kc]
+*** RIVER *** [6h 8h 3s Kc][8d]
+*** SHOW DOWN ***
+85kiki85 shows [Ah 4h] (One pair : 8)
+JeanValjan34 shows [Kd Jd] (Two pairs : Kings and 8)
+JeanValjan34 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [6h 8h 3s Kc 8d]
+Seat 5: JeanValjan34 (big blind) showed [Kd Jd] and won 1700 with Two pairs : Kings and 8
+Seat 8: 85kiki85 showed [Ah 4h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586660294609076225-26-1446907213 - Holdem no limit (10/100/200) - 2015/11/07 14:40:13 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #4 is the button
+Seat 2: jyer50 (3102)
+Seat 3: sabre_laser (792)
+Seat 4: el metms (5616)
+Seat 5: JeanValjan34 (4260)
+Seat 9: mafalex (1230)
+*** ANTE/BLINDS ***
+JeanValjan34 posts ante 10
+mafalex posts ante 10
+jyer50 posts ante 10
+sabre_laser posts ante 10
+el metms posts ante 10
+JeanValjan34 posts small blind 100
+mafalex posts big blind 200
+Dealt to sabre_laser [5c 6s]
+*** PRE-FLOP *** 
+jyer50 folds
+sabre_laser folds
+el metms raises 200 to 400
+JeanValjan34 folds
+mafalex calls 200
+*** FLOP *** [3c As 9d]
+mafalex bets 820 and is all-in
+el metms calls 820
+*** TURN *** [3c As 9d][9c]
+*** RIVER *** [3c As 9d 9c][8d]
+*** SHOW DOWN ***
+mafalex shows [Ts Ac] (Two pairs : Aces and 9)
+el metms shows [Ad Qd] (Two pairs : Aces and 9)
+el metms collected 2590 from pot
+*** SUMMARY ***
+Total pot 2590 | No rake
+Board: [3c As 9d 9c 8d]
+Seat 4: el metms (button) showed [Ad Qd] and won 2590 with Two pairs : Aces and 9
+Seat 9: mafalex (big blind) showed [Ts Ac] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586660294609076225-27-1446907242 - Holdem no limit (10/100/200) - 2015/11/07 14:40:42 UTC
+Table: 'No Limit Hold'em(136592494)#0' 10-max (real money) Seat #5 is the button
+Seat 2: jyer50 (3092)
+Seat 3: sabre_laser (782)
+Seat 4: el metms (6976)
+Seat 5: JeanValjan34 (4150)
+*** ANTE/BLINDS ***
+jyer50 posts ante 10
+sabre_laser posts ante 10
+el metms posts ante 10
+JeanValjan34 posts ante 10
+jyer50 posts big blind 200
+Dealt to sabre_laser [Tc 9s]
+*** PRE-FLOP *** 
+sabre_laser raises 572 to 772 and is all-in
+el metms raises 572 to 1344
+JeanValjan34 folds
+jyer50 folds
+*** FLOP *** [3h 6d 7h]
+*** TURN *** [3h 6d 7h][3s]
+*** RIVER *** [3h 6d 7h 3s][As]
+*** SHOW DOWN ***
+sabre_laser shows [Tc 9s] (One pair : 3)
+el metms shows [Ah Qs] (Two pairs : Aces and 3)
+el metms collected 2356 from pot
+*** SUMMARY ***
+Total pot 2356 | No rake
+Board: [3h 6d 7h 3s As]
+Seat 3: sabre_laser showed [Tc 9s] and lost with One pair : 3
+Seat 4: el metms showed [Ah Qs] and won 2356 with Two pairs : Aces and 3
+
+

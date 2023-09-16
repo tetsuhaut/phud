@@ -1,0 +1,35 @@
+<config>
+  <inbox version="1">
+    <viewed id="207" ts="1459181436"/>
+    <viewed id="282" ts="1459181436"/>
+    <viewed id="324" ts="1454353617"/>
+    <viewed id="340" ts="1459181437"/>
+    <viewed id="311" ts="1459181435"/>
+  </inbox>
+  <windows version="1">
+    <window type="table" x="930" y="5" width="458" height="386"/>
+    <window type="table" x="0" y="585" width="747" height="585"/>
+    <window type="table" x="6" y="4" width="661" height="522"/>
+    <window type="table" x="6" y="633" width="676" height="533"/>
+    <window type="table" x="5" y="8" width="668" height="527"/>
+    <window type="notes" x="182" y="208" width="406" height="648"/>
+  </windows>
+  <notes version="1">
+    <displayState>0</displayState>
+  </notes>
+  <expresso version="1">
+    <buyin value="1"/>
+    <tables value="1"/>
+  </expresso>
+  <quickseat version="2">eyJGIjpbXSwiViI6IjE0NTk0NDcxMjEtMTUyOCIsIkwiOlt7IlRQTCI6InFzL3NuZyIsIkQiOnsiViI6ImhvbGRlbSIsIk1YUFQiOiIxMCIsIkwiOiJhbnRlLXNiLWJiLW5vLWxpbWl0IiwiUkIiOiIwIiwiQiI6IjAuNDUiLCJCUEYiOiIwLjUiLCJDIjpbWyJQTElEIiwiPSIsIlNOR181NyJdLFsiQlBGIiwiPSIsIjAuNSJdLFsiTSIsIj0iLCJyZWFsIl0sWyJBVFRSIiwiPSIsIjEiXV0sIk4iOiJObyBMaW1pdCBIb2xkJ2VtIiwiVEtTIjpbIjEwNjIiXSwiR1MiOiJub3JtYWwiLCJGIjoiMC4wNSIsIlIiOiIwIiwiQVRUUiI6IjEiLCJNWCI6IjEwIiwiVCI6InJlYWwiLCJRSUQiOiJTTkdfNTcifX0seyJUUEwiOiJxcy9kb24iLCJEIjp7IlYiOiJob2xkZW0iLCJNWFBUIjoiMTAiLCJMIjoiYW50ZS1zYi1iYi1uby1saW1pdCIsIlJCIjoiMCIsIkIiOiIwLjQ2IiwiQlBGIjoiMC41IiwiQyI6W1siUExJRCIsIj0iLCJTTkdfMjA1Il0sWyJCUEYiLCI9IiwiMC41Il0sWyJNIiwiPSIsInJlYWwiXSxbIkFUVFIiLCI9IiwiOCJdXSwiTiI6IkRvdWJsZSBvciBOb3RoaW5nIiwiVEtTIjpbIjEwNjIiXSwiR1MiOiJ0dXJibyIsIkYiOiIwLjA0IiwiUiI6IjAiLCJBVFRSIjoiOCIsIk1YIjoiMTAiLCJUIjoicmVhbCIsIlFJRCI6IlNOR18yMDUifX0seyJUUEwiOiJxcy9kb24iLCJEIjp7IlYiOiJob2xkZW0iLCJNWFBUIjoiMTAiLCJMIjoiYW50ZS1zYi1iYi1uby1saW1pdCIsIlJCIjoiMCIsIkIiOiIwLjQ2IiwiQlBGIjoiMC41IiwiQyI6W1siUExJRCIsIj0iLCJTTkdfMTI0Il0sWyJCUEYiLCI9IiwiMC41Il0sWyJNIiwiPSIsInJlYWwiXSxbIkFUVFIiLCI9IiwiOCJdXSwiTiI6IkRvdWJsZSBvciBOb3RoaW5nIiwiVEtTIjpbIjEwNjIiXSwiR1MiOiJzZW1pdHVyYm8iLCJGIjoiMC4wNCIsIlIiOiIwIiwiQVRUUiI6IjgiLCJNWCI6IjEwIiwiVCI6InJlYWwiLCJRSUQiOiJTTkdfMTI0In19LHsiVFBMIjoicXMvc25nIiwiRCI6eyJWIjoiaG9sZGVtIiwiTVhQVCI6IjEwIiwiTCI6ImFudGUtc2ItYmItbm8tbGltaXQiLCJSQiI6IjAiLCJCIjoiMCIsIkJQRiI6IjAiLCJDIjpbWyJQTElEIiwiPSIsIlNOR182MTAiXSxbIkJQRiIsIj0iLCIwIl0sWyJNIiwiPSIsInJlYWwiXSxbIkFUVFIiLCI9IiwiMSJdXSwiTiI6IlNpdCZHbyBGcmVlcm9sbCIsIlRLUyI6WyIxOTM3Il0sIkdTIjoidHVyYm8iLCJGIjoiMCIsIlIiOiIxIiwiQVRUUiI6IjEiLCJNWCI6IjEwIiwiVCI6InJlYWwiLCJRSUQiOiJTTkdfNjEwIn19LHsiVFBMIjoicXMvc25nIiwiRCI6eyJWIjoiaG9sZGVtIiwiTVhQVCI6IjEwIiwiTCI6ImFudGUtc2ItYmItbm8tbGltaXQiLCJSQiI6IjAiLCJCIjoiMC40NSIsIkJQRiI6IjAuNSIsIkMiOltbIlBMSUQiLCI9IiwiU05HXzMyMyJdLFsiQlBGIiwiPSIsIjAuNSJdLFsiTSIsIj0iLCJyZWFsIl0sWyJBVFRSIiwiPSIsIjEiXV0sIk4iOiJObyBMaW1pdCBIb2xkJ2VtIiwiVEtTIjpbIjEwNjIiXSwiR1MiOiJ0dXJibyIsIkYiOiIwLjA1IiwiUiI6IjAiLCJBVFRSIjoiMSIsIk1YIjoiMTAiLCJUIjoicmVhbCIsIlFJRCI6IlNOR18zMjMifX1dLCJSIjpbeyJUUEwiOiJxcy9leHByZXNzbyIsIkQiOnsiViI6ImhvbGRlbSIsIk1YUFQiOiIzIiwiTCI6ImFudGUtc2ItYmItbm8tbGltaXQiLCJSQiI6IjAiLCJCIjoiMC45MyIsIkJQRiI6IjEiLCJDIjpbWyJQTElEIiwiPSIsIlNOR184MTEiXSxbIkJQRiIsIj0iLCIxIl0sWyJNIiwiPSIsInJlYWwiXSxbIkFUVFIiLCI9IiwiNTI0Mjg4Il1dLCJOIjoiRXhwcmVzc28iLCJUS1MiOlsiMjY0NiIsIjE4OCJdLCJHUyI6ImRlZ2xpbmdvIiwiRiI6IjAuMDciLCJSIjoiMCIsIkFUVFIiOiI1MjQyODgiLCJNWCI6IjMiLCJUIjoicmVhbCIsIlFJRCI6IlNOR184MTEifX0seyJUUEwiOiJxcy9jZyIsIkQiOnsiViI6ImhvbGRlbSIsIk1YUFQiOiI5IiwiTCI6InNiLWJiLW5vLWxpbWl0IiwiR1MiOiJub3JtYWwiLCJDIjpbWyJQTElEIiwiPSIsIkNHXzM5NCJdLFsiQkIiLCI9IiwiMC4wMiJdLFsiVCIsIj0iLCJyZWFsIl1dLCJOIjoiQmVnaW5uZXIgLSBGcmFua2Z1cnQiLCJCQiI6IjAuMDIiLCJTQiI6IjAuMDEiLCJBTiI6IjAiLCJBVFRSIjoiNCIsIlQiOiJyZWFsIiwiUUlEIjoiQ0dfMzk0In19LHsiVFBMIjoicXMvZ29mYXN0IiwiRCI6eyJWIjoiaG9sZGVtIiwiTVhQVCI6IjYiLCJMIjoic2ItYmItbm8tbGltaXQiLCJHUyI6Im5vcm1hbCIsIkMiOltbIlBMSUQiLCI9IiwiR0ZfNDA4Il0sWyJCQiIsIj0iLCIwLjAyIl0sWyJUIiwiPSIsInJlYWwiXV0sIk4iOiJDb2xvcmFkbyIsIkJCIjoiMC4wMiIsIlNCIjoiMC4wMSIsIkFOIjoiMCIsIkFUVFIiOiIyNTYiLCJUIjoicmVhbCIsIlFJRCI6IkdGXzQwOCJ9fSx7IlRQTCI6InFzL3Nob3J0dHJhY2siLCJEIjp7IlYiOiJob2xkZW0iLCJNWFBUIjoiNSIsIkwiOiJzYi1iYi1uby1saW1pdCIsIkdTIjoibm9ybWFsIiwiQyI6W1siUExJRCIsIj0iLCJDR180NDkiXSxbIkJCIiwiPSIsIjAuMDIiXSxbIlQiLCI9IiwicmVhbCJdXSwiTiI6IlNIT1JUIFRSQUNLIDAsMTDigqwiLCJCQiI6IjAuMDIiLCJTQiI6IjAuMDEiLCJBTiI6IjAiLCJBVFRSIjoiMTI4IiwiVCI6InJlYWwiLCJRSUQiOiJDR180NDkifX0seyJUUEwiOiJxcy9raWxsZXIiLCJEIjp7IlYiOiJob2xkZW0iLCJNWFBUIjoiNiIsIkwiOiJhbnRlLXNiLWJiLW5vLWxpbWl0IiwiUkIiOiIwIiwiQiI6IjAuNDUiLCJCUEYiOiIwLjUiLCJDIjpbWyJQTElEIiwiPSIsIlNOR18xNDIwIl0sWyJCUEYiLCI9IiwiMC41Il0sWyJNIiwiPSIsInJlYWwiXSxbIkFUVFIiLCI9IiwiMzIiXV0sIk4iOiJTaXQmR28gS2lsbGVyIiwiVEtTIjpbIjEwNjIiXSwiR1MiOiJ0dXJibyIsIkYiOiIwLjA1IiwiUiI6IjAiLCJBVFRSIjoiMzIiLCJNWCI6IjYiLCJUIjoicmVhbCIsIlFJRCI6IlNOR18xNDIwIn19XX0=</quickseat>
+  <lastViewType version="1">tournament</lastViewType>
+  <goFastLastSelectedItem version="1">
+    <uid>Colorado</uid>
+  </goFastLastSelectedItem>
+  <filters version="4">
+    <filter lobby="sng" attribute="regular,madtilt,qualifier,knockout,shootout,doubleornothing,revolution,wpt,multitable" _attribute="regular,madtilt,qualifier,knockout,shootout,doubleornothing,revolution,wpt,multitable,clubs,private,public" buyin="0,50,100,200,300,500,1000,1200,2000,3000,5000,10000_" _buyin="0,50,100,200,300,500,1000,1200,2000,3000,5000,10000_" seat="hu,sh,fr" _seat="hu,sh,fr" variant="he_nl,he_li,oh" _variant="he_nl,he_li,oh" speed="normal,semiturbo,turbo" _speed="normal,semiturbo,turbo" hiderunning="true"/>
+    <filter lobby="tt" attribute="regular,wseries,king5,deepstack,rebuy,reentry,qualifier,hitrun,satellite,madtilt,knockout,shootout,flight,mixmax,tripleornothing,max180,fishnship,revolution,anteup,special" _attribute="regular,wseries,king5,deepstack,rebuy,reentry,qualifier,hitrun,satellite,madtilt,knockout,shootout,flight,mixmax,tripleornothing,max180,fishnship,revolution,anteup,special,clubs,community,private" buyin="0,25/50,100,200,300,500,1000,2000,3000,5000,10000,15000_" _buyin="0,25/50,100,200,300,500,1000,2000,3000,5000,10000,15000_" seat="hu,sh,fr" _seat="hu,sh,fr" variant="he_nl,he_li,oh,mx" _variant="he_nl,he_li,oh,mx" speed="normal,semiturbo,turbo" _speed="normal,semiturbo,turbo" hiderunning="true" sort="start"/>
+    <filter lobby="gofast" hiderunning="true"/>
+    <filter lobby="cg" attribute="withoutante,withante,beginners,shorttrack,incognito,gofast,powers,regular,fightclub" _attribute="regular,beginners,shorttrack,incognito,gofast,fightclub,powers" blind="2,5,10,20,30,50,100,200,400,600,1000,2000,5000" _blind="2,5,10,20,30,50,100,200,400,600,1000,2000,5000" seat="hu,3h,5h,fr" _seat="hu,3h,5h,fr" variant="he_nl,he_li,oh,oh5,oh8" _variant="he_nl,he_li,oh,oh5,oh8" hideempty="false" hidefull="false"/>
+  </filters>
+</config>

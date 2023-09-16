@@ -1,0 +1,1874 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 4 - HandId: #531302705944068099-14-1437228189 - Holdem no limit (40/80) - 2015/07/18 14:03:09 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #3 is the button
+Seat 1: titipayet974 (2620)
+Seat 2: carola21 (3160)
+Seat 3: sabre_laser (3000)
+Seat 4: adrienplc (3990)
+Seat 5: martine65100 (3120)
+Seat 6: Luzigeri (2770)
+*** ANTE/BLINDS ***
+adrienplc posts small blind 40
+martine65100 posts big blind 80
+*** PRE-FLOP *** 
+Luzigeri calls 80
+titipayet974 folds
+carola21 raises 80 to 160
+adrienplc calls 120
+martine65100 calls 80
+Luzigeri calls 80
+*** FLOP *** [7s 7d Ks]
+adrienplc checks
+martine65100 checks
+Luzigeri checks
+carola21 checks
+*** TURN *** [7s 7d Ks][4d]
+adrienplc bets 640
+martine65100 folds
+Luzigeri folds
+carola21 folds
+adrienplc collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [7s 7d Ks 4d]
+Seat 4: adrienplc (small blind) won 1280
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 4 - HandId: #531302705944068099-15-1437228272 - Holdem no limit (40/80) - 2015/07/18 14:04:32 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #4 is the button
+Seat 1: titipayet974 (2620)
+Seat 2: carola21 (3000)
+Seat 3: sabre_laser (3000)
+Seat 4: adrienplc (4470)
+Seat 5: martine65100 (2960)
+Seat 6: Luzigeri (2610)
+*** ANTE/BLINDS ***
+martine65100 posts small blind 40
+Luzigeri posts big blind 80
+Dealt to sabre_laser [9d 8d]
+*** PRE-FLOP *** 
+titipayet974 folds
+carola21 calls 80
+sabre_laser folds
+adrienplc calls 80
+martine65100 calls 40
+Luzigeri checks
+*** FLOP *** [7h 2h 5h]
+martine65100 bets 80
+Luzigeri folds
+carola21 folds
+adrienplc calls 80
+*** TURN *** [7h 2h 5h][4h]
+martine65100 bets 480
+adrienplc folds
+martine65100 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [7h 2h 5h 4h]
+Seat 5: martine65100 (small blind) won 960
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 5 - HandId: #531302705944068099-16-1437228340 - Holdem no limit (60/120) - 2015/07/18 14:05:40 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #5 is the button
+Seat 1: titipayet974 (2620)
+Seat 2: carola21 (2920)
+Seat 3: sabre_laser (3000)
+Seat 4: adrienplc (4310)
+Seat 5: martine65100 (3280)
+Seat 6: Luzigeri (2530)
+*** ANTE/BLINDS ***
+Luzigeri posts small blind 60
+titipayet974 posts big blind 120
+Dealt to sabre_laser [4c Qd]
+*** PRE-FLOP *** 
+carola21 calls 120
+sabre_laser folds
+adrienplc folds
+martine65100 folds
+Luzigeri calls 60
+titipayet974 folds
+*** FLOP *** [Ks 3c 6d]
+Luzigeri checks
+carola21 checks
+*** TURN *** [Ks 3c 6d][Th]
+Luzigeri checks
+carola21 checks
+*** RIVER *** [Ks 3c 6d Th][2c]
+Luzigeri checks
+carola21 checks
+*** SHOW DOWN ***
+Luzigeri shows [Jd 8d] (High card : King)
+carola21 shows [2d 4d] (One pair : 2)
+carola21 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ks 3c 6d Th 2c]
+Seat 2: carola21 showed [2d 4d] and won 360 with One pair : 2
+Seat 6: Luzigeri (small blind) showed [Jd 8d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 5 - HandId: #531302705944068099-17-1437228411 - Holdem no limit (60/120) - 2015/07/18 14:06:51 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #6 is the button
+Seat 1: titipayet974 (2500)
+Seat 2: carola21 (3160)
+Seat 3: sabre_laser (3000)
+Seat 4: adrienplc (4310)
+Seat 5: martine65100 (3280)
+Seat 6: Luzigeri (2410)
+*** ANTE/BLINDS ***
+titipayet974 posts small blind 60
+carola21 posts big blind 120
+Dealt to sabre_laser [4h Ad]
+*** PRE-FLOP *** 
+sabre_laser raises 120 to 240
+adrienplc folds
+martine65100 folds
+Luzigeri folds
+titipayet974 folds
+carola21 calls 120
+*** FLOP *** [As Jh Td]
+carola21 checks
+sabre_laser checks
+*** TURN *** [As Jh Td][9s]
+carola21 bets 120
+sabre_laser calls 120
+*** RIVER *** [As Jh Td 9s][Kh]
+carola21 bets 120
+sabre_laser calls 120
+*** SHOW DOWN ***
+sabre_laser shows [4h Ad] (One pair : Aces)
+carola21 shows [9d Jc] (Two pairs : Jacks and 9)
+carola21 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [As Jh Td 9s Kh]
+Seat 2: carola21 (big blind) showed [9d Jc] and won 1020 with Two pairs : Jacks and 9
+Seat 3: sabre_laser showed [4h Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 6 - HandId: #531302705944068099-18-1437228507 - Holdem no limit (10/60/120) - 2015/07/18 14:08:27 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #1 is the button
+Seat 1: titipayet974 (2440)
+Seat 2: carola21 (3700)
+Seat 3: sabre_laser (2520)
+Seat 4: adrienplc (4310)
+Seat 5: martine65100 (3280)
+Seat 6: Luzigeri (2410)
+*** ANTE/BLINDS ***
+carola21 posts ante 10
+sabre_laser posts ante 10
+titipayet974 posts ante 10
+adrienplc posts ante 10
+martine65100 posts ante 10
+Luzigeri posts ante 10
+carola21 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [6s 4d]
+*** PRE-FLOP *** 
+adrienplc raises 360 to 480
+martine65100 folds
+Luzigeri folds
+titipayet974 folds
+carola21 calls 420
+sabre_laser folds
+*** FLOP *** [7h 2d 8d]
+carola21 checks
+adrienplc bets 1140
+carola21 folds
+adrienplc collected 2280 from pot
+*** SUMMARY ***
+Total pot 2280 | No rake
+Board: [7h 2d 8d]
+Seat 4: adrienplc won 2280
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 6 - HandId: #531302705944068099-19-1437228565 - Holdem no limit (10/60/120) - 2015/07/18 14:09:25 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #2 is the button
+Seat 1: titipayet974 (2430)
+Seat 2: carola21 (3210)
+Seat 3: sabre_laser (2390)
+Seat 4: adrienplc (4960)
+Seat 5: martine65100 (3270)
+Seat 6: Luzigeri (2400)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+adrienplc posts ante 10
+titipayet974 posts ante 10
+carola21 posts ante 10
+martine65100 posts ante 10
+Luzigeri posts ante 10
+sabre_laser posts small blind 60
+adrienplc posts big blind 120
+Dealt to sabre_laser [2s 3c]
+*** PRE-FLOP *** 
+martine65100 calls 120
+Luzigeri calls 120
+titipayet974 folds
+carola21 calls 120
+sabre_laser folds
+adrienplc checks
+*** FLOP *** [7d 5h 8s]
+adrienplc checks
+martine65100 bets 120
+Luzigeri calls 120
+carola21 calls 120
+adrienplc folds
+*** TURN *** [7d 5h 8s][9h]
+martine65100 bets 120
+Luzigeri calls 120
+carola21 raises 120 to 240
+martine65100 folds
+Luzigeri calls 120
+*** RIVER *** [7d 5h 8s 9h][6d]
+Luzigeri bets 120
+carola21 raises 840 to 960
+Luzigeri folds
+carola21 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [7d 5h 8s 9h 6d]
+Seat 2: carola21 (button) won 2640
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 7 - HandId: #531302705944068099-20-1437228690 - Holdem no limit (15/75/150) - 2015/07/18 14:11:30 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #3 is the button
+Seat 1: titipayet974 (2420)
+Seat 3: sabre_laser (2320)
+Seat 4: adrienplc (4830)
+Seat 5: martine65100 (2900)
+Seat 6: Luzigeri (1790)
+*** ANTE/BLINDS ***
+adrienplc posts ante 15
+martine65100 posts ante 15
+titipayet974 posts ante 15
+sabre_laser posts ante 15
+Luzigeri posts ante 15
+adrienplc posts small blind 75
+martine65100 posts big blind 150
+Dealt to sabre_laser [6h Th]
+*** PRE-FLOP *** 
+Luzigeri raises 1625 to 1775 and is all-in
+titipayet974 folds
+sabre_laser folds
+adrienplc folds
+martine65100 calls 1625
+*** FLOP *** [8d 2h 5h]
+*** TURN *** [8d 2h 5h][5c]
+*** RIVER *** [8d 2h 5h 5c][Jc]
+*** SHOW DOWN ***
+martine65100 shows [Ks Qc] (One pair : 5)
+Luzigeri shows [Ac 7h] (One pair : 5)
+Luzigeri collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [8d 2h 5h 5c Jc]
+Seat 5: martine65100 (big blind) showed [Ks Qc] and lost with One pair : 5
+Seat 6: Luzigeri showed [Ac 7h] and won 3700 with One pair : 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 7 - HandId: #531302705944068099-21-1437228733 - Holdem no limit (15/75/150) - 2015/07/18 14:12:13 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #4 is the button
+Seat 1: titipayet974 (2405)
+Seat 2: silverman002 (3523)
+Seat 3: sabre_laser (2305)
+Seat 4: adrienplc (4740)
+Seat 5: martine65100 (1110)
+Seat 6: Luzigeri (3700)
+*** ANTE/BLINDS ***
+martine65100 posts ante 15
+Luzigeri posts ante 15
+titipayet974 posts ante 15
+silverman002 posts ante 15
+sabre_laser posts ante 15
+adrienplc posts ante 15
+martine65100 posts small blind 75
+Luzigeri posts big blind 150
+Dealt to sabre_laser [5c Qd]
+*** PRE-FLOP *** 
+titipayet974 calls 150
+silverman002 folds
+sabre_laser folds
+adrienplc calls 150
+martine65100 raises 150 to 300
+Luzigeri folds
+titipayet974 raises 2090 to 2390 and is all-in
+adrienplc folds
+martine65100 calls 795 and is all-in
+*** FLOP *** [2h Kh 4d]
+*** TURN *** [2h Kh 4d][Ac]
+*** RIVER *** [2h Kh 4d Ac][4s]
+*** SHOW DOWN ***
+titipayet974 shows [6s 6d] (Two pairs : 6 and 4)
+martine65100 shows [7d Ah] (Two pairs : Aces and 4)
+martine65100 collected 2580 from main pot
+titipayet974 collected 1295 from side pot 1
+*** SUMMARY ***
+Total pot 3875 | No rake
+Board: [2h Kh 4d Ac 4s]
+Seat 1: titipayet974 showed [6s 6d] and won 1295 with Two pairs : 6 and 4
+Seat 5: martine65100 (small blind) showed [7d Ah] and won 2580 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 7 - HandId: #531302705944068099-22-1437228786 - Holdem no limit (15/75/150) - 2015/07/18 14:13:06 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #5 is the button
+Seat 1: titipayet974 (1295)
+Seat 2: silverman002 (3508)
+Seat 3: sabre_laser (2290)
+Seat 4: adrienplc (4575)
+Seat 5: martine65100 (2580)
+Seat 6: Luzigeri (3535)
+*** ANTE/BLINDS ***
+Luzigeri posts ante 15
+titipayet974 posts ante 15
+silverman002 posts ante 15
+sabre_laser posts ante 15
+adrienplc posts ante 15
+martine65100 posts ante 15
+Luzigeri posts small blind 75
+titipayet974 posts big blind 150
+Dealt to sabre_laser [Kc Tc]
+*** PRE-FLOP *** 
+silverman002 folds
+sabre_laser raises 150 to 300
+adrienplc folds
+martine65100 calls 300
+Luzigeri folds
+titipayet974 calls 150
+*** FLOP *** [As 3s 6h]
+titipayet974 checks
+sabre_laser bets 300
+martine65100 calls 300
+titipayet974 folds
+*** TURN *** [As 3s 6h][2c]
+sabre_laser checks
+martine65100 bets 150
+sabre_laser folds
+martine65100 collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | No rake
+Board: [As 3s 6h 2c]
+Seat 5: martine65100 (button) won 1815
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 8 - HandId: #531302705944068099-23-1437228874 - Holdem no limit (20/100/200) - 2015/07/18 14:14:34 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #6 is the button
+Seat 1: titipayet974 (980)
+Seat 2: silverman002 (3493)
+Seat 3: sabre_laser (1675)
+Seat 4: adrienplc (4560)
+Seat 5: martine65100 (3630)
+Seat 6: Luzigeri (3445)
+*** ANTE/BLINDS ***
+titipayet974 posts ante 20
+silverman002 posts ante 20
+sabre_laser posts ante 20
+adrienplc posts ante 20
+martine65100 posts ante 20
+Luzigeri posts ante 20
+titipayet974 posts small blind 100
+silverman002 posts big blind 200
+Dealt to sabre_laser [Jc 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+adrienplc raises 400 to 600
+martine65100 folds
+Luzigeri raises 400 to 1000
+titipayet974 folds
+silverman002 folds
+adrienplc raises 3540 to 4540 and is all-in
+Luzigeri calls 2425 and is all-in
+*** FLOP *** [5h 4s 4c]
+*** TURN *** [5h 4s 4c][Qh]
+*** RIVER *** [5h 4s 4c Qh][Qs]
+*** SHOW DOWN ***
+Luzigeri shows [Th 9d] (Two pairs : Queens and 4)
+adrienplc shows [Js Jd] (Two pairs : Queens and Jacks)
+adrienplc collected 8385 from pot
+*** SUMMARY ***
+Total pot 8385 | No rake
+Board: [5h 4s 4c Qh Qs]
+Seat 4: adrienplc showed [Js Jd] and won 8385 with Two pairs : Queens and Jacks
+Seat 6: Luzigeri (button) showed [Th 9d] and lost with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 8 - HandId: #531302705944068099-24-1437228920 - Holdem no limit (20/100/200) - 2015/07/18 14:15:20 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #1 is the button
+Seat 1: titipayet974 (860)
+Seat 2: silverman002 (3273)
+Seat 3: sabre_laser (1655)
+Seat 4: adrienplc (8385)
+Seat 5: martine65100 (3610)
+*** ANTE/BLINDS ***
+silverman002 posts ante 20
+sabre_laser posts ante 20
+titipayet974 posts ante 20
+adrienplc posts ante 20
+martine65100 posts ante 20
+silverman002 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Tc 6d]
+*** PRE-FLOP *** 
+adrienplc calls 200
+martine65100 calls 200
+titipayet974 raises 640 to 840 and is all-in
+silverman002 folds
+sabre_laser folds
+adrienplc folds
+martine65100 calls 640
+*** FLOP *** [2c Ah 3h]
+*** TURN *** [2c Ah 3h][5h]
+*** RIVER *** [2c Ah 3h 5h][5s]
+*** SHOW DOWN ***
+titipayet974 shows [Ts 4s] (Straight 5 high)
+martine65100 shows [6h Jh] (Flush Ace high)
+martine65100 collected 2280 from pot
+*** SUMMARY ***
+Total pot 2280 | No rake
+Board: [2c Ah 3h 5h 5s]
+Seat 1: titipayet974 (button) showed [Ts 4s] and lost with Straight 5 high
+Seat 5: martine65100 showed [6h Jh] and won 2280 with Flush Ace high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 8 - HandId: #531302705944068099-25-1437228974 - Holdem no limit (20/100/200) - 2015/07/18 14:16:14 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #2 is the button
+Seat 2: silverman002 (3153)
+Seat 3: sabre_laser (1435)
+Seat 4: adrienplc (8165)
+Seat 5: martine65100 (5030)
+Seat 6: frenchy77 (8645)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+adrienplc posts ante 20
+silverman002 posts ante 20
+martine65100 posts ante 20
+frenchy77 posts ante 20
+sabre_laser posts small blind 100
+adrienplc posts big blind 200
+Dealt to sabre_laser [4d Ah]
+*** PRE-FLOP *** 
+martine65100 calls 200
+frenchy77 raises 8425 to 8625 and is all-in
+silverman002 folds
+sabre_laser folds
+adrienplc folds
+martine65100 folds
+frenchy77 collected 9225 from pot
+*** SUMMARY ***
+Total pot 9225 | No rake
+Seat 6: frenchy77 won 9225
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 8 - HandId: #531302705944068099-26-1437229009 - Holdem no limit (20/100/200) - 2015/07/18 14:16:49 UTC
+Table: 'Hold'em(123703551)#02' 6-max (play money) Seat #3 is the button
+Seat 1: 7-Ten-Za (1875)
+Seat 2: silverman002 (3133)
+Seat 3: sabre_laser (1315)
+Seat 4: adrienplc (7945)
+Seat 5: martine65100 (4810)
+Seat 6: frenchy77 (9225)
+*** ANTE/BLINDS ***
+adrienplc posts ante 20
+martine65100 posts ante 20
+7-Ten-Za posts ante 20
+silverman002 posts ante 20
+sabre_laser posts ante 20
+frenchy77 posts ante 20
+adrienplc posts small blind 100
+martine65100 posts big blind 200
+Dealt to sabre_laser [8d 7h]
+*** PRE-FLOP *** 
+frenchy77 folds
+7-Ten-Za calls 200
+silverman002 folds
+sabre_laser folds
+adrienplc calls 100
+martine65100 raises 200 to 400
+7-Ten-Za raises 200 to 600
+adrienplc folds
+martine65100 calls 200
+*** FLOP *** [7c 3d 4s]
+martine65100 bets 200
+7-Ten-Za calls 200
+*** TURN *** [7c 3d 4s][2d]
+martine65100 bets 200
+7-Ten-Za calls 200
+*** RIVER *** [7c 3d 4s 2d][9d]
+martine65100 bets 200
+7-Ten-Za calls 200
+*** SHOW DOWN ***
+7-Ten-Za shows [Jc Ah] (High card : Ace)
+martine65100 shows [6s 6c] (One pair : 6)
+martine65100 collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [7c 3d 4s 2d 9d]
+Seat 1: 7-Ten-Za showed [Jc Ah] and lost with High card : Ace
+Seat 5: martine65100 (big blind) showed [6s 6c] and won 2720 with One pair : 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #531302705944068111-8-1437229094 - Holdem no limit (25/125/250) - 2015/07/18 14:18:14 UTC
+Table: 'Hold'em(123703551)#14' 6-max (play money) Seat #6 is the button
+Seat 1: -_-_-_-_- (37464)
+Seat 2: sabre_laser (1295)
+Seat 3: antoine5959 (11755)
+Seat 4: trinita34 (29532)
+Seat 5: Joe95971 (1210)
+Seat 6: La vieille93 (17673)
+*** ANTE/BLINDS ***
+-_-_-_-_- posts ante 25
+sabre_laser posts ante 25
+antoine5959 posts ante 25
+trinita34 posts ante 25
+Joe95971 posts ante 25
+La vieille93 posts ante 25
+-_-_-_-_- posts small blind 125
+sabre_laser posts big blind 250
+Dealt to sabre_laser [7c Qc]
+*** PRE-FLOP *** 
+antoine5959 folds
+trinita34 folds
+Joe95971 folds
+La vieille93 calls 250
+-_-_-_-_- raises 37189 to 37439 and is all-in
+sabre_laser calls 1020 and is all-in
+La vieille93 folds
+*** FLOP *** [2h 9h 5s]
+*** TURN *** [2h 9h 5s][8c]
+*** RIVER *** [2h 9h 5s 8c][6h]
+*** SHOW DOWN ***
+-_-_-_-_- shows [As Ac] (One pair : Aces)
+sabre_laser shows [7c Qc] (Straight 9 high)
+sabre_laser collected 2940 from main pot
+-_-_-_-_- collected 36169 from side pot 1
+*** SUMMARY ***
+Total pot 39109 | No rake
+Board: [2h 9h 5s 8c 6h]
+Seat 1: -_-_-_-_- (small blind) showed [As Ac] and won 36169 with One pair : Aces
+Seat 2: sabre_laser (big blind) showed [7c Qc] and won 2940 with Straight 9 high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #531302705944068111-9-1437229116 - Holdem no limit (25/125/250) - 2015/07/18 14:18:36 UTC
+Table: 'Hold'em(123703551)#14' 6-max (play money) Seat #1 is the button
+Seat 1: -_-_-_-_- (36169)
+Seat 2: sabre_laser (2940)
+Seat 3: antoine5959 (11730)
+Seat 4: trinita34 (29507)
+Seat 5: Joe95971 (1185)
+Seat 6: La vieille93 (17398)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+antoine5959 posts ante 25
+-_-_-_-_- posts ante 25
+trinita34 posts ante 25
+Joe95971 posts ante 25
+La vieille93 posts ante 25
+sabre_laser posts small blind 125
+antoine5959 posts big blind 250
+Dealt to sabre_laser [8d 3d]
+*** PRE-FLOP *** 
+trinita34 folds
+Joe95971 folds
+La vieille93 folds
+-_-_-_-_- raises 35894 to 36144 and is all-in
+sabre_laser folds
+antoine5959 folds
+-_-_-_-_- collected 36669 from pot
+*** SUMMARY ***
+Total pot 36669 | No rake
+Seat 1: -_-_-_-_- (button) won 36669
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #531302705944068111-10-1437229135 - Holdem no limit (25/125/250) - 2015/07/18 14:18:55 UTC
+Table: 'Hold'em(123703551)#14' 6-max (play money) Seat #2 is the button
+Seat 1: -_-_-_-_- (36669)
+Seat 2: sabre_laser (2790)
+Seat 3: antoine5959 (11455)
+Seat 4: trinita34 (29482)
+Seat 5: Joe95971 (1160)
+Seat 6: La vieille93 (17373)
+*** ANTE/BLINDS ***
+antoine5959 posts ante 25
+trinita34 posts ante 25
+-_-_-_-_- posts ante 25
+sabre_laser posts ante 25
+Joe95971 posts ante 25
+La vieille93 posts ante 25
+antoine5959 posts small blind 125
+trinita34 posts big blind 250
+Dealt to sabre_laser [Ac Ad]
+*** PRE-FLOP *** 
+Joe95971 folds
+La vieille93 folds
+-_-_-_-_- raises 36394 to 36644 and is all-in
+sabre_laser calls 2765 and is all-in
+antoine5959 folds
+trinita34 calls 29207 and is all-in
+*** FLOP *** [6c Kd Ks]
+*** TURN *** [6c Kd Ks][7d]
+*** RIVER *** [6c Kd Ks 7d][Jc]
+*** SHOW DOWN ***
+-_-_-_-_- shows [4c 8h] (One pair : Kings)
+sabre_laser shows [Ac Ad] (Two pairs : Aces and Kings)
+trinita34 shows [2d Qd] (One pair : Kings)
+trinita34 collected 53384 from side pot 1
+sabre_laser collected 8570 from main pot
+-_-_-_-_- collected 7187 from side pot 2
+*** SUMMARY ***
+Total pot 69141 | No rake
+Board: [6c Kd Ks 7d Jc]
+Seat 1: -_-_-_-_- showed [4c 8h] and won 7187 with One pair : Kings
+Seat 2: sabre_laser (button) showed [Ac Ad] and won 8570 with Two pairs : Aces and Kings
+Seat 4: trinita34 (big blind) showed [2d Qd] and won 53384 with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #531302705944068111-11-1437229154 - Holdem no limit (25/125/250) - 2015/07/18 14:19:14 UTC
+Table: 'Hold'em(123703551)#14' 6-max (play money) Seat #3 is the button
+Seat 1: -_-_-_-_- (7187)
+Seat 2: sabre_laser (8570)
+Seat 3: antoine5959 (11305)
+Seat 4: trinita34 (53384)
+Seat 5: Joe95971 (1135)
+Seat 6: La vieille93 (17348)
+*** ANTE/BLINDS ***
+trinita34 posts ante 25
+Joe95971 posts ante 25
+-_-_-_-_- posts ante 25
+sabre_laser posts ante 25
+antoine5959 posts ante 25
+La vieille93 posts ante 25
+trinita34 posts small blind 125
+Joe95971 posts big blind 250
+Dealt to sabre_laser [2d Ts]
+*** PRE-FLOP *** 
+La vieille93 calls 250
+-_-_-_-_- raises 6912 to 7162 and is all-in
+sabre_laser folds
+antoine5959 calls 7162
+trinita34 folds
+Joe95971 folds
+La vieille93 folds
+*** FLOP *** [6c 9h Td]
+*** TURN *** [6c 9h Td][Qd]
+*** RIVER *** [6c 9h Td Qd][6d]
+*** SHOW DOWN ***
+antoine5959 shows [4d Ac] (One pair : 6)
+-_-_-_-_- shows [4s 4c] (Two pairs : 6 and 4)
+-_-_-_-_- collected 15099 from pot
+*** SUMMARY ***
+Total pot 15099 | No rake
+Board: [6c 9h Td Qd 6d]
+Seat 1: -_-_-_-_- showed [4s 4c] and won 15099 with Two pairs : 6 and 4
+Seat 3: antoine5959 (button) showed [4d Ac] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #531302705944068111-12-1437229177 - Holdem no limit (25/125/250) - 2015/07/18 14:19:37 UTC
+Table: 'Hold'em(123703551)#14' 6-max (play money) Seat #4 is the button
+Seat 1: -_-_-_-_- (15099)
+Seat 2: sabre_laser (8545)
+Seat 3: antoine5959 (4118)
+Seat 4: trinita34 (53234)
+Seat 5: Joe95971 (860)
+Seat 6: La vieille93 (17073)
+*** ANTE/BLINDS ***
+Joe95971 posts ante 25
+La vieille93 posts ante 25
+-_-_-_-_- posts ante 25
+sabre_laser posts ante 25
+antoine5959 posts ante 25
+trinita34 posts ante 25
+Joe95971 posts small blind 125
+La vieille93 posts big blind 250
+Dealt to sabre_laser [Ad 4s]
+*** PRE-FLOP *** 
+-_-_-_-_- raises 14824 to 15074 and is all-in
+sabre_laser folds
+antoine5959 folds
+trinita34 calls 15074
+Joe95971 folds
+La vieille93 folds
+*** FLOP *** [3d 2h Js]
+*** TURN *** [3d 2h Js][2c]
+*** RIVER *** [3d 2h Js 2c][4c]
+*** SHOW DOWN ***
+-_-_-_-_- shows [5h 7d] (One pair : 2)
+trinita34 shows [Ac Jd] (Two pairs : Jacks and 2)
+trinita34 collected 30673 from pot
+*** SUMMARY ***
+Total pot 30673 | No rake
+Board: [3d 2h Js 2c 4c]
+Seat 1: -_-_-_-_- showed [5h 7d] and lost with One pair : 2
+Seat 4: trinita34 (button) showed [Ac Jd] and won 30673 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #531302705944068111-13-1437229196 - Holdem no limit (25/125/250) - 2015/07/18 14:19:56 UTC
+Table: 'Hold'em(123703551)#14' 6-max (play money) Seat #5 is the button
+Seat 2: sabre_laser (8520)
+Seat 3: antoine5959 (4093)
+Seat 4: trinita34 (68808)
+Seat 5: Joe95971 (710)
+Seat 6: La vieille93 (16798)
+*** ANTE/BLINDS ***
+La vieille93 posts ante 25
+sabre_laser posts ante 25
+antoine5959 posts ante 25
+trinita34 posts ante 25
+Joe95971 posts ante 25
+La vieille93 posts small blind 125
+sabre_laser posts big blind 250
+Dealt to sabre_laser [Qs Ts]
+*** PRE-FLOP *** 
+antoine5959 folds
+trinita34 calls 250
+Joe95971 folds
+La vieille93 calls 125
+sabre_laser checks
+*** FLOP *** [6c Ad 9s]
+La vieille93 checks
+sabre_laser checks
+trinita34 bets 68533 and is all-in
+La vieille93 folds
+sabre_laser folds
+trinita34 collected 69408 from pot
+*** SUMMARY ***
+Total pot 69408 | No rake
+Board: [6c Ad 9s]
+Seat 4: trinita34 won 69408
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 10 - HandId: #531302705944068111-14-1437229224 - Holdem no limit (35/150/300) - 2015/07/18 14:20:24 UTC
+Table: 'Hold'em(123703551)#14' 6-max (play money) Seat #6 is the button
+Seat 2: sabre_laser (8245)
+Seat 3: antoine5959 (4068)
+Seat 4: trinita34 (69408)
+Seat 5: Joe95971 (685)
+Seat 6: La vieille93 (16523)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 35
+antoine5959 posts ante 35
+trinita34 posts ante 35
+Joe95971 posts ante 35
+La vieille93 posts ante 35
+sabre_laser posts small blind 150
+antoine5959 posts big blind 300
+Dealt to sabre_laser [Th 8c]
+*** PRE-FLOP *** 
+trinita34 calls 300
+Joe95971 folds
+La vieille93 calls 300
+sabre_laser calls 150
+antoine5959 raises 3733 to 4033 and is all-in
+trinita34 folds
+La vieille93 calls 3733
+sabre_laser folds
+*** FLOP *** [7c Jh Js]
+*** TURN *** [7c Jh Js][5s]
+*** RIVER *** [7c Jh Js 5s][6s]
+*** SHOW DOWN ***
+antoine5959 shows [Kc Qd] (One pair : Jacks)
+La vieille93 shows [5d 5c] (Full of 5 and Jacks)
+La vieille93 collected 8841 from pot
+*** SUMMARY ***
+Total pot 8841 | No rake
+Board: [7c Jh Js 5s 6s]
+Seat 3: antoine5959 (big blind) showed [Kc Qd] and lost with One pair : Jacks
+Seat 6: La vieille93 (button) showed [5d 5c] and won 8841 with Full of 5 and Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 10 - HandId: #531302705944068104-35-1437229265 - Holdem no limit (35/150/300) - 2015/07/18 14:21:05 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #4 is the button
+Seat 1: mike7891 (8012)
+Seat 2: sabre_laser (7910)
+Seat 3: Laz59 (591)
+Seat 4: Laox (16451)
+Seat 5: Lotahiti (10605)
+Seat 6: PISTOU01 (1091)
+*** ANTE/BLINDS ***
+Lotahiti posts ante 35
+PISTOU01 posts ante 35
+mike7891 posts ante 35
+sabre_laser posts ante 35
+Laz59 posts ante 35
+Laox posts ante 35
+Lotahiti posts small blind 150
+PISTOU01 posts big blind 300
+Dealt to sabre_laser [Qd Th]
+*** PRE-FLOP *** 
+mike7891 folds
+sabre_laser folds
+Laz59 folds
+Laox raises 600 to 900
+Lotahiti folds
+PISTOU01 raises 156 to 1056 and is all-in
+Laox calls 156
+*** FLOP *** [5d 9s 6s]
+*** TURN *** [5d 9s 6s][Kc]
+*** RIVER *** [5d 9s 6s Kc][2d]
+*** SHOW DOWN ***
+PISTOU01 shows [9d 9c] (Trips of 9)
+Laox shows [7d 8s] (Straight 9 high)
+Laox collected 2472 from pot
+*** SUMMARY ***
+Total pot 2472 | No rake
+Board: [5d 9s 6s Kc 2d]
+Seat 4: Laox (button) showed [7d 8s] and won 2472 with Straight 9 high
+Seat 6: PISTOU01 (big blind) showed [9d 9c] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 10 - HandId: #531302705944068104-36-1437229301 - Holdem no limit (35/150/300) - 2015/07/18 14:21:41 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #5 is the button
+Seat 1: mike7891 (7977)
+Seat 2: sabre_laser (7875)
+Seat 3: Laz59 (556)
+Seat 4: Laox (17832)
+Seat 5: Lotahiti (10420)
+*** ANTE/BLINDS ***
+mike7891 posts ante 35
+sabre_laser posts ante 35
+Laz59 posts ante 35
+Laox posts ante 35
+Lotahiti posts ante 35
+mike7891 posts big blind 300
+Dealt to sabre_laser [3h Qd]
+*** PRE-FLOP *** 
+sabre_laser folds
+Laz59 folds
+Laox raises 600 to 900
+Lotahiti calls 900
+mike7891 raises 600 to 1500
+Laox calls 600
+Lotahiti calls 600
+*** FLOP *** [5h 3s 8h]
+mike7891 checks
+Laox checks
+Lotahiti checks
+*** TURN *** [5h 3s 8h][5c]
+mike7891 checks
+Laox bets 720
+Lotahiti folds
+mike7891 calls 720
+*** RIVER *** [5h 3s 8h 5c][5s]
+mike7891 checks
+Laox bets 3058
+mike7891 calls 3058
+*** SHOW DOWN ***
+Laox shows [2h Jd] (Trips of 5)
+mike7891 shows [Th Ts] (Full of 5 and Tens)
+mike7891 collected 12231 from pot
+*** SUMMARY ***
+Total pot 12231 | No rake
+Board: [5h 3s 8h 5c 5s]
+Seat 1: mike7891 (big blind) showed [Th Ts] and won 12231 with Full of 5 and Tens
+Seat 4: Laox showed [2h Jd] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 10 - HandId: #531302705944068104-37-1437229378 - Holdem no limit (35/150/300) - 2015/07/18 14:22:58 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #6 is the button
+Seat 1: mike7891 (14895)
+Seat 2: sabre_laser (7840)
+Seat 3: Laz59 (521)
+Seat 4: Laox (12519)
+Seat 5: Lotahiti (8885)
+*** ANTE/BLINDS ***
+mike7891 posts ante 35
+sabre_laser posts ante 35
+Laz59 posts ante 35
+Laox posts ante 35
+Lotahiti posts ante 35
+mike7891 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [8c 5h]
+*** PRE-FLOP *** 
+Laz59 folds
+Laox folds
+Lotahiti folds
+mike7891 calls 150
+sabre_laser checks
+*** FLOP *** [Jd Jc Ah]
+mike7891 bets 300
+sabre_laser folds
+mike7891 collected 1075 from pot
+*** SUMMARY ***
+Total pot 1075 | No rake
+Board: [Jd Jc Ah]
+Seat 1: mike7891 (small blind) won 1075
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #531302705944068104-38-1437229423 - Holdem no limit (40/200/400) - 2015/07/18 14:23:43 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #1 is the button
+Seat 1: mike7891 (15335)
+Seat 2: sabre_laser (7505)
+Seat 3: Laz59 (486)
+Seat 4: Laox (12484)
+Seat 5: Lotahiti (8850)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+Laz59 posts ante 40
+mike7891 posts ante 40
+Laox posts ante 40
+Lotahiti posts ante 40
+sabre_laser posts small blind 200
+Laz59 posts big blind 400
+Dealt to sabre_laser [As Ac]
+*** PRE-FLOP *** 
+Laox raises 1200 to 1600
+Lotahiti folds
+mike7891 folds
+sabre_laser raises 3200 to 4800
+Laz59 folds
+Laox calls 3200
+*** FLOP *** [4h 4c 5c]
+sabre_laser bets 2665 and is all-in
+Laox raises 2665 to 5330
+*** TURN *** [4h 4c 5c][8s]
+*** RIVER *** [4h 4c 5c 8s][9d]
+*** SHOW DOWN ***
+sabre_laser shows [As Ac] (Two pairs : Aces and 4)
+Laox shows [8d Ad] (Two pairs : 8 and 4)
+Laox collected 2665 from side pot 1
+sabre_laser collected 15530 from main pot
+*** SUMMARY ***
+Total pot 18195 | No rake
+Board: [4h 4c 5c 8s 9d]
+Seat 2: sabre_laser (small blind) showed [As Ac] and won 15530 with Two pairs : Aces and 4
+Seat 4: Laox showed [8d Ad] and won 2665 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #531302705944068104-39-1437229472 - Holdem no limit (40/200/400) - 2015/07/18 14:24:32 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #2 is the button
+Seat 1: mike7891 (15295)
+Seat 2: sabre_laser (15530)
+Seat 3: Laz59 (46)
+Seat 4: Laox (4979)
+Seat 5: Lotahiti (8810)
+*** ANTE/BLINDS ***
+Laz59 posts ante 40
+Laox posts ante 40
+mike7891 posts ante 40
+sabre_laser posts ante 40
+Lotahiti posts ante 40
+Laz59 posts small blind 6 and is all-in
+Laox posts big blind 400
+Dealt to sabre_laser [Jh 6h]
+*** PRE-FLOP *** 
+Lotahiti folds
+mike7891 folds
+sabre_laser folds
+*** FLOP *** [Js Td Jd]
+*** TURN *** [Js Td Jd][9d]
+*** RIVER *** [Js Td Jd 9d][3d]
+*** SHOW DOWN ***
+Laz59 shows [8c Ah] (One pair : Jacks)
+Laox shows [4c 5d] (Flush Jack high)
+Laox collected 606 from pot
+*** SUMMARY ***
+Total pot 606 | No rake
+Board: [Js Td Jd 9d 3d]
+Seat 3: Laz59 (small blind) showed [8c Ah] and lost with One pair : Jacks
+Seat 4: Laox (big blind) showed [4c 5d] and won 606 with Flush Jack high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #531302705944068104-40-1437229505 - Holdem no limit (40/200/400) - 2015/07/18 14:25:05 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #3 is the button
+Seat 1: mike7891 (15255)
+Seat 2: sabre_laser (15490)
+Seat 4: Laox (5145)
+Seat 5: Lotahiti (8770)
+*** ANTE/BLINDS ***
+Laox posts ante 40
+Lotahiti posts ante 40
+mike7891 posts ante 40
+sabre_laser posts ante 40
+Laox posts small blind 200
+Lotahiti posts big blind 400
+Dealt to sabre_laser [9s Ks]
+*** PRE-FLOP *** 
+mike7891 calls 400
+sabre_laser folds
+Laox calls 200
+Lotahiti folds
+*** FLOP *** [Jc Ad Kd]
+Laox checks
+mike7891 checks
+*** TURN *** [Jc Ad Kd][Ts]
+Laox checks
+mike7891 checks
+*** RIVER *** [Jc Ad Kd Ts][6h]
+Laox checks
+mike7891 checks
+*** SHOW DOWN ***
+Laox shows [3d 2s] (High card : Ace)
+mike7891 shows [Kh 4s] (One pair : Kings)
+mike7891 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [Jc Ad Kd Ts 6h]
+Seat 1: mike7891 showed [Kh 4s] and won 1360 with One pair : Kings
+Seat 4: Laox (small blind) showed [3d 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 12 - HandId: #531302705944068104-41-1437229595 - Holdem no limit (50/250/500) - 2015/07/18 14:26:35 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #4 is the button
+Seat 1: mike7891 (16175)
+Seat 2: sabre_laser (15450)
+Seat 3: 7-Ten-Za (4300)
+Seat 4: Laox (4705)
+Seat 5: Lotahiti (8330)
+*** ANTE/BLINDS ***
+Lotahiti posts ante 50
+mike7891 posts ante 50
+sabre_laser posts ante 50
+7-Ten-Za posts ante 50
+Laox posts ante 50
+Lotahiti posts small blind 250
+mike7891 posts big blind 500
+Dealt to sabre_laser [4s 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+7-Ten-Za folds
+Laox folds
+Lotahiti folds
+mike7891 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 1: mike7891 (big blind) won 1000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 12 - HandId: #531302705944068104-42-1437229610 - Holdem no limit (50/250/500) - 2015/07/18 14:26:50 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #5 is the button
+Seat 1: mike7891 (16625)
+Seat 2: sabre_laser (15400)
+Seat 3: 7-Ten-Za (4250)
+Seat 4: Laox (4655)
+Seat 5: Lotahiti (8030)
+*** ANTE/BLINDS ***
+mike7891 posts ante 50
+sabre_laser posts ante 50
+7-Ten-Za posts ante 50
+Laox posts ante 50
+Lotahiti posts ante 50
+mike7891 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [4c 2h]
+*** PRE-FLOP *** 
+7-Ten-Za folds
+Laox raises 1000 to 1500
+Lotahiti folds
+mike7891 calls 1250
+sabre_laser folds
+*** FLOP *** [Jd Js 4d]
+mike7891 checks
+Laox checks
+*** TURN *** [Jd Js 4d][Tc]
+mike7891 checks
+Laox checks
+*** RIVER *** [Jd Js 4d Tc][Qd]
+mike7891 checks
+Laox checks
+*** SHOW DOWN ***
+Laox shows [3h Kh] (One pair : Jacks)
+mike7891 shows [7s Ac] (One pair : Jacks)
+mike7891 collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | No rake
+Board: [Jd Js 4d Tc Qd]
+Seat 1: mike7891 (small blind) showed [7s Ac] and won 3750 with One pair : Jacks
+Seat 4: Laox showed [3h Kh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 12 - HandId: #531302705944068104-43-1437229687 - Holdem no limit (50/250/500) - 2015/07/18 14:28:07 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #1 is the button
+Seat 1: mike7891 (18825)
+Seat 2: sabre_laser (14850)
+Seat 3: 7-Ten-Za (4200)
+Seat 4: Laox (3105)
+Seat 5: Lotahiti (7980)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+7-Ten-Za posts ante 50
+mike7891 posts ante 50
+Laox posts ante 50
+Lotahiti posts ante 50
+sabre_laser posts small blind 250
+7-Ten-Za posts big blind 500
+Dealt to sabre_laser [7d Kd]
+*** PRE-FLOP *** 
+Laox folds
+Lotahiti calls 500
+mike7891 calls 500
+sabre_laser calls 250
+7-Ten-Za checks
+*** FLOP *** [5c Jd 6c]
+sabre_laser checks
+7-Ten-Za bets 500
+Lotahiti calls 500
+mike7891 calls 500
+sabre_laser folds
+*** TURN *** [5c Jd 6c][Ks]
+7-Ten-Za checks
+Lotahiti bets 3750
+mike7891 folds
+7-Ten-Za folds
+Lotahiti collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [5c Jd 6c Ks]
+Seat 5: Lotahiti won 7500
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #531302705944068104-44-1437229765 - Holdem no limit (70/300/600) - 2015/07/18 14:29:25 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #2 is the button
+Seat 1: mike7891 (17775)
+Seat 2: sabre_laser (14300)
+Seat 3: 7-Ten-Za (3150)
+Seat 4: Laox (3055)
+Seat 5: Lotahiti (10680)
+*** ANTE/BLINDS ***
+7-Ten-Za posts ante 70
+Laox posts ante 70
+mike7891 posts ante 70
+sabre_laser posts ante 70
+Lotahiti posts ante 70
+7-Ten-Za posts small blind 300
+Laox posts big blind 600
+Dealt to sabre_laser [2d Js]
+*** PRE-FLOP *** 
+Lotahiti calls 600
+mike7891 folds
+sabre_laser folds
+7-Ten-Za calls 300
+Laox checks
+*** FLOP *** [7h 6h Qc]
+7-Ten-Za bets 2150
+Laox raises 235 to 2385 and is all-in
+Lotahiti folds
+7-Ten-Za calls 235
+*** TURN *** [7h 6h Qc][Ks]
+*** RIVER *** [7h 6h Qc Ks][4c]
+*** SHOW DOWN ***
+Laox shows [2s 8h] (High card : King)
+7-Ten-Za shows [Qs 9c] (One pair : Queens)
+7-Ten-Za collected 6920 from pot
+*** SUMMARY ***
+Total pot 6920 | No rake
+Board: [7h 6h Qc Ks 4c]
+Seat 3: 7-Ten-Za (small blind) showed [Qs 9c] and won 6920 with One pair : Queens
+Seat 4: Laox (big blind) showed [2s 8h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #531302705944068104-45-1437229812 - Holdem no limit (70/300/600) - 2015/07/18 14:30:12 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #3 is the button
+Seat 1: mike7891 (17705)
+Seat 2: sabre_laser (14230)
+Seat 3: 7-Ten-Za (7015)
+Seat 5: Lotahiti (10010)
+Seat 6: willbelucky (24910)
+*** ANTE/BLINDS ***
+Lotahiti posts ante 70
+mike7891 posts ante 70
+sabre_laser posts ante 70
+7-Ten-Za posts ante 70
+willbelucky posts ante 70
+Lotahiti posts big blind 600
+Dealt to sabre_laser [4c Ac]
+*** PRE-FLOP *** 
+willbelucky folds
+mike7891 calls 600
+sabre_laser raises 600 to 1200
+7-Ten-Za folds
+Lotahiti folds
+mike7891 calls 600
+*** FLOP *** [Qh 8c Qc]
+mike7891 checks
+sabre_laser bets 3000
+mike7891 calls 3000
+*** TURN *** [Qh 8c Qc][4d]
+mike7891 checks
+sabre_laser checks
+*** RIVER *** [Qh 8c Qc 4d][2h]
+mike7891 checks
+sabre_laser checks
+*** SHOW DOWN ***
+mike7891 shows [Ah 9c] (One pair : Queens)
+sabre_laser shows [4c Ac] (Two pairs : Queens and 4)
+sabre_laser collected 9350 from pot
+*** SUMMARY ***
+Total pot 9350 | No rake
+Board: [Qh 8c Qc 4d 2h]
+Seat 1: mike7891 showed [Ah 9c] and lost with One pair : Queens
+Seat 2: sabre_laser showed [4c Ac] and won 9350 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #531302705944068104-46-1437229894 - Holdem no limit (70/300/600) - 2015/07/18 14:31:34 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #4 is the button
+Seat 1: mike7891 (13435)
+Seat 2: sabre_laser (19310)
+Seat 3: 7-Ten-Za (6945)
+Seat 4: zioumapa (2850)
+Seat 5: Lotahiti (9340)
+Seat 6: willbelucky (24840)
+*** ANTE/BLINDS ***
+Lotahiti posts ante 70
+willbelucky posts ante 70
+mike7891 posts ante 70
+sabre_laser posts ante 70
+7-Ten-Za posts ante 70
+Lotahiti posts small blind 300
+willbelucky posts big blind 600
+Dealt to sabre_laser [7s Ks]
+*** PRE-FLOP *** 
+mike7891 raises 12765 to 13365 and is all-in
+sabre_laser folds
+7-Ten-Za folds
+Lotahiti folds
+willbelucky folds
+mike7891 collected 14615 from pot
+*** SUMMARY ***
+Total pot 14615 | No rake
+Seat 1: mike7891 won 14615
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #531302705944068104-47-1437229925 - Holdem no limit (80/400/800) - 2015/07/18 14:32:05 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #5 is the button
+Seat 2: sabre_laser (19240)
+Seat 3: 7-Ten-Za (6875)
+Seat 4: zioumapa (2850)
+Seat 5: Lotahiti (8970)
+Seat 6: willbelucky (24170)
+*** ANTE/BLINDS ***
+willbelucky posts ante 80
+sabre_laser posts ante 80
+7-Ten-Za posts ante 80
+zioumapa posts ante 80
+Lotahiti posts ante 80
+willbelucky posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [6s Kh]
+*** PRE-FLOP *** 
+7-Ten-Za folds
+zioumapa folds
+Lotahiti folds
+willbelucky folds
+sabre_laser collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Seat 2: sabre_laser (big blind) won 1600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #531302705944068104-48-1437229967 - Holdem no limit (80/400/800) - 2015/07/18 14:32:47 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #6 is the button
+Seat 2: sabre_laser (19960)
+Seat 3: 7-Ten-Za (6795)
+Seat 4: zioumapa (2770)
+Seat 5: Lotahiti (8890)
+Seat 6: willbelucky (23690)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 80
+7-Ten-Za posts ante 80
+zioumapa posts ante 80
+Lotahiti posts ante 80
+willbelucky posts ante 80
+sabre_laser posts small blind 400
+7-Ten-Za posts big blind 800
+Dealt to sabre_laser [2c 9h]
+*** PRE-FLOP *** 
+zioumapa folds
+Lotahiti folds
+willbelucky folds
+sabre_laser folds
+7-Ten-Za collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Seat 3: 7-Ten-Za (big blind) won 1600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #531302705944068104-49-1437230008 - Holdem no limit (80/400/800) - 2015/07/18 14:33:28 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #2 is the button
+Seat 2: sabre_laser (19480)
+Seat 3: 7-Ten-Za (7515)
+Seat 4: zioumapa (2690)
+Seat 5: Lotahiti (8810)
+Seat 6: willbelucky (23610)
+*** ANTE/BLINDS ***
+7-Ten-Za posts ante 80
+zioumapa posts ante 80
+sabre_laser posts ante 80
+Lotahiti posts ante 80
+willbelucky posts ante 80
+7-Ten-Za posts small blind 400
+zioumapa posts big blind 800
+Dealt to sabre_laser [3c 5c]
+*** PRE-FLOP *** 
+Lotahiti folds
+willbelucky raises 3200 to 4000
+sabre_laser folds
+7-Ten-Za folds
+zioumapa folds
+willbelucky collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | No rake
+Seat 6: willbelucky won 5600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #531302705944068104-50-1437230054 - Holdem no limit (80/400/800) - 2015/07/18 14:34:14 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #3 is the button
+Seat 1: trinita34 (75395)
+Seat 2: sabre_laser (19400)
+Seat 3: 7-Ten-Za (7035)
+Seat 4: zioumapa (1810)
+Seat 5: Lotahiti (8730)
+Seat 6: willbelucky (25130)
+*** ANTE/BLINDS ***
+zioumapa posts ante 80
+Lotahiti posts ante 80
+trinita34 posts ante 80
+sabre_laser posts ante 80
+7-Ten-Za posts ante 80
+willbelucky posts ante 80
+zioumapa posts small blind 400
+Lotahiti posts big blind 800
+Dealt to sabre_laser [8s Qd]
+*** PRE-FLOP *** 
+willbelucky folds
+trinita34 raises 74515 to 75315 and is all-in
+sabre_laser folds
+7-Ten-Za calls 6955 and is all-in
+zioumapa folds
+Lotahiti calls 7850 and is all-in
+*** FLOP *** [Td Kh Qs]
+*** TURN *** [Td Kh Qs][9d]
+*** RIVER *** [Td Kh Qs 9d][7c]
+*** SHOW DOWN ***
+7-Ten-Za shows [As Qc] (One pair : Queens)
+Lotahiti shows [Ac Ad] (One pair : Aces)
+trinita34 shows [9h Ts] (Two pairs : Tens and 9)
+trinita34 collected 91800 from pot
+*** SUMMARY ***
+Total pot 91800 | No rake
+Board: [Td Kh Qs 9d 7c]
+Seat 1: trinita34 showed [9h Ts] and won 91800 with Two pairs : Tens and 9
+Seat 3: 7-Ten-Za (button) showed [As Qc] and lost with One pair : Queens
+Seat 5: Lotahiti (big blind) showed [Ac Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-51-1437230130 - Holdem no limit (100/500/1000) - 2015/07/18 14:35:30 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #4 is the button
+Seat 1: trinita34 (91800)
+Seat 2: sabre_laser (19320)
+Seat 4: zioumapa (1330)
+Seat 6: willbelucky (25050)
+*** ANTE/BLINDS ***
+willbelucky posts ante 100
+trinita34 posts ante 100
+sabre_laser posts ante 100
+zioumapa posts ante 100
+willbelucky posts big blind 1000
+Dealt to sabre_laser [Ks 8d]
+*** PRE-FLOP *** 
+trinita34 folds
+sabre_laser folds
+zioumapa folds
+willbelucky collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Seat 6: willbelucky (big blind) won 1400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-52-1437230142 - Holdem no limit (100/500/1000) - 2015/07/18 14:35:42 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #5 is the button
+Seat 1: trinita34 (91700)
+Seat 2: sabre_laser (19220)
+Seat 4: zioumapa (1230)
+Seat 6: willbelucky (25350)
+*** ANTE/BLINDS ***
+willbelucky posts ante 100
+trinita34 posts ante 100
+sabre_laser posts ante 100
+zioumapa posts ante 100
+willbelucky posts small blind 500
+trinita34 posts big blind 1000
+Dealt to sabre_laser [5s 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+zioumapa folds
+willbelucky folds
+trinita34 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 1: trinita34 (big blind) won 1900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-53-1437230155 - Holdem no limit (100/500/1000) - 2015/07/18 14:35:55 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #6 is the button
+Seat 1: trinita34 (92500)
+Seat 2: sabre_laser (19120)
+Seat 4: zioumapa (1130)
+Seat 6: willbelucky (24750)
+*** ANTE/BLINDS ***
+trinita34 posts ante 100
+sabre_laser posts ante 100
+zioumapa posts ante 100
+willbelucky posts ante 100
+trinita34 posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [3c 7c]
+*** PRE-FLOP *** 
+zioumapa raises 30 to 1030 and is all-in
+willbelucky folds
+trinita34 calls 530
+sabre_laser calls 30
+*** FLOP *** [Td 7d Qs]
+trinita34 checks
+sabre_laser checks
+*** TURN *** [Td 7d Qs][4s]
+trinita34 checks
+sabre_laser checks
+*** RIVER *** [Td 7d Qs 4s][5s]
+trinita34 checks
+sabre_laser checks
+*** SHOW DOWN ***
+trinita34 shows [Jh 4d] (One pair : 4)
+zioumapa shows [3s 3h] (One pair : 3)
+sabre_laser shows [3c 7c] (One pair : 7)
+sabre_laser collected 3490 from pot
+*** SUMMARY ***
+Total pot 3490 | No rake
+Board: [Td 7d Qs 4s 5s]
+Seat 1: trinita34 (small blind) showed [Jh 4d] and lost with One pair : 4
+Seat 2: sabre_laser (big blind) showed [3c 7c] and won 3490 with One pair : 7
+Seat 4: zioumapa showed [3s 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-54-1437230185 - Holdem no limit (100/500/1000) - 2015/07/18 14:36:25 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #1 is the button
+Seat 1: trinita34 (91370)
+Seat 2: sabre_laser (21480)
+Seat 6: willbelucky (24650)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+willbelucky posts ante 100
+trinita34 posts ante 100
+sabre_laser posts small blind 500
+willbelucky posts big blind 1000
+Dealt to sabre_laser [2s 9h]
+*** PRE-FLOP *** 
+trinita34 calls 1000
+sabre_laser folds
+willbelucky checks
+*** FLOP *** [2d Jh Ac]
+willbelucky checks
+trinita34 checks
+*** TURN *** [2d Jh Ac][8d]
+willbelucky checks
+trinita34 checks
+*** RIVER *** [2d Jh Ac 8d][8s]
+willbelucky checks
+trinita34 bets 90270 and is all-in
+willbelucky folds
+trinita34 collected 93070 from pot
+*** SUMMARY ***
+Total pot 93070 | No rake
+Board: [2d Jh Ac 8d 8s]
+Seat 1: trinita34 (button) won 93070
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-55-1437230216 - Holdem no limit (100/500/1000) - 2015/07/18 14:36:56 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #2 is the button
+Seat 1: trinita34 (93070)
+Seat 2: sabre_laser (20880)
+Seat 6: willbelucky (23550)
+*** ANTE/BLINDS ***
+willbelucky posts ante 100
+trinita34 posts ante 100
+sabre_laser posts ante 100
+willbelucky posts small blind 500
+trinita34 posts big blind 1000
+Dealt to sabre_laser [8s Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+willbelucky folds
+trinita34 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 1: trinita34 (big blind) won 1800
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-56-1437230228 - Holdem no limit (100/500/1000) - 2015/07/18 14:37:08 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #6 is the button
+Seat 1: trinita34 (93770)
+Seat 2: sabre_laser (20780)
+Seat 6: willbelucky (22950)
+*** ANTE/BLINDS ***
+trinita34 posts ante 100
+sabre_laser posts ante 100
+willbelucky posts ante 100
+trinita34 posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [Jc 4h]
+*** PRE-FLOP *** 
+willbelucky folds
+trinita34 calls 500
+sabre_laser checks
+*** FLOP *** [Qs 3h 8s]
+trinita34 checks
+sabre_laser checks
+*** TURN *** [Qs 3h 8s][8c]
+trinita34 checks
+sabre_laser bets 1000
+trinita34 calls 1000
+*** RIVER *** [Qs 3h 8s 8c][Ks]
+trinita34 checks
+sabre_laser checks
+*** SHOW DOWN ***
+trinita34 shows [5d Ts] (One pair : 8)
+sabre_laser shows [Jc 4h] (One pair : 8)
+sabre_laser collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [Qs 3h 8s 8c Ks]
+Seat 1: trinita34 (small blind) showed [5d Ts] and lost with One pair : 8
+Seat 2: sabre_laser (big blind) showed [Jc 4h] and won 4300 with One pair : 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-57-1437230257 - Holdem no limit (100/500/1000) - 2015/07/18 14:37:37 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #1 is the button
+Seat 1: trinita34 (91670)
+Seat 2: sabre_laser (22980)
+Seat 3: Dukette974 (9560)
+Seat 4: mike7891 (21755)
+Seat 6: willbelucky (22850)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Dukette974 posts ante 100
+trinita34 posts ante 100
+mike7891 posts ante 100
+willbelucky posts ante 100
+sabre_laser posts small blind 500
+Dukette974 posts big blind 1000
+Dealt to sabre_laser [Ts 4d]
+*** PRE-FLOP *** 
+mike7891 folds
+willbelucky raises 4000 to 5000
+trinita34 folds
+sabre_laser folds
+Dukette974 folds
+willbelucky collected 7000 from pot
+*** SUMMARY ***
+Total pot 7000 | No rake
+Seat 6: willbelucky won 7000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #531302705944068104-58-1437230278 - Holdem no limit (100/500/1000) - 2015/07/18 14:37:58 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #2 is the button
+Seat 1: trinita34 (91570)
+Seat 2: sabre_laser (22380)
+Seat 3: Dukette974 (8460)
+Seat 4: mike7891 (21655)
+Seat 6: willbelucky (24750)
+*** ANTE/BLINDS ***
+Dukette974 posts ante 100
+mike7891 posts ante 100
+trinita34 posts ante 100
+sabre_laser posts ante 100
+willbelucky posts ante 100
+Dukette974 posts small blind 500
+mike7891 posts big blind 1000
+Dealt to sabre_laser [Qs 2h]
+*** PRE-FLOP *** 
+willbelucky folds
+trinita34 folds
+sabre_laser folds
+Dukette974 calls 500
+mike7891 checks
+*** FLOP *** [Kd Ah Ts]
+Dukette974 bets 1000
+mike7891 calls 1000
+*** TURN *** [Kd Ah Ts][7h]
+Dukette974 checks
+mike7891 checks
+*** RIVER *** [Kd Ah Ts 7h][4d]
+Dukette974 checks
+mike7891 checks
+*** SHOW DOWN ***
+Dukette974 shows [9h Jh] (High card : Ace)
+mike7891 shows [8d 8h] (One pair : 8)
+mike7891 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Board: [Kd Ah Ts 7h 4d]
+Seat 3: Dukette974 (small blind) showed [9h Jh] and lost with High card : Ace
+Seat 4: mike7891 (big blind) showed [8d 8h] and won 4500 with One pair : 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #531302705944068104-59-1437230306 - Holdem no limit (135/600/1200) - 2015/07/18 14:38:26 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #3 is the button
+Seat 1: trinita34 (91470)
+Seat 2: sabre_laser (22280)
+Seat 3: Dukette974 (6360)
+Seat 4: mike7891 (24055)
+Seat 6: willbelucky (24650)
+*** ANTE/BLINDS ***
+mike7891 posts ante 135
+willbelucky posts ante 135
+trinita34 posts ante 135
+sabre_laser posts ante 135
+Dukette974 posts ante 135
+mike7891 posts small blind 600
+willbelucky posts big blind 1200
+Dealt to sabre_laser [8h Ah]
+*** PRE-FLOP *** 
+trinita34 folds
+sabre_laser raises 1200 to 2400
+Dukette974 calls 2400
+mike7891 calls 1800
+willbelucky calls 1200
+*** FLOP *** [7d Tc 2c]
+mike7891 checks
+willbelucky bets 7706
+sabre_laser folds
+Dukette974 folds
+mike7891 folds
+willbelucky collected 17981 from pot
+*** SUMMARY ***
+Total pot 17981 | No rake
+Board: [7d Tc 2c]
+Seat 6: willbelucky (big blind) won 17981
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #531302705944068104-60-1437230353 - Holdem no limit (135/600/1200) - 2015/07/18 14:39:13 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #4 is the button
+Seat 1: trinita34 (91335)
+Seat 2: sabre_laser (19745)
+Seat 3: Dukette974 (3825)
+Seat 4: mike7891 (21520)
+Seat 6: willbelucky (32390)
+*** ANTE/BLINDS ***
+willbelucky posts ante 135
+trinita34 posts ante 135
+sabre_laser posts ante 135
+Dukette974 posts ante 135
+mike7891 posts ante 135
+willbelucky posts small blind 600
+trinita34 posts big blind 1200
+Dealt to sabre_laser [6s Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Dukette974 folds
+mike7891 folds
+willbelucky calls 600
+trinita34 checks
+*** FLOP *** [3s 6c Kd]
+willbelucky checks
+trinita34 checks
+*** TURN *** [3s 6c Kd][3c]
+willbelucky checks
+trinita34 checks
+*** RIVER *** [3s 6c Kd 3c][9c]
+willbelucky bets 1200
+trinita34 calls 1200
+*** SHOW DOWN ***
+trinita34 shows [8h 5h] (One pair : 3)
+willbelucky shows [5c Ac] (Flush Ace high)
+willbelucky collected 5475 from pot
+*** SUMMARY ***
+Total pot 5475 | No rake
+Board: [3s 6c Kd 3c 9c]
+Seat 1: trinita34 (big blind) showed [8h 5h] and lost with One pair : 3
+Seat 6: willbelucky (small blind) showed [5c Ac] and won 5475 with Flush Ace high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #531302705944068104-61-1437230379 - Holdem no limit (135/600/1200) - 2015/07/18 14:39:39 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #6 is the button
+Seat 1: trinita34 (88800)
+Seat 2: sabre_laser (19610)
+Seat 3: Dukette974 (3690)
+Seat 4: mike7891 (21385)
+Seat 6: willbelucky (35330)
+*** ANTE/BLINDS ***
+trinita34 posts ante 135
+sabre_laser posts ante 135
+Dukette974 posts ante 135
+mike7891 posts ante 135
+willbelucky posts ante 135
+trinita34 posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [4d 2c]
+*** PRE-FLOP *** 
+Dukette974 folds
+mike7891 calls 1200
+willbelucky folds
+trinita34 calls 600
+sabre_laser checks
+*** FLOP *** [6h Ad 3d]
+trinita34 checks
+sabre_laser checks
+mike7891 checks
+*** TURN *** [6h Ad 3d][Th]
+trinita34 checks
+sabre_laser checks
+mike7891 checks
+*** RIVER *** [6h Ad 3d Th][6s]
+trinita34 checks
+sabre_laser checks
+mike7891 checks
+*** SHOW DOWN ***
+trinita34 shows [7c 2h] (One pair : 6)
+sabre_laser shows [4d 2c] (One pair : 6)
+mike7891 shows [Js 7h] (One pair : 6)
+mike7891 collected 4275 from pot
+*** SUMMARY ***
+Total pot 4275 | No rake
+Board: [6h Ad 3d Th 6s]
+Seat 1: trinita34 (small blind) showed [7c 2h] and lost with One pair : 6
+Seat 2: sabre_laser (big blind) showed [4d 2c] and lost with One pair : 6
+Seat 4: mike7891 showed [Js 7h] and won 4275 with One pair : 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #531302705944068104-62-1437230425 - Holdem no limit (135/600/1200) - 2015/07/18 14:40:25 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #1 is the button
+Seat 1: trinita34 (87465)
+Seat 2: sabre_laser (18275)
+Seat 3: Dukette974 (3555)
+Seat 4: mike7891 (24325)
+Seat 6: willbelucky (35195)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 135
+Dukette974 posts ante 135
+trinita34 posts ante 135
+mike7891 posts ante 135
+willbelucky posts ante 135
+sabre_laser posts small blind 600
+Dukette974 posts big blind 1200
+Dealt to sabre_laser [Td 9s]
+*** PRE-FLOP *** 
+mike7891 folds
+willbelucky folds
+trinita34 calls 1200
+sabre_laser folds
+Dukette974 checks
+*** FLOP *** [2h Th 8c]
+Dukette974 checks
+trinita34 checks
+*** TURN *** [2h Th 8c][6d]
+Dukette974 bets 1200
+trinita34 calls 1200
+*** RIVER *** [2h Th 8c 6d][7c]
+Dukette974 bets 1020 and is all-in
+trinita34 calls 1020
+*** SHOW DOWN ***
+trinita34 shows [Kc 5d] (High card : King)
+Dukette974 shows [7h Ad] (One pair : 7)
+Dukette974 collected 8115 from pot
+*** SUMMARY ***
+Total pot 8115 | No rake
+Board: [2h Th 8c 6d 7c]
+Seat 1: trinita34 (button) showed [Kc 5d] and lost with High card : King
+Seat 3: Dukette974 (big blind) showed [7h Ad] and won 8115 with One pair : 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 17 - HandId: #531302705944068104-63-1437230461 - Holdem no limit (160/800/1600) - 2015/07/18 14:41:01 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #2 is the button
+Seat 1: trinita34 (83910)
+Seat 2: sabre_laser (17540)
+Seat 3: Dukette974 (8115)
+Seat 4: mike7891 (24190)
+Seat 6: willbelucky (35060)
+*** ANTE/BLINDS ***
+Dukette974 posts ante 160
+mike7891 posts ante 160
+trinita34 posts ante 160
+sabre_laser posts ante 160
+willbelucky posts ante 160
+Dukette974 posts small blind 800
+mike7891 posts big blind 1600
+Dealt to sabre_laser [4c 7c]
+*** PRE-FLOP *** 
+willbelucky folds
+trinita34 calls 1600
+sabre_laser folds
+Dukette974 folds
+mike7891 checks
+*** FLOP *** [3c 9d Tc]
+mike7891 checks
+trinita34 checks
+*** TURN *** [3c 9d Tc][3s]
+mike7891 bets 1600
+trinita34 calls 1600
+*** RIVER *** [3c 9d Tc 3s][5c]
+mike7891 bets 1600
+trinita34 folds
+mike7891 collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Board: [3c 9d Tc 3s 5c]
+Seat 4: mike7891 (big blind) won 9600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 17 - HandId: #531302705944068104-64-1437230497 - Holdem no limit (160/800/1600) - 2015/07/18 14:41:37 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #3 is the button
+Seat 1: trinita34 (80550)
+Seat 2: sabre_laser (17380)
+Seat 3: Dukette974 (7155)
+Seat 6: willbelucky (34900)
+*** ANTE/BLINDS ***
+willbelucky posts ante 160
+trinita34 posts ante 160
+sabre_laser posts ante 160
+Dukette974 posts ante 160
+willbelucky posts big blind 1600
+Dealt to sabre_laser [6h 5s]
+*** PRE-FLOP *** 
+trinita34 raises 1600 to 3200
+sabre_laser folds
+Dukette974 folds
+willbelucky calls 1600
+*** FLOP *** [2s 9d Ks]
+willbelucky checks
+trinita34 bets 77190 and is all-in
+willbelucky calls 31540 and is all-in
+*** TURN *** [2s 9d Ks][7c]
+*** RIVER *** [2s 9d Ks 7c][3c]
+*** SHOW DOWN ***
+trinita34 shows [Td Jd] (High card : King)
+willbelucky shows [Kc 9c] (Two pairs : Kings and 9)
+willbelucky collected 70120 from main pot
+trinita34 collected 45650 from side pot 1
+*** SUMMARY ***
+Total pot 115770 | No rake
+Board: [2s 9d Ks 7c 3c]
+Seat 1: trinita34 showed [Td Jd] and won 45650 with High card : King
+Seat 6: willbelucky (big blind) showed [Kc 9c] and won 70120 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 17 - HandId: #531302705944068104-65-1437230557 - Holdem no limit (160/800/1600) - 2015/07/18 14:42:37 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #4 is the button
+Seat 1: trinita34 (45650)
+Seat 2: sabre_laser (17220)
+Seat 3: Dukette974 (6995)
+Seat 6: willbelucky (70120)
+*** ANTE/BLINDS ***
+willbelucky posts ante 160
+trinita34 posts ante 160
+sabre_laser posts ante 160
+Dukette974 posts ante 160
+willbelucky posts small blind 800
+trinita34 posts big blind 1600
+Dealt to sabre_laser [2d 2c]
+*** PRE-FLOP *** 
+sabre_laser raises 1600 to 3200
+Dukette974 folds
+willbelucky folds
+trinita34 raises 42290 to 45490 and is all-in
+sabre_laser calls 13860 and is all-in
+*** FLOP *** [Jd Tc 5d]
+*** TURN *** [Jd Tc 5d][5c]
+*** RIVER *** [Jd Tc 5d 5c][Th]
+*** SHOW DOWN ***
+sabre_laser shows [2d 2c] (Two pairs : Tens and 5)
+trinita34 shows [Kd 2s] (Two pairs : Tens and 5)
+trinita34 collected 63990 from pot
+*** SUMMARY ***
+Total pot 63990 | No rake
+Board: [Jd Tc 5d 5c Th]
+Seat 1: trinita34 (big blind) showed [Kd 2s] and won 63990 with Two pairs : Tens and 5
+Seat 2: sabre_laser showed [2d 2c] and lost with Two pairs : Tens and 5
+
+

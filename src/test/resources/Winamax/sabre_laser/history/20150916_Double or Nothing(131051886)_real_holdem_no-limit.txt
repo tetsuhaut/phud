@@ -1,0 +1,1478 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #562863564449120257-1-1442438935 - Holdem no limit (10/20) - 2015/09/16 21:28:55 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SpewItRight (1500)
+Seat 2: Mars-6AK (1500)
+Seat 3: john pallux (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: barbosbarbos (1500)
+Seat 6: Crazy Bowler (1500)
+Seat 7: Warnerman (1500)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (1500)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 10
+Mars-6AK posts big blind 20
+Dealt to sabre_laser [3s Ac]
+*** PRE-FLOP *** 
+john pallux folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler raises 60 to 80
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+Crazy Bowler collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 6: Crazy Bowler won 110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #562863564449120257-2-1442438974 - Holdem no limit (10/20) - 2015/09/16 21:29:34 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1480)
+Seat 3: john pallux (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: barbosbarbos (1500)
+Seat 6: Crazy Bowler (1530)
+Seat 7: Warnerman (1500)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (1500)
+*** ANTE/BLINDS ***
+Mars-6AK posts small blind 10
+john pallux posts big blind 20
+Dealt to sabre_laser [Ac 9s]
+*** PRE-FLOP *** 
+sabre_laser raises 40 to 60
+barbosbarbos calls 60
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+john pallux folds
+*** FLOP *** [9d 9c Ts]
+sabre_laser bets 50
+barbosbarbos calls 50
+*** TURN *** [9d 9c Ts][Th]
+sabre_laser checks
+barbosbarbos bets 70
+sabre_laser calls 70
+*** RIVER *** [9d 9c Ts Th][6s]
+sabre_laser checks
+barbosbarbos checks
+*** SHOW DOWN ***
+barbosbarbos shows [Ah Qc] (Two pairs : Tens and 9)
+sabre_laser shows [Ac 9s] (Full of 9 and Tens)
+sabre_laser collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [9d 9c Ts Th 6s]
+Seat 4: sabre_laser showed [Ac 9s] and won 390 with Full of 9 and Tens
+Seat 5: barbosbarbos showed [Ah Qc] and lost with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #562863564449120257-3-1442439082 - Holdem no limit (10/20) - 2015/09/16 21:31:22 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #2 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1470)
+Seat 3: john pallux (1480)
+Seat 4: sabre_laser (1710)
+Seat 5: barbosbarbos (1320)
+Seat 6: Crazy Bowler (1530)
+Seat 7: Warnerman (1500)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (1500)
+*** ANTE/BLINDS ***
+john pallux posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Ks 6c]
+*** PRE-FLOP *** 
+barbosbarbos folds
+Crazy Bowler raises 60 to 80
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+john pallux folds
+sabre_laser folds
+Crazy Bowler collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 6: Crazy Bowler won 110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #562863564449120257-4-1442439157 - Holdem no limit (10/20) - 2015/09/16 21:32:37 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #3 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1470)
+Seat 3: john pallux (1470)
+Seat 4: sabre_laser (1690)
+Seat 5: barbosbarbos (1320)
+Seat 6: Crazy Bowler (1560)
+Seat 7: Warnerman (1500)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+barbosbarbos posts big blind 20
+Dealt to sabre_laser [8h 5h]
+*** PRE-FLOP *** 
+Crazy Bowler raises 20 to 40
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu raises 1460 to 1500 and is all-in
+SpewItRight folds
+Mars-6AK folds
+john pallux calls 1470 and is all-in
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+*** FLOP *** [3s Kd 5s]
+*** TURN *** [3s Kd 5s][3d]
+*** RIVER *** [3s Kd 5s 3d][6c]
+*** SHOW DOWN ***
+john pallux shows [9c 9h] (Two pairs : 9 and 3)
+ajacciu shows [Qd Qc] (Two pairs : Queens and 3)
+ajacciu collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [3s Kd 5s 3d 6c]
+Seat 3: john pallux (button) showed [9c 9h] and lost with Two pairs : 9 and 3
+Seat 10: ajacciu showed [Qd Qc] and won 3040 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562863564449120257-5-1442439319 - Holdem no limit (15/30) - 2015/09/16 21:35:19 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1470)
+Seat 4: sabre_laser (1680)
+Seat 5: barbosbarbos (1300)
+Seat 6: Crazy Bowler (1520)
+Seat 7: Warnerman (1500)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (3040)
+*** ANTE/BLINDS ***
+barbosbarbos posts small blind 15
+Crazy Bowler posts big blind 30
+Dealt to sabre_laser [8h 4h]
+*** PRE-FLOP *** 
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser folds
+barbosbarbos raises 30 to 60
+Crazy Bowler folds
+barbosbarbos collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: barbosbarbos (small blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562863564449120257-6-1442439428 - Holdem no limit (15/30) - 2015/09/16 21:37:08 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1470)
+Seat 4: sabre_laser (1680)
+Seat 5: barbosbarbos (1330)
+Seat 6: Crazy Bowler (1490)
+Seat 7: Warnerman (1500)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (3040)
+*** ANTE/BLINDS ***
+Crazy Bowler posts small blind 15
+Warnerman posts big blind 30
+Dealt to sabre_laser [Ah Qh]
+*** PRE-FLOP *** 
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser raises 45 to 75
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: sabre_laser won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562863564449120257-7-1442439484 - Holdem no limit (15/30) - 2015/09/16 21:38:04 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #6 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1470)
+Seat 4: sabre_laser (1725)
+Seat 5: barbosbarbos (1330)
+Seat 6: Crazy Bowler (1475)
+Seat 7: Warnerman (1470)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (3040)
+*** ANTE/BLINDS ***
+Warnerman posts small blind 15
+chameau2 posts big blind 30
+Dealt to sabre_laser [4c 7c]
+*** PRE-FLOP *** 
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK raises 30 to 60
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+Mars-6AK collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: Mars-6AK won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562863564449120257-8-1442439543 - Holdem no limit (15/30) - 2015/09/16 21:39:03 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #7 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1515)
+Seat 4: sabre_laser (1725)
+Seat 5: barbosbarbos (1330)
+Seat 6: Crazy Bowler (1475)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1470)
+Seat 9: bliblizekid (1500)
+Seat 10: ajacciu (3040)
+*** ANTE/BLINDS ***
+chameau2 posts small blind 15
+bliblizekid posts big blind 30
+Dealt to sabre_laser [9s 8d]
+*** PRE-FLOP *** 
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 calls 15
+bliblizekid checks
+*** FLOP *** [Ah Ad Qc]
+chameau2 bets 45
+bliblizekid folds
+chameau2 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Ah Ad Qc]
+Seat 8: chameau2 (small blind) won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562863564449120257-9-1442439586 - Holdem no limit (15/30) - 2015/09/16 21:39:46 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1515)
+Seat 4: sabre_laser (1725)
+Seat 5: barbosbarbos (1330)
+Seat 6: Crazy Bowler (1475)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1500)
+Seat 9: bliblizekid (1470)
+Seat 10: ajacciu (3040)
+*** ANTE/BLINDS ***
+bliblizekid posts small blind 15
+ajacciu posts big blind 30
+Dealt to sabre_laser [Kc 3c]
+*** PRE-FLOP *** 
+SpewItRight folds
+Mars-6AK folds
+sabre_laser folds
+barbosbarbos raises 30 to 60
+Crazy Bowler folds
+Warnerman folds
+chameau2 calls 60
+bliblizekid folds
+ajacciu raises 2980 to 3040 and is all-in
+barbosbarbos folds
+chameau2 folds
+ajacciu collected 3175 from pot
+*** SUMMARY ***
+Total pot 3175 | No rake
+Seat 10: ajacciu (big blind) won 3175
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562863564449120257-10-1442439646 - Holdem no limit (15/30) - 2015/09/16 21:40:46 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SpewItRight (1490)
+Seat 2: Mars-6AK (1515)
+Seat 4: sabre_laser (1725)
+Seat 5: barbosbarbos (1270)
+Seat 6: Crazy Bowler (1475)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1440)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3175)
+*** ANTE/BLINDS ***
+ajacciu posts small blind 15
+SpewItRight posts big blind 30
+Dealt to sabre_laser [7h 6h]
+*** PRE-FLOP *** 
+Mars-6AK folds
+sabre_laser raises 60 to 90
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 4: sabre_laser won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562863564449120257-11-1442439686 - Holdem no limit (20/40) - 2015/09/16 21:41:26 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SpewItRight (1460)
+Seat 2: Mars-6AK (1515)
+Seat 4: sabre_laser (1770)
+Seat 5: barbosbarbos (1270)
+Seat 6: Crazy Bowler (1475)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1440)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3160)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 20
+Mars-6AK posts big blind 40
+Dealt to sabre_laser [Th 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu raises 40 to 80
+SpewItRight folds
+Mars-6AK folds
+ajacciu collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 10: ajacciu (button) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562863564449120257-12-1442439723 - Holdem no limit (20/40) - 2015/09/16 21:42:03 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1475)
+Seat 4: sabre_laser (1770)
+Seat 5: barbosbarbos (1270)
+Seat 6: Crazy Bowler (1475)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1440)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3220)
+*** ANTE/BLINDS ***
+Mars-6AK posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [2s Ts]
+*** PRE-FLOP *** 
+barbosbarbos raises 40 to 80
+Crazy Bowler raises 40 to 120
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser folds
+barbosbarbos calls 40
+*** FLOP *** [Kd 4c Jh]
+barbosbarbos checks
+Crazy Bowler checks
+*** TURN *** [Kd 4c Jh][5c]
+barbosbarbos checks
+Crazy Bowler bets 97
+barbosbarbos folds
+Crazy Bowler collected 397 from pot
+*** SUMMARY ***
+Total pot 397 | No rake
+Board: [Kd 4c Jh 5c]
+Seat 6: Crazy Bowler won 397
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562863564449120257-13-1442439793 - Holdem no limit (20/40) - 2015/09/16 21:43:13 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #2 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1455)
+Seat 4: sabre_laser (1730)
+Seat 5: barbosbarbos (1150)
+Seat 6: Crazy Bowler (1655)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1440)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3220)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+barbosbarbos posts big blind 40
+Dealt to sabre_laser [Qd 9s]
+*** PRE-FLOP *** 
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser raises 60 to 100
+barbosbarbos calls 60
+*** FLOP *** [Js 6s 6h]
+sabre_laser bets 140
+barbosbarbos raises 140 to 280
+sabre_laser calls 140
+*** TURN *** [Js 6s 6h][Jc]
+sabre_laser checks
+barbosbarbos bets 506
+sabre_laser folds
+barbosbarbos collected 1266 from pot
+*** SUMMARY ***
+Total pot 1266 | No rake
+Board: [Js 6s 6h Jc]
+Seat 5: barbosbarbos (big blind) won 1266
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562863564449120257-14-1442439895 - Holdem no limit (20/40) - 2015/09/16 21:44:55 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1455)
+Seat 4: sabre_laser (1350)
+Seat 5: barbosbarbos (1530)
+Seat 6: Crazy Bowler (1655)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1440)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3220)
+*** ANTE/BLINDS ***
+barbosbarbos posts small blind 20
+Crazy Bowler posts big blind 40
+Dealt to sabre_laser [Qc Ah]
+*** PRE-FLOP *** 
+Warnerman folds
+chameau2 raises 40 to 80
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser calls 80
+barbosbarbos folds
+Crazy Bowler folds
+*** FLOP *** [9s 7h 3d]
+chameau2 bets 40
+sabre_laser calls 40
+*** TURN *** [9s 7h 3d][6d]
+chameau2 bets 40
+sabre_laser raises 180 to 220
+chameau2 folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9s 7h 3d 6d]
+Seat 4: sabre_laser (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562863564449120257-15-1442439973 - Holdem no limit (20/40) - 2015/09/16 21:46:13 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1455)
+Seat 4: sabre_laser (1570)
+Seat 5: barbosbarbos (1510)
+Seat 6: Crazy Bowler (1615)
+Seat 7: Warnerman (1455)
+Seat 8: chameau2 (1280)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3220)
+*** ANTE/BLINDS ***
+Crazy Bowler posts small blind 20
+Warnerman posts big blind 40
+Dealt to sabre_laser [9c 9h]
+*** PRE-FLOP *** 
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser raises 60 to 100
+barbosbarbos folds
+Crazy Bowler calls 80
+Warnerman folds
+*** FLOP *** [3d Qd 8c]
+Crazy Bowler checks
+sabre_laser bets 200
+Crazy Bowler folds
+sabre_laser collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [3d Qd 8c]
+Seat 4: sabre_laser won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562863564449120257-16-1442440035 - Holdem no limit (30/60) - 2015/09/16 21:47:15 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #6 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1455)
+Seat 4: sabre_laser (1710)
+Seat 5: barbosbarbos (1510)
+Seat 6: Crazy Bowler (1515)
+Seat 7: Warnerman (1415)
+Seat 8: chameau2 (1280)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3220)
+*** ANTE/BLINDS ***
+Warnerman posts small blind 30
+chameau2 posts big blind 60
+Dealt to sabre_laser [2h 8s]
+*** PRE-FLOP *** 
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman raises 60 to 120
+chameau2 folds
+Warnerman collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: Warnerman (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562863564449120257-17-1442440078 - Holdem no limit (30/60) - 2015/09/16 21:47:58 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #7 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1455)
+Seat 4: sabre_laser (1710)
+Seat 5: barbosbarbos (1510)
+Seat 6: Crazy Bowler (1515)
+Seat 7: Warnerman (1475)
+Seat 8: chameau2 (1220)
+Seat 9: bliblizekid (1455)
+Seat 10: ajacciu (3220)
+*** ANTE/BLINDS ***
+chameau2 posts small blind 30
+bliblizekid posts big blind 60
+Dealt to sabre_laser [5d 3c]
+*** PRE-FLOP *** 
+ajacciu folds
+SpewItRight folds
+Mars-6AK folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler calls 60
+Warnerman folds
+chameau2 folds
+bliblizekid checks
+*** FLOP *** [Tc Kc 3h]
+bliblizekid checks
+Crazy Bowler checks
+*** TURN *** [Tc Kc 3h][3d]
+bliblizekid checks
+Crazy Bowler bets 75
+bliblizekid folds
+Crazy Bowler collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [Tc Kc 3h 3d]
+Seat 6: Crazy Bowler won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562863564449120257-18-1442440154 - Holdem no limit (30/60) - 2015/09/16 21:49:14 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1455)
+Seat 4: sabre_laser (1710)
+Seat 5: barbosbarbos (1510)
+Seat 6: Crazy Bowler (1605)
+Seat 7: Warnerman (1475)
+Seat 8: chameau2 (1190)
+Seat 9: bliblizekid (1395)
+Seat 10: ajacciu (3220)
+*** ANTE/BLINDS ***
+bliblizekid posts small blind 30
+ajacciu posts big blind 60
+Dealt to sabre_laser [Qc Qd]
+*** PRE-FLOP *** 
+SpewItRight folds
+Mars-6AK folds
+sabre_laser raises 90 to 150
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: sabre_laser won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562863564449120257-19-1442440189 - Holdem no limit (30/60) - 2015/09/16 21:49:49 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SpewItRight (1440)
+Seat 2: Mars-6AK (1455)
+Seat 4: sabre_laser (1800)
+Seat 5: barbosbarbos (1510)
+Seat 6: Crazy Bowler (1605)
+Seat 7: Warnerman (1475)
+Seat 8: chameau2 (1190)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3160)
+*** ANTE/BLINDS ***
+ajacciu posts small blind 30
+SpewItRight posts big blind 60
+Dealt to sabre_laser [2d Ah]
+*** PRE-FLOP *** 
+Mars-6AK folds
+sabre_laser folds
+barbosbarbos raises 60 to 120
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+barbosbarbos collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 5: barbosbarbos won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #562863564449120257-28-1442440628 - Holdem no limit (40/80) - 2015/09/16 21:57:08 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SpewItRight (1350)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1480)
+Seat 6: Crazy Bowler (1605)
+Seat 7: Warnerman (3050)
+Seat 8: chameau2 (1520)
+Seat 9: bliblizekid (1245)
+Seat 10: ajacciu (3050)
+*** ANTE/BLINDS ***
+ajacciu posts small blind 40
+SpewItRight posts big blind 80
+Dealt to sabre_laser [2s 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid calls 80
+ajacciu folds
+SpewItRight checks
+*** FLOP *** [Jh 3s 9h]
+SpewItRight checks
+bliblizekid checks
+*** TURN *** [Jh 3s 9h][4s]
+SpewItRight checks
+bliblizekid checks
+*** RIVER *** [Jh 3s 9h 4s][As]
+SpewItRight checks
+bliblizekid bets 80
+SpewItRight folds
+bliblizekid collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Jh 3s 9h 4s As]
+Seat 9: bliblizekid (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #562863564449120257-29-1442440675 - Holdem no limit (40/80) - 2015/09/16 21:57:55 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SpewItRight (1270)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1480)
+Seat 6: Crazy Bowler (1605)
+Seat 7: Warnerman (3050)
+Seat 8: chameau2 (1520)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3010)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [4s 2s]
+*** PRE-FLOP *** 
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: sabre_laser (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #562863564449120257-30-1442440696 - Holdem no limit (40/80) - 2015/09/16 21:58:16 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: SpewItRight (1230)
+Seat 4: sabre_laser (1740)
+Seat 5: barbosbarbos (1480)
+Seat 6: Crazy Bowler (1605)
+Seat 7: Warnerman (3050)
+Seat 8: chameau2 (1520)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3010)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+barbosbarbos posts big blind 80
+Dealt to sabre_laser [5d Jh]
+*** PRE-FLOP *** 
+Crazy Bowler folds
+Warnerman folds
+chameau2 raises 80 to 160
+bliblizekid folds
+ajacciu folds
+SpewItRight raises 1070 to 1230 and is all-in
+sabre_laser folds
+barbosbarbos folds
+chameau2 calls 1070
+*** FLOP *** [6s 2s 9c]
+*** TURN *** [6s 2s 9c][Ad]
+*** RIVER *** [6s 2s 9c Ad][6d]
+*** SHOW DOWN ***
+chameau2 shows [Qd Ac] (Two pairs : Aces and 6)
+SpewItRight shows [As Kc] (Two pairs : Aces and 6)
+SpewItRight collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [6s 2s 9c Ad 6d]
+Seat 1: SpewItRight (button) showed [As Kc] and won 2580 with Two pairs : Aces and 6
+Seat 8: chameau2 showed [Qd Ac] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-31-1442440732 - Holdem no limit (60/120) - 2015/09/16 21:58:52 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: SpewItRight (2580)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1400)
+Seat 6: Crazy Bowler (1605)
+Seat 7: Warnerman (3050)
+Seat 8: chameau2 (290)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3010)
+*** ANTE/BLINDS ***
+barbosbarbos posts small blind 60
+Crazy Bowler posts big blind 120
+Dealt to sabre_laser [Qc Td]
+*** PRE-FLOP *** 
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: Crazy Bowler (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-32-1442440773 - Holdem no limit (60/120) - 2015/09/16 21:59:33 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: SpewItRight (2580)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1340)
+Seat 6: Crazy Bowler (1665)
+Seat 7: Warnerman (3050)
+Seat 8: chameau2 (290)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3010)
+*** ANTE/BLINDS ***
+Crazy Bowler posts small blind 60
+Warnerman posts big blind 120
+Dealt to sabre_laser [3d 8h]
+*** PRE-FLOP *** 
+chameau2 raises 120 to 240
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman raises 120 to 360
+chameau2 calls 50 and is all-in
+*** FLOP *** [4d Kc 2c]
+*** TURN *** [4d Kc 2c][Jd]
+*** RIVER *** [4d Kc 2c Jd][7d]
+*** SHOW DOWN ***
+chameau2 shows [Jc Tc] (One pair : Jacks)
+Warnerman shows [Js 9d] (One pair : Jacks)
+Warnerman collected 70 from side pot 1
+chameau2 collected 640 from main pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [4d Kc 2c Jd 7d]
+Seat 7: Warnerman (big blind) showed [Js 9d] and won 70 with One pair : Jacks
+Seat 8: chameau2 showed [Jc Tc] and won 640 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-33-1442440823 - Holdem no limit (60/120) - 2015/09/16 22:00:23 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #6 is the button
+Seat 1: SpewItRight (2580)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1340)
+Seat 6: Crazy Bowler (1605)
+Seat 7: Warnerman (2760)
+Seat 8: chameau2 (640)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3010)
+*** ANTE/BLINDS ***
+Warnerman posts small blind 60
+chameau2 posts big blind 120
+Dealt to sabre_laser [5c 7s]
+*** PRE-FLOP *** 
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler calls 120
+Warnerman raises 2640 to 2760 and is all-in
+chameau2 folds
+Crazy Bowler folds
+Warnerman collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Seat 7: Warnerman (small blind) won 3000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-34-1442440856 - Holdem no limit (60/120) - 2015/09/16 22:00:56 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #7 is the button
+Seat 1: SpewItRight (2580)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1340)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3000)
+Seat 8: chameau2 (520)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3010)
+*** ANTE/BLINDS ***
+chameau2 posts small blind 60
+bliblizekid posts big blind 120
+Dealt to sabre_laser [2h Kd]
+*** PRE-FLOP *** 
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 raises 120 to 240
+bliblizekid raises 1125 to 1365 and is all-in
+chameau2 calls 280 and is all-in
+*** FLOP *** [Th 9d 4d]
+*** TURN *** [Th 9d 4d][Qs]
+*** RIVER *** [Th 9d 4d Qs][Ad]
+*** SHOW DOWN ***
+chameau2 shows [Kh 8s] (High card : Ace)
+bliblizekid shows [5s Ks] (High card : Ace)
+bliblizekid collected 1365 from side pot 1
+chameau2 collected 520 from main pot
+*** SUMMARY ***
+Total pot 1885 | No rake
+Board: [Th 9d 4d Qs Ad]
+Seat 8: chameau2 (small blind) showed [Kh 8s] and won 520 with High card : Ace
+Seat 9: bliblizekid (big blind) showed [5s Ks] and won 1365 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-35-1442440922 - Holdem no limit (60/120) - 2015/09/16 22:02:02 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: SpewItRight (2580)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1340)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3000)
+Seat 8: chameau2 (520)
+Seat 9: bliblizekid (1365)
+Seat 10: ajacciu (3010)
+*** ANTE/BLINDS ***
+bliblizekid posts small blind 60
+ajacciu posts big blind 120
+Dealt to sabre_laser [Qc 4s]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser folds
+barbosbarbos raises 120 to 240
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+barbosbarbos collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: barbosbarbos won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-36-1442440963 - Holdem no limit (60/120) - 2015/09/16 22:02:43 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SpewItRight (2580)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1520)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3000)
+Seat 8: chameau2 (520)
+Seat 9: bliblizekid (1305)
+Seat 10: ajacciu (2890)
+*** ANTE/BLINDS ***
+ajacciu posts small blind 60
+SpewItRight posts big blind 120
+Dealt to sabre_laser [8c 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 raises 120 to 240
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+chameau2 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 8: chameau2 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-37-1442441007 - Holdem no limit (60/120) - 2015/09/16 22:03:27 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SpewItRight (2460)
+Seat 4: sabre_laser (1700)
+Seat 5: barbosbarbos (1520)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3000)
+Seat 8: chameau2 (700)
+Seat 9: bliblizekid (1305)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [9c Qd]
+*** PRE-FLOP *** 
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman raises 120 to 240
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+Warnerman collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 7: Warnerman won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562863564449120257-38-1442441068 - Holdem no limit (60/120) - 2015/09/16 22:04:28 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: SpewItRight (2400)
+Seat 4: sabre_laser (1580)
+Seat 5: barbosbarbos (1520)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3180)
+Seat 8: chameau2 (700)
+Seat 9: bliblizekid (1305)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+barbosbarbos posts big blind 120
+Dealt to sabre_laser [Ts 9d]
+*** PRE-FLOP *** 
+Crazy Bowler folds
+Warnerman raises 120 to 240
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Warnerman collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 7: Warnerman won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-39-1442441116 - Holdem no limit (80/160) - 2015/09/16 22:05:16 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: SpewItRight (2400)
+Seat 4: sabre_laser (1520)
+Seat 5: barbosbarbos (1400)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3360)
+Seat 8: chameau2 (700)
+Seat 9: bliblizekid (1305)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+barbosbarbos posts small blind 80
+Crazy Bowler posts big blind 160
+Dealt to sabre_laser [Td 3h]
+*** PRE-FLOP *** 
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: Crazy Bowler (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-40-1442441138 - Holdem no limit (80/160) - 2015/09/16 22:05:38 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: SpewItRight (2400)
+Seat 4: sabre_laser (1520)
+Seat 5: barbosbarbos (1320)
+Seat 6: Crazy Bowler (1565)
+Seat 7: Warnerman (3360)
+Seat 8: chameau2 (700)
+Seat 9: bliblizekid (1305)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+Crazy Bowler posts small blind 80
+Warnerman posts big blind 160
+Dealt to sabre_laser [3h Kh]
+*** PRE-FLOP *** 
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: Warnerman (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-41-1442441174 - Holdem no limit (80/160) - 2015/09/16 22:06:14 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #6 is the button
+Seat 1: SpewItRight (2400)
+Seat 4: sabre_laser (1520)
+Seat 5: barbosbarbos (1320)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3440)
+Seat 8: chameau2 (700)
+Seat 9: bliblizekid (1305)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+Warnerman posts small blind 80
+chameau2 posts big blind 160
+Dealt to sabre_laser [6d 9s]
+*** PRE-FLOP *** 
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos raises 160 to 320
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+barbosbarbos collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 5: barbosbarbos won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-42-1442441222 - Holdem no limit (80/160) - 2015/09/16 22:07:02 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #7 is the button
+Seat 1: SpewItRight (2400)
+Seat 4: sabre_laser (1520)
+Seat 5: barbosbarbos (1560)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3360)
+Seat 8: chameau2 (540)
+Seat 9: bliblizekid (1305)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+chameau2 posts small blind 80
+bliblizekid posts big blind 160
+Dealt to sabre_laser [Qh 7h]
+*** PRE-FLOP *** 
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman raises 400 to 560
+chameau2 folds
+bliblizekid folds
+Warnerman collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 7: Warnerman (button) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-43-1442441249 - Holdem no limit (80/160) - 2015/09/16 22:07:29 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: SpewItRight (2400)
+Seat 4: sabre_laser (1520)
+Seat 5: barbosbarbos (1560)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3600)
+Seat 8: chameau2 (460)
+Seat 9: bliblizekid (1145)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+bliblizekid posts small blind 80
+ajacciu posts big blind 160
+Dealt to sabre_laser [As Td]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser raises 160 to 320
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 4: sabre_laser won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-44-1442441297 - Holdem no limit (80/160) - 2015/09/16 22:08:17 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SpewItRight (2400)
+Seat 4: sabre_laser (1760)
+Seat 5: barbosbarbos (1560)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3600)
+Seat 8: chameau2 (460)
+Seat 9: bliblizekid (1065)
+Seat 10: ajacciu (2670)
+*** ANTE/BLINDS ***
+ajacciu posts small blind 80
+SpewItRight posts big blind 160
+Dealt to sabre_laser [5c Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 raises 300 to 460 and is all-in
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+chameau2 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 8: chameau2 won 700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-45-1442441341 - Holdem no limit (80/160) - 2015/09/16 22:09:01 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SpewItRight (2240)
+Seat 4: sabre_laser (1760)
+Seat 5: barbosbarbos (1560)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3600)
+Seat 8: chameau2 (700)
+Seat 9: bliblizekid (1065)
+Seat 10: ajacciu (2590)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [8c 5c]
+*** PRE-FLOP *** 
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+chameau2 folds
+bliblizekid folds
+ajacciu raises 2430 to 2590 and is all-in
+SpewItRight folds
+sabre_laser folds
+ajacciu collected 2830 from pot
+*** SUMMARY ***
+Total pot 2830 | No rake
+Seat 10: ajacciu (button) won 2830
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-46-1442441380 - Holdem no limit (80/160) - 2015/09/16 22:09:40 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: SpewItRight (2160)
+Seat 4: sabre_laser (1600)
+Seat 5: barbosbarbos (1560)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3600)
+Seat 8: chameau2 (700)
+Seat 9: bliblizekid (1065)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+barbosbarbos posts big blind 160
+Dealt to sabre_laser [5h As]
+*** PRE-FLOP *** 
+Crazy Bowler folds
+Warnerman folds
+chameau2 raises 160 to 320
+bliblizekid raises 745 to 1065 and is all-in
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+chameau2 calls 380 and is all-in
+*** FLOP *** [6s 8d Th]
+*** TURN *** [6s 8d Th][5c]
+*** RIVER *** [6s 8d Th 5c][Ah]
+*** SHOW DOWN ***
+chameau2 shows [Jc Jd] (One pair : Jacks)
+bliblizekid shows [Qd Qh] (One pair : Queens)
+bliblizekid collected 2005 from pot
+*** SUMMARY ***
+Total pot 2005 | No rake
+Board: [6s 8d Th 5c Ah]
+Seat 8: chameau2 showed [Jc Jd] and lost with One pair : Jacks
+Seat 9: bliblizekid showed [Qd Qh] and won 2005 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562863564449120257-47-1442441439 - Holdem no limit (80/160) - 2015/09/16 22:10:39 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: SpewItRight (2160)
+Seat 4: sabre_laser (1520)
+Seat 5: barbosbarbos (1400)
+Seat 6: Crazy Bowler (1485)
+Seat 7: Warnerman (3600)
+Seat 9: bliblizekid (2005)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+barbosbarbos posts small blind 80
+Crazy Bowler posts big blind 160
+Dealt to sabre_laser [3h 2c]
+*** PRE-FLOP *** 
+Warnerman folds
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos raises 160 to 320
+Crazy Bowler folds
+barbosbarbos collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 5: barbosbarbos (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #562863564449120257-48-1442441488 - Holdem no limit (10/100/200) - 2015/09/16 22:11:28 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: SpewItRight (2160)
+Seat 4: sabre_laser (1520)
+Seat 5: barbosbarbos (1560)
+Seat 6: Crazy Bowler (1325)
+Seat 7: Warnerman (3600)
+Seat 9: bliblizekid (2005)
+Seat 10: ajacciu (2830)
+*** ANTE/BLINDS ***
+Crazy Bowler posts ante 10
+Warnerman posts ante 10
+SpewItRight posts ante 10
+sabre_laser posts ante 10
+barbosbarbos posts ante 10
+bliblizekid posts ante 10
+ajacciu posts ante 10
+Crazy Bowler posts small blind 100
+Warnerman posts big blind 200
+Dealt to sabre_laser [8h Ac]
+*** PRE-FLOP *** 
+bliblizekid folds
+ajacciu folds
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler raises 200 to 400
+Warnerman folds
+Crazy Bowler collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 6: Crazy Bowler (small blind) won 670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #562863564449120257-49-1442441552 - Holdem no limit (10/100/200) - 2015/09/16 22:12:32 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #6 is the button
+Seat 1: SpewItRight (2150)
+Seat 4: sabre_laser (1510)
+Seat 5: barbosbarbos (1550)
+Seat 6: Crazy Bowler (1585)
+Seat 7: Warnerman (3390)
+Seat 9: bliblizekid (1995)
+Seat 10: ajacciu (2820)
+*** ANTE/BLINDS ***
+Warnerman posts ante 10
+bliblizekid posts ante 10
+SpewItRight posts ante 10
+sabre_laser posts ante 10
+barbosbarbos posts ante 10
+Crazy Bowler posts ante 10
+ajacciu posts ante 10
+Warnerman posts small blind 100
+bliblizekid posts big blind 200
+Dealt to sabre_laser [Js 7c]
+*** PRE-FLOP *** 
+ajacciu calls 200
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+bliblizekid checks
+*** FLOP *** [Ts 2s Kd]
+bliblizekid checks
+ajacciu bets 200
+bliblizekid folds
+ajacciu collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [Ts 2s Kd]
+Seat 10: ajacciu won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #562863564449120257-50-1442441599 - Holdem no limit (10/100/200) - 2015/09/16 22:13:19 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #7 is the button
+Seat 1: SpewItRight (2140)
+Seat 4: sabre_laser (1500)
+Seat 5: barbosbarbos (1540)
+Seat 6: Crazy Bowler (1575)
+Seat 7: Warnerman (3280)
+Seat 9: bliblizekid (1785)
+Seat 10: ajacciu (3180)
+*** ANTE/BLINDS ***
+bliblizekid posts ante 10
+ajacciu posts ante 10
+SpewItRight posts ante 10
+sabre_laser posts ante 10
+barbosbarbos posts ante 10
+Crazy Bowler posts ante 10
+Warnerman posts ante 10
+bliblizekid posts small blind 100
+ajacciu posts big blind 200
+Dealt to sabre_laser [4d 3s]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser folds
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman folds
+bliblizekid folds
+ajacciu collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 10: ajacciu (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #562863564449120257-51-1442441635 - Holdem no limit (10/100/200) - 2015/09/16 22:13:55 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SpewItRight (2130)
+Seat 4: sabre_laser (1490)
+Seat 5: barbosbarbos (1530)
+Seat 6: Crazy Bowler (1565)
+Seat 7: Warnerman (3270)
+Seat 9: bliblizekid (1675)
+Seat 10: ajacciu (3340)
+*** ANTE/BLINDS ***
+ajacciu posts ante 10
+SpewItRight posts ante 10
+sabre_laser posts ante 10
+barbosbarbos posts ante 10
+Crazy Bowler posts ante 10
+Warnerman posts ante 10
+bliblizekid posts ante 10
+ajacciu posts small blind 100
+SpewItRight posts big blind 200
+Dealt to sabre_laser [Jc Tc]
+*** PRE-FLOP *** 
+sabre_laser calls 200
+barbosbarbos folds
+Crazy Bowler folds
+Warnerman raises 3060 to 3260 and is all-in
+bliblizekid folds
+ajacciu calls 3160
+SpewItRight folds
+sabre_laser folds
+*** FLOP *** [Qh Ks 3c]
+*** TURN *** [Qh Ks 3c][4h]
+*** RIVER *** [Qh Ks 3c 4h][3h]
+*** SHOW DOWN ***
+Warnerman shows [As Kd] (Two pairs : Kings and 3)
+ajacciu shows [Kc Kh] (Full of Kings and 3)
+ajacciu collected 6990 from pot
+*** SUMMARY ***
+Total pot 6990 | No rake
+Board: [Qh Ks 3c 4h 3h]
+Seat 7: Warnerman showed [As Kd] and lost with Two pairs : Kings and 3
+Seat 10: ajacciu (small blind) showed [Kc Kh] and won 6990 with Full of Kings and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #562863564449120257-52-1442441685 - Holdem no limit (10/100/200) - 2015/09/16 22:14:45 UTC
+Table: 'Double or Nothing(131051886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SpewItRight (1920)
+Seat 4: sabre_laser (1280)
+Seat 5: barbosbarbos (1520)
+Seat 6: Crazy Bowler (1555)
+Seat 9: bliblizekid (1665)
+Seat 10: ajacciu (7060)
+*** ANTE/BLINDS ***
+SpewItRight posts ante 10
+sabre_laser posts ante 10
+barbosbarbos posts ante 10
+Crazy Bowler posts ante 10
+bliblizekid posts ante 10
+ajacciu posts ante 10
+SpewItRight posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Tc 4d]
+*** PRE-FLOP *** 
+barbosbarbos folds
+Crazy Bowler folds
+bliblizekid raises 1455 to 1655 and is all-in
+ajacciu calls 1655
+SpewItRight folds
+sabre_laser folds
+*** FLOP *** [Kh 3h 3d]
+*** TURN *** [Kh 3h 3d][Ts]
+*** RIVER *** [Kh 3h 3d Ts][Ac]
+*** SHOW DOWN ***
+bliblizekid shows [Kc Jh] (Two pairs : Kings and 3)
+ajacciu shows [Ah Qh] (Two pairs : Aces and 3)
+ajacciu collected 3670 from pot
+*** SUMMARY ***
+Total pot 3670 | No rake
+Board: [Kh 3h 3d Ts Ac]
+Seat 9: bliblizekid showed [Kc Jh] and lost with Two pairs : Kings and 3
+Seat 10: ajacciu (button) showed [Ah Qh] and won 3670 with Two pairs : Aces and 3
+
+

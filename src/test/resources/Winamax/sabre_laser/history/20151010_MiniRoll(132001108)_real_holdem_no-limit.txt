@@ -1,0 +1,653 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #566940441895763992-1-1444487412 - Holdem no limit (75/150) - 2015/10/10 14:30:12 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #2 is the button
+Seat 1: grazaille (10000)
+Seat 2: tchene73 (10000)
+Seat 5: sabre_laser (10000)
+*** ANTE/BLINDS ***
+tchene73 posts small blind 75
+grazaille posts big blind 150
+*** PRE-FLOP *** 
+tchene73 folds
+grazaille collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 1: grazaille (big blind) won 225
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #566940441895763992-2-1444487432 - Holdem no limit (75/150) - 2015/10/10 14:30:32 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #1 is the button
+Seat 1: grazaille (10075)
+Seat 2: tchene73 (9925)
+Seat 3: lamisscha59 (10000)
+Seat 4: Lampiao (10000)
+Seat 5: sabre_laser (10000)
+*** ANTE/BLINDS ***
+grazaille posts small blind 75
+tchene73 posts big blind 150
+*** PRE-FLOP *** 
+grazaille calls 75
+tchene73 checks
+*** FLOP *** [6s 5d Qh]
+tchene73 checks
+grazaille checks
+*** TURN *** [6s 5d Qh][Qs]
+tchene73 checks
+grazaille checks
+*** RIVER *** [6s 5d Qh Qs][9d]
+tchene73 checks
+grazaille checks
+*** SHOW DOWN ***
+grazaille shows [3s Th] (One pair : Queens)
+tchene73 shows [Jc 7s] (One pair : Queens)
+tchene73 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [6s 5d Qh Qs 9d]
+Seat 1: grazaille (small blind) (button) showed [3s Th] and lost with One pair : Queens
+Seat 2: tchene73 (big blind) showed [Jc 7s] and won 300 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #566940441895763992-3-1444487477 - Holdem no limit (75/150) - 2015/10/10 14:31:17 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #1 is the button
+Seat 1: grazaille (9925)
+Seat 2: tchene73 (10075)
+Seat 4: Lampiao (10000)
+Seat 5: sabre_laser (10000)
+Seat 6: AKAIS95 (10000)
+*** ANTE/BLINDS ***
+tchene73 posts small blind 75
+Lampiao posts big blind 150
+Dealt to sabre_laser [5s 5d]
+*** PRE-FLOP *** 
+sabre_laser calls 150
+AKAIS95 folds
+grazaille folds
+tchene73 folds
+Lampiao checks
+*** FLOP *** [Ks 3d As]
+Lampiao checks
+sabre_laser bets 375
+Lampiao calls 375
+*** TURN *** [Ks 3d As][8h]
+Lampiao checks
+sabre_laser checks
+*** RIVER *** [Ks 3d As 8h][Qh]
+Lampiao checks
+sabre_laser checks
+*** SHOW DOWN ***
+Lampiao shows [4c 2d] (High card : Ace)
+sabre_laser shows [5s 5d] (One pair : 5)
+sabre_laser collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | No rake
+Board: [Ks 3d As 8h Qh]
+Seat 4: Lampiao (big blind) showed [4c 2d] and lost with High card : Ace
+Seat 5: sabre_laser showed [5s 5d] and won 1125 with One pair : 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #566940441895763992-4-1444487505 - Holdem no limit (75/150) - 2015/10/10 14:31:45 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #2 is the button
+Seat 1: grazaille (9925)
+Seat 2: tchene73 (10000)
+Seat 4: Lampiao (9475)
+Seat 5: sabre_laser (10600)
+Seat 6: AKAIS95 (10000)
+*** ANTE/BLINDS ***
+Lampiao posts small blind 75
+sabre_laser posts big blind 150
+Dealt to sabre_laser [Td As]
+*** PRE-FLOP *** 
+AKAIS95 raises 200 to 350
+grazaille folds
+tchene73 folds
+Lampiao folds
+sabre_laser calls 200
+*** FLOP *** [Ac 7c Jd]
+sabre_laser checks
+AKAIS95 bets 425
+sabre_laser calls 425
+*** TURN *** [Ac 7c Jd][Ks]
+sabre_laser bets 813
+AKAIS95 calls 813
+*** RIVER *** [Ac 7c Jd Ks][Ad]
+sabre_laser checks
+AKAIS95 bets 2749
+sabre_laser calls 2749
+*** SHOW DOWN ***
+sabre_laser shows [Td As] (Trips of Aces)
+AKAIS95 shows [Ah 8s] (Trips of Aces)
+AKAIS95 collected 4375 from pot
+sabre_laser collected 4374 from pot
+*** SUMMARY ***
+Total pot 8749 | No rake
+Board: [Ac 7c Jd Ks Ad]
+Seat 5: sabre_laser (big blind) showed [Td As] and won 4374 with Trips of Aces
+Seat 6: AKAIS95 showed [Ah 8s] and won 4375 with Trips of Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #566940441895763992-5-1444487622 - Holdem no limit (100/200) - 2015/10/10 14:33:42 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #4 is the button
+Seat 1: grazaille (9925)
+Seat 2: tchene73 (10000)
+Seat 3: parisnord (10000)
+Seat 5: sabre_laser (10637)
+Seat 6: AKAIS95 (10038)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 100
+AKAIS95 posts big blind 200
+Dealt to sabre_laser [5c Ac]
+*** PRE-FLOP *** 
+grazaille folds
+tchene73 folds
+sabre_laser raises 300 to 500
+AKAIS95 calls 300
+*** FLOP *** [9h 4c Qh]
+sabre_laser bets 1000
+AKAIS95 folds
+sabre_laser collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [9h 4c Qh]
+Seat 5: sabre_laser (small blind) won 2000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #566940441895763992-6-1444487663 - Holdem no limit (100/200) - 2015/10/10 14:34:23 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #5 is the button
+Seat 1: grazaille (9925)
+Seat 2: tchene73 (10000)
+Seat 3: parisnord (10000)
+Seat 4: _Nada_ (10000)
+Seat 5: sabre_laser (11137)
+Seat 6: AKAIS95 (9538)
+*** ANTE/BLINDS ***
+AKAIS95 posts small blind 100
+grazaille posts big blind 200
+Dealt to sabre_laser [9c 6s]
+*** PRE-FLOP *** 
+tchene73 folds
+parisnord folds
+_Nada_ folds
+sabre_laser folds
+AKAIS95 raises 201 to 401
+grazaille calls 201
+*** FLOP *** [3d 3c Qd]
+AKAIS95 bets 508
+grazaille calls 508
+*** TURN *** [3d 3c Qd][Ts]
+AKAIS95 checks
+grazaille checks
+*** RIVER *** [3d 3c Qd Ts][Ks]
+AKAIS95 bets 1600
+grazaille calls 1600
+*** SHOW DOWN ***
+grazaille shows [8d Kd] (Two pairs : Kings and 3)
+AKAIS95 shows [Th Td] (Full of Tens and 3)
+AKAIS95 collected 5018 from pot
+*** SUMMARY ***
+Total pot 5018 | No rake
+Board: [3d 3c Qd Ts Ks]
+Seat 1: grazaille (big blind) showed [8d Kd] and lost with Two pairs : Kings and 3
+Seat 6: AKAIS95 (small blind) showed [Th Td] and won 5018 with Full of Tens and 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #566940441895763992-7-1444487759 - Holdem no limit (100/200) - 2015/10/10 14:35:59 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #6 is the button
+Seat 1: grazaille (7416)
+Seat 2: tchene73 (10000)
+Seat 3: parisnord (10000)
+Seat 4: _Nada_ (10000)
+Seat 5: sabre_laser (11137)
+Seat 6: AKAIS95 (12047)
+*** ANTE/BLINDS ***
+grazaille posts small blind 100
+tchene73 posts big blind 200
+Dealt to sabre_laser [6c Qh]
+*** PRE-FLOP *** 
+parisnord folds
+_Nada_ calls 200
+sabre_laser folds
+AKAIS95 folds
+grazaille calls 100
+tchene73 checks
+*** FLOP *** [6s Th Tc]
+grazaille bets 300
+tchene73 folds
+_Nada_ calls 300
+*** TURN *** [6s Th Tc][3h]
+grazaille bets 400
+_Nada_ calls 400
+*** RIVER *** [6s Th Tc 3h][Kc]
+grazaille bets 200
+_Nada_ calls 200
+*** SHOW DOWN ***
+grazaille shows [7d 7h] (Two pairs : Tens and 7)
+_Nada_ shows [Ah Ad] (Two pairs : Aces and Tens)
+_Nada_ collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [6s Th Tc 3h Kc]
+Seat 1: grazaille (small blind) showed [7d 7h] and lost with Two pairs : Tens and 7
+Seat 4: _Nada_ showed [Ah Ad] and won 2400 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #566940441895763992-8-1444487853 - Holdem no limit (100/200) - 2015/10/10 14:37:33 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #1 is the button
+Seat 1: grazaille (6316)
+Seat 2: tchene73 (9800)
+Seat 3: parisnord (10000)
+Seat 4: _Nada_ (11300)
+Seat 5: sabre_laser (11137)
+Seat 6: AKAIS95 (12047)
+*** ANTE/BLINDS ***
+tchene73 posts small blind 100
+parisnord posts big blind 200
+Dealt to sabre_laser [4d 4h]
+*** PRE-FLOP *** 
+_Nada_ folds
+sabre_laser calls 200
+AKAIS95 folds
+grazaille folds
+tchene73 raises 600 to 800
+parisnord folds
+sabre_laser calls 600
+*** FLOP *** [Ts Qd 7h]
+tchene73 bets 1200
+sabre_laser folds
+tchene73 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Ts Qd 7h]
+Seat 2: tchene73 (small blind) won 3000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #566940441895763992-9-1444487898 - Holdem no limit (100/200) - 2015/10/10 14:38:18 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #2 is the button
+Seat 1: grazaille (6316)
+Seat 2: tchene73 (10800)
+Seat 3: parisnord (9800)
+Seat 4: _Nada_ (11300)
+Seat 5: sabre_laser (10337)
+Seat 6: AKAIS95 (12047)
+*** ANTE/BLINDS ***
+parisnord posts small blind 100
+_Nada_ posts big blind 200
+Dealt to sabre_laser [6s Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+AKAIS95 raises 201 to 401
+grazaille calls 401
+tchene73 folds
+parisnord folds
+_Nada_ folds
+*** FLOP *** [Jc Jh 2c]
+AKAIS95 bets 608
+grazaille calls 608
+*** TURN *** [Jc Jh 2c][Kh]
+AKAIS95 bets 1038
+grazaille calls 1038
+*** RIVER *** [Jc Jh 2c Kh][4d]
+AKAIS95 bets 4269
+grazaille calls 4269 and is all-in
+*** SHOW DOWN ***
+AKAIS95 shows [7s 9s] (One pair : Jacks)
+grazaille shows [5s Js] (Trips of Jacks)
+grazaille collected 12932 from pot
+*** SUMMARY ***
+Total pot 12932 | No rake
+Board: [Jc Jh 2c Kh 4d]
+Seat 1: grazaille showed [5s Js] and won 12932 with Trips of Jacks
+Seat 6: AKAIS95 showed [7s 9s] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #566940441895763992-10-1444487994 - Holdem no limit (150/300) - 2015/10/10 14:39:54 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #3 is the button
+Seat 1: grazaille (12932)
+Seat 2: tchene73 (10800)
+Seat 3: parisnord (9700)
+Seat 4: _Nada_ (11100)
+Seat 5: sabre_laser (10337)
+Seat 6: AKAIS95 (5731)
+*** ANTE/BLINDS ***
+_Nada_ posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [6h 5d]
+*** PRE-FLOP *** 
+AKAIS95 folds
+grazaille calls 300
+tchene73 raises 1050 to 1350
+parisnord raises 8350 to 9700 and is all-in
+_Nada_ folds
+sabre_laser folds
+grazaille folds
+tchene73 calls 8350
+*** FLOP *** [6c Jh Kc]
+*** TURN *** [6c Jh Kc][8s]
+*** RIVER *** [6c Jh Kc 8s][8d]
+*** SHOW DOWN ***
+tchene73 shows [Qs Ad] (One pair : 8)
+parisnord shows [7d Kd] (Two pairs : Kings and 8)
+parisnord collected 20150 from pot
+*** SUMMARY ***
+Total pot 20150 | No rake
+Board: [6c Jh Kc 8s 8d]
+Seat 2: tchene73 showed [Qs Ad] and lost with One pair : 8
+Seat 3: parisnord (button) showed [7d Kd] and won 20150 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #566940441895763992-11-1444488029 - Holdem no limit (150/300) - 2015/10/10 14:40:29 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #4 is the button
+Seat 1: grazaille (12632)
+Seat 2: tchene73 (1100)
+Seat 3: parisnord (20150)
+Seat 4: _Nada_ (10950)
+Seat 5: sabre_laser (10037)
+Seat 6: AKAIS95 (5731)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 150
+AKAIS95 posts big blind 300
+Dealt to sabre_laser [Jc 3h]
+*** PRE-FLOP *** 
+grazaille raises 300 to 600
+tchene73 folds
+parisnord folds
+_Nada_ folds
+sabre_laser folds
+AKAIS95 calls 300
+*** FLOP *** [2c Kd Kh]
+AKAIS95 checks
+grazaille bets 300
+AKAIS95 raises 450 to 750
+grazaille folds
+AKAIS95 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [2c Kd Kh]
+Seat 6: AKAIS95 (big blind) won 2400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #566940441895763992-12-1444488088 - Holdem no limit (150/300) - 2015/10/10 14:41:28 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #5 is the button
+Seat 1: grazaille (11732)
+Seat 2: tchene73 (1100)
+Seat 3: parisnord (20150)
+Seat 4: _Nada_ (10950)
+Seat 5: sabre_laser (9887)
+Seat 6: AKAIS95 (6781)
+*** ANTE/BLINDS ***
+AKAIS95 posts small blind 150
+grazaille posts big blind 300
+Dealt to sabre_laser [Ac Kd]
+*** PRE-FLOP *** 
+tchene73 raises 800 to 1100 and is all-in
+parisnord folds
+_Nada_ folds
+sabre_laser raises 8787 to 9887 and is all-in
+AKAIS95 folds
+grazaille folds
+*** FLOP *** [Kh 7h 6h]
+*** TURN *** [Kh 7h 6h][Js]
+*** RIVER *** [Kh 7h 6h Js][Ad]
+*** SHOW DOWN ***
+tchene73 shows [Qc Ah] (One pair : Aces)
+sabre_laser shows [Ac Kd] (Two pairs : Aces and Kings)
+sabre_laser collected 11437 from pot
+*** SUMMARY ***
+Total pot 11437 | No rake
+Board: [Kh 7h 6h Js Ad]
+Seat 2: tchene73 showed [Qc Ah] and lost with One pair : Aces
+Seat 5: sabre_laser (button) showed [Ac Kd] and won 11437 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #566940441895763992-13-1444488119 - Holdem no limit (150/300) - 2015/10/10 14:41:59 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #6 is the button
+Seat 1: grazaille (11432)
+Seat 3: parisnord (20150)
+Seat 4: _Nada_ (10950)
+Seat 5: sabre_laser (11437)
+Seat 6: AKAIS95 (6631)
+*** ANTE/BLINDS ***
+grazaille posts small blind 150
+parisnord posts big blind 300
+Dealt to sabre_laser [7h 9h]
+*** PRE-FLOP *** 
+_Nada_ folds
+sabre_laser folds
+AKAIS95 calls 300
+grazaille calls 150
+parisnord checks
+*** FLOP *** [Kc Qs Th]
+grazaille checks
+parisnord checks
+AKAIS95 checks
+*** TURN *** [Kc Qs Th][6c]
+grazaille checks
+parisnord bets 900
+AKAIS95 calls 900
+grazaille folds
+*** RIVER *** [Kc Qs Th 6c][3s]
+parisnord bets 2025
+AKAIS95 folds
+parisnord collected 4725 from pot
+*** SUMMARY ***
+Total pot 4725 | No rake
+Board: [Kc Qs Th 6c 3s]
+Seat 3: parisnord (big blind) won 4725
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #566940441895763992-14-1444488214 - Holdem no limit (150/300) - 2015/10/10 14:43:34 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #1 is the button
+Seat 1: grazaille (11132)
+Seat 2: 89doudou (10000)
+Seat 3: parisnord (21650)
+Seat 4: _Nada_ (10950)
+Seat 5: sabre_laser (11437)
+Seat 6: AKAIS95 (5431)
+*** ANTE/BLINDS ***
+parisnord posts small blind 150
+_Nada_ posts big blind 300
+Dealt to sabre_laser [8d 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+AKAIS95 folds
+grazaille calls 300
+parisnord calls 150
+_Nada_ checks
+*** FLOP *** [6d Qh 4s]
+parisnord bets 600
+_Nada_ folds
+grazaille calls 600
+*** TURN *** [6d Qh 4s][9s]
+parisnord bets 2100
+grazaille folds
+parisnord collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [6d Qh 4s 9s]
+Seat 3: parisnord (small blind) won 4200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #566940441895763992-15-1444488267 - Holdem no limit (150/300) - 2015/10/10 14:44:27 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #3 is the button
+Seat 1: grazaille (10232)
+Seat 2: 89doudou (10000)
+Seat 3: parisnord (22850)
+Seat 4: _Nada_ (10650)
+Seat 5: sabre_laser (11437)
+Seat 6: AKAIS95 (5431)
+*** ANTE/BLINDS ***
+_Nada_ posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [6h 6s]
+*** PRE-FLOP *** 
+AKAIS95 folds
+grazaille calls 300
+89doudou raises 9700 to 10000 and is all-in
+parisnord folds
+_Nada_ folds
+sabre_laser folds
+grazaille folds
+89doudou collected 10750 from pot
+*** SUMMARY ***
+Total pot 10750 | No rake
+Seat 2: 89doudou won 10750
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #566940441895763992-16-1444488337 - Holdem no limit (25/150/300) - 2015/10/10 14:45:37 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #4 is the button
+Seat 1: grazaille (9932)
+Seat 2: 89doudou (10750)
+Seat 3: parisnord (22850)
+Seat 4: _Nada_ (10500)
+Seat 5: sabre_laser (11137)
+Seat 6: AKAIS95 (5431)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+AKAIS95 posts ante 25
+grazaille posts ante 25
+89doudou posts ante 25
+parisnord posts ante 25
+_Nada_ posts ante 25
+sabre_laser posts small blind 150
+AKAIS95 posts big blind 300
+Dealt to sabre_laser [Qc 2c]
+*** PRE-FLOP *** 
+grazaille folds
+89doudou folds
+parisnord folds
+_Nada_ folds
+sabre_laser raises 300 to 600
+AKAIS95 calls 300
+*** FLOP *** [8d 7d Qh]
+sabre_laser bets 10512 and is all-in
+AKAIS95 calls 4806 and is all-in
+*** TURN *** [8d 7d Qh][4d]
+*** RIVER *** [8d 7d Qh 4d][7s]
+*** SHOW DOWN ***
+AKAIS95 shows [Js Qs] (Two pairs : Queens and 7)
+sabre_laser shows [Qc 2c] (Two pairs : Queens and 7)
+sabre_laser collected 5706 from side pot 1
+AKAIS95 collected 10962 from main pot
+*** SUMMARY ***
+Total pot 16668 | No rake
+Board: [8d 7d Qh 4d 7s]
+Seat 5: sabre_laser (small blind) showed [Qc 2c] and won 5706 with Two pairs : Queens and 7
+Seat 6: AKAIS95 (big blind) showed [Js Qs] and won 10962 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #566940441895763992-17-1444488457 - Holdem no limit (25/150/300) - 2015/10/10 14:47:37 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #5 is the button
+Seat 1: grazaille (9907)
+Seat 2: 89doudou (10725)
+Seat 3: parisnord (22825)
+Seat 4: _Nada_ (10475)
+Seat 5: sabre_laser (5706)
+Seat 6: AKAIS95 (10962)
+*** ANTE/BLINDS ***
+AKAIS95 posts ante 25
+grazaille posts ante 25
+89doudou posts ante 25
+parisnord posts ante 25
+_Nada_ posts ante 25
+sabre_laser posts ante 25
+AKAIS95 posts small blind 150
+grazaille posts big blind 300
+Dealt to sabre_laser [4c 7s]
+*** PRE-FLOP *** 
+89doudou calls 300
+parisnord folds
+_Nada_ folds
+sabre_laser folds
+AKAIS95 calls 150
+grazaille checks
+*** FLOP *** [9s 9h 5d]
+AKAIS95 checks
+grazaille checks
+89doudou checks
+*** TURN *** [9s 9h 5d][2s]
+AKAIS95 bets 400
+grazaille folds
+89doudou folds
+AKAIS95 collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [9s 9h 5d 2s]
+Seat 6: AKAIS95 (small blind) won 1450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #566940441895763992-18-1444488536 - Holdem no limit (25/150/300) - 2015/10/10 14:48:56 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #6 is the button
+Seat 1: grazaille (9582)
+Seat 2: 89doudou (10400)
+Seat 3: parisnord (22800)
+Seat 4: _Nada_ (10450)
+Seat 5: sabre_laser (5681)
+Seat 6: AKAIS95 (11687)
+*** ANTE/BLINDS ***
+grazaille posts ante 25
+89doudou posts ante 25
+parisnord posts ante 25
+_Nada_ posts ante 25
+sabre_laser posts ante 25
+AKAIS95 posts ante 25
+grazaille posts small blind 150
+89doudou posts big blind 300
+Dealt to sabre_laser [3h 5s]
+*** PRE-FLOP *** 
+parisnord folds
+_Nada_ calls 300
+sabre_laser folds
+AKAIS95 calls 300
+grazaille folds
+89doudou checks
+*** FLOP *** [Qh Jc 9c]
+89doudou checks
+_Nada_ checks
+AKAIS95 bets 300
+89doudou folds
+_Nada_ folds
+AKAIS95 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Qh Jc 9c]
+Seat 6: AKAIS95 (button) won 1500
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #566940441895763992-19-1444488601 - Holdem no limit (25/150/300) - 2015/10/10 14:50:01 UTC
+Table: 'MiniRoll(132001108)#023' 6-max (real money) Seat #1 is the button
+Seat 1: grazaille (9407)
+Seat 2: 89doudou (10075)
+Seat 3: parisnord (22775)
+Seat 4: _Nada_ (10125)
+Seat 5: sabre_laser (5656)
+Seat 6: AKAIS95 (12562)
+*** ANTE/BLINDS ***
+89doudou posts ante 25
+parisnord posts ante 25
+grazaille posts ante 25
+_Nada_ posts ante 25
+sabre_laser posts ante 25
+AKAIS95 posts ante 25
+89doudou posts small blind 150
+parisnord posts big blind 300
+Dealt to sabre_laser [3c As]
+*** PRE-FLOP *** 
+_Nada_ folds
+sabre_laser raises 5331 to 5631 and is all-in
+AKAIS95 raises 6906 to 12537 and is all-in
+grazaille folds
+89doudou folds
+parisnord folds
+*** FLOP *** [3h 2c Jc]
+*** TURN *** [3h 2c Jc][9s]
+*** RIVER *** [3h 2c Jc 9s][8s]
+*** SHOW DOWN ***
+sabre_laser shows [3c As] (One pair : 3)
+AKAIS95 shows [9d 9c] (Trips of 9)
+AKAIS95 collected 18768 from pot
+*** SUMMARY ***
+Total pot 18768 | No rake
+Board: [3h 2c Jc 9s 8s]
+Seat 5: sabre_laser showed [3c As] and lost with One pair : 3
+Seat 6: AKAIS95 showed [9d 9c] and won 18768 with Trips of 9
+
+

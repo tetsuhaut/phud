@@ -1,0 +1,902 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #554651651403677697-1-1441042137 - Holdem no limit (10/20) - 2015/08/31 17:28:57 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Grinderdon (1500)
+Seat 2: Rompoke (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: _romss1_ (1500)
+Seat 5: manulou3113 (1500)
+Seat 6: coolman76220 (1500)
+Seat 7: fishman2014 (1500)
+Seat 8: Thierry57160 (1500)
+Seat 9: Milano333 (1500)
+Seat 10: Caro0104 (1500)
+*** ANTE/BLINDS ***
+Thierry57160 posts small blind 10
+Milano333 posts big blind 20
+Dealt to sabre_laser [3h 9s]
+*** PRE-FLOP *** 
+Caro0104 folds
+Grinderdon folds
+Rompoke calls 20
+sabre_laser folds
+_romss1_ folds
+manulou3113 calls 20
+coolman76220 folds
+fishman2014 folds
+Thierry57160 calls 10
+Milano333 raises 50 to 70
+Rompoke calls 50
+manulou3113 calls 50
+Thierry57160 calls 50
+*** FLOP *** [Ad 9c Js]
+Thierry57160 checks
+Milano333 bets 150
+Rompoke folds
+manulou3113 calls 150
+Thierry57160 folds
+*** TURN *** [Ad 9c Js][8s]
+Milano333 bets 200
+manulou3113 calls 200
+*** RIVER *** [Ad 9c Js 8s][Qs]
+Milano333 checks
+manulou3113 bets 980
+Milano333 folds
+manulou3113 collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [Ad 9c Js 8s Qs]
+Seat 5: manulou3113 won 1960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #554651651403677697-2-1441042369 - Holdem no limit (15/30) - 2015/08/31 17:32:49 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Grinderdon (1500)
+Seat 2: Rompoke (1430)
+Seat 3: sabre_laser (1500)
+Seat 4: _romss1_ (1500)
+Seat 5: manulou3113 (2060)
+Seat 6: coolman76220 (1500)
+Seat 7: fishman2014 (1500)
+Seat 8: Thierry57160 (1430)
+Seat 9: Milano333 (1080)
+Seat 10: Caro0104 (1500)
+*** ANTE/BLINDS ***
+Milano333 posts small blind 15
+Caro0104 posts big blind 30
+Dealt to sabre_laser [4d 8d]
+*** PRE-FLOP *** 
+Grinderdon calls 30
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 30
+fishman2014 folds
+Thierry57160 calls 30
+Milano333 calls 15
+Caro0104 checks
+*** FLOP *** [Tc 7c Ks]
+Milano333 checks
+Caro0104 checks
+Grinderdon checks
+coolman76220 checks
+Thierry57160 checks
+*** TURN *** [Tc 7c Ks][8s]
+Milano333 checks
+Caro0104 checks
+Grinderdon checks
+coolman76220 bets 60
+Thierry57160 calls 60
+Milano333 folds
+Caro0104 folds
+Grinderdon calls 60
+*** RIVER *** [Tc 7c Ks 8s][Ts]
+Grinderdon checks
+coolman76220 bets 120
+Thierry57160 folds
+Grinderdon folds
+coolman76220 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Tc 7c Ks 8s Ts]
+Seat 6: coolman76220 won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #554651651403677697-3-1441042500 - Holdem no limit (20/40) - 2015/08/31 17:35:00 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Grinderdon (1410)
+Seat 2: Rompoke (1430)
+Seat 3: sabre_laser (1500)
+Seat 4: _romss1_ (1500)
+Seat 5: manulou3113 (2060)
+Seat 6: coolman76220 (1740)
+Seat 7: fishman2014 (1500)
+Seat 8: Thierry57160 (1340)
+Seat 9: Milano333 (1050)
+Seat 10: Caro0104 (1470)
+*** ANTE/BLINDS ***
+Caro0104 posts small blind 20
+Grinderdon posts big blind 40
+Dealt to sabre_laser [Td Qs]
+*** PRE-FLOP *** 
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Thierry57160 raises 40 to 80
+Milano333 folds
+Caro0104 calls 60
+Grinderdon calls 40
+*** FLOP *** [5s 2c 5h]
+Caro0104 checks
+Grinderdon checks
+Thierry57160 checks
+*** TURN *** [5s 2c 5h][9h]
+Caro0104 checks
+Grinderdon checks
+Thierry57160 checks
+*** RIVER *** [5s 2c 5h 9h][8h]
+Caro0104 bets 80
+Grinderdon raises 80 to 160
+Thierry57160 folds
+Caro0104 calls 80
+*** SHOW DOWN ***
+Caro0104 shows [2s Ks] (Two pairs : 5 and 2)
+Grinderdon shows [Ah Kh] (Flush Ace high)
+Grinderdon collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5s 2c 5h 9h 8h]
+Seat 1: Grinderdon (big blind) showed [Ah Kh] and won 560 with Flush Ace high
+Seat 10: Caro0104 (small blind) showed [2s Ks] and lost with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #554651651403677697-4-1441042592 - Holdem no limit (20/40) - 2015/08/31 17:36:32 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Grinderdon (1730)
+Seat 2: Rompoke (1430)
+Seat 3: sabre_laser (1500)
+Seat 4: _romss1_ (1500)
+Seat 5: manulou3113 (2060)
+Seat 6: coolman76220 (1740)
+Seat 7: fishman2014 (1500)
+Seat 8: Thierry57160 (1260)
+Seat 9: Milano333 (1050)
+Seat 10: Caro0104 (1230)
+*** ANTE/BLINDS ***
+Grinderdon posts small blind 20
+Rompoke posts big blind 40
+Dealt to sabre_laser [6c Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 40
+fishman2014 folds
+Thierry57160 folds
+Milano333 folds
+Caro0104 folds
+Grinderdon folds
+Rompoke checks
+*** FLOP *** [8s Tc 3h]
+Rompoke bets 75
+coolman76220 calls 75
+*** TURN *** [8s Tc 3h][Ts]
+Rompoke checks
+coolman76220 checks
+*** RIVER *** [8s Tc 3h Ts][Jc]
+Rompoke bets 1315 and is all-in
+coolman76220 folds
+Rompoke collected 1565 from pot
+*** SUMMARY ***
+Total pot 1565 | No rake
+Board: [8s Tc 3h Ts Jc]
+Seat 2: Rompoke (big blind) won 1565
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #554651651403677697-5-1441042658 - Holdem no limit (20/40) - 2015/08/31 17:37:38 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1565)
+Seat 3: sabre_laser (1500)
+Seat 4: _romss1_ (1500)
+Seat 5: manulou3113 (2060)
+Seat 6: coolman76220 (1625)
+Seat 7: fishman2014 (1500)
+Seat 8: Thierry57160 (1260)
+Seat 9: Milano333 (1050)
+Seat 10: Caro0104 (1230)
+*** ANTE/BLINDS ***
+Rompoke posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [8c Kd]
+*** PRE-FLOP *** 
+_romss1_ raises 40 to 80
+manulou3113 folds
+coolman76220 calls 80
+fishman2014 folds
+Thierry57160 calls 80
+Milano333 folds
+Caro0104 folds
+Grinderdon folds
+Rompoke folds
+sabre_laser calls 40
+*** FLOP *** [6d 4c 3c]
+sabre_laser checks
+_romss1_ bets 227
+coolman76220 folds
+Thierry57160 folds
+sabre_laser folds
+_romss1_ collected 567 from pot
+*** SUMMARY ***
+Total pot 567 | No rake
+Board: [6d 4c 3c]
+Seat 4: _romss1_ won 567
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554651651403677697-6-1441042736 - Holdem no limit (30/60) - 2015/08/31 17:38:56 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1545)
+Seat 3: sabre_laser (1420)
+Seat 4: _romss1_ (1760)
+Seat 5: manulou3113 (2060)
+Seat 6: coolman76220 (1545)
+Seat 7: fishman2014 (1500)
+Seat 8: Thierry57160 (1180)
+Seat 9: Milano333 (1050)
+Seat 10: Caro0104 (1230)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+_romss1_ posts big blind 60
+Dealt to sabre_laser [Ah 3c]
+*** PRE-FLOP *** 
+manulou3113 folds
+coolman76220 calls 60
+fishman2014 folds
+Thierry57160 folds
+Milano333 folds
+Caro0104 folds
+Grinderdon folds
+Rompoke folds
+sabre_laser folds
+_romss1_ checks
+*** FLOP *** [Tc Td 8c]
+_romss1_ checks
+coolman76220 checks
+*** TURN *** [Tc Td 8c][9s]
+_romss1_ checks
+coolman76220 bets 60
+_romss1_ folds
+coolman76220 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Tc Td 8c 9s]
+Seat 6: coolman76220 won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #554651651403677697-7-1441042806 - Holdem no limit (30/60) - 2015/08/31 17:40:06 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1545)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1700)
+Seat 5: manulou3113 (2060)
+Seat 6: coolman76220 (1635)
+Seat 7: fishman2014 (1500)
+Seat 8: Thierry57160 (1180)
+Seat 9: Milano333 (1050)
+Seat 10: Caro0104 (1230)
+*** ANTE/BLINDS ***
+_romss1_ posts small blind 30
+manulou3113 posts big blind 60
+Dealt to sabre_laser [6c Jd]
+*** PRE-FLOP *** 
+coolman76220 calls 60
+fishman2014 folds
+Thierry57160 calls 60
+Milano333 calls 60
+Caro0104 folds
+Grinderdon folds
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 checks
+*** FLOP *** [Js 7d 2d]
+manulou3113 checks
+coolman76220 bets 270
+Thierry57160 calls 270
+Milano333 folds
+manulou3113 folds
+*** TURN *** [Js 7d 2d][4s]
+coolman76220 bets 810
+Thierry57160 raises 40 to 850 and is all-in
+coolman76220 calls 40
+*** RIVER *** [Js 7d 2d 4s][Ac]
+*** SHOW DOWN ***
+Thierry57160 shows [7s Kh] (One pair : 7)
+coolman76220 shows [Jc As] (Two pairs : Aces and Jacks)
+coolman76220 collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Board: [Js 7d 2d 4s Ac]
+Seat 6: coolman76220 showed [Jc As] and won 2510 with Two pairs : Aces and Jacks
+Seat 8: Thierry57160 showed [7s Kh] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #554651651403677697-8-1441042912 - Holdem no limit (40/80) - 2015/08/31 17:41:52 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1545)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (2000)
+Seat 6: coolman76220 (2965)
+Seat 7: fishman2014 (1500)
+Seat 9: Milano333 (990)
+Seat 10: Caro0104 (1230)
+*** ANTE/BLINDS ***
+manulou3113 posts small blind 40
+coolman76220 posts big blind 80
+Dealt to sabre_laser [9h 6d]
+*** PRE-FLOP *** 
+fishman2014 folds
+Milano333 raises 80 to 160
+Caro0104 folds
+Grinderdon folds
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 80
+*** FLOP *** [Ad 4h 7h]
+coolman76220 checks
+Milano333 bets 160
+coolman76220 folds
+Milano333 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ad 4h 7h]
+Seat 9: Milano333 won 520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #554651651403677697-9-1441042968 - Holdem no limit (40/80) - 2015/08/31 17:42:48 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1545)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2805)
+Seat 7: fishman2014 (1500)
+Seat 9: Milano333 (1190)
+Seat 10: Caro0104 (1230)
+*** ANTE/BLINDS ***
+coolman76220 posts small blind 40
+fishman2014 posts big blind 80
+Dealt to sabre_laser [6d 9c]
+*** PRE-FLOP *** 
+Milano333 folds
+Caro0104 calls 80
+Grinderdon folds
+Rompoke calls 80
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 40
+fishman2014 checks
+*** FLOP *** [7h 4d 4c]
+coolman76220 checks
+fishman2014 checks
+Caro0104 checks
+Rompoke checks
+*** TURN *** [7h 4d 4c][6h]
+coolman76220 checks
+fishman2014 checks
+Caro0104 checks
+Rompoke checks
+*** RIVER *** [7h 4d 4c 6h][Qd]
+coolman76220 checks
+fishman2014 checks
+Caro0104 checks
+Rompoke bets 213
+coolman76220 folds
+fishman2014 folds
+Caro0104 folds
+Rompoke collected 533 from pot
+*** SUMMARY ***
+Total pot 533 | No rake
+Board: [7h 4d 4c 6h Qd]
+Seat 2: Rompoke won 533
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554651651403677697-10-1441043117 - Holdem no limit (60/120) - 2015/08/31 17:45:17 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1785)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2725)
+Seat 7: fishman2014 (1420)
+Seat 9: Milano333 (1190)
+Seat 10: Caro0104 (1150)
+*** ANTE/BLINDS ***
+fishman2014 posts small blind 60
+Milano333 posts big blind 120
+Dealt to sabre_laser [4c Kc]
+*** PRE-FLOP *** 
+Caro0104 raises 120 to 240
+Grinderdon folds
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Milano333 folds
+Caro0104 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 10: Caro0104 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #554651651403677697-11-1441043161 - Holdem no limit (60/120) - 2015/08/31 17:46:01 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1785)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2725)
+Seat 7: fishman2014 (1360)
+Seat 9: Milano333 (1070)
+Seat 10: Caro0104 (1330)
+*** ANTE/BLINDS ***
+Milano333 posts small blind 60
+Caro0104 posts big blind 120
+Dealt to sabre_laser [Kc 6c]
+*** PRE-FLOP *** 
+Grinderdon folds
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Milano333 raises 120 to 240
+Caro0104 folds
+Milano333 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 9: Milano333 (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554651651403677697-12-1441043218 - Holdem no limit (80/160) - 2015/08/31 17:46:58 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1785)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2725)
+Seat 7: fishman2014 (1360)
+Seat 9: Milano333 (1190)
+Seat 10: Caro0104 (1210)
+*** ANTE/BLINDS ***
+Caro0104 posts small blind 80
+Grinderdon posts big blind 160
+Dealt to sabre_laser [6h Jc]
+*** PRE-FLOP *** 
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 160
+fishman2014 folds
+Milano333 folds
+Caro0104 folds
+Grinderdon checks
+*** FLOP *** [5h Qd 9d]
+Grinderdon checks
+coolman76220 checks
+*** TURN *** [5h Qd 9d][7d]
+Grinderdon checks
+coolman76220 checks
+*** RIVER *** [5h Qd 9d 7d][6d]
+Grinderdon checks
+coolman76220 bets 320
+Grinderdon folds
+coolman76220 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [5h Qd 9d 7d 6d]
+Seat 6: coolman76220 won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554651651403677697-13-1441043287 - Holdem no limit (80/160) - 2015/08/31 17:48:07 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Grinderdon (1550)
+Seat 2: Rompoke (1785)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2965)
+Seat 7: fishman2014 (1360)
+Seat 9: Milano333 (1190)
+Seat 10: Caro0104 (1130)
+*** ANTE/BLINDS ***
+Grinderdon posts small blind 80
+Rompoke posts big blind 160
+Dealt to sabre_laser [9d 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Milano333 folds
+Caro0104 folds
+Grinderdon folds
+Rompoke collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: Rompoke (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554651651403677697-14-1441043318 - Holdem no limit (80/160) - 2015/08/31 17:48:38 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Grinderdon (1470)
+Seat 2: Rompoke (1865)
+Seat 3: sabre_laser (1390)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2965)
+Seat 7: fishman2014 (1360)
+Seat 9: Milano333 (1190)
+Seat 10: Caro0104 (1130)
+*** ANTE/BLINDS ***
+Rompoke posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Qd 6d]
+*** PRE-FLOP *** 
+_romss1_ folds
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Milano333 folds
+Caro0104 folds
+Grinderdon raises 160 to 320
+Rompoke folds
+sabre_laser folds
+Grinderdon collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 1: Grinderdon (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #554651651403677697-15-1441043363 - Holdem no limit (80/160) - 2015/08/31 17:49:23 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1785)
+Seat 3: sabre_laser (1230)
+Seat 4: _romss1_ (1670)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2965)
+Seat 7: fishman2014 (1360)
+Seat 9: Milano333 (1190)
+Seat 10: Caro0104 (1130)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+_romss1_ posts big blind 160
+Dealt to sabre_laser [7d Ts]
+*** PRE-FLOP *** 
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Milano333 folds
+Caro0104 folds
+Grinderdon folds
+Rompoke calls 160
+sabre_laser calls 80
+_romss1_ raises 320 to 480
+Rompoke folds
+sabre_laser calls 320
+*** FLOP *** [5s 3s 6h]
+sabre_laser checks
+_romss1_ bets 287
+sabre_laser folds
+_romss1_ collected 1407 from pot
+*** SUMMARY ***
+Total pot 1407 | No rake
+Board: [5s 3s 6h]
+Seat 4: _romss1_ (big blind) won 1407
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554651651403677697-16-1441043412 - Holdem no limit (10/100/200) - 2015/08/31 17:50:12 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Grinderdon (1710)
+Seat 2: Rompoke (1625)
+Seat 3: sabre_laser (750)
+Seat 4: _romss1_ (2310)
+Seat 5: manulou3113 (1960)
+Seat 6: coolman76220 (2965)
+Seat 7: fishman2014 (1360)
+Seat 9: Milano333 (1190)
+Seat 10: Caro0104 (1130)
+*** ANTE/BLINDS ***
+_romss1_ posts ante 10
+manulou3113 posts ante 10
+Grinderdon posts ante 10
+Rompoke posts ante 10
+sabre_laser posts ante 10
+coolman76220 posts ante 10
+fishman2014 posts ante 10
+Milano333 posts ante 10
+Caro0104 posts ante 10
+_romss1_ posts small blind 100
+manulou3113 posts big blind 200
+Dealt to sabre_laser [9s 9d]
+*** PRE-FLOP *** 
+coolman76220 folds
+fishman2014 raises 1150 to 1350 and is all-in
+Milano333 folds
+Caro0104 folds
+Grinderdon calls 1350
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+*** FLOP *** [Kd Jc 7s]
+*** TURN *** [Kd Jc 7s][2d]
+*** RIVER *** [Kd Jc 7s 2d][5s]
+*** SHOW DOWN ***
+Grinderdon shows [Qd Qc] (One pair : Queens)
+fishman2014 shows [Jd Js] (Trips of Jacks)
+fishman2014 collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Board: [Kd Jc 7s 2d 5s]
+Seat 1: Grinderdon showed [Qd Qc] and lost with One pair : Queens
+Seat 7: fishman2014 showed [Jd Js] and won 3090 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554651651403677697-17-1441043505 - Holdem no limit (10/100/200) - 2015/08/31 17:51:45 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Grinderdon (350)
+Seat 2: Rompoke (1615)
+Seat 3: sabre_laser (740)
+Seat 4: _romss1_ (2200)
+Seat 5: manulou3113 (1750)
+Seat 6: coolman76220 (2955)
+Seat 7: fishman2014 (3090)
+Seat 9: Milano333 (1180)
+Seat 10: Caro0104 (1120)
+*** ANTE/BLINDS ***
+manulou3113 posts ante 10
+coolman76220 posts ante 10
+Grinderdon posts ante 10
+Rompoke posts ante 10
+sabre_laser posts ante 10
+_romss1_ posts ante 10
+fishman2014 posts ante 10
+Milano333 posts ante 10
+Caro0104 posts ante 10
+manulou3113 posts small blind 100
+coolman76220 posts big blind 200
+Dealt to sabre_laser [4s 6s]
+*** PRE-FLOP *** 
+fishman2014 folds
+Milano333 raises 970 to 1170 and is all-in
+Caro0104 folds
+Grinderdon folds
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 970
+*** FLOP *** [Kd 8c 2h]
+*** TURN *** [Kd 8c 2h][Kh]
+*** RIVER *** [Kd 8c 2h Kh][8s]
+*** SHOW DOWN ***
+Milano333 shows [Qh Ad] (Two pairs : Kings and 8)
+coolman76220 shows [9d 8h] (Full of 8 and Kings)
+coolman76220 collected 2530 from pot
+*** SUMMARY ***
+Total pot 2530 | No rake
+Board: [Kd 8c 2h Kh 8s]
+Seat 6: coolman76220 (big blind) showed [9d 8h] and won 2530 with Full of 8 and Kings
+Seat 9: Milano333 showed [Qh Ad] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #554651651403677697-18-1441043547 - Holdem no limit (10/100/200) - 2015/08/31 17:52:27 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Grinderdon (340)
+Seat 2: Rompoke (1605)
+Seat 3: sabre_laser (730)
+Seat 4: _romss1_ (2190)
+Seat 5: manulou3113 (1640)
+Seat 6: coolman76220 (4305)
+Seat 7: fishman2014 (3080)
+Seat 10: Caro0104 (1110)
+*** ANTE/BLINDS ***
+coolman76220 posts ante 10
+fishman2014 posts ante 10
+Grinderdon posts ante 10
+Rompoke posts ante 10
+sabre_laser posts ante 10
+_romss1_ posts ante 10
+manulou3113 posts ante 10
+Caro0104 posts ante 10
+coolman76220 posts small blind 100
+fishman2014 posts big blind 200
+Dealt to sabre_laser [Ts 6d]
+*** PRE-FLOP *** 
+Caro0104 raises 900 to 1100 and is all-in
+Grinderdon folds
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Caro0104 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Seat 10: Caro0104 won 1480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #554651651403677697-19-1441043596 - Holdem no limit (20/150/300) - 2015/08/31 17:53:16 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Grinderdon (330)
+Seat 2: Rompoke (1595)
+Seat 3: sabre_laser (720)
+Seat 4: _romss1_ (2180)
+Seat 5: manulou3113 (1630)
+Seat 6: coolman76220 (4195)
+Seat 7: fishman2014 (2870)
+Seat 10: Caro0104 (1480)
+*** ANTE/BLINDS ***
+fishman2014 posts ante 20
+Caro0104 posts ante 20
+Grinderdon posts ante 20
+Rompoke posts ante 20
+sabre_laser posts ante 20
+_romss1_ posts ante 20
+manulou3113 posts ante 20
+coolman76220 posts ante 20
+fishman2014 posts small blind 150
+Caro0104 posts big blind 300
+Dealt to sabre_laser [9h 5s]
+*** PRE-FLOP *** 
+Grinderdon raises 10 to 310 and is all-in
+Rompoke folds
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 310
+fishman2014 folds
+Caro0104 calls 10
+*** FLOP *** [Qs Qc 2d]
+Caro0104 checks
+coolman76220 checks
+*** TURN *** [Qs Qc 2d][6c]
+Caro0104 checks
+coolman76220 checks
+*** RIVER *** [Qs Qc 2d 6c][5d]
+Caro0104 bets 1150 and is all-in
+coolman76220 folds
+*** SHOW DOWN ***
+Grinderdon shows [Qh 7h] (Trips of Queens)
+Caro0104 shows [6d 8h] (Two pairs : Queens and 6)
+Caro0104 collected 1150 from side pot 1
+Grinderdon collected 1240 from main pot
+*** SUMMARY ***
+Total pot 2390 | No rake
+Board: [Qs Qc 2d 6c 5d]
+Seat 1: Grinderdon showed [Qh 7h] and won 1240 with Trips of Queens
+Seat 10: Caro0104 (big blind) showed [6d 8h] and won 1150 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #554651651403677697-20-1441043685 - Holdem no limit (20/150/300) - 2015/08/31 17:54:45 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Grinderdon (1240)
+Seat 2: Rompoke (1575)
+Seat 3: sabre_laser (700)
+Seat 4: _romss1_ (2160)
+Seat 5: manulou3113 (1610)
+Seat 6: coolman76220 (3865)
+Seat 7: fishman2014 (2700)
+Seat 10: Caro0104 (1150)
+*** ANTE/BLINDS ***
+Caro0104 posts ante 20
+Grinderdon posts ante 20
+Rompoke posts ante 20
+sabre_laser posts ante 20
+_romss1_ posts ante 20
+manulou3113 posts ante 20
+coolman76220 posts ante 20
+fishman2014 posts ante 20
+Caro0104 posts small blind 150
+Grinderdon posts big blind 300
+Dealt to sabre_laser [2d 4s]
+*** PRE-FLOP *** 
+Rompoke calls 300
+sabre_laser folds
+_romss1_ folds
+manulou3113 folds
+coolman76220 calls 300
+fishman2014 folds
+Caro0104 raises 830 to 1130 and is all-in
+Grinderdon folds
+Rompoke calls 830
+coolman76220 calls 830
+*** FLOP *** [7c Kc Ac]
+Rompoke bets 425 and is all-in
+coolman76220 calls 425
+*** TURN *** [7c Kc Ac][2h]
+*** RIVER *** [7c Kc Ac 2h][6h]
+*** SHOW DOWN ***
+coolman76220 shows [Qd Jd] (High card : Ace)
+Caro0104 shows [Kh Ks] (Trips of Kings)
+Rompoke shows [Kd Jc] (One pair : Kings)
+Rompoke collected 850 from side pot 1
+Caro0104 collected 3850 from main pot
+*** SUMMARY ***
+Total pot 4700 | No rake
+Board: [7c Kc Ac 2h 6h]
+Seat 2: Rompoke showed [Kd Jc] and won 850 with One pair : Kings
+Seat 6: coolman76220 showed [Qd Jd] and lost with High card : Ace
+Seat 10: Caro0104 (small blind) showed [Kh Ks] and won 3850 with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #554651651403677697-21-1441043774 - Holdem no limit (50/200/400) - 2015/08/31 17:56:14 UTC
+Table: 'Double or Nothing(129139901)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Grinderdon (920)
+Seat 2: Rompoke (850)
+Seat 3: sabre_laser (680)
+Seat 4: _romss1_ (2140)
+Seat 5: manulou3113 (1590)
+Seat 6: coolman76220 (2290)
+Seat 7: fishman2014 (2680)
+Seat 10: Caro0104 (3850)
+*** ANTE/BLINDS ***
+Grinderdon posts ante 50
+Rompoke posts ante 50
+sabre_laser posts ante 50
+_romss1_ posts ante 50
+manulou3113 posts ante 50
+coolman76220 posts ante 50
+fishman2014 posts ante 50
+Caro0104 posts ante 50
+Grinderdon posts small blind 200
+Rompoke posts big blind 400
+Dealt to sabre_laser [Qh 2h]
+*** PRE-FLOP *** 
+sabre_laser raises 230 to 630 and is all-in
+_romss1_ folds
+manulou3113 folds
+coolman76220 folds
+fishman2014 folds
+Caro0104 folds
+Grinderdon raises 240 to 870 and is all-in
+Rompoke calls 400 and is all-in
+*** FLOP *** [2d Ac 3d]
+*** TURN *** [2d Ac 3d][Jd]
+*** RIVER *** [2d Ac 3d Jd][9h]
+*** SHOW DOWN ***
+sabre_laser shows [Qh 2h] (One pair : 2)
+Rompoke shows [Ah Js] (Two pairs : Aces and Jacks)
+Grinderdon shows [Tc Kd] (High card : Ace)
+Grinderdon collected 70 from side pot 1
+Rompoke collected 2630 from main pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [2d Ac 3d Jd 9h]
+Seat 1: Grinderdon (small blind) showed [Tc Kd] and won 70 with High card : Ace
+Seat 2: Rompoke (big blind) showed [Ah Js] and won 2630 with Two pairs : Aces and Jacks
+Seat 3: sabre_laser showed [Qh 2h] and lost with One pair : 2
+
+

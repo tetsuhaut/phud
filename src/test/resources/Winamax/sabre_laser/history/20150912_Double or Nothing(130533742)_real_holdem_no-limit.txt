@@ -1,0 +1,1072 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560638152914501633-1-1442082549 - Holdem no limit (10/20) - 2015/09/12 18:29:09 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FANTOMAS 59 (1500)
+Seat 2: Sony55 (1500)
+Seat 3: CR7-RF (1500)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: meuledor83 (1500)
+Seat 7: sionK (1500)
+Seat 8: ROLPHIE (1500)
+Seat 9: Implozion (1500)
+Seat 10: manulou3113 (1500)
+*** ANTE/BLINDS ***
+meuledor83 posts small blind 10
+sionK posts big blind 20
+Dealt to sabre_laser [Th Ah]
+*** PRE-FLOP *** 
+ROLPHIE folds
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser raises 40 to 60
+meuledor83 folds
+sionK calls 40
+*** FLOP *** [8d 8s 5d]
+sionK checks
+sabre_laser bets 80
+sionK calls 80
+*** TURN *** [8d 8s 5d][7s]
+sionK bets 1360 and is all-in
+sabre_laser folds
+sionK collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [8d 8s 5d 7s]
+Seat 7: sionK (big blind) won 1650
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560638152914501633-2-1442082678 - Holdem no limit (10/20) - 2015/09/12 18:31:18 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #6 is the button
+Seat 1: FANTOMAS 59 (1500)
+Seat 2: Sony55 (1500)
+Seat 3: CR7-RF (1500)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1650)
+Seat 8: ROLPHIE (1500)
+Seat 9: Implozion (1500)
+Seat 10: manulou3113 (1500)
+*** ANTE/BLINDS ***
+sionK posts small blind 10
+ROLPHIE posts big blind 20
+Dealt to sabre_laser [3h 7s]
+*** PRE-FLOP *** 
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK calls 10
+ROLPHIE checks
+*** FLOP *** [Qc 8h 3c]
+sionK bets 20
+ROLPHIE folds
+sionK collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qc 8h 3c]
+Seat 7: sionK (small blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560638152914501633-3-1442082765 - Holdem no limit (15/30) - 2015/09/12 18:32:45 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FANTOMAS 59 (1500)
+Seat 2: Sony55 (1500)
+Seat 3: CR7-RF (1500)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1670)
+Seat 8: ROLPHIE (1480)
+Seat 9: Implozion (1500)
+Seat 10: manulou3113 (1500)
+*** ANTE/BLINDS ***
+ROLPHIE posts small blind 15
+Implozion posts big blind 30
+Dealt to sabre_laser [8s 4c]
+*** PRE-FLOP *** 
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF raises 30 to 60
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK folds
+ROLPHIE calls 45
+Implozion calls 30
+*** FLOP *** [8d 2c Ks]
+ROLPHIE checks
+Implozion checks
+CR7-RF checks
+*** TURN *** [8d 2c Ks][5d]
+ROLPHIE checks
+Implozion bets 90
+CR7-RF folds
+ROLPHIE folds
+Implozion collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [8d 2c Ks 5d]
+Seat 9: Implozion (big blind) won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560638152914501633-4-1442082830 - Holdem no limit (15/30) - 2015/09/12 18:33:50 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FANTOMAS 59 (1500)
+Seat 2: Sony55 (1500)
+Seat 3: CR7-RF (1440)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1670)
+Seat 8: ROLPHIE (1420)
+Seat 9: Implozion (1620)
+Seat 10: manulou3113 (1500)
+*** ANTE/BLINDS ***
+Implozion posts small blind 15
+manulou3113 posts big blind 30
+Dealt to sabre_laser [9c Qc]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Sony55 raises 136 to 166
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK folds
+ROLPHIE folds
+Implozion folds
+manulou3113 folds
+Sony55 collected 211 from pot
+*** SUMMARY ***
+Total pot 211 | No rake
+Seat 2: Sony55 won 211
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560638152914501633-5-1442082887 - Holdem no limit (15/30) - 2015/09/12 18:34:47 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FANTOMAS 59 (1500)
+Seat 2: Sony55 (1545)
+Seat 3: CR7-RF (1440)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1670)
+Seat 8: ROLPHIE (1420)
+Seat 9: Implozion (1605)
+Seat 10: manulou3113 (1470)
+*** ANTE/BLINDS ***
+manulou3113 posts small blind 15
+FANTOMAS 59 posts big blind 30
+Dealt to sabre_laser [6c 5c]
+*** PRE-FLOP *** 
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser raises 45 to 75
+meuledor83 folds
+sionK folds
+ROLPHIE calls 75
+Implozion calls 75
+manulou3113 folds
+FANTOMAS 59 folds
+*** FLOP *** [Ad Th 3h]
+sabre_laser checks
+ROLPHIE checks
+Implozion bets 135
+sabre_laser folds
+ROLPHIE calls 135
+*** TURN *** [Ad Th 3h][Qh]
+ROLPHIE checks
+Implozion checks
+*** RIVER *** [Ad Th 3h Qh][Ks]
+ROLPHIE bets 30
+Implozion raises 90 to 120
+ROLPHIE calls 90
+*** SHOW DOWN ***
+ROLPHIE shows [Tc Qc] (Two pairs : Queens and Tens)
+Implozion shows [9h Ah] (Flush Ace high)
+Implozion collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Ad Th 3h Qh Ks]
+Seat 8: ROLPHIE showed [Tc Qc] and lost with Two pairs : Queens and Tens
+Seat 9: Implozion (button) showed [9h Ah] and won 780 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560638152914501633-6-1442082994 - Holdem no limit (20/40) - 2015/09/12 18:36:34 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FANTOMAS 59 (1470)
+Seat 2: Sony55 (1545)
+Seat 3: CR7-RF (1440)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1285)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1670)
+Seat 8: ROLPHIE (1090)
+Seat 9: Implozion (2055)
+Seat 10: manulou3113 (1455)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts small blind 20
+Sony55 posts big blind 40
+Dealt to sabre_laser [6s As]
+*** PRE-FLOP *** 
+CR7-RF calls 40
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK folds
+ROLPHIE calls 40
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 checks
+*** FLOP *** [9s 4h 6d]
+Sony55 checks
+CR7-RF bets 40
+ROLPHIE calls 40
+Sony55 folds
+*** TURN *** [9s 4h 6d][Js]
+CR7-RF checks
+ROLPHIE bets 220
+CR7-RF folds
+ROLPHIE collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [9s 4h 6d Js]
+Seat 8: ROLPHIE won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560638152914501633-7-1442083066 - Holdem no limit (20/40) - 2015/09/12 18:37:46 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1505)
+Seat 3: CR7-RF (1360)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1285)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1670)
+Seat 8: ROLPHIE (1230)
+Seat 9: Implozion (2055)
+Seat 10: manulou3113 (1455)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 20
+CR7-RF posts big blind 40
+Dealt to sabre_laser [9c Ts]
+*** PRE-FLOP *** 
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK calls 40
+ROLPHIE folds
+Implozion calls 40
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 calls 20
+CR7-RF checks
+*** FLOP *** [9h 8s Qd]
+Sony55 checks
+CR7-RF checks
+sionK checks
+Implozion checks
+*** TURN *** [9h 8s Qd][4c]
+Sony55 checks
+CR7-RF checks
+sionK bets 60
+Implozion calls 60
+Sony55 folds
+CR7-RF folds
+*** RIVER *** [9h 8s Qd 4c][5c]
+sionK bets 1570 and is all-in
+Implozion folds
+sionK collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [9h 8s Qd 4c 5c]
+Seat 7: sionK won 1850
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560638152914501633-8-1442083155 - Holdem no limit (30/60) - 2015/09/12 18:39:15 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1320)
+Seat 4: MAXON AIR (1500)
+Seat 5: sabre_laser (1285)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1850)
+Seat 8: ROLPHIE (1230)
+Seat 9: Implozion (1955)
+Seat 10: manulou3113 (1455)
+*** ANTE/BLINDS ***
+CR7-RF posts small blind 30
+MAXON AIR posts big blind 60
+Dealt to sabre_laser [2s 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+meuledor83 folds
+sionK folds
+ROLPHIE calls 60
+Implozion raises 60 to 120
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR calls 60
+ROLPHIE calls 60
+*** FLOP *** [9h 3c 3h]
+MAXON AIR checks
+ROLPHIE bets 390
+Implozion raises 390 to 780
+MAXON AIR folds
+ROLPHIE folds
+Implozion collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [9h 3c 3h]
+Seat 9: Implozion won 1560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560638152914501633-9-1442083215 - Holdem no limit (30/60) - 2015/09/12 18:40:15 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1290)
+Seat 4: MAXON AIR (1380)
+Seat 5: sabre_laser (1285)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1850)
+Seat 8: ROLPHIE (720)
+Seat 9: Implozion (2615)
+Seat 10: manulou3113 (1455)
+*** ANTE/BLINDS ***
+MAXON AIR posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Th 3d]
+*** PRE-FLOP *** 
+meuledor83 folds
+sionK calls 60
+ROLPHIE raises 660 to 720 and is all-in
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+sionK folds
+ROLPHIE collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 8: ROLPHIE won 870
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560638152914501633-10-1442083265 - Holdem no limit (40/80) - 2015/09/12 18:41:05 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #4 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1290)
+Seat 4: MAXON AIR (1350)
+Seat 5: sabre_laser (1225)
+Seat 6: meuledor83 (1490)
+Seat 7: sionK (1790)
+Seat 8: ROLPHIE (870)
+Seat 9: Implozion (2615)
+Seat 10: manulou3113 (1455)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+meuledor83 posts big blind 80
+Dealt to sabre_laser [Td 7d]
+*** PRE-FLOP *** 
+sionK calls 80
+ROLPHIE folds
+Implozion calls 80
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser calls 40
+meuledor83 checks
+*** FLOP *** [Qd 9s 6h]
+sabre_laser checks
+meuledor83 checks
+sionK checks
+Implozion checks
+*** TURN *** [Qd 9s 6h][Th]
+sabre_laser checks
+meuledor83 checks
+sionK checks
+Implozion checks
+*** RIVER *** [Qd 9s 6h Th][7h]
+sabre_laser bets 160
+meuledor83 folds
+sionK folds
+Implozion folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qd 9s 6h Th 7h]
+Seat 5: sabre_laser (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560638152914501633-11-1442083350 - Holdem no limit (40/80) - 2015/09/12 18:42:30 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1290)
+Seat 4: MAXON AIR (1350)
+Seat 5: sabre_laser (1465)
+Seat 6: meuledor83 (1410)
+Seat 7: sionK (1710)
+Seat 8: ROLPHIE (870)
+Seat 9: Implozion (2535)
+Seat 10: manulou3113 (1455)
+*** ANTE/BLINDS ***
+meuledor83 posts small blind 40
+sionK posts big blind 80
+Dealt to sabre_laser [Jc 6d]
+*** PRE-FLOP *** 
+ROLPHIE folds
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR raises 1270 to 1350 and is all-in
+sabre_laser folds
+meuledor83 folds
+sionK folds
+MAXON AIR collected 1470 from pot
+*** SUMMARY ***
+Total pot 1470 | No rake
+Seat 4: MAXON AIR won 1470
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560638152914501633-12-1442083390 - Holdem no limit (40/80) - 2015/09/12 18:43:10 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #6 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1290)
+Seat 4: MAXON AIR (1470)
+Seat 5: sabre_laser (1465)
+Seat 6: meuledor83 (1370)
+Seat 7: sionK (1630)
+Seat 8: ROLPHIE (870)
+Seat 9: Implozion (2535)
+Seat 10: manulou3113 (1455)
+*** ANTE/BLINDS ***
+sionK posts small blind 40
+ROLPHIE posts big blind 80
+Dealt to sabre_laser [9d 8c]
+*** PRE-FLOP *** 
+Implozion calls 80
+manulou3113 calls 80
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK folds
+ROLPHIE checks
+*** FLOP *** [2c Jh 7h]
+ROLPHIE checks
+Implozion bets 200
+manulou3113 folds
+ROLPHIE folds
+Implozion collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2c Jh 7h]
+Seat 9: Implozion won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560638152914501633-13-1442083490 - Holdem no limit (60/120) - 2015/09/12 18:44:50 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1290)
+Seat 4: MAXON AIR (1470)
+Seat 5: sabre_laser (1465)
+Seat 6: meuledor83 (1370)
+Seat 7: sionK (1590)
+Seat 8: ROLPHIE (790)
+Seat 9: Implozion (2735)
+Seat 10: manulou3113 (1375)
+*** ANTE/BLINDS ***
+ROLPHIE posts small blind 60
+Implozion posts big blind 120
+Dealt to sabre_laser [Jd Jh]
+*** PRE-FLOP *** 
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF calls 120
+MAXON AIR folds
+sabre_laser calls 120
+meuledor83 folds
+sionK calls 120
+ROLPHIE calls 60
+Implozion checks
+*** FLOP *** [2s 4d 3h]
+ROLPHIE bets 120
+Implozion folds
+CR7-RF folds
+sabre_laser calls 120
+sionK folds
+*** TURN *** [2s 4d 3h][Td]
+ROLPHIE bets 120
+sabre_laser raises 120 to 240
+ROLPHIE calls 120
+*** RIVER *** [2s 4d 3h Td][6d]
+ROLPHIE checks
+sabre_laser bets 120
+ROLPHIE raises 190 to 310 and is all-in
+sabre_laser calls 190
+*** SHOW DOWN ***
+ROLPHIE shows [7d 3c] (One pair : 3)
+sabre_laser shows [Jd Jh] (One pair : Jacks)
+sabre_laser collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | No rake
+Board: [2s 4d 3h Td 6d]
+Seat 5: sabre_laser showed [Jd Jh] and won 1940 with One pair : Jacks
+Seat 8: ROLPHIE (small blind) showed [7d 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560638152914501633-14-1442083592 - Holdem no limit (60/120) - 2015/09/12 18:46:32 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1170)
+Seat 4: MAXON AIR (1470)
+Seat 5: sabre_laser (2615)
+Seat 6: meuledor83 (1370)
+Seat 7: sionK (1470)
+Seat 9: Implozion (2615)
+Seat 10: manulou3113 (1375)
+*** ANTE/BLINDS ***
+Implozion posts small blind 60
+manulou3113 posts big blind 120
+Dealt to sabre_laser [Ks 5h]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK raises 540 to 660
+Implozion folds
+manulou3113 folds
+sionK collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 7: sionK won 840
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560638152914501633-15-1442083650 - Holdem no limit (80/160) - 2015/09/12 18:47:30 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FANTOMAS 59 (1450)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1170)
+Seat 4: MAXON AIR (1470)
+Seat 5: sabre_laser (2615)
+Seat 6: meuledor83 (1370)
+Seat 7: sionK (1650)
+Seat 9: Implozion (2555)
+Seat 10: manulou3113 (1255)
+*** ANTE/BLINDS ***
+manulou3113 posts small blind 80
+FANTOMAS 59 posts big blind 160
+Dealt to sabre_laser [Td 3d]
+*** PRE-FLOP *** 
+Sony55 folds
+CR7-RF raises 1010 to 1170 and is all-in
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK folds
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+CR7-RF collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Seat 3: CR7-RF won 1410
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560638152914501633-16-1442083720 - Holdem no limit (80/160) - 2015/09/12 18:48:40 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FANTOMAS 59 (1290)
+Seat 2: Sony55 (1465)
+Seat 3: CR7-RF (1410)
+Seat 4: MAXON AIR (1470)
+Seat 5: sabre_laser (2615)
+Seat 6: meuledor83 (1370)
+Seat 7: sionK (1650)
+Seat 9: Implozion (2555)
+Seat 10: manulou3113 (1175)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts small blind 80
+Sony55 posts big blind 160
+Dealt to sabre_laser [Ks Jh]
+*** PRE-FLOP *** 
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+sionK calls 160
+Implozion calls 160
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 raises 1305 to 1465 and is all-in
+sionK calls 1305
+Implozion folds
+*** FLOP *** [Qd Ah 9s]
+*** TURN *** [Qd Ah 9s][5h]
+*** RIVER *** [Qd Ah 9s 5h][Th]
+*** SHOW DOWN ***
+sionK shows [Kh 5s] (One pair : 5)
+Sony55 shows [Kc As] (One pair : Aces)
+Sony55 collected 3170 from pot
+*** SUMMARY ***
+Total pot 3170 | No rake
+Board: [Qd Ah 9s 5h Th]
+Seat 2: Sony55 (big blind) showed [Kc As] and won 3170 with One pair : Aces
+Seat 7: sionK showed [Kh 5s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560638152914501633-17-1442083766 - Holdem no limit (80/160) - 2015/09/12 18:49:26 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FANTOMAS 59 (1210)
+Seat 2: Sony55 (3170)
+Seat 3: CR7-RF (1410)
+Seat 4: MAXON AIR (1470)
+Seat 5: sabre_laser (2615)
+Seat 6: meuledor83 (1370)
+Seat 7: sionK (185)
+Seat 9: Implozion (2395)
+Seat 10: manulou3113 (1175)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 80
+CR7-RF posts big blind 160
+Dealt to sabre_laser [6s 6c]
+*** PRE-FLOP *** 
+MAXON AIR folds
+sabre_laser calls 160
+meuledor83 calls 160
+sionK folds
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF checks
+*** FLOP *** [Qh 2c 5h]
+CR7-RF checks
+sabre_laser checks
+meuledor83 checks
+*** TURN *** [Qh 2c 5h][4d]
+CR7-RF checks
+sabre_laser bets 240
+meuledor83 folds
+CR7-RF folds
+sabre_laser collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Qh 2c 5h 4d]
+Seat 5: sabre_laser won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560638152914501633-18-1442083891 - Holdem no limit (10/100/200) - 2015/09/12 18:51:31 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FANTOMAS 59 (1210)
+Seat 2: Sony55 (3090)
+Seat 3: CR7-RF (1250)
+Seat 4: MAXON AIR (1470)
+Seat 5: sabre_laser (3015)
+Seat 6: meuledor83 (1210)
+Seat 7: sionK (185)
+Seat 9: Implozion (2395)
+Seat 10: manulou3113 (1175)
+*** ANTE/BLINDS ***
+CR7-RF posts ante 10
+MAXON AIR posts ante 10
+FANTOMAS 59 posts ante 10
+Sony55 posts ante 10
+sabre_laser posts ante 10
+meuledor83 posts ante 10
+sionK posts ante 10
+Implozion posts ante 10
+manulou3113 posts ante 10
+CR7-RF posts small blind 100
+MAXON AIR posts big blind 200
+Dealt to sabre_laser [Kh 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+meuledor83 folds
+sionK calls 175 and is all-in
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 raises 200 to 400
+CR7-RF folds
+MAXON AIR folds
+*** FLOP *** [9c Tc Jc]
+*** TURN *** [9c Tc Jc][7d]
+*** RIVER *** [9c Tc Jc 7d][Ah]
+*** SHOW DOWN ***
+sionK shows [4s 4c] (One pair : 4)
+Sony55 shows [Js Kd] (One pair : Jacks)
+Sony55 collected 965 from pot
+*** SUMMARY ***
+Total pot 965 | No rake
+Board: [9c Tc Jc 7d Ah]
+Seat 2: Sony55 (button) showed [Js Kd] and won 965 with One pair : Jacks
+Seat 7: sionK showed [4s 4c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560638152914501633-19-1442083936 - Holdem no limit (10/100/200) - 2015/09/12 18:52:16 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FANTOMAS 59 (1200)
+Seat 2: Sony55 (3645)
+Seat 3: CR7-RF (1140)
+Seat 4: MAXON AIR (1260)
+Seat 5: sabre_laser (3005)
+Seat 6: meuledor83 (1200)
+Seat 9: Implozion (2385)
+Seat 10: manulou3113 (1165)
+*** ANTE/BLINDS ***
+MAXON AIR posts ante 10
+sabre_laser posts ante 10
+FANTOMAS 59 posts ante 10
+Sony55 posts ante 10
+CR7-RF posts ante 10
+meuledor83 posts ante 10
+Implozion posts ante 10
+manulou3113 posts ante 10
+MAXON AIR posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Js 3h]
+*** PRE-FLOP *** 
+meuledor83 folds
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 raises 990 to 1190 and is all-in
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+FANTOMAS 59 collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Seat 1: FANTOMAS 59 won 1570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560638152914501633-20-1442084002 - Holdem no limit (20/150/300) - 2015/09/12 18:53:22 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #4 is the button
+Seat 1: FANTOMAS 59 (1570)
+Seat 2: Sony55 (3635)
+Seat 3: CR7-RF (1130)
+Seat 4: MAXON AIR (1150)
+Seat 5: sabre_laser (2795)
+Seat 6: meuledor83 (1190)
+Seat 9: Implozion (2375)
+Seat 10: manulou3113 (1155)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+meuledor83 posts ante 20
+FANTOMAS 59 posts ante 20
+Sony55 posts ante 20
+CR7-RF posts ante 20
+MAXON AIR posts ante 20
+Implozion posts ante 20
+manulou3113 posts ante 20
+sabre_laser posts small blind 150
+meuledor83 posts big blind 300
+Dealt to sabre_laser [8c Qs]
+*** PRE-FLOP *** 
+Implozion calls 300
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+CR7-RF folds
+MAXON AIR folds
+sabre_laser folds
+meuledor83 checks
+*** FLOP *** [Td 6c 8d]
+meuledor83 checks
+Implozion checks
+*** TURN *** [Td 6c 8d][8h]
+meuledor83 checks
+Implozion bets 300
+meuledor83 folds
+Implozion collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | No rake
+Board: [Td 6c 8d 8h]
+Seat 9: Implozion won 1210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560638152914501633-21-1442084092 - Holdem no limit (20/150/300) - 2015/09/12 18:54:52 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FANTOMAS 59 (1550)
+Seat 2: Sony55 (3615)
+Seat 3: CR7-RF (1110)
+Seat 4: MAXON AIR (1130)
+Seat 5: sabre_laser (2625)
+Seat 6: meuledor83 (870)
+Seat 9: Implozion (2965)
+Seat 10: manulou3113 (1135)
+*** ANTE/BLINDS ***
+meuledor83 posts ante 20
+Implozion posts ante 20
+FANTOMAS 59 posts ante 20
+Sony55 posts ante 20
+CR7-RF posts ante 20
+MAXON AIR posts ante 20
+sabre_laser posts ante 20
+manulou3113 posts ante 20
+meuledor83 posts small blind 150
+Implozion posts big blind 300
+Dealt to sabre_laser [Jd 2d]
+*** PRE-FLOP *** 
+manulou3113 folds
+FANTOMAS 59 raises 1230 to 1530 and is all-in
+Sony55 folds
+CR7-RF calls 1090 and is all-in
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+Implozion folds
+*** FLOP *** [Kh 8s 4s]
+*** TURN *** [Kh 8s 4s][2h]
+*** RIVER *** [Kh 8s 4s 2h][7h]
+*** SHOW DOWN ***
+CR7-RF shows [Ac Qh] (High card : Ace)
+FANTOMAS 59 shows [Ah 3h] (Flush Ace high)
+FANTOMAS 59 collected 3230 from pot
+*** SUMMARY ***
+Total pot 3230 | No rake
+Board: [Kh 8s 4s 2h 7h]
+Seat 1: FANTOMAS 59 showed [Ah 3h] and won 3230 with Flush Ace high
+Seat 3: CR7-RF showed [Ac Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560638152914501633-22-1442084144 - Holdem no limit (20/150/300) - 2015/09/12 18:55:44 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #6 is the button
+Seat 1: FANTOMAS 59 (3230)
+Seat 2: Sony55 (3595)
+Seat 4: MAXON AIR (1110)
+Seat 5: sabre_laser (2605)
+Seat 6: meuledor83 (700)
+Seat 9: Implozion (2645)
+Seat 10: manulou3113 (1115)
+*** ANTE/BLINDS ***
+Implozion posts ante 20
+manulou3113 posts ante 20
+FANTOMAS 59 posts ante 20
+Sony55 posts ante 20
+MAXON AIR posts ante 20
+sabre_laser posts ante 20
+meuledor83 posts ante 20
+Implozion posts small blind 150
+manulou3113 posts big blind 300
+Dealt to sabre_laser [4c Jd]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Sony55 folds
+MAXON AIR folds
+sabre_laser folds
+meuledor83 folds
+Implozion raises 300 to 600
+manulou3113 raises 495 to 1095 and is all-in
+Implozion calls 495
+*** FLOP *** [9c Ac Jh]
+*** TURN *** [9c Ac Jh][3s]
+*** RIVER *** [9c Ac Jh 3s][Tc]
+*** SHOW DOWN ***
+Implozion shows [4s 6c] (High card : Ace)
+manulou3113 shows [9s 9h] (Trips of 9)
+manulou3113 collected 2330 from pot
+*** SUMMARY ***
+Total pot 2330 | No rake
+Board: [9c Ac Jh 3s Tc]
+Seat 9: Implozion (small blind) showed [4s 6c] and lost with High card : Ace
+Seat 10: manulou3113 (big blind) showed [9s 9h] and won 2330 with Trips of 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560638152914501633-23-1442084206 - Holdem no limit (50/200/400) - 2015/09/12 18:56:46 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FANTOMAS 59 (3210)
+Seat 2: Sony55 (3575)
+Seat 4: MAXON AIR (1090)
+Seat 5: sabre_laser (2585)
+Seat 6: meuledor83 (680)
+Seat 9: Implozion (1530)
+Seat 10: manulou3113 (2330)
+*** ANTE/BLINDS ***
+manulou3113 posts ante 50
+FANTOMAS 59 posts ante 50
+Sony55 posts ante 50
+MAXON AIR posts ante 50
+sabre_laser posts ante 50
+meuledor83 posts ante 50
+Implozion posts ante 50
+manulou3113 posts small blind 200
+FANTOMAS 59 posts big blind 400
+Dealt to sabre_laser [5h 7d]
+*** PRE-FLOP *** 
+Sony55 folds
+MAXON AIR raises 640 to 1040 and is all-in
+sabre_laser folds
+meuledor83 folds
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 calls 640
+*** FLOP *** [Jc 6c 2c]
+*** TURN *** [Jc 6c 2c][Js]
+*** RIVER *** [Jc 6c 2c Js][6s]
+*** SHOW DOWN ***
+FANTOMAS 59 shows [Kd Tc] (Two pairs : Jacks and 6)
+MAXON AIR shows [9h Ac] (Two pairs : Jacks and 6)
+MAXON AIR collected 2630 from pot
+*** SUMMARY ***
+Total pot 2630 | No rake
+Board: [Jc 6c 2c Js 6s]
+Seat 1: FANTOMAS 59 (big blind) showed [Kd Tc] and lost with Two pairs : Jacks and 6
+Seat 4: MAXON AIR showed [9h Ac] and won 2630 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560638152914501633-24-1442084240 - Holdem no limit (50/200/400) - 2015/09/12 18:57:20 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FANTOMAS 59 (2120)
+Seat 2: Sony55 (3525)
+Seat 4: MAXON AIR (2630)
+Seat 5: sabre_laser (2535)
+Seat 6: meuledor83 (630)
+Seat 9: Implozion (1480)
+Seat 10: manulou3113 (2080)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts ante 50
+Sony55 posts ante 50
+MAXON AIR posts ante 50
+sabre_laser posts ante 50
+meuledor83 posts ante 50
+Implozion posts ante 50
+manulou3113 posts ante 50
+FANTOMAS 59 posts small blind 200
+Sony55 posts big blind 400
+Dealt to sabre_laser [4h 9c]
+*** PRE-FLOP *** 
+MAXON AIR folds
+sabre_laser folds
+meuledor83 raises 180 to 580 and is all-in
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 calls 380
+Sony55 calls 180
+*** FLOP *** [6d 9h 6s]
+FANTOMAS 59 checks
+Sony55 bets 2895 and is all-in
+FANTOMAS 59 folds
+*** TURN *** [6d 9h 6s][3d]
+*** RIVER *** [6d 9h 6s 3d][5c]
+*** SHOW DOWN ***
+meuledor83 shows [Ac 8s] (One pair : 6)
+Sony55 shows [6h Jh] (Trips of 6)
+Sony55 collected 4985 from pot
+*** SUMMARY ***
+Total pot 4985 | No rake
+Board: [6d 9h 6s 3d 5c]
+Seat 2: Sony55 (big blind) showed [6h Jh] and won 4985 with Trips of 6
+Seat 6: meuledor83 showed [Ac 8s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560638152914501633-25-1442084314 - Holdem no limit (50/200/400) - 2015/09/12 18:58:34 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FANTOMAS 59 (1490)
+Seat 2: Sony55 (4985)
+Seat 4: MAXON AIR (2580)
+Seat 5: sabre_laser (2485)
+Seat 9: Implozion (1430)
+Seat 10: manulou3113 (2030)
+*** ANTE/BLINDS ***
+Sony55 posts ante 50
+MAXON AIR posts ante 50
+FANTOMAS 59 posts ante 50
+sabre_laser posts ante 50
+Implozion posts ante 50
+manulou3113 posts ante 50
+Sony55 posts small blind 200
+MAXON AIR posts big blind 400
+Dealt to sabre_laser [2d Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Implozion calls 400
+manulou3113 folds
+FANTOMAS 59 folds
+Sony55 folds
+MAXON AIR checks
+*** FLOP *** [9s Qc 8s]
+MAXON AIR checks
+Implozion checks
+*** TURN *** [9s Qc 8s][4h]
+MAXON AIR bets 2130 and is all-in
+Implozion folds
+MAXON AIR collected 3430 from pot
+*** SUMMARY ***
+Total pot 3430 | No rake
+Board: [9s Qc 8s 4h]
+Seat 4: MAXON AIR (big blind) won 3430
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #560638152914501633-26-1442084384 - Holdem no limit (75/300/600) - 2015/09/12 18:59:44 UTC
+Table: 'Double or Nothing(130533742)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FANTOMAS 59 (1440)
+Seat 2: Sony55 (4735)
+Seat 4: MAXON AIR (3430)
+Seat 5: sabre_laser (2435)
+Seat 9: Implozion (980)
+Seat 10: manulou3113 (1980)
+*** ANTE/BLINDS ***
+MAXON AIR posts ante 75
+sabre_laser posts ante 75
+FANTOMAS 59 posts ante 75
+Sony55 posts ante 75
+Implozion posts ante 75
+manulou3113 posts ante 75
+MAXON AIR posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [8c 8s]
+*** PRE-FLOP *** 
+Implozion folds
+manulou3113 folds
+FANTOMAS 59 raises 765 to 1365 and is all-in
+Sony55 folds
+MAXON AIR folds
+sabre_laser calls 765
+*** FLOP *** [Kd 9s Qh]
+*** TURN *** [Kd 9s Qh][3c]
+*** RIVER *** [Kd 9s Qh 3c][Qc]
+*** SHOW DOWN ***
+FANTOMAS 59 shows [Jc 4d] (One pair : Queens)
+sabre_laser shows [8c 8s] (Two pairs : Queens and 8)
+sabre_laser collected 3480 from pot
+*** SUMMARY ***
+Total pot 3480 | No rake
+Board: [Kd 9s Qh 3c Qc]
+Seat 1: FANTOMAS 59 showed [Jc 4d] and lost with One pair : Queens
+Seat 5: sabre_laser (big blind) showed [8c 8s] and won 3480 with Two pairs : Queens and 8
+
+

@@ -1,0 +1,1166 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #570460592796598815-1-1445195731 - Holdem no limit (10/20) - 2015/10/18 19:15:31 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #2 is the button
+Seat 1: pierredunord (3000)
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (3000)
+Seat 4: green0805 (3000)
+Seat 5: titeufdu78 (3000)
+Seat 6: jton57 (3000)
+Seat 7: Mrjeremya (3000)
+Seat 8: sabre_laser (3000)
+Seat 9: beberoro (3000)
+*** ANTE/BLINDS ***
+Raphiky313 posts small blind 10
+green0805 posts big blind 20
+Dealt to sabre_laser [4c Tc]
+*** PRE-FLOP *** 
+titeufdu78 calls 20
+jton57 folds
+Mrjeremya raises 2980 to 3000 and is all-in
+sabre_laser folds
+beberoro folds
+pierredunord folds
+CELOU61 folds
+Raphiky313 folds
+green0805 folds
+titeufdu78 folds
+Mrjeremya collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Seat 7: Mrjeremya won 3050
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #570460592796598815-2-1445195877 - Holdem no limit (10/20) - 2015/10/18 19:17:57 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #3 is the button
+Seat 1: pierredunord (3000)
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (2990)
+Seat 4: green0805 (2980)
+Seat 5: titeufdu78 (2980)
+Seat 6: jton57 (3000)
+Seat 7: Mrjeremya (3050)
+Seat 8: sabre_laser (3000)
+Seat 9: beberoro (3000)
+*** ANTE/BLINDS ***
+green0805 posts small blind 10
+titeufdu78 posts big blind 20
+Dealt to sabre_laser [As 2h]
+*** PRE-FLOP *** 
+jton57 folds
+Mrjeremya folds
+sabre_laser folds
+beberoro calls 20
+pierredunord folds
+CELOU61 folds
+Raphiky313 folds
+green0805 calls 10
+titeufdu78 checks
+*** FLOP *** [4c 6d 7s]
+green0805 checks
+titeufdu78 checks
+beberoro checks
+*** TURN *** [4c 6d 7s][3s]
+green0805 checks
+titeufdu78 checks
+beberoro bets 150
+green0805 folds
+titeufdu78 folds
+beberoro collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [4c 6d 7s 3s]
+Seat 9: beberoro won 210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #570460592796598815-3-1445195919 - Holdem no limit (15/30) - 2015/10/18 19:18:39 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #4 is the button
+Seat 1: pierredunord (3000)
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (2990)
+Seat 4: green0805 (2960)
+Seat 5: titeufdu78 (2960)
+Seat 6: jton57 (3000)
+Seat 7: Mrjeremya (3050)
+Seat 8: sabre_laser (3000)
+Seat 9: beberoro (3040)
+*** ANTE/BLINDS ***
+titeufdu78 posts small blind 15
+jton57 posts big blind 30
+Dealt to sabre_laser [Ah 5c]
+*** PRE-FLOP *** 
+Mrjeremya raises 3020 to 3050 and is all-in
+sabre_laser folds
+beberoro folds
+pierredunord calls 3000 and is all-in
+CELOU61 folds
+Raphiky313 folds
+green0805 folds
+titeufdu78 folds
+jton57 calls 2970 and is all-in
+*** FLOP *** [7c Qd 5d]
+*** TURN *** [7c Qd 5d][Ks]
+*** RIVER *** [7c Qd 5d Ks][9d]
+*** SHOW DOWN ***
+pierredunord shows [9c 9h] (Trips of 9)
+jton57 shows [As Qs] (One pair : Queens)
+Mrjeremya shows [Kd Kh] (Trips of Kings)
+Mrjeremya collected 9065 from pot
+*** SUMMARY ***
+Total pot 9065 | No rake
+Board: [7c Qd 5d Ks 9d]
+Seat 1: pierredunord showed [9c 9h] and lost with Trips of 9
+Seat 6: jton57 (big blind) showed [As Qs] and lost with One pair : Queens
+Seat 7: Mrjeremya showed [Kd Kh] and won 9065 with Trips of Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #570460592796598815-4-1445195971 - Holdem no limit (15/30) - 2015/10/18 19:19:31 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #5 is the button
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (2990)
+Seat 4: green0805 (2960)
+Seat 5: titeufdu78 (2945)
+Seat 7: Mrjeremya (9065)
+Seat 8: sabre_laser (3000)
+Seat 9: beberoro (3040)
+*** ANTE/BLINDS ***
+Mrjeremya posts big blind 30
+Dealt to sabre_laser [5s Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+beberoro calls 30
+CELOU61 folds
+Raphiky313 folds
+green0805 folds
+titeufdu78 folds
+Mrjeremya checks
+*** FLOP *** [9c 4h Th]
+Mrjeremya bets 30
+beberoro calls 30
+*** TURN *** [9c 4h Th][5c]
+Mrjeremya bets 30
+beberoro calls 30
+*** RIVER *** [9c 4h Th 5c][As]
+Mrjeremya bets 30
+beberoro calls 30
+*** SHOW DOWN ***
+beberoro shows [5h Js] (One pair : 5)
+Mrjeremya shows [7h Ts] (One pair : Tens)
+Mrjeremya collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9c 4h Th 5c As]
+Seat 7: Mrjeremya (big blind) showed [7h Ts] and won 240 with One pair : Tens
+Seat 9: beberoro showed [5h Js] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #570460592796598815-5-1445196000 - Holdem no limit (15/30) - 2015/10/18 19:20:00 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #6 is the button
+Seat 1: skud11150 (3000)
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (2990)
+Seat 4: green0805 (2960)
+Seat 5: titeufdu78 (2945)
+Seat 7: Mrjeremya (9185)
+Seat 8: sabre_laser (3000)
+Seat 9: beberoro (2920)
+*** ANTE/BLINDS ***
+Mrjeremya posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [4h 2d]
+*** PRE-FLOP *** 
+beberoro calls 30
+skud11150 calls 30
+CELOU61 folds
+Raphiky313 folds
+green0805 folds
+titeufdu78 calls 30
+Mrjeremya calls 15
+sabre_laser folds
+*** FLOP *** [Qd 5c 4c]
+Mrjeremya bets 30
+beberoro folds
+skud11150 calls 30
+titeufdu78 calls 30
+*** TURN *** [Qd 5c 4c][Kd]
+Mrjeremya bets 120
+skud11150 folds
+titeufdu78 calls 120
+*** RIVER *** [Qd 5c 4c Kd][Qs]
+Mrjeremya bets 480
+titeufdu78 folds
+Mrjeremya collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Qd 5c 4c Kd Qs]
+Seat 7: Mrjeremya (small blind) won 960
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #570460592796598815-6-1445196060 - Holdem no limit (15/30) - 2015/10/18 19:21:00 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #7 is the button
+Seat 1: skud11150 (2940)
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (2990)
+Seat 4: green0805 (2960)
+Seat 5: titeufdu78 (2765)
+Seat 6: caw59000_x (3000)
+Seat 7: Mrjeremya (9485)
+Seat 8: sabre_laser (2970)
+Seat 9: beberoro (2890)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+beberoro posts big blind 30
+Dealt to sabre_laser [6c 9c]
+*** PRE-FLOP *** 
+skud11150 folds
+CELOU61 folds
+Raphiky313 folds
+green0805 raises 2930 to 2960 and is all-in
+titeufdu78 folds
+caw59000_x folds
+Mrjeremya folds
+sabre_laser folds
+beberoro folds
+green0805 collected 3005 from pot
+*** SUMMARY ***
+Total pot 3005 | No rake
+Seat 4: green0805 won 3005
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #570460592796598815-7-1445196091 - Holdem no limit (20/40) - 2015/10/18 19:21:31 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #8 is the button
+Seat 1: skud11150 (2940)
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (2990)
+Seat 4: green0805 (3005)
+Seat 5: titeufdu78 (2765)
+Seat 6: caw59000_x (3000)
+Seat 7: Mrjeremya (9485)
+Seat 8: sabre_laser (2955)
+Seat 9: beberoro (2860)
+*** ANTE/BLINDS ***
+beberoro posts small blind 20
+skud11150 posts big blind 40
+Dealt to sabre_laser [5h Kc]
+*** PRE-FLOP *** 
+CELOU61 folds
+Raphiky313 raises 40 to 80
+green0805 calls 80
+titeufdu78 folds
+caw59000_x folds
+Mrjeremya calls 80
+sabre_laser folds
+beberoro calls 60
+skud11150 folds
+*** FLOP *** [Qd 3c 2d]
+beberoro checks
+Raphiky313 checks
+green0805 checks
+Mrjeremya bets 40
+beberoro calls 40
+Raphiky313 calls 40
+green0805 calls 40
+*** TURN *** [Qd 3c 2d][Ah]
+beberoro checks
+Raphiky313 bets 100
+green0805 calls 100
+Mrjeremya calls 100
+beberoro folds
+*** RIVER *** [Qd 3c 2d Ah][8s]
+Raphiky313 bets 410
+green0805 folds
+Mrjeremya folds
+Raphiky313 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Board: [Qd 3c 2d Ah 8s]
+Seat 3: Raphiky313 won 1230
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #570460592796598815-8-1445196180 - Holdem no limit (20/40) - 2015/10/18 19:23:00 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #9 is the button
+Seat 1: skud11150 (2900)
+Seat 2: CELOU61 (3000)
+Seat 3: Raphiky313 (3590)
+Seat 4: green0805 (2785)
+Seat 5: titeufdu78 (2765)
+Seat 6: caw59000_x (3000)
+Seat 7: Mrjeremya (9265)
+Seat 8: sabre_laser (2955)
+Seat 9: beberoro (2740)
+*** ANTE/BLINDS ***
+skud11150 posts small blind 20
+CELOU61 posts big blind 40
+Dealt to sabre_laser [8d Qs]
+*** PRE-FLOP *** 
+Raphiky313 raises 40 to 80
+green0805 folds
+titeufdu78 calls 80
+caw59000_x folds
+Mrjeremya folds
+sabre_laser folds
+beberoro calls 80
+skud11150 raises 2820 to 2900 and is all-in
+CELOU61 folds
+Raphiky313 folds
+titeufdu78 calls 2685 and is all-in
+beberoro folds
+*** FLOP *** [Ad Ah 6s]
+*** TURN *** [Ad Ah 6s][2d]
+*** RIVER *** [Ad Ah 6s 2d][7c]
+*** SHOW DOWN ***
+titeufdu78 shows [5c 5d] (Two pairs : Aces and 5)
+skud11150 shows [Kc Ac] (Trips of Aces)
+skud11150 collected 5865 from pot
+*** SUMMARY ***
+Total pot 5865 | No rake
+Board: [Ad Ah 6s 2d 7c]
+Seat 1: skud11150 (small blind) showed [Kc Ac] and won 5865 with Trips of Aces
+Seat 5: titeufdu78 showed [5c 5d] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #570460592796598815-9-1445196229 - Holdem no limit (20/40) - 2015/10/18 19:23:49 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #1 is the button
+Seat 1: skud11150 (5865)
+Seat 2: CELOU61 (2960)
+Seat 3: Raphiky313 (3510)
+Seat 4: green0805 (2785)
+Seat 6: caw59000_x (3000)
+Seat 7: Mrjeremya (9265)
+Seat 8: sabre_laser (2955)
+Seat 9: beberoro (2660)
+*** ANTE/BLINDS ***
+CELOU61 posts small blind 20
+Raphiky313 posts big blind 40
+Dealt to sabre_laser [Jd 3c]
+*** PRE-FLOP *** 
+green0805 calls 40
+caw59000_x folds
+Mrjeremya folds
+sabre_laser folds
+beberoro calls 40
+skud11150 calls 40
+CELOU61 folds
+Raphiky313 checks
+*** FLOP *** [6c 7c 2c]
+Raphiky313 checks
+green0805 checks
+beberoro bets 40
+skud11150 calls 40
+Raphiky313 calls 40
+green0805 calls 40
+*** TURN *** [6c 7c 2c][6d]
+Raphiky313 checks
+green0805 checks
+beberoro bets 40
+skud11150 calls 40
+Raphiky313 calls 40
+green0805 calls 40
+*** RIVER *** [6c 7c 2c 6d][9d]
+Raphiky313 checks
+green0805 checks
+beberoro bets 40
+skud11150 calls 40
+Raphiky313 calls 40
+green0805 calls 40
+*** SHOW DOWN ***
+skud11150 shows [8h 7h] (Two pairs : 7 and 6)
+Raphiky313 shows [Ah Td] (One pair : 6)
+beberoro shows [2h Js] (Two pairs : 6 and 2)
+green0805 shows [7d 9c] (Two pairs : 9 and 7)
+green0805 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [6c 7c 2c 6d 9d]
+Seat 1: skud11150 (button) showed [8h 7h] and lost with Two pairs : 7 and 6
+Seat 3: Raphiky313 (big blind) showed [Ah Td] and lost with One pair : 6
+Seat 4: green0805 showed [7d 9c] and won 660 with Two pairs : 9 and 7
+Seat 9: beberoro showed [2h Js] and lost with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #570460592796598815-10-1445196312 - Holdem no limit (30/60) - 2015/10/18 19:25:12 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #2 is the button
+Seat 1: skud11150 (5705)
+Seat 2: CELOU61 (2940)
+Seat 3: Raphiky313 (3350)
+Seat 4: green0805 (3285)
+Seat 5: swel (3000)
+Seat 6: caw59000_x (3000)
+Seat 7: Mrjeremya (9265)
+Seat 8: sabre_laser (2955)
+Seat 9: beberoro (2500)
+*** ANTE/BLINDS ***
+Raphiky313 posts small blind 30
+green0805 posts big blind 60
+Dealt to sabre_laser [9h 8h]
+*** PRE-FLOP *** 
+swel calls 60
+caw59000_x raises 90 to 150
+Mrjeremya calls 150
+sabre_laser folds
+beberoro calls 150
+skud11150 folds
+CELOU61 folds
+Raphiky313 calls 120
+green0805 calls 90
+swel calls 90
+*** FLOP *** [6d 7c 9s]
+Raphiky313 checks
+green0805 checks
+swel checks
+caw59000_x bets 1100
+Mrjeremya folds
+beberoro folds
+Raphiky313 folds
+green0805 folds
+swel folds
+caw59000_x collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [6d 7c 9s]
+Seat 6: caw59000_x won 2000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #570460592796598815-11-1445196451 - Holdem no limit (40/80) - 2015/10/18 19:27:31 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #3 is the button
+Seat 1: skud11150 (5705)
+Seat 2: CELOU61 (2940)
+Seat 3: Raphiky313 (3200)
+Seat 4: green0805 (3135)
+Seat 5: swel (2850)
+Seat 6: caw59000_x (3750)
+Seat 7: Mrjeremya (9115)
+Seat 8: sabre_laser (2955)
+Seat 9: beberoro (2350)
+*** ANTE/BLINDS ***
+green0805 posts small blind 40
+swel posts big blind 80
+Dealt to sabre_laser [Qs 8h]
+*** PRE-FLOP *** 
+caw59000_x folds
+Mrjeremya calls 80
+sabre_laser folds
+beberoro calls 80
+skud11150 calls 80
+CELOU61 folds
+Raphiky313 raises 3120 to 3200 and is all-in
+green0805 folds
+swel folds
+Mrjeremya folds
+beberoro folds
+skud11150 folds
+Raphiky313 collected 3560 from pot
+*** SUMMARY ***
+Total pot 3560 | No rake
+Seat 3: Raphiky313 (button) won 3560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #570460592796598815-12-1445196514 - Holdem no limit (40/80) - 2015/10/18 19:28:34 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #4 is the button
+Seat 1: skud11150 (5625)
+Seat 2: CELOU61 (2940)
+Seat 3: Raphiky313 (3560)
+Seat 4: green0805 (3095)
+Seat 5: swel (2770)
+Seat 6: caw59000_x (3750)
+Seat 7: Mrjeremya (9035)
+Seat 8: sabre_laser (2955)
+Seat 9: beberoro (2270)
+*** ANTE/BLINDS ***
+swel posts small blind 40
+caw59000_x posts big blind 80
+Dealt to sabre_laser [Jc Th]
+*** PRE-FLOP *** 
+Mrjeremya folds
+sabre_laser folds
+beberoro calls 80
+skud11150 folds
+CELOU61 folds
+Raphiky313 folds
+green0805 calls 80
+swel folds
+caw59000_x checks
+*** FLOP *** [9c Ac 3h]
+caw59000_x checks
+beberoro bets 280
+green0805 raises 2735 to 3015 and is all-in
+caw59000_x folds
+beberoro calls 1910 and is all-in
+*** TURN *** [9c Ac 3h][2h]
+*** RIVER *** [9c Ac 3h 2h][Kh]
+*** SHOW DOWN ***
+beberoro shows [Qs 9h] (One pair : 9)
+green0805 shows [Ah 2s] (Two pairs : Aces and 2)
+green0805 collected 5485 from pot
+*** SUMMARY ***
+Total pot 5485 | No rake
+Board: [9c Ac 3h 2h Kh]
+Seat 4: green0805 (button) showed [Ah 2s] and won 5485 with Two pairs : Aces and 2
+Seat 9: beberoro showed [Qs 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #570460592796598815-13-1445196593 - Holdem no limit (40/80) - 2015/10/18 19:29:53 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #5 is the button
+Seat 1: skud11150 (5625)
+Seat 2: CELOU61 (2940)
+Seat 3: Raphiky313 (3560)
+Seat 4: green0805 (5485)
+Seat 5: swel (2730)
+Seat 6: caw59000_x (3670)
+Seat 7: Mrjeremya (9035)
+Seat 8: sabre_laser (2955)
+*** ANTE/BLINDS ***
+caw59000_x posts small blind 40
+Mrjeremya posts big blind 80
+Dealt to sabre_laser [Kc Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+skud11150 folds
+CELOU61 folds
+Raphiky313 calls 80
+green0805 calls 80
+swel folds
+caw59000_x calls 40
+Mrjeremya raises 8955 to 9035 and is all-in
+Raphiky313 folds
+green0805 calls 5405 and is all-in
+caw59000_x folds
+*** FLOP *** [7s Qs 9s]
+*** TURN *** [7s Qs 9s][As]
+*** RIVER *** [7s Qs 9s As][Ac]
+*** SHOW DOWN ***
+green0805 shows [Tc Ah] (Trips of Aces)
+Mrjeremya shows [Qh Qd] (Full of Queens and Aces)
+Mrjeremya collected 14680 from pot
+*** SUMMARY ***
+Total pot 14680 | No rake
+Board: [7s Qs 9s As Ac]
+Seat 4: green0805 showed [Tc Ah] and lost with Trips of Aces
+Seat 7: Mrjeremya (big blind) showed [Qh Qd] and won 14680 with Full of Queens and Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #570460592796598815-14-1445196634 - Holdem no limit (60/120) - 2015/10/18 19:30:34 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #6 is the button
+Seat 1: skud11150 (5625)
+Seat 2: CELOU61 (2940)
+Seat 3: Raphiky313 (3480)
+Seat 5: swel (2730)
+Seat 6: caw59000_x (3590)
+Seat 7: Mrjeremya (14680)
+Seat 8: sabre_laser (2955)
+Seat 9: MinotDesBois (3000)
+*** ANTE/BLINDS ***
+Mrjeremya posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Jh Qh]
+*** PRE-FLOP *** 
+MinotDesBois folds
+skud11150 raises 300 to 420
+CELOU61 folds
+Raphiky313 folds
+swel calls 420
+caw59000_x folds
+Mrjeremya folds
+sabre_laser folds
+*** FLOP *** [Ad Ah 8s]
+skud11150 checks
+swel checks
+*** TURN *** [Ad Ah 8s][6h]
+skud11150 checks
+swel checks
+*** RIVER *** [Ad Ah 8s 6h][7c]
+skud11150 bets 1020
+swel folds
+skud11150 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [Ad Ah 8s 6h 7c]
+Seat 1: skud11150 won 2040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #570460592796598815-15-1445196704 - Holdem no limit (60/120) - 2015/10/18 19:31:44 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #7 is the button
+Seat 1: skud11150 (6225)
+Seat 2: CELOU61 (2940)
+Seat 3: Raphiky313 (3480)
+Seat 4: Speedbikeuse (3000)
+Seat 5: swel (2310)
+Seat 6: caw59000_x (3590)
+Seat 7: Mrjeremya (14620)
+Seat 8: sabre_laser (2835)
+Seat 9: MinotDesBois (3000)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+MinotDesBois posts big blind 120
+Dealt to sabre_laser [7s Ts]
+*** PRE-FLOP *** 
+skud11150 folds
+CELOU61 folds
+Raphiky313 folds
+Speedbikeuse folds
+swel calls 120
+caw59000_x calls 120
+Mrjeremya calls 120
+sabre_laser folds
+MinotDesBois checks
+*** FLOP *** [5d 2h Jd]
+MinotDesBois checks
+swel checks
+caw59000_x checks
+Mrjeremya checks
+*** TURN *** [5d 2h Jd][Td]
+MinotDesBois checks
+swel checks
+caw59000_x checks
+Mrjeremya checks
+*** RIVER *** [5d 2h Jd Td][Ks]
+MinotDesBois bets 120
+swel raises 120 to 240
+caw59000_x calls 240
+Mrjeremya folds
+MinotDesBois calls 120
+*** SHOW DOWN ***
+caw59000_x shows [8h Kh] (One pair : Kings)
+MinotDesBois shows [Qh Jh] (One pair : Jacks)
+swel shows [Qs Kd] (One pair : Kings)
+swel collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [5d 2h Jd Td Ks]
+Seat 5: swel showed [Qs Kd] and won 1260 with One pair : Kings
+Seat 6: caw59000_x showed [8h Kh] and lost with One pair : Kings
+Seat 9: MinotDesBois (big blind) showed [Qh Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #570460592796598815-16-1445196820 - Holdem no limit (10/60/120) - 2015/10/18 19:33:40 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #8 is the button
+Seat 1: skud11150 (6225)
+Seat 2: CELOU61 (2940)
+Seat 3: Raphiky313 (3480)
+Seat 4: Speedbikeuse (3000)
+Seat 5: swel (3210)
+Seat 6: caw59000_x (3230)
+Seat 7: Mrjeremya (14500)
+Seat 8: sabre_laser (2775)
+Seat 9: MinotDesBois (2640)
+*** ANTE/BLINDS ***
+MinotDesBois posts ante 10
+skud11150 posts ante 10
+CELOU61 posts ante 10
+Raphiky313 posts ante 10
+Speedbikeuse posts ante 10
+swel posts ante 10
+caw59000_x posts ante 10
+Mrjeremya posts ante 10
+sabre_laser posts ante 10
+MinotDesBois posts small blind 60
+skud11150 posts big blind 120
+Dealt to sabre_laser [2h Qc]
+*** PRE-FLOP *** 
+CELOU61 folds
+Raphiky313 folds
+Speedbikeuse folds
+swel folds
+caw59000_x calls 120
+Mrjeremya folds
+sabre_laser folds
+MinotDesBois calls 60
+skud11150 checks
+*** FLOP *** [Js Jh Ks]
+MinotDesBois checks
+skud11150 bets 120
+caw59000_x folds
+MinotDesBois calls 120
+*** TURN *** [Js Jh Ks][9h]
+MinotDesBois checks
+skud11150 bets 345
+MinotDesBois calls 345
+*** RIVER *** [Js Jh Ks 9h][Jc]
+MinotDesBois checks
+skud11150 checks
+*** SHOW DOWN ***
+skud11150 shows [6s 9s] (Full of Jacks and 9)
+MinotDesBois shows [Kh 6d] (Full of Jacks and Kings)
+MinotDesBois collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [Js Jh Ks 9h Jc]
+Seat 1: skud11150 (big blind) showed [6s 9s] and lost with Full of Jacks and 9
+Seat 9: MinotDesBois (small blind) showed [Kh 6d] and won 1380 with Full of Jacks and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #570460592796598815-17-1445196902 - Holdem no limit (10/60/120) - 2015/10/18 19:35:02 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #9 is the button
+Seat 1: skud11150 (5630)
+Seat 2: CELOU61 (2930)
+Seat 3: Raphiky313 (3470)
+Seat 4: Speedbikeuse (2990)
+Seat 5: swel (3200)
+Seat 6: caw59000_x (3100)
+Seat 7: Mrjeremya (14490)
+Seat 8: sabre_laser (2765)
+Seat 9: MinotDesBois (3425)
+*** ANTE/BLINDS ***
+skud11150 posts ante 10
+CELOU61 posts ante 10
+Raphiky313 posts ante 10
+Speedbikeuse posts ante 10
+swel posts ante 10
+caw59000_x posts ante 10
+Mrjeremya posts ante 10
+sabre_laser posts ante 10
+MinotDesBois posts ante 10
+skud11150 posts small blind 60
+CELOU61 posts big blind 120
+Dealt to sabre_laser [6h 3d]
+*** PRE-FLOP *** 
+Raphiky313 folds
+Speedbikeuse calls 120
+swel folds
+caw59000_x raises 120 to 240
+Mrjeremya folds
+sabre_laser folds
+MinotDesBois folds
+skud11150 calls 180
+CELOU61 folds
+Speedbikeuse calls 120
+*** FLOP *** [Kh 4c 6c]
+skud11150 bets 930
+Speedbikeuse calls 930
+caw59000_x folds
+*** TURN *** [Kh 4c 6c][3c]
+skud11150 bets 4450 and is all-in
+Speedbikeuse folds
+skud11150 collected 7240 from pot
+*** SUMMARY ***
+Total pot 7240 | No rake
+Board: [Kh 4c 6c 3c]
+Seat 1: skud11150 (small blind) won 7240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #570460592796598815-18-1445196991 - Holdem no limit (15/75/150) - 2015/10/18 19:36:31 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #1 is the button
+Seat 1: skud11150 (7240)
+Seat 2: CELOU61 (2800)
+Seat 3: Raphiky313 (3460)
+Seat 4: Speedbikeuse (1810)
+Seat 5: swel (3190)
+Seat 6: caw59000_x (2850)
+Seat 7: Mrjeremya (14480)
+Seat 8: sabre_laser (2755)
+Seat 9: MinotDesBois (3415)
+*** ANTE/BLINDS ***
+CELOU61 posts ante 15
+Raphiky313 posts ante 15
+skud11150 posts ante 15
+Speedbikeuse posts ante 15
+swel posts ante 15
+caw59000_x posts ante 15
+Mrjeremya posts ante 15
+sabre_laser posts ante 15
+MinotDesBois posts ante 15
+CELOU61 posts small blind 75
+Raphiky313 posts big blind 150
+Dealt to sabre_laser [Td As]
+*** PRE-FLOP *** 
+Speedbikeuse folds
+swel folds
+caw59000_x folds
+Mrjeremya calls 150
+sabre_laser raises 2590 to 2740 and is all-in
+MinotDesBois folds
+skud11150 folds
+CELOU61 folds
+Raphiky313 folds
+Mrjeremya calls 2590
+*** FLOP *** [2c 7d 8s]
+*** TURN *** [2c 7d 8s][6d]
+*** RIVER *** [2c 7d 8s 6d][Ac]
+*** SHOW DOWN ***
+Mrjeremya shows [Ad 5d] (One pair : Aces)
+sabre_laser shows [Td As] (One pair : Aces)
+sabre_laser collected 5840 from pot
+*** SUMMARY ***
+Total pot 5840 | No rake
+Board: [2c 7d 8s 6d Ac]
+Seat 7: Mrjeremya showed [Ad 5d] and lost with One pair : Aces
+Seat 8: sabre_laser showed [Td As] and won 5840 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #570460592796598815-19-1445197078 - Holdem no limit (15/75/150) - 2015/10/18 19:37:58 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #2 is the button
+Seat 1: skud11150 (7225)
+Seat 2: CELOU61 (2710)
+Seat 3: Raphiky313 (3295)
+Seat 4: Speedbikeuse (1795)
+Seat 5: swel (3175)
+Seat 6: caw59000_x (2835)
+Seat 7: Mrjeremya (11725)
+Seat 8: sabre_laser (5840)
+Seat 9: MinotDesBois (3400)
+*** ANTE/BLINDS ***
+Raphiky313 posts ante 15
+Speedbikeuse posts ante 15
+skud11150 posts ante 15
+CELOU61 posts ante 15
+swel posts ante 15
+caw59000_x posts ante 15
+Mrjeremya posts ante 15
+sabre_laser posts ante 15
+MinotDesBois posts ante 15
+Raphiky313 posts small blind 75
+Speedbikeuse posts big blind 150
+Dealt to sabre_laser [Tc Jd]
+*** PRE-FLOP *** 
+swel calls 150
+caw59000_x folds
+Mrjeremya raises 11560 to 11710 and is all-in
+sabre_laser folds
+MinotDesBois folds
+skud11150 folds
+CELOU61 folds
+Raphiky313 folds
+Speedbikeuse folds
+swel calls 3010 and is all-in
+*** FLOP *** [6s Kh Qc]
+*** TURN *** [6s Kh Qc][4d]
+*** RIVER *** [6s Kh Qc 4d][8s]
+*** SHOW DOWN ***
+swel shows [3d Ad] (High card : Ace)
+Mrjeremya shows [Js Jc] (One pair : Jacks)
+Mrjeremya collected 15230 from pot
+*** SUMMARY ***
+Total pot 15230 | No rake
+Board: [6s Kh Qc 4d 8s]
+Seat 5: swel showed [3d Ad] and lost with High card : Ace
+Seat 7: Mrjeremya showed [Js Jc] and won 15230 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #570460592796598815-20-1445197152 - Holdem no limit (15/75/150) - 2015/10/18 19:39:12 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #3 is the button
+Seat 1: skud11150 (7210)
+Seat 2: CELOU61 (2695)
+Seat 3: Raphiky313 (3205)
+Seat 4: Speedbikeuse (1630)
+Seat 6: caw59000_x (2820)
+Seat 7: Mrjeremya (15230)
+Seat 8: sabre_laser (5825)
+Seat 9: MinotDesBois (3385)
+*** ANTE/BLINDS ***
+Speedbikeuse posts ante 15
+caw59000_x posts ante 15
+skud11150 posts ante 15
+CELOU61 posts ante 15
+Raphiky313 posts ante 15
+Mrjeremya posts ante 15
+sabre_laser posts ante 15
+MinotDesBois posts ante 15
+Speedbikeuse posts small blind 75
+caw59000_x posts big blind 150
+Dealt to sabre_laser [Kd Js]
+*** PRE-FLOP *** 
+Mrjeremya raises 15065 to 15215 and is all-in
+sabre_laser folds
+MinotDesBois folds
+skud11150 folds
+CELOU61 folds
+Raphiky313 folds
+Speedbikeuse folds
+caw59000_x folds
+Mrjeremya collected 15560 from pot
+*** SUMMARY ***
+Total pot 15560 | No rake
+Seat 7: Mrjeremya won 15560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #570460592796598815-21-1445197195 - Holdem no limit (20/100/200) - 2015/10/18 19:39:55 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #4 is the button
+Seat 1: skud11150 (7195)
+Seat 2: CELOU61 (2680)
+Seat 3: Raphiky313 (3190)
+Seat 4: Speedbikeuse (1540)
+Seat 5: ProDJmika (2075)
+Seat 6: caw59000_x (2655)
+Seat 7: Mrjeremya (15560)
+Seat 8: sabre_laser (5810)
+Seat 9: MinotDesBois (3370)
+*** ANTE/BLINDS ***
+caw59000_x posts ante 20
+Mrjeremya posts ante 20
+skud11150 posts ante 20
+CELOU61 posts ante 20
+Raphiky313 posts ante 20
+Speedbikeuse posts ante 20
+sabre_laser posts ante 20
+MinotDesBois posts ante 20
+caw59000_x posts small blind 100
+Mrjeremya posts big blind 200
+Dealt to sabre_laser [Th 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+MinotDesBois folds
+skud11150 folds
+CELOU61 folds
+Raphiky313 calls 200
+Speedbikeuse folds
+caw59000_x calls 100
+Mrjeremya checks
+*** FLOP *** [2h 4h 9d]
+caw59000_x checks
+Mrjeremya checks
+Raphiky313 checks
+*** TURN *** [2h 4h 9d][Ah]
+caw59000_x bets 760
+Mrjeremya folds
+Raphiky313 folds
+caw59000_x collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [2h 4h 9d Ah]
+Seat 6: caw59000_x (small blind) won 1520
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #570460592796598815-22-1445197247 - Holdem no limit (20/100/200) - 2015/10/18 19:40:47 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #6 is the button
+Seat 1: skud11150 (7175)
+Seat 2: CELOU61 (2660)
+Seat 3: Raphiky313 (2970)
+Seat 4: Speedbikeuse (1520)
+Seat 5: ProDJmika (2075)
+Seat 6: caw59000_x (3195)
+Seat 7: Mrjeremya (15340)
+Seat 8: sabre_laser (5790)
+Seat 9: MinotDesBois (3350)
+*** ANTE/BLINDS ***
+Mrjeremya posts ante 20
+sabre_laser posts ante 20
+skud11150 posts ante 20
+CELOU61 posts ante 20
+Raphiky313 posts ante 20
+Speedbikeuse posts ante 20
+ProDJmika posts ante 20
+caw59000_x posts ante 20
+MinotDesBois posts ante 20
+Mrjeremya posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [8d Jh]
+*** PRE-FLOP *** 
+MinotDesBois folds
+skud11150 calls 200
+CELOU61 folds
+Raphiky313 raises 200 to 400
+Speedbikeuse folds
+ProDJmika calls 400
+caw59000_x folds
+Mrjeremya folds
+sabre_laser calls 200
+skud11150 calls 200
+*** FLOP *** [Ah Jc 3d]
+sabre_laser bets 940
+skud11150 calls 940
+Raphiky313 calls 940
+ProDJmika folds
+*** TURN *** [Ah Jc 3d][Js]
+sabre_laser checks
+skud11150 bets 4700
+Raphiky313 folds
+sabre_laser calls 4430 and is all-in
+*** RIVER *** [Ah Jc 3d Js][Ts]
+*** SHOW DOWN ***
+sabre_laser shows [8d Jh] (Trips of Jacks)
+skud11150 shows [2c As] (Two pairs : Aces and Jacks)
+skud11150 collected 270 from side pot 1
+sabre_laser collected 13560 from main pot
+*** SUMMARY ***
+Total pot 13830 | No rake
+Board: [Ah Jc 3d Js Ts]
+Seat 1: skud11150 showed [2c As] and won 270 with Two pairs : Aces and Jacks
+Seat 8: sabre_laser (big blind) showed [8d Jh] and won 13560 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #570460592796598815-23-1445197336 - Holdem no limit (20/100/200) - 2015/10/18 19:42:16 UTC
+Table: 'Freeroll(132820707)#0542' 9-max (real money) Seat #7 is the button
+Seat 1: skud11150 (1385)
+Seat 2: CELOU61 (2640)
+Seat 3: Raphiky313 (1610)
+Seat 4: Speedbikeuse (1500)
+Seat 5: ProDJmika (1655)
+Seat 6: caw59000_x (3175)
+Seat 7: Mrjeremya (15220)
+Seat 8: sabre_laser (13560)
+Seat 9: MinotDesBois (3330)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+MinotDesBois posts ante 20
+skud11150 posts ante 20
+CELOU61 posts ante 20
+Raphiky313 posts ante 20
+Speedbikeuse posts ante 20
+ProDJmika posts ante 20
+caw59000_x posts ante 20
+Mrjeremya posts ante 20
+sabre_laser posts small blind 100
+MinotDesBois posts big blind 200
+Dealt to sabre_laser [2s 3s]
+*** PRE-FLOP *** 
+skud11150 raises 1165 to 1365 and is all-in
+CELOU61 folds
+Raphiky313 folds
+Speedbikeuse folds
+ProDJmika folds
+caw59000_x folds
+Mrjeremya folds
+sabre_laser calls 1265
+MinotDesBois calls 1165
+*** FLOP *** [Ad Kh Js]
+sabre_laser checks
+MinotDesBois bets 1945 and is all-in
+sabre_laser folds
+*** TURN *** [Ad Kh Js][4s]
+*** RIVER *** [Ad Kh Js 4s][8h]
+*** SHOW DOWN ***
+skud11150 shows [3c Ts] (High card : Ace)
+MinotDesBois shows [Ah Tc] (One pair : Aces)
+MinotDesBois collected 6220 from pot
+*** SUMMARY ***
+Total pot 6220 | No rake
+Board: [Ad Kh Js 4s 8h]
+Seat 1: skud11150 showed [3c Ts] and lost with High card : Ace
+Seat 9: MinotDesBois (big blind) showed [Ah Tc] and won 6220 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #570460592796598589-25-1445197407 - Holdem no limit (25/125/250) - 2015/10/18 19:43:27 UTC
+Table: 'Freeroll(132820707)#0316' 9-max (real money) Seat #4 is the button
+Seat 1: kikiberni685 (2300)
+Seat 2: trelon (3700)
+Seat 3: pilou-31 (12790)
+Seat 4: sabre_laser (12175)
+Seat 5: zxflux (14403)
+Seat 6: dele12a (42142)
+Seat 8: dan91 (11643)
+Seat 9: Sanjuivani1 (2650)
+*** ANTE/BLINDS ***
+zxflux posts ante 25
+dele12a posts ante 25
+kikiberni685 posts ante 25
+trelon posts ante 25
+pilou-31 posts ante 25
+dan91 posts ante 25
+Sanjuivani1 posts ante 25
+zxflux posts small blind 125
+dele12a posts big blind 250
+*** PRE-FLOP *** 
+dan91 folds
+Sanjuivani1 folds
+kikiberni685 folds
+trelon calls 250
+pilou-31 folds
+zxflux calls 125
+dele12a raises 41867 to 42117 and is all-in
+trelon folds
+zxflux folds
+dele12a collected 42792 from pot
+*** SUMMARY ***
+Total pot 42792 | No rake
+Seat 6: dele12a (big blind) won 42792
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #570460592796598589-26-1445197444 - Holdem no limit (25/125/250) - 2015/10/18 19:44:04 UTC
+Table: 'Freeroll(132820707)#0316' 9-max (real money) Seat #5 is the button
+Seat 1: kikiberni685 (2275)
+Seat 2: trelon (3425)
+Seat 3: pilou-31 (12765)
+Seat 4: sabre_laser (12175)
+Seat 5: zxflux (14128)
+Seat 6: dele12a (42792)
+Seat 7: argos972 (2820)
+Seat 8: dan91 (11618)
+Seat 9: Sanjuivani1 (2625)
+*** ANTE/BLINDS ***
+dele12a posts ante 25
+argos972 posts ante 25
+kikiberni685 posts ante 25
+trelon posts ante 25
+pilou-31 posts ante 25
+sabre_laser posts ante 25
+zxflux posts ante 25
+dan91 posts ante 25
+Sanjuivani1 posts ante 25
+dele12a posts small blind 125
+argos972 posts big blind 250
+Dealt to sabre_laser [9d Ah]
+*** PRE-FLOP *** 
+dan91 folds
+Sanjuivani1 folds
+kikiberni685 folds
+trelon calls 250
+pilou-31 folds
+sabre_laser folds
+zxflux raises 1500 to 1750
+dele12a raises 41017 to 42767 and is all-in
+argos972 folds
+trelon folds
+zxflux calls 12353 and is all-in
+*** FLOP *** [6h Ts Jd]
+*** TURN *** [6h Ts Jd][Th]
+*** RIVER *** [6h Ts Jd Th][Kc]
+*** SHOW DOWN ***
+zxflux shows [5h 5c] (Two pairs : Tens and 5)
+dele12a shows [Kh Ad] (Two pairs : Kings and Tens)
+dele12a collected 57595 from pot
+*** SUMMARY ***
+Total pot 57595 | No rake
+Board: [6h Ts Jd Th Kc]
+Seat 5: zxflux (button) showed [5h 5c] and lost with Two pairs : Tens and 5
+Seat 6: dele12a (small blind) showed [Kh Ad] and won 57595 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #570460592796598589-27-1445197500 - Holdem no limit (25/125/250) - 2015/10/18 19:45:00 UTC
+Table: 'Freeroll(132820707)#0316' 9-max (real money) Seat #6 is the button
+Seat 1: kikiberni685 (2250)
+Seat 2: trelon (3150)
+Seat 3: pilou-31 (12740)
+Seat 4: sabre_laser (12150)
+Seat 6: dele12a (57595)
+Seat 7: argos972 (2545)
+Seat 8: dan91 (11593)
+Seat 9: Sanjuivani1 (2600)
+*** ANTE/BLINDS ***
+argos972 posts ante 25
+dan91 posts ante 25
+kikiberni685 posts ante 25
+trelon posts ante 25
+pilou-31 posts ante 25
+sabre_laser posts ante 25
+dele12a posts ante 25
+Sanjuivani1 posts ante 25
+argos972 posts small blind 125
+dan91 posts big blind 250
+Dealt to sabre_laser [Kd As]
+*** PRE-FLOP *** 
+Sanjuivani1 folds
+kikiberni685 folds
+trelon calls 250
+pilou-31 folds
+sabre_laser raises 11875 to 12125 and is all-in
+dele12a raises 45445 to 57570 and is all-in
+argos972 folds
+dan91 calls 11318 and is all-in
+trelon calls 2875 and is all-in
+*** FLOP *** [8c 5s 6d]
+*** TURN *** [8c 5s 6d][Jc]
+*** RIVER *** [8c 5s 6d Jc][9c]
+*** SHOW DOWN ***
+trelon shows [6c Th] (One pair : 6)
+sabre_laser shows [Kd As] (High card : Ace)
+dan91 shows [Qs Ah] (High card : Ace)
+dele12a shows [Jh Js] (Trips of Jacks)
+dele12a collected 84713 from pot
+*** SUMMARY ***
+Total pot 84713 | No rake
+Board: [8c 5s 6d Jc 9c]
+Seat 2: trelon showed [6c Th] and lost with One pair : 6
+Seat 4: sabre_laser showed [Kd As] and lost with High card : Ace
+Seat 6: dele12a (button) showed [Jh Js] and won 84713 with Trips of Jacks
+Seat 8: dan91 (big blind) showed [Qs Ah] and lost with High card : Ace
+
+

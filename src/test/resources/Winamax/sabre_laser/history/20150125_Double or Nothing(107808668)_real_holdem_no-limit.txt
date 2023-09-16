@@ -1,0 +1,2138 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463034703285321729-1-1422221196 - Holdem no limit (10/20) - 2015/01/25 21:26:36 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (1500)
+Seat 2: Razz22 (1500)
+Seat 3: sebluffy (1500)
+Seat 4: BAZOOKA-3 (1500)
+Seat 5: willis79 (1500)
+Seat 6: toulousain47 (1500)
+Seat 7: LABELLE VIE (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: G_ZU (1500)
+Seat 10: loupinggg38 (1500)
+*** ANTE/BLINDS ***
+willis79 posts small blind 10
+toulousain47 posts big blind 20
+Dealt to sabre_laser [Tc 8s]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+Razz22 folds
+sebluffy folds
+BAZOOKA-3 raises 1480 to 1500 and is all-in
+willis79 folds
+toulousain47 folds
+BAZOOKA-3 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 4: BAZOOKA-3 (button) won 1530
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463034703285321729-2-1422221238 - Holdem no limit (10/20) - 2015/01/25 21:27:18 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #5 is the button
+Seat 1: BartAlain (1500)
+Seat 2: Razz22 (1500)
+Seat 3: sebluffy (1500)
+Seat 4: BAZOOKA-3 (1530)
+Seat 5: willis79 (1490)
+Seat 6: toulousain47 (1480)
+Seat 7: LABELLE VIE (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: G_ZU (1500)
+Seat 10: loupinggg38 (1500)
+*** ANTE/BLINDS ***
+toulousain47 posts small blind 10
+LABELLE VIE posts big blind 20
+Dealt to sabre_laser [4c 4h]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+Razz22 folds
+sebluffy folds
+BAZOOKA-3 folds
+willis79 folds
+toulousain47 folds
+LABELLE VIE checks
+*** FLOP *** [2c Qc Th]
+LABELLE VIE checks
+sabre_laser bets 20
+LABELLE VIE calls 20
+*** TURN *** [2c Qc Th][9d]
+LABELLE VIE checks
+sabre_laser checks
+*** RIVER *** [2c Qc Th 9d][9h]
+LABELLE VIE bets 335
+sabre_laser folds
+LABELLE VIE collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Board: [2c Qc Th 9d 9h]
+Seat 7: LABELLE VIE (big blind) won 425
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463034703285321729-3-1422221298 - Holdem no limit (10/20) - 2015/01/25 21:28:18 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (1500)
+Seat 2: Razz22 (1500)
+Seat 3: sebluffy (1500)
+Seat 4: BAZOOKA-3 (1530)
+Seat 5: willis79 (1490)
+Seat 6: toulousain47 (1470)
+Seat 7: LABELLE VIE (1550)
+Seat 8: sabre_laser (1460)
+Seat 9: G_ZU (1500)
+Seat 10: loupinggg38 (1500)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2d 3c]
+*** PRE-FLOP *** 
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+Razz22 folds
+sebluffy raises 120 to 140
+BAZOOKA-3 folds
+willis79 folds
+toulousain47 calls 140
+LABELLE VIE folds
+sabre_laser folds
+*** FLOP *** [8c 5s Kh]
+sebluffy checks
+toulousain47 checks
+*** TURN *** [8c 5s Kh][5c]
+sebluffy bets 100
+toulousain47 folds
+sebluffy collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [8c 5s Kh 5c]
+Seat 3: sebluffy won 410
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463034703285321729-4-1422221388 - Holdem no limit (10/20) - 2015/01/25 21:29:48 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (1500)
+Seat 2: Razz22 (1500)
+Seat 3: sebluffy (1670)
+Seat 4: BAZOOKA-3 (1530)
+Seat 5: willis79 (1490)
+Seat 6: toulousain47 (1330)
+Seat 7: LABELLE VIE (1540)
+Seat 8: sabre_laser (1440)
+Seat 9: G_ZU (1500)
+Seat 10: loupinggg38 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+G_ZU posts big blind 20
+Dealt to sabre_laser [2c Qd]
+*** PRE-FLOP *** 
+loupinggg38 folds
+BartAlain folds
+Razz22 raises 40 to 60
+sebluffy calls 60
+BAZOOKA-3 calls 60
+willis79 calls 60
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser calls 50
+G_ZU folds
+*** FLOP *** [Ah 8d 4s]
+sabre_laser checks
+Razz22 bets 320
+sebluffy calls 320
+BAZOOKA-3 folds
+willis79 calls 320
+sabre_laser folds
+*** TURN *** [Ah 8d 4s][Td]
+Razz22 bets 1120 and is all-in
+sebluffy calls 1120
+willis79 calls 1110 and is all-in
+*** RIVER *** [Ah 8d 4s Td][3s]
+*** SHOW DOWN ***
+Razz22 shows [Ks Ac] (One pair : Aces)
+willis79 shows [Ad Js] (One pair : Aces)
+sebluffy shows [As Th] (Two pairs : Aces and Tens)
+sebluffy collected 4630 from pot
+*** SUMMARY ***
+Total pot 4630 | No rake
+Board: [Ah 8d 4s Td 3s]
+Seat 2: Razz22 showed [Ks Ac] and lost with One pair : Aces
+Seat 3: sebluffy showed [As Th] and won 4630 with Two pairs : Aces and Tens
+Seat 5: willis79 showed [Ad Js] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463034703285321729-5-1422221524 - Holdem no limit (10/20) - 2015/01/25 21:32:04 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (1500)
+Seat 3: sebluffy (4800)
+Seat 4: BAZOOKA-3 (1470)
+Seat 6: toulousain47 (1330)
+Seat 7: LABELLE VIE (1540)
+Seat 8: sabre_laser (1380)
+Seat 9: G_ZU (1480)
+Seat 10: loupinggg38 (1500)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 10
+loupinggg38 posts big blind 20
+Dealt to sabre_laser [As Jd]
+*** PRE-FLOP *** 
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 raises 1450 to 1470 and is all-in
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BAZOOKA-3 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 4: BAZOOKA-3 won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463034703285321729-6-1422221562 - Holdem no limit (15/30) - 2015/01/25 21:32:42 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BartAlain (1500)
+Seat 3: sebluffy (4800)
+Seat 4: BAZOOKA-3 (1500)
+Seat 6: toulousain47 (1330)
+Seat 7: LABELLE VIE (1540)
+Seat 8: sabre_laser (1380)
+Seat 9: G_ZU (1470)
+Seat 10: loupinggg38 (1480)
+*** ANTE/BLINDS ***
+loupinggg38 posts small blind 15
+BartAlain posts big blind 30
+Dealt to sabre_laser [4h 2h]
+*** PRE-FLOP *** 
+sebluffy calls 30
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain checks
+*** FLOP *** [7c 6h 2c]
+BartAlain checks
+sebluffy bets 105
+BartAlain calls 105
+*** TURN *** [7c 6h 2c][5c]
+BartAlain checks
+sebluffy bets 150
+BartAlain folds
+sebluffy collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [7c 6h 2c 5c]
+Seat 3: sebluffy won 435
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463034703285321729-7-1422221622 - Holdem no limit (15/30) - 2015/01/25 21:33:42 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #10 is the button
+Seat 1: BartAlain (1365)
+Seat 3: sebluffy (4950)
+Seat 4: BAZOOKA-3 (1500)
+Seat 6: toulousain47 (1330)
+Seat 7: LABELLE VIE (1540)
+Seat 8: sabre_laser (1380)
+Seat 9: G_ZU (1470)
+Seat 10: loupinggg38 (1465)
+*** ANTE/BLINDS ***
+BartAlain posts small blind 15
+sebluffy posts big blind 30
+Dealt to sabre_laser [2h Qs]
+*** PRE-FLOP *** 
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain calls 15
+sebluffy checks
+*** FLOP *** [5s 9s Qd]
+BartAlain checks
+sebluffy checks
+*** TURN *** [5s 9s Qd][Kh]
+BartAlain checks
+sebluffy checks
+*** RIVER *** [5s 9s Qd Kh][6h]
+BartAlain bets 30
+sebluffy calls 30
+*** SHOW DOWN ***
+sebluffy shows [9h 2c] (One pair : 9)
+BartAlain shows [Jh Td] (Straight King high)
+BartAlain collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5s 9s Qd Kh 6h]
+Seat 1: BartAlain (small blind) showed [Jh Td] and won 120 with Straight King high
+Seat 3: sebluffy (big blind) showed [9h 2c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463034703285321729-8-1422221661 - Holdem no limit (15/30) - 2015/01/25 21:34:21 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BartAlain (1425)
+Seat 3: sebluffy (4890)
+Seat 4: BAZOOKA-3 (1500)
+Seat 6: toulousain47 (1330)
+Seat 7: LABELLE VIE (1540)
+Seat 8: sabre_laser (1380)
+Seat 9: G_ZU (1470)
+Seat 10: loupinggg38 (1465)
+*** ANTE/BLINDS ***
+sebluffy posts small blind 15
+BAZOOKA-3 posts big blind 30
+Dealt to sabre_laser [Jc 6s]
+*** PRE-FLOP *** 
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+sebluffy calls 15
+BAZOOKA-3 checks
+*** FLOP *** [Td Qd 8c]
+sebluffy checks
+BAZOOKA-3 checks
+*** TURN *** [Td Qd 8c][Ad]
+sebluffy checks
+BAZOOKA-3 checks
+*** RIVER *** [Td Qd 8c Ad][Qh]
+sebluffy checks
+BAZOOKA-3 checks
+*** SHOW DOWN ***
+BAZOOKA-3 shows [5c Kh] (One pair : Queens)
+sebluffy shows [2c 2s] (Two pairs : Queens and 2)
+sebluffy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Td Qd 8c Ad Qh]
+Seat 3: sebluffy (small blind) showed [2c 2s] and won 60 with Two pairs : Queens and 2
+Seat 4: BAZOOKA-3 (big blind) showed [5c Kh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463034703285321729-9-1422221700 - Holdem no limit (15/30) - 2015/01/25 21:35:00 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #3 is the button
+Seat 1: BartAlain (1425)
+Seat 3: sebluffy (4920)
+Seat 4: BAZOOKA-3 (1470)
+Seat 6: toulousain47 (1330)
+Seat 7: LABELLE VIE (1540)
+Seat 8: sabre_laser (1380)
+Seat 9: G_ZU (1470)
+Seat 10: loupinggg38 (1465)
+*** ANTE/BLINDS ***
+BAZOOKA-3 posts small blind 15
+toulousain47 posts big blind 30
+Dealt to sabre_laser [Qc 7d]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain calls 30
+sebluffy calls 30
+BAZOOKA-3 calls 15
+toulousain47 checks
+*** FLOP *** [6h 4h 8c]
+BAZOOKA-3 checks
+toulousain47 checks
+BartAlain checks
+sebluffy checks
+*** TURN *** [6h 4h 8c][Kc]
+BAZOOKA-3 checks
+toulousain47 checks
+BartAlain checks
+sebluffy bets 90
+BAZOOKA-3 folds
+toulousain47 folds
+BartAlain folds
+sebluffy collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [6h 4h 8c Kc]
+Seat 3: sebluffy (button) won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463034703285321729-10-1422221772 - Holdem no limit (15/30) - 2015/01/25 21:36:12 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (1395)
+Seat 3: sebluffy (5010)
+Seat 4: BAZOOKA-3 (1440)
+Seat 6: toulousain47 (1300)
+Seat 7: LABELLE VIE (1540)
+Seat 8: sabre_laser (1380)
+Seat 9: G_ZU (1470)
+Seat 10: loupinggg38 (1465)
+*** ANTE/BLINDS ***
+toulousain47 posts small blind 15
+LABELLE VIE posts big blind 30
+Dealt to sabre_laser [Tc Qs]
+*** PRE-FLOP *** 
+sabre_laser raises 45 to 75
+G_ZU folds
+loupinggg38 folds
+BartAlain calls 75
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+*** FLOP *** [Kd 9s 6s]
+sabre_laser bets 146
+BartAlain raises 1174 to 1320 and is all-in
+sabre_laser folds
+BartAlain collected 1661 from pot
+*** SUMMARY ***
+Total pot 1661 | No rake
+Board: [Kd 9s 6s]
+Seat 1: BartAlain won 1661
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463034703285321729-11-1422221836 - Holdem no limit (15/30) - 2015/01/25 21:37:16 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (1661)
+Seat 3: sebluffy (5010)
+Seat 4: BAZOOKA-3 (1440)
+Seat 6: toulousain47 (1285)
+Seat 7: LABELLE VIE (1510)
+Seat 8: sabre_laser (1159)
+Seat 9: G_ZU (1470)
+Seat 10: loupinggg38 (1465)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [6c 8d]
+*** PRE-FLOP *** 
+G_ZU raises 1440 to 1470 and is all-in
+loupinggg38 folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU collected 1515 from pot
+*** SUMMARY ***
+Total pot 1515 | No rake
+Seat 9: G_ZU won 1515
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463034703285321729-12-1422221860 - Holdem no limit (15/30) - 2015/01/25 21:37:40 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (1661)
+Seat 3: sebluffy (5010)
+Seat 4: BAZOOKA-3 (1440)
+Seat 6: toulousain47 (1285)
+Seat 7: LABELLE VIE (1495)
+Seat 8: sabre_laser (1129)
+Seat 9: G_ZU (1515)
+Seat 10: loupinggg38 (1465)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+G_ZU posts big blind 30
+Dealt to sabre_laser [2d Kd]
+*** PRE-FLOP *** 
+loupinggg38 folds
+BartAlain folds
+sebluffy calls 30
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser calls 15
+G_ZU checks
+*** FLOP *** [4d Ac 5s]
+sabre_laser checks
+G_ZU checks
+sebluffy bets 105
+sabre_laser folds
+G_ZU folds
+sebluffy collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [4d Ac 5s]
+Seat 3: sebluffy won 195
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463034703285321729-13-1422221942 - Holdem no limit (20/40) - 2015/01/25 21:39:02 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (1661)
+Seat 3: sebluffy (5070)
+Seat 4: BAZOOKA-3 (1440)
+Seat 6: toulousain47 (1285)
+Seat 7: LABELLE VIE (1495)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1485)
+Seat 10: loupinggg38 (1465)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 20
+loupinggg38 posts big blind 40
+Dealt to sabre_laser [4d 6d]
+*** PRE-FLOP *** 
+BartAlain calls 40
+sebluffy folds
+BAZOOKA-3 calls 40
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 checks
+*** FLOP *** [8h 7d Qh]
+loupinggg38 checks
+BartAlain checks
+BAZOOKA-3 bets 140
+loupinggg38 folds
+BartAlain folds
+BAZOOKA-3 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [8h 7d Qh]
+Seat 4: BAZOOKA-3 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463034703285321729-14-1422222024 - Holdem no limit (20/40) - 2015/01/25 21:40:24 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BartAlain (1621)
+Seat 3: sebluffy (5070)
+Seat 4: BAZOOKA-3 (1540)
+Seat 6: toulousain47 (1285)
+Seat 7: LABELLE VIE (1495)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1465)
+Seat 10: loupinggg38 (1425)
+*** ANTE/BLINDS ***
+loupinggg38 posts small blind 20
+BartAlain posts big blind 40
+Dealt to sabre_laser [Qh 5s]
+*** PRE-FLOP *** 
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: BartAlain (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463034703285321729-15-1422222065 - Holdem no limit (20/40) - 2015/01/25 21:41:05 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #10 is the button
+Seat 1: BartAlain (1641)
+Seat 3: sebluffy (5070)
+Seat 4: BAZOOKA-3 (1540)
+Seat 6: toulousain47 (1285)
+Seat 7: LABELLE VIE (1495)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1465)
+Seat 10: loupinggg38 (1405)
+*** ANTE/BLINDS ***
+BartAlain posts small blind 20
+sebluffy posts big blind 40
+Dealt to sabre_laser [Qh 9d]
+*** PRE-FLOP *** 
+BAZOOKA-3 folds
+toulousain47 calls 40
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain calls 20
+sebluffy checks
+*** FLOP *** [8h 4s 9h]
+BartAlain bets 40
+sebluffy calls 40
+toulousain47 folds
+*** TURN *** [8h 4s 9h][7h]
+BartAlain bets 40
+sebluffy raises 140 to 180
+BartAlain calls 140
+*** RIVER *** [8h 4s 9h 7h][Kd]
+BartAlain checks
+sebluffy bets 240
+BartAlain calls 240
+*** SHOW DOWN ***
+BartAlain shows [9s 8s] (Two pairs : 9 and 8)
+sebluffy shows [Th 4h] (Flush Ten high)
+sebluffy collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [8h 4s 9h 7h Kd]
+Seat 1: BartAlain (small blind) showed [9s 8s] and lost with Two pairs : 9 and 8
+Seat 3: sebluffy (big blind) showed [Th 4h] and won 1040 with Flush Ten high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463034703285321729-16-1422222142 - Holdem no limit (20/40) - 2015/01/25 21:42:22 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BartAlain (1141)
+Seat 3: sebluffy (5610)
+Seat 4: BAZOOKA-3 (1540)
+Seat 6: toulousain47 (1245)
+Seat 7: LABELLE VIE (1495)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1465)
+Seat 10: loupinggg38 (1405)
+*** ANTE/BLINDS ***
+sebluffy posts small blind 20
+BAZOOKA-3 posts big blind 40
+Dealt to sabre_laser [Qc 8h]
+*** PRE-FLOP *** 
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+sebluffy calls 20
+BAZOOKA-3 checks
+*** FLOP *** [Qs Jd 3s]
+sebluffy checks
+BAZOOKA-3 checks
+*** TURN *** [Qs Jd 3s][8d]
+sebluffy checks
+BAZOOKA-3 checks
+*** RIVER *** [Qs Jd 3s 8d][7d]
+sebluffy checks
+BAZOOKA-3 checks
+*** SHOW DOWN ***
+BAZOOKA-3 shows [Kc 5h] (High card : King)
+sebluffy shows [6s 6h] (One pair : 6)
+sebluffy collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qs Jd 3s 8d 7d]
+Seat 3: sebluffy (small blind) showed [6s 6h] and won 80 with One pair : 6
+Seat 4: BAZOOKA-3 (big blind) showed [Kc 5h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463034703285321729-17-1422222185 - Holdem no limit (20/40) - 2015/01/25 21:43:05 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #3 is the button
+Seat 1: BartAlain (1141)
+Seat 3: sebluffy (5650)
+Seat 4: BAZOOKA-3 (1500)
+Seat 6: toulousain47 (1245)
+Seat 7: LABELLE VIE (1495)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1465)
+Seat 10: loupinggg38 (1405)
+*** ANTE/BLINDS ***
+BAZOOKA-3 posts small blind 20
+toulousain47 posts big blind 40
+Dealt to sabre_laser [Ts 7s]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU raises 1425 to 1465 and is all-in
+loupinggg38 folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+G_ZU collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Seat 9: G_ZU won 1525
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463034703285321729-18-1422222219 - Holdem no limit (20/40) - 2015/01/25 21:43:39 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (1141)
+Seat 3: sebluffy (5650)
+Seat 4: BAZOOKA-3 (1480)
+Seat 6: toulousain47 (1205)
+Seat 7: LABELLE VIE (1495)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1525)
+Seat 10: loupinggg38 (1405)
+*** ANTE/BLINDS ***
+toulousain47 posts small blind 20
+LABELLE VIE posts big blind 40
+Dealt to sabre_laser [Th Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+sebluffy calls 40
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE checks
+*** FLOP *** [Tc Qc 8s]
+LABELLE VIE checks
+sebluffy checks
+*** TURN *** [Tc Qc 8s][8c]
+LABELLE VIE checks
+sebluffy checks
+*** RIVER *** [Tc Qc 8s 8c][Ac]
+LABELLE VIE checks
+sebluffy checks
+*** SHOW DOWN ***
+sebluffy shows [9d As] (Two pairs : Aces and 8)
+LABELLE VIE shows [7d 7c] (Flush Ace high)
+LABELLE VIE collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Tc Qc 8s 8c Ac]
+Seat 3: sebluffy showed [9d As] and lost with Two pairs : Aces and 8
+Seat 7: LABELLE VIE (big blind) showed [7d 7c] and won 100 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #463034703285321729-19-1422222291 - Holdem no limit (30/60) - 2015/01/25 21:44:51 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (1141)
+Seat 3: sebluffy (5610)
+Seat 4: BAZOOKA-3 (1480)
+Seat 6: toulousain47 (1185)
+Seat 7: LABELLE VIE (1555)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1525)
+Seat 10: loupinggg38 (1405)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [8c 3d]
+*** PRE-FLOP *** 
+G_ZU folds
+loupinggg38 folds
+BartAlain calls 60
+sebluffy calls 60
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser checks
+*** FLOP *** [Th 5d Jc]
+sabre_laser checks
+BartAlain bets 120
+sebluffy calls 120
+sabre_laser folds
+*** TURN *** [Th 5d Jc][Kc]
+BartAlain bets 961 and is all-in
+sebluffy folds
+BartAlain collected 1411 from pot
+*** SUMMARY ***
+Total pot 1411 | No rake
+Board: [Th 5d Jc Kc]
+Seat 1: BartAlain won 1411
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #463034703285321729-20-1422222366 - Holdem no limit (30/60) - 2015/01/25 21:46:06 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (1411)
+Seat 3: sebluffy (5430)
+Seat 4: BAZOOKA-3 (1480)
+Seat 6: toulousain47 (1185)
+Seat 7: LABELLE VIE (1525)
+Seat 8: sabre_laser (1039)
+Seat 9: G_ZU (1525)
+Seat 10: loupinggg38 (1405)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+G_ZU posts big blind 60
+Dealt to sabre_laser [5s Ah]
+*** PRE-FLOP *** 
+loupinggg38 folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser raises 60 to 120
+G_ZU folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: sabre_laser (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #463034703285321729-21-1422222415 - Holdem no limit (30/60) - 2015/01/25 21:46:55 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (1411)
+Seat 3: sebluffy (5430)
+Seat 4: BAZOOKA-3 (1480)
+Seat 6: toulousain47 (1185)
+Seat 7: LABELLE VIE (1525)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1465)
+Seat 10: loupinggg38 (1405)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 30
+loupinggg38 posts big blind 60
+Dealt to sabre_laser [7c 5c]
+*** PRE-FLOP *** 
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 raises 1420 to 1480 and is all-in
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BAZOOKA-3 collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Seat 4: BAZOOKA-3 won 1570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #463034703285321729-22-1422222460 - Holdem no limit (30/60) - 2015/01/25 21:47:40 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BartAlain (1411)
+Seat 3: sebluffy (5430)
+Seat 4: BAZOOKA-3 (1570)
+Seat 6: toulousain47 (1185)
+Seat 7: LABELLE VIE (1525)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1435)
+Seat 10: loupinggg38 (1345)
+*** ANTE/BLINDS ***
+loupinggg38 posts small blind 30
+BartAlain posts big blind 60
+Dealt to sabre_laser [Qc 6h]
+*** PRE-FLOP *** 
+sebluffy folds
+BAZOOKA-3 calls 60
+toulousain47 calls 60
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain checks
+*** FLOP *** [9h Tc Jc]
+BartAlain checks
+BAZOOKA-3 bets 210
+toulousain47 raises 915 to 1125 and is all-in
+BartAlain folds
+BAZOOKA-3 calls 915
+*** TURN *** [9h Tc Jc][Ah]
+*** RIVER *** [9h Tc Jc Ah][Ts]
+*** SHOW DOWN ***
+BAZOOKA-3 shows [Jd Qd] (Two pairs : Jacks and Tens)
+toulousain47 shows [Qs Kh] (Straight Ace high)
+toulousain47 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [9h Tc Jc Ah Ts]
+Seat 4: BAZOOKA-3 showed [Jd Qd] and lost with Two pairs : Jacks and Tens
+Seat 6: toulousain47 showed [Qs Kh] and won 2460 with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #463034703285321729-23-1422222544 - Holdem no limit (30/60) - 2015/01/25 21:49:04 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #10 is the button
+Seat 1: BartAlain (1351)
+Seat 3: sebluffy (5430)
+Seat 4: BAZOOKA-3 (385)
+Seat 6: toulousain47 (2460)
+Seat 7: LABELLE VIE (1525)
+Seat 8: sabre_laser (1099)
+Seat 9: G_ZU (1435)
+Seat 10: loupinggg38 (1315)
+*** ANTE/BLINDS ***
+BartAlain posts small blind 30
+sebluffy posts big blind 60
+Dealt to sabre_laser [6c Ks]
+*** PRE-FLOP *** 
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser raises 90 to 150
+G_ZU folds
+loupinggg38 calls 150
+BartAlain calls 120
+sebluffy calls 90
+*** FLOP *** [3s Qh 4h]
+BartAlain checks
+sebluffy checks
+sabre_laser bets 210
+loupinggg38 folds
+BartAlain folds
+sebluffy folds
+sabre_laser collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [3s Qh 4h]
+Seat 8: sabre_laser won 810
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #463034703285321729-24-1422222626 - Holdem no limit (30/60) - 2015/01/25 21:50:26 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BartAlain (1201)
+Seat 3: sebluffy (5280)
+Seat 4: BAZOOKA-3 (385)
+Seat 6: toulousain47 (2460)
+Seat 7: LABELLE VIE (1525)
+Seat 8: sabre_laser (1549)
+Seat 9: G_ZU (1435)
+Seat 10: loupinggg38 (1165)
+*** ANTE/BLINDS ***
+sebluffy posts small blind 30
+BAZOOKA-3 posts big blind 60
+Dealt to sabre_laser [2d Js]
+*** PRE-FLOP *** 
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 raises 60 to 120
+BartAlain folds
+sebluffy calls 90
+BAZOOKA-3 calls 60
+*** FLOP *** [4d 2c Jh]
+sebluffy checks
+BAZOOKA-3 bets 265 and is all-in
+loupinggg38 calls 265
+sebluffy folds
+*** TURN *** [4d 2c Jh][Th]
+*** RIVER *** [4d 2c Jh Th][8s]
+*** SHOW DOWN ***
+loupinggg38 shows [5s 5d] (One pair : 5)
+BAZOOKA-3 shows [Jc 6h] (One pair : Jacks)
+BAZOOKA-3 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [4d 2c Jh Th 8s]
+Seat 4: BAZOOKA-3 (big blind) showed [Jc 6h] and won 890 with One pair : Jacks
+Seat 10: loupinggg38 showed [5s 5d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #463034703285321729-25-1422222668 - Holdem no limit (40/80) - 2015/01/25 21:51:08 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #3 is the button
+Seat 1: BartAlain (1201)
+Seat 3: sebluffy (5160)
+Seat 4: BAZOOKA-3 (890)
+Seat 6: toulousain47 (2460)
+Seat 7: LABELLE VIE (1525)
+Seat 8: sabre_laser (1549)
+Seat 9: G_ZU (1435)
+Seat 10: loupinggg38 (780)
+*** ANTE/BLINDS ***
+BAZOOKA-3 posts small blind 40
+toulousain47 posts big blind 80
+Dealt to sabre_laser [Jh 2c]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+sebluffy calls 80
+BAZOOKA-3 calls 40
+toulousain47 checks
+*** FLOP *** [4h 6c Ks]
+BAZOOKA-3 checks
+toulousain47 checks
+sebluffy checks
+*** TURN *** [4h 6c Ks][9h]
+BAZOOKA-3 checks
+toulousain47 checks
+sebluffy checks
+*** RIVER *** [4h 6c Ks 9h][2s]
+BAZOOKA-3 checks
+toulousain47 checks
+sebluffy checks
+*** SHOW DOWN ***
+sebluffy shows [Jc 5c] (High card : King)
+BAZOOKA-3 shows [9s 7d] (One pair : 9)
+toulousain47 shows [Qd 9d] (One pair : 9)
+toulousain47 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4h 6c Ks 9h 2s]
+Seat 3: sebluffy (button) showed [Jc 5c] and lost with High card : King
+Seat 4: BAZOOKA-3 (small blind) showed [9s 7d] and lost with One pair : 9
+Seat 6: toulousain47 (big blind) showed [Qd 9d] and won 240 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #463034703285321729-26-1422222751 - Holdem no limit (40/80) - 2015/01/25 21:52:31 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (1201)
+Seat 3: sebluffy (5080)
+Seat 4: BAZOOKA-3 (810)
+Seat 6: toulousain47 (2620)
+Seat 7: LABELLE VIE (1525)
+Seat 8: sabre_laser (1549)
+Seat 9: G_ZU (1435)
+Seat 10: loupinggg38 (780)
+*** ANTE/BLINDS ***
+toulousain47 posts small blind 40
+LABELLE VIE posts big blind 80
+Dealt to sabre_laser [Kh Ad]
+*** PRE-FLOP *** 
+sabre_laser raises 80 to 160
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+sebluffy calls 160
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE calls 80
+*** FLOP *** [2h Kd 9s]
+LABELLE VIE checks
+sabre_laser checks
+sebluffy checks
+*** TURN *** [2h Kd 9s][Td]
+LABELLE VIE checks
+sabre_laser bets 200
+sebluffy calls 200
+LABELLE VIE folds
+*** RIVER *** [2h Kd 9s Td][9c]
+sabre_laser bets 200
+sebluffy folds
+sabre_laser collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [2h Kd 9s Td 9c]
+Seat 8: sabre_laser won 1120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #463034703285321729-27-1422222842 - Holdem no limit (40/80) - 2015/01/25 21:54:02 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (1201)
+Seat 3: sebluffy (4720)
+Seat 4: BAZOOKA-3 (810)
+Seat 6: toulousain47 (2580)
+Seat 7: LABELLE VIE (1365)
+Seat 8: sabre_laser (2109)
+Seat 9: G_ZU (1435)
+Seat 10: loupinggg38 (780)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [2d 5h]
+*** PRE-FLOP *** 
+G_ZU folds
+loupinggg38 folds
+BartAlain calls 80
+sebluffy folds
+BAZOOKA-3 raises 730 to 810 and is all-in
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+BartAlain folds
+BAZOOKA-3 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Seat 4: BAZOOKA-3 won 1010
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #463034703285321729-28-1422222869 - Holdem no limit (40/80) - 2015/01/25 21:54:29 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (1121)
+Seat 3: sebluffy (4720)
+Seat 4: BAZOOKA-3 (1010)
+Seat 6: toulousain47 (2580)
+Seat 7: LABELLE VIE (1325)
+Seat 8: sabre_laser (2029)
+Seat 9: G_ZU (1435)
+Seat 10: loupinggg38 (780)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+G_ZU posts big blind 80
+Dealt to sabre_laser [Kd Ad]
+*** PRE-FLOP *** 
+loupinggg38 folds
+BartAlain raises 160 to 240
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser raises 1789 to 2029 and is all-in
+G_ZU folds
+BartAlain calls 881 and is all-in
+*** FLOP *** [3s Qs Qc]
+*** TURN *** [3s Qs Qc][2s]
+*** RIVER *** [3s Qs Qc 2s][Ah]
+*** SHOW DOWN ***
+BartAlain shows [As Qd] (Full of Queens and Aces)
+sabre_laser shows [Kd Ad] (Two pairs : Aces and Queens)
+sabre_laser collected 908 from side pot 1
+BartAlain collected 2322 from main pot
+*** SUMMARY ***
+Total pot 3230 | No rake
+Board: [3s Qs Qc 2s Ah]
+Seat 1: BartAlain showed [As Qd] and won 2322 with Full of Queens and Aces
+Seat 8: sabre_laser (small blind) showed [Kd Ad] and won 908 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #463034703285321729-29-1422222927 - Holdem no limit (40/80) - 2015/01/25 21:55:27 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (2322)
+Seat 3: sebluffy (4720)
+Seat 4: BAZOOKA-3 (1010)
+Seat 6: toulousain47 (2580)
+Seat 7: LABELLE VIE (1325)
+Seat 8: sabre_laser (908)
+Seat 9: G_ZU (1355)
+Seat 10: loupinggg38 (780)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 40
+loupinggg38 posts big blind 80
+Dealt to sabre_laser [Ks 3s]
+*** PRE-FLOP *** 
+BartAlain calls 80
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 checks
+*** FLOP *** [4h Qh 6s]
+loupinggg38 checks
+BartAlain bets 160
+loupinggg38 folds
+BartAlain collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [4h Qh 6s]
+Seat 1: BartAlain won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #463034703285321729-30-1422223000 - Holdem no limit (60/120) - 2015/01/25 21:56:40 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BartAlain (2442)
+Seat 3: sebluffy (4720)
+Seat 4: BAZOOKA-3 (1010)
+Seat 6: toulousain47 (2580)
+Seat 7: LABELLE VIE (1325)
+Seat 8: sabre_laser (908)
+Seat 9: G_ZU (1315)
+Seat 10: loupinggg38 (700)
+*** ANTE/BLINDS ***
+loupinggg38 posts small blind 60
+BartAlain posts big blind 120
+Dealt to sabre_laser [Kh 8c]
+*** PRE-FLOP *** 
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 raises 580 to 700 and is all-in
+BartAlain folds
+loupinggg38 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Seat 10: loupinggg38 (small blind) won 820
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #463034703285321729-31-1422223046 - Holdem no limit (60/120) - 2015/01/25 21:57:26 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #10 is the button
+Seat 1: BartAlain (2322)
+Seat 3: sebluffy (4720)
+Seat 4: BAZOOKA-3 (1010)
+Seat 6: toulousain47 (2580)
+Seat 7: LABELLE VIE (1325)
+Seat 8: sabre_laser (908)
+Seat 9: G_ZU (1315)
+Seat 10: loupinggg38 (820)
+*** ANTE/BLINDS ***
+BartAlain posts small blind 60
+sebluffy posts big blind 120
+Dealt to sabre_laser [6h Kc]
+*** PRE-FLOP *** 
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain calls 60
+sebluffy checks
+*** FLOP *** [3c Qh 2c]
+BartAlain checks
+sebluffy checks
+*** TURN *** [3c Qh 2c][Ah]
+BartAlain checks
+sebluffy checks
+*** RIVER *** [3c Qh 2c Ah][6s]
+BartAlain checks
+sebluffy checks
+*** SHOW DOWN ***
+BartAlain shows [Jc 8d] (High card : Ace)
+sebluffy shows [7h 3d] (One pair : 3)
+sebluffy collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3c Qh 2c Ah 6s]
+Seat 1: BartAlain (small blind) showed [Jc 8d] and lost with High card : Ace
+Seat 3: sebluffy (big blind) showed [7h 3d] and won 240 with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #463034703285321729-32-1422223109 - Holdem no limit (60/120) - 2015/01/25 21:58:29 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BartAlain (2202)
+Seat 3: sebluffy (4840)
+Seat 4: BAZOOKA-3 (1010)
+Seat 6: toulousain47 (2580)
+Seat 7: LABELLE VIE (1325)
+Seat 8: sabre_laser (908)
+Seat 9: G_ZU (1315)
+Seat 10: loupinggg38 (820)
+*** ANTE/BLINDS ***
+sebluffy posts small blind 60
+BAZOOKA-3 posts big blind 120
+Dealt to sabre_laser [2h Ad]
+*** PRE-FLOP *** 
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain raises 120 to 240
+sebluffy folds
+BAZOOKA-3 calls 120
+*** FLOP *** [8c 4c Js]
+BAZOOKA-3 checks
+BartAlain bets 360
+BAZOOKA-3 raises 410 to 770 and is all-in
+BartAlain calls 410
+*** TURN *** [8c 4c Js][6s]
+*** RIVER *** [8c 4c Js 6s][4h]
+*** SHOW DOWN ***
+BartAlain shows [Ac 7s] (One pair : 4)
+BAZOOKA-3 shows [Td Jh] (Two pairs : Jacks and 4)
+BAZOOKA-3 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Board: [8c 4c Js 6s 4h]
+Seat 1: BartAlain (button) showed [Ac 7s] and lost with One pair : 4
+Seat 4: BAZOOKA-3 (big blind) showed [Td Jh] and won 2080 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #463034703285321729-33-1422223176 - Holdem no limit (60/120) - 2015/01/25 21:59:36 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #3 is the button
+Seat 1: BartAlain (1192)
+Seat 3: sebluffy (4780)
+Seat 4: BAZOOKA-3 (2080)
+Seat 6: toulousain47 (2580)
+Seat 7: LABELLE VIE (1325)
+Seat 8: sabre_laser (908)
+Seat 9: G_ZU (1315)
+Seat 10: loupinggg38 (820)
+*** ANTE/BLINDS ***
+BAZOOKA-3 posts small blind 60
+toulousain47 posts big blind 120
+Dealt to sabre_laser [3h 7s]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+sebluffy calls 120
+BAZOOKA-3 calls 60
+toulousain47 checks
+*** FLOP *** [2d Ts 5c]
+BAZOOKA-3 checks
+toulousain47 checks
+sebluffy checks
+*** TURN *** [2d Ts 5c][Kd]
+BAZOOKA-3 checks
+toulousain47 checks
+sebluffy checks
+*** RIVER *** [2d Ts 5c Kd][3c]
+BAZOOKA-3 checks
+toulousain47 checks
+sebluffy checks
+*** SHOW DOWN ***
+BAZOOKA-3 shows [Jh 9h] (High card : King)
+toulousain47 shows [5d Qc] (One pair : 5)
+sebluffy shows [6d 6s] (One pair : 6)
+sebluffy collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2d Ts 5c Kd 3c]
+Seat 3: sebluffy (button) showed [6d 6s] and won 360 with One pair : 6
+Seat 4: BAZOOKA-3 (small blind) showed [Jh 9h] and lost with High card : King
+Seat 6: toulousain47 (big blind) showed [5d Qc] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #463034703285321729-34-1422223241 - Holdem no limit (60/120) - 2015/01/25 22:00:41 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (1192)
+Seat 3: sebluffy (5020)
+Seat 4: BAZOOKA-3 (1960)
+Seat 6: toulousain47 (2460)
+Seat 7: LABELLE VIE (1325)
+Seat 8: sabre_laser (908)
+Seat 9: G_ZU (1315)
+Seat 10: loupinggg38 (820)
+*** ANTE/BLINDS ***
+toulousain47 posts small blind 60
+LABELLE VIE posts big blind 120
+Dealt to sabre_laser [5h 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+loupinggg38 folds
+BartAlain raises 240 to 360
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+BartAlain collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 1: BartAlain won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #463034703285321729-35-1422223275 - Holdem no limit (60/120) - 2015/01/25 22:01:15 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (1372)
+Seat 3: sebluffy (5020)
+Seat 4: BAZOOKA-3 (1960)
+Seat 6: toulousain47 (2400)
+Seat 7: LABELLE VIE (1205)
+Seat 8: sabre_laser (908)
+Seat 9: G_ZU (1315)
+Seat 10: loupinggg38 (820)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [2h 2s]
+*** PRE-FLOP *** 
+G_ZU folds
+loupinggg38 folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 calls 120
+LABELLE VIE folds
+sabre_laser checks
+*** FLOP *** [4s 5h 2c]
+sabre_laser checks
+toulousain47 checks
+*** TURN *** [4s 5h 2c][Kh]
+sabre_laser checks
+toulousain47 bets 2280 and is all-in
+sabre_laser calls 788 and is all-in
+*** RIVER *** [4s 5h 2c Kh][As]
+*** SHOW DOWN ***
+sabre_laser shows [2h 2s] (Trips of 2)
+toulousain47 shows [Ah 7h] (One pair : Aces)
+toulousain47 collected 1492 from side pot 1
+sabre_laser collected 1876 from main pot
+*** SUMMARY ***
+Total pot 3368 | No rake
+Board: [4s 5h 2c Kh As]
+Seat 6: toulousain47 (button) showed [Ah 7h] and won 1492 with One pair : Aces
+Seat 8: sabre_laser (big blind) showed [2h 2s] and won 1876 with Trips of 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #463034703285321729-36-1422223319 - Holdem no limit (60/120) - 2015/01/25 22:01:59 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (1372)
+Seat 3: sebluffy (5020)
+Seat 4: BAZOOKA-3 (1960)
+Seat 6: toulousain47 (1492)
+Seat 7: LABELLE VIE (1145)
+Seat 8: sabre_laser (1876)
+Seat 9: G_ZU (1315)
+Seat 10: loupinggg38 (820)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+G_ZU posts big blind 120
+Dealt to sabre_laser [3c 7c]
+*** PRE-FLOP *** 
+loupinggg38 folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: G_ZU (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-37-1422223358 - Holdem no limit (80/160) - 2015/01/25 22:02:38 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (1372)
+Seat 3: sebluffy (5020)
+Seat 4: BAZOOKA-3 (1960)
+Seat 6: toulousain47 (1492)
+Seat 7: LABELLE VIE (1145)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1375)
+Seat 10: loupinggg38 (820)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 80
+loupinggg38 posts big blind 160
+Dealt to sabre_laser [5d 7d]
+*** PRE-FLOP *** 
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 10: loupinggg38 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-38-1422223383 - Holdem no limit (80/160) - 2015/01/25 22:03:03 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BartAlain (1372)
+Seat 3: sebluffy (5020)
+Seat 4: BAZOOKA-3 (1960)
+Seat 6: toulousain47 (1492)
+Seat 7: LABELLE VIE (1145)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1295)
+Seat 10: loupinggg38 (900)
+*** ANTE/BLINDS ***
+loupinggg38 posts small blind 80
+BartAlain posts big blind 160
+Dealt to sabre_laser [Kc Jd]
+*** PRE-FLOP *** 
+sebluffy calls 160
+BAZOOKA-3 calls 160
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+loupinggg38 calls 80
+BartAlain checks
+*** FLOP *** [3s Tc As]
+loupinggg38 checks
+BartAlain checks
+sebluffy bets 320
+BAZOOKA-3 calls 320
+loupinggg38 raises 420 to 740 and is all-in
+BartAlain folds
+sebluffy calls 420
+BAZOOKA-3 calls 420
+*** TURN *** [3s Tc As][Qc]
+sebluffy checks
+BAZOOKA-3 bets 1060 and is all-in
+sebluffy calls 1060
+*** RIVER *** [3s Tc As Qc][Td]
+*** SHOW DOWN ***
+sebluffy shows [9c Ad] (Two pairs : Aces and Tens)
+loupinggg38 shows [Js Ks] (Straight Ace high)
+BAZOOKA-3 shows [Ac Ah] (Full of Aces and Tens)
+BAZOOKA-3 collected 4980 from pot
+*** SUMMARY ***
+Total pot 4980 | No rake
+Board: [3s Tc As Qc Td]
+Seat 3: sebluffy showed [9c Ad] and lost with Two pairs : Aces and Tens
+Seat 4: BAZOOKA-3 showed [Ac Ah] and won 4980 with Full of Aces and Tens
+Seat 10: loupinggg38 (small blind) showed [Js Ks] and lost with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-39-1422223462 - Holdem no limit (80/160) - 2015/01/25 22:04:22 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #10 is the button
+Seat 1: BartAlain (1212)
+Seat 3: sebluffy (3060)
+Seat 4: BAZOOKA-3 (4980)
+Seat 6: toulousain47 (1492)
+Seat 7: LABELLE VIE (1145)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1295)
+*** ANTE/BLINDS ***
+BartAlain posts small blind 80
+sebluffy posts big blind 160
+Dealt to sabre_laser [3h 8c]
+*** PRE-FLOP *** 
+BAZOOKA-3 calls 160
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU raises 1135 to 1295 and is all-in
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+G_ZU collected 1695 from pot
+*** SUMMARY ***
+Total pot 1695 | No rake
+Seat 9: G_ZU won 1695
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-40-1422223496 - Holdem no limit (80/160) - 2015/01/25 22:04:56 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BartAlain (1132)
+Seat 3: sebluffy (2900)
+Seat 4: BAZOOKA-3 (4820)
+Seat 6: toulousain47 (1492)
+Seat 7: LABELLE VIE (1145)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1695)
+*** ANTE/BLINDS ***
+sebluffy posts small blind 80
+BAZOOKA-3 posts big blind 160
+Dealt to sabre_laser [4c Ac]
+*** PRE-FLOP *** 
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: BAZOOKA-3 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-41-1422223513 - Holdem no limit (80/160) - 2015/01/25 22:05:13 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #3 is the button
+Seat 1: BartAlain (1132)
+Seat 3: sebluffy (2820)
+Seat 4: BAZOOKA-3 (4900)
+Seat 6: toulousain47 (1492)
+Seat 7: LABELLE VIE (1145)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1695)
+*** ANTE/BLINDS ***
+BAZOOKA-3 posts small blind 80
+toulousain47 posts big blind 160
+Dealt to sabre_laser [9s Qh]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 raises 160 to 320
+toulousain47 folds
+BAZOOKA-3 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 4: BAZOOKA-3 (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-42-1422223544 - Holdem no limit (80/160) - 2015/01/25 22:05:44 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (1132)
+Seat 3: sebluffy (2820)
+Seat 4: BAZOOKA-3 (5060)
+Seat 6: toulousain47 (1332)
+Seat 7: LABELLE VIE (1145)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1695)
+*** ANTE/BLINDS ***
+toulousain47 posts small blind 80
+LABELLE VIE posts big blind 160
+Dealt to sabre_laser [4c 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+BartAlain calls 160
+sebluffy calls 160
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE checks
+*** FLOP *** [Td Ad 3d]
+LABELLE VIE checks
+BartAlain checks
+sebluffy checks
+*** TURN *** [Td Ad 3d][3h]
+LABELLE VIE checks
+BartAlain bets 160
+sebluffy folds
+LABELLE VIE folds
+BartAlain collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Td Ad 3d 3h]
+Seat 1: BartAlain won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-43-1422223606 - Holdem no limit (80/160) - 2015/01/25 22:06:46 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (1532)
+Seat 3: sebluffy (2660)
+Seat 4: BAZOOKA-3 (5060)
+Seat 6: toulousain47 (1252)
+Seat 7: LABELLE VIE (985)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1695)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Ah Tc]
+*** PRE-FLOP *** 
+G_ZU folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 raises 400 to 560
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+BAZOOKA-3 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 4: BAZOOKA-3 won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-44-1422223633 - Holdem no limit (80/160) - 2015/01/25 22:07:13 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (1532)
+Seat 3: sebluffy (2660)
+Seat 4: BAZOOKA-3 (5300)
+Seat 6: toulousain47 (1252)
+Seat 7: LABELLE VIE (905)
+Seat 8: sabre_laser (1656)
+Seat 9: G_ZU (1695)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+G_ZU posts big blind 160
+Dealt to sabre_laser [7s 5d]
+*** PRE-FLOP *** 
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser calls 80
+G_ZU checks
+*** FLOP *** [Ts 5h Qs]
+sabre_laser bets 320
+G_ZU folds
+sabre_laser collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Ts 5h Qs]
+Seat 8: sabre_laser (small blind) won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-45-1422223666 - Holdem no limit (80/160) - 2015/01/25 22:07:46 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (1532)
+Seat 3: sebluffy (2660)
+Seat 4: BAZOOKA-3 (5300)
+Seat 6: toulousain47 (1252)
+Seat 7: LABELLE VIE (905)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1535)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 80
+BartAlain posts big blind 160
+Dealt to sabre_laser [9d 6c]
+*** PRE-FLOP *** 
+sebluffy calls 160
+BAZOOKA-3 calls 160
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU calls 80
+BartAlain raises 320 to 480
+sebluffy calls 320
+BAZOOKA-3 folds
+G_ZU folds
+*** FLOP *** [Js 3s Ad]
+BartAlain bets 1052 and is all-in
+sebluffy folds
+BartAlain collected 2332 from pot
+*** SUMMARY ***
+Total pot 2332 | No rake
+Board: [Js 3s Ad]
+Seat 1: BartAlain (big blind) won 2332
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #463034703285321729-46-1422223707 - Holdem no limit (80/160) - 2015/01/25 22:08:27 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BartAlain (2332)
+Seat 3: sebluffy (2180)
+Seat 4: BAZOOKA-3 (5140)
+Seat 6: toulousain47 (1252)
+Seat 7: LABELLE VIE (905)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1375)
+*** ANTE/BLINDS ***
+BartAlain posts small blind 80
+sebluffy posts big blind 160
+Dealt to sabre_laser [Kh Qc]
+*** PRE-FLOP *** 
+BAZOOKA-3 raises 400 to 560
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 4: BAZOOKA-3 won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-47-1422223743 - Holdem no limit (10/100/200) - 2015/01/25 22:09:03 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BartAlain (2252)
+Seat 3: sebluffy (2020)
+Seat 4: BAZOOKA-3 (5380)
+Seat 6: toulousain47 (1252)
+Seat 7: LABELLE VIE (905)
+Seat 8: sabre_laser (1816)
+Seat 9: G_ZU (1375)
+*** ANTE/BLINDS ***
+sebluffy posts ante 10
+BAZOOKA-3 posts ante 10
+BartAlain posts ante 10
+toulousain47 posts ante 10
+LABELLE VIE posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+sebluffy posts small blind 100
+BAZOOKA-3 posts big blind 200
+Dealt to sabre_laser [Ah 9d]
+*** PRE-FLOP *** 
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 4: BAZOOKA-3 (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-48-1422223767 - Holdem no limit (10/100/200) - 2015/01/25 22:09:27 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #3 is the button
+Seat 1: BartAlain (2242)
+Seat 3: sebluffy (1910)
+Seat 4: BAZOOKA-3 (5540)
+Seat 6: toulousain47 (1242)
+Seat 7: LABELLE VIE (895)
+Seat 8: sabre_laser (1806)
+Seat 9: G_ZU (1365)
+*** ANTE/BLINDS ***
+BAZOOKA-3 posts ante 10
+toulousain47 posts ante 10
+BartAlain posts ante 10
+sebluffy posts ante 10
+LABELLE VIE posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+BAZOOKA-3 posts small blind 100
+toulousain47 posts big blind 200
+Dealt to sabre_laser [Ts Jd]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 calls 100
+toulousain47 checks
+*** FLOP *** [Qs Th 8s]
+BAZOOKA-3 checks
+toulousain47 checks
+*** TURN *** [Qs Th 8s][3h]
+BAZOOKA-3 checks
+toulousain47 checks
+*** RIVER *** [Qs Th 8s 3h][9c]
+BAZOOKA-3 checks
+toulousain47 bets 200
+BAZOOKA-3 folds
+toulousain47 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Qs Th 8s 3h 9c]
+Seat 6: toulousain47 (big blind) won 670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-49-1422223828 - Holdem no limit (10/100/200) - 2015/01/25 22:10:28 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (2232)
+Seat 3: sebluffy (1900)
+Seat 4: BAZOOKA-3 (5330)
+Seat 6: toulousain47 (1502)
+Seat 7: LABELLE VIE (885)
+Seat 8: sabre_laser (1796)
+Seat 9: G_ZU (1355)
+*** ANTE/BLINDS ***
+toulousain47 posts ante 10
+LABELLE VIE posts ante 10
+BartAlain posts ante 10
+sebluffy posts ante 10
+BAZOOKA-3 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+toulousain47 posts small blind 100
+LABELLE VIE posts big blind 200
+Dealt to sabre_laser [4h 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+sebluffy raises 1690 to 1890 and is all-in
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sebluffy collected 2260 from pot
+*** SUMMARY ***
+Total pot 2260 | No rake
+Seat 3: sebluffy won 2260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-50-1422223851 - Holdem no limit (10/100/200) - 2015/01/25 22:10:51 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (2222)
+Seat 3: sebluffy (2260)
+Seat 4: BAZOOKA-3 (5320)
+Seat 6: toulousain47 (1392)
+Seat 7: LABELLE VIE (675)
+Seat 8: sabre_laser (1786)
+Seat 9: G_ZU (1345)
+*** ANTE/BLINDS ***
+LABELLE VIE posts ante 10
+sabre_laser posts ante 10
+BartAlain posts ante 10
+sebluffy posts ante 10
+BAZOOKA-3 posts ante 10
+toulousain47 posts ante 10
+G_ZU posts ante 10
+LABELLE VIE posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9c Qd]
+*** PRE-FLOP *** 
+G_ZU raises 1135 to 1335 and is all-in
+BartAlain folds
+sebluffy folds
+BAZOOKA-3 calls 1335
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+*** FLOP *** [Js 6d 9h]
+*** TURN *** [Js 6d 9h][4d]
+*** RIVER *** [Js 6d 9h 4d][Th]
+*** SHOW DOWN ***
+BAZOOKA-3 shows [Tc As] (One pair : Tens)
+G_ZU shows [Ks Kd] (One pair : Kings)
+G_ZU collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [Js 6d 9h 4d Th]
+Seat 4: BAZOOKA-3 showed [Tc As] and lost with One pair : Tens
+Seat 9: G_ZU showed [Ks Kd] and won 3040 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-51-1422223879 - Holdem no limit (10/100/200) - 2015/01/25 22:11:19 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (2212)
+Seat 3: sebluffy (2250)
+Seat 4: BAZOOKA-3 (3975)
+Seat 6: toulousain47 (1382)
+Seat 7: LABELLE VIE (565)
+Seat 8: sabre_laser (1576)
+Seat 9: G_ZU (3040)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+G_ZU posts ante 10
+BartAlain posts ante 10
+sebluffy posts ante 10
+BAZOOKA-3 posts ante 10
+toulousain47 posts ante 10
+LABELLE VIE posts ante 10
+sabre_laser posts small blind 100
+G_ZU posts big blind 200
+Dealt to sabre_laser [2c 5d]
+*** PRE-FLOP *** 
+BartAlain folds
+sebluffy calls 200
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU checks
+*** FLOP *** [Ad Jh 8c]
+G_ZU checks
+sebluffy checks
+*** TURN *** [Ad Jh 8c][2s]
+G_ZU checks
+sebluffy bets 500
+G_ZU calls 500
+*** RIVER *** [Ad Jh 8c 2s][Tc]
+G_ZU checks
+sebluffy checks
+*** SHOW DOWN ***
+sebluffy shows [Ks Jd] (One pair : Jacks)
+G_ZU shows [As 8h] (Two pairs : Aces and 8)
+G_ZU collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Board: [Ad Jh 8c 2s Tc]
+Seat 3: sebluffy showed [Ks Jd] and lost with One pair : Jacks
+Seat 9: G_ZU (big blind) showed [As 8h] and won 1570 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-52-1422223926 - Holdem no limit (10/100/200) - 2015/01/25 22:12:06 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (2202)
+Seat 3: sebluffy (1540)
+Seat 4: BAZOOKA-3 (3965)
+Seat 6: toulousain47 (1372)
+Seat 7: LABELLE VIE (555)
+Seat 8: sabre_laser (1466)
+Seat 9: G_ZU (3900)
+*** ANTE/BLINDS ***
+G_ZU posts ante 10
+BartAlain posts ante 10
+sebluffy posts ante 10
+BAZOOKA-3 posts ante 10
+toulousain47 posts ante 10
+LABELLE VIE posts ante 10
+sabre_laser posts ante 10
+G_ZU posts small blind 100
+BartAlain posts big blind 200
+Dealt to sabre_laser [Ks 3d]
+*** PRE-FLOP *** 
+sebluffy raises 1330 to 1530 and is all-in
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain calls 1330
+*** FLOP *** [7h Qc 7d]
+*** TURN *** [7h Qc 7d][9h]
+*** RIVER *** [7h Qc 7d 9h][Qd]
+*** SHOW DOWN ***
+sebluffy shows [8d 8s] (Two pairs : Queens and 8)
+BartAlain shows [Ah Qs] (Full of Queens and 7)
+BartAlain collected 3230 from pot
+*** SUMMARY ***
+Total pot 3230 | No rake
+Board: [7h Qc 7d 9h Qd]
+Seat 1: BartAlain (big blind) showed [Ah Qs] and won 3230 with Full of Queens and 7
+Seat 3: sebluffy showed [8d 8s] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-53-1422223956 - Holdem no limit (10/100/200) - 2015/01/25 22:12:36 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BartAlain (3892)
+Seat 4: BAZOOKA-3 (3955)
+Seat 6: toulousain47 (1362)
+Seat 7: LABELLE VIE (545)
+Seat 8: sabre_laser (1456)
+Seat 9: G_ZU (3790)
+*** ANTE/BLINDS ***
+BartAlain posts ante 10
+BAZOOKA-3 posts ante 10
+toulousain47 posts ante 10
+LABELLE VIE posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+BartAlain posts small blind 100
+BAZOOKA-3 posts big blind 200
+Dealt to sabre_laser [3s 4h]
+*** PRE-FLOP *** 
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+BAZOOKA-3 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 4: BAZOOKA-3 (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-54-1422223975 - Holdem no limit (10/100/200) - 2015/01/25 22:12:55 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BartAlain (3782)
+Seat 4: BAZOOKA-3 (4105)
+Seat 6: toulousain47 (1352)
+Seat 7: LABELLE VIE (535)
+Seat 8: sabre_laser (1446)
+Seat 9: G_ZU (3780)
+*** ANTE/BLINDS ***
+BAZOOKA-3 posts ante 10
+toulousain47 posts ante 10
+BartAlain posts ante 10
+LABELLE VIE posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+BAZOOKA-3 posts small blind 100
+toulousain47 posts big blind 200
+Dealt to sabre_laser [Ts Qd]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+sabre_laser folds
+G_ZU folds
+BartAlain folds
+BAZOOKA-3 calls 100
+toulousain47 checks
+*** FLOP *** [7s 6c 5c]
+BAZOOKA-3 checks
+toulousain47 checks
+*** TURN *** [7s 6c 5c][Jd]
+BAZOOKA-3 checks
+toulousain47 bets 1142 and is all-in
+BAZOOKA-3 folds
+toulousain47 collected 1602 from pot
+*** SUMMARY ***
+Total pot 1602 | No rake
+Board: [7s 6c 5c Jd]
+Seat 6: toulousain47 (big blind) won 1602
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #463034703285321729-55-1422224027 - Holdem no limit (10/100/200) - 2015/01/25 22:13:47 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BartAlain (3772)
+Seat 4: BAZOOKA-3 (3895)
+Seat 6: toulousain47 (1602)
+Seat 7: LABELLE VIE (525)
+Seat 8: sabre_laser (1436)
+Seat 9: G_ZU (3770)
+*** ANTE/BLINDS ***
+toulousain47 posts ante 10
+LABELLE VIE posts ante 10
+BartAlain posts ante 10
+BAZOOKA-3 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+toulousain47 posts small blind 100
+LABELLE VIE posts big blind 200
+Dealt to sabre_laser [7d 2h]
+*** PRE-FLOP *** 
+sabre_laser raises 200 to 400
+G_ZU folds
+BartAlain folds
+BAZOOKA-3 calls 400
+toulousain47 folds
+LABELLE VIE folds
+*** FLOP *** [4d 3h Jh]
+sabre_laser checks
+BAZOOKA-3 bets 1200
+sabre_laser folds
+BAZOOKA-3 collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Board: [4d 3h Jh]
+Seat 4: BAZOOKA-3 (button) won 2360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #463034703285321729-56-1422224102 - Holdem no limit (20/150/300) - 2015/01/25 22:15:02 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BartAlain (3762)
+Seat 4: BAZOOKA-3 (4645)
+Seat 6: toulousain47 (1492)
+Seat 7: LABELLE VIE (315)
+Seat 8: sabre_laser (1026)
+Seat 9: G_ZU (3760)
+*** ANTE/BLINDS ***
+LABELLE VIE posts ante 20
+sabre_laser posts ante 20
+BartAlain posts ante 20
+BAZOOKA-3 posts ante 20
+toulousain47 posts ante 20
+G_ZU posts ante 20
+LABELLE VIE posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9c 6h]
+*** PRE-FLOP *** 
+G_ZU folds
+BartAlain raises 300 to 600
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+BartAlain collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 1: BartAlain won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #463034703285321729-57-1422224124 - Holdem no limit (20/150/300) - 2015/01/25 22:15:24 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BartAlain (4312)
+Seat 4: BAZOOKA-3 (4625)
+Seat 6: toulousain47 (1472)
+Seat 7: LABELLE VIE (145)
+Seat 8: sabre_laser (706)
+Seat 9: G_ZU (3740)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+G_ZU posts ante 20
+BartAlain posts ante 20
+BAZOOKA-3 posts ante 20
+toulousain47 posts ante 20
+LABELLE VIE posts ante 20
+sabre_laser posts small blind 150
+G_ZU posts big blind 300
+Dealt to sabre_laser [6c 9c]
+*** PRE-FLOP *** 
+BartAlain folds
+BAZOOKA-3 folds
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser folds
+G_ZU collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 9: G_ZU (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #463034703285321729-58-1422224141 - Holdem no limit (20/150/300) - 2015/01/25 22:15:41 UTC
+Table: 'Double or Nothing(107808668)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BartAlain (4292)
+Seat 4: BAZOOKA-3 (4605)
+Seat 6: toulousain47 (1452)
+Seat 7: LABELLE VIE (125)
+Seat 8: sabre_laser (536)
+Seat 9: G_ZU (3990)
+*** ANTE/BLINDS ***
+G_ZU posts ante 20
+BartAlain posts ante 20
+BAZOOKA-3 posts ante 20
+toulousain47 posts ante 20
+LABELLE VIE posts ante 20
+sabre_laser posts ante 20
+G_ZU posts small blind 150
+BartAlain posts big blind 300
+Dealt to sabre_laser [Ah Jh]
+*** PRE-FLOP *** 
+BAZOOKA-3 calls 300
+toulousain47 folds
+LABELLE VIE folds
+sabre_laser raises 216 to 516 and is all-in
+G_ZU calls 366
+BartAlain calls 216
+BAZOOKA-3 calls 216
+*** FLOP *** [4h Ts Tc]
+G_ZU checks
+BartAlain checks
+BAZOOKA-3 checks
+*** TURN *** [4h Ts Tc][2s]
+G_ZU checks
+BartAlain checks
+BAZOOKA-3 checks
+*** RIVER *** [4h Ts Tc 2s][8d]
+G_ZU checks
+BartAlain checks
+BAZOOKA-3 checks
+*** SHOW DOWN ***
+BAZOOKA-3 shows [7d As] (One pair : Tens)
+sabre_laser shows [Ah Jh] (One pair : Tens)
+G_ZU shows [Jd Ac] (One pair : Tens)
+BartAlain shows [9h 9d] (Two pairs : Tens and 9)
+BartAlain collected 2184 from pot
+*** SUMMARY ***
+Total pot 2184 | No rake
+Board: [4h Ts Tc 2s 8d]
+Seat 1: BartAlain (big blind) showed [9h 9d] and won 2184 with Two pairs : Tens and 9
+Seat 4: BAZOOKA-3 showed [7d As] and lost with One pair : Tens
+Seat 8: sabre_laser (button) showed [Ah Jh] and lost with One pair : Tens
+Seat 9: G_ZU (small blind) showed [Jd Ac] and lost with One pair : Tens
+
+

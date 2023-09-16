@@ -1,0 +1,1347 @@
+Winamax Poker - CashGame - HandId: #7339713-1233-1427479012 - Holdem no limit (0.01€/0.02€) - 2015/03/27 17:56:52 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #6 is the button
+Seat 1: byczybycz (4.80€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (0.73€)
+Seat 4: alnas (2.04€)
+Seat 5: Nuts... (2.04€)
+Seat 6: Teamjsk (1.99€)
+Seat 7: sabre_laser (2€)
+Seat 8: xxcresusxx62 (2.03€)
+Seat 9: Gauth7 (2.24€)
+*** ANTE/BLINDS ***
+byczybycz denies big blind
+Gauth7 posts small blind 0.01€
+Mecheblanche posts big blind 0.02€
+*** PRE-FLOP *** 
+rick91 folds
+alnas folds
+Nuts... raises 0.02€ to 0.04€
+Gauth7 folds
+Mecheblanche folds
+Nuts... collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 5: Nuts... won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1234-1427479059 - Holdem no limit (0.01€/0.02€) - 2015/03/27 17:57:39 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #9 is the button
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (0.73€)
+Seat 4: alnas (2.04€)
+Seat 5: Nuts... (2.07€)
+Seat 6: Teamjsk (1.99€)
+Seat 7: sabre_laser (2€)
+Seat 8: xxcresusxx62 (2.03€)
+Seat 9: Gauth7 (2.23€)
+*** ANTE/BLINDS ***
+Mecheblanche posts small blind 0.01€
+rick91 posts big blind 0.02€
+sabre_laser posts big blind 0.02€ out of position
+Dealt to sabre_laser [2c Kh]
+*** PRE-FLOP *** 
+alnas folds
+Nuts... folds
+Teamjsk folds
+sabre_laser checks
+Gauth7 raises 0.03€ to 0.05€
+Mecheblanche folds
+rick91 folds
+sabre_laser folds
+Gauth7 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 9: Gauth7 (button) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1235-1427479117 - Holdem no limit (0.01€/0.02€) - 2015/03/27 17:58:37 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #2 is the button
+Seat 1: nicois78 (2€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (0.71€)
+Seat 4: alnas (2.04€)
+Seat 5: Nuts... (2.07€)
+Seat 6: Teamjsk (1.99€)
+Seat 7: sabre_laser (1.98€)
+Seat 8: xxcresusxx62 (2.03€)
+Seat 9: Gauth7 (2.28€)
+*** ANTE/BLINDS ***
+rick91 posts small blind 0.01€
+alnas posts big blind 0.02€
+nicois78 posts big blind 0.02€ out of position
+Dealt to sabre_laser [7s 6h]
+*** PRE-FLOP *** 
+Nuts... folds
+Teamjsk folds
+sabre_laser folds
+Gauth7 folds
+nicois78 raises 0.03€ to 0.05€
+Mecheblanche folds
+rick91 calls 0.04€
+alnas folds
+*** FLOP *** [2h 5c Tc]
+rick91 checks
+nicois78 bets 0.07€
+rick91 raises 0.07€ to 0.14€
+nicois78 calls 0.07€
+*** TURN *** [2h 5c Tc][4h]
+rick91 bets 0.07€
+nicois78 raises 0.16€ to 0.23€
+rick91 calls 0.16€
+*** RIVER *** [2h 5c Tc 4h][8c]
+rick91 checks
+nicois78 checks
+*** SHOW DOWN ***
+nicois78 shows [Th Kc] (One pair : Tens)
+rick91 shows [Td As] (One pair : Tens)
+rick91 collected 0.80€ from pot
+*** SUMMARY ***
+Total pot 0.80€ | Rake 0.06€
+Board: [2h 5c Tc 4h 8c]
+Seat 1: nicois78 showed [Th Kc] and lost with One pair : Tens
+Seat 3: rick91 (small blind) showed [Td As] and won 0.80€ with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7339713-1236-1427479221 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:00:21 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #3 is the button
+Seat 1: nicois78 (1.58€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.09€)
+Seat 4: alnas (2.02€)
+Seat 5: Nuts... (2.07€)
+Seat 6: Teamjsk (1.99€)
+Seat 7: sabre_laser (1.98€)
+Seat 9: Gauth7 (2.28€)
+*** ANTE/BLINDS ***
+alnas posts small blind 0.01€
+Nuts... posts big blind 0.02€
+Dealt to sabre_laser [Ts Qs]
+*** PRE-FLOP *** 
+Teamjsk calls 0.02€
+sabre_laser folds
+Gauth7 folds
+nicois78 folds
+Mecheblanche folds
+rick91 calls 0.02€
+alnas folds
+Nuts... checks
+*** FLOP *** [8d 2s Jh]
+Nuts... checks
+Teamjsk bets 0.03€
+rick91 folds
+Nuts... folds
+Teamjsk collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [8d 2s Jh]
+Seat 6: Teamjsk won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1237-1427479291 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:01:31 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #4 is the button
+Seat 1: nicois78 (1.58€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.07€)
+Seat 4: alnas (2.01€)
+Seat 5: Nuts... (2.05€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (1.98€)
+Seat 9: Gauth7 (2.28€)
+*** ANTE/BLINDS ***
+Teamjsk posts big blind 0.02€
+Dealt to sabre_laser [6d 7d]
+*** PRE-FLOP *** 
+sabre_laser raises 0.03€ to 0.05€
+Gauth7 folds
+nicois78 folds
+Mecheblanche folds
+rick91 calls 0.05€
+alnas folds
+Teamjsk calls 0.03€
+*** FLOP *** [Ah 6s Jd]
+Teamjsk checks
+sabre_laser checks
+rick91 checks
+*** TURN *** [Ah 6s Jd][Ac]
+Teamjsk bets 0.03€
+sabre_laser calls 0.03€
+rick91 calls 0.03€
+*** RIVER *** [Ah 6s Jd Ac][3c]
+Teamjsk checks
+sabre_laser bets 0.12€
+rick91 calls 0.12€
+Teamjsk calls 0.12€
+*** SHOW DOWN ***
+Teamjsk shows [9c Ad] (Trips of Aces)
+sabre_laser shows [6d 7d] (Two pairs : Aces and 6)
+rick91 shows [As Td] (Trips of Aces)
+rick91 collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.04€
+Board: [Ah 6s Jd Ac 3c]
+Seat 3: rick91 showed [As Td] and won 0.56€ with Trips of Aces
+Seat 6: Teamjsk (big blind) showed [9c Ad] and lost with Trips of Aces
+Seat 7: sabre_laser showed [6d 7d] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - CashGame - HandId: #7339713-1238-1427479408 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:03:28 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #5 is the button
+Seat 1: nicois78 (1.58€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.43€)
+Seat 4: alnas (2.01€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.84€)
+Seat 7: sabre_laser (1.78€)
+Seat 8: kalinka59230 (2€)
+Seat 9: Gauth7 (2.28€)
+*** ANTE/BLINDS ***
+Teamjsk posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+kalinka59230 posts big blind 0.02€ out of position
+Dealt to sabre_laser [Qs 8h]
+*** PRE-FLOP *** 
+kalinka59230 checks
+Gauth7 folds
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas folds
+Teamjsk folds
+sabre_laser checks
+*** FLOP *** [Td 9s 2s]
+sabre_laser bets 0.05€
+kalinka59230 folds
+sabre_laser collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [Td 9s 2s]
+Seat 7: sabre_laser (big blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1239-1427479464 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:04:24 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #6 is the button
+Seat 1: nicois78 (1.58€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.43€)
+Seat 4: alnas (2.01€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.83€)
+Seat 7: sabre_laser (1.81€)
+Seat 8: kalinka59230 (1.98€)
+Seat 9: Gauth7 (2.28€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+kalinka59230 posts big blind 0.02€
+Dealt to sabre_laser [Jd 7s]
+*** PRE-FLOP *** 
+Gauth7 folds
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas folds
+Teamjsk folds
+sabre_laser calls 0.01€
+kalinka59230 checks
+*** FLOP *** [6h Qs 6s]
+sabre_laser checks
+kalinka59230 checks
+*** TURN *** [6h Qs 6s][2s]
+sabre_laser checks
+kalinka59230 checks
+*** RIVER *** [6h Qs 6s 2s][4s]
+sabre_laser checks
+kalinka59230 bets 0.04€
+sabre_laser calls 0.04€
+*** SHOW DOWN ***
+sabre_laser shows [Jd 7s] (Flush Queen high)
+kalinka59230 shows [8s Kc] (Flush Queen high)
+kalinka59230 collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | Rake 0.01€
+Board: [6h Qs 6s 2s 4s]
+Seat 7: sabre_laser (small blind) showed [Jd 7s] and lost with Flush Queen high
+Seat 8: kalinka59230 (big blind) showed [8s Kc] and won 0.11€ with Flush Queen high
+
+
+Winamax Poker - CashGame - HandId: #7339713-1240-1427479573 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:06:13 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #7 is the button
+Seat 1: nicois78 (1.58€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.43€)
+Seat 4: alnas (2.01€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.83€)
+Seat 7: sabre_laser (1.75€)
+Seat 8: kalinka59230 (2.03€)
+Seat 9: Gauth7 (2.28€)
+*** ANTE/BLINDS ***
+Gauth7 denies big blind
+kalinka59230 posts small blind 0.01€
+nicois78 posts big blind 0.02€
+Dealt to sabre_laser [8d 3s]
+*** PRE-FLOP *** 
+Mecheblanche folds
+rick91 folds
+alnas raises 0.04€ to 0.06€
+Teamjsk folds
+sabre_laser folds
+kalinka59230 calls 0.05€
+nicois78 folds
+*** FLOP *** [Qh Tc 3c]
+kalinka59230 checks
+alnas bets 0.08€
+kalinka59230 folds
+alnas collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Qh Tc 3c]
+Seat 4: alnas won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1241-1427479626 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:07:06 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #8 is the button
+Seat 1: nicois78 (1.56€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.43€)
+Seat 4: alnas (2.08€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.83€)
+Seat 7: sabre_laser (1.75€)
+Seat 8: kalinka59230 (1.97€)
+Seat 9: spunk73 (0.80€)
+*** ANTE/BLINDS ***
+nicois78 posts small blind 0.01€
+Mecheblanche posts big blind 0.02€
+Dealt to sabre_laser [8d 7c]
+*** PRE-FLOP *** 
+rick91 folds
+alnas folds
+Teamjsk calls 0.02€
+sabre_laser folds
+kalinka59230 folds
+nicois78 calls 0.01€
+Mecheblanche checks
+*** FLOP *** [Kd Ac 6c]
+nicois78 checks
+Mecheblanche checks
+Teamjsk checks
+*** TURN *** [Kd Ac 6c][As]
+nicois78 bets 0.02€
+Mecheblanche folds
+Teamjsk calls 0.02€
+*** RIVER *** [Kd Ac 6c As][Th]
+nicois78 bets 0.05€
+Teamjsk calls 0.05€
+*** SHOW DOWN ***
+Teamjsk shows [Jc Ks] (Two pairs : Aces and Kings)
+nicois78 shows [Ah 7d] (Trips of Aces)
+nicois78 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Kd Ac 6c As Th]
+Seat 1: nicois78 (small blind) showed [Ah 7d] and won 0.19€ with Trips of Aces
+Seat 6: Teamjsk showed [Jc Ks] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - CashGame - HandId: #7339713-1242-1427479715 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:08:35 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #1 is the button
+Seat 1: nicois78 (1.66€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.43€)
+Seat 4: alnas (2.08€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.74€)
+Seat 7: sabre_laser (1.75€)
+Seat 8: kalinka59230 (1.97€)
+Seat 9: spunk73 (0.80€)
+*** ANTE/BLINDS ***
+Mecheblanche posts small blind 0.01€
+rick91 posts big blind 0.02€
+spunk73 posts big blind 0.02€ out of position
+Dealt to sabre_laser [8d Qh]
+*** PRE-FLOP *** 
+alnas folds
+Teamjsk folds
+sabre_laser folds
+kalinka59230 folds
+spunk73 checks
+nicois78 folds
+Mecheblanche folds
+rick91 checks
+*** FLOP *** [6d Kd 8c]
+rick91 checks
+spunk73 checks
+*** TURN *** [6d Kd 8c][2s]
+rick91 checks
+spunk73 checks
+*** RIVER *** [6d Kd 8c 2s][Ad]
+rick91 checks
+spunk73 bets 0.02€
+rick91 raises 0.02€ to 0.04€
+spunk73 calls 0.02€
+*** SHOW DOWN ***
+rick91 shows [Qs Ac] (One pair : Aces)
+spunk73 shows [Ah Qd] (One pair : Aces)
+spunk73 collected 0.06€ from pot
+rick91 collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [6d Kd 8c 2s Ad]
+Seat 3: rick91 (big blind) showed [Qs Ac] and won 0.06€ with One pair : Aces
+Seat 9: spunk73 showed [Ah Qd] and won 0.06€ with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7339713-1243-1427479789 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:09:49 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #2 is the button
+Seat 1: nicois78 (1.66€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.43€)
+Seat 4: alnas (2.08€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.74€)
+Seat 7: sabre_laser (1.75€)
+Seat 8: kalinka59230 (1.97€)
+Seat 9: spunk73 (0.80€)
+*** ANTE/BLINDS ***
+rick91 posts small blind 0.01€
+alnas posts big blind 0.02€
+Dealt to sabre_laser [Jd 8c]
+*** PRE-FLOP *** 
+Teamjsk calls 0.02€
+sabre_laser folds
+kalinka59230 calls 0.02€
+spunk73 folds
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas checks
+*** FLOP *** [Js Ac Jh]
+alnas checks
+Teamjsk checks
+kalinka59230 checks
+*** TURN *** [Js Ac Jh][Qd]
+alnas checks
+Teamjsk checks
+kalinka59230 checks
+*** RIVER *** [Js Ac Jh Qd][Tc]
+alnas checks
+Teamjsk bets 0.02€
+kalinka59230 folds
+alnas folds
+Teamjsk collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Board: [Js Ac Jh Qd Tc]
+Seat 6: Teamjsk won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1244-1427479889 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:11:29 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #3 is the button
+Seat 1: nicois78 (1.66€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.06€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.79€)
+Seat 7: sabre_laser (1.75€)
+Seat 8: kalinka59230 (1.95€)
+Seat 9: spunk73 (0.80€)
+*** ANTE/BLINDS ***
+alnas posts small blind 0.01€
+Nightbreed posts big blind 0.02€
+Dealt to sabre_laser [3c 8h]
+*** PRE-FLOP *** 
+Teamjsk folds
+sabre_laser folds
+kalinka59230 folds
+spunk73 calls 0.02€
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas raises 0.06€ to 0.08€
+Nightbreed folds
+spunk73 calls 0.06€
+*** FLOP *** [4s Qd 9h]
+alnas bets 0.10€
+spunk73 calls 0.10€
+*** TURN *** [4s Qd 9h][Td]
+alnas checks
+spunk73 checks
+*** RIVER *** [4s Qd 9h Td][8d]
+alnas checks
+spunk73 checks
+*** SHOW DOWN ***
+spunk73 shows [7h Ah] (High card : Ace)
+alnas shows [2d 2s] (One pair : 2)
+alnas collected 0.36€ from pot
+*** SUMMARY ***
+Total pot 0.36€ | Rake 0.02€
+Board: [4s Qd 9h Td 8d]
+Seat 4: alnas (small blind) showed [2d 2s] and won 0.36€ with One pair : 2
+Seat 9: spunk73 showed [7h Ah] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7339713-1245-1427479980 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:13:00 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #4 is the button
+Seat 1: nicois78 (1.66€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.24€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.79€)
+Seat 7: sabre_laser (1.75€)
+Seat 8: kalinka59230 (1.95€)
+Seat 9: spunk73 (0.62€)
+*** ANTE/BLINDS ***
+Nightbreed posts small blind 0.01€
+Teamjsk posts big blind 0.02€
+Dealt to sabre_laser [5d Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+kalinka59230 raises 0.02€ to 0.04€
+spunk73 folds
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk calls 0.02€
+*** FLOP *** [2h 2c 8s]
+Teamjsk bets 0.02€
+kalinka59230 calls 0.02€
+*** TURN *** [2h 2c 8s][Jh]
+Teamjsk bets 0.02€
+kalinka59230 folds
+Teamjsk collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [2h 2c 8s Jh]
+Seat 6: Teamjsk (big blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1246-1427480057 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:14:17 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #5 is the button
+Seat 1: nicois78 (1.66€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.24€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.85€)
+Seat 7: sabre_laser (1.75€)
+Seat 8: kalinka59230 (1.89€)
+Seat 9: spunk73 (0.62€)
+*** ANTE/BLINDS ***
+Teamjsk posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Kc Jd]
+*** PRE-FLOP *** 
+kalinka59230 folds
+spunk73 folds
+nicois78 raises 0.03€ to 0.05€
+Mecheblanche folds
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser calls 0.03€
+*** FLOP *** [5d Kh 4c]
+sabre_laser checks
+nicois78 checks
+*** TURN *** [5d Kh 4c][8s]
+sabre_laser bets 0.04€
+nicois78 folds
+sabre_laser collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [5d Kh 4c 8s]
+Seat 7: sabre_laser (big blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1247-1427480123 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:15:23 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #6 is the button
+Seat 1: nicois78 (1.61€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.24€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.84€)
+Seat 7: sabre_laser (1.80€)
+Seat 8: kalinka59230 (1.89€)
+Seat 9: spunk73 (0.62€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+kalinka59230 posts big blind 0.02€
+Dealt to sabre_laser [8h 2h]
+*** PRE-FLOP *** 
+spunk73 folds
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk calls 0.02€
+sabre_laser folds
+kalinka59230 checks
+*** FLOP *** [7h 8c Tc]
+kalinka59230 checks
+Teamjsk bets 0.03€
+kalinka59230 folds
+Teamjsk collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [7h 8c Tc]
+Seat 6: Teamjsk (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1248-1427480230 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:17:10 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #7 is the button
+Seat 1: nicois78 (1.61€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.24€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (1.87€)
+Seat 7: sabre_laser (1.79€)
+Seat 8: kalinka59230 (1.87€)
+Seat 9: spunk73 (0.62€)
+*** ANTE/BLINDS ***
+kalinka59230 posts small blind 0.01€
+spunk73 posts big blind 0.02€
+Dealt to sabre_laser [Js As]
+*** PRE-FLOP *** 
+nicois78 calls 0.02€
+Mecheblanche folds
+rick91 folds
+alnas raises 0.05€ to 0.07€
+Nightbreed folds
+Teamjsk calls 0.07€
+sabre_laser calls 0.07€
+kalinka59230 folds
+spunk73 folds
+nicois78 calls 0.05€
+*** FLOP *** [2d 9s 8c]
+nicois78 checks
+alnas checks
+Teamjsk checks
+sabre_laser bets 0.23€
+nicois78 calls 0.23€
+alnas folds
+Teamjsk calls 0.23€
+*** TURN *** [2d 9s 8c][Ah]
+nicois78 checks
+Teamjsk checks
+sabre_laser bets 0.28€
+nicois78 calls 0.28€
+Teamjsk calls 0.28€
+*** RIVER *** [2d 9s 8c Ah][3h]
+nicois78 checks
+Teamjsk folds
+sabre_laser checks
+*** SHOW DOWN ***
+nicois78 shows [9d Td] (One pair : 9)
+sabre_laser shows [Js As] (One pair : Aces)
+sabre_laser collected 1.72€ from pot
+*** SUMMARY ***
+Total pot 1.72€ | Rake 0.12€
+Board: [2d 9s 8c Ah 3h]
+Seat 1: nicois78 showed [9d Td] and lost with One pair : 9
+Seat 7: sabre_laser (button) showed [Js As] and won 1.72€ with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7339713-1249-1427480429 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:20:29 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #8 is the button
+Seat 1: nicois78 (1.03€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.17€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2€)
+Seat 7: sabre_laser (2.93€)
+Seat 8: kalinka59230 (1.86€)
+Seat 9: spunk73 (0.60€)
+*** ANTE/BLINDS ***
+spunk73 posts small blind 0.01€
+nicois78 posts big blind 0.02€
+Dealt to sabre_laser [Qc 5c]
+*** PRE-FLOP *** 
+Mecheblanche folds
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk calls 0.02€
+sabre_laser folds
+kalinka59230 folds
+spunk73 folds
+nicois78 checks
+*** FLOP *** [3d Qh Ac]
+nicois78 checks
+Teamjsk checks
+*** TURN *** [3d Qh Ac][Js]
+nicois78 bets 0.03€
+Teamjsk calls 0.03€
+*** RIVER *** [3d Qh Ac Js][Jd]
+nicois78 bets 0.07€
+Teamjsk calls 0.07€
+*** SHOW DOWN ***
+nicois78 shows [Th 9d] (One pair : Jacks)
+Teamjsk shows [Ks Jh] (Trips of Jacks)
+Teamjsk collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.02€
+Board: [3d Qh Ac Js Jd]
+Seat 1: nicois78 (big blind) showed [Th 9d] and lost with One pair : Jacks
+Seat 6: Teamjsk showed [Ks Jh] and won 0.23€ with Trips of Jacks
+
+
+Winamax Poker - CashGame - HandId: #7339713-1250-1427480556 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:22:36 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #9 is the button
+Seat 1: nicois78 (0.91€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.17€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.11€)
+Seat 7: sabre_laser (2.93€)
+Seat 8: kalinka59230 (1.86€)
+Seat 9: spunk73 (0.59€)
+*** ANTE/BLINDS ***
+nicois78 posts small blind 0.01€
+Mecheblanche posts big blind 0.02€
+Dealt to sabre_laser [4d 7c]
+*** PRE-FLOP *** 
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk calls 0.02€
+sabre_laser folds
+kalinka59230 calls 0.02€
+nicois78 calls 0.01€
+Mecheblanche checks
+*** FLOP *** [2h 2d Tc]
+nicois78 bets 0.05€
+Mecheblanche folds
+Teamjsk folds
+kalinka59230 folds
+nicois78 collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [2h 2d Tc]
+Seat 1: nicois78 (small blind) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1251-1427480602 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:23:22 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #1 is the button
+Seat 1: nicois78 (0.96€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.42€)
+Seat 4: alnas (2.17€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.09€)
+Seat 7: sabre_laser (2.93€)
+Seat 8: kalinka59230 (1.84€)
+Seat 9: spunk73 (0.59€)
+*** ANTE/BLINDS ***
+Mecheblanche posts small blind 0.01€
+rick91 posts big blind 0.02€
+Dealt to sabre_laser [Ah 5h]
+*** PRE-FLOP *** 
+alnas folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser raises 0.03€ to 0.05€
+kalinka59230 calls 0.05€
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+*** FLOP *** [6d 6s Ts]
+sabre_laser bets 0.13€
+kalinka59230 folds
+sabre_laser collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | Rake 0.01€
+Board: [6d 6s Ts]
+Seat 7: sabre_laser won 0.25€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1252-1427480658 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:24:18 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #2 is the button
+Seat 1: nicois78 (0.96€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.40€)
+Seat 4: alnas (2.17€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.09€)
+Seat 7: sabre_laser (3€)
+Seat 8: kalinka59230 (1.79€)
+Seat 9: spunk73 (0.59€)
+*** ANTE/BLINDS ***
+rick91 posts small blind 0.01€
+alnas posts big blind 0.02€
+Dealt to sabre_laser [Kd 9s]
+*** PRE-FLOP *** 
+Nightbreed folds
+Teamjsk folds
+sabre_laser folds
+kalinka59230 folds
+spunk73 folds
+nicois78 folds
+Mecheblanche raises 0.02€ to 0.04€
+rick91 folds
+alnas folds
+Mecheblanche collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 2: Mecheblanche (button) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1253-1427480704 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:25:04 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #3 is the button
+Seat 1: nicois78 (0.96€)
+Seat 2: Mecheblanche (2.03€)
+Seat 3: rick91 (1.39€)
+Seat 4: alnas (2.15€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.09€)
+Seat 7: sabre_laser (3€)
+Seat 8: kalinka59230 (1.79€)
+Seat 9: spunk73 (0.59€)
+*** ANTE/BLINDS ***
+alnas posts small blind 0.01€
+Nightbreed posts big blind 0.02€
+Dealt to sabre_laser [6c 8c]
+*** PRE-FLOP *** 
+Teamjsk calls 0.02€
+sabre_laser folds
+kalinka59230 folds
+spunk73 folds
+nicois78 calls 0.02€
+Mecheblanche folds
+rick91 calls 0.02€
+alnas raises 0.10€ to 0.12€
+Nightbreed folds
+Teamjsk folds
+nicois78 folds
+rick91 folds
+alnas collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | No rake
+Seat 4: alnas (small blind) won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1254-1427480759 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:25:59 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #4 is the button
+Seat 1: nicois78 (0.94€)
+Seat 2: Mecheblanche (2.03€)
+Seat 3: rick91 (1.37€)
+Seat 4: alnas (2.23€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.07€)
+Seat 7: sabre_laser (3€)
+Seat 8: kalinka59230 (1.79€)
+Seat 9: spunk73 (0.59€)
+*** ANTE/BLINDS ***
+Nightbreed posts small blind 0.01€
+Teamjsk posts big blind 0.02€
+Dealt to sabre_laser [Ah Th]
+*** PRE-FLOP *** 
+sabre_laser raises 0.04€ to 0.06€
+kalinka59230 folds
+spunk73 folds
+nicois78 folds
+Mecheblanche folds
+rick91 calls 0.06€
+alnas folds
+Nightbreed folds
+Teamjsk folds
+*** FLOP *** [Ac Tc 9d]
+sabre_laser checks
+rick91 checks
+*** TURN *** [Ac Tc 9d][Js]
+sabre_laser bets 0.15€
+rick91 folds
+sabre_laser collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [Ac Tc 9d Js]
+Seat 7: sabre_laser won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1255-1427480813 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:26:53 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #5 is the button
+Seat 1: nicois78 (0.94€)
+Seat 2: Mecheblanche (2.03€)
+Seat 3: rick91 (1.31€)
+Seat 4: alnas (2.23€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.05€)
+Seat 7: sabre_laser (3.08€)
+Seat 8: kalinka59230 (1.79€)
+Seat 9: spunk73 (0.59€)
+*** ANTE/BLINDS ***
+Teamjsk posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [4d Tc]
+*** PRE-FLOP *** 
+kalinka59230 folds
+spunk73 raises 0.02€ to 0.04€
+nicois78 folds
+Mecheblanche calls 0.04€
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser folds
+*** FLOP *** [3s 2s Kc]
+spunk73 bets 0.02€
+Mecheblanche calls 0.02€
+*** TURN *** [3s 2s Kc][9d]
+spunk73 bets 0.02€
+Mecheblanche folds
+spunk73 collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | Rake 0.01€
+Board: [3s 2s Kc 9d]
+Seat 9: spunk73 won 0.16€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1256-1427480907 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:28:27 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #6 is the button
+Seat 1: nicois78 (0.94€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.31€)
+Seat 4: alnas (2.23€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.06€)
+Seat 8: kalinka59230 (1.79€)
+Seat 9: spunk73 (0.67€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+kalinka59230 posts big blind 0.02€
+Dealt to sabre_laser [4d Qd]
+*** PRE-FLOP *** 
+spunk73 folds
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser calls 0.01€
+kalinka59230 raises 0.04€ to 0.06€
+sabre_laser calls 0.04€
+*** FLOP *** [Ac 6c Ks]
+sabre_laser bets 0.05€
+kalinka59230 folds
+sabre_laser collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | Rake 0.01€
+Board: [Ac 6c Ks]
+Seat 7: sabre_laser (small blind) won 0.16€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1257-1427480976 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:29:36 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #7 is the button
+Seat 1: nicois78 (0.94€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.31€)
+Seat 4: alnas (2.23€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.11€)
+Seat 8: kalinka59230 (1.73€)
+Seat 9: spunk73 (0.67€)
+*** ANTE/BLINDS ***
+kalinka59230 posts small blind 0.01€
+spunk73 posts big blind 0.02€
+Dealt to sabre_laser [Th 2h]
+*** PRE-FLOP *** 
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser folds
+kalinka59230 folds
+spunk73 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 9: spunk73 (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1258-1427481035 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:30:35 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #8 is the button
+Seat 1: nicois78 (0.94€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.31€)
+Seat 4: alnas (2.23€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.11€)
+Seat 8: kalinka59230 (1.72€)
+Seat 9: spunk73 (0.68€)
+*** ANTE/BLINDS ***
+spunk73 posts small blind 0.01€
+nicois78 posts big blind 0.02€
+Dealt to sabre_laser [9h 3c]
+*** PRE-FLOP *** 
+Mecheblanche calls 0.02€
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser folds
+kalinka59230 folds
+spunk73 calls 0.01€
+nicois78 raises 0.07€ to 0.09€
+Mecheblanche calls 0.07€
+spunk73 calls 0.07€
+*** FLOP *** [7h 5s Td]
+spunk73 bets 0.21€
+nicois78 raises 0.33€ to 0.54€
+Mecheblanche folds
+spunk73 raises 0.05€ to 0.59€ and is all-in
+nicois78 calls 0.05€
+*** TURN *** [7h 5s Td][7c]
+*** RIVER *** [7h 5s Td 7c][Kd]
+*** SHOW DOWN ***
+spunk73 shows [6c 4c] (One pair : 7)
+nicois78 shows [Qs Qc] (Two pairs : Queens and 7)
+nicois78 collected 1.36€ from pot
+*** SUMMARY ***
+Total pot 1.36€ | Rake 0.09€
+Board: [7h 5s Td 7c Kd]
+Seat 1: nicois78 (big blind) showed [Qs Qc] and won 1.36€ with Two pairs : Queens and 7
+Seat 9: spunk73 (small blind) showed [6c 4c] and lost with One pair : 7
+
+
+Winamax Poker - CashGame - HandId: #7339713-1259-1427481171 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:32:51 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #9 is the button
+Seat 1: nicois78 (1.62€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.31€)
+Seat 4: alnas (2.23€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.11€)
+Seat 8: kalinka59230 (1.72€)
+Seat 9: spunk73 (0€)
+*** ANTE/BLINDS ***
+nicois78 posts small blind 0.01€
+Mecheblanche posts big blind 0.02€
+Dealt to sabre_laser [Ts 6h]
+*** PRE-FLOP *** 
+rick91 folds
+alnas folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser folds
+kalinka59230 folds
+nicois78 raises 0.03€ to 0.05€
+Mecheblanche folds
+nicois78 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 1: nicois78 (small blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1260-1427481192 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:33:12 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #1 is the button
+Seat 1: nicois78 (1.64€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.31€)
+Seat 4: foalinaah (0€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.11€)
+Seat 8: kalinka59230 (1.72€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+Mecheblanche posts small blind 0.01€
+rick91 posts big blind 0.02€
+Dealt to sabre_laser [2h 6h]
+*** PRE-FLOP *** 
+Nightbreed folds
+Teamjsk folds
+sabre_laser folds
+kalinka59230 calls 0.02€
+nicois78 folds
+Mecheblanche folds
+rick91 checks
+*** FLOP *** [Qs 5c 4s]
+rick91 checks
+kalinka59230 checks
+*** TURN *** [Qs 5c 4s][Th]
+rick91 checks
+kalinka59230 checks
+*** RIVER *** [Qs 5c 4s Th][Ah]
+rick91 checks
+kalinka59230 checks
+*** SHOW DOWN ***
+rick91 shows [2d 8c] (High card : Ace)
+kalinka59230 shows [3s 3c] (One pair : 3)
+kalinka59230 collected 0.05€ from pot
+*** SUMMARY ***
+Total pot 0.05€ | No rake
+Board: [Qs 5c 4s Th Ah]
+Seat 3: rick91 (big blind) showed [2d 8c] and lost with High card : Ace
+Seat 8: kalinka59230 showed [3s 3c] and won 0.05€ with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7339713-1261-1427481253 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:34:13 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #2 is the button
+Seat 1: nicois78 (1.64€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.29€)
+Seat 4: foalinaah (2€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.11€)
+Seat 8: kalinka59230 (1.75€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+rick91 posts small blind 0.01€
+foalinaah posts big blind 0.02€
+Dealt to sabre_laser [7d Kc]
+*** PRE-FLOP *** 
+Nightbreed folds
+Teamjsk folds
+sabre_laser folds
+kalinka59230 raises 0.02€ to 0.04€
+nicois78 folds
+Mecheblanche folds
+rick91 folds
+foalinaah folds
+kalinka59230 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 8: kalinka59230 won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1262-1427481288 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:34:48 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #3 is the button
+Seat 1: nicois78 (1.64€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.28€)
+Seat 4: foalinaah (2€)
+Seat 5: Nightbreed (2€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.11€)
+Seat 8: kalinka59230 (1.78€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+foalinaah posts small blind 0.01€
+Nightbreed posts big blind 0.02€
+Dealt to sabre_laser [6d Qd]
+*** PRE-FLOP *** 
+Teamjsk folds
+sabre_laser folds
+kalinka59230 folds
+nicois78 folds
+Mecheblanche folds
+rick91 calls 0.02€
+foalinaah calls 0.01€
+Nightbreed checks
+*** FLOP *** [5c 6s 2d]
+foalinaah checks
+Nightbreed checks
+rick91 checks
+*** TURN *** [5c 6s 2d][3c]
+foalinaah checks
+Nightbreed checks
+rick91 checks
+*** RIVER *** [5c 6s 2d 3c][5d]
+foalinaah checks
+Nightbreed checks
+rick91 checks
+*** SHOW DOWN ***
+rick91 shows [Jh Ks] (One pair : 5)
+foalinaah shows [Qh Kh] (One pair : 5)
+Nightbreed shows [3s As] (Two pairs : 5 and 3)
+Nightbreed collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [5c 6s 2d 3c 5d]
+Seat 3: rick91 (button) showed [Jh Ks] and lost with One pair : 5
+Seat 4: foalinaah (small blind) showed [Qh Kh] and lost with One pair : 5
+Seat 5: Nightbreed (big blind) showed [3s As] and won 0.06€ with Two pairs : 5 and 3
+
+
+Winamax Poker - CashGame - HandId: #7339713-1263-1427481373 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:36:13 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #4 is the button
+Seat 1: nicois78 (1.64€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.26€)
+Seat 4: foalinaah (2€)
+Seat 5: Nightbreed (2.04€)
+Seat 6: Teamjsk (2.04€)
+Seat 7: sabre_laser (3.11€)
+Seat 8: kalinka59230 (1.78€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+Nightbreed posts small blind 0.01€
+Teamjsk posts big blind 0.02€
+Dealt to sabre_laser [Qc Kh]
+*** PRE-FLOP *** 
+sabre_laser raises 0.05€ to 0.07€
+kalinka59230 folds
+nicois78 folds
+Mecheblanche calls 0.07€
+rick91 folds
+foalinaah folds
+Nightbreed folds
+Teamjsk folds
+*** FLOP *** [2h 7d 5c]
+sabre_laser bets 0.13€
+Mecheblanche folds
+sabre_laser collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [2h 7d 5c]
+Seat 7: sabre_laser won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1264-1427481423 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:37:03 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #5 is the button
+Seat 1: nicois78 (1.64€)
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.26€)
+Seat 4: foalinaah (2€)
+Seat 5: Nightbreed (2.03€)
+Seat 6: Teamjsk (2.02€)
+Seat 7: sabre_laser (3.20€)
+Seat 8: kalinka59230 (1.78€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+Teamjsk posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Qc 2h]
+*** PRE-FLOP *** 
+kalinka59230 folds
+nicois78 folds
+Mecheblanche calls 0.02€
+rick91 folds
+foalinaah calls 0.02€
+Nightbreed folds
+Teamjsk calls 0.01€
+sabre_laser checks
+*** FLOP *** [5h 8h 3d]
+Teamjsk checks
+sabre_laser checks
+Mecheblanche checks
+foalinaah bets 0.06€
+Teamjsk folds
+sabre_laser folds
+Mecheblanche folds
+foalinaah collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [5h 8h 3d]
+Seat 4: foalinaah won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1265-1427481493 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:38:13 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #6 is the button
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.26€)
+Seat 4: foalinaah (2.05€)
+Seat 5: Nightbreed (2.03€)
+Seat 6: Teamjsk (2€)
+Seat 7: sabre_laser (3.18€)
+Seat 8: kalinka59230 (1.78€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+kalinka59230 posts big blind 0.02€
+Dealt to sabre_laser [Ad Qd]
+*** PRE-FLOP *** 
+Mecheblanche folds
+rick91 folds
+foalinaah folds
+Nightbreed folds
+Teamjsk calls 0.02€
+sabre_laser raises 0.02€ to 0.04€
+kalinka59230 folds
+Teamjsk calls 0.02€
+*** FLOP *** [Js As 7c]
+sabre_laser bets 0.05€
+Teamjsk folds
+sabre_laser collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [Js As 7c]
+Seat 7: sabre_laser (small blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #7339713-1266-1427481548 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:39:08 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #7 is the button
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.26€)
+Seat 4: foalinaah (2.05€)
+Seat 5: Nightbreed (2.03€)
+Seat 6: Teamjsk (2€)
+Seat 7: sabre_laser (3.23€)
+Seat 8: kalinka59230 (1.76€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+kalinka59230 posts small blind 0.01€
+Wondu59 posts big blind 0.02€
+Dealt to sabre_laser [7c 7s]
+*** PRE-FLOP *** 
+Mecheblanche folds
+rick91 calls 0.02€
+foalinaah folds
+Nightbreed folds
+Teamjsk calls 0.02€
+sabre_laser calls 0.02€
+kalinka59230 raises 1.74€ to 1.76€ and is all-in
+Wondu59 folds
+rick91 folds
+Teamjsk folds
+sabre_laser calls 1.74€
+*** FLOP *** [Qs Ac 8c]
+*** TURN *** [Qs Ac 8c][6h]
+*** RIVER *** [Qs Ac 8c 6h][3h]
+*** SHOW DOWN ***
+sabre_laser shows [7c 7s] (One pair : 7)
+kalinka59230 shows [Ad Ah] (Trips of Aces)
+kalinka59230 collected 3.35€ from pot
+*** SUMMARY ***
+Total pot 3.35€ | Rake 0.23€
+Board: [Qs Ac 8c 6h 3h]
+Seat 7: sabre_laser (button) showed [7c 7s] and lost with One pair : 7
+Seat 8: kalinka59230 (small blind) showed [Ad Ah] and won 3.35€ with Trips of Aces
+
+
+Winamax Poker - CashGame - HandId: #7339713-1267-1427481591 - Holdem no limit (0.01€/0.02€) - 2015/03/27 18:39:51 UTC
+Table: 'Frankfurt' 9-max (real money) Seat #8 is the button
+Seat 2: Mecheblanche (2€)
+Seat 3: rick91 (1.24€)
+Seat 4: foalinaah (2.05€)
+Seat 5: Nightbreed (2.03€)
+Seat 6: Teamjsk (2€)
+Seat 7: sabre_laser (1.47€)
+Seat 8: kalinka59230 (3.35€)
+Seat 9: Wondu59 (2€)
+*** ANTE/BLINDS ***
+Wondu59 posts small blind 0.01€
+Mecheblanche posts big blind 0.02€
+Dealt to sabre_laser [Qc Jh]
+*** PRE-FLOP *** 
+rick91 folds
+foalinaah folds
+Nightbreed folds
+Teamjsk folds
+sabre_laser raises 1.45€ to 1.47€ and is all-in
+kalinka59230 folds
+Wondu59 folds
+Mecheblanche folds
+sabre_laser collected 1.50€ from pot
+*** SUMMARY ***
+Total pot 1.50€ | No rake
+Seat 7: sabre_laser won 1.50€
+
+

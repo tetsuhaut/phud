@@ -1,0 +1,6351 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #427038934564864207-1-1416428139 - Holdem no limit (10/20) - 2014/11/19 20:15:39 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #2 is the button
+Seat 1: Asjok84 (3000)
+Seat 2: underpaul (3000)
+Seat 3: bibieboub (3000)
+Seat 4: Draculae (3000)
+Seat 5: clara307 (3000)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (3000)
+Seat 9: blondain1313 (3000)
+*** ANTE/BLINDS ***
+bibieboub posts small blind 10
+Draculae posts big blind 20
+Dealt to sabre_laser [4h 6d]
+*** PRE-FLOP *** 
+clara307 calls 20
+El maestro73 folds
+sabre_laser folds
+LoO_OoL folds
+blondain1313 raises 20 to 40
+Asjok84 folds
+underpaul folds
+bibieboub folds
+Draculae calls 20
+clara307 calls 20
+*** FLOP *** [5s Ts 5h]
+Draculae checks
+clara307 bets 710
+blondain1313 folds
+Draculae folds
+clara307 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [5s Ts 5h]
+Seat 5: clara307 won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #427038934564864207-2-1416428365 - Holdem no limit (15/30) - 2014/11/19 20:19:25 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #3 is the button
+Seat 1: Asjok84 (3000)
+Seat 2: underpaul (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2960)
+Seat 5: clara307 (3090)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (3000)
+Seat 9: blondain1313 (2960)
+*** ANTE/BLINDS ***
+Draculae posts small blind 15
+clara307 posts big blind 30
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+El maestro73 folds
+sabre_laser folds
+LoO_OoL calls 30
+blondain1313 calls 30
+Asjok84 raises 135 to 165
+underpaul calls 165
+bibieboub folds
+Draculae folds
+clara307 folds
+LoO_OoL folds
+blondain1313 calls 135
+*** FLOP *** [Jd 2h 9s]
+blondain1313 checks
+Asjok84 bets 380
+underpaul calls 380
+blondain1313 folds
+*** TURN *** [Jd 2h 9s][7d]
+Asjok84 bets 665
+underpaul calls 665
+*** RIVER *** [Jd 2h 9s 7d][4c]
+Asjok84 checks
+underpaul bets 1790 and is all-in
+Asjok84 calls 1790 and is all-in
+*** SHOW DOWN ***
+underpaul shows [Qs Kd] (High card : King)
+Asjok84 shows [Kc Kh] (One pair : Kings)
+Asjok84 collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Board: [Jd 2h 9s 7d 4c]
+Seat 1: Asjok84 showed [Kc Kh] and won 6240 with One pair : Kings
+Seat 2: underpaul showed [Qs Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #427038934564864207-3-1416428475 - Holdem no limit (15/30) - 2014/11/19 20:21:15 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #4 is the button
+Seat 1: Asjok84 (6240)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2945)
+Seat 5: clara307 (3060)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (2970)
+Seat 9: blondain1313 (2795)
+*** ANTE/BLINDS ***
+clara307 posts small blind 15
+El maestro73 posts big blind 30
+Dealt to sabre_laser [2d 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+LoO_OoL calls 30
+blondain1313 calls 30
+Asjok84 calls 30
+bibieboub folds
+Draculae calls 30
+clara307 raises 3030 to 3060 and is all-in
+El maestro73 folds
+LoO_OoL folds
+blondain1313 folds
+Asjok84 folds
+Draculae folds
+clara307 collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Seat 5: clara307 (small blind) won 3210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #427038934564864207-4-1416428541 - Holdem no limit (20/40) - 2014/11/19 20:22:21 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #5 is the button
+Seat 1: Asjok84 (6210)
+Seat 2: Louca61 (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2915)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2970)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (2940)
+Seat 9: blondain1313 (2765)
+*** ANTE/BLINDS ***
+El maestro73 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Jd 6d]
+*** PRE-FLOP *** 
+LoO_OoL folds
+blondain1313 calls 40
+Asjok84 folds
+Louca61 folds
+bibieboub folds
+Draculae calls 40
+clara307 folds
+El maestro73 calls 20
+sabre_laser folds
+*** FLOP *** [Qh 8c 8s]
+El maestro73 checks
+blondain1313 bets 40
+Draculae calls 40
+El maestro73 folds
+*** TURN *** [Qh 8c 8s][9h]
+blondain1313 bets 40
+Draculae calls 40
+*** RIVER *** [Qh 8c 8s 9h][Th]
+blondain1313 bets 80
+Draculae calls 80
+*** SHOW DOWN ***
+Draculae shows [2d Kd] (One pair : 8)
+blondain1313 shows [9s Ks] (Two pairs : 9 and 8)
+blondain1313 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh 8c 8s 9h Th]
+Seat 4: Draculae showed [2d Kd] and lost with One pair : 8
+Seat 9: blondain1313 showed [9s Ks] and won 480 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-5-1416428694 - Holdem no limit (30/60) - 2014/11/19 20:24:54 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #6 is the button
+Seat 1: Asjok84 (6210)
+Seat 2: Louca61 (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2930)
+Seat 7: sabre_laser (2960)
+Seat 8: LoO_OoL (2940)
+Seat 9: blondain1313 (3045)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+LoO_OoL posts big blind 60
+Dealt to sabre_laser [Qh 7d]
+*** PRE-FLOP *** 
+blondain1313 folds
+Asjok84 raises 90 to 150
+Louca61 calls 150
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 folds
+sabre_laser folds
+LoO_OoL calls 90
+*** FLOP *** [Jd Qs 7c]
+LoO_OoL checks
+Asjok84 checks
+Louca61 checks
+*** TURN *** [Jd Qs 7c][Ah]
+LoO_OoL checks
+Asjok84 bets 300
+Louca61 raises 300 to 600
+LoO_OoL folds
+Asjok84 calls 300
+*** RIVER *** [Jd Qs 7c Ah][Ks]
+Asjok84 bets 1120
+Louca61 calls 1120
+*** SHOW DOWN ***
+Louca61 shows [Ac 5s] (One pair : Aces)
+Asjok84 shows [As Th] (Straight Ace high)
+Asjok84 collected 3920 from pot
+*** SUMMARY ***
+Total pot 3920 | No rake
+Board: [Jd Qs 7c Ah Ks]
+Seat 1: Asjok84 showed [As Th] and won 3920 with Straight Ace high
+Seat 2: Louca61 showed [Ac 5s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-6-1416428787 - Holdem no limit (30/60) - 2014/11/19 20:26:27 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #7 is the button
+Seat 1: Asjok84 (8260)
+Seat 2: Louca61 (1130)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2930)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (2790)
+Seat 9: blondain1313 (3045)
+*** ANTE/BLINDS ***
+LoO_OoL posts small blind 30
+blondain1313 posts big blind 60
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+Asjok84 calls 60
+Louca61 raises 1070 to 1130 and is all-in
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 raises 1800 to 2930 and is all-in
+sabre_laser folds
+LoO_OoL folds
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [6c Qs 9c]
+*** TURN *** [6c Qs 9c][Ad]
+*** RIVER *** [6c Qs 9c Ad][5s]
+*** SHOW DOWN ***
+Louca61 shows [6s Ac] (Two pairs : Aces and 6)
+El maestro73 shows [Tc Th] (One pair : Tens)
+El maestro73 collected 1800 from side pot 1
+Louca61 collected 2410 from main pot
+*** SUMMARY ***
+Total pot 4210 | No rake
+Board: [6c Qs 9c Ad 5s]
+Seat 2: Louca61 showed [6s Ac] and won 2410 with Two pairs : Aces and 6
+Seat 6: El maestro73 showed [Tc Th] and won 1800 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-7-1416428831 - Holdem no limit (30/60) - 2014/11/19 20:27:11 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #8 is the button
+Seat 1: Asjok84 (8200)
+Seat 2: Louca61 (2410)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (1800)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (2760)
+Seat 9: blondain1313 (2985)
+*** ANTE/BLINDS ***
+blondain1313 posts small blind 30
+Asjok84 posts big blind 60
+Dealt to sabre_laser [Jd Qh]
+*** PRE-FLOP *** 
+Louca61 raises 2350 to 2410 and is all-in
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 calls 1800 and is all-in
+sabre_laser folds
+LoO_OoL raises 350 to 2760 and is all-in
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [6s Tc 4s]
+*** TURN *** [6s Tc 4s][8s]
+*** RIVER *** [6s Tc 4s 8s][Ts]
+*** SHOW DOWN ***
+El maestro73 shows [As 7s] (Flush Ace high)
+Louca61 shows [Js 9d] (Flush Jack high)
+LoO_OoL shows [2s 2h] (Flush Ten high)
+LoO_OoL collected 350 from side pot 2
+Louca61 collected 1220 from side pot 1
+El maestro73 collected 5490 from main pot
+*** SUMMARY ***
+Total pot 7060 | No rake
+Board: [6s Tc 4s 8s Ts]
+Seat 2: Louca61 showed [Js 9d] and won 1220 with Flush Jack high
+Seat 6: El maestro73 showed [As 7s] and won 5490 with Flush Ace high
+Seat 8: LoO_OoL (button) showed [2s 2h] and won 350 with Flush Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #427038934564864207-8-1416428891 - Holdem no limit (40/80) - 2014/11/19 20:28:11 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #9 is the button
+Seat 1: Asjok84 (8140)
+Seat 2: Louca61 (1220)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (5490)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (350)
+Seat 9: blondain1313 (2955)
+*** ANTE/BLINDS ***
+Asjok84 posts small blind 40
+Louca61 posts big blind 80
+Dealt to sabre_laser [6s Qc]
+*** PRE-FLOP *** 
+bibieboub folds
+Draculae calls 80
+clara307 folds
+El maestro73 folds
+sabre_laser folds
+LoO_OoL folds
+blondain1313 calls 80
+Asjok84 calls 40
+Louca61 raises 1140 to 1220 and is all-in
+Draculae calls 1140
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [9c 7d 8d]
+*** TURN *** [9c 7d 8d][9d]
+*** RIVER *** [9c 7d 8d 9d][Jh]
+*** SHOW DOWN ***
+Louca61 shows [Ad Kc] (One pair : 9)
+Draculae shows [Qs Jd] (Two pairs : Jacks and 9)
+Draculae collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [9c 7d 8d 9d Jh]
+Seat 2: Louca61 (big blind) showed [Ad Kc] and lost with One pair : 9
+Seat 4: Draculae showed [Qs Jd] and won 2600 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #427038934564864214-12-1416429090 - Holdem no limit (60/120) - 2014/11/19 20:31:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: soso33000 (2495)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (13110)
+Seat 6: Bruno08300 (5520)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8470)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+Sharony55 posts big blind 120
+*** PRE-FLOP *** 
+Bruno08300 folds
+moukki13 folds
+eirinn33 calls 120
+LudoSab08 folds
+soso33000 calls 120
+GuiGui.39 folds
+Sharony55 checks
+*** FLOP *** [8d Ah Js]
+Sharony55 checks
+eirinn33 checks
+soso33000 checks
+*** TURN *** [8d Ah Js][3s]
+Sharony55 folds
+eirinn33 checks
+soso33000 checks
+*** RIVER *** [8d Ah Js 3s][Td]
+eirinn33 checks
+soso33000 checks
+*** SHOW DOWN ***
+soso33000 shows [Qd 3d] (One pair : 3)
+eirinn33 shows [7d 7h] (One pair : 7)
+eirinn33 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8d Ah Js 3s Td]
+Seat 1: soso33000 showed [Qd 3d] and lost with One pair : 3
+Seat 8: eirinn33 showed [7d 7h] and won 360 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #427038934564864214-13-1416429168 - Holdem no limit (60/120) - 2014/11/19 20:32:48 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: soso33000 (2375)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (12990)
+Seat 6: Bruno08300 (5520)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8710)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+Sharony55 posts small blind 60
+Bruno08300 posts big blind 120
+*** PRE-FLOP *** 
+moukki13 folds
+eirinn33 folds
+LudoSab08 folds
+soso33000 folds
+GuiGui.39 folds
+Sharony55 calls 60
+Bruno08300 checks
+*** FLOP *** [8h 2s 2c]
+Sharony55 checks
+Bruno08300 bets 240
+Sharony55 calls 240
+*** TURN *** [8h 2s 2c][9h]
+Sharony55 checks
+Bruno08300 bets 720
+Sharony55 calls 720
+*** RIVER *** [8h 2s 2c 9h][Js]
+Sharony55 checks
+Bruno08300 bets 2160
+Sharony55 raises 5636 to 7796
+Bruno08300 calls 2280 and is all-in
+*** SHOW DOWN ***
+Bruno08300 shows [9c 8c] (Two pairs : 9 and 8)
+Sharony55 shows [5c 2h] (Trips of 2)
+Sharony55 collected 14396 from pot
+*** SUMMARY ***
+Total pot 14396 | No rake
+Board: [8h 2s 2c 9h Js]
+Seat 5: Sharony55 (small blind) showed [5c 2h] and won 14396 with Trips of 2
+Seat 6: Bruno08300 (big blind) showed [9c 8c] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-14-1416429232 - Holdem no limit (10/60/120) - 2014/11/19 20:33:52 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: soso33000 (2375)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (18510)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8710)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+moukki13 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+eirinn33 posts ante 10
+LudoSab08 posts ante 10
+moukki13 posts big blind 120
+Dealt to sabre_laser [3s 5d]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 calls 120
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 120
+moukki13 folds
+*** FLOP *** [Ah 4h 9s]
+LudoSab08 checks
+Sharony55 checks
+*** TURN *** [Ah 4h 9s][5h]
+LudoSab08 bets 180
+Sharony55 calls 180
+*** RIVER *** [Ah 4h 9s 5h][4s]
+LudoSab08 bets 120
+Sharony55 folds
+LudoSab08 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [Ah 4h 9s 5h 4s]
+Seat 9: LudoSab08 won 920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-15-1416429319 - Holdem no limit (10/60/120) - 2014/11/19 20:35:19 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: soso33000 (2365)
+Seat 2: GuiGui.39 (2830)
+Seat 3: sabre_laser (2920)
+Seat 4: Kermit21 (2880)
+Seat 5: Sharony55 (18200)
+Seat 6: Jimou (3110)
+Seat 7: moukki13 (2810)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (6310)
+*** ANTE/BLINDS ***
+moukki13 posts ante 10
+eirinn33 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+LudoSab08 posts ante 10
+moukki13 posts small blind 60
+eirinn33 posts big blind 120
+Dealt to sabre_laser [7s 2h]
+*** PRE-FLOP *** 
+LudoSab08 calls 120
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 calls 120
+Sharony55 calls 120
+moukki13 folds
+eirinn33 checks
+*** FLOP *** [Tc Ac 4c]
+eirinn33 bets 120
+LudoSab08 folds
+Kermit21 folds
+Sharony55 folds
+eirinn33 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Tc Ac 4c]
+Seat 8: eirinn33 (big blind) won 740
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-16-1416429377 - Holdem no limit (10/60/120) - 2014/11/19 20:36:17 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: soso33000 (2355)
+Seat 2: GuiGui.39 (2820)
+Seat 3: sabre_laser (2910)
+Seat 4: Kermit21 (2750)
+Seat 5: Sharony55 (18070)
+Seat 6: Jimou (3110)
+Seat 7: moukki13 (2740)
+Seat 8: eirinn33 (9190)
+Seat 9: LudoSab08 (6180)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 10
+LudoSab08 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+Jimou posts ante 10
+moukki13 posts ante 10
+eirinn33 posts small blind 60
+LudoSab08 posts big blind 120
+Dealt to sabre_laser [4c As]
+*** PRE-FLOP *** 
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 120 to 240
+Sharony55 calls 240
+Jimou folds
+moukki13 folds
+eirinn33 folds
+LudoSab08 calls 120
+*** FLOP *** [9c Qc 5c]
+LudoSab08 bets 240
+Kermit21 calls 240
+Sharony55 folds
+*** TURN *** [9c Qc 5c][8s]
+LudoSab08 bets 240
+Kermit21 calls 240
+*** RIVER *** [9c Qc 5c 8s][3s]
+LudoSab08 bets 540
+Kermit21 raises 660 to 1200
+LudoSab08 calls 660
+*** SHOW DOWN ***
+LudoSab08 shows [Qs 7s] (One pair : Queens)
+Kermit21 shows [Kc Qd] (One pair : Queens)
+Kermit21 collected 4230 from pot
+*** SUMMARY ***
+Total pot 4230 | No rake
+Board: [9c Qc 5c 8s 3s]
+Seat 4: Kermit21 showed [Kc Qd] and won 4230 with One pair : Queens
+Seat 9: LudoSab08 (big blind) showed [Qs 7s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #427038934564864214-17-1416429435 - Holdem no limit (15/75/150) - 2014/11/19 20:37:15 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: soso33000 (2345)
+Seat 2: GuiGui.39 (2810)
+Seat 3: sabre_laser (2900)
+Seat 4: Kermit21 (5050)
+Seat 5: Sharony55 (17820)
+Seat 6: Jimou (3100)
+Seat 7: moukki13 (2730)
+Seat 8: eirinn33 (9120)
+Seat 9: LudoSab08 (4250)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 15
+soso33000 posts ante 15
+GuiGui.39 posts ante 15
+sabre_laser posts ante 15
+Kermit21 posts ante 15
+Sharony55 posts ante 15
+Jimou posts ante 15
+moukki13 posts ante 15
+eirinn33 posts ante 15
+LudoSab08 posts small blind 75
+soso33000 posts big blind 150
+Dealt to sabre_laser [5h Jd]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 150
+Jimou folds
+moukki13 folds
+eirinn33 calls 150
+LudoSab08 calls 75
+soso33000 checks
+*** FLOP *** [6c 5d 2c]
+LudoSab08 checks
+soso33000 bets 735
+Sharony55 calls 735
+eirinn33 folds
+LudoSab08 folds
+*** TURN *** [6c 5d 2c][3h]
+soso33000 bets 1445 and is all-in
+Sharony55 calls 1445
+*** RIVER *** [6c 5d 2c 3h][Ad]
+*** SHOW DOWN ***
+Sharony55 shows [3c 5c] (Two pairs : 5 and 3)
+soso33000 shows [8c 4d] (Straight 6 high)
+soso33000 collected 5095 from pot
+*** SUMMARY ***
+Total pot 5095 | No rake
+Board: [6c 5d 2c 3h Ad]
+Seat 1: soso33000 (big blind) showed [8c 4d] and won 5095 with Straight 6 high
+Seat 5: Sharony55 showed [3c 5c] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #427038934564864214-18-1416429506 - Holdem no limit (15/75/150) - 2014/11/19 20:38:26 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: soso33000 (5095)
+Seat 2: GuiGui.39 (2795)
+Seat 3: sabre_laser (2885)
+Seat 4: Kermit21 (5035)
+Seat 5: Sharony55 (15475)
+Seat 6: Jimou (3085)
+Seat 7: moukki13 (2715)
+Seat 8: eirinn33 (8955)
+Seat 9: LudoSab08 (4085)
+*** ANTE/BLINDS ***
+soso33000 posts ante 15
+GuiGui.39 posts ante 15
+sabre_laser posts ante 15
+Kermit21 posts ante 15
+Sharony55 posts ante 15
+Jimou posts ante 15
+moukki13 posts ante 15
+eirinn33 posts ante 15
+LudoSab08 posts ante 15
+soso33000 posts small blind 75
+GuiGui.39 posts big blind 150
+Dealt to sabre_laser [9h 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 150
+Jimou folds
+moukki13 folds
+eirinn33 calls 150
+LudoSab08 folds
+soso33000 calls 75
+GuiGui.39 checks
+*** FLOP *** [6d 9d 2s]
+soso33000 checks
+GuiGui.39 bets 368
+Sharony55 calls 368
+eirinn33 folds
+soso33000 folds
+*** TURN *** [6d 9d 2s][Qs]
+GuiGui.39 checks
+Sharony55 checks
+*** RIVER *** [6d 9d 2s Qs][Th]
+GuiGui.39 bets 1471
+Sharony55 calls 1471
+*** SHOW DOWN ***
+Sharony55 shows [As Jd] (High card : Ace)
+GuiGui.39 shows [Td Qd] (Two pairs : Queens and Tens)
+GuiGui.39 collected 4413 from pot
+*** SUMMARY ***
+Total pot 4413 | No rake
+Board: [6d 9d 2s Qs Th]
+Seat 2: GuiGui.39 (big blind) showed [Td Qd] and won 4413 with Two pairs : Queens and Tens
+Seat 5: Sharony55 showed [As Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #427038934564864214-19-1416429590 - Holdem no limit (20/100/200) - 2014/11/19 20:39:50 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: soso33000 (4930)
+Seat 2: GuiGui.39 (5204)
+Seat 3: sabre_laser (2870)
+Seat 4: Kermit21 (5020)
+Seat 5: Sharony55 (13471)
+Seat 6: Jimou (3070)
+Seat 7: moukki13 (2700)
+Seat 8: eirinn33 (8790)
+Seat 9: LudoSab08 (4070)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 20
+sabre_laser posts ante 20
+soso33000 posts ante 20
+Kermit21 posts ante 20
+Sharony55 posts ante 20
+Jimou posts ante 20
+moukki13 posts ante 20
+eirinn33 posts ante 20
+LudoSab08 posts ante 20
+GuiGui.39 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9d Th]
+*** PRE-FLOP *** 
+Kermit21 calls 200
+Sharony55 calls 200
+Jimou folds
+moukki13 calls 200
+eirinn33 folds
+LudoSab08 folds
+soso33000 folds
+GuiGui.39 calls 100
+sabre_laser folds
+*** FLOP *** [8c 7h 2s]
+GuiGui.39 bets 590
+Kermit21 folds
+Sharony55 folds
+moukki13 calls 590
+*** TURN *** [8c 7h 2s][Jh]
+GuiGui.39 checks
+moukki13 bets 300
+GuiGui.39 calls 300
+*** RIVER *** [8c 7h 2s Jh][Ts]
+GuiGui.39 bets 1978
+moukki13 calls 1590 and is all-in
+*** SHOW DOWN ***
+moukki13 shows [2d 2h] (Trips of 2)
+GuiGui.39 shows [8d 9c] (Straight Jack high)
+GuiGui.39 collected 6528 from pot
+*** SUMMARY ***
+Total pot 6528 | No rake
+Board: [8c 7h 2s Jh Ts]
+Seat 2: GuiGui.39 (small blind) showed [8d 9c] and won 6528 with Straight Jack high
+Seat 7: moukki13 showed [2d 2h] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #427038934564864214-20-1416429690 - Holdem no limit (20/100/200) - 2014/11/19 20:41:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: soso33000 (4910)
+Seat 2: GuiGui.39 (8644)
+Seat 3: sabre_laser (2650)
+Seat 4: Kermit21 (4800)
+Seat 5: Sharony55 (13251)
+Seat 6: Jimou (3050)
+Seat 7: jey14 (806)
+Seat 8: eirinn33 (8770)
+Seat 9: LudoSab08 (4050)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Kermit21 posts ante 20
+soso33000 posts ante 20
+GuiGui.39 posts ante 20
+Sharony55 posts ante 20
+Jimou posts ante 20
+jey14 posts ante 20
+eirinn33 posts ante 20
+LudoSab08 posts ante 20
+sabre_laser posts small blind 100
+Kermit21 posts big blind 200
+Dealt to sabre_laser [Kc Qs]
+*** PRE-FLOP *** 
+Sharony55 folds
+Jimou calls 200
+jey14 raises 586 to 786 and is all-in
+eirinn33 folds
+LudoSab08 calls 786
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Jimou calls 586
+*** FLOP *** [2c 9s 2s]
+Jimou checks
+LudoSab08 checks
+*** TURN *** [2c 9s 2s][3c]
+Jimou checks
+LudoSab08 checks
+*** RIVER *** [2c 9s 2s 3c][Ts]
+Jimou checks
+LudoSab08 bets 3244 and is all-in
+Jimou folds
+*** SHOW DOWN ***
+jey14 shows [4h 4c] (Two pairs : 4 and 2)
+LudoSab08 shows [Th Jh] (Two pairs : Tens and 2)
+LudoSab08 collected 6082 from pot
+*** SUMMARY ***
+Total pot 6082 | No rake
+Board: [2c 9s 2s 3c Ts]
+Seat 7: jey14 showed [4h 4c] and lost with Two pairs : 4 and 2
+Seat 9: LudoSab08 showed [Th Jh] and won 6082 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-21-1416429766 - Holdem no limit (25/125/250) - 2014/11/19 20:42:46 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: soso33000 (4890)
+Seat 2: GuiGui.39 (8624)
+Seat 3: sabre_laser (2530)
+Seat 4: Kermit21 (4580)
+Seat 5: Sharony55 (13231)
+Seat 6: Jimou (2244)
+Seat 8: eirinn33 (8750)
+Seat 9: LudoSab08 (6082)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 25
+Sharony55 posts ante 25
+soso33000 posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Jimou posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Kermit21 posts small blind 125
+Sharony55 posts big blind 250
+Dealt to sabre_laser [Ks Qd]
+*** PRE-FLOP *** 
+Jimou folds
+eirinn33 folds
+LudoSab08 calls 250
+soso33000 raises 250 to 500
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 250
+LudoSab08 calls 250
+*** FLOP *** [7d 4c Jh]
+Sharony55 bets 250
+LudoSab08 raises 250 to 500
+soso33000 calls 500
+Sharony55 raises 250 to 750
+LudoSab08 raises 250 to 1000
+soso33000 folds
+Sharony55 calls 250
+*** TURN *** [7d 4c Jh][Ah]
+Sharony55 bets 2894
+LudoSab08 raises 1663 to 4557 and is all-in
+Sharony55 calls 1663
+*** RIVER *** [7d 4c Jh Ah][4s]
+*** SHOW DOWN ***
+Sharony55 shows [Ts Jc] (Two pairs : Jacks and 4)
+LudoSab08 shows [2s Jd] (Two pairs : Jacks and 4)
+LudoSab08 collected 6720 from pot
+Sharony55 collected 6719 from pot
+*** SUMMARY ***
+Total pot 13439 | No rake
+Board: [7d 4c Jh Ah 4s]
+Seat 5: Sharony55 (big blind) showed [Ts Jc] and won 6719 with Two pairs : Jacks and 4
+Seat 9: LudoSab08 showed [2s Jd] and won 6720 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-22-1416429862 - Holdem no limit (25/125/250) - 2014/11/19 20:44:22 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: soso33000 (3865)
+Seat 2: GuiGui.39 (8599)
+Seat 3: sabre_laser (2505)
+Seat 4: Kermit21 (4430)
+Seat 5: Sharony55 (13868)
+Seat 6: Jimou (2219)
+Seat 7: Phileo (4695)
+Seat 8: eirinn33 (8725)
+Seat 9: LudoSab08 (6720)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 25
+Jimou posts ante 25
+soso33000 posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Kermit21 posts ante 25
+Phileo posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Sharony55 posts small blind 125
+Jimou posts big blind 250
+Dealt to sabre_laser [2h 5d]
+*** PRE-FLOP *** 
+Phileo folds
+eirinn33 folds
+LudoSab08 folds
+soso33000 raises 250 to 500
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 375
+Jimou calls 250
+*** FLOP *** [4s 9s 5c]
+Sharony55 bets 250
+Jimou folds
+soso33000 raises 3090 to 3340 and is all-in
+Sharony55 calls 3090
+*** TURN *** [4s 9s 5c][Kd]
+*** RIVER *** [4s 9s 5c Kd][2s]
+*** SHOW DOWN ***
+soso33000 shows [Qd Ac] (High card : Ace)
+Sharony55 shows [Ts 9c] (One pair : 9)
+Sharony55 collected 8405 from pot
+*** SUMMARY ***
+Total pot 8405 | No rake
+Board: [4s 9s 5c Kd 2s]
+Seat 1: soso33000 showed [Qd Ac] and lost with High card : Ace
+Seat 5: Sharony55 (small blind) showed [Ts 9c] and won 8405 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-23-1416429924 - Holdem no limit (25/125/250) - 2014/11/19 20:45:24 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 2: GuiGui.39 (8574)
+Seat 3: sabre_laser (2480)
+Seat 4: Kermit21 (4405)
+Seat 5: Sharony55 (18408)
+Seat 6: Jimou (1694)
+Seat 7: Phileo (4670)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (6695)
+*** ANTE/BLINDS ***
+Jimou posts ante 25
+Phileo posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Kermit21 posts ante 25
+Sharony55 posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Jimou posts small blind 125
+Phileo posts big blind 250
+Dealt to sabre_laser [Ah Kd]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 250
+Jimou raises 1419 to 1669 and is all-in
+Phileo calls 1419
+Sharony55 calls 1419
+*** FLOP *** [4c 2d 6d]
+Phileo checks
+Sharony55 checks
+*** TURN *** [4c 2d 6d][4h]
+Phileo checks
+Sharony55 checks
+*** RIVER *** [4c 2d 6d 4h][8h]
+Phileo checks
+Sharony55 checks
+*** SHOW DOWN ***
+Sharony55 shows [9d 7c] (One pair : 4)
+Phileo shows [Js Ks] (One pair : 4)
+Jimou shows [As Ad] (Two pairs : Aces and 4)
+Jimou collected 5207 from pot
+*** SUMMARY ***
+Total pot 5207 | No rake
+Board: [4c 2d 6d 4h 8h]
+Seat 5: Sharony55 (button) showed [9d 7c] and lost with One pair : 4
+Seat 6: Jimou (small blind) showed [As Ad] and won 5207 with Two pairs : Aces and 4
+Seat 7: Phileo (big blind) showed [Js Ks] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-24-1416430004 - Holdem no limit (35/150/300) - 2014/11/19 20:46:44 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: c TTprmoa (5645)
+Seat 2: GuiGui.39 (8549)
+Seat 3: sabre_laser (2455)
+Seat 4: Kermit21 (4380)
+Seat 5: Sharony55 (16714)
+Seat 6: Jimou (5207)
+Seat 7: Phileo (2976)
+Seat 8: eirinn33 (8675)
+Seat 9: LudoSab08 (6670)
+*** ANTE/BLINDS ***
+Phileo posts ante 35
+eirinn33 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+LudoSab08 posts ante 35
+Phileo posts small blind 150
+eirinn33 posts big blind 300
+Dealt to sabre_laser [Ks 5s]
+*** PRE-FLOP *** 
+LudoSab08 folds
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+Jimou folds
+Phileo folds
+eirinn33 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 8: eirinn33 (big blind) won 765
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-25-1416430025 - Holdem no limit (35/150/300) - 2014/11/19 20:47:05 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: c TTprmoa (5610)
+Seat 2: GuiGui.39 (8514)
+Seat 3: sabre_laser (2420)
+Seat 4: Kermit21 (4345)
+Seat 5: Sharony55 (16679)
+Seat 6: Jimou (5172)
+Seat 7: Phileo (2791)
+Seat 8: eirinn33 (9105)
+Seat 9: LudoSab08 (6635)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 35
+LudoSab08 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+Phileo posts ante 35
+eirinn33 posts small blind 150
+LudoSab08 posts big blind 300
+Dealt to sabre_laser [Kc Td]
+*** PRE-FLOP *** 
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 300
+Jimou folds
+Phileo folds
+eirinn33 calls 150
+LudoSab08 raises 300 to 600
+Sharony55 calls 300
+eirinn33 calls 300
+*** FLOP *** [2h 7s Js]
+eirinn33 checks
+LudoSab08 checks
+Sharony55 checks
+*** TURN *** [2h 7s Js][7h]
+eirinn33 checks
+LudoSab08 bets 300
+Sharony55 calls 300
+eirinn33 folds
+*** RIVER *** [2h 7s Js 7h][Tc]
+LudoSab08 bets 300
+Sharony55 calls 300
+*** SHOW DOWN ***
+Sharony55 shows [Ks Ah] (One pair : 7)
+LudoSab08 shows [Th Kh] (Two pairs : Tens and 7)
+LudoSab08 collected 3315 from pot
+*** SUMMARY ***
+Total pot 3315 | No rake
+Board: [2h 7s Js 7h Tc]
+Seat 5: Sharony55 showed [Ks Ah] and lost with One pair : 7
+Seat 9: LudoSab08 (big blind) showed [Th Kh] and won 3315 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-26-1416430100 - Holdem no limit (35/150/300) - 2014/11/19 20:48:20 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: c TTprmoa (5575)
+Seat 2: GuiGui.39 (8479)
+Seat 3: sabre_laser (2385)
+Seat 4: Kermit21 (4310)
+Seat 5: Sharony55 (15444)
+Seat 6: Jimou (5137)
+Seat 7: Phileo (2756)
+Seat 8: eirinn33 (8470)
+Seat 9: LudoSab08 (8715)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+Phileo posts ante 35
+eirinn33 posts ante 35
+LudoSab08 posts small blind 150
+c TTprmoa posts big blind 300
+Dealt to sabre_laser [Tc Jh]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 300
+Jimou calls 300
+Phileo calls 300
+eirinn33 folds
+LudoSab08 calls 150
+c TTprmoa checks
+*** FLOP *** [8h 8c 3c]
+LudoSab08 checks
+c TTprmoa checks
+Sharony55 checks
+Jimou checks
+Phileo checks
+*** TURN *** [8h 8c 3c][4d]
+LudoSab08 checks
+c TTprmoa bets 300
+Sharony55 folds
+Jimou calls 300
+Phileo folds
+LudoSab08 folds
+*** RIVER *** [8h 8c 3c 4d][7d]
+c TTprmoa bets 300
+Jimou folds
+c TTprmoa collected 2715 from pot
+*** SUMMARY ***
+Total pot 2715 | No rake
+Board: [8h 8c 3c 4d 7d]
+Seat 1: c TTprmoa (big blind) won 2715
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #427038934564864214-27-1416430230 - Holdem no limit (40/200/400) - 2014/11/19 20:50:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: c TTprmoa (7355)
+Seat 2: GuiGui.39 (8444)
+Seat 3: sabre_laser (2350)
+Seat 4: Kermit21 (4275)
+Seat 5: Sharony55 (15109)
+Seat 6: Jimou (4502)
+Seat 7: Phileo (2421)
+Seat 8: eirinn33 (8435)
+Seat 9: LudoSab08 (8380)
+*** ANTE/BLINDS ***
+c TTprmoa posts ante 40
+GuiGui.39 posts ante 40
+sabre_laser posts ante 40
+Kermit21 posts ante 40
+Sharony55 posts ante 40
+Jimou posts ante 40
+Phileo posts ante 40
+eirinn33 posts ante 40
+LudoSab08 posts ante 40
+c TTprmoa posts small blind 200
+GuiGui.39 posts big blind 400
+Dealt to sabre_laser [3s 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 400
+Jimou raises 1600 to 2000
+Phileo folds
+eirinn33 folds
+LudoSab08 calls 2000
+c TTprmoa folds
+GuiGui.39 folds
+Sharony55 calls 1600
+*** FLOP *** [3h 7c Ac]
+Sharony55 checks
+Jimou bets 2462 and is all-in
+LudoSab08 calls 2462
+Sharony55 folds
+*** TURN *** [3h 7c Ac][8c]
+*** RIVER *** [3h 7c Ac 8c][6d]
+*** SHOW DOWN ***
+Jimou shows [9h Ah] (One pair : Aces)
+LudoSab08 shows [As Qs] (One pair : Aces)
+LudoSab08 collected 11884 from pot
+*** SUMMARY ***
+Total pot 11884 | No rake
+Board: [3h 7c Ac 8c 6d]
+Seat 6: Jimou showed [9h Ah] and lost with One pair : Aces
+Seat 9: LudoSab08 (button) showed [As Qs] and won 11884 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-28-1416430311 - Holdem no limit (50/250/500) - 2014/11/19 20:51:51 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: c TTprmoa (7115)
+Seat 2: GuiGui.39 (8004)
+Seat 3: sabre_laser (2310)
+Seat 4: Kermit21 (4235)
+Seat 5: Sharony55 (13069)
+Seat 7: Phileo (2381)
+Seat 8: eirinn33 (8395)
+Seat 9: LudoSab08 (15762)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 50
+sabre_laser posts ante 50
+c TTprmoa posts ante 50
+Kermit21 posts ante 50
+Sharony55 posts ante 50
+Phileo posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+GuiGui.39 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [2h 6d]
+*** PRE-FLOP *** 
+Kermit21 folds
+Sharony55 calls 500
+Phileo folds
+eirinn33 folds
+LudoSab08 folds
+c TTprmoa folds
+GuiGui.39 calls 250
+sabre_laser folds
+*** FLOP *** [As Ts Jd]
+GuiGui.39 checks
+Sharony55 checks
+*** TURN *** [As Ts Jd][Jc]
+GuiGui.39 checks
+Sharony55 bets 500
+GuiGui.39 folds
+Sharony55 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [As Ts Jd Jc]
+Seat 5: Sharony55 won 2400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-29-1416430360 - Holdem no limit (50/250/500) - 2014/11/19 20:52:40 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: c TTprmoa (7065)
+Seat 2: GuiGui.39 (7454)
+Seat 3: sabre_laser (1760)
+Seat 4: Kermit21 (4185)
+Seat 5: Sharony55 (14419)
+Seat 6: M.Gee31 (3435)
+Seat 7: Phileo (2331)
+Seat 8: eirinn33 (8345)
+Seat 9: LudoSab08 (15712)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Kermit21 posts ante 50
+c TTprmoa posts ante 50
+GuiGui.39 posts ante 50
+Sharony55 posts ante 50
+M.Gee31 posts ante 50
+Phileo posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+sabre_laser posts small blind 250
+Kermit21 posts big blind 500
+Dealt to sabre_laser [Jd Js]
+*** PRE-FLOP *** 
+Sharony55 calls 500
+M.Gee31 raises 2885 to 3385 and is all-in
+Phileo calls 2281 and is all-in
+eirinn33 folds
+LudoSab08 calls 3385
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+*** FLOP *** [3c Ac 9h]
+*** TURN *** [3c Ac 9h][Kc]
+*** RIVER *** [3c Ac 9h Kc][4h]
+*** SHOW DOWN ***
+Phileo shows [Kd Td] (One pair : Kings)
+LudoSab08 shows [Tc Qd] (High card : Ace)
+M.Gee31 shows [Ah 6h] (One pair : Aces)
+M.Gee31 collected 10751 from pot
+*** SUMMARY ***
+Total pot 10751 | No rake
+Board: [3c Ac 9h Kc 4h]
+Seat 6: M.Gee31 showed [Ah 6h] and won 10751 with One pair : Aces
+Seat 7: Phileo showed [Kd Td] and lost with One pair : Kings
+Seat 9: LudoSab08 showed [Tc Qd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-30-1416430441 - Holdem no limit (50/250/500) - 2014/11/19 20:54:01 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: c TTprmoa (7015)
+Seat 2: GuiGui.39 (7404)
+Seat 3: sabre_laser (1460)
+Seat 4: Kermit21 (3635)
+Seat 5: Sharony55 (13869)
+Seat 6: M.Gee31 (10751)
+Seat 7: LUKEP72 (6790)
+Seat 8: eirinn33 (8295)
+Seat 9: LudoSab08 (12277)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 50
+Sharony55 posts ante 50
+c TTprmoa posts ante 50
+GuiGui.39 posts ante 50
+sabre_laser posts ante 50
+M.Gee31 posts ante 50
+LUKEP72 posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+Kermit21 posts small blind 250
+Sharony55 posts big blind 500
+Dealt to sabre_laser [6s 7d]
+*** PRE-FLOP *** 
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 500
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 checks
+*** FLOP *** [8c 8s 7s]
+Sharony55 checks
+LudoSab08 checks
+*** TURN *** [8c 8s 7s][Jd]
+Sharony55 bets 500
+LudoSab08 folds
+Sharony55 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [8c 8s 7s Jd]
+Seat 5: Sharony55 (big blind) won 2200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #427038934564864214-31-1416430801 - Holdem no limit (70/300/600) - 2014/11/19 21:00:01 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: c TTprmoa (6965)
+Seat 2: GuiGui.39 (7354)
+Seat 3: sabre_laser (1410)
+Seat 4: Kermit21 (3335)
+Seat 5: Sharony55 (15019)
+Seat 6: M.Gee31 (10701)
+Seat 7: LUKEP72 (6740)
+Seat 8: eirinn33 (8245)
+Seat 9: LudoSab08 (11727)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 70
+M.Gee31 posts ante 70
+c TTprmoa posts ante 70
+GuiGui.39 posts ante 70
+sabre_laser posts ante 70
+Kermit21 posts ante 70
+LUKEP72 posts ante 70
+eirinn33 posts ante 70
+LudoSab08 posts ante 70
+Sharony55 posts small blind 300
+M.Gee31 posts big blind 600
+Dealt to sabre_laser [7h 7d]
+*** PRE-FLOP *** 
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 600
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 calls 600
+Sharony55 calls 300
+M.Gee31 folds
+*** FLOP *** [7c 4s Kd]
+Sharony55 checks
+LudoSab08 bets 600
+Kermit21 folds
+Sharony55 folds
+LudoSab08 collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Board: [7c 4s Kd]
+Seat 9: LudoSab08 won 3630
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #427038934564864214-32-1416430929 - Holdem no limit (70/300/600) - 2014/11/19 21:02:09 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: c TTprmoa (6895)
+Seat 2: GuiGui.39 (7284)
+Seat 3: sabre_laser (1340)
+Seat 4: Kermit21 (2665)
+Seat 5: Sharony55 (14349)
+Seat 6: M.Gee31 (10031)
+Seat 7: LUKEP72 (6670)
+Seat 8: eirinn33 (8175)
+Seat 9: LudoSab08 (14087)
+*** ANTE/BLINDS ***
+M.Gee31 posts ante 70
+LUKEP72 posts ante 70
+c TTprmoa posts ante 70
+GuiGui.39 posts ante 70
+sabre_laser posts ante 70
+Kermit21 posts ante 70
+Sharony55 posts ante 70
+eirinn33 posts ante 70
+LudoSab08 posts ante 70
+M.Gee31 posts small blind 300
+LUKEP72 posts big blind 600
+Dealt to sabre_laser [Jc 8s]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+c TTprmoa raises 600 to 1200
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1200
+M.Gee31 folds
+LUKEP72 folds
+*** FLOP *** [2h 6d 6c]
+c TTprmoa bets 1800
+Sharony55 calls 1800
+*** TURN *** [2h 6d 6c][Td]
+c TTprmoa bets 3825 and is all-in
+Sharony55 calls 3825
+*** RIVER *** [2h 6d 6c Td][6s]
+*** SHOW DOWN ***
+c TTprmoa shows [9c 9s] (Full of 6 and 9)
+Sharony55 shows [Kd Th] (Full of 6 and Tens)
+Sharony55 collected 15180 from pot
+*** SUMMARY ***
+Total pot 15180 | No rake
+Board: [2h 6d 6c Td 6s]
+Seat 1: c TTprmoa showed [9c 9s] and lost with Full of 6 and 9
+Seat 5: Sharony55 (button) showed [Kd Th] and won 15180 with Full of 6 and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-33-1416430979 - Holdem no limit (80/400/800) - 2014/11/19 21:02:59 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 2: GuiGui.39 (7214)
+Seat 3: sabre_laser (1270)
+Seat 4: Kermit21 (2595)
+Seat 5: Sharony55 (22634)
+Seat 6: M.Gee31 (9661)
+Seat 7: LUKEP72 (6000)
+Seat 8: eirinn33 (8105)
+Seat 9: LudoSab08 (14017)
+*** ANTE/BLINDS ***
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LudoSab08 posts ante 80
+LUKEP72 posts small blind 400
+eirinn33 posts big blind 800
+Dealt to sabre_laser [8d 4h]
+*** PRE-FLOP *** 
+LudoSab08 calls 800
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 1715 to 2515 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1715
+*** FLOP *** [Qd Ks 5s]
+*** TURN *** [Qd Ks 5s][2h]
+*** RIVER *** [Qd Ks 5s 2h][Ts]
+*** SHOW DOWN ***
+LudoSab08 shows [3s Kh] (One pair : Kings)
+Kermit21 shows [Js As] (Flush Ace high)
+Kermit21 collected 6870 from pot
+*** SUMMARY ***
+Total pot 6870 | No rake
+Board: [Qd Ks 5s 2h Ts]
+Seat 4: Kermit21 showed [Js As] and won 6870 with Flush Ace high
+Seat 9: LudoSab08 showed [3s Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-34-1416431038 - Holdem no limit (80/400/800) - 2014/11/19 21:03:58 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: goldtracks (3770)
+Seat 2: GuiGui.39 (7134)
+Seat 3: sabre_laser (1190)
+Seat 4: Kermit21 (6870)
+Seat 5: Sharony55 (22554)
+Seat 6: M.Gee31 (9581)
+Seat 7: LUKEP72 (5520)
+Seat 8: eirinn33 (7225)
+Seat 9: LudoSab08 (11422)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 80
+LudoSab08 posts ante 80
+goldtracks posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts small blind 400
+LudoSab08 posts big blind 800
+Dealt to sabre_laser [Ad 6s]
+*** PRE-FLOP *** 
+goldtracks raises 800 to 1600
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 5190 to 6790 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+goldtracks calls 2090 and is all-in
+*** FLOP *** [7d Jd 5h]
+*** TURN *** [7d Jd 5h][Ts]
+*** RIVER *** [7d Jd 5h Ts][6c]
+*** SHOW DOWN ***
+goldtracks shows [Kc Qc] (High card : King)
+Kermit21 shows [2s 2h] (One pair : 2)
+Kermit21 collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | No rake
+Board: [7d Jd 5h Ts 6c]
+Seat 1: goldtracks showed [Kc Qc] and lost with High card : King
+Seat 4: Kermit21 showed [2s 2h] and won 12400 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-35-1416431072 - Holdem no limit (80/400/800) - 2014/11/19 21:04:32 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: kiki28700 (10411)
+Seat 2: GuiGui.39 (7054)
+Seat 3: sabre_laser (1110)
+Seat 4: Kermit21 (12400)
+Seat 5: Sharony55 (22474)
+Seat 6: M.Gee31 (9501)
+Seat 7: LUKEP72 (5440)
+Seat 8: eirinn33 (6745)
+Seat 9: LudoSab08 (10542)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 80
+kiki28700 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+LudoSab08 posts small blind 400
+kiki28700 posts big blind 800
+Dealt to sabre_laser [Ad 8c]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+M.Gee31 calls 800
+LUKEP72 raises 4560 to 5360 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+M.Gee31 folds
+LUKEP72 collected 8080 from pot
+*** SUMMARY ***
+Total pot 8080 | No rake
+Seat 7: LUKEP72 won 8080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-36-1416431132 - Holdem no limit (80/400/800) - 2014/11/19 21:05:32 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: kiki28700 (9531)
+Seat 2: GuiGui.39 (6974)
+Seat 3: sabre_laser (1030)
+Seat 4: Kermit21 (12320)
+Seat 5: Sharony55 (22394)
+Seat 6: M.Gee31 (8621)
+Seat 7: LUKEP72 (8080)
+Seat 8: eirinn33 (6665)
+Seat 9: LudoSab08 (10062)
+*** ANTE/BLINDS ***
+kiki28700 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+LudoSab08 posts ante 80
+kiki28700 posts small blind 400
+GuiGui.39 posts big blind 800
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 800
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 800
+kiki28700 folds
+GuiGui.39 checks
+*** FLOP *** [9d 9c 8c]
+GuiGui.39 checks
+Sharony55 bets 800
+LudoSab08 folds
+GuiGui.39 calls 800
+*** TURN *** [9d 9c 8c][As]
+GuiGui.39 checks
+Sharony55 bets 1897
+GuiGui.39 folds
+Sharony55 collected 7017 from pot
+*** SUMMARY ***
+Total pot 7017 | No rake
+Board: [9d 9c 8c As]
+Seat 5: Sharony55 won 7017
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #427038934564864214-37-1416431212 - Holdem no limit (100/500/1000) - 2014/11/19 21:06:52 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: kiki28700 (9051)
+Seat 2: GuiGui.39 (5294)
+Seat 3: sabre_laser (950)
+Seat 4: Kermit21 (12240)
+Seat 5: Sharony55 (25834)
+Seat 6: M.Gee31 (8541)
+Seat 7: LUKEP72 (8000)
+Seat 8: eirinn33 (6585)
+Seat 9: LudoSab08 (9182)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 100
+sabre_laser posts ante 100
+kiki28700 posts ante 100
+Kermit21 posts ante 100
+Sharony55 posts ante 100
+M.Gee31 posts ante 100
+LUKEP72 posts ante 100
+eirinn33 posts ante 100
+LudoSab08 posts ante 100
+GuiGui.39 posts small blind 500
+sabre_laser posts big blind 850 and is all-in
+Dealt to sabre_laser [2h 2d]
+*** PRE-FLOP *** 
+Kermit21 raises 1150 to 2000
+Sharony55 calls 2000
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+*** FLOP *** [2c 8c 9s]
+Kermit21 checks
+Sharony55 bets 1000
+Kermit21 folds
+*** TURN *** [2c 8c 9s][Ks]
+*** RIVER *** [2c 8c 9s Ks][Ad]
+*** SHOW DOWN ***
+sabre_laser shows [2h 2d] (Trips of 2)
+Sharony55 shows [8d Kd] (Two pairs : Kings and 8)
+Sharony55 collected 3300 from side pot 1
+sabre_laser collected 3950 from main pot
+*** SUMMARY ***
+Total pot 7250 | No rake
+Board: [2c 8c 9s Ks Ad]
+Seat 3: sabre_laser (big blind) showed [2h 2d] and won 3950 with Trips of 2
+Seat 5: Sharony55 showed [8d Kd] and won 3300 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #427038934564864214-38-1416431267 - Holdem no limit (100/500/1000) - 2014/11/19 21:07:47 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: kiki28700 (8951)
+Seat 2: GuiGui.39 (4694)
+Seat 3: sabre_laser (3950)
+Seat 4: Kermit21 (10140)
+Seat 5: Sharony55 (26034)
+Seat 6: M.Gee31 (8441)
+Seat 7: LUKEP72 (7900)
+Seat 8: eirinn33 (6485)
+Seat 9: LudoSab08 (9082)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Kermit21 posts ante 100
+kiki28700 posts ante 100
+GuiGui.39 posts ante 100
+Sharony55 posts ante 100
+M.Gee31 posts ante 100
+LUKEP72 posts ante 100
+eirinn33 posts ante 100
+LudoSab08 posts ante 100
+sabre_laser posts small blind 500
+Kermit21 posts big blind 1000
+Dealt to sabre_laser [Kc Kd]
+*** PRE-FLOP *** 
+Sharony55 calls 1000
+M.Gee31 folds
+LUKEP72 raises 6800 to 7800 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+LUKEP72 collected 11200 from pot
+*** SUMMARY ***
+Total pot 11200 | No rake
+Seat 7: LUKEP72 won 11200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-39-1416431321 - Holdem no limit (135/600/1200) - 2014/11/19 21:08:41 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: kiki28700 (8851)
+Seat 2: GuiGui.39 (4594)
+Seat 3: sabre_laser (3350)
+Seat 4: Kermit21 (9040)
+Seat 5: Sharony55 (24934)
+Seat 6: M.Gee31 (8341)
+Seat 7: LUKEP72 (11200)
+Seat 8: eirinn33 (6385)
+Seat 9: LudoSab08 (8982)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 135
+Sharony55 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+M.Gee31 posts ante 135
+LUKEP72 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+Kermit21 posts small blind 600
+Sharony55 posts big blind 1200
+Dealt to sabre_laser [4c 8s]
+*** PRE-FLOP *** 
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 calls 1200
+sabre_laser folds
+Kermit21 calls 600
+Sharony55 checks
+*** FLOP *** [3h 6s 2d]
+Kermit21 checks
+Sharony55 checks
+GuiGui.39 bets 3259 and is all-in
+Kermit21 folds
+Sharony55 folds
+GuiGui.39 collected 8074 from pot
+*** SUMMARY ***
+Total pot 8074 | No rake
+Board: [3h 6s 2d]
+Seat 2: GuiGui.39 won 8074
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-40-1416431382 - Holdem no limit (135/600/1200) - 2014/11/19 21:09:42 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: kiki28700 (8716)
+Seat 2: GuiGui.39 (8074)
+Seat 3: sabre_laser (3215)
+Seat 4: Kermit21 (7705)
+Seat 5: Sharony55 (23599)
+Seat 6: M.Gee31 (8206)
+Seat 7: LUKEP72 (11065)
+Seat 8: eirinn33 (6250)
+Seat 9: LudoSab08 (8847)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 135
+M.Gee31 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+Kermit21 posts ante 135
+LUKEP72 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+Sharony55 posts small blind 600
+M.Gee31 posts big blind 1200
+Dealt to sabre_laser [9c Tc]
+*** PRE-FLOP *** 
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 raises 1200 to 2400
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1800
+M.Gee31 folds
+*** FLOP *** [7h 3h Kh]
+Sharony55 bets 1200
+LudoSab08 calls 1200
+*** TURN *** [7h 3h Kh][As]
+Sharony55 bets 1200
+LudoSab08 calls 1200
+*** RIVER *** [7h 3h Kh As][8h]
+Sharony55 bets 4366
+LudoSab08 folds
+Sharony55 collected 16381 from pot
+*** SUMMARY ***
+Total pot 16381 | No rake
+Board: [7h 3h Kh As 8h]
+Seat 5: Sharony55 (small blind) won 16381
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-41-1416431448 - Holdem no limit (135/600/1200) - 2014/11/19 21:10:48 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: kiki28700 (8581)
+Seat 2: GuiGui.39 (7939)
+Seat 3: sabre_laser (3080)
+Seat 4: Kermit21 (7570)
+Seat 5: Sharony55 (30679)
+Seat 6: M.Gee31 (6871)
+Seat 7: LUKEP72 (10930)
+Seat 8: eirinn33 (6115)
+Seat 9: LudoSab08 (3912)
+*** ANTE/BLINDS ***
+M.Gee31 posts ante 135
+LUKEP72 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+Kermit21 posts ante 135
+Sharony55 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+M.Gee31 posts small blind 600
+LUKEP72 posts big blind 1200
+Dealt to sabre_laser [7s Qs]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 raises 1200 to 2400
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 raises 8395 to 10795 and is all-in
+GuiGui.39 calls 5404 and is all-in
+*** FLOP *** [9c Qh Qd]
+*** TURN *** [9c Qh Qd][6s]
+*** RIVER *** [9c Qh Qd 6s][9d]
+*** SHOW DOWN ***
+GuiGui.39 shows [Ah Kd] (Two pairs : Queens and 9)
+LUKEP72 shows [Kc Ad] (Two pairs : Queens and 9)
+LUKEP72 collected 11703 from side pot 1
+GuiGui.39 collected 8711 from main pot
+*** SUMMARY ***
+Total pot 20414 | No rake
+Board: [9c Qh Qd 6s 9d]
+Seat 2: GuiGui.39 showed [Ah Kd] and won 8711 with Two pairs : Queens and 9
+Seat 7: LUKEP72 (big blind) showed [Kc Ad] and won 11703 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-42-1416431495 - Holdem no limit (160/800/1600) - 2014/11/19 21:11:35 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: kiki28700 (8446)
+Seat 2: GuiGui.39 (8711)
+Seat 3: sabre_laser (2945)
+Seat 4: Kermit21 (7435)
+Seat 5: Sharony55 (30544)
+Seat 6: M.Gee31 (6136)
+Seat 7: LUKEP72 (11703)
+Seat 8: eirinn33 (5980)
+Seat 9: LudoSab08 (3777)
+*** ANTE/BLINDS ***
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Kermit21 posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LudoSab08 posts ante 160
+LUKEP72 posts small blind 800
+eirinn33 posts big blind 1600
+Dealt to sabre_laser [Jd 7c]
+*** PRE-FLOP *** 
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1600
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 checks
+*** FLOP *** [Ks Kd Qd]
+eirinn33 bets 4220 and is all-in
+Sharony55 folds
+eirinn33 collected 9660 from pot
+*** SUMMARY ***
+Total pot 9660 | No rake
+Board: [Ks Kd Qd]
+Seat 8: eirinn33 (big blind) won 9660
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-43-1416431537 - Holdem no limit (160/800/1600) - 2014/11/19 21:12:17 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: kiki28700 (8286)
+Seat 2: GuiGui.39 (8551)
+Seat 3: sabre_laser (2785)
+Seat 4: Kermit21 (7275)
+Seat 5: Sharony55 (28784)
+Seat 6: M.Gee31 (5976)
+Seat 7: LUKEP72 (10743)
+Seat 8: eirinn33 (9660)
+Seat 9: LudoSab08 (3617)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 160
+LudoSab08 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Kermit21 posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts small blind 800
+LudoSab08 posts big blind 1600
+Dealt to sabre_laser [6c 9d]
+*** PRE-FLOP *** 
+kiki28700 calls 1600
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 5515 to 7115 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1857 and is all-in
+kiki28700 calls 5515
+*** FLOP *** [Th 2c 4h]
+*** TURN *** [Th 2c 4h][Td]
+*** RIVER *** [Th 2c 4h Td][Ac]
+*** SHOW DOWN ***
+Kermit21 shows [Js Ks] (One pair : Tens)
+LudoSab08 shows [Ah 5d] (Two pairs : Aces and Tens)
+kiki28700 shows [Kd Qh] (One pair : Tens)
+kiki28700 collected 7316 from side pot 1
+LudoSab08 collected 12611 from main pot
+*** SUMMARY ***
+Total pot 19927 | No rake
+Board: [Th 2c 4h Td Ac]
+Seat 1: kiki28700 showed [Kd Qh] and won 7316 with One pair : Tens
+Seat 4: Kermit21 showed [Js Ks] and lost with One pair : Tens
+Seat 9: LudoSab08 (big blind) showed [Ah 5d] and won 12611 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-44-1416431577 - Holdem no limit (160/800/1600) - 2014/11/19 21:12:57 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: kiki28700 (8327)
+Seat 2: GuiGui.39 (8391)
+Seat 3: sabre_laser (2625)
+Seat 5: Sharony55 (28624)
+Seat 6: M.Gee31 (5816)
+Seat 7: LUKEP72 (10583)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (12611)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+LudoSab08 posts small blind 800
+kiki28700 posts big blind 1600
+Dealt to sabre_laser [6h As]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 raises 8823 to 10423 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+LUKEP72 collected 14103 from pot
+*** SUMMARY ***
+Total pot 14103 | No rake
+Seat 7: LUKEP72 won 14103
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-45-1416431620 - Holdem no limit (160/800/1600) - 2014/11/19 21:13:40 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: kiki28700 (6567)
+Seat 2: GuiGui.39 (8231)
+Seat 3: sabre_laser (2465)
+Seat 4: 2jmd (2445)
+Seat 5: Sharony55 (28464)
+Seat 6: M.Gee31 (5656)
+Seat 7: LUKEP72 (14103)
+Seat 8: eirinn33 (8540)
+Seat 9: LudoSab08 (11651)
+*** ANTE/BLINDS ***
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+2jmd posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+LudoSab08 posts ante 160
+kiki28700 posts small blind 800
+GuiGui.39 posts big blind 1600
+Dealt to sabre_laser [Jd Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+2jmd folds
+Sharony55 calls 1600
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1600
+kiki28700 folds
+GuiGui.39 checks
+*** FLOP *** [Qc 4d Js]
+GuiGui.39 checks
+Sharony55 checks
+LudoSab08 checks
+*** TURN *** [Qc 4d Js][Td]
+GuiGui.39 checks
+Sharony55 bets 1600
+LudoSab08 folds
+GuiGui.39 raises 4871 to 6471 and is all-in
+Sharony55 calls 4871
+*** RIVER *** [Qc 4d Js Td][4h]
+*** SHOW DOWN ***
+GuiGui.39 shows [Ts Ac] (Two pairs : Tens and 4)
+Sharony55 shows [Kh 9d] (Straight King high)
+Sharony55 collected 19982 from pot
+*** SUMMARY ***
+Total pot 19982 | No rake
+Board: [Qc 4d Js Td 4h]
+Seat 2: GuiGui.39 (big blind) showed [Ts Ac] and lost with Two pairs : Tens and 4
+Seat 5: Sharony55 showed [Kh 9d] and won 19982 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #427038934564864214-46-1416431702 - Holdem no limit (200/1000/2000) - 2014/11/19 21:15:02 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: kiki28700 (5607)
+Seat 3: sabre_laser (2305)
+Seat 4: 2jmd (2285)
+Seat 5: Sharony55 (40215)
+Seat 6: M.Gee31 (5496)
+Seat 7: LUKEP72 (13943)
+Seat 8: eirinn33 (8380)
+Seat 9: LudoSab08 (9891)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 200
+kiki28700 posts ante 200
+2jmd posts ante 200
+Sharony55 posts ante 200
+M.Gee31 posts ante 200
+LUKEP72 posts ante 200
+eirinn33 posts ante 200
+LudoSab08 posts ante 200
+sabre_laser posts big blind 2000
+Dealt to sabre_laser [Jc 6h]
+*** PRE-FLOP *** 
+2jmd folds
+Sharony55 calls 2000
+M.Gee31 raises 3296 to 5296 and is all-in
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 raises 3296 to 8592
+kiki28700 folds
+sabre_laser folds
+Sharony55 raises 14557 to 23149
+LudoSab08 calls 1099 and is all-in
+*** FLOP *** [Jh Kd 6d]
+*** TURN *** [Jh Kd 6d][4h]
+*** RIVER *** [Jh Kd 6d 4h][4s]
+*** SHOW DOWN ***
+M.Gee31 shows [Ah Qc] (One pair : 4)
+LudoSab08 shows [3d Td] (One pair : 4)
+Sharony55 shows [Kh Th] (Two pairs : Kings and 4)
+Sharony55 collected 41736 from pot
+*** SUMMARY ***
+Total pot 41736 | No rake
+Board: [Jh Kd 6d 4h 4s]
+Seat 5: Sharony55 showed [Kh Th] and won 41736 with Two pairs : Kings and 4
+Seat 6: M.Gee31 showed [Ah Qc] and lost with One pair : 4
+Seat 9: LudoSab08 showed [3d Td] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #427038934564864214-47-1416431744 - Holdem no limit (200/1000/2000) - 2014/11/19 21:15:44 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: kiki28700 (5407)
+Seat 2: menta (5735)
+Seat 3: sabre_laser (105)
+Seat 4: 2jmd (2085)
+Seat 5: Sharony55 (58602)
+Seat 7: LUKEP72 (13743)
+Seat 8: eirinn33 (8180)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 105 and is all-in
+2jmd posts ante 200
+kiki28700 posts ante 200
+Sharony55 posts ante 200
+LUKEP72 posts ante 200
+eirinn33 posts ante 200
+sabre_laser posts small blind 0 and is all-in
+2jmd posts big blind 1885 and is all-in
+Dealt to sabre_laser [6c 2s]
+*** PRE-FLOP *** 
+Sharony55 calls 2000
+LUKEP72 folds
+eirinn33 folds
+kiki28700 folds
+*** FLOP *** [8h 2d Kd]
+*** TURN *** [8h 2d Kd][3s]
+*** RIVER *** [8h 2d Kd 3s][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [6c 2s] (Two pairs : Kings and 2)
+2jmd shows [4s 4c] (Two pairs : Kings and 4)
+Sharony55 shows [7c Kc] (Trips of Kings)
+Sharony55 collected 4990 from pot
+*** SUMMARY ***
+Total pot 4990 | No rake
+Board: [8h 2d Kd 3s Kh]
+Seat 3: sabre_laser (small blind) showed [6c 2s] and lost with Two pairs : Kings and 2
+Seat 4: 2jmd (big blind) showed [4s 4c] and lost with Two pairs : Kings and 4
+Seat 5: Sharony55 showed [7c Kc] and won 4990 with Trips of Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #427038934564864207-1-1416428139 - Holdem no limit (10/20) - 2014/11/19 20:15:39 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #2 is the button
+Seat 1: Asjok84 (3000)
+Seat 2: underpaul (3000)
+Seat 3: bibieboub (3000)
+Seat 4: Draculae (3000)
+Seat 5: clara307 (3000)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (3000)
+Seat 9: blondain1313 (3000)
+*** ANTE/BLINDS ***
+bibieboub posts small blind 10
+Draculae posts big blind 20
+Dealt to sabre_laser [4h 6d]
+*** PRE-FLOP *** 
+clara307 calls 20
+El maestro73 folds
+sabre_laser folds
+LoO_OoL folds
+blondain1313 raises 20 to 40
+Asjok84 folds
+underpaul folds
+bibieboub folds
+Draculae calls 20
+clara307 calls 20
+*** FLOP *** [5s Ts 5h]
+Draculae checks
+clara307 bets 710
+blondain1313 folds
+Draculae folds
+clara307 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [5s Ts 5h]
+Seat 5: clara307 won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #427038934564864207-2-1416428365 - Holdem no limit (15/30) - 2014/11/19 20:19:25 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #3 is the button
+Seat 1: Asjok84 (3000)
+Seat 2: underpaul (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2960)
+Seat 5: clara307 (3090)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (3000)
+Seat 9: blondain1313 (2960)
+*** ANTE/BLINDS ***
+Draculae posts small blind 15
+clara307 posts big blind 30
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+El maestro73 folds
+sabre_laser folds
+LoO_OoL calls 30
+blondain1313 calls 30
+Asjok84 raises 135 to 165
+underpaul calls 165
+bibieboub folds
+Draculae folds
+clara307 folds
+LoO_OoL folds
+blondain1313 calls 135
+*** FLOP *** [Jd 2h 9s]
+blondain1313 checks
+Asjok84 bets 380
+underpaul calls 380
+blondain1313 folds
+*** TURN *** [Jd 2h 9s][7d]
+Asjok84 bets 665
+underpaul calls 665
+*** RIVER *** [Jd 2h 9s 7d][4c]
+Asjok84 checks
+underpaul bets 1790 and is all-in
+Asjok84 calls 1790 and is all-in
+*** SHOW DOWN ***
+underpaul shows [Qs Kd] (High card : King)
+Asjok84 shows [Kc Kh] (One pair : Kings)
+Asjok84 collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Board: [Jd 2h 9s 7d 4c]
+Seat 1: Asjok84 showed [Kc Kh] and won 6240 with One pair : Kings
+Seat 2: underpaul showed [Qs Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #427038934564864207-3-1416428475 - Holdem no limit (15/30) - 2014/11/19 20:21:15 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #4 is the button
+Seat 1: Asjok84 (6240)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2945)
+Seat 5: clara307 (3060)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (2970)
+Seat 9: blondain1313 (2795)
+*** ANTE/BLINDS ***
+clara307 posts small blind 15
+El maestro73 posts big blind 30
+Dealt to sabre_laser [2d 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+LoO_OoL calls 30
+blondain1313 calls 30
+Asjok84 calls 30
+bibieboub folds
+Draculae calls 30
+clara307 raises 3030 to 3060 and is all-in
+El maestro73 folds
+LoO_OoL folds
+blondain1313 folds
+Asjok84 folds
+Draculae folds
+clara307 collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Seat 5: clara307 (small blind) won 3210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #427038934564864207-4-1416428541 - Holdem no limit (20/40) - 2014/11/19 20:22:21 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #5 is the button
+Seat 1: Asjok84 (6210)
+Seat 2: Louca61 (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2915)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2970)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (2940)
+Seat 9: blondain1313 (2765)
+*** ANTE/BLINDS ***
+El maestro73 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Jd 6d]
+*** PRE-FLOP *** 
+LoO_OoL folds
+blondain1313 calls 40
+Asjok84 folds
+Louca61 folds
+bibieboub folds
+Draculae calls 40
+clara307 folds
+El maestro73 calls 20
+sabre_laser folds
+*** FLOP *** [Qh 8c 8s]
+El maestro73 checks
+blondain1313 bets 40
+Draculae calls 40
+El maestro73 folds
+*** TURN *** [Qh 8c 8s][9h]
+blondain1313 bets 40
+Draculae calls 40
+*** RIVER *** [Qh 8c 8s 9h][Th]
+blondain1313 bets 80
+Draculae calls 80
+*** SHOW DOWN ***
+Draculae shows [2d Kd] (One pair : 8)
+blondain1313 shows [9s Ks] (Two pairs : 9 and 8)
+blondain1313 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh 8c 8s 9h Th]
+Seat 4: Draculae showed [2d Kd] and lost with One pair : 8
+Seat 9: blondain1313 showed [9s Ks] and won 480 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-5-1416428694 - Holdem no limit (30/60) - 2014/11/19 20:24:54 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #6 is the button
+Seat 1: Asjok84 (6210)
+Seat 2: Louca61 (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2930)
+Seat 7: sabre_laser (2960)
+Seat 8: LoO_OoL (2940)
+Seat 9: blondain1313 (3045)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+LoO_OoL posts big blind 60
+Dealt to sabre_laser [Qh 7d]
+*** PRE-FLOP *** 
+blondain1313 folds
+Asjok84 raises 90 to 150
+Louca61 calls 150
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 folds
+sabre_laser folds
+LoO_OoL calls 90
+*** FLOP *** [Jd Qs 7c]
+LoO_OoL checks
+Asjok84 checks
+Louca61 checks
+*** TURN *** [Jd Qs 7c][Ah]
+LoO_OoL checks
+Asjok84 bets 300
+Louca61 raises 300 to 600
+LoO_OoL folds
+Asjok84 calls 300
+*** RIVER *** [Jd Qs 7c Ah][Ks]
+Asjok84 bets 1120
+Louca61 calls 1120
+*** SHOW DOWN ***
+Louca61 shows [Ac 5s] (One pair : Aces)
+Asjok84 shows [As Th] (Straight Ace high)
+Asjok84 collected 3920 from pot
+*** SUMMARY ***
+Total pot 3920 | No rake
+Board: [Jd Qs 7c Ah Ks]
+Seat 1: Asjok84 showed [As Th] and won 3920 with Straight Ace high
+Seat 2: Louca61 showed [Ac 5s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-6-1416428787 - Holdem no limit (30/60) - 2014/11/19 20:26:27 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #7 is the button
+Seat 1: Asjok84 (8260)
+Seat 2: Louca61 (1130)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2930)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (2790)
+Seat 9: blondain1313 (3045)
+*** ANTE/BLINDS ***
+LoO_OoL posts small blind 30
+blondain1313 posts big blind 60
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+Asjok84 calls 60
+Louca61 raises 1070 to 1130 and is all-in
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 raises 1800 to 2930 and is all-in
+sabre_laser folds
+LoO_OoL folds
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [6c Qs 9c]
+*** TURN *** [6c Qs 9c][Ad]
+*** RIVER *** [6c Qs 9c Ad][5s]
+*** SHOW DOWN ***
+Louca61 shows [6s Ac] (Two pairs : Aces and 6)
+El maestro73 shows [Tc Th] (One pair : Tens)
+El maestro73 collected 1800 from side pot 1
+Louca61 collected 2410 from main pot
+*** SUMMARY ***
+Total pot 4210 | No rake
+Board: [6c Qs 9c Ad 5s]
+Seat 2: Louca61 showed [6s Ac] and won 2410 with Two pairs : Aces and 6
+Seat 6: El maestro73 showed [Tc Th] and won 1800 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-7-1416428831 - Holdem no limit (30/60) - 2014/11/19 20:27:11 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #8 is the button
+Seat 1: Asjok84 (8200)
+Seat 2: Louca61 (2410)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (1800)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (2760)
+Seat 9: blondain1313 (2985)
+*** ANTE/BLINDS ***
+blondain1313 posts small blind 30
+Asjok84 posts big blind 60
+Dealt to sabre_laser [Jd Qh]
+*** PRE-FLOP *** 
+Louca61 raises 2350 to 2410 and is all-in
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 calls 1800 and is all-in
+sabre_laser folds
+LoO_OoL raises 350 to 2760 and is all-in
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [6s Tc 4s]
+*** TURN *** [6s Tc 4s][8s]
+*** RIVER *** [6s Tc 4s 8s][Ts]
+*** SHOW DOWN ***
+El maestro73 shows [As 7s] (Flush Ace high)
+Louca61 shows [Js 9d] (Flush Jack high)
+LoO_OoL shows [2s 2h] (Flush Ten high)
+LoO_OoL collected 350 from side pot 2
+Louca61 collected 1220 from side pot 1
+El maestro73 collected 5490 from main pot
+*** SUMMARY ***
+Total pot 7060 | No rake
+Board: [6s Tc 4s 8s Ts]
+Seat 2: Louca61 showed [Js 9d] and won 1220 with Flush Jack high
+Seat 6: El maestro73 showed [As 7s] and won 5490 with Flush Ace high
+Seat 8: LoO_OoL (button) showed [2s 2h] and won 350 with Flush Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #427038934564864207-8-1416428891 - Holdem no limit (40/80) - 2014/11/19 20:28:11 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #9 is the button
+Seat 1: Asjok84 (8140)
+Seat 2: Louca61 (1220)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (5490)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (350)
+Seat 9: blondain1313 (2955)
+*** ANTE/BLINDS ***
+Asjok84 posts small blind 40
+Louca61 posts big blind 80
+Dealt to sabre_laser [6s Qc]
+*** PRE-FLOP *** 
+bibieboub folds
+Draculae calls 80
+clara307 folds
+El maestro73 folds
+sabre_laser folds
+LoO_OoL folds
+blondain1313 calls 80
+Asjok84 calls 40
+Louca61 raises 1140 to 1220 and is all-in
+Draculae calls 1140
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [9c 7d 8d]
+*** TURN *** [9c 7d 8d][9d]
+*** RIVER *** [9c 7d 8d 9d][Jh]
+*** SHOW DOWN ***
+Louca61 shows [Ad Kc] (One pair : 9)
+Draculae shows [Qs Jd] (Two pairs : Jacks and 9)
+Draculae collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [9c 7d 8d 9d Jh]
+Seat 2: Louca61 (big blind) showed [Ad Kc] and lost with One pair : 9
+Seat 4: Draculae showed [Qs Jd] and won 2600 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #427038934564864214-12-1416429090 - Holdem no limit (60/120) - 2014/11/19 20:31:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: soso33000 (2495)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (13110)
+Seat 6: Bruno08300 (5520)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8470)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+Sharony55 posts big blind 120
+*** PRE-FLOP *** 
+Bruno08300 folds
+moukki13 folds
+eirinn33 calls 120
+LudoSab08 folds
+soso33000 calls 120
+GuiGui.39 folds
+Sharony55 checks
+*** FLOP *** [8d Ah Js]
+Sharony55 checks
+eirinn33 checks
+soso33000 checks
+*** TURN *** [8d Ah Js][3s]
+Sharony55 folds
+eirinn33 checks
+soso33000 checks
+*** RIVER *** [8d Ah Js 3s][Td]
+eirinn33 checks
+soso33000 checks
+*** SHOW DOWN ***
+soso33000 shows [Qd 3d] (One pair : 3)
+eirinn33 shows [7d 7h] (One pair : 7)
+eirinn33 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8d Ah Js 3s Td]
+Seat 1: soso33000 showed [Qd 3d] and lost with One pair : 3
+Seat 8: eirinn33 showed [7d 7h] and won 360 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #427038934564864214-13-1416429168 - Holdem no limit (60/120) - 2014/11/19 20:32:48 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: soso33000 (2375)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (12990)
+Seat 6: Bruno08300 (5520)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8710)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+Sharony55 posts small blind 60
+Bruno08300 posts big blind 120
+*** PRE-FLOP *** 
+moukki13 folds
+eirinn33 folds
+LudoSab08 folds
+soso33000 folds
+GuiGui.39 folds
+Sharony55 calls 60
+Bruno08300 checks
+*** FLOP *** [8h 2s 2c]
+Sharony55 checks
+Bruno08300 bets 240
+Sharony55 calls 240
+*** TURN *** [8h 2s 2c][9h]
+Sharony55 checks
+Bruno08300 bets 720
+Sharony55 calls 720
+*** RIVER *** [8h 2s 2c 9h][Js]
+Sharony55 checks
+Bruno08300 bets 2160
+Sharony55 raises 5636 to 7796
+Bruno08300 calls 2280 and is all-in
+*** SHOW DOWN ***
+Bruno08300 shows [9c 8c] (Two pairs : 9 and 8)
+Sharony55 shows [5c 2h] (Trips of 2)
+Sharony55 collected 14396 from pot
+*** SUMMARY ***
+Total pot 14396 | No rake
+Board: [8h 2s 2c 9h Js]
+Seat 5: Sharony55 (small blind) showed [5c 2h] and won 14396 with Trips of 2
+Seat 6: Bruno08300 (big blind) showed [9c 8c] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-14-1416429232 - Holdem no limit (10/60/120) - 2014/11/19 20:33:52 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: soso33000 (2375)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (18510)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8710)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+moukki13 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+eirinn33 posts ante 10
+LudoSab08 posts ante 10
+moukki13 posts big blind 120
+Dealt to sabre_laser [3s 5d]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 calls 120
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 120
+moukki13 folds
+*** FLOP *** [Ah 4h 9s]
+LudoSab08 checks
+Sharony55 checks
+*** TURN *** [Ah 4h 9s][5h]
+LudoSab08 bets 180
+Sharony55 calls 180
+*** RIVER *** [Ah 4h 9s 5h][4s]
+LudoSab08 bets 120
+Sharony55 folds
+LudoSab08 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [Ah 4h 9s 5h 4s]
+Seat 9: LudoSab08 won 920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-15-1416429319 - Holdem no limit (10/60/120) - 2014/11/19 20:35:19 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: soso33000 (2365)
+Seat 2: GuiGui.39 (2830)
+Seat 3: sabre_laser (2920)
+Seat 4: Kermit21 (2880)
+Seat 5: Sharony55 (18200)
+Seat 6: Jimou (3110)
+Seat 7: moukki13 (2810)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (6310)
+*** ANTE/BLINDS ***
+moukki13 posts ante 10
+eirinn33 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+LudoSab08 posts ante 10
+moukki13 posts small blind 60
+eirinn33 posts big blind 120
+Dealt to sabre_laser [7s 2h]
+*** PRE-FLOP *** 
+LudoSab08 calls 120
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 calls 120
+Sharony55 calls 120
+moukki13 folds
+eirinn33 checks
+*** FLOP *** [Tc Ac 4c]
+eirinn33 bets 120
+LudoSab08 folds
+Kermit21 folds
+Sharony55 folds
+eirinn33 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Tc Ac 4c]
+Seat 8: eirinn33 (big blind) won 740
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-16-1416429377 - Holdem no limit (10/60/120) - 2014/11/19 20:36:17 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: soso33000 (2355)
+Seat 2: GuiGui.39 (2820)
+Seat 3: sabre_laser (2910)
+Seat 4: Kermit21 (2750)
+Seat 5: Sharony55 (18070)
+Seat 6: Jimou (3110)
+Seat 7: moukki13 (2740)
+Seat 8: eirinn33 (9190)
+Seat 9: LudoSab08 (6180)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 10
+LudoSab08 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+Jimou posts ante 10
+moukki13 posts ante 10
+eirinn33 posts small blind 60
+LudoSab08 posts big blind 120
+Dealt to sabre_laser [4c As]
+*** PRE-FLOP *** 
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 120 to 240
+Sharony55 calls 240
+Jimou folds
+moukki13 folds
+eirinn33 folds
+LudoSab08 calls 120
+*** FLOP *** [9c Qc 5c]
+LudoSab08 bets 240
+Kermit21 calls 240
+Sharony55 folds
+*** TURN *** [9c Qc 5c][8s]
+LudoSab08 bets 240
+Kermit21 calls 240
+*** RIVER *** [9c Qc 5c 8s][3s]
+LudoSab08 bets 540
+Kermit21 raises 660 to 1200
+LudoSab08 calls 660
+*** SHOW DOWN ***
+LudoSab08 shows [Qs 7s] (One pair : Queens)
+Kermit21 shows [Kc Qd] (One pair : Queens)
+Kermit21 collected 4230 from pot
+*** SUMMARY ***
+Total pot 4230 | No rake
+Board: [9c Qc 5c 8s 3s]
+Seat 4: Kermit21 showed [Kc Qd] and won 4230 with One pair : Queens
+Seat 9: LudoSab08 (big blind) showed [Qs 7s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #427038934564864214-17-1416429435 - Holdem no limit (15/75/150) - 2014/11/19 20:37:15 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: soso33000 (2345)
+Seat 2: GuiGui.39 (2810)
+Seat 3: sabre_laser (2900)
+Seat 4: Kermit21 (5050)
+Seat 5: Sharony55 (17820)
+Seat 6: Jimou (3100)
+Seat 7: moukki13 (2730)
+Seat 8: eirinn33 (9120)
+Seat 9: LudoSab08 (4250)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 15
+soso33000 posts ante 15
+GuiGui.39 posts ante 15
+sabre_laser posts ante 15
+Kermit21 posts ante 15
+Sharony55 posts ante 15
+Jimou posts ante 15
+moukki13 posts ante 15
+eirinn33 posts ante 15
+LudoSab08 posts small blind 75
+soso33000 posts big blind 150
+Dealt to sabre_laser [5h Jd]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 150
+Jimou folds
+moukki13 folds
+eirinn33 calls 150
+LudoSab08 calls 75
+soso33000 checks
+*** FLOP *** [6c 5d 2c]
+LudoSab08 checks
+soso33000 bets 735
+Sharony55 calls 735
+eirinn33 folds
+LudoSab08 folds
+*** TURN *** [6c 5d 2c][3h]
+soso33000 bets 1445 and is all-in
+Sharony55 calls 1445
+*** RIVER *** [6c 5d 2c 3h][Ad]
+*** SHOW DOWN ***
+Sharony55 shows [3c 5c] (Two pairs : 5 and 3)
+soso33000 shows [8c 4d] (Straight 6 high)
+soso33000 collected 5095 from pot
+*** SUMMARY ***
+Total pot 5095 | No rake
+Board: [6c 5d 2c 3h Ad]
+Seat 1: soso33000 (big blind) showed [8c 4d] and won 5095 with Straight 6 high
+Seat 5: Sharony55 showed [3c 5c] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #427038934564864214-18-1416429506 - Holdem no limit (15/75/150) - 2014/11/19 20:38:26 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: soso33000 (5095)
+Seat 2: GuiGui.39 (2795)
+Seat 3: sabre_laser (2885)
+Seat 4: Kermit21 (5035)
+Seat 5: Sharony55 (15475)
+Seat 6: Jimou (3085)
+Seat 7: moukki13 (2715)
+Seat 8: eirinn33 (8955)
+Seat 9: LudoSab08 (4085)
+*** ANTE/BLINDS ***
+soso33000 posts ante 15
+GuiGui.39 posts ante 15
+sabre_laser posts ante 15
+Kermit21 posts ante 15
+Sharony55 posts ante 15
+Jimou posts ante 15
+moukki13 posts ante 15
+eirinn33 posts ante 15
+LudoSab08 posts ante 15
+soso33000 posts small blind 75
+GuiGui.39 posts big blind 150
+Dealt to sabre_laser [9h 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 150
+Jimou folds
+moukki13 folds
+eirinn33 calls 150
+LudoSab08 folds
+soso33000 calls 75
+GuiGui.39 checks
+*** FLOP *** [6d 9d 2s]
+soso33000 checks
+GuiGui.39 bets 368
+Sharony55 calls 368
+eirinn33 folds
+soso33000 folds
+*** TURN *** [6d 9d 2s][Qs]
+GuiGui.39 checks
+Sharony55 checks
+*** RIVER *** [6d 9d 2s Qs][Th]
+GuiGui.39 bets 1471
+Sharony55 calls 1471
+*** SHOW DOWN ***
+Sharony55 shows [As Jd] (High card : Ace)
+GuiGui.39 shows [Td Qd] (Two pairs : Queens and Tens)
+GuiGui.39 collected 4413 from pot
+*** SUMMARY ***
+Total pot 4413 | No rake
+Board: [6d 9d 2s Qs Th]
+Seat 2: GuiGui.39 (big blind) showed [Td Qd] and won 4413 with Two pairs : Queens and Tens
+Seat 5: Sharony55 showed [As Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #427038934564864214-19-1416429590 - Holdem no limit (20/100/200) - 2014/11/19 20:39:50 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: soso33000 (4930)
+Seat 2: GuiGui.39 (5204)
+Seat 3: sabre_laser (2870)
+Seat 4: Kermit21 (5020)
+Seat 5: Sharony55 (13471)
+Seat 6: Jimou (3070)
+Seat 7: moukki13 (2700)
+Seat 8: eirinn33 (8790)
+Seat 9: LudoSab08 (4070)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 20
+sabre_laser posts ante 20
+soso33000 posts ante 20
+Kermit21 posts ante 20
+Sharony55 posts ante 20
+Jimou posts ante 20
+moukki13 posts ante 20
+eirinn33 posts ante 20
+LudoSab08 posts ante 20
+GuiGui.39 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9d Th]
+*** PRE-FLOP *** 
+Kermit21 calls 200
+Sharony55 calls 200
+Jimou folds
+moukki13 calls 200
+eirinn33 folds
+LudoSab08 folds
+soso33000 folds
+GuiGui.39 calls 100
+sabre_laser folds
+*** FLOP *** [8c 7h 2s]
+GuiGui.39 bets 590
+Kermit21 folds
+Sharony55 folds
+moukki13 calls 590
+*** TURN *** [8c 7h 2s][Jh]
+GuiGui.39 checks
+moukki13 bets 300
+GuiGui.39 calls 300
+*** RIVER *** [8c 7h 2s Jh][Ts]
+GuiGui.39 bets 1978
+moukki13 calls 1590 and is all-in
+*** SHOW DOWN ***
+moukki13 shows [2d 2h] (Trips of 2)
+GuiGui.39 shows [8d 9c] (Straight Jack high)
+GuiGui.39 collected 6528 from pot
+*** SUMMARY ***
+Total pot 6528 | No rake
+Board: [8c 7h 2s Jh Ts]
+Seat 2: GuiGui.39 (small blind) showed [8d 9c] and won 6528 with Straight Jack high
+Seat 7: moukki13 showed [2d 2h] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #427038934564864214-20-1416429690 - Holdem no limit (20/100/200) - 2014/11/19 20:41:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: soso33000 (4910)
+Seat 2: GuiGui.39 (8644)
+Seat 3: sabre_laser (2650)
+Seat 4: Kermit21 (4800)
+Seat 5: Sharony55 (13251)
+Seat 6: Jimou (3050)
+Seat 7: jey14 (806)
+Seat 8: eirinn33 (8770)
+Seat 9: LudoSab08 (4050)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Kermit21 posts ante 20
+soso33000 posts ante 20
+GuiGui.39 posts ante 20
+Sharony55 posts ante 20
+Jimou posts ante 20
+jey14 posts ante 20
+eirinn33 posts ante 20
+LudoSab08 posts ante 20
+sabre_laser posts small blind 100
+Kermit21 posts big blind 200
+Dealt to sabre_laser [Kc Qs]
+*** PRE-FLOP *** 
+Sharony55 folds
+Jimou calls 200
+jey14 raises 586 to 786 and is all-in
+eirinn33 folds
+LudoSab08 calls 786
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Jimou calls 586
+*** FLOP *** [2c 9s 2s]
+Jimou checks
+LudoSab08 checks
+*** TURN *** [2c 9s 2s][3c]
+Jimou checks
+LudoSab08 checks
+*** RIVER *** [2c 9s 2s 3c][Ts]
+Jimou checks
+LudoSab08 bets 3244 and is all-in
+Jimou folds
+*** SHOW DOWN ***
+jey14 shows [4h 4c] (Two pairs : 4 and 2)
+LudoSab08 shows [Th Jh] (Two pairs : Tens and 2)
+LudoSab08 collected 6082 from pot
+*** SUMMARY ***
+Total pot 6082 | No rake
+Board: [2c 9s 2s 3c Ts]
+Seat 7: jey14 showed [4h 4c] and lost with Two pairs : 4 and 2
+Seat 9: LudoSab08 showed [Th Jh] and won 6082 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-21-1416429766 - Holdem no limit (25/125/250) - 2014/11/19 20:42:46 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: soso33000 (4890)
+Seat 2: GuiGui.39 (8624)
+Seat 3: sabre_laser (2530)
+Seat 4: Kermit21 (4580)
+Seat 5: Sharony55 (13231)
+Seat 6: Jimou (2244)
+Seat 8: eirinn33 (8750)
+Seat 9: LudoSab08 (6082)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 25
+Sharony55 posts ante 25
+soso33000 posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Jimou posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Kermit21 posts small blind 125
+Sharony55 posts big blind 250
+Dealt to sabre_laser [Ks Qd]
+*** PRE-FLOP *** 
+Jimou folds
+eirinn33 folds
+LudoSab08 calls 250
+soso33000 raises 250 to 500
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 250
+LudoSab08 calls 250
+*** FLOP *** [7d 4c Jh]
+Sharony55 bets 250
+LudoSab08 raises 250 to 500
+soso33000 calls 500
+Sharony55 raises 250 to 750
+LudoSab08 raises 250 to 1000
+soso33000 folds
+Sharony55 calls 250
+*** TURN *** [7d 4c Jh][Ah]
+Sharony55 bets 2894
+LudoSab08 raises 1663 to 4557 and is all-in
+Sharony55 calls 1663
+*** RIVER *** [7d 4c Jh Ah][4s]
+*** SHOW DOWN ***
+Sharony55 shows [Ts Jc] (Two pairs : Jacks and 4)
+LudoSab08 shows [2s Jd] (Two pairs : Jacks and 4)
+LudoSab08 collected 6720 from pot
+Sharony55 collected 6719 from pot
+*** SUMMARY ***
+Total pot 13439 | No rake
+Board: [7d 4c Jh Ah 4s]
+Seat 5: Sharony55 (big blind) showed [Ts Jc] and won 6719 with Two pairs : Jacks and 4
+Seat 9: LudoSab08 showed [2s Jd] and won 6720 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-22-1416429862 - Holdem no limit (25/125/250) - 2014/11/19 20:44:22 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: soso33000 (3865)
+Seat 2: GuiGui.39 (8599)
+Seat 3: sabre_laser (2505)
+Seat 4: Kermit21 (4430)
+Seat 5: Sharony55 (13868)
+Seat 6: Jimou (2219)
+Seat 7: Phileo (4695)
+Seat 8: eirinn33 (8725)
+Seat 9: LudoSab08 (6720)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 25
+Jimou posts ante 25
+soso33000 posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Kermit21 posts ante 25
+Phileo posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Sharony55 posts small blind 125
+Jimou posts big blind 250
+Dealt to sabre_laser [2h 5d]
+*** PRE-FLOP *** 
+Phileo folds
+eirinn33 folds
+LudoSab08 folds
+soso33000 raises 250 to 500
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 375
+Jimou calls 250
+*** FLOP *** [4s 9s 5c]
+Sharony55 bets 250
+Jimou folds
+soso33000 raises 3090 to 3340 and is all-in
+Sharony55 calls 3090
+*** TURN *** [4s 9s 5c][Kd]
+*** RIVER *** [4s 9s 5c Kd][2s]
+*** SHOW DOWN ***
+soso33000 shows [Qd Ac] (High card : Ace)
+Sharony55 shows [Ts 9c] (One pair : 9)
+Sharony55 collected 8405 from pot
+*** SUMMARY ***
+Total pot 8405 | No rake
+Board: [4s 9s 5c Kd 2s]
+Seat 1: soso33000 showed [Qd Ac] and lost with High card : Ace
+Seat 5: Sharony55 (small blind) showed [Ts 9c] and won 8405 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-23-1416429924 - Holdem no limit (25/125/250) - 2014/11/19 20:45:24 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 2: GuiGui.39 (8574)
+Seat 3: sabre_laser (2480)
+Seat 4: Kermit21 (4405)
+Seat 5: Sharony55 (18408)
+Seat 6: Jimou (1694)
+Seat 7: Phileo (4670)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (6695)
+*** ANTE/BLINDS ***
+Jimou posts ante 25
+Phileo posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Kermit21 posts ante 25
+Sharony55 posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Jimou posts small blind 125
+Phileo posts big blind 250
+Dealt to sabre_laser [Ah Kd]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 250
+Jimou raises 1419 to 1669 and is all-in
+Phileo calls 1419
+Sharony55 calls 1419
+*** FLOP *** [4c 2d 6d]
+Phileo checks
+Sharony55 checks
+*** TURN *** [4c 2d 6d][4h]
+Phileo checks
+Sharony55 checks
+*** RIVER *** [4c 2d 6d 4h][8h]
+Phileo checks
+Sharony55 checks
+*** SHOW DOWN ***
+Sharony55 shows [9d 7c] (One pair : 4)
+Phileo shows [Js Ks] (One pair : 4)
+Jimou shows [As Ad] (Two pairs : Aces and 4)
+Jimou collected 5207 from pot
+*** SUMMARY ***
+Total pot 5207 | No rake
+Board: [4c 2d 6d 4h 8h]
+Seat 5: Sharony55 (button) showed [9d 7c] and lost with One pair : 4
+Seat 6: Jimou (small blind) showed [As Ad] and won 5207 with Two pairs : Aces and 4
+Seat 7: Phileo (big blind) showed [Js Ks] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-24-1416430004 - Holdem no limit (35/150/300) - 2014/11/19 20:46:44 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: c TTprmoa (5645)
+Seat 2: GuiGui.39 (8549)
+Seat 3: sabre_laser (2455)
+Seat 4: Kermit21 (4380)
+Seat 5: Sharony55 (16714)
+Seat 6: Jimou (5207)
+Seat 7: Phileo (2976)
+Seat 8: eirinn33 (8675)
+Seat 9: LudoSab08 (6670)
+*** ANTE/BLINDS ***
+Phileo posts ante 35
+eirinn33 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+LudoSab08 posts ante 35
+Phileo posts small blind 150
+eirinn33 posts big blind 300
+Dealt to sabre_laser [Ks 5s]
+*** PRE-FLOP *** 
+LudoSab08 folds
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+Jimou folds
+Phileo folds
+eirinn33 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 8: eirinn33 (big blind) won 765
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-25-1416430025 - Holdem no limit (35/150/300) - 2014/11/19 20:47:05 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: c TTprmoa (5610)
+Seat 2: GuiGui.39 (8514)
+Seat 3: sabre_laser (2420)
+Seat 4: Kermit21 (4345)
+Seat 5: Sharony55 (16679)
+Seat 6: Jimou (5172)
+Seat 7: Phileo (2791)
+Seat 8: eirinn33 (9105)
+Seat 9: LudoSab08 (6635)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 35
+LudoSab08 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+Phileo posts ante 35
+eirinn33 posts small blind 150
+LudoSab08 posts big blind 300
+Dealt to sabre_laser [Kc Td]
+*** PRE-FLOP *** 
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 300
+Jimou folds
+Phileo folds
+eirinn33 calls 150
+LudoSab08 raises 300 to 600
+Sharony55 calls 300
+eirinn33 calls 300
+*** FLOP *** [2h 7s Js]
+eirinn33 checks
+LudoSab08 checks
+Sharony55 checks
+*** TURN *** [2h 7s Js][7h]
+eirinn33 checks
+LudoSab08 bets 300
+Sharony55 calls 300
+eirinn33 folds
+*** RIVER *** [2h 7s Js 7h][Tc]
+LudoSab08 bets 300
+Sharony55 calls 300
+*** SHOW DOWN ***
+Sharony55 shows [Ks Ah] (One pair : 7)
+LudoSab08 shows [Th Kh] (Two pairs : Tens and 7)
+LudoSab08 collected 3315 from pot
+*** SUMMARY ***
+Total pot 3315 | No rake
+Board: [2h 7s Js 7h Tc]
+Seat 5: Sharony55 showed [Ks Ah] and lost with One pair : 7
+Seat 9: LudoSab08 (big blind) showed [Th Kh] and won 3315 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-26-1416430100 - Holdem no limit (35/150/300) - 2014/11/19 20:48:20 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: c TTprmoa (5575)
+Seat 2: GuiGui.39 (8479)
+Seat 3: sabre_laser (2385)
+Seat 4: Kermit21 (4310)
+Seat 5: Sharony55 (15444)
+Seat 6: Jimou (5137)
+Seat 7: Phileo (2756)
+Seat 8: eirinn33 (8470)
+Seat 9: LudoSab08 (8715)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+Phileo posts ante 35
+eirinn33 posts ante 35
+LudoSab08 posts small blind 150
+c TTprmoa posts big blind 300
+Dealt to sabre_laser [Tc Jh]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 300
+Jimou calls 300
+Phileo calls 300
+eirinn33 folds
+LudoSab08 calls 150
+c TTprmoa checks
+*** FLOP *** [8h 8c 3c]
+LudoSab08 checks
+c TTprmoa checks
+Sharony55 checks
+Jimou checks
+Phileo checks
+*** TURN *** [8h 8c 3c][4d]
+LudoSab08 checks
+c TTprmoa bets 300
+Sharony55 folds
+Jimou calls 300
+Phileo folds
+LudoSab08 folds
+*** RIVER *** [8h 8c 3c 4d][7d]
+c TTprmoa bets 300
+Jimou folds
+c TTprmoa collected 2715 from pot
+*** SUMMARY ***
+Total pot 2715 | No rake
+Board: [8h 8c 3c 4d 7d]
+Seat 1: c TTprmoa (big blind) won 2715
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #427038934564864214-27-1416430230 - Holdem no limit (40/200/400) - 2014/11/19 20:50:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: c TTprmoa (7355)
+Seat 2: GuiGui.39 (8444)
+Seat 3: sabre_laser (2350)
+Seat 4: Kermit21 (4275)
+Seat 5: Sharony55 (15109)
+Seat 6: Jimou (4502)
+Seat 7: Phileo (2421)
+Seat 8: eirinn33 (8435)
+Seat 9: LudoSab08 (8380)
+*** ANTE/BLINDS ***
+c TTprmoa posts ante 40
+GuiGui.39 posts ante 40
+sabre_laser posts ante 40
+Kermit21 posts ante 40
+Sharony55 posts ante 40
+Jimou posts ante 40
+Phileo posts ante 40
+eirinn33 posts ante 40
+LudoSab08 posts ante 40
+c TTprmoa posts small blind 200
+GuiGui.39 posts big blind 400
+Dealt to sabre_laser [3s 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 400
+Jimou raises 1600 to 2000
+Phileo folds
+eirinn33 folds
+LudoSab08 calls 2000
+c TTprmoa folds
+GuiGui.39 folds
+Sharony55 calls 1600
+*** FLOP *** [3h 7c Ac]
+Sharony55 checks
+Jimou bets 2462 and is all-in
+LudoSab08 calls 2462
+Sharony55 folds
+*** TURN *** [3h 7c Ac][8c]
+*** RIVER *** [3h 7c Ac 8c][6d]
+*** SHOW DOWN ***
+Jimou shows [9h Ah] (One pair : Aces)
+LudoSab08 shows [As Qs] (One pair : Aces)
+LudoSab08 collected 11884 from pot
+*** SUMMARY ***
+Total pot 11884 | No rake
+Board: [3h 7c Ac 8c 6d]
+Seat 6: Jimou showed [9h Ah] and lost with One pair : Aces
+Seat 9: LudoSab08 (button) showed [As Qs] and won 11884 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-28-1416430311 - Holdem no limit (50/250/500) - 2014/11/19 20:51:51 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: c TTprmoa (7115)
+Seat 2: GuiGui.39 (8004)
+Seat 3: sabre_laser (2310)
+Seat 4: Kermit21 (4235)
+Seat 5: Sharony55 (13069)
+Seat 7: Phileo (2381)
+Seat 8: eirinn33 (8395)
+Seat 9: LudoSab08 (15762)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 50
+sabre_laser posts ante 50
+c TTprmoa posts ante 50
+Kermit21 posts ante 50
+Sharony55 posts ante 50
+Phileo posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+GuiGui.39 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [2h 6d]
+*** PRE-FLOP *** 
+Kermit21 folds
+Sharony55 calls 500
+Phileo folds
+eirinn33 folds
+LudoSab08 folds
+c TTprmoa folds
+GuiGui.39 calls 250
+sabre_laser folds
+*** FLOP *** [As Ts Jd]
+GuiGui.39 checks
+Sharony55 checks
+*** TURN *** [As Ts Jd][Jc]
+GuiGui.39 checks
+Sharony55 bets 500
+GuiGui.39 folds
+Sharony55 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [As Ts Jd Jc]
+Seat 5: Sharony55 won 2400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-29-1416430360 - Holdem no limit (50/250/500) - 2014/11/19 20:52:40 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: c TTprmoa (7065)
+Seat 2: GuiGui.39 (7454)
+Seat 3: sabre_laser (1760)
+Seat 4: Kermit21 (4185)
+Seat 5: Sharony55 (14419)
+Seat 6: M.Gee31 (3435)
+Seat 7: Phileo (2331)
+Seat 8: eirinn33 (8345)
+Seat 9: LudoSab08 (15712)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Kermit21 posts ante 50
+c TTprmoa posts ante 50
+GuiGui.39 posts ante 50
+Sharony55 posts ante 50
+M.Gee31 posts ante 50
+Phileo posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+sabre_laser posts small blind 250
+Kermit21 posts big blind 500
+Dealt to sabre_laser [Jd Js]
+*** PRE-FLOP *** 
+Sharony55 calls 500
+M.Gee31 raises 2885 to 3385 and is all-in
+Phileo calls 2281 and is all-in
+eirinn33 folds
+LudoSab08 calls 3385
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+*** FLOP *** [3c Ac 9h]
+*** TURN *** [3c Ac 9h][Kc]
+*** RIVER *** [3c Ac 9h Kc][4h]
+*** SHOW DOWN ***
+Phileo shows [Kd Td] (One pair : Kings)
+LudoSab08 shows [Tc Qd] (High card : Ace)
+M.Gee31 shows [Ah 6h] (One pair : Aces)
+M.Gee31 collected 10751 from pot
+*** SUMMARY ***
+Total pot 10751 | No rake
+Board: [3c Ac 9h Kc 4h]
+Seat 6: M.Gee31 showed [Ah 6h] and won 10751 with One pair : Aces
+Seat 7: Phileo showed [Kd Td] and lost with One pair : Kings
+Seat 9: LudoSab08 showed [Tc Qd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-30-1416430441 - Holdem no limit (50/250/500) - 2014/11/19 20:54:01 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: c TTprmoa (7015)
+Seat 2: GuiGui.39 (7404)
+Seat 3: sabre_laser (1460)
+Seat 4: Kermit21 (3635)
+Seat 5: Sharony55 (13869)
+Seat 6: M.Gee31 (10751)
+Seat 7: LUKEP72 (6790)
+Seat 8: eirinn33 (8295)
+Seat 9: LudoSab08 (12277)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 50
+Sharony55 posts ante 50
+c TTprmoa posts ante 50
+GuiGui.39 posts ante 50
+sabre_laser posts ante 50
+M.Gee31 posts ante 50
+LUKEP72 posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+Kermit21 posts small blind 250
+Sharony55 posts big blind 500
+Dealt to sabre_laser [6s 7d]
+*** PRE-FLOP *** 
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 500
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 checks
+*** FLOP *** [8c 8s 7s]
+Sharony55 checks
+LudoSab08 checks
+*** TURN *** [8c 8s 7s][Jd]
+Sharony55 bets 500
+LudoSab08 folds
+Sharony55 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [8c 8s 7s Jd]
+Seat 5: Sharony55 (big blind) won 2200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #427038934564864214-31-1416430801 - Holdem no limit (70/300/600) - 2014/11/19 21:00:01 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: c TTprmoa (6965)
+Seat 2: GuiGui.39 (7354)
+Seat 3: sabre_laser (1410)
+Seat 4: Kermit21 (3335)
+Seat 5: Sharony55 (15019)
+Seat 6: M.Gee31 (10701)
+Seat 7: LUKEP72 (6740)
+Seat 8: eirinn33 (8245)
+Seat 9: LudoSab08 (11727)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 70
+M.Gee31 posts ante 70
+c TTprmoa posts ante 70
+GuiGui.39 posts ante 70
+sabre_laser posts ante 70
+Kermit21 posts ante 70
+LUKEP72 posts ante 70
+eirinn33 posts ante 70
+LudoSab08 posts ante 70
+Sharony55 posts small blind 300
+M.Gee31 posts big blind 600
+Dealt to sabre_laser [7h 7d]
+*** PRE-FLOP *** 
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 600
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 calls 600
+Sharony55 calls 300
+M.Gee31 folds
+*** FLOP *** [7c 4s Kd]
+Sharony55 checks
+LudoSab08 bets 600
+Kermit21 folds
+Sharony55 folds
+LudoSab08 collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Board: [7c 4s Kd]
+Seat 9: LudoSab08 won 3630
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #427038934564864214-32-1416430929 - Holdem no limit (70/300/600) - 2014/11/19 21:02:09 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: c TTprmoa (6895)
+Seat 2: GuiGui.39 (7284)
+Seat 3: sabre_laser (1340)
+Seat 4: Kermit21 (2665)
+Seat 5: Sharony55 (14349)
+Seat 6: M.Gee31 (10031)
+Seat 7: LUKEP72 (6670)
+Seat 8: eirinn33 (8175)
+Seat 9: LudoSab08 (14087)
+*** ANTE/BLINDS ***
+M.Gee31 posts ante 70
+LUKEP72 posts ante 70
+c TTprmoa posts ante 70
+GuiGui.39 posts ante 70
+sabre_laser posts ante 70
+Kermit21 posts ante 70
+Sharony55 posts ante 70
+eirinn33 posts ante 70
+LudoSab08 posts ante 70
+M.Gee31 posts small blind 300
+LUKEP72 posts big blind 600
+Dealt to sabre_laser [Jc 8s]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+c TTprmoa raises 600 to 1200
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1200
+M.Gee31 folds
+LUKEP72 folds
+*** FLOP *** [2h 6d 6c]
+c TTprmoa bets 1800
+Sharony55 calls 1800
+*** TURN *** [2h 6d 6c][Td]
+c TTprmoa bets 3825 and is all-in
+Sharony55 calls 3825
+*** RIVER *** [2h 6d 6c Td][6s]
+*** SHOW DOWN ***
+c TTprmoa shows [9c 9s] (Full of 6 and 9)
+Sharony55 shows [Kd Th] (Full of 6 and Tens)
+Sharony55 collected 15180 from pot
+*** SUMMARY ***
+Total pot 15180 | No rake
+Board: [2h 6d 6c Td 6s]
+Seat 1: c TTprmoa showed [9c 9s] and lost with Full of 6 and 9
+Seat 5: Sharony55 (button) showed [Kd Th] and won 15180 with Full of 6 and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-33-1416430979 - Holdem no limit (80/400/800) - 2014/11/19 21:02:59 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 2: GuiGui.39 (7214)
+Seat 3: sabre_laser (1270)
+Seat 4: Kermit21 (2595)
+Seat 5: Sharony55 (22634)
+Seat 6: M.Gee31 (9661)
+Seat 7: LUKEP72 (6000)
+Seat 8: eirinn33 (8105)
+Seat 9: LudoSab08 (14017)
+*** ANTE/BLINDS ***
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LudoSab08 posts ante 80
+LUKEP72 posts small blind 400
+eirinn33 posts big blind 800
+Dealt to sabre_laser [8d 4h]
+*** PRE-FLOP *** 
+LudoSab08 calls 800
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 1715 to 2515 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1715
+*** FLOP *** [Qd Ks 5s]
+*** TURN *** [Qd Ks 5s][2h]
+*** RIVER *** [Qd Ks 5s 2h][Ts]
+*** SHOW DOWN ***
+LudoSab08 shows [3s Kh] (One pair : Kings)
+Kermit21 shows [Js As] (Flush Ace high)
+Kermit21 collected 6870 from pot
+*** SUMMARY ***
+Total pot 6870 | No rake
+Board: [Qd Ks 5s 2h Ts]
+Seat 4: Kermit21 showed [Js As] and won 6870 with Flush Ace high
+Seat 9: LudoSab08 showed [3s Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-34-1416431038 - Holdem no limit (80/400/800) - 2014/11/19 21:03:58 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: goldtracks (3770)
+Seat 2: GuiGui.39 (7134)
+Seat 3: sabre_laser (1190)
+Seat 4: Kermit21 (6870)
+Seat 5: Sharony55 (22554)
+Seat 6: M.Gee31 (9581)
+Seat 7: LUKEP72 (5520)
+Seat 8: eirinn33 (7225)
+Seat 9: LudoSab08 (11422)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 80
+LudoSab08 posts ante 80
+goldtracks posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts small blind 400
+LudoSab08 posts big blind 800
+Dealt to sabre_laser [Ad 6s]
+*** PRE-FLOP *** 
+goldtracks raises 800 to 1600
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 5190 to 6790 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+goldtracks calls 2090 and is all-in
+*** FLOP *** [7d Jd 5h]
+*** TURN *** [7d Jd 5h][Ts]
+*** RIVER *** [7d Jd 5h Ts][6c]
+*** SHOW DOWN ***
+goldtracks shows [Kc Qc] (High card : King)
+Kermit21 shows [2s 2h] (One pair : 2)
+Kermit21 collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | No rake
+Board: [7d Jd 5h Ts 6c]
+Seat 1: goldtracks showed [Kc Qc] and lost with High card : King
+Seat 4: Kermit21 showed [2s 2h] and won 12400 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-35-1416431072 - Holdem no limit (80/400/800) - 2014/11/19 21:04:32 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: kiki28700 (10411)
+Seat 2: GuiGui.39 (7054)
+Seat 3: sabre_laser (1110)
+Seat 4: Kermit21 (12400)
+Seat 5: Sharony55 (22474)
+Seat 6: M.Gee31 (9501)
+Seat 7: LUKEP72 (5440)
+Seat 8: eirinn33 (6745)
+Seat 9: LudoSab08 (10542)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 80
+kiki28700 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+LudoSab08 posts small blind 400
+kiki28700 posts big blind 800
+Dealt to sabre_laser [Ad 8c]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+M.Gee31 calls 800
+LUKEP72 raises 4560 to 5360 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+M.Gee31 folds
+LUKEP72 collected 8080 from pot
+*** SUMMARY ***
+Total pot 8080 | No rake
+Seat 7: LUKEP72 won 8080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-36-1416431132 - Holdem no limit (80/400/800) - 2014/11/19 21:05:32 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: kiki28700 (9531)
+Seat 2: GuiGui.39 (6974)
+Seat 3: sabre_laser (1030)
+Seat 4: Kermit21 (12320)
+Seat 5: Sharony55 (22394)
+Seat 6: M.Gee31 (8621)
+Seat 7: LUKEP72 (8080)
+Seat 8: eirinn33 (6665)
+Seat 9: LudoSab08 (10062)
+*** ANTE/BLINDS ***
+kiki28700 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+LudoSab08 posts ante 80
+kiki28700 posts small blind 400
+GuiGui.39 posts big blind 800
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 800
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 800
+kiki28700 folds
+GuiGui.39 checks
+*** FLOP *** [9d 9c 8c]
+GuiGui.39 checks
+Sharony55 bets 800
+LudoSab08 folds
+GuiGui.39 calls 800
+*** TURN *** [9d 9c 8c][As]
+GuiGui.39 checks
+Sharony55 bets 1897
+GuiGui.39 folds
+Sharony55 collected 7017 from pot
+*** SUMMARY ***
+Total pot 7017 | No rake
+Board: [9d 9c 8c As]
+Seat 5: Sharony55 won 7017
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #427038934564864214-37-1416431212 - Holdem no limit (100/500/1000) - 2014/11/19 21:06:52 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: kiki28700 (9051)
+Seat 2: GuiGui.39 (5294)
+Seat 3: sabre_laser (950)
+Seat 4: Kermit21 (12240)
+Seat 5: Sharony55 (25834)
+Seat 6: M.Gee31 (8541)
+Seat 7: LUKEP72 (8000)
+Seat 8: eirinn33 (6585)
+Seat 9: LudoSab08 (9182)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 100
+sabre_laser posts ante 100
+kiki28700 posts ante 100
+Kermit21 posts ante 100
+Sharony55 posts ante 100
+M.Gee31 posts ante 100
+LUKEP72 posts ante 100
+eirinn33 posts ante 100
+LudoSab08 posts ante 100
+GuiGui.39 posts small blind 500
+sabre_laser posts big blind 850 and is all-in
+Dealt to sabre_laser [2h 2d]
+*** PRE-FLOP *** 
+Kermit21 raises 1150 to 2000
+Sharony55 calls 2000
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+*** FLOP *** [2c 8c 9s]
+Kermit21 checks
+Sharony55 bets 1000
+Kermit21 folds
+*** TURN *** [2c 8c 9s][Ks]
+*** RIVER *** [2c 8c 9s Ks][Ad]
+*** SHOW DOWN ***
+sabre_laser shows [2h 2d] (Trips of 2)
+Sharony55 shows [8d Kd] (Two pairs : Kings and 8)
+Sharony55 collected 3300 from side pot 1
+sabre_laser collected 3950 from main pot
+*** SUMMARY ***
+Total pot 7250 | No rake
+Board: [2c 8c 9s Ks Ad]
+Seat 3: sabre_laser (big blind) showed [2h 2d] and won 3950 with Trips of 2
+Seat 5: Sharony55 showed [8d Kd] and won 3300 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #427038934564864214-38-1416431267 - Holdem no limit (100/500/1000) - 2014/11/19 21:07:47 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: kiki28700 (8951)
+Seat 2: GuiGui.39 (4694)
+Seat 3: sabre_laser (3950)
+Seat 4: Kermit21 (10140)
+Seat 5: Sharony55 (26034)
+Seat 6: M.Gee31 (8441)
+Seat 7: LUKEP72 (7900)
+Seat 8: eirinn33 (6485)
+Seat 9: LudoSab08 (9082)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Kermit21 posts ante 100
+kiki28700 posts ante 100
+GuiGui.39 posts ante 100
+Sharony55 posts ante 100
+M.Gee31 posts ante 100
+LUKEP72 posts ante 100
+eirinn33 posts ante 100
+LudoSab08 posts ante 100
+sabre_laser posts small blind 500
+Kermit21 posts big blind 1000
+Dealt to sabre_laser [Kc Kd]
+*** PRE-FLOP *** 
+Sharony55 calls 1000
+M.Gee31 folds
+LUKEP72 raises 6800 to 7800 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+LUKEP72 collected 11200 from pot
+*** SUMMARY ***
+Total pot 11200 | No rake
+Seat 7: LUKEP72 won 11200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-39-1416431321 - Holdem no limit (135/600/1200) - 2014/11/19 21:08:41 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: kiki28700 (8851)
+Seat 2: GuiGui.39 (4594)
+Seat 3: sabre_laser (3350)
+Seat 4: Kermit21 (9040)
+Seat 5: Sharony55 (24934)
+Seat 6: M.Gee31 (8341)
+Seat 7: LUKEP72 (11200)
+Seat 8: eirinn33 (6385)
+Seat 9: LudoSab08 (8982)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 135
+Sharony55 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+M.Gee31 posts ante 135
+LUKEP72 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+Kermit21 posts small blind 600
+Sharony55 posts big blind 1200
+Dealt to sabre_laser [4c 8s]
+*** PRE-FLOP *** 
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 calls 1200
+sabre_laser folds
+Kermit21 calls 600
+Sharony55 checks
+*** FLOP *** [3h 6s 2d]
+Kermit21 checks
+Sharony55 checks
+GuiGui.39 bets 3259 and is all-in
+Kermit21 folds
+Sharony55 folds
+GuiGui.39 collected 8074 from pot
+*** SUMMARY ***
+Total pot 8074 | No rake
+Board: [3h 6s 2d]
+Seat 2: GuiGui.39 won 8074
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-40-1416431382 - Holdem no limit (135/600/1200) - 2014/11/19 21:09:42 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: kiki28700 (8716)
+Seat 2: GuiGui.39 (8074)
+Seat 3: sabre_laser (3215)
+Seat 4: Kermit21 (7705)
+Seat 5: Sharony55 (23599)
+Seat 6: M.Gee31 (8206)
+Seat 7: LUKEP72 (11065)
+Seat 8: eirinn33 (6250)
+Seat 9: LudoSab08 (8847)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 135
+M.Gee31 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+Kermit21 posts ante 135
+LUKEP72 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+Sharony55 posts small blind 600
+M.Gee31 posts big blind 1200
+Dealt to sabre_laser [9c Tc]
+*** PRE-FLOP *** 
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 raises 1200 to 2400
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1800
+M.Gee31 folds
+*** FLOP *** [7h 3h Kh]
+Sharony55 bets 1200
+LudoSab08 calls 1200
+*** TURN *** [7h 3h Kh][As]
+Sharony55 bets 1200
+LudoSab08 calls 1200
+*** RIVER *** [7h 3h Kh As][8h]
+Sharony55 bets 4366
+LudoSab08 folds
+Sharony55 collected 16381 from pot
+*** SUMMARY ***
+Total pot 16381 | No rake
+Board: [7h 3h Kh As 8h]
+Seat 5: Sharony55 (small blind) won 16381
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-41-1416431448 - Holdem no limit (135/600/1200) - 2014/11/19 21:10:48 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: kiki28700 (8581)
+Seat 2: GuiGui.39 (7939)
+Seat 3: sabre_laser (3080)
+Seat 4: Kermit21 (7570)
+Seat 5: Sharony55 (30679)
+Seat 6: M.Gee31 (6871)
+Seat 7: LUKEP72 (10930)
+Seat 8: eirinn33 (6115)
+Seat 9: LudoSab08 (3912)
+*** ANTE/BLINDS ***
+M.Gee31 posts ante 135
+LUKEP72 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+Kermit21 posts ante 135
+Sharony55 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+M.Gee31 posts small blind 600
+LUKEP72 posts big blind 1200
+Dealt to sabre_laser [7s Qs]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 raises 1200 to 2400
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 raises 8395 to 10795 and is all-in
+GuiGui.39 calls 5404 and is all-in
+*** FLOP *** [9c Qh Qd]
+*** TURN *** [9c Qh Qd][6s]
+*** RIVER *** [9c Qh Qd 6s][9d]
+*** SHOW DOWN ***
+GuiGui.39 shows [Ah Kd] (Two pairs : Queens and 9)
+LUKEP72 shows [Kc Ad] (Two pairs : Queens and 9)
+LUKEP72 collected 11703 from side pot 1
+GuiGui.39 collected 8711 from main pot
+*** SUMMARY ***
+Total pot 20414 | No rake
+Board: [9c Qh Qd 6s 9d]
+Seat 2: GuiGui.39 showed [Ah Kd] and won 8711 with Two pairs : Queens and 9
+Seat 7: LUKEP72 (big blind) showed [Kc Ad] and won 11703 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-42-1416431495 - Holdem no limit (160/800/1600) - 2014/11/19 21:11:35 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: kiki28700 (8446)
+Seat 2: GuiGui.39 (8711)
+Seat 3: sabre_laser (2945)
+Seat 4: Kermit21 (7435)
+Seat 5: Sharony55 (30544)
+Seat 6: M.Gee31 (6136)
+Seat 7: LUKEP72 (11703)
+Seat 8: eirinn33 (5980)
+Seat 9: LudoSab08 (3777)
+*** ANTE/BLINDS ***
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Kermit21 posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LudoSab08 posts ante 160
+LUKEP72 posts small blind 800
+eirinn33 posts big blind 1600
+Dealt to sabre_laser [Jd 7c]
+*** PRE-FLOP *** 
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1600
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 checks
+*** FLOP *** [Ks Kd Qd]
+eirinn33 bets 4220 and is all-in
+Sharony55 folds
+eirinn33 collected 9660 from pot
+*** SUMMARY ***
+Total pot 9660 | No rake
+Board: [Ks Kd Qd]
+Seat 8: eirinn33 (big blind) won 9660
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-43-1416431537 - Holdem no limit (160/800/1600) - 2014/11/19 21:12:17 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: kiki28700 (8286)
+Seat 2: GuiGui.39 (8551)
+Seat 3: sabre_laser (2785)
+Seat 4: Kermit21 (7275)
+Seat 5: Sharony55 (28784)
+Seat 6: M.Gee31 (5976)
+Seat 7: LUKEP72 (10743)
+Seat 8: eirinn33 (9660)
+Seat 9: LudoSab08 (3617)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 160
+LudoSab08 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Kermit21 posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts small blind 800
+LudoSab08 posts big blind 1600
+Dealt to sabre_laser [6c 9d]
+*** PRE-FLOP *** 
+kiki28700 calls 1600
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 5515 to 7115 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1857 and is all-in
+kiki28700 calls 5515
+*** FLOP *** [Th 2c 4h]
+*** TURN *** [Th 2c 4h][Td]
+*** RIVER *** [Th 2c 4h Td][Ac]
+*** SHOW DOWN ***
+Kermit21 shows [Js Ks] (One pair : Tens)
+LudoSab08 shows [Ah 5d] (Two pairs : Aces and Tens)
+kiki28700 shows [Kd Qh] (One pair : Tens)
+kiki28700 collected 7316 from side pot 1
+LudoSab08 collected 12611 from main pot
+*** SUMMARY ***
+Total pot 19927 | No rake
+Board: [Th 2c 4h Td Ac]
+Seat 1: kiki28700 showed [Kd Qh] and won 7316 with One pair : Tens
+Seat 4: Kermit21 showed [Js Ks] and lost with One pair : Tens
+Seat 9: LudoSab08 (big blind) showed [Ah 5d] and won 12611 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-44-1416431577 - Holdem no limit (160/800/1600) - 2014/11/19 21:12:57 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: kiki28700 (8327)
+Seat 2: GuiGui.39 (8391)
+Seat 3: sabre_laser (2625)
+Seat 5: Sharony55 (28624)
+Seat 6: M.Gee31 (5816)
+Seat 7: LUKEP72 (10583)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (12611)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+LudoSab08 posts small blind 800
+kiki28700 posts big blind 1600
+Dealt to sabre_laser [6h As]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 raises 8823 to 10423 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+LUKEP72 collected 14103 from pot
+*** SUMMARY ***
+Total pot 14103 | No rake
+Seat 7: LUKEP72 won 14103
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-45-1416431620 - Holdem no limit (160/800/1600) - 2014/11/19 21:13:40 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: kiki28700 (6567)
+Seat 2: GuiGui.39 (8231)
+Seat 3: sabre_laser (2465)
+Seat 4: 2jmd (2445)
+Seat 5: Sharony55 (28464)
+Seat 6: M.Gee31 (5656)
+Seat 7: LUKEP72 (14103)
+Seat 8: eirinn33 (8540)
+Seat 9: LudoSab08 (11651)
+*** ANTE/BLINDS ***
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+2jmd posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+LudoSab08 posts ante 160
+kiki28700 posts small blind 800
+GuiGui.39 posts big blind 1600
+Dealt to sabre_laser [Jd Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+2jmd folds
+Sharony55 calls 1600
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1600
+kiki28700 folds
+GuiGui.39 checks
+*** FLOP *** [Qc 4d Js]
+GuiGui.39 checks
+Sharony55 checks
+LudoSab08 checks
+*** TURN *** [Qc 4d Js][Td]
+GuiGui.39 checks
+Sharony55 bets 1600
+LudoSab08 folds
+GuiGui.39 raises 4871 to 6471 and is all-in
+Sharony55 calls 4871
+*** RIVER *** [Qc 4d Js Td][4h]
+*** SHOW DOWN ***
+GuiGui.39 shows [Ts Ac] (Two pairs : Tens and 4)
+Sharony55 shows [Kh 9d] (Straight King high)
+Sharony55 collected 19982 from pot
+*** SUMMARY ***
+Total pot 19982 | No rake
+Board: [Qc 4d Js Td 4h]
+Seat 2: GuiGui.39 (big blind) showed [Ts Ac] and lost with Two pairs : Tens and 4
+Seat 5: Sharony55 showed [Kh 9d] and won 19982 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #427038934564864214-46-1416431702 - Holdem no limit (200/1000/2000) - 2014/11/19 21:15:02 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: kiki28700 (5607)
+Seat 3: sabre_laser (2305)
+Seat 4: 2jmd (2285)
+Seat 5: Sharony55 (40215)
+Seat 6: M.Gee31 (5496)
+Seat 7: LUKEP72 (13943)
+Seat 8: eirinn33 (8380)
+Seat 9: LudoSab08 (9891)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 200
+kiki28700 posts ante 200
+2jmd posts ante 200
+Sharony55 posts ante 200
+M.Gee31 posts ante 200
+LUKEP72 posts ante 200
+eirinn33 posts ante 200
+LudoSab08 posts ante 200
+sabre_laser posts big blind 2000
+Dealt to sabre_laser [Jc 6h]
+*** PRE-FLOP *** 
+2jmd folds
+Sharony55 calls 2000
+M.Gee31 raises 3296 to 5296 and is all-in
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 raises 3296 to 8592
+kiki28700 folds
+sabre_laser folds
+Sharony55 raises 14557 to 23149
+LudoSab08 calls 1099 and is all-in
+*** FLOP *** [Jh Kd 6d]
+*** TURN *** [Jh Kd 6d][4h]
+*** RIVER *** [Jh Kd 6d 4h][4s]
+*** SHOW DOWN ***
+M.Gee31 shows [Ah Qc] (One pair : 4)
+LudoSab08 shows [3d Td] (One pair : 4)
+Sharony55 shows [Kh Th] (Two pairs : Kings and 4)
+Sharony55 collected 41736 from pot
+*** SUMMARY ***
+Total pot 41736 | No rake
+Board: [Jh Kd 6d 4h 4s]
+Seat 5: Sharony55 showed [Kh Th] and won 41736 with Two pairs : Kings and 4
+Seat 6: M.Gee31 showed [Ah Qc] and lost with One pair : 4
+Seat 9: LudoSab08 showed [3d Td] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #427038934564864214-47-1416431744 - Holdem no limit (200/1000/2000) - 2014/11/19 21:15:44 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: kiki28700 (5407)
+Seat 2: menta (5735)
+Seat 3: sabre_laser (105)
+Seat 4: 2jmd (2085)
+Seat 5: Sharony55 (58602)
+Seat 7: LUKEP72 (13743)
+Seat 8: eirinn33 (8180)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 105 and is all-in
+2jmd posts ante 200
+kiki28700 posts ante 200
+Sharony55 posts ante 200
+LUKEP72 posts ante 200
+eirinn33 posts ante 200
+sabre_laser posts small blind 0 and is all-in
+2jmd posts big blind 1885 and is all-in
+Dealt to sabre_laser [6c 2s]
+*** PRE-FLOP *** 
+Sharony55 calls 2000
+LUKEP72 folds
+eirinn33 folds
+kiki28700 folds
+*** FLOP *** [8h 2d Kd]
+*** TURN *** [8h 2d Kd][3s]
+*** RIVER *** [8h 2d Kd 3s][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [6c 2s] (Two pairs : Kings and 2)
+2jmd shows [4s 4c] (Two pairs : Kings and 4)
+Sharony55 shows [7c Kc] (Trips of Kings)
+Sharony55 collected 4990 from pot
+*** SUMMARY ***
+Total pot 4990 | No rake
+Board: [8h 2d Kd 3s Kh]
+Seat 3: sabre_laser (small blind) showed [6c 2s] and lost with Two pairs : Kings and 2
+Seat 4: 2jmd (big blind) showed [4s 4c] and lost with Two pairs : Kings and 4
+Seat 5: Sharony55 showed [7c Kc] and won 4990 with Trips of Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #427038934564864207-1-1416428139 - Holdem no limit (10/20) - 2014/11/19 20:15:39 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #2 is the button
+Seat 1: Asjok84 (3000)
+Seat 2: underpaul (3000)
+Seat 3: bibieboub (3000)
+Seat 4: Draculae (3000)
+Seat 5: clara307 (3000)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (3000)
+Seat 9: blondain1313 (3000)
+*** ANTE/BLINDS ***
+bibieboub posts small blind 10
+Draculae posts big blind 20
+Dealt to sabre_laser [4h 6d]
+*** PRE-FLOP *** 
+clara307 calls 20
+El maestro73 folds
+sabre_laser folds
+LoO_OoL folds
+blondain1313 raises 20 to 40
+Asjok84 folds
+underpaul folds
+bibieboub folds
+Draculae calls 20
+clara307 calls 20
+*** FLOP *** [5s Ts 5h]
+Draculae checks
+clara307 bets 710
+blondain1313 folds
+Draculae folds
+clara307 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [5s Ts 5h]
+Seat 5: clara307 won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #427038934564864207-2-1416428365 - Holdem no limit (15/30) - 2014/11/19 20:19:25 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #3 is the button
+Seat 1: Asjok84 (3000)
+Seat 2: underpaul (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2960)
+Seat 5: clara307 (3090)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (3000)
+Seat 9: blondain1313 (2960)
+*** ANTE/BLINDS ***
+Draculae posts small blind 15
+clara307 posts big blind 30
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+El maestro73 folds
+sabre_laser folds
+LoO_OoL calls 30
+blondain1313 calls 30
+Asjok84 raises 135 to 165
+underpaul calls 165
+bibieboub folds
+Draculae folds
+clara307 folds
+LoO_OoL folds
+blondain1313 calls 135
+*** FLOP *** [Jd 2h 9s]
+blondain1313 checks
+Asjok84 bets 380
+underpaul calls 380
+blondain1313 folds
+*** TURN *** [Jd 2h 9s][7d]
+Asjok84 bets 665
+underpaul calls 665
+*** RIVER *** [Jd 2h 9s 7d][4c]
+Asjok84 checks
+underpaul bets 1790 and is all-in
+Asjok84 calls 1790 and is all-in
+*** SHOW DOWN ***
+underpaul shows [Qs Kd] (High card : King)
+Asjok84 shows [Kc Kh] (One pair : Kings)
+Asjok84 collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Board: [Jd 2h 9s 7d 4c]
+Seat 1: Asjok84 showed [Kc Kh] and won 6240 with One pair : Kings
+Seat 2: underpaul showed [Qs Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #427038934564864207-3-1416428475 - Holdem no limit (15/30) - 2014/11/19 20:21:15 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #4 is the button
+Seat 1: Asjok84 (6240)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2945)
+Seat 5: clara307 (3060)
+Seat 6: El maestro73 (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (2970)
+Seat 9: blondain1313 (2795)
+*** ANTE/BLINDS ***
+clara307 posts small blind 15
+El maestro73 posts big blind 30
+Dealt to sabre_laser [2d 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+LoO_OoL calls 30
+blondain1313 calls 30
+Asjok84 calls 30
+bibieboub folds
+Draculae calls 30
+clara307 raises 3030 to 3060 and is all-in
+El maestro73 folds
+LoO_OoL folds
+blondain1313 folds
+Asjok84 folds
+Draculae folds
+clara307 collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Seat 5: clara307 (small blind) won 3210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #427038934564864207-4-1416428541 - Holdem no limit (20/40) - 2014/11/19 20:22:21 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #5 is the button
+Seat 1: Asjok84 (6210)
+Seat 2: Louca61 (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2915)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2970)
+Seat 7: sabre_laser (3000)
+Seat 8: LoO_OoL (2940)
+Seat 9: blondain1313 (2765)
+*** ANTE/BLINDS ***
+El maestro73 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Jd 6d]
+*** PRE-FLOP *** 
+LoO_OoL folds
+blondain1313 calls 40
+Asjok84 folds
+Louca61 folds
+bibieboub folds
+Draculae calls 40
+clara307 folds
+El maestro73 calls 20
+sabre_laser folds
+*** FLOP *** [Qh 8c 8s]
+El maestro73 checks
+blondain1313 bets 40
+Draculae calls 40
+El maestro73 folds
+*** TURN *** [Qh 8c 8s][9h]
+blondain1313 bets 40
+Draculae calls 40
+*** RIVER *** [Qh 8c 8s 9h][Th]
+blondain1313 bets 80
+Draculae calls 80
+*** SHOW DOWN ***
+Draculae shows [2d Kd] (One pair : 8)
+blondain1313 shows [9s Ks] (Two pairs : 9 and 8)
+blondain1313 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh 8c 8s 9h Th]
+Seat 4: Draculae showed [2d Kd] and lost with One pair : 8
+Seat 9: blondain1313 showed [9s Ks] and won 480 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-5-1416428694 - Holdem no limit (30/60) - 2014/11/19 20:24:54 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #6 is the button
+Seat 1: Asjok84 (6210)
+Seat 2: Louca61 (3000)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2930)
+Seat 7: sabre_laser (2960)
+Seat 8: LoO_OoL (2940)
+Seat 9: blondain1313 (3045)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+LoO_OoL posts big blind 60
+Dealt to sabre_laser [Qh 7d]
+*** PRE-FLOP *** 
+blondain1313 folds
+Asjok84 raises 90 to 150
+Louca61 calls 150
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 folds
+sabre_laser folds
+LoO_OoL calls 90
+*** FLOP *** [Jd Qs 7c]
+LoO_OoL checks
+Asjok84 checks
+Louca61 checks
+*** TURN *** [Jd Qs 7c][Ah]
+LoO_OoL checks
+Asjok84 bets 300
+Louca61 raises 300 to 600
+LoO_OoL folds
+Asjok84 calls 300
+*** RIVER *** [Jd Qs 7c Ah][Ks]
+Asjok84 bets 1120
+Louca61 calls 1120
+*** SHOW DOWN ***
+Louca61 shows [Ac 5s] (One pair : Aces)
+Asjok84 shows [As Th] (Straight Ace high)
+Asjok84 collected 3920 from pot
+*** SUMMARY ***
+Total pot 3920 | No rake
+Board: [Jd Qs 7c Ah Ks]
+Seat 1: Asjok84 showed [As Th] and won 3920 with Straight Ace high
+Seat 2: Louca61 showed [Ac 5s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-6-1416428787 - Holdem no limit (30/60) - 2014/11/19 20:26:27 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #7 is the button
+Seat 1: Asjok84 (8260)
+Seat 2: Louca61 (1130)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (2930)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (2790)
+Seat 9: blondain1313 (3045)
+*** ANTE/BLINDS ***
+LoO_OoL posts small blind 30
+blondain1313 posts big blind 60
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+Asjok84 calls 60
+Louca61 raises 1070 to 1130 and is all-in
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 raises 1800 to 2930 and is all-in
+sabre_laser folds
+LoO_OoL folds
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [6c Qs 9c]
+*** TURN *** [6c Qs 9c][Ad]
+*** RIVER *** [6c Qs 9c Ad][5s]
+*** SHOW DOWN ***
+Louca61 shows [6s Ac] (Two pairs : Aces and 6)
+El maestro73 shows [Tc Th] (One pair : Tens)
+El maestro73 collected 1800 from side pot 1
+Louca61 collected 2410 from main pot
+*** SUMMARY ***
+Total pot 4210 | No rake
+Board: [6c Qs 9c Ad 5s]
+Seat 2: Louca61 showed [6s Ac] and won 2410 with Two pairs : Aces and 6
+Seat 6: El maestro73 showed [Tc Th] and won 1800 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #427038934564864207-7-1416428831 - Holdem no limit (30/60) - 2014/11/19 20:27:11 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #8 is the button
+Seat 1: Asjok84 (8200)
+Seat 2: Louca61 (2410)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (1800)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (2760)
+Seat 9: blondain1313 (2985)
+*** ANTE/BLINDS ***
+blondain1313 posts small blind 30
+Asjok84 posts big blind 60
+Dealt to sabre_laser [Jd Qh]
+*** PRE-FLOP *** 
+Louca61 raises 2350 to 2410 and is all-in
+bibieboub folds
+Draculae folds
+clara307 folds
+El maestro73 calls 1800 and is all-in
+sabre_laser folds
+LoO_OoL raises 350 to 2760 and is all-in
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [6s Tc 4s]
+*** TURN *** [6s Tc 4s][8s]
+*** RIVER *** [6s Tc 4s 8s][Ts]
+*** SHOW DOWN ***
+El maestro73 shows [As 7s] (Flush Ace high)
+Louca61 shows [Js 9d] (Flush Jack high)
+LoO_OoL shows [2s 2h] (Flush Ten high)
+LoO_OoL collected 350 from side pot 2
+Louca61 collected 1220 from side pot 1
+El maestro73 collected 5490 from main pot
+*** SUMMARY ***
+Total pot 7060 | No rake
+Board: [6s Tc 4s 8s Ts]
+Seat 2: Louca61 showed [Js 9d] and won 1220 with Flush Jack high
+Seat 6: El maestro73 showed [As 7s] and won 5490 with Flush Ace high
+Seat 8: LoO_OoL (button) showed [2s 2h] and won 350 with Flush Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #427038934564864207-8-1416428891 - Holdem no limit (40/80) - 2014/11/19 20:28:11 UTC
+Table: 'Freeroll(99427750)#206' 9-max (real money) Seat #9 is the button
+Seat 1: Asjok84 (8140)
+Seat 2: Louca61 (1220)
+Seat 3: bibieboub (2990)
+Seat 4: Draculae (2715)
+Seat 5: clara307 (3210)
+Seat 6: El maestro73 (5490)
+Seat 7: sabre_laser (2930)
+Seat 8: LoO_OoL (350)
+Seat 9: blondain1313 (2955)
+*** ANTE/BLINDS ***
+Asjok84 posts small blind 40
+Louca61 posts big blind 80
+Dealt to sabre_laser [6s Qc]
+*** PRE-FLOP *** 
+bibieboub folds
+Draculae calls 80
+clara307 folds
+El maestro73 folds
+sabre_laser folds
+LoO_OoL folds
+blondain1313 calls 80
+Asjok84 calls 40
+Louca61 raises 1140 to 1220 and is all-in
+Draculae calls 1140
+blondain1313 folds
+Asjok84 folds
+*** FLOP *** [9c 7d 8d]
+*** TURN *** [9c 7d 8d][9d]
+*** RIVER *** [9c 7d 8d 9d][Jh]
+*** SHOW DOWN ***
+Louca61 shows [Ad Kc] (One pair : 9)
+Draculae shows [Qs Jd] (Two pairs : Jacks and 9)
+Draculae collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [9c 7d 8d 9d Jh]
+Seat 2: Louca61 (big blind) showed [Ad Kc] and lost with One pair : 9
+Seat 4: Draculae showed [Qs Jd] and won 2600 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #427038934564864214-12-1416429090 - Holdem no limit (60/120) - 2014/11/19 20:31:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: soso33000 (2495)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (13110)
+Seat 6: Bruno08300 (5520)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8470)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+Sharony55 posts big blind 120
+*** PRE-FLOP *** 
+Bruno08300 folds
+moukki13 folds
+eirinn33 calls 120
+LudoSab08 folds
+soso33000 calls 120
+GuiGui.39 folds
+Sharony55 checks
+*** FLOP *** [8d Ah Js]
+Sharony55 checks
+eirinn33 checks
+soso33000 checks
+*** TURN *** [8d Ah Js][3s]
+Sharony55 folds
+eirinn33 checks
+soso33000 checks
+*** RIVER *** [8d Ah Js 3s][Td]
+eirinn33 checks
+soso33000 checks
+*** SHOW DOWN ***
+soso33000 shows [Qd 3d] (One pair : 3)
+eirinn33 shows [7d 7h] (One pair : 7)
+eirinn33 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8d Ah Js 3s Td]
+Seat 1: soso33000 showed [Qd 3d] and lost with One pair : 3
+Seat 8: eirinn33 showed [7d 7h] and won 360 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #427038934564864214-13-1416429168 - Holdem no limit (60/120) - 2014/11/19 20:32:48 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: soso33000 (2375)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (12990)
+Seat 6: Bruno08300 (5520)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8710)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+Sharony55 posts small blind 60
+Bruno08300 posts big blind 120
+*** PRE-FLOP *** 
+moukki13 folds
+eirinn33 folds
+LudoSab08 folds
+soso33000 folds
+GuiGui.39 folds
+Sharony55 calls 60
+Bruno08300 checks
+*** FLOP *** [8h 2s 2c]
+Sharony55 checks
+Bruno08300 bets 240
+Sharony55 calls 240
+*** TURN *** [8h 2s 2c][9h]
+Sharony55 checks
+Bruno08300 bets 720
+Sharony55 calls 720
+*** RIVER *** [8h 2s 2c 9h][Js]
+Sharony55 checks
+Bruno08300 bets 2160
+Sharony55 raises 5636 to 7796
+Bruno08300 calls 2280 and is all-in
+*** SHOW DOWN ***
+Bruno08300 shows [9c 8c] (Two pairs : 9 and 8)
+Sharony55 shows [5c 2h] (Trips of 2)
+Sharony55 collected 14396 from pot
+*** SUMMARY ***
+Total pot 14396 | No rake
+Board: [8h 2s 2c 9h Js]
+Seat 5: Sharony55 (small blind) showed [5c 2h] and won 14396 with Trips of 2
+Seat 6: Bruno08300 (big blind) showed [9c 8c] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-14-1416429232 - Holdem no limit (10/60/120) - 2014/11/19 20:33:52 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: soso33000 (2375)
+Seat 2: GuiGui.39 (2840)
+Seat 3: sabre_laser (2930)
+Seat 4: Kermit21 (2890)
+Seat 5: Sharony55 (18510)
+Seat 7: moukki13 (2940)
+Seat 8: eirinn33 (8710)
+Seat 9: LudoSab08 (5820)
+*** ANTE/BLINDS ***
+moukki13 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+eirinn33 posts ante 10
+LudoSab08 posts ante 10
+moukki13 posts big blind 120
+Dealt to sabre_laser [3s 5d]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 calls 120
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 120
+moukki13 folds
+*** FLOP *** [Ah 4h 9s]
+LudoSab08 checks
+Sharony55 checks
+*** TURN *** [Ah 4h 9s][5h]
+LudoSab08 bets 180
+Sharony55 calls 180
+*** RIVER *** [Ah 4h 9s 5h][4s]
+LudoSab08 bets 120
+Sharony55 folds
+LudoSab08 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [Ah 4h 9s 5h 4s]
+Seat 9: LudoSab08 won 920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-15-1416429319 - Holdem no limit (10/60/120) - 2014/11/19 20:35:19 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: soso33000 (2365)
+Seat 2: GuiGui.39 (2830)
+Seat 3: sabre_laser (2920)
+Seat 4: Kermit21 (2880)
+Seat 5: Sharony55 (18200)
+Seat 6: Jimou (3110)
+Seat 7: moukki13 (2810)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (6310)
+*** ANTE/BLINDS ***
+moukki13 posts ante 10
+eirinn33 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+LudoSab08 posts ante 10
+moukki13 posts small blind 60
+eirinn33 posts big blind 120
+Dealt to sabre_laser [7s 2h]
+*** PRE-FLOP *** 
+LudoSab08 calls 120
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 calls 120
+Sharony55 calls 120
+moukki13 folds
+eirinn33 checks
+*** FLOP *** [Tc Ac 4c]
+eirinn33 bets 120
+LudoSab08 folds
+Kermit21 folds
+Sharony55 folds
+eirinn33 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Tc Ac 4c]
+Seat 8: eirinn33 (big blind) won 740
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #427038934564864214-16-1416429377 - Holdem no limit (10/60/120) - 2014/11/19 20:36:17 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: soso33000 (2355)
+Seat 2: GuiGui.39 (2820)
+Seat 3: sabre_laser (2910)
+Seat 4: Kermit21 (2750)
+Seat 5: Sharony55 (18070)
+Seat 6: Jimou (3110)
+Seat 7: moukki13 (2740)
+Seat 8: eirinn33 (9190)
+Seat 9: LudoSab08 (6180)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 10
+LudoSab08 posts ante 10
+soso33000 posts ante 10
+GuiGui.39 posts ante 10
+sabre_laser posts ante 10
+Kermit21 posts ante 10
+Sharony55 posts ante 10
+Jimou posts ante 10
+moukki13 posts ante 10
+eirinn33 posts small blind 60
+LudoSab08 posts big blind 120
+Dealt to sabre_laser [4c As]
+*** PRE-FLOP *** 
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 120 to 240
+Sharony55 calls 240
+Jimou folds
+moukki13 folds
+eirinn33 folds
+LudoSab08 calls 120
+*** FLOP *** [9c Qc 5c]
+LudoSab08 bets 240
+Kermit21 calls 240
+Sharony55 folds
+*** TURN *** [9c Qc 5c][8s]
+LudoSab08 bets 240
+Kermit21 calls 240
+*** RIVER *** [9c Qc 5c 8s][3s]
+LudoSab08 bets 540
+Kermit21 raises 660 to 1200
+LudoSab08 calls 660
+*** SHOW DOWN ***
+LudoSab08 shows [Qs 7s] (One pair : Queens)
+Kermit21 shows [Kc Qd] (One pair : Queens)
+Kermit21 collected 4230 from pot
+*** SUMMARY ***
+Total pot 4230 | No rake
+Board: [9c Qc 5c 8s 3s]
+Seat 4: Kermit21 showed [Kc Qd] and won 4230 with One pair : Queens
+Seat 9: LudoSab08 (big blind) showed [Qs 7s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #427038934564864214-17-1416429435 - Holdem no limit (15/75/150) - 2014/11/19 20:37:15 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: soso33000 (2345)
+Seat 2: GuiGui.39 (2810)
+Seat 3: sabre_laser (2900)
+Seat 4: Kermit21 (5050)
+Seat 5: Sharony55 (17820)
+Seat 6: Jimou (3100)
+Seat 7: moukki13 (2730)
+Seat 8: eirinn33 (9120)
+Seat 9: LudoSab08 (4250)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 15
+soso33000 posts ante 15
+GuiGui.39 posts ante 15
+sabre_laser posts ante 15
+Kermit21 posts ante 15
+Sharony55 posts ante 15
+Jimou posts ante 15
+moukki13 posts ante 15
+eirinn33 posts ante 15
+LudoSab08 posts small blind 75
+soso33000 posts big blind 150
+Dealt to sabre_laser [5h Jd]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 150
+Jimou folds
+moukki13 folds
+eirinn33 calls 150
+LudoSab08 calls 75
+soso33000 checks
+*** FLOP *** [6c 5d 2c]
+LudoSab08 checks
+soso33000 bets 735
+Sharony55 calls 735
+eirinn33 folds
+LudoSab08 folds
+*** TURN *** [6c 5d 2c][3h]
+soso33000 bets 1445 and is all-in
+Sharony55 calls 1445
+*** RIVER *** [6c 5d 2c 3h][Ad]
+*** SHOW DOWN ***
+Sharony55 shows [3c 5c] (Two pairs : 5 and 3)
+soso33000 shows [8c 4d] (Straight 6 high)
+soso33000 collected 5095 from pot
+*** SUMMARY ***
+Total pot 5095 | No rake
+Board: [6c 5d 2c 3h Ad]
+Seat 1: soso33000 (big blind) showed [8c 4d] and won 5095 with Straight 6 high
+Seat 5: Sharony55 showed [3c 5c] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #427038934564864214-18-1416429506 - Holdem no limit (15/75/150) - 2014/11/19 20:38:26 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: soso33000 (5095)
+Seat 2: GuiGui.39 (2795)
+Seat 3: sabre_laser (2885)
+Seat 4: Kermit21 (5035)
+Seat 5: Sharony55 (15475)
+Seat 6: Jimou (3085)
+Seat 7: moukki13 (2715)
+Seat 8: eirinn33 (8955)
+Seat 9: LudoSab08 (4085)
+*** ANTE/BLINDS ***
+soso33000 posts ante 15
+GuiGui.39 posts ante 15
+sabre_laser posts ante 15
+Kermit21 posts ante 15
+Sharony55 posts ante 15
+Jimou posts ante 15
+moukki13 posts ante 15
+eirinn33 posts ante 15
+LudoSab08 posts ante 15
+soso33000 posts small blind 75
+GuiGui.39 posts big blind 150
+Dealt to sabre_laser [9h 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 150
+Jimou folds
+moukki13 folds
+eirinn33 calls 150
+LudoSab08 folds
+soso33000 calls 75
+GuiGui.39 checks
+*** FLOP *** [6d 9d 2s]
+soso33000 checks
+GuiGui.39 bets 368
+Sharony55 calls 368
+eirinn33 folds
+soso33000 folds
+*** TURN *** [6d 9d 2s][Qs]
+GuiGui.39 checks
+Sharony55 checks
+*** RIVER *** [6d 9d 2s Qs][Th]
+GuiGui.39 bets 1471
+Sharony55 calls 1471
+*** SHOW DOWN ***
+Sharony55 shows [As Jd] (High card : Ace)
+GuiGui.39 shows [Td Qd] (Two pairs : Queens and Tens)
+GuiGui.39 collected 4413 from pot
+*** SUMMARY ***
+Total pot 4413 | No rake
+Board: [6d 9d 2s Qs Th]
+Seat 2: GuiGui.39 (big blind) showed [Td Qd] and won 4413 with Two pairs : Queens and Tens
+Seat 5: Sharony55 showed [As Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #427038934564864214-19-1416429590 - Holdem no limit (20/100/200) - 2014/11/19 20:39:50 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: soso33000 (4930)
+Seat 2: GuiGui.39 (5204)
+Seat 3: sabre_laser (2870)
+Seat 4: Kermit21 (5020)
+Seat 5: Sharony55 (13471)
+Seat 6: Jimou (3070)
+Seat 7: moukki13 (2700)
+Seat 8: eirinn33 (8790)
+Seat 9: LudoSab08 (4070)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 20
+sabre_laser posts ante 20
+soso33000 posts ante 20
+Kermit21 posts ante 20
+Sharony55 posts ante 20
+Jimou posts ante 20
+moukki13 posts ante 20
+eirinn33 posts ante 20
+LudoSab08 posts ante 20
+GuiGui.39 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9d Th]
+*** PRE-FLOP *** 
+Kermit21 calls 200
+Sharony55 calls 200
+Jimou folds
+moukki13 calls 200
+eirinn33 folds
+LudoSab08 folds
+soso33000 folds
+GuiGui.39 calls 100
+sabre_laser folds
+*** FLOP *** [8c 7h 2s]
+GuiGui.39 bets 590
+Kermit21 folds
+Sharony55 folds
+moukki13 calls 590
+*** TURN *** [8c 7h 2s][Jh]
+GuiGui.39 checks
+moukki13 bets 300
+GuiGui.39 calls 300
+*** RIVER *** [8c 7h 2s Jh][Ts]
+GuiGui.39 bets 1978
+moukki13 calls 1590 and is all-in
+*** SHOW DOWN ***
+moukki13 shows [2d 2h] (Trips of 2)
+GuiGui.39 shows [8d 9c] (Straight Jack high)
+GuiGui.39 collected 6528 from pot
+*** SUMMARY ***
+Total pot 6528 | No rake
+Board: [8c 7h 2s Jh Ts]
+Seat 2: GuiGui.39 (small blind) showed [8d 9c] and won 6528 with Straight Jack high
+Seat 7: moukki13 showed [2d 2h] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #427038934564864214-20-1416429690 - Holdem no limit (20/100/200) - 2014/11/19 20:41:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: soso33000 (4910)
+Seat 2: GuiGui.39 (8644)
+Seat 3: sabre_laser (2650)
+Seat 4: Kermit21 (4800)
+Seat 5: Sharony55 (13251)
+Seat 6: Jimou (3050)
+Seat 7: jey14 (806)
+Seat 8: eirinn33 (8770)
+Seat 9: LudoSab08 (4050)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Kermit21 posts ante 20
+soso33000 posts ante 20
+GuiGui.39 posts ante 20
+Sharony55 posts ante 20
+Jimou posts ante 20
+jey14 posts ante 20
+eirinn33 posts ante 20
+LudoSab08 posts ante 20
+sabre_laser posts small blind 100
+Kermit21 posts big blind 200
+Dealt to sabre_laser [Kc Qs]
+*** PRE-FLOP *** 
+Sharony55 folds
+Jimou calls 200
+jey14 raises 586 to 786 and is all-in
+eirinn33 folds
+LudoSab08 calls 786
+soso33000 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Jimou calls 586
+*** FLOP *** [2c 9s 2s]
+Jimou checks
+LudoSab08 checks
+*** TURN *** [2c 9s 2s][3c]
+Jimou checks
+LudoSab08 checks
+*** RIVER *** [2c 9s 2s 3c][Ts]
+Jimou checks
+LudoSab08 bets 3244 and is all-in
+Jimou folds
+*** SHOW DOWN ***
+jey14 shows [4h 4c] (Two pairs : 4 and 2)
+LudoSab08 shows [Th Jh] (Two pairs : Tens and 2)
+LudoSab08 collected 6082 from pot
+*** SUMMARY ***
+Total pot 6082 | No rake
+Board: [2c 9s 2s 3c Ts]
+Seat 7: jey14 showed [4h 4c] and lost with Two pairs : 4 and 2
+Seat 9: LudoSab08 showed [Th Jh] and won 6082 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-21-1416429766 - Holdem no limit (25/125/250) - 2014/11/19 20:42:46 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: soso33000 (4890)
+Seat 2: GuiGui.39 (8624)
+Seat 3: sabre_laser (2530)
+Seat 4: Kermit21 (4580)
+Seat 5: Sharony55 (13231)
+Seat 6: Jimou (2244)
+Seat 8: eirinn33 (8750)
+Seat 9: LudoSab08 (6082)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 25
+Sharony55 posts ante 25
+soso33000 posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Jimou posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Kermit21 posts small blind 125
+Sharony55 posts big blind 250
+Dealt to sabre_laser [Ks Qd]
+*** PRE-FLOP *** 
+Jimou folds
+eirinn33 folds
+LudoSab08 calls 250
+soso33000 raises 250 to 500
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 250
+LudoSab08 calls 250
+*** FLOP *** [7d 4c Jh]
+Sharony55 bets 250
+LudoSab08 raises 250 to 500
+soso33000 calls 500
+Sharony55 raises 250 to 750
+LudoSab08 raises 250 to 1000
+soso33000 folds
+Sharony55 calls 250
+*** TURN *** [7d 4c Jh][Ah]
+Sharony55 bets 2894
+LudoSab08 raises 1663 to 4557 and is all-in
+Sharony55 calls 1663
+*** RIVER *** [7d 4c Jh Ah][4s]
+*** SHOW DOWN ***
+Sharony55 shows [Ts Jc] (Two pairs : Jacks and 4)
+LudoSab08 shows [2s Jd] (Two pairs : Jacks and 4)
+LudoSab08 collected 6720 from pot
+Sharony55 collected 6719 from pot
+*** SUMMARY ***
+Total pot 13439 | No rake
+Board: [7d 4c Jh Ah 4s]
+Seat 5: Sharony55 (big blind) showed [Ts Jc] and won 6719 with Two pairs : Jacks and 4
+Seat 9: LudoSab08 showed [2s Jd] and won 6720 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-22-1416429862 - Holdem no limit (25/125/250) - 2014/11/19 20:44:22 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: soso33000 (3865)
+Seat 2: GuiGui.39 (8599)
+Seat 3: sabre_laser (2505)
+Seat 4: Kermit21 (4430)
+Seat 5: Sharony55 (13868)
+Seat 6: Jimou (2219)
+Seat 7: Phileo (4695)
+Seat 8: eirinn33 (8725)
+Seat 9: LudoSab08 (6720)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 25
+Jimou posts ante 25
+soso33000 posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Kermit21 posts ante 25
+Phileo posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Sharony55 posts small blind 125
+Jimou posts big blind 250
+Dealt to sabre_laser [2h 5d]
+*** PRE-FLOP *** 
+Phileo folds
+eirinn33 folds
+LudoSab08 folds
+soso33000 raises 250 to 500
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 375
+Jimou calls 250
+*** FLOP *** [4s 9s 5c]
+Sharony55 bets 250
+Jimou folds
+soso33000 raises 3090 to 3340 and is all-in
+Sharony55 calls 3090
+*** TURN *** [4s 9s 5c][Kd]
+*** RIVER *** [4s 9s 5c Kd][2s]
+*** SHOW DOWN ***
+soso33000 shows [Qd Ac] (High card : Ace)
+Sharony55 shows [Ts 9c] (One pair : 9)
+Sharony55 collected 8405 from pot
+*** SUMMARY ***
+Total pot 8405 | No rake
+Board: [4s 9s 5c Kd 2s]
+Seat 1: soso33000 showed [Qd Ac] and lost with High card : Ace
+Seat 5: Sharony55 (small blind) showed [Ts 9c] and won 8405 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #427038934564864214-23-1416429924 - Holdem no limit (25/125/250) - 2014/11/19 20:45:24 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 2: GuiGui.39 (8574)
+Seat 3: sabre_laser (2480)
+Seat 4: Kermit21 (4405)
+Seat 5: Sharony55 (18408)
+Seat 6: Jimou (1694)
+Seat 7: Phileo (4670)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (6695)
+*** ANTE/BLINDS ***
+Jimou posts ante 25
+Phileo posts ante 25
+GuiGui.39 posts ante 25
+sabre_laser posts ante 25
+Kermit21 posts ante 25
+Sharony55 posts ante 25
+eirinn33 posts ante 25
+LudoSab08 posts ante 25
+Jimou posts small blind 125
+Phileo posts big blind 250
+Dealt to sabre_laser [Ah Kd]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 250
+Jimou raises 1419 to 1669 and is all-in
+Phileo calls 1419
+Sharony55 calls 1419
+*** FLOP *** [4c 2d 6d]
+Phileo checks
+Sharony55 checks
+*** TURN *** [4c 2d 6d][4h]
+Phileo checks
+Sharony55 checks
+*** RIVER *** [4c 2d 6d 4h][8h]
+Phileo checks
+Sharony55 checks
+*** SHOW DOWN ***
+Sharony55 shows [9d 7c] (One pair : 4)
+Phileo shows [Js Ks] (One pair : 4)
+Jimou shows [As Ad] (Two pairs : Aces and 4)
+Jimou collected 5207 from pot
+*** SUMMARY ***
+Total pot 5207 | No rake
+Board: [4c 2d 6d 4h 8h]
+Seat 5: Sharony55 (button) showed [9d 7c] and lost with One pair : 4
+Seat 6: Jimou (small blind) showed [As Ad] and won 5207 with Two pairs : Aces and 4
+Seat 7: Phileo (big blind) showed [Js Ks] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-24-1416430004 - Holdem no limit (35/150/300) - 2014/11/19 20:46:44 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: c TTprmoa (5645)
+Seat 2: GuiGui.39 (8549)
+Seat 3: sabre_laser (2455)
+Seat 4: Kermit21 (4380)
+Seat 5: Sharony55 (16714)
+Seat 6: Jimou (5207)
+Seat 7: Phileo (2976)
+Seat 8: eirinn33 (8675)
+Seat 9: LudoSab08 (6670)
+*** ANTE/BLINDS ***
+Phileo posts ante 35
+eirinn33 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+LudoSab08 posts ante 35
+Phileo posts small blind 150
+eirinn33 posts big blind 300
+Dealt to sabre_laser [Ks 5s]
+*** PRE-FLOP *** 
+LudoSab08 folds
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+Jimou folds
+Phileo folds
+eirinn33 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 8: eirinn33 (big blind) won 765
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-25-1416430025 - Holdem no limit (35/150/300) - 2014/11/19 20:47:05 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: c TTprmoa (5610)
+Seat 2: GuiGui.39 (8514)
+Seat 3: sabre_laser (2420)
+Seat 4: Kermit21 (4345)
+Seat 5: Sharony55 (16679)
+Seat 6: Jimou (5172)
+Seat 7: Phileo (2791)
+Seat 8: eirinn33 (9105)
+Seat 9: LudoSab08 (6635)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 35
+LudoSab08 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+Phileo posts ante 35
+eirinn33 posts small blind 150
+LudoSab08 posts big blind 300
+Dealt to sabre_laser [Kc Td]
+*** PRE-FLOP *** 
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 300
+Jimou folds
+Phileo folds
+eirinn33 calls 150
+LudoSab08 raises 300 to 600
+Sharony55 calls 300
+eirinn33 calls 300
+*** FLOP *** [2h 7s Js]
+eirinn33 checks
+LudoSab08 checks
+Sharony55 checks
+*** TURN *** [2h 7s Js][7h]
+eirinn33 checks
+LudoSab08 bets 300
+Sharony55 calls 300
+eirinn33 folds
+*** RIVER *** [2h 7s Js 7h][Tc]
+LudoSab08 bets 300
+Sharony55 calls 300
+*** SHOW DOWN ***
+Sharony55 shows [Ks Ah] (One pair : 7)
+LudoSab08 shows [Th Kh] (Two pairs : Tens and 7)
+LudoSab08 collected 3315 from pot
+*** SUMMARY ***
+Total pot 3315 | No rake
+Board: [2h 7s Js 7h Tc]
+Seat 5: Sharony55 showed [Ks Ah] and lost with One pair : 7
+Seat 9: LudoSab08 (big blind) showed [Th Kh] and won 3315 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #427038934564864214-26-1416430100 - Holdem no limit (35/150/300) - 2014/11/19 20:48:20 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: c TTprmoa (5575)
+Seat 2: GuiGui.39 (8479)
+Seat 3: sabre_laser (2385)
+Seat 4: Kermit21 (4310)
+Seat 5: Sharony55 (15444)
+Seat 6: Jimou (5137)
+Seat 7: Phileo (2756)
+Seat 8: eirinn33 (8470)
+Seat 9: LudoSab08 (8715)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 35
+c TTprmoa posts ante 35
+GuiGui.39 posts ante 35
+sabre_laser posts ante 35
+Kermit21 posts ante 35
+Sharony55 posts ante 35
+Jimou posts ante 35
+Phileo posts ante 35
+eirinn33 posts ante 35
+LudoSab08 posts small blind 150
+c TTprmoa posts big blind 300
+Dealt to sabre_laser [Tc Jh]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 300
+Jimou calls 300
+Phileo calls 300
+eirinn33 folds
+LudoSab08 calls 150
+c TTprmoa checks
+*** FLOP *** [8h 8c 3c]
+LudoSab08 checks
+c TTprmoa checks
+Sharony55 checks
+Jimou checks
+Phileo checks
+*** TURN *** [8h 8c 3c][4d]
+LudoSab08 checks
+c TTprmoa bets 300
+Sharony55 folds
+Jimou calls 300
+Phileo folds
+LudoSab08 folds
+*** RIVER *** [8h 8c 3c 4d][7d]
+c TTprmoa bets 300
+Jimou folds
+c TTprmoa collected 2715 from pot
+*** SUMMARY ***
+Total pot 2715 | No rake
+Board: [8h 8c 3c 4d 7d]
+Seat 1: c TTprmoa (big blind) won 2715
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #427038934564864214-27-1416430230 - Holdem no limit (40/200/400) - 2014/11/19 20:50:30 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: c TTprmoa (7355)
+Seat 2: GuiGui.39 (8444)
+Seat 3: sabre_laser (2350)
+Seat 4: Kermit21 (4275)
+Seat 5: Sharony55 (15109)
+Seat 6: Jimou (4502)
+Seat 7: Phileo (2421)
+Seat 8: eirinn33 (8435)
+Seat 9: LudoSab08 (8380)
+*** ANTE/BLINDS ***
+c TTprmoa posts ante 40
+GuiGui.39 posts ante 40
+sabre_laser posts ante 40
+Kermit21 posts ante 40
+Sharony55 posts ante 40
+Jimou posts ante 40
+Phileo posts ante 40
+eirinn33 posts ante 40
+LudoSab08 posts ante 40
+c TTprmoa posts small blind 200
+GuiGui.39 posts big blind 400
+Dealt to sabre_laser [3s 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 400
+Jimou raises 1600 to 2000
+Phileo folds
+eirinn33 folds
+LudoSab08 calls 2000
+c TTprmoa folds
+GuiGui.39 folds
+Sharony55 calls 1600
+*** FLOP *** [3h 7c Ac]
+Sharony55 checks
+Jimou bets 2462 and is all-in
+LudoSab08 calls 2462
+Sharony55 folds
+*** TURN *** [3h 7c Ac][8c]
+*** RIVER *** [3h 7c Ac 8c][6d]
+*** SHOW DOWN ***
+Jimou shows [9h Ah] (One pair : Aces)
+LudoSab08 shows [As Qs] (One pair : Aces)
+LudoSab08 collected 11884 from pot
+*** SUMMARY ***
+Total pot 11884 | No rake
+Board: [3h 7c Ac 8c 6d]
+Seat 6: Jimou showed [9h Ah] and lost with One pair : Aces
+Seat 9: LudoSab08 (button) showed [As Qs] and won 11884 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-28-1416430311 - Holdem no limit (50/250/500) - 2014/11/19 20:51:51 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: c TTprmoa (7115)
+Seat 2: GuiGui.39 (8004)
+Seat 3: sabre_laser (2310)
+Seat 4: Kermit21 (4235)
+Seat 5: Sharony55 (13069)
+Seat 7: Phileo (2381)
+Seat 8: eirinn33 (8395)
+Seat 9: LudoSab08 (15762)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 50
+sabre_laser posts ante 50
+c TTprmoa posts ante 50
+Kermit21 posts ante 50
+Sharony55 posts ante 50
+Phileo posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+GuiGui.39 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [2h 6d]
+*** PRE-FLOP *** 
+Kermit21 folds
+Sharony55 calls 500
+Phileo folds
+eirinn33 folds
+LudoSab08 folds
+c TTprmoa folds
+GuiGui.39 calls 250
+sabre_laser folds
+*** FLOP *** [As Ts Jd]
+GuiGui.39 checks
+Sharony55 checks
+*** TURN *** [As Ts Jd][Jc]
+GuiGui.39 checks
+Sharony55 bets 500
+GuiGui.39 folds
+Sharony55 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [As Ts Jd Jc]
+Seat 5: Sharony55 won 2400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-29-1416430360 - Holdem no limit (50/250/500) - 2014/11/19 20:52:40 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: c TTprmoa (7065)
+Seat 2: GuiGui.39 (7454)
+Seat 3: sabre_laser (1760)
+Seat 4: Kermit21 (4185)
+Seat 5: Sharony55 (14419)
+Seat 6: M.Gee31 (3435)
+Seat 7: Phileo (2331)
+Seat 8: eirinn33 (8345)
+Seat 9: LudoSab08 (15712)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Kermit21 posts ante 50
+c TTprmoa posts ante 50
+GuiGui.39 posts ante 50
+Sharony55 posts ante 50
+M.Gee31 posts ante 50
+Phileo posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+sabre_laser posts small blind 250
+Kermit21 posts big blind 500
+Dealt to sabre_laser [Jd Js]
+*** PRE-FLOP *** 
+Sharony55 calls 500
+M.Gee31 raises 2885 to 3385 and is all-in
+Phileo calls 2281 and is all-in
+eirinn33 folds
+LudoSab08 calls 3385
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+*** FLOP *** [3c Ac 9h]
+*** TURN *** [3c Ac 9h][Kc]
+*** RIVER *** [3c Ac 9h Kc][4h]
+*** SHOW DOWN ***
+Phileo shows [Kd Td] (One pair : Kings)
+LudoSab08 shows [Tc Qd] (High card : Ace)
+M.Gee31 shows [Ah 6h] (One pair : Aces)
+M.Gee31 collected 10751 from pot
+*** SUMMARY ***
+Total pot 10751 | No rake
+Board: [3c Ac 9h Kc 4h]
+Seat 6: M.Gee31 showed [Ah 6h] and won 10751 with One pair : Aces
+Seat 7: Phileo showed [Kd Td] and lost with One pair : Kings
+Seat 9: LudoSab08 showed [Tc Qd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #427038934564864214-30-1416430441 - Holdem no limit (50/250/500) - 2014/11/19 20:54:01 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: c TTprmoa (7015)
+Seat 2: GuiGui.39 (7404)
+Seat 3: sabre_laser (1460)
+Seat 4: Kermit21 (3635)
+Seat 5: Sharony55 (13869)
+Seat 6: M.Gee31 (10751)
+Seat 7: LUKEP72 (6790)
+Seat 8: eirinn33 (8295)
+Seat 9: LudoSab08 (12277)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 50
+Sharony55 posts ante 50
+c TTprmoa posts ante 50
+GuiGui.39 posts ante 50
+sabre_laser posts ante 50
+M.Gee31 posts ante 50
+LUKEP72 posts ante 50
+eirinn33 posts ante 50
+LudoSab08 posts ante 50
+Kermit21 posts small blind 250
+Sharony55 posts big blind 500
+Dealt to sabre_laser [6s 7d]
+*** PRE-FLOP *** 
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 500
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 checks
+*** FLOP *** [8c 8s 7s]
+Sharony55 checks
+LudoSab08 checks
+*** TURN *** [8c 8s 7s][Jd]
+Sharony55 bets 500
+LudoSab08 folds
+Sharony55 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [8c 8s 7s Jd]
+Seat 5: Sharony55 (big blind) won 2200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #427038934564864214-31-1416430801 - Holdem no limit (70/300/600) - 2014/11/19 21:00:01 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: c TTprmoa (6965)
+Seat 2: GuiGui.39 (7354)
+Seat 3: sabre_laser (1410)
+Seat 4: Kermit21 (3335)
+Seat 5: Sharony55 (15019)
+Seat 6: M.Gee31 (10701)
+Seat 7: LUKEP72 (6740)
+Seat 8: eirinn33 (8245)
+Seat 9: LudoSab08 (11727)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 70
+M.Gee31 posts ante 70
+c TTprmoa posts ante 70
+GuiGui.39 posts ante 70
+sabre_laser posts ante 70
+Kermit21 posts ante 70
+LUKEP72 posts ante 70
+eirinn33 posts ante 70
+LudoSab08 posts ante 70
+Sharony55 posts small blind 300
+M.Gee31 posts big blind 600
+Dealt to sabre_laser [7h 7d]
+*** PRE-FLOP *** 
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 600
+c TTprmoa folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 calls 600
+Sharony55 calls 300
+M.Gee31 folds
+*** FLOP *** [7c 4s Kd]
+Sharony55 checks
+LudoSab08 bets 600
+Kermit21 folds
+Sharony55 folds
+LudoSab08 collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Board: [7c 4s Kd]
+Seat 9: LudoSab08 won 3630
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #427038934564864214-32-1416430929 - Holdem no limit (70/300/600) - 2014/11/19 21:02:09 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: c TTprmoa (6895)
+Seat 2: GuiGui.39 (7284)
+Seat 3: sabre_laser (1340)
+Seat 4: Kermit21 (2665)
+Seat 5: Sharony55 (14349)
+Seat 6: M.Gee31 (10031)
+Seat 7: LUKEP72 (6670)
+Seat 8: eirinn33 (8175)
+Seat 9: LudoSab08 (14087)
+*** ANTE/BLINDS ***
+M.Gee31 posts ante 70
+LUKEP72 posts ante 70
+c TTprmoa posts ante 70
+GuiGui.39 posts ante 70
+sabre_laser posts ante 70
+Kermit21 posts ante 70
+Sharony55 posts ante 70
+eirinn33 posts ante 70
+LudoSab08 posts ante 70
+M.Gee31 posts small blind 300
+LUKEP72 posts big blind 600
+Dealt to sabre_laser [Jc 8s]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+c TTprmoa raises 600 to 1200
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1200
+M.Gee31 folds
+LUKEP72 folds
+*** FLOP *** [2h 6d 6c]
+c TTprmoa bets 1800
+Sharony55 calls 1800
+*** TURN *** [2h 6d 6c][Td]
+c TTprmoa bets 3825 and is all-in
+Sharony55 calls 3825
+*** RIVER *** [2h 6d 6c Td][6s]
+*** SHOW DOWN ***
+c TTprmoa shows [9c 9s] (Full of 6 and 9)
+Sharony55 shows [Kd Th] (Full of 6 and Tens)
+Sharony55 collected 15180 from pot
+*** SUMMARY ***
+Total pot 15180 | No rake
+Board: [2h 6d 6c Td 6s]
+Seat 1: c TTprmoa showed [9c 9s] and lost with Full of 6 and 9
+Seat 5: Sharony55 (button) showed [Kd Th] and won 15180 with Full of 6 and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-33-1416430979 - Holdem no limit (80/400/800) - 2014/11/19 21:02:59 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 2: GuiGui.39 (7214)
+Seat 3: sabre_laser (1270)
+Seat 4: Kermit21 (2595)
+Seat 5: Sharony55 (22634)
+Seat 6: M.Gee31 (9661)
+Seat 7: LUKEP72 (6000)
+Seat 8: eirinn33 (8105)
+Seat 9: LudoSab08 (14017)
+*** ANTE/BLINDS ***
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LudoSab08 posts ante 80
+LUKEP72 posts small blind 400
+eirinn33 posts big blind 800
+Dealt to sabre_laser [8d 4h]
+*** PRE-FLOP *** 
+LudoSab08 calls 800
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 1715 to 2515 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1715
+*** FLOP *** [Qd Ks 5s]
+*** TURN *** [Qd Ks 5s][2h]
+*** RIVER *** [Qd Ks 5s 2h][Ts]
+*** SHOW DOWN ***
+LudoSab08 shows [3s Kh] (One pair : Kings)
+Kermit21 shows [Js As] (Flush Ace high)
+Kermit21 collected 6870 from pot
+*** SUMMARY ***
+Total pot 6870 | No rake
+Board: [Qd Ks 5s 2h Ts]
+Seat 4: Kermit21 showed [Js As] and won 6870 with Flush Ace high
+Seat 9: LudoSab08 showed [3s Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-34-1416431038 - Holdem no limit (80/400/800) - 2014/11/19 21:03:58 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: goldtracks (3770)
+Seat 2: GuiGui.39 (7134)
+Seat 3: sabre_laser (1190)
+Seat 4: Kermit21 (6870)
+Seat 5: Sharony55 (22554)
+Seat 6: M.Gee31 (9581)
+Seat 7: LUKEP72 (5520)
+Seat 8: eirinn33 (7225)
+Seat 9: LudoSab08 (11422)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 80
+LudoSab08 posts ante 80
+goldtracks posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts small blind 400
+LudoSab08 posts big blind 800
+Dealt to sabre_laser [Ad 6s]
+*** PRE-FLOP *** 
+goldtracks raises 800 to 1600
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 5190 to 6790 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+goldtracks calls 2090 and is all-in
+*** FLOP *** [7d Jd 5h]
+*** TURN *** [7d Jd 5h][Ts]
+*** RIVER *** [7d Jd 5h Ts][6c]
+*** SHOW DOWN ***
+goldtracks shows [Kc Qc] (High card : King)
+Kermit21 shows [2s 2h] (One pair : 2)
+Kermit21 collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | No rake
+Board: [7d Jd 5h Ts 6c]
+Seat 1: goldtracks showed [Kc Qc] and lost with High card : King
+Seat 4: Kermit21 showed [2s 2h] and won 12400 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-35-1416431072 - Holdem no limit (80/400/800) - 2014/11/19 21:04:32 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: kiki28700 (10411)
+Seat 2: GuiGui.39 (7054)
+Seat 3: sabre_laser (1110)
+Seat 4: Kermit21 (12400)
+Seat 5: Sharony55 (22474)
+Seat 6: M.Gee31 (9501)
+Seat 7: LUKEP72 (5440)
+Seat 8: eirinn33 (6745)
+Seat 9: LudoSab08 (10542)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 80
+kiki28700 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+LudoSab08 posts small blind 400
+kiki28700 posts big blind 800
+Dealt to sabre_laser [Ad 8c]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+M.Gee31 calls 800
+LUKEP72 raises 4560 to 5360 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+M.Gee31 folds
+LUKEP72 collected 8080 from pot
+*** SUMMARY ***
+Total pot 8080 | No rake
+Seat 7: LUKEP72 won 8080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #427038934564864214-36-1416431132 - Holdem no limit (80/400/800) - 2014/11/19 21:05:32 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: kiki28700 (9531)
+Seat 2: GuiGui.39 (6974)
+Seat 3: sabre_laser (1030)
+Seat 4: Kermit21 (12320)
+Seat 5: Sharony55 (22394)
+Seat 6: M.Gee31 (8621)
+Seat 7: LUKEP72 (8080)
+Seat 8: eirinn33 (6665)
+Seat 9: LudoSab08 (10062)
+*** ANTE/BLINDS ***
+kiki28700 posts ante 80
+GuiGui.39 posts ante 80
+sabre_laser posts ante 80
+Kermit21 posts ante 80
+Sharony55 posts ante 80
+M.Gee31 posts ante 80
+LUKEP72 posts ante 80
+eirinn33 posts ante 80
+LudoSab08 posts ante 80
+kiki28700 posts small blind 400
+GuiGui.39 posts big blind 800
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 800
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 800
+kiki28700 folds
+GuiGui.39 checks
+*** FLOP *** [9d 9c 8c]
+GuiGui.39 checks
+Sharony55 bets 800
+LudoSab08 folds
+GuiGui.39 calls 800
+*** TURN *** [9d 9c 8c][As]
+GuiGui.39 checks
+Sharony55 bets 1897
+GuiGui.39 folds
+Sharony55 collected 7017 from pot
+*** SUMMARY ***
+Total pot 7017 | No rake
+Board: [9d 9c 8c As]
+Seat 5: Sharony55 won 7017
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #427038934564864214-37-1416431212 - Holdem no limit (100/500/1000) - 2014/11/19 21:06:52 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: kiki28700 (9051)
+Seat 2: GuiGui.39 (5294)
+Seat 3: sabre_laser (950)
+Seat 4: Kermit21 (12240)
+Seat 5: Sharony55 (25834)
+Seat 6: M.Gee31 (8541)
+Seat 7: LUKEP72 (8000)
+Seat 8: eirinn33 (6585)
+Seat 9: LudoSab08 (9182)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 100
+sabre_laser posts ante 100
+kiki28700 posts ante 100
+Kermit21 posts ante 100
+Sharony55 posts ante 100
+M.Gee31 posts ante 100
+LUKEP72 posts ante 100
+eirinn33 posts ante 100
+LudoSab08 posts ante 100
+GuiGui.39 posts small blind 500
+sabre_laser posts big blind 850 and is all-in
+Dealt to sabre_laser [2h 2d]
+*** PRE-FLOP *** 
+Kermit21 raises 1150 to 2000
+Sharony55 calls 2000
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+*** FLOP *** [2c 8c 9s]
+Kermit21 checks
+Sharony55 bets 1000
+Kermit21 folds
+*** TURN *** [2c 8c 9s][Ks]
+*** RIVER *** [2c 8c 9s Ks][Ad]
+*** SHOW DOWN ***
+sabre_laser shows [2h 2d] (Trips of 2)
+Sharony55 shows [8d Kd] (Two pairs : Kings and 8)
+Sharony55 collected 3300 from side pot 1
+sabre_laser collected 3950 from main pot
+*** SUMMARY ***
+Total pot 7250 | No rake
+Board: [2c 8c 9s Ks Ad]
+Seat 3: sabre_laser (big blind) showed [2h 2d] and won 3950 with Trips of 2
+Seat 5: Sharony55 showed [8d Kd] and won 3300 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #427038934564864214-38-1416431267 - Holdem no limit (100/500/1000) - 2014/11/19 21:07:47 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: kiki28700 (8951)
+Seat 2: GuiGui.39 (4694)
+Seat 3: sabre_laser (3950)
+Seat 4: Kermit21 (10140)
+Seat 5: Sharony55 (26034)
+Seat 6: M.Gee31 (8441)
+Seat 7: LUKEP72 (7900)
+Seat 8: eirinn33 (6485)
+Seat 9: LudoSab08 (9082)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Kermit21 posts ante 100
+kiki28700 posts ante 100
+GuiGui.39 posts ante 100
+Sharony55 posts ante 100
+M.Gee31 posts ante 100
+LUKEP72 posts ante 100
+eirinn33 posts ante 100
+LudoSab08 posts ante 100
+sabre_laser posts small blind 500
+Kermit21 posts big blind 1000
+Dealt to sabre_laser [Kc Kd]
+*** PRE-FLOP *** 
+Sharony55 calls 1000
+M.Gee31 folds
+LUKEP72 raises 6800 to 7800 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+LUKEP72 collected 11200 from pot
+*** SUMMARY ***
+Total pot 11200 | No rake
+Seat 7: LUKEP72 won 11200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-39-1416431321 - Holdem no limit (135/600/1200) - 2014/11/19 21:08:41 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #3 is the button
+Seat 1: kiki28700 (8851)
+Seat 2: GuiGui.39 (4594)
+Seat 3: sabre_laser (3350)
+Seat 4: Kermit21 (9040)
+Seat 5: Sharony55 (24934)
+Seat 6: M.Gee31 (8341)
+Seat 7: LUKEP72 (11200)
+Seat 8: eirinn33 (6385)
+Seat 9: LudoSab08 (8982)
+*** ANTE/BLINDS ***
+Kermit21 posts ante 135
+Sharony55 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+M.Gee31 posts ante 135
+LUKEP72 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+Kermit21 posts small blind 600
+Sharony55 posts big blind 1200
+Dealt to sabre_laser [4c 8s]
+*** PRE-FLOP *** 
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 calls 1200
+sabre_laser folds
+Kermit21 calls 600
+Sharony55 checks
+*** FLOP *** [3h 6s 2d]
+Kermit21 checks
+Sharony55 checks
+GuiGui.39 bets 3259 and is all-in
+Kermit21 folds
+Sharony55 folds
+GuiGui.39 collected 8074 from pot
+*** SUMMARY ***
+Total pot 8074 | No rake
+Board: [3h 6s 2d]
+Seat 2: GuiGui.39 won 8074
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-40-1416431382 - Holdem no limit (135/600/1200) - 2014/11/19 21:09:42 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #4 is the button
+Seat 1: kiki28700 (8716)
+Seat 2: GuiGui.39 (8074)
+Seat 3: sabre_laser (3215)
+Seat 4: Kermit21 (7705)
+Seat 5: Sharony55 (23599)
+Seat 6: M.Gee31 (8206)
+Seat 7: LUKEP72 (11065)
+Seat 8: eirinn33 (6250)
+Seat 9: LudoSab08 (8847)
+*** ANTE/BLINDS ***
+Sharony55 posts ante 135
+M.Gee31 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+Kermit21 posts ante 135
+LUKEP72 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+Sharony55 posts small blind 600
+M.Gee31 posts big blind 1200
+Dealt to sabre_laser [9c Tc]
+*** PRE-FLOP *** 
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 raises 1200 to 2400
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1800
+M.Gee31 folds
+*** FLOP *** [7h 3h Kh]
+Sharony55 bets 1200
+LudoSab08 calls 1200
+*** TURN *** [7h 3h Kh][As]
+Sharony55 bets 1200
+LudoSab08 calls 1200
+*** RIVER *** [7h 3h Kh As][8h]
+Sharony55 bets 4366
+LudoSab08 folds
+Sharony55 collected 16381 from pot
+*** SUMMARY ***
+Total pot 16381 | No rake
+Board: [7h 3h Kh As 8h]
+Seat 5: Sharony55 (small blind) won 16381
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #427038934564864214-41-1416431448 - Holdem no limit (135/600/1200) - 2014/11/19 21:10:48 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #5 is the button
+Seat 1: kiki28700 (8581)
+Seat 2: GuiGui.39 (7939)
+Seat 3: sabre_laser (3080)
+Seat 4: Kermit21 (7570)
+Seat 5: Sharony55 (30679)
+Seat 6: M.Gee31 (6871)
+Seat 7: LUKEP72 (10930)
+Seat 8: eirinn33 (6115)
+Seat 9: LudoSab08 (3912)
+*** ANTE/BLINDS ***
+M.Gee31 posts ante 135
+LUKEP72 posts ante 135
+kiki28700 posts ante 135
+GuiGui.39 posts ante 135
+sabre_laser posts ante 135
+Kermit21 posts ante 135
+Sharony55 posts ante 135
+eirinn33 posts ante 135
+LudoSab08 posts ante 135
+M.Gee31 posts small blind 600
+LUKEP72 posts big blind 1200
+Dealt to sabre_laser [7s Qs]
+*** PRE-FLOP *** 
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 raises 1200 to 2400
+sabre_laser folds
+Kermit21 folds
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 raises 8395 to 10795 and is all-in
+GuiGui.39 calls 5404 and is all-in
+*** FLOP *** [9c Qh Qd]
+*** TURN *** [9c Qh Qd][6s]
+*** RIVER *** [9c Qh Qd 6s][9d]
+*** SHOW DOWN ***
+GuiGui.39 shows [Ah Kd] (Two pairs : Queens and 9)
+LUKEP72 shows [Kc Ad] (Two pairs : Queens and 9)
+LUKEP72 collected 11703 from side pot 1
+GuiGui.39 collected 8711 from main pot
+*** SUMMARY ***
+Total pot 20414 | No rake
+Board: [9c Qh Qd 6s 9d]
+Seat 2: GuiGui.39 showed [Ah Kd] and won 8711 with Two pairs : Queens and 9
+Seat 7: LUKEP72 (big blind) showed [Kc Ad] and won 11703 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-42-1416431495 - Holdem no limit (160/800/1600) - 2014/11/19 21:11:35 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #6 is the button
+Seat 1: kiki28700 (8446)
+Seat 2: GuiGui.39 (8711)
+Seat 3: sabre_laser (2945)
+Seat 4: Kermit21 (7435)
+Seat 5: Sharony55 (30544)
+Seat 6: M.Gee31 (6136)
+Seat 7: LUKEP72 (11703)
+Seat 8: eirinn33 (5980)
+Seat 9: LudoSab08 (3777)
+*** ANTE/BLINDS ***
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Kermit21 posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LudoSab08 posts ante 160
+LUKEP72 posts small blind 800
+eirinn33 posts big blind 1600
+Dealt to sabre_laser [Jd 7c]
+*** PRE-FLOP *** 
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 folds
+Sharony55 calls 1600
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 checks
+*** FLOP *** [Ks Kd Qd]
+eirinn33 bets 4220 and is all-in
+Sharony55 folds
+eirinn33 collected 9660 from pot
+*** SUMMARY ***
+Total pot 9660 | No rake
+Board: [Ks Kd Qd]
+Seat 8: eirinn33 (big blind) won 9660
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-43-1416431537 - Holdem no limit (160/800/1600) - 2014/11/19 21:12:17 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #7 is the button
+Seat 1: kiki28700 (8286)
+Seat 2: GuiGui.39 (8551)
+Seat 3: sabre_laser (2785)
+Seat 4: Kermit21 (7275)
+Seat 5: Sharony55 (28784)
+Seat 6: M.Gee31 (5976)
+Seat 7: LUKEP72 (10743)
+Seat 8: eirinn33 (9660)
+Seat 9: LudoSab08 (3617)
+*** ANTE/BLINDS ***
+eirinn33 posts ante 160
+LudoSab08 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Kermit21 posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts small blind 800
+LudoSab08 posts big blind 1600
+Dealt to sabre_laser [6c 9d]
+*** PRE-FLOP *** 
+kiki28700 calls 1600
+GuiGui.39 folds
+sabre_laser folds
+Kermit21 raises 5515 to 7115 and is all-in
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1857 and is all-in
+kiki28700 calls 5515
+*** FLOP *** [Th 2c 4h]
+*** TURN *** [Th 2c 4h][Td]
+*** RIVER *** [Th 2c 4h Td][Ac]
+*** SHOW DOWN ***
+Kermit21 shows [Js Ks] (One pair : Tens)
+LudoSab08 shows [Ah 5d] (Two pairs : Aces and Tens)
+kiki28700 shows [Kd Qh] (One pair : Tens)
+kiki28700 collected 7316 from side pot 1
+LudoSab08 collected 12611 from main pot
+*** SUMMARY ***
+Total pot 19927 | No rake
+Board: [Th 2c 4h Td Ac]
+Seat 1: kiki28700 showed [Kd Qh] and won 7316 with One pair : Tens
+Seat 4: Kermit21 showed [Js Ks] and lost with One pair : Tens
+Seat 9: LudoSab08 (big blind) showed [Ah 5d] and won 12611 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-44-1416431577 - Holdem no limit (160/800/1600) - 2014/11/19 21:12:57 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #8 is the button
+Seat 1: kiki28700 (8327)
+Seat 2: GuiGui.39 (8391)
+Seat 3: sabre_laser (2625)
+Seat 5: Sharony55 (28624)
+Seat 6: M.Gee31 (5816)
+Seat 7: LUKEP72 (10583)
+Seat 8: eirinn33 (8700)
+Seat 9: LudoSab08 (12611)
+*** ANTE/BLINDS ***
+LudoSab08 posts ante 160
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+LudoSab08 posts small blind 800
+kiki28700 posts big blind 1600
+Dealt to sabre_laser [6h As]
+*** PRE-FLOP *** 
+GuiGui.39 folds
+sabre_laser folds
+Sharony55 folds
+M.Gee31 folds
+LUKEP72 raises 8823 to 10423 and is all-in
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+LUKEP72 collected 14103 from pot
+*** SUMMARY ***
+Total pot 14103 | No rake
+Seat 7: LUKEP72 won 14103
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #427038934564864214-45-1416431620 - Holdem no limit (160/800/1600) - 2014/11/19 21:13:40 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #9 is the button
+Seat 1: kiki28700 (6567)
+Seat 2: GuiGui.39 (8231)
+Seat 3: sabre_laser (2465)
+Seat 4: 2jmd (2445)
+Seat 5: Sharony55 (28464)
+Seat 6: M.Gee31 (5656)
+Seat 7: LUKEP72 (14103)
+Seat 8: eirinn33 (8540)
+Seat 9: LudoSab08 (11651)
+*** ANTE/BLINDS ***
+kiki28700 posts ante 160
+GuiGui.39 posts ante 160
+sabre_laser posts ante 160
+2jmd posts ante 160
+Sharony55 posts ante 160
+M.Gee31 posts ante 160
+LUKEP72 posts ante 160
+eirinn33 posts ante 160
+LudoSab08 posts ante 160
+kiki28700 posts small blind 800
+GuiGui.39 posts big blind 1600
+Dealt to sabre_laser [Jd Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+2jmd folds
+Sharony55 calls 1600
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 calls 1600
+kiki28700 folds
+GuiGui.39 checks
+*** FLOP *** [Qc 4d Js]
+GuiGui.39 checks
+Sharony55 checks
+LudoSab08 checks
+*** TURN *** [Qc 4d Js][Td]
+GuiGui.39 checks
+Sharony55 bets 1600
+LudoSab08 folds
+GuiGui.39 raises 4871 to 6471 and is all-in
+Sharony55 calls 4871
+*** RIVER *** [Qc 4d Js Td][4h]
+*** SHOW DOWN ***
+GuiGui.39 shows [Ts Ac] (Two pairs : Tens and 4)
+Sharony55 shows [Kh 9d] (Straight King high)
+Sharony55 collected 19982 from pot
+*** SUMMARY ***
+Total pot 19982 | No rake
+Board: [Qc 4d Js Td 4h]
+Seat 2: GuiGui.39 (big blind) showed [Ts Ac] and lost with Two pairs : Tens and 4
+Seat 5: Sharony55 showed [Kh 9d] and won 19982 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #427038934564864214-46-1416431702 - Holdem no limit (200/1000/2000) - 2014/11/19 21:15:02 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: kiki28700 (5607)
+Seat 3: sabre_laser (2305)
+Seat 4: 2jmd (2285)
+Seat 5: Sharony55 (40215)
+Seat 6: M.Gee31 (5496)
+Seat 7: LUKEP72 (13943)
+Seat 8: eirinn33 (8380)
+Seat 9: LudoSab08 (9891)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 200
+kiki28700 posts ante 200
+2jmd posts ante 200
+Sharony55 posts ante 200
+M.Gee31 posts ante 200
+LUKEP72 posts ante 200
+eirinn33 posts ante 200
+LudoSab08 posts ante 200
+sabre_laser posts big blind 2000
+Dealt to sabre_laser [Jc 6h]
+*** PRE-FLOP *** 
+2jmd folds
+Sharony55 calls 2000
+M.Gee31 raises 3296 to 5296 and is all-in
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 raises 3296 to 8592
+kiki28700 folds
+sabre_laser folds
+Sharony55 raises 14557 to 23149
+LudoSab08 calls 1099 and is all-in
+*** FLOP *** [Jh Kd 6d]
+*** TURN *** [Jh Kd 6d][4h]
+*** RIVER *** [Jh Kd 6d 4h][4s]
+*** SHOW DOWN ***
+M.Gee31 shows [Ah Qc] (One pair : 4)
+LudoSab08 shows [3d Td] (One pair : 4)
+Sharony55 shows [Kh Th] (Two pairs : Kings and 4)
+Sharony55 collected 41736 from pot
+*** SUMMARY ***
+Total pot 41736 | No rake
+Board: [Jh Kd 6d 4h 4s]
+Seat 5: Sharony55 showed [Kh Th] and won 41736 with Two pairs : Kings and 4
+Seat 6: M.Gee31 showed [Ah Qc] and lost with One pair : 4
+Seat 9: LudoSab08 showed [3d Td] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #427038934564864214-47-1416431744 - Holdem no limit (200/1000/2000) - 2014/11/19 21:15:44 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #2 is the button
+Seat 1: kiki28700 (5407)
+Seat 2: menta (5735)
+Seat 3: sabre_laser (105)
+Seat 4: 2jmd (2085)
+Seat 5: Sharony55 (58602)
+Seat 7: LUKEP72 (13743)
+Seat 8: eirinn33 (8180)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 105 and is all-in
+2jmd posts ante 200
+kiki28700 posts ante 200
+Sharony55 posts ante 200
+LUKEP72 posts ante 200
+eirinn33 posts ante 200
+sabre_laser posts small blind 0 and is all-in
+2jmd posts big blind 1885 and is all-in
+Dealt to sabre_laser [6c 2s]
+*** PRE-FLOP *** 
+Sharony55 calls 2000
+LUKEP72 folds
+eirinn33 folds
+kiki28700 folds
+*** FLOP *** [8h 2d Kd]
+*** TURN *** [8h 2d Kd][3s]
+*** RIVER *** [8h 2d Kd 3s][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [6c 2s] (Two pairs : Kings and 2)
+2jmd shows [4s 4c] (Two pairs : Kings and 4)
+Sharony55 shows [7c Kc] (Trips of Kings)
+Sharony55 collected 4990 from pot
+*** SUMMARY ***
+Total pot 4990 | No rake
+Board: [8h 2d Kd 3s Kh]
+Seat 3: sabre_laser (small blind) showed [6c 2s] and lost with Two pairs : Kings and 2
+Seat 4: 2jmd (big blind) showed [4s 4c] and lost with Two pairs : Kings and 4
+Seat 5: Sharony55 showed [7c Kc] and won 4990 with Trips of Kings
+
+

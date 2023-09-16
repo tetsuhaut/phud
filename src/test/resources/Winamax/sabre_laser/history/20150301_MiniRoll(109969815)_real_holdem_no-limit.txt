@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #472316758972170296-2-1425246744 - Holdem no limit (30/200/400) - 2015/03/01 21:52:24 UTC
+Table: 'MiniRoll(109969815)#055' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: tontodefos (10000)
+Seat 3: E.Tmaison (10000)
+Seat 4: sadclown (10000)
+Seat 5: RIHM94 (9570)
+Seat 7: ananaille (20690)
+Seat 8: Pafou_legoss (9970)
+Seat 9: cartus70 (9770)
+*** ANTE/BLINDS ***
+RIHM94 posts ante 30
+ananaille posts ante 30
+Pafou_legoss posts ante 30
+cartus70 posts ante 30
+RIHM94 posts small blind 200
+ananaille posts big blind 400
+*** PRE-FLOP *** 
+Pafou_legoss folds
+cartus70 folds
+RIHM94 calls 200
+ananaille raises 400 to 800
+RIHM94 calls 400
+*** FLOP *** [6h Kd Ah]
+RIHM94 checks
+ananaille bets 2400
+RIHM94 folds
+ananaille collected 4120 from pot
+*** SUMMARY ***
+Total pot 4120 | No rake
+Board: [6h Kd Ah]
+Seat 7: ananaille (big blind) won 4120
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #472316758972170296-3-1425246774 - Holdem no limit (30/200/400) - 2015/03/01 21:52:54 UTC
+Table: 'MiniRoll(109969815)#055' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: tontodefos (10000)
+Seat 3: E.Tmaison (10000)
+Seat 4: sadclown (10000)
+Seat 5: RIHM94 (8740)
+Seat 6: Viinceenttt (10000)
+Seat 7: ananaille (21580)
+Seat 8: Pafou_legoss (9940)
+Seat 9: cartus70 (9740)
+*** ANTE/BLINDS ***
+ananaille posts ante 30
+Pafou_legoss posts ante 30
+sabre_laser posts ante 30
+tontodefos posts ante 30
+E.Tmaison posts ante 30
+sadclown posts ante 30
+RIHM94 posts ante 30
+cartus70 posts ante 30
+ananaille posts small blind 200
+Pafou_legoss posts big blind 400
+Dealt to sabre_laser [As Jd]
+*** PRE-FLOP *** 
+cartus70 raises 9310 to 9710 and is all-in
+sabre_laser raises 260 to 9970 and is all-in
+tontodefos calls 9970 and is all-in
+E.Tmaison folds
+sadclown folds
+RIHM94 folds
+ananaille folds
+Pafou_legoss folds
+*** FLOP *** [8c 6c 3s]
+*** TURN *** [8c 6c 3s][5d]
+*** RIVER *** [8c 6c 3s 5d][5s]
+*** SHOW DOWN ***
+sabre_laser shows [As Jd] (One pair : 5)
+cartus70 shows [4c Ac] (One pair : 5)
+tontodefos shows [Kd 6s] (Two pairs : 6 and 5)
+tontodefos collected 30490 from pot
+*** SUMMARY ***
+Total pot 30490 | No rake
+Board: [8c 6c 3s 5d 5s]
+Seat 1: sabre_laser showed [As Jd] and lost with One pair : 5
+Seat 2: tontodefos showed [Kd 6s] and won 30490 with Two pairs : 6 and 5
+Seat 9: cartus70 showed [4c Ac] and lost with One pair : 5
+
+

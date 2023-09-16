@@ -1,0 +1,589 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107016367800321-1-1425245416 - Holdem no limit (10/20) - 2015/03/01 21:30:16 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (500)
+Seat 2: Djaydouille (500)
+Seat 3: Sc0ttie34 (500)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 10
+Sc0ttie34 posts big blind 20
+Dealt to sabre_laser [9c Tc]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+Djaydouille folds
+Sc0ttie34 checks
+*** FLOP *** [5h 5d Qh]
+Sc0ttie34 bets 40
+sabre_laser folds
+Sc0ttie34 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5h 5d Qh]
+Seat 3: Sc0ttie34 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107016367800321-2-1425245436 - Holdem no limit (10/20) - 2015/03/01 21:30:36 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (480)
+Seat 2: Djaydouille (490)
+Seat 3: Sc0ttie34 (530)
+*** ANTE/BLINDS ***
+Sc0ttie34 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [9c Kc]
+*** PRE-FLOP *** 
+Djaydouille raises 60 to 80
+Sc0ttie34 calls 70
+sabre_laser calls 60
+*** FLOP *** [5s Ah 5d]
+Sc0ttie34 checks
+sabre_laser checks
+Djaydouille bets 240
+Sc0ttie34 folds
+sabre_laser folds
+Djaydouille collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5s Ah 5d]
+Seat 2: Djaydouille (button) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107016367800321-3-1425245475 - Holdem no limit (10/20) - 2015/03/01 21:31:15 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (400)
+Seat 2: Djaydouille (650)
+Seat 3: Sc0ttie34 (450)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Djaydouille posts big blind 20
+Dealt to sabre_laser [6s 8d]
+*** PRE-FLOP *** 
+Sc0ttie34 folds
+sabre_laser calls 10
+Djaydouille raises 20 to 40
+sabre_laser calls 20
+*** FLOP *** [Ks 5c Jh]
+sabre_laser checks
+Djaydouille checks
+*** TURN *** [Ks 5c Jh][6d]
+sabre_laser bets 20
+Djaydouille raises 20 to 40
+sabre_laser calls 20
+*** RIVER *** [Ks 5c Jh 6d][Ts]
+sabre_laser checks
+Djaydouille bets 80
+sabre_laser calls 80
+*** SHOW DOWN ***
+Djaydouille shows [2d 2s] (One pair : 2)
+sabre_laser shows [6s 8d] (One pair : 6)
+sabre_laser collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Ks 5c Jh 6d Ts]
+Seat 1: sabre_laser (small blind) showed [6s 8d] and won 320 with One pair : 6
+Seat 2: Djaydouille (big blind) showed [2d 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107016367800321-4-1425245526 - Holdem no limit (10/20) - 2015/03/01 21:32:06 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (560)
+Seat 2: Djaydouille (490)
+Seat 3: Sc0ttie34 (450)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 10
+Sc0ttie34 posts big blind 20
+Dealt to sabre_laser [7s 7c]
+*** PRE-FLOP *** 
+sabre_laser raises 540 to 560 and is all-in
+Djaydouille folds
+Sc0ttie34 folds
+sabre_laser collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 1: sabre_laser (button) won 590
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107016367800321-5-1425245542 - Holdem no limit (10/20) - 2015/03/01 21:32:22 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (590)
+Seat 2: Djaydouille (480)
+Seat 3: Sc0ttie34 (430)
+*** ANTE/BLINDS ***
+Sc0ttie34 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2c 3c]
+*** PRE-FLOP *** 
+Djaydouille folds
+Sc0ttie34 raises 40 to 60
+sabre_laser folds
+Sc0ttie34 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: Sc0ttie34 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107016367800321-6-1425245557 - Holdem no limit (10/20) - 2015/03/01 21:32:37 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (570)
+Seat 2: Djaydouille (480)
+Seat 3: Sc0ttie34 (450)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Djaydouille posts big blind 20
+Dealt to sabre_laser [9d 4c]
+*** PRE-FLOP *** 
+Sc0ttie34 raises 50 to 70
+sabre_laser folds
+Djaydouille folds
+Sc0ttie34 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: Sc0ttie34 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107016367800321-7-1425245583 - Holdem no limit (10/20) - 2015/03/01 21:33:03 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (560)
+Seat 2: Djaydouille (460)
+Seat 3: Sc0ttie34 (480)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 10
+Sc0ttie34 posts big blind 20
+Dealt to sabre_laser [8c 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Djaydouille calls 10
+Sc0ttie34 raises 80 to 100
+Djaydouille calls 80
+*** FLOP *** [Kd Qs 8s]
+Djaydouille bets 200
+Sc0ttie34 raises 180 to 380 and is all-in
+Djaydouille calls 160 and is all-in
+*** TURN *** [Kd Qs 8s][3h]
+*** RIVER *** [Kd Qs 8s 3h][9h]
+*** SHOW DOWN ***
+Djaydouille shows [Tc Jd] (Straight King high)
+Sc0ttie34 shows [5d 5h] (One pair : 5)
+Sc0ttie34 collected 20 from side pot 1
+Djaydouille collected 920 from main pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [Kd Qs 8s 3h 9h]
+Seat 2: Djaydouille (small blind) showed [Tc Jd] and won 920 with Straight King high
+Seat 3: Sc0ttie34 (big blind) showed [5d 5h] and won 20 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479107016367800321-8-1425245622 - Holdem no limit (15/30) - 2015/03/01 21:33:42 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (560)
+Seat 2: Djaydouille (920)
+Seat 3: Sc0ttie34 (20)
+*** ANTE/BLINDS ***
+Sc0ttie34 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [7s 6c]
+*** PRE-FLOP *** 
+Djaydouille calls 30
+Sc0ttie34 calls 5 and is all-in
+sabre_laser checks
+*** FLOP *** [2h 8h Td]
+sabre_laser checks
+Djaydouille checks
+*** TURN *** [2h 8h Td][3s]
+sabre_laser checks
+Djaydouille checks
+*** RIVER *** [2h 8h Td 3s][2s]
+sabre_laser checks
+Djaydouille checks
+*** SHOW DOWN ***
+sabre_laser shows [7s 6c] (One pair : 2)
+Sc0ttie34 shows [Jh 2d] (Trips of 2)
+Djaydouille shows [2c 5d] (Trips of 2)
+Djaydouille collected 20 from side pot 1
+Sc0ttie34 collected 60 from main pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2h 8h Td 3s 2s]
+Seat 1: sabre_laser (big blind) showed [7s 6c] and lost with One pair : 2
+Seat 2: Djaydouille (button) showed [2c 5d] and won 20 with Trips of 2
+Seat 3: Sc0ttie34 (small blind) showed [Jh 2d] and won 60 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479107016367800321-9-1425245653 - Holdem no limit (15/30) - 2015/03/01 21:34:13 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (530)
+Seat 2: Djaydouille (910)
+Seat 3: Sc0ttie34 (60)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Djaydouille posts big blind 30
+Dealt to sabre_laser [8h Jh]
+*** PRE-FLOP *** 
+Sc0ttie34 folds
+sabre_laser calls 15
+Djaydouille raises 60 to 90
+sabre_laser calls 60
+*** FLOP *** [2d 3h Ks]
+sabre_laser checks
+Djaydouille checks
+*** TURN *** [2d 3h Ks][9h]
+sabre_laser bets 60
+Djaydouille calls 60
+*** RIVER *** [2d 3h Ks 9h][6s]
+sabre_laser checks
+Djaydouille bets 380
+sabre_laser folds
+Djaydouille collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [2d 3h Ks 9h 6s]
+Seat 2: Djaydouille (big blind) won 680
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479107016367800321-10-1425245741 - Holdem no limit (15/30) - 2015/03/01 21:35:41 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (380)
+Seat 2: Djaydouille (1060)
+Seat 3: Sc0ttie34 (60)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 15
+Sc0ttie34 posts big blind 30
+Dealt to sabre_laser [5c 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Djaydouille raises 30 to 60
+Sc0ttie34 calls 30 and is all-in
+*** FLOP *** [6d Kc 4s]
+*** TURN *** [6d Kc 4s][4d]
+*** RIVER *** [6d Kc 4s 4d][3d]
+*** SHOW DOWN ***
+Sc0ttie34 shows [2h Jh] (One pair : 4)
+Djaydouille shows [4h Ks] (Full of 4 and Kings)
+Djaydouille collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6d Kc 4s 4d 3d]
+Seat 2: Djaydouille (small blind) showed [4h Ks] and won 120 with Full of 4 and Kings
+Seat 3: Sc0ttie34 (big blind) showed [2h Jh] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479107016367800321-11-1425245766 - Holdem no limit (15/30) - 2015/03/01 21:36:06 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (380)
+Seat 2: Djaydouille (1120)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Djaydouille posts big blind 30
+Dealt to sabre_laser [Kd 4d]
+*** PRE-FLOP *** 
+sabre_laser calls 15
+Djaydouille checks
+*** FLOP *** [7c 9h 3s]
+Djaydouille checks
+sabre_laser bets 30
+Djaydouille calls 30
+*** TURN *** [7c 9h 3s][3d]
+Djaydouille checks
+sabre_laser checks
+*** RIVER *** [7c 9h 3s 3d][2d]
+Djaydouille bets 30
+sabre_laser calls 30
+*** SHOW DOWN ***
+sabre_laser shows [Kd 4d] (One pair : 3)
+Djaydouille shows [5h 2c] (Two pairs : 3 and 2)
+Djaydouille collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7c 9h 3s 3d 2d]
+Seat 1: sabre_laser (small blind) (button) showed [Kd 4d] and lost with One pair : 3
+Seat 2: Djaydouille (big blind) showed [5h 2c] and won 180 with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479107016367800321-12-1425245807 - Holdem no limit (20/40) - 2015/03/01 21:36:47 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (290)
+Seat 2: Djaydouille (1210)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [6s Kd]
+*** PRE-FLOP *** 
+Djaydouille raises 120 to 160
+sabre_laser folds
+Djaydouille collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 2: Djaydouille (small blind) (button) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479107016367800321-13-1425245822 - Holdem no limit (20/40) - 2015/03/01 21:37:02 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (250)
+Seat 2: Djaydouille (1250)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Djaydouille posts big blind 40
+Dealt to sabre_laser [4s Kd]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+Djaydouille checks
+*** FLOP *** [2d 8d Kh]
+Djaydouille checks
+sabre_laser bets 210 and is all-in
+Djaydouille folds
+sabre_laser collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [2d 8d Kh]
+Seat 1: sabre_laser (small blind) (button) won 290
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479107016367800321-14-1425245859 - Holdem no limit (20/40) - 2015/03/01 21:37:39 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (290)
+Seat 2: Djaydouille (1210)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [6h 2h]
+*** PRE-FLOP *** 
+Djaydouille folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: sabre_laser (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479107016367800321-15-1425245865 - Holdem no limit (20/40) - 2015/03/01 21:37:45 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (310)
+Seat 2: Djaydouille (1190)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Djaydouille posts big blind 40
+Dealt to sabre_laser [2c 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Djaydouille collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Djaydouille (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479107016367800321-16-1425245878 - Holdem no limit (20/40) - 2015/03/01 21:37:58 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (290)
+Seat 2: Djaydouille (1210)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ts 2d]
+*** PRE-FLOP *** 
+Djaydouille calls 20
+sabre_laser checks
+*** FLOP *** [9c Kh 4h]
+sabre_laser bets 40
+Djaydouille calls 40
+*** TURN *** [9c Kh 4h][Tc]
+sabre_laser bets 80
+Djaydouille folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9c Kh 4h Tc]
+Seat 1: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479107016367800321-17-1425245921 - Holdem no limit (20/40) - 2015/03/01 21:38:41 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (370)
+Seat 2: Djaydouille (1130)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Djaydouille posts big blind 40
+Dealt to sabre_laser [7h 2h]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+Djaydouille checks
+*** FLOP *** [3d 2c Ah]
+Djaydouille checks
+sabre_laser bets 80
+Djaydouille folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [3d 2c Ah]
+Seat 1: sabre_laser (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479107016367800321-18-1425245950 - Holdem no limit (20/40) - 2015/03/01 21:39:10 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (410)
+Seat 2: Djaydouille (1090)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [7s Jd]
+*** PRE-FLOP *** 
+Djaydouille folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: sabre_laser (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479107016367800321-19-1425245958 - Holdem no limit (30/60) - 2015/03/01 21:39:18 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (430)
+Seat 2: Djaydouille (1070)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Djaydouille posts big blind 60
+Dealt to sabre_laser [2c 6c]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Djaydouille raises 1010 to 1070 and is all-in
+sabre_laser folds
+Djaydouille collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Seat 2: Djaydouille (big blind) won 1130
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479107016367800321-20-1425245978 - Holdem no limit (30/60) - 2015/03/01 21:39:38 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (370)
+Seat 2: Djaydouille (1130)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [8c 5s]
+*** PRE-FLOP *** 
+Djaydouille raises 1070 to 1130 and is all-in
+sabre_laser folds
+Djaydouille collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 2: Djaydouille (small blind) (button) won 1190
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479107016367800321-21-1425245996 - Holdem no limit (30/60) - 2015/03/01 21:39:56 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (310)
+Seat 2: Djaydouille (1190)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Djaydouille posts big blind 60
+Dealt to sabre_laser [Js 3d]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Djaydouille checks
+*** FLOP *** [Tc 8d Kc]
+Djaydouille checks
+sabre_laser checks
+*** TURN *** [Tc 8d Kc][Qc]
+Djaydouille checks
+sabre_laser bets 60
+Djaydouille folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Tc 8d Kc Qc]
+Seat 1: sabre_laser (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479107016367800321-22-1425246021 - Holdem no limit (30/60) - 2015/03/01 21:40:21 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (370)
+Seat 2: Djaydouille (1130)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [6d 4h]
+*** PRE-FLOP *** 
+Djaydouille raises 60 to 120
+sabre_laser calls 60
+*** FLOP *** [Ac Td 8d]
+sabre_laser checks
+Djaydouille bets 1010 and is all-in
+sabre_laser folds
+Djaydouille collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [Ac Td 8d]
+Seat 2: Djaydouille (small blind) (button) won 1250
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479107016367800321-23-1425246070 - Holdem no limit (30/60) - 2015/03/01 21:41:10 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (250)
+Seat 2: Djaydouille (1250)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Djaydouille posts big blind 60
+Dealt to sabre_laser [Kc Kh]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 120
+Djaydouille raises 1130 to 1250 and is all-in
+sabre_laser calls 130 and is all-in
+*** FLOP *** [9d 5d 4h]
+*** TURN *** [9d 5d 4h][Qh]
+*** RIVER *** [9d 5d 4h Qh][2c]
+*** SHOW DOWN ***
+sabre_laser shows [Kc Kh] (One pair : Kings)
+Djaydouille shows [Kd Jd] (High card : King)
+Djaydouille collected 1000 from side pot 1
+sabre_laser collected 500 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9d 5d 4h Qh 2c]
+Seat 1: sabre_laser (small blind) (button) showed [Kc Kh] and won 500 with One pair : Kings
+Seat 2: Djaydouille (big blind) showed [Kd Jd] and won 1000 with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479107016367800321-24-1425246091 - Holdem no limit (30/60) - 2015/03/01 21:41:31 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (500)
+Seat 2: Djaydouille (1000)
+*** ANTE/BLINDS ***
+Djaydouille posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Kh 5s]
+*** PRE-FLOP *** 
+Djaydouille folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: sabre_laser (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479107016367800321-25-1425246098 - Holdem no limit (30/60) - 2015/03/01 21:41:38 UTC
+Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (530)
+Seat 2: Djaydouille (970)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Djaydouille posts big blind 60
+Dealt to sabre_laser [5d 7h]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Djaydouille checks
+*** FLOP *** [7d 4d 9c]
+Djaydouille bets 60
+sabre_laser calls 60
+*** TURN *** [7d 4d 9c][3h]
+Djaydouille bets 60
+sabre_laser calls 60
+*** RIVER *** [7d 4d 9c 3h][8c]
+Djaydouille bets 360
+sabre_laser calls 350 and is all-in
+*** SHOW DOWN ***
+sabre_laser shows [5d 7h] (One pair : 7)
+Djaydouille shows [6h 5h] (Straight 9 high)
+Djaydouille collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | No rake
+Board: [7d 4d 9c 3h 8c]
+Seat 1: sabre_laser (small blind) (button) showed [5d 7h] and lost with One pair : 7
+Seat 2: Djaydouille (big blind) showed [6h 5h] and won 1070 with Straight 9 high
+
+

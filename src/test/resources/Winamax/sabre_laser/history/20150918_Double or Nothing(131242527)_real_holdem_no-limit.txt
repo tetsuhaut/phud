@@ -1,0 +1,2041 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563682361309396993-1-1442600335 - Holdem no limit (10/20) - 2015/09/18 18:18:55 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stephalanie (1500)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1500)
+Seat 4: Bikon13 (1500)
+Seat 5: stylou91 (1500)
+Seat 6: FANTOMAS 59 (1500)
+Seat 7: Donkinou (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: cata  climse (1500)
+Seat 10: Llers62 (1500)
+*** ANTE/BLINDS ***
+help ckc posts small blind 10
+Bikon13 posts big blind 20
+Dealt to sabre_laser [9d 9s]
+*** PRE-FLOP *** 
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser raises 40 to 60
+cata  climse calls 60
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+*** FLOP *** [As 2s Th]
+sabre_laser bets 75
+cata  climse calls 75
+*** TURN *** [As 2s Th][Qd]
+sabre_laser bets 200
+cata  climse calls 200
+*** RIVER *** [As 2s Th Qd][3c]
+sabre_laser checks
+cata  climse checks
+*** SHOW DOWN ***
+sabre_laser shows [9d 9s] (One pair : 9)
+cata  climse shows [Ac Jc] (One pair : Aces)
+cata  climse collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [As 2s Th Qd 3c]
+Seat 8: sabre_laser showed [9d 9s] and lost with One pair : 9
+Seat 9: cata  climse showed [Ac Jc] and won 700 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563682361309396993-2-1442600425 - Holdem no limit (10/20) - 2015/09/18 18:20:25 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #3 is the button
+Seat 1: stephalanie (1500)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1490)
+Seat 4: Bikon13 (1480)
+Seat 5: stylou91 (1500)
+Seat 6: FANTOMAS 59 (1500)
+Seat 7: Donkinou (1500)
+Seat 8: sabre_laser (1165)
+Seat 9: cata  climse (1865)
+Seat 10: Llers62 (1500)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 10
+stylou91 posts big blind 20
+Dealt to sabre_laser [3h 8s]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 calls 20
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 checks
+*** FLOP *** [6d 5d Ks]
+stylou91 checks
+Llers62 bets 50
+stylou91 folds
+Llers62 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [6d 5d Ks]
+Seat 10: Llers62 won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563682361309396993-3-1442600486 - Holdem no limit (10/20) - 2015/09/18 18:21:26 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #4 is the button
+Seat 1: stephalanie (1500)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1490)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1480)
+Seat 6: FANTOMAS 59 (1500)
+Seat 7: Donkinou (1500)
+Seat 8: sabre_laser (1165)
+Seat 9: cata  climse (1865)
+Seat 10: Llers62 (1530)
+*** ANTE/BLINDS ***
+stylou91 posts small blind 10
+FANTOMAS 59 posts big blind 20
+Dealt to sabre_laser [Kd 3h]
+*** PRE-FLOP *** 
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 calls 20
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 checks
+*** FLOP *** [8c Ad 7c]
+FANTOMAS 59 checks
+Llers62 bets 50
+FANTOMAS 59 folds
+Llers62 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8c Ad 7c]
+Seat 10: Llers62 won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563682361309396993-4-1442600536 - Holdem no limit (10/20) - 2015/09/18 18:22:16 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stephalanie (1500)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1490)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1470)
+Seat 6: FANTOMAS 59 (1480)
+Seat 7: Donkinou (1500)
+Seat 8: sabre_laser (1165)
+Seat 9: cata  climse (1865)
+Seat 10: Llers62 (1560)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts small blind 10
+Donkinou posts big blind 20
+Dealt to sabre_laser [7h 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+cata  climse folds
+Llers62 calls 20
+stephalanie calls 20
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou checks
+*** FLOP *** [5c 9s Kh]
+Donkinou checks
+Llers62 bets 70
+stephalanie folds
+Donkinou folds
+Llers62 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [5c 9s Kh]
+Seat 10: Llers62 won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563682361309396993-5-1442600587 - Holdem no limit (10/20) - 2015/09/18 18:23:07 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #6 is the button
+Seat 1: stephalanie (1480)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1490)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1470)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1480)
+Seat 8: sabre_laser (1165)
+Seat 9: cata  climse (1865)
+Seat 10: Llers62 (1610)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [3c 6h]
+*** PRE-FLOP *** 
+cata  climse folds
+Llers62 calls 20
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 calls 20
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser checks
+*** FLOP *** [5c 4d 7s]
+sabre_laser checks
+Llers62 bets 70
+stylou91 calls 70
+sabre_laser calls 70
+*** TURN *** [5c 4d 7s][9c]
+sabre_laser checks
+Llers62 bets 140
+stylou91 folds
+sabre_laser calls 140
+*** RIVER *** [5c 4d 7s 9c][Qc]
+sabre_laser bets 170
+Llers62 calls 170
+*** SHOW DOWN ***
+Llers62 shows [Js 9h] (One pair : 9)
+sabre_laser shows [3c 6h] (Straight 7 high)
+sabre_laser collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 4d 7s 9c Qc]
+Seat 8: sabre_laser (big blind) showed [3c 6h] and won 900 with Straight 7 high
+Seat 10: Llers62 showed [Js 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563682361309396993-6-1442600713 - Holdem no limit (15/30) - 2015/09/18 18:25:13 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #7 is the button
+Seat 1: stephalanie (1480)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1490)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1380)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1470)
+Seat 8: sabre_laser (1665)
+Seat 9: cata  climse (1865)
+Seat 10: Llers62 (1210)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+cata  climse posts big blind 30
+Dealt to sabre_laser [Js 5s]
+*** PRE-FLOP *** 
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 raises 60 to 90
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stylou91 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 5: stylou91 won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563682361309396993-7-1442600766 - Holdem no limit (15/30) - 2015/09/18 18:26:06 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stephalanie (1480)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1490)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1425)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1470)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1835)
+Seat 10: Llers62 (1210)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 15
+Llers62 posts big blind 30
+Dealt to sabre_laser [Qc 2c]
+*** PRE-FLOP *** 
+stephalanie folds
+G_ZU folds
+help ckc calls 30
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 checks
+*** FLOP *** [8c 3d Ac]
+Llers62 bets 75
+help ckc raises 225 to 300
+Llers62 folds
+help ckc collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [8c 3d Ac]
+Seat 3: help ckc won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563682361309396993-8-1442600821 - Holdem no limit (15/30) - 2015/09/18 18:27:01 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stephalanie (1480)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1610)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1425)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1470)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1105)
+*** ANTE/BLINDS ***
+Llers62 posts small blind 15
+stephalanie posts big blind 30
+Dealt to sabre_laser [3s 2s]
+*** PRE-FLOP *** 
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 calls 30
+FANTOMAS 59 folds
+Donkinou calls 30
+sabre_laser folds
+cata  climse folds
+Llers62 calls 15
+stephalanie checks
+*** FLOP *** [5c 8s 5s]
+Llers62 bets 30
+stephalanie calls 30
+stylou91 calls 30
+Donkinou calls 30
+*** TURN *** [5c 8s 5s][Ks]
+Llers62 checks
+stephalanie checks
+stylou91 checks
+Donkinou checks
+*** RIVER *** [5c 8s 5s Ks][4c]
+Llers62 checks
+stephalanie bets 45
+stylou91 folds
+Donkinou calls 45
+Llers62 folds
+*** SHOW DOWN ***
+stephalanie shows [5h 3c] (Trips of 5)
+Donkinou shows [Qs As] (Flush Ace high)
+Donkinou collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [5c 8s 5s Ks 4c]
+Seat 1: stephalanie (big blind) showed [5h 3c] and lost with Trips of 5
+Seat 7: Donkinou showed [Qs As] and won 330 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563682361309396993-9-1442600930 - Holdem no limit (15/30) - 2015/09/18 18:28:50 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #10 is the button
+Seat 1: stephalanie (1375)
+Seat 2: G_ZU (1500)
+Seat 3: help ckc (1610)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1365)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1695)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1045)
+*** ANTE/BLINDS ***
+stephalanie posts small blind 15
+G_ZU posts big blind 30
+Dealt to sabre_laser [9c 4h]
+*** PRE-FLOP *** 
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 raises 1015 to 1045 and is all-in
+stephalanie folds
+G_ZU folds
+Llers62 collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Seat 10: Llers62 (button) won 1090
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563682361309396993-10-1442600982 - Holdem no limit (15/30) - 2015/09/18 18:29:42 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stephalanie (1360)
+Seat 2: G_ZU (1470)
+Seat 3: help ckc (1610)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1365)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1695)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1090)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 15
+help ckc posts big blind 30
+Dealt to sabre_laser [4c 6d]
+*** PRE-FLOP *** 
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou raises 53 to 83
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc folds
+Donkinou collected 128 from pot
+*** SUMMARY ***
+Total pot 128 | No rake
+Seat 7: Donkinou won 128
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563682361309396993-11-1442601015 - Holdem no limit (15/30) - 2015/09/18 18:30:15 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stephalanie (1360)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1470)
+Seat 5: stylou91 (1365)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1740)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1090)
+*** ANTE/BLINDS ***
+help ckc posts small blind 15
+Bikon13 posts big blind 30
+Dealt to sabre_laser [7d 8d]
+*** PRE-FLOP *** 
+stylou91 calls 30
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc calls 15
+Bikon13 checks
+*** FLOP *** [6h Kh Tc]
+help ckc bets 90
+Bikon13 folds
+stylou91 calls 90
+*** TURN *** [6h Kh Tc][Jc]
+help ckc bets 270
+stylou91 calls 270
+*** RIVER *** [6h Kh Tc Jc][Qd]
+help ckc bets 810
+stylou91 folds
+help ckc collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [6h Kh Tc Jc Qd]
+Seat 3: help ckc (small blind) won 1620
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563682361309396993-12-1442601110 - Holdem no limit (20/40) - 2015/09/18 18:31:50 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #3 is the button
+Seat 1: stephalanie (1360)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2000)
+Seat 4: Bikon13 (1440)
+Seat 5: stylou91 (975)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1740)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1090)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 20
+stylou91 posts big blind 40
+Dealt to sabre_laser [Kh 7d]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 calls 40
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 calls 20
+stylou91 checks
+*** FLOP *** [Td 7s 9d]
+Bikon13 checks
+stylou91 checks
+Llers62 bets 60
+Bikon13 folds
+stylou91 calls 60
+*** TURN *** [Td 7s 9d][2s]
+stylou91 checks
+Llers62 bets 100
+stylou91 calls 100
+*** RIVER *** [Td 7s 9d 2s][Ah]
+stylou91 checks
+Llers62 checks
+*** SHOW DOWN ***
+Llers62 shows [Jh 3h] (High card : Ace)
+stylou91 shows [Tc Qc] (One pair : Tens)
+stylou91 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Td 7s 9d 2s Ah]
+Seat 5: stylou91 (big blind) showed [Tc Qc] and won 440 with One pair : Tens
+Seat 10: Llers62 showed [Jh 3h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563682361309396993-13-1442601206 - Holdem no limit (20/40) - 2015/09/18 18:33:26 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #4 is the button
+Seat 1: stephalanie (1360)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2000)
+Seat 4: Bikon13 (1400)
+Seat 5: stylou91 (1215)
+Seat 6: FANTOMAS 59 (1470)
+Seat 7: Donkinou (1740)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (890)
+*** ANTE/BLINDS ***
+stylou91 posts small blind 20
+FANTOMAS 59 posts big blind 40
+Dealt to sabre_laser [7c Td]
+*** PRE-FLOP *** 
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie calls 40
+G_ZU folds
+help ckc calls 40
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 checks
+*** FLOP *** [7d Qd Kd]
+FANTOMAS 59 checks
+stephalanie bets 70
+help ckc raises 280 to 350
+FANTOMAS 59 folds
+stephalanie folds
+help ckc collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [7d Qd Kd]
+Seat 3: help ckc won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563682361309396993-14-1442601289 - Holdem no limit (20/40) - 2015/09/18 18:34:49 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stephalanie (1250)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2170)
+Seat 4: Bikon13 (1400)
+Seat 5: stylou91 (1195)
+Seat 6: FANTOMAS 59 (1430)
+Seat 7: Donkinou (1740)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (890)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts small blind 20
+Donkinou posts big blind 40
+Dealt to sabre_laser [3d 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 calls 40
+FANTOMAS 59 folds
+Donkinou checks
+*** FLOP *** [8h 7h 4h]
+Donkinou checks
+stylou91 checks
+*** TURN *** [8h 7h 4h][Js]
+Donkinou checks
+stylou91 checks
+*** RIVER *** [8h 7h 4h Js][Kh]
+Donkinou bets 100
+stylou91 folds
+Donkinou collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [8h 7h 4h Js Kh]
+Seat 7: Donkinou (big blind) won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563682361309396993-15-1442601358 - Holdem no limit (20/40) - 2015/09/18 18:35:58 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #6 is the button
+Seat 1: stephalanie (1250)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2170)
+Seat 4: Bikon13 (1400)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (1410)
+Seat 7: Donkinou (1800)
+Seat 8: sabre_laser (1650)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (890)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Qh 9d]
+*** PRE-FLOP *** 
+cata  climse folds
+Llers62 raises 850 to 890 and is all-in
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+Llers62 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 10: Llers62 won 950
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563682361309396993-16-1442601451 - Holdem no limit (30/60) - 2015/09/18 18:37:31 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #7 is the button
+Seat 1: stephalanie (1250)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2170)
+Seat 4: Bikon13 (1400)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (1410)
+Seat 7: Donkinou (1780)
+Seat 8: sabre_laser (1610)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (950)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+cata  climse posts big blind 60
+Dealt to sabre_laser [5h 2c]
+*** PRE-FLOP *** 
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: cata  climse (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563682361309396993-17-1442601489 - Holdem no limit (30/60) - 2015/09/18 18:38:09 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stephalanie (1250)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2170)
+Seat 4: Bikon13 (1400)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (1410)
+Seat 7: Donkinou (1780)
+Seat 8: sabre_laser (1580)
+Seat 9: cata  climse (1850)
+Seat 10: Llers62 (950)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 30
+Llers62 posts big blind 60
+Dealt to sabre_laser [Kc 2s]
+*** PRE-FLOP *** 
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou calls 60
+sabre_laser folds
+cata  climse folds
+Llers62 checks
+*** FLOP *** [Th 3h 9d]
+Llers62 checks
+Donkinou checks
+*** TURN *** [Th 3h 9d][Ac]
+Llers62 bets 150
+Donkinou folds
+Llers62 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Th 3h 9d Ac]
+Seat 10: Llers62 (big blind) won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563682361309396993-18-1442601571 - Holdem no limit (30/60) - 2015/09/18 18:39:31 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stephalanie (1250)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2170)
+Seat 4: Bikon13 (1400)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (1410)
+Seat 7: Donkinou (1720)
+Seat 8: sabre_laser (1580)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1040)
+*** ANTE/BLINDS ***
+Llers62 posts small blind 30
+stephalanie posts big blind 60
+Dealt to sabre_laser [4s 2s]
+*** PRE-FLOP *** 
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 raises 60 to 120
+stephalanie calls 60
+*** FLOP *** [Kh Jd 6c]
+Llers62 bets 120
+stephalanie folds
+Llers62 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kh Jd 6c]
+Seat 10: Llers62 (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563682361309396993-19-1442601613 - Holdem no limit (30/60) - 2015/09/18 18:40:13 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #10 is the button
+Seat 1: stephalanie (1130)
+Seat 2: G_ZU (1455)
+Seat 3: help ckc (2170)
+Seat 4: Bikon13 (1400)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (1410)
+Seat 7: Donkinou (1720)
+Seat 8: sabre_laser (1580)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1160)
+*** ANTE/BLINDS ***
+stephalanie posts small blind 30
+G_ZU posts big blind 60
+Dealt to sabre_laser [3d Th]
+*** PRE-FLOP *** 
+help ckc folds
+Bikon13 raises 90 to 150
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+Bikon13 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: Bikon13 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563682361309396993-20-1442601660 - Holdem no limit (30/60) - 2015/09/18 18:41:00 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stephalanie (1100)
+Seat 2: G_ZU (1395)
+Seat 3: help ckc (2170)
+Seat 4: Bikon13 (1490)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (1410)
+Seat 7: Donkinou (1720)
+Seat 8: sabre_laser (1580)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1160)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 30
+help ckc posts big blind 60
+Dealt to sabre_laser [7c 4d]
+*** PRE-FLOP *** 
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 raises 120 to 180
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc calls 120
+*** FLOP *** [As 5c 5s]
+help ckc bets 390
+FANTOMAS 59 raises 390 to 780
+help ckc calls 390
+*** TURN *** [As 5c 5s][8s]
+help ckc bets 1210 and is all-in
+FANTOMAS 59 calls 450 and is all-in
+*** RIVER *** [As 5c 5s 8s][7h]
+*** SHOW DOWN ***
+FANTOMAS 59 shows [Qs Ad] (Two pairs : Aces and 5)
+help ckc shows [9d 9s] (Two pairs : 9 and 5)
+help ckc collected 760 from side pot 1
+FANTOMAS 59 collected 2850 from main pot
+*** SUMMARY ***
+Total pot 3610 | No rake
+Board: [As 5c 5s 8s 7h]
+Seat 3: help ckc (big blind) showed [9d 9s] and won 760 with Two pairs : 9 and 5
+Seat 6: FANTOMAS 59 showed [Qs Ad] and won 2850 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563682361309396993-21-1442601746 - Holdem no limit (30/60) - 2015/09/18 18:42:26 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stephalanie (1100)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (760)
+Seat 4: Bikon13 (1490)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2850)
+Seat 7: Donkinou (1720)
+Seat 8: sabre_laser (1580)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1160)
+*** ANTE/BLINDS ***
+help ckc posts small blind 30
+Bikon13 posts big blind 60
+Dealt to sabre_laser [Ac 6c]
+*** PRE-FLOP *** 
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser raises 120 to 180
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 8: sabre_laser won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563682361309396993-22-1442601775 - Holdem no limit (40/80) - 2015/09/18 18:42:55 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #3 is the button
+Seat 1: stephalanie (1100)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (730)
+Seat 4: Bikon13 (1430)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2850)
+Seat 7: Donkinou (1720)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (1160)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 40
+stylou91 posts big blind 80
+Dealt to sabre_laser [Th 8s]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 raises 1080 to 1160 and is all-in
+stephalanie folds
+G_ZU folds
+help ckc calls 730 and is all-in
+Bikon13 folds
+stylou91 folds
+*** FLOP *** [3s Ah 7h]
+*** TURN *** [3s Ah 7h][Js]
+*** RIVER *** [3s Ah 7h Js][3h]
+*** SHOW DOWN ***
+help ckc shows [2h Qh] (Flush Ace high)
+Llers62 shows [6d 6h] (Two pairs : 6 and 3)
+Llers62 collected 430 from side pot 1
+help ckc collected 1580 from main pot
+*** SUMMARY ***
+Total pot 2010 | No rake
+Board: [3s Ah 7h Js 3h]
+Seat 3: help ckc (button) showed [2h Qh] and won 1580 with Flush Ace high
+Seat 10: Llers62 showed [6d 6h] and won 430 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563682361309396993-23-1442601827 - Holdem no limit (40/80) - 2015/09/18 18:43:47 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #4 is the button
+Seat 1: stephalanie (1100)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1075)
+Seat 6: FANTOMAS 59 (2850)
+Seat 7: Donkinou (1720)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (430)
+*** ANTE/BLINDS ***
+stylou91 posts small blind 40
+FANTOMAS 59 posts big blind 80
+Dealt to sabre_laser [4c 3s]
+*** PRE-FLOP *** 
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 calls 40
+FANTOMAS 59 checks
+*** FLOP *** [Qc 8c 9c]
+stylou91 checks
+FANTOMAS 59 checks
+*** TURN *** [Qc 8c 9c][6h]
+stylou91 checks
+FANTOMAS 59 checks
+*** RIVER *** [Qc 8c 9c 6h][3c]
+stylou91 checks
+FANTOMAS 59 checks
+*** SHOW DOWN ***
+FANTOMAS 59 shows [9d 7h] (One pair : 9)
+stylou91 shows [Qd Js] (One pair : Queens)
+stylou91 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Qc 8c 9c 6h 3c]
+Seat 5: stylou91 (small blind) showed [Qd Js] and won 160 with One pair : Queens
+Seat 6: FANTOMAS 59 (big blind) showed [9d 7h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563682361309396993-24-1442601885 - Holdem no limit (40/80) - 2015/09/18 18:44:45 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stephalanie (1100)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2770)
+Seat 7: Donkinou (1720)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (430)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts small blind 40
+Donkinou posts big blind 80
+Dealt to sabre_laser [Js 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+cata  climse folds
+Llers62 raises 350 to 430 and is all-in
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+Llers62 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 10: Llers62 won 550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563682361309396993-25-1442601925 - Holdem no limit (40/80) - 2015/09/18 18:45:25 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #6 is the button
+Seat 1: stephalanie (1100)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1640)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (550)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [4c Jd]
+*** PRE-FLOP *** 
+cata  climse folds
+Llers62 folds
+stephalanie raises 160 to 240
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+stephalanie collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: stephalanie won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563682361309396993-26-1442601971 - Holdem no limit (40/80) - 2015/09/18 18:46:11 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #7 is the button
+Seat 1: stephalanie (1220)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1590)
+Seat 9: cata  climse (1820)
+Seat 10: Llers62 (550)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+cata  climse posts big blind 80
+Dealt to sabre_laser [3c Jd]
+*** PRE-FLOP *** 
+Llers62 raises 470 to 550 and is all-in
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 10: Llers62 won 670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563682361309396993-27-1442602008 - Holdem no limit (40/80) - 2015/09/18 18:46:48 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stephalanie (1220)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1550)
+Seat 9: cata  climse (1740)
+Seat 10: Llers62 (670)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 40
+Llers62 posts big blind 80
+Dealt to sabre_laser [7s 8s]
+*** PRE-FLOP *** 
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser raises 120 to 200
+cata  climse folds
+Llers62 folds
+sabre_laser collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 8: sabre_laser (button) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563682361309396993-28-1442602055 - Holdem no limit (40/80) - 2015/09/18 18:47:35 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stephalanie (1220)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1700)
+Seat 10: Llers62 (590)
+*** ANTE/BLINDS ***
+Llers62 posts small blind 40
+stephalanie posts big blind 80
+Dealt to sabre_laser [As Td]
+*** PRE-FLOP *** 
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: stephalanie (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563682361309396993-29-1442602136 - Holdem no limit (60/120) - 2015/09/18 18:48:56 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #10 is the button
+Seat 1: stephalanie (1260)
+Seat 2: G_ZU (1365)
+Seat 3: help ckc (1580)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1700)
+Seat 10: Llers62 (550)
+*** ANTE/BLINDS ***
+stephalanie posts small blind 60
+G_ZU posts big blind 120
+Dealt to sabre_laser [6d Ac]
+*** PRE-FLOP *** 
+help ckc calls 120
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie calls 60
+G_ZU checks
+*** FLOP *** [8c 7d Ad]
+stephalanie bets 180
+G_ZU folds
+help ckc raises 720 to 900
+stephalanie raises 240 to 1140 and is all-in
+help ckc calls 240
+*** TURN *** [8c 7d Ad][3d]
+*** RIVER *** [8c 7d Ad 3d][As]
+*** SHOW DOWN ***
+help ckc shows [Qs 9c] (One pair : Aces)
+stephalanie shows [Jd Td] (Flush Ace high)
+stephalanie collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [8c 7d Ad 3d As]
+Seat 1: stephalanie (small blind) showed [Jd Td] and won 2640 with Flush Ace high
+Seat 3: help ckc showed [Qs 9c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563682361309396993-30-1442602226 - Holdem no limit (60/120) - 2015/09/18 18:50:26 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1245)
+Seat 3: help ckc (320)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1700)
+Seat 10: Llers62 (550)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 60
+help ckc posts big blind 120
+Dealt to sabre_laser [6s 8c]
+*** PRE-FLOP *** 
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 folds
+stephalanie folds
+G_ZU folds
+help ckc collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: help ckc (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563682361309396993-31-1442602275 - Holdem no limit (60/120) - 2015/09/18 18:51:15 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1185)
+Seat 3: help ckc (380)
+Seat 4: Bikon13 (1390)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1700)
+Seat 10: Llers62 (550)
+*** ANTE/BLINDS ***
+help ckc posts small blind 60
+Bikon13 posts big blind 120
+Dealt to sabre_laser [Td 7d]
+*** PRE-FLOP *** 
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+Llers62 raises 430 to 550 and is all-in
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+Llers62 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Seat 10: Llers62 won 730
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563682361309396993-32-1442602333 - Holdem no limit (60/120) - 2015/09/18 18:52:13 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #3 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1185)
+Seat 3: help ckc (320)
+Seat 4: Bikon13 (1270)
+Seat 5: stylou91 (1155)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (1700)
+Seat 10: Llers62 (730)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 60
+stylou91 posts big blind 120
+Dealt to sabre_laser [8c Ts]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse raises 360 to 480
+Llers62 raises 250 to 730 and is all-in
+stephalanie folds
+G_ZU folds
+help ckc folds
+Bikon13 folds
+stylou91 folds
+cata  climse calls 250
+*** FLOP *** [9s Jh 4d]
+*** TURN *** [9s Jh 4d][6h]
+*** RIVER *** [9s Jh 4d 6h][Kc]
+*** SHOW DOWN ***
+Llers62 shows [Ad 8d] (High card : Ace)
+cata  climse shows [Ks Ah] (One pair : Kings)
+cata  climse collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Board: [9s Jh 4d 6h Kc]
+Seat 9: cata  climse showed [Ks Ah] and won 1640 with One pair : Kings
+Seat 10: Llers62 showed [Ad 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563682361309396993-33-1442602387 - Holdem no limit (60/120) - 2015/09/18 18:53:07 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #4 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1185)
+Seat 3: help ckc (320)
+Seat 4: Bikon13 (1210)
+Seat 5: stylou91 (1035)
+Seat 6: FANTOMAS 59 (2730)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+stylou91 posts small blind 60
+FANTOMAS 59 posts big blind 120
+Dealt to sabre_laser [Tc 6d]
+*** PRE-FLOP *** 
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie folds
+G_ZU folds
+help ckc calls 120
+Bikon13 folds
+stylou91 calls 60
+FANTOMAS 59 checks
+*** FLOP *** [Kc 6h 3c]
+stylou91 checks
+FANTOMAS 59 bets 180
+help ckc calls 180
+stylou91 folds
+*** TURN *** [Kc 6h 3c][4s]
+FANTOMAS 59 checks
+help ckc bets 20 and is all-in
+FANTOMAS 59 calls 20
+*** RIVER *** [Kc 6h 3c 4s][Kh]
+*** SHOW DOWN ***
+FANTOMAS 59 shows [8c Jc] (One pair : Kings)
+help ckc shows [Qh 5d] (One pair : Kings)
+help ckc collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Kc 6h 3c 4s Kh]
+Seat 3: help ckc showed [Qh 5d] and won 760 with One pair : Kings
+Seat 6: FANTOMAS 59 (big blind) showed [8c Jc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563682361309396993-34-1442602451 - Holdem no limit (60/120) - 2015/09/18 18:54:11 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1185)
+Seat 3: help ckc (760)
+Seat 4: Bikon13 (1210)
+Seat 5: stylou91 (915)
+Seat 6: FANTOMAS 59 (2410)
+Seat 7: Donkinou (1600)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts small blind 60
+Donkinou posts big blind 120
+Dealt to sabre_laser [6d 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+cata  climse folds
+stephalanie folds
+G_ZU folds
+help ckc calls 120
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 calls 60
+Donkinou checks
+*** FLOP *** [6s Kc Qs]
+FANTOMAS 59 checks
+Donkinou checks
+help ckc bets 640 and is all-in
+FANTOMAS 59 folds
+Donkinou folds
+help ckc collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [6s Kc Qs]
+Seat 3: help ckc won 1000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-35-1442602505 - Holdem no limit (80/160) - 2015/09/18 18:55:05 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #6 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1185)
+Seat 3: help ckc (1000)
+Seat 4: Bikon13 (1210)
+Seat 5: stylou91 (915)
+Seat 6: FANTOMAS 59 (2290)
+Seat 7: Donkinou (1480)
+Seat 8: sabre_laser (1670)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Qs 5h]
+*** PRE-FLOP *** 
+cata  climse folds
+stephalanie folds
+G_ZU folds
+help ckc calls 160
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser checks
+*** FLOP *** [4h 5s 4d]
+sabre_laser bets 1510 and is all-in
+help ckc calls 840 and is all-in
+*** TURN *** [4h 5s 4d][2s]
+*** RIVER *** [4h 5s 4d 2s][2h]
+*** SHOW DOWN ***
+help ckc shows [Ad 6d] (Two pairs : 4 and 2)
+sabre_laser shows [Qs 5h] (Two pairs : 5 and 4)
+sabre_laser collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Board: [4h 5s 4d 2s 2h]
+Seat 3: help ckc showed [Ad 6d] and lost with Two pairs : 4 and 2
+Seat 8: sabre_laser (big blind) showed [Qs 5h] and won 2750 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-36-1442602560 - Holdem no limit (80/160) - 2015/09/18 18:56:00 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #7 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1185)
+Seat 4: Bikon13 (1210)
+Seat 5: stylou91 (915)
+Seat 6: FANTOMAS 59 (2290)
+Seat 7: Donkinou (1400)
+Seat 8: sabre_laser (2750)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+cata  climse posts big blind 160
+Dealt to sabre_laser [4h 3c]
+*** PRE-FLOP *** 
+stephalanie folds
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 raises 240 to 400
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+FANTOMAS 59 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 6: FANTOMAS 59 won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-37-1442602590 - Holdem no limit (80/160) - 2015/09/18 18:56:30 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stephalanie (2640)
+Seat 2: G_ZU (1185)
+Seat 4: Bikon13 (1210)
+Seat 5: stylou91 (915)
+Seat 6: FANTOMAS 59 (2530)
+Seat 7: Donkinou (1400)
+Seat 8: sabre_laser (2670)
+Seat 9: cata  climse (2450)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 80
+stephalanie posts big blind 160
+Dealt to sabre_laser [9h Kc]
+*** PRE-FLOP *** 
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: stephalanie (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-38-1442602653 - Holdem no limit (80/160) - 2015/09/18 18:57:33 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stephalanie (2720)
+Seat 2: G_ZU (1185)
+Seat 4: Bikon13 (1210)
+Seat 5: stylou91 (915)
+Seat 6: FANTOMAS 59 (2530)
+Seat 7: Donkinou (1400)
+Seat 8: sabre_laser (2670)
+Seat 9: cata  climse (2370)
+*** ANTE/BLINDS ***
+stephalanie posts small blind 80
+G_ZU posts big blind 160
+Dealt to sabre_laser [Jh 9d]
+*** PRE-FLOP *** 
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie calls 80
+G_ZU raises 1025 to 1185 and is all-in
+stephalanie folds
+G_ZU collected 1345 from pot
+*** SUMMARY ***
+Total pot 1345 | No rake
+Seat 2: G_ZU (big blind) won 1345
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-39-1442602712 - Holdem no limit (80/160) - 2015/09/18 18:58:32 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stephalanie (2560)
+Seat 2: G_ZU (1345)
+Seat 4: Bikon13 (1210)
+Seat 5: stylou91 (915)
+Seat 6: FANTOMAS 59 (2530)
+Seat 7: Donkinou (1400)
+Seat 8: sabre_laser (2670)
+Seat 9: cata  climse (2370)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 80
+Bikon13 posts big blind 160
+Dealt to sabre_laser [2s Jc]
+*** PRE-FLOP *** 
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse raises 320 to 480
+stephalanie folds
+G_ZU folds
+Bikon13 folds
+cata  climse collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 9: cata  climse won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-40-1442602769 - Holdem no limit (80/160) - 2015/09/18 18:59:29 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stephalanie (2560)
+Seat 2: G_ZU (1265)
+Seat 4: Bikon13 (1050)
+Seat 5: stylou91 (915)
+Seat 6: FANTOMAS 59 (2530)
+Seat 7: Donkinou (1400)
+Seat 8: sabre_laser (2670)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+Bikon13 posts small blind 80
+stylou91 posts big blind 160
+Dealt to sabre_laser [Jc 7s]
+*** PRE-FLOP *** 
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie raises 320 to 480
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+stephalanie collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 1: stephalanie won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-41-1442602811 - Holdem no limit (80/160) - 2015/09/18 19:00:11 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #4 is the button
+Seat 1: stephalanie (2800)
+Seat 2: G_ZU (1265)
+Seat 4: Bikon13 (970)
+Seat 5: stylou91 (755)
+Seat 6: FANTOMAS 59 (2530)
+Seat 7: Donkinou (1400)
+Seat 8: sabre_laser (2670)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+stylou91 posts small blind 80
+FANTOMAS 59 posts big blind 160
+Dealt to sabre_laser [9s Qh]
+*** PRE-FLOP *** 
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie folds
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: FANTOMAS 59 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563682361309396993-42-1442602839 - Holdem no limit (80/160) - 2015/09/18 19:00:39 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stephalanie (2800)
+Seat 2: G_ZU (1265)
+Seat 4: Bikon13 (970)
+Seat 5: stylou91 (675)
+Seat 6: FANTOMAS 59 (2610)
+Seat 7: Donkinou (1400)
+Seat 8: sabre_laser (2670)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+FANTOMAS 59 posts small blind 80
+Donkinou posts big blind 160
+Dealt to sabre_laser [Ah Qd]
+*** PRE-FLOP *** 
+sabre_laser raises 160 to 320
+cata  climse folds
+stephalanie folds
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 folds
+Donkinou folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 8: sabre_laser won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563682361309396993-43-1442602889 - Holdem no limit (10/100/200) - 2015/09/18 19:01:29 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #6 is the button
+Seat 1: stephalanie (2800)
+Seat 2: G_ZU (1265)
+Seat 4: Bikon13 (970)
+Seat 5: stylou91 (675)
+Seat 6: FANTOMAS 59 (2530)
+Seat 7: Donkinou (1240)
+Seat 8: sabre_laser (2910)
+Seat 9: cata  climse (2610)
+*** ANTE/BLINDS ***
+Donkinou posts ante 10
+sabre_laser posts ante 10
+stephalanie posts ante 10
+G_ZU posts ante 10
+Bikon13 posts ante 10
+stylou91 posts ante 10
+FANTOMAS 59 posts ante 10
+cata  climse posts ante 10
+Donkinou posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Ad 3d]
+*** PRE-FLOP *** 
+cata  climse folds
+stephalanie folds
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+FANTOMAS 59 raises 200 to 400
+Donkinou folds
+sabre_laser calls 200
+*** FLOP *** [8d 3c 3s]
+sabre_laser checks
+FANTOMAS 59 checks
+*** TURN *** [8d 3c 3s][Td]
+sabre_laser bets 300
+FANTOMAS 59 raises 640 to 940
+sabre_laser raises 1560 to 2500 and is all-in
+FANTOMAS 59 calls 1180 and is all-in
+*** RIVER *** [8d 3c 3s Td][Js]
+*** SHOW DOWN ***
+FANTOMAS 59 shows [Ac Ah] (Two pairs : Aces and 3)
+sabre_laser shows [Ad 3d] (Trips of 3)
+sabre_laser collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | No rake
+Board: [8d 3c 3s Td Js]
+Seat 6: FANTOMAS 59 (button) showed [Ac Ah] and lost with Two pairs : Aces and 3
+Seat 8: sabre_laser (big blind) showed [Ad 3d] and won 5600 with Trips of 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563682361309396993-44-1442602985 - Holdem no limit (10/100/200) - 2015/09/18 19:03:05 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #7 is the button
+Seat 1: stephalanie (2790)
+Seat 2: G_ZU (1255)
+Seat 4: Bikon13 (960)
+Seat 5: stylou91 (665)
+Seat 7: Donkinou (1130)
+Seat 8: sabre_laser (5600)
+Seat 9: cata  climse (2600)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+cata  climse posts ante 10
+stephalanie posts ante 10
+G_ZU posts ante 10
+Bikon13 posts ante 10
+stylou91 posts ante 10
+Donkinou posts ante 10
+sabre_laser posts small blind 100
+cata  climse posts big blind 200
+Dealt to sabre_laser [3s Ac]
+*** PRE-FLOP *** 
+stephalanie folds
+G_ZU folds
+Bikon13 folds
+stylou91 raises 455 to 655 and is all-in
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stylou91 collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 5: stylou91 won 1025
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563682361309396993-45-1442603045 - Holdem no limit (10/100/200) - 2015/09/18 19:04:05 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stephalanie (2780)
+Seat 2: G_ZU (1245)
+Seat 4: Bikon13 (950)
+Seat 5: stylou91 (1025)
+Seat 7: Donkinou (1120)
+Seat 8: sabre_laser (5490)
+Seat 9: cata  climse (2390)
+*** ANTE/BLINDS ***
+cata  climse posts ante 10
+stephalanie posts ante 10
+G_ZU posts ante 10
+Bikon13 posts ante 10
+stylou91 posts ante 10
+Donkinou posts ante 10
+sabre_laser posts ante 10
+cata  climse posts small blind 100
+stephalanie posts big blind 200
+Dealt to sabre_laser [8c Tc]
+*** PRE-FLOP *** 
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: stephalanie (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563682361309396993-46-1442603099 - Holdem no limit (10/100/200) - 2015/09/18 19:04:59 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stephalanie (2940)
+Seat 2: G_ZU (1235)
+Seat 4: Bikon13 (940)
+Seat 5: stylou91 (1015)
+Seat 7: Donkinou (1110)
+Seat 8: sabre_laser (5480)
+Seat 9: cata  climse (2280)
+*** ANTE/BLINDS ***
+stephalanie posts ante 10
+G_ZU posts ante 10
+Bikon13 posts ante 10
+stylou91 posts ante 10
+Donkinou posts ante 10
+sabre_laser posts ante 10
+cata  climse posts ante 10
+stephalanie posts small blind 100
+G_ZU posts big blind 200
+Dealt to sabre_laser [Qc 6h]
+*** PRE-FLOP *** 
+Bikon13 folds
+stylou91 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie raises 400 to 600
+G_ZU folds
+stephalanie collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 1: stephalanie (small blind) won 870
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563682361309396993-47-1442603139 - Holdem no limit (10/100/200) - 2015/09/18 19:05:39 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stephalanie (3200)
+Seat 2: G_ZU (1025)
+Seat 4: Bikon13 (930)
+Seat 5: stylou91 (1005)
+Seat 7: Donkinou (1100)
+Seat 8: sabre_laser (5470)
+Seat 9: cata  climse (2270)
+*** ANTE/BLINDS ***
+G_ZU posts ante 10
+Bikon13 posts ante 10
+stephalanie posts ante 10
+stylou91 posts ante 10
+Donkinou posts ante 10
+sabre_laser posts ante 10
+cata  climse posts ante 10
+G_ZU posts small blind 100
+Bikon13 posts big blind 200
+Dealt to sabre_laser [Td Ad]
+*** PRE-FLOP *** 
+stylou91 folds
+Donkinou folds
+sabre_laser raises 200 to 400
+cata  climse folds
+stephalanie folds
+G_ZU folds
+Bikon13 folds
+sabre_laser collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 8: sabre_laser won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563682361309396993-48-1442603171 - Holdem no limit (10/100/200) - 2015/09/18 19:06:11 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stephalanie (3190)
+Seat 2: G_ZU (915)
+Seat 4: Bikon13 (720)
+Seat 5: stylou91 (995)
+Seat 7: Donkinou (1090)
+Seat 8: sabre_laser (5830)
+Seat 9: cata  climse (2260)
+*** ANTE/BLINDS ***
+Bikon13 posts ante 10
+stylou91 posts ante 10
+stephalanie posts ante 10
+G_ZU posts ante 10
+Donkinou posts ante 10
+sabre_laser posts ante 10
+cata  climse posts ante 10
+Bikon13 posts small blind 100
+stylou91 posts big blind 200
+Dealt to sabre_laser [5c 9c]
+*** PRE-FLOP *** 
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie raises 400 to 600
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+stephalanie collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | No rake
+Seat 1: stephalanie won 970
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563682361309396993-49-1442603211 - Holdem no limit (10/100/200) - 2015/09/18 19:06:51 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #4 is the button
+Seat 1: stephalanie (3550)
+Seat 2: G_ZU (905)
+Seat 4: Bikon13 (610)
+Seat 5: stylou91 (785)
+Seat 7: Donkinou (1080)
+Seat 8: sabre_laser (5820)
+Seat 9: cata  climse (2250)
+*** ANTE/BLINDS ***
+stylou91 posts ante 10
+Donkinou posts ante 10
+stephalanie posts ante 10
+G_ZU posts ante 10
+Bikon13 posts ante 10
+sabre_laser posts ante 10
+cata  climse posts ante 10
+stylou91 posts small blind 100
+Donkinou posts big blind 200
+Dealt to sabre_laser [6c Ac]
+*** PRE-FLOP *** 
+sabre_laser folds
+cata  climse folds
+stephalanie raises 400 to 600
+G_ZU folds
+Bikon13 folds
+stylou91 folds
+Donkinou folds
+stephalanie collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | No rake
+Seat 1: stephalanie won 970
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563682361309396993-50-1442603272 - Holdem no limit (20/150/300) - 2015/09/18 19:07:52 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stephalanie (3910)
+Seat 2: G_ZU (895)
+Seat 4: Bikon13 (600)
+Seat 5: stylou91 (675)
+Seat 7: Donkinou (870)
+Seat 8: sabre_laser (5810)
+Seat 9: cata  climse (2240)
+*** ANTE/BLINDS ***
+Donkinou posts ante 20
+sabre_laser posts ante 20
+stephalanie posts ante 20
+G_ZU posts ante 20
+Bikon13 posts ante 20
+stylou91 posts ante 20
+cata  climse posts ante 20
+Donkinou posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [2d Jd]
+*** PRE-FLOP *** 
+cata  climse folds
+stephalanie folds
+G_ZU folds
+Bikon13 raises 280 to 580 and is all-in
+stylou91 folds
+Donkinou folds
+sabre_laser calls 280
+*** FLOP *** [Jh Kh 6c]
+*** TURN *** [Jh Kh 6c][9d]
+*** RIVER *** [Jh Kh 6c 9d][5c]
+*** SHOW DOWN ***
+Bikon13 shows [9c Tc] (One pair : 9)
+sabre_laser shows [2d Jd] (One pair : Jacks)
+sabre_laser collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [Jh Kh 6c 9d 5c]
+Seat 4: Bikon13 showed [9c Tc] and lost with One pair : 9
+Seat 8: sabre_laser (big blind) showed [2d Jd] and won 1450 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563682361309396993-51-1442603345 - Holdem no limit (20/150/300) - 2015/09/18 19:09:05 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #7 is the button
+Seat 1: stephalanie (3890)
+Seat 2: G_ZU (875)
+Seat 5: stylou91 (655)
+Seat 7: Donkinou (700)
+Seat 8: sabre_laser (6660)
+Seat 9: cata  climse (2220)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+cata  climse posts ante 20
+stephalanie posts ante 20
+G_ZU posts ante 20
+stylou91 posts ante 20
+Donkinou posts ante 20
+sabre_laser posts small blind 150
+cata  climse posts big blind 300
+Dealt to sabre_laser [5c Th]
+*** PRE-FLOP *** 
+stephalanie folds
+G_ZU folds
+stylou91 folds
+Donkinou folds
+sabre_laser folds
+cata  climse collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 9: cata  climse (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563682361309396993-52-1442603379 - Holdem no limit (20/150/300) - 2015/09/18 19:09:39 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stephalanie (3870)
+Seat 2: G_ZU (855)
+Seat 5: stylou91 (635)
+Seat 7: Donkinou (680)
+Seat 8: sabre_laser (6490)
+Seat 9: cata  climse (2470)
+*** ANTE/BLINDS ***
+cata  climse posts ante 20
+stephalanie posts ante 20
+G_ZU posts ante 20
+stylou91 posts ante 20
+Donkinou posts ante 20
+sabre_laser posts ante 20
+cata  climse posts small blind 150
+stephalanie posts big blind 300
+Dealt to sabre_laser [As 6d]
+*** PRE-FLOP *** 
+G_ZU folds
+stylou91 folds
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 1: stephalanie (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563682361309396993-53-1442603405 - Holdem no limit (20/150/300) - 2015/09/18 19:10:05 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stephalanie (4120)
+Seat 2: G_ZU (835)
+Seat 5: stylou91 (615)
+Seat 7: Donkinou (660)
+Seat 8: sabre_laser (6470)
+Seat 9: cata  climse (2300)
+*** ANTE/BLINDS ***
+stephalanie posts ante 20
+G_ZU posts ante 20
+stylou91 posts ante 20
+Donkinou posts ante 20
+sabre_laser posts ante 20
+cata  climse posts ante 20
+stephalanie posts small blind 150
+G_ZU posts big blind 300
+Dealt to sabre_laser [Ad 9c]
+*** PRE-FLOP *** 
+stylou91 folds
+Donkinou raises 340 to 640 and is all-in
+sabre_laser calls 640
+cata  climse folds
+stephalanie folds
+G_ZU folds
+*** FLOP *** [7d 8s 4d]
+*** TURN *** [7d 8s 4d][7h]
+*** RIVER *** [7d 8s 4d 7h][Qs]
+*** SHOW DOWN ***
+sabre_laser shows [Ad 9c] (One pair : 7)
+Donkinou shows [Ac Ah] (Two pairs : Aces and 7)
+Donkinou collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [7d 8s 4d 7h Qs]
+Seat 7: Donkinou showed [Ac Ah] and won 1850 with Two pairs : Aces and 7
+Seat 8: sabre_laser showed [Ad 9c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563682361309396993-54-1442603457 - Holdem no limit (20/150/300) - 2015/09/18 19:10:57 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stephalanie (3950)
+Seat 2: G_ZU (515)
+Seat 5: stylou91 (595)
+Seat 7: Donkinou (1850)
+Seat 8: sabre_laser (5810)
+Seat 9: cata  climse (2280)
+*** ANTE/BLINDS ***
+G_ZU posts ante 20
+stylou91 posts ante 20
+stephalanie posts ante 20
+Donkinou posts ante 20
+sabre_laser posts ante 20
+cata  climse posts ante 20
+G_ZU posts small blind 150
+stylou91 posts big blind 300
+Dealt to sabre_laser [2d 2s]
+*** PRE-FLOP *** 
+Donkinou folds
+sabre_laser folds
+cata  climse folds
+stephalanie folds
+G_ZU raises 195 to 495 and is all-in
+stylou91 calls 195
+*** FLOP *** [8d Ks 6h]
+*** TURN *** [8d Ks 6h][9h]
+*** RIVER *** [8d Ks 6h 9h][9s]
+*** SHOW DOWN ***
+stylou91 shows [Td 3c] (One pair : 9)
+G_ZU shows [9c 6c] (Full of 9 and 6)
+G_ZU collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [8d Ks 6h 9h 9s]
+Seat 2: G_ZU (small blind) showed [9c 6c] and won 1110 with Full of 9 and 6
+Seat 5: stylou91 (big blind) showed [Td 3c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563682361309396993-55-1442603492 - Holdem no limit (20/150/300) - 2015/09/18 19:11:32 UTC
+Table: 'Double or Nothing(131242527)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stephalanie (3930)
+Seat 2: G_ZU (1110)
+Seat 5: stylou91 (80)
+Seat 7: Donkinou (1830)
+Seat 8: sabre_laser (5790)
+Seat 9: cata  climse (2260)
+*** ANTE/BLINDS ***
+stylou91 posts ante 20
+Donkinou posts ante 20
+stephalanie posts ante 20
+G_ZU posts ante 20
+sabre_laser posts ante 20
+cata  climse posts ante 20
+stylou91 posts small blind 60 and is all-in
+Donkinou posts big blind 300
+Dealt to sabre_laser [Tc 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+cata  climse folds
+stephalanie folds
+G_ZU folds
+*** FLOP *** [Qh 4d 9h]
+*** TURN *** [Qh 4d 9h][Ks]
+*** RIVER *** [Qh 4d 9h Ks][2d]
+*** SHOW DOWN ***
+stylou91 shows [5d 8d] (High card : King)
+Donkinou shows [4c Jh] (One pair : 4)
+Donkinou collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh 4d 9h Ks 2d]
+Seat 5: stylou91 (small blind) showed [5d 8d] and lost with High card : King
+Seat 7: Donkinou (big blind) showed [4c Jh] and won 480 with One pair : 4
+
+

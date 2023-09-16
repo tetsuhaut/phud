@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #556703443180322817-1-1441407885 - Holdem no limit (10/20) - 2015/09/04 23:04:45 UTC
+Table: 'Starting Block - Deglingos(129617621)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Virgin000 (500)
+Seat 2: Num33 (500)
+Seat 3: Jmarc. 83 (500)
+Seat 4: leriche78 (500)
+Seat 5: sabre_laser (500)
+Seat 6: FUmogo (500)
+Seat 7: seb 031 (500)
+Seat 8: fedor66 (500)
+Seat 9: ISMAGAGA_AK (500)
+Seat 10: ulfar (500)
+*** ANTE/BLINDS ***
+FUmogo posts small blind 10
+seb 031 posts big blind 20
+Dealt to sabre_laser [9h 9d]
+*** PRE-FLOP *** 
+fedor66 folds
+ISMAGAGA_AK calls 20
+ulfar folds
+Virgin000 calls 20
+Num33 folds
+Jmarc. 83 calls 20
+leriche78 folds
+sabre_laser raises 480 to 500 and is all-in
+FUmogo folds
+seb 031 folds
+ISMAGAGA_AK calls 480 and is all-in
+Virgin000 folds
+Jmarc. 83 calls 480 and is all-in
+*** FLOP *** [5c Ad 5d]
+*** TURN *** [5c Ad 5d][Jc]
+*** RIVER *** [5c Ad 5d Jc][Qs]
+*** SHOW DOWN ***
+sabre_laser shows [9h 9d] (Two pairs : 9 and 5)
+ISMAGAGA_AK shows [8s 8h] (Two pairs : 8 and 5)
+Jmarc. 83 shows [Kc Th] (Straight Ace high)
+Jmarc. 83 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [5c Ad 5d Jc Qs]
+Seat 3: Jmarc. 83 showed [Kc Th] and won 1550 with Straight Ace high
+Seat 5: sabre_laser (button) showed [9h 9d] and lost with Two pairs : 9 and 5
+Seat 9: ISMAGAGA_AK showed [8s 8h] and lost with Two pairs : 8 and 5
+
+

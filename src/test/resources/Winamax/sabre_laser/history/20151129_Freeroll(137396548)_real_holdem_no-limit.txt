@@ -1,0 +1,1174 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #590113680243294498-10-1448753082 - Holdem no limit (30/60) - 2015/11/28 23:24:42 UTC
+Table: 'Freeroll(137396548)#289' 8-max (real money) Seat #7 is the button
+Seat 1: MALONE08 (1680)
+Seat 2: TaPaLesNerfs (3145)
+Seat 3: sudiste55 (3000)
+Seat 4: sabre_laser (3000)
+Seat 5: didimakol01 (2145)
+Seat 6: reeks (8610)
+Seat 7: LA-FOUDRE-88 (8460)
+Seat 8: BOUL-07 (11960)
+*** ANTE/BLINDS ***
+BOUL-07 posts small blind 30
+MALONE08 posts big blind 60
+Dealt to sabre_laser [Qc Qs]
+*** PRE-FLOP *** 
+TaPaLesNerfs folds
+sudiste55 raises 2940 to 3000 and is all-in
+sabre_laser calls 3000 and is all-in
+didimakol01 folds
+reeks folds
+LA-FOUDRE-88 folds
+BOUL-07 folds
+MALONE08 folds
+*** FLOP *** [9s 6c As]
+*** TURN *** [9s 6c As][Ts]
+*** RIVER *** [9s 6c As Ts][Ks]
+*** SHOW DOWN ***
+sudiste55 shows [3h 8c] (High card : Ace)
+sabre_laser shows [Qc Qs] (Flush Ace high)
+sabre_laser collected 6090 from pot
+*** SUMMARY ***
+Total pot 6090 | No rake
+Board: [9s 6c As Ts Ks]
+Seat 3: sudiste55 showed [3h 8c] and lost with High card : Ace
+Seat 4: sabre_laser showed [Qc Qs] and won 6090 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #590113680243294498-11-1448753114 - Holdem no limit (30/60) - 2015/11/28 23:25:14 UTC
+Table: 'Freeroll(137396548)#289' 8-max (real money) Seat #8 is the button
+Seat 1: MALONE08 (1620)
+Seat 2: TaPaLesNerfs (3145)
+Seat 3: glawdiss (3000)
+Seat 4: sabre_laser (6090)
+Seat 5: didimakol01 (2145)
+Seat 6: reeks (8610)
+Seat 7: LA-FOUDRE-88 (8460)
+Seat 8: BOUL-07 (11930)
+*** ANTE/BLINDS ***
+MALONE08 posts small blind 30
+TaPaLesNerfs posts big blind 60
+Dealt to sabre_laser [7s 6d]
+*** PRE-FLOP *** 
+glawdiss calls 60
+sabre_laser folds
+didimakol01 calls 60
+reeks calls 60
+LA-FOUDRE-88 calls 60
+BOUL-07 folds
+MALONE08 raises 1560 to 1620 and is all-in
+TaPaLesNerfs folds
+glawdiss folds
+didimakol01 folds
+reeks folds
+LA-FOUDRE-88 calls 1560
+*** FLOP *** [Jc Qh 9d]
+*** TURN *** [Jc Qh 9d][7c]
+*** RIVER *** [Jc Qh 9d 7c][2s]
+*** SHOW DOWN ***
+LA-FOUDRE-88 shows [8d Kc] (High card : King)
+MALONE08 shows [Js Ah] (One pair : Jacks)
+MALONE08 collected 3480 from pot
+*** SUMMARY ***
+Total pot 3480 | No rake
+Board: [Jc Qh 9d 7c 2s]
+Seat 1: MALONE08 (small blind) showed [Js Ah] and won 3480 with One pair : Jacks
+Seat 7: LA-FOUDRE-88 showed [8d Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #590113680243294498-12-1448753186 - Holdem no limit (30/60) - 2015/11/28 23:26:26 UTC
+Table: 'Freeroll(137396548)#289' 8-max (real money) Seat #1 is the button
+Seat 1: MALONE08 (3480)
+Seat 2: TaPaLesNerfs (3085)
+Seat 3: glawdiss (2940)
+Seat 4: sabre_laser (6090)
+Seat 5: didimakol01 (2085)
+Seat 6: reeks (8550)
+Seat 7: LA-FOUDRE-88 (6840)
+Seat 8: BOUL-07 (11930)
+*** ANTE/BLINDS ***
+TaPaLesNerfs posts small blind 30
+glawdiss posts big blind 60
+Dealt to sabre_laser [Jd 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+didimakol01 calls 60
+reeks calls 60
+LA-FOUDRE-88 calls 60
+BOUL-07 folds
+MALONE08 folds
+TaPaLesNerfs calls 30
+glawdiss checks
+*** FLOP *** [2h Jh Jc]
+TaPaLesNerfs bets 60
+glawdiss calls 60
+didimakol01 folds
+reeks raises 480 to 540
+LA-FOUDRE-88 folds
+TaPaLesNerfs calls 480
+glawdiss folds
+*** TURN *** [2h Jh Jc][5d]
+TaPaLesNerfs checks
+reeks bets 2550
+TaPaLesNerfs calls 2485 and is all-in
+*** RIVER *** [2h Jh Jc 5d][Qs]
+*** SHOW DOWN ***
+TaPaLesNerfs shows [7h 8h] (One pair : Jacks)
+reeks shows [Tc Js] (Trips of Jacks)
+reeks collected 6475 from pot
+*** SUMMARY ***
+Total pot 6475 | No rake
+Board: [2h Jh Jc 5d Qs]
+Seat 2: TaPaLesNerfs (small blind) showed [7h 8h] and lost with One pair : Jacks
+Seat 6: reeks showed [Tc Js] and won 6475 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #590113680243294498-13-1448753368 - Holdem no limit (40/80) - 2015/11/28 23:29:28 UTC
+Table: 'Freeroll(137396548)#289' 8-max (real money) Seat #2 is the button
+Seat 1: MALONE08 (3480)
+Seat 3: glawdiss (2820)
+Seat 4: sabre_laser (6090)
+Seat 5: didimakol01 (2025)
+Seat 6: reeks (11875)
+Seat 7: LA-FOUDRE-88 (6780)
+Seat 8: BOUL-07 (11930)
+*** ANTE/BLINDS ***
+glawdiss posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Qs 5d]
+*** PRE-FLOP *** 
+didimakol01 calls 80
+reeks folds
+LA-FOUDRE-88 folds
+BOUL-07 folds
+MALONE08 folds
+glawdiss raises 2740 to 2820 and is all-in
+sabre_laser folds
+didimakol01 folds
+glawdiss collected 2980 from pot
+*** SUMMARY ***
+Total pot 2980 | No rake
+Seat 3: glawdiss (small blind) won 2980
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #590113680243294386-10-1448753427 - Holdem no limit (60/120) - 2015/11/28 23:30:27 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (6010)
+Seat 2: sidcaro (3095)
+Seat 3: tinoco x (2955)
+Seat 4: Vivajean69 (8585)
+Seat 5: Afrenchkiss (2740)
+Seat 6: Runrunbaby (3030)
+Seat 7: komisaras (3395)
+Seat 8: myrtille88 (3200)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+sidcaro posts big blind 120
+Dealt to sabre_laser [Th Ks]
+*** PRE-FLOP *** 
+tinoco x folds
+Vivajean69 folds
+Afrenchkiss folds
+Runrunbaby folds
+komisaras folds
+myrtille88 folds
+sabre_laser calls 60
+sidcaro checks
+*** FLOP *** [3s Ah 6h]
+sabre_laser bets 120
+sidcaro folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3s Ah 6h]
+Seat 1: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #590113680243294386-11-1448753509 - Holdem no limit (60/120) - 2015/11/28 23:31:49 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (6130)
+Seat 2: sidcaro (2975)
+Seat 3: tinoco x (2955)
+Seat 4: Vivajean69 (8585)
+Seat 5: Afrenchkiss (2740)
+Seat 6: Runrunbaby (3030)
+Seat 7: komisaras (3395)
+Seat 8: myrtille88 (3200)
+*** ANTE/BLINDS ***
+sidcaro posts small blind 60
+tinoco x posts big blind 120
+Dealt to sabre_laser [Td 3h]
+*** PRE-FLOP *** 
+Vivajean69 calls 120
+Afrenchkiss folds
+Runrunbaby raises 120 to 240
+komisaras folds
+myrtille88 folds
+sabre_laser folds
+sidcaro calls 180
+tinoco x folds
+Vivajean69 calls 120
+*** FLOP *** [2h Qh 6c]
+sidcaro checks
+Vivajean69 checks
+Runrunbaby checks
+*** TURN *** [2h Qh 6c][4c]
+sidcaro checks
+Vivajean69 checks
+Runrunbaby checks
+*** RIVER *** [2h Qh 6c 4c][Ac]
+sidcaro checks
+Vivajean69 checks
+Runrunbaby checks
+*** SHOW DOWN ***
+sidcaro shows [Th 9s] (High card : Ace)
+Vivajean69 shows [Jd 7d] (High card : Ace)
+Runrunbaby shows [As 8d] (One pair : Aces)
+Runrunbaby collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [2h Qh 6c 4c Ac]
+Seat 2: sidcaro (small blind) showed [Th 9s] and lost with High card : Ace
+Seat 4: Vivajean69 showed [Jd 7d] and lost with High card : Ace
+Seat 6: Runrunbaby showed [As 8d] and won 840 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #590113680243294386-12-1448753599 - Holdem no limit (60/120) - 2015/11/28 23:33:19 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (6130)
+Seat 2: sidcaro (2735)
+Seat 3: tinoco x (2835)
+Seat 4: Vivajean69 (8345)
+Seat 5: Afrenchkiss (2740)
+Seat 6: Runrunbaby (3630)
+Seat 7: komisaras (3395)
+Seat 8: myrtille88 (3200)
+*** ANTE/BLINDS ***
+tinoco x posts small blind 60
+Vivajean69 posts big blind 120
+Dealt to sabre_laser [Kh 8d]
+*** PRE-FLOP *** 
+Afrenchkiss folds
+Runrunbaby folds
+komisaras calls 120
+myrtille88 folds
+sabre_laser folds
+sidcaro folds
+tinoco x folds
+Vivajean69 checks
+*** FLOP *** [Qh 6c Tc]
+Vivajean69 checks
+komisaras bets 120
+Vivajean69 calls 120
+*** TURN *** [Qh 6c Tc][Ac]
+Vivajean69 checks
+komisaras checks
+*** RIVER *** [Qh 6c Tc Ac][3d]
+Vivajean69 checks
+komisaras checks
+*** SHOW DOWN ***
+Vivajean69 shows [9s Jh] (High card : Ace)
+komisaras shows [4h 4d] (One pair : 4)
+komisaras collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qh 6c Tc Ac 3d]
+Seat 4: Vivajean69 (big blind) showed [9s Jh] and lost with High card : Ace
+Seat 7: komisaras showed [4h 4d] and won 540 with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #590113680243294386-13-1448753690 - Holdem no limit (10/60/120) - 2015/11/28 23:34:50 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (6130)
+Seat 2: sidcaro (2735)
+Seat 3: tinoco x (2775)
+Seat 4: Vivajean69 (8105)
+Seat 5: Afrenchkiss (2740)
+Seat 6: Runrunbaby (3630)
+Seat 7: komisaras (3695)
+Seat 8: myrtille88 (3200)
+*** ANTE/BLINDS ***
+Vivajean69 posts ante 10
+Afrenchkiss posts ante 10
+sabre_laser posts ante 10
+sidcaro posts ante 10
+tinoco x posts ante 10
+Runrunbaby posts ante 10
+komisaras posts ante 10
+myrtille88 posts ante 10
+Vivajean69 posts small blind 60
+Afrenchkiss posts big blind 120
+Dealt to sabre_laser [4s Ac]
+*** PRE-FLOP *** 
+Runrunbaby raises 3500 to 3620 and is all-in
+komisaras folds
+myrtille88 folds
+sabre_laser folds
+sidcaro folds
+tinoco x folds
+Vivajean69 folds
+Afrenchkiss folds
+Runrunbaby collected 3880 from pot
+*** SUMMARY ***
+Total pot 3880 | No rake
+Seat 6: Runrunbaby won 3880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #590113680243294386-14-1448753714 - Holdem no limit (10/60/120) - 2015/11/28 23:35:14 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (6120)
+Seat 2: sidcaro (2725)
+Seat 3: tinoco x (2765)
+Seat 4: Vivajean69 (8035)
+Seat 5: Afrenchkiss (2610)
+Seat 6: Runrunbaby (3880)
+Seat 7: komisaras (3685)
+Seat 8: myrtille88 (3190)
+*** ANTE/BLINDS ***
+Afrenchkiss posts ante 10
+Runrunbaby posts ante 10
+sabre_laser posts ante 10
+sidcaro posts ante 10
+tinoco x posts ante 10
+Vivajean69 posts ante 10
+komisaras posts ante 10
+myrtille88 posts ante 10
+Afrenchkiss posts small blind 60
+Runrunbaby posts big blind 120
+Dealt to sabre_laser [Js Qh]
+*** PRE-FLOP *** 
+komisaras folds
+myrtille88 folds
+sabre_laser folds
+sidcaro folds
+tinoco x folds
+Vivajean69 calls 120
+Afrenchkiss folds
+Runrunbaby checks
+*** FLOP *** [Td 9c As]
+Runrunbaby checks
+Vivajean69 bets 120
+Runrunbaby folds
+Vivajean69 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Td 9c As]
+Seat 4: Vivajean69 (button) won 500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #590113680243294386-15-1448753799 - Holdem no limit (15/75/150) - 2015/11/28 23:36:39 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (6110)
+Seat 2: sidcaro (2715)
+Seat 3: tinoco x (2755)
+Seat 4: Vivajean69 (8285)
+Seat 5: Afrenchkiss (2540)
+Seat 6: Runrunbaby (3750)
+Seat 7: komisaras (3675)
+Seat 8: myrtille88 (3180)
+*** ANTE/BLINDS ***
+Runrunbaby posts ante 15
+komisaras posts ante 15
+sabre_laser posts ante 15
+sidcaro posts ante 15
+tinoco x posts ante 15
+Vivajean69 posts ante 15
+Afrenchkiss posts ante 15
+myrtille88 posts ante 15
+Runrunbaby posts small blind 75
+komisaras posts big blind 150
+Dealt to sabre_laser [4d Qd]
+*** PRE-FLOP *** 
+myrtille88 folds
+sabre_laser folds
+sidcaro calls 150
+tinoco x folds
+Vivajean69 folds
+Afrenchkiss folds
+Runrunbaby raises 150 to 300
+komisaras folds
+sidcaro calls 150
+*** FLOP *** [Js 6c 9h]
+Runrunbaby bets 375
+sidcaro raises 2025 to 2400 and is all-in
+Runrunbaby folds
+sidcaro collected 3645 from pot
+*** SUMMARY ***
+Total pot 3645 | No rake
+Board: [Js 6c 9h]
+Seat 2: sidcaro won 3645
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #590113680243294386-16-1448753859 - Holdem no limit (15/75/150) - 2015/11/28 23:37:39 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (6095)
+Seat 2: sidcaro (3645)
+Seat 3: tinoco x (2740)
+Seat 4: Vivajean69 (8270)
+Seat 5: Afrenchkiss (2525)
+Seat 6: Runrunbaby (3060)
+Seat 7: komisaras (3510)
+Seat 8: myrtille88 (3165)
+*** ANTE/BLINDS ***
+komisaras posts ante 15
+myrtille88 posts ante 15
+sabre_laser posts ante 15
+sidcaro posts ante 15
+tinoco x posts ante 15
+Vivajean69 posts ante 15
+Afrenchkiss posts ante 15
+Runrunbaby posts ante 15
+komisaras posts small blind 75
+myrtille88 posts big blind 150
+Dealt to sabre_laser [5c 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+sidcaro folds
+tinoco x folds
+Vivajean69 folds
+Afrenchkiss raises 2360 to 2510 and is all-in
+Runrunbaby calls 2510
+komisaras folds
+myrtille88 folds
+*** FLOP *** [4s Td 7d]
+*** TURN *** [4s Td 7d][8d]
+*** RIVER *** [4s Td 7d 8d][9s]
+*** SHOW DOWN ***
+Runrunbaby shows [6d 6c] (Straight Ten high)
+Afrenchkiss shows [Js Jd] (Straight Jack high)
+Afrenchkiss collected 5365 from pot
+*** SUMMARY ***
+Total pot 5365 | No rake
+Board: [4s Td 7d 8d 9s]
+Seat 5: Afrenchkiss showed [Js Jd] and won 5365 with Straight Jack high
+Seat 6: Runrunbaby (button) showed [6d 6c] and lost with Straight Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #590113680243294386-17-1448753903 - Holdem no limit (15/75/150) - 2015/11/28 23:38:23 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (6080)
+Seat 2: sidcaro (3630)
+Seat 3: tinoco x (2725)
+Seat 4: Vivajean69 (8255)
+Seat 5: Afrenchkiss (5365)
+Seat 6: Runrunbaby (535)
+Seat 7: komisaras (3420)
+Seat 8: myrtille88 (3000)
+*** ANTE/BLINDS ***
+myrtille88 posts ante 15
+sabre_laser posts ante 15
+sidcaro posts ante 15
+tinoco x posts ante 15
+Vivajean69 posts ante 15
+Afrenchkiss posts ante 15
+Runrunbaby posts ante 15
+komisaras posts ante 15
+myrtille88 posts small blind 75
+sabre_laser posts big blind 150
+Dealt to sabre_laser [Ah Jd]
+*** PRE-FLOP *** 
+sidcaro calls 150
+tinoco x folds
+Vivajean69 calls 150
+Afrenchkiss calls 150
+Runrunbaby folds
+komisaras folds
+myrtille88 folds
+sabre_laser raises 2625 to 2775
+sidcaro folds
+Vivajean69 folds
+Afrenchkiss folds
+sabre_laser collected 3420 from pot
+*** SUMMARY ***
+Total pot 3420 | No rake
+Seat 1: sabre_laser (big blind) won 3420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #590113680243294386-18-1448753980 - Holdem no limit (20/100/200) - 2015/11/28 23:39:40 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (6710)
+Seat 2: sidcaro (3465)
+Seat 3: tinoco x (2710)
+Seat 4: Vivajean69 (8090)
+Seat 5: Afrenchkiss (5200)
+Seat 6: Runrunbaby (520)
+Seat 7: komisaras (3405)
+Seat 8: myrtille88 (2910)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+sidcaro posts ante 20
+tinoco x posts ante 20
+Vivajean69 posts ante 20
+Afrenchkiss posts ante 20
+Runrunbaby posts ante 20
+komisaras posts ante 20
+myrtille88 posts ante 20
+sabre_laser posts small blind 100
+sidcaro posts big blind 200
+Dealt to sabre_laser [8h 7d]
+*** PRE-FLOP *** 
+tinoco x folds
+Vivajean69 folds
+Afrenchkiss folds
+Runrunbaby folds
+komisaras calls 200
+myrtille88 folds
+sabre_laser folds
+sidcaro checks
+*** FLOP *** [3s 7h 9c]
+sidcaro checks
+komisaras bets 200
+sidcaro folds
+komisaras collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [3s 7h 9c]
+Seat 7: komisaras won 860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #590113680243294386-19-1448754047 - Holdem no limit (20/100/200) - 2015/11/28 23:40:47 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (6590)
+Seat 2: sidcaro (3245)
+Seat 3: tinoco x (2690)
+Seat 4: Vivajean69 (8070)
+Seat 5: Afrenchkiss (5180)
+Seat 6: Runrunbaby (500)
+Seat 7: komisaras (3845)
+Seat 8: myrtille88 (2890)
+*** ANTE/BLINDS ***
+sidcaro posts ante 20
+tinoco x posts ante 20
+sabre_laser posts ante 20
+Vivajean69 posts ante 20
+Afrenchkiss posts ante 20
+Runrunbaby posts ante 20
+komisaras posts ante 20
+myrtille88 posts ante 20
+sidcaro posts small blind 100
+tinoco x posts big blind 200
+Dealt to sabre_laser [5s 3c]
+*** PRE-FLOP *** 
+Vivajean69 folds
+Afrenchkiss raises 200 to 400
+Runrunbaby folds
+komisaras folds
+myrtille88 folds
+sabre_laser folds
+sidcaro calls 300
+tinoco x folds
+*** FLOP *** [Ts 8s Qc]
+sidcaro bets 580
+Afrenchkiss raises 580 to 1160
+sidcaro calls 580
+*** TURN *** [Ts 8s Qc][4s]
+sidcaro bets 1665 and is all-in
+Afrenchkiss raises 1665 to 3330
+*** RIVER *** [Ts 8s Qc 4s][2d]
+*** SHOW DOWN ***
+sidcaro shows [8c Qs] (Two pairs : Queens and 8)
+Afrenchkiss shows [Ad Ah] (One pair : Aces)
+Afrenchkiss collected 1665 from side pot 1
+sidcaro collected 6810 from main pot
+*** SUMMARY ***
+Total pot 8475 | No rake
+Board: [Ts 8s Qc 4s 2d]
+Seat 2: sidcaro (small blind) showed [8c Qs] and won 6810 with Two pairs : Queens and 8
+Seat 5: Afrenchkiss showed [Ad Ah] and won 1665 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #590113680243294386-20-1448754108 - Holdem no limit (20/100/200) - 2015/11/28 23:41:48 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (6570)
+Seat 2: sidcaro (6810)
+Seat 3: tinoco x (2470)
+Seat 4: Vivajean69 (8050)
+Seat 5: Afrenchkiss (1935)
+Seat 6: Runrunbaby (480)
+Seat 7: komisaras (3825)
+Seat 8: myrtille88 (2870)
+*** ANTE/BLINDS ***
+tinoco x posts ante 20
+Vivajean69 posts ante 20
+sabre_laser posts ante 20
+sidcaro posts ante 20
+Afrenchkiss posts ante 20
+Runrunbaby posts ante 20
+komisaras posts ante 20
+myrtille88 posts ante 20
+tinoco x posts small blind 100
+Vivajean69 posts big blind 200
+Dealt to sabre_laser [2s 7d]
+*** PRE-FLOP *** 
+Afrenchkiss raises 1715 to 1915 and is all-in
+Runrunbaby folds
+komisaras folds
+myrtille88 folds
+sabre_laser folds
+sidcaro folds
+tinoco x folds
+Vivajean69 calls 1715
+*** FLOP *** [8s 5d Ts]
+*** TURN *** [8s 5d Ts][Qc]
+*** RIVER *** [8s 5d Ts Qc][3c]
+*** SHOW DOWN ***
+Vivajean69 shows [4s Ks] (High card : King)
+Afrenchkiss shows [7c 8d] (One pair : 8)
+Afrenchkiss collected 4090 from pot
+*** SUMMARY ***
+Total pot 4090 | No rake
+Board: [8s 5d Ts Qc 3c]
+Seat 4: Vivajean69 (big blind) showed [4s Ks] and lost with High card : King
+Seat 5: Afrenchkiss showed [7c 8d] and won 4090 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #590113680243294386-21-1448754151 - Holdem no limit (25/125/250) - 2015/11/28 23:42:31 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (6550)
+Seat 2: sidcaro (6790)
+Seat 3: tinoco x (2350)
+Seat 4: Vivajean69 (6115)
+Seat 5: Afrenchkiss (4090)
+Seat 6: Runrunbaby (460)
+Seat 7: komisaras (3805)
+Seat 8: myrtille88 (2850)
+*** ANTE/BLINDS ***
+Vivajean69 posts ante 25
+Afrenchkiss posts ante 25
+sabre_laser posts ante 25
+sidcaro posts ante 25
+tinoco x posts ante 25
+Runrunbaby posts ante 25
+komisaras posts ante 25
+myrtille88 posts ante 25
+Vivajean69 posts small blind 125
+Afrenchkiss posts big blind 250
+Dealt to sabre_laser [8h Ts]
+*** PRE-FLOP *** 
+Runrunbaby raises 185 to 435 and is all-in
+komisaras calls 435
+myrtille88 folds
+sabre_laser folds
+sidcaro calls 435
+tinoco x calls 435
+Vivajean69 calls 310
+Afrenchkiss calls 185
+*** FLOP *** [4s 9h Td]
+Vivajean69 checks
+Afrenchkiss checks
+komisaras checks
+sidcaro checks
+tinoco x bets 1890 and is all-in
+Vivajean69 folds
+Afrenchkiss folds
+komisaras folds
+sidcaro folds
+*** TURN *** [4s 9h Td][Qd]
+*** RIVER *** [4s 9h Td Qd][7s]
+*** SHOW DOWN ***
+Runrunbaby shows [Ad 5h] (High card : Ace)
+tinoco x shows [Th As] (One pair : Tens)
+tinoco x collected 4700 from pot
+*** SUMMARY ***
+Total pot 4700 | No rake
+Board: [4s 9h Td Qd 7s]
+Seat 3: tinoco x (button) showed [Th As] and won 4700 with One pair : Tens
+Seat 6: Runrunbaby showed [Ad 5h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #590113680243294386-22-1448754245 - Holdem no limit (25/125/250) - 2015/11/28 23:44:05 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (6525)
+Seat 2: sidcaro (6330)
+Seat 3: tinoco x (4700)
+Seat 4: Vivajean69 (5655)
+Seat 5: Afrenchkiss (3630)
+Seat 7: komisaras (3345)
+Seat 8: myrtille88 (2825)
+*** ANTE/BLINDS ***
+Afrenchkiss posts ante 25
+komisaras posts ante 25
+sabre_laser posts ante 25
+sidcaro posts ante 25
+tinoco x posts ante 25
+Vivajean69 posts ante 25
+myrtille88 posts ante 25
+Afrenchkiss posts small blind 125
+komisaras posts big blind 250
+Dealt to sabre_laser [Kh 4s]
+*** PRE-FLOP *** 
+myrtille88 raises 250 to 500
+sabre_laser folds
+sidcaro folds
+tinoco x folds
+Vivajean69 folds
+Afrenchkiss folds
+komisaras calls 250
+*** FLOP *** [6h 7s Th]
+komisaras checks
+myrtille88 bets 250
+komisaras calls 250
+*** TURN *** [6h 7s Th][3h]
+komisaras checks
+myrtille88 bets 250
+komisaras calls 250
+*** RIVER *** [6h 7s Th 3h][2c]
+komisaras checks
+myrtille88 bets 250
+komisaras folds
+myrtille88 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [6h 7s Th 3h 2c]
+Seat 8: myrtille88 won 2550
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #590113680243294386-23-1448754305 - Holdem no limit (25/125/250) - 2015/11/28 23:45:05 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (6500)
+Seat 2: sidcaro (6305)
+Seat 3: tinoco x (4675)
+Seat 4: Vivajean69 (5630)
+Seat 5: Afrenchkiss (3480)
+Seat 6: Geoffrey5940 (7828)
+Seat 7: komisaras (2320)
+Seat 8: myrtille88 (4100)
+*** ANTE/BLINDS ***
+komisaras posts ante 25
+myrtille88 posts ante 25
+sabre_laser posts ante 25
+sidcaro posts ante 25
+tinoco x posts ante 25
+Vivajean69 posts ante 25
+Afrenchkiss posts ante 25
+Geoffrey5940 posts ante 25
+komisaras posts small blind 125
+myrtille88 posts big blind 250
+Dealt to sabre_laser [Tc Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+sidcaro folds
+tinoco x folds
+Vivajean69 calls 250
+Afrenchkiss folds
+Geoffrey5940 calls 250
+komisaras folds
+myrtille88 checks
+*** FLOP *** [2h Kh Jc]
+myrtille88 checks
+Vivajean69 bets 250
+Geoffrey5940 calls 250
+myrtille88 calls 250
+*** TURN *** [2h Kh Jc][9c]
+myrtille88 checks
+Vivajean69 bets 5105 and is all-in
+Geoffrey5940 folds
+myrtille88 folds
+Vivajean69 collected 6930 from pot
+*** SUMMARY ***
+Total pot 6930 | No rake
+Board: [2h Kh Jc 9c]
+Seat 4: Vivajean69 won 6930
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #590113680243294386-24-1448754353 - Holdem no limit (35/150/300) - 2015/11/28 23:45:53 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (6475)
+Seat 2: sidcaro (6280)
+Seat 3: tinoco x (4650)
+Seat 4: Vivajean69 (6930)
+Seat 5: Afrenchkiss (3455)
+Seat 6: Geoffrey5940 (7303)
+Seat 7: komisaras (2170)
+Seat 8: myrtille88 (3575)
+*** ANTE/BLINDS ***
+myrtille88 posts ante 35
+sabre_laser posts ante 35
+sidcaro posts ante 35
+tinoco x posts ante 35
+Vivajean69 posts ante 35
+Afrenchkiss posts ante 35
+Geoffrey5940 posts ante 35
+komisaras posts ante 35
+myrtille88 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [7h 4s]
+*** PRE-FLOP *** 
+sidcaro folds
+tinoco x calls 300
+Vivajean69 calls 300
+Afrenchkiss folds
+Geoffrey5940 raises 300 to 600
+komisaras calls 600
+myrtille88 calls 450
+sabre_laser folds
+tinoco x calls 300
+Vivajean69 calls 300
+*** FLOP *** [3h 9c 4c]
+myrtille88 checks
+tinoco x checks
+Vivajean69 checks
+Geoffrey5940 bets 689
+komisaras folds
+myrtille88 calls 689
+tinoco x folds
+Vivajean69 folds
+*** TURN *** [3h 9c 4c][5d]
+myrtille88 checks
+Geoffrey5940 bets 5979 and is all-in
+myrtille88 calls 2251 and is all-in
+*** RIVER *** [3h 9c 4c 5d][4h]
+*** SHOW DOWN ***
+myrtille88 shows [5c Qc] (Two pairs : 5 and 4)
+Geoffrey5940 shows [Kh Ah] (One pair : 4)
+Geoffrey5940 collected 3728 from side pot 1
+myrtille88 collected 9460 from main pot
+*** SUMMARY ***
+Total pot 13188 | No rake
+Board: [3h 9c 4c 5d 4h]
+Seat 6: Geoffrey5940 showed [Kh Ah] and won 3728 with One pair : 4
+Seat 8: myrtille88 (small blind) showed [5c Qc] and won 9460 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #590113680243294386-25-1448754447 - Holdem no limit (35/150/300) - 2015/11/28 23:47:27 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (6140)
+Seat 2: sidcaro (6245)
+Seat 3: tinoco x (4015)
+Seat 4: Vivajean69 (6295)
+Seat 5: Afrenchkiss (3420)
+Seat 6: Geoffrey5940 (3728)
+Seat 7: komisaras (1535)
+Seat 8: myrtille88 (9460)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 35
+sidcaro posts ante 35
+tinoco x posts ante 35
+Vivajean69 posts ante 35
+Afrenchkiss posts ante 35
+Geoffrey5940 posts ante 35
+komisaras posts ante 35
+myrtille88 posts ante 35
+sabre_laser posts small blind 150
+sidcaro posts big blind 300
+Dealt to sabre_laser [7h Qs]
+*** PRE-FLOP *** 
+tinoco x calls 300
+Vivajean69 raises 5960 to 6260 and is all-in
+Afrenchkiss folds
+Geoffrey5940 folds
+komisaras folds
+myrtille88 folds
+sabre_laser folds
+sidcaro calls 5910 and is all-in
+tinoco x folds
+*** FLOP *** [Js 5h 2h]
+*** TURN *** [Js 5h 2h][Th]
+*** RIVER *** [Js 5h 2h Th][4s]
+*** SHOW DOWN ***
+sidcaro shows [Jh Ad] (One pair : Jacks)
+Vivajean69 shows [5s 5d] (Trips of 5)
+Vivajean69 collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Board: [Js 5h 2h Th 4s]
+Seat 2: sidcaro (big blind) showed [Jh Ad] and lost with One pair : Jacks
+Seat 4: Vivajean69 showed [5s 5d] and won 13200 with Trips of 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #590113680243294386-26-1448754499 - Holdem no limit (35/150/300) - 2015/11/28 23:48:19 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (5955)
+Seat 3: tinoco x (3680)
+Seat 4: Vivajean69 (13200)
+Seat 5: Afrenchkiss (3385)
+Seat 6: Geoffrey5940 (3693)
+Seat 7: komisaras (1500)
+Seat 8: myrtille88 (9425)
+*** ANTE/BLINDS ***
+tinoco x posts ante 35
+sabre_laser posts ante 35
+Vivajean69 posts ante 35
+Afrenchkiss posts ante 35
+Geoffrey5940 posts ante 35
+komisaras posts ante 35
+myrtille88 posts ante 35
+tinoco x posts big blind 300
+Dealt to sabre_laser [6s 5s]
+*** PRE-FLOP *** 
+Vivajean69 calls 300
+Afrenchkiss folds
+Geoffrey5940 folds
+komisaras calls 300
+myrtille88 folds
+sabre_laser calls 300
+tinoco x checks
+*** FLOP *** [2s Jh Jc]
+tinoco x checks
+Vivajean69 checks
+komisaras checks
+sabre_laser checks
+*** TURN *** [2s Jh Jc][8s]
+tinoco x checks
+Vivajean69 checks
+komisaras checks
+sabre_laser checks
+*** RIVER *** [2s Jh Jc 8s][5d]
+tinoco x checks
+Vivajean69 checks
+komisaras checks
+sabre_laser checks
+*** SHOW DOWN ***
+tinoco x shows [Ts 3h] (One pair : Jacks)
+Vivajean69 shows [Kh 9d] (One pair : Jacks)
+komisaras shows [Kd Td] (One pair : Jacks)
+sabre_laser shows [6s 5s] (Two pairs : Jacks and 5)
+sabre_laser collected 1445 from pot
+*** SUMMARY ***
+Total pot 1445 | No rake
+Board: [2s Jh Jc 8s 5d]
+Seat 1: sabre_laser (button) showed [6s 5s] and won 1445 with Two pairs : Jacks and 5
+Seat 3: tinoco x (big blind) showed [Ts 3h] and lost with One pair : Jacks
+Seat 4: Vivajean69 showed [Kh 9d] and lost with One pair : Jacks
+Seat 7: komisaras showed [Kd Td] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #590113680243294386-27-1448754591 - Holdem no limit (40/200/400) - 2015/11/28 23:49:51 UTC
+Table: 'Freeroll(137396548)#177' 8-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (7065)
+Seat 3: tinoco x (3345)
+Seat 4: Vivajean69 (12865)
+Seat 5: Afrenchkiss (3350)
+Seat 6: Geoffrey5940 (3658)
+Seat 7: komisaras (1165)
+Seat 8: myrtille88 (9390)
+*** ANTE/BLINDS ***
+tinoco x posts ante 40
+Vivajean69 posts ante 40
+sabre_laser posts ante 40
+Afrenchkiss posts ante 40
+Geoffrey5940 posts ante 40
+komisaras posts ante 40
+myrtille88 posts ante 40
+tinoco x posts small blind 200
+Vivajean69 posts big blind 400
+Dealt to sabre_laser [8h 6c]
+*** PRE-FLOP *** 
+Afrenchkiss folds
+Geoffrey5940 calls 400
+komisaras folds
+myrtille88 folds
+sabre_laser folds
+tinoco x calls 200
+Vivajean69 raises 400 to 800
+Geoffrey5940 calls 400
+tinoco x calls 400
+*** FLOP *** [6d Td Tc]
+tinoco x checks
+Vivajean69 bets 400
+Geoffrey5940 calls 400
+tinoco x raises 2105 to 2505 and is all-in
+Vivajean69 calls 2105
+Geoffrey5940 calls 2105
+*** TURN *** [6d Td Tc][Th]
+Vivajean69 bets 400
+Geoffrey5940 calls 313 and is all-in
+*** RIVER *** [6d Td Tc Th][Qs]
+*** SHOW DOWN ***
+tinoco x shows [3s 6s] (Full of Tens and 6)
+Geoffrey5940 shows [8d 7d] (Trips of Tens)
+Vivajean69 shows [Ac Qh] (Full of Tens and Queens)
+Vivajean69 collected 10908 from pot
+*** SUMMARY ***
+Total pot 10908 | No rake
+Board: [6d Td Tc Th Qs]
+Seat 3: tinoco x (small blind) showed [3s 6s] and lost with Full of Tens and 6
+Seat 4: Vivajean69 (big blind) showed [Ac Qh] and won 10908 with Full of Tens and Queens
+Seat 6: Geoffrey5940 showed [8d 7d] and lost with Trips of Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #590113680243294267-29-1448754709 - Holdem no limit (50/250/500) - 2015/11/28 23:51:49 UTC
+Table: 'Freeroll(137396548)#058' 8-max (real money) Seat #6 is the button
+Seat 1: pascaeel (7800)
+Seat 2: adriano82 (6895)
+Seat 3: sabre_laser (7025)
+Seat 4: Zeynah (5430)
+Seat 5: lulu27 (12545)
+Seat 6: FREEDY43 (13150)
+Seat 7: harleymanbis (1990)
+Seat 8: StackorDie (2020)
+*** ANTE/BLINDS ***
+harleymanbis posts ante 50
+StackorDie posts ante 50
+pascaeel posts ante 50
+adriano82 posts ante 50
+sabre_laser posts ante 50
+Zeynah posts ante 50
+lulu27 posts ante 50
+FREEDY43 posts ante 50
+harleymanbis posts small blind 250
+StackorDie posts big blind 500
+Dealt to sabre_laser [Ks 9s]
+*** PRE-FLOP *** 
+pascaeel raises 750 to 1250
+adriano82 folds
+sabre_laser folds
+Zeynah calls 1250
+lulu27 folds
+FREEDY43 folds
+harleymanbis folds
+StackorDie folds
+*** FLOP *** [8s 2h 9c]
+pascaeel bets 1250
+Zeynah raises 2880 to 4130 and is all-in
+pascaeel calls 2880
+*** TURN *** [8s 2h 9c][7c]
+*** RIVER *** [8s 2h 9c 7c][2s]
+*** SHOW DOWN ***
+pascaeel shows [Jd Ac] (One pair : 2)
+Zeynah shows [Kd 8d] (Two pairs : 8 and 2)
+Zeynah collected 11910 from pot
+*** SUMMARY ***
+Total pot 11910 | No rake
+Board: [8s 2h 9c 7c 2s]
+Seat 1: pascaeel showed [Jd Ac] and lost with One pair : 2
+Seat 4: Zeynah showed [Kd 8d] and won 11910 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #590113680243294267-30-1448754766 - Holdem no limit (50/250/500) - 2015/11/28 23:52:46 UTC
+Table: 'Freeroll(137396548)#058' 8-max (real money) Seat #7 is the button
+Seat 1: pascaeel (2370)
+Seat 2: adriano82 (6845)
+Seat 3: sabre_laser (6975)
+Seat 4: Zeynah (11910)
+Seat 5: lulu27 (12495)
+Seat 6: FREEDY43 (13100)
+Seat 7: harleymanbis (1690)
+Seat 8: StackorDie (1470)
+*** ANTE/BLINDS ***
+StackorDie posts ante 50
+pascaeel posts ante 50
+adriano82 posts ante 50
+sabre_laser posts ante 50
+Zeynah posts ante 50
+lulu27 posts ante 50
+FREEDY43 posts ante 50
+harleymanbis posts ante 50
+StackorDie posts small blind 250
+pascaeel posts big blind 500
+Dealt to sabre_laser [9s 4h]
+*** PRE-FLOP *** 
+adriano82 folds
+sabre_laser folds
+Zeynah calls 500
+lulu27 folds
+FREEDY43 calls 500
+harleymanbis folds
+StackorDie folds
+pascaeel raises 1820 to 2320 and is all-in
+Zeynah calls 1820
+FREEDY43 calls 1820
+*** FLOP *** [9c 2s 5c]
+Zeynah bets 9540 and is all-in
+FREEDY43 folds
+*** TURN *** [9c 2s 5c][7d]
+*** RIVER *** [9c 2s 5c 7d][6c]
+*** SHOW DOWN ***
+pascaeel shows [Ah 7h] (One pair : 7)
+Zeynah shows [5d 5s] (Trips of 5)
+Zeynah collected 17150 from pot
+*** SUMMARY ***
+Total pot 17150 | No rake
+Board: [9c 2s 5c 7d 6c]
+Seat 1: pascaeel (big blind) showed [Ah 7h] and lost with One pair : 7
+Seat 4: Zeynah showed [5d 5s] and won 17150 with Trips of 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #590113680243294267-31-1448754810 - Holdem no limit (50/250/500) - 2015/11/28 23:53:30 UTC
+Table: 'Freeroll(137396548)#058' 8-max (real money) Seat #8 is the button
+Seat 2: adriano82 (6795)
+Seat 3: sabre_laser (6925)
+Seat 4: Zeynah (17150)
+Seat 5: lulu27 (12445)
+Seat 6: FREEDY43 (10730)
+Seat 7: harleymanbis (1640)
+Seat 8: StackorDie (1170)
+*** ANTE/BLINDS ***
+adriano82 posts ante 50
+sabre_laser posts ante 50
+Zeynah posts ante 50
+lulu27 posts ante 50
+FREEDY43 posts ante 50
+harleymanbis posts ante 50
+StackorDie posts ante 50
+adriano82 posts big blind 500
+Dealt to sabre_laser [Kc 3d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Zeynah folds
+lulu27 folds
+FREEDY43 folds
+harleymanbis folds
+StackorDie folds
+adriano82 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: adriano82 (big blind) won 850
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #590113680243294267-32-1448754835 - Holdem no limit (50/250/500) - 2015/11/28 23:53:55 UTC
+Table: 'Freeroll(137396548)#058' 8-max (real money) Seat #1 is the button
+Seat 2: adriano82 (7095)
+Seat 3: sabre_laser (6875)
+Seat 4: Zeynah (17100)
+Seat 5: lulu27 (12395)
+Seat 6: FREEDY43 (10680)
+Seat 7: harleymanbis (1590)
+Seat 8: StackorDie (1120)
+*** ANTE/BLINDS ***
+adriano82 posts ante 50
+sabre_laser posts ante 50
+Zeynah posts ante 50
+lulu27 posts ante 50
+FREEDY43 posts ante 50
+harleymanbis posts ante 50
+StackorDie posts ante 50
+adriano82 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [Jh 9d]
+*** PRE-FLOP *** 
+Zeynah calls 500
+lulu27 calls 500
+FREEDY43 folds
+harleymanbis folds
+StackorDie folds
+adriano82 calls 250
+sabre_laser checks
+*** FLOP *** [Td 9c 4d]
+adriano82 checks
+sabre_laser checks
+Zeynah bets 500
+lulu27 folds
+adriano82 calls 500
+sabre_laser calls 500
+*** TURN *** [Td 9c 4d][8d]
+adriano82 checks
+sabre_laser checks
+Zeynah checks
+*** RIVER *** [Td 9c 4d 8d][2c]
+adriano82 checks
+sabre_laser checks
+Zeynah checks
+*** SHOW DOWN ***
+adriano82 shows [2d Ac] (One pair : 2)
+sabre_laser shows [Jh 9d] (One pair : 9)
+Zeynah shows [Qs 9s] (One pair : 9)
+Zeynah collected 3850 from pot
+*** SUMMARY ***
+Total pot 3850 | No rake
+Board: [Td 9c 4d 8d 2c]
+Seat 2: adriano82 (small blind) showed [2d Ac] and lost with One pair : 2
+Seat 3: sabre_laser (big blind) showed [Jh 9d] and lost with One pair : 9
+Seat 4: Zeynah showed [Qs 9s] and won 3850 with One pair : 9
+
+

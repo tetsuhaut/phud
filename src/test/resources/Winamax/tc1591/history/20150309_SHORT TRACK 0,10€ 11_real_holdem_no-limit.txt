@@ -1,0 +1,2539 @@
+Winamax Poker - CashGame - HandId: #7275374-149-1425935858 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:17:38 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: nicolange08 (0.10€)
+Seat 2: 34destructor (0.08€)
+Seat 5: tc1591 (0.10€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+nicolange08 posts big blind 0.02€
+Dealt to tc1591 [Ah 5c]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+nicolange08 checks
+*** FLOP *** [6c 6d Ks]
+nicolange08 bets 0.02€
+tc1591 calls 0.02€
+*** TURN *** [6c 6d Ks][7s]
+nicolange08 checks
+tc1591 bets 0.06€ and is all-in
+nicolange08 folds
+tc1591 collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [6c 6d Ks 7s]
+Seat 5: tc1591 (small blind) (button) won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #7275374-150-1425935897 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:18:17 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: nicolange08 (0.06€)
+Seat 2: 34destructor (0.08€)
+Seat 3: Barjerome (0.10€)
+Seat 5: tc1591 (0.13€)
+*** ANTE/BLINDS ***
+nicolange08 posts small blind 0.01€
+Barjerome posts big blind 0.02€
+Dealt to tc1591 [Qs 7c]
+*** PRE-FLOP *** 
+tc1591 folds
+nicolange08 calls 0.01€
+Barjerome raises 0.08€ to 0.10€ and is all-in
+nicolange08 folds
+Barjerome collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Seat 3: Barjerome (big blind) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #7275374-151-1425935916 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:18:36 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: nicolange08 (0.04€)
+Seat 2: 34destructor (0.08€)
+Seat 3: Barjerome (0.12€)
+Seat 5: tc1591 (0.13€)
+*** ANTE/BLINDS ***
+Barjerome posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [2c 2h]
+*** PRE-FLOP *** 
+nicolange08 folds
+Barjerome calls 0.01€
+tc1591 raises 0.11€ to 0.13€ and is all-in
+Barjerome calls 0.10€ and is all-in
+*** FLOP *** [6d 2s Kc]
+*** TURN *** [6d 2s Kc][Kh]
+*** RIVER *** [6d 2s Kc Kh][8s]
+*** SHOW DOWN ***
+Barjerome shows [7c 3d] (One pair : Kings)
+tc1591 shows [2c 2h] (Full of 2 and Kings)
+tc1591 collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.02€
+Board: [6d 2s Kc Kh 8s]
+Seat 3: Barjerome (small blind) showed [7c 3d] and lost with One pair : Kings
+Seat 5: tc1591 (big blind) showed [2c 2h] and won 0.23€ with Full of 2 and Kings
+
+
+Winamax Poker - CashGame - HandId: #7275374-152-1425935934 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:18:54 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: nicolange08 (0.04€)
+Seat 2: 34destructor (0.08€)
+Seat 3: Barjerome (0€)
+Seat 5: tc1591 (0.23€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+nicolange08 posts big blind 0.02€
+Dealt to tc1591 [Qc As]
+*** PRE-FLOP *** 
+tc1591 raises 0.02€ to 0.04€
+nicolange08 calls 0.02€ and is all-in
+*** FLOP *** [8d Tc 4s]
+*** TURN *** [8d Tc 4s][Qh]
+*** RIVER *** [8d Tc 4s Qh][9c]
+*** SHOW DOWN ***
+tc1591 shows [Qc As] (One pair : Queens)
+nicolange08 shows [8c 8h] (Trips of 8)
+nicolange08 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | Rake 0.01€
+Board: [8d Tc 4s Qh 9c]
+Seat 1: nicolange08 (big blind) showed [8c 8h] and won 0.07€ with Trips of 8
+Seat 5: tc1591 (small blind) (button) showed [Qc As] and lost with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7275374-153-1425935951 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:19:11 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: nicolange08 (0.07€)
+Seat 3: Barjerome (0.10€)
+Seat 5: tc1591 (0.19€)
+*** ANTE/BLINDS ***
+nicolange08 posts small blind 0.01€
+Barjerome posts big blind 0.02€
+Dealt to tc1591 [Kh Ah]
+*** PRE-FLOP *** 
+tc1591 raises 0.03€ to 0.05€
+nicolange08 folds
+Barjerome raises 0.03€ to 0.08€
+tc1591 raises 0.05€ to 0.13€
+Barjerome calls 0.02€ and is all-in
+*** FLOP *** [Ks Jh 3d]
+*** TURN *** [Ks Jh 3d][5c]
+*** RIVER *** [Ks Jh 3d 5c][Kd]
+*** SHOW DOWN ***
+Barjerome shows [Qh 5h] (Two pairs : Kings and 5)
+tc1591 shows [Kh Ah] (Trips of Kings)
+tc1591 collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.01€
+Board: [Ks Jh 3d 5c Kd]
+Seat 3: Barjerome (big blind) showed [Qh 5h] and lost with Two pairs : Kings and 5
+Seat 5: tc1591 (button) showed [Kh Ah] and won 0.23€ with Trips of Kings
+
+
+Winamax Poker - CashGame - HandId: #7275374-154-1425935975 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:19:35 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: nicolange08 (0.06€)
+Seat 3: Barjerome (0€)
+Seat 5: tc1591 (0.29€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+nicolange08 posts big blind 0.02€
+Dealt to tc1591 [3s 8d]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+nicolange08 checks
+*** FLOP *** [3h 2d 6c]
+nicolange08 bets 0.04€ and is all-in
+tc1591 calls 0.04€
+*** TURN *** [3h 2d 6c][7s]
+*** RIVER *** [3h 2d 6c 7s][9s]
+*** SHOW DOWN ***
+nicolange08 shows [Qh 5d] (High card : Queen)
+tc1591 shows [3s 8d] (One pair : 3)
+tc1591 collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | Rake 0.01€
+Board: [3h 2d 6c 7s 9s]
+Seat 1: nicolange08 (big blind) showed [Qh 5d] and lost with High card : Queen
+Seat 5: tc1591 (small blind) (button) showed [3s 8d] and won 0.11€ with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7275374-155-1425935995 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:19:55 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: nicolange08 (0€)
+Seat 2: mac anto (0.10€)
+Seat 3: Barjerome (0.10€)
+Seat 5: tc1591 (0.34€)
+*** ANTE/BLINDS ***
+mac anto posts big blind 0.02€
+Dealt to tc1591 [7h 9s]
+*** PRE-FLOP *** 
+Barjerome raises 0.08€ to 0.10€ and is all-in
+tc1591 folds
+mac anto calls 0.08€ and is all-in
+*** FLOP *** [Td 5h Ac]
+*** TURN *** [Td 5h Ac][3d]
+*** RIVER *** [Td 5h Ac 3d][2s]
+*** SHOW DOWN ***
+mac anto shows [5s Jd] (One pair : 5)
+Barjerome shows [Js Tc] (One pair : Tens)
+Barjerome collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Td 5h Ac 3d 2s]
+Seat 2: mac anto (big blind) showed [5s Jd] and lost with One pair : 5
+Seat 3: Barjerome showed [Js Tc] and won 0.19€ with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7275374-156-1425936011 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:20:11 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: nicolange08 (0€)
+Seat 2: mac anto (0€)
+Seat 3: Barjerome (0.19€)
+Seat 5: tc1591 (0.34€)
+*** ANTE/BLINDS ***
+Barjerome posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Jc 9d]
+*** PRE-FLOP *** 
+Barjerome calls 0.01€
+tc1591 checks
+*** FLOP *** [7d 4d Tc]
+tc1591 checks
+Barjerome checks
+*** TURN *** [7d 4d Tc][4s]
+tc1591 checks
+Barjerome checks
+*** RIVER *** [7d 4d Tc 4s][8h]
+tc1591 bets 0.04€
+Barjerome raises 0.04€ to 0.08€
+tc1591 raises 0.24€ to 0.32€ and is all-in
+Barjerome calls 0.09€ and is all-in
+*** SHOW DOWN ***
+Barjerome shows [6d 9s] (Straight Ten high)
+tc1591 shows [Jc 9d] (Straight Jack high)
+tc1591 collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | Rake 0.02€
+Board: [7d 4d Tc 4s 8h]
+Seat 3: Barjerome (small blind) (button) showed [6d 9s] and lost with Straight Ten high
+Seat 5: tc1591 (big blind) showed [Jc 9d] and won 0.51€ with Straight Jack high
+
+
+Winamax Poker - CashGame - HandId: #7275374-157-1425936053 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:20:53 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.10€)
+Seat 3: Barjerome (0€)
+Seat 5: tc1591 (0.51€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [Jd 3c]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+Christorama checks
+*** FLOP *** [Kh Ac As]
+Christorama checks
+tc1591 checks
+*** TURN *** [Kh Ac As][3d]
+Christorama checks
+tc1591 bets 0.04€
+Christorama folds
+tc1591 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [Kh Ac As 3d]
+Seat 5: tc1591 (small blind) (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7275374-158-1425936088 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:21:28 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.08€)
+Seat 2: -lahuche- (0€)
+Seat 5: tc1591 (0.53€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [4d 4h]
+*** PRE-FLOP *** 
+Christorama calls 0.01€
+tc1591 raises 0.51€ to 0.53€ and is all-in
+Christorama calls 0.06€ and is all-in
+*** FLOP *** [9d Kc 4s]
+*** TURN *** [9d Kc 4s][Qh]
+*** RIVER *** [9d Kc 4s Qh][8h]
+*** SHOW DOWN ***
+Christorama shows [8c Jc] (One pair : 8)
+tc1591 shows [4d 4h] (Trips of 4)
+tc1591 collected 0.60€ from pot
+*** SUMMARY ***
+Total pot 0.60€ | Rake 0.01€
+Board: [9d Kc 4s Qh 8h]
+Seat 1: Christorama (small blind) (button) showed [8c Jc] and lost with One pair : 8
+Seat 5: tc1591 (big blind) showed [4d 4h] and won 0.60€ with Trips of 4
+
+
+Winamax Poker - CashGame - HandId: #7275374-159-1425936106 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:21:46 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.10€)
+Seat 2: -lahuche- (0.10€)
+Seat 5: tc1591 (0.60€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [7c 8h]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+Christorama checks
+*** FLOP *** [4s Ks 9d]
+Christorama checks
+tc1591 checks
+*** TURN *** [4s Ks 9d][Qc]
+Christorama checks
+tc1591 bets 0.03€
+Christorama calls 0.03€
+*** RIVER *** [4s Ks 9d Qc][2s]
+Christorama checks
+tc1591 checks
+*** SHOW DOWN ***
+tc1591 shows [7c 8h] (High card : King)
+Christorama shows [Th 8s] (High card : King)
+Christorama collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | Rake 0.01€
+Board: [4s Ks 9d Qc 2s]
+Seat 1: Christorama (big blind) showed [Th 8s] and won 0.09€ with High card : King
+Seat 5: tc1591 (small blind) (button) showed [7c 8h] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7275374-160-1425936136 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:22:16 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.14€)
+Seat 2: -lahuche- (0.10€)
+Seat 5: tc1591 (0.55€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+-lahuche- posts big blind 0.02€
+Dealt to tc1591 [5d 7s]
+*** PRE-FLOP *** 
+tc1591 folds
+Christorama calls 0.01€
+-lahuche- raises 0.08€ to 0.10€ and is all-in
+Christorama calls 0.08€
+*** FLOP *** [Th 3h 5h]
+*** TURN *** [Th 3h 5h][5s]
+*** RIVER *** [Th 3h 5h 5s][2h]
+*** SHOW DOWN ***
+Christorama shows [5c Kh] (Flush King high)
+-lahuche- shows [Ah 2c] (Flush Ace high)
+-lahuche- collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Th 3h 5h 5s 2h]
+Seat 1: Christorama (small blind) showed [5c Kh] and lost with Flush King high
+Seat 2: -lahuche- (big blind) showed [Ah 2c] and won 0.19€ with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #7275374-161-1425936158 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:22:38 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.04€)
+Seat 2: -lahuche- (0.19€)
+Seat 5: tc1591 (0.55€)
+*** ANTE/BLINDS ***
+-lahuche- posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [6d Ts]
+*** PRE-FLOP *** 
+Christorama folds
+-lahuche- raises 0.17€ to 0.19€ and is all-in
+tc1591 folds
+-lahuche- collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | No rake
+Seat 2: -lahuche- (small blind) won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #7275374-162-1425936168 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:22:48 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #2 is the button
+Seat 1: Christorama (0.04€)
+Seat 2: -lahuche- (0.21€)
+Seat 5: tc1591 (0.53€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [5d 3d]
+*** PRE-FLOP *** 
+-lahuche- folds
+tc1591 calls 0.01€
+Christorama raises 0.02€ to 0.04€ and is all-in
+tc1591 calls 0.02€
+*** FLOP *** [6s 6h 9c]
+*** TURN *** [6s 6h 9c][4d]
+*** RIVER *** [6s 6h 9c 4d][Td]
+*** SHOW DOWN ***
+tc1591 shows [5d 3d] (One pair : 6)
+Christorama shows [Ah Ac] (Two pairs : Aces and 6)
+Christorama collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | Rake 0.01€
+Board: [6s 6h 9c 4d Td]
+Seat 1: Christorama (big blind) showed [Ah Ac] and won 0.07€ with Two pairs : Aces and 6
+Seat 5: tc1591 (small blind) showed [5d 3d] and lost with One pair : 6
+
+
+Winamax Poker - CashGame - HandId: #7275374-163-1425936193 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:23:13 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.07€)
+Seat 5: tc1591 (0.49€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Js Jd]
+*** PRE-FLOP *** 
+Christorama calls 0.01€
+tc1591 raises 0.02€ to 0.04€
+Christorama calls 0.02€
+*** FLOP *** [6d 9h 3c]
+tc1591 checks
+Christorama checks
+*** TURN *** [6d 9h 3c][8h]
+tc1591 bets 0.02€
+Christorama raises 0.01€ to 0.03€ and is all-in
+tc1591 calls 0.01€
+*** RIVER *** [6d 9h 3c 8h][4h]
+*** SHOW DOWN ***
+Christorama shows [Jc 4c] (One pair : 4)
+tc1591 shows [Js Jd] (One pair : Jacks)
+tc1591 collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [6d 9h 3c 8h 4h]
+Seat 1: Christorama (small blind) (button) showed [Jc 4c] and lost with One pair : 4
+Seat 5: tc1591 (big blind) showed [Js Jd] and won 0.13€ with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #7275374-164-1425936220 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:23:40 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.10€)
+Seat 5: tc1591 (0.55€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [As 6d]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+Christorama raises 0.02€ to 0.04€
+tc1591 calls 0.02€
+*** FLOP *** [Ts 3h 2s]
+Christorama bets 0.02€
+tc1591 calls 0.02€
+*** TURN *** [Ts 3h 2s][6c]
+Christorama bets 0.02€
+tc1591 raises 0.47€ to 0.49€ and is all-in
+Christorama calls 0.02€ and is all-in
+*** RIVER *** [Ts 3h 2s 6c][Qc]
+*** SHOW DOWN ***
+Christorama shows [Ah 8d] (High card : Ace)
+tc1591 shows [As 6d] (One pair : 6)
+tc1591 collected 0.64€ from pot
+*** SUMMARY ***
+Total pot 0.64€ | Rake 0.01€
+Board: [Ts 3h 2s 6c Qc]
+Seat 1: Christorama (big blind) showed [Ah 8d] and lost with High card : Ace
+Seat 5: tc1591 (small blind) (button) showed [As 6d] and won 0.64€ with One pair : 6
+
+
+Winamax Poker - CashGame - HandId: #7275374-165-1425936248 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:24:08 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.10€)
+Seat 5: tc1591 (0.64€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [4d Ad]
+*** PRE-FLOP *** 
+Christorama calls 0.01€
+tc1591 raises 0.62€ to 0.64€ and is all-in
+Christorama calls 0.08€ and is all-in
+*** FLOP *** [7c As 6h]
+*** TURN *** [7c As 6h][Qd]
+*** RIVER *** [7c As 6h Qd][7d]
+*** SHOW DOWN ***
+Christorama shows [8c Qc] (Two pairs : Queens and 7)
+tc1591 shows [4d Ad] (Two pairs : Aces and 7)
+tc1591 collected 0.73€ from pot
+*** SUMMARY ***
+Total pot 0.73€ | Rake 0.01€
+Board: [7c As 6h Qd 7d]
+Seat 1: Christorama (small blind) (button) showed [8c Qc] and lost with Two pairs : Queens and 7
+Seat 5: tc1591 (big blind) showed [4d Ad] and won 0.73€ with Two pairs : Aces and 7
+
+
+Winamax Poker - CashGame - HandId: #7275374-166-1425936268 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:24:28 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.10€)
+Seat 5: tc1591 (0.73€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [5d 5c]
+*** PRE-FLOP *** 
+tc1591 raises 0.71€ to 0.73€ and is all-in
+Christorama folds
+tc1591 collected 0.75€ from pot
+*** SUMMARY ***
+Total pot 0.75€ | No rake
+Seat 5: tc1591 (small blind) (button) won 0.75€
+
+
+Winamax Poker - CashGame - HandId: #7275374-167-1425936281 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:24:41 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.08€)
+Seat 5: tc1591 (0.75€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [5d Qh]
+*** PRE-FLOP *** 
+Christorama folds
+tc1591 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: tc1591 (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7275374-168-1425936285 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:24:45 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.07€)
+Seat 5: tc1591 (0.76€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [Ad 2s]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+Christorama checks
+*** FLOP *** [7c 9c 9h]
+Christorama checks
+tc1591 bets 0.74€ and is all-in
+Christorama calls 0.05€ and is all-in
+*** TURN *** [7c 9c 9h][Tc]
+*** RIVER *** [7c 9c 9h Tc][Ks]
+*** SHOW DOWN ***
+Christorama shows [9s Ts] (Full of 9 and Tens)
+tc1591 shows [Ad 2s] (One pair : 9)
+tc1591 collected 0.69€ from side pot 1
+Christorama collected 0.13€ from main pot
+*** SUMMARY ***
+Total pot 0.82€ | Rake 0.01€
+Board: [7c 9c 9h Tc Ks]
+Seat 1: Christorama (big blind) showed [9s Ts] and won 0.13€ with Full of 9 and Tens
+Seat 5: tc1591 (small blind) (button) showed [Ad 2s] and won 0.69€ with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7275374-169-1425936313 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:25:13 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.13€)
+Seat 5: tc1591 (0.69€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [6c Qh]
+*** PRE-FLOP *** 
+Christorama raises 0.02€ to 0.04€
+tc1591 calls 0.02€
+*** FLOP *** [5c 5d Td]
+tc1591 checks
+Christorama bets 0.02€
+tc1591 folds
+Christorama collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | Rake 0.01€
+Board: [5c 5d Td]
+Seat 1: Christorama (small blind) (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7275374-170-1425936334 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:25:34 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.16€)
+Seat 5: tc1591 (0.65€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [Ad Tc]
+*** PRE-FLOP *** 
+tc1591 raises 0.02€ to 0.04€
+Christorama calls 0.02€
+*** FLOP *** [2c 4d 3h]
+Christorama checks
+tc1591 bets 0.08€
+Christorama calls 0.08€
+*** TURN *** [2c 4d 3h][As]
+Christorama checks
+tc1591 bets 0.24€
+Christorama calls 0.04€ and is all-in
+*** RIVER *** [2c 4d 3h As][Td]
+*** SHOW DOWN ***
+Christorama shows [6d Ks] (High card : Ace)
+tc1591 shows [Ad Tc] (Two pairs : Aces and Tens)
+tc1591 collected 0.50€ from pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.02€
+Board: [2c 4d 3h As Td]
+Seat 1: Christorama (big blind) showed [6d Ks] and lost with High card : Ace
+Seat 5: tc1591 (small blind) (button) showed [Ad Tc] and won 0.50€ with Two pairs : Aces and Tens
+
+
+Winamax Poker - CashGame - HandId: #7275374-171-1425936368 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:26:08 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.10€)
+Seat 5: tc1591 (0.79€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [4d 8s]
+*** PRE-FLOP *** 
+Christorama calls 0.01€
+tc1591 checks
+*** FLOP *** [Qc 9h Kd]
+tc1591 checks
+Christorama checks
+*** TURN *** [Qc 9h Kd][5c]
+tc1591 checks
+Christorama checks
+*** RIVER *** [Qc 9h Kd 5c][Th]
+tc1591 checks
+Christorama bets 0.08€ and is all-in
+tc1591 folds
+Christorama collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [Qc 9h Kd 5c Th]
+Seat 1: Christorama (small blind) (button) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #7275374-172-1425936426 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:27:06 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.12€)
+Seat 2: shicshibukai (0.10€)
+Seat 4: zakyo77 (0.10€)
+Seat 5: tc1591 (0.77€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [3h 6c]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+Christorama raises 0.10€ to 0.12€ and is all-in
+tc1591 folds
+Christorama collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | No rake
+Seat 1: Christorama (big blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #7275374-173-1425936447 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:27:27 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0.14€)
+Seat 2: shicshibukai (0.10€)
+Seat 3: duc5959 (0€)
+Seat 4: zakyo77 (0.10€)
+Seat 5: tc1591 (0.75€)
+*** ANTE/BLINDS ***
+Christorama posts small blind 0.01€
+shicshibukai posts big blind 0.02€
+zakyo77 posts big blind 0.02€ out of position
+Dealt to tc1591 [8h 8s]
+*** PRE-FLOP *** 
+zakyo77 checks
+tc1591 raises 0.73€ to 0.75€ and is all-in
+Christorama folds
+shicshibukai folds
+zakyo77 folds
+tc1591 collected 0.80€ from pot
+*** SUMMARY ***
+Total pot 0.80€ | No rake
+Seat 5: tc1591 (button) won 0.80€
+
+
+Winamax Poker - CashGame - HandId: #7275374-174-1425936461 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:27:41 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Christorama (0.13€)
+Seat 2: shicshibukai (0.08€)
+Seat 3: duc5959 (0.10€)
+Seat 4: zakyo77 (0.08€)
+Seat 5: tc1591 (0.80€)
+*** ANTE/BLINDS ***
+shicshibukai posts small blind 0.01€
+duc5959 posts big blind 0.02€
+Dealt to tc1591 [Ks 7d]
+*** PRE-FLOP *** 
+zakyo77 folds
+tc1591 folds
+Christorama folds
+shicshibukai calls 0.01€
+duc5959 checks
+*** FLOP *** [3h 4c 4s]
+shicshibukai bets 0.02€
+duc5959 folds
+shicshibukai collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [3h 4c 4s]
+Seat 2: shicshibukai (small blind) won 0.06€
+
+
+Winamax Poker - CashGame - HandId: #7275374-175-1425936481 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:28:01 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #2 is the button
+Seat 1: Christorama (0.13€)
+Seat 2: shicshibukai (0.10€)
+Seat 3: duc5959 (0.08€)
+Seat 4: zakyo77 (0.08€)
+Seat 5: tc1591 (0.80€)
+*** ANTE/BLINDS ***
+duc5959 posts small blind 0.01€
+zakyo77 posts big blind 0.02€
+Dealt to tc1591 [3h 5h]
+*** PRE-FLOP *** 
+tc1591 folds
+Christorama folds
+shicshibukai folds
+duc5959 calls 0.01€
+zakyo77 checks
+*** FLOP *** [6s Ac Ah]
+duc5959 checks
+zakyo77 checks
+*** TURN *** [6s Ac Ah][8h]
+duc5959 checks
+zakyo77 bets 0.06€ and is all-in
+duc5959 folds
+zakyo77 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [6s Ac Ah 8h]
+Seat 4: zakyo77 (big blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7275374-176-1425936503 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:28:23 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Christorama (0.13€)
+Seat 2: shicshibukai (0.10€)
+Seat 3: duc5959 (0.06€)
+Seat 4: zakyo77 (0.10€)
+Seat 5: tc1591 (0.80€)
+*** ANTE/BLINDS ***
+zakyo77 posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [3s 2s]
+*** PRE-FLOP *** 
+Christorama calls 0.02€
+shicshibukai raises 0.08€ to 0.10€ and is all-in
+duc5959 calls 0.06€ and is all-in
+zakyo77 folds
+tc1591 folds
+Christorama calls 0.08€
+*** FLOP *** [8c 2h Ts]
+*** TURN *** [8c 2h Ts][Th]
+*** RIVER *** [8c 2h Ts Th][9c]
+*** SHOW DOWN ***
+Christorama shows [Ac 4h] (One pair : Tens)
+duc5959 shows [Tc Td] (Quads of Tens)
+shicshibukai shows [Kc As] (One pair : Tens)
+shicshibukai collected 0.07€ from side pot 1
+duc5959 collected 0.20€ from main pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.02€
+Board: [8c 2h Ts Th 9c]
+Seat 1: Christorama showed [Ac 4h] and lost with One pair : Tens
+Seat 2: shicshibukai showed [Kc As] and won 0.07€ with One pair : Tens
+Seat 3: duc5959 (button) showed [Tc Td] and won 0.20€ with Quads of Tens
+
+
+Winamax Poker - CashGame - HandId: #7275374-177-1425936532 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:28:52 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Christorama (0.03€)
+Seat 2: shicshibukai (0.07€)
+Seat 3: duc5959 (0.20€)
+Seat 4: zakyo77 (0.09€)
+Seat 5: tc1591 (0.78€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Christorama posts big blind 0.02€
+Dealt to tc1591 [6d Qc]
+*** PRE-FLOP *** 
+shicshibukai folds
+duc5959 calls 0.02€
+zakyo77 folds
+tc1591 calls 0.01€
+Christorama checks
+*** FLOP *** [8s Td Jh]
+tc1591 checks
+Christorama checks
+duc5959 bets 0.06€
+tc1591 folds
+Christorama calls 0.01€ and is all-in
+*** TURN *** [8s Td Jh][4s]
+*** RIVER *** [8s Td Jh 4s][Kc]
+*** SHOW DOWN ***
+Christorama shows [2c 7c] (High card : King)
+duc5959 shows [9d Tc] (One pair : Tens)
+duc5959 collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [8s Td Jh 4s Kc]
+Seat 1: Christorama (big blind) showed [2c 7c] and lost with High card : King
+Seat 3: duc5959 showed [9d Tc] and won 0.12€ with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7275374-178-1425936580 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:29:40 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Christorama (0€)
+Seat 2: shicshibukai (0.07€)
+Seat 3: duc5959 (0.24€)
+Seat 4: zakyo77 (0.09€)
+Seat 5: tc1591 (0.76€)
+*** ANTE/BLINDS ***
+shicshibukai posts big blind 0.02€
+Dealt to tc1591 [6d 5s]
+*** PRE-FLOP *** 
+duc5959 folds
+zakyo77 folds
+tc1591 folds
+shicshibukai collected 0.02€ from pot
+*** SUMMARY ***
+Total pot 0.02€ | No rake
+Seat 2: shicshibukai (big blind) won 0.02€
+
+
+Winamax Poker - CashGame - HandId: #7275374-179-1425936590 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:29:50 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 2: shicshibukai (0.07€)
+Seat 3: duc5959 (0.24€)
+Seat 4: zakyo77 (0.09€)
+Seat 5: tc1591 (0.76€)
+*** ANTE/BLINDS ***
+shicshibukai posts small blind 0.01€
+duc5959 posts big blind 0.02€
+Dealt to tc1591 [5h Ah]
+*** PRE-FLOP *** 
+zakyo77 folds
+tc1591 raises 0.05€ to 0.07€
+shicshibukai calls 0.06€ and is all-in
+duc5959 folds
+*** FLOP *** [6s Kh 5d]
+*** TURN *** [6s Kh 5d][9h]
+*** RIVER *** [6s Kh 5d 9h][Tc]
+*** SHOW DOWN ***
+tc1591 shows [5h Ah] (One pair : 5)
+shicshibukai shows [6c Ks] (Two pairs : Kings and 6)
+shicshibukai collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | Rake 0.01€
+Board: [6s Kh 5d 9h Tc]
+Seat 2: shicshibukai (small blind) showed [6c Ks] and won 0.15€ with Two pairs : Kings and 6
+Seat 5: tc1591 showed [5h Ah] and lost with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #7275374-180-1425936631 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:30:31 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #2 is the button
+Seat 2: shicshibukai (0.15€)
+Seat 3: duc5959 (0.22€)
+Seat 4: zakyo77 (0.09€)
+Seat 5: tc1591 (0.69€)
+*** ANTE/BLINDS ***
+duc5959 posts small blind 0.01€
+zakyo77 posts big blind 0.02€
+Dealt to tc1591 [2s Js]
+*** PRE-FLOP *** 
+tc1591 folds
+shicshibukai folds
+duc5959 calls 0.01€
+zakyo77 checks
+*** FLOP *** [Tc 9c Ks]
+duc5959 checks
+zakyo77 bets 0.07€ and is all-in
+duc5959 folds
+zakyo77 collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | No rake
+Board: [Tc 9c Ks]
+Seat 4: zakyo77 (big blind) won 0.11€
+
+
+Winamax Poker - CashGame - HandId: #7275374-181-1425936666 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:31:06 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 2: shicshibukai (0.15€)
+Seat 3: duc5959 (0.20€)
+Seat 4: zakyo77 (0.11€)
+Seat 5: tc1591 (0.69€)
+*** ANTE/BLINDS ***
+zakyo77 posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Qs 5d]
+*** PRE-FLOP *** 
+shicshibukai folds
+duc5959 folds
+zakyo77 folds
+tc1591 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: tc1591 (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7275374-182-1425936685 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:31:25 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 2: shicshibukai (0.15€)
+Seat 4: zakyo77 (0.10€)
+Seat 5: tc1591 (0.70€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+shicshibukai posts big blind 0.02€
+Dealt to tc1591 [3c 8s]
+*** PRE-FLOP *** 
+zakyo77 folds
+tc1591 calls 0.01€
+shicshibukai raises 0.13€ to 0.15€ and is all-in
+tc1591 folds
+shicshibukai collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | No rake
+Seat 2: shicshibukai (big blind) won 0.17€
+
+
+Winamax Poker - CashGame - HandId: #7275374-183-1425936708 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:31:48 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 2: shicshibukai (0.17€)
+Seat 4: zakyo77 (0.10€)
+Seat 5: tc1591 (0.68€)
+*** ANTE/BLINDS ***
+shicshibukai posts small blind 0.01€
+zakyo77 posts big blind 0.02€
+Dealt to tc1591 [5h Ad]
+*** PRE-FLOP *** 
+tc1591 raises 0.66€ to 0.68€ and is all-in
+shicshibukai folds
+zakyo77 folds
+tc1591 collected 0.71€ from pot
+*** SUMMARY ***
+Total pot 0.71€ | No rake
+Seat 5: tc1591 (button) won 0.71€
+
+
+Winamax Poker - CashGame - HandId: #7275374-184-1425936726 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:32:06 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #2 is the button
+Seat 2: shicshibukai (0.16€)
+Seat 4: zakyo77 (0.08€)
+Seat 5: tc1591 (0.71€)
+*** ANTE/BLINDS ***
+zakyo77 posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [9h 7d]
+*** PRE-FLOP *** 
+shicshibukai folds
+zakyo77 raises 0.06€ to 0.08€ and is all-in
+tc1591 calls 0.06€
+*** FLOP *** [5s 5d 2s]
+*** TURN *** [5s 5d 2s][5c]
+*** RIVER *** [5s 5d 2s 5c][2h]
+*** SHOW DOWN ***
+zakyo77 shows [Js Kh] (Full of 5 and 2)
+tc1591 shows [9h 7d] (Full of 5 and 2)
+tc1591 collected 0.08€ from pot
+zakyo77 collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | Rake 0.01€
+Board: [5s 5d 2s 5c 2h]
+Seat 4: zakyo77 (small blind) showed [Js Kh] and won 0.07€ with Full of 5 and 2
+Seat 5: tc1591 (big blind) showed [9h 7d] and won 0.08€ with Full of 5 and 2
+
+
+Winamax Poker - CashGame - HandId: #7275374-185-1425936754 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:32:34 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 2: shicshibukai (0.16€)
+Seat 4: zakyo77 (0.07€)
+Seat 5: tc1591 (0.71€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+shicshibukai posts big blind 0.02€
+Dealt to tc1591 [5h 9s]
+*** PRE-FLOP *** 
+zakyo77 raises 0.05€ to 0.07€ and is all-in
+tc1591 folds
+shicshibukai folds
+zakyo77 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 4: zakyo77 (button) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7275374-186-1425936763 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:32:43 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 2: shicshibukai (0.14€)
+Seat 4: zakyo77 (0.10€)
+Seat 5: tc1591 (0.70€)
+*** ANTE/BLINDS ***
+shicshibukai posts small blind 0.01€
+zakyo77 posts big blind 0.02€
+Dealt to tc1591 [9s Kd]
+*** PRE-FLOP *** 
+tc1591 raises 0.02€ to 0.04€
+shicshibukai calls 0.03€
+zakyo77 folds
+*** FLOP *** [Kc 9c Qh]
+shicshibukai bets 0.02€
+tc1591 calls 0.02€
+*** TURN *** [Kc 9c Qh][3d]
+shicshibukai bets 0.02€
+tc1591 raises 0.04€ to 0.06€
+shicshibukai folds
+tc1591 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Kc 9c Qh 3d]
+Seat 5: tc1591 (button) won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #7275374-187-1425936799 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:33:19 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #2 is the button
+Seat 2: shicshibukai (0.06€)
+Seat 4: zakyo77 (0.08€)
+Seat 5: tc1591 (0.79€)
+*** ANTE/BLINDS ***
+zakyo77 posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [4s Ts]
+*** PRE-FLOP *** 
+shicshibukai raises 0.04€ to 0.06€ and is all-in
+zakyo77 folds
+tc1591 calls 0.04€
+*** FLOP *** [2d 9d 7d]
+*** TURN *** [2d 9d 7d][Jh]
+*** RIVER *** [2d 9d 7d Jh][7s]
+*** SHOW DOWN ***
+tc1591 shows [4s Ts] (One pair : 7)
+shicshibukai shows [8d Ah] (One pair : 7)
+shicshibukai collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [2d 9d 7d Jh 7s]
+Seat 2: shicshibukai (button) showed [8d Ah] and won 0.12€ with One pair : 7
+Seat 5: tc1591 (big blind) showed [4s Ts] and lost with One pair : 7
+
+
+Winamax Poker - CashGame - HandId: #7275374-188-1425936817 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:33:37 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 2: shicshibukai (0.12€)
+Seat 4: zakyo77 (0.07€)
+Seat 5: tc1591 (0.73€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+shicshibukai posts big blind 0.02€
+Dealt to tc1591 [2h Ad]
+*** PRE-FLOP *** 
+zakyo77 raises 0.05€ to 0.07€ and is all-in
+tc1591 folds
+shicshibukai calls 0.05€
+*** FLOP *** [2s 2c Tc]
+*** TURN *** [2s 2c Tc][9s]
+*** RIVER *** [2s 2c Tc 9s][6s]
+*** SHOW DOWN ***
+shicshibukai shows [Qc Ac] (One pair : 2)
+zakyo77 shows [Qh Qs] (Two pairs : Queens and 2)
+zakyo77 collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [2s 2c Tc 9s 6s]
+Seat 2: shicshibukai (big blind) showed [Qc Ac] and lost with One pair : 2
+Seat 4: zakyo77 (button) showed [Qh Qs] and won 0.14€ with Two pairs : Queens and 2
+
+
+Winamax Poker - CashGame - HandId: #7275374-189-1425936835 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:33:55 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: shicshibukai (0.05€)
+Seat 4: zakyo77 (0.14€)
+Seat 5: tc1591 (0.72€)
+*** ANTE/BLINDS ***
+shicshibukai posts small blind 0.01€
+zakyo77 posts big blind 0.02€
+Dealt to tc1591 [Ah 4s]
+*** PRE-FLOP *** 
+tc1591 raises 0.70€ to 0.72€ and is all-in
+shicshibukai calls 0.04€ and is all-in
+zakyo77 calls 0.12€ and is all-in
+*** FLOP *** [4c 9s 6h]
+*** TURN *** [4c 9s 6h][Kd]
+*** RIVER *** [4c 9s 6h Kd][Kc]
+*** SHOW DOWN ***
+shicshibukai shows [8s Jd] (One pair : Kings)
+zakyo77 shows [Th As] (One pair : Kings)
+tc1591 shows [Ah 4s] (Two pairs : Kings and 4)
+tc1591 collected 0.89€ from pot
+*** SUMMARY ***
+Total pot 0.89€ | Rake 0.02€
+Board: [4c 9s 6h Kd Kc]
+Seat 2: shicshibukai (small blind) showed [8s Jd] and lost with One pair : Kings
+Seat 4: zakyo77 (big blind) showed [Th As] and lost with One pair : Kings
+Seat 5: tc1591 (button) showed [Ah 4s] and won 0.89€ with Two pairs : Kings and 4
+
+
+Winamax Poker - CashGame - HandId: #7275374-191-1425936852 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:34:12 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: shicshibukai (0€)
+Seat 5: tc1591 (0.89€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [Qs 8s]
+*** PRE-FLOP *** 
+tc1591 calls 0.01€
+Mr Bad  Beat checks
+*** FLOP *** [5d Kd As]
+Mr Bad  Beat checks
+tc1591 bets 0.04€
+Mr Bad  Beat folds
+tc1591 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [5d Kd As]
+Seat 5: tc1591 (small blind) (button) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7275374-192-1425936879 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:34:39 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: shicshibukai (0€)
+Seat 5: tc1591 (0.91€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [2d 5d]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+tc1591 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: tc1591 (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7275374-193-1425936886 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:34:46 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: shicshibukai (0€)
+Seat 5: tc1591 (0.92€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [7s 2c]
+*** PRE-FLOP *** 
+tc1591 folds
+Mr Bad  Beat collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: Mr Bad  Beat (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7275374-194-1425936903 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:35:03 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.11€)
+Seat 2: shicshibukai (0€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (0.91€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [Tc Kd]
+*** PRE-FLOP *** 
+tc1591 raises 0.89€ to 0.91€ and is all-in
+Mr Bad  Beat folds
+TELLMEWHYYY calls 0.08€ and is all-in
+*** FLOP *** [3c Qs 9h]
+*** TURN *** [3c Qs 9h][4s]
+*** RIVER *** [3c Qs 9h 4s][3h]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Ks 5s] (One pair : 3)
+tc1591 shows [Tc Kd] (One pair : 3)
+tc1591 collected 1.01€ from pot
+*** SUMMARY ***
+Total pot 1.01€ | Rake 0.01€
+Board: [3c Qs 9h 4s 3h]
+Seat 3: TELLMEWHYYY (big blind) showed [Ks 5s] and lost with One pair : 3
+Seat 5: tc1591 (button) showed [Tc Kd] and won 1.01€ with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7275374-195-1425936931 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:35:31 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: shicshibukai (0€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (1.01€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [Kd Ah]
+*** PRE-FLOP *** 
+tc1591 raises 0.99€ to 1.01€ and is all-in
+Mr Bad  Beat folds
+TELLMEWHYYY calls 0.09€ and is all-in
+DEEPSEABABY folds
+*** FLOP *** [3s Tc 7d]
+*** TURN *** [3s Tc 7d][5c]
+*** RIVER *** [3s Tc 7d 5c][Ts]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Qd 9d] (One pair : Tens)
+tc1591 shows [Kd Ah] (One pair : Tens)
+tc1591 collected 1.12€ from pot
+*** SUMMARY ***
+Total pot 1.12€ | Rake 0.01€
+Board: [3s Tc 7d 5c Ts]
+Seat 3: TELLMEWHYYY (small blind) showed [Qd 9d] and lost with One pair : Tens
+Seat 5: tc1591 showed [Kd Ah] and won 1.12€ with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7275374-196-1425936953 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:35:53 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: shicshibukai (0€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (1.12€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Qs 9h]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY calls 0.09€ and is all-in
+tc1591 folds
+*** FLOP *** [Ah 4c Qh]
+*** TURN *** [Ah 4c Qh][2s]
+*** RIVER *** [Ah 4c Qh 2s][9d]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [9s 3c] (One pair : 9)
+DEEPSEABABY shows [Qd Kc] (One pair : Queens)
+DEEPSEABABY collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Ah 4c Qh 2s 9d]
+Seat 3: TELLMEWHYYY (button) showed [9s 3c] and lost with One pair : 9
+Seat 4: DEEPSEABABY (small blind) showed [Qd Kc] and won 0.21€ with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7275374-197-1425936970 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:36:10 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.21€)
+Seat 5: tc1591 (1.10€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [7h 6h]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY raises 0.11€ to 0.21€ and is all-in
+tc1591 folds
+Mr Bad  Beat folds
+*** FLOP *** [8c 8h 6s]
+*** TURN *** [8c 8h 6s][7s]
+*** RIVER *** [8c 8h 6s 7s][7c]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Jd Qs] (Two pairs : 8 and 7)
+DEEPSEABABY shows [Qh 2s] (Two pairs : 8 and 7)
+DEEPSEABABY collected 0.22€ from side pot 1
+TELLMEWHYYY collected 0.11€ from main pot
+*** SUMMARY ***
+Total pot 0.33€ | Rake 0.01€
+Board: [8c 8h 6s 7s 7c]
+Seat 3: TELLMEWHYYY showed [Jd Qs] and won 0.11€ with Two pairs : 8 and 7
+Seat 4: DEEPSEABABY (button) showed [Qh 2s] and won 0.22€ with Two pairs : 8 and 7
+
+
+Winamax Poker - CashGame - HandId: #7275374-198-1425936991 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:36:31 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 3: TELLMEWHYYY (0.11€)
+Seat 4: DEEPSEABABY (0.22€)
+Seat 5: tc1591 (1.09€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [8c 9h]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 0.20€ to 0.22€ and is all-in
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY calls 0.09€ and is all-in
+*** FLOP *** [2c 6h Qc]
+*** TURN *** [2c 6h Qc][Jh]
+*** RIVER *** [2c 6h Qc Jh][Qd]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [7h Ks] (One pair : Queens)
+DEEPSEABABY shows [6s Ad] (Two pairs : Queens and 6)
+DEEPSEABABY collected 0.33€ from pot
+*** SUMMARY ***
+Total pot 0.33€ | Rake 0.01€
+Board: [2c 6h Qc Jh Qd]
+Seat 3: TELLMEWHYYY (big blind) showed [7h Ks] and lost with One pair : Queens
+Seat 4: DEEPSEABABY showed [6s Ad] and won 0.33€ with Two pairs : Queens and 6
+
+
+Winamax Poker - CashGame - HandId: #7275374-199-1425937007 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:36:47 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0.10€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.33€)
+Seat 5: tc1591 (1.09€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [3d 6s]
+*** PRE-FLOP *** 
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY raises 0.23€ to 0.33€ and is all-in
+*** FLOP *** [9c 5h Kc]
+*** TURN *** [9c 5h Kc][Tc]
+*** RIVER *** [9c 5h Kc Tc][4s]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [2d 6h] (High card : King)
+DEEPSEABABY shows [5d Ts] (Two pairs : Tens and 5)
+DEEPSEABABY collected 0.42€ from pot
+*** SUMMARY ***
+Total pot 0.42€ | Rake 0.01€
+Board: [9c 5h Kc Tc 4s]
+Seat 3: TELLMEWHYYY (small blind) showed [2d 6h] and lost with High card : King
+Seat 4: DEEPSEABABY (big blind) showed [5d Ts] and won 0.42€ with Two pairs : Tens and 5
+
+
+Winamax Poker - CashGame - HandId: #7275374-200-1425937025 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:37:05 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0.10€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.42€)
+Seat 5: tc1591 (1.09€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+djibnet17 posts big blind 0.02€ out of position
+Dealt to tc1591 [8s 4c]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+djibnet17 checks
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY raises 0.32€ to 0.42€ and is all-in
+tc1591 folds
+djibnet17 folds
+*** FLOP *** [4s Jh 3c]
+*** TURN *** [4s Jh 3c][Js]
+*** RIVER *** [4s Jh 3c Js][Ah]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [5c 5d] (Two pairs : Jacks and 5)
+DEEPSEABABY shows [Kc 6s] (One pair : Jacks)
+DEEPSEABABY collected 0.32€ from side pot 1
+TELLMEWHYYY collected 0.22€ from main pot
+*** SUMMARY ***
+Total pot 0.54€ | Rake 0.02€
+Board: [4s Jh 3c Js Ah]
+Seat 3: TELLMEWHYYY (button) showed [5c 5d] and won 0.22€ with Two pairs : Jacks and 5
+Seat 4: DEEPSEABABY (small blind) showed [Kc 6s] and won 0.32€ with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #7275374-201-1425937056 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:37:36 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0.08€)
+Seat 3: TELLMEWHYYY (0.22€)
+Seat 4: DEEPSEABABY (0.32€)
+Seat 5: tc1591 (1.07€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [4d Th]
+*** PRE-FLOP *** 
+djibnet17 calls 0.02€
+TELLMEWHYYY raises 0.20€ to 0.22€ and is all-in
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat folds
+djibnet17 calls 0.06€ and is all-in
+*** FLOP *** [Td 2d 6h]
+*** TURN *** [Td 2d 6h][Jd]
+*** RIVER *** [Td 2d 6h Jd][5h]
+*** SHOW DOWN ***
+djibnet17 shows [Kc Qd] (High card : King)
+TELLMEWHYYY shows [Kd As] (High card : Ace)
+TELLMEWHYYY collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | Rake 0.01€
+Board: [Td 2d 6h Jd 5h]
+Seat 2: djibnet17 showed [Kc Qd] and lost with High card : King
+Seat 3: TELLMEWHYYY showed [Kd As] and won 0.32€ with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7275374-202-1425937083 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:38:03 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0€)
+Seat 3: TELLMEWHYYY (0.32€)
+Seat 4: DEEPSEABABY (0.32€)
+Seat 5: tc1591 (1.06€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [4s 4d]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 0.30€ to 0.32€ and is all-in
+tc1591 raises 0.74€ to 1.06€ and is all-in
+Mr Bad  Beat folds
+TELLMEWHYYY folds
+*** FLOP *** [Kc Js 2c]
+*** TURN *** [Kc Js 2c][Ac]
+*** RIVER *** [Kc Js 2c Ac][2s]
+*** SHOW DOWN ***
+DEEPSEABABY shows [Td Ad] (Two pairs : Aces and 2)
+tc1591 shows [4s 4d] (Two pairs : 4 and 2)
+tc1591 collected 0.74€ from side pot 1
+DEEPSEABABY collected 0.63€ from main pot
+*** SUMMARY ***
+Total pot 1.37€ | Rake 0.04€
+Board: [Kc Js 2c Ac 2s]
+Seat 4: DEEPSEABABY showed [Td Ad] and won 0.63€ with Two pairs : Aces and 2
+Seat 5: tc1591 (button) showed [4s 4d] and won 0.74€ with Two pairs : 4 and 2
+
+
+Winamax Poker - CashGame - HandId: #7275374-203-1425937105 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:38:25 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0.10€)
+Seat 3: TELLMEWHYYY (0.30€)
+Seat 4: DEEPSEABABY (0.63€)
+Seat 5: tc1591 (0.74€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [8d 5h]
+*** PRE-FLOP *** 
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.28€ to 0.30€ and is all-in
+DEEPSEABABY raises 0.33€ to 0.63€ and is all-in
+*** FLOP *** [4c 7h Qd]
+*** TURN *** [4c 7h Qd][Kd]
+*** RIVER *** [4c 7h Qd Kd][3c]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Ts 8s] (High card : King)
+DEEPSEABABY shows [9d 6d] (High card : King)
+DEEPSEABABY collected 0.33€ from side pot 1
+TELLMEWHYYY collected 0.56€ from main pot
+*** SUMMARY ***
+Total pot 0.89€ | Rake 0.04€
+Board: [4c 7h Qd Kd 3c]
+Seat 3: TELLMEWHYYY (small blind) showed [Ts 8s] and won 0.56€ with High card : King
+Seat 4: DEEPSEABABY (big blind) showed [9d 6d] and won 0.33€ with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7275374-204-1425937124 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:38:44 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0.10€)
+Seat 3: TELLMEWHYYY (0.56€)
+Seat 4: DEEPSEABABY (0.33€)
+Seat 5: tc1591 (0.74€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+djibnet17 posts small blind 0.01€ out of position
+Dealt to tc1591 [2c 4h]
+*** PRE-FLOP *** 
+Mr Bad  Beat raises 0.08€ to 0.10€ and is all-in
+djibnet17 calls 0.09€ and is all-in
+TELLMEWHYYY folds
+DEEPSEABABY calls 0.09€
+tc1591 folds
+*** FLOP *** [Qs 5d 7c]
+*** TURN *** [Qs 5d 7c][Qc]
+*** RIVER *** [Qs 5d 7c Qc][9s]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [Jd Ac] (One pair : Queens)
+djibnet17 shows [Ad Th] (One pair : Queens)
+DEEPSEABABY shows [9h Qh] (Full of Queens and 9)
+DEEPSEABABY collected 0.30€ from pot
+*** SUMMARY ***
+Total pot 0.30€ | Rake 0.02€
+Board: [Qs 5d 7c Qc 9s]
+Seat 1: Mr Bad  Beat showed [Jd Ac] and lost with One pair : Queens
+Seat 2: djibnet17 showed [Ad Th] and lost with One pair : Queens
+Seat 4: DEEPSEABABY (small blind) showed [9h Qh] and won 0.30€ with Full of Queens and 9
+
+
+Winamax Poker - CashGame - HandId: #7275374-205-1425937157 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:39:17 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0€)
+Seat 3: TELLMEWHYYY (0.56€)
+Seat 4: DEEPSEABABY (0.53€)
+Seat 5: tc1591 (0.72€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [6c 8h]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.54€ to 0.56€ and is all-in
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY collected 0.59€ from pot
+*** SUMMARY ***
+Total pot 0.59€ | No rake
+Seat 3: TELLMEWHYYY won 0.59€
+
+
+Winamax Poker - CashGame - HandId: #7275374-206-1425937175 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:39:35 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0.10€)
+Seat 3: TELLMEWHYYY (0.59€)
+Seat 4: DEEPSEABABY (0.53€)
+Seat 5: tc1591 (0.71€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+djibnet17 posts big blind 0.02€
+Dealt to tc1591 [Kd Ah]
+*** PRE-FLOP *** 
+TELLMEWHYYY folds
+DEEPSEABABY folds
+tc1591 raises 0.69€ to 0.71€ and is all-in
+Mr Bad  Beat calls 0.09€ and is all-in
+djibnet17 folds
+*** FLOP *** [Ac 6c 2s]
+*** TURN *** [Ac 6c 2s][4c]
+*** RIVER *** [Ac 6c 2s 4c][5c]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [5h Kh] (One pair : 5)
+tc1591 shows [Kd Ah] (One pair : Aces)
+tc1591 collected 0.82€ from pot
+*** SUMMARY ***
+Total pot 0.82€ | Rake 0.01€
+Board: [Ac 6c 2s 4c 5c]
+Seat 1: Mr Bad  Beat (small blind) showed [5h Kh] and lost with One pair : 5
+Seat 5: tc1591 (button) showed [Kd Ah] and won 0.82€ with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7275374-207-1425937197 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:39:57 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0.08€)
+Seat 3: TELLMEWHYYY (0.59€)
+Seat 4: DEEPSEABABY (0.53€)
+Seat 5: tc1591 (0.82€)
+*** ANTE/BLINDS ***
+djibnet17 posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [Qc 5h]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 0.51€ to 0.53€ and is all-in
+tc1591 folds
+Mr Bad  Beat calls 0.10€ and is all-in
+djibnet17 calls 0.07€ and is all-in
+TELLMEWHYYY raises 0.06€ to 0.59€ and is all-in
+*** FLOP *** [3s 6d 4h]
+*** TURN *** [3s 6d 4h][4d]
+*** RIVER *** [3s 6d 4h 4d][Ad]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [8h Ks] (One pair : 4)
+djibnet17 shows [Kc Ts] (One pair : 4)
+DEEPSEABABY shows [Qh Jd] (One pair : 4)
+TELLMEWHYYY shows [9d 7d] (Flush Ace high)
+TELLMEWHYYY collected 1.22€ from pot
+*** SUMMARY ***
+Total pot 1.22€ | Rake 0.08€
+Board: [3s 6d 4h 4d Ad]
+Seat 1: Mr Bad  Beat (button) showed [8h Ks] and lost with One pair : 4
+Seat 2: djibnet17 (small blind) showed [Kc Ts] and lost with One pair : 4
+Seat 3: TELLMEWHYYY (big blind) showed [9d 7d] and won 1.22€ with Flush Ace high
+Seat 4: DEEPSEABABY showed [Qh Jd] and lost with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #7275374-208-1425937216 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:40:16 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #2 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0€)
+Seat 3: TELLMEWHYYY (1.22€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (0.82€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [5s 2c]
+*** PRE-FLOP *** 
+tc1591 folds
+TELLMEWHYYY raises 1.20€ to 1.22€ and is all-in
+DEEPSEABABY calls 0.08€ and is all-in
+*** FLOP *** [Ac Kc 6d]
+*** TURN *** [Ac Kc 6d][9c]
+*** RIVER *** [Ac Kc 6d 9c][5d]
+*** SHOW DOWN ***
+DEEPSEABABY shows [Jc 4s] (High card : Ace)
+TELLMEWHYYY shows [Qd 8d] (High card : Ace)
+TELLMEWHYYY collected 1.31€ from pot
+*** SUMMARY ***
+Total pot 1.31€ | Rake 0.01€
+Board: [Ac Kc 6d 9c 5d]
+Seat 3: TELLMEWHYYY (small blind) showed [Qd 8d] and won 1.31€ with High card : Ace
+Seat 4: DEEPSEABABY (big blind) showed [Jc 4s] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7275374-209-1425937235 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:40:35 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: djibnet17 (0€)
+Seat 3: TELLMEWHYYY (1.31€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (0.82€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Ad As]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+TELLMEWHYYY raises 1.29€ to 1.31€ and is all-in
+DEEPSEABABY calls 0.09€ and is all-in
+tc1591 calls 0.80€ and is all-in
+*** FLOP *** [Th 8s Ah]
+*** TURN *** [Th 8s Ah][Td]
+*** RIVER *** [Th 8s Ah Td][4d]
+*** SHOW DOWN ***
+DEEPSEABABY shows [6c 7c] (One pair : Tens)
+tc1591 shows [Ad As] (Full of Aces and Tens)
+TELLMEWHYYY shows [4c 7s] (Two pairs : Tens and 4)
+TELLMEWHYYY collected 0.49€ from side pot 1
+tc1591 collected 1.63€ from main pot
+*** SUMMARY ***
+Total pot 2.12€ | Rake 0.11€
+Board: [Th 8s Ah Td 4d]
+Seat 3: TELLMEWHYYY (button) showed [4c 7s] and won 0.49€ with Two pairs : Tens and 4
+Seat 4: DEEPSEABABY (small blind) showed [6c 7c] and lost with One pair : Tens
+Seat 5: tc1591 (big blind) showed [Ad As] and won 1.63€ with Full of Aces and Tens
+
+
+Winamax Poker - CashGame - HandId: #7275374-210-1425937252 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:40:52 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 3: TELLMEWHYYY (0.49€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (1.63€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [Ac 4d]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.47€ to 0.49€ and is all-in
+DEEPSEABABY calls 0.10€ and is all-in
+tc1591 folds
+Mr Bad  Beat calls 0.08€ and is all-in
+*** FLOP *** [2h 2c 5h]
+*** TURN *** [2h 2c 5h][7c]
+*** RIVER *** [2h 2c 5h 7c][9c]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [Kc Jh] (One pair : 2)
+DEEPSEABABY shows [2s 9d] (Full of 2 and 9)
+TELLMEWHYYY shows [Qh Tc] (One pair : 2)
+TELLMEWHYYY collected 0.39€ from side pot 1
+DEEPSEABABY collected 0.29€ from main pot
+*** SUMMARY ***
+Total pot 0.68€ | Rake 0.02€
+Board: [2h 2c 5h 7c 9c]
+Seat 1: Mr Bad  Beat (big blind) showed [Kc Jh] and lost with One pair : 2
+Seat 3: TELLMEWHYYY showed [Qh Tc] and won 0.39€ with One pair : 2
+Seat 4: DEEPSEABABY (button) showed [2s 9d] and won 0.29€ with Full of 2 and 9
+
+
+Winamax Poker - CashGame - HandId: #7275374-211-1425937280 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:41:20 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 3: TELLMEWHYYY (0.39€)
+Seat 4: DEEPSEABABY (0.29€)
+Seat 5: tc1591 (1.62€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [Jh 6s]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 0.27€ to 0.29€ and is all-in
+tc1591 folds
+Mr Bad  Beat calls 0.09€ and is all-in
+TELLMEWHYYY folds
+*** FLOP *** [5c 7s Kd]
+*** TURN *** [5c 7s Kd][Qs]
+*** RIVER *** [5c 7s Kd Qs][3d]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [Qc 9d] (One pair : Queens)
+DEEPSEABABY shows [9c Js] (High card : King)
+DEEPSEABABY collected 0.19€ from side pot 1
+Mr Bad  Beat collected 0.21€ from main pot
+*** SUMMARY ***
+Total pot 0.40€ | Rake 0.01€
+Board: [5c 7s Kd Qs 3d]
+Seat 1: Mr Bad  Beat (small blind) showed [Qc 9d] and won 0.21€ with One pair : Queens
+Seat 4: DEEPSEABABY showed [9c Js] and won 0.19€ with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7275374-212-1425937304 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:41:44 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.21€)
+Seat 2: Theplayers74 (0.10€)
+Seat 3: TELLMEWHYYY (0.37€)
+Seat 4: DEEPSEABABY (0.19€)
+Seat 5: tc1591 (1.62€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [2s 5d]
+*** PRE-FLOP *** 
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.35€ to 0.37€ and is all-in
+DEEPSEABABY calls 0.17€ and is all-in
+*** FLOP *** [Qh 3d Ah]
+*** TURN *** [Qh 3d Ah][Jh]
+*** RIVER *** [Qh 3d Ah Jh][7h]
+*** SHOW DOWN ***
+DEEPSEABABY shows [3s 4c] (One pair : 3)
+TELLMEWHYYY shows [9d 9c] (One pair : 9)
+TELLMEWHYYY collected 0.54€ from pot
+*** SUMMARY ***
+Total pot 0.54€ | Rake 0.02€
+Board: [Qh 3d Ah Jh 7h]
+Seat 3: TELLMEWHYYY (small blind) showed [9d 9c] and won 0.54€ with One pair : 9
+Seat 4: DEEPSEABABY (big blind) showed [3s 4c] and lost with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7275374-213-1425937322 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:42:02 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.21€)
+Seat 2: Theplayers74 (0.10€)
+Seat 3: TELLMEWHYYY (0.54€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (1.62€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Theplayers74 posts big blind 0.02€ out of position
+Dealt to tc1591 [8s 6h]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+Theplayers74 checks
+TELLMEWHYYY folds
+DEEPSEABABY raises 0.08€ to 0.10€ and is all-in
+tc1591 calls 0.08€
+Theplayers74 folds
+*** FLOP *** [Kd 5h Kc]
+*** TURN *** [Kd 5h Kc][7c]
+*** RIVER *** [Kd 5h Kc 7c][6d]
+*** SHOW DOWN ***
+DEEPSEABABY shows [Js Qc] (One pair : Kings)
+tc1591 shows [8s 6h] (Two pairs : Kings and 6)
+tc1591 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Kd 5h Kc 7c 6d]
+Seat 4: DEEPSEABABY (small blind) showed [Js Qc] and lost with One pair : Kings
+Seat 5: tc1591 (big blind) showed [8s 6h] and won 0.21€ with Two pairs : Kings and 6
+
+
+Winamax Poker - CashGame - HandId: #7275374-214-1425937346 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:42:26 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.21€)
+Seat 2: Theplayers74 (0.08€)
+Seat 3: TELLMEWHYYY (0.54€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (1.73€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [9s Td]
+*** PRE-FLOP *** 
+Theplayers74 raises 0.06€ to 0.08€ and is all-in
+TELLMEWHYYY raises 0.46€ to 0.54€ and is all-in
+DEEPSEABABY calls 0.10€ and is all-in
+tc1591 folds
+Mr Bad  Beat calls 0.19€ and is all-in
+*** FLOP *** [4c Kc Th]
+*** TURN *** [4c Kc Th][9h]
+*** RIVER *** [4c Kc Th 9h][9d]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [Ac Tc] (Two pairs : Tens and 9)
+Theplayers74 shows [Jc Jd] (Two pairs : Jacks and 9)
+DEEPSEABABY shows [6c 2c] (One pair : 9)
+TELLMEWHYYY shows [Ks Qc] (Two pairs : Kings and 9)
+TELLMEWHYYY collected 0.90€ from pot
+*** SUMMARY ***
+Total pot 0.90€ | Rake 0.04€
+Board: [4c Kc Th 9h 9d]
+Seat 1: Mr Bad  Beat (big blind) showed [Ac Tc] and lost with Two pairs : Tens and 9
+Seat 2: Theplayers74 showed [Jc Jd] and lost with Two pairs : Jacks and 9
+Seat 3: TELLMEWHYYY showed [Ks Qc] and won 0.90€ with Two pairs : Kings and 9
+Seat 4: DEEPSEABABY (button) showed [6c 2c] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7275374-215-1425937369 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:42:49 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 2: Theplayers74 (0€)
+Seat 3: TELLMEWHYYY (0.90€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (1.72€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [3c Ac]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 0.08€ to 0.10€ and is all-in
+tc1591 raises 1.62€ to 1.72€ and is all-in
+Mr Bad  Beat folds
+TELLMEWHYYY folds
+*** FLOP *** [Jc Ah 5d]
+*** TURN *** [Jc Ah 5d][Ts]
+*** RIVER *** [Jc Ah 5d Ts][8d]
+*** SHOW DOWN ***
+DEEPSEABABY shows [Ad 9c] (One pair : Aces)
+tc1591 shows [3c Ac] (One pair : Aces)
+tc1591 collected 1.62€ from side pot 1
+DEEPSEABABY collected 0.22€ from main pot
+*** SUMMARY ***
+Total pot 1.84€ | Rake 0.01€
+Board: [Jc Ah 5d Ts 8d]
+Seat 4: DEEPSEABABY showed [Ad 9c] and won 0.22€ with One pair : Aces
+Seat 5: tc1591 (button) showed [3c Ac] and won 1.62€ with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7275374-216-1425937393 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:43:13 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 3: TELLMEWHYYY (0.88€)
+Seat 4: DEEPSEABABY (0.22€)
+Seat 5: tc1591 (1.62€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [4s 4c]
+*** PRE-FLOP *** 
+tc1591 raises 1.60€ to 1.62€ and is all-in
+Mr Bad  Beat calls 0.10€ and is all-in
+TELLMEWHYYY folds
+DEEPSEABABY calls 0.20€ and is all-in
+*** FLOP *** [8c Js Td]
+*** TURN *** [8c Js Td][Jh]
+*** RIVER *** [8c Js Td Jh][2h]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [Ks 7s] (One pair : Jacks)
+DEEPSEABABY shows [2c As] (Two pairs : Jacks and 2)
+tc1591 shows [4s 4c] (Two pairs : Jacks and 4)
+tc1591 collected 1.91€ from pot
+*** SUMMARY ***
+Total pot 1.91€ | Rake 0.04€
+Board: [8c Js Td Jh 2h]
+Seat 1: Mr Bad  Beat (button) showed [Ks 7s] and lost with One pair : Jacks
+Seat 4: DEEPSEABABY (big blind) showed [2c As] and lost with Two pairs : Jacks and 2
+Seat 5: tc1591 showed [4s 4c] and won 1.91€ with Two pairs : Jacks and 4
+
+
+Winamax Poker - CashGame - HandId: #7275374-217-1425937411 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:43:31 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 3: TELLMEWHYYY (0.87€)
+Seat 4: DEEPSEABABY (0.10€)
+Seat 5: tc1591 (1.91€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [6s 9c]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.85€ to 0.87€ and is all-in
+DEEPSEABABY calls 0.09€ and is all-in
+tc1591 folds
+*** FLOP *** [2s Jh 8s]
+*** TURN *** [2s Jh 8s][Ts]
+*** RIVER *** [2s Jh 8s Ts][6d]
+*** SHOW DOWN ***
+DEEPSEABABY shows [4h Ks] (High card : King)
+TELLMEWHYYY shows [Qh 4c] (High card : Queen)
+TELLMEWHYYY collected 0.77€ from side pot 1
+DEEPSEABABY collected 0.21€ from main pot
+*** SUMMARY ***
+Total pot 0.98€ | Rake 0.01€
+Board: [2s Jh 8s Ts 6d]
+Seat 3: TELLMEWHYYY (button) showed [Qh 4c] and won 0.77€ with High card : Queen
+Seat 4: DEEPSEABABY (small blind) showed [4h Ks] and won 0.21€ with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7275374-218-1425937437 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:43:57 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.10€)
+Seat 3: TELLMEWHYYY (0.77€)
+Seat 4: DEEPSEABABY (0.21€)
+Seat 5: tc1591 (1.89€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [Td 9h]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.75€ to 0.77€ and is all-in
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat calls 0.08€ and is all-in
+*** FLOP *** [7c 5s 5c]
+*** TURN *** [7c 5s 5c][Ts]
+*** RIVER *** [7c 5s 5c Ts][9s]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [7h Kd] (Two pairs : 7 and 5)
+TELLMEWHYYY shows [Ac Kc] (One pair : 5)
+TELLMEWHYYY collected 0.67€ from side pot 1
+Mr Bad  Beat collected 0.20€ from main pot
+*** SUMMARY ***
+Total pot 0.87€ | Rake 0.01€
+Board: [7c 5s 5c Ts 9s]
+Seat 1: Mr Bad  Beat (big blind) showed [7h Kd] and won 0.20€ with Two pairs : 7 and 5
+Seat 3: TELLMEWHYYY showed [Ac Kc] and won 0.67€ with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #7275374-219-1425937454 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:44:14 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.20€)
+Seat 3: TELLMEWHYYY (0.67€)
+Seat 4: DEEPSEABABY (0.21€)
+Seat 5: tc1591 (1.88€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [8s Ts]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 0.19€ to 0.21€ and is all-in
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.46€ to 0.67€ and is all-in
+*** FLOP *** [Jd 5h 3c]
+*** TURN *** [Jd 5h 3c][4s]
+*** RIVER *** [Jd 5h 3c 4s][6c]
+*** SHOW DOWN ***
+DEEPSEABABY shows [Qd 6h] (One pair : 6)
+TELLMEWHYYY shows [9c 3d] (One pair : 3)
+TELLMEWHYYY collected 0.46€ from side pot 1
+DEEPSEABABY collected 0.40€ from main pot
+*** SUMMARY ***
+Total pot 0.86€ | Rake 0.03€
+Board: [Jd 5h 3c 4s 6c]
+Seat 3: TELLMEWHYYY (big blind) showed [9c 3d] and won 0.46€ with One pair : 3
+Seat 4: DEEPSEABABY showed [Qd 6h] and won 0.40€ with One pair : 6
+
+
+Winamax Poker - CashGame - HandId: #7275374-220-1425937475 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:44:35 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.19€)
+Seat 3: TELLMEWHYYY (0.46€)
+Seat 4: DEEPSEABABY (0.40€)
+Seat 5: tc1591 (1.88€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [Qd Js]
+*** PRE-FLOP *** 
+tc1591 raises 1.86€ to 1.88€ and is all-in
+Mr Bad  Beat folds
+TELLMEWHYYY calls 0.45€ and is all-in
+DEEPSEABABY folds
+*** FLOP *** [Qh 9c 6c]
+*** TURN *** [Qh 9c 6c][5c]
+*** RIVER *** [Qh 9c 6c 5c][9h]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Ad 8c] (One pair : 9)
+tc1591 shows [Qd Js] (Two pairs : Queens and 9)
+tc1591 collected 2.30€ from pot
+*** SUMMARY ***
+Total pot 2.30€ | Rake 0.06€
+Board: [Qh 9c 6c 5c 9h]
+Seat 3: TELLMEWHYYY (small blind) showed [Ad 8c] and lost with One pair : 9
+Seat 5: tc1591 showed [Qd Js] and won 2.30€ with Two pairs : Queens and 9
+
+
+Winamax Poker - CashGame - HandId: #7275374-221-1425937492 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:44:52 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.19€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.38€)
+Seat 5: tc1591 (2.30€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [9d Qd]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY raises 0.28€ to 0.38€ and is all-in
+tc1591 folds
+*** FLOP *** [2c Ks 8d]
+*** TURN *** [2c Ks 8d][Tc]
+*** RIVER *** [2c Ks 8d Tc][Ah]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [5c 2s] (One pair : 2)
+DEEPSEABABY shows [As Jh] (One pair : Aces)
+DEEPSEABABY collected 0.49€ from pot
+*** SUMMARY ***
+Total pot 0.49€ | Rake 0.01€
+Board: [2c Ks 8d Tc Ah]
+Seat 3: TELLMEWHYYY (button) showed [5c 2s] and lost with One pair : 2
+Seat 4: DEEPSEABABY (small blind) showed [As Jh] and won 0.49€ with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7275374-222-1425937508 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:45:08 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.19€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.49€)
+Seat 5: tc1591 (2.28€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [Qc 9d]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY raises 0.39€ to 0.49€ and is all-in
+tc1591 folds
+Mr Bad  Beat folds
+*** FLOP *** [Js Kd 2s]
+*** TURN *** [Js Kd 2s][4h]
+*** RIVER *** [Js Kd 2s 4h][Tc]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Ah 7h] (High card : Ace)
+DEEPSEABABY shows [Ks Jd] (Two pairs : Kings and Jacks)
+DEEPSEABABY collected 0.61€ from pot
+*** SUMMARY ***
+Total pot 0.61€ | Rake 0.01€
+Board: [Js Kd 2s 4h Tc]
+Seat 3: TELLMEWHYYY showed [Ah 7h] and lost with High card : Ace
+Seat 4: DEEPSEABABY (button) showed [Ks Jd] and won 0.61€ with Two pairs : Kings and Jacks
+
+
+Winamax Poker - CashGame - HandId: #7275374-223-1425937539 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:45:39 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.17€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (0.61€)
+Seat 5: tc1591 (2.27€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [6h 9h]
+*** PRE-FLOP *** 
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 3: TELLMEWHYYY (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7275374-224-1425937550 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:45:50 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.16€)
+Seat 3: TELLMEWHYYY (0.11€)
+Seat 4: DEEPSEABABY (0.61€)
+Seat 5: tc1591 (2.27€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [4s 4c]
+*** PRE-FLOP *** 
+tc1591 raises 2.25€ to 2.27€ and is all-in
+Mr Bad  Beat folds
+TELLMEWHYYY calls 0.10€ and is all-in
+DEEPSEABABY calls 0.59€ and is all-in
+*** FLOP *** [Ac Kc Jh]
+*** TURN *** [Ac Kc Jh][As]
+*** RIVER *** [Ac Kc Jh As][7s]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Jd 5s] (Two pairs : Aces and Jacks)
+DEEPSEABABY shows [Ah 9d] (Trips of Aces)
+tc1591 shows [4s 4c] (Two pairs : Aces and 4)
+tc1591 collected 1.66€ from side pot 1
+DEEPSEABABY collected 1.24€ from main pot
+*** SUMMARY ***
+Total pot 2.90€ | Rake 0.09€
+Board: [Ac Kc Jh As 7s]
+Seat 3: TELLMEWHYYY (small blind) showed [Jd 5s] and lost with Two pairs : Aces and Jacks
+Seat 4: DEEPSEABABY (big blind) showed [Ah 9d] and won 1.24€ with Trips of Aces
+Seat 5: tc1591 showed [4s 4c] and won 1.66€ with Two pairs : Aces and 4
+
+
+Winamax Poker - CashGame - HandId: #7275374-225-1425937566 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:46:06 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.16€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.24€)
+Seat 5: tc1591 (1.66€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Qs 8s]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY folds
+tc1591 calls 0.08€
+*** FLOP *** [9d 2s 6h]
+*** TURN *** [9d 2s 6h][3c]
+*** RIVER *** [9d 2s 6h 3c][Ah]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [8c 7d] (High card : Ace)
+tc1591 shows [Qs 8s] (High card : Ace)
+tc1591 collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | Rake 0.01€
+Board: [9d 2s 6h 3c Ah]
+Seat 3: TELLMEWHYYY (button) showed [8c 7d] and lost with High card : Ace
+Seat 5: tc1591 (big blind) showed [Qs 8s] and won 0.20€ with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7275374-226-1425937583 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:46:23 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.16€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.23€)
+Seat 5: tc1591 (1.76€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [5h Jc]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat raises 0.06€ to 0.16€ and is all-in
+*** FLOP *** [5s Jh 6c]
+*** TURN *** [5s Jh 6c][3h]
+*** RIVER *** [5s Jh 6c 3h][Qd]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [4c Kd] (High card : King)
+Mr Bad  Beat shows [3c Ah] (One pair : 3)
+Mr Bad  Beat collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.01€
+Board: [5s Jh 6c 3h Qd]
+Seat 1: Mr Bad  Beat (big blind) showed [3c Ah] and won 0.26€ with One pair : 3
+Seat 3: TELLMEWHYYY showed [4c Kd] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7275374-227-1425937605 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:46:45 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.26€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.23€)
+Seat 5: tc1591 (1.75€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [Qd 6s]
+*** PRE-FLOP *** 
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 3: TELLMEWHYYY (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7275374-228-1425937614 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:46:54 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.25€)
+Seat 3: TELLMEWHYYY (0.11€)
+Seat 4: DEEPSEABABY (1.23€)
+Seat 5: tc1591 (1.75€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [6h Jh]
+*** PRE-FLOP *** 
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.09€ to 0.11€ and is all-in
+DEEPSEABABY calls 0.09€
+*** FLOP *** [3d 2s 6s]
+*** TURN *** [3d 2s 6s][7d]
+*** RIVER *** [3d 2s 6s 7d][3c]
+*** SHOW DOWN ***
+DEEPSEABABY shows [Ts Qh] (One pair : 3)
+TELLMEWHYYY shows [3h 4h] (Trips of 3)
+TELLMEWHYYY collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [3d 2s 6s 7d 3c]
+Seat 3: TELLMEWHYYY (small blind) showed [3h 4h] and won 0.21€ with Trips of 3
+Seat 4: DEEPSEABABY (big blind) showed [Ts Qh] and lost with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7275374-229-1425937630 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:47:10 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.25€)
+Seat 3: TELLMEWHYYY (0.21€)
+Seat 4: DEEPSEABABY (1.12€)
+Seat 5: tc1591 (1.75€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [7c 8d]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+TELLMEWHYYY raises 0.19€ to 0.21€ and is all-in
+DEEPSEABABY raises 0.91€ to 1.12€ and is all-in
+tc1591 folds
+*** FLOP *** [3d Kc Ks]
+*** TURN *** [3d Kc Ks][Td]
+*** RIVER *** [3d Kc Ks Td][As]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [5s 6h] (One pair : Kings)
+DEEPSEABABY shows [4d 4h] (Two pairs : Kings and 4)
+DEEPSEABABY collected 1.32€ from pot
+*** SUMMARY ***
+Total pot 1.32€ | Rake 0.03€
+Board: [3d Kc Ks Td As]
+Seat 3: TELLMEWHYYY (button) showed [5s 6h] and lost with One pair : Kings
+Seat 4: DEEPSEABABY (small blind) showed [4d 4h] and won 1.32€ with Two pairs : Kings and 4
+
+
+Winamax Poker - CashGame - HandId: #7275374-230-1425937650 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:47:30 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.25€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.32€)
+Seat 5: tc1591 (1.73€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [5s 4h]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY calls 0.10€
+tc1591 folds
+Mr Bad  Beat folds
+*** FLOP *** [6h Jc Kc]
+*** TURN *** [6h Jc Kc][4s]
+*** RIVER *** [6h Jc Kc 4s][Tc]
+*** SHOW DOWN ***
+DEEPSEABABY shows [2h Qh] (High card : King)
+TELLMEWHYYY shows [Td 6d] (Two pairs : Tens and 6)
+TELLMEWHYYY collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [6h Jc Kc 4s Tc]
+Seat 3: TELLMEWHYYY showed [Td 6d] and won 0.22€ with Two pairs : Tens and 6
+Seat 4: DEEPSEABABY (button) showed [2h Qh] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7275374-231-1425937671 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:47:51 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.23€)
+Seat 3: TELLMEWHYYY (0.22€)
+Seat 4: DEEPSEABABY (1.22€)
+Seat 5: tc1591 (1.72€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [Ah 6h]
+*** PRE-FLOP *** 
+DEEPSEABABY folds
+tc1591 raises 1.70€ to 1.72€ and is all-in
+Mr Bad  Beat folds
+TELLMEWHYYY calls 0.20€ and is all-in
+*** FLOP *** [4c Kc 3d]
+*** TURN *** [4c Kc 3d][7h]
+*** RIVER *** [4c Kc 3d 7h][4s]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Js 2c] (One pair : 4)
+tc1591 shows [Ah 6h] (One pair : 4)
+tc1591 collected 1.92€ from pot
+*** SUMMARY ***
+Total pot 1.92€ | Rake 0.03€
+Board: [4c Kc 3d 7h 4s]
+Seat 3: TELLMEWHYYY (big blind) showed [Js 2c] and lost with One pair : 4
+Seat 5: tc1591 (button) showed [Ah 6h] and won 1.92€ with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #7275374-232-1425937695 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:48:15 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.22€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.22€)
+Seat 5: tc1591 (1.92€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [4h Js]
+*** PRE-FLOP *** 
+tc1591 folds
+Mr Bad  Beat raises 0.20€ to 0.22€ and is all-in
+TELLMEWHYYY calls 0.09€ and is all-in
+DEEPSEABABY folds
+*** FLOP *** [Ah 2c Ts]
+*** TURN *** [Ah 2c Ts][8c]
+*** RIVER *** [Ah 2c Ts 8c][Jd]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Qd 9d] (Straight Queen high)
+Mr Bad  Beat shows [7d 6d] (High card : Ace)
+Mr Bad  Beat collected 0.12€ from side pot 1
+TELLMEWHYYY collected 0.21€ from main pot
+*** SUMMARY ***
+Total pot 0.33€ | Rake 0.01€
+Board: [Ah 2c Ts 8c Jd]
+Seat 1: Mr Bad  Beat (button) showed [7d 6d] and won 0.12€ with High card : Ace
+Seat 3: TELLMEWHYYY (small blind) showed [Qd 9d] and won 0.21€ with Straight Queen high
+
+
+Winamax Poker - CashGame - HandId: #7275374-233-1425937715 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:48:35 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.12€)
+Seat 3: TELLMEWHYYY (0.21€)
+Seat 4: DEEPSEABABY (1.20€)
+Seat 5: tc1591 (1.92€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [2s 6c]
+*** PRE-FLOP *** 
+Mr Bad  Beat raises 0.10€ to 0.12€ and is all-in
+TELLMEWHYYY raises 0.09€ to 0.21€ and is all-in
+DEEPSEABABY folds
+tc1591 folds
+*** FLOP *** [9s 7c Kh]
+*** TURN *** [9s 7c Kh][Qs]
+*** RIVER *** [9s 7c Kh Qs][9d]
+*** SHOW DOWN ***
+Mr Bad  Beat shows [3d As] (One pair : 9)
+TELLMEWHYYY shows [8h Js] (One pair : 9)
+TELLMEWHYYY collected 0.09€ from side pot 1
+Mr Bad  Beat collected 0.25€ from main pot
+*** SUMMARY ***
+Total pot 0.34€ | Rake 0.02€
+Board: [9s 7c Kh Qs 9d]
+Seat 1: Mr Bad  Beat showed [3d As] and won 0.25€ with One pair : 9
+Seat 3: TELLMEWHYYY (button) showed [8h Js] and won 0.09€ with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7275374-234-1425937747 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:49:07 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.25€)
+Seat 2: Lunatic01350 (0.10€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.19€)
+Seat 5: tc1591 (1.90€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Lunatic01350 posts big blind 0.02€ out of position
+Dealt to tc1591 [5d 7s]
+*** PRE-FLOP *** 
+Lunatic01350 checks
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat folds
+Lunatic01350 folds
+TELLMEWHYYY collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | No rake
+Seat 3: TELLMEWHYYY won 0.15€
+
+
+Winamax Poker - CashGame - HandId: #7275374-235-1425937769 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:49:29 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.23€)
+Seat 2: Lunatic01350 (0.08€)
+Seat 3: TELLMEWHYYY (0.15€)
+Seat 4: DEEPSEABABY (1.19€)
+Seat 5: tc1591 (1.89€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+Lunatic01350 posts big blind 0.02€
+Dealt to tc1591 [Td Jc]
+*** PRE-FLOP *** 
+TELLMEWHYYY raises 0.13€ to 0.15€ and is all-in
+DEEPSEABABY folds
+tc1591 folds
+Mr Bad  Beat folds
+Lunatic01350 folds
+TELLMEWHYYY collected 0.18€ from pot
+*** SUMMARY ***
+Total pot 0.18€ | No rake
+Seat 3: TELLMEWHYYY won 0.18€
+
+
+Winamax Poker - CashGame - HandId: #7275374-236-1425937796 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:49:56 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #1 is the button
+Seat 1: Mr Bad  Beat (0.22€)
+Seat 2: Lunatic01350 (0.06€)
+Seat 3: TELLMEWHYYY (0.18€)
+Seat 4: DEEPSEABABY (1.19€)
+Seat 5: tc1591 (1.89€)
+*** ANTE/BLINDS ***
+Lunatic01350 posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [9d Td]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 1.17€ to 1.19€ and is all-in
+tc1591 folds
+Mr Bad  Beat folds
+Lunatic01350 calls 0.05€ and is all-in
+TELLMEWHYYY calls 0.16€ and is all-in
+*** FLOP *** [7c 3s Kc]
+*** TURN *** [7c 3s Kc][Qs]
+*** RIVER *** [7c 3s Kc Qs][Qh]
+*** SHOW DOWN ***
+Lunatic01350 shows [Jh 8d] (One pair : Queens)
+TELLMEWHYYY shows [9s Kd] (Two pairs : Kings and Queens)
+DEEPSEABABY shows [Ad Qc] (Trips of Queens)
+DEEPSEABABY collected 1.40€ from pot
+*** SUMMARY ***
+Total pot 1.40€ | Rake 0.03€
+Board: [7c 3s Kc Qs Qh]
+Seat 2: Lunatic01350 (small blind) showed [Jh 8d] and lost with One pair : Queens
+Seat 3: TELLMEWHYYY (big blind) showed [9s Kd] and lost with Two pairs : Kings and Queens
+Seat 4: DEEPSEABABY showed [Ad Qc] and won 1.40€ with Trips of Queens
+
+
+Winamax Poker - CashGame - HandId: #7275374-237-1425937815 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:50:15 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #2 is the button
+Seat 1: Mr Bad  Beat (0.22€)
+Seat 2: Lunatic01350 (0€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.40€)
+Seat 5: tc1591 (1.89€)
+*** ANTE/BLINDS ***
+TELLMEWHYYY posts small blind 0.01€
+DEEPSEABABY posts big blind 0.02€
+Dealt to tc1591 [9d 7s]
+*** PRE-FLOP *** 
+tc1591 folds
+Mr Bad  Beat raises 0.20€ to 0.22€ and is all-in
+TELLMEWHYYY calls 0.09€ and is all-in
+DEEPSEABABY calls 0.20€
+*** FLOP *** [8s 5h 3s]
+*** TURN *** [8s 5h 3s][Td]
+*** RIVER *** [8s 5h 3s Td][Qc]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [Js 7c] (High card : Queen)
+DEEPSEABABY shows [As 6s] (High card : Ace)
+Mr Bad  Beat shows [Ac Kh] (High card : Ace)
+Mr Bad  Beat collected 0.50€ from pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.04€
+Board: [8s 5h 3s Td Qc]
+Seat 1: Mr Bad  Beat showed [Ac Kh] and won 0.50€ with High card : Ace
+Seat 3: TELLMEWHYYY (small blind) showed [Js 7c] and lost with High card : Queen
+Seat 4: DEEPSEABABY (big blind) showed [As 6s] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7275374-238-1425937832 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:50:32 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #3 is the button
+Seat 1: Mr Bad  Beat (0.50€)
+Seat 2: Lunatic01350 (0.10€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.18€)
+Seat 5: tc1591 (1.89€)
+*** ANTE/BLINDS ***
+DEEPSEABABY posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [6c Tc]
+*** PRE-FLOP *** 
+Mr Bad  Beat folds
+Lunatic01350 folds
+TELLMEWHYYY raises 0.08€ to 0.10€ and is all-in
+DEEPSEABABY calls 0.09€
+tc1591 folds
+*** FLOP *** [Qd 6d Kh]
+*** TURN *** [Qd 6d Kh][5h]
+*** RIVER *** [Qd 6d Kh 5h][Jc]
+*** SHOW DOWN ***
+DEEPSEABABY shows [4s 2d] (High card : King)
+TELLMEWHYYY shows [2s 8h] (High card : King)
+TELLMEWHYYY collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [Qd 6d Kh 5h Jc]
+Seat 3: TELLMEWHYYY (button) showed [2s 8h] and won 0.21€ with High card : King
+Seat 4: DEEPSEABABY (small blind) showed [4s 2d] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7275374-239-1425937858 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:50:58 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #4 is the button
+Seat 1: Mr Bad  Beat (0.50€)
+Seat 2: Lunatic01350 (0.10€)
+Seat 3: TELLMEWHYYY (0.21€)
+Seat 4: DEEPSEABABY (1.08€)
+Seat 5: tc1591 (1.87€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+Mr Bad  Beat posts big blind 0.02€
+Dealt to tc1591 [5d 2d]
+*** PRE-FLOP *** 
+Lunatic01350 raises 0.08€ to 0.10€ and is all-in
+TELLMEWHYYY raises 0.11€ to 0.21€ and is all-in
+DEEPSEABABY calls 0.21€
+tc1591 folds
+Mr Bad  Beat folds
+*** FLOP *** [Jh 9s 4c]
+*** TURN *** [Jh 9s 4c][Ts]
+*** RIVER *** [Jh 9s 4c Ts][Qc]
+*** SHOW DOWN ***
+Lunatic01350 shows [7s As] (High card : Ace)
+TELLMEWHYYY shows [Ac 4h] (One pair : 4)
+DEEPSEABABY shows [9d 7h] (One pair : 9)
+DEEPSEABABY collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | Rake 0.04€
+Board: [Jh 9s 4c Ts Qc]
+Seat 2: Lunatic01350 showed [7s As] and lost with High card : Ace
+Seat 3: TELLMEWHYYY showed [Ac 4h] and lost with One pair : 4
+Seat 4: DEEPSEABABY (button) showed [9d 7h] and won 0.51€ with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7275374-240-1425937878 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:51:18 UTC
+Table: 'SHORT TRACK 0,10€ 11' 5-max (real money) Seat #5 is the button
+Seat 1: Mr Bad  Beat (0.48€)
+Seat 2: Lunatic01350 (0.10€)
+Seat 3: TELLMEWHYYY (0.10€)
+Seat 4: DEEPSEABABY (1.38€)
+Seat 5: tc1591 (1.86€)
+*** ANTE/BLINDS ***
+Mr Bad  Beat posts small blind 0.01€
+TELLMEWHYYY posts big blind 0.02€
+Dealt to tc1591 [6d 7s]
+*** PRE-FLOP *** 
+DEEPSEABABY raises 1.36€ to 1.38€ and is all-in
+tc1591 folds
+Mr Bad  Beat folds
+TELLMEWHYYY calls 0.08€ and is all-in
+*** FLOP *** [4h 8s As]
+*** TURN *** [4h 8s As][Ad]
+*** RIVER *** [4h 8s As Ad][8h]
+*** SHOW DOWN ***
+TELLMEWHYYY shows [5s Ts] (Two pairs : Aces and 8)
+DEEPSEABABY shows [2s 7h] (Two pairs : Aces and 8)
+DEEPSEABABY collected 1.28€ from side pot 1
+TELLMEWHYYY collected 0.20€ from main pot
+*** SUMMARY ***
+Total pot 1.48€ | Rake 0.01€
+Board: [4h 8s As Ad 8h]
+Seat 3: TELLMEWHYYY (big blind) showed [5s Ts] and won 0.20€ with Two pairs : Aces and 8
+Seat 4: DEEPSEABABY showed [2s 7h] and won 1.28€ with Two pairs : Aces and 8
+
+

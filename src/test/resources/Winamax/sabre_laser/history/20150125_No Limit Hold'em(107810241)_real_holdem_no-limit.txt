@@ -1,0 +1,1702 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #463041459268878337-1-1422222225 - Holdem no limit (10/20) - 2015/01/25 21:43:45 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #2 is the button
+Seat 1: spokaann (1500)
+Seat 2: androcles (1500)
+Seat 3: nikodaix (1500)
+Seat 4: Jonestowne (1500)
+Seat 5: timetoplay (1500)
+Seat 6: Maquinho (1500)
+Seat 7: KARELEFIN (1500)
+Seat 8: Guronsan47 (1500)
+Seat 9: atft (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+nikodaix posts small blind 10
+Jonestowne posts big blind 20
+Dealt to sabre_laser [Ad Qd]
+*** PRE-FLOP *** 
+timetoplay calls 20
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser raises 30 to 50
+spokaann folds
+androcles folds
+nikodaix calls 40
+Jonestowne calls 30
+timetoplay folds
+*** FLOP *** [9d 9s 3c]
+nikodaix checks
+Jonestowne checks
+sabre_laser bets 170
+nikodaix folds
+Jonestowne folds
+sabre_laser collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [9d 9s 3c]
+Seat 10: sabre_laser won 340
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #463041459268878337-2-1422222321 - Holdem no limit (10/20) - 2015/01/25 21:45:21 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #3 is the button
+Seat 1: spokaann (1500)
+Seat 2: androcles (1500)
+Seat 3: nikodaix (1450)
+Seat 4: Jonestowne (1450)
+Seat 5: timetoplay (1480)
+Seat 6: Maquinho (1500)
+Seat 7: KARELEFIN (1500)
+Seat 8: Guronsan47 (1500)
+Seat 9: atft (1500)
+Seat 10: sabre_laser (1620)
+*** ANTE/BLINDS ***
+Jonestowne posts small blind 10
+timetoplay posts big blind 20
+Dealt to sabre_laser [3h 8h]
+*** PRE-FLOP *** 
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+nikodaix folds
+Jonestowne calls 10
+timetoplay checks
+*** FLOP *** [Ks 8d 7d]
+Jonestowne checks
+timetoplay bets 40
+Jonestowne calls 40
+*** TURN *** [Ks 8d 7d][5s]
+Jonestowne checks
+timetoplay bets 120
+Jonestowne folds
+timetoplay collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ks 8d 7d 5s]
+Seat 5: timetoplay (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #463041459268878337-3-1422222384 - Holdem no limit (10/20) - 2015/01/25 21:46:24 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #4 is the button
+Seat 1: spokaann (1500)
+Seat 2: androcles (1500)
+Seat 3: nikodaix (1450)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1540)
+Seat 6: Maquinho (1500)
+Seat 7: KARELEFIN (1500)
+Seat 8: Guronsan47 (1500)
+Seat 9: atft (1500)
+Seat 10: sabre_laser (1620)
+*** ANTE/BLINDS ***
+timetoplay posts small blind 10
+Maquinho posts big blind 20
+Dealt to sabre_laser [Qs 4s]
+*** PRE-FLOP *** 
+KARELEFIN calls 20
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay calls 10
+Maquinho checks
+*** FLOP *** [Ah 7d Jh]
+timetoplay checks
+Maquinho checks
+KARELEFIN checks
+*** TURN *** [Ah 7d Jh][Ac]
+timetoplay checks
+Maquinho bets 30
+KARELEFIN calls 30
+timetoplay folds
+*** RIVER *** [Ah 7d Jh Ac][4d]
+Maquinho checks
+KARELEFIN checks
+*** SHOW DOWN ***
+Maquinho shows [Jc 2d] (Two pairs : Aces and Jacks)
+KARELEFIN shows [Qh Qd] (Two pairs : Aces and Queens)
+KARELEFIN collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ah 7d Jh Ac 4d]
+Seat 6: Maquinho (big blind) showed [Jc 2d] and lost with Two pairs : Aces and Jacks
+Seat 7: KARELEFIN showed [Qh Qd] and won 120 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #463041459268878337-4-1422222525 - Holdem no limit (10/20) - 2015/01/25 21:48:45 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #5 is the button
+Seat 1: spokaann (1500)
+Seat 2: androcles (1500)
+Seat 3: nikodaix (1450)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1520)
+Seat 6: Maquinho (1450)
+Seat 7: KARELEFIN (1570)
+Seat 8: Guronsan47 (1500)
+Seat 9: atft (1500)
+Seat 10: sabre_laser (1620)
+*** ANTE/BLINDS ***
+Maquinho posts small blind 10
+KARELEFIN posts big blind 20
+Dealt to sabre_laser [Th 8h]
+*** PRE-FLOP *** 
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann calls 20
+androcles calls 20
+nikodaix raises 40 to 60
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+spokaann calls 40
+androcles calls 40
+*** FLOP *** [Ks 9c Tc]
+spokaann bets 80
+androcles raises 140 to 220
+nikodaix folds
+spokaann calls 140
+*** TURN *** [Ks 9c Tc][9s]
+spokaann checks
+androcles bets 330
+spokaann folds
+androcles collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [Ks 9c Tc 9s]
+Seat 2: androcles won 980
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #463041459268878337-5-1422222668 - Holdem no limit (10/20) - 2015/01/25 21:51:08 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #6 is the button
+Seat 1: spokaann (1220)
+Seat 2: androcles (1870)
+Seat 3: nikodaix (1390)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1520)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1550)
+Seat 8: Guronsan47 (1500)
+Seat 9: atft (1500)
+Seat 10: sabre_laser (1620)
+*** ANTE/BLINDS ***
+KARELEFIN posts small blind 10
+Guronsan47 posts big blind 20
+Dealt to sabre_laser [Kd 5h]
+*** PRE-FLOP *** 
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 8: Guronsan47 (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #463041459268878337-6-1422222706 - Holdem no limit (15/30) - 2015/01/25 21:51:46 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #7 is the button
+Seat 1: spokaann (1220)
+Seat 2: androcles (1870)
+Seat 3: nikodaix (1390)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1520)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1510)
+Seat 9: atft (1500)
+Seat 10: sabre_laser (1620)
+*** ANTE/BLINDS ***
+Guronsan47 posts small blind 15
+atft posts big blind 30
+Dealt to sabre_laser [3c 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+spokaann folds
+androcles raises 60 to 90
+nikodaix folds
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+androcles collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: androcles won 135
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #463041459268878337-7-1422222756 - Holdem no limit (15/30) - 2015/01/25 21:52:36 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #8 is the button
+Seat 1: spokaann (1220)
+Seat 2: androcles (1915)
+Seat 3: nikodaix (1390)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1520)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1470)
+Seat 10: sabre_laser (1620)
+*** ANTE/BLINDS ***
+atft posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Js 2h]
+*** PRE-FLOP *** 
+spokaann folds
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay calls 30
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft raises 60 to 90
+sabre_laser folds
+timetoplay calls 60
+*** FLOP *** [7h 2d 5h]
+atft bets 105
+timetoplay calls 105
+*** TURN *** [7h 2d 5h][6h]
+atft checks
+timetoplay bets 255
+atft calls 255
+*** RIVER *** [7h 2d 5h 6h][Tc]
+atft checks
+timetoplay checks
+*** SHOW DOWN ***
+timetoplay shows [8h 8d] (One pair : 8)
+atft shows [Ah 9h] (Flush Ace high)
+atft collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Board: [7h 2d 5h 6h Tc]
+Seat 5: timetoplay showed [8h 8d] and lost with One pair : 8
+Seat 9: atft (small blind) showed [Ah 9h] and won 930 with Flush Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #463041459268878337-8-1422222852 - Holdem no limit (15/30) - 2015/01/25 21:54:12 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #9 is the button
+Seat 1: spokaann (1220)
+Seat 2: androcles (1915)
+Seat 3: nikodaix (1390)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1070)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1590)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+spokaann posts big blind 30
+Dealt to sabre_laser [Td 6d]
+*** PRE-FLOP *** 
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay calls 30
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser calls 15
+spokaann checks
+*** FLOP *** [7s Kh As]
+sabre_laser checks
+spokaann checks
+timetoplay bets 90
+sabre_laser folds
+spokaann folds
+timetoplay collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7s Kh As]
+Seat 5: timetoplay won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #463041459268878337-9-1422222938 - Holdem no limit (15/30) - 2015/01/25 21:55:38 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #10 is the button
+Seat 1: spokaann (1190)
+Seat 2: androcles (1915)
+Seat 3: nikodaix (1390)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1130)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1560)
+*** ANTE/BLINDS ***
+spokaann posts small blind 15
+androcles posts big blind 30
+Dealt to sabre_laser [Jh Qs]
+*** PRE-FLOP *** 
+nikodaix folds
+Jonestowne folds
+timetoplay calls 30
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser raises 60 to 90
+spokaann calls 75
+androcles folds
+timetoplay calls 60
+*** FLOP *** [As 6h 7h]
+spokaann checks
+timetoplay bets 75
+sabre_laser folds
+spokaann folds
+timetoplay collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [As 6h 7h]
+Seat 5: timetoplay won 375
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #463041459268878337-10-1422223016 - Holdem no limit (15/30) - 2015/01/25 21:56:56 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #1 is the button
+Seat 1: spokaann (1100)
+Seat 2: androcles (1885)
+Seat 3: nikodaix (1390)
+Seat 4: Jonestowne (1390)
+Seat 5: timetoplay (1340)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1470)
+*** ANTE/BLINDS ***
+androcles posts small blind 15
+nikodaix posts big blind 30
+Dealt to sabre_laser [6s Jc]
+*** PRE-FLOP *** 
+Jonestowne raises 30 to 60
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann raises 30 to 90
+androcles folds
+nikodaix calls 60
+Jonestowne calls 30
+*** FLOP *** [5s Ac 4c]
+nikodaix checks
+Jonestowne bets 60
+spokaann calls 60
+nikodaix raises 60 to 120
+Jonestowne calls 60
+spokaann calls 60
+*** TURN *** [5s Ac 4c][9h]
+nikodaix checks
+Jonestowne checks
+spokaann checks
+*** RIVER *** [5s Ac 4c 9h][7d]
+nikodaix checks
+Jonestowne checks
+spokaann bets 135
+nikodaix folds
+Jonestowne folds
+spokaann collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [5s Ac 4c 9h 7d]
+Seat 1: spokaann (button) won 780
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #463041459268878337-11-1422223119 - Holdem no limit (15/30) - 2015/01/25 21:58:39 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #2 is the button
+Seat 1: spokaann (1535)
+Seat 2: androcles (1870)
+Seat 3: nikodaix (1180)
+Seat 4: Jonestowne (1180)
+Seat 5: timetoplay (1340)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1470)
+*** ANTE/BLINDS ***
+nikodaix posts small blind 15
+Jonestowne posts big blind 30
+Dealt to sabre_laser [9h 2s]
+*** PRE-FLOP *** 
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann raises 45 to 75
+androcles folds
+nikodaix folds
+Jonestowne folds
+spokaann collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: spokaann won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #463041459268878337-12-1422223155 - Holdem no limit (15/30) - 2015/01/25 21:59:15 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #3 is the button
+Seat 1: spokaann (1580)
+Seat 2: androcles (1870)
+Seat 3: nikodaix (1165)
+Seat 4: Jonestowne (1150)
+Seat 5: timetoplay (1340)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1470)
+*** ANTE/BLINDS ***
+Jonestowne posts small blind 15
+timetoplay posts big blind 30
+Dealt to sabre_laser [Td 5c]
+*** PRE-FLOP *** 
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+nikodaix raises 50 to 80
+Jonestowne folds
+timetoplay calls 50
+*** FLOP *** [Ts 8d 4c]
+timetoplay checks
+nikodaix bets 90
+timetoplay folds
+nikodaix collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | No rake
+Board: [Ts 8d 4c]
+Seat 3: nikodaix (button) won 265
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #463041459268878337-13-1422223221 - Holdem no limit (20/40) - 2015/01/25 22:00:21 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #4 is the button
+Seat 1: spokaann (1580)
+Seat 2: androcles (1870)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (1135)
+Seat 5: timetoplay (1260)
+Seat 6: Maquinho (1440)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1470)
+*** ANTE/BLINDS ***
+timetoplay posts small blind 20
+Maquinho posts big blind 40
+Dealt to sabre_laser [8s Kd]
+*** PRE-FLOP *** 
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser calls 40
+spokaann raises 59 to 99
+androcles calls 99
+nikodaix folds
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+sabre_laser calls 59
+*** FLOP *** [Jh Td Ah]
+sabre_laser checks
+spokaann checks
+androcles bets 180
+sabre_laser calls 180
+spokaann folds
+*** TURN *** [Jh Td Ah][7h]
+sabre_laser checks
+androcles bets 300
+sabre_laser folds
+androcles collected 1017 from pot
+*** SUMMARY ***
+Total pot 1017 | No rake
+Board: [Jh Td Ah 7h]
+Seat 2: androcles won 1017
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #463041459268878337-14-1422223336 - Holdem no limit (20/40) - 2015/01/25 22:02:16 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #5 is the button
+Seat 1: spokaann (1481)
+Seat 2: androcles (2308)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (1135)
+Seat 5: timetoplay (1240)
+Seat 6: Maquinho (1400)
+Seat 7: KARELEFIN (1540)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1191)
+*** ANTE/BLINDS ***
+Maquinho posts small blind 20
+KARELEFIN posts big blind 40
+Dealt to sabre_laser [Ad 4s]
+*** PRE-FLOP *** 
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+nikodaix folds
+Jonestowne calls 40
+timetoplay calls 40
+Maquinho folds
+KARELEFIN checks
+*** FLOP *** [Ts Jd Td]
+KARELEFIN checks
+Jonestowne checks
+timetoplay bets 80
+KARELEFIN folds
+Jonestowne folds
+timetoplay collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Ts Jd Td]
+Seat 5: timetoplay (button) won 220
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #463041459268878337-15-1422223398 - Holdem no limit (20/40) - 2015/01/25 22:03:18 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #6 is the button
+Seat 1: spokaann (1481)
+Seat 2: androcles (2308)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (1095)
+Seat 5: timetoplay (1340)
+Seat 6: Maquinho (1380)
+Seat 7: KARELEFIN (1500)
+Seat 8: Guronsan47 (1495)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1191)
+*** ANTE/BLINDS ***
+KARELEFIN posts small blind 20
+Guronsan47 posts big blind 40
+Dealt to sabre_laser [2d 3c]
+*** PRE-FLOP *** 
+atft folds
+sabre_laser folds
+spokaann raises 40 to 80
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+spokaann collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: spokaann won 140
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #463041459268878337-16-1422223438 - Holdem no limit (20/40) - 2015/01/25 22:03:58 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #7 is the button
+Seat 1: spokaann (1541)
+Seat 2: androcles (2308)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (1095)
+Seat 5: timetoplay (1340)
+Seat 6: Maquinho (1380)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1455)
+Seat 9: atft (1950)
+Seat 10: sabre_laser (1191)
+*** ANTE/BLINDS ***
+Guronsan47 posts small blind 20
+atft posts big blind 40
+Dealt to sabre_laser [8h Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+spokaann raises 40 to 80
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay calls 80
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft calls 40
+*** FLOP *** [6d 5s Jc]
+atft checks
+spokaann bets 100
+timetoplay calls 100
+atft folds
+*** TURN *** [6d 5s Jc][2d]
+spokaann bets 100
+timetoplay calls 100
+*** RIVER *** [6d 5s Jc 2d][Kc]
+spokaann bets 100
+timetoplay calls 100
+*** SHOW DOWN ***
+timetoplay shows [9s 9c] (One pair : 9)
+spokaann shows [Qd Js] (One pair : Jacks)
+spokaann collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [6d 5s Jc 2d Kc]
+Seat 1: spokaann showed [Qd Js] and won 860 with One pair : Jacks
+Seat 5: timetoplay showed [9s 9c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #463041459268878337-17-1422223512 - Holdem no limit (20/40) - 2015/01/25 22:05:12 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #8 is the button
+Seat 1: spokaann (2021)
+Seat 2: androcles (2308)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (1095)
+Seat 5: timetoplay (960)
+Seat 6: Maquinho (1380)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (1870)
+Seat 10: sabre_laser (1191)
+*** ANTE/BLINDS ***
+atft posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Jh Kh]
+*** PRE-FLOP *** 
+spokaann raises 40 to 80
+androcles folds
+nikodaix folds
+Jonestowne calls 80
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser calls 40
+*** FLOP *** [4h Ac Qs]
+sabre_laser checks
+spokaann checks
+Jonestowne checks
+*** TURN *** [4h Ac Qs][Jc]
+sabre_laser bets 40
+spokaann raises 40 to 80
+Jonestowne calls 80
+sabre_laser calls 40
+*** RIVER *** [4h Ac Qs Jc][Qc]
+sabre_laser checks
+spokaann bets 280
+Jonestowne folds
+sabre_laser folds
+spokaann collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [4h Ac Qs Jc Qc]
+Seat 1: spokaann won 780
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #463041459268878337-18-1422223632 - Holdem no limit (20/40) - 2015/01/25 22:07:12 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #9 is the button
+Seat 1: spokaann (2361)
+Seat 2: androcles (2308)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (935)
+Seat 5: timetoplay (960)
+Seat 6: Maquinho (1380)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (1850)
+Seat 10: sabre_laser (1031)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+spokaann posts big blind 40
+Dealt to sabre_laser [Qs 2s]
+*** PRE-FLOP *** 
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser calls 20
+spokaann raises 40 to 80
+sabre_laser calls 40
+*** FLOP *** [3c Qd 3d]
+sabre_laser checks
+spokaann checks
+*** TURN *** [3c Qd 3d][5d]
+sabre_laser bets 80
+spokaann folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3c Qd 3d 5d]
+Seat 10: sabre_laser (small blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-19-1422223693 - Holdem no limit (30/60) - 2015/01/25 22:08:13 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #10 is the button
+Seat 1: spokaann (2281)
+Seat 2: androcles (2308)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (935)
+Seat 5: timetoplay (960)
+Seat 6: Maquinho (1380)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (1850)
+Seat 10: sabre_laser (1111)
+*** ANTE/BLINDS ***
+spokaann posts small blind 30
+androcles posts big blind 60
+Dealt to sabre_laser [Th 4s]
+*** PRE-FLOP *** 
+nikodaix folds
+Jonestowne folds
+timetoplay calls 60
+Maquinho raises 90 to 150
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann calls 120
+androcles folds
+timetoplay calls 90
+*** FLOP *** [Qc Js 9s]
+spokaann bets 60
+timetoplay folds
+Maquinho folds
+spokaann collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Qc Js 9s]
+Seat 1: spokaann (small blind) won 570
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-20-1422223745 - Holdem no limit (30/60) - 2015/01/25 22:09:05 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #1 is the button
+Seat 1: spokaann (2641)
+Seat 2: androcles (2248)
+Seat 3: nikodaix (1260)
+Seat 4: Jonestowne (935)
+Seat 5: timetoplay (810)
+Seat 6: Maquinho (1230)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (1850)
+Seat 10: sabre_laser (1111)
+*** ANTE/BLINDS ***
+androcles posts small blind 30
+nikodaix posts big blind 60
+Dealt to sabre_laser [8s 5d]
+*** PRE-FLOP *** 
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft raises 60 to 120
+sabre_laser folds
+spokaann calls 120
+androcles folds
+nikodaix calls 60
+*** FLOP *** [5s 4c 4h]
+nikodaix checks
+atft bets 195
+spokaann folds
+nikodaix folds
+atft collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [5s 4c 4h]
+Seat 9: atft won 585
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-21-1422223790 - Holdem no limit (30/60) - 2015/01/25 22:09:50 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #2 is the button
+Seat 1: spokaann (2521)
+Seat 2: androcles (2218)
+Seat 3: nikodaix (1140)
+Seat 4: Jonestowne (935)
+Seat 5: timetoplay (810)
+Seat 6: Maquinho (1230)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (2120)
+Seat 10: sabre_laser (1111)
+*** ANTE/BLINDS ***
+nikodaix posts small blind 30
+Jonestowne posts big blind 60
+Dealt to sabre_laser [2h Jc]
+*** PRE-FLOP *** 
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+nikodaix calls 30
+Jonestowne checks
+*** FLOP *** [7d Jd Qh]
+nikodaix bets 60
+Jonestowne folds
+nikodaix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7d Jd Qh]
+Seat 3: nikodaix (small blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-22-1422223848 - Holdem no limit (30/60) - 2015/01/25 22:10:48 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #3 is the button
+Seat 1: spokaann (2521)
+Seat 2: androcles (2218)
+Seat 3: nikodaix (1200)
+Seat 4: Jonestowne (875)
+Seat 5: timetoplay (810)
+Seat 6: Maquinho (1230)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (2120)
+Seat 10: sabre_laser (1111)
+*** ANTE/BLINDS ***
+Jonestowne posts small blind 30
+timetoplay posts big blind 60
+Dealt to sabre_laser [Qh Qd]
+*** PRE-FLOP *** 
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser raises 60 to 120
+spokaann folds
+androcles folds
+nikodaix calls 120
+Jonestowne folds
+timetoplay calls 60
+*** FLOP *** [Jc 7d 6h]
+timetoplay bets 60
+sabre_laser raises 90 to 150
+nikodaix folds
+timetoplay calls 90
+*** TURN *** [Jc 7d 6h][9h]
+timetoplay bets 60
+sabre_laser calls 60
+*** RIVER *** [Jc 7d 6h 9h][As]
+timetoplay bets 60
+sabre_laser calls 60
+*** SHOW DOWN ***
+timetoplay shows [9d Td] (One pair : 9)
+sabre_laser shows [Qh Qd] (One pair : Queens)
+sabre_laser collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Board: [Jc 7d 6h 9h As]
+Seat 5: timetoplay (big blind) showed [9d Td] and lost with One pair : 9
+Seat 10: sabre_laser showed [Qh Qd] and won 930 with One pair : Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-23-1422223932 - Holdem no limit (30/60) - 2015/01/25 22:12:12 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #4 is the button
+Seat 1: spokaann (2521)
+Seat 2: androcles (2218)
+Seat 3: nikodaix (1080)
+Seat 4: Jonestowne (845)
+Seat 5: timetoplay (420)
+Seat 6: Maquinho (1230)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (2120)
+Seat 10: sabre_laser (1651)
+*** ANTE/BLINDS ***
+timetoplay posts small blind 30
+Maquinho posts big blind 60
+Dealt to sabre_laser [6d 3s]
+*** PRE-FLOP *** 
+KARELEFIN folds
+Guronsan47 raises 120 to 180
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+Guronsan47 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 8: Guronsan47 won 270
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-24-1422223977 - Holdem no limit (30/60) - 2015/01/25 22:12:57 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #5 is the button
+Seat 1: spokaann (2521)
+Seat 2: androcles (2218)
+Seat 3: nikodaix (1080)
+Seat 4: Jonestowne (845)
+Seat 5: timetoplay (390)
+Seat 6: Maquinho (1170)
+Seat 7: KARELEFIN (1480)
+Seat 8: Guronsan47 (1525)
+Seat 9: atft (2120)
+Seat 10: sabre_laser (1651)
+*** ANTE/BLINDS ***
+Maquinho posts small blind 30
+KARELEFIN posts big blind 60
+Dealt to sabre_laser [Ac 5c]
+*** PRE-FLOP *** 
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann raises 60 to 120
+androcles folds
+nikodaix folds
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+spokaann collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 1: spokaann won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-25-1422224021 - Holdem no limit (30/60) - 2015/01/25 22:13:41 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #6 is the button
+Seat 1: spokaann (2611)
+Seat 2: androcles (2218)
+Seat 3: nikodaix (1080)
+Seat 4: Jonestowne (845)
+Seat 5: timetoplay (390)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1420)
+Seat 8: Guronsan47 (1525)
+Seat 9: atft (2120)
+Seat 10: sabre_laser (1651)
+*** ANTE/BLINDS ***
+KARELEFIN posts small blind 30
+Guronsan47 posts big blind 60
+Dealt to sabre_laser [4c 2s]
+*** PRE-FLOP *** 
+atft folds
+sabre_laser folds
+spokaann folds
+androcles raises 60 to 120
+nikodaix raises 240 to 360
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+androcles calls 240
+*** FLOP *** [As 6d Ad]
+androcles checks
+nikodaix checks
+*** TURN *** [As 6d Ad][6s]
+androcles bets 210
+nikodaix calls 210
+*** RIVER *** [As 6d Ad 6s][7c]
+androcles bets 1648 and is all-in
+nikodaix calls 510 and is all-in
+*** SHOW DOWN ***
+nikodaix shows [Qh Qs] (Two pairs : Aces and Queens)
+androcles shows [Ah Qc] (Full of Aces and 6)
+androcles collected 3388 from pot
+*** SUMMARY ***
+Total pot 3388 | No rake
+Board: [As 6d Ad 6s 7c]
+Seat 2: androcles showed [Ah Qc] and won 3388 with Full of Aces and 6
+Seat 3: nikodaix showed [Qh Qs] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #463041459268878337-26-1422224079 - Holdem no limit (30/60) - 2015/01/25 22:14:39 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #7 is the button
+Seat 1: spokaann (2611)
+Seat 2: androcles (3388)
+Seat 4: Jonestowne (845)
+Seat 5: timetoplay (390)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1390)
+Seat 8: Guronsan47 (1465)
+Seat 9: atft (2120)
+Seat 10: sabre_laser (1651)
+*** ANTE/BLINDS ***
+Guronsan47 posts small blind 30
+atft posts big blind 60
+Dealt to sabre_laser [Th Ah]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 120
+spokaann calls 120
+androcles raises 390 to 510
+Jonestowne folds
+timetoplay folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 2: androcles won 840
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-27-1422224218 - Holdem no limit (40/80) - 2015/01/25 22:16:58 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #8 is the button
+Seat 1: spokaann (2491)
+Seat 2: androcles (3718)
+Seat 4: Jonestowne (845)
+Seat 5: timetoplay (390)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1390)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (2060)
+Seat 10: sabre_laser (1531)
+*** ANTE/BLINDS ***
+atft posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+spokaann folds
+androcles folds
+Jonestowne folds
+timetoplay raises 80 to 160
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser calls 80
+*** FLOP *** [Th 9c 2s]
+sabre_laser checks
+timetoplay checks
+*** TURN *** [Th 9c 2s][2h]
+sabre_laser bets 360
+timetoplay calls 230 and is all-in
+*** RIVER *** [Th 9c 2s 2h][7d]
+*** SHOW DOWN ***
+timetoplay shows [Qc Ah] (One pair : 2)
+sabre_laser shows [6h 7h] (Two pairs : 7 and 2)
+sabre_laser collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [Th 9c 2s 2h 7d]
+Seat 5: timetoplay showed [Qc Ah] and lost with One pair : 2
+Seat 10: sabre_laser (big blind) showed [6h 7h] and won 950 with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-28-1422224282 - Holdem no limit (40/80) - 2015/01/25 22:18:02 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #9 is the button
+Seat 1: spokaann (2491)
+Seat 2: androcles (3718)
+Seat 4: Jonestowne (845)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1390)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (2020)
+Seat 10: sabre_laser (1961)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+spokaann posts big blind 80
+Dealt to sabre_laser [6h Th]
+*** PRE-FLOP *** 
+androcles folds
+Jonestowne calls 80
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann checks
+*** FLOP *** [7c Kd Js]
+spokaann checks
+Jonestowne checks
+*** TURN *** [7c Kd Js][3c]
+spokaann checks
+Jonestowne bets 100
+spokaann folds
+Jonestowne collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7c Kd Js 3c]
+Seat 4: Jonestowne won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-29-1422224312 - Holdem no limit (40/80) - 2015/01/25 22:18:32 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #10 is the button
+Seat 1: spokaann (2411)
+Seat 2: androcles (3718)
+Seat 4: Jonestowne (965)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1390)
+Seat 8: Guronsan47 (1435)
+Seat 9: atft (2020)
+Seat 10: sabre_laser (1921)
+*** ANTE/BLINDS ***
+spokaann posts small blind 40
+androcles posts big blind 80
+Dealt to sabre_laser [3d 4c]
+*** PRE-FLOP *** 
+Jonestowne folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 raises 120 to 200
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+Guronsan47 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 8: Guronsan47 won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-30-1422224339 - Holdem no limit (40/80) - 2015/01/25 22:18:59 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #1 is the button
+Seat 1: spokaann (2371)
+Seat 2: androcles (3638)
+Seat 4: Jonestowne (965)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1390)
+Seat 8: Guronsan47 (1555)
+Seat 9: atft (2020)
+Seat 10: sabre_laser (1921)
+*** ANTE/BLINDS ***
+androcles posts small blind 40
+Jonestowne posts big blind 80
+Dealt to sabre_laser [Th 5d]
+*** PRE-FLOP *** 
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann raises 80 to 160
+androcles folds
+Jonestowne folds
+spokaann collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: spokaann (button) won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-31-1422224354 - Holdem no limit (40/80) - 2015/01/25 22:19:14 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #2 is the button
+Seat 1: spokaann (2491)
+Seat 2: androcles (3598)
+Seat 4: Jonestowne (885)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1390)
+Seat 8: Guronsan47 (1555)
+Seat 9: atft (2020)
+Seat 10: sabre_laser (1921)
+*** ANTE/BLINDS ***
+Jonestowne posts small blind 40
+Maquinho posts big blind 80
+Dealt to sabre_laser [Ts 6d]
+*** PRE-FLOP *** 
+KARELEFIN folds
+Guronsan47 raises 120 to 200
+atft folds
+sabre_laser folds
+spokaann calls 200
+androcles folds
+Jonestowne folds
+Maquinho folds
+*** FLOP *** [5c Jc 6s]
+Guronsan47 bets 1355 and is all-in
+spokaann folds
+Guronsan47 collected 1875 from pot
+*** SUMMARY ***
+Total pot 1875 | No rake
+Board: [5c Jc 6s]
+Seat 8: Guronsan47 won 1875
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-32-1422224400 - Holdem no limit (40/80) - 2015/01/25 22:20:00 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #4 is the button
+Seat 1: spokaann (2291)
+Seat 2: androcles (3598)
+Seat 4: Jonestowne (845)
+Seat 6: Maquinho (1060)
+Seat 7: KARELEFIN (1390)
+Seat 8: Guronsan47 (1875)
+Seat 9: atft (2020)
+Seat 10: sabre_laser (1921)
+*** ANTE/BLINDS ***
+Maquinho posts small blind 40
+KARELEFIN posts big blind 80
+Dealt to sabre_laser [Ks 6c]
+*** PRE-FLOP *** 
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann calls 80
+androcles folds
+Jonestowne calls 80
+Maquinho folds
+KARELEFIN checks
+*** FLOP *** [Js 4s 2c]
+KARELEFIN checks
+spokaann checks
+Jonestowne bets 140
+KARELEFIN folds
+spokaann folds
+Jonestowne collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Js 4s 2c]
+Seat 4: Jonestowne (button) won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-33-1422224435 - Holdem no limit (40/80) - 2015/01/25 22:20:35 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #6 is the button
+Seat 1: spokaann (2211)
+Seat 2: androcles (3598)
+Seat 4: Jonestowne (1045)
+Seat 6: Maquinho (1020)
+Seat 7: KARELEFIN (1310)
+Seat 8: Guronsan47 (1875)
+Seat 9: atft (2020)
+Seat 10: sabre_laser (1921)
+*** ANTE/BLINDS ***
+KARELEFIN posts small blind 40
+Guronsan47 posts big blind 80
+Dealt to sabre_laser [Qd 7c]
+*** PRE-FLOP *** 
+atft folds
+sabre_laser folds
+spokaann calls 80
+androcles raises 80 to 160
+Jonestowne folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+spokaann calls 80
+*** FLOP *** [Th Qh 4c]
+spokaann checks
+androcles bets 320
+spokaann folds
+androcles collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Th Qh 4c]
+Seat 2: androcles won 760
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-34-1422224469 - Holdem no limit (40/80) - 2015/01/25 22:21:09 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #7 is the button
+Seat 1: spokaann (2051)
+Seat 2: androcles (3878)
+Seat 4: Jonestowne (1045)
+Seat 6: Maquinho (1020)
+Seat 7: KARELEFIN (1270)
+Seat 8: Guronsan47 (1795)
+Seat 9: atft (2020)
+Seat 10: sabre_laser (1921)
+*** ANTE/BLINDS ***
+Guronsan47 posts small blind 40
+atft posts big blind 80
+Dealt to sabre_laser [4d 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+spokaann folds
+androcles folds
+Jonestowne folds
+Maquinho raises 120 to 200
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+Maquinho collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 6: Maquinho won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-35-1422224491 - Holdem no limit (40/80) - 2015/01/25 22:21:31 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #8 is the button
+Seat 1: spokaann (2051)
+Seat 2: androcles (3878)
+Seat 4: Jonestowne (1045)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1270)
+Seat 8: Guronsan47 (1755)
+Seat 9: atft (1940)
+Seat 10: sabre_laser (1921)
+*** ANTE/BLINDS ***
+atft posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [7c Ad]
+*** PRE-FLOP *** 
+spokaann calls 80
+androcles folds
+Jonestowne folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 raises 80 to 160
+atft folds
+sabre_laser calls 80
+spokaann calls 80
+*** FLOP *** [2d Ks 3c]
+sabre_laser checks
+spokaann checks
+Guronsan47 checks
+*** TURN *** [2d Ks 3c][8h]
+sabre_laser checks
+spokaann bets 80
+Guronsan47 raises 200 to 280
+sabre_laser folds
+spokaann folds
+Guronsan47 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [2d Ks 3c 8h]
+Seat 8: Guronsan47 (button) won 880
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-36-1422224562 - Holdem no limit (40/80) - 2015/01/25 22:22:42 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #9 is the button
+Seat 1: spokaann (1811)
+Seat 2: androcles (3878)
+Seat 4: Jonestowne (1045)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1270)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (1900)
+Seat 10: sabre_laser (1761)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+spokaann posts big blind 80
+Dealt to sabre_laser [2c 4c]
+*** PRE-FLOP *** 
+androcles folds
+Jonestowne raises 240 to 320
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+Jonestowne collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 4: Jonestowne won 440
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #463041459268878337-37-1422224583 - Holdem no limit (40/80) - 2015/01/25 22:23:03 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #10 is the button
+Seat 1: spokaann (1731)
+Seat 2: androcles (3878)
+Seat 4: Jonestowne (1165)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1270)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (1900)
+Seat 10: sabre_laser (1721)
+*** ANTE/BLINDS ***
+spokaann posts small blind 40
+androcles posts big blind 80
+Dealt to sabre_laser [6c 5s]
+*** PRE-FLOP *** 
+Jonestowne folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser raises 120 to 200
+spokaann calls 160
+androcles calls 120
+*** FLOP *** [3c 3h 2c]
+spokaann checks
+androcles bets 360
+sabre_laser folds
+spokaann folds
+androcles collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [3c 3h 2c]
+Seat 2: androcles (big blind) won 960
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-38-1422224640 - Holdem no limit (60/120) - 2015/01/25 22:24:00 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #1 is the button
+Seat 1: spokaann (1531)
+Seat 2: androcles (4278)
+Seat 4: Jonestowne (1165)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1270)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (1900)
+Seat 10: sabre_laser (1521)
+*** ANTE/BLINDS ***
+androcles posts small blind 60
+Jonestowne posts big blind 120
+Dealt to sabre_laser [Ts Jc]
+*** PRE-FLOP *** 
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft raises 120 to 240
+sabre_laser folds
+spokaann folds
+androcles folds
+Jonestowne folds
+atft collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 9: atft won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-39-1422224677 - Holdem no limit (60/120) - 2015/01/25 22:24:37 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #2 is the button
+Seat 1: spokaann (1531)
+Seat 2: androcles (4218)
+Seat 4: Jonestowne (1045)
+Seat 6: Maquinho (1140)
+Seat 7: KARELEFIN (1270)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (2080)
+Seat 10: sabre_laser (1521)
+*** ANTE/BLINDS ***
+Jonestowne posts small blind 60
+Maquinho posts big blind 120
+Dealt to sabre_laser [7d 3c]
+*** PRE-FLOP *** 
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles raises 120 to 240
+Jonestowne folds
+Maquinho folds
+androcles collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: androcles (button) won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-40-1422224710 - Holdem no limit (60/120) - 2015/01/25 22:25:10 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #4 is the button
+Seat 1: spokaann (1531)
+Seat 2: androcles (4398)
+Seat 4: Jonestowne (985)
+Seat 6: Maquinho (1020)
+Seat 7: KARELEFIN (1270)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (2080)
+Seat 10: sabre_laser (1521)
+*** ANTE/BLINDS ***
+Maquinho posts small blind 60
+KARELEFIN posts big blind 120
+Dealt to sabre_laser [7h 3h]
+*** PRE-FLOP *** 
+Guronsan47 folds
+atft folds
+sabre_laser folds
+spokaann folds
+androcles raises 120 to 240
+Jonestowne folds
+Maquinho folds
+KARELEFIN raises 1030 to 1270 and is all-in
+androcles calls 1030
+*** FLOP *** [2h Tc Js]
+*** TURN *** [2h Tc Js][5s]
+*** RIVER *** [2h Tc Js 5s][Ac]
+*** SHOW DOWN ***
+androcles shows [Td Ks] (One pair : Tens)
+KARELEFIN shows [Qd Kd] (Straight Ace high)
+KARELEFIN collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [2h Tc Js 5s Ac]
+Seat 2: androcles showed [Td Ks] and lost with One pair : Tens
+Seat 7: KARELEFIN (big blind) showed [Qd Kd] and won 2600 with Straight Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-41-1422224748 - Holdem no limit (60/120) - 2015/01/25 22:25:48 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #6 is the button
+Seat 1: spokaann (1531)
+Seat 2: androcles (3128)
+Seat 4: Jonestowne (985)
+Seat 6: Maquinho (960)
+Seat 7: KARELEFIN (2600)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (2080)
+Seat 10: sabre_laser (1521)
+*** ANTE/BLINDS ***
+KARELEFIN posts small blind 60
+Guronsan47 posts big blind 120
+Dealt to sabre_laser [6h Tc]
+*** PRE-FLOP *** 
+atft folds
+sabre_laser folds
+spokaann folds
+androcles folds
+Jonestowne folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: Guronsan47 (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-42-1422224759 - Holdem no limit (60/120) - 2015/01/25 22:25:59 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #7 is the button
+Seat 1: spokaann (1531)
+Seat 2: androcles (3128)
+Seat 4: Jonestowne (985)
+Seat 6: Maquinho (960)
+Seat 7: KARELEFIN (2540)
+Seat 8: Guronsan47 (2255)
+Seat 9: atft (2080)
+Seat 10: sabre_laser (1521)
+*** ANTE/BLINDS ***
+Guronsan47 posts small blind 60
+atft posts big blind 120
+Dealt to sabre_laser [8d 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+spokaann calls 120
+androcles folds
+Jonestowne raises 130 to 250
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+spokaann calls 130
+*** FLOP *** [7h Jh Qs]
+spokaann checks
+Jonestowne checks
+*** TURN *** [7h Jh Qs][4s]
+spokaann bets 120
+Jonestowne calls 120
+*** RIVER *** [7h Jh Qs 4s][9d]
+spokaann bets 120
+Jonestowne calls 120
+*** SHOW DOWN ***
+Jonestowne shows [Kd As] (High card : Ace)
+spokaann shows [Jd Kh] (One pair : Jacks)
+spokaann collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [7h Jh Qs 4s 9d]
+Seat 1: spokaann showed [Jd Kh] and won 1160 with One pair : Jacks
+Seat 4: Jonestowne showed [Kd As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-43-1422224846 - Holdem no limit (60/120) - 2015/01/25 22:27:26 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #8 is the button
+Seat 1: spokaann (2201)
+Seat 2: androcles (3128)
+Seat 4: Jonestowne (495)
+Seat 6: Maquinho (960)
+Seat 7: KARELEFIN (2540)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (1960)
+Seat 10: sabre_laser (1521)
+*** ANTE/BLINDS ***
+atft posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [8h 9c]
+*** PRE-FLOP *** 
+spokaann folds
+androcles folds
+Jonestowne folds
+Maquinho folds
+KARELEFIN raises 199 to 319
+Guronsan47 folds
+atft folds
+sabre_laser folds
+KARELEFIN collected 499 from pot
+*** SUMMARY ***
+Total pot 499 | No rake
+Seat 7: KARELEFIN won 499
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-44-1422224890 - Holdem no limit (60/120) - 2015/01/25 22:28:10 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #9 is the button
+Seat 1: spokaann (2201)
+Seat 2: androcles (3128)
+Seat 4: Jonestowne (495)
+Seat 6: Maquinho (960)
+Seat 7: KARELEFIN (2720)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (1900)
+Seat 10: sabre_laser (1401)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+spokaann posts big blind 120
+Dealt to sabre_laser [Js 9d]
+*** PRE-FLOP *** 
+androcles folds
+Jonestowne folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft raises 120 to 240
+sabre_laser folds
+spokaann folds
+atft collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 9: atft (button) won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #463041459268878337-45-1422224937 - Holdem no limit (60/120) - 2015/01/25 22:28:57 UTC
+Table: 'No Limit Hold'em(107810241)#0' 10-max (real money) Seat #10 is the button
+Seat 1: spokaann (2081)
+Seat 2: androcles (3128)
+Seat 4: Jonestowne (495)
+Seat 6: Maquinho (960)
+Seat 7: KARELEFIN (2720)
+Seat 8: Guronsan47 (2195)
+Seat 9: atft (2080)
+Seat 10: sabre_laser (1341)
+*** ANTE/BLINDS ***
+spokaann posts small blind 60
+androcles posts big blind 120
+Dealt to sabre_laser [9c As]
+*** PRE-FLOP *** 
+Jonestowne folds
+Maquinho folds
+KARELEFIN folds
+Guronsan47 folds
+atft folds
+sabre_laser raises 120 to 240
+spokaann folds
+androcles raises 2888 to 3128 and is all-in
+sabre_laser calls 1101 and is all-in
+*** FLOP *** [2d Ad Ac]
+*** TURN *** [2d Ad Ac][4s]
+*** RIVER *** [2d Ad Ac 4s][Js]
+*** SHOW DOWN ***
+sabre_laser shows [9c As] (Trips of Aces)
+androcles shows [Ah Kd] (Trips of Aces)
+androcles collected 4529 from pot
+*** SUMMARY ***
+Total pot 4529 | No rake
+Board: [2d Ad Ac 4s Js]
+Seat 2: androcles (big blind) showed [Ah Kd] and won 4529 with Trips of Aces
+Seat 10: sabre_laser (button) showed [9c As] and lost with Trips of Aces
+
+

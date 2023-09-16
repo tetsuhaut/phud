@@ -1,0 +1,1187 @@
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 0 - HandId: #482847546335559681-1-1425924516 - Holdem no limit (10/20) - 2015/03/09 18:08:36 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (1500)
+Seat 2: Naku35 (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: BABA-YAGA (1500)
+Seat 5: Jaja2a (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+BABA-YAGA posts big blind 20
+Dealt to sabre_laser [As 5s]
+*** PRE-FLOP *** 
+Jaja2a folds
+vin10K.TiF raises 30 to 50
+Naku35 folds
+sabre_laser calls 40
+BABA-YAGA calls 30
+*** FLOP *** [Jc Jh Js]
+sabre_laser checks
+BABA-YAGA checks
+vin10K.TiF bets 1450 and is all-in
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [Jc Jh Js]
+Seat 1: vin10K.TiF won 1600
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 0 - HandId: #482847546335559681-2-1425924577 - Holdem no limit (10/20) - 2015/03/09 18:09:37 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (1600)
+Seat 2: Naku35 (1500)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (1450)
+Seat 5: Jaja2a (1500)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 10
+Jaja2a posts big blind 20
+Dealt to sabre_laser [8d Tc]
+*** PRE-FLOP *** 
+vin10K.TiF raises 30 to 50
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+Jaja2a calls 30
+*** FLOP *** [8h 8c 6h]
+Jaja2a checks
+vin10K.TiF bets 50
+Jaja2a folds
+vin10K.TiF collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [8h 8c 6h]
+Seat 1: vin10K.TiF won 160
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 0 - HandId: #482847546335559681-3-1425924603 - Holdem no limit (10/20) - 2015/03/09 18:10:03 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (1660)
+Seat 2: Naku35 (1500)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (1440)
+Seat 5: Jaja2a (1450)
+*** ANTE/BLINDS ***
+Jaja2a posts small blind 10
+vin10K.TiF posts big blind 20
+Dealt to sabre_laser [4c 9d]
+*** PRE-FLOP *** 
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+Jaja2a calls 10
+vin10K.TiF checks
+*** FLOP *** [3h 6s Qs]
+Jaja2a bets 40
+vin10K.TiF folds
+Jaja2a collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3h 6s Qs]
+Seat 5: Jaja2a (small blind) won 80
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 0 - HandId: #482847546335559681-4-1425924632 - Holdem no limit (10/20) - 2015/03/09 18:10:32 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #5 is the button
+Seat 1: vin10K.TiF (1640)
+Seat 2: Naku35 (1500)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (1440)
+Seat 5: Jaja2a (1470)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 10
+Naku35 posts big blind 20
+Dealt to sabre_laser [5s Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+Jaja2a folds
+vin10K.TiF folds
+Naku35 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Naku35 (big blind) won 30
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 0 - HandId: #482847546335559681-5-1425924641 - Holdem no limit (10/20) - 2015/03/09 18:10:41 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (1630)
+Seat 2: Naku35 (1510)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (1440)
+Seat 5: Jaja2a (1470)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [4s Ad]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+Jaja2a raises 60 to 80
+vin10K.TiF folds
+Naku35 folds
+sabre_laser folds
+Jaja2a collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 5: Jaja2a won 110
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 0 - HandId: #482847546335559681-6-1425924670 - Holdem no limit (10/20) - 2015/03/09 18:11:10 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (1630)
+Seat 2: Naku35 (1500)
+Seat 3: sabre_laser (1430)
+Seat 4: BABA-YAGA (1440)
+Seat 5: Jaja2a (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+BABA-YAGA posts big blind 20
+Dealt to sabre_laser [Ah 9c]
+*** PRE-FLOP *** 
+Jaja2a folds
+vin10K.TiF folds
+Naku35 folds
+sabre_laser raises 20 to 40
+BABA-YAGA folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: sabre_laser (small blind) won 60
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 0 - HandId: #482847546335559681-7-1425924682 - Holdem no limit (10/20) - 2015/03/09 18:11:22 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (1630)
+Seat 2: Naku35 (1500)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (1420)
+Seat 5: Jaja2a (1500)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 10
+Jaja2a posts big blind 20
+Dealt to sabre_laser [2d 8h]
+*** PRE-FLOP *** 
+vin10K.TiF folds
+Naku35 raises 30 to 50
+sabre_laser folds
+BABA-YAGA raises 95 to 145
+Jaja2a folds
+Naku35 calls 95
+*** FLOP *** [3h 8d Jc]
+BABA-YAGA bets 127
+Naku35 calls 127
+*** TURN *** [3h 8d Jc][Td]
+BABA-YAGA checks
+Naku35 checks
+*** RIVER *** [3h 8d Jc Td][6h]
+BABA-YAGA bets 231
+Naku35 calls 231
+*** SHOW DOWN ***
+Naku35 shows [Ah Ks] (High card : Ace)
+BABA-YAGA shows [Th Kh] (One pair : Tens)
+BABA-YAGA collected 1026 from pot
+*** SUMMARY ***
+Total pot 1026 | No rake
+Board: [3h 8d Jc Td 6h]
+Seat 2: Naku35 showed [Ah Ks] and lost with High card : Ace
+Seat 4: BABA-YAGA (small blind) showed [Th Kh] and won 1026 with One pair : Tens
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 1 - HandId: #482847546335559681-8-1425924720 - Holdem no limit (15/30) - 2015/03/09 18:12:00 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (1630)
+Seat 2: Naku35 (997)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (1943)
+Seat 5: Jaja2a (1480)
+*** ANTE/BLINDS ***
+Jaja2a posts small blind 15
+vin10K.TiF posts big blind 30
+Dealt to sabre_laser [Kh 9d]
+*** PRE-FLOP *** 
+Naku35 folds
+sabre_laser folds
+BABA-YAGA raises 57 to 87
+Jaja2a folds
+vin10K.TiF calls 57
+*** FLOP *** [8c Tc 9c]
+vin10K.TiF checks
+BABA-YAGA bets 138
+vin10K.TiF folds
+BABA-YAGA collected 327 from pot
+*** SUMMARY ***
+Total pot 327 | No rake
+Board: [8c Tc 9c]
+Seat 4: BABA-YAGA (button) won 327
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 1 - HandId: #482847546335559681-9-1425924763 - Holdem no limit (15/30) - 2015/03/09 18:12:43 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #5 is the button
+Seat 1: vin10K.TiF (1543)
+Seat 2: Naku35 (997)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (2045)
+Seat 5: Jaja2a (1465)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 15
+Naku35 posts big blind 30
+Dealt to sabre_laser [6d 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+Jaja2a calls 30
+vin10K.TiF calls 15
+Naku35 checks
+*** FLOP *** [Th Kd 5d]
+vin10K.TiF checks
+Naku35 checks
+Jaja2a checks
+*** TURN *** [Th Kd 5d][2d]
+vin10K.TiF checks
+Naku35 checks
+Jaja2a checks
+*** RIVER *** [Th Kd 5d 2d][3c]
+vin10K.TiF checks
+Naku35 checks
+Jaja2a checks
+*** SHOW DOWN ***
+vin10K.TiF shows [7d 8h] (High card : King)
+Jaja2a shows [Jd 8c] (High card : King)
+Naku35 shows [9s 2c] (One pair : 2)
+Naku35 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Th Kd 5d 2d 3c]
+Seat 1: vin10K.TiF (small blind) showed [7d 8h] and lost with High card : King
+Seat 2: Naku35 (big blind) showed [9s 2c] and won 90 with One pair : 2
+Seat 5: Jaja2a (button) showed [Jd 8c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 1 - HandId: #482847546335559681-10-1425924851 - Holdem no limit (15/30) - 2015/03/09 18:14:11 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (1513)
+Seat 2: Naku35 (1057)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (2045)
+Seat 5: Jaja2a (1435)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [9h 2c]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+Jaja2a folds
+vin10K.TiF folds
+Naku35 folds
+sabre_laser collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: sabre_laser (big blind) won 45
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 1 - HandId: #482847546335559681-11-1425924865 - Holdem no limit (15/30) - 2015/03/09 18:14:25 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (1513)
+Seat 2: Naku35 (1042)
+Seat 3: sabre_laser (1465)
+Seat 4: BABA-YAGA (2045)
+Seat 5: Jaja2a (1435)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+BABA-YAGA posts big blind 30
+Dealt to sabre_laser [5h 4d]
+*** PRE-FLOP *** 
+Jaja2a folds
+vin10K.TiF raises 45 to 75
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: vin10K.TiF won 120
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 2 - HandId: #482847546335559681-12-1425924891 - Holdem no limit (20/40) - 2015/03/09 18:14:51 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (1558)
+Seat 2: Naku35 (1042)
+Seat 3: sabre_laser (1450)
+Seat 4: BABA-YAGA (2015)
+Seat 5: Jaja2a (1435)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 20
+Jaja2a posts big blind 40
+Dealt to sabre_laser [Js Jd]
+*** PRE-FLOP *** 
+vin10K.TiF folds
+Naku35 raises 60 to 100
+sabre_laser raises 100 to 200
+BABA-YAGA folds
+Jaja2a calls 160
+Naku35 calls 100
+*** FLOP *** [3h 4h Jh]
+Jaja2a checks
+Naku35 checks
+sabre_laser bets 1250 and is all-in
+Jaja2a folds
+Naku35 folds
+sabre_laser collected 1870 from pot
+*** SUMMARY ***
+Total pot 1870 | No rake
+Board: [3h 4h Jh]
+Seat 3: sabre_laser (button) won 1870
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 2 - HandId: #482847546335559681-13-1425924934 - Holdem no limit (20/40) - 2015/03/09 18:15:34 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (1558)
+Seat 2: Naku35 (842)
+Seat 3: sabre_laser (1870)
+Seat 4: BABA-YAGA (1995)
+Seat 5: Jaja2a (1235)
+*** ANTE/BLINDS ***
+Jaja2a posts small blind 20
+vin10K.TiF posts big blind 40
+Dealt to sabre_laser [8h 6d]
+*** PRE-FLOP *** 
+Naku35 raises 60 to 100
+sabre_laser folds
+BABA-YAGA folds
+Jaja2a folds
+vin10K.TiF calls 60
+*** FLOP *** [2s 3d 9d]
+vin10K.TiF checks
+Naku35 bets 742 and is all-in
+vin10K.TiF calls 742
+*** TURN *** [2s 3d 9d][6h]
+*** RIVER *** [2s 3d 9d 6h][4h]
+*** SHOW DOWN ***
+vin10K.TiF shows [2h Qh] (One pair : 2)
+Naku35 shows [Js Jc] (One pair : Jacks)
+Naku35 collected 1704 from pot
+*** SUMMARY ***
+Total pot 1704 | No rake
+Board: [2s 3d 9d 6h 4h]
+Seat 1: vin10K.TiF (big blind) showed [2h Qh] and lost with One pair : 2
+Seat 2: Naku35 showed [Js Jc] and won 1704 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 2 - HandId: #482847546335559681-14-1425924967 - Holdem no limit (20/40) - 2015/03/09 18:16:07 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #5 is the button
+Seat 1: vin10K.TiF (716)
+Seat 2: Naku35 (1704)
+Seat 3: sabre_laser (1870)
+Seat 4: BABA-YAGA (1995)
+Seat 5: Jaja2a (1215)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 20
+Naku35 posts big blind 40
+Dealt to sabre_laser [Th Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+Jaja2a folds
+vin10K.TiF raises 80 to 120
+Naku35 raises 1584 to 1704 and is all-in
+vin10K.TiF calls 596 and is all-in
+*** FLOP *** [2h Kh Ks]
+*** TURN *** [2h Kh Ks][Js]
+*** RIVER *** [2h Kh Ks Js][8h]
+*** SHOW DOWN ***
+vin10K.TiF shows [Ac 9c] (One pair : Kings)
+Naku35 shows [3d Ad] (One pair : Kings)
+Naku35 collected 988 from side pot 1
+vin10K.TiF collected 1432 from main pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Board: [2h Kh Ks Js 8h]
+Seat 1: vin10K.TiF (small blind) showed [Ac 9c] and won 1432 with One pair : Kings
+Seat 2: Naku35 (big blind) showed [3d Ad] and won 988 with One pair : Kings
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 2 - HandId: #482847546335559681-15-1425924994 - Holdem no limit (20/40) - 2015/03/09 18:16:34 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (1432)
+Seat 2: Naku35 (988)
+Seat 3: sabre_laser (1870)
+Seat 4: BABA-YAGA (1995)
+Seat 5: Jaja2a (1215)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [6d Td]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+Jaja2a raises 1175 to 1215 and is all-in
+vin10K.TiF folds
+Naku35 calls 968 and is all-in
+sabre_laser folds
+*** FLOP *** [9c Qd Js]
+*** TURN *** [9c Qd Js][2s]
+*** RIVER *** [9c Qd Js 2s][Tc]
+*** SHOW DOWN ***
+Naku35 shows [8s 8d] (Straight Queen high)
+Jaja2a shows [Jc As] (One pair : Jacks)
+Jaja2a collected 227 from side pot 1
+Naku35 collected 2016 from main pot
+*** SUMMARY ***
+Total pot 2243 | No rake
+Board: [9c Qd Js 2s Tc]
+Seat 2: Naku35 (small blind) showed [8s 8d] and won 2016 with Straight Queen high
+Seat 5: Jaja2a showed [Jc As] and won 227 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 2 - HandId: #482847546335559681-16-1425925014 - Holdem no limit (20/40) - 2015/03/09 18:16:54 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (1432)
+Seat 2: Naku35 (2016)
+Seat 3: sabre_laser (1830)
+Seat 4: BABA-YAGA (1995)
+Seat 5: Jaja2a (227)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+BABA-YAGA posts big blind 40
+Dealt to sabre_laser [Qd 4d]
+*** PRE-FLOP *** 
+Jaja2a folds
+vin10K.TiF folds
+Naku35 folds
+sabre_laser calls 20
+BABA-YAGA checks
+*** FLOP *** [7d 6h 5c]
+sabre_laser bets 80
+BABA-YAGA folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [7d 6h 5c]
+Seat 3: sabre_laser (small blind) won 160
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 2 - HandId: #482847546335559681-17-1425925038 - Holdem no limit (20/40) - 2015/03/09 18:17:18 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (1432)
+Seat 2: Naku35 (2016)
+Seat 3: sabre_laser (1870)
+Seat 4: BABA-YAGA (1955)
+Seat 5: Jaja2a (227)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 20
+Jaja2a posts big blind 40
+Dealt to sabre_laser [Js 7s]
+*** PRE-FLOP *** 
+vin10K.TiF folds
+Naku35 folds
+sabre_laser raises 80 to 120
+BABA-YAGA folds
+Jaja2a folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: sabre_laser (button) won 180
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #482847546335559681-18-1425925061 - Holdem no limit (30/60) - 2015/03/09 18:17:41 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (1432)
+Seat 2: Naku35 (2016)
+Seat 3: sabre_laser (1930)
+Seat 4: BABA-YAGA (1935)
+Seat 5: Jaja2a (187)
+*** ANTE/BLINDS ***
+Jaja2a posts small blind 30
+vin10K.TiF posts big blind 60
+Dealt to sabre_laser [8h Ad]
+*** PRE-FLOP *** 
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+Jaja2a folds
+vin10K.TiF collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: vin10K.TiF (big blind) won 90
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #482847546335559681-19-1425925084 - Holdem no limit (30/60) - 2015/03/09 18:18:04 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #5 is the button
+Seat 1: vin10K.TiF (1462)
+Seat 2: Naku35 (2016)
+Seat 3: sabre_laser (1930)
+Seat 4: BABA-YAGA (1935)
+Seat 5: Jaja2a (157)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 30
+Naku35 posts big blind 60
+Dealt to sabre_laser [Th As]
+*** PRE-FLOP *** 
+sabre_laser raises 90 to 150
+BABA-YAGA folds
+Jaja2a folds
+vin10K.TiF calls 120
+Naku35 folds
+*** FLOP *** [6d 3s 2d]
+vin10K.TiF checks
+sabre_laser bets 240
+vin10K.TiF folds
+sabre_laser collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6d 3s 2d]
+Seat 3: sabre_laser won 600
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #482847546335559681-20-1425925149 - Holdem no limit (30/60) - 2015/03/09 18:19:09 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (1312)
+Seat 2: Naku35 (1956)
+Seat 3: sabre_laser (2140)
+Seat 4: BABA-YAGA (1935)
+Seat 5: Jaja2a (157)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [4h 4d]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+Jaja2a raises 60 to 120
+vin10K.TiF raises 60 to 180
+Naku35 folds
+sabre_laser calls 120
+Jaja2a calls 37 and is all-in
+*** FLOP *** [9h 9c 3h]
+sabre_laser checks
+vin10K.TiF checks
+*** TURN *** [9h 9c 3h][3s]
+sabre_laser checks
+vin10K.TiF bets 274
+sabre_laser raises 1686 to 1960 and is all-in
+vin10K.TiF calls 858 and is all-in
+*** RIVER *** [9h 9c 3h 3s][5c]
+*** SHOW DOWN ***
+Jaja2a shows [Js Jd] (Two pairs : Jacks and 9)
+vin10K.TiF shows [9s Ad] (Full of 9 and 3)
+sabre_laser shows [4h 4d] (Two pairs : 9 and 4)
+sabre_laser collected 828 from side pot 1
+vin10K.TiF collected 2811 from main pot
+*** SUMMARY ***
+Total pot 3639 | No rake
+Board: [9h 9c 3h 3s 5c]
+Seat 1: vin10K.TiF (button) showed [9s Ad] and won 2811 with Full of 9 and 3
+Seat 3: sabre_laser (big blind) showed [4h 4d] and won 828 with Two pairs : 9 and 4
+Seat 5: Jaja2a showed [Js Jd] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #482847546335559681-21-1425925203 - Holdem no limit (30/60) - 2015/03/09 18:20:03 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (2811)
+Seat 2: Naku35 (1926)
+Seat 3: sabre_laser (828)
+Seat 4: BABA-YAGA (1935)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+BABA-YAGA posts big blind 60
+Dealt to sabre_laser [7s 9d]
+*** PRE-FLOP *** 
+vin10K.TiF folds
+Naku35 folds
+sabre_laser calls 30
+BABA-YAGA checks
+*** FLOP *** [Qs 9s 4d]
+sabre_laser bets 120
+BABA-YAGA folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qs 9s 4d]
+Seat 3: sabre_laser (small blind) won 240
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #482847546335559681-22-1425925226 - Holdem no limit (30/60) - 2015/03/09 18:20:26 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (2811)
+Seat 2: Naku35 (1926)
+Seat 3: sabre_laser (888)
+Seat 4: BABA-YAGA (1875)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 30
+vin10K.TiF posts big blind 60
+Dealt to sabre_laser [9s 7c]
+*** PRE-FLOP *** 
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: vin10K.TiF (big blind) won 90
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-23-1425925232 - Holdem no limit (40/80) - 2015/03/09 18:20:32 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (2841)
+Seat 2: Naku35 (1926)
+Seat 3: sabre_laser (888)
+Seat 4: BABA-YAGA (1845)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 40
+Naku35 posts big blind 80
+Dealt to sabre_laser [Qh 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF raises 80 to 160
+Naku35 folds
+vin10K.TiF collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: vin10K.TiF (small blind) won 240
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-24-1425925243 - Holdem no limit (40/80) - 2015/03/09 18:20:43 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (2921)
+Seat 2: Naku35 (1846)
+Seat 3: sabre_laser (888)
+Seat 4: BABA-YAGA (1845)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [5c Kh]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+vin10K.TiF folds
+Naku35 folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: sabre_laser (big blind) won 120
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-25-1425925249 - Holdem no limit (40/80) - 2015/03/09 18:20:49 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (2921)
+Seat 2: Naku35 (1806)
+Seat 3: sabre_laser (928)
+Seat 4: BABA-YAGA (1845)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+BABA-YAGA posts big blind 80
+Dealt to sabre_laser [Jd Tc]
+*** PRE-FLOP *** 
+vin10K.TiF raises 120 to 200
+Naku35 calls 200
+sabre_laser folds
+BABA-YAGA folds
+*** FLOP *** [9d Qd 6c]
+vin10K.TiF bets 2721 and is all-in
+Naku35 calls 1606 and is all-in
+*** TURN *** [9d Qd 6c][7d]
+*** RIVER *** [9d Qd 6c 7d][Kd]
+*** SHOW DOWN ***
+Naku35 shows [Td Ad] (Flush Ace high)
+vin10K.TiF shows [Jh Qh] (One pair : Queens)
+vin10K.TiF collected 1115 from side pot 1
+Naku35 collected 3732 from main pot
+*** SUMMARY ***
+Total pot 4847 | No rake
+Board: [9d Qd 6c 7d Kd]
+Seat 1: vin10K.TiF showed [Jh Qh] and won 1115 with One pair : Queens
+Seat 2: Naku35 (button) showed [Td Ad] and won 3732 with Flush Ace high
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-26-1425925281 - Holdem no limit (40/80) - 2015/03/09 18:21:21 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (1115)
+Seat 2: Naku35 (3732)
+Seat 3: sabre_laser (888)
+Seat 4: BABA-YAGA (1765)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 40
+vin10K.TiF posts big blind 80
+Dealt to sabre_laser [4h Ad]
+*** PRE-FLOP *** 
+Naku35 raises 120 to 200
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF folds
+Naku35 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Naku35 won 320
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-27-1425925294 - Holdem no limit (40/80) - 2015/03/09 18:21:34 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (1035)
+Seat 2: Naku35 (3852)
+Seat 3: sabre_laser (888)
+Seat 4: BABA-YAGA (1725)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 40
+Naku35 posts big blind 80
+Dealt to sabre_laser [7s Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF raises 120 to 200
+Naku35 raises 3652 to 3852 and is all-in
+vin10K.TiF calls 835 and is all-in
+*** FLOP *** [5s Qd 7c]
+*** TURN *** [5s Qd 7c][5d]
+*** RIVER *** [5s Qd 7c 5d][4s]
+*** SHOW DOWN ***
+vin10K.TiF shows [As Qh] (Two pairs : Queens and 5)
+Naku35 shows [Qs Js] (Two pairs : Queens and 5)
+Naku35 collected 2817 from side pot 1
+vin10K.TiF collected 2070 from main pot
+*** SUMMARY ***
+Total pot 4887 | No rake
+Board: [5s Qd 7c 5d 4s]
+Seat 1: vin10K.TiF (small blind) showed [As Qh] and won 2070 with Two pairs : Queens and 5
+Seat 2: Naku35 (big blind) showed [Qs Js] and won 2817 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-28-1425925318 - Holdem no limit (40/80) - 2015/03/09 18:21:58 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (2070)
+Seat 2: Naku35 (2817)
+Seat 3: sabre_laser (888)
+Seat 4: BABA-YAGA (1725)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Ks 5h]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+vin10K.TiF folds
+Naku35 calls 40
+sabre_laser checks
+*** FLOP *** [3d Td 4h]
+Naku35 bets 80
+sabre_laser folds
+Naku35 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3d Td 4h]
+Seat 2: Naku35 (small blind) won 240
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-29-1425925340 - Holdem no limit (40/80) - 2015/03/09 18:22:20 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (2070)
+Seat 2: Naku35 (2897)
+Seat 3: sabre_laser (808)
+Seat 4: BABA-YAGA (1725)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+BABA-YAGA posts big blind 80
+Dealt to sabre_laser [5h Kc]
+*** PRE-FLOP *** 
+vin10K.TiF raises 1990 to 2070 and is all-in
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF collected 2190 from pot
+*** SUMMARY ***
+Total pot 2190 | No rake
+Seat 1: vin10K.TiF won 2190
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-30-1425925355 - Holdem no limit (40/80) - 2015/03/09 18:22:35 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (2190)
+Seat 2: Naku35 (2897)
+Seat 3: sabre_laser (768)
+Seat 4: BABA-YAGA (1645)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 40
+vin10K.TiF posts big blind 80
+Dealt to sabre_laser [6d 4c]
+*** PRE-FLOP *** 
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: vin10K.TiF (big blind) won 120
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-31-1425925365 - Holdem no limit (40/80) - 2015/03/09 18:22:45 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (2230)
+Seat 2: Naku35 (2897)
+Seat 3: sabre_laser (768)
+Seat 4: BABA-YAGA (1605)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 40
+Naku35 posts big blind 80
+Dealt to sabre_laser [2c 3d]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF calls 40
+Naku35 checks
+*** FLOP *** [5c 5d 7c]
+vin10K.TiF checks
+Naku35 checks
+*** TURN *** [5c 5d 7c][Qd]
+vin10K.TiF bets 80
+Naku35 folds
+vin10K.TiF collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5c 5d 7c Qd]
+Seat 1: vin10K.TiF (small blind) won 240
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-32-1425925396 - Holdem no limit (40/80) - 2015/03/09 18:23:16 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (2310)
+Seat 2: Naku35 (2817)
+Seat 3: sabre_laser (768)
+Seat 4: BABA-YAGA (1605)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [8d 7s]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+vin10K.TiF folds
+Naku35 folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: sabre_laser (big blind) won 120
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #482847546335559681-33-1425925402 - Holdem no limit (40/80) - 2015/03/09 18:23:22 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (2310)
+Seat 2: Naku35 (2777)
+Seat 3: sabre_laser (808)
+Seat 4: BABA-YAGA (1605)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+BABA-YAGA posts big blind 80
+Dealt to sabre_laser [Ac 9h]
+*** PRE-FLOP *** 
+vin10K.TiF folds
+Naku35 raises 80 to 160
+sabre_laser raises 648 to 808 and is all-in
+BABA-YAGA folds
+Naku35 calls 648
+*** FLOP *** [9s Ah 5h]
+*** TURN *** [9s Ah 5h][9d]
+*** RIVER *** [9s Ah 5h 9d][4d]
+*** SHOW DOWN ***
+Naku35 shows [As 8h] (Two pairs : Aces and 9)
+sabre_laser shows [Ac 9h] (Full of 9 and Aces)
+sabre_laser collected 1696 from pot
+*** SUMMARY ***
+Total pot 1696 | No rake
+Board: [9s Ah 5h 9d 4d]
+Seat 2: Naku35 (button) showed [As 8h] and lost with Two pairs : Aces and 9
+Seat 3: sabre_laser (small blind) showed [Ac 9h] and won 1696 with Full of 9 and Aces
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #482847546335559681-34-1425925426 - Holdem no limit (60/120) - 2015/03/09 18:23:46 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (2310)
+Seat 2: Naku35 (1969)
+Seat 3: sabre_laser (1696)
+Seat 4: BABA-YAGA (1525)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 60
+vin10K.TiF posts big blind 120
+Dealt to sabre_laser [8s Jd]
+*** PRE-FLOP *** 
+Naku35 raises 180 to 300
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF calls 180
+*** FLOP *** [8c Tc Ks]
+vin10K.TiF checks
+Naku35 checks
+*** TURN *** [8c Tc Ks][Jc]
+vin10K.TiF checks
+Naku35 bets 1669 and is all-in
+vin10K.TiF folds
+Naku35 collected 2329 from pot
+*** SUMMARY ***
+Total pot 2329 | No rake
+Board: [8c Tc Ks Jc]
+Seat 2: Naku35 won 2329
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #482847546335559681-35-1425925494 - Holdem no limit (60/120) - 2015/03/09 18:24:54 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (2010)
+Seat 2: Naku35 (2329)
+Seat 3: sabre_laser (1696)
+Seat 4: BABA-YAGA (1465)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 60
+Naku35 posts big blind 120
+Dealt to sabre_laser [4h Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF raises 1890 to 2010 and is all-in
+Naku35 folds
+vin10K.TiF collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Seat 1: vin10K.TiF (small blind) won 2130
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #482847546335559681-36-1425925505 - Holdem no limit (60/120) - 2015/03/09 18:25:05 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (2130)
+Seat 2: Naku35 (2209)
+Seat 3: sabre_laser (1696)
+Seat 4: BABA-YAGA (1465)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [6s 4c]
+*** PRE-FLOP *** 
+BABA-YAGA raises 120 to 240
+vin10K.TiF folds
+Naku35 folds
+sabre_laser folds
+BABA-YAGA collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 4: BABA-YAGA won 420
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #482847546335559681-37-1425925517 - Holdem no limit (60/120) - 2015/03/09 18:25:17 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (2130)
+Seat 2: Naku35 (2149)
+Seat 3: sabre_laser (1576)
+Seat 4: BABA-YAGA (1645)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+BABA-YAGA posts big blind 120
+Dealt to sabre_laser [4h Jh]
+*** PRE-FLOP *** 
+vin10K.TiF raises 2010 to 2130 and is all-in
+Naku35 folds
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF collected 2310 from pot
+*** SUMMARY ***
+Total pot 2310 | No rake
+Seat 1: vin10K.TiF won 2310
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #482847546335559681-38-1425925537 - Holdem no limit (60/120) - 2015/03/09 18:25:37 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (2310)
+Seat 2: Naku35 (2149)
+Seat 3: sabre_laser (1516)
+Seat 4: BABA-YAGA (1525)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 60
+vin10K.TiF posts big blind 120
+Dealt to sabre_laser [9d 5s]
+*** PRE-FLOP *** 
+Naku35 raises 120 to 240
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF calls 120
+*** FLOP *** [7h 4s 7d]
+vin10K.TiF checks
+Naku35 checks
+*** TURN *** [7h 4s 7d][Qs]
+vin10K.TiF checks
+Naku35 checks
+*** RIVER *** [7h 4s 7d Qs][Ah]
+vin10K.TiF checks
+Naku35 checks
+*** SHOW DOWN ***
+vin10K.TiF shows [Kd 2h] (One pair : 7)
+Naku35 shows [Jd Ad] (Two pairs : Aces and 7)
+Naku35 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7h 4s 7d Qs Ah]
+Seat 1: vin10K.TiF (big blind) showed [Kd 2h] and lost with One pair : 7
+Seat 2: Naku35 showed [Jd Ad] and won 540 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #482847546335559681-39-1425925567 - Holdem no limit (60/120) - 2015/03/09 18:26:07 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (2070)
+Seat 2: Naku35 (2449)
+Seat 3: sabre_laser (1516)
+Seat 4: BABA-YAGA (1465)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 60
+Naku35 posts big blind 120
+Dealt to sabre_laser [5h Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF raises 120 to 240
+Naku35 calls 120
+*** FLOP *** [Jd 6c Ts]
+vin10K.TiF checks
+Naku35 checks
+*** TURN *** [Jd 6c Ts][9d]
+vin10K.TiF bets 120
+Naku35 calls 120
+*** RIVER *** [Jd 6c Ts 9d][7c]
+vin10K.TiF bets 120
+Naku35 calls 120
+*** SHOW DOWN ***
+vin10K.TiF shows [9s Ac] (One pair : 9)
+Naku35 shows [9c Ad] (One pair : 9)
+Naku35 collected 480 from pot
+vin10K.TiF collected 480 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Jd 6c Ts 9d 7c]
+Seat 1: vin10K.TiF (small blind) showed [9s Ac] and won 480 with One pair : 9
+Seat 2: Naku35 (big blind) showed [9c Ad] and won 480 with One pair : 9
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #482847546335559681-40-1425925607 - Holdem no limit (80/160) - 2015/03/09 18:26:47 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (2070)
+Seat 2: Naku35 (2449)
+Seat 3: sabre_laser (1516)
+Seat 4: BABA-YAGA (1465)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [4h Jc]
+*** PRE-FLOP *** 
+BABA-YAGA raises 1305 to 1465 and is all-in
+vin10K.TiF folds
+Naku35 folds
+sabre_laser folds
+BABA-YAGA collected 1705 from pot
+*** SUMMARY ***
+Total pot 1705 | No rake
+Seat 4: BABA-YAGA won 1705
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #482847546335559681-41-1425925624 - Holdem no limit (80/160) - 2015/03/09 18:27:04 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #2 is the button
+Seat 1: vin10K.TiF (2070)
+Seat 2: Naku35 (2369)
+Seat 3: sabre_laser (1356)
+Seat 4: BABA-YAGA (1705)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+BABA-YAGA posts big blind 160
+Dealt to sabre_laser [4s 4c]
+*** PRE-FLOP *** 
+vin10K.TiF raises 160 to 320
+Naku35 folds
+sabre_laser calls 240
+BABA-YAGA folds
+*** FLOP *** [Jc Th 9h]
+sabre_laser checks
+vin10K.TiF bets 1750 and is all-in
+sabre_laser folds
+vin10K.TiF collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [Jc Th 9h]
+Seat 1: vin10K.TiF won 2550
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #482847546335559681-42-1425925654 - Holdem no limit (80/160) - 2015/03/09 18:27:34 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #3 is the button
+Seat 1: vin10K.TiF (2550)
+Seat 2: Naku35 (2369)
+Seat 3: sabre_laser (1036)
+Seat 4: BABA-YAGA (1545)
+*** ANTE/BLINDS ***
+BABA-YAGA posts small blind 80
+vin10K.TiF posts big blind 160
+Dealt to sabre_laser [7d 2h]
+*** PRE-FLOP *** 
+Naku35 raises 160 to 320
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF folds
+Naku35 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 2: Naku35 won 560
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #482847546335559681-43-1425925666 - Holdem no limit (80/160) - 2015/03/09 18:27:46 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #4 is the button
+Seat 1: vin10K.TiF (2390)
+Seat 2: Naku35 (2609)
+Seat 3: sabre_laser (1036)
+Seat 4: BABA-YAGA (1465)
+*** ANTE/BLINDS ***
+vin10K.TiF posts small blind 80
+Naku35 posts big blind 160
+Dealt to sabre_laser [5d 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+BABA-YAGA folds
+vin10K.TiF calls 80
+Naku35 checks
+*** FLOP *** [6c 7d Ks]
+vin10K.TiF checks
+Naku35 checks
+*** TURN *** [6c 7d Ks][3s]
+vin10K.TiF bets 160
+Naku35 calls 160
+*** RIVER *** [6c 7d Ks 3s][6d]
+vin10K.TiF checks
+Naku35 checks
+*** SHOW DOWN ***
+vin10K.TiF shows [Tc 3c] (Two pairs : 6 and 3)
+Naku35 shows [7s 2s] (Two pairs : 7 and 6)
+Naku35 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [6c 7d Ks 3s 6d]
+Seat 1: vin10K.TiF (small blind) showed [Tc 3c] and lost with Two pairs : 6 and 3
+Seat 2: Naku35 (big blind) showed [7s 2s] and won 640 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Révolution - Stade 2" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #482847546335559681-44-1425925688 - Holdem no limit (80/160) - 2015/03/09 18:28:08 UTC
+Table: 'Révolution - Stade 2(112421705)#0' 5-max (real money) Seat #1 is the button
+Seat 1: vin10K.TiF (2070)
+Seat 2: Naku35 (2929)
+Seat 3: sabre_laser (1036)
+Seat 4: BABA-YAGA (1465)
+*** ANTE/BLINDS ***
+Naku35 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Tc Ac]
+*** PRE-FLOP *** 
+BABA-YAGA folds
+vin10K.TiF folds
+Naku35 raises 160 to 320
+sabre_laser raises 716 to 1036 and is all-in
+Naku35 raises 716 to 1752
+*** FLOP *** [Qh Ks 7d]
+*** TURN *** [Qh Ks 7d][9s]
+*** RIVER *** [Qh Ks 7d 9s][6c]
+*** SHOW DOWN ***
+sabre_laser shows [Tc Ac] (High card : Ace)
+Naku35 shows [Qd Kc] (Two pairs : Kings and Queens)
+Naku35 collected 2788 from pot
+*** SUMMARY ***
+Total pot 2788 | No rake
+Board: [Qh Ks 7d 9s 6c]
+Seat 2: Naku35 (small blind) showed [Qd Kc] and won 2788 with Two pairs : Kings and Queens
+Seat 3: sabre_laser (big blind) showed [Tc Ac] and lost with High card : Ace
+
+

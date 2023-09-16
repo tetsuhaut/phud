@@ -1,0 +1,915 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #538095115118313473-1-1437425363 - Holdem no limit (10/20) - 2015/07/20 20:49:23 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Pokerspree (1500)
+Seat 2: DarkMitchou (1500)
+Seat 3: titous07 (1500)
+Seat 4: Stu jr (1500)
+Seat 5: Ak Boy972 (1500)
+Seat 6: monmi (1500)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: jordan-766 (1500)
+*** ANTE/BLINDS ***
+Ak Boy972 posts small blind 10
+monmi posts big blind 20
+Dealt to sabre_laser [9c Jd]
+*** PRE-FLOP *** 
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr raises 20 to 40
+Ak Boy972 raises 160 to 200
+monmi folds
+Stu jr folds
+Ak Boy972 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 5: Ak Boy972 (small blind) won 260
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #538095115118313473-2-1437425439 - Holdem no limit (10/20) - 2015/07/20 20:50:39 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Pokerspree (1500)
+Seat 2: DarkMitchou (1500)
+Seat 3: titous07 (1500)
+Seat 4: Stu jr (1460)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1480)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: jordan-766 (1500)
+*** ANTE/BLINDS ***
+monmi posts small blind 10
+Ouups posts big blind 20
+Dealt to sabre_laser [Tc Ks]
+*** PRE-FLOP *** 
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi calls 10
+Ouups raises 1480 to 1500 and is all-in
+monmi folds
+Ouups collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Seat 7: Ouups (big blind) won 1520
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #538095115118313473-3-1437425489 - Holdem no limit (10/20) - 2015/07/20 20:51:29 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Pokerspree (1500)
+Seat 2: DarkMitchou (1500)
+Seat 3: titous07 (1500)
+Seat 4: Stu jr (1460)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1460)
+Seat 7: Ouups (1520)
+Seat 8: blackviz (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: jordan-766 (1500)
+*** ANTE/BLINDS ***
+Ouups posts small blind 10
+blackviz posts big blind 20
+Dealt to sabre_laser [7c Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou calls 20
+titous07 calls 20
+Stu jr folds
+Ak Boy972 folds
+monmi calls 20
+Ouups calls 10
+blackviz checks
+*** FLOP *** [3h 6s Tc]
+Ouups checks
+blackviz checks
+DarkMitchou bets 100
+titous07 folds
+monmi folds
+Ouups folds
+blackviz folds
+DarkMitchou collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [3h 6s Tc]
+Seat 2: DarkMitchou won 200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #538095115118313473-4-1437425559 - Holdem no limit (10/20) - 2015/07/20 20:52:39 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Pokerspree (1500)
+Seat 2: DarkMitchou (1580)
+Seat 3: titous07 (1480)
+Seat 4: Stu jr (1460)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1440)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1480)
+Seat 9: sabre_laser (1500)
+Seat 10: jordan-766 (1500)
+*** ANTE/BLINDS ***
+blackviz posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [5h 3s]
+*** PRE-FLOP *** 
+jordan-766 raises 20 to 40
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser calls 20
+*** FLOP *** [9c 5d 6c]
+sabre_laser bets 30
+jordan-766 calls 30
+*** TURN *** [9c 5d 6c][7h]
+sabre_laser bets 50
+jordan-766 folds
+sabre_laser collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [9c 5d 6c 7h]
+Seat 9: sabre_laser (big blind) won 200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #538095115118313473-5-1437425632 - Holdem no limit (10/20) - 2015/07/20 20:53:52 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Pokerspree (1500)
+Seat 2: DarkMitchou (1580)
+Seat 3: titous07 (1480)
+Seat 4: Stu jr (1460)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1440)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1470)
+Seat 9: sabre_laser (1580)
+Seat 10: jordan-766 (1430)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+jordan-766 posts big blind 20
+Dealt to sabre_laser [5h 2h]
+*** PRE-FLOP *** 
+Pokerspree folds
+DarkMitchou calls 20
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser calls 10
+jordan-766 checks
+*** FLOP *** [8h As 9s]
+sabre_laser checks
+jordan-766 checks
+DarkMitchou bets 45
+sabre_laser folds
+jordan-766 folds
+DarkMitchou collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [8h As 9s]
+Seat 2: DarkMitchou won 105
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #538095115118313473-6-1437425693 - Holdem no limit (10/20) - 2015/07/20 20:54:53 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Pokerspree (1500)
+Seat 2: DarkMitchou (1620)
+Seat 3: titous07 (1480)
+Seat 4: Stu jr (1460)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1440)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1470)
+Seat 9: sabre_laser (1560)
+Seat 10: jordan-766 (1410)
+*** ANTE/BLINDS ***
+jordan-766 posts small blind 10
+Pokerspree posts big blind 20
+Dealt to sabre_laser [8c Tc]
+*** PRE-FLOP *** 
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi calls 20
+Ouups folds
+blackviz folds
+sabre_laser calls 20
+jordan-766 folds
+Pokerspree checks
+*** FLOP *** [Ad 4c Ah]
+Pokerspree checks
+monmi bets 70
+sabre_laser folds
+Pokerspree folds
+monmi collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Ad 4c Ah]
+Seat 6: monmi won 140
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #538095115118313473-7-1437425750 - Holdem no limit (10/20) - 2015/07/20 20:55:50 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Pokerspree (1480)
+Seat 2: DarkMitchou (1620)
+Seat 3: titous07 (1480)
+Seat 4: Stu jr (1460)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1490)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1470)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1400)
+*** ANTE/BLINDS ***
+Pokerspree posts small blind 10
+DarkMitchou posts big blind 20
+Dealt to sabre_laser [Td 2c]
+*** PRE-FLOP *** 
+titous07 raises 20 to 40
+Stu jr calls 40
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz calls 40
+sabre_laser folds
+jordan-766 calls 40
+Pokerspree folds
+DarkMitchou calls 20
+*** FLOP *** [Kc 6d 8c]
+DarkMitchou checks
+titous07 bets 20
+Stu jr folds
+blackviz calls 20
+jordan-766 folds
+DarkMitchou folds
+*** TURN *** [Kc 6d 8c][As]
+titous07 bets 102
+blackviz calls 102
+*** RIVER *** [Kc 6d 8c As][9d]
+titous07 bets 296
+blackviz folds
+titous07 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Kc 6d 8c As 9d]
+Seat 3: titous07 won 750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #538095115118313473-8-1437425929 - Holdem no limit (15/30) - 2015/07/20 20:58:49 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Pokerspree (1470)
+Seat 2: DarkMitchou (1580)
+Seat 3: titous07 (1772)
+Seat 4: Stu jr (1420)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1490)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1308)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1360)
+*** ANTE/BLINDS ***
+DarkMitchou posts small blind 15
+titous07 posts big blind 30
+Dealt to sabre_laser [2h 5h]
+*** PRE-FLOP *** 
+Stu jr folds
+Ak Boy972 folds
+monmi raises 60 to 90
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 calls 90
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+*** FLOP *** [Jh 7d 9c]
+monmi bets 90
+jordan-766 folds
+monmi collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [Jh 7d 9c]
+Seat 6: monmi won 315
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #538095115118313473-9-1437425992 - Holdem no limit (15/30) - 2015/07/20 20:59:52 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Pokerspree (1470)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1742)
+Seat 4: Stu jr (1420)
+Seat 5: Ak Boy972 (1560)
+Seat 6: monmi (1625)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1308)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1270)
+*** ANTE/BLINDS ***
+titous07 posts small blind 15
+Stu jr posts big blind 30
+Dealt to sabre_laser [Ad 8d]
+*** PRE-FLOP *** 
+Ak Boy972 raises 120 to 150
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr calls 120
+*** FLOP *** [Ts 4h Th]
+Stu jr bets 1270 and is all-in
+Ak Boy972 folds
+Stu jr collected 1585 from pot
+*** SUMMARY ***
+Total pot 1585 | No rake
+Board: [Ts 4h Th]
+Seat 4: Stu jr (big blind) won 1585
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #538095115118313473-10-1437426051 - Holdem no limit (15/30) - 2015/07/20 21:00:51 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Pokerspree (1470)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1727)
+Seat 4: Stu jr (1585)
+Seat 5: Ak Boy972 (1410)
+Seat 6: monmi (1625)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1308)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1270)
+*** ANTE/BLINDS ***
+Stu jr posts small blind 15
+Ak Boy972 posts big blind 30
+Dealt to sabre_laser [Jd 3d]
+*** PRE-FLOP *** 
+monmi calls 30
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 raises 90 to 120
+Pokerspree folds
+DarkMitchou folds
+titous07 calls 120
+Stu jr folds
+Ak Boy972 calls 90
+monmi calls 90
+*** FLOP *** [9d 2s 6c]
+Ak Boy972 checks
+monmi checks
+jordan-766 checks
+titous07 checks
+*** TURN *** [9d 2s 6c][Kh]
+Ak Boy972 bets 495
+monmi folds
+jordan-766 folds
+titous07 folds
+Ak Boy972 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [9d 2s 6c Kh]
+Seat 5: Ak Boy972 (big blind) won 990
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #538095115118313473-11-1437426152 - Holdem no limit (15/30) - 2015/07/20 21:02:32 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Pokerspree (1470)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1607)
+Seat 4: Stu jr (1570)
+Seat 5: Ak Boy972 (1785)
+Seat 6: monmi (1505)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1308)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1150)
+*** ANTE/BLINDS ***
+Ak Boy972 posts small blind 15
+monmi posts big blind 30
+Dealt to sabre_laser [Kd 6h]
+*** PRE-FLOP *** 
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree raises 60 to 90
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi folds
+Pokerspree collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 1: Pokerspree won 135
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #538095115118313473-12-1437426199 - Holdem no limit (15/30) - 2015/07/20 21:03:19 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Pokerspree (1515)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1607)
+Seat 4: Stu jr (1570)
+Seat 5: Ak Boy972 (1770)
+Seat 6: monmi (1475)
+Seat 7: Ouups (1500)
+Seat 8: blackviz (1308)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1150)
+*** ANTE/BLINDS ***
+monmi posts small blind 15
+Ouups posts big blind 30
+Dealt to sabre_laser [Jd 4s]
+*** PRE-FLOP *** 
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 raises 30 to 60
+Stu jr folds
+Ak Boy972 folds
+monmi calls 45
+Ouups calls 30
+*** FLOP *** [6d 6c 6s]
+monmi checks
+Ouups checks
+titous07 checks
+*** TURN *** [6d 6c 6s][Th]
+monmi bets 120
+Ouups calls 120
+titous07 folds
+*** RIVER *** [6d 6c 6s Th][Td]
+monmi bets 280
+Ouups calls 280
+*** SHOW DOWN ***
+monmi shows [Ah Ts] (Full of Tens and 6)
+Ouups shows [Tc Kc] (Full of Tens and 6)
+Ouups collected 490 from pot
+monmi collected 490 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [6d 6c 6s Th Td]
+Seat 6: monmi (small blind) showed [Ah Ts] and won 490 with Full of Tens and 6
+Seat 7: Ouups (big blind) showed [Tc Kc] and won 490 with Full of Tens and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #538095115118313473-13-1437426270 - Holdem no limit (15/30) - 2015/07/20 21:04:30 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Pokerspree (1515)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1547)
+Seat 4: Stu jr (1570)
+Seat 5: Ak Boy972 (1770)
+Seat 6: monmi (1505)
+Seat 7: Ouups (1530)
+Seat 8: blackviz (1308)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1150)
+*** ANTE/BLINDS ***
+Ouups posts small blind 15
+blackviz posts big blind 30
+Dealt to sabre_laser [6h Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr raises 30 to 60
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz folds
+Stu jr collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 4: Stu jr won 105
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #538095115118313473-14-1437426314 - Holdem no limit (15/30) - 2015/07/20 21:05:14 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Pokerspree (1515)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1547)
+Seat 4: Stu jr (1615)
+Seat 5: Ak Boy972 (1770)
+Seat 6: monmi (1505)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1278)
+Seat 9: sabre_laser (1540)
+Seat 10: jordan-766 (1150)
+*** ANTE/BLINDS ***
+blackviz posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Ah 8d]
+*** PRE-FLOP *** 
+jordan-766 raises 30 to 60
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser calls 30
+*** FLOP *** [Ad Jd 2h]
+sabre_laser checks
+jordan-766 bets 30
+sabre_laser calls 30
+*** TURN *** [Ad Jd 2h][9c]
+sabre_laser checks
+jordan-766 bets 90
+sabre_laser raises 120 to 210
+jordan-766 raises 850 to 1060 and is all-in
+sabre_laser calls 850
+*** RIVER *** [Ad Jd 2h 9c][9d]
+*** SHOW DOWN ***
+sabre_laser shows [Ah 8d] (Two pairs : Aces and 9)
+jordan-766 shows [Jh 9h] (Full of 9 and Jacks)
+jordan-766 collected 2315 from pot
+*** SUMMARY ***
+Total pot 2315 | No rake
+Board: [Ad Jd 2h 9c 9d]
+Seat 9: sabre_laser (big blind) showed [Ah 8d] and lost with Two pairs : Aces and 9
+Seat 10: jordan-766 showed [Jh 9h] and won 2315 with Full of 9 and Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #538095115118313473-15-1437426387 - Holdem no limit (20/40) - 2015/07/20 21:06:27 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Pokerspree (1515)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1547)
+Seat 4: Stu jr (1615)
+Seat 5: Ak Boy972 (1770)
+Seat 6: monmi (1505)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1263)
+Seat 9: sabre_laser (390)
+Seat 10: jordan-766 (2315)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+jordan-766 posts big blind 40
+Dealt to sabre_laser [Th 6c]
+*** PRE-FLOP *** 
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+Ak Boy972 calls 40
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 checks
+*** FLOP *** [7h 2c Kd]
+jordan-766 bets 40
+Ak Boy972 calls 40
+*** TURN *** [7h 2c Kd][Kh]
+jordan-766 checks
+Ak Boy972 checks
+*** RIVER *** [7h 2c Kd Kh][7d]
+jordan-766 bets 180
+Ak Boy972 folds
+jordan-766 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7h 2c Kd Kh 7d]
+Seat 10: jordan-766 (big blind) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #538095115118313473-16-1437426449 - Holdem no limit (20/40) - 2015/07/20 21:07:29 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Pokerspree (1515)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1547)
+Seat 4: Stu jr (1615)
+Seat 5: Ak Boy972 (1690)
+Seat 6: monmi (1505)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1263)
+Seat 9: sabre_laser (370)
+Seat 10: jordan-766 (2415)
+*** ANTE/BLINDS ***
+jordan-766 posts small blind 20
+Pokerspree posts big blind 40
+Dealt to sabre_laser [6s Jc]
+*** PRE-FLOP *** 
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi raises 40 to 80
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+monmi collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 6: monmi won 140
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #538095115118313473-17-1437426518 - Holdem no limit (20/40) - 2015/07/20 21:08:38 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Pokerspree (1475)
+Seat 2: DarkMitchou (1565)
+Seat 3: titous07 (1547)
+Seat 4: Stu jr (1615)
+Seat 5: Ak Boy972 (1690)
+Seat 6: monmi (1565)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1263)
+Seat 9: sabre_laser (370)
+Seat 10: jordan-766 (2395)
+*** ANTE/BLINDS ***
+Pokerspree posts small blind 20
+DarkMitchou posts big blind 40
+Dealt to sabre_laser [4d 7d]
+*** PRE-FLOP *** 
+titous07 folds
+Stu jr calls 40
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree calls 20
+DarkMitchou folds
+*** FLOP *** [Td 9s 6d]
+Pokerspree bets 80
+Stu jr raises 1495 to 1575 and is all-in
+Pokerspree folds
+Stu jr collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | No rake
+Board: [Td 9s 6d]
+Seat 4: Stu jr won 1775
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #538095115118313473-18-1437426586 - Holdem no limit (20/40) - 2015/07/20 21:09:46 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Pokerspree (1355)
+Seat 2: DarkMitchou (1525)
+Seat 3: titous07 (1547)
+Seat 4: Stu jr (1775)
+Seat 5: Ak Boy972 (1690)
+Seat 6: monmi (1565)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1263)
+Seat 9: sabre_laser (370)
+Seat 10: jordan-766 (2395)
+*** ANTE/BLINDS ***
+DarkMitchou posts small blind 20
+titous07 posts big blind 40
+Dealt to sabre_laser [4h Kd]
+*** PRE-FLOP *** 
+Stu jr raises 40 to 80
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz calls 80
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+*** FLOP *** [4d 3h 9c]
+Stu jr checks
+blackviz bets 110
+Stu jr folds
+blackviz collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [4d 3h 9c]
+Seat 8: blackviz won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #538095115118313473-19-1437426665 - Holdem no limit (20/40) - 2015/07/20 21:11:05 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Pokerspree (1355)
+Seat 2: DarkMitchou (1505)
+Seat 3: titous07 (1507)
+Seat 4: Stu jr (1695)
+Seat 5: Ak Boy972 (1690)
+Seat 6: monmi (1565)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1403)
+Seat 9: sabre_laser (370)
+Seat 10: jordan-766 (2395)
+*** ANTE/BLINDS ***
+titous07 posts small blind 20
+Stu jr posts big blind 40
+Dealt to sabre_laser [Qc 9h]
+*** PRE-FLOP *** 
+Ak Boy972 folds
+monmi calls 40
+Ouups folds
+blackviz folds
+sabre_laser raises 330 to 370 and is all-in
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr folds
+monmi calls 330
+*** FLOP *** [6d Ad 3d]
+*** TURN *** [6d Ad 3d][Ah]
+*** RIVER *** [6d Ad 3d Ah][6h]
+*** SHOW DOWN ***
+monmi shows [9c Tc] (Two pairs : Aces and 6)
+sabre_laser shows [Qc 9h] (Two pairs : Aces and 6)
+sabre_laser collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [6d Ad 3d Ah 6h]
+Seat 6: monmi showed [9c Tc] and lost with Two pairs : Aces and 6
+Seat 9: sabre_laser showed [Qc 9h] and won 800 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #538095115118313473-20-1437426737 - Holdem no limit (20/40) - 2015/07/20 21:12:17 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Pokerspree (1355)
+Seat 2: DarkMitchou (1505)
+Seat 3: titous07 (1487)
+Seat 4: Stu jr (1655)
+Seat 5: Ak Boy972 (1690)
+Seat 6: monmi (1195)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1403)
+Seat 9: sabre_laser (800)
+Seat 10: jordan-766 (2395)
+*** ANTE/BLINDS ***
+Stu jr posts small blind 20
+Ak Boy972 posts big blind 40
+Dealt to sabre_laser [8s 7h]
+*** PRE-FLOP *** 
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr raises 60 to 100
+Ak Boy972 folds
+Stu jr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 4: Stu jr (small blind) won 140
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #538095115118313473-21-1437426787 - Holdem no limit (20/40) - 2015/07/20 21:13:07 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Pokerspree (1355)
+Seat 2: DarkMitchou (1505)
+Seat 3: titous07 (1487)
+Seat 4: Stu jr (1695)
+Seat 5: Ak Boy972 (1650)
+Seat 6: monmi (1195)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1403)
+Seat 9: sabre_laser (800)
+Seat 10: jordan-766 (2395)
+*** ANTE/BLINDS ***
+Ak Boy972 posts small blind 20
+monmi posts big blind 40
+Dealt to sabre_laser [Tc 2c]
+*** PRE-FLOP *** 
+Ouups folds
+blackviz folds
+sabre_laser folds
+jordan-766 calls 40
+Pokerspree folds
+DarkMitchou calls 40
+titous07 folds
+Stu jr folds
+Ak Boy972 folds
+monmi checks
+*** FLOP *** [6c 6s 9c]
+monmi checks
+jordan-766 checks
+DarkMitchou checks
+*** TURN *** [6c 6s 9c][5h]
+monmi checks
+jordan-766 checks
+DarkMitchou checks
+*** RIVER *** [6c 6s 9c 5h][2h]
+monmi checks
+jordan-766 checks
+DarkMitchou checks
+*** SHOW DOWN ***
+DarkMitchou shows [Ad 4d] (One pair : 6)
+jordan-766 shows [Qc Ks] (One pair : 6)
+monmi shows [Js 2s] (Two pairs : 6 and 2)
+monmi collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6c 6s 9c 5h 2h]
+Seat 2: DarkMitchou showed [Ad 4d] and lost with One pair : 6
+Seat 6: monmi (big blind) showed [Js 2s] and won 140 with Two pairs : 6 and 2
+Seat 10: jordan-766 showed [Qc Ks] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #538095115118313473-22-1437426907 - Holdem no limit (30/60) - 2015/07/20 21:15:07 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Pokerspree (1355)
+Seat 2: DarkMitchou (1465)
+Seat 3: titous07 (1487)
+Seat 4: Stu jr (1695)
+Seat 5: Ak Boy972 (1630)
+Seat 6: monmi (1295)
+Seat 7: Ouups (1515)
+Seat 8: blackviz (1403)
+Seat 9: sabre_laser (800)
+Seat 10: jordan-766 (2355)
+*** ANTE/BLINDS ***
+monmi posts small blind 30
+Ouups posts big blind 60
+Dealt to sabre_laser [Ks Th]
+*** PRE-FLOP *** 
+blackviz folds
+sabre_laser folds
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr raises 60 to 120
+Ak Boy972 raises 480 to 600
+monmi folds
+Ouups folds
+Stu jr folds
+Ak Boy972 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Seat 5: Ak Boy972 (button) won 810
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #538095115118313473-23-1437426972 - Holdem no limit (30/60) - 2015/07/20 21:16:12 UTC
+Table: 'No Limit Hold'em(125285032)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Pokerspree (1355)
+Seat 2: DarkMitchou (1465)
+Seat 3: titous07 (1487)
+Seat 4: Stu jr (1575)
+Seat 5: Ak Boy972 (1840)
+Seat 6: monmi (1265)
+Seat 7: Ouups (1455)
+Seat 8: blackviz (1403)
+Seat 9: sabre_laser (800)
+Seat 10: jordan-766 (2355)
+*** ANTE/BLINDS ***
+Ouups posts small blind 30
+blackviz posts big blind 60
+Dealt to sabre_laser [9c 9d]
+*** PRE-FLOP *** 
+sabre_laser raises 150 to 210
+jordan-766 folds
+Pokerspree folds
+DarkMitchou folds
+titous07 folds
+Stu jr raises 1365 to 1575 and is all-in
+Ak Boy972 folds
+monmi folds
+Ouups folds
+blackviz folds
+sabre_laser calls 590 and is all-in
+*** FLOP *** [As 8h 6s]
+*** TURN *** [As 8h 6s][Kh]
+*** RIVER *** [As 8h 6s Kh][Qh]
+*** SHOW DOWN ***
+sabre_laser shows [9c 9d] (One pair : 9)
+Stu jr shows [Jd Ac] (One pair : Aces)
+Stu jr collected 2465 from pot
+*** SUMMARY ***
+Total pot 2465 | No rake
+Board: [As 8h 6s Kh Qh]
+Seat 4: Stu jr showed [Jd Ac] and won 2465 with One pair : Aces
+Seat 9: sabre_laser showed [9c 9d] and lost with One pair : 9
+
+

@@ -1,0 +1,1078 @@
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 0 - HandId: #540731387519434753-1-1438034013 - Holdem no limit (10/20) - 2015/07/27 21:53:33 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 1: ---1&1--- (1500)
+Seat 2: fishlink (1500)
+Seat 3: Who.Am.I (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: Sun4Snaky (1500)
+Seat 6: alicia0904 (1500)
+*** ANTE/BLINDS ***
+Sun4Snaky posts small blind 10
+alicia0904 posts big blind 20
+Dealt to sabre_laser [Jh 4s]
+*** PRE-FLOP *** 
+---1&1--- calls 20
+fishlink folds
+Who.Am.I folds
+sabre_laser folds
+Sun4Snaky calls 10
+alicia0904 checks
+*** FLOP *** [4d 6s 5d]
+Sun4Snaky checks
+alicia0904 checks
+---1&1--- checks
+*** TURN *** [4d 6s 5d][Jc]
+Sun4Snaky bets 20
+alicia0904 calls 20
+---1&1--- folds
+*** RIVER *** [4d 6s 5d Jc][5h]
+Sun4Snaky bets 60
+alicia0904 folds
+Sun4Snaky collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [4d 6s 5d Jc 5h]
+Seat 5: Sun4Snaky (small blind) won 160
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 0 - HandId: #540731387519434753-2-1438034137 - Holdem no limit (10/20) - 2015/07/27 21:55:37 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #5 is the button
+Seat 1: ---1&1--- (1480)
+Seat 2: fishlink (1500)
+Seat 3: Who.Am.I (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: Sun4Snaky (1560)
+Seat 6: alicia0904 (1460)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 10
+---1&1--- posts big blind 20
+Dealt to sabre_laser [Ts Ah]
+*** PRE-FLOP *** 
+fishlink folds
+Who.Am.I folds
+sabre_laser raises 40 to 60
+Sun4Snaky folds
+alicia0904 calls 50
+---1&1--- calls 40
+*** FLOP *** [Td Jh Jc]
+alicia0904 checks
+---1&1--- checks
+sabre_laser bets 90
+alicia0904 folds
+---1&1--- folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Td Jh Jc]
+Seat 4: sabre_laser won 270
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 1 - HandId: #540731387519434753-3-1438034214 - Holdem no limit (15/30) - 2015/07/27 21:56:54 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 1: ---1&1--- (1420)
+Seat 2: fishlink (1500)
+Seat 3: Who.Am.I (1500)
+Seat 4: sabre_laser (1620)
+Seat 5: Sun4Snaky (1560)
+Seat 6: alicia0904 (1400)
+*** ANTE/BLINDS ***
+---1&1--- posts small blind 15
+fishlink posts big blind 30
+Dealt to sabre_laser [9h Th]
+*** PRE-FLOP *** 
+Who.Am.I raises 30 to 60
+sabre_laser calls 60
+Sun4Snaky folds
+alicia0904 folds
+---1&1--- calls 45
+fishlink calls 30
+*** FLOP *** [4c 7s 6c]
+---1&1--- bets 240
+fishlink calls 240
+Who.Am.I raises 1200 to 1440 and is all-in
+sabre_laser folds
+---1&1--- calls 1120 and is all-in
+fishlink calls 1200 and is all-in
+*** TURN *** [4c 7s 6c][8h]
+*** RIVER *** [4c 7s 6c 8h][3c]
+*** SHOW DOWN ***
+---1&1--- shows [4d 4h] (Trips of 4)
+Who.Am.I shows [Qh Qs] (One pair : Queens)
+fishlink shows [5s 3s] (Straight 8 high)
+fishlink collected 4480 from pot
+*** SUMMARY ***
+Total pot 4480 | No rake
+Board: [4c 7s 6c 8h 3c]
+Seat 1: ---1&1--- (small blind) showed [4d 4h] and lost with Trips of 4
+Seat 2: fishlink (big blind) showed [5s 3s] and won 4480 with Straight 8 high
+Seat 3: Who.Am.I showed [Qh Qs] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 1 - HandId: #540731387519434753-4-1438034275 - Holdem no limit (15/30) - 2015/07/27 21:57:55 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #1 is the button
+Seat 2: fishlink (4480)
+Seat 4: sabre_laser (1560)
+Seat 5: Sun4Snaky (1560)
+Seat 6: alicia0904 (1400)
+*** ANTE/BLINDS ***
+fishlink posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [8s 3h]
+*** PRE-FLOP *** 
+Sun4Snaky folds
+alicia0904 calls 30
+fishlink calls 15
+sabre_laser checks
+*** FLOP *** [Td Th Ac]
+fishlink checks
+sabre_laser checks
+alicia0904 checks
+*** TURN *** [Td Th Ac][3c]
+fishlink bets 90
+sabre_laser calls 90
+alicia0904 folds
+*** RIVER *** [Td Th Ac 3c][7h]
+fishlink bets 150
+sabre_laser calls 150
+*** SHOW DOWN ***
+sabre_laser shows [8s 3h] (Two pairs : Tens and 3)
+fishlink shows [Tc 5c] (Trips of Tens)
+fishlink collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Td Th Ac 3c 7h]
+Seat 2: fishlink (small blind) showed [Tc 5c] and won 570 with Trips of Tens
+Seat 4: sabre_laser (big blind) showed [8s 3h] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 1 - HandId: #540731387519434753-5-1438034326 - Holdem no limit (15/30) - 2015/07/27 21:58:46 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4780)
+Seat 4: sabre_laser (1290)
+Seat 5: Sun4Snaky (1560)
+Seat 6: alicia0904 (1370)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Sun4Snaky posts big blind 30
+Dealt to sabre_laser [Kh 2h]
+*** PRE-FLOP *** 
+alicia0904 calls 30
+fishlink calls 30
+sabre_laser calls 15
+Sun4Snaky checks
+*** FLOP *** [9d 8d 4c]
+sabre_laser checks
+Sun4Snaky checks
+alicia0904 checks
+fishlink bets 120
+sabre_laser folds
+Sun4Snaky calls 120
+alicia0904 folds
+*** TURN *** [9d 8d 4c][4s]
+Sun4Snaky checks
+fishlink bets 180
+Sun4Snaky folds
+fishlink collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [9d 8d 4c 4s]
+Seat 2: fishlink (button) won 540
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 2 - HandId: #540731387519434753-6-1438034373 - Holdem no limit (20/40) - 2015/07/27 21:59:33 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4990)
+Seat 4: sabre_laser (1260)
+Seat 5: Sun4Snaky (1410)
+Seat 6: alicia0904 (1340)
+*** ANTE/BLINDS ***
+Sun4Snaky posts small blind 20
+alicia0904 posts big blind 40
+Dealt to sabre_laser [5c As]
+*** PRE-FLOP *** 
+fishlink calls 40
+sabre_laser raises 1220 to 1260 and is all-in
+Sun4Snaky folds
+alicia0904 folds
+fishlink folds
+sabre_laser collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Seat 4: sabre_laser (button) won 1360
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 2 - HandId: #540731387519434753-7-1438034407 - Holdem no limit (20/40) - 2015/07/27 22:00:07 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #5 is the button
+Seat 2: fishlink (4950)
+Seat 4: sabre_laser (1360)
+Seat 5: Sun4Snaky (1390)
+Seat 6: alicia0904 (1300)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 20
+fishlink posts big blind 40
+Dealt to sabre_laser [Kc 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Sun4Snaky raises 1350 to 1390 and is all-in
+alicia0904 calls 1280 and is all-in
+fishlink folds
+*** FLOP *** [8c 6d 2c]
+*** TURN *** [8c 6d 2c][4c]
+*** RIVER *** [8c 6d 2c 4c][As]
+*** SHOW DOWN ***
+alicia0904 shows [Kh Ks] (One pair : Kings)
+Sun4Snaky shows [Js Jc] (One pair : Jacks)
+Sun4Snaky collected 90 from side pot 1
+alicia0904 collected 2640 from main pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [8c 6d 2c 4c As]
+Seat 5: Sun4Snaky (button) showed [Js Jc] and won 90 with One pair : Jacks
+Seat 6: alicia0904 (small blind) showed [Kh Ks] and won 2640 with One pair : Kings
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 2 - HandId: #540731387519434753-8-1438034463 - Holdem no limit (20/40) - 2015/07/27 22:01:03 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (4910)
+Seat 4: sabre_laser (1360)
+Seat 5: Sun4Snaky (90)
+Seat 6: alicia0904 (2640)
+*** ANTE/BLINDS ***
+fishlink posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ad Qh]
+*** PRE-FLOP *** 
+Sun4Snaky raises 50 to 90 and is all-in
+alicia0904 calls 90
+fishlink calls 70
+sabre_laser raises 1270 to 1360 and is all-in
+alicia0904 folds
+fishlink folds
+*** FLOP *** [Ks 3d 4c]
+*** TURN *** [Ks 3d 4c][3h]
+*** RIVER *** [Ks 3d 4c 3h][Jh]
+*** SHOW DOWN ***
+Sun4Snaky shows [Kd 4d] (Two pairs : Kings and 4)
+sabre_laser shows [Ad Qh] (One pair : 3)
+sabre_laser collected 1270 from side pot 1
+Sun4Snaky collected 360 from main pot
+*** SUMMARY ***
+Total pot 1630 | No rake
+Board: [Ks 3d 4c 3h Jh]
+Seat 4: sabre_laser (big blind) showed [Ad Qh] and won 1270 with One pair : 3
+Seat 5: Sun4Snaky showed [Kd 4d] and won 360 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 2 - HandId: #540731387519434753-9-1438034489 - Holdem no limit (20/40) - 2015/07/27 22:01:29 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4820)
+Seat 4: sabre_laser (1270)
+Seat 5: Sun4Snaky (360)
+Seat 6: alicia0904 (2550)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Sun4Snaky posts big blind 40
+Dealt to sabre_laser [7c Jd]
+*** PRE-FLOP *** 
+alicia0904 calls 40
+fishlink folds
+sabre_laser calls 20
+Sun4Snaky raises 320 to 360 and is all-in
+alicia0904 calls 320
+sabre_laser folds
+*** FLOP *** [9c 4s Td]
+*** TURN *** [9c 4s Td][Kd]
+*** RIVER *** [9c 4s Td Kd][3c]
+*** SHOW DOWN ***
+Sun4Snaky shows [8d Js] (High card : King)
+alicia0904 shows [Kh Ac] (One pair : Kings)
+alicia0904 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [9c 4s Td Kd 3c]
+Seat 5: Sun4Snaky (big blind) showed [8d Js] and lost with High card : King
+Seat 6: alicia0904 showed [Kh Ac] and won 760 with One pair : Kings
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 2 - HandId: #540731387519434753-10-1438034520 - Holdem no limit (20/40) - 2015/07/27 22:02:00 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4820)
+Seat 4: sabre_laser (1230)
+Seat 6: alicia0904 (2950)
+*** ANTE/BLINDS ***
+alicia0904 posts big blind 40
+Dealt to sabre_laser [3h 6h]
+*** PRE-FLOP *** 
+fishlink calls 40
+sabre_laser folds
+alicia0904 checks
+*** FLOP *** [6c Kd 7s]
+alicia0904 checks
+fishlink checks
+*** TURN *** [6c Kd 7s][3d]
+alicia0904 checks
+fishlink checks
+*** RIVER *** [6c Kd 7s 3d][Ts]
+alicia0904 checks
+fishlink checks
+*** SHOW DOWN ***
+alicia0904 shows [5s 9d] (High card : King)
+fishlink shows [Ad 8s] (High card : Ace)
+fishlink collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6c Kd 7s 3d Ts]
+Seat 2: fishlink showed [Ad 8s] and won 80 with High card : Ace
+Seat 6: alicia0904 (big blind) showed [5s 9d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 3 - HandId: #540731387519434753-11-1438034559 - Holdem no limit (30/60) - 2015/07/27 22:02:39 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #5 is the button
+Seat 2: fishlink (4860)
+Seat 4: sabre_laser (1230)
+Seat 6: alicia0904 (2910)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 30
+fishlink posts big blind 60
+Dealt to sabre_laser [Qc 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+alicia0904 raises 120 to 180
+fishlink calls 120
+*** FLOP *** [6c 3d 4h]
+alicia0904 checks
+fishlink checks
+*** TURN *** [6c 3d 4h][Jh]
+alicia0904 bets 360
+fishlink folds
+alicia0904 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6c 3d 4h Jh]
+Seat 6: alicia0904 (small blind) won 720
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 3 - HandId: #540731387519434753-12-1438034583 - Holdem no limit (30/60) - 2015/07/27 22:03:03 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (4680)
+Seat 4: sabre_laser (1230)
+Seat 6: alicia0904 (3090)
+*** ANTE/BLINDS ***
+fishlink posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [9h 4d]
+*** PRE-FLOP *** 
+alicia0904 calls 60
+fishlink calls 30
+sabre_laser checks
+*** FLOP *** [2s Qd 6d]
+fishlink checks
+sabre_laser checks
+alicia0904 checks
+*** TURN *** [2s Qd 6d][Ac]
+fishlink bets 60
+sabre_laser folds
+alicia0904 folds
+fishlink collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [2s Qd 6d Ac]
+Seat 2: fishlink (small blind) won 240
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 3 - HandId: #540731387519434753-13-1438034632 - Holdem no limit (30/60) - 2015/07/27 22:03:52 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4800)
+Seat 4: sabre_laser (1170)
+Seat 6: alicia0904 (3030)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+alicia0904 posts big blind 60
+Dealt to sabre_laser [5c 4d]
+*** PRE-FLOP *** 
+fishlink calls 60
+sabre_laser folds
+alicia0904 checks
+*** FLOP *** [6s 9h 2d]
+alicia0904 checks
+fishlink checks
+*** TURN *** [6s 9h 2d][4h]
+alicia0904 checks
+fishlink checks
+*** RIVER *** [6s 9h 2d 4h][5d]
+alicia0904 checks
+fishlink checks
+*** SHOW DOWN ***
+alicia0904 shows [Jd 7s] (High card : Jack)
+fishlink shows [Jc Th] (High card : Jack)
+fishlink collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [6s 9h 2d 4h 5d]
+Seat 2: fishlink (button) showed [Jc Th] and won 150 with High card : Jack
+Seat 6: alicia0904 (big blind) showed [Jd 7s] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 3 - HandId: #540731387519434753-14-1438034698 - Holdem no limit (30/60) - 2015/07/27 22:04:58 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4890)
+Seat 4: sabre_laser (1140)
+Seat 6: alicia0904 (2970)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 30
+fishlink posts big blind 60
+Dealt to sabre_laser [9h Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+alicia0904 calls 30
+fishlink checks
+*** FLOP *** [2h 3c Jc]
+alicia0904 checks
+fishlink bets 60
+alicia0904 calls 60
+*** TURN *** [2h 3c Jc][Qc]
+alicia0904 checks
+fishlink bets 60
+alicia0904 calls 60
+*** RIVER *** [2h 3c Jc Qc][Tc]
+alicia0904 checks
+fishlink checks
+*** SHOW DOWN ***
+fishlink shows [2s 6h] (One pair : 2)
+alicia0904 shows [8c Kd] (Flush Queen high)
+alicia0904 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2h 3c Jc Qc Tc]
+Seat 2: fishlink (big blind) showed [2s 6h] and lost with One pair : 2
+Seat 6: alicia0904 (small blind) showed [8c Kd] and won 360 with Flush Queen high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 4 - HandId: #540731387519434753-15-1438034759 - Holdem no limit (40/80) - 2015/07/27 22:05:59 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (4710)
+Seat 4: sabre_laser (1140)
+Seat 6: alicia0904 (3150)
+*** ANTE/BLINDS ***
+fishlink posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [7c 4s]
+*** PRE-FLOP *** 
+alicia0904 calls 80
+fishlink calls 40
+sabre_laser checks
+*** FLOP *** [Ts Ks 5c]
+fishlink checks
+sabre_laser checks
+alicia0904 checks
+*** TURN *** [Ts Ks 5c][4d]
+fishlink checks
+sabre_laser checks
+alicia0904 checks
+*** RIVER *** [Ts Ks 5c 4d][3c]
+fishlink checks
+sabre_laser bets 120
+alicia0904 folds
+fishlink folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ts Ks 5c 4d 3c]
+Seat 4: sabre_laser (big blind) won 360
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 4 - HandId: #540731387519434753-16-1438034812 - Holdem no limit (40/80) - 2015/07/27 22:06:52 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4630)
+Seat 4: sabre_laser (1300)
+Seat 6: alicia0904 (3070)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+alicia0904 posts big blind 80
+Dealt to sabre_laser [3c 8s]
+*** PRE-FLOP *** 
+fishlink folds
+sabre_laser folds
+alicia0904 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: alicia0904 (big blind) won 120
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 4 - HandId: #540731387519434753-17-1438034820 - Holdem no limit (40/80) - 2015/07/27 22:07:00 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4630)
+Seat 4: sabre_laser (1260)
+Seat 6: alicia0904 (3110)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 40
+fishlink posts big blind 80
+Dealt to sabre_laser [Qc 9s]
+*** PRE-FLOP *** 
+sabre_laser raises 1180 to 1260 and is all-in
+alicia0904 folds
+fishlink folds
+sabre_laser collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Seat 4: sabre_laser (button) won 1380
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 4 - HandId: #540731387519434753-18-1438034835 - Holdem no limit (40/80) - 2015/07/27 22:07:15 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (4550)
+Seat 4: sabre_laser (1380)
+Seat 6: alicia0904 (3070)
+*** ANTE/BLINDS ***
+fishlink posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [2c Qc]
+*** PRE-FLOP *** 
+alicia0904 calls 80
+fishlink calls 40
+sabre_laser checks
+*** FLOP *** [6s 7h 2s]
+fishlink checks
+sabre_laser bets 240
+alicia0904 folds
+fishlink folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6s 7h 2s]
+Seat 4: sabre_laser (big blind) won 480
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 4 - HandId: #540731387519434753-19-1438034874 - Holdem no limit (40/80) - 2015/07/27 22:07:54 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4470)
+Seat 4: sabre_laser (1540)
+Seat 6: alicia0904 (2990)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+alicia0904 posts big blind 80
+Dealt to sabre_laser [Qh Qs]
+*** PRE-FLOP *** 
+fishlink calls 80
+sabre_laser raises 1460 to 1540 and is all-in
+alicia0904 folds
+fishlink folds
+sabre_laser collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 4: sabre_laser (small blind) won 1700
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 4 - HandId: #540731387519434753-20-1438034893 - Holdem no limit (40/80) - 2015/07/27 22:08:13 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4390)
+Seat 4: sabre_laser (1700)
+Seat 6: alicia0904 (2910)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 40
+fishlink posts big blind 80
+Dealt to sabre_laser [Ts 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+alicia0904 folds
+fishlink collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: fishlink (big blind) won 120
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 5 - HandId: #540731387519434753-21-1438034918 - Holdem no limit (60/120) - 2015/07/27 22:08:38 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (4430)
+Seat 4: sabre_laser (1700)
+Seat 6: alicia0904 (2870)
+*** ANTE/BLINDS ***
+fishlink posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Qd 3s]
+*** PRE-FLOP *** 
+alicia0904 folds
+fishlink calls 60
+sabre_laser checks
+*** FLOP *** [Ks 7s 4c]
+fishlink bets 120
+sabre_laser folds
+fishlink collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ks 7s 4c]
+Seat 2: fishlink (small blind) won 360
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 5 - HandId: #540731387519434753-22-1438034935 - Holdem no limit (60/120) - 2015/07/27 22:08:55 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4550)
+Seat 4: sabre_laser (1580)
+Seat 6: alicia0904 (2870)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+alicia0904 posts big blind 120
+Dealt to sabre_laser [5h Jc]
+*** PRE-FLOP *** 
+fishlink raises 120 to 240
+sabre_laser folds
+alicia0904 folds
+fishlink collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: fishlink (button) won 420
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 5 - HandId: #540731387519434753-23-1438034943 - Holdem no limit (60/120) - 2015/07/27 22:09:03 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4730)
+Seat 4: sabre_laser (1520)
+Seat 6: alicia0904 (2750)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 60
+fishlink posts big blind 120
+Dealt to sabre_laser [8d 6d]
+*** PRE-FLOP *** 
+sabre_laser calls 120
+alicia0904 folds
+fishlink checks
+*** FLOP *** [3d 5h Js]
+fishlink checks
+sabre_laser checks
+*** TURN *** [3d 5h Js][6s]
+fishlink bets 120
+sabre_laser calls 120
+*** RIVER *** [3d 5h Js 6s][Td]
+fishlink bets 120
+sabre_laser calls 120
+*** SHOW DOWN ***
+sabre_laser shows [8d 6d] (One pair : 6)
+fishlink shows [Jh Kd] (One pair : Jacks)
+fishlink collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [3d 5h Js 6s Td]
+Seat 2: fishlink (big blind) showed [Jh Kd] and won 780 with One pair : Jacks
+Seat 4: sabre_laser (button) showed [8d 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 5 - HandId: #540731387519434753-24-1438034967 - Holdem no limit (60/120) - 2015/07/27 22:09:27 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (5150)
+Seat 4: sabre_laser (1160)
+Seat 6: alicia0904 (2690)
+*** ANTE/BLINDS ***
+fishlink posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Tc Jc]
+*** PRE-FLOP *** 
+alicia0904 folds
+fishlink calls 60
+sabre_laser raises 180 to 300
+fishlink calls 180
+*** FLOP *** [Kc 4s 4c]
+fishlink checks
+sabre_laser bets 420
+fishlink folds
+sabre_laser collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Kc 4s 4c]
+Seat 4: sabre_laser (big blind) won 1020
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 5 - HandId: #540731387519434753-25-1438034988 - Holdem no limit (60/120) - 2015/07/27 22:09:48 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4850)
+Seat 4: sabre_laser (1460)
+Seat 6: alicia0904 (2690)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+alicia0904 posts big blind 120
+Dealt to sabre_laser [Js 8h]
+*** PRE-FLOP *** 
+fishlink folds
+sabre_laser raises 120 to 240
+alicia0904 calls 120
+*** FLOP *** [Ts 4s 9d]
+sabre_laser bets 240
+alicia0904 calls 240
+*** TURN *** [Ts 4s 9d][Ac]
+sabre_laser checks
+alicia0904 checks
+*** RIVER *** [Ts 4s 9d Ac][9c]
+sabre_laser checks
+alicia0904 bets 285
+sabre_laser folds
+alicia0904 collected 1245 from pot
+*** SUMMARY ***
+Total pot 1245 | No rake
+Board: [Ts 4s 9d Ac 9c]
+Seat 6: alicia0904 (big blind) won 1245
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 5 - HandId: #540731387519434753-26-1438035028 - Holdem no limit (60/120) - 2015/07/27 22:10:28 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4850)
+Seat 4: sabre_laser (980)
+Seat 6: alicia0904 (3170)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 60
+fishlink posts big blind 120
+Dealt to sabre_laser [Kc Ah]
+*** PRE-FLOP *** 
+sabre_laser raises 240 to 360
+alicia0904 folds
+fishlink raises 4490 to 4850 and is all-in
+sabre_laser calls 620 and is all-in
+*** FLOP *** [Kh 8c 4c]
+*** TURN *** [Kh 8c 4c][Ks]
+*** RIVER *** [Kh 8c 4c Ks][8h]
+*** SHOW DOWN ***
+sabre_laser shows [Kc Ah] (Full of Kings and 8)
+fishlink shows [Th As] (Two pairs : Kings and 8)
+fishlink collected 3870 from side pot 1
+sabre_laser collected 2020 from main pot
+*** SUMMARY ***
+Total pot 5890 | No rake
+Board: [Kh 8c 4c Ks 8h]
+Seat 2: fishlink (big blind) showed [Th As] and won 3870 with Two pairs : Kings and 8
+Seat 4: sabre_laser (button) showed [Kc Ah] and won 2020 with Full of Kings and 8
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 5 - HandId: #540731387519434753-27-1438035047 - Holdem no limit (60/120) - 2015/07/27 22:10:47 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (3870)
+Seat 4: sabre_laser (2020)
+Seat 6: alicia0904 (3110)
+*** ANTE/BLINDS ***
+fishlink posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Ks 5d]
+*** PRE-FLOP *** 
+alicia0904 folds
+fishlink calls 60
+sabre_laser checks
+*** FLOP *** [Jh 7d Js]
+fishlink checks
+sabre_laser checks
+*** TURN *** [Jh 7d Js][2s]
+fishlink bets 120
+sabre_laser folds
+fishlink collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Jh 7d Js 2s]
+Seat 2: fishlink (small blind) won 360
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 6 - HandId: #540731387519434753-28-1438035089 - Holdem no limit (80/160) - 2015/07/27 22:11:29 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (3990)
+Seat 4: sabre_laser (1900)
+Seat 6: alicia0904 (3110)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+alicia0904 posts big blind 160
+Dealt to sabre_laser [Ac 6d]
+*** PRE-FLOP *** 
+fishlink folds
+sabre_laser raises 160 to 320
+alicia0904 folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 4: sabre_laser (small blind) won 480
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 6 - HandId: #540731387519434753-29-1438035104 - Holdem no limit (80/160) - 2015/07/27 22:11:44 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (3990)
+Seat 4: sabre_laser (2060)
+Seat 6: alicia0904 (2950)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 80
+fishlink posts big blind 160
+Dealt to sabre_laser [As 4h]
+*** PRE-FLOP *** 
+sabre_laser raises 1900 to 2060 and is all-in
+alicia0904 folds
+fishlink folds
+sabre_laser collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 4: sabre_laser (button) won 2300
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 6 - HandId: #540731387519434753-30-1438035116 - Holdem no limit (80/160) - 2015/07/27 22:11:56 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (3830)
+Seat 4: sabre_laser (2300)
+Seat 6: alicia0904 (2870)
+*** ANTE/BLINDS ***
+fishlink posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [2s 9d]
+*** PRE-FLOP *** 
+alicia0904 folds
+fishlink calls 80
+sabre_laser checks
+*** FLOP *** [3h 4c Jc]
+fishlink bets 160
+sabre_laser folds
+fishlink collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3h 4c Jc]
+Seat 2: fishlink (small blind) won 480
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 6 - HandId: #540731387519434753-31-1438035129 - Holdem no limit (80/160) - 2015/07/27 22:12:09 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (3990)
+Seat 4: sabre_laser (2140)
+Seat 6: alicia0904 (2870)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+alicia0904 posts big blind 160
+Dealt to sabre_laser [8c Kd]
+*** PRE-FLOP *** 
+fishlink calls 160
+sabre_laser calls 80
+alicia0904 checks
+*** FLOP *** [4c 5s Ad]
+sabre_laser checks
+alicia0904 checks
+fishlink checks
+*** TURN *** [4c 5s Ad][9d]
+sabre_laser bets 160
+alicia0904 calls 160
+fishlink raises 3670 to 3830 and is all-in
+sabre_laser folds
+alicia0904 folds
+fishlink collected 4630 from pot
+*** SUMMARY ***
+Total pot 4630 | No rake
+Board: [4c 5s Ad 9d]
+Seat 2: fishlink (button) won 4630
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 6 - HandId: #540731387519434753-32-1438035165 - Holdem no limit (80/160) - 2015/07/27 22:12:45 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4630)
+Seat 4: sabre_laser (1820)
+Seat 6: alicia0904 (2550)
+*** ANTE/BLINDS ***
+alicia0904 posts small blind 80
+fishlink posts big blind 160
+Dealt to sabre_laser [9d 8c]
+*** PRE-FLOP *** 
+sabre_laser folds
+alicia0904 calls 80
+fishlink checks
+*** FLOP *** [Kc 5s 9c]
+alicia0904 checks
+fishlink bets 160
+alicia0904 calls 160
+*** TURN *** [Kc 5s 9c][5d]
+alicia0904 checks
+fishlink checks
+*** RIVER *** [Kc 5s 9c 5d][2d]
+alicia0904 bets 640
+fishlink folds
+alicia0904 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [Kc 5s 9c 5d 2d]
+Seat 6: alicia0904 (small blind) won 1280
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 6 - HandId: #540731387519434753-33-1438035237 - Holdem no limit (80/160) - 2015/07/27 22:13:57 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (4310)
+Seat 4: sabre_laser (1820)
+Seat 6: alicia0904 (2870)
+*** ANTE/BLINDS ***
+fishlink posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [9c Kc]
+*** PRE-FLOP *** 
+alicia0904 calls 160
+fishlink raises 4150 to 4310 and is all-in
+sabre_laser folds
+alicia0904 folds
+fishlink collected 4630 from pot
+*** SUMMARY ***
+Total pot 4630 | No rake
+Seat 2: fishlink (small blind) won 4630
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 6 - HandId: #540731387519434753-34-1438035261 - Holdem no limit (80/160) - 2015/07/27 22:14:21 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4630)
+Seat 4: sabre_laser (1660)
+Seat 6: alicia0904 (2710)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+alicia0904 posts big blind 160
+Dealt to sabre_laser [7s 5d]
+*** PRE-FLOP *** 
+fishlink folds
+sabre_laser folds
+alicia0904 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: alicia0904 (big blind) won 240
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 7 - HandId: #540731387519434753-35-1438035268 - Holdem no limit (10/100/200) - 2015/07/27 22:14:28 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4630)
+Seat 4: sabre_laser (1580)
+Seat 6: alicia0904 (2790)
+*** ANTE/BLINDS ***
+alicia0904 posts ante 10
+fishlink posts ante 10
+sabre_laser posts ante 10
+alicia0904 posts small blind 100
+fishlink posts big blind 200
+Dealt to sabre_laser [4d Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+alicia0904 calls 100
+fishlink checks
+*** FLOP *** [7s 7h Ac]
+alicia0904 checks
+fishlink bets 200
+alicia0904 calls 200
+*** TURN *** [7s 7h Ac][Ts]
+alicia0904 checks
+fishlink checks
+*** RIVER *** [7s 7h Ac Ts][3s]
+alicia0904 bets 830
+fishlink folds
+alicia0904 collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | No rake
+Board: [7s 7h Ac Ts 3s]
+Seat 6: alicia0904 (small blind) won 1660
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 7 - HandId: #540731387519434753-36-1438035317 - Holdem no limit (10/100/200) - 2015/07/27 22:15:17 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (4220)
+Seat 4: sabre_laser (1570)
+Seat 6: alicia0904 (3210)
+*** ANTE/BLINDS ***
+fishlink posts ante 10
+sabre_laser posts ante 10
+alicia0904 posts ante 10
+fishlink posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Js Tc]
+*** PRE-FLOP *** 
+alicia0904 calls 200
+fishlink raises 4010 to 4210 and is all-in
+sabre_laser folds
+alicia0904 folds
+fishlink collected 4640 from pot
+*** SUMMARY ***
+Total pot 4640 | No rake
+Seat 2: fishlink (small blind) won 4640
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 7 - HandId: #540731387519434753-37-1438035348 - Holdem no limit (10/100/200) - 2015/07/27 22:15:48 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (4640)
+Seat 4: sabre_laser (1360)
+Seat 6: alicia0904 (3000)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+alicia0904 posts ante 10
+fishlink posts ante 10
+sabre_laser posts small blind 100
+alicia0904 posts big blind 200
+Dealt to sabre_laser [Td 5c]
+*** PRE-FLOP *** 
+fishlink raises 4430 to 4630 and is all-in
+sabre_laser folds
+alicia0904 folds
+fishlink collected 4960 from pot
+*** SUMMARY ***
+Total pot 4960 | No rake
+Seat 2: fishlink (button) won 4960
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 7 - HandId: #540731387519434753-38-1438035357 - Holdem no limit (10/100/200) - 2015/07/27 22:15:57 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #4 is the button
+Seat 2: fishlink (4960)
+Seat 4: sabre_laser (1250)
+Seat 6: alicia0904 (2790)
+*** ANTE/BLINDS ***
+alicia0904 posts ante 10
+fishlink posts ante 10
+sabre_laser posts ante 10
+alicia0904 posts small blind 100
+fishlink posts big blind 200
+Dealt to sabre_laser [2c 9s]
+*** PRE-FLOP *** 
+sabre_laser folds
+alicia0904 folds
+fishlink collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: fishlink (big blind) won 330
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 7 - HandId: #540731387519434753-39-1438035361 - Holdem no limit (10/100/200) - 2015/07/27 22:16:01 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #6 is the button
+Seat 2: fishlink (5080)
+Seat 4: sabre_laser (1240)
+Seat 6: alicia0904 (2680)
+*** ANTE/BLINDS ***
+fishlink posts ante 10
+sabre_laser posts ante 10
+alicia0904 posts ante 10
+fishlink posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [2h 3c]
+*** PRE-FLOP *** 
+alicia0904 folds
+fishlink raises 4870 to 5070 and is all-in
+sabre_laser folds
+fishlink collected 5300 from pot
+*** SUMMARY ***
+Total pot 5300 | No rake
+Seat 2: fishlink (small blind) won 5300
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: Ticket only level: 7 - HandId: #540731387519434753-40-1438035369 - Holdem no limit (10/100/200) - 2015/07/27 22:16:09 UTC
+Table: 'Super Freeroll Stade 2(125898837)#0' 6-max (real money) Seat #2 is the button
+Seat 2: fishlink (5300)
+Seat 4: sabre_laser (1030)
+Seat 6: alicia0904 (2670)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+alicia0904 posts ante 10
+fishlink posts ante 10
+sabre_laser posts small blind 100
+alicia0904 posts big blind 200
+Dealt to sabre_laser [Jc 7s]
+*** PRE-FLOP *** 
+fishlink raises 5090 to 5290 and is all-in
+sabre_laser calls 920 and is all-in
+alicia0904 folds
+*** FLOP *** [3h Jd Ts]
+*** TURN *** [3h Jd Ts][5h]
+*** RIVER *** [3h Jd Ts 5h][5c]
+*** SHOW DOWN ***
+sabre_laser shows [Jc 7s] (Two pairs : Jacks and 5)
+fishlink shows [Qh Jh] (Two pairs : Jacks and 5)
+fishlink collected 6540 from pot
+*** SUMMARY ***
+Total pot 6540 | No rake
+Board: [3h Jd Ts 5h 5c]
+Seat 2: fishlink (button) showed [Qh Jh] and won 6540 with Two pairs : Jacks and 5
+Seat 4: sabre_laser (small blind) showed [Jc 7s] and lost with Two pairs : Jacks and 5
+
+

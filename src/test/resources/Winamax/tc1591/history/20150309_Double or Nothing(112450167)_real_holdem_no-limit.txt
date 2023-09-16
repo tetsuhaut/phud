@@ -1,0 +1,1436 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #482969789694738433-1-1425936099 - Holdem no limit (10/20) - 2015/03/09 21:21:39 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Ashagna (1500)
+Seat 2: Supa Scalp (1500)
+Seat 3: IQTYQ3 (1500)
+Seat 4: tomaceli (1500)
+Seat 5: BavaLevek (1500)
+Seat 6: tc1591 (1500)
+Seat 7: tfabalex (1500)
+Seat 8: Sind2o (1500)
+Seat 9: carababate (1500)
+Seat 10: FataIBazooka (1500)
+*** ANTE/BLINDS ***
+tfabalex posts small blind 10
+Sind2o posts big blind 20
+Dealt to tc1591 [Jc 7d]
+*** PRE-FLOP *** 
+carababate raises 1480 to 1500 and is all-in
+FataIBazooka folds
+Ashagna folds
+Supa Scalp calls 1500 and is all-in
+IQTYQ3 folds
+tomaceli folds
+BavaLevek folds
+tc1591 folds
+tfabalex folds
+Sind2o folds
+*** FLOP *** [5c 5d 9d]
+*** TURN *** [5c 5d 9d][Kh]
+*** RIVER *** [5c 5d 9d Kh][7c]
+*** SHOW DOWN ***
+carababate shows [6h Td] (One pair : 5)
+Supa Scalp shows [Ad 8d] (One pair : 5)
+Supa Scalp collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Board: [5c 5d 9d Kh 7c]
+Seat 2: Supa Scalp showed [Ad 8d] and won 3030 with One pair : 5
+Seat 9: carababate showed [6h Td] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #482969789694738433-2-1425936167 - Holdem no limit (10/20) - 2015/03/09 21:22:47 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Ashagna (1500)
+Seat 2: Supa Scalp (3030)
+Seat 3: IQTYQ3 (1500)
+Seat 4: tomaceli (1500)
+Seat 5: BavaLevek (1500)
+Seat 6: tc1591 (1500)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (1480)
+Seat 10: FataIBazooka (1500)
+*** ANTE/BLINDS ***
+Sind2o posts small blind 10
+FataIBazooka posts big blind 20
+Dealt to tc1591 [Th 2d]
+*** PRE-FLOP *** 
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek raises 20 to 40
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+BavaLevek collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 5: BavaLevek won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #482969789694738433-3-1425936214 - Holdem no limit (10/20) - 2015/03/09 21:23:34 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Ashagna (1500)
+Seat 2: Supa Scalp (3030)
+Seat 3: IQTYQ3 (1500)
+Seat 4: tomaceli (1500)
+Seat 5: BavaLevek (1530)
+Seat 6: tc1591 (1500)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (1470)
+Seat 10: FataIBazooka (1480)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 10
+Ashagna posts big blind 20
+Dealt to tc1591 [As 6c]
+*** PRE-FLOP *** 
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek raises 30 to 50
+tc1591 folds
+tfabalex folds
+Sind2o calls 50
+FataIBazooka folds
+Ashagna folds
+*** FLOP *** [8s 8c 7s]
+BavaLevek bets 98
+Sind2o calls 98
+*** TURN *** [8s 8c 7s][2c]
+BavaLevek bets 245
+Sind2o calls 245
+*** RIVER *** [8s 8c 7s 2c][Jc]
+BavaLevek bets 612
+Sind2o calls 612
+*** SHOW DOWN ***
+BavaLevek shows [9c 9d] (Two pairs : 9 and 8)
+Sind2o shows [5s Js] (Two pairs : Jacks and 8)
+Sind2o collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [8s 8c 7s 2c Jc]
+Seat 5: BavaLevek showed [9c 9d] and lost with Two pairs : 9 and 8
+Seat 8: Sind2o (button) showed [5s Js] and won 2040 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #482969789694738433-4-1425936267 - Holdem no limit (10/20) - 2015/03/09 21:24:27 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Ashagna (1480)
+Seat 2: Supa Scalp (3030)
+Seat 3: IQTYQ3 (1500)
+Seat 4: tomaceli (1500)
+Seat 5: BavaLevek (525)
+Seat 6: tc1591 (1500)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (2505)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+Ashagna posts small blind 10
+Supa Scalp posts big blind 20
+Dealt to tc1591 [Ad Qc]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+tomaceli folds
+BavaLevek folds
+tc1591 raises 40 to 60
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+tc1591 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: tc1591 won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #482969789694738433-5-1425936352 - Holdem no limit (15/30) - 2015/03/09 21:25:52 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (3010)
+Seat 3: IQTYQ3 (1500)
+Seat 4: tomaceli (1500)
+Seat 5: BavaLevek (525)
+Seat 6: tc1591 (1530)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (2505)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+Supa Scalp posts small blind 15
+IQTYQ3 posts big blind 30
+Dealt to tc1591 [Jh 8s]
+*** PRE-FLOP *** 
+tomaceli folds
+BavaLevek raises 495 to 525 and is all-in
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+BavaLevek collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 5: BavaLevek won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #482969789694738433-6-1425936397 - Holdem no limit (15/30) - 2015/03/09 21:26:37 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1470)
+Seat 4: tomaceli (1500)
+Seat 5: BavaLevek (570)
+Seat 6: tc1591 (1530)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (2505)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 15
+tomaceli posts big blind 30
+Dealt to tc1591 [5s Qc]
+*** PRE-FLOP *** 
+BavaLevek raises 540 to 570 and is all-in
+tc1591 folds
+tfabalex folds
+Sind2o calls 570
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+*** FLOP *** [5h 8h Th]
+*** TURN *** [5h 8h Th][2h]
+*** RIVER *** [5h 8h Th 2h][6s]
+*** SHOW DOWN ***
+Sind2o shows [Ks Kc] (One pair : Kings)
+BavaLevek shows [7s 7h] (Flush Ten high)
+BavaLevek collected 1185 from pot
+*** SUMMARY ***
+Total pot 1185 | No rake
+Board: [5h 8h Th 2h 6s]
+Seat 5: BavaLevek showed [7s 7h] and won 1185 with Flush Ten high
+Seat 8: Sind2o showed [Ks Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #482969789694738433-7-1425936453 - Holdem no limit (15/30) - 2015/03/09 21:27:33 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1470)
+Seat 5: BavaLevek (1185)
+Seat 6: tc1591 (1530)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (1935)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+tomaceli posts small blind 15
+BavaLevek posts big blind 30
+Dealt to tc1591 [5c Ks]
+*** PRE-FLOP *** 
+tc1591 folds
+tfabalex folds
+Sind2o calls 30
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli calls 15
+BavaLevek checks
+*** FLOP *** [Jd Kd 9c]
+tomaceli bets 30
+BavaLevek folds
+Sind2o raises 30 to 60
+tomaceli calls 30
+*** TURN *** [Jd Kd 9c][5s]
+tomaceli bets 30
+Sind2o raises 30 to 60
+tomaceli calls 30
+*** RIVER *** [Jd Kd 9c 5s][3h]
+tomaceli checks
+Sind2o bets 330
+tomaceli folds
+Sind2o collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Jd Kd 9c 5s 3h]
+Seat 8: Sind2o won 660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #482969789694738433-8-1425936580 - Holdem no limit (20/40) - 2015/03/09 21:29:40 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1155)
+Seat 6: tc1591 (1530)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+BavaLevek posts small blind 20
+tc1591 posts big blind 40
+Dealt to tc1591 [2c 9c]
+*** PRE-FLOP *** 
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek raises 160 to 200
+tc1591 folds
+BavaLevek collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: BavaLevek (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #482969789694738433-9-1425936635 - Holdem no limit (30/60) - 2015/03/09 21:30:35 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1195)
+Seat 6: tc1591 (1490)
+Seat 7: tfabalex (1490)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 30
+tfabalex posts big blind 60
+Dealt to tc1591 [4h Ts]
+*** PRE-FLOP *** 
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek folds
+tc1591 calls 30
+tfabalex checks
+*** FLOP *** [9d Qh Qd]
+tc1591 checks
+tfabalex checks
+*** TURN *** [9d Qh Qd][8d]
+tc1591 bets 60
+tfabalex calls 60
+*** RIVER *** [9d Qh Qd 8d][2h]
+tc1591 bets 210
+tfabalex folds
+tc1591 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [9d Qh Qd 8d 2h]
+Seat 6: tc1591 (small blind) won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #482969789694738433-10-1425936706 - Holdem no limit (30/60) - 2015/03/09 21:31:46 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1195)
+Seat 6: tc1591 (1610)
+Seat 7: tfabalex (1370)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+tfabalex posts small blind 30
+Sind2o posts big blind 60
+Dealt to tc1591 [8s Jc]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek folds
+tc1591 folds
+tfabalex folds
+Sind2o collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 8: Sind2o (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #482969789694738433-11-1425936751 - Holdem no limit (30/60) - 2015/03/09 21:32:31 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1195)
+Seat 6: tc1591 (1610)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2145)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+Sind2o posts small blind 30
+FataIBazooka posts big blind 60
+Dealt to tc1591 [Td 8d]
+*** PRE-FLOP *** 
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek raises 60 to 120
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+BavaLevek collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 5: BavaLevek won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #482969789694738433-12-1425936782 - Holdem no limit (30/60) - 2015/03/09 21:33:02 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Ashagna (1470)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1285)
+Seat 6: tc1591 (1610)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1410)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 30
+Ashagna posts big blind 60
+Dealt to tc1591 [4h 7d]
+*** PRE-FLOP *** 
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek raises 60 to 120
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+BavaLevek collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 5: BavaLevek won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #482969789694738433-13-1425936865 - Holdem no limit (40/80) - 2015/03/09 21:34:25 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Ashagna (1410)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1375)
+Seat 6: tc1591 (1610)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+Ashagna posts small blind 40
+Supa Scalp posts big blind 80
+Dealt to tc1591 [6h 3d]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+tomaceli folds
+BavaLevek folds
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Supa Scalp (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #482969789694738433-14-1425936893 - Holdem no limit (40/80) - 2015/03/09 21:34:53 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Ashagna (1370)
+Seat 2: Supa Scalp (3035)
+Seat 3: IQTYQ3 (1455)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1375)
+Seat 6: tc1591 (1610)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+Supa Scalp posts small blind 40
+IQTYQ3 posts big blind 80
+Dealt to tc1591 [Td Tc]
+*** PRE-FLOP *** 
+tomaceli folds
+BavaLevek folds
+tc1591 raises 120 to 200
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tc1591 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 6: tc1591 won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #482969789694738433-15-1425936926 - Holdem no limit (40/80) - 2015/03/09 21:35:26 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Ashagna (1370)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1375)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1375)
+Seat 6: tc1591 (1730)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 40
+tomaceli posts big blind 80
+Dealt to tc1591 [5c 3d]
+*** PRE-FLOP *** 
+BavaLevek folds
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: tomaceli (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #482969789694738433-16-1425936971 - Holdem no limit (40/80) - 2015/03/09 21:36:11 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Ashagna (1370)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1335)
+Seat 4: tomaceli (1360)
+Seat 5: BavaLevek (1375)
+Seat 6: tc1591 (1730)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+tomaceli posts small blind 40
+BavaLevek posts big blind 80
+Dealt to tc1591 [9c Ah]
+*** PRE-FLOP *** 
+tc1591 raises 80 to 160
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek folds
+tc1591 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: tc1591 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #482969789694738433-17-1425937038 - Holdem no limit (60/120) - 2015/03/09 21:37:18 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Ashagna (1370)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1335)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1295)
+Seat 6: tc1591 (1850)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+BavaLevek posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [Td As]
+*** PRE-FLOP *** 
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 raises 1215 to 1335 and is all-in
+tomaceli folds
+BavaLevek folds
+tc1591 folds
+IQTYQ3 collected 1515 from pot
+*** SUMMARY ***
+Total pot 1515 | No rake
+Seat 3: IQTYQ3 won 1515
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #482969789694738433-18-1425937090 - Holdem no limit (60/120) - 2015/03/09 21:38:10 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Ashagna (1370)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1515)
+Seat 4: tomaceli (1320)
+Seat 5: BavaLevek (1235)
+Seat 6: tc1591 (1730)
+Seat 7: tfabalex (1340)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 60
+tfabalex posts big blind 120
+Dealt to tc1591 [Ah 9s]
+*** PRE-FLOP *** 
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+BavaLevek raises 180 to 300
+tc1591 raises 1430 to 1730 and is all-in
+tfabalex folds
+BavaLevek calls 935 and is all-in
+*** FLOP *** [8c 8h 7s]
+*** TURN *** [8c 8h 7s][7h]
+*** RIVER *** [8c 8h 7s 7h][4s]
+*** SHOW DOWN ***
+BavaLevek shows [Js 3s] (Two pairs : 8 and 7)
+tc1591 shows [Ah 9s] (Two pairs : 8 and 7)
+tc1591 collected 3085 from pot
+*** SUMMARY ***
+Total pot 3085 | No rake
+Board: [8c 8h 7s 7h 4s]
+Seat 5: BavaLevek (button) showed [Js 3s] and lost with Two pairs : 8 and 7
+Seat 6: tc1591 (small blind) showed [Ah 9s] and won 3085 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #482969789694738433-19-1425937160 - Holdem no limit (60/120) - 2015/03/09 21:39:20 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Ashagna (1370)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1515)
+Seat 4: tomaceli (1320)
+Seat 6: tc1591 (3085)
+Seat 7: tfabalex (1220)
+Seat 8: Sind2o (2115)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+tfabalex posts small blind 60
+Sind2o posts big blind 120
+Dealt to tc1591 [7s 6s]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Ashagna raises 1250 to 1370 and is all-in
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+tfabalex folds
+Sind2o folds
+Ashagna collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 1: Ashagna won 1550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #482969789694738433-20-1425937184 - Holdem no limit (80/160) - 2015/03/09 21:39:44 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Ashagna (1550)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1515)
+Seat 4: tomaceli (1320)
+Seat 6: tc1591 (3085)
+Seat 7: tfabalex (1160)
+Seat 8: Sind2o (1995)
+Seat 10: FataIBazooka (1380)
+*** ANTE/BLINDS ***
+Sind2o posts small blind 80
+FataIBazooka posts big blind 160
+Dealt to tc1591 [5s Tc]
+*** PRE-FLOP *** 
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli calls 160
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka checks
+*** FLOP *** [Jh Jd 6c]
+FataIBazooka checks
+tomaceli checks
+*** TURN *** [Jh Jd 6c][Ad]
+FataIBazooka checks
+tomaceli bets 160
+FataIBazooka folds
+tomaceli shows [Ah Js] (Full of Jacks and Aces)
+tomaceli collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Jh Jd 6c Ad]
+Seat 4: tomaceli showed [Ah Js] and won 560 with Full of Jacks and Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #482969789694738433-21-1425937235 - Holdem no limit (80/160) - 2015/03/09 21:40:35 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Ashagna (1550)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1515)
+Seat 4: tomaceli (1560)
+Seat 6: tc1591 (3085)
+Seat 7: tfabalex (1160)
+Seat 8: Sind2o (1915)
+Seat 10: FataIBazooka (1220)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 80
+Ashagna posts big blind 160
+Dealt to tc1591 [Qs 6s]
+*** PRE-FLOP *** 
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+tfabalex folds
+Sind2o raises 160 to 320
+FataIBazooka folds
+Ashagna folds
+Sind2o collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 8: Sind2o (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #482969789694738433-22-1425937277 - Holdem no limit (80/160) - 2015/03/09 21:41:17 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Ashagna (1390)
+Seat 2: Supa Scalp (2995)
+Seat 3: IQTYQ3 (1515)
+Seat 4: tomaceli (1560)
+Seat 6: tc1591 (3085)
+Seat 7: tfabalex (1160)
+Seat 8: Sind2o (2155)
+Seat 10: FataIBazooka (1140)
+*** ANTE/BLINDS ***
+Ashagna posts small blind 80
+Supa Scalp posts big blind 160
+Dealt to tc1591 [2h 6h]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+tfabalex folds
+Sind2o calls 160
+FataIBazooka folds
+Ashagna calls 80
+Supa Scalp folds
+*** FLOP *** [Td Qh Tc]
+Ashagna bets 1230 and is all-in
+Sind2o folds
+Ashagna collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [Td Qh Tc]
+Seat 1: Ashagna (small blind) won 1710
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #482969789694738433-23-1425937354 - Holdem no limit (10/100/200) - 2015/03/09 21:42:34 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Ashagna (1710)
+Seat 2: Supa Scalp (2835)
+Seat 3: IQTYQ3 (1515)
+Seat 4: tomaceli (1560)
+Seat 6: tc1591 (3085)
+Seat 7: tfabalex (1160)
+Seat 8: Sind2o (1995)
+Seat 10: FataIBazooka (1140)
+*** ANTE/BLINDS ***
+Supa Scalp posts ante 10
+IQTYQ3 posts ante 10
+Ashagna posts ante 10
+tomaceli posts ante 10
+tc1591 posts ante 10
+tfabalex posts ante 10
+Sind2o posts ante 10
+FataIBazooka posts ante 10
+Supa Scalp posts small blind 100
+IQTYQ3 posts big blind 200
+Dealt to tc1591 [Kh Tc]
+*** PRE-FLOP *** 
+tomaceli folds
+tc1591 folds
+tfabalex folds
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: IQTYQ3 (big blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #482969789694738433-24-1425937386 - Holdem no limit (10/100/200) - 2015/03/09 21:43:06 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Ashagna (1700)
+Seat 2: Supa Scalp (2725)
+Seat 3: IQTYQ3 (1685)
+Seat 4: tomaceli (1550)
+Seat 6: tc1591 (3075)
+Seat 7: tfabalex (1150)
+Seat 8: Sind2o (1985)
+Seat 10: FataIBazooka (1130)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 10
+tomaceli posts ante 10
+Ashagna posts ante 10
+Supa Scalp posts ante 10
+tc1591 posts ante 10
+tfabalex posts ante 10
+Sind2o posts ante 10
+FataIBazooka posts ante 10
+IQTYQ3 posts small blind 100
+tomaceli posts big blind 200
+Dealt to tc1591 [3h 6s]
+*** PRE-FLOP *** 
+tc1591 folds
+tfabalex raises 940 to 1140 and is all-in
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli calls 940
+*** FLOP *** [Jc Td 8d]
+*** TURN *** [Jc Td 8d][As]
+*** RIVER *** [Jc Td 8d As][Ac]
+*** SHOW DOWN ***
+tfabalex shows [Ks Kd] (Two pairs : Aces and Kings)
+tomaceli shows [Ah Ad] (Quads of Aces)
+tomaceli collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [Jc Td 8d As Ac]
+Seat 4: tomaceli (big blind) showed [Ah Ad] and won 2460 with Quads of Aces
+Seat 7: tfabalex showed [Ks Kd] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #482969789694738433-25-1425937438 - Holdem no limit (10/100/200) - 2015/03/09 21:43:58 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Ashagna (1690)
+Seat 2: Supa Scalp (2715)
+Seat 3: IQTYQ3 (1575)
+Seat 4: tomaceli (2860)
+Seat 6: tc1591 (3065)
+Seat 8: Sind2o (1975)
+Seat 10: FataIBazooka (1120)
+*** ANTE/BLINDS ***
+tomaceli posts ante 10
+tc1591 posts ante 10
+Ashagna posts ante 10
+Supa Scalp posts ante 10
+IQTYQ3 posts ante 10
+Sind2o posts ante 10
+FataIBazooka posts ante 10
+tomaceli posts small blind 100
+tc1591 posts big blind 200
+Dealt to tc1591 [As 8h]
+*** PRE-FLOP *** 
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli calls 100
+tc1591 checks
+*** FLOP *** [Th 7c Tc]
+tomaceli checks
+tc1591 bets 200
+tomaceli folds
+tc1591 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Th 7c Tc]
+Seat 6: tc1591 (big blind) won 670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #482969789694738433-26-1425937477 - Holdem no limit (10/100/200) - 2015/03/09 21:44:37 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Ashagna (1680)
+Seat 2: Supa Scalp (2705)
+Seat 3: IQTYQ3 (1565)
+Seat 4: tomaceli (2650)
+Seat 6: tc1591 (3325)
+Seat 8: Sind2o (1965)
+Seat 10: FataIBazooka (1110)
+*** ANTE/BLINDS ***
+tc1591 posts ante 10
+Sind2o posts ante 10
+Ashagna posts ante 10
+Supa Scalp posts ante 10
+IQTYQ3 posts ante 10
+tomaceli posts ante 10
+FataIBazooka posts ante 10
+tc1591 posts small blind 100
+Sind2o posts big blind 200
+Dealt to tc1591 [5s 7c]
+*** PRE-FLOP *** 
+FataIBazooka raises 900 to 1100 and is all-in
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+Sind2o folds
+FataIBazooka collected 1470 from pot
+*** SUMMARY ***
+Total pot 1470 | No rake
+Seat 10: FataIBazooka won 1470
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #482969789694738433-27-1425937508 - Holdem no limit (10/100/200) - 2015/03/09 21:45:08 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Ashagna (1670)
+Seat 2: Supa Scalp (2695)
+Seat 3: IQTYQ3 (1555)
+Seat 4: tomaceli (2640)
+Seat 6: tc1591 (3215)
+Seat 8: Sind2o (1755)
+Seat 10: FataIBazooka (1470)
+*** ANTE/BLINDS ***
+Sind2o posts ante 10
+FataIBazooka posts ante 10
+Ashagna posts ante 10
+Supa Scalp posts ante 10
+IQTYQ3 posts ante 10
+tomaceli posts ante 10
+tc1591 posts ante 10
+Sind2o posts small blind 100
+FataIBazooka posts big blind 200
+Dealt to tc1591 [4s Jd]
+*** PRE-FLOP *** 
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+Sind2o calls 100
+FataIBazooka checks
+*** FLOP *** [9s 4d Ks]
+Sind2o bets 200
+FataIBazooka folds
+Sind2o collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [9s 4d Ks]
+Seat 8: Sind2o (small blind) won 670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #482969789694738433-28-1425937542 - Holdem no limit (20/150/300) - 2015/03/09 21:45:42 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Ashagna (1660)
+Seat 2: Supa Scalp (2685)
+Seat 3: IQTYQ3 (1545)
+Seat 4: tomaceli (2630)
+Seat 6: tc1591 (3205)
+Seat 8: Sind2o (2015)
+Seat 10: FataIBazooka (1260)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 20
+Ashagna posts ante 20
+Supa Scalp posts ante 20
+IQTYQ3 posts ante 20
+tomaceli posts ante 20
+tc1591 posts ante 20
+Sind2o posts ante 20
+FataIBazooka posts small blind 150
+Ashagna posts big blind 300
+Dealt to tc1591 [Kd 7c]
+*** PRE-FLOP *** 
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+Sind2o calls 300
+FataIBazooka folds
+Ashagna checks
+*** FLOP *** [Tc Jh Td]
+Ashagna checks
+Sind2o checks
+*** TURN *** [Tc Jh Td][9d]
+Ashagna checks
+Sind2o checks
+*** RIVER *** [Tc Jh Td 9d][4d]
+Ashagna checks
+Sind2o checks
+*** SHOW DOWN ***
+Ashagna shows [3h 2d] (One pair : Tens)
+Sind2o shows [8s Ks] (One pair : Tens)
+Sind2o collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [Tc Jh Td 9d 4d]
+Seat 1: Ashagna (big blind) showed [3h 2d] and lost with One pair : Tens
+Seat 8: Sind2o (button) showed [8s Ks] and won 890 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #482969789694738433-29-1425937593 - Holdem no limit (20/150/300) - 2015/03/09 21:46:33 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Ashagna (1340)
+Seat 2: Supa Scalp (2665)
+Seat 3: IQTYQ3 (1525)
+Seat 4: tomaceli (2610)
+Seat 6: tc1591 (3185)
+Seat 8: Sind2o (2585)
+Seat 10: FataIBazooka (1090)
+*** ANTE/BLINDS ***
+Ashagna posts ante 20
+Supa Scalp posts ante 20
+IQTYQ3 posts ante 20
+tomaceli posts ante 20
+tc1591 posts ante 20
+Sind2o posts ante 20
+FataIBazooka posts ante 20
+Ashagna posts small blind 150
+Supa Scalp posts big blind 300
+Dealt to tc1591 [Jd Kc]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+tomaceli folds
+tc1591 raises 300 to 600
+Sind2o folds
+FataIBazooka folds
+Ashagna raises 720 to 1320 and is all-in
+Supa Scalp folds
+tc1591 folds
+Ashagna collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Seat 1: Ashagna (small blind) won 2360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #482969789694738433-30-1425937633 - Holdem no limit (20/150/300) - 2015/03/09 21:47:13 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Ashagna (2360)
+Seat 2: Supa Scalp (2345)
+Seat 3: IQTYQ3 (1505)
+Seat 4: tomaceli (2590)
+Seat 6: tc1591 (2565)
+Seat 8: Sind2o (2565)
+Seat 10: FataIBazooka (1070)
+*** ANTE/BLINDS ***
+Supa Scalp posts ante 20
+IQTYQ3 posts ante 20
+Ashagna posts ante 20
+tomaceli posts ante 20
+tc1591 posts ante 20
+Sind2o posts ante 20
+FataIBazooka posts ante 20
+Supa Scalp posts small blind 150
+IQTYQ3 posts big blind 300
+Dealt to tc1591 [Ks 2c]
+*** PRE-FLOP *** 
+tomaceli folds
+tc1591 folds
+Sind2o calls 300
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 checks
+*** FLOP *** [Kc Kh 5d]
+IQTYQ3 checks
+Sind2o bets 300
+IQTYQ3 folds
+Sind2o collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Board: [Kc Kh 5d]
+Seat 8: Sind2o won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #482969789694738433-31-1425937660 - Holdem no limit (20/150/300) - 2015/03/09 21:47:40 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Ashagna (2340)
+Seat 2: Supa Scalp (2175)
+Seat 3: IQTYQ3 (1185)
+Seat 4: tomaceli (2570)
+Seat 6: tc1591 (2545)
+Seat 8: Sind2o (3135)
+Seat 10: FataIBazooka (1050)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 20
+tomaceli posts ante 20
+Ashagna posts ante 20
+Supa Scalp posts ante 20
+tc1591 posts ante 20
+Sind2o posts ante 20
+FataIBazooka posts ante 20
+IQTYQ3 posts small blind 150
+tomaceli posts big blind 300
+Dealt to tc1591 [9d Ts]
+*** PRE-FLOP *** 
+tc1591 folds
+Sind2o folds
+FataIBazooka raises 730 to 1030 and is all-in
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+FataIBazooka collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Seat 10: FataIBazooka won 1620
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #482969789694738433-32-1425937696 - Holdem no limit (20/150/300) - 2015/03/09 21:48:16 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Ashagna (2320)
+Seat 2: Supa Scalp (2155)
+Seat 3: IQTYQ3 (1015)
+Seat 4: tomaceli (2250)
+Seat 6: tc1591 (2525)
+Seat 8: Sind2o (3115)
+Seat 10: FataIBazooka (1620)
+*** ANTE/BLINDS ***
+tomaceli posts ante 20
+tc1591 posts ante 20
+Ashagna posts ante 20
+Supa Scalp posts ante 20
+IQTYQ3 posts ante 20
+Sind2o posts ante 20
+FataIBazooka posts ante 20
+tomaceli posts small blind 150
+tc1591 posts big blind 300
+Dealt to tc1591 [2s As]
+*** PRE-FLOP *** 
+Sind2o calls 300
+FataIBazooka folds
+Ashagna folds
+Supa Scalp folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 checks
+*** FLOP *** [8h Qh Qs]
+tc1591 checks
+Sind2o bets 300
+tc1591 folds
+Sind2o collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Board: [8h Qh Qs]
+Seat 8: Sind2o won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #482969789694738433-33-1425937742 - Holdem no limit (50/200/400) - 2015/03/09 21:49:02 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Ashagna (2300)
+Seat 2: Supa Scalp (2135)
+Seat 3: IQTYQ3 (995)
+Seat 4: tomaceli (2080)
+Seat 6: tc1591 (2205)
+Seat 8: Sind2o (3685)
+Seat 10: FataIBazooka (1600)
+*** ANTE/BLINDS ***
+tc1591 posts ante 50
+Sind2o posts ante 50
+Ashagna posts ante 50
+Supa Scalp posts ante 50
+IQTYQ3 posts ante 50
+tomaceli posts ante 50
+FataIBazooka posts ante 50
+tc1591 posts small blind 200
+Sind2o posts big blind 400
+Dealt to tc1591 [8s 8h]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Ashagna folds
+Supa Scalp raises 400 to 800
+IQTYQ3 folds
+tomaceli folds
+tc1591 raises 1355 to 2155 and is all-in
+Sind2o folds
+Supa Scalp calls 1285 and is all-in
+*** FLOP *** [Qc 7h 5h]
+*** TURN *** [Qc 7h 5h][Ks]
+*** RIVER *** [Qc 7h 5h Ks][5c]
+*** SHOW DOWN ***
+Supa Scalp shows [9s Td] (One pair : 5)
+tc1591 shows [8s 8h] (Two pairs : 8 and 5)
+tc1591 collected 4990 from pot
+*** SUMMARY ***
+Total pot 4990 | No rake
+Board: [Qc 7h 5h Ks 5c]
+Seat 2: Supa Scalp showed [9s Td] and lost with One pair : 5
+Seat 6: tc1591 (small blind) showed [8s 8h] and won 4990 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #482969789694738433-34-1425937791 - Holdem no limit (50/200/400) - 2015/03/09 21:49:51 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Ashagna (2250)
+Seat 3: IQTYQ3 (945)
+Seat 4: tomaceli (2030)
+Seat 6: tc1591 (4990)
+Seat 8: Sind2o (3235)
+Seat 10: FataIBazooka (1550)
+*** ANTE/BLINDS ***
+Sind2o posts ante 50
+FataIBazooka posts ante 50
+Ashagna posts ante 50
+IQTYQ3 posts ante 50
+tomaceli posts ante 50
+tc1591 posts ante 50
+Sind2o posts small blind 200
+FataIBazooka posts big blind 400
+Dealt to tc1591 [5d 4s]
+*** PRE-FLOP *** 
+Ashagna folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+Sind2o calls 200
+FataIBazooka checks
+*** FLOP *** [4h 7c 5c]
+Sind2o checks
+FataIBazooka checks
+*** TURN *** [4h 7c 5c][9d]
+Sind2o checks
+FataIBazooka checks
+*** RIVER *** [4h 7c 5c 9d][Ts]
+Sind2o bets 400
+FataIBazooka folds
+Sind2o collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4h 7c 5c 9d Ts]
+Seat 8: Sind2o (small blind) won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #482969789694738433-35-1425937876 - Holdem no limit (50/200/400) - 2015/03/09 21:51:16 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Ashagna (2200)
+Seat 3: IQTYQ3 (895)
+Seat 4: tomaceli (1980)
+Seat 6: tc1591 (4940)
+Seat 8: Sind2o (3885)
+Seat 10: FataIBazooka (1100)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 50
+Ashagna posts ante 50
+IQTYQ3 posts ante 50
+tomaceli posts ante 50
+tc1591 posts ante 50
+Sind2o posts ante 50
+FataIBazooka posts small blind 200
+Ashagna posts big blind 400
+Dealt to tc1591 [Ks 5h]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+Sind2o calls 400
+FataIBazooka folds
+Ashagna checks
+*** FLOP *** [7c 8c As]
+Ashagna checks
+Sind2o bets 400
+Ashagna folds
+Sind2o collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [7c 8c As]
+Seat 8: Sind2o (button) won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #482969789694738433-36-1425937914 - Holdem no limit (75/300/600) - 2015/03/09 21:51:54 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Ashagna (1750)
+Seat 3: IQTYQ3 (845)
+Seat 4: tomaceli (1930)
+Seat 6: tc1591 (4890)
+Seat 8: Sind2o (4735)
+Seat 10: FataIBazooka (850)
+*** ANTE/BLINDS ***
+Ashagna posts ante 75
+IQTYQ3 posts ante 75
+tomaceli posts ante 75
+tc1591 posts ante 75
+Sind2o posts ante 75
+FataIBazooka posts ante 75
+Ashagna posts small blind 300
+IQTYQ3 posts big blind 600
+Dealt to tc1591 [7c 4s]
+*** PRE-FLOP *** 
+tomaceli folds
+tc1591 folds
+Sind2o calls 600
+FataIBazooka folds
+Ashagna raises 1075 to 1675 and is all-in
+IQTYQ3 folds
+Sind2o folds
+Ashagna collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | No rake
+Seat 1: Ashagna (small blind) won 3325
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #482969789694738433-37-1425937971 - Holdem no limit (75/300/600) - 2015/03/09 21:52:51 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Ashagna (3325)
+Seat 3: IQTYQ3 (170)
+Seat 4: tomaceli (1855)
+Seat 6: tc1591 (4815)
+Seat 8: Sind2o (4060)
+Seat 10: FataIBazooka (775)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 75
+tomaceli posts ante 75
+Ashagna posts ante 75
+tc1591 posts ante 75
+Sind2o posts ante 75
+FataIBazooka posts ante 75
+IQTYQ3 posts small blind 95 and is all-in
+tomaceli posts big blind 600
+Dealt to tc1591 [Ad 7h]
+*** PRE-FLOP *** 
+tc1591 calls 600
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+tomaceli checks
+*** FLOP *** [6h Qs 5c]
+tomaceli checks
+tc1591 checks
+*** TURN *** [6h Qs 5c][9d]
+tomaceli checks
+tc1591 checks
+*** RIVER *** [6h Qs 5c 9d][3c]
+tomaceli checks
+tc1591 checks
+*** SHOW DOWN ***
+tc1591 shows [Ad 7h] (High card : Ace)
+IQTYQ3 shows [Jc 6c] (One pair : 6)
+tomaceli shows [5h 7d] (One pair : 5)
+tomaceli collected 1010 from side pot 1
+IQTYQ3 collected 735 from main pot
+*** SUMMARY ***
+Total pot 1745 | No rake
+Board: [6h Qs 5c 9d 3c]
+Seat 3: IQTYQ3 (small blind) showed [Jc 6c] and won 735 with One pair : 6
+Seat 4: tomaceli (big blind) showed [5h 7d] and won 1010 with One pair : 5
+Seat 6: tc1591 showed [Ad 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #482969789694738433-38-1425938013 - Holdem no limit (75/300/600) - 2015/03/09 21:53:33 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Ashagna (3250)
+Seat 3: IQTYQ3 (735)
+Seat 4: tomaceli (2190)
+Seat 6: tc1591 (4140)
+Seat 8: Sind2o (3985)
+Seat 10: FataIBazooka (700)
+*** ANTE/BLINDS ***
+tomaceli posts ante 75
+tc1591 posts ante 75
+Ashagna posts ante 75
+IQTYQ3 posts ante 75
+Sind2o posts ante 75
+FataIBazooka posts ante 75
+tomaceli posts small blind 300
+tc1591 posts big blind 600
+Dealt to tc1591 [5d 5s]
+*** PRE-FLOP *** 
+Sind2o folds
+FataIBazooka folds
+Ashagna folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 6: tc1591 (big blind) won 1350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #482969789694738433-39-1425938029 - Holdem no limit (75/300/600) - 2015/03/09 21:53:49 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Ashagna (3175)
+Seat 3: IQTYQ3 (660)
+Seat 4: tomaceli (1815)
+Seat 6: tc1591 (4815)
+Seat 8: Sind2o (3910)
+Seat 10: FataIBazooka (625)
+*** ANTE/BLINDS ***
+tc1591 posts ante 75
+Sind2o posts ante 75
+Ashagna posts ante 75
+IQTYQ3 posts ante 75
+tomaceli posts ante 75
+FataIBazooka posts ante 75
+tc1591 posts small blind 300
+Sind2o posts big blind 600
+Dealt to tc1591 [Qd 5h]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Ashagna folds
+IQTYQ3 folds
+tomaceli folds
+tc1591 folds
+Sind2o collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 8: Sind2o (big blind) won 1350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #482969789694738433-40-1425938057 - Holdem no limit (75/300/600) - 2015/03/09 21:54:17 UTC
+Table: 'Double or Nothing(112450167)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Ashagna (3100)
+Seat 3: IQTYQ3 (585)
+Seat 4: tomaceli (1740)
+Seat 6: tc1591 (4440)
+Seat 8: Sind2o (4585)
+Seat 10: FataIBazooka (550)
+*** ANTE/BLINDS ***
+Sind2o posts ante 75
+FataIBazooka posts ante 75
+Ashagna posts ante 75
+IQTYQ3 posts ante 75
+tomaceli posts ante 75
+tc1591 posts ante 75
+Sind2o posts small blind 300
+FataIBazooka posts big blind 475 and is all-in
+Dealt to tc1591 [3h 6d]
+*** PRE-FLOP *** 
+Ashagna folds
+IQTYQ3 calls 510 and is all-in
+tomaceli folds
+tc1591 folds
+Sind2o calls 300
+*** FLOP *** [Jd 7d Ts]
+*** TURN *** [Jd 7d Ts][3c]
+*** RIVER *** [Jd 7d Ts 3c][5c]
+*** SHOW DOWN ***
+FataIBazooka shows [4d 2h] (High card : Jack)
+IQTYQ3 shows [Js Ac] (One pair : Jacks)
+Sind2o shows [Kc Jh] (One pair : Jacks)
+Sind2o collected 90 from side pot 1
+IQTYQ3 collected 1945 from main pot
+*** SUMMARY ***
+Total pot 2035 | No rake
+Board: [Jd 7d Ts 3c 5c]
+Seat 3: IQTYQ3 showed [Js Ac] and won 1945 with One pair : Jacks
+Seat 8: Sind2o (small blind) showed [Kc Jh] and won 90 with One pair : Jacks
+Seat 10: FataIBazooka (big blind) showed [4d 2h] and lost with High card : Jack
+
+

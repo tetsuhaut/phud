@@ -1,0 +1,1443 @@
+Winamax Poker - CashGame - HandId: #7985244-81-1442954141 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:35:41 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #8 is the button
+Seat 1: SuperPatate_ (0.70€)
+Seat 2: PattayaPsyko (2.43€)
+Seat 3: raphael3434 (0.80€)
+Seat 4: SimCP (2.01€)
+Seat 5: ninou2SN (2.93€)
+Seat 6: rikore1 (1.31€)
+Seat 7: BORNTOKIL25 (2.55€)
+Seat 8: Draxyl (2.29€)
+Seat 9: sabre_laser (2€)
+*** ANTE/BLINDS ***
+SuperPatate_ posts small blind 0.01€
+PattayaPsyko posts big blind 0.02€
+*** PRE-FLOP *** 
+raphael3434 folds
+SimCP folds
+ninou2SN folds
+BORNTOKIL25 folds
+Draxyl folds
+SuperPatate_ folds
+PattayaPsyko collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: PattayaPsyko (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7985244-82-1442954158 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:35:58 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #1 is the button
+Seat 1: SuperPatate_ (0.69€)
+Seat 2: PattayaPsyko (2.44€)
+Seat 3: raphael3434 (0.80€)
+Seat 4: SimCP (2.01€)
+Seat 5: ninou2SN (2.93€)
+Seat 6: rikore1 (1.31€)
+Seat 7: BORNTOKIL25 (2.55€)
+Seat 8: Draxyl (2.29€)
+Seat 9: sabre_laser (2€)
+*** ANTE/BLINDS ***
+PattayaPsyko posts small blind 0.01€
+raphael3434 posts big blind 0.02€
+sabre_laser posts big blind 0.02€ out of position
+Dealt to sabre_laser [Kh As]
+*** PRE-FLOP *** 
+SimCP folds
+ninou2SN folds
+rikore1 raises 0.02€ to 0.04€
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser raises 1.96€ to 2€ and is all-in
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+rikore1 calls 1.27€ and is all-in
+*** FLOP *** [6c 3h Kc]
+*** TURN *** [6c 3h Kc][Tc]
+*** RIVER *** [6c 3h Kc Tc][Td]
+*** SHOW DOWN ***
+rikore1 shows [Qs Ah] (One pair : Tens)
+sabre_laser shows [Kh As] (Two pairs : Kings and Tens)
+sabre_laser collected 3.17€ from pot
+*** SUMMARY ***
+Total pot 3.17€ | Rake 0.17€
+Board: [6c 3h Kc Tc Td]
+Seat 6: rikore1 showed [Qs Ah] and lost with One pair : Tens
+Seat 9: sabre_laser showed [Kh As] and won 3.17€ with Two pairs : Kings and Tens
+
+
+Winamax Poker - CashGame - HandId: #7985244-83-1442954236 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:37:16 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #2 is the button
+Seat 1: SuperPatate_ (0.69€)
+Seat 2: PattayaPsyko (2.43€)
+Seat 3: raphael3434 (0.78€)
+Seat 4: SimCP (2.01€)
+Seat 5: ninou2SN (2.93€)
+Seat 6: rikore1 (0€)
+Seat 7: BORNTOKIL25 (2.55€)
+Seat 8: Draxyl (2.29€)
+Seat 9: sabre_laser (3.17€)
+*** ANTE/BLINDS ***
+raphael3434 posts small blind 0.01€
+SimCP posts big blind 0.02€
+Dealt to sabre_laser [Jh 6s]
+*** PRE-FLOP *** 
+ninou2SN calls 0.02€
+BORNTOKIL25 calls 0.02€
+Draxyl folds
+sabre_laser folds
+SuperPatate_ calls 0.02€
+PattayaPsyko calls 0.02€
+raphael3434 calls 0.01€
+SimCP checks
+*** FLOP *** [Kd 7s Tc]
+raphael3434 checks
+SimCP checks
+ninou2SN checks
+BORNTOKIL25 bets 0.06€
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+ninou2SN folds
+BORNTOKIL25 collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [Kd 7s Tc]
+Seat 7: BORNTOKIL25 won 0.17€
+
+
+Winamax Poker - CashGame - HandId: #7985244-84-1442954364 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:39:24 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #3 is the button
+Seat 1: SuperPatate_ (0.67€)
+Seat 2: PattayaPsyko (2.41€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2€)
+Seat 5: ninou2SN (2.91€)
+Seat 7: BORNTOKIL25 (2.64€)
+Seat 8: Draxyl (2.29€)
+Seat 9: sabre_laser (3.17€)
+*** ANTE/BLINDS ***
+ninou2SN denies big blind
+SimCP posts small blind 0.01€
+BORNTOKIL25 posts big blind 0.02€
+Dealt to sabre_laser [4d 7c]
+*** PRE-FLOP *** 
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP calls 0.01€
+BORNTOKIL25 checks
+*** FLOP *** [5s 3s 8d]
+SimCP bets 0.02€
+BORNTOKIL25 folds
+SimCP collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [5s 3s 8d]
+Seat 4: SimCP (small blind) won 0.06€
+
+
+Winamax Poker - CashGame - HandId: #7985244-85-1442954404 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:40:04 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #4 is the button
+Seat 1: SuperPatate_ (0.67€)
+Seat 2: PattayaPsyko (2.41€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (2€)
+Seat 7: BORNTOKIL25 (2.62€)
+Seat 8: Draxyl (2.29€)
+Seat 9: sabre_laser (3.17€)
+*** ANTE/BLINDS ***
+BORNTOKIL25 posts small blind 0.01€
+Draxyl posts big blind 0.02€
+Dealt to sabre_laser [2h Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP raises 0.04€ to 0.06€
+BORNTOKIL25 calls 0.05€
+Draxyl folds
+*** FLOP *** [4h 3d 5c]
+BORNTOKIL25 checks
+SimCP checks
+*** TURN *** [4h 3d 5c][Ks]
+BORNTOKIL25 checks
+SimCP bets 0.09€
+BORNTOKIL25 folds
+SimCP collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [4h 3d 5c Ks]
+Seat 4: SimCP (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #7985244-86-1442954552 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:42:32 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #7 is the button
+Seat 1: SuperPatate_ (0.67€)
+Seat 2: PattayaPsyko (2.41€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.09€)
+Seat 5: bosley (2€)
+Seat 6: Graar (1.73€)
+Seat 7: BORNTOKIL25 (2.56€)
+Seat 8: Draxyl (2.27€)
+Seat 9: sabre_laser (3.17€)
+*** ANTE/BLINDS ***
+Draxyl posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Graar posts big blind 0.02€ out of position
+Dealt to sabre_laser [6c 3d]
+*** PRE-FLOP *** 
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP calls 0.02€
+Graar checks
+BORNTOKIL25 calls 0.02€
+Draxyl folds
+sabre_laser checks
+*** FLOP *** [Kd 6s 5d]
+sabre_laser checks
+SimCP checks
+Graar bets 0.05€
+BORNTOKIL25 folds
+sabre_laser calls 0.05€
+SimCP folds
+*** TURN *** [Kd 6s 5d][5s]
+sabre_laser checks
+Graar checks
+*** RIVER *** [Kd 6s 5d 5s][Kh]
+sabre_laser checks
+Graar bets 0.14€
+sabre_laser folds
+Graar collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | Rake 0.01€
+Board: [Kd 6s 5d 5s Kh]
+Seat 6: Graar won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #7985244-87-1442954633 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:43:53 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #8 is the button
+Seat 1: SuperPatate_ (0.67€)
+Seat 2: PattayaPsyko (2.41€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.07€)
+Seat 5: bosley (2€)
+Seat 6: Graar (1.84€)
+Seat 7: BORNTOKIL25 (2.54€)
+Seat 8: Draxyl (2.26€)
+Seat 9: sabre_laser (3.10€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+SuperPatate_ posts big blind 0.02€
+Dealt to sabre_laser [Th 4s]
+*** PRE-FLOP *** 
+PattayaPsyko folds
+SimCP folds
+Graar folds
+BORNTOKIL25 calls 0.02€
+Draxyl calls 0.02€
+sabre_laser folds
+SuperPatate_ raises 0.04€ to 0.06€
+BORNTOKIL25 folds
+Draxyl calls 0.04€
+*** FLOP *** [Js As 5d]
+SuperPatate_ checks
+Draxyl checks
+*** TURN *** [Js As 5d][5s]
+SuperPatate_ checks
+Draxyl checks
+*** RIVER *** [Js As 5d 5s][Ah]
+SuperPatate_ checks
+Draxyl checks
+*** SHOW DOWN ***
+Draxyl shows [Qh Ks] (Two pairs : Aces and 5)
+SuperPatate_ shows [9h 9s] (Two pairs : Aces and 9)
+SuperPatate_ collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [Js As 5d 5s Ah]
+Seat 1: SuperPatate_ (big blind) showed [9h 9s] and won 0.14€ with Two pairs : Aces and 9
+Seat 8: Draxyl (button) showed [Qh Ks] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - CashGame - HandId: #7985244-88-1442954720 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:45:20 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #9 is the button
+Seat 1: SuperPatate_ (0.75€)
+Seat 2: PattayaPsyko (2.41€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.07€)
+Seat 5: bosley (2€)
+Seat 6: Graar (1.84€)
+Seat 7: BORNTOKIL25 (2.52€)
+Seat 8: Draxyl (2.20€)
+Seat 9: sabre_laser (3.09€)
+*** ANTE/BLINDS ***
+SuperPatate_ posts small blind 0.01€
+PattayaPsyko posts big blind 0.02€
+Dealt to sabre_laser [8d Js]
+*** PRE-FLOP *** 
+SimCP folds
+Graar folds
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ calls 0.01€
+PattayaPsyko checks
+*** FLOP *** [4d 3h 5h]
+SuperPatate_ checks
+PattayaPsyko checks
+*** TURN *** [4d 3h 5h][6d]
+SuperPatate_ bets 0.04€
+PattayaPsyko folds
+SuperPatate_ collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [4d 3h 5h 6d]
+Seat 1: SuperPatate_ (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7985244-89-1442954795 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:46:35 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #1 is the button
+Seat 1: SuperPatate_ (0.77€)
+Seat 2: PattayaPsyko (2.39€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.07€)
+Seat 5: bosley (2€)
+Seat 6: Graar (1.84€)
+Seat 7: BORNTOKIL25 (2.52€)
+Seat 8: Draxyl (2.20€)
+Seat 9: sabre_laser (3.09€)
+*** ANTE/BLINDS ***
+PattayaPsyko posts small blind 0.01€
+SimCP posts big blind 0.02€
+Dealt to sabre_laser [6c Qh]
+*** PRE-FLOP *** 
+Graar folds
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ calls 0.02€
+PattayaPsyko folds
+SimCP raises 0.06€ to 0.08€
+SuperPatate_ calls 0.06€
+*** FLOP *** [9c Ah Kc]
+SimCP bets 0.09€
+SuperPatate_ raises 0.18€ to 0.27€
+SimCP folds
+SuperPatate_ collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | Rake 0.02€
+Board: [9c Ah Kc]
+Seat 1: SuperPatate_ (button) won 0.51€
+
+
+Winamax Poker - CashGame - HandId: #7985244-90-1442954852 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:47:32 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #2 is the button
+Seat 1: SuperPatate_ (0.93€)
+Seat 2: PattayaPsyko (2.38€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (2€)
+Seat 6: Graar (1.84€)
+Seat 7: BORNTOKIL25 (2.52€)
+Seat 8: Draxyl (2.20€)
+Seat 9: sabre_laser (3.09€)
+*** ANTE/BLINDS ***
+SimCP posts small blind 0.01€
+bosley posts big blind 0.02€
+Dealt to sabre_laser [Kc 9s]
+*** PRE-FLOP *** 
+Graar folds
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP raises 0.04€ to 0.06€
+bosley folds
+SimCP collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 4: SimCP (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7985244-91-1442954892 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:48:12 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #4 is the button
+Seat 1: SuperPatate_ (0.93€)
+Seat 2: PattayaPsyko (2.38€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.98€)
+Seat 6: Graar (1.84€)
+Seat 7: BORNTOKIL25 (2.52€)
+Seat 8: Draxyl (2.20€)
+Seat 9: sabre_laser (3.09€)
+*** ANTE/BLINDS ***
+bosley posts small blind 0.01€
+Graar posts big blind 0.02€
+Dealt to sabre_laser [Tc 3s]
+*** PRE-FLOP *** 
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP folds
+bosley folds
+Graar collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 6: Graar (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7985244-92-1442954955 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:49:15 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #5 is the button
+Seat 1: SuperPatate_ (0.93€)
+Seat 2: PattayaPsyko (2.38€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (1.85€)
+Seat 7: BORNTOKIL25 (2.52€)
+Seat 8: Draxyl (2.20€)
+Seat 9: sabre_laser (3.09€)
+*** ANTE/BLINDS ***
+Graar posts small blind 0.01€
+BORNTOKIL25 posts big blind 0.02€
+Dealt to sabre_laser [9d Tc]
+*** PRE-FLOP *** 
+Draxyl calls 0.02€
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 calls 0.04€
+Draxyl calls 0.04€
+*** FLOP *** [2c 5s 5d]
+Graar bets 0.12€
+BORNTOKIL25 folds
+Draxyl folds
+Graar collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [2c 5s 5d]
+Seat 6: Graar (small blind) won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #7985244-93-1442955006 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:50:06 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #6 is the button
+Seat 1: SuperPatate_ (0.93€)
+Seat 2: PattayaPsyko (2.38€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (1.96€)
+Seat 7: BORNTOKIL25 (2.46€)
+Seat 8: Draxyl (2.14€)
+Seat 9: sabre_laser (3.09€)
+*** ANTE/BLINDS ***
+BORNTOKIL25 posts small blind 0.01€
+Draxyl posts big blind 0.02€
+Dealt to sabre_laser [2c Ac]
+*** PRE-FLOP *** 
+sabre_laser raises 0.04€ to 0.06€
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP folds
+Graar folds
+BORNTOKIL25 calls 0.05€
+Draxyl calls 0.04€
+*** FLOP *** [Qc 3c 8s]
+BORNTOKIL25 checks
+Draxyl checks
+sabre_laser bets 0.08€
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | Rake 0.01€
+Board: [Qc 3c 8s]
+Seat 9: sabre_laser won 0.25€
+
+
+Winamax Poker - CashGame - HandId: #7985244-94-1442955062 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:51:02 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #7 is the button
+Seat 1: SuperPatate_ (0.93€)
+Seat 2: PattayaPsyko (2.38€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (1.96€)
+Seat 7: BORNTOKIL25 (2.40€)
+Seat 8: Draxyl (2.08€)
+Seat 9: sabre_laser (3.20€)
+*** ANTE/BLINDS ***
+Draxyl posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Ah Kd]
+*** PRE-FLOP *** 
+SuperPatate_ calls 0.02€
+PattayaPsyko folds
+SimCP folds
+bosley folds
+Graar folds
+BORNTOKIL25 folds
+Draxyl calls 0.01€
+sabre_laser raises 0.08€ to 0.10€
+SuperPatate_ calls 0.08€
+Draxyl folds
+*** FLOP *** [Js 4c Qd]
+sabre_laser checks
+SuperPatate_ checks
+*** TURN *** [Js 4c Qd][Qs]
+sabre_laser bets 0.15€
+SuperPatate_ calls 0.15€
+*** RIVER *** [Js 4c Qd Qs][6h]
+sabre_laser checks
+SuperPatate_ checks
+*** SHOW DOWN ***
+SuperPatate_ shows [3s Ks] (One pair : Queens)
+sabre_laser shows [Ah Kd] (One pair : Queens)
+sabre_laser collected 0.49€ from pot
+*** SUMMARY ***
+Total pot 0.49€ | Rake 0.03€
+Board: [Js 4c Qd Qs 6h]
+Seat 1: SuperPatate_ showed [3s Ks] and lost with One pair : Queens
+Seat 9: sabre_laser (big blind) showed [Ah Kd] and won 0.49€ with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7985244-95-1442955136 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:52:16 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #8 is the button
+Seat 1: SuperPatate_ (0.68€)
+Seat 2: PattayaPsyko (2.38€)
+Seat 3: raphael3434 (0.76€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (1.96€)
+Seat 7: BORNTOKIL25 (2.40€)
+Seat 8: Draxyl (2.06€)
+Seat 9: sabre_laser (3.44€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+SuperPatate_ posts big blind 0.02€
+raphael3434 posts small blind 0.01€ out of position
+raphael3434 posts big blind 0.02€ out of position
+Dealt to sabre_laser [Jh Jc]
+*** PRE-FLOP *** 
+PattayaPsyko folds
+raphael3434 checks
+SimCP folds
+bosley folds
+Graar folds
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser raises 0.07€ to 0.09€
+SuperPatate_ calls 0.07€
+raphael3434 calls 0.07€
+*** FLOP *** [8h 4d 5d]
+sabre_laser bets 3.35€ and is all-in
+SuperPatate_ calls 0.59€ and is all-in
+raphael3434 calls 0.66€ and is all-in
+*** TURN *** [8h 4d 5d][Ah]
+*** RIVER *** [8h 4d 5d Ah][Tc]
+*** SHOW DOWN ***
+SuperPatate_ shows [9h 9s] (One pair : 9)
+raphael3434 shows [As 8c] (Two pairs : Aces and 8)
+sabre_laser shows [Jh Jc] (One pair : Jacks)
+sabre_laser collected 2.69€ from side pot 1
+raphael3434 collected 2.05€ from main pot
+*** SUMMARY ***
+Total pot 4.74€ | Rake 0.14€
+Board: [8h 4d 5d Ah Tc]
+Seat 1: SuperPatate_ (big blind) showed [9h 9s] and lost with One pair : 9
+Seat 3: raphael3434 showed [As 8c] and won 2.05€ with Two pairs : Aces and 8
+Seat 9: sabre_laser (small blind) showed [Jh Jc] and won 2.69€ with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #7985244-96-1442955246 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:54:06 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #9 is the button
+Seat 1: SuperPatate_ (1.72€)
+Seat 2: PattayaPsyko (2.38€)
+Seat 3: raphael3434 (2.05€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (1.96€)
+Seat 7: BORNTOKIL25 (2.40€)
+Seat 8: Draxyl (2.06€)
+Seat 9: sabre_laser (2.69€)
+*** ANTE/BLINDS ***
+PattayaPsyko posts big blind 0.02€
+Dealt to sabre_laser [2s 7d]
+*** PRE-FLOP *** 
+raphael3434 folds
+SimCP folds
+bosley folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 folds
+Draxyl calls 0.06€
+sabre_laser folds
+PattayaPsyko folds
+*** FLOP *** [6c 6d 3d]
+Graar bets 0.09€
+Draxyl folds
+Graar collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [6c 6d 3d]
+Seat 6: Graar won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #7985244-97-1442955311 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:55:11 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #1 is the button
+Seat 1: SuperPatate_ (1.72€)
+Seat 2: PattayaPsyko (2.36€)
+Seat 3: raphael3434 (2.05€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (2.03€)
+Seat 7: BORNTOKIL25 (2.40€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.69€)
+*** ANTE/BLINDS ***
+PattayaPsyko posts small blind 0.01€
+raphael3434 posts big blind 0.02€
+Dealt to sabre_laser [Ad 4s]
+*** PRE-FLOP *** 
+SimCP folds
+bosley folds
+Graar folds
+BORNTOKIL25 calls 0.02€
+Draxyl folds
+sabre_laser folds
+PattayaPsyko folds
+raphael3434 checks
+*** FLOP *** [5d Ac Th]
+raphael3434 checks
+BORNTOKIL25 checks
+*** TURN *** [5d Ac Th][Tc]
+raphael3434 checks
+BORNTOKIL25 checks
+*** RIVER *** [5d Ac Th Tc][Jd]
+raphael3434 checks
+BORNTOKIL25 checks
+*** SHOW DOWN ***
+BORNTOKIL25 shows [8d Qd] (One pair : Tens)
+raphael3434 shows [8s Kc] (One pair : Tens)
+raphael3434 collected 0.05€ from pot
+*** SUMMARY ***
+Total pot 0.05€ | No rake
+Board: [5d Ac Th Tc Jd]
+Seat 3: raphael3434 (big blind) showed [8s Kc] and won 0.05€ with One pair : Tens
+Seat 7: BORNTOKIL25 showed [8d Qd] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7985244-98-1442955439 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:57:19 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #2 is the button
+Seat 1: SuperPatate_ (1.72€)
+Seat 2: PattayaPsyko (2.35€)
+Seat 3: raphael3434 (2.08€)
+Seat 4: SimCP (2.02€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (2.03€)
+Seat 7: BORNTOKIL25 (2.38€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.69€)
+*** ANTE/BLINDS ***
+raphael3434 posts small blind 0.01€
+SimCP posts big blind 0.02€
+SuperPatate_ posts small blind 0.01€ out of position
+Dealt to sabre_laser [Kc As]
+*** PRE-FLOP *** 
+bosley folds
+BORNTOKIL25 calls 0.02€
+Draxyl folds
+sabre_laser raises 2.67€ to 2.69€ and is all-in
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+BORNTOKIL25 folds
+sabre_laser collected 2.75€ from pot
+*** SUMMARY ***
+Total pot 2.75€ | No rake
+Seat 9: sabre_laser won 2.75€
+
+
+Winamax Poker - CashGame - HandId: #7985244-99-1442955467 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:57:47 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #3 is the button
+Seat 1: SuperPatate_ (1.71€)
+Seat 2: PattayaPsyko (2.35€)
+Seat 3: raphael3434 (2.07€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.97€)
+Seat 6: Graar (2.03€)
+Seat 7: BORNTOKIL25 (2.36€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.75€)
+*** ANTE/BLINDS ***
+SimCP posts small blind 0.01€
+bosley posts big blind 0.02€
+Dealt to sabre_laser [8h As]
+*** PRE-FLOP *** 
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser raises 0.04€ to 0.06€
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+bosley folds
+sabre_laser collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 9: sabre_laser won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7985244-100-1442955507 - Holdem no limit (0.01€/0.02€) - 2015/09/22 20:58:27 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #4 is the button
+Seat 1: SuperPatate_ (1.71€)
+Seat 2: PattayaPsyko (2.35€)
+Seat 3: raphael3434 (2.07€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.95€)
+Seat 6: Graar (2.03€)
+Seat 7: BORNTOKIL25 (2.36€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.78€)
+*** ANTE/BLINDS ***
+bosley posts small blind 0.01€
+BORNTOKIL25 posts big blind 0.02€
+Dealt to sabre_laser [8d Kc]
+*** PRE-FLOP *** 
+Draxyl folds
+sabre_laser folds
+SuperPatate_ calls 0.02€
+PattayaPsyko folds
+raphael3434 calls 0.02€
+SimCP folds
+bosley folds
+BORNTOKIL25 checks
+*** FLOP *** [4s 9h Qc]
+BORNTOKIL25 checks
+SuperPatate_ checks
+raphael3434 bets 0.55€
+BORNTOKIL25 folds
+SuperPatate_ folds
+raphael3434 collected 0.62€ from pot
+*** SUMMARY ***
+Total pot 0.62€ | No rake
+Board: [4s 9h Qc]
+Seat 3: raphael3434 won 0.62€
+
+
+Winamax Poker - CashGame - HandId: #7985244-101-1442955603 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:00:03 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #5 is the button
+Seat 1: SuperPatate_ (1.69€)
+Seat 2: PattayaPsyko (2.35€)
+Seat 3: raphael3434 (2.12€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.94€)
+Seat 6: Graar (2.03€)
+Seat 7: BORNTOKIL25 (2.34€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.78€)
+*** ANTE/BLINDS ***
+BORNTOKIL25 posts small blind 0.01€
+Draxyl posts big blind 0.02€
+Dealt to sabre_laser [2s Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 calls 0.02€
+SimCP folds
+bosley folds
+BORNTOKIL25 folds
+Draxyl checks
+*** FLOP *** [9h 8d 8s]
+Draxyl bets 0.03€
+raphael3434 calls 0.03€
+*** TURN *** [9h 8d 8s][3d]
+Draxyl bets 0.07€
+raphael3434 calls 0.07€
+*** RIVER *** [9h 8d 8s 3d][5s]
+Draxyl bets 0.17€
+raphael3434 folds
+Draxyl collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | Rake 0.02€
+Board: [9h 8d 8s 3d 5s]
+Seat 8: Draxyl (big blind) won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #7985244-102-1442955680 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:01:20 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #7 is the button
+Seat 1: SuperPatate_ (1.69€)
+Seat 2: PattayaPsyko (2.35€)
+Seat 3: raphael3434 (2€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.94€)
+Seat 6: Graar (2.03€)
+Seat 7: BORNTOKIL25 (2.33€)
+Seat 8: Draxyl (2.11€)
+Seat 9: sabre_laser (2.78€)
+*** ANTE/BLINDS ***
+Draxyl posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Graar posts small blind 0.01€ out of position
+Graar posts big blind 0.02€ out of position
+Dealt to sabre_laser [9c 4c]
+*** PRE-FLOP *** 
+SuperPatate_ calls 0.02€
+PattayaPsyko folds
+raphael3434 calls 0.02€
+SimCP folds
+bosley folds
+Graar checks
+BORNTOKIL25 calls 0.02€
+Draxyl calls 0.01€
+sabre_laser checks
+*** FLOP *** [2d Th Kc]
+Draxyl checks
+sabre_laser checks
+SuperPatate_ checks
+raphael3434 checks
+Graar checks
+BORNTOKIL25 bets 0.07€
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+raphael3434 folds
+Graar folds
+BORNTOKIL25 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [2d Th Kc]
+Seat 7: BORNTOKIL25 (button) won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #7985244-103-1442955764 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:02:44 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #8 is the button
+Seat 1: SuperPatate_ (1.67€)
+Seat 2: PattayaPsyko (2.35€)
+Seat 3: raphael3434 (1.98€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.94€)
+Seat 6: Graar (2€)
+Seat 7: BORNTOKIL25 (2.43€)
+Seat 8: Draxyl (2.09€)
+Seat 9: sabre_laser (2.76€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+SuperPatate_ posts big blind 0.02€
+Dealt to sabre_laser [6s 2d]
+*** PRE-FLOP *** 
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+bosley folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+Graar collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 6: Graar won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7985244-104-1442955816 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:03:36 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #9 is the button
+Seat 1: SuperPatate_ (1.65€)
+Seat 2: PattayaPsyko (2.35€)
+Seat 3: raphael3434 (1.98€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.94€)
+Seat 6: Graar (2.03€)
+Seat 7: BORNTOKIL25 (2.43€)
+Seat 8: Draxyl (2.09€)
+Seat 9: sabre_laser (2.75€)
+*** ANTE/BLINDS ***
+SuperPatate_ posts small blind 0.01€
+PattayaPsyko posts big blind 0.02€
+Dealt to sabre_laser [4d 7c]
+*** PRE-FLOP *** 
+raphael3434 folds
+SimCP folds
+bosley folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+Graar collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 6: Graar won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7985244-105-1442955875 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:04:35 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #1 is the button
+Seat 1: SuperPatate_ (1.64€)
+Seat 2: PattayaPsyko (2.33€)
+Seat 3: raphael3434 (1.98€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.94€)
+Seat 6: Graar (2.06€)
+Seat 7: BORNTOKIL25 (2.43€)
+Seat 8: Draxyl (2.09€)
+Seat 9: sabre_laser (2.75€)
+*** ANTE/BLINDS ***
+PattayaPsyko posts small blind 0.01€
+raphael3434 posts big blind 0.02€
+Dealt to sabre_laser [Jc 7s]
+*** PRE-FLOP *** 
+SimCP folds
+bosley folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 calls 0.06€
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+*** FLOP *** [Ks Ad 9c]
+Graar checks
+BORNTOKIL25 checks
+*** TURN *** [Ks Ad 9c][Ah]
+Graar bets 0.08€
+BORNTOKIL25 calls 0.08€
+*** RIVER *** [Ks Ad 9c Ah][4c]
+Graar bets 0.16€
+BORNTOKIL25 folds
+Graar collected 0.45€ from pot
+*** SUMMARY ***
+Total pot 0.45€ | Rake 0.02€
+Board: [Ks Ad 9c Ah 4c]
+Seat 6: Graar won 0.45€
+
+
+Winamax Poker - CashGame - HandId: #7985244-106-1442955946 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:05:46 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #2 is the button
+Seat 1: SuperPatate_ (1.64€)
+Seat 2: PattayaPsyko (2.32€)
+Seat 3: raphael3434 (1.96€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.94€)
+Seat 6: Graar (2.21€)
+Seat 7: BORNTOKIL25 (2.29€)
+Seat 8: Draxyl (2.09€)
+Seat 9: sabre_laser (2.75€)
+*** ANTE/BLINDS ***
+raphael3434 posts small blind 0.01€
+SimCP posts big blind 0.02€
+Dealt to sabre_laser [8d 3h]
+*** PRE-FLOP *** 
+bosley folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 folds
+Draxyl raises 0.12€ to 0.18€
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+Graar calls 0.12€
+*** FLOP *** [2h 7c Ah]
+Graar checks
+Draxyl checks
+*** TURN *** [2h 7c Ah][6d]
+Graar bets 0.20€
+Draxyl folds
+Graar collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.03€
+Board: [2h 7c Ah 6d]
+Seat 6: Graar won 0.56€
+
+
+Winamax Poker - CashGame - HandId: #7985244-107-1442956009 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:06:49 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #3 is the button
+Seat 1: SuperPatate_ (1.64€)
+Seat 2: PattayaPsyko (2.32€)
+Seat 3: raphael3434 (1.95€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.94€)
+Seat 6: Graar (2.39€)
+Seat 7: BORNTOKIL25 (2.29€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.75€)
+*** ANTE/BLINDS ***
+SimCP posts small blind 0.01€
+bosley posts big blind 0.02€
+Dealt to sabre_laser [3h Qd]
+*** PRE-FLOP *** 
+Graar folds
+BORNTOKIL25 calls 0.02€
+Draxyl calls 0.02€
+sabre_laser folds
+SuperPatate_ calls 0.02€
+PattayaPsyko calls 0.02€
+raphael3434 folds
+SimCP folds
+bosley checks
+*** FLOP *** [Qh Qs 6s]
+bosley checks
+BORNTOKIL25 bets 0.06€
+Draxyl folds
+SuperPatate_ folds
+PattayaPsyko calls 0.06€
+bosley folds
+*** TURN *** [Qh Qs 6s][Tc]
+BORNTOKIL25 bets 0.12€
+PattayaPsyko folds
+BORNTOKIL25 collected 0.34€ from pot
+*** SUMMARY ***
+Total pot 0.34€ | Rake 0.01€
+Board: [Qh Qs 6s Tc]
+Seat 7: BORNTOKIL25 won 0.34€
+
+
+Winamax Poker - CashGame - HandId: #7985244-108-1442956121 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:08:41 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #4 is the button
+Seat 1: SuperPatate_ (1.62€)
+Seat 2: PattayaPsyko (2.24€)
+Seat 3: raphael3434 (1.95€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.92€)
+Seat 6: Graar (2.39€)
+Seat 7: BORNTOKIL25 (2.43€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.75€)
+*** ANTE/BLINDS ***
+bosley posts small blind 0.01€
+Graar posts big blind 0.02€
+Dealt to sabre_laser [9d 6s]
+*** PRE-FLOP *** 
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+bosley raises 0.04€ to 0.06€
+Graar calls 0.04€
+*** FLOP *** [6h 2h 2s]
+bosley checks
+Graar bets 0.06€
+bosley folds
+Graar collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [6h 2h 2s]
+Seat 6: Graar (big blind) won 0.17€
+
+
+Winamax Poker - CashGame - HandId: #7985244-109-1442956188 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:09:48 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #5 is the button
+Seat 1: SuperPatate_ (1.62€)
+Seat 2: PattayaPsyko (2.24€)
+Seat 3: raphael3434 (1.95€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.44€)
+Seat 7: BORNTOKIL25 (2.43€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.75€)
+*** ANTE/BLINDS ***
+Graar posts small blind 0.01€
+BORNTOKIL25 posts big blind 0.02€
+Dealt to sabre_laser [Ah 9c]
+*** PRE-FLOP *** 
+Draxyl folds
+sabre_laser raises 0.04€ to 0.06€
+SuperPatate_ calls 0.06€
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+bosley folds
+Graar folds
+BORNTOKIL25 folds
+*** FLOP *** [4s 7c 7d]
+sabre_laser bets 0.15€
+SuperPatate_ folds
+sabre_laser collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [4s 7c 7d]
+Seat 9: sabre_laser won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #7985244-110-1442956240 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:10:40 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #6 is the button
+Seat 1: SuperPatate_ (1.56€)
+Seat 2: PattayaPsyko (2.24€)
+Seat 3: raphael3434 (1.95€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.43€)
+Seat 7: BORNTOKIL25 (2.41€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.83€)
+*** ANTE/BLINDS ***
+BORNTOKIL25 posts small blind 0.01€
+Draxyl posts big blind 0.02€
+Dealt to sabre_laser [4d As]
+*** PRE-FLOP *** 
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+bosley folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 calls 0.05€
+Draxyl folds
+*** FLOP *** [Kd 8c 3c]
+BORNTOKIL25 checks
+Graar bets 0.11€
+BORNTOKIL25 folds
+Graar collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [Kd 8c 3c]
+Seat 6: Graar (button) won 0.24€
+
+
+Winamax Poker - CashGame - HandId: #7985244-111-1442956322 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:12:02 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #7 is the button
+Seat 1: SuperPatate_ (1.56€)
+Seat 2: PattayaPsyko (2.24€)
+Seat 3: raphael3434 (1.95€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.50€)
+Seat 7: BORNTOKIL25 (2.35€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.83€)
+*** ANTE/BLINDS ***
+Draxyl posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [5h 7s]
+*** PRE-FLOP *** 
+SuperPatate_ folds
+PattayaPsyko folds
+raphael3434 folds
+SimCP folds
+bosley folds
+Graar folds
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 9: sabre_laser (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7985244-112-1442956354 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:12:34 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #8 is the button
+Seat 1: SuperPatate_ (1.56€)
+Seat 2: PattayaPsyko (2.24€)
+Seat 3: raphael3434 (1.95€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.50€)
+Seat 7: BORNTOKIL25 (2.35€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.84€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+SuperPatate_ posts big blind 0.02€
+Dealt to sabre_laser [2d 8c]
+*** PRE-FLOP *** 
+PattayaPsyko folds
+raphael3434 folds
+SimCP raises 0.06€ to 0.08€
+bosley folds
+Graar folds
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+SimCP collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | No rake
+Seat 4: SimCP won 0.11€
+
+
+Winamax Poker - CashGame - HandId: #7985244-113-1442956411 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:13:31 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #9 is the button
+Seat 1: SuperPatate_ (1.54€)
+Seat 2: PattayaPsyko (2.24€)
+Seat 3: raphael3434 (1.95€)
+Seat 4: SimCP (2.03€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.50€)
+Seat 7: BORNTOKIL25 (2.35€)
+Seat 8: Draxyl (2€)
+Seat 9: sabre_laser (2.83€)
+*** ANTE/BLINDS ***
+SuperPatate_ posts small blind 0.01€
+PattayaPsyko posts big blind 0.02€
+Dealt to sabre_laser [Ts 8h]
+*** PRE-FLOP *** 
+raphael3434 folds
+SimCP folds
+bosley folds
+Graar folds
+BORNTOKIL25 folds
+Draxyl raises 0.04€ to 0.06€
+sabre_laser folds
+SuperPatate_ calls 0.05€
+PattayaPsyko folds
+*** FLOP *** [Jd 5s Qc]
+SuperPatate_ checks
+Draxyl bets 0.09€
+SuperPatate_ folds
+Draxyl collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [Jd 5s Qc]
+Seat 8: Draxyl won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #7985244-114-1442956475 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:14:35 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #1 is the button
+Seat 1: SuperPatate_ (1.48€)
+Seat 2: PattayaPsyko (2.22€)
+Seat 4: SimCP (2.03€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.50€)
+Seat 7: BORNTOKIL25 (2.35€)
+Seat 8: Draxyl (2.07€)
+Seat 9: sabre_laser (2.83€)
+*** ANTE/BLINDS ***
+PattayaPsyko posts small blind 0.01€
+SimCP posts big blind 0.02€
+Dealt to sabre_laser [Ad 7h]
+*** PRE-FLOP *** 
+bosley folds
+Graar raises 0.04€ to 0.06€
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser raises 0.12€ to 0.18€
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP folds
+Graar calls 0.12€
+*** FLOP *** [Kc Jh Qc]
+Graar bets 0.39€
+sabre_laser folds
+Graar collected 0.75€ from pot
+*** SUMMARY ***
+Total pot 0.75€ | Rake 0.03€
+Board: [Kc Jh Qc]
+Seat 6: Graar won 0.75€
+
+
+Winamax Poker - CashGame - HandId: #7985244-115-1442956532 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:15:32 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #2 is the button
+Seat 1: SuperPatate_ (1.48€)
+Seat 2: PattayaPsyko (2.21€)
+Seat 4: SimCP (2.01€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.68€)
+Seat 7: BORNTOKIL25 (2.35€)
+Seat 8: Draxyl (2.07€)
+Seat 9: sabre_laser (2.65€)
+*** ANTE/BLINDS ***
+bosley denies big blind
+SimCP posts small blind 0.01€
+Graar posts big blind 0.02€
+Dealt to sabre_laser [Ts Ks]
+*** PRE-FLOP *** 
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser folds
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP folds
+Graar collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 6: Graar (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7985244-116-1442956560 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:16:00 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #4 is the button
+Seat 1: SuperPatate_ (1.48€)
+Seat 2: PattayaPsyko (2.21€)
+Seat 4: SimCP (2€)
+Seat 5: bosley (1.86€)
+Seat 6: Graar (2.69€)
+Seat 7: BORNTOKIL25 (2.35€)
+Seat 8: Draxyl (2.07€)
+Seat 9: sabre_laser (2.65€)
+*** ANTE/BLINDS ***
+Graar posts small blind 0.01€
+BORNTOKIL25 posts big blind 0.02€
+Dealt to sabre_laser [Qh 7h]
+*** PRE-FLOP *** 
+Draxyl folds
+sabre_laser calls 0.02€
+SuperPatate_ folds
+PattayaPsyko folds
+SimCP folds
+Graar folds
+BORNTOKIL25 checks
+*** FLOP *** [7s 4d Ks]
+BORNTOKIL25 checks
+sabre_laser checks
+*** TURN *** [7s 4d Ks][Ah]
+BORNTOKIL25 checks
+sabre_laser bets 0.05€
+BORNTOKIL25 folds
+sabre_laser collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [7s 4d Ks Ah]
+Seat 9: sabre_laser won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7985244-117-1442956649 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:17:29 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #6 is the button
+Seat 1: SuperPatate_ (1.48€)
+Seat 2: PattayaPsyko (2.21€)
+Seat 4: SimCP (2€)
+Seat 6: Graar (2.68€)
+Seat 7: BORNTOKIL25 (2.33€)
+Seat 8: Draxyl (2.07€)
+Seat 9: sabre_laser (2.68€)
+*** ANTE/BLINDS ***
+BORNTOKIL25 posts small blind 0.01€
+Draxyl posts big blind 0.02€
+Dealt to sabre_laser [Js 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+SuperPatate_ calls 0.02€
+PattayaPsyko folds
+SimCP folds
+Graar folds
+BORNTOKIL25 calls 0.01€
+Draxyl checks
+*** FLOP *** [6h 3s 5s]
+BORNTOKIL25 checks
+Draxyl checks
+SuperPatate_ checks
+*** TURN *** [6h 3s 5s][6s]
+BORNTOKIL25 checks
+Draxyl checks
+SuperPatate_ checks
+*** RIVER *** [6h 3s 5s 6s][9s]
+BORNTOKIL25 checks
+Draxyl checks
+SuperPatate_ checks
+*** SHOW DOWN ***
+SuperPatate_ shows [Kc Jd] (One pair : 6)
+BORNTOKIL25 shows [7c Qc] (One pair : 6)
+Draxyl shows [4s Kh] (Flush 9 high)
+Draxyl collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [6h 3s 5s 6s 9s]
+Seat 1: SuperPatate_ showed [Kc Jd] and lost with One pair : 6
+Seat 7: BORNTOKIL25 (small blind) showed [7c Qc] and lost with One pair : 6
+Seat 8: Draxyl (big blind) showed [4s Kh] and won 0.06€ with Flush 9 high
+
+
+Winamax Poker - CashGame - HandId: #7985244-118-1442956718 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:18:38 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #7 is the button
+Seat 1: SuperPatate_ (1.46€)
+Seat 2: PattayaPsyko (2.21€)
+Seat 3: karlouche49 (1€)
+Seat 4: SimCP (2€)
+Seat 6: Graar (2.68€)
+Seat 7: BORNTOKIL25 (2.31€)
+Seat 8: Draxyl (2.11€)
+Seat 9: sabre_laser (2.68€)
+*** ANTE/BLINDS ***
+Draxyl posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+karlouche49 posts big blind 0.02€ out of position
+Dealt to sabre_laser [4d 9h]
+*** PRE-FLOP *** 
+SuperPatate_ calls 0.02€
+PattayaPsyko folds
+karlouche49 checks
+SimCP folds
+Graar folds
+BORNTOKIL25 folds
+Draxyl folds
+sabre_laser checks
+*** FLOP *** [9d 3s 6d]
+sabre_laser bets 0.12€
+SuperPatate_ calls 0.12€
+karlouche49 calls 0.12€
+*** TURN *** [9d 3s 6d][As]
+sabre_laser checks
+SuperPatate_ checks
+karlouche49 checks
+*** RIVER *** [9d 3s 6d As][Qh]
+sabre_laser bets 0.22€
+SuperPatate_ folds
+karlouche49 folds
+sabre_laser collected 0.62€ from pot
+*** SUMMARY ***
+Total pot 0.62€ | Rake 0.03€
+Board: [9d 3s 6d As Qh]
+Seat 9: sabre_laser (big blind) won 0.62€
+
+
+Winamax Poker - CashGame - HandId: #7985244-119-1442956795 - Holdem no limit (0.01€/0.02€) - 2015/09/22 21:19:55 UTC
+Table: 'Frankfurt 17' 9-max (real money) Seat #8 is the button
+Seat 1: SuperPatate_ (1.32€)
+Seat 2: PattayaPsyko (2.21€)
+Seat 3: karlouche49 (1€)
+Seat 4: SimCP (2€)
+Seat 5: Cat29630 (2€)
+Seat 6: Graar (2.68€)
+Seat 7: BORNTOKIL25 (2.31€)
+Seat 8: Draxyl (2.10€)
+Seat 9: sabre_laser (2.94€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+SuperPatate_ posts big blind 0.02€
+Cat29630 posts big blind 0.02€ out of position
+Dealt to sabre_laser [Kc 3h]
+*** PRE-FLOP *** 
+PattayaPsyko folds
+karlouche49 raises 0.02€ to 0.04€
+SimCP folds
+Cat29630 folds
+Graar folds
+BORNTOKIL25 raises 0.02€ to 0.06€
+Draxyl folds
+sabre_laser folds
+SuperPatate_ calls 0.04€
+karlouche49 calls 0.02€
+*** FLOP *** [7s 2h 9c]
+SuperPatate_ checks
+karlouche49 checks
+BORNTOKIL25 bets 0.11€
+SuperPatate_ folds
+karlouche49 calls 0.11€
+*** TURN *** [7s 2h 9c][6d]
+karlouche49 bets 0.83€ and is all-in
+BORNTOKIL25 folds
+karlouche49 collected 1.23€ from pot
+*** SUMMARY ***
+Total pot 1.23€ | Rake 0.03€
+Board: [7s 2h 9c 6d]
+Seat 3: karlouche49 won 1.23€
+
+

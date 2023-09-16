@@ -1,0 +1,1377 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #501691728231661569-1-1429642810 - Holdem no limit (10/20) - 2015/04/21 19:00:10 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Sam71210 (1500)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1500)
+Seat 4: Arkensas (1500)
+Seat 5: Melnath (1500)
+Seat 6: angelik39 (1500)
+Seat 7: c62mfr (1500)
+Seat 8: Seb59148 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: coeurt (1500)
+*** ANTE/BLINDS ***
+crazypix posts small blind 10
+Arkensas posts big blind 20
+Dealt to sabre_laser [7s Qc]
+*** PRE-FLOP *** 
+Melnath raises 50 to 70
+angelik39 calls 70
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+coeurt folds
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas calls 50
+*** FLOP *** [2d Ah 3d]
+Arkensas checks
+Melnath checks
+angelik39 checks
+*** TURN *** [2d Ah 3d][Tc]
+Arkensas checks
+Melnath checks
+angelik39 checks
+*** RIVER *** [2d Ah 3d Tc][Qs]
+Arkensas checks
+Melnath checks
+angelik39 checks
+*** SHOW DOWN ***
+Arkensas shows [7c Jc] (High card : Ace)
+angelik39 shows [Jd Qh] (One pair : Queens)
+Melnath shows [Kd Kh] (One pair : Kings)
+Melnath collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [2d Ah 3d Tc Qs]
+Seat 4: Arkensas (big blind) showed [7c Jc] and lost with High card : Ace
+Seat 5: Melnath showed [Kd Kh] and won 220 with One pair : Kings
+Seat 6: angelik39 showed [Jd Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #501691728231661569-2-1429642979 - Holdem no limit (10/20) - 2015/04/21 19:02:59 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Sam71210 (1500)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1490)
+Seat 4: Arkensas (1430)
+Seat 5: Melnath (1650)
+Seat 6: angelik39 (1430)
+Seat 7: c62mfr (1500)
+Seat 8: Seb59148 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: coeurt (1500)
+*** ANTE/BLINDS ***
+Arkensas posts small blind 10
+Melnath posts big blind 20
+Dealt to sabre_laser [7s 3s]
+*** PRE-FLOP *** 
+angelik39 calls 20
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+coeurt folds
+Sam71210 calls 20
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath checks
+*** FLOP *** [Ah 8s 2c]
+Melnath checks
+angelik39 checks
+Sam71210 checks
+*** TURN *** [Ah 8s 2c][Kh]
+Melnath checks
+angelik39 checks
+Sam71210 bets 60
+Melnath calls 60
+angelik39 folds
+*** RIVER *** [Ah 8s 2c Kh][9d]
+Melnath checks
+Sam71210 checks
+*** SHOW DOWN ***
+Sam71210 shows [Jd Ks] (One pair : Kings)
+Melnath shows [Kd Qd] (One pair : Kings)
+Melnath collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Ah 8s 2c Kh 9d]
+Seat 1: Sam71210 showed [Jd Ks] and lost with One pair : Kings
+Seat 5: Melnath (big blind) showed [Kd Qd] and won 190 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #501691728231661569-3-1429643060 - Holdem no limit (10/20) - 2015/04/21 19:04:20 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Sam71210 (1420)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1490)
+Seat 4: Arkensas (1420)
+Seat 5: Melnath (1760)
+Seat 6: angelik39 (1410)
+Seat 7: c62mfr (1500)
+Seat 8: Seb59148 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: coeurt (1500)
+*** ANTE/BLINDS ***
+Melnath posts small blind 10
+angelik39 posts big blind 20
+Dealt to sabre_laser [5h 4h]
+*** PRE-FLOP *** 
+c62mfr folds
+Seb59148 calls 20
+sabre_laser calls 20
+coeurt calls 20
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas calls 20
+Melnath calls 10
+angelik39 checks
+*** FLOP *** [8h Ks Kd]
+Melnath checks
+angelik39 checks
+Seb59148 checks
+sabre_laser checks
+coeurt checks
+Arkensas checks
+*** TURN *** [8h Ks Kd][7h]
+Melnath checks
+angelik39 checks
+Seb59148 checks
+sabre_laser checks
+coeurt checks
+Arkensas checks
+*** RIVER *** [8h Ks Kd 7h][9s]
+Melnath checks
+angelik39 checks
+Seb59148 checks
+sabre_laser checks
+coeurt bets 70
+Arkensas folds
+Melnath folds
+angelik39 folds
+Seb59148 folds
+sabre_laser folds
+coeurt collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [8h Ks Kd 7h 9s]
+Seat 10: coeurt won 190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #501691728231661569-4-1429643221 - Holdem no limit (15/30) - 2015/04/21 19:07:01 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Sam71210 (1420)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1490)
+Seat 4: Arkensas (1400)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1390)
+Seat 7: c62mfr (1500)
+Seat 8: Seb59148 (1480)
+Seat 9: sabre_laser (1480)
+Seat 10: coeurt (1600)
+*** ANTE/BLINDS ***
+angelik39 posts small blind 15
+c62mfr posts big blind 30
+Dealt to sabre_laser [7s Td]
+*** PRE-FLOP *** 
+Seb59148 folds
+sabre_laser folds
+coeurt raises 30 to 60
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 calls 45
+c62mfr folds
+*** FLOP *** [2s 8d 5c]
+angelik39 checks
+coeurt checks
+*** TURN *** [2s 8d 5c][Qh]
+angelik39 checks
+coeurt checks
+*** RIVER *** [2s 8d 5c Qh][2c]
+angelik39 checks
+coeurt checks
+*** SHOW DOWN ***
+angelik39 shows [As Jc] (One pair : 2)
+coeurt shows [Ah Kd] (One pair : 2)
+coeurt collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [2s 8d 5c Qh 2c]
+Seat 6: angelik39 (small blind) showed [As Jc] and lost with One pair : 2
+Seat 10: coeurt showed [Ah Kd] and won 150 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #501691728231661569-5-1429643324 - Holdem no limit (15/30) - 2015/04/21 19:08:44 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Sam71210 (1420)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1490)
+Seat 4: Arkensas (1400)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1330)
+Seat 7: c62mfr (1470)
+Seat 8: Seb59148 (1480)
+Seat 9: sabre_laser (1480)
+Seat 10: coeurt (1690)
+*** ANTE/BLINDS ***
+c62mfr posts small blind 15
+Seb59148 posts big blind 30
+Dealt to sabre_laser [9h 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+coeurt folds
+Sam71210 calls 30
+Razz22 folds
+crazypix calls 30
+Arkensas calls 30
+Melnath folds
+angelik39 raises 1300 to 1330 and is all-in
+c62mfr folds
+Seb59148 folds
+Sam71210 folds
+crazypix folds
+Arkensas folds
+angelik39 collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 6: angelik39 (button) won 1465
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #501691728231661569-6-1429643401 - Holdem no limit (15/30) - 2015/04/21 19:10:01 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Sam71210 (1390)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1460)
+Seat 4: Arkensas (1370)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1465)
+Seat 7: c62mfr (1455)
+Seat 8: Seb59148 (1450)
+Seat 9: sabre_laser (1480)
+Seat 10: coeurt (1690)
+*** ANTE/BLINDS ***
+Seb59148 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [As 7d]
+*** PRE-FLOP *** 
+coeurt folds
+Sam71210 raises 210 to 240
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Seat 1: Sam71210 won 285
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #501691728231661569-7-1429643442 - Holdem no limit (15/30) - 2015/04/21 19:10:42 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Sam71210 (1435)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1460)
+Seat 4: Arkensas (1370)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1465)
+Seat 7: c62mfr (1455)
+Seat 8: Seb59148 (1435)
+Seat 9: sabre_laser (1450)
+Seat 10: coeurt (1690)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+coeurt posts big blind 30
+Dealt to sabre_laser [4h 4c]
+*** PRE-FLOP *** 
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas calls 30
+Melnath folds
+angelik39 folds
+c62mfr raises 87 to 117
+Seb59148 folds
+sabre_laser calls 102
+coeurt folds
+Arkensas calls 87
+*** FLOP *** [Kc 8c 6c]
+sabre_laser checks
+Arkensas bets 30
+c62mfr calls 30
+sabre_laser calls 30
+*** TURN *** [Kc 8c 6c][8d]
+sabre_laser checks
+Arkensas bets 30
+c62mfr raises 251 to 281
+sabre_laser folds
+Arkensas calls 251
+*** RIVER *** [Kc 8c 6c 8d][Qc]
+Arkensas bets 30
+c62mfr calls 30
+*** SHOW DOWN ***
+Arkensas shows [7h Kd] (Two pairs : Kings and 8)
+c62mfr shows [Ah Ad] (Two pairs : Aces and 8)
+c62mfr collected 1093 from pot
+*** SUMMARY ***
+Total pot 1093 | No rake
+Board: [Kc 8c 6c 8d Qc]
+Seat 4: Arkensas showed [7h Kd] and lost with Two pairs : Kings and 8
+Seat 7: c62mfr showed [Ah Ad] and won 1093 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #501691728231661569-8-1429643641 - Holdem no limit (20/40) - 2015/04/21 19:14:01 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Sam71210 (1435)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1460)
+Seat 4: Arkensas (912)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1465)
+Seat 7: c62mfr (2090)
+Seat 8: Seb59148 (1435)
+Seat 9: sabre_laser (1303)
+Seat 10: coeurt (1660)
+*** ANTE/BLINDS ***
+coeurt posts small blind 20
+Sam71210 posts big blind 40
+Dealt to sabre_laser [9c 7c]
+*** PRE-FLOP *** 
+Razz22 folds
+crazypix folds
+Arkensas calls 40
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+coeurt folds
+Sam71210 checks
+*** FLOP *** [Jh Js 8h]
+Sam71210 checks
+Arkensas bets 40
+Sam71210 folds
+Arkensas collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jh Js 8h]
+Seat 4: Arkensas won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #501691728231661569-9-1429643708 - Holdem no limit (20/40) - 2015/04/21 19:15:08 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Sam71210 (1395)
+Seat 2: Razz22 (1500)
+Seat 3: crazypix (1460)
+Seat 4: Arkensas (972)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1465)
+Seat 7: c62mfr (2090)
+Seat 8: Seb59148 (1435)
+Seat 9: sabre_laser (1303)
+Seat 10: coeurt (1640)
+*** ANTE/BLINDS ***
+Sam71210 posts small blind 20
+Razz22 posts big blind 40
+Dealt to sabre_laser [Qd Kh]
+*** PRE-FLOP *** 
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 calls 40
+sabre_laser raises 140 to 180
+coeurt folds
+Sam71210 folds
+Razz22 folds
+Seb59148 calls 140
+*** FLOP *** [5c 2h 7c]
+Seb59148 checks
+sabre_laser bets 1123 and is all-in
+Seb59148 calls 1123
+*** TURN *** [5c 2h 7c][Ad]
+*** RIVER *** [5c 2h 7c Ad][Jd]
+*** SHOW DOWN ***
+Seb59148 shows [Ks Qh] (High card : Ace)
+sabre_laser shows [Qd Kh] (High card : Ace)
+sabre_laser collected 1333 from pot
+Seb59148 collected 1333 from pot
+*** SUMMARY ***
+Total pot 2666 | No rake
+Board: [5c 2h 7c Ad Jd]
+Seat 8: Seb59148 showed [Ks Qh] and won 1333 with High card : Ace
+Seat 9: sabre_laser showed [Qd Kh] and won 1333 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #501691728231661569-10-1429643778 - Holdem no limit (20/40) - 2015/04/21 19:16:18 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1460)
+Seat 3: crazypix (1460)
+Seat 4: Arkensas (972)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1465)
+Seat 7: c62mfr (2090)
+Seat 8: Seb59148 (1465)
+Seat 9: sabre_laser (1333)
+Seat 10: coeurt (1640)
+*** ANTE/BLINDS ***
+Razz22 posts small blind 20
+crazypix posts big blind 40
+Dealt to sabre_laser [5c 5s]
+*** PRE-FLOP *** 
+Arkensas folds
+Melnath folds
+angelik39 calls 40
+c62mfr folds
+Seb59148 folds
+sabre_laser calls 40
+coeurt calls 40
+Sam71210 folds
+Razz22 folds
+crazypix checks
+*** FLOP *** [9d 4c 4d]
+crazypix checks
+angelik39 checks
+sabre_laser bets 180
+coeurt folds
+crazypix folds
+angelik39 folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [9d 4c 4d]
+Seat 9: sabre_laser won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #501691728231661569-11-1429643879 - Holdem no limit (20/40) - 2015/04/21 19:17:59 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1440)
+Seat 3: crazypix (1420)
+Seat 4: Arkensas (972)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1425)
+Seat 7: c62mfr (2090)
+Seat 8: Seb59148 (1465)
+Seat 9: sabre_laser (1473)
+Seat 10: coeurt (1600)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+Arkensas posts big blind 40
+Dealt to sabre_laser [4d 6s]
+*** PRE-FLOP *** 
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+coeurt folds
+Sam71210 folds
+Razz22 raises 60 to 100
+crazypix folds
+Arkensas calls 60
+*** FLOP *** [Js Ah Qh]
+Arkensas bets 100
+Razz22 folds
+Arkensas collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Js Ah Qh]
+Seat 4: Arkensas (big blind) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #501691728231661569-12-1429643931 - Holdem no limit (30/60) - 2015/04/21 19:18:51 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1092)
+Seat 5: Melnath (1740)
+Seat 6: angelik39 (1425)
+Seat 7: c62mfr (2090)
+Seat 8: Seb59148 (1465)
+Seat 9: sabre_laser (1473)
+Seat 10: coeurt (1600)
+*** ANTE/BLINDS ***
+Arkensas posts small blind 30
+Melnath posts big blind 60
+Dealt to sabre_laser [Jh 2h]
+*** PRE-FLOP *** 
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+coeurt folds
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas calls 30
+Melnath checks
+*** FLOP *** [Jc 7s Ks]
+Arkensas checks
+Melnath checks
+*** TURN *** [Jc 7s Ks][4s]
+Arkensas checks
+Melnath checks
+*** RIVER *** [Jc 7s Ks 4s][4c]
+Arkensas checks
+Melnath checks
+*** SHOW DOWN ***
+Melnath shows [2d Qh] (One pair : 4)
+Arkensas shows [5c Ac] (One pair : 4)
+Arkensas collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jc 7s Ks 4s 4c]
+Seat 4: Arkensas (small blind) showed [5c Ac] and won 120 with One pair : 4
+Seat 5: Melnath (big blind) showed [2d Qh] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #501691728231661569-13-1429644029 - Holdem no limit (30/60) - 2015/04/21 19:20:29 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1152)
+Seat 5: Melnath (1680)
+Seat 6: angelik39 (1425)
+Seat 7: c62mfr (2090)
+Seat 8: Seb59148 (1465)
+Seat 9: sabre_laser (1473)
+Seat 10: coeurt (1600)
+*** ANTE/BLINDS ***
+Melnath posts small blind 30
+angelik39 posts big blind 60
+Dealt to sabre_laser [Tc Qd]
+*** PRE-FLOP *** 
+c62mfr folds
+Seb59148 calls 60
+sabre_laser folds
+coeurt folds
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 checks
+*** FLOP *** [5h Ac 6c]
+angelik39 bets 60
+Seb59148 calls 60
+*** TURN *** [5h Ac 6c][Qh]
+angelik39 bets 60
+Seb59148 calls 60
+*** RIVER *** [5h Ac 6c Qh][Kc]
+angelik39 bets 60
+Seb59148 calls 60
+*** SHOW DOWN ***
+angelik39 shows [Ah 7s] (One pair : Aces)
+Seb59148 shows [Ad 8d] (One pair : Aces)
+Seb59148 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [5h Ac 6c Qh Kc]
+Seat 6: angelik39 (big blind) showed [Ah 7s] and lost with One pair : Aces
+Seat 8: Seb59148 showed [Ad 8d] and won 510 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #501691728231661569-14-1429644118 - Holdem no limit (30/60) - 2015/04/21 19:21:58 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1152)
+Seat 5: Melnath (1650)
+Seat 6: angelik39 (1185)
+Seat 7: c62mfr (2090)
+Seat 8: Seb59148 (1735)
+Seat 9: sabre_laser (1473)
+Seat 10: coeurt (1600)
+*** ANTE/BLINDS ***
+angelik39 posts small blind 30
+c62mfr posts big blind 60
+Dealt to sabre_laser [8s Td]
+*** PRE-FLOP *** 
+Seb59148 calls 60
+sabre_laser folds
+coeurt calls 60
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 calls 30
+c62mfr checks
+*** FLOP *** [9d 6h 4c]
+angelik39 checks
+c62mfr checks
+Seb59148 bets 60
+coeurt calls 60
+angelik39 calls 60
+c62mfr folds
+*** TURN *** [9d 6h 4c][5h]
+angelik39 checks
+Seb59148 bets 60
+coeurt calls 60
+angelik39 folds
+*** RIVER *** [9d 6h 4c 5h][3s]
+Seb59148 bets 60
+coeurt calls 60
+*** SHOW DOWN ***
+coeurt shows [8c 8h] (One pair : 8)
+Seb59148 shows [6s 6d] (Trips of 6)
+Seb59148 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [9d 6h 4c 5h 3s]
+Seat 8: Seb59148 showed [6s 6d] and won 660 with Trips of 6
+Seat 10: coeurt showed [8c 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #501691728231661569-15-1429644293 - Holdem no limit (40/80) - 2015/04/21 19:24:53 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1152)
+Seat 5: Melnath (1650)
+Seat 6: angelik39 (1065)
+Seat 7: c62mfr (2030)
+Seat 8: Seb59148 (2155)
+Seat 9: sabre_laser (1473)
+Seat 10: coeurt (1360)
+*** ANTE/BLINDS ***
+c62mfr posts small blind 40
+Seb59148 posts big blind 80
+Dealt to sabre_laser [9c Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+coeurt folds
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas calls 80
+Melnath folds
+angelik39 folds
+c62mfr calls 40
+Seb59148 checks
+*** FLOP *** [2h 3c 8h]
+c62mfr checks
+Seb59148 checks
+Arkensas bets 80
+c62mfr folds
+Seb59148 folds
+Arkensas collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [2h 3c 8h]
+Seat 4: Arkensas won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #501691728231661569-16-1429644417 - Holdem no limit (40/80) - 2015/04/21 19:26:57 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1312)
+Seat 5: Melnath (1650)
+Seat 6: angelik39 (1065)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2075)
+Seat 9: sabre_laser (1473)
+Seat 10: coeurt (1360)
+*** ANTE/BLINDS ***
+Seb59148 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [6s Kc]
+*** PRE-FLOP *** 
+coeurt raises 80 to 160
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 calls 160
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+*** FLOP *** [6d Qh 4h]
+coeurt checks
+angelik39 bets 905 and is all-in
+coeurt folds
+angelik39 collected 1345 from pot
+*** SUMMARY ***
+Total pot 1345 | No rake
+Board: [6d Qh 4h]
+Seat 6: angelik39 won 1345
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #501691728231661569-17-1429644527 - Holdem no limit (40/80) - 2015/04/21 19:28:47 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1312)
+Seat 5: Melnath (1650)
+Seat 6: angelik39 (1345)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1393)
+Seat 10: coeurt (1200)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+coeurt posts big blind 80
+Dealt to sabre_laser [Ad 5c]
+*** PRE-FLOP *** 
+Sam71210 folds
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 calls 80
+c62mfr folds
+Seb59148 folds
+sabre_laser raises 160 to 240
+coeurt calls 160
+angelik39 folds
+*** FLOP *** [Th 9d 5s]
+sabre_laser bets 1153 and is all-in
+coeurt folds
+sabre_laser collected 1713 from pot
+*** SUMMARY ***
+Total pot 1713 | No rake
+Board: [Th 9d 5s]
+Seat 9: sabre_laser (small blind) won 1713
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #501691728231661569-18-1429644595 - Holdem no limit (40/80) - 2015/04/21 19:29:55 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Sam71210 (1375)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1312)
+Seat 5: Melnath (1650)
+Seat 6: angelik39 (1265)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1713)
+Seat 10: coeurt (960)
+*** ANTE/BLINDS ***
+coeurt posts small blind 40
+Sam71210 posts big blind 80
+Dealt to sabre_laser [5s Qd]
+*** PRE-FLOP *** 
+Razz22 folds
+crazypix folds
+Arkensas folds
+Melnath calls 80
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+coeurt raises 320 to 400
+Sam71210 raises 975 to 1375 and is all-in
+Melnath folds
+coeurt calls 560 and is all-in
+*** FLOP *** [Kd 6h 4h]
+*** TURN *** [Kd 6h 4h][Ac]
+*** RIVER *** [Kd 6h 4h Ac][Ad]
+*** SHOW DOWN ***
+coeurt shows [Qh Qc] (Two pairs : Aces and Queens)
+Sam71210 shows [As Ts] (Trips of Aces)
+Sam71210 collected 2415 from pot
+*** SUMMARY ***
+Total pot 2415 | No rake
+Board: [Kd 6h 4h Ac Ad]
+Seat 1: Sam71210 (big blind) showed [As Ts] and won 2415 with Trips of Aces
+Seat 10: coeurt (small blind) showed [Qh Qc] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501691728231661569-19-1429644660 - Holdem no limit (60/120) - 2015/04/21 19:31:00 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Sam71210 (2415)
+Seat 2: Razz22 (1340)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1312)
+Seat 5: Melnath (1570)
+Seat 6: angelik39 (1265)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+Sam71210 posts small blind 60
+Razz22 posts big blind 120
+Dealt to sabre_laser [7c Jh]
+*** PRE-FLOP *** 
+crazypix folds
+Arkensas calls 120
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 calls 60
+Razz22 checks
+*** FLOP *** [Qh 8c Ks]
+Sam71210 checks
+Razz22 checks
+Arkensas bets 120
+Sam71210 folds
+Razz22 folds
+Arkensas collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh 8c Ks]
+Seat 4: Arkensas won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501691728231661569-20-1429644733 - Holdem no limit (60/120) - 2015/04/21 19:32:13 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Sam71210 (2295)
+Seat 2: Razz22 (1220)
+Seat 3: crazypix (1400)
+Seat 4: Arkensas (1552)
+Seat 5: Melnath (1570)
+Seat 6: angelik39 (1265)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+Razz22 posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [5h Qd]
+*** PRE-FLOP *** 
+Arkensas folds
+Melnath calls 120
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 folds
+Razz22 raises 240 to 360
+crazypix folds
+Melnath calls 240
+*** FLOP *** [3h 2h 9h]
+Razz22 bets 860 and is all-in
+Melnath calls 860
+*** TURN *** [3h 2h 9h][7s]
+*** RIVER *** [3h 2h 9h 7s][Ac]
+*** SHOW DOWN ***
+Razz22 shows [Kc Kh] (One pair : Kings)
+Melnath shows [7h 7c] (Trips of 7)
+Melnath collected 2560 from pot
+*** SUMMARY ***
+Total pot 2560 | No rake
+Board: [3h 2h 9h 7s Ac]
+Seat 2: Razz22 (small blind) showed [Kc Kh] and lost with One pair : Kings
+Seat 5: Melnath showed [7h 7c] and won 2560 with Trips of 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501691728231661569-21-1429644798 - Holdem no limit (60/120) - 2015/04/21 19:33:18 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Sam71210 (2295)
+Seat 3: crazypix (1280)
+Seat 4: Arkensas (1552)
+Seat 5: Melnath (2910)
+Seat 6: angelik39 (1265)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+Arkensas posts big blind 120
+Dealt to sabre_laser [Td 6s]
+*** PRE-FLOP *** 
+Melnath folds
+angelik39 calls 120
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 calls 120
+crazypix folds
+Arkensas checks
+*** FLOP *** [4h 6h 6c]
+Arkensas checks
+angelik39 checks
+Sam71210 checks
+*** TURN *** [4h 6h 6c][Ks]
+Arkensas checks
+angelik39 checks
+Sam71210 checks
+*** RIVER *** [4h 6h 6c Ks][7d]
+Arkensas checks
+angelik39 checks
+Sam71210 checks
+*** SHOW DOWN ***
+Arkensas shows [Qc 8c] (One pair : 6)
+angelik39 shows [Ad 9d] (One pair : 6)
+Sam71210 shows [Js Ac] (One pair : 6)
+Sam71210 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [4h 6h 6c Ks 7d]
+Seat 1: Sam71210 showed [Js Ac] and won 420 with One pair : 6
+Seat 4: Arkensas (big blind) showed [Qc 8c] and lost with One pair : 6
+Seat 6: angelik39 showed [Ad 9d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #501691728231661569-22-1429644889 - Holdem no limit (60/120) - 2015/04/21 19:34:49 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Sam71210 (2595)
+Seat 3: crazypix (1220)
+Seat 4: Arkensas (1432)
+Seat 5: Melnath (2910)
+Seat 6: angelik39 (1145)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+Arkensas posts small blind 60
+Melnath posts big blind 120
+Dealt to sabre_laser [Kh 4h]
+*** PRE-FLOP *** 
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 folds
+crazypix folds
+Arkensas calls 60
+Melnath checks
+*** FLOP *** [7c 7d 8h]
+Arkensas checks
+Melnath checks
+*** TURN *** [7c 7d 8h][Qd]
+Arkensas checks
+Melnath checks
+*** RIVER *** [7c 7d 8h Qd][7s]
+Arkensas checks
+Melnath checks
+*** SHOW DOWN ***
+Arkensas shows [5h 3d] (Trips of 7)
+Melnath shows [Kd Jd] (Trips of 7)
+Melnath collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7c 7d 8h Qd 7s]
+Seat 4: Arkensas (small blind) showed [5h 3d] and lost with Trips of 7
+Seat 5: Melnath (big blind) showed [Kd Jd] and won 240 with Trips of 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501691728231661569-23-1429645023 - Holdem no limit (80/160) - 2015/04/21 19:37:03 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Sam71210 (2595)
+Seat 3: crazypix (1220)
+Seat 4: Arkensas (1312)
+Seat 5: Melnath (3030)
+Seat 6: angelik39 (1145)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+Melnath posts small blind 80
+angelik39 posts big blind 160
+Dealt to sabre_laser [Qc 6s]
+*** PRE-FLOP *** 
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 folds
+crazypix folds
+Arkensas calls 160
+Melnath folds
+angelik39 raises 978 to 1138
+Arkensas calls 978
+*** FLOP *** [4s 7s Ah]
+angelik39 bets 7 and is all-in
+Arkensas calls 7
+*** TURN *** [4s 7s Ah][3c]
+*** RIVER *** [4s 7s Ah 3c][Tc]
+*** SHOW DOWN ***
+Arkensas shows [Qs 2s] (High card : Ace)
+angelik39 shows [Ks Kd] (One pair : Kings)
+angelik39 collected 2370 from pot
+*** SUMMARY ***
+Total pot 2370 | No rake
+Board: [4s 7s Ah 3c Tc]
+Seat 4: Arkensas (button) showed [Qs 2s] and lost with High card : Ace
+Seat 6: angelik39 (big blind) showed [Ks Kd] and won 2370 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501691728231661569-24-1429645101 - Holdem no limit (80/160) - 2015/04/21 19:38:21 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Sam71210 (2595)
+Seat 3: crazypix (1220)
+Seat 4: Arkensas (167)
+Seat 5: Melnath (2950)
+Seat 6: angelik39 (2370)
+Seat 7: c62mfr (1950)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+angelik39 posts small blind 80
+c62mfr posts big blind 160
+Dealt to sabre_laser [7d 7c]
+*** PRE-FLOP *** 
+Seb59148 folds
+sabre_laser raises 160 to 320
+Sam71210 folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 folds
+c62mfr folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 9: sabre_laser won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501691728231661569-25-1429645169 - Holdem no limit (80/160) - 2015/04/21 19:39:29 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Sam71210 (2595)
+Seat 3: crazypix (1220)
+Seat 4: Arkensas (167)
+Seat 5: Melnath (2950)
+Seat 6: angelik39 (2290)
+Seat 7: c62mfr (1790)
+Seat 8: Seb59148 (2035)
+Seat 9: sabre_laser (1953)
+*** ANTE/BLINDS ***
+c62mfr posts small blind 80
+Seb59148 posts big blind 160
+Dealt to sabre_laser [Td 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Sam71210 folds
+crazypix folds
+Arkensas folds
+Melnath raises 240 to 400
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+Melnath collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 5: Melnath won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501691728231661569-26-1429645215 - Holdem no limit (80/160) - 2015/04/21 19:40:15 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Sam71210 (2595)
+Seat 3: crazypix (1220)
+Seat 4: Arkensas (167)
+Seat 5: Melnath (3190)
+Seat 6: angelik39 (2290)
+Seat 7: c62mfr (1710)
+Seat 8: Seb59148 (1875)
+Seat 9: sabre_laser (1953)
+*** ANTE/BLINDS ***
+Seb59148 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [6s 2h]
+*** PRE-FLOP *** 
+Sam71210 raises 480 to 640
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Seat 1: Sam71210 won 880
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501691728231661569-27-1429645244 - Holdem no limit (80/160) - 2015/04/21 19:40:44 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Sam71210 (2835)
+Seat 3: crazypix (1220)
+Seat 4: Arkensas (167)
+Seat 5: Melnath (3190)
+Seat 6: angelik39 (2290)
+Seat 7: c62mfr (1710)
+Seat 8: Seb59148 (1795)
+Seat 9: sabre_laser (1793)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Sam71210 posts big blind 160
+Dealt to sabre_laser [5h 6c]
+*** PRE-FLOP *** 
+crazypix folds
+Arkensas folds
+Melnath raises 240 to 400
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 folds
+Melnath collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 5: Melnath won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501691728231661569-28-1429645259 - Holdem no limit (80/160) - 2015/04/21 19:40:59 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Sam71210 (2675)
+Seat 3: crazypix (1220)
+Seat 4: Arkensas (167)
+Seat 5: Melnath (3430)
+Seat 6: angelik39 (2290)
+Seat 7: c62mfr (1710)
+Seat 8: Seb59148 (1795)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+Sam71210 posts small blind 80
+crazypix posts big blind 160
+Dealt to sabre_laser [5d 2s]
+*** PRE-FLOP *** 
+Arkensas folds
+Melnath raises 240 to 400
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+Sam71210 raises 2275 to 2675 and is all-in
+crazypix folds
+Melnath calls 2275
+*** FLOP *** [As 2c 8c]
+*** TURN *** [As 2c 8c][Qc]
+*** RIVER *** [As 2c 8c Qc][7h]
+*** SHOW DOWN ***
+Sam71210 shows [Th Tc] (One pair : Tens)
+Melnath shows [Ac Ks] (One pair : Aces)
+Melnath collected 5510 from pot
+*** SUMMARY ***
+Total pot 5510 | No rake
+Board: [As 2c 8c Qc 7h]
+Seat 1: Sam71210 (small blind) showed [Th Tc] and lost with One pair : Tens
+Seat 5: Melnath showed [Ac Ks] and won 5510 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #501691728231661569-29-1429645300 - Holdem no limit (80/160) - 2015/04/21 19:41:40 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #1 is the button
+Seat 3: crazypix (1060)
+Seat 4: Arkensas (167)
+Seat 5: Melnath (6265)
+Seat 6: angelik39 (2290)
+Seat 7: c62mfr (1710)
+Seat 8: Seb59148 (1795)
+Seat 9: sabre_laser (1713)
+*** ANTE/BLINDS ***
+crazypix posts small blind 80
+Arkensas posts big blind 160
+Dealt to sabre_laser [8s Qc]
+*** PRE-FLOP *** 
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 folds
+sabre_laser calls 160
+crazypix folds
+Arkensas checks
+*** FLOP *** [2s Jh 4h]
+Arkensas checks
+sabre_laser checks
+*** TURN *** [2s Jh 4h][7c]
+Arkensas checks
+sabre_laser checks
+*** RIVER *** [2s Jh 4h 7c][Js]
+Arkensas checks
+sabre_laser checks
+*** SHOW DOWN ***
+Arkensas shows [9d 6d] (One pair : Jacks)
+sabre_laser shows [8s Qc] (One pair : Jacks)
+sabre_laser collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [2s Jh 4h 7c Js]
+Seat 4: Arkensas (big blind) showed [9d 6d] and lost with One pair : Jacks
+Seat 9: sabre_laser showed [8s Qc] and won 400 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #501691728231661569-30-1429645353 - Holdem no limit (10/100/200) - 2015/04/21 19:42:33 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #3 is the button
+Seat 3: crazypix (980)
+Seat 4: Arkensas (7)
+Seat 5: Melnath (6265)
+Seat 6: angelik39 (2290)
+Seat 7: c62mfr (1710)
+Seat 8: Seb59148 (1795)
+Seat 9: sabre_laser (1953)
+*** ANTE/BLINDS ***
+Arkensas posts ante 7 and is all-in
+Melnath posts ante 10
+crazypix posts ante 10
+angelik39 posts ante 10
+c62mfr posts ante 10
+Seb59148 posts ante 10
+sabre_laser posts ante 10
+Arkensas posts small blind 0 and is all-in
+Melnath posts big blind 200
+Dealt to sabre_laser [Kd Qs]
+*** PRE-FLOP *** 
+angelik39 calls 200
+c62mfr folds
+Seb59148 folds
+sabre_laser calls 200
+crazypix folds
+Melnath checks
+*** FLOP *** [4c 9c 7h]
+Melnath checks
+angelik39 checks
+sabre_laser checks
+*** TURN *** [4c 9c 7h][Ah]
+Melnath checks
+angelik39 checks
+sabre_laser checks
+*** RIVER *** [4c 9c 7h Ah][3h]
+Melnath checks
+angelik39 checks
+sabre_laser checks
+*** SHOW DOWN ***
+angelik39 shows [Qh Js] (High card : Ace)
+sabre_laser shows [Kd Qs] (High card : Ace)
+Arkensas shows [4d As] (Two pairs : Aces and 4)
+Melnath shows [7s Jh] (One pair : 7)
+Melnath collected 618 from side pot 1
+Arkensas collected 49 from main pot
+*** SUMMARY ***
+Total pot 667 | No rake
+Board: [4c 9c 7h Ah 3h]
+Seat 4: Arkensas (small blind) showed [4d As] and won 49 with Two pairs : Aces and 4
+Seat 5: Melnath (big blind) showed [7s Jh] and won 618 with One pair : 7
+Seat 6: angelik39 showed [Qh Js] and lost with High card : Ace
+Seat 9: sabre_laser showed [Kd Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #501691728231661569-31-1429645393 - Holdem no limit (10/100/200) - 2015/04/21 19:43:13 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #4 is the button
+Seat 3: crazypix (970)
+Seat 4: Arkensas (49)
+Seat 5: Melnath (6673)
+Seat 6: angelik39 (2080)
+Seat 7: c62mfr (1700)
+Seat 8: Seb59148 (1785)
+Seat 9: sabre_laser (1743)
+*** ANTE/BLINDS ***
+Melnath posts ante 10
+angelik39 posts ante 10
+crazypix posts ante 10
+Arkensas posts ante 10
+c62mfr posts ante 10
+Seb59148 posts ante 10
+sabre_laser posts ante 10
+Melnath posts small blind 100
+angelik39 posts big blind 200
+Dealt to sabre_laser [5c Kd]
+*** PRE-FLOP *** 
+c62mfr folds
+Seb59148 folds
+sabre_laser folds
+crazypix folds
+Arkensas calls 39 and is all-in
+Melnath folds
+*** FLOP *** [5d 3h Td]
+*** TURN *** [5d 3h Td][Qs]
+*** RIVER *** [5d 3h Td Qs][Ks]
+*** SHOW DOWN ***
+Arkensas shows [4c 9h] (High card : King)
+angelik39 shows [7c 4h] (High card : King)
+angelik39 collected 222 from side pot 1
+Arkensas collected 187 from main pot
+*** SUMMARY ***
+Total pot 409 | No rake
+Board: [5d 3h Td Qs Ks]
+Seat 4: Arkensas (button) showed [4c 9h] and won 187 with High card : King
+Seat 6: angelik39 (big blind) showed [7c 4h] and won 222 with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #501691728231661569-32-1429645447 - Holdem no limit (10/100/200) - 2015/04/21 19:44:07 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #5 is the button
+Seat 3: crazypix (960)
+Seat 4: Arkensas (187)
+Seat 5: Melnath (6563)
+Seat 6: angelik39 (2092)
+Seat 7: c62mfr (1690)
+Seat 8: Seb59148 (1775)
+Seat 9: sabre_laser (1733)
+*** ANTE/BLINDS ***
+angelik39 posts ante 10
+c62mfr posts ante 10
+crazypix posts ante 10
+Arkensas posts ante 10
+Melnath posts ante 10
+Seb59148 posts ante 10
+sabre_laser posts ante 10
+angelik39 posts small blind 100
+c62mfr posts big blind 200
+Dealt to sabre_laser [Tc 5s]
+*** PRE-FLOP *** 
+Seb59148 folds
+sabre_laser folds
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 folds
+c62mfr collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 7: c62mfr (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #501691728231661569-33-1429645462 - Holdem no limit (10/100/200) - 2015/04/21 19:44:22 UTC
+Table: 'Double or Nothing(116809208)#0' 10-max (real money) Seat #6 is the button
+Seat 3: crazypix (950)
+Seat 4: Arkensas (177)
+Seat 5: Melnath (6553)
+Seat 6: angelik39 (1982)
+Seat 7: c62mfr (1850)
+Seat 8: Seb59148 (1765)
+Seat 9: sabre_laser (1723)
+*** ANTE/BLINDS ***
+c62mfr posts ante 10
+Seb59148 posts ante 10
+crazypix posts ante 10
+Arkensas posts ante 10
+Melnath posts ante 10
+angelik39 posts ante 10
+sabre_laser posts ante 10
+c62mfr posts small blind 100
+Seb59148 posts big blind 200
+Dealt to sabre_laser [7s 7h]
+*** PRE-FLOP *** 
+sabre_laser raises 1513 to 1713 and is all-in
+crazypix folds
+Arkensas folds
+Melnath folds
+angelik39 folds
+c62mfr folds
+Seb59148 calls 1513
+*** FLOP *** [Jh 6c Ks]
+*** TURN *** [Jh 6c Ks][3c]
+*** RIVER *** [Jh 6c Ks 3c][5d]
+*** SHOW DOWN ***
+sabre_laser shows [7s 7h] (One pair : 7)
+Seb59148 shows [Ah Kh] (One pair : Kings)
+Seb59148 collected 3596 from pot
+*** SUMMARY ***
+Total pot 3596 | No rake
+Board: [Jh 6c Ks 3c 5d]
+Seat 8: Seb59148 (big blind) showed [Ah Kh] and won 3596 with One pair : Kings
+Seat 9: sabre_laser showed [7s 7h] and lost with One pair : 7
+
+

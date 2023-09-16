@@ -1,0 +1,40 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #622300281123635201-29-1452543708 - Holdem no limit (100/400/800) - 2016/01/11 20:21:48 UTC
+Table: 'Double or Nothing(144890575)#0' 10-max (real money) Seat #4 is the button
+Seat 1: gnikgnok (847)
+Seat 2: NC1234 (2515)
+Seat 4: cecela84 (550)
+Seat 7: From20 (7945)
+Seat 8: sabre_laser (45)
+Seat 9: thonybox (1225)
+Seat 10: canetto3376 (1873)
+*** ANTE/BLINDS ***
+From20 posts ante 100
+sabre_laser posts ante 45 and is all-in
+gnikgnok posts ante 100
+NC1234 posts ante 100
+cecela84 posts ante 100
+thonybox posts ante 100
+canetto3376 posts ante 100
+From20 posts small blind 400
+sabre_laser posts big blind 0 and is all-in
+Dealt to sabre_laser [8s 2c]
+*** PRE-FLOP *** 
+thonybox folds
+canetto3376 folds
+gnikgnok folds
+NC1234 folds
+cecela84 folds
+*** FLOP *** [3s 5c Kc]
+*** TURN *** [3s 5c Kc][Ts]
+*** RIVER *** [3s 5c Kc Ts][8d]
+*** SHOW DOWN ***
+sabre_laser shows [8s 2c] (One pair : 8)
+From20 shows [Ac As] (One pair : Aces)
+From20 collected 1045 from pot
+*** SUMMARY ***
+Total pot 1045 | No rake
+Board: [3s 5c Kc Ts 8d]
+Seat 7: From20 (small blind) showed [Ac As] and won 1045 with One pair : Aces
+Seat 8: sabre_laser (big blind) showed [8s 2c] and lost with One pair : 8
+
+

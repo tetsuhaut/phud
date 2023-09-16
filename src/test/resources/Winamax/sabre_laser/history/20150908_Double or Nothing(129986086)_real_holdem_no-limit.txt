@@ -1,0 +1,1789 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558285988305043457-1-1441665054 - Holdem no limit (10/20) - 2015/09/07 22:30:54 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ellen rypley (1500)
+Seat 2: fan2Slash (1500)
+Seat 3: cata  climse (1500)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: horzwiznonam (1500)
+Seat 8: HURICANNE67 (1500)
+Seat 9: crazypix (1500)
+Seat 10: piranha11111 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+horzwiznonam posts big blind 20
+Dealt to sabre_laser [Ad 5d]
+*** PRE-FLOP *** 
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano calls 20
+sabre_laser calls 10
+horzwiznonam checks
+*** FLOP *** [Ks 2c 3h]
+sabre_laser checks
+horzwiznonam checks
+gigitaliano bets 60
+sabre_laser folds
+horzwiznonam folds
+gigitaliano collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ks 2c 3h]
+Seat 5: gigitaliano (button) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558285988305043457-2-1441665107 - Holdem no limit (10/20) - 2015/09/07 22:31:47 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (1500)
+Seat 2: fan2Slash (1500)
+Seat 3: cata  climse (1500)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1540)
+Seat 6: sabre_laser (1480)
+Seat 7: horzwiznonam (1480)
+Seat 8: HURICANNE67 (1500)
+Seat 9: crazypix (1500)
+Seat 10: piranha11111 (1500)
+*** ANTE/BLINDS ***
+horzwiznonam posts small blind 10
+HURICANNE67 posts big blind 20
+Dealt to sabre_laser [Tc Kc]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano folds
+sabre_laser folds
+horzwiznonam calls 10
+HURICANNE67 raises 60 to 80
+horzwiznonam calls 60
+*** FLOP *** [5s 4d 3h]
+horzwiznonam bets 1400 and is all-in
+HURICANNE67 folds
+horzwiznonam collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [5s 4d 3h]
+Seat 7: horzwiznonam (small blind) won 1560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558285988305043457-3-1441665175 - Holdem no limit (10/20) - 2015/09/07 22:32:55 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ellen rypley (1500)
+Seat 2: fan2Slash (1500)
+Seat 3: cata  climse (1500)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1540)
+Seat 6: sabre_laser (1480)
+Seat 7: horzwiznonam (1560)
+Seat 8: HURICANNE67 (1420)
+Seat 9: crazypix (1500)
+Seat 10: piranha11111 (1500)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 10
+crazypix posts big blind 20
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano calls 20
+sabre_laser raises 80 to 100
+horzwiznonam raises 80 to 180
+HURICANNE67 folds
+crazypix folds
+gigitaliano folds
+sabre_laser calls 80
+*** FLOP *** [9c 4h 6c]
+sabre_laser checks
+horzwiznonam bets 20
+sabre_laser calls 20
+*** TURN *** [9c 4h 6c][3c]
+sabre_laser checks
+horzwiznonam bets 20
+sabre_laser calls 20
+*** RIVER *** [9c 4h 6c 3c][Th]
+sabre_laser checks
+horzwiznonam checks
+*** SHOW DOWN ***
+horzwiznonam shows [Ah 8h] (High card : Ace)
+sabre_laser shows [Qh Qc] (One pair : Queens)
+sabre_laser collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [9c 4h 6c 3c Th]
+Seat 6: sabre_laser showed [Qh Qc] and won 490 with One pair : Queens
+Seat 7: horzwiznonam (button) showed [Ah 8h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558285988305043457-4-1441665282 - Holdem no limit (10/20) - 2015/09/07 22:34:42 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (1500)
+Seat 2: fan2Slash (1500)
+Seat 3: cata  climse (1500)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1520)
+Seat 6: sabre_laser (1750)
+Seat 7: horzwiznonam (1340)
+Seat 8: HURICANNE67 (1410)
+Seat 9: crazypix (1480)
+Seat 10: piranha11111 (1500)
+*** ANTE/BLINDS ***
+crazypix posts small blind 10
+piranha11111 posts big blind 20
+Dealt to sabre_laser [7c 3c]
+*** PRE-FLOP *** 
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano folds
+sabre_laser folds
+horzwiznonam raises 1320 to 1340 and is all-in
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+horzwiznonam collected 1370 from pot
+*** SUMMARY ***
+Total pot 1370 | No rake
+Seat 7: horzwiznonam won 1370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558285988305043457-5-1441665313 - Holdem no limit (10/20) - 2015/09/07 22:35:13 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (1500)
+Seat 2: fan2Slash (1500)
+Seat 3: cata  climse (1500)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1520)
+Seat 6: sabre_laser (1750)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1410)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1480)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 10
+ellen rypley posts big blind 20
+Dealt to sabre_laser [4d 3h]
+*** PRE-FLOP *** 
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano calls 20
+sabre_laser folds
+horzwiznonam folds
+HURICANNE67 raises 20 to 40
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+gigitaliano calls 20
+*** FLOP *** [Ts 9d Jc]
+gigitaliano bets 110
+HURICANNE67 folds
+gigitaliano collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Ts 9d Jc]
+Seat 5: gigitaliano won 220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558285988305043457-6-1441665358 - Holdem no limit (10/20) - 2015/09/07 22:35:58 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (1480)
+Seat 2: fan2Slash (1500)
+Seat 3: cata  climse (1500)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1590)
+Seat 6: sabre_laser (1750)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1370)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 10
+fan2Slash posts big blind 20
+Dealt to sabre_laser [8h 7c]
+*** PRE-FLOP *** 
+cata  climse folds
+bille84 folds
+gigitaliano calls 20
+sabre_laser folds
+horzwiznonam folds
+HURICANNE67 calls 20
+crazypix folds
+piranha11111 folds
+ellen rypley calls 10
+fan2Slash checks
+*** FLOP *** [Jd 8c Jh]
+ellen rypley checks
+fan2Slash checks
+gigitaliano bets 20
+HURICANNE67 calls 20
+ellen rypley folds
+fan2Slash folds
+*** TURN *** [Jd 8c Jh][Ts]
+gigitaliano bets 20
+HURICANNE67 calls 20
+*** RIVER *** [Jd 8c Jh Ts][Kc]
+gigitaliano bets 30
+HURICANNE67 raises 95 to 125
+gigitaliano calls 95
+*** SHOW DOWN ***
+gigitaliano shows [Ks 5h] (Two pairs : Kings and Jacks)
+HURICANNE67 shows [Kd 4d] (Two pairs : Kings and Jacks)
+HURICANNE67 collected 205 from pot
+gigitaliano collected 205 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [Jd 8c Jh Ts Kc]
+Seat 5: gigitaliano showed [Ks 5h] and won 205 with Two pairs : Kings and Jacks
+Seat 8: HURICANNE67 showed [Kd 4d] and won 205 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558285988305043457-7-1441665449 - Holdem no limit (15/30) - 2015/09/07 22:37:29 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1480)
+Seat 3: cata  climse (1500)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1610)
+Seat 6: sabre_laser (1750)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1390)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 15
+cata  climse posts big blind 30
+Dealt to sabre_laser [Js 9s]
+*** PRE-FLOP *** 
+bille84 folds
+gigitaliano calls 30
+sabre_laser folds
+horzwiznonam folds
+HURICANNE67 raises 60 to 90
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+gigitaliano folds
+HURICANNE67 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Seat 8: HURICANNE67 won 165
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558285988305043457-8-1441665501 - Holdem no limit (15/30) - 2015/09/07 22:38:21 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #2 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1465)
+Seat 3: cata  climse (1470)
+Seat 4: bille84 (1500)
+Seat 5: gigitaliano (1580)
+Seat 6: sabre_laser (1750)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1465)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 15
+bille84 posts big blind 30
+Dealt to sabre_laser [Td 4d]
+*** PRE-FLOP *** 
+gigitaliano calls 30
+sabre_laser folds
+horzwiznonam folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 checks
+*** FLOP *** [Ad 7c 3c]
+bille84 checks
+gigitaliano bets 30
+bille84 folds
+gigitaliano collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Ad 7c 3c]
+Seat 5: gigitaliano won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558285988305043457-9-1441665548 - Holdem no limit (15/30) - 2015/09/07 22:39:08 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1465)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1470)
+Seat 5: gigitaliano (1625)
+Seat 6: sabre_laser (1750)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1465)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+bille84 posts small blind 15
+gigitaliano posts big blind 30
+Dealt to sabre_laser [Qc 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+horzwiznonam folds
+HURICANNE67 raises 120 to 150
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano folds
+HURICANNE67 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Seat 8: HURICANNE67 won 195
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558285988305043457-10-1441665603 - Holdem no limit (15/30) - 2015/09/07 22:40:03 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1465)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1595)
+Seat 6: sabre_laser (1750)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1510)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+gigitaliano posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [6d 8s]
+*** PRE-FLOP *** 
+horzwiznonam folds
+HURICANNE67 calls 30
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano calls 15
+sabre_laser checks
+*** FLOP *** [2s 9s Qs]
+gigitaliano bets 90
+sabre_laser folds
+HURICANNE67 folds
+gigitaliano collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2s 9s Qs]
+Seat 5: gigitaliano (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558285988305043457-11-1441665673 - Holdem no limit (15/30) - 2015/09/07 22:41:13 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1465)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1655)
+Seat 6: sabre_laser (1720)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1480)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+horzwiznonam posts big blind 30
+Dealt to sabre_laser [Js Qd]
+*** PRE-FLOP *** 
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano raises 60 to 90
+sabre_laser calls 75
+horzwiznonam folds
+*** FLOP *** [6d 6h 4d]
+sabre_laser checks
+gigitaliano checks
+*** TURN *** [6d 6h 4d][Qs]
+sabre_laser bets 75
+gigitaliano calls 75
+*** RIVER *** [6d 6h 4d Qs][Td]
+sabre_laser bets 75
+gigitaliano calls 75
+*** SHOW DOWN ***
+gigitaliano shows [Tc As] (Two pairs : Tens and 6)
+sabre_laser shows [Js Qd] (Two pairs : Queens and 6)
+sabre_laser collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [6d 6h 4d Qs Td]
+Seat 5: gigitaliano (button) showed [Tc As] and lost with Two pairs : Tens and 6
+Seat 6: sabre_laser (small blind) showed [Js Qd] and won 510 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558285988305043457-12-1441665761 - Holdem no limit (15/30) - 2015/09/07 22:42:41 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1465)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1415)
+Seat 6: sabre_laser (1990)
+Seat 7: horzwiznonam (1340)
+Seat 8: HURICANNE67 (1480)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+horzwiznonam posts small blind 15
+HURICANNE67 posts big blind 30
+Dealt to sabre_laser [Js Kh]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano calls 30
+sabre_laser raises 120 to 150
+horzwiznonam calls 135
+HURICANNE67 calls 120
+gigitaliano folds
+*** FLOP *** [6d 7d 9c]
+horzwiznonam checks
+HURICANNE67 bets 1330 and is all-in
+sabre_laser folds
+horzwiznonam folds
+HURICANNE67 collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | No rake
+Board: [6d 7d 9c]
+Seat 8: HURICANNE67 (big blind) won 1810
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558285988305043457-13-1441665872 - Holdem no limit (20/40) - 2015/09/07 22:44:32 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1465)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1385)
+Seat 6: sabre_laser (1840)
+Seat 7: horzwiznonam (1190)
+Seat 8: HURICANNE67 (1810)
+Seat 9: crazypix (1470)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 20
+crazypix posts big blind 40
+Dealt to sabre_laser [4s 9c]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley folds
+fan2Slash calls 40
+cata  climse folds
+bille84 folds
+gigitaliano raises 40 to 80
+sabre_laser folds
+horzwiznonam raises 1110 to 1190 and is all-in
+HURICANNE67 folds
+crazypix folds
+fan2Slash folds
+gigitaliano folds
+horzwiznonam collected 1370 from pot
+*** SUMMARY ***
+Total pot 1370 | No rake
+Seat 7: horzwiznonam (button) won 1370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558285988305043457-14-1441665998 - Holdem no limit (20/40) - 2015/09/07 22:46:38 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1425)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1305)
+Seat 6: sabre_laser (1840)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (1790)
+Seat 9: crazypix (1430)
+Seat 10: piranha11111 (1470)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+piranha11111 posts big blind 40
+Dealt to sabre_laser [9h 7s]
+*** PRE-FLOP *** 
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano calls 40
+sabre_laser folds
+horzwiznonam folds
+HURICANNE67 raises 140 to 180
+crazypix folds
+piranha11111 folds
+gigitaliano calls 140
+*** FLOP *** [8c 2h 2s]
+gigitaliano bets 40
+HURICANNE67 raises 230 to 270
+gigitaliano folds
+HURICANNE67 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [8c 2h 2s]
+Seat 8: HURICANNE67 (button) won 730
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558285988305043457-15-1441666036 - Holdem no limit (20/40) - 2015/09/07 22:47:16 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (1460)
+Seat 2: fan2Slash (1425)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1085)
+Seat 6: sabre_laser (1840)
+Seat 7: horzwiznonam (1370)
+Seat 8: HURICANNE67 (2070)
+Seat 9: crazypix (1410)
+Seat 10: piranha11111 (1430)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 20
+ellen rypley posts big blind 40
+Dealt to sabre_laser [Qs Ad]
+*** PRE-FLOP *** 
+fan2Slash folds
+cata  climse folds
+bille84 folds
+gigitaliano calls 40
+sabre_laser raises 80 to 120
+horzwiznonam raises 1250 to 1370 and is all-in
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+gigitaliano folds
+sabre_laser calls 1250
+*** FLOP *** [9s Qh Jd]
+*** TURN *** [9s Qh Jd][3h]
+*** RIVER *** [9s Qh Jd 3h][7h]
+*** SHOW DOWN ***
+horzwiznonam shows [Kd Ah] (High card : Ace)
+sabre_laser shows [Qs Ad] (One pair : Queens)
+sabre_laser collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | No rake
+Board: [9s Qh Jd 3h 7h]
+Seat 6: sabre_laser showed [Qs Ad] and won 2840 with One pair : Queens
+Seat 7: horzwiznonam showed [Kd Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558285988305043457-16-1441666093 - Holdem no limit (20/40) - 2015/09/07 22:48:13 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (1420)
+Seat 2: fan2Slash (1425)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1045)
+Seat 6: sabre_laser (3310)
+Seat 8: HURICANNE67 (2070)
+Seat 9: crazypix (1410)
+Seat 10: piranha11111 (1410)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 20
+fan2Slash posts big blind 40
+Dealt to sabre_laser [As Kh]
+*** PRE-FLOP *** 
+cata  climse folds
+bille84 folds
+gigitaliano folds
+sabre_laser raises 80 to 120
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: sabre_laser won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558285988305043457-17-1441666127 - Holdem no limit (20/40) - 2015/09/07 22:48:47 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (1400)
+Seat 2: fan2Slash (1385)
+Seat 3: cata  climse (1455)
+Seat 4: bille84 (1455)
+Seat 5: gigitaliano (1045)
+Seat 6: sabre_laser (3370)
+Seat 8: HURICANNE67 (2070)
+Seat 9: crazypix (1410)
+Seat 10: piranha11111 (1410)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 20
+cata  climse posts big blind 40
+Dealt to sabre_laser [2h 7h]
+*** PRE-FLOP *** 
+bille84 folds
+gigitaliano calls 40
+sabre_laser folds
+HURICANNE67 folds
+crazypix calls 40
+piranha11111 raises 120 to 160
+ellen rypley folds
+fan2Slash folds
+cata  climse folds
+gigitaliano raises 260 to 420
+crazypix folds
+piranha11111 raises 260 to 680
+gigitaliano calls 260
+*** FLOP *** [3c Jh Th]
+gigitaliano bets 365 and is all-in
+piranha11111 calls 365
+*** TURN *** [3c Jh Th][8c]
+*** RIVER *** [3c Jh Th 8c][6d]
+*** SHOW DOWN ***
+gigitaliano shows [Kd Kc] (One pair : Kings)
+piranha11111 shows [As Ah] (One pair : Aces)
+piranha11111 collected 2190 from pot
+*** SUMMARY ***
+Total pot 2190 | No rake
+Board: [3c Jh Th 8c 6d]
+Seat 5: gigitaliano showed [Kd Kc] and lost with One pair : Kings
+Seat 10: piranha11111 showed [As Ah] and won 2190 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-18-1441666212 - Holdem no limit (30/60) - 2015/09/07 22:50:12 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #2 is the button
+Seat 1: ellen rypley (1400)
+Seat 2: fan2Slash (1365)
+Seat 3: cata  climse (1415)
+Seat 4: bille84 (1455)
+Seat 6: sabre_laser (3370)
+Seat 8: HURICANNE67 (2070)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2555)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 30
+bille84 posts big blind 60
+Dealt to sabre_laser [3c Kh]
+*** PRE-FLOP *** 
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+fan2Slash raises 120 to 180
+cata  climse calls 150
+bille84 folds
+*** FLOP *** [Ad 6h Ts]
+cata  climse checks
+fan2Slash bets 180
+cata  climse raises 300 to 480
+fan2Slash raises 705 to 1185 and is all-in
+cata  climse raises 50 to 1235 and is all-in
+*** TURN *** [Ad 6h Ts][4d]
+*** RIVER *** [Ad 6h Ts 4d][Js]
+*** SHOW DOWN ***
+fan2Slash shows [Kc Ac] (One pair : Aces)
+cata  climse shows [Th Td] (Trips of Tens)
+cata  climse collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | No rake
+Board: [Ad 6h Ts 4d Js]
+Seat 2: fan2Slash (button) showed [Kc Ac] and lost with One pair : Aces
+Seat 3: cata  climse (small blind) showed [Th Td] and won 2840 with Trips of Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-19-1441666252 - Holdem no limit (30/60) - 2015/09/07 22:50:52 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (1400)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1395)
+Seat 6: sabre_laser (3370)
+Seat 8: HURICANNE67 (2070)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2555)
+*** ANTE/BLINDS ***
+bille84 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [3c Js]
+*** PRE-FLOP *** 
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: sabre_laser (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-20-1441666281 - Holdem no limit (30/60) - 2015/09/07 22:51:21 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ellen rypley (1400)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1365)
+Seat 6: sabre_laser (3400)
+Seat 8: HURICANNE67 (2070)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2555)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+HURICANNE67 posts big blind 60
+Dealt to sabre_laser [4s 9s]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 folds
+sabre_laser calls 30
+HURICANNE67 raises 2010 to 2070 and is all-in
+sabre_laser folds
+HURICANNE67 collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Seat 8: HURICANNE67 (big blind) won 2130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-21-1441666304 - Holdem no limit (30/60) - 2015/09/07 22:51:44 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (1400)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1365)
+Seat 6: sabre_laser (3340)
+Seat 8: HURICANNE67 (2130)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2555)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 30
+crazypix posts big blind 60
+Dealt to sabre_laser [7h Ts]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: crazypix (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-22-1441666318 - Holdem no limit (30/60) - 2015/09/07 22:51:58 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (1400)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1365)
+Seat 6: sabre_laser (3340)
+Seat 8: HURICANNE67 (2100)
+Seat 9: crazypix (1400)
+Seat 10: piranha11111 (2555)
+*** ANTE/BLINDS ***
+crazypix posts small blind 30
+piranha11111 posts big blind 60
+Dealt to sabre_laser [4s 6c]
+*** PRE-FLOP *** 
+ellen rypley folds
+cata  climse folds
+bille84 folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix calls 30
+piranha11111 checks
+*** FLOP *** [9s Kc Qs]
+crazypix checks
+piranha11111 checks
+*** TURN *** [9s Kc Qs][Ah]
+crazypix checks
+piranha11111 checks
+*** RIVER *** [9s Kc Qs Ah][2d]
+crazypix checks
+piranha11111 checks
+*** SHOW DOWN ***
+crazypix shows [4d 7d] (High card : Ace)
+piranha11111 shows [7c Jh] (High card : Ace)
+piranha11111 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9s Kc Qs Ah 2d]
+Seat 9: crazypix (small blind) showed [4d 7d] and lost with High card : Ace
+Seat 10: piranha11111 (big blind) showed [7c Jh] and won 120 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-23-1441666363 - Holdem no limit (30/60) - 2015/09/07 22:52:43 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (1400)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1365)
+Seat 6: sabre_laser (3340)
+Seat 8: HURICANNE67 (2100)
+Seat 9: crazypix (1340)
+Seat 10: piranha11111 (2615)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 30
+ellen rypley posts big blind 60
+Dealt to sabre_laser [Qs 4h]
+*** PRE-FLOP *** 
+cata  climse folds
+bille84 folds
+sabre_laser folds
+HURICANNE67 raises 180 to 240
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+HURICANNE67 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 8: HURICANNE67 won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-24-1441666387 - Holdem no limit (30/60) - 2015/09/07 22:53:07 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (1340)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1365)
+Seat 6: sabre_laser (3340)
+Seat 8: HURICANNE67 (2190)
+Seat 9: crazypix (1340)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 30
+cata  climse posts big blind 60
+Dealt to sabre_laser [7h Ad]
+*** PRE-FLOP *** 
+bille84 folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: cata  climse (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-25-1441666406 - Holdem no limit (30/60) - 2015/09/07 22:53:26 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2870)
+Seat 4: bille84 (1365)
+Seat 6: sabre_laser (3340)
+Seat 8: HURICANNE67 (2190)
+Seat 9: crazypix (1340)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 30
+bille84 posts big blind 60
+Dealt to sabre_laser [3c 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+HURICANNE67 folds
+crazypix calls 60
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 checks
+*** FLOP *** [2c Td 8d]
+bille84 bets 60
+crazypix calls 60
+*** TURN *** [2c Td 8d][As]
+bille84 checks
+crazypix bets 135
+bille84 folds
+crazypix collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [2c Td 8d As]
+Seat 9: crazypix won 405
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-26-1441666450 - Holdem no limit (30/60) - 2015/09/07 22:54:10 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1245)
+Seat 6: sabre_laser (3340)
+Seat 8: HURICANNE67 (2190)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+bille84 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [2h 7d]
+*** PRE-FLOP *** 
+HURICANNE67 raises 60 to 120
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 folds
+sabre_laser folds
+HURICANNE67 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 8: HURICANNE67 won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558285988305043457-27-1441666472 - Holdem no limit (30/60) - 2015/09/07 22:54:32 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1215)
+Seat 6: sabre_laser (3280)
+Seat 8: HURICANNE67 (2280)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+HURICANNE67 posts big blind 60
+Dealt to sabre_laser [Js 2c]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 folds
+sabre_laser folds
+HURICANNE67 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 8: HURICANNE67 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-28-1441666498 - Holdem no limit (40/80) - 2015/09/07 22:54:58 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1215)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (2310)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 40
+crazypix posts big blind 80
+Dealt to sabre_laser [4d Ad]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley raises 1230 to 1310 and is all-in
+cata  climse folds
+bille84 folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+ellen rypley collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Seat 1: ellen rypley won 1430
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-29-1441666530 - Holdem no limit (40/80) - 2015/09/07 22:55:30 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (1430)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1215)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (2270)
+Seat 9: crazypix (1410)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+crazypix posts small blind 40
+piranha11111 posts big blind 80
+Dealt to sabre_laser [Ts 6s]
+*** PRE-FLOP *** 
+ellen rypley folds
+cata  climse folds
+bille84 folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 10: piranha11111 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-30-1441666567 - Holdem no limit (40/80) - 2015/09/07 22:56:07 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (1430)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1215)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (2270)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2625)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 40
+ellen rypley posts big blind 80
+Dealt to sabre_laser [6c Jh]
+*** PRE-FLOP *** 
+cata  climse raises 120 to 200
+bille84 folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: cata  climse won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-31-1441666588 - Holdem no limit (40/80) - 2015/09/07 22:56:28 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (1350)
+Seat 3: cata  climse (2960)
+Seat 4: bille84 (1215)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (2270)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 40
+cata  climse posts big blind 80
+Dealt to sabre_laser [Ac Tc]
+*** PRE-FLOP *** 
+bille84 folds
+sabre_laser raises 80 to 160
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: sabre_laser won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-32-1441666626 - Holdem no limit (40/80) - 2015/09/07 22:57:06 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2880)
+Seat 4: bille84 (1215)
+Seat 6: sabre_laser (3370)
+Seat 8: HURICANNE67 (2270)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 40
+bille84 posts big blind 80
+Dealt to sabre_laser [3s 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+HURICANNE67 raises 80 to 160
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 folds
+HURICANNE67 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 8: HURICANNE67 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-33-1441666666 - Holdem no limit (40/80) - 2015/09/07 22:57:46 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 4: bille84 (1135)
+Seat 6: sabre_laser (3370)
+Seat 8: HURICANNE67 (2390)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+bille84 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [9d 3c]
+*** PRE-FLOP *** 
+HURICANNE67 raises 320 to 400
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+bille84 calls 360
+sabre_laser folds
+*** FLOP *** [8c 2d 8s]
+bille84 bets 440
+HURICANNE67 raises 440 to 880
+bille84 calls 295 and is all-in
+*** TURN *** [8c 2d 8s][Qs]
+*** RIVER *** [8c 2d 8s Qs][4h]
+*** SHOW DOWN ***
+bille84 shows [Ah Kh] (One pair : 8)
+HURICANNE67 shows [Qc Qh] (Full of Queens and 8)
+HURICANNE67 collected 2495 from pot
+*** SUMMARY ***
+Total pot 2495 | No rake
+Board: [8c 2d 8s Qs 4h]
+Seat 4: bille84 (small blind) showed [Ah Kh] and lost with One pair : 8
+Seat 8: HURICANNE67 showed [Qc Qh] and won 2495 with Full of Queens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-34-1441666705 - Holdem no limit (40/80) - 2015/09/07 22:58:25 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 6: sabre_laser (3290)
+Seat 8: HURICANNE67 (3605)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+HURICANNE67 posts big blind 80
+Dealt to sabre_laser [4s Jc]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: HURICANNE67 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-35-1441666716 - Holdem no limit (40/80) - 2015/09/07 22:58:36 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (3645)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 40
+crazypix posts big blind 80
+Dealt to sabre_laser [Qh Js]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 9: crazypix (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-36-1441666737 - Holdem no limit (40/80) - 2015/09/07 22:58:57 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (3605)
+Seat 9: crazypix (1410)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+crazypix posts small blind 40
+piranha11111 posts big blind 80
+Dealt to sabre_laser [6c 2h]
+*** PRE-FLOP *** 
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 10: piranha11111 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-37-1441666760 - Holdem no limit (40/80) - 2015/09/07 22:59:20 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (1310)
+Seat 3: cata  climse (2840)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (3605)
+Seat 9: crazypix (1370)
+Seat 10: piranha11111 (2625)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 40
+ellen rypley posts big blind 80
+Dealt to sabre_laser [As 2d]
+*** PRE-FLOP *** 
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix calls 80
+piranha11111 folds
+ellen rypley checks
+*** FLOP *** [Qh Kc 2c]
+ellen rypley checks
+crazypix bets 80
+ellen rypley folds
+crazypix collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Qh Kc 2c]
+Seat 9: crazypix (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-38-1441666791 - Holdem no limit (40/80) - 2015/09/07 22:59:51 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (1230)
+Seat 3: cata  climse (2840)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (3605)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 40
+cata  climse posts big blind 80
+Dealt to sabre_laser [5h 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 raises 160 to 240
+ellen rypley folds
+cata  climse folds
+piranha11111 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 10: piranha11111 (button) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558285988305043457-39-1441666822 - Holdem no limit (40/80) - 2015/09/07 23:00:22 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (1190)
+Seat 3: cata  climse (2760)
+Seat 6: sabre_laser (3250)
+Seat 8: HURICANNE67 (3605)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2705)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Jc Ac]
+*** PRE-FLOP *** 
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley raises 120 to 200
+cata  climse folds
+sabre_laser raises 280 to 480
+ellen rypley raises 710 to 1190 and is all-in
+sabre_laser calls 710
+*** FLOP *** [6c 6h Jh]
+*** TURN *** [6c 6h Jh][Ts]
+*** RIVER *** [6c 6h Jh Ts][3d]
+*** SHOW DOWN ***
+sabre_laser shows [Jc Ac] (Two pairs : Jacks and 6)
+ellen rypley shows [As Ah] (Two pairs : Aces and 6)
+ellen rypley collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Board: [6c 6h Jh Ts 3d]
+Seat 1: ellen rypley (button) showed [As Ah] and won 2420 with Two pairs : Aces and 6
+Seat 6: sabre_laser (big blind) showed [Jc Ac] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-40-1441666872 - Holdem no limit (60/120) - 2015/09/07 23:01:12 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (2420)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2060)
+Seat 8: HURICANNE67 (3605)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2705)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+HURICANNE67 posts big blind 120
+Dealt to sabre_laser [8s 3c]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: HURICANNE67 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-41-1441666894 - Holdem no limit (60/120) - 2015/09/07 23:01:34 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (2420)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3665)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2705)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [3h Jd]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: crazypix (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-42-1441666917 - Holdem no limit (60/120) - 2015/09/07 23:01:57 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (2420)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3605)
+Seat 9: crazypix (1550)
+Seat 10: piranha11111 (2705)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+piranha11111 posts big blind 120
+Dealt to sabre_laser [8s 6h]
+*** PRE-FLOP *** 
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 raises 240 to 360
+crazypix folds
+piranha11111 folds
+HURICANNE67 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 8: HURICANNE67 (button) won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-43-1441666951 - Holdem no limit (60/120) - 2015/09/07 23:02:31 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (2420)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3785)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 60
+ellen rypley posts big blind 120
+Dealt to sabre_laser [Js 7s]
+*** PRE-FLOP *** 
+cata  climse folds
+sabre_laser folds
+HURICANNE67 raises 3665 to 3785 and is all-in
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+HURICANNE67 collected 3965 from pot
+*** SUMMARY ***
+Total pot 3965 | No rake
+Seat 8: HURICANNE67 won 3965
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-44-1441667038 - Holdem no limit (60/120) - 2015/09/07 23:03:58 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (2300)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2525)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 60
+cata  climse posts big blind 120
+Dealt to sabre_laser [2d 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: cata  climse (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-45-1441667066 - Holdem no limit (60/120) - 2015/09/07 23:04:26 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (2240)
+Seat 3: cata  climse (2780)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2525)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3c 7d]
+*** PRE-FLOP *** 
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-46-1441667086 - Holdem no limit (60/120) - 2015/09/07 23:04:46 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (2240)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2060)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2525)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+HURICANNE67 posts big blind 120
+Dealt to sabre_laser [2s 8c]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: HURICANNE67 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-47-1441667105 - Holdem no limit (60/120) - 2015/09/07 23:05:05 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (2240)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (4025)
+Seat 9: crazypix (1490)
+Seat 10: piranha11111 (2525)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [5h Td]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: crazypix (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-48-1441667130 - Holdem no limit (60/120) - 2015/09/07 23:05:30 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (2240)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1550)
+Seat 10: piranha11111 (2525)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+piranha11111 posts big blind 120
+Dealt to sabre_laser [6s 5h]
+*** PRE-FLOP *** 
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix calls 60
+piranha11111 raises 2405 to 2525 and is all-in
+crazypix folds
+piranha11111 collected 2645 from pot
+*** SUMMARY ***
+Total pot 2645 | No rake
+Seat 10: piranha11111 (big blind) won 2645
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558285988305043457-49-1441667175 - Holdem no limit (60/120) - 2015/09/07 23:06:15 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (2240)
+Seat 3: cata  climse (2720)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1430)
+Seat 10: piranha11111 (2645)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 60
+ellen rypley posts big blind 120
+Dealt to sabre_laser [4d Jd]
+*** PRE-FLOP *** 
+cata  climse raises 300 to 420
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: cata  climse won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-50-1441667211 - Holdem no limit (80/160) - 2015/09/07 23:06:51 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (2120)
+Seat 3: cata  climse (2900)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1430)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 80
+cata  climse posts big blind 160
+Dealt to sabre_laser [Ad 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+HURICANNE67 folds
+crazypix raises 1270 to 1430 and is all-in
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+crazypix collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Seat 9: crazypix won 1670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-51-1441667234 - Holdem no limit (80/160) - 2015/09/07 23:07:14 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (2040)
+Seat 3: cata  climse (2740)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1670)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [9s 5s]
+*** PRE-FLOP *** 
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-52-1441667269 - Holdem no limit (80/160) - 2015/09/07 23:07:49 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (2040)
+Seat 3: cata  climse (2660)
+Seat 6: sabre_laser (2080)
+Seat 8: HURICANNE67 (3965)
+Seat 9: crazypix (1670)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+HURICANNE67 posts big blind 160
+Dealt to sabre_laser [9s 6h]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: HURICANNE67 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-53-1441667285 - Holdem no limit (80/160) - 2015/09/07 23:08:05 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ellen rypley (2040)
+Seat 3: cata  climse (2660)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (4045)
+Seat 9: crazypix (1670)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+HURICANNE67 posts small blind 80
+crazypix posts big blind 160
+Dealt to sabre_laser [6h 9d]
+*** PRE-FLOP *** 
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 raises 320 to 480
+crazypix folds
+HURICANNE67 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 8: HURICANNE67 (small blind) won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-54-1441667319 - Holdem no limit (80/160) - 2015/09/07 23:08:39 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ellen rypley (2040)
+Seat 3: cata  climse (2660)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (4205)
+Seat 9: crazypix (1510)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+crazypix posts small blind 80
+piranha11111 posts big blind 160
+Dealt to sabre_laser [Qd Td]
+*** PRE-FLOP *** 
+ellen rypley folds
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix raises 160 to 320
+piranha11111 folds
+crazypix collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 9: crazypix (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-55-1441667361 - Holdem no limit (80/160) - 2015/09/07 23:09:21 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ellen rypley (2040)
+Seat 3: cata  climse (2660)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (4205)
+Seat 9: crazypix (1670)
+Seat 10: piranha11111 (2425)
+*** ANTE/BLINDS ***
+piranha11111 posts small blind 80
+ellen rypley posts big blind 160
+Dealt to sabre_laser [7d 8c]
+*** PRE-FLOP *** 
+cata  climse folds
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 raises 2265 to 2425 and is all-in
+ellen rypley folds
+piranha11111 collected 2585 from pot
+*** SUMMARY ***
+Total pot 2585 | No rake
+Seat 10: piranha11111 (small blind) won 2585
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-56-1441667393 - Holdem no limit (80/160) - 2015/09/07 23:09:53 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ellen rypley (1880)
+Seat 3: cata  climse (2660)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (4205)
+Seat 9: crazypix (1670)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+ellen rypley posts small blind 80
+cata  climse posts big blind 160
+Dealt to sabre_laser [9c 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: cata  climse (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-57-1441667421 - Holdem no limit (80/160) - 2015/09/07 23:10:21 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ellen rypley (1800)
+Seat 3: cata  climse (2740)
+Seat 6: sabre_laser (2000)
+Seat 8: HURICANNE67 (4205)
+Seat 9: crazypix (1670)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+cata  climse posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [5h 7h]
+*** PRE-FLOP *** 
+HURICANNE67 folds
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558285988305043457-58-1441667449 - Holdem no limit (80/160) - 2015/09/07 23:10:49 UTC
+Table: 'Double or Nothing(129986086)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ellen rypley (1800)
+Seat 3: cata  climse (2660)
+Seat 6: sabre_laser (2080)
+Seat 8: HURICANNE67 (4205)
+Seat 9: crazypix (1670)
+Seat 10: piranha11111 (2585)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+HURICANNE67 posts big blind 160
+Dealt to sabre_laser [3c As]
+*** PRE-FLOP *** 
+crazypix folds
+piranha11111 folds
+ellen rypley folds
+cata  climse folds
+sabre_laser raises 160 to 320
+HURICANNE67 raises 3885 to 4205 and is all-in
+sabre_laser calls 1760 and is all-in
+*** FLOP *** [5s Jd Qd]
+*** TURN *** [5s Jd Qd][4c]
+*** RIVER *** [5s Jd Qd 4c][5d]
+*** SHOW DOWN ***
+sabre_laser shows [3c As] (One pair : 5)
+HURICANNE67 shows [Kd 8d] (Flush King high)
+HURICANNE67 collected 6285 from pot
+*** SUMMARY ***
+Total pot 6285 | No rake
+Board: [5s Jd Qd 4c 5d]
+Seat 6: sabre_laser (small blind) showed [3c As] and lost with One pair : 5
+Seat 8: HURICANNE67 (big blind) showed [Kd 8d] and won 6285 with Flush King high
+
+

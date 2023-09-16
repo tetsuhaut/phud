@@ -1,0 +1,18 @@
+Good practises:
+- use StringView instead of const String&
+
+_______________________________________________________________________________
+To debug the unit tests using Eclipse, 
+Under the Debug Configurations for the test you need to set a program argument under the Arguments
+tab: 
+--catch_system_errors=no
+Otherwise the executable ignores the information about the breakpoint.
+_______________________________________________________________________________
+To run a specific unit test, use
+--run_test=<testNameFilter>
+to display the tests, use
+--list_content 
+to run the tests with full log, use
+--log_level=all
+ex:
+> unittest --run_test=DatabaseTest/DatabaseTest_readingTablePlayersShouldSucceed --log_level=all

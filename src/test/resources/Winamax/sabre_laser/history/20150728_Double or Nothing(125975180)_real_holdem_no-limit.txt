@@ -1,0 +1,2455 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541059278207713281-1-1438114384 - Holdem no limit (10/20) - 2015/07/28 20:13:04 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #3 is the button
+Seat 1: jadedel (1500)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1500)
+Seat 5: crazypix (1500)
+Seat 6: WILD CHILD (1500)
+Seat 7: ChesasNA (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: Crisssis (1500)
+Seat 10: corentinwin (1500)
+*** ANTE/BLINDS ***
+jpad14 posts small blind 10
+crazypix posts big blind 20
+Dealt to sabre_laser [9c Ks]
+*** PRE-FLOP *** 
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+CVLC folds
+jpad14 calls 10
+crazypix checks
+*** FLOP *** [Kc 3c 2d]
+jpad14 bets 20
+crazypix folds
+jpad14 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kc 3c 2d]
+Seat 4: jpad14 (small blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541059278207713281-2-1438114491 - Holdem no limit (10/20) - 2015/07/28 20:14:51 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1500)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1520)
+Seat 5: crazypix (1480)
+Seat 6: WILD CHILD (1500)
+Seat 7: ChesasNA (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: Crisssis (1500)
+Seat 10: corentinwin (1500)
+*** ANTE/BLINDS ***
+crazypix posts small blind 10
+WILD CHILD posts big blind 20
+Dealt to sabre_laser [6s 3h]
+*** PRE-FLOP *** 
+ChesasNA folds
+sabre_laser folds
+Crisssis raises 30 to 50
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+CVLC folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+Crisssis collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 9: Crisssis won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541059278207713281-3-1438114533 - Holdem no limit (10/20) - 2015/07/28 20:15:33 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1500)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1520)
+Seat 5: crazypix (1470)
+Seat 6: WILD CHILD (1480)
+Seat 7: ChesasNA (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: Crisssis (1530)
+Seat 10: corentinwin (1500)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 10
+ChesasNA posts big blind 20
+Dealt to sabre_laser [Ts Kd]
+*** PRE-FLOP *** 
+sabre_laser raises 50 to 70
+Crisssis folds
+corentinwin calls 70
+jadedel folds
+Mars_Attack folds
+CVLC folds
+jpad14 calls 70
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+*** FLOP *** [4s 5d 6h]
+sabre_laser checks
+corentinwin bets 90
+jpad14 calls 90
+sabre_laser folds
+*** TURN *** [4s 5d 6h][3c]
+corentinwin checks
+jpad14 checks
+*** RIVER *** [4s 5d 6h 3c][Jc]
+corentinwin bets 80
+jpad14 calls 80
+*** SHOW DOWN ***
+corentinwin shows [9c 9s] (One pair : 9)
+jpad14 shows [Qs Qh] (One pair : Queens)
+jpad14 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4s 5d 6h 3c Jc]
+Seat 4: jpad14 showed [Qs Qh] and won 580 with One pair : Queens
+Seat 10: corentinwin showed [9c 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541059278207713281-4-1438114630 - Holdem no limit (10/20) - 2015/07/28 20:17:10 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1500)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1860)
+Seat 5: crazypix (1470)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1480)
+Seat 8: sabre_laser (1430)
+Seat 9: Crisssis (1530)
+Seat 10: corentinwin (1260)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [5h Ah]
+*** PRE-FLOP *** 
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+CVLC folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA calls 10
+sabre_laser checks
+*** FLOP *** [3c Ts Ac]
+ChesasNA checks
+sabre_laser bets 20
+ChesasNA calls 20
+*** TURN *** [3c Ts Ac][3s]
+ChesasNA checks
+sabre_laser bets 80
+ChesasNA folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [3c Ts Ac 3s]
+Seat 8: sabre_laser (big blind) won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541059278207713281-5-1438114716 - Holdem no limit (10/20) - 2015/07/28 20:18:36 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1500)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1860)
+Seat 5: crazypix (1470)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1470)
+Seat 9: Crisssis (1530)
+Seat 10: corentinwin (1260)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Crisssis posts big blind 20
+Dealt to sabre_laser [4c 6d]
+*** PRE-FLOP *** 
+corentinwin calls 20
+jadedel raises 60 to 80
+Mars_Attack folds
+CVLC folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin calls 60
+*** FLOP *** [6h 2s Th]
+corentinwin bets 95
+jadedel folds
+corentinwin shows [Td Ts] (Trips of Tens)
+corentinwin collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Board: [6h 2s Th]
+Seat 10: corentinwin showed [Td Ts] and won 285 with Trips of Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541059278207713281-6-1438114797 - Holdem no limit (15/30) - 2015/07/28 20:19:57 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1420)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1860)
+Seat 5: crazypix (1470)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1460)
+Seat 9: Crisssis (1510)
+Seat 10: corentinwin (1370)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 15
+corentinwin posts big blind 30
+Dealt to sabre_laser [9s 3h]
+*** PRE-FLOP *** 
+jadedel folds
+Mars_Attack folds
+CVLC folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 10: corentinwin (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541059278207713281-7-1438114836 - Holdem no limit (15/30) - 2015/07/28 20:20:36 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1420)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1860)
+Seat 5: crazypix (1470)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1460)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1385)
+*** ANTE/BLINDS ***
+corentinwin posts small blind 15
+jadedel posts big blind 30
+Dealt to sabre_laser [Kc 7s]
+*** PRE-FLOP *** 
+Mars_Attack folds
+CVLC folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin calls 15
+jadedel checks
+*** FLOP *** [9s 2d Ad]
+corentinwin bets 90
+jadedel calls 90
+*** TURN *** [9s 2d Ad][6d]
+corentinwin checks
+jadedel checks
+*** RIVER *** [9s 2d Ad 6d][6c]
+corentinwin bets 60
+jadedel raises 120 to 180
+corentinwin calls 120
+*** SHOW DOWN ***
+corentinwin shows [8c 8h] (Two pairs : 8 and 6)
+jadedel shows [Qd 8d] (Flush Ace high)
+jadedel collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9s 2d Ad 6d 6c]
+Seat 1: jadedel (big blind) showed [Qd 8d] and won 600 with Flush Ace high
+Seat 10: corentinwin (small blind) showed [8c 8h] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541059278207713281-8-1438114927 - Holdem no limit (15/30) - 2015/07/28 20:22:07 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1720)
+Seat 2: Mars_Attack (1500)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (1860)
+Seat 5: crazypix (1470)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1460)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1085)
+*** ANTE/BLINDS ***
+jadedel posts small blind 15
+Mars_Attack posts big blind 30
+Dealt to sabre_laser [Kh 6h]
+*** PRE-FLOP *** 
+CVLC folds
+jpad14 calls 30
+crazypix calls 30
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack checks
+*** FLOP *** [2s 5h 4d]
+Mars_Attack checks
+jpad14 checks
+crazypix checks
+*** TURN *** [2s 5h 4d][4s]
+Mars_Attack checks
+jpad14 checks
+crazypix checks
+*** RIVER *** [2s 5h 4d 4s][3c]
+Mars_Attack checks
+jpad14 bets 150
+crazypix calls 150
+Mars_Attack folds
+*** SHOW DOWN ***
+crazypix shows [Td Ad] (Straight 5 high)
+jpad14 shows [3d 3h] (Full of 3 and 4)
+jpad14 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [2s 5h 4d 4s 3c]
+Seat 4: jpad14 showed [3d 3h] and won 405 with Full of 3 and 4
+Seat 5: crazypix showed [Td Ad] and lost with Straight 5 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541059278207713281-9-1438115037 - Holdem no limit (15/30) - 2015/07/28 20:23:57 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1705)
+Seat 2: Mars_Attack (1470)
+Seat 3: CVLC (1500)
+Seat 4: jpad14 (2085)
+Seat 5: crazypix (1290)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1460)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1085)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 15
+CVLC posts big blind 30
+Dealt to sabre_laser [7h Ad]
+*** PRE-FLOP *** 
+jpad14 raises 75 to 105
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+CVLC raises 75 to 180
+jpad14 calls 75
+*** FLOP *** [3h Qd 5h]
+CVLC bets 375
+jpad14 calls 375
+*** TURN *** [3h Qd 5h][8c]
+CVLC bets 844
+jpad14 raises 686 to 1530 and is all-in
+CVLC calls 101 and is all-in
+*** RIVER *** [3h Qd 5h 8c][8s]
+*** SHOW DOWN ***
+CVLC shows [Kc 7s] (One pair : 8)
+jpad14 shows [Qc Qh] (Full of Queens and 8)
+jpad14 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [3h Qd 5h 8c 8s]
+Seat 3: CVLC (big blind) showed [Kc 7s] and lost with One pair : 8
+Seat 4: jpad14 showed [Qc Qh] and won 3600 with Full of Queens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541059278207713281-10-1438115120 - Holdem no limit (20/40) - 2015/07/28 20:25:20 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1705)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3600)
+Seat 5: crazypix (1290)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1460)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1085)
+*** ANTE/BLINDS ***
+jpad14 posts big blind 40
+Dealt to sabre_laser [Jd Kd]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser calls 40
+Crisssis folds
+corentinwin calls 40
+jadedel folds
+Mars_Attack folds
+jpad14 checks
+*** FLOP *** [Td 4c 5s]
+jpad14 checks
+sabre_laser bets 120
+corentinwin folds
+jpad14 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Td 4c 5s]
+Seat 8: sabre_laser won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541059278207713281-11-1438115221 - Holdem no limit (20/40) - 2015/07/28 20:27:01 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #3 is the button
+Seat 1: jadedel (1705)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3560)
+Seat 5: crazypix (1290)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1540)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1045)
+*** ANTE/BLINDS ***
+jpad14 posts small blind 20
+crazypix posts big blind 40
+Dealt to sabre_laser [Ad Td]
+*** PRE-FLOP *** 
+WILD CHILD folds
+ChesasNA folds
+sabre_laser raises 60 to 100
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 8: sabre_laser won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541059278207713281-12-1438115262 - Holdem no limit (20/40) - 2015/07/28 20:27:42 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1705)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1250)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1045)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+WILD CHILD posts big blind 40
+Dealt to sabre_laser [Qd 5c]
+*** PRE-FLOP *** 
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: WILD CHILD (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541059278207713281-13-1438115287 - Holdem no limit (20/40) - 2015/07/28 20:28:07 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1705)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1490)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1045)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 20
+ChesasNA posts big blind 40
+Dealt to sabre_laser [Kc 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+corentinwin calls 40
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA checks
+*** FLOP *** [9s Qs Kd]
+ChesasNA checks
+corentinwin checks
+*** TURN *** [9s Qs Kd][2d]
+ChesasNA checks
+corentinwin checks
+*** RIVER *** [9s Qs Kd 2d][4d]
+ChesasNA checks
+corentinwin checks
+*** SHOW DOWN ***
+ChesasNA shows [7d 5h] (High card : King)
+corentinwin shows [Jd 3d] (Flush King high)
+corentinwin collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9s Qs Kd 2d 4d]
+Seat 7: ChesasNA (big blind) showed [7d 5h] and lost with High card : King
+Seat 10: corentinwin showed [Jd 3d] and won 100 with Flush King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541059278207713281-14-1438115370 - Holdem no limit (20/40) - 2015/07/28 20:29:30 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1705)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1400)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1105)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [2h 6s]
+*** PRE-FLOP *** 
+Crisssis folds
+corentinwin folds
+jadedel raises 40 to 80
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+jadedel collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: jadedel won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541059278207713281-15-1438115448 - Holdem no limit (20/40) - 2015/07/28 20:30:48 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1765)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1560)
+Seat 9: Crisssis (1495)
+Seat 10: corentinwin (1105)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Crisssis posts big blind 40
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser calls 20
+Crisssis checks
+*** FLOP *** [Jc 7c 9s]
+sabre_laser bets 80
+Crisssis folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jc 7c 9s]
+Seat 8: sabre_laser (small blind) won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541059278207713281-16-1438115504 - Holdem no limit (30/60) - 2015/07/28 20:31:44 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1765)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1455)
+Seat 10: corentinwin (1105)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 30
+corentinwin posts big blind 60
+Dealt to sabre_laser [6s 8h]
+*** PRE-FLOP *** 
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 10: corentinwin (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541059278207713281-17-1438115537 - Holdem no limit (30/60) - 2015/07/28 20:32:17 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1765)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1425)
+Seat 10: corentinwin (1135)
+*** ANTE/BLINDS ***
+corentinwin posts small blind 30
+jadedel posts big blind 60
+Dealt to sabre_laser [Jd Kh]
+*** PRE-FLOP *** 
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin calls 30
+jadedel checks
+*** FLOP *** [Jc Tc 6s]
+corentinwin checks
+jadedel bets 60
+corentinwin folds
+jadedel collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jc Tc 6s]
+Seat 1: jadedel (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541059278207713281-18-1438115612 - Holdem no limit (30/60) - 2015/07/28 20:33:32 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1825)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1425)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+jadedel posts small blind 30
+Mars_Attack posts big blind 60
+Dealt to sabre_laser [Qs 7c]
+*** PRE-FLOP *** 
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis raises 90 to 150
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+Crisssis collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: Crisssis won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541059278207713281-19-1438115649 - Holdem no limit (30/60) - 2015/07/28 20:34:09 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1395)
+Seat 4: jpad14 (3540)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1515)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 30
+jpad14 posts big blind 60
+Dealt to sabre_laser [Ac 5c]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: jpad14 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541059278207713281-20-1438115708 - Holdem no limit (30/60) - 2015/07/28 20:35:08 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1365)
+Seat 4: jpad14 (3570)
+Seat 5: crazypix (1230)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1600)
+Seat 9: Crisssis (1515)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+jpad14 posts small blind 30
+crazypix posts big blind 60
+Dealt to sabre_laser [Jd Td]
+*** PRE-FLOP *** 
+WILD CHILD folds
+ChesasNA folds
+sabre_laser calls 60
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 calls 30
+crazypix checks
+*** FLOP *** [Qs 5h 4h]
+jpad14 bets 60
+crazypix calls 60
+sabre_laser folds
+*** TURN *** [Qs 5h 4h][Ah]
+jpad14 bets 60
+crazypix calls 60
+*** RIVER *** [Qs 5h 4h Ah][3d]
+jpad14 checks
+crazypix checks
+*** SHOW DOWN ***
+jpad14 shows [7d Qh] (One pair : Queens)
+crazypix shows [Qc Th] (One pair : Queens)
+crazypix collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Qs 5h 4h Ah 3d]
+Seat 4: jpad14 (small blind) showed [7d Qh] and lost with One pair : Queens
+Seat 5: crazypix (big blind) showed [Qc Th] and won 420 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541059278207713281-21-1438115814 - Holdem no limit (30/60) - 2015/07/28 20:36:54 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1365)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1470)
+Seat 6: WILD CHILD (1470)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1540)
+Seat 9: Crisssis (1515)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+crazypix posts small blind 30
+WILD CHILD posts big blind 60
+Dealt to sabre_laser [8c 5d]
+*** PRE-FLOP *** 
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack raises 60 to 120
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+Mars_Attack collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: Mars_Attack won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541059278207713281-22-1438115854 - Holdem no limit (40/80) - 2015/07/28 20:37:34 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1440)
+Seat 6: WILD CHILD (1410)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1540)
+Seat 9: Crisssis (1515)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 40
+ChesasNA posts big blind 80
+Dealt to sabre_laser [2d 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 7: ChesasNA (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541059278207713281-23-1438115891 - Holdem no limit (40/80) - 2015/07/28 20:38:11 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1440)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1420)
+Seat 8: sabre_laser (1540)
+Seat 9: Crisssis (1515)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [As 8d]
+*** PRE-FLOP *** 
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: sabre_laser (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541059278207713281-24-1438115933 - Holdem no limit (40/80) - 2015/07/28 20:38:53 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1440)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1580)
+Seat 9: Crisssis (1515)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Crisssis posts big blind 80
+Dealt to sabre_laser [Qs Ac]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser raises 80 to 160
+Crisssis folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: sabre_laser (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541059278207713281-25-1438115988 - Holdem no limit (40/80) - 2015/07/28 20:39:48 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1440)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1660)
+Seat 9: Crisssis (1435)
+Seat 10: corentinwin (1075)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 40
+corentinwin posts big blind 80
+Dealt to sabre_laser [Qd Ad]
+*** PRE-FLOP *** 
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix calls 80
+WILD CHILD folds
+ChesasNA folds
+sabre_laser calls 80
+Crisssis folds
+corentinwin checks
+*** FLOP *** [Kh 9d 5d]
+corentinwin checks
+crazypix bets 140
+sabre_laser calls 140
+corentinwin folds
+*** TURN *** [Kh 9d 5d][5s]
+crazypix bets 218
+sabre_laser calls 218
+*** RIVER *** [Kh 9d 5d 5s][Ks]
+crazypix bets 1002 and is all-in
+sabre_laser folds
+crazypix collected 1998 from pot
+*** SUMMARY ***
+Total pot 1998 | No rake
+Board: [Kh 9d 5d 5s Ks]
+Seat 5: crazypix won 1998
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541059278207713281-26-1438116069 - Holdem no limit (40/80) - 2015/07/28 20:41:09 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1998)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1222)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (995)
+*** ANTE/BLINDS ***
+corentinwin posts small blind 40
+jadedel posts big blind 80
+Dealt to sabre_laser [3s 6d]
+*** PRE-FLOP *** 
+Mars_Attack folds
+jpad14 folds
+crazypix calls 80
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin calls 40
+jadedel checks
+*** FLOP *** [9h 4h 6c]
+corentinwin bets 915 and is all-in
+jadedel folds
+crazypix folds
+corentinwin collected 1155 from pot
+*** SUMMARY ***
+Total pot 1155 | No rake
+Board: [9h 4h 6c]
+Seat 10: corentinwin (small blind) won 1155
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541059278207713281-27-1438116140 - Holdem no limit (40/80) - 2015/07/28 20:42:20 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1715)
+Seat 2: Mars_Attack (1455)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1918)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1222)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+jadedel posts small blind 40
+Mars_Attack posts big blind 80
+Dealt to sabre_laser [2s Ah]
+*** PRE-FLOP *** 
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel raises 80 to 160
+Mars_Attack folds
+jadedel collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: jadedel (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541059278207713281-28-1438116195 - Holdem no limit (60/120) - 2015/07/28 20:43:15 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1375)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1918)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1222)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 60
+jpad14 posts big blind 120
+Dealt to sabre_laser [2s Td]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: jpad14 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541059278207713281-29-1438116310 - Holdem no limit (60/120) - 2015/07/28 20:45:10 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1795)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3450)
+Seat 5: crazypix (1918)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1222)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+jpad14 posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [8s 9d]
+*** PRE-FLOP *** 
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel raises 120 to 240
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+jadedel collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 1: jadedel won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541059278207713281-30-1438116349 - Holdem no limit (60/120) - 2015/07/28 20:45:49 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1975)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (1798)
+Seat 6: WILD CHILD (1370)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1222)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+WILD CHILD posts big blind 120
+Dealt to sabre_laser [6d 4c]
+*** PRE-FLOP *** 
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel raises 120 to 240
+Mars_Attack folds
+jpad14 folds
+crazypix raises 1558 to 1798 and is all-in
+WILD CHILD folds
+jadedel folds
+crazypix collected 2158 from pot
+*** SUMMARY ***
+Total pot 2158 | No rake
+Seat 5: crazypix (small blind) won 2158
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541059278207713281-31-1438116438 - Holdem no limit (60/120) - 2015/07/28 20:47:18 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1735)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (2158)
+Seat 6: WILD CHILD (1250)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1222)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 60
+ChesasNA posts big blind 120
+Dealt to sabre_laser [4s 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: ChesasNA (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541059278207713281-32-1438116474 - Holdem no limit (60/120) - 2015/07/28 20:47:54 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1735)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (2158)
+Seat 6: WILD CHILD (1190)
+Seat 7: ChesasNA (1440)
+Seat 8: sabre_laser (1222)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [4d Qs]
+*** PRE-FLOP *** 
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541059278207713281-33-1438116511 - Holdem no limit (60/120) - 2015/07/28 20:48:31 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1735)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (2158)
+Seat 6: WILD CHILD (1190)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1282)
+Seat 9: Crisssis (1395)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Crisssis posts big blind 120
+Dealt to sabre_laser [Ks 6s]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA folds
+sabre_laser calls 60
+Crisssis checks
+*** FLOP *** [2c 8d 7c]
+sabre_laser checks
+Crisssis checks
+*** TURN *** [2c 8d 7c][6h]
+sabre_laser bets 120
+Crisssis folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2c 8d 7c 6h]
+Seat 8: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 6 - HandId: #541059278207713281-34-1438116605 - Holdem no limit (80/160) - 2015/07/28 20:50:05 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1735)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (2158)
+Seat 6: WILD CHILD (1190)
+Seat 7: ChesasNA (1380)
+Seat 8: sabre_laser (1402)
+Seat 9: Crisssis (1275)
+Seat 10: corentinwin (1155)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 80
+corentinwin posts big blind 160
+Dealt to sabre_laser [7d 4d]
+*** PRE-FLOP *** 
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA raises 1220 to 1380 and is all-in
+sabre_laser folds
+Crisssis folds
+corentinwin calls 995 and is all-in
+*** FLOP *** [8d Qs 8s]
+*** TURN *** [8d Qs 8s][Qh]
+*** RIVER *** [8d Qs 8s Qh][Kh]
+*** SHOW DOWN ***
+corentinwin shows [Ah Ac] (Two pairs : Aces and Queens)
+ChesasNA shows [Th Ad] (Two pairs : Queens and 8)
+ChesasNA collected 225 from side pot 1
+corentinwin collected 2390 from main pot
+*** SUMMARY ***
+Total pot 2615 | No rake
+Board: [8d Qs 8s Qh Kh]
+Seat 7: ChesasNA showed [Th Ad] and won 225 with Two pairs : Queens and 8
+Seat 10: corentinwin (big blind) showed [Ah Ac] and won 2390 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 6 - HandId: #541059278207713281-35-1438116651 - Holdem no limit (80/160) - 2015/07/28 20:50:51 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1735)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (2158)
+Seat 6: WILD CHILD (1190)
+Seat 7: ChesasNA (225)
+Seat 8: sabre_laser (1402)
+Seat 9: Crisssis (1195)
+Seat 10: corentinwin (2390)
+*** ANTE/BLINDS ***
+corentinwin posts small blind 80
+jadedel posts big blind 160
+Dealt to sabre_laser [7c Js]
+*** PRE-FLOP *** 
+Mars_Attack folds
+jpad14 folds
+crazypix raises 1998 to 2158 and is all-in
+WILD CHILD folds
+ChesasNA folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+crazypix collected 2398 from pot
+*** SUMMARY ***
+Total pot 2398 | No rake
+Seat 5: crazypix won 2398
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 6 - HandId: #541059278207713281-36-1438116683 - Holdem no limit (80/160) - 2015/07/28 20:51:23 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1575)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (2398)
+Seat 6: WILD CHILD (1190)
+Seat 7: ChesasNA (225)
+Seat 8: sabre_laser (1402)
+Seat 9: Crisssis (1195)
+Seat 10: corentinwin (2310)
+*** ANTE/BLINDS ***
+jadedel posts small blind 80
+Mars_Attack posts big blind 160
+Dealt to sabre_laser [9c 6h]
+*** PRE-FLOP *** 
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+ChesasNA raises 65 to 225 and is all-in
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+ChesasNA collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 7: ChesasNA won 465
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 6 - HandId: #541059278207713281-37-1438116719 - Holdem no limit (80/160) - 2015/07/28 20:51:59 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1495)
+Seat 2: Mars_Attack (1155)
+Seat 4: jpad14 (3390)
+Seat 5: crazypix (2398)
+Seat 6: WILD CHILD (1190)
+Seat 7: ChesasNA (465)
+Seat 8: sabre_laser (1402)
+Seat 9: Crisssis (1195)
+Seat 10: corentinwin (2310)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 80
+jpad14 posts big blind 160
+Dealt to sabre_laser [3h 2s]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD folds
+ChesasNA raises 305 to 465 and is all-in
+sabre_laser folds
+Crisssis raises 730 to 1195 and is all-in
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+*** FLOP *** [6d 3s Js]
+*** TURN *** [6d 3s Js][5c]
+*** RIVER *** [6d 3s Js 5c][6s]
+*** SHOW DOWN ***
+ChesasNA shows [Kc 9d] (One pair : 6)
+Crisssis shows [Qs Qc] (Two pairs : Queens and 6)
+Crisssis collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [6d 3s Js 5c 6s]
+Seat 7: ChesasNA showed [Kc 9d] and lost with One pair : 6
+Seat 9: Crisssis showed [Qs Qc] and won 1900 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 6 - HandId: #541059278207713281-38-1438116767 - Holdem no limit (80/160) - 2015/07/28 20:52:47 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1495)
+Seat 2: Mars_Attack (1075)
+Seat 4: jpad14 (3230)
+Seat 5: crazypix (2398)
+Seat 6: WILD CHILD (1190)
+Seat 8: sabre_laser (1402)
+Seat 9: Crisssis (1900)
+Seat 10: corentinwin (2310)
+*** ANTE/BLINDS ***
+jpad14 posts small blind 80
+crazypix posts big blind 160
+Dealt to sabre_laser [Qh Th]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser raises 1242 to 1402 and is all-in
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+sabre_laser collected 1642 from pot
+*** SUMMARY ***
+Total pot 1642 | No rake
+Seat 8: sabre_laser won 1642
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 6 - HandId: #541059278207713281-39-1438116796 - Holdem no limit (80/160) - 2015/07/28 20:53:16 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1495)
+Seat 2: Mars_Attack (1075)
+Seat 4: jpad14 (3150)
+Seat 5: crazypix (2238)
+Seat 6: WILD CHILD (1190)
+Seat 8: sabre_laser (1642)
+Seat 9: Crisssis (1900)
+Seat 10: corentinwin (2310)
+*** ANTE/BLINDS ***
+crazypix posts small blind 80
+WILD CHILD posts big blind 160
+Dealt to sabre_laser [2s 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack raises 915 to 1075 and is all-in
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+Mars_Attack collected 1315 from pot
+*** SUMMARY ***
+Total pot 1315 | No rake
+Seat 2: Mars_Attack won 1315
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 6 - HandId: #541059278207713281-40-1438116858 - Holdem no limit (80/160) - 2015/07/28 20:54:18 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1495)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3150)
+Seat 5: crazypix (2158)
+Seat 6: WILD CHILD (1030)
+Seat 8: sabre_laser (1642)
+Seat 9: Crisssis (1900)
+Seat 10: corentinwin (2310)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [6c 3d]
+*** PRE-FLOP *** 
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-41-1438116903 - Holdem no limit (10/100/200) - 2015/07/28 20:55:03 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1495)
+Seat 2: Mars_Attack (1315)
+Seat 4: jpad14 (3150)
+Seat 5: crazypix (2158)
+Seat 6: WILD CHILD (950)
+Seat 8: sabre_laser (1722)
+Seat 9: Crisssis (1900)
+Seat 10: corentinwin (2310)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Crisssis posts ante 10
+jadedel posts ante 10
+Mars_Attack posts ante 10
+jpad14 posts ante 10
+crazypix posts ante 10
+WILD CHILD posts ante 10
+corentinwin posts ante 10
+sabre_laser posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [Ks Tc]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix raises 1948 to 2148 and is all-in
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+crazypix collected 2528 from pot
+*** SUMMARY ***
+Total pot 2528 | No rake
+Seat 5: crazypix won 2528
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-42-1438116964 - Holdem no limit (10/100/200) - 2015/07/28 20:56:04 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1485)
+Seat 2: Mars_Attack (1305)
+Seat 4: jpad14 (3140)
+Seat 5: crazypix (2528)
+Seat 6: WILD CHILD (940)
+Seat 8: sabre_laser (1612)
+Seat 9: Crisssis (1690)
+Seat 10: corentinwin (2300)
+*** ANTE/BLINDS ***
+Crisssis posts ante 10
+corentinwin posts ante 10
+jadedel posts ante 10
+Mars_Attack posts ante 10
+jpad14 posts ante 10
+crazypix posts ante 10
+WILD CHILD posts ante 10
+sabre_laser posts ante 10
+Crisssis posts small blind 100
+corentinwin posts big blind 200
+Dealt to sabre_laser [4s Ks]
+*** PRE-FLOP *** 
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+crazypix folds
+WILD CHILD raises 730 to 930 and is all-in
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+WILD CHILD collected 1310 from pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Seat 6: WILD CHILD won 1310
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-43-1438117012 - Holdem no limit (10/100/200) - 2015/07/28 20:56:52 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1475)
+Seat 2: Mars_Attack (1295)
+Seat 4: jpad14 (3130)
+Seat 5: crazypix (2518)
+Seat 6: WILD CHILD (1310)
+Seat 8: sabre_laser (1602)
+Seat 9: Crisssis (1580)
+Seat 10: corentinwin (2090)
+*** ANTE/BLINDS ***
+corentinwin posts ante 10
+jadedel posts ante 10
+Mars_Attack posts ante 10
+jpad14 posts ante 10
+crazypix posts ante 10
+WILD CHILD posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+corentinwin posts small blind 100
+jadedel posts big blind 200
+Dealt to sabre_laser [Kd Kc]
+*** PRE-FLOP *** 
+Mars_Attack folds
+jpad14 folds
+crazypix raises 200 to 400
+WILD CHILD folds
+sabre_laser raises 1192 to 1592 and is all-in
+Crisssis folds
+corentinwin folds
+jadedel folds
+crazypix folds
+sabre_laser collected 2372 from pot
+*** SUMMARY ***
+Total pot 2372 | No rake
+Seat 8: sabre_laser won 2372
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-44-1438117047 - Holdem no limit (10/100/200) - 2015/07/28 20:57:27 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1265)
+Seat 2: Mars_Attack (1285)
+Seat 4: jpad14 (3120)
+Seat 5: crazypix (2108)
+Seat 6: WILD CHILD (1300)
+Seat 8: sabre_laser (2372)
+Seat 9: Crisssis (1570)
+Seat 10: corentinwin (1980)
+*** ANTE/BLINDS ***
+jadedel posts ante 10
+Mars_Attack posts ante 10
+jpad14 posts ante 10
+crazypix posts ante 10
+WILD CHILD posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+corentinwin posts ante 10
+jadedel posts small blind 100
+Mars_Attack posts big blind 200
+Dealt to sabre_laser [Jc Td]
+*** PRE-FLOP *** 
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel raises 1055 to 1255 and is all-in
+Mars_Attack folds
+jadedel collected 1535 from pot
+*** SUMMARY ***
+Total pot 1535 | No rake
+Seat 1: jadedel (small blind) won 1535
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-45-1438117071 - Holdem no limit (10/100/200) - 2015/07/28 20:57:51 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1535)
+Seat 2: Mars_Attack (1075)
+Seat 4: jpad14 (3110)
+Seat 5: crazypix (2098)
+Seat 6: WILD CHILD (1290)
+Seat 8: sabre_laser (2362)
+Seat 9: Crisssis (1560)
+Seat 10: corentinwin (1970)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 10
+jpad14 posts ante 10
+jadedel posts ante 10
+crazypix posts ante 10
+WILD CHILD posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+corentinwin posts ante 10
+Mars_Attack posts small blind 100
+jpad14 posts big blind 200
+Dealt to sabre_laser [Qs 8h]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD raises 1080 to 1280 and is all-in
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack folds
+jpad14 folds
+WILD CHILD collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | No rake
+Seat 6: WILD CHILD won 1660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-46-1438117097 - Holdem no limit (10/100/200) - 2015/07/28 20:58:17 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1525)
+Seat 2: Mars_Attack (965)
+Seat 4: jpad14 (2900)
+Seat 5: crazypix (2088)
+Seat 6: WILD CHILD (1660)
+Seat 8: sabre_laser (2352)
+Seat 9: Crisssis (1550)
+Seat 10: corentinwin (1960)
+*** ANTE/BLINDS ***
+jpad14 posts ante 10
+crazypix posts ante 10
+jadedel posts ante 10
+Mars_Attack posts ante 10
+WILD CHILD posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+corentinwin posts ante 10
+jpad14 posts small blind 100
+crazypix posts big blind 200
+Dealt to sabre_laser [6c Kh]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+Mars_Attack raises 755 to 955 and is all-in
+jpad14 folds
+crazypix calls 755
+*** FLOP *** [7d 7c 5d]
+*** TURN *** [7d 7c 5d][3s]
+*** RIVER *** [7d 7c 5d 3s][Qs]
+*** SHOW DOWN ***
+Mars_Attack shows [9h Kd] (One pair : 7)
+crazypix shows [Ad 9s] (One pair : 7)
+crazypix collected 2090 from pot
+*** SUMMARY ***
+Total pot 2090 | No rake
+Board: [7d 7c 5d 3s Qs]
+Seat 2: Mars_Attack (button) showed [9h Kd] and lost with One pair : 7
+Seat 5: crazypix (big blind) showed [Ad 9s] and won 2090 with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-47-1438117162 - Holdem no limit (10/100/200) - 2015/07/28 20:59:22 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1515)
+Seat 4: jpad14 (2790)
+Seat 5: crazypix (3213)
+Seat 6: WILD CHILD (1650)
+Seat 8: sabre_laser (2342)
+Seat 9: Crisssis (1540)
+Seat 10: corentinwin (1950)
+*** ANTE/BLINDS ***
+crazypix posts ante 10
+WILD CHILD posts ante 10
+jadedel posts ante 10
+jpad14 posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+corentinwin posts ante 10
+crazypix posts small blind 100
+WILD CHILD posts big blind 200
+Dealt to sabre_laser [7c Kh]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix raises 3003 to 3203 and is all-in
+WILD CHILD folds
+crazypix collected 3473 from pot
+*** SUMMARY ***
+Total pot 3473 | No rake
+Seat 5: crazypix (small blind) won 3473
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-48-1438117216 - Holdem no limit (10/100/200) - 2015/07/28 21:00:16 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1505)
+Seat 4: jpad14 (2780)
+Seat 5: crazypix (3473)
+Seat 6: WILD CHILD (1440)
+Seat 8: sabre_laser (2332)
+Seat 9: Crisssis (1530)
+Seat 10: corentinwin (1940)
+*** ANTE/BLINDS ***
+WILD CHILD posts ante 10
+sabre_laser posts ante 10
+jadedel posts ante 10
+jpad14 posts ante 10
+crazypix posts ante 10
+Crisssis posts ante 10
+corentinwin posts ante 10
+WILD CHILD posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [3d Ks]
+*** PRE-FLOP *** 
+Crisssis folds
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD raises 1230 to 1430 and is all-in
+sabre_laser folds
+WILD CHILD collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 6: WILD CHILD (small blind) won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 7 - HandId: #541059278207713281-49-1438117246 - Holdem no limit (10/100/200) - 2015/07/28 21:00:46 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1495)
+Seat 4: jpad14 (2770)
+Seat 5: crazypix (3463)
+Seat 6: WILD CHILD (1700)
+Seat 8: sabre_laser (2122)
+Seat 9: Crisssis (1520)
+Seat 10: corentinwin (1930)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Crisssis posts ante 10
+jadedel posts ante 10
+jpad14 posts ante 10
+crazypix posts ante 10
+WILD CHILD posts ante 10
+corentinwin posts ante 10
+sabre_laser posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [Ts 7c]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD raises 1490 to 1690 and is all-in
+sabre_laser folds
+Crisssis folds
+WILD CHILD collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Seat 6: WILD CHILD (button) won 2060
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-50-1438117280 - Holdem no limit (20/150/300) - 2015/07/28 21:01:20 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1485)
+Seat 4: jpad14 (2760)
+Seat 5: crazypix (3453)
+Seat 6: WILD CHILD (2060)
+Seat 8: sabre_laser (2012)
+Seat 9: Crisssis (1310)
+Seat 10: corentinwin (1920)
+*** ANTE/BLINDS ***
+Crisssis posts ante 20
+corentinwin posts ante 20
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+Crisssis posts small blind 150
+corentinwin posts big blind 300
+Dealt to sabre_laser [Jh Jc]
+*** PRE-FLOP *** 
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser raises 300 to 600
+Crisssis folds
+corentinwin folds
+sabre_laser collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 8: sabre_laser (button) won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-51-1438117309 - Holdem no limit (20/150/300) - 2015/07/28 21:01:49 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1465)
+Seat 4: jpad14 (2740)
+Seat 5: crazypix (3433)
+Seat 6: WILD CHILD (2040)
+Seat 8: sabre_laser (2582)
+Seat 9: Crisssis (1140)
+Seat 10: corentinwin (1600)
+*** ANTE/BLINDS ***
+corentinwin posts ante 20
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+corentinwin posts small blind 150
+jadedel posts big blind 300
+Dealt to sabre_laser [2h 4c]
+*** PRE-FLOP *** 
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 1: jadedel (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-52-1438117327 - Holdem no limit (20/150/300) - 2015/07/28 21:02:07 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1735)
+Seat 4: jpad14 (2720)
+Seat 5: crazypix (3413)
+Seat 6: WILD CHILD (2020)
+Seat 8: sabre_laser (2562)
+Seat 9: Crisssis (1120)
+Seat 10: corentinwin (1430)
+*** ANTE/BLINDS ***
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+corentinwin posts ante 20
+jadedel posts small blind 150
+jpad14 posts big blind 300
+Dealt to sabre_laser [3h Jh]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+corentinwin raises 1110 to 1410 and is all-in
+jadedel folds
+jpad14 folds
+corentinwin collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Seat 10: corentinwin (button) won 2000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-53-1438117368 - Holdem no limit (20/150/300) - 2015/07/28 21:02:48 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1565)
+Seat 4: jpad14 (2400)
+Seat 5: crazypix (3393)
+Seat 6: WILD CHILD (2000)
+Seat 8: sabre_laser (2542)
+Seat 9: Crisssis (1100)
+Seat 10: corentinwin (2000)
+*** ANTE/BLINDS ***
+jpad14 posts ante 20
+crazypix posts ante 20
+jadedel posts ante 20
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+corentinwin posts ante 20
+jpad14 posts small blind 150
+crazypix posts big blind 300
+Dealt to sabre_laser [As Ad]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser raises 2222 to 2522 and is all-in
+Crisssis folds
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix folds
+sabre_laser collected 3112 from pot
+*** SUMMARY ***
+Total pot 3112 | No rake
+Seat 8: sabre_laser won 3112
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-54-1438117396 - Holdem no limit (20/150/300) - 2015/07/28 21:03:16 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1545)
+Seat 4: jpad14 (2230)
+Seat 5: crazypix (3073)
+Seat 6: WILD CHILD (1980)
+Seat 8: sabre_laser (3112)
+Seat 9: Crisssis (1080)
+Seat 10: corentinwin (1980)
+*** ANTE/BLINDS ***
+crazypix posts ante 20
+WILD CHILD posts ante 20
+jadedel posts ante 20
+jpad14 posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+corentinwin posts ante 20
+crazypix posts small blind 150
+WILD CHILD posts big blind 300
+Dealt to sabre_laser [Ts Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 6: WILD CHILD (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-55-1438117443 - Holdem no limit (20/150/300) - 2015/07/28 21:04:03 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1525)
+Seat 4: jpad14 (2210)
+Seat 5: crazypix (2903)
+Seat 6: WILD CHILD (2250)
+Seat 8: sabre_laser (3092)
+Seat 9: Crisssis (1060)
+Seat 10: corentinwin (1960)
+*** ANTE/BLINDS ***
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+Crisssis posts ante 20
+corentinwin posts ante 20
+WILD CHILD posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Qh Kc]
+*** PRE-FLOP *** 
+Crisssis folds
+corentinwin folds
+jadedel raises 1205 to 1505 and is all-in
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+jadedel collected 2095 from pot
+*** SUMMARY ***
+Total pot 2095 | No rake
+Seat 1: jadedel won 2095
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-56-1438117472 - Holdem no limit (20/150/300) - 2015/07/28 21:04:32 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (2095)
+Seat 4: jpad14 (2190)
+Seat 5: crazypix (2883)
+Seat 6: WILD CHILD (2080)
+Seat 8: sabre_laser (2772)
+Seat 9: Crisssis (1040)
+Seat 10: corentinwin (1940)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Crisssis posts ante 20
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+WILD CHILD posts ante 20
+corentinwin posts ante 20
+sabre_laser posts small blind 150
+Crisssis posts big blind 300
+Dealt to sabre_laser [As 5h]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser raises 450 to 750
+Crisssis folds
+sabre_laser collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 8: sabre_laser (small blind) won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-57-1438117521 - Holdem no limit (20/150/300) - 2015/07/28 21:05:21 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (2075)
+Seat 4: jpad14 (2170)
+Seat 5: crazypix (2863)
+Seat 6: WILD CHILD (2060)
+Seat 8: sabre_laser (3192)
+Seat 9: Crisssis (720)
+Seat 10: corentinwin (1920)
+*** ANTE/BLINDS ***
+Crisssis posts ante 20
+corentinwin posts ante 20
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+Crisssis posts small blind 150
+corentinwin posts big blind 300
+Dealt to sabre_laser [6s 5h]
+*** PRE-FLOP *** 
+jadedel folds
+jpad14 raises 1850 to 2150 and is all-in
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jpad14 collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Seat 4: jpad14 won 2740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-58-1438117555 - Holdem no limit (20/150/300) - 2015/07/28 21:05:55 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (2055)
+Seat 4: jpad14 (2740)
+Seat 5: crazypix (2843)
+Seat 6: WILD CHILD (2040)
+Seat 8: sabre_laser (3172)
+Seat 9: Crisssis (550)
+Seat 10: corentinwin (1600)
+*** ANTE/BLINDS ***
+corentinwin posts ante 20
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+corentinwin posts small blind 150
+jadedel posts big blind 300
+Dealt to sabre_laser [Ah 8s]
+*** PRE-FLOP *** 
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 1: jadedel (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 8 - HandId: #541059278207713281-59-1438117584 - Holdem no limit (20/150/300) - 2015/07/28 21:06:24 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (2325)
+Seat 4: jpad14 (2720)
+Seat 5: crazypix (2823)
+Seat 6: WILD CHILD (2020)
+Seat 8: sabre_laser (3152)
+Seat 9: Crisssis (530)
+Seat 10: corentinwin (1430)
+*** ANTE/BLINDS ***
+jadedel posts ante 20
+jpad14 posts ante 20
+crazypix posts ante 20
+WILD CHILD posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+corentinwin posts ante 20
+jadedel posts small blind 150
+jpad14 posts big blind 300
+Dealt to sabre_laser [As Js]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD folds
+sabre_laser raises 300 to 600
+Crisssis folds
+corentinwin raises 810 to 1410 and is all-in
+jadedel folds
+jpad14 folds
+sabre_laser calls 810
+*** FLOP *** [7d 5d Qd]
+*** TURN *** [7d 5d Qd][5h]
+*** RIVER *** [7d 5d Qd 5h][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [As Js] (One pair : 5)
+corentinwin shows [Qs Tc] (Two pairs : Queens and 5)
+corentinwin collected 3410 from pot
+*** SUMMARY ***
+Total pot 3410 | No rake
+Board: [7d 5d Qd 5h Kh]
+Seat 8: sabre_laser showed [As Js] and lost with One pair : 5
+Seat 10: corentinwin (button) showed [Qs Tc] and won 3410 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-60-1438117624 - Holdem no limit (50/200/400) - 2015/07/28 21:07:04 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (2155)
+Seat 4: jpad14 (2400)
+Seat 5: crazypix (2803)
+Seat 6: WILD CHILD (2000)
+Seat 8: sabre_laser (1722)
+Seat 9: Crisssis (510)
+Seat 10: corentinwin (3410)
+*** ANTE/BLINDS ***
+jpad14 posts ante 50
+crazypix posts ante 50
+jadedel posts ante 50
+WILD CHILD posts ante 50
+sabre_laser posts ante 50
+Crisssis posts ante 50
+corentinwin posts ante 50
+jpad14 posts small blind 200
+crazypix posts big blind 400
+Dealt to sabre_laser [8s 7c]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser folds
+Crisssis folds
+corentinwin folds
+jadedel folds
+jpad14 raises 1950 to 2350 and is all-in
+crazypix folds
+jpad14 collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Seat 4: jpad14 (small blind) won 3100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-61-1438117647 - Holdem no limit (50/200/400) - 2015/07/28 21:07:27 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (2105)
+Seat 4: jpad14 (3100)
+Seat 5: crazypix (2353)
+Seat 6: WILD CHILD (1950)
+Seat 8: sabre_laser (1672)
+Seat 9: Crisssis (460)
+Seat 10: corentinwin (3360)
+*** ANTE/BLINDS ***
+crazypix posts ante 50
+WILD CHILD posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+sabre_laser posts ante 50
+Crisssis posts ante 50
+corentinwin posts ante 50
+crazypix posts small blind 200
+WILD CHILD posts big blind 400
+Dealt to sabre_laser [Ts Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis raises 10 to 410 and is all-in
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix calls 210
+WILD CHILD calls 10
+*** FLOP *** [6h As Tc]
+crazypix checks
+WILD CHILD checks
+*** TURN *** [6h As Tc][9s]
+crazypix checks
+WILD CHILD checks
+*** RIVER *** [6h As Tc 9s][Th]
+crazypix checks
+WILD CHILD checks
+*** SHOW DOWN ***
+WILD CHILD shows [3s 7d] (One pair : Tens)
+Crisssis shows [Kh Js] (One pair : Tens)
+crazypix shows [Kd 6d] (Two pairs : Tens and 6)
+crazypix collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Board: [6h As Tc 9s Th]
+Seat 5: crazypix (small blind) showed [Kd 6d] and won 1580 with Two pairs : Tens and 6
+Seat 6: WILD CHILD (big blind) showed [3s 7d] and lost with One pair : Tens
+Seat 9: Crisssis showed [Kh Js] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-62-1438117731 - Holdem no limit (50/200/400) - 2015/07/28 21:08:51 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (2055)
+Seat 4: jpad14 (3050)
+Seat 5: crazypix (3473)
+Seat 6: WILD CHILD (1490)
+Seat 8: sabre_laser (1622)
+Seat 10: corentinwin (3310)
+*** ANTE/BLINDS ***
+WILD CHILD posts ante 50
+sabre_laser posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+crazypix posts ante 50
+corentinwin posts ante 50
+WILD CHILD posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [5c Qs]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix raises 3023 to 3423 and is all-in
+WILD CHILD folds
+sabre_laser folds
+crazypix collected 4323 from pot
+*** SUMMARY ***
+Total pot 4323 | No rake
+Seat 5: crazypix (button) won 4323
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-63-1438117754 - Holdem no limit (50/200/400) - 2015/07/28 21:09:14 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (2005)
+Seat 4: jpad14 (3000)
+Seat 5: crazypix (4323)
+Seat 6: WILD CHILD (1240)
+Seat 8: sabre_laser (1172)
+Seat 10: corentinwin (3260)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+corentinwin posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+crazypix posts ante 50
+WILD CHILD posts ante 50
+sabre_laser posts small blind 200
+corentinwin posts big blind 400
+Dealt to sabre_laser [Tc 3s]
+*** PRE-FLOP *** 
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+corentinwin collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 10: corentinwin (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-64-1438117771 - Holdem no limit (50/200/400) - 2015/07/28 21:09:31 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1955)
+Seat 4: jpad14 (2950)
+Seat 5: crazypix (4273)
+Seat 6: WILD CHILD (1190)
+Seat 8: sabre_laser (922)
+Seat 10: corentinwin (3710)
+*** ANTE/BLINDS ***
+corentinwin posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+crazypix posts ante 50
+WILD CHILD posts ante 50
+sabre_laser posts ante 50
+corentinwin posts small blind 200
+jadedel posts big blind 400
+Dealt to sabre_laser [Ah 8h]
+*** PRE-FLOP *** 
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser raises 472 to 872 and is all-in
+corentinwin folds
+jadedel folds
+sabre_laser collected 1772 from pot
+*** SUMMARY ***
+Total pot 1772 | No rake
+Seat 8: sabre_laser (button) won 1772
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-65-1438117798 - Holdem no limit (50/200/400) - 2015/07/28 21:09:58 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1505)
+Seat 4: jpad14 (2900)
+Seat 5: crazypix (4223)
+Seat 6: WILD CHILD (1140)
+Seat 8: sabre_laser (1772)
+Seat 10: corentinwin (3460)
+*** ANTE/BLINDS ***
+jadedel posts ante 50
+jpad14 posts ante 50
+crazypix posts ante 50
+WILD CHILD posts ante 50
+sabre_laser posts ante 50
+corentinwin posts ante 50
+jadedel posts small blind 200
+jpad14 posts big blind 400
+Dealt to sabre_laser [5d 9d]
+*** PRE-FLOP *** 
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+corentinwin folds
+jadedel folds
+jpad14 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 4: jpad14 (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-66-1438117820 - Holdem no limit (50/200/400) - 2015/07/28 21:10:20 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1255)
+Seat 4: jpad14 (3350)
+Seat 5: crazypix (4173)
+Seat 6: WILD CHILD (1090)
+Seat 8: sabre_laser (1722)
+Seat 10: corentinwin (3410)
+*** ANTE/BLINDS ***
+jpad14 posts ante 50
+crazypix posts ante 50
+jadedel posts ante 50
+WILD CHILD posts ante 50
+sabre_laser posts ante 50
+corentinwin posts ante 50
+jpad14 posts small blind 200
+crazypix posts big blind 400
+Dealt to sabre_laser [9h Kh]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser folds
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: crazypix (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-67-1438117832 - Holdem no limit (50/200/400) - 2015/07/28 21:10:32 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1205)
+Seat 4: jpad14 (3100)
+Seat 5: crazypix (4623)
+Seat 6: WILD CHILD (1040)
+Seat 8: sabre_laser (1672)
+Seat 10: corentinwin (3360)
+*** ANTE/BLINDS ***
+crazypix posts ante 50
+WILD CHILD posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+sabre_laser posts ante 50
+corentinwin posts ante 50
+crazypix posts small blind 200
+WILD CHILD posts big blind 400
+Dealt to sabre_laser [4h 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: WILD CHILD (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-68-1438117851 - Holdem no limit (50/200/400) - 2015/07/28 21:10:51 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1155)
+Seat 4: jpad14 (3050)
+Seat 5: crazypix (4373)
+Seat 6: WILD CHILD (1490)
+Seat 8: sabre_laser (1622)
+Seat 10: corentinwin (3310)
+*** ANTE/BLINDS ***
+WILD CHILD posts ante 50
+sabre_laser posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+crazypix posts ante 50
+corentinwin posts ante 50
+WILD CHILD posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [9h 2d]
+*** PRE-FLOP *** 
+corentinwin folds
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 8: sabre_laser (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-69-1438117868 - Holdem no limit (50/200/400) - 2015/07/28 21:11:08 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1105)
+Seat 4: jpad14 (3000)
+Seat 5: crazypix (4323)
+Seat 6: WILD CHILD (1240)
+Seat 8: sabre_laser (2072)
+Seat 10: corentinwin (3260)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+corentinwin posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+crazypix posts ante 50
+WILD CHILD posts ante 50
+sabre_laser posts small blind 200
+corentinwin posts big blind 400
+Dealt to sabre_laser [Jc Kc]
+*** PRE-FLOP *** 
+jadedel folds
+jpad14 folds
+crazypix folds
+WILD CHILD folds
+sabre_laser raises 1622 to 2022 and is all-in
+corentinwin folds
+sabre_laser collected 2722 from pot
+*** SUMMARY ***
+Total pot 2722 | No rake
+Seat 8: sabre_laser (small blind) won 2722
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 9 - HandId: #541059278207713281-70-1438117890 - Holdem no limit (50/200/400) - 2015/07/28 21:11:30 UTC
+Table: 'Double or Nothing(125975180)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1055)
+Seat 4: jpad14 (2950)
+Seat 5: crazypix (4273)
+Seat 6: WILD CHILD (1190)
+Seat 8: sabre_laser (2722)
+Seat 10: corentinwin (2810)
+*** ANTE/BLINDS ***
+corentinwin posts ante 50
+jadedel posts ante 50
+jpad14 posts ante 50
+crazypix posts ante 50
+WILD CHILD posts ante 50
+sabre_laser posts ante 50
+corentinwin posts small blind 200
+jadedel posts big blind 400
+Dealt to sabre_laser [8s 4c]
+*** PRE-FLOP *** 
+jpad14 raises 400 to 800
+crazypix folds
+WILD CHILD folds
+sabre_laser folds
+corentinwin folds
+jadedel raises 205 to 1005 and is all-in
+jpad14 calls 205
+*** FLOP *** [8c Jh 9h]
+*** TURN *** [8c Jh 9h][9s]
+*** RIVER *** [8c Jh 9h 9s][5c]
+*** SHOW DOWN ***
+jadedel shows [Ad 7s] (One pair : 9)
+jpad14 shows [Qc Ac] (One pair : 9)
+jpad14 collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Board: [8c Jh 9h 9s 5c]
+Seat 1: jadedel (big blind) showed [Ad 7s] and lost with One pair : 9
+Seat 4: jpad14 showed [Qc Ac] and won 2510 with One pair : 9
+
+

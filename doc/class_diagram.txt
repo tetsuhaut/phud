@@ -1,0 +1,38 @@
+A Site is composed of players, cash games and tournaments.
+A game (be it cash game or tournament) is composed of hands.
+A hand is composed of actions.
+
+◊ contains a pointer to
+♦ contains the id of (sort of light pointer)
+┌────┐1
+│Site├◊────────────────────────────────────┐
+│    │                                     │
+│    │1                                    │
+│    ├◊──────────────────┐                 │
+└─┬──┘                   │                 │
+  ◊ 1                    │                 │
+  │          ┌────┐      │                 │
+  │          │Game│      │                 │
+  │          └────┘      │                 │*
+  │            ▲         │             ┌───┴──┐
+  │            │         │             │Player│
+  │     ┌──────┴─────┐   │*            └┬─────┘
+  │*┌───┴────┐  ┌────┴───┴─┐            │1
+  └─┤CashGame│  │Tournament│            │
+    └────────┘  └──────────┘            │
+                                        │
+┌────┐                                  │
+│Game│                                  │
+└─┬──┘                                  │
+  ◊ 1                                   │
+  │                                     │
+  │*                                    │
+┌─┴──┐*                                 │
+│Hand├♦─────────────────────────────────┘
+└─┬──┘
+  ◊ 1
+  │
+  │*
+┌─┴────┐
+│Action│
+└──────┘

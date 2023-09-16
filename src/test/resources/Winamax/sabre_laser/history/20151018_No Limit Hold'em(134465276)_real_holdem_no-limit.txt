@@ -1,0 +1,1695 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #577523962867613697-1-1445195655 - Holdem no limit (10/20) - 2015/10/18 19:14:15 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MR RUBEN (1500)
+Seat 2: damaco (1500)
+Seat 3: GimoDR (1500)
+Seat 4: 1-niz-7 (1500)
+Seat 5: Mr Mundy (1500)
+Seat 6: alex tasi (1500)
+Seat 7: Nash420 (1500)
+Seat 8: LOULOU_25 (1500)
+Seat 9: Maxcell (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+Nash420 posts small blind 10
+LOULOU_25 posts big blind 20
+Dealt to sabre_laser [8d Jc]
+*** PRE-FLOP *** 
+Maxcell raises 60 to 80
+sabre_laser folds
+MR RUBEN calls 80
+damaco calls 80
+GimoDR folds
+1-niz-7 folds
+Mr Mundy folds
+alex tasi folds
+Nash420 folds
+LOULOU_25 calls 60
+*** FLOP *** [Ah Js Qc]
+LOULOU_25 bets 330
+Maxcell raises 660 to 990
+MR RUBEN folds
+damaco folds
+LOULOU_25 raises 430 to 1420 and is all-in
+Maxcell calls 430 and is all-in
+*** TURN *** [Ah Js Qc][8c]
+*** RIVER *** [Ah Js Qc 8c][9c]
+*** SHOW DOWN ***
+Maxcell shows [As Ks] (One pair : Aces)
+LOULOU_25 shows [Kh Th] (Straight Ace high)
+LOULOU_25 collected 3170 from pot
+*** SUMMARY ***
+Total pot 3170 | No rake
+Board: [Ah Js Qc 8c 9c]
+Seat 8: LOULOU_25 (big blind) showed [Kh Th] and won 3170 with Straight Ace high
+Seat 9: Maxcell showed [As Ks] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #577523962867613697-2-1445195752 - Holdem no limit (10/20) - 2015/10/18 19:15:52 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MR RUBEN (1420)
+Seat 2: damaco (1420)
+Seat 3: GimoDR (1500)
+Seat 4: 1-niz-7 (1500)
+Seat 5: Mr Mundy (1500)
+Seat 6: alex tasi (1500)
+Seat 7: Nash420 (1490)
+Seat 8: LOULOU_25 (3170)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+LOULOU_25 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [9h 4c]
+*** PRE-FLOP *** 
+MR RUBEN folds
+damaco folds
+GimoDR folds
+1-niz-7 raises 40 to 60
+Mr Mundy folds
+alex tasi calls 60
+Nash420 folds
+LOULOU_25 calls 50
+sabre_laser folds
+*** FLOP *** [Qs Tc 3d]
+LOULOU_25 bets 100
+1-niz-7 calls 100
+alex tasi calls 100
+*** TURN *** [Qs Tc 3d][8c]
+LOULOU_25 checks
+1-niz-7 checks
+alex tasi bets 250
+LOULOU_25 folds
+1-niz-7 folds
+alex tasi collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Qs Tc 3d 8c]
+Seat 6: alex tasi won 750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #577523962867613697-3-1445195889 - Holdem no limit (15/30) - 2015/10/18 19:18:09 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MR RUBEN (1420)
+Seat 2: damaco (1420)
+Seat 3: GimoDR (1500)
+Seat 4: 1-niz-7 (1340)
+Seat 5: Mr Mundy (1500)
+Seat 6: alex tasi (1840)
+Seat 7: Nash420 (1490)
+Seat 8: LOULOU_25 (3010)
+Seat 10: sabre_laser (1480)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+MR RUBEN posts big blind 30
+Dealt to sabre_laser [4h 8c]
+*** PRE-FLOP *** 
+damaco calls 30
+GimoDR folds
+1-niz-7 folds
+Mr Mundy folds
+alex tasi folds
+Nash420 folds
+LOULOU_25 calls 30
+sabre_laser calls 15
+MR RUBEN checks
+*** FLOP *** [Ac 9c Tc]
+sabre_laser checks
+MR RUBEN checks
+damaco checks
+LOULOU_25 checks
+*** TURN *** [Ac 9c Tc][6c]
+sabre_laser bets 30
+MR RUBEN folds
+damaco folds
+LOULOU_25 calls 30
+*** RIVER *** [Ac 9c Tc 6c][6d]
+sabre_laser checks
+LOULOU_25 checks
+*** SHOW DOWN ***
+LOULOU_25 shows [5s Ah] (Two pairs : Aces and 6)
+sabre_laser shows [4h 8c] (Flush Ace high)
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ac 9c Tc 6c 6d]
+Seat 8: LOULOU_25 (button) showed [5s Ah] and lost with Two pairs : Aces and 6
+Seat 10: sabre_laser (small blind) showed [4h 8c] and won 180 with Flush Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #577523962867613697-4-1445196010 - Holdem no limit (15/30) - 2015/10/18 19:20:10 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MR RUBEN (1390)
+Seat 2: damaco (1390)
+Seat 3: GimoDR (1500)
+Seat 4: 1-niz-7 (1340)
+Seat 5: Mr Mundy (1500)
+Seat 6: alex tasi (1840)
+Seat 7: Nash420 (1490)
+Seat 8: LOULOU_25 (2950)
+Seat 10: sabre_laser (1600)
+*** ANTE/BLINDS ***
+MR RUBEN posts small blind 15
+damaco posts big blind 30
+Dealt to sabre_laser [3s 3c]
+*** PRE-FLOP *** 
+GimoDR folds
+1-niz-7 raises 60 to 90
+Mr Mundy folds
+alex tasi folds
+Nash420 folds
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN calls 75
+damaco calls 60
+*** FLOP *** [Ac 8s 7s]
+MR RUBEN checks
+damaco checks
+1-niz-7 bets 270
+MR RUBEN raises 450 to 720
+damaco folds
+1-niz-7 folds
+MR RUBEN collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [Ac 8s 7s]
+Seat 1: MR RUBEN (small blind) won 1260
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #577523962867613697-5-1445196061 - Holdem no limit (20/40) - 2015/10/18 19:21:01 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MR RUBEN (1840)
+Seat 2: damaco (1300)
+Seat 3: GimoDR (1500)
+Seat 4: 1-niz-7 (980)
+Seat 5: Mr Mundy (1500)
+Seat 6: alex tasi (1840)
+Seat 7: Nash420 (1490)
+Seat 8: LOULOU_25 (2950)
+Seat 10: sabre_laser (1600)
+*** ANTE/BLINDS ***
+damaco posts small blind 20
+GimoDR posts big blind 40
+Dealt to sabre_laser [7h Ac]
+*** PRE-FLOP *** 
+1-niz-7 folds
+Mr Mundy folds
+alex tasi folds
+Nash420 raises 40 to 80
+LOULOU_25 folds
+sabre_laser calls 80
+MR RUBEN raises 240 to 320
+damaco folds
+GimoDR folds
+Nash420 raises 240 to 560
+sabre_laser folds
+MR RUBEN raises 1280 to 1840 and is all-in
+Nash420 calls 930 and is all-in
+*** FLOP *** [4s Th 7c]
+*** TURN *** [4s Th 7c][3c]
+*** RIVER *** [4s Th 7c 3c][9s]
+*** SHOW DOWN ***
+Nash420 shows [Jh Kd] (High card : King)
+MR RUBEN shows [Ad Ah] (One pair : Aces)
+MR RUBEN collected 3470 from pot
+*** SUMMARY ***
+Total pot 3470 | No rake
+Board: [4s Th 7c 3c 9s]
+Seat 1: MR RUBEN (button) showed [Ad Ah] and won 3470 with One pair : Aces
+Seat 7: Nash420 showed [Jh Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #577523962867613697-6-1445196123 - Holdem no limit (20/40) - 2015/10/18 19:22:03 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #2 is the button
+Seat 1: MR RUBEN (3470)
+Seat 2: damaco (1280)
+Seat 3: GimoDR (1460)
+Seat 4: 1-niz-7 (980)
+Seat 5: Mr Mundy (1500)
+Seat 6: alex tasi (1840)
+Seat 8: LOULOU_25 (2950)
+Seat 10: sabre_laser (1520)
+*** ANTE/BLINDS ***
+GimoDR posts small blind 20
+1-niz-7 posts big blind 40
+Dealt to sabre_laser [2s 3c]
+*** PRE-FLOP *** 
+Mr Mundy folds
+alex tasi folds
+LOULOU_25 calls 40
+sabre_laser folds
+MR RUBEN folds
+damaco calls 40
+GimoDR folds
+1-niz-7 checks
+*** FLOP *** [8h 8s Ac]
+1-niz-7 checks
+LOULOU_25 checks
+damaco checks
+*** TURN *** [8h 8s Ac][9h]
+1-niz-7 checks
+LOULOU_25 checks
+damaco checks
+*** RIVER *** [8h 8s Ac 9h][As]
+1-niz-7 checks
+LOULOU_25 checks
+damaco bets 40
+1-niz-7 calls 40
+LOULOU_25 calls 40
+*** SHOW DOWN ***
+damaco shows [6d 4d] (Two pairs : Aces and 8)
+LOULOU_25 shows [Kh Qs] (Two pairs : Aces and 8)
+1-niz-7 shows [Th 9d] (Two pairs : Aces and 9)
+1-niz-7 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [8h 8s Ac 9h As]
+Seat 2: damaco (button) showed [6d 4d] and lost with Two pairs : Aces and 8
+Seat 4: 1-niz-7 (big blind) showed [Th 9d] and won 260 with Two pairs : Aces and 9
+Seat 8: LOULOU_25 showed [Kh Qs] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #577523962867613697-7-1445196190 - Holdem no limit (20/40) - 2015/10/18 19:23:10 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 1: MR RUBEN (3470)
+Seat 2: damaco (1200)
+Seat 3: GimoDR (1440)
+Seat 4: 1-niz-7 (1160)
+Seat 5: Mr Mundy (1500)
+Seat 6: alex tasi (1840)
+Seat 8: LOULOU_25 (2870)
+Seat 10: sabre_laser (1520)
+*** ANTE/BLINDS ***
+1-niz-7 posts small blind 20
+Mr Mundy posts big blind 40
+Dealt to sabre_laser [7d 9s]
+*** PRE-FLOP *** 
+alex tasi raises 40 to 80
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+damaco calls 80
+GimoDR folds
+1-niz-7 calls 60
+Mr Mundy folds
+*** FLOP *** [5h 8d 5s]
+1-niz-7 bets 280
+alex tasi folds
+damaco raises 840 to 1120 and is all-in
+1-niz-7 calls 800 and is all-in
+*** TURN *** [5h 8d 5s][8c]
+*** RIVER *** [5h 8d 5s 8c][6s]
+*** SHOW DOWN ***
+1-niz-7 shows [7s 8s] (Full of 8 and 5)
+damaco shows [5c Jc] (Full of 5 and 8)
+damaco collected 40 from side pot 1
+1-niz-7 collected 2440 from main pot
+*** SUMMARY ***
+Total pot 2480 | No rake
+Board: [5h 8d 5s 8c 6s]
+Seat 2: damaco showed [5c Jc] and won 40 with Full of 5 and 8
+Seat 4: 1-niz-7 (small blind) showed [7s 8s] and won 2440 with Full of 8 and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #577523962867613697-8-1445196253 - Holdem no limit (30/60) - 2015/10/18 19:24:13 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #4 is the button
+Seat 1: MR RUBEN (3470)
+Seat 2: damaco (40)
+Seat 3: GimoDR (1440)
+Seat 4: 1-niz-7 (2440)
+Seat 5: Mr Mundy (1460)
+Seat 6: alex tasi (1760)
+Seat 8: LOULOU_25 (2870)
+Seat 10: sabre_laser (1520)
+*** ANTE/BLINDS ***
+Mr Mundy posts small blind 30
+alex tasi posts big blind 60
+Dealt to sabre_laser [4d Qs]
+*** PRE-FLOP *** 
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+damaco folds
+GimoDR folds
+1-niz-7 folds
+Mr Mundy folds
+alex tasi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: alex tasi (big blind) won 90
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #577523962867613697-9-1445196270 - Holdem no limit (30/60) - 2015/10/18 19:24:30 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MR RUBEN (3470)
+Seat 2: damaco (40)
+Seat 3: GimoDR (1440)
+Seat 4: 1-niz-7 (2440)
+Seat 5: Mr Mundy (1430)
+Seat 6: alex tasi (1790)
+Seat 8: LOULOU_25 (2870)
+Seat 10: sabre_laser (1520)
+*** ANTE/BLINDS ***
+alex tasi posts small blind 30
+LOULOU_25 posts big blind 60
+Dealt to sabre_laser [Td Qs]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 120
+MR RUBEN folds
+damaco calls 40 and is all-in
+GimoDR folds
+1-niz-7 calls 120
+Mr Mundy folds
+alex tasi folds
+LOULOU_25 calls 60
+*** FLOP *** [9d Jc Qc]
+LOULOU_25 bets 60
+sabre_laser calls 60
+1-niz-7 calls 60
+*** TURN *** [9d Jc Qc][2h]
+LOULOU_25 checks
+sabre_laser checks
+1-niz-7 checks
+*** RIVER *** [9d Jc Qc 2h][Js]
+LOULOU_25 checks
+sabre_laser checks
+1-niz-7 bets 610
+LOULOU_25 folds
+sabre_laser folds
+*** SHOW DOWN ***
+damaco shows [5s 4h] (One pair : Jacks)
+1-niz-7 shows [As Jh] (Trips of Jacks)
+1-niz-7 collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | No rake
+Board: [9d Jc Qc 2h Js]
+Seat 2: damaco showed [5s 4h] and lost with One pair : Jacks
+Seat 4: 1-niz-7 showed [As Jh] and won 1220 with Trips of Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #577523962867613697-10-1445196386 - Holdem no limit (40/80) - 2015/10/18 19:26:26 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MR RUBEN (3470)
+Seat 3: GimoDR (1440)
+Seat 4: 1-niz-7 (2870)
+Seat 5: Mr Mundy (1430)
+Seat 6: alex tasi (1760)
+Seat 8: LOULOU_25 (2690)
+Seat 10: sabre_laser (1340)
+*** ANTE/BLINDS ***
+LOULOU_25 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [4c 2s]
+*** PRE-FLOP *** 
+MR RUBEN folds
+GimoDR folds
+1-niz-7 calls 80
+Mr Mundy folds
+alex tasi calls 80
+LOULOU_25 calls 40
+sabre_laser checks
+*** FLOP *** [4d 3h Kh]
+LOULOU_25 checks
+sabre_laser checks
+1-niz-7 checks
+alex tasi bets 320
+LOULOU_25 folds
+sabre_laser folds
+1-niz-7 folds
+alex tasi collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4d 3h Kh]
+Seat 6: alex tasi (button) won 640
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #577523962867613697-11-1445196463 - Holdem no limit (40/80) - 2015/10/18 19:27:43 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MR RUBEN (3470)
+Seat 3: GimoDR (1440)
+Seat 4: 1-niz-7 (2790)
+Seat 5: Mr Mundy (1430)
+Seat 6: alex tasi (2000)
+Seat 8: LOULOU_25 (2610)
+Seat 10: sabre_laser (1260)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+MR RUBEN posts big blind 80
+Dealt to sabre_laser [Qc 3d]
+*** PRE-FLOP *** 
+GimoDR folds
+1-niz-7 folds
+Mr Mundy folds
+alex tasi raises 80 to 160
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+alex tasi collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: alex tasi won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #577523962867613697-12-1445196511 - Holdem no limit (40/80) - 2015/10/18 19:28:31 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MR RUBEN (3390)
+Seat 3: GimoDR (1440)
+Seat 4: 1-niz-7 (2790)
+Seat 5: Mr Mundy (1430)
+Seat 6: alex tasi (2120)
+Seat 8: LOULOU_25 (2610)
+Seat 10: sabre_laser (1220)
+*** ANTE/BLINDS ***
+MR RUBEN posts small blind 40
+GimoDR posts big blind 80
+Dealt to sabre_laser [5s 2d]
+*** PRE-FLOP *** 
+1-niz-7 folds
+Mr Mundy folds
+alex tasi raises 80 to 160
+LOULOU_25 calls 160
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+*** FLOP *** [Kc 5h 3c]
+alex tasi bets 80
+LOULOU_25 calls 80
+*** TURN *** [Kc 5h 3c][4s]
+alex tasi checks
+LOULOU_25 checks
+*** RIVER *** [Kc 5h 3c 4s][Ks]
+alex tasi bets 600
+LOULOU_25 calls 600
+*** SHOW DOWN ***
+LOULOU_25 shows [9h 9c] (Two pairs : Kings and 9)
+alex tasi shows [Kd Ad] (Trips of Kings)
+alex tasi collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [Kc 5h 3c 4s Ks]
+Seat 6: alex tasi showed [Kd Ad] and won 1800 with Trips of Kings
+Seat 8: LOULOU_25 showed [9h 9c] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #577523962867613697-13-1445196583 - Holdem no limit (60/120) - 2015/10/18 19:29:43 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MR RUBEN (3350)
+Seat 3: GimoDR (1360)
+Seat 4: 1-niz-7 (2790)
+Seat 5: Mr Mundy (1430)
+Seat 6: alex tasi (3080)
+Seat 8: LOULOU_25 (1770)
+Seat 10: sabre_laser (1220)
+*** ANTE/BLINDS ***
+GimoDR posts small blind 60
+1-niz-7 posts big blind 120
+Dealt to sabre_laser [Jc Jd]
+*** PRE-FLOP *** 
+Mr Mundy folds
+alex tasi calls 120
+LOULOU_25 folds
+sabre_laser raises 180 to 300
+MR RUBEN folds
+GimoDR folds
+1-niz-7 folds
+alex tasi calls 180
+*** FLOP *** [4c Js 7c]
+alex tasi bets 780
+sabre_laser raises 140 to 920 and is all-in
+alex tasi calls 140
+*** TURN *** [4c Js 7c][Qd]
+*** RIVER *** [4c Js 7c Qd][6c]
+*** SHOW DOWN ***
+alex tasi shows [Ah 4h] (One pair : 4)
+sabre_laser shows [Jc Jd] (Trips of Jacks)
+sabre_laser collected 2620 from pot
+*** SUMMARY ***
+Total pot 2620 | No rake
+Board: [4c Js 7c Qd 6c]
+Seat 6: alex tasi showed [Ah 4h] and lost with One pair : 4
+Seat 10: sabre_laser showed [Jc Jd] and won 2620 with Trips of Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #577523962867613697-14-1445196645 - Holdem no limit (60/120) - 2015/10/18 19:30:45 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 1: MR RUBEN (3350)
+Seat 3: GimoDR (1300)
+Seat 4: 1-niz-7 (2670)
+Seat 5: Mr Mundy (1430)
+Seat 6: alex tasi (1860)
+Seat 8: LOULOU_25 (1770)
+Seat 10: sabre_laser (2620)
+*** ANTE/BLINDS ***
+1-niz-7 posts small blind 60
+Mr Mundy posts big blind 120
+Dealt to sabre_laser [3h 7d]
+*** PRE-FLOP *** 
+alex tasi folds
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+1-niz-7 raises 240 to 360
+Mr Mundy folds
+1-niz-7 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 4: 1-niz-7 (small blind) won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #577523962867613697-15-1445196675 - Holdem no limit (60/120) - 2015/10/18 19:31:15 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #4 is the button
+Seat 1: MR RUBEN (3350)
+Seat 3: GimoDR (1300)
+Seat 4: 1-niz-7 (2790)
+Seat 5: Mr Mundy (1310)
+Seat 6: alex tasi (1860)
+Seat 8: LOULOU_25 (1770)
+Seat 10: sabre_laser (2620)
+*** ANTE/BLINDS ***
+Mr Mundy posts small blind 60
+alex tasi posts big blind 120
+Dealt to sabre_laser [Jd 2s]
+*** PRE-FLOP *** 
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+1-niz-7 folds
+Mr Mundy folds
+alex tasi collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: alex tasi (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #577523962867613697-16-1445196686 - Holdem no limit (60/120) - 2015/10/18 19:31:26 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MR RUBEN (3350)
+Seat 3: GimoDR (1300)
+Seat 4: 1-niz-7 (2790)
+Seat 5: Mr Mundy (1250)
+Seat 6: alex tasi (1920)
+Seat 8: LOULOU_25 (1770)
+Seat 10: sabre_laser (2620)
+*** ANTE/BLINDS ***
+alex tasi posts small blind 60
+LOULOU_25 posts big blind 120
+Dealt to sabre_laser [8c 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+1-niz-7 calls 120
+Mr Mundy folds
+alex tasi calls 60
+LOULOU_25 checks
+*** FLOP *** [Ad 4d Qs]
+alex tasi bets 360
+LOULOU_25 folds
+1-niz-7 folds
+alex tasi collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Ad 4d Qs]
+Seat 6: alex tasi (small blind) won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577523962867613697-17-1445196738 - Holdem no limit (80/160) - 2015/10/18 19:32:18 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MR RUBEN (3350)
+Seat 3: GimoDR (1300)
+Seat 4: 1-niz-7 (2670)
+Seat 5: Mr Mundy (1250)
+Seat 6: alex tasi (2160)
+Seat 8: LOULOU_25 (1650)
+Seat 10: sabre_laser (2620)
+*** ANTE/BLINDS ***
+LOULOU_25 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [6c Qc]
+*** PRE-FLOP *** 
+MR RUBEN folds
+GimoDR folds
+1-niz-7 raises 240 to 400
+Mr Mundy folds
+alex tasi calls 400
+LOULOU_25 folds
+sabre_laser folds
+*** FLOP *** [4d Ad 6s]
+1-niz-7 bets 520
+alex tasi calls 520
+*** TURN *** [4d Ad 6s][9s]
+1-niz-7 bets 1750 and is all-in
+alex tasi calls 1240 and is all-in
+*** RIVER *** [4d Ad 6s 9s][3c]
+*** SHOW DOWN ***
+alex tasi shows [Ah Ts] (One pair : Aces)
+1-niz-7 shows [Kc Tc] (High card : Ace)
+1-niz-7 collected 510 from side pot 1
+alex tasi collected 4560 from main pot
+*** SUMMARY ***
+Total pot 5070 | No rake
+Board: [4d Ad 6s 9s 3c]
+Seat 4: 1-niz-7 showed [Kc Tc] and won 510 with High card : Ace
+Seat 6: alex tasi (button) showed [Ah Ts] and won 4560 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577523962867613697-18-1445196781 - Holdem no limit (80/160) - 2015/10/18 19:33:01 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MR RUBEN (3350)
+Seat 3: GimoDR (1300)
+Seat 4: 1-niz-7 (510)
+Seat 5: Mr Mundy (1250)
+Seat 6: alex tasi (4560)
+Seat 8: LOULOU_25 (1570)
+Seat 10: sabre_laser (2460)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+MR RUBEN posts big blind 160
+Dealt to sabre_laser [8h 7d]
+*** PRE-FLOP *** 
+GimoDR folds
+1-niz-7 folds
+Mr Mundy folds
+alex tasi raises 160 to 320
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+alex tasi collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 6: alex tasi won 560
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577523962867613697-19-1445196815 - Holdem no limit (80/160) - 2015/10/18 19:33:35 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MR RUBEN (3190)
+Seat 3: GimoDR (1300)
+Seat 4: 1-niz-7 (510)
+Seat 5: Mr Mundy (1250)
+Seat 6: alex tasi (4800)
+Seat 8: LOULOU_25 (1570)
+Seat 10: sabre_laser (2380)
+*** ANTE/BLINDS ***
+MR RUBEN posts small blind 80
+GimoDR posts big blind 160
+Dealt to sabre_laser [9s 9d]
+*** PRE-FLOP *** 
+1-niz-7 folds
+Mr Mundy folds
+alex tasi calls 160
+LOULOU_25 calls 160
+sabre_laser raises 2220 to 2380 and is all-in
+MR RUBEN folds
+GimoDR folds
+alex tasi folds
+LOULOU_25 folds
+sabre_laser collected 2940 from pot
+*** SUMMARY ***
+Total pot 2940 | No rake
+Seat 10: sabre_laser (button) won 2940
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577523962867613697-20-1445196859 - Holdem no limit (80/160) - 2015/10/18 19:34:19 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MR RUBEN (3110)
+Seat 3: GimoDR (1140)
+Seat 4: 1-niz-7 (510)
+Seat 5: Mr Mundy (1250)
+Seat 6: alex tasi (4640)
+Seat 8: LOULOU_25 (1410)
+Seat 10: sabre_laser (2940)
+*** ANTE/BLINDS ***
+GimoDR posts small blind 80
+1-niz-7 posts big blind 160
+Dealt to sabre_laser [2s 8c]
+*** PRE-FLOP *** 
+Mr Mundy folds
+alex tasi raises 160 to 320
+LOULOU_25 raises 1090 to 1410 and is all-in
+sabre_laser folds
+MR RUBEN folds
+GimoDR calls 1060 and is all-in
+1-niz-7 calls 350 and is all-in
+alex tasi calls 1090
+*** FLOP *** [3c 8d 3s]
+*** TURN *** [3c 8d 3s][Ac]
+*** RIVER *** [3c 8d 3s Ac][Ad]
+*** SHOW DOWN ***
+alex tasi shows [Js Qh] (Two pairs : Aces and 3)
+1-niz-7 shows [As Tc] (Full of Aces and 3)
+GimoDR shows [Kd Ah] (Full of Aces and 3)
+LOULOU_25 shows [5s 5c] (Two pairs : Aces and 5)
+LOULOU_25 collected 540 from side pot 2
+GimoDR collected 2910 from side pot 1
+1-niz-7 collected 1020 from main pot
+*** SUMMARY ***
+Total pot 4470 | No rake
+Board: [3c 8d 3s Ac Ad]
+Seat 3: GimoDR (small blind) showed [Kd Ah] and won 2910 with Full of Aces and 3
+Seat 4: 1-niz-7 (big blind) showed [As Tc] and won 1020 with Full of Aces and 3
+Seat 6: alex tasi showed [Js Qh] and lost with Two pairs : Aces and 3
+Seat 8: LOULOU_25 showed [5s 5c] and won 540 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #577523962867613697-21-1445196899 - Holdem no limit (80/160) - 2015/10/18 19:34:59 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 1: MR RUBEN (3110)
+Seat 3: GimoDR (2910)
+Seat 4: 1-niz-7 (1020)
+Seat 5: Mr Mundy (1250)
+Seat 6: alex tasi (3230)
+Seat 8: LOULOU_25 (540)
+Seat 10: sabre_laser (2940)
+*** ANTE/BLINDS ***
+1-niz-7 posts small blind 80
+Mr Mundy posts big blind 160
+Dealt to sabre_laser [Tc 4c]
+*** PRE-FLOP *** 
+alex tasi folds
+LOULOU_25 raises 380 to 540 and is all-in
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+1-niz-7 raises 480 to 1020 and is all-in
+Mr Mundy raises 230 to 1250 and is all-in
+*** FLOP *** [Ac 2h Qd]
+*** TURN *** [Ac 2h Qd][5h]
+*** RIVER *** [Ac 2h Qd 5h][3h]
+*** SHOW DOWN ***
+1-niz-7 shows [9s 9d] (One pair : 9)
+LOULOU_25 shows [5c 5d] (Trips of 5)
+Mr Mundy shows [Qc Ah] (Two pairs : Aces and Queens)
+Mr Mundy collected 1190 from side pot 1
+LOULOU_25 collected 1620 from main pot
+*** SUMMARY ***
+Total pot 2810 | No rake
+Board: [Ac 2h Qd 5h 3h]
+Seat 4: 1-niz-7 (small blind) showed [9s 9d] and lost with One pair : 9
+Seat 5: Mr Mundy (big blind) showed [Qc Ah] and won 1190 with Two pairs : Aces and Queens
+Seat 8: LOULOU_25 showed [5c 5d] and won 1620 with Trips of 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #577523962867613697-22-1445196924 - Holdem no limit (10/100/200) - 2015/10/18 19:35:24 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #4 is the button
+Seat 1: MR RUBEN (3110)
+Seat 3: GimoDR (2910)
+Seat 5: Mr Mundy (1190)
+Seat 6: alex tasi (3230)
+Seat 8: LOULOU_25 (1620)
+Seat 10: sabre_laser (2940)
+*** ANTE/BLINDS ***
+Mr Mundy posts ante 10
+alex tasi posts ante 10
+MR RUBEN posts ante 10
+GimoDR posts ante 10
+LOULOU_25 posts ante 10
+sabre_laser posts ante 10
+Mr Mundy posts small blind 100
+alex tasi posts big blind 200
+Dealt to sabre_laser [Kc Qs]
+*** PRE-FLOP *** 
+LOULOU_25 folds
+sabre_laser calls 200
+MR RUBEN folds
+GimoDR folds
+Mr Mundy calls 100
+alex tasi checks
+*** FLOP *** [Ks 8d 9s]
+Mr Mundy checks
+alex tasi checks
+sabre_laser bets 200
+Mr Mundy folds
+alex tasi folds
+sabre_laser collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [Ks 8d 9s]
+Seat 10: sabre_laser won 860
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #577523962867613697-23-1445196976 - Holdem no limit (10/100/200) - 2015/10/18 19:36:16 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MR RUBEN (3100)
+Seat 3: GimoDR (2900)
+Seat 5: Mr Mundy (980)
+Seat 6: alex tasi (3020)
+Seat 8: LOULOU_25 (1610)
+Seat 10: sabre_laser (3390)
+*** ANTE/BLINDS ***
+alex tasi posts ante 10
+LOULOU_25 posts ante 10
+MR RUBEN posts ante 10
+GimoDR posts ante 10
+Mr Mundy posts ante 10
+sabre_laser posts ante 10
+alex tasi posts small blind 100
+LOULOU_25 posts big blind 200
+Dealt to sabre_laser [2c 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+MR RUBEN folds
+GimoDR raises 200 to 400
+Mr Mundy raises 570 to 970 and is all-in
+alex tasi folds
+LOULOU_25 folds
+GimoDR calls 570
+*** FLOP *** [Tc 5s Jd]
+*** TURN *** [Tc 5s Jd][Ts]
+*** RIVER *** [Tc 5s Jd Ts][9s]
+*** SHOW DOWN ***
+Mr Mundy shows [Ad 9h] (Two pairs : Tens and 9)
+GimoDR shows [Qh Qd] (Two pairs : Queens and Tens)
+GimoDR collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [Tc 5s Jd Ts 9s]
+Seat 3: GimoDR showed [Qh Qd] and won 2300 with Two pairs : Queens and Tens
+Seat 5: Mr Mundy (button) showed [Ad 9h] and lost with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #577523962867613697-24-1445197042 - Holdem no limit (10/100/200) - 2015/10/18 19:37:22 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MR RUBEN (3090)
+Seat 3: GimoDR (4220)
+Seat 6: alex tasi (2910)
+Seat 8: LOULOU_25 (1400)
+Seat 10: sabre_laser (3380)
+*** ANTE/BLINDS ***
+LOULOU_25 posts ante 10
+sabre_laser posts ante 10
+MR RUBEN posts ante 10
+GimoDR posts ante 10
+alex tasi posts ante 10
+LOULOU_25 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [3d 9c]
+*** PRE-FLOP *** 
+MR RUBEN folds
+GimoDR folds
+alex tasi folds
+LOULOU_25 calls 100
+sabre_laser checks
+*** FLOP *** [Ks 2h 3s]
+LOULOU_25 bets 200
+sabre_laser calls 200
+*** TURN *** [Ks 2h 3s][Td]
+LOULOU_25 bets 200
+sabre_laser calls 200
+*** RIVER *** [Ks 2h 3s Td][7s]
+LOULOU_25 checks
+sabre_laser bets 400
+LOULOU_25 calls 400
+*** SHOW DOWN ***
+sabre_laser shows [3d 9c] (One pair : 3)
+LOULOU_25 shows [2s 3h] (Two pairs : 3 and 2)
+LOULOU_25 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Board: [Ks 2h 3s Td 7s]
+Seat 8: LOULOU_25 (small blind) showed [2s 3h] and won 2050 with Two pairs : 3 and 2
+Seat 10: sabre_laser (big blind) showed [3d 9c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #577523962867613697-25-1445197135 - Holdem no limit (20/150/300) - 2015/10/18 19:38:55 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MR RUBEN (3080)
+Seat 3: GimoDR (4210)
+Seat 6: alex tasi (2900)
+Seat 8: LOULOU_25 (2440)
+Seat 10: sabre_laser (2370)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+MR RUBEN posts ante 20
+GimoDR posts ante 20
+alex tasi posts ante 20
+LOULOU_25 posts ante 20
+sabre_laser posts small blind 150
+MR RUBEN posts big blind 300
+Dealt to sabre_laser [4s 3h]
+*** PRE-FLOP *** 
+GimoDR folds
+alex tasi folds
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 1: MR RUBEN (big blind) won 550
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #577523962867613697-26-1445197169 - Holdem no limit (20/150/300) - 2015/10/18 19:39:29 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MR RUBEN (3310)
+Seat 3: GimoDR (4190)
+Seat 6: alex tasi (2880)
+Seat 8: LOULOU_25 (2420)
+Seat 10: sabre_laser (2200)
+*** ANTE/BLINDS ***
+MR RUBEN posts ante 20
+GimoDR posts ante 20
+alex tasi posts ante 20
+LOULOU_25 posts ante 20
+sabre_laser posts ante 20
+MR RUBEN posts small blind 150
+GimoDR posts big blind 300
+Dealt to sabre_laser [6h Ad]
+*** PRE-FLOP *** 
+alex tasi folds
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+GimoDR collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 3: GimoDR (big blind) won 550
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #577523962867613697-27-1445197198 - Holdem no limit (20/150/300) - 2015/10/18 19:39:58 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MR RUBEN (3140)
+Seat 3: GimoDR (4420)
+Seat 6: alex tasi (2860)
+Seat 8: LOULOU_25 (2400)
+Seat 10: sabre_laser (2180)
+*** ANTE/BLINDS ***
+GimoDR posts ante 20
+alex tasi posts ante 20
+MR RUBEN posts ante 20
+LOULOU_25 posts ante 20
+sabre_laser posts ante 20
+GimoDR posts small blind 150
+alex tasi posts big blind 300
+Dealt to sabre_laser [3s 6s]
+*** PRE-FLOP *** 
+LOULOU_25 calls 300
+sabre_laser calls 300
+MR RUBEN folds
+GimoDR folds
+alex tasi checks
+*** FLOP *** [Tc 8s As]
+alex tasi checks
+LOULOU_25 checks
+sabre_laser checks
+*** TURN *** [Tc 8s As][Jd]
+alex tasi bets 575
+LOULOU_25 calls 575
+sabre_laser folds
+*** RIVER *** [Tc 8s As Jd][5h]
+alex tasi checks
+LOULOU_25 checks
+*** SHOW DOWN ***
+LOULOU_25 shows [Ts Qh] (One pair : Tens)
+alex tasi shows [2h Ac] (One pair : Aces)
+alex tasi collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [Tc 8s As Jd 5h]
+Seat 6: alex tasi (big blind) showed [2h Ac] and won 2300 with One pair : Aces
+Seat 8: LOULOU_25 showed [Ts Qh] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #577523962867613697-28-1445197302 - Holdem no limit (50/200/400) - 2015/10/18 19:41:42 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 1: MR RUBEN (3120)
+Seat 3: GimoDR (4250)
+Seat 6: alex tasi (4265)
+Seat 8: LOULOU_25 (1505)
+Seat 10: sabre_laser (1860)
+*** ANTE/BLINDS ***
+alex tasi posts ante 50
+LOULOU_25 posts ante 50
+MR RUBEN posts ante 50
+GimoDR posts ante 50
+sabre_laser posts ante 50
+alex tasi posts small blind 200
+LOULOU_25 posts big blind 400
+Dealt to sabre_laser [Js 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+alex tasi folds
+LOULOU_25 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 8: LOULOU_25 (big blind) won 850
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #577523962867613697-29-1445197328 - Holdem no limit (50/200/400) - 2015/10/18 19:42:08 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MR RUBEN (3070)
+Seat 3: GimoDR (4200)
+Seat 6: alex tasi (4015)
+Seat 8: LOULOU_25 (1905)
+Seat 10: sabre_laser (1810)
+*** ANTE/BLINDS ***
+LOULOU_25 posts ante 50
+sabre_laser posts ante 50
+MR RUBEN posts ante 50
+GimoDR posts ante 50
+alex tasi posts ante 50
+LOULOU_25 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [3s 3c]
+*** PRE-FLOP *** 
+MR RUBEN folds
+GimoDR folds
+alex tasi folds
+LOULOU_25 calls 200
+sabre_laser checks
+*** FLOP *** [Js 8s Qs]
+LOULOU_25 checks
+sabre_laser checks
+*** TURN *** [Js 8s Qs][7c]
+LOULOU_25 checks
+sabre_laser bets 400
+LOULOU_25 calls 400
+*** RIVER *** [Js 8s Qs 7c][6s]
+LOULOU_25 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [3s 3c] (Flush Queen high)
+LOULOU_25 shows [5s 8h] (Flush Queen high)
+LOULOU_25 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [Js 8s Qs 7c 6s]
+Seat 8: LOULOU_25 (small blind) showed [5s 8h] and won 1850 with Flush Queen high
+Seat 10: sabre_laser (big blind) showed [3s 3c] and lost with Flush Queen high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #577523962867613697-30-1445197407 - Holdem no limit (50/200/400) - 2015/10/18 19:43:27 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MR RUBEN (3020)
+Seat 3: GimoDR (4150)
+Seat 6: alex tasi (3965)
+Seat 8: LOULOU_25 (2905)
+Seat 10: sabre_laser (960)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+MR RUBEN posts ante 50
+GimoDR posts ante 50
+alex tasi posts ante 50
+LOULOU_25 posts ante 50
+sabre_laser posts small blind 200
+MR RUBEN posts big blind 400
+Dealt to sabre_laser [7s 4h]
+*** PRE-FLOP *** 
+GimoDR folds
+alex tasi raises 400 to 800
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+alex tasi collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 6: alex tasi won 1650
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #577523962867613697-31-1445197425 - Holdem no limit (50/200/400) - 2015/10/18 19:43:45 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MR RUBEN (2570)
+Seat 3: GimoDR (4100)
+Seat 6: alex tasi (4765)
+Seat 8: LOULOU_25 (2855)
+Seat 10: sabre_laser (710)
+*** ANTE/BLINDS ***
+MR RUBEN posts ante 50
+GimoDR posts ante 50
+alex tasi posts ante 50
+LOULOU_25 posts ante 50
+sabre_laser posts ante 50
+MR RUBEN posts small blind 200
+GimoDR posts big blind 400
+Dealt to sabre_laser [Ad Qd]
+*** PRE-FLOP *** 
+alex tasi folds
+LOULOU_25 raises 2405 to 2805 and is all-in
+sabre_laser calls 660 and is all-in
+MR RUBEN folds
+GimoDR folds
+*** FLOP *** [Qh 2h Jc]
+*** TURN *** [Qh 2h Jc][4d]
+*** RIVER *** [Qh 2h Jc 4d][Td]
+*** SHOW DOWN ***
+sabre_laser shows [Ad Qd] (One pair : Queens)
+LOULOU_25 shows [3h 3d] (One pair : 3)
+LOULOU_25 collected 2145 from side pot 1
+sabre_laser collected 2170 from main pot
+*** SUMMARY ***
+Total pot 4315 | No rake
+Board: [Qh 2h Jc 4d Td]
+Seat 8: LOULOU_25 showed [3h 3d] and won 2145 with One pair : 3
+Seat 10: sabre_laser (button) showed [Ad Qd] and won 2170 with One pair : Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #577523962867613697-32-1445197454 - Holdem no limit (75/300/600) - 2015/10/18 19:44:14 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MR RUBEN (2320)
+Seat 3: GimoDR (3650)
+Seat 6: alex tasi (4715)
+Seat 8: LOULOU_25 (2145)
+Seat 10: sabre_laser (2170)
+*** ANTE/BLINDS ***
+GimoDR posts ante 75
+alex tasi posts ante 75
+MR RUBEN posts ante 75
+LOULOU_25 posts ante 75
+sabre_laser posts ante 75
+GimoDR posts small blind 300
+alex tasi posts big blind 600
+Dealt to sabre_laser [Tc 6h]
+*** PRE-FLOP *** 
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+alex tasi collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Seat 6: alex tasi (big blind) won 1275
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #577523962867613697-33-1445197479 - Holdem no limit (75/300/600) - 2015/10/18 19:44:39 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 1: MR RUBEN (2245)
+Seat 3: GimoDR (3275)
+Seat 6: alex tasi (5315)
+Seat 8: LOULOU_25 (2070)
+Seat 10: sabre_laser (2095)
+*** ANTE/BLINDS ***
+alex tasi posts ante 75
+LOULOU_25 posts ante 75
+MR RUBEN posts ante 75
+GimoDR posts ante 75
+sabre_laser posts ante 75
+alex tasi posts small blind 300
+LOULOU_25 posts big blind 600
+Dealt to sabre_laser [5h Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+MR RUBEN folds
+GimoDR folds
+alex tasi calls 300
+LOULOU_25 checks
+*** FLOP *** [7c Jh Tc]
+alex tasi bets 600
+LOULOU_25 folds
+alex tasi collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | No rake
+Board: [7c Jh Tc]
+Seat 6: alex tasi (small blind) won 2175
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #577523962867613697-34-1445197511 - Holdem no limit (75/300/600) - 2015/10/18 19:45:11 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MR RUBEN (2170)
+Seat 3: GimoDR (3200)
+Seat 6: alex tasi (6215)
+Seat 8: LOULOU_25 (1395)
+Seat 10: sabre_laser (2020)
+*** ANTE/BLINDS ***
+LOULOU_25 posts ante 75
+sabre_laser posts ante 75
+MR RUBEN posts ante 75
+GimoDR posts ante 75
+alex tasi posts ante 75
+LOULOU_25 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [2c Ks]
+*** PRE-FLOP *** 
+MR RUBEN folds
+GimoDR folds
+alex tasi folds
+LOULOU_25 calls 300
+sabre_laser checks
+*** FLOP *** [9h 4c 6h]
+LOULOU_25 checks
+sabre_laser checks
+*** TURN *** [9h 4c 6h][Qs]
+LOULOU_25 checks
+sabre_laser checks
+*** RIVER *** [9h 4c 6h Qs][Tc]
+LOULOU_25 checks
+sabre_laser checks
+*** SHOW DOWN ***
+LOULOU_25 shows [3s 2h] (High card : Queen)
+sabre_laser shows [2c Ks] (High card : King)
+sabre_laser collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [9h 4c 6h Qs Tc]
+Seat 8: LOULOU_25 (small blind) showed [3s 2h] and lost with High card : Queen
+Seat 10: sabre_laser (big blind) showed [2c Ks] and won 1575 with High card : King
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #577523962867613697-35-1445197575 - Holdem no limit (75/300/600) - 2015/10/18 19:46:15 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MR RUBEN (2095)
+Seat 3: GimoDR (3125)
+Seat 6: alex tasi (6140)
+Seat 8: LOULOU_25 (720)
+Seat 10: sabre_laser (2920)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+MR RUBEN posts ante 75
+GimoDR posts ante 75
+alex tasi posts ante 75
+LOULOU_25 posts ante 75
+sabre_laser posts small blind 300
+MR RUBEN posts big blind 600
+Dealt to sabre_laser [Ac 9c]
+*** PRE-FLOP *** 
+GimoDR folds
+alex tasi folds
+LOULOU_25 folds
+sabre_laser raises 2245 to 2845 and is all-in
+MR RUBEN folds
+sabre_laser collected 3820 from pot
+*** SUMMARY ***
+Total pot 3820 | No rake
+Seat 10: sabre_laser (small blind) won 3820
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #577523962867613697-36-1445197595 - Holdem no limit (75/300/600) - 2015/10/18 19:46:35 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MR RUBEN (1420)
+Seat 3: GimoDR (3050)
+Seat 6: alex tasi (6065)
+Seat 8: LOULOU_25 (645)
+Seat 10: sabre_laser (3820)
+*** ANTE/BLINDS ***
+MR RUBEN posts ante 75
+GimoDR posts ante 75
+alex tasi posts ante 75
+LOULOU_25 posts ante 75
+sabre_laser posts ante 75
+MR RUBEN posts small blind 300
+GimoDR posts big blind 600
+Dealt to sabre_laser [8h Jc]
+*** PRE-FLOP *** 
+alex tasi folds
+LOULOU_25 folds
+sabre_laser folds
+MR RUBEN raises 745 to 1345 and is all-in
+GimoDR folds
+MR RUBEN collected 2320 from pot
+*** SUMMARY ***
+Total pot 2320 | No rake
+Seat 1: MR RUBEN (small blind) won 2320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #577523962867613697-37-1445197607 - Holdem no limit (75/300/600) - 2015/10/18 19:46:47 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MR RUBEN (2320)
+Seat 3: GimoDR (2375)
+Seat 6: alex tasi (5990)
+Seat 8: LOULOU_25 (570)
+Seat 10: sabre_laser (3745)
+*** ANTE/BLINDS ***
+GimoDR posts ante 75
+alex tasi posts ante 75
+MR RUBEN posts ante 75
+LOULOU_25 posts ante 75
+sabre_laser posts ante 75
+GimoDR posts small blind 300
+alex tasi posts big blind 600
+Dealt to sabre_laser [4s 4d]
+*** PRE-FLOP *** 
+LOULOU_25 calls 495 and is all-in
+sabre_laser raises 3070 to 3670 and is all-in
+MR RUBEN folds
+GimoDR folds
+alex tasi folds
+*** FLOP *** [Qs 3d Qd]
+*** TURN *** [Qs 3d Qd][Ah]
+*** RIVER *** [Qs 3d Qd Ah][Kc]
+*** SHOW DOWN ***
+LOULOU_25 shows [8d 9c] (One pair : Queens)
+sabre_laser shows [4s 4d] (Two pairs : Queens and 4)
+sabre_laser collected 5440 from pot
+*** SUMMARY ***
+Total pot 5440 | No rake
+Board: [Qs 3d Qd Ah Kc]
+Seat 8: LOULOU_25 showed [8d 9c] and lost with One pair : Queens
+Seat 10: sabre_laser showed [4s 4d] and won 5440 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-38-1445197639 - Holdem no limit (100/400/800) - 2015/10/18 19:47:19 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 1: MR RUBEN (2245)
+Seat 3: GimoDR (2000)
+Seat 6: alex tasi (5315)
+Seat 10: sabre_laser (5440)
+*** ANTE/BLINDS ***
+alex tasi posts ante 100
+sabre_laser posts ante 100
+MR RUBEN posts ante 100
+GimoDR posts ante 100
+alex tasi posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Ts Jd]
+*** PRE-FLOP *** 
+MR RUBEN folds
+GimoDR folds
+alex tasi folds
+sabre_laser collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Seat 10: sabre_laser (big blind) won 1600
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-39-1445197647 - Holdem no limit (100/400/800) - 2015/10/18 19:47:27 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MR RUBEN (2145)
+Seat 3: GimoDR (1900)
+Seat 6: alex tasi (4815)
+Seat 10: sabre_laser (6140)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+MR RUBEN posts ante 100
+GimoDR posts ante 100
+alex tasi posts ante 100
+sabre_laser posts small blind 400
+MR RUBEN posts big blind 800
+Dealt to sabre_laser [Jd 3s]
+*** PRE-FLOP *** 
+GimoDR folds
+alex tasi raises 800 to 1600
+sabre_laser folds
+MR RUBEN folds
+alex tasi collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Seat 6: alex tasi (button) won 3200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-40-1445197677 - Holdem no limit (100/400/800) - 2015/10/18 19:47:57 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MR RUBEN (1245)
+Seat 3: GimoDR (1800)
+Seat 6: alex tasi (6315)
+Seat 10: sabre_laser (5640)
+*** ANTE/BLINDS ***
+MR RUBEN posts ante 100
+GimoDR posts ante 100
+alex tasi posts ante 100
+sabre_laser posts ante 100
+MR RUBEN posts small blind 400
+GimoDR posts big blind 800
+Dealt to sabre_laser [8h 6c]
+*** PRE-FLOP *** 
+alex tasi folds
+sabre_laser folds
+MR RUBEN raises 345 to 1145 and is all-in
+GimoDR raises 555 to 1700 and is all-in
+*** FLOP *** [Jc As 9h]
+*** TURN *** [Jc As 9h][5s]
+*** RIVER *** [Jc As 9h 5s][8d]
+*** SHOW DOWN ***
+MR RUBEN shows [8s Qh] (One pair : 8)
+GimoDR shows [Qs Ad] (One pair : Aces)
+GimoDR collected 3245 from pot
+*** SUMMARY ***
+Total pot 3245 | No rake
+Board: [Jc As 9h 5s 8d]
+Seat 1: MR RUBEN (small blind) showed [8s Qh] and lost with One pair : 8
+Seat 3: GimoDR (big blind) showed [Qs Ad] and won 3245 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-41-1445197700 - Holdem no limit (100/400/800) - 2015/10/18 19:48:20 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #1 is the button
+Seat 3: GimoDR (3245)
+Seat 6: alex tasi (6215)
+Seat 10: sabre_laser (5540)
+*** ANTE/BLINDS ***
+GimoDR posts ante 100
+alex tasi posts ante 100
+sabre_laser posts ante 100
+GimoDR posts small blind 400
+alex tasi posts big blind 800
+Dealt to sabre_laser [Ks 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+GimoDR raises 2345 to 3145 and is all-in
+alex tasi folds
+GimoDR collected 4245 from pot
+*** SUMMARY ***
+Total pot 4245 | No rake
+Seat 3: GimoDR (small blind) won 4245
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-42-1445197714 - Holdem no limit (100/400/800) - 2015/10/18 19:48:34 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 3: GimoDR (4245)
+Seat 6: alex tasi (5315)
+Seat 10: sabre_laser (5440)
+*** ANTE/BLINDS ***
+alex tasi posts ante 100
+sabre_laser posts ante 100
+GimoDR posts ante 100
+alex tasi posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [6d 4h]
+*** PRE-FLOP *** 
+GimoDR folds
+alex tasi folds
+sabre_laser collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 10: sabre_laser (big blind) won 1500
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-43-1445197721 - Holdem no limit (100/400/800) - 2015/10/18 19:48:41 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 3: GimoDR (4145)
+Seat 6: alex tasi (4815)
+Seat 10: sabre_laser (6040)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+GimoDR posts ante 100
+alex tasi posts ante 100
+sabre_laser posts small blind 400
+GimoDR posts big blind 800
+Dealt to sabre_laser [6c 2s]
+*** PRE-FLOP *** 
+alex tasi calls 800
+sabre_laser folds
+GimoDR raises 3245 to 4045 and is all-in
+alex tasi folds
+GimoDR collected 5545 from pot
+*** SUMMARY ***
+Total pot 5545 | No rake
+Seat 3: GimoDR (big blind) won 5545
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-44-1445197737 - Holdem no limit (100/400/800) - 2015/10/18 19:48:57 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 3: GimoDR (5545)
+Seat 6: alex tasi (3915)
+Seat 10: sabre_laser (5540)
+*** ANTE/BLINDS ***
+GimoDR posts ante 100
+alex tasi posts ante 100
+sabre_laser posts ante 100
+GimoDR posts small blind 400
+alex tasi posts big blind 800
+Dealt to sabre_laser [6c Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+GimoDR folds
+alex tasi collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 6: alex tasi (big blind) won 1500
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-45-1445197745 - Holdem no limit (100/400/800) - 2015/10/18 19:49:05 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #3 is the button
+Seat 3: GimoDR (5045)
+Seat 6: alex tasi (4515)
+Seat 10: sabre_laser (5440)
+*** ANTE/BLINDS ***
+alex tasi posts ante 100
+sabre_laser posts ante 100
+GimoDR posts ante 100
+alex tasi posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [3c 5d]
+*** PRE-FLOP *** 
+GimoDR folds
+alex tasi raises 800 to 1600
+sabre_laser folds
+alex tasi collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 6: alex tasi (small blind) won 2700
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-46-1445197759 - Holdem no limit (100/400/800) - 2015/10/18 19:49:19 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 3: GimoDR (4945)
+Seat 6: alex tasi (5515)
+Seat 10: sabre_laser (4540)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+GimoDR posts ante 100
+alex tasi posts ante 100
+sabre_laser posts small blind 400
+GimoDR posts big blind 800
+Dealt to sabre_laser [3h 4c]
+*** PRE-FLOP *** 
+alex tasi raises 800 to 1600
+sabre_laser folds
+GimoDR folds
+alex tasi collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Seat 6: alex tasi (button) won 3100
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-47-1445197777 - Holdem no limit (100/400/800) - 2015/10/18 19:49:37 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 3: GimoDR (4045)
+Seat 6: alex tasi (6915)
+Seat 10: sabre_laser (4040)
+*** ANTE/BLINDS ***
+GimoDR posts ante 100
+alex tasi posts ante 100
+sabre_laser posts ante 100
+GimoDR posts small blind 400
+alex tasi posts big blind 800
+Dealt to sabre_laser [7s 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+GimoDR raises 3145 to 3945 and is all-in
+alex tasi calls 3145
+*** FLOP *** [Ad 4d 4s]
+*** TURN *** [Ad 4d 4s][Qs]
+*** RIVER *** [Ad 4d 4s Qs][Tc]
+*** SHOW DOWN ***
+GimoDR shows [5s 5h] (Two pairs : 5 and 4)
+alex tasi shows [8d 8h] (Two pairs : 8 and 4)
+alex tasi collected 8190 from pot
+*** SUMMARY ***
+Total pot 8190 | No rake
+Board: [Ad 4d 4s Qs Tc]
+Seat 3: GimoDR (small blind) showed [5s 5h] and lost with Two pairs : 5 and 4
+Seat 6: alex tasi (big blind) showed [8d 8h] and won 8190 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #577523962867613697-48-1445197811 - Holdem no limit (100/400/800) - 2015/10/18 19:50:11 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 6: alex tasi (11060)
+Seat 10: sabre_laser (3940)
+*** ANTE/BLINDS ***
+alex tasi posts ante 100
+sabre_laser posts ante 100
+alex tasi posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Kc Ac]
+*** PRE-FLOP *** 
+alex tasi folds
+sabre_laser collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Seat 10: sabre_laser (big blind) won 1400
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #577523962867613697-49-1445197819 - Holdem no limit (125/500/1000) - 2015/10/18 19:50:19 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 6: alex tasi (10560)
+Seat 10: sabre_laser (4440)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 125
+alex tasi posts ante 125
+sabre_laser posts small blind 500
+alex tasi posts big blind 1000
+Dealt to sabre_laser [6d 8d]
+*** PRE-FLOP *** 
+sabre_laser calls 500
+alex tasi checks
+*** FLOP *** [3c As 9d]
+alex tasi bets 1000
+sabre_laser folds
+alex tasi collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Board: [3c As 9d]
+Seat 6: alex tasi (big blind) won 3250
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #577523962867613697-50-1445197875 - Holdem no limit (125/500/1000) - 2015/10/18 19:51:15 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 6: alex tasi (11685)
+Seat 10: sabre_laser (3315)
+*** ANTE/BLINDS ***
+alex tasi posts ante 125
+sabre_laser posts ante 125
+alex tasi posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [4c 6c]
+*** PRE-FLOP *** 
+alex tasi calls 500
+sabre_laser checks
+*** FLOP *** [Tc Kc 2h]
+sabre_laser bets 2190 and is all-in
+alex tasi folds
+sabre_laser collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [Tc Kc 2h]
+Seat 10: sabre_laser (big blind) won 4440
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #577523962867613697-51-1445197889 - Holdem no limit (125/500/1000) - 2015/10/18 19:51:29 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #10 is the button
+Seat 6: alex tasi (10560)
+Seat 10: sabre_laser (4440)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 125
+alex tasi posts ante 125
+sabre_laser posts small blind 500
+alex tasi posts big blind 1000
+Dealt to sabre_laser [6h 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+alex tasi collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Seat 6: alex tasi (big blind) won 1750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #577523962867613697-52-1445197896 - Holdem no limit (125/500/1000) - 2015/10/18 19:51:36 UTC
+Table: 'No Limit Hold'em(134465276)#0' 10-max (real money) Seat #6 is the button
+Seat 6: alex tasi (11185)
+Seat 10: sabre_laser (3815)
+*** ANTE/BLINDS ***
+alex tasi posts ante 125
+sabre_laser posts ante 125
+alex tasi posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [9d 4d]
+*** PRE-FLOP *** 
+alex tasi calls 500
+sabre_laser checks
+*** FLOP *** [9s 8d 2c]
+sabre_laser checks
+alex tasi bets 2250
+sabre_laser raises 440 to 2690 and is all-in
+alex tasi calls 440
+*** TURN *** [9s 8d 2c][8c]
+*** RIVER *** [9s 8d 2c 8c][Kc]
+*** SHOW DOWN ***
+sabre_laser shows [9d 4d] (Two pairs : 9 and 8)
+alex tasi shows [Kh Ah] (Two pairs : Kings and 8)
+alex tasi collected 7630 from pot
+*** SUMMARY ***
+Total pot 7630 | No rake
+Board: [9s 8d 2c 8c Kc]
+Seat 6: alex tasi (small blind) (button) showed [Kh Ah] and won 7630 with Two pairs : Kings and 8
+Seat 10: sabre_laser (big blind) showed [9d 4d] and lost with Two pairs : 9 and 8
+
+

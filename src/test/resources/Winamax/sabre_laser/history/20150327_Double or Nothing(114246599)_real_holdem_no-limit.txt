@@ -1,0 +1,1089 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #490685406384226305-1-1427477597 - Holdem no limit (10/20) - 2015/03/27 17:33:17 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #7 is the button
+Seat 1: isisprod (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: ASenMasse (1500)
+Seat 4: lola666 (1500)
+Seat 5: spartoo (1500)
+Seat 6: loupoker1988 (1500)
+Seat 7: jncga (1500)
+Seat 8: La44Ma44 (1500)
+Seat 9: Laetitila38 (1500)
+Seat 10: 7-Nico9-7 (1500)
+*** ANTE/BLINDS ***
+La44Ma44 posts small blind 10
+Laetitila38 posts big blind 20
+Dealt to sabre_laser [7s Qs]
+*** PRE-FLOP *** 
+7-Nico9-7 folds
+isisprod folds
+sabre_laser folds
+ASenMasse raises 40 to 60
+lola666 folds
+spartoo folds
+loupoker1988 calls 60
+jncga folds
+La44Ma44 calls 50
+Laetitila38 folds
+*** FLOP *** [Qc 9d Kc]
+La44Ma44 checks
+ASenMasse bets 100
+loupoker1988 calls 100
+La44Ma44 folds
+*** TURN *** [Qc 9d Kc][3h]
+ASenMasse bets 140
+loupoker1988 calls 140
+*** RIVER *** [Qc 9d Kc 3h][Ah]
+ASenMasse bets 1200 and is all-in
+loupoker1988 calls 1200 and is all-in
+*** SHOW DOWN ***
+loupoker1988 shows [As Td] (One pair : Aces)
+ASenMasse shows [Ac Qh] (Two pairs : Aces and Queens)
+ASenMasse collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [Qc 9d Kc 3h Ah]
+Seat 3: ASenMasse showed [Ac Qh] and won 3080 with Two pairs : Aces and Queens
+Seat 6: loupoker1988 showed [As Td] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #490685406384226305-2-1427477683 - Holdem no limit (10/20) - 2015/03/27 17:34:43 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #8 is the button
+Seat 1: isisprod (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: ASenMasse (3080)
+Seat 4: lola666 (1500)
+Seat 5: spartoo (1500)
+Seat 7: jncga (1500)
+Seat 8: La44Ma44 (1440)
+Seat 9: Laetitila38 (1480)
+Seat 10: 7-Nico9-7 (1500)
+*** ANTE/BLINDS ***
+Laetitila38 posts small blind 10
+7-Nico9-7 posts big blind 20
+Dealt to sabre_laser [5h 3s]
+*** PRE-FLOP *** 
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 calls 20
+spartoo folds
+jncga folds
+La44Ma44 calls 20
+Laetitila38 folds
+7-Nico9-7 checks
+*** FLOP *** [4d 5s 7h]
+7-Nico9-7 checks
+lola666 checks
+La44Ma44 checks
+*** TURN *** [4d 5s 7h][Qh]
+7-Nico9-7 bets 30
+lola666 folds
+La44Ma44 folds
+7-Nico9-7 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4d 5s 7h Qh]
+Seat 10: 7-Nico9-7 (big blind) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #490685406384226305-3-1427477744 - Holdem no limit (10/20) - 2015/03/27 17:35:44 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #9 is the button
+Seat 1: isisprod (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: ASenMasse (3080)
+Seat 4: lola666 (1480)
+Seat 5: spartoo (1500)
+Seat 7: jncga (1500)
+Seat 8: La44Ma44 (1420)
+Seat 9: Laetitila38 (1470)
+Seat 10: 7-Nico9-7 (1550)
+*** ANTE/BLINDS ***
+7-Nico9-7 posts small blind 10
+isisprod posts big blind 20
+Dealt to sabre_laser [6c 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+ASenMasse calls 20
+lola666 folds
+spartoo folds
+jncga calls 20
+La44Ma44 folds
+Laetitila38 folds
+7-Nico9-7 calls 10
+isisprod checks
+*** FLOP *** [Kc 6h 4d]
+7-Nico9-7 checks
+isisprod bets 20
+ASenMasse raises 50 to 70
+jncga calls 70
+7-Nico9-7 folds
+isisprod calls 50
+*** TURN *** [Kc 6h 4d][Ah]
+isisprod checks
+ASenMasse bets 145
+jncga calls 145
+isisprod calls 145
+*** RIVER *** [Kc 6h 4d Ah][8d]
+isisprod checks
+ASenMasse bets 170
+jncga raises 170 to 340
+isisprod folds
+ASenMasse calls 170
+*** SHOW DOWN ***
+ASenMasse shows [Td Kd] (One pair : Kings)
+jncga shows [7s 5s] (Straight 8 high)
+jncga collected 1405 from pot
+*** SUMMARY ***
+Total pot 1405 | No rake
+Board: [Kc 6h 4d Ah 8d]
+Seat 3: ASenMasse showed [Td Kd] and lost with One pair : Kings
+Seat 7: jncga showed [7s 5s] and won 1405 with Straight 8 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #490685406384226305-4-1427477890 - Holdem no limit (10/20) - 2015/03/27 17:38:10 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #10 is the button
+Seat 1: isisprod (1265)
+Seat 2: sabre_laser (1500)
+Seat 3: ASenMasse (2505)
+Seat 4: lola666 (1480)
+Seat 5: spartoo (1500)
+Seat 7: jncga (2330)
+Seat 8: La44Ma44 (1420)
+Seat 9: Laetitila38 (1470)
+Seat 10: 7-Nico9-7 (1530)
+*** ANTE/BLINDS ***
+isisprod posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Ac 5h]
+*** PRE-FLOP *** 
+ASenMasse folds
+lola666 folds
+spartoo folds
+jncga folds
+La44Ma44 calls 20
+Laetitila38 folds
+7-Nico9-7 calls 20
+isisprod folds
+sabre_laser checks
+*** FLOP *** [Jh Kh Jd]
+sabre_laser checks
+La44Ma44 checks
+7-Nico9-7 bets 30
+sabre_laser folds
+La44Ma44 calls 30
+*** TURN *** [Jh Kh Jd][5d]
+La44Ma44 checks
+7-Nico9-7 checks
+*** RIVER *** [Jh Kh Jd 5d][4c]
+La44Ma44 checks
+7-Nico9-7 checks
+*** SHOW DOWN ***
+La44Ma44 shows [Th 8d] (One pair : Jacks)
+7-Nico9-7 shows [4h Qh] (Two pairs : Jacks and 4)
+7-Nico9-7 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Jh Kh Jd 5d 4c]
+Seat 8: La44Ma44 showed [Th 8d] and lost with One pair : Jacks
+Seat 10: 7-Nico9-7 (button) showed [4h Qh] and won 130 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #490685406384226305-5-1427477990 - Holdem no limit (15/30) - 2015/03/27 17:39:50 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #1 is the button
+Seat 1: isisprod (1255)
+Seat 2: sabre_laser (1480)
+Seat 3: ASenMasse (2505)
+Seat 4: lola666 (1480)
+Seat 5: spartoo (1500)
+Seat 7: jncga (2330)
+Seat 8: La44Ma44 (1370)
+Seat 9: Laetitila38 (1470)
+Seat 10: 7-Nico9-7 (1610)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+ASenMasse posts big blind 30
+Dealt to sabre_laser [7s Ah]
+*** PRE-FLOP *** 
+lola666 folds
+spartoo raises 30 to 60
+jncga folds
+La44Ma44 folds
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser calls 45
+ASenMasse folds
+*** FLOP *** [7c 6d Js]
+sabre_laser bets 120
+spartoo raises 248 to 368
+sabre_laser calls 248
+*** TURN *** [7c 6d Js][9d]
+sabre_laser checks
+spartoo bets 1072 and is all-in
+sabre_laser folds
+spartoo collected 1958 from pot
+*** SUMMARY ***
+Total pot 1958 | No rake
+Board: [7c 6d Js 9d]
+Seat 5: spartoo won 1958
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #490685406384226305-6-1427478049 - Holdem no limit (15/30) - 2015/03/27 17:40:49 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #2 is the button
+Seat 1: isisprod (1255)
+Seat 2: sabre_laser (1052)
+Seat 3: ASenMasse (2475)
+Seat 4: lola666 (1480)
+Seat 5: spartoo (1958)
+Seat 7: jncga (2330)
+Seat 8: La44Ma44 (1370)
+Seat 9: Laetitila38 (1470)
+Seat 10: 7-Nico9-7 (1610)
+*** ANTE/BLINDS ***
+ASenMasse posts small blind 15
+lola666 posts big blind 30
+Dealt to sabre_laser [6h Ah]
+*** PRE-FLOP *** 
+spartoo folds
+jncga folds
+La44Ma44 folds
+Laetitila38 calls 30
+7-Nico9-7 folds
+isisprod folds
+sabre_laser calls 30
+ASenMasse calls 15
+lola666 checks
+*** FLOP *** [3d 9s 4h]
+ASenMasse checks
+lola666 checks
+Laetitila38 checks
+sabre_laser checks
+*** TURN *** [3d 9s 4h][4s]
+ASenMasse bets 30
+lola666 folds
+Laetitila38 calls 30
+sabre_laser calls 30
+*** RIVER *** [3d 9s 4h 4s][Ts]
+ASenMasse bets 30
+Laetitila38 calls 30
+sabre_laser folds
+*** SHOW DOWN ***
+ASenMasse shows [3c 8c] (Two pairs : 4 and 3)
+Laetitila38 shows [9h Tc] (Two pairs : Tens and 9)
+Laetitila38 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3d 9s 4h 4s Ts]
+Seat 3: ASenMasse (small blind) showed [3c 8c] and lost with Two pairs : 4 and 3
+Seat 9: Laetitila38 showed [9h Tc] and won 270 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #490685406384226305-7-1427478134 - Holdem no limit (15/30) - 2015/03/27 17:42:14 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #3 is the button
+Seat 1: isisprod (1255)
+Seat 2: sabre_laser (992)
+Seat 3: ASenMasse (2385)
+Seat 4: lola666 (1450)
+Seat 5: spartoo (1958)
+Seat 7: jncga (2330)
+Seat 8: La44Ma44 (1370)
+Seat 9: Laetitila38 (1650)
+Seat 10: 7-Nico9-7 (1610)
+*** ANTE/BLINDS ***
+lola666 posts small blind 15
+spartoo posts big blind 30
+Dealt to sabre_laser [5h 5d]
+*** PRE-FLOP *** 
+jncga folds
+La44Ma44 raises 90 to 120
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser folds
+ASenMasse calls 120
+lola666 folds
+spartoo folds
+*** FLOP *** [Jc 5c Js]
+La44Ma44 bets 285
+ASenMasse folds
+La44Ma44 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Jc 5c Js]
+Seat 8: La44Ma44 won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #490685406384226305-8-1427478186 - Holdem no limit (15/30) - 2015/03/27 17:43:06 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #4 is the button
+Seat 1: isisprod (1255)
+Seat 2: sabre_laser (992)
+Seat 3: ASenMasse (2265)
+Seat 4: lola666 (1435)
+Seat 5: spartoo (1928)
+Seat 7: jncga (2330)
+Seat 8: La44Ma44 (1535)
+Seat 9: Laetitila38 (1650)
+Seat 10: 7-Nico9-7 (1610)
+*** ANTE/BLINDS ***
+spartoo posts small blind 15
+jncga posts big blind 30
+Dealt to sabre_laser [6s 9h]
+*** PRE-FLOP *** 
+La44Ma44 folds
+Laetitila38 calls 30
+7-Nico9-7 folds
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 calls 30
+spartoo folds
+jncga checks
+*** FLOP *** [8h Kd 6c]
+jncga checks
+Laetitila38 checks
+lola666 bets 30
+jncga calls 30
+Laetitila38 calls 30
+*** TURN *** [8h Kd 6c][2h]
+jncga checks
+Laetitila38 checks
+lola666 bets 75
+jncga raises 90 to 165
+Laetitila38 calls 165
+lola666 folds
+*** RIVER *** [8h Kd 6c 2h][As]
+jncga bets 300
+Laetitila38 raises 300 to 600
+jncga calls 300
+*** SHOW DOWN ***
+jncga shows [Kc 2s] (Two pairs : Kings and 2)
+Laetitila38 shows [Ad 2d] (Two pairs : Aces and 2)
+Laetitila38 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [8h Kd 6c 2h As]
+Seat 7: jncga (big blind) showed [Kc 2s] and lost with Two pairs : Kings and 2
+Seat 9: Laetitila38 showed [Ad 2d] and won 1800 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #490685406384226305-9-1427478285 - Holdem no limit (15/30) - 2015/03/27 17:44:45 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #5 is the button
+Seat 1: isisprod (1255)
+Seat 2: sabre_laser (992)
+Seat 3: ASenMasse (2265)
+Seat 4: lola666 (1300)
+Seat 5: spartoo (1913)
+Seat 7: jncga (1505)
+Seat 8: La44Ma44 (1535)
+Seat 9: Laetitila38 (2625)
+Seat 10: 7-Nico9-7 (1610)
+*** ANTE/BLINDS ***
+jncga posts small blind 15
+La44Ma44 posts big blind 30
+Dealt to sabre_laser [9s 7d]
+*** PRE-FLOP *** 
+Laetitila38 calls 30
+7-Nico9-7 folds
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 folds
+spartoo folds
+jncga folds
+La44Ma44 checks
+*** FLOP *** [4c 5c Qd]
+La44Ma44 bets 30
+Laetitila38 calls 30
+*** TURN *** [4c 5c Qd][Tc]
+La44Ma44 checks
+Laetitila38 checks
+*** RIVER *** [4c 5c Qd Tc][9h]
+La44Ma44 checks
+Laetitila38 checks
+*** SHOW DOWN ***
+Laetitila38 shows [8c Ad] (High card : Ace)
+La44Ma44 shows [Ah 4h] (One pair : 4)
+La44Ma44 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [4c 5c Qd Tc 9h]
+Seat 8: La44Ma44 (big blind) showed [Ah 4h] and won 135 with One pair : 4
+Seat 9: Laetitila38 showed [8c Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #490685406384226305-10-1427478351 - Holdem no limit (20/40) - 2015/03/27 17:45:51 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #7 is the button
+Seat 1: isisprod (1255)
+Seat 2: sabre_laser (992)
+Seat 3: ASenMasse (2265)
+Seat 4: lola666 (1300)
+Seat 5: spartoo (1913)
+Seat 7: jncga (1490)
+Seat 8: La44Ma44 (1610)
+Seat 9: Laetitila38 (2565)
+Seat 10: 7-Nico9-7 (1610)
+*** ANTE/BLINDS ***
+La44Ma44 posts small blind 20
+Laetitila38 posts big blind 40
+Dealt to sabre_laser [8c 8s]
+*** PRE-FLOP *** 
+7-Nico9-7 folds
+isisprod raises 1215 to 1255 and is all-in
+sabre_laser folds
+ASenMasse folds
+lola666 folds
+spartoo folds
+jncga folds
+La44Ma44 folds
+Laetitila38 folds
+isisprod collected 1315 from pot
+*** SUMMARY ***
+Total pot 1315 | No rake
+Seat 1: isisprod won 1315
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #490685406384226305-11-1427478399 - Holdem no limit (20/40) - 2015/03/27 17:46:39 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #8 is the button
+Seat 1: isisprod (1315)
+Seat 2: sabre_laser (992)
+Seat 3: ASenMasse (2265)
+Seat 4: lola666 (1300)
+Seat 5: spartoo (1913)
+Seat 7: jncga (1490)
+Seat 8: La44Ma44 (1590)
+Seat 9: Laetitila38 (2525)
+Seat 10: 7-Nico9-7 (1610)
+*** ANTE/BLINDS ***
+Laetitila38 posts small blind 20
+7-Nico9-7 posts big blind 40
+Dealt to sabre_laser [5c 5s]
+*** PRE-FLOP *** 
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 calls 40
+spartoo raises 40 to 80
+jncga folds
+La44Ma44 folds
+Laetitila38 calls 60
+7-Nico9-7 calls 40
+lola666 calls 40
+*** FLOP *** [6s Qc Qs]
+Laetitila38 checks
+7-Nico9-7 checks
+lola666 checks
+spartoo bets 40
+Laetitila38 folds
+7-Nico9-7 folds
+lola666 folds
+spartoo collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6s Qc Qs]
+Seat 5: spartoo won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #490685406384226305-12-1427478584 - Holdem no limit (20/40) - 2015/03/27 17:49:44 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #9 is the button
+Seat 1: isisprod (1315)
+Seat 2: sabre_laser (992)
+Seat 3: ASenMasse (2265)
+Seat 4: lola666 (1220)
+Seat 5: spartoo (2153)
+Seat 7: jncga (1490)
+Seat 8: La44Ma44 (1590)
+Seat 9: Laetitila38 (2445)
+Seat 10: 7-Nico9-7 (1530)
+*** ANTE/BLINDS ***
+7-Nico9-7 posts small blind 20
+isisprod posts big blind 40
+Dealt to sabre_laser [Th 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+ASenMasse calls 40
+lola666 folds
+spartoo folds
+jncga folds
+La44Ma44 folds
+Laetitila38 calls 40
+7-Nico9-7 calls 20
+isisprod raises 160 to 200
+ASenMasse calls 160
+Laetitila38 folds
+7-Nico9-7 folds
+*** FLOP *** [2c Ah 5c]
+isisprod bets 480
+ASenMasse folds
+isisprod shows [Ad Ks] (One pair : Aces)
+isisprod collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [2c Ah 5c]
+Seat 1: isisprod (big blind) showed [Ad Ks] and won 960 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #490685406384226305-13-1427478653 - Holdem no limit (20/40) - 2015/03/27 17:50:53 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #10 is the button
+Seat 1: isisprod (1595)
+Seat 2: sabre_laser (992)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (1220)
+Seat 5: spartoo (2153)
+Seat 7: jncga (1490)
+Seat 8: La44Ma44 (1590)
+Seat 9: Laetitila38 (2405)
+Seat 10: 7-Nico9-7 (1490)
+*** ANTE/BLINDS ***
+isisprod posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [5s Ks]
+*** PRE-FLOP *** 
+ASenMasse folds
+lola666 calls 40
+spartoo folds
+jncga calls 40
+La44Ma44 calls 40
+Laetitila38 folds
+7-Nico9-7 calls 40
+isisprod folds
+sabre_laser checks
+*** FLOP *** [6c Td 7c]
+sabre_laser checks
+lola666 checks
+jncga checks
+La44Ma44 checks
+7-Nico9-7 checks
+*** TURN *** [6c Td 7c][Qc]
+sabre_laser checks
+lola666 checks
+jncga checks
+La44Ma44 checks
+7-Nico9-7 bets 100
+sabre_laser folds
+lola666 folds
+jncga folds
+La44Ma44 calls 100
+*** RIVER *** [6c Td 7c Qc][8c]
+La44Ma44 checks
+7-Nico9-7 bets 260
+La44Ma44 folds
+7-Nico9-7 shows [4s Js] (High card : Queen)
+7-Nico9-7 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [6c Td 7c Qc 8c]
+Seat 10: 7-Nico9-7 (button) showed [4s Js] and won 680 with High card : Queen
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #490685406384226305-14-1427478786 - Holdem no limit (30/60) - 2015/03/27 17:53:06 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #1 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (952)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (1180)
+Seat 5: spartoo (2153)
+Seat 7: jncga (1450)
+Seat 8: La44Ma44 (1450)
+Seat 9: Laetitila38 (2405)
+Seat 10: 7-Nico9-7 (1770)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+ASenMasse posts big blind 60
+Dealt to sabre_laser [Jd 2h]
+*** PRE-FLOP *** 
+lola666 calls 60
+spartoo folds
+jncga folds
+La44Ma44 folds
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser calls 30
+ASenMasse checks
+*** FLOP *** [5c Ts Jh]
+sabre_laser bets 892 and is all-in
+ASenMasse folds
+lola666 folds
+sabre_laser collected 1072 from pot
+*** SUMMARY ***
+Total pot 1072 | No rake
+Board: [5c Ts Jh]
+Seat 2: sabre_laser (small blind) won 1072
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #490685406384226305-15-1427478839 - Holdem no limit (30/60) - 2015/03/27 17:53:59 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #2 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (1072)
+Seat 3: ASenMasse (2005)
+Seat 4: lola666 (1120)
+Seat 5: spartoo (2153)
+Seat 7: jncga (1450)
+Seat 8: La44Ma44 (1450)
+Seat 9: Laetitila38 (2405)
+Seat 10: 7-Nico9-7 (1770)
+*** ANTE/BLINDS ***
+ASenMasse posts small blind 30
+lola666 posts big blind 60
+Dealt to sabre_laser [9h 8h]
+*** PRE-FLOP *** 
+spartoo folds
+jncga folds
+La44Ma44 raises 150 to 210
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 folds
+La44Ma44 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 8: La44Ma44 won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #490685406384226305-16-1427478885 - Holdem no limit (30/60) - 2015/03/27 17:54:45 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #3 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (1072)
+Seat 3: ASenMasse (1975)
+Seat 4: lola666 (1060)
+Seat 5: spartoo (2153)
+Seat 7: jncga (1450)
+Seat 8: La44Ma44 (1540)
+Seat 9: Laetitila38 (2405)
+Seat 10: 7-Nico9-7 (1770)
+*** ANTE/BLINDS ***
+lola666 posts small blind 30
+spartoo posts big blind 60
+Dealt to sabre_laser [5s 6h]
+*** PRE-FLOP *** 
+jncga folds
+La44Ma44 folds
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser folds
+ASenMasse raises 120 to 180
+lola666 folds
+spartoo folds
+ASenMasse collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: ASenMasse (button) won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #490685406384226305-17-1427478953 - Holdem no limit (30/60) - 2015/03/27 17:55:53 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #4 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (1072)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (1030)
+Seat 5: spartoo (2093)
+Seat 7: jncga (1450)
+Seat 8: La44Ma44 (1540)
+Seat 9: Laetitila38 (2405)
+Seat 10: 7-Nico9-7 (1770)
+*** ANTE/BLINDS ***
+spartoo posts small blind 30
+jncga posts big blind 60
+Dealt to sabre_laser [2h 3s]
+*** PRE-FLOP *** 
+La44Ma44 folds
+Laetitila38 folds
+7-Nico9-7 raises 60 to 120
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 folds
+spartoo folds
+jncga folds
+7-Nico9-7 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 10: 7-Nico9-7 won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #490685406384226305-18-1427479019 - Holdem no limit (30/60) - 2015/03/27 17:56:59 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #5 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (1072)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (1030)
+Seat 5: spartoo (2063)
+Seat 7: jncga (1390)
+Seat 8: La44Ma44 (1540)
+Seat 9: Laetitila38 (2405)
+Seat 10: 7-Nico9-7 (1860)
+*** ANTE/BLINDS ***
+jncga posts small blind 30
+La44Ma44 posts big blind 60
+Dealt to sabre_laser [Jh 4h]
+*** PRE-FLOP *** 
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 calls 60
+spartoo folds
+jncga calls 30
+La44Ma44 checks
+*** FLOP *** [7d 7c Kc]
+jncga bets 120
+La44Ma44 folds
+lola666 folds
+jncga collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7d 7c Kc]
+Seat 7: jncga (small blind) won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490685406384226305-19-1427479067 - Holdem no limit (40/80) - 2015/03/27 17:57:47 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #7 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (1072)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (970)
+Seat 5: spartoo (2063)
+Seat 7: jncga (1510)
+Seat 8: La44Ma44 (1480)
+Seat 9: Laetitila38 (2405)
+Seat 10: 7-Nico9-7 (1860)
+*** ANTE/BLINDS ***
+La44Ma44 posts small blind 40
+Laetitila38 posts big blind 80
+Dealt to sabre_laser [Qs Kd]
+*** PRE-FLOP *** 
+7-Nico9-7 folds
+isisprod folds
+sabre_laser raises 80 to 160
+ASenMasse folds
+lola666 calls 160
+spartoo folds
+jncga folds
+La44Ma44 folds
+Laetitila38 calls 80
+*** FLOP *** [Jh 6c 4c]
+Laetitila38 checks
+sabre_laser checks
+lola666 bets 760
+Laetitila38 folds
+sabre_laser folds
+lola666 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [Jh 6c 4c]
+Seat 4: lola666 won 1280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490685406384226305-20-1427479130 - Holdem no limit (40/80) - 2015/03/27 17:58:50 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #8 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (912)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (1330)
+Seat 5: spartoo (2063)
+Seat 7: jncga (1510)
+Seat 8: La44Ma44 (1440)
+Seat 9: Laetitila38 (2245)
+Seat 10: 7-Nico9-7 (1860)
+*** ANTE/BLINDS ***
+Laetitila38 posts small blind 40
+7-Nico9-7 posts big blind 80
+Dealt to sabre_laser [8d 6d]
+*** PRE-FLOP *** 
+isisprod folds
+sabre_laser folds
+ASenMasse folds
+lola666 folds
+spartoo raises 80 to 160
+jncga folds
+La44Ma44 raises 1280 to 1440 and is all-in
+Laetitila38 folds
+7-Nico9-7 raises 420 to 1860 and is all-in
+spartoo folds
+*** FLOP *** [7c Ah Qs]
+*** TURN *** [7c Ah Qs][9d]
+*** RIVER *** [7c Ah Qs 9d][Qd]
+*** SHOW DOWN ***
+La44Ma44 shows [As Js] (Two pairs : Aces and Queens)
+7-Nico9-7 shows [Ad Kh] (Two pairs : Aces and Queens)
+7-Nico9-7 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Board: [7c Ah Qs 9d Qd]
+Seat 8: La44Ma44 (button) showed [As Js] and lost with Two pairs : Aces and Queens
+Seat 10: 7-Nico9-7 (big blind) showed [Ad Kh] and won 3500 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490685406384226305-21-1427479169 - Holdem no limit (40/80) - 2015/03/27 17:59:29 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #9 is the button
+Seat 1: isisprod (1575)
+Seat 2: sabre_laser (912)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (1330)
+Seat 5: spartoo (1903)
+Seat 7: jncga (1510)
+Seat 9: Laetitila38 (2205)
+Seat 10: 7-Nico9-7 (3500)
+*** ANTE/BLINDS ***
+7-Nico9-7 posts small blind 40
+isisprod posts big blind 80
+Dealt to sabre_laser [9d 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+ASenMasse folds
+lola666 calls 80
+spartoo folds
+jncga calls 80
+Laetitila38 calls 80
+7-Nico9-7 calls 40
+isisprod checks
+*** FLOP *** [5c 6c 2c]
+7-Nico9-7 checks
+isisprod checks
+lola666 bets 240
+jncga folds
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod calls 240
+*** TURN *** [5c 6c 2c][9h]
+isisprod checks
+lola666 bets 360
+isisprod calls 360
+*** RIVER *** [5c 6c 2c 9h][Ks]
+isisprod checks
+lola666 bets 360
+isisprod calls 360
+*** SHOW DOWN ***
+isisprod shows [5h Ac] (One pair : 5)
+lola666 shows [Tc Td] (One pair : Tens)
+lola666 collected 2320 from pot
+*** SUMMARY ***
+Total pot 2320 | No rake
+Board: [5c 6c 2c 9h Ks]
+Seat 1: isisprod (big blind) showed [5h Ac] and lost with One pair : 5
+Seat 4: lola666 showed [Tc Td] and won 2320 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490685406384226305-22-1427479233 - Holdem no limit (40/80) - 2015/03/27 18:00:33 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #10 is the button
+Seat 1: isisprod (535)
+Seat 2: sabre_laser (912)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (2610)
+Seat 5: spartoo (1903)
+Seat 7: jncga (1430)
+Seat 9: Laetitila38 (2125)
+Seat 10: 7-Nico9-7 (3420)
+*** ANTE/BLINDS ***
+isisprod posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Jh 3h]
+*** PRE-FLOP *** 
+ASenMasse folds
+lola666 folds
+spartoo folds
+jncga folds
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: sabre_laser (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490685406384226305-23-1427479270 - Holdem no limit (40/80) - 2015/03/27 18:01:10 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #1 is the button
+Seat 1: isisprod (495)
+Seat 2: sabre_laser (952)
+Seat 3: ASenMasse (2065)
+Seat 4: lola666 (2610)
+Seat 5: spartoo (1903)
+Seat 7: jncga (1430)
+Seat 9: Laetitila38 (2125)
+Seat 10: 7-Nico9-7 (3420)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+ASenMasse posts big blind 80
+Dealt to sabre_laser [Th Js]
+*** PRE-FLOP *** 
+lola666 folds
+spartoo raises 80 to 160
+jncga folds
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod folds
+sabre_laser calls 120
+ASenMasse folds
+*** FLOP *** [Kh 6c Ac]
+sabre_laser checks
+spartoo bets 80
+sabre_laser calls 80
+*** TURN *** [Kh 6c Ac][9h]
+sabre_laser checks
+spartoo bets 80
+sabre_laser calls 80
+*** RIVER *** [Kh 6c Ac 9h][4s]
+sabre_laser checks
+spartoo checks
+*** SHOW DOWN ***
+sabre_laser shows [Th Js] (High card : Ace)
+spartoo shows [Jc Jd] (One pair : Jacks)
+spartoo collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Kh 6c Ac 9h 4s]
+Seat 2: sabre_laser (small blind) showed [Th Js] and lost with High card : Ace
+Seat 5: spartoo showed [Jc Jd] and won 720 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490685406384226305-24-1427479329 - Holdem no limit (40/80) - 2015/03/27 18:02:09 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #2 is the button
+Seat 1: isisprod (495)
+Seat 2: sabre_laser (632)
+Seat 3: ASenMasse (1985)
+Seat 4: lola666 (2610)
+Seat 5: spartoo (2303)
+Seat 7: jncga (1430)
+Seat 9: Laetitila38 (2125)
+Seat 10: 7-Nico9-7 (3420)
+*** ANTE/BLINDS ***
+ASenMasse posts small blind 40
+lola666 posts big blind 80
+Dealt to sabre_laser [3h 6s]
+*** PRE-FLOP *** 
+spartoo folds
+jncga folds
+Laetitila38 folds
+7-Nico9-7 folds
+isisprod calls 80
+sabre_laser folds
+ASenMasse folds
+lola666 checks
+*** FLOP *** [2d 7d Qs]
+lola666 bets 80
+isisprod calls 80
+*** TURN *** [2d 7d Qs][Th]
+lola666 bets 80
+isisprod calls 80
+*** RIVER *** [2d 7d Qs Th][7h]
+lola666 bets 280
+isisprod calls 255 and is all-in
+*** SHOW DOWN ***
+isisprod shows [2h As] (Two pairs : 7 and 2)
+lola666 shows [6c 7c] (Trips of 7)
+lola666 collected 1055 from pot
+*** SUMMARY ***
+Total pot 1055 | No rake
+Board: [2d 7d Qs Th 7h]
+Seat 1: isisprod showed [2h As] and lost with Two pairs : 7 and 2
+Seat 4: lola666 (big blind) showed [6c 7c] and won 1055 with Trips of 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490685406384226305-25-1427479390 - Holdem no limit (40/80) - 2015/03/27 18:03:10 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (632)
+Seat 3: ASenMasse (1945)
+Seat 4: lola666 (3145)
+Seat 5: spartoo (2303)
+Seat 7: jncga (1430)
+Seat 9: Laetitila38 (2125)
+Seat 10: 7-Nico9-7 (3420)
+*** ANTE/BLINDS ***
+lola666 posts small blind 40
+spartoo posts big blind 80
+Dealt to sabre_laser [8d 6h]
+*** PRE-FLOP *** 
+jncga folds
+Laetitila38 folds
+7-Nico9-7 raises 120 to 200
+sabre_laser folds
+ASenMasse folds
+lola666 folds
+spartoo folds
+7-Nico9-7 shows [Ah Ac] (One pair : Aces)
+7-Nico9-7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 10: 7-Nico9-7 showed [Ah Ac] and won 320 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #490685406384226305-26-1427479422 - Holdem no limit (60/120) - 2015/03/27 18:03:42 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #4 is the button
+Seat 2: sabre_laser (632)
+Seat 3: ASenMasse (1945)
+Seat 4: lola666 (3105)
+Seat 5: spartoo (2223)
+Seat 7: jncga (1430)
+Seat 9: Laetitila38 (2125)
+Seat 10: 7-Nico9-7 (3540)
+*** ANTE/BLINDS ***
+spartoo posts small blind 60
+jncga posts big blind 120
+Dealt to sabre_laser [2d Tc]
+*** PRE-FLOP *** 
+Laetitila38 raises 120 to 240
+7-Nico9-7 folds
+sabre_laser folds
+ASenMasse folds
+lola666 folds
+spartoo folds
+jncga calls 120
+*** FLOP *** [Td 8d 7d]
+jncga checks
+Laetitila38 bets 120
+jncga calls 120
+*** TURN *** [Td 8d 7d][7c]
+jncga bets 240
+Laetitila38 calls 240
+*** RIVER *** [Td 8d 7d 7c][3h]
+jncga bets 300
+Laetitila38 folds
+jncga collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [Td 8d 7d 7c 3h]
+Seat 7: jncga (big blind) won 1560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #490685406384226305-27-1427479482 - Holdem no limit (60/120) - 2015/03/27 18:04:42 UTC
+Table: 'Double or Nothing(114246599)#0' 10-max (real money) Seat #5 is the button
+Seat 2: sabre_laser (632)
+Seat 3: ASenMasse (1945)
+Seat 4: lola666 (3105)
+Seat 5: spartoo (2163)
+Seat 7: jncga (2090)
+Seat 9: Laetitila38 (1525)
+Seat 10: 7-Nico9-7 (3540)
+*** ANTE/BLINDS ***
+jncga posts small blind 60
+Laetitila38 posts big blind 120
+Dealt to sabre_laser [3h Ah]
+*** PRE-FLOP *** 
+7-Nico9-7 folds
+sabre_laser raises 120 to 240
+ASenMasse folds
+lola666 folds
+spartoo folds
+jncga folds
+Laetitila38 raises 1285 to 1525 and is all-in
+sabre_laser calls 392 and is all-in
+*** FLOP *** [Jd Qd Qc]
+*** TURN *** [Jd Qd Qc][5c]
+*** RIVER *** [Jd Qd Qc 5c][Th]
+*** SHOW DOWN ***
+sabre_laser shows [3h Ah] (One pair : Queens)
+Laetitila38 shows [7h Ts] (Two pairs : Queens and Tens)
+Laetitila38 collected 2217 from pot
+*** SUMMARY ***
+Total pot 2217 | No rake
+Board: [Jd Qd Qc 5c Th]
+Seat 2: sabre_laser showed [3h Ah] and lost with One pair : Queens
+Seat 9: Laetitila38 (big blind) showed [7h Ts] and won 2217 with Two pairs : Queens and Tens
+
+

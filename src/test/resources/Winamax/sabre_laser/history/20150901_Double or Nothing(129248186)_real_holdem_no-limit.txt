@@ -1,0 +1,773 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #555116731937325057-1-1441129139 - Holdem no limit (10/20) - 2015/09/01 17:38:59 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ddoclu (1500)
+Seat 2: Arealith (1500)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Nejph (1500)
+Seat 5: MuckZEnutZ (1500)
+Seat 6: breezy83 (1500)
+Seat 7: Olive1364 (1500)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: fishman2014 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+fishman2014 posts big blind 20
+Dealt to sabre_laser [4h 2s]
+*** PRE-FLOP *** 
+ddoclu folds
+Arealith raises 20 to 40
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 raises 20 to 60
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+Arealith calls 20
+*** FLOP *** [3d 2h Qh]
+Arealith bets 20
+breezy83 raises 20 to 40
+Arealith calls 20
+*** TURN *** [3d 2h Qh][Td]
+Arealith bets 115
+breezy83 calls 115
+*** RIVER *** [3d 2h Qh Td][4s]
+Arealith bets 460
+breezy83 raises 460 to 920
+Arealith calls 460
+*** SHOW DOWN ***
+breezy83 shows [8c Kc] (High card : King)
+Arealith shows [Ks Qd] (One pair : Queens)
+Arealith collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [3d 2h Qh Td 4s]
+Seat 2: Arealith showed [Ks Qd] and won 2300 with One pair : Queens
+Seat 6: breezy83 showed [8c Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #555116731937325057-2-1441129246 - Holdem no limit (10/20) - 2015/09/01 17:40:46 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ddoclu (1500)
+Seat 2: Arealith (2665)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Nejph (1500)
+Seat 5: MuckZEnutZ (1500)
+Seat 6: breezy83 (365)
+Seat 7: Olive1364 (1500)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1490)
+Seat 10: fishman2014 (1480)
+*** ANTE/BLINDS ***
+fishman2014 posts small blind 10
+ddoclu posts big blind 20
+Dealt to sabre_laser [6d Js]
+*** PRE-FLOP *** 
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 raises 20 to 40
+Olive1364 calls 40
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+*** FLOP *** [Qd Ah 9d]
+breezy83 bets 20
+Olive1364 raises 20 to 40
+breezy83 calls 20
+*** TURN *** [Qd Ah 9d][Ks]
+breezy83 bets 20
+Olive1364 calls 20
+*** RIVER *** [Qd Ah 9d Ks][Kh]
+breezy83 bets 20
+Olive1364 calls 20
+*** SHOW DOWN ***
+breezy83 shows [4d 3c] (One pair : Kings)
+Olive1364 shows [4h Ad] (Two pairs : Aces and Kings)
+Olive1364 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Qd Ah 9d Ks Kh]
+Seat 6: breezy83 showed [4d 3c] and lost with One pair : Kings
+Seat 7: Olive1364 showed [4h Ad] and won 270 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #555116731937325057-3-1441129331 - Holdem no limit (15/30) - 2015/09/01 17:42:11 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ddoclu (1480)
+Seat 2: Arealith (2665)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Nejph (1500)
+Seat 5: MuckZEnutZ (1500)
+Seat 6: breezy83 (245)
+Seat 7: Olive1364 (1650)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1490)
+Seat 10: fishman2014 (1470)
+*** ANTE/BLINDS ***
+ddoclu posts small blind 15
+Arealith posts big blind 30
+Dealt to sabre_laser [9s 3s]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 calls 30
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu calls 15
+Arealith checks
+*** FLOP *** [8s 8h 6c]
+ddoclu checks
+Arealith checks
+breezy83 bets 30
+ddoclu folds
+Arealith folds
+breezy83 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8s 8h 6c]
+Seat 6: breezy83 won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #555116731937325057-4-1441129465 - Holdem no limit (15/30) - 2015/09/01 17:44:25 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ddoclu (1450)
+Seat 2: Arealith (2635)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Nejph (1500)
+Seat 5: MuckZEnutZ (1500)
+Seat 6: breezy83 (305)
+Seat 7: Olive1364 (1650)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1490)
+Seat 10: fishman2014 (1470)
+*** ANTE/BLINDS ***
+Arealith posts small blind 15
+L4B3LVi3 posts big blind 30
+Dealt to sabre_laser [5h 6s]
+*** PRE-FLOP *** 
+Nejph folds
+MuckZEnutZ raises 60 to 90
+breezy83 raises 60 to 150
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+MuckZEnutZ raises 299 to 449
+breezy83 folds
+MuckZEnutZ collected 644 from pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Seat 5: MuckZEnutZ won 644
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #555116731937325057-5-1441129574 - Holdem no limit (20/40) - 2015/09/01 17:46:14 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #2 is the button
+Seat 1: ddoclu (1450)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: Nejph (1500)
+Seat 5: MuckZEnutZ (1695)
+Seat 6: breezy83 (155)
+Seat 7: Olive1364 (1650)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1490)
+Seat 10: fishman2014 (1470)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 20
+Nejph posts big blind 40
+Dealt to sabre_laser [Qh 5c]
+*** PRE-FLOP *** 
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 calls 40
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph checks
+*** FLOP *** [2h Jc 7d]
+Nejph bets 60
+fishman2014 folds
+Nejph collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2h Jc 7d]
+Seat 4: Nejph (big blind) won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #555116731937325057-6-1441129630 - Holdem no limit (20/40) - 2015/09/01 17:47:10 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ddoclu (1450)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1560)
+Seat 5: MuckZEnutZ (1695)
+Seat 6: breezy83 (155)
+Seat 7: Olive1364 (1650)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1490)
+Seat 10: fishman2014 (1430)
+*** ANTE/BLINDS ***
+Nejph posts small blind 20
+MuckZEnutZ posts big blind 40
+Dealt to sabre_laser [Tc 8d]
+*** PRE-FLOP *** 
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 5: MuckZEnutZ (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #555116731937325057-7-1441129661 - Holdem no limit (20/40) - 2015/09/01 17:47:41 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ddoclu (1450)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1540)
+Seat 5: MuckZEnutZ (1715)
+Seat 6: breezy83 (155)
+Seat 7: Olive1364 (1650)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1490)
+Seat 10: fishman2014 (1430)
+*** ANTE/BLINDS ***
+MuckZEnutZ posts small blind 20
+breezy83 posts big blind 40
+Dealt to sabre_laser [8h Ks]
+*** PRE-FLOP *** 
+Olive1364 folds
+V-KING folds
+sabre_laser raises 60 to 100
+fishman2014 calls 100
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+*** FLOP *** [6d Ac 4s]
+sabre_laser bets 120
+fishman2014 calls 120
+*** TURN *** [6d Ac 4s][5c]
+sabre_laser checks
+fishman2014 checks
+*** RIVER *** [6d Ac 4s 5c][2h]
+sabre_laser checks
+fishman2014 checks
+*** SHOW DOWN ***
+sabre_laser shows [8h Ks] (High card : Ace)
+fishman2014 shows [Qh Ad] (One pair : Aces)
+fishman2014 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [6d Ac 4s 5c 2h]
+Seat 9: sabre_laser showed [8h Ks] and lost with High card : Ace
+Seat 10: fishman2014 showed [Qh Ad] and won 500 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #555116731937325057-8-1441129775 - Holdem no limit (30/60) - 2015/09/01 17:49:35 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ddoclu (1450)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1540)
+Seat 5: MuckZEnutZ (1695)
+Seat 6: breezy83 (115)
+Seat 7: Olive1364 (1650)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1270)
+Seat 10: fishman2014 (1710)
+*** ANTE/BLINDS ***
+breezy83 posts small blind 30
+Olive1364 posts big blind 60
+Dealt to sabre_laser [Ah 8s]
+*** PRE-FLOP *** 
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 7: Olive1364 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #555116731937325057-9-1441129821 - Holdem no limit (30/60) - 2015/09/01 17:50:21 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ddoclu (1450)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1540)
+Seat 5: MuckZEnutZ (1695)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1680)
+Seat 8: V-KING (1500)
+Seat 9: sabre_laser (1270)
+Seat 10: fishman2014 (1710)
+*** ANTE/BLINDS ***
+Olive1364 posts small blind 30
+V-KING posts big blind 60
+Dealt to sabre_laser [7c 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+fishman2014 folds
+ddoclu calls 60
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 calls 30
+V-KING checks
+*** FLOP *** [6c 3d Kd]
+Olive1364 bets 60
+V-KING folds
+ddoclu calls 60
+*** TURN *** [6c 3d Kd][3c]
+Olive1364 bets 150
+ddoclu folds
+Olive1364 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [6c 3d Kd 3c]
+Seat 7: Olive1364 (small blind) won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #555116731937325057-10-1441129915 - Holdem no limit (40/80) - 2015/09/01 17:51:55 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ddoclu (1330)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1540)
+Seat 5: MuckZEnutZ (1695)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1440)
+Seat 9: sabre_laser (1270)
+Seat 10: fishman2014 (1710)
+*** ANTE/BLINDS ***
+V-KING posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Ac 7s]
+*** PRE-FLOP *** 
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ raises 83 to 163
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser calls 83
+*** FLOP *** [4h Th Kh]
+sabre_laser checks
+MuckZEnutZ checks
+*** TURN *** [4h Th Kh][9c]
+sabre_laser bets 183
+MuckZEnutZ calls 183
+*** RIVER *** [4h Th Kh 9c][4d]
+sabre_laser bets 366
+MuckZEnutZ calls 366
+*** SHOW DOWN ***
+sabre_laser shows [Ac 7s] (One pair : 4)
+MuckZEnutZ shows [Qd Jc] (Straight King high)
+MuckZEnutZ collected 1464 from pot
+*** SUMMARY ***
+Total pot 1464 | No rake
+Board: [4h Th Kh 9c 4d]
+Seat 5: MuckZEnutZ showed [Qd Jc] and won 1464 with Straight King high
+Seat 9: sabre_laser (big blind) showed [Ac 7s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #555116731937325057-11-1441130023 - Holdem no limit (40/80) - 2015/09/01 17:53:43 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ddoclu (1330)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1540)
+Seat 5: MuckZEnutZ (2447)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (558)
+Seat 10: fishman2014 (1710)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+fishman2014 posts big blind 80
+Dealt to sabre_laser [2s Qs]
+*** PRE-FLOP *** 
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph calls 80
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 checks
+*** FLOP *** [9s 3h Qd]
+fishman2014 checks
+Nejph bets 120
+fishman2014 folds
+Nejph collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [9s 3h Qd]
+Seat 4: Nejph won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #555116731937325057-12-1441130062 - Holdem no limit (60/120) - 2015/09/01 17:54:22 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ddoclu (1330)
+Seat 2: Arealith (2620)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1660)
+Seat 5: MuckZEnutZ (2447)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (518)
+Seat 10: fishman2014 (1630)
+*** ANTE/BLINDS ***
+fishman2014 posts small blind 60
+ddoclu posts big blind 120
+Dealt to sabre_laser [5d 7s]
+*** PRE-FLOP *** 
+Arealith raises 120 to 240
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: Arealith won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #555116731937325057-13-1441130089 - Holdem no limit (60/120) - 2015/09/01 17:54:49 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ddoclu (1210)
+Seat 2: Arealith (2800)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (1660)
+Seat 5: MuckZEnutZ (2447)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (518)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+ddoclu posts small blind 60
+Arealith posts big blind 120
+Dealt to sabre_laser [Js 7d]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+Nejph raises 120 to 240
+MuckZEnutZ calls 240
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith folds
+*** FLOP *** [Ad 4s Ac]
+Nejph bets 240
+MuckZEnutZ folds
+Nejph collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 4s Ac]
+Seat 4: Nejph won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #555116731937325057-14-1441130134 - Holdem no limit (60/120) - 2015/09/01 17:55:34 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ddoclu (1150)
+Seat 2: Arealith (2680)
+Seat 3: L4B3LVi3 (1450)
+Seat 4: Nejph (2080)
+Seat 5: MuckZEnutZ (2207)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (518)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+Arealith posts small blind 60
+L4B3LVi3 posts big blind 120
+Dealt to sabre_laser [4s 6s]
+*** PRE-FLOP *** 
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith calls 60
+L4B3LVi3 checks
+*** FLOP *** [Kc Ts Jh]
+Arealith checks
+L4B3LVi3 checks
+*** TURN *** [Kc Ts Jh][Kd]
+Arealith checks
+L4B3LVi3 checks
+*** RIVER *** [Kc Ts Jh Kd][9c]
+Arealith checks
+L4B3LVi3 bets 120
+Arealith folds
+L4B3LVi3 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kc Ts Jh Kd 9c]
+Seat 3: L4B3LVi3 (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #555116731937325057-15-1441130195 - Holdem no limit (60/120) - 2015/09/01 17:56:35 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #2 is the button
+Seat 1: ddoclu (1150)
+Seat 2: Arealith (2560)
+Seat 3: L4B3LVi3 (1570)
+Seat 4: Nejph (2080)
+Seat 5: MuckZEnutZ (2207)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (518)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 60
+Nejph posts big blind 120
+Dealt to sabre_laser [9s Th]
+*** PRE-FLOP *** 
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: Nejph (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #555116731937325057-16-1441130215 - Holdem no limit (80/160) - 2015/09/01 17:56:55 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ddoclu (1150)
+Seat 2: Arealith (2560)
+Seat 3: L4B3LVi3 (1510)
+Seat 4: Nejph (2140)
+Seat 5: MuckZEnutZ (2207)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (518)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+Nejph posts small blind 80
+MuckZEnutZ posts big blind 160
+Dealt to sabre_laser [7h Kc]
+*** PRE-FLOP *** 
+breezy83 folds
+Olive1364 folds
+V-KING folds
+sabre_laser raises 358 to 518 and is all-in
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+sabre_laser collected 758 from pot
+*** SUMMARY ***
+Total pot 758 | No rake
+Seat 9: sabre_laser won 758
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #555116731937325057-17-1441130261 - Holdem no limit (80/160) - 2015/09/01 17:57:41 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ddoclu (1150)
+Seat 2: Arealith (2560)
+Seat 3: L4B3LVi3 (1510)
+Seat 4: Nejph (2060)
+Seat 5: MuckZEnutZ (2047)
+Seat 6: breezy83 (85)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (758)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+MuckZEnutZ posts small blind 80
+breezy83 posts big blind 85 and is all-in
+Dealt to sabre_laser [Ks 8d]
+*** PRE-FLOP *** 
+Olive1364 folds
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ raises 235 to 320
+*** FLOP *** [6c 5d 4h]
+*** TURN *** [6c 5d 4h][Ts]
+*** RIVER *** [6c 5d 4h Ts][8h]
+*** SHOW DOWN ***
+breezy83 shows [3h 7s] (Straight 8 high)
+MuckZEnutZ shows [4s Th] (Two pairs : Tens and 4)
+MuckZEnutZ collected 235 from side pot 1
+breezy83 collected 170 from main pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [6c 5d 4h Ts 8h]
+Seat 5: MuckZEnutZ (small blind) showed [4s Th] and won 235 with Two pairs : Tens and 4
+Seat 6: breezy83 (big blind) showed [3h 7s] and won 170 with Straight 8 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #555116731937325057-18-1441130302 - Holdem no limit (80/160) - 2015/09/01 17:58:22 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ddoclu (1150)
+Seat 2: Arealith (2560)
+Seat 3: L4B3LVi3 (1510)
+Seat 4: Nejph (2060)
+Seat 5: MuckZEnutZ (1962)
+Seat 6: breezy83 (170)
+Seat 7: Olive1364 (1860)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (758)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+breezy83 posts small blind 80
+Olive1364 posts big blind 160
+Dealt to sabre_laser [9c 2h]
+*** PRE-FLOP *** 
+V-KING folds
+sabre_laser folds
+fishman2014 folds
+ddoclu raises 990 to 1150 and is all-in
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+ddoclu collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Seat 1: ddoclu won 1390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #555116731937325057-19-1441130339 - Holdem no limit (80/160) - 2015/09/01 17:58:59 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ddoclu (1390)
+Seat 2: Arealith (2560)
+Seat 3: L4B3LVi3 (1510)
+Seat 4: Nejph (2060)
+Seat 5: MuckZEnutZ (1962)
+Seat 6: breezy83 (90)
+Seat 7: Olive1364 (1700)
+Seat 8: V-KING (1400)
+Seat 9: sabre_laser (758)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+Olive1364 posts small blind 80
+V-KING posts big blind 160
+Dealt to sabre_laser [2c 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+V-KING collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: V-KING (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #555116731937325057-20-1441130366 - Holdem no limit (80/160) - 2015/09/01 17:59:26 UTC
+Table: 'Double or Nothing(129248186)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ddoclu (1390)
+Seat 2: Arealith (2560)
+Seat 3: L4B3LVi3 (1510)
+Seat 4: Nejph (2060)
+Seat 5: MuckZEnutZ (1962)
+Seat 6: breezy83 (90)
+Seat 7: Olive1364 (1620)
+Seat 8: V-KING (1480)
+Seat 9: sabre_laser (758)
+Seat 10: fishman2014 (1570)
+*** ANTE/BLINDS ***
+V-KING posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [4h 5h]
+*** PRE-FLOP *** 
+fishman2014 folds
+ddoclu folds
+Arealith folds
+L4B3LVi3 folds
+Nejph folds
+MuckZEnutZ folds
+breezy83 folds
+Olive1364 folds
+V-KING raises 1320 to 1480 and is all-in
+sabre_laser calls 598 and is all-in
+*** FLOP *** [2c Qh 6d]
+*** TURN *** [2c Qh 6d][Tc]
+*** RIVER *** [2c Qh 6d Tc][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [4h 5h] (High card : King)
+V-KING shows [Ts Kc] (Two pairs : Kings and Tens)
+V-KING collected 2238 from pot
+*** SUMMARY ***
+Total pot 2238 | No rake
+Board: [2c Qh 6d Tc Kh]
+Seat 8: V-KING (small blind) showed [Ts Kc] and won 2238 with Two pairs : Kings and Tens
+Seat 9: sabre_laser (big blind) showed [4h 5h] and lost with High card : King
+
+

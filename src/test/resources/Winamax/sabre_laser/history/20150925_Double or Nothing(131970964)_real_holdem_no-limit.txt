@@ -1,0 +1,1520 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #566810974401593345-1-1443208893 - Holdem no limit (10/20) - 2015/09/25 19:21:33 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #8 is the button
+Seat 1: schoumphette (1500)
+Seat 2: juki06810 (1500)
+Seat 3: Debo31 (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: anhminh (1500)
+Seat 6: fablaxe (1500)
+Seat 7: YoYoAlpha (1500)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1500)
+Seat 10: trumpette (1500)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 10
+trumpette posts big blind 20
+Dealt to sabre_laser [Ks 3d]
+*** PRE-FLOP *** 
+schoumphette calls 20
+juki06810 folds
+Debo31 folds
+sabre_laser folds
+anhminh folds
+fablaxe calls 20
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette checks
+*** FLOP *** [9s Jh 7h]
+trumpette checks
+schoumphette bets 70
+fablaxe calls 70
+trumpette folds
+*** TURN *** [9s Jh 7h][6d]
+schoumphette bets 50
+fablaxe raises 50 to 100
+schoumphette calls 50
+*** RIVER *** [9s Jh 7h 6d][7s]
+schoumphette checks
+fablaxe bets 99
+schoumphette folds
+fablaxe collected 509 from pot
+*** SUMMARY ***
+Total pot 509 | No rake
+Board: [9s Jh 7h 6d 7s]
+Seat 6: fablaxe won 509
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #566810974401593345-2-1443209015 - Holdem no limit (10/20) - 2015/09/25 19:23:35 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #9 is the button
+Seat 1: schoumphette (1310)
+Seat 2: juki06810 (1500)
+Seat 3: Debo31 (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: anhminh (1500)
+Seat 6: fablaxe (1720)
+Seat 7: YoYoAlpha (1500)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1480)
+*** ANTE/BLINDS ***
+trumpette posts small blind 10
+schoumphette posts big blind 20
+Dealt to sabre_laser [4s Qd]
+*** PRE-FLOP *** 
+juki06810 folds
+Debo31 folds
+sabre_laser folds
+anhminh folds
+fablaxe folds
+YoYoAlpha calls 20
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette checks
+*** FLOP *** [Js Qc Kh]
+schoumphette checks
+YoYoAlpha checks
+*** TURN *** [Js Qc Kh][7d]
+schoumphette checks
+YoYoAlpha checks
+*** RIVER *** [Js Qc Kh 7d][5c]
+schoumphette checks
+YoYoAlpha bets 1480 and is all-in
+schoumphette folds
+YoYoAlpha shows [6d 5s] (One pair : 5)
+YoYoAlpha collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [Js Qc Kh 7d 5c]
+Seat 7: YoYoAlpha showed [6d 5s] and won 1530 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #566810974401593345-3-1443209115 - Holdem no limit (15/30) - 2015/09/25 19:25:15 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #10 is the button
+Seat 1: schoumphette (1290)
+Seat 2: juki06810 (1500)
+Seat 3: Debo31 (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: anhminh (1500)
+Seat 6: fablaxe (1720)
+Seat 7: YoYoAlpha (1530)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+schoumphette posts small blind 15
+juki06810 posts big blind 30
+Dealt to sabre_laser [5h 4s]
+*** PRE-FLOP *** 
+Debo31 folds
+sabre_laser folds
+anhminh folds
+fablaxe folds
+YoYoAlpha calls 30
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette calls 15
+juki06810 raises 90 to 120
+YoYoAlpha calls 90
+schoumphette folds
+*** FLOP *** [Kh Qc 6s]
+juki06810 bets 270
+YoYoAlpha folds
+juki06810 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Kh Qc 6s]
+Seat 2: juki06810 (big blind) won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #566810974401593345-4-1443209185 - Holdem no limit (15/30) - 2015/09/25 19:26:25 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #1 is the button
+Seat 1: schoumphette (1260)
+Seat 2: juki06810 (1650)
+Seat 3: Debo31 (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: anhminh (1500)
+Seat 6: fablaxe (1720)
+Seat 7: YoYoAlpha (1410)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+juki06810 posts small blind 15
+Debo31 posts big blind 30
+Dealt to sabre_laser [As Kd]
+*** PRE-FLOP *** 
+sabre_laser raises 45 to 75
+anhminh raises 45 to 120
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+Debo31 raises 45 to 165
+sabre_laser calls 90
+anhminh calls 45
+*** FLOP *** [7d 9s 5h]
+Debo31 bets 1335 and is all-in
+sabre_laser folds
+anhminh calls 1335 and is all-in
+*** TURN *** [7d 9s 5h][Ts]
+*** RIVER *** [7d 9s 5h Ts][4h]
+*** SHOW DOWN ***
+Debo31 shows [Qd Qc] (One pair : Queens)
+anhminh shows [7h 7c] (Trips of 7)
+anhminh collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [7d 9s 5h Ts 4h]
+Seat 3: Debo31 (big blind) showed [Qd Qc] and lost with One pair : Queens
+Seat 5: anhminh showed [7h 7c] and won 3180 with Trips of 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #566810974401593345-5-1443209254 - Holdem no limit (20/40) - 2015/09/25 19:27:34 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #2 is the button
+Seat 1: schoumphette (1260)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1335)
+Seat 5: anhminh (3180)
+Seat 6: fablaxe (1720)
+Seat 7: YoYoAlpha (1410)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+sabre_laser posts big blind 40
+Dealt to sabre_laser [8h Ac]
+*** PRE-FLOP *** 
+anhminh folds
+fablaxe folds
+YoYoAlpha calls 40
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser raises 120 to 160
+YoYoAlpha calls 120
+*** FLOP *** [Ad Qh 4d]
+sabre_laser bets 160
+YoYoAlpha folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ad Qh 4d]
+Seat 4: sabre_laser (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #566810974401593345-6-1443209334 - Holdem no limit (20/40) - 2015/09/25 19:28:54 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #3 is the button
+Seat 1: schoumphette (1260)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1495)
+Seat 5: anhminh (3180)
+Seat 6: fablaxe (1720)
+Seat 7: YoYoAlpha (1250)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+anhminh posts big blind 40
+Dealt to sabre_laser [Qc Js]
+*** PRE-FLOP *** 
+fablaxe folds
+YoYoAlpha calls 40
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser calls 20
+anhminh checks
+*** FLOP *** [4c 4s As]
+sabre_laser checks
+anhminh checks
+YoYoAlpha bets 1210 and is all-in
+sabre_laser folds
+anhminh folds
+YoYoAlpha collected 1330 from pot
+*** SUMMARY ***
+Total pot 1330 | No rake
+Board: [4c 4s As]
+Seat 7: YoYoAlpha won 1330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #566810974401593345-7-1443209437 - Holdem no limit (30/60) - 2015/09/25 19:30:37 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #4 is the button
+Seat 1: schoumphette (1260)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1455)
+Seat 5: anhminh (3140)
+Seat 6: fablaxe (1720)
+Seat 7: YoYoAlpha (1330)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+anhminh posts small blind 30
+fablaxe posts big blind 60
+Dealt to sabre_laser [6s Ks]
+*** PRE-FLOP *** 
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette calls 60
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe checks
+*** FLOP *** [Qh 5c Ah]
+fablaxe checks
+schoumphette bets 150
+fablaxe folds
+schoumphette collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Qh 5c Ah]
+Seat 1: schoumphette won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #566810974401593345-8-1443209505 - Holdem no limit (30/60) - 2015/09/25 19:31:45 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #5 is the button
+Seat 1: schoumphette (1350)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1455)
+Seat 5: anhminh (3110)
+Seat 6: fablaxe (1660)
+Seat 7: YoYoAlpha (1330)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+fablaxe posts small blind 30
+YoYoAlpha posts big blind 60
+Dealt to sabre_laser [8s Ac]
+*** PRE-FLOP *** 
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser raises 60 to 120
+anhminh folds
+fablaxe folds
+YoYoAlpha folds
+sabre_laser collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 4: sabre_laser won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #566810974401593345-9-1443209551 - Holdem no limit (30/60) - 2015/09/25 19:32:31 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #6 is the button
+Seat 1: schoumphette (1350)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1545)
+Seat 5: anhminh (3110)
+Seat 6: fablaxe (1630)
+Seat 7: YoYoAlpha (1270)
+Seat 8: raidden02 (1500)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+YoYoAlpha posts small blind 30
+raidden02 posts big blind 60
+Dealt to sabre_laser [4h Kh]
+*** PRE-FLOP *** 
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser folds
+anhminh raises 150 to 210
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+anhminh collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 5: anhminh won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #566810974401593345-10-1443209590 - Holdem no limit (30/60) - 2015/09/25 19:33:10 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #7 is the button
+Seat 1: schoumphette (1350)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1545)
+Seat 5: anhminh (3200)
+Seat 6: fablaxe (1630)
+Seat 7: YoYoAlpha (1240)
+Seat 8: raidden02 (1440)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 30
+FataIBazooka posts big blind 60
+Dealt to sabre_laser [5c Kd]
+*** PRE-FLOP *** 
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser folds
+anhminh calls 60
+fablaxe folds
+YoYoAlpha calls 60
+raidden02 folds
+FataIBazooka checks
+*** FLOP *** [2h 7s Qc]
+FataIBazooka checks
+anhminh bets 210
+YoYoAlpha folds
+FataIBazooka folds
+anhminh collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [2h 7s Qc]
+Seat 5: anhminh won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #566810974401593345-11-1443209660 - Holdem no limit (40/80) - 2015/09/25 19:34:20 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #8 is the button
+Seat 1: schoumphette (1350)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1545)
+Seat 5: anhminh (3350)
+Seat 6: fablaxe (1630)
+Seat 7: YoYoAlpha (1180)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1430)
+Seat 10: trumpette (1470)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 40
+trumpette posts big blind 80
+Dealt to sabre_laser [2s 8h]
+*** PRE-FLOP *** 
+schoumphette calls 80
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe calls 80
+YoYoAlpha calls 80
+raidden02 folds
+FataIBazooka folds
+trumpette checks
+*** FLOP *** [Ah 4c 8s]
+trumpette folds
+schoumphette checks
+fablaxe checks
+YoYoAlpha bets 120
+schoumphette folds
+fablaxe folds
+YoYoAlpha collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ah 4c 8s]
+Seat 7: YoYoAlpha won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #566810974401593345-12-1443209759 - Holdem no limit (40/80) - 2015/09/25 19:35:59 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #9 is the button
+Seat 1: schoumphette (1270)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1545)
+Seat 5: anhminh (3350)
+Seat 6: fablaxe (1550)
+Seat 7: YoYoAlpha (1460)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1390)
+*** ANTE/BLINDS ***
+trumpette posts small blind 40
+schoumphette posts big blind 80
+Dealt to sabre_laser [3d 7c]
+*** PRE-FLOP *** 
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe calls 80
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette checks
+*** FLOP *** [Td 7h Jh]
+schoumphette checks
+fablaxe checks
+*** TURN *** [Td 7h Jh][4d]
+schoumphette checks
+fablaxe checks
+*** RIVER *** [Td 7h Jh 4d][8d]
+schoumphette bets 80
+fablaxe calls 80
+*** SHOW DOWN ***
+fablaxe shows [Ad Js] (One pair : Jacks)
+schoumphette shows [6h 5s] (Straight 8 high)
+schoumphette collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Td 7h Jh 4d 8d]
+Seat 1: schoumphette (big blind) showed [6h 5s] and won 360 with Straight 8 high
+Seat 6: fablaxe showed [Ad Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #566810974401593345-13-1443209823 - Holdem no limit (60/120) - 2015/09/25 19:37:03 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #10 is the button
+Seat 1: schoumphette (1470)
+Seat 2: juki06810 (1635)
+Seat 4: sabre_laser (1545)
+Seat 5: anhminh (3350)
+Seat 6: fablaxe (1390)
+Seat 7: YoYoAlpha (1460)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1350)
+*** ANTE/BLINDS ***
+schoumphette posts small blind 60
+juki06810 posts big blind 120
+Dealt to sabre_laser [Qs Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+anhminh folds
+fablaxe folds
+YoYoAlpha raises 1340 to 1460 and is all-in
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+YoYoAlpha collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 7: YoYoAlpha won 1640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #566810974401593345-14-1443209855 - Holdem no limit (60/120) - 2015/09/25 19:37:35 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #1 is the button
+Seat 1: schoumphette (1410)
+Seat 2: juki06810 (1515)
+Seat 4: sabre_laser (1545)
+Seat 5: anhminh (3350)
+Seat 6: fablaxe (1390)
+Seat 7: YoYoAlpha (1640)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1350)
+*** ANTE/BLINDS ***
+juki06810 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [5s 3d]
+*** PRE-FLOP *** 
+anhminh folds
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette calls 120
+juki06810 calls 60
+sabre_laser checks
+*** FLOP *** [6h 6s 9s]
+juki06810 checks
+sabre_laser checks
+schoumphette bets 120
+juki06810 folds
+sabre_laser folds
+schoumphette collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6h 6s 9s]
+Seat 1: schoumphette (button) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #566810974401593345-15-1443209915 - Holdem no limit (60/120) - 2015/09/25 19:38:35 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #2 is the button
+Seat 1: schoumphette (1650)
+Seat 2: juki06810 (1395)
+Seat 4: sabre_laser (1425)
+Seat 5: anhminh (3350)
+Seat 6: fablaxe (1390)
+Seat 7: YoYoAlpha (1640)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1350)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+anhminh posts big blind 120
+Dealt to sabre_laser [2s Th]
+*** PRE-FLOP *** 
+fablaxe folds
+YoYoAlpha raises 1520 to 1640 and is all-in
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser folds
+anhminh folds
+YoYoAlpha collected 1820 from pot
+*** SUMMARY ***
+Total pot 1820 | No rake
+Seat 7: YoYoAlpha won 1820
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #566810974401593345-16-1443209970 - Holdem no limit (80/160) - 2015/09/25 19:39:30 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #4 is the button
+Seat 1: schoumphette (1650)
+Seat 2: juki06810 (1395)
+Seat 4: sabre_laser (1365)
+Seat 5: anhminh (3230)
+Seat 6: fablaxe (1390)
+Seat 7: YoYoAlpha (1820)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1350)
+*** ANTE/BLINDS ***
+anhminh posts small blind 80
+fablaxe posts big blind 160
+Dealt to sabre_laser [7h 4c]
+*** PRE-FLOP *** 
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser folds
+anhminh raises 160 to 320
+fablaxe folds
+anhminh collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 5: anhminh (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #566810974401593345-17-1443210001 - Holdem no limit (80/160) - 2015/09/25 19:40:01 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #5 is the button
+Seat 1: schoumphette (1650)
+Seat 2: juki06810 (1395)
+Seat 4: sabre_laser (1365)
+Seat 5: anhminh (3390)
+Seat 6: fablaxe (1230)
+Seat 7: YoYoAlpha (1820)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1350)
+*** ANTE/BLINDS ***
+fablaxe posts small blind 80
+YoYoAlpha posts big blind 160
+Dealt to sabre_laser [5s 7h]
+*** PRE-FLOP *** 
+raidden02 folds
+FataIBazooka folds
+trumpette raises 160 to 320
+schoumphette folds
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe folds
+YoYoAlpha folds
+trumpette collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 10: trumpette won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #566810974401593345-18-1443210040 - Holdem no limit (80/160) - 2015/09/25 19:40:40 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #6 is the button
+Seat 1: schoumphette (1650)
+Seat 2: juki06810 (1395)
+Seat 4: sabre_laser (1365)
+Seat 5: anhminh (3390)
+Seat 6: fablaxe (1150)
+Seat 7: YoYoAlpha (1660)
+Seat 8: raidden02 (1410)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1590)
+*** ANTE/BLINDS ***
+YoYoAlpha posts small blind 80
+raidden02 posts big blind 160
+Dealt to sabre_laser [7s Ad]
+*** PRE-FLOP *** 
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe folds
+YoYoAlpha calls 80
+raidden02 checks
+*** FLOP *** [Kc Td 8d]
+YoYoAlpha bets 1500 and is all-in
+raidden02 folds
+YoYoAlpha collected 1820 from pot
+*** SUMMARY ***
+Total pot 1820 | No rake
+Board: [Kc Td 8d]
+Seat 7: YoYoAlpha (small blind) won 1820
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #566810974401593345-19-1443210093 - Holdem no limit (80/160) - 2015/09/25 19:41:33 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #7 is the button
+Seat 1: schoumphette (1650)
+Seat 2: juki06810 (1395)
+Seat 4: sabre_laser (1365)
+Seat 5: anhminh (3390)
+Seat 6: fablaxe (1150)
+Seat 7: YoYoAlpha (1820)
+Seat 8: raidden02 (1250)
+Seat 9: FataIBazooka (1390)
+Seat 10: trumpette (1590)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 80
+FataIBazooka posts big blind 160
+Dealt to sabre_laser [8d 5d]
+*** PRE-FLOP *** 
+trumpette folds
+schoumphette calls 160
+juki06810 folds
+sabre_laser folds
+anhminh raises 560 to 720
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+schoumphette folds
+anhminh collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Seat 5: anhminh won 1120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #566810974401593345-20-1443210136 - Holdem no limit (80/160) - 2015/09/25 19:42:16 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #8 is the button
+Seat 1: schoumphette (1490)
+Seat 2: juki06810 (1395)
+Seat 4: sabre_laser (1365)
+Seat 5: anhminh (3790)
+Seat 6: fablaxe (1150)
+Seat 7: YoYoAlpha (1820)
+Seat 8: raidden02 (1170)
+Seat 9: FataIBazooka (1230)
+Seat 10: trumpette (1590)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 80
+trumpette posts big blind 160
+Dealt to sabre_laser [8h Qd]
+*** PRE-FLOP *** 
+schoumphette folds
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe calls 160
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette checks
+*** FLOP *** [Tc Qc 2h]
+trumpette checks
+fablaxe bets 160
+trumpette folds
+fablaxe collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Tc Qc 2h]
+Seat 6: fablaxe won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #566810974401593345-21-1443210193 - Holdem no limit (10/100/200) - 2015/09/25 19:43:13 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #9 is the button
+Seat 1: schoumphette (1490)
+Seat 2: juki06810 (1395)
+Seat 4: sabre_laser (1365)
+Seat 5: anhminh (3790)
+Seat 6: fablaxe (1390)
+Seat 7: YoYoAlpha (1820)
+Seat 8: raidden02 (1170)
+Seat 9: FataIBazooka (1150)
+Seat 10: trumpette (1430)
+*** ANTE/BLINDS ***
+trumpette posts ante 10
+schoumphette posts ante 10
+juki06810 posts ante 10
+sabre_laser posts ante 10
+anhminh posts ante 10
+fablaxe posts ante 10
+YoYoAlpha posts ante 10
+raidden02 posts ante 10
+FataIBazooka posts ante 10
+trumpette posts small blind 100
+schoumphette posts big blind 200
+Dealt to sabre_laser [Jd 5d]
+*** PRE-FLOP *** 
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe folds
+YoYoAlpha folds
+raidden02 raises 960 to 1160 and is all-in
+FataIBazooka folds
+trumpette folds
+schoumphette folds
+raidden02 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 8: raidden02 won 1550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #566810974401593345-22-1443210236 - Holdem no limit (10/100/200) - 2015/09/25 19:43:56 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #10 is the button
+Seat 1: schoumphette (1280)
+Seat 2: juki06810 (1385)
+Seat 4: sabre_laser (1355)
+Seat 5: anhminh (3780)
+Seat 6: fablaxe (1380)
+Seat 7: YoYoAlpha (1810)
+Seat 8: raidden02 (1550)
+Seat 9: FataIBazooka (1140)
+Seat 10: trumpette (1320)
+*** ANTE/BLINDS ***
+schoumphette posts ante 10
+juki06810 posts ante 10
+sabre_laser posts ante 10
+anhminh posts ante 10
+fablaxe posts ante 10
+YoYoAlpha posts ante 10
+raidden02 posts ante 10
+FataIBazooka posts ante 10
+trumpette posts ante 10
+schoumphette posts small blind 100
+juki06810 posts big blind 200
+Dealt to sabre_laser [Js 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+anhminh folds
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka raises 930 to 1130 and is all-in
+trumpette folds
+schoumphette folds
+juki06810 folds
+FataIBazooka collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Seat 9: FataIBazooka won 1520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #566810974401593345-23-1443210286 - Holdem no limit (10/100/200) - 2015/09/25 19:44:46 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #1 is the button
+Seat 1: schoumphette (1170)
+Seat 2: juki06810 (1175)
+Seat 4: sabre_laser (1345)
+Seat 5: anhminh (3770)
+Seat 6: fablaxe (1370)
+Seat 7: YoYoAlpha (1800)
+Seat 8: raidden02 (1540)
+Seat 9: FataIBazooka (1520)
+Seat 10: trumpette (1310)
+*** ANTE/BLINDS ***
+juki06810 posts ante 10
+sabre_laser posts ante 10
+schoumphette posts ante 10
+anhminh posts ante 10
+fablaxe posts ante 10
+YoYoAlpha posts ante 10
+raidden02 posts ante 10
+FataIBazooka posts ante 10
+trumpette posts ante 10
+juki06810 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9d Qc]
+*** PRE-FLOP *** 
+anhminh folds
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette calls 200
+juki06810 folds
+sabre_laser checks
+*** FLOP *** [2h 3h 4d]
+sabre_laser bets 400
+schoumphette calls 400
+*** TURN *** [2h 3h 4d][Th]
+sabre_laser bets 735 and is all-in
+schoumphette folds
+sabre_laser collected 2125 from pot
+*** SUMMARY ***
+Total pot 2125 | No rake
+Board: [2h 3h 4d Th]
+Seat 4: sabre_laser (big blind) won 2125
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #566810974401593345-24-1443210380 - Holdem no limit (20/150/300) - 2015/09/25 19:46:20 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #2 is the button
+Seat 1: schoumphette (560)
+Seat 2: juki06810 (1065)
+Seat 4: sabre_laser (2125)
+Seat 5: anhminh (3760)
+Seat 6: fablaxe (1360)
+Seat 7: YoYoAlpha (1790)
+Seat 8: raidden02 (1530)
+Seat 9: FataIBazooka (1510)
+Seat 10: trumpette (1300)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+anhminh posts ante 20
+schoumphette posts ante 20
+juki06810 posts ante 20
+fablaxe posts ante 20
+YoYoAlpha posts ante 20
+raidden02 posts ante 20
+FataIBazooka posts ante 20
+trumpette posts ante 20
+sabre_laser posts small blind 150
+anhminh posts big blind 300
+Dealt to sabre_laser [Ks Jc]
+*** PRE-FLOP *** 
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+schoumphette raises 240 to 540 and is all-in
+juki06810 folds
+sabre_laser calls 390
+anhminh folds
+*** FLOP *** [Js 9d 7d]
+*** TURN *** [Js 9d 7d][5c]
+*** RIVER *** [Js 9d 7d 5c][3c]
+*** SHOW DOWN ***
+schoumphette shows [4c 4s] (One pair : 4)
+sabre_laser shows [Ks Jc] (One pair : Jacks)
+sabre_laser collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [Js 9d 7d 5c 3c]
+Seat 1: schoumphette showed [4c 4s] and lost with One pair : 4
+Seat 4: sabre_laser (small blind) showed [Ks Jc] and won 1560 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #566810974401593345-25-1443210434 - Holdem no limit (20/150/300) - 2015/09/25 19:47:14 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #4 is the button
+Seat 2: juki06810 (1045)
+Seat 4: sabre_laser (3125)
+Seat 5: anhminh (3440)
+Seat 6: fablaxe (1340)
+Seat 7: YoYoAlpha (1770)
+Seat 8: raidden02 (1510)
+Seat 9: FataIBazooka (1490)
+Seat 10: trumpette (1280)
+*** ANTE/BLINDS ***
+anhminh posts ante 20
+fablaxe posts ante 20
+juki06810 posts ante 20
+sabre_laser posts ante 20
+YoYoAlpha posts ante 20
+raidden02 posts ante 20
+FataIBazooka posts ante 20
+trumpette posts ante 20
+anhminh posts small blind 150
+fablaxe posts big blind 300
+Dealt to sabre_laser [6h Ad]
+*** PRE-FLOP *** 
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+juki06810 folds
+sabre_laser folds
+anhminh raises 300 to 600
+fablaxe folds
+anhminh collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 5: anhminh (small blind) won 1060
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #566810974401593345-26-1443210475 - Holdem no limit (20/150/300) - 2015/09/25 19:47:55 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #5 is the button
+Seat 2: juki06810 (1025)
+Seat 4: sabre_laser (3105)
+Seat 5: anhminh (3880)
+Seat 6: fablaxe (1020)
+Seat 7: YoYoAlpha (1750)
+Seat 8: raidden02 (1490)
+Seat 9: FataIBazooka (1470)
+Seat 10: trumpette (1260)
+*** ANTE/BLINDS ***
+fablaxe posts ante 20
+YoYoAlpha posts ante 20
+juki06810 posts ante 20
+sabre_laser posts ante 20
+anhminh posts ante 20
+raidden02 posts ante 20
+FataIBazooka posts ante 20
+trumpette posts ante 20
+fablaxe posts small blind 150
+YoYoAlpha posts big blind 300
+Dealt to sabre_laser [4s 4d]
+*** PRE-FLOP *** 
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+juki06810 folds
+sabre_laser raises 300 to 600
+anhminh calls 600
+fablaxe folds
+YoYoAlpha folds
+*** FLOP *** [7s 8d Ts]
+sabre_laser checks
+anhminh bets 300
+sabre_laser folds
+anhminh collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Board: [7s 8d Ts]
+Seat 5: anhminh (button) won 2110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #566810974401593345-27-1443210535 - Holdem no limit (50/200/400) - 2015/09/25 19:48:55 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #6 is the button
+Seat 2: juki06810 (1005)
+Seat 4: sabre_laser (2485)
+Seat 5: anhminh (5070)
+Seat 6: fablaxe (850)
+Seat 7: YoYoAlpha (1430)
+Seat 8: raidden02 (1470)
+Seat 9: FataIBazooka (1450)
+Seat 10: trumpette (1240)
+*** ANTE/BLINDS ***
+YoYoAlpha posts ante 50
+raidden02 posts ante 50
+juki06810 posts ante 50
+sabre_laser posts ante 50
+anhminh posts ante 50
+fablaxe posts ante 50
+FataIBazooka posts ante 50
+trumpette posts ante 50
+YoYoAlpha posts small blind 200
+raidden02 posts big blind 400
+Dealt to sabre_laser [8d 3h]
+*** PRE-FLOP *** 
+FataIBazooka folds
+trumpette folds
+juki06810 folds
+sabre_laser folds
+anhminh raises 1400 to 1800
+fablaxe folds
+YoYoAlpha folds
+raidden02 folds
+anhminh collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Seat 5: anhminh won 2800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #566810974401593345-28-1443210562 - Holdem no limit (50/200/400) - 2015/09/25 19:49:22 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #7 is the button
+Seat 2: juki06810 (955)
+Seat 4: sabre_laser (2435)
+Seat 5: anhminh (6020)
+Seat 6: fablaxe (800)
+Seat 7: YoYoAlpha (1180)
+Seat 8: raidden02 (1020)
+Seat 9: FataIBazooka (1400)
+Seat 10: trumpette (1190)
+*** ANTE/BLINDS ***
+raidden02 posts ante 50
+FataIBazooka posts ante 50
+juki06810 posts ante 50
+sabre_laser posts ante 50
+anhminh posts ante 50
+fablaxe posts ante 50
+YoYoAlpha posts ante 50
+trumpette posts ante 50
+raidden02 posts small blind 200
+FataIBazooka posts big blind 400
+Dealt to sabre_laser [4s 8d]
+*** PRE-FLOP *** 
+trumpette folds
+juki06810 folds
+sabre_laser folds
+anhminh folds
+fablaxe calls 400
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka raises 950 to 1350 and is all-in
+fablaxe calls 350 and is all-in
+*** FLOP *** [9c Qd 6h]
+*** TURN *** [9c Qd 6h][Ad]
+*** RIVER *** [9c Qd 6h Ad][6d]
+*** SHOW DOWN ***
+fablaxe shows [Tc Qs] (Two pairs : Queens and 6)
+FataIBazooka shows [Ks Kh] (Two pairs : Kings and 6)
+FataIBazooka collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [9c Qd 6h Ad 6d]
+Seat 6: fablaxe showed [Tc Qs] and lost with Two pairs : Queens and 6
+Seat 9: FataIBazooka (big blind) showed [Ks Kh] and won 2700 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #566810974401593345-29-1443210604 - Holdem no limit (50/200/400) - 2015/09/25 19:50:04 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #8 is the button
+Seat 2: juki06810 (905)
+Seat 4: sabre_laser (2385)
+Seat 5: anhminh (5970)
+Seat 7: YoYoAlpha (1130)
+Seat 8: raidden02 (770)
+Seat 9: FataIBazooka (2700)
+Seat 10: trumpette (1140)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 50
+trumpette posts ante 50
+juki06810 posts ante 50
+sabre_laser posts ante 50
+anhminh posts ante 50
+YoYoAlpha posts ante 50
+raidden02 posts ante 50
+FataIBazooka posts small blind 200
+trumpette posts big blind 400
+Dealt to sabre_laser [3c Ac]
+*** PRE-FLOP *** 
+juki06810 folds
+sabre_laser folds
+anhminh folds
+YoYoAlpha folds
+raidden02 raises 320 to 720 and is all-in
+FataIBazooka folds
+trumpette calls 320
+*** FLOP *** [Kd 3s Ts]
+*** TURN *** [Kd 3s Ts][3h]
+*** RIVER *** [Kd 3s Ts 3h][3d]
+*** SHOW DOWN ***
+trumpette shows [8d Jh] (Trips of 3)
+raidden02 shows [9h As] (Trips of 3)
+raidden02 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Board: [Kd 3s Ts 3h 3d]
+Seat 8: raidden02 (button) showed [9h As] and won 1990 with Trips of 3
+Seat 10: trumpette (big blind) showed [8d Jh] and lost with Trips of 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #566810974401593345-30-1443210641 - Holdem no limit (50/200/400) - 2015/09/25 19:50:41 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #9 is the button
+Seat 2: juki06810 (855)
+Seat 4: sabre_laser (2335)
+Seat 5: anhminh (5920)
+Seat 7: YoYoAlpha (1080)
+Seat 8: raidden02 (1990)
+Seat 9: FataIBazooka (2450)
+Seat 10: trumpette (370)
+*** ANTE/BLINDS ***
+trumpette posts ante 50
+juki06810 posts ante 50
+sabre_laser posts ante 50
+anhminh posts ante 50
+YoYoAlpha posts ante 50
+raidden02 posts ante 50
+FataIBazooka posts ante 50
+trumpette posts small blind 200
+juki06810 posts big blind 400
+Dealt to sabre_laser [2d 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+anhminh folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka raises 2000 to 2400 and is all-in
+trumpette calls 120 and is all-in
+juki06810 folds
+*** FLOP *** [Ah Ts Ks]
+*** TURN *** [Ah Ts Ks][9d]
+*** RIVER *** [Ah Ts Ks 9d][9h]
+*** SHOW DOWN ***
+trumpette shows [9c Ac] (Full of 9 and Aces)
+FataIBazooka shows [As Jd] (Two pairs : Aces and 9)
+FataIBazooka collected 2160 from side pot 1
+trumpette collected 1310 from main pot
+*** SUMMARY ***
+Total pot 3470 | No rake
+Board: [Ah Ts Ks 9d 9h]
+Seat 9: FataIBazooka (button) showed [As Jd] and won 2160 with Two pairs : Aces and 9
+Seat 10: trumpette (small blind) showed [9c Ac] and won 1310 with Full of 9 and Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #566810974401593345-31-1443210668 - Holdem no limit (50/200/400) - 2015/09/25 19:51:08 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #10 is the button
+Seat 2: juki06810 (405)
+Seat 4: sabre_laser (2285)
+Seat 5: anhminh (5870)
+Seat 7: YoYoAlpha (1030)
+Seat 8: raidden02 (1940)
+Seat 9: FataIBazooka (2160)
+Seat 10: trumpette (1310)
+*** ANTE/BLINDS ***
+juki06810 posts ante 50
+sabre_laser posts ante 50
+anhminh posts ante 50
+YoYoAlpha posts ante 50
+raidden02 posts ante 50
+FataIBazooka posts ante 50
+trumpette posts ante 50
+juki06810 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Ah 3d]
+*** PRE-FLOP *** 
+anhminh raises 1350 to 1750
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+juki06810 folds
+sabre_laser folds
+anhminh collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 5: anhminh won 2700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #566810974401593345-32-1443210704 - Holdem no limit (75/300/600) - 2015/09/25 19:51:44 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #2 is the button
+Seat 2: juki06810 (155)
+Seat 4: sabre_laser (1835)
+Seat 5: anhminh (6770)
+Seat 7: YoYoAlpha (980)
+Seat 8: raidden02 (1890)
+Seat 9: FataIBazooka (2110)
+Seat 10: trumpette (1260)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+anhminh posts ante 75
+juki06810 posts ante 75
+YoYoAlpha posts ante 75
+raidden02 posts ante 75
+FataIBazooka posts ante 75
+trumpette posts ante 75
+sabre_laser posts small blind 300
+anhminh posts big blind 600
+Dealt to sabre_laser [Ad 9h]
+*** PRE-FLOP *** 
+YoYoAlpha raises 305 to 905 and is all-in
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+juki06810 folds
+sabre_laser folds
+anhminh calls 305
+*** FLOP *** [5c Kh 5h]
+*** TURN *** [5c Kh 5h][2d]
+*** RIVER *** [5c Kh 5h 2d][Kd]
+*** SHOW DOWN ***
+anhminh shows [3h 8c] (Two pairs : Kings and 5)
+YoYoAlpha shows [Js Ac] (Two pairs : Kings and 5)
+YoYoAlpha collected 2635 from pot
+*** SUMMARY ***
+Total pot 2635 | No rake
+Board: [5c Kh 5h 2d Kd]
+Seat 5: anhminh (big blind) showed [3h 8c] and lost with Two pairs : Kings and 5
+Seat 7: YoYoAlpha showed [Js Ac] and won 2635 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #566810974401593345-33-1443210742 - Holdem no limit (75/300/600) - 2015/09/25 19:52:22 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #4 is the button
+Seat 2: juki06810 (80)
+Seat 4: sabre_laser (1460)
+Seat 5: anhminh (5790)
+Seat 7: YoYoAlpha (2635)
+Seat 8: raidden02 (1815)
+Seat 9: FataIBazooka (2035)
+Seat 10: trumpette (1185)
+*** ANTE/BLINDS ***
+anhminh posts ante 75
+YoYoAlpha posts ante 75
+juki06810 posts ante 75
+sabre_laser posts ante 75
+raidden02 posts ante 75
+FataIBazooka posts ante 75
+trumpette posts ante 75
+anhminh posts small blind 300
+YoYoAlpha posts big blind 600
+Dealt to sabre_laser [Qh 5c]
+*** PRE-FLOP *** 
+raidden02 raises 1140 to 1740 and is all-in
+FataIBazooka folds
+trumpette folds
+juki06810 folds
+sabre_laser folds
+anhminh folds
+YoYoAlpha folds
+raidden02 collected 3165 from pot
+*** SUMMARY ***
+Total pot 3165 | No rake
+Seat 8: raidden02 won 3165
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #566810974401593345-34-1443210770 - Holdem no limit (75/300/600) - 2015/09/25 19:52:50 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #5 is the button
+Seat 2: juki06810 (5)
+Seat 4: sabre_laser (1385)
+Seat 5: anhminh (5415)
+Seat 7: YoYoAlpha (1960)
+Seat 8: raidden02 (3165)
+Seat 9: FataIBazooka (1960)
+Seat 10: trumpette (1110)
+*** ANTE/BLINDS ***
+YoYoAlpha posts ante 75
+raidden02 posts ante 75
+juki06810 posts ante 5 and is all-in
+sabre_laser posts ante 75
+anhminh posts ante 75
+FataIBazooka posts ante 75
+trumpette posts ante 75
+YoYoAlpha posts small blind 300
+raidden02 posts big blind 600
+Dealt to sabre_laser [3c Qc]
+*** PRE-FLOP *** 
+FataIBazooka folds
+trumpette folds
+sabre_laser folds
+anhminh folds
+YoYoAlpha folds
+*** FLOP *** [2d As Jc]
+*** TURN *** [2d As Jc][7h]
+*** RIVER *** [2d As Jc 7h][Ts]
+*** SHOW DOWN ***
+juki06810 shows [8s 4d] (High card : Ace)
+raidden02 shows [Ks Kd] (One pair : Kings)
+raidden02 collected 1355 from pot
+*** SUMMARY ***
+Total pot 1355 | No rake
+Board: [2d As Jc 7h Ts]
+Seat 2: juki06810 showed [8s 4d] and lost with High card : Ace
+Seat 8: raidden02 (big blind) showed [Ks Kd] and won 1355 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #566810974401593345-35-1443210792 - Holdem no limit (75/300/600) - 2015/09/25 19:53:12 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #7 is the button
+Seat 4: sabre_laser (1310)
+Seat 5: anhminh (5340)
+Seat 7: YoYoAlpha (1585)
+Seat 8: raidden02 (3845)
+Seat 9: FataIBazooka (1885)
+Seat 10: trumpette (1035)
+*** ANTE/BLINDS ***
+raidden02 posts ante 75
+FataIBazooka posts ante 75
+sabre_laser posts ante 75
+anhminh posts ante 75
+YoYoAlpha posts ante 75
+trumpette posts ante 75
+raidden02 posts small blind 300
+FataIBazooka posts big blind 600
+Dealt to sabre_laser [Kh 6d]
+*** PRE-FLOP *** 
+trumpette folds
+sabre_laser folds
+anhminh folds
+YoYoAlpha folds
+raidden02 raises 3170 to 3770 and is all-in
+FataIBazooka folds
+raidden02 collected 4820 from pot
+*** SUMMARY ***
+Total pot 4820 | No rake
+Seat 8: raidden02 (small blind) won 4820
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #566810974401593345-36-1443210838 - Holdem no limit (75/300/600) - 2015/09/25 19:53:58 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #8 is the button
+Seat 4: sabre_laser (1235)
+Seat 5: anhminh (5265)
+Seat 7: YoYoAlpha (1510)
+Seat 8: raidden02 (4820)
+Seat 9: FataIBazooka (1210)
+Seat 10: trumpette (960)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 75
+trumpette posts ante 75
+sabre_laser posts ante 75
+anhminh posts ante 75
+YoYoAlpha posts ante 75
+raidden02 posts ante 75
+FataIBazooka posts small blind 300
+trumpette posts big blind 600
+Dealt to sabre_laser [7s Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+anhminh raises 1950 to 2550
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette calls 285 and is all-in
+*** FLOP *** [3h Qc 7h]
+*** TURN *** [3h Qc 7h][Ts]
+*** RIVER *** [3h Qc 7h Ts][Tc]
+*** SHOW DOWN ***
+trumpette shows [7c As] (Two pairs : Tens and 7)
+anhminh shows [2s 2h] (Two pairs : Tens and 2)
+anhminh collected 1665 from side pot 1
+trumpette collected 2520 from main pot
+*** SUMMARY ***
+Total pot 4185 | No rake
+Board: [3h Qc 7h Ts Tc]
+Seat 5: anhminh showed [2s 2h] and won 1665 with Two pairs : Tens and 2
+Seat 10: trumpette (big blind) showed [7c As] and won 2520 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #566810974401593345-37-1443210902 - Holdem no limit (100/400/800) - 2015/09/25 19:55:02 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #9 is the button
+Seat 4: sabre_laser (1160)
+Seat 5: anhminh (4305)
+Seat 7: YoYoAlpha (1435)
+Seat 8: raidden02 (4745)
+Seat 9: FataIBazooka (835)
+Seat 10: trumpette (2520)
+*** ANTE/BLINDS ***
+trumpette posts ante 100
+sabre_laser posts ante 100
+anhminh posts ante 100
+YoYoAlpha posts ante 100
+raidden02 posts ante 100
+FataIBazooka posts ante 100
+trumpette posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [8s 9c]
+*** PRE-FLOP *** 
+anhminh folds
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+sabre_laser collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 4: sabre_laser (big blind) won 1800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #566810974401593345-38-1443210944 - Holdem no limit (100/400/800) - 2015/09/25 19:55:44 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #10 is the button
+Seat 4: sabre_laser (2060)
+Seat 5: anhminh (4205)
+Seat 7: YoYoAlpha (1335)
+Seat 8: raidden02 (4645)
+Seat 9: FataIBazooka (735)
+Seat 10: trumpette (2020)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+anhminh posts ante 100
+YoYoAlpha posts ante 100
+raidden02 posts ante 100
+FataIBazooka posts ante 100
+trumpette posts ante 100
+sabre_laser posts small blind 400
+anhminh posts big blind 800
+Dealt to sabre_laser [Tc 3h]
+*** PRE-FLOP *** 
+YoYoAlpha folds
+raidden02 folds
+FataIBazooka folds
+trumpette raises 1120 to 1920 and is all-in
+sabre_laser folds
+anhminh folds
+trumpette collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Seat 10: trumpette (button) won 3720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #566810974401593345-39-1443210965 - Holdem no limit (100/400/800) - 2015/09/25 19:56:05 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #4 is the button
+Seat 4: sabre_laser (1560)
+Seat 5: anhminh (3305)
+Seat 7: YoYoAlpha (1235)
+Seat 8: raidden02 (4545)
+Seat 9: FataIBazooka (635)
+Seat 10: trumpette (3720)
+*** ANTE/BLINDS ***
+anhminh posts ante 100
+YoYoAlpha posts ante 100
+sabre_laser posts ante 100
+raidden02 posts ante 100
+FataIBazooka posts ante 100
+trumpette posts ante 100
+anhminh posts small blind 400
+YoYoAlpha posts big blind 800
+Dealt to sabre_laser [8c Kd]
+*** PRE-FLOP *** 
+raidden02 folds
+FataIBazooka folds
+trumpette folds
+sabre_laser raises 660 to 1460 and is all-in
+anhminh folds
+YoYoAlpha folds
+sabre_laser collected 3260 from pot
+*** SUMMARY ***
+Total pot 3260 | No rake
+Seat 4: sabre_laser (button) won 3260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #566810974401593345-40-1443211012 - Holdem no limit (100/400/800) - 2015/09/25 19:56:52 UTC
+Table: 'Double or Nothing(131970964)#0' 10-max (real money) Seat #5 is the button
+Seat 4: sabre_laser (3260)
+Seat 5: anhminh (2805)
+Seat 7: YoYoAlpha (335)
+Seat 8: raidden02 (4445)
+Seat 9: FataIBazooka (535)
+Seat 10: trumpette (3620)
+*** ANTE/BLINDS ***
+YoYoAlpha posts ante 100
+raidden02 posts ante 100
+sabre_laser posts ante 100
+anhminh posts ante 100
+FataIBazooka posts ante 100
+trumpette posts ante 100
+YoYoAlpha posts small blind 235 and is all-in
+raidden02 posts big blind 800
+Dealt to sabre_laser [3c 4c]
+*** PRE-FLOP *** 
+FataIBazooka folds
+trumpette folds
+sabre_laser calls 800
+anhminh calls 800
+raidden02 checks
+*** FLOP *** [Kc 4s Ks]
+raidden02 checks
+sabre_laser checks
+anhminh checks
+*** TURN *** [Kc 4s Ks][9c]
+raidden02 checks
+sabre_laser checks
+anhminh checks
+*** RIVER *** [Kc 4s Ks 9c][Tc]
+raidden02 checks
+sabre_laser checks
+anhminh checks
+*** SHOW DOWN ***
+sabre_laser shows [3c 4c] (Flush King high)
+YoYoAlpha shows [5c 2c] (Flush King high)
+raidden02 shows [9d Qc] (Two pairs : Kings and 9)
+anhminh shows [7c 8c] (Flush King high)
+anhminh collected 3235 from pot
+*** SUMMARY ***
+Total pot 3235 | No rake
+Board: [Kc 4s Ks 9c Tc]
+Seat 4: sabre_laser showed [3c 4c] and lost with Flush King high
+Seat 5: anhminh (button) showed [7c 8c] and won 3235 with Flush King high
+Seat 7: YoYoAlpha (small blind) showed [5c 2c] and lost with Flush King high
+Seat 8: raidden02 (big blind) showed [9d Qc] and lost with Two pairs : Kings and 9
+
+

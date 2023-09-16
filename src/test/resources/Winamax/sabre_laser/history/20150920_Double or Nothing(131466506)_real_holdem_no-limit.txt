@@ -1,0 +1,1992 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564644343789387777-1-1442779527 - Holdem no limit (10/20) - 2015/09/20 20:05:27 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cammal (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1500)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1500)
+Seat 7: bigblue22 (1500)
+Seat 8: G_ZU (1500)
+Seat 9: LimBaba (1500)
+Seat 10: vauban13 (1500)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 10
+bobbylegros posts big blind 20
+Dealt to sabre_laser [Jd 6s]
+*** PRE-FLOP *** 
+jejellyroll folds
+bigblue22 raises 20 to 40
+G_ZU folds
+LimBaba folds
+vauban13 folds
+cammal raises 180 to 220
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+bigblue22 calls 180
+*** FLOP *** [3d Tc Kd]
+bigblue22 checks
+cammal bets 240
+bigblue22 calls 240
+*** TURN *** [3d Tc Kd][7d]
+bigblue22 checks
+cammal bets 1040 and is all-in
+bigblue22 folds
+cammal collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Board: [3d Tc Kd 7d]
+Seat 1: cammal won 1990
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564644343789387777-2-1442779638 - Holdem no limit (10/20) - 2015/09/20 20:07:18 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cammal (1990)
+Seat 2: sabre_laser (1500)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1480)
+Seat 6: jejellyroll (1500)
+Seat 7: bigblue22 (1040)
+Seat 8: G_ZU (1500)
+Seat 9: LimBaba (1500)
+Seat 10: vauban13 (1500)
+*** ANTE/BLINDS ***
+bobbylegros posts small blind 10
+jejellyroll posts big blind 20
+Dealt to sabre_laser [5h 9h]
+*** PRE-FLOP *** 
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+vauban13 folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros raises 30 to 50
+jejellyroll folds
+bobbylegros collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 5: bobbylegros (small blind) won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564644343789387777-3-1442779676 - Holdem no limit (10/20) - 2015/09/20 20:07:56 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cammal (1990)
+Seat 2: sabre_laser (1500)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1480)
+Seat 7: bigblue22 (1040)
+Seat 8: G_ZU (1500)
+Seat 9: LimBaba (1500)
+Seat 10: vauban13 (1500)
+*** ANTE/BLINDS ***
+jejellyroll posts small blind 10
+bigblue22 posts big blind 20
+Dealt to sabre_laser [7c 5s]
+*** PRE-FLOP *** 
+G_ZU folds
+LimBaba folds
+vauban13 calls 20
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 checks
+*** FLOP *** [Jd 9h Kd]
+bigblue22 checks
+vauban13 checks
+*** TURN *** [Jd 9h Kd][8d]
+bigblue22 bets 50
+vauban13 folds
+bigblue22 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Jd 9h Kd 8d]
+Seat 7: bigblue22 (big blind) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564644343789387777-4-1442779723 - Holdem no limit (10/20) - 2015/09/20 20:08:43 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cammal (1990)
+Seat 2: sabre_laser (1500)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1070)
+Seat 8: G_ZU (1500)
+Seat 9: LimBaba (1500)
+Seat 10: vauban13 (1480)
+*** ANTE/BLINDS ***
+bigblue22 posts small blind 10
+G_ZU posts big blind 20
+Dealt to sabre_laser [Ks Qs]
+*** PRE-FLOP *** 
+LimBaba folds
+vauban13 folds
+cammal folds
+sabre_laser calls 20
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 calls 10
+G_ZU checks
+*** FLOP *** [Ad As Kc]
+bigblue22 checks
+G_ZU checks
+sabre_laser checks
+*** TURN *** [Ad As Kc][7s]
+bigblue22 checks
+G_ZU checks
+sabre_laser checks
+*** RIVER *** [Ad As Kc 7s][2c]
+bigblue22 checks
+G_ZU checks
+sabre_laser bets 30
+bigblue22 raises 60 to 90
+G_ZU folds
+sabre_laser calls 60
+*** SHOW DOWN ***
+bigblue22 shows [9h Tc] (One pair : Aces)
+sabre_laser shows [Ks Qs] (Two pairs : Aces and Kings)
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ad As Kc 7s 2c]
+Seat 2: sabre_laser showed [Ks Qs] and won 240 with Two pairs : Aces and Kings
+Seat 7: bigblue22 (small blind) showed [9h Tc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564644343789387777-5-1442779821 - Holdem no limit (10/20) - 2015/09/20 20:10:21 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cammal (1990)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (960)
+Seat 8: G_ZU (1480)
+Seat 9: LimBaba (1500)
+Seat 10: vauban13 (1480)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 10
+LimBaba posts big blind 20
+Dealt to sabre_laser [5h Js]
+*** PRE-FLOP *** 
+vauban13 calls 20
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 60 to 80
+G_ZU folds
+LimBaba folds
+vauban13 calls 60
+*** FLOP *** [5c Jc Qh]
+vauban13 checks
+bigblue22 bets 95
+vauban13 folds
+bigblue22 collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Board: [5c Jc Qh]
+Seat 7: bigblue22 (button) won 285
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564644343789387777-6-1442779883 - Holdem no limit (15/30) - 2015/09/20 20:11:23 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cammal (1990)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1070)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1480)
+Seat 10: vauban13 (1400)
+*** ANTE/BLINDS ***
+LimBaba posts small blind 15
+vauban13 posts big blind 30
+Dealt to sabre_laser [4h 7s]
+*** PRE-FLOP *** 
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 30 to 60
+G_ZU folds
+LimBaba folds
+vauban13 calls 30
+*** FLOP *** [7d Jc 3d]
+vauban13 checks
+bigblue22 bets 68
+vauban13 folds
+bigblue22 collected 203 from pot
+*** SUMMARY ***
+Total pot 203 | No rake
+Board: [7d Jc 3d]
+Seat 7: bigblue22 won 203
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564644343789387777-7-1442779979 - Holdem no limit (15/30) - 2015/09/20 20:12:59 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cammal (1990)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1145)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1465)
+Seat 10: vauban13 (1340)
+*** ANTE/BLINDS ***
+vauban13 posts small blind 15
+cammal posts big blind 30
+Dealt to sabre_laser [Jc 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+vauban13 calls 15
+cammal checks
+*** FLOP *** [3h Td 9s]
+vauban13 bets 40
+cammal folds
+vauban13 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [3h Td 9s]
+Seat 10: vauban13 (small blind) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564644343789387777-8-1442780060 - Holdem no limit (15/30) - 2015/09/20 20:14:20 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #10 is the button
+Seat 1: cammal (1960)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1145)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1465)
+Seat 10: vauban13 (1370)
+*** ANTE/BLINDS ***
+cammal posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [5h 7s]
+*** PRE-FLOP *** 
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+vauban13 folds
+cammal folds
+sabre_laser collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: sabre_laser (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564644343789387777-9-1442780115 - Holdem no limit (15/30) - 2015/09/20 20:15:15 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1645)
+Seat 3: raidden02 (1500)
+Seat 4: .Roxon. (1490)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1145)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1465)
+Seat 10: vauban13 (1370)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+raidden02 posts big blind 30
+Dealt to sabre_laser [7c 4s]
+*** PRE-FLOP *** 
+.Roxon. raises 60 to 90
+bobbylegros folds
+jejellyroll folds
+bigblue22 calls 90
+G_ZU folds
+LimBaba folds
+vauban13 folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+*** FLOP *** [Js Ah Kd]
+.Roxon. checks
+bigblue22 checks
+*** TURN *** [Js Ah Kd][9h]
+.Roxon. bets 150
+bigblue22 folds
+.Roxon. collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Js Ah Kd 9h]
+Seat 4: .Roxon. won 375
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564644343789387777-10-1442780179 - Holdem no limit (15/30) - 2015/09/20 20:16:19 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1470)
+Seat 4: .Roxon. (1625)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1055)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1465)
+Seat 10: vauban13 (1370)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 15
+.Roxon. posts big blind 30
+Dealt to sabre_laser [3c 6h]
+*** PRE-FLOP *** 
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba raises 30 to 60
+vauban13 calls 60
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+*** FLOP *** [3h 6c 7h]
+LimBaba bets 83
+vauban13 folds
+LimBaba collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [3h 6c 7h]
+Seat 9: LimBaba won 248
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564644343789387777-11-1442780256 - Holdem no limit (20/40) - 2015/09/20 20:17:36 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1595)
+Seat 5: bobbylegros (1500)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1055)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1570)
+Seat 10: vauban13 (1310)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 20
+bobbylegros posts big blind 40
+Dealt to sabre_laser [3c 2d]
+*** PRE-FLOP *** 
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba raises 40 to 80
+vauban13 folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros raises 240 to 320
+LimBaba calls 240
+*** FLOP *** [Ac 9d 2s]
+bobbylegros bets 1180 and is all-in
+LimBaba folds
+bobbylegros collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Board: [Ac 9d 2s]
+Seat 5: bobbylegros (big blind) won 1840
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564644343789387777-12-1442780305 - Holdem no limit (20/40) - 2015/09/20 20:18:25 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1840)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (1055)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1250)
+Seat 10: vauban13 (1310)
+*** ANTE/BLINDS ***
+bobbylegros posts small blind 20
+jejellyroll posts big blind 40
+Dealt to sabre_laser [7s Tc]
+*** PRE-FLOP *** 
+bigblue22 raises 40 to 80
+G_ZU folds
+LimBaba calls 80
+vauban13 raises 40 to 120
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 calls 40
+LimBaba calls 40
+*** FLOP *** [4d Jc Qc]
+bigblue22 checks
+LimBaba checks
+vauban13 bets 99
+bigblue22 calls 99
+LimBaba folds
+*** TURN *** [4d Jc Qc][7c]
+bigblue22 bets 836 and is all-in
+vauban13 calls 836
+*** RIVER *** [4d Jc Qc 7c][7h]
+*** SHOW DOWN ***
+vauban13 shows [Ks Ac] (One pair : 7)
+bigblue22 shows [8s Qs] (Two pairs : Queens and 7)
+bigblue22 collected 2290 from pot
+*** SUMMARY ***
+Total pot 2290 | No rake
+Board: [4d Jc Qc 7c 7h]
+Seat 7: bigblue22 showed [8s Qs] and won 2290 with Two pairs : Queens and 7
+Seat 10: vauban13 showed [Ks Ac] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564644343789387777-13-1442780425 - Holdem no limit (20/40) - 2015/09/20 20:20:25 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1820)
+Seat 6: jejellyroll (1430)
+Seat 7: bigblue22 (2290)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1130)
+Seat 10: vauban13 (255)
+*** ANTE/BLINDS ***
+jejellyroll posts small blind 20
+bigblue22 posts big blind 40
+Dealt to sabre_laser [7s Jc]
+*** PRE-FLOP *** 
+G_ZU folds
+LimBaba raises 40 to 80
+vauban13 raises 175 to 255 and is all-in
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+LimBaba calls 175
+*** FLOP *** [3h 7h 2s]
+*** TURN *** [3h 7h 2s][Kd]
+*** RIVER *** [3h 7h 2s Kd][As]
+*** SHOW DOWN ***
+vauban13 shows [Jh Qh] (High card : Ace)
+LimBaba shows [Td Ah] (One pair : Aces)
+LimBaba collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [3h 7h 2s Kd As]
+Seat 9: LimBaba showed [Td Ah] and won 570 with One pair : Aces
+Seat 10: vauban13 showed [Jh Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564644343789387777-14-1442780468 - Holdem no limit (20/40) - 2015/09/20 20:21:08 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1820)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2250)
+Seat 8: G_ZU (1470)
+Seat 9: LimBaba (1445)
+*** ANTE/BLINDS ***
+bigblue22 posts small blind 20
+G_ZU posts big blind 40
+Dealt to sabre_laser [6c Ts]
+*** PRE-FLOP *** 
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 40 to 80
+G_ZU folds
+bigblue22 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 7: bigblue22 (small blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564644343789387777-15-1442780500 - Holdem no limit (20/40) - 2015/09/20 20:21:40 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1820)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2290)
+Seat 8: G_ZU (1430)
+Seat 9: LimBaba (1445)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 20
+LimBaba posts big blind 40
+Dealt to sabre_laser [8d 9h]
+*** PRE-FLOP *** 
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros calls 40
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba checks
+*** FLOP *** [7s Jh Kd]
+LimBaba checks
+bobbylegros bets 40
+LimBaba calls 40
+*** TURN *** [7s Jh Kd][3s]
+LimBaba checks
+bobbylegros bets 40
+LimBaba calls 40
+*** RIVER *** [7s Jh Kd 3s][4h]
+LimBaba bets 130
+bobbylegros folds
+LimBaba collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [7s Jh Kd 3s 4h]
+Seat 9: LimBaba (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564644343789387777-16-1442780578 - Holdem no limit (20/40) - 2015/09/20 20:22:58 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cammal (1945)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1700)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2290)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1585)
+*** ANTE/BLINDS ***
+LimBaba posts small blind 20
+cammal posts big blind 40
+Dealt to sabre_laser [6s 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 80 to 120
+G_ZU folds
+LimBaba folds
+cammal folds
+bigblue22 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: bigblue22 won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564644343789387777-17-1442780649 - Holdem no limit (30/60) - 2015/09/20 20:24:09 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cammal (1905)
+Seat 2: sabre_laser (1630)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1700)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2350)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1565)
+*** ANTE/BLINDS ***
+cammal posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Tc Js]
+*** PRE-FLOP *** 
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 120 to 180
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser calls 120
+*** FLOP *** [5h Ac 8c]
+sabre_laser checks
+bigblue22 bets 260
+sabre_laser folds
+bigblue22 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [5h Ac 8c]
+Seat 7: bigblue22 won 650
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564644343789387777-18-1442780698 - Holdem no limit (30/60) - 2015/09/20 20:24:58 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1450)
+Seat 3: raidden02 (1455)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1700)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2560)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1565)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+raidden02 posts big blind 60
+Dealt to sabre_laser [3d Ks]
+*** PRE-FLOP *** 
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser calls 30
+raidden02 checks
+*** FLOP *** [4d 9h 3c]
+sabre_laser bets 60
+raidden02 folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4d 9h 3c]
+Seat 2: sabre_laser (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564644343789387777-19-1442780773 - Holdem no limit (30/60) - 2015/09/20 20:26:13 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1395)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1700)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2560)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1565)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 30
+.Roxon. posts big blind 60
+Dealt to sabre_laser [6s Td]
+*** PRE-FLOP *** 
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: .Roxon. (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564644343789387777-20-1442780819 - Holdem no limit (30/60) - 2015/09/20 20:26:59 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1605)
+Seat 5: bobbylegros (1700)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2560)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1565)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 30
+bobbylegros posts big blind 60
+Dealt to sabre_laser [Qs 8c]
+*** PRE-FLOP *** 
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba raises 60 to 120
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+LimBaba collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 9: LimBaba won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564644343789387777-21-1442780867 - Holdem no limit (30/60) - 2015/09/20 20:27:47 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1640)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2560)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1655)
+*** ANTE/BLINDS ***
+bobbylegros posts small blind 30
+jejellyroll posts big blind 60
+Dealt to sabre_laser [Kh 2s]
+*** PRE-FLOP *** 
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: jejellyroll (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564644343789387777-22-1442780893 - Holdem no limit (30/60) - 2015/09/20 20:28:13 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1610)
+Seat 6: jejellyroll (1440)
+Seat 7: bigblue22 (2560)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1655)
+*** ANTE/BLINDS ***
+jejellyroll posts small blind 30
+bigblue22 posts big blind 60
+Dealt to sabre_laser [4d Ac]
+*** PRE-FLOP *** 
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros calls 60
+jejellyroll folds
+bigblue22 checks
+*** FLOP *** [Ks 8d Ah]
+bigblue22 checks
+bobbylegros checks
+*** TURN *** [Ks 8d Ah][Qs]
+bigblue22 bets 100
+bobbylegros calls 100
+*** RIVER *** [Ks 8d Ah Qs][Td]
+bigblue22 checks
+bobbylegros bets 120
+bigblue22 calls 120
+*** SHOW DOWN ***
+bigblue22 shows [As 3d] (One pair : Aces)
+bobbylegros shows [Qd Ts] (Two pairs : Queens and Tens)
+bobbylegros collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Ks 8d Ah Qs Td]
+Seat 5: bobbylegros (button) showed [Qd Ts] and won 590 with Two pairs : Queens and Tens
+Seat 7: bigblue22 (big blind) showed [As 3d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564644343789387777-23-1442780979 - Holdem no limit (40/80) - 2015/09/20 20:29:39 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1920)
+Seat 6: jejellyroll (1410)
+Seat 7: bigblue22 (2280)
+Seat 8: G_ZU (1410)
+Seat 9: LimBaba (1655)
+*** ANTE/BLINDS ***
+bigblue22 posts small blind 40
+G_ZU posts big blind 80
+Dealt to sabre_laser [Th 3s]
+*** PRE-FLOP *** 
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll raises 160 to 240
+bigblue22 folds
+G_ZU folds
+jejellyroll collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 6: jejellyroll (button) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564644343789387777-24-1442781028 - Holdem no limit (40/80) - 2015/09/20 20:30:28 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1920)
+Seat 6: jejellyroll (1530)
+Seat 7: bigblue22 (2240)
+Seat 8: G_ZU (1330)
+Seat 9: LimBaba (1655)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 40
+LimBaba posts big blind 80
+Dealt to sabre_laser [Jd 7h]
+*** PRE-FLOP *** 
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll raises 160 to 240
+bigblue22 folds
+G_ZU folds
+LimBaba raises 200 to 440
+jejellyroll folds
+LimBaba collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 9: LimBaba (big blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564644343789387777-25-1442781092 - Holdem no limit (40/80) - 2015/09/20 20:31:32 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cammal (1875)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1575)
+Seat 5: bobbylegros (1920)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2240)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1935)
+*** ANTE/BLINDS ***
+LimBaba posts small blind 40
+cammal posts big blind 80
+Dealt to sabre_laser [3c 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+raidden02 folds
+.Roxon. raises 160 to 240
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal folds
+.Roxon. collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 4: .Roxon. won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564644343789387777-26-1442781142 - Holdem no limit (40/80) - 2015/09/20 20:32:22 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cammal (1795)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1695)
+Seat 5: bobbylegros (1920)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2240)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+cammal posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [5h Ac]
+*** PRE-FLOP *** 
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 80 to 160
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser folds
+bigblue22 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 7: bigblue22 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564644343789387777-27-1442781190 - Holdem no limit (40/80) - 2015/09/20 20:33:10 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1430)
+Seat 3: raidden02 (1365)
+Seat 4: .Roxon. (1695)
+Seat 5: bobbylegros (1920)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2360)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+raidden02 posts big blind 80
+Dealt to sabre_laser [Jc 8s]
+*** PRE-FLOP *** 
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser calls 40
+raidden02 checks
+*** FLOP *** [3c 4d 2c]
+sabre_laser checks
+raidden02 checks
+*** TURN *** [3c 4d 2c][8c]
+sabre_laser bets 160
+raidden02 folds
+sabre_laser collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [3c 4d 2c 8c]
+Seat 2: sabre_laser (small blind) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564644343789387777-28-1442781263 - Holdem no limit (40/80) - 2015/09/20 20:34:23 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1285)
+Seat 4: .Roxon. (1695)
+Seat 5: bobbylegros (1920)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2360)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 40
+.Roxon. posts big blind 80
+Dealt to sabre_laser [7s Kc]
+*** PRE-FLOP *** 
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 80 to 160
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bigblue22 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 7: bigblue22 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-29-1442781328 - Holdem no limit (60/120) - 2015/09/20 20:35:28 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1615)
+Seat 5: bobbylegros (1920)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2480)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 60
+bobbylegros posts big blind 120
+Dealt to sabre_laser [2s Qh]
+*** PRE-FLOP *** 
+jejellyroll raises 240 to 360
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 6: jejellyroll won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-30-1442781371 - Holdem no limit (60/120) - 2015/09/20 20:36:11 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1555)
+Seat 5: bobbylegros (1800)
+Seat 6: jejellyroll (1470)
+Seat 7: bigblue22 (2480)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+bobbylegros posts small blind 60
+jejellyroll posts big blind 120
+Dealt to sabre_laser [Kh 9s]
+*** PRE-FLOP *** 
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser raises 120 to 240
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: sabre_laser won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-31-1442781433 - Holdem no limit (60/120) - 2015/09/20 20:37:13 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1690)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1555)
+Seat 5: bobbylegros (1740)
+Seat 6: jejellyroll (1350)
+Seat 7: bigblue22 (2480)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+jejellyroll posts small blind 60
+bigblue22 posts big blind 120
+Dealt to sabre_laser [7h 5h]
+*** PRE-FLOP *** 
+G_ZU folds
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: bigblue22 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-32-1442781472 - Holdem no limit (60/120) - 2015/09/20 20:37:52 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1690)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1555)
+Seat 5: bobbylegros (1740)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2540)
+Seat 8: G_ZU (1290)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+bigblue22 posts small blind 60
+G_ZU posts big blind 120
+Dealt to sabre_laser [4h 9c]
+*** PRE-FLOP *** 
+LimBaba folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 240 to 360
+G_ZU folds
+bigblue22 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 7: bigblue22 (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-33-1442781521 - Holdem no limit (60/120) - 2015/09/20 20:38:41 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1690)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1555)
+Seat 5: bobbylegros (1740)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2660)
+Seat 8: G_ZU (1170)
+Seat 9: LimBaba (1895)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 60
+LimBaba posts big blind 120
+Dealt to sabre_laser [Jd 4d]
+*** PRE-FLOP *** 
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 120 to 240
+G_ZU folds
+LimBaba folds
+bigblue22 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 7: bigblue22 (button) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-34-1442781565 - Holdem no limit (60/120) - 2015/09/20 20:39:25 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1690)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1555)
+Seat 5: bobbylegros (1740)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2840)
+Seat 8: G_ZU (1110)
+Seat 9: LimBaba (1775)
+*** ANTE/BLINDS ***
+LimBaba posts small blind 60
+cammal posts big blind 120
+Dealt to sabre_laser [Ts Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba folds
+cammal collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: cammal (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-35-1442781590 - Holdem no limit (60/120) - 2015/09/20 20:39:50 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cammal (1815)
+Seat 2: sabre_laser (1690)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1555)
+Seat 5: bobbylegros (1740)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2840)
+Seat 8: G_ZU (1110)
+Seat 9: LimBaba (1715)
+*** ANTE/BLINDS ***
+cammal posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Js 5c]
+*** PRE-FLOP *** 
+raidden02 folds
+.Roxon. folds
+bobbylegros raises 480 to 600
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+LimBaba raises 1115 to 1715 and is all-in
+cammal folds
+sabre_laser folds
+bobbylegros calls 1115
+*** FLOP *** [6s 4h Qd]
+*** TURN *** [6s 4h Qd][Jc]
+*** RIVER *** [6s 4h Qd Jc][4c]
+*** SHOW DOWN ***
+LimBaba shows [Ad Ks] (One pair : 4)
+bobbylegros shows [9h 9d] (Two pairs : 9 and 4)
+bobbylegros collected 3610 from pot
+*** SUMMARY ***
+Total pot 3610 | No rake
+Board: [6s 4h Qd Jc 4c]
+Seat 5: bobbylegros showed [9h 9d] and won 3610 with Two pairs : 9 and 4
+Seat 9: LimBaba (button) showed [Ad Ks] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564644343789387777-36-1442781632 - Holdem no limit (60/120) - 2015/09/20 20:40:32 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1570)
+Seat 3: raidden02 (1245)
+Seat 4: .Roxon. (1555)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (2840)
+Seat 8: G_ZU (1110)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+raidden02 posts big blind 120
+Dealt to sabre_laser [4h 3h]
+*** PRE-FLOP *** 
+.Roxon. raises 240 to 360
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 2480 to 2840 and is all-in
+G_ZU folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. calls 1195 and is all-in
+*** FLOP *** [Qc 3s 9h]
+*** TURN *** [Qc 3s 9h][Jd]
+*** RIVER *** [Qc 3s 9h Jd][Kd]
+*** SHOW DOWN ***
+.Roxon. shows [Js Jh] (Trips of Jacks)
+bigblue22 shows [5c 5s] (One pair : 5)
+bigblue22 collected 1285 from side pot 1
+.Roxon. collected 3290 from main pot
+*** SUMMARY ***
+Total pot 4575 | No rake
+Board: [Qc 3s 9h Jd Kd]
+Seat 4: .Roxon. showed [Js Jh] and won 3290 with Trips of Jacks
+Seat 7: bigblue22 showed [5c 5s] and won 1285 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564644343789387777-37-1442781684 - Holdem no limit (80/160) - 2015/09/20 20:41:24 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1125)
+Seat 4: .Roxon. (3290)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (1285)
+Seat 8: G_ZU (1110)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 80
+.Roxon. posts big blind 160
+Dealt to sabre_laser [2s 5d]
+*** PRE-FLOP *** 
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 1125 to 1285 and is all-in
+G_ZU folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bigblue22 collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Seat 7: bigblue22 won 1525
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564644343789387777-38-1442781725 - Holdem no limit (80/160) - 2015/09/20 20:42:05 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1045)
+Seat 4: .Roxon. (3130)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (1525)
+Seat 8: G_ZU (1110)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 80
+bobbylegros posts big blind 160
+Dealt to sabre_laser [7s Qh]
+*** PRE-FLOP *** 
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: bobbylegros (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564644343789387777-39-1442781778 - Holdem no limit (80/160) - 2015/09/20 20:42:58 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1510)
+Seat 3: raidden02 (1045)
+Seat 4: .Roxon. (3050)
+Seat 5: bobbylegros (3715)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (1525)
+Seat 8: G_ZU (1110)
+*** ANTE/BLINDS ***
+bobbylegros posts small blind 80
+jejellyroll posts big blind 160
+Dealt to sabre_laser [Ks Qc]
+*** PRE-FLOP *** 
+bigblue22 folds
+G_ZU folds
+cammal folds
+sabre_laser raises 160 to 320
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 2: sabre_laser won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564644343789387777-40-1442781841 - Holdem no limit (80/160) - 2015/09/20 20:44:01 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1750)
+Seat 3: raidden02 (1045)
+Seat 4: .Roxon. (3050)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1130)
+Seat 7: bigblue22 (1525)
+Seat 8: G_ZU (1110)
+*** ANTE/BLINDS ***
+jejellyroll posts small blind 80
+bigblue22 posts big blind 160
+Dealt to sabre_laser [3d Ad]
+*** PRE-FLOP *** 
+G_ZU folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll raises 970 to 1130 and is all-in
+bigblue22 folds
+jejellyroll collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Seat 6: jejellyroll (small blind) won 1290
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564644343789387777-41-1442781895 - Holdem no limit (80/160) - 2015/09/20 20:44:55 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1750)
+Seat 3: raidden02 (1045)
+Seat 4: .Roxon. (3050)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (1365)
+Seat 8: G_ZU (1110)
+*** ANTE/BLINDS ***
+bigblue22 posts small blind 80
+G_ZU posts big blind 160
+Dealt to sabre_laser [5d 2s]
+*** PRE-FLOP *** 
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 1205 to 1365 and is all-in
+G_ZU folds
+bigblue22 collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Seat 7: bigblue22 (small blind) won 1525
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564644343789387777-42-1442781942 - Holdem no limit (80/160) - 2015/09/20 20:45:42 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cammal (1755)
+Seat 2: sabre_laser (1750)
+Seat 3: raidden02 (1045)
+Seat 4: .Roxon. (3050)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (1525)
+Seat 8: G_ZU (950)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 80
+cammal posts big blind 160
+Dealt to sabre_laser [9c Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 160 to 320
+G_ZU folds
+cammal folds
+bigblue22 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 7: bigblue22 (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564644343789387777-43-1442781990 - Holdem no limit (80/160) - 2015/09/20 20:46:30 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cammal (1595)
+Seat 2: sabre_laser (1750)
+Seat 3: raidden02 (1045)
+Seat 4: .Roxon. (3050)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (1765)
+Seat 8: G_ZU (870)
+*** ANTE/BLINDS ***
+cammal posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Ac Jd]
+*** PRE-FLOP *** 
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 raises 160 to 320
+G_ZU folds
+cammal folds
+sabre_laser calls 160
+*** FLOP *** [Qc Ah 4d]
+sabre_laser checks
+bigblue22 bets 480
+sabre_laser raises 950 to 1430 and is all-in
+bigblue22 calls 950
+*** TURN *** [Qc Ah 4d][As]
+*** RIVER *** [Qc Ah 4d As][7s]
+*** SHOW DOWN ***
+bigblue22 shows [Jh Kd] (One pair : Aces)
+sabre_laser shows [Ac Jd] (Trips of Aces)
+sabre_laser collected 3580 from pot
+*** SUMMARY ***
+Total pot 3580 | No rake
+Board: [Qc Ah 4d As 7s]
+Seat 2: sabre_laser (big blind) showed [Ac Jd] and won 3580 with Trips of Aces
+Seat 7: bigblue22 showed [Jh Kd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564644343789387777-44-1442782061 - Holdem no limit (10/100/200) - 2015/09/20 20:47:41 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cammal (1515)
+Seat 2: sabre_laser (3580)
+Seat 3: raidden02 (1045)
+Seat 4: .Roxon. (3050)
+Seat 5: bobbylegros (3635)
+Seat 6: jejellyroll (1290)
+Seat 7: bigblue22 (15)
+Seat 8: G_ZU (870)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+raidden02 posts ante 10
+cammal posts ante 10
+.Roxon. posts ante 10
+bobbylegros posts ante 10
+jejellyroll posts ante 10
+bigblue22 posts ante 10
+G_ZU posts ante 10
+sabre_laser posts small blind 100
+raidden02 posts big blind 200
+Dealt to sabre_laser [2c Jh]
+*** PRE-FLOP *** 
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+bigblue22 calls 5 and is all-in
+G_ZU raises 660 to 860 and is all-in
+cammal folds
+sabre_laser folds
+raidden02 folds
+*** FLOP *** [3d 4d 5d]
+*** TURN *** [3d 4d 5d][6s]
+*** RIVER *** [3d 4d 5d 6s][3h]
+*** SHOW DOWN ***
+bigblue22 shows [7h 8c] (Straight 8 high)
+G_ZU shows [9h 9d] (Two pairs : 9 and 3)
+G_ZU collected 1145 from side pot 1
+bigblue22 collected 100 from main pot
+*** SUMMARY ***
+Total pot 1245 | No rake
+Board: [3d 4d 5d 6s 3h]
+Seat 7: bigblue22 showed [7h 8c] and won 100 with Straight 8 high
+Seat 8: G_ZU showed [9h 9d] and won 1145 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564644343789387777-45-1442782131 - Holdem no limit (10/100/200) - 2015/09/20 20:48:51 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cammal (1505)
+Seat 2: sabre_laser (3470)
+Seat 3: raidden02 (835)
+Seat 4: .Roxon. (3040)
+Seat 5: bobbylegros (3625)
+Seat 6: jejellyroll (1280)
+Seat 7: bigblue22 (100)
+Seat 8: G_ZU (1145)
+*** ANTE/BLINDS ***
+raidden02 posts ante 10
+.Roxon. posts ante 10
+cammal posts ante 10
+sabre_laser posts ante 10
+bobbylegros posts ante 10
+jejellyroll posts ante 10
+bigblue22 posts ante 10
+G_ZU posts ante 10
+raidden02 posts small blind 100
+.Roxon. posts big blind 200
+Dealt to sabre_laser [Kc Jh]
+*** PRE-FLOP *** 
+bobbylegros folds
+jejellyroll folds
+bigblue22 calls 90 and is all-in
+G_ZU folds
+cammal folds
+sabre_laser calls 200
+raidden02 raises 625 to 825 and is all-in
+.Roxon. folds
+sabre_laser folds
+*** FLOP *** [2s 5s 4h]
+*** TURN *** [2s 5s 4h][Ah]
+*** RIVER *** [2s 5s 4h Ah][Tc]
+*** SHOW DOWN ***
+bigblue22 shows [Ad 8d] (One pair : Aces)
+raidden02 shows [9c 9d] (One pair : 9)
+raidden02 collected 955 from side pot 1
+bigblue22 collected 440 from main pot
+*** SUMMARY ***
+Total pot 1395 | No rake
+Board: [2s 5s 4h Ah Tc]
+Seat 3: raidden02 (small blind) showed [9c 9d] and won 955 with One pair : 9
+Seat 7: bigblue22 showed [Ad 8d] and won 440 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564644343789387777-46-1442782184 - Holdem no limit (10/100/200) - 2015/09/20 20:49:44 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cammal (1495)
+Seat 2: sabre_laser (3260)
+Seat 3: raidden02 (955)
+Seat 4: .Roxon. (2830)
+Seat 5: bobbylegros (3615)
+Seat 6: jejellyroll (1270)
+Seat 7: bigblue22 (440)
+Seat 8: G_ZU (1135)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 10
+bobbylegros posts ante 10
+cammal posts ante 10
+sabre_laser posts ante 10
+raidden02 posts ante 10
+jejellyroll posts ante 10
+bigblue22 posts ante 10
+G_ZU posts ante 10
+.Roxon. posts small blind 100
+bobbylegros posts big blind 200
+Dealt to sabre_laser [9h 5h]
+*** PRE-FLOP *** 
+jejellyroll folds
+bigblue22 folds
+G_ZU folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 5: bobbylegros (big blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564644343789387777-47-1442782224 - Holdem no limit (10/100/200) - 2015/09/20 20:50:24 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cammal (1485)
+Seat 2: sabre_laser (3250)
+Seat 3: raidden02 (945)
+Seat 4: .Roxon. (2720)
+Seat 5: bobbylegros (3785)
+Seat 6: jejellyroll (1260)
+Seat 7: bigblue22 (430)
+Seat 8: G_ZU (1125)
+*** ANTE/BLINDS ***
+bobbylegros posts ante 10
+jejellyroll posts ante 10
+cammal posts ante 10
+sabre_laser posts ante 10
+raidden02 posts ante 10
+.Roxon. posts ante 10
+bigblue22 posts ante 10
+G_ZU posts ante 10
+bobbylegros posts small blind 100
+jejellyroll posts big blind 200
+Dealt to sabre_laser [4s 4d]
+*** PRE-FLOP *** 
+bigblue22 folds
+G_ZU raises 915 to 1115 and is all-in
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+G_ZU collected 1495 from pot
+*** SUMMARY ***
+Total pot 1495 | No rake
+Seat 8: G_ZU won 1495
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564644343789387777-48-1442782255 - Holdem no limit (10/100/200) - 2015/09/20 20:50:55 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cammal (1475)
+Seat 2: sabre_laser (3240)
+Seat 3: raidden02 (935)
+Seat 4: .Roxon. (2710)
+Seat 5: bobbylegros (3675)
+Seat 6: jejellyroll (1050)
+Seat 7: bigblue22 (420)
+Seat 8: G_ZU (1495)
+*** ANTE/BLINDS ***
+jejellyroll posts ante 10
+bigblue22 posts ante 10
+cammal posts ante 10
+sabre_laser posts ante 10
+raidden02 posts ante 10
+.Roxon. posts ante 10
+bobbylegros posts ante 10
+G_ZU posts ante 10
+jejellyroll posts small blind 100
+bigblue22 posts big blind 200
+Dealt to sabre_laser [6h 4c]
+*** PRE-FLOP *** 
+G_ZU folds
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll raises 840 to 1040 and is all-in
+bigblue22 calls 210 and is all-in
+*** FLOP *** [Kd Ks Jc]
+*** TURN *** [Kd Ks Jc][5c]
+*** RIVER *** [Kd Ks Jc 5c][7s]
+*** SHOW DOWN ***
+bigblue22 shows [2d 3s] (One pair : Kings)
+jejellyroll shows [9c Ah] (One pair : Kings)
+jejellyroll collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [Kd Ks Jc 5c 7s]
+Seat 6: jejellyroll (small blind) showed [9c Ah] and won 1530 with One pair : Kings
+Seat 7: bigblue22 (big blind) showed [2d 3s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564644343789387777-49-1442782309 - Holdem no limit (10/100/200) - 2015/09/20 20:51:49 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cammal (1465)
+Seat 2: sabre_laser (3230)
+Seat 3: raidden02 (925)
+Seat 4: .Roxon. (2700)
+Seat 5: bobbylegros (3665)
+Seat 6: jejellyroll (1530)
+Seat 8: G_ZU (1485)
+*** ANTE/BLINDS ***
+G_ZU posts ante 10
+cammal posts ante 10
+sabre_laser posts ante 10
+raidden02 posts ante 10
+.Roxon. posts ante 10
+bobbylegros posts ante 10
+jejellyroll posts ante 10
+G_ZU posts big blind 200
+Dealt to sabre_laser [Jd 4s]
+*** PRE-FLOP *** 
+cammal folds
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+G_ZU collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 8: G_ZU (big blind) won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564644343789387777-50-1442782345 - Holdem no limit (10/100/200) - 2015/09/20 20:52:25 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: cammal (1455)
+Seat 2: sabre_laser (3220)
+Seat 3: raidden02 (915)
+Seat 4: .Roxon. (2690)
+Seat 5: bobbylegros (3655)
+Seat 6: jejellyroll (1520)
+Seat 8: G_ZU (1545)
+*** ANTE/BLINDS ***
+G_ZU posts ante 10
+cammal posts ante 10
+sabre_laser posts ante 10
+raidden02 posts ante 10
+.Roxon. posts ante 10
+bobbylegros posts ante 10
+jejellyroll posts ante 10
+G_ZU posts small blind 100
+cammal posts big blind 200
+Dealt to sabre_laser [5h 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+raidden02 folds
+.Roxon. folds
+bobbylegros folds
+jejellyroll folds
+G_ZU folds
+cammal collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: cammal (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564644343789387777-51-1442782418 - Holdem no limit (20/150/300) - 2015/09/20 20:53:38 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cammal (1615)
+Seat 2: sabre_laser (3210)
+Seat 3: raidden02 (905)
+Seat 4: .Roxon. (2680)
+Seat 5: bobbylegros (3645)
+Seat 6: jejellyroll (1510)
+Seat 8: G_ZU (1435)
+*** ANTE/BLINDS ***
+cammal posts ante 20
+sabre_laser posts ante 20
+raidden02 posts ante 20
+.Roxon. posts ante 20
+bobbylegros posts ante 20
+jejellyroll posts ante 20
+G_ZU posts ante 20
+cammal posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [7h 2s]
+*** PRE-FLOP *** 
+raidden02 folds
+.Roxon. folds
+bobbylegros raises 300 to 600
+jejellyroll folds
+G_ZU folds
+cammal folds
+sabre_laser folds
+bobbylegros collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 5: bobbylegros won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564644343789387777-52-1442782458 - Holdem no limit (20/150/300) - 2015/09/20 20:54:18 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cammal (1445)
+Seat 2: sabre_laser (2890)
+Seat 3: raidden02 (885)
+Seat 4: .Roxon. (2660)
+Seat 5: bobbylegros (4215)
+Seat 6: jejellyroll (1490)
+Seat 8: G_ZU (1415)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+raidden02 posts ante 20
+cammal posts ante 20
+.Roxon. posts ante 20
+bobbylegros posts ante 20
+jejellyroll posts ante 20
+G_ZU posts ante 20
+sabre_laser posts small blind 150
+raidden02 posts big blind 300
+Dealt to sabre_laser [3d 2h]
+*** PRE-FLOP *** 
+.Roxon. raises 600 to 900
+bobbylegros folds
+jejellyroll folds
+G_ZU folds
+cammal folds
+sabre_laser folds
+raidden02 calls 565 and is all-in
+*** FLOP *** [4d 7s 9c]
+*** TURN *** [4d 7s 9c][2c]
+*** RIVER *** [4d 7s 9c 2c][5d]
+*** SHOW DOWN ***
+raidden02 shows [Tc Kc] (High card : King)
+.Roxon. shows [Qh Ah] (High card : Ace)
+.Roxon. collected 2055 from pot
+*** SUMMARY ***
+Total pot 2055 | No rake
+Board: [4d 7s 9c 2c 5d]
+Seat 3: raidden02 (big blind) showed [Tc Kc] and lost with High card : King
+Seat 4: .Roxon. showed [Qh Ah] and won 2055 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564644343789387777-53-1442782499 - Holdem no limit (20/150/300) - 2015/09/20 20:54:59 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: cammal (1425)
+Seat 2: sabre_laser (2720)
+Seat 4: .Roxon. (3795)
+Seat 5: bobbylegros (4195)
+Seat 6: jejellyroll (1470)
+Seat 8: G_ZU (1395)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 20
+cammal posts ante 20
+sabre_laser posts ante 20
+bobbylegros posts ante 20
+jejellyroll posts ante 20
+G_ZU posts ante 20
+.Roxon. posts big blind 300
+Dealt to sabre_laser [8d 6h]
+*** PRE-FLOP *** 
+bobbylegros folds
+jejellyroll folds
+G_ZU folds
+cammal folds
+sabre_laser folds
+.Roxon. collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 4: .Roxon. (big blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564644343789387777-54-1442782532 - Holdem no limit (20/150/300) - 2015/09/20 20:55:32 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cammal (1405)
+Seat 2: sabre_laser (2700)
+Seat 4: .Roxon. (3895)
+Seat 5: bobbylegros (4175)
+Seat 6: jejellyroll (1450)
+Seat 8: G_ZU (1375)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 20
+bobbylegros posts ante 20
+cammal posts ante 20
+sabre_laser posts ante 20
+jejellyroll posts ante 20
+G_ZU posts ante 20
+.Roxon. posts small blind 150
+bobbylegros posts big blind 300
+Dealt to sabre_laser [Jd 3d]
+*** PRE-FLOP *** 
+jejellyroll folds
+G_ZU folds
+cammal folds
+sabre_laser folds
+.Roxon. folds
+bobbylegros collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 5: bobbylegros (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564644343789387777-55-1442782554 - Holdem no limit (20/150/300) - 2015/09/20 20:55:54 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cammal (1385)
+Seat 2: sabre_laser (2680)
+Seat 4: .Roxon. (3725)
+Seat 5: bobbylegros (4425)
+Seat 6: jejellyroll (1430)
+Seat 8: G_ZU (1355)
+*** ANTE/BLINDS ***
+bobbylegros posts ante 20
+jejellyroll posts ante 20
+cammal posts ante 20
+sabre_laser posts ante 20
+.Roxon. posts ante 20
+G_ZU posts ante 20
+bobbylegros posts small blind 150
+jejellyroll posts big blind 300
+Dealt to sabre_laser [Td 5d]
+*** PRE-FLOP *** 
+G_ZU folds
+cammal folds
+sabre_laser folds
+.Roxon. folds
+bobbylegros calls 150
+jejellyroll checks
+*** FLOP *** [Th Kd 9s]
+bobbylegros bets 480
+jejellyroll folds
+bobbylegros collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Th Kd 9s]
+Seat 5: bobbylegros (small blind) won 1200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564644343789387777-56-1442782595 - Holdem no limit (20/150/300) - 2015/09/20 20:56:35 UTC
+Table: 'Double or Nothing(131466506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cammal (1365)
+Seat 2: sabre_laser (2660)
+Seat 4: .Roxon. (3705)
+Seat 5: bobbylegros (4825)
+Seat 6: jejellyroll (1110)
+Seat 8: G_ZU (1335)
+*** ANTE/BLINDS ***
+jejellyroll posts ante 20
+G_ZU posts ante 20
+cammal posts ante 20
+sabre_laser posts ante 20
+.Roxon. posts ante 20
+bobbylegros posts ante 20
+jejellyroll posts small blind 150
+G_ZU posts big blind 300
+Dealt to sabre_laser [7h 8d]
+*** PRE-FLOP *** 
+cammal folds
+sabre_laser folds
+.Roxon. raises 600 to 900
+bobbylegros raises 1800 to 2700
+jejellyroll calls 940 and is all-in
+G_ZU folds
+.Roxon. folds
+*** FLOP *** [Kh Js 4d]
+*** TURN *** [Kh Js 4d][2c]
+*** RIVER *** [Kh Js 4d 2c][9d]
+*** SHOW DOWN ***
+jejellyroll shows [4c Ad] (One pair : 4)
+bobbylegros shows [Ac Ks] (One pair : Kings)
+bobbylegros collected 5110 from pot
+*** SUMMARY ***
+Total pot 5110 | No rake
+Board: [Kh Js 4d 2c 9d]
+Seat 5: bobbylegros (button) showed [Ac Ks] and won 5110 with One pair : Kings
+Seat 6: jejellyroll (small blind) showed [4c Ad] and lost with One pair : 4
+
+

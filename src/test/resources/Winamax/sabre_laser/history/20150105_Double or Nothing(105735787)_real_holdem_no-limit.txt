@@ -1,0 +1,950 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #454131747181821953-1-1420480974 - Holdem no limit (10/20) - 2015/01/05 18:02:54 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #3 is the button
+Seat 1: tonyocaen (1500)
+Seat 2: malipie (1500)
+Seat 3: jsiwek (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: BLACKJAK1973 (1500)
+Seat 6: BriKochettAA (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+BLACKJAK1973 posts big blind 20
+Dealt to sabre_laser [Qs Ad]
+*** PRE-FLOP *** 
+BriKochettAA folds
+tonyocaen calls 20
+malipie calls 20
+jsiwek folds
+sabre_laser raises 130 to 150
+BLACKJAK1973 folds
+tonyocaen folds
+malipie folds
+sabre_laser collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 4: sabre_laser (small blind) won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #454131747181821953-2-1420481010 - Holdem no limit (10/20) - 2015/01/05 18:03:30 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #4 is the button
+Seat 1: tonyocaen (1480)
+Seat 2: malipie (1480)
+Seat 3: jsiwek (1500)
+Seat 4: sabre_laser (1560)
+Seat 5: BLACKJAK1973 (1480)
+Seat 6: BriKochettAA (1500)
+*** ANTE/BLINDS ***
+BLACKJAK1973 posts small blind 10
+BriKochettAA posts big blind 20
+Dealt to sabre_laser [Kd 4d]
+*** PRE-FLOP *** 
+tonyocaen folds
+malipie folds
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 calls 10
+BriKochettAA raises 40 to 60
+BLACKJAK1973 folds
+BriKochettAA collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 6: BriKochettAA (big blind) won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #454131747181821953-3-1420481035 - Holdem no limit (10/20) - 2015/01/05 18:03:55 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #5 is the button
+Seat 1: tonyocaen (1480)
+Seat 2: malipie (1480)
+Seat 3: jsiwek (1500)
+Seat 4: sabre_laser (1560)
+Seat 5: BLACKJAK1973 (1460)
+Seat 6: BriKochettAA (1520)
+*** ANTE/BLINDS ***
+BriKochettAA posts small blind 10
+tonyocaen posts big blind 20
+Dealt to sabre_laser [Td 9c]
+*** PRE-FLOP *** 
+malipie folds
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA calls 10
+tonyocaen raises 60 to 80
+BriKochettAA folds
+tonyocaen collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: tonyocaen (big blind) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #454131747181821953-4-1420481062 - Holdem no limit (10/20) - 2015/01/05 18:04:22 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #6 is the button
+Seat 1: tonyocaen (1500)
+Seat 2: malipie (1480)
+Seat 3: jsiwek (1500)
+Seat 4: sabre_laser (1560)
+Seat 5: BLACKJAK1973 (1460)
+Seat 6: BriKochettAA (1500)
+*** ANTE/BLINDS ***
+tonyocaen posts small blind 10
+malipie posts big blind 20
+Dealt to sabre_laser [4s 6c]
+*** PRE-FLOP *** 
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 raises 40 to 60
+BriKochettAA folds
+tonyocaen calls 50
+malipie calls 40
+*** FLOP *** [Ts 4h 9c]
+tonyocaen checks
+malipie bets 90
+BLACKJAK1973 calls 90
+tonyocaen calls 90
+*** TURN *** [Ts 4h 9c][3c]
+tonyocaen checks
+malipie bets 300
+BLACKJAK1973 calls 300
+tonyocaen folds
+*** RIVER *** [Ts 4h 9c 3c][2h]
+malipie bets 1030 and is all-in
+BLACKJAK1973 folds
+malipie collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Board: [Ts 4h 9c 3c 2h]
+Seat 2: malipie (big blind) won 2080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #454131747181821953-5-1420481143 - Holdem no limit (10/20) - 2015/01/05 18:05:43 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #1 is the button
+Seat 1: tonyocaen (1350)
+Seat 2: malipie (2080)
+Seat 3: jsiwek (1500)
+Seat 4: sabre_laser (1560)
+Seat 5: BLACKJAK1973 (1010)
+Seat 6: BriKochettAA (1500)
+*** ANTE/BLINDS ***
+malipie posts small blind 10
+jsiwek posts big blind 20
+Dealt to sabre_laser [4h Ad]
+*** PRE-FLOP *** 
+sabre_laser raises 30 to 50
+BLACKJAK1973 folds
+BriKochettAA folds
+tonyocaen folds
+malipie folds
+jsiwek folds
+sabre_laser collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 4: sabre_laser won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #454131747181821953-6-1420481167 - Holdem no limit (15/30) - 2015/01/05 18:06:07 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #2 is the button
+Seat 1: tonyocaen (1350)
+Seat 2: malipie (2070)
+Seat 3: jsiwek (1480)
+Seat 4: sabre_laser (1590)
+Seat 5: BLACKJAK1973 (1010)
+Seat 6: BriKochettAA (1500)
+*** ANTE/BLINDS ***
+jsiwek posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [8c Td]
+*** PRE-FLOP *** 
+BLACKJAK1973 folds
+BriKochettAA folds
+tonyocaen folds
+malipie folds
+jsiwek folds
+sabre_laser collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 4: sabre_laser (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #454131747181821953-7-1420481179 - Holdem no limit (15/30) - 2015/01/05 18:06:19 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #3 is the button
+Seat 1: tonyocaen (1350)
+Seat 2: malipie (2070)
+Seat 3: jsiwek (1465)
+Seat 4: sabre_laser (1605)
+Seat 5: BLACKJAK1973 (1010)
+Seat 6: BriKochettAA (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+BLACKJAK1973 posts big blind 30
+Dealt to sabre_laser [4c 2h]
+*** PRE-FLOP *** 
+BriKochettAA folds
+tonyocaen folds
+malipie calls 30
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 checks
+*** FLOP *** [Td Ah 9d]
+BLACKJAK1973 checks
+malipie bets 38
+BLACKJAK1973 folds
+malipie collected 113 from pot
+*** SUMMARY ***
+Total pot 113 | No rake
+Board: [Td Ah 9d]
+Seat 2: malipie won 113
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #454131747181821953-8-1420481217 - Holdem no limit (15/30) - 2015/01/05 18:06:57 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #4 is the button
+Seat 1: tonyocaen (1350)
+Seat 2: malipie (2115)
+Seat 3: jsiwek (1465)
+Seat 4: sabre_laser (1590)
+Seat 5: BLACKJAK1973 (980)
+Seat 6: BriKochettAA (1500)
+*** ANTE/BLINDS ***
+BLACKJAK1973 posts small blind 15
+BriKochettAA posts big blind 30
+Dealt to sabre_laser [Td 4c]
+*** PRE-FLOP *** 
+tonyocaen raises 60 to 90
+malipie folds
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 calls 75
+BriKochettAA folds
+*** FLOP *** [2s 7d Ts]
+BLACKJAK1973 checks
+tonyocaen bets 105
+BLACKJAK1973 folds
+tonyocaen collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [2s 7d Ts]
+Seat 1: tonyocaen won 315
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #454131747181821953-9-1420481251 - Holdem no limit (15/30) - 2015/01/05 18:07:31 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #5 is the button
+Seat 1: tonyocaen (1470)
+Seat 2: malipie (2115)
+Seat 3: jsiwek (1465)
+Seat 4: sabre_laser (1590)
+Seat 5: BLACKJAK1973 (890)
+Seat 6: BriKochettAA (1470)
+*** ANTE/BLINDS ***
+BriKochettAA posts small blind 15
+tonyocaen posts big blind 30
+Dealt to sabre_laser [Jh 6s]
+*** PRE-FLOP *** 
+malipie folds
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 raises 60 to 90
+BriKochettAA calls 75
+tonyocaen folds
+*** FLOP *** [9d Ah 7c]
+BriKochettAA bets 60
+BLACKJAK1973 calls 60
+*** TURN *** [9d Ah 7c][7s]
+BriKochettAA bets 90
+BLACKJAK1973 calls 90
+*** RIVER *** [9d Ah 7c 7s][Ks]
+BriKochettAA bets 270
+BLACKJAK1973 calls 270
+*** SHOW DOWN ***
+BriKochettAA shows [Ac 5d] (Two pairs : Aces and 7)
+BLACKJAK1973 shows [Ad Kd] (Two pairs : Aces and Kings)
+BLACKJAK1973 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [9d Ah 7c 7s Ks]
+Seat 5: BLACKJAK1973 (button) showed [Ad Kd] and won 1050 with Two pairs : Aces and Kings
+Seat 6: BriKochettAA (small blind) showed [Ac 5d] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #454131747181821953-10-1420481304 - Holdem no limit (15/30) - 2015/01/05 18:08:24 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #6 is the button
+Seat 1: tonyocaen (1440)
+Seat 2: malipie (2115)
+Seat 3: jsiwek (1465)
+Seat 4: sabre_laser (1590)
+Seat 5: BLACKJAK1973 (1430)
+Seat 6: BriKochettAA (960)
+*** ANTE/BLINDS ***
+tonyocaen posts small blind 15
+malipie posts big blind 30
+Dealt to sabre_laser [7s 7c]
+*** PRE-FLOP *** 
+jsiwek folds
+sabre_laser calls 30
+BLACKJAK1973 calls 30
+BriKochettAA folds
+tonyocaen calls 15
+malipie checks
+*** FLOP *** [2s Ad 4s]
+tonyocaen checks
+malipie checks
+sabre_laser checks
+BLACKJAK1973 bets 60
+tonyocaen folds
+malipie folds
+sabre_laser folds
+BLACKJAK1973 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2s Ad 4s]
+Seat 5: BLACKJAK1973 won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 2 - HandId: #454131747181821953-11-1420481356 - Holdem no limit (20/40) - 2015/01/05 18:09:16 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #1 is the button
+Seat 1: tonyocaen (1410)
+Seat 2: malipie (2085)
+Seat 3: jsiwek (1465)
+Seat 4: sabre_laser (1560)
+Seat 5: BLACKJAK1973 (1520)
+Seat 6: BriKochettAA (960)
+*** ANTE/BLINDS ***
+malipie posts small blind 20
+jsiwek posts big blind 40
+Dealt to sabre_laser [5d Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA folds
+tonyocaen calls 40
+malipie calls 20
+jsiwek checks
+*** FLOP *** [2d Qs Qd]
+malipie bets 40
+jsiwek folds
+tonyocaen calls 40
+*** TURN *** [2d Qs Qd][5s]
+malipie bets 100
+tonyocaen calls 100
+*** RIVER *** [2d Qs Qd 5s][2s]
+malipie bets 160
+tonyocaen raises 720 to 880
+malipie folds
+tonyocaen shows [4d Kd] (Two pairs : Queens and 2)
+tonyocaen collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [2d Qs Qd 5s 2s]
+Seat 1: tonyocaen (button) showed [4d Kd] and won 1440 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 2 - HandId: #454131747181821953-12-1420481425 - Holdem no limit (20/40) - 2015/01/05 18:10:25 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #2 is the button
+Seat 1: tonyocaen (1790)
+Seat 2: malipie (1745)
+Seat 3: jsiwek (1425)
+Seat 4: sabre_laser (1560)
+Seat 5: BLACKJAK1973 (1520)
+Seat 6: BriKochettAA (960)
+*** ANTE/BLINDS ***
+jsiwek posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [3h 5s]
+*** PRE-FLOP *** 
+BLACKJAK1973 calls 40
+BriKochettAA folds
+tonyocaen folds
+malipie folds
+jsiwek folds
+sabre_laser checks
+*** FLOP *** [Jh Jd 9h]
+sabre_laser checks
+BLACKJAK1973 checks
+*** TURN *** [Jh Jd 9h][Ah]
+sabre_laser bets 100
+BLACKJAK1973 calls 100
+*** RIVER *** [Jh Jd 9h Ah][Qc]
+sabre_laser checks
+BLACKJAK1973 bets 150
+sabre_laser folds
+BLACKJAK1973 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Jh Jd 9h Ah Qc]
+Seat 5: BLACKJAK1973 won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 2 - HandId: #454131747181821953-13-1420481482 - Holdem no limit (20/40) - 2015/01/05 18:11:22 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #3 is the button
+Seat 1: tonyocaen (1790)
+Seat 2: malipie (1745)
+Seat 3: jsiwek (1405)
+Seat 4: sabre_laser (1420)
+Seat 5: BLACKJAK1973 (1680)
+Seat 6: BriKochettAA (960)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+BLACKJAK1973 posts big blind 40
+Dealt to sabre_laser [Qs 3c]
+*** PRE-FLOP *** 
+BriKochettAA folds
+tonyocaen folds
+malipie calls 40
+jsiwek folds
+sabre_laser calls 20
+BLACKJAK1973 checks
+*** FLOP *** [7h Ac 3s]
+sabre_laser bets 60
+BLACKJAK1973 calls 60
+malipie folds
+*** TURN *** [7h Ac 3s][Jd]
+sabre_laser checks
+BLACKJAK1973 bets 40
+sabre_laser calls 40
+*** RIVER *** [7h Ac 3s Jd][As]
+sabre_laser checks
+BLACKJAK1973 bets 160
+sabre_laser folds
+BLACKJAK1973 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [7h Ac 3s Jd As]
+Seat 5: BLACKJAK1973 (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #454131747181821953-14-1420481550 - Holdem no limit (30/60) - 2015/01/05 18:12:30 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #4 is the button
+Seat 1: tonyocaen (1790)
+Seat 2: malipie (1705)
+Seat 3: jsiwek (1405)
+Seat 4: sabre_laser (1280)
+Seat 5: BLACKJAK1973 (1860)
+Seat 6: BriKochettAA (960)
+*** ANTE/BLINDS ***
+BLACKJAK1973 posts small blind 30
+BriKochettAA posts big blind 60
+Dealt to sabre_laser [6d Ks]
+*** PRE-FLOP *** 
+tonyocaen folds
+malipie folds
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 calls 30
+BriKochettAA checks
+*** FLOP *** [2s 8s 3c]
+BLACKJAK1973 bets 60
+BriKochettAA folds
+BLACKJAK1973 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2s 8s 3c]
+Seat 5: BLACKJAK1973 (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #454131747181821953-15-1420481581 - Holdem no limit (30/60) - 2015/01/05 18:13:01 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #5 is the button
+Seat 1: tonyocaen (1790)
+Seat 2: malipie (1705)
+Seat 3: jsiwek (1405)
+Seat 4: sabre_laser (1280)
+Seat 5: BLACKJAK1973 (1920)
+Seat 6: BriKochettAA (900)
+*** ANTE/BLINDS ***
+BriKochettAA posts small blind 30
+tonyocaen posts big blind 60
+Dealt to sabre_laser [6s 9d]
+*** PRE-FLOP *** 
+malipie raises 1645 to 1705 and is all-in
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA folds
+tonyocaen folds
+malipie collected 1795 from pot
+*** SUMMARY ***
+Total pot 1795 | No rake
+Seat 2: malipie won 1795
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #454131747181821953-16-1420481608 - Holdem no limit (30/60) - 2015/01/05 18:13:28 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #6 is the button
+Seat 1: tonyocaen (1730)
+Seat 2: malipie (1795)
+Seat 3: jsiwek (1405)
+Seat 4: sabre_laser (1280)
+Seat 5: BLACKJAK1973 (1920)
+Seat 6: BriKochettAA (870)
+*** ANTE/BLINDS ***
+tonyocaen posts small blind 30
+malipie posts big blind 60
+Dealt to sabre_laser [2s 5d]
+*** PRE-FLOP *** 
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA folds
+tonyocaen raises 120 to 180
+malipie folds
+tonyocaen collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: tonyocaen (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #454131747181821953-17-1420481646 - Holdem no limit (30/60) - 2015/01/05 18:14:06 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #1 is the button
+Seat 1: tonyocaen (1790)
+Seat 2: malipie (1735)
+Seat 3: jsiwek (1405)
+Seat 4: sabre_laser (1280)
+Seat 5: BLACKJAK1973 (1920)
+Seat 6: BriKochettAA (870)
+*** ANTE/BLINDS ***
+malipie posts small blind 30
+jsiwek posts big blind 60
+Dealt to sabre_laser [8d 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+BLACKJAK1973 calls 60
+BriKochettAA folds
+tonyocaen folds
+malipie calls 30
+jsiwek raises 120 to 180
+BLACKJAK1973 folds
+malipie folds
+jsiwek collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: jsiwek (big blind) won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #454131747181821953-18-1420481690 - Holdem no limit (40/80) - 2015/01/05 18:14:50 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #2 is the button
+Seat 1: tonyocaen (1790)
+Seat 2: malipie (1675)
+Seat 3: jsiwek (1525)
+Seat 4: sabre_laser (1280)
+Seat 5: BLACKJAK1973 (1860)
+Seat 6: BriKochettAA (870)
+*** ANTE/BLINDS ***
+jsiwek posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [5s 6h]
+*** PRE-FLOP *** 
+BLACKJAK1973 folds
+BriKochettAA folds
+tonyocaen folds
+malipie calls 80
+jsiwek folds
+sabre_laser checks
+*** FLOP *** [2c 8s 9d]
+sabre_laser checks
+malipie bets 80
+sabre_laser folds
+malipie collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2c 8s 9d]
+Seat 2: malipie (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #454131747181821953-19-1420481715 - Holdem no limit (40/80) - 2015/01/05 18:15:15 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #3 is the button
+Seat 1: tonyocaen (1790)
+Seat 2: malipie (1795)
+Seat 3: jsiwek (1485)
+Seat 4: sabre_laser (1200)
+Seat 5: BLACKJAK1973 (1860)
+Seat 6: BriKochettAA (870)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+BLACKJAK1973 posts big blind 80
+Dealt to sabre_laser [Ac Qs]
+*** PRE-FLOP *** 
+BriKochettAA folds
+tonyocaen raises 160 to 240
+malipie folds
+jsiwek folds
+sabre_laser raises 960 to 1200 and is all-in
+BLACKJAK1973 folds
+tonyocaen calls 960
+*** FLOP *** [5c 3c 6c]
+*** TURN *** [5c 3c 6c][7s]
+*** RIVER *** [5c 3c 6c 7s][9h]
+*** SHOW DOWN ***
+tonyocaen shows [Ad Js] (High card : Ace)
+sabre_laser shows [Ac Qs] (High card : Ace)
+sabre_laser collected 2480 from pot
+*** SUMMARY ***
+Total pot 2480 | No rake
+Board: [5c 3c 6c 7s 9h]
+Seat 1: tonyocaen showed [Ad Js] and lost with High card : Ace
+Seat 4: sabre_laser (small blind) showed [Ac Qs] and won 2480 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #454131747181821953-20-1420481745 - Holdem no limit (40/80) - 2015/01/05 18:15:45 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #4 is the button
+Seat 1: tonyocaen (590)
+Seat 2: malipie (1795)
+Seat 3: jsiwek (1485)
+Seat 4: sabre_laser (2480)
+Seat 5: BLACKJAK1973 (1780)
+Seat 6: BriKochettAA (870)
+*** ANTE/BLINDS ***
+BLACKJAK1973 posts small blind 40
+BriKochettAA posts big blind 80
+Dealt to sabre_laser [Kd Ks]
+*** PRE-FLOP *** 
+tonyocaen folds
+malipie folds
+jsiwek folds
+sabre_laser raises 80 to 160
+BLACKJAK1973 folds
+BriKochettAA folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 4: sabre_laser (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #454131747181821953-21-1420481778 - Holdem no limit (40/80) - 2015/01/05 18:16:18 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #5 is the button
+Seat 1: tonyocaen (590)
+Seat 2: malipie (1795)
+Seat 3: jsiwek (1485)
+Seat 4: sabre_laser (2600)
+Seat 5: BLACKJAK1973 (1740)
+Seat 6: BriKochettAA (790)
+*** ANTE/BLINDS ***
+BriKochettAA posts small blind 40
+tonyocaen posts big blind 80
+Dealt to sabre_laser [8h 5h]
+*** PRE-FLOP *** 
+malipie calls 80
+jsiwek raises 160 to 240
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA folds
+tonyocaen calls 160
+malipie calls 160
+*** FLOP *** [9d 7h As]
+tonyocaen checks
+malipie checks
+jsiwek bets 280
+tonyocaen raises 70 to 350 and is all-in
+malipie folds
+jsiwek calls 70
+*** TURN *** [9d 7h As][6c]
+*** RIVER *** [9d 7h As 6c][5s]
+*** SHOW DOWN ***
+tonyocaen shows [9h Kh] (One pair : 9)
+jsiwek shows [Jc Js] (One pair : Jacks)
+jsiwek collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [9d 7h As 6c 5s]
+Seat 1: tonyocaen (big blind) showed [9h Kh] and lost with One pair : 9
+Seat 3: jsiwek showed [Jc Js] and won 1460 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #454131747181821953-22-1420481851 - Holdem no limit (40/80) - 2015/01/05 18:17:31 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #6 is the button
+Seat 2: malipie (1555)
+Seat 3: jsiwek (2355)
+Seat 4: sabre_laser (2600)
+Seat 5: BLACKJAK1973 (1740)
+Seat 6: BriKochettAA (750)
+*** ANTE/BLINDS ***
+malipie posts big blind 80
+Dealt to sabre_laser [3d 6h]
+*** PRE-FLOP *** 
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 calls 80
+BriKochettAA calls 80
+malipie raises 80 to 160
+BLACKJAK1973 calls 80
+BriKochettAA calls 80
+*** FLOP *** [3s Ah 4c]
+malipie bets 80
+BLACKJAK1973 folds
+BriKochettAA calls 80
+*** TURN *** [3s Ah 4c][8h]
+malipie checks
+BriKochettAA bets 80
+malipie folds
+BriKochettAA collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [3s Ah 4c 8h]
+Seat 6: BriKochettAA (button) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #454131747181821953-23-1420481889 - Holdem no limit (60/120) - 2015/01/05 18:18:09 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #1 is the button
+Seat 2: malipie (1315)
+Seat 3: jsiwek (2355)
+Seat 4: sabre_laser (2600)
+Seat 5: BLACKJAK1973 (1580)
+Seat 6: BriKochettAA (1150)
+*** ANTE/BLINDS ***
+malipie posts small blind 60
+jsiwek posts big blind 120
+Dealt to sabre_laser [Td 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA folds
+malipie folds
+jsiwek collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: jsiwek (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #454131747181821953-24-1420481913 - Holdem no limit (60/120) - 2015/01/05 18:18:33 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #2 is the button
+Seat 2: malipie (1255)
+Seat 3: jsiwek (2415)
+Seat 4: sabre_laser (2600)
+Seat 5: BLACKJAK1973 (1580)
+Seat 6: BriKochettAA (1150)
+*** ANTE/BLINDS ***
+jsiwek posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Jh Qc]
+*** PRE-FLOP *** 
+BLACKJAK1973 folds
+BriKochettAA folds
+malipie calls 120
+jsiwek folds
+sabre_laser checks
+*** FLOP *** [9d Kc Qs]
+sabre_laser checks
+malipie bets 120
+sabre_laser calls 120
+*** TURN *** [9d Kc Qs][9c]
+sabre_laser checks
+malipie checks
+*** RIVER *** [9d Kc Qs 9c][5s]
+sabre_laser bets 240
+malipie folds
+sabre_laser collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [9d Kc Qs 9c 5s]
+Seat 4: sabre_laser (big blind) won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #454131747181821953-25-1420481962 - Holdem no limit (60/120) - 2015/01/05 18:19:22 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #3 is the button
+Seat 2: malipie (1015)
+Seat 3: jsiwek (2355)
+Seat 4: sabre_laser (2900)
+Seat 5: BLACKJAK1973 (1580)
+Seat 6: BriKochettAA (1150)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+BLACKJAK1973 posts big blind 120
+Dealt to sabre_laser [6h 3d]
+*** PRE-FLOP *** 
+BriKochettAA folds
+malipie folds
+jsiwek raises 180 to 300
+sabre_laser folds
+BLACKJAK1973 folds
+jsiwek collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: jsiwek (button) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #454131747181821953-26-1420481989 - Holdem no limit (60/120) - 2015/01/05 18:19:49 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #4 is the button
+Seat 2: malipie (1015)
+Seat 3: jsiwek (2535)
+Seat 4: sabre_laser (2840)
+Seat 5: BLACKJAK1973 (1460)
+Seat 6: BriKochettAA (1150)
+*** ANTE/BLINDS ***
+BLACKJAK1973 posts small blind 60
+BriKochettAA posts big blind 120
+Dealt to sabre_laser [Qs 9h]
+*** PRE-FLOP *** 
+malipie folds
+jsiwek folds
+sabre_laser raises 120 to 240
+BLACKJAK1973 folds
+BriKochettAA folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 4: sabre_laser (button) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #454131747181821953-27-1420482004 - Holdem no limit (60/120) - 2015/01/05 18:20:04 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #5 is the button
+Seat 2: malipie (1015)
+Seat 3: jsiwek (2535)
+Seat 4: sabre_laser (3020)
+Seat 5: BLACKJAK1973 (1400)
+Seat 6: BriKochettAA (1030)
+*** ANTE/BLINDS ***
+BriKochettAA posts small blind 60
+malipie posts big blind 120
+Dealt to sabre_laser [2s Kc]
+*** PRE-FLOP *** 
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA raises 910 to 1030 and is all-in
+malipie folds
+BriKochettAA collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Seat 6: BriKochettAA (small blind) won 1150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #454131747181821953-28-1420482014 - Holdem no limit (60/120) - 2015/01/05 18:20:14 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #6 is the button
+Seat 2: malipie (895)
+Seat 3: jsiwek (2535)
+Seat 4: sabre_laser (3020)
+Seat 5: BLACKJAK1973 (1400)
+Seat 6: BriKochettAA (1150)
+*** ANTE/BLINDS ***
+malipie posts small blind 60
+jsiwek posts big blind 120
+Dealt to sabre_laser [Ac Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA folds
+malipie calls 60
+jsiwek checks
+*** FLOP *** [Qh 2d 3s]
+malipie checks
+jsiwek bets 120
+malipie raises 655 to 775 and is all-in
+jsiwek calls 655
+*** TURN *** [Qh 2d 3s][Ah]
+*** RIVER *** [Qh 2d 3s Ah][Jh]
+*** SHOW DOWN ***
+malipie shows [Qs 5s] (One pair : Queens)
+jsiwek shows [3h 2c] (Two pairs : 3 and 2)
+jsiwek collected 1790 from pot
+*** SUMMARY ***
+Total pot 1790 | No rake
+Board: [Qh 2d 3s Ah Jh]
+Seat 2: malipie (small blind) showed [Qs 5s] and lost with One pair : Queens
+Seat 3: jsiwek (big blind) showed [3h 2c] and won 1790 with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #454131747181821953-29-1420482069 - Holdem no limit (80/160) - 2015/01/05 18:21:09 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #2 is the button
+Seat 3: jsiwek (3430)
+Seat 4: sabre_laser (3020)
+Seat 5: BLACKJAK1973 (1400)
+Seat 6: BriKochettAA (1150)
+*** ANTE/BLINDS ***
+jsiwek posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Kd 5d]
+*** PRE-FLOP *** 
+BLACKJAK1973 folds
+BriKochettAA folds
+jsiwek folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #454131747181821953-30-1420482080 - Holdem no limit (80/160) - 2015/01/05 18:21:20 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #3 is the button
+Seat 3: jsiwek (3350)
+Seat 4: sabre_laser (3100)
+Seat 5: BLACKJAK1973 (1400)
+Seat 6: BriKochettAA (1150)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+BLACKJAK1973 posts big blind 160
+Dealt to sabre_laser [Jd 7d]
+*** PRE-FLOP *** 
+BriKochettAA raises 160 to 320
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 6: BriKochettAA won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #454131747181821953-31-1420482097 - Holdem no limit (80/160) - 2015/01/05 18:21:37 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #4 is the button
+Seat 3: jsiwek (3350)
+Seat 4: sabre_laser (3020)
+Seat 5: BLACKJAK1973 (1240)
+Seat 6: BriKochettAA (1390)
+*** ANTE/BLINDS ***
+BLACKJAK1973 posts small blind 80
+BriKochettAA posts big blind 160
+Dealt to sabre_laser [8h Th]
+*** PRE-FLOP *** 
+jsiwek folds
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: BriKochettAA (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #454131747181821953-32-1420482105 - Holdem no limit (80/160) - 2015/01/05 18:21:45 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #5 is the button
+Seat 3: jsiwek (3350)
+Seat 4: sabre_laser (3020)
+Seat 5: BLACKJAK1973 (1160)
+Seat 6: BriKochettAA (1470)
+*** ANTE/BLINDS ***
+BriKochettAA posts small blind 80
+jsiwek posts big blind 160
+Dealt to sabre_laser [8h Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+BLACKJAK1973 folds
+BriKochettAA folds
+jsiwek collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: jsiwek (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #454131747181821953-33-1420482114 - Holdem no limit (80/160) - 2015/01/05 18:21:54 UTC
+Table: 'Double or Nothing(105735787)#0' 6-max (real money) Seat #6 is the button
+Seat 3: jsiwek (3430)
+Seat 4: sabre_laser (3020)
+Seat 5: BLACKJAK1973 (1160)
+Seat 6: BriKochettAA (1390)
+*** ANTE/BLINDS ***
+jsiwek posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [5s 3h]
+*** PRE-FLOP *** 
+BLACKJAK1973 raises 1000 to 1160 and is all-in
+BriKochettAA raises 230 to 1390 and is all-in
+jsiwek folds
+sabre_laser folds
+*** FLOP *** [Kd Js 8d]
+*** TURN *** [Kd Js 8d][4d]
+*** RIVER *** [Kd Js 8d 4d][Ac]
+*** SHOW DOWN ***
+BLACKJAK1973 shows [6h 6s] (One pair : 6)
+BriKochettAA shows [Ad Qh] (One pair : Aces)
+BriKochettAA collected 2790 from pot
+*** SUMMARY ***
+Total pot 2790 | No rake
+Board: [Kd Js 8d 4d Ac]
+Seat 5: BLACKJAK1973 showed [6h 6s] and lost with One pair : 6
+Seat 6: BriKochettAA (button) showed [Ad Qh] and won 2790 with One pair : Aces
+
+

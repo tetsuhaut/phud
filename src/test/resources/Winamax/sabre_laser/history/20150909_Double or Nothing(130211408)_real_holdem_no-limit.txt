@@ -1,0 +1,335 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559253738926112769-1-1441831001 - Holdem no limit (10/20) - 2015/09/09 20:36:41 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ChanelPink (1500)
+Seat 2: .Roxon. (1500)
+Seat 3: fan2Slash (1500)
+Seat 4: sarkaploom (1500)
+Seat 5: titou9488 (1500)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1500)
+Seat 9: Yugo68 (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+gillestekill posts small blind 10
+Yugo68 posts big blind 20
+Dealt to sabre_laser [Tc 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+ChanelPink folds
+.Roxon. folds
+fan2Slash calls 20
+sarkaploom folds
+titou9488 folds
+ganmor83 folds
+Mars_Attack folds
+gillestekill calls 10
+Yugo68 checks
+*** FLOP *** [2d 5c 4s]
+gillestekill checks
+Yugo68 bets 20
+fan2Slash calls 20
+gillestekill folds
+*** TURN *** [2d 5c 4s][4h]
+Yugo68 bets 20
+fan2Slash calls 20
+*** RIVER *** [2d 5c 4s 4h][Js]
+Yugo68 bets 50
+fan2Slash folds
+Yugo68 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [2d 5c 4s 4h Js]
+Seat 9: Yugo68 (big blind) won 190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559253738926112769-2-1441831119 - Holdem no limit (10/20) - 2015/09/09 20:38:39 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ChanelPink (1500)
+Seat 2: .Roxon. (1500)
+Seat 3: fan2Slash (1440)
+Seat 4: sarkaploom (1500)
+Seat 5: titou9488 (1500)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1480)
+Seat 9: Yugo68 (1580)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+Yugo68 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Kd 9c]
+*** PRE-FLOP *** 
+ChanelPink folds
+.Roxon. folds
+fan2Slash folds
+sarkaploom folds
+titou9488 folds
+ganmor83 folds
+Mars_Attack folds
+gillestekill raises 20 to 40
+Yugo68 calls 30
+sabre_laser calls 20
+*** FLOP *** [Td Qc 6d]
+Yugo68 checks
+sabre_laser checks
+gillestekill checks
+*** TURN *** [Td Qc 6d][Js]
+Yugo68 bets 40
+sabre_laser raises 60 to 100
+gillestekill folds
+Yugo68 calls 60
+*** RIVER *** [Td Qc 6d Js][3c]
+Yugo68 bets 20
+sabre_laser calls 20
+*** SHOW DOWN ***
+Yugo68 shows [Ks 7c] (High card : King)
+sabre_laser shows [Kd 9c] (Straight King high)
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Td Qc 6d Js 3c]
+Seat 9: Yugo68 (small blind) showed [Ks 7c] and lost with High card : King
+Seat 10: sabre_laser (big blind) showed [Kd 9c] and won 360 with Straight King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559253738926112769-3-1441831190 - Holdem no limit (10/20) - 2015/09/09 20:39:50 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ChanelPink (1500)
+Seat 2: .Roxon. (1500)
+Seat 3: fan2Slash (1440)
+Seat 4: sarkaploom (1500)
+Seat 5: titou9488 (1500)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1440)
+Seat 9: Yugo68 (1420)
+Seat 10: sabre_laser (1700)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+ChanelPink posts big blind 20
+Dealt to sabre_laser [Kc Js]
+*** PRE-FLOP *** 
+.Roxon. folds
+fan2Slash folds
+sarkaploom folds
+titou9488 folds
+ganmor83 folds
+Mars_Attack folds
+gillestekill folds
+Yugo68 raises 50 to 70
+sabre_laser folds
+ChanelPink folds
+Yugo68 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 9: Yugo68 (button) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559253738926112769-4-1441831253 - Holdem no limit (10/20) - 2015/09/09 20:40:53 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ChanelPink (1480)
+Seat 2: .Roxon. (1500)
+Seat 3: fan2Slash (1440)
+Seat 4: sarkaploom (1500)
+Seat 5: titou9488 (1500)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1440)
+Seat 9: Yugo68 (1450)
+Seat 10: sabre_laser (1690)
+*** ANTE/BLINDS ***
+ChanelPink posts small blind 10
+.Roxon. posts big blind 20
+Dealt to sabre_laser [Js Ac]
+*** PRE-FLOP *** 
+fan2Slash folds
+sarkaploom folds
+titou9488 raises 40 to 60
+ganmor83 folds
+Mars_Attack folds
+gillestekill folds
+Yugo68 calls 60
+sabre_laser raises 240 to 300
+ChanelPink folds
+.Roxon. folds
+titou9488 raises 1200 to 1500 and is all-in
+Yugo68 folds
+sabre_laser calls 1200
+*** FLOP *** [4h 9s Ks]
+*** TURN *** [4h 9s Ks][Jh]
+*** RIVER *** [4h 9s Ks Jh][Kc]
+*** SHOW DOWN ***
+sabre_laser shows [Js Ac] (Two pairs : Kings and Jacks)
+titou9488 shows [As Kh] (Trips of Kings)
+titou9488 collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Board: [4h 9s Ks Jh Kc]
+Seat 5: titou9488 showed [As Kh] and won 3090 with Trips of Kings
+Seat 10: sabre_laser (button) showed [Js Ac] and lost with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559253738926112769-5-1441831302 - Holdem no limit (10/20) - 2015/09/09 20:41:42 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ChanelPink (1470)
+Seat 2: .Roxon. (1480)
+Seat 3: fan2Slash (1440)
+Seat 4: sarkaploom (1500)
+Seat 5: titou9488 (3090)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1440)
+Seat 9: Yugo68 (1390)
+Seat 10: sabre_laser (190)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 10
+fan2Slash posts big blind 20
+Dealt to sabre_laser [Qd 2c]
+*** PRE-FLOP *** 
+sarkaploom folds
+titou9488 folds
+ganmor83 folds
+Mars_Attack folds
+gillestekill folds
+Yugo68 folds
+sabre_laser folds
+ChanelPink folds
+.Roxon. folds
+fan2Slash collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: fan2Slash (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559253738926112769-6-1441831337 - Holdem no limit (10/20) - 2015/09/09 20:42:17 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #2 is the button
+Seat 1: ChanelPink (1470)
+Seat 2: .Roxon. (1470)
+Seat 3: fan2Slash (1450)
+Seat 4: sarkaploom (1500)
+Seat 5: titou9488 (3090)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1440)
+Seat 9: Yugo68 (1390)
+Seat 10: sabre_laser (190)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 10
+sarkaploom posts big blind 20
+Dealt to sabre_laser [8h 7d]
+*** PRE-FLOP *** 
+titou9488 folds
+ganmor83 folds
+Mars_Attack folds
+gillestekill raises 20 to 40
+Yugo68 calls 40
+sabre_laser folds
+ChanelPink folds
+.Roxon. folds
+fan2Slash folds
+sarkaploom folds
+*** FLOP *** [Qh Jc Kh]
+gillestekill checks
+Yugo68 checks
+*** TURN *** [Qh Jc Kh][6d]
+gillestekill bets 20
+Yugo68 calls 20
+*** RIVER *** [Qh Jc Kh 6d][Ks]
+gillestekill checks
+Yugo68 checks
+*** SHOW DOWN ***
+Yugo68 shows [9s 6s] (Two pairs : Kings and 6)
+gillestekill shows [Jh Ac] (Two pairs : Kings and Jacks)
+gillestekill collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Qh Jc Kh 6d Ks]
+Seat 8: gillestekill showed [Jh Ac] and won 150 with Two pairs : Kings and Jacks
+Seat 9: Yugo68 showed [9s 6s] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559253738926112769-7-1441831401 - Holdem no limit (15/30) - 2015/09/09 20:43:21 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ChanelPink (1470)
+Seat 2: .Roxon. (1470)
+Seat 3: fan2Slash (1440)
+Seat 4: sarkaploom (1480)
+Seat 5: titou9488 (3090)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1530)
+Seat 9: Yugo68 (1330)
+Seat 10: sabre_laser (190)
+*** ANTE/BLINDS ***
+sarkaploom posts small blind 15
+titou9488 posts big blind 30
+Dealt to sabre_laser [Ad 7c]
+*** PRE-FLOP *** 
+ganmor83 folds
+Mars_Attack folds
+gillestekill raises 30 to 60
+Yugo68 calls 60
+sabre_laser raises 130 to 190 and is all-in
+ChanelPink folds
+.Roxon. folds
+fan2Slash folds
+sarkaploom folds
+titou9488 folds
+gillestekill folds
+Yugo68 calls 130
+*** FLOP *** [3c 9d 5c]
+*** TURN *** [3c 9d 5c][7s]
+*** RIVER *** [3c 9d 5c 7s][9s]
+*** SHOW DOWN ***
+Yugo68 shows [As 8c] (One pair : 9)
+sabre_laser shows [Ad 7c] (Two pairs : 9 and 7)
+sabre_laser collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Board: [3c 9d 5c 7s 9s]
+Seat 9: Yugo68 showed [As 8c] and lost with One pair : 9
+Seat 10: sabre_laser showed [Ad 7c] and won 485 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559253738926112769-8-1441831546 - Holdem no limit (15/30) - 2015/09/09 20:45:46 UTC
+Table: 'Double or Nothing(130211408)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ChanelPink (1470)
+Seat 2: .Roxon. (1470)
+Seat 3: fan2Slash (1440)
+Seat 4: sarkaploom (1465)
+Seat 5: titou9488 (3060)
+Seat 6: ganmor83 (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: gillestekill (1470)
+Seat 9: Yugo68 (1140)
+Seat 10: sabre_laser (485)
+*** ANTE/BLINDS ***
+titou9488 posts small blind 15
+ganmor83 posts big blind 30
+Dealt to sabre_laser [Ts Th]
+*** PRE-FLOP *** 
+Mars_Attack folds
+gillestekill folds
+Yugo68 folds
+sabre_laser raises 455 to 485 and is all-in
+ChanelPink folds
+.Roxon. folds
+fan2Slash folds
+sarkaploom folds
+titou9488 folds
+ganmor83 calls 455
+*** FLOP *** [5c 3h 4s]
+*** TURN *** [5c 3h 4s][8c]
+*** RIVER *** [5c 3h 4s 8c][7c]
+*** SHOW DOWN ***
+sabre_laser shows [Ts Th] (One pair : Tens)
+ganmor83 shows [Kc Jc] (Flush King high)
+ganmor83 collected 985 from pot
+*** SUMMARY ***
+Total pot 985 | No rake
+Board: [5c 3h 4s 8c 7c]
+Seat 6: ganmor83 (big blind) showed [Kc Jc] and won 985 with Flush King high
+Seat 10: sabre_laser showed [Ts Th] and lost with One pair : Tens
+
+

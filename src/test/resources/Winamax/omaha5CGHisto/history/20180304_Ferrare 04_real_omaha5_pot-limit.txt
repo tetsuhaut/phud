@@ -1,0 +1,2498 @@
+Winamax Poker - CashGame - HandId: #10911014-57-1520182169 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 16:49:29 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2€)
+Seat 2: -Tybetem- (1.19€)
+Seat 3: Wapadu1 (3.03€)
+Seat 4: Messi477 (3.50€)
+Seat 5: Taiby (1.81€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+-Tybetem- posts small blind 0.01€
+Wapadu1 posts big blind 0.02€
+*** PRE-FLOP *** 
+Messi477 folds
+Taiby calls 0.02€
+gwen.i calls 0.02€
+-Tybetem- calls 0.01€
+Wapadu1 checks
+*** FLOP *** [9s 7s 7c]
+-Tybetem- bets 0.04€
+Wapadu1 folds
+Taiby calls 0.04€
+gwen.i calls 0.04€
+*** TURN *** [9s 7s 7c][4d]
+-Tybetem- bets 0.10€
+Taiby calls 0.10€
+gwen.i folds
+*** RIVER *** [9s 7s 7c 4d][7d]
+-Tybetem- bets 0.40€
+Taiby calls 0.40€
+*** SHOW DOWN ***
+Taiby shows [9h 3h 2h Ad 3d] (Full of 7 and 3)
+-Tybetem- shows [As 7h 5d Kc Jd] (Quads of 7)
+-Tybetem- collected 1.12€ from pot
+*** SUMMARY ***
+Total pot 1.12€ | Rake 0.08€
+Board: [9s 7s 7c 4d 7d]
+Seat 2: -Tybetem- (small blind) showed [As 7h 5d Kc Jd] and won 1.12€ with Quads of 7
+Seat 5: Taiby showed [9h 3h 2h Ad 3d] and lost with Full of 7 and 3
+
+
+Winamax Poker - CashGame - HandId: #10911014-58-1520182244 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 16:50:44 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2€)
+Seat 2: -Tybetem- (1.75€)
+Seat 3: Wapadu1 (3.01€)
+Seat 4: Messi477 (3.50€)
+Seat 5: Taiby (1.25€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+Wapadu1 posts small blind 0.01€
+Messi477 posts big blind 0.02€
+sabre_laser posts big blind 0.02€ out of position
+Dealt to sabre_laser [8c 6d 6s Kc 6h]
+*** PRE-FLOP *** 
+Taiby folds
+gwen.i calls 0.02€
+sabre_laser checks
+-Tybetem- raises 0.09€ to 0.11€
+Wapadu1 calls 0.10€
+Messi477 calls 0.09€
+gwen.i folds
+sabre_laser calls 0.09€
+*** FLOP *** [3d 9d Js]
+Wapadu1 checks
+Messi477 bets 0.46€
+sabre_laser folds
+-Tybetem- calls 0.46€
+Wapadu1 folds
+*** TURN *** [3d 9d Js][3s]
+Messi477 bets 1.38€
+-Tybetem- calls 1.18€ and is all-in
+*** RIVER *** [3d 9d Js 3s][5h]
+*** SHOW DOWN ***
+-Tybetem- shows [Qh 2d Kh Kd 8d] (Two pairs : Kings and 3)
+Messi477 shows [Ac 2s 9s Jh 7c] (Two pairs : Jacks and 9)
+Messi477 collected 0.20€ from side pot 1
+-Tybetem- collected 3.50€ from main pot
+*** SUMMARY ***
+Total pot 3.70€ | Rake 0.24€
+Board: [3d 9d Js 3s 5h]
+Seat 2: -Tybetem- (button) showed [Qh 2d Kh Kd 8d] and won 3.50€ with Two pairs : Kings and 3
+Seat 4: Messi477 (big blind) showed [Ac 2s 9s Jh 7c] and won 0.20€ with Two pairs : Jacks and 9
+
+
+Winamax Poker - CashGame - HandId: #10911014-59-1520182319 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 16:51:59 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1.89€)
+Seat 2: -Tybetem- (3.50€)
+Seat 3: Wapadu1 (2.90€)
+Seat 5: Taiby (1.25€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+Taiby posts big blind 0.02€
+Dealt to sabre_laser [3d 2d Qd Kh Th]
+*** PRE-FLOP *** 
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- raises 0.02€ to 0.04€
+Wapadu1 calls 0.04€
+Taiby folds
+gwen.i calls 0.02€
+*** FLOP *** [Jh Tc 6d]
+gwen.i checks
+-Tybetem- bets 0.07€
+Wapadu1 folds
+gwen.i folds
+-Tybetem- collected 0.20€ from pot
+*** SUMMARY ***
+Total pot 0.20€ | Rake 0.01€
+Board: [Jh Tc 6d]
+Seat 2: -Tybetem- won 0.20€
+
+
+Winamax Poker - CashGame - HandId: #10911014-60-1520182375 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 16:52:55 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1.89€)
+Seat 2: -Tybetem- (3.59€)
+Seat 3: Wapadu1 (2.86€)
+Seat 4: DamienKun (2€)
+Seat 5: Taiby (1.23€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+Taiby posts small blind 0.01€
+gwen.i posts big blind 0.02€
+Dealt to sabre_laser [6d 3h Ad 7h Js]
+*** PRE-FLOP *** 
+sabre_laser raises 0.03€ to 0.05€
+-Tybetem- calls 0.05€
+Wapadu1 calls 0.05€
+Taiby folds
+gwen.i calls 0.03€
+*** FLOP *** [Ts 6h Qd]
+gwen.i checks
+sabre_laser bets 0.10€
+-Tybetem- calls 0.10€
+Wapadu1 folds
+gwen.i calls 0.10€
+*** TURN *** [Ts 6h Qd][9h]
+gwen.i checks
+sabre_laser checks
+-Tybetem- bets 0.34€
+gwen.i folds
+sabre_laser folds
+-Tybetem- collected 0.82€ from pot
+*** SUMMARY ***
+Total pot 0.82€ | Rake 0.03€
+Board: [Ts 6h Qd 9h]
+Seat 2: -Tybetem- won 0.82€
+
+
+Winamax Poker - CashGame - HandId: #10911014-61-1520182462 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 16:54:22 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1.74€)
+Seat 2: -Tybetem- (3.92€)
+Seat 3: Wapadu1 (2.81€)
+Seat 4: DamienKun (2€)
+Seat 5: Taiby (1.22€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+gwen.i posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+DamienKun posts big blind 0.02€ out of position
+Dealt to sabre_laser [Qd 5s Ad 4h 8h]
+*** PRE-FLOP *** 
+-Tybetem- raises 0.04€ to 0.06€
+Wapadu1 calls 0.06€
+DamienKun calls 0.04€
+Taiby calls 0.06€
+gwen.i calls 0.05€
+sabre_laser calls 0.04€
+*** FLOP *** [Kc 9c 6d]
+gwen.i checks
+sabre_laser checks
+-Tybetem- checks
+Wapadu1 bets 0.08€
+DamienKun folds
+Taiby folds
+gwen.i calls 0.08€
+sabre_laser folds
+-Tybetem- folds
+*** TURN *** [Kc 9c 6d][Qs]
+gwen.i checks
+Wapadu1 bets 0.13€
+gwen.i calls 0.13€
+*** RIVER *** [Kc 9c 6d Qs][Qc]
+gwen.i checks
+Wapadu1 bets 0.33€
+gwen.i folds
+Wapadu1 collected 1.06€ from pot
+*** SUMMARY ***
+Total pot 1.06€ | Rake 0.05€
+Board: [Kc 9c 6d Qs Qc]
+Seat 3: Wapadu1 won 1.06€
+
+
+Winamax Poker - CashGame - HandId: #10911014-62-1520182578 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 16:56:18 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1.68€)
+Seat 2: -Tybetem- (3.86€)
+Seat 3: Wapadu1 (3.27€)
+Seat 4: DamienKun (1.94€)
+Seat 5: Taiby (1.16€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+-Tybetem- posts big blind 0.02€
+Dealt to sabre_laser [As Ts 5d 3c 4c]
+*** PRE-FLOP *** 
+Wapadu1 calls 0.02€
+DamienKun calls 0.02€
+Taiby calls 0.02€
+gwen.i calls 0.02€
+sabre_laser calls 0.01€
+-Tybetem- checks
+*** FLOP *** [3d 2d 9d]
+sabre_laser checks
+-Tybetem- bets 0.09€
+Wapadu1 folds
+DamienKun calls 0.09€
+Taiby calls 0.09€
+gwen.i folds
+sabre_laser folds
+*** TURN *** [3d 2d 9d][Kd]
+-Tybetem- bets 0.20€
+DamienKun calls 0.20€
+Taiby calls 0.20€
+*** RIVER *** [3d 2d 9d Kd][Ah]
+-Tybetem- bets 0.41€
+DamienKun calls 0.41€
+Taiby raises 0.44€ to 0.85€ and is all-in
+-Tybetem- calls 0.44€
+DamienKun calls 0.44€
+*** SHOW DOWN ***
+-Tybetem- shows [3s 9h 8d Ks Qd] (Flush King high)
+DamienKun shows [Js Jd 5c 6d Qc] (Flush King high)
+Taiby shows [Td 9c 4d Ad Kh] (Flush Ace high)
+Taiby collected 3.31€ from pot
+*** SUMMARY ***
+Total pot 3.31€ | Rake 0.23€
+Board: [3d 2d 9d Kd Ah]
+Seat 2: -Tybetem- (big blind) showed [3s 9h 8d Ks Qd] and lost with Flush King high
+Seat 4: DamienKun showed [Js Jd 5c 6d Qc] and lost with Flush King high
+Seat 5: Taiby showed [Td 9c 4d Ad Kh] and won 3.31€ with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #10911014-63-1520182727 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 16:58:47 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1.66€)
+Seat 2: -Tybetem- (2.70€)
+Seat 3: Wapadu1 (3.25€)
+Seat 4: DamienKun (0.78€)
+Seat 5: Taiby (3.31€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+-Tybetem- posts small blind 0.01€
+Wapadu1 posts big blind 0.02€
+Dealt to sabre_laser [6h Qh 8s 6c 4h]
+*** PRE-FLOP *** 
+DamienKun calls 0.02€
+Taiby folds
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- calls 0.01€
+Wapadu1 checks
+*** FLOP *** [9h Js 7h]
+-Tybetem- bets 0.08€
+Wapadu1 calls 0.08€
+DamienKun folds
+gwen.i calls 0.08€
+*** TURN *** [9h Js 7h][3c]
+-Tybetem- bets 0.32€
+Wapadu1 calls 0.32€
+gwen.i folds
+*** RIVER *** [9h Js 7h 3c][2h]
+-Tybetem- bets 0.96€
+Wapadu1 calls 0.96€
+*** SHOW DOWN ***
+-Tybetem- shows [Ac Jh 3d 7c 7s] (Trips of 7)
+Wapadu1 shows [3h 2s 9d Kh Th] (Flush King high)
+Wapadu1 collected 2.69€ from pot
+*** SUMMARY ***
+Total pot 2.69€ | Rake 0.19€
+Board: [9h Js 7h 3c 2h]
+Seat 2: -Tybetem- (small blind) showed [Ac Jh 3d 7c 7s] and lost with Trips of 7
+Seat 3: Wapadu1 (big blind) showed [3h 2s 9d Kh Th] and won 2.69€ with Flush King high
+
+
+Winamax Poker - CashGame - HandId: #10911014-64-1520182807 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:00:07 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1.66€)
+Seat 2: -Tybetem- (1.32€)
+Seat 3: Wapadu1 (4.56€)
+Seat 4: DamienKun (0.76€)
+Seat 5: Taiby (3.31€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+Wapadu1 posts small blind 0.01€
+DamienKun posts big blind 0.02€
+Dealt to sabre_laser [7s Kd 5s Kc Tc]
+*** PRE-FLOP *** 
+Taiby folds
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- raises 0.04€ to 0.06€
+Wapadu1 folds
+DamienKun calls 0.04€
+gwen.i calls 0.04€
+*** FLOP *** [4d 2d 4s]
+DamienKun checks
+gwen.i checks
+-Tybetem- checks
+*** TURN *** [4d 2d 4s][As]
+DamienKun checks
+gwen.i checks
+-Tybetem- bets 0.10€
+DamienKun calls 0.10€
+gwen.i folds
+*** RIVER *** [4d 2d 4s As][Qs]
+DamienKun bets 0.39€
+-Tybetem- calls 0.39€
+*** SHOW DOWN ***
+-Tybetem- shows [Th 6s 7h 8h Ah] (Two pairs : Aces and 4)
+DamienKun shows [Ac 4h 6c 8d 3d] (Full of 4 and Aces)
+DamienKun collected 1.09€ from pot
+*** SUMMARY ***
+Total pot 1.09€ | Rake 0.08€
+Board: [4d 2d 4s As Qs]
+Seat 2: -Tybetem- (button) showed [Th 6s 7h 8h Ah] and lost with Two pairs : Aces and 4
+Seat 4: DamienKun (big blind) showed [Ac 4h 6c 8d 3d] and won 1.09€ with Full of 4 and Aces
+
+
+Winamax Poker - CashGame - HandId: #10911014-65-1520182901 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:01:41 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1.66€)
+Seat 2: -Tybetem- (0.77€)
+Seat 3: Wapadu1 (4.55€)
+Seat 4: DamienKun (1.30€)
+Seat 5: Taiby (3.31€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+DamienKun posts small blind 0.01€
+Taiby posts big blind 0.02€
+Dealt to sabre_laser [5h Qd 6h Js Ad]
+*** PRE-FLOP *** 
+gwen.i calls 0.02€
+sabre_laser calls 0.02€
+-Tybetem- raises 0.09€ to 0.11€
+Wapadu1 folds
+DamienKun calls 0.10€
+Taiby folds
+gwen.i calls 0.09€
+sabre_laser folds
+*** FLOP *** [2h 8s Tc]
+DamienKun checks
+gwen.i checks
+-Tybetem- bets 0.37€
+DamienKun folds
+gwen.i folds
+-Tybetem- collected 0.72€ from pot
+*** SUMMARY ***
+Total pot 0.72€ | Rake 0.02€
+Board: [2h 8s Tc]
+Seat 2: -Tybetem- won 0.72€
+
+
+Winamax Poker - CashGame - HandId: #10911014-66-1520182981 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:03:01 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1.64€)
+Seat 2: -Tybetem- (1.01€)
+Seat 3: Wapadu1 (4.55€)
+Seat 4: DamienKun (1.19€)
+Seat 5: Taiby (3.29€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+Taiby posts small blind 0.01€
+gwen.i posts big blind 0.02€
+Dealt to sabre_laser [5d 6c 6s 8s 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+-Tybetem- raises 0.04€ to 0.06€
+Wapadu1 folds
+DamienKun folds
+Taiby calls 0.05€
+gwen.i calls 0.04€
+*** FLOP *** [Jc 8c 9s]
+Taiby bets 0.09€
+gwen.i calls 0.09€
+-Tybetem- folds
+*** TURN *** [Jc 8c 9s][Qd]
+Taiby bets 0.18€
+gwen.i calls 0.18€
+*** RIVER *** [Jc 8c 9s Qd][7h]
+Taiby bets 0.36€
+gwen.i folds
+Taiby collected 1.03€ from pot
+*** SUMMARY ***
+Total pot 1.03€ | Rake 0.05€
+Board: [Jc 8c 9s Qd 7h]
+Seat 5: Taiby (small blind) won 1.03€
+
+
+Winamax Poker - CashGame - HandId: #10911014-67-1520183039 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:03:59 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1.64€)
+Seat 2: -Tybetem- (0.95€)
+Seat 3: Wapadu1 (4.55€)
+Seat 5: Taiby (3.63€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+gwen.i posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Kc Tc 5c 5h 4h]
+*** PRE-FLOP *** 
+-Tybetem- raises 0.05€ to 0.07€
+Wapadu1 folds
+Taiby folds
+gwen.i calls 0.06€
+sabre_laser calls 0.05€
+*** FLOP *** [Qh 3s Kh]
+gwen.i checks
+sabre_laser bets 0.04€
+-Tybetem- raises 0.29€ to 0.33€
+gwen.i folds
+sabre_laser folds
+-Tybetem- collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | Rake 0.02€
+Board: [Qh 3s Kh]
+Seat 2: -Tybetem- won 0.56€
+
+
+Winamax Poker - CashGame - HandId: #10911014-68-1520183114 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:05:14 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1.53€)
+Seat 2: -Tybetem- (1.11€)
+Seat 4: Bordulac (0.50€)
+Seat 5: Taiby (3.63€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+Bordulac denies big blind
+sabre_laser posts small blind 0.01€
+-Tybetem- posts big blind 0.02€
+Dealt to sabre_laser [Td 8d 7h 9h 6s]
+*** PRE-FLOP *** 
+Taiby folds
+gwen.i calls 0.02€
+sabre_laser calls 0.01€
+-Tybetem- checks
+*** FLOP *** [Kd 3s 2h]
+sabre_laser checks
+-Tybetem- bets 0.06€
+gwen.i folds
+sabre_laser folds
+-Tybetem- collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [Kd 3s 2h]
+Seat 2: -Tybetem- (big blind) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #10911014-69-1520183164 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:06:04 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1.51€)
+Seat 2: -Tybetem- (1.15€)
+Seat 4: Bordulac (0.50€)
+Seat 5: Taiby (3.63€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+-Tybetem- posts small blind 0.01€
+Bordulac posts big blind 0.02€
+Dealt to sabre_laser [Ts 8h As 8s Ks]
+*** PRE-FLOP *** 
+Taiby folds
+gwen.i calls 0.02€
+sabre_laser raises 0.03€ to 0.05€
+-Tybetem- raises 0.14€ to 0.19€
+Bordulac folds
+gwen.i folds
+sabre_laser calls 0.14€
+*** FLOP *** [2c 6d 5s]
+-Tybetem- bets 0.42€
+sabre_laser folds
+-Tybetem- collected 0.81€ from pot
+*** SUMMARY ***
+Total pot 0.81€ | Rake 0.03€
+Board: [2c 6d 5s]
+Seat 2: -Tybetem- (small blind) won 0.81€
+
+
+Winamax Poker - CashGame - HandId: #10911014-70-1520183201 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:06:41 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1.32€)
+Seat 2: -Tybetem- (1.35€)
+Seat 4: Bordulac (0.48€)
+Seat 5: Taiby (3.63€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+Bordulac posts small blind 0.01€
+Taiby posts big blind 0.02€
+Dealt to sabre_laser [Ts 5s 2d 8d Qh]
+*** PRE-FLOP *** 
+gwen.i raises 0.05€ to 0.07€
+sabre_laser folds
+-Tybetem- folds
+Bordulac folds
+Taiby calls 0.05€
+*** FLOP *** [8c 7h 3c]
+Taiby checks
+gwen.i bets 0.15€
+Taiby folds
+gwen.i collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [8c 7h 3c]
+Seat 6: gwen.i won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #10911014-71-1520183251 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:07:31 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1.32€)
+Seat 2: -Tybetem- (1.35€)
+Seat 4: Bordulac (0.47€)
+Seat 5: Taiby (3.56€)
+Seat 6: gwen.i (2.07€)
+*** ANTE/BLINDS ***
+Taiby posts small blind 0.01€
+gwen.i posts big blind 0.02€
+Dealt to sabre_laser [6s 3d 5c 7d Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+-Tybetem- raises 0.05€ to 0.07€
+Bordulac folds
+Taiby folds
+gwen.i calls 0.05€
+*** FLOP *** [Qd 8d 2c]
+gwen.i checks
+-Tybetem- bets 0.15€
+gwen.i folds
+-Tybetem- collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [Qd 8d 2c]
+Seat 2: -Tybetem- won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #10911014-72-1520183284 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:08:04 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1.32€)
+Seat 2: -Tybetem- (1.42€)
+Seat 4: Bordulac (0.47€)
+Seat 5: Taiby (3.55€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+gwen.i posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [4c 2s 3c 7h 5h]
+*** PRE-FLOP *** 
+-Tybetem- raises 0.05€ to 0.07€
+Bordulac calls 0.07€
+Taiby folds
+gwen.i folds
+sabre_laser folds
+*** FLOP *** [8d 7c 9c]
+-Tybetem- bets 0.17€
+Bordulac folds
+-Tybetem- collected 0.33€ from pot
+*** SUMMARY ***
+Total pot 0.33€ | Rake 0.01€
+Board: [8d 7c 9c]
+Seat 2: -Tybetem- won 0.33€
+
+
+Winamax Poker - CashGame - HandId: #10911014-73-1520183331 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:08:51 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1.30€)
+Seat 2: -Tybetem- (1.51€)
+Seat 3: jimprofit (2€)
+Seat 4: Bordulac (0.40€)
+Seat 5: Taiby (3.55€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+-Tybetem- posts big blind 0.02€
+jimprofit posts big blind 0.02€ out of position
+Dealt to sabre_laser [Qs 2d Qd 3s Jh]
+*** PRE-FLOP *** 
+jimprofit checks
+Bordulac calls 0.02€
+Taiby calls 0.02€
+gwen.i calls 0.02€
+sabre_laser calls 0.01€
+-Tybetem- checks
+*** FLOP *** [Ah 8d 2s]
+sabre_laser checks
+-Tybetem- bets 0.09€
+jimprofit folds
+Bordulac calls 0.09€
+Taiby folds
+gwen.i folds
+sabre_laser folds
+*** TURN *** [Ah 8d 2s][6c]
+-Tybetem- checks
+Bordulac checks
+*** RIVER *** [Ah 8d 2s 6c][2c]
+-Tybetem- bets 0.15€
+Bordulac folds
+-Tybetem- collected 0.43€ from pot
+*** SUMMARY ***
+Total pot 0.43€ | Rake 0.02€
+Board: [Ah 8d 2s 6c 2c]
+Seat 2: -Tybetem- (big blind) won 0.43€
+
+
+Winamax Poker - CashGame - HandId: #10911014-74-1520183421 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:10:21 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1.28€)
+Seat 2: -Tybetem- (1.68€)
+Seat 3: jimprofit (1.98€)
+Seat 4: Bordulac (0.29€)
+Seat 5: Taiby (3.53€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+-Tybetem- posts small blind 0.01€
+jimprofit posts big blind 0.02€
+Dealt to sabre_laser [2s 5c 7d 8c 3h]
+*** PRE-FLOP *** 
+Bordulac folds
+Taiby calls 0.02€
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- calls 0.01€
+jimprofit checks
+*** FLOP *** [Tc 8d 3d]
+-Tybetem- bets 0.04€
+jimprofit folds
+Taiby calls 0.04€
+gwen.i calls 0.04€
+*** TURN *** [Tc 8d 3d][8s]
+-Tybetem- bets 0.06€
+Taiby calls 0.06€
+gwen.i calls 0.06€
+*** RIVER *** [Tc 8d 3d 8s][Ac]
+-Tybetem- checks
+Taiby checks
+gwen.i checks
+*** SHOW DOWN ***
+-Tybetem- shows [2d Td 9s Qh Js] (Two pairs : Tens and 8)
+gwen.i shows [Jc Jd Qc Kh 4s] (Two pairs : Jacks and 8)
+Taiby shows [Kd Qs 9h Th Ks] (Two pairs : Kings and 8)
+Taiby collected 0.36€ from pot
+*** SUMMARY ***
+Total pot 0.36€ | Rake 0.02€
+Board: [Tc 8d 3d 8s Ac]
+Seat 2: -Tybetem- (small blind) showed [2d Td 9s Qh Js] and lost with Two pairs : Tens and 8
+Seat 5: Taiby showed [Kd Qs 9h Th Ks] and won 0.36€ with Two pairs : Kings and 8
+Seat 6: gwen.i showed [Jc Jd Qc Kh 4s] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - CashGame - HandId: #10911014-75-1520183488 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:11:28 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1.28€)
+Seat 2: -Tybetem- (1.56€)
+Seat 3: jimprofit (1.96€)
+Seat 4: Bordulac (0.29€)
+Seat 5: Taiby (3.77€)
+Seat 6: gwen.i (2€)
+*** ANTE/BLINDS ***
+jimprofit posts small blind 0.01€
+Bordulac posts big blind 0.02€
+Dealt to sabre_laser [7c Jd Ts 9h Ac]
+*** PRE-FLOP *** 
+Taiby folds
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- calls 0.02€
+jimprofit calls 0.01€
+Bordulac checks
+*** FLOP *** [7s Jh Th]
+jimprofit checks
+Bordulac checks
+gwen.i checks
+-Tybetem- checks
+*** TURN *** [7s Jh Th][2d]
+jimprofit checks
+Bordulac checks
+gwen.i checks
+-Tybetem- checks
+*** RIVER *** [7s Jh Th 2d][6h]
+jimprofit bets 0.06€
+Bordulac calls 0.06€
+gwen.i raises 0.26€ to 0.32€
+-Tybetem- folds
+jimprofit folds
+Bordulac folds
+gwen.i collected 0.50€ from pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.02€
+Board: [7s Jh Th 2d 6h]
+Seat 6: gwen.i won 0.50€
+
+
+Winamax Poker - CashGame - HandId: #10911014-76-1520183573 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:12:53 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1.28€)
+Seat 2: -Tybetem- (1.54€)
+Seat 3: jimprofit (1.88€)
+Seat 4: Bordulac (0.21€)
+Seat 5: Taiby (3.77€)
+Seat 6: gwen.i (2.16€)
+*** ANTE/BLINDS ***
+Bordulac posts small blind 0.01€
+Taiby posts big blind 0.02€
+Dealt to sabre_laser [9h Th 2h Ks 8c]
+*** PRE-FLOP *** 
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- folds
+jimprofit folds
+Bordulac calls 0.01€
+Taiby checks
+*** FLOP *** [8s 4s 3s]
+Bordulac checks
+Taiby checks
+gwen.i bets 0.06€
+Bordulac calls 0.06€
+Taiby calls 0.06€
+*** TURN *** [8s 4s 3s][6c]
+Bordulac checks
+Taiby checks
+gwen.i checks
+*** RIVER *** [8s 4s 3s 6c][Qd]
+Bordulac checks
+Taiby checks
+gwen.i checks
+*** SHOW DOWN ***
+Bordulac shows [6s 2s Kc Ah Qh] (Flush 8 high)
+Taiby shows [Qs 3c Qc 2d 8d] (Trips of Queens)
+gwen.i shows [5d 5h Js 9s Ac] (Flush Jack high)
+gwen.i collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.02€
+Board: [8s 4s 3s 6c Qd]
+Seat 4: Bordulac (small blind) showed [6s 2s Kc Ah Qh] and lost with Flush 8 high
+Seat 5: Taiby (big blind) showed [Qs 3c Qc 2d 8d] and lost with Trips of Queens
+Seat 6: gwen.i showed [5d 5h Js 9s Ac] and won 0.22€ with Flush Jack high
+
+
+Winamax Poker - CashGame - HandId: #10911014-77-1520183633 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:13:53 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1.28€)
+Seat 2: -Tybetem- (1.54€)
+Seat 3: jimprofit (1.88€)
+Seat 4: Bordulac (0.13€)
+Seat 5: Taiby (3.69€)
+Seat 6: gwen.i (2.30€)
+*** ANTE/BLINDS ***
+Taiby posts small blind 0.01€
+gwen.i posts big blind 0.02€
+Dealt to sabre_laser [Ks 4c Kh 3s 8h]
+*** PRE-FLOP *** 
+sabre_laser calls 0.02€
+-Tybetem- folds
+jimprofit folds
+Bordulac calls 0.02€
+Taiby calls 0.01€
+gwen.i checks
+*** FLOP *** [As 5s 9c]
+Taiby checks
+gwen.i checks
+sabre_laser checks
+Bordulac checks
+*** TURN *** [As 5s 9c][9h]
+Taiby checks
+gwen.i checks
+sabre_laser bets 0.03€
+Bordulac calls 0.03€
+Taiby folds
+gwen.i folds
+*** RIVER *** [As 5s 9c 9h][Ah]
+sabre_laser checks
+Bordulac checks
+*** SHOW DOWN ***
+sabre_laser shows [Ks 4c Kh 3s 8h] (Two pairs : Aces and Kings)
+Bordulac shows [4s 9d 9s 7d 8d] (Quads of 9)
+Bordulac collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [As 5s 9c 9h Ah]
+Seat 1: sabre_laser showed [Ks 4c Kh 3s 8h] and lost with Two pairs : Aces and Kings
+Seat 4: Bordulac (button) showed [4s 9d 9s 7d 8d] and won 0.13€ with Quads of 9
+
+
+Winamax Poker - CashGame - HandId: #10911014-78-1520183715 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:15:15 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1.23€)
+Seat 2: -Tybetem- (1.54€)
+Seat 3: jimprofit (1.88€)
+Seat 4: Bordulac (0.21€)
+Seat 5: Taiby (3.67€)
+Seat 6: gwen.i (2.28€)
+*** ANTE/BLINDS ***
+gwen.i posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Jh 4h 6s Th Kd]
+*** PRE-FLOP *** 
+-Tybetem- folds
+jimprofit folds
+Bordulac folds
+Taiby folds
+gwen.i calls 0.01€
+sabre_laser checks
+*** FLOP *** [6h 3d 5s]
+gwen.i bets 0.04€
+sabre_laser calls 0.04€
+*** TURN *** [6h 3d 5s][Tc]
+gwen.i bets 0.12€
+sabre_laser calls 0.12€
+*** RIVER *** [6h 3d 5s Tc][5c]
+gwen.i checks
+sabre_laser bets 0.18€
+gwen.i calls 0.18€
+*** SHOW DOWN ***
+sabre_laser shows [Jh 4h 6s Th Kd] (Two pairs : Tens and 6)
+gwen.i shows [4c 7d 7h Ad 2s] (Straight 7 high)
+gwen.i collected 0.67€ from pot
+*** SUMMARY ***
+Total pot 0.67€ | Rake 0.05€
+Board: [6h 3d 5s Tc 5c]
+Seat 1: sabre_laser (big blind) showed [Jh 4h 6s Th Kd] and lost with Two pairs : Tens and 6
+Seat 6: gwen.i (small blind) showed [4c 7d 7h Ad 2s] and won 0.67€ with Straight 7 high
+
+
+Winamax Poker - CashGame - HandId: #10911014-79-1520183759 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:15:59 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (0.87€)
+Seat 2: -Tybetem- (1.54€)
+Seat 3: jimprofit (1.88€)
+Seat 5: Taiby (3.67€)
+Seat 6: gwen.i (2.59€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+-Tybetem- posts big blind 0.02€
+Dealt to sabre_laser [Js Ad 4h Qh 2s]
+*** PRE-FLOP *** 
+jimprofit folds
+Taiby folds
+gwen.i calls 0.02€
+sabre_laser calls 0.01€
+-Tybetem- checks
+*** FLOP *** [Ah Kh Qd]
+sabre_laser bets 0.06€
+-Tybetem- raises 0.18€ to 0.24€
+gwen.i folds
+sabre_laser raises 0.54€ to 0.78€
+-Tybetem- raises 0.54€ to 1.32€
+sabre_laser calls 0.07€ and is all-in
+*** TURN *** [Ah Kh Qd][4d]
+*** RIVER *** [Ah Kh Qd 4d][5h]
+*** SHOW DOWN ***
+sabre_laser shows [Js Ad 4h Qh 2s] (Flush Ace high)
+-Tybetem- shows [9d 4s Td 9c Jh] (Straight Ace high)
+-Tybetem- collected 0.47€ from side pot 1
+sabre_laser collected 1.65€ from main pot
+*** SUMMARY ***
+Total pot 2.12€ | Rake 0.11€
+Board: [Ah Kh Qd 4d 5h]
+Seat 1: sabre_laser (small blind) showed [Js Ad 4h Qh 2s] and won 1.65€ with Flush Ace high
+Seat 2: -Tybetem- (big blind) showed [9d 4s Td 9c Jh] and won 0.47€ with Straight Ace high
+
+
+Winamax Poker - CashGame - HandId: #10911014-80-1520183815 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:16:55 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1.65€)
+Seat 2: -Tybetem- (0.67€)
+Seat 3: jimprofit (1.88€)
+Seat 4: jinflige (2€)
+Seat 5: Taiby (3.67€)
+Seat 6: gwen.i (2.57€)
+*** ANTE/BLINDS ***
+-Tybetem- posts small blind 0.01€
+jimprofit posts big blind 0.02€
+Dealt to sabre_laser [2h Jh 9h 4c 6h]
+*** PRE-FLOP *** 
+Taiby calls 0.02€
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- calls 0.01€
+jimprofit checks
+*** FLOP *** [2d Qs 6d]
+-Tybetem- bets 0.08€
+jimprofit folds
+Taiby calls 0.08€
+gwen.i folds
+*** TURN *** [2d Qs 6d][Js]
+-Tybetem- bets 0.24€
+Taiby calls 0.24€
+*** RIVER *** [2d Qs 6d Js][4h]
+-Tybetem- bets 0.33€ and is all-in
+Taiby calls 0.33€
+*** SHOW DOWN ***
+Taiby shows [3s 3c Kh 6c 6s] (Trips of 6)
+-Tybetem- shows [8d 4d Qh Qd 2s] (Trips of Queens)
+-Tybetem- collected 1.29€ from pot
+*** SUMMARY ***
+Total pot 1.29€ | Rake 0.09€
+Board: [2d Qs 6d Js 4h]
+Seat 2: -Tybetem- (small blind) showed [8d 4d Qh Qd 2s] and won 1.29€ with Trips of Queens
+Seat 5: Taiby showed [3s 3c Kh 6c 6s] and lost with Trips of 6
+
+
+Winamax Poker - CashGame - HandId: #10911014-81-1520183915 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:18:35 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1.65€)
+Seat 2: -Tybetem- (1.29€)
+Seat 3: jimprofit (1.86€)
+Seat 4: jinflige (2€)
+Seat 5: Taiby (3€)
+Seat 6: gwen.i (2.55€)
+*** ANTE/BLINDS ***
+jimprofit posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [Td 8c Tc 7h 4s]
+*** PRE-FLOP *** 
+Taiby calls 0.02€
+gwen.i calls 0.02€
+sabre_laser folds
+-Tybetem- raises 0.09€ to 0.11€
+jimprofit folds
+jinflige calls 0.09€
+Taiby folds
+gwen.i calls 0.09€
+*** FLOP *** [3s 6c Jc]
+jinflige checks
+gwen.i checks
+-Tybetem- bets 0.36€
+jinflige folds
+gwen.i raises 1.08€ to 1.44€
+-Tybetem- calls 0.82€ and is all-in
+*** TURN *** [3s 6c Jc][Ah]
+*** RIVER *** [3s 6c Jc Ah][3c]
+*** SHOW DOWN ***
+-Tybetem- shows [5h Qs Jd 4d 9d] (Two pairs : Jacks and 3)
+gwen.i shows [9c Js Ts 6h Qc] (Flush Queen high)
+gwen.i collected 2.80€ from pot
+*** SUMMARY ***
+Total pot 2.80€ | Rake 0.18€
+Board: [3s 6c Jc Ah 3c]
+Seat 2: -Tybetem- (button) showed [5h Qs Jd 4d 9d] and lost with Two pairs : Jacks and 3
+Seat 6: gwen.i showed [9c Js Ts 6h Qc] and won 2.80€ with Flush Queen high
+
+
+Winamax Poker - CashGame - HandId: #10911014-82-1520183984 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:19:44 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1.65€)
+Seat 2: -Tybetem- (0€)
+Seat 3: jimprofit (1.85€)
+Seat 4: jinflige (1.89€)
+Seat 6: gwen.i (3.80€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+gwen.i posts big blind 0.02€
+Dealt to sabre_laser [Qc 5d 7h Qh 7c]
+*** PRE-FLOP *** 
+sabre_laser calls 0.02€
+jimprofit folds
+jinflige calls 0.01€
+gwen.i raises 0.06€ to 0.08€
+sabre_laser folds
+jinflige calls 0.06€
+*** FLOP *** [Qd 5c 6s]
+jinflige checks
+gwen.i checks
+*** TURN *** [Qd 5c 6s][Js]
+jinflige bets 0.12€
+gwen.i folds
+jinflige collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [Qd 5c 6s Js]
+Seat 4: jinflige (small blind) won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #10911014-83-1520184026 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:20:26 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1.63€)
+Seat 3: jimprofit (1.85€)
+Seat 4: jinflige (1.98€)
+Seat 6: gwen.i (3.72€)
+*** ANTE/BLINDS ***
+gwen.i posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Js 7d 2d 5c 8c]
+*** PRE-FLOP *** 
+jimprofit calls 0.02€
+jinflige folds
+gwen.i calls 0.01€
+sabre_laser checks
+*** FLOP *** [Ad 9h Qh]
+gwen.i bets 0.05€
+sabre_laser folds
+jimprofit calls 0.05€
+*** TURN *** [Ad 9h Qh][Ac]
+gwen.i bets 0.16€
+jimprofit calls 0.16€
+*** RIVER *** [Ad 9h Qh Ac][Ts]
+gwen.i checks
+jimprofit bets 0.24€
+gwen.i calls 0.24€
+*** SHOW DOWN ***
+gwen.i shows [3h 6c Ah 5s 9c] (Full of Aces and 9)
+jimprofit shows [Td 7s 4h 9d As] (Full of Aces and Tens)
+jimprofit collected 0.90€ from pot
+*** SUMMARY ***
+Total pot 0.90€ | Rake 0.06€
+Board: [Ad 9h Qh Ac Ts]
+Seat 3: jimprofit showed [Td 7s 4h 9d As] and won 0.90€ with Full of Aces and Tens
+Seat 6: gwen.i (small blind) showed [3h 6c Ah 5s 9c] and lost with Full of Aces and 9
+
+
+Winamax Poker - CashGame - HandId: #10911014-84-1520184139 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:22:19 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1.61€)
+Seat 3: jimprofit (2.28€)
+Seat 4: jinflige (1.98€)
+Seat 6: gwen.i (3.25€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+jimprofit posts big blind 0.02€
+Dealt to sabre_laser [3s 3h Tc 2s 5s]
+*** PRE-FLOP *** 
+gwen.i calls 0.02€
+sabre_laser calls 0.01€
+jimprofit checks
+*** FLOP *** [2c 3d 6s]
+sabre_laser bets 0.02€
+jimprofit folds
+gwen.i calls 0.02€
+*** TURN *** [2c 3d 6s][Ts]
+sabre_laser bets 0.10€
+gwen.i calls 0.10€
+*** RIVER *** [2c 3d 6s Ts][Jh]
+sabre_laser bets 0.07€
+gwen.i folds
+sabre_laser collected 0.35€ from pot
+*** SUMMARY ***
+Total pot 0.35€ | Rake 0.02€
+Board: [2c 3d 6s Ts Jh]
+Seat 1: sabre_laser (small blind) won 0.35€
+
+
+Winamax Poker - CashGame - HandId: #10911014-85-1520184184 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:23:04 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1.75€)
+Seat 2: Natchou55 (2€)
+Seat 3: jimprofit (2.26€)
+Seat 4: jinflige (1.98€)
+Seat 6: gwen.i (3.11€)
+*** ANTE/BLINDS ***
+jimprofit posts small blind 0.01€
+gwen.i posts big blind 0.02€
+Dealt to sabre_laser [7c Ad Ac Kc Qs]
+*** PRE-FLOP *** 
+sabre_laser calls 0.02€
+jimprofit calls 0.01€
+gwen.i checks
+*** FLOP *** [8s As 9c]
+jimprofit checks
+gwen.i checks
+sabre_laser checks
+*** TURN *** [8s As 9c][2c]
+jimprofit checks
+gwen.i checks
+sabre_laser bets 0.06€
+jimprofit folds
+gwen.i folds
+sabre_laser collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [8s As 9c 2c]
+Seat 1: sabre_laser (button) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #10911014-86-1520184261 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:24:21 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1.79€)
+Seat 2: Natchou55 (2€)
+Seat 3: jimprofit (2.24€)
+Seat 4: jinflige (1.98€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.09€)
+*** ANTE/BLINDS ***
+gwen.i posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Natchou55 posts big blind 0.02€ out of position
+Dealt to sabre_laser [Ac Jc Kc 5d 2h]
+*** PRE-FLOP *** 
+Natchou55 checks
+jimprofit folds
+gwen.i calls 0.01€
+sabre_laser checks
+*** FLOP *** [8c 2c 6d]
+gwen.i checks
+sabre_laser checks
+Natchou55 checks
+*** TURN *** [8c 2c 6d][Qs]
+gwen.i checks
+sabre_laser checks
+Natchou55 checks
+*** RIVER *** [8c 2c 6d Qs][Tc]
+gwen.i checks
+sabre_laser bets 0.04€
+Natchou55 folds
+gwen.i folds
+sabre_laser collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [8c 2c 6d Qs Tc]
+Seat 1: sabre_laser (big blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #10911014-87-1520184311 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:25:11 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1.83€)
+Seat 2: Natchou55 (1.98€)
+Seat 3: jimprofit (2.24€)
+Seat 4: jinflige (1.98€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.07€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Natchou55 posts big blind 0.02€
+Dealt to sabre_laser [2d 8s 7d Th 5d]
+*** PRE-FLOP *** 
+jimprofit folds
+gwen.i folds
+sabre_laser calls 0.01€
+Natchou55 checks
+*** FLOP *** [4s Qs 9s]
+sabre_laser checks
+Natchou55 bets 0.02€
+sabre_laser folds
+Natchou55 collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [4s Qs 9s]
+Seat 2: Natchou55 (big blind) won 0.06€
+
+
+Winamax Poker - CashGame - HandId: #10911014-88-1520184341 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:25:41 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1.81€)
+Seat 2: Natchou55 (2€)
+Seat 4: jinflige (1.98€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.07€)
+*** ANTE/BLINDS ***
+Natchou55 posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [Qh 9c 3h 5d As]
+*** PRE-FLOP *** 
+gwen.i calls 0.02€
+sabre_laser folds
+Natchou55 calls 0.01€
+jinflige checks
+*** FLOP *** [Jc 7s Kd]
+Natchou55 checks
+jinflige checks
+gwen.i checks
+*** TURN *** [Jc 7s Kd][2d]
+Natchou55 bets 0.02€
+jinflige folds
+gwen.i folds
+Natchou55 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [Jc 7s Kd 2d]
+Seat 2: Natchou55 (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #10911014-89-1520184385 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:26:25 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1.81€)
+Seat 2: Natchou55 (2.04€)
+Seat 3: lilia4444 (2€)
+Seat 4: jinflige (1.96€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.05€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+davyox posts big blind 0.02€
+Dealt to sabre_laser [Ah Kh 7d Kd Td]
+*** PRE-FLOP *** 
+gwen.i calls 0.02€
+sabre_laser raises 0.02€ to 0.04€
+Natchou55 calls 0.04€
+jinflige calls 0.03€
+davyox calls 0.02€
+gwen.i calls 0.02€
+*** FLOP *** [Tc 2h Ks]
+jinflige checks
+davyox checks
+gwen.i checks
+sabre_laser bets 0.03€
+Natchou55 folds
+jinflige calls 0.03€
+davyox calls 0.03€
+gwen.i folds
+*** TURN *** [Tc 2h Ks][6h]
+jinflige checks
+davyox bets 0.29€
+sabre_laser raises 0.29€ to 0.58€
+jinflige folds
+davyox folds
+sabre_laser collected 1.10€ from pot
+*** SUMMARY ***
+Total pot 1.10€ | Rake 0.06€
+Board: [Tc 2h Ks 6h]
+Seat 1: sabre_laser won 1.10€
+
+
+Winamax Poker - CashGame - HandId: #10911014-90-1520184489 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:28:09 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2.26€)
+Seat 2: Natchou55 (2€)
+Seat 3: lilia4444 (2€)
+Seat 4: jinflige (1.89€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.01€)
+*** ANTE/BLINDS ***
+davyox posts small blind 0.01€
+gwen.i posts big blind 0.02€
+lilia4444 posts big blind 0.02€ out of position
+Dealt to sabre_laser [6d 6c 4d 9c Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Natchou55 calls 0.02€
+lilia4444 checks
+jinflige calls 0.02€
+davyox folds
+gwen.i checks
+*** FLOP *** [2s Qh 3h]
+gwen.i checks
+Natchou55 checks
+lilia4444 checks
+jinflige checks
+*** TURN *** [2s Qh 3h][Qc]
+gwen.i checks
+Natchou55 checks
+lilia4444 checks
+jinflige checks
+*** RIVER *** [2s Qh 3h Qc][Kc]
+gwen.i checks
+Natchou55 checks
+lilia4444 bets 0.09€
+jinflige folds
+gwen.i folds
+Natchou55 folds
+lilia4444 collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [2s Qh 3h Qc Kc]
+Seat 3: lilia4444 won 0.17€
+
+
+Winamax Poker - CashGame - HandId: #10911014-91-1520184557 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:29:17 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (2.26€)
+Seat 2: Natchou55 (1.98€)
+Seat 3: lilia4444 (2.06€)
+Seat 4: jinflige (1.87€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (2.99€)
+*** ANTE/BLINDS ***
+gwen.i posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [4h Ks 2c 7s Js]
+*** PRE-FLOP *** 
+lilia4444 calls 0.02€
+jinflige folds
+davyox calls 0.02€
+gwen.i calls 0.01€
+sabre_laser checks
+*** FLOP *** [9h Qc Ac]
+gwen.i bets 0.06€
+sabre_laser folds
+lilia4444 calls 0.06€
+davyox folds
+*** TURN *** [9h Qc Ac][7d]
+gwen.i bets 0.13€
+lilia4444 calls 0.13€
+*** RIVER *** [9h Qc Ac 7d][As]
+gwen.i checks
+lilia4444 checks
+*** SHOW DOWN ***
+lilia4444 shows [5h Jh 2s Th 9s] (Two pairs : Aces and 9)
+gwen.i shows [Jd Kc 5c 9c 6c] (Two pairs : Aces and 9)
+gwen.i collected 0.43€ from pot
+*** SUMMARY ***
+Total pot 0.43€ | Rake 0.03€
+Board: [9h Qc Ac 7d As]
+Seat 3: lilia4444 showed [5h Jh 2s Th 9s] and lost with Two pairs : Aces and 9
+Seat 6: gwen.i (small blind) showed [Jd Kc 5c 9c 6c] and won 0.43€ with Two pairs : Aces and 9
+
+
+Winamax Poker - CashGame - HandId: #10911014-92-1520184603 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:30:03 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2.24€)
+Seat 2: Eponyme9 (2€)
+Seat 3: lilia4444 (1.85€)
+Seat 4: jinflige (1.87€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.21€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Eponyme9 posts big blind 0.02€
+Dealt to sabre_laser [3c 6c 4h Kd 3h]
+*** PRE-FLOP *** 
+lilia4444 calls 0.02€
+jinflige folds
+davyox folds
+gwen.i calls 0.02€
+sabre_laser folds
+Eponyme9 checks
+*** FLOP *** [5s 2d Qh]
+Eponyme9 checks
+lilia4444 bets 0.07€
+gwen.i folds
+Eponyme9 calls 0.07€
+*** TURN *** [5s 2d Qh][7d]
+Eponyme9 checks
+lilia4444 bets 0.21€
+Eponyme9 folds
+lilia4444 collected 0.41€ from pot
+*** SUMMARY ***
+Total pot 0.41€ | Rake 0.01€
+Board: [5s 2d Qh 7d]
+Seat 3: lilia4444 won 0.41€
+
+
+Winamax Poker - CashGame - HandId: #10911014-93-1520184654 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:30:54 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2.23€)
+Seat 2: Eponyme9 (1.91€)
+Seat 3: lilia4444 (1.96€)
+Seat 4: jinflige (1.87€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.19€)
+*** ANTE/BLINDS ***
+Eponyme9 posts small blind 0.01€
+lilia4444 posts big blind 0.02€
+Dealt to sabre_laser [2c 3s Th 6d 4d]
+*** PRE-FLOP *** 
+jinflige calls 0.02€
+davyox folds
+gwen.i calls 0.02€
+sabre_laser folds
+Eponyme9 calls 0.01€
+lilia4444 checks
+*** FLOP *** [7d 2s 7s]
+Eponyme9 checks
+lilia4444 checks
+jinflige bets 0.04€
+gwen.i folds
+Eponyme9 calls 0.04€
+lilia4444 folds
+*** TURN *** [7d 2s 7s][Ks]
+Eponyme9 checks
+jinflige checks
+*** RIVER *** [7d 2s 7s Ks][3c]
+Eponyme9 checks
+jinflige bets 0.05€
+Eponyme9 calls 0.05€
+*** SHOW DOWN ***
+Eponyme9 shows [3h 8h 9d 5c 8c] (Two pairs : 8 and 7)
+jinflige shows [Ah Qs 6s Qd Qh] (Flush King high)
+jinflige collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.02€
+Board: [7d 2s 7s Ks 3c]
+Seat 2: Eponyme9 (small blind) showed [3h 8h 9d 5c 8c] and lost with Two pairs : 8 and 7
+Seat 4: jinflige showed [Ah Qs 6s Qd Qh] and won 0.24€ with Flush King high
+
+
+Winamax Poker - CashGame - HandId: #10911014-94-1520184720 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:32:00 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2.23€)
+Seat 2: Eponyme9 (1.80€)
+Seat 3: lilia4444 (1.94€)
+Seat 4: jinflige (2€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (3.17€)
+*** ANTE/BLINDS ***
+lilia4444 posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [8h 4c 2s 9c Qh]
+*** PRE-FLOP *** 
+davyox folds
+gwen.i raises 0.05€ to 0.07€
+sabre_laser folds
+Eponyme9 folds
+lilia4444 calls 0.06€
+jinflige calls 0.05€
+*** FLOP *** [Th Ts 8c]
+lilia4444 checks
+jinflige checks
+gwen.i bets 0.16€
+lilia4444 calls 0.16€
+jinflige folds
+*** TURN *** [Th Ts 8c][Jc]
+lilia4444 bets 0.53€
+gwen.i folds
+lilia4444 collected 1.03€ from pot
+*** SUMMARY ***
+Total pot 1.03€ | Rake 0.03€
+Board: [Th Ts 8c Jc]
+Seat 3: lilia4444 (small blind) won 1.03€
+
+
+Winamax Poker - CashGame - HandId: #10911014-95-1520184753 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:32:33 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2.23€)
+Seat 2: Eponyme9 (1.80€)
+Seat 3: lilia4444 (2.21€)
+Seat 4: jinflige (1.93€)
+Seat 5: davyox (2€)
+Seat 6: gwen.i (2.94€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+davyox posts big blind 0.02€
+Dealt to sabre_laser [Kh 6d Ks 7d Ah]
+*** PRE-FLOP *** 
+gwen.i folds
+sabre_laser raises 0.03€ to 0.05€
+Eponyme9 calls 0.05€
+lilia4444 calls 0.05€
+jinflige folds
+davyox calls 0.03€
+*** FLOP *** [As Qc 3d]
+davyox bets 0.21€
+sabre_laser calls 0.21€
+Eponyme9 folds
+lilia4444 calls 0.21€
+*** TURN *** [As Qc 3d][Jc]
+davyox checks
+sabre_laser checks
+lilia4444 checks
+*** RIVER *** [As Qc 3d Jc][6s]
+davyox checks
+sabre_laser bets 0.04€
+lilia4444 calls 0.04€
+davyox calls 0.04€
+*** SHOW DOWN ***
+sabre_laser shows [Kh 6d Ks 7d Ah] (Two pairs : Aces and 6)
+lilia4444 shows [5d 3h Jh 4c Qd] (Two pairs : Queens and Jacks)
+davyox shows [Kc Ac 8s Ad Kd] (Trips of Aces)
+davyox collected 0.90€ from pot
+*** SUMMARY ***
+Total pot 0.90€ | Rake 0.06€
+Board: [As Qc 3d Jc 6s]
+Seat 1: sabre_laser showed [Kh 6d Ks 7d Ah] and lost with Two pairs : Aces and 6
+Seat 3: lilia4444 (button) showed [5d 3h Jh 4c Qd] and lost with Two pairs : Queens and Jacks
+Seat 5: davyox (big blind) showed [Kc Ac 8s Ad Kd] and won 0.90€ with Trips of Aces
+
+
+Winamax Poker - CashGame - HandId: #10911014-96-1520184838 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:33:58 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1.93€)
+Seat 2: Eponyme9 (1.75€)
+Seat 3: lilia4444 (1.91€)
+Seat 4: jinflige (1.92€)
+Seat 5: davyox (2.60€)
+*** ANTE/BLINDS ***
+davyox posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [2h 3h Tc 6c 2d]
+*** PRE-FLOP *** 
+Eponyme9 calls 0.02€
+lilia4444 calls 0.02€
+jinflige calls 0.02€
+davyox raises 0.04€ to 0.06€
+sabre_laser folds
+Eponyme9 calls 0.04€
+lilia4444 calls 0.04€
+jinflige calls 0.04€
+*** FLOP *** [5c Ks Th]
+davyox checks
+Eponyme9 checks
+lilia4444 bets 0.26€
+jinflige calls 0.26€
+davyox folds
+Eponyme9 folds
+*** TURN *** [5c Ks Th][2c]
+lilia4444 bets 0.78€
+jinflige folds
+lilia4444 collected 1.51€ from pot
+*** SUMMARY ***
+Total pot 1.51€ | Rake 0.05€
+Board: [5c Ks Th 2c]
+Seat 3: lilia4444 won 1.51€
+
+
+Winamax Poker - CashGame - HandId: #10911014-97-1520184937 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:35:37 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1.91€)
+Seat 2: Eponyme9 (1.69€)
+Seat 3: lilia4444 (2.32€)
+Seat 4: jinflige (1.60€)
+Seat 5: davyox (2.54€)
+Seat 6: LE BALOU (2€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Eponyme9 posts big blind 0.02€
+Dealt to sabre_laser [Qh Js 9c 4c Td]
+*** PRE-FLOP *** 
+lilia4444 calls 0.02€
+jinflige calls 0.02€
+davyox folds
+sabre_laser folds
+Eponyme9 checks
+*** FLOP *** [6s Kd 6h]
+Eponyme9 checks
+lilia4444 checks
+jinflige checks
+*** TURN *** [6s Kd 6h][8s]
+Eponyme9 bets 0.06€
+lilia4444 calls 0.06€
+jinflige folds
+*** RIVER *** [6s Kd 6h 8s][2s]
+Eponyme9 bets 0.19€
+lilia4444 folds
+Eponyme9 collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.01€
+Board: [6s Kd 6h 8s 2s]
+Seat 2: Eponyme9 (big blind) won 0.37€
+
+
+Winamax Poker - CashGame - HandId: #10911014-98-1520184990 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:36:30 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1.90€)
+Seat 2: Eponyme9 (1.79€)
+Seat 3: lilia4444 (2.24€)
+Seat 4: jinflige (1.58€)
+Seat 5: davyox (2.54€)
+Seat 6: LE BALOU (2€)
+*** ANTE/BLINDS ***
+Eponyme9 posts small blind 0.01€
+lilia4444 posts big blind 0.02€
+Dealt to sabre_laser [5h Ad 8h 5d Ks]
+*** PRE-FLOP *** 
+jinflige folds
+davyox folds
+sabre_laser raises 0.03€ to 0.05€
+Eponyme9 calls 0.04€
+lilia4444 calls 0.03€
+*** FLOP *** [5c 4c Th]
+Eponyme9 checks
+lilia4444 checks
+sabre_laser bets 0.04€
+Eponyme9 calls 0.04€
+lilia4444 calls 0.04€
+*** TURN *** [5c 4c Th][Qs]
+Eponyme9 checks
+lilia4444 bets 0.27€
+sabre_laser calls 0.27€
+Eponyme9 calls 0.27€
+*** RIVER *** [5c 4c Th Qs][Tc]
+Eponyme9 checks
+lilia4444 bets 1.08€
+sabre_laser raises 0.46€ to 1.54€ and is all-in
+Eponyme9 folds
+lilia4444 folds
+sabre_laser collected 3.49€ from pot
+*** SUMMARY ***
+Total pot 3.49€ | Rake 0.21€
+Board: [5c 4c Th Qs Tc]
+Seat 1: sabre_laser (button) won 3.49€
+
+
+Winamax Poker - CashGame - HandId: #10911014-99-1520185079 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:37:59 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (3.49€)
+Seat 2: Eponyme9 (1.43€)
+Seat 3: lilia4444 (0.80€)
+Seat 4: jinflige (1.58€)
+Seat 5: davyox (2.54€)
+Seat 6: LE BALOU (2€)
+*** ANTE/BLINDS ***
+lilia4444 posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [4h 3c Qh 5d 5h]
+*** PRE-FLOP *** 
+davyox folds
+sabre_laser folds
+Eponyme9 calls 0.02€
+lilia4444 calls 0.01€
+jinflige raises 0.06€ to 0.08€
+Eponyme9 calls 0.06€
+lilia4444 calls 0.06€
+*** FLOP *** [5s Qs Jc]
+lilia4444 bets 0.24€
+jinflige raises 0.24€ to 0.48€
+Eponyme9 folds
+lilia4444 raises 0.24€ to 0.72€ and is all-in
+jinflige calls 0.24€
+*** TURN *** [5s Qs Jc][2d]
+*** RIVER *** [5s Qs Jc 2d][9c]
+*** SHOW DOWN ***
+lilia4444 shows [4c 7s Kh 9s Ks] (One pair : Kings)
+jinflige shows [Js As Qc 6s Kd] (Two pairs : Queens and Jacks)
+jinflige collected 1.57€ from pot
+*** SUMMARY ***
+Total pot 1.57€ | Rake 0.11€
+Board: [5s Qs Jc 2d 9c]
+Seat 3: lilia4444 (small blind) showed [4c 7s Kh 9s Ks] and lost with One pair : Kings
+Seat 4: jinflige (big blind) showed [Js As Qc 6s Kd] and won 1.57€ with Two pairs : Queens and Jacks
+
+
+Winamax Poker - CashGame - HandId: #10911014-100-1520185140 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:39:00 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (3.49€)
+Seat 2: Eponyme9 (1.35€)
+Seat 3: lilia4444 (0€)
+Seat 4: jinflige (2.35€)
+Seat 5: davyox (2.54€)
+Seat 6: LE BALOU (2€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+davyox posts big blind 0.02€
+Dealt to sabre_laser [Qd 8h Th Kd As]
+*** PRE-FLOP *** 
+sabre_laser calls 0.02€
+Eponyme9 folds
+jinflige folds
+davyox checks
+*** FLOP *** [2h 3d 7s]
+davyox checks
+sabre_laser checks
+*** TURN *** [2h 3d 7s][7c]
+davyox bets 0.05€
+sabre_laser folds
+davyox collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [2h 3d 7s 7c]
+Seat 5: davyox (big blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #10911014-101-1520185209 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:40:09 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3.47€)
+Seat 2: Eponyme9 (1.35€)
+Seat 3: Hiprocroate (0.50€)
+Seat 4: jinflige (2.34€)
+Seat 5: davyox (2.57€)
+Seat 6: LE BALOU (2€)
+*** ANTE/BLINDS ***
+davyox posts small blind 0.01€
+LE BALOU posts big blind 0.02€
+Hiprocroate posts big blind 0.02€ out of position
+Dealt to sabre_laser [Qc 8s Kc 2s 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Eponyme9 folds
+Hiprocroate checks
+jinflige calls 0.02€
+davyox folds
+LE BALOU checks
+*** FLOP *** [Js Qd Jc]
+LE BALOU checks
+Hiprocroate checks
+jinflige checks
+*** TURN *** [Js Qd Jc][4d]
+LE BALOU bets 0.04€
+Hiprocroate folds
+jinflige folds
+LE BALOU collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | No rake
+Board: [Js Qd Jc 4d]
+Seat 6: LE BALOU (big blind) won 0.11€
+
+
+Winamax Poker - CashGame - HandId: #10911014-102-1520185253 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:40:53 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (3.47€)
+Seat 2: Eponyme9 (1.35€)
+Seat 3: Hiprocroate (0.48€)
+Seat 4: jinflige (2.32€)
+Seat 5: davyox (2.56€)
+Seat 6: LE BALOU (2.05€)
+*** ANTE/BLINDS ***
+LE BALOU posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Ac 3c 8s 5h Js]
+*** PRE-FLOP *** 
+Eponyme9 folds
+Hiprocroate folds
+jinflige raises 0.03€ to 0.05€
+davyox raises 0.03€ to 0.08€
+LE BALOU folds
+sabre_laser folds
+jinflige calls 0.03€
+*** FLOP *** [Ah Tc Kd]
+jinflige checks
+davyox bets 0.12€
+jinflige calls 0.12€
+*** TURN *** [Ah Tc Kd][7c]
+jinflige checks
+davyox checks
+*** RIVER *** [Ah Tc Kd 7c][2h]
+jinflige checks
+davyox checks
+*** SHOW DOWN ***
+jinflige shows [6d 3s Ad Ts 9s] (Two pairs : Aces and Tens)
+davyox shows [Ks 7s 7d Qc Kh] (Trips of Kings)
+davyox collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | Rake 0.03€
+Board: [Ah Tc Kd 7c 2h]
+Seat 4: jinflige showed [6d 3s Ad Ts 9s] and lost with Two pairs : Aces and Tens
+Seat 5: davyox (button) showed [Ks 7s 7d Qc Kh] and won 0.40€ with Trips of Kings
+
+
+Winamax Poker - CashGame - HandId: #10911014-103-1520185321 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:42:01 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (3.45€)
+Seat 2: Eponyme9 (1.35€)
+Seat 3: Hiprocroate (0.48€)
+Seat 4: jinflige (2.12€)
+Seat 5: davyox (2.76€)
+Seat 6: LE BALOU (2.04€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Eponyme9 posts big blind 0.02€
+Dealt to sabre_laser [Ad 7h Kd Td 4s]
+*** PRE-FLOP *** 
+Hiprocroate folds
+jinflige calls 0.02€
+davyox folds
+LE BALOU calls 0.02€
+sabre_laser calls 0.01€
+Eponyme9 checks
+*** FLOP *** [Ac 3s Th]
+sabre_laser bets 0.08€
+Eponyme9 calls 0.08€
+jinflige folds
+LE BALOU calls 0.08€
+*** TURN *** [Ac 3s Th][6s]
+sabre_laser checks
+Eponyme9 checks
+LE BALOU bets 0.21€
+sabre_laser calls 0.21€
+Eponyme9 folds
+*** RIVER *** [Ac 3s Th 6s][2c]
+sabre_laser checks
+LE BALOU checks
+*** SHOW DOWN ***
+sabre_laser shows [Ad 7h Kd Td 4s] (Two pairs : Aces and Tens)
+LE BALOU shows [Ts Kc 8s As 8d] (Two pairs : Aces and Tens)
+LE BALOU collected 0.35€ from pot
+sabre_laser collected 0.34€ from pot
+*** SUMMARY ***
+Total pot 0.69€ | Rake 0.05€
+Board: [Ac 3s Th 6s 2c]
+Seat 1: sabre_laser (small blind) showed [Ad 7h Kd Td 4s] and won 0.34€ with Two pairs : Aces and Tens
+Seat 6: LE BALOU (button) showed [Ts Kc 8s As 8d] and won 0.35€ with Two pairs : Aces and Tens
+
+
+Winamax Poker - CashGame - HandId: #10911014-104-1520185403 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:43:23 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3.48€)
+Seat 2: Eponyme9 (1.25€)
+Seat 3: Hiprocroate (0.48€)
+Seat 4: jinflige (2.10€)
+Seat 5: davyox (2.76€)
+Seat 6: LE BALOU (2.08€)
+*** ANTE/BLINDS ***
+Eponyme9 posts small blind 0.01€
+Hiprocroate posts big blind 0.02€
+Dealt to sabre_laser [7d Th 8s 6d Ac]
+*** PRE-FLOP *** 
+jinflige folds
+davyox raises 0.05€ to 0.07€
+LE BALOU calls 0.07€
+sabre_laser folds
+Eponyme9 folds
+Hiprocroate folds
+*** FLOP *** [5d 9d 2h]
+davyox checks
+LE BALOU bets 0.09€
+davyox folds
+LE BALOU collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | Rake 0.01€
+Board: [5d 9d 2h]
+Seat 6: LE BALOU won 0.25€
+
+
+Winamax Poker - CashGame - HandId: #10911014-105-1520185447 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:44:07 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (3.48€)
+Seat 2: Eponyme9 (1.24€)
+Seat 3: Hiprocroate (0.46€)
+Seat 4: jinflige (2.10€)
+Seat 5: davyox (2.69€)
+Seat 6: LE BALOU (2.17€)
+*** ANTE/BLINDS ***
+Hiprocroate posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [2h Qh Kh Qs 6d]
+*** PRE-FLOP *** 
+davyox folds
+LE BALOU calls 0.02€
+sabre_laser calls 0.02€
+Eponyme9 raises 0.04€ to 0.06€
+Hiprocroate folds
+jinflige calls 0.04€
+LE BALOU calls 0.04€
+sabre_laser calls 0.04€
+*** FLOP *** [4h 9h 8c]
+jinflige checks
+LE BALOU checks
+sabre_laser checks
+Eponyme9 bets 0.13€
+jinflige raises 0.51€ to 0.64€
+LE BALOU folds
+sabre_laser folds
+Eponyme9 calls 0.51€
+*** TURN *** [4h 9h 8c][8d]
+jinflige checks
+Eponyme9 checks
+*** RIVER *** [4h 9h 8c 8d][Td]
+jinflige bets 0.52€
+Eponyme9 calls 0.52€
+*** SHOW DOWN ***
+Eponyme9 shows [3h Th Qc Ad Ah] (Two pairs : Aces and 8)
+jinflige shows [4s 4c 9s Qd 9d] (Full of 9 and 8)
+jinflige collected 2.40€ from pot
+*** SUMMARY ***
+Total pot 2.40€ | Rake 0.17€
+Board: [4h 9h 8c 8d Td]
+Seat 2: Eponyme9 (button) showed [3h Th Qc Ad Ah] and lost with Two pairs : Aces and 8
+Seat 4: jinflige (big blind) showed [4s 4c 9s Qd 9d] and won 2.40€ with Full of 9 and 8
+
+
+Winamax Poker - CashGame - HandId: #10911014-106-1520185552 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:45:52 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (3.42€)
+Seat 2: Eponyme9 (0.02€)
+Seat 3: Hiprocroate (0.45€)
+Seat 4: jinflige (3.28€)
+Seat 5: davyox (2.69€)
+Seat 6: LE BALOU (2.11€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+davyox posts big blind 0.02€
+Dealt to sabre_laser [6c 5d 7d Qd 6h]
+*** PRE-FLOP *** 
+LE BALOU folds
+sabre_laser folds
+Eponyme9 folds
+Hiprocroate raises 0.04€ to 0.06€
+jinflige calls 0.05€
+davyox folds
+*** FLOP *** [2s 5s Kd]
+jinflige checks
+Hiprocroate checks
+*** TURN *** [2s 5s Kd][Qh]
+jinflige bets 0.08€
+Hiprocroate folds
+jinflige collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [2s 5s Kd Qh]
+Seat 4: jinflige (small blind) won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #10911014-107-1520185657 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:47:37 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3.42€)
+Seat 3: Hiprocroate (0.39€)
+Seat 4: jinflige (3.35€)
+Seat 5: davyox (2.67€)
+Seat 6: LE BALOU (2.11€)
+*** ANTE/BLINDS ***
+davyox posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Qs 3d 6c Kd Th]
+*** PRE-FLOP *** 
+Hiprocroate folds
+jinflige folds
+davyox folds
+sabre_laser collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: sabre_laser (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #10911014-108-1520185667 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:47:47 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (3.43€)
+Seat 3: Hiprocroate (0.39€)
+Seat 4: jinflige (3.35€)
+Seat 5: davyox (2.66€)
+Seat 6: LE BALOU (2.11€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Hiprocroate posts big blind 0.02€
+Dealt to sabre_laser [7c Td Kc 6c Jh]
+*** PRE-FLOP *** 
+jinflige folds
+davyox folds
+sabre_laser calls 0.01€
+Hiprocroate raises 0.04€ to 0.06€
+sabre_laser calls 0.04€
+*** FLOP *** [4h 7h 4s]
+sabre_laser checks
+Hiprocroate bets 0.10€
+sabre_laser calls 0.10€
+*** TURN *** [4h 7h 4s][Ad]
+sabre_laser checks
+Hiprocroate bets 0.23€ and is all-in
+sabre_laser folds
+Hiprocroate collected 0.53€ from pot
+*** SUMMARY ***
+Total pot 0.53€ | Rake 0.02€
+Board: [4h 7h 4s Ad]
+Seat 3: Hiprocroate (big blind) won 0.53€
+
+
+Winamax Poker - CashGame - HandId: #10911014-109-1520185736 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:48:56 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3.27€)
+Seat 3: Hiprocroate (0.53€)
+Seat 4: jinflige (3.35€)
+Seat 5: davyox (2.66€)
+Seat 6: LE BALOU (2.11€)
+*** ANTE/BLINDS ***
+Hiprocroate posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [4d 6s Th 2s 3c]
+*** PRE-FLOP *** 
+davyox folds
+sabre_laser folds
+Hiprocroate calls 0.01€
+jinflige raises 0.04€ to 0.06€
+Hiprocroate calls 0.04€
+*** FLOP *** [8h 8s 2h]
+Hiprocroate checks
+jinflige checks
+*** TURN *** [8h 8s 2h][7s]
+Hiprocroate checks
+jinflige bets 0.08€
+Hiprocroate folds
+jinflige collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [8h 8s 2h 7s]
+Seat 4: jinflige (big blind) won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #10911014-110-1520185769 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:49:29 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (3.27€)
+Seat 3: Hiprocroate (0.47€)
+Seat 4: jinflige (3.40€)
+Seat 5: davyox (2.66€)
+Seat 6: LE BALOU (2.11€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+davyox posts big blind 0.02€
+Dealt to sabre_laser [8s 7c 7s 8c As]
+*** PRE-FLOP *** 
+sabre_laser calls 0.02€
+Hiprocroate folds
+jinflige calls 0.01€
+davyox checks
+*** FLOP *** [6s 4s 2c]
+jinflige checks
+davyox checks
+sabre_laser checks
+*** TURN *** [6s 4s 2c][Tc]
+jinflige bets 0.06€
+davyox folds
+sabre_laser calls 0.06€
+*** RIVER *** [6s 4s 2c Tc][Ac]
+jinflige checks
+sabre_laser checks
+*** SHOW DOWN ***
+jinflige shows [5c Ad 8d 3s 4h] (Straight 6 high)
+sabre_laser shows [8s 7c 7s 8c As] (Flush Ace high)
+sabre_laser collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [6s 4s 2c Tc Ac]
+Seat 1: sabre_laser showed [8s 7c 7s 8c As] and won 0.17€ with Flush Ace high
+Seat 4: jinflige (small blind) showed [5c Ad 8d 3s 4h] and lost with Straight 6 high
+
+
+Winamax Poker - CashGame - HandId: #10911014-111-1520185854 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:50:54 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3.36€)
+Seat 4: jinflige (3.32€)
+Seat 5: davyox (2.64€)
+Seat 6: LE BALOU (2.11€)
+*** ANTE/BLINDS ***
+davyox posts small blind 0.01€
+LE BALOU posts big blind 0.02€
+Dealt to sabre_laser [8c 2h 3h Kc 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+jinflige folds
+davyox raises 0.03€ to 0.05€
+LE BALOU folds
+davyox collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 5: davyox (small blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #10911014-112-1520185905 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:51:45 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (3.36€)
+Seat 2: Ziggoo94 (1.40€)
+Seat 4: jinflige (3.32€)
+Seat 5: davyox (2.66€)
+Seat 6: LE BALOU (2.09€)
+*** ANTE/BLINDS ***
+sabre_laser posts big blind 0.02€
+Ziggoo94 posts big blind 0.02€ out of position
+Dealt to sabre_laser [Jd 6h 8c Js 9s]
+*** PRE-FLOP *** 
+Ziggoo94 checks
+jinflige folds
+davyox folds
+sabre_laser checks
+*** FLOP *** [4h Kc Jc]
+sabre_laser bets 0.04€
+Ziggoo94 calls 0.04€
+*** TURN *** [4h Kc Jc][9d]
+sabre_laser bets 0.12€
+Ziggoo94 raises 0.12€ to 0.24€
+sabre_laser calls 0.12€
+*** RIVER *** [4h Kc Jc 9d][Qc]
+sabre_laser bets 0.13€
+Ziggoo94 calls 0.13€
+*** SHOW DOWN ***
+Ziggoo94 shows [7s 4d 8h 4s 2h] (Trips of 4)
+sabre_laser shows [Jd 6h 8c Js 9s] (Trips of Jacks)
+sabre_laser collected 0.80€ from pot
+*** SUMMARY ***
+Total pot 0.80€ | Rake 0.06€
+Board: [4h Kc Jc 9d Qc]
+Seat 1: sabre_laser (big blind) showed [Jd 6h 8c Js 9s] and won 0.80€ with Trips of Jacks
+Seat 2: Ziggoo94 showed [7s 4d 8h 4s 2h] and lost with Trips of 4
+
+
+Winamax Poker - CashGame - HandId: #10911014-113-1520185981 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:53:01 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (3.73€)
+Seat 2: Ziggoo94 (0.97€)
+Seat 4: jinflige (3.32€)
+Seat 5: davyox (2.66€)
+Seat 6: LE BALOU (2.09€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Ziggoo94 posts big blind 0.02€
+Dealt to sabre_laser [4h As 4c 3c Jh]
+*** PRE-FLOP *** 
+jinflige calls 0.02€
+davyox folds
+sabre_laser calls 0.01€
+Ziggoo94 checks
+*** FLOP *** [4s 8c Qs]
+sabre_laser bets 0.06€
+Ziggoo94 raises 0.06€ to 0.12€
+jinflige folds
+sabre_laser calls 0.06€
+*** TURN *** [4s 8c Qs][Th]
+sabre_laser bets 0.30€
+Ziggoo94 calls 0.30€
+*** RIVER *** [4s 8c Qs Th][7d]
+sabre_laser checks
+Ziggoo94 checks
+*** SHOW DOWN ***
+Ziggoo94 shows [4d 7s Jd 8d Ks] (Two pairs : 8 and 7)
+sabre_laser shows [4h As 4c 3c Jh] (Trips of 4)
+sabre_laser collected 0.84€ from pot
+*** SUMMARY ***
+Total pot 0.84€ | Rake 0.06€
+Board: [4s 8c Qs Th 7d]
+Seat 1: sabre_laser (small blind) showed [4h As 4c 3c Jh] and won 0.84€ with Trips of 4
+Seat 2: Ziggoo94 (big blind) showed [4d 7s Jd 8d Ks] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - CashGame - HandId: #10911014-114-1520186065 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:54:25 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (4.13€)
+Seat 2: Ziggoo94 (0.53€)
+Seat 4: jinflige (3.30€)
+Seat 5: davyox (2.66€)
+Seat 6: LE BALOU (2.09€)
+*** ANTE/BLINDS ***
+Ziggoo94 posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [4s 3c Ah 3d 9c]
+*** PRE-FLOP *** 
+davyox raises 0.05€ to 0.07€
+sabre_laser folds
+Ziggoo94 calls 0.06€
+jinflige folds
+*** FLOP *** [7s Td 5d]
+Ziggoo94 bets 0.16€
+davyox folds
+Ziggoo94 collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | Rake 0.01€
+Board: [7s Td 5d]
+Seat 2: Ziggoo94 (small blind) won 0.31€
+
+
+Winamax Poker - CashGame - HandId: #10911014-115-1520186100 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:55:00 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (4.13€)
+Seat 2: Ziggoo94 (0.61€)
+Seat 4: jinflige (3.28€)
+Seat 5: davyox (2.59€)
+Seat 6: LE BALOU (2.09€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+davyox posts big blind 0.02€
+Dealt to sabre_laser [8h Jc 7c 4c 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Ziggoo94 raises 0.05€ to 0.07€
+jinflige folds
+davyox folds
+Ziggoo94 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 2: Ziggoo94 (button) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #10911014-116-1520186123 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:55:23 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (4.13€)
+Seat 2: Ziggoo94 (0.64€)
+Seat 4: jinflige (3.27€)
+Seat 5: davyox (2.57€)
+Seat 6: LE BALOU (2.09€)
+*** ANTE/BLINDS ***
+davyox posts small blind 0.01€
+LE BALOU posts big blind 0.02€
+Dealt to sabre_laser [9d 7s 3d Qh Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+Ziggoo94 calls 0.02€
+jinflige raises 0.07€ to 0.09€
+davyox folds
+LE BALOU folds
+Ziggoo94 calls 0.07€
+*** FLOP *** [2s Kd Ts]
+Ziggoo94 checks
+jinflige bets 0.21€
+Ziggoo94 folds
+jinflige collected 0.41€ from pot
+*** SUMMARY ***
+Total pot 0.41€ | Rake 0.01€
+Board: [2s Kd Ts]
+Seat 4: jinflige (button) won 0.41€
+
+
+Winamax Poker - CashGame - HandId: #10911014-117-1520186151 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:55:51 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (4.13€)
+Seat 2: Ziggoo94 (0.55€)
+Seat 4: jinflige (3.38€)
+Seat 5: davyox (2.56€)
+Seat 6: LE BALOU (2.07€)
+*** ANTE/BLINDS ***
+LE BALOU posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Td 6s 3d 7s 4c]
+*** PRE-FLOP *** 
+Ziggoo94 calls 0.02€
+jinflige raises 0.07€ to 0.09€
+davyox folds
+LE BALOU calls 0.08€
+sabre_laser folds
+Ziggoo94 calls 0.07€
+*** FLOP *** [9h Tc 8h]
+LE BALOU checks
+Ziggoo94 bets 0.29€
+jinflige calls 0.29€
+LE BALOU folds
+*** TURN *** [9h Tc 8h][Ac]
+Ziggoo94 bets 0.17€ and is all-in
+jinflige calls 0.17€
+*** RIVER *** [9h Tc 8h Ac][Ad]
+*** SHOW DOWN ***
+Ziggoo94 shows [Ts 2c 7d 5d 9s] (Two pairs : Aces and Tens)
+jinflige shows [Kh Ah Jd Kc 6d] (Trips of Aces)
+jinflige collected 1.13€ from pot
+*** SUMMARY ***
+Total pot 1.13€ | Rake 0.08€
+Board: [9h Tc 8h Ac Ad]
+Seat 2: Ziggoo94 showed [Ts 2c 7d 5d 9s] and lost with Two pairs : Aces and Tens
+Seat 4: jinflige showed [Kh Ah Jd Kc 6d] and won 1.13€ with Trips of Aces
+
+
+Winamax Poker - CashGame - HandId: #10911014-118-1520186208 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:56:48 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (4.11€)
+Seat 2: Ziggoo94 (2€)
+Seat 4: jinflige (3.96€)
+Seat 5: davyox (2.56€)
+Seat 6: LE BALOU (1.98€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Ziggoo94 posts big blind 0.02€
+Dealt to sabre_laser [9h Tc 3c Th Kc]
+*** PRE-FLOP *** 
+jinflige calls 0.02€
+davyox folds
+LE BALOU folds
+sabre_laser calls 0.01€
+Ziggoo94 checks
+*** FLOP *** [5h 5d 9s]
+sabre_laser checks
+Ziggoo94 bets 0.06€
+jinflige calls 0.06€
+sabre_laser folds
+*** TURN *** [5h 5d 9s][Jd]
+Ziggoo94 bets 0.18€
+jinflige calls 0.18€
+*** RIVER *** [5h 5d 9s Jd][8d]
+Ziggoo94 bets 0.27€
+jinflige calls 0.27€
+*** SHOW DOWN ***
+jinflige shows [7d 3d Kh 4d Kd] (Flush King high)
+Ziggoo94 shows [Ts 6c 5c Jc 3h] (Full of 5 and Jacks)
+Ziggoo94 collected 1.01€ from pot
+*** SUMMARY ***
+Total pot 1.01€ | Rake 0.07€
+Board: [5h 5d 9s Jd 8d]
+Seat 2: Ziggoo94 (big blind) showed [Ts 6c 5c Jc 3h] and won 1.01€ with Full of 5 and Jacks
+Seat 4: jinflige showed [7d 3d Kh 4d Kd] and lost with Flush King high
+
+
+Winamax Poker - CashGame - HandId: #10911014-119-1520186286 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:58:06 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (4.09€)
+Seat 2: Ziggoo94 (2.48€)
+Seat 4: jinflige (3.43€)
+Seat 5: davyox (2.56€)
+Seat 6: LE BALOU (1.98€)
+*** ANTE/BLINDS ***
+Ziggoo94 posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [Td 4d 3d 5c 9h]
+*** PRE-FLOP *** 
+davyox calls 0.02€
+LE BALOU folds
+sabre_laser folds
+Ziggoo94 raises 0.06€ to 0.08€
+jinflige calls 0.06€
+davyox calls 0.06€
+*** FLOP *** [5d 7d 7s]
+Ziggoo94 bets 0.12€
+jinflige folds
+davyox folds
+Ziggoo94 collected 0.34€ from pot
+*** SUMMARY ***
+Total pot 0.34€ | Rake 0.02€
+Board: [5d 7d 7s]
+Seat 2: Ziggoo94 (small blind) won 0.34€
+
+
+Winamax Poker - CashGame - HandId: #10911014-120-1520186322 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:58:42 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (4.09€)
+Seat 2: Ziggoo94 (2.62€)
+Seat 4: jinflige (3.35€)
+Seat 5: davyox (2.48€)
+Seat 6: LE BALOU (1.98€)
+*** ANTE/BLINDS ***
+jinflige posts small blind 0.01€
+davyox posts big blind 0.02€
+Dealt to sabre_laser [5h 7h As Tc 3d]
+*** PRE-FLOP *** 
+LE BALOU folds
+sabre_laser folds
+Ziggoo94 calls 0.02€
+jinflige folds
+davyox checks
+*** FLOP *** [5s Ah 6c]
+davyox checks
+Ziggoo94 checks
+*** TURN *** [5s Ah 6c][Qs]
+davyox checks
+Ziggoo94 checks
+*** RIVER *** [5s Ah 6c Qs][2d]
+davyox checks
+Ziggoo94 checks
+*** SHOW DOWN ***
+Ziggoo94 shows [Kh 4c 9s Td Qc] (One pair : Queens)
+davyox shows [Jh 7c Qh Kd Th] (One pair : Queens)
+davyox collected 0.03€ from pot
+Ziggoo94 collected 0.02€ from pot
+*** SUMMARY ***
+Total pot 0.05€ | No rake
+Board: [5s Ah 6c Qs 2d]
+Seat 2: Ziggoo94 (button) showed [Kh 4c 9s Td Qc] and won 0.02€ with One pair : Queens
+Seat 5: davyox (big blind) showed [Jh 7c Qh Kd Th] and won 0.03€ with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #10911014-121-1520186354 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:59:14 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (4.09€)
+Seat 2: Ziggoo94 (2.62€)
+Seat 4: jinflige (3.34€)
+Seat 5: davyox (2.49€)
+Seat 6: LE BALOU (1.98€)
+*** ANTE/BLINDS ***
+davyox posts small blind 0.01€
+LE BALOU posts big blind 0.02€
+Dealt to sabre_laser [8d Js Kd Qh 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Ziggoo94 calls 0.02€
+jinflige calls 0.02€
+davyox folds
+LE BALOU raises 0.07€ to 0.09€
+Ziggoo94 calls 0.07€
+jinflige calls 0.07€
+*** FLOP *** [Ad Qd Kh]
+LE BALOU bets 0.14€
+Ziggoo94 folds
+jinflige folds
+LE BALOU collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | Rake 0.02€
+Board: [Ad Qd Kh]
+Seat 6: LE BALOU (big blind) won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #10911014-122-1520186396 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 17:59:56 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (4.09€)
+Seat 2: Ziggoo94 (2.53€)
+Seat 4: jinflige (3.25€)
+Seat 5: davyox (2.48€)
+Seat 6: LE BALOU (2.15€)
+*** ANTE/BLINDS ***
+LE BALOU posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [Qh Td Ah 9s 9d]
+*** PRE-FLOP *** 
+Ziggoo94 raises 0.02€ to 0.04€
+jinflige folds
+davyox folds
+LE BALOU folds
+sabre_laser calls 0.02€
+*** FLOP *** [8h 7s Qs]
+sabre_laser checks
+Ziggoo94 bets 0.09€
+sabre_laser calls 0.09€
+*** TURN *** [8h 7s Qs][5c]
+sabre_laser checks
+Ziggoo94 bets 0.27€
+sabre_laser folds
+Ziggoo94 collected 0.52€ from pot
+*** SUMMARY ***
+Total pot 0.52€ | Rake 0.02€
+Board: [8h 7s Qs 5c]
+Seat 2: Ziggoo94 won 0.52€
+
+
+Winamax Poker - CashGame - HandId: #10911014-123-1520186448 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 18:00:48 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (3.96€)
+Seat 2: Ziggoo94 (2.65€)
+Seat 3: pseudorare (2€)
+Seat 4: jinflige (3.25€)
+Seat 5: davyox (2.48€)
+Seat 6: LE BALOU (2.14€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Ziggoo94 posts big blind 0.02€
+Dealt to sabre_laser [Ac Kd 8h 6s 7h]
+*** PRE-FLOP *** 
+jinflige folds
+davyox folds
+LE BALOU folds
+sabre_laser calls 0.01€
+Ziggoo94 raises 0.04€ to 0.06€
+sabre_laser calls 0.04€
+*** FLOP *** [Jh 9d 2d]
+sabre_laser checks
+Ziggoo94 bets 0.12€
+sabre_laser folds
+Ziggoo94 collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.01€
+Board: [Jh 9d 2d]
+Seat 2: Ziggoo94 (big blind) won 0.23€
+
+
+Winamax Poker - CashGame - HandId: #10911014-124-1520186487 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 18:01:27 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3.90€)
+Seat 2: Ziggoo94 (2.70€)
+Seat 3: pseudorare (2€)
+Seat 4: jinflige (3.25€)
+Seat 5: davyox (2.48€)
+Seat 6: LE BALOU (2.14€)
+*** ANTE/BLINDS ***
+Ziggoo94 posts small blind 0.01€
+pseudorare posts big blind 0.02€
+Dealt to sabre_laser [6s Tc 5d As 7h]
+*** PRE-FLOP *** 
+jinflige calls 0.02€
+davyox folds
+LE BALOU calls 0.02€
+sabre_laser folds
+Ziggoo94 calls 0.01€
+pseudorare checks
+*** FLOP *** [7d 6c Ah]
+Ziggoo94 checks
+pseudorare checks
+jinflige checks
+LE BALOU checks
+*** TURN *** [7d 6c Ah][3d]
+Ziggoo94 bets 0.08€
+pseudorare calls 0.08€
+jinflige calls 0.08€
+LE BALOU folds
+*** RIVER *** [7d 6c Ah 3d][Js]
+Ziggoo94 bets 0.10€
+pseudorare folds
+jinflige folds
+Ziggoo94 collected 0.40€ from pot
+*** SUMMARY ***
+Total pot 0.40€ | Rake 0.02€
+Board: [7d 6c Ah 3d Js]
+Seat 2: Ziggoo94 (small blind) won 0.40€
+
+
+Winamax Poker - CashGame - HandId: #10911014-125-1520186609 - 5 Card Omaha pot limit (0.01€/0.02€) - 2018/03/04 18:03:29 UTC
+Table: 'Ferrare 04' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (3.90€)
+Seat 2: Ziggoo94 (2.90€)
+Seat 3: pseudorare (2€)
+Seat 4: jinflige (3.15€)
+Seat 5: davyox (2.48€)
+Seat 6: LE BALOU (2.12€)
+*** ANTE/BLINDS ***
+pseudorare posts small blind 0.01€
+jinflige posts big blind 0.02€
+Dealt to sabre_laser [2s 9d Ad Jd Js]
+*** PRE-FLOP *** 
+davyox calls 0.02€
+LE BALOU calls 0.02€
+sabre_laser calls 0.02€
+Ziggoo94 calls 0.02€
+pseudorare calls 0.01€
+jinflige checks
+*** FLOP *** [5h 6d 3h]
+pseudorare checks
+jinflige checks
+davyox checks
+LE BALOU checks
+sabre_laser checks
+Ziggoo94 checks
+*** TURN *** [5h 6d 3h][7h]
+pseudorare checks
+jinflige bets 0.08€
+davyox folds
+LE BALOU folds
+sabre_laser folds
+Ziggoo94 calls 0.08€
+pseudorare calls 0.08€
+*** RIVER *** [5h 6d 3h 7h][5s]
+pseudorare bets 0.24€
+jinflige folds
+Ziggoo94 calls 0.24€
+*** SHOW DOWN ***
+Ziggoo94 shows [Qc 4d 4c Qd 4h] (Two pairs : Queens and 5)
+pseudorare shows [9s 8d 9h 6s 6c] (Full of 6 and 5)
+pseudorare collected 0.79€ from pot
+*** SUMMARY ***
+Total pot 0.79€ | Rake 0.05€
+Board: [5h 6d 3h 7h 5s]
+Seat 2: Ziggoo94 (button) showed [Qc 4d 4c Qd 4h] and lost with Two pairs : Queens and 5
+Seat 3: pseudorare (small blind) showed [9s 8d 9h 6s 6c] and won 0.79€ with Full of 6 and 5
+
+

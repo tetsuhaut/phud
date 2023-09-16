@@ -1,0 +1,1664 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563310481566072833-1-1442523806 - Holdem no limit (10/20) - 2015/09/17 21:03:26 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #7 is the button
+Seat 1: bella-k94 (1500)
+Seat 2: al carbonne (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: Lord-Draken (1500)
+Seat 5: Lakanal38 (1500)
+Seat 6: altyin (1500)
+Seat 7: Calvin Fury (1500)
+Seat 8: ---BIB--- (1500)
+Seat 9: Lolidi (1500)
+Seat 10: cool4321 (1500)
+*** ANTE/BLINDS ***
+---BIB--- posts small blind 10
+Lolidi posts big blind 20
+Dealt to sabre_laser [7h Qh]
+*** PRE-FLOP *** 
+cool4321 folds
+bella-k94 raises 50 to 70
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin calls 70
+Calvin Fury calls 70
+---BIB--- folds
+Lolidi folds
+*** FLOP *** [9d 2h 3s]
+bella-k94 bets 240
+altyin folds
+Calvin Fury calls 240
+*** TURN *** [9d 2h 3s][Ah]
+bella-k94 bets 720
+Calvin Fury raises 470 to 1190 and is all-in
+bella-k94 calls 470 and is all-in
+*** RIVER *** [9d 2h 3s Ah][7d]
+*** SHOW DOWN ***
+Calvin Fury shows [Kc As] (One pair : Aces)
+bella-k94 shows [9s Ac] (Two pairs : Aces and 9)
+bella-k94 collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [9d 2h 3s Ah 7d]
+Seat 1: bella-k94 showed [9s Ac] and won 3100 with Two pairs : Aces and 9
+Seat 7: Calvin Fury (button) showed [Kc As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563310481566072833-2-1442523906 - Holdem no limit (10/20) - 2015/09/17 21:05:06 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bella-k94 (3100)
+Seat 2: al carbonne (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: Lord-Draken (1500)
+Seat 5: Lakanal38 (1500)
+Seat 6: altyin (1430)
+Seat 8: ---BIB--- (1490)
+Seat 9: Lolidi (1480)
+Seat 10: cool4321 (1500)
+*** ANTE/BLINDS ***
+Lolidi posts small blind 10
+cool4321 posts big blind 20
+Dealt to sabre_laser [6h Ah]
+*** PRE-FLOP *** 
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin calls 20
+---BIB--- raises 20 to 40
+Lolidi folds
+cool4321 folds
+altyin calls 20
+*** FLOP *** [Qh 2h Ts]
+altyin checks
+---BIB--- checks
+*** TURN *** [Qh 2h Ts][8c]
+altyin checks
+---BIB--- checks
+*** RIVER *** [Qh 2h Ts 8c][Qs]
+altyin checks
+---BIB--- bets 55
+altyin calls 55
+*** SHOW DOWN ***
+altyin shows [Td 5d] (Two pairs : Queens and Tens)
+---BIB--- shows [As Tc] (Two pairs : Queens and Tens)
+---BIB--- collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Qh 2h Ts 8c Qs]
+Seat 6: altyin showed [Td 5d] and lost with Two pairs : Queens and Tens
+Seat 8: ---BIB--- (button) showed [As Tc] and won 220 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563310481566072833-3-1442524001 - Holdem no limit (15/30) - 2015/09/17 21:06:41 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bella-k94 (3100)
+Seat 2: al carbonne (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: Lord-Draken (1500)
+Seat 5: Lakanal38 (1500)
+Seat 6: altyin (1335)
+Seat 8: ---BIB--- (1615)
+Seat 9: Lolidi (1470)
+Seat 10: cool4321 (1480)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 15
+bella-k94 posts big blind 30
+Dealt to sabre_laser [4d 7d]
+*** PRE-FLOP *** 
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin calls 30
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 checks
+*** FLOP *** [9h Qd Ah]
+bella-k94 checks
+altyin checks
+*** TURN *** [9h Qd Ah][Ac]
+bella-k94 checks
+altyin checks
+*** RIVER *** [9h Qd Ah Ac][7s]
+bella-k94 checks
+altyin bets 30
+bella-k94 calls 30
+*** SHOW DOWN ***
+bella-k94 shows [8h Js] (One pair : Aces)
+altyin shows [3h 7h] (Two pairs : Aces and 7)
+altyin collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9h Qd Ah Ac 7s]
+Seat 1: bella-k94 (big blind) showed [8h Js] and lost with One pair : Aces
+Seat 6: altyin showed [3h 7h] and won 135 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563310481566072833-4-1442524061 - Holdem no limit (15/30) - 2015/09/17 21:07:41 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #10 is the button
+Seat 1: bella-k94 (3040)
+Seat 2: al carbonne (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: Lord-Draken (1500)
+Seat 5: Lakanal38 (1500)
+Seat 6: altyin (1410)
+Seat 8: ---BIB--- (1615)
+Seat 9: Lolidi (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+bella-k94 posts small blind 15
+al carbonne posts big blind 30
+Dealt to sabre_laser [Kh Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 raises 90 to 120
+altyin folds
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+Lakanal38 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Seat 5: Lakanal38 won 165
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563310481566072833-5-1442524130 - Holdem no limit (15/30) - 2015/09/17 21:08:50 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1470)
+Seat 3: sabre_laser (1500)
+Seat 4: Lord-Draken (1500)
+Seat 5: Lakanal38 (1545)
+Seat 6: altyin (1410)
+Seat 8: ---BIB--- (1615)
+Seat 9: Lolidi (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+al carbonne posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [4h 3h]
+*** PRE-FLOP *** 
+Lord-Draken folds
+Lakanal38 folds
+altyin raises 30 to 60
+---BIB--- folds
+Lolidi calls 60
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser calls 30
+*** FLOP *** [4c 9s 9d]
+sabre_laser bets 195
+altyin calls 195
+Lolidi folds
+*** TURN *** [4c 9s 9d][5s]
+sabre_laser bets 293
+altyin calls 293
+*** RIVER *** [4c 9s 9d 5s][4s]
+sabre_laser checks
+altyin checks
+*** SHOW DOWN ***
+altyin shows [As Qs] (Flush Ace high)
+sabre_laser shows [4h 3h] (Full of 4 and 9)
+sabre_laser collected 1171 from pot
+*** SUMMARY ***
+Total pot 1171 | No rake
+Board: [4c 9s 9d 5s 4s]
+Seat 3: sabre_laser (big blind) showed [4h 3h] and won 1171 with Full of 4 and 9
+Seat 6: altyin showed [As Qs] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563310481566072833-6-1442524197 - Holdem no limit (20/40) - 2015/09/17 21:09:57 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2123)
+Seat 4: Lord-Draken (1500)
+Seat 5: Lakanal38 (1545)
+Seat 6: altyin (862)
+Seat 8: ---BIB--- (1615)
+Seat 9: Lolidi (1410)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Lord-Draken posts big blind 40
+Dealt to sabre_laser [3h Qh]
+*** PRE-FLOP *** 
+Lakanal38 raises 120 to 160
+altyin calls 160
+---BIB--- folds
+Lolidi calls 160
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+*** FLOP *** [8c 4d Ks]
+Lakanal38 checks
+altyin bets 270
+Lolidi folds
+Lakanal38 folds
+altyin collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [8c 4d Ks]
+Seat 6: altyin won 810
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563310481566072833-7-1442524381 - Holdem no limit (30/60) - 2015/09/17 21:13:01 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1460)
+Seat 5: Lakanal38 (1385)
+Seat 6: altyin (1242)
+Seat 8: ---BIB--- (1615)
+Seat 9: Lolidi (1250)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+Lord-Draken posts small blind 30
+Lakanal38 posts big blind 60
+Dealt to sabre_laser [9d 4c]
+*** PRE-FLOP *** 
+altyin calls 60
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 6: altyin won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563310481566072833-8-1442524434 - Holdem no limit (30/60) - 2015/09/17 21:13:54 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1430)
+Seat 5: Lakanal38 (1325)
+Seat 6: altyin (1332)
+Seat 8: ---BIB--- (1615)
+Seat 9: Lolidi (1250)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+Lakanal38 posts small blind 30
+altyin posts big blind 60
+Dealt to sabre_laser [8h 4h]
+*** PRE-FLOP *** 
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: altyin (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563310481566072833-9-1442524474 - Holdem no limit (30/60) - 2015/09/17 21:14:34 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1430)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1362)
+Seat 8: ---BIB--- (1615)
+Seat 9: Lolidi (1250)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+altyin posts small blind 30
+---BIB--- posts big blind 60
+Dealt to sabre_laser [7d 8s]
+*** PRE-FLOP *** 
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin calls 30
+---BIB--- checks
+*** FLOP *** [2d 8h 2s]
+altyin checks
+---BIB--- checks
+*** TURN *** [2d 8h 2s][3h]
+altyin bets 60
+---BIB--- folds
+altyin collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2d 8h 2s 3h]
+Seat 6: altyin (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563310481566072833-10-1442524517 - Holdem no limit (30/60) - 2015/09/17 21:15:17 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #6 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1430)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1555)
+Seat 9: Lolidi (1250)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+---BIB--- posts small blind 30
+Lolidi posts big blind 60
+Dealt to sabre_laser [5s 7h]
+*** PRE-FLOP *** 
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lolidi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: Lolidi (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563310481566072833-11-1442524584 - Holdem no limit (40/80) - 2015/09/17 21:16:24 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1430)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1525)
+Seat 9: Lolidi (1280)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+Lolidi posts small blind 40
+cool4321 posts big blind 80
+Dealt to sabre_laser [5c 3c]
+*** PRE-FLOP *** 
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken calls 80
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lolidi calls 40
+cool4321 checks
+*** FLOP *** [Ad 5d 7d]
+Lolidi bets 120
+cool4321 folds
+Lord-Draken calls 120
+*** TURN *** [Ad 5d 7d][3s]
+Lolidi checks
+Lord-Draken checks
+*** RIVER *** [Ad 5d 7d 3s][Jh]
+Lolidi checks
+Lord-Draken checks
+*** SHOW DOWN ***
+Lord-Draken shows [Jd Th] (One pair : Jacks)
+Lolidi shows [9s Ac] (One pair : Aces)
+Lolidi collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ad 5d 7d 3s Jh]
+Seat 4: Lord-Draken showed [Jd Th] and lost with One pair : Jacks
+Seat 9: Lolidi (small blind) showed [9s Ac] and won 480 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563310481566072833-12-1442524667 - Holdem no limit (40/80) - 2015/09/17 21:17:47 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bella-k94 (3025)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1230)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1525)
+Seat 9: Lolidi (1560)
+Seat 10: cool4321 (1385)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 40
+bella-k94 posts big blind 80
+Dealt to sabre_laser [2c 4s]
+*** PRE-FLOP *** 
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lolidi raises 120 to 200
+cool4321 folds
+bella-k94 folds
+Lolidi collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 9: Lolidi (button) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563310481566072833-13-1442524715 - Holdem no limit (60/120) - 2015/09/17 21:18:35 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #10 is the button
+Seat 1: bella-k94 (2945)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1230)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1525)
+Seat 9: Lolidi (1680)
+Seat 10: cool4321 (1345)
+*** ANTE/BLINDS ***
+bella-k94 posts small blind 60
+al carbonne posts big blind 120
+Dealt to sabre_laser [9h 3d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: al carbonne (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563310481566072833-14-1442524761 - Holdem no limit (60/120) - 2015/09/17 21:19:21 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bella-k94 (2885)
+Seat 2: al carbonne (1515)
+Seat 3: sabre_laser (2103)
+Seat 4: Lord-Draken (1230)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1525)
+Seat 9: Lolidi (1680)
+Seat 10: cool4321 (1345)
+*** ANTE/BLINDS ***
+al carbonne posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3c 6h]
+*** PRE-FLOP *** 
+Lord-Draken calls 120
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser checks
+*** FLOP *** [3d 3h 2d]
+sabre_laser checks
+Lord-Draken checks
+*** TURN *** [3d 3h 2d][7s]
+sabre_laser checks
+Lord-Draken bets 120
+sabre_laser raises 120 to 240
+Lord-Draken folds
+sabre_laser collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [3d 3h 2d 7s]
+Seat 3: sabre_laser (big blind) won 660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563310481566072833-15-1442524831 - Holdem no limit (60/120) - 2015/09/17 21:20:31 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bella-k94 (2885)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2403)
+Seat 4: Lord-Draken (990)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1525)
+Seat 9: Lolidi (1680)
+Seat 10: cool4321 (1345)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Lord-Draken posts big blind 120
+Dealt to sabre_laser [Td 9s]
+*** PRE-FLOP *** 
+Lakanal38 folds
+altyin folds
+---BIB--- raises 120 to 240
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne raises 120 to 360
+sabre_laser folds
+Lord-Draken folds
+---BIB--- calls 120
+*** FLOP *** [3s 7c 2d]
+---BIB--- checks
+al carbonne bets 450
+---BIB--- folds
+al carbonne collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [3s 7c 2d]
+Seat 2: al carbonne (button) won 1350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563310481566072833-16-1442524937 - Holdem no limit (80/160) - 2015/09/17 21:22:17 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bella-k94 (2885)
+Seat 2: al carbonne (1995)
+Seat 3: sabre_laser (2343)
+Seat 4: Lord-Draken (870)
+Seat 5: Lakanal38 (1295)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1165)
+Seat 9: Lolidi (1680)
+Seat 10: cool4321 (1345)
+*** ANTE/BLINDS ***
+Lord-Draken posts small blind 80
+Lakanal38 posts big blind 160
+Dealt to sabre_laser [8s 6s]
+*** PRE-FLOP *** 
+altyin raises 320 to 480
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 6: altyin won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563310481566072833-17-1442524979 - Holdem no limit (80/160) - 2015/09/17 21:22:59 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bella-k94 (2885)
+Seat 2: al carbonne (1995)
+Seat 3: sabre_laser (2343)
+Seat 4: Lord-Draken (790)
+Seat 5: Lakanal38 (1135)
+Seat 6: altyin (1662)
+Seat 8: ---BIB--- (1165)
+Seat 9: Lolidi (1680)
+Seat 10: cool4321 (1345)
+*** ANTE/BLINDS ***
+Lakanal38 posts small blind 80
+altyin posts big blind 160
+Dealt to sabre_laser [Th Ts]
+*** PRE-FLOP *** 
+---BIB--- folds
+Lolidi folds
+cool4321 raises 240 to 400
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken raises 390 to 790 and is all-in
+Lakanal38 folds
+altyin folds
+cool4321 calls 390
+*** FLOP *** [Ac 9c 3d]
+*** TURN *** [Ac 9c 3d][Ad]
+*** RIVER *** [Ac 9c 3d Ad][4h]
+*** SHOW DOWN ***
+cool4321 shows [8d 8h] (Two pairs : Aces and 8)
+Lord-Draken shows [Qd Qc] (Two pairs : Aces and Queens)
+Lord-Draken collected 1820 from pot
+*** SUMMARY ***
+Total pot 1820 | No rake
+Board: [Ac 9c 3d Ad 4h]
+Seat 4: Lord-Draken (button) showed [Qd Qc] and won 1820 with Two pairs : Aces and Queens
+Seat 10: cool4321 showed [8d 8h] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563310481566072833-18-1442525036 - Holdem no limit (80/160) - 2015/09/17 21:23:56 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: bella-k94 (2885)
+Seat 2: al carbonne (1995)
+Seat 3: sabre_laser (2343)
+Seat 4: Lord-Draken (1820)
+Seat 5: Lakanal38 (1055)
+Seat 6: altyin (1502)
+Seat 8: ---BIB--- (1165)
+Seat 9: Lolidi (1680)
+Seat 10: cool4321 (555)
+*** ANTE/BLINDS ***
+altyin posts small blind 80
+---BIB--- posts big blind 160
+Dealt to sabre_laser [Qs 5h]
+*** PRE-FLOP *** 
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken raises 320 to 480
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lord-Draken collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 4: Lord-Draken won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563310481566072833-19-1442525082 - Holdem no limit (10/100/200) - 2015/09/17 21:24:42 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #6 is the button
+Seat 1: bella-k94 (2885)
+Seat 2: al carbonne (1995)
+Seat 3: sabre_laser (2343)
+Seat 4: Lord-Draken (2060)
+Seat 5: Lakanal38 (1055)
+Seat 6: altyin (1422)
+Seat 8: ---BIB--- (1005)
+Seat 9: Lolidi (1680)
+Seat 10: cool4321 (555)
+*** ANTE/BLINDS ***
+---BIB--- posts ante 10
+Lolidi posts ante 10
+bella-k94 posts ante 10
+al carbonne posts ante 10
+sabre_laser posts ante 10
+Lord-Draken posts ante 10
+Lakanal38 posts ante 10
+altyin posts ante 10
+cool4321 posts ante 10
+---BIB--- posts small blind 100
+Lolidi posts big blind 200
+Dealt to sabre_laser [8s Ad]
+*** PRE-FLOP *** 
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser raises 2133 to 2333 and is all-in
+Lord-Draken folds
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lolidi folds
+sabre_laser collected 2723 from pot
+*** SUMMARY ***
+Total pot 2723 | No rake
+Seat 3: sabre_laser won 2723
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563310481566072833-20-1442525120 - Holdem no limit (10/100/200) - 2015/09/17 21:25:20 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bella-k94 (2875)
+Seat 2: al carbonne (1985)
+Seat 3: sabre_laser (2723)
+Seat 4: Lord-Draken (2050)
+Seat 5: Lakanal38 (1045)
+Seat 6: altyin (1412)
+Seat 8: ---BIB--- (895)
+Seat 9: Lolidi (1470)
+Seat 10: cool4321 (545)
+*** ANTE/BLINDS ***
+Lolidi posts ante 10
+cool4321 posts ante 10
+bella-k94 posts ante 10
+al carbonne posts ante 10
+sabre_laser posts ante 10
+Lord-Draken posts ante 10
+Lakanal38 posts ante 10
+altyin posts ante 10
+---BIB--- posts ante 10
+Lolidi posts small blind 100
+cool4321 posts big blind 200
+Dealt to sabre_laser [Ks Th]
+*** PRE-FLOP *** 
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin calls 200
+---BIB--- folds
+Lolidi calls 100
+cool4321 checks
+*** FLOP *** [Kc 7h Ah]
+Lolidi bets 345
+cool4321 folds
+altyin folds
+Lolidi collected 1035 from pot
+*** SUMMARY ***
+Total pot 1035 | No rake
+Board: [Kc 7h Ah]
+Seat 9: Lolidi (small blind) won 1035
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563310481566072833-21-1442525173 - Holdem no limit (10/100/200) - 2015/09/17 21:26:13 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bella-k94 (2865)
+Seat 2: al carbonne (1975)
+Seat 3: sabre_laser (2713)
+Seat 4: Lord-Draken (2040)
+Seat 5: Lakanal38 (1035)
+Seat 6: altyin (1202)
+Seat 8: ---BIB--- (885)
+Seat 9: Lolidi (1950)
+Seat 10: cool4321 (335)
+*** ANTE/BLINDS ***
+cool4321 posts ante 10
+bella-k94 posts ante 10
+al carbonne posts ante 10
+sabre_laser posts ante 10
+Lord-Draken posts ante 10
+Lakanal38 posts ante 10
+altyin posts ante 10
+---BIB--- posts ante 10
+Lolidi posts ante 10
+cool4321 posts small blind 100
+bella-k94 posts big blind 200
+Dealt to sabre_laser [As Jh]
+*** PRE-FLOP *** 
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+altyin folds
+---BIB--- raises 675 to 875 and is all-in
+Lolidi folds
+cool4321 calls 225 and is all-in
+bella-k94 folds
+*** FLOP *** [Qs 8d 2d]
+*** TURN *** [Qs 8d 2d][8h]
+*** RIVER *** [Qs 8d 2d 8h][Qc]
+*** SHOW DOWN ***
+cool4321 shows [Qd Qh] (Quads of Queens)
+---BIB--- shows [Ts Td] (Two pairs : Queens and Tens)
+---BIB--- collected 550 from side pot 1
+cool4321 collected 940 from main pot
+*** SUMMARY ***
+Total pot 1490 | No rake
+Board: [Qs 8d 2d 8h Qc]
+Seat 8: ---BIB--- showed [Ts Td] and won 550 with Two pairs : Queens and Tens
+Seat 10: cool4321 (small blind) showed [Qd Qh] and won 940 with Quads of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563310481566072833-22-1442525256 - Holdem no limit (20/150/300) - 2015/09/17 21:27:36 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #10 is the button
+Seat 1: bella-k94 (2655)
+Seat 2: al carbonne (1965)
+Seat 3: sabre_laser (2703)
+Seat 4: Lord-Draken (2030)
+Seat 5: Lakanal38 (1025)
+Seat 6: altyin (1192)
+Seat 8: ---BIB--- (550)
+Seat 9: Lolidi (1940)
+Seat 10: cool4321 (940)
+*** ANTE/BLINDS ***
+bella-k94 posts ante 20
+al carbonne posts ante 20
+sabre_laser posts ante 20
+Lord-Draken posts ante 20
+Lakanal38 posts ante 20
+altyin posts ante 20
+---BIB--- posts ante 20
+Lolidi posts ante 20
+cool4321 posts ante 20
+bella-k94 posts small blind 150
+al carbonne posts big blind 300
+Dealt to sabre_laser [Jd Ks]
+*** PRE-FLOP *** 
+sabre_laser raises 300 to 600
+Lord-Draken folds
+Lakanal38 folds
+altyin folds
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Seat 3: sabre_laser won 1230
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563310481566072833-23-1442525304 - Holdem no limit (20/150/300) - 2015/09/17 21:28:24 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bella-k94 (2485)
+Seat 2: al carbonne (1645)
+Seat 3: sabre_laser (3313)
+Seat 4: Lord-Draken (2010)
+Seat 5: Lakanal38 (1005)
+Seat 6: altyin (1172)
+Seat 8: ---BIB--- (530)
+Seat 9: Lolidi (1920)
+Seat 10: cool4321 (920)
+*** ANTE/BLINDS ***
+al carbonne posts ante 20
+sabre_laser posts ante 20
+bella-k94 posts ante 20
+Lord-Draken posts ante 20
+Lakanal38 posts ante 20
+altyin posts ante 20
+---BIB--- posts ante 20
+Lolidi posts ante 20
+cool4321 posts ante 20
+al carbonne posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [5c 2h]
+*** PRE-FLOP *** 
+Lord-Draken folds
+Lakanal38 folds
+altyin raises 852 to 1152 and is all-in
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+altyin collected 1782 from pot
+*** SUMMARY ***
+Total pot 1782 | No rake
+Seat 6: altyin won 1782
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563310481566072833-24-1442525348 - Holdem no limit (20/150/300) - 2015/09/17 21:29:08 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bella-k94 (2465)
+Seat 2: al carbonne (1475)
+Seat 3: sabre_laser (2993)
+Seat 4: Lord-Draken (1990)
+Seat 5: Lakanal38 (985)
+Seat 6: altyin (1782)
+Seat 8: ---BIB--- (510)
+Seat 9: Lolidi (1900)
+Seat 10: cool4321 (900)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Lord-Draken posts ante 20
+bella-k94 posts ante 20
+al carbonne posts ante 20
+Lakanal38 posts ante 20
+altyin posts ante 20
+---BIB--- posts ante 20
+Lolidi posts ante 20
+cool4321 posts ante 20
+sabre_laser posts small blind 150
+Lord-Draken posts big blind 300
+Dealt to sabre_laser [6c 2d]
+*** PRE-FLOP *** 
+Lakanal38 folds
+altyin raises 1462 to 1762 and is all-in
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken calls 1462
+*** FLOP *** [Kd Jh Ts]
+*** TURN *** [Kd Jh Ts][Qh]
+*** RIVER *** [Kd Jh Ts Qh][Kc]
+*** SHOW DOWN ***
+altyin shows [Js Ad] (Straight Ace high)
+Lord-Draken shows [Qs Ks] (Full of Kings and Queens)
+Lord-Draken collected 3854 from pot
+*** SUMMARY ***
+Total pot 3854 | No rake
+Board: [Kd Jh Ts Qh Kc]
+Seat 4: Lord-Draken (big blind) showed [Qs Ks] and won 3854 with Full of Kings and Queens
+Seat 6: altyin showed [Js Ad] and lost with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563310481566072833-25-1442525403 - Holdem no limit (20/150/300) - 2015/09/17 21:30:03 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bella-k94 (2445)
+Seat 2: al carbonne (1455)
+Seat 3: sabre_laser (2823)
+Seat 4: Lord-Draken (4062)
+Seat 5: Lakanal38 (965)
+Seat 8: ---BIB--- (490)
+Seat 9: Lolidi (1880)
+Seat 10: cool4321 (880)
+*** ANTE/BLINDS ***
+Lord-Draken posts ante 20
+Lakanal38 posts ante 20
+bella-k94 posts ante 20
+al carbonne posts ante 20
+sabre_laser posts ante 20
+---BIB--- posts ante 20
+Lolidi posts ante 20
+cool4321 posts ante 20
+Lord-Draken posts small blind 150
+Lakanal38 posts big blind 300
+Dealt to sabre_laser [Qs 4s]
+*** PRE-FLOP *** 
+---BIB--- folds
+Lolidi folds
+cool4321 folds
+bella-k94 raises 2125 to 2425 and is all-in
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+bella-k94 collected 3035 from pot
+*** SUMMARY ***
+Total pot 3035 | No rake
+Seat 1: bella-k94 won 3035
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563310481566072833-26-1442525444 - Holdem no limit (50/200/400) - 2015/09/17 21:30:44 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bella-k94 (3035)
+Seat 2: al carbonne (1435)
+Seat 3: sabre_laser (2803)
+Seat 4: Lord-Draken (3892)
+Seat 5: Lakanal38 (645)
+Seat 8: ---BIB--- (470)
+Seat 9: Lolidi (1860)
+Seat 10: cool4321 (860)
+*** ANTE/BLINDS ***
+Lakanal38 posts ante 50
+---BIB--- posts ante 50
+bella-k94 posts ante 50
+al carbonne posts ante 50
+sabre_laser posts ante 50
+Lord-Draken posts ante 50
+Lolidi posts ante 50
+cool4321 posts ante 50
+Lakanal38 posts small blind 200
+---BIB--- posts big blind 400
+Dealt to sabre_laser [3c 8h]
+*** PRE-FLOP *** 
+Lolidi folds
+cool4321 raises 410 to 810 and is all-in
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken calls 810
+Lakanal38 folds
+---BIB--- calls 20 and is all-in
+*** FLOP *** [6d Jc 5d]
+*** TURN *** [6d Jc 5d][Kc]
+*** RIVER *** [6d Jc 5d Kc][7h]
+*** SHOW DOWN ***
+Lord-Draken shows [3s 3d] (One pair : 3)
+---BIB--- shows [Td 7s] (One pair : 7)
+cool4321 shows [4s 4d] (One pair : 4)
+cool4321 collected 780 from side pot 1
+---BIB--- collected 1860 from main pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [6d Jc 5d Kc 7h]
+Seat 4: Lord-Draken (button) showed [3s 3d] and lost with One pair : 3
+Seat 8: ---BIB--- (big blind) showed [Td 7s] and won 1860 with One pair : 7
+Seat 10: cool4321 showed [4s 4d] and won 780 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563310481566072833-27-1442525487 - Holdem no limit (50/200/400) - 2015/09/17 21:31:27 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: bella-k94 (2985)
+Seat 2: al carbonne (1385)
+Seat 3: sabre_laser (2753)
+Seat 4: Lord-Draken (3032)
+Seat 5: Lakanal38 (395)
+Seat 8: ---BIB--- (1860)
+Seat 9: Lolidi (1810)
+Seat 10: cool4321 (780)
+*** ANTE/BLINDS ***
+---BIB--- posts ante 50
+Lolidi posts ante 50
+bella-k94 posts ante 50
+al carbonne posts ante 50
+sabre_laser posts ante 50
+Lord-Draken posts ante 50
+Lakanal38 posts ante 50
+cool4321 posts ante 50
+---BIB--- posts small blind 200
+Lolidi posts big blind 400
+Dealt to sabre_laser [Qh 7s]
+*** PRE-FLOP *** 
+cool4321 raises 330 to 730 and is all-in
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+---BIB--- calls 530
+Lolidi calls 330
+*** FLOP *** [3h Kc 8c]
+---BIB--- checks
+Lolidi checks
+*** TURN *** [3h Kc 8c][3d]
+---BIB--- checks
+Lolidi checks
+*** RIVER *** [3h Kc 8c 3d][Kd]
+---BIB--- checks
+Lolidi checks
+*** SHOW DOWN ***
+Lolidi shows [Ah 9h] (Two pairs : Kings and 3)
+cool4321 shows [6c Ad] (Two pairs : Kings and 3)
+---BIB--- shows [5c 5s] (Two pairs : Kings and 5)
+---BIB--- collected 2590 from pot
+*** SUMMARY ***
+Total pot 2590 | No rake
+Board: [3h Kc 8c 3d Kd]
+Seat 8: ---BIB--- (small blind) showed [5c 5s] and won 2590 with Two pairs : Kings and 5
+Seat 9: Lolidi (big blind) showed [Ah 9h] and lost with Two pairs : Kings and 3
+Seat 10: cool4321 showed [6c Ad] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563310481566072833-28-1442525540 - Holdem no limit (50/200/400) - 2015/09/17 21:32:20 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bella-k94 (2935)
+Seat 2: al carbonne (1335)
+Seat 3: sabre_laser (2703)
+Seat 4: Lord-Draken (2982)
+Seat 5: Lakanal38 (345)
+Seat 8: ---BIB--- (3670)
+Seat 9: Lolidi (1030)
+*** ANTE/BLINDS ***
+Lolidi posts ante 50
+bella-k94 posts ante 50
+al carbonne posts ante 50
+sabre_laser posts ante 50
+Lord-Draken posts ante 50
+Lakanal38 posts ante 50
+---BIB--- posts ante 50
+Lolidi posts small blind 200
+bella-k94 posts big blind 400
+Dealt to sabre_laser [Ac 5h]
+*** PRE-FLOP *** 
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+Lakanal38 folds
+---BIB--- folds
+Lolidi folds
+bella-k94 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 1: bella-k94 (big blind) won 950
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563310481566072833-29-1442525556 - Holdem no limit (50/200/400) - 2015/09/17 21:32:36 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bella-k94 (3435)
+Seat 2: al carbonne (1285)
+Seat 3: sabre_laser (2653)
+Seat 4: Lord-Draken (2932)
+Seat 5: Lakanal38 (295)
+Seat 8: ---BIB--- (3620)
+Seat 9: Lolidi (780)
+*** ANTE/BLINDS ***
+bella-k94 posts ante 50
+al carbonne posts ante 50
+sabre_laser posts ante 50
+Lord-Draken posts ante 50
+Lakanal38 posts ante 50
+---BIB--- posts ante 50
+Lolidi posts ante 50
+bella-k94 posts small blind 200
+al carbonne posts big blind 400
+Dealt to sabre_laser [8s 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Lord-Draken raises 800 to 1200
+Lakanal38 folds
+---BIB--- folds
+Lolidi folds
+bella-k94 folds
+al carbonne calls 800
+*** FLOP *** [7c Jh 4d]
+al carbonne bets 35 and is all-in
+Lord-Draken calls 35
+*** TURN *** [7c Jh 4d][3c]
+*** RIVER *** [7c Jh 4d 3c][Kc]
+*** SHOW DOWN ***
+Lord-Draken shows [Ts As] (High card : Ace)
+al carbonne shows [Ah Ad] (One pair : Aces)
+al carbonne collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [7c Jh 4d 3c Kc]
+Seat 2: al carbonne (big blind) showed [Ah Ad] and won 3020 with One pair : Aces
+Seat 4: Lord-Draken showed [Ts As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563310481566072833-30-1442525592 - Holdem no limit (50/200/400) - 2015/09/17 21:33:12 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bella-k94 (3185)
+Seat 2: al carbonne (3020)
+Seat 3: sabre_laser (2603)
+Seat 4: Lord-Draken (1647)
+Seat 5: Lakanal38 (245)
+Seat 8: ---BIB--- (3570)
+Seat 9: Lolidi (730)
+*** ANTE/BLINDS ***
+al carbonne posts ante 50
+sabre_laser posts ante 50
+bella-k94 posts ante 50
+Lord-Draken posts ante 50
+Lakanal38 posts ante 50
+---BIB--- posts ante 50
+Lolidi posts ante 50
+al carbonne posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [7d 5s]
+*** PRE-FLOP *** 
+Lord-Draken folds
+Lakanal38 folds
+---BIB--- folds
+Lolidi raises 280 to 680 and is all-in
+bella-k94 folds
+al carbonne folds
+sabre_laser calls 280
+*** FLOP *** [Kd Jh 4c]
+*** TURN *** [Kd Jh 4c][Js]
+*** RIVER *** [Kd Jh 4c Js][Qd]
+*** SHOW DOWN ***
+sabre_laser shows [7d 5s] (One pair : Jacks)
+Lolidi shows [Qc Tc] (Two pairs : Queens and Jacks)
+Lolidi collected 1910 from pot
+*** SUMMARY ***
+Total pot 1910 | No rake
+Board: [Kd Jh 4c Js Qd]
+Seat 3: sabre_laser (big blind) showed [7d 5s] and lost with One pair : Jacks
+Seat 9: Lolidi showed [Qc Tc] and won 1910 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563310481566072833-31-1442525630 - Holdem no limit (75/300/600) - 2015/09/17 21:33:50 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bella-k94 (3135)
+Seat 2: al carbonne (2770)
+Seat 3: sabre_laser (1873)
+Seat 4: Lord-Draken (1597)
+Seat 5: Lakanal38 (195)
+Seat 8: ---BIB--- (3520)
+Seat 9: Lolidi (1910)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+Lord-Draken posts ante 75
+bella-k94 posts ante 75
+al carbonne posts ante 75
+Lakanal38 posts ante 75
+---BIB--- posts ante 75
+Lolidi posts ante 75
+sabre_laser posts small blind 300
+Lord-Draken posts big blind 600
+Dealt to sabre_laser [Ts Kc]
+*** PRE-FLOP *** 
+Lakanal38 folds
+---BIB--- folds
+Lolidi folds
+bella-k94 folds
+al carbonne folds
+sabre_laser raises 1198 to 1798 and is all-in
+Lord-Draken calls 922 and is all-in
+*** FLOP *** [As Qc Ah]
+*** TURN *** [As Qc Ah][9h]
+*** RIVER *** [As Qc Ah 9h][5h]
+*** SHOW DOWN ***
+Lord-Draken shows [2d 2c] (Two pairs : Aces and 2)
+sabre_laser shows [Ts Kc] (One pair : Aces)
+sabre_laser collected 276 from side pot 1
+Lord-Draken collected 3569 from main pot
+*** SUMMARY ***
+Total pot 3845 | No rake
+Board: [As Qc Ah 9h 5h]
+Seat 3: sabre_laser (small blind) showed [Ts Kc] and won 276 with One pair : Aces
+Seat 4: Lord-Draken (big blind) showed [2d 2c] and won 3569 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563310481566072833-32-1442525672 - Holdem no limit (75/300/600) - 2015/09/17 21:34:32 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bella-k94 (3060)
+Seat 2: al carbonne (2695)
+Seat 3: sabre_laser (276)
+Seat 4: Lord-Draken (3569)
+Seat 5: Lakanal38 (120)
+Seat 8: ---BIB--- (3445)
+Seat 9: Lolidi (1835)
+*** ANTE/BLINDS ***
+Lord-Draken posts ante 75
+Lakanal38 posts ante 75
+bella-k94 posts ante 75
+al carbonne posts ante 75
+sabre_laser posts ante 75
+---BIB--- posts ante 75
+Lolidi posts ante 75
+Lord-Draken posts small blind 300
+Lakanal38 posts big blind 45 and is all-in
+Dealt to sabre_laser [3s 5s]
+*** PRE-FLOP *** 
+---BIB--- folds
+Lolidi raises 1715 to 1760 and is all-in
+bella-k94 folds
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+*** FLOP *** [8s 6d 7d]
+*** TURN *** [8s 6d 7d][Kh]
+*** RIVER *** [8s 6d 7d Kh][3d]
+*** SHOW DOWN ***
+Lakanal38 shows [5h 6s] (One pair : 6)
+Lolidi shows [Qd Kd] (Flush King high)
+Lolidi collected 2630 from pot
+*** SUMMARY ***
+Total pot 2630 | No rake
+Board: [8s 6d 7d Kh 3d]
+Seat 5: Lakanal38 (big blind) showed [5h 6s] and lost with One pair : 6
+Seat 9: Lolidi showed [Qd Kd] and won 2630 with Flush King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563310481566072833-33-1442525711 - Holdem no limit (75/300/600) - 2015/09/17 21:35:11 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bella-k94 (2985)
+Seat 2: al carbonne (2620)
+Seat 3: sabre_laser (201)
+Seat 4: Lord-Draken (3194)
+Seat 8: ---BIB--- (3370)
+Seat 9: Lolidi (2630)
+*** ANTE/BLINDS ***
+---BIB--- posts ante 75
+bella-k94 posts ante 75
+al carbonne posts ante 75
+sabre_laser posts ante 75
+Lord-Draken posts ante 75
+Lolidi posts ante 75
+---BIB--- posts big blind 600
+Dealt to sabre_laser [9h 2h]
+*** PRE-FLOP *** 
+Lolidi folds
+bella-k94 folds
+al carbonne folds
+sabre_laser calls 126 and is all-in
+Lord-Draken folds
+*** FLOP *** [7d 4h 7s]
+*** TURN *** [7d 4h 7s][Jc]
+*** RIVER *** [7d 4h 7s Jc][3h]
+*** SHOW DOWN ***
+sabre_laser shows [9h 2h] (One pair : 7)
+---BIB--- shows [5h 8h] (One pair : 7)
+---BIB--- collected 474 from side pot 1
+sabre_laser collected 702 from main pot
+*** SUMMARY ***
+Total pot 1176 | No rake
+Board: [7d 4h 7s Jc 3h]
+Seat 3: sabre_laser showed [9h 2h] and won 702 with One pair : 7
+Seat 8: ---BIB--- (big blind) showed [5h 8h] and won 474 with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563310481566072833-34-1442525750 - Holdem no limit (75/300/600) - 2015/09/17 21:35:50 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #5 is the button
+Seat 1: bella-k94 (2910)
+Seat 2: al carbonne (2545)
+Seat 3: sabre_laser (702)
+Seat 4: Lord-Draken (3119)
+Seat 8: ---BIB--- (3169)
+Seat 9: Lolidi (2555)
+*** ANTE/BLINDS ***
+---BIB--- posts ante 75
+Lolidi posts ante 75
+bella-k94 posts ante 75
+al carbonne posts ante 75
+sabre_laser posts ante 75
+Lord-Draken posts ante 75
+---BIB--- posts small blind 300
+Lolidi posts big blind 600
+Dealt to sabre_laser [5d Ts]
+*** PRE-FLOP *** 
+bella-k94 raises 2235 to 2835 and is all-in
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+---BIB--- folds
+Lolidi folds
+bella-k94 collected 4185 from pot
+*** SUMMARY ***
+Total pot 4185 | No rake
+Seat 1: bella-k94 won 4185
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #563310481566072833-35-1442525783 - Holdem no limit (100/400/800) - 2015/09/17 21:36:23 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bella-k94 (4185)
+Seat 2: al carbonne (2470)
+Seat 3: sabre_laser (627)
+Seat 4: Lord-Draken (3044)
+Seat 8: ---BIB--- (2794)
+Seat 9: Lolidi (1880)
+*** ANTE/BLINDS ***
+Lolidi posts ante 100
+bella-k94 posts ante 100
+al carbonne posts ante 100
+sabre_laser posts ante 100
+Lord-Draken posts ante 100
+---BIB--- posts ante 100
+Lolidi posts small blind 400
+bella-k94 posts big blind 800
+Dealt to sabre_laser [Jh 8s]
+*** PRE-FLOP *** 
+al carbonne folds
+sabre_laser calls 527 and is all-in
+Lord-Draken folds
+---BIB--- folds
+Lolidi folds
+*** FLOP *** [Qs 3h Th]
+*** TURN *** [Qs 3h Th][2d]
+*** RIVER *** [Qs 3h Th 2d][Ah]
+*** SHOW DOWN ***
+sabre_laser shows [Jh 8s] (High card : Ace)
+bella-k94 shows [7c 8c] (High card : Ace)
+bella-k94 collected 273 from side pot 1
+sabre_laser collected 2054 from main pot
+*** SUMMARY ***
+Total pot 2327 | No rake
+Board: [Qs 3h Th 2d Ah]
+Seat 1: bella-k94 (big blind) showed [7c 8c] and won 273 with High card : Ace
+Seat 3: sabre_laser showed [Jh 8s] and won 2054 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #563310481566072833-36-1442525820 - Holdem no limit (100/400/800) - 2015/09/17 21:37:00 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bella-k94 (3558)
+Seat 2: al carbonne (2370)
+Seat 3: sabre_laser (2054)
+Seat 4: Lord-Draken (2944)
+Seat 8: ---BIB--- (2694)
+Seat 9: Lolidi (1380)
+*** ANTE/BLINDS ***
+bella-k94 posts ante 100
+al carbonne posts ante 100
+sabre_laser posts ante 100
+Lord-Draken posts ante 100
+---BIB--- posts ante 100
+Lolidi posts ante 100
+bella-k94 posts small blind 400
+al carbonne posts big blind 800
+Dealt to sabre_laser [Td Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+Lord-Draken raises 1600 to 2400
+---BIB--- folds
+Lolidi folds
+bella-k94 folds
+al carbonne folds
+Lord-Draken shows [7c 7s] (One pair : 7)
+Lord-Draken collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Seat 4: Lord-Draken showed [7c 7s] and won 4200 with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #563310481566072833-37-1442525857 - Holdem no limit (100/400/800) - 2015/09/17 21:37:37 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bella-k94 (3058)
+Seat 2: al carbonne (1470)
+Seat 3: sabre_laser (1954)
+Seat 4: Lord-Draken (4644)
+Seat 8: ---BIB--- (2594)
+Seat 9: Lolidi (1280)
+*** ANTE/BLINDS ***
+al carbonne posts ante 100
+sabre_laser posts ante 100
+bella-k94 posts ante 100
+Lord-Draken posts ante 100
+---BIB--- posts ante 100
+Lolidi posts ante 100
+al carbonne posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Th 9h]
+*** PRE-FLOP *** 
+Lord-Draken folds
+---BIB--- folds
+Lolidi folds
+bella-k94 folds
+al carbonne folds
+sabre_laser collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 3: sabre_laser (big blind) won 1800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #563310481566072833-38-1442525886 - Holdem no limit (100/400/800) - 2015/09/17 21:38:06 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bella-k94 (2958)
+Seat 2: al carbonne (970)
+Seat 3: sabre_laser (2854)
+Seat 4: Lord-Draken (4544)
+Seat 8: ---BIB--- (2494)
+Seat 9: Lolidi (1180)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Lord-Draken posts ante 100
+bella-k94 posts ante 100
+al carbonne posts ante 100
+---BIB--- posts ante 100
+Lolidi posts ante 100
+sabre_laser posts small blind 400
+Lord-Draken posts big blind 800
+Dealt to sabre_laser [4s 6h]
+*** PRE-FLOP *** 
+---BIB--- folds
+Lolidi folds
+bella-k94 folds
+al carbonne raises 70 to 870 and is all-in
+sabre_laser folds
+Lord-Draken calls 70
+*** FLOP *** [8d 7d 2c]
+*** TURN *** [8d 7d 2c][As]
+*** RIVER *** [8d 7d 2c As][7s]
+*** SHOW DOWN ***
+Lord-Draken shows [6s 3d] (One pair : 7)
+al carbonne shows [Qs 9c] (One pair : 7)
+al carbonne collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Board: [8d 7d 2c As 7s]
+Seat 2: al carbonne (button) showed [Qs 9c] and won 2740 with One pair : 7
+Seat 4: Lord-Draken (big blind) showed [6s 3d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #563310481566072833-39-1442525930 - Holdem no limit (100/400/800) - 2015/09/17 21:38:50 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bella-k94 (2858)
+Seat 2: al carbonne (2740)
+Seat 3: sabre_laser (2354)
+Seat 4: Lord-Draken (3574)
+Seat 8: ---BIB--- (2394)
+Seat 9: Lolidi (1080)
+*** ANTE/BLINDS ***
+Lord-Draken posts ante 100
+---BIB--- posts ante 100
+bella-k94 posts ante 100
+al carbonne posts ante 100
+sabre_laser posts ante 100
+Lolidi posts ante 100
+Lord-Draken posts small blind 400
+---BIB--- posts big blind 800
+Dealt to sabre_laser [6d 6h]
+*** PRE-FLOP *** 
+Lolidi raises 180 to 980 and is all-in
+bella-k94 folds
+al carbonne folds
+sabre_laser calls 980
+Lord-Draken calls 580
+---BIB--- folds
+*** FLOP *** [2d 7c Qs]
+Lord-Draken checks
+sabre_laser checks
+*** TURN *** [2d 7c Qs][Jh]
+Lord-Draken bets 800
+sabre_laser folds
+*** RIVER *** [2d 7c Qs Jh][9s]
+*** SHOW DOWN ***
+Lolidi shows [2c 2h] (Trips of 2)
+Lord-Draken shows [Jc Kh] (One pair : Jacks)
+Lord-Draken collected 800 from side pot 1
+Lolidi collected 4340 from main pot
+*** SUMMARY ***
+Total pot 5140 | No rake
+Board: [2d 7c Qs Jh 9s]
+Seat 4: Lord-Draken (small blind) showed [Jc Kh] and won 800 with One pair : Jacks
+Seat 9: Lolidi showed [2c 2h] and won 4340 with Trips of 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #563310481566072833-40-1442525961 - Holdem no limit (100/400/800) - 2015/09/17 21:39:21 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bella-k94 (2758)
+Seat 2: al carbonne (2640)
+Seat 3: sabre_laser (1274)
+Seat 4: Lord-Draken (2494)
+Seat 8: ---BIB--- (1494)
+Seat 9: Lolidi (4340)
+*** ANTE/BLINDS ***
+---BIB--- posts ante 100
+Lolidi posts ante 100
+bella-k94 posts ante 100
+al carbonne posts ante 100
+sabre_laser posts ante 100
+Lord-Draken posts ante 100
+---BIB--- posts small blind 400
+Lolidi posts big blind 800
+Dealt to sabre_laser [Jd 2h]
+*** PRE-FLOP *** 
+bella-k94 folds
+al carbonne folds
+sabre_laser raises 374 to 1174 and is all-in
+Lord-Draken folds
+---BIB--- folds
+Lolidi calls 374
+*** FLOP *** [Kd 4s 2s]
+*** TURN *** [Kd 4s 2s][2d]
+*** RIVER *** [Kd 4s 2s 2d][6c]
+*** SHOW DOWN ***
+Lolidi shows [Ac Th] (One pair : 2)
+sabre_laser shows [Jd 2h] (Trips of 2)
+sabre_laser collected 3348 from pot
+*** SUMMARY ***
+Total pot 3348 | No rake
+Board: [Kd 4s 2s 2d 6c]
+Seat 3: sabre_laser showed [Jd 2h] and won 3348 with Trips of 2
+Seat 9: Lolidi (big blind) showed [Ac Th] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 12 - HandId: #563310481566072833-41-1442526012 - Holdem no limit (125/500/1000) - 2015/09/17 21:40:12 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bella-k94 (2658)
+Seat 2: al carbonne (2540)
+Seat 3: sabre_laser (3348)
+Seat 4: Lord-Draken (2394)
+Seat 8: ---BIB--- (994)
+Seat 9: Lolidi (3066)
+*** ANTE/BLINDS ***
+Lolidi posts ante 125
+bella-k94 posts ante 125
+al carbonne posts ante 125
+sabre_laser posts ante 125
+Lord-Draken posts ante 125
+---BIB--- posts ante 125
+Lolidi posts small blind 500
+bella-k94 posts big blind 1000
+Dealt to sabre_laser [3c Td]
+*** PRE-FLOP *** 
+al carbonne folds
+sabre_laser folds
+Lord-Draken folds
+---BIB--- folds
+Lolidi folds
+bella-k94 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Seat 1: bella-k94 (big blind) won 2250
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 12 - HandId: #563310481566072833-42-1442526043 - Holdem no limit (125/500/1000) - 2015/09/17 21:40:43 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bella-k94 (3783)
+Seat 2: al carbonne (2415)
+Seat 3: sabre_laser (3223)
+Seat 4: Lord-Draken (2269)
+Seat 8: ---BIB--- (869)
+Seat 9: Lolidi (2441)
+*** ANTE/BLINDS ***
+bella-k94 posts ante 125
+al carbonne posts ante 125
+sabre_laser posts ante 125
+Lord-Draken posts ante 125
+---BIB--- posts ante 125
+Lolidi posts ante 125
+bella-k94 posts small blind 500
+al carbonne posts big blind 1000
+Dealt to sabre_laser [8d 8s]
+*** PRE-FLOP *** 
+sabre_laser raises 2098 to 3098 and is all-in
+Lord-Draken folds
+---BIB--- folds
+Lolidi folds
+bella-k94 folds
+al carbonne folds
+sabre_laser collected 5348 from pot
+*** SUMMARY ***
+Total pot 5348 | No rake
+Seat 3: sabre_laser won 5348
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 12 - HandId: #563310481566072833-43-1442526083 - Holdem no limit (125/500/1000) - 2015/09/17 21:41:23 UTC
+Table: 'Double or Nothing(131155942)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bella-k94 (3158)
+Seat 2: al carbonne (1290)
+Seat 3: sabre_laser (5348)
+Seat 4: Lord-Draken (2144)
+Seat 8: ---BIB--- (744)
+Seat 9: Lolidi (2316)
+*** ANTE/BLINDS ***
+al carbonne posts ante 125
+sabre_laser posts ante 125
+bella-k94 posts ante 125
+Lord-Draken posts ante 125
+---BIB--- posts ante 125
+Lolidi posts ante 125
+al carbonne posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [6d 9d]
+*** PRE-FLOP *** 
+Lord-Draken folds
+---BIB--- folds
+Lolidi folds
+bella-k94 folds
+al carbonne raises 165 to 1165 and is all-in
+sabre_laser calls 165
+*** FLOP *** [Js 3d Ad]
+*** TURN *** [Js 3d Ad][2d]
+*** RIVER *** [Js 3d Ad 2d][4c]
+*** SHOW DOWN ***
+al carbonne shows [5c Ks] (Straight 5 high)
+sabre_laser shows [6d 9d] (Flush Ace high)
+sabre_laser collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [Js 3d Ad 2d 4c]
+Seat 2: al carbonne (small blind) showed [5c Ks] and lost with Straight 5 high
+Seat 3: sabre_laser (big blind) showed [6d 9d] and won 3080 with Flush Ace high
+
+

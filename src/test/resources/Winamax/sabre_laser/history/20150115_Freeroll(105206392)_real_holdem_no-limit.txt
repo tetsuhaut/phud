@@ -1,0 +1,1611 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 16 - HandId: #451858012970156505-42-1421356264 - Holdem no limit (135/600/1200) - 2015/01/15 21:11:04 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #4 is the button
+Seat 1: Ovidius (48689)
+Seat 3: solo81 (7095)
+Seat 4: 44fred44 (36492)
+Seat 5: Geekz_Starz (43851)
+Seat 6: sabre_laser (42435)
+Seat 7: J.R clifford (15650)
+Seat 8: nanourepdom (865)
+Seat 9: jm01 (11560)
+*** ANTE/BLINDS ***
+Geekz_Starz posts ante 135
+sabre_laser posts ante 135
+Ovidius posts ante 135
+solo81 posts ante 135
+44fred44 posts ante 135
+J.R clifford posts ante 135
+nanourepdom posts ante 135
+jm01 posts ante 135
+Geekz_Starz posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [5c Th]
+*** PRE-FLOP *** 
+J.R clifford folds
+nanourepdom folds
+jm01 folds
+Ovidius folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Seat 6: sabre_laser (big blind) won 2880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 17 - HandId: #451858012970156505-43-1421356308 - Holdem no limit (160/800/1600) - 2015/01/15 21:11:48 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #5 is the button
+Seat 1: Ovidius (48554)
+Seat 2: Dark-Shines (41128)
+Seat 3: solo81 (6960)
+Seat 4: 44fred44 (36357)
+Seat 5: Geekz_Starz (43116)
+Seat 6: sabre_laser (43980)
+Seat 7: J.R clifford (15515)
+Seat 8: nanourepdom (730)
+Seat 9: jm01 (11425)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 160
+J.R clifford posts ante 160
+Ovidius posts ante 160
+Dark-Shines posts ante 160
+solo81 posts ante 160
+44fred44 posts ante 160
+Geekz_Starz posts ante 160
+nanourepdom posts ante 160
+jm01 posts ante 160
+sabre_laser posts small blind 800
+J.R clifford posts big blind 1600
+Dealt to sabre_laser [5s 7s]
+*** PRE-FLOP *** 
+nanourepdom folds
+jm01 raises 1600 to 3200
+Ovidius raises 45194 to 48394 and is all-in
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+jm01 calls 8065 and is all-in
+*** FLOP *** [7h Ad Kc]
+*** TURN *** [7h Ad Kc][4s]
+*** RIVER *** [7h Ad Kc 4s][3s]
+*** SHOW DOWN ***
+jm01 shows [Kh Ah] (Two pairs : Aces and Kings)
+Ovidius shows [As 9h] (One pair : Aces)
+Ovidius collected 37129 from side pot 1
+jm01 collected 26370 from main pot
+*** SUMMARY ***
+Total pot 63499 | No rake
+Board: [7h Ad Kc 4s 3s]
+Seat 1: Ovidius showed [As 9h] and won 37129 with One pair : Aces
+Seat 9: jm01 showed [Kh Ah] and won 26370 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 17 - HandId: #451858012970156505-44-1421356354 - Holdem no limit (160/800/1600) - 2015/01/15 21:12:34 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #6 is the button
+Seat 1: Ovidius (37129)
+Seat 2: Dark-Shines (40968)
+Seat 3: solo81 (6800)
+Seat 4: 44fred44 (36197)
+Seat 5: Geekz_Starz (42956)
+Seat 6: sabre_laser (43020)
+Seat 7: J.R clifford (13755)
+Seat 8: nanourepdom (570)
+Seat 9: jm01 (26370)
+*** ANTE/BLINDS ***
+J.R clifford posts ante 160
+nanourepdom posts ante 160
+Ovidius posts ante 160
+Dark-Shines posts ante 160
+solo81 posts ante 160
+44fred44 posts ante 160
+Geekz_Starz posts ante 160
+sabre_laser posts ante 160
+jm01 posts ante 160
+J.R clifford posts small blind 800
+nanourepdom posts big blind 410 and is all-in
+Dealt to sabre_laser [9c 4c]
+*** PRE-FLOP *** 
+jm01 folds
+Ovidius raises 2790 to 3200
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+*** FLOP *** [Qh Ad 5h]
+*** TURN *** [Qh Ad 5h][2h]
+*** RIVER *** [Qh Ad 5h 2h][2d]
+*** SHOW DOWN ***
+nanourepdom shows [8d Jd] (One pair : 2)
+Ovidius shows [Ac 3s] (Two pairs : Aces and 2)
+Ovidius collected 5850 from pot
+*** SUMMARY ***
+Total pot 5850 | No rake
+Board: [Qh Ad 5h 2h 2d]
+Seat 1: Ovidius showed [Ac 3s] and won 5850 with Two pairs : Aces and 2
+Seat 8: nanourepdom (big blind) showed [8d Jd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 17 - HandId: #451858012970156505-45-1421356406 - Holdem no limit (160/800/1600) - 2015/01/15 21:13:26 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #7 is the button
+Seat 1: Ovidius (39619)
+Seat 2: Dark-Shines (40808)
+Seat 3: solo81 (6640)
+Seat 4: 44fred44 (36037)
+Seat 5: Geekz_Starz (42796)
+Seat 6: sabre_laser (42860)
+Seat 7: J.R clifford (12795)
+Seat 8: wini74 (38214)
+Seat 9: jm01 (26210)
+*** ANTE/BLINDS ***
+jm01 posts ante 160
+Ovidius posts ante 160
+Dark-Shines posts ante 160
+solo81 posts ante 160
+44fred44 posts ante 160
+Geekz_Starz posts ante 160
+sabre_laser posts ante 160
+J.R clifford posts ante 160
+jm01 posts big blind 1600
+Dealt to sabre_laser [7s 9c]
+*** PRE-FLOP *** 
+Ovidius folds
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+jm01 collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Seat 9: jm01 (big blind) won 2880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 17 - HandId: #451858012970156505-46-1421356445 - Holdem no limit (160/800/1600) - 2015/01/15 21:14:05 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #8 is the button
+Seat 1: Ovidius (39459)
+Seat 2: Dark-Shines (40648)
+Seat 3: solo81 (6480)
+Seat 4: 44fred44 (35877)
+Seat 5: Geekz_Starz (42636)
+Seat 6: sabre_laser (42700)
+Seat 7: J.R clifford (12635)
+Seat 8: wini74 (38214)
+Seat 9: jm01 (27330)
+*** ANTE/BLINDS ***
+jm01 posts ante 160
+Ovidius posts ante 160
+Dark-Shines posts ante 160
+solo81 posts ante 160
+44fred44 posts ante 160
+Geekz_Starz posts ante 160
+sabre_laser posts ante 160
+J.R clifford posts ante 160
+jm01 posts small blind 800
+Ovidius posts big blind 1600
+Dealt to sabre_laser [Jd Jc]
+*** PRE-FLOP *** 
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz raises 1600 to 3200
+sabre_laser calls 3200
+J.R clifford folds
+jm01 calls 2400
+Ovidius calls 1600
+*** FLOP *** [3s 3h 2s]
+jm01 bets 1600
+Ovidius folds
+Geekz_Starz calls 1600
+sabre_laser raises 5600 to 7200
+jm01 calls 5600
+Geekz_Starz calls 5600
+*** TURN *** [3s 3h 2s][Js]
+jm01 checks
+Geekz_Starz checks
+sabre_laser checks
+*** RIVER *** [3s 3h 2s Js][6c]
+jm01 checks
+Geekz_Starz checks
+sabre_laser bets 11200
+jm01 calls 11200
+Geekz_Starz calls 11200
+*** SHOW DOWN ***
+Geekz_Starz shows [Ts Tc] (Two pairs : Tens and 3)
+jm01 shows [Kc 6s] (Two pairs : 6 and 3)
+sabre_laser shows [Jd Jc] (Full of Jacks and 3)
+sabre_laser collected 69280 from pot
+*** SUMMARY ***
+Total pot 69280 | No rake
+Board: [3s 3h 2s Js 6c]
+Seat 5: Geekz_Starz showed [Ts Tc] and lost with Two pairs : Tens and 3
+Seat 6: sabre_laser showed [Jd Jc] and won 69280 with Full of Jacks and 3
+Seat 9: jm01 (small blind) showed [Kc 6s] and lost with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 18 - HandId: #451858012970156505-47-1421356568 - Holdem no limit (200/1000/2000) - 2015/01/15 21:16:08 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #9 is the button
+Seat 1: Ovidius (36099)
+Seat 2: Dark-Shines (40488)
+Seat 3: solo81 (6320)
+Seat 4: 44fred44 (35717)
+Seat 5: Geekz_Starz (20876)
+Seat 6: sabre_laser (90220)
+Seat 7: J.R clifford (12475)
+Seat 8: wini74 (38214)
+Seat 9: jm01 (5570)
+*** ANTE/BLINDS ***
+Ovidius posts ante 200
+Dark-Shines posts ante 200
+solo81 posts ante 200
+44fred44 posts ante 200
+Geekz_Starz posts ante 200
+sabre_laser posts ante 200
+J.R clifford posts ante 200
+wini74 posts ante 200
+jm01 posts ante 200
+Ovidius posts small blind 1000
+Dark-Shines posts big blind 2000
+Dealt to sabre_laser [9h 6s]
+*** PRE-FLOP *** 
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+wini74 raises 6800 to 8800
+jm01 folds
+Ovidius calls 7800
+Dark-Shines folds
+*** FLOP *** [8c Ac 5c]
+Ovidius checks
+wini74 bets 10700
+Ovidius raises 16399 to 27099 and is all-in
+wini74 calls 16399
+*** TURN *** [8c Ac 5c][4d]
+*** RIVER *** [8c Ac 5c 4d][3s]
+*** SHOW DOWN ***
+wini74 shows [Kh Ks] (One pair : Kings)
+Ovidius shows [Jc 3c] (Flush Ace high)
+Ovidius collected 75598 from pot
+*** SUMMARY ***
+Total pot 75598 | No rake
+Board: [8c Ac 5c 4d 3s]
+Seat 1: Ovidius (small blind) showed [Jc 3c] and won 75598 with Flush Ace high
+Seat 8: wini74 showed [Kh Ks] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 18 - HandId: #451858012970156505-48-1421356646 - Holdem no limit (200/1000/2000) - 2015/01/15 21:17:26 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #1 is the button
+Seat 1: Ovidius (75598)
+Seat 2: Dark-Shines (38288)
+Seat 3: solo81 (6120)
+Seat 4: 44fred44 (35517)
+Seat 5: Geekz_Starz (20676)
+Seat 6: sabre_laser (90020)
+Seat 7: J.R clifford (12275)
+Seat 8: wini74 (2115)
+Seat 9: jm01 (5370)
+*** ANTE/BLINDS ***
+Dark-Shines posts ante 200
+solo81 posts ante 200
+Ovidius posts ante 200
+44fred44 posts ante 200
+Geekz_Starz posts ante 200
+sabre_laser posts ante 200
+J.R clifford posts ante 200
+wini74 posts ante 200
+jm01 posts ante 200
+Dark-Shines posts small blind 1000
+solo81 posts big blind 2000
+Dealt to sabre_laser [8s 9d]
+*** PRE-FLOP *** 
+44fred44 raises 33317 to 35317 and is all-in
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+wini74 folds
+jm01 folds
+Ovidius folds
+Dark-Shines folds
+solo81 folds
+44fred44 collected 40117 from pot
+*** SUMMARY ***
+Total pot 40117 | No rake
+Seat 4: 44fred44 won 40117
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 19 - HandId: #451858012970156505-49-1421356673 - Holdem no limit (250/1250/2500) - 2015/01/15 21:17:53 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #2 is the button
+Seat 1: Ovidius (75398)
+Seat 2: Dark-Shines (37088)
+Seat 3: solo81 (3920)
+Seat 4: 44fred44 (40117)
+Seat 5: Geekz_Starz (20476)
+Seat 6: sabre_laser (89820)
+Seat 7: J.R clifford (12075)
+Seat 8: wini74 (1915)
+Seat 9: jm01 (5170)
+*** ANTE/BLINDS ***
+solo81 posts ante 250
+44fred44 posts ante 250
+Ovidius posts ante 250
+Dark-Shines posts ante 250
+Geekz_Starz posts ante 250
+sabre_laser posts ante 250
+J.R clifford posts ante 250
+wini74 posts ante 250
+jm01 posts ante 250
+solo81 posts small blind 1250
+44fred44 posts big blind 2500
+Dealt to sabre_laser [5d Ts]
+*** PRE-FLOP *** 
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+wini74 folds
+jm01 folds
+Ovidius raises 20000 to 22500
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Ovidius collected 28500 from pot
+*** SUMMARY ***
+Total pot 28500 | No rake
+Seat 1: Ovidius won 28500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 19 - HandId: #451858012970156505-50-1421356713 - Holdem no limit (250/1250/2500) - 2015/01/15 21:18:33 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #3 is the button
+Seat 1: Ovidius (81148)
+Seat 2: Dark-Shines (36838)
+Seat 3: solo81 (2420)
+Seat 4: 44fred44 (37367)
+Seat 5: Geekz_Starz (20226)
+Seat 6: sabre_laser (89570)
+Seat 7: J.R clifford (11825)
+Seat 8: wini74 (1665)
+Seat 9: jm01 (4920)
+*** ANTE/BLINDS ***
+44fred44 posts ante 250
+Geekz_Starz posts ante 250
+Ovidius posts ante 250
+Dark-Shines posts ante 250
+solo81 posts ante 250
+sabre_laser posts ante 250
+J.R clifford posts ante 250
+wini74 posts ante 250
+jm01 posts ante 250
+44fred44 posts small blind 1250
+Geekz_Starz posts big blind 2500
+Dealt to sabre_laser [Qd 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+J.R clifford folds
+wini74 folds
+jm01 folds
+Ovidius folds
+Dark-Shines folds
+solo81 calls 2170 and is all-in
+44fred44 raises 34617 to 37117 and is all-in
+Geekz_Starz folds
+*** FLOP *** [Ah Qc Ad]
+*** TURN *** [Ah Qc Ad][4h]
+*** RIVER *** [Ah Qc Ad 4h][Kh]
+*** SHOW DOWN ***
+solo81 shows [Qh Td] (Two pairs : Aces and Queens)
+44fred44 shows [Th Qs] (Two pairs : Aces and Queens)
+44fred44 collected 39657 from side pot 1
+solo81 collected 4380 from main pot
+*** SUMMARY ***
+Total pot 44037 | No rake
+Board: [Ah Qc Ad 4h Kh]
+Seat 3: solo81 (button) showed [Qh Td] and won 4380 with Two pairs : Aces and Queens
+Seat 4: 44fred44 (small blind) showed [Th Qs] and won 39657 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 19 - HandId: #451858012970156505-51-1421356760 - Holdem no limit (250/1250/2500) - 2015/01/15 21:19:20 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #4 is the button
+Seat 1: Ovidius (80898)
+Seat 2: Dark-Shines (36588)
+Seat 3: solo81 (4380)
+Seat 4: 44fred44 (39657)
+Seat 5: Geekz_Starz (17476)
+Seat 6: sabre_laser (89320)
+Seat 7: J.R clifford (11575)
+Seat 8: wini74 (1415)
+Seat 9: jm01 (4670)
+*** ANTE/BLINDS ***
+Geekz_Starz posts ante 250
+sabre_laser posts ante 250
+Ovidius posts ante 250
+Dark-Shines posts ante 250
+solo81 posts ante 250
+44fred44 posts ante 250
+J.R clifford posts ante 250
+wini74 posts ante 250
+jm01 posts ante 250
+Geekz_Starz posts small blind 1250
+sabre_laser posts big blind 2500
+Dealt to sabre_laser [Ts 6s]
+*** PRE-FLOP *** 
+J.R clifford folds
+wini74 calls 1165 and is all-in
+jm01 folds
+Ovidius raises 2500 to 5000
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser calls 2500
+*** FLOP *** [8d 2h Tc]
+sabre_laser bets 9777
+Ovidius calls 9777
+*** TURN *** [8d 2h Tc][4s]
+sabre_laser checks
+Ovidius checks
+*** RIVER *** [8d 2h Tc 4s][9c]
+sabre_laser bets 10000
+Ovidius calls 10000
+*** SHOW DOWN ***
+Ovidius shows [9d Ah] (One pair : 9)
+wini74 shows [5d Qh] (High card : Queen)
+sabre_laser shows [Ts 6s] (One pair : Tens)
+sabre_laser collected 54219 from pot
+*** SUMMARY ***
+Total pot 54219 | No rake
+Board: [8d 2h Tc 4s 9c]
+Seat 1: Ovidius showed [9d Ah] and lost with One pair : 9
+Seat 6: sabre_laser (big blind) showed [Ts 6s] and won 54219 with One pair : Tens
+Seat 8: wini74 showed [5d Qh] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 20 - HandId: #451858012970156505-52-1421356864 - Holdem no limit (350/1500/3000) - 2015/01/15 21:21:04 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #5 is the button
+Seat 1: Ovidius (55871)
+Seat 2: Dark-Shines (36338)
+Seat 3: solo81 (4130)
+Seat 4: 44fred44 (39407)
+Seat 5: Geekz_Starz (15976)
+Seat 6: sabre_laser (118512)
+Seat 7: J.R clifford (11325)
+Seat 8: alexisalexis (42953)
+Seat 9: jm01 (4420)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 350
+J.R clifford posts ante 350
+Ovidius posts ante 350
+Dark-Shines posts ante 350
+solo81 posts ante 350
+44fred44 posts ante 350
+Geekz_Starz posts ante 350
+alexisalexis posts ante 350
+jm01 posts ante 350
+sabre_laser posts small blind 1500
+J.R clifford posts big blind 3000
+Dealt to sabre_laser [7d 8h]
+*** PRE-FLOP *** 
+alexisalexis folds
+jm01 folds
+Ovidius folds
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser raises 3000 to 6000
+J.R clifford folds
+sabre_laser collected 12150 from pot
+*** SUMMARY ***
+Total pot 12150 | No rake
+Seat 6: sabre_laser (small blind) won 12150
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 20 - HandId: #451858012970156505-53-1421356920 - Holdem no limit (350/1500/3000) - 2015/01/15 21:22:00 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #6 is the button
+Seat 1: Ovidius (55521)
+Seat 2: Dark-Shines (35988)
+Seat 3: solo81 (3780)
+Seat 4: 44fred44 (39057)
+Seat 5: Geekz_Starz (15626)
+Seat 6: sabre_laser (124312)
+Seat 7: J.R clifford (7975)
+Seat 8: alexisalexis (42603)
+Seat 9: jm01 (4070)
+*** ANTE/BLINDS ***
+J.R clifford posts ante 350
+alexisalexis posts ante 350
+Ovidius posts ante 350
+Dark-Shines posts ante 350
+solo81 posts ante 350
+44fred44 posts ante 350
+Geekz_Starz posts ante 350
+sabre_laser posts ante 350
+jm01 posts ante 350
+J.R clifford posts small blind 1500
+alexisalexis posts big blind 3000
+Dealt to sabre_laser [8h Ts]
+*** PRE-FLOP *** 
+jm01 folds
+Ovidius folds
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+alexisalexis collected 7650 from pot
+*** SUMMARY ***
+Total pot 7650 | No rake
+Seat 8: alexisalexis (big blind) won 7650
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 20 - HandId: #451858012970156505-54-1421356964 - Holdem no limit (350/1500/3000) - 2015/01/15 21:22:44 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #7 is the button
+Seat 1: Ovidius (55171)
+Seat 2: Dark-Shines (35638)
+Seat 3: solo81 (3430)
+Seat 4: 44fred44 (38707)
+Seat 5: Geekz_Starz (15276)
+Seat 6: sabre_laser (123962)
+Seat 7: J.R clifford (6125)
+Seat 8: alexisalexis (46903)
+Seat 9: jm01 (3720)
+*** ANTE/BLINDS ***
+alexisalexis posts ante 350
+jm01 posts ante 350
+Ovidius posts ante 350
+Dark-Shines posts ante 350
+solo81 posts ante 350
+44fred44 posts ante 350
+Geekz_Starz posts ante 350
+sabre_laser posts ante 350
+J.R clifford posts ante 350
+alexisalexis posts small blind 1500
+jm01 posts big blind 3000
+Dealt to sabre_laser [5d 9s]
+*** PRE-FLOP *** 
+Ovidius raises 3000 to 6000
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+alexisalexis folds
+jm01 calls 370 and is all-in
+*** FLOP *** [Js Ac Qc]
+*** TURN *** [Js Ac Qc][Qh]
+*** RIVER *** [Js Ac Qc Qh][7s]
+*** SHOW DOWN ***
+jm01 shows [Ah 8s] (Two pairs : Aces and Queens)
+Ovidius shows [8c Ks] (One pair : Queens)
+Ovidius collected 2630 from side pot 1
+jm01 collected 11390 from main pot
+*** SUMMARY ***
+Total pot 14020 | No rake
+Board: [Js Ac Qc Qh 7s]
+Seat 1: Ovidius showed [8c Ks] and won 2630 with One pair : Queens
+Seat 9: jm01 (big blind) showed [Ah 8s] and won 11390 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 21 - HandId: #451858012970156505-55-1421357023 - Holdem no limit (400/2000/4000) - 2015/01/15 21:23:43 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #8 is the button
+Seat 1: Ovidius (51451)
+Seat 2: Dark-Shines (35288)
+Seat 3: solo81 (3080)
+Seat 4: 44fred44 (38357)
+Seat 5: Geekz_Starz (14926)
+Seat 6: sabre_laser (123612)
+Seat 7: J.R clifford (5775)
+Seat 8: alexisalexis (45053)
+Seat 9: jm01 (11390)
+*** ANTE/BLINDS ***
+jm01 posts ante 400
+Ovidius posts ante 400
+Dark-Shines posts ante 400
+solo81 posts ante 400
+44fred44 posts ante 400
+Geekz_Starz posts ante 400
+sabre_laser posts ante 400
+J.R clifford posts ante 400
+alexisalexis posts ante 400
+jm01 posts small blind 2000
+Ovidius posts big blind 4000
+Dealt to sabre_laser [4d 5c]
+*** PRE-FLOP *** 
+Dark-Shines folds
+solo81 folds
+44fred44 folds
+Geekz_Starz folds
+sabre_laser folds
+J.R clifford folds
+alexisalexis folds
+jm01 calls 2000
+Ovidius checks
+*** FLOP *** [Ad Qc 6c]
+jm01 checks
+Ovidius checks
+*** TURN *** [Ad Qc 6c][5d]
+jm01 checks
+Ovidius checks
+*** RIVER *** [Ad Qc 6c 5d][8s]
+jm01 checks
+Ovidius bets 4000
+jm01 folds
+Ovidius collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Board: [Ad Qc 6c 5d 8s]
+Seat 1: Ovidius (big blind) won 15600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 22 - HandId: #451858012970156505-56-1421357265 - Holdem no limit (500/2500/5000) - 2015/01/15 21:27:45 UTC
+Table: 'Freeroll(105206392)#472' 9-max (real money) Seat #9 is the button
+Seat 1: Ovidius (58651)
+Seat 2: Dark-Shines (34888)
+Seat 3: solo81 (2680)
+Seat 4: 44fred44 (37957)
+Seat 5: Geekz_Starz (14526)
+Seat 6: sabre_laser (123212)
+Seat 7: J.R clifford (5375)
+Seat 8: alexisalexis (44653)
+Seat 9: jm01 (6990)
+*** ANTE/BLINDS ***
+Ovidius posts ante 500
+Dark-Shines posts ante 500
+solo81 posts ante 500
+44fred44 posts ante 500
+Geekz_Starz posts ante 500
+sabre_laser posts ante 500
+J.R clifford posts ante 500
+alexisalexis posts ante 500
+jm01 posts ante 500
+Ovidius posts small blind 2500
+Dark-Shines posts big blind 5000
+Dealt to sabre_laser [7c 7s]
+*** PRE-FLOP *** 
+solo81 calls 2180 and is all-in
+44fred44 folds
+Geekz_Starz folds
+sabre_laser raises 7500 to 12500
+J.R clifford folds
+alexisalexis folds
+jm01 folds
+Ovidius folds
+Dark-Shines folds
+*** FLOP *** [6c 4s Js]
+*** TURN *** [6c 4s Js][2d]
+*** RIVER *** [6c 4s Js 2d][Qc]
+*** SHOW DOWN ***
+solo81 shows [9d 8c] (High card : Queen)
+sabre_laser shows [7c 7s] (One pair : 7)
+sabre_laser collected 26680 from pot
+*** SUMMARY ***
+Total pot 26680 | No rake
+Board: [6c 4s Js 2d Qc]
+Seat 3: solo81 showed [9d 8c] and lost with High card : Queen
+Seat 6: sabre_laser showed [7c 7s] and won 26680 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 23 - HandId: #451858012970156581-60-1421357380 - Holdem no limit (700/3000/6000) - 2015/01/15 21:29:40 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #7 is the button
+Seat 1: Nobrux34 (30365)
+Seat 2: manilacuenta (18945)
+Seat 3: Anthonina (277878)
+Seat 4: tchi-tchi66 (55493)
+Seat 5: wutuwata (41770)
+Seat 6: ruben40191 (63936)
+Seat 7: sabre_laser (136892)
+Seat 8: ferata07 (113792)
+Seat 9: zezettedu86 (23960)
+*** ANTE/BLINDS ***
+ferata07 posts ante 700
+zezettedu86 posts ante 700
+Nobrux34 posts ante 700
+manilacuenta posts ante 700
+Anthonina posts ante 700
+tchi-tchi66 posts ante 700
+wutuwata posts ante 700
+ferata07 posts small blind 3000
+zezettedu86 posts big blind 6000
+*** PRE-FLOP *** 
+Nobrux34 raises 23665 to 29665 and is all-in
+manilacuenta folds
+Anthonina folds
+tchi-tchi66 folds
+wutuwata folds
+ferata07 calls 26665
+zezettedu86 folds
+*** FLOP *** [8c Jd 8h]
+*** TURN *** [8c Jd 8h][7c]
+*** RIVER *** [8c Jd 8h 7c][Ts]
+*** SHOW DOWN ***
+Nobrux34 shows [Kd Ah] (One pair : 8)
+ferata07 shows [Kc Th] (Two pairs : Tens and 8)
+ferata07 collected 70230 from pot
+*** SUMMARY ***
+Total pot 70230 | No rake
+Board: [8c Jd 8h 7c Ts]
+Seat 1: Nobrux34 showed [Kd Ah] and lost with One pair : 8
+Seat 8: ferata07 (small blind) showed [Kc Th] and won 70230 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 23 - HandId: #451858012970156581-61-1421357410 - Holdem no limit (700/3000/6000) - 2015/01/15 21:30:10 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #8 is the button
+Seat 2: manilacuenta (18245)
+Seat 3: Anthonina (277178)
+Seat 4: tchi-tchi66 (54793)
+Seat 5: wutuwata (41070)
+Seat 6: ruben40191 (63936)
+Seat 7: sabre_laser (136892)
+Seat 8: ferata07 (153657)
+Seat 9: zezettedu86 (17260)
+*** ANTE/BLINDS ***
+zezettedu86 posts ante 700
+manilacuenta posts ante 700
+Anthonina posts ante 700
+tchi-tchi66 posts ante 700
+wutuwata posts ante 700
+ruben40191 posts ante 700
+sabre_laser posts ante 700
+ferata07 posts ante 700
+zezettedu86 posts small blind 3000
+manilacuenta posts big blind 6000
+Dealt to sabre_laser [9h 4c]
+*** PRE-FLOP *** 
+Anthonina folds
+tchi-tchi66 raises 48093 to 54093 and is all-in
+wutuwata folds
+ruben40191 folds
+sabre_laser folds
+ferata07 folds
+zezettedu86 folds
+manilacuenta folds
+tchi-tchi66 collected 68693 from pot
+*** SUMMARY ***
+Total pot 68693 | No rake
+Seat 4: tchi-tchi66 won 68693
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 23 - HandId: #451858012970156581-62-1421357458 - Holdem no limit (700/3000/6000) - 2015/01/15 21:30:58 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #9 is the button
+Seat 1: NonoArdetcho (62768)
+Seat 2: manilacuenta (11545)
+Seat 3: Anthonina (276478)
+Seat 4: tchi-tchi66 (68693)
+Seat 5: wutuwata (40370)
+Seat 6: ruben40191 (63236)
+Seat 7: sabre_laser (136192)
+Seat 8: ferata07 (152957)
+Seat 9: zezettedu86 (13560)
+*** ANTE/BLINDS ***
+manilacuenta posts ante 700
+Anthonina posts ante 700
+tchi-tchi66 posts ante 700
+wutuwata posts ante 700
+ruben40191 posts ante 700
+sabre_laser posts ante 700
+ferata07 posts ante 700
+zezettedu86 posts ante 700
+manilacuenta posts small blind 3000
+Anthonina posts big blind 6000
+Dealt to sabre_laser [2d 4d]
+*** PRE-FLOP *** 
+tchi-tchi66 folds
+wutuwata folds
+ruben40191 folds
+sabre_laser folds
+ferata07 folds
+zezettedu86 raises 6000 to 12000
+manilacuenta folds
+Anthonina calls 6000
+*** FLOP *** [7s Qc 5s]
+Anthonina bets 6000
+zezettedu86 calls 860 and is all-in
+*** TURN *** [7s Qc 5s][Tc]
+*** RIVER *** [7s Qc 5s Tc][7d]
+*** SHOW DOWN ***
+zezettedu86 shows [Td Th] (Full of Tens and 7)
+Anthonina shows [4c 8s] (One pair : 7)
+Anthonina collected 5140 from side pot 1
+zezettedu86 collected 34320 from main pot
+*** SUMMARY ***
+Total pot 39460 | No rake
+Board: [7s Qc 5s Tc 7d]
+Seat 3: Anthonina (big blind) showed [4c 8s] and won 5140 with One pair : 7
+Seat 9: zezettedu86 (button) showed [Td Th] and won 34320 with Full of Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 23 - HandId: #451858012970156581-63-1421357522 - Holdem no limit (700/3000/6000) - 2015/01/15 21:32:02 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #2 is the button
+Seat 1: NonoArdetcho (62768)
+Seat 2: manilacuenta (7845)
+Seat 3: Anthonina (262918)
+Seat 4: tchi-tchi66 (67993)
+Seat 5: wutuwata (39670)
+Seat 6: ruben40191 (62536)
+Seat 7: sabre_laser (135492)
+Seat 8: ferata07 (152257)
+Seat 9: zezettedu86 (34320)
+*** ANTE/BLINDS ***
+Anthonina posts ante 700
+tchi-tchi66 posts ante 700
+NonoArdetcho posts ante 700
+manilacuenta posts ante 700
+wutuwata posts ante 700
+ruben40191 posts ante 700
+sabre_laser posts ante 700
+ferata07 posts ante 700
+zezettedu86 posts ante 700
+Anthonina posts small blind 3000
+tchi-tchi66 posts big blind 6000
+Dealt to sabre_laser [4h Qc]
+*** PRE-FLOP *** 
+wutuwata folds
+ruben40191 raises 24000 to 30000
+sabre_laser folds
+ferata07 folds
+zezettedu86 folds
+NonoArdetcho folds
+manilacuenta calls 7145 and is all-in
+Anthonina folds
+tchi-tchi66 folds
+*** FLOP *** [2s 7h Jh]
+*** TURN *** [2s 7h Jh][4s]
+*** RIVER *** [2s 7h Jh 4s][2d]
+*** SHOW DOWN ***
+manilacuenta shows [5d Kd] (One pair : 2)
+ruben40191 shows [Ks Kc] (Two pairs : Kings and 2)
+ruben40191 collected 52445 from pot
+*** SUMMARY ***
+Total pot 52445 | No rake
+Board: [2s 7h Jh 4s 2d]
+Seat 2: manilacuenta (button) showed [5d Kd] and lost with One pair : 2
+Seat 6: ruben40191 showed [Ks Kc] and won 52445 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 24 - HandId: #451858012970156581-64-1421357567 - Holdem no limit (800/4000/8000) - 2015/01/15 21:32:47 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #3 is the button
+Seat 1: NonoArdetcho (62068)
+Seat 3: Anthonina (259218)
+Seat 4: tchi-tchi66 (61293)
+Seat 5: wutuwata (38970)
+Seat 6: ruben40191 (84281)
+Seat 7: sabre_laser (134792)
+Seat 8: ferata07 (151557)
+Seat 9: zezettedu86 (33620)
+*** ANTE/BLINDS ***
+tchi-tchi66 posts ante 800
+wutuwata posts ante 800
+NonoArdetcho posts ante 800
+Anthonina posts ante 800
+ruben40191 posts ante 800
+sabre_laser posts ante 800
+ferata07 posts ante 800
+zezettedu86 posts ante 800
+tchi-tchi66 posts small blind 4000
+wutuwata posts big blind 8000
+Dealt to sabre_laser [Kh Qd]
+*** PRE-FLOP *** 
+ruben40191 folds
+sabre_laser folds
+ferata07 folds
+zezettedu86 folds
+NonoArdetcho folds
+Anthonina calls 8000
+tchi-tchi66 calls 4000
+wutuwata checks
+*** FLOP *** [5h 7h Kc]
+tchi-tchi66 checks
+wutuwata checks
+Anthonina bets 30400
+tchi-tchi66 folds
+wutuwata folds
+Anthonina collected 60800 from pot
+*** SUMMARY ***
+Total pot 60800 | No rake
+Board: [5h 7h Kc]
+Seat 3: Anthonina (button) won 60800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 24 - HandId: #451858012970156581-65-1421357654 - Holdem no limit (800/4000/8000) - 2015/01/15 21:34:14 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #4 is the button
+Seat 1: NonoArdetcho (61268)
+Seat 2: erwin011 (52095)
+Seat 3: Anthonina (280818)
+Seat 4: tchi-tchi66 (52493)
+Seat 5: wutuwata (30170)
+Seat 6: ruben40191 (83481)
+Seat 7: sabre_laser (133992)
+Seat 8: ferata07 (150757)
+Seat 9: zezettedu86 (32820)
+*** ANTE/BLINDS ***
+wutuwata posts ante 800
+ruben40191 posts ante 800
+NonoArdetcho posts ante 800
+erwin011 posts ante 800
+Anthonina posts ante 800
+tchi-tchi66 posts ante 800
+sabre_laser posts ante 800
+ferata07 posts ante 800
+zezettedu86 posts ante 800
+wutuwata posts small blind 4000
+ruben40191 posts big blind 8000
+Dealt to sabre_laser [Kd Jh]
+*** PRE-FLOP *** 
+sabre_laser raises 8000 to 16000
+ferata07 folds
+zezettedu86 folds
+NonoArdetcho folds
+erwin011 folds
+Anthonina folds
+tchi-tchi66 folds
+wutuwata folds
+ruben40191 folds
+sabre_laser collected 35200 from pot
+*** SUMMARY ***
+Total pot 35200 | No rake
+Seat 7: sabre_laser won 35200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 24 - HandId: #451858012970156581-66-1421357698 - Holdem no limit (800/4000/8000) - 2015/01/15 21:34:58 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #5 is the button
+Seat 1: NonoArdetcho (60468)
+Seat 2: erwin011 (51295)
+Seat 3: Anthonina (280018)
+Seat 4: tchi-tchi66 (51693)
+Seat 5: wutuwata (25370)
+Seat 6: ruben40191 (74681)
+Seat 7: sabre_laser (152392)
+Seat 8: ferata07 (149957)
+Seat 9: zezettedu86 (32020)
+*** ANTE/BLINDS ***
+ruben40191 posts ante 800
+sabre_laser posts ante 800
+NonoArdetcho posts ante 800
+erwin011 posts ante 800
+Anthonina posts ante 800
+tchi-tchi66 posts ante 800
+wutuwata posts ante 800
+ferata07 posts ante 800
+zezettedu86 posts ante 800
+ruben40191 posts small blind 4000
+sabre_laser posts big blind 8000
+Dealt to sabre_laser [Js 8h]
+*** PRE-FLOP *** 
+ferata07 raises 16000 to 24000
+zezettedu86 folds
+NonoArdetcho folds
+erwin011 folds
+Anthonina folds
+tchi-tchi66 folds
+wutuwata folds
+ruben40191 folds
+sabre_laser folds
+ferata07 collected 43200 from pot
+*** SUMMARY ***
+Total pot 43200 | No rake
+Seat 8: ferata07 won 43200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 25 - HandId: #451858012970156581-67-1421357744 - Holdem no limit (1000/5000/10000) - 2015/01/15 21:35:44 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #6 is the button
+Seat 1: NonoArdetcho (59668)
+Seat 2: erwin011 (50495)
+Seat 3: Anthonina (279218)
+Seat 4: tchi-tchi66 (50893)
+Seat 5: wutuwata (24570)
+Seat 6: ruben40191 (69881)
+Seat 7: sabre_laser (143592)
+Seat 8: ferata07 (168357)
+Seat 9: zezettedu86 (31220)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 1000
+ferata07 posts ante 1000
+NonoArdetcho posts ante 1000
+erwin011 posts ante 1000
+Anthonina posts ante 1000
+tchi-tchi66 posts ante 1000
+wutuwata posts ante 1000
+ruben40191 posts ante 1000
+zezettedu86 posts ante 1000
+sabre_laser posts small blind 5000
+ferata07 posts big blind 10000
+Dealt to sabre_laser [7d 4s]
+*** PRE-FLOP *** 
+zezettedu86 folds
+NonoArdetcho folds
+erwin011 folds
+Anthonina calls 10000
+tchi-tchi66 folds
+wutuwata folds
+ruben40191 folds
+sabre_laser folds
+ferata07 checks
+*** FLOP *** [5d 8c Ts]
+ferata07 bets 20000
+Anthonina calls 20000
+*** TURN *** [5d 8c Ts][Qs]
+ferata07 bets 20000
+Anthonina calls 20000
+*** RIVER *** [5d 8c Ts Qs][2s]
+ferata07 checks
+Anthonina bets 114000
+ferata07 calls 114000
+*** SHOW DOWN ***
+Anthonina shows [2h Ah] (One pair : 2)
+ferata07 shows [Kc Th] (One pair : Tens)
+ferata07 collected 342000 from pot
+*** SUMMARY ***
+Total pot 342000 | No rake
+Board: [5d 8c Ts Qs 2s]
+Seat 3: Anthonina showed [2h Ah] and lost with One pair : 2
+Seat 8: ferata07 (big blind) showed [Kc Th] and won 342000 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 25 - HandId: #451858012970156581-68-1421357827 - Holdem no limit (1000/5000/10000) - 2015/01/15 21:37:07 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #7 is the button
+Seat 1: NonoArdetcho (58668)
+Seat 2: erwin011 (49495)
+Seat 3: Anthonina (114218)
+Seat 4: tchi-tchi66 (49893)
+Seat 5: wutuwata (23570)
+Seat 6: ruben40191 (68881)
+Seat 7: sabre_laser (137592)
+Seat 8: ferata07 (345357)
+Seat 9: zezettedu86 (30220)
+*** ANTE/BLINDS ***
+ferata07 posts ante 1000
+zezettedu86 posts ante 1000
+NonoArdetcho posts ante 1000
+erwin011 posts ante 1000
+Anthonina posts ante 1000
+tchi-tchi66 posts ante 1000
+wutuwata posts ante 1000
+ruben40191 posts ante 1000
+sabre_laser posts ante 1000
+ferata07 posts small blind 5000
+zezettedu86 posts big blind 10000
+Dealt to sabre_laser [7d Ad]
+*** PRE-FLOP *** 
+NonoArdetcho raises 47668 to 57668 and is all-in
+erwin011 folds
+Anthonina calls 57668
+tchi-tchi66 folds
+wutuwata folds
+ruben40191 folds
+sabre_laser folds
+ferata07 folds
+zezettedu86 calls 19220 and is all-in
+*** FLOP *** [4d 8c 2d]
+*** TURN *** [4d 8c 2d][9s]
+*** RIVER *** [4d 8c 2d 9s][Kh]
+*** SHOW DOWN ***
+Anthonina shows [Tc 7c] (High card : King)
+zezettedu86 shows [Jh 6s] (High card : King)
+NonoArdetcho shows [As 3s] (High card : Ace)
+NonoArdetcho collected 158556 from pot
+*** SUMMARY ***
+Total pot 158556 | No rake
+Board: [4d 8c 2d 9s Kh]
+Seat 1: NonoArdetcho showed [As 3s] and won 158556 with High card : Ace
+Seat 3: Anthonina showed [Tc 7c] and lost with High card : King
+Seat 9: zezettedu86 (big blind) showed [Jh 6s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 25 - HandId: #451858012970156581-69-1421357896 - Holdem no limit (1000/5000/10000) - 2015/01/15 21:38:16 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #8 is the button
+Seat 1: NonoArdetcho (158556)
+Seat 2: erwin011 (48495)
+Seat 3: Anthonina (55550)
+Seat 4: tchi-tchi66 (48893)
+Seat 5: wutuwata (22570)
+Seat 6: ruben40191 (67881)
+Seat 7: sabre_laser (136592)
+Seat 8: ferata07 (339357)
+Seat 9: dani call (233269)
+*** ANTE/BLINDS ***
+NonoArdetcho posts ante 1000
+erwin011 posts ante 1000
+Anthonina posts ante 1000
+tchi-tchi66 posts ante 1000
+wutuwata posts ante 1000
+ruben40191 posts ante 1000
+sabre_laser posts ante 1000
+ferata07 posts ante 1000
+NonoArdetcho posts big blind 10000
+Dealt to sabre_laser [Qs 5s]
+*** PRE-FLOP *** 
+erwin011 folds
+Anthonina folds
+tchi-tchi66 folds
+wutuwata folds
+ruben40191 folds
+sabre_laser folds
+ferata07 calls 10000
+NonoArdetcho raises 147556 to 157556 and is all-in
+ferata07 folds
+NonoArdetcho shows [Th Tc] (One pair : Tens)
+NonoArdetcho collected 175556 from pot
+*** SUMMARY ***
+Total pot 175556 | No rake
+Seat 1: NonoArdetcho (big blind) showed [Th Tc] and won 175556 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 26 - HandId: #451858012970156581-70-1421357954 - Holdem no limit (1350/6000/12000) - 2015/01/15 21:39:14 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #9 is the button
+Seat 1: NonoArdetcho (175556)
+Seat 2: erwin011 (47495)
+Seat 3: Anthonina (54550)
+Seat 4: tchi-tchi66 (47893)
+Seat 5: wutuwata (21570)
+Seat 6: ruben40191 (66881)
+Seat 7: sabre_laser (135592)
+Seat 8: ferata07 (328357)
+Seat 9: dani call (233269)
+*** ANTE/BLINDS ***
+NonoArdetcho posts ante 1350
+erwin011 posts ante 1350
+Anthonina posts ante 1350
+tchi-tchi66 posts ante 1350
+wutuwata posts ante 1350
+ruben40191 posts ante 1350
+sabre_laser posts ante 1350
+ferata07 posts ante 1350
+NonoArdetcho posts small blind 6000
+erwin011 posts big blind 12000
+Dealt to sabre_laser [7c Jh]
+*** PRE-FLOP *** 
+Anthonina folds
+tchi-tchi66 raises 34543 to 46543 and is all-in
+wutuwata folds
+ruben40191 folds
+sabre_laser folds
+ferata07 folds
+NonoArdetcho folds
+erwin011 folds
+tchi-tchi66 collected 75343 from pot
+*** SUMMARY ***
+Total pot 75343 | No rake
+Seat 4: tchi-tchi66 won 75343
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 26 - HandId: #451858012970156581-71-1421358014 - Holdem no limit (1350/6000/12000) - 2015/01/15 21:40:14 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #1 is the button
+Seat 1: NonoArdetcho (168206)
+Seat 2: erwin011 (34145)
+Seat 3: Anthonina (53200)
+Seat 4: tchi-tchi66 (75343)
+Seat 5: wutuwata (20220)
+Seat 6: ruben40191 (65531)
+Seat 7: sabre_laser (134242)
+Seat 8: ferata07 (327007)
+Seat 9: dani call (233269)
+*** ANTE/BLINDS ***
+erwin011 posts ante 1350
+Anthonina posts ante 1350
+NonoArdetcho posts ante 1350
+tchi-tchi66 posts ante 1350
+wutuwata posts ante 1350
+ruben40191 posts ante 1350
+sabre_laser posts ante 1350
+ferata07 posts ante 1350
+dani call posts ante 1350
+erwin011 posts small blind 6000
+Anthonina posts big blind 12000
+Dealt to sabre_laser [3c 7d]
+*** PRE-FLOP *** 
+tchi-tchi66 folds
+wutuwata folds
+ruben40191 raises 24000 to 36000
+sabre_laser folds
+ferata07 folds
+dani call folds
+NonoArdetcho folds
+erwin011 calls 26795 and is all-in
+Anthonina folds
+*** FLOP *** [Ad 3s Qd]
+*** TURN *** [Ad 3s Qd][Ks]
+*** RIVER *** [Ad 3s Qd Ks][8h]
+*** SHOW DOWN ***
+erwin011 shows [Ah Jd] (One pair : Aces)
+ruben40191 shows [4c Ac] (One pair : Aces)
+ruben40191 collected 3205 from side pot 1
+erwin011 collected 89740 from main pot
+*** SUMMARY ***
+Total pot 92945 | No rake
+Board: [Ad 3s Qd Ks 8h]
+Seat 2: erwin011 (small blind) showed [Ah Jd] and won 89740 with One pair : Aces
+Seat 6: ruben40191 showed [4c Ac] and won 3205 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 26 - HandId: #451858012970156581-72-1421358075 - Holdem no limit (1350/6000/12000) - 2015/01/15 21:41:15 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #2 is the button
+Seat 1: NonoArdetcho (166856)
+Seat 2: erwin011 (89740)
+Seat 3: Anthonina (39850)
+Seat 4: tchi-tchi66 (73993)
+Seat 5: wutuwata (18870)
+Seat 6: ruben40191 (31386)
+Seat 7: sabre_laser (132892)
+Seat 8: ferata07 (325657)
+Seat 9: dani call (231919)
+*** ANTE/BLINDS ***
+Anthonina posts ante 1350
+tchi-tchi66 posts ante 1350
+NonoArdetcho posts ante 1350
+erwin011 posts ante 1350
+wutuwata posts ante 1350
+ruben40191 posts ante 1350
+sabre_laser posts ante 1350
+ferata07 posts ante 1350
+dani call posts ante 1350
+Anthonina posts small blind 6000
+tchi-tchi66 posts big blind 12000
+Dealt to sabre_laser [Qs 5d]
+*** PRE-FLOP *** 
+wutuwata folds
+ruben40191 raises 18036 to 30036 and is all-in
+sabre_laser folds
+ferata07 folds
+dani call folds
+NonoArdetcho folds
+erwin011 folds
+Anthonina folds
+tchi-tchi66 calls 18036
+*** FLOP *** [2d Jd 4d]
+*** TURN *** [2d Jd 4d][6c]
+*** RIVER *** [2d Jd 4d 6c][8d]
+*** SHOW DOWN ***
+tchi-tchi66 shows [Th 9h] (High card : Jack)
+ruben40191 shows [3d Ad] (Flush Ace high)
+ruben40191 collected 78222 from pot
+*** SUMMARY ***
+Total pot 78222 | No rake
+Board: [2d Jd 4d 6c 8d]
+Seat 4: tchi-tchi66 (big blind) showed [Th 9h] and lost with High card : Jack
+Seat 6: ruben40191 showed [3d Ad] and won 78222 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 27 - HandId: #451858012970156581-73-1421358122 - Holdem no limit (1600/8000/16000) - 2015/01/15 21:42:02 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #3 is the button
+Seat 1: NonoArdetcho (165506)
+Seat 2: erwin011 (88390)
+Seat 3: Anthonina (32500)
+Seat 4: tchi-tchi66 (42607)
+Seat 5: wutuwata (17520)
+Seat 6: ruben40191 (78222)
+Seat 7: sabre_laser (131542)
+Seat 8: ferata07 (324307)
+Seat 9: dani call (230569)
+*** ANTE/BLINDS ***
+tchi-tchi66 posts ante 1600
+wutuwata posts ante 1600
+NonoArdetcho posts ante 1600
+erwin011 posts ante 1600
+Anthonina posts ante 1600
+ruben40191 posts ante 1600
+sabre_laser posts ante 1600
+ferata07 posts ante 1600
+dani call posts ante 1600
+tchi-tchi66 posts small blind 8000
+wutuwata posts big blind 15920 and is all-in
+Dealt to sabre_laser [Qh 8s]
+*** PRE-FLOP *** 
+ruben40191 folds
+sabre_laser folds
+ferata07 folds
+dani call folds
+NonoArdetcho raises 72080 to 88000
+erwin011 folds
+Anthonina calls 30900 and is all-in
+tchi-tchi66 calls 33007 and is all-in
+*** FLOP *** [Th Jd Td]
+*** TURN *** [Th Jd Td][8d]
+*** RIVER *** [Th Jd Td 8d][3s]
+*** SHOW DOWN ***
+wutuwata shows [Kc 3c] (Two pairs : Tens and 3)
+Anthonina shows [As Ts] (Trips of Tens)
+tchi-tchi66 shows [Kd Kh] (Two pairs : Kings and Tens)
+NonoArdetcho shows [Qd Qs] (Two pairs : Queens and Tens)
+NonoArdetcho collected 46993 from side pot 2
+tchi-tchi66 collected 20214 from side pot 1
+Anthonina collected 123020 from main pot
+*** SUMMARY ***
+Total pot 190227 | No rake
+Board: [Th Jd Td 8d 3s]
+Seat 1: NonoArdetcho showed [Qd Qs] and won 46993 with Two pairs : Queens and Tens
+Seat 3: Anthonina (button) showed [As Ts] and won 123020 with Trips of Tens
+Seat 4: tchi-tchi66 (small blind) showed [Kd Kh] and won 20214 with Two pairs : Kings and Tens
+Seat 5: wutuwata (big blind) showed [Kc 3c] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 27 - HandId: #451858012970156581-74-1421358251 - Holdem no limit (1600/8000/16000) - 2015/01/15 21:44:11 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #4 is the button
+Seat 1: NonoArdetcho (122899)
+Seat 2: erwin011 (86790)
+Seat 3: Anthonina (123020)
+Seat 4: tchi-tchi66 (20214)
+Seat 6: ruben40191 (76622)
+Seat 7: sabre_laser (129942)
+Seat 8: ferata07 (322707)
+Seat 9: dani call (228969)
+*** ANTE/BLINDS ***
+ruben40191 posts ante 1600
+NonoArdetcho posts ante 1600
+erwin011 posts ante 1600
+Anthonina posts ante 1600
+tchi-tchi66 posts ante 1600
+sabre_laser posts ante 1600
+ferata07 posts ante 1600
+dani call posts ante 1600
+ruben40191 posts big blind 16000
+Dealt to sabre_laser [Qd Ks]
+*** PRE-FLOP *** 
+sabre_laser raises 16000 to 32000
+ferata07 folds
+dani call folds
+NonoArdetcho folds
+erwin011 raises 16000 to 48000
+Anthonina folds
+tchi-tchi66 folds
+ruben40191 folds
+sabre_laser calls 16000
+*** FLOP *** [Qh 8s 4s]
+sabre_laser bets 80342 and is all-in
+erwin011 calls 37190 and is all-in
+*** TURN *** [Qh 8s 4s][6c]
+*** RIVER *** [Qh 8s 4s 6c][4h]
+*** SHOW DOWN ***
+erwin011 shows [Qs Kd] (Two pairs : Queens and 4)
+sabre_laser shows [Qd Ks] (Two pairs : Queens and 4)
+sabre_laser collected 142742 from side pot 1
+erwin011 collected 99590 from main pot
+*** SUMMARY ***
+Total pot 242332 | No rake
+Board: [Qh 8s 4s 6c 4h]
+Seat 2: erwin011 showed [Qs Kd] and won 99590 with Two pairs : Queens and 4
+Seat 7: sabre_laser showed [Qd Ks] and won 142742 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 28 - HandId: #451858012970156581-75-1421358311 - Holdem no limit (2000/10000/20000) - 2015/01/15 21:45:11 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #5 is the button
+Seat 1: NonoArdetcho (121299)
+Seat 2: erwin011 (99590)
+Seat 3: Anthonina (121420)
+Seat 4: tchi-tchi66 (18614)
+Seat 5: drcsorna (176021)
+Seat 6: ruben40191 (59022)
+Seat 7: sabre_laser (142742)
+Seat 8: ferata07 (321107)
+Seat 9: dani call (227369)
+*** ANTE/BLINDS ***
+ruben40191 posts ante 2000
+sabre_laser posts ante 2000
+NonoArdetcho posts ante 2000
+erwin011 posts ante 2000
+Anthonina posts ante 2000
+tchi-tchi66 posts ante 2000
+ferata07 posts ante 2000
+dani call posts ante 2000
+ruben40191 posts small blind 10000
+sabre_laser posts big blind 20000
+Dealt to sabre_laser [Ts 2d]
+*** PRE-FLOP *** 
+ferata07 folds
+dani call folds
+NonoArdetcho folds
+erwin011 raises 20000 to 40000
+Anthonina folds
+tchi-tchi66 calls 16614 and is all-in
+ruben40191 folds
+sabre_laser folds
+*** FLOP *** [Qd 7d 7s]
+*** TURN *** [Qd 7d 7s][5c]
+*** RIVER *** [Qd 7d 7s 5c][9h]
+*** SHOW DOWN ***
+tchi-tchi66 shows [Ac Kc] (One pair : 7)
+erwin011 shows [Kh Qh] (Two pairs : Queens and 7)
+erwin011 collected 102614 from pot
+*** SUMMARY ***
+Total pot 102614 | No rake
+Board: [Qd 7d 7s 5c 9h]
+Seat 2: erwin011 showed [Kh Qh] and won 102614 with Two pairs : Queens and 7
+Seat 4: tchi-tchi66 showed [Ac Kc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 28 - HandId: #451858012970156581-76-1421358394 - Holdem no limit (2000/10000/20000) - 2015/01/15 21:46:34 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #6 is the button
+Seat 1: NonoArdetcho (119299)
+Seat 2: erwin011 (160204)
+Seat 3: Anthonina (119420)
+Seat 5: drcsorna (176021)
+Seat 6: ruben40191 (47022)
+Seat 7: sabre_laser (120742)
+Seat 8: ferata07 (319107)
+Seat 9: dani call (225369)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 2000
+ferata07 posts ante 2000
+NonoArdetcho posts ante 2000
+erwin011 posts ante 2000
+Anthonina posts ante 2000
+drcsorna posts ante 2000
+ruben40191 posts ante 2000
+dani call posts ante 2000
+sabre_laser posts small blind 10000
+ferata07 posts big blind 20000
+Dealt to sabre_laser [8c 3c]
+*** PRE-FLOP *** 
+dani call raises 20000 to 40000
+NonoArdetcho folds
+erwin011 folds
+Anthonina folds
+drcsorna folds
+ruben40191 folds
+sabre_laser folds
+ferata07 calls 20000
+*** FLOP *** [Jh Td Kc]
+ferata07 bets 40000
+dani call calls 40000
+*** TURN *** [Jh Td Kc][5s]
+ferata07 bets 40000
+dani call raises 103369 to 143369 and is all-in
+ferata07 calls 103369
+*** RIVER *** [Jh Td Kc 5s][6c]
+*** SHOW DOWN ***
+dani call shows [9h 9s] (One pair : 9)
+ferata07 shows [Th Kh] (Two pairs : Kings and Tens)
+ferata07 collected 472738 from pot
+*** SUMMARY ***
+Total pot 472738 | No rake
+Board: [Jh Td Kc 5s 6c]
+Seat 8: ferata07 (big blind) showed [Th Kh] and won 472738 with Two pairs : Kings and Tens
+Seat 9: dani call showed [9h 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 29 - HandId: #451858012970156581-77-1421358492 - Holdem no limit (2500/12500/25000) - 2015/01/15 21:48:12 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #7 is the button
+Seat 1: NonoArdetcho (117299)
+Seat 2: erwin011 (158204)
+Seat 3: Anthonina (117420)
+Seat 4: Sinax (322677)
+Seat 5: drcsorna (174021)
+Seat 6: ruben40191 (45022)
+Seat 7: sabre_laser (108742)
+Seat 8: ferata07 (566476)
+*** ANTE/BLINDS ***
+ferata07 posts ante 2500
+NonoArdetcho posts ante 2500
+erwin011 posts ante 2500
+Anthonina posts ante 2500
+Sinax posts ante 2500
+drcsorna posts ante 2500
+ruben40191 posts ante 2500
+sabre_laser posts ante 2500
+ferata07 posts small blind 12500
+NonoArdetcho posts big blind 25000
+Dealt to sabre_laser [As 6s]
+*** PRE-FLOP *** 
+erwin011 raises 25000 to 50000
+Anthonina folds
+Sinax calls 50000
+drcsorna folds
+ruben40191 folds
+sabre_laser folds
+ferata07 folds
+NonoArdetcho folds
+*** FLOP *** [3c Ad 8h]
+erwin011 bets 30000
+Sinax calls 30000
+*** TURN *** [3c Ad 8h][7d]
+erwin011 bets 75704 and is all-in
+Sinax calls 75704
+*** RIVER *** [3c Ad 8h 7d][4c]
+*** SHOW DOWN ***
+Sinax shows [9s 9d] (One pair : 9)
+erwin011 shows [Ac Jc] (One pair : Aces)
+erwin011 collected 368908 from pot
+*** SUMMARY ***
+Total pot 368908 | No rake
+Board: [3c Ad 8h 7d 4c]
+Seat 2: erwin011 showed [Ac Jc] and won 368908 with One pair : Aces
+Seat 4: Sinax showed [9s 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 29 - HandId: #451858012970156581-78-1421358549 - Holdem no limit (2500/12500/25000) - 2015/01/15 21:49:09 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #8 is the button
+Seat 1: NonoArdetcho (89799)
+Seat 2: erwin011 (368908)
+Seat 3: Anthonina (114920)
+Seat 4: Sinax (164473)
+Seat 5: drcsorna (171521)
+Seat 6: ruben40191 (42522)
+Seat 7: sabre_laser (106242)
+Seat 8: ferata07 (551476)
+Seat 9: k-you59 (312841)
+*** ANTE/BLINDS ***
+NonoArdetcho posts ante 2500
+erwin011 posts ante 2500
+Anthonina posts ante 2500
+Sinax posts ante 2500
+drcsorna posts ante 2500
+ruben40191 posts ante 2500
+sabre_laser posts ante 2500
+ferata07 posts ante 2500
+NonoArdetcho posts small blind 12500
+erwin011 posts big blind 25000
+Dealt to sabre_laser [Ah 5s]
+*** PRE-FLOP *** 
+Anthonina folds
+Sinax folds
+drcsorna folds
+ruben40191 folds
+sabre_laser raises 25000 to 50000
+ferata07 folds
+NonoArdetcho folds
+erwin011 calls 25000
+*** FLOP *** [Qh 3d 9c]
+erwin011 bets 53800
+sabre_laser folds
+erwin011 collected 186300 from pot
+*** SUMMARY ***
+Total pot 186300 | No rake
+Board: [Qh 3d 9c]
+Seat 2: erwin011 (big blind) won 186300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 29 - HandId: #451858012970156581-79-1421358627 - Holdem no limit (2500/12500/25000) - 2015/01/15 21:50:27 UTC
+Table: 'Freeroll(105206392)#548' 9-max (real money) Seat #1 is the button
+Seat 1: NonoArdetcho (74799)
+Seat 2: erwin011 (448908)
+Seat 3: Anthonina (112420)
+Seat 4: Sinax (161973)
+Seat 5: drcsorna (169021)
+Seat 6: ruben40191 (40022)
+Seat 7: sabre_laser (53742)
+Seat 8: ferata07 (548976)
+*** ANTE/BLINDS ***
+erwin011 posts ante 2500
+Anthonina posts ante 2500
+NonoArdetcho posts ante 2500
+Sinax posts ante 2500
+drcsorna posts ante 2500
+ruben40191 posts ante 2500
+sabre_laser posts ante 2500
+ferata07 posts ante 2500
+erwin011 posts small blind 12500
+Anthonina posts big blind 25000
+Dealt to sabre_laser [As Qc]
+*** PRE-FLOP *** 
+Sinax raises 134473 to 159473 and is all-in
+drcsorna folds
+ruben40191 folds
+sabre_laser calls 51242 and is all-in
+ferata07 folds
+NonoArdetcho folds
+erwin011 folds
+Anthonina calls 84920 and is all-in
+*** FLOP *** [3h 5c 4d]
+*** TURN *** [3h 5c 4d][5d]
+*** RIVER *** [3h 5c 4d 5d][7c]
+*** SHOW DOWN ***
+sabre_laser shows [As Qc] (One pair : 5)
+Anthonina shows [Kc Ac] (One pair : 5)
+Sinax shows [Ad Qs] (One pair : 5)
+Sinax collected 49553 from side pot 1
+Anthonina collected 303582 from main pot
+*** SUMMARY ***
+Total pot 353135 | No rake
+Board: [3h 5c 4d 5d 7c]
+Seat 3: Anthonina (big blind) showed [Kc Ac] and won 303582 with One pair : 5
+Seat 4: Sinax showed [Ad Qs] and won 49553 with One pair : 5
+Seat 7: sabre_laser showed [As Qc] and lost with One pair : 5
+
+

@@ -1,0 +1,3292 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661353761616166913-1-1459183889 - Holdem no limit (10/20) - 2016/03/28 16:51:29 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Joan of Aces (1500)
+Seat 2: pokerbaf02 (1500)
+Seat 3: vousmorts (1500)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: crazyrisx (1500)
+Seat 7: mystyk49 (1500)
+Seat 8: Nicandeme (1500)
+Seat 9: wassiney (1500)
+Seat 10: yakeesback (1500)
+*** ANTE/BLINDS ***
+Joan of Aces posts small blind 10
+pokerbaf02 posts big blind 20
+Dealt to sabre_laser [5d Ts]
+*** PRE-FLOP *** 
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 20
+wassiney calls 20
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 checks
+*** FLOP *** [Kc 6c Jh]
+pokerbaf02 checks
+Nicandeme checks
+wassiney bets 30
+pokerbaf02 calls 30
+Nicandeme folds
+*** TURN *** [Kc 6c Jh][8c]
+pokerbaf02 checks
+wassiney bets 130
+pokerbaf02 folds
+wassiney collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [Kc 6c Jh 8c]
+Seat 9: wassiney won 260
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661353761616166913-2-1459183984 - Holdem no limit (10/20) - 2016/03/28 16:53:04 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Joan of Aces (1490)
+Seat 2: pokerbaf02 (1450)
+Seat 3: vousmorts (1500)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: crazyrisx (1500)
+Seat 7: mystyk49 (1500)
+Seat 8: Nicandeme (1480)
+Seat 9: wassiney (1580)
+Seat 10: yakeesback (1500)
+*** ANTE/BLINDS ***
+pokerbaf02 posts small blind 10
+vousmorts posts big blind 20
+Dealt to sabre_laser [6s 6h]
+*** PRE-FLOP *** 
+Hoedus folds
+sabre_laser raises 30 to 50
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+Joan of Aces calls 50
+pokerbaf02 calls 40
+vousmorts folds
+*** FLOP *** [4h 5h 5d]
+pokerbaf02 checks
+sabre_laser bets 85
+Joan of Aces calls 85
+pokerbaf02 folds
+*** TURN *** [4h 5h 5d][6c]
+sabre_laser bets 80
+Joan of Aces calls 80
+*** RIVER *** [4h 5h 5d 6c][2h]
+sabre_laser bets 70
+Joan of Aces raises 190 to 260
+sabre_laser raises 380 to 640
+Joan of Aces calls 380
+*** SHOW DOWN ***
+Joan of Aces shows [Jh Kh] (Flush King high)
+sabre_laser shows [6s 6h] (Full of 6 and 5)
+sabre_laser collected 1780 from pot
+*** SUMMARY ***
+Total pot 1780 | No rake
+Board: [4h 5h 5d 6c 2h]
+Seat 1: Joan of Aces (button) showed [Jh Kh] and lost with Flush King high
+Seat 5: sabre_laser showed [6s 6h] and won 1780 with Full of 6 and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661353761616166913-3-1459184091 - Holdem no limit (10/20) - 2016/03/28 16:54:51 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1400)
+Seat 3: vousmorts (1480)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2425)
+Seat 6: crazyrisx (1500)
+Seat 7: mystyk49 (1500)
+Seat 8: Nicandeme (1480)
+Seat 9: wassiney (1580)
+Seat 10: yakeesback (1500)
+*** ANTE/BLINDS ***
+vousmorts posts small blind 10
+Hoedus posts big blind 20
+Dealt to sabre_laser [Js 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 4: Hoedus (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661353761616166913-4-1459184158 - Holdem no limit (10/20) - 2016/03/28 16:55:58 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1400)
+Seat 3: vousmorts (1470)
+Seat 4: Hoedus (1510)
+Seat 5: sabre_laser (2425)
+Seat 6: crazyrisx (1500)
+Seat 7: mystyk49 (1500)
+Seat 8: Nicandeme (1480)
+Seat 9: wassiney (1580)
+Seat 10: yakeesback (1500)
+*** ANTE/BLINDS ***
+Hoedus posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Ad Jh]
+*** PRE-FLOP *** 
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 20
+wassiney raises 30 to 50
+yakeesback calls 50
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser raises 100 to 150
+Nicandeme calls 130
+wassiney calls 100
+yakeesback calls 100
+*** FLOP *** [7h 8h 7c]
+sabre_laser checks
+Nicandeme bets 305
+wassiney calls 305
+yakeesback folds
+sabre_laser folds
+*** TURN *** [7h 8h 7c][Js]
+Nicandeme checks
+wassiney checks
+*** RIVER *** [7h 8h 7c Js][Th]
+Nicandeme checks
+wassiney checks
+*** SHOW DOWN ***
+Nicandeme shows [6s 6c] (Two pairs : 7 and 6)
+wassiney shows [3h Ah] (Flush Ace high)
+wassiney collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | No rake
+Board: [7h 8h 7c Js Th]
+Seat 8: Nicandeme showed [6s 6c] and lost with Two pairs : 7 and 6
+Seat 9: wassiney showed [3h Ah] and won 1220 with Flush Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #661353761616166913-5-1459184301 - Holdem no limit (10/20) - 2016/03/28 16:58:21 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1400)
+Seat 3: vousmorts (1470)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2275)
+Seat 6: crazyrisx (1500)
+Seat 7: mystyk49 (1500)
+Seat 8: Nicandeme (1025)
+Seat 9: wassiney (2345)
+Seat 10: yakeesback (1350)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+crazyrisx posts big blind 20
+Dealt to sabre_laser [2s 4c]
+*** PRE-FLOP *** 
+mystyk49 folds
+Nicandeme calls 20
+wassiney calls 20
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts calls 20
+Hoedus folds
+sabre_laser folds
+crazyrisx checks
+*** FLOP *** [Kc 7c 6c]
+crazyrisx checks
+Nicandeme checks
+wassiney bets 90
+vousmorts folds
+crazyrisx folds
+Nicandeme folds
+wassiney collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Kc 7c 6c]
+Seat 9: wassiney won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661353761616166913-6-1459184380 - Holdem no limit (15/30) - 2016/03/28 16:59:40 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1400)
+Seat 3: vousmorts (1450)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2265)
+Seat 6: crazyrisx (1480)
+Seat 7: mystyk49 (1500)
+Seat 8: Nicandeme (1005)
+Seat 9: wassiney (2415)
+Seat 10: yakeesback (1350)
+*** ANTE/BLINDS ***
+crazyrisx posts small blind 15
+mystyk49 posts big blind 30
+Dealt to sabre_laser [Th Kh]
+*** PRE-FLOP *** 
+Nicandeme calls 30
+wassiney folds
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 raises 30 to 60
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 calls 30
+Nicandeme calls 30
+*** FLOP *** [Jd Js Qs]
+mystyk49 checks
+Nicandeme bets 98
+pokerbaf02 folds
+mystyk49 folds
+Nicandeme collected 293 from pot
+*** SUMMARY ***
+Total pot 293 | No rake
+Board: [Jd Js Qs]
+Seat 8: Nicandeme won 293
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661353761616166913-7-1459184427 - Holdem no limit (15/30) - 2016/03/28 17:00:27 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1340)
+Seat 3: vousmorts (1450)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2265)
+Seat 6: crazyrisx (1465)
+Seat 7: mystyk49 (1440)
+Seat 8: Nicandeme (1140)
+Seat 9: wassiney (2415)
+Seat 10: yakeesback (1350)
+*** ANTE/BLINDS ***
+mystyk49 posts small blind 15
+Nicandeme posts big blind 30
+Dealt to sabre_laser [5s Qs]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 8: Nicandeme (big blind) won 45
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661353761616166913-8-1459184491 - Holdem no limit (15/30) - 2016/03/28 17:01:31 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1340)
+Seat 3: vousmorts (1450)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2265)
+Seat 6: crazyrisx (1465)
+Seat 7: mystyk49 (1425)
+Seat 8: Nicandeme (1155)
+Seat 9: wassiney (2415)
+Seat 10: yakeesback (1350)
+*** ANTE/BLINDS ***
+Nicandeme posts small blind 15
+wassiney posts big blind 30
+Dealt to sabre_laser [Qh Kc]
+*** PRE-FLOP *** 
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts calls 30
+Hoedus folds
+sabre_laser calls 30
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 15
+wassiney checks
+*** FLOP *** [5c Qs 8h]
+Nicandeme checks
+wassiney checks
+vousmorts checks
+sabre_laser bets 120
+Nicandeme folds
+wassiney folds
+vousmorts calls 120
+*** TURN *** [5c Qs 8h][6d]
+vousmorts checks
+sabre_laser bets 210
+vousmorts folds
+sabre_laser collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [5c Qs 8h 6d]
+Seat 5: sabre_laser won 570
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661353761616166913-9-1459184624 - Holdem no limit (15/30) - 2016/03/28 17:03:44 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1340)
+Seat 3: vousmorts (1300)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2475)
+Seat 6: crazyrisx (1465)
+Seat 7: mystyk49 (1425)
+Seat 8: Nicandeme (1125)
+Seat 9: wassiney (2385)
+Seat 10: yakeesback (1350)
+*** ANTE/BLINDS ***
+wassiney posts small blind 15
+yakeesback posts big blind 30
+Dealt to sabre_laser [5s 2h]
+*** PRE-FLOP *** 
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 30
+wassiney calls 15
+yakeesback raises 1320 to 1350 and is all-in
+Nicandeme folds
+wassiney folds
+yakeesback collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Seat 10: yakeesback (big blind) won 1410
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661353761616166913-10-1459184720 - Holdem no limit (15/30) - 2016/03/28 17:05:20 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Joan of Aces (635)
+Seat 2: pokerbaf02 (1340)
+Seat 3: vousmorts (1300)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2475)
+Seat 6: crazyrisx (1465)
+Seat 7: mystyk49 (1425)
+Seat 8: Nicandeme (1095)
+Seat 9: wassiney (2355)
+Seat 10: yakeesback (1410)
+*** ANTE/BLINDS ***
+yakeesback posts small blind 15
+Joan of Aces posts big blind 30
+Dealt to sabre_laser [2d 8d]
+*** PRE-FLOP *** 
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 raises 45 to 75
+Nicandeme calls 75
+wassiney folds
+yakeesback folds
+Joan of Aces calls 45
+*** FLOP *** [2s 9h Td]
+Joan of Aces checks
+mystyk49 checks
+Nicandeme bets 120
+Joan of Aces folds
+mystyk49 calls 120
+*** TURN *** [2s 9h Td][2c]
+mystyk49 checks
+Nicandeme bets 240
+mystyk49 folds
+Nicandeme collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [2s 9h Td 2c]
+Seat 8: Nicandeme won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #661353761616166913-11-1459184841 - Holdem no limit (15/30) - 2016/03/28 17:07:21 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Joan of Aces (560)
+Seat 2: pokerbaf02 (1340)
+Seat 3: vousmorts (1300)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2475)
+Seat 6: crazyrisx (1465)
+Seat 7: mystyk49 (1230)
+Seat 8: Nicandeme (1380)
+Seat 9: wassiney (2355)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+Joan of Aces posts small blind 15
+pokerbaf02 posts big blind 30
+Dealt to sabre_laser [Jc Qd]
+*** PRE-FLOP *** 
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 30
+wassiney folds
+yakeesback folds
+Joan of Aces calls 15
+pokerbaf02 raises 60 to 90
+Nicandeme calls 60
+Joan of Aces calls 60
+*** FLOP *** [Kh Ad 9c]
+Joan of Aces checks
+pokerbaf02 checks
+Nicandeme checks
+*** TURN *** [Kh Ad 9c][Ac]
+Joan of Aces checks
+pokerbaf02 bets 30
+Nicandeme folds
+Joan of Aces folds
+pokerbaf02 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kh Ad 9c Ac]
+Seat 2: pokerbaf02 (big blind) won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661353761616166913-12-1459184973 - Holdem no limit (20/40) - 2016/03/28 17:09:33 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Joan of Aces (470)
+Seat 2: pokerbaf02 (1520)
+Seat 3: vousmorts (1300)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2475)
+Seat 6: crazyrisx (1465)
+Seat 7: mystyk49 (1230)
+Seat 8: Nicandeme (1290)
+Seat 9: wassiney (2355)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+pokerbaf02 posts small blind 20
+vousmorts posts big blind 40
+Dealt to sabre_laser [Ks 3d]
+*** PRE-FLOP *** 
+Hoedus folds
+sabre_laser folds
+crazyrisx raises 60 to 100
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts folds
+crazyrisx collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 6: crazyrisx won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661353761616166913-13-1459185067 - Holdem no limit (20/40) - 2016/03/28 17:11:07 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Joan of Aces (470)
+Seat 2: pokerbaf02 (1500)
+Seat 3: vousmorts (1260)
+Seat 4: Hoedus (1500)
+Seat 5: sabre_laser (2475)
+Seat 6: crazyrisx (1525)
+Seat 7: mystyk49 (1230)
+Seat 8: Nicandeme (1290)
+Seat 9: wassiney (2355)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+vousmorts posts small blind 20
+Hoedus posts big blind 40
+Dealt to sabre_laser [Kd 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 40
+wassiney calls 40
+yakeesback folds
+Joan of Aces folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus checks
+*** FLOP *** [Ks Qs 6d]
+Hoedus checks
+Nicandeme checks
+wassiney checks
+*** TURN *** [Ks Qs 6d][Ad]
+Hoedus checks
+Nicandeme checks
+wassiney bets 140
+Hoedus folds
+Nicandeme calls 140
+*** RIVER *** [Ks Qs 6d Ad][8s]
+Nicandeme checks
+wassiney checks
+*** SHOW DOWN ***
+wassiney shows [Ah 9d] (One pair : Aces)
+Nicandeme shows [Ts 7s] (Flush King high)
+Nicandeme collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Ks Qs 6d Ad 8s]
+Seat 8: Nicandeme showed [Ts 7s] and won 420 with Flush King high
+Seat 9: wassiney showed [Ah 9d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661353761616166913-14-1459185209 - Holdem no limit (20/40) - 2016/03/28 17:13:29 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Joan of Aces (470)
+Seat 2: pokerbaf02 (1500)
+Seat 3: vousmorts (1240)
+Seat 4: Hoedus (1460)
+Seat 5: sabre_laser (2475)
+Seat 6: crazyrisx (1525)
+Seat 7: mystyk49 (1230)
+Seat 8: Nicandeme (1530)
+Seat 9: wassiney (2175)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+Hoedus posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [9c Ac]
+*** PRE-FLOP *** 
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+Joan of Aces raises 60 to 100
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser calls 60
+*** FLOP *** [Ad Kh 5c]
+sabre_laser checks
+Joan of Aces checks
+*** TURN *** [Ad Kh 5c][5s]
+sabre_laser bets 40
+Joan of Aces calls 40
+*** RIVER *** [Ad Kh 5c 5s][Qh]
+sabre_laser checks
+Joan of Aces bets 198
+sabre_laser calls 198
+*** SHOW DOWN ***
+Joan of Aces shows [Ks Qs] (Two pairs : Kings and Queens)
+sabre_laser shows [9c Ac] (Two pairs : Aces and 5)
+sabre_laser collected 696 from pot
+*** SUMMARY ***
+Total pot 696 | No rake
+Board: [Ad Kh 5c 5s Qh]
+Seat 1: Joan of Aces showed [Ks Qs] and lost with Two pairs : Kings and Queens
+Seat 5: sabre_laser (big blind) showed [9c Ac] and won 696 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #661353761616166913-15-1459185289 - Holdem no limit (20/40) - 2016/03/28 17:14:49 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Joan of Aces (132)
+Seat 2: pokerbaf02 (1500)
+Seat 3: vousmorts (1240)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (2833)
+Seat 6: crazyrisx (1525)
+Seat 7: mystyk49 (1230)
+Seat 8: Nicandeme (1530)
+Seat 9: wassiney (2175)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+crazyrisx posts big blind 40
+Dealt to sabre_laser [8c Jd]
+*** PRE-FLOP *** 
+mystyk49 folds
+Nicandeme calls 40
+wassiney folds
+yakeesback folds
+Joan of Aces raises 40 to 80
+pokerbaf02 calls 80
+vousmorts calls 80
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+Nicandeme calls 40
+*** FLOP *** [7s 2d Kh]
+Nicandeme bets 40
+Joan of Aces calls 40
+pokerbaf02 folds
+vousmorts calls 40
+*** TURN *** [7s 2d Kh][2h]
+Nicandeme bets 40
+Joan of Aces calls 12 and is all-in
+vousmorts calls 40
+*** RIVER *** [7s 2d Kh 2h][6s]
+Nicandeme bets 40
+vousmorts folds
+*** SHOW DOWN ***
+Joan of Aces shows [Ts Js] (One pair : 2)
+Nicandeme shows [Qc Kd] (Two pairs : Kings and 2)
+Nicandeme collected 632 from pot
+*** SUMMARY ***
+Total pot 632 | No rake
+Board: [7s 2d Kh 2h 6s]
+Seat 1: Joan of Aces showed [Ts Js] and lost with One pair : 2
+Seat 8: Nicandeme showed [Qc Kd] and won 632 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661353761616166913-16-1459185419 - Holdem no limit (30/60) - 2016/03/28 17:16:59 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 2: pokerbaf02 (1420)
+Seat 3: vousmorts (1080)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (2813)
+Seat 6: crazyrisx (1485)
+Seat 7: mystyk49 (1230)
+Seat 8: Nicandeme (1962)
+Seat 9: wassiney (2175)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+crazyrisx posts small blind 30
+mystyk49 posts big blind 60
+Dealt to sabre_laser [8s 4s]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney raises 60 to 120
+yakeesback folds
+pokerbaf02 calls 120
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+*** FLOP *** [9c Kd 8d]
+wassiney bets 150
+pokerbaf02 calls 150
+*** TURN *** [9c Kd 8d][3s]
+wassiney bets 240
+pokerbaf02 calls 240
+*** RIVER *** [9c Kd 8d 3s][Kh]
+wassiney checks
+pokerbaf02 checks
+*** SHOW DOWN ***
+pokerbaf02 shows [Jh Tc] (One pair : Kings)
+wassiney shows [Jc Kc] (Trips of Kings)
+wassiney collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [9c Kd 8d 3s Kh]
+Seat 2: pokerbaf02 showed [Jh Tc] and lost with One pair : Kings
+Seat 9: wassiney showed [Jc Kc] and won 1110 with Trips of Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661353761616166913-17-1459185562 - Holdem no limit (30/60) - 2016/03/28 17:19:22 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 2: pokerbaf02 (910)
+Seat 3: vousmorts (1080)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (2813)
+Seat 6: crazyrisx (1455)
+Seat 7: mystyk49 (1170)
+Seat 8: Nicandeme (1962)
+Seat 9: wassiney (2775)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+mystyk49 posts small blind 30
+Nicandeme posts big blind 60
+Dealt to sabre_laser [3c 4h]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+vousmorts calls 60
+Hoedus folds
+sabre_laser folds
+crazyrisx raises 90 to 150
+mystyk49 folds
+Nicandeme folds
+vousmorts calls 90
+*** FLOP *** [8d 3h 6s]
+vousmorts checks
+crazyrisx bets 180
+vousmorts calls 180
+*** TURN *** [8d 3h 6s][3s]
+vousmorts checks
+crazyrisx bets 375
+vousmorts folds
+crazyrisx collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | No rake
+Board: [8d 3h 6s 3s]
+Seat 6: crazyrisx (button) won 1125
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661353761616166913-18-1459185649 - Holdem no limit (30/60) - 2016/03/28 17:20:49 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #7 is the button
+Seat 2: pokerbaf02 (910)
+Seat 3: vousmorts (750)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (2813)
+Seat 6: crazyrisx (1875)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1902)
+Seat 9: wassiney (2775)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+Nicandeme posts small blind 30
+wassiney posts big blind 60
+Dealt to sabre_laser [9c 9d]
+*** PRE-FLOP *** 
+yakeesback folds
+pokerbaf02 calls 60
+vousmorts folds
+Hoedus folds
+sabre_laser raises 120 to 180
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 150
+wassiney folds
+pokerbaf02 calls 120
+*** FLOP *** [Ts 3d Qd]
+Nicandeme checks
+pokerbaf02 checks
+sabre_laser bets 210
+Nicandeme calls 210
+pokerbaf02 folds
+*** TURN *** [Ts 3d Qd][Qh]
+Nicandeme checks
+sabre_laser checks
+*** RIVER *** [Ts 3d Qd Qh][4h]
+Nicandeme checks
+sabre_laser checks
+*** SHOW DOWN ***
+Nicandeme shows [Ah Js] (One pair : Queens)
+sabre_laser shows [9c 9d] (Two pairs : Queens and 9)
+sabre_laser collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Ts 3d Qd Qh 4h]
+Seat 5: sabre_laser showed [9c 9d] and won 1020 with Two pairs : Queens and 9
+Seat 8: Nicandeme (small blind) showed [Ah Js] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #661353761616166913-19-1459185750 - Holdem no limit (30/60) - 2016/03/28 17:22:30 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 2: pokerbaf02 (730)
+Seat 3: vousmorts (750)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (3443)
+Seat 6: crazyrisx (1875)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1512)
+Seat 9: wassiney (2715)
+Seat 10: yakeesback (1395)
+*** ANTE/BLINDS ***
+wassiney posts small blind 30
+yakeesback posts big blind 60
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser raises 90 to 150
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: sabre_laser won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #661353761616166913-20-1459185830 - Holdem no limit (40/80) - 2016/03/28 17:23:50 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 2: pokerbaf02 (730)
+Seat 3: vousmorts (750)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (3533)
+Seat 6: crazyrisx (1875)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1512)
+Seat 9: wassiney (2685)
+Seat 10: yakeesback (1335)
+*** ANTE/BLINDS ***
+yakeesback posts small blind 40
+pokerbaf02 posts big blind 80
+Dealt to sabre_laser [2c Th]
+*** PRE-FLOP *** 
+vousmorts raises 80 to 160
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+pokerbaf02 calls 80
+*** FLOP *** [9c As 7h]
+pokerbaf02 checks
+vousmorts bets 180
+pokerbaf02 folds
+vousmorts collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [9c As 7h]
+Seat 3: vousmorts won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #661353761616166913-21-1459185905 - Holdem no limit (40/80) - 2016/03/28 17:25:05 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 2: pokerbaf02 (570)
+Seat 3: vousmorts (950)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (3533)
+Seat 6: crazyrisx (1875)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1512)
+Seat 9: wassiney (2685)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+pokerbaf02 posts small blind 40
+vousmorts posts big blind 80
+Dealt to sabre_laser [Td 6d]
+*** PRE-FLOP *** 
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney raises 120 to 200
+yakeesback folds
+pokerbaf02 folds
+vousmorts calls 120
+*** FLOP *** [Qh 7d 5h]
+vousmorts checks
+wassiney checks
+*** TURN *** [Qh 7d 5h][Kh]
+vousmorts checks
+wassiney bets 760
+vousmorts folds
+wassiney collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Qh 7d 5h Kh]
+Seat 9: wassiney won 1200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #661353761616166913-22-1459185981 - Holdem no limit (40/80) - 2016/03/28 17:26:21 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #2 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (750)
+Seat 4: Hoedus (1440)
+Seat 5: sabre_laser (3533)
+Seat 6: crazyrisx (1875)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1512)
+Seat 9: wassiney (2925)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+vousmorts posts small blind 40
+Hoedus posts big blind 80
+Dealt to sabre_laser [Th Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney raises 80 to 160
+yakeesback folds
+pokerbaf02 folds
+vousmorts raises 80 to 240
+Hoedus folds
+wassiney calls 80
+*** FLOP *** [4s Kh 2s]
+vousmorts checks
+wassiney checks
+*** TURN *** [4s Kh 2s][7c]
+vousmorts checks
+wassiney checks
+*** RIVER *** [4s Kh 2s 7c][6h]
+vousmorts checks
+wassiney checks
+*** SHOW DOWN ***
+wassiney shows [Jh Qd] (High card : King)
+vousmorts shows [8d Ad] (High card : Ace)
+vousmorts collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [4s Kh 2s 7c 6h]
+Seat 3: vousmorts (small blind) showed [8d Ad] and won 560 with High card : Ace
+Seat 9: wassiney showed [Jh Qd] and lost with High card : King
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #661353761616166913-23-1459186031 - Holdem no limit (40/80) - 2016/03/28 17:27:11 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #3 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (1070)
+Seat 4: Hoedus (1360)
+Seat 5: sabre_laser (3533)
+Seat 6: crazyrisx (1875)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1512)
+Seat 9: wassiney (2685)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+Hoedus posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [4c Ah]
+*** PRE-FLOP *** 
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 80
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+vousmorts raises 80 to 160
+Hoedus folds
+sabre_laser calls 80
+Nicandeme calls 80
+*** FLOP *** [Qd Qs 5h]
+sabre_laser checks
+Nicandeme checks
+vousmorts checks
+*** TURN *** [Qd Qs 5h][2d]
+sabre_laser bets 320
+Nicandeme folds
+vousmorts folds
+sabre_laser collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Qd Qs 5h 2d]
+Seat 5: sabre_laser (big blind) won 840
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #661353761616166913-24-1459186110 - Holdem no limit (40/80) - 2016/03/28 17:28:30 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #4 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (910)
+Seat 4: Hoedus (1320)
+Seat 5: sabre_laser (3893)
+Seat 6: crazyrisx (1875)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1352)
+Seat 9: wassiney (2685)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+crazyrisx posts big blind 80
+Dealt to sabre_laser [2d Ah]
+*** PRE-FLOP *** 
+mystyk49 folds
+Nicandeme folds
+wassiney raises 200 to 280
+yakeesback folds
+pokerbaf02 folds
+vousmorts raises 200 to 480
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+wassiney raises 520 to 1000
+vousmorts calls 430 and is all-in
+*** FLOP *** [Kd 2h 3d]
+*** TURN *** [Kd 2h 3d][Jd]
+*** RIVER *** [Kd 2h 3d Jd][4d]
+*** SHOW DOWN ***
+vousmorts shows [Jc Jh] (Trips of Jacks)
+wassiney shows [8h 8c] (One pair : 8)
+wassiney collected 90 from side pot 1
+vousmorts collected 1940 from main pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Board: [Kd 2h 3d Jd 4d]
+Seat 3: vousmorts showed [Jc Jh] and won 1940 with Trips of Jacks
+Seat 9: wassiney showed [8h 8c] and won 90 with One pair : 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #661353761616166913-25-1459186201 - Holdem no limit (40/80) - 2016/03/28 17:30:01 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (1940)
+Seat 4: Hoedus (1320)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1795)
+Seat 7: mystyk49 (1140)
+Seat 8: Nicandeme (1352)
+Seat 9: wassiney (1775)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+crazyrisx posts small blind 40
+mystyk49 posts big blind 80
+Dealt to sabre_laser [Jh 9d]
+*** PRE-FLOP *** 
+Nicandeme raises 80 to 160
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus calls 160
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+*** FLOP *** [Js 8s 3c]
+Nicandeme bets 220
+Hoedus folds
+Nicandeme collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Js 8s 3c]
+Seat 8: Nicandeme won 660
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #661353761616166913-26-1459186249 - Holdem no limit (40/80) - 2016/03/28 17:30:49 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (1940)
+Seat 4: Hoedus (1160)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (1060)
+Seat 8: Nicandeme (1632)
+Seat 9: wassiney (1775)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+mystyk49 posts small blind 40
+Nicandeme posts big blind 80
+Dealt to sabre_laser [5h 3h]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: Nicandeme (big blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-27-1459186301 - Holdem no limit (60/120) - 2016/03/28 17:31:41 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #7 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (1940)
+Seat 4: Hoedus (1160)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (1020)
+Seat 8: Nicandeme (1672)
+Seat 9: wassiney (1775)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+Nicandeme posts small blind 60
+wassiney posts big blind 120
+Dealt to sabre_laser [7s 9d]
+*** PRE-FLOP *** 
+yakeesback folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 60
+wassiney checks
+*** FLOP *** [Qs Qh Kh]
+Nicandeme checks
+wassiney checks
+*** TURN *** [Qs Qh Kh][2d]
+Nicandeme checks
+wassiney bets 120
+Nicandeme folds
+wassiney collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qs Qh Kh 2d]
+Seat 9: wassiney (big blind) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-28-1459186370 - Holdem no limit (60/120) - 2016/03/28 17:32:50 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (1940)
+Seat 4: Hoedus (1160)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (1020)
+Seat 8: Nicandeme (1552)
+Seat 9: wassiney (1895)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+wassiney posts small blind 60
+yakeesback posts big blind 120
+Dealt to sabre_laser [Ts Qc]
+*** PRE-FLOP *** 
+pokerbaf02 folds
+vousmorts calls 120
+Hoedus raises 1040 to 1160 and is all-in
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+vousmorts calls 1040
+*** FLOP *** [4c Qh 5d]
+*** TURN *** [4c Qh 5d][6h]
+*** RIVER *** [4c Qh 5d 6h][Td]
+*** SHOW DOWN ***
+vousmorts shows [3h Ah] (High card : Ace)
+Hoedus shows [Kc Kd] (One pair : Kings)
+Hoedus collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [4c Qh 5d 6h Td]
+Seat 3: vousmorts showed [3h Ah] and lost with High card : Ace
+Seat 4: Hoedus showed [Kc Kd] and won 2500 with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-29-1459186437 - Holdem no limit (60/120) - 2016/03/28 17:33:57 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (780)
+Seat 4: Hoedus (2500)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (1020)
+Seat 8: Nicandeme (1552)
+Seat 9: wassiney (1835)
+Seat 10: yakeesback (1175)
+*** ANTE/BLINDS ***
+yakeesback posts small blind 60
+pokerbaf02 posts big blind 120
+Dealt to sabre_laser [8c 7c]
+*** PRE-FLOP *** 
+vousmorts raises 660 to 780 and is all-in
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 780
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+*** FLOP *** [2s Td 7d]
+*** TURN *** [2s Td 7d][Js]
+*** RIVER *** [2s Td 7d Js][8s]
+*** SHOW DOWN ***
+Nicandeme shows [Th Ah] (One pair : Tens)
+vousmorts shows [Ad Jd] (One pair : Jacks)
+vousmorts collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [2s Td 7d Js 8s]
+Seat 3: vousmorts showed [Ad Jd] and won 1740 with One pair : Jacks
+Seat 8: Nicandeme showed [Th Ah] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-30-1459186473 - Holdem no limit (60/120) - 2016/03/28 17:34:33 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 2: pokerbaf02 (410)
+Seat 3: vousmorts (1740)
+Seat 4: Hoedus (2500)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (1020)
+Seat 8: Nicandeme (772)
+Seat 9: wassiney (1835)
+Seat 10: yakeesback (1115)
+*** ANTE/BLINDS ***
+pokerbaf02 posts small blind 60
+vousmorts posts big blind 120
+Dealt to sabre_laser [Qc 7c]
+*** PRE-FLOP *** 
+Hoedus raises 168 to 288
+sabre_laser folds
+crazyrisx folds
+mystyk49 raises 732 to 1020 and is all-in
+Nicandeme folds
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus calls 732
+*** FLOP *** [4c 6d Ts]
+*** TURN *** [4c 6d Ts][Kh]
+*** RIVER *** [4c 6d Ts Kh][Tc]
+*** SHOW DOWN ***
+Hoedus shows [Qh Qs] (Two pairs : Queens and Tens)
+mystyk49 shows [Ah As] (Two pairs : Aces and Tens)
+mystyk49 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [4c 6d Ts Kh Tc]
+Seat 4: Hoedus showed [Qh Qs] and lost with Two pairs : Queens and Tens
+Seat 7: mystyk49 showed [Ah As] and won 2220 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-31-1459186537 - Holdem no limit (60/120) - 2016/03/28 17:35:37 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #2 is the button
+Seat 2: pokerbaf02 (350)
+Seat 3: vousmorts (1620)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (2220)
+Seat 8: Nicandeme (772)
+Seat 9: wassiney (1835)
+Seat 10: yakeesback (1115)
+*** ANTE/BLINDS ***
+vousmorts posts small blind 60
+Hoedus posts big blind 120
+Dealt to sabre_laser [6c Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: Hoedus (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-32-1459186554 - Holdem no limit (60/120) - 2016/03/28 17:35:54 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #3 is the button
+Seat 2: pokerbaf02 (350)
+Seat 3: vousmorts (1560)
+Seat 4: Hoedus (1540)
+Seat 5: sabre_laser (3853)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (2220)
+Seat 8: Nicandeme (772)
+Seat 9: wassiney (1835)
+Seat 10: yakeesback (1115)
+*** ANTE/BLINDS ***
+Hoedus posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [9c 7h]
+*** PRE-FLOP *** 
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 120
+wassiney calls 120
+yakeesback folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser checks
+*** FLOP *** [3c Kc Th]
+sabre_laser checks
+Nicandeme bets 120
+wassiney calls 120
+sabre_laser folds
+*** TURN *** [3c Kc Th][Ks]
+Nicandeme bets 532 and is all-in
+wassiney folds
+Nicandeme collected 1192 from pot
+*** SUMMARY ***
+Total pot 1192 | No rake
+Board: [3c Kc Th Ks]
+Seat 8: Nicandeme won 1192
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-33-1459186663 - Holdem no limit (60/120) - 2016/03/28 17:37:43 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #4 is the button
+Seat 2: pokerbaf02 (350)
+Seat 3: vousmorts (1560)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3733)
+Seat 6: crazyrisx (1755)
+Seat 7: mystyk49 (2220)
+Seat 8: Nicandeme (1192)
+Seat 9: wassiney (1595)
+Seat 10: yakeesback (1115)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+crazyrisx posts big blind 120
+Dealt to sabre_laser [Js Th]
+*** PRE-FLOP *** 
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback raises 995 to 1115 and is all-in
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+yakeesback collected 1295 from pot
+*** SUMMARY ***
+Total pot 1295 | No rake
+Seat 10: yakeesback won 1295
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #661353761616166913-34-1459186722 - Holdem no limit (60/120) - 2016/03/28 17:38:42 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 2: pokerbaf02 (350)
+Seat 3: vousmorts (1560)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3673)
+Seat 6: crazyrisx (1635)
+Seat 7: mystyk49 (2220)
+Seat 8: Nicandeme (1192)
+Seat 9: wassiney (1595)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+crazyrisx posts small blind 60
+mystyk49 posts big blind 120
+Dealt to sabre_laser [Ks 8c]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney folds
+yakeesback folds
+pokerbaf02 raises 120 to 240
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+pokerbaf02 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: pokerbaf02 won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-35-1459186785 - Holdem no limit (80/160) - 2016/03/28 17:39:45 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (1560)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3673)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (2100)
+Seat 8: Nicandeme (1192)
+Seat 9: wassiney (1595)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+mystyk49 posts small blind 80
+Nicandeme posts big blind 160
+Dealt to sabre_laser [Ad 2s]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+pokerbaf02 folds
+vousmorts calls 160
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme checks
+*** FLOP *** [3d 5s 4d]
+Nicandeme bets 160
+vousmorts calls 160
+*** TURN *** [3d 5s 4d][Jh]
+Nicandeme bets 160
+vousmorts raises 160 to 320
+Nicandeme raises 552 to 872 and is all-in
+vousmorts calls 552
+*** RIVER *** [3d 5s 4d Jh][7d]
+*** SHOW DOWN ***
+vousmorts shows [8s 8d] (One pair : 8)
+Nicandeme shows [3s Jc] (Two pairs : Jacks and 3)
+Nicandeme collected 2464 from pot
+*** SUMMARY ***
+Total pot 2464 | No rake
+Board: [3d 5s 4d Jh 7d]
+Seat 3: vousmorts showed [8s 8d] and lost with One pair : 8
+Seat 8: Nicandeme (big blind) showed [3s Jc] and won 2464 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-36-1459186865 - Holdem no limit (80/160) - 2016/03/28 17:41:05 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #7 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (368)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3673)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (2020)
+Seat 8: Nicandeme (2464)
+Seat 9: wassiney (1595)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+Nicandeme posts small blind 80
+wassiney posts big blind 160
+Dealt to sabre_laser [3d As]
+*** PRE-FLOP *** 
+yakeesback folds
+pokerbaf02 folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 raises 240 to 400
+Nicandeme folds
+wassiney calls 240
+*** FLOP *** [9s 2h 4d]
+wassiney bets 1195 and is all-in
+mystyk49 folds
+wassiney collected 2075 from pot
+*** SUMMARY ***
+Total pot 2075 | No rake
+Board: [9s 2h 4d]
+Seat 9: wassiney (big blind) won 2075
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-37-1459186934 - Holdem no limit (80/160) - 2016/03/28 17:42:14 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (368)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3673)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (1620)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (2075)
+Seat 10: yakeesback (1295)
+*** ANTE/BLINDS ***
+wassiney posts small blind 80
+yakeesback posts big blind 160
+Dealt to sabre_laser [7s 3d]
+*** PRE-FLOP *** 
+pokerbaf02 folds
+vousmorts raises 208 to 368 and is all-in
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback calls 208
+*** FLOP *** [Ah Qh 2d]
+*** TURN *** [Ah Qh 2d][Qd]
+*** RIVER *** [Ah Qh 2d Qd][9h]
+*** SHOW DOWN ***
+yakeesback shows [3h 3s] (Two pairs : Queens and 3)
+vousmorts shows [Qs Jd] (Trips of Queens)
+vousmorts collected 816 from pot
+*** SUMMARY ***
+Total pot 816 | No rake
+Board: [Ah Qh 2d Qd 9h]
+Seat 3: vousmorts showed [Qs Jd] and won 816 with Trips of Queens
+Seat 10: yakeesback (big blind) showed [3h 3s] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-38-1459186973 - Holdem no limit (80/160) - 2016/03/28 17:42:53 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 2: pokerbaf02 (530)
+Seat 3: vousmorts (816)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3673)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (1620)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (1995)
+Seat 10: yakeesback (927)
+*** ANTE/BLINDS ***
+yakeesback posts small blind 80
+pokerbaf02 posts big blind 160
+Dealt to sabre_laser [5d 8s]
+*** PRE-FLOP *** 
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney raises 800 to 960
+yakeesback calls 847 and is all-in
+pokerbaf02 calls 370 and is all-in
+*** FLOP *** [7c 2h Kd]
+*** TURN *** [7c 2h Kd][8c]
+*** RIVER *** [7c 2h Kd 8c][Jc]
+*** SHOW DOWN ***
+pokerbaf02 shows [9h Qd] (High card : King)
+yakeesback shows [Ac Ah] (One pair : Aces)
+wassiney shows [9d 9s] (One pair : 9)
+wassiney collected 33 from side pot 1
+yakeesback collected 2384 from main pot
+*** SUMMARY ***
+Total pot 2417 | No rake
+Board: [7c 2h Kd 8c Jc]
+Seat 2: pokerbaf02 (big blind) showed [9h Qd] and lost with High card : King
+Seat 9: wassiney (button) showed [9d 9s] and won 33 with One pair : 9
+Seat 10: yakeesback (small blind) showed [Ac Ah] and won 2384 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-39-1459187021 - Holdem no limit (80/160) - 2016/03/28 17:43:41 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 3: vousmorts (816)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3673)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (1620)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (1068)
+Seat 10: yakeesback (2384)
+*** ANTE/BLINDS ***
+vousmorts posts big blind 160
+Dealt to sabre_laser [Ah As]
+*** PRE-FLOP *** 
+Hoedus folds
+sabre_laser calls 160
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+vousmorts checks
+*** FLOP *** [Ts 7s Ad]
+vousmorts checks
+sabre_laser bets 160
+vousmorts folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ts 7s Ad]
+Seat 5: sabre_laser won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-40-1459187096 - Holdem no limit (80/160) - 2016/03/28 17:44:56 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #2 is the button
+Seat 3: vousmorts (656)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3833)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (1620)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (1068)
+Seat 10: yakeesback (2384)
+*** ANTE/BLINDS ***
+vousmorts posts small blind 80
+Hoedus posts big blind 160
+Dealt to sabre_laser [Qc 3d]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback raises 320 to 480
+vousmorts folds
+Hoedus folds
+yakeesback collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 10: yakeesback won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-41-1459187129 - Holdem no limit (80/160) - 2016/03/28 17:45:29 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #3 is the button
+Seat 3: vousmorts (576)
+Seat 4: Hoedus (1320)
+Seat 5: sabre_laser (3833)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (1620)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (1068)
+Seat 10: yakeesback (2624)
+*** ANTE/BLINDS ***
+Hoedus posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Js Qd]
+*** PRE-FLOP *** 
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+vousmorts folds
+Hoedus raises 1160 to 1320 and is all-in
+sabre_laser folds
+Hoedus collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Seat 4: Hoedus (small blind) won 1480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-42-1459187183 - Holdem no limit (80/160) - 2016/03/28 17:46:23 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #4 is the button
+Seat 3: vousmorts (576)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3673)
+Seat 6: crazyrisx (1575)
+Seat 7: mystyk49 (1620)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (1068)
+Seat 10: yakeesback (2624)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+crazyrisx posts big blind 160
+Dealt to sabre_laser [Td Ac]
+*** PRE-FLOP *** 
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+vousmorts folds
+Hoedus folds
+sabre_laser raises 160 to 320
+crazyrisx folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 5: sabre_laser (small blind) won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #661353761616166913-43-1459187225 - Holdem no limit (80/160) - 2016/03/28 17:47:05 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 3: vousmorts (576)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3833)
+Seat 6: crazyrisx (1415)
+Seat 7: mystyk49 (1620)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (1068)
+Seat 10: yakeesback (2624)
+*** ANTE/BLINDS ***
+crazyrisx posts small blind 80
+mystyk49 posts big blind 160
+Dealt to sabre_laser [6s As]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney calls 160
+yakeesback folds
+vousmorts folds
+Hoedus folds
+sabre_laser raises 320 to 480
+crazyrisx folds
+mystyk49 folds
+wassiney raises 588 to 1068 and is all-in
+sabre_laser calls 588
+*** FLOP *** [Kh Tc Qh]
+*** TURN *** [Kh Tc Qh][2h]
+*** RIVER *** [Kh Tc Qh 2h][2s]
+*** SHOW DOWN ***
+sabre_laser shows [6s As] (One pair : 2)
+wassiney shows [7c Ah] (One pair : 2)
+wassiney collected 1188 from pot
+sabre_laser collected 1188 from pot
+*** SUMMARY ***
+Total pot 2376 | No rake
+Board: [Kh Tc Qh 2h 2s]
+Seat 5: sabre_laser (button) showed [6s As] and won 1188 with One pair : 2
+Seat 9: wassiney showed [7c Ah] and won 1188 with One pair : 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-44-1459187278 - Holdem no limit (10/100/200) - 2016/03/28 17:47:58 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 3: vousmorts (576)
+Seat 4: Hoedus (1480)
+Seat 5: sabre_laser (3953)
+Seat 6: crazyrisx (1335)
+Seat 7: mystyk49 (1460)
+Seat 8: Nicandeme (2384)
+Seat 9: wassiney (1188)
+Seat 10: yakeesback (2624)
+*** ANTE/BLINDS ***
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+vousmorts posts ante 10
+Hoedus posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+mystyk49 posts small blind 100
+Nicandeme posts big blind 200
+Dealt to sabre_laser [3s 6d]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 8: Nicandeme (big blind) won 380
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-45-1459187321 - Holdem no limit (10/100/200) - 2016/03/28 17:48:41 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #7 is the button
+Seat 3: vousmorts (566)
+Seat 4: Hoedus (1470)
+Seat 5: sabre_laser (3943)
+Seat 6: crazyrisx (1325)
+Seat 7: mystyk49 (1350)
+Seat 8: Nicandeme (2554)
+Seat 9: wassiney (1178)
+Seat 10: yakeesback (2614)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 10
+wassiney posts ante 10
+vousmorts posts ante 10
+Hoedus posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+yakeesback posts ante 10
+Nicandeme posts small blind 100
+wassiney posts big blind 200
+Dealt to sabre_laser [9s Qh]
+*** PRE-FLOP *** 
+yakeesback folds
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 raises 1140 to 1340 and is all-in
+Nicandeme folds
+wassiney folds
+mystyk49 collected 1720 from pot
+*** SUMMARY ***
+Total pot 1720 | No rake
+Seat 7: mystyk49 (button) won 1720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-46-1459187359 - Holdem no limit (10/100/200) - 2016/03/28 17:49:19 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 3: vousmorts (556)
+Seat 4: Hoedus (1460)
+Seat 5: sabre_laser (3933)
+Seat 6: crazyrisx (1315)
+Seat 7: mystyk49 (1720)
+Seat 8: Nicandeme (2444)
+Seat 9: wassiney (968)
+Seat 10: yakeesback (2604)
+*** ANTE/BLINDS ***
+wassiney posts ante 10
+yakeesback posts ante 10
+vousmorts posts ante 10
+Hoedus posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+wassiney posts small blind 100
+yakeesback posts big blind 200
+Dealt to sabre_laser [7d 5c]
+*** PRE-FLOP *** 
+vousmorts folds
+Hoedus folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 200
+wassiney raises 758 to 958 and is all-in
+yakeesback folds
+Nicandeme folds
+wassiney collected 1438 from pot
+*** SUMMARY ***
+Total pot 1438 | No rake
+Seat 9: wassiney (small blind) won 1438
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-47-1459187402 - Holdem no limit (10/100/200) - 2016/03/28 17:50:02 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 3: vousmorts (546)
+Seat 4: Hoedus (1450)
+Seat 5: sabre_laser (3923)
+Seat 6: crazyrisx (1305)
+Seat 7: mystyk49 (1710)
+Seat 8: Nicandeme (2234)
+Seat 9: wassiney (1438)
+Seat 10: yakeesback (2394)
+*** ANTE/BLINDS ***
+yakeesback posts ante 10
+vousmorts posts ante 10
+Hoedus posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+wassiney posts ante 10
+yakeesback posts small blind 100
+vousmorts posts big blind 200
+Dealt to sabre_laser [7s Ah]
+*** PRE-FLOP *** 
+Hoedus raises 1240 to 1440 and is all-in
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney calls 1428 and is all-in
+yakeesback folds
+vousmorts calls 336 and is all-in
+*** FLOP *** [Ts Th 2d]
+*** TURN *** [Ts Th 2d][9h]
+*** RIVER *** [Ts Th 2d 9h][8s]
+*** SHOW DOWN ***
+vousmorts shows [Jh Kd] (One pair : Tens)
+wassiney shows [Jc Jd] (Two pairs : Jacks and Tens)
+Hoedus shows [Ks As] (One pair : Tens)
+Hoedus collected 12 from side pot 1
+wassiney collected 3572 from main pot
+*** SUMMARY ***
+Total pot 3584 | No rake
+Board: [Ts Th 2d 9h 8s]
+Seat 3: vousmorts (big blind) showed [Jh Kd] and lost with One pair : Tens
+Seat 4: Hoedus showed [Ks As] and won 12 with One pair : Tens
+Seat 9: wassiney (button) showed [Jc Jd] and won 3572 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-48-1459187442 - Holdem no limit (10/100/200) - 2016/03/28 17:50:42 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 4: Hoedus (12)
+Seat 5: sabre_laser (3913)
+Seat 6: crazyrisx (1295)
+Seat 7: mystyk49 (1700)
+Seat 8: Nicandeme (2224)
+Seat 9: wassiney (3572)
+Seat 10: yakeesback (2284)
+*** ANTE/BLINDS ***
+Hoedus posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+Hoedus posts big blind 2 and is all-in
+Dealt to sabre_laser [Jd 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme calls 200
+wassiney calls 200
+yakeesback folds
+*** FLOP *** [5s 8c 6s]
+Nicandeme bets 200
+wassiney raises 200 to 400
+Nicandeme calls 200
+*** TURN *** [5s 8c 6s][5c]
+Nicandeme checks
+wassiney checks
+*** RIVER *** [5s 8c 6s 5c][5d]
+Nicandeme bets 200
+wassiney calls 200
+*** SHOW DOWN ***
+Hoedus shows [3h 6c] (Full of 5 and 6)
+wassiney shows [7d 7h] (Full of 5 and 7)
+Nicandeme shows [Ah 8h] (Full of 5 and 8)
+Nicandeme collected 1672 from pot
+*** SUMMARY ***
+Total pot 1672 | No rake
+Board: [5s 8c 6s 5c 5d]
+Seat 4: Hoedus (big blind) showed [3h 6c] and lost with Full of 5 and 6
+Seat 8: Nicandeme showed [Ah 8h] and won 1672 with Full of 5 and 8
+Seat 9: wassiney showed [7d 7h] and lost with Full of 5 and 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-49-1459187483 - Holdem no limit (10/100/200) - 2016/03/28 17:51:23 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #3 is the button
+Seat 5: sabre_laser (3903)
+Seat 6: crazyrisx (1285)
+Seat 7: mystyk49 (1690)
+Seat 8: Nicandeme (3086)
+Seat 9: wassiney (2762)
+Seat 10: yakeesback (2274)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Js 6s]
+*** PRE-FLOP *** 
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 5: sabre_laser (big blind) won 260
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-50-1459187498 - Holdem no limit (10/100/200) - 2016/03/28 17:51:38 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #4 is the button
+Seat 5: sabre_laser (3953)
+Seat 6: crazyrisx (1275)
+Seat 7: mystyk49 (1680)
+Seat 8: Nicandeme (3076)
+Seat 9: wassiney (2752)
+Seat 10: yakeesback (2264)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+sabre_laser posts small blind 100
+crazyrisx posts big blind 200
+Dealt to sabre_laser [Qd 2s]
+*** PRE-FLOP *** 
+mystyk49 folds
+Nicandeme folds
+wassiney raises 200 to 400
+yakeesback folds
+sabre_laser folds
+crazyrisx raises 865 to 1265 and is all-in
+wassiney calls 865
+*** FLOP *** [4d Qh 5d]
+*** TURN *** [4d Qh 5d][8d]
+*** RIVER *** [4d Qh 5d 8d][5h]
+*** SHOW DOWN ***
+wassiney shows [Kh Js] (One pair : 5)
+crazyrisx shows [Ah Td] (One pair : 5)
+crazyrisx collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Board: [4d Qh 5d 8d 5h]
+Seat 6: crazyrisx (big blind) showed [Ah Td] and won 2690 with One pair : 5
+Seat 9: wassiney showed [Kh Js] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-51-1459187528 - Holdem no limit (10/100/200) - 2016/03/28 17:52:08 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (3843)
+Seat 6: crazyrisx (2690)
+Seat 7: mystyk49 (1670)
+Seat 8: Nicandeme (3066)
+Seat 9: wassiney (1477)
+Seat 10: yakeesback (2254)
+*** ANTE/BLINDS ***
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+sabre_laser posts ante 10
+Nicandeme posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+crazyrisx posts small blind 100
+mystyk49 posts big blind 200
+Dealt to sabre_laser [9c Jh]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser raises 200 to 400
+crazyrisx folds
+mystyk49 folds
+sabre_laser collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 5: sabre_laser (button) won 760
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-52-1459187553 - Holdem no limit (10/100/200) - 2016/03/28 17:52:33 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 5: sabre_laser (4193)
+Seat 6: crazyrisx (2580)
+Seat 7: mystyk49 (1460)
+Seat 8: Nicandeme (3056)
+Seat 9: wassiney (1467)
+Seat 10: yakeesback (2244)
+*** ANTE/BLINDS ***
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+mystyk49 posts small blind 100
+Nicandeme posts big blind 200
+Dealt to sabre_laser [7h 3s]
+*** PRE-FLOP *** 
+wassiney raises 1257 to 1457 and is all-in
+yakeesback folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme folds
+wassiney collected 1817 from pot
+*** SUMMARY ***
+Total pot 1817 | No rake
+Seat 9: wassiney won 1817
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-53-1459187578 - Holdem no limit (10/100/200) - 2016/03/28 17:52:58 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #7 is the button
+Seat 5: sabre_laser (4183)
+Seat 6: crazyrisx (2570)
+Seat 7: mystyk49 (1350)
+Seat 8: Nicandeme (2846)
+Seat 9: wassiney (1817)
+Seat 10: yakeesback (2234)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 10
+wassiney posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+yakeesback posts ante 10
+Nicandeme posts small blind 100
+wassiney posts big blind 200
+Dealt to sabre_laser [3h Kd]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser folds
+crazyrisx folds
+mystyk49 folds
+Nicandeme raises 200 to 400
+wassiney folds
+Nicandeme collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 8: Nicandeme (small blind) won 660
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-54-1459187603 - Holdem no limit (10/100/200) - 2016/03/28 17:53:23 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (4173)
+Seat 6: crazyrisx (2560)
+Seat 7: mystyk49 (1340)
+Seat 8: Nicandeme (3096)
+Seat 9: wassiney (1607)
+Seat 10: yakeesback (2224)
+*** ANTE/BLINDS ***
+wassiney posts ante 10
+yakeesback posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+mystyk49 posts ante 10
+Nicandeme posts ante 10
+wassiney posts small blind 100
+yakeesback posts big blind 200
+Dealt to sabre_laser [7h As]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+mystyk49 raises 1130 to 1330 and is all-in
+Nicandeme folds
+wassiney raises 267 to 1597 and is all-in
+yakeesback folds
+*** FLOP *** [2h Ks 5h]
+*** TURN *** [2h Ks 5h][Ac]
+*** RIVER *** [2h Ks 5h Ac][4h]
+*** SHOW DOWN ***
+mystyk49 shows [3s 3h] (Straight 5 high)
+wassiney shows [Ah Kh] (Flush Ace high)
+wassiney collected 3187 from pot
+*** SUMMARY ***
+Total pot 3187 | No rake
+Board: [2h Ks 5h Ac 4h]
+Seat 7: mystyk49 showed [3s 3h] and lost with Straight 5 high
+Seat 9: wassiney (small blind) showed [Ah Kh] and won 3187 with Flush Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-55-1459187633 - Holdem no limit (10/100/200) - 2016/03/28 17:53:53 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (4163)
+Seat 6: crazyrisx (2550)
+Seat 8: Nicandeme (3086)
+Seat 9: wassiney (3187)
+Seat 10: yakeesback (2014)
+*** ANTE/BLINDS ***
+yakeesback posts ante 10
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+Nicandeme posts ante 10
+wassiney posts ante 10
+yakeesback posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Kc 4s]
+*** PRE-FLOP *** 
+crazyrisx raises 2340 to 2540 and is all-in
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser folds
+crazyrisx collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | No rake
+Seat 6: crazyrisx won 2890
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-56-1459187649 - Holdem no limit (10/100/200) - 2016/03/28 17:54:09 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (3953)
+Seat 6: crazyrisx (2890)
+Seat 8: Nicandeme (3076)
+Seat 9: wassiney (3177)
+Seat 10: yakeesback (1904)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+crazyrisx posts ante 10
+Nicandeme posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+sabre_laser posts small blind 100
+crazyrisx posts big blind 200
+Dealt to sabre_laser [3s 9s]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney folds
+yakeesback raises 1694 to 1894 and is all-in
+sabre_laser folds
+crazyrisx folds
+yakeesback collected 2244 from pot
+*** SUMMARY ***
+Total pot 2244 | No rake
+Seat 10: yakeesback (button) won 2244
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #661353761616166913-57-1459187664 - Holdem no limit (10/100/200) - 2016/03/28 17:54:24 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (3843)
+Seat 6: crazyrisx (2680)
+Seat 8: Nicandeme (3066)
+Seat 9: wassiney (3167)
+Seat 10: yakeesback (2244)
+*** ANTE/BLINDS ***
+crazyrisx posts ante 10
+Nicandeme posts ante 10
+sabre_laser posts ante 10
+wassiney posts ante 10
+yakeesback posts ante 10
+crazyrisx posts small blind 100
+Nicandeme posts big blind 200
+Dealt to sabre_laser [7d Ah]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+sabre_laser raises 200 to 400
+crazyrisx folds
+Nicandeme calls 200
+*** FLOP *** [2h 8s 4s]
+Nicandeme bets 200
+sabre_laser folds
+Nicandeme collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [2h 8s 4s]
+Seat 8: Nicandeme (big blind) won 1150
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-58-1459187726 - Holdem no limit (20/150/300) - 2016/03/28 17:55:26 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 5: sabre_laser (3433)
+Seat 6: crazyrisx (2570)
+Seat 8: Nicandeme (3606)
+Seat 9: wassiney (3157)
+Seat 10: yakeesback (2234)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 20
+wassiney posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+yakeesback posts ante 20
+Nicandeme posts small blind 150
+wassiney posts big blind 300
+Dealt to sabre_laser [Kc Qh]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser calls 300
+crazyrisx folds
+Nicandeme calls 150
+wassiney checks
+*** FLOP *** [3c Th Ac]
+Nicandeme bets 300
+wassiney folds
+sabre_laser calls 300
+*** TURN *** [3c Th Ac][7h]
+Nicandeme bets 300
+sabre_laser folds
+Nicandeme collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [3c Th Ac 7h]
+Seat 8: Nicandeme (small blind) won 1900
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-59-1459187785 - Holdem no limit (20/150/300) - 2016/03/28 17:56:25 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (2813)
+Seat 6: crazyrisx (2550)
+Seat 8: Nicandeme (4586)
+Seat 9: wassiney (2837)
+Seat 10: yakeesback (2214)
+*** ANTE/BLINDS ***
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts small blind 150
+yakeesback posts big blind 300
+Dealt to sabre_laser [Ks 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+Nicandeme folds
+wassiney folds
+yakeesback collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 10: yakeesback (big blind) won 550
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-60-1459187794 - Holdem no limit (20/150/300) - 2016/03/28 17:56:34 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (2793)
+Seat 6: crazyrisx (2530)
+Seat 8: Nicandeme (4566)
+Seat 9: wassiney (2667)
+Seat 10: yakeesback (2444)
+*** ANTE/BLINDS ***
+yakeesback posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9h Td]
+*** PRE-FLOP *** 
+crazyrisx folds
+Nicandeme folds
+wassiney folds
+yakeesback raises 2124 to 2424 and is all-in
+sabre_laser folds
+yakeesback collected 2824 from pot
+*** SUMMARY ***
+Total pot 2824 | No rake
+Seat 10: yakeesback (small blind) won 2824
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-61-1459187810 - Holdem no limit (20/150/300) - 2016/03/28 17:56:50 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (2473)
+Seat 6: crazyrisx (2510)
+Seat 8: Nicandeme (4546)
+Seat 9: wassiney (2647)
+Seat 10: yakeesback (2824)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts small blind 150
+crazyrisx posts big blind 300
+Dealt to sabre_laser [2h 2s]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney calls 300
+yakeesback folds
+sabre_laser calls 150
+crazyrisx checks
+*** FLOP *** [2d 8s 4c]
+sabre_laser checks
+crazyrisx checks
+wassiney checks
+*** TURN *** [2d 8s 4c][5d]
+sabre_laser checks
+crazyrisx checks
+wassiney checks
+*** RIVER *** [2d 8s 4c 5d][Ah]
+sabre_laser checks
+crazyrisx checks
+wassiney checks
+*** SHOW DOWN ***
+crazyrisx shows [Kh Qd] (High card : Ace)
+wassiney shows [Jd 9d] (High card : Ace)
+sabre_laser shows [2h 2s] (Trips of 2)
+sabre_laser collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [2d 8s 4c 5d Ah]
+Seat 5: sabre_laser (small blind) showed [2h 2s] and won 1000 with Trips of 2
+Seat 6: crazyrisx (big blind) showed [Kh Qd] and lost with High card : Ace
+Seat 9: wassiney showed [Jd 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-62-1459187852 - Holdem no limit (20/150/300) - 2016/03/28 17:57:32 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (3153)
+Seat 6: crazyrisx (2190)
+Seat 8: Nicandeme (4526)
+Seat 9: wassiney (2327)
+Seat 10: yakeesback (2804)
+*** ANTE/BLINDS ***
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+sabre_laser posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+crazyrisx posts small blind 150
+Nicandeme posts big blind 300
+Dealt to sabre_laser [4h Kc]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+sabre_laser folds
+crazyrisx folds
+Nicandeme collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 8: Nicandeme (big blind) won 550
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-63-1459187861 - Holdem no limit (20/150/300) - 2016/03/28 17:57:41 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 5: sabre_laser (3133)
+Seat 6: crazyrisx (2020)
+Seat 8: Nicandeme (4756)
+Seat 9: wassiney (2307)
+Seat 10: yakeesback (2784)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 20
+wassiney posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+yakeesback posts ante 20
+Nicandeme posts small blind 150
+wassiney posts big blind 300
+Dealt to sabre_laser [6s 9s]
+*** PRE-FLOP *** 
+yakeesback raises 2464 to 2764 and is all-in
+sabre_laser folds
+crazyrisx folds
+Nicandeme folds
+wassiney folds
+yakeesback collected 3314 from pot
+*** SUMMARY ***
+Total pot 3314 | No rake
+Seat 10: yakeesback won 3314
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-64-1459187877 - Holdem no limit (20/150/300) - 2016/03/28 17:57:57 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (3113)
+Seat 6: crazyrisx (2000)
+Seat 8: Nicandeme (4586)
+Seat 9: wassiney (1987)
+Seat 10: yakeesback (3314)
+*** ANTE/BLINDS ***
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts small blind 150
+yakeesback posts big blind 300
+Dealt to sabre_laser [5c 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx folds
+Nicandeme calls 300
+wassiney folds
+yakeesback checks
+*** FLOP *** [Ks 6d Ad]
+yakeesback checks
+Nicandeme checks
+*** TURN *** [Ks 6d Ad][Qs]
+yakeesback bets 300
+Nicandeme folds
+yakeesback collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [Ks 6d Ad Qs]
+Seat 10: yakeesback (big blind) won 1150
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-65-1459187913 - Holdem no limit (20/150/300) - 2016/03/28 17:58:33 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (3093)
+Seat 6: crazyrisx (1980)
+Seat 8: Nicandeme (4266)
+Seat 9: wassiney (1817)
+Seat 10: yakeesback (3844)
+*** ANTE/BLINDS ***
+yakeesback posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9c 6d]
+*** PRE-FLOP *** 
+crazyrisx raises 1660 to 1960 and is all-in
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser folds
+crazyrisx collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Seat 6: crazyrisx won 2510
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-66-1459187926 - Holdem no limit (20/150/300) - 2016/03/28 17:58:46 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (2773)
+Seat 6: crazyrisx (2510)
+Seat 8: Nicandeme (4246)
+Seat 9: wassiney (1797)
+Seat 10: yakeesback (3674)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts small blind 150
+crazyrisx posts big blind 300
+Dealt to sabre_laser [3s Jh]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney folds
+yakeesback raises 3354 to 3654 and is all-in
+sabre_laser folds
+crazyrisx folds
+yakeesback collected 4204 from pot
+*** SUMMARY ***
+Total pot 4204 | No rake
+Seat 10: yakeesback (button) won 4204
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-67-1459187941 - Holdem no limit (20/150/300) - 2016/03/28 17:59:01 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (2603)
+Seat 6: crazyrisx (2190)
+Seat 8: Nicandeme (4226)
+Seat 9: wassiney (1777)
+Seat 10: yakeesback (4204)
+*** ANTE/BLINDS ***
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+sabre_laser posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+crazyrisx posts small blind 150
+Nicandeme posts big blind 300
+Dealt to sabre_laser [7d 3c]
+*** PRE-FLOP *** 
+wassiney raises 1457 to 1757 and is all-in
+yakeesback folds
+sabre_laser folds
+crazyrisx folds
+Nicandeme folds
+wassiney collected 2307 from pot
+*** SUMMARY ***
+Total pot 2307 | No rake
+Seat 9: wassiney won 2307
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-68-1459187955 - Holdem no limit (20/150/300) - 2016/03/28 17:59:15 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #6 is the button
+Seat 5: sabre_laser (2583)
+Seat 6: crazyrisx (2020)
+Seat 8: Nicandeme (3906)
+Seat 9: wassiney (2307)
+Seat 10: yakeesback (4184)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 20
+wassiney posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+yakeesback posts ante 20
+Nicandeme posts small blind 150
+wassiney posts big blind 300
+Dealt to sabre_laser [Kd 4s]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser folds
+crazyrisx raises 1700 to 2000 and is all-in
+Nicandeme folds
+wassiney folds
+crazyrisx collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 6: crazyrisx (button) won 2550
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-69-1459187974 - Holdem no limit (20/150/300) - 2016/03/28 17:59:34 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (2563)
+Seat 6: crazyrisx (2550)
+Seat 8: Nicandeme (3736)
+Seat 9: wassiney (1987)
+Seat 10: yakeesback (4164)
+*** ANTE/BLINDS ***
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts small blind 150
+yakeesback posts big blind 300
+Dealt to sabre_laser [7c 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+crazyrisx raises 2230 to 2530 and is all-in
+Nicandeme folds
+wassiney calls 1817 and is all-in
+yakeesback folds
+*** FLOP *** [2c Jh 7s]
+*** TURN *** [2c Jh 7s][Kd]
+*** RIVER *** [2c Jh 7s Kd][Qd]
+*** SHOW DOWN ***
+wassiney shows [9s 9h] (One pair : 9)
+crazyrisx shows [5s 5h] (One pair : 5)
+crazyrisx collected 563 from side pot 1
+wassiney collected 4334 from main pot
+*** SUMMARY ***
+Total pot 4897 | No rake
+Board: [2c Jh 7s Kd Qd]
+Seat 6: crazyrisx showed [5s 5h] and won 563 with One pair : 5
+Seat 9: wassiney (small blind) showed [9s 9h] and won 4334 with One pair : 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-70-1459188005 - Holdem no limit (20/150/300) - 2016/03/28 18:00:05 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (2543)
+Seat 6: crazyrisx (563)
+Seat 8: Nicandeme (3716)
+Seat 9: wassiney (4334)
+Seat 10: yakeesback (3844)
+*** ANTE/BLINDS ***
+yakeesback posts ante 20
+sabre_laser posts ante 20
+crazyrisx posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9h 5c]
+*** PRE-FLOP *** 
+crazyrisx raises 243 to 543 and is all-in
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser calls 243
+*** FLOP *** [8c 5h 8h]
+*** TURN *** [8c 5h 8h][Th]
+*** RIVER *** [8c 5h 8h Th][5d]
+*** SHOW DOWN ***
+crazyrisx shows [4c Kc] (Two pairs : 8 and 5)
+sabre_laser shows [9h 5c] (Full of 5 and 8)
+sabre_laser collected 1336 from pot
+*** SUMMARY ***
+Total pot 1336 | No rake
+Board: [8c 5h 8h Th 5d]
+Seat 5: sabre_laser (big blind) showed [9h 5c] and won 1336 with Full of 5 and 8
+Seat 6: crazyrisx showed [4c Kc] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-71-1459188029 - Holdem no limit (20/150/300) - 2016/03/28 18:00:29 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (3316)
+Seat 8: Nicandeme (3696)
+Seat 9: wassiney (4314)
+Seat 10: yakeesback (3674)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts small blind 150
+Nicandeme posts big blind 300
+Dealt to sabre_laser [Kd Jd]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+sabre_laser raises 300 to 600
+Nicandeme folds
+sabre_laser collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Seat 5: sabre_laser (small blind) won 980
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-72-1459188043 - Holdem no limit (20/150/300) - 2016/03/28 18:00:43 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (3676)
+Seat 8: Nicandeme (3376)
+Seat 9: wassiney (4294)
+Seat 10: yakeesback (3654)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 20
+wassiney posts ante 20
+sabre_laser posts ante 20
+yakeesback posts ante 20
+Nicandeme posts small blind 150
+wassiney posts big blind 300
+Dealt to sabre_laser [As Qh]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser raises 3356 to 3656 and is all-in
+Nicandeme folds
+wassiney folds
+sabre_laser collected 4186 from pot
+*** SUMMARY ***
+Total pot 4186 | No rake
+Seat 5: sabre_laser (button) won 4186
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-73-1459188056 - Holdem no limit (20/150/300) - 2016/03/28 18:00:56 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (4186)
+Seat 8: Nicandeme (3206)
+Seat 9: wassiney (3974)
+Seat 10: yakeesback (3634)
+*** ANTE/BLINDS ***
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts small blind 150
+yakeesback posts big blind 300
+Dealt to sabre_laser [Qd Kc]
+*** PRE-FLOP *** 
+sabre_laser raises 3866 to 4166 and is all-in
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser collected 4696 from pot
+*** SUMMARY ***
+Total pot 4696 | No rake
+Seat 5: sabre_laser won 4696
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-74-1459188074 - Holdem no limit (20/150/300) - 2016/03/28 18:01:14 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (4696)
+Seat 8: Nicandeme (3186)
+Seat 9: wassiney (3804)
+Seat 10: yakeesback (3314)
+*** ANTE/BLINDS ***
+yakeesback posts ante 20
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Kc Jd]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney folds
+yakeesback folds
+sabre_laser collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 5: sabre_laser (big blind) won 530
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-75-1459188078 - Holdem no limit (20/150/300) - 2016/03/28 18:01:18 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (4906)
+Seat 8: Nicandeme (3166)
+Seat 9: wassiney (3784)
+Seat 10: yakeesback (3144)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts small blind 150
+Nicandeme posts big blind 300
+Dealt to sabre_laser [7h Ks]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+sabre_laser raises 300 to 600
+Nicandeme calls 300
+*** FLOP *** [5d 9c 5s]
+sabre_laser bets 4286 and is all-in
+Nicandeme folds
+sabre_laser collected 5566 from pot
+*** SUMMARY ***
+Total pot 5566 | No rake
+Board: [5d 9c 5s]
+Seat 5: sabre_laser (small blind) won 5566
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-76-1459188104 - Holdem no limit (20/150/300) - 2016/03/28 18:01:44 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (5566)
+Seat 8: Nicandeme (2546)
+Seat 9: wassiney (3764)
+Seat 10: yakeesback (3124)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 20
+wassiney posts ante 20
+sabre_laser posts ante 20
+yakeesback posts ante 20
+Nicandeme posts small blind 150
+wassiney posts big blind 300
+Dealt to sabre_laser [3d Jc]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser folds
+Nicandeme raises 2226 to 2526 and is all-in
+wassiney folds
+Nicandeme collected 2906 from pot
+*** SUMMARY ***
+Total pot 2906 | No rake
+Seat 8: Nicandeme (small blind) won 2906
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-77-1459188116 - Holdem no limit (20/150/300) - 2016/03/28 18:01:56 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (5546)
+Seat 8: Nicandeme (2906)
+Seat 9: wassiney (3444)
+Seat 10: yakeesback (3104)
+*** ANTE/BLINDS ***
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts small blind 150
+yakeesback posts big blind 300
+Dealt to sabre_laser [5h 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nicandeme raises 300 to 600
+wassiney folds
+yakeesback folds
+Nicandeme collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Seat 8: Nicandeme (button) won 1130
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-78-1459188127 - Holdem no limit (20/150/300) - 2016/03/28 18:02:07 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (5526)
+Seat 8: Nicandeme (3416)
+Seat 9: wassiney (3274)
+Seat 10: yakeesback (2784)
+*** ANTE/BLINDS ***
+yakeesback posts ante 20
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [3s 6d]
+*** PRE-FLOP *** 
+Nicandeme folds
+wassiney raises 300 to 600
+yakeesback folds
+sabre_laser folds
+wassiney collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Seat 9: wassiney (button) won 1130
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-79-1459188139 - Holdem no limit (20/150/300) - 2016/03/28 18:02:19 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (5206)
+Seat 8: Nicandeme (3396)
+Seat 9: wassiney (3784)
+Seat 10: yakeesback (2614)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts small blind 150
+Nicandeme posts big blind 300
+Dealt to sabre_laser [Ts 3d]
+*** PRE-FLOP *** 
+wassiney raises 3464 to 3764 and is all-in
+yakeesback folds
+sabre_laser folds
+Nicandeme folds
+wassiney collected 4294 from pot
+*** SUMMARY ***
+Total pot 4294 | No rake
+Seat 9: wassiney won 4294
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-80-1459188151 - Holdem no limit (20/150/300) - 2016/03/28 18:02:31 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (5036)
+Seat 8: Nicandeme (3076)
+Seat 9: wassiney (4294)
+Seat 10: yakeesback (2594)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 20
+wassiney posts ante 20
+sabre_laser posts ante 20
+yakeesback posts ante 20
+Nicandeme posts small blind 150
+wassiney posts big blind 300
+Dealt to sabre_laser [Ts 7s]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser folds
+Nicandeme raises 2756 to 3056 and is all-in
+wassiney folds
+Nicandeme collected 3436 from pot
+*** SUMMARY ***
+Total pot 3436 | No rake
+Seat 8: Nicandeme (small blind) won 3436
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-81-1459188163 - Holdem no limit (20/150/300) - 2016/03/28 18:02:43 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (5016)
+Seat 8: Nicandeme (3436)
+Seat 9: wassiney (3974)
+Seat 10: yakeesback (2574)
+*** ANTE/BLINDS ***
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts small blind 150
+yakeesback posts big blind 300
+Dealt to sabre_laser [Ad Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nicandeme folds
+wassiney folds
+yakeesback collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 10: yakeesback (big blind) won 530
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-82-1459188171 - Holdem no limit (20/150/300) - 2016/03/28 18:02:51 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (4996)
+Seat 8: Nicandeme (3416)
+Seat 9: wassiney (3804)
+Seat 10: yakeesback (2784)
+*** ANTE/BLINDS ***
+yakeesback posts ante 20
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [4s 4h]
+*** PRE-FLOP *** 
+Nicandeme raises 3096 to 3396 and is all-in
+wassiney folds
+yakeesback folds
+sabre_laser folds
+Nicandeme collected 3926 from pot
+*** SUMMARY ***
+Total pot 3926 | No rake
+Seat 8: Nicandeme won 3926
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #661353761616166913-83-1459188187 - Holdem no limit (20/150/300) - 2016/03/28 18:03:07 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (4676)
+Seat 8: Nicandeme (3926)
+Seat 9: wassiney (3784)
+Seat 10: yakeesback (2614)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Nicandeme posts ante 20
+wassiney posts ante 20
+yakeesback posts ante 20
+sabre_laser posts small blind 150
+Nicandeme posts big blind 300
+Dealt to sabre_laser [9d 4h]
+*** PRE-FLOP *** 
+wassiney raises 3464 to 3764 and is all-in
+yakeesback folds
+sabre_laser folds
+Nicandeme calls 3464
+*** FLOP *** [5h Qs 3d]
+*** TURN *** [5h Qs 3d][8d]
+*** RIVER *** [5h Qs 3d 8d][7h]
+*** SHOW DOWN ***
+Nicandeme shows [Kd Ah] (High card : Ace)
+wassiney shows [8s 8c] (Trips of 8)
+wassiney collected 7758 from pot
+*** SUMMARY ***
+Total pot 7758 | No rake
+Board: [5h Qs 3d 8d 7h]
+Seat 8: Nicandeme (big blind) showed [Kd Ah] and lost with High card : Ace
+Seat 9: wassiney showed [8s 8c] and won 7758 with Trips of 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-84-1459188208 - Holdem no limit (50/200/400) - 2016/03/28 18:03:28 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (4506)
+Seat 8: Nicandeme (142)
+Seat 9: wassiney (7758)
+Seat 10: yakeesback (2594)
+*** ANTE/BLINDS ***
+Nicandeme posts ante 50
+wassiney posts ante 50
+sabre_laser posts ante 50
+yakeesback posts ante 50
+Nicandeme posts small blind 92 and is all-in
+wassiney posts big blind 400
+Dealt to sabre_laser [Kd Ks]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser folds
+*** FLOP *** [8h 9c 2s]
+*** TURN *** [8h 9c 2s][5c]
+*** RIVER *** [8h 9c 2s 5c][As]
+*** SHOW DOWN ***
+Nicandeme shows [6c Ac] (One pair : Aces)
+wassiney shows [3h Th] (High card : Ace)
+wassiney collected 308 from side pot 1
+Nicandeme collected 384 from main pot
+*** SUMMARY ***
+Total pot 692 | No rake
+Board: [8h 9c 2s 5c As]
+Seat 8: Nicandeme (small blind) showed [6c Ac] and won 384 with One pair : Aces
+Seat 9: wassiney (big blind) showed [3h Th] and won 308 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-85-1459188219 - Holdem no limit (50/200/400) - 2016/03/28 18:03:39 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #8 is the button
+Seat 5: sabre_laser (4456)
+Seat 8: Nicandeme (384)
+Seat 9: wassiney (7616)
+Seat 10: yakeesback (2544)
+*** ANTE/BLINDS ***
+wassiney posts ante 50
+yakeesback posts ante 50
+sabre_laser posts ante 50
+Nicandeme posts ante 50
+wassiney posts small blind 200
+yakeesback posts big blind 400
+Dealt to sabre_laser [9h 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nicandeme calls 334 and is all-in
+wassiney calls 200
+yakeesback checks
+*** FLOP *** [Tc Th 2c]
+wassiney checks
+yakeesback checks
+*** TURN *** [Tc Th 2c][7s]
+wassiney checks
+yakeesback checks
+*** RIVER *** [Tc Th 2c 7s][5d]
+wassiney checks
+yakeesback checks
+*** SHOW DOWN ***
+Nicandeme shows [Kd 9d] (One pair : Tens)
+yakeesback shows [3d 8s] (One pair : Tens)
+wassiney shows [6s Ah] (One pair : Tens)
+wassiney collected 1334 from pot
+*** SUMMARY ***
+Total pot 1334 | No rake
+Board: [Tc Th 2c 7s 5d]
+Seat 8: Nicandeme (button) showed [Kd 9d] and lost with One pair : Tens
+Seat 9: wassiney (small blind) showed [6s Ah] and won 1334 with One pair : Tens
+Seat 10: yakeesback (big blind) showed [3d 8s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-86-1459188242 - Holdem no limit (50/200/400) - 2016/03/28 18:04:02 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (4406)
+Seat 9: wassiney (8500)
+Seat 10: yakeesback (2094)
+*** ANTE/BLINDS ***
+yakeesback posts ante 50
+sabre_laser posts ante 50
+wassiney posts ante 50
+yakeesback posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [3s 8d]
+*** PRE-FLOP *** 
+wassiney raises 400 to 800
+yakeesback folds
+sabre_laser folds
+wassiney collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 9: wassiney (button) won 1550
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-87-1459188250 - Holdem no limit (50/200/400) - 2016/03/28 18:04:10 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (3956)
+Seat 9: wassiney (9200)
+Seat 10: yakeesback (1844)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+wassiney posts ante 50
+yakeesback posts ante 50
+sabre_laser posts small blind 200
+wassiney posts big blind 400
+Dealt to sabre_laser [2c Kh]
+*** PRE-FLOP *** 
+yakeesback raises 1394 to 1794 and is all-in
+sabre_laser folds
+wassiney folds
+yakeesback collected 2544 from pot
+*** SUMMARY ***
+Total pot 2544 | No rake
+Seat 10: yakeesback (button) won 2544
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-88-1459188257 - Holdem no limit (50/200/400) - 2016/03/28 18:04:17 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (3706)
+Seat 9: wassiney (8750)
+Seat 10: yakeesback (2544)
+*** ANTE/BLINDS ***
+wassiney posts ante 50
+yakeesback posts ante 50
+sabre_laser posts ante 50
+wassiney posts small blind 200
+yakeesback posts big blind 400
+Dealt to sabre_laser [Qs 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+wassiney raises 8300 to 8700 and is all-in
+yakeesback folds
+wassiney collected 9250 from pot
+*** SUMMARY ***
+Total pot 9250 | No rake
+Seat 9: wassiney (small blind) won 9250
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-89-1459188265 - Holdem no limit (50/200/400) - 2016/03/28 18:04:25 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (3656)
+Seat 9: wassiney (9250)
+Seat 10: yakeesback (2094)
+*** ANTE/BLINDS ***
+yakeesback posts ante 50
+sabre_laser posts ante 50
+wassiney posts ante 50
+yakeesback posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [2h 3c]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback calls 200
+sabre_laser folds
+yakeesback collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 10: yakeesback (small blind) won 950
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-90-1459188273 - Holdem no limit (50/200/400) - 2016/03/28 18:04:33 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (3206)
+Seat 9: wassiney (9200)
+Seat 10: yakeesback (2594)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+wassiney posts ante 50
+yakeesback posts ante 50
+sabre_laser posts small blind 200
+wassiney posts big blind 400
+Dealt to sabre_laser [Ad Qd]
+*** PRE-FLOP *** 
+yakeesback folds
+sabre_laser raises 2756 to 3156 and is all-in
+wassiney folds
+sabre_laser collected 3706 from pot
+*** SUMMARY ***
+Total pot 3706 | No rake
+Seat 5: sabre_laser (small blind) won 3706
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-91-1459188282 - Holdem no limit (50/200/400) - 2016/03/28 18:04:42 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (3706)
+Seat 9: wassiney (8750)
+Seat 10: yakeesback (2544)
+*** ANTE/BLINDS ***
+wassiney posts ante 50
+yakeesback posts ante 50
+sabre_laser posts ante 50
+wassiney posts small blind 200
+yakeesback posts big blind 400
+Dealt to sabre_laser [Js 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+wassiney raises 400 to 800
+yakeesback folds
+wassiney collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 9: wassiney (small blind) won 1350
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-92-1459188295 - Holdem no limit (50/200/400) - 2016/03/28 18:04:55 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (3656)
+Seat 9: wassiney (9250)
+Seat 10: yakeesback (2094)
+*** ANTE/BLINDS ***
+yakeesback posts ante 50
+sabre_laser posts ante 50
+wassiney posts ante 50
+yakeesback posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [As 9d]
+*** PRE-FLOP *** 
+wassiney folds
+yakeesback folds
+sabre_laser collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 5: sabre_laser (big blind) won 750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-93-1459188302 - Holdem no limit (50/200/400) - 2016/03/28 18:05:02 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #10 is the button
+Seat 5: sabre_laser (3956)
+Seat 9: wassiney (9200)
+Seat 10: yakeesback (1844)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+wassiney posts ante 50
+yakeesback posts ante 50
+sabre_laser posts small blind 200
+wassiney posts big blind 400
+Dealt to sabre_laser [7d 7c]
+*** PRE-FLOP *** 
+yakeesback raises 1394 to 1794 and is all-in
+sabre_laser raises 2112 to 3906 and is all-in
+wassiney folds
+*** FLOP *** [Ad 4h Qc]
+*** TURN *** [Ad 4h Qc][6c]
+*** RIVER *** [Ad 4h Qc 6c][7s]
+*** SHOW DOWN ***
+yakeesback shows [Kh Qh] (One pair : Queens)
+sabre_laser shows [7d 7c] (Trips of 7)
+sabre_laser collected 6250 from pot
+*** SUMMARY ***
+Total pot 6250 | No rake
+Board: [Ad 4h Qc 6c 7s]
+Seat 5: sabre_laser (small blind) showed [7d 7c] and won 6250 with Trips of 7
+Seat 10: yakeesback (button) showed [Kh Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-94-1459188317 - Holdem no limit (50/200/400) - 2016/03/28 18:05:17 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (6250)
+Seat 9: wassiney (8750)
+*** ANTE/BLINDS ***
+wassiney posts ante 50
+sabre_laser posts ante 50
+wassiney posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Js 2c]
+*** PRE-FLOP *** 
+wassiney folds
+sabre_laser collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 5: sabre_laser (big blind) won 700
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-95-1459188324 - Holdem no limit (50/200/400) - 2016/03/28 18:05:24 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (6500)
+Seat 9: wassiney (8500)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+wassiney posts ante 50
+sabre_laser posts small blind 200
+wassiney posts big blind 400
+Dealt to sabre_laser [Ad Jh]
+*** PRE-FLOP *** 
+sabre_laser raises 400 to 800
+wassiney calls 400
+*** FLOP *** [3s 5h 6d]
+wassiney checks
+sabre_laser bets 5650 and is all-in
+wassiney folds
+sabre_laser collected 7350 from pot
+*** SUMMARY ***
+Total pot 7350 | No rake
+Board: [3s 5h 6d]
+Seat 5: sabre_laser (small blind) (button) won 7350
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-96-1459188338 - Holdem no limit (50/200/400) - 2016/03/28 18:05:38 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #9 is the button
+Seat 5: sabre_laser (7350)
+Seat 9: wassiney (7650)
+*** ANTE/BLINDS ***
+wassiney posts ante 50
+sabre_laser posts ante 50
+wassiney posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Qh 4h]
+*** PRE-FLOP *** 
+wassiney raises 900 to 1300
+sabre_laser calls 900
+*** FLOP *** [Qd 2d Qs]
+sabre_laser checks
+wassiney bets 6300 and is all-in
+sabre_laser calls 6000 and is all-in
+*** TURN *** [Qd 2d Qs][Ts]
+*** RIVER *** [Qd 2d Qs Ts][Ks]
+*** SHOW DOWN ***
+sabre_laser shows [Qh 4h] (Trips of Queens)
+wassiney shows [7d Ad] (One pair : Queens)
+wassiney collected 300 from side pot 1
+sabre_laser collected 14700 from main pot
+*** SUMMARY ***
+Total pot 15000 | No rake
+Board: [Qd 2d Qs Ts Ks]
+Seat 5: sabre_laser (big blind) showed [Qh 4h] and won 14700 with Trips of Queens
+Seat 9: wassiney (small blind) (button) showed [7d Ad] and won 300 with One pair : Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #661353761616166913-97-1459188363 - Holdem no limit (50/200/400) - 2016/03/28 18:06:03 UTC
+Table: 'No Limit Hold'em(153983422)#0' 10-max (real money) Seat #5 is the button
+Seat 5: sabre_laser (14700)
+Seat 9: wassiney (300)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+wassiney posts ante 50
+sabre_laser posts small blind 200
+wassiney posts big blind 250 and is all-in
+Dealt to sabre_laser [Kh Jc]
+*** PRE-FLOP *** 
+sabre_laser calls 200
+*** FLOP *** [3d 6h Kd]
+*** TURN *** [3d 6h Kd][7c]
+*** RIVER *** [3d 6h Kd 7c][8s]
+*** SHOW DOWN ***
+wassiney shows [4h Qc] (High card : King)
+sabre_laser shows [Kh Jc] (One pair : Kings)
+sabre_laser collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [3d 6h Kd 7c 8s]
+Seat 5: sabre_laser (small blind) (button) showed [Kh Jc] and won 750 with One pair : Kings
+Seat 9: wassiney (big blind) showed [4h Qc] and lost with High card : King
+
+

@@ -1,0 +1,1074 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #566940437600796738-1-1444484524 - Holdem no limit (60/300/600) - 2015/10/10 13:42:04 UTC
+Table: 'MiniRoll(132001107)#065' 6-max (real money) Seat #3 is the button
+Seat 3: feross (10000)
+Seat 4: sabre_laser (10000)
+*** ANTE/BLINDS ***
+feross posts ante 60
+sabre_laser posts ante 60
+feross posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [5d 9s]
+*** PRE-FLOP *** 
+feross raises 600 to 1200
+sabre_laser folds
+feross collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Seat 3: feross (small blind) (button) won 1920
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #566940437600796738-2-1444484558 - Holdem no limit (60/300/600) - 2015/10/10 13:42:38 UTC
+Table: 'MiniRoll(132001107)#065' 6-max (real money) Seat #3 is the button
+Seat 1: tetard55 (13340)
+Seat 2: Broozy M (10000)
+Seat 3: feross (10660)
+Seat 4: sabre_laser (9340)
+Seat 5: 1meko0ol (10000)
+Seat 6: AntArt...hic (10000)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 60
+1meko0ol posts ante 60
+tetard55 posts ante 60
+Broozy M posts ante 60
+feross posts ante 60
+AntArt...hic posts ante 60
+sabre_laser posts small blind 300
+1meko0ol posts big blind 600
+Dealt to sabre_laser [9d Jc]
+*** PRE-FLOP *** 
+AntArt...hic folds
+tetard55 folds
+Broozy M folds
+feross calls 600
+sabre_laser calls 300
+1meko0ol raises 1200 to 1800
+feross calls 1200
+sabre_laser calls 1200
+*** FLOP *** [Qh 4d Tc]
+sabre_laser checks
+1meko0ol bets 6000
+feross folds
+sabre_laser raises 1480 to 7480 and is all-in
+1meko0ol calls 1480
+*** TURN *** [Qh 4d Tc][Jd]
+*** RIVER *** [Qh 4d Tc Jd][6d]
+*** SHOW DOWN ***
+1meko0ol shows [As 5s] (High card : Ace)
+sabre_laser shows [9d Jc] (One pair : Jacks)
+sabre_laser collected 20720 from pot
+*** SUMMARY ***
+Total pot 20720 | No rake
+Board: [Qh 4d Tc Jd 6d]
+Seat 4: sabre_laser (small blind) showed [9d Jc] and won 20720 with One pair : Jacks
+Seat 5: 1meko0ol (big blind) showed [As 5s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #566940437600796738-3-1444484612 - Holdem no limit (60/300/600) - 2015/10/10 13:43:32 UTC
+Table: 'MiniRoll(132001107)#065' 6-max (real money) Seat #4 is the button
+Seat 1: tetard55 (13280)
+Seat 2: Broozy M (9940)
+Seat 3: feross (8800)
+Seat 4: sabre_laser (20720)
+Seat 6: AntArt...hic (9940)
+*** ANTE/BLINDS ***
+AntArt...hic posts ante 60
+tetard55 posts ante 60
+Broozy M posts ante 60
+feross posts ante 60
+sabre_laser posts ante 60
+AntArt...hic posts big blind 600
+Dealt to sabre_laser [5s Qh]
+*** PRE-FLOP *** 
+tetard55 folds
+Broozy M folds
+feross calls 600
+sabre_laser folds
+AntArt...hic checks
+*** FLOP *** [9d 4s Kc]
+AntArt...hic checks
+feross checks
+*** TURN *** [9d 4s Kc][8c]
+AntArt...hic bets 750
+feross raises 750 to 1500
+AntArt...hic calls 750
+*** RIVER *** [9d 4s Kc 8c][8h]
+AntArt...hic checks
+feross bets 6640 and is all-in
+AntArt...hic folds
+feross collected 11140 from pot
+*** SUMMARY ***
+Total pot 11140 | No rake
+Board: [9d 4s Kc 8c 8h]
+Seat 3: feross won 11140
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796738-4-1444484667 - Holdem no limit (75/400/800) - 2015/10/10 13:44:27 UTC
+Table: 'MiniRoll(132001107)#065' 6-max (real money) Seat #5 is the button
+Seat 1: tetard55 (13220)
+Seat 2: Broozy M (9880)
+Seat 3: feross (11140)
+Seat 4: sabre_laser (20660)
+Seat 5: fillo 21 (8980)
+Seat 6: AntArt...hic (7780)
+*** ANTE/BLINDS ***
+AntArt...hic posts ante 75
+tetard55 posts ante 75
+Broozy M posts ante 75
+feross posts ante 75
+sabre_laser posts ante 75
+AntArt...hic posts small blind 400
+tetard55 posts big blind 800
+Dealt to sabre_laser [6s 3c]
+*** PRE-FLOP *** 
+Broozy M folds
+feross calls 800
+sabre_laser folds
+AntArt...hic folds
+tetard55 checks
+*** FLOP *** [8d 4h 7s]
+tetard55 bets 2375
+feross raises 7890 to 10265 and is all-in
+tetard55 raises 2080 to 12345 and is all-in
+*** TURN *** [8d 4h 7s][Jc]
+*** RIVER *** [8d 4h 7s Jc][Qs]
+*** SHOW DOWN ***
+feross shows [Ac 7c] (One pair : 7)
+tetard55 shows [Kd 8s] (One pair : 8)
+tetard55 collected 24985 from pot
+*** SUMMARY ***
+Total pot 24985 | No rake
+Board: [8d 4h 7s Jc Qs]
+Seat 1: tetard55 (big blind) showed [Kd 8s] and won 24985 with One pair : 8
+Seat 3: feross showed [Ac 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796685-61-1444484765 - Holdem no limit (75/400/800) - 2015/10/10 13:46:05 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (20585)
+Seat 2: Wsop88-21 (3870)
+Seat 3: bens690 (31782)
+Seat 4: Rezzo (3540)
+Seat 5: scarlouch91 (20445)
+Seat 6: ZEN24 (20438)
+*** ANTE/BLINDS ***
+ZEN24 posts ante 75
+sabre_laser posts ante 75
+Wsop88-21 posts ante 75
+bens690 posts ante 75
+Rezzo posts ante 75
+scarlouch91 posts ante 75
+ZEN24 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Tc 9c]
+*** PRE-FLOP *** 
+Wsop88-21 folds
+bens690 folds
+Rezzo folds
+scarlouch91 folds
+ZEN24 calls 400
+sabre_laser checks
+*** FLOP *** [Kd 6s Ks]
+ZEN24 checks
+sabre_laser checks
+*** TURN *** [Kd 6s Ks][Qc]
+ZEN24 checks
+sabre_laser bets 800
+ZEN24 calls 800
+*** RIVER *** [Kd 6s Ks Qc][9h]
+ZEN24 checks
+sabre_laser checks
+*** SHOW DOWN ***
+ZEN24 shows [7c Jc] (One pair : Kings)
+sabre_laser shows [Tc 9c] (Two pairs : Kings and 9)
+sabre_laser collected 3650 from pot
+*** SUMMARY ***
+Total pot 3650 | No rake
+Board: [Kd 6s Ks Qc 9h]
+Seat 1: sabre_laser (big blind) showed [Tc 9c] and won 3650 with Two pairs : Kings and 9
+Seat 6: ZEN24 (small blind) showed [7c Jc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796685-62-1444484817 - Holdem no limit (75/400/800) - 2015/10/10 13:46:57 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (22560)
+Seat 2: Wsop88-21 (3795)
+Seat 3: bens690 (31707)
+Seat 4: Rezzo (3465)
+Seat 5: scarlouch91 (20370)
+Seat 6: ZEN24 (18763)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+Wsop88-21 posts ante 75
+bens690 posts ante 75
+Rezzo posts ante 75
+scarlouch91 posts ante 75
+ZEN24 posts ante 75
+sabre_laser posts small blind 400
+Wsop88-21 posts big blind 800
+Dealt to sabre_laser [9h 5d]
+*** PRE-FLOP *** 
+bens690 folds
+Rezzo folds
+scarlouch91 folds
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 2: Wsop88-21 (big blind) won 1650
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796685-63-1444484842 - Holdem no limit (75/400/800) - 2015/10/10 13:47:22 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (22085)
+Seat 2: Wsop88-21 (4570)
+Seat 3: bens690 (31632)
+Seat 4: Rezzo (3390)
+Seat 5: scarlouch91 (20295)
+Seat 6: ZEN24 (18688)
+*** ANTE/BLINDS ***
+Wsop88-21 posts ante 75
+bens690 posts ante 75
+sabre_laser posts ante 75
+Rezzo posts ante 75
+scarlouch91 posts ante 75
+ZEN24 posts ante 75
+Wsop88-21 posts small blind 400
+bens690 posts big blind 800
+Dealt to sabre_laser [4s 6h]
+*** PRE-FLOP *** 
+Rezzo folds
+scarlouch91 folds
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 raises 3695 to 4495 and is all-in
+bens690 folds
+Wsop88-21 collected 5745 from pot
+*** SUMMARY ***
+Total pot 5745 | No rake
+Seat 2: Wsop88-21 (small blind) won 5745
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796685-64-1444484883 - Holdem no limit (75/400/800) - 2015/10/10 13:48:03 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (22010)
+Seat 2: Wsop88-21 (5745)
+Seat 3: bens690 (30757)
+Seat 4: Rezzo (3315)
+Seat 5: scarlouch91 (20220)
+Seat 6: ZEN24 (18613)
+*** ANTE/BLINDS ***
+bens690 posts ante 75
+Rezzo posts ante 75
+sabre_laser posts ante 75
+Wsop88-21 posts ante 75
+scarlouch91 posts ante 75
+ZEN24 posts ante 75
+bens690 posts small blind 400
+Rezzo posts big blind 800
+Dealt to sabre_laser [7d 3h]
+*** PRE-FLOP *** 
+scarlouch91 raises 1200 to 2000
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 raises 1200 to 3200
+bens690 folds
+Rezzo folds
+scarlouch91 calls 1200
+*** FLOP *** [Th 5c 4s]
+scarlouch91 checks
+Wsop88-21 bets 2470 and is all-in
+scarlouch91 calls 2470
+*** TURN *** [Th 5c 4s][4d]
+*** RIVER *** [Th 5c 4s 4d][Jc]
+*** SHOW DOWN ***
+scarlouch91 shows [8c 7c] (One pair : 4)
+Wsop88-21 shows [8d Ad] (One pair : 4)
+Wsop88-21 collected 12990 from pot
+*** SUMMARY ***
+Total pot 12990 | No rake
+Board: [Th 5c 4s 4d Jc]
+Seat 2: Wsop88-21 (button) showed [8d Ad] and won 12990 with One pair : 4
+Seat 5: scarlouch91 showed [8c 7c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796685-65-1444484921 - Holdem no limit (75/400/800) - 2015/10/10 13:48:41 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (21935)
+Seat 2: Wsop88-21 (12990)
+Seat 3: bens690 (30282)
+Seat 4: Rezzo (2440)
+Seat 5: scarlouch91 (14475)
+Seat 6: ZEN24 (18538)
+*** ANTE/BLINDS ***
+Rezzo posts ante 75
+scarlouch91 posts ante 75
+sabre_laser posts ante 75
+Wsop88-21 posts ante 75
+bens690 posts ante 75
+ZEN24 posts ante 75
+Rezzo posts small blind 400
+scarlouch91 posts big blind 800
+Dealt to sabre_laser [3d Kc]
+*** PRE-FLOP *** 
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 calls 800
+bens690 folds
+Rezzo folds
+scarlouch91 checks
+*** FLOP *** [Ad 5d 6c]
+scarlouch91 checks
+Wsop88-21 bets 1600
+scarlouch91 folds
+Wsop88-21 collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | No rake
+Board: [Ad 5d 6c]
+Seat 2: Wsop88-21 won 4050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796685-66-1444484959 - Holdem no limit (75/400/800) - 2015/10/10 13:49:19 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (21860)
+Seat 2: Wsop88-21 (14565)
+Seat 3: bens690 (30207)
+Seat 4: Rezzo (1965)
+Seat 5: scarlouch91 (13600)
+Seat 6: ZEN24 (18463)
+*** ANTE/BLINDS ***
+scarlouch91 posts ante 75
+ZEN24 posts ante 75
+sabre_laser posts ante 75
+Wsop88-21 posts ante 75
+bens690 posts ante 75
+Rezzo posts ante 75
+scarlouch91 posts small blind 400
+ZEN24 posts big blind 800
+Dealt to sabre_laser [6h 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Wsop88-21 folds
+bens690 folds
+Rezzo folds
+scarlouch91 folds
+ZEN24 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 6: ZEN24 (big blind) won 1650
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #566940437600796685-67-1444484975 - Holdem no limit (75/400/800) - 2015/10/10 13:49:35 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (21785)
+Seat 2: Wsop88-21 (14490)
+Seat 3: bens690 (30132)
+Seat 4: Rezzo (1890)
+Seat 5: scarlouch91 (13125)
+Seat 6: ZEN24 (19238)
+*** ANTE/BLINDS ***
+ZEN24 posts ante 75
+sabre_laser posts ante 75
+Wsop88-21 posts ante 75
+bens690 posts ante 75
+Rezzo posts ante 75
+scarlouch91 posts ante 75
+ZEN24 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [8c Th]
+*** PRE-FLOP *** 
+Wsop88-21 calls 800
+bens690 folds
+Rezzo folds
+scarlouch91 folds
+ZEN24 folds
+sabre_laser checks
+*** FLOP *** [2h Qd Ks]
+sabre_laser checks
+Wsop88-21 checks
+*** TURN *** [2h Qd Ks][Qc]
+sabre_laser checks
+Wsop88-21 checks
+*** RIVER *** [2h Qd Ks Qc][9d]
+sabre_laser checks
+Wsop88-21 checks
+*** SHOW DOWN ***
+sabre_laser shows [8c Th] (One pair : Queens)
+Wsop88-21 shows [As 6d] (One pair : Queens)
+Wsop88-21 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Board: [2h Qd Ks Qc 9d]
+Seat 1: sabre_laser (big blind) showed [8c Th] and lost with One pair : Queens
+Seat 2: Wsop88-21 showed [As 6d] and won 2450 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #566940437600796685-68-1444485031 - Holdem no limit (100/500/1000) - 2015/10/10 13:50:31 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (20910)
+Seat 2: Wsop88-21 (16065)
+Seat 3: bens690 (30057)
+Seat 4: Rezzo (1815)
+Seat 5: scarlouch91 (13050)
+Seat 6: ZEN24 (18763)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Wsop88-21 posts ante 100
+bens690 posts ante 100
+Rezzo posts ante 100
+scarlouch91 posts ante 100
+ZEN24 posts ante 100
+sabre_laser posts small blind 500
+Wsop88-21 posts big blind 1000
+Dealt to sabre_laser [Kc 6h]
+*** PRE-FLOP *** 
+bens690 folds
+Rezzo folds
+scarlouch91 folds
+ZEN24 folds
+sabre_laser calls 500
+Wsop88-21 raises 1500 to 2500
+sabre_laser calls 1500
+*** FLOP *** [9h 4d Kh]
+sabre_laser bets 18310 and is all-in
+Wsop88-21 folds
+sabre_laser collected 23910 from pot
+*** SUMMARY ***
+Total pot 23910 | No rake
+Board: [9h 4d Kh]
+Seat 1: sabre_laser (small blind) won 23910
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #566940437600796685-69-1444485078 - Holdem no limit (100/500/1000) - 2015/10/10 13:51:18 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (23910)
+Seat 2: Wsop88-21 (13465)
+Seat 3: bens690 (29957)
+Seat 4: Rezzo (1715)
+Seat 5: scarlouch91 (12950)
+Seat 6: ZEN24 (18663)
+*** ANTE/BLINDS ***
+Wsop88-21 posts ante 100
+bens690 posts ante 100
+sabre_laser posts ante 100
+Rezzo posts ante 100
+scarlouch91 posts ante 100
+ZEN24 posts ante 100
+Wsop88-21 posts small blind 500
+bens690 posts big blind 1000
+Dealt to sabre_laser [6s 7h]
+*** PRE-FLOP *** 
+Rezzo folds
+scarlouch91 folds
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 calls 500
+bens690 checks
+*** FLOP *** [Ah 5d 8d]
+Wsop88-21 checks
+bens690 checks
+*** TURN *** [Ah 5d 8d][7s]
+Wsop88-21 checks
+bens690 checks
+*** RIVER *** [Ah 5d 8d 7s][9d]
+Wsop88-21 bets 1000
+bens690 folds
+Wsop88-21 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [Ah 5d 8d 7s 9d]
+Seat 2: Wsop88-21 (small blind) won 3600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #566940437600796685-70-1444485114 - Holdem no limit (100/500/1000) - 2015/10/10 13:51:54 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (23810)
+Seat 2: Wsop88-21 (14965)
+Seat 3: bens690 (28857)
+Seat 4: Rezzo (1615)
+Seat 5: scarlouch91 (12850)
+Seat 6: ZEN24 (18563)
+*** ANTE/BLINDS ***
+bens690 posts ante 100
+Rezzo posts ante 100
+sabre_laser posts ante 100
+Wsop88-21 posts ante 100
+scarlouch91 posts ante 100
+ZEN24 posts ante 100
+bens690 posts small blind 500
+Rezzo posts big blind 1000
+Dealt to sabre_laser [6h 3d]
+*** PRE-FLOP *** 
+scarlouch91 folds
+ZEN24 calls 1000
+sabre_laser folds
+Wsop88-21 folds
+bens690 calls 500
+Rezzo folds
+*** FLOP *** [Qs 2h Qc]
+bens690 checks
+ZEN24 checks
+*** TURN *** [Qs 2h Qc][3h]
+bens690 checks
+ZEN24 checks
+*** RIVER *** [Qs 2h Qc 3h][Ks]
+bens690 checks
+ZEN24 bets 1000
+bens690 folds
+ZEN24 collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Board: [Qs 2h Qc 3h Ks]
+Seat 6: ZEN24 won 4600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #566940437600796685-71-1444485151 - Holdem no limit (100/500/1000) - 2015/10/10 13:52:31 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (23710)
+Seat 2: Wsop88-21 (14865)
+Seat 3: bens690 (27757)
+Seat 4: Rezzo (515)
+Seat 5: scarlouch91 (12750)
+Seat 6: ZEN24 (21063)
+*** ANTE/BLINDS ***
+Rezzo posts ante 100
+scarlouch91 posts ante 100
+sabre_laser posts ante 100
+Wsop88-21 posts ante 100
+bens690 posts ante 100
+ZEN24 posts ante 100
+Rezzo posts small blind 415 and is all-in
+scarlouch91 posts big blind 1000
+Dealt to sabre_laser [3s Ad]
+*** PRE-FLOP *** 
+ZEN24 calls 1000
+sabre_laser folds
+Wsop88-21 calls 1000
+bens690 folds
+scarlouch91 raises 2000 to 3000
+ZEN24 calls 2000
+Wsop88-21 calls 2000
+*** FLOP *** [8h Th 5c]
+scarlouch91 checks
+ZEN24 checks
+Wsop88-21 checks
+*** TURN *** [8h Th 5c][9c]
+scarlouch91 bets 5008
+ZEN24 calls 5008
+Wsop88-21 folds
+*** RIVER *** [8h Th 5c 9c][Jc]
+scarlouch91 bets 4642 and is all-in
+ZEN24 folds
+*** SHOW DOWN ***
+Rezzo shows [Kh Kc] (One pair : Kings)
+scarlouch91 shows [9h 9d] (Trips of 9)
+scarlouch91 collected 24673 from pot
+*** SUMMARY ***
+Total pot 24673 | No rake
+Board: [8h Th 5c 9c Jc]
+Seat 4: Rezzo (small blind) showed [Kh Kc] and lost with One pair : Kings
+Seat 5: scarlouch91 (big blind) showed [9h 9d] and won 24673 with Trips of 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #566940437600796685-72-1444485233 - Holdem no limit (100/500/1000) - 2015/10/10 13:53:53 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (23610)
+Seat 2: Wsop88-21 (11765)
+Seat 3: bens690 (27657)
+Seat 5: scarlouch91 (24673)
+Seat 6: ZEN24 (12955)
+*** ANTE/BLINDS ***
+scarlouch91 posts ante 100
+ZEN24 posts ante 100
+sabre_laser posts ante 100
+Wsop88-21 posts ante 100
+bens690 posts ante 100
+scarlouch91 posts small blind 500
+ZEN24 posts big blind 1000
+Dealt to sabre_laser [Td Ac]
+*** PRE-FLOP *** 
+sabre_laser raises 1000 to 2000
+Wsop88-21 folds
+bens690 folds
+scarlouch91 folds
+ZEN24 calls 1000
+*** FLOP *** [4c Tc 3d]
+ZEN24 checks
+sabre_laser bets 1000
+ZEN24 calls 1000
+*** TURN *** [4c Tc 3d][4h]
+ZEN24 checks
+sabre_laser checks
+*** RIVER *** [4c Tc 3d 4h][6s]
+ZEN24 checks
+sabre_laser checks
+*** SHOW DOWN ***
+ZEN24 shows [8s 8d] (Two pairs : 8 and 4)
+sabre_laser shows [Td Ac] (Two pairs : Tens and 4)
+sabre_laser collected 7000 from pot
+*** SUMMARY ***
+Total pot 7000 | No rake
+Board: [4c Tc 3d 4h 6s]
+Seat 1: sabre_laser showed [Td Ac] and won 7000 with Two pairs : Tens and 4
+Seat 6: ZEN24 (big blind) showed [8s 8d] and lost with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #566940437600796685-73-1444485273 - Holdem no limit (100/500/1000) - 2015/10/10 13:54:33 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (27510)
+Seat 2: Wsop88-21 (11665)
+Seat 3: bens690 (27557)
+Seat 5: scarlouch91 (24073)
+Seat 6: ZEN24 (9855)
+*** ANTE/BLINDS ***
+ZEN24 posts ante 100
+sabre_laser posts ante 100
+Wsop88-21 posts ante 100
+bens690 posts ante 100
+scarlouch91 posts ante 100
+ZEN24 posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [Ac Th]
+*** PRE-FLOP *** 
+Wsop88-21 raises 1000 to 2000
+bens690 folds
+scarlouch91 calls 2000
+ZEN24 folds
+sabre_laser calls 1000
+*** FLOP *** [9d 9c 2s]
+sabre_laser checks
+Wsop88-21 bets 9565 and is all-in
+scarlouch91 folds
+sabre_laser folds
+Wsop88-21 collected 16565 from pot
+*** SUMMARY ***
+Total pot 16565 | No rake
+Board: [9d 9c 2s]
+Seat 2: Wsop88-21 won 16565
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #566940437600796685-74-1444485602 - Holdem no limit (100/500/1000) - 2015/10/10 14:00:02 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (25410)
+Seat 2: Wsop88-21 (16565)
+Seat 3: bens690 (27457)
+Seat 5: scarlouch91 (21973)
+Seat 6: ZEN24 (9255)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Wsop88-21 posts ante 100
+bens690 posts ante 100
+scarlouch91 posts ante 100
+ZEN24 posts ante 100
+sabre_laser posts small blind 500
+Wsop88-21 posts big blind 1000
+Dealt to sabre_laser [3c 2s]
+*** PRE-FLOP *** 
+bens690 folds
+scarlouch91 folds
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Seat 2: Wsop88-21 (big blind) won 2000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-75-1444485696 - Holdem no limit (150/600/1200) - 2015/10/10 14:01:36 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (24810)
+Seat 2: Wsop88-21 (17465)
+Seat 3: bens690 (27357)
+Seat 5: scarlouch91 (21873)
+Seat 6: ZEN24 (9155)
+*** ANTE/BLINDS ***
+Wsop88-21 posts ante 150
+bens690 posts ante 150
+sabre_laser posts ante 150
+scarlouch91 posts ante 150
+ZEN24 posts ante 150
+Wsop88-21 posts small blind 600
+bens690 posts big blind 1200
+Dealt to sabre_laser [2s 2c]
+*** PRE-FLOP *** 
+scarlouch91 raises 1800 to 3000
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 folds
+bens690 calls 1800
+*** FLOP *** [4h 9d 3c]
+bens690 checks
+scarlouch91 bets 3675
+bens690 folds
+scarlouch91 collected 11025 from pot
+*** SUMMARY ***
+Total pot 11025 | No rake
+Board: [4h 9d 3c]
+Seat 5: scarlouch91 won 11025
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-76-1444485718 - Holdem no limit (150/600/1200) - 2015/10/10 14:01:58 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (24660)
+Seat 2: Wsop88-21 (16715)
+Seat 3: bens690 (24207)
+Seat 5: scarlouch91 (26073)
+Seat 6: ZEN24 (9005)
+*** ANTE/BLINDS ***
+bens690 posts ante 150
+scarlouch91 posts ante 150
+sabre_laser posts ante 150
+Wsop88-21 posts ante 150
+ZEN24 posts ante 150
+bens690 posts small blind 600
+scarlouch91 posts big blind 1200
+Dealt to sabre_laser [6h Ts]
+*** PRE-FLOP *** 
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 folds
+bens690 folds
+scarlouch91 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 5: scarlouch91 (big blind) won 2550
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-77-1444485733 - Holdem no limit (150/600/1200) - 2015/10/10 14:02:13 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (24510)
+Seat 2: Wsop88-21 (16565)
+Seat 3: bens690 (23457)
+Seat 5: scarlouch91 (27273)
+Seat 6: ZEN24 (8855)
+*** ANTE/BLINDS ***
+scarlouch91 posts ante 150
+ZEN24 posts ante 150
+sabre_laser posts ante 150
+Wsop88-21 posts ante 150
+bens690 posts ante 150
+scarlouch91 posts small blind 600
+ZEN24 posts big blind 1200
+Dealt to sabre_laser [6s 7d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Wsop88-21 folds
+bens690 calls 1200
+scarlouch91 calls 600
+ZEN24 folds
+*** FLOP *** [7h Qh 7s]
+scarlouch91 checks
+bens690 bets 1200
+scarlouch91 calls 1200
+*** TURN *** [7h Qh 7s][5h]
+scarlouch91 checks
+bens690 bets 1200
+scarlouch91 calls 1200
+*** RIVER *** [7h Qh 7s 5h][Kd]
+scarlouch91 checks
+bens690 bets 1200
+scarlouch91 calls 1200
+*** SHOW DOWN ***
+bens690 shows [Qc Ts] (Two pairs : Queens and 7)
+scarlouch91 shows [Qs Js] (Two pairs : Queens and 7)
+scarlouch91 collected 5775 from pot
+bens690 collected 5775 from pot
+*** SUMMARY ***
+Total pot 11550 | No rake
+Board: [7h Qh 7s 5h Kd]
+Seat 3: bens690 (button) showed [Qc Ts] and won 5775 with Two pairs : Queens and 7
+Seat 5: scarlouch91 (small blind) showed [Qs Js] and won 5775 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-78-1444485769 - Holdem no limit (150/600/1200) - 2015/10/10 14:02:49 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (24360)
+Seat 2: Wsop88-21 (16415)
+Seat 3: bens690 (24282)
+Seat 4: jaaff (8710)
+Seat 5: scarlouch91 (28098)
+Seat 6: ZEN24 (7505)
+*** ANTE/BLINDS ***
+ZEN24 posts ante 150
+sabre_laser posts ante 150
+Wsop88-21 posts ante 150
+bens690 posts ante 150
+jaaff posts ante 150
+scarlouch91 posts ante 150
+ZEN24 posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [8s 7s]
+*** PRE-FLOP *** 
+Wsop88-21 folds
+bens690 folds
+jaaff folds
+scarlouch91 calls 1200
+ZEN24 folds
+sabre_laser folds
+scarlouch91 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Seat 5: scarlouch91 (button) won 3900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-79-1444485865 - Holdem no limit (150/600/1200) - 2015/10/10 14:04:25 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (23010)
+Seat 2: Wsop88-21 (16265)
+Seat 3: bens690 (24132)
+Seat 4: jaaff (8560)
+Seat 5: scarlouch91 (30648)
+Seat 6: ZEN24 (6755)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 150
+Wsop88-21 posts ante 150
+bens690 posts ante 150
+jaaff posts ante 150
+scarlouch91 posts ante 150
+ZEN24 posts ante 150
+sabre_laser posts small blind 600
+Wsop88-21 posts big blind 1200
+Dealt to sabre_laser [5s 8s]
+*** PRE-FLOP *** 
+bens690 raises 2400 to 3600
+jaaff raises 2400 to 6000
+scarlouch91 folds
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 folds
+bens690 raises 3000 to 9000
+jaaff calls 2410 and is all-in
+*** FLOP *** [Kh Th 3s]
+*** TURN *** [Kh Th 3s][Jd]
+*** RIVER *** [Kh Th 3s Jd][9h]
+*** SHOW DOWN ***
+jaaff shows [Jc Ks] (Two pairs : Kings and Jacks)
+bens690 shows [Kd Ad] (One pair : Kings)
+bens690 collected 590 from side pot 1
+jaaff collected 19520 from main pot
+*** SUMMARY ***
+Total pot 20110 | No rake
+Board: [Kh Th 3s Jd 9h]
+Seat 3: bens690 showed [Kd Ad] and won 590 with One pair : Kings
+Seat 4: jaaff showed [Jc Ks] and won 19520 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-80-1444485897 - Holdem no limit (150/600/1200) - 2015/10/10 14:04:57 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (22260)
+Seat 2: Wsop88-21 (14915)
+Seat 3: bens690 (15572)
+Seat 4: jaaff (19520)
+Seat 5: scarlouch91 (30498)
+Seat 6: ZEN24 (6605)
+*** ANTE/BLINDS ***
+Wsop88-21 posts ante 150
+bens690 posts ante 150
+sabre_laser posts ante 150
+jaaff posts ante 150
+scarlouch91 posts ante 150
+ZEN24 posts ante 150
+Wsop88-21 posts small blind 600
+bens690 posts big blind 1200
+Dealt to sabre_laser [4h 3c]
+*** PRE-FLOP *** 
+jaaff calls 1200
+scarlouch91 folds
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 folds
+bens690 checks
+*** FLOP *** [2h 5d 4s]
+bens690 checks
+jaaff bets 1200
+bens690 folds
+jaaff collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [2h 5d 4s]
+Seat 4: jaaff won 5100
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-81-1444485919 - Holdem no limit (150/600/1200) - 2015/10/10 14:05:19 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (22110)
+Seat 2: Wsop88-21 (14165)
+Seat 3: bens690 (14222)
+Seat 4: jaaff (22070)
+Seat 5: scarlouch91 (30348)
+Seat 6: ZEN24 (6455)
+*** ANTE/BLINDS ***
+bens690 posts ante 150
+jaaff posts ante 150
+sabre_laser posts ante 150
+Wsop88-21 posts ante 150
+scarlouch91 posts ante 150
+ZEN24 posts ante 150
+bens690 posts small blind 600
+jaaff posts big blind 1200
+Dealt to sabre_laser [2s Qc]
+*** PRE-FLOP *** 
+scarlouch91 raises 1800 to 3000
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 calls 3000
+bens690 folds
+jaaff raises 10500 to 13500
+scarlouch91 raises 10500 to 24000
+Wsop88-21 folds
+jaaff calls 8420 and is all-in
+*** FLOP *** [Js 7c Kh]
+*** TURN *** [Js 7c Kh][Kc]
+*** RIVER *** [Js 7c Kh Kc][Ah]
+*** SHOW DOWN ***
+jaaff shows [Th Td] (Two pairs : Kings and Tens)
+scarlouch91 shows [Qd Qh] (Two pairs : Kings and Queens)
+scarlouch91 collected 50420 from pot
+*** SUMMARY ***
+Total pot 50420 | No rake
+Board: [Js 7c Kh Kc Ah]
+Seat 4: jaaff (big blind) showed [Th Td] and lost with Two pairs : Kings and Tens
+Seat 5: scarlouch91 showed [Qd Qh] and won 50420 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-82-1444485959 - Holdem no limit (150/600/1200) - 2015/10/10 14:05:59 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (21960)
+Seat 2: Wsop88-21 (11015)
+Seat 3: bens690 (13472)
+Seat 5: scarlouch91 (56618)
+Seat 6: ZEN24 (6305)
+*** ANTE/BLINDS ***
+scarlouch91 posts ante 150
+sabre_laser posts ante 150
+Wsop88-21 posts ante 150
+bens690 posts ante 150
+ZEN24 posts ante 150
+scarlouch91 posts big blind 1200
+Dealt to sabre_laser [4d 6d]
+*** PRE-FLOP *** 
+ZEN24 folds
+sabre_laser folds
+Wsop88-21 raises 9665 to 10865 and is all-in
+bens690 folds
+scarlouch91 folds
+Wsop88-21 collected 12815 from pot
+*** SUMMARY ***
+Total pot 12815 | No rake
+Seat 2: Wsop88-21 won 12815
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-83-1444485970 - Holdem no limit (150/600/1200) - 2015/10/10 14:06:10 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (21810)
+Seat 2: Wsop88-21 (12815)
+Seat 3: bens690 (13322)
+Seat 5: scarlouch91 (55268)
+Seat 6: ZEN24 (6155)
+*** ANTE/BLINDS ***
+scarlouch91 posts ante 150
+ZEN24 posts ante 150
+sabre_laser posts ante 150
+Wsop88-21 posts ante 150
+bens690 posts ante 150
+scarlouch91 posts small blind 600
+ZEN24 posts big blind 1200
+Dealt to sabre_laser [4s 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Wsop88-21 raises 11465 to 12665 and is all-in
+bens690 folds
+scarlouch91 calls 12065
+ZEN24 folds
+*** FLOP *** [Jd 2s Td]
+*** TURN *** [Jd 2s Td][6c]
+*** RIVER *** [Jd 2s Td 6c][9s]
+*** SHOW DOWN ***
+Wsop88-21 shows [Qc Ad] (High card : Ace)
+scarlouch91 shows [Th Js] (Two pairs : Jacks and Tens)
+scarlouch91 collected 27280 from pot
+*** SUMMARY ***
+Total pot 27280 | No rake
+Board: [Jd 2s Td 6c 9s]
+Seat 2: Wsop88-21 showed [Qc Ad] and lost with High card : Ace
+Seat 5: scarlouch91 (small blind) showed [Th Js] and won 27280 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #566940437600796685-84-1444485991 - Holdem no limit (150/600/1200) - 2015/10/10 14:06:31 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (21660)
+Seat 3: bens690 (13172)
+Seat 5: scarlouch91 (69733)
+Seat 6: ZEN24 (4805)
+*** ANTE/BLINDS ***
+ZEN24 posts ante 150
+sabre_laser posts ante 150
+bens690 posts ante 150
+scarlouch91 posts ante 150
+ZEN24 posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [Qd As]
+*** PRE-FLOP *** 
+bens690 folds
+scarlouch91 raises 1200 to 2400
+ZEN24 folds
+sabre_laser calls 1200
+*** FLOP *** [2d 4s 5s]
+sabre_laser checks
+scarlouch91 bets 4200
+sabre_laser raises 14910 to 19110 and is all-in
+scarlouch91 calls 14910
+*** TURN *** [2d 4s 5s][2c]
+*** RIVER *** [2d 4s 5s 2c][Kc]
+*** SHOW DOWN ***
+scarlouch91 shows [Ts Ac] (One pair : 2)
+sabre_laser shows [Qd As] (One pair : 2)
+sabre_laser collected 44220 from pot
+*** SUMMARY ***
+Total pot 44220 | No rake
+Board: [2d 4s 5s 2c Kc]
+Seat 1: sabre_laser (big blind) showed [Qd As] and won 44220 with One pair : 2
+Seat 5: scarlouch91 (button) showed [Ts Ac] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #566940437600796685-85-1444486034 - Holdem no limit (180/800/1600) - 2015/10/10 14:07:14 UTC
+Table: 'MiniRoll(132001107)#012' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (44220)
+Seat 2: zepventure (81288)
+Seat 3: bens690 (13022)
+Seat 5: scarlouch91 (48073)
+Seat 6: ZEN24 (4055)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 180
+zepventure posts ante 180
+bens690 posts ante 180
+scarlouch91 posts ante 180
+ZEN24 posts ante 180
+sabre_laser posts small blind 800
+zepventure posts big blind 1600
+Dealt to sabre_laser [Qh Ks]
+*** PRE-FLOP *** 
+bens690 folds
+scarlouch91 calls 1600
+ZEN24 folds
+sabre_laser calls 800
+zepventure checks
+*** FLOP *** [Qs 2c Td]
+sabre_laser bets 2850
+zepventure folds
+scarlouch91 raises 5150 to 8000
+sabre_laser raises 34440 to 42440 and is all-in
+scarlouch91 calls 34440
+*** TURN *** [Qs 2c Td][Jc]
+*** RIVER *** [Qs 2c Td Jc][5c]
+*** SHOW DOWN ***
+sabre_laser shows [Qh Ks] (One pair : Queens)
+scarlouch91 shows [Qc Th] (Two pairs : Queens and Tens)
+scarlouch91 collected 90580 from pot
+*** SUMMARY ***
+Total pot 90580 | No rake
+Board: [Qs 2c Td Jc 5c]
+Seat 1: sabre_laser (small blind) showed [Qh Ks] and lost with One pair : Queens
+Seat 5: scarlouch91 showed [Qc Th] and won 90580 with Two pairs : Queens and Tens
+
+

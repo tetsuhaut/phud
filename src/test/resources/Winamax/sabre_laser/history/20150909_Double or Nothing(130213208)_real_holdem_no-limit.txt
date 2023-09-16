@@ -1,0 +1,1416 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559261469867245569-1-1441832224 - Holdem no limit (10/20) - 2015/09/09 20:57:04 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: ricou77700 (1500)
+Seat 3: fagodju (1500)
+Seat 4: djokkker (1500)
+Seat 5: QUINTER (1500)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: r9bis (1500)
+Seat 10: SIRIAK1 (1500)
+*** ANTE/BLINDS ***
+stanley34 posts small blind 10
+.Roxon. posts big blind 20
+Dealt to sabre_laser [8c 5h]
+*** PRE-FLOP *** 
+r9bis raises 20 to 40
+SIRIAK1 folds
+sabre_laser folds
+ricou77700 folds
+fagodju calls 40
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+*** FLOP *** [2h 3s 9h]
+r9bis checks
+fagodju checks
+*** TURN *** [2h 3s 9h][3h]
+r9bis bets 55
+fagodju calls 55
+*** RIVER *** [2h 3s 9h 3h][Ad]
+r9bis bets 80
+fagodju calls 80
+*** SHOW DOWN ***
+fagodju shows [Kc Qh] (One pair : 3)
+r9bis shows [Ah Ks] (Two pairs : Aces and 3)
+r9bis collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [2h 3s 9h 3h Ad]
+Seat 3: fagodju showed [Kc Qh] and lost with One pair : 3
+Seat 9: r9bis showed [Ah Ks] and won 380 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559261469867245569-2-1441832303 - Holdem no limit (10/20) - 2015/09/09 20:58:23 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: ricou77700 (1500)
+Seat 3: fagodju (1325)
+Seat 4: djokkker (1500)
+Seat 5: QUINTER (1500)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (1490)
+Seat 8: .Roxon. (1480)
+Seat 9: r9bis (1705)
+Seat 10: SIRIAK1 (1500)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 10
+r9bis posts big blind 20
+Dealt to sabre_laser [Qs 4h]
+*** PRE-FLOP *** 
+SIRIAK1 folds
+sabre_laser folds
+ricou77700 folds
+fagodju folds
+djokkker folds
+QUINTER raises 20 to 40
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis calls 20
+*** FLOP *** [4c Kh 6c]
+r9bis checks
+QUINTER bets 60
+r9bis folds
+QUINTER collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [4c Kh 6c]
+Seat 5: QUINTER won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559261469867245569-3-1441832390 - Holdem no limit (10/20) - 2015/09/09 20:59:50 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: ricou77700 (1500)
+Seat 3: fagodju (1325)
+Seat 4: djokkker (1500)
+Seat 5: QUINTER (1550)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (1490)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1665)
+Seat 10: SIRIAK1 (1500)
+*** ANTE/BLINDS ***
+r9bis posts small blind 10
+SIRIAK1 posts big blind 20
+Dealt to sabre_laser [Jh 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+ricou77700 raises 20 to 40
+fagodju folds
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis calls 30
+SIRIAK1 calls 20
+*** FLOP *** [7h Kc 8h]
+r9bis checks
+SIRIAK1 checks
+ricou77700 bets 120
+r9bis folds
+SIRIAK1 folds
+ricou77700 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7h Kc 8h]
+Seat 2: ricou77700 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559261469867245569-4-1441832450 - Holdem no limit (15/30) - 2015/09/09 21:00:50 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: ricou77700 (1580)
+Seat 3: fagodju (1325)
+Seat 4: djokkker (1500)
+Seat 5: QUINTER (1550)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (1490)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1625)
+Seat 10: SIRIAK1 (1460)
+*** ANTE/BLINDS ***
+SIRIAK1 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Ah 3h]
+*** PRE-FLOP *** 
+ricou77700 calls 30
+fagodju calls 30
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 calls 30
+.Roxon. folds
+r9bis calls 30
+SIRIAK1 calls 15
+sabre_laser checks
+*** FLOP *** [Qc 7h 8s]
+SIRIAK1 checks
+sabre_laser checks
+ricou77700 bets 90
+fagodju calls 90
+stanley34 calls 90
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+*** TURN *** [Qc 7h 8s][5s]
+ricou77700 checks
+fagodju checks
+stanley34 bets 225
+ricou77700 calls 225
+fagodju calls 225
+*** RIVER *** [Qc 7h 8s 5s][Kh]
+ricou77700 checks
+fagodju checks
+stanley34 checks
+*** SHOW DOWN ***
+ricou77700 shows [8h 9d] (One pair : 8)
+fagodju shows [Ts Jd] (High card : King)
+stanley34 shows [Qh 6h] (One pair : Queens)
+stanley34 collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | No rake
+Board: [Qc 7h 8s 5s Kh]
+Seat 2: ricou77700 showed [8h 9d] and lost with One pair : 8
+Seat 3: fagodju showed [Ts Jd] and lost with High card : King
+Seat 7: stanley34 showed [Qh 6h] and won 1125 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559261469867245569-5-1441832569 - Holdem no limit (15/30) - 2015/09/09 21:02:49 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1470)
+Seat 2: ricou77700 (1235)
+Seat 3: fagodju (980)
+Seat 4: djokkker (1500)
+Seat 5: QUINTER (1550)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1595)
+Seat 10: SIRIAK1 (1430)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+ricou77700 posts big blind 30
+Dealt to sabre_laser [Js 4c]
+*** PRE-FLOP *** 
+fagodju calls 30
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis calls 30
+SIRIAK1 calls 30
+sabre_laser folds
+ricou77700 checks
+*** FLOP *** [7s 8c 2d]
+ricou77700 bets 135
+fagodju folds
+r9bis folds
+SIRIAK1 folds
+ricou77700 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [7s 8c 2d]
+Seat 2: ricou77700 (big blind) won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559261469867245569-6-1441832640 - Holdem no limit (20/40) - 2015/09/09 21:04:00 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1455)
+Seat 2: ricou77700 (1340)
+Seat 3: fagodju (950)
+Seat 4: djokkker (1500)
+Seat 5: QUINTER (1550)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1565)
+Seat 10: SIRIAK1 (1400)
+*** ANTE/BLINDS ***
+ricou77700 posts small blind 20
+fagodju posts big blind 40
+Dealt to sabre_laser [5s 6h]
+*** PRE-FLOP *** 
+djokkker folds
+QUINTER raises 40 to 80
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+ricou77700 folds
+fagodju calls 40
+*** FLOP *** [Td Jd As]
+fagodju checks
+QUINTER bets 120
+fagodju folds
+QUINTER collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Td Jd As]
+Seat 5: QUINTER won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559261469867245569-7-1441832720 - Holdem no limit (20/40) - 2015/09/09 21:05:20 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1455)
+Seat 2: ricou77700 (1320)
+Seat 3: fagodju (870)
+Seat 4: djokkker (1500)
+Seat 5: QUINTER (1650)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1565)
+Seat 10: SIRIAK1 (1400)
+*** ANTE/BLINDS ***
+fagodju posts small blind 20
+djokkker posts big blind 40
+Dealt to sabre_laser [5s Jc]
+*** PRE-FLOP *** 
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 calls 40
+sabre_laser folds
+ricou77700 raises 40 to 80
+fagodju folds
+djokkker folds
+SIRIAK1 calls 40
+*** FLOP *** [Qc Ad 3s]
+SIRIAK1 checks
+ricou77700 bets 110
+SIRIAK1 folds
+ricou77700 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Qc Ad 3s]
+Seat 2: ricou77700 (button) won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559261469867245569-8-1441832799 - Holdem no limit (30/60) - 2015/09/09 21:06:39 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1455)
+Seat 2: ricou77700 (1460)
+Seat 3: fagodju (850)
+Seat 4: djokkker (1460)
+Seat 5: QUINTER (1650)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1565)
+Seat 10: SIRIAK1 (1320)
+*** ANTE/BLINDS ***
+djokkker posts small blind 30
+QUINTER posts big blind 60
+Dealt to sabre_laser [3d 6h]
+*** PRE-FLOP *** 
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis raises 60 to 120
+SIRIAK1 folds
+sabre_laser folds
+ricou77700 folds
+fagodju calls 120
+djokkker folds
+QUINTER calls 60
+*** FLOP *** [5h 5s 8d]
+QUINTER checks
+r9bis checks
+fagodju bets 150
+QUINTER raises 1380 to 1530 and is all-in
+r9bis folds
+fagodju folds
+QUINTER collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Board: [5h 5s 8d]
+Seat 5: QUINTER (big blind) won 2070
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559261469867245569-9-1441832904 - Holdem no limit (30/60) - 2015/09/09 21:08:24 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1455)
+Seat 2: ricou77700 (1460)
+Seat 3: fagodju (580)
+Seat 4: djokkker (1430)
+Seat 5: QUINTER (2070)
+Seat 6: KroKrogan (1500)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1445)
+Seat 10: SIRIAK1 (1320)
+*** ANTE/BLINDS ***
+QUINTER posts small blind 30
+KroKrogan posts big blind 60
+Dealt to sabre_laser [Jh 3d]
+*** PRE-FLOP *** 
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+ricou77700 folds
+fagodju folds
+djokkker folds
+QUINTER calls 30
+KroKrogan checks
+*** FLOP *** [Kc 9c 8h]
+QUINTER checks
+KroKrogan checks
+*** TURN *** [Kc 9c 8h][Ts]
+QUINTER bets 60
+KroKrogan calls 60
+*** RIVER *** [Kc 9c 8h Ts][5c]
+QUINTER checks
+KroKrogan bets 120
+QUINTER folds
+KroKrogan collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kc 9c 8h Ts 5c]
+Seat 6: KroKrogan (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559261469867245569-10-1441832979 - Holdem no limit (40/80) - 2015/09/09 21:09:39 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1455)
+Seat 2: ricou77700 (1460)
+Seat 3: fagodju (580)
+Seat 4: djokkker (1430)
+Seat 5: QUINTER (1950)
+Seat 6: KroKrogan (1620)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1445)
+Seat 10: SIRIAK1 (1320)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 40
+stanley34 posts big blind 80
+Dealt to sabre_laser [As Jd]
+*** PRE-FLOP *** 
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser raises 80 to 160
+ricou77700 folds
+fagodju raises 420 to 580 and is all-in
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+sabre_laser calls 420
+*** FLOP *** [Ks Ad 6c]
+*** TURN *** [Ks Ad 6c][7d]
+*** RIVER *** [Ks Ad 6c 7d][8h]
+*** SHOW DOWN ***
+fagodju shows [Qs Js] (High card : Ace)
+sabre_laser shows [As Jd] (One pair : Aces)
+sabre_laser collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [Ks Ad 6c 7d 8h]
+Seat 1: sabre_laser showed [As Jd] and won 1280 with One pair : Aces
+Seat 3: fagodju showed [Qs Js] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559261469867245569-11-1441833047 - Holdem no limit (40/80) - 2015/09/09 21:10:47 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2155)
+Seat 2: ricou77700 (1460)
+Seat 4: djokkker (1430)
+Seat 5: QUINTER (1950)
+Seat 6: KroKrogan (1580)
+Seat 7: stanley34 (2190)
+Seat 8: .Roxon. (1470)
+Seat 9: r9bis (1445)
+Seat 10: SIRIAK1 (1320)
+*** ANTE/BLINDS ***
+stanley34 posts small blind 40
+.Roxon. posts big blind 80
+Dealt to sabre_laser [7c Qh]
+*** PRE-FLOP *** 
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+ricou77700 folds
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 calls 40
+.Roxon. checks
+*** FLOP *** [Jd Ac 2s]
+stanley34 bets 80
+.Roxon. folds
+stanley34 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jd Ac 2s]
+Seat 7: stanley34 (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559261469867245569-12-1441833106 - Holdem no limit (40/80) - 2015/09/09 21:11:46 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2155)
+Seat 2: ricou77700 (1460)
+Seat 4: djokkker (1430)
+Seat 5: QUINTER (1950)
+Seat 6: KroKrogan (1580)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1390)
+Seat 9: r9bis (1445)
+Seat 10: SIRIAK1 (1320)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 40
+r9bis posts big blind 80
+Dealt to sabre_laser [Td Th]
+*** PRE-FLOP *** 
+SIRIAK1 folds
+sabre_laser raises 80 to 160
+ricou77700 calls 160
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis calls 80
+*** FLOP *** [5s 8d Qs]
+r9bis checks
+sabre_laser bets 160
+ricou77700 folds
+r9bis folds
+sabre_laser collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [5s 8d Qs]
+Seat 1: sabre_laser won 680
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559261469867245569-13-1441833194 - Holdem no limit (60/120) - 2015/09/09 21:13:14 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2515)
+Seat 2: ricou77700 (1300)
+Seat 4: djokkker (1430)
+Seat 5: QUINTER (1950)
+Seat 6: KroKrogan (1580)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1350)
+Seat 9: r9bis (1285)
+Seat 10: SIRIAK1 (1320)
+*** ANTE/BLINDS ***
+r9bis posts small blind 60
+SIRIAK1 posts big blind 120
+Dealt to sabre_laser [6d 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+ricou77700 raises 120 to 240
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 raises 480 to 720
+ricou77700 raises 580 to 1300 and is all-in
+SIRIAK1 calls 580
+*** FLOP *** [8c 3s 9s]
+*** TURN *** [8c 3s 9s][Tc]
+*** RIVER *** [8c 3s 9s Tc][Jd]
+*** SHOW DOWN ***
+ricou77700 shows [Ad Ah] (One pair : Aces)
+SIRIAK1 shows [Jh Js] (Trips of Jacks)
+SIRIAK1 collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [8c 3s 9s Tc Jd]
+Seat 2: ricou77700 showed [Ad Ah] and lost with One pair : Aces
+Seat 10: SIRIAK1 (big blind) showed [Jh Js] and won 2660 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559261469867245569-14-1441833238 - Holdem no limit (60/120) - 2015/09/09 21:13:58 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2515)
+Seat 4: djokkker (1430)
+Seat 5: QUINTER (1950)
+Seat 6: KroKrogan (1580)
+Seat 7: stanley34 (2270)
+Seat 8: .Roxon. (1350)
+Seat 9: r9bis (1225)
+Seat 10: SIRIAK1 (2680)
+*** ANTE/BLINDS ***
+SIRIAK1 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [4h Ks]
+*** PRE-FLOP *** 
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 calls 120
+.Roxon. folds
+r9bis folds
+SIRIAK1 calls 60
+sabre_laser checks
+*** FLOP *** [8h 4c 7d]
+SIRIAK1 bets 120
+sabre_laser folds
+stanley34 folds
+SIRIAK1 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8h 4c 7d]
+Seat 10: SIRIAK1 (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559261469867245569-15-1441833277 - Holdem no limit (60/120) - 2015/09/09 21:14:37 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2395)
+Seat 4: djokkker (1430)
+Seat 5: QUINTER (1950)
+Seat 6: KroKrogan (1580)
+Seat 7: stanley34 (2150)
+Seat 8: .Roxon. (1350)
+Seat 9: r9bis (1225)
+Seat 10: SIRIAK1 (2920)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+djokkker posts big blind 120
+Dealt to sabre_laser [Tc Ts]
+*** PRE-FLOP *** 
+QUINTER raises 120 to 240
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: QUINTER won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #559261469867245569-16-1441833305 - Holdem no limit (80/160) - 2015/09/09 21:15:05 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2335)
+Seat 4: djokkker (1310)
+Seat 5: QUINTER (2130)
+Seat 6: KroKrogan (1580)
+Seat 7: stanley34 (2150)
+Seat 8: .Roxon. (1350)
+Seat 9: r9bis (1225)
+Seat 10: SIRIAK1 (2920)
+*** ANTE/BLINDS ***
+djokkker posts small blind 80
+QUINTER posts big blind 160
+Dealt to sabre_laser [2s 9h]
+*** PRE-FLOP *** 
+KroKrogan folds
+stanley34 calls 160
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker calls 80
+QUINTER checks
+*** FLOP *** [4h Kc Qh]
+djokkker checks
+QUINTER checks
+stanley34 bets 160
+djokkker folds
+QUINTER folds
+stanley34 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4h Kc Qh]
+Seat 7: stanley34 won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #559261469867245569-17-1441833358 - Holdem no limit (80/160) - 2015/09/09 21:15:58 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2335)
+Seat 4: djokkker (1150)
+Seat 5: QUINTER (1970)
+Seat 6: KroKrogan (1580)
+Seat 7: stanley34 (2470)
+Seat 8: .Roxon. (1350)
+Seat 9: r9bis (1225)
+Seat 10: SIRIAK1 (2920)
+*** ANTE/BLINDS ***
+QUINTER posts small blind 80
+KroKrogan posts big blind 160
+Dealt to sabre_laser [Ks 8h]
+*** PRE-FLOP *** 
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 calls 160
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan checks
+*** FLOP *** [6c Jh Qc]
+KroKrogan checks
+SIRIAK1 checks
+*** TURN *** [6c Jh Qc][7h]
+KroKrogan checks
+SIRIAK1 checks
+*** RIVER *** [6c Jh Qc 7h][9c]
+KroKrogan checks
+SIRIAK1 checks
+*** SHOW DOWN ***
+SIRIAK1 shows [Ah 7c] (One pair : 7)
+KroKrogan shows [Qs 5c] (One pair : Queens)
+KroKrogan collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [6c Jh Qc 7h 9c]
+Seat 6: KroKrogan (big blind) showed [Qs 5c] and won 400 with One pair : Queens
+Seat 10: SIRIAK1 showed [Ah 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #559261469867245569-18-1441833420 - Holdem no limit (80/160) - 2015/09/09 21:17:00 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (2335)
+Seat 4: djokkker (1150)
+Seat 5: QUINTER (1890)
+Seat 6: KroKrogan (1820)
+Seat 7: stanley34 (2470)
+Seat 8: .Roxon. (1350)
+Seat 9: r9bis (1225)
+Seat 10: SIRIAK1 (2760)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 80
+stanley34 posts big blind 160
+Dealt to sabre_laser [3h Th]
+*** PRE-FLOP *** 
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER raises 160 to 320
+KroKrogan folds
+stanley34 folds
+QUINTER collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 5: QUINTER (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #559261469867245569-19-1441833469 - Holdem no limit (80/160) - 2015/09/09 21:17:49 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2335)
+Seat 4: djokkker (1150)
+Seat 5: QUINTER (2130)
+Seat 6: KroKrogan (1740)
+Seat 7: stanley34 (2310)
+Seat 8: .Roxon. (1350)
+Seat 9: r9bis (1225)
+Seat 10: SIRIAK1 (2760)
+*** ANTE/BLINDS ***
+stanley34 posts small blind 80
+.Roxon. posts big blind 160
+Dealt to sabre_laser [3c 4s]
+*** PRE-FLOP *** 
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: .Roxon. (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #559261469867245569-20-1441833500 - Holdem no limit (10/100/200) - 2015/09/09 21:18:20 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2335)
+Seat 4: djokkker (1150)
+Seat 5: QUINTER (2130)
+Seat 6: KroKrogan (1740)
+Seat 7: stanley34 (2230)
+Seat 8: .Roxon. (1430)
+Seat 9: r9bis (1225)
+Seat 10: SIRIAK1 (2760)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 10
+r9bis posts ante 10
+sabre_laser posts ante 10
+djokkker posts ante 10
+QUINTER posts ante 10
+KroKrogan posts ante 10
+stanley34 posts ante 10
+SIRIAK1 posts ante 10
+.Roxon. posts small blind 100
+r9bis posts big blind 200
+Dealt to sabre_laser [Tc 8h]
+*** PRE-FLOP *** 
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. raises 1220 to 1420 and is all-in
+r9bis folds
+.Roxon. collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 8: .Roxon. (small blind) won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #559261469867245569-21-1441833555 - Holdem no limit (10/100/200) - 2015/09/09 21:19:15 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2325)
+Seat 4: djokkker (1140)
+Seat 5: QUINTER (2120)
+Seat 6: KroKrogan (1730)
+Seat 7: stanley34 (2220)
+Seat 8: .Roxon. (1700)
+Seat 9: r9bis (1015)
+Seat 10: SIRIAK1 (2750)
+*** ANTE/BLINDS ***
+r9bis posts ante 10
+SIRIAK1 posts ante 10
+sabre_laser posts ante 10
+djokkker posts ante 10
+QUINTER posts ante 10
+KroKrogan posts ante 10
+stanley34 posts ante 10
+.Roxon. posts ante 10
+r9bis posts small blind 100
+SIRIAK1 posts big blind 200
+Dealt to sabre_laser [Qc Ac]
+*** PRE-FLOP *** 
+sabre_laser raises 200 to 400
+djokkker raises 730 to 1130 and is all-in
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser calls 730
+*** FLOP *** [6s Jd 2c]
+*** TURN *** [6s Jd 2c][7s]
+*** RIVER *** [6s Jd 2c 7s][Js]
+*** SHOW DOWN ***
+sabre_laser shows [Qc Ac] (One pair : Jacks)
+djokkker shows [Qs Ah] (One pair : Jacks)
+djokkker collected 1320 from pot
+sabre_laser collected 1320 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [6s Jd 2c 7s Js]
+Seat 1: sabre_laser showed [Qc Ac] and won 1320 with One pair : Jacks
+Seat 4: djokkker showed [Qs Ah] and won 1320 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #559261469867245569-22-1441833587 - Holdem no limit (10/100/200) - 2015/09/09 21:19:47 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2505)
+Seat 4: djokkker (1320)
+Seat 5: QUINTER (2110)
+Seat 6: KroKrogan (1720)
+Seat 7: stanley34 (2210)
+Seat 8: .Roxon. (1690)
+Seat 9: r9bis (905)
+Seat 10: SIRIAK1 (2540)
+*** ANTE/BLINDS ***
+SIRIAK1 posts ante 10
+sabre_laser posts ante 10
+djokkker posts ante 10
+QUINTER posts ante 10
+KroKrogan posts ante 10
+stanley34 posts ante 10
+.Roxon. posts ante 10
+r9bis posts ante 10
+SIRIAK1 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Kc 2h]
+*** PRE-FLOP *** 
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 calls 100
+sabre_laser checks
+*** FLOP *** [7c Ks Qc]
+SIRIAK1 checks
+sabre_laser bets 400
+SIRIAK1 folds
+sabre_laser collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [7c Ks Qc]
+Seat 1: sabre_laser (big blind) won 880
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559261469867245569-23-1441833667 - Holdem no limit (20/150/300) - 2015/09/09 21:21:07 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2775)
+Seat 4: djokkker (1310)
+Seat 5: QUINTER (2100)
+Seat 6: KroKrogan (1710)
+Seat 7: stanley34 (2200)
+Seat 8: .Roxon. (1680)
+Seat 9: r9bis (895)
+Seat 10: SIRIAK1 (2330)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+djokkker posts ante 20
+QUINTER posts ante 20
+KroKrogan posts ante 20
+stanley34 posts ante 20
+.Roxon. posts ante 20
+r9bis posts ante 20
+SIRIAK1 posts ante 20
+sabre_laser posts small blind 150
+djokkker posts big blind 300
+Dealt to sabre_laser [Td 7h]
+*** PRE-FLOP *** 
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. raises 1360 to 1660 and is all-in
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+.Roxon. collected 2270 from pot
+*** SUMMARY ***
+Total pot 2270 | No rake
+Seat 8: .Roxon. won 2270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559261469867245569-24-1441833699 - Holdem no limit (20/150/300) - 2015/09/09 21:21:39 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2605)
+Seat 4: djokkker (990)
+Seat 5: QUINTER (2080)
+Seat 6: KroKrogan (1690)
+Seat 7: stanley34 (2180)
+Seat 8: .Roxon. (2270)
+Seat 9: r9bis (875)
+Seat 10: SIRIAK1 (2310)
+*** ANTE/BLINDS ***
+djokkker posts ante 20
+QUINTER posts ante 20
+sabre_laser posts ante 20
+KroKrogan posts ante 20
+stanley34 posts ante 20
+.Roxon. posts ante 20
+r9bis posts ante 20
+SIRIAK1 posts ante 20
+djokkker posts small blind 150
+QUINTER posts big blind 300
+Dealt to sabre_laser [Qd Jd]
+*** PRE-FLOP *** 
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 calls 300
+sabre_laser folds
+djokkker folds
+QUINTER checks
+*** FLOP *** [5s 5c 3s]
+QUINTER checks
+SIRIAK1 checks
+*** TURN *** [5s 5c 3s][6d]
+QUINTER bets 607
+SIRIAK1 folds
+QUINTER collected 1517 from pot
+*** SUMMARY ***
+Total pot 1517 | No rake
+Board: [5s 5c 3s 6d]
+Seat 5: QUINTER (big blind) won 1517
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559261469867245569-25-1441833758 - Holdem no limit (20/150/300) - 2015/09/09 21:22:38 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2585)
+Seat 4: djokkker (820)
+Seat 5: QUINTER (2670)
+Seat 6: KroKrogan (1670)
+Seat 7: stanley34 (2160)
+Seat 8: .Roxon. (2250)
+Seat 9: r9bis (855)
+Seat 10: SIRIAK1 (1990)
+*** ANTE/BLINDS ***
+QUINTER posts ante 20
+KroKrogan posts ante 20
+sabre_laser posts ante 20
+djokkker posts ante 20
+stanley34 posts ante 20
+.Roxon. posts ante 20
+r9bis posts ante 20
+SIRIAK1 posts ante 20
+QUINTER posts small blind 150
+KroKrogan posts big blind 300
+Dealt to sabre_laser [Kc 6d]
+*** PRE-FLOP *** 
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 calls 300
+sabre_laser folds
+djokkker folds
+QUINTER calls 150
+KroKrogan checks
+*** FLOP *** [5d 7c Qc]
+QUINTER checks
+KroKrogan checks
+SIRIAK1 bets 530
+QUINTER folds
+KroKrogan folds
+SIRIAK1 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [5d 7c Qc]
+Seat 10: SIRIAK1 won 1590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #559261469867245569-26-1441833830 - Holdem no limit (20/150/300) - 2015/09/09 21:23:50 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (2565)
+Seat 4: djokkker (800)
+Seat 5: QUINTER (2350)
+Seat 6: KroKrogan (1350)
+Seat 7: stanley34 (2140)
+Seat 8: .Roxon. (2230)
+Seat 9: r9bis (835)
+Seat 10: SIRIAK1 (2730)
+*** ANTE/BLINDS ***
+KroKrogan posts ante 20
+stanley34 posts ante 20
+sabre_laser posts ante 20
+djokkker posts ante 20
+QUINTER posts ante 20
+.Roxon. posts ante 20
+r9bis posts ante 20
+SIRIAK1 posts ante 20
+KroKrogan posts small blind 150
+stanley34 posts big blind 300
+Dealt to sabre_laser [2d Kd]
+*** PRE-FLOP *** 
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan raises 1030 to 1330 and is all-in
+stanley34 calls 1030
+*** FLOP *** [4d Jd 3s]
+*** TURN *** [4d Jd 3s][6c]
+*** RIVER *** [4d Jd 3s 6c][5c]
+*** SHOW DOWN ***
+stanley34 shows [9d 9h] (One pair : 9)
+KroKrogan shows [2h Th] (Straight 6 high)
+KroKrogan collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Board: [4d Jd 3s 6c 5c]
+Seat 6: KroKrogan (small blind) showed [2h Th] and won 2820 with Straight 6 high
+Seat 7: stanley34 (big blind) showed [9d 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559261469867245569-27-1441833863 - Holdem no limit (50/200/400) - 2015/09/09 21:24:23 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2545)
+Seat 4: djokkker (780)
+Seat 5: QUINTER (2330)
+Seat 6: KroKrogan (2820)
+Seat 7: stanley34 (790)
+Seat 8: .Roxon. (2210)
+Seat 9: r9bis (815)
+Seat 10: SIRIAK1 (2710)
+*** ANTE/BLINDS ***
+stanley34 posts ante 50
+.Roxon. posts ante 50
+sabre_laser posts ante 50
+djokkker posts ante 50
+QUINTER posts ante 50
+KroKrogan posts ante 50
+r9bis posts ante 50
+SIRIAK1 posts ante 50
+stanley34 posts small blind 200
+.Roxon. posts big blind 400
+Dealt to sabre_laser [Qd 5d]
+*** PRE-FLOP *** 
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker raises 330 to 730 and is all-in
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+djokkker collected 1730 from pot
+*** SUMMARY ***
+Total pot 1730 | No rake
+Seat 4: djokkker won 1730
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559261469867245569-28-1441833882 - Holdem no limit (50/200/400) - 2015/09/09 21:24:42 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2495)
+Seat 4: djokkker (1730)
+Seat 5: QUINTER (2280)
+Seat 6: KroKrogan (2770)
+Seat 7: stanley34 (540)
+Seat 8: .Roxon. (1760)
+Seat 9: r9bis (765)
+Seat 10: SIRIAK1 (2660)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 50
+r9bis posts ante 50
+sabre_laser posts ante 50
+djokkker posts ante 50
+QUINTER posts ante 50
+KroKrogan posts ante 50
+stanley34 posts ante 50
+SIRIAK1 posts ante 50
+.Roxon. posts small blind 200
+r9bis posts big blind 400
+Dealt to sabre_laser [Jh Qc]
+*** PRE-FLOP *** 
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan raises 2320 to 2720 and is all-in
+stanley34 folds
+.Roxon. folds
+r9bis folds
+KroKrogan collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Seat 6: KroKrogan won 3720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559261469867245569-29-1441833930 - Holdem no limit (50/200/400) - 2015/09/09 21:25:30 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2445)
+Seat 4: djokkker (1680)
+Seat 5: QUINTER (2230)
+Seat 6: KroKrogan (3720)
+Seat 7: stanley34 (490)
+Seat 8: .Roxon. (1510)
+Seat 9: r9bis (315)
+Seat 10: SIRIAK1 (2610)
+*** ANTE/BLINDS ***
+r9bis posts ante 50
+SIRIAK1 posts ante 50
+sabre_laser posts ante 50
+djokkker posts ante 50
+QUINTER posts ante 50
+KroKrogan posts ante 50
+stanley34 posts ante 50
+.Roxon. posts ante 50
+r9bis posts small blind 200
+SIRIAK1 posts big blind 400
+Dealt to sabre_laser [2s Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis calls 65 and is all-in
+*** FLOP *** [2d 4h 8h]
+*** TURN *** [2d 4h 8h][9c]
+*** RIVER *** [2d 4h 8h 9c][Ad]
+*** SHOW DOWN ***
+r9bis shows [2h Td] (One pair : 2)
+SIRIAK1 shows [5d Qd] (High card : Ace)
+SIRIAK1 collected 135 from side pot 1
+r9bis collected 930 from main pot
+*** SUMMARY ***
+Total pot 1065 | No rake
+Board: [2d 4h 8h 9c Ad]
+Seat 9: r9bis (small blind) showed [2h Td] and won 930 with One pair : 2
+Seat 10: SIRIAK1 (big blind) showed [5d Qd] and won 135 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559261469867245569-30-1441833962 - Holdem no limit (50/200/400) - 2015/09/09 21:26:02 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2395)
+Seat 4: djokkker (1630)
+Seat 5: QUINTER (2180)
+Seat 6: KroKrogan (3670)
+Seat 7: stanley34 (440)
+Seat 8: .Roxon. (1460)
+Seat 9: r9bis (930)
+Seat 10: SIRIAK1 (2295)
+*** ANTE/BLINDS ***
+SIRIAK1 posts ante 50
+sabre_laser posts ante 50
+djokkker posts ante 50
+QUINTER posts ante 50
+KroKrogan posts ante 50
+stanley34 posts ante 50
+.Roxon. posts ante 50
+r9bis posts ante 50
+SIRIAK1 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [9d 4c]
+*** PRE-FLOP *** 
+djokkker folds
+QUINTER raises 1730 to 2130 and is all-in
+KroKrogan folds
+stanley34 folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+QUINTER collected 3130 from pot
+*** SUMMARY ***
+Total pot 3130 | No rake
+Seat 5: QUINTER won 3130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #559261469867245569-31-1441834018 - Holdem no limit (50/200/400) - 2015/09/09 21:26:58 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1945)
+Seat 4: djokkker (1580)
+Seat 5: QUINTER (3130)
+Seat 6: KroKrogan (3620)
+Seat 7: stanley34 (390)
+Seat 8: .Roxon. (1410)
+Seat 9: r9bis (880)
+Seat 10: SIRIAK1 (2045)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+djokkker posts ante 50
+QUINTER posts ante 50
+KroKrogan posts ante 50
+stanley34 posts ante 50
+.Roxon. posts ante 50
+r9bis posts ante 50
+SIRIAK1 posts ante 50
+sabre_laser posts small blind 200
+djokkker posts big blind 400
+Dealt to sabre_laser [7h 7s]
+*** PRE-FLOP *** 
+QUINTER folds
+KroKrogan folds
+stanley34 calls 340 and is all-in
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser raises 1495 to 1895 and is all-in
+djokkker folds
+*** FLOP *** [3d 5d 8h]
+*** TURN *** [3d 5d 8h][6c]
+*** RIVER *** [3d 5d 8h 6c][Jc]
+*** SHOW DOWN ***
+stanley34 shows [4c Kc] (High card : King)
+sabre_laser shows [7h 7s] (One pair : 7)
+sabre_laser collected 3035 from pot
+*** SUMMARY ***
+Total pot 3035 | No rake
+Board: [3d 5d 8h 6c Jc]
+Seat 1: sabre_laser (small blind) showed [7h 7s] and won 3035 with One pair : 7
+Seat 7: stanley34 showed [4c Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559261469867245569-32-1441834072 - Holdem no limit (75/300/600) - 2015/09/09 21:27:52 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3035)
+Seat 4: djokkker (1130)
+Seat 5: QUINTER (3080)
+Seat 6: KroKrogan (3570)
+Seat 8: .Roxon. (1360)
+Seat 9: r9bis (830)
+Seat 10: SIRIAK1 (1995)
+*** ANTE/BLINDS ***
+djokkker posts ante 75
+QUINTER posts ante 75
+sabre_laser posts ante 75
+KroKrogan posts ante 75
+.Roxon. posts ante 75
+r9bis posts ante 75
+SIRIAK1 posts ante 75
+djokkker posts small blind 300
+QUINTER posts big blind 600
+Dealt to sabre_laser [4h 7d]
+*** PRE-FLOP *** 
+KroKrogan folds
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker raises 455 to 1055 and is all-in
+QUINTER folds
+djokkker collected 2180 from pot
+*** SUMMARY ***
+Total pot 2180 | No rake
+Seat 4: djokkker (small blind) won 2180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559261469867245569-33-1441834095 - Holdem no limit (75/300/600) - 2015/09/09 21:28:15 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2960)
+Seat 4: djokkker (2180)
+Seat 5: QUINTER (2405)
+Seat 6: KroKrogan (3495)
+Seat 8: .Roxon. (1285)
+Seat 9: r9bis (755)
+Seat 10: SIRIAK1 (1920)
+*** ANTE/BLINDS ***
+QUINTER posts ante 75
+KroKrogan posts ante 75
+sabre_laser posts ante 75
+djokkker posts ante 75
+.Roxon. posts ante 75
+r9bis posts ante 75
+SIRIAK1 posts ante 75
+QUINTER posts small blind 300
+KroKrogan posts big blind 600
+Dealt to sabre_laser [9h 8d]
+*** PRE-FLOP *** 
+.Roxon. folds
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER raises 1730 to 2330 and is all-in
+KroKrogan folds
+QUINTER collected 3455 from pot
+*** SUMMARY ***
+Total pot 3455 | No rake
+Seat 5: QUINTER (small blind) won 3455
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559261469867245569-34-1441834138 - Holdem no limit (75/300/600) - 2015/09/09 21:28:58 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (2885)
+Seat 4: djokkker (2105)
+Seat 5: QUINTER (3455)
+Seat 6: KroKrogan (2820)
+Seat 8: .Roxon. (1210)
+Seat 9: r9bis (680)
+Seat 10: SIRIAK1 (1845)
+*** ANTE/BLINDS ***
+KroKrogan posts ante 75
+.Roxon. posts ante 75
+sabre_laser posts ante 75
+djokkker posts ante 75
+QUINTER posts ante 75
+r9bis posts ante 75
+SIRIAK1 posts ante 75
+KroKrogan posts small blind 300
+.Roxon. posts big blind 600
+Dealt to sabre_laser [8d 9c]
+*** PRE-FLOP *** 
+r9bis folds
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan folds
+.Roxon. collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Seat 8: .Roxon. (big blind) won 1425
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #559261469867245569-35-1441834177 - Holdem no limit (75/300/600) - 2015/09/09 21:29:37 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2810)
+Seat 4: djokkker (2030)
+Seat 5: QUINTER (3380)
+Seat 6: KroKrogan (2445)
+Seat 8: .Roxon. (1960)
+Seat 9: r9bis (605)
+Seat 10: SIRIAK1 (1770)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 75
+r9bis posts ante 75
+sabre_laser posts ante 75
+djokkker posts ante 75
+QUINTER posts ante 75
+KroKrogan posts ante 75
+SIRIAK1 posts ante 75
+.Roxon. posts small blind 300
+r9bis posts big blind 530 and is all-in
+Dealt to sabre_laser [7d 4c]
+*** PRE-FLOP *** 
+SIRIAK1 folds
+sabre_laser folds
+djokkker folds
+QUINTER folds
+KroKrogan folds
+.Roxon. calls 300
+*** FLOP *** [8s 2s 3s]
+*** TURN *** [8s 2s 3s][Ts]
+*** RIVER *** [8s 2s 3s Ts][Qh]
+*** SHOW DOWN ***
+r9bis shows [2c 4d] (One pair : 2)
+.Roxon. shows [Kh Js] (Flush Jack high)
+.Roxon. collected 1655 from pot
+*** SUMMARY ***
+Total pot 1655 | No rake
+Board: [8s 2s 3s Ts Qh]
+Seat 8: .Roxon. (small blind) showed [Kh Js] and won 1655 with Flush Jack high
+Seat 9: r9bis (big blind) showed [2c 4d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #559261469867245569-36-1441834212 - Holdem no limit (100/400/800) - 2015/09/09 21:30:12 UTC
+Table: 'Double or Nothing(130213208)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2735)
+Seat 4: djokkker (1955)
+Seat 5: QUINTER (3305)
+Seat 6: KroKrogan (2370)
+Seat 8: .Roxon. (2940)
+Seat 10: SIRIAK1 (1695)
+*** ANTE/BLINDS ***
+SIRIAK1 posts ante 100
+sabre_laser posts ante 100
+djokkker posts ante 100
+QUINTER posts ante 100
+KroKrogan posts ante 100
+.Roxon. posts ante 100
+SIRIAK1 posts big blind 800
+Dealt to sabre_laser [3h Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+djokkker raises 1055 to 1855 and is all-in
+QUINTER folds
+KroKrogan folds
+.Roxon. folds
+SIRIAK1 calls 795 and is all-in
+*** FLOP *** [Qs 7s 2d]
+*** TURN *** [Qs 7s 2d][Qh]
+*** RIVER *** [Qs 7s 2d Qh][Qd]
+*** SHOW DOWN ***
+SIRIAK1 shows [Ah 9c] (Trips of Queens)
+djokkker shows [Qc Ac] (Quads of Queens)
+djokkker collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | No rake
+Board: [Qs 7s 2d Qh Qd]
+Seat 4: djokkker showed [Qc Ac] and won 4050 with Quads of Queens
+Seat 10: SIRIAK1 (big blind) showed [Ah 9c] and lost with Trips of Queens
+
+

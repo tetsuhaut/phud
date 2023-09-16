@@ -1,0 +1,1289 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #552936662372450305-1-1440683960 - Holdem no limit (10/20) - 2015/08/27 13:59:20 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #3 is the button
+Seat 1: HACHOIR AS (1500)
+Seat 2: Nolav (1500)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1500)
+Seat 5: MuckZEnutS (1500)
+Seat 6: j0j0bernard (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: Kintyaya33 (1500)
+Seat 9: manulou3113 (1500)
+Seat 10: spokaann (1500)
+*** ANTE/BLINDS ***
+v1_100 posts small blind 10
+MuckZEnutS posts big blind 20
+Dealt to sabre_laser [Tc Ac]
+*** PRE-FLOP *** 
+j0j0bernard folds
+sabre_laser raises 40 to 60
+Kintyaya33 folds
+manulou3113 folds
+spokaann calls 60
+HACHOIR AS folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+*** FLOP *** [6s 5s 8h]
+sabre_laser bets 75
+spokaann folds
+sabre_laser collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [6s 5s 8h]
+Seat 7: sabre_laser won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #552936662372450305-2-1440684034 - Holdem no limit (10/20) - 2015/08/27 14:00:34 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #4 is the button
+Seat 1: HACHOIR AS (1500)
+Seat 2: Nolav (1500)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1490)
+Seat 5: MuckZEnutS (1480)
+Seat 6: j0j0bernard (1500)
+Seat 7: sabre_laser (1590)
+Seat 8: Kintyaya33 (1500)
+Seat 9: manulou3113 (1500)
+Seat 10: spokaann (1440)
+*** ANTE/BLINDS ***
+MuckZEnutS posts small blind 10
+j0j0bernard posts big blind 20
+Dealt to sabre_laser [Js Jc]
+*** PRE-FLOP *** 
+sabre_laser raises 30 to 50
+Kintyaya33 folds
+manulou3113 folds
+spokaann folds
+HACHOIR AS calls 50
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+*** FLOP *** [2c 5h 9h]
+sabre_laser bets 70
+HACHOIR AS calls 70
+*** TURN *** [2c 5h 9h][Kc]
+sabre_laser checks
+HACHOIR AS bets 135
+sabre_laser folds
+HACHOIR AS collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [2c 5h 9h Kc]
+Seat 1: HACHOIR AS won 405
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #552936662372450305-3-1440684134 - Holdem no limit (10/20) - 2015/08/27 14:02:14 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #5 is the button
+Seat 1: HACHOIR AS (1650)
+Seat 2: Nolav (1500)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1490)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1480)
+Seat 7: sabre_laser (1470)
+Seat 8: Kintyaya33 (1500)
+Seat 9: manulou3113 (1500)
+Seat 10: spokaann (1440)
+*** ANTE/BLINDS ***
+j0j0bernard posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2h Js]
+*** PRE-FLOP *** 
+Kintyaya33 calls 20
+manulou3113 folds
+spokaann folds
+HACHOIR AS calls 20
+Nolav raises 40 to 60
+LABELLE VIE folds
+v1_100 calls 60
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+Kintyaya33 calls 40
+HACHOIR AS calls 40
+*** FLOP *** [3h 8h 2d]
+Kintyaya33 bets 100
+HACHOIR AS folds
+Nolav folds
+v1_100 calls 100
+*** TURN *** [3h 8h 2d][Ts]
+Kintyaya33 bets 120
+v1_100 calls 120
+*** RIVER *** [3h 8h 2d Ts][5d]
+Kintyaya33 checks
+v1_100 checks
+*** SHOW DOWN ***
+Kintyaya33 shows [Jh Qh] (High card : Queen)
+v1_100 shows [4c 4d] (One pair : 4)
+v1_100 collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [3h 8h 2d Ts 5d]
+Seat 4: v1_100 showed [4c 4d] and won 710 with One pair : 4
+Seat 8: Kintyaya33 showed [Jh Qh] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #552936662372450305-4-1440684208 - Holdem no limit (15/30) - 2015/08/27 14:03:28 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #6 is the button
+Seat 1: HACHOIR AS (1590)
+Seat 2: Nolav (1440)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1470)
+Seat 7: sabre_laser (1450)
+Seat 8: Kintyaya33 (1220)
+Seat 9: manulou3113 (1500)
+Seat 10: spokaann (1440)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Kintyaya33 posts big blind 30
+Dealt to sabre_laser [2c 3d]
+*** PRE-FLOP *** 
+manulou3113 folds
+spokaann raises 60 to 90
+HACHOIR AS calls 90
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+Kintyaya33 folds
+*** FLOP *** [5c 8h Js]
+spokaann bets 30
+HACHOIR AS calls 30
+*** TURN *** [5c 8h Js][Td]
+spokaann checks
+HACHOIR AS bets 30
+spokaann calls 30
+*** RIVER *** [5c 8h Js Td][Jc]
+spokaann checks
+HACHOIR AS bets 173
+spokaann folds
+HACHOIR AS collected 518 from pot
+*** SUMMARY ***
+Total pot 518 | No rake
+Board: [5c 8h Js Td Jc]
+Seat 1: HACHOIR AS won 518
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #552936662372450305-5-1440684306 - Holdem no limit (15/30) - 2015/08/27 14:05:06 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #7 is the button
+Seat 1: HACHOIR AS (1785)
+Seat 2: Nolav (1440)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1470)
+Seat 7: sabre_laser (1435)
+Seat 8: Kintyaya33 (1190)
+Seat 9: manulou3113 (1500)
+Seat 10: spokaann (1290)
+*** ANTE/BLINDS ***
+Kintyaya33 posts small blind 15
+manulou3113 posts big blind 30
+Dealt to sabre_laser [2d 5h]
+*** PRE-FLOP *** 
+spokaann folds
+HACHOIR AS raises 1755 to 1785 and is all-in
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+Kintyaya33 folds
+manulou3113 folds
+HACHOIR AS collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Seat 1: HACHOIR AS won 1830
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #552936662372450305-6-1440684369 - Holdem no limit (20/40) - 2015/08/27 14:06:09 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #8 is the button
+Seat 1: HACHOIR AS (1830)
+Seat 2: Nolav (1440)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1470)
+Seat 7: sabre_laser (1435)
+Seat 8: Kintyaya33 (1175)
+Seat 9: manulou3113 (1470)
+Seat 10: spokaann (1290)
+*** ANTE/BLINDS ***
+manulou3113 posts small blind 20
+spokaann posts big blind 40
+Dealt to sabre_laser [3d 8s]
+*** PRE-FLOP *** 
+HACHOIR AS calls 40
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+Kintyaya33 raises 100 to 140
+manulou3113 folds
+spokaann folds
+HACHOIR AS calls 100
+*** FLOP *** [Jh Jd Qs]
+HACHOIR AS checks
+Kintyaya33 bets 180
+HACHOIR AS folds
+Kintyaya33 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Jh Jd Qs]
+Seat 8: Kintyaya33 (button) won 520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #552936662372450305-7-1440684425 - Holdem no limit (20/40) - 2015/08/27 14:07:05 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #9 is the button
+Seat 1: HACHOIR AS (1690)
+Seat 2: Nolav (1440)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1470)
+Seat 7: sabre_laser (1435)
+Seat 8: Kintyaya33 (1375)
+Seat 9: manulou3113 (1450)
+Seat 10: spokaann (1250)
+*** ANTE/BLINDS ***
+spokaann posts small blind 20
+HACHOIR AS posts big blind 40
+Dealt to sabre_laser [3h Ad]
+*** PRE-FLOP *** 
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+Kintyaya33 folds
+manulou3113 folds
+spokaann raises 60 to 100
+HACHOIR AS folds
+spokaann collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 10: spokaann (small blind) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #552936662372450305-8-1440684497 - Holdem no limit (30/60) - 2015/08/27 14:08:17 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #10 is the button
+Seat 1: HACHOIR AS (1650)
+Seat 2: Nolav (1440)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1470)
+Seat 7: sabre_laser (1435)
+Seat 8: Kintyaya33 (1375)
+Seat 9: manulou3113 (1450)
+Seat 10: spokaann (1290)
+*** ANTE/BLINDS ***
+HACHOIR AS posts small blind 30
+Nolav posts big blind 60
+Dealt to sabre_laser [6s 5c]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard raises 60 to 120
+sabre_laser folds
+Kintyaya33 folds
+manulou3113 folds
+spokaann folds
+HACHOIR AS calls 90
+Nolav calls 60
+*** FLOP *** [Kh 5d 4s]
+HACHOIR AS bets 60
+Nolav raises 1260 to 1320 and is all-in
+j0j0bernard folds
+HACHOIR AS calls 1260
+*** TURN *** [Kh 5d 4s][Ad]
+*** RIVER *** [Kh 5d 4s Ad][Jd]
+*** SHOW DOWN ***
+HACHOIR AS shows [9d Kc] (One pair : Kings)
+Nolav shows [4h 4d] (Trips of 4)
+Nolav collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Kh 5d 4s Ad Jd]
+Seat 1: HACHOIR AS (small blind) showed [9d Kc] and lost with One pair : Kings
+Seat 2: Nolav (big blind) showed [4h 4d] and won 3000 with Trips of 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #552936662372450305-9-1440684554 - Holdem no limit (30/60) - 2015/08/27 14:09:14 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #1 is the button
+Seat 1: HACHOIR AS (210)
+Seat 2: Nolav (3000)
+Seat 3: LABELLE VIE (1500)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1350)
+Seat 7: sabre_laser (1435)
+Seat 8: Kintyaya33 (1375)
+Seat 9: manulou3113 (1450)
+Seat 10: spokaann (1290)
+*** ANTE/BLINDS ***
+Nolav posts small blind 30
+LABELLE VIE posts big blind 60
+Dealt to sabre_laser [Ts 3h]
+*** PRE-FLOP *** 
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard calls 60
+sabre_laser folds
+Kintyaya33 raises 90 to 150
+manulou3113 calls 150
+spokaann folds
+HACHOIR AS raises 60 to 210 and is all-in
+Nolav folds
+LABELLE VIE folds
+j0j0bernard calls 150
+Kintyaya33 calls 60
+manulou3113 calls 60
+*** FLOP *** [9h 2d Qs]
+j0j0bernard checks
+Kintyaya33 bets 240
+manulou3113 raises 1000 to 1240 and is all-in
+j0j0bernard folds
+Kintyaya33 calls 925 and is all-in
+*** TURN *** [9h 2d Qs][3d]
+*** RIVER *** [9h 2d Qs 3d][4s]
+*** SHOW DOWN ***
+HACHOIR AS shows [3c Ad] (One pair : 3)
+Kintyaya33 shows [Ks Qh] (One pair : Queens)
+manulou3113 shows [Kd Kh] (One pair : Kings)
+manulou3113 collected 3335 from pot
+*** SUMMARY ***
+Total pot 3335 | No rake
+Board: [9h 2d Qs 3d 4s]
+Seat 1: HACHOIR AS (button) showed [3c Ad] and lost with One pair : 3
+Seat 8: Kintyaya33 showed [Ks Qh] and lost with One pair : Queens
+Seat 9: manulou3113 showed [Kd Kh] and won 3335 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #552936662372450305-10-1440684631 - Holdem no limit (30/60) - 2015/08/27 14:10:31 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Nolav (2970)
+Seat 3: LABELLE VIE (1440)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1140)
+Seat 7: sabre_laser (1435)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1290)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 30
+v1_100 posts big blind 60
+Dealt to sabre_laser [3h Qs]
+*** PRE-FLOP *** 
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: v1_100 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #552936662372450305-11-1440684651 - Holdem no limit (30/60) - 2015/08/27 14:10:51 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Nolav (2970)
+Seat 3: LABELLE VIE (1410)
+Seat 4: v1_100 (1950)
+Seat 5: MuckZEnutS (1470)
+Seat 6: j0j0bernard (1140)
+Seat 7: sabre_laser (1435)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1290)
+*** ANTE/BLINDS ***
+v1_100 posts small blind 30
+MuckZEnutS posts big blind 60
+Dealt to sabre_laser [Qh Kc]
+*** PRE-FLOP *** 
+j0j0bernard folds
+sabre_laser raises 60 to 120
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS raises 304 to 424
+sabre_laser folds
+MuckZEnutS collected 574 from pot
+*** SUMMARY ***
+Total pot 574 | No rake
+Seat 5: MuckZEnutS (big blind) won 574
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #552936662372450305-12-1440684739 - Holdem no limit (40/80) - 2015/08/27 14:12:19 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Nolav (2970)
+Seat 3: LABELLE VIE (1410)
+Seat 4: v1_100 (1920)
+Seat 5: MuckZEnutS (1620)
+Seat 6: j0j0bernard (1140)
+Seat 7: sabre_laser (1315)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1290)
+*** ANTE/BLINDS ***
+MuckZEnutS posts small blind 40
+j0j0bernard posts big blind 80
+Dealt to sabre_laser [Tc 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+manulou3113 folds
+spokaann calls 80
+Nolav folds
+LABELLE VIE folds
+v1_100 raises 240 to 320
+MuckZEnutS folds
+j0j0bernard folds
+spokaann folds
+v1_100 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 4: v1_100 (button) won 520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #552936662372450305-13-1440684813 - Holdem no limit (40/80) - 2015/08/27 14:13:33 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Nolav (2970)
+Seat 3: LABELLE VIE (1410)
+Seat 4: v1_100 (2120)
+Seat 5: MuckZEnutS (1580)
+Seat 6: j0j0bernard (1060)
+Seat 7: sabre_laser (1315)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1210)
+*** ANTE/BLINDS ***
+j0j0bernard posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [8h 6d]
+*** PRE-FLOP *** 
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard raises 80 to 160
+sabre_laser calls 80
+*** FLOP *** [Kd 4h Qd]
+j0j0bernard checks
+sabre_laser bets 280
+j0j0bernard calls 280
+*** TURN *** [Kd 4h Qd][Qc]
+j0j0bernard checks
+sabre_laser checks
+*** RIVER *** [Kd 4h Qd Qc][Tc]
+j0j0bernard bets 200
+sabre_laser folds
+j0j0bernard collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Kd 4h Qd Qc Tc]
+Seat 6: j0j0bernard (small blind) won 1080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #552936662372450305-14-1440684960 - Holdem no limit (60/120) - 2015/08/27 14:16:00 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Nolav (2970)
+Seat 3: LABELLE VIE (1410)
+Seat 4: v1_100 (2120)
+Seat 5: MuckZEnutS (1580)
+Seat 6: j0j0bernard (1500)
+Seat 7: sabre_laser (875)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1210)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+manulou3113 posts big blind 120
+Dealt to sabre_laser [9h 2h]
+*** PRE-FLOP *** 
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: manulou3113 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #552936662372450305-15-1440685003 - Holdem no limit (60/120) - 2015/08/27 14:16:43 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Nolav (2970)
+Seat 3: LABELLE VIE (1410)
+Seat 4: v1_100 (2120)
+Seat 5: MuckZEnutS (1580)
+Seat 6: j0j0bernard (1500)
+Seat 7: sabre_laser (815)
+Seat 9: manulou3113 (3395)
+Seat 10: spokaann (1210)
+*** ANTE/BLINDS ***
+manulou3113 posts small blind 60
+spokaann posts big blind 120
+Dealt to sabre_laser [Jd 4c]
+*** PRE-FLOP *** 
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS raises 199 to 319
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+MuckZEnutS collected 499 from pot
+*** SUMMARY ***
+Total pot 499 | No rake
+Seat 5: MuckZEnutS won 499
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #552936662372450305-16-1440685054 - Holdem no limit (80/160) - 2015/08/27 14:17:34 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Nolav (2970)
+Seat 3: LABELLE VIE (1410)
+Seat 4: v1_100 (2120)
+Seat 5: MuckZEnutS (1760)
+Seat 6: j0j0bernard (1500)
+Seat 7: sabre_laser (815)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1090)
+*** ANTE/BLINDS ***
+spokaann posts small blind 80
+Nolav posts big blind 160
+Dealt to sabre_laser [3h 5h]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+v1_100 raises 160 to 320
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+Nolav folds
+v1_100 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 4: v1_100 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #552936662372450305-17-1440685129 - Holdem no limit (80/160) - 2015/08/27 14:18:49 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Nolav (2810)
+Seat 3: LABELLE VIE (1410)
+Seat 4: v1_100 (2360)
+Seat 5: MuckZEnutS (1760)
+Seat 6: j0j0bernard (1500)
+Seat 7: sabre_laser (815)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1010)
+*** ANTE/BLINDS ***
+Nolav posts small blind 80
+LABELLE VIE posts big blind 160
+Dealt to sabre_laser [Td Ah]
+*** PRE-FLOP *** 
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard calls 160
+sabre_laser raises 655 to 815 and is all-in
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+j0j0bernard folds
+sabre_laser collected 1215 from pot
+*** SUMMARY ***
+Total pot 1215 | No rake
+Seat 7: sabre_laser won 1215
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #552936662372450305-18-1440685173 - Holdem no limit (80/160) - 2015/08/27 14:19:33 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Nolav (2730)
+Seat 3: LABELLE VIE (1250)
+Seat 4: v1_100 (2360)
+Seat 5: MuckZEnutS (1760)
+Seat 6: j0j0bernard (1340)
+Seat 7: sabre_laser (1215)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1010)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 80
+v1_100 posts big blind 160
+Dealt to sabre_laser [5d 2h]
+*** PRE-FLOP *** 
+MuckZEnutS folds
+j0j0bernard raises 240 to 400
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 calls 240
+*** FLOP *** [Ad 8s 7s]
+v1_100 checks
+j0j0bernard bets 320
+v1_100 folds
+j0j0bernard collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ad 8s 7s]
+Seat 6: j0j0bernard won 1200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #552936662372450305-19-1440685257 - Holdem no limit (10/100/200) - 2015/08/27 14:20:57 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Nolav (2730)
+Seat 3: LABELLE VIE (1170)
+Seat 4: v1_100 (1960)
+Seat 5: MuckZEnutS (1760)
+Seat 6: j0j0bernard (1820)
+Seat 7: sabre_laser (1215)
+Seat 9: manulou3113 (3335)
+Seat 10: spokaann (1010)
+*** ANTE/BLINDS ***
+v1_100 posts ante 10
+MuckZEnutS posts ante 10
+Nolav posts ante 10
+LABELLE VIE posts ante 10
+j0j0bernard posts ante 10
+sabre_laser posts ante 10
+manulou3113 posts ante 10
+spokaann posts ante 10
+v1_100 posts small blind 100
+MuckZEnutS posts big blind 200
+Dealt to sabre_laser [5s 9c]
+*** PRE-FLOP *** 
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann calls 200
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS raises 1550 to 1750 and is all-in
+spokaann folds
+MuckZEnutS collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Seat 5: MuckZEnutS (big blind) won 2130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #552936662372450305-20-1440685313 - Holdem no limit (10/100/200) - 2015/08/27 14:21:53 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Nolav (2720)
+Seat 3: LABELLE VIE (1160)
+Seat 4: v1_100 (1850)
+Seat 5: MuckZEnutS (2130)
+Seat 6: j0j0bernard (1810)
+Seat 7: sabre_laser (1205)
+Seat 9: manulou3113 (3325)
+Seat 10: spokaann (800)
+*** ANTE/BLINDS ***
+MuckZEnutS posts ante 10
+j0j0bernard posts ante 10
+Nolav posts ante 10
+LABELLE VIE posts ante 10
+v1_100 posts ante 10
+sabre_laser posts ante 10
+manulou3113 posts ante 10
+spokaann posts ante 10
+MuckZEnutS posts small blind 100
+j0j0bernard posts big blind 200
+Dealt to sabre_laser [7h Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard shows [3d Tc] (High card : Ten)
+j0j0bernard collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 6: j0j0bernard (big blind) showed [3d Tc] and won 380 with High card : Ten
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #552936662372450305-21-1440685372 - Holdem no limit (10/100/200) - 2015/08/27 14:22:52 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Nolav (2710)
+Seat 3: LABELLE VIE (1150)
+Seat 4: v1_100 (1840)
+Seat 5: MuckZEnutS (2020)
+Seat 6: j0j0bernard (1980)
+Seat 7: sabre_laser (1195)
+Seat 9: manulou3113 (3315)
+Seat 10: spokaann (790)
+*** ANTE/BLINDS ***
+j0j0bernard posts ante 10
+sabre_laser posts ante 10
+Nolav posts ante 10
+LABELLE VIE posts ante 10
+v1_100 posts ante 10
+MuckZEnutS posts ante 10
+manulou3113 posts ante 10
+spokaann posts ante 10
+j0j0bernard posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [6h 3h]
+*** PRE-FLOP *** 
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS raises 1810 to 2010 and is all-in
+j0j0bernard folds
+sabre_laser folds
+MuckZEnutS collected 2390 from pot
+*** SUMMARY ***
+Total pot 2390 | No rake
+Seat 5: MuckZEnutS (button) won 2390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #552936662372450305-22-1440685452 - Holdem no limit (20/150/300) - 2015/08/27 14:24:12 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Nolav (2700)
+Seat 3: LABELLE VIE (1140)
+Seat 4: v1_100 (1830)
+Seat 5: MuckZEnutS (2390)
+Seat 6: j0j0bernard (1870)
+Seat 7: sabre_laser (985)
+Seat 9: manulou3113 (3305)
+Seat 10: spokaann (780)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+manulou3113 posts ante 20
+Nolav posts ante 20
+LABELLE VIE posts ante 20
+v1_100 posts ante 20
+MuckZEnutS posts ante 20
+j0j0bernard posts ante 20
+spokaann posts ante 20
+sabre_laser posts small blind 150
+manulou3113 posts big blind 300
+Dealt to sabre_laser [5s 5d]
+*** PRE-FLOP *** 
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser raises 665 to 965 and is all-in
+manulou3113 folds
+sabre_laser collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Seat 7: sabre_laser (small blind) won 1425
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #552936662372450305-23-1440685512 - Holdem no limit (20/150/300) - 2015/08/27 14:25:12 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Nolav (2680)
+Seat 3: LABELLE VIE (1120)
+Seat 4: v1_100 (1810)
+Seat 5: MuckZEnutS (2370)
+Seat 6: j0j0bernard (1850)
+Seat 7: sabre_laser (1425)
+Seat 9: manulou3113 (2985)
+Seat 10: spokaann (760)
+*** ANTE/BLINDS ***
+manulou3113 posts ante 20
+spokaann posts ante 20
+Nolav posts ante 20
+LABELLE VIE posts ante 20
+v1_100 posts ante 20
+MuckZEnutS posts ante 20
+j0j0bernard posts ante 20
+sabre_laser posts ante 20
+manulou3113 posts small blind 150
+spokaann posts big blind 300
+Dealt to sabre_laser [As 5s]
+*** PRE-FLOP *** 
+Nolav folds
+LABELLE VIE folds
+v1_100 raises 1490 to 1790 and is all-in
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+v1_100 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Seat 4: v1_100 won 2400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #552936662372450305-24-1440685575 - Holdem no limit (20/150/300) - 2015/08/27 14:26:15 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Nolav (2660)
+Seat 3: LABELLE VIE (1100)
+Seat 4: v1_100 (2400)
+Seat 5: MuckZEnutS (2350)
+Seat 6: j0j0bernard (1830)
+Seat 7: sabre_laser (1405)
+Seat 9: manulou3113 (2815)
+Seat 10: spokaann (440)
+*** ANTE/BLINDS ***
+spokaann posts ante 20
+Nolav posts ante 20
+LABELLE VIE posts ante 20
+v1_100 posts ante 20
+MuckZEnutS posts ante 20
+j0j0bernard posts ante 20
+sabre_laser posts ante 20
+manulou3113 posts ante 20
+spokaann posts small blind 150
+Nolav posts big blind 300
+Dealt to sabre_laser [Qd Kh]
+*** PRE-FLOP *** 
+LABELLE VIE raises 780 to 1080 and is all-in
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann calls 270 and is all-in
+Nolav folds
+*** FLOP *** [8c 3c 4s]
+*** TURN *** [8c 3c 4s][Jc]
+*** RIVER *** [8c 3c 4s Jc][9c]
+*** SHOW DOWN ***
+spokaann shows [Js Ac] (Flush Ace high)
+LABELLE VIE shows [6c 7c] (Flush Jack high)
+LABELLE VIE collected 660 from side pot 1
+spokaann collected 1300 from main pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [8c 3c 4s Jc 9c]
+Seat 3: LABELLE VIE showed [6c 7c] and won 660 with Flush Jack high
+Seat 10: spokaann (small blind) showed [Js Ac] and won 1300 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #552936662372450305-25-1440685628 - Holdem no limit (50/200/400) - 2015/08/27 14:27:08 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Nolav (2340)
+Seat 3: LABELLE VIE (660)
+Seat 4: v1_100 (2380)
+Seat 5: MuckZEnutS (2330)
+Seat 6: j0j0bernard (1810)
+Seat 7: sabre_laser (1385)
+Seat 9: manulou3113 (2795)
+Seat 10: spokaann (1300)
+*** ANTE/BLINDS ***
+Nolav posts ante 50
+LABELLE VIE posts ante 50
+v1_100 posts ante 50
+MuckZEnutS posts ante 50
+j0j0bernard posts ante 50
+sabre_laser posts ante 50
+manulou3113 posts ante 50
+spokaann posts ante 50
+Nolav posts small blind 200
+LABELLE VIE posts big blind 400
+Dealt to sabre_laser [3c Qc]
+*** PRE-FLOP *** 
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 3: LABELLE VIE (big blind) won 1000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #552936662372450305-26-1440685649 - Holdem no limit (50/200/400) - 2015/08/27 14:27:29 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Nolav (2090)
+Seat 3: LABELLE VIE (1210)
+Seat 4: v1_100 (2330)
+Seat 5: MuckZEnutS (2280)
+Seat 6: j0j0bernard (1760)
+Seat 7: sabre_laser (1335)
+Seat 9: manulou3113 (2745)
+Seat 10: spokaann (1250)
+*** ANTE/BLINDS ***
+LABELLE VIE posts ante 50
+v1_100 posts ante 50
+Nolav posts ante 50
+MuckZEnutS posts ante 50
+j0j0bernard posts ante 50
+sabre_laser posts ante 50
+manulou3113 posts ante 50
+spokaann posts ante 50
+LABELLE VIE posts small blind 200
+v1_100 posts big blind 400
+Dealt to sabre_laser [As 5s]
+*** PRE-FLOP *** 
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser raises 885 to 1285 and is all-in
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+sabre_laser collected 2285 from pot
+*** SUMMARY ***
+Total pot 2285 | No rake
+Seat 7: sabre_laser won 2285
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #552936662372450305-27-1440685703 - Holdem no limit (50/200/400) - 2015/08/27 14:28:23 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Nolav (2040)
+Seat 3: LABELLE VIE (960)
+Seat 4: v1_100 (1880)
+Seat 5: MuckZEnutS (2230)
+Seat 6: j0j0bernard (1710)
+Seat 7: sabre_laser (2285)
+Seat 9: manulou3113 (2695)
+Seat 10: spokaann (1200)
+*** ANTE/BLINDS ***
+v1_100 posts ante 50
+MuckZEnutS posts ante 50
+Nolav posts ante 50
+LABELLE VIE posts ante 50
+j0j0bernard posts ante 50
+sabre_laser posts ante 50
+manulou3113 posts ante 50
+spokaann posts ante 50
+v1_100 posts small blind 200
+MuckZEnutS posts big blind 400
+Dealt to sabre_laser [Kh Ts]
+*** PRE-FLOP *** 
+j0j0bernard raises 400 to 800
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS raises 1380 to 2180 and is all-in
+j0j0bernard calls 860 and is all-in
+*** FLOP *** [Ah Ad 6c]
+*** TURN *** [Ah Ad 6c][3s]
+*** RIVER *** [Ah Ad 6c 3s][Js]
+*** SHOW DOWN ***
+j0j0bernard shows [As 8c] (Trips of Aces)
+MuckZEnutS shows [5s Ac] (Trips of Aces)
+MuckZEnutS collected 520 from side pot 1
+j0j0bernard collected 3920 from main pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [Ah Ad 6c 3s Js]
+Seat 5: MuckZEnutS (big blind) showed [5s Ac] and won 520 with Trips of Aces
+Seat 6: j0j0bernard showed [As 8c] and won 3920 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #552936662372450305-28-1440685759 - Holdem no limit (75/300/600) - 2015/08/27 14:29:19 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Nolav (1990)
+Seat 3: LABELLE VIE (910)
+Seat 4: v1_100 (1630)
+Seat 5: MuckZEnutS (520)
+Seat 6: j0j0bernard (3920)
+Seat 7: sabre_laser (2235)
+Seat 9: manulou3113 (2645)
+Seat 10: spokaann (1150)
+*** ANTE/BLINDS ***
+MuckZEnutS posts ante 75
+j0j0bernard posts ante 75
+Nolav posts ante 75
+LABELLE VIE posts ante 75
+v1_100 posts ante 75
+sabre_laser posts ante 75
+manulou3113 posts ante 75
+spokaann posts ante 75
+MuckZEnutS posts small blind 300
+j0j0bernard posts big blind 600
+Dealt to sabre_laser [6s 9s]
+*** PRE-FLOP *** 
+sabre_laser folds
+manulou3113 folds
+spokaann raises 475 to 1075 and is all-in
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard calls 475
+*** FLOP *** [5c 6d Ad]
+*** TURN *** [5c 6d Ad][7s]
+*** RIVER *** [5c 6d Ad 7s][Ac]
+*** SHOW DOWN ***
+j0j0bernard shows [4c Tc] (One pair : Aces)
+spokaann shows [Ah Jh] (Trips of Aces)
+spokaann collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [5c 6d Ad 7s Ac]
+Seat 6: j0j0bernard (big blind) showed [4c Tc] and lost with One pair : Aces
+Seat 10: spokaann showed [Ah Jh] and won 3050 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #552936662372450305-29-1440685806 - Holdem no limit (75/300/600) - 2015/08/27 14:30:06 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Nolav (1915)
+Seat 3: LABELLE VIE (835)
+Seat 4: v1_100 (1555)
+Seat 5: MuckZEnutS (145)
+Seat 6: j0j0bernard (2770)
+Seat 7: sabre_laser (2160)
+Seat 9: manulou3113 (2570)
+Seat 10: spokaann (3050)
+*** ANTE/BLINDS ***
+j0j0bernard posts ante 75
+sabre_laser posts ante 75
+Nolav posts ante 75
+LABELLE VIE posts ante 75
+v1_100 posts ante 75
+MuckZEnutS posts ante 75
+manulou3113 posts ante 75
+spokaann posts ante 75
+j0j0bernard posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [2d 3d]
+*** PRE-FLOP *** 
+manulou3113 folds
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard raises 2095 to 2695 and is all-in
+sabre_laser folds
+j0j0bernard collected 3895 from pot
+*** SUMMARY ***
+Total pot 3895 | No rake
+Seat 6: j0j0bernard (small blind) won 3895
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #552936662372450305-30-1440685887 - Holdem no limit (75/300/600) - 2015/08/27 14:31:27 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Nolav (1840)
+Seat 3: LABELLE VIE (760)
+Seat 4: v1_100 (1480)
+Seat 5: MuckZEnutS (70)
+Seat 6: j0j0bernard (3895)
+Seat 7: sabre_laser (1485)
+Seat 9: manulou3113 (2495)
+Seat 10: spokaann (2975)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+manulou3113 posts ante 75
+Nolav posts ante 75
+LABELLE VIE posts ante 75
+v1_100 posts ante 75
+MuckZEnutS posts ante 70 and is all-in
+j0j0bernard posts ante 75
+spokaann posts ante 75
+sabre_laser posts small blind 300
+manulou3113 posts big blind 600
+Dealt to sabre_laser [5s 2d]
+*** PRE-FLOP *** 
+spokaann folds
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+j0j0bernard folds
+sabre_laser folds
+*** FLOP *** [Ks 2c 2h]
+*** TURN *** [Ks 2c 2h][4s]
+*** RIVER *** [Ks 2c 2h 4s][5c]
+*** SHOW DOWN ***
+MuckZEnutS shows [Qc 5h] (Two pairs : 5 and 2)
+manulou3113 shows [Jh 6c] (One pair : 2)
+manulou3113 collected 935 from side pot 1
+MuckZEnutS collected 560 from main pot
+*** SUMMARY ***
+Total pot 1495 | No rake
+Board: [Ks 2c 2h 4s 5c]
+Seat 5: MuckZEnutS showed [Qc 5h] and won 560 with Two pairs : 5 and 2
+Seat 9: manulou3113 (big blind) showed [Jh 6c] and won 935 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #552936662372450305-31-1440685913 - Holdem no limit (75/300/600) - 2015/08/27 14:31:53 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Nolav (1765)
+Seat 3: LABELLE VIE (685)
+Seat 4: v1_100 (1405)
+Seat 5: MuckZEnutS (560)
+Seat 6: j0j0bernard (3820)
+Seat 7: sabre_laser (1110)
+Seat 9: manulou3113 (2755)
+Seat 10: spokaann (2900)
+*** ANTE/BLINDS ***
+manulou3113 posts ante 75
+spokaann posts ante 75
+Nolav posts ante 75
+LABELLE VIE posts ante 75
+v1_100 posts ante 75
+MuckZEnutS posts ante 75
+j0j0bernard posts ante 75
+sabre_laser posts ante 75
+manulou3113 posts small blind 300
+spokaann posts big blind 600
+Dealt to sabre_laser [As Ad]
+*** PRE-FLOP *** 
+Nolav folds
+LABELLE VIE folds
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser raises 435 to 1035 and is all-in
+manulou3113 folds
+spokaann folds
+sabre_laser collected 2535 from pot
+*** SUMMARY ***
+Total pot 2535 | No rake
+Seat 7: sabre_laser (button) won 2535
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #552936662372450305-32-1440685977 - Holdem no limit (100/400/800) - 2015/08/27 14:32:57 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Nolav (1690)
+Seat 3: LABELLE VIE (610)
+Seat 4: v1_100 (1330)
+Seat 5: MuckZEnutS (485)
+Seat 6: j0j0bernard (3745)
+Seat 7: sabre_laser (2535)
+Seat 9: manulou3113 (2380)
+Seat 10: spokaann (2225)
+*** ANTE/BLINDS ***
+spokaann posts ante 100
+Nolav posts ante 100
+LABELLE VIE posts ante 100
+v1_100 posts ante 100
+MuckZEnutS posts ante 100
+j0j0bernard posts ante 100
+sabre_laser posts ante 100
+manulou3113 posts ante 100
+spokaann posts small blind 400
+Nolav posts big blind 800
+Dealt to sabre_laser [5d Tc]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+v1_100 raises 430 to 1230 and is all-in
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+spokaann folds
+Nolav folds
+v1_100 collected 3230 from pot
+*** SUMMARY ***
+Total pot 3230 | No rake
+Seat 4: v1_100 won 3230
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #552936662372450305-33-1440686051 - Holdem no limit (100/400/800) - 2015/08/27 14:34:11 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Nolav (790)
+Seat 3: LABELLE VIE (510)
+Seat 4: v1_100 (3230)
+Seat 5: MuckZEnutS (385)
+Seat 6: j0j0bernard (3645)
+Seat 7: sabre_laser (2435)
+Seat 9: manulou3113 (2280)
+Seat 10: spokaann (1725)
+*** ANTE/BLINDS ***
+Nolav posts ante 100
+LABELLE VIE posts ante 100
+v1_100 posts ante 100
+MuckZEnutS posts ante 100
+j0j0bernard posts ante 100
+sabre_laser posts ante 100
+manulou3113 posts ante 100
+spokaann posts ante 100
+Nolav posts small blind 400
+LABELLE VIE posts big blind 410 and is all-in
+Dealt to sabre_laser [As Ah]
+*** PRE-FLOP *** 
+v1_100 folds
+MuckZEnutS folds
+j0j0bernard calls 800
+sabre_laser raises 1925 to 2335 and is all-in
+manulou3113 folds
+spokaann calls 1625 and is all-in
+Nolav folds
+j0j0bernard folds
+*** FLOP *** [Kd 3s 7h]
+*** TURN *** [Kd 3s 7h][3d]
+*** RIVER *** [Kd 3s 7h 3d][Qs]
+*** SHOW DOWN ***
+LABELLE VIE shows [8s 7s] (Two pairs : 7 and 3)
+spokaann shows [Jc Js] (Two pairs : Jacks and 3)
+sabre_laser shows [As Ah] (Two pairs : Aces and 3)
+sabre_laser collected 6370 from pot
+*** SUMMARY ***
+Total pot 6370 | No rake
+Board: [Kd 3s 7h 3d Qs]
+Seat 3: LABELLE VIE (big blind) showed [8s 7s] and lost with Two pairs : 7 and 3
+Seat 7: sabre_laser showed [As Ah] and won 6370 with Two pairs : Aces and 3
+Seat 10: spokaann (button) showed [Jc Js] and lost with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #552936662372450305-34-1440686115 - Holdem no limit (100/400/800) - 2015/08/27 14:35:15 UTC
+Table: 'Double or Nothing(128740599)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Nolav (290)
+Seat 4: v1_100 (3130)
+Seat 5: MuckZEnutS (285)
+Seat 6: j0j0bernard (2745)
+Seat 7: sabre_laser (6370)
+Seat 9: manulou3113 (2180)
+*** ANTE/BLINDS ***
+v1_100 posts ante 100
+Nolav posts ante 100
+MuckZEnutS posts ante 100
+j0j0bernard posts ante 100
+sabre_laser posts ante 100
+manulou3113 posts ante 100
+v1_100 posts big blind 800
+Dealt to sabre_laser [4s 9h]
+*** PRE-FLOP *** 
+MuckZEnutS folds
+j0j0bernard folds
+sabre_laser folds
+manulou3113 folds
+Nolav calls 190 and is all-in
+*** FLOP *** [Js 5s 6s]
+*** TURN *** [Js 5s 6s][Td]
+*** RIVER *** [Js 5s 6s Td][As]
+*** SHOW DOWN ***
+Nolav shows [3h Jc] (One pair : Jacks)
+v1_100 shows [6h 7s] (Flush Ace high)
+v1_100 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [Js 5s 6s Td As]
+Seat 2: Nolav (button) showed [3h Jc] and lost with One pair : Jacks
+Seat 4: v1_100 (big blind) showed [6h 7s] and won 1590 with Flush Ace high
+
+

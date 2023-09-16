@@ -1,0 +1,329 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #552952424902426625-1-1440686240 - Holdem no limit (10/20) - 2015/08/27 14:37:20 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #1 is the button
+Seat 1: manulou3113 (1500)
+Seat 2: s a p i a c (1500)
+Seat 3: spokaann (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: v1_100 (1500)
+Seat 6: El Dhariaoui (1500)
+Seat 7: Nolav (1500)
+Seat 8: LABELLE VIE (1500)
+Seat 9: Smajeste (1500)
+Seat 10: devin96 (1500)
+*** ANTE/BLINDS ***
+s a p i a c posts small blind 10
+spokaann posts big blind 20
+Dealt to sabre_laser [Ad 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+v1_100 folds
+El Dhariaoui raises 60 to 80
+Nolav folds
+LABELLE VIE folds
+Smajeste folds
+devin96 folds
+manulou3113 folds
+s a p i a c folds
+spokaann folds
+El Dhariaoui collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 6: El Dhariaoui won 110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #552952424902426625-2-1440686331 - Holdem no limit (10/20) - 2015/08/27 14:38:51 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #2 is the button
+Seat 1: manulou3113 (1500)
+Seat 2: s a p i a c (1490)
+Seat 3: spokaann (1480)
+Seat 4: sabre_laser (1500)
+Seat 5: v1_100 (1500)
+Seat 6: El Dhariaoui (1530)
+Seat 7: Nolav (1500)
+Seat 8: LABELLE VIE (1500)
+Seat 9: Smajeste (1500)
+Seat 10: devin96 (1500)
+*** ANTE/BLINDS ***
+spokaann posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Ac Th]
+*** PRE-FLOP *** 
+v1_100 folds
+El Dhariaoui folds
+Nolav folds
+LABELLE VIE folds
+Smajeste folds
+devin96 calls 20
+manulou3113 folds
+s a p i a c folds
+spokaann raises 70 to 90
+sabre_laser folds
+devin96 folds
+spokaann collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Seat 3: spokaann (small blind) won 130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #552952424902426625-3-1440686400 - Holdem no limit (10/20) - 2015/08/27 14:40:00 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #3 is the button
+Seat 1: manulou3113 (1500)
+Seat 2: s a p i a c (1490)
+Seat 3: spokaann (1520)
+Seat 4: sabre_laser (1480)
+Seat 5: v1_100 (1500)
+Seat 6: El Dhariaoui (1530)
+Seat 7: Nolav (1500)
+Seat 8: LABELLE VIE (1500)
+Seat 9: Smajeste (1500)
+Seat 10: devin96 (1480)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+v1_100 posts big blind 20
+Dealt to sabre_laser [7s 7h]
+*** PRE-FLOP *** 
+El Dhariaoui folds
+Nolav folds
+LABELLE VIE folds
+Smajeste calls 20
+devin96 calls 20
+manulou3113 calls 20
+s a p i a c folds
+spokaann folds
+sabre_laser calls 10
+v1_100 checks
+*** FLOP *** [Kd Ts As]
+sabre_laser checks
+v1_100 checks
+Smajeste checks
+devin96 bets 67
+manulou3113 calls 67
+sabre_laser folds
+v1_100 calls 67
+Smajeste folds
+*** TURN *** [Kd Ts As][2d]
+v1_100 checks
+devin96 bets 201
+manulou3113 calls 201
+v1_100 calls 201
+*** RIVER *** [Kd Ts As 2d][4c]
+v1_100 checks
+devin96 checks
+manulou3113 checks
+*** SHOW DOWN ***
+v1_100 shows [Jd 6d] (High card : Ace)
+manulou3113 shows [8d Ad] (One pair : Aces)
+devin96 shows [8h Ac] (One pair : Aces)
+devin96 collected 452 from pot
+manulou3113 collected 452 from pot
+*** SUMMARY ***
+Total pot 904 | No rake
+Board: [Kd Ts As 2d 4c]
+Seat 1: manulou3113 showed [8d Ad] and won 452 with One pair : Aces
+Seat 5: v1_100 (big blind) showed [Jd 6d] and lost with High card : Ace
+Seat 10: devin96 showed [8h Ac] and won 452 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #552952424902426625-4-1440686508 - Holdem no limit (15/30) - 2015/08/27 14:41:48 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #4 is the button
+Seat 1: manulou3113 (1664)
+Seat 2: s a p i a c (1490)
+Seat 3: spokaann (1520)
+Seat 4: sabre_laser (1460)
+Seat 5: v1_100 (1212)
+Seat 6: El Dhariaoui (1530)
+Seat 7: Nolav (1500)
+Seat 8: LABELLE VIE (1500)
+Seat 9: Smajeste (1480)
+Seat 10: devin96 (1644)
+*** ANTE/BLINDS ***
+v1_100 posts small blind 15
+El Dhariaoui posts big blind 30
+Dealt to sabre_laser [Jc Ad]
+*** PRE-FLOP *** 
+Nolav folds
+LABELLE VIE calls 30
+Smajeste folds
+devin96 calls 30
+manulou3113 calls 30
+s a p i a c folds
+spokaann folds
+sabre_laser raises 270 to 300
+v1_100 folds
+El Dhariaoui folds
+LABELLE VIE folds
+devin96 folds
+manulou3113 folds
+sabre_laser collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 4: sabre_laser (button) won 435
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #552952424902426625-5-1440686577 - Holdem no limit (15/30) - 2015/08/27 14:42:57 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #5 is the button
+Seat 1: manulou3113 (1634)
+Seat 2: s a p i a c (1490)
+Seat 3: spokaann (1520)
+Seat 4: sabre_laser (1595)
+Seat 5: v1_100 (1197)
+Seat 6: El Dhariaoui (1500)
+Seat 7: Nolav (1500)
+Seat 8: LABELLE VIE (1470)
+Seat 9: Smajeste (1480)
+Seat 10: devin96 (1614)
+*** ANTE/BLINDS ***
+El Dhariaoui posts small blind 15
+Nolav posts big blind 30
+Dealt to sabre_laser [7s 6c]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+Smajeste folds
+devin96 calls 30
+manulou3113 folds
+s a p i a c folds
+spokaann folds
+sabre_laser folds
+v1_100 raises 90 to 120
+El Dhariaoui folds
+Nolav folds
+devin96 calls 90
+*** FLOP *** [Jc 7c Kc]
+devin96 checks
+v1_100 checks
+*** TURN *** [Jc 7c Kc][4c]
+devin96 bets 285
+v1_100 folds
+devin96 shows [2s Ac] (Flush Ace high)
+devin96 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Jc 7c Kc 4c]
+Seat 10: devin96 showed [2s Ac] and won 570 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #552952424902426625-6-1440686658 - Holdem no limit (20/40) - 2015/08/27 14:44:18 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #6 is the button
+Seat 1: manulou3113 (1634)
+Seat 2: s a p i a c (1490)
+Seat 3: spokaann (1520)
+Seat 4: sabre_laser (1595)
+Seat 5: v1_100 (1077)
+Seat 6: El Dhariaoui (1485)
+Seat 7: Nolav (1470)
+Seat 8: LABELLE VIE (1470)
+Seat 9: Smajeste (1480)
+Seat 10: devin96 (1779)
+*** ANTE/BLINDS ***
+Nolav posts small blind 20
+LABELLE VIE posts big blind 40
+Dealt to sabre_laser [3s Ah]
+*** PRE-FLOP *** 
+Smajeste folds
+devin96 folds
+manulou3113 folds
+s a p i a c folds
+spokaann folds
+sabre_laser folds
+v1_100 folds
+El Dhariaoui folds
+Nolav folds
+LABELLE VIE collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 8: LABELLE VIE (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #552952424902426625-7-1440686748 - Holdem no limit (20/40) - 2015/08/27 14:45:48 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #7 is the button
+Seat 1: manulou3113 (1634)
+Seat 2: s a p i a c (1490)
+Seat 3: spokaann (1520)
+Seat 4: sabre_laser (1595)
+Seat 5: v1_100 (1077)
+Seat 6: El Dhariaoui (1485)
+Seat 7: Nolav (1450)
+Seat 8: LABELLE VIE (1490)
+Seat 9: Smajeste (1480)
+Seat 10: devin96 (1779)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 20
+Smajeste posts big blind 40
+Dealt to sabre_laser [7d 7h]
+*** PRE-FLOP *** 
+devin96 calls 40
+manulou3113 folds
+s a p i a c folds
+spokaann folds
+sabre_laser calls 40
+v1_100 folds
+El Dhariaoui folds
+Nolav folds
+LABELLE VIE folds
+Smajeste checks
+*** FLOP *** [5s 6s 5c]
+Smajeste checks
+devin96 bets 40
+sabre_laser calls 40
+Smajeste calls 40
+*** TURN *** [5s 6s 5c][2d]
+Smajeste checks
+devin96 bets 195
+sabre_laser calls 195
+Smajeste folds
+*** RIVER *** [5s 6s 5c 2d][Kc]
+devin96 bets 650
+sabre_laser calls 650
+*** SHOW DOWN ***
+sabre_laser shows [7d 7h] (Two pairs : 7 and 5)
+devin96 shows [5h As] (Trips of 5)
+devin96 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [5s 6s 5c 2d Kc]
+Seat 4: sabre_laser showed [7d 7h] and lost with Two pairs : 7 and 5
+Seat 10: devin96 showed [5h As] and won 1950 with Trips of 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #552952424902426625-8-1440686825 - Holdem no limit (30/60) - 2015/08/27 14:47:05 UTC
+Table: 'Double or Nothing(128744269)#0' 10-max (real money) Seat #8 is the button
+Seat 1: manulou3113 (1634)
+Seat 2: s a p i a c (1490)
+Seat 3: spokaann (1520)
+Seat 4: sabre_laser (670)
+Seat 5: v1_100 (1077)
+Seat 6: El Dhariaoui (1485)
+Seat 7: Nolav (1450)
+Seat 8: LABELLE VIE (1470)
+Seat 9: Smajeste (1400)
+Seat 10: devin96 (2804)
+*** ANTE/BLINDS ***
+Smajeste posts small blind 30
+devin96 posts big blind 60
+Dealt to sabre_laser [7h Ad]
+*** PRE-FLOP *** 
+manulou3113 folds
+s a p i a c folds
+spokaann calls 60
+sabre_laser raises 610 to 670 and is all-in
+v1_100 folds
+El Dhariaoui folds
+Nolav folds
+LABELLE VIE folds
+Smajeste folds
+devin96 folds
+spokaann calls 610
+*** FLOP *** [6c Kc 7c]
+*** TURN *** [6c Kc 7c][6s]
+*** RIVER *** [6c Kc 7c 6s][Th]
+*** SHOW DOWN ***
+sabre_laser shows [7h Ad] (Two pairs : 7 and 6)
+spokaann shows [6h 6d] (Quads of 6)
+spokaann collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Board: [6c Kc 7c 6s Th]
+Seat 3: spokaann showed [6h 6d] and won 1430 with Quads of 6
+Seat 4: sabre_laser showed [7h Ad] and lost with Two pairs : 7 and 6
+
+

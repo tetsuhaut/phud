@@ -1,0 +1,1538 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586278094059339777-1-1446833363 - Holdem no limit (10/20) - 2015/11/06 18:09:23 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ensilia (1500)
+Seat 2: jimjim0 (1500)
+Seat 3: vopel (1500)
+Seat 4: ricardogt40 (1500)
+Seat 5: crazypix (1500)
+Seat 6: eltaros (1500)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: Aion (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Aion posts big blind 20
+Dealt to sabre_laser [Qh 7d]
+*** PRE-FLOP *** 
+ensilia calls 20
+jimjim0 folds
+vopel folds
+ricardogt40 raises 40 to 60
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia calls 40
+*** FLOP *** [3c 8s Qc]
+ensilia checks
+ricardogt40 bets 75
+ensilia calls 75
+*** TURN *** [3c 8s Qc][3d]
+ensilia checks
+ricardogt40 checks
+*** RIVER *** [3c 8s Qc 3d][Qs]
+ensilia bets 200
+ricardogt40 folds
+ensilia collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [3c 8s Qc 3d Qs]
+Seat 1: ensilia won 500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586278094059339777-2-1446833444 - Holdem no limit (10/20) - 2015/11/06 18:10:44 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ensilia (1665)
+Seat 2: jimjim0 (1500)
+Seat 3: vopel (1500)
+Seat 4: ricardogt40 (1365)
+Seat 5: crazypix (1500)
+Seat 6: eltaros (1500)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1500)
+Seat 9: sabre_laser (1490)
+Seat 10: Aion (1480)
+*** ANTE/BLINDS ***
+Aion posts small blind 10
+ensilia posts big blind 20
+Dealt to sabre_laser [Ts 5s]
+*** PRE-FLOP *** 
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 raises 20 to 40
+sabre_laser folds
+Aion calls 30
+ensilia calls 20
+*** FLOP *** [4s 6c Ks]
+Aion checks
+ensilia bets 20
+slb68 folds
+Aion folds
+ensilia collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [4s 6c Ks]
+Seat 1: ensilia (big blind) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586278094059339777-3-1446833492 - Holdem no limit (10/20) - 2015/11/06 18:11:32 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ensilia (1745)
+Seat 2: jimjim0 (1500)
+Seat 3: vopel (1500)
+Seat 4: ricardogt40 (1365)
+Seat 5: crazypix (1500)
+Seat 6: eltaros (1500)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1460)
+Seat 9: sabre_laser (1490)
+Seat 10: Aion (1440)
+*** ANTE/BLINDS ***
+ensilia posts small blind 10
+jimjim0 posts big blind 20
+Dealt to sabre_laser [3s 2h]
+*** PRE-FLOP *** 
+vopel folds
+ricardogt40 folds
+crazypix calls 20
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia calls 10
+jimjim0 checks
+*** FLOP *** [3h Kd Qh]
+ensilia checks
+jimjim0 bets 20
+crazypix folds
+ensilia calls 20
+*** TURN *** [3h Kd Qh][7c]
+ensilia checks
+jimjim0 bets 20
+ensilia calls 20
+*** RIVER *** [3h Kd Qh 7c][As]
+ensilia checks
+jimjim0 checks
+*** SHOW DOWN ***
+ensilia shows [7s Jc] (One pair : 7)
+jimjim0 shows [4h Ks] (One pair : Kings)
+jimjim0 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [3h Kd Qh 7c As]
+Seat 1: ensilia (small blind) showed [7s Jc] and lost with One pair : 7
+Seat 2: jimjim0 (big blind) showed [4h Ks] and won 140 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #586278094059339777-4-1446833555 - Holdem no limit (15/30) - 2015/11/06 18:12:35 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ensilia (1685)
+Seat 2: jimjim0 (1580)
+Seat 3: vopel (1500)
+Seat 4: ricardogt40 (1365)
+Seat 5: crazypix (1480)
+Seat 6: eltaros (1500)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1460)
+Seat 9: sabre_laser (1490)
+Seat 10: Aion (1440)
+*** ANTE/BLINDS ***
+jimjim0 posts small blind 15
+vopel posts big blind 30
+Dealt to sabre_laser [7h 9c]
+*** PRE-FLOP *** 
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion raises 60 to 90
+ensilia folds
+jimjim0 folds
+vopel folds
+Aion collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 10: Aion won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #586278094059339777-5-1446833610 - Holdem no limit (15/30) - 2015/11/06 18:13:30 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: ensilia (1685)
+Seat 2: jimjim0 (1565)
+Seat 3: vopel (1470)
+Seat 4: ricardogt40 (1365)
+Seat 5: crazypix (1480)
+Seat 6: eltaros (1500)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1460)
+Seat 9: sabre_laser (1490)
+Seat 10: Aion (1485)
+*** ANTE/BLINDS ***
+vopel posts small blind 15
+ricardogt40 posts big blind 30
+Dealt to sabre_laser [Th 8h]
+*** PRE-FLOP *** 
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser raises 30 to 60
+Aion folds
+ensilia raises 120 to 180
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+sabre_laser calls 120
+*** FLOP *** [Kd 3s 4c]
+sabre_laser checks
+ensilia bets 203
+sabre_laser folds
+ensilia collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | No rake
+Board: [Kd 3s 4c]
+Seat 1: ensilia won 608
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #586278094059339777-6-1446833677 - Holdem no limit (15/30) - 2015/11/06 18:14:37 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ensilia (1910)
+Seat 2: jimjim0 (1565)
+Seat 3: vopel (1455)
+Seat 4: ricardogt40 (1335)
+Seat 5: crazypix (1480)
+Seat 6: eltaros (1500)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1460)
+Seat 9: sabre_laser (1310)
+Seat 10: Aion (1485)
+*** ANTE/BLINDS ***
+ricardogt40 posts small blind 15
+crazypix posts big blind 30
+Dealt to sabre_laser [5h 6h]
+*** PRE-FLOP *** 
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser calls 30
+Aion calls 30
+ensilia calls 30
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix checks
+*** FLOP *** [6c Qh 3c]
+crazypix checks
+sabre_laser checks
+Aion checks
+ensilia checks
+*** TURN *** [6c Qh 3c][2c]
+crazypix checks
+sabre_laser bets 90
+Aion folds
+ensilia folds
+crazypix folds
+sabre_laser collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [6c Qh 3c 2c]
+Seat 9: sabre_laser won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586278094059339777-7-1446833735 - Holdem no limit (20/40) - 2015/11/06 18:15:35 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ensilia (1880)
+Seat 2: jimjim0 (1565)
+Seat 3: vopel (1455)
+Seat 4: ricardogt40 (1320)
+Seat 5: crazypix (1450)
+Seat 6: eltaros (1500)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1460)
+Seat 9: sabre_laser (1415)
+Seat 10: Aion (1455)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+eltaros posts big blind 40
+Dealt to sabre_laser [Td 9h]
+*** PRE-FLOP *** 
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia folds
+jimjim0 calls 40
+vopel folds
+ricardogt40 folds
+crazypix calls 20
+eltaros checks
+*** FLOP *** [6d 5c As]
+crazypix bets 60
+eltaros folds
+jimjim0 folds
+crazypix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6d 5c As]
+Seat 5: crazypix (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586278094059339777-8-1446833795 - Holdem no limit (20/40) - 2015/11/06 18:16:35 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ensilia (1880)
+Seat 2: jimjim0 (1525)
+Seat 3: vopel (1455)
+Seat 4: ricardogt40 (1320)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1460)
+Seat 7: cedryk999 (1500)
+Seat 8: slb68 (1460)
+Seat 9: sabre_laser (1415)
+Seat 10: Aion (1455)
+*** ANTE/BLINDS ***
+eltaros posts small blind 20
+cedryk999 posts big blind 40
+Dealt to sabre_laser [4h 6h]
+*** PRE-FLOP *** 
+slb68 calls 40
+sabre_laser folds
+Aion folds
+ensilia raises 80 to 120
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 calls 80
+*** FLOP *** [4c Ts Js]
+slb68 checks
+ensilia bets 225
+slb68 folds
+ensilia collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [4c Ts Js]
+Seat 1: ensilia won 525
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586278094059339777-9-1446833868 - Holdem no limit (20/40) - 2015/11/06 18:17:48 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ensilia (2060)
+Seat 2: jimjim0 (1525)
+Seat 3: vopel (1455)
+Seat 4: ricardogt40 (1320)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1440)
+Seat 7: cedryk999 (1460)
+Seat 8: slb68 (1340)
+Seat 9: sabre_laser (1415)
+Seat 10: Aion (1455)
+*** ANTE/BLINDS ***
+cedryk999 posts small blind 20
+slb68 posts big blind 40
+Dealt to sabre_laser [8s 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Aion folds
+ensilia calls 40
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 calls 20
+slb68 checks
+*** FLOP *** [Jh 6s Qs]
+cedryk999 checks
+slb68 checks
+ensilia checks
+*** TURN *** [Jh 6s Qs][9h]
+cedryk999 checks
+slb68 checks
+ensilia bets 80
+cedryk999 folds
+slb68 folds
+ensilia collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Jh 6s Qs 9h]
+Seat 1: ensilia won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586278094059339777-10-1446833928 - Holdem no limit (30/60) - 2015/11/06 18:18:48 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ensilia (2140)
+Seat 2: jimjim0 (1525)
+Seat 3: vopel (1455)
+Seat 4: ricardogt40 (1320)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1440)
+Seat 7: cedryk999 (1420)
+Seat 8: slb68 (1300)
+Seat 9: sabre_laser (1415)
+Seat 10: Aion (1455)
+*** ANTE/BLINDS ***
+slb68 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [2c 5h]
+*** PRE-FLOP *** 
+Aion calls 60
+ensilia calls 60
+jimjim0 folds
+vopel raises 1395 to 1455 and is all-in
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia folds
+vopel collected 1665 from pot
+*** SUMMARY ***
+Total pot 1665 | No rake
+Seat 3: vopel won 1665
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586278094059339777-11-1446833977 - Holdem no limit (30/60) - 2015/11/06 18:19:37 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ensilia (2080)
+Seat 2: jimjim0 (1525)
+Seat 3: vopel (1665)
+Seat 4: ricardogt40 (1320)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1440)
+Seat 7: cedryk999 (1420)
+Seat 8: slb68 (1270)
+Seat 9: sabre_laser (1355)
+Seat 10: Aion (1395)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Aion posts big blind 60
+Dealt to sabre_laser [9s As]
+*** PRE-FLOP *** 
+ensilia folds
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros calls 60
+cedryk999 folds
+slb68 folds
+sabre_laser raises 180 to 240
+Aion folds
+eltaros folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 9: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586278094059339777-12-1446834029 - Holdem no limit (30/60) - 2015/11/06 18:20:29 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ensilia (2080)
+Seat 2: jimjim0 (1525)
+Seat 3: vopel (1665)
+Seat 4: ricardogt40 (1320)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1380)
+Seat 7: cedryk999 (1420)
+Seat 8: slb68 (1270)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1335)
+*** ANTE/BLINDS ***
+Aion posts small blind 30
+ensilia posts big blind 60
+Dealt to sabre_laser [Js Qs]
+*** PRE-FLOP *** 
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 raises 180 to 240
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia folds
+cedryk999 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 7: cedryk999 won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586278094059339777-13-1446834077 - Holdem no limit (30/60) - 2015/11/06 18:21:17 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #10 is the button
+Seat 1: ensilia (2020)
+Seat 2: jimjim0 (1525)
+Seat 3: vopel (1665)
+Seat 4: ricardogt40 (1320)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1380)
+Seat 7: cedryk999 (1510)
+Seat 8: slb68 (1270)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1305)
+*** ANTE/BLINDS ***
+ensilia posts small blind 30
+jimjim0 posts big blind 60
+Dealt to sabre_laser [Qh 8d]
+*** PRE-FLOP *** 
+vopel folds
+ricardogt40 calls 60
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion calls 60
+ensilia calls 30
+jimjim0 checks
+*** FLOP *** [Kd 9c Tc]
+ensilia bets 60
+jimjim0 calls 60
+ricardogt40 folds
+Aion folds
+*** TURN *** [Kd 9c Tc][As]
+ensilia bets 60
+jimjim0 calls 60
+*** RIVER *** [Kd 9c Tc As][7d]
+ensilia bets 240
+jimjim0 folds
+ensilia collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Kd 9c Tc As 7d]
+Seat 1: ensilia (small blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #586278094059339777-14-1446834139 - Holdem no limit (40/80) - 2015/11/06 18:22:19 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #1 is the button
+Seat 1: ensilia (2320)
+Seat 2: jimjim0 (1345)
+Seat 3: vopel (1665)
+Seat 4: ricardogt40 (1260)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1380)
+Seat 7: cedryk999 (1510)
+Seat 8: slb68 (1270)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+jimjim0 posts small blind 40
+vopel posts big blind 80
+Dealt to sabre_laser [5s 9c]
+*** PRE-FLOP *** 
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 raises 80 to 160
+sabre_laser folds
+Aion folds
+ensilia folds
+jimjim0 folds
+vopel folds
+slb68 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 8: slb68 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #586278094059339777-15-1446834194 - Holdem no limit (40/80) - 2015/11/06 18:23:14 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #2 is the button
+Seat 1: ensilia (2320)
+Seat 2: jimjim0 (1305)
+Seat 3: vopel (1585)
+Seat 4: ricardogt40 (1260)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1380)
+Seat 7: cedryk999 (1510)
+Seat 8: slb68 (1390)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+vopel posts small blind 40
+ricardogt40 posts big blind 80
+Dealt to sabre_laser [7d 8h]
+*** PRE-FLOP *** 
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia raises 80 to 160
+jimjim0 folds
+vopel raises 1425 to 1585 and is all-in
+ricardogt40 folds
+ensilia calls 1425
+*** FLOP *** [3d 8c 3c]
+*** TURN *** [3d 8c 3c][8s]
+*** RIVER *** [3d 8c 3c 8s][Qd]
+*** SHOW DOWN ***
+ensilia shows [6h 5h] (Two pairs : 8 and 3)
+vopel shows [Kh Ad] (Two pairs : 8 and 3)
+vopel collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Board: [3d 8c 3c 8s Qd]
+Seat 1: ensilia showed [6h 5h] and lost with Two pairs : 8 and 3
+Seat 3: vopel (small blind) showed [Kh Ad] and won 3250 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #586278094059339777-16-1446834260 - Holdem no limit (60/120) - 2015/11/06 18:24:20 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ensilia (735)
+Seat 2: jimjim0 (1305)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1180)
+Seat 5: crazypix (1530)
+Seat 6: eltaros (1380)
+Seat 7: cedryk999 (1510)
+Seat 8: slb68 (1390)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+ricardogt40 posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [5d Qs]
+*** PRE-FLOP *** 
+eltaros folds
+cedryk999 calls 120
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia raises 615 to 735 and is all-in
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+cedryk999 folds
+ensilia collected 1035 from pot
+*** SUMMARY ***
+Total pot 1035 | No rake
+Seat 1: ensilia won 1035
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #586278094059339777-17-1446834312 - Holdem no limit (60/120) - 2015/11/06 18:25:12 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ensilia (1035)
+Seat 2: jimjim0 (1305)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1120)
+Seat 5: crazypix (1410)
+Seat 6: eltaros (1380)
+Seat 7: cedryk999 (1390)
+Seat 8: slb68 (1390)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+eltaros posts big blind 120
+Dealt to sabre_laser [6s 8c]
+*** PRE-FLOP *** 
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia calls 120
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros checks
+*** FLOP *** [Qd Kh Tc]
+eltaros checks
+ensilia checks
+*** TURN *** [Qd Kh Tc][As]
+eltaros checks
+ensilia bets 120
+eltaros folds
+ensilia collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Qd Kh Tc As]
+Seat 1: ensilia won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #586278094059339777-18-1446834395 - Holdem no limit (60/120) - 2015/11/06 18:26:35 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ensilia (1215)
+Seat 2: jimjim0 (1305)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1120)
+Seat 5: crazypix (1350)
+Seat 6: eltaros (1260)
+Seat 7: cedryk999 (1390)
+Seat 8: slb68 (1390)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+eltaros posts small blind 60
+cedryk999 posts big blind 120
+Dealt to sabre_laser [9s Jd]
+*** PRE-FLOP *** 
+slb68 folds
+sabre_laser folds
+Aion folds
+ensilia folds
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: cedryk999 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #586278094059339777-19-1446834439 - Holdem no limit (80/160) - 2015/11/06 18:27:19 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ensilia (1215)
+Seat 2: jimjim0 (1305)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1120)
+Seat 5: crazypix (1350)
+Seat 6: eltaros (1200)
+Seat 7: cedryk999 (1450)
+Seat 8: slb68 (1390)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+cedryk999 posts small blind 80
+slb68 posts big blind 160
+Dealt to sabre_laser [Qh 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Aion folds
+ensilia calls 160
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 calls 80
+slb68 checks
+*** FLOP *** [5h 8h 8d]
+cedryk999 checks
+slb68 checks
+ensilia bets 160
+cedryk999 folds
+slb68 folds
+ensilia collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [5h 8h 8d]
+Seat 1: ensilia won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #586278094059339777-20-1446834489 - Holdem no limit (80/160) - 2015/11/06 18:28:09 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ensilia (1535)
+Seat 2: jimjim0 (1305)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1120)
+Seat 5: crazypix (1350)
+Seat 6: eltaros (1200)
+Seat 7: cedryk999 (1290)
+Seat 8: slb68 (1230)
+Seat 9: sabre_laser (1475)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+slb68 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [9c Ad]
+*** PRE-FLOP *** 
+Aion folds
+ensilia folds
+jimjim0 calls 160
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser checks
+*** FLOP *** [6d 3c 4s]
+sabre_laser bets 160
+jimjim0 folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6d 3c 4s]
+Seat 9: sabre_laser (big blind) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #586278094059339777-21-1446834547 - Holdem no limit (80/160) - 2015/11/06 18:29:07 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #8 is the button
+Seat 1: ensilia (1535)
+Seat 2: jimjim0 (1145)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1120)
+Seat 5: crazypix (1350)
+Seat 6: eltaros (1200)
+Seat 7: cedryk999 (1290)
+Seat 8: slb68 (1150)
+Seat 9: sabre_laser (1715)
+Seat 10: Aion (1245)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Aion posts big blind 160
+Dealt to sabre_laser [2s Jh]
+*** PRE-FLOP *** 
+ensilia folds
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros raises 320 to 480
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+eltaros collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 6: eltaros won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #586278094059339777-22-1446834598 - Holdem no limit (80/160) - 2015/11/06 18:29:58 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #9 is the button
+Seat 1: ensilia (1535)
+Seat 2: jimjim0 (1145)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1120)
+Seat 5: crazypix (1350)
+Seat 6: eltaros (1440)
+Seat 7: cedryk999 (1290)
+Seat 8: slb68 (1150)
+Seat 9: sabre_laser (1635)
+Seat 10: Aion (1085)
+*** ANTE/BLINDS ***
+Aion posts small blind 80
+ensilia posts big blind 160
+Dealt to sabre_laser [Jd Ad]
+*** PRE-FLOP *** 
+jimjim0 folds
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser raises 160 to 320
+Aion folds
+ensilia calls 160
+*** FLOP *** [7s 9d Ac]
+ensilia checks
+sabre_laser bets 360
+ensilia calls 360
+*** TURN *** [7s 9d Ac][5d]
+ensilia checks
+sabre_laser checks
+*** RIVER *** [7s 9d Ac 5d][3s]
+ensilia bets 855 and is all-in
+sabre_laser calls 855
+*** SHOW DOWN ***
+ensilia shows [Kd Tc] (High card : Ace)
+sabre_laser shows [Jd Ad] (One pair : Aces)
+sabre_laser collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [7s 9d Ac 5d 3s]
+Seat 1: ensilia (big blind) showed [Kd Tc] and lost with High card : Ace
+Seat 9: sabre_laser (button) showed [Jd Ad] and won 3150 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #586278094059339777-23-1446834672 - Holdem no limit (10/100/200) - 2015/11/06 18:31:12 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #10 is the button
+Seat 2: jimjim0 (1145)
+Seat 3: vopel (3250)
+Seat 4: ricardogt40 (1120)
+Seat 5: crazypix (1350)
+Seat 6: eltaros (1440)
+Seat 7: cedryk999 (1290)
+Seat 8: slb68 (1150)
+Seat 9: sabre_laser (3250)
+Seat 10: Aion (1005)
+*** ANTE/BLINDS ***
+jimjim0 posts ante 10
+vopel posts ante 10
+ricardogt40 posts ante 10
+crazypix posts ante 10
+eltaros posts ante 10
+cedryk999 posts ante 10
+slb68 posts ante 10
+sabre_laser posts ante 10
+Aion posts ante 10
+jimjim0 posts big blind 200
+Dealt to sabre_laser [4h 9d]
+*** PRE-FLOP *** 
+vopel folds
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 raises 940 to 1140 and is all-in
+sabre_laser folds
+Aion folds
+jimjim0 folds
+slb68 collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Seat 8: slb68 won 1430
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #586278094059339777-24-1446834720 - Holdem no limit (10/100/200) - 2015/11/06 18:32:00 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #1 is the button
+Seat 2: jimjim0 (935)
+Seat 3: vopel (3240)
+Seat 4: ricardogt40 (1110)
+Seat 5: crazypix (1340)
+Seat 6: eltaros (1430)
+Seat 7: cedryk999 (1280)
+Seat 8: slb68 (1430)
+Seat 9: sabre_laser (3240)
+Seat 10: Aion (995)
+*** ANTE/BLINDS ***
+jimjim0 posts ante 10
+vopel posts ante 10
+ricardogt40 posts ante 10
+crazypix posts ante 10
+eltaros posts ante 10
+cedryk999 posts ante 10
+slb68 posts ante 10
+sabre_laser posts ante 10
+Aion posts ante 10
+jimjim0 posts small blind 100
+vopel posts big blind 200
+Dealt to sabre_laser [Kh 8h]
+*** PRE-FLOP *** 
+ricardogt40 folds
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion raises 785 to 985 and is all-in
+jimjim0 folds
+vopel folds
+Aion collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Seat 10: Aion won 1375
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #586278094059339777-25-1446834765 - Holdem no limit (10/100/200) - 2015/11/06 18:32:45 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #2 is the button
+Seat 2: jimjim0 (825)
+Seat 3: vopel (3030)
+Seat 4: ricardogt40 (1100)
+Seat 5: crazypix (1330)
+Seat 6: eltaros (1420)
+Seat 7: cedryk999 (1270)
+Seat 8: slb68 (1420)
+Seat 9: sabre_laser (3230)
+Seat 10: Aion (1375)
+*** ANTE/BLINDS ***
+vopel posts ante 10
+ricardogt40 posts ante 10
+jimjim0 posts ante 10
+crazypix posts ante 10
+eltaros posts ante 10
+cedryk999 posts ante 10
+slb68 posts ante 10
+sabre_laser posts ante 10
+Aion posts ante 10
+vopel posts small blind 100
+ricardogt40 posts big blind 200
+Dealt to sabre_laser [9c 8h]
+*** PRE-FLOP *** 
+crazypix folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+jimjim0 folds
+vopel raises 200 to 400
+ricardogt40 raises 690 to 1090 and is all-in
+vopel folds
+ricardogt40 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 4: ricardogt40 (big blind) won 1580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #586278094059339777-26-1446834800 - Holdem no limit (20/150/300) - 2015/11/06 18:33:20 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #3 is the button
+Seat 2: jimjim0 (815)
+Seat 3: vopel (2620)
+Seat 4: ricardogt40 (1580)
+Seat 5: crazypix (1320)
+Seat 6: eltaros (1410)
+Seat 7: cedryk999 (1260)
+Seat 8: slb68 (1410)
+Seat 9: sabre_laser (3220)
+Seat 10: Aion (1365)
+*** ANTE/BLINDS ***
+ricardogt40 posts ante 20
+crazypix posts ante 20
+jimjim0 posts ante 20
+vopel posts ante 20
+eltaros posts ante 20
+cedryk999 posts ante 20
+slb68 posts ante 20
+sabre_laser posts ante 20
+Aion posts ante 20
+ricardogt40 posts small blind 150
+crazypix posts big blind 300
+Dealt to sabre_laser [2d 9d]
+*** PRE-FLOP *** 
+eltaros folds
+cedryk999 calls 300
+slb68 folds
+sabre_laser folds
+Aion folds
+jimjim0 calls 300
+vopel folds
+ricardogt40 folds
+crazypix checks
+*** FLOP *** [Kd Qd 6d]
+crazypix checks
+cedryk999 bets 300
+jimjim0 raises 195 to 495 and is all-in
+crazypix folds
+cedryk999 calls 195
+*** TURN *** [Kd Qd 6d][2s]
+*** RIVER *** [Kd Qd 6d 2s][Jd]
+*** SHOW DOWN ***
+jimjim0 shows [5c 5d] (Flush King high)
+cedryk999 shows [7d 7h] (Flush King high)
+cedryk999 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [Kd Qd 6d 2s Jd]
+Seat 2: jimjim0 showed [5c 5d] and lost with Flush King high
+Seat 7: cedryk999 showed [7d 7h] and won 2220 with Flush King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #586278094059339777-27-1446834862 - Holdem no limit (20/150/300) - 2015/11/06 18:34:22 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #4 is the button
+Seat 3: vopel (2600)
+Seat 4: ricardogt40 (1410)
+Seat 5: crazypix (1000)
+Seat 6: eltaros (1390)
+Seat 7: cedryk999 (2665)
+Seat 8: slb68 (1390)
+Seat 9: sabre_laser (3200)
+Seat 10: Aion (1345)
+*** ANTE/BLINDS ***
+crazypix posts ante 20
+eltaros posts ante 20
+vopel posts ante 20
+ricardogt40 posts ante 20
+cedryk999 posts ante 20
+slb68 posts ante 20
+sabre_laser posts ante 20
+Aion posts ante 20
+crazypix posts small blind 150
+eltaros posts big blind 300
+Dealt to sabre_laser [9c Th]
+*** PRE-FLOP *** 
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+vopel folds
+ricardogt40 folds
+crazypix raises 680 to 980 and is all-in
+eltaros calls 680
+*** FLOP *** [Kh Js Qd]
+*** TURN *** [Kh Js Qd][Qs]
+*** RIVER *** [Kh Js Qd Qs][7c]
+*** SHOW DOWN ***
+crazypix shows [4s 3s] (One pair : Queens)
+eltaros shows [Jh Ad] (Two pairs : Queens and Jacks)
+eltaros collected 2120 from pot
+*** SUMMARY ***
+Total pot 2120 | No rake
+Board: [Kh Js Qd Qs 7c]
+Seat 5: crazypix (small blind) showed [4s 3s] and lost with One pair : Queens
+Seat 6: eltaros (big blind) showed [Jh Ad] and won 2120 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #586278094059339777-28-1446834918 - Holdem no limit (20/150/300) - 2015/11/06 18:35:18 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #5 is the button
+Seat 3: vopel (2580)
+Seat 4: ricardogt40 (1390)
+Seat 6: eltaros (2510)
+Seat 7: cedryk999 (2645)
+Seat 8: slb68 (1370)
+Seat 9: sabre_laser (3180)
+Seat 10: Aion (1325)
+*** ANTE/BLINDS ***
+eltaros posts ante 20
+cedryk999 posts ante 20
+vopel posts ante 20
+ricardogt40 posts ante 20
+slb68 posts ante 20
+sabre_laser posts ante 20
+Aion posts ante 20
+eltaros posts small blind 150
+cedryk999 posts big blind 300
+Dealt to sabre_laser [9c 9h]
+*** PRE-FLOP *** 
+slb68 folds
+sabre_laser raises 300 to 600
+Aion folds
+vopel folds
+ricardogt40 folds
+eltaros folds
+cedryk999 calls 300
+*** FLOP *** [7h 9d Ah]
+cedryk999 checks
+sabre_laser checks
+*** TURN *** [7h 9d Ah][As]
+cedryk999 bets 300
+sabre_laser raises 600 to 900
+cedryk999 folds
+sabre_laser collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Board: [7h 9d Ah As]
+Seat 9: sabre_laser won 2690
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #586278094059339777-29-1446834985 - Holdem no limit (50/200/400) - 2015/11/06 18:36:25 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #6 is the button
+Seat 3: vopel (2560)
+Seat 4: ricardogt40 (1370)
+Seat 6: eltaros (2340)
+Seat 7: cedryk999 (1725)
+Seat 8: slb68 (1350)
+Seat 9: sabre_laser (4350)
+Seat 10: Aion (1305)
+*** ANTE/BLINDS ***
+cedryk999 posts ante 50
+slb68 posts ante 50
+vopel posts ante 50
+ricardogt40 posts ante 50
+eltaros posts ante 50
+sabre_laser posts ante 50
+Aion posts ante 50
+cedryk999 posts small blind 200
+slb68 posts big blind 400
+Dealt to sabre_laser [8h Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+Aion raises 855 to 1255 and is all-in
+vopel folds
+ricardogt40 folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+Aion collected 2205 from pot
+*** SUMMARY ***
+Total pot 2205 | No rake
+Seat 10: Aion won 2205
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #586278094059339777-30-1446835010 - Holdem no limit (50/200/400) - 2015/11/06 18:36:50 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #7 is the button
+Seat 3: vopel (2510)
+Seat 4: ricardogt40 (1320)
+Seat 6: eltaros (2290)
+Seat 7: cedryk999 (1475)
+Seat 8: slb68 (900)
+Seat 9: sabre_laser (4300)
+Seat 10: Aion (2205)
+*** ANTE/BLINDS ***
+slb68 posts ante 50
+sabre_laser posts ante 50
+vopel posts ante 50
+ricardogt40 posts ante 50
+eltaros posts ante 50
+cedryk999 posts ante 50
+Aion posts ante 50
+slb68 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Td 8s]
+*** PRE-FLOP *** 
+Aion folds
+vopel folds
+ricardogt40 raises 870 to 1270 and is all-in
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+ricardogt40 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 4: ricardogt40 won 2220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #586278094059339777-31-1446835043 - Holdem no limit (50/200/400) - 2015/11/06 18:37:23 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #8 is the button
+Seat 3: vopel (2460)
+Seat 4: ricardogt40 (2220)
+Seat 6: eltaros (2240)
+Seat 7: cedryk999 (1425)
+Seat 8: slb68 (650)
+Seat 9: sabre_laser (3850)
+Seat 10: Aion (2155)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Aion posts ante 50
+vopel posts ante 50
+ricardogt40 posts ante 50
+eltaros posts ante 50
+cedryk999 posts ante 50
+slb68 posts ante 50
+sabre_laser posts small blind 200
+Aion posts big blind 400
+Dealt to sabre_laser [Ac Kd]
+*** PRE-FLOP *** 
+vopel folds
+ricardogt40 folds
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser raises 400 to 800
+Aion folds
+sabre_laser collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 9: sabre_laser (small blind) won 1550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #586278094059339777-32-1446835062 - Holdem no limit (50/200/400) - 2015/11/06 18:37:42 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #9 is the button
+Seat 3: vopel (2410)
+Seat 4: ricardogt40 (2170)
+Seat 6: eltaros (2190)
+Seat 7: cedryk999 (1375)
+Seat 8: slb68 (600)
+Seat 9: sabre_laser (4550)
+Seat 10: Aion (1705)
+*** ANTE/BLINDS ***
+Aion posts ante 50
+vopel posts ante 50
+ricardogt40 posts ante 50
+eltaros posts ante 50
+cedryk999 posts ante 50
+slb68 posts ante 50
+sabre_laser posts ante 50
+Aion posts small blind 200
+vopel posts big blind 400
+Dealt to sabre_laser [Ks Jd]
+*** PRE-FLOP *** 
+ricardogt40 raises 1720 to 2120 and is all-in
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser folds
+Aion folds
+vopel folds
+ricardogt40 collected 3070 from pot
+*** SUMMARY ***
+Total pot 3070 | No rake
+Seat 4: ricardogt40 won 3070
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #586278094059339777-33-1446835092 - Holdem no limit (50/200/400) - 2015/11/06 18:38:12 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #10 is the button
+Seat 3: vopel (1960)
+Seat 4: ricardogt40 (3070)
+Seat 6: eltaros (2140)
+Seat 7: cedryk999 (1325)
+Seat 8: slb68 (550)
+Seat 9: sabre_laser (4500)
+Seat 10: Aion (1455)
+*** ANTE/BLINDS ***
+vopel posts ante 50
+ricardogt40 posts ante 50
+eltaros posts ante 50
+cedryk999 posts ante 50
+slb68 posts ante 50
+sabre_laser posts ante 50
+Aion posts ante 50
+vopel posts small blind 200
+ricardogt40 posts big blind 400
+Dealt to sabre_laser [Th Ah]
+*** PRE-FLOP *** 
+eltaros folds
+cedryk999 folds
+slb68 folds
+sabre_laser raises 400 to 800
+Aion folds
+vopel folds
+ricardogt40 folds
+sabre_laser collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Seat 9: sabre_laser won 1750
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #586278094059339777-34-1446835170 - Holdem no limit (75/300/600) - 2015/11/06 18:39:30 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #3 is the button
+Seat 3: vopel (1710)
+Seat 4: ricardogt40 (2620)
+Seat 6: eltaros (2090)
+Seat 7: cedryk999 (1275)
+Seat 8: slb68 (500)
+Seat 9: sabre_laser (5400)
+Seat 10: Aion (1405)
+*** ANTE/BLINDS ***
+ricardogt40 posts ante 75
+eltaros posts ante 75
+vopel posts ante 75
+cedryk999 posts ante 75
+slb68 posts ante 75
+sabre_laser posts ante 75
+Aion posts ante 75
+ricardogt40 posts small blind 300
+eltaros posts big blind 600
+Dealt to sabre_laser [Qd Td]
+*** PRE-FLOP *** 
+cedryk999 folds
+slb68 calls 425 and is all-in
+sabre_laser calls 600
+Aion folds
+vopel folds
+ricardogt40 folds
+eltaros checks
+*** FLOP *** [Kd Kh 8d]
+eltaros checks
+sabre_laser checks
+*** TURN *** [Kd Kh 8d][8c]
+eltaros checks
+sabre_laser checks
+*** RIVER *** [Kd Kh 8d 8c][9c]
+eltaros checks
+sabre_laser checks
+*** SHOW DOWN ***
+eltaros shows [2d Tc] (Two pairs : Kings and 8)
+slb68 shows [7c 5c] (Two pairs : Kings and 8)
+sabre_laser shows [Qd Td] (Two pairs : Kings and 8)
+sabre_laser collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Board: [Kd Kh 8d 8c 9c]
+Seat 6: eltaros (big blind) showed [2d Tc] and lost with Two pairs : Kings and 8
+Seat 8: slb68 showed [7c 5c] and lost with Two pairs : Kings and 8
+Seat 9: sabre_laser showed [Qd Td] and won 2450 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #586278094059339777-35-1446835219 - Holdem no limit (75/300/600) - 2015/11/06 18:40:19 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #4 is the button
+Seat 3: vopel (1635)
+Seat 4: ricardogt40 (2245)
+Seat 6: eltaros (1415)
+Seat 7: cedryk999 (1200)
+Seat 9: sabre_laser (7175)
+Seat 10: Aion (1330)
+*** ANTE/BLINDS ***
+eltaros posts ante 75
+cedryk999 posts ante 75
+vopel posts ante 75
+ricardogt40 posts ante 75
+sabre_laser posts ante 75
+Aion posts ante 75
+eltaros posts small blind 300
+cedryk999 posts big blind 600
+Dealt to sabre_laser [Jc 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Aion folds
+vopel folds
+ricardogt40 folds
+eltaros raises 740 to 1340 and is all-in
+cedryk999 calls 525 and is all-in
+*** FLOP *** [6s 4d Kh]
+*** TURN *** [6s 4d Kh][4c]
+*** RIVER *** [6s 4d Kh 4c][Jd]
+*** SHOW DOWN ***
+cedryk999 shows [6d 9h] (Two pairs : 6 and 4)
+eltaros shows [Ah 3s] (One pair : 4)
+eltaros collected 215 from side pot 1
+cedryk999 collected 2700 from main pot
+*** SUMMARY ***
+Total pot 2915 | No rake
+Board: [6s 4d Kh 4c Jd]
+Seat 6: eltaros (small blind) showed [Ah 3s] and won 215 with One pair : 4
+Seat 7: cedryk999 (big blind) showed [6d 9h] and won 2700 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #586278094059339777-36-1446835254 - Holdem no limit (75/300/600) - 2015/11/06 18:40:54 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #6 is the button
+Seat 3: vopel (1560)
+Seat 4: ricardogt40 (2170)
+Seat 6: eltaros (215)
+Seat 7: cedryk999 (2700)
+Seat 9: sabre_laser (7100)
+Seat 10: Aion (1255)
+*** ANTE/BLINDS ***
+cedryk999 posts ante 75
+sabre_laser posts ante 75
+vopel posts ante 75
+ricardogt40 posts ante 75
+eltaros posts ante 75
+Aion posts ante 75
+cedryk999 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [7s Kh]
+*** PRE-FLOP *** 
+Aion folds
+vopel folds
+ricardogt40 folds
+eltaros calls 140 and is all-in
+cedryk999 calls 300
+sabre_laser checks
+*** FLOP *** [9c 5h Qd]
+cedryk999 checks
+sabre_laser checks
+*** TURN *** [9c 5h Qd][Qs]
+cedryk999 checks
+sabre_laser checks
+*** RIVER *** [9c 5h Qd Qs][8d]
+cedryk999 checks
+sabre_laser checks
+*** SHOW DOWN ***
+cedryk999 shows [4d Jh] (One pair : Queens)
+eltaros shows [Ah Js] (One pair : Queens)
+sabre_laser shows [7s Kh] (One pair : Queens)
+sabre_laser collected 920 from side pot 1
+eltaros collected 870 from main pot
+*** SUMMARY ***
+Total pot 1790 | No rake
+Board: [9c 5h Qd Qs 8d]
+Seat 6: eltaros (button) showed [Ah Js] and won 870 with One pair : Queens
+Seat 7: cedryk999 (small blind) showed [4d Jh] and lost with One pair : Queens
+Seat 9: sabre_laser (big blind) showed [7s Kh] and won 920 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #586278094059339777-37-1446835294 - Holdem no limit (75/300/600) - 2015/11/06 18:41:34 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #7 is the button
+Seat 3: vopel (1485)
+Seat 4: ricardogt40 (2095)
+Seat 6: eltaros (870)
+Seat 7: cedryk999 (2025)
+Seat 9: sabre_laser (7345)
+Seat 10: Aion (1180)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+Aion posts ante 75
+vopel posts ante 75
+ricardogt40 posts ante 75
+eltaros posts ante 75
+cedryk999 posts ante 75
+sabre_laser posts small blind 300
+Aion posts big blind 600
+Dealt to sabre_laser [Kc 3d]
+*** PRE-FLOP *** 
+vopel folds
+ricardogt40 raises 1420 to 2020 and is all-in
+eltaros folds
+cedryk999 folds
+sabre_laser folds
+Aion calls 505 and is all-in
+*** FLOP *** [Jc 4h Ts]
+*** TURN *** [Jc 4h Ts][Qc]
+*** RIVER *** [Jc 4h Ts Qc][Ac]
+*** SHOW DOWN ***
+Aion shows [6s Ad] (One pair : Aces)
+ricardogt40 shows [9c 9h] (One pair : 9)
+ricardogt40 collected 915 from side pot 1
+Aion collected 2960 from main pot
+*** SUMMARY ***
+Total pot 3875 | No rake
+Board: [Jc 4h Ts Qc Ac]
+Seat 4: ricardogt40 showed [9c 9h] and won 915 with One pair : 9
+Seat 10: Aion (big blind) showed [6s Ad] and won 2960 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #586278094059339777-38-1446835356 - Holdem no limit (100/400/800) - 2015/11/06 18:42:36 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #9 is the button
+Seat 3: vopel (1410)
+Seat 4: ricardogt40 (915)
+Seat 6: eltaros (795)
+Seat 7: cedryk999 (1950)
+Seat 9: sabre_laser (6970)
+Seat 10: Aion (2960)
+*** ANTE/BLINDS ***
+Aion posts ante 100
+vopel posts ante 100
+ricardogt40 posts ante 100
+eltaros posts ante 100
+cedryk999 posts ante 100
+sabre_laser posts ante 100
+Aion posts small blind 400
+vopel posts big blind 800
+Dealt to sabre_laser [Td Tc]
+*** PRE-FLOP *** 
+ricardogt40 folds
+eltaros folds
+cedryk999 folds
+sabre_laser raises 800 to 1600
+Aion folds
+vopel folds
+sabre_laser collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Seat 9: sabre_laser (button) won 3400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #586278094059339777-39-1446835372 - Holdem no limit (100/400/800) - 2015/11/06 18:42:52 UTC
+Table: 'Double or Nothing(136503506)#0' 10-max (real money) Seat #10 is the button
+Seat 3: vopel (510)
+Seat 4: ricardogt40 (815)
+Seat 6: eltaros (695)
+Seat 7: cedryk999 (1850)
+Seat 9: sabre_laser (8670)
+Seat 10: Aion (2460)
+*** ANTE/BLINDS ***
+vopel posts ante 100
+ricardogt40 posts ante 100
+eltaros posts ante 100
+cedryk999 posts ante 100
+sabre_laser posts ante 100
+Aion posts ante 100
+vopel posts small blind 400
+ricardogt40 posts big blind 715 and is all-in
+Dealt to sabre_laser [9d Tc]
+*** PRE-FLOP *** 
+eltaros folds
+cedryk999 folds
+sabre_laser calls 800
+Aion folds
+vopel calls 10 and is all-in
+*** FLOP *** [9h 5h 9s]
+*** TURN *** [9h 5h 9s][7d]
+*** RIVER *** [9h 5h 9s 7d][Ad]
+*** SHOW DOWN ***
+vopel shows [Qh Ah] (Two pairs : Aces and 9)
+ricardogt40 shows [2s 3s] (One pair : 9)
+sabre_laser shows [9d Tc] (Trips of 9)
+sabre_laser collected 2525 from pot
+*** SUMMARY ***
+Total pot 2525 | No rake
+Board: [9h 5h 9s 7d Ad]
+Seat 3: vopel (small blind) showed [Qh Ah] and lost with Two pairs : Aces and 9
+Seat 4: ricardogt40 (big blind) showed [2s 3s] and lost with One pair : 9
+Seat 9: sabre_laser showed [9d Tc] and won 2525 with Trips of 9
+
+

@@ -1,0 +1,177 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #559849197486998227-1-1443208747 - Holdem no limit (15/30) - 2015/09/25 19:19:07 UTC
+Table: 'Freeroll(130350049)#0722' 9-max (real money) Seat #6 is the button
+Seat 1: MFranc974 (3000)
+Seat 2: vivi73 (6930)
+Seat 3: sabre_laser (3000)
+Seat 4: 62 me fi te (3000)
+Seat 5: lamda27 (2980)
+Seat 6: samo001 (2600)
+Seat 7: jmne2009 (2940)
+Seat 8: Laurenzinh06 (2980)
+Seat 9: luctatoo (3000)
+*** ANTE/BLINDS ***
+jmne2009 posts small blind 15
+Laurenzinh06 posts big blind 30
+Dealt to sabre_laser [6s 3d]
+*** PRE-FLOP *** 
+luctatoo folds
+MFranc974 folds
+vivi73 folds
+sabre_laser folds
+62 me fi te calls 30
+lamda27 folds
+samo001 raises 30 to 60
+jmne2009 calls 45
+Laurenzinh06 calls 30
+62 me fi te calls 30
+*** FLOP *** [Ad 4h 4c]
+jmne2009 checks
+Laurenzinh06 checks
+62 me fi te checks
+samo001 checks
+*** TURN *** [Ad 4h 4c][5h]
+jmne2009 checks
+Laurenzinh06 checks
+62 me fi te checks
+samo001 bets 2540 and is all-in
+jmne2009 folds
+Laurenzinh06 folds
+62 me fi te folds
+samo001 collected 2780 from pot
+*** SUMMARY ***
+Total pot 2780 | No rake
+Board: [Ad 4h 4c 5h]
+Seat 6: samo001 (button) won 2780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #559849197486997695-3-1443208854 - Holdem no limit (15/30) - 2015/09/25 19:20:54 UTC
+Table: 'Freeroll(130350049)#0190' 9-max (real money) Seat #8 is the button
+Seat 1: Nobs69 (3017)
+Seat 2: papyroll80 (3000)
+Seat 3: Lord Zamal69 (3000)
+Seat 4: Warren.J (3000)
+Seat 5: personne50 (2940)
+Seat 6: Tilk46 (3000)
+Seat 7: aredienne (3058)
+Seat 8: virgule85 (2965)
+Seat 9: sabre_laser (3000)
+*** ANTE/BLINDS ***
+Nobs69 posts big blind 30
+*** PRE-FLOP *** 
+papyroll80 folds
+Lord Zamal69 folds
+Warren.J folds
+personne50 calls 30
+Tilk46 calls 30
+aredienne folds
+virgule85 folds
+Nobs69 checks
+*** FLOP *** [9s Ts Ad]
+Nobs69 checks
+personne50 checks
+Tilk46 checks
+*** TURN *** [9s Ts Ad][Js]
+Nobs69 checks
+personne50 bets 30
+Tilk46 calls 30
+Nobs69 calls 30
+*** RIVER *** [9s Ts Ad Js][4h]
+Nobs69 checks
+personne50 checks
+Tilk46 checks
+*** SHOW DOWN ***
+Nobs69 shows [2h Kc] (High card : Ace)
+personne50 shows [Kd 6c] (High card : Ace)
+Tilk46 shows [7c Ac] (One pair : Aces)
+Tilk46 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9s Ts Ad Js 4h]
+Seat 1: Nobs69 (big blind) showed [2h Kc] and lost with High card : Ace
+Seat 5: personne50 showed [Kd 6c] and lost with High card : Ace
+Seat 6: Tilk46 showed [7c Ac] and won 180 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #559849197486997695-4-1443208932 - Holdem no limit (20/40) - 2015/09/25 19:22:12 UTC
+Table: 'Freeroll(130350049)#0190' 9-max (real money) Seat #9 is the button
+Seat 1: Nobs69 (2957)
+Seat 2: papyroll80 (3000)
+Seat 3: Lord Zamal69 (3000)
+Seat 4: Warren.J (3000)
+Seat 5: personne50 (2880)
+Seat 6: Tilk46 (3120)
+Seat 7: aredienne (3058)
+Seat 8: virgule85 (2965)
+Seat 9: sabre_laser (3000)
+*** ANTE/BLINDS ***
+Nobs69 posts small blind 20
+papyroll80 posts big blind 40
+*** PRE-FLOP *** 
+Lord Zamal69 raises 40 to 80
+Warren.J folds
+personne50 calls 80
+Tilk46 folds
+aredienne folds
+virgule85 folds
+Nobs69 folds
+papyroll80 folds
+*** FLOP *** [7h Ts Tc]
+Lord Zamal69 checks
+personne50 checks
+*** TURN *** [7h Ts Tc][Qd]
+Lord Zamal69 bets 110
+personne50 calls 110
+*** RIVER *** [7h Ts Tc Qd][8s]
+Lord Zamal69 checks
+personne50 bets 440
+Lord Zamal69 folds
+personne50 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [7h Ts Tc Qd 8s]
+Seat 5: personne50 won 880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #559849197486997695-5-1443209000 - Holdem no limit (20/40) - 2015/09/25 19:23:20 UTC
+Table: 'Freeroll(130350049)#0190' 9-max (real money) Seat #1 is the button
+Seat 1: Nobs69 (2937)
+Seat 2: papyroll80 (2960)
+Seat 3: Lord Zamal69 (2810)
+Seat 4: Warren.J (3000)
+Seat 5: personne50 (3130)
+Seat 6: Tilk46 (3120)
+Seat 7: aredienne (3058)
+Seat 8: virgule85 (2965)
+Seat 9: sabre_laser (3000)
+*** ANTE/BLINDS ***
+papyroll80 posts small blind 20
+Lord Zamal69 posts big blind 40
+Dealt to sabre_laser [Jh Js]
+*** PRE-FLOP *** 
+Warren.J folds
+personne50 raises 40 to 80
+Tilk46 calls 80
+aredienne folds
+virgule85 folds
+sabre_laser raises 120 to 200
+Nobs69 folds
+papyroll80 folds
+Lord Zamal69 folds
+personne50 raises 540 to 740
+Tilk46 folds
+sabre_laser raises 2260 to 3000 and is all-in
+personne50 raises 130 to 3130 and is all-in
+*** FLOP *** [Qh Ah Tc]
+*** TURN *** [Qh Ah Tc][5h]
+*** RIVER *** [Qh Ah Tc 5h][4s]
+*** SHOW DOWN ***
+sabre_laser shows [Jh Js] (One pair : Jacks)
+personne50 shows [Kc Ks] (One pair : Kings)
+personne50 collected 6270 from pot
+*** SUMMARY ***
+Total pot 6270 | No rake
+Board: [Qh Ah Tc 5h 4s]
+Seat 5: personne50 showed [Kc Ks] and won 6270 with One pair : Kings
+Seat 9: sabre_laser showed [Jh Js] and lost with One pair : Jacks
+
+

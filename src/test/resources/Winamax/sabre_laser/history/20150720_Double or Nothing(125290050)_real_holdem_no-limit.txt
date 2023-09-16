@@ -1,0 +1,1186 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #538116667264204801-1-1437427700 - Holdem no limit (10/20) - 2015/07/20 21:28:20 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bipbip94 (1500)
+Seat 2: Skeehl (1500)
+Seat 3: greg6 (1500)
+Seat 4: Punisherz (1500)
+Seat 5: Thierry57160 (1500)
+Seat 6: cnortud (1500)
+Seat 7: Crisssis (1500)
+Seat 8: Darkendier (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: Bookaddict73 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Bookaddict73 posts big blind 20
+Dealt to sabre_laser [Kd 9c]
+*** PRE-FLOP *** 
+bipbip94 raises 20 to 40
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier calls 40
+sabre_laser calls 30
+Bookaddict73 calls 20
+*** FLOP *** [2c 8s Th]
+sabre_laser checks
+Bookaddict73 checks
+bipbip94 checks
+Darkendier bets 80
+sabre_laser folds
+Bookaddict73 calls 80
+bipbip94 calls 80
+*** TURN *** [2c 8s Th][5h]
+Bookaddict73 checks
+bipbip94 checks
+Darkendier bets 150
+Bookaddict73 folds
+bipbip94 calls 150
+*** RIVER *** [2c 8s Th 5h][3s]
+bipbip94 checks
+Darkendier checks
+*** SHOW DOWN ***
+bipbip94 shows [4s 4h] (One pair : 4)
+Darkendier shows [9d 9h] (One pair : 9)
+Darkendier collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [2c 8s Th 5h 3s]
+Seat 1: bipbip94 showed [4s 4h] and lost with One pair : 4
+Seat 8: Darkendier (button) showed [9d 9h] and won 700 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #538116667264204801-2-1437427827 - Holdem no limit (10/20) - 2015/07/20 21:30:27 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bipbip94 (1230)
+Seat 2: Skeehl (1500)
+Seat 3: greg6 (1500)
+Seat 4: Punisherz (1500)
+Seat 5: Thierry57160 (1500)
+Seat 6: cnortud (1500)
+Seat 7: Crisssis (1500)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1460)
+Seat 10: Bookaddict73 (1380)
+*** ANTE/BLINDS ***
+Bookaddict73 posts small blind 10
+bipbip94 posts big blind 20
+Dealt to sabre_laser [Ad 6c]
+*** PRE-FLOP *** 
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 calls 10
+bipbip94 checks
+*** FLOP *** [8c 8s 4s]
+Bookaddict73 checks
+bipbip94 bets 40
+Bookaddict73 folds
+bipbip94 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8c 8s 4s]
+Seat 1: bipbip94 (big blind) won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538116667264204801-3-1437427877 - Holdem no limit (15/30) - 2015/07/20 21:31:17 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #10 is the button
+Seat 1: bipbip94 (1250)
+Seat 2: Skeehl (1500)
+Seat 3: greg6 (1500)
+Seat 4: Punisherz (1500)
+Seat 5: Thierry57160 (1500)
+Seat 6: cnortud (1500)
+Seat 7: Crisssis (1500)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1460)
+Seat 10: Bookaddict73 (1360)
+*** ANTE/BLINDS ***
+bipbip94 posts small blind 15
+Skeehl posts big blind 30
+Dealt to sabre_laser [3d 5s]
+*** PRE-FLOP *** 
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Crisssis calls 30
+Darkendier folds
+sabre_laser folds
+Bookaddict73 calls 30
+bipbip94 calls 15
+Skeehl checks
+*** FLOP *** [Ah Th 7c]
+bipbip94 checks
+Skeehl checks
+Crisssis checks
+Bookaddict73 checks
+*** TURN *** [Ah Th 7c][Ks]
+bipbip94 bets 120
+Skeehl folds
+Crisssis folds
+Bookaddict73 calls 120
+*** RIVER *** [Ah Th 7c Ks][Jh]
+bipbip94 bets 1100 and is all-in
+Bookaddict73 calls 1100
+*** SHOW DOWN ***
+bipbip94 shows [7s Kc] (Two pairs : Kings and 7)
+Bookaddict73 shows [5h 7h] (Flush Ace high)
+Bookaddict73 collected 2560 from pot
+*** SUMMARY ***
+Total pot 2560 | No rake
+Board: [Ah Th 7c Ks Jh]
+Seat 1: bipbip94 (small blind) showed [7s Kc] and lost with Two pairs : Kings and 7
+Seat 10: Bookaddict73 (button) showed [5h 7h] and won 2560 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538116667264204801-4-1437427981 - Holdem no limit (15/30) - 2015/07/20 21:33:01 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #1 is the button
+Seat 2: Skeehl (1470)
+Seat 3: greg6 (1500)
+Seat 4: Punisherz (1500)
+Seat 5: Thierry57160 (1500)
+Seat 6: cnortud (1500)
+Seat 7: Crisssis (1470)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1460)
+Seat 10: Bookaddict73 (2670)
+*** ANTE/BLINDS ***
+Skeehl posts small blind 15
+greg6 posts big blind 30
+Dealt to sabre_laser [6c 4c]
+*** PRE-FLOP *** 
+Punisherz folds
+Thierry57160 folds
+cnortud raises 30 to 60
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 calls 60
+Skeehl folds
+greg6 folds
+*** FLOP *** [2s 2c Kh]
+cnortud bets 165
+Bookaddict73 folds
+cnortud collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [2s 2c Kh]
+Seat 6: cnortud won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538116667264204801-5-1437428025 - Holdem no limit (15/30) - 2015/07/20 21:33:45 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1470)
+Seat 4: Punisherz (1500)
+Seat 5: Thierry57160 (1500)
+Seat 6: cnortud (1605)
+Seat 7: Crisssis (1470)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1460)
+Seat 10: Bookaddict73 (2610)
+*** ANTE/BLINDS ***
+greg6 posts small blind 15
+Punisherz posts big blind 30
+Dealt to sabre_laser [7s 2s]
+*** PRE-FLOP *** 
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 raises 30 to 60
+Skeehl folds
+greg6 folds
+Punisherz folds
+Bookaddict73 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 10: Bookaddict73 won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538116667264204801-6-1437428061 - Holdem no limit (20/40) - 2015/07/20 21:34:21 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1455)
+Seat 4: Punisherz (1470)
+Seat 5: Thierry57160 (1500)
+Seat 6: cnortud (1605)
+Seat 7: Crisssis (1470)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1460)
+Seat 10: Bookaddict73 (2655)
+*** ANTE/BLINDS ***
+Punisherz posts small blind 20
+Thierry57160 posts big blind 40
+Dealt to sabre_laser [Jd Qh]
+*** PRE-FLOP *** 
+cnortud calls 40
+Crisssis folds
+Darkendier folds
+sabre_laser raises 80 to 120
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 calls 80
+cnortud folds
+*** FLOP *** [3d Kd 8s]
+Thierry57160 checks
+sabre_laser checks
+*** TURN *** [3d Kd 8s][5s]
+Thierry57160 checks
+sabre_laser checks
+*** RIVER *** [3d Kd 8s 5s][Kh]
+Thierry57160 checks
+sabre_laser bets 100
+Thierry57160 calls 100
+*** SHOW DOWN ***
+Thierry57160 shows [4h Qc] (One pair : Kings)
+sabre_laser shows [Jd Qh] (One pair : Kings)
+sabre_laser collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [3d Kd 8s 5s Kh]
+Seat 5: Thierry57160 (big blind) showed [4h Qc] and lost with One pair : Kings
+Seat 9: sabre_laser showed [Jd Qh] and won 500 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538116667264204801-7-1437428165 - Holdem no limit (20/40) - 2015/07/20 21:36:05 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1455)
+Seat 4: Punisherz (1450)
+Seat 5: Thierry57160 (1280)
+Seat 6: cnortud (1565)
+Seat 7: Crisssis (1470)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1740)
+Seat 10: Bookaddict73 (2655)
+*** ANTE/BLINDS ***
+Thierry57160 posts small blind 20
+cnortud posts big blind 40
+Dealt to sabre_laser [4s 3c]
+*** PRE-FLOP *** 
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 calls 40
+Skeehl folds
+greg6 calls 40
+Punisherz calls 40
+Thierry57160 calls 20
+cnortud checks
+*** FLOP *** [7h 9s 5h]
+Thierry57160 checks
+cnortud checks
+Bookaddict73 checks
+greg6 checks
+Punisherz checks
+*** TURN *** [7h 9s 5h][Ad]
+Thierry57160 checks
+cnortud checks
+Bookaddict73 checks
+greg6 checks
+Punisherz bets 40
+Thierry57160 folds
+cnortud calls 40
+Bookaddict73 calls 40
+greg6 folds
+*** RIVER *** [7h 9s 5h Ad][7s]
+cnortud checks
+Bookaddict73 checks
+Punisherz bets 40
+cnortud folds
+Bookaddict73 folds
+Punisherz collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7h 9s 5h Ad 7s]
+Seat 4: Punisherz (button) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538116667264204801-8-1437428255 - Holdem no limit (30/60) - 2015/07/20 21:37:35 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1415)
+Seat 4: Punisherz (1690)
+Seat 5: Thierry57160 (1240)
+Seat 6: cnortud (1485)
+Seat 7: Crisssis (1470)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1740)
+Seat 10: Bookaddict73 (2575)
+*** ANTE/BLINDS ***
+cnortud posts small blind 30
+Crisssis posts big blind 60
+Dealt to sabre_laser [Qc 2s]
+*** PRE-FLOP *** 
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 calls 60
+cnortud raises 1425 to 1485 and is all-in
+Crisssis folds
+Thierry57160 folds
+cnortud collected 1605 from pot
+*** SUMMARY ***
+Total pot 1605 | No rake
+Seat 6: cnortud (small blind) won 1605
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538116667264204801-9-1437428311 - Holdem no limit (30/60) - 2015/07/20 21:38:31 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1415)
+Seat 4: Punisherz (1690)
+Seat 5: Thierry57160 (1180)
+Seat 6: cnortud (1605)
+Seat 7: Crisssis (1410)
+Seat 8: Darkendier (1930)
+Seat 9: sabre_laser (1740)
+Seat 10: Bookaddict73 (2575)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 30
+Darkendier posts big blind 60
+Dealt to sabre_laser [Td 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bookaddict73 calls 60
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 calls 60
+cnortud folds
+Crisssis folds
+Darkendier checks
+*** FLOP *** [9c 5s 5h]
+Darkendier checks
+Bookaddict73 bets 60
+Thierry57160 calls 60
+Darkendier folds
+*** TURN *** [9c 5s 5h][Qh]
+Bookaddict73 bets 60
+Thierry57160 calls 60
+*** RIVER *** [9c 5s 5h Qh][5d]
+Bookaddict73 bets 450
+Thierry57160 folds
+Bookaddict73 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c 5s 5h Qh 5d]
+Seat 10: Bookaddict73 won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538116667264204801-10-1437428395 - Holdem no limit (30/60) - 2015/07/20 21:39:55 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1415)
+Seat 4: Punisherz (1690)
+Seat 5: Thierry57160 (1000)
+Seat 6: cnortud (1605)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1870)
+Seat 9: sabre_laser (1740)
+Seat 10: Bookaddict73 (2845)
+*** ANTE/BLINDS ***
+Darkendier posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Qd 2c]
+*** PRE-FLOP *** 
+Bookaddict73 calls 60
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier calls 30
+sabre_laser checks
+*** FLOP *** [5d 9c Qs]
+Darkendier bets 60
+sabre_laser calls 60
+Bookaddict73 calls 60
+*** TURN *** [5d 9c Qs][2d]
+Darkendier checks
+sabre_laser bets 90
+Bookaddict73 calls 90
+Darkendier folds
+*** RIVER *** [5d 9c Qs 2d][3h]
+sabre_laser bets 150
+Bookaddict73 calls 150
+*** SHOW DOWN ***
+Bookaddict73 shows [9s 8c] (One pair : 9)
+sabre_laser shows [Qd 2c] (Two pairs : Queens and 2)
+sabre_laser collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [5d 9c Qs 2d 3h]
+Seat 9: sabre_laser (big blind) showed [Qd 2c] and won 840 with Two pairs : Queens and 2
+Seat 10: Bookaddict73 showed [9s 8c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538116667264204801-11-1437428533 - Holdem no limit (40/80) - 2015/07/20 21:42:13 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1415)
+Seat 4: Punisherz (1690)
+Seat 5: Thierry57160 (1000)
+Seat 6: cnortud (1605)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2220)
+Seat 10: Bookaddict73 (2485)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Bookaddict73 posts big blind 80
+Dealt to sabre_laser [9h Th]
+*** PRE-FLOP *** 
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+cnortud raises 80 to 160
+Crisssis folds
+Darkendier folds
+sabre_laser calls 120
+Bookaddict73 calls 80
+*** FLOP *** [Js 3h 6d]
+sabre_laser checks
+Bookaddict73 checks
+cnortud bets 240
+sabre_laser folds
+Bookaddict73 folds
+cnortud collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Js 3h 6d]
+Seat 6: cnortud won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538116667264204801-12-1437428625 - Holdem no limit (60/120) - 2015/07/20 21:43:45 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Skeehl (1455)
+Seat 3: greg6 (1415)
+Seat 4: Punisherz (1690)
+Seat 5: Thierry57160 (1000)
+Seat 6: cnortud (1925)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2060)
+Seat 10: Bookaddict73 (2325)
+*** ANTE/BLINDS ***
+Bookaddict73 posts small blind 60
+Skeehl posts big blind 120
+Dealt to sabre_laser [5c Jc]
+*** PRE-FLOP *** 
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 calls 60
+Skeehl checks
+*** FLOP *** [Jd 8s Qc]
+Bookaddict73 checks
+Skeehl checks
+*** TURN *** [Jd 8s Qc][7c]
+Bookaddict73 checks
+Skeehl checks
+*** RIVER *** [Jd 8s Qc 7c][Ts]
+Bookaddict73 checks
+Skeehl checks
+*** SHOW DOWN ***
+Bookaddict73 shows [5d Ad] (High card : Ace)
+Skeehl shows [8d 3c] (One pair : 8)
+Skeehl collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jd 8s Qc 7c Ts]
+Seat 2: Skeehl (big blind) showed [8d 3c] and won 240 with One pair : 8
+Seat 10: Bookaddict73 (small blind) showed [5d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538116667264204801-13-1437428732 - Holdem no limit (60/120) - 2015/07/20 21:45:32 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Skeehl (1575)
+Seat 3: greg6 (1415)
+Seat 4: Punisherz (1690)
+Seat 5: Thierry57160 (1000)
+Seat 6: cnortud (1925)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2060)
+Seat 10: Bookaddict73 (2205)
+*** ANTE/BLINDS ***
+Skeehl posts small blind 60
+greg6 posts big blind 120
+Dealt to sabre_laser [Tc Ks]
+*** PRE-FLOP *** 
+Punisherz raises 120 to 240
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 4: Punisherz won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538116667264204801-14-1437428771 - Holdem no limit (60/120) - 2015/07/20 21:46:11 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Skeehl (1515)
+Seat 3: greg6 (1295)
+Seat 4: Punisherz (1870)
+Seat 5: Thierry57160 (1000)
+Seat 6: cnortud (1925)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2060)
+Seat 10: Bookaddict73 (2205)
+*** ANTE/BLINDS ***
+greg6 posts small blind 60
+Punisherz posts big blind 120
+Dealt to sabre_laser [5s Td]
+*** PRE-FLOP *** 
+Thierry57160 calls 120
+cnortud folds
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz checks
+*** FLOP *** [7c 9h 5d]
+Punisherz checks
+Thierry57160 checks
+*** TURN *** [7c 9h 5d][8c]
+Punisherz checks
+Thierry57160 checks
+*** RIVER *** [7c 9h 5d 8c][2h]
+Punisherz checks
+Thierry57160 checks
+*** SHOW DOWN ***
+Punisherz shows [Kc Tc] (High card : King)
+Thierry57160 shows [Ks 5c] (One pair : 5)
+Thierry57160 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7c 9h 5d 8c 2h]
+Seat 4: Punisherz (big blind) showed [Kc Tc] and lost with High card : King
+Seat 5: Thierry57160 showed [Ks 5c] and won 300 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538116667264204801-15-1437428812 - Holdem no limit (80/160) - 2015/07/20 21:46:52 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Skeehl (1515)
+Seat 3: greg6 (1235)
+Seat 4: Punisherz (1750)
+Seat 5: Thierry57160 (1180)
+Seat 6: cnortud (1925)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2060)
+Seat 10: Bookaddict73 (2205)
+*** ANTE/BLINDS ***
+Punisherz posts small blind 80
+Thierry57160 posts big blind 160
+Dealt to sabre_laser [Tc Td]
+*** PRE-FLOP *** 
+cnortud folds
+Crisssis folds
+Darkendier folds
+sabre_laser raises 160 to 320
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 9: sabre_laser won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538116667264204801-16-1437428876 - Holdem no limit (80/160) - 2015/07/20 21:47:56 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Skeehl (1515)
+Seat 3: greg6 (1235)
+Seat 4: Punisherz (1670)
+Seat 5: Thierry57160 (1020)
+Seat 6: cnortud (1925)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2300)
+Seat 10: Bookaddict73 (2205)
+*** ANTE/BLINDS ***
+Thierry57160 posts small blind 80
+cnortud posts big blind 160
+Dealt to sabre_laser [6s 7c]
+*** PRE-FLOP *** 
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 calls 160
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 calls 80
+cnortud checks
+*** FLOP *** [Ah 7d 2d]
+Thierry57160 checks
+cnortud checks
+Bookaddict73 checks
+*** TURN *** [Ah 7d 2d][Ts]
+Thierry57160 checks
+cnortud checks
+Bookaddict73 checks
+*** RIVER *** [Ah 7d 2d Ts][4d]
+Thierry57160 checks
+cnortud checks
+Bookaddict73 checks
+*** SHOW DOWN ***
+Thierry57160 shows [4s 5c] (One pair : 4)
+cnortud shows [2h 3c] (One pair : 2)
+Bookaddict73 shows [9h 4h] (One pair : 4)
+Bookaddict73 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ah 7d 2d Ts 4d]
+Seat 5: Thierry57160 (small blind) showed [4s 5c] and lost with One pair : 4
+Seat 6: cnortud (big blind) showed [2h 3c] and lost with One pair : 2
+Seat 10: Bookaddict73 showed [9h 4h] and won 480 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538116667264204801-17-1437428934 - Holdem no limit (80/160) - 2015/07/20 21:48:54 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Skeehl (1515)
+Seat 3: greg6 (1235)
+Seat 4: Punisherz (1670)
+Seat 5: Thierry57160 (860)
+Seat 6: cnortud (1765)
+Seat 7: Crisssis (1380)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2300)
+Seat 10: Bookaddict73 (2525)
+*** ANTE/BLINDS ***
+cnortud posts small blind 80
+Crisssis posts big blind 160
+Dealt to sabre_laser [6c Jh]
+*** PRE-FLOP *** 
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz folds
+Thierry57160 raises 700 to 860 and is all-in
+cnortud folds
+Crisssis folds
+Thierry57160 shows [5h 5d] (One pair : 5)
+Thierry57160 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Seat 5: Thierry57160 (button) showed [5h 5d] and won 1100 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538116667264204801-18-1437428964 - Holdem no limit (10/100/200) - 2015/07/20 21:49:24 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Skeehl (1515)
+Seat 3: greg6 (1235)
+Seat 4: Punisherz (1670)
+Seat 5: Thierry57160 (1100)
+Seat 6: cnortud (1685)
+Seat 7: Crisssis (1220)
+Seat 8: Darkendier (1750)
+Seat 9: sabre_laser (2300)
+Seat 10: Bookaddict73 (2525)
+*** ANTE/BLINDS ***
+Crisssis posts ante 10
+Darkendier posts ante 10
+Skeehl posts ante 10
+greg6 posts ante 10
+Punisherz posts ante 10
+Thierry57160 posts ante 10
+cnortud posts ante 10
+sabre_laser posts ante 10
+Bookaddict73 posts ante 10
+Crisssis posts small blind 100
+Darkendier posts big blind 200
+Dealt to sabre_laser [Tc Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bookaddict73 calls 200
+Skeehl raises 1305 to 1505 and is all-in
+greg6 folds
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier folds
+Bookaddict73 folds
+Skeehl collected 2095 from pot
+*** SUMMARY ***
+Total pot 2095 | No rake
+Seat 2: Skeehl won 2095
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538116667264204801-19-1437429015 - Holdem no limit (10/100/200) - 2015/07/20 21:50:15 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Skeehl (2095)
+Seat 3: greg6 (1225)
+Seat 4: Punisherz (1660)
+Seat 5: Thierry57160 (1090)
+Seat 6: cnortud (1675)
+Seat 7: Crisssis (1110)
+Seat 8: Darkendier (1540)
+Seat 9: sabre_laser (2290)
+Seat 10: Bookaddict73 (2315)
+*** ANTE/BLINDS ***
+Darkendier posts ante 10
+sabre_laser posts ante 10
+Skeehl posts ante 10
+greg6 posts ante 10
+Punisherz posts ante 10
+Thierry57160 posts ante 10
+cnortud posts ante 10
+Crisssis posts ante 10
+Bookaddict73 posts ante 10
+Darkendier posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [4c Jh]
+*** PRE-FLOP *** 
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz raises 1450 to 1650 and is all-in
+Thierry57160 folds
+cnortud folds
+Crisssis folds
+Darkendier folds
+sabre_laser folds
+Punisherz collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Seat 4: Punisherz won 2040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538116667264204801-20-1437429067 - Holdem no limit (10/100/200) - 2015/07/20 21:51:07 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Skeehl (2085)
+Seat 3: greg6 (1215)
+Seat 4: Punisherz (2040)
+Seat 5: Thierry57160 (1080)
+Seat 6: cnortud (1665)
+Seat 7: Crisssis (1100)
+Seat 8: Darkendier (1430)
+Seat 9: sabre_laser (2080)
+Seat 10: Bookaddict73 (2305)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Bookaddict73 posts ante 10
+Skeehl posts ante 10
+greg6 posts ante 10
+Punisherz posts ante 10
+Thierry57160 posts ante 10
+cnortud posts ante 10
+Crisssis posts ante 10
+Darkendier posts ante 10
+sabre_laser posts small blind 100
+Bookaddict73 posts big blind 200
+Dealt to sabre_laser [9s 6h]
+*** PRE-FLOP *** 
+Skeehl folds
+greg6 raises 1005 to 1205 and is all-in
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Crisssis calls 1090 and is all-in
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+*** FLOP *** [5h 6s 2d]
+*** TURN *** [5h 6s 2d][Td]
+*** RIVER *** [5h 6s 2d Td][Kh]
+*** SHOW DOWN ***
+Crisssis shows [Qc Ac] (High card : Ace)
+greg6 shows [Jc Jh] (One pair : Jacks)
+greg6 collected 2685 from pot
+*** SUMMARY ***
+Total pot 2685 | No rake
+Board: [5h 6s 2d Td Kh]
+Seat 3: greg6 showed [Jc Jh] and won 2685 with One pair : Jacks
+Seat 7: Crisssis showed [Qc Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538116667264204801-21-1437429101 - Holdem no limit (10/100/200) - 2015/07/20 21:51:41 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Skeehl (2075)
+Seat 3: greg6 (2685)
+Seat 4: Punisherz (2030)
+Seat 5: Thierry57160 (1070)
+Seat 6: cnortud (1655)
+Seat 8: Darkendier (1420)
+Seat 9: sabre_laser (1970)
+Seat 10: Bookaddict73 (2095)
+*** ANTE/BLINDS ***
+Bookaddict73 posts ante 10
+Skeehl posts ante 10
+greg6 posts ante 10
+Punisherz posts ante 10
+Thierry57160 posts ante 10
+cnortud posts ante 10
+Darkendier posts ante 10
+sabre_laser posts ante 10
+Bookaddict73 posts small blind 100
+Skeehl posts big blind 200
+Dealt to sabre_laser [7s 6h]
+*** PRE-FLOP *** 
+greg6 folds
+Punisherz folds
+Thierry57160 calls 200
+cnortud folds
+Darkendier raises 1210 to 1410 and is all-in
+sabre_laser folds
+Bookaddict73 calls 1310
+Skeehl folds
+Thierry57160 folds
+*** FLOP *** [2h Qs As]
+*** TURN *** [2h Qs As][3d]
+*** RIVER *** [2h Qs As 3d][3c]
+*** SHOW DOWN ***
+Bookaddict73 shows [Jc Kc] (One pair : 3)
+Darkendier shows [Qc Qh] (Full of Queens and 3)
+Darkendier collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [2h Qs As 3d 3c]
+Seat 8: Darkendier showed [Qc Qh] and won 3300 with Full of Queens and 3
+Seat 10: Bookaddict73 (small blind) showed [Jc Kc] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538116667264204801-22-1437429150 - Holdem no limit (20/150/300) - 2015/07/20 21:52:30 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Skeehl (1865)
+Seat 3: greg6 (2675)
+Seat 4: Punisherz (2020)
+Seat 5: Thierry57160 (860)
+Seat 6: cnortud (1645)
+Seat 8: Darkendier (3300)
+Seat 9: sabre_laser (1960)
+Seat 10: Bookaddict73 (675)
+*** ANTE/BLINDS ***
+Skeehl posts ante 20
+greg6 posts ante 20
+Punisherz posts ante 20
+Thierry57160 posts ante 20
+cnortud posts ante 20
+Darkendier posts ante 20
+sabre_laser posts ante 20
+Bookaddict73 posts ante 20
+Skeehl posts small blind 150
+greg6 posts big blind 300
+Dealt to sabre_laser [Js 5h]
+*** PRE-FLOP *** 
+Punisherz folds
+Thierry57160 folds
+cnortud folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 3: greg6 (big blind) won 610
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538116667264204801-23-1437429173 - Holdem no limit (20/150/300) - 2015/07/20 21:52:53 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Skeehl (1695)
+Seat 3: greg6 (2965)
+Seat 4: Punisherz (2000)
+Seat 5: Thierry57160 (840)
+Seat 6: cnortud (1625)
+Seat 8: Darkendier (3280)
+Seat 9: sabre_laser (1940)
+Seat 10: Bookaddict73 (655)
+*** ANTE/BLINDS ***
+greg6 posts ante 20
+Punisherz posts ante 20
+Skeehl posts ante 20
+Thierry57160 posts ante 20
+cnortud posts ante 20
+Darkendier posts ante 20
+sabre_laser posts ante 20
+Bookaddict73 posts ante 20
+greg6 posts small blind 150
+Punisherz posts big blind 300
+Dealt to sabre_laser [9h Ks]
+*** PRE-FLOP *** 
+Thierry57160 folds
+cnortud folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 4: Punisherz (big blind) won 610
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538116667264204801-24-1437429213 - Holdem no limit (20/150/300) - 2015/07/20 21:53:33 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Skeehl (1675)
+Seat 3: greg6 (2795)
+Seat 4: Punisherz (2290)
+Seat 5: Thierry57160 (820)
+Seat 6: cnortud (1605)
+Seat 8: Darkendier (3260)
+Seat 9: sabre_laser (1920)
+Seat 10: Bookaddict73 (635)
+*** ANTE/BLINDS ***
+Punisherz posts ante 20
+Thierry57160 posts ante 20
+Skeehl posts ante 20
+greg6 posts ante 20
+cnortud posts ante 20
+Darkendier posts ante 20
+sabre_laser posts ante 20
+Bookaddict73 posts ante 20
+Punisherz posts small blind 150
+Thierry57160 posts big blind 300
+Dealt to sabre_laser [2c Tc]
+*** PRE-FLOP *** 
+cnortud folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 raises 2475 to 2775 and is all-in
+Punisherz folds
+Thierry57160 calls 500 and is all-in
+*** FLOP *** [Kd Qh 8s]
+*** TURN *** [Kd Qh 8s][5h]
+*** RIVER *** [Kd Qh 8s 5h][Qd]
+*** SHOW DOWN ***
+Thierry57160 shows [5c 4c] (Two pairs : Queens and 5)
+greg6 shows [8c Ah] (Two pairs : Queens and 8)
+greg6 collected 3885 from pot
+*** SUMMARY ***
+Total pot 3885 | No rake
+Board: [Kd Qh 8s 5h Qd]
+Seat 3: greg6 (button) showed [8c Ah] and won 3885 with Two pairs : Queens and 8
+Seat 5: Thierry57160 (big blind) showed [5c 4c] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538116667264204801-25-1437429262 - Holdem no limit (20/150/300) - 2015/07/20 21:54:22 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Skeehl (1655)
+Seat 3: greg6 (3885)
+Seat 4: Punisherz (2120)
+Seat 6: cnortud (1585)
+Seat 8: Darkendier (3240)
+Seat 9: sabre_laser (1900)
+Seat 10: Bookaddict73 (615)
+*** ANTE/BLINDS ***
+cnortud posts ante 20
+Skeehl posts ante 20
+greg6 posts ante 20
+Punisherz posts ante 20
+Darkendier posts ante 20
+sabre_laser posts ante 20
+Bookaddict73 posts ante 20
+cnortud posts big blind 300
+Dealt to sabre_laser [Qs 9c]
+*** PRE-FLOP *** 
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+Skeehl folds
+greg6 folds
+Punisherz raises 740 to 1040
+cnortud folds
+Punisherz collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Seat 4: Punisherz (button) won 1480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538116667264204801-26-1437429290 - Holdem no limit (20/150/300) - 2015/07/20 21:54:50 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Skeehl (1635)
+Seat 3: greg6 (3865)
+Seat 4: Punisherz (2540)
+Seat 6: cnortud (1265)
+Seat 8: Darkendier (3220)
+Seat 9: sabre_laser (1880)
+Seat 10: Bookaddict73 (595)
+*** ANTE/BLINDS ***
+cnortud posts ante 20
+Darkendier posts ante 20
+Skeehl posts ante 20
+greg6 posts ante 20
+Punisherz posts ante 20
+sabre_laser posts ante 20
+Bookaddict73 posts ante 20
+cnortud posts small blind 150
+Darkendier posts big blind 300
+Dealt to sabre_laser [6c Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bookaddict73 raises 275 to 575 and is all-in
+Skeehl folds
+greg6 folds
+Punisherz folds
+cnortud folds
+Darkendier calls 275
+*** FLOP *** [Ad Qs Qc]
+*** TURN *** [Ad Qs Qc][7d]
+*** RIVER *** [Ad Qs Qc 7d][Ks]
+*** SHOW DOWN ***
+Darkendier shows [3s 3d] (Two pairs : Queens and 3)
+Bookaddict73 shows [Ts Th] (Two pairs : Queens and Tens)
+Bookaddict73 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [Ad Qs Qc 7d Ks]
+Seat 8: Darkendier (big blind) showed [3s 3d] and lost with Two pairs : Queens and 3
+Seat 10: Bookaddict73 showed [Ts Th] and won 1440 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538116667264204801-27-1437429345 - Holdem no limit (50/200/400) - 2015/07/20 21:55:45 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Skeehl (1615)
+Seat 3: greg6 (3845)
+Seat 4: Punisherz (2520)
+Seat 6: cnortud (1095)
+Seat 8: Darkendier (2625)
+Seat 9: sabre_laser (1860)
+Seat 10: Bookaddict73 (1440)
+*** ANTE/BLINDS ***
+Darkendier posts ante 50
+sabre_laser posts ante 50
+Skeehl posts ante 50
+greg6 posts ante 50
+Punisherz posts ante 50
+cnortud posts ante 50
+Bookaddict73 posts ante 50
+Darkendier posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [6s 5d]
+*** PRE-FLOP *** 
+Bookaddict73 raises 990 to 1390 and is all-in
+Skeehl folds
+greg6 folds
+Punisherz folds
+cnortud calls 1045 and is all-in
+Darkendier folds
+sabre_laser folds
+*** FLOP *** [3d Ts Td]
+*** TURN *** [3d Ts Td][7s]
+*** RIVER *** [3d Ts Td 7s][9d]
+*** SHOW DOWN ***
+cnortud shows [Kh 5s] (One pair : Tens)
+Bookaddict73 shows [Ad Kd] (Flush Ace high)
+Bookaddict73 collected 3385 from pot
+*** SUMMARY ***
+Total pot 3385 | No rake
+Board: [3d Ts Td 7s 9d]
+Seat 6: cnortud (button) showed [Kh 5s] and lost with One pair : Tens
+Seat 10: Bookaddict73 showed [Ad Kd] and won 3385 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538116667264204801-28-1437429418 - Holdem no limit (50/200/400) - 2015/07/20 21:56:58 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Skeehl (1565)
+Seat 3: greg6 (3795)
+Seat 4: Punisherz (2470)
+Seat 8: Darkendier (2375)
+Seat 9: sabre_laser (1410)
+Seat 10: Bookaddict73 (3385)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Bookaddict73 posts ante 50
+Skeehl posts ante 50
+greg6 posts ante 50
+Punisherz posts ante 50
+Darkendier posts ante 50
+sabre_laser posts small blind 200
+Bookaddict73 posts big blind 400
+Dealt to sabre_laser [9h 5h]
+*** PRE-FLOP *** 
+Skeehl folds
+greg6 raises 3345 to 3745 and is all-in
+Punisherz folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 folds
+greg6 collected 4645 from pot
+*** SUMMARY ***
+Total pot 4645 | No rake
+Seat 3: greg6 won 4645
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538116667264204801-29-1437429447 - Holdem no limit (50/200/400) - 2015/07/20 21:57:27 UTC
+Table: 'Double or Nothing(125290050)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Skeehl (1515)
+Seat 3: greg6 (4645)
+Seat 4: Punisherz (2420)
+Seat 8: Darkendier (2325)
+Seat 9: sabre_laser (1160)
+Seat 10: Bookaddict73 (2935)
+*** ANTE/BLINDS ***
+Bookaddict73 posts ante 50
+Skeehl posts ante 50
+greg6 posts ante 50
+Punisherz posts ante 50
+Darkendier posts ante 50
+sabre_laser posts ante 50
+Bookaddict73 posts small blind 200
+Skeehl posts big blind 400
+Dealt to sabre_laser [2d 7c]
+*** PRE-FLOP *** 
+greg6 folds
+Punisherz folds
+Darkendier folds
+sabre_laser folds
+Bookaddict73 calls 200
+Skeehl raises 1065 to 1465 and is all-in
+Bookaddict73 calls 1065
+*** FLOP *** [3s 2h 4s]
+*** TURN *** [3s 2h 4s][5s]
+*** RIVER *** [3s 2h 4s 5s][Kh]
+*** SHOW DOWN ***
+Skeehl shows [Kc 9c] (One pair : Kings)
+Bookaddict73 shows [Qc Ac] (Straight 5 high)
+Bookaddict73 collected 3230 from pot
+*** SUMMARY ***
+Total pot 3230 | No rake
+Board: [3s 2h 4s 5s Kh]
+Seat 2: Skeehl (big blind) showed [Kc 9c] and lost with One pair : Kings
+Seat 10: Bookaddict73 (small blind) showed [Qc Ac] and won 3230 with Straight 5 high
+
+

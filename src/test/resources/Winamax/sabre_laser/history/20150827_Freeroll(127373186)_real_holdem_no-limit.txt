@@ -1,0 +1,1237 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #547063668257325502-1-1440687802 - Holdem no limit (10/20) - 2015/08/27 15:03:22 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #5 is the button
+Seat 1: elpedro62 (3000)
+Seat 2: coolbob (3000)
+Seat 3: blueboy84 (3000)
+Seat 4: greg 37 (3000)
+Seat 5: sabre_laser (3000)
+Seat 6: orageuse (3000)
+Seat 7: Lieusaint187 (3000)
+Seat 8: kasteuch (3000)
+Seat 9: dome01 (2990)
+*** ANTE/BLINDS ***
+orageuse posts small blind 10
+Lieusaint187 posts big blind 20
+Dealt to sabre_laser [Jh 7h]
+*** PRE-FLOP *** 
+kasteuch calls 20
+dome01 raises 20 to 40
+elpedro62 calls 40
+coolbob folds
+blueboy84 folds
+greg 37 calls 40
+sabre_laser folds
+orageuse folds
+Lieusaint187 calls 20
+kasteuch calls 20
+*** FLOP *** [Kh 6c Kd]
+Lieusaint187 checks
+kasteuch checks
+dome01 checks
+elpedro62 checks
+greg 37 checks
+*** TURN *** [Kh 6c Kd][8c]
+Lieusaint187 checks
+kasteuch checks
+dome01 bets 20
+elpedro62 folds
+greg 37 calls 20
+Lieusaint187 folds
+kasteuch raises 2940 to 2960 and is all-in
+dome01 folds
+greg 37 folds
+kasteuch collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Board: [Kh 6c Kd 8c]
+Seat 8: kasteuch won 3210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #547063668257325502-2-1440687962 - Holdem no limit (15/30) - 2015/08/27 15:06:02 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #6 is the button
+Seat 2: coolbob (3000)
+Seat 3: blueboy84 (3000)
+Seat 4: greg 37 (2940)
+Seat 5: sabre_laser (3000)
+Seat 6: orageuse (2990)
+Seat 7: Lieusaint187 (2960)
+Seat 8: kasteuch (3210)
+Seat 9: dome01 (2930)
+*** ANTE/BLINDS ***
+Lieusaint187 posts small blind 15
+kasteuch posts big blind 30
+Dealt to sabre_laser [6d Kd]
+*** PRE-FLOP *** 
+dome01 calls 30
+coolbob folds
+blueboy84 folds
+greg 37 calls 30
+sabre_laser calls 30
+orageuse folds
+Lieusaint187 raises 120 to 150
+kasteuch calls 120
+dome01 calls 120
+greg 37 calls 120
+sabre_laser calls 120
+*** FLOP *** [Js Ad 4h]
+Lieusaint187 bets 375
+kasteuch calls 375
+dome01 calls 375
+greg 37 folds
+sabre_laser folds
+*** TURN *** [Js Ad 4h][Qd]
+Lieusaint187 bets 938
+kasteuch folds
+dome01 calls 938
+*** RIVER *** [Js Ad 4h Qd][3s]
+Lieusaint187 bets 1497 and is all-in
+dome01 calls 1467 and is all-in
+*** SHOW DOWN ***
+dome01 shows [Ah Th] (One pair : Aces)
+Lieusaint187 shows [Ac Qs] (Two pairs : Aces and Queens)
+Lieusaint187 collected 6715 from pot
+*** SUMMARY ***
+Total pot 6715 | No rake
+Board: [Js Ad 4h Qd 3s]
+Seat 7: Lieusaint187 (small blind) showed [Ac Qs] and won 6715 with Two pairs : Aces and Queens
+Seat 9: dome01 showed [Ah Th] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #547063668257325502-3-1440688094 - Holdem no limit (20/40) - 2015/08/27 15:08:14 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #7 is the button
+Seat 1: nain 45 (3000)
+Seat 2: coolbob (3000)
+Seat 3: blueboy84 (3000)
+Seat 4: greg 37 (2790)
+Seat 5: sabre_laser (2850)
+Seat 6: orageuse (2990)
+Seat 7: Lieusaint187 (6715)
+Seat 8: kasteuch (2685)
+Seat 9: kephrenesie (3000)
+*** ANTE/BLINDS ***
+kasteuch posts small blind 20
+kephrenesie posts big blind 40
+Dealt to sabre_laser [3c 6s]
+*** PRE-FLOP *** 
+nain 45 folds
+coolbob folds
+blueboy84 folds
+greg 37 calls 40
+sabre_laser folds
+orageuse folds
+Lieusaint187 calls 40
+kasteuch calls 20
+kephrenesie raises 40 to 80
+greg 37 calls 40
+Lieusaint187 calls 40
+kasteuch calls 40
+*** FLOP *** [Jd 2h As]
+kasteuch checks
+kephrenesie bets 320
+greg 37 folds
+Lieusaint187 calls 320
+kasteuch folds
+*** TURN *** [Jd 2h As][6h]
+kephrenesie bets 960
+Lieusaint187 folds
+kephrenesie collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [Jd 2h As 6h]
+Seat 9: kephrenesie (big blind) won 1920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #547063668257325502-4-1440688223 - Holdem no limit (30/60) - 2015/08/27 15:10:23 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #8 is the button
+Seat 1: nain 45 (3000)
+Seat 2: coolbob (3000)
+Seat 3: blueboy84 (3000)
+Seat 4: greg 37 (2710)
+Seat 5: sabre_laser (2850)
+Seat 6: orageuse (2990)
+Seat 7: Lieusaint187 (6315)
+Seat 8: kasteuch (2605)
+Seat 9: kephrenesie (3560)
+*** ANTE/BLINDS ***
+kephrenesie posts small blind 30
+nain 45 posts big blind 60
+Dealt to sabre_laser [7h Jh]
+*** PRE-FLOP *** 
+coolbob folds
+blueboy84 folds
+greg 37 calls 60
+sabre_laser folds
+orageuse folds
+Lieusaint187 calls 60
+kasteuch calls 60
+kephrenesie calls 30
+nain 45 checks
+*** FLOP *** [5c 2d Kd]
+kephrenesie bets 60
+nain 45 folds
+greg 37 calls 60
+Lieusaint187 folds
+kasteuch calls 60
+*** TURN *** [5c 2d Kd][6h]
+kephrenesie checks
+greg 37 checks
+kasteuch checks
+*** RIVER *** [5c 2d Kd 6h][Ad]
+kephrenesie bets 480
+greg 37 folds
+kasteuch calls 480
+*** SHOW DOWN ***
+kephrenesie shows [7s Qc] (High card : Ace)
+kasteuch shows [5d Ac] (Two pairs : Aces and 5)
+kasteuch collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [5c 2d Kd 6h Ad]
+Seat 8: kasteuch (button) showed [5d Ac] and won 1440 with Two pairs : Aces and 5
+Seat 9: kephrenesie (small blind) showed [7s Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #547063668257325502-5-1440688422 - Holdem no limit (40/80) - 2015/08/27 15:13:42 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #9 is the button
+Seat 1: nain 45 (2940)
+Seat 2: coolbob (3000)
+Seat 3: blueboy84 (3000)
+Seat 4: greg 37 (2590)
+Seat 5: sabre_laser (2850)
+Seat 6: orageuse (2990)
+Seat 7: Lieusaint187 (6255)
+Seat 8: kasteuch (3445)
+Seat 9: kephrenesie (2960)
+*** ANTE/BLINDS ***
+nain 45 posts small blind 40
+coolbob posts big blind 80
+Dealt to sabre_laser [6h 2c]
+*** PRE-FLOP *** 
+blueboy84 folds
+greg 37 calls 80
+sabre_laser folds
+orageuse folds
+Lieusaint187 calls 80
+kasteuch calls 80
+kephrenesie calls 80
+nain 45 calls 40
+coolbob raises 80 to 160
+greg 37 calls 80
+Lieusaint187 calls 80
+kasteuch calls 80
+kephrenesie calls 80
+nain 45 calls 80
+*** FLOP *** [7s 2s Jc]
+nain 45 bets 960
+coolbob raises 1880 to 2840 and is all-in
+greg 37 folds
+Lieusaint187 calls 2840
+kasteuch folds
+kephrenesie calls 2800 and is all-in
+nain 45 calls 1820 and is all-in
+*** TURN *** [7s 2s Jc][As]
+*** RIVER *** [7s 2s Jc As][Ac]
+*** SHOW DOWN ***
+nain 45 shows [7d 2d] (Two pairs : Aces and 7)
+Lieusaint187 shows [Tc 9d] (One pair : Aces)
+kephrenesie shows [Jd 7c] (Two pairs : Aces and Jacks)
+coolbob shows [Kh Ks] (Two pairs : Aces and Kings)
+coolbob collected 12220 from pot
+*** SUMMARY ***
+Total pot 12220 | No rake
+Board: [7s 2s Jc As Ac]
+Seat 1: nain 45 (small blind) showed [7d 2d] and lost with Two pairs : Aces and 7
+Seat 2: coolbob (big blind) showed [Kh Ks] and won 12220 with Two pairs : Aces and Kings
+Seat 7: Lieusaint187 showed [Tc 9d] and lost with One pair : Aces
+Seat 9: kephrenesie (button) showed [Jd 7c] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #547063668257325502-6-1440688580 - Holdem no limit (60/120) - 2015/08/27 15:16:20 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #1 is the button
+Seat 1: yannou38 (5043)
+Seat 2: coolbob (12220)
+Seat 3: blueboy84 (3000)
+Seat 4: greg 37 (2430)
+Seat 5: sabre_laser (2850)
+Seat 6: orageuse (2990)
+Seat 7: Lieusaint187 (3255)
+Seat 8: kasteuch (3285)
+Seat 9: Weedzaine (3620)
+*** ANTE/BLINDS ***
+coolbob posts small blind 60
+blueboy84 posts big blind 120
+Dealt to sabre_laser [Qd 6d]
+*** PRE-FLOP *** 
+greg 37 calls 120
+sabre_laser folds
+orageuse folds
+Lieusaint187 folds
+kasteuch folds
+coolbob calls 60
+blueboy84 folds
+*** FLOP *** [9h 3h Qh]
+coolbob checks
+greg 37 checks
+*** TURN *** [9h 3h Qh][8s]
+coolbob checks
+greg 37 checks
+*** RIVER *** [9h 3h Qh 8s][Kc]
+coolbob checks
+greg 37 bets 120
+coolbob folds
+greg 37 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9h 3h Qh 8s Kc]
+Seat 4: greg 37 won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #547063668257325502-7-1440688654 - Holdem no limit (60/120) - 2015/08/27 15:17:34 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #2 is the button
+Seat 1: yannou38 (5043)
+Seat 2: coolbob (12100)
+Seat 3: blueboy84 (2880)
+Seat 4: greg 37 (2670)
+Seat 5: sabre_laser (2850)
+Seat 6: orageuse (2990)
+Seat 7: Lieusaint187 (3255)
+Seat 8: kasteuch (3285)
+Seat 9: Weedzaine (3620)
+*** ANTE/BLINDS ***
+blueboy84 posts small blind 60
+greg 37 posts big blind 120
+Dealt to sabre_laser [Jc Td]
+*** PRE-FLOP *** 
+sabre_laser calls 120
+orageuse folds
+Lieusaint187 raises 420 to 540
+kasteuch folds
+Weedzaine folds
+yannou38 raises 1380 to 1920
+coolbob folds
+blueboy84 folds
+greg 37 folds
+sabre_laser folds
+Lieusaint187 raises 1335 to 3255 and is all-in
+yannou38 calls 1335
+*** FLOP *** [3c 2h 4h]
+*** TURN *** [3c 2h 4h][7c]
+*** RIVER *** [3c 2h 4h 7c][9c]
+*** SHOW DOWN ***
+yannou38 shows [Ks 5s] (High card : King)
+Lieusaint187 shows [Th Ts] (One pair : Tens)
+Lieusaint187 collected 6810 from pot
+*** SUMMARY ***
+Total pot 6810 | No rake
+Board: [3c 2h 4h 7c 9c]
+Seat 1: yannou38 showed [Ks 5s] and lost with High card : King
+Seat 7: Lieusaint187 showed [Th Ts] and won 6810 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #547063668257325502-8-1440688776 - Holdem no limit (10/60/120) - 2015/08/27 15:19:36 UTC
+Table: 'Freeroll(127373186)#445' 9-max (real money) Seat #3 is the button
+Seat 1: yannou38 (1788)
+Seat 2: coolbob (12100)
+Seat 3: blueboy84 (2820)
+Seat 4: greg 37 (2550)
+Seat 5: sabre_laser (2730)
+Seat 6: orageuse (2990)
+Seat 7: Lieusaint187 (6810)
+Seat 8: kasteuch (3285)
+Seat 9: Weedzaine (3620)
+*** ANTE/BLINDS ***
+greg 37 posts ante 10
+sabre_laser posts ante 10
+yannou38 posts ante 10
+coolbob posts ante 10
+blueboy84 posts ante 10
+orageuse posts ante 10
+Lieusaint187 posts ante 10
+kasteuch posts ante 10
+Weedzaine posts ante 10
+greg 37 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [2s 9c]
+*** PRE-FLOP *** 
+orageuse folds
+Lieusaint187 folds
+kasteuch calls 120
+Weedzaine folds
+yannou38 raises 1658 to 1778 and is all-in
+coolbob folds
+blueboy84 folds
+greg 37 calls 1718
+sabre_laser folds
+kasteuch raises 1497 to 3275 and is all-in
+greg 37 calls 762 and is all-in
+*** FLOP *** [5d 4h 7d]
+*** TURN *** [5d 4h 7d][7h]
+*** RIVER *** [5d 4h 7d 7h][5s]
+*** SHOW DOWN ***
+yannou38 shows [Js 9d] (Two pairs : 7 and 5)
+greg 37 shows [Kh Jd] (Two pairs : 7 and 5)
+kasteuch shows [Ah 3d] (Two pairs : 7 and 5)
+kasteuch collected 7803 from pot
+*** SUMMARY ***
+Total pot 7803 | No rake
+Board: [5d 4h 7d 7h 5s]
+Seat 1: yannou38 showed [Js 9d] and lost with Two pairs : 7 and 5
+Seat 4: greg 37 (small blind) showed [Kh Jd] and lost with Two pairs : 7 and 5
+Seat 8: kasteuch showed [Ah 3d] and won 7803 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #547063668257325323-12-1440688820 - Holdem no limit (10/60/120) - 2015/08/27 15:20:20 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #5 is the button
+Seat 1: Fr4nk4ton (4780)
+Seat 2: sabre_laser (2600)
+Seat 3: Eddyneuf (2935)
+Seat 4: jeremy050383 (2900)
+Seat 5: sadam1304 (6050)
+Seat 6: CALOU6963 (7050)
+Seat 7: thegameon1 (2695)
+Seat 8: Rouskov.b06 (2930)
+Seat 9: morganne0109 (6075)
+*** ANTE/BLINDS ***
+CALOU6963 posts ante 10
+thegameon1 posts ante 10
+Fr4nk4ton posts ante 10
+sabre_laser posts ante 10
+Eddyneuf posts ante 10
+jeremy050383 posts ante 10
+sadam1304 posts ante 10
+Rouskov.b06 posts ante 10
+morganne0109 posts ante 10
+CALOU6963 posts small blind 60
+thegameon1 posts big blind 120
+Dealt to sabre_laser [7s 4d]
+*** PRE-FLOP *** 
+Rouskov.b06 folds
+morganne0109 calls 120
+Fr4nk4ton calls 120
+sabre_laser folds
+Eddyneuf calls 120
+jeremy050383 calls 120
+sadam1304 folds
+CALOU6963 calls 60
+thegameon1 checks
+*** FLOP *** [8d 4c Qd]
+CALOU6963 bets 120
+thegameon1 folds
+morganne0109 calls 120
+Fr4nk4ton calls 120
+Eddyneuf calls 120
+jeremy050383 folds
+*** TURN *** [8d 4c Qd][5d]
+CALOU6963 bets 240
+morganne0109 calls 240
+Fr4nk4ton raises 720 to 960
+Eddyneuf folds
+CALOU6963 folds
+morganne0109 folds
+Fr4nk4ton collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [8d 4c Qd 5d]
+Seat 1: Fr4nk4ton won 2730
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #547063668257325323-13-1440688915 - Holdem no limit (15/75/150) - 2015/08/27 15:21:55 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #6 is the button
+Seat 1: Fr4nk4ton (6300)
+Seat 2: sabre_laser (2590)
+Seat 3: Eddyneuf (2685)
+Seat 4: jeremy050383 (2770)
+Seat 5: sadam1304 (6040)
+Seat 6: CALOU6963 (6560)
+Seat 7: thegameon1 (2565)
+Seat 8: Rouskov.b06 (2920)
+Seat 9: morganne0109 (5585)
+*** ANTE/BLINDS ***
+thegameon1 posts ante 15
+Rouskov.b06 posts ante 15
+Fr4nk4ton posts ante 15
+sabre_laser posts ante 15
+Eddyneuf posts ante 15
+jeremy050383 posts ante 15
+sadam1304 posts ante 15
+CALOU6963 posts ante 15
+morganne0109 posts ante 15
+thegameon1 posts small blind 75
+Rouskov.b06 posts big blind 150
+Dealt to sabre_laser [2h 4s]
+*** PRE-FLOP *** 
+morganne0109 raises 510 to 660
+Fr4nk4ton folds
+sabre_laser folds
+Eddyneuf folds
+jeremy050383 folds
+sadam1304 folds
+CALOU6963 folds
+thegameon1 calls 585
+Rouskov.b06 folds
+*** FLOP *** [9c Kc 7d]
+thegameon1 checks
+morganne0109 checks
+*** TURN *** [9c Kc 7d][Td]
+thegameon1 checks
+morganne0109 bets 803
+thegameon1 calls 803
+*** RIVER *** [9c Kc 7d Td][5s]
+thegameon1 checks
+morganne0109 checks
+*** SHOW DOWN ***
+morganne0109 shows [Ad 4h] (High card : Ace)
+thegameon1 shows [Js 7s] (One pair : 7)
+thegameon1 collected 3211 from pot
+*** SUMMARY ***
+Total pot 3211 | No rake
+Board: [9c Kc 7d Td 5s]
+Seat 7: thegameon1 (small blind) showed [Js 7s] and won 3211 with One pair : 7
+Seat 9: morganne0109 showed [Ad 4h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #547063668257325323-14-1440688975 - Holdem no limit (15/75/150) - 2015/08/27 15:22:55 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #7 is the button
+Seat 1: Fr4nk4ton (6285)
+Seat 2: sabre_laser (2575)
+Seat 3: Eddyneuf (2670)
+Seat 4: jeremy050383 (2755)
+Seat 5: sadam1304 (6025)
+Seat 6: CALOU6963 (6545)
+Seat 7: thegameon1 (4298)
+Seat 8: Rouskov.b06 (2755)
+Seat 9: morganne0109 (4107)
+*** ANTE/BLINDS ***
+Rouskov.b06 posts ante 15
+morganne0109 posts ante 15
+Fr4nk4ton posts ante 15
+sabre_laser posts ante 15
+Eddyneuf posts ante 15
+jeremy050383 posts ante 15
+sadam1304 posts ante 15
+CALOU6963 posts ante 15
+thegameon1 posts ante 15
+Rouskov.b06 posts small blind 75
+morganne0109 posts big blind 150
+Dealt to sabre_laser [5s 3s]
+*** PRE-FLOP *** 
+Fr4nk4ton raises 150 to 300
+sabre_laser folds
+Eddyneuf calls 300
+jeremy050383 folds
+sadam1304 calls 300
+CALOU6963 folds
+thegameon1 folds
+Rouskov.b06 folds
+morganne0109 raises 3792 to 4092 and is all-in
+Fr4nk4ton calls 3792
+Eddyneuf folds
+sadam1304 raises 1918 to 6010 and is all-in
+Fr4nk4ton calls 1918
+*** FLOP *** [9h 7c 6d]
+*** TURN *** [9h 7c 6d][Js]
+*** RIVER *** [9h 7c 6d Js][6c]
+*** SHOW DOWN ***
+sadam1304 shows [Ah 8h] (One pair : 6)
+morganne0109 shows [As 3d] (One pair : 6)
+Fr4nk4ton shows [Jd Ac] (Two pairs : Jacks and 6)
+Fr4nk4ton collected 16622 from pot
+*** SUMMARY ***
+Total pot 16622 | No rake
+Board: [9h 7c 6d Js 6c]
+Seat 1: Fr4nk4ton showed [Jd Ac] and won 16622 with Two pairs : Jacks and 6
+Seat 5: sadam1304 showed [Ah 8h] and lost with One pair : 6
+Seat 9: morganne0109 (big blind) showed [As 3d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #547063668257325323-15-1440689058 - Holdem no limit (15/75/150) - 2015/08/27 15:24:18 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #8 is the button
+Seat 1: Fr4nk4ton (16882)
+Seat 2: sabre_laser (2560)
+Seat 3: Eddyneuf (2355)
+Seat 4: jeremy050383 (2740)
+Seat 5: silex77 (2770)
+Seat 6: CALOU6963 (6530)
+Seat 7: thegameon1 (4283)
+Seat 8: Rouskov.b06 (2665)
+*** ANTE/BLINDS ***
+Fr4nk4ton posts ante 15
+sabre_laser posts ante 15
+Eddyneuf posts ante 15
+jeremy050383 posts ante 15
+silex77 posts ante 15
+CALOU6963 posts ante 15
+thegameon1 posts ante 15
+Rouskov.b06 posts ante 15
+Fr4nk4ton posts big blind 150
+Dealt to sabre_laser [Tc 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Eddyneuf calls 150
+jeremy050383 calls 150
+silex77 folds
+CALOU6963 folds
+thegameon1 folds
+Rouskov.b06 folds
+Fr4nk4ton checks
+*** FLOP *** [2c 6s Jh]
+Fr4nk4ton checks
+Eddyneuf checks
+jeremy050383 checks
+*** TURN *** [2c 6s Jh][3h]
+Fr4nk4ton bets 375
+Eddyneuf raises 375 to 750
+jeremy050383 folds
+Fr4nk4ton calls 375
+*** RIVER *** [2c 6s Jh 3h][Qs]
+Fr4nk4ton bets 750
+Eddyneuf calls 750
+*** SHOW DOWN ***
+Fr4nk4ton shows [8d Jd] (One pair : Jacks)
+Eddyneuf shows [Ks Js] (One pair : Jacks)
+Eddyneuf collected 3570 from pot
+*** SUMMARY ***
+Total pot 3570 | No rake
+Board: [2c 6s Jh 3h Qs]
+Seat 1: Fr4nk4ton (big blind) showed [8d Jd] and lost with One pair : Jacks
+Seat 3: Eddyneuf showed [Ks Js] and won 3570 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #547063668257325323-16-1440689133 - Holdem no limit (20/100/200) - 2015/08/27 15:25:33 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #9 is the button
+Seat 1: Fr4nk4ton (15217)
+Seat 2: sabre_laser (2545)
+Seat 3: Eddyneuf (4260)
+Seat 4: jeremy050383 (2575)
+Seat 5: silex77 (2755)
+Seat 6: CALOU6963 (6515)
+Seat 7: lecerfgiova (2450)
+Seat 8: Rouskov.b06 (2650)
+Seat 9: Magichouchou (2690)
+*** ANTE/BLINDS ***
+Fr4nk4ton posts ante 20
+sabre_laser posts ante 20
+Eddyneuf posts ante 20
+jeremy050383 posts ante 20
+silex77 posts ante 20
+CALOU6963 posts ante 20
+lecerfgiova posts ante 20
+Rouskov.b06 posts ante 20
+Fr4nk4ton posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [6d 9s]
+*** PRE-FLOP *** 
+Eddyneuf calls 200
+jeremy050383 calls 200
+silex77 folds
+CALOU6963 folds
+lecerfgiova folds
+Rouskov.b06 folds
+Fr4nk4ton calls 100
+sabre_laser checks
+*** FLOP *** [4c 2c 6s]
+Fr4nk4ton bets 300
+sabre_laser raises 2025 to 2325 and is all-in
+Eddyneuf folds
+jeremy050383 folds
+Fr4nk4ton folds
+sabre_laser collected 3585 from pot
+*** SUMMARY ***
+Total pot 3585 | No rake
+Board: [4c 2c 6s]
+Seat 2: sabre_laser (big blind) won 3585
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #547063668257325323-17-1440689191 - Holdem no limit (20/100/200) - 2015/08/27 15:26:31 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #1 is the button
+Seat 1: Fr4nk4ton (14697)
+Seat 2: sabre_laser (3585)
+Seat 3: Eddyneuf (4040)
+Seat 4: jeremy050383 (2355)
+Seat 5: silex77 (2735)
+Seat 6: CALOU6963 (6495)
+Seat 7: lecerfgiova (2430)
+Seat 8: Rouskov.b06 (2630)
+Seat 9: Magichouchou (2690)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Eddyneuf posts ante 20
+Fr4nk4ton posts ante 20
+jeremy050383 posts ante 20
+silex77 posts ante 20
+CALOU6963 posts ante 20
+lecerfgiova posts ante 20
+Rouskov.b06 posts ante 20
+Magichouchou posts ante 20
+sabre_laser posts small blind 100
+Eddyneuf posts big blind 200
+Dealt to sabre_laser [Th 2s]
+*** PRE-FLOP *** 
+jeremy050383 folds
+silex77 calls 200
+CALOU6963 folds
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou folds
+Fr4nk4ton folds
+sabre_laser folds
+Eddyneuf checks
+*** FLOP *** [7c Ac 6d]
+Eddyneuf checks
+silex77 bets 200
+Eddyneuf raises 200 to 400
+silex77 raises 2115 to 2515 and is all-in
+Eddyneuf calls 2115
+*** TURN *** [7c Ac 6d][6s]
+*** RIVER *** [7c Ac 6d 6s][3h]
+*** SHOW DOWN ***
+Eddyneuf shows [As 3s] (Two pairs : Aces and 6)
+silex77 shows [Ad 2h] (Two pairs : Aces and 6)
+silex77 collected 2855 from pot
+Eddyneuf collected 2855 from pot
+*** SUMMARY ***
+Total pot 5710 | No rake
+Board: [7c Ac 6d 6s 3h]
+Seat 3: Eddyneuf (big blind) showed [As 3s] and won 2855 with Two pairs : Aces and 6
+Seat 5: silex77 showed [Ad 2h] and won 2855 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #547063668257325323-18-1440689238 - Holdem no limit (20/100/200) - 2015/08/27 15:27:18 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #2 is the button
+Seat 1: Fr4nk4ton (14677)
+Seat 2: sabre_laser (3465)
+Seat 3: Eddyneuf (4160)
+Seat 4: jeremy050383 (2335)
+Seat 5: silex77 (2855)
+Seat 6: CALOU6963 (6475)
+Seat 7: lecerfgiova (2410)
+Seat 8: Rouskov.b06 (2610)
+Seat 9: Magichouchou (2670)
+*** ANTE/BLINDS ***
+Eddyneuf posts ante 20
+jeremy050383 posts ante 20
+Fr4nk4ton posts ante 20
+sabre_laser posts ante 20
+silex77 posts ante 20
+CALOU6963 posts ante 20
+lecerfgiova posts ante 20
+Rouskov.b06 posts ante 20
+Magichouchou posts ante 20
+Eddyneuf posts small blind 100
+jeremy050383 posts big blind 200
+Dealt to sabre_laser [Qh 8d]
+*** PRE-FLOP *** 
+silex77 raises 2635 to 2835 and is all-in
+CALOU6963 folds
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou folds
+Fr4nk4ton folds
+sabre_laser folds
+Eddyneuf calls 2735
+jeremy050383 folds
+*** FLOP *** [9s 4d Jh]
+*** TURN *** [9s 4d Jh][Kc]
+*** RIVER *** [9s 4d Jh Kc][Jd]
+*** SHOW DOWN ***
+Eddyneuf shows [Ks 7d] (Two pairs : Kings and Jacks)
+silex77 shows [4h 4s] (Full of 4 and Jacks)
+silex77 collected 6050 from pot
+*** SUMMARY ***
+Total pot 6050 | No rake
+Board: [9s 4d Jh Kc Jd]
+Seat 3: Eddyneuf (small blind) showed [Ks 7d] and lost with Two pairs : Kings and Jacks
+Seat 5: silex77 showed [4h 4s] and won 6050 with Full of 4 and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #547063668257325323-19-1440689282 - Holdem no limit (25/125/250) - 2015/08/27 15:28:02 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #3 is the button
+Seat 1: Fr4nk4ton (14657)
+Seat 2: sabre_laser (3445)
+Seat 3: Eddyneuf (1305)
+Seat 4: jeremy050383 (2115)
+Seat 5: silex77 (6050)
+Seat 6: CALOU6963 (6455)
+Seat 7: lecerfgiova (2390)
+Seat 8: Rouskov.b06 (2590)
+Seat 9: Magichouchou (2650)
+*** ANTE/BLINDS ***
+jeremy050383 posts ante 25
+silex77 posts ante 25
+Fr4nk4ton posts ante 25
+sabre_laser posts ante 25
+Eddyneuf posts ante 25
+CALOU6963 posts ante 25
+lecerfgiova posts ante 25
+Rouskov.b06 posts ante 25
+Magichouchou posts ante 25
+jeremy050383 posts small blind 125
+silex77 posts big blind 250
+Dealt to sabre_laser [2s 5h]
+*** PRE-FLOP *** 
+CALOU6963 calls 250
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou calls 250
+Fr4nk4ton folds
+sabre_laser folds
+Eddyneuf calls 250
+jeremy050383 folds
+silex77 checks
+*** FLOP *** [3d Qs 8c]
+silex77 checks
+CALOU6963 checks
+Magichouchou bets 250
+Eddyneuf calls 250
+silex77 folds
+CALOU6963 calls 250
+*** TURN *** [3d Qs 8c][Tc]
+CALOU6963 checks
+Magichouchou bets 250
+Eddyneuf folds
+CALOU6963 calls 250
+*** RIVER *** [3d Qs 8c Tc][6s]
+CALOU6963 bets 625
+Magichouchou calls 625
+*** SHOW DOWN ***
+CALOU6963 shows [Ks Jd] (High card : King)
+Magichouchou shows [3c Kc] (One pair : 3)
+Magichouchou collected 3850 from pot
+*** SUMMARY ***
+Total pot 3850 | No rake
+Board: [3d Qs 8c Tc 6s]
+Seat 6: CALOU6963 showed [Ks Jd] and lost with High card : King
+Seat 9: Magichouchou showed [3c Kc] and won 3850 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #547063668257325323-20-1440689373 - Holdem no limit (25/125/250) - 2015/08/27 15:29:33 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #4 is the button
+Seat 1: Fr4nk4ton (14632)
+Seat 2: sabre_laser (3420)
+Seat 3: Eddyneuf (780)
+Seat 4: jeremy050383 (1965)
+Seat 5: silex77 (5775)
+Seat 6: CALOU6963 (5055)
+Seat 7: lecerfgiova (2365)
+Seat 8: Rouskov.b06 (2565)
+Seat 9: Magichouchou (5100)
+*** ANTE/BLINDS ***
+silex77 posts ante 25
+CALOU6963 posts ante 25
+Fr4nk4ton posts ante 25
+sabre_laser posts ante 25
+Eddyneuf posts ante 25
+jeremy050383 posts ante 25
+lecerfgiova posts ante 25
+Rouskov.b06 posts ante 25
+Magichouchou posts ante 25
+silex77 posts small blind 125
+CALOU6963 posts big blind 250
+Dealt to sabre_laser [6d 4d]
+*** PRE-FLOP *** 
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou calls 250
+Fr4nk4ton folds
+sabre_laser folds
+Eddyneuf raises 505 to 755 and is all-in
+jeremy050383 raises 1185 to 1940 and is all-in
+silex77 folds
+CALOU6963 folds
+Magichouchou folds
+*** FLOP *** [6s 3s 9h]
+*** TURN *** [6s 3s 9h][4s]
+*** RIVER *** [6s 3s 9h 4s][As]
+*** SHOW DOWN ***
+Eddyneuf shows [4h Ah] (Two pairs : Aces and 4)
+jeremy050383 shows [Ac Ks] (Flush Ace high)
+jeremy050383 collected 3545 from pot
+*** SUMMARY ***
+Total pot 3545 | No rake
+Board: [6s 3s 9h 4s As]
+Seat 3: Eddyneuf showed [4h Ah] and lost with Two pairs : Aces and 4
+Seat 4: jeremy050383 (button) showed [Ac Ks] and won 3545 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #547063668257325323-21-1440689414 - Holdem no limit (25/125/250) - 2015/08/27 15:30:14 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #5 is the button
+Seat 1: Fr4nk4ton (14607)
+Seat 2: sabre_laser (3395)
+Seat 4: jeremy050383 (3545)
+Seat 5: silex77 (5625)
+Seat 6: CALOU6963 (4780)
+Seat 7: lecerfgiova (2340)
+Seat 8: Rouskov.b06 (2540)
+Seat 9: Magichouchou (4825)
+*** ANTE/BLINDS ***
+CALOU6963 posts ante 25
+lecerfgiova posts ante 25
+Fr4nk4ton posts ante 25
+sabre_laser posts ante 25
+jeremy050383 posts ante 25
+silex77 posts ante 25
+Rouskov.b06 posts ante 25
+Magichouchou posts ante 25
+CALOU6963 posts small blind 125
+lecerfgiova posts big blind 250
+Dealt to sabre_laser [6s 3d]
+*** PRE-FLOP *** 
+Rouskov.b06 folds
+Magichouchou calls 250
+Fr4nk4ton folds
+sabre_laser folds
+jeremy050383 folds
+silex77 calls 250
+CALOU6963 calls 125
+lecerfgiova folds
+*** FLOP *** [Qd 4c As]
+CALOU6963 checks
+Magichouchou bets 375
+silex77 folds
+CALOU6963 calls 375
+*** TURN *** [Qd 4c As][6d]
+CALOU6963 checks
+Magichouchou bets 975
+CALOU6963 folds
+Magichouchou collected 2925 from pot
+*** SUMMARY ***
+Total pot 2925 | No rake
+Board: [Qd 4c As 6d]
+Seat 9: Magichouchou won 2925
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #547063668257325323-22-1440689476 - Holdem no limit (35/150/300) - 2015/08/27 15:31:16 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #6 is the button
+Seat 1: Fr4nk4ton (14582)
+Seat 2: sabre_laser (3370)
+Seat 3: Axel52100 (4363)
+Seat 4: jeremy050383 (3520)
+Seat 5: silex77 (5350)
+Seat 6: CALOU6963 (4130)
+Seat 7: lecerfgiova (2065)
+Seat 8: Rouskov.b06 (2515)
+Seat 9: Magichouchou (6125)
+*** ANTE/BLINDS ***
+lecerfgiova posts ante 35
+Rouskov.b06 posts ante 35
+Fr4nk4ton posts ante 35
+sabre_laser posts ante 35
+Axel52100 posts ante 35
+jeremy050383 posts ante 35
+silex77 posts ante 35
+CALOU6963 posts ante 35
+Magichouchou posts ante 35
+lecerfgiova posts small blind 150
+Rouskov.b06 posts big blind 300
+Dealt to sabre_laser [8h 4c]
+*** PRE-FLOP *** 
+Magichouchou folds
+Fr4nk4ton folds
+sabre_laser folds
+Axel52100 raises 300 to 600
+jeremy050383 folds
+silex77 folds
+CALOU6963 folds
+lecerfgiova folds
+Rouskov.b06 folds
+Axel52100 collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | No rake
+Seat 3: Axel52100 won 1365
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #547063668257325323-23-1440689495 - Holdem no limit (35/150/300) - 2015/08/27 15:31:35 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #7 is the button
+Seat 1: Fr4nk4ton (14547)
+Seat 2: sabre_laser (3335)
+Seat 3: Axel52100 (5093)
+Seat 4: jeremy050383 (3485)
+Seat 5: silex77 (5315)
+Seat 6: CALOU6963 (4095)
+Seat 7: lecerfgiova (1880)
+Seat 8: Rouskov.b06 (2180)
+Seat 9: Magichouchou (6090)
+*** ANTE/BLINDS ***
+Rouskov.b06 posts ante 35
+Magichouchou posts ante 35
+Fr4nk4ton posts ante 35
+sabre_laser posts ante 35
+Axel52100 posts ante 35
+jeremy050383 posts ante 35
+silex77 posts ante 35
+CALOU6963 posts ante 35
+lecerfgiova posts ante 35
+Rouskov.b06 posts small blind 150
+Magichouchou posts big blind 300
+Dealt to sabre_laser [Qh 6d]
+*** PRE-FLOP *** 
+Fr4nk4ton raises 450 to 750
+sabre_laser folds
+Axel52100 folds
+jeremy050383 folds
+silex77 folds
+CALOU6963 calls 750
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou folds
+*** FLOP *** [9h Td 9d]
+Fr4nk4ton bets 1650
+CALOU6963 raises 1660 to 3310 and is all-in
+Fr4nk4ton calls 1660
+*** TURN *** [9h Td 9d][7c]
+*** RIVER *** [9h Td 9d 7c][Kd]
+*** SHOW DOWN ***
+CALOU6963 shows [Tc Qc] (Two pairs : Tens and 9)
+Fr4nk4ton shows [Js Jc] (Two pairs : Jacks and 9)
+Fr4nk4ton collected 8885 from pot
+*** SUMMARY ***
+Total pot 8885 | No rake
+Board: [9h Td 9d 7c Kd]
+Seat 1: Fr4nk4ton showed [Js Jc] and won 8885 with Two pairs : Jacks and 9
+Seat 6: CALOU6963 showed [Tc Qc] and lost with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #547063668257325323-24-1440689555 - Holdem no limit (35/150/300) - 2015/08/27 15:32:35 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #8 is the button
+Seat 1: Fr4nk4ton (19337)
+Seat 2: sabre_laser (3300)
+Seat 3: Axel52100 (5058)
+Seat 4: jeremy050383 (3450)
+Seat 5: silex77 (5280)
+Seat 6: nonice (17345)
+Seat 7: lecerfgiova (1845)
+Seat 8: Rouskov.b06 (1995)
+Seat 9: Magichouchou (5755)
+*** ANTE/BLINDS ***
+Magichouchou posts ante 35
+Fr4nk4ton posts ante 35
+sabre_laser posts ante 35
+Axel52100 posts ante 35
+jeremy050383 posts ante 35
+silex77 posts ante 35
+nonice posts ante 35
+lecerfgiova posts ante 35
+Rouskov.b06 posts ante 35
+Magichouchou posts small blind 150
+Fr4nk4ton posts big blind 300
+Dealt to sabre_laser [7s 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Axel52100 folds
+jeremy050383 raises 3115 to 3415 and is all-in
+silex77 folds
+nonice folds
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou folds
+Fr4nk4ton calls 3115
+*** FLOP *** [5d 5h 9h]
+*** TURN *** [5d 5h 9h][6h]
+*** RIVER *** [5d 5h 9h 6h][Jc]
+*** SHOW DOWN ***
+Fr4nk4ton shows [Tc Th] (Two pairs : Tens and 5)
+jeremy050383 shows [Qs Qc] (Two pairs : Queens and 5)
+jeremy050383 collected 7295 from pot
+*** SUMMARY ***
+Total pot 7295 | No rake
+Board: [5d 5h 9h 6h Jc]
+Seat 1: Fr4nk4ton (big blind) showed [Tc Th] and lost with Two pairs : Tens and 5
+Seat 4: jeremy050383 showed [Qs Qc] and won 7295 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #547063668257325323-25-1440689592 - Holdem no limit (35/150/300) - 2015/08/27 15:33:12 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #9 is the button
+Seat 1: Fr4nk4ton (15887)
+Seat 2: sabre_laser (3265)
+Seat 3: Axel52100 (5023)
+Seat 4: jeremy050383 (7295)
+Seat 5: silex77 (5245)
+Seat 6: nonice (17310)
+Seat 7: lecerfgiova (1810)
+Seat 8: Rouskov.b06 (1960)
+Seat 9: Magichouchou (5570)
+*** ANTE/BLINDS ***
+Fr4nk4ton posts ante 35
+sabre_laser posts ante 35
+Axel52100 posts ante 35
+jeremy050383 posts ante 35
+silex77 posts ante 35
+nonice posts ante 35
+lecerfgiova posts ante 35
+Rouskov.b06 posts ante 35
+Magichouchou posts ante 35
+Fr4nk4ton posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Qd 9c]
+*** PRE-FLOP *** 
+Axel52100 folds
+jeremy050383 folds
+silex77 folds
+nonice calls 300
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou calls 300
+Fr4nk4ton raises 900 to 1200
+sabre_laser folds
+nonice calls 900
+Magichouchou calls 900
+*** FLOP *** [8h 4c 4d]
+Fr4nk4ton bets 1800
+nonice folds
+Magichouchou calls 1800
+*** TURN *** [8h 4c 4d][Kh]
+Fr4nk4ton bets 2700
+Magichouchou calls 2535 and is all-in
+*** RIVER *** [8h 4c 4d Kh][7d]
+*** SHOW DOWN ***
+Magichouchou shows [8c 8s] (Full of 8 and 4)
+Fr4nk4ton shows [Qs Js] (One pair : 4)
+Fr4nk4ton collected 165 from side pot 1
+Magichouchou collected 12885 from main pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Board: [8h 4c 4d Kh 7d]
+Seat 1: Fr4nk4ton (small blind) showed [Qs Js] and won 165 with One pair : 4
+Seat 9: Magichouchou (button) showed [8c 8s] and won 12885 with Full of 8 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #547063668257325323-26-1440689667 - Holdem no limit (40/200/400) - 2015/08/27 15:34:27 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #1 is the button
+Seat 1: Fr4nk4ton (10317)
+Seat 2: sabre_laser (2930)
+Seat 3: Axel52100 (4988)
+Seat 4: jeremy050383 (7260)
+Seat 5: silex77 (5210)
+Seat 6: nonice (16075)
+Seat 7: lecerfgiova (1775)
+Seat 8: Rouskov.b06 (1925)
+Seat 9: Magichouchou (12885)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+Axel52100 posts ante 40
+Fr4nk4ton posts ante 40
+jeremy050383 posts ante 40
+silex77 posts ante 40
+nonice posts ante 40
+lecerfgiova posts ante 40
+Rouskov.b06 posts ante 40
+Magichouchou posts ante 40
+sabre_laser posts small blind 200
+Axel52100 posts big blind 400
+Dealt to sabre_laser [4s 8d]
+*** PRE-FLOP *** 
+jeremy050383 folds
+silex77 folds
+nonice calls 400
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou folds
+Fr4nk4ton calls 400
+sabre_laser calls 200
+Axel52100 raises 4548 to 4948 and is all-in
+nonice folds
+Fr4nk4ton folds
+sabre_laser folds
+Axel52100 collected 6508 from pot
+*** SUMMARY ***
+Total pot 6508 | No rake
+Seat 3: Axel52100 (big blind) won 6508
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #547063668257325323-27-1440689720 - Holdem no limit (40/200/400) - 2015/08/27 15:35:20 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #2 is the button
+Seat 1: Fr4nk4ton (9877)
+Seat 2: sabre_laser (2490)
+Seat 3: Axel52100 (6508)
+Seat 4: jeremy050383 (7220)
+Seat 5: silex77 (5170)
+Seat 6: nonice (15635)
+Seat 7: lecerfgiova (1735)
+Seat 8: Rouskov.b06 (1885)
+Seat 9: Magichouchou (12845)
+*** ANTE/BLINDS ***
+Axel52100 posts ante 40
+jeremy050383 posts ante 40
+Fr4nk4ton posts ante 40
+sabre_laser posts ante 40
+silex77 posts ante 40
+nonice posts ante 40
+lecerfgiova posts ante 40
+Rouskov.b06 posts ante 40
+Magichouchou posts ante 40
+Axel52100 posts small blind 200
+jeremy050383 posts big blind 400
+Dealt to sabre_laser [6c Td]
+*** PRE-FLOP *** 
+silex77 raises 4730 to 5130 and is all-in
+nonice calls 5130
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou folds
+Fr4nk4ton folds
+sabre_laser folds
+Axel52100 folds
+jeremy050383 folds
+*** FLOP *** [6d Jh Kh]
+*** TURN *** [6d Jh Kh][5h]
+*** RIVER *** [6d Jh Kh 5h][8d]
+*** SHOW DOWN ***
+nonice shows [7s As] (High card : Ace)
+silex77 shows [Kd Qs] (One pair : Kings)
+silex77 collected 11220 from pot
+*** SUMMARY ***
+Total pot 11220 | No rake
+Board: [6d Jh Kh 5h 8d]
+Seat 5: silex77 showed [Kd Qs] and won 11220 with One pair : Kings
+Seat 6: nonice showed [7s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #547063668257325323-28-1440689759 - Holdem no limit (40/200/400) - 2015/08/27 15:35:59 UTC
+Table: 'Freeroll(127373186)#266' 9-max (real money) Seat #3 is the button
+Seat 1: Fr4nk4ton (9837)
+Seat 2: sabre_laser (2450)
+Seat 3: Axel52100 (6268)
+Seat 4: jeremy050383 (6780)
+Seat 5: silex77 (11220)
+Seat 6: nonice (10465)
+Seat 7: lecerfgiova (1695)
+Seat 8: Rouskov.b06 (1845)
+Seat 9: Magichouchou (12805)
+*** ANTE/BLINDS ***
+jeremy050383 posts ante 40
+silex77 posts ante 40
+Fr4nk4ton posts ante 40
+sabre_laser posts ante 40
+Axel52100 posts ante 40
+nonice posts ante 40
+lecerfgiova posts ante 40
+Rouskov.b06 posts ante 40
+Magichouchou posts ante 40
+jeremy050383 posts small blind 200
+silex77 posts big blind 400
+Dealt to sabre_laser [Qs Qh]
+*** PRE-FLOP *** 
+nonice folds
+lecerfgiova folds
+Rouskov.b06 folds
+Magichouchou folds
+Fr4nk4ton raises 600 to 1000
+sabre_laser raises 1410 to 2410 and is all-in
+Axel52100 folds
+jeremy050383 folds
+silex77 folds
+Fr4nk4ton calls 1410
+*** FLOP *** [Ac 4h 8d]
+*** TURN *** [Ac 4h 8d][5h]
+*** RIVER *** [Ac 4h 8d 5h][4d]
+*** SHOW DOWN ***
+sabre_laser shows [Qs Qh] (Two pairs : Queens and 4)
+Fr4nk4ton shows [As 3h] (Two pairs : Aces and 4)
+Fr4nk4ton collected 5780 from pot
+*** SUMMARY ***
+Total pot 5780 | No rake
+Board: [Ac 4h 8d 5h 4d]
+Seat 1: Fr4nk4ton showed [As 3h] and won 5780 with Two pairs : Aces and 4
+Seat 2: sabre_laser showed [Qs Qh] and lost with Two pairs : Queens and 4
+
+

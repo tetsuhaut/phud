@@ -1,0 +1,1310 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540677889406795777-1-1438029180 - Holdem no limit (10/20) - 2015/07/27 20:33:00 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #9 is the button
+Seat 1: lacostiche40 (1500)
+Seat 2: Vascia (1500)
+Seat 3: -Gandalf- (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: Crisssis (1500)
+Seat 6: Simatis06270 (1500)
+Seat 7: Tamata40 (1500)
+Seat 8: JoColbertino (1500)
+Seat 9: florian63450 (1500)
+Seat 10: chhhh (1500)
+*** ANTE/BLINDS ***
+chhhh posts small blind 10
+lacostiche40 posts big blind 20
+Dealt to sabre_laser [Qc Jd]
+*** PRE-FLOP *** 
+Vascia calls 20
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 calls 20
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh calls 10
+lacostiche40 checks
+*** FLOP *** [Jc 2h Qd]
+chhhh checks
+lacostiche40 bets 174
+Vascia folds
+Simatis06270 calls 174
+chhhh folds
+*** TURN *** [Jc 2h Qd][Ah]
+lacostiche40 checks
+Simatis06270 bets 120
+lacostiche40 calls 120
+*** RIVER *** [Jc 2h Qd Ah][Ad]
+lacostiche40 checks
+Simatis06270 checks
+*** SHOW DOWN ***
+lacostiche40 shows [3c Js] (Two pairs : Aces and Jacks)
+Simatis06270 shows [Td Qh] (Two pairs : Aces and Queens)
+Simatis06270 collected 668 from pot
+*** SUMMARY ***
+Total pot 668 | No rake
+Board: [Jc 2h Qd Ah Ad]
+Seat 1: lacostiche40 (big blind) showed [3c Js] and lost with Two pairs : Aces and Jacks
+Seat 6: Simatis06270 showed [Td Qh] and won 668 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540677889406795777-2-1438029250 - Holdem no limit (10/20) - 2015/07/27 20:34:10 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #10 is the button
+Seat 1: lacostiche40 (1186)
+Seat 2: Vascia (1480)
+Seat 3: -Gandalf- (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: Crisssis (1500)
+Seat 6: Simatis06270 (1854)
+Seat 7: Tamata40 (1500)
+Seat 8: JoColbertino (1500)
+Seat 9: florian63450 (1500)
+Seat 10: chhhh (1480)
+*** ANTE/BLINDS ***
+lacostiche40 posts small blind 10
+Vascia posts big blind 20
+Dealt to sabre_laser [4c Ks]
+*** PRE-FLOP *** 
+-Gandalf- folds
+sabre_laser folds
+Crisssis raises 30 to 50
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 50
+chhhh folds
+lacostiche40 folds
+Vascia raises 30 to 80
+Crisssis calls 30
+florian63450 calls 30
+*** FLOP *** [Ah 9d 6s]
+Vascia bets 20
+Crisssis folds
+florian63450 calls 20
+*** TURN *** [Ah 9d 6s][4h]
+Vascia bets 290
+florian63450 folds
+Vascia collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ah 9d 6s 4h]
+Seat 2: Vascia (big blind) won 580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #540677889406795777-3-1438029315 - Holdem no limit (10/20) - 2015/07/27 20:35:15 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #1 is the button
+Seat 1: lacostiche40 (1176)
+Seat 2: Vascia (1670)
+Seat 3: -Gandalf- (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: Crisssis (1420)
+Seat 6: Simatis06270 (1854)
+Seat 7: Tamata40 (1500)
+Seat 8: JoColbertino (1500)
+Seat 9: florian63450 (1400)
+Seat 10: chhhh (1480)
+*** ANTE/BLINDS ***
+Vascia posts small blind 10
+-Gandalf- posts big blind 20
+Dealt to sabre_laser [Ah Jd]
+*** PRE-FLOP *** 
+sabre_laser raises 50 to 70
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 70
+chhhh calls 70
+lacostiche40 folds
+Vascia calls 60
+-Gandalf- folds
+*** FLOP *** [8s 6s 5d]
+Vascia checks
+sabre_laser checks
+florian63450 bets 20
+chhhh calls 20
+Vascia folds
+sabre_laser folds
+*** TURN *** [8s 6s 5d][5h]
+florian63450 bets 20
+chhhh calls 20
+*** RIVER *** [8s 6s 5d 5h][As]
+florian63450 bets 20
+chhhh raises 110 to 130
+florian63450 calls 110
+*** SHOW DOWN ***
+chhhh shows [4h Qh] (One pair : 5)
+florian63450 shows [6d 7d] (Two pairs : 6 and 5)
+florian63450 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [8s 6s 5d 5h As]
+Seat 9: florian63450 showed [6d 7d] and won 640 with Two pairs : 6 and 5
+Seat 10: chhhh showed [4h Qh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540677889406795777-4-1438029407 - Holdem no limit (15/30) - 2015/07/27 20:36:47 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #2 is the button
+Seat 1: lacostiche40 (1176)
+Seat 2: Vascia (1600)
+Seat 3: -Gandalf- (1480)
+Seat 4: sabre_laser (1430)
+Seat 5: Crisssis (1420)
+Seat 6: Simatis06270 (1854)
+Seat 7: Tamata40 (1500)
+Seat 8: JoColbertino (1500)
+Seat 9: florian63450 (1800)
+Seat 10: chhhh (1240)
+*** ANTE/BLINDS ***
+-Gandalf- posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Qd 5c]
+*** PRE-FLOP *** 
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh folds
+lacostiche40 folds
+Vascia calls 30
+-Gandalf- folds
+sabre_laser checks
+*** FLOP *** [7s Ks 4d]
+sabre_laser checks
+Vascia bets 75
+sabre_laser calls 75
+*** TURN *** [7s Ks 4d][Qs]
+sabre_laser bets 165
+Vascia folds
+sabre_laser collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [7s Ks 4d Qs]
+Seat 4: sabre_laser (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #540677889406795777-5-1438029483 - Holdem no limit (15/30) - 2015/07/27 20:38:03 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #3 is the button
+Seat 1: lacostiche40 (1176)
+Seat 2: Vascia (1495)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1550)
+Seat 5: Crisssis (1420)
+Seat 6: Simatis06270 (1854)
+Seat 7: Tamata40 (1500)
+Seat 8: JoColbertino (1500)
+Seat 9: florian63450 (1800)
+Seat 10: chhhh (1240)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Crisssis posts big blind 30
+Dealt to sabre_laser [6h Kh]
+*** PRE-FLOP *** 
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 30
+chhhh folds
+lacostiche40 folds
+Vascia calls 30
+-Gandalf- folds
+sabre_laser calls 15
+Crisssis checks
+*** FLOP *** [Qh 2c 9s]
+sabre_laser checks
+Crisssis checks
+florian63450 checks
+Vascia checks
+*** TURN *** [Qh 2c 9s][7c]
+sabre_laser bets 120
+Crisssis folds
+florian63450 folds
+Vascia folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qh 2c 9s 7c]
+Seat 4: sabre_laser (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540677889406795777-6-1438029596 - Holdem no limit (20/40) - 2015/07/27 20:39:56 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #4 is the button
+Seat 1: lacostiche40 (1176)
+Seat 2: Vascia (1465)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1640)
+Seat 5: Crisssis (1390)
+Seat 6: Simatis06270 (1854)
+Seat 7: Tamata40 (1500)
+Seat 8: JoColbertino (1500)
+Seat 9: florian63450 (1770)
+Seat 10: chhhh (1240)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 20
+Simatis06270 posts big blind 40
+Dealt to sabre_laser [Kh Qh]
+*** PRE-FLOP *** 
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 40
+chhhh calls 40
+lacostiche40 calls 40
+Vascia calls 40
+-Gandalf- folds
+sabre_laser calls 40
+Crisssis folds
+Simatis06270 checks
+*** FLOP *** [Qc Ac Tc]
+Simatis06270 checks
+florian63450 checks
+chhhh bets 180
+lacostiche40 raises 956 to 1136 and is all-in
+Vascia raises 289 to 1425 and is all-in
+sabre_laser folds
+Simatis06270 folds
+florian63450 folds
+chhhh calls 1020 and is all-in
+*** TURN *** [Qc Ac Tc][6d]
+*** RIVER *** [Qc Ac Tc 6d][5d]
+*** SHOW DOWN ***
+lacostiche40 shows [Jc 8h] (High card : Ace)
+chhhh shows [Ah Qd] (Two pairs : Aces and Queens)
+Vascia shows [As 2c] (One pair : Aces)
+Vascia collected 225 from side pot 1
+chhhh collected 3796 from main pot
+*** SUMMARY ***
+Total pot 4021 | No rake
+Board: [Qc Ac Tc 6d 5d]
+Seat 1: lacostiche40 showed [Jc 8h] and lost with High card : Ace
+Seat 2: Vascia showed [As 2c] and won 225 with One pair : Aces
+Seat 10: chhhh showed [Ah Qd] and won 3796 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #540677889406795777-7-1438029685 - Holdem no limit (20/40) - 2015/07/27 20:41:25 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Vascia (225)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1600)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (1814)
+Seat 7: Tamata40 (1500)
+Seat 8: JoColbertino (1500)
+Seat 9: florian63450 (1730)
+Seat 10: chhhh (3796)
+*** ANTE/BLINDS ***
+Simatis06270 posts small blind 20
+Tamata40 posts big blind 40
+Dealt to sabre_laser [Ts Kh]
+*** PRE-FLOP *** 
+JoColbertino raises 40 to 80
+florian63450 raises 40 to 120
+chhhh folds
+Vascia folds
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino calls 40
+*** FLOP *** [Jh 9c 5c]
+JoColbertino checks
+florian63450 bets 40
+JoColbertino calls 40
+*** TURN *** [Jh 9c 5c][9s]
+JoColbertino checks
+florian63450 bets 40
+JoColbertino calls 40
+*** RIVER *** [Jh 9c 5c 9s][Qs]
+JoColbertino checks
+florian63450 bets 40
+JoColbertino raises 250 to 290
+florian63450 calls 250
+*** SHOW DOWN ***
+florian63450 shows [8d 8h] (Two pairs : 9 and 8)
+JoColbertino shows [Qd Ac] (Two pairs : Queens and 9)
+JoColbertino collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [Jh 9c 5c 9s Qs]
+Seat 8: JoColbertino showed [Qd Ac] and won 1040 with Two pairs : Queens and 9
+Seat 9: florian63450 showed [8d 8h] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540677889406795777-8-1438029764 - Holdem no limit (30/60) - 2015/07/27 20:42:44 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Vascia (225)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1600)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (1794)
+Seat 7: Tamata40 (1460)
+Seat 8: JoColbertino (2050)
+Seat 9: florian63450 (1240)
+Seat 10: chhhh (3796)
+*** ANTE/BLINDS ***
+Tamata40 posts small blind 30
+JoColbertino posts big blind 60
+Dealt to sabre_laser [5h 3s]
+*** PRE-FLOP *** 
+florian63450 calls 60
+chhhh folds
+Vascia folds
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino checks
+*** FLOP *** [5s 2d Qh]
+JoColbertino checks
+florian63450 checks
+*** TURN *** [5s 2d Qh][Qd]
+JoColbertino checks
+florian63450 checks
+*** RIVER *** [5s 2d Qh Qd][Ah]
+JoColbertino checks
+florian63450 bets 150
+JoColbertino folds
+florian63450 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5s 2d Qh Qd Ah]
+Seat 9: florian63450 won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540677889406795777-9-1438029834 - Holdem no limit (30/60) - 2015/07/27 20:43:54 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Vascia (225)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1600)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (1794)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1990)
+Seat 9: florian63450 (1330)
+Seat 10: chhhh (3796)
+*** ANTE/BLINDS ***
+JoColbertino posts small blind 30
+florian63450 posts big blind 60
+Dealt to sabre_laser [7h 9s]
+*** PRE-FLOP *** 
+chhhh folds
+Vascia folds
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: florian63450 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #540677889406795777-10-1438029872 - Holdem no limit (30/60) - 2015/07/27 20:44:32 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Vascia (225)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1600)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (1794)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (1360)
+Seat 10: chhhh (3796)
+*** ANTE/BLINDS ***
+florian63450 posts small blind 30
+chhhh posts big blind 60
+Dealt to sabre_laser [3c 6c]
+*** PRE-FLOP *** 
+Vascia raises 60 to 120
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh calls 60
+*** FLOP *** [Jd Jc Ks]
+chhhh checks
+Vascia bets 105 and is all-in
+chhhh folds
+Vascia collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Jd Jc Ks]
+Seat 2: Vascia won 375
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540677889406795777-11-1438029942 - Holdem no limit (40/80) - 2015/07/27 20:45:42 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Vascia (375)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1600)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (1794)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (1330)
+Seat 10: chhhh (3676)
+*** ANTE/BLINDS ***
+chhhh posts small blind 40
+Vascia posts big blind 80
+Dealt to sabre_laser [3c 9c]
+*** PRE-FLOP *** 
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 80
+chhhh raises 120 to 200
+Vascia folds
+florian63450 folds
+chhhh collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 10: chhhh (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #540677889406795777-12-1438030017 - Holdem no limit (40/80) - 2015/07/27 20:46:57 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #10 is the button
+Seat 2: Vascia (295)
+Seat 3: -Gandalf- (1465)
+Seat 4: sabre_laser (1600)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (1794)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (1250)
+Seat 10: chhhh (3836)
+*** ANTE/BLINDS ***
+Vascia posts small blind 40
+-Gandalf- posts big blind 80
+Dealt to sabre_laser [Kd Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+Simatis06270 raises 80 to 160
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 160
+chhhh folds
+Vascia folds
+-Gandalf- folds
+*** FLOP *** [2d Tc Kh]
+Simatis06270 bets 80
+florian63450 calls 80
+*** TURN *** [2d Tc Kh][7d]
+Simatis06270 bets 80
+florian63450 calls 80
+*** RIVER *** [2d Tc Kh 7d][Th]
+Simatis06270 bets 120
+florian63450 folds
+Simatis06270 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [2d Tc Kh 7d Th]
+Seat 6: Simatis06270 won 880
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540677889406795777-13-1438030086 - Holdem no limit (60/120) - 2015/07/27 20:48:06 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Vascia (255)
+Seat 3: -Gandalf- (1385)
+Seat 4: sabre_laser (1600)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (2234)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (930)
+Seat 10: chhhh (3836)
+*** ANTE/BLINDS ***
+-Gandalf- posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [7c Qs]
+*** PRE-FLOP *** 
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 120
+chhhh calls 120
+Vascia folds
+-Gandalf- folds
+sabre_laser checks
+*** FLOP *** [Ad Th Qc]
+sabre_laser checks
+florian63450 bets 120
+chhhh folds
+sabre_laser calls 120
+*** TURN *** [Ad Th Qc][3d]
+sabre_laser checks
+florian63450 bets 120
+sabre_laser raises 1240 to 1360 and is all-in
+florian63450 calls 570 and is all-in
+*** RIVER *** [Ad Th Qc 3d][Td]
+*** SHOW DOWN ***
+florian63450 shows [As 2d] (Two pairs : Aces and Tens)
+sabre_laser shows [7c Qs] (Two pairs : Queens and Tens)
+sabre_laser collected 670 from side pot 1
+florian63450 collected 2040 from main pot
+*** SUMMARY ***
+Total pot 2710 | No rake
+Board: [Ad Th Qc 3d Td]
+Seat 4: sabre_laser (big blind) showed [7c Qs] and won 670 with Two pairs : Queens and Tens
+Seat 9: florian63450 showed [As 2d] and won 2040 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540677889406795777-14-1438030176 - Holdem no limit (60/120) - 2015/07/27 20:49:36 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Vascia (255)
+Seat 3: -Gandalf- (1325)
+Seat 4: sabre_laser (670)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (2234)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (2040)
+Seat 10: chhhh (3716)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Crisssis posts big blind 120
+Dealt to sabre_laser [3s 9c]
+*** PRE-FLOP *** 
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh folds
+Vascia folds
+-Gandalf- folds
+sabre_laser folds
+Crisssis collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 5: Crisssis (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #540677889406795777-15-1438030215 - Holdem no limit (60/120) - 2015/07/27 20:50:15 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Vascia (255)
+Seat 3: -Gandalf- (1325)
+Seat 4: sabre_laser (610)
+Seat 5: Crisssis (1430)
+Seat 6: Simatis06270 (2234)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (2040)
+Seat 10: chhhh (3716)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 60
+Simatis06270 posts big blind 120
+Dealt to sabre_laser [5c 4d]
+*** PRE-FLOP *** 
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh calls 120
+Vascia raises 135 to 255 and is all-in
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 calls 135
+chhhh calls 135
+*** FLOP *** [2h 9h 9s]
+Simatis06270 bets 120
+chhhh calls 120
+*** TURN *** [2h 9h 9s][7d]
+Simatis06270 bets 120
+chhhh calls 120
+*** RIVER *** [2h 9h 9s 7d][8c]
+Simatis06270 bets 180
+chhhh folds
+*** SHOW DOWN ***
+Vascia shows [Ah 8d] (Two pairs : 9 and 8)
+Simatis06270 shows [Ts Qh] (One pair : 9)
+Simatis06270 collected 660 from side pot 1
+Vascia collected 825 from main pot
+*** SUMMARY ***
+Total pot 1485 | No rake
+Board: [2h 9h 9s 7d 8c]
+Seat 2: Vascia showed [Ah 8d] and won 825 with Two pairs : 9 and 8
+Seat 6: Simatis06270 (big blind) showed [Ts Qh] and won 660 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540677889406795777-16-1438030270 - Holdem no limit (80/160) - 2015/07/27 20:51:10 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Vascia (825)
+Seat 3: -Gandalf- (1325)
+Seat 4: sabre_laser (610)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (2219)
+Seat 7: Tamata40 (1430)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (2040)
+Seat 10: chhhh (3221)
+*** ANTE/BLINDS ***
+Simatis06270 posts small blind 80
+Tamata40 posts big blind 160
+Dealt to sabre_laser [3s 9h]
+*** PRE-FLOP *** 
+JoColbertino folds
+florian63450 folds
+chhhh folds
+Vascia calls 160
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 checks
+*** FLOP *** [5c Ac 7s]
+Tamata40 checks
+Vascia checks
+*** TURN *** [5c Ac 7s][6c]
+Tamata40 checks
+Vascia bets 400
+Tamata40 folds
+Vascia collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [5c Ac 7s 6c]
+Seat 2: Vascia won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540677889406795777-17-1438030317 - Holdem no limit (80/160) - 2015/07/27 20:51:57 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Vascia (1065)
+Seat 3: -Gandalf- (1325)
+Seat 4: sabre_laser (610)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (2139)
+Seat 7: Tamata40 (1270)
+Seat 8: JoColbertino (1960)
+Seat 9: florian63450 (2040)
+Seat 10: chhhh (3221)
+*** ANTE/BLINDS ***
+Tamata40 posts small blind 80
+JoColbertino posts big blind 160
+Dealt to sabre_laser [5c 3c]
+*** PRE-FLOP *** 
+florian63450 folds
+chhhh calls 160
+Vascia raises 905 to 1065 and is all-in
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+chhhh calls 905
+*** FLOP *** [7d Ts 6d]
+*** TURN *** [7d Ts 6d][6h]
+*** RIVER *** [7d Ts 6d 6h][9h]
+*** SHOW DOWN ***
+Vascia shows [Qs Qc] (Two pairs : Queens and 6)
+chhhh shows [6c As] (Trips of 6)
+chhhh collected 2370 from pot
+*** SUMMARY ***
+Total pot 2370 | No rake
+Board: [7d Ts 6d 6h 9h]
+Seat 2: Vascia showed [Qs Qc] and lost with Two pairs : Queens and 6
+Seat 10: chhhh showed [6c As] and won 2370 with Trips of 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #540677889406795777-18-1438030376 - Holdem no limit (80/160) - 2015/07/27 20:52:56 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #7 is the button
+Seat 3: -Gandalf- (1325)
+Seat 4: sabre_laser (610)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (2139)
+Seat 7: Tamata40 (1190)
+Seat 8: JoColbertino (1800)
+Seat 9: florian63450 (2040)
+Seat 10: chhhh (4526)
+*** ANTE/BLINDS ***
+JoColbertino posts small blind 80
+florian63450 posts big blind 160
+Dealt to sabre_laser [Qd Qc]
+*** PRE-FLOP *** 
+chhhh calls 160
+-Gandalf- folds
+sabre_laser raises 450 to 610 and is all-in
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh calls 450
+*** FLOP *** [8d 7c 5h]
+*** TURN *** [8d 7c 5h][9h]
+*** RIVER *** [8d 7c 5h 9h][Ts]
+*** SHOW DOWN ***
+chhhh shows [4h 4s] (One pair : 4)
+sabre_laser shows [Qd Qc] (One pair : Queens)
+sabre_laser collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [8d 7c 5h 9h Ts]
+Seat 4: sabre_laser showed [Qd Qc] and won 1460 with One pair : Queens
+Seat 10: chhhh showed [4h 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540677889406795777-19-1438030441 - Holdem no limit (10/100/200) - 2015/07/27 20:54:01 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #8 is the button
+Seat 3: -Gandalf- (1325)
+Seat 4: sabre_laser (1460)
+Seat 5: Crisssis (1370)
+Seat 6: Simatis06270 (2139)
+Seat 7: Tamata40 (1190)
+Seat 8: JoColbertino (1720)
+Seat 9: florian63450 (1880)
+Seat 10: chhhh (3916)
+*** ANTE/BLINDS ***
+florian63450 posts ante 10
+chhhh posts ante 10
+-Gandalf- posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+Simatis06270 posts ante 10
+Tamata40 posts ante 10
+JoColbertino posts ante 10
+florian63450 posts small blind 100
+chhhh posts big blind 200
+Dealt to sabre_laser [5c 4h]
+*** PRE-FLOP *** 
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 raises 300 to 500
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh folds
+Simatis06270 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Seat 6: Simatis06270 won 880
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540677889406795777-20-1438030474 - Holdem no limit (10/100/200) - 2015/07/27 20:54:34 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #9 is the button
+Seat 3: -Gandalf- (1315)
+Seat 4: sabre_laser (1450)
+Seat 5: Crisssis (1360)
+Seat 6: Simatis06270 (2509)
+Seat 7: Tamata40 (1180)
+Seat 8: JoColbertino (1710)
+Seat 9: florian63450 (1770)
+Seat 10: chhhh (3706)
+*** ANTE/BLINDS ***
+chhhh posts ante 10
+-Gandalf- posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+Simatis06270 posts ante 10
+Tamata40 posts ante 10
+JoColbertino posts ante 10
+florian63450 posts ante 10
+chhhh posts small blind 100
+-Gandalf- posts big blind 200
+Dealt to sabre_laser [5d 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 calls 200
+chhhh calls 100
+-Gandalf- checks
+*** FLOP *** [5s 6h Jh]
+chhhh checks
+-Gandalf- checks
+florian63450 checks
+*** TURN *** [5s 6h Jh][4s]
+chhhh checks
+-Gandalf- checks
+florian63450 checks
+*** RIVER *** [5s 6h Jh 4s][Tc]
+chhhh checks
+-Gandalf- checks
+florian63450 checks
+*** SHOW DOWN ***
+-Gandalf- shows [8c Kd] (High card : King)
+chhhh shows [Kh 9c] (High card : King)
+florian63450 shows [8h Ac] (High card : Ace)
+florian63450 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [5s 6h Jh 4s Tc]
+Seat 3: -Gandalf- (big blind) showed [8c Kd] and lost with High card : King
+Seat 9: florian63450 (button) showed [8h Ac] and won 680 with High card : Ace
+Seat 10: chhhh (small blind) showed [Kh 9c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540677889406795777-21-1438030574 - Holdem no limit (10/100/200) - 2015/07/27 20:56:14 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #10 is the button
+Seat 3: -Gandalf- (1105)
+Seat 4: sabre_laser (1440)
+Seat 5: Crisssis (1350)
+Seat 6: Simatis06270 (2499)
+Seat 7: Tamata40 (1170)
+Seat 8: JoColbertino (1700)
+Seat 9: florian63450 (2240)
+Seat 10: chhhh (3496)
+*** ANTE/BLINDS ***
+-Gandalf- posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+Simatis06270 posts ante 10
+Tamata40 posts ante 10
+JoColbertino posts ante 10
+florian63450 posts ante 10
+chhhh posts ante 10
+-Gandalf- posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [5d 6c]
+*** PRE-FLOP *** 
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh calls 200
+-Gandalf- raises 895 to 1095 and is all-in
+sabre_laser folds
+chhhh calls 895
+*** FLOP *** [As Ad 8d]
+*** TURN *** [As Ad 8d][Jd]
+*** RIVER *** [As Ad 8d Jd][Ts]
+*** SHOW DOWN ***
+chhhh shows [Kd Th] (Two pairs : Aces and Tens)
+-Gandalf- shows [Ah 9c] (Trips of Aces)
+-Gandalf- collected 2470 from pot
+*** SUMMARY ***
+Total pot 2470 | No rake
+Board: [As Ad 8d Jd Ts]
+Seat 3: -Gandalf- (small blind) showed [Ah 9c] and won 2470 with Trips of Aces
+Seat 10: chhhh (button) showed [Kd Th] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #540677889406795777-22-1438030612 - Holdem no limit (10/100/200) - 2015/07/27 20:56:52 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #3 is the button
+Seat 3: -Gandalf- (2470)
+Seat 4: sabre_laser (1230)
+Seat 5: Crisssis (1340)
+Seat 6: Simatis06270 (2489)
+Seat 7: Tamata40 (1160)
+Seat 8: JoColbertino (1690)
+Seat 9: florian63450 (2230)
+Seat 10: chhhh (2391)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Crisssis posts ante 10
+-Gandalf- posts ante 10
+Simatis06270 posts ante 10
+Tamata40 posts ante 10
+JoColbertino posts ante 10
+florian63450 posts ante 10
+chhhh posts ante 10
+sabre_laser posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [7d Jh]
+*** PRE-FLOP *** 
+Simatis06270 calls 200
+Tamata40 folds
+JoColbertino folds
+florian63450 folds
+chhhh folds
+-Gandalf- folds
+sabre_laser calls 100
+Crisssis checks
+*** FLOP *** [8s 5d 9h]
+sabre_laser checks
+Crisssis checks
+Simatis06270 bets 200
+sabre_laser calls 200
+Crisssis folds
+*** TURN *** [8s 5d 9h][4d]
+sabre_laser checks
+Simatis06270 bets 200
+sabre_laser folds
+Simatis06270 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [8s 5d 9h 4d]
+Seat 6: Simatis06270 won 1280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540677889406795777-23-1438030711 - Holdem no limit (20/150/300) - 2015/07/27 20:58:31 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #4 is the button
+Seat 3: -Gandalf- (2460)
+Seat 4: sabre_laser (820)
+Seat 5: Crisssis (1130)
+Seat 6: Simatis06270 (3159)
+Seat 7: Tamata40 (1150)
+Seat 8: JoColbertino (1680)
+Seat 9: florian63450 (2220)
+Seat 10: chhhh (2381)
+*** ANTE/BLINDS ***
+Crisssis posts ante 20
+Simatis06270 posts ante 20
+-Gandalf- posts ante 20
+sabre_laser posts ante 20
+Tamata40 posts ante 20
+JoColbertino posts ante 20
+florian63450 posts ante 20
+chhhh posts ante 20
+Crisssis posts small blind 150
+Simatis06270 posts big blind 300
+Dealt to sabre_laser [Jh 2d]
+*** PRE-FLOP *** 
+Tamata40 folds
+JoColbertino raises 300 to 600
+florian63450 calls 600
+chhhh folds
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+*** FLOP *** [8c Jd 6h]
+JoColbertino bets 1060 and is all-in
+florian63450 calls 1060
+*** TURN *** [8c Jd 6h][4s]
+*** RIVER *** [8c Jd 6h 4s][Qh]
+*** SHOW DOWN ***
+florian63450 shows [Ad Ks] (High card : Ace)
+JoColbertino shows [Qd Ah] (One pair : Queens)
+JoColbertino collected 3930 from pot
+*** SUMMARY ***
+Total pot 3930 | No rake
+Board: [8c Jd 6h 4s Qh]
+Seat 8: JoColbertino showed [Qd Ah] and won 3930 with One pair : Queens
+Seat 9: florian63450 showed [Ad Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #540677889406795777-24-1438030770 - Holdem no limit (20/150/300) - 2015/07/27 20:59:30 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #5 is the button
+Seat 3: -Gandalf- (2440)
+Seat 4: sabre_laser (800)
+Seat 5: Crisssis (960)
+Seat 6: Simatis06270 (2839)
+Seat 7: Tamata40 (1130)
+Seat 8: JoColbertino (3930)
+Seat 9: florian63450 (540)
+Seat 10: chhhh (2361)
+*** ANTE/BLINDS ***
+Simatis06270 posts ante 20
+Tamata40 posts ante 20
+-Gandalf- posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+JoColbertino posts ante 20
+florian63450 posts ante 20
+chhhh posts ante 20
+Simatis06270 posts small blind 150
+Tamata40 posts big blind 300
+Dealt to sabre_laser [7h 8d]
+*** PRE-FLOP *** 
+JoColbertino folds
+florian63450 calls 300
+chhhh folds
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 raises 810 to 1110 and is all-in
+florian63450 calls 220 and is all-in
+*** FLOP *** [Qd 9d 3d]
+*** TURN *** [Qd 9d 3d][8s]
+*** RIVER *** [Qd 9d 3d 8s][Jd]
+*** SHOW DOWN ***
+florian63450 shows [Qh 2d] (Flush Queen high)
+Tamata40 shows [Jh Ks] (One pair : Jacks)
+Tamata40 collected 590 from side pot 1
+florian63450 collected 1350 from main pot
+*** SUMMARY ***
+Total pot 1940 | No rake
+Board: [Qd 9d 3d 8s Jd]
+Seat 7: Tamata40 (big blind) showed [Jh Ks] and won 590 with One pair : Jacks
+Seat 9: florian63450 showed [Qh 2d] and won 1350 with Flush Queen high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540677889406795777-25-1438030813 - Holdem no limit (50/200/400) - 2015/07/27 21:00:13 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #6 is the button
+Seat 3: -Gandalf- (2420)
+Seat 4: sabre_laser (780)
+Seat 5: Crisssis (940)
+Seat 6: Simatis06270 (2669)
+Seat 7: Tamata40 (590)
+Seat 8: JoColbertino (3910)
+Seat 9: florian63450 (1350)
+Seat 10: chhhh (2341)
+*** ANTE/BLINDS ***
+Tamata40 posts ante 50
+JoColbertino posts ante 50
+-Gandalf- posts ante 50
+sabre_laser posts ante 50
+Crisssis posts ante 50
+Simatis06270 posts ante 50
+florian63450 posts ante 50
+chhhh posts ante 50
+Tamata40 posts small blind 200
+JoColbertino posts big blind 400
+Dealt to sabre_laser [6s Th]
+*** PRE-FLOP *** 
+florian63450 calls 400
+chhhh folds
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+Tamata40 folds
+JoColbertino checks
+*** FLOP *** [9c 5c 2h]
+JoColbertino checks
+florian63450 checks
+*** TURN *** [9c 5c 2h][2c]
+JoColbertino checks
+florian63450 checks
+*** RIVER *** [9c 5c 2h 2c][Jc]
+JoColbertino bets 400
+florian63450 raises 500 to 900 and is all-in
+JoColbertino folds
+florian63450 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [9c 5c 2h 2c Jc]
+Seat 9: florian63450 won 2700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540677889406795777-26-1438030876 - Holdem no limit (50/200/400) - 2015/07/27 21:01:16 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #7 is the button
+Seat 3: -Gandalf- (2370)
+Seat 4: sabre_laser (730)
+Seat 5: Crisssis (890)
+Seat 6: Simatis06270 (2619)
+Seat 7: Tamata40 (340)
+Seat 8: JoColbertino (3060)
+Seat 9: florian63450 (2700)
+Seat 10: chhhh (2291)
+*** ANTE/BLINDS ***
+JoColbertino posts ante 50
+florian63450 posts ante 50
+-Gandalf- posts ante 50
+sabre_laser posts ante 50
+Crisssis posts ante 50
+Simatis06270 posts ante 50
+Tamata40 posts ante 50
+chhhh posts ante 50
+JoColbertino posts small blind 200
+florian63450 posts big blind 400
+Dealt to sabre_laser [Kd Ad]
+*** PRE-FLOP *** 
+chhhh calls 400
+-Gandalf- folds
+sabre_laser raises 280 to 680 and is all-in
+Crisssis folds
+Simatis06270 folds
+Tamata40 calls 290 and is all-in
+JoColbertino folds
+florian63450 calls 280
+chhhh calls 280
+*** FLOP *** [8c Ah Ts]
+florian63450 checks
+chhhh checks
+*** TURN *** [8c Ah Ts][6h]
+florian63450 bets 400
+chhhh calls 400
+*** RIVER *** [8c Ah Ts 6h][Jh]
+florian63450 bets 400
+chhhh folds
+*** SHOW DOWN ***
+Tamata40 shows [As 5s] (One pair : Aces)
+sabre_laser shows [Kd Ad] (One pair : Aces)
+florian63450 shows [Ac 5d] (One pair : Aces)
+florian63450 collected 1200 from side pot 1
+sabre_laser collected 2930 from main pot
+*** SUMMARY ***
+Total pot 4130 | No rake
+Board: [8c Ah Ts 6h Jh]
+Seat 4: sabre_laser showed [Kd Ad] and won 2930 with One pair : Aces
+Seat 7: Tamata40 (button) showed [As 5s] and lost with One pair : Aces
+Seat 9: florian63450 (big blind) showed [Ac 5d] and won 1200 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #540677889406795777-27-1438030953 - Holdem no limit (50/200/400) - 2015/07/27 21:02:33 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #8 is the button
+Seat 3: -Gandalf- (2320)
+Seat 4: sabre_laser (2930)
+Seat 5: Crisssis (840)
+Seat 6: Simatis06270 (2569)
+Seat 8: JoColbertino (2810)
+Seat 9: florian63450 (2370)
+Seat 10: chhhh (1161)
+*** ANTE/BLINDS ***
+florian63450 posts ante 50
+chhhh posts ante 50
+-Gandalf- posts ante 50
+sabre_laser posts ante 50
+Crisssis posts ante 50
+Simatis06270 posts ante 50
+JoColbertino posts ante 50
+florian63450 posts small blind 200
+chhhh posts big blind 400
+Dealt to sabre_laser [4d 4c]
+*** PRE-FLOP *** 
+-Gandalf- folds
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+JoColbertino folds
+florian63450 calls 200
+chhhh checks
+*** FLOP *** [3d Ks 2s]
+florian63450 checks
+chhhh bets 400
+florian63450 folds
+chhhh shows [2d 2h] (Trips of 2)
+chhhh collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [3d Ks 2s]
+Seat 10: chhhh (big blind) showed [2d 2h] and won 1550 with Trips of 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #540677889406795777-28-1438031014 - Holdem no limit (75/300/600) - 2015/07/27 21:03:34 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #9 is the button
+Seat 3: -Gandalf- (2270)
+Seat 4: sabre_laser (2880)
+Seat 5: Crisssis (790)
+Seat 6: Simatis06270 (2519)
+Seat 8: JoColbertino (2760)
+Seat 9: florian63450 (1920)
+Seat 10: chhhh (1861)
+*** ANTE/BLINDS ***
+chhhh posts ante 75
+-Gandalf- posts ante 75
+sabre_laser posts ante 75
+Crisssis posts ante 75
+Simatis06270 posts ante 75
+JoColbertino posts ante 75
+florian63450 posts ante 75
+chhhh posts small blind 300
+-Gandalf- posts big blind 600
+Dealt to sabre_laser [Jd 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+Simatis06270 folds
+JoColbertino folds
+florian63450 calls 600
+chhhh raises 900 to 1500
+-Gandalf- folds
+florian63450 calls 900
+*** FLOP *** [2h Ad 6c]
+chhhh bets 286 and is all-in
+florian63450 calls 286
+*** TURN *** [2h Ad 6c][3d]
+*** RIVER *** [2h Ad 6c 3d][Tc]
+*** SHOW DOWN ***
+florian63450 shows [5h 5d] (One pair : 5)
+chhhh shows [As Ac] (Trips of Aces)
+chhhh collected 4697 from pot
+*** SUMMARY ***
+Total pot 4697 | No rake
+Board: [2h Ad 6c 3d Tc]
+Seat 9: florian63450 (button) showed [5h 5d] and lost with One pair : 5
+Seat 10: chhhh (small blind) showed [As Ac] and won 4697 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #540677889406795777-29-1438031075 - Holdem no limit (75/300/600) - 2015/07/27 21:04:35 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #10 is the button
+Seat 3: -Gandalf- (1595)
+Seat 4: sabre_laser (2805)
+Seat 5: Crisssis (715)
+Seat 6: Simatis06270 (2444)
+Seat 8: JoColbertino (2685)
+Seat 9: florian63450 (59)
+Seat 10: chhhh (4697)
+*** ANTE/BLINDS ***
+-Gandalf- posts ante 75
+sabre_laser posts ante 75
+Crisssis posts ante 75
+Simatis06270 posts ante 75
+JoColbertino posts ante 75
+florian63450 posts ante 59 and is all-in
+chhhh posts ante 75
+-Gandalf- posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [3s Tc]
+*** PRE-FLOP *** 
+Crisssis folds
+Simatis06270 folds
+JoColbertino folds
+chhhh folds
+-Gandalf- folds
+*** FLOP *** [7h 6h 4c]
+*** TURN *** [7h 6h 4c][Ac]
+*** RIVER *** [7h 6h 4c Ac][7s]
+*** SHOW DOWN ***
+florian63450 shows [2d Ad] (Two pairs : Aces and 7)
+sabre_laser shows [3s Tc] (One pair : 7)
+sabre_laser collected 996 from side pot 1
+florian63450 collected 413 from main pot
+*** SUMMARY ***
+Total pot 1409 | No rake
+Board: [7h 6h 4c Ac 7s]
+Seat 4: sabre_laser (big blind) showed [3s Tc] and won 996 with One pair : 7
+Seat 9: florian63450 showed [2d Ad] and won 413 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #540677889406795777-30-1438031095 - Holdem no limit (75/300/600) - 2015/07/27 21:04:55 UTC
+Table: 'Double or Nothing(125886381)#0' 10-max (real money) Seat #3 is the button
+Seat 3: -Gandalf- (1220)
+Seat 4: sabre_laser (3126)
+Seat 5: Crisssis (640)
+Seat 6: Simatis06270 (2369)
+Seat 8: JoColbertino (2610)
+Seat 9: florian63450 (413)
+Seat 10: chhhh (4622)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+Crisssis posts ante 75
+-Gandalf- posts ante 75
+Simatis06270 posts ante 75
+JoColbertino posts ante 75
+florian63450 posts ante 75
+chhhh posts ante 75
+sabre_laser posts small blind 300
+Crisssis posts big blind 565 and is all-in
+Dealt to sabre_laser [8h Td]
+*** PRE-FLOP *** 
+Simatis06270 folds
+JoColbertino folds
+florian63450 calls 338 and is all-in
+chhhh folds
+-Gandalf- folds
+sabre_laser calls 300
+*** FLOP *** [Ad 3h Ts]
+*** TURN *** [Ad 3h Ts][3c]
+*** RIVER *** [Ad 3h Ts 3c][7d]
+*** SHOW DOWN ***
+Crisssis shows [4h 2c] (One pair : 3)
+florian63450 shows [8c Jc] (One pair : 3)
+sabre_laser shows [8h Td] (Two pairs : Tens and 3)
+sabre_laser collected 2028 from pot
+*** SUMMARY ***
+Total pot 2028 | No rake
+Board: [Ad 3h Ts 3c 7d]
+Seat 4: sabre_laser (small blind) showed [8h Td] and won 2028 with Two pairs : Tens and 3
+Seat 5: Crisssis (big blind) showed [4h 2c] and lost with One pair : 3
+Seat 9: florian63450 showed [8c Jc] and lost with One pair : 3
+
+

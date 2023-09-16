@@ -1,0 +1,68 @@
+#include "containers/algorithms.hpp" // forEach
+#include "containers/Map.hpp"
+#include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, FileTime, Path, String, toString, count
+#include "language/assert.hpp" // phudAssert
+#include "log/Logger.hpp" // CURRENT_FILE_NAME
+#include "system/ErrorCode.hpp" // isOk
+#include "threads/PeriodicTask.hpp"
+
+static Logger LOG { CURRENT_FILE_NAME };
+
+struct [[nodiscard]] FileWatcher::Implementation final {
+  Path m_file;
+  ErrorCode m_errorCode {};
+  // note: as of C++ 17, there is no portable way to unify FileTime and Time :(
+  // note: impossible to use Path as a map key
+  FileTime m_lastModifDate;
+  PeriodicTask m_task;
+
+  Implementation(std::chrono::milliseconds reloadPeriod, const Path& file) :
+    m_file { file },
+    m_lastModifDate { std::filesystem::last_write_time(file, m_errorCode) },
+    m_task { reloadPeriod, CURRENT_FILE_NAME } {
+    if (!isOk(m_errorCode)) {
+      LOG.error<"Error getting last write time for file {} in directory {}: {}">(
+        file.string(), file.parent_path().string(), m_errorCode.message());
+    }
+  }
+  Implementation(int, auto) = delete; // use only path
+};
+
+// look at the file, take its last modification date, if it has changed notify
+// the listener through the callback
+static inline void getLatestUpdatedFile(const Path& file,
+                                        FileTime& lastModified, auto&& fileHasChangedCb) {
+  ErrorCode ec;
+
+  if (const auto & lasWriteTime { std::filesystem::last_write_time(file, ec) }; isOk(ec)) {
+    if (lastModified != lasWriteTime) {
+      lastModified = lasWriteTime;
+      LOG.info<"The file\n{}\nhas changed, notify listener">(file.string());
+      std::forward<decltype(fileHasChangedCb)>(fileHasChangedCb)(file);
+    }
+  } else [[unlikely]] {
+      LOG.error<"Error checking if the file {} has changed: ">(file.string(), ec.message());
+    }
+  }
+static inline void getLatestUpdatedFile(auto, FileTime&, auto&&) = delete;
+
+FileWatcher::FileWatcher(std::chrono::milliseconds reloadPeriod, const Path& file)
+  : m_pImpl{ mkUptr<FileWatcher::Implementation>(reloadPeriod, file) } {
+  phudAssert(phud::filesystem::isFile(m_pImpl->m_file),
+             "the file provided to FileWatcher() is not valid.");
+  LOG.info<"will watch the file {} every {}ms">(m_pImpl->m_file.string(), reloadPeriod.count());
+}
+
+FileWatcher::~FileWatcher() = default;
+
+void FileWatcher::start(std::function<void(const Path&)> fileHasChangedCb) {
+  phudAssert(nullptr != fileHasChangedCb, "null callback in FileWatcher::start()");
+  m_pImpl->m_task.start([this, fileHasChangedCb]() {
+    getLatestUpdatedFile(m_pImpl->m_file, m_pImpl->m_lastModifDate, fileHasChangedCb);
+    return !isStopped();
+  });
+}
+
+void FileWatcher::stop() { m_pImpl->m_task.stop(); }
+
+/*[[nodiscard]]*/ bool FileWatcher::isStopped() const noexcept { return m_pImpl->m_task.isStopped(); }

@@ -1,0 +1,826 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #490700331395579905-1-1427479676 - Holdem no limit (10/20) - 2015/03/27 18:07:56 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #3 is the button
+Seat 1: dpechon (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: bonome14 (1500)
+Seat 4: rienacirer (1500)
+Seat 5: Dampkringz (1500)
+Seat 6: mila93500 (1500)
+Seat 7: guilastuce95 (1500)
+Seat 8: GHISLMARC (1500)
+Seat 9: emilie49000 (1500)
+Seat 10: axou1391 (1500)
+*** ANTE/BLINDS ***
+rienacirer posts small blind 10
+Dampkringz posts big blind 20
+Dealt to sabre_laser [Qd Kc]
+*** PRE-FLOP *** 
+mila93500 folds
+guilastuce95 folds
+GHISLMARC calls 20
+emilie49000 folds
+axou1391 folds
+dpechon folds
+sabre_laser folds
+bonome14 folds
+rienacirer raises 80 to 100
+Dampkringz folds
+GHISLMARC calls 80
+*** FLOP *** [Qc Ah 3d]
+rienacirer checks
+GHISLMARC bets 220
+rienacirer calls 220
+*** TURN *** [Qc Ah 3d][9d]
+rienacirer checks
+GHISLMARC bets 660
+rienacirer raises 520 to 1180 and is all-in
+GHISLMARC calls 520 and is all-in
+*** RIVER *** [Qc Ah 3d 9d][2d]
+*** SHOW DOWN ***
+rienacirer shows [Ks Ac] (One pair : Aces)
+GHISLMARC shows [3s 3h] (Trips of 3)
+GHISLMARC collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [Qc Ah 3d 9d 2d]
+Seat 4: rienacirer (small blind) showed [Ks Ac] and lost with One pair : Aces
+Seat 8: GHISLMARC showed [3s 3h] and won 3020 with Trips of 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #490700331395579905-2-1427479743 - Holdem no limit (10/20) - 2015/03/27 18:09:03 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #4 is the button
+Seat 1: dpechon (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: bonome14 (1500)
+Seat 5: Dampkringz (1480)
+Seat 6: mila93500 (1500)
+Seat 7: guilastuce95 (1500)
+Seat 8: GHISLMARC (3020)
+Seat 9: emilie49000 (1500)
+Seat 10: axou1391 (1500)
+*** ANTE/BLINDS ***
+Dampkringz posts small blind 10
+mila93500 posts big blind 20
+Dealt to sabre_laser [3d As]
+*** PRE-FLOP *** 
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+axou1391 folds
+dpechon folds
+sabre_laser folds
+bonome14 calls 20
+Dampkringz folds
+mila93500 checks
+*** FLOP *** [5c 8h 3h]
+mila93500 checks
+bonome14 checks
+*** TURN *** [5c 8h 3h][2c]
+mila93500 bets 30
+bonome14 folds
+mila93500 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5c 8h 3h 2c]
+Seat 6: mila93500 (big blind) won 80
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #490700331395579905-3-1427479787 - Holdem no limit (10/20) - 2015/03/27 18:09:47 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #5 is the button
+Seat 1: dpechon (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: bonome14 (1480)
+Seat 5: Dampkringz (1470)
+Seat 6: mila93500 (1530)
+Seat 7: guilastuce95 (1500)
+Seat 8: GHISLMARC (3020)
+Seat 9: emilie49000 (1500)
+Seat 10: axou1391 (1500)
+*** ANTE/BLINDS ***
+mila93500 posts small blind 10
+guilastuce95 posts big blind 20
+Dealt to sabre_laser [Ad 3s]
+*** PRE-FLOP *** 
+GHISLMARC folds
+emilie49000 folds
+axou1391 folds
+dpechon folds
+sabre_laser folds
+bonome14 calls 20
+Dampkringz folds
+mila93500 calls 10
+guilastuce95 raises 80 to 100
+bonome14 calls 80
+mila93500 calls 80
+*** FLOP *** [8c 6h Js]
+mila93500 checks
+guilastuce95 bets 200
+bonome14 calls 200
+mila93500 calls 200
+*** TURN *** [8c 6h Js][7s]
+mila93500 bets 1230 and is all-in
+guilastuce95 folds
+bonome14 calls 1180 and is all-in
+*** RIVER *** [8c 6h Js 7s][9s]
+*** SHOW DOWN ***
+bonome14 shows [Th Qd] (Straight Queen high)
+mila93500 shows [9c 6c] (Two pairs : 9 and 6)
+mila93500 collected 50 from side pot 1
+bonome14 collected 3260 from main pot
+*** SUMMARY ***
+Total pot 3310 | No rake
+Board: [8c 6h Js 7s 9s]
+Seat 3: bonome14 showed [Th Qd] and won 3260 with Straight Queen high
+Seat 6: mila93500 (small blind) showed [9c 6c] and won 50 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #490700331395579905-4-1427479853 - Holdem no limit (10/20) - 2015/03/27 18:10:53 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #6 is the button
+Seat 1: dpechon (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: bonome14 (3260)
+Seat 5: Dampkringz (1470)
+Seat 6: mila93500 (50)
+Seat 7: guilastuce95 (1200)
+Seat 8: GHISLMARC (3020)
+Seat 9: emilie49000 (1500)
+Seat 10: axou1391 (1500)
+*** ANTE/BLINDS ***
+guilastuce95 posts small blind 10
+GHISLMARC posts big blind 20
+Dealt to sabre_laser [3s 3d]
+*** PRE-FLOP *** 
+emilie49000 folds
+axou1391 folds
+dpechon folds
+sabre_laser calls 20
+bonome14 calls 20
+Dampkringz calls 20
+mila93500 folds
+guilastuce95 folds
+GHISLMARC checks
+*** FLOP *** [Ah 6d As]
+GHISLMARC checks
+sabre_laser checks
+bonome14 checks
+Dampkringz checks
+*** TURN *** [Ah 6d As][8s]
+GHISLMARC bets 90
+sabre_laser folds
+bonome14 calls 90
+Dampkringz folds
+*** RIVER *** [Ah 6d As 8s][Jh]
+GHISLMARC bets 270
+bonome14 folds
+GHISLMARC collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ah 6d As 8s Jh]
+Seat 8: GHISLMARC (big blind) won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #490700331395579905-5-1427479953 - Holdem no limit (10/20) - 2015/03/27 18:12:33 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #7 is the button
+Seat 1: dpechon (1500)
+Seat 2: sabre_laser (1480)
+Seat 3: bonome14 (3150)
+Seat 5: Dampkringz (1450)
+Seat 6: mila93500 (50)
+Seat 7: guilastuce95 (1190)
+Seat 8: GHISLMARC (3180)
+Seat 9: emilie49000 (1500)
+Seat 10: axou1391 (1500)
+*** ANTE/BLINDS ***
+GHISLMARC posts small blind 10
+emilie49000 posts big blind 20
+Dealt to sabre_laser [Th 7d]
+*** PRE-FLOP *** 
+axou1391 folds
+dpechon folds
+sabre_laser folds
+bonome14 calls 20
+Dampkringz folds
+mila93500 folds
+guilastuce95 folds
+GHISLMARC calls 10
+emilie49000 checks
+*** FLOP *** [8h Qh 8s]
+GHISLMARC bets 70
+emilie49000 folds
+bonome14 calls 70
+*** TURN *** [8h Qh 8s][4s]
+GHISLMARC bets 200
+bonome14 folds
+GHISLMARC collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [8h Qh 8s 4s]
+Seat 8: GHISLMARC (small blind) won 400
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #490700331395579905-6-1427480002 - Holdem no limit (10/20) - 2015/03/27 18:13:22 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #8 is the button
+Seat 1: dpechon (1500)
+Seat 2: sabre_laser (1480)
+Seat 3: bonome14 (3060)
+Seat 5: Dampkringz (1450)
+Seat 6: mila93500 (50)
+Seat 7: guilastuce95 (1190)
+Seat 8: GHISLMARC (3290)
+Seat 9: emilie49000 (1480)
+Seat 10: axou1391 (1500)
+*** ANTE/BLINDS ***
+emilie49000 posts small blind 10
+axou1391 posts big blind 20
+Dealt to sabre_laser [4s 7c]
+*** PRE-FLOP *** 
+dpechon calls 20
+sabre_laser folds
+bonome14 raises 20 to 40
+Dampkringz folds
+mila93500 raises 10 to 50 and is all-in
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+axou1391 calls 30
+dpechon calls 30
+bonome14 calls 10
+*** FLOP *** [As 5d Qd]
+axou1391 checks
+dpechon checks
+bonome14 bets 80
+axou1391 folds
+dpechon folds
+*** TURN *** [As 5d Qd][Jh]
+*** RIVER *** [As 5d Qd Jh][Jd]
+*** SHOW DOWN ***
+mila93500 shows [3c Tc] (One pair : Jacks)
+bonome14 shows [Ac 5c] (Two pairs : Aces and Jacks)
+bonome14 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [As 5d Qd Jh Jd]
+Seat 3: bonome14 showed [Ac 5c] and won 290 with Two pairs : Aces and Jacks
+Seat 6: mila93500 showed [3c Tc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #490700331395579905-7-1427480076 - Holdem no limit (10/20) - 2015/03/27 18:14:36 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #9 is the button
+Seat 1: dpechon (1450)
+Seat 2: sabre_laser (1480)
+Seat 3: bonome14 (3220)
+Seat 5: Dampkringz (1450)
+Seat 7: guilastuce95 (1190)
+Seat 8: GHISLMARC (3290)
+Seat 9: emilie49000 (1470)
+Seat 10: axou1391 (1450)
+*** ANTE/BLINDS ***
+axou1391 posts small blind 10
+dpechon posts big blind 20
+Dealt to sabre_laser [3c 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+bonome14 calls 20
+Dampkringz folds
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+axou1391 calls 10
+dpechon checks
+*** FLOP *** [6h 9d Jh]
+axou1391 checks
+dpechon checks
+bonome14 bets 40
+axou1391 folds
+dpechon calls 40
+*** TURN *** [6h 9d Jh][Kc]
+dpechon checks
+bonome14 checks
+*** RIVER *** [6h 9d Jh Kc][5h]
+dpechon bets 70
+bonome14 folds
+dpechon collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [6h 9d Jh Kc 5h]
+Seat 1: dpechon (big blind) won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #490700331395579905-8-1427480178 - Holdem no limit (15/30) - 2015/03/27 18:16:18 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #10 is the button
+Seat 1: dpechon (1530)
+Seat 2: sabre_laser (1480)
+Seat 3: bonome14 (3160)
+Seat 5: Dampkringz (1450)
+Seat 7: guilastuce95 (1190)
+Seat 8: GHISLMARC (3290)
+Seat 9: emilie49000 (1470)
+Seat 10: axou1391 (1430)
+*** ANTE/BLINDS ***
+dpechon posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [2s Qs]
+*** PRE-FLOP *** 
+bonome14 raises 30 to 60
+Dampkringz calls 60
+guilastuce95 folds
+GHISLMARC calls 60
+emilie49000 folds
+axou1391 folds
+dpechon folds
+sabre_laser calls 30
+*** FLOP *** [4h 8c 4s]
+sabre_laser checks
+bonome14 bets 30
+Dampkringz folds
+GHISLMARC calls 30
+sabre_laser folds
+*** TURN *** [4h 8c 4s][8d]
+bonome14 checks
+GHISLMARC checks
+*** RIVER *** [4h 8c 4s 8d][6h]
+bonome14 checks
+GHISLMARC checks
+*** SHOW DOWN ***
+bonome14 shows [Kh Qh] (Two pairs : 8 and 4)
+GHISLMARC shows [As Qd] (Two pairs : 8 and 4)
+GHISLMARC collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [4h 8c 4s 8d 6h]
+Seat 3: bonome14 showed [Kh Qh] and lost with Two pairs : 8 and 4
+Seat 8: GHISLMARC showed [As Qd] and won 315 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #490700331395579905-9-1427480256 - Holdem no limit (15/30) - 2015/03/27 18:17:36 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #1 is the button
+Seat 1: dpechon (1515)
+Seat 2: sabre_laser (1420)
+Seat 3: bonome14 (3070)
+Seat 5: Dampkringz (1390)
+Seat 7: guilastuce95 (1190)
+Seat 8: GHISLMARC (3515)
+Seat 9: emilie49000 (1470)
+Seat 10: axou1391 (1430)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+bonome14 posts big blind 30
+Dealt to sabre_laser [Qd 8s]
+*** PRE-FLOP *** 
+Dampkringz calls 30
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 calls 30
+axou1391 calls 30
+dpechon folds
+sabre_laser calls 15
+bonome14 raises 30 to 60
+Dampkringz calls 30
+emilie49000 calls 30
+axou1391 calls 30
+sabre_laser calls 30
+*** FLOP *** [3d Jd 9c]
+sabre_laser checks
+bonome14 bets 30
+Dampkringz calls 30
+emilie49000 folds
+axou1391 folds
+sabre_laser calls 30
+*** TURN *** [3d Jd 9c][Ks]
+sabre_laser checks
+bonome14 bets 150
+Dampkringz folds
+sabre_laser folds
+bonome14 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3d Jd 9c Ks]
+Seat 3: bonome14 (big blind) won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #490700331395579905-10-1427480442 - Holdem no limit (15/30) - 2015/03/27 18:20:42 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #2 is the button
+Seat 1: dpechon (1515)
+Seat 2: sabre_laser (1330)
+Seat 3: bonome14 (3370)
+Seat 5: Dampkringz (1300)
+Seat 7: guilastuce95 (1190)
+Seat 8: GHISLMARC (3515)
+Seat 9: emilie49000 (1410)
+Seat 10: axou1391 (1370)
+*** ANTE/BLINDS ***
+bonome14 posts small blind 15
+Dampkringz posts big blind 30
+Dealt to sabre_laser [Tc Kd]
+*** PRE-FLOP *** 
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+axou1391 folds
+dpechon folds
+sabre_laser raises 30 to 60
+bonome14 calls 45
+Dampkringz calls 30
+*** FLOP *** [Qs 4s Ad]
+bonome14 bets 30
+Dampkringz calls 30
+sabre_laser raises 150 to 180
+bonome14 calls 150
+Dampkringz folds
+*** TURN *** [Qs 4s Ad][5s]
+bonome14 checks
+sabre_laser checks
+*** RIVER *** [Qs 4s Ad 5s][Kh]
+bonome14 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Tc Kd] (One pair : Kings)
+bonome14 shows [Ac 2s] (One pair : Aces)
+bonome14 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Qs 4s Ad 5s Kh]
+Seat 2: sabre_laser (button) showed [Tc Kd] and lost with One pair : Kings
+Seat 3: bonome14 (small blind) showed [Ac 2s] and won 570 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #490700331395579905-11-1427480533 - Holdem no limit (15/30) - 2015/03/27 18:22:13 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #3 is the button
+Seat 1: dpechon (1515)
+Seat 2: sabre_laser (1090)
+Seat 3: bonome14 (3700)
+Seat 5: Dampkringz (1210)
+Seat 7: guilastuce95 (1190)
+Seat 8: GHISLMARC (3515)
+Seat 9: emilie49000 (1410)
+Seat 10: axou1391 (1370)
+*** ANTE/BLINDS ***
+Dampkringz posts small blind 15
+guilastuce95 posts big blind 30
+Dealt to sabre_laser [9s Js]
+*** PRE-FLOP *** 
+GHISLMARC folds
+emilie49000 folds
+axou1391 calls 30
+dpechon calls 30
+sabre_laser folds
+bonome14 calls 30
+Dampkringz calls 15
+guilastuce95 checks
+*** FLOP *** [Jc Tc 8h]
+Dampkringz checks
+guilastuce95 checks
+axou1391 checks
+dpechon checks
+bonome14 bets 90
+Dampkringz folds
+guilastuce95 folds
+axou1391 calls 90
+dpechon folds
+*** TURN *** [Jc Tc 8h][2c]
+axou1391 checks
+bonome14 checks
+*** RIVER *** [Jc Tc 8h 2c][9d]
+axou1391 checks
+bonome14 bets 105
+axou1391 folds
+bonome14 shows [Qh 6d] (Straight Queen high)
+bonome14 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [Jc Tc 8h 2c 9d]
+Seat 3: bonome14 (button) showed [Qh 6d] and won 435 with Straight Queen high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #490700331395579905-12-1427480718 - Holdem no limit (20/40) - 2015/03/27 18:25:18 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #5 is the button
+Seat 1: dpechon (1485)
+Seat 2: sabre_laser (1090)
+Seat 3: bonome14 (3910)
+Seat 5: Dampkringz (1180)
+Seat 7: guilastuce95 (1160)
+Seat 8: GHISLMARC (3515)
+Seat 9: emilie49000 (1410)
+Seat 10: axou1391 (1250)
+*** ANTE/BLINDS ***
+guilastuce95 posts small blind 20
+GHISLMARC posts big blind 40
+Dealt to sabre_laser [Th 3c]
+*** PRE-FLOP *** 
+emilie49000 folds
+axou1391 folds
+dpechon calls 40
+sabre_laser folds
+bonome14 calls 40
+Dampkringz folds
+guilastuce95 calls 20
+GHISLMARC checks
+*** FLOP *** [Kc 5h 7h]
+guilastuce95 checks
+GHISLMARC checks
+dpechon checks
+bonome14 checks
+*** TURN *** [Kc 5h 7h][7d]
+guilastuce95 checks
+GHISLMARC checks
+dpechon checks
+bonome14 checks
+*** RIVER *** [Kc 5h 7h 7d][Qc]
+guilastuce95 checks
+GHISLMARC checks
+dpechon checks
+bonome14 checks
+*** SHOW DOWN ***
+dpechon shows [8h 9h] (One pair : 7)
+guilastuce95 shows [Jc Ah] (One pair : 7)
+GHISLMARC shows [3h Ac] (One pair : 7)
+bonome14 shows [5s 2c] (Two pairs : 7 and 5)
+bonome14 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kc 5h 7h 7d Qc]
+Seat 1: dpechon showed [8h 9h] and lost with One pair : 7
+Seat 3: bonome14 showed [5s 2c] and won 160 with Two pairs : 7 and 5
+Seat 7: guilastuce95 (small blind) showed [Jc Ah] and lost with One pair : 7
+Seat 8: GHISLMARC (big blind) showed [3h Ac] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #490700331395579905-13-1427480789 - Holdem no limit (20/40) - 2015/03/27 18:26:29 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #7 is the button
+Seat 1: dpechon (1445)
+Seat 2: sabre_laser (1090)
+Seat 3: bonome14 (4030)
+Seat 5: Dampkringz (1180)
+Seat 7: guilastuce95 (1120)
+Seat 8: GHISLMARC (3475)
+Seat 9: emilie49000 (1410)
+Seat 10: axou1391 (1250)
+*** ANTE/BLINDS ***
+GHISLMARC posts small blind 20
+emilie49000 posts big blind 40
+Dealt to sabre_laser [9s Qc]
+*** PRE-FLOP *** 
+axou1391 folds
+dpechon folds
+sabre_laser calls 40
+bonome14 raises 60 to 100
+Dampkringz folds
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+sabre_laser calls 60
+*** FLOP *** [Kc Ad 4s]
+sabre_laser checks
+bonome14 checks
+*** TURN *** [Kc Ad 4s][Ac]
+sabre_laser checks
+bonome14 checks
+*** RIVER *** [Kc Ad 4s Ac][Th]
+sabre_laser checks
+bonome14 bets 40
+sabre_laser folds
+bonome14 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kc Ad 4s Ac Th]
+Seat 3: bonome14 won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #490700331395579905-14-1427480895 - Holdem no limit (20/40) - 2015/03/27 18:28:15 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #8 is the button
+Seat 1: dpechon (1445)
+Seat 2: sabre_laser (990)
+Seat 3: bonome14 (4190)
+Seat 5: Dampkringz (1180)
+Seat 7: guilastuce95 (1120)
+Seat 8: GHISLMARC (3455)
+Seat 9: emilie49000 (1370)
+Seat 10: axou1391 (1250)
+*** ANTE/BLINDS ***
+emilie49000 posts small blind 20
+axou1391 posts big blind 40
+Dealt to sabre_laser [Ts 6c]
+*** PRE-FLOP *** 
+dpechon folds
+sabre_laser folds
+bonome14 calls 40
+Dampkringz folds
+guilastuce95 folds
+GHISLMARC calls 40
+emilie49000 folds
+axou1391 raises 80 to 120
+bonome14 calls 80
+GHISLMARC folds
+*** FLOP *** [3d 9s 8c]
+axou1391 bets 120
+bonome14 calls 120
+*** TURN *** [3d 9s 8c][2c]
+axou1391 checks
+bonome14 checks
+*** RIVER *** [3d 9s 8c 2c][Ah]
+axou1391 checks
+bonome14 checks
+*** SHOW DOWN ***
+axou1391 shows [Ks Qs] (High card : Ace)
+bonome14 shows [8d 5s] (One pair : 8)
+bonome14 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3d 9s 8c 2c Ah]
+Seat 3: bonome14 showed [8d 5s] and won 540 with One pair : 8
+Seat 10: axou1391 (big blind) showed [Ks Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #490700331395579905-15-1427480956 - Holdem no limit (20/40) - 2015/03/27 18:29:16 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #9 is the button
+Seat 1: dpechon (1445)
+Seat 2: sabre_laser (990)
+Seat 3: bonome14 (4490)
+Seat 5: Dampkringz (1180)
+Seat 7: guilastuce95 (1120)
+Seat 8: GHISLMARC (3415)
+Seat 9: emilie49000 (1350)
+Seat 10: axou1391 (1010)
+*** ANTE/BLINDS ***
+axou1391 posts small blind 20
+dpechon posts big blind 40
+Dealt to sabre_laser [Td 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+bonome14 calls 40
+Dampkringz calls 40
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+axou1391 calls 20
+dpechon checks
+*** FLOP *** [Qd Th Kd]
+axou1391 checks
+dpechon checks
+bonome14 checks
+Dampkringz checks
+*** TURN *** [Qd Th Kd][Ah]
+axou1391 checks
+dpechon checks
+bonome14 checks
+Dampkringz bets 120
+axou1391 folds
+dpechon folds
+bonome14 folds
+Dampkringz collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Qd Th Kd Ah]
+Seat 5: Dampkringz won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #490700331395579905-16-1427481058 - Holdem no limit (20/40) - 2015/03/27 18:30:58 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #10 is the button
+Seat 1: dpechon (1405)
+Seat 2: sabre_laser (990)
+Seat 3: bonome14 (4450)
+Seat 5: Dampkringz (1300)
+Seat 7: guilastuce95 (1120)
+Seat 8: GHISLMARC (3415)
+Seat 9: emilie49000 (1350)
+Seat 10: axou1391 (970)
+*** ANTE/BLINDS ***
+dpechon posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [8h 4h]
+*** PRE-FLOP *** 
+bonome14 folds
+Dampkringz folds
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 raises 82 to 122
+axou1391 folds
+dpechon calls 102
+sabre_laser folds
+*** FLOP *** [Qs 3h Jh]
+dpechon checks
+emilie49000 bets 199
+dpechon calls 199
+*** TURN *** [Qs 3h Jh][5s]
+dpechon checks
+emilie49000 bets 1029 and is all-in
+dpechon calls 1029
+*** RIVER *** [Qs 3h Jh 5s][3s]
+*** SHOW DOWN ***
+dpechon shows [Jc As] (Two pairs : Jacks and 3)
+emilie49000 shows [Kd Kc] (Two pairs : Kings and 3)
+emilie49000 collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Board: [Qs 3h Jh 5s 3s]
+Seat 1: dpechon (small blind) showed [Jc As] and lost with Two pairs : Jacks and 3
+Seat 9: emilie49000 showed [Kd Kc] and won 2740 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #490700331395579905-17-1427481123 - Holdem no limit (30/60) - 2015/03/27 18:32:03 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #1 is the button
+Seat 1: dpechon (55)
+Seat 2: sabre_laser (950)
+Seat 3: bonome14 (4450)
+Seat 5: Dampkringz (1300)
+Seat 7: guilastuce95 (1120)
+Seat 8: GHISLMARC (3415)
+Seat 9: emilie49000 (2740)
+Seat 10: axou1391 (970)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+bonome14 posts big blind 60
+Dealt to sabre_laser [2c 5s]
+*** PRE-FLOP *** 
+Dampkringz folds
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+axou1391 raises 150 to 210
+dpechon calls 55 and is all-in
+sabre_laser folds
+bonome14 calls 150
+*** FLOP *** [9s 3d 7c]
+bonome14 checks
+axou1391 bets 253
+bonome14 folds
+*** TURN *** [9s 3d 7c][4h]
+*** RIVER *** [9s 3d 7c 4h][4c]
+*** SHOW DOWN ***
+dpechon shows [9h 5h] (Two pairs : 9 and 4)
+axou1391 shows [Jd Jc] (Two pairs : Jacks and 4)
+axou1391 collected 758 from pot
+*** SUMMARY ***
+Total pot 758 | No rake
+Board: [9s 3d 7c 4h 4c]
+Seat 1: dpechon (button) showed [9h 5h] and lost with Two pairs : 9 and 4
+Seat 10: axou1391 showed [Jd Jc] and won 758 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #490700331395579905-18-1427481178 - Holdem no limit (30/60) - 2015/03/27 18:32:58 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (920)
+Seat 3: bonome14 (4240)
+Seat 5: Dampkringz (1300)
+Seat 7: guilastuce95 (1120)
+Seat 8: GHISLMARC (3415)
+Seat 9: emilie49000 (2740)
+Seat 10: axou1391 (1265)
+*** ANTE/BLINDS ***
+bonome14 posts small blind 30
+Dampkringz posts big blind 60
+Dealt to sabre_laser [2s 7h]
+*** PRE-FLOP *** 
+guilastuce95 folds
+GHISLMARC folds
+emilie49000 folds
+axou1391 folds
+sabre_laser folds
+bonome14 calls 30
+Dampkringz checks
+*** FLOP *** [Qs 5h Qh]
+bonome14 bets 60
+Dampkringz folds
+bonome14 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Qs 5h Qh]
+Seat 3: bonome14 (small blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #490700331395579905-19-1427481215 - Holdem no limit (30/60) - 2015/03/27 18:33:35 UTC
+Table: 'No Limit Hold'em(114250074)#0' 10-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (920)
+Seat 3: bonome14 (4300)
+Seat 5: Dampkringz (1240)
+Seat 7: guilastuce95 (1120)
+Seat 8: GHISLMARC (3415)
+Seat 9: emilie49000 (2740)
+Seat 10: axou1391 (1265)
+*** ANTE/BLINDS ***
+Dampkringz posts small blind 30
+guilastuce95 posts big blind 60
+Dealt to sabre_laser [8c 8s]
+*** PRE-FLOP *** 
+GHISLMARC folds
+emilie49000 folds
+axou1391 calls 60
+sabre_laser raises 860 to 920 and is all-in
+bonome14 calls 920
+Dampkringz folds
+guilastuce95 folds
+axou1391 folds
+*** FLOP *** [Jd 5d Qd]
+*** TURN *** [Jd 5d Qd][4d]
+*** RIVER *** [Jd 5d Qd 4d][Qh]
+*** SHOW DOWN ***
+sabre_laser shows [8c 8s] (Two pairs : Queens and 8)
+bonome14 shows [Jh Ah] (Two pairs : Queens and Jacks)
+bonome14 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Board: [Jd 5d Qd 4d Qh]
+Seat 2: sabre_laser showed [8c 8s] and lost with Two pairs : Queens and 8
+Seat 3: bonome14 (button) showed [Jh Ah] and won 1990 with Two pairs : Queens and Jacks
+
+

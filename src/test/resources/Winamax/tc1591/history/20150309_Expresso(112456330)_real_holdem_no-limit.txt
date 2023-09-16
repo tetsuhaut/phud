@@ -1,0 +1,1252 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996259578183681-1-1425937902 - Holdem no limit (10/20) - 2015/03/09 21:51:42 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (500)
+Seat 2: stef06001 (500)
+Seat 3: reivax33 (500)
+*** ANTE/BLINDS ***
+reivax33 posts small blind 10
+tc1591 posts big blind 20
+Dealt to tc1591 [Ts 2c]
+*** PRE-FLOP *** 
+stef06001 folds
+reivax33 folds
+tc1591 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: tc1591 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996259578183681-2-1425937914 - Holdem no limit (10/20) - 2015/03/09 21:51:54 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tc1591 (510)
+Seat 2: stef06001 (500)
+Seat 3: reivax33 (490)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 10
+stef06001 posts big blind 20
+Dealt to tc1591 [5d Ad]
+*** PRE-FLOP *** 
+reivax33 folds
+tc1591 raises 30 to 50
+stef06001 calls 30
+*** FLOP *** [Jh 6c Kd]
+tc1591 bets 80
+stef06001 calls 80
+*** TURN *** [Jh 6c Kd][7h]
+tc1591 checks
+stef06001 checks
+*** RIVER *** [Jh 6c Kd 7h][3s]
+tc1591 checks
+stef06001 bets 260
+tc1591 folds
+stef06001 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Jh 6c Kd 7h 3s]
+Seat 2: stef06001 (big blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996259578183681-3-1425937975 - Holdem no limit (10/20) - 2015/03/09 21:52:55 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (380)
+Seat 2: stef06001 (630)
+Seat 3: reivax33 (490)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 10
+reivax33 posts big blind 20
+Dealt to tc1591 [Qs 7c]
+*** PRE-FLOP *** 
+tc1591 folds
+stef06001 calls 10
+reivax33 checks
+*** FLOP *** [7h 4c 2s]
+stef06001 checks
+reivax33 checks
+*** TURN *** [7h 4c 2s][2h]
+stef06001 checks
+reivax33 checks
+*** RIVER *** [7h 4c 2s 2h][4h]
+stef06001 checks
+reivax33 checks
+*** SHOW DOWN ***
+stef06001 shows [6h 8c] (Two pairs : 4 and 2)
+reivax33 shows [9c Qh] (Two pairs : 4 and 2)
+reivax33 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7h 4c 2s 2h 4h]
+Seat 2: stef06001 (small blind) showed [6h 8c] and lost with Two pairs : 4 and 2
+Seat 3: reivax33 (big blind) showed [9c Qh] and won 40 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996259578183681-4-1425938014 - Holdem no limit (10/20) - 2015/03/09 21:53:34 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (380)
+Seat 2: stef06001 (610)
+Seat 3: reivax33 (510)
+*** ANTE/BLINDS ***
+reivax33 posts small blind 10
+tc1591 posts big blind 20
+Dealt to tc1591 [Jh 9c]
+*** PRE-FLOP *** 
+stef06001 folds
+reivax33 folds
+tc1591 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: tc1591 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996259578183681-5-1425938022 - Holdem no limit (10/20) - 2015/03/09 21:53:42 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tc1591 (390)
+Seat 2: stef06001 (610)
+Seat 3: reivax33 (500)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 10
+stef06001 posts big blind 20
+Dealt to tc1591 [Kc 7d]
+*** PRE-FLOP *** 
+reivax33 raises 50 to 70
+tc1591 folds
+stef06001 folds
+reivax33 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: reivax33 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996259578183681-6-1425938045 - Holdem no limit (10/20) - 2015/03/09 21:54:05 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (380)
+Seat 2: stef06001 (590)
+Seat 3: reivax33 (530)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 10
+reivax33 posts big blind 20
+Dealt to tc1591 [Jh 8c]
+*** PRE-FLOP *** 
+tc1591 raises 30 to 50
+stef06001 folds
+reivax33 folds
+tc1591 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: tc1591 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #482996259578183681-7-1425938057 - Holdem no limit (10/20) - 2015/03/09 21:54:17 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (410)
+Seat 2: stef06001 (580)
+Seat 3: reivax33 (510)
+*** ANTE/BLINDS ***
+reivax33 posts small blind 10
+tc1591 posts big blind 20
+Dealt to tc1591 [8c 5h]
+*** PRE-FLOP *** 
+stef06001 calls 20
+reivax33 calls 10
+tc1591 checks
+*** FLOP *** [Ac 3c Ks]
+reivax33 bets 40
+tc1591 folds
+stef06001 calls 40
+*** TURN *** [Ac 3c Ks][Td]
+reivax33 checks
+stef06001 checks
+*** RIVER *** [Ac 3c Ks Td][Ts]
+reivax33 bets 105
+stef06001 folds
+reivax33 collected 245 from pot
+*** SUMMARY ***
+Total pot 245 | No rake
+Board: [Ac 3c Ks Td Ts]
+Seat 3: reivax33 (small blind) won 245
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #482996259578183681-8-1425938115 - Holdem no limit (15/30) - 2015/03/09 21:55:15 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tc1591 (390)
+Seat 2: stef06001 (520)
+Seat 3: reivax33 (590)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 15
+stef06001 posts big blind 30
+Dealt to tc1591 [6d 2s]
+*** PRE-FLOP *** 
+reivax33 raises 60 to 90
+tc1591 folds
+stef06001 folds
+reivax33 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 3: reivax33 (button) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #482996259578183681-9-1425938133 - Holdem no limit (15/30) - 2015/03/09 21:55:33 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (375)
+Seat 2: stef06001 (490)
+Seat 3: reivax33 (635)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 15
+reivax33 posts big blind 30
+Dealt to tc1591 [4h 3d]
+*** PRE-FLOP *** 
+tc1591 folds
+stef06001 calls 15
+reivax33 checks
+*** FLOP *** [6d Tc 4d]
+stef06001 checks
+reivax33 checks
+*** TURN *** [6d Tc 4d][9s]
+stef06001 checks
+reivax33 checks
+*** RIVER *** [6d Tc 4d 9s][5h]
+stef06001 bets 30
+reivax33 folds
+stef06001 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6d Tc 4d 9s 5h]
+Seat 2: stef06001 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #482996259578183681-10-1425938177 - Holdem no limit (15/30) - 2015/03/09 21:56:17 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (375)
+Seat 2: stef06001 (520)
+Seat 3: reivax33 (605)
+*** ANTE/BLINDS ***
+reivax33 posts small blind 15
+tc1591 posts big blind 30
+Dealt to tc1591 [8d Ah]
+*** PRE-FLOP *** 
+stef06001 folds
+reivax33 folds
+tc1591 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: tc1591 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #482996259578183681-11-1425938184 - Holdem no limit (15/30) - 2015/03/09 21:56:24 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tc1591 (390)
+Seat 2: stef06001 (520)
+Seat 3: reivax33 (590)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 15
+stef06001 posts big blind 30
+Dealt to tc1591 [3c Qc]
+*** PRE-FLOP *** 
+reivax33 raises 60 to 90
+tc1591 folds
+stef06001 calls 60
+*** FLOP *** [2h 9s Jc]
+stef06001 checks
+reivax33 checks
+*** TURN *** [2h 9s Jc][Th]
+stef06001 bets 30
+reivax33 raises 60 to 90
+stef06001 calls 60
+*** RIVER *** [2h 9s Jc Th][Jh]
+stef06001 bets 340 and is all-in
+reivax33 folds
+stef06001 collected 715 from pot
+*** SUMMARY ***
+Total pot 715 | No rake
+Board: [2h 9s Jc Th Jh]
+Seat 2: stef06001 (big blind) won 715
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #482996259578183681-12-1425938248 - Holdem no limit (15/30) - 2015/03/09 21:57:28 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (375)
+Seat 2: stef06001 (715)
+Seat 3: reivax33 (410)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 15
+reivax33 posts big blind 30
+Dealt to tc1591 [Td 3c]
+*** PRE-FLOP *** 
+tc1591 folds
+stef06001 folds
+reivax33 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: reivax33 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-13-1425938261 - Holdem no limit (20/40) - 2015/03/09 21:57:41 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (375)
+Seat 2: stef06001 (700)
+Seat 3: reivax33 (425)
+*** ANTE/BLINDS ***
+reivax33 posts small blind 20
+tc1591 posts big blind 40
+Dealt to tc1591 [2h Ts]
+*** PRE-FLOP *** 
+stef06001 folds
+reivax33 raises 80 to 120
+tc1591 calls 80
+*** FLOP *** [Td 5h 2s]
+reivax33 checks
+tc1591 checks
+*** TURN *** [Td 5h 2s][Jh]
+reivax33 bets 200
+tc1591 raises 55 to 255 and is all-in
+reivax33 calls 55
+*** RIVER *** [Td 5h 2s Jh][6c]
+*** SHOW DOWN ***
+reivax33 shows [Ad As] (One pair : Aces)
+tc1591 shows [2h Ts] (Two pairs : Tens and 2)
+tc1591 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Td 5h 2s Jh 6c]
+Seat 1: tc1591 (big blind) showed [2h Ts] and won 750 with Two pairs : Tens and 2
+Seat 3: reivax33 (small blind) showed [Ad As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-14-1425938300 - Holdem no limit (20/40) - 2015/03/09 21:58:20 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tc1591 (750)
+Seat 2: stef06001 (700)
+Seat 3: reivax33 (50)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 20
+stef06001 posts big blind 40
+Dealt to tc1591 [Ac 4c]
+*** PRE-FLOP *** 
+reivax33 raises 10 to 50 and is all-in
+tc1591 raises 700 to 750 and is all-in
+stef06001 folds
+*** FLOP *** [9d 7c Td]
+*** TURN *** [9d 7c Td][5s]
+*** RIVER *** [9d 7c Td 5s][2s]
+*** SHOW DOWN ***
+reivax33 shows [7s 9s] (Two pairs : 9 and 7)
+tc1591 shows [Ac 4c] (High card : Ace)
+tc1591 collected 700 from side pot 1
+reivax33 collected 140 from main pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [9d 7c Td 5s 2s]
+Seat 1: tc1591 (small blind) showed [Ac 4c] and won 700 with High card : Ace
+Seat 3: reivax33 (button) showed [7s 9s] and won 140 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-15-1425938313 - Holdem no limit (20/40) - 2015/03/09 21:58:33 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (700)
+Seat 2: stef06001 (660)
+Seat 3: reivax33 (140)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 20
+reivax33 posts big blind 40
+Dealt to tc1591 [Jh 5s]
+*** PRE-FLOP *** 
+tc1591 folds
+stef06001 folds
+reivax33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: reivax33 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-16-1425938324 - Holdem no limit (20/40) - 2015/03/09 21:58:44 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (700)
+Seat 2: stef06001 (640)
+Seat 3: reivax33 (160)
+*** ANTE/BLINDS ***
+reivax33 posts small blind 20
+tc1591 posts big blind 40
+Dealt to tc1591 [9s Qs]
+*** PRE-FLOP *** 
+stef06001 folds
+reivax33 folds
+tc1591 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: tc1591 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-17-1425938335 - Holdem no limit (20/40) - 2015/03/09 21:58:55 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tc1591 (720)
+Seat 2: stef06001 (640)
+Seat 3: reivax33 (140)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 20
+stef06001 posts big blind 40
+Dealt to tc1591 [Kd 5d]
+*** PRE-FLOP *** 
+reivax33 folds
+tc1591 calls 20
+stef06001 checks
+*** FLOP *** [3c Qc 7d]
+tc1591 bets 40
+stef06001 calls 40
+*** TURN *** [3c Qc 7d][8s]
+tc1591 checks
+stef06001 bets 40
+tc1591 calls 40
+*** RIVER *** [3c Qc 7d 8s][2h]
+tc1591 checks
+stef06001 bets 240
+tc1591 folds
+stef06001 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3c Qc 7d 8s 2h]
+Seat 2: stef06001 (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-18-1425938369 - Holdem no limit (20/40) - 2015/03/09 21:59:29 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (600)
+Seat 2: stef06001 (760)
+Seat 3: reivax33 (140)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 20
+reivax33 posts big blind 40
+Dealt to tc1591 [Qs Qc]
+*** PRE-FLOP *** 
+tc1591 raises 60 to 100
+stef06001 folds
+reivax33 folds
+tc1591 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: tc1591 (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-19-1425938390 - Holdem no limit (20/40) - 2015/03/09 21:59:50 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (660)
+Seat 2: stef06001 (740)
+Seat 3: reivax33 (100)
+*** ANTE/BLINDS ***
+reivax33 posts small blind 20
+tc1591 posts big blind 40
+Dealt to tc1591 [Ac 9h]
+*** PRE-FLOP *** 
+stef06001 folds
+reivax33 folds
+tc1591 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: tc1591 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-20-1425938402 - Holdem no limit (20/40) - 2015/03/09 22:00:02 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tc1591 (680)
+Seat 2: stef06001 (740)
+Seat 3: reivax33 (80)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 20
+stef06001 posts big blind 40
+Dealt to tc1591 [Th Qs]
+*** PRE-FLOP *** 
+reivax33 folds
+tc1591 calls 20
+stef06001 checks
+*** FLOP *** [Kh 7c 7s]
+tc1591 checks
+stef06001 checks
+*** TURN *** [Kh 7c 7s][6c]
+tc1591 bets 80
+stef06001 folds
+tc1591 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kh 7c 7s 6c]
+Seat 1: tc1591 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #482996259578183681-21-1425938423 - Holdem no limit (20/40) - 2015/03/09 22:00:23 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (720)
+Seat 2: stef06001 (700)
+Seat 3: reivax33 (80)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 20
+reivax33 posts big blind 40
+Dealt to tc1591 [Qc Kd]
+*** PRE-FLOP *** 
+tc1591 raises 100 to 140
+stef06001 folds
+reivax33 calls 40 and is all-in
+*** FLOP *** [Js 8c 4s]
+*** TURN *** [Js 8c 4s][Ac]
+*** RIVER *** [Js 8c 4s Ac][As]
+*** SHOW DOWN ***
+reivax33 shows [7h 3s] (One pair : Aces)
+tc1591 shows [Qc Kd] (One pair : Aces)
+tc1591 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Js 8c 4s Ac As]
+Seat 1: tc1591 (button) showed [Qc Kd] and won 240 with One pair : Aces
+Seat 3: reivax33 (big blind) showed [7h 3s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-22-1425938441 - Holdem no limit (30/60) - 2015/03/09 22:00:41 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (820)
+Seat 2: stef06001 (680)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 30
+stef06001 posts big blind 60
+Dealt to tc1591 [Kd 6d]
+*** PRE-FLOP *** 
+tc1591 calls 30
+stef06001 checks
+*** FLOP *** [5s 2h Ts]
+stef06001 bets 60
+tc1591 calls 60
+*** TURN *** [5s 2h Ts][5h]
+stef06001 bets 60
+tc1591 folds
+stef06001 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5s 2h Ts 5h]
+Seat 2: stef06001 (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-23-1425938458 - Holdem no limit (30/60) - 2015/03/09 22:00:58 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (700)
+Seat 2: stef06001 (800)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 30
+tc1591 posts big blind 60
+Dealt to tc1591 [2h 5d]
+*** PRE-FLOP *** 
+stef06001 calls 30
+tc1591 checks
+*** FLOP *** [Qd Ts 7s]
+tc1591 checks
+stef06001 checks
+*** TURN *** [Qd Ts 7s][Ac]
+tc1591 bets 60
+stef06001 calls 60
+*** RIVER *** [Qd Ts 7s Ac][Ks]
+tc1591 checks
+stef06001 bets 240
+tc1591 folds
+stef06001 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qd Ts 7s Ac Ks]
+Seat 2: stef06001 (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-24-1425938492 - Holdem no limit (30/60) - 2015/03/09 22:01:32 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (580)
+Seat 2: stef06001 (920)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 30
+stef06001 posts big blind 60
+Dealt to tc1591 [Jh 5c]
+*** PRE-FLOP *** 
+tc1591 calls 30
+stef06001 checks
+*** FLOP *** [9s Ad As]
+stef06001 checks
+tc1591 bets 520 and is all-in
+stef06001 folds
+tc1591 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [9s Ad As]
+Seat 1: tc1591 (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-25-1425938513 - Holdem no limit (30/60) - 2015/03/09 22:01:53 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (640)
+Seat 2: stef06001 (860)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 30
+tc1591 posts big blind 60
+Dealt to tc1591 [Js Qd]
+*** PRE-FLOP *** 
+stef06001 calls 30
+tc1591 raises 580 to 640 and is all-in
+stef06001 folds
+tc1591 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 1: tc1591 (big blind) won 700
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-26-1425938525 - Holdem no limit (30/60) - 2015/03/09 22:02:05 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (700)
+Seat 2: stef06001 (800)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 30
+stef06001 posts big blind 60
+Dealt to tc1591 [8h 7s]
+*** PRE-FLOP *** 
+tc1591 calls 30
+stef06001 checks
+*** FLOP *** [Js 2d 5d]
+stef06001 checks
+tc1591 checks
+*** TURN *** [Js 2d 5d][3h]
+stef06001 checks
+tc1591 checks
+*** RIVER *** [Js 2d 5d 3h][Ts]
+stef06001 checks
+tc1591 checks
+*** SHOW DOWN ***
+tc1591 shows [8h 7s] (High card : Jack)
+stef06001 shows [Ad 8c] (High card : Ace)
+stef06001 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Js 2d 5d 3h Ts]
+Seat 1: tc1591 (small blind) (button) showed [8h 7s] and lost with High card : Jack
+Seat 2: stef06001 (big blind) showed [Ad 8c] and won 120 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-27-1425938547 - Holdem no limit (30/60) - 2015/03/09 22:02:27 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (640)
+Seat 2: stef06001 (860)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 30
+tc1591 posts big blind 60
+Dealt to tc1591 [Ah 6s]
+*** PRE-FLOP *** 
+stef06001 calls 30
+tc1591 raises 120 to 180
+stef06001 calls 120
+*** FLOP *** [9s Kh Jd]
+tc1591 bets 460 and is all-in
+stef06001 folds
+tc1591 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [9s Kh Jd]
+Seat 1: tc1591 (big blind) won 820
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-28-1425938570 - Holdem no limit (30/60) - 2015/03/09 22:02:50 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (820)
+Seat 2: stef06001 (680)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 30
+stef06001 posts big blind 60
+Dealt to tc1591 [Ts 5s]
+*** PRE-FLOP *** 
+tc1591 calls 30
+stef06001 checks
+*** FLOP *** [Th 4s 7c]
+stef06001 bets 60
+tc1591 calls 60
+*** TURN *** [Th 4s 7c][9c]
+stef06001 bets 60
+tc1591 raises 360 to 420
+stef06001 folds
+tc1591 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Th 4s 7c 9c]
+Seat 1: tc1591 (small blind) (button) won 720
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-29-1425938595 - Holdem no limit (30/60) - 2015/03/09 22:03:15 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (1000)
+Seat 2: stef06001 (500)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 30
+tc1591 posts big blind 60
+Dealt to tc1591 [9s Ah]
+*** PRE-FLOP *** 
+stef06001 calls 30
+tc1591 raises 940 to 1000 and is all-in
+stef06001 folds
+tc1591 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 1: tc1591 (big blind) won 1060
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #482996259578183681-30-1425938604 - Holdem no limit (30/60) - 2015/03/09 22:03:24 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (1060)
+Seat 2: stef06001 (440)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 30
+stef06001 posts big blind 60
+Dealt to tc1591 [Kd 9c]
+*** PRE-FLOP *** 
+tc1591 calls 30
+stef06001 checks
+*** FLOP *** [Kc 3s Td]
+stef06001 checks
+tc1591 bets 1000 and is all-in
+stef06001 folds
+tc1591 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [Kc 3s Td]
+Seat 1: tc1591 (small blind) (button) won 1120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-31-1425938622 - Holdem no limit (40/80) - 2015/03/09 22:03:42 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (1120)
+Seat 2: stef06001 (380)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 40
+tc1591 posts big blind 80
+Dealt to tc1591 [5d 8c]
+*** PRE-FLOP *** 
+stef06001 calls 40
+tc1591 checks
+*** FLOP *** [4s 3d Td]
+tc1591 bets 160
+stef06001 raises 140 to 300 and is all-in
+tc1591 folds
+stef06001 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4s 3d Td]
+Seat 2: stef06001 (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-32-1425938645 - Holdem no limit (40/80) - 2015/03/09 22:04:05 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (880)
+Seat 2: stef06001 (620)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 40
+stef06001 posts big blind 80
+Dealt to tc1591 [Ah 8s]
+*** PRE-FLOP *** 
+tc1591 calls 40
+stef06001 checks
+*** FLOP *** [9d Ts 6s]
+stef06001 checks
+tc1591 checks
+*** TURN *** [9d Ts 6s][5d]
+stef06001 checks
+tc1591 bets 200
+stef06001 folds
+tc1591 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [9d Ts 6s 5d]
+Seat 1: tc1591 (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-33-1425938673 - Holdem no limit (40/80) - 2015/03/09 22:04:33 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (960)
+Seat 2: stef06001 (540)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 40
+tc1591 posts big blind 80
+Dealt to tc1591 [Jh Js]
+*** PRE-FLOP *** 
+stef06001 raises 80 to 160
+tc1591 raises 800 to 960 and is all-in
+stef06001 calls 380 and is all-in
+*** FLOP *** [8s 2c 7h]
+*** TURN *** [8s 2c 7h][Ad]
+*** RIVER *** [8s 2c 7h Ad][Qs]
+*** SHOW DOWN ***
+stef06001 shows [As 9s] (One pair : Aces)
+tc1591 shows [Jh Js] (One pair : Jacks)
+tc1591 collected 420 from side pot 1
+stef06001 collected 1080 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [8s 2c 7h Ad Qs]
+Seat 1: tc1591 (big blind) showed [Jh Js] and won 420 with One pair : Jacks
+Seat 2: stef06001 (small blind) (button) showed [As 9s] and won 1080 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-34-1425938699 - Holdem no limit (40/80) - 2015/03/09 22:04:59 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (420)
+Seat 2: stef06001 (1080)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 40
+stef06001 posts big blind 80
+Dealt to tc1591 [Ah 5d]
+*** PRE-FLOP *** 
+tc1591 raises 340 to 420 and is all-in
+stef06001 folds
+tc1591 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 1: tc1591 (small blind) (button) won 500
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-35-1425938709 - Holdem no limit (40/80) - 2015/03/09 22:05:09 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (500)
+Seat 2: stef06001 (1000)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 40
+tc1591 posts big blind 80
+Dealt to tc1591 [8d Ts]
+*** PRE-FLOP *** 
+stef06001 folds
+tc1591 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: tc1591 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-36-1425938714 - Holdem no limit (40/80) - 2015/03/09 22:05:14 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (540)
+Seat 2: stef06001 (960)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 40
+stef06001 posts big blind 80
+Dealt to tc1591 [4d 6h]
+*** PRE-FLOP *** 
+tc1591 calls 40
+stef06001 checks
+*** FLOP *** [Jd 9c Jh]
+stef06001 checks
+tc1591 checks
+*** TURN *** [Jd 9c Jh][7d]
+stef06001 checks
+tc1591 checks
+*** RIVER *** [Jd 9c Jh 7d][6c]
+stef06001 checks
+tc1591 bets 80
+stef06001 folds
+tc1591 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jd 9c Jh 7d 6c]
+Seat 1: tc1591 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-37-1425938745 - Holdem no limit (40/80) - 2015/03/09 22:05:45 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (620)
+Seat 2: stef06001 (880)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 40
+tc1591 posts big blind 80
+Dealt to tc1591 [6h Qd]
+*** PRE-FLOP *** 
+stef06001 folds
+tc1591 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: tc1591 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-38-1425938752 - Holdem no limit (40/80) - 2015/03/09 22:05:52 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (660)
+Seat 2: stef06001 (840)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 40
+stef06001 posts big blind 80
+Dealt to tc1591 [Jh 6d]
+*** PRE-FLOP *** 
+tc1591 calls 40
+stef06001 checks
+*** FLOP *** [3h Td 7d]
+stef06001 checks
+tc1591 checks
+*** TURN *** [3h Td 7d][6c]
+stef06001 checks
+tc1591 checks
+*** RIVER *** [3h Td 7d 6c][5d]
+stef06001 checks
+tc1591 bets 120
+stef06001 calls 120
+*** SHOW DOWN ***
+stef06001 shows [As 2c] (High card : Ace)
+tc1591 shows [Jh 6d] (One pair : 6)
+tc1591 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [3h Td 7d 6c 5d]
+Seat 1: tc1591 (small blind) (button) showed [Jh 6d] and won 400 with One pair : 6
+Seat 2: stef06001 (big blind) showed [As 2c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-39-1425938784 - Holdem no limit (40/80) - 2015/03/09 22:06:24 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (860)
+Seat 2: stef06001 (640)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 40
+tc1591 posts big blind 80
+Dealt to tc1591 [6c 2h]
+*** PRE-FLOP *** 
+stef06001 folds
+tc1591 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: tc1591 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 4 - HandId: #482996259578183681-40-1425938789 - Holdem no limit (40/80) - 2015/03/09 22:06:29 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (900)
+Seat 2: stef06001 (600)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 40
+stef06001 posts big blind 80
+Dealt to tc1591 [9c 4s]
+*** PRE-FLOP *** 
+tc1591 calls 40
+stef06001 checks
+*** FLOP *** [5s Js As]
+stef06001 checks
+tc1591 checks
+*** TURN *** [5s Js As][2s]
+stef06001 bets 80
+tc1591 calls 80
+*** RIVER *** [5s Js As 2s][9d]
+stef06001 checks
+tc1591 checks
+*** SHOW DOWN ***
+stef06001 shows [Qd 7h] (High card : Ace)
+tc1591 shows [9c 4s] (Flush Ace high)
+tc1591 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5s Js As 2s 9d]
+Seat 1: tc1591 (small blind) (button) showed [9c 4s] and won 320 with Flush Ace high
+Seat 2: stef06001 (big blind) showed [Qd 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-41-1425938842 - Holdem no limit (60/120) - 2015/03/09 22:07:22 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (1060)
+Seat 2: stef06001 (440)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [6c 5s]
+*** PRE-FLOP *** 
+stef06001 folds
+tc1591 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: tc1591 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-42-1425938847 - Holdem no limit (60/120) - 2015/03/09 22:07:27 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (1120)
+Seat 2: stef06001 (380)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 60
+stef06001 posts big blind 120
+Dealt to tc1591 [9s 5c]
+*** PRE-FLOP *** 
+tc1591 calls 60
+stef06001 raises 260 to 380 and is all-in
+tc1591 folds
+stef06001 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 2: stef06001 (big blind) won 500
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-43-1425938865 - Holdem no limit (60/120) - 2015/03/09 22:07:45 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (1000)
+Seat 2: stef06001 (500)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [Ad 5d]
+*** PRE-FLOP *** 
+stef06001 folds
+tc1591 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: tc1591 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-44-1425938872 - Holdem no limit (60/120) - 2015/03/09 22:07:52 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (1060)
+Seat 2: stef06001 (440)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 60
+stef06001 posts big blind 120
+Dealt to tc1591 [7s 9d]
+*** PRE-FLOP *** 
+tc1591 calls 60
+stef06001 checks
+*** FLOP *** [6d 7h 3s]
+stef06001 bets 120
+tc1591 raises 820 to 940 and is all-in
+stef06001 calls 200 and is all-in
+*** TURN *** [6d 7h 3s][3h]
+*** RIVER *** [6d 7h 3s 3h][Kh]
+*** SHOW DOWN ***
+stef06001 shows [6h Kd] (Two pairs : Kings and 6)
+tc1591 shows [7s 9d] (Two pairs : 7 and 3)
+tc1591 collected 620 from side pot 1
+stef06001 collected 880 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6d 7h 3s 3h Kh]
+Seat 1: tc1591 (small blind) (button) showed [7s 9d] and won 620 with Two pairs : 7 and 3
+Seat 2: stef06001 (big blind) showed [6h Kd] and won 880 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-45-1425938896 - Holdem no limit (60/120) - 2015/03/09 22:08:16 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (620)
+Seat 2: stef06001 (880)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [Js Ts]
+*** PRE-FLOP *** 
+stef06001 folds
+tc1591 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: tc1591 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-46-1425938901 - Holdem no limit (60/120) - 2015/03/09 22:08:21 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (680)
+Seat 2: stef06001 (820)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 60
+stef06001 posts big blind 120
+Dealt to tc1591 [Kh 3h]
+*** PRE-FLOP *** 
+tc1591 calls 60
+stef06001 checks
+*** FLOP *** [9c 3d 8d]
+stef06001 checks
+tc1591 bets 560 and is all-in
+stef06001 calls 560
+*** TURN *** [9c 3d 8d][Ks]
+*** RIVER *** [9c 3d 8d Ks][Td]
+*** SHOW DOWN ***
+stef06001 shows [9d Ah] (One pair : 9)
+tc1591 shows [Kh 3h] (Two pairs : Kings and 3)
+tc1591 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [9c 3d 8d Ks Td]
+Seat 1: tc1591 (small blind) (button) showed [Kh 3h] and won 1360 with Two pairs : Kings and 3
+Seat 2: stef06001 (big blind) showed [9d Ah] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-47-1425938922 - Holdem no limit (60/120) - 2015/03/09 22:08:42 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (1360)
+Seat 2: stef06001 (140)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [2s 7d]
+*** PRE-FLOP *** 
+stef06001 raises 20 to 140 and is all-in
+tc1591 calls 20
+*** FLOP *** [Ah Jh 6s]
+*** TURN *** [Ah Jh 6s][Qc]
+*** RIVER *** [Ah Jh 6s Qc][3s]
+*** SHOW DOWN ***
+tc1591 shows [2s 7d] (High card : Ace)
+stef06001 shows [4c Kh] (High card : Ace)
+stef06001 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Ah Jh 6s Qc 3s]
+Seat 1: tc1591 (big blind) showed [2s 7d] and lost with High card : Ace
+Seat 2: stef06001 (small blind) (button) showed [4c Kh] and won 280 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-48-1425938936 - Holdem no limit (60/120) - 2015/03/09 22:08:56 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (1220)
+Seat 2: stef06001 (280)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 60
+stef06001 posts big blind 120
+Dealt to tc1591 [Jd Ad]
+*** PRE-FLOP *** 
+tc1591 calls 60
+stef06001 checks
+*** FLOP *** [Kd 2h Js]
+stef06001 checks
+tc1591 checks
+*** TURN *** [Kd 2h Js][Tc]
+stef06001 checks
+tc1591 bets 120
+stef06001 folds
+tc1591 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kd 2h Js Tc]
+Seat 1: tc1591 (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-49-1425938953 - Holdem no limit (60/120) - 2015/03/09 22:09:13 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (1340)
+Seat 2: stef06001 (160)
+*** ANTE/BLINDS ***
+stef06001 posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [6d 9c]
+*** PRE-FLOP *** 
+stef06001 raises 40 to 160 and is all-in
+tc1591 calls 40
+*** FLOP *** [5c As 3s]
+*** TURN *** [5c As 3s][Qs]
+*** RIVER *** [5c As 3s Qs][2s]
+*** SHOW DOWN ***
+tc1591 shows [6d 9c] (High card : Ace)
+stef06001 shows [Ah 7c] (One pair : Aces)
+stef06001 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5c As 3s Qs 2s]
+Seat 1: tc1591 (big blind) showed [6d 9c] and lost with High card : Ace
+Seat 2: stef06001 (small blind) (button) showed [Ah 7c] and won 320 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 5 - HandId: #482996259578183681-50-1425938967 - Holdem no limit (60/120) - 2015/03/09 22:09:27 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (1180)
+Seat 2: stef06001 (320)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 60
+stef06001 posts big blind 120
+Dealt to tc1591 [Th Ad]
+*** PRE-FLOP *** 
+tc1591 raises 1060 to 1180 and is all-in
+stef06001 calls 200 and is all-in
+*** FLOP *** [Kd 7h 3h]
+*** TURN *** [Kd 7h 3h][8s]
+*** RIVER *** [Kd 7h 3h 8s][4s]
+*** SHOW DOWN ***
+stef06001 shows [Qs Kh] (One pair : Kings)
+tc1591 shows [Th Ad] (High card : Ace)
+tc1591 collected 860 from side pot 1
+stef06001 collected 640 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Kd 7h 3h 8s 4s]
+Seat 1: tc1591 (small blind) (button) showed [Th Ad] and won 860 with High card : Ace
+Seat 2: stef06001 (big blind) showed [Qs Kh] and won 640 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 6 - HandId: #482996259578183681-51-1425938980 - Holdem no limit (10/60/120) - 2015/03/09 22:09:40 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (860)
+Seat 2: stef06001 (640)
+*** ANTE/BLINDS ***
+stef06001 posts ante 10
+tc1591 posts ante 10
+stef06001 posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [6c 7s]
+*** PRE-FLOP *** 
+stef06001 calls 60
+tc1591 checks
+*** FLOP *** [8c Qd Ks]
+tc1591 checks
+stef06001 bets 120
+tc1591 folds
+stef06001 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [8c Qd Ks]
+Seat 2: stef06001 (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 6 - HandId: #482996259578183681-52-1425938992 - Holdem no limit (10/60/120) - 2015/03/09 22:09:52 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (730)
+Seat 2: stef06001 (770)
+*** ANTE/BLINDS ***
+tc1591 posts ante 10
+stef06001 posts ante 10
+tc1591 posts small blind 60
+stef06001 posts big blind 120
+Dealt to tc1591 [5d 7d]
+*** PRE-FLOP *** 
+tc1591 calls 60
+stef06001 raises 360 to 480
+tc1591 folds
+stef06001 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: stef06001 (big blind) won 620
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 6 - HandId: #482996259578183681-53-1425939001 - Holdem no limit (10/60/120) - 2015/03/09 22:10:01 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tc1591 (600)
+Seat 2: stef06001 (900)
+*** ANTE/BLINDS ***
+stef06001 posts ante 10
+tc1591 posts ante 10
+stef06001 posts small blind 60
+tc1591 posts big blind 120
+Dealt to tc1591 [3s 7h]
+*** PRE-FLOP *** 
+stef06001 raises 120 to 240
+tc1591 folds
+stef06001 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: stef06001 (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 6 - HandId: #482996259578183681-54-1425939008 - Holdem no limit (10/60/120) - 2015/03/09 22:10:08 UTC
+Table: 'Expresso(112456330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tc1591 (470)
+Seat 2: stef06001 (1030)
+*** ANTE/BLINDS ***
+tc1591 posts ante 10
+stef06001 posts ante 10
+tc1591 posts small blind 60
+stef06001 posts big blind 120
+Dealt to tc1591 [3s 4d]
+*** PRE-FLOP *** 
+tc1591 raises 340 to 460 and is all-in
+stef06001 calls 340
+*** FLOP *** [4c Jc Js]
+*** TURN *** [4c Jc Js][Qd]
+*** RIVER *** [4c Jc Js Qd][Ad]
+*** SHOW DOWN ***
+tc1591 shows [3s 4d] (Two pairs : Jacks and 4)
+stef06001 shows [6c 6d] (Two pairs : Jacks and 6)
+stef06001 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [4c Jc Js Qd Ad]
+Seat 1: tc1591 (small blind) (button) showed [3s 4d] and lost with Two pairs : Jacks and 4
+Seat 2: stef06001 (big blind) showed [6c 6d] and won 940 with Two pairs : Jacks and 6
+
+

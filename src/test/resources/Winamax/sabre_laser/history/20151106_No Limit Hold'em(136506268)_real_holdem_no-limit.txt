@@ -1,0 +1,1447 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586289956759011329-1-1446835234 - Holdem no limit (10/20) - 2015/11/06 18:40:34 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stefdieppe (1500)
+Seat 2: max1627 (1500)
+Seat 3: Rocco120 (1500)
+Seat 4: breackout (1500)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Xuan1012 (1500)
+Seat 8: Nanga Def (1500)
+Seat 9: Kappaman (1500)
+Seat 10: Repio444 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Xuan1012 posts big blind 20
+Dealt to sabre_laser [9c 4c]
+*** PRE-FLOP *** 
+Nanga Def folds
+Kappaman raises 1480 to 1500 and is all-in
+Repio444 folds
+stefdieppe calls 1500 and is all-in
+max1627 folds
+Rocco120 folds
+breackout folds
+Smity2756 folds
+sabre_laser folds
+Xuan1012 calls 1480 and is all-in
+*** FLOP *** [4s Td 5c]
+*** TURN *** [4s Td 5c][Ad]
+*** RIVER *** [4s Td 5c Ad][2c]
+*** SHOW DOWN ***
+Xuan1012 shows [Qd Jh] (High card : Ace)
+stefdieppe shows [As Kc] (One pair : Aces)
+Kappaman shows [Kd Ah] (One pair : Aces)
+Kappaman collected 2255 from pot
+stefdieppe collected 2255 from pot
+*** SUMMARY ***
+Total pot 4510 | No rake
+Board: [4s Td 5c Ad 2c]
+Seat 1: stefdieppe showed [As Kc] and won 2255 with One pair : Aces
+Seat 7: Xuan1012 (big blind) showed [Qd Jh] and lost with High card : Ace
+Seat 9: Kappaman showed [Kd Ah] and won 2255 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586289956759011329-2-1446835290 - Holdem no limit (10/20) - 2015/11/06 18:41:30 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 1: stefdieppe (2255)
+Seat 2: max1627 (1500)
+Seat 3: Rocco120 (1500)
+Seat 4: breackout (1500)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1490)
+Seat 8: Nanga Def (1500)
+Seat 9: Kappaman (2255)
+Seat 10: Repio444 (1500)
+*** ANTE/BLINDS ***
+Nanga Def posts big blind 20
+Dealt to sabre_laser [6c 2c]
+*** PRE-FLOP *** 
+Kappaman folds
+Repio444 raises 30 to 50
+stefdieppe folds
+max1627 folds
+Rocco120 folds
+breackout calls 50
+Smity2756 folds
+sabre_laser folds
+Nanga Def folds
+*** FLOP *** [6s 3s Ac]
+Repio444 checks
+breackout bets 20
+Repio444 calls 20
+*** TURN *** [6s 3s Ac][8d]
+Repio444 checks
+breackout bets 20
+Repio444 calls 20
+*** RIVER *** [6s 3s Ac 8d][3d]
+Repio444 checks
+breackout bets 133
+Repio444 folds
+breackout collected 333 from pot
+*** SUMMARY ***
+Total pot 333 | No rake
+Board: [6s 3s Ac 8d 3d]
+Seat 4: breackout won 333
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586289956759011329-3-1446835371 - Holdem no limit (10/20) - 2015/11/06 18:42:51 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #7 is the button
+Seat 1: stefdieppe (2255)
+Seat 2: max1627 (1500)
+Seat 3: Rocco120 (1500)
+Seat 4: breackout (1610)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1490)
+Seat 8: Nanga Def (1480)
+Seat 9: Kappaman (2255)
+Seat 10: Repio444 (1410)
+*** ANTE/BLINDS ***
+Nanga Def posts small blind 10
+Kappaman posts big blind 20
+Dealt to sabre_laser [3d 4d]
+*** PRE-FLOP *** 
+Repio444 folds
+stefdieppe calls 20
+max1627 raises 20 to 40
+Rocco120 folds
+breackout calls 40
+Smity2756 folds
+sabre_laser calls 40
+Nanga Def folds
+Kappaman folds
+stefdieppe calls 20
+*** FLOP *** [As Qh Th]
+stefdieppe checks
+max1627 bets 60
+breackout folds
+sabre_laser folds
+stefdieppe folds
+max1627 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [As Qh Th]
+Seat 2: max1627 won 250
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586289956759011329-4-1446835457 - Holdem no limit (15/30) - 2015/11/06 18:44:17 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stefdieppe (2215)
+Seat 2: max1627 (1650)
+Seat 3: Rocco120 (1500)
+Seat 4: breackout (1570)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1450)
+Seat 8: Nanga Def (1470)
+Seat 9: Kappaman (2235)
+Seat 10: Repio444 (1410)
+*** ANTE/BLINDS ***
+Kappaman posts small blind 15
+Repio444 posts big blind 30
+Dealt to sabre_laser [4h 9d]
+*** PRE-FLOP *** 
+stefdieppe calls 30
+max1627 folds
+Rocco120 raises 45 to 75
+breackout folds
+Smity2756 folds
+sabre_laser folds
+Nanga Def folds
+Kappaman folds
+Repio444 calls 45
+stefdieppe calls 45
+*** FLOP *** [8s 5h 6d]
+Repio444 checks
+stefdieppe checks
+Rocco120 bets 90
+Repio444 calls 90
+stefdieppe calls 90
+*** TURN *** [8s 5h 6d][Tc]
+Repio444 bets 340
+stefdieppe folds
+Rocco120 raises 995 to 1335 and is all-in
+Repio444 calls 905 and is all-in
+*** RIVER *** [8s 5h 6d Tc][5d]
+*** SHOW DOWN ***
+Repio444 shows [7s Th] (Two pairs : Tens and 5)
+Rocco120 shows [Kd Ks] (Two pairs : Kings and 5)
+Rocco120 collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Board: [8s 5h 6d Tc 5d]
+Seat 3: Rocco120 showed [Kd Ks] and won 3090 with Two pairs : Kings and 5
+Seat 10: Repio444 (big blind) showed [7s Th] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586289956759011329-5-1446835596 - Holdem no limit (20/40) - 2015/11/06 18:46:36 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stefdieppe (2050)
+Seat 2: max1627 (1650)
+Seat 3: Rocco120 (3090)
+Seat 4: breackout (1570)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1450)
+Seat 8: Nanga Def (1470)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+stefdieppe posts big blind 40
+Dealt to sabre_laser [4c 7d]
+*** PRE-FLOP *** 
+max1627 folds
+Rocco120 folds
+breackout folds
+Smity2756 folds
+sabre_laser folds
+Nanga Def calls 40
+Kappaman folds
+stefdieppe raises 40 to 80
+Nanga Def folds
+stefdieppe collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: stefdieppe (big blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586289956759011329-6-1446835642 - Holdem no limit (20/40) - 2015/11/06 18:47:22 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #10 is the button
+Seat 1: stefdieppe (2090)
+Seat 2: max1627 (1650)
+Seat 3: Rocco120 (3090)
+Seat 4: breackout (1570)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1450)
+Seat 8: Nanga Def (1430)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+stefdieppe posts small blind 20
+max1627 posts big blind 40
+Dealt to sabre_laser [Qh 7c]
+*** PRE-FLOP *** 
+Rocco120 folds
+breackout folds
+Smity2756 folds
+sabre_laser folds
+Nanga Def folds
+Kappaman folds
+stefdieppe calls 20
+max1627 raises 40 to 80
+stefdieppe calls 40
+*** FLOP *** [8h 5h Jc]
+stefdieppe checks
+max1627 bets 80
+stefdieppe folds
+max1627 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8h 5h Jc]
+Seat 2: max1627 (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586289956759011329-7-1446835696 - Holdem no limit (20/40) - 2015/11/06 18:48:16 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stefdieppe (2010)
+Seat 2: max1627 (1730)
+Seat 3: Rocco120 (3090)
+Seat 4: breackout (1570)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1450)
+Seat 8: Nanga Def (1430)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+max1627 posts small blind 20
+Rocco120 posts big blind 40
+Dealt to sabre_laser [Jc 3s]
+*** PRE-FLOP *** 
+breackout folds
+Smity2756 folds
+sabre_laser folds
+Nanga Def folds
+Kappaman folds
+stefdieppe folds
+max1627 calls 20
+Rocco120 checks
+*** FLOP *** [5s 5h Qh]
+max1627 bets 40
+Rocco120 calls 40
+*** TURN *** [5s 5h Qh][Ts]
+max1627 bets 80
+Rocco120 calls 80
+*** RIVER *** [5s 5h Qh Ts][Qs]
+max1627 bets 213
+Rocco120 raises 2717 to 2930 and is all-in
+max1627 calls 1357 and is all-in
+*** SHOW DOWN ***
+max1627 shows [8c 5c] (Full of 5 and Queens)
+Rocco120 shows [3h Qd] (Full of Queens and 5)
+Rocco120 collected 4820 from pot
+*** SUMMARY ***
+Total pot 4820 | No rake
+Board: [5s 5h Qh Ts Qs]
+Seat 2: max1627 (small blind) showed [8c 5c] and lost with Full of 5 and Queens
+Seat 3: Rocco120 (big blind) showed [3h Qd] and won 4820 with Full of Queens and 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586289956759011329-8-1446835791 - Holdem no limit (30/60) - 2015/11/06 18:49:51 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #2 is the button
+Seat 1: stefdieppe (2010)
+Seat 3: Rocco120 (4820)
+Seat 4: breackout (1570)
+Seat 5: Smity2756 (1500)
+Seat 6: sabre_laser (1450)
+Seat 8: Nanga Def (1430)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+Rocco120 posts small blind 30
+breackout posts big blind 60
+Dealt to sabre_laser [5d 3d]
+*** PRE-FLOP *** 
+Smity2756 calls 60
+sabre_laser folds
+Nanga Def folds
+Kappaman folds
+stefdieppe folds
+Rocco120 calls 30
+breackout checks
+*** FLOP *** [Jh As 6d]
+Rocco120 checks
+breackout checks
+Smity2756 checks
+*** TURN *** [Jh As 6d][Kd]
+Rocco120 checks
+breackout checks
+Smity2756 checks
+*** RIVER *** [Jh As 6d Kd][7d]
+Rocco120 bets 120
+breackout folds
+Smity2756 folds
+Rocco120 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Jh As 6d Kd 7d]
+Seat 3: Rocco120 (small blind) won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586289956759011329-9-1446835841 - Holdem no limit (30/60) - 2015/11/06 18:50:41 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 1: stefdieppe (2010)
+Seat 3: Rocco120 (4940)
+Seat 4: breackout (1510)
+Seat 5: Smity2756 (1440)
+Seat 6: sabre_laser (1450)
+Seat 8: Nanga Def (1430)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+breackout posts small blind 30
+Smity2756 posts big blind 60
+Dealt to sabre_laser [Js Kc]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 120
+Nanga Def folds
+Kappaman folds
+stefdieppe folds
+Rocco120 folds
+breackout calls 90
+Smity2756 calls 60
+*** FLOP *** [5d 3h 2h]
+breackout checks
+Smity2756 checks
+sabre_laser bets 360
+breackout folds
+Smity2756 folds
+sabre_laser collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [5d 3h 2h]
+Seat 6: sabre_laser won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586289956759011329-10-1446835923 - Holdem no limit (30/60) - 2015/11/06 18:52:03 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #4 is the button
+Seat 1: stefdieppe (2010)
+Seat 3: Rocco120 (4940)
+Seat 4: breackout (1390)
+Seat 5: Smity2756 (1320)
+Seat 6: sabre_laser (1690)
+Seat 8: Nanga Def (1430)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+Smity2756 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [As Ah]
+*** PRE-FLOP *** 
+Nanga Def folds
+Kappaman folds
+stefdieppe folds
+Rocco120 folds
+breackout folds
+Smity2756 folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: sabre_laser (big blind) won 90
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586289956759011329-11-1446835953 - Holdem no limit (40/80) - 2015/11/06 18:52:33 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #5 is the button
+Seat 1: stefdieppe (2010)
+Seat 3: Rocco120 (4940)
+Seat 4: breackout (1390)
+Seat 5: Smity2756 (1290)
+Seat 6: sabre_laser (1720)
+Seat 8: Nanga Def (1430)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Nanga Def posts big blind 80
+Dealt to sabre_laser [2c 4d]
+*** PRE-FLOP *** 
+Kappaman folds
+stefdieppe folds
+Rocco120 folds
+breackout folds
+Smity2756 folds
+sabre_laser folds
+Nanga Def collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: Nanga Def (big blind) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586289956759011329-12-1446835982 - Holdem no limit (40/80) - 2015/11/06 18:53:02 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 1: stefdieppe (2010)
+Seat 3: Rocco120 (4940)
+Seat 4: breackout (1390)
+Seat 5: Smity2756 (1290)
+Seat 6: sabre_laser (1680)
+Seat 8: Nanga Def (1470)
+Seat 9: Kappaman (2220)
+*** ANTE/BLINDS ***
+Nanga Def posts small blind 40
+Kappaman posts big blind 80
+Dealt to sabre_laser [7d 7s]
+*** PRE-FLOP *** 
+stefdieppe calls 80
+Rocco120 folds
+breackout calls 80
+Smity2756 folds
+sabre_laser raises 240 to 320
+Nanga Def folds
+Kappaman folds
+stefdieppe folds
+breackout raises 1070 to 1390 and is all-in
+sabre_laser calls 1070
+*** FLOP *** [5c 9c 6c]
+*** TURN *** [5c 9c 6c][8d]
+*** RIVER *** [5c 9c 6c 8d][8s]
+*** SHOW DOWN ***
+breackout shows [As Qd] (One pair : 8)
+sabre_laser shows [7d 7s] (Straight 9 high)
+sabre_laser collected 2980 from pot
+*** SUMMARY ***
+Total pot 2980 | No rake
+Board: [5c 9c 6c 8d 8s]
+Seat 4: breackout showed [As Qd] and lost with One pair : 8
+Seat 6: sabre_laser (button) showed [7d 7s] and won 2980 with Straight 9 high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586289956759011329-13-1446836048 - Holdem no limit (40/80) - 2015/11/06 18:54:08 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 1: stefdieppe (1930)
+Seat 3: Rocco120 (4940)
+Seat 5: Smity2756 (1290)
+Seat 6: sabre_laser (3270)
+Seat 8: Nanga Def (1430)
+Seat 9: Kappaman (2140)
+*** ANTE/BLINDS ***
+Kappaman posts small blind 40
+stefdieppe posts big blind 80
+Dealt to sabre_laser [Tc Kc]
+*** PRE-FLOP *** 
+Rocco120 calls 80
+Smity2756 folds
+sabre_laser calls 80
+Nanga Def calls 80
+Kappaman folds
+stefdieppe checks
+*** FLOP *** [6s Ad 5s]
+stefdieppe checks
+Rocco120 checks
+sabre_laser checks
+Nanga Def bets 240
+stefdieppe folds
+Rocco120 calls 240
+sabre_laser folds
+*** TURN *** [6s Ad 5s][2h]
+Rocco120 checks
+Nanga Def checks
+*** RIVER *** [6s Ad 5s 2h][4c]
+Rocco120 checks
+Nanga Def bets 360
+Rocco120 calls 360
+*** SHOW DOWN ***
+Nanga Def shows [Ah Ts] (One pair : Aces)
+Rocco120 shows [3s As] (Straight 6 high)
+Rocco120 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [6s Ad 5s 2h 4c]
+Seat 3: Rocco120 showed [3s As] and won 1560 with Straight 6 high
+Seat 8: Nanga Def (button) showed [Ah Ts] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586289956759011329-14-1446836111 - Holdem no limit (40/80) - 2015/11/06 18:55:11 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #9 is the button
+Seat 1: stefdieppe (1850)
+Seat 3: Rocco120 (5820)
+Seat 5: Smity2756 (1290)
+Seat 6: sabre_laser (3190)
+Seat 8: Nanga Def (750)
+Seat 9: Kappaman (2100)
+*** ANTE/BLINDS ***
+stefdieppe posts small blind 40
+Rocco120 posts big blind 80
+Dealt to sabre_laser [6c 8s]
+*** PRE-FLOP *** 
+Smity2756 raises 80 to 160
+sabre_laser folds
+Nanga Def folds
+Kappaman folds
+stefdieppe folds
+Rocco120 folds
+Smity2756 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 5: Smity2756 won 280
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586289956759011329-15-1446836151 - Holdem no limit (60/120) - 2015/11/06 18:55:51 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #1 is the button
+Seat 1: stefdieppe (1810)
+Seat 3: Rocco120 (5740)
+Seat 5: Smity2756 (1410)
+Seat 6: sabre_laser (3190)
+Seat 8: Nanga Def (750)
+Seat 9: Kappaman (2100)
+*** ANTE/BLINDS ***
+Rocco120 posts small blind 60
+Smity2756 posts big blind 120
+Dealt to sabre_laser [7s 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def folds
+Kappaman folds
+stefdieppe raises 120 to 240
+Rocco120 raises 5500 to 5740 and is all-in
+Smity2756 calls 1290 and is all-in
+stefdieppe calls 1570 and is all-in
+*** FLOP *** [Ts 4c 9c]
+*** TURN *** [Ts 4c 9c][2d]
+*** RIVER *** [Ts 4c 9c 2d][4d]
+*** SHOW DOWN ***
+stefdieppe shows [3d Ad] (One pair : 4)
+Smity2756 shows [5h 6c] (One pair : 4)
+Rocco120 shows [Ac Qs] (One pair : 4)
+Rocco120 collected 8960 from pot
+*** SUMMARY ***
+Total pot 8960 | No rake
+Board: [Ts 4c 9c 2d 4d]
+Seat 1: stefdieppe (button) showed [3d Ad] and lost with One pair : 4
+Seat 3: Rocco120 (small blind) showed [Ac Qs] and won 8960 with One pair : 4
+Seat 5: Smity2756 (big blind) showed [5h 6c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586289956759011329-16-1446836184 - Holdem no limit (60/120) - 2015/11/06 18:56:24 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (8960)
+Seat 6: sabre_laser (3190)
+Seat 8: Nanga Def (750)
+Seat 9: Kappaman (2100)
+*** ANTE/BLINDS ***
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Kh 3c]
+*** PRE-FLOP *** 
+Nanga Def raises 630 to 750 and is all-in
+Kappaman folds
+Rocco120 folds
+sabre_laser folds
+Nanga Def collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 8: Nanga Def won 870
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586289956759011329-17-1446836208 - Holdem no limit (60/120) - 2015/11/06 18:56:48 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #5 is the button
+Seat 3: Rocco120 (8960)
+Seat 6: sabre_laser (3070)
+Seat 8: Nanga Def (870)
+Seat 9: Kappaman (2100)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Nanga Def posts big blind 120
+Dealt to sabre_laser [2c Tc]
+*** PRE-FLOP *** 
+Kappaman folds
+Rocco120 folds
+sabre_laser folds
+Nanga Def collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: Nanga Def (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586289956759011329-18-1446836219 - Holdem no limit (60/120) - 2015/11/06 18:56:59 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (8960)
+Seat 6: sabre_laser (3010)
+Seat 8: Nanga Def (930)
+Seat 9: Kappaman (2100)
+*** ANTE/BLINDS ***
+Nanga Def posts small blind 60
+Kappaman posts big blind 120
+Dealt to sabre_laser [8d 3d]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser folds
+Nanga Def raises 810 to 930 and is all-in
+Kappaman folds
+Nanga Def collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 8: Nanga Def (small blind) won 1050
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586289956759011329-19-1446836236 - Holdem no limit (60/120) - 2015/11/06 18:57:16 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (8960)
+Seat 6: sabre_laser (3010)
+Seat 8: Nanga Def (1050)
+Seat 9: Kappaman (1980)
+*** ANTE/BLINDS ***
+Kappaman posts small blind 60
+Rocco120 posts big blind 120
+Dealt to sabre_laser [8s Js]
+*** PRE-FLOP *** 
+sabre_laser raises 120 to 240
+Nanga Def folds
+Kappaman folds
+Rocco120 raises 8720 to 8960 and is all-in
+sabre_laser folds
+Rocco120 collected 9260 from pot
+*** SUMMARY ***
+Total pot 9260 | No rake
+Seat 3: Rocco120 (big blind) won 9260
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586289956759011329-20-1446836267 - Holdem no limit (60/120) - 2015/11/06 18:57:47 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #9 is the button
+Seat 3: Rocco120 (9260)
+Seat 6: sabre_laser (2770)
+Seat 8: Nanga Def (1050)
+Seat 9: Kappaman (1920)
+*** ANTE/BLINDS ***
+Rocco120 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [5d 7d]
+*** PRE-FLOP *** 
+Nanga Def folds
+Kappaman folds
+Rocco120 calls 60
+sabre_laser checks
+*** FLOP *** [3s 5c Kc]
+Rocco120 checks
+sabre_laser checks
+*** TURN *** [3s 5c Kc][2d]
+Rocco120 checks
+sabre_laser checks
+*** RIVER *** [3s 5c Kc 2d][6s]
+Rocco120 checks
+sabre_laser checks
+*** SHOW DOWN ***
+Rocco120 shows [Qd Th] (High card : King)
+sabre_laser shows [5d 7d] (One pair : 5)
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3s 5c Kc 2d 6s]
+Seat 3: Rocco120 (small blind) showed [Qd Th] and lost with High card : King
+Seat 6: sabre_laser (big blind) showed [5d 7d] and won 240 with One pair : 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586289956759011329-21-1446836302 - Holdem no limit (60/120) - 2015/11/06 18:58:22 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (9140)
+Seat 6: sabre_laser (2890)
+Seat 8: Nanga Def (1050)
+Seat 9: Kappaman (1920)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Nanga Def posts big blind 120
+Dealt to sabre_laser [6d 9d]
+*** PRE-FLOP *** 
+Kappaman folds
+Rocco120 folds
+sabre_laser calls 60
+Nanga Def checks
+*** FLOP *** [5c 7d 3c]
+sabre_laser bets 120
+Nanga Def folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [5c 7d 3c]
+Seat 6: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-22-1446836341 - Holdem no limit (80/160) - 2015/11/06 18:59:01 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (9140)
+Seat 6: sabre_laser (3010)
+Seat 8: Nanga Def (930)
+Seat 9: Kappaman (1920)
+*** ANTE/BLINDS ***
+Nanga Def posts small blind 80
+Kappaman posts big blind 160
+Dealt to sabre_laser [Td 5h]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser folds
+Nanga Def raises 770 to 930 and is all-in
+Kappaman folds
+Nanga Def collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Seat 8: Nanga Def (small blind) won 1090
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-23-1446836352 - Holdem no limit (80/160) - 2015/11/06 18:59:12 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (9140)
+Seat 6: sabre_laser (3010)
+Seat 8: Nanga Def (1090)
+Seat 9: Kappaman (1760)
+*** ANTE/BLINDS ***
+Kappaman posts small blind 80
+Rocco120 posts big blind 160
+Dealt to sabre_laser [2h 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def folds
+Kappaman raises 1600 to 1760 and is all-in
+Rocco120 calls 1600
+*** FLOP *** [Jc 8s 2c]
+*** TURN *** [Jc 8s 2c][Js]
+*** RIVER *** [Jc 8s 2c Js][3c]
+*** SHOW DOWN ***
+Kappaman shows [7h Ts] (One pair : Jacks)
+Rocco120 shows [5d Ah] (One pair : Jacks)
+Rocco120 collected 3520 from pot
+*** SUMMARY ***
+Total pot 3520 | No rake
+Board: [Jc 8s 2c Js 3c]
+Seat 3: Rocco120 (big blind) showed [5d Ah] and won 3520 with One pair : Jacks
+Seat 9: Kappaman (small blind) showed [7h Ts] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-24-1446836396 - Holdem no limit (80/160) - 2015/11/06 18:59:56 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #9 is the button
+Seat 3: Rocco120 (10900)
+Seat 6: sabre_laser (3010)
+Seat 8: Nanga Def (1090)
+*** ANTE/BLINDS ***
+Rocco120 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [7h Jh]
+*** PRE-FLOP *** 
+Nanga Def raises 930 to 1090 and is all-in
+Rocco120 folds
+sabre_laser folds
+Nanga Def collected 1330 from pot
+*** SUMMARY ***
+Total pot 1330 | No rake
+Seat 8: Nanga Def won 1330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-25-1446836414 - Holdem no limit (80/160) - 2015/11/06 19:00:14 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (10820)
+Seat 6: sabre_laser (2850)
+Seat 8: Nanga Def (1330)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Nanga Def posts big blind 160
+Dealt to sabre_laser [Ks Th]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser calls 80
+Nanga Def raises 1170 to 1330 and is all-in
+sabre_laser calls 1170
+*** FLOP *** [8h Jd 3c]
+*** TURN *** [8h Jd 3c][7s]
+*** RIVER *** [8h Jd 3c 7s][6d]
+*** SHOW DOWN ***
+sabre_laser shows [Ks Th] (High card : King)
+Nanga Def shows [4d 4h] (One pair : 4)
+Nanga Def collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [8h Jd 3c 7s 6d]
+Seat 6: sabre_laser (small blind) showed [Ks Th] and lost with High card : King
+Seat 8: Nanga Def (big blind) showed [4d 4h] and won 2660 with One pair : 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-26-1446836436 - Holdem no limit (80/160) - 2015/11/06 19:00:36 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (10820)
+Seat 6: sabre_laser (1520)
+Seat 8: Nanga Def (2660)
+*** ANTE/BLINDS ***
+Nanga Def posts small blind 80
+Rocco120 posts big blind 160
+Dealt to sabre_laser [2c 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def calls 80
+Rocco120 raises 10660 to 10820 and is all-in
+Nanga Def folds
+Rocco120 collected 10980 from pot
+*** SUMMARY ***
+Total pot 10980 | No rake
+Seat 3: Rocco120 (big blind) won 10980
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-27-1446836446 - Holdem no limit (80/160) - 2015/11/06 19:00:46 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (10980)
+Seat 6: sabre_laser (1520)
+Seat 8: Nanga Def (2500)
+*** ANTE/BLINDS ***
+Rocco120 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [2s Kc]
+*** PRE-FLOP *** 
+Nanga Def folds
+Rocco120 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-28-1446836465 - Holdem no limit (80/160) - 2015/11/06 19:01:05 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (10900)
+Seat 6: sabre_laser (1600)
+Seat 8: Nanga Def (2500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Nanga Def posts big blind 160
+Dealt to sabre_laser [6h 6s]
+*** PRE-FLOP *** 
+Rocco120 raises 160 to 320
+sabre_laser raises 1280 to 1600 and is all-in
+Nanga Def folds
+Rocco120 calls 1280
+*** FLOP *** [Jc Qc 3c]
+*** TURN *** [Jc Qc 3c][3s]
+*** RIVER *** [Jc Qc 3c 3s][Tc]
+*** SHOW DOWN ***
+Rocco120 shows [As 7s] (One pair : 3)
+sabre_laser shows [6h 6s] (Two pairs : 6 and 3)
+sabre_laser collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Board: [Jc Qc 3c 3s Tc]
+Seat 3: Rocco120 (button) showed [As 7s] and lost with One pair : 3
+Seat 6: sabre_laser (small blind) showed [6h 6s] and won 3360 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586289956759011329-29-1446836488 - Holdem no limit (80/160) - 2015/11/06 19:01:28 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (9300)
+Seat 6: sabre_laser (3360)
+Seat 8: Nanga Def (2340)
+*** ANTE/BLINDS ***
+Nanga Def posts small blind 80
+Rocco120 posts big blind 160
+Dealt to sabre_laser [Js 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def raises 2180 to 2340 and is all-in
+Rocco120 folds
+Nanga Def collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 8: Nanga Def (small blind) won 2500
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586289956759011329-30-1446836505 - Holdem no limit (10/100/200) - 2015/11/06 19:01:45 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (9140)
+Seat 6: sabre_laser (3360)
+Seat 8: Nanga Def (2500)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 10
+sabre_laser posts ante 10
+Nanga Def posts ante 10
+Rocco120 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [4d 8s]
+*** PRE-FLOP *** 
+Nanga Def folds
+Rocco120 folds
+sabre_laser collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 6: sabre_laser (big blind) won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586289956759011329-31-1446836521 - Holdem no limit (10/100/200) - 2015/11/06 19:02:01 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (9030)
+Seat 6: sabre_laser (3480)
+Seat 8: Nanga Def (2490)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Nanga Def posts ante 10
+Rocco120 posts ante 10
+sabre_laser posts small blind 100
+Nanga Def posts big blind 200
+Dealt to sabre_laser [4c Jh]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser folds
+Nanga Def collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 8: Nanga Def (big blind) won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586289956759011329-32-1446836539 - Holdem no limit (10/100/200) - 2015/11/06 19:02:19 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (9020)
+Seat 6: sabre_laser (3370)
+Seat 8: Nanga Def (2610)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 10
+Rocco120 posts ante 10
+sabre_laser posts ante 10
+Nanga Def posts small blind 100
+Rocco120 posts big blind 200
+Dealt to sabre_laser [Tc 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def calls 100
+Rocco120 checks
+*** FLOP *** [5c Th 7h]
+Nanga Def checks
+Rocco120 bets 300
+Nanga Def folds
+Rocco120 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [5c Th 7h]
+Seat 3: Rocco120 (big blind) won 730
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586289956759011329-33-1446836572 - Holdem no limit (10/100/200) - 2015/11/06 19:02:52 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (9240)
+Seat 6: sabre_laser (3360)
+Seat 8: Nanga Def (2400)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 10
+sabre_laser posts ante 10
+Nanga Def posts ante 10
+Rocco120 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9c 2h]
+*** PRE-FLOP *** 
+Nanga Def folds
+Rocco120 raises 800 to 1000
+sabre_laser folds
+Rocco120 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Seat 3: Rocco120 (small blind) won 1230
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586289956759011329-34-1446836604 - Holdem no limit (10/100/200) - 2015/11/06 19:03:24 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (9460)
+Seat 6: sabre_laser (3150)
+Seat 8: Nanga Def (2390)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Nanga Def posts ante 10
+Rocco120 posts ante 10
+sabre_laser posts small blind 100
+Nanga Def posts big blind 200
+Dealt to sabre_laser [2d 7s]
+*** PRE-FLOP *** 
+Rocco120 calls 200
+sabre_laser folds
+Nanga Def checks
+*** FLOP *** [Td Ah 4c]
+Nanga Def checks
+Rocco120 checks
+*** TURN *** [Td Ah 4c][Ac]
+Nanga Def checks
+Rocco120 checks
+*** RIVER *** [Td Ah 4c Ac][9h]
+Nanga Def checks
+Rocco120 checks
+*** SHOW DOWN ***
+Rocco120 shows [Qs Js] (One pair : Aces)
+Nanga Def shows [6s 6c] (Two pairs : Aces and 6)
+Nanga Def collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [Td Ah 4c Ac 9h]
+Seat 3: Rocco120 (button) showed [Qs Js] and lost with One pair : Aces
+Seat 8: Nanga Def (big blind) showed [6s 6c] and won 530 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-35-1446836676 - Holdem no limit (20/150/300) - 2015/11/06 19:04:36 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (9250)
+Seat 6: sabre_laser (3040)
+Seat 8: Nanga Def (2710)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 20
+Rocco120 posts ante 20
+sabre_laser posts ante 20
+Nanga Def posts small blind 150
+Rocco120 posts big blind 300
+Dealt to sabre_laser [2c Ac]
+*** PRE-FLOP *** 
+sabre_laser raises 2720 to 3020 and is all-in
+Nanga Def folds
+Rocco120 folds
+sabre_laser collected 3530 from pot
+*** SUMMARY ***
+Total pot 3530 | No rake
+Seat 6: sabre_laser (button) won 3530
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-36-1446836691 - Holdem no limit (20/150/300) - 2015/11/06 19:04:51 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (8930)
+Seat 6: sabre_laser (3530)
+Seat 8: Nanga Def (2540)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 20
+sabre_laser posts ante 20
+Nanga Def posts ante 20
+Rocco120 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [4s Th]
+*** PRE-FLOP *** 
+Nanga Def folds
+Rocco120 folds
+sabre_laser collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 6: sabre_laser (big blind) won 510
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-37-1446836722 - Holdem no limit (20/150/300) - 2015/11/06 19:05:22 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (8760)
+Seat 6: sabre_laser (3720)
+Seat 8: Nanga Def (2520)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Nanga Def posts ante 20
+Rocco120 posts ante 20
+sabre_laser posts small blind 150
+Nanga Def posts big blind 300
+Dealt to sabre_laser [2s 5d]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser raises 300 to 600
+Nanga Def folds
+sabre_laser collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 6: sabre_laser (small blind) won 960
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-38-1446836736 - Holdem no limit (20/150/300) - 2015/11/06 19:05:36 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (8740)
+Seat 6: sabre_laser (4060)
+Seat 8: Nanga Def (2200)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 20
+Rocco120 posts ante 20
+sabre_laser posts ante 20
+Nanga Def posts small blind 150
+Rocco120 posts big blind 300
+Dealt to sabre_laser [4h Ac]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def calls 150
+Rocco120 checks
+*** FLOP *** [9d 9h 8h]
+Nanga Def checks
+Rocco120 checks
+*** TURN *** [9d 9h 8h][6d]
+Nanga Def bets 300
+Rocco120 folds
+Nanga Def collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [9d 9h 8h 6d]
+Seat 8: Nanga Def (small blind) won 960
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-39-1446836756 - Holdem no limit (20/150/300) - 2015/11/06 19:05:56 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (8420)
+Seat 6: sabre_laser (4040)
+Seat 8: Nanga Def (2540)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 20
+sabre_laser posts ante 20
+Nanga Def posts ante 20
+Rocco120 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [As Td]
+*** PRE-FLOP *** 
+Nanga Def folds
+Rocco120 folds
+sabre_laser collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 6: sabre_laser (big blind) won 510
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-40-1446836761 - Holdem no limit (20/150/300) - 2015/11/06 19:06:01 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (8250)
+Seat 6: sabre_laser (4230)
+Seat 8: Nanga Def (2520)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Nanga Def posts ante 20
+Rocco120 posts ante 20
+sabre_laser posts small blind 150
+Nanga Def posts big blind 300
+Dealt to sabre_laser [5s Ah]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser raises 300 to 600
+Nanga Def calls 300
+*** FLOP *** [3s 7d Kd]
+sabre_laser bets 630
+Nanga Def folds
+sabre_laser collected 1890 from pot
+*** SUMMARY ***
+Total pot 1890 | No rake
+Board: [3s 7d Kd]
+Seat 6: sabre_laser (small blind) won 1890
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-41-1446836798 - Holdem no limit (20/150/300) - 2015/11/06 19:06:38 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (8230)
+Seat 6: sabre_laser (4870)
+Seat 8: Nanga Def (1900)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 20
+Rocco120 posts ante 20
+sabre_laser posts ante 20
+Nanga Def posts small blind 150
+Rocco120 posts big blind 300
+Dealt to sabre_laser [Ah 8d]
+*** PRE-FLOP *** 
+sabre_laser raises 4550 to 4850 and is all-in
+Nanga Def folds
+Rocco120 folds
+sabre_laser collected 5360 from pot
+*** SUMMARY ***
+Total pot 5360 | No rake
+Seat 6: sabre_laser (button) won 5360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-42-1446836817 - Holdem no limit (20/150/300) - 2015/11/06 19:06:57 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (7910)
+Seat 6: sabre_laser (5360)
+Seat 8: Nanga Def (1730)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 20
+sabre_laser posts ante 20
+Nanga Def posts ante 20
+Rocco120 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [4h 5d]
+*** PRE-FLOP *** 
+Nanga Def raises 1410 to 1710 and is all-in
+Rocco120 folds
+sabre_laser folds
+Nanga Def collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 8: Nanga Def (button) won 2220
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-43-1446836826 - Holdem no limit (20/150/300) - 2015/11/06 19:07:06 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (7740)
+Seat 6: sabre_laser (5040)
+Seat 8: Nanga Def (2220)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Nanga Def posts ante 20
+Rocco120 posts ante 20
+sabre_laser posts small blind 150
+Nanga Def posts big blind 300
+Dealt to sabre_laser [Th Ad]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser raises 4720 to 5020 and is all-in
+Nanga Def folds
+sabre_laser collected 5380 from pot
+*** SUMMARY ***
+Total pot 5380 | No rake
+Seat 6: sabre_laser (small blind) won 5380
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #586289956759011329-44-1446836843 - Holdem no limit (20/150/300) - 2015/11/06 19:07:23 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (7720)
+Seat 6: sabre_laser (5380)
+Seat 8: Nanga Def (1900)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 20
+Rocco120 posts ante 20
+sabre_laser posts ante 20
+Nanga Def posts small blind 150
+Rocco120 posts big blind 300
+Dealt to sabre_laser [7s Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def raises 1580 to 1880 and is all-in
+Rocco120 folds
+Nanga Def collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Seat 8: Nanga Def (small blind) won 2240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-45-1446836855 - Holdem no limit (50/200/400) - 2015/11/06 19:07:35 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (7400)
+Seat 6: sabre_laser (5360)
+Seat 8: Nanga Def (2240)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 50
+sabre_laser posts ante 50
+Nanga Def posts ante 50
+Rocco120 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [5c Jh]
+*** PRE-FLOP *** 
+Nanga Def raises 1790 to 2190 and is all-in
+Rocco120 folds
+sabre_laser folds
+Nanga Def collected 2940 from pot
+*** SUMMARY ***
+Total pot 2940 | No rake
+Seat 8: Nanga Def (button) won 2940
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-46-1446836866 - Holdem no limit (50/200/400) - 2015/11/06 19:07:46 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (7150)
+Seat 6: sabre_laser (4910)
+Seat 8: Nanga Def (2940)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Nanga Def posts ante 50
+Rocco120 posts ante 50
+sabre_laser posts small blind 200
+Nanga Def posts big blind 400
+Dealt to sabre_laser [9s 9c]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser raises 4460 to 4860 and is all-in
+Nanga Def folds
+sabre_laser collected 5410 from pot
+*** SUMMARY ***
+Total pot 5410 | No rake
+Seat 6: sabre_laser (small blind) won 5410
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-47-1446836877 - Holdem no limit (50/200/400) - 2015/11/06 19:07:57 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (7100)
+Seat 6: sabre_laser (5410)
+Seat 8: Nanga Def (2490)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 50
+Rocco120 posts ante 50
+sabre_laser posts ante 50
+Nanga Def posts small blind 200
+Rocco120 posts big blind 400
+Dealt to sabre_laser [5s Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def folds
+Rocco120 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 3: Rocco120 (big blind) won 750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-48-1446836882 - Holdem no limit (50/200/400) - 2015/11/06 19:08:02 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (7400)
+Seat 6: sabre_laser (5360)
+Seat 8: Nanga Def (2240)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 50
+sabre_laser posts ante 50
+Nanga Def posts ante 50
+Rocco120 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [5d Jh]
+*** PRE-FLOP *** 
+Nanga Def folds
+Rocco120 raises 6950 to 7350 and is all-in
+sabre_laser folds
+Rocco120 collected 7900 from pot
+*** SUMMARY ***
+Total pot 7900 | No rake
+Seat 3: Rocco120 (small blind) won 7900
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-49-1446836890 - Holdem no limit (50/200/400) - 2015/11/06 19:08:10 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (7900)
+Seat 6: sabre_laser (4910)
+Seat 8: Nanga Def (2190)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Nanga Def posts ante 50
+Rocco120 posts ante 50
+sabre_laser posts small blind 200
+Nanga Def posts big blind 400
+Dealt to sabre_laser [Ac Qh]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser raises 400 to 800
+Nanga Def folds
+sabre_laser collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 6: sabre_laser (small blind) won 1350
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-50-1446836899 - Holdem no limit (50/200/400) - 2015/11/06 19:08:19 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (7850)
+Seat 6: sabre_laser (5410)
+Seat 8: Nanga Def (1740)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 50
+Rocco120 posts ante 50
+sabre_laser posts ante 50
+Nanga Def posts small blind 200
+Rocco120 posts big blind 400
+Dealt to sabre_laser [8s 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Nanga Def raises 1290 to 1690 and is all-in
+Rocco120 folds
+Nanga Def collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Seat 8: Nanga Def (small blind) won 2240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-51-1446836908 - Holdem no limit (50/200/400) - 2015/11/06 19:08:28 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Rocco120 (7400)
+Seat 6: sabre_laser (5360)
+Seat 8: Nanga Def (2240)
+*** ANTE/BLINDS ***
+Rocco120 posts ante 50
+sabre_laser posts ante 50
+Nanga Def posts ante 50
+Rocco120 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [9s Tc]
+*** PRE-FLOP *** 
+Nanga Def folds
+Rocco120 folds
+sabre_laser collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 6: sabre_laser (big blind) won 750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-52-1446836915 - Holdem no limit (50/200/400) - 2015/11/06 19:08:35 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Rocco120 (7150)
+Seat 6: sabre_laser (5660)
+Seat 8: Nanga Def (2190)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Nanga Def posts ante 50
+Rocco120 posts ante 50
+sabre_laser posts small blind 200
+Nanga Def posts big blind 400
+Dealt to sabre_laser [Qs 6s]
+*** PRE-FLOP *** 
+Rocco120 folds
+sabre_laser raises 400 to 800
+Nanga Def raises 1340 to 2140 and is all-in
+sabre_laser calls 1340
+*** FLOP *** [2h 2d 3s]
+*** TURN *** [2h 2d 3s][8c]
+*** RIVER *** [2h 2d 3s 8c][4h]
+*** SHOW DOWN ***
+sabre_laser shows [Qs 6s] (One pair : 2)
+Nanga Def shows [Qd Ts] (One pair : 2)
+Nanga Def collected 4430 from pot
+*** SUMMARY ***
+Total pot 4430 | No rake
+Board: [2h 2d 3s 8c 4h]
+Seat 6: sabre_laser (small blind) showed [Qs 6s] and lost with One pair : 2
+Seat 8: Nanga Def (big blind) showed [Qd Ts] and won 4430 with One pair : 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #586289956759011329-53-1446836947 - Holdem no limit (50/200/400) - 2015/11/06 19:09:07 UTC
+Table: 'No Limit Hold'em(136506268)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Rocco120 (7100)
+Seat 6: sabre_laser (3470)
+Seat 8: Nanga Def (4430)
+*** ANTE/BLINDS ***
+Nanga Def posts ante 50
+Rocco120 posts ante 50
+sabre_laser posts ante 50
+Nanga Def posts small blind 200
+Rocco120 posts big blind 400
+Dealt to sabre_laser [8s Js]
+*** PRE-FLOP *** 
+sabre_laser raises 3020 to 3420 and is all-in
+Nanga Def folds
+Rocco120 calls 3020
+*** FLOP *** [Jc 7s Ah]
+*** TURN *** [Jc 7s Ah][Ac]
+*** RIVER *** [Jc 7s Ah Ac][6c]
+*** SHOW DOWN ***
+sabre_laser shows [8s Js] (Two pairs : Aces and Jacks)
+Rocco120 shows [4s As] (Trips of Aces)
+Rocco120 collected 7190 from pot
+*** SUMMARY ***
+Total pot 7190 | No rake
+Board: [Jc 7s Ah Ac 6c]
+Seat 3: Rocco120 (big blind) showed [4s As] and won 7190 with Trips of Aces
+Seat 6: sabre_laser (button) showed [8s Js] and lost with Two pairs : Aces and Jacks
+
+

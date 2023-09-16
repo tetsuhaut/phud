@@ -1,0 +1,216 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #548693024230605452-1-1441038630 - Holdem no limit (10/20) - 2015/08/31 16:30:30 UTC
+Table: 'Freeroll(127752550)#651' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (3000)
+Seat 2: Mrjeremya (3000)
+Seat 3: CALOU6963 (3000)
+Seat 4: Rz697 (3000)
+Seat 5: pinoc59 (3000)
+Seat 6: Celesti (3000)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Mrjeremya posts big blind 20
+Dealt to sabre_laser [4h 8h]
+*** PRE-FLOP *** 
+CALOU6963 folds
+Rz697 folds
+pinoc59 calls 20
+Celesti raises 60 to 80
+sabre_laser folds
+Mrjeremya folds
+pinoc59 calls 60
+*** FLOP *** [7s 7d 8s]
+pinoc59 bets 190
+Celesti raises 190 to 380
+pinoc59 raises 190 to 570
+Celesti calls 190
+*** TURN *** [7s 7d 8s][3s]
+pinoc59 bets 2350 and is all-in
+Celesti folds
+pinoc59 collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | No rake
+Board: [7s 7d 8s 3s]
+Seat 5: pinoc59 won 3680
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #548693024230605452-2-1441038788 - Holdem no limit (10/20) - 2015/08/31 16:33:08 UTC
+Table: 'Freeroll(127752550)#651' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2990)
+Seat 2: Mrjeremya (2980)
+Seat 3: CALOU6963 (3000)
+Seat 4: Rz697 (3000)
+Seat 5: pinoc59 (3680)
+Seat 6: titon42 (2990)
+*** ANTE/BLINDS ***
+Mrjeremya posts small blind 10
+CALOU6963 posts big blind 20
+Dealt to sabre_laser [5c 8s]
+*** PRE-FLOP *** 
+Rz697 folds
+pinoc59 calls 20
+titon42 folds
+sabre_laser folds
+Mrjeremya calls 10
+CALOU6963 checks
+*** FLOP *** [Jd 7c 2c]
+Mrjeremya bets 60
+CALOU6963 folds
+pinoc59 calls 60
+*** TURN *** [Jd 7c 2c][3h]
+Mrjeremya bets 2900 and is all-in
+pinoc59 folds
+Mrjeremya collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [Jd 7c 2c 3h]
+Seat 2: Mrjeremya (small blind) won 3080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #548693024230605452-3-1441038872 - Holdem no limit (15/30) - 2015/08/31 16:34:32 UTC
+Table: 'Freeroll(127752550)#651' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2990)
+Seat 2: Mrjeremya (3080)
+Seat 3: CALOU6963 (2980)
+Seat 4: Rz697 (3000)
+Seat 5: pinoc59 (3600)
+Seat 6: titon42 (2990)
+*** ANTE/BLINDS ***
+CALOU6963 posts small blind 15
+Rz697 posts big blind 30
+Dealt to sabre_laser [5h 8s]
+*** PRE-FLOP *** 
+pinoc59 folds
+titon42 calls 30
+sabre_laser folds
+Mrjeremya calls 30
+CALOU6963 calls 15
+Rz697 folds
+*** FLOP *** [As 7d 9h]
+CALOU6963 checks
+titon42 checks
+Mrjeremya bets 30
+CALOU6963 folds
+titon42 folds
+Mrjeremya collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [As 7d 9h]
+Seat 2: Mrjeremya (button) won 150
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #548693024230605452-4-1441038923 - Holdem no limit (15/30) - 2015/08/31 16:35:23 UTC
+Table: 'Freeroll(127752550)#651' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2990)
+Seat 2: Mrjeremya (3170)
+Seat 3: CALOU6963 (2950)
+Seat 4: Rz697 (2970)
+Seat 5: pinoc59 (3600)
+Seat 6: titon42 (2960)
+*** ANTE/BLINDS ***
+Rz697 posts small blind 15
+pinoc59 posts big blind 30
+Dealt to sabre_laser [As 4h]
+*** PRE-FLOP *** 
+titon42 folds
+sabre_laser raises 30 to 60
+Mrjeremya calls 60
+CALOU6963 folds
+Rz697 folds
+pinoc59 calls 30
+*** FLOP *** [8s Ad 7d]
+pinoc59 checks
+sabre_laser bets 195
+Mrjeremya folds
+pinoc59 folds
+sabre_laser collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [8s Ad 7d]
+Seat 1: sabre_laser won 390
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #548693024230605452-5-1441038983 - Holdem no limit (15/30) - 2015/08/31 16:36:23 UTC
+Table: 'Freeroll(127752550)#651' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3125)
+Seat 2: Mrjeremya (3110)
+Seat 3: CALOU6963 (2950)
+Seat 4: Rz697 (2955)
+Seat 5: pinoc59 (3540)
+Seat 6: titon42 (2960)
+*** ANTE/BLINDS ***
+pinoc59 posts small blind 15
+titon42 posts big blind 30
+Dealt to sabre_laser [Ts Js]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Mrjeremya folds
+CALOU6963 folds
+Rz697 folds
+pinoc59 calls 15
+titon42 raises 30 to 60
+sabre_laser calls 30
+pinoc59 calls 30
+*** FLOP *** [7s 4s 6s]
+pinoc59 bets 180
+titon42 calls 180
+sabre_laser raises 2885 to 3065 and is all-in
+pinoc59 folds
+titon42 calls 2720 and is all-in
+*** TURN *** [7s 4s 6s][7d]
+*** RIVER *** [7s 4s 6s 7d][Ad]
+*** SHOW DOWN ***
+titon42 shows [Qs Ks] (Flush King high)
+sabre_laser shows [Ts Js] (Flush Jack high)
+sabre_laser collected 165 from side pot 1
+titon42 collected 6160 from main pot
+*** SUMMARY ***
+Total pot 6325 | No rake
+Board: [7s 4s 6s 7d Ad]
+Seat 1: sabre_laser showed [Ts Js] and won 165 with Flush Jack high
+Seat 6: titon42 (big blind) showed [Qs Ks] and won 6160 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #548693024230605452-6-1441039048 - Holdem no limit (20/40) - 2015/08/31 16:37:28 UTC
+Table: 'Freeroll(127752550)#651' 6-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (165)
+Seat 2: Mrjeremya (3110)
+Seat 3: CALOU6963 (2950)
+Seat 4: Rz697 (2955)
+Seat 5: pinoc59 (3300)
+Seat 6: titon42 (6160)
+*** ANTE/BLINDS ***
+titon42 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ad Qd]
+*** PRE-FLOP *** 
+Mrjeremya calls 40
+CALOU6963 folds
+Rz697 folds
+pinoc59 calls 40
+titon42 calls 20
+sabre_laser raises 125 to 165 and is all-in
+Mrjeremya calls 125
+pinoc59 calls 125
+titon42 calls 125
+*** FLOP *** [8s 6s 4s]
+titon42 checks
+Mrjeremya bets 660
+pinoc59 calls 660
+titon42 folds
+*** TURN *** [8s 6s 4s][Ac]
+Mrjeremya bets 2285 and is all-in
+pinoc59 calls 2285
+*** RIVER *** [8s 6s 4s Ac][5s]
+*** SHOW DOWN ***
+sabre_laser shows [Ad Qd] (One pair : Aces)
+Mrjeremya shows [As 6c] (Flush Ace high)
+pinoc59 shows [7s 3s] (Straight flush 8)
+pinoc59 collected 6550 from pot
+*** SUMMARY ***
+Total pot 6550 | No rake
+Board: [8s 6s 4s Ac 5s]
+Seat 1: sabre_laser (big blind) showed [Ad Qd] and lost with One pair : Aces
+Seat 2: Mrjeremya showed [As 6c] and lost with Flush Ace high
+Seat 5: pinoc59 (button) showed [7s 3s] and won 6550 with Straight flush 8
+
+

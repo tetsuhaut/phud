@@ -1,0 +1,463 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463059395052306433-1-1422224570 - Holdem no limit (10/20) - 2015/01/25 22:22:50 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 72waldokitty (1500)
+Seat 2: xXXxADExXXx (1500)
+Seat 3: egyptiens (1500)
+Seat 4: Dipsa (1500)
+Seat 5: sgerard (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Ludo0213 (1500)
+Seat 8: fabauer (1500)
+Seat 9: SpewItRight (1500)
+Seat 10: LABELLE VIE (1500)
+*** ANTE/BLINDS ***
+sgerard posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2s Jd]
+*** PRE-FLOP *** 
+Ludo0213 folds
+fabauer raises 40 to 60
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty calls 60
+xXXxADExXXx folds
+egyptiens folds
+Dipsa folds
+sgerard folds
+sabre_laser folds
+*** FLOP *** [9h 2d Ah]
+fabauer bets 75
+72waldokitty folds
+fabauer collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [9h 2d Ah]
+Seat 8: fabauer won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463059395052306433-2-1422224669 - Holdem no limit (10/20) - 2015/01/25 22:24:29 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1500)
+Seat 3: egyptiens (1500)
+Seat 4: Dipsa (1500)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (1480)
+Seat 7: Ludo0213 (1500)
+Seat 8: fabauer (1590)
+Seat 9: SpewItRight (1500)
+Seat 10: LABELLE VIE (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Ludo0213 posts big blind 20
+Dealt to sabre_laser [6s 2c]
+*** PRE-FLOP *** 
+fabauer folds
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx folds
+egyptiens folds
+Dipsa calls 20
+sgerard folds
+sabre_laser calls 10
+Ludo0213 checks
+*** FLOP *** [Kd 6d 9d]
+sabre_laser bets 60
+Ludo0213 calls 60
+Dipsa folds
+*** TURN *** [Kd 6d 9d][4d]
+sabre_laser bets 140
+Ludo0213 calls 140
+*** RIVER *** [Kd 6d 9d 4d][5h]
+sabre_laser checks
+Ludo0213 bets 200
+sabre_laser folds
+Ludo0213 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Kd 6d 9d 4d 5h]
+Seat 7: Ludo0213 (big blind) won 660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #463059395052306433-3-1422224798 - Holdem no limit (10/20) - 2015/01/25 22:26:38 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1500)
+Seat 3: egyptiens (1500)
+Seat 4: Dipsa (1480)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (1260)
+Seat 7: Ludo0213 (1740)
+Seat 8: fabauer (1590)
+Seat 9: SpewItRight (1500)
+Seat 10: LABELLE VIE (1500)
+*** ANTE/BLINDS ***
+Ludo0213 posts small blind 10
+fabauer posts big blind 20
+Dealt to sabre_laser [7c 6c]
+*** PRE-FLOP *** 
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx folds
+egyptiens raises 80 to 100
+Dipsa calls 100
+sgerard folds
+sabre_laser calls 100
+Ludo0213 folds
+fabauer folds
+*** FLOP *** [Ad Ah As]
+egyptiens checks
+Dipsa checks
+sabre_laser checks
+*** TURN *** [Ad Ah As][7h]
+egyptiens bets 165
+Dipsa calls 165
+sabre_laser calls 165
+*** RIVER *** [Ad Ah As 7h][9s]
+egyptiens bets 300
+Dipsa calls 300
+sabre_laser calls 300
+*** SHOW DOWN ***
+egyptiens shows [Ks Kd] (Full of Aces and Kings)
+sabre_laser shows [7c 6c] (Full of Aces and 7)
+Dipsa shows [5c Ac] (Quads of Aces)
+Dipsa collected 1725 from pot
+*** SUMMARY ***
+Total pot 1725 | No rake
+Board: [Ad Ah As 7h 9s]
+Seat 3: egyptiens showed [Ks Kd] and lost with Full of Aces and Kings
+Seat 4: Dipsa showed [5c Ac] and won 1725 with Quads of Aces
+Seat 6: sabre_laser (button) showed [7c 6c] and lost with Full of Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463059395052306433-4-1422224964 - Holdem no limit (15/30) - 2015/01/25 22:29:24 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #7 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1500)
+Seat 3: egyptiens (935)
+Seat 4: Dipsa (2640)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (695)
+Seat 7: Ludo0213 (1730)
+Seat 8: fabauer (1570)
+Seat 9: SpewItRight (1500)
+Seat 10: LABELLE VIE (1500)
+*** ANTE/BLINDS ***
+fabauer posts small blind 15
+SpewItRight posts big blind 30
+Dealt to sabre_laser [4c 4d]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx calls 30
+egyptiens folds
+Dipsa folds
+sgerard folds
+sabre_laser raises 120 to 150
+Ludo0213 folds
+fabauer folds
+SpewItRight folds
+xXXxADExXXx folds
+sabre_laser collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 6: sabre_laser won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463059395052306433-5-1422225012 - Holdem no limit (15/30) - 2015/01/25 22:30:12 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1470)
+Seat 3: egyptiens (935)
+Seat 4: Dipsa (2640)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (770)
+Seat 7: Ludo0213 (1730)
+Seat 8: fabauer (1555)
+Seat 9: SpewItRight (1470)
+Seat 10: LABELLE VIE (1500)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 15
+LABELLE VIE posts big blind 30
+Dealt to sabre_laser [4c 8c]
+*** PRE-FLOP *** 
+72waldokitty folds
+xXXxADExXXx folds
+egyptiens raises 75 to 105
+Dipsa folds
+sgerard folds
+sabre_laser folds
+Ludo0213 folds
+fabauer folds
+SpewItRight folds
+LABELLE VIE folds
+egyptiens collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: egyptiens won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463059395052306433-6-1422225064 - Holdem no limit (15/30) - 2015/01/25 22:31:04 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1470)
+Seat 3: egyptiens (980)
+Seat 4: Dipsa (2640)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (770)
+Seat 7: Ludo0213 (1730)
+Seat 8: fabauer (1555)
+Seat 9: SpewItRight (1455)
+Seat 10: LABELLE VIE (1470)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 15
+72waldokitty posts big blind 30
+Dealt to sabre_laser [2s 5h]
+*** PRE-FLOP *** 
+xXXxADExXXx folds
+egyptiens folds
+Dipsa folds
+sgerard folds
+sabre_laser folds
+Ludo0213 folds
+fabauer raises 60 to 90
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+fabauer collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 8: fabauer won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463059395052306433-7-1422225116 - Holdem no limit (15/30) - 2015/01/25 22:31:56 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 72waldokitty (1410)
+Seat 2: xXXxADExXXx (1470)
+Seat 3: egyptiens (980)
+Seat 4: Dipsa (2640)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (770)
+Seat 7: Ludo0213 (1730)
+Seat 8: fabauer (1600)
+Seat 9: SpewItRight (1455)
+Seat 10: LABELLE VIE (1455)
+*** ANTE/BLINDS ***
+72waldokitty posts small blind 15
+xXXxADExXXx posts big blind 30
+Dealt to sabre_laser [9c 7c]
+*** PRE-FLOP *** 
+egyptiens folds
+Dipsa folds
+sgerard folds
+sabre_laser folds
+Ludo0213 folds
+fabauer folds
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: xXXxADExXXx (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463059395052306433-8-1422225171 - Holdem no limit (15/30) - 2015/01/25 22:32:51 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 72waldokitty (1395)
+Seat 2: xXXxADExXXx (1485)
+Seat 3: egyptiens (980)
+Seat 4: Dipsa (2640)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (770)
+Seat 7: Ludo0213 (1730)
+Seat 8: fabauer (1600)
+Seat 9: SpewItRight (1455)
+Seat 10: LABELLE VIE (1455)
+*** ANTE/BLINDS ***
+xXXxADExXXx posts small blind 15
+egyptiens posts big blind 30
+Dealt to sabre_laser [9s 8d]
+*** PRE-FLOP *** 
+Dipsa folds
+sgerard folds
+sabre_laser folds
+Ludo0213 folds
+fabauer folds
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx folds
+egyptiens collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: egyptiens (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463059395052306433-9-1422225207 - Holdem no limit (15/30) - 2015/01/25 22:33:27 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 72waldokitty (1395)
+Seat 2: xXXxADExXXx (1470)
+Seat 3: egyptiens (995)
+Seat 4: Dipsa (2640)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (770)
+Seat 7: Ludo0213 (1730)
+Seat 8: fabauer (1600)
+Seat 9: SpewItRight (1455)
+Seat 10: LABELLE VIE (1455)
+*** ANTE/BLINDS ***
+egyptiens posts small blind 15
+Dipsa posts big blind 30
+Dealt to sabre_laser [8d Ah]
+*** PRE-FLOP *** 
+sgerard folds
+sabre_laser folds
+Ludo0213 folds
+fabauer folds
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty raises 60 to 90
+xXXxADExXXx folds
+egyptiens folds
+Dipsa folds
+72waldokitty collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 1: 72waldokitty won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #463059395052306433-10-1422225240 - Holdem no limit (15/30) - 2015/01/25 22:34:00 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1470)
+Seat 3: egyptiens (980)
+Seat 4: Dipsa (2610)
+Seat 5: sgerard (1490)
+Seat 6: sabre_laser (770)
+Seat 7: Ludo0213 (1730)
+Seat 8: fabauer (1600)
+Seat 9: SpewItRight (1455)
+Seat 10: LABELLE VIE (1455)
+*** ANTE/BLINDS ***
+Dipsa posts small blind 15
+sgerard posts big blind 30
+Dealt to sabre_laser [2s As]
+*** PRE-FLOP *** 
+sabre_laser folds
+Ludo0213 raises 30 to 60
+fabauer folds
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx folds
+egyptiens folds
+Dipsa folds
+sgerard calls 30
+*** FLOP *** [Jc 3c 9c]
+sgerard checks
+Ludo0213 checks
+*** TURN *** [Jc 3c 9c][Qs]
+sgerard checks
+Ludo0213 bets 60
+sgerard calls 60
+*** RIVER *** [Jc 3c 9c Qs][Kc]
+sgerard checks
+Ludo0213 checks
+*** SHOW DOWN ***
+sgerard shows [9s Js] (Two pairs : Jacks and 9)
+Ludo0213 shows [Qh Qd] (Trips of Queens)
+Ludo0213 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [Jc 3c 9c Qs Kc]
+Seat 5: sgerard (big blind) showed [9s Js] and lost with Two pairs : Jacks and 9
+Seat 7: Ludo0213 showed [Qh Qd] and won 255 with Trips of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463059395052306433-11-1422225337 - Holdem no limit (20/40) - 2015/01/25 22:35:37 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1470)
+Seat 3: egyptiens (980)
+Seat 4: Dipsa (2595)
+Seat 5: sgerard (1370)
+Seat 6: sabre_laser (770)
+Seat 7: Ludo0213 (1865)
+Seat 8: fabauer (1600)
+Seat 9: SpewItRight (1455)
+Seat 10: LABELLE VIE (1455)
+*** ANTE/BLINDS ***
+sgerard posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ts 9c]
+*** PRE-FLOP *** 
+Ludo0213 folds
+fabauer calls 40
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx folds
+egyptiens folds
+Dipsa calls 40
+sgerard folds
+sabre_laser checks
+*** FLOP *** [Qd Jh 6s]
+sabre_laser checks
+fabauer checks
+Dipsa bets 140
+sabre_laser folds
+fabauer folds
+Dipsa collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Qd Jh 6s]
+Seat 4: Dipsa (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #463059395052306433-12-1422225424 - Holdem no limit (20/40) - 2015/01/25 22:37:04 UTC
+Table: 'Double or Nothing(107814417)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 72waldokitty (1440)
+Seat 2: xXXxADExXXx (1470)
+Seat 3: egyptiens (980)
+Seat 4: Dipsa (2695)
+Seat 5: sgerard (1350)
+Seat 6: sabre_laser (730)
+Seat 7: Ludo0213 (1865)
+Seat 8: fabauer (1560)
+Seat 9: SpewItRight (1455)
+Seat 10: LABELLE VIE (1455)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Ludo0213 posts big blind 40
+Dealt to sabre_laser [Jd Kc]
+*** PRE-FLOP *** 
+fabauer folds
+SpewItRight folds
+LABELLE VIE folds
+72waldokitty folds
+xXXxADExXXx folds
+egyptiens raises 80 to 120
+Dipsa folds
+sgerard folds
+sabre_laser calls 100
+Ludo0213 folds
+*** FLOP *** [4h Kh 8h]
+sabre_laser checks
+egyptiens bets 860 and is all-in
+sabre_laser calls 610 and is all-in
+*** TURN *** [4h Kh 8h][4d]
+*** RIVER *** [4h Kh 8h 4d][Ah]
+*** SHOW DOWN ***
+sabre_laser shows [Jd Kc] (Two pairs : Kings and 4)
+egyptiens shows [Qh Qd] (Flush Ace high)
+egyptiens collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [4h Kh 8h 4d Ah]
+Seat 3: egyptiens showed [Qh Qd] and won 1750 with Flush Ace high
+Seat 6: sabre_laser (small blind) showed [Jd Kc] and lost with Two pairs : Kings and 4
+
+

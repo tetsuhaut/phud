@@ -1,0 +1,2127 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #563397312919896073-3-1443804414 - Holdem no limit (75/150) - 2015/10/02 16:46:54 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #5 is the button
+Seat 1: bretagnerock (6550)
+Seat 2: jhondeere32 (10000)
+Seat 4: sabre_laser (10000)
+Seat 5: le charlatan (6350)
+Seat 6: patchworky (10000)
+Seat 7: xtzy (9625)
+Seat 8: totio72 (10750)
+Seat 9: ZIM14 (9875)
+*** ANTE/BLINDS ***
+xtzy posts small blind 75
+totio72 posts big blind 150
+Dealt to sabre_laser [Kh Ts]
+*** PRE-FLOP *** 
+ZIM14 folds
+bretagnerock folds
+jhondeere32 raises 150 to 300
+sabre_laser folds
+le charlatan calls 300
+xtzy folds
+totio72 calls 150
+*** FLOP *** [6c 6d 3s]
+totio72 checks
+jhondeere32 bets 150
+le charlatan folds
+totio72 folds
+jhondeere32 collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | No rake
+Board: [6c 6d 3s]
+Seat 2: jhondeere32 won 1125
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #563397312919896073-4-1443804478 - Holdem no limit (75/150) - 2015/10/02 16:47:58 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #7 is the button
+Seat 1: bretagnerock (6550)
+Seat 2: jhondeere32 (10675)
+Seat 4: sabre_laser (10000)
+Seat 5: le charlatan (6050)
+Seat 6: patchworky (10000)
+Seat 7: xtzy (9550)
+Seat 8: totio72 (10450)
+Seat 9: ZIM14 (9875)
+*** ANTE/BLINDS ***
+totio72 posts small blind 75
+ZIM14 posts big blind 150
+Dealt to sabre_laser [3d 6c]
+*** PRE-FLOP *** 
+bretagnerock folds
+jhondeere32 raises 150 to 300
+sabre_laser folds
+le charlatan calls 300
+patchworky calls 300
+xtzy folds
+totio72 folds
+ZIM14 calls 150
+*** FLOP *** [4d Qh 9c]
+ZIM14 checks
+jhondeere32 bets 825
+le charlatan raises 4925 to 5750 and is all-in
+patchworky raises 3950 to 9700 and is all-in
+ZIM14 folds
+jhondeere32 calls 8875
+*** TURN *** [4d Qh 9c][Ts]
+*** RIVER *** [4d Qh 9c Ts][Qc]
+*** SHOW DOWN ***
+patchworky shows [Ks Kc] (Two pairs : Kings and Queens)
+le charlatan shows [Qs Tc] (Full of Queens and Tens)
+jhondeere32 shows [Kh Jh] (Straight King high)
+jhondeere32 collected 7900 from side pot 1
+le charlatan collected 18525 from main pot
+*** SUMMARY ***
+Total pot 26425 | No rake
+Board: [4d Qh 9c Ts Qc]
+Seat 2: jhondeere32 showed [Kh Jh] and won 7900 with Straight King high
+Seat 5: le charlatan showed [Qs Tc] and won 18525 with Full of Queens and Tens
+Seat 6: patchworky showed [Ks Kc] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #563397312919896073-5-1443804600 - Holdem no limit (100/200) - 2015/10/02 16:50:00 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #8 is the button
+Seat 1: bretagnerock (6550)
+Seat 2: jhondeere32 (8575)
+Seat 3: grazaille (10000)
+Seat 4: sabre_laser (10000)
+Seat 5: le charlatan (18525)
+Seat 6: Vladho (10000)
+Seat 7: xtzy (9550)
+Seat 8: totio72 (10375)
+Seat 9: ZIM14 (9575)
+*** ANTE/BLINDS ***
+ZIM14 posts small blind 100
+bretagnerock posts big blind 200
+Dealt to sabre_laser [5c Ks]
+*** PRE-FLOP *** 
+jhondeere32 raises 200 to 400
+grazaille folds
+sabre_laser folds
+le charlatan folds
+Vladho folds
+xtzy folds
+totio72 folds
+ZIM14 folds
+bretagnerock calls 200
+*** FLOP *** [Jd 7c Qd]
+bretagnerock checks
+jhondeere32 bets 500
+bretagnerock folds
+jhondeere32 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [Jd 7c Qd]
+Seat 2: jhondeere32 won 1400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #563397312919896073-6-1443804637 - Holdem no limit (100/200) - 2015/10/02 16:50:37 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #9 is the button
+Seat 1: bretagnerock (6150)
+Seat 2: jhondeere32 (9075)
+Seat 3: grazaille (10000)
+Seat 4: sabre_laser (10000)
+Seat 5: le charlatan (18525)
+Seat 6: Vladho (10000)
+Seat 7: xtzy (9550)
+Seat 8: totio72 (10375)
+Seat 9: ZIM14 (9475)
+*** ANTE/BLINDS ***
+bretagnerock posts small blind 100
+jhondeere32 posts big blind 200
+Dealt to sabre_laser [9h Qh]
+*** PRE-FLOP *** 
+grazaille folds
+sabre_laser folds
+le charlatan calls 200
+Vladho raises 9800 to 10000 and is all-in
+xtzy folds
+totio72 folds
+ZIM14 folds
+bretagnerock calls 6050 and is all-in
+jhondeere32 calls 8875 and is all-in
+le charlatan folds
+*** FLOP *** [3c 9s 6d]
+*** TURN *** [3c 9s 6d][6h]
+*** RIVER *** [3c 9s 6d 6h][4d]
+*** SHOW DOWN ***
+bretagnerock shows [Qs Ks] (One pair : 6)
+jhondeere32 shows [Jc Ac] (One pair : 6)
+Vladho shows [Ad Kh] (One pair : 6)
+Vladho collected 25425 from pot
+*** SUMMARY ***
+Total pot 25425 | No rake
+Board: [3c 9s 6d 6h 4d]
+Seat 1: bretagnerock (small blind) showed [Qs Ks] and lost with One pair : 6
+Seat 2: jhondeere32 (big blind) showed [Jc Ac] and lost with One pair : 6
+Seat 6: Vladho showed [Ad Kh] and won 25425 with One pair : 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #563397312919896073-7-1443804694 - Holdem no limit (100/200) - 2015/10/02 16:51:34 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #1 is the button
+Seat 3: grazaille (10000)
+Seat 4: sabre_laser (10000)
+Seat 5: le charlatan (18325)
+Seat 6: Vladho (25425)
+Seat 7: xtzy (9550)
+Seat 8: totio72 (10375)
+Seat 9: ZIM14 (9475)
+*** ANTE/BLINDS ***
+grazaille posts big blind 200
+Dealt to sabre_laser [Ts Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+le charlatan folds
+Vladho folds
+xtzy calls 200
+totio72 calls 200
+ZIM14 folds
+grazaille raises 600 to 800
+xtzy folds
+totio72 calls 600
+*** FLOP *** [4s 6c 3s]
+grazaille bets 900
+totio72 folds
+grazaille collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [4s 6c 3s]
+Seat 3: grazaille (big blind) won 2700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #563397312919896073-8-1443804746 - Holdem no limit (100/200) - 2015/10/02 16:52:26 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #2 is the button
+Seat 1: romeo leone (10000)
+Seat 3: grazaille (11000)
+Seat 4: sabre_laser (10000)
+Seat 5: le charlatan (18325)
+Seat 6: Vladho (25425)
+Seat 7: xtzy (9350)
+Seat 8: totio72 (9575)
+Seat 9: ZIM14 (9475)
+*** ANTE/BLINDS ***
+grazaille posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Ah Kd]
+*** PRE-FLOP *** 
+le charlatan raises 400 to 600
+Vladho folds
+xtzy folds
+totio72 folds
+ZIM14 folds
+grazaille folds
+sabre_laser raises 9400 to 10000 and is all-in
+le charlatan calls 9400
+*** FLOP *** [Jh Tc 4c]
+*** TURN *** [Jh Tc 4c][Js]
+*** RIVER *** [Jh Tc 4c Js][As]
+*** SHOW DOWN ***
+le charlatan shows [9d 9h] (Two pairs : Jacks and 9)
+sabre_laser shows [Ah Kd] (Two pairs : Aces and Jacks)
+sabre_laser collected 20100 from pot
+*** SUMMARY ***
+Total pot 20100 | No rake
+Board: [Jh Tc 4c Js As]
+Seat 4: sabre_laser (big blind) showed [Ah Kd] and won 20100 with Two pairs : Aces and Jacks
+Seat 5: le charlatan showed [9d 9h] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #563397312919896073-9-1443804810 - Holdem no limit (100/200) - 2015/10/02 16:53:30 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #3 is the button
+Seat 2: petit pouch (10000)
+Seat 3: grazaille (10900)
+Seat 4: sabre_laser (20100)
+Seat 5: le charlatan (8325)
+Seat 6: Vladho (25425)
+Seat 7: xtzy (9350)
+Seat 8: totio72 (9575)
+Seat 9: ZIM14 (9475)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 100
+le charlatan posts big blind 200
+Dealt to sabre_laser [Kh 8s]
+*** PRE-FLOP *** 
+Vladho folds
+xtzy raises 400 to 600
+totio72 folds
+ZIM14 folds
+petit pouch folds
+grazaille folds
+sabre_laser folds
+le charlatan folds
+xtzy collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 7: xtzy won 900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #563397312919896073-10-1443804836 - Holdem no limit (100/200) - 2015/10/02 16:53:56 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #4 is the button
+Seat 1: winlemaximum (10000)
+Seat 2: petit pouch (10000)
+Seat 4: sabre_laser (20000)
+Seat 5: le charlatan (8125)
+Seat 6: Vladho (25425)
+Seat 7: xtzy (9650)
+Seat 8: totio72 (9575)
+Seat 9: ZIM14 (9475)
+*** ANTE/BLINDS ***
+le charlatan posts small blind 100
+Vladho posts big blind 200
+Dealt to sabre_laser [3c Kd]
+*** PRE-FLOP *** 
+xtzy folds
+totio72 folds
+ZIM14 folds
+winlemaximum raises 300 to 500
+petit pouch folds
+sabre_laser folds
+le charlatan folds
+Vladho folds
+winlemaximum collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 1: winlemaximum won 800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #563397312919896073-11-1443804864 - Holdem no limit (150/300) - 2015/10/02 16:54:24 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #5 is the button
+Seat 1: winlemaximum (10300)
+Seat 2: petit pouch (10000)
+Seat 4: sabre_laser (20000)
+Seat 5: le charlatan (8025)
+Seat 6: Vladho (25225)
+Seat 7: xtzy (9650)
+Seat 8: totio72 (9575)
+Seat 9: ZIM14 (9475)
+*** ANTE/BLINDS ***
+Vladho posts small blind 150
+xtzy posts big blind 300
+Dealt to sabre_laser [6s Ad]
+*** PRE-FLOP *** 
+totio72 folds
+ZIM14 folds
+winlemaximum folds
+petit pouch folds
+sabre_laser folds
+le charlatan calls 300
+Vladho calls 150
+xtzy checks
+*** FLOP *** [3c Kh 2d]
+Vladho checks
+xtzy checks
+le charlatan checks
+*** TURN *** [3c Kh 2d][Js]
+Vladho checks
+xtzy checks
+le charlatan bets 300
+Vladho calls 300
+xtzy folds
+*** RIVER *** [3c Kh 2d Js][Ac]
+Vladho checks
+le charlatan checks
+*** SHOW DOWN ***
+le charlatan shows [Th 9s] (High card : Ace)
+Vladho shows [Qh Jc] (One pair : Jacks)
+Vladho collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [3c Kh 2d Js Ac]
+Seat 5: le charlatan (button) showed [Th 9s] and lost with High card : Ace
+Seat 6: Vladho (small blind) showed [Qh Jc] and won 1500 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #563397312919896073-12-1443805202 - Holdem no limit (150/300) - 2015/10/02 17:00:02 UTC
+Table: 'MiniRoll(131176159)#008' 9-max (real money) Seat #6 is the button
+Seat 1: winlemaximum (10300)
+Seat 2: petit pouch (10000)
+Seat 3: A r n o 1 7 (9700)
+Seat 4: sabre_laser (20000)
+Seat 5: le charlatan (7425)
+Seat 6: Vladho (26125)
+Seat 7: xtzy (9350)
+Seat 8: totio72 (9575)
+Seat 9: ZIM14 (9475)
+*** ANTE/BLINDS ***
+xtzy posts small blind 150
+totio72 posts big blind 300
+Dealt to sabre_laser [9h 8d]
+*** PRE-FLOP *** 
+ZIM14 folds
+winlemaximum folds
+petit pouch folds
+A r n o 1 7 folds
+sabre_laser folds
+le charlatan calls 300
+Vladho raises 711 to 1011
+xtzy raises 1989 to 3000
+totio72 folds
+le charlatan folds
+Vladho folds
+xtzy collected 4611 from pot
+*** SUMMARY ***
+Total pot 4611 | No rake
+Seat 7: xtzy (small blind) won 4611
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #563397312919896070-23-1443805405 - Holdem no limit (150/300) - 2015/10/02 17:03:25 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #4 is the button
+Seat 1: anfizz (29525)
+Seat 2: tito78000 (8600)
+Seat 3: nono04400 (30000)
+Seat 4: zoralucky (4875)
+Seat 5: Pascoif (4160)
+Seat 6: samolo03 (11925)
+Seat 7: sabre_laser (20000)
+Seat 8: BetheKing (10000)
+*** ANTE/BLINDS ***
+Pascoif posts small blind 150
+samolo03 posts big blind 300
+Dealt to sabre_laser [Qc 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+BetheKing folds
+anfizz folds
+tito78000 calls 300
+nono04400 folds
+zoralucky folds
+Pascoif folds
+samolo03 checks
+*** FLOP *** [6c Qs 6h]
+samolo03 checks
+tito78000 checks
+*** TURN *** [6c Qs 6h][Jh]
+samolo03 bets 750
+tito78000 calls 750
+*** RIVER *** [6c Qs 6h Jh][2d]
+samolo03 bets 10875 and is all-in
+tito78000 folds
+samolo03 collected 13125 from pot
+*** SUMMARY ***
+Total pot 13125 | No rake
+Board: [6c Qs 6h Jh 2d]
+Seat 6: samolo03 (big blind) won 13125
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #563397312919896070-24-1443805478 - Holdem no limit (150/300) - 2015/10/02 17:04:38 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #5 is the button
+Seat 1: anfizz (29525)
+Seat 2: tito78000 (7550)
+Seat 3: nono04400 (30000)
+Seat 4: zoralucky (4875)
+Seat 5: Pascoif (4010)
+Seat 6: samolo03 (13125)
+Seat 7: sabre_laser (20000)
+Seat 8: BetheKing (10000)
+*** ANTE/BLINDS ***
+samolo03 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9d Tc]
+*** PRE-FLOP *** 
+BetheKing folds
+anfizz folds
+tito78000 folds
+nono04400 raises 300 to 600
+zoralucky folds
+Pascoif folds
+samolo03 folds
+sabre_laser folds
+nono04400 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 3: nono04400 won 1050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #563397312919896070-25-1443805512 - Holdem no limit (25/150/300) - 2015/10/02 17:05:12 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #6 is the button
+Seat 1: anfizz (29525)
+Seat 2: tito78000 (7550)
+Seat 3: nono04400 (30450)
+Seat 4: zoralucky (4875)
+Seat 5: Pascoif (4010)
+Seat 6: samolo03 (12975)
+Seat 7: sabre_laser (19700)
+Seat 8: sylvain68700 (10000)
+Seat 9: Aphraates (22174)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+sylvain68700 posts ante 25
+anfizz posts ante 25
+tito78000 posts ante 25
+nono04400 posts ante 25
+zoralucky posts ante 25
+Pascoif posts ante 25
+samolo03 posts ante 25
+Aphraates posts ante 25
+sabre_laser posts small blind 150
+sylvain68700 posts big blind 300
+Dealt to sabre_laser [Td 4s]
+*** PRE-FLOP *** 
+Aphraates folds
+anfizz folds
+tito78000 calls 300
+nono04400 folds
+zoralucky folds
+Pascoif folds
+samolo03 folds
+sabre_laser folds
+sylvain68700 raises 9675 to 9975 and is all-in
+tito78000 folds
+sylvain68700 collected 10650 from pot
+*** SUMMARY ***
+Total pot 10650 | No rake
+Seat 8: sylvain68700 (big blind) won 10650
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #563397312919896070-26-1443805533 - Holdem no limit (25/150/300) - 2015/10/02 17:05:33 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #7 is the button
+Seat 1: anfizz (29500)
+Seat 2: tito78000 (7225)
+Seat 3: nono04400 (30425)
+Seat 4: zoralucky (4850)
+Seat 5: Pascoif (3985)
+Seat 6: samolo03 (12950)
+Seat 7: sabre_laser (19525)
+Seat 9: Aphraates (22149)
+*** ANTE/BLINDS ***
+Aphraates posts ante 25
+anfizz posts ante 25
+tito78000 posts ante 25
+nono04400 posts ante 25
+zoralucky posts ante 25
+Pascoif posts ante 25
+samolo03 posts ante 25
+sabre_laser posts ante 25
+Aphraates posts big blind 300
+Dealt to sabre_laser [7h 5c]
+*** PRE-FLOP *** 
+anfizz raises 450 to 750
+tito78000 calls 750
+nono04400 folds
+zoralucky folds
+Pascoif folds
+samolo03 calls 750
+sabre_laser folds
+Aphraates calls 450
+*** FLOP *** [8c Kd 2s]
+Aphraates checks
+anfizz checks
+tito78000 bets 3200
+samolo03 folds
+Aphraates folds
+anfizz folds
+tito78000 collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Board: [8c Kd 2s]
+Seat 2: tito78000 won 6400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #563397312919896070-27-1443805601 - Holdem no limit (25/150/300) - 2015/10/02 17:06:41 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #8 is the button
+Seat 1: anfizz (28725)
+Seat 2: tito78000 (9650)
+Seat 4: zoralucky (4825)
+Seat 5: Pascoif (3960)
+Seat 6: samolo03 (12175)
+Seat 7: sabre_laser (19500)
+Seat 8: Wina-lescroc (22700)
+Seat 9: Aphraates (21374)
+*** ANTE/BLINDS ***
+Aphraates posts ante 25
+anfizz posts ante 25
+tito78000 posts ante 25
+zoralucky posts ante 25
+Pascoif posts ante 25
+samolo03 posts ante 25
+sabre_laser posts ante 25
+Aphraates posts small blind 150
+anfizz posts big blind 300
+Dealt to sabre_laser [Tc 7c]
+*** PRE-FLOP *** 
+tito78000 folds
+zoralucky folds
+Pascoif folds
+samolo03 calls 300
+sabre_laser calls 300
+Aphraates calls 150
+anfizz checks
+*** FLOP *** [Qs Td 7d]
+Aphraates checks
+anfizz bets 300
+samolo03 calls 300
+sabre_laser raises 18875 to 19175 and is all-in
+Aphraates folds
+anfizz folds
+samolo03 folds
+sabre_laser collected 21150 from pot
+*** SUMMARY ***
+Total pot 21150 | No rake
+Board: [Qs Td 7d]
+Seat 7: sabre_laser won 21150
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #563397312919896070-28-1443805654 - Holdem no limit (25/150/300) - 2015/10/02 17:07:34 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #9 is the button
+Seat 1: anfizz (28100)
+Seat 2: tito78000 (9625)
+Seat 3: deadk (8775)
+Seat 4: zoralucky (4800)
+Seat 5: Pascoif (3935)
+Seat 6: samolo03 (11550)
+Seat 7: sabre_laser (21150)
+Seat 8: Wina-lescroc (22700)
+Seat 9: Aphraates (21049)
+*** ANTE/BLINDS ***
+anfizz posts ante 25
+tito78000 posts ante 25
+deadk posts ante 25
+zoralucky posts ante 25
+Pascoif posts ante 25
+samolo03 posts ante 25
+sabre_laser posts ante 25
+Wina-lescroc posts ante 25
+Aphraates posts ante 25
+anfizz posts small blind 150
+tito78000 posts big blind 300
+Dealt to sabre_laser [4h 3h]
+*** PRE-FLOP *** 
+deadk calls 300
+zoralucky raises 4475 to 4775 and is all-in
+Pascoif folds
+samolo03 folds
+sabre_laser folds
+Wina-lescroc folds
+Aphraates folds
+anfizz folds
+tito78000 folds
+deadk folds
+zoralucky collected 5750 from pot
+*** SUMMARY ***
+Total pot 5750 | No rake
+Seat 4: zoralucky won 5750
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #563397312919896070-29-1443805702 - Holdem no limit (25/150/300) - 2015/10/02 17:08:22 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #1 is the button
+Seat 1: anfizz (27925)
+Seat 2: tito78000 (9300)
+Seat 3: deadk (8450)
+Seat 4: zoralucky (5750)
+Seat 5: Pascoif (3910)
+Seat 6: samolo03 (11525)
+Seat 7: sabre_laser (21125)
+Seat 8: Wina-lescroc (22675)
+Seat 9: Aphraates (21024)
+*** ANTE/BLINDS ***
+tito78000 posts ante 25
+deadk posts ante 25
+anfizz posts ante 25
+zoralucky posts ante 25
+Pascoif posts ante 25
+samolo03 posts ante 25
+sabre_laser posts ante 25
+Wina-lescroc posts ante 25
+Aphraates posts ante 25
+tito78000 posts small blind 150
+deadk posts big blind 300
+Dealt to sabre_laser [As 6d]
+*** PRE-FLOP *** 
+zoralucky calls 300
+Pascoif folds
+samolo03 folds
+sabre_laser folds
+Wina-lescroc raises 300 to 600
+Aphraates folds
+anfizz calls 600
+tito78000 folds
+deadk folds
+zoralucky calls 300
+*** FLOP *** [Ts Jh 6s]
+zoralucky checks
+Wina-lescroc bets 1650
+anfizz calls 1650
+zoralucky calls 1650
+*** TURN *** [Ts Jh 6s][5s]
+zoralucky bets 3475 and is all-in
+Wina-lescroc folds
+anfizz calls 3475
+*** RIVER *** [Ts Jh 6s 5s][9s]
+*** SHOW DOWN ***
+anfizz shows [Ah Td] (One pair : Tens)
+zoralucky shows [2d 2s] (Flush Ten high)
+zoralucky collected 14375 from pot
+*** SUMMARY ***
+Total pot 14375 | No rake
+Board: [Ts Jh 6s 5s 9s]
+Seat 1: anfizz (button) showed [Ah Td] and lost with One pair : Tens
+Seat 4: zoralucky showed [2d 2s] and won 14375 with Flush Ten high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #563397312919896070-30-1443805794 - Holdem no limit (25/150/300) - 2015/10/02 17:09:54 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #2 is the button
+Seat 1: anfizz (22175)
+Seat 2: tito78000 (9125)
+Seat 3: deadk (8125)
+Seat 4: zoralucky (14375)
+Seat 5: Pascoif (3885)
+Seat 6: samolo03 (11500)
+Seat 7: sabre_laser (21100)
+Seat 8: Wina-lescroc (20400)
+Seat 9: Aphraates (20999)
+*** ANTE/BLINDS ***
+deadk posts ante 25
+zoralucky posts ante 25
+anfizz posts ante 25
+tito78000 posts ante 25
+Pascoif posts ante 25
+samolo03 posts ante 25
+sabre_laser posts ante 25
+Wina-lescroc posts ante 25
+Aphraates posts ante 25
+deadk posts small blind 150
+zoralucky posts big blind 300
+Dealt to sabre_laser [5d 3s]
+*** PRE-FLOP *** 
+Pascoif calls 300
+samolo03 folds
+sabre_laser folds
+Wina-lescroc folds
+Aphraates folds
+anfizz calls 300
+tito78000 folds
+deadk folds
+zoralucky folds
+*** FLOP *** [5c Th Jd]
+Pascoif checks
+anfizz bets 300
+Pascoif calls 300
+*** TURN *** [5c Th Jd][9d]
+Pascoif checks
+anfizz checks
+*** RIVER *** [5c Th Jd 9d][8c]
+Pascoif checks
+anfizz bets 300
+Pascoif calls 300
+*** SHOW DOWN ***
+anfizz shows [5h 7s] (Straight Jack high)
+Pascoif shows [3d 7d] (Straight Jack high)
+Pascoif collected 1238 from pot
+anfizz collected 1237 from pot
+*** SUMMARY ***
+Total pot 2475 | No rake
+Board: [5c Th Jd 9d 8c]
+Seat 1: anfizz showed [5h 7s] and won 1237 with Straight Jack high
+Seat 5: Pascoif showed [3d 7d] and won 1238 with Straight Jack high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #563397312919896070-31-1443805907 - Holdem no limit (30/200/400) - 2015/10/02 17:11:47 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #3 is the button
+Seat 1: anfizz (22487)
+Seat 2: tito78000 (9100)
+Seat 3: deadk (7950)
+Seat 4: zoralucky (14050)
+Seat 5: Pascoif (4198)
+Seat 6: samolo03 (11475)
+Seat 7: sabre_laser (21075)
+Seat 8: Wina-lescroc (20375)
+Seat 9: Aphraates (20974)
+*** ANTE/BLINDS ***
+zoralucky posts ante 30
+Pascoif posts ante 30
+anfizz posts ante 30
+tito78000 posts ante 30
+deadk posts ante 30
+samolo03 posts ante 30
+sabre_laser posts ante 30
+Wina-lescroc posts ante 30
+Aphraates posts ante 30
+zoralucky posts small blind 200
+Pascoif posts big blind 400
+Dealt to sabre_laser [3s Kc]
+*** PRE-FLOP *** 
+samolo03 calls 400
+sabre_laser folds
+Wina-lescroc calls 400
+Aphraates folds
+anfizz calls 400
+tito78000 folds
+deadk folds
+zoralucky folds
+Pascoif checks
+*** FLOP *** [Ts 8h Ah]
+Pascoif checks
+samolo03 checks
+Wina-lescroc bets 19945 and is all-in
+anfizz folds
+Pascoif folds
+samolo03 folds
+Wina-lescroc collected 22015 from pot
+*** SUMMARY ***
+Total pot 22015 | No rake
+Board: [Ts 8h Ah]
+Seat 8: Wina-lescroc won 22015
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #563397312919896070-32-1443805981 - Holdem no limit (30/200/400) - 2015/10/02 17:13:01 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #4 is the button
+Seat 1: anfizz (22057)
+Seat 2: tito78000 (9070)
+Seat 4: zoralucky (13820)
+Seat 5: Pascoif (3768)
+Seat 6: samolo03 (11045)
+Seat 7: sabre_laser (21045)
+Seat 8: Wina-lescroc (22015)
+Seat 9: Aphraates (20944)
+*** ANTE/BLINDS ***
+Pascoif posts ante 30
+samolo03 posts ante 30
+anfizz posts ante 30
+tito78000 posts ante 30
+zoralucky posts ante 30
+sabre_laser posts ante 30
+Wina-lescroc posts ante 30
+Aphraates posts ante 30
+Pascoif posts small blind 200
+samolo03 posts big blind 400
+Dealt to sabre_laser [9h 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Wina-lescroc folds
+Aphraates folds
+anfizz raises 21627 to 22027 and is all-in
+tito78000 folds
+zoralucky folds
+Pascoif folds
+samolo03 folds
+anfizz collected 22867 from pot
+*** SUMMARY ***
+Total pot 22867 | No rake
+Seat 1: anfizz won 22867
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #563397312919896070-33-1443806012 - Holdem no limit (30/200/400) - 2015/10/02 17:13:32 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #5 is the button
+Seat 1: anfizz (22867)
+Seat 2: tito78000 (9040)
+Seat 3: thierry67310 (7445)
+Seat 4: zoralucky (13790)
+Seat 5: Pascoif (3538)
+Seat 6: samolo03 (10615)
+Seat 7: sabre_laser (21015)
+Seat 8: Wina-lescroc (21985)
+Seat 9: Aphraates (20914)
+*** ANTE/BLINDS ***
+samolo03 posts ante 30
+sabre_laser posts ante 30
+anfizz posts ante 30
+tito78000 posts ante 30
+thierry67310 posts ante 30
+zoralucky posts ante 30
+Pascoif posts ante 30
+Wina-lescroc posts ante 30
+Aphraates posts ante 30
+samolo03 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [7c Qh]
+*** PRE-FLOP *** 
+Wina-lescroc folds
+Aphraates folds
+anfizz folds
+tito78000 calls 400
+thierry67310 calls 400
+zoralucky folds
+Pascoif calls 400
+samolo03 folds
+sabre_laser checks
+*** FLOP *** [5c Th 2h]
+sabre_laser checks
+tito78000 bets 8610 and is all-in
+thierry67310 folds
+Pascoif calls 3108 and is all-in
+sabre_laser folds
+*** TURN *** [5c Th 2h][Ac]
+*** RIVER *** [5c Th 2h Ac][As]
+*** SHOW DOWN ***
+Pascoif shows [7h Kh] (One pair : Aces)
+tito78000 shows [Ah 4h] (Trips of Aces)
+tito78000 collected 13788 from pot
+*** SUMMARY ***
+Total pot 13788 | No rake
+Board: [5c Th 2h Ac As]
+Seat 2: tito78000 showed [Ah 4h] and won 13788 with Trips of Aces
+Seat 5: Pascoif (button) showed [7h Kh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #563397312919896070-34-1443806088 - Holdem no limit (30/200/400) - 2015/10/02 17:14:48 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #6 is the button
+Seat 1: anfizz (22837)
+Seat 2: tito78000 (13788)
+Seat 3: thierry67310 (7015)
+Seat 4: zoralucky (13760)
+Seat 6: samolo03 (10385)
+Seat 7: sabre_laser (20585)
+Seat 8: Wina-lescroc (21955)
+Seat 9: Aphraates (20884)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 30
+Wina-lescroc posts ante 30
+anfizz posts ante 30
+tito78000 posts ante 30
+thierry67310 posts ante 30
+zoralucky posts ante 30
+samolo03 posts ante 30
+Aphraates posts ante 30
+sabre_laser posts small blind 200
+Wina-lescroc posts big blind 400
+Dealt to sabre_laser [Qd 3h]
+*** PRE-FLOP *** 
+Aphraates folds
+anfizz raises 800 to 1200
+tito78000 calls 1200
+thierry67310 calls 1200
+zoralucky folds
+samolo03 folds
+sabre_laser folds
+Wina-lescroc folds
+*** FLOP *** [Kd 9s Ts]
+anfizz checks
+tito78000 checks
+thierry67310 checks
+*** TURN *** [Kd 9s Ts][6s]
+anfizz checks
+tito78000 bets 12558 and is all-in
+thierry67310 folds
+anfizz folds
+tito78000 collected 16998 from pot
+*** SUMMARY ***
+Total pot 16998 | No rake
+Board: [Kd 9s Ts 6s]
+Seat 2: tito78000 won 16998
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #563397312919896070-35-1443806152 - Holdem no limit (30/200/400) - 2015/10/02 17:15:52 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #7 is the button
+Seat 1: anfizz (21607)
+Seat 2: tito78000 (16998)
+Seat 3: thierry67310 (5785)
+Seat 4: zoralucky (13730)
+Seat 6: samolo03 (10355)
+Seat 7: sabre_laser (20355)
+Seat 8: Wina-lescroc (21525)
+Seat 9: Aphraates (20854)
+*** ANTE/BLINDS ***
+Wina-lescroc posts ante 30
+Aphraates posts ante 30
+anfizz posts ante 30
+tito78000 posts ante 30
+thierry67310 posts ante 30
+zoralucky posts ante 30
+samolo03 posts ante 30
+sabre_laser posts ante 30
+Wina-lescroc posts small blind 200
+Aphraates posts big blind 400
+Dealt to sabre_laser [5h Jc]
+*** PRE-FLOP *** 
+anfizz folds
+tito78000 folds
+thierry67310 folds
+zoralucky folds
+samolo03 folds
+sabre_laser folds
+Wina-lescroc folds
+Aphraates collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 9: Aphraates (big blind) won 840
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #563397312919896070-36-1443806205 - Holdem no limit (30/200/400) - 2015/10/02 17:16:45 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #8 is the button
+Seat 1: anfizz (21577)
+Seat 2: tito78000 (16968)
+Seat 3: thierry67310 (5755)
+Seat 4: zoralucky (13700)
+Seat 6: samolo03 (10325)
+Seat 7: sabre_laser (20325)
+Seat 8: Wina-lescroc (21295)
+Seat 9: Aphraates (21264)
+*** ANTE/BLINDS ***
+Aphraates posts ante 30
+anfizz posts ante 30
+tito78000 posts ante 30
+thierry67310 posts ante 30
+zoralucky posts ante 30
+samolo03 posts ante 30
+sabre_laser posts ante 30
+Wina-lescroc posts ante 30
+Aphraates posts small blind 200
+anfizz posts big blind 400
+Dealt to sabre_laser [Tc 4d]
+*** PRE-FLOP *** 
+tito78000 calls 400
+thierry67310 folds
+zoralucky folds
+samolo03 folds
+sabre_laser folds
+Wina-lescroc calls 400
+Aphraates calls 200
+anfizz checks
+*** FLOP *** [3c 5s Td]
+Aphraates checks
+anfizz checks
+tito78000 bets 1840
+Wina-lescroc folds
+Aphraates folds
+anfizz folds
+tito78000 collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | No rake
+Board: [3c 5s Td]
+Seat 2: tito78000 won 3680
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #563397312919896070-37-1443806271 - Holdem no limit (40/250/500) - 2015/10/02 17:17:51 UTC
+Table: 'MiniRoll(131176159)#005' 9-max (real money) Seat #9 is the button
+Seat 1: anfizz (21147)
+Seat 2: tito78000 (18378)
+Seat 3: thierry67310 (5725)
+Seat 4: zoralucky (13670)
+Seat 5: phoenix_4776 (6035)
+Seat 6: samolo03 (10295)
+Seat 7: sabre_laser (20295)
+Seat 8: Wina-lescroc (20865)
+Seat 9: Aphraates (20834)
+*** ANTE/BLINDS ***
+anfizz posts ante 40
+tito78000 posts ante 40
+thierry67310 posts ante 40
+zoralucky posts ante 40
+phoenix_4776 posts ante 40
+samolo03 posts ante 40
+sabre_laser posts ante 40
+Wina-lescroc posts ante 40
+Aphraates posts ante 40
+anfizz posts small blind 250
+tito78000 posts big blind 500
+Dealt to sabre_laser [8d Kh]
+*** PRE-FLOP *** 
+thierry67310 calls 500
+zoralucky folds
+phoenix_4776 folds
+samolo03 folds
+sabre_laser folds
+Wina-lescroc calls 500
+Aphraates calls 500
+anfizz calls 250
+tito78000 checks
+*** FLOP *** [As 7s Tc]
+anfizz checks
+tito78000 checks
+thierry67310 bets 2860
+Wina-lescroc calls 2860
+Aphraates raises 17434 to 20294 and is all-in
+anfizz folds
+tito78000 folds
+thierry67310 calls 2325 and is all-in
+Wina-lescroc calls 17434
+*** TURN *** [As 7s Tc][3s]
+*** RIVER *** [As 7s Tc 3s][5h]
+*** SHOW DOWN ***
+thierry67310 shows [Ad 7d] (Two pairs : Aces and 7)
+Aphraates shows [9h Ah] (One pair : Aces)
+Wina-lescroc shows [Ac Th] (Two pairs : Aces and Tens)
+Wina-lescroc collected 48633 from pot
+*** SUMMARY ***
+Total pot 48633 | No rake
+Board: [As 7s Tc 3s 5h]
+Seat 3: thierry67310 showed [Ad 7d] and lost with Two pairs : Aces and 7
+Seat 8: Wina-lescroc showed [Ac Th] and won 48633 with Two pairs : Aces and Tens
+Seat 9: Aphraates (button) showed [9h Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #563397312919896086-13-1443806449 - Holdem no limit (40/250/500) - 2015/10/02 17:20:49 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #3 is the button
+Seat 1: cpamoi69 (23065)
+Seat 2: javanette (84190)
+Seat 3: sarah00112 (7590)
+Seat 4: oldbrother (7965)
+Seat 5: sabre_laser (20255)
+Seat 6: Grokitash (7420)
+Seat 7: sylvain68700 (30320)
+Seat 8: yobil971 (4520)
+Seat 9: cece76200 (2655)
+*** ANTE/BLINDS ***
+oldbrother posts ante 40
+sabre_laser posts ante 40
+cpamoi69 posts ante 40
+javanette posts ante 40
+sarah00112 posts ante 40
+Grokitash posts ante 40
+sylvain68700 posts ante 40
+yobil971 posts ante 40
+cece76200 posts ante 40
+oldbrother posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [Qs 2d]
+*** PRE-FLOP *** 
+Grokitash folds
+sylvain68700 calls 500
+yobil971 raises 3980 to 4480 and is all-in
+cece76200 folds
+cpamoi69 folds
+javanette folds
+sarah00112 folds
+oldbrother folds
+sabre_laser folds
+sylvain68700 folds
+yobil971 collected 6090 from pot
+*** SUMMARY ***
+Total pot 6090 | No rake
+Seat 8: yobil971 won 6090
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #563397312919896086-14-1443806504 - Holdem no limit (40/250/500) - 2015/10/02 17:21:44 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #4 is the button
+Seat 1: cpamoi69 (23025)
+Seat 2: javanette (84150)
+Seat 3: sarah00112 (7550)
+Seat 4: oldbrother (7675)
+Seat 5: sabre_laser (19715)
+Seat 6: banzzzzzaaai (9960)
+Seat 7: sylvain68700 (29780)
+Seat 8: yobil971 (6090)
+Seat 9: cece76200 (2615)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+banzzzzzaaai posts ante 40
+cpamoi69 posts ante 40
+javanette posts ante 40
+sarah00112 posts ante 40
+oldbrother posts ante 40
+sylvain68700 posts ante 40
+yobil971 posts ante 40
+cece76200 posts ante 40
+sabre_laser posts small blind 250
+banzzzzzaaai posts big blind 500
+Dealt to sabre_laser [Td As]
+*** PRE-FLOP *** 
+sylvain68700 calls 500
+yobil971 folds
+cece76200 folds
+cpamoi69 folds
+javanette folds
+sarah00112 folds
+oldbrother raises 7135 to 7635 and is all-in
+sabre_laser folds
+banzzzzzaaai folds
+sylvain68700 calls 7135
+*** FLOP *** [Ts 6h 9h]
+*** TURN *** [Ts 6h 9h][8s]
+*** RIVER *** [Ts 6h 9h 8s][Kh]
+*** SHOW DOWN ***
+oldbrother shows [Jh Ad] (High card : Ace)
+sylvain68700 shows [6s Kc] (Two pairs : Kings and 6)
+sylvain68700 collected 16380 from pot
+*** SUMMARY ***
+Total pot 16380 | No rake
+Board: [Ts 6h 9h 8s Kh]
+Seat 4: oldbrother (button) showed [Jh Ad] and lost with High card : Ace
+Seat 7: sylvain68700 showed [6s Kc] and won 16380 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #563397312919896086-15-1443806545 - Holdem no limit (40/250/500) - 2015/10/02 17:22:25 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #5 is the button
+Seat 1: cpamoi69 (22985)
+Seat 2: javanette (84110)
+Seat 3: sarah00112 (7510)
+Seat 5: sabre_laser (19425)
+Seat 6: banzzzzzaaai (9420)
+Seat 7: sylvain68700 (38485)
+Seat 8: yobil971 (6050)
+Seat 9: cece76200 (2575)
+*** ANTE/BLINDS ***
+banzzzzzaaai posts ante 40
+sylvain68700 posts ante 40
+cpamoi69 posts ante 40
+javanette posts ante 40
+sarah00112 posts ante 40
+sabre_laser posts ante 40
+yobil971 posts ante 40
+cece76200 posts ante 40
+banzzzzzaaai posts small blind 250
+sylvain68700 posts big blind 500
+Dealt to sabre_laser [Th 7d]
+*** PRE-FLOP *** 
+yobil971 folds
+cece76200 folds
+cpamoi69 calls 500
+javanette folds
+sarah00112 calls 500
+sabre_laser folds
+banzzzzzaaai calls 250
+sylvain68700 checks
+*** FLOP *** [4h Qh 2h]
+banzzzzzaaai checks
+sylvain68700 checks
+cpamoi69 checks
+sarah00112 checks
+*** TURN *** [4h Qh 2h][As]
+banzzzzzaaai checks
+sylvain68700 bets 500
+cpamoi69 calls 500
+sarah00112 folds
+banzzzzzaaai folds
+*** RIVER *** [4h Qh 2h As][6c]
+sylvain68700 bets 3320
+cpamoi69 folds
+sylvain68700 collected 6640 from pot
+*** SUMMARY ***
+Total pot 6640 | No rake
+Board: [4h Qh 2h As 6c]
+Seat 7: sylvain68700 (big blind) won 6640
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #563397312919896086-16-1443806609 - Holdem no limit (60/300/600) - 2015/10/02 17:23:29 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #6 is the button
+Seat 1: cpamoi69 (21945)
+Seat 2: javanette (84070)
+Seat 3: sarah00112 (6970)
+Seat 4: castores74 (10000)
+Seat 5: sabre_laser (19385)
+Seat 6: banzzzzzaaai (8880)
+Seat 7: sylvain68700 (40765)
+Seat 8: yobil971 (6010)
+Seat 9: cece76200 (2535)
+*** ANTE/BLINDS ***
+sylvain68700 posts ante 60
+yobil971 posts ante 60
+cpamoi69 posts ante 60
+javanette posts ante 60
+sarah00112 posts ante 60
+castores74 posts ante 60
+sabre_laser posts ante 60
+banzzzzzaaai posts ante 60
+cece76200 posts ante 60
+sylvain68700 posts small blind 300
+yobil971 posts big blind 600
+Dealt to sabre_laser [7c Tc]
+*** PRE-FLOP *** 
+cece76200 folds
+cpamoi69 folds
+javanette calls 600
+sarah00112 folds
+castores74 folds
+sabre_laser calls 600
+banzzzzzaaai folds
+sylvain68700 calls 300
+yobil971 checks
+*** FLOP *** [Qd 2c 7s]
+sylvain68700 checks
+yobil971 checks
+javanette checks
+sabre_laser checks
+*** TURN *** [Qd 2c 7s][Ks]
+sylvain68700 checks
+yobil971 checks
+javanette bets 2940
+sabre_laser folds
+sylvain68700 folds
+yobil971 folds
+javanette collected 5880 from pot
+*** SUMMARY ***
+Total pot 5880 | No rake
+Board: [Qd 2c 7s Ks]
+Seat 2: javanette won 5880
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #563397312919896086-17-1443806663 - Holdem no limit (60/300/600) - 2015/10/02 17:24:23 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #7 is the button
+Seat 1: cpamoi69 (21885)
+Seat 2: javanette (86350)
+Seat 4: castores74 (9940)
+Seat 5: sabre_laser (18725)
+Seat 6: banzzzzzaaai (8820)
+Seat 7: sylvain68700 (40105)
+Seat 8: yobil971 (5350)
+Seat 9: cece76200 (2475)
+*** ANTE/BLINDS ***
+yobil971 posts ante 60
+cece76200 posts ante 60
+cpamoi69 posts ante 60
+javanette posts ante 60
+castores74 posts ante 60
+sabre_laser posts ante 60
+banzzzzzaaai posts ante 60
+sylvain68700 posts ante 60
+yobil971 posts small blind 300
+cece76200 posts big blind 600
+Dealt to sabre_laser [6h Ts]
+*** PRE-FLOP *** 
+cpamoi69 folds
+javanette folds
+castores74 folds
+sabre_laser folds
+banzzzzzaaai raises 8160 to 8760 and is all-in
+sylvain68700 folds
+yobil971 folds
+cece76200 folds
+banzzzzzaaai collected 10140 from pot
+*** SUMMARY ***
+Total pot 10140 | No rake
+Seat 6: banzzzzzaaai won 10140
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #563397312919896086-18-1443806688 - Holdem no limit (60/300/600) - 2015/10/02 17:24:48 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #8 is the button
+Seat 1: cpamoi69 (21825)
+Seat 2: javanette (86290)
+Seat 3: milo1314 (10000)
+Seat 4: castores74 (9880)
+Seat 5: sabre_laser (18665)
+Seat 6: banzzzzzaaai (10140)
+Seat 7: sylvain68700 (40045)
+Seat 8: yobil971 (4990)
+Seat 9: cece76200 (1815)
+*** ANTE/BLINDS ***
+cece76200 posts ante 60
+cpamoi69 posts ante 60
+javanette posts ante 60
+milo1314 posts ante 60
+castores74 posts ante 60
+sabre_laser posts ante 60
+banzzzzzaaai posts ante 60
+sylvain68700 posts ante 60
+yobil971 posts ante 60
+cece76200 posts small blind 300
+cpamoi69 posts big blind 600
+Dealt to sabre_laser [5h 7c]
+*** PRE-FLOP *** 
+javanette folds
+milo1314 calls 600
+castores74 calls 600
+sabre_laser folds
+banzzzzzaaai folds
+sylvain68700 calls 600
+yobil971 calls 600
+cece76200 folds
+cpamoi69 checks
+*** FLOP *** [Js 6s 4c]
+cpamoi69 checks
+milo1314 bets 1920
+castores74 folds
+sylvain68700 folds
+yobil971 raises 2410 to 4330 and is all-in
+cpamoi69 folds
+milo1314 calls 2410
+*** TURN *** [Js 6s 4c][Kd]
+*** RIVER *** [Js 6s 4c Kd][2s]
+*** SHOW DOWN ***
+milo1314 shows [Jd 6d] (Two pairs : Jacks and 6)
+yobil971 shows [Jh Kh] (Two pairs : Kings and Jacks)
+yobil971 collected 12500 from pot
+*** SUMMARY ***
+Total pot 12500 | No rake
+Board: [Js 6s 4c Kd 2s]
+Seat 3: milo1314 showed [Jd 6d] and lost with Two pairs : Jacks and 6
+Seat 8: yobil971 (button) showed [Jh Kh] and won 12500 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #563397312919896086-19-1443806773 - Holdem no limit (60/300/600) - 2015/10/02 17:26:13 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #9 is the button
+Seat 1: cpamoi69 (21165)
+Seat 2: javanette (86230)
+Seat 4: castores74 (9220)
+Seat 5: sabre_laser (18605)
+Seat 6: banzzzzzaaai (10080)
+Seat 7: sylvain68700 (39385)
+Seat 8: yobil971 (12500)
+Seat 9: cece76200 (1455)
+*** ANTE/BLINDS ***
+cpamoi69 posts ante 60
+javanette posts ante 60
+castores74 posts ante 60
+sabre_laser posts ante 60
+banzzzzzaaai posts ante 60
+sylvain68700 posts ante 60
+yobil971 posts ante 60
+cece76200 posts ante 60
+cpamoi69 posts small blind 300
+javanette posts big blind 600
+Dealt to sabre_laser [3d 7h]
+*** PRE-FLOP *** 
+castores74 folds
+sabre_laser folds
+banzzzzzaaai folds
+sylvain68700 calls 600
+yobil971 folds
+cece76200 folds
+cpamoi69 calls 300
+javanette checks
+*** FLOP *** [Ac Qc 2c]
+cpamoi69 checks
+javanette checks
+sylvain68700 bets 600
+cpamoi69 folds
+javanette calls 600
+*** TURN *** [Ac Qc 2c][6d]
+javanette bets 3480
+sylvain68700 raises 3480 to 6960
+javanette calls 3480
+*** RIVER *** [Ac Qc 2c 6d][4c]
+javanette checks
+sylvain68700 checks
+*** SHOW DOWN ***
+sylvain68700 shows [2h As] (Two pairs : Aces and 2)
+javanette shows [4d Ah] (Two pairs : Aces and 4)
+javanette collected 17400 from pot
+*** SUMMARY ***
+Total pot 17400 | No rake
+Board: [Ac Qc 2c 6d 4c]
+Seat 2: javanette (big blind) showed [4d Ah] and won 17400 with Two pairs : Aces and 4
+Seat 7: sylvain68700 showed [2h As] and lost with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #563397312919896086-20-1443806827 - Holdem no limit (60/300/600) - 2015/10/02 17:27:07 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #1 is the button
+Seat 1: cpamoi69 (20505)
+Seat 2: javanette (95410)
+Seat 3: marco.xxx (11320)
+Seat 4: castores74 (9160)
+Seat 5: sabre_laser (18545)
+Seat 6: banzzzzzaaai (10020)
+Seat 7: sylvain68700 (31165)
+Seat 8: yobil971 (12440)
+Seat 9: cece76200 (1395)
+*** ANTE/BLINDS ***
+javanette posts ante 60
+marco.xxx posts ante 60
+cpamoi69 posts ante 60
+castores74 posts ante 60
+sabre_laser posts ante 60
+banzzzzzaaai posts ante 60
+sylvain68700 posts ante 60
+yobil971 posts ante 60
+cece76200 posts ante 60
+javanette posts small blind 300
+marco.xxx posts big blind 600
+Dealt to sabre_laser [Qh 7s]
+*** PRE-FLOP *** 
+castores74 folds
+sabre_laser folds
+banzzzzzaaai raises 9360 to 9960 and is all-in
+sylvain68700 folds
+yobil971 folds
+cece76200 folds
+cpamoi69 folds
+javanette folds
+marco.xxx folds
+banzzzzzaaai collected 11400 from pot
+*** SUMMARY ***
+Total pot 11400 | No rake
+Seat 6: banzzzzzaaai won 11400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #563397312919896086-21-1443806869 - Holdem no limit (60/300/600) - 2015/10/02 17:27:49 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #2 is the button
+Seat 1: cpamoi69 (20445)
+Seat 2: javanette (95050)
+Seat 4: castores74 (9100)
+Seat 5: sabre_laser (18485)
+Seat 6: banzzzzzaaai (11400)
+Seat 7: sylvain68700 (31105)
+Seat 8: yobil971 (12380)
+Seat 9: cece76200 (1335)
+*** ANTE/BLINDS ***
+castores74 posts ante 60
+cpamoi69 posts ante 60
+javanette posts ante 60
+sabre_laser posts ante 60
+banzzzzzaaai posts ante 60
+sylvain68700 posts ante 60
+yobil971 posts ante 60
+cece76200 posts ante 60
+castores74 posts big blind 600
+Dealt to sabre_laser [Jd 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+banzzzzzaaai folds
+sylvain68700 folds
+yobil971 folds
+cece76200 folds
+cpamoi69 folds
+javanette folds
+castores74 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Seat 4: castores74 (big blind) won 1080
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #563397312919896086-22-1443806893 - Holdem no limit (60/300/600) - 2015/10/02 17:28:13 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #3 is the button
+Seat 1: cpamoi69 (20385)
+Seat 2: javanette (94990)
+Seat 3: -Tamsom- (11020)
+Seat 4: castores74 (9520)
+Seat 5: sabre_laser (18425)
+Seat 6: banzzzzzaaai (11340)
+Seat 7: sylvain68700 (31045)
+Seat 8: yobil971 (12320)
+Seat 9: cece76200 (1275)
+*** ANTE/BLINDS ***
+castores74 posts ante 60
+sabre_laser posts ante 60
+cpamoi69 posts ante 60
+javanette posts ante 60
+banzzzzzaaai posts ante 60
+sylvain68700 posts ante 60
+yobil971 posts ante 60
+cece76200 posts ante 60
+castores74 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [9c 4d]
+*** PRE-FLOP *** 
+banzzzzzaaai calls 600
+sylvain68700 calls 600
+yobil971 folds
+cece76200 folds
+cpamoi69 folds
+javanette folds
+castores74 calls 300
+sabre_laser checks
+*** FLOP *** [Tc Kd 4c]
+castores74 checks
+sabre_laser bets 2880
+banzzzzzaaai folds
+sylvain68700 folds
+castores74 folds
+sabre_laser collected 5760 from pot
+*** SUMMARY ***
+Total pot 5760 | No rake
+Board: [Tc Kd 4c]
+Seat 5: sabre_laser (big blind) won 5760
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #563397312919896086-23-1443806950 - Holdem no limit (75/400/800) - 2015/10/02 17:29:10 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #4 is the button
+Seat 1: cpamoi69 (20325)
+Seat 2: javanette (94930)
+Seat 3: -Tamsom- (11020)
+Seat 4: castores74 (8860)
+Seat 5: sabre_laser (20645)
+Seat 6: banzzzzzaaai (10680)
+Seat 7: sylvain68700 (30385)
+Seat 8: yobil971 (12260)
+Seat 9: cece76200 (1215)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+banzzzzzaaai posts ante 75
+cpamoi69 posts ante 75
+javanette posts ante 75
+-Tamsom- posts ante 75
+castores74 posts ante 75
+sylvain68700 posts ante 75
+yobil971 posts ante 75
+cece76200 posts ante 75
+sabre_laser posts small blind 400
+banzzzzzaaai posts big blind 800
+Dealt to sabre_laser [6s 7s]
+*** PRE-FLOP *** 
+sylvain68700 calls 800
+yobil971 folds
+cece76200 folds
+cpamoi69 folds
+javanette folds
+-Tamsom- calls 800
+castores74 raises 800 to 1600
+sabre_laser calls 1200
+banzzzzzaaai folds
+sylvain68700 calls 800
+-Tamsom- calls 800
+*** FLOP *** [4s 9c 8d]
+sabre_laser checks
+sylvain68700 bets 5250
+-Tamsom- folds
+castores74 raises 1935 to 7185 and is all-in
+sabre_laser folds
+sylvain68700 calls 1935
+*** TURN *** [4s 9c 8d][6c]
+*** RIVER *** [4s 9c 8d 6c][5s]
+*** SHOW DOWN ***
+castores74 shows [Ks Tc] (High card : King)
+sylvain68700 shows [Ts 9h] (One pair : 9)
+sylvain68700 collected 22245 from pot
+*** SUMMARY ***
+Total pot 22245 | No rake
+Board: [4s 9c 8d 6c 5s]
+Seat 4: castores74 (button) showed [Ks Tc] and lost with High card : King
+Seat 7: sylvain68700 showed [Ts 9h] and won 22245 with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #563397312919896086-24-1443807041 - Holdem no limit (75/400/800) - 2015/10/02 17:30:41 UTC
+Table: 'MiniRoll(131176159)#021' 9-max (real money) Seat #5 is the button
+Seat 1: cpamoi69 (20250)
+Seat 2: javanette (94855)
+Seat 3: -Tamsom- (9345)
+Seat 5: sabre_laser (18970)
+Seat 6: banzzzzzaaai (9805)
+Seat 7: sylvain68700 (43770)
+Seat 8: yobil971 (12185)
+Seat 9: cece76200 (1140)
+*** ANTE/BLINDS ***
+banzzzzzaaai posts ante 75
+sylvain68700 posts ante 75
+cpamoi69 posts ante 75
+javanette posts ante 75
+-Tamsom- posts ante 75
+sabre_laser posts ante 75
+yobil971 posts ante 75
+cece76200 posts ante 75
+banzzzzzaaai posts small blind 400
+sylvain68700 posts big blind 800
+Dealt to sabre_laser [6d 2d]
+*** PRE-FLOP *** 
+yobil971 folds
+cece76200 folds
+cpamoi69 folds
+javanette folds
+-Tamsom- folds
+sabre_laser folds
+banzzzzzaaai calls 400
+sylvain68700 checks
+*** FLOP *** [Kh 5s 8s]
+banzzzzzaaai checks
+sylvain68700 checks
+*** TURN *** [Kh 5s 8s][Td]
+banzzzzzaaai checks
+sylvain68700 bets 800
+banzzzzzaaai raises 3800 to 4600
+sylvain68700 calls 3800
+*** RIVER *** [Kh 5s 8s Td][Jc]
+banzzzzzaaai bets 4330 and is all-in
+sylvain68700 calls 4330
+*** SHOW DOWN ***
+banzzzzzaaai shows [Tc 6s] (One pair : Tens)
+sylvain68700 shows [Jh 9s] (One pair : Jacks)
+sylvain68700 collected 20060 from pot
+*** SUMMARY ***
+Total pot 20060 | No rake
+Board: [Kh 5s 8s Td Jc]
+Seat 6: banzzzzzaaai (small blind) showed [Tc 6s] and lost with One pair : Tens
+Seat 7: sylvain68700 (big blind) showed [Jh 9s] and won 20060 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #563397312919896093-8-1443807114 - Holdem no limit (75/400/800) - 2015/10/02 17:31:54 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #6 is the button
+Seat 1: socash (21067)
+Seat 2: sabre_laser (18895)
+Seat 3: momov3 (10195)
+Seat 4: dany97454 (15415)
+Seat 5: euhaa (15105)
+Seat 6: jacko811 (12240)
+Seat 7: TheEuroMaker (17535)
+Seat 8: mietje (8575)
+Seat 9: AK-meleon-47 (4835)
+*** ANTE/BLINDS ***
+TheEuroMaker posts ante 75
+mietje posts ante 75
+socash posts ante 75
+sabre_laser posts ante 75
+momov3 posts ante 75
+dany97454 posts ante 75
+euhaa posts ante 75
+jacko811 posts ante 75
+AK-meleon-47 posts ante 75
+TheEuroMaker posts small blind 400
+mietje posts big blind 800
+Dealt to sabre_laser [Ts Td]
+*** PRE-FLOP *** 
+AK-meleon-47 raises 2675 to 3475
+socash calls 3475
+sabre_laser folds
+momov3 folds
+dany97454 folds
+euhaa folds
+jacko811 folds
+TheEuroMaker calls 3075
+mietje folds
+*** FLOP *** [2c 3c 3s]
+TheEuroMaker checks
+AK-meleon-47 checks
+socash checks
+*** TURN *** [2c 3c 3s][9s]
+TheEuroMaker bets 5950
+AK-meleon-47 calls 1285 and is all-in
+socash folds
+*** RIVER *** [2c 3c 3s 9s][Kh]
+*** SHOW DOWN ***
+AK-meleon-47 shows [7s As] (One pair : 3)
+TheEuroMaker shows [Kd Jd] (Two pairs : Kings and 3)
+TheEuroMaker collected 19135 from pot
+*** SUMMARY ***
+Total pot 19135 | No rake
+Board: [2c 3c 3s 9s Kh]
+Seat 7: TheEuroMaker (small blind) showed [Kd Jd] and won 19135 with Two pairs : Kings and 3
+Seat 9: AK-meleon-47 showed [7s As] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #563397312919896093-9-1443807177 - Holdem no limit (75/400/800) - 2015/10/02 17:32:57 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #7 is the button
+Seat 1: socash (17517)
+Seat 2: sabre_laser (18820)
+Seat 3: momov3 (10120)
+Seat 4: dany97454 (15340)
+Seat 5: euhaa (15030)
+Seat 6: jacko811 (12165)
+Seat 7: TheEuroMaker (27170)
+Seat 8: mietje (7700)
+*** ANTE/BLINDS ***
+mietje posts ante 75
+socash posts ante 75
+sabre_laser posts ante 75
+momov3 posts ante 75
+dany97454 posts ante 75
+euhaa posts ante 75
+jacko811 posts ante 75
+TheEuroMaker posts ante 75
+mietje posts small blind 400
+socash posts big blind 800
+Dealt to sabre_laser [Jd 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+momov3 folds
+dany97454 folds
+euhaa folds
+jacko811 folds
+TheEuroMaker folds
+mietje calls 400
+socash raises 16642 to 17442 and is all-in
+mietje folds
+socash collected 18842 from pot
+*** SUMMARY ***
+Total pot 18842 | No rake
+Seat 1: socash (big blind) won 18842
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #563397312919896093-10-1443807212 - Holdem no limit (75/400/800) - 2015/10/02 17:33:32 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #8 is the button
+Seat 1: socash (18842)
+Seat 2: sabre_laser (18745)
+Seat 3: momov3 (10045)
+Seat 4: dany97454 (15265)
+Seat 5: euhaa (14955)
+Seat 6: jacko811 (12090)
+Seat 7: TheEuroMaker (27095)
+Seat 8: mietje (6825)
+*** ANTE/BLINDS ***
+socash posts ante 75
+sabre_laser posts ante 75
+momov3 posts ante 75
+dany97454 posts ante 75
+euhaa posts ante 75
+jacko811 posts ante 75
+TheEuroMaker posts ante 75
+mietje posts ante 75
+socash posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Qc 7d]
+*** PRE-FLOP *** 
+momov3 folds
+dany97454 calls 800
+euhaa folds
+jacko811 folds
+TheEuroMaker raises 1600 to 2400
+mietje folds
+socash folds
+sabre_laser folds
+dany97454 calls 1600
+*** FLOP *** [7c Qs Jc]
+dany97454 checks
+TheEuroMaker bets 4400
+dany97454 calls 4400
+*** TURN *** [7c Qs Jc][9c]
+dany97454 bets 8390 and is all-in
+TheEuroMaker calls 8390
+*** RIVER *** [7c Qs Jc 9c][Qd]
+*** SHOW DOWN ***
+TheEuroMaker shows [Ac Kh] (One pair : Queens)
+dany97454 shows [Kd Tc] (Straight King high)
+dany97454 collected 32180 from pot
+*** SUMMARY ***
+Total pot 32180 | No rake
+Board: [7c Qs Jc 9c Qd]
+Seat 4: dany97454 showed [Kd Tc] and won 32180 with Straight King high
+Seat 7: TheEuroMaker showed [Ac Kh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #563397312919896093-11-1443807278 - Holdem no limit (75/400/800) - 2015/10/02 17:34:38 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #1 is the button
+Seat 1: socash (18367)
+Seat 2: sabre_laser (17870)
+Seat 3: momov3 (9970)
+Seat 4: dany97454 (32180)
+Seat 5: euhaa (14880)
+Seat 6: jacko811 (12015)
+Seat 7: TheEuroMaker (11830)
+Seat 8: mietje (6750)
+Seat 9: mavouz (14325)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+momov3 posts ante 75
+socash posts ante 75
+dany97454 posts ante 75
+euhaa posts ante 75
+jacko811 posts ante 75
+TheEuroMaker posts ante 75
+mietje posts ante 75
+mavouz posts ante 75
+sabre_laser posts small blind 400
+momov3 posts big blind 800
+Dealt to sabre_laser [3h 4h]
+*** PRE-FLOP *** 
+dany97454 folds
+euhaa raises 1200 to 2000
+jacko811 raises 9940 to 11940 and is all-in
+TheEuroMaker folds
+mietje folds
+mavouz folds
+socash folds
+sabre_laser folds
+momov3 folds
+euhaa calls 9940
+*** FLOP *** [9s 7d 6d]
+*** TURN *** [9s 7d 6d][5s]
+*** RIVER *** [9s 7d 6d 5s][As]
+*** SHOW DOWN ***
+jacko811 shows [Kh Jc] (High card : Ace)
+euhaa shows [Qd Qs] (One pair : Queens)
+euhaa collected 25755 from pot
+*** SUMMARY ***
+Total pot 25755 | No rake
+Board: [9s 7d 6d 5s As]
+Seat 5: euhaa showed [Qd Qs] and won 25755 with One pair : Queens
+Seat 6: jacko811 showed [Kh Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #563397312919896093-12-1443807316 - Holdem no limit (100/500/1000) - 2015/10/02 17:35:16 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #2 is the button
+Seat 1: socash (18292)
+Seat 2: sabre_laser (17395)
+Seat 3: momov3 (9095)
+Seat 4: dany97454 (32105)
+Seat 5: euhaa (28620)
+Seat 7: TheEuroMaker (11755)
+Seat 8: mietje (6675)
+Seat 9: mavouz (14250)
+*** ANTE/BLINDS ***
+momov3 posts ante 100
+dany97454 posts ante 100
+socash posts ante 100
+sabre_laser posts ante 100
+euhaa posts ante 100
+TheEuroMaker posts ante 100
+mietje posts ante 100
+mavouz posts ante 100
+momov3 posts small blind 500
+dany97454 posts big blind 1000
+Dealt to sabre_laser [Jh 5d]
+*** PRE-FLOP *** 
+euhaa folds
+TheEuroMaker calls 1000
+mietje raises 5575 to 6575 and is all-in
+mavouz folds
+socash folds
+sabre_laser folds
+momov3 folds
+dany97454 folds
+TheEuroMaker calls 5575
+*** FLOP *** [8h 5h 9c]
+*** TURN *** [8h 5h 9c][6c]
+*** RIVER *** [8h 5h 9c 6c][9h]
+*** SHOW DOWN ***
+TheEuroMaker shows [9d Td] (Trips of 9)
+mietje shows [4h Kh] (Flush King high)
+mietje collected 15450 from pot
+*** SUMMARY ***
+Total pot 15450 | No rake
+Board: [8h 5h 9c 6c 9h]
+Seat 7: TheEuroMaker showed [9d Td] and lost with Trips of 9
+Seat 8: mietje showed [4h Kh] and won 15450 with Flush King high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #563397312919896093-13-1443807363 - Holdem no limit (100/500/1000) - 2015/10/02 17:36:03 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #3 is the button
+Seat 1: socash (18192)
+Seat 2: sabre_laser (17295)
+Seat 3: momov3 (8495)
+Seat 4: dany97454 (31005)
+Seat 5: euhaa (28520)
+Seat 7: TheEuroMaker (5080)
+Seat 8: mietje (15450)
+Seat 9: mavouz (14150)
+*** ANTE/BLINDS ***
+dany97454 posts ante 100
+euhaa posts ante 100
+socash posts ante 100
+sabre_laser posts ante 100
+momov3 posts ante 100
+TheEuroMaker posts ante 100
+mietje posts ante 100
+mavouz posts ante 100
+dany97454 posts small blind 500
+euhaa posts big blind 1000
+Dealt to sabre_laser [9h 3h]
+*** PRE-FLOP *** 
+TheEuroMaker folds
+mietje folds
+mavouz folds
+socash folds
+sabre_laser folds
+momov3 folds
+dany97454 folds
+euhaa collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 5: euhaa (big blind) won 2300
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #563397312919896093-14-1443807379 - Holdem no limit (100/500/1000) - 2015/10/02 17:36:19 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #4 is the button
+Seat 1: socash (18092)
+Seat 2: sabre_laser (17195)
+Seat 3: momov3 (8395)
+Seat 4: dany97454 (30405)
+Seat 5: euhaa (29720)
+Seat 7: TheEuroMaker (4980)
+Seat 8: mietje (15350)
+Seat 9: mavouz (14050)
+*** ANTE/BLINDS ***
+euhaa posts ante 100
+TheEuroMaker posts ante 100
+socash posts ante 100
+sabre_laser posts ante 100
+momov3 posts ante 100
+dany97454 posts ante 100
+mietje posts ante 100
+mavouz posts ante 100
+euhaa posts small blind 500
+TheEuroMaker posts big blind 1000
+Dealt to sabre_laser [7d 5s]
+*** PRE-FLOP *** 
+mietje raises 14250 to 15250 and is all-in
+mavouz folds
+socash folds
+sabre_laser folds
+momov3 folds
+dany97454 folds
+euhaa folds
+TheEuroMaker folds
+mietje collected 17550 from pot
+*** SUMMARY ***
+Total pot 17550 | No rake
+Seat 8: mietje won 17550
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #563397312919896093-15-1443807404 - Holdem no limit (100/500/1000) - 2015/10/02 17:36:44 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #5 is the button
+Seat 1: socash (17992)
+Seat 2: sabre_laser (17095)
+Seat 3: momov3 (8295)
+Seat 4: dany97454 (30305)
+Seat 5: euhaa (29120)
+Seat 7: TheEuroMaker (3880)
+Seat 8: mietje (17550)
+Seat 9: mavouz (13950)
+*** ANTE/BLINDS ***
+TheEuroMaker posts ante 100
+mietje posts ante 100
+socash posts ante 100
+sabre_laser posts ante 100
+momov3 posts ante 100
+dany97454 posts ante 100
+euhaa posts ante 100
+mavouz posts ante 100
+TheEuroMaker posts small blind 500
+mietje posts big blind 1000
+Dealt to sabre_laser [Qh Kh]
+*** PRE-FLOP *** 
+mavouz calls 1000
+socash folds
+sabre_laser raises 1500 to 2500
+momov3 calls 2500
+dany97454 folds
+euhaa folds
+TheEuroMaker folds
+mietje calls 1500
+mavouz calls 1500
+*** FLOP *** [5c Qs Ad]
+mietje checks
+mavouz bets 5650
+sabre_laser folds
+momov3 calls 5650
+mietje folds
+*** TURN *** [5c Qs Ad][2d]
+mavouz bets 1000
+momov3 calls 45 and is all-in
+*** RIVER *** [5c Qs Ad 2d][Th]
+*** SHOW DOWN ***
+momov3 shows [Qd 8d] (One pair : Queens)
+mavouz shows [Ah 9h] (One pair : Aces)
+mavouz collected 23645 from pot
+*** SUMMARY ***
+Total pot 23645 | No rake
+Board: [5c Qs Ad 2d Th]
+Seat 3: momov3 showed [Qd 8d] and lost with One pair : Queens
+Seat 9: mavouz showed [Ah 9h] and won 23645 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #563397312919896093-16-1443807549 - Holdem no limit (100/500/1000) - 2015/10/02 17:39:09 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #7 is the button
+Seat 1: socash (17892)
+Seat 2: sabre_laser (14495)
+Seat 4: dany97454 (30205)
+Seat 5: euhaa (29020)
+Seat 6: cece76200 (2995)
+Seat 7: TheEuroMaker (3280)
+Seat 8: mietje (14950)
+Seat 9: mavouz (28345)
+*** ANTE/BLINDS ***
+mietje posts ante 100
+mavouz posts ante 100
+socash posts ante 100
+sabre_laser posts ante 100
+dany97454 posts ante 100
+euhaa posts ante 100
+cece76200 posts ante 100
+TheEuroMaker posts ante 100
+mietje posts small blind 500
+mavouz posts big blind 1000
+Dealt to sabre_laser [7d Ac]
+*** PRE-FLOP *** 
+socash folds
+sabre_laser folds
+dany97454 folds
+euhaa folds
+cece76200 folds
+TheEuroMaker folds
+mietje calls 500
+mavouz checks
+*** FLOP *** [As 4d 6c]
+mietje bets 1000
+mavouz folds
+mietje collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [As 4d 6c]
+Seat 8: mietje (small blind) won 3800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #563397312919896093-17-1443807629 - Holdem no limit (100/500/1000) - 2015/10/02 17:40:29 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #8 is the button
+Seat 1: socash (17792)
+Seat 2: sabre_laser (14395)
+Seat 4: dany97454 (30105)
+Seat 5: euhaa (28920)
+Seat 6: cece76200 (2895)
+Seat 7: TheEuroMaker (3180)
+Seat 8: mietje (16650)
+Seat 9: mavouz (27245)
+*** ANTE/BLINDS ***
+mavouz posts ante 100
+socash posts ante 100
+sabre_laser posts ante 100
+dany97454 posts ante 100
+euhaa posts ante 100
+cece76200 posts ante 100
+TheEuroMaker posts ante 100
+mietje posts ante 100
+mavouz posts small blind 500
+socash posts big blind 1000
+Dealt to sabre_laser [3c 3s]
+*** PRE-FLOP *** 
+sabre_laser calls 1000
+dany97454 folds
+euhaa raises 1500 to 2500
+cece76200 folds
+TheEuroMaker folds
+mietje calls 2500
+mavouz folds
+socash folds
+sabre_laser calls 1500
+*** FLOP *** [5s Kh 8h]
+sabre_laser checks
+euhaa checks
+mietje bets 1000
+sabre_laser folds
+euhaa calls 1000
+*** TURN *** [5s Kh 8h][6s]
+euhaa checks
+mietje bets 1000
+euhaa calls 1000
+*** RIVER *** [5s Kh 8h 6s][5h]
+euhaa checks
+mietje checks
+*** SHOW DOWN ***
+euhaa shows [As 9s] (One pair : 5)
+mietje shows [8d Ad] (Two pairs : 8 and 5)
+mietje collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [5s Kh 8h 6s 5h]
+Seat 5: euhaa showed [As 9s] and lost with One pair : 5
+Seat 8: mietje (button) showed [8d Ad] and won 13800 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #563397312919896093-18-1443807698 - Holdem no limit (150/600/1200) - 2015/10/02 17:41:38 UTC
+Table: 'MiniRoll(131176159)#028' 9-max (real money) Seat #9 is the button
+Seat 1: socash (16692)
+Seat 2: sabre_laser (11795)
+Seat 3: JOSPER04 (33760)
+Seat 4: dany97454 (30005)
+Seat 5: euhaa (24320)
+Seat 6: cece76200 (2795)
+Seat 7: TheEuroMaker (3080)
+Seat 8: mietje (25850)
+Seat 9: mavouz (26645)
+*** ANTE/BLINDS ***
+socash posts ante 150
+sabre_laser posts ante 150
+JOSPER04 posts ante 150
+dany97454 posts ante 150
+euhaa posts ante 150
+cece76200 posts ante 150
+TheEuroMaker posts ante 150
+mietje posts ante 150
+mavouz posts ante 150
+socash posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [Ks Js]
+*** PRE-FLOP *** 
+JOSPER04 folds
+dany97454 folds
+euhaa raises 1200 to 2400
+cece76200 folds
+TheEuroMaker folds
+mietje calls 2400
+mavouz calls 2400
+socash calls 1800
+sabre_laser calls 1200
+*** FLOP *** [5d Qh Jh]
+socash checks
+sabre_laser bets 9245 and is all-in
+euhaa folds
+mietje folds
+mavouz calls 9245
+socash folds
+*** TURN *** [5d Qh Jh][6s]
+*** RIVER *** [5d Qh Jh 6s][3h]
+*** SHOW DOWN ***
+sabre_laser shows [Ks Js] (One pair : Jacks)
+mavouz shows [8h Ah] (Flush Ace high)
+mavouz collected 31840 from pot
+*** SUMMARY ***
+Total pot 31840 | No rake
+Board: [5d Qh Jh 6s 3h]
+Seat 2: sabre_laser (big blind) showed [Ks Js] and lost with One pair : Jacks
+Seat 9: mavouz (button) showed [8h Ah] and won 31840 with Flush Ace high
+
+

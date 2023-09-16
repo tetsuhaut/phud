@@ -1,0 +1,1208 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 0 - HandId: #535417044095467521-1-1436827844 - Holdem no limit (10/20) - 2015/07/13 22:50:44 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (1500)
+Seat 2: cluzo (1500)
+Seat 3: Tresor2201 (1500)
+Seat 4: jokerdeluxe1 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: MrMiller123 (1500)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [4h 5c]
+*** PRE-FLOP *** 
+MrMiller123 folds
+alphounso raises 40 to 60
+cluzo folds
+Tresor2201 calls 60
+jokerdeluxe1 calls 50
+sabre_laser folds
+*** FLOP *** [Td Jc 8s]
+jokerdeluxe1 checks
+alphounso bets 20
+Tresor2201 folds
+jokerdeluxe1 raises 110 to 130
+alphounso folds
+jokerdeluxe1 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Td Jc 8s]
+Seat 4: jokerdeluxe1 (small blind) won 350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 0 - HandId: #535417044095467521-2-1436827917 - Holdem no limit (10/20) - 2015/07/13 22:51:57 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (1420)
+Seat 2: cluzo (1500)
+Seat 3: Tresor2201 (1440)
+Seat 4: jokerdeluxe1 (1660)
+Seat 5: sabre_laser (1480)
+Seat 6: MrMiller123 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+MrMiller123 posts big blind 20
+Dealt to sabre_laser [3c 7d]
+*** PRE-FLOP *** 
+alphounso folds
+cluzo calls 20
+Tresor2201 calls 20
+jokerdeluxe1 folds
+sabre_laser calls 10
+MrMiller123 checks
+*** FLOP *** [5s 4s 7h]
+sabre_laser bets 60
+MrMiller123 calls 60
+cluzo calls 60
+Tresor2201 folds
+*** TURN *** [5s 4s 7h][Tc]
+sabre_laser bets 170
+MrMiller123 folds
+cluzo folds
+sabre_laser collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [5s 4s 7h Tc]
+Seat 5: sabre_laser (small blind) won 430
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 0 - HandId: #535417044095467521-3-1436828015 - Holdem no limit (10/20) - 2015/07/13 22:53:35 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (1420)
+Seat 2: cluzo (1420)
+Seat 3: Tresor2201 (1420)
+Seat 4: jokerdeluxe1 (1660)
+Seat 5: sabre_laser (1660)
+Seat 6: MrMiller123 (1420)
+*** ANTE/BLINDS ***
+MrMiller123 posts small blind 10
+alphounso posts big blind 20
+Dealt to sabre_laser [Kd 8c]
+*** PRE-FLOP *** 
+cluzo calls 20
+Tresor2201 folds
+jokerdeluxe1 raises 80 to 100
+sabre_laser folds
+MrMiller123 folds
+alphounso folds
+cluzo calls 80
+*** FLOP *** [4d 8h 3s]
+cluzo checks
+jokerdeluxe1 bets 173
+cluzo calls 173
+*** TURN *** [4d 8h 3s][6d]
+cluzo checks
+jokerdeluxe1 checks
+*** RIVER *** [4d 8h 3s 6d][Ks]
+cluzo checks
+jokerdeluxe1 bets 384
+cluzo folds
+jokerdeluxe1 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [4d 8h 3s 6d Ks]
+Seat 4: jokerdeluxe1 won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 1 - HandId: #535417044095467521-4-1436828095 - Holdem no limit (15/30) - 2015/07/13 22:54:55 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #6 is the button
+Seat 1: alphounso (1400)
+Seat 2: cluzo (1147)
+Seat 3: Tresor2201 (1420)
+Seat 4: jokerdeluxe1 (1963)
+Seat 5: sabre_laser (1660)
+Seat 6: MrMiller123 (1410)
+*** ANTE/BLINDS ***
+alphounso posts small blind 15
+cluzo posts big blind 30
+Dealt to sabre_laser [5s Ks]
+*** PRE-FLOP *** 
+Tresor2201 calls 30
+jokerdeluxe1 raises 60 to 90
+sabre_laser folds
+MrMiller123 raises 121 to 211
+alphounso folds
+cluzo folds
+Tresor2201 folds
+jokerdeluxe1 calls 121
+*** FLOP *** [Kd 7h Kc]
+jokerdeluxe1 checks
+MrMiller123 bets 156
+jokerdeluxe1 folds
+MrMiller123 collected 653 from pot
+*** SUMMARY ***
+Total pot 653 | No rake
+Board: [Kd 7h Kc]
+Seat 6: MrMiller123 (button) won 653
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 1 - HandId: #535417044095467521-5-1436828161 - Holdem no limit (15/30) - 2015/07/13 22:56:01 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (1385)
+Seat 2: cluzo (1117)
+Seat 3: Tresor2201 (1390)
+Seat 4: jokerdeluxe1 (1752)
+Seat 5: sabre_laser (1660)
+Seat 6: MrMiller123 (1696)
+*** ANTE/BLINDS ***
+cluzo posts small blind 15
+Tresor2201 posts big blind 30
+Dealt to sabre_laser [Ad 2c]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+sabre_laser folds
+MrMiller123 folds
+alphounso raises 60 to 90
+cluzo folds
+Tresor2201 folds
+alphounso collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 1: alphounso (button) won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 1 - HandId: #535417044095467521-6-1436828195 - Holdem no limit (15/30) - 2015/07/13 22:56:35 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #2 is the button
+Seat 1: alphounso (1430)
+Seat 2: cluzo (1102)
+Seat 3: Tresor2201 (1360)
+Seat 4: jokerdeluxe1 (1752)
+Seat 5: sabre_laser (1660)
+Seat 6: MrMiller123 (1696)
+*** ANTE/BLINDS ***
+Tresor2201 posts small blind 15
+jokerdeluxe1 posts big blind 30
+Dealt to sabre_laser [Kd 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+MrMiller123 raises 45 to 75
+alphounso folds
+cluzo raises 1027 to 1102 and is all-in
+Tresor2201 folds
+jokerdeluxe1 folds
+MrMiller123 folds
+cluzo collected 1222 from pot
+*** SUMMARY ***
+Total pot 1222 | No rake
+Seat 2: cluzo (button) won 1222
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 2 - HandId: #535417044095467521-7-1436828232 - Holdem no limit (20/40) - 2015/07/13 22:57:12 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (1430)
+Seat 2: cluzo (1222)
+Seat 3: Tresor2201 (1345)
+Seat 4: jokerdeluxe1 (1722)
+Seat 5: sabre_laser (1660)
+Seat 6: MrMiller123 (1621)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Kh Tc]
+*** PRE-FLOP *** 
+MrMiller123 folds
+alphounso folds
+cluzo folds
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 5: sabre_laser (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 2 - HandId: #535417044095467521-8-1436828260 - Holdem no limit (20/40) - 2015/07/13 22:57:40 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (1430)
+Seat 2: cluzo (1222)
+Seat 3: Tresor2201 (1345)
+Seat 4: jokerdeluxe1 (1702)
+Seat 5: sabre_laser (1680)
+Seat 6: MrMiller123 (1621)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+MrMiller123 posts big blind 40
+Dealt to sabre_laser [3h 5h]
+*** PRE-FLOP *** 
+alphounso folds
+cluzo folds
+Tresor2201 calls 40
+jokerdeluxe1 folds
+sabre_laser calls 20
+MrMiller123 checks
+*** FLOP *** [Kd Js 6h]
+sabre_laser checks
+MrMiller123 checks
+Tresor2201 bets 60
+sabre_laser folds
+MrMiller123 folds
+Tresor2201 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Kd Js 6h]
+Seat 3: Tresor2201 won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 2 - HandId: #535417044095467521-9-1436828350 - Holdem no limit (20/40) - 2015/07/13 22:59:10 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (1430)
+Seat 2: cluzo (1222)
+Seat 3: Tresor2201 (1425)
+Seat 4: jokerdeluxe1 (1702)
+Seat 5: sabre_laser (1640)
+Seat 6: MrMiller123 (1581)
+*** ANTE/BLINDS ***
+MrMiller123 posts small blind 20
+alphounso posts big blind 40
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+cluzo folds
+Tresor2201 calls 40
+jokerdeluxe1 folds
+sabre_laser raises 120 to 160
+MrMiller123 folds
+alphounso folds
+Tresor2201 folds
+sabre_laser collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 5: sabre_laser (button) won 260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 3 - HandId: #535417044095467521-10-1436828391 - Holdem no limit (30/60) - 2015/07/13 22:59:51 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #6 is the button
+Seat 1: alphounso (1390)
+Seat 2: cluzo (1222)
+Seat 3: Tresor2201 (1385)
+Seat 4: jokerdeluxe1 (1702)
+Seat 5: sabre_laser (1740)
+Seat 6: MrMiller123 (1561)
+*** ANTE/BLINDS ***
+alphounso posts small blind 30
+cluzo posts big blind 60
+Dealt to sabre_laser [2s Ks]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 raises 180 to 240
+sabre_laser folds
+MrMiller123 folds
+alphounso folds
+cluzo folds
+jokerdeluxe1 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 4: jokerdeluxe1 won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 3 - HandId: #535417044095467521-11-1436828422 - Holdem no limit (30/60) - 2015/07/13 23:00:22 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (1360)
+Seat 2: cluzo (1162)
+Seat 3: Tresor2201 (1385)
+Seat 4: jokerdeluxe1 (1792)
+Seat 5: sabre_laser (1740)
+Seat 6: MrMiller123 (1561)
+*** ANTE/BLINDS ***
+cluzo posts small blind 30
+Tresor2201 posts big blind 60
+Dealt to sabre_laser [Qc 2d]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+sabre_laser folds
+MrMiller123 folds
+alphounso raises 90 to 150
+cluzo folds
+Tresor2201 folds
+alphounso collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: alphounso (button) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 3 - HandId: #535417044095467521-12-1436828455 - Holdem no limit (30/60) - 2015/07/13 23:00:55 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #2 is the button
+Seat 1: alphounso (1450)
+Seat 2: cluzo (1132)
+Seat 3: Tresor2201 (1325)
+Seat 4: jokerdeluxe1 (1792)
+Seat 5: sabre_laser (1740)
+Seat 6: MrMiller123 (1561)
+*** ANTE/BLINDS ***
+Tresor2201 posts small blind 30
+jokerdeluxe1 posts big blind 60
+Dealt to sabre_laser [3d 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+MrMiller123 folds
+alphounso folds
+cluzo folds
+Tresor2201 folds
+jokerdeluxe1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: jokerdeluxe1 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 3 - HandId: #535417044095467521-13-1436828492 - Holdem no limit (30/60) - 2015/07/13 23:01:32 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (1450)
+Seat 2: cluzo (1132)
+Seat 3: Tresor2201 (1295)
+Seat 4: jokerdeluxe1 (1822)
+Seat 5: sabre_laser (1740)
+Seat 6: MrMiller123 (1561)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [8s 9d]
+*** PRE-FLOP *** 
+MrMiller123 folds
+alphounso raises 90 to 150
+cluzo folds
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser calls 90
+*** FLOP *** [Ah 9c Kd]
+sabre_laser checks
+alphounso bets 220
+sabre_laser folds
+alphounso collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Ah 9c Kd]
+Seat 1: alphounso won 550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 3 - HandId: #535417044095467521-14-1436828541 - Holdem no limit (30/60) - 2015/07/13 23:02:21 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (1630)
+Seat 2: cluzo (1132)
+Seat 3: Tresor2201 (1295)
+Seat 4: jokerdeluxe1 (1792)
+Seat 5: sabre_laser (1590)
+Seat 6: MrMiller123 (1561)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+MrMiller123 posts big blind 60
+Dealt to sabre_laser [5h Ah]
+*** PRE-FLOP *** 
+alphounso raises 90 to 150
+cluzo raises 982 to 1132 and is all-in
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser folds
+MrMiller123 folds
+alphounso calls 982
+*** FLOP *** [Ad 3c Qc]
+*** TURN *** [Ad 3c Qc][2s]
+*** RIVER *** [Ad 3c Qc 2s][3s]
+*** SHOW DOWN ***
+cluzo shows [As Ts] (Two pairs : Aces and 3)
+alphounso shows [Ac Kc] (Two pairs : Aces and 3)
+alphounso collected 2354 from pot
+*** SUMMARY ***
+Total pot 2354 | No rake
+Board: [Ad 3c Qc 2s 3s]
+Seat 1: alphounso showed [Ac Kc] and won 2354 with Two pairs : Aces and 3
+Seat 2: cluzo showed [As Ts] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 4 - HandId: #535417044095467521-15-1436828571 - Holdem no limit (40/80) - 2015/07/13 23:02:51 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (2852)
+Seat 3: Tresor2201 (1295)
+Seat 4: jokerdeluxe1 (1792)
+Seat 5: sabre_laser (1560)
+Seat 6: MrMiller123 (1501)
+*** ANTE/BLINDS ***
+MrMiller123 posts small blind 40
+alphounso posts big blind 80
+Dealt to sabre_laser [8h Qs]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser raises 80 to 160
+MrMiller123 folds
+alphounso calls 80
+*** FLOP *** [2c 9d 6s]
+alphounso checks
+sabre_laser bets 200
+alphounso folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [2c 9d 6s]
+Seat 5: sabre_laser (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 4 - HandId: #535417044095467521-16-1436828621 - Holdem no limit (40/80) - 2015/07/13 23:03:41 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #6 is the button
+Seat 1: alphounso (2692)
+Seat 3: Tresor2201 (1295)
+Seat 4: jokerdeluxe1 (1792)
+Seat 5: sabre_laser (1760)
+Seat 6: MrMiller123 (1461)
+*** ANTE/BLINDS ***
+alphounso posts small blind 40
+Tresor2201 posts big blind 80
+Dealt to sabre_laser [2s 3h]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+sabre_laser folds
+MrMiller123 raises 80 to 160
+alphounso folds
+Tresor2201 calls 80
+*** FLOP *** [7s 7c 5s]
+Tresor2201 checks
+MrMiller123 bets 188
+Tresor2201 folds
+MrMiller123 collected 548 from pot
+*** SUMMARY ***
+Total pot 548 | No rake
+Board: [7s 7c 5s]
+Seat 6: MrMiller123 (button) won 548
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 4 - HandId: #535417044095467521-17-1436828667 - Holdem no limit (40/80) - 2015/07/13 23:04:27 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (2652)
+Seat 3: Tresor2201 (1135)
+Seat 4: jokerdeluxe1 (1792)
+Seat 5: sabre_laser (1760)
+Seat 6: MrMiller123 (1661)
+*** ANTE/BLINDS ***
+Tresor2201 posts small blind 40
+jokerdeluxe1 posts big blind 80
+Dealt to sabre_laser [Qh Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+MrMiller123 folds
+alphounso folds
+Tresor2201 raises 160 to 240
+jokerdeluxe1 folds
+Tresor2201 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Tresor2201 (small blind) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 4 - HandId: #535417044095467521-18-1436828690 - Holdem no limit (40/80) - 2015/07/13 23:04:50 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (2652)
+Seat 3: Tresor2201 (1215)
+Seat 4: jokerdeluxe1 (1712)
+Seat 5: sabre_laser (1760)
+Seat 6: MrMiller123 (1661)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Th 9c]
+*** PRE-FLOP *** 
+MrMiller123 folds
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 calls 40
+sabre_laser checks
+*** FLOP *** [Td 8h 6d]
+jokerdeluxe1 bets 160
+sabre_laser calls 160
+*** TURN *** [Td 8h 6d][Kd]
+jokerdeluxe1 checks
+sabre_laser checks
+*** RIVER *** [Td 8h 6d Kd][4s]
+jokerdeluxe1 bets 240
+sabre_laser calls 240
+*** SHOW DOWN ***
+sabre_laser shows [Th 9c] (One pair : Tens)
+jokerdeluxe1 shows [8d 9d] (Flush King high)
+jokerdeluxe1 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Td 8h 6d Kd 4s]
+Seat 4: jokerdeluxe1 (small blind) showed [8d 9d] and won 960 with Flush King high
+Seat 5: sabre_laser (big blind) showed [Th 9c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 5 - HandId: #535417044095467521-19-1436828746 - Holdem no limit (60/120) - 2015/07/13 23:05:46 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (2652)
+Seat 3: Tresor2201 (1215)
+Seat 4: jokerdeluxe1 (2192)
+Seat 5: sabre_laser (1280)
+Seat 6: MrMiller123 (1661)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+MrMiller123 posts big blind 120
+Dealt to sabre_laser [Th 8h]
+*** PRE-FLOP *** 
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 raises 240 to 360
+sabre_laser folds
+MrMiller123 folds
+jokerdeluxe1 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 4: jokerdeluxe1 (button) won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 5 - HandId: #535417044095467521-20-1436828775 - Holdem no limit (60/120) - 2015/07/13 23:06:15 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (2652)
+Seat 3: Tresor2201 (1215)
+Seat 4: jokerdeluxe1 (2372)
+Seat 5: sabre_laser (1220)
+Seat 6: MrMiller123 (1541)
+*** ANTE/BLINDS ***
+MrMiller123 posts small blind 60
+alphounso posts big blind 120
+Dealt to sabre_laser [6d As]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 calls 120
+sabre_laser raises 240 to 360
+MrMiller123 folds
+alphounso folds
+jokerdeluxe1 calls 240
+*** FLOP *** [2d Jc Qh]
+jokerdeluxe1 checks
+sabre_laser bets 860 and is all-in
+jokerdeluxe1 folds
+sabre_laser collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [2d Jc Qh]
+Seat 5: sabre_laser (button) won 1760
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 5 - HandId: #535417044095467521-21-1436828810 - Holdem no limit (60/120) - 2015/07/13 23:06:50 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #6 is the button
+Seat 1: alphounso (2532)
+Seat 3: Tresor2201 (1215)
+Seat 4: jokerdeluxe1 (2012)
+Seat 5: sabre_laser (1760)
+Seat 6: MrMiller123 (1481)
+*** ANTE/BLINDS ***
+alphounso posts small blind 60
+Tresor2201 posts big blind 120
+Dealt to sabre_laser [Jc Tc]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+sabre_laser calls 120
+MrMiller123 folds
+alphounso raises 240 to 360
+Tresor2201 folds
+sabre_laser calls 240
+*** FLOP *** [5s 7d 3s]
+alphounso bets 420
+sabre_laser folds
+alphounso collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [5s 7d 3s]
+Seat 1: alphounso (small blind) won 1260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 5 - HandId: #535417044095467521-22-1436828854 - Holdem no limit (60/120) - 2015/07/13 23:07:34 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (3012)
+Seat 3: Tresor2201 (1095)
+Seat 4: jokerdeluxe1 (2012)
+Seat 5: sabre_laser (1400)
+Seat 6: MrMiller123 (1481)
+*** ANTE/BLINDS ***
+Tresor2201 posts small blind 60
+jokerdeluxe1 posts big blind 120
+Dealt to sabre_laser [2c 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+MrMiller123 raises 120 to 240
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 folds
+MrMiller123 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: MrMiller123 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 5 - HandId: #535417044095467521-23-1436828864 - Holdem no limit (60/120) - 2015/07/13 23:07:44 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (3012)
+Seat 3: Tresor2201 (1035)
+Seat 4: jokerdeluxe1 (1892)
+Seat 5: sabre_laser (1400)
+Seat 6: MrMiller123 (1661)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Js Tc]
+*** PRE-FLOP *** 
+MrMiller123 folds
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 5: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 5 - HandId: #535417044095467521-24-1436828884 - Holdem no limit (60/120) - 2015/07/13 23:08:04 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (3012)
+Seat 3: Tresor2201 (1035)
+Seat 4: jokerdeluxe1 (1832)
+Seat 5: sabre_laser (1460)
+Seat 6: MrMiller123 (1661)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+MrMiller123 posts big blind 120
+Dealt to sabre_laser [8s 3s]
+*** PRE-FLOP *** 
+alphounso folds
+Tresor2201 raises 120 to 240
+jokerdeluxe1 folds
+sabre_laser folds
+MrMiller123 folds
+Tresor2201 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: Tresor2201 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 5 - HandId: #535417044095467521-25-1436828910 - Holdem no limit (60/120) - 2015/07/13 23:08:30 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (3012)
+Seat 3: Tresor2201 (1215)
+Seat 4: jokerdeluxe1 (1832)
+Seat 5: sabre_laser (1400)
+Seat 6: MrMiller123 (1541)
+*** ANTE/BLINDS ***
+MrMiller123 posts small blind 60
+alphounso posts big blind 120
+Dealt to sabre_laser [Th Tc]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser raises 120 to 240
+MrMiller123 folds
+alphounso folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: sabre_laser (button) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 6 - HandId: #535417044095467521-26-1436828928 - Holdem no limit (80/160) - 2015/07/13 23:08:48 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #6 is the button
+Seat 1: alphounso (2892)
+Seat 3: Tresor2201 (1215)
+Seat 4: jokerdeluxe1 (1832)
+Seat 5: sabre_laser (1580)
+Seat 6: MrMiller123 (1481)
+*** ANTE/BLINDS ***
+alphounso posts small blind 80
+Tresor2201 posts big blind 160
+Dealt to sabre_laser [7s 5h]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+sabre_laser folds
+MrMiller123 raises 1321 to 1481 and is all-in
+alphounso folds
+Tresor2201 calls 1055 and is all-in
+*** FLOP *** [Kd 5s 6d]
+*** TURN *** [Kd 5s 6d][Qc]
+*** RIVER *** [Kd 5s 6d Qc][Jc]
+*** SHOW DOWN ***
+Tresor2201 shows [Ad Kh] (One pair : Kings)
+MrMiller123 shows [Th Jh] (One pair : Jacks)
+MrMiller123 collected 266 from side pot 1
+Tresor2201 collected 2510 from main pot
+*** SUMMARY ***
+Total pot 2776 | No rake
+Board: [Kd 5s 6d Qc Jc]
+Seat 3: Tresor2201 (big blind) showed [Ad Kh] and won 2510 with One pair : Kings
+Seat 6: MrMiller123 (button) showed [Th Jh] and won 266 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 6 - HandId: #535417044095467521-27-1436828963 - Holdem no limit (80/160) - 2015/07/13 23:09:23 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (2812)
+Seat 3: Tresor2201 (2510)
+Seat 4: jokerdeluxe1 (1832)
+Seat 5: sabre_laser (1580)
+Seat 6: MrMiller123 (266)
+*** ANTE/BLINDS ***
+Tresor2201 posts small blind 80
+jokerdeluxe1 posts big blind 160
+Dealt to sabre_laser [8d 7d]
+*** PRE-FLOP *** 
+sabre_laser folds
+MrMiller123 raises 106 to 266 and is all-in
+alphounso raises 214 to 480
+Tresor2201 folds
+jokerdeluxe1 folds
+*** FLOP *** [9c 6c 4c]
+*** TURN *** [9c 6c 4c][Jd]
+*** RIVER *** [9c 6c 4c Jd][9d]
+*** SHOW DOWN ***
+MrMiller123 shows [2h Ad] (One pair : 9)
+alphounso shows [Qc As] (One pair : 9)
+alphounso collected 986 from pot
+*** SUMMARY ***
+Total pot 986 | No rake
+Board: [9c 6c 4c Jd 9d]
+Seat 1: alphounso (button) showed [Qc As] and won 986 with One pair : 9
+Seat 6: MrMiller123 showed [2h Ad] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 6 - HandId: #535417044095467521-28-1436829006 - Holdem no limit (80/160) - 2015/07/13 23:10:06 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (3318)
+Seat 3: Tresor2201 (2430)
+Seat 4: jokerdeluxe1 (1672)
+Seat 5: sabre_laser (1580)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [6h 6s]
+*** PRE-FLOP *** 
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 calls 80
+sabre_laser checks
+*** FLOP *** [Jh Jc Kc]
+jokerdeluxe1 checks
+sabre_laser bets 1420 and is all-in
+jokerdeluxe1 folds
+sabre_laser collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [Jh Jc Kc]
+Seat 5: sabre_laser (big blind) won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 6 - HandId: #535417044095467521-29-1436829029 - Holdem no limit (80/160) - 2015/07/13 23:10:29 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (3318)
+Seat 3: Tresor2201 (2430)
+Seat 4: jokerdeluxe1 (1512)
+Seat 5: sabre_laser (1740)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+alphounso posts big blind 160
+Dealt to sabre_laser [As 7d]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 raises 320 to 480
+sabre_laser folds
+alphounso folds
+jokerdeluxe1 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 4: jokerdeluxe1 (button) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 6 - HandId: #535417044095467521-30-1436829052 - Holdem no limit (80/160) - 2015/07/13 23:10:52 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (3158)
+Seat 3: Tresor2201 (2430)
+Seat 4: jokerdeluxe1 (1752)
+Seat 5: sabre_laser (1660)
+*** ANTE/BLINDS ***
+alphounso posts small blind 80
+Tresor2201 posts big blind 160
+Dealt to sabre_laser [Qd Th]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+sabre_laser raises 1500 to 1660 and is all-in
+alphounso folds
+Tresor2201 folds
+sabre_laser collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 5: sabre_laser (button) won 1900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 6 - HandId: #535417044095467521-31-1436829068 - Holdem no limit (80/160) - 2015/07/13 23:11:08 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (3078)
+Seat 3: Tresor2201 (2270)
+Seat 4: jokerdeluxe1 (1752)
+Seat 5: sabre_laser (1900)
+*** ANTE/BLINDS ***
+Tresor2201 posts small blind 80
+jokerdeluxe1 posts big blind 160
+Dealt to sabre_laser [5c Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+alphounso raises 240 to 400
+Tresor2201 folds
+jokerdeluxe1 folds
+alphounso collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 1: alphounso (button) won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 6 - HandId: #535417044095467521-32-1436829081 - Holdem no limit (80/160) - 2015/07/13 23:11:21 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (3318)
+Seat 3: Tresor2201 (2190)
+Seat 4: jokerdeluxe1 (1592)
+Seat 5: sabre_laser (1900)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [2h Ts]
+*** PRE-FLOP *** 
+alphounso folds
+Tresor2201 raises 160 to 320
+jokerdeluxe1 folds
+sabre_laser folds
+Tresor2201 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 3: Tresor2201 (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 7 - HandId: #535417044095467521-33-1436829100 - Holdem no limit (10/100/200) - 2015/07/13 23:11:40 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (3318)
+Seat 3: Tresor2201 (2430)
+Seat 4: jokerdeluxe1 (1512)
+Seat 5: sabre_laser (1740)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+alphounso posts ante 10
+Tresor2201 posts ante 10
+jokerdeluxe1 posts ante 10
+sabre_laser posts small blind 100
+alphounso posts big blind 200
+Dealt to sabre_laser [Th As]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser calls 100
+alphounso checks
+*** FLOP *** [Kh 3h Qh]
+sabre_laser bets 200
+alphounso calls 200
+*** TURN *** [Kh 3h Qh][7d]
+sabre_laser checks
+alphounso bets 300
+sabre_laser calls 300
+*** RIVER *** [Kh 3h Qh 7d][Ah]
+sabre_laser bets 300
+alphounso folds
+sabre_laser collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [Kh 3h Qh 7d Ah]
+Seat 5: sabre_laser (small blind) won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 7 - HandId: #535417044095467521-34-1436829167 - Holdem no limit (10/100/200) - 2015/07/13 23:12:47 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (2608)
+Seat 3: Tresor2201 (2420)
+Seat 4: jokerdeluxe1 (1502)
+Seat 5: sabre_laser (2470)
+*** ANTE/BLINDS ***
+alphounso posts ante 10
+Tresor2201 posts ante 10
+jokerdeluxe1 posts ante 10
+sabre_laser posts ante 10
+alphounso posts small blind 100
+Tresor2201 posts big blind 200
+Dealt to sabre_laser [Td 5h]
+*** PRE-FLOP *** 
+jokerdeluxe1 raises 200 to 400
+sabre_laser folds
+alphounso calls 300
+Tresor2201 folds
+*** FLOP *** [2d Qh 8h]
+alphounso bets 500
+jokerdeluxe1 calls 500
+*** TURN *** [2d Qh 8h][Qd]
+alphounso checks
+jokerdeluxe1 bets 592 and is all-in
+alphounso folds
+jokerdeluxe1 collected 2632 from pot
+*** SUMMARY ***
+Total pot 2632 | No rake
+Board: [2d Qh 8h Qd]
+Seat 4: jokerdeluxe1 won 2632
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 7 - HandId: #535417044095467521-35-1436829213 - Holdem no limit (10/100/200) - 2015/07/13 23:13:33 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (1698)
+Seat 3: Tresor2201 (2210)
+Seat 4: jokerdeluxe1 (2632)
+Seat 5: sabre_laser (2460)
+*** ANTE/BLINDS ***
+Tresor2201 posts ante 10
+jokerdeluxe1 posts ante 10
+alphounso posts ante 10
+sabre_laser posts ante 10
+Tresor2201 posts small blind 100
+jokerdeluxe1 posts big blind 200
+Dealt to sabre_laser [6s 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+alphounso raises 400 to 600
+Tresor2201 folds
+jokerdeluxe1 raises 1340 to 1940
+alphounso folds
+jokerdeluxe1 collected 2680 from pot
+*** SUMMARY ***
+Total pot 2680 | No rake
+Seat 4: jokerdeluxe1 (big blind) won 2680
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 7 - HandId: #535417044095467521-36-1436829232 - Holdem no limit (10/100/200) - 2015/07/13 23:13:52 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (1088)
+Seat 3: Tresor2201 (2100)
+Seat 4: jokerdeluxe1 (3362)
+Seat 5: sabre_laser (2450)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts ante 10
+sabre_laser posts ante 10
+alphounso posts ante 10
+Tresor2201 posts ante 10
+jokerdeluxe1 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Ks 5c]
+*** PRE-FLOP *** 
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 5: sabre_laser (big blind) won 340
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 7 - HandId: #535417044095467521-37-1436829238 - Holdem no limit (10/100/200) - 2015/07/13 23:13:58 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (1078)
+Seat 3: Tresor2201 (2090)
+Seat 4: jokerdeluxe1 (3252)
+Seat 5: sabre_laser (2580)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+alphounso posts ante 10
+Tresor2201 posts ante 10
+jokerdeluxe1 posts ante 10
+sabre_laser posts small blind 100
+alphounso posts big blind 200
+Dealt to sabre_laser [4d 8h]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser folds
+alphounso collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: alphounso (big blind) won 340
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 7 - HandId: #535417044095467521-38-1436829252 - Holdem no limit (10/100/200) - 2015/07/13 23:14:12 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (1208)
+Seat 3: Tresor2201 (2080)
+Seat 4: jokerdeluxe1 (3242)
+Seat 5: sabre_laser (2470)
+*** ANTE/BLINDS ***
+alphounso posts ante 10
+Tresor2201 posts ante 10
+jokerdeluxe1 posts ante 10
+sabre_laser posts ante 10
+alphounso posts small blind 100
+Tresor2201 posts big blind 200
+Dealt to sabre_laser [7s Ts]
+*** PRE-FLOP *** 
+jokerdeluxe1 calls 200
+sabre_laser folds
+alphounso calls 100
+Tresor2201 checks
+*** FLOP *** [5d 4c 2s]
+alphounso checks
+Tresor2201 checks
+jokerdeluxe1 bets 320
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [5d 4c 2s]
+Seat 4: jokerdeluxe1 won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 8 - HandId: #535417044095467521-39-1436829290 - Holdem no limit (20/150/300) - 2015/07/13 23:14:50 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (998)
+Seat 3: Tresor2201 (1870)
+Seat 4: jokerdeluxe1 (3672)
+Seat 5: sabre_laser (2460)
+*** ANTE/BLINDS ***
+Tresor2201 posts ante 20
+jokerdeluxe1 posts ante 20
+alphounso posts ante 20
+sabre_laser posts ante 20
+Tresor2201 posts small blind 150
+jokerdeluxe1 posts big blind 300
+Dealt to sabre_laser [4d 7d]
+*** PRE-FLOP *** 
+sabre_laser folds
+alphounso folds
+Tresor2201 folds
+jokerdeluxe1 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 4: jokerdeluxe1 (big blind) won 530
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 8 - HandId: #535417044095467521-40-1436829298 - Holdem no limit (20/150/300) - 2015/07/13 23:14:58 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #3 is the button
+Seat 1: alphounso (978)
+Seat 3: Tresor2201 (1700)
+Seat 4: jokerdeluxe1 (3882)
+Seat 5: sabre_laser (2440)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts ante 20
+sabre_laser posts ante 20
+alphounso posts ante 20
+Tresor2201 posts ante 20
+jokerdeluxe1 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [2d 5c]
+*** PRE-FLOP *** 
+alphounso raises 658 to 958 and is all-in
+Tresor2201 folds
+jokerdeluxe1 calls 808
+sabre_laser calls 658
+*** FLOP *** [Qh Ks Kd]
+jokerdeluxe1 checks
+sabre_laser checks
+*** TURN *** [Qh Ks Kd][Jc]
+jokerdeluxe1 checks
+sabre_laser checks
+*** RIVER *** [Qh Ks Kd Jc][Jh]
+jokerdeluxe1 checks
+sabre_laser checks
+*** SHOW DOWN ***
+jokerdeluxe1 shows [8c 8h] (Two pairs : Kings and Jacks)
+sabre_laser shows [2d 5c] (Two pairs : Kings and Jacks)
+alphounso shows [Ah Ts] (Straight Ace high)
+alphounso collected 2954 from pot
+*** SUMMARY ***
+Total pot 2954 | No rake
+Board: [Qh Ks Kd Jc Jh]
+Seat 1: alphounso showed [Ah Ts] and won 2954 with Straight Ace high
+Seat 4: jokerdeluxe1 (small blind) showed [8c 8h] and lost with Two pairs : Kings and Jacks
+Seat 5: sabre_laser (big blind) showed [2d 5c] and lost with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 8 - HandId: #535417044095467521-41-1436829325 - Holdem no limit (20/150/300) - 2015/07/13 23:15:25 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #4 is the button
+Seat 1: alphounso (2954)
+Seat 3: Tresor2201 (1680)
+Seat 4: jokerdeluxe1 (2904)
+Seat 5: sabre_laser (1462)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+alphounso posts ante 20
+Tresor2201 posts ante 20
+jokerdeluxe1 posts ante 20
+sabre_laser posts small blind 150
+alphounso posts big blind 300
+Dealt to sabre_laser [5c 2d]
+*** PRE-FLOP *** 
+Tresor2201 folds
+jokerdeluxe1 folds
+sabre_laser folds
+alphounso collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 1: alphounso (big blind) won 530
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 8 - HandId: #535417044095467521-42-1436829333 - Holdem no limit (20/150/300) - 2015/07/13 23:15:33 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #5 is the button
+Seat 1: alphounso (3164)
+Seat 3: Tresor2201 (1660)
+Seat 4: jokerdeluxe1 (2884)
+Seat 5: sabre_laser (1292)
+*** ANTE/BLINDS ***
+alphounso posts ante 20
+Tresor2201 posts ante 20
+jokerdeluxe1 posts ante 20
+sabre_laser posts ante 20
+alphounso posts small blind 150
+Tresor2201 posts big blind 300
+Dealt to sabre_laser [Jh Ac]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+sabre_laser raises 972 to 1272 and is all-in
+alphounso folds
+Tresor2201 calls 972
+*** FLOP *** [Jd 7s 3s]
+*** TURN *** [Jd 7s 3s][8h]
+*** RIVER *** [Jd 7s 3s 8h][As]
+*** SHOW DOWN ***
+Tresor2201 shows [9s 9h] (One pair : 9)
+sabre_laser shows [Jh Ac] (Two pairs : Aces and Jacks)
+sabre_laser collected 2774 from pot
+*** SUMMARY ***
+Total pot 2774 | No rake
+Board: [Jd 7s 3s 8h As]
+Seat 3: Tresor2201 (big blind) showed [9s 9h] and lost with One pair : 9
+Seat 5: sabre_laser (button) showed [Jh Ac] and won 2774 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,70€ + 0,30€ level: 8 - HandId: #535417044095467521-43-1436829364 - Holdem no limit (20/150/300) - 2015/07/13 23:16:04 UTC
+Table: 'Double or Nothing(124661495)#0' 6-max (real money) Seat #1 is the button
+Seat 1: alphounso (2994)
+Seat 3: Tresor2201 (368)
+Seat 4: jokerdeluxe1 (2864)
+Seat 5: sabre_laser (2774)
+*** ANTE/BLINDS ***
+Tresor2201 posts ante 20
+jokerdeluxe1 posts ante 20
+alphounso posts ante 20
+sabre_laser posts ante 20
+Tresor2201 posts small blind 150
+jokerdeluxe1 posts big blind 300
+Dealt to sabre_laser [5s Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+alphounso calls 300
+Tresor2201 raises 48 to 348 and is all-in
+jokerdeluxe1 calls 48
+alphounso calls 48
+*** FLOP *** [8h 9s 6s]
+jokerdeluxe1 checks
+alphounso bets 300
+jokerdeluxe1 calls 300
+*** TURN *** [8h 9s 6s][8s]
+jokerdeluxe1 checks
+alphounso bets 300
+jokerdeluxe1 calls 300
+*** RIVER *** [8h 9s 6s 8s][9c]
+jokerdeluxe1 checks
+alphounso bets 450
+jokerdeluxe1 folds
+*** SHOW DOWN ***
+Tresor2201 shows [Qd 6h] (Two pairs : 9 and 8)
+alphounso shows [9d 8d] (Full of 9 and 8)
+alphounso collected 2774 from pot
+*** SUMMARY ***
+Total pot 2774 | No rake
+Board: [8h 9s 6s 8s 9c]
+Seat 1: alphounso (button) showed [9d 8d] and won 2774 with Full of 9 and 8
+Seat 3: Tresor2201 (small blind) showed [Qd 6h] and lost with Two pairs : 9 and 8
+
+

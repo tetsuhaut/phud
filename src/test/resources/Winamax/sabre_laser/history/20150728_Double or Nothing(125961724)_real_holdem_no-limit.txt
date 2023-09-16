@@ -1,0 +1,790 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #541001485127778305-1-1438111032 - Holdem no limit (10/20) - 2015/07/28 19:17:12 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #3 is the button
+Seat 1: SoMn5mn5 (1500)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: G_ZU (1500)
+Seat 6: totote 86 (1500)
+Seat 7: magien (1500)
+Seat 8: FunkyBrage (1500)
+Seat 9: Sony55 (1500)
+Seat 10: Ieviathan (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+G_ZU posts big blind 20
+Dealt to sabre_laser [Td 6h]
+*** PRE-FLOP *** 
+totote 86 folds
+magien folds
+FunkyBrage calls 20
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser calls 10
+G_ZU checks
+*** FLOP *** [8h Qh Qd]
+sabre_laser checks
+G_ZU checks
+FunkyBrage bets 20
+sabre_laser folds
+G_ZU folds
+FunkyBrage collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h Qh Qd]
+Seat 8: FunkyBrage won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #541001485127778305-2-1438111092 - Holdem no limit (10/20) - 2015/07/28 19:18:12 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #4 is the button
+Seat 1: SoMn5mn5 (1500)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1480)
+Seat 6: totote 86 (1500)
+Seat 7: magien (1500)
+Seat 8: FunkyBrage (1540)
+Seat 9: Sony55 (1500)
+Seat 10: Ieviathan (1500)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 10
+totote 86 posts big blind 20
+Dealt to sabre_laser [7d 4d]
+*** PRE-FLOP *** 
+magien folds
+FunkyBrage calls 20
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 checks
+*** FLOP *** [6d 3h Ac]
+totote 86 checks
+FunkyBrage checks
+*** TURN *** [6d 3h Ac][Kh]
+totote 86 checks
+FunkyBrage bets 20
+totote 86 folds
+FunkyBrage collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [6d 3h Ac Kh]
+Seat 8: FunkyBrage won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #541001485127778305-3-1438111180 - Holdem no limit (10/20) - 2015/07/28 19:19:40 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #5 is the button
+Seat 1: SoMn5mn5 (1500)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1480)
+Seat 7: magien (1500)
+Seat 8: FunkyBrage (1570)
+Seat 9: Sony55 (1500)
+Seat 10: Ieviathan (1500)
+*** ANTE/BLINDS ***
+totote 86 posts small blind 10
+magien posts big blind 20
+Dealt to sabre_laser [Kd 4c]
+*** PRE-FLOP *** 
+FunkyBrage folds
+Sony55 calls 20
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 calls 10
+magien checks
+*** FLOP *** [Jh 4d 6d]
+totote 86 checks
+magien checks
+Sony55 checks
+*** TURN *** [Jh 4d 6d][Jc]
+totote 86 checks
+magien checks
+Sony55 checks
+*** RIVER *** [Jh 4d 6d Jc][Ah]
+totote 86 checks
+magien checks
+Sony55 checks
+*** SHOW DOWN ***
+totote 86 shows [Qd 5d] (One pair : Jacks)
+magien shows [Qs 8h] (One pair : Jacks)
+Sony55 shows [Qc Ac] (Two pairs : Aces and Jacks)
+Sony55 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Jh 4d 6d Jc Ah]
+Seat 6: totote 86 (small blind) showed [Qd 5d] and lost with One pair : Jacks
+Seat 7: magien (big blind) showed [Qs 8h] and lost with One pair : Jacks
+Seat 9: Sony55 showed [Qc Ac] and won 60 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #541001485127778305-4-1438111261 - Holdem no limit (15/30) - 2015/07/28 19:21:01 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #6 is the button
+Seat 1: SoMn5mn5 (1500)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1460)
+Seat 7: magien (1480)
+Seat 8: FunkyBrage (1570)
+Seat 9: Sony55 (1540)
+Seat 10: Ieviathan (1500)
+*** ANTE/BLINDS ***
+magien posts small blind 15
+FunkyBrage posts big blind 30
+Dealt to sabre_laser [5d 4d]
+*** PRE-FLOP *** 
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 raises 45 to 75
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 folds
+magien folds
+FunkyBrage folds
+SoMn5mn5 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: SoMn5mn5 won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #541001485127778305-5-1438111308 - Holdem no limit (15/30) - 2015/07/28 19:21:48 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #7 is the button
+Seat 1: SoMn5mn5 (1545)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1460)
+Seat 7: magien (1465)
+Seat 8: FunkyBrage (1540)
+Seat 9: Sony55 (1540)
+Seat 10: Ieviathan (1500)
+*** ANTE/BLINDS ***
+FunkyBrage posts small blind 15
+Sony55 posts big blind 30
+Dealt to sabre_laser [7d 9c]
+*** PRE-FLOP *** 
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 calls 30
+magien folds
+FunkyBrage calls 15
+Sony55 checks
+*** FLOP *** [Td 2s 8s]
+FunkyBrage checks
+Sony55 checks
+totote 86 bets 30
+FunkyBrage calls 30
+Sony55 folds
+*** TURN *** [Td 2s 8s][Th]
+FunkyBrage checks
+totote 86 bets 150
+FunkyBrage folds
+totote 86 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Td 2s 8s Th]
+Seat 6: totote 86 won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 2 - HandId: #541001485127778305-6-1438111431 - Holdem no limit (20/40) - 2015/07/28 19:23:51 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #8 is the button
+Seat 1: SoMn5mn5 (1545)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1550)
+Seat 7: magien (1465)
+Seat 8: FunkyBrage (1480)
+Seat 9: Sony55 (1510)
+Seat 10: Ieviathan (1500)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 20
+Ieviathan posts big blind 40
+Dealt to sabre_laser [8c 2h]
+*** PRE-FLOP *** 
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 calls 40
+magien folds
+FunkyBrage calls 40
+Sony55 folds
+Ieviathan checks
+*** FLOP *** [Tc Th 3h]
+Ieviathan checks
+totote 86 bets 40
+FunkyBrage calls 40
+Ieviathan folds
+*** TURN *** [Tc Th 3h][3s]
+totote 86 bets 220
+FunkyBrage folds
+totote 86 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Tc Th 3h 3s]
+Seat 6: totote 86 won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 2 - HandId: #541001485127778305-7-1438111505 - Holdem no limit (20/40) - 2015/07/28 19:25:05 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SoMn5mn5 (1545)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1690)
+Seat 7: magien (1465)
+Seat 8: FunkyBrage (1400)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1460)
+*** ANTE/BLINDS ***
+Ieviathan posts small blind 20
+SoMn5mn5 posts big blind 40
+Dealt to sabre_laser [7s 5c]
+*** PRE-FLOP *** 
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 raises 220 to 260
+magien folds
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+totote 86 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 6: totote 86 won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #541001485127778305-8-1438111584 - Holdem no limit (30/60) - 2015/07/28 19:26:24 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SoMn5mn5 (1505)
+Seat 2: Crisssis (1500)
+Seat 3: mushroom99 (1500)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1750)
+Seat 7: magien (1465)
+Seat 8: FunkyBrage (1400)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+SoMn5mn5 posts small blind 30
+Crisssis posts big blind 60
+Dealt to sabre_laser [3h 2c]
+*** PRE-FLOP *** 
+mushroom99 raises 240 to 300
+sabre_laser folds
+G_ZU folds
+totote 86 folds
+magien folds
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: mushroom99 won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #541001485127778305-9-1438111641 - Holdem no limit (30/60) - 2015/07/28 19:27:21 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #1 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1440)
+Seat 3: mushroom99 (1590)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1750)
+Seat 7: magien (1465)
+Seat 8: FunkyBrage (1400)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 30
+mushroom99 posts big blind 60
+Dealt to sabre_laser [5d 9s]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+totote 86 calls 60
+magien calls 60
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis calls 30
+mushroom99 checks
+*** FLOP *** [6c 7h 7d]
+Crisssis checks
+mushroom99 bets 60
+totote 86 folds
+magien raises 60 to 120
+Crisssis folds
+mushroom99 calls 60
+*** TURN *** [6c 7h 7d][Kc]
+mushroom99 bets 60
+magien raises 60 to 120
+mushroom99 calls 60
+*** RIVER *** [6c 7h 7d Kc][9c]
+mushroom99 bets 60
+magien raises 420 to 480
+mushroom99 calls 420
+*** SHOW DOWN ***
+magien shows [Ac As] (Two pairs : Aces and 7)
+mushroom99 shows [Js 7c] (Trips of 7)
+mushroom99 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [6c 7h 7d Kc 9c]
+Seat 3: mushroom99 (big blind) showed [Js 7c] and won 1680 with Trips of 7
+Seat 7: magien showed [Ac As] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #541001485127778305-10-1438111778 - Holdem no limit (40/80) - 2015/07/28 19:29:38 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #2 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (2490)
+Seat 4: sabre_laser (1480)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1690)
+Seat 7: magien (685)
+Seat 8: FunkyBrage (1400)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+mushroom99 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [9s Qh]
+*** PRE-FLOP *** 
+G_ZU folds
+totote 86 calls 80
+magien folds
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 calls 40
+sabre_laser checks
+*** FLOP *** [9h Td 6c]
+mushroom99 checks
+sabre_laser bets 120
+totote 86 folds
+mushroom99 folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [9h Td 6c]
+Seat 4: sabre_laser (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #541001485127778305-11-1438111850 - Holdem no limit (40/80) - 2015/07/28 19:30:50 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #3 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (2410)
+Seat 4: sabre_laser (1640)
+Seat 5: G_ZU (1470)
+Seat 6: totote 86 (1610)
+Seat 7: magien (685)
+Seat 8: FunkyBrage (1400)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+G_ZU posts big blind 80
+Dealt to sabre_laser [3d 2s]
+*** PRE-FLOP *** 
+totote 86 folds
+magien folds
+FunkyBrage calls 80
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 calls 80
+sabre_laser calls 40
+G_ZU checks
+*** FLOP *** [Kc Qh 2d]
+sabre_laser checks
+G_ZU checks
+FunkyBrage checks
+mushroom99 bets 160
+sabre_laser folds
+G_ZU folds
+FunkyBrage folds
+mushroom99 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Kc Qh 2d]
+Seat 3: mushroom99 (button) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #541001485127778305-12-1438111989 - Holdem no limit (60/120) - 2015/07/28 19:33:09 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #4 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (2650)
+Seat 4: sabre_laser (1560)
+Seat 5: G_ZU (1390)
+Seat 6: totote 86 (1610)
+Seat 7: magien (685)
+Seat 8: FunkyBrage (1320)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 60
+totote 86 posts big blind 120
+Dealt to sabre_laser [4s 9d]
+*** PRE-FLOP *** 
+magien folds
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: totote 86 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #541001485127778305-13-1438112018 - Holdem no limit (60/120) - 2015/07/28 19:33:38 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #5 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (2650)
+Seat 4: sabre_laser (1560)
+Seat 5: G_ZU (1330)
+Seat 6: totote 86 (1670)
+Seat 7: magien (685)
+Seat 8: FunkyBrage (1320)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+totote 86 posts small blind 60
+magien posts big blind 120
+Dealt to sabre_laser [2d 9d]
+*** PRE-FLOP *** 
+FunkyBrage calls 120
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 calls 120
+sabre_laser folds
+G_ZU folds
+totote 86 calls 60
+magien checks
+*** FLOP *** [Js 6c Kd]
+totote 86 checks
+magien checks
+FunkyBrage bets 120
+mushroom99 calls 120
+totote 86 folds
+magien folds
+*** TURN *** [Js 6c Kd][5c]
+FunkyBrage bets 120
+mushroom99 calls 120
+*** RIVER *** [Js 6c Kd 5c][Td]
+FunkyBrage bets 120
+mushroom99 raises 120 to 240
+FunkyBrage raises 120 to 360
+mushroom99 calls 120
+*** SHOW DOWN ***
+mushroom99 shows [Ks Th] (Two pairs : Kings and Tens)
+FunkyBrage shows [6h 6d] (Trips of 6)
+FunkyBrage collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [Js 6c Kd 5c Td]
+Seat 3: mushroom99 showed [Ks Th] and lost with Two pairs : Kings and Tens
+Seat 8: FunkyBrage showed [6h 6d] and won 1680 with Trips of 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #541001485127778305-14-1438112170 - Holdem no limit (80/160) - 2015/07/28 19:36:10 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #6 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (1930)
+Seat 4: sabre_laser (1560)
+Seat 5: G_ZU (1330)
+Seat 6: totote 86 (1550)
+Seat 7: magien (565)
+Seat 8: FunkyBrage (2280)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+magien posts small blind 80
+FunkyBrage posts big blind 160
+Dealt to sabre_laser [8s Kc]
+*** PRE-FLOP *** 
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser raises 240 to 400
+G_ZU folds
+totote 86 raises 240 to 640
+magien folds
+FunkyBrage folds
+sabre_laser calls 240
+*** FLOP *** [5c Qh 7d]
+sabre_laser checks
+totote 86 bets 160
+sabre_laser folds
+totote 86 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [5c Qh 7d]
+Seat 6: totote 86 (button) won 1680
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #541001485127778305-15-1438112230 - Holdem no limit (80/160) - 2015/07/28 19:37:10 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #7 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (1930)
+Seat 4: sabre_laser (920)
+Seat 5: G_ZU (1330)
+Seat 6: totote 86 (2430)
+Seat 7: magien (485)
+Seat 8: FunkyBrage (2120)
+Seat 9: Sony55 (1490)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+FunkyBrage posts small blind 80
+Sony55 posts big blind 160
+Dealt to sabre_laser [3s Kc]
+*** PRE-FLOP *** 
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 raises 160 to 320
+magien folds
+FunkyBrage folds
+Sony55 folds
+totote 86 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 6: totote 86 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #541001485127778305-16-1438112270 - Holdem no limit (80/160) - 2015/07/28 19:37:50 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #8 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (1930)
+Seat 4: sabre_laser (920)
+Seat 5: G_ZU (1330)
+Seat 6: totote 86 (2670)
+Seat 7: magien (485)
+Seat 8: FunkyBrage (2040)
+Seat 9: Sony55 (1330)
+Seat 10: Ieviathan (1440)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 80
+Ieviathan posts big blind 160
+Dealt to sabre_laser [4s 6s]
+*** PRE-FLOP *** 
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 calls 160
+magien raises 325 to 485 and is all-in
+FunkyBrage calls 485
+Sony55 folds
+Ieviathan folds
+totote 86 calls 325
+*** FLOP *** [3s 7d 2d]
+totote 86 checks
+FunkyBrage checks
+*** TURN *** [3s 7d 2d][8c]
+totote 86 checks
+FunkyBrage checks
+*** RIVER *** [3s 7d 2d 8c][2c]
+totote 86 bets 160
+FunkyBrage folds
+*** SHOW DOWN ***
+magien shows [As 4h] (One pair : 2)
+totote 86 shows [Qs 2s] (Trips of 2)
+totote 86 collected 1855 from pot
+*** SUMMARY ***
+Total pot 1855 | No rake
+Board: [3s 7d 2d 8c 2c]
+Seat 6: totote 86 showed [Qs 2s] and won 1855 with Trips of 2
+Seat 7: magien showed [As 4h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 7 - HandId: #541001485127778305-17-1438112348 - Holdem no limit (10/100/200) - 2015/07/28 19:39:08 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #9 is the button
+Seat 1: SoMn5mn5 (1475)
+Seat 2: Crisssis (1380)
+Seat 3: mushroom99 (1930)
+Seat 4: sabre_laser (920)
+Seat 5: G_ZU (1330)
+Seat 6: totote 86 (3880)
+Seat 8: FunkyBrage (1555)
+Seat 9: Sony55 (1250)
+Seat 10: Ieviathan (1280)
+*** ANTE/BLINDS ***
+Ieviathan posts ante 10
+SoMn5mn5 posts ante 10
+Crisssis posts ante 10
+mushroom99 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+totote 86 posts ante 10
+FunkyBrage posts ante 10
+Sony55 posts ante 10
+Ieviathan posts small blind 100
+SoMn5mn5 posts big blind 200
+Dealt to sabre_laser [3h 7d]
+*** PRE-FLOP *** 
+Crisssis raises 1170 to 1370 and is all-in
+mushroom99 folds
+sabre_laser folds
+G_ZU folds
+totote 86 folds
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Seat 2: Crisssis won 1760
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 7 - HandId: #541001485127778305-18-1438112385 - Holdem no limit (10/100/200) - 2015/07/28 19:39:45 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #10 is the button
+Seat 1: SoMn5mn5 (1265)
+Seat 2: Crisssis (1760)
+Seat 3: mushroom99 (1920)
+Seat 4: sabre_laser (910)
+Seat 5: G_ZU (1320)
+Seat 6: totote 86 (3870)
+Seat 8: FunkyBrage (1545)
+Seat 9: Sony55 (1240)
+Seat 10: Ieviathan (1170)
+*** ANTE/BLINDS ***
+SoMn5mn5 posts ante 10
+Crisssis posts ante 10
+mushroom99 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+totote 86 posts ante 10
+FunkyBrage posts ante 10
+Sony55 posts ante 10
+Ieviathan posts ante 10
+SoMn5mn5 posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [Tc 8d]
+*** PRE-FLOP *** 
+mushroom99 calls 200
+sabre_laser folds
+G_ZU folds
+totote 86 folds
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis checks
+*** FLOP *** [7s Ts Kd]
+Crisssis checks
+mushroom99 bets 300
+Crisssis folds
+mushroom99 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [7s Ts Kd]
+Seat 3: mushroom99 won 890
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 7 - HandId: #541001485127778305-19-1438112429 - Holdem no limit (10/100/200) - 2015/07/28 19:40:29 UTC
+Table: 'Double or Nothing(125961724)#0' 10-max (real money) Seat #1 is the button
+Seat 1: SoMn5mn5 (1155)
+Seat 2: Crisssis (1550)
+Seat 3: mushroom99 (2300)
+Seat 4: sabre_laser (900)
+Seat 5: G_ZU (1310)
+Seat 6: totote 86 (3860)
+Seat 8: FunkyBrage (1535)
+Seat 9: Sony55 (1230)
+Seat 10: Ieviathan (1160)
+*** ANTE/BLINDS ***
+Crisssis posts ante 10
+mushroom99 posts ante 10
+SoMn5mn5 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+totote 86 posts ante 10
+FunkyBrage posts ante 10
+Sony55 posts ante 10
+Ieviathan posts ante 10
+Crisssis posts small blind 100
+mushroom99 posts big blind 200
+Dealt to sabre_laser [9d 9h]
+*** PRE-FLOP *** 
+sabre_laser raises 690 to 890 and is all-in
+G_ZU folds
+totote 86 calls 890
+FunkyBrage folds
+Sony55 folds
+Ieviathan folds
+SoMn5mn5 folds
+Crisssis folds
+mushroom99 folds
+*** FLOP *** [2s Qh 2c]
+*** TURN *** [2s Qh 2c][Ad]
+*** RIVER *** [2s Qh 2c Ad][Kd]
+*** SHOW DOWN ***
+sabre_laser shows [9d 9h] (Two pairs : 9 and 2)
+totote 86 shows [Tc As] (Two pairs : Aces and 2)
+totote 86 collected 2170 from pot
+*** SUMMARY ***
+Total pot 2170 | No rake
+Board: [2s Qh 2c Ad Kd]
+Seat 4: sabre_laser showed [9d 9h] and lost with Two pairs : 9 and 2
+Seat 6: totote 86 showed [Tc As] and won 2170 with Two pairs : Aces and 2
+
+

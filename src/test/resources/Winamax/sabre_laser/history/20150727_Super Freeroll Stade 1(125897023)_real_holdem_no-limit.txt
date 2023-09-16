@@ -1,0 +1,542 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 0 - HandId: #540723596448759809-1-1438033042 - Holdem no limit (10/20) - 2015/07/27 21:37:22 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: gadget30 (1500)
+Seat 3: Louisdu13110 (1500)
+Seat 4: pichonnier (1500)
+Seat 5: 45flush (1500)
+Seat 6: playnow86 (1500)
+*** ANTE/BLINDS ***
+Louisdu13110 posts small blind 10
+pichonnier posts big blind 20
+Dealt to sabre_laser [6d Jc]
+*** PRE-FLOP *** 
+45flush calls 20
+playnow86 folds
+sabre_laser folds
+gadget30 folds
+Louisdu13110 raises 1480 to 1500 and is all-in
+pichonnier folds
+45flush calls 1480 and is all-in
+*** FLOP *** [9s Qd 3c]
+*** TURN *** [9s Qd 3c][Ts]
+*** RIVER *** [9s Qd 3c Ts][Ah]
+*** SHOW DOWN ***
+45flush shows [9d Ks] (One pair : 9)
+Louisdu13110 shows [Ac 7h] (One pair : Aces)
+Louisdu13110 collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [9s Qd 3c Ts Ah]
+Seat 3: Louisdu13110 (small blind) showed [Ac 7h] and won 3020 with One pair : Aces
+Seat 5: 45flush showed [9d Ks] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 0 - HandId: #540723596448759809-2-1438033088 - Holdem no limit (10/20) - 2015/07/27 21:38:08 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: gadget30 (1500)
+Seat 3: Louisdu13110 (3020)
+Seat 4: pichonnier (1480)
+Seat 6: playnow86 (1500)
+*** ANTE/BLINDS ***
+pichonnier posts small blind 10
+playnow86 posts big blind 20
+Dealt to sabre_laser [4s 4d]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+gadget30 folds
+Louisdu13110 calls 20
+pichonnier calls 10
+playnow86 checks
+*** FLOP *** [Td 2h Qs]
+pichonnier checks
+playnow86 bets 60
+sabre_laser folds
+Louisdu13110 folds
+pichonnier calls 60
+*** TURN *** [Td 2h Qs][3s]
+pichonnier checks
+playnow86 bets 200
+pichonnier calls 200
+*** RIVER *** [Td 2h Qs 3s][Tc]
+pichonnier bets 1200 and is all-in
+playnow86 raises 20 to 1220 and is all-in
+*** SHOW DOWN ***
+pichonnier shows [As 5c] (One pair : Tens)
+playnow86 shows [Ks Qh] (Two pairs : Queens and Tens)
+playnow86 collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [Td 2h Qs 3s Tc]
+Seat 4: pichonnier (small blind) showed [As 5c] and lost with One pair : Tens
+Seat 6: playnow86 (big blind) showed [Ks Qh] and won 3020 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 0 - HandId: #540723596448759809-3-1438033165 - Holdem no limit (10/20) - 2015/07/27 21:39:25 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1480)
+Seat 2: gadget30 (1500)
+Seat 3: Louisdu13110 (3000)
+Seat 6: playnow86 (3020)
+*** ANTE/BLINDS ***
+playnow86 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [6h 5d]
+*** PRE-FLOP *** 
+gadget30 raises 20 to 40
+Louisdu13110 calls 40
+playnow86 calls 30
+sabre_laser calls 20
+*** FLOP *** [7c 4s 2h]
+playnow86 checks
+sabre_laser checks
+gadget30 bets 40
+Louisdu13110 calls 40
+playnow86 calls 40
+sabre_laser calls 40
+*** TURN *** [7c 4s 2h][3h]
+playnow86 checks
+sabre_laser checks
+gadget30 bets 40
+Louisdu13110 folds
+playnow86 folds
+sabre_laser raises 80 to 120
+gadget30 calls 80
+*** RIVER *** [7c 4s 2h 3h][Qd]
+sabre_laser bets 170
+gadget30 calls 170
+*** SHOW DOWN ***
+gadget30 shows [Kc Kd] (One pair : Kings)
+sabre_laser shows [6h 5d] (Straight 7 high)
+sabre_laser collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 4s 2h 3h Qd]
+Seat 1: sabre_laser (big blind) showed [6h 5d] and won 900 with Straight 7 high
+Seat 2: gadget30 showed [Kc Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 1 - HandId: #540723596448759809-4-1438033332 - Holdem no limit (15/30) - 2015/07/27 21:42:12 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2010)
+Seat 2: gadget30 (1130)
+Seat 3: Louisdu13110 (2920)
+Seat 6: playnow86 (2940)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+gadget30 posts big blind 30
+Dealt to sabre_laser [6s 9s]
+*** PRE-FLOP *** 
+Louisdu13110 folds
+playnow86 calls 30
+sabre_laser calls 15
+gadget30 checks
+*** FLOP *** [2d 5s 4c]
+sabre_laser checks
+gadget30 checks
+playnow86 bets 45
+sabre_laser folds
+gadget30 calls 45
+*** TURN *** [2d 5s 4c][Jc]
+gadget30 checks
+playnow86 bets 120
+gadget30 calls 120
+*** RIVER *** [2d 5s 4c Jc][Kd]
+gadget30 checks
+playnow86 bets 315
+gadget30 calls 315
+*** SHOW DOWN ***
+gadget30 shows [2s 3c] (One pair : 2)
+playnow86 shows [3d 6d] (Straight 6 high)
+playnow86 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [2d 5s 4c Jc Kd]
+Seat 2: gadget30 (big blind) showed [2s 3c] and lost with One pair : 2
+Seat 6: playnow86 (button) showed [3d 6d] and won 1050 with Straight 6 high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 1 - HandId: #540723596448759809-5-1438033391 - Holdem no limit (15/30) - 2015/07/27 21:43:11 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1980)
+Seat 2: gadget30 (620)
+Seat 3: Louisdu13110 (2920)
+Seat 6: playnow86 (3480)
+*** ANTE/BLINDS ***
+gadget30 posts small blind 15
+Louisdu13110 posts big blind 30
+Dealt to sabre_laser [Kd 8c]
+*** PRE-FLOP *** 
+playnow86 folds
+sabre_laser raises 45 to 75
+gadget30 raises 545 to 620 and is all-in
+Louisdu13110 folds
+sabre_laser folds
+gadget30 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Seat 2: gadget30 (small blind) won 725
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 2 - HandId: #540723596448759809-6-1438033422 - Holdem no limit (20/40) - 2015/07/27 21:43:42 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1905)
+Seat 2: gadget30 (725)
+Seat 3: Louisdu13110 (2890)
+Seat 6: playnow86 (3480)
+*** ANTE/BLINDS ***
+Louisdu13110 posts small blind 20
+playnow86 posts big blind 40
+Dealt to sabre_laser [5d Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+gadget30 raises 685 to 725 and is all-in
+Louisdu13110 folds
+playnow86 folds
+gadget30 collected 785 from pot
+*** SUMMARY ***
+Total pot 785 | No rake
+Seat 2: gadget30 (button) won 785
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 2 - HandId: #540723596448759809-7-1438033443 - Holdem no limit (20/40) - 2015/07/27 21:44:03 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1905)
+Seat 2: gadget30 (785)
+Seat 3: Louisdu13110 (2870)
+Seat 6: playnow86 (3440)
+*** ANTE/BLINDS ***
+playnow86 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [8h 5h]
+*** PRE-FLOP *** 
+gadget30 folds
+Louisdu13110 folds
+playnow86 calls 20
+sabre_laser checks
+*** FLOP *** [4c Tc 2h]
+playnow86 bets 40
+sabre_laser folds
+playnow86 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4c Tc 2h]
+Seat 6: playnow86 (small blind) won 120
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 2 - HandId: #540723596448759809-8-1438033491 - Holdem no limit (20/40) - 2015/07/27 21:44:51 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1865)
+Seat 2: gadget30 (785)
+Seat 3: Louisdu13110 (2870)
+Seat 6: playnow86 (3480)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+gadget30 posts big blind 40
+Dealt to sabre_laser [3h Ks]
+*** PRE-FLOP *** 
+Louisdu13110 raises 40 to 80
+playnow86 folds
+sabre_laser folds
+gadget30 calls 40
+*** FLOP *** [6s 2h Tc]
+gadget30 checks
+Louisdu13110 checks
+*** TURN *** [6s 2h Tc][7d]
+gadget30 checks
+Louisdu13110 checks
+*** RIVER *** [6s 2h Tc 7d][Kh]
+gadget30 checks
+Louisdu13110 checks
+*** SHOW DOWN ***
+gadget30 shows [Qs 9c] (High card : King)
+Louisdu13110 shows [Ad 6d] (One pair : 6)
+Louisdu13110 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6s 2h Tc 7d Kh]
+Seat 2: gadget30 (big blind) showed [Qs 9c] and lost with High card : King
+Seat 3: Louisdu13110 showed [Ad 6d] and won 180 with One pair : 6
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 2 - HandId: #540723596448759809-9-1438033563 - Holdem no limit (20/40) - 2015/07/27 21:46:03 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1845)
+Seat 2: gadget30 (705)
+Seat 3: Louisdu13110 (2970)
+Seat 6: playnow86 (3480)
+*** ANTE/BLINDS ***
+gadget30 posts small blind 20
+Louisdu13110 posts big blind 40
+Dealt to sabre_laser [Jh 9h]
+*** PRE-FLOP *** 
+playnow86 calls 40
+sabre_laser folds
+gadget30 raises 40 to 80
+Louisdu13110 folds
+playnow86 calls 40
+*** FLOP *** [3s 7h 3d]
+gadget30 bets 40
+playnow86 raises 140 to 180
+gadget30 folds
+playnow86 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [3s 7h 3d]
+Seat 6: playnow86 won 420
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 3 - HandId: #540723596448759809-10-1438033599 - Holdem no limit (30/60) - 2015/07/27 21:46:39 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1845)
+Seat 2: gadget30 (585)
+Seat 3: Louisdu13110 (2930)
+Seat 6: playnow86 (3640)
+*** ANTE/BLINDS ***
+Louisdu13110 posts small blind 30
+playnow86 posts big blind 60
+Dealt to sabre_laser [9c Ah]
+*** PRE-FLOP *** 
+sabre_laser raises 90 to 150
+gadget30 folds
+Louisdu13110 folds
+playnow86 calls 90
+*** FLOP *** [9s 5h Qh]
+playnow86 checks
+sabre_laser bets 165
+playnow86 calls 165
+*** TURN *** [9s 5h Qh][2h]
+playnow86 checks
+sabre_laser checks
+*** RIVER *** [9s 5h Qh 2h][3c]
+playnow86 checks
+sabre_laser checks
+*** SHOW DOWN ***
+playnow86 shows [6h 6d] (One pair : 6)
+sabre_laser shows [9c Ah] (One pair : 9)
+sabre_laser collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [9s 5h Qh 2h 3c]
+Seat 1: sabre_laser showed [9c Ah] and won 660 with One pair : 9
+Seat 6: playnow86 (big blind) showed [6h 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 3 - HandId: #540723596448759809-11-1438033661 - Holdem no limit (30/60) - 2015/07/27 21:47:41 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2190)
+Seat 2: gadget30 (585)
+Seat 3: Louisdu13110 (2900)
+Seat 6: playnow86 (3325)
+*** ANTE/BLINDS ***
+playnow86 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [7c Qh]
+*** PRE-FLOP *** 
+gadget30 folds
+Louisdu13110 calls 60
+playnow86 calls 30
+sabre_laser checks
+*** FLOP *** [5h 3d 2s]
+playnow86 checks
+sabre_laser checks
+Louisdu13110 checks
+*** TURN *** [5h 3d 2s][7d]
+playnow86 checks
+sabre_laser bets 90
+Louisdu13110 calls 90
+playnow86 folds
+*** RIVER *** [5h 3d 2s 7d][2c]
+sabre_laser checks
+Louisdu13110 checks
+*** SHOW DOWN ***
+Louisdu13110 shows [4h Kc] (One pair : 2)
+sabre_laser shows [7c Qh] (Two pairs : 7 and 2)
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [5h 3d 2s 7d 2c]
+Seat 1: sabre_laser (big blind) showed [7c Qh] and won 360 with Two pairs : 7 and 2
+Seat 3: Louisdu13110 (button) showed [4h Kc] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 4 - HandId: #540723596448759809-12-1438033761 - Holdem no limit (40/80) - 2015/07/27 21:49:21 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2400)
+Seat 2: gadget30 (585)
+Seat 3: Louisdu13110 (2750)
+Seat 6: playnow86 (3265)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+gadget30 posts big blind 80
+Dealt to sabre_laser [Kc 9c]
+*** PRE-FLOP *** 
+Louisdu13110 folds
+playnow86 calls 80
+sabre_laser calls 40
+gadget30 checks
+*** FLOP *** [2d 6d 4c]
+sabre_laser checks
+gadget30 checks
+playnow86 bets 120
+sabre_laser folds
+gadget30 raises 385 to 505 and is all-in
+playnow86 calls 385
+*** TURN *** [2d 6d 4c][Tc]
+*** RIVER *** [2d 6d 4c Tc][3s]
+*** SHOW DOWN ***
+playnow86 shows [Qs 2s] (One pair : 2)
+gadget30 shows [3h 5c] (Straight 6 high)
+gadget30 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [2d 6d 4c Tc 3s]
+Seat 2: gadget30 (big blind) showed [3h 5c] and won 1250 with Straight 6 high
+Seat 6: playnow86 (button) showed [Qs 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 4 - HandId: #540723596448759809-13-1438033827 - Holdem no limit (40/80) - 2015/07/27 21:50:27 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2320)
+Seat 2: gadget30 (1250)
+Seat 3: Louisdu13110 (2750)
+Seat 6: playnow86 (2680)
+*** ANTE/BLINDS ***
+gadget30 posts small blind 40
+Louisdu13110 posts big blind 80
+Dealt to sabre_laser [4h 3h]
+*** PRE-FLOP *** 
+playnow86 raises 200 to 280
+sabre_laser folds
+gadget30 folds
+Louisdu13110 calls 200
+*** FLOP *** [9s 8c 6s]
+Louisdu13110 bets 600
+playnow86 folds
+Louisdu13110 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [9s 8c 6s]
+Seat 3: Louisdu13110 (big blind) won 1200
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 4 - HandId: #540723596448759809-14-1438033850 - Holdem no limit (40/80) - 2015/07/27 21:50:50 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2320)
+Seat 2: gadget30 (1210)
+Seat 3: Louisdu13110 (3070)
+Seat 6: playnow86 (2400)
+*** ANTE/BLINDS ***
+Louisdu13110 posts small blind 40
+playnow86 posts big blind 80
+Dealt to sabre_laser [8d As]
+*** PRE-FLOP *** 
+sabre_laser raises 120 to 200
+gadget30 calls 200
+Louisdu13110 folds
+playnow86 raises 2200 to 2400 and is all-in
+sabre_laser calls 2120 and is all-in
+gadget30 calls 1010 and is all-in
+*** FLOP *** [Kd 9s 8c]
+*** TURN *** [Kd 9s 8c][Td]
+*** RIVER *** [Kd 9s 8c Td][Kh]
+*** SHOW DOWN ***
+gadget30 shows [2c 2d] (Two pairs : Kings and 2)
+sabre_laser shows [8d As] (Two pairs : Kings and 8)
+playnow86 shows [6h 3c] (One pair : Kings)
+playnow86 collected 80 from side pot 1
+sabre_laser collected 5890 from main pot
+*** SUMMARY ***
+Total pot 5970 | No rake
+Board: [Kd 9s 8c Td Kh]
+Seat 1: sabre_laser showed [8d As] and won 5890 with Two pairs : Kings and 8
+Seat 2: gadget30 (button) showed [2c 2d] and lost with Two pairs : Kings and 2
+Seat 6: playnow86 (big blind) showed [6h 3c] and won 80 with One pair : Kings
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 4 - HandId: #540723596448759809-15-1438033886 - Holdem no limit (40/80) - 2015/07/27 21:51:26 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (5890)
+Seat 3: Louisdu13110 (3030)
+Seat 6: playnow86 (80)
+*** ANTE/BLINDS ***
+playnow86 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Tc Js]
+*** PRE-FLOP *** 
+Louisdu13110 raises 200 to 280
+playnow86 calls 40 and is all-in
+sabre_laser folds
+*** FLOP *** [7h Kd 3c]
+*** TURN *** [7h Kd 3c][8d]
+*** RIVER *** [7h Kd 3c 8d][Jd]
+*** SHOW DOWN ***
+playnow86 shows [4c 8h] (One pair : 8)
+Louisdu13110 shows [Ad 5c] (High card : Ace)
+Louisdu13110 collected 200 from side pot 1
+playnow86 collected 240 from main pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [7h Kd 3c 8d Jd]
+Seat 3: Louisdu13110 (button) showed [Ad 5c] and won 200 with High card : Ace
+Seat 6: playnow86 (small blind) showed [4c 8h] and won 240 with One pair : 8
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 4 - HandId: #540723596448759809-16-1438033901 - Holdem no limit (40/80) - 2015/07/27 21:51:41 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (5810)
+Seat 3: Louisdu13110 (2950)
+Seat 6: playnow86 (240)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Louisdu13110 posts big blind 80
+Dealt to sabre_laser [5h Ts]
+*** PRE-FLOP *** 
+playnow86 raises 160 to 240 and is all-in
+sabre_laser folds
+Louisdu13110 calls 160
+*** FLOP *** [6c Kd Ah]
+*** TURN *** [6c Kd Ah][9c]
+*** RIVER *** [6c Kd Ah 9c][3d]
+*** SHOW DOWN ***
+playnow86 shows [7d 4c] (High card : Ace)
+Louisdu13110 shows [9h 4h] (One pair : 9)
+Louisdu13110 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [6c Kd Ah 9c 3d]
+Seat 3: Louisdu13110 (big blind) showed [9h 4h] and won 520 with One pair : 9
+Seat 6: playnow86 (button) showed [7d 4c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: Ticket only level: 4 - HandId: #540723596448759809-17-1438033930 - Holdem no limit (40/80) - 2015/07/27 21:52:10 UTC
+Table: 'Super Freeroll Stade 1(125897023)#0' 6-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (5770)
+Seat 3: Louisdu13110 (3230)
+*** ANTE/BLINDS ***
+Louisdu13110 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Th 6s]
+*** PRE-FLOP *** 
+Louisdu13110 raises 80 to 160
+sabre_laser calls 80
+*** FLOP *** [3d Tc Ac]
+sabre_laser bets 80
+Louisdu13110 calls 80
+*** TURN *** [3d Tc Ac][4d]
+sabre_laser bets 80
+Louisdu13110 raises 2910 to 2990 and is all-in
+sabre_laser calls 2910
+*** RIVER *** [3d Tc Ac 4d][6c]
+*** SHOW DOWN ***
+Louisdu13110 shows [Kh Ts] (One pair : Tens)
+sabre_laser shows [Th 6s] (Two pairs : Tens and 6)
+sabre_laser collected 6460 from pot
+*** SUMMARY ***
+Total pot 6460 | No rake
+Board: [3d Tc Ac 4d 6c]
+Seat 1: sabre_laser (big blind) showed [Th 6s] and won 6460 with Two pairs : Tens and 6
+Seat 3: Louisdu13110 (small blind) (button) showed [Kh Ts] and lost with One pair : Tens
+
+

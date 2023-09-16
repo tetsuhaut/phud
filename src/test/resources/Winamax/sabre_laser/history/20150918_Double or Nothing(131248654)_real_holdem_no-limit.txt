@@ -1,0 +1,1565 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563708676574019585-1-1442603962 - Holdem no limit (10/20) - 2015/09/18 19:19:22 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Ieviathan (1500)
+Seat 3: lflflflflflf (1500)
+Seat 4: FataIBazooka (1500)
+Seat 5: SpewItRight (1500)
+Seat 6: karinoah (1500)
+Seat 7: papybar 50 (1500)
+Seat 8: guem6969 (1500)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Ieviathan posts big blind 20
+Dealt to sabre_laser [8h As]
+*** PRE-FLOP *** 
+lflflflflflf folds
+FataIBazooka calls 20
+SpewItRight folds
+karinoah folds
+papybar 50 calls 20
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser calls 10
+Ieviathan checks
+*** FLOP *** [Ks Js Kd]
+sabre_laser checks
+Ieviathan checks
+FataIBazooka checks
+papybar 50 checks
+*** TURN *** [Ks Js Kd][Ah]
+sabre_laser bets 60
+Ieviathan folds
+FataIBazooka calls 60
+papybar 50 folds
+*** RIVER *** [Ks Js Kd Ah][Jc]
+sabre_laser checks
+FataIBazooka bets 200
+sabre_laser calls 200
+*** SHOW DOWN ***
+sabre_laser shows [8h As] (Two pairs : Aces and Kings)
+FataIBazooka shows [Jd Jh] (Quads of Jacks)
+FataIBazooka collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ks Js Kd Ah Jc]
+Seat 1: sabre_laser (small blind) showed [8h As] and lost with Two pairs : Aces and Kings
+Seat 4: FataIBazooka showed [Jd Jh] and won 600 with Quads of Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563708676574019585-2-1442604100 - Holdem no limit (10/20) - 2015/09/18 19:21:40 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1480)
+Seat 3: lflflflflflf (1500)
+Seat 4: FataIBazooka (1820)
+Seat 5: SpewItRight (1500)
+Seat 6: karinoah (1500)
+Seat 7: papybar 50 (1480)
+Seat 8: guem6969 (1500)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+Ieviathan posts small blind 10
+lflflflflflf posts big blind 20
+Dealt to sabre_laser [3s Th]
+*** PRE-FLOP *** 
+FataIBazooka folds
+SpewItRight folds
+karinoah raises 1480 to 1500 and is all-in
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+karinoah collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 6: karinoah won 1530
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563708676574019585-3-1442604135 - Holdem no limit (10/20) - 2015/09/18 19:22:15 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1470)
+Seat 3: lflflflflflf (1480)
+Seat 4: FataIBazooka (1820)
+Seat 5: SpewItRight (1500)
+Seat 6: karinoah (1530)
+Seat 7: papybar 50 (1480)
+Seat 8: guem6969 (1500)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+lflflflflflf posts small blind 10
+FataIBazooka posts big blind 20
+Dealt to sabre_laser [Qs Td]
+*** PRE-FLOP *** 
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 raises 20 to 40
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+guem6969 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 8: guem6969 won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563708676574019585-4-1442604191 - Holdem no limit (15/30) - 2015/09/18 19:23:11 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1470)
+Seat 3: lflflflflflf (1470)
+Seat 4: FataIBazooka (1800)
+Seat 5: SpewItRight (1500)
+Seat 6: karinoah (1530)
+Seat 7: papybar 50 (1480)
+Seat 8: guem6969 (1530)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 15
+SpewItRight posts big blind 30
+Dealt to sabre_laser [9s 2c]
+*** PRE-FLOP *** 
+karinoah folds
+papybar 50 folds
+guem6969 raises 30 to 60
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+guem6969 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 8: guem6969 won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563708676574019585-5-1442604229 - Holdem no limit (15/30) - 2015/09/18 19:23:49 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1470)
+Seat 3: lflflflflflf (1470)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1470)
+Seat 6: karinoah (1530)
+Seat 7: papybar 50 (1480)
+Seat 8: guem6969 (1575)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 15
+karinoah posts big blind 30
+Dealt to sabre_laser [Td Qd]
+*** PRE-FLOP *** 
+papybar 50 folds
+guem6969 raises 30 to 60
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf calls 60
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+*** FLOP *** [Kd 3d 7h]
+guem6969 checks
+lflflflflflf checks
+*** TURN *** [Kd 3d 7h][3s]
+guem6969 bets 30
+lflflflflflf folds
+guem6969 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [Kd 3d 7h 3s]
+Seat 8: guem6969 won 195
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563708676574019585-6-1442604286 - Holdem no limit (15/30) - 2015/09/18 19:24:46 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1470)
+Seat 3: lflflflflflf (1410)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1500)
+Seat 7: papybar 50 (1480)
+Seat 8: guem6969 (1680)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+karinoah posts small blind 15
+papybar 50 posts big blind 30
+Dealt to sabre_laser [2s 3d]
+*** PRE-FLOP *** 
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 7: papybar 50 (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563708676574019585-7-1442604329 - Holdem no limit (20/40) - 2015/09/18 19:25:29 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1470)
+Seat 3: lflflflflflf (1410)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1495)
+Seat 8: guem6969 (1680)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+papybar 50 posts small blind 20
+guem6969 posts big blind 40
+Dealt to sabre_laser [9h 4h]
+*** PRE-FLOP *** 
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 8: guem6969 (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563708676574019585-8-1442604384 - Holdem no limit (20/40) - 2015/09/18 19:26:24 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1470)
+Seat 3: lflflflflflf (1410)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1475)
+Seat 8: guem6969 (1700)
+Seat 9: GDAIL33 (1500)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+guem6969 posts small blind 20
+GDAIL33 posts big blind 40
+Dealt to sabre_laser [4d 3d]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan calls 40
+lflflflflflf calls 40
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 raises 80 to 120
+GDAIL33 folds
+Ieviathan calls 80
+lflflflflflf calls 80
+*** FLOP *** [Qh 2s Kh]
+guem6969 checks
+Ieviathan checks
+lflflflflflf checks
+*** TURN *** [Qh 2s Kh][5c]
+guem6969 bets 200
+Ieviathan folds
+lflflflflflf calls 200
+*** RIVER *** [Qh 2s Kh 5c][3h]
+guem6969 checks
+lflflflflflf checks
+*** SHOW DOWN ***
+guem6969 shows [Ac 9s] (High card : Ace)
+lflflflflflf shows [Ts Ah] (High card : Ace)
+lflflflflflf collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Qh 2s Kh 5c 3h]
+Seat 3: lflflflflflf showed [Ts Ah] and won 800 with High card : Ace
+Seat 8: guem6969 (small blind) showed [Ac 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563708676574019585-9-1442604472 - Holdem no limit (20/40) - 2015/09/18 19:27:52 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1350)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1475)
+Seat 8: guem6969 (1380)
+Seat 9: GDAIL33 (1460)
+Seat 10: IQTYQ3 (1500)
+*** ANTE/BLINDS ***
+GDAIL33 posts small blind 20
+IQTYQ3 posts big blind 40
+Dealt to sabre_laser [2d 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 10: IQTYQ3 (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563708676574019585-10-1442604520 - Holdem no limit (30/60) - 2015/09/18 19:28:40 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1350)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1475)
+Seat 8: guem6969 (1380)
+Seat 9: GDAIL33 (1440)
+Seat 10: IQTYQ3 (1520)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [5s 8c]
+*** PRE-FLOP *** 
+Ieviathan folds
+lflflflflflf raises 120 to 180
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+lflflflflflf collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: lflflflflflf won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563708676574019585-11-1442604545 - Holdem no limit (30/60) - 2015/09/18 19:29:05 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1160)
+Seat 2: Ieviathan (1350)
+Seat 3: lflflflflflf (1980)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1475)
+Seat 8: guem6969 (1380)
+Seat 9: GDAIL33 (1440)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Ieviathan posts big blind 60
+Dealt to sabre_laser [Jc 5s]
+*** PRE-FLOP *** 
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 raises 60 to 120
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+papybar 50 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 7: papybar 50 won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563708676574019585-12-1442604579 - Holdem no limit (30/60) - 2015/09/18 19:29:39 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1130)
+Seat 2: Ieviathan (1290)
+Seat 3: lflflflflflf (1980)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1565)
+Seat 8: guem6969 (1380)
+Seat 9: GDAIL33 (1440)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+Ieviathan posts small blind 30
+lflflflflflf posts big blind 60
+Dealt to sabre_laser [Jh 5h]
+*** PRE-FLOP *** 
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 raises 90 to 150
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+GDAIL33 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: GDAIL33 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563708676574019585-13-1442604620 - Holdem no limit (30/60) - 2015/09/18 19:30:20 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1130)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1920)
+Seat 4: FataIBazooka (1785)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1565)
+Seat 8: guem6969 (1380)
+Seat 9: GDAIL33 (1530)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+lflflflflflf posts small blind 30
+FataIBazooka posts big blind 60
+Dealt to sabre_laser [Qs Ks]
+*** PRE-FLOP *** 
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser raises 120 to 180
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: sabre_laser won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563708676574019585-14-1442604668 - Holdem no limit (30/60) - 2015/09/18 19:31:08 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1725)
+Seat 5: SpewItRight (1455)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1565)
+Seat 8: guem6969 (1380)
+Seat 9: GDAIL33 (1530)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 30
+SpewItRight posts big blind 60
+Dealt to sabre_laser [7s Th]
+*** PRE-FLOP *** 
+karinoah folds
+papybar 50 folds
+guem6969 raises 60 to 120
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+guem6969 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 8: guem6969 won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563708676574019585-15-1442604713 - Holdem no limit (40/80) - 2015/09/18 19:31:53 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1395)
+Seat 6: karinoah (1485)
+Seat 7: papybar 50 (1565)
+Seat 8: guem6969 (1470)
+Seat 9: GDAIL33 (1530)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 40
+karinoah posts big blind 80
+Dealt to sabre_laser [5s Ks]
+*** PRE-FLOP *** 
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: karinoah (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563708676574019585-16-1442604746 - Holdem no limit (40/80) - 2015/09/18 19:32:26 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1525)
+Seat 7: papybar 50 (1565)
+Seat 8: guem6969 (1470)
+Seat 9: GDAIL33 (1530)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+karinoah posts small blind 40
+papybar 50 posts big blind 80
+Dealt to sabre_laser [Qc 8c]
+*** PRE-FLOP *** 
+guem6969 calls 80
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah calls 40
+papybar 50 checks
+*** FLOP *** [6s Kh 2s]
+karinoah checks
+papybar 50 checks
+guem6969 checks
+*** TURN *** [6s Kh 2s][6d]
+karinoah checks
+papybar 50 checks
+guem6969 checks
+*** RIVER *** [6s Kh 2s 6d][4s]
+karinoah checks
+papybar 50 checks
+guem6969 bets 240
+karinoah folds
+papybar 50 folds
+guem6969 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6s Kh 2s 6d 4s]
+Seat 8: guem6969 won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563708676574019585-17-1442604837 - Holdem no limit (40/80) - 2015/09/18 19:33:57 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1445)
+Seat 7: papybar 50 (1485)
+Seat 8: guem6969 (1630)
+Seat 9: GDAIL33 (1530)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+papybar 50 posts small blind 40
+guem6969 posts big blind 80
+Dealt to sabre_laser [Ts 6h]
+*** PRE-FLOP *** 
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 calls 40
+guem6969 checks
+*** FLOP *** [3d 8d 6s]
+papybar 50 checks
+guem6969 checks
+*** TURN *** [3d 8d 6s][4s]
+papybar 50 checks
+guem6969 checks
+*** RIVER *** [3d 8d 6s 4s][7d]
+papybar 50 checks
+guem6969 checks
+*** SHOW DOWN ***
+papybar 50 shows [2d As] (High card : Ace)
+guem6969 shows [2c 4d] (One pair : 4)
+guem6969 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [3d 8d 6s 4s 7d]
+Seat 7: papybar 50 (small blind) showed [2d As] and lost with High card : Ace
+Seat 8: guem6969 (big blind) showed [2c 4d] and won 160 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563708676574019585-18-1442604933 - Holdem no limit (60/120) - 2015/09/18 19:35:33 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1445)
+Seat 7: papybar 50 (1405)
+Seat 8: guem6969 (1710)
+Seat 9: GDAIL33 (1530)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+guem6969 posts small blind 60
+GDAIL33 posts big blind 120
+Dealt to sabre_laser [Tc 7s]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 calls 120
+guem6969 folds
+GDAIL33 checks
+*** FLOP *** [9h 2d 4h]
+GDAIL33 checks
+papybar 50 checks
+*** TURN *** [9h 2d 4h][7h]
+GDAIL33 checks
+papybar 50 checks
+*** RIVER *** [9h 2d 4h 7h][Qd]
+GDAIL33 checks
+papybar 50 bets 120
+GDAIL33 folds
+papybar 50 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9h 2d 4h 7h Qd]
+Seat 7: papybar 50 (button) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563708676574019585-19-1442604981 - Holdem no limit (60/120) - 2015/09/18 19:36:21 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1445)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1650)
+Seat 9: GDAIL33 (1410)
+Seat 10: IQTYQ3 (1490)
+*** ANTE/BLINDS ***
+GDAIL33 posts small blind 60
+IQTYQ3 posts big blind 120
+Dealt to sabre_laser [Ks Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah raises 1325 to 1445 and is all-in
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+karinoah collected 1625 from pot
+*** SUMMARY ***
+Total pot 1625 | No rake
+Seat 6: karinoah won 1625
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563708676574019585-20-1442605013 - Holdem no limit (60/120) - 2015/09/18 19:36:53 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1220)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1625)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1650)
+Seat 9: GDAIL33 (1350)
+Seat 10: IQTYQ3 (1370)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Qd 9s]
+*** PRE-FLOP *** 
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563708676574019585-21-1442605043 - Holdem no limit (80/160) - 2015/09/18 19:37:23 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1280)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1625)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1650)
+Seat 9: GDAIL33 (1350)
+Seat 10: IQTYQ3 (1310)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Ieviathan posts big blind 160
+Dealt to sabre_laser [Js 7c]
+*** PRE-FLOP *** 
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 raises 1190 to 1350 and is all-in
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+GDAIL33 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Seat 9: GDAIL33 won 1590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563708676574019585-22-1442605083 - Holdem no limit (80/160) - 2015/09/18 19:38:03 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1200)
+Seat 2: Ieviathan (1100)
+Seat 3: lflflflflflf (1890)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1625)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1650)
+Seat 9: GDAIL33 (1590)
+Seat 10: IQTYQ3 (1310)
+*** ANTE/BLINDS ***
+Ieviathan posts small blind 80
+lflflflflflf posts big blind 160
+Dealt to sabre_laser [3d Kc]
+*** PRE-FLOP *** 
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan raises 940 to 1100 and is all-in
+lflflflflflf folds
+Ieviathan collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 2: Ieviathan (small blind) won 1260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563708676574019585-23-1442605132 - Holdem no limit (80/160) - 2015/09/18 19:38:52 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1200)
+Seat 2: Ieviathan (1260)
+Seat 3: lflflflflflf (1730)
+Seat 4: FataIBazooka (1695)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1625)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1650)
+Seat 9: GDAIL33 (1590)
+Seat 10: IQTYQ3 (1310)
+*** ANTE/BLINDS ***
+lflflflflflf posts small blind 80
+FataIBazooka posts big blind 160
+Dealt to sabre_laser [Qd Tc]
+*** PRE-FLOP *** 
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan raises 1100 to 1260 and is all-in
+lflflflflflf folds
+FataIBazooka folds
+Ieviathan collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 2: Ieviathan (button) won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563708676574019585-24-1442605168 - Holdem no limit (80/160) - 2015/09/18 19:39:28 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1200)
+Seat 2: Ieviathan (1500)
+Seat 3: lflflflflflf (1650)
+Seat 4: FataIBazooka (1535)
+Seat 5: SpewItRight (1355)
+Seat 6: karinoah (1625)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1650)
+Seat 9: GDAIL33 (1590)
+Seat 10: IQTYQ3 (1310)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 80
+SpewItRight posts big blind 160
+Dealt to sabre_laser [8h Ac]
+*** PRE-FLOP *** 
+karinoah folds
+papybar 50 folds
+guem6969 calls 160
+GDAIL33 raises 400 to 560
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+guem6969 folds
+GDAIL33 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 9: GDAIL33 won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563708676574019585-25-1442605209 - Holdem no limit (80/160) - 2015/09/18 19:40:09 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1200)
+Seat 2: Ieviathan (1500)
+Seat 3: lflflflflflf (1650)
+Seat 4: FataIBazooka (1455)
+Seat 5: SpewItRight (1195)
+Seat 6: karinoah (1625)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1490)
+Seat 9: GDAIL33 (1990)
+Seat 10: IQTYQ3 (1310)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 80
+karinoah posts big blind 160
+Dealt to sabre_laser [8s 2c]
+*** PRE-FLOP *** 
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: karinoah (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563708676574019585-26-1442605263 - Holdem no limit (10/100/200) - 2015/09/18 19:41:03 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1200)
+Seat 2: Ieviathan (1500)
+Seat 3: lflflflflflf (1650)
+Seat 4: FataIBazooka (1455)
+Seat 5: SpewItRight (1115)
+Seat 6: karinoah (1705)
+Seat 7: papybar 50 (1585)
+Seat 8: guem6969 (1490)
+Seat 9: GDAIL33 (1990)
+Seat 10: IQTYQ3 (1310)
+*** ANTE/BLINDS ***
+karinoah posts ante 10
+papybar 50 posts ante 10
+sabre_laser posts ante 10
+Ieviathan posts ante 10
+lflflflflflf posts ante 10
+FataIBazooka posts ante 10
+SpewItRight posts ante 10
+guem6969 posts ante 10
+GDAIL33 posts ante 10
+IQTYQ3 posts ante 10
+karinoah posts small blind 100
+papybar 50 posts big blind 200
+Dealt to sabre_laser [6d 9h]
+*** PRE-FLOP *** 
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah calls 100
+papybar 50 checks
+*** FLOP *** [8h 2h As]
+karinoah bets 1495 and is all-in
+papybar 50 folds
+karinoah collected 1995 from pot
+*** SUMMARY ***
+Total pot 1995 | No rake
+Board: [8h 2h As]
+Seat 6: karinoah (small blind) won 1995
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563708676574019585-27-1442605306 - Holdem no limit (10/100/200) - 2015/09/18 19:41:46 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1190)
+Seat 2: Ieviathan (1490)
+Seat 3: lflflflflflf (1640)
+Seat 4: FataIBazooka (1445)
+Seat 5: SpewItRight (1105)
+Seat 6: karinoah (1995)
+Seat 7: papybar 50 (1375)
+Seat 8: guem6969 (1480)
+Seat 9: GDAIL33 (1980)
+Seat 10: IQTYQ3 (1300)
+*** ANTE/BLINDS ***
+papybar 50 posts ante 10
+guem6969 posts ante 10
+sabre_laser posts ante 10
+Ieviathan posts ante 10
+lflflflflflf posts ante 10
+FataIBazooka posts ante 10
+SpewItRight posts ante 10
+karinoah posts ante 10
+GDAIL33 posts ante 10
+IQTYQ3 posts ante 10
+papybar 50 posts small blind 100
+guem6969 posts big blind 200
+Dealt to sabre_laser [Kh 3h]
+*** PRE-FLOP *** 
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf raises 200 to 400
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+lflflflflflf collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 3: lflflflflflf won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563708676574019585-28-1442605357 - Holdem no limit (10/100/200) - 2015/09/18 19:42:37 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1180)
+Seat 2: Ieviathan (1480)
+Seat 3: lflflflflflf (2030)
+Seat 4: FataIBazooka (1435)
+Seat 5: SpewItRight (1095)
+Seat 6: karinoah (1985)
+Seat 7: papybar 50 (1265)
+Seat 8: guem6969 (1270)
+Seat 9: GDAIL33 (1970)
+Seat 10: IQTYQ3 (1290)
+*** ANTE/BLINDS ***
+guem6969 posts ante 10
+GDAIL33 posts ante 10
+sabre_laser posts ante 10
+Ieviathan posts ante 10
+lflflflflflf posts ante 10
+FataIBazooka posts ante 10
+SpewItRight posts ante 10
+karinoah posts ante 10
+papybar 50 posts ante 10
+IQTYQ3 posts ante 10
+guem6969 posts small blind 100
+GDAIL33 posts big blind 200
+Dealt to sabre_laser [4s 7c]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight raises 885 to 1085 and is all-in
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+SpewItRight collected 1485 from pot
+*** SUMMARY ***
+Total pot 1485 | No rake
+Seat 5: SpewItRight won 1485
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563708676574019585-29-1442605406 - Holdem no limit (20/150/300) - 2015/09/18 19:43:26 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1170)
+Seat 2: Ieviathan (1470)
+Seat 3: lflflflflflf (2020)
+Seat 4: FataIBazooka (1425)
+Seat 5: SpewItRight (1485)
+Seat 6: karinoah (1975)
+Seat 7: papybar 50 (1255)
+Seat 8: guem6969 (1160)
+Seat 9: GDAIL33 (1760)
+Seat 10: IQTYQ3 (1280)
+*** ANTE/BLINDS ***
+GDAIL33 posts ante 20
+IQTYQ3 posts ante 20
+sabre_laser posts ante 20
+Ieviathan posts ante 20
+lflflflflflf posts ante 20
+FataIBazooka posts ante 20
+SpewItRight posts ante 20
+karinoah posts ante 20
+papybar 50 posts ante 20
+guem6969 posts ante 20
+GDAIL33 posts small blind 150
+IQTYQ3 posts big blind 300
+Dealt to sabre_laser [Ah 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Ieviathan raises 1150 to 1450 and is all-in
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 folds
+GDAIL33 folds
+IQTYQ3 folds
+Ieviathan collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 2: Ieviathan won 2100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563708676574019585-30-1442605461 - Holdem no limit (20/150/300) - 2015/09/18 19:44:21 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1150)
+Seat 2: Ieviathan (2100)
+Seat 3: lflflflflflf (2000)
+Seat 4: FataIBazooka (1405)
+Seat 5: SpewItRight (1465)
+Seat 6: karinoah (1955)
+Seat 7: papybar 50 (1235)
+Seat 8: guem6969 (1140)
+Seat 9: GDAIL33 (1590)
+Seat 10: IQTYQ3 (960)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 20
+sabre_laser posts ante 20
+Ieviathan posts ante 20
+lflflflflflf posts ante 20
+FataIBazooka posts ante 20
+SpewItRight posts ante 20
+karinoah posts ante 20
+papybar 50 posts ante 20
+guem6969 posts ante 20
+GDAIL33 posts ante 20
+IQTYQ3 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9d 9s]
+*** PRE-FLOP *** 
+Ieviathan folds
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+guem6969 raises 820 to 1120 and is all-in
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser calls 820
+*** FLOP *** [2d Td Qs]
+*** TURN *** [2d Td Qs][6s]
+*** RIVER *** [2d Td Qs 6s][Jc]
+*** SHOW DOWN ***
+guem6969 shows [4s As] (High card : Ace)
+sabre_laser shows [9d 9s] (One pair : 9)
+sabre_laser collected 2590 from pot
+*** SUMMARY ***
+Total pot 2590 | No rake
+Board: [2d Td Qs 6s Jc]
+Seat 1: sabre_laser (big blind) showed [9d 9s] and won 2590 with One pair : 9
+Seat 8: guem6969 showed [4s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563708676574019585-31-1442605515 - Holdem no limit (20/150/300) - 2015/09/18 19:45:15 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2600)
+Seat 2: Ieviathan (2080)
+Seat 3: lflflflflflf (1980)
+Seat 4: FataIBazooka (1385)
+Seat 5: SpewItRight (1445)
+Seat 6: karinoah (1935)
+Seat 7: papybar 50 (1215)
+Seat 9: GDAIL33 (1570)
+Seat 10: IQTYQ3 (790)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Ieviathan posts ante 20
+lflflflflflf posts ante 20
+FataIBazooka posts ante 20
+SpewItRight posts ante 20
+karinoah posts ante 20
+papybar 50 posts ante 20
+GDAIL33 posts ante 20
+IQTYQ3 posts ante 20
+sabre_laser posts small blind 150
+Ieviathan posts big blind 300
+Dealt to sabre_laser [Ad 7d]
+*** PRE-FLOP *** 
+lflflflflflf folds
+FataIBazooka folds
+SpewItRight folds
+karinoah folds
+papybar 50 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser raises 300 to 600
+Ieviathan folds
+sabre_laser collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Seat 1: sabre_laser (small blind) won 1080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563708676574019585-32-1442605559 - Holdem no limit (20/150/300) - 2015/09/18 19:45:59 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3060)
+Seat 2: Ieviathan (1760)
+Seat 3: lflflflflflf (1960)
+Seat 4: FataIBazooka (1365)
+Seat 5: SpewItRight (1425)
+Seat 6: karinoah (1915)
+Seat 7: papybar 50 (1195)
+Seat 9: GDAIL33 (1550)
+Seat 10: IQTYQ3 (770)
+*** ANTE/BLINDS ***
+Ieviathan posts ante 20
+lflflflflflf posts ante 20
+sabre_laser posts ante 20
+FataIBazooka posts ante 20
+SpewItRight posts ante 20
+karinoah posts ante 20
+papybar 50 posts ante 20
+GDAIL33 posts ante 20
+IQTYQ3 posts ante 20
+Ieviathan posts small blind 150
+lflflflflflf posts big blind 300
+Dealt to sabre_laser [Qc 4s]
+*** PRE-FLOP *** 
+FataIBazooka folds
+SpewItRight raises 1105 to 1405 and is all-in
+karinoah folds
+papybar 50 calls 1175 and is all-in
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+*** FLOP *** [2s Qs Ts]
+*** TURN *** [2s Qs Ts][7d]
+*** RIVER *** [2s Qs Ts 7d][5d]
+*** SHOW DOWN ***
+papybar 50 shows [Th Ad] (One pair : Tens)
+SpewItRight shows [As 9d] (High card : Ace)
+SpewItRight collected 230 from side pot 1
+papybar 50 collected 2980 from main pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Board: [2s Qs Ts 7d 5d]
+Seat 5: SpewItRight showed [As 9d] and won 230 with High card : Ace
+Seat 7: papybar 50 showed [Th Ad] and won 2980 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563708676574019585-33-1442605614 - Holdem no limit (50/200/400) - 2015/09/18 19:46:54 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (3040)
+Seat 2: Ieviathan (1590)
+Seat 3: lflflflflflf (1640)
+Seat 4: FataIBazooka (1345)
+Seat 5: SpewItRight (230)
+Seat 6: karinoah (1895)
+Seat 7: papybar 50 (2980)
+Seat 9: GDAIL33 (1530)
+Seat 10: IQTYQ3 (750)
+*** ANTE/BLINDS ***
+lflflflflflf posts ante 50
+FataIBazooka posts ante 50
+sabre_laser posts ante 50
+Ieviathan posts ante 50
+SpewItRight posts ante 50
+karinoah posts ante 50
+papybar 50 posts ante 50
+GDAIL33 posts ante 50
+IQTYQ3 posts ante 50
+lflflflflflf posts small blind 200
+FataIBazooka posts big blind 400
+Dealt to sabre_laser [6s 9s]
+*** PRE-FLOP *** 
+SpewItRight calls 180 and is all-in
+karinoah folds
+papybar 50 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan raises 1140 to 1540 and is all-in
+lflflflflflf folds
+FataIBazooka calls 895 and is all-in
+*** FLOP *** [5d 6h 2d]
+*** TURN *** [5d 6h 2d][Tc]
+*** RIVER *** [5d 6h 2d Tc][Kh]
+*** SHOW DOWN ***
+FataIBazooka shows [Ad Ah] (One pair : Aces)
+SpewItRight shows [9c 7d] (High card : King)
+Ieviathan shows [Ks Td] (Two pairs : Kings and Tens)
+Ieviathan collected 3665 from pot
+*** SUMMARY ***
+Total pot 3665 | No rake
+Board: [5d 6h 2d Tc Kh]
+Seat 2: Ieviathan (button) showed [Ks Td] and won 3665 with Two pairs : Kings and Tens
+Seat 4: FataIBazooka (big blind) showed [Ad Ah] and lost with One pair : Aces
+Seat 5: SpewItRight showed [9c 7d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563708676574019585-34-1442605666 - Holdem no limit (50/200/400) - 2015/09/18 19:47:46 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2990)
+Seat 2: Ieviathan (3665)
+Seat 3: lflflflflflf (1390)
+Seat 6: karinoah (1845)
+Seat 7: papybar 50 (2930)
+Seat 9: GDAIL33 (1480)
+Seat 10: IQTYQ3 (700)
+*** ANTE/BLINDS ***
+karinoah posts ante 50
+sabre_laser posts ante 50
+Ieviathan posts ante 50
+lflflflflflf posts ante 50
+papybar 50 posts ante 50
+GDAIL33 posts ante 50
+IQTYQ3 posts ante 50
+karinoah posts big blind 400
+Dealt to sabre_laser [5s Ts]
+*** PRE-FLOP *** 
+papybar 50 folds
+GDAIL33 folds
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+karinoah collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 6: karinoah (big blind) won 750
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563708676574019585-35-1442605695 - Holdem no limit (50/200/400) - 2015/09/18 19:48:15 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2940)
+Seat 2: Ieviathan (3615)
+Seat 3: lflflflflflf (1340)
+Seat 6: karinoah (2145)
+Seat 7: papybar 50 (2880)
+Seat 9: GDAIL33 (1430)
+Seat 10: IQTYQ3 (650)
+*** ANTE/BLINDS ***
+karinoah posts ante 50
+papybar 50 posts ante 50
+sabre_laser posts ante 50
+Ieviathan posts ante 50
+lflflflflflf posts ante 50
+GDAIL33 posts ante 50
+IQTYQ3 posts ante 50
+karinoah posts small blind 200
+papybar 50 posts big blind 400
+Dealt to sabre_laser [Jd Ts]
+*** PRE-FLOP *** 
+GDAIL33 raises 980 to 1380 and is all-in
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+karinoah folds
+papybar 50 folds
+GDAIL33 collected 2330 from pot
+*** SUMMARY ***
+Total pot 2330 | No rake
+Seat 9: GDAIL33 won 2330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563708676574019585-36-1442605720 - Holdem no limit (50/200/400) - 2015/09/18 19:48:40 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2890)
+Seat 2: Ieviathan (3565)
+Seat 3: lflflflflflf (1290)
+Seat 6: karinoah (1895)
+Seat 7: papybar 50 (2430)
+Seat 9: GDAIL33 (2330)
+Seat 10: IQTYQ3 (600)
+*** ANTE/BLINDS ***
+papybar 50 posts ante 50
+GDAIL33 posts ante 50
+sabre_laser posts ante 50
+Ieviathan posts ante 50
+lflflflflflf posts ante 50
+karinoah posts ante 50
+IQTYQ3 posts ante 50
+papybar 50 posts small blind 200
+GDAIL33 posts big blind 400
+Dealt to sabre_laser [3h Kd]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+karinoah folds
+papybar 50 folds
+GDAIL33 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 9: GDAIL33 (big blind) won 950
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563708676574019585-37-1442605741 - Holdem no limit (50/200/400) - 2015/09/18 19:49:01 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2840)
+Seat 2: Ieviathan (3515)
+Seat 3: lflflflflflf (1240)
+Seat 6: karinoah (1845)
+Seat 7: papybar 50 (2180)
+Seat 9: GDAIL33 (2830)
+Seat 10: IQTYQ3 (550)
+*** ANTE/BLINDS ***
+GDAIL33 posts ante 50
+IQTYQ3 posts ante 50
+sabre_laser posts ante 50
+Ieviathan posts ante 50
+lflflflflflf posts ante 50
+karinoah posts ante 50
+papybar 50 posts ante 50
+GDAIL33 posts small blind 200
+IQTYQ3 posts big blind 400
+Dealt to sabre_laser [As Qh]
+*** PRE-FLOP *** 
+sabre_laser raises 400 to 800
+Ieviathan folds
+lflflflflflf folds
+karinoah folds
+papybar 50 folds
+GDAIL33 folds
+IQTYQ3 calls 100 and is all-in
+*** FLOP *** [8s 4c 5d]
+*** TURN *** [8s 4c 5d][9h]
+*** RIVER *** [8s 4c 5d 9h][6h]
+*** SHOW DOWN ***
+IQTYQ3 shows [7d 6s] (Straight 9 high)
+sabre_laser shows [As Qh] (High card : Ace)
+sabre_laser collected 300 from side pot 1
+IQTYQ3 collected 1550 from main pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [8s 4c 5d 9h 6h]
+Seat 1: sabre_laser showed [As Qh] and won 300 with High card : Ace
+Seat 10: IQTYQ3 (big blind) showed [7d 6s] and won 1550 with Straight 9 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563708676574019585-38-1442605771 - Holdem no limit (75/300/600) - 2015/09/18 19:49:31 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2290)
+Seat 2: Ieviathan (3465)
+Seat 3: lflflflflflf (1190)
+Seat 6: karinoah (1795)
+Seat 7: papybar 50 (2130)
+Seat 9: GDAIL33 (2580)
+Seat 10: IQTYQ3 (1550)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 75
+sabre_laser posts ante 75
+Ieviathan posts ante 75
+lflflflflflf posts ante 75
+karinoah posts ante 75
+papybar 50 posts ante 75
+GDAIL33 posts ante 75
+IQTYQ3 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [2c 7h]
+*** PRE-FLOP *** 
+Ieviathan folds
+lflflflflflf folds
+karinoah folds
+papybar 50 folds
+GDAIL33 folds
+IQTYQ3 raises 875 to 1475 and is all-in
+sabre_laser folds
+IQTYQ3 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Seat 10: IQTYQ3 (small blind) won 2600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563708676574019585-39-1442605788 - Holdem no limit (75/300/600) - 2015/09/18 19:49:48 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1615)
+Seat 2: Ieviathan (3390)
+Seat 3: lflflflflflf (1115)
+Seat 6: karinoah (1720)
+Seat 7: papybar 50 (2055)
+Seat 9: GDAIL33 (2505)
+Seat 10: IQTYQ3 (2600)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+Ieviathan posts ante 75
+lflflflflflf posts ante 75
+karinoah posts ante 75
+papybar 50 posts ante 75
+GDAIL33 posts ante 75
+IQTYQ3 posts ante 75
+sabre_laser posts small blind 300
+Ieviathan posts big blind 600
+Dealt to sabre_laser [As Kh]
+*** PRE-FLOP *** 
+lflflflflflf folds
+karinoah raises 1045 to 1645 and is all-in
+papybar 50 folds
+GDAIL33 folds
+IQTYQ3 raises 880 to 2525 and is all-in
+sabre_laser folds
+Ieviathan folds
+*** FLOP *** [5s 6d 3c]
+*** TURN *** [5s 6d 3c][6h]
+*** RIVER *** [5s 6d 3c 6h][9s]
+*** SHOW DOWN ***
+karinoah shows [Th Td] (Two pairs : Tens and 6)
+IQTYQ3 shows [Jc Jh] (Two pairs : Jacks and 6)
+IQTYQ3 collected 5595 from pot
+*** SUMMARY ***
+Total pot 5595 | No rake
+Board: [5s 6d 3c 6h 9s]
+Seat 6: karinoah showed [Th Td] and lost with Two pairs : Tens and 6
+Seat 10: IQTYQ3 (button) showed [Jc Jh] and won 5595 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563708676574019585-40-1442605821 - Holdem no limit (75/300/600) - 2015/09/18 19:50:21 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1240)
+Seat 2: Ieviathan (2715)
+Seat 3: lflflflflflf (1040)
+Seat 7: papybar 50 (1980)
+Seat 9: GDAIL33 (2430)
+Seat 10: IQTYQ3 (5595)
+*** ANTE/BLINDS ***
+Ieviathan posts ante 75
+lflflflflflf posts ante 75
+sabre_laser posts ante 75
+papybar 50 posts ante 75
+GDAIL33 posts ante 75
+IQTYQ3 posts ante 75
+Ieviathan posts small blind 300
+lflflflflflf posts big blind 600
+Dealt to sabre_laser [2s 3c]
+*** PRE-FLOP *** 
+papybar 50 folds
+GDAIL33 folds
+IQTYQ3 raises 648 to 1248
+sabre_laser folds
+Ieviathan folds
+lflflflflflf folds
+IQTYQ3 collected 2598 from pot
+*** SUMMARY ***
+Total pot 2598 | No rake
+Seat 10: IQTYQ3 won 2598
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #563708676574019585-41-1442605839 - Holdem no limit (75/300/600) - 2015/09/18 19:50:39 UTC
+Table: 'Double or Nothing(131248654)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1165)
+Seat 2: Ieviathan (2340)
+Seat 3: lflflflflflf (365)
+Seat 7: papybar 50 (1905)
+Seat 9: GDAIL33 (2355)
+Seat 10: IQTYQ3 (6870)
+*** ANTE/BLINDS ***
+lflflflflflf posts ante 75
+papybar 50 posts ante 75
+sabre_laser posts ante 75
+Ieviathan posts ante 75
+GDAIL33 posts ante 75
+IQTYQ3 posts ante 75
+lflflflflflf posts small blind 290 and is all-in
+papybar 50 posts big blind 600
+Dealt to sabre_laser [8h Qc]
+*** PRE-FLOP *** 
+GDAIL33 folds
+IQTYQ3 calls 600
+sabre_laser folds
+Ieviathan folds
+papybar 50 checks
+*** FLOP *** [2h 5c Ac]
+papybar 50 checks
+IQTYQ3 checks
+*** TURN *** [2h 5c Ac][Js]
+papybar 50 checks
+IQTYQ3 checks
+*** RIVER *** [2h 5c Ac Js][7s]
+papybar 50 checks
+IQTYQ3 checks
+*** SHOW DOWN ***
+lflflflflflf shows [5h Ks] (One pair : 5)
+IQTYQ3 shows [4s 4d] (One pair : 4)
+papybar 50 shows [Th Jh] (One pair : Jacks)
+papybar 50 collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | No rake
+Board: [2h 5c Ac Js 7s]
+Seat 3: lflflflflflf (small blind) showed [5h Ks] and lost with One pair : 5
+Seat 7: papybar 50 (big blind) showed [Th Jh] and won 1940 with One pair : Jacks
+Seat 10: IQTYQ3 showed [4s 4d] and lost with One pair : 4
+
+

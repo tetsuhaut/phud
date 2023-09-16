@@ -1,0 +1,1413 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #558587636743143673-1-1442949330 - Holdem no limit (10/20) - 2015/09/22 19:15:30 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #1 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (3000)
+Seat 3: vince421 (3000)
+Seat 4: anakee_x (3000)
+Seat 5: sabre_laser (3000)
+Seat 6: AkPacha10 (3000)
+Seat 7: luffy064 (3000)
+Seat 8: Gegegogo (3000)
+Seat 9: Hayce_Lem_76 (3000)
+*** ANTE/BLINDS ***
+BOREAL1 posts small blind 10
+vince421 posts big blind 20
+Dealt to sabre_laser [6s Qd]
+*** PRE-FLOP *** 
+anakee_x folds
+sabre_laser folds
+AkPacha10 folds
+luffy064 folds
+Gegegogo folds
+Hayce_Lem_76 folds
+7POKEURKEN folds
+BOREAL1 calls 10
+vince421 checks
+*** FLOP *** [Ah 4c 9s]
+BOREAL1 bets 20
+vince421 calls 20
+*** TURN *** [Ah 4c 9s][Th]
+BOREAL1 checks
+vince421 checks
+*** RIVER *** [Ah 4c 9s Th][Qc]
+BOREAL1 checks
+vince421 checks
+*** SHOW DOWN ***
+BOREAL1 shows [2s 7h] (High card : Ace)
+vince421 shows [Kc 8s] (High card : Ace)
+vince421 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ah 4c 9s Th Qc]
+Seat 2: BOREAL1 (small blind) showed [2s 7h] and lost with High card : Ace
+Seat 3: vince421 (big blind) showed [Kc 8s] and won 80 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #558587636743143673-2-1442949664 - Holdem no limit (15/30) - 2015/09/22 19:21:04 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #2 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (2960)
+Seat 3: vince421 (3040)
+Seat 4: anakee_x (3000)
+Seat 5: sabre_laser (3000)
+Seat 6: AkPacha10 (3000)
+Seat 7: luffy064 (3000)
+Seat 8: Gegegogo (3000)
+Seat 9: Hayce_Lem_76 (3000)
+*** ANTE/BLINDS ***
+vince421 posts small blind 15
+anakee_x posts big blind 30
+Dealt to sabre_laser [6s Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+AkPacha10 folds
+luffy064 folds
+Gegegogo folds
+Hayce_Lem_76 folds
+7POKEURKEN folds
+BOREAL1 raises 120 to 150
+vince421 calls 135
+anakee_x folds
+*** FLOP *** [Qd 6c 8h]
+vince421 checks
+BOREAL1 bets 2810 and is all-in
+vince421 folds
+BOREAL1 collected 3140 from pot
+*** SUMMARY ***
+Total pot 3140 | No rake
+Board: [Qd 6c 8h]
+Seat 2: BOREAL1 (button) won 3140
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #558587636743143673-3-1442949723 - Holdem no limit (20/40) - 2015/09/22 19:22:03 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #3 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (3140)
+Seat 3: vince421 (2890)
+Seat 4: anakee_x (2970)
+Seat 5: sabre_laser (3000)
+Seat 6: AkPacha10 (3000)
+Seat 7: luffy064 (3000)
+Seat 8: Gegegogo (3000)
+Seat 9: ladypoker81 (3010)
+*** ANTE/BLINDS ***
+anakee_x posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ac 2s]
+*** PRE-FLOP *** 
+AkPacha10 calls 40
+luffy064 folds
+Gegegogo folds
+ladypoker81 folds
+7POKEURKEN folds
+BOREAL1 calls 40
+vince421 calls 40
+anakee_x calls 20
+sabre_laser checks
+*** FLOP *** [5d Js Kc]
+anakee_x checks
+sabre_laser checks
+AkPacha10 checks
+BOREAL1 checks
+vince421 bets 40
+anakee_x folds
+sabre_laser folds
+AkPacha10 folds
+BOREAL1 calls 40
+*** TURN *** [5d Js Kc][Qs]
+BOREAL1 checks
+vince421 checks
+*** RIVER *** [5d Js Kc Qs][2c]
+BOREAL1 bets 520
+vince421 calls 520
+*** SHOW DOWN ***
+vince421 shows [9s Kd] (One pair : Kings)
+BOREAL1 shows [Td Ah] (Straight Ace high)
+BOREAL1 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [5d Js Kc Qs 2c]
+Seat 2: BOREAL1 showed [Td Ah] and won 1320 with Straight Ace high
+Seat 3: vince421 (button) showed [9s Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #558587636743143673-4-1442949844 - Holdem no limit (20/40) - 2015/09/22 19:24:04 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #4 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (3860)
+Seat 3: vince421 (2290)
+Seat 4: anakee_x (2930)
+Seat 5: sabre_laser (2960)
+Seat 6: AkPacha10 (2960)
+Seat 7: luffy064 (3000)
+Seat 8: Gegegogo (3000)
+Seat 9: ladypoker81 (3010)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+AkPacha10 posts big blind 40
+Dealt to sabre_laser [7s Qh]
+*** PRE-FLOP *** 
+luffy064 raises 40 to 80
+Gegegogo folds
+ladypoker81 folds
+7POKEURKEN folds
+BOREAL1 folds
+vince421 calls 80
+anakee_x folds
+sabre_laser folds
+AkPacha10 calls 40
+*** FLOP *** [Kc Qs 7h]
+AkPacha10 checks
+luffy064 bets 260
+vince421 folds
+AkPacha10 calls 260
+*** TURN *** [Kc Qs 7h][Qc]
+AkPacha10 checks
+luffy064 bets 780
+AkPacha10 calls 780
+*** RIVER *** [Kc Qs 7h Qc][Jh]
+AkPacha10 checks
+luffy064 bets 40
+AkPacha10 calls 40
+*** SHOW DOWN ***
+AkPacha10 shows [Jd Td] (Two pairs : Queens and Jacks)
+luffy064 shows [Tc Ks] (Two pairs : Kings and Queens)
+luffy064 collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Board: [Kc Qs 7h Qc Jh]
+Seat 6: AkPacha10 (big blind) showed [Jd Td] and lost with Two pairs : Queens and Jacks
+Seat 7: luffy064 showed [Tc Ks] and won 2420 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #558587636743143673-5-1442949915 - Holdem no limit (30/60) - 2015/09/22 19:25:15 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #5 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (3860)
+Seat 3: vince421 (2210)
+Seat 4: anakee_x (2930)
+Seat 5: sabre_laser (2940)
+Seat 6: AkPacha10 (1800)
+Seat 7: luffy064 (4260)
+Seat 8: cynus (3000)
+Seat 9: ladypoker81 (3010)
+*** ANTE/BLINDS ***
+AkPacha10 posts small blind 30
+luffy064 posts big blind 60
+Dealt to sabre_laser [7s Ks]
+*** PRE-FLOP *** 
+cynus calls 60
+ladypoker81 calls 60
+7POKEURKEN folds
+BOREAL1 calls 60
+vince421 calls 60
+anakee_x calls 60
+sabre_laser folds
+AkPacha10 calls 30
+luffy064 checks
+*** FLOP *** [8d Jd 7d]
+AkPacha10 checks
+luffy064 checks
+cynus checks
+ladypoker81 bets 420
+BOREAL1 folds
+vince421 folds
+anakee_x raises 420 to 840
+AkPacha10 raises 900 to 1740 and is all-in
+luffy064 folds
+cynus folds
+ladypoker81 folds
+anakee_x calls 900
+*** TURN *** [8d Jd 7d][4d]
+*** RIVER *** [8d Jd 7d 4d][3s]
+*** SHOW DOWN ***
+anakee_x shows [9h 8h] (One pair : 8)
+AkPacha10 shows [Ad 6h] (Flush Ace high)
+AkPacha10 collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Board: [8d Jd 7d 4d 3s]
+Seat 4: anakee_x showed [9h 8h] and lost with One pair : 8
+Seat 6: AkPacha10 (small blind) showed [Ad 6h] and won 4320 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #558587636743143673-6-1442950046 - Holdem no limit (40/80) - 2015/09/22 19:27:26 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #6 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (3800)
+Seat 3: vince421 (2150)
+Seat 4: anakee_x (1130)
+Seat 5: sabre_laser (2940)
+Seat 6: AkPacha10 (4320)
+Seat 7: luffy064 (4200)
+Seat 8: Quent2433 (2335)
+Seat 9: ladypoker81 (2530)
+*** ANTE/BLINDS ***
+luffy064 posts small blind 40
+Quent2433 posts big blind 80
+Dealt to sabre_laser [8c Tc]
+*** PRE-FLOP *** 
+ladypoker81 calls 80
+7POKEURKEN folds
+BOREAL1 calls 80
+vince421 calls 80
+anakee_x folds
+sabre_laser folds
+AkPacha10 raises 440 to 520
+luffy064 folds
+Quent2433 calls 440
+ladypoker81 calls 440
+BOREAL1 calls 440
+vince421 folds
+*** FLOP *** [6s 9d Ad]
+Quent2433 bets 1815 and is all-in
+ladypoker81 raises 195 to 2010 and is all-in
+BOREAL1 folds
+AkPacha10 calls 2010
+*** TURN *** [6s 9d Ad][Kh]
+*** RIVER *** [6s 9d Ad Kh][5h]
+*** SHOW DOWN ***
+Quent2433 shows [7s Ts] (High card : Ace)
+ladypoker81 shows [6h Ac] (Two pairs : Aces and 6)
+AkPacha10 shows [Ah As] (Trips of Aces)
+AkPacha10 collected 8035 from pot
+*** SUMMARY ***
+Total pot 8035 | No rake
+Board: [6s 9d Ad Kh 5h]
+Seat 6: AkPacha10 (button) showed [Ah As] and won 8035 with Trips of Aces
+Seat 8: Quent2433 (big blind) showed [7s Ts] and lost with High card : Ace
+Seat 9: ladypoker81 showed [6h Ac] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #558587636743143673-7-1442950111 - Holdem no limit (40/80) - 2015/09/22 19:28:31 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #7 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (3280)
+Seat 3: vince421 (2070)
+Seat 4: anakee_x (1130)
+Seat 5: sabre_laser (2940)
+Seat 6: AkPacha10 (9825)
+Seat 7: luffy064 (4160)
+Seat 8: xX.Celine.Xx (3000)
+Seat 9: yann784 (3000)
+*** ANTE/BLINDS ***
+yann784 posts big blind 80
+Dealt to sabre_laser [Tc 9c]
+*** PRE-FLOP *** 
+7POKEURKEN folds
+BOREAL1 folds
+vince421 calls 80
+anakee_x folds
+sabre_laser calls 80
+AkPacha10 calls 80
+luffy064 folds
+yann784 checks
+*** FLOP *** [8c Jh 5d]
+yann784 checks
+vince421 checks
+sabre_laser checks
+AkPacha10 checks
+*** TURN *** [8c Jh 5d][Qh]
+yann784 checks
+vince421 checks
+sabre_laser checks
+AkPacha10 checks
+*** RIVER *** [8c Jh 5d Qh][9h]
+yann784 checks
+vince421 checks
+sabre_laser bets 160
+AkPacha10 folds
+yann784 folds
+vince421 folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8c Jh 5d Qh 9h]
+Seat 5: sabre_laser won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #558587636743143673-8-1442950298 - Holdem no limit (60/120) - 2015/09/22 19:31:38 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #8 is the button
+Seat 1: 7POKEURKEN (3000)
+Seat 2: BOREAL1 (3280)
+Seat 3: vince421 (1990)
+Seat 4: anakee_x (1130)
+Seat 5: sabre_laser (3180)
+Seat 6: AkPacha10 (9745)
+Seat 7: luffy064 (4160)
+Seat 8: xX.Celine.Xx (3000)
+Seat 9: yann784 (2920)
+*** ANTE/BLINDS ***
+yann784 posts small blind 60
+7POKEURKEN posts big blind 120
+Dealt to sabre_laser [Ts 6s]
+*** PRE-FLOP *** 
+BOREAL1 calls 120
+vince421 calls 120
+anakee_x folds
+sabre_laser folds
+AkPacha10 calls 120
+luffy064 folds
+yann784 folds
+7POKEURKEN folds
+*** FLOP *** [4c 3h 2c]
+BOREAL1 checks
+vince421 checks
+AkPacha10 checks
+*** TURN *** [4c 3h 2c][Td]
+BOREAL1 checks
+vince421 checks
+AkPacha10 bets 180
+BOREAL1 folds
+vince421 calls 180
+*** RIVER *** [4c 3h 2c Td][Jd]
+vince421 checks
+AkPacha10 checks
+*** SHOW DOWN ***
+AkPacha10 shows [6c 7d] (High card : Jack)
+vince421 shows [Jc Qs] (One pair : Jacks)
+vince421 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c 3h 2c Td Jd]
+Seat 3: vince421 showed [Jc Qs] and won 900 with One pair : Jacks
+Seat 6: AkPacha10 showed [6c 7d] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #558587636743143673-9-1442950382 - Holdem no limit (60/120) - 2015/09/22 19:33:02 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #9 is the button
+Seat 1: 7POKEURKEN (2880)
+Seat 2: BOREAL1 (3160)
+Seat 3: vince421 (2590)
+Seat 4: anakee_x (1130)
+Seat 5: sabre_laser (3180)
+Seat 6: AkPacha10 (9445)
+Seat 7: luffy064 (4160)
+Seat 8: xX.Celine.Xx (3000)
+Seat 9: yann784 (2860)
+*** ANTE/BLINDS ***
+7POKEURKEN posts small blind 60
+BOREAL1 posts big blind 120
+Dealt to sabre_laser [3h Ad]
+*** PRE-FLOP *** 
+vince421 calls 120
+anakee_x folds
+sabre_laser folds
+AkPacha10 raises 420 to 540
+luffy064 folds
+xX.Celine.Xx calls 540
+yann784 folds
+7POKEURKEN folds
+BOREAL1 folds
+vince421 calls 420
+*** FLOP *** [6s 9c 5h]
+vince421 checks
+AkPacha10 bets 900
+xX.Celine.Xx raises 1560 to 2460 and is all-in
+vince421 folds
+AkPacha10 calls 1560
+*** TURN *** [6s 9c 5h][2h]
+*** RIVER *** [6s 9c 5h 2h][8c]
+*** SHOW DOWN ***
+AkPacha10 shows [As Ks] (High card : Ace)
+xX.Celine.Xx shows [9s Kd] (One pair : 9)
+xX.Celine.Xx collected 6720 from pot
+*** SUMMARY ***
+Total pot 6720 | No rake
+Board: [6s 9c 5h 2h 8c]
+Seat 6: AkPacha10 showed [As Ks] and lost with High card : Ace
+Seat 8: xX.Celine.Xx showed [9s Kd] and won 6720 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #558587636743143673-10-1442950465 - Holdem no limit (10/60/120) - 2015/09/22 19:34:25 UTC
+Table: 'Freeroll(130056319)#0248' 9-max (real money) Seat #1 is the button
+Seat 1: 7POKEURKEN (2820)
+Seat 2: BOREAL1 (3040)
+Seat 3: vince421 (2050)
+Seat 4: anakee_x (1130)
+Seat 5: sabre_laser (3180)
+Seat 6: AkPacha10 (6445)
+Seat 7: luffy064 (4160)
+Seat 8: xX.Celine.Xx (6720)
+Seat 9: sebastinho29 (7910)
+*** ANTE/BLINDS ***
+BOREAL1 posts ante 10
+vince421 posts ante 10
+7POKEURKEN posts ante 10
+anakee_x posts ante 10
+sabre_laser posts ante 10
+AkPacha10 posts ante 10
+luffy064 posts ante 10
+xX.Celine.Xx posts ante 10
+sebastinho29 posts ante 10
+BOREAL1 posts small blind 60
+vince421 posts big blind 120
+Dealt to sabre_laser [3d 2c]
+*** PRE-FLOP *** 
+anakee_x folds
+sabre_laser folds
+AkPacha10 raises 120 to 240
+luffy064 folds
+xX.Celine.Xx calls 240
+sebastinho29 folds
+7POKEURKEN folds
+BOREAL1 calls 180
+vince421 calls 120
+*** FLOP *** [6s 8d Td]
+BOREAL1 bets 2790 and is all-in
+vince421 calls 1800 and is all-in
+AkPacha10 raises 3405 to 6195 and is all-in
+xX.Celine.Xx folds
+*** TURN *** [6s 8d Td][9d]
+*** RIVER *** [6s 8d Td 9d][Ah]
+*** SHOW DOWN ***
+BOREAL1 shows [6c Tc] (Two pairs : Tens and 6)
+vince421 shows [Qh Th] (One pair : Tens)
+AkPacha10 shows [Ad 8c] (Two pairs : Aces and 8)
+AkPacha10 collected 11835 from pot
+*** SUMMARY ***
+Total pot 11835 | No rake
+Board: [6s 8d Td 9d Ah]
+Seat 2: BOREAL1 (small blind) showed [6c Tc] and lost with Two pairs : Tens and 6
+Seat 3: vince421 (big blind) showed [Qh Th] and lost with One pair : Tens
+Seat 6: AkPacha10 showed [Ad 8c] and won 11835 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #558587636743143960-11-1442950534 - Holdem no limit (10/60/120) - 2015/09/22 19:35:34 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3170)
+Seat 2: haoutch1978 (2130)
+Seat 3: matosa (3520)
+Seat 4: lalo71 (2680)
+Seat 5: RobzIII (3450)
+Seat 6: Charognardls (2660)
+Seat 7: Pipopipo38 (6670)
+Seat 8: alpheta (2990)
+Seat 9: Thierry57160 (3810)
+*** ANTE/BLINDS ***
+RobzIII posts ante 10
+Charognardls posts ante 10
+sabre_laser posts ante 10
+haoutch1978 posts ante 10
+matosa posts ante 10
+lalo71 posts ante 10
+Pipopipo38 posts ante 10
+alpheta posts ante 10
+Thierry57160 posts ante 10
+RobzIII posts small blind 60
+Charognardls posts big blind 120
+Dealt to sabre_laser [4c 4h]
+*** PRE-FLOP *** 
+Pipopipo38 folds
+alpheta calls 120
+Thierry57160 calls 120
+sabre_laser calls 120
+haoutch1978 folds
+matosa raises 120 to 240
+lalo71 folds
+RobzIII folds
+Charognardls calls 120
+alpheta calls 120
+Thierry57160 calls 120
+sabre_laser calls 120
+*** FLOP *** [8s 5c 3h]
+Charognardls checks
+alpheta checks
+Thierry57160 checks
+sabre_laser checks
+matosa checks
+*** TURN *** [8s 5c 3h][9h]
+Charognardls checks
+alpheta checks
+Thierry57160 checks
+sabre_laser checks
+matosa checks
+*** RIVER *** [8s 5c 3h 9h][2h]
+Charognardls checks
+alpheta checks
+Thierry57160 checks
+sabre_laser checks
+matosa checks
+*** SHOW DOWN ***
+matosa shows [6s As] (High card : Ace)
+Charognardls shows [Qh 3s] (One pair : 3)
+alpheta shows [Qd Ts] (High card : Queen)
+Thierry57160 shows [Kh 4s] (High card : King)
+sabre_laser shows [4c 4h] (One pair : 4)
+sabre_laser collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [8s 5c 3h 9h 2h]
+Seat 1: sabre_laser showed [4c 4h] and won 1350 with One pair : 4
+Seat 3: matosa showed [6s As] and lost with High card : Ace
+Seat 6: Charognardls (big blind) showed [Qh 3s] and lost with One pair : 3
+Seat 8: alpheta showed [Qd Ts] and lost with High card : Queen
+Seat 9: Thierry57160 showed [Kh 4s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #558587636743143960-12-1442950692 - Holdem no limit (15/75/150) - 2015/09/22 19:38:12 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (4270)
+Seat 2: haoutch1978 (2120)
+Seat 3: matosa (3270)
+Seat 4: lalo71 (2670)
+Seat 5: RobzIII (3380)
+Seat 6: Charognardls (2410)
+Seat 7: Pipopipo38 (6660)
+Seat 8: alpheta (2740)
+Seat 9: Thierry57160 (3560)
+*** ANTE/BLINDS ***
+Charognardls posts ante 15
+Pipopipo38 posts ante 15
+sabre_laser posts ante 15
+haoutch1978 posts ante 15
+matosa posts ante 15
+lalo71 posts ante 15
+RobzIII posts ante 15
+alpheta posts ante 15
+Thierry57160 posts ante 15
+Charognardls posts small blind 75
+Pipopipo38 posts big blind 150
+Dealt to sabre_laser [6s Ac]
+*** PRE-FLOP *** 
+alpheta folds
+Thierry57160 folds
+sabre_laser folds
+haoutch1978 raises 225 to 375
+matosa folds
+lalo71 folds
+RobzIII folds
+Charognardls folds
+Pipopipo38 calls 225
+*** FLOP *** [Ad 8h Td]
+Pipopipo38 checks
+haoutch1978 bets 960
+Pipopipo38 folds
+haoutch1978 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [Ad 8h Td]
+Seat 2: haoutch1978 won 1920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #558587636743143960-13-1442950754 - Holdem no limit (15/75/150) - 2015/09/22 19:39:14 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (4255)
+Seat 2: haoutch1978 (2690)
+Seat 3: matosa (3255)
+Seat 4: lalo71 (2655)
+Seat 5: RobzIII (3365)
+Seat 6: FP2103 (6225)
+Seat 7: Pipopipo38 (6270)
+Seat 8: alpheta (2725)
+Seat 9: Thierry57160 (3545)
+*** ANTE/BLINDS ***
+Pipopipo38 posts ante 15
+alpheta posts ante 15
+sabre_laser posts ante 15
+haoutch1978 posts ante 15
+matosa posts ante 15
+lalo71 posts ante 15
+RobzIII posts ante 15
+Thierry57160 posts ante 15
+Pipopipo38 posts small blind 75
+alpheta posts big blind 150
+Dealt to sabre_laser [4d 8s]
+*** PRE-FLOP *** 
+Thierry57160 calls 150
+sabre_laser folds
+haoutch1978 folds
+matosa folds
+lalo71 raises 375 to 525
+RobzIII folds
+Pipopipo38 folds
+alpheta calls 375
+Thierry57160 raises 3005 to 3530 and is all-in
+lalo71 calls 2115 and is all-in
+alpheta calls 2185 and is all-in
+*** FLOP *** [2d Td 4c]
+*** TURN *** [2d Td 4c][9c]
+*** RIVER *** [2d Td 4c 9c][5s]
+*** SHOW DOWN ***
+alpheta shows [Ah 5c] (One pair : 5)
+lalo71 shows [As Ad] (One pair : Aces)
+Thierry57160 shows [7s 7h] (One pair : 7)
+Thierry57160 collected 960 from side pot 1
+lalo71 collected 8115 from main pot
+*** SUMMARY ***
+Total pot 9075 | No rake
+Board: [2d Td 4c 9c 5s]
+Seat 4: lalo71 showed [As Ad] and won 8115 with One pair : Aces
+Seat 8: alpheta (big blind) showed [Ah 5c] and lost with One pair : 5
+Seat 9: Thierry57160 showed [7s 7h] and won 960 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #558587636743143960-14-1442950847 - Holdem no limit (20/100/200) - 2015/09/22 19:40:47 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (4240)
+Seat 2: haoutch1978 (2675)
+Seat 3: matosa (3240)
+Seat 4: lalo71 (8115)
+Seat 5: RobzIII (3350)
+Seat 6: FP2103 (6225)
+Seat 7: Pipopipo38 (6180)
+Seat 8: Y0Y0 (2290)
+Seat 9: Thierry57160 (960)
+*** ANTE/BLINDS ***
+Thierry57160 posts ante 20
+sabre_laser posts ante 20
+haoutch1978 posts ante 20
+matosa posts ante 20
+lalo71 posts ante 20
+RobzIII posts ante 20
+FP2103 posts ante 20
+Pipopipo38 posts ante 20
+Thierry57160 posts big blind 200
+Dealt to sabre_laser [6d Ac]
+*** PRE-FLOP *** 
+sabre_laser folds
+haoutch1978 folds
+matosa calls 200
+lalo71 folds
+RobzIII folds
+FP2103 folds
+Pipopipo38 calls 200
+Thierry57160 checks
+*** FLOP *** [3c 3d 8h]
+Thierry57160 checks
+matosa checks
+Pipopipo38 checks
+*** TURN *** [3c 3d 8h][9d]
+Thierry57160 checks
+matosa bets 200
+Pipopipo38 calls 200
+Thierry57160 calls 200
+*** RIVER *** [3c 3d 8h 9d][2h]
+Thierry57160 checks
+matosa bets 200
+Pipopipo38 folds
+Thierry57160 folds
+matosa collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [3c 3d 8h 9d 2h]
+Seat 3: matosa won 1560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #558587636743143960-15-1442950964 - Holdem no limit (25/125/250) - 2015/09/22 19:42:44 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (4220)
+Seat 2: haoutch1978 (2655)
+Seat 3: matosa (4180)
+Seat 4: lalo71 (8095)
+Seat 5: RobzIII (3330)
+Seat 6: FP2103 (6205)
+Seat 7: Pipopipo38 (5760)
+Seat 8: Y0Y0 (2290)
+Seat 9: Thierry57160 (540)
+*** ANTE/BLINDS ***
+Thierry57160 posts ante 25
+sabre_laser posts ante 25
+haoutch1978 posts ante 25
+matosa posts ante 25
+lalo71 posts ante 25
+RobzIII posts ante 25
+FP2103 posts ante 25
+Pipopipo38 posts ante 25
+Thierry57160 posts small blind 125
+sabre_laser posts big blind 250
+Dealt to sabre_laser [Tc 9c]
+*** PRE-FLOP *** 
+haoutch1978 raises 500 to 750
+matosa folds
+lalo71 folds
+RobzIII raises 2555 to 3305 and is all-in
+FP2103 folds
+Pipopipo38 folds
+Thierry57160 calls 390 and is all-in
+sabre_laser folds
+haoutch1978 calls 1880 and is all-in
+*** FLOP *** [Ah 4c Ts]
+*** TURN *** [Ah 4c Ts][7h]
+*** RIVER *** [Ah 4c Ts 7h][Qs]
+*** SHOW DOWN ***
+Thierry57160 shows [5c 9h] (High card : Ace)
+haoutch1978 shows [Kc Jd] (Straight Ace high)
+RobzIII shows [Kd Ad] (One pair : Aces)
+RobzIII collected 675 from side pot 1
+haoutch1978 collected 6225 from main pot
+*** SUMMARY ***
+Total pot 6900 | No rake
+Board: [Ah 4c Ts 7h Qs]
+Seat 2: haoutch1978 showed [Kc Jd] and won 6225 with Straight Ace high
+Seat 5: RobzIII showed [Kd Ad] and won 675 with One pair : Aces
+Seat 9: Thierry57160 (small blind) showed [5c 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #558587636743143960-16-1442951011 - Holdem no limit (25/125/250) - 2015/09/22 19:43:31 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (3945)
+Seat 2: haoutch1978 (6225)
+Seat 3: matosa (4155)
+Seat 4: lalo71 (8070)
+Seat 5: RobzIII (675)
+Seat 6: FP2103 (6180)
+Seat 7: Pipopipo38 (5735)
+Seat 8: Y0Y0 (2290)
+Seat 9: nounouche08 (23290)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+haoutch1978 posts ante 25
+matosa posts ante 25
+lalo71 posts ante 25
+RobzIII posts ante 25
+FP2103 posts ante 25
+Pipopipo38 posts ante 25
+sabre_laser posts small blind 125
+haoutch1978 posts big blind 250
+Dealt to sabre_laser [8c 4s]
+*** PRE-FLOP *** 
+matosa calls 250
+lalo71 calls 250
+RobzIII folds
+FP2103 folds
+Pipopipo38 folds
+sabre_laser folds
+haoutch1978 checks
+*** FLOP *** [4h 7h Kh]
+haoutch1978 checks
+matosa checks
+lalo71 bets 375
+haoutch1978 folds
+matosa folds
+lalo71 collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Board: [4h 7h Kh]
+Seat 4: lalo71 won 1425
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #558587636743143960-17-1442951075 - Holdem no limit (25/125/250) - 2015/09/22 19:44:35 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3795)
+Seat 2: haoutch1978 (5950)
+Seat 3: matosa (3880)
+Seat 4: lalo71 (8845)
+Seat 5: vyachka (14145)
+Seat 6: FP2103 (6155)
+Seat 7: Pipopipo38 (5710)
+Seat 8: Y0Y0 (2290)
+Seat 9: nounouche08 (23290)
+*** ANTE/BLINDS ***
+haoutch1978 posts ante 25
+matosa posts ante 25
+sabre_laser posts ante 25
+lalo71 posts ante 25
+vyachka posts ante 25
+FP2103 posts ante 25
+Pipopipo38 posts ante 25
+Y0Y0 posts ante 25
+nounouche08 posts ante 25
+haoutch1978 posts small blind 125
+matosa posts big blind 250
+Dealt to sabre_laser [2c Jc]
+*** PRE-FLOP *** 
+lalo71 folds
+vyachka calls 250
+FP2103 folds
+Pipopipo38 folds
+Y0Y0 folds
+nounouche08 folds
+sabre_laser folds
+haoutch1978 calls 125
+matosa checks
+*** FLOP *** [5h 9s Kd]
+haoutch1978 checks
+matosa checks
+vyachka checks
+*** TURN *** [5h 9s Kd][Kh]
+haoutch1978 checks
+matosa checks
+vyachka checks
+*** RIVER *** [5h 9s Kd Kh][Tc]
+haoutch1978 checks
+matosa checks
+vyachka checks
+*** SHOW DOWN ***
+haoutch1978 shows [8s 6s] (One pair : Kings)
+matosa shows [7s Qd] (One pair : Kings)
+vyachka shows [Qc 3s] (One pair : Kings)
+vyachka collected 488 from pot
+matosa collected 487 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [5h 9s Kd Kh Tc]
+Seat 2: haoutch1978 (small blind) showed [8s 6s] and lost with One pair : Kings
+Seat 3: matosa (big blind) showed [7s Qd] and won 487 with One pair : Kings
+Seat 5: vyachka showed [Qc 3s] and won 488 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #558587636743143960-18-1442951140 - Holdem no limit (35/150/300) - 2015/09/22 19:45:40 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (3770)
+Seat 2: haoutch1978 (5675)
+Seat 3: matosa (4092)
+Seat 4: lalo71 (8820)
+Seat 5: vyachka (14358)
+Seat 6: FP2103 (6130)
+Seat 7: Pipopipo38 (5685)
+Seat 8: Y0Y0 (2265)
+Seat 9: nounouche08 (23265)
+*** ANTE/BLINDS ***
+matosa posts ante 35
+lalo71 posts ante 35
+sabre_laser posts ante 35
+haoutch1978 posts ante 35
+vyachka posts ante 35
+FP2103 posts ante 35
+Pipopipo38 posts ante 35
+Y0Y0 posts ante 35
+nounouche08 posts ante 35
+matosa posts small blind 150
+lalo71 posts big blind 300
+Dealt to sabre_laser [5c Kc]
+*** PRE-FLOP *** 
+vyachka calls 300
+FP2103 folds
+Pipopipo38 folds
+Y0Y0 folds
+nounouche08 folds
+sabre_laser folds
+haoutch1978 folds
+matosa calls 150
+lalo71 checks
+*** FLOP *** [4h Jc 5h]
+matosa checks
+lalo71 checks
+vyachka bets 300
+matosa calls 300
+lalo71 folds
+*** TURN *** [4h Jc 5h][9h]
+matosa checks
+vyachka checks
+*** RIVER *** [4h Jc 5h 9h][6c]
+matosa checks
+vyachka bets 908
+matosa folds
+vyachka collected 2723 from pot
+*** SUMMARY ***
+Total pot 2723 | No rake
+Board: [4h Jc 5h 9h 6c]
+Seat 5: vyachka won 2723
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #558587636743143960-19-1442951186 - Holdem no limit (35/150/300) - 2015/09/22 19:46:26 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (3735)
+Seat 2: haoutch1978 (5640)
+Seat 3: matosa (3457)
+Seat 4: lalo71 (8485)
+Seat 5: vyachka (15538)
+Seat 6: FP2103 (6095)
+Seat 7: Pipopipo38 (5650)
+Seat 8: Y0Y0 (2230)
+Seat 9: nounouche08 (23230)
+*** ANTE/BLINDS ***
+lalo71 posts ante 35
+vyachka posts ante 35
+sabre_laser posts ante 35
+haoutch1978 posts ante 35
+matosa posts ante 35
+FP2103 posts ante 35
+Pipopipo38 posts ante 35
+Y0Y0 posts ante 35
+nounouche08 posts ante 35
+lalo71 posts small blind 150
+vyachka posts big blind 300
+Dealt to sabre_laser [9c 6d]
+*** PRE-FLOP *** 
+FP2103 folds
+Pipopipo38 calls 300
+Y0Y0 folds
+nounouche08 folds
+sabre_laser folds
+haoutch1978 calls 300
+matosa raises 3122 to 3422 and is all-in
+lalo71 folds
+vyachka folds
+Pipopipo38 folds
+haoutch1978 folds
+matosa collected 4787 from pot
+*** SUMMARY ***
+Total pot 4787 | No rake
+Seat 3: matosa (button) won 4787
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #558587636743143960-20-1442951246 - Holdem no limit (35/150/300) - 2015/09/22 19:47:26 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3700)
+Seat 2: haoutch1978 (5305)
+Seat 3: matosa (4787)
+Seat 4: lalo71 (8300)
+Seat 5: vyachka (15203)
+Seat 6: FP2103 (6060)
+Seat 7: Pipopipo38 (5315)
+Seat 8: Y0Y0 (2195)
+Seat 9: nounouche08 (23195)
+*** ANTE/BLINDS ***
+vyachka posts ante 35
+FP2103 posts ante 35
+sabre_laser posts ante 35
+haoutch1978 posts ante 35
+matosa posts ante 35
+lalo71 posts ante 35
+Pipopipo38 posts ante 35
+Y0Y0 posts ante 35
+nounouche08 posts ante 35
+vyachka posts small blind 150
+FP2103 posts big blind 300
+Dealt to sabre_laser [Qd Ad]
+*** PRE-FLOP *** 
+Pipopipo38 folds
+Y0Y0 folds
+nounouche08 calls 300
+sabre_laser raises 600 to 900
+haoutch1978 folds
+matosa raises 3852 to 4752 and is all-in
+lalo71 folds
+vyachka folds
+FP2103 folds
+nounouche08 folds
+sabre_laser calls 2765 and is all-in
+*** FLOP *** [7h 7s 6d]
+*** TURN *** [7h 7s 6d][9d]
+*** RIVER *** [7h 7s 6d 9d][6h]
+*** SHOW DOWN ***
+sabre_laser shows [Qd Ad] (Two pairs : 7 and 6)
+matosa shows [Ks Tc] (Two pairs : 7 and 6)
+matosa collected 1087 from side pot 1
+sabre_laser collected 8395 from main pot
+*** SUMMARY ***
+Total pot 9482 | No rake
+Board: [7h 7s 6d 9d 6h]
+Seat 1: sabre_laser showed [Qd Ad] and won 8395 with Two pairs : 7 and 6
+Seat 3: matosa showed [Ks Tc] and won 1087 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #558587636743143960-21-1442951318 - Holdem no limit (40/200/400) - 2015/09/22 19:48:38 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (8395)
+Seat 2: haoutch1978 (5270)
+Seat 3: matosa (1087)
+Seat 4: lalo71 (8265)
+Seat 5: vyachka (15018)
+Seat 6: FP2103 (5725)
+Seat 7: Pipopipo38 (5280)
+Seat 8: Y0Y0 (2160)
+Seat 9: nounouche08 (22860)
+*** ANTE/BLINDS ***
+FP2103 posts ante 40
+Pipopipo38 posts ante 40
+sabre_laser posts ante 40
+haoutch1978 posts ante 40
+matosa posts ante 40
+lalo71 posts ante 40
+vyachka posts ante 40
+Y0Y0 posts ante 40
+nounouche08 posts ante 40
+FP2103 posts small blind 200
+Pipopipo38 posts big blind 400
+Dealt to sabre_laser [5h Js]
+*** PRE-FLOP *** 
+Y0Y0 folds
+nounouche08 folds
+sabre_laser folds
+haoutch1978 calls 400
+matosa raises 647 to 1047 and is all-in
+lalo71 folds
+vyachka calls 1047
+FP2103 folds
+Pipopipo38 folds
+haoutch1978 folds
+*** FLOP *** [4s Jc Ts]
+*** TURN *** [4s Jc Ts][2h]
+*** RIVER *** [4s Jc Ts 2h][Qd]
+*** SHOW DOWN ***
+matosa shows [7d 6d] (High card : Queen)
+vyachka shows [Ah Ac] (One pair : Aces)
+vyachka collected 3454 from pot
+*** SUMMARY ***
+Total pot 3454 | No rake
+Board: [4s Jc Ts 2h Qd]
+Seat 3: matosa showed [7d 6d] and lost with High card : Queen
+Seat 5: vyachka (button) showed [Ah Ac] and won 3454 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #558587636743143960-22-1442951373 - Holdem no limit (40/200/400) - 2015/09/22 19:49:33 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (8355)
+Seat 2: haoutch1978 (4830)
+Seat 4: lalo71 (8225)
+Seat 5: vyachka (17385)
+Seat 6: FP2103 (5485)
+Seat 7: Pipopipo38 (4840)
+Seat 8: Y0Y0 (2120)
+Seat 9: nounouche08 (22820)
+*** ANTE/BLINDS ***
+Pipopipo38 posts ante 40
+Y0Y0 posts ante 40
+sabre_laser posts ante 40
+haoutch1978 posts ante 40
+lalo71 posts ante 40
+vyachka posts ante 40
+FP2103 posts ante 40
+nounouche08 posts ante 40
+Pipopipo38 posts small blind 200
+Y0Y0 posts big blind 400
+Dealt to sabre_laser [Ac Qs]
+*** PRE-FLOP *** 
+nounouche08 folds
+sabre_laser raises 400 to 800
+haoutch1978 folds
+lalo71 calls 800
+vyachka calls 800
+FP2103 folds
+Pipopipo38 folds
+Y0Y0 calls 400
+*** FLOP *** [5c Js 2h]
+Y0Y0 bets 1280 and is all-in
+sabre_laser folds
+lalo71 calls 1280
+vyachka folds
+*** TURN *** [5c Js 2h][Jh]
+*** RIVER *** [5c Js 2h Jh][2c]
+*** SHOW DOWN ***
+lalo71 shows [Kh Td] (Two pairs : Jacks and 2)
+Y0Y0 shows [2d 3d] (Full of 2 and Jacks)
+Y0Y0 collected 6280 from pot
+*** SUMMARY ***
+Total pot 6280 | No rake
+Board: [5c Js 2h Jh 2c]
+Seat 4: lalo71 showed [Kh Td] and lost with Two pairs : Jacks and 2
+Seat 8: Y0Y0 (big blind) showed [2d 3d] and won 6280 with Full of 2 and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #558587636743143960-23-1442951442 - Holdem no limit (40/200/400) - 2015/09/22 19:50:42 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (7515)
+Seat 2: haoutch1978 (4790)
+Seat 3: bidochon35 (15230)
+Seat 4: lalo71 (6105)
+Seat 5: vyachka (16545)
+Seat 6: FP2103 (5445)
+Seat 7: Pipopipo38 (4600)
+Seat 8: Y0Y0 (6280)
+Seat 9: nounouche08 (22780)
+*** ANTE/BLINDS ***
+Y0Y0 posts ante 40
+nounouche08 posts ante 40
+sabre_laser posts ante 40
+haoutch1978 posts ante 40
+bidochon35 posts ante 40
+lalo71 posts ante 40
+vyachka posts ante 40
+FP2103 posts ante 40
+Pipopipo38 posts ante 40
+Y0Y0 posts small blind 200
+nounouche08 posts big blind 400
+Dealt to sabre_laser [7d 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+haoutch1978 folds
+bidochon35 calls 400
+lalo71 folds
+vyachka calls 400
+FP2103 folds
+Pipopipo38 calls 400
+Y0Y0 calls 200
+nounouche08 checks
+*** FLOP *** [7s Kc 3s]
+Y0Y0 checks
+nounouche08 checks
+bidochon35 bets 400
+vyachka folds
+Pipopipo38 calls 400
+Y0Y0 folds
+nounouche08 calls 400
+*** TURN *** [7s Kc 3s][Qd]
+nounouche08 checks
+bidochon35 bets 400
+Pipopipo38 folds
+nounouche08 calls 400
+*** RIVER *** [7s Kc 3s Qd][6s]
+nounouche08 checks
+bidochon35 bets 2000
+nounouche08 calls 2000
+*** SHOW DOWN ***
+nounouche08 shows [7c 6c] (Two pairs : 7 and 6)
+bidochon35 shows [Kh 7h] (Two pairs : Kings and 7)
+bidochon35 collected 8360 from pot
+*** SUMMARY ***
+Total pot 8360 | No rake
+Board: [7s Kc 3s Qd 6s]
+Seat 3: bidochon35 showed [Kh 7h] and won 8360 with Two pairs : Kings and 7
+Seat 9: nounouche08 (big blind) showed [7c 6c] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #558587636743143960-24-1442951533 - Holdem no limit (50/250/500) - 2015/09/22 19:52:13 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (7475)
+Seat 2: haoutch1978 (4750)
+Seat 3: bidochon35 (20350)
+Seat 4: lalo71 (6065)
+Seat 5: vyachka (16105)
+Seat 6: FP2103 (5405)
+Seat 7: Pipopipo38 (3760)
+Seat 8: Y0Y0 (5840)
+Seat 9: nounouche08 (19540)
+*** ANTE/BLINDS ***
+nounouche08 posts ante 50
+sabre_laser posts ante 50
+haoutch1978 posts ante 50
+bidochon35 posts ante 50
+lalo71 posts ante 50
+vyachka posts ante 50
+FP2103 posts ante 50
+Pipopipo38 posts ante 50
+Y0Y0 posts ante 50
+nounouche08 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [6d 6h]
+*** PRE-FLOP *** 
+haoutch1978 raises 1500 to 2000
+bidochon35 folds
+lalo71 calls 2000
+vyachka calls 2000
+FP2103 folds
+Pipopipo38 folds
+Y0Y0 calls 2000
+nounouche08 folds
+sabre_laser calls 1500
+*** FLOP *** [9c 5d Js]
+sabre_laser checks
+haoutch1978 bets 2700 and is all-in
+lalo71 raises 1315 to 4015 and is all-in
+vyachka folds
+Y0Y0 calls 3790 and is all-in
+sabre_laser folds
+*** TURN *** [9c 5d Js][4s]
+*** RIVER *** [9c 5d Js 4s][4d]
+*** SHOW DOWN ***
+haoutch1978 shows [As Qc] (One pair : 4)
+Y0Y0 shows [Kh Qs] (One pair : 4)
+lalo71 shows [9s 9d] (Full of 9 and 4)
+lalo71 collected 21205 from pot
+*** SUMMARY ***
+Total pot 21205 | No rake
+Board: [9c 5d Js 4s 4d]
+Seat 2: haoutch1978 showed [As Qc] and lost with One pair : 4
+Seat 4: lalo71 showed [9s 9d] and won 21205 with Full of 9 and 4
+Seat 8: Y0Y0 (button) showed [Kh Qs] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #558587636743143960-25-1442951636 - Holdem no limit (50/250/500) - 2015/09/22 19:53:56 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (5425)
+Seat 2: Papyrusse59 (1215)
+Seat 3: bidochon35 (20300)
+Seat 4: lalo71 (21205)
+Seat 5: vyachka (14055)
+Seat 6: FP2103 (5355)
+Seat 7: Pipopipo38 (3710)
+Seat 8: Frigoztiz (23245)
+Seat 9: nounouche08 (19240)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Papyrusse59 posts ante 50
+bidochon35 posts ante 50
+lalo71 posts ante 50
+vyachka posts ante 50
+FP2103 posts ante 50
+Pipopipo38 posts ante 50
+Frigoztiz posts ante 50
+nounouche08 posts ante 50
+sabre_laser posts small blind 250
+Papyrusse59 posts big blind 500
+Dealt to sabre_laser [9s Ad]
+*** PRE-FLOP *** 
+bidochon35 raises 500 to 1000
+lalo71 folds
+vyachka calls 1000
+FP2103 folds
+Pipopipo38 folds
+Frigoztiz folds
+nounouche08 folds
+sabre_laser folds
+Papyrusse59 raises 165 to 1165 and is all-in
+bidochon35 calls 165
+vyachka calls 165
+*** FLOP *** [6d 5s 2s]
+bidochon35 bets 2000
+vyachka calls 2000
+*** TURN *** [6d 5s 2s][Jd]
+bidochon35 bets 4000
+vyachka folds
+*** RIVER *** [6d 5s 2s Jd][Td]
+*** SHOW DOWN ***
+Papyrusse59 shows [3d 6c] (One pair : 6)
+bidochon35 shows [Kd Kc] (One pair : Kings)
+bidochon35 collected 12195 from pot
+*** SUMMARY ***
+Total pot 12195 | No rake
+Board: [6d 5s 2s Jd Td]
+Seat 2: Papyrusse59 (big blind) showed [3d 6c] and lost with One pair : 6
+Seat 3: bidochon35 showed [Kd Kc] and won 12195 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #558587636743143960-26-1442952003 - Holdem no limit (70/300/600) - 2015/09/22 20:00:03 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (5125)
+Seat 3: bidochon35 (25280)
+Seat 4: lalo71 (21155)
+Seat 5: vyachka (10840)
+Seat 6: FP2103 (5305)
+Seat 7: Pipopipo38 (3660)
+Seat 8: Frigoztiz (23195)
+Seat 9: nounouche08 (19190)
+*** ANTE/BLINDS ***
+bidochon35 posts ante 70
+sabre_laser posts ante 70
+lalo71 posts ante 70
+vyachka posts ante 70
+FP2103 posts ante 70
+Pipopipo38 posts ante 70
+Frigoztiz posts ante 70
+nounouche08 posts ante 70
+bidochon35 posts big blind 600
+Dealt to sabre_laser [8h 4c]
+*** PRE-FLOP *** 
+lalo71 calls 600
+vyachka folds
+FP2103 folds
+Pipopipo38 folds
+Frigoztiz folds
+nounouche08 calls 600
+sabre_laser folds
+bidochon35 checks
+*** FLOP *** [5d 2h 9d]
+bidochon35 bets 1180
+lalo71 folds
+nounouche08 folds
+bidochon35 collected 3540 from pot
+*** SUMMARY ***
+Total pot 3540 | No rake
+Board: [5d 2h 9d]
+Seat 3: bidochon35 (big blind) won 3540
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #558587636743143960-27-1442952083 - Holdem no limit (70/300/600) - 2015/09/22 20:01:23 UTC
+Table: 'Freeroll(130056319)#0535' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (5055)
+Seat 2: Za zazapaly (5144)
+Seat 3: bidochon35 (26970)
+Seat 4: lalo71 (20485)
+Seat 5: vyachka (10770)
+Seat 6: FP2103 (5235)
+Seat 7: Pipopipo38 (3590)
+Seat 8: Frigoztiz (23125)
+Seat 9: nounouche08 (18520)
+*** ANTE/BLINDS ***
+bidochon35 posts ante 70
+lalo71 posts ante 70
+sabre_laser posts ante 70
+vyachka posts ante 70
+FP2103 posts ante 70
+Pipopipo38 posts ante 70
+Frigoztiz posts ante 70
+nounouche08 posts ante 70
+bidochon35 posts small blind 300
+lalo71 posts big blind 600
+Dealt to sabre_laser [Jd Td]
+*** PRE-FLOP *** 
+vyachka folds
+FP2103 calls 600
+Pipopipo38 calls 600
+Frigoztiz raises 22455 to 23055 and is all-in
+nounouche08 folds
+sabre_laser folds
+bidochon35 folds
+lalo71 folds
+FP2103 calls 4565 and is all-in
+Pipopipo38 calls 2920 and is all-in
+*** FLOP *** [7d 4s 9s]
+*** TURN *** [7d 4s 9s][5c]
+*** RIVER *** [7d 4s 9s 5c][4c]
+*** SHOW DOWN ***
+FP2103 shows [Ks Jh] (One pair : 4)
+Pipopipo38 shows [Ah 8c] (One pair : 4)
+Frigoztiz shows [8d Ad] (One pair : 4)
+Frigoztiz collected 27190 from side pot 1
+Pipopipo38 collected 6010 from main pot
+*** SUMMARY ***
+Total pot 33200 | No rake
+Board: [7d 4s 9s 5c 4c]
+Seat 6: FP2103 showed [Ks Jh] and lost with One pair : 4
+Seat 7: Pipopipo38 showed [Ah 8c] and won 6010 with One pair : 4
+Seat 8: Frigoztiz showed [8d Ad] and won 27190 with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #558587636743144131-23-1442952146 - Holdem no limit (80/400/800) - 2015/09/22 20:02:26 UTC
+Table: 'Freeroll(130056319)#0706' 9-max (real money) Seat #4 is the button
+Seat 1: Chriska610 (3420)
+Seat 2: benur510 (6495)
+Seat 3: volteVNR (31590)
+Seat 4: gatecaille (5280)
+Seat 5: atsem95570 (24759)
+Seat 6: sebparis1 (7565)
+Seat 7: sabre_laser (4985)
+Seat 8: Kmille1313 (15800)
+Seat 9: Nannoux (5298)
+*** ANTE/BLINDS ***
+atsem95570 posts ante 80
+sebparis1 posts ante 80
+Chriska610 posts ante 80
+benur510 posts ante 80
+volteVNR posts ante 80
+gatecaille posts ante 80
+sabre_laser posts ante 80
+Kmille1313 posts ante 80
+Nannoux posts ante 80
+atsem95570 posts small blind 400
+sebparis1 posts big blind 800
+Dealt to sabre_laser [As Kc]
+*** PRE-FLOP *** 
+sabre_laser raises 800 to 1600
+Kmille1313 calls 1600
+Nannoux folds
+Chriska610 folds
+benur510 calls 1600
+volteVNR folds
+gatecaille folds
+atsem95570 folds
+sebparis1 folds
+*** FLOP *** [Kd 4h Ts]
+sabre_laser bets 800
+Kmille1313 calls 800
+benur510 calls 800
+*** TURN *** [Kd 4h Ts][5c]
+sabre_laser checks
+Kmille1313 bets 13320 and is all-in
+benur510 folds
+sabre_laser calls 2505 and is all-in
+*** RIVER *** [Kd 4h Ts 5c][7h]
+*** SHOW DOWN ***
+sabre_laser shows [As Kc] (One pair : Kings)
+Kmille1313 shows [Kh 5s] (Two pairs : Kings and 5)
+Kmille1313 collected 24945 from pot
+*** SUMMARY ***
+Total pot 24945 | No rake
+Board: [Kd 4h Ts 5c 7h]
+Seat 7: sabre_laser showed [As Kc] and lost with One pair : Kings
+Seat 8: Kmille1313 showed [Kh 5s] and won 24945 with Two pairs : Kings and 5
+
+

@@ -1,0 +1,2230 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567126491289092097-1-1443280179 - Holdem no limit (10/20) - 2015/09/26 15:09:39 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 1: -Tabouret- (1500)
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1500)
+Seat 4: liptowin (1500)
+Seat 5: Rigged_a_max (1500)
+Seat 6: Marty 25 (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: aMoRAngE (1500)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+-Tabouret- posts small blind 10
+OnetheBeach posts big blind 20
+Dealt to sabre_laser [Ks 2d]
+*** PRE-FLOP *** 
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+aMoRAngE folds
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- calls 10
+OnetheBeach checks
+*** FLOP *** [5h 6s Qh]
+-Tabouret- checks
+OnetheBeach checks
+*** TURN *** [5h 6s Qh][Ts]
+-Tabouret- checks
+OnetheBeach checks
+*** RIVER *** [5h 6s Qh Ts][Ah]
+-Tabouret- bets 20
+OnetheBeach calls 20
+*** SHOW DOWN ***
+-Tabouret- shows [Jh 3d] (High card : Ace)
+OnetheBeach shows [5s 9d] (One pair : 5)
+OnetheBeach collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5h 6s Qh Ts Ah]
+Seat 1: -Tabouret- (small blind) showed [Jh 3d] and lost with High card : Ace
+Seat 2: OnetheBeach (big blind) showed [5s 9d] and won 80 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567126491289092097-2-1443280275 - Holdem no limit (10/20) - 2015/09/26 15:11:15 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #1 is the button
+Seat 1: -Tabouret- (1460)
+Seat 2: OnetheBeach (1540)
+Seat 3: illuminano (1500)
+Seat 4: liptowin (1500)
+Seat 5: Rigged_a_max (1500)
+Seat 6: Marty 25 (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: aMoRAngE (1500)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 10
+illuminano posts big blind 20
+Dealt to sabre_laser [Kh Td]
+*** PRE-FLOP *** 
+liptowin calls 20
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+aMoRAngE folds
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- raises 60 to 80
+OnetheBeach folds
+illuminano calls 60
+liptowin calls 60
+*** FLOP *** [7h Th Qc]
+illuminano checks
+liptowin checks
+-Tabouret- checks
+*** TURN *** [7h Th Qc][7d]
+illuminano checks
+liptowin checks
+-Tabouret- checks
+*** RIVER *** [7h Th Qc 7d][3d]
+illuminano checks
+liptowin bets 20
+-Tabouret- calls 20
+illuminano folds
+*** SHOW DOWN ***
+-Tabouret- shows [2s As] (One pair : 7)
+liptowin shows [8h 8d] (Two pairs : 8 and 7)
+liptowin collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [7h Th Qc 7d 3d]
+Seat 1: -Tabouret- (button) showed [2s As] and lost with One pair : 7
+Seat 4: liptowin showed [8h 8d] and won 290 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567126491289092097-3-1443280347 - Holdem no limit (10/20) - 2015/09/26 15:12:27 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 1: -Tabouret- (1360)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1420)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (1500)
+Seat 6: Marty 25 (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: aMoRAngE (1500)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+illuminano posts small blind 10
+liptowin posts big blind 20
+Dealt to sabre_laser [9s 7h]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+aMoRAngE folds
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- folds
+OnetheBeach folds
+illuminano folds
+liptowin collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 4: liptowin (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567126491289092097-4-1443280387 - Holdem no limit (10/20) - 2015/09/26 15:13:07 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 1: -Tabouret- (1360)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1700)
+Seat 5: Rigged_a_max (1500)
+Seat 6: Marty 25 (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: aMoRAngE (1500)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+liptowin posts small blind 10
+Rigged_a_max posts big blind 20
+Dealt to sabre_laser [Ah Js]
+*** PRE-FLOP *** 
+Marty 25 folds
+sabre_laser raises 40 to 60
+aMoRAngE folds
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 7: sabre_laser won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567126491289092097-5-1443280435 - Holdem no limit (10/20) - 2015/09/26 15:13:55 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 1: -Tabouret- (1360)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (1480)
+Seat 6: Marty 25 (1500)
+Seat 7: sabre_laser (1530)
+Seat 8: aMoRAngE (1500)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+Rigged_a_max posts small blind 10
+Marty 25 posts big blind 20
+Dealt to sabre_laser [Ad 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+aMoRAngE folds
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- raises 100 to 120
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+-Tabouret- collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: -Tabouret- won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567126491289092097-6-1443280496 - Holdem no limit (10/20) - 2015/09/26 15:14:56 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 1: -Tabouret- (1390)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (1470)
+Seat 6: Marty 25 (1480)
+Seat 7: sabre_laser (1530)
+Seat 8: aMoRAngE (1500)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+Marty 25 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2h 4h]
+*** PRE-FLOP *** 
+aMoRAngE raises 30 to 50
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- calls 50
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max calls 50
+Marty 25 folds
+sabre_laser calls 30
+*** FLOP *** [8c 8d 9s]
+sabre_laser checks
+aMoRAngE bets 140
+-Tabouret- folds
+Rigged_a_max calls 140
+sabre_laser folds
+*** TURN *** [8c 8d 9s][Qd]
+aMoRAngE bets 245
+Rigged_a_max raises 245 to 490
+aMoRAngE raises 820 to 1310 and is all-in
+Rigged_a_max calls 790 and is all-in
+*** RIVER *** [8c 8d 9s Qd][2s]
+*** SHOW DOWN ***
+Rigged_a_max shows [Tc Jh] (Straight Queen high)
+aMoRAngE shows [Kc Ks] (Two pairs : Kings and 8)
+aMoRAngE collected 30 from side pot 1
+Rigged_a_max collected 3050 from main pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [8c 8d 9s Qd 2s]
+Seat 5: Rigged_a_max (button) showed [Tc Jh] and won 3050 with Straight Queen high
+Seat 8: aMoRAngE showed [Kc Ks] and won 30 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567126491289092097-7-1443280567 - Holdem no limit (15/30) - 2015/09/26 15:16:07 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #6 is the button
+Seat 1: -Tabouret- (1340)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (3050)
+Seat 6: Marty 25 (1470)
+Seat 7: sabre_laser (1480)
+Seat 8: aMoRAngE (30)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+aMoRAngE posts big blind 30 and is all-in
+Dealt to sabre_laser [5d Ah]
+*** PRE-FLOP *** 
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- calls 30
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser calls 15
+*** FLOP *** [5h 8s As]
+sabre_laser checks
+-Tabouret- checks
+*** TURN *** [5h 8s As][9s]
+sabre_laser bets 68
+-Tabouret- calls 68
+*** RIVER *** [5h 8s As 9s][2h]
+sabre_laser bets 75
+-Tabouret- raises 1167 to 1242 and is all-in
+sabre_laser folds
+*** SHOW DOWN ***
+aMoRAngE shows [4s Qc] (High card : Ace)
+-Tabouret- shows [Qd 7h] (High card : Ace)
+-Tabouret- collected 1543 from pot
+*** SUMMARY ***
+Total pot 1543 | No rake
+Board: [5h 8s As 9s 2h]
+Seat 1: -Tabouret- showed [Qd 7h] and won 1543 with High card : Ace
+Seat 8: aMoRAngE (big blind) showed [4s Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567126491289092097-8-1443280637 - Holdem no limit (15/30) - 2015/09/26 15:17:17 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 1: -Tabouret- (1543)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (3050)
+Seat 6: Marty 25 (1470)
+Seat 7: sabre_laser (1307)
+Seat 9: .Roxon. (1500)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+.Roxon. posts big blind 30
+Dealt to sabre_laser [Jh Kc]
+*** PRE-FLOP *** 
+JeBluffMec folds
+-Tabouret- raises 60 to 90
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max calls 90
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+*** FLOP *** [5c 4s 2h]
+-Tabouret- bets 100
+Rigged_a_max raises 100 to 200
+-Tabouret- raises 100 to 300
+Rigged_a_max raises 2660 to 2960 and is all-in
+-Tabouret- calls 1153 and is all-in
+*** TURN *** [5c 4s 2h][Jc]
+*** RIVER *** [5c 4s 2h Jc][5h]
+*** SHOW DOWN ***
+-Tabouret- shows [Ah 3h] (Straight 5 high)
+Rigged_a_max shows [Ac 3c] (Straight 5 high)
+Rigged_a_max collected 3065 from side pot 1
+-Tabouret- collected 1558 from main pot
+*** SUMMARY ***
+Total pot 4623 | No rake
+Board: [5c 4s 2h Jc 5h]
+Seat 1: -Tabouret- showed [Ah 3h] and won 1558 with Straight 5 high
+Seat 5: Rigged_a_max showed [Ac 3c] and won 3065 with Straight 5 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567126491289092097-9-1443280720 - Holdem no limit (15/30) - 2015/09/26 15:18:40 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #8 is the button
+Seat 1: -Tabouret- (1558)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (3065)
+Seat 6: Marty 25 (1470)
+Seat 7: sabre_laser (1307)
+Seat 9: .Roxon. (1470)
+Seat 10: JeBluffMec (1500)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 15
+JeBluffMec posts big blind 30
+Dealt to sabre_laser [7h 8c]
+*** PRE-FLOP *** 
+-Tabouret- folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 calls 30
+sabre_laser folds
+.Roxon. folds
+JeBluffMec checks
+*** FLOP *** [4h Jh 6s]
+JeBluffMec checks
+Marty 25 bets 30
+JeBluffMec folds
+Marty 25 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [4h Jh 6s]
+Seat 6: Marty 25 won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567126491289092097-10-1443280792 - Holdem no limit (15/30) - 2015/09/26 15:19:52 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 1: -Tabouret- (1558)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (3065)
+Seat 6: Marty 25 (1515)
+Seat 7: sabre_laser (1307)
+Seat 9: .Roxon. (1455)
+Seat 10: JeBluffMec (1470)
+*** ANTE/BLINDS ***
+JeBluffMec posts small blind 15
+-Tabouret- posts big blind 30
+Dealt to sabre_laser [9h 9s]
+*** PRE-FLOP *** 
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser raises 45 to 75
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- raises 45 to 120
+sabre_laser calls 45
+*** FLOP *** [Qh Qs 8d]
+-Tabouret- checks
+sabre_laser checks
+*** TURN *** [Qh Qs 8d][9d]
+-Tabouret- checks
+sabre_laser checks
+*** RIVER *** [Qh Qs 8d 9d][Qc]
+-Tabouret- bets 1438 and is all-in
+sabre_laser calls 1187 and is all-in
+*** SHOW DOWN ***
+sabre_laser shows [9h 9s] (Full of Queens and 9)
+-Tabouret- shows [Ac 3c] (Trips of Queens)
+-Tabouret- collected 251 from side pot 1
+sabre_laser collected 2629 from main pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [Qh Qs 8d 9d Qc]
+Seat 1: -Tabouret- (big blind) showed [Ac 3c] and won 251 with Trips of Queens
+Seat 7: sabre_laser showed [9h 9s] and won 2629 with Full of Queens and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567126491289092097-11-1443280878 - Holdem no limit (15/30) - 2015/09/26 15:21:18 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 1: -Tabouret- (251)
+Seat 2: OnetheBeach (1530)
+Seat 3: illuminano (1410)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (3065)
+Seat 6: Marty 25 (1515)
+Seat 7: sabre_laser (2629)
+Seat 9: .Roxon. (1455)
+Seat 10: JeBluffMec (1455)
+*** ANTE/BLINDS ***
+-Tabouret- posts small blind 15
+OnetheBeach posts big blind 30
+Dealt to sabre_laser [Kh 9c]
+*** PRE-FLOP *** 
+illuminano raises 45 to 75
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+-Tabouret- raises 176 to 251 and is all-in
+OnetheBeach folds
+illuminano calls 176
+*** FLOP *** [5h Ks 6d]
+*** TURN *** [5h Ks 6d][8c]
+*** RIVER *** [5h Ks 6d 8c][Td]
+*** SHOW DOWN ***
+-Tabouret- shows [As 3s] (High card : Ace)
+illuminano shows [Ts Tc] (Trips of Tens)
+illuminano collected 532 from pot
+*** SUMMARY ***
+Total pot 532 | No rake
+Board: [5h Ks 6d 8c Td]
+Seat 1: -Tabouret- (small blind) showed [As 3s] and lost with High card : Ace
+Seat 3: illuminano showed [Ts Tc] and won 532 with Trips of Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567126491289092097-12-1443280922 - Holdem no limit (20/40) - 2015/09/26 15:22:02 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #1 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1691)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (3065)
+Seat 6: Marty 25 (1515)
+Seat 7: sabre_laser (2629)
+Seat 9: .Roxon. (1455)
+Seat 10: JeBluffMec (1455)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 20
+illuminano posts big blind 40
+Dealt to sabre_laser [4d 7c]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. raises 80 to 120
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+.Roxon. collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: .Roxon. won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567126491289092097-13-1443280958 - Holdem no limit (20/40) - 2015/09/26 15:22:38 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (1480)
+Seat 3: illuminano (1651)
+Seat 4: liptowin (1690)
+Seat 5: Rigged_a_max (3065)
+Seat 6: Marty 25 (1515)
+Seat 7: sabre_laser (2629)
+Seat 9: .Roxon. (1515)
+Seat 10: JeBluffMec (1455)
+*** ANTE/BLINDS ***
+illuminano posts small blind 20
+liptowin posts big blind 40
+Dealt to sabre_laser [8s 7d]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+Marty 25 calls 40
+sabre_laser folds
+.Roxon. folds
+JeBluffMec raises 80 to 120
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Marty 25 calls 80
+*** FLOP *** [Kh 4d 7c]
+Marty 25 checks
+JeBluffMec bets 300
+Marty 25 folds
+JeBluffMec collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kh 4d 7c]
+Seat 10: JeBluffMec won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567126491289092097-14-1443281052 - Holdem no limit (20/40) - 2015/09/26 15:24:12 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 2: OnetheBeach (1480)
+Seat 3: illuminano (1631)
+Seat 4: liptowin (1650)
+Seat 5: Rigged_a_max (3065)
+Seat 6: Marty 25 (1395)
+Seat 7: sabre_laser (2629)
+Seat 9: .Roxon. (1515)
+Seat 10: JeBluffMec (1635)
+*** ANTE/BLINDS ***
+liptowin posts small blind 20
+Rigged_a_max posts big blind 40
+Dealt to sabre_laser [5d 4s]
+*** PRE-FLOP *** 
+Marty 25 raises 40 to 80
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano calls 80
+liptowin folds
+Rigged_a_max folds
+*** FLOP *** [7s Kc 3c]
+Marty 25 checks
+illuminano bets 110
+Marty 25 folds
+illuminano collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [7s Kc 3c]
+Seat 3: illuminano (button) won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567126491289092097-15-1443281137 - Holdem no limit (20/40) - 2015/09/26 15:25:37 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 2: OnetheBeach (1480)
+Seat 3: illuminano (1771)
+Seat 4: liptowin (1630)
+Seat 5: Rigged_a_max (3025)
+Seat 6: Marty 25 (1315)
+Seat 7: sabre_laser (2629)
+Seat 9: .Roxon. (1515)
+Seat 10: JeBluffMec (1635)
+*** ANTE/BLINDS ***
+Rigged_a_max posts small blind 20
+Marty 25 posts big blind 40
+Dealt to sabre_laser [5h 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 shows [Ah Kc] (High card : Ace)
+Marty 25 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Marty 25 (big blind) showed [Ah Kc] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567126491289092097-16-1443281189 - Holdem no limit (20/40) - 2015/09/26 15:26:29 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 2: OnetheBeach (1480)
+Seat 3: illuminano (1771)
+Seat 4: liptowin (1630)
+Seat 5: Rigged_a_max (3005)
+Seat 6: Marty 25 (1335)
+Seat 7: sabre_laser (2629)
+Seat 9: .Roxon. (1515)
+Seat 10: JeBluffMec (1635)
+*** ANTE/BLINDS ***
+Marty 25 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [8h 5d]
+*** PRE-FLOP *** 
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 raises 40 to 80
+sabre_laser folds
+Marty 25 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: Marty 25 (small blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567126491289092097-17-1443281232 - Holdem no limit (20/40) - 2015/09/26 15:27:12 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #6 is the button
+Seat 2: OnetheBeach (1480)
+Seat 3: illuminano (1771)
+Seat 4: liptowin (1630)
+Seat 5: Rigged_a_max (3005)
+Seat 6: Marty 25 (1375)
+Seat 7: sabre_laser (2589)
+Seat 9: .Roxon. (1515)
+Seat 10: JeBluffMec (1635)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+.Roxon. posts big blind 40
+Dealt to sabre_laser [8h 2d]
+*** PRE-FLOP *** 
+JeBluffMec raises 40 to 80
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 10: JeBluffMec won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567126491289092097-18-1443281260 - Holdem no limit (30/60) - 2015/09/26 15:27:40 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 2: OnetheBeach (1480)
+Seat 3: illuminano (1771)
+Seat 4: liptowin (1630)
+Seat 5: Rigged_a_max (3005)
+Seat 6: Marty 25 (1375)
+Seat 7: sabre_laser (2569)
+Seat 9: .Roxon. (1475)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 30
+JeBluffMec posts big blind 60
+Dealt to sabre_laser [5d 4h]
+*** PRE-FLOP *** 
+OnetheBeach calls 60
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 calls 60
+sabre_laser folds
+.Roxon. folds
+JeBluffMec checks
+*** FLOP *** [9s Ks Js]
+JeBluffMec checks
+OnetheBeach checks
+Marty 25 checks
+*** TURN *** [9s Ks Js][8h]
+JeBluffMec checks
+OnetheBeach checks
+Marty 25 checks
+*** RIVER *** [9s Ks Js 8h][7d]
+JeBluffMec checks
+OnetheBeach checks
+Marty 25 checks
+*** SHOW DOWN ***
+OnetheBeach shows [5s 5h] (One pair : 5)
+Marty 25 shows [3s 3d] (One pair : 3)
+JeBluffMec shows [6h 6c] (One pair : 6)
+JeBluffMec collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [9s Ks Js 8h 7d]
+Seat 2: OnetheBeach showed [5s 5h] and lost with One pair : 5
+Seat 6: Marty 25 showed [3s 3d] and lost with One pair : 3
+Seat 10: JeBluffMec (big blind) showed [6h 6c] and won 210 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567126491289092097-19-1443281333 - Holdem no limit (30/60) - 2015/09/26 15:28:53 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 2: OnetheBeach (1420)
+Seat 3: illuminano (1771)
+Seat 4: liptowin (1630)
+Seat 5: Rigged_a_max (3005)
+Seat 6: Marty 25 (1315)
+Seat 7: sabre_laser (2569)
+Seat 9: .Roxon. (1445)
+Seat 10: JeBluffMec (1845)
+*** ANTE/BLINDS ***
+JeBluffMec posts small blind 30
+OnetheBeach posts big blind 60
+Dealt to sabre_laser [9h 4c]
+*** PRE-FLOP *** 
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: OnetheBeach (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567126491289092097-20-1443281347 - Holdem no limit (30/60) - 2015/09/26 15:29:07 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 2: OnetheBeach (1450)
+Seat 3: illuminano (1771)
+Seat 4: liptowin (1630)
+Seat 5: Rigged_a_max (3005)
+Seat 6: Marty 25 (1315)
+Seat 7: sabre_laser (2569)
+Seat 9: .Roxon. (1445)
+Seat 10: JeBluffMec (1815)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 30
+illuminano posts big blind 60
+Dealt to sabre_laser [4c 4s]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max raises 2945 to 3005 and is all-in
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+Rigged_a_max collected 3095 from pot
+*** SUMMARY ***
+Total pot 3095 | No rake
+Seat 5: Rigged_a_max won 3095
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567126491289092097-21-1443281368 - Holdem no limit (30/60) - 2015/09/26 15:29:28 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (1420)
+Seat 3: illuminano (1711)
+Seat 4: liptowin (1630)
+Seat 5: Rigged_a_max (3095)
+Seat 6: Marty 25 (1315)
+Seat 7: sabre_laser (2569)
+Seat 9: .Roxon. (1445)
+Seat 10: JeBluffMec (1815)
+*** ANTE/BLINDS ***
+illuminano posts small blind 30
+liptowin posts big blind 60
+Dealt to sabre_laser [Jc Th]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser raises 120 to 180
+.Roxon. calls 180
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+*** FLOP *** [2s 6c 8d]
+sabre_laser bets 225
+.Roxon. folds
+sabre_laser collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Board: [2s 6c 8d]
+Seat 7: sabre_laser won 675
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567126491289092097-22-1443281427 - Holdem no limit (30/60) - 2015/09/26 15:30:27 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 2: OnetheBeach (1420)
+Seat 3: illuminano (1681)
+Seat 4: liptowin (1570)
+Seat 5: Rigged_a_max (3095)
+Seat 6: Marty 25 (1315)
+Seat 7: sabre_laser (2839)
+Seat 9: .Roxon. (1265)
+Seat 10: JeBluffMec (1815)
+*** ANTE/BLINDS ***
+liptowin posts small blind 30
+Rigged_a_max posts big blind 60
+Dealt to sabre_laser [As Jc]
+*** PRE-FLOP *** 
+Marty 25 folds
+sabre_laser raises 120 to 180
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin calls 150
+Rigged_a_max folds
+*** FLOP *** [3c 5c 8d]
+liptowin checks
+sabre_laser checks
+*** TURN *** [3c 5c 8d][8s]
+liptowin bets 60
+sabre_laser calls 60
+*** RIVER *** [3c 5c 8d 8s][Js]
+liptowin checks
+sabre_laser checks
+*** SHOW DOWN ***
+liptowin shows [Kc Qh] (One pair : 8)
+sabre_laser shows [As Jc] (Two pairs : Jacks and 8)
+sabre_laser collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3c 5c 8d 8s Js]
+Seat 4: liptowin (small blind) showed [Kc Qh] and lost with One pair : 8
+Seat 7: sabre_laser showed [As Jc] and won 540 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567126491289092097-23-1443281500 - Holdem no limit (30/60) - 2015/09/26 15:31:40 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 2: OnetheBeach (1420)
+Seat 3: illuminano (1681)
+Seat 4: liptowin (1330)
+Seat 5: Rigged_a_max (3035)
+Seat 6: Marty 25 (1315)
+Seat 7: sabre_laser (3139)
+Seat 9: .Roxon. (1265)
+Seat 10: JeBluffMec (1815)
+*** ANTE/BLINDS ***
+Rigged_a_max posts small blind 30
+Marty 25 posts big blind 60
+Dealt to sabre_laser [7h 7c]
+*** PRE-FLOP *** 
+sabre_laser calls 60
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano calls 60
+liptowin folds
+Rigged_a_max folds
+Marty 25 checks
+*** FLOP *** [6d 2d 4h]
+Marty 25 checks
+sabre_laser bets 140
+illuminano calls 140
+Marty 25 folds
+*** TURN *** [6d 2d 4h][7d]
+sabre_laser bets 210
+illuminano folds
+sabre_laser collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [6d 2d 4h 7d]
+Seat 7: sabre_laser won 700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567126491289092097-24-1443281575 - Holdem no limit (30/60) - 2015/09/26 15:32:55 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 2: OnetheBeach (1420)
+Seat 3: illuminano (1481)
+Seat 4: liptowin (1330)
+Seat 5: Rigged_a_max (3005)
+Seat 6: Marty 25 (1255)
+Seat 7: sabre_laser (3429)
+Seat 9: .Roxon. (1265)
+Seat 10: JeBluffMec (1815)
+*** ANTE/BLINDS ***
+Marty 25 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Qh 8s]
+*** PRE-FLOP *** 
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano raises 90 to 150
+liptowin folds
+Rigged_a_max calls 150
+Marty 25 folds
+sabre_laser folds
+*** FLOP *** [6s Qd Ah]
+illuminano checks
+Rigged_a_max checks
+*** TURN *** [6s Qd Ah][Qs]
+illuminano bets 293
+Rigged_a_max folds
+illuminano collected 683 from pot
+*** SUMMARY ***
+Total pot 683 | No rake
+Board: [6s Qd Ah Qs]
+Seat 3: illuminano won 683
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-25-1443281621 - Holdem no limit (40/80) - 2015/09/26 15:33:41 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #6 is the button
+Seat 2: OnetheBeach (1420)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1330)
+Seat 5: Rigged_a_max (2855)
+Seat 6: Marty 25 (1225)
+Seat 7: sabre_laser (3369)
+Seat 9: .Roxon. (1265)
+Seat 10: JeBluffMec (1815)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+.Roxon. posts big blind 80
+Dealt to sabre_laser [3s Ts]
+*** PRE-FLOP *** 
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin raises 1250 to 1330 and is all-in
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+liptowin collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 4: liptowin won 1450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-26-1443281651 - Holdem no limit (40/80) - 2015/09/26 15:34:11 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 2: OnetheBeach (1420)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2855)
+Seat 6: Marty 25 (1225)
+Seat 7: sabre_laser (3329)
+Seat 9: .Roxon. (1185)
+Seat 10: JeBluffMec (1815)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 40
+JeBluffMec posts big blind 80
+Dealt to sabre_laser [5c 9s]
+*** PRE-FLOP *** 
+OnetheBeach raises 120 to 200
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 calls 200
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+*** FLOP *** [3h 8c 8h]
+OnetheBeach bets 240
+Marty 25 calls 240
+*** TURN *** [3h 8c 8h][3d]
+OnetheBeach bets 980 and is all-in
+Marty 25 calls 785 and is all-in
+*** RIVER *** [3h 8c 8h 3d][7c]
+*** SHOW DOWN ***
+Marty 25 shows [Kh As] (Two pairs : 8 and 3)
+OnetheBeach shows [Qc Ac] (Two pairs : 8 and 3)
+OnetheBeach collected 1480 from side pot 1
+Marty 25 collected 1285 from main pot
+*** SUMMARY ***
+Total pot 2765 | No rake
+Board: [3h 8c 8h 3d 7c]
+Seat 2: OnetheBeach showed [Qc Ac] and won 1480 with Two pairs : 8 and 3
+Seat 6: Marty 25 showed [Kh As] and won 1285 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-27-1443281724 - Holdem no limit (40/80) - 2015/09/26 15:35:24 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 2: OnetheBeach (1480)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2855)
+Seat 6: Marty 25 (1285)
+Seat 7: sabre_laser (3329)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1735)
+*** ANTE/BLINDS ***
+JeBluffMec posts small blind 40
+OnetheBeach posts big blind 80
+Dealt to sabre_laser [2d 2s]
+*** PRE-FLOP *** 
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser raises 80 to 160
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach calls 80
+*** FLOP *** [7s Qs 7d]
+OnetheBeach checks
+sabre_laser checks
+*** TURN *** [7s Qs 7d][4s]
+OnetheBeach checks
+sabre_laser bets 360
+OnetheBeach folds
+sabre_laser collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [7s Qs 7d 4s]
+Seat 7: sabre_laser won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-28-1443281774 - Holdem no limit (40/80) - 2015/09/26 15:36:14 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 2: OnetheBeach (1320)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2855)
+Seat 6: Marty 25 (1285)
+Seat 7: sabre_laser (3529)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 40
+illuminano posts big blind 80
+Dealt to sabre_laser [2h 6d]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: illuminano (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-29-1443281805 - Holdem no limit (40/80) - 2015/09/26 15:36:45 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (1280)
+Seat 3: illuminano (1761)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2855)
+Seat 6: Marty 25 (1285)
+Seat 7: sabre_laser (3529)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+illuminano posts small blind 40
+liptowin posts big blind 80
+Dealt to sabre_laser [6d 7s]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: liptowin (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-30-1443281834 - Holdem no limit (40/80) - 2015/09/26 15:37:14 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 2: OnetheBeach (1280)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1490)
+Seat 5: Rigged_a_max (2855)
+Seat 6: Marty 25 (1285)
+Seat 7: sabre_laser (3529)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+liptowin posts small blind 40
+Rigged_a_max posts big blind 80
+Dealt to sabre_laser [Ad Qh]
+*** PRE-FLOP *** 
+Marty 25 folds
+sabre_laser raises 120 to 200
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+sabre_laser collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 7: sabre_laser won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-31-1443281863 - Holdem no limit (40/80) - 2015/09/26 15:37:43 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 2: OnetheBeach (1280)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2775)
+Seat 6: Marty 25 (1285)
+Seat 7: sabre_laser (3649)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+Rigged_a_max posts small blind 40
+Marty 25 posts big blind 80
+Dealt to sabre_laser [Qd 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 120 to 200
+illuminano folds
+liptowin folds
+Rigged_a_max calls 160
+Marty 25 folds
+*** FLOP *** [3d 6h 2d]
+Rigged_a_max checks
+OnetheBeach bets 240
+Rigged_a_max folds
+OnetheBeach collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [3d 6h 2d]
+Seat 2: OnetheBeach won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-32-1443281901 - Holdem no limit (40/80) - 2015/09/26 15:38:21 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 2: OnetheBeach (1560)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2575)
+Seat 6: Marty 25 (1205)
+Seat 7: sabre_laser (3649)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+Marty 25 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Th 6d]
+*** PRE-FLOP *** 
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max raises 239 to 319
+Marty 25 folds
+sabre_laser folds
+Rigged_a_max collected 439 from pot
+*** SUMMARY ***
+Total pot 439 | No rake
+Seat 5: Rigged_a_max (button) won 439
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-33-1443281934 - Holdem no limit (40/80) - 2015/09/26 15:38:54 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #6 is the button
+Seat 2: OnetheBeach (1560)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2695)
+Seat 6: Marty 25 (1165)
+Seat 7: sabre_laser (3569)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+.Roxon. posts big blind 80
+Dealt to sabre_laser [Th 5h]
+*** PRE-FLOP *** 
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 9: .Roxon. (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567126491289092097-34-1443281966 - Holdem no limit (40/80) - 2015/09/26 15:39:26 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 2: OnetheBeach (1560)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2695)
+Seat 6: Marty 25 (1165)
+Seat 7: sabre_laser (3529)
+Seat 9: .Roxon. (1185)
+Seat 10: JeBluffMec (1695)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 40
+JeBluffMec posts big blind 80
+Dealt to sabre_laser [8d 8c]
+*** PRE-FLOP *** 
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max raises 80 to 160
+Marty 25 folds
+sabre_laser calls 160
+.Roxon. folds
+JeBluffMec folds
+*** FLOP *** [Ac 2h Ad]
+Rigged_a_max bets 176
+sabre_laser folds
+Rigged_a_max collected 616 from pot
+*** SUMMARY ***
+Total pot 616 | No rake
+Board: [Ac 2h Ad]
+Seat 5: Rigged_a_max won 616
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-35-1443282017 - Holdem no limit (60/120) - 2015/09/26 15:40:17 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 2: OnetheBeach (1560)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2975)
+Seat 6: Marty 25 (1165)
+Seat 7: sabre_laser (3369)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+JeBluffMec posts small blind 60
+OnetheBeach posts big blind 120
+Dealt to sabre_laser [6c 3s]
+*** PRE-FLOP *** 
+illuminano raises 300 to 420
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: illuminano won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-36-1443282031 - Holdem no limit (60/120) - 2015/09/26 15:40:31 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 2: OnetheBeach (1440)
+Seat 3: illuminano (1901)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2975)
+Seat 6: Marty 25 (1165)
+Seat 7: sabre_laser (3369)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1555)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 60
+illuminano posts big blind 120
+Dealt to sabre_laser [7d 3c]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: illuminano (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-37-1443282054 - Holdem no limit (60/120) - 2015/09/26 15:40:54 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (1380)
+Seat 3: illuminano (1961)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2975)
+Seat 6: Marty 25 (1165)
+Seat 7: sabre_laser (3369)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1555)
+*** ANTE/BLINDS ***
+illuminano posts small blind 60
+liptowin posts big blind 120
+Dealt to sabre_laser [4c 3s]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+Marty 25 calls 120
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano calls 60
+liptowin checks
+*** FLOP *** [8h Jc Js]
+illuminano checks
+liptowin checks
+Marty 25 checks
+*** TURN *** [8h Jc Js][Ad]
+illuminano checks
+liptowin checks
+Marty 25 checks
+*** RIVER *** [8h Jc Js Ad][8s]
+illuminano checks
+liptowin checks
+Marty 25 checks
+*** SHOW DOWN ***
+illuminano shows [5h 6d] (Two pairs : Jacks and 8)
+liptowin shows [2s Qc] (Two pairs : Jacks and 8)
+Marty 25 shows [Qh Kh] (Two pairs : Jacks and 8)
+Marty 25 collected 120 from pot
+liptowin collected 120 from pot
+illuminano collected 120 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8h Jc Js Ad 8s]
+Seat 3: illuminano (small blind) showed [5h 6d] and won 120 with Two pairs : Jacks and 8
+Seat 4: liptowin (big blind) showed [2s Qc] and won 120 with Two pairs : Jacks and 8
+Seat 6: Marty 25 showed [Qh Kh] and won 120 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-38-1443282098 - Holdem no limit (60/120) - 2015/09/26 15:41:38 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 2: OnetheBeach (1380)
+Seat 3: illuminano (1961)
+Seat 4: liptowin (1450)
+Seat 5: Rigged_a_max (2975)
+Seat 6: Marty 25 (1165)
+Seat 7: sabre_laser (3369)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1555)
+*** ANTE/BLINDS ***
+liptowin posts small blind 60
+Rigged_a_max posts big blind 120
+Dealt to sabre_laser [Ts 3d]
+*** PRE-FLOP *** 
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 120 to 240
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+OnetheBeach collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: OnetheBeach won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-39-1443282121 - Holdem no limit (60/120) - 2015/09/26 15:42:01 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 2: OnetheBeach (1560)
+Seat 3: illuminano (1961)
+Seat 4: liptowin (1390)
+Seat 5: Rigged_a_max (2855)
+Seat 6: Marty 25 (1165)
+Seat 7: sabre_laser (3369)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1555)
+*** ANTE/BLINDS ***
+Rigged_a_max posts small blind 60
+Marty 25 posts big blind 120
+Dealt to sabre_laser [5h Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano raises 240 to 360
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+illuminano collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 3: illuminano won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-40-1443282143 - Holdem no limit (60/120) - 2015/09/26 15:42:23 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 2: OnetheBeach (1560)
+Seat 3: illuminano (2141)
+Seat 4: liptowin (1390)
+Seat 5: Rigged_a_max (2795)
+Seat 6: Marty 25 (1045)
+Seat 7: sabre_laser (3369)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1555)
+*** ANTE/BLINDS ***
+Marty 25 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3c 3s]
+*** PRE-FLOP *** 
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 120 to 240
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser calls 120
+*** FLOP *** [3h Th Kh]
+sabre_laser bets 3129 and is all-in
+OnetheBeach folds
+sabre_laser collected 3669 from pot
+*** SUMMARY ***
+Total pot 3669 | No rake
+Board: [3h Th Kh]
+Seat 7: sabre_laser (big blind) won 3669
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-41-1443282174 - Holdem no limit (60/120) - 2015/09/26 15:42:54 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #6 is the button
+Seat 2: OnetheBeach (1320)
+Seat 3: illuminano (2141)
+Seat 4: liptowin (1390)
+Seat 5: Rigged_a_max (2795)
+Seat 6: Marty 25 (985)
+Seat 7: sabre_laser (3669)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1555)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+.Roxon. posts big blind 120
+Dealt to sabre_laser [3c 8h]
+*** PRE-FLOP *** 
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: .Roxon. (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-42-1443282196 - Holdem no limit (60/120) - 2015/09/26 15:43:16 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 2: OnetheBeach (1320)
+Seat 3: illuminano (2141)
+Seat 4: liptowin (1390)
+Seat 5: Rigged_a_max (2795)
+Seat 6: Marty 25 (985)
+Seat 7: sabre_laser (3609)
+Seat 9: .Roxon. (1205)
+Seat 10: JeBluffMec (1555)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 60
+JeBluffMec posts big blind 120
+Dealt to sabre_laser [4s Tc]
+*** PRE-FLOP *** 
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max raises 120 to 240
+Marty 25 calls 240
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+*** FLOP *** [Jd 4d 7d]
+Rigged_a_max checks
+Marty 25 bets 745 and is all-in
+Rigged_a_max folds
+Marty 25 collected 1405 from pot
+*** SUMMARY ***
+Total pot 1405 | No rake
+Board: [Jd 4d 7d]
+Seat 6: Marty 25 won 1405
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-43-1443282237 - Holdem no limit (60/120) - 2015/09/26 15:43:57 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 2: OnetheBeach (1320)
+Seat 3: illuminano (2141)
+Seat 4: liptowin (1390)
+Seat 5: Rigged_a_max (2555)
+Seat 6: Marty 25 (1405)
+Seat 7: sabre_laser (3609)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1435)
+*** ANTE/BLINDS ***
+JeBluffMec posts small blind 60
+OnetheBeach posts big blind 120
+Dealt to sabre_laser [Kc 7d]
+*** PRE-FLOP *** 
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: OnetheBeach (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-44-1443282254 - Holdem no limit (60/120) - 2015/09/26 15:44:14 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 2: OnetheBeach (1380)
+Seat 3: illuminano (2141)
+Seat 4: liptowin (1390)
+Seat 5: Rigged_a_max (2555)
+Seat 6: Marty 25 (1405)
+Seat 7: sabre_laser (3609)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1375)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 60
+illuminano posts big blind 120
+Dealt to sabre_laser [Td Kh]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max folds
+Marty 25 folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 180 to 300
+illuminano folds
+OnetheBeach collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: OnetheBeach (small blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567126491289092097-45-1443282291 - Holdem no limit (60/120) - 2015/09/26 15:44:51 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (2021)
+Seat 4: liptowin (1390)
+Seat 5: Rigged_a_max (2555)
+Seat 6: Marty 25 (1405)
+Seat 7: sabre_laser (3609)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1375)
+*** ANTE/BLINDS ***
+illuminano posts small blind 60
+liptowin posts big blind 120
+Dealt to sabre_laser [Qc Qs]
+*** PRE-FLOP *** 
+Rigged_a_max calls 120
+Marty 25 raises 360 to 480
+sabre_laser raises 3129 to 3609 and is all-in
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+Marty 25 calls 925 and is all-in
+*** FLOP *** [2c 6d 8d]
+*** TURN *** [2c 6d 8d][5s]
+*** RIVER *** [2c 6d 8d 5s][6s]
+*** SHOW DOWN ***
+Marty 25 shows [Kc Ac] (One pair : 6)
+sabre_laser shows [Qc Qs] (Two pairs : Queens and 6)
+sabre_laser collected 5314 from pot
+*** SUMMARY ***
+Total pot 5314 | No rake
+Board: [2c 6d 8d 5s 6s]
+Seat 6: Marty 25 showed [Kc Ac] and lost with One pair : 6
+Seat 7: sabre_laser showed [Qc Qs] and won 5314 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-46-1443282357 - Holdem no limit (80/160) - 2015/09/26 15:45:57 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1961)
+Seat 4: liptowin (1270)
+Seat 5: Rigged_a_max (2435)
+Seat 7: sabre_laser (5314)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1375)
+*** ANTE/BLINDS ***
+liptowin posts small blind 80
+Rigged_a_max posts big blind 160
+Dealt to sabre_laser [4d Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano raises 320 to 480
+liptowin raises 790 to 1270 and is all-in
+Rigged_a_max folds
+illuminano folds
+liptowin collected 1910 from pot
+*** SUMMARY ***
+Total pot 1910 | No rake
+Seat 4: liptowin (small blind) won 1910
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-47-1443282387 - Holdem no limit (80/160) - 2015/09/26 15:46:27 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1481)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (2275)
+Seat 7: sabre_laser (5314)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1375)
+*** ANTE/BLINDS ***
+Rigged_a_max posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Jd 8s]
+*** PRE-FLOP *** 
+.Roxon. raises 985 to 1145 and is all-in
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. collected 1385 from pot
+*** SUMMARY ***
+Total pot 1385 | No rake
+Seat 9: .Roxon. won 1385
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-48-1443282424 - Holdem no limit (80/160) - 2015/09/26 15:47:04 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1481)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (2195)
+Seat 7: sabre_laser (5154)
+Seat 9: .Roxon. (1385)
+Seat 10: JeBluffMec (1375)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+.Roxon. posts big blind 160
+Dealt to sabre_laser [8h 7s]
+*** PRE-FLOP *** 
+JeBluffMec raises 320 to 480
+OnetheBeach folds
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 10: JeBluffMec won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-49-1443282445 - Holdem no limit (80/160) - 2015/09/26 15:47:25 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1481)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (2195)
+Seat 7: sabre_laser (5074)
+Seat 9: .Roxon. (1225)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 80
+JeBluffMec posts big blind 160
+Dealt to sabre_laser [9s 7c]
+*** PRE-FLOP *** 
+OnetheBeach folds
+illuminano raises 1321 to 1481 and is all-in
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+illuminano collected 1721 from pot
+*** SUMMARY ***
+Total pot 1721 | No rake
+Seat 3: illuminano won 1721
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-50-1443282460 - Holdem no limit (80/160) - 2015/09/26 15:47:40 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (2195)
+Seat 7: sabre_laser (5074)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1455)
+*** ANTE/BLINDS ***
+JeBluffMec posts small blind 80
+OnetheBeach posts big blind 160
+Dealt to sabre_laser [7d Jh]
+*** PRE-FLOP *** 
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec raises 320 to 480
+OnetheBeach folds
+JeBluffMec collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 10: JeBluffMec (small blind) won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-51-1443282484 - Holdem no limit (80/160) - 2015/09/26 15:48:04 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 2: OnetheBeach (1340)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (2195)
+Seat 7: sabre_laser (5074)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 80
+illuminano posts big blind 160
+Dealt to sabre_laser [6d 9s]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 1180 to 1340 and is all-in
+illuminano folds
+OnetheBeach collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 2: OnetheBeach (small blind) won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-52-1443282511 - Holdem no limit (80/160) - 2015/09/26 15:48:31 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1561)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (2195)
+Seat 7: sabre_laser (5074)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+illuminano posts small blind 80
+liptowin posts big blind 160
+Dealt to sabre_laser [2s 5d]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: liptowin (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-53-1443282552 - Holdem no limit (80/160) - 2015/09/26 15:49:12 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (1481)
+Seat 4: liptowin (1990)
+Seat 5: Rigged_a_max (2195)
+Seat 7: sabre_laser (5074)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+liptowin posts small blind 80
+Rigged_a_max posts big blind 160
+Dealt to sabre_laser [Ts 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 1340 to 1500 and is all-in
+illuminano folds
+liptowin folds
+Rigged_a_max folds
+OnetheBeach collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 2: OnetheBeach won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-54-1443282595 - Holdem no limit (80/160) - 2015/09/26 15:49:55 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 2: OnetheBeach (1740)
+Seat 3: illuminano (1481)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (2035)
+Seat 7: sabre_laser (5074)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+Rigged_a_max posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [2c 8h]
+*** PRE-FLOP *** 
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano raises 320 to 480
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+illuminano collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 3: illuminano won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-55-1443282623 - Holdem no limit (80/160) - 2015/09/26 15:50:23 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 2: OnetheBeach (1740)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (1910)
+Seat 5: Rigged_a_max (1955)
+Seat 7: sabre_laser (4914)
+Seat 9: .Roxon. (1145)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+.Roxon. posts big blind 160
+Dealt to sabre_laser [2s 6c]
+*** PRE-FLOP *** 
+JeBluffMec folds
+OnetheBeach folds
+illuminano folds
+liptowin raises 1750 to 1910 and is all-in
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. calls 985 and is all-in
+*** FLOP *** [5s Kh Ah]
+*** TURN *** [5s Kh Ah][Ts]
+*** RIVER *** [5s Kh Ah Ts][Jc]
+*** SHOW DOWN ***
+.Roxon. shows [Ad As] (Trips of Aces)
+liptowin shows [Jh Jd] (Trips of Jacks)
+liptowin collected 765 from side pot 1
+.Roxon. collected 2370 from main pot
+*** SUMMARY ***
+Total pot 3135 | No rake
+Board: [5s Kh Ah Ts Jc]
+Seat 4: liptowin showed [Jh Jd] and won 765 with Trips of Jacks
+Seat 9: .Roxon. (big blind) showed [Ad As] and won 2370 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-56-1443282652 - Holdem no limit (80/160) - 2015/09/26 15:50:52 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 2: OnetheBeach (1740)
+Seat 3: illuminano (1721)
+Seat 4: liptowin (765)
+Seat 5: Rigged_a_max (1955)
+Seat 7: sabre_laser (4834)
+Seat 9: .Roxon. (2370)
+Seat 10: JeBluffMec (1615)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 80
+JeBluffMec posts big blind 160
+Dealt to sabre_laser [Jh 8h]
+*** PRE-FLOP *** 
+OnetheBeach folds
+illuminano raises 320 to 480
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec raises 1135 to 1615 and is all-in
+illuminano raises 106 to 1721 and is all-in
+*** FLOP *** [Jd 5s Ac]
+*** TURN *** [Jd 5s Ac][9c]
+*** RIVER *** [Jd 5s Ac 9c][8c]
+*** SHOW DOWN ***
+JeBluffMec shows [Qc Qs] (One pair : Queens)
+illuminano shows [6h 6s] (One pair : 6)
+illuminano collected 106 from side pot 1
+JeBluffMec collected 3310 from main pot
+*** SUMMARY ***
+Total pot 3416 | No rake
+Board: [Jd 5s Ac 9c 8c]
+Seat 3: illuminano showed [6h 6s] and won 106 with One pair : 6
+Seat 10: JeBluffMec (big blind) showed [Qc Qs] and won 3310 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-57-1443282681 - Holdem no limit (80/160) - 2015/09/26 15:51:21 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 2: OnetheBeach (1740)
+Seat 3: illuminano (106)
+Seat 4: liptowin (765)
+Seat 5: Rigged_a_max (1955)
+Seat 7: sabre_laser (4834)
+Seat 9: .Roxon. (2290)
+Seat 10: JeBluffMec (3310)
+*** ANTE/BLINDS ***
+JeBluffMec posts small blind 80
+OnetheBeach posts big blind 160
+Dealt to sabre_laser [8h Qh]
+*** PRE-FLOP *** 
+illuminano folds
+liptowin raises 605 to 765 and is all-in
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+liptowin collected 1005 from pot
+*** SUMMARY ***
+Total pot 1005 | No rake
+Seat 4: liptowin won 1005
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567126491289092097-58-1443282693 - Holdem no limit (80/160) - 2015/09/26 15:51:33 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 2: OnetheBeach (1580)
+Seat 3: illuminano (106)
+Seat 4: liptowin (1005)
+Seat 5: Rigged_a_max (1955)
+Seat 7: sabre_laser (4834)
+Seat 9: .Roxon. (2290)
+Seat 10: JeBluffMec (3230)
+*** ANTE/BLINDS ***
+OnetheBeach posts small blind 80
+illuminano posts big blind 106 and is all-in
+Dealt to sabre_laser [Js 6s]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec raises 214 to 320
+OnetheBeach folds
+*** FLOP *** [Kh 6h 2d]
+*** TURN *** [Kh 6h 2d][9s]
+*** RIVER *** [Kh 6h 2d 9s][3d]
+*** SHOW DOWN ***
+illuminano shows [6d Kc] (Two pairs : Kings and 6)
+JeBluffMec shows [Ac 2c] (One pair : 2)
+JeBluffMec collected 214 from side pot 1
+illuminano collected 292 from main pot
+*** SUMMARY ***
+Total pot 506 | No rake
+Board: [Kh 6h 2d 9s 3d]
+Seat 3: illuminano (big blind) showed [6d Kc] and won 292 with Two pairs : Kings and 6
+Seat 10: JeBluffMec (button) showed [Ac 2c] and won 214 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-59-1443282719 - Holdem no limit (10/100/200) - 2015/09/26 15:51:59 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (1500)
+Seat 3: illuminano (292)
+Seat 4: liptowin (1005)
+Seat 5: Rigged_a_max (1955)
+Seat 7: sabre_laser (4834)
+Seat 9: .Roxon. (2290)
+Seat 10: JeBluffMec (3124)
+*** ANTE/BLINDS ***
+illuminano posts ante 10
+liptowin posts ante 10
+OnetheBeach posts ante 10
+Rigged_a_max posts ante 10
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+JeBluffMec posts ante 10
+illuminano posts small blind 100
+liptowin posts big blind 200
+Dealt to sabre_laser [Jc 8c]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 1290 to 1490 and is all-in
+illuminano folds
+liptowin folds
+OnetheBeach collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 2: OnetheBeach (button) won 1860
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-60-1443282740 - Holdem no limit (10/100/200) - 2015/09/26 15:52:20 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #3 is the button
+Seat 2: OnetheBeach (1860)
+Seat 3: illuminano (182)
+Seat 4: liptowin (795)
+Seat 5: Rigged_a_max (1945)
+Seat 7: sabre_laser (4824)
+Seat 9: .Roxon. (2280)
+Seat 10: JeBluffMec (3114)
+*** ANTE/BLINDS ***
+liptowin posts ante 10
+Rigged_a_max posts ante 10
+OnetheBeach posts ante 10
+illuminano posts ante 10
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+JeBluffMec posts ante 10
+liptowin posts small blind 100
+Rigged_a_max posts big blind 200
+Dealt to sabre_laser [8s Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+illuminano calls 172 and is all-in
+liptowin folds
+*** FLOP *** [8c Td 6c]
+*** TURN *** [8c Td 6c][7c]
+*** RIVER *** [8c Td 6c 7c][7s]
+*** SHOW DOWN ***
+illuminano shows [6h 5h] (Two pairs : 7 and 6)
+Rigged_a_max shows [9h 2d] (Straight Ten high)
+Rigged_a_max collected 542 from pot
+*** SUMMARY ***
+Total pot 542 | No rake
+Board: [8c Td 6c 7c 7s]
+Seat 3: illuminano (button) showed [6h 5h] and lost with Two pairs : 7 and 6
+Seat 5: Rigged_a_max (big blind) showed [9h 2d] and won 542 with Straight Ten high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-61-1443282761 - Holdem no limit (10/100/200) - 2015/09/26 15:52:41 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #4 is the button
+Seat 2: OnetheBeach (1850)
+Seat 4: liptowin (685)
+Seat 5: Rigged_a_max (2277)
+Seat 7: sabre_laser (4814)
+Seat 9: .Roxon. (2270)
+Seat 10: JeBluffMec (3104)
+*** ANTE/BLINDS ***
+Rigged_a_max posts ante 10
+sabre_laser posts ante 10
+OnetheBeach posts ante 10
+liptowin posts ante 10
+.Roxon. posts ante 10
+JeBluffMec posts ante 10
+Rigged_a_max posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [2s 4s]
+*** PRE-FLOP *** 
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+liptowin folds
+Rigged_a_max folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 7: sabre_laser (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-62-1443282771 - Holdem no limit (10/100/200) - 2015/09/26 15:52:51 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #5 is the button
+Seat 2: OnetheBeach (1840)
+Seat 4: liptowin (675)
+Seat 5: Rigged_a_max (2167)
+Seat 7: sabre_laser (4964)
+Seat 9: .Roxon. (2260)
+Seat 10: JeBluffMec (3094)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+OnetheBeach posts ante 10
+liptowin posts ante 10
+Rigged_a_max posts ante 10
+JeBluffMec posts ante 10
+sabre_laser posts small blind 100
+.Roxon. posts big blind 200
+Dealt to sabre_laser [5s Td]
+*** PRE-FLOP *** 
+JeBluffMec folds
+OnetheBeach folds
+liptowin raises 465 to 665 and is all-in
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+liptowin collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 4: liptowin won 1025
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-63-1443282796 - Holdem no limit (10/100/200) - 2015/09/26 15:53:16 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #7 is the button
+Seat 2: OnetheBeach (1830)
+Seat 4: liptowin (1025)
+Seat 5: Rigged_a_max (2157)
+Seat 7: sabre_laser (4854)
+Seat 9: .Roxon. (2050)
+Seat 10: JeBluffMec (3084)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 10
+JeBluffMec posts ante 10
+OnetheBeach posts ante 10
+liptowin posts ante 10
+Rigged_a_max posts ante 10
+sabre_laser posts ante 10
+.Roxon. posts small blind 100
+JeBluffMec posts big blind 200
+Dealt to sabre_laser [9h 4s]
+*** PRE-FLOP *** 
+OnetheBeach raises 1620 to 1820 and is all-in
+liptowin calls 1015 and is all-in
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+*** FLOP *** [3c 5s Qc]
+*** TURN *** [3c 5s Qc][Qd]
+*** RIVER *** [3c 5s Qc Qd][8s]
+*** SHOW DOWN ***
+liptowin shows [Kc Kh] (Two pairs : Kings and Queens)
+OnetheBeach shows [Td Ts] (Two pairs : Queens and Tens)
+OnetheBeach collected 805 from side pot 1
+liptowin collected 2390 from main pot
+*** SUMMARY ***
+Total pot 3195 | No rake
+Board: [3c 5s Qc Qd 8s]
+Seat 2: OnetheBeach showed [Td Ts] and won 805 with Two pairs : Queens and Tens
+Seat 4: liptowin showed [Kc Kh] and won 2390 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-64-1443282827 - Holdem no limit (10/100/200) - 2015/09/26 15:53:47 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #9 is the button
+Seat 2: OnetheBeach (805)
+Seat 4: liptowin (2390)
+Seat 5: Rigged_a_max (2147)
+Seat 7: sabre_laser (4844)
+Seat 9: .Roxon. (1940)
+Seat 10: JeBluffMec (2874)
+*** ANTE/BLINDS ***
+JeBluffMec posts ante 10
+OnetheBeach posts ante 10
+liptowin posts ante 10
+Rigged_a_max posts ante 10
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+JeBluffMec posts small blind 100
+OnetheBeach posts big blind 200
+Dealt to sabre_laser [7h 3s]
+*** PRE-FLOP *** 
+liptowin folds
+Rigged_a_max raises 1937 to 2137 and is all-in
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach folds
+Rigged_a_max collected 2497 from pot
+*** SUMMARY ***
+Total pot 2497 | No rake
+Seat 5: Rigged_a_max won 2497
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-65-1443282857 - Holdem no limit (10/100/200) - 2015/09/26 15:54:17 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #10 is the button
+Seat 2: OnetheBeach (595)
+Seat 4: liptowin (2380)
+Seat 5: Rigged_a_max (2497)
+Seat 7: sabre_laser (4834)
+Seat 9: .Roxon. (1930)
+Seat 10: JeBluffMec (2764)
+*** ANTE/BLINDS ***
+OnetheBeach posts ante 10
+liptowin posts ante 10
+Rigged_a_max posts ante 10
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+JeBluffMec posts ante 10
+OnetheBeach posts small blind 100
+liptowin posts big blind 200
+Dealt to sabre_laser [Jd 7c]
+*** PRE-FLOP *** 
+Rigged_a_max folds
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 385 to 585 and is all-in
+liptowin folds
+OnetheBeach collected 845 from pot
+*** SUMMARY ***
+Total pot 845 | No rake
+Seat 2: OnetheBeach (small blind) won 845
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #567126491289092097-66-1443282877 - Holdem no limit (10/100/200) - 2015/09/26 15:54:37 UTC
+Table: 'Double or Nothing(132044426)#0' 10-max (real money) Seat #2 is the button
+Seat 2: OnetheBeach (845)
+Seat 4: liptowin (2170)
+Seat 5: Rigged_a_max (2487)
+Seat 7: sabre_laser (4824)
+Seat 9: .Roxon. (1920)
+Seat 10: JeBluffMec (2754)
+*** ANTE/BLINDS ***
+liptowin posts ante 10
+Rigged_a_max posts ante 10
+OnetheBeach posts ante 10
+sabre_laser posts ante 10
+.Roxon. posts ante 10
+JeBluffMec posts ante 10
+liptowin posts small blind 100
+Rigged_a_max posts big blind 200
+Dealt to sabre_laser [9s 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+.Roxon. folds
+JeBluffMec folds
+OnetheBeach raises 635 to 835 and is all-in
+liptowin folds
+Rigged_a_max calls 635
+*** FLOP *** [Tc 3s 2d]
+*** TURN *** [Tc 3s 2d][Qs]
+*** RIVER *** [Tc 3s 2d Qs][7d]
+*** SHOW DOWN ***
+OnetheBeach shows [Qd Jd] (One pair : Queens)
+Rigged_a_max shows [Kd Kh] (One pair : Kings)
+Rigged_a_max collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Board: [Tc 3s 2d Qs 7d]
+Seat 2: OnetheBeach (button) showed [Qd Jd] and lost with One pair : Queens
+Seat 5: Rigged_a_max (big blind) showed [Kd Kh] and won 1830 with One pair : Kings
+
+

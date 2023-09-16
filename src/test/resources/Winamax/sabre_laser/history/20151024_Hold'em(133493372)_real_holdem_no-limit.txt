@@ -1,0 +1,2594 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #573349666972762113-54-1445678726 - Holdem no limit (25/150/300) - 2015/10/24 09:25:26 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: diAbleAS (27725)
+Seat 2: bonjour95 (5669)
+Seat 3: sabre_laser (10000)
+Seat 4: SnaP-call me (15770)
+Seat 5: gotgot49 (13261)
+Seat 6: Pim219 (27825)
+*** ANTE/BLINDS ***
+Pim219 posts ante 25
+diAbleAS posts ante 25
+bonjour95 posts ante 25
+sabre_laser posts ante 25
+SnaP-call me posts ante 25
+gotgot49 posts ante 25
+Pim219 posts small blind 150
+diAbleAS posts big blind 300
+Dealt to sabre_laser [Td 2d]
+*** PRE-FLOP *** 
+bonjour95 raises 5344 to 5644 and is all-in
+sabre_laser folds
+SnaP-call me folds
+gotgot49 folds
+Pim219 folds
+diAbleAS folds
+bonjour95 collected 6244 from pot
+*** SUMMARY ***
+Total pot 6244 | No rake
+Seat 2: bonjour95 won 6244
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-55-1445678763 - Holdem no limit (30/200/400) - 2015/10/24 09:26:03 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: diAbleAS (27400)
+Seat 2: bonjour95 (6244)
+Seat 3: sabre_laser (9975)
+Seat 4: SnaP-call me (15745)
+Seat 5: gotgot49 (13236)
+Seat 6: Pim219 (27650)
+*** ANTE/BLINDS ***
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+SnaP-call me posts ante 30
+gotgot49 posts ante 30
+Pim219 posts ante 30
+diAbleAS posts small blind 200
+bonjour95 posts big blind 400
+Dealt to sabre_laser [Tc 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+SnaP-call me folds
+gotgot49 folds
+Pim219 calls 400
+diAbleAS folds
+bonjour95 checks
+*** FLOP *** [4d 5s Kd]
+bonjour95 checks
+Pim219 bets 400
+bonjour95 folds
+Pim219 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Board: [4d 5s Kd]
+Seat 6: Pim219 (button) won 1580
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-56-1445678784 - Holdem no limit (30/200/400) - 2015/10/24 09:26:24 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: diAbleAS (27170)
+Seat 2: bonjour95 (5814)
+Seat 3: sabre_laser (9945)
+Seat 4: SnaP-call me (15715)
+Seat 5: gotgot49 (13206)
+Seat 6: Pim219 (28400)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+diAbleAS posts ante 30
+SnaP-call me posts ante 30
+gotgot49 posts ante 30
+Pim219 posts ante 30
+bonjour95 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [3h Jd]
+*** PRE-FLOP *** 
+SnaP-call me raises 400 to 800
+gotgot49 folds
+Pim219 folds
+diAbleAS raises 400 to 1200
+bonjour95 folds
+sabre_laser folds
+SnaP-call me raises 2400 to 3600
+diAbleAS raises 23540 to 27140 and is all-in
+SnaP-call me calls 12085 and is all-in
+*** FLOP *** [As 5h Ts]
+*** TURN *** [As 5h Ts][6h]
+*** RIVER *** [As 5h Ts 6h][5d]
+*** SHOW DOWN ***
+SnaP-call me shows [Qs Qd] (Two pairs : Queens and 5)
+diAbleAS shows [Td Tc] (Full of Tens and 5)
+diAbleAS collected 43605 from pot
+*** SUMMARY ***
+Total pot 43605 | No rake
+Board: [As 5h Ts 6h 5d]
+Seat 1: diAbleAS (button) showed [Td Tc] and won 43605 with Full of Tens and 5
+Seat 4: SnaP-call me showed [Qs Qd] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-57-1445678821 - Holdem no limit (30/200/400) - 2015/10/24 09:27:01 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: diAbleAS (43605)
+Seat 2: bonjour95 (5584)
+Seat 3: sabre_laser (9515)
+Seat 4: many15 (10000)
+Seat 5: gotgot49 (13176)
+Seat 6: Pim219 (28370)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 30
+many15 posts ante 30
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+gotgot49 posts ante 30
+Pim219 posts ante 30
+sabre_laser posts small blind 200
+many15 posts big blind 400
+Dealt to sabre_laser [Qs Ad]
+*** PRE-FLOP *** 
+gotgot49 folds
+Pim219 raises 800 to 1200
+diAbleAS folds
+bonjour95 folds
+sabre_laser calls 1000
+many15 folds
+*** FLOP *** [Kc As 7h]
+sabre_laser checks
+Pim219 bets 1490
+sabre_laser calls 1490
+*** TURN *** [Kc As 7h][5c]
+sabre_laser checks
+Pim219 bets 2980
+sabre_laser calls 2980
+*** RIVER *** [Kc As 7h 5c][Ks]
+sabre_laser checks
+Pim219 checks
+*** SHOW DOWN ***
+Pim219 shows [Qd Qc] (Two pairs : Kings and Queens)
+sabre_laser shows [Qs Ad] (Two pairs : Aces and Kings)
+sabre_laser collected 11920 from pot
+*** SUMMARY ***
+Total pot 11920 | No rake
+Board: [Kc As 7h 5c Ks]
+Seat 3: sabre_laser (small blind) showed [Qs Ad] and won 11920 with Two pairs : Aces and Kings
+Seat 6: Pim219 showed [Qd Qc] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-58-1445678858 - Holdem no limit (30/200/400) - 2015/10/24 09:27:38 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: diAbleAS (43575)
+Seat 2: bonjour95 (5554)
+Seat 3: sabre_laser (15735)
+Seat 4: many15 (9570)
+Seat 5: gotgot49 (13146)
+Seat 6: Pim219 (22670)
+*** ANTE/BLINDS ***
+many15 posts ante 30
+gotgot49 posts ante 30
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+Pim219 posts ante 30
+many15 posts small blind 200
+gotgot49 posts big blind 400
+Dealt to sabre_laser [2s Ks]
+*** PRE-FLOP *** 
+Pim219 calls 400
+diAbleAS folds
+bonjour95 folds
+sabre_laser folds
+many15 calls 200
+gotgot49 checks
+*** FLOP *** [As 6s Jh]
+many15 checks
+gotgot49 checks
+Pim219 bets 690
+many15 folds
+gotgot49 folds
+Pim219 collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Board: [As 6s Jh]
+Seat 6: Pim219 won 2070
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-59-1445678915 - Holdem no limit (30/200/400) - 2015/10/24 09:28:35 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: diAbleAS (43545)
+Seat 2: bonjour95 (5524)
+Seat 3: sabre_laser (15705)
+Seat 4: many15 (9140)
+Seat 5: gotgot49 (12716)
+Seat 6: Pim219 (23620)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 30
+Pim219 posts ante 30
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+many15 posts ante 30
+gotgot49 posts small blind 200
+Pim219 posts big blind 400
+Dealt to sabre_laser [7c Tc]
+*** PRE-FLOP *** 
+diAbleAS calls 400
+bonjour95 folds
+sabre_laser folds
+many15 calls 400
+gotgot49 folds
+Pim219 checks
+*** FLOP *** [2s 4c 6c]
+Pim219 bets 400
+diAbleAS folds
+many15 calls 400
+*** TURN *** [2s 4c 6c][4d]
+Pim219 bets 1500
+many15 calls 1500
+*** RIVER *** [2s 4c 6c 4d][7d]
+Pim219 bets 1500
+many15 calls 1500
+*** SHOW DOWN ***
+Pim219 shows [Jc 2c] (Two pairs : 4 and 2)
+many15 shows [6s 9s] (Two pairs : 6 and 4)
+many15 collected 8380 from pot
+*** SUMMARY ***
+Total pot 8380 | No rake
+Board: [2s 4c 6c 4d 7d]
+Seat 4: many15 (button) showed [6s 9s] and won 8380 with Two pairs : 6 and 4
+Seat 6: Pim219 (big blind) showed [Jc 2c] and lost with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-60-1445678983 - Holdem no limit (30/200/400) - 2015/10/24 09:29:43 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: diAbleAS (43115)
+Seat 2: bonjour95 (5494)
+Seat 3: sabre_laser (15675)
+Seat 4: many15 (13690)
+Seat 5: gotgot49 (12486)
+Seat 6: Pim219 (19790)
+*** ANTE/BLINDS ***
+Pim219 posts ante 30
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+many15 posts ante 30
+gotgot49 posts ante 30
+Pim219 posts small blind 200
+diAbleAS posts big blind 400
+Dealt to sabre_laser [2h 4s]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 raises 400 to 800
+gotgot49 folds
+Pim219 folds
+diAbleAS folds
+many15 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 4: many15 won 1580
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-61-1445679013 - Holdem no limit (30/200/400) - 2015/10/24 09:30:13 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: diAbleAS (42685)
+Seat 2: bonjour95 (5464)
+Seat 3: sabre_laser (15645)
+Seat 4: many15 (14440)
+Seat 5: gotgot49 (12456)
+Seat 6: Pim219 (19560)
+*** ANTE/BLINDS ***
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+many15 posts ante 30
+gotgot49 posts ante 30
+Pim219 posts ante 30
+diAbleAS posts small blind 200
+bonjour95 posts big blind 400
+Dealt to sabre_laser [5d Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 folds
+gotgot49 folds
+Pim219 folds
+diAbleAS folds
+bonjour95 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 2: bonjour95 (big blind) won 780
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-62-1445679025 - Holdem no limit (30/200/400) - 2015/10/24 09:30:25 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: diAbleAS (42455)
+Seat 2: bonjour95 (5814)
+Seat 3: sabre_laser (15615)
+Seat 4: many15 (14410)
+Seat 5: gotgot49 (12426)
+Seat 6: Pim219 (19530)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+diAbleAS posts ante 30
+many15 posts ante 30
+gotgot49 posts ante 30
+Pim219 posts ante 30
+bonjour95 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [6c 3d]
+*** PRE-FLOP *** 
+many15 calls 400
+gotgot49 folds
+Pim219 calls 400
+diAbleAS folds
+bonjour95 raises 5384 to 5784 and is all-in
+sabre_laser folds
+many15 folds
+Pim219 folds
+bonjour95 collected 7164 from pot
+*** SUMMARY ***
+Total pot 7164 | No rake
+Seat 2: bonjour95 (small blind) won 7164
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-63-1445679060 - Holdem no limit (30/200/400) - 2015/10/24 09:31:00 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: diAbleAS (42425)
+Seat 2: bonjour95 (7164)
+Seat 3: sabre_laser (15185)
+Seat 4: many15 (13980)
+Seat 5: gotgot49 (12396)
+Seat 6: Pim219 (19100)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 30
+many15 posts ante 30
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+gotgot49 posts ante 30
+Pim219 posts ante 30
+sabre_laser posts small blind 200
+many15 posts big blind 400
+Dealt to sabre_laser [Qc Qh]
+*** PRE-FLOP *** 
+gotgot49 folds
+Pim219 calls 400
+diAbleAS folds
+bonjour95 folds
+sabre_laser raises 1400 to 1800
+many15 calls 1400
+Pim219 calls 1400
+*** FLOP *** [Jc 5h Ad]
+sabre_laser checks
+many15 checks
+Pim219 bets 2790
+sabre_laser folds
+many15 folds
+Pim219 collected 8370 from pot
+*** SUMMARY ***
+Total pot 8370 | No rake
+Board: [Jc 5h Ad]
+Seat 6: Pim219 won 8370
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #573349666972762113-64-1445679095 - Holdem no limit (30/200/400) - 2015/10/24 09:31:35 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: diAbleAS (42395)
+Seat 2: bonjour95 (7134)
+Seat 3: sabre_laser (13355)
+Seat 4: many15 (12150)
+Seat 5: gotgot49 (12366)
+Seat 6: Pim219 (22850)
+*** ANTE/BLINDS ***
+many15 posts ante 30
+gotgot49 posts ante 30
+diAbleAS posts ante 30
+bonjour95 posts ante 30
+sabre_laser posts ante 30
+Pim219 posts ante 30
+many15 posts small blind 200
+gotgot49 posts big blind 400
+Dealt to sabre_laser [7h 9h]
+*** PRE-FLOP *** 
+Pim219 calls 400
+diAbleAS raises 600 to 1000
+bonjour95 folds
+sabre_laser folds
+many15 calls 800
+gotgot49 folds
+Pim219 calls 600
+*** FLOP *** [8h 5c Kd]
+many15 checks
+Pim219 checks
+diAbleAS bets 1000
+many15 calls 1000
+Pim219 folds
+*** TURN *** [8h 5c Kd][3h]
+many15 checks
+diAbleAS bets 1000
+many15 calls 1000
+*** RIVER *** [8h 5c Kd 3h][5d]
+many15 checks
+diAbleAS checks
+*** SHOW DOWN ***
+diAbleAS shows [Ac Qs] (One pair : 5)
+many15 shows [8s As] (Two pairs : 8 and 5)
+many15 collected 7580 from pot
+*** SUMMARY ***
+Total pot 7580 | No rake
+Board: [8h 5c Kd 3h 5d]
+Seat 1: diAbleAS showed [Ac Qs] and lost with One pair : 5
+Seat 4: many15 (small blind) showed [8s As] and won 7580 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #573349666972762113-65-1445679166 - Holdem no limit (40/250/500) - 2015/10/24 09:32:46 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: diAbleAS (39365)
+Seat 2: bonjour95 (7104)
+Seat 3: sabre_laser (13325)
+Seat 4: many15 (16700)
+Seat 5: gotgot49 (11936)
+Seat 6: Pim219 (21820)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 40
+Pim219 posts ante 40
+diAbleAS posts ante 40
+bonjour95 posts ante 40
+sabre_laser posts ante 40
+many15 posts ante 40
+gotgot49 posts small blind 250
+Pim219 posts big blind 500
+Dealt to sabre_laser [5s 5d]
+*** PRE-FLOP *** 
+diAbleAS raises 500 to 1000
+bonjour95 folds
+sabre_laser calls 1000
+many15 folds
+gotgot49 folds
+Pim219 calls 500
+*** FLOP *** [Kc 3h Kd]
+Pim219 checks
+diAbleAS bets 500
+sabre_laser raises 11785 to 12285 and is all-in
+Pim219 folds
+diAbleAS folds
+sabre_laser collected 16275 from pot
+*** SUMMARY ***
+Total pot 16275 | No rake
+Board: [Kc 3h Kd]
+Seat 3: sabre_laser won 16275
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #573349666972762113-66-1445679216 - Holdem no limit (40/250/500) - 2015/10/24 09:33:36 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: diAbleAS (37825)
+Seat 2: bonjour95 (7064)
+Seat 3: sabre_laser (16275)
+Seat 4: many15 (16660)
+Seat 5: gotgot49 (11646)
+Seat 6: Pim219 (20780)
+*** ANTE/BLINDS ***
+Pim219 posts ante 40
+diAbleAS posts ante 40
+bonjour95 posts ante 40
+sabre_laser posts ante 40
+many15 posts ante 40
+gotgot49 posts ante 40
+Pim219 posts small blind 250
+diAbleAS posts big blind 500
+Dealt to sabre_laser [8d 9c]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 raises 500 to 1000
+gotgot49 folds
+Pim219 folds
+diAbleAS calls 500
+*** FLOP *** [7s 4c Kd]
+diAbleAS checks
+many15 checks
+*** TURN *** [7s 4c Kd][2d]
+diAbleAS checks
+many15 checks
+*** RIVER *** [7s 4c Kd 2d][9s]
+diAbleAS checks
+many15 bets 1000
+diAbleAS folds
+many15 collected 3490 from pot
+*** SUMMARY ***
+Total pot 3490 | No rake
+Board: [7s 4c Kd 2d 9s]
+Seat 4: many15 won 3490
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #573349666972762113-67-1445679256 - Holdem no limit (40/250/500) - 2015/10/24 09:34:16 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: diAbleAS (36785)
+Seat 2: bonjour95 (7024)
+Seat 3: sabre_laser (16235)
+Seat 4: many15 (18110)
+Seat 5: gotgot49 (11606)
+Seat 6: Pim219 (20490)
+*** ANTE/BLINDS ***
+diAbleAS posts ante 40
+bonjour95 posts ante 40
+sabre_laser posts ante 40
+many15 posts ante 40
+gotgot49 posts ante 40
+Pim219 posts ante 40
+diAbleAS posts small blind 250
+bonjour95 posts big blind 500
+Dealt to sabre_laser [5s Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 folds
+gotgot49 folds
+Pim219 folds
+diAbleAS folds
+bonjour95 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 2: bonjour95 (big blind) won 990
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #573349666972762113-68-1445679272 - Holdem no limit (40/250/500) - 2015/10/24 09:34:32 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: diAbleAS (36495)
+Seat 2: bonjour95 (7474)
+Seat 3: sabre_laser (16195)
+Seat 4: many15 (18070)
+Seat 5: gotgot49 (11566)
+Seat 6: Pim219 (20450)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 40
+sabre_laser posts ante 40
+diAbleAS posts ante 40
+many15 posts ante 40
+gotgot49 posts ante 40
+Pim219 posts ante 40
+bonjour95 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [4c Jh]
+*** PRE-FLOP *** 
+many15 calls 500
+gotgot49 folds
+Pim219 folds
+diAbleAS folds
+bonjour95 calls 250
+sabre_laser checks
+*** FLOP *** [6s 7s 5d]
+bonjour95 checks
+sabre_laser bets 870
+many15 calls 870
+bonjour95 folds
+*** TURN *** [6s 7s 5d][9h]
+sabre_laser checks
+many15 bets 1000
+sabre_laser calls 1000
+*** RIVER *** [6s 7s 5d 9h][4d]
+sabre_laser bets 2740
+many15 calls 2740
+*** SHOW DOWN ***
+sabre_laser shows [4c Jh] (One pair : 4)
+many15 shows [9d Kd] (One pair : 9)
+many15 collected 10960 from pot
+*** SUMMARY ***
+Total pot 10960 | No rake
+Board: [6s 7s 5d 9h 4d]
+Seat 3: sabre_laser (big blind) showed [4c Jh] and lost with One pair : 4
+Seat 4: many15 showed [9d Kd] and won 10960 with One pair : 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #573349666972762113-69-1445679360 - Holdem no limit (40/250/500) - 2015/10/24 09:36:00 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: diAbleAS (36455)
+Seat 2: bonjour95 (6934)
+Seat 3: sabre_laser (11045)
+Seat 4: many15 (23880)
+Seat 5: gotgot49 (11526)
+Seat 6: Pim219 (20410)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+many15 posts ante 40
+diAbleAS posts ante 40
+bonjour95 posts ante 40
+gotgot49 posts ante 40
+Pim219 posts ante 40
+sabre_laser posts small blind 250
+many15 posts big blind 500
+Dealt to sabre_laser [Js Jc]
+*** PRE-FLOP *** 
+gotgot49 folds
+Pim219 folds
+diAbleAS calls 500
+bonjour95 folds
+sabre_laser calls 250
+many15 checks
+*** FLOP *** [7s Ah 7d]
+sabre_laser checks
+many15 checks
+diAbleAS checks
+*** TURN *** [7s Ah 7d][Kh]
+sabre_laser checks
+many15 checks
+diAbleAS bets 1000
+sabre_laser folds
+many15 folds
+diAbleAS collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Board: [7s Ah 7d Kh]
+Seat 1: diAbleAS won 2740
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #573349666972762113-70-1445679394 - Holdem no limit (40/250/500) - 2015/10/24 09:36:34 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: diAbleAS (37655)
+Seat 2: bonjour95 (6894)
+Seat 3: sabre_laser (10505)
+Seat 4: many15 (23340)
+Seat 5: gotgot49 (11486)
+Seat 6: Pim219 (20370)
+*** ANTE/BLINDS ***
+many15 posts ante 40
+gotgot49 posts ante 40
+diAbleAS posts ante 40
+bonjour95 posts ante 40
+sabre_laser posts ante 40
+Pim219 posts ante 40
+many15 posts small blind 250
+gotgot49 posts big blind 500
+Dealt to sabre_laser [3h 7d]
+*** PRE-FLOP *** 
+Pim219 raises 500 to 1000
+diAbleAS folds
+bonjour95 folds
+sabre_laser folds
+many15 calls 750
+gotgot49 folds
+*** FLOP *** [8h Tc Kc]
+many15 checks
+Pim219 bets 1000
+many15 calls 1000
+*** TURN *** [8h Tc Kc][Js]
+many15 checks
+Pim219 bets 18330 and is all-in
+many15 folds
+Pim219 collected 23070 from pot
+*** SUMMARY ***
+Total pot 23070 | No rake
+Board: [8h Tc Kc Js]
+Seat 6: Pim219 won 23070
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #573349666972762113-71-1445679446 - Holdem no limit (40/250/500) - 2015/10/24 09:37:26 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: diAbleAS (37615)
+Seat 2: bonjour95 (6854)
+Seat 3: sabre_laser (10465)
+Seat 4: many15 (21300)
+Seat 5: gotgot49 (10946)
+Seat 6: Pim219 (23070)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 40
+Pim219 posts ante 40
+diAbleAS posts ante 40
+bonjour95 posts ante 40
+sabre_laser posts ante 40
+many15 posts ante 40
+gotgot49 posts small blind 250
+Pim219 posts big blind 500
+Dealt to sabre_laser [Js 9d]
+*** PRE-FLOP *** 
+diAbleAS calls 500
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 folds
+Pim219 checks
+*** FLOP *** [9s 2d Ts]
+Pim219 bets 1490
+diAbleAS calls 1490
+*** TURN *** [9s 2d Ts][5h]
+Pim219 bets 4470
+diAbleAS folds
+Pim219 collected 8940 from pot
+*** SUMMARY ***
+Total pot 8940 | No rake
+Board: [9s 2d Ts 5h]
+Seat 6: Pim219 (big blind) won 8940
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-72-1445679507 - Holdem no limit (60/300/600) - 2015/10/24 09:38:27 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: diAbleAS (35585)
+Seat 2: bonjour95 (6814)
+Seat 3: sabre_laser (10425)
+Seat 4: many15 (21260)
+Seat 5: gotgot49 (10656)
+Seat 6: Pim219 (25510)
+*** ANTE/BLINDS ***
+Pim219 posts ante 60
+diAbleAS posts ante 60
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+many15 posts ante 60
+gotgot49 posts ante 60
+Pim219 posts small blind 300
+diAbleAS posts big blind 600
+Dealt to sabre_laser [9d 3d]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 raises 600 to 1200
+gotgot49 folds
+Pim219 folds
+diAbleAS folds
+many15 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Seat 4: many15 won 2460
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-73-1445679522 - Holdem no limit (60/300/600) - 2015/10/24 09:38:42 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: diAbleAS (34925)
+Seat 2: bonjour95 (6754)
+Seat 3: sabre_laser (10365)
+Seat 4: many15 (22460)
+Seat 5: gotgot49 (10596)
+Seat 6: Pim219 (25150)
+*** ANTE/BLINDS ***
+diAbleAS posts ante 60
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+many15 posts ante 60
+gotgot49 posts ante 60
+Pim219 posts ante 60
+diAbleAS posts small blind 300
+bonjour95 posts big blind 600
+Dealt to sabre_laser [Jc 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 calls 600
+gotgot49 folds
+Pim219 folds
+diAbleAS raises 600 to 1200
+bonjour95 folds
+many15 calls 600
+*** FLOP *** [7d Ad Td]
+diAbleAS bets 1500
+many15 raises 1500 to 3000
+diAbleAS calls 1500
+*** TURN *** [7d Ad Td][7h]
+diAbleAS bets 1200
+many15 raises 17000 to 18200 and is all-in
+diAbleAS raises 12465 to 30665 and is all-in
+*** RIVER *** [7d Ad Td 7h][9d]
+*** SHOW DOWN ***
+many15 shows [Ac Th] (Two pairs : Aces and Tens)
+diAbleAS shows [9s As] (Two pairs : Aces and 9)
+diAbleAS collected 12465 from side pot 1
+many15 collected 45760 from main pot
+*** SUMMARY ***
+Total pot 58225 | No rake
+Board: [7d Ad Td 7h 9d]
+Seat 1: diAbleAS (small blind) showed [9s As] and won 12465 with Two pairs : Aces and 9
+Seat 4: many15 showed [Ac Th] and won 45760 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-74-1445679579 - Holdem no limit (60/300/600) - 2015/10/24 09:39:39 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: diAbleAS (12465)
+Seat 2: bonjour95 (6094)
+Seat 3: sabre_laser (10305)
+Seat 4: many15 (45760)
+Seat 5: gotgot49 (10536)
+Seat 6: Pim219 (25090)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+diAbleAS posts ante 60
+many15 posts ante 60
+gotgot49 posts ante 60
+Pim219 posts ante 60
+bonjour95 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [3s 3c]
+*** PRE-FLOP *** 
+many15 folds
+gotgot49 folds
+Pim219 folds
+diAbleAS raises 11805 to 12405 and is all-in
+bonjour95 folds
+sabre_laser folds
+diAbleAS collected 13665 from pot
+*** SUMMARY ***
+Total pot 13665 | No rake
+Seat 1: diAbleAS (button) won 13665
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-75-1445679604 - Holdem no limit (60/300/600) - 2015/10/24 09:40:04 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: diAbleAS (13665)
+Seat 2: bonjour95 (5734)
+Seat 3: sabre_laser (9645)
+Seat 4: many15 (45700)
+Seat 5: gotgot49 (10476)
+Seat 6: Pim219 (25030)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 60
+many15 posts ante 60
+diAbleAS posts ante 60
+bonjour95 posts ante 60
+gotgot49 posts ante 60
+Pim219 posts ante 60
+sabre_laser posts small blind 300
+many15 posts big blind 600
+Dealt to sabre_laser [2s 6s]
+*** PRE-FLOP *** 
+gotgot49 folds
+Pim219 raises 600 to 1200
+diAbleAS folds
+bonjour95 raises 4474 to 5674 and is all-in
+sabre_laser folds
+many15 calls 5074
+Pim219 raises 19296 to 24970 and is all-in
+many15 calls 19296
+*** FLOP *** [As 6d 3h]
+*** TURN *** [As 6d 3h][8d]
+*** RIVER *** [As 6d 3h 8d][2c]
+*** SHOW DOWN ***
+Pim219 shows [7h 7d] (One pair : 7)
+bonjour95 shows [8h 8s] (Trips of 8)
+many15 shows [Ah Qc] (One pair : Aces)
+many15 collected 38592 from side pot 1
+bonjour95 collected 17682 from main pot
+*** SUMMARY ***
+Total pot 56274 | No rake
+Board: [As 6d 3h 8d 2c]
+Seat 2: bonjour95 (button) showed [8h 8s] and won 17682 with Trips of 8
+Seat 4: many15 (big blind) showed [Ah Qc] and won 38592 with One pair : Aces
+Seat 6: Pim219 showed [7h 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-76-1445679655 - Holdem no limit (60/300/600) - 2015/10/24 09:40:55 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: diAbleAS (13605)
+Seat 2: bonjour95 (17682)
+Seat 3: sabre_laser (9285)
+Seat 4: many15 (59262)
+Seat 5: gotgot49 (10416)
+*** ANTE/BLINDS ***
+many15 posts ante 60
+gotgot49 posts ante 60
+diAbleAS posts ante 60
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+many15 posts small blind 300
+gotgot49 posts big blind 600
+Dealt to sabre_laser [3d Qs]
+*** PRE-FLOP *** 
+diAbleAS raises 12945 to 13545 and is all-in
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 folds
+diAbleAS collected 14745 from pot
+*** SUMMARY ***
+Total pot 14745 | No rake
+Seat 1: diAbleAS won 14745
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-77-1445679667 - Holdem no limit (60/300/600) - 2015/10/24 09:41:07 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: diAbleAS (14745)
+Seat 2: bonjour95 (17622)
+Seat 3: sabre_laser (9225)
+Seat 4: many15 (58902)
+Seat 5: gotgot49 (9756)
+Seat 6: JMBREAU (10510)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 60
+JMBREAU posts ante 60
+diAbleAS posts ante 60
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+many15 posts ante 60
+gotgot49 posts small blind 300
+JMBREAU posts big blind 600
+Dealt to sabre_laser [Tc Kc]
+*** PRE-FLOP *** 
+diAbleAS folds
+bonjour95 folds
+sabre_laser folds
+many15 calls 600
+gotgot49 folds
+JMBREAU checks
+*** FLOP *** [2d 8h As]
+JMBREAU bets 600
+many15 folds
+JMBREAU collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [2d 8h As]
+Seat 6: JMBREAU (big blind) won 2460
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-78-1445679715 - Holdem no limit (60/300/600) - 2015/10/24 09:41:55 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: diAbleAS (14685)
+Seat 2: bonjour95 (17562)
+Seat 3: sabre_laser (9165)
+Seat 4: many15 (58242)
+Seat 5: gotgot49 (9396)
+Seat 6: JMBREAU (11710)
+*** ANTE/BLINDS ***
+JMBREAU posts ante 60
+diAbleAS posts ante 60
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+many15 posts ante 60
+gotgot49 posts ante 60
+JMBREAU posts small blind 300
+diAbleAS posts big blind 600
+Dealt to sabre_laser [3h Ad]
+*** PRE-FLOP *** 
+bonjour95 calls 600
+sabre_laser folds
+many15 raises 600 to 1200
+gotgot49 folds
+JMBREAU raises 10450 to 11650 and is all-in
+diAbleAS raises 2975 to 14625 and is all-in
+bonjour95 folds
+many15 folds
+*** FLOP *** [8c Td 5s]
+*** TURN *** [8c Td 5s][Qd]
+*** RIVER *** [8c Td 5s Qd][6d]
+*** SHOW DOWN ***
+JMBREAU shows [As 8h] (One pair : 8)
+diAbleAS shows [Kc Jh] (High card : King)
+diAbleAS collected 2975 from side pot 1
+JMBREAU collected 25460 from main pot
+*** SUMMARY ***
+Total pot 28435 | No rake
+Board: [8c Td 5s Qd 6d]
+Seat 1: diAbleAS (big blind) showed [Kc Jh] and won 2975 with High card : King
+Seat 6: JMBREAU (small blind) showed [As 8h] and won 25460 with One pair : 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-79-1445679754 - Holdem no limit (60/300/600) - 2015/10/24 09:42:34 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: diAbleAS (2975)
+Seat 2: bonjour95 (16902)
+Seat 3: sabre_laser (9105)
+Seat 4: many15 (56982)
+Seat 5: gotgot49 (9336)
+Seat 6: JMBREAU (25460)
+*** ANTE/BLINDS ***
+diAbleAS posts ante 60
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+many15 posts ante 60
+gotgot49 posts ante 60
+JMBREAU posts ante 60
+diAbleAS posts small blind 300
+bonjour95 posts big blind 600
+Dealt to sabre_laser [Qc 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 calls 600
+gotgot49 folds
+JMBREAU raises 2460 to 3060
+diAbleAS folds
+bonjour95 folds
+many15 calls 2460
+*** FLOP *** [Js 7d 6h]
+many15 checks
+JMBREAU bets 7380
+many15 folds
+JMBREAU shows [4h 4s] (One pair : 4)
+JMBREAU collected 14760 from pot
+*** SUMMARY ***
+Total pot 14760 | No rake
+Board: [Js 7d 6h]
+Seat 6: JMBREAU (button) showed [4h 4s] and won 14760 with One pair : 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #573349666972762113-80-1445679809 - Holdem no limit (60/300/600) - 2015/10/24 09:43:29 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: diAbleAS (2615)
+Seat 2: bonjour95 (16242)
+Seat 3: sabre_laser (9045)
+Seat 4: many15 (53862)
+Seat 5: gotgot49 (9276)
+Seat 6: JMBREAU (29720)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 60
+sabre_laser posts ante 60
+diAbleAS posts ante 60
+many15 posts ante 60
+gotgot49 posts ante 60
+JMBREAU posts ante 60
+bonjour95 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [6s Kh]
+*** PRE-FLOP *** 
+many15 folds
+gotgot49 folds
+JMBREAU calls 600
+diAbleAS raises 1955 to 2555 and is all-in
+bonjour95 folds
+sabre_laser calls 1955
+JMBREAU calls 1955
+*** FLOP *** [4s 3c 5s]
+sabre_laser checks
+JMBREAU checks
+*** TURN *** [4s 3c 5s][Qc]
+sabre_laser checks
+JMBREAU checks
+*** RIVER *** [4s 3c 5s Qc][Tc]
+sabre_laser checks
+JMBREAU checks
+*** SHOW DOWN ***
+diAbleAS shows [3h Jh] (One pair : 3)
+sabre_laser shows [6s Kh] (High card : King)
+JMBREAU shows [7s Qh] (One pair : Queens)
+JMBREAU collected 8325 from pot
+*** SUMMARY ***
+Total pot 8325 | No rake
+Board: [4s 3c 5s Qc Tc]
+Seat 1: diAbleAS (button) showed [3h Jh] and lost with One pair : 3
+Seat 3: sabre_laser (big blind) showed [6s Kh] and lost with High card : King
+Seat 6: JMBREAU showed [7s Qh] and won 8325 with One pair : Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-81-1445679845 - Holdem no limit (75/400/800) - 2015/10/24 09:44:05 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 2: bonjour95 (15882)
+Seat 3: sabre_laser (6430)
+Seat 4: many15 (53802)
+Seat 5: gotgot49 (9216)
+Seat 6: JMBREAU (35430)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+many15 posts ante 75
+bonjour95 posts ante 75
+gotgot49 posts ante 75
+JMBREAU posts ante 75
+sabre_laser posts small blind 400
+many15 posts big blind 800
+Dealt to sabre_laser [5d 7d]
+*** PRE-FLOP *** 
+gotgot49 folds
+JMBREAU calls 800
+bonjour95 folds
+sabre_laser folds
+many15 checks
+*** FLOP *** [Ks 3c Ts]
+many15 checks
+JMBREAU checks
+*** TURN *** [Ks 3c Ts][5h]
+many15 checks
+JMBREAU bets 2375
+many15 folds
+JMBREAU collected 4750 from pot
+*** SUMMARY ***
+Total pot 4750 | No rake
+Board: [Ks 3c Ts 5h]
+Seat 6: JMBREAU won 4750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-82-1445679870 - Holdem no limit (75/400/800) - 2015/10/24 09:44:30 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 2: bonjour95 (15807)
+Seat 3: sabre_laser (5955)
+Seat 4: many15 (52927)
+Seat 5: gotgot49 (9141)
+Seat 6: JMBREAU (36930)
+*** ANTE/BLINDS ***
+many15 posts ante 75
+gotgot49 posts ante 75
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+JMBREAU posts ante 75
+many15 posts small blind 400
+gotgot49 posts big blind 800
+Dealt to sabre_laser [2h 5c]
+*** PRE-FLOP *** 
+JMBREAU raises 2375 to 3175
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 folds
+JMBREAU collected 4750 from pot
+*** SUMMARY ***
+Total pot 4750 | No rake
+Seat 6: JMBREAU won 4750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-83-1445679890 - Holdem no limit (75/400/800) - 2015/10/24 09:44:50 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 2: bonjour95 (15732)
+Seat 3: sabre_laser (5880)
+Seat 4: many15 (52452)
+Seat 5: gotgot49 (8266)
+Seat 6: JMBREAU (38430)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 75
+JMBREAU posts ante 75
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+many15 posts ante 75
+gotgot49 posts small blind 400
+JMBREAU posts big blind 800
+Dealt to sabre_laser [Qs Td]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser raises 5005 to 5805 and is all-in
+many15 folds
+gotgot49 folds
+JMBREAU folds
+sabre_laser collected 7380 from pot
+*** SUMMARY ***
+Total pot 7380 | No rake
+Seat 3: sabre_laser won 7380
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-84-1445679927 - Holdem no limit (75/400/800) - 2015/10/24 09:45:27 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 2: bonjour95 (15657)
+Seat 3: sabre_laser (7380)
+Seat 4: many15 (52377)
+Seat 5: gotgot49 (7791)
+Seat 6: JMBREAU (37555)
+*** ANTE/BLINDS ***
+JMBREAU posts ante 75
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+many15 posts ante 75
+gotgot49 posts ante 75
+JMBREAU posts small blind 400
+bonjour95 posts big blind 800
+Dealt to sabre_laser [7s 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 folds
+gotgot49 folds
+JMBREAU folds
+bonjour95 collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Seat 2: bonjour95 (big blind) won 1575
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-85-1445679941 - Holdem no limit (75/400/800) - 2015/10/24 09:45:41 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 2: bonjour95 (16357)
+Seat 3: sabre_laser (7305)
+Seat 4: many15 (52302)
+Seat 5: gotgot49 (7716)
+Seat 6: JMBREAU (37080)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+many15 posts ante 75
+gotgot49 posts ante 75
+JMBREAU posts ante 75
+bonjour95 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [6s Qd]
+*** PRE-FLOP *** 
+many15 folds
+gotgot49 folds
+JMBREAU folds
+bonjour95 calls 400
+sabre_laser checks
+*** FLOP *** [2d Th 6h]
+bonjour95 bets 800
+sabre_laser calls 800
+*** TURN *** [2d Th 6h][Qc]
+bonjour95 bets 800
+sabre_laser raises 1200 to 2000
+bonjour95 folds
+sabre_laser collected 6375 from pot
+*** SUMMARY ***
+Total pot 6375 | No rake
+Board: [2d Th 6h Qc]
+Seat 3: sabre_laser (big blind) won 6375
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-86-1445679980 - Holdem no limit (75/400/800) - 2015/10/24 09:46:20 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: black swan (31700)
+Seat 2: bonjour95 (13882)
+Seat 3: sabre_laser (10005)
+Seat 4: many15 (52227)
+Seat 5: gotgot49 (7641)
+Seat 6: JMBREAU (37005)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+many15 posts ante 75
+black swan posts ante 75
+bonjour95 posts ante 75
+gotgot49 posts ante 75
+JMBREAU posts ante 75
+sabre_laser posts small blind 400
+many15 posts big blind 800
+Dealt to sabre_laser [9d 9s]
+*** PRE-FLOP *** 
+gotgot49 folds
+JMBREAU folds
+black swan folds
+bonjour95 folds
+sabre_laser raises 9130 to 9930 and is all-in
+many15 folds
+sabre_laser collected 11180 from pot
+*** SUMMARY ***
+Total pot 11180 | No rake
+Seat 3: sabre_laser (small blind) won 11180
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-87-1445680024 - Holdem no limit (75/400/800) - 2015/10/24 09:47:04 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: black swan (31625)
+Seat 2: bonjour95 (13807)
+Seat 3: sabre_laser (11180)
+Seat 4: many15 (51352)
+Seat 5: gotgot49 (7566)
+Seat 6: JMBREAU (36930)
+*** ANTE/BLINDS ***
+many15 posts ante 75
+gotgot49 posts ante 75
+black swan posts ante 75
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+JMBREAU posts ante 75
+many15 posts small blind 400
+gotgot49 posts big blind 800
+Dealt to sabre_laser [3s Ad]
+*** PRE-FLOP *** 
+JMBREAU calls 800
+black swan folds
+bonjour95 calls 800
+sabre_laser folds
+many15 folds
+gotgot49 raises 6691 to 7491 and is all-in
+JMBREAU calls 6691
+bonjour95 folds
+*** FLOP *** [Ks As 7s]
+*** TURN *** [Ks As 7s][Js]
+*** RIVER *** [Ks As 7s Js][Ts]
+*** SHOW DOWN ***
+gotgot49 shows [Kd Kc] (Flush Ace high)
+JMBREAU shows [Ac 5c] (Flush Ace high)
+JMBREAU collected 8316 from pot
+gotgot49 collected 8316 from pot
+*** SUMMARY ***
+Total pot 16632 | No rake
+Board: [Ks As 7s Js Ts]
+Seat 5: gotgot49 (big blind) showed [Kd Kc] and won 8316 with Flush Ace high
+Seat 6: JMBREAU showed [Ac 5c] and won 8316 with Flush Ace high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-88-1445680065 - Holdem no limit (75/400/800) - 2015/10/24 09:47:45 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: black swan (31550)
+Seat 2: bonjour95 (12932)
+Seat 3: sabre_laser (11105)
+Seat 4: many15 (50877)
+Seat 5: gotgot49 (8316)
+Seat 6: JMBREAU (37680)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 75
+JMBREAU posts ante 75
+black swan posts ante 75
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+many15 posts ante 75
+gotgot49 posts small blind 400
+JMBREAU posts big blind 800
+Dealt to sabre_laser [5s 3d]
+*** PRE-FLOP *** 
+black swan raises 800 to 1600
+bonjour95 raises 11257 to 12857 and is all-in
+sabre_laser folds
+many15 folds
+gotgot49 folds
+JMBREAU folds
+black swan calls 11257
+*** FLOP *** [Ts Ah As]
+*** TURN *** [Ts Ah As][Jh]
+*** RIVER *** [Ts Ah As Jh][2c]
+*** SHOW DOWN ***
+black swan shows [Qd Ac] (Trips of Aces)
+bonjour95 shows [Td Th] (Full of Tens and Aces)
+bonjour95 collected 27364 from pot
+*** SUMMARY ***
+Total pot 27364 | No rake
+Board: [Ts Ah As Jh 2c]
+Seat 1: black swan showed [Qd Ac] and lost with Trips of Aces
+Seat 2: bonjour95 showed [Td Th] and won 27364 with Full of Tens and Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-89-1445680093 - Holdem no limit (75/400/800) - 2015/10/24 09:48:13 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: black swan (18618)
+Seat 2: bonjour95 (27364)
+Seat 3: sabre_laser (11030)
+Seat 4: many15 (50802)
+Seat 5: gotgot49 (7841)
+Seat 6: JMBREAU (36805)
+*** ANTE/BLINDS ***
+JMBREAU posts ante 75
+black swan posts ante 75
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+many15 posts ante 75
+gotgot49 posts ante 75
+JMBREAU posts small blind 400
+black swan posts big blind 800
+Dealt to sabre_laser [As 4d]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 raises 1600 to 2400
+JMBREAU calls 2000
+black swan folds
+*** FLOP *** [3h 3d 6c]
+JMBREAU checks
+gotgot49 bets 5366 and is all-in
+JMBREAU calls 5366
+*** TURN *** [3h 3d 6c][Ks]
+*** RIVER *** [3h 3d 6c Ks][5c]
+*** SHOW DOWN ***
+JMBREAU shows [8s Td] (One pair : 3)
+gotgot49 shows [Qs Qh] (Two pairs : Queens and 3)
+gotgot49 collected 16782 from pot
+*** SUMMARY ***
+Total pot 16782 | No rake
+Board: [3h 3d 6c Ks 5c]
+Seat 5: gotgot49 (button) showed [Qs Qh] and won 16782 with Two pairs : Queens and 3
+Seat 6: JMBREAU (small blind) showed [8s Td] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-90-1445680137 - Holdem no limit (75/400/800) - 2015/10/24 09:48:57 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: black swan (17743)
+Seat 2: bonjour95 (27289)
+Seat 3: sabre_laser (10955)
+Seat 4: many15 (50727)
+Seat 5: gotgot49 (16782)
+Seat 6: JMBREAU (28964)
+*** ANTE/BLINDS ***
+black swan posts ante 75
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+many15 posts ante 75
+gotgot49 posts ante 75
+JMBREAU posts ante 75
+black swan posts small blind 400
+bonjour95 posts big blind 800
+Dealt to sabre_laser [Qd 8c]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 raises 800 to 1600
+gotgot49 folds
+JMBREAU folds
+black swan folds
+bonjour95 calls 800
+*** FLOP *** [8s Ad Kd]
+bonjour95 checks
+many15 bets 1600
+bonjour95 folds
+many15 collected 5650 from pot
+*** SUMMARY ***
+Total pot 5650 | No rake
+Board: [8s Ad Kd]
+Seat 4: many15 won 5650
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #573349666972762113-91-1445680178 - Holdem no limit (75/400/800) - 2015/10/24 09:49:38 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: black swan (17268)
+Seat 2: bonjour95 (25614)
+Seat 3: sabre_laser (10880)
+Seat 4: many15 (53102)
+Seat 5: gotgot49 (16707)
+Seat 6: JMBREAU (28889)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 75
+sabre_laser posts ante 75
+black swan posts ante 75
+many15 posts ante 75
+gotgot49 posts ante 75
+JMBREAU posts ante 75
+bonjour95 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Jc 6s]
+*** PRE-FLOP *** 
+many15 calls 800
+gotgot49 folds
+JMBREAU calls 800
+black swan folds
+bonjour95 folds
+sabre_laser checks
+*** FLOP *** [Ac Ah Qd]
+sabre_laser checks
+many15 checks
+JMBREAU checks
+*** TURN *** [Ac Ah Qd][Tc]
+sabre_laser checks
+many15 checks
+JMBREAU checks
+*** RIVER *** [Ac Ah Qd Tc][4h]
+sabre_laser checks
+many15 checks
+JMBREAU checks
+*** SHOW DOWN ***
+sabre_laser shows [Jc 6s] (One pair : Aces)
+JMBREAU shows [8h Jh] (One pair : Aces)
+many15 shows [Qc 7c] (Two pairs : Aces and Queens)
+many15 collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Board: [Ac Ah Qd Tc 4h]
+Seat 3: sabre_laser (big blind) showed [Jc 6s] and lost with One pair : Aces
+Seat 4: many15 showed [Qc 7c] and won 3250 with Two pairs : Aces and Queens
+Seat 6: JMBREAU showed [8h Jh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-92-1445680240 - Holdem no limit (100/500/1000) - 2015/10/24 09:50:40 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: black swan (17193)
+Seat 2: bonjour95 (25139)
+Seat 3: sabre_laser (10005)
+Seat 4: many15 (55477)
+Seat 5: gotgot49 (16632)
+Seat 6: JMBREAU (28014)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+many15 posts ante 100
+black swan posts ante 100
+bonjour95 posts ante 100
+gotgot49 posts ante 100
+JMBREAU posts ante 100
+sabre_laser posts small blind 500
+many15 posts big blind 1000
+Dealt to sabre_laser [Jh Kc]
+*** PRE-FLOP *** 
+gotgot49 folds
+JMBREAU folds
+black swan folds
+bonjour95 folds
+sabre_laser raises 8905 to 9905 and is all-in
+many15 folds
+sabre_laser collected 11505 from pot
+*** SUMMARY ***
+Total pot 11505 | No rake
+Seat 3: sabre_laser (small blind) won 11505
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-93-1445680257 - Holdem no limit (100/500/1000) - 2015/10/24 09:50:57 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: black swan (17093)
+Seat 2: bonjour95 (25039)
+Seat 3: sabre_laser (11505)
+Seat 4: many15 (54377)
+Seat 5: gotgot49 (16532)
+Seat 6: JMBREAU (27914)
+*** ANTE/BLINDS ***
+many15 posts ante 100
+gotgot49 posts ante 100
+black swan posts ante 100
+bonjour95 posts ante 100
+sabre_laser posts ante 100
+JMBREAU posts ante 100
+many15 posts small blind 500
+gotgot49 posts big blind 1000
+Dealt to sabre_laser [Tc Kc]
+*** PRE-FLOP *** 
+JMBREAU raises 1000 to 2000
+black swan folds
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 folds
+JMBREAU collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 6: JMBREAU won 4100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-94-1445680284 - Holdem no limit (100/500/1000) - 2015/10/24 09:51:24 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: black swan (16993)
+Seat 2: bonjour95 (24939)
+Seat 3: sabre_laser (11405)
+Seat 4: many15 (53777)
+Seat 5: gotgot49 (15432)
+Seat 6: JMBREAU (29914)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 100
+JMBREAU posts ante 100
+black swan posts ante 100
+bonjour95 posts ante 100
+sabre_laser posts ante 100
+many15 posts ante 100
+gotgot49 posts small blind 500
+JMBREAU posts big blind 1000
+Dealt to sabre_laser [Kd 2d]
+*** PRE-FLOP *** 
+black swan folds
+bonjour95 folds
+sabre_laser folds
+many15 calls 1000
+gotgot49 folds
+JMBREAU checks
+*** FLOP *** [3s Ts 5s]
+JMBREAU bets 28814 and is all-in
+many15 folds
+JMBREAU collected 31914 from pot
+*** SUMMARY ***
+Total pot 31914 | No rake
+Board: [3s Ts 5s]
+Seat 6: JMBREAU (big blind) won 31914
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-95-1445680313 - Holdem no limit (100/500/1000) - 2015/10/24 09:51:53 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: black swan (16893)
+Seat 2: bonjour95 (24839)
+Seat 3: sabre_laser (11305)
+Seat 4: many15 (52677)
+Seat 5: gotgot49 (14832)
+Seat 6: JMBREAU (31914)
+*** ANTE/BLINDS ***
+JMBREAU posts ante 100
+black swan posts ante 100
+bonjour95 posts ante 100
+sabre_laser posts ante 100
+many15 posts ante 100
+gotgot49 posts ante 100
+JMBREAU posts small blind 500
+black swan posts big blind 1000
+Dealt to sabre_laser [9d 7s]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 calls 1000
+gotgot49 folds
+JMBREAU raises 1000 to 2000
+black swan folds
+many15 calls 1000
+*** FLOP *** [Kc Tc Kh]
+JMBREAU bets 5600
+many15 calls 5600
+*** TURN *** [Kc Tc Kh][Jd]
+JMBREAU bets 16800
+many15 folds
+JMBREAU shows [As Ac] (Two pairs : Aces and Kings)
+JMBREAU collected 33600 from pot
+*** SUMMARY ***
+Total pot 33600 | No rake
+Board: [Kc Tc Kh Jd]
+Seat 6: JMBREAU (small blind) showed [As Ac] and won 33600 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-96-1445680355 - Holdem no limit (100/500/1000) - 2015/10/24 09:52:35 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: black swan (15793)
+Seat 2: bonjour95 (24739)
+Seat 3: sabre_laser (11205)
+Seat 4: many15 (44977)
+Seat 5: gotgot49 (14732)
+Seat 6: JMBREAU (41014)
+*** ANTE/BLINDS ***
+black swan posts ante 100
+bonjour95 posts ante 100
+sabre_laser posts ante 100
+many15 posts ante 100
+gotgot49 posts ante 100
+JMBREAU posts ante 100
+black swan posts small blind 500
+bonjour95 posts big blind 1000
+Dealt to sabre_laser [6c 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 calls 1000
+gotgot49 folds
+JMBREAU calls 1000
+black swan calls 500
+bonjour95 checks
+*** FLOP *** [7s 2s 2c]
+black swan checks
+bonjour95 checks
+many15 checks
+JMBREAU bets 4600
+black swan folds
+bonjour95 folds
+many15 calls 4600
+*** TURN *** [7s 2s 2c][7c]
+many15 checks
+JMBREAU bets 35314 and is all-in
+many15 folds
+JMBREAU collected 49114 from pot
+*** SUMMARY ***
+Total pot 49114 | No rake
+Board: [7s 2s 2c 7c]
+Seat 6: JMBREAU (button) won 49114
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-97-1445680429 - Holdem no limit (100/500/1000) - 2015/10/24 09:53:49 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: black swan (14693)
+Seat 2: bonjour95 (23639)
+Seat 3: sabre_laser (11105)
+Seat 4: many15 (39277)
+Seat 5: gotgot49 (14632)
+Seat 6: JMBREAU (49114)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 100
+sabre_laser posts ante 100
+black swan posts ante 100
+many15 posts ante 100
+gotgot49 posts ante 100
+JMBREAU posts ante 100
+bonjour95 posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [4s Qd]
+*** PRE-FLOP *** 
+many15 folds
+gotgot49 folds
+JMBREAU folds
+black swan calls 1000
+bonjour95 calls 500
+sabre_laser checks
+*** FLOP *** [5c Ah Tc]
+bonjour95 bets 1000
+sabre_laser folds
+black swan calls 1000
+*** TURN *** [5c Ah Tc][2d]
+bonjour95 bets 1000
+black swan calls 1000
+*** RIVER *** [5c Ah Tc 2d][Jc]
+bonjour95 bets 1000
+black swan calls 1000
+*** SHOW DOWN ***
+bonjour95 shows [Ad 3c] (One pair : Aces)
+black swan shows [5h Jh] (Two pairs : Jacks and 5)
+black swan collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Board: [5c Ah Tc 2d Jc]
+Seat 1: black swan (button) showed [5h Jh] and won 9600 with Two pairs : Jacks and 5
+Seat 2: bonjour95 (small blind) showed [Ad 3c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-98-1445680467 - Holdem no limit (100/500/1000) - 2015/10/24 09:54:27 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: black swan (20193)
+Seat 2: bonjour95 (19539)
+Seat 3: sabre_laser (10005)
+Seat 4: many15 (39177)
+Seat 5: gotgot49 (14532)
+Seat 6: JMBREAU (49014)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+many15 posts ante 100
+black swan posts ante 100
+bonjour95 posts ante 100
+gotgot49 posts ante 100
+JMBREAU posts ante 100
+sabre_laser posts small blind 500
+many15 posts big blind 1000
+Dealt to sabre_laser [Jc Ah]
+*** PRE-FLOP *** 
+gotgot49 folds
+JMBREAU folds
+black swan calls 1000
+bonjour95 folds
+sabre_laser raises 8905 to 9905 and is all-in
+many15 folds
+black swan calls 8905
+*** FLOP *** [Qs 6c Kh]
+*** TURN *** [Qs 6c Kh][3s]
+*** RIVER *** [Qs 6c Kh 3s][Td]
+*** SHOW DOWN ***
+black swan shows [Tc Kc] (Two pairs : Kings and Tens)
+sabre_laser shows [Jc Ah] (Straight Ace high)
+sabre_laser collected 21410 from pot
+*** SUMMARY ***
+Total pot 21410 | No rake
+Board: [Qs 6c Kh 3s Td]
+Seat 1: black swan showed [Tc Kc] and lost with Two pairs : Kings and Tens
+Seat 3: sabre_laser (small blind) showed [Jc Ah] and won 21410 with Straight Ace high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-99-1445680802 - Holdem no limit (100/500/1000) - 2015/10/24 10:00:02 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: black swan (10188)
+Seat 2: bonjour95 (19439)
+Seat 3: sabre_laser (21410)
+Seat 4: many15 (38077)
+Seat 5: gotgot49 (14432)
+Seat 6: JMBREAU (48914)
+*** ANTE/BLINDS ***
+many15 posts ante 100
+gotgot49 posts ante 100
+black swan posts ante 100
+bonjour95 posts ante 100
+sabre_laser posts ante 100
+JMBREAU posts ante 100
+many15 posts small blind 500
+gotgot49 posts big blind 1000
+Dealt to sabre_laser [Kd 8s]
+*** PRE-FLOP *** 
+JMBREAU raises 1000 to 2000
+black swan folds
+bonjour95 raises 17339 to 19339 and is all-in
+sabre_laser folds
+many15 folds
+gotgot49 folds
+JMBREAU calls 17339
+*** FLOP *** [8h Jc Kh]
+*** TURN *** [8h Jc Kh][Jd]
+*** RIVER *** [8h Jc Kh Jd][7c]
+*** SHOW DOWN ***
+JMBREAU shows [9s 9c] (Two pairs : Jacks and 9)
+bonjour95 shows [As Js] (Trips of Jacks)
+bonjour95 collected 40778 from pot
+*** SUMMARY ***
+Total pot 40778 | No rake
+Board: [8h Jc Kh Jd 7c]
+Seat 2: bonjour95 showed [As Js] and won 40778 with Trips of Jacks
+Seat 6: JMBREAU showed [9s 9c] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #573349666972762113-100-1445680851 - Holdem no limit (100/500/1000) - 2015/10/24 10:00:51 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: black swan (10088)
+Seat 2: bonjour95 (40778)
+Seat 3: sabre_laser (21310)
+Seat 4: many15 (37477)
+Seat 5: gotgot49 (13332)
+Seat 6: JMBREAU (29475)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 100
+JMBREAU posts ante 100
+black swan posts ante 100
+bonjour95 posts ante 100
+sabre_laser posts ante 100
+many15 posts ante 100
+gotgot49 posts small blind 500
+JMBREAU posts big blind 1000
+Dealt to sabre_laser [Qc 2d]
+*** PRE-FLOP *** 
+black swan folds
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 folds
+JMBREAU collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 6: JMBREAU (big blind) won 2100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-101-1445680881 - Holdem no limit (150/600/1200) - 2015/10/24 10:01:21 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: black swan (9988)
+Seat 2: bonjour95 (40678)
+Seat 3: sabre_laser (21210)
+Seat 4: many15 (37377)
+Seat 5: gotgot49 (12732)
+Seat 6: JMBREAU (30475)
+*** ANTE/BLINDS ***
+JMBREAU posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+many15 posts ante 150
+gotgot49 posts ante 150
+JMBREAU posts small blind 600
+black swan posts big blind 1200
+Dealt to sabre_laser [8d 4d]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 folds
+JMBREAU folds
+black swan collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 1: black swan (big blind) won 2700
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-102-1445680905 - Holdem no limit (150/600/1200) - 2015/10/24 10:01:45 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: black swan (11338)
+Seat 2: bonjour95 (40528)
+Seat 3: sabre_laser (21060)
+Seat 4: many15 (37227)
+Seat 5: gotgot49 (12582)
+Seat 6: JMBREAU (29725)
+*** ANTE/BLINDS ***
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+many15 posts ante 150
+gotgot49 posts ante 150
+JMBREAU posts ante 150
+black swan posts small blind 600
+bonjour95 posts big blind 1200
+Dealt to sabre_laser [Ac Qh]
+*** PRE-FLOP *** 
+sabre_laser raises 1800 to 3000
+many15 folds
+gotgot49 folds
+JMBREAU calls 3000
+black swan folds
+bonjour95 folds
+*** FLOP *** [3c Ts 7d]
+sabre_laser checks
+JMBREAU bets 26575 and is all-in
+sabre_laser folds
+JMBREAU collected 35275 from pot
+*** SUMMARY ***
+Total pot 35275 | No rake
+Board: [3c Ts 7d]
+Seat 6: JMBREAU (button) won 35275
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-103-1445680936 - Holdem no limit (150/600/1200) - 2015/10/24 10:02:16 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: black swan (10588)
+Seat 2: bonjour95 (39178)
+Seat 3: sabre_laser (17910)
+Seat 4: many15 (37077)
+Seat 5: gotgot49 (12432)
+Seat 6: JMBREAU (35275)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+black swan posts ante 150
+many15 posts ante 150
+gotgot49 posts ante 150
+JMBREAU posts ante 150
+bonjour95 posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [6h 3h]
+*** PRE-FLOP *** 
+many15 folds
+gotgot49 folds
+JMBREAU calls 1200
+black swan folds
+bonjour95 calls 600
+sabre_laser checks
+*** FLOP *** [9d Ks 5h]
+bonjour95 bets 1200
+sabre_laser folds
+JMBREAU calls 1200
+*** TURN *** [9d Ks 5h][8s]
+bonjour95 bets 2400
+JMBREAU calls 2400
+*** RIVER *** [9d Ks 5h 8s][2d]
+bonjour95 bets 3000
+JMBREAU calls 3000
+*** SHOW DOWN ***
+JMBREAU shows [Qh Td] (High card : King)
+bonjour95 shows [Th Kd] (One pair : Kings)
+bonjour95 collected 17700 from pot
+*** SUMMARY ***
+Total pot 17700 | No rake
+Board: [9d Ks 5h 8s 2d]
+Seat 2: bonjour95 (small blind) showed [Th Kd] and won 17700 with One pair : Kings
+Seat 6: JMBREAU showed [Qh Td] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-104-1445680985 - Holdem no limit (150/600/1200) - 2015/10/24 10:03:05 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: black swan (10438)
+Seat 2: bonjour95 (48928)
+Seat 3: sabre_laser (16560)
+Seat 4: many15 (36927)
+Seat 5: gotgot49 (12282)
+Seat 6: JMBREAU (27325)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 150
+many15 posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+gotgot49 posts ante 150
+JMBREAU posts ante 150
+sabre_laser posts small blind 600
+many15 posts big blind 1200
+Dealt to sabre_laser [7s Ah]
+*** PRE-FLOP *** 
+gotgot49 folds
+JMBREAU calls 1200
+black swan folds
+bonjour95 folds
+sabre_laser calls 600
+many15 checks
+*** FLOP *** [5s 2d Ad]
+sabre_laser checks
+many15 checks
+JMBREAU checks
+*** TURN *** [5s 2d Ad][Kc]
+sabre_laser bets 2400
+many15 folds
+JMBREAU folds
+sabre_laser collected 6900 from pot
+*** SUMMARY ***
+Total pot 6900 | No rake
+Board: [5s 2d Ad Kc]
+Seat 3: sabre_laser (small blind) won 6900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-105-1445681035 - Holdem no limit (150/600/1200) - 2015/10/24 10:03:55 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: black swan (10288)
+Seat 2: bonjour95 (48778)
+Seat 3: sabre_laser (19710)
+Seat 4: many15 (35577)
+Seat 5: gotgot49 (12132)
+Seat 6: JMBREAU (25975)
+*** ANTE/BLINDS ***
+many15 posts ante 150
+gotgot49 posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+JMBREAU posts ante 150
+many15 posts small blind 600
+gotgot49 posts big blind 1200
+Dealt to sabre_laser [8s Qd]
+*** PRE-FLOP *** 
+JMBREAU raises 1200 to 2400
+black swan folds
+bonjour95 folds
+sabre_laser folds
+many15 raises 33027 to 35427 and is all-in
+gotgot49 folds
+JMBREAU calls 23425 and is all-in
+*** FLOP *** [5s Kc 2h]
+*** TURN *** [5s Kc 2h][6h]
+*** RIVER *** [5s Kc 2h 6h][As]
+*** SHOW DOWN ***
+JMBREAU shows [4d 4h] (One pair : 4)
+many15 shows [Ad Kh] (Two pairs : Aces and Kings)
+many15 collected 63352 from pot
+*** SUMMARY ***
+Total pot 63352 | No rake
+Board: [5s Kc 2h 6h As]
+Seat 4: many15 (small blind) showed [Ad Kh] and won 63352 with Two pairs : Aces and Kings
+Seat 6: JMBREAU showed [4d 4h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-106-1445681060 - Holdem no limit (150/600/1200) - 2015/10/24 10:04:20 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: black swan (10138)
+Seat 2: bonjour95 (48628)
+Seat 3: sabre_laser (19560)
+Seat 4: many15 (63352)
+Seat 5: gotgot49 (10782)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+many15 posts ante 150
+gotgot49 posts small blind 600
+black swan posts big blind 1200
+Dealt to sabre_laser [4s 5d]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 raises 1200 to 2400
+gotgot49 folds
+black swan raises 7588 to 9988 and is all-in
+many15 folds
+black swan collected 13738 from pot
+*** SUMMARY ***
+Total pot 13738 | No rake
+Seat 1: black swan (big blind) won 13738
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-107-1445681090 - Holdem no limit (150/600/1200) - 2015/10/24 10:04:50 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: black swan (13738)
+Seat 2: bonjour95 (48478)
+Seat 3: sabre_laser (19410)
+Seat 4: many15 (60802)
+Seat 5: gotgot49 (10032)
+*** ANTE/BLINDS ***
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+many15 posts ante 150
+gotgot49 posts ante 150
+black swan posts small blind 600
+bonjour95 posts big blind 1200
+Dealt to sabre_laser [Jh 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 folds
+gotgot49 folds
+black swan folds
+bonjour95 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 2: bonjour95 (big blind) won 2550
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-108-1445681107 - Holdem no limit (150/600/1200) - 2015/10/24 10:05:07 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 1: black swan (12988)
+Seat 2: bonjour95 (49678)
+Seat 3: sabre_laser (19260)
+Seat 4: many15 (60652)
+Seat 5: gotgot49 (9882)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+black swan posts ante 150
+many15 posts ante 150
+gotgot49 posts ante 150
+bonjour95 posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [Qh 8c]
+*** PRE-FLOP *** 
+many15 folds
+gotgot49 folds
+black swan folds
+bonjour95 raises 1200 to 2400
+sabre_laser folds
+bonjour95 collected 4350 from pot
+*** SUMMARY ***
+Total pot 4350 | No rake
+Seat 2: bonjour95 (small blind) won 4350
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-109-1445681126 - Holdem no limit (150/600/1200) - 2015/10/24 10:05:26 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 1: black swan (12838)
+Seat 2: bonjour95 (51478)
+Seat 3: sabre_laser (17910)
+Seat 4: many15 (60502)
+Seat 5: gotgot49 (9732)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 150
+many15 posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+gotgot49 posts ante 150
+sabre_laser posts small blind 600
+many15 posts big blind 1200
+Dealt to sabre_laser [6h Jh]
+*** PRE-FLOP *** 
+gotgot49 raises 2400 to 3600
+black swan folds
+bonjour95 folds
+sabre_laser folds
+many15 calls 2400
+*** FLOP *** [2d 4c Th]
+many15 checks
+gotgot49 bets 5982 and is all-in
+many15 folds
+gotgot49 collected 14532 from pot
+*** SUMMARY ***
+Total pot 14532 | No rake
+Board: [2d 4c Th]
+Seat 5: gotgot49 won 14532
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-110-1445681165 - Holdem no limit (150/600/1200) - 2015/10/24 10:06:05 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: black swan (12688)
+Seat 2: bonjour95 (51328)
+Seat 3: sabre_laser (17160)
+Seat 4: many15 (56752)
+Seat 5: gotgot49 (14532)
+*** ANTE/BLINDS ***
+many15 posts ante 150
+gotgot49 posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+many15 posts small blind 600
+gotgot49 posts big blind 1200
+Dealt to sabre_laser [7h 6s]
+*** PRE-FLOP *** 
+black swan folds
+bonjour95 calls 1200
+sabre_laser folds
+many15 folds
+gotgot49 checks
+*** FLOP *** [4s Ad 7s]
+gotgot49 checks
+bonjour95 bets 2400
+gotgot49 folds
+bonjour95 collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Board: [4s Ad 7s]
+Seat 2: bonjour95 won 6150
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-111-1445681190 - Holdem no limit (150/600/1200) - 2015/10/24 10:06:30 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: black swan (12538)
+Seat 2: bonjour95 (53728)
+Seat 3: sabre_laser (17010)
+Seat 4: many15 (56002)
+Seat 5: gotgot49 (13182)
+Seat 6: MR.ZLATAN (43849)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 150
+MR.ZLATAN posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+many15 posts ante 150
+gotgot49 posts small blind 600
+MR.ZLATAN posts big blind 1200
+Dealt to sabre_laser [Ah 4h]
+*** PRE-FLOP *** 
+black swan folds
+bonjour95 folds
+sabre_laser raises 15660 to 16860 and is all-in
+many15 folds
+gotgot49 folds
+MR.ZLATAN folds
+sabre_laser collected 19560 from pot
+*** SUMMARY ***
+Total pot 19560 | No rake
+Seat 3: sabre_laser won 19560
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #573349666972762113-112-1445681203 - Holdem no limit (150/600/1200) - 2015/10/24 10:06:43 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: black swan (12388)
+Seat 2: bonjour95 (53578)
+Seat 3: sabre_laser (19560)
+Seat 4: many15 (55852)
+Seat 5: gotgot49 (12432)
+Seat 6: MR.ZLATAN (42499)
+*** ANTE/BLINDS ***
+MR.ZLATAN posts ante 150
+black swan posts ante 150
+bonjour95 posts ante 150
+sabre_laser posts ante 150
+many15 posts ante 150
+gotgot49 posts ante 150
+MR.ZLATAN posts small blind 600
+black swan posts big blind 1200
+Dealt to sabre_laser [Jc 9s]
+*** PRE-FLOP *** 
+bonjour95 calls 1200
+sabre_laser folds
+many15 raises 1200 to 2400
+gotgot49 folds
+MR.ZLATAN folds
+black swan calls 1200
+bonjour95 calls 1200
+*** FLOP *** [3c 7h 6s]
+black swan checks
+bonjour95 checks
+many15 checks
+*** TURN *** [3c 7h 6s][4d]
+black swan checks
+bonjour95 checks
+many15 checks
+*** RIVER *** [3c 7h 6s 4d][7s]
+black swan checks
+bonjour95 bets 1200
+many15 folds
+black swan calls 1200
+*** SHOW DOWN ***
+black swan shows [Ks Ts] (One pair : 7)
+bonjour95 shows [Qh 6h] (Two pairs : 7 and 6)
+bonjour95 collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Board: [3c 7h 6s 4d 7s]
+Seat 1: black swan (big blind) showed [Ks Ts] and lost with One pair : 7
+Seat 2: bonjour95 showed [Qh 6h] and won 11100 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-113-1445681278 - Holdem no limit (180/800/1600) - 2015/10/24 10:07:58 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 1: black swan (8638)
+Seat 2: bonjour95 (60928)
+Seat 3: sabre_laser (19410)
+Seat 4: many15 (53302)
+Seat 5: gotgot49 (12282)
+Seat 6: MR.ZLATAN (41749)
+*** ANTE/BLINDS ***
+black swan posts ante 180
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+many15 posts ante 180
+gotgot49 posts ante 180
+MR.ZLATAN posts ante 180
+black swan posts small blind 800
+bonjour95 posts big blind 1600
+Dealt to sabre_laser [7d 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 calls 1600
+gotgot49 folds
+MR.ZLATAN calls 1600
+black swan calls 800
+bonjour95 checks
+*** FLOP *** [Jc 4h Qd]
+black swan bets 6858 and is all-in
+bonjour95 folds
+many15 folds
+MR.ZLATAN calls 6858
+*** TURN *** [Jc 4h Qd][9h]
+*** RIVER *** [Jc 4h Qd 9h][Kc]
+*** SHOW DOWN ***
+black swan shows [7s Qc] (One pair : Queens)
+MR.ZLATAN shows [As Ts] (Straight Ace high)
+MR.ZLATAN collected 21196 from pot
+*** SUMMARY ***
+Total pot 21196 | No rake
+Board: [Jc 4h Qd 9h Kc]
+Seat 1: black swan (small blind) showed [7s Qc] and lost with One pair : Queens
+Seat 6: MR.ZLATAN (button) showed [As Ts] and won 21196 with Straight Ace high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-114-1445681313 - Holdem no limit (180/800/1600) - 2015/10/24 10:08:33 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #1 is the button
+Seat 2: bonjour95 (59148)
+Seat 3: sabre_laser (19230)
+Seat 4: many15 (51522)
+Seat 5: gotgot49 (12102)
+Seat 6: MR.ZLATAN (54307)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+many15 posts ante 180
+gotgot49 posts ante 180
+MR.ZLATAN posts ante 180
+bonjour95 posts small blind 800
+sabre_laser posts big blind 1600
+Dealt to sabre_laser [3h Jh]
+*** PRE-FLOP *** 
+many15 folds
+gotgot49 folds
+MR.ZLATAN folds
+bonjour95 folds
+sabre_laser collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Seat 3: sabre_laser (big blind) won 3300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-115-1445681324 - Holdem no limit (180/800/1600) - 2015/10/24 10:08:44 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 2: bonjour95 (58168)
+Seat 3: sabre_laser (20750)
+Seat 4: many15 (51342)
+Seat 5: gotgot49 (11922)
+Seat 6: MR.ZLATAN (54127)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 180
+many15 posts ante 180
+bonjour95 posts ante 180
+gotgot49 posts ante 180
+MR.ZLATAN posts ante 180
+sabre_laser posts small blind 800
+many15 posts big blind 1600
+Dealt to sabre_laser [2d Qh]
+*** PRE-FLOP *** 
+gotgot49 folds
+MR.ZLATAN calls 1600
+bonjour95 calls 1600
+sabre_laser folds
+many15 checks
+*** FLOP *** [Tc Kd 3d]
+many15 checks
+MR.ZLATAN bets 1600
+bonjour95 folds
+many15 folds
+MR.ZLATAN collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [Tc Kd 3d]
+Seat 6: MR.ZLATAN won 8100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-116-1445681368 - Holdem no limit (180/800/1600) - 2015/10/24 10:09:28 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 2: bonjour95 (56388)
+Seat 3: sabre_laser (19770)
+Seat 4: many15 (49562)
+Seat 5: gotgot49 (11742)
+Seat 6: MR.ZLATAN (58847)
+*** ANTE/BLINDS ***
+many15 posts ante 180
+gotgot49 posts ante 180
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+MR.ZLATAN posts ante 180
+many15 posts small blind 800
+gotgot49 posts big blind 1600
+Dealt to sabre_laser [5c 7c]
+*** PRE-FLOP *** 
+MR.ZLATAN calls 1600
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 checks
+*** FLOP *** [Qs Kh Ad]
+gotgot49 checks
+MR.ZLATAN bets 1600
+gotgot49 folds
+MR.ZLATAN collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Board: [Qs Kh Ad]
+Seat 6: MR.ZLATAN won 6500
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-117-1445681391 - Holdem no limit (180/800/1600) - 2015/10/24 10:09:51 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 2: bonjour95 (56208)
+Seat 3: sabre_laser (19590)
+Seat 4: many15 (48582)
+Seat 5: gotgot49 (9962)
+Seat 6: MR.ZLATAN (61967)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 180
+MR.ZLATAN posts ante 180
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+many15 posts ante 180
+gotgot49 posts small blind 800
+MR.ZLATAN posts big blind 1600
+Dealt to sabre_laser [Qh 3h]
+*** PRE-FLOP *** 
+bonjour95 folds
+sabre_laser folds
+many15 folds
+gotgot49 raises 3200 to 4800
+MR.ZLATAN folds
+gotgot49 collected 7300 from pot
+*** SUMMARY ***
+Total pot 7300 | No rake
+Seat 5: gotgot49 (small blind) won 7300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-118-1445681413 - Holdem no limit (180/800/1600) - 2015/10/24 10:10:13 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 2: bonjour95 (56028)
+Seat 3: sabre_laser (19410)
+Seat 4: many15 (48402)
+Seat 5: gotgot49 (12282)
+Seat 6: MR.ZLATAN (60187)
+*** ANTE/BLINDS ***
+MR.ZLATAN posts ante 180
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+many15 posts ante 180
+gotgot49 posts ante 180
+MR.ZLATAN posts small blind 800
+bonjour95 posts big blind 1600
+Dealt to sabre_laser [2h 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+many15 calls 1600
+gotgot49 folds
+MR.ZLATAN calls 800
+bonjour95 checks
+*** FLOP *** [Qh 7d 2s]
+MR.ZLATAN checks
+bonjour95 checks
+many15 checks
+*** TURN *** [Qh 7d 2s][Ah]
+MR.ZLATAN checks
+bonjour95 checks
+many15 checks
+*** RIVER *** [Qh 7d 2s Ah][6c]
+MR.ZLATAN checks
+bonjour95 checks
+many15 checks
+*** SHOW DOWN ***
+bonjour95 shows [9c Td] (High card : Ace)
+many15 shows [4d 5d] (High card : Ace)
+MR.ZLATAN shows [2c Kh] (One pair : 2)
+MR.ZLATAN collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Board: [Qh 7d 2s Ah 6c]
+Seat 2: bonjour95 (big blind) showed [9c Td] and lost with High card : Ace
+Seat 4: many15 showed [4d 5d] and lost with High card : Ace
+Seat 6: MR.ZLATAN (small blind) showed [2c Kh] and won 5700 with One pair : 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-119-1445681456 - Holdem no limit (180/800/1600) - 2015/10/24 10:10:56 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #6 is the button
+Seat 2: bonjour95 (54248)
+Seat 3: sabre_laser (19230)
+Seat 4: many15 (46622)
+Seat 5: gotgot49 (12102)
+Seat 6: MR.ZLATAN (64107)
+*** ANTE/BLINDS ***
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+many15 posts ante 180
+gotgot49 posts ante 180
+MR.ZLATAN posts ante 180
+bonjour95 posts small blind 800
+sabre_laser posts big blind 1600
+Dealt to sabre_laser [7c 8h]
+*** PRE-FLOP *** 
+many15 raises 2400 to 4000
+gotgot49 folds
+MR.ZLATAN calls 4000
+bonjour95 folds
+sabre_laser folds
+*** FLOP *** [2h 3s 4s]
+many15 checks
+MR.ZLATAN bets 11300
+many15 calls 11300
+*** TURN *** [2h 3s 4s][6c]
+many15 checks
+MR.ZLATAN bets 33900
+many15 folds
+MR.ZLATAN collected 67800 from pot
+*** SUMMARY ***
+Total pot 67800 | No rake
+Board: [2h 3s 4s 6c]
+Seat 6: MR.ZLATAN (button) won 67800
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-120-1445681488 - Holdem no limit (180/800/1600) - 2015/10/24 10:11:28 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #2 is the button
+Seat 2: bonjour95 (53268)
+Seat 3: sabre_laser (17450)
+Seat 4: many15 (31142)
+Seat 5: gotgot49 (11922)
+Seat 6: MR.ZLATAN (82527)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 180
+many15 posts ante 180
+bonjour95 posts ante 180
+gotgot49 posts ante 180
+MR.ZLATAN posts ante 180
+sabre_laser posts small blind 800
+many15 posts big blind 1600
+Dealt to sabre_laser [Qc 2d]
+*** PRE-FLOP *** 
+gotgot49 folds
+MR.ZLATAN raises 8800 to 10400
+bonjour95 folds
+sabre_laser folds
+many15 raises 20562 to 30962 and is all-in
+MR.ZLATAN calls 20562
+*** FLOP *** [Kc 8h 2h]
+*** TURN *** [Kc 8h 2h][9d]
+*** RIVER *** [Kc 8h 2h 9d][Jd]
+*** SHOW DOWN ***
+many15 shows [Ac 6d] (High card : Ace)
+MR.ZLATAN shows [Th Ah] (High card : Ace)
+MR.ZLATAN collected 63624 from pot
+*** SUMMARY ***
+Total pot 63624 | No rake
+Board: [Kc 8h 2h 9d Jd]
+Seat 4: many15 (big blind) showed [Ac 6d] and lost with High card : Ace
+Seat 6: MR.ZLATAN showed [Th Ah] and won 63624 with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-121-1445681525 - Holdem no limit (180/800/1600) - 2015/10/24 10:12:05 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #3 is the button
+Seat 1: - El padre - (60592)
+Seat 2: bonjour95 (53088)
+Seat 3: sabre_laser (16470)
+Seat 4: FRANCESINHA (51690)
+Seat 5: gotgot49 (11742)
+Seat 6: MR.ZLATAN (115009)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 180
+- El padre - posts ante 180
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+MR.ZLATAN posts ante 180
+gotgot49 posts big blind 1600
+Dealt to sabre_laser [7s Tc]
+*** PRE-FLOP *** 
+MR.ZLATAN folds
+- El padre - raises 3200 to 4800
+bonjour95 folds
+sabre_laser folds
+gotgot49 folds
+- El padre - collected 7300 from pot
+*** SUMMARY ***
+Total pot 7300 | No rake
+Seat 1: - El padre - won 7300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #573349666972762113-122-1445681559 - Holdem no limit (180/800/1600) - 2015/10/24 10:12:39 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #4 is the button
+Seat 1: - El padre - (62912)
+Seat 2: bonjour95 (52908)
+Seat 3: sabre_laser (16290)
+Seat 4: FRANCESINHA (51690)
+Seat 5: gotgot49 (9962)
+Seat 6: MR.ZLATAN (114829)
+*** ANTE/BLINDS ***
+gotgot49 posts ante 180
+MR.ZLATAN posts ante 180
+- El padre - posts ante 180
+bonjour95 posts ante 180
+sabre_laser posts ante 180
+gotgot49 posts small blind 800
+MR.ZLATAN posts big blind 1600
+Dealt to sabre_laser [Qd Kd]
+*** PRE-FLOP *** 
+- El padre - folds
+bonjour95 folds
+sabre_laser raises 14510 to 16110 and is all-in
+gotgot49 calls 8982 and is all-in
+MR.ZLATAN folds
+*** FLOP *** [Th 9c 2h]
+*** TURN *** [Th 9c 2h][Td]
+*** RIVER *** [Th 9c 2h Td][Ah]
+*** SHOW DOWN ***
+gotgot49 shows [Jh Jc] (Two pairs : Jacks and Tens)
+sabre_laser shows [Qd Kd] (One pair : Tens)
+sabre_laser collected 6328 from side pot 1
+gotgot49 collected 22064 from main pot
+*** SUMMARY ***
+Total pot 28392 | No rake
+Board: [Th 9c 2h Td Ah]
+Seat 3: sabre_laser showed [Qd Kd] and won 6328 with One pair : Tens
+Seat 5: gotgot49 (small blind) showed [Jh Jc] and won 22064 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #573349666972762113-123-1445681581 - Holdem no limit (240/1000/2000) - 2015/10/24 10:13:01 UTC
+Table: 'Hold'em(133493372)#000' 6-max (real money) Seat #5 is the button
+Seat 1: - El padre - (62732)
+Seat 2: bonjour95 (52728)
+Seat 3: sabre_laser (6328)
+Seat 4: FRANCESINHA (51690)
+Seat 5: gotgot49 (22064)
+Seat 6: MR.ZLATAN (113049)
+*** ANTE/BLINDS ***
+MR.ZLATAN posts ante 240
+- El padre - posts ante 240
+bonjour95 posts ante 240
+sabre_laser posts ante 240
+FRANCESINHA posts ante 240
+gotgot49 posts ante 240
+MR.ZLATAN posts small blind 1000
+- El padre - posts big blind 2000
+Dealt to sabre_laser [Ad Jc]
+*** PRE-FLOP *** 
+bonjour95 calls 2000
+sabre_laser raises 4088 to 6088 and is all-in
+FRANCESINHA folds
+gotgot49 folds
+MR.ZLATAN calls 5088
+- El padre - folds
+bonjour95 raises 46400 to 52488 and is all-in
+MR.ZLATAN folds
+*** FLOP *** [7d 9d 7c]
+*** TURN *** [7d 9d 7c][3d]
+*** RIVER *** [7d 9d 7c 3d][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [Ad Jc] (One pair : 7)
+bonjour95 shows [Qh Qc] (Two pairs : Queens and 7)
+bonjour95 collected 68104 from pot
+*** SUMMARY ***
+Total pot 68104 | No rake
+Board: [7d 9d 7c 3d Kh]
+Seat 2: bonjour95 showed [Qh Qc] and won 68104 with Two pairs : Queens and 7
+Seat 3: sabre_laser showed [Ad Jc] and lost with One pair : 7
+
+

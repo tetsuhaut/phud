@@ -1,0 +1,434 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565573753237405697-1-1442953012 - Holdem no limit (10/20) - 2015/09/22 20:16:52 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #7 is the button
+Seat 1: G_ZU (1500)
+Seat 2: santi21 (1500)
+Seat 3: fagodju (1500)
+Seat 4: SpewItRight (1500)
+Seat 5: juki06810 (1500)
+Seat 6: ILike It (1500)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1500)
+Seat 9: FataIBazooka (1500)
+Seat 10: cool4321 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+FataIBazooka posts big blind 20
+Dealt to sabre_laser [3c Js]
+*** PRE-FLOP *** 
+cool4321 folds
+G_ZU folds
+santi21 calls 20
+fagodju folds
+SpewItRight folds
+juki06810 raises 40 to 60
+ILike It folds
+tibune50 folds
+sabre_laser folds
+FataIBazooka folds
+santi21 raises 40 to 100
+juki06810 calls 40
+*** FLOP *** [2s 8d 4s]
+santi21 bets 230
+juki06810 folds
+santi21 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [2s 8d 4s]
+Seat 2: santi21 won 460
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565573753237405697-2-1442953098 - Holdem no limit (10/20) - 2015/09/22 20:18:18 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #8 is the button
+Seat 1: G_ZU (1500)
+Seat 2: santi21 (1630)
+Seat 3: fagodju (1500)
+Seat 4: SpewItRight (1500)
+Seat 5: juki06810 (1400)
+Seat 6: ILike It (1500)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1490)
+Seat 9: FataIBazooka (1480)
+Seat 10: cool4321 (1500)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 10
+cool4321 posts big blind 20
+Dealt to sabre_laser [Kd 6h]
+*** PRE-FLOP *** 
+G_ZU folds
+santi21 calls 20
+fagodju raises 40 to 60
+SpewItRight folds
+juki06810 folds
+ILike It folds
+tibune50 folds
+sabre_laser folds
+FataIBazooka folds
+cool4321 folds
+santi21 raises 40 to 100
+fagodju calls 40
+*** FLOP *** [9s Kc Ah]
+santi21 bets 230
+fagodju raises 1170 to 1400 and is all-in
+santi21 folds
+fagodju collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [9s Kc Ah]
+Seat 3: fagodju won 1860
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565573753237405697-3-1442953208 - Holdem no limit (15/30) - 2015/09/22 20:20:08 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #9 is the button
+Seat 1: G_ZU (1500)
+Seat 2: santi21 (1300)
+Seat 3: fagodju (1860)
+Seat 4: SpewItRight (1500)
+Seat 5: juki06810 (1400)
+Seat 6: ILike It (1500)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1490)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1480)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 15
+G_ZU posts big blind 30
+Dealt to sabre_laser [Ah Qd]
+*** PRE-FLOP *** 
+santi21 raises 30 to 60
+fagodju folds
+SpewItRight folds
+juki06810 folds
+ILike It folds
+tibune50 folds
+sabre_laser calls 60
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+*** FLOP *** [Td 5c Jd]
+santi21 checks
+sabre_laser bets 165
+santi21 calls 165
+*** TURN *** [Td 5c Jd][As]
+santi21 checks
+sabre_laser checks
+*** RIVER *** [Td 5c Jd As][Jh]
+santi21 bets 371
+sabre_laser folds
+santi21 collected 866 from pot
+*** SUMMARY ***
+Total pot 866 | No rake
+Board: [Td 5c Jd As Jh]
+Seat 2: santi21 won 866
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565573753237405697-4-1442953326 - Holdem no limit (15/30) - 2015/09/22 20:22:06 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #10 is the button
+Seat 1: G_ZU (1470)
+Seat 2: santi21 (1570)
+Seat 3: fagodju (1860)
+Seat 4: SpewItRight (1500)
+Seat 5: juki06810 (1400)
+Seat 6: ILike It (1500)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1265)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 15
+santi21 posts big blind 30
+Dealt to sabre_laser [8s 7d]
+*** PRE-FLOP *** 
+fagodju folds
+SpewItRight folds
+juki06810 folds
+ILike It calls 30
+tibune50 folds
+sabre_laser folds
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+santi21 checks
+*** FLOP *** [Jc Qs Ks]
+santi21 checks
+ILike It checks
+*** TURN *** [Jc Qs Ks][Ac]
+santi21 checks
+ILike It bets 38
+santi21 calls 38
+*** RIVER *** [Jc Qs Ks Ac][Ts]
+santi21 checks
+ILike It checks
+*** SHOW DOWN ***
+santi21 shows [Qd Jd] (Straight Ace high)
+ILike It shows [7h As] (Straight Ace high)
+ILike It collected 76 from pot
+santi21 collected 75 from pot
+*** SUMMARY ***
+Total pot 151 | No rake
+Board: [Jc Qs Ks Ac Ts]
+Seat 2: santi21 (big blind) showed [Qd Jd] and won 75 with Straight Ace high
+Seat 6: ILike It showed [7h As] and won 76 with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565573753237405697-5-1442953440 - Holdem no limit (20/40) - 2015/09/22 20:24:00 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #1 is the button
+Seat 1: G_ZU (1455)
+Seat 2: santi21 (1577)
+Seat 3: fagodju (1860)
+Seat 4: SpewItRight (1500)
+Seat 5: juki06810 (1400)
+Seat 6: ILike It (1508)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1265)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+santi21 posts small blind 20
+fagodju posts big blind 40
+Dealt to sabre_laser [2c 6d]
+*** PRE-FLOP *** 
+SpewItRight raises 40 to 80
+juki06810 folds
+ILike It folds
+tibune50 folds
+sabre_laser folds
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+santi21 folds
+fagodju calls 40
+*** FLOP *** [8h 7d 4d]
+fagodju checks
+SpewItRight checks
+*** TURN *** [8h 7d 4d][5d]
+fagodju checks
+SpewItRight bets 40
+fagodju folds
+SpewItRight collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [8h 7d 4d 5d]
+Seat 4: SpewItRight won 220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565573753237405697-6-1442953526 - Holdem no limit (20/40) - 2015/09/22 20:25:26 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #2 is the button
+Seat 1: G_ZU (1455)
+Seat 2: santi21 (1557)
+Seat 3: fagodju (1780)
+Seat 4: SpewItRight (1600)
+Seat 5: juki06810 (1400)
+Seat 6: ILike It (1508)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1265)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+fagodju posts small blind 20
+SpewItRight posts big blind 40
+Dealt to sabre_laser [7c Kc]
+*** PRE-FLOP *** 
+juki06810 folds
+ILike It calls 40
+tibune50 folds
+sabre_laser folds
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+santi21 calls 40
+fagodju calls 20
+SpewItRight checks
+*** FLOP *** [Kd 8s 7s]
+fagodju checks
+SpewItRight checks
+ILike It checks
+santi21 checks
+*** TURN *** [Kd 8s 7s][Ac]
+fagodju checks
+SpewItRight checks
+ILike It checks
+santi21 checks
+*** RIVER *** [Kd 8s 7s Ac][8h]
+fagodju checks
+SpewItRight checks
+ILike It checks
+santi21 bets 80
+fagodju calls 80
+SpewItRight folds
+ILike It folds
+*** SHOW DOWN ***
+santi21 shows [6h 9c] (One pair : 8)
+fagodju shows [Ah 2c] (Two pairs : Aces and 8)
+fagodju collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Kd 8s 7s Ac 8h]
+Seat 2: santi21 (button) showed [6h 9c] and lost with One pair : 8
+Seat 3: fagodju (small blind) showed [Ah 2c] and won 320 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565573753237405697-7-1442953646 - Holdem no limit (30/60) - 2015/09/22 20:27:26 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #3 is the button
+Seat 1: G_ZU (1455)
+Seat 2: santi21 (1437)
+Seat 3: fagodju (1980)
+Seat 4: SpewItRight (1560)
+Seat 5: juki06810 (1400)
+Seat 6: ILike It (1468)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1265)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 30
+juki06810 posts big blind 60
+Dealt to sabre_laser [2c 4s]
+*** PRE-FLOP *** 
+ILike It folds
+tibune50 folds
+sabre_laser folds
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+santi21 folds
+fagodju folds
+SpewItRight folds
+juki06810 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: juki06810 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565573753237405697-8-1442953682 - Holdem no limit (30/60) - 2015/09/22 20:28:02 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #4 is the button
+Seat 1: G_ZU (1455)
+Seat 2: santi21 (1437)
+Seat 3: fagodju (1980)
+Seat 4: SpewItRight (1530)
+Seat 5: juki06810 (1430)
+Seat 6: ILike It (1468)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1265)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+juki06810 posts small blind 30
+ILike It posts big blind 60
+Dealt to sabre_laser [3d 8c]
+*** PRE-FLOP *** 
+tibune50 folds
+sabre_laser folds
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+santi21 folds
+fagodju folds
+SpewItRight folds
+juki06810 calls 30
+ILike It checks
+*** FLOP *** [2c Ac 4c]
+juki06810 bets 60
+ILike It folds
+juki06810 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2c Ac 4c]
+Seat 5: juki06810 (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565573753237405697-9-1442953734 - Holdem no limit (40/80) - 2015/09/22 20:28:54 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #5 is the button
+Seat 1: G_ZU (1455)
+Seat 2: santi21 (1437)
+Seat 3: fagodju (1980)
+Seat 4: SpewItRight (1530)
+Seat 5: juki06810 (1490)
+Seat 6: ILike It (1408)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1265)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+ILike It posts small blind 40
+tibune50 posts big blind 80
+Dealt to sabre_laser [3s Ac]
+*** PRE-FLOP *** 
+sabre_laser folds
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+santi21 folds
+fagodju folds
+SpewItRight folds
+juki06810 folds
+ILike It calls 40
+tibune50 checks
+*** FLOP *** [Ad 9h Kh]
+ILike It checks
+tibune50 checks
+*** TURN *** [Ad 9h Kh][9c]
+ILike It checks
+tibune50 checks
+*** RIVER *** [Ad 9h Kh 9c][Ks]
+ILike It bets 80
+tibune50 calls 80
+*** SHOW DOWN ***
+ILike It shows [3d 4d] (Two pairs : Kings and 9)
+tibune50 shows [Js Qc] (Two pairs : Kings and 9)
+tibune50 collected 160 from pot
+ILike It collected 160 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Ad 9h Kh 9c Ks]
+Seat 6: ILike It (small blind) showed [3d 4d] and won 160 with Two pairs : Kings and 9
+Seat 7: tibune50 (big blind) showed [Js Qc] and won 160 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565573753237405697-10-1442953817 - Holdem no limit (40/80) - 2015/09/22 20:30:17 UTC
+Table: 'Double or Nothing(131682901)#0' 10-max (real money) Seat #6 is the button
+Seat 1: G_ZU (1455)
+Seat 2: santi21 (1437)
+Seat 3: fagodju (1980)
+Seat 4: SpewItRight (1530)
+Seat 5: juki06810 (1490)
+Seat 6: ILike It (1408)
+Seat 7: tibune50 (1500)
+Seat 8: sabre_laser (1265)
+Seat 9: FataIBazooka (1470)
+Seat 10: cool4321 (1465)
+*** ANTE/BLINDS ***
+tibune50 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [8d 8c]
+*** PRE-FLOP *** 
+FataIBazooka folds
+cool4321 folds
+G_ZU folds
+santi21 raises 80 to 160
+fagodju folds
+SpewItRight folds
+juki06810 folds
+ILike It calls 160
+tibune50 folds
+sabre_laser raises 1105 to 1265 and is all-in
+santi21 calls 1105
+ILike It calls 1105
+*** FLOP *** [Kh 6h 2h]
+santi21 checks
+ILike It bets 143 and is all-in
+santi21 calls 143
+*** TURN *** [Kh 6h 2h][Jd]
+*** RIVER *** [Kh 6h 2h Jd][3s]
+*** SHOW DOWN ***
+ILike It shows [Ad Qd] (High card : Ace)
+sabre_laser shows [8d 8c] (One pair : 8)
+santi21 shows [As Js] (One pair : Jacks)
+santi21 collected 4121 from pot
+*** SUMMARY ***
+Total pot 4121 | No rake
+Board: [Kh 6h 2h Jd 3s]
+Seat 2: santi21 showed [As Js] and won 4121 with One pair : Jacks
+Seat 6: ILike It (button) showed [Ad Qd] and lost with High card : Ace
+Seat 8: sabre_laser (big blind) showed [8d 8c] and lost with One pair : 8
+
+

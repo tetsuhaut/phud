@@ -1,0 +1,1301 @@
+Winamax Poker - CashGame - HandId: #7498130-587-1430953833 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:10:33 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #1 is the button
+Seat 2: annakine14 (0.23€)
+Seat 3: lIlI-Banzaii (3.63€)
+Seat 4: Chloemagique (2.08€)
+Seat 5: JeremBe76 (0€)
+Seat 6: DARILEBLEU (1.92€)
+Seat 7: sergiold (2.10€)
+Seat 8: grofood (2.85€)
+Seat 9: sabre_laser (2€)
+*** ANTE/BLINDS ***
+annakine14 posts small blind 0.01€
+lIlI-Banzaii posts big blind 0.02€
+*** PRE-FLOP *** 
+Chloemagique folds
+sergiold folds
+grofood folds
+annakine14 calls 0.01€
+lIlI-Banzaii checks
+*** FLOP *** [9c Kd Ks]
+annakine14 checks
+lIlI-Banzaii checks
+*** TURN *** [9c Kd Ks][Qs]
+annakine14 checks
+lIlI-Banzaii checks
+*** RIVER *** [9c Kd Ks Qs][2d]
+annakine14 checks
+lIlI-Banzaii checks
+*** SHOW DOWN ***
+annakine14 shows [3c Jd] (One pair : Kings)
+lIlI-Banzaii shows [8d 9h] (Two pairs : Kings and 9)
+lIlI-Banzaii collected 0.04€ from pot
+*** SUMMARY ***
+Total pot 0.04€ | No rake
+Board: [9c Kd Ks Qs 2d]
+Seat 2: annakine14 (small blind) showed [3c Jd] and lost with One pair : Kings
+Seat 3: lIlI-Banzaii (big blind) showed [8d 9h] and won 0.04€ with Two pairs : Kings and 9
+
+
+Winamax Poker - CashGame - HandId: #7498130-588-1430953876 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:11:16 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #2 is the button
+Seat 2: annakine14 (0.21€)
+Seat 3: lIlI-Banzaii (3.65€)
+Seat 4: Chloemagique (2.08€)
+Seat 6: DARILEBLEU (1.92€)
+Seat 7: sergiold (2.10€)
+Seat 8: grofood (2.85€)
+Seat 9: sabre_laser (2€)
+*** ANTE/BLINDS ***
+lIlI-Banzaii posts small blind 0.01€
+Chloemagique posts big blind 0.02€
+sabre_laser posts big blind 0.02€ out of position
+Dealt to sabre_laser [As 8d]
+*** PRE-FLOP *** 
+sergiold folds
+grofood folds
+sabre_laser raises 0.08€ to 0.10€
+annakine14 folds
+lIlI-Banzaii folds
+Chloemagique folds
+sabre_laser collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | No rake
+Seat 9: sabre_laser won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #7498130-589-1430953903 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:11:43 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #3 is the button
+Seat 2: annakine14 (0.21€)
+Seat 3: lIlI-Banzaii (3.64€)
+Seat 4: Chloemagique (2.06€)
+Seat 7: sergiold (2.10€)
+Seat 8: grofood (2.85€)
+Seat 9: sabre_laser (2.03€)
+*** ANTE/BLINDS ***
+Chloemagique posts small blind 0.01€
+sergiold posts big blind 0.02€
+Dealt to sabre_laser [2h 8d]
+*** PRE-FLOP *** 
+grofood folds
+sabre_laser folds
+annakine14 folds
+lIlI-Banzaii folds
+Chloemagique raises 0.04€ to 0.06€
+sergiold calls 0.04€
+*** FLOP *** [5h Kh 4d]
+Chloemagique checks
+sergiold bets 0.06€
+Chloemagique calls 0.06€
+*** TURN *** [5h Kh 4d][6d]
+Chloemagique checks
+sergiold bets 0.12€
+Chloemagique calls 0.12€
+*** RIVER *** [5h Kh 4d 6d][3h]
+Chloemagique checks
+sergiold checks
+*** SHOW DOWN ***
+sergiold shows [Ad Tc] (High card : Ace)
+Chloemagique shows [Kc 9s] (One pair : Kings)
+Chloemagique collected 0.45€ from pot
+*** SUMMARY ***
+Total pot 0.45€ | Rake 0.03€
+Board: [5h Kh 4d 6d 3h]
+Seat 4: Chloemagique (small blind) showed [Kc 9s] and won 0.45€ with One pair : Kings
+Seat 7: sergiold (big blind) showed [Ad Tc] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7498130-590-1430953964 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:12:44 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #4 is the button
+Seat 2: annakine14 (0.21€)
+Seat 3: lIlI-Banzaii (3.64€)
+Seat 4: Chloemagique (2.27€)
+Seat 7: sergiold (1.86€)
+Seat 8: grofood (2.85€)
+Seat 9: sabre_laser (2.03€)
+*** ANTE/BLINDS ***
+sergiold posts small blind 0.01€
+grofood posts big blind 0.02€
+Dealt to sabre_laser [7d 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+annakine14 folds
+lIlI-Banzaii folds
+Chloemagique raises 0.04€ to 0.06€
+sergiold folds
+grofood folds
+Chloemagique collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: Chloemagique (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7498130-591-1430954004 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:13:24 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #7 is the button
+Seat 2: annakine14 (0.21€)
+Seat 3: lIlI-Banzaii (3.64€)
+Seat 4: Chloemagique (2.30€)
+Seat 7: sergiold (1.85€)
+Seat 8: grofood (2.83€)
+Seat 9: sabre_laser (2.03€)
+*** ANTE/BLINDS ***
+grofood posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [3s 3d]
+*** PRE-FLOP *** 
+annakine14 raises 0.04€ to 0.06€
+lIlI-Banzaii folds
+Chloemagique folds
+sergiold calls 0.06€
+grofood folds
+sabre_laser calls 0.04€
+*** FLOP *** [Jc 5h 9d]
+sabre_laser checks
+annakine14 checks
+sergiold bets 0.10€
+sabre_laser folds
+annakine14 folds
+sergiold collected 0.28€ from pot
+*** SUMMARY ***
+Total pot 0.28€ | Rake 0.01€
+Board: [Jc 5h 9d]
+Seat 7: sergiold (button) won 0.28€
+
+
+Winamax Poker - CashGame - HandId: #7498130-592-1430954058 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:14:18 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #8 is the button
+Seat 2: annakine14 (0.15€)
+Seat 3: lIlI-Banzaii (3.64€)
+Seat 4: Chloemagique (2.30€)
+Seat 7: sergiold (1.97€)
+Seat 8: grofood (2.82€)
+Seat 9: sabre_laser (1.97€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+annakine14 posts big blind 0.02€
+Dealt to sabre_laser [5s Ts]
+*** PRE-FLOP *** 
+lIlI-Banzaii folds
+Chloemagique folds
+sergiold folds
+grofood folds
+sabre_laser raises 0.04€ to 0.06€
+annakine14 folds
+sabre_laser collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 9: sabre_laser (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7498130-593-1430954091 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:14:51 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #9 is the button
+Seat 2: annakine14 (0.13€)
+Seat 3: lIlI-Banzaii (3.64€)
+Seat 4: Chloemagique (2.30€)
+Seat 7: sergiold (1.97€)
+Seat 8: grofood (2.82€)
+Seat 9: sabre_laser (1.99€)
+*** ANTE/BLINDS ***
+lIlI-Banzaii denies big blind
+annakine14 posts small blind 0.01€
+Chloemagique posts big blind 0.02€
+Dealt to sabre_laser [Td 3d]
+*** PRE-FLOP *** 
+sergiold folds
+grofood folds
+sabre_laser folds
+annakine14 folds
+Chloemagique collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 4: Chloemagique (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7498130-594-1430954105 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:15:05 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #2 is the button
+Seat 2: annakine14 (0.12€)
+Seat 4: Chloemagique (2.31€)
+Seat 7: sergiold (1.97€)
+Seat 8: grofood (2.82€)
+Seat 9: sabre_laser (1.99€)
+*** ANTE/BLINDS ***
+Chloemagique posts small blind 0.01€
+sergiold posts big blind 0.02€
+Dealt to sabre_laser [4h 2h]
+*** PRE-FLOP *** 
+grofood folds
+sabre_laser folds
+annakine14 folds
+Chloemagique raises 0.06€ to 0.08€
+sergiold calls 0.06€
+*** FLOP *** [3c Ad 8d]
+Chloemagique checks
+sergiold bets 0.08€
+Chloemagique calls 0.08€
+*** TURN *** [3c Ad 8d][8s]
+Chloemagique checks
+sergiold bets 0.16€
+Chloemagique calls 0.16€
+*** RIVER *** [3c Ad 8d 8s][7d]
+Chloemagique checks
+sergiold bets 0.64€
+Chloemagique calls 0.64€
+*** SHOW DOWN ***
+Chloemagique shows [Qc As] (Two pairs : Aces and 8)
+sergiold shows [Td Qd] (Flush Ace high)
+sergiold collected 1.80€ from pot
+*** SUMMARY ***
+Total pot 1.80€ | Rake 0.12€
+Board: [3c Ad 8d 8s 7d]
+Seat 4: Chloemagique (small blind) showed [Qc As] and lost with Two pairs : Aces and 8
+Seat 7: sergiold (big blind) showed [Td Qd] and won 1.80€ with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #7498130-595-1430954194 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:16:34 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #4 is the button
+Seat 2: annakine14 (0.12€)
+Seat 4: Chloemagique (2€)
+Seat 7: sergiold (2.81€)
+Seat 8: grofood (2.82€)
+Seat 9: sabre_laser (1.99€)
+*** ANTE/BLINDS ***
+grofood denies big blind
+sergiold posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [6s 5d]
+*** PRE-FLOP *** 
+annakine14 folds
+Chloemagique raises 0.04€ to 0.06€
+sergiold folds
+sabre_laser folds
+Chloemagique collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: Chloemagique (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7498130-596-1430954216 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:16:56 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #7 is the button
+Seat 1: zalty (2€)
+Seat 2: annakine14 (0.12€)
+Seat 4: Chloemagique (2.03€)
+Seat 7: sergiold (2.80€)
+Seat 9: sabre_laser (1.97€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+zalty posts big blind 0.02€
+Dealt to sabre_laser [6s Ts]
+*** PRE-FLOP *** 
+annakine14 folds
+Chloemagique folds
+sergiold calls 0.02€
+sabre_laser calls 0.01€
+zalty checks
+*** FLOP *** [6h 7c 8d]
+sabre_laser bets 0.06€
+zalty raises 0.18€ to 0.24€
+sergiold folds
+sabre_laser calls 0.18€
+*** TURN *** [6h 7c 8d][4s]
+sabre_laser checks
+zalty bets 0.54€
+sabre_laser folds
+zalty collected 1.04€ from pot
+*** SUMMARY ***
+Total pot 1.04€ | Rake 0.04€
+Board: [6h 7c 8d 4s]
+Seat 1: zalty (big blind) won 1.04€
+
+
+Winamax Poker - CashGame - HandId: #7498130-597-1430954286 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:18:06 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #9 is the button
+Seat 1: zalty (2.24€)
+Seat 2: annakine14 (0.12€)
+Seat 4: Chloemagique (2.03€)
+Seat 7: sergiold (2.78€)
+Seat 9: sabre_laser (1.71€)
+*** ANTE/BLINDS ***
+zalty posts small blind 0.01€
+annakine14 posts big blind 0.02€
+Dealt to sabre_laser [Th 7d]
+*** PRE-FLOP *** 
+Chloemagique folds
+sergiold calls 0.02€
+sabre_laser folds
+zalty calls 0.01€
+annakine14 checks
+*** FLOP *** [8d Ks 6c]
+zalty checks
+annakine14 bets 0.10€ and is all-in
+sergiold folds
+zalty calls 0.10€
+*** TURN *** [8d Ks 6c][3d]
+*** RIVER *** [8d Ks 6c 3d][2d]
+*** SHOW DOWN ***
+zalty shows [7s 4c] (High card : King)
+annakine14 shows [Ts 6s] (One pair : 6)
+annakine14 collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.02€
+Board: [8d Ks 6c 3d 2d]
+Seat 1: zalty (small blind) showed [7s 4c] and lost with High card : King
+Seat 2: annakine14 (big blind) showed [Ts 6s] and won 0.24€ with One pair : 6
+
+
+Winamax Poker - CashGame - HandId: #7498130-598-1430954344 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:19:04 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #1 is the button
+Seat 1: zalty (2.12€)
+Seat 2: annakine14 (0.24€)
+Seat 4: Chloemagique (2.03€)
+Seat 7: sergiold (2.76€)
+Seat 9: sabre_laser (1.71€)
+*** ANTE/BLINDS ***
+annakine14 posts small blind 0.01€
+Chloemagique posts big blind 0.02€
+Dealt to sabre_laser [Kd 6h]
+*** PRE-FLOP *** 
+sergiold folds
+sabre_laser raises 0.04€ to 0.06€
+zalty folds
+annakine14 folds
+Chloemagique folds
+sabre_laser collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 9: sabre_laser won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7498130-599-1430954376 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:19:36 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #2 is the button
+Seat 1: zalty (2.12€)
+Seat 2: annakine14 (0.23€)
+Seat 4: Chloemagique (2.01€)
+Seat 7: sergiold (2.76€)
+Seat 8: juju230596 (0.80€)
+Seat 9: sabre_laser (1.74€)
+*** ANTE/BLINDS ***
+Chloemagique posts small blind 0.01€
+sergiold posts big blind 0.02€
+juju230596 posts big blind 0.02€ out of position
+Dealt to sabre_laser [Ks 2h]
+*** PRE-FLOP *** 
+juju230596 checks
+sabre_laser folds
+zalty folds
+annakine14 folds
+Chloemagique calls 0.01€
+sergiold checks
+*** FLOP *** [Kd 5s 5d]
+Chloemagique checks
+sergiold checks
+juju230596 bets 0.04€
+Chloemagique folds
+sergiold folds
+juju230596 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Board: [Kd 5s 5d]
+Seat 8: juju230596 won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7498130-600-1430954413 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:20:13 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #4 is the button
+Seat 1: zalty (2.12€)
+Seat 2: annakine14 (0.23€)
+Seat 4: Chloemagique (2€)
+Seat 7: sergiold (2.74€)
+Seat 8: juju230596 (0.84€)
+Seat 9: sabre_laser (1.74€)
+*** ANTE/BLINDS ***
+sergiold posts small blind 0.01€
+juju230596 posts big blind 0.02€
+Dealt to sabre_laser [6c Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+zalty folds
+annakine14 folds
+Chloemagique folds
+sergiold calls 0.01€
+juju230596 checks
+*** FLOP *** [Td 6d Js]
+sergiold bets 0.04€
+juju230596 calls 0.04€
+*** TURN *** [Td 6d Js][6s]
+sergiold bets 0.12€
+juju230596 calls 0.12€
+*** RIVER *** [Td 6d Js 6s][9c]
+sergiold checks
+juju230596 bets 0.66€ and is all-in
+sergiold folds
+juju230596 collected 1€ from pot
+*** SUMMARY ***
+Total pot 1€ | Rake 0.02€
+Board: [Td 6d Js 6s 9c]
+Seat 8: juju230596 (big blind) won 1€
+
+
+Winamax Poker - CashGame - HandId: #7498130-601-1430954459 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:20:59 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #7 is the button
+Seat 1: zalty (2.12€)
+Seat 2: annakine14 (0.23€)
+Seat 4: Chloemagique (2€)
+Seat 6: Necrom3D (0€)
+Seat 7: sergiold (2.56€)
+Seat 8: juju230596 (1€)
+Seat 9: sabre_laser (1.74€)
+*** ANTE/BLINDS ***
+juju230596 posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [9c 6c]
+*** PRE-FLOP *** 
+zalty folds
+annakine14 folds
+Chloemagique folds
+sergiold calls 0.02€
+juju230596 calls 0.01€
+sabre_laser checks
+*** FLOP *** [3d Qs 8d]
+juju230596 checks
+sabre_laser checks
+sergiold bets 0.06€
+juju230596 folds
+sabre_laser folds
+sergiold collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [3d Qs 8d]
+Seat 7: sergiold (button) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #7498130-602-1430954519 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:21:59 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #8 is the button
+Seat 1: zalty (2.12€)
+Seat 2: annakine14 (0.23€)
+Seat 4: Chloemagique (2€)
+Seat 6: Necrom3D (1€)
+Seat 7: sergiold (2.60€)
+Seat 8: juju230596 (0.98€)
+Seat 9: sabre_laser (1.72€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+zalty posts big blind 0.02€
+Necrom3D posts big blind 0.02€ out of position
+Dealt to sabre_laser [8h Ah]
+*** PRE-FLOP *** 
+annakine14 folds
+Chloemagique raises 0.08€ to 0.10€
+Necrom3D calls 0.08€
+sergiold folds
+juju230596 calls 0.10€
+sabre_laser calls 0.09€
+zalty calls 0.08€
+*** FLOP *** [5d 3d Js]
+sabre_laser checks
+zalty checks
+Chloemagique checks
+Necrom3D checks
+juju230596 checks
+*** TURN *** [5d 3d Js][Jh]
+sabre_laser checks
+zalty checks
+Chloemagique checks
+Necrom3D bets 0.02€
+juju230596 folds
+sabre_laser folds
+zalty raises 0.35€ to 0.37€
+Chloemagique folds
+Necrom3D raises 0.53€ to 0.90€ and is all-in
+zalty calls 0.53€
+*** RIVER *** [5d 3d Js Jh][6s]
+*** SHOW DOWN ***
+zalty shows [2s As] (One pair : Jacks)
+Necrom3D shows [Ad Jc] (Trips of Jacks)
+Necrom3D collected 2.15€ from pot
+*** SUMMARY ***
+Total pot 2.15€ | Rake 0.15€
+Board: [5d 3d Js Jh 6s]
+Seat 1: zalty (big blind) showed [2s As] and lost with One pair : Jacks
+Seat 6: Necrom3D showed [Ad Jc] and won 2.15€ with Trips of Jacks
+
+
+Winamax Poker - CashGame - HandId: #7498130-603-1430954681 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:24:41 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #9 is the button
+Seat 1: zalty (1.12€)
+Seat 2: annakine14 (0.23€)
+Seat 3: ellucas (1€)
+Seat 4: Chloemagique (2€)
+Seat 6: Necrom3D (2.15€)
+Seat 7: sergiold (2.60€)
+Seat 8: juju230596 (0.88€)
+Seat 9: sabre_laser (1.62€)
+*** ANTE/BLINDS ***
+zalty posts small blind 0.01€
+annakine14 posts big blind 0.02€
+Dealt to sabre_laser [Th 9d]
+*** PRE-FLOP *** 
+Chloemagique folds
+Necrom3D calls 0.02€
+sergiold calls 0.02€
+juju230596 folds
+sabre_laser folds
+zalty calls 0.01€
+annakine14 checks
+*** FLOP *** [Jc 6h 8d]
+zalty checks
+annakine14 checks
+Necrom3D checks
+sergiold bets 0.04€
+zalty calls 0.04€
+annakine14 folds
+Necrom3D folds
+*** TURN *** [Jc 6h 8d][Qd]
+zalty bets 0.11€
+sergiold folds
+zalty collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.01€
+Board: [Jc 6h 8d Qd]
+Seat 1: zalty (small blind) won 0.26€
+
+
+Winamax Poker - CashGame - HandId: #7498130-604-1430954846 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:27:26 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #1 is the button
+Seat 1: zalty (1.21€)
+Seat 2: annakine14 (0.21€)
+Seat 3: ellucas (1€)
+Seat 4: Chloemagique (2€)
+Seat 6: Necrom3D (2.13€)
+Seat 7: sergiold (2.54€)
+Seat 8: juju230596 (0.88€)
+Seat 9: sabre_laser (1.62€)
+*** ANTE/BLINDS ***
+annakine14 posts small blind 0.01€
+ellucas posts big blind 0.02€
+Dealt to sabre_laser [4c Th]
+*** PRE-FLOP *** 
+Chloemagique folds
+Necrom3D calls 0.02€
+sergiold folds
+juju230596 folds
+sabre_laser folds
+zalty calls 0.02€
+annakine14 folds
+ellucas checks
+*** FLOP *** [8h 2c Tc]
+ellucas checks
+Necrom3D checks
+zalty checks
+*** TURN *** [8h 2c Tc][8c]
+ellucas checks
+Necrom3D checks
+zalty bets 0.20€
+ellucas folds
+Necrom3D folds
+zalty collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Board: [8h 2c Tc 8c]
+Seat 1: zalty (button) won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #7498130-605-1430955010 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:30:10 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #2 is the button
+Seat 1: zalty (1.26€)
+Seat 2: annakine14 (0.20€)
+Seat 3: ellucas (0.98€)
+Seat 4: Chloemagique (2€)
+Seat 6: Necrom3D (2.11€)
+Seat 7: sergiold (2.54€)
+Seat 8: juju230596 (0.88€)
+Seat 9: sabre_laser (1.62€)
+*** ANTE/BLINDS ***
+ellucas posts small blind 0.01€
+Chloemagique posts big blind 0.02€
+Dealt to sabre_laser [2c Ts]
+*** PRE-FLOP *** 
+Necrom3D folds
+sergiold folds
+juju230596 calls 0.02€
+sabre_laser folds
+zalty calls 0.02€
+annakine14 folds
+ellucas folds
+Chloemagique checks
+*** FLOP *** [3s Th Qh]
+Chloemagique checks
+juju230596 bets 0.02€
+zalty calls 0.02€
+Chloemagique folds
+*** TURN *** [3s Th Qh][Js]
+juju230596 bets 0.02€
+zalty raises 0.15€ to 0.17€
+juju230596 calls 0.15€
+*** RIVER *** [3s Th Qh Js][Kd]
+juju230596 bets 0.34€
+zalty folds
+juju230596 collected 0.76€ from pot
+*** SUMMARY ***
+Total pot 0.76€ | Rake 0.03€
+Board: [3s Th Qh Js Kd]
+Seat 8: juju230596 won 0.76€
+
+
+Winamax Poker - CashGame - HandId: #7498130-606-1430955094 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:31:34 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #3 is the button
+Seat 1: zalty (1.05€)
+Seat 2: annakine14 (0.20€)
+Seat 3: ellucas (0.97€)
+Seat 4: Chloemagique (2€)
+Seat 6: Necrom3D (2.11€)
+Seat 7: sergiold (2.54€)
+Seat 8: juju230596 (1.09€)
+Seat 9: sabre_laser (1.62€)
+*** ANTE/BLINDS ***
+Chloemagique posts small blind 0.01€
+Necrom3D posts big blind 0.02€
+Dealt to sabre_laser [Jd Kd]
+*** PRE-FLOP *** 
+sergiold folds
+juju230596 folds
+sabre_laser raises 0.04€ to 0.06€
+zalty calls 0.06€
+annakine14 folds
+ellucas folds
+Chloemagique folds
+Necrom3D folds
+*** FLOP *** [3d Ts 7s]
+sabre_laser checks
+zalty bets 0.02€
+sabre_laser calls 0.02€
+*** TURN *** [3d Ts 7s][4s]
+sabre_laser checks
+zalty bets 0.19€
+sabre_laser folds
+zalty collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.01€
+Board: [3d Ts 7s 4s]
+Seat 1: zalty won 0.37€
+
+
+Winamax Poker - CashGame - HandId: #7498130-607-1430955166 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:32:46 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #4 is the button
+Seat 1: zalty (1.15€)
+Seat 2: annakine14 (0.20€)
+Seat 3: ellucas (0.97€)
+Seat 4: Chloemagique (2€)
+Seat 6: Necrom3D (2.09€)
+Seat 7: sergiold (2.54€)
+Seat 8: juju230596 (1.09€)
+Seat 9: sabre_laser (1.54€)
+*** ANTE/BLINDS ***
+Necrom3D posts small blind 0.01€
+sergiold posts big blind 0.02€
+Dealt to sabre_laser [9s 3h]
+*** PRE-FLOP *** 
+juju230596 calls 0.02€
+sabre_laser folds
+zalty calls 0.02€
+annakine14 raises 0.18€ to 0.20€ and is all-in
+ellucas folds
+Chloemagique folds
+Necrom3D folds
+sergiold folds
+juju230596 calls 0.18€
+zalty calls 0.18€
+*** FLOP *** [Td As Kd]
+juju230596 checks
+zalty checks
+*** TURN *** [Td As Kd][6d]
+juju230596 bets 0.32€
+zalty folds
+*** RIVER *** [Td As Kd 6d][Qs]
+*** SHOW DOWN ***
+annakine14 shows [7s 7h] (One pair : 7)
+juju230596 shows [2d Ad] (Flush Ace high)
+juju230596 collected 0.91€ from pot
+*** SUMMARY ***
+Total pot 0.91€ | Rake 0.04€
+Board: [Td As Kd 6d Qs]
+Seat 2: annakine14 showed [7s 7h] and lost with One pair : 7
+Seat 8: juju230596 showed [2d Ad] and won 0.91€ with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #7498130-608-1430955252 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:34:12 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #6 is the button
+Seat 1: zalty (0.95€)
+Seat 2: annakine14 (0€)
+Seat 3: ellucas (0.97€)
+Seat 4: Chloemagique (2€)
+Seat 5: alaala07 (2€)
+Seat 6: Necrom3D (2.08€)
+Seat 7: sergiold (2.52€)
+Seat 8: juju230596 (1.48€)
+Seat 9: sabre_laser (1.54€)
+*** ANTE/BLINDS ***
+sergiold posts small blind 0.01€
+juju230596 posts big blind 0.02€
+alaala07 posts big blind 0.02€ out of position
+Dealt to sabre_laser [2c Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+zalty calls 0.02€
+ellucas folds
+Chloemagique folds
+alaala07 checks
+Necrom3D calls 0.02€
+sergiold calls 0.01€
+juju230596 checks
+*** FLOP *** [3d 3c Kh]
+sergiold checks
+juju230596 bets 0.02€
+zalty calls 0.02€
+alaala07 folds
+Necrom3D folds
+sergiold folds
+*** TURN *** [3d 3c Kh][3s]
+juju230596 bets 0.02€
+zalty raises 0.18€ to 0.20€
+juju230596 calls 0.18€
+*** RIVER *** [3d 3c Kh 3s][6d]
+juju230596 checks
+zalty bets 0.54€
+juju230596 calls 0.54€
+*** SHOW DOWN ***
+zalty shows [2h 4d] (Trips of 3)
+juju230596 shows [7d Kd] (Full of 3 and Kings)
+juju230596 collected 1.51€ from pot
+*** SUMMARY ***
+Total pot 1.51€ | Rake 0.11€
+Board: [3d 3c Kh 3s 6d]
+Seat 1: zalty showed [2h 4d] and lost with Trips of 3
+Seat 8: juju230596 (big blind) showed [7d Kd] and won 1.51€ with Full of 3 and Kings
+
+
+Winamax Poker - CashGame - HandId: #7498130-609-1430955420 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:37:00 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #7 is the button
+Seat 1: zalty (0.17€)
+Seat 2: bipbip94 (2€)
+Seat 3: ellucas (0.97€)
+Seat 4: Chloemagique (2€)
+Seat 5: alaala07 (1.98€)
+Seat 6: Necrom3D (2.06€)
+Seat 7: sergiold (2.50€)
+Seat 8: juju230596 (2.21€)
+Seat 9: sabre_laser (1.54€)
+*** ANTE/BLINDS ***
+juju230596 posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+bipbip94 posts big blind 0.02€ out of position
+Dealt to sabre_laser [5c 4c]
+*** PRE-FLOP *** 
+zalty calls 0.02€
+bipbip94 checks
+ellucas folds
+Chloemagique folds
+alaala07 folds
+Necrom3D calls 0.02€
+sergiold calls 0.02€
+juju230596 calls 0.01€
+sabre_laser checks
+*** FLOP *** [5s Th 8s]
+juju230596 bets 0.08€
+sabre_laser folds
+zalty calls 0.08€
+bipbip94 folds
+Necrom3D calls 0.08€
+sergiold calls 0.08€
+*** TURN *** [5s Th 8s][7h]
+juju230596 bets 0.33€
+zalty calls 0.07€ and is all-in
+Necrom3D folds
+sergiold folds
+*** RIVER *** [5s Th 8s 7h][Ac]
+*** SHOW DOWN ***
+zalty shows [3s 6c] (High card : Ace)
+juju230596 shows [Ks Kh] (One pair : Kings)
+juju230596 collected 0.80€ from pot
+*** SUMMARY ***
+Total pot 0.80€ | Rake 0.04€
+Board: [5s Th 8s 7h Ac]
+Seat 1: zalty showed [3s 6c] and lost with High card : Ace
+Seat 8: juju230596 (small blind) showed [Ks Kh] and won 0.80€ with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #7498130-610-1430955526 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:38:46 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #8 is the button
+Seat 1: zalty (0€)
+Seat 2: bipbip94 (1.98€)
+Seat 3: ellucas (0.97€)
+Seat 4: Chloemagique (2€)
+Seat 5: alaala07 (1.98€)
+Seat 6: Necrom3D (1.96€)
+Seat 7: sergiold (2.40€)
+Seat 8: juju230596 (2.58€)
+Seat 9: sabre_laser (1.52€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+bipbip94 posts big blind 0.02€
+Dealt to sabre_laser [Ad 9c]
+*** PRE-FLOP *** 
+ellucas raises 0.06€ to 0.08€
+Chloemagique folds
+alaala07 folds
+Necrom3D folds
+sergiold folds
+juju230596 folds
+sabre_laser raises 1.44€ to 1.52€ and is all-in
+bipbip94 folds
+ellucas calls 0.89€ and is all-in
+*** FLOP *** [5s Jd 9s]
+*** TURN *** [5s Jd 9s][Kc]
+*** RIVER *** [5s Jd 9s Kc][8h]
+*** SHOW DOWN ***
+ellucas shows [Jc Kd] (Two pairs : Kings and Jacks)
+sabre_laser shows [Ad 9c] (One pair : 9)
+sabre_laser collected 0.55€ from side pot 1
+ellucas collected 1.83€ from main pot
+*** SUMMARY ***
+Total pot 2.38€ | Rake 0.13€
+Board: [5s Jd 9s Kc 8h]
+Seat 3: ellucas showed [Jc Kd] and won 1.83€ with Two pairs : Kings and Jacks
+Seat 9: sabre_laser (small blind) showed [Ad 9c] and won 0.55€ with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7498130-611-1430955582 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:39:42 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #9 is the button
+Seat 2: bipbip94 (1.96€)
+Seat 3: ellucas (1.83€)
+Seat 4: Chloemagique (2€)
+Seat 5: alaala07 (1.98€)
+Seat 6: Necrom3D (1.96€)
+Seat 7: sergiold (2.40€)
+Seat 8: juju230596 (2.58€)
+Seat 9: sabre_laser (0.55€)
+*** ANTE/BLINDS ***
+bipbip94 posts small blind 0.01€
+ellucas posts big blind 0.02€
+Dealt to sabre_laser [Td 8d]
+*** PRE-FLOP *** 
+Chloemagique folds
+alaala07 calls 0.02€
+Necrom3D calls 0.02€
+sergiold folds
+juju230596 folds
+sabre_laser calls 0.02€
+bipbip94 raises 1.94€ to 1.96€ and is all-in
+ellucas folds
+alaala07 raises 0.02€ to 1.98€ and is all-in
+Necrom3D folds
+sabre_laser folds
+*** FLOP *** [8c 8h As]
+*** TURN *** [8c 8h As][Tc]
+*** RIVER *** [8c 8h As Tc][4c]
+*** SHOW DOWN ***
+bipbip94 shows [3h 3s] (Two pairs : 8 and 3)
+alaala07 shows [Ks Kc] (Two pairs : Kings and 8)
+alaala07 collected 3.74€ from pot
+*** SUMMARY ***
+Total pot 3.74€ | Rake 0.26€
+Board: [8c 8h As Tc 4c]
+Seat 2: bipbip94 (small blind) showed [3h 3s] and lost with Two pairs : 8 and 3
+Seat 5: alaala07 showed [Ks Kc] and won 3.74€ with Two pairs : Kings and 8
+
+
+Winamax Poker - CashGame - HandId: #7498130-612-1430955648 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:40:48 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #2 is the button
+Seat 2: bipbip94 (0€)
+Seat 3: ellucas (1.81€)
+Seat 4: Chloemagique (2€)
+Seat 5: alaala07 (3.74€)
+Seat 6: Necrom3D (1.94€)
+Seat 7: sergiold (2.40€)
+Seat 8: juju230596 (2.58€)
+Seat 9: sabre_laser (0.53€)
+*** ANTE/BLINDS ***
+Chloemagique denies big blind
+ellucas posts small blind 0.01€
+alaala07 posts big blind 0.02€
+Dealt to sabre_laser [Ts 5h]
+*** PRE-FLOP *** 
+Necrom3D folds
+sergiold folds
+juju230596 calls 0.02€
+sabre_laser folds
+ellucas calls 0.01€
+alaala07 checks
+*** FLOP *** [Qc Ac Ah]
+ellucas bets 0.10€
+alaala07 folds
+juju230596 folds
+ellucas collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | No rake
+Board: [Qc Ac Ah]
+Seat 3: ellucas (small blind) won 0.16€
+
+
+Winamax Poker - CashGame - HandId: #7498130-613-1430955722 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:42:02 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #3 is the button
+Seat 2: bipbip94 (2€)
+Seat 3: ellucas (1.85€)
+Seat 5: alaala07 (3.72€)
+Seat 6: Necrom3D (1.94€)
+Seat 7: sergiold (2.40€)
+Seat 8: juju230596 (2.56€)
+Seat 9: sabre_laser (0.53€)
+*** ANTE/BLINDS ***
+alaala07 posts small blind 0.01€
+Necrom3D posts big blind 0.02€
+Dealt to sabre_laser [4s Jd]
+*** PRE-FLOP *** 
+sergiold folds
+juju230596 calls 0.02€
+sabre_laser folds
+bipbip94 calls 0.02€
+ellucas folds
+alaala07 calls 0.01€
+Necrom3D checks
+*** FLOP *** [9c Jh Kd]
+alaala07 checks
+Necrom3D checks
+juju230596 checks
+bipbip94 checks
+*** TURN *** [9c Jh Kd][6c]
+alaala07 checks
+Necrom3D checks
+juju230596 checks
+bipbip94 checks
+*** RIVER *** [9c Jh Kd 6c][3c]
+alaala07 checks
+Necrom3D bets 0.02€
+juju230596 folds
+bipbip94 folds
+alaala07 calls 0.02€
+*** SHOW DOWN ***
+alaala07 shows [Td Js] (One pair : Jacks)
+Necrom3D shows [Qc 5c] (Flush Queen high)
+Necrom3D collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | Rake 0.01€
+Board: [9c Jh Kd 6c 3c]
+Seat 5: alaala07 (small blind) showed [Td Js] and lost with One pair : Jacks
+Seat 6: Necrom3D (big blind) showed [Qc 5c] and won 0.11€ with Flush Queen high
+
+
+Winamax Poker - CashGame - HandId: #7498130-614-1430955822 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:43:42 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #5 is the button
+Seat 2: bipbip94 (1.98€)
+Seat 3: ellucas (1.85€)
+Seat 5: alaala07 (3.68€)
+Seat 6: Necrom3D (2.01€)
+Seat 7: sergiold (2.40€)
+Seat 8: juju230596 (2.54€)
+Seat 9: sabre_laser (0.53€)
+*** ANTE/BLINDS ***
+Necrom3D posts small blind 0.01€
+sergiold posts big blind 0.02€
+Dealt to sabre_laser [2c Tc]
+*** PRE-FLOP *** 
+juju230596 calls 0.02€
+sabre_laser folds
+bipbip94 folds
+ellucas raises 0.06€ to 0.08€
+alaala07 folds
+Necrom3D folds
+sergiold folds
+juju230596 calls 0.06€
+*** FLOP *** [6s 8c 7h]
+juju230596 bets 0.02€
+ellucas raises 0.06€ to 0.08€
+juju230596 calls 0.06€
+*** TURN *** [6s 8c 7h][Td]
+juju230596 checks
+ellucas bets 0.10€
+juju230596 calls 0.10€
+*** RIVER *** [6s 8c 7h Td][Jc]
+juju230596 checks
+ellucas bets 0.10€
+juju230596 calls 0.10€
+*** SHOW DOWN ***
+juju230596 shows [8d Ac] (One pair : 8)
+ellucas shows [Qd Qs] (One pair : Queens)
+ellucas collected 0.70€ from pot
+*** SUMMARY ***
+Total pot 0.70€ | Rake 0.05€
+Board: [6s 8c 7h Td Jc]
+Seat 3: ellucas showed [Qd Qs] and won 0.70€ with One pair : Queens
+Seat 8: juju230596 showed [8d Ac] and lost with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #7498130-615-1430955895 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:44:55 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #6 is the button
+Seat 2: bipbip94 (1.98€)
+Seat 3: ellucas (2.19€)
+Seat 5: alaala07 (3.68€)
+Seat 6: Necrom3D (2€)
+Seat 7: sergiold (2.38€)
+Seat 8: juju230596 (2.18€)
+Seat 9: sabre_laser (0.53€)
+*** ANTE/BLINDS ***
+sergiold posts small blind 0.01€
+juju230596 posts big blind 0.02€
+Dealt to sabre_laser [7d Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+bipbip94 calls 0.02€
+ellucas folds
+alaala07 calls 0.02€
+Necrom3D folds
+sergiold raises 0.02€ to 0.04€
+juju230596 calls 0.02€
+bipbip94 calls 0.02€
+alaala07 calls 0.02€
+*** FLOP *** [8s 6d Ts]
+sergiold bets 0.16€
+juju230596 folds
+bipbip94 calls 0.16€
+alaala07 folds
+*** TURN *** [8s 6d Ts][7h]
+sergiold bets 0.48€
+bipbip94 raises 1.30€ to 1.78€ and is all-in
+sergiold folds
+bipbip94 collected 2.65€ from pot
+*** SUMMARY ***
+Total pot 2.65€ | Rake 0.09€
+Board: [8s 6d Ts 7h]
+Seat 2: bipbip94 won 2.65€
+
+
+Winamax Poker - CashGame - HandId: #7498130-616-1430955991 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:46:31 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #7 is the button
+Seat 1: Malthael (2€)
+Seat 2: bipbip94 (2.65€)
+Seat 7: sergiold (1.70€)
+Seat 8: juju230596 (2.14€)
+Seat 9: sabre_laser (0.53€)
+*** ANTE/BLINDS ***
+juju230596 posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Malthael posts big blind 0.02€ out of position
+Dealt to sabre_laser [As 4h]
+*** PRE-FLOP *** 
+Malthael checks
+bipbip94 folds
+sergiold folds
+juju230596 calls 0.01€
+sabre_laser raises 0.51€ to 0.53€ and is all-in
+Malthael folds
+juju230596 folds
+sabre_laser collected 0.57€ from pot
+*** SUMMARY ***
+Total pot 0.57€ | No rake
+Seat 9: sabre_laser (big blind) won 0.57€
+
+
+Winamax Poker - CashGame - HandId: #7498130-617-1430956034 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:47:14 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #8 is the button
+Seat 1: Malthael (1.98€)
+Seat 2: bipbip94 (2.65€)
+Seat 7: sergiold (1.70€)
+Seat 8: juju230596 (2.12€)
+Seat 9: sabre_laser (0.57€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Malthael posts big blind 0.02€
+Dealt to sabre_laser [9h Th]
+*** PRE-FLOP *** 
+bipbip94 folds
+sergiold folds
+juju230596 folds
+sabre_laser calls 0.01€
+Malthael checks
+*** FLOP *** [Jc Td Ts]
+sabre_laser checks
+Malthael checks
+*** TURN *** [Jc Td Ts][3s]
+sabre_laser checks
+Malthael checks
+*** RIVER *** [Jc Td Ts 3s][6c]
+sabre_laser bets 0.04€
+Malthael calls 0.04€
+*** SHOW DOWN ***
+Malthael shows [6d 8c] (Two pairs : Tens and 6)
+sabre_laser shows [9h Th] (Trips of Tens)
+sabre_laser collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | Rake 0.01€
+Board: [Jc Td Ts 3s 6c]
+Seat 1: Malthael (big blind) showed [6d 8c] and lost with Two pairs : Tens and 6
+Seat 9: sabre_laser (small blind) showed [9h Th] and won 0.11€ with Trips of Tens
+
+
+Winamax Poker - CashGame - HandId: #7498130-618-1430956073 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:47:53 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #9 is the button
+Seat 1: Malthael (1.92€)
+Seat 2: bipbip94 (2.65€)
+Seat 7: sergiold (1.70€)
+Seat 8: juju230596 (2.12€)
+Seat 9: sabre_laser (0.62€)
+*** ANTE/BLINDS ***
+Malthael posts small blind 0.01€
+bipbip94 posts big blind 0.02€
+Dealt to sabre_laser [4c 5d]
+*** PRE-FLOP *** 
+sergiold folds
+juju230596 calls 0.02€
+sabre_laser folds
+Malthael calls 0.01€
+bipbip94 checks
+*** FLOP *** [9s Qd 9d]
+Malthael bets 0.02€
+bipbip94 calls 0.02€
+juju230596 folds
+*** TURN *** [9s Qd 9d][6h]
+Malthael checks
+bipbip94 checks
+*** RIVER *** [9s Qd 9d 6h][7s]
+Malthael bets 0.05€
+bipbip94 calls 0.05€
+*** SHOW DOWN ***
+bipbip94 shows [2c Qh] (Two pairs : Queens and 9)
+Malthael shows [8c Td] (Straight Ten high)
+Malthael collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [9s Qd 9d 6h 7s]
+Seat 1: Malthael (small blind) showed [8c Td] and won 0.19€ with Straight Ten high
+Seat 2: bipbip94 (big blind) showed [2c Qh] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - CashGame - HandId: #7498130-619-1430956141 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:49:01 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #1 is the button
+Seat 1: Malthael (2.02€)
+Seat 2: bipbip94 (2.56€)
+Seat 7: sergiold (1.70€)
+Seat 8: juju230596 (2.10€)
+Seat 9: sabre_laser (0.62€)
+*** ANTE/BLINDS ***
+bipbip94 posts small blind 0.01€
+sergiold posts big blind 0.02€
+Dealt to sabre_laser [9h 3c]
+*** PRE-FLOP *** 
+juju230596 folds
+sabre_laser folds
+Malthael calls 0.02€
+bipbip94 folds
+sergiold checks
+*** FLOP *** [3h 2s 5c]
+sergiold bets 0.02€
+Malthael calls 0.02€
+*** TURN *** [3h 2s 5c][3s]
+sergiold checks
+Malthael checks
+*** RIVER *** [3h 2s 5c 3s][8c]
+sergiold checks
+Malthael bets 0.02€
+sergiold calls 0.02€
+*** SHOW DOWN ***
+sergiold shows [2d Ts] (Two pairs : 3 and 2)
+Malthael shows [5s Ks] (Two pairs : 5 and 3)
+Malthael collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [3h 2s 5c 3s 8c]
+Seat 1: Malthael (button) showed [5s Ks] and won 0.12€ with Two pairs : 5 and 3
+Seat 7: sergiold (big blind) showed [2d Ts] and lost with Two pairs : 3 and 2
+
+
+Winamax Poker - CashGame - HandId: #7498130-620-1430956174 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:49:34 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #2 is the button
+Seat 1: Malthael (2.08€)
+Seat 2: bipbip94 (2.55€)
+Seat 7: sergiold (1.64€)
+Seat 8: juju230596 (2.10€)
+Seat 9: sabre_laser (0.62€)
+*** ANTE/BLINDS ***
+sergiold posts small blind 0.01€
+juju230596 posts big blind 0.02€
+Dealt to sabre_laser [4c 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Malthael folds
+bipbip94 folds
+sergiold calls 0.01€
+juju230596 checks
+*** FLOP *** [6c Ks 7h]
+sergiold bets 0.04€
+juju230596 folds
+sergiold collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [6c Ks 7h]
+Seat 7: sergiold (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7498130-621-1430956233 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:50:33 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #7 is the button
+Seat 1: Malthael (2.08€)
+Seat 2: bipbip94 (2.55€)
+Seat 7: sergiold (1.66€)
+Seat 8: juju230596 (2.08€)
+Seat 9: sabre_laser (0.62€)
+*** ANTE/BLINDS ***
+juju230596 posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [2d 5s]
+*** PRE-FLOP *** 
+Malthael raises 0.02€ to 0.04€
+bipbip94 folds
+sergiold folds
+juju230596 calls 0.03€
+sabre_laser calls 0.02€
+*** FLOP *** [Kc 4c Js]
+juju230596 checks
+sabre_laser checks
+Malthael bets 0.06€
+juju230596 calls 0.06€
+sabre_laser folds
+*** TURN *** [Kc 4c Js][8h]
+juju230596 checks
+Malthael bets 0.12€
+juju230596 folds
+Malthael collected 0.34€ from pot
+*** SUMMARY ***
+Total pot 0.34€ | Rake 0.02€
+Board: [Kc 4c Js 8h]
+Seat 1: Malthael won 0.34€
+
+
+Winamax Poker - CashGame - HandId: #7498130-622-1430956298 - Holdem no limit (0.01€/0.02€) - 2015/05/06 23:51:38 UTC
+Table: 'Frankfurt 02' 9-max (real money) Seat #8 is the button
+Seat 1: Malthael (2.20€)
+Seat 2: bipbip94 (2.55€)
+Seat 7: sergiold (1.66€)
+Seat 8: juju230596 (1.98€)
+Seat 9: sabre_laser (0.58€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Malthael posts big blind 0.02€
+Dealt to sabre_laser [Tc Ah]
+*** PRE-FLOP *** 
+bipbip94 folds
+sergiold folds
+juju230596 raises 0.02€ to 0.04€
+sabre_laser raises 0.54€ to 0.58€ and is all-in
+Malthael folds
+juju230596 calls 0.54€
+*** FLOP *** [6d 9h 2h]
+*** TURN *** [6d 9h 2h][Kc]
+*** RIVER *** [6d 9h 2h Kc][7c]
+*** SHOW DOWN ***
+sabre_laser shows [Tc Ah] (High card : Ace)
+juju230596 shows [Ks Ad] (One pair : Kings)
+juju230596 collected 1.10€ from pot
+*** SUMMARY ***
+Total pot 1.10€ | Rake 0.08€
+Board: [6d 9h 2h Kc 7c]
+Seat 8: juju230596 (button) showed [Ks Ad] and won 1.10€ with One pair : Kings
+Seat 9: sabre_laser (small blind) showed [Tc Ah] and lost with High card : Ace
+
+

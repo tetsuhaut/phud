@@ -1,0 +1,562 @@
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 7 - HandId: #625864124726771737-29-1454354375 - Holdem no limit (40/250/500) - 2016/02/01 19:19:35 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #7 is the button
+Seat 1: bridani (9639)
+Seat 2: Fabiou_69 (9860)
+Seat 3: Papy-81 (11192)
+Seat 4: saori44 (10862)
+Seat 5: almarick27 (36650)
+Seat 6: sabre_laser (10000)
+Seat 7: Dje Dje 66 (3251)
+Seat 8: francebrasil (28546)
+*** ANTE/BLINDS ***
+francebrasil posts ante 40
+bridani posts ante 40
+Fabiou_69 posts ante 40
+Papy-81 posts ante 40
+saori44 posts ante 40
+almarick27 posts ante 40
+sabre_laser posts ante 40
+Dje Dje 66 posts ante 40
+francebrasil posts small blind 250
+bridani posts big blind 500
+Dealt to sabre_laser [2h Kh]
+*** PRE-FLOP *** 
+Fabiou_69 folds
+Papy-81 folds
+saori44 folds
+almarick27 calls 500
+sabre_laser folds
+Dje Dje 66 folds
+francebrasil calls 250
+bridani checks
+*** FLOP *** [5d 2d 3s]
+francebrasil bets 500
+bridani folds
+almarick27 raises 500 to 1000
+francebrasil calls 500
+*** TURN *** [5d 2d 3s][7s]
+francebrasil checks
+almarick27 bets 2000
+francebrasil calls 2000
+*** RIVER *** [5d 2d 3s 7s][Qs]
+francebrasil checks
+almarick27 bets 3910
+francebrasil calls 3910
+*** SHOW DOWN ***
+francebrasil shows [4c Qh] (One pair : Queens)
+almarick27 shows [7d 5s] (Two pairs : 7 and 5)
+almarick27 collected 15640 from pot
+*** SUMMARY ***
+Total pot 15640 | No rake
+Board: [5d 2d 3s 7s Qs]
+Seat 5: almarick27 showed [7d 5s] and won 15640 with Two pairs : 7 and 5
+Seat 8: francebrasil (small blind) showed [4c Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 7 - HandId: #625864124726771737-30-1454354440 - Holdem no limit (40/250/500) - 2016/02/01 19:20:40 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #8 is the button
+Seat 1: bridani (9099)
+Seat 2: Fabiou_69 (9820)
+Seat 3: Papy-81 (11152)
+Seat 4: saori44 (10822)
+Seat 5: almarick27 (44840)
+Seat 6: sabre_laser (9960)
+Seat 7: Dje Dje 66 (3211)
+Seat 8: francebrasil (21096)
+*** ANTE/BLINDS ***
+bridani posts ante 40
+Fabiou_69 posts ante 40
+Papy-81 posts ante 40
+saori44 posts ante 40
+almarick27 posts ante 40
+sabre_laser posts ante 40
+Dje Dje 66 posts ante 40
+francebrasil posts ante 40
+bridani posts small blind 250
+Fabiou_69 posts big blind 500
+Dealt to sabre_laser [7h 6c]
+*** PRE-FLOP *** 
+Papy-81 folds
+saori44 folds
+almarick27 calls 500
+sabre_laser folds
+Dje Dje 66 folds
+francebrasil folds
+bridani calls 250
+Fabiou_69 folds
+*** FLOP *** [Ks Jc Ah]
+bridani bets 500
+almarick27 calls 500
+*** TURN *** [Ks Jc Ah][3h]
+bridani checks
+almarick27 bets 1880
+bridani folds
+almarick27 collected 4700 from pot
+*** SUMMARY ***
+Total pot 4700 | No rake
+Board: [Ks Jc Ah 3h]
+Seat 5: almarick27 won 4700
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 7 - HandId: #625864124726771737-31-1454354490 - Holdem no limit (40/250/500) - 2016/02/01 19:21:30 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #1 is the button
+Seat 1: bridani (8059)
+Seat 2: Fabiou_69 (9280)
+Seat 3: Papy-81 (11112)
+Seat 4: saori44 (10782)
+Seat 5: almarick27 (46620)
+Seat 6: sabre_laser (9920)
+Seat 7: Dje Dje 66 (3171)
+Seat 8: francebrasil (21056)
+*** ANTE/BLINDS ***
+Fabiou_69 posts ante 40
+Papy-81 posts ante 40
+bridani posts ante 40
+saori44 posts ante 40
+almarick27 posts ante 40
+sabre_laser posts ante 40
+Dje Dje 66 posts ante 40
+francebrasil posts ante 40
+Fabiou_69 posts small blind 250
+Papy-81 posts big blind 500
+Dealt to sabre_laser [Ks 2d]
+*** PRE-FLOP *** 
+saori44 folds
+almarick27 calls 500
+sabre_laser folds
+Dje Dje 66 folds
+francebrasil calls 500
+bridani folds
+Fabiou_69 folds
+Papy-81 raises 2070 to 2570
+almarick27 folds
+francebrasil calls 2070
+*** FLOP *** [8h 3s Qc]
+Papy-81 bets 4658
+francebrasil folds
+Papy-81 collected 10868 from pot
+*** SUMMARY ***
+Total pot 10868 | No rake
+Board: [8h 3s Qc]
+Seat 3: Papy-81 (big blind) won 10868
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 7 - HandId: #625864124726771737-32-1454354565 - Holdem no limit (40/250/500) - 2016/02/01 19:22:45 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #2 is the button
+Seat 1: bridani (8019)
+Seat 2: Fabiou_69 (8990)
+Seat 3: Papy-81 (14712)
+Seat 4: saori44 (10742)
+Seat 5: almarick27 (46080)
+Seat 6: sabre_laser (9880)
+Seat 7: Dje Dje 66 (3131)
+Seat 8: francebrasil (18446)
+*** ANTE/BLINDS ***
+Papy-81 posts ante 40
+saori44 posts ante 40
+bridani posts ante 40
+Fabiou_69 posts ante 40
+almarick27 posts ante 40
+sabre_laser posts ante 40
+Dje Dje 66 posts ante 40
+francebrasil posts ante 40
+Papy-81 posts small blind 250
+saori44 posts big blind 500
+Dealt to sabre_laser [8h 9s]
+*** PRE-FLOP *** 
+almarick27 folds
+sabre_laser folds
+Dje Dje 66 folds
+francebrasil folds
+bridani calls 500
+Fabiou_69 folds
+Papy-81 calls 250
+saori44 checks
+*** FLOP *** [2c Jh 3h]
+Papy-81 bets 500
+saori44 folds
+bridani calls 500
+*** TURN *** [2c Jh 3h][5h]
+Papy-81 checks
+bridani bets 500
+Papy-81 folds
+bridani collected 3320 from pot
+*** SUMMARY ***
+Total pot 3320 | No rake
+Board: [2c Jh 3h 5h]
+Seat 1: bridani won 3320
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 8 - HandId: #625864124726771737-33-1454354654 - Holdem no limit (60/300/600) - 2016/02/01 19:24:14 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #3 is the button
+Seat 1: bridani (9799)
+Seat 2: Fabiou_69 (8950)
+Seat 3: Papy-81 (13672)
+Seat 4: saori44 (10202)
+Seat 5: almarick27 (46040)
+Seat 6: sabre_laser (9840)
+Seat 7: Dje Dje 66 (3091)
+Seat 8: francebrasil (18406)
+*** ANTE/BLINDS ***
+saori44 posts ante 60
+almarick27 posts ante 60
+bridani posts ante 60
+Fabiou_69 posts ante 60
+Papy-81 posts ante 60
+sabre_laser posts ante 60
+Dje Dje 66 posts ante 60
+francebrasil posts ante 60
+saori44 posts small blind 300
+almarick27 posts big blind 600
+Dealt to sabre_laser [4c 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Dje Dje 66 calls 600
+francebrasil folds
+bridani folds
+Fabiou_69 folds
+Papy-81 folds
+saori44 folds
+almarick27 checks
+*** FLOP *** [8s Tc Kc]
+almarick27 bets 990
+Dje Dje 66 calls 990
+*** TURN *** [8s Tc Kc][7s]
+almarick27 checks
+Dje Dje 66 bets 600
+almarick27 calls 600
+*** RIVER *** [8s Tc Kc 7s][7c]
+almarick27 checks
+Dje Dje 66 bets 600
+almarick27 calls 600
+*** SHOW DOWN ***
+Dje Dje 66 shows [Qh Js] (One pair : 7)
+almarick27 shows [Th 4h] (Two pairs : Tens and 7)
+almarick27 collected 6360 from pot
+*** SUMMARY ***
+Total pot 6360 | No rake
+Board: [8s Tc Kc 7s 7c]
+Seat 5: almarick27 (big blind) showed [Th 4h] and won 6360 with Two pairs : Tens and 7
+Seat 7: Dje Dje 66 showed [Qh Js] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 8 - HandId: #625864124726771737-34-1454354709 - Holdem no limit (60/300/600) - 2016/02/01 19:25:09 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #4 is the button
+Seat 1: bridani (9739)
+Seat 2: Fabiou_69 (8890)
+Seat 3: Papy-81 (13612)
+Seat 4: saori44 (9842)
+Seat 5: almarick27 (49550)
+Seat 6: sabre_laser (9780)
+Seat 7: Dje Dje 66 (241)
+Seat 8: francebrasil (18346)
+*** ANTE/BLINDS ***
+almarick27 posts ante 60
+sabre_laser posts ante 60
+bridani posts ante 60
+Fabiou_69 posts ante 60
+Papy-81 posts ante 60
+saori44 posts ante 60
+Dje Dje 66 posts ante 60
+francebrasil posts ante 60
+almarick27 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [Th 6s]
+*** PRE-FLOP *** 
+Dje Dje 66 folds
+francebrasil raises 2100 to 2700
+bridani folds
+Fabiou_69 folds
+Papy-81 folds
+saori44 folds
+almarick27 folds
+sabre_laser folds
+francebrasil collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Seat 8: francebrasil won 4080
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 8 - HandId: #625864124726771737-35-1454354748 - Holdem no limit (60/300/600) - 2016/02/01 19:25:48 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #5 is the button
+Seat 1: bridani (9679)
+Seat 2: Fabiou_69 (8830)
+Seat 3: Papy-81 (13552)
+Seat 4: saori44 (9782)
+Seat 5: almarick27 (49190)
+Seat 6: sabre_laser (9120)
+Seat 7: Dje Dje 66 (181)
+Seat 8: francebrasil (19666)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 60
+Dje Dje 66 posts ante 60
+bridani posts ante 60
+Fabiou_69 posts ante 60
+Papy-81 posts ante 60
+saori44 posts ante 60
+almarick27 posts ante 60
+francebrasil posts ante 60
+sabre_laser posts small blind 300
+Dje Dje 66 posts big blind 121 and is all-in
+Dealt to sabre_laser [9c Qd]
+*** PRE-FLOP *** 
+francebrasil folds
+bridani folds
+Fabiou_69 folds
+Papy-81 folds
+saori44 raises 1379 to 1500
+almarick27 calls 1500
+sabre_laser folds
+*** FLOP *** [6d Ts Ah]
+saori44 bets 1951
+almarick27 calls 1951
+*** TURN *** [6d Ts Ah][7d]
+saori44 checks
+almarick27 bets 6600
+saori44 calls 6271 and is all-in
+*** RIVER *** [6d Ts Ah 7d][Kd]
+*** SHOW DOWN ***
+saori44 shows [Kc Tc] (Two pairs : Kings and Tens)
+Dje Dje 66 shows [5c Jh] (High card : Ace)
+almarick27 shows [7s Ac] (Two pairs : Aces and 7)
+almarick27 collected 20674 from pot
+*** SUMMARY ***
+Total pot 20674 | No rake
+Board: [6d Ts Ah 7d Kd]
+Seat 4: saori44 showed [Kc Tc] and lost with Two pairs : Kings and Tens
+Seat 5: almarick27 (button) showed [7s Ac] and won 20674 with Two pairs : Aces and 7
+Seat 7: Dje Dje 66 (big blind) showed [5c Jh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 8 - HandId: #625864124726771737-36-1454354805 - Holdem no limit (60/300/600) - 2016/02/01 19:26:45 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #6 is the button
+Seat 1: bridani (9619)
+Seat 2: Fabiou_69 (8770)
+Seat 3: Papy-81 (13492)
+Seat 5: almarick27 (59753)
+Seat 6: sabre_laser (8760)
+Seat 8: francebrasil (19606)
+*** ANTE/BLINDS ***
+francebrasil posts ante 60
+bridani posts ante 60
+Fabiou_69 posts ante 60
+Papy-81 posts ante 60
+almarick27 posts ante 60
+sabre_laser posts ante 60
+francebrasil posts big blind 600
+Dealt to sabre_laser [Td Th]
+*** PRE-FLOP *** 
+bridani folds
+Fabiou_69 raises 1200 to 1800
+Papy-81 folds
+almarick27 calls 1800
+sabre_laser folds
+francebrasil folds
+*** FLOP *** [2d 7d 7s]
+Fabiou_69 checks
+almarick27 bets 2280
+Fabiou_69 folds
+almarick27 collected 6840 from pot
+*** SUMMARY ***
+Total pot 6840 | No rake
+Board: [2d 7d 7s]
+Seat 5: almarick27 won 6840
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 8 - HandId: #625864124726771737-37-1454354856 - Holdem no limit (60/300/600) - 2016/02/01 19:27:36 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #7 is the button
+Seat 1: bridani (9559)
+Seat 2: Fabiou_69 (6910)
+Seat 3: Papy-81 (13432)
+Seat 4: Mickey0337 (10000)
+Seat 5: almarick27 (62453)
+Seat 6: sabre_laser (8700)
+Seat 7: winewin63 (10000)
+Seat 8: francebrasil (18946)
+*** ANTE/BLINDS ***
+francebrasil posts ante 60
+bridani posts ante 60
+Fabiou_69 posts ante 60
+Papy-81 posts ante 60
+Mickey0337 posts ante 60
+almarick27 posts ante 60
+sabre_laser posts ante 60
+winewin63 posts ante 60
+francebrasil posts small blind 300
+bridani posts big blind 600
+Dealt to sabre_laser [As 8h]
+*** PRE-FLOP *** 
+Fabiou_69 folds
+Papy-81 folds
+Mickey0337 calls 600
+almarick27 calls 600
+sabre_laser calls 600
+winewin63 folds
+francebrasil calls 300
+bridani checks
+*** FLOP *** [Ad Qs Qc]
+francebrasil checks
+bridani checks
+Mickey0337 bets 600
+almarick27 folds
+sabre_laser calls 600
+francebrasil folds
+bridani folds
+*** TURN *** [Ad Qs Qc][Kd]
+Mickey0337 checks
+sabre_laser checks
+*** RIVER *** [Ad Qs Qc Kd][4c]
+Mickey0337 bets 4680
+sabre_laser calls 4680
+*** SHOW DOWN ***
+sabre_laser shows [As 8h] (Two pairs : Aces and Queens)
+Mickey0337 shows [Td Jc] (Straight Ace high)
+Mickey0337 collected 14040 from pot
+*** SUMMARY ***
+Total pot 14040 | No rake
+Board: [Ad Qs Qc Kd 4c]
+Seat 4: Mickey0337 showed [Td Jc] and won 14040 with Straight Ace high
+Seat 6: sabre_laser showed [As 8h] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 8 - HandId: #625864124726771737-38-1454354936 - Holdem no limit (60/300/600) - 2016/02/01 19:28:56 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #8 is the button
+Seat 1: bridani (8899)
+Seat 2: Fabiou_69 (6850)
+Seat 3: Papy-81 (13372)
+Seat 4: Mickey0337 (18100)
+Seat 5: almarick27 (61793)
+Seat 6: sabre_laser (2760)
+Seat 7: winewin63 (9940)
+Seat 8: francebrasil (18286)
+*** ANTE/BLINDS ***
+bridani posts ante 60
+Fabiou_69 posts ante 60
+Papy-81 posts ante 60
+Mickey0337 posts ante 60
+almarick27 posts ante 60
+sabre_laser posts ante 60
+winewin63 posts ante 60
+francebrasil posts ante 60
+bridani posts small blind 300
+Fabiou_69 posts big blind 600
+Dealt to sabre_laser [Th 9s]
+*** PRE-FLOP *** 
+Papy-81 folds
+Mickey0337 folds
+almarick27 folds
+sabre_laser raises 2100 to 2700 and is all-in
+winewin63 folds
+francebrasil folds
+bridani folds
+Fabiou_69 calls 2100
+*** FLOP *** [Ah 7h 8h]
+*** TURN *** [Ah 7h 8h][5h]
+*** RIVER *** [Ah 7h 8h 5h][As]
+*** SHOW DOWN ***
+Fabiou_69 shows [Ad 6d] (Trips of Aces)
+sabre_laser shows [Th 9s] (Flush Ace high)
+sabre_laser collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [Ah 7h 8h 5h As]
+Seat 2: Fabiou_69 (big blind) showed [Ad 6d] and lost with Trips of Aces
+Seat 6: sabre_laser showed [Th 9s] and won 6180 with Flush Ace high
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 9 - HandId: #625864124726771737-39-1454355004 - Holdem no limit (75/400/800) - 2016/02/01 19:30:04 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #1 is the button
+Seat 1: bridani (8539)
+Seat 2: Fabiou_69 (4090)
+Seat 3: Papy-81 (13312)
+Seat 4: Mickey0337 (18040)
+Seat 5: almarick27 (61733)
+Seat 6: sabre_laser (6180)
+Seat 7: winewin63 (9880)
+Seat 8: francebrasil (18226)
+*** ANTE/BLINDS ***
+Fabiou_69 posts ante 75
+Papy-81 posts ante 75
+bridani posts ante 75
+Mickey0337 posts ante 75
+almarick27 posts ante 75
+sabre_laser posts ante 75
+winewin63 posts ante 75
+francebrasil posts ante 75
+Fabiou_69 posts small blind 400
+Papy-81 posts big blind 800
+Dealt to sabre_laser [Ks 5s]
+*** PRE-FLOP *** 
+Mickey0337 folds
+almarick27 raises 800 to 1600
+sabre_laser folds
+winewin63 folds
+francebrasil folds
+bridani folds
+Fabiou_69 folds
+Papy-81 raises 4200 to 5800
+almarick27 calls 4200
+*** FLOP *** [Qc 9h Kc]
+Papy-81 bets 7437 and is all-in
+almarick27 calls 7437
+*** TURN *** [Qc 9h Kc][3d]
+*** RIVER *** [Qc 9h Kc 3d][4h]
+*** SHOW DOWN ***
+almarick27 shows [7c Tc] (High card : King)
+Papy-81 shows [As 4c] (One pair : 4)
+Papy-81 collected 27474 from pot
+*** SUMMARY ***
+Total pot 27474 | No rake
+Board: [Qc 9h Kc 3d 4h]
+Seat 3: Papy-81 (big blind) showed [As 4c] and won 27474 with One pair : 4
+Seat 5: almarick27 showed [7c Tc] and lost with High card : King
+
+
+Winamax Poker - Tournament "MiniRoll " buyIn: 0,45€ + 0,05€ level: 9 - HandId: #625864124726771737-40-1454355046 - Holdem no limit (75/400/800) - 2016/02/01 19:30:46 UTC
+Table: 'MiniRoll (145720347)#024' 8-max (real money) Seat #2 is the button
+Seat 1: bridani (8464)
+Seat 2: Fabiou_69 (3615)
+Seat 3: Papy-81 (27474)
+Seat 4: Mickey0337 (17965)
+Seat 5: almarick27 (48421)
+Seat 6: sabre_laser (6105)
+Seat 7: winewin63 (9805)
+Seat 8: francebrasil (18151)
+*** ANTE/BLINDS ***
+Papy-81 posts ante 75
+Mickey0337 posts ante 75
+bridani posts ante 75
+Fabiou_69 posts ante 75
+almarick27 posts ante 75
+sabre_laser posts ante 75
+winewin63 posts ante 75
+francebrasil posts ante 75
+Papy-81 posts small blind 400
+Mickey0337 posts big blind 800
+Dealt to sabre_laser [Kh Qc]
+*** PRE-FLOP *** 
+almarick27 calls 800
+sabre_laser raises 5230 to 6030 and is all-in
+winewin63 folds
+francebrasil folds
+bridani calls 6030
+Fabiou_69 calls 3540 and is all-in
+Papy-81 folds
+Mickey0337 folds
+almarick27 folds
+*** FLOP *** [2d 3d 5c]
+*** TURN *** [2d 3d 5c][8d]
+*** RIVER *** [2d 3d 5c 8d][9c]
+*** SHOW DOWN ***
+Fabiou_69 shows [As 2s] (One pair : 2)
+sabre_laser shows [Kh Qc] (High card : King)
+bridani shows [Th Ts] (One pair : Tens)
+bridani collected 18200 from pot
+*** SUMMARY ***
+Total pot 18200 | No rake
+Board: [2d 3d 5c 8d 9c]
+Seat 1: bridani showed [Th Ts] and won 18200 with One pair : Tens
+Seat 2: Fabiou_69 (button) showed [As 2s] and lost with One pair : 2
+Seat 6: sabre_laser showed [Kh Qc] and lost with High card : King
+
+

@@ -1,0 +1,1407 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541061979742142465-1-1438114815 - Holdem no limit (10/20) - 2015/07/28 20:20:15 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 71l1kum (1500)
+Seat 2: crazypix (1500)
+Seat 3: fecondator (1500)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: djo26570 (1500)
+Seat 8: Kalou du LDM (1500)
+Seat 9: fetopi (1500)
+Seat 10: Mars_Attack (1500)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Td Kh]
+*** PRE-FLOP *** 
+djo26570 folds
+Kalou du LDM calls 20
+fetopi calls 20
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD calls 10
+sabre_laser checks
+*** FLOP *** [8c 6c 8d]
+WILD CHILD checks
+sabre_laser checks
+Kalou du LDM checks
+fetopi checks
+*** TURN *** [8c 6c 8d][6s]
+WILD CHILD checks
+sabre_laser checks
+Kalou du LDM bets 40
+fetopi folds
+WILD CHILD calls 40
+sabre_laser calls 40
+*** RIVER *** [8c 6c 8d 6s][6h]
+WILD CHILD checks
+sabre_laser checks
+Kalou du LDM bets 350
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [8c 6c 8d 6s 6h]
+Seat 8: Kalou du LDM won 550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541061979742142465-2-1438114963 - Holdem no limit (10/20) - 2015/07/28 20:22:43 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 71l1kum (1500)
+Seat 2: crazypix (1500)
+Seat 3: fecondator (1500)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1440)
+Seat 7: djo26570 (1500)
+Seat 8: Kalou du LDM (1640)
+Seat 9: fetopi (1480)
+Seat 10: Mars_Attack (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+djo26570 posts big blind 20
+Dealt to sabre_laser [Js Qd]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+fetopi folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser calls 10
+djo26570 raises 60 to 80
+sabre_laser calls 60
+*** FLOP *** [7s 9d 8s]
+sabre_laser checks
+djo26570 bets 160
+sabre_laser calls 160
+*** TURN *** [7s 9d 8s][6h]
+sabre_laser checks
+djo26570 bets 1260 and is all-in
+sabre_laser folds
+djo26570 collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [7s 9d 8s 6h]
+Seat 7: djo26570 (big blind) won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541061979742142465-3-1438115064 - Holdem no limit (10/20) - 2015/07/28 20:24:24 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 71l1kum (1500)
+Seat 2: crazypix (1500)
+Seat 3: fecondator (1500)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1200)
+Seat 7: djo26570 (1740)
+Seat 8: Kalou du LDM (1640)
+Seat 9: fetopi (1480)
+Seat 10: Mars_Attack (1500)
+*** ANTE/BLINDS ***
+djo26570 posts small blind 10
+Kalou du LDM posts big blind 20
+Dealt to sabre_laser [3d 9c]
+*** PRE-FLOP *** 
+fetopi folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 50 to 70
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+djo26570 calls 60
+Kalou du LDM folds
+*** FLOP *** [5h Qh 3s]
+djo26570 checks
+fecondator bets 160
+djo26570 folds
+fecondator collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5h Qh 3s]
+Seat 3: fecondator won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541061979742142465-4-1438115111 - Holdem no limit (10/20) - 2015/07/28 20:25:11 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #7 is the button
+Seat 1: 71l1kum (1500)
+Seat 2: crazypix (1500)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1200)
+Seat 7: djo26570 (1670)
+Seat 8: Kalou du LDM (1620)
+Seat 9: fetopi (1480)
+Seat 10: Mars_Attack (1500)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 10
+fetopi posts big blind 20
+Dealt to sabre_laser [Qs 9h]
+*** PRE-FLOP *** 
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+djo26570 folds
+Kalou du LDM folds
+fetopi collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 9: fetopi (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #541061979742142465-5-1438115152 - Holdem no limit (10/20) - 2015/07/28 20:25:52 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 71l1kum (1500)
+Seat 2: crazypix (1500)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1200)
+Seat 7: djo26570 (1670)
+Seat 8: Kalou du LDM (1610)
+Seat 9: fetopi (1490)
+Seat 10: Mars_Attack (1500)
+*** ANTE/BLINDS ***
+fetopi posts small blind 10
+Mars_Attack posts big blind 20
+Dealt to sabre_laser [9c 6d]
+*** PRE-FLOP *** 
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+djo26570 folds
+Kalou du LDM folds
+fetopi raises 20 to 40
+Mars_Attack folds
+fetopi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 9: fetopi (small blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541061979742142465-6-1438115246 - Holdem no limit (15/30) - 2015/07/28 20:27:26 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 71l1kum (1500)
+Seat 2: crazypix (1500)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1200)
+Seat 7: djo26570 (1670)
+Seat 8: Kalou du LDM (1610)
+Seat 9: fetopi (1510)
+Seat 10: Mars_Attack (1480)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 15
+71l1kum posts big blind 30
+Dealt to sabre_laser [5s Jh]
+*** PRE-FLOP *** 
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+djo26570 folds
+Kalou du LDM folds
+fetopi raises 30 to 60
+Mars_Attack folds
+71l1kum folds
+fetopi collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 9: fetopi (button) won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541061979742142465-7-1438115304 - Holdem no limit (15/30) - 2015/07/28 20:28:24 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 71l1kum (1470)
+Seat 2: crazypix (1500)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1200)
+Seat 7: djo26570 (1670)
+Seat 8: Kalou du LDM (1610)
+Seat 9: fetopi (1555)
+Seat 10: Mars_Attack (1465)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 15
+crazypix posts big blind 30
+Dealt to sabre_laser [Js Ts]
+*** PRE-FLOP *** 
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser calls 30
+djo26570 raises 120 to 150
+Kalou du LDM folds
+fetopi folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+sabre_laser calls 120
+*** FLOP *** [6h Td Jd]
+sabre_laser checks
+djo26570 bets 345
+sabre_laser raises 705 to 1050 and is all-in
+djo26570 folds
+sabre_laser collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [6h Td Jd]
+Seat 6: sabre_laser won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541061979742142465-8-1438115407 - Holdem no limit (15/30) - 2015/07/28 20:30:07 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 71l1kum (1455)
+Seat 2: crazypix (1470)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1740)
+Seat 7: djo26570 (1175)
+Seat 8: Kalou du LDM (1610)
+Seat 9: fetopi (1555)
+Seat 10: Mars_Attack (1465)
+*** ANTE/BLINDS ***
+crazypix posts small blind 15
+fecondator posts big blind 30
+Dealt to sabre_laser [6s 9c]
+*** PRE-FLOP *** 
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+djo26570 raises 1145 to 1175 and is all-in
+Kalou du LDM folds
+fetopi folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+djo26570 collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | No rake
+Seat 7: djo26570 won 1220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541061979742142465-9-1438115448 - Holdem no limit (15/30) - 2015/07/28 20:30:48 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 71l1kum (1455)
+Seat 2: crazypix (1455)
+Seat 3: fecondator (1560)
+Seat 4: ChesasNA (1500)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1740)
+Seat 7: djo26570 (1220)
+Seat 8: Kalou du LDM (1610)
+Seat 9: fetopi (1555)
+Seat 10: Mars_Attack (1465)
+*** ANTE/BLINDS ***
+fecondator posts small blind 15
+ChesasNA posts big blind 30
+Dealt to sabre_laser [3d 4h]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser folds
+djo26570 raises 1190 to 1220 and is all-in
+Kalou du LDM folds
+fetopi folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA calls 1190
+*** FLOP *** [Kh 9h 8d]
+*** TURN *** [Kh 9h 8d][6s]
+*** RIVER *** [Kh 9h 8d 6s][Ac]
+*** SHOW DOWN ***
+djo26570 shows [2d 2s] (One pair : 2)
+ChesasNA shows [Ah Ad] (Trips of Aces)
+ChesasNA collected 2455 from pot
+*** SUMMARY ***
+Total pot 2455 | No rake
+Board: [Kh 9h 8d 6s Ac]
+Seat 4: ChesasNA (big blind) showed [Ah Ad] and won 2455 with Trips of Aces
+Seat 7: djo26570 showed [2d 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #541061979742142465-10-1438115508 - Holdem no limit (15/30) - 2015/07/28 20:31:48 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 71l1kum (1455)
+Seat 2: crazypix (1455)
+Seat 3: fecondator (1545)
+Seat 4: ChesasNA (2735)
+Seat 5: WILD CHILD (1440)
+Seat 6: sabre_laser (1740)
+Seat 8: Kalou du LDM (1610)
+Seat 9: fetopi (1555)
+Seat 10: Mars_Attack (1465)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 15
+WILD CHILD posts big blind 30
+Dealt to sabre_laser [2s 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kalou du LDM folds
+fetopi folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 1515 to 1545 and is all-in
+ChesasNA folds
+WILD CHILD folds
+fecondator collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Seat 3: fecondator (button) won 1590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-11-1438115545 - Holdem no limit (20/40) - 2015/07/28 20:32:25 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 71l1kum (1455)
+Seat 2: crazypix (1455)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (2720)
+Seat 5: WILD CHILD (1410)
+Seat 6: sabre_laser (1740)
+Seat 8: Kalou du LDM (1610)
+Seat 9: fetopi (1555)
+Seat 10: Mars_Attack (1465)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [7d 7c]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+fetopi raises 120 to 160
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser calls 120
+*** FLOP *** [Kc 7h Jd]
+sabre_laser checks
+fetopi bets 170
+sabre_laser calls 170
+*** TURN *** [Kc 7h Jd][Ac]
+sabre_laser checks
+fetopi bets 1225 and is all-in
+sabre_laser calls 1225
+*** RIVER *** [Kc 7h Jd Ac][4c]
+*** SHOW DOWN ***
+fetopi shows [Ah Qc] (One pair : Aces)
+sabre_laser shows [7d 7c] (Trips of 7)
+sabre_laser collected 3130 from pot
+*** SUMMARY ***
+Total pot 3130 | No rake
+Board: [Kc 7h Jd Ac 4c]
+Seat 6: sabre_laser (big blind) showed [7d 7c] and won 3130 with Trips of 7
+Seat 9: fetopi showed [Ah Qc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-12-1438115602 - Holdem no limit (20/40) - 2015/07/28 20:33:22 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 71l1kum (1455)
+Seat 2: crazypix (1455)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (2720)
+Seat 5: WILD CHILD (1390)
+Seat 6: sabre_laser (3315)
+Seat 8: Kalou du LDM (1610)
+Seat 10: Mars_Attack (1465)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Kalou du LDM posts big blind 40
+Dealt to sabre_laser [3c 7h]
+*** PRE-FLOP *** 
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 8: Kalou du LDM (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-13-1438115627 - Holdem no limit (20/40) - 2015/07/28 20:33:47 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 71l1kum (1455)
+Seat 2: crazypix (1455)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (2720)
+Seat 5: WILD CHILD (1390)
+Seat 6: sabre_laser (3295)
+Seat 8: Kalou du LDM (1630)
+Seat 10: Mars_Attack (1465)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 20
+Mars_Attack posts big blind 40
+Dealt to sabre_laser [Ac Td]
+*** PRE-FLOP *** 
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser raises 60 to 100
+Kalou du LDM folds
+Mars_Attack folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 6: sabre_laser (button) won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-14-1438115702 - Holdem no limit (20/40) - 2015/07/28 20:35:02 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 71l1kum (1455)
+Seat 2: crazypix (1455)
+Seat 3: fecondator (1590)
+Seat 4: ChesasNA (2720)
+Seat 5: WILD CHILD (1390)
+Seat 6: sabre_laser (3355)
+Seat 8: Kalou du LDM (1610)
+Seat 10: Mars_Attack (1425)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 20
+71l1kum posts big blind 40
+Dealt to sabre_laser [Qh 2s]
+*** PRE-FLOP *** 
+crazypix folds
+fecondator raises 1550 to 1590 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+fecondator collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 3: fecondator won 1650
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-15-1438115748 - Holdem no limit (20/40) - 2015/07/28 20:35:48 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 71l1kum (1415)
+Seat 2: crazypix (1455)
+Seat 3: fecondator (1650)
+Seat 4: ChesasNA (2720)
+Seat 5: WILD CHILD (1390)
+Seat 6: sabre_laser (3355)
+Seat 8: Kalou du LDM (1610)
+Seat 10: Mars_Attack (1405)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 20
+crazypix posts big blind 40
+Dealt to sabre_laser [4c Qd]
+*** PRE-FLOP *** 
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: crazypix (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-16-1438115775 - Holdem no limit (20/40) - 2015/07/28 20:36:15 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 71l1kum (1395)
+Seat 2: crazypix (1475)
+Seat 3: fecondator (1650)
+Seat 4: ChesasNA (2720)
+Seat 5: WILD CHILD (1390)
+Seat 6: sabre_laser (3355)
+Seat 8: Kalou du LDM (1610)
+Seat 10: Mars_Attack (1405)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+fecondator posts big blind 40
+Dealt to sabre_laser [Qd Td]
+*** PRE-FLOP *** 
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix calls 20
+fecondator checks
+*** FLOP *** [8s 9h 3h]
+crazypix checks
+fecondator checks
+*** TURN *** [8s 9h 3h][6s]
+crazypix bets 40
+fecondator raises 1570 to 1610 and is all-in
+crazypix folds
+fecondator collected 1730 from pot
+*** SUMMARY ***
+Total pot 1730 | No rake
+Board: [8s 9h 3h 6s]
+Seat 3: fecondator (big blind) won 1730
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-17-1438115834 - Holdem no limit (20/40) - 2015/07/28 20:37:14 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 71l1kum (1395)
+Seat 2: crazypix (1395)
+Seat 3: fecondator (1730)
+Seat 4: ChesasNA (2720)
+Seat 5: WILD CHILD (1390)
+Seat 6: sabre_laser (3355)
+Seat 8: Kalou du LDM (1610)
+Seat 10: Mars_Attack (1405)
+*** ANTE/BLINDS ***
+fecondator posts small blind 20
+ChesasNA posts big blind 40
+Dealt to sabre_laser [3d Jc]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack raises 40 to 80
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA calls 40
+*** FLOP *** [7s 4h 5s]
+ChesasNA checks
+Mars_Attack bets 120
+ChesasNA folds
+Mars_Attack collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7s 4h 5s]
+Seat 10: Mars_Attack won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #541061979742142465-18-1438115889 - Holdem no limit (20/40) - 2015/07/28 20:38:09 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 71l1kum (1395)
+Seat 2: crazypix (1395)
+Seat 3: fecondator (1710)
+Seat 4: ChesasNA (2640)
+Seat 5: WILD CHILD (1390)
+Seat 6: sabre_laser (3355)
+Seat 8: Kalou du LDM (1610)
+Seat 10: Mars_Attack (1505)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 20
+WILD CHILD posts big blind 40
+Dealt to sabre_laser [2s Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix raises 1355 to 1395 and is all-in
+fecondator raises 315 to 1710 and is all-in
+ChesasNA folds
+WILD CHILD folds
+*** FLOP *** [Kc 9h 3d]
+*** TURN *** [Kc 9h 3d][9d]
+*** RIVER *** [Kc 9h 3d 9d][4h]
+*** SHOW DOWN ***
+crazypix shows [Ac Qc] (One pair : 9)
+fecondator shows [Jd Qd] (One pair : 9)
+fecondator collected 315 from side pot 1
+crazypix collected 2850 from main pot
+*** SUMMARY ***
+Total pot 3165 | No rake
+Board: [Kc 9h 3d 9d 4h]
+Seat 2: crazypix showed [Ac Qc] and won 2850 with One pair : 9
+Seat 3: fecondator (button) showed [Jd Qd] and won 315 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-19-1438115934 - Holdem no limit (30/60) - 2015/07/28 20:38:54 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 71l1kum (1395)
+Seat 2: crazypix (2850)
+Seat 3: fecondator (315)
+Seat 4: ChesasNA (2620)
+Seat 5: WILD CHILD (1350)
+Seat 6: sabre_laser (3355)
+Seat 8: Kalou du LDM (1610)
+Seat 10: Mars_Attack (1505)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [4h Kc]
+*** PRE-FLOP *** 
+Kalou du LDM calls 60
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 255 to 315 and is all-in
+ChesasNA folds
+WILD CHILD raises 1035 to 1350 and is all-in
+sabre_laser folds
+Kalou du LDM folds
+*** FLOP *** [Th Jh Tc]
+*** TURN *** [Th Jh Tc][3c]
+*** RIVER *** [Th Jh Tc 3c][Qh]
+*** SHOW DOWN ***
+fecondator shows [9h Kd] (Straight King high)
+WILD CHILD shows [Ks Qd] (Two pairs : Queens and Tens)
+WILD CHILD collected 1035 from side pot 1
+fecondator collected 750 from main pot
+*** SUMMARY ***
+Total pot 1785 | No rake
+Board: [Th Jh Tc 3c Qh]
+Seat 3: fecondator showed [9h Kd] and won 750 with Straight King high
+Seat 5: WILD CHILD (small blind) showed [Ks Qd] and won 1035 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-20-1438115989 - Holdem no limit (30/60) - 2015/07/28 20:39:49 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 71l1kum (1395)
+Seat 2: crazypix (2850)
+Seat 3: fecondator (750)
+Seat 4: ChesasNA (2620)
+Seat 5: WILD CHILD (1035)
+Seat 6: sabre_laser (3295)
+Seat 8: Kalou du LDM (1550)
+Seat 10: Mars_Attack (1505)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Kalou du LDM posts big blind 60
+Dealt to sabre_laser [3c Kh]
+*** PRE-FLOP *** 
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 90 to 150
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+fecondator collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: fecondator won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-21-1438116021 - Holdem no limit (30/60) - 2015/07/28 20:40:21 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 71l1kum (1395)
+Seat 2: crazypix (2850)
+Seat 3: fecondator (840)
+Seat 4: ChesasNA (2620)
+Seat 5: WILD CHILD (1035)
+Seat 6: sabre_laser (3265)
+Seat 8: Kalou du LDM (1490)
+Seat 10: Mars_Attack (1505)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 30
+Mars_Attack posts big blind 60
+Dealt to sabre_laser [7s Ks]
+*** PRE-FLOP *** 
+71l1kum folds
+crazypix folds
+fecondator raises 780 to 840 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+fecondator collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 3: fecondator won 930
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-22-1438116044 - Holdem no limit (30/60) - 2015/07/28 20:40:44 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 71l1kum (1395)
+Seat 2: crazypix (2850)
+Seat 3: fecondator (930)
+Seat 4: ChesasNA (2620)
+Seat 5: WILD CHILD (1035)
+Seat 6: sabre_laser (3265)
+Seat 8: Kalou du LDM (1460)
+Seat 10: Mars_Attack (1445)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 30
+71l1kum posts big blind 60
+Dealt to sabre_laser [9d Kc]
+*** PRE-FLOP *** 
+crazypix calls 60
+fecondator raises 870 to 930 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Seat 3: fecondator won 1080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-23-1438116089 - Holdem no limit (30/60) - 2015/07/28 20:41:29 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 71l1kum (1335)
+Seat 2: crazypix (2790)
+Seat 3: fecondator (1080)
+Seat 4: ChesasNA (2620)
+Seat 5: WILD CHILD (1035)
+Seat 6: sabre_laser (3265)
+Seat 8: Kalou du LDM (1460)
+Seat 10: Mars_Attack (1415)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 30
+crazypix posts big blind 60
+Dealt to sabre_laser [Td Ah]
+*** PRE-FLOP *** 
+fecondator raises 1020 to 1080 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser calls 1080
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+*** FLOP *** [3s 2c Jh]
+*** TURN *** [3s 2c Jh][Jc]
+*** RIVER *** [3s 2c Jh Jc][Qs]
+*** SHOW DOWN ***
+sabre_laser shows [Td Ah] (One pair : Jacks)
+fecondator shows [2d Qd] (Two pairs : Queens and Jacks)
+fecondator collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [3s 2c Jh Jc Qs]
+Seat 3: fecondator showed [2d Qd] and won 2250 with Two pairs : Queens and Jacks
+Seat 6: sabre_laser showed [Td Ah] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-24-1438116125 - Holdem no limit (30/60) - 2015/07/28 20:42:05 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 71l1kum (1305)
+Seat 2: crazypix (2730)
+Seat 3: fecondator (2250)
+Seat 4: ChesasNA (2620)
+Seat 5: WILD CHILD (1035)
+Seat 6: sabre_laser (2185)
+Seat 8: Kalou du LDM (1460)
+Seat 10: Mars_Attack (1415)
+*** ANTE/BLINDS ***
+crazypix posts small blind 30
+fecondator posts big blind 60
+Dealt to sabre_laser [2c Td]
+*** PRE-FLOP *** 
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum raises 60 to 120
+crazypix folds
+fecondator raises 2130 to 2250 and is all-in
+71l1kum folds
+fecondator collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Seat 3: fecondator (big blind) won 2400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-25-1438116201 - Holdem no limit (30/60) - 2015/07/28 20:43:21 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 71l1kum (1185)
+Seat 2: crazypix (2700)
+Seat 3: fecondator (2400)
+Seat 4: ChesasNA (2620)
+Seat 5: WILD CHILD (1035)
+Seat 6: sabre_laser (2185)
+Seat 8: Kalou du LDM (1460)
+Seat 10: Mars_Attack (1415)
+*** ANTE/BLINDS ***
+fecondator posts small blind 30
+ChesasNA posts big blind 60
+Dealt to sabre_laser [Ks 9s]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix raises 60 to 120
+fecondator folds
+ChesasNA folds
+crazypix collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: crazypix (button) won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #541061979742142465-26-1438116227 - Holdem no limit (30/60) - 2015/07/28 20:43:47 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 71l1kum (1185)
+Seat 2: crazypix (2790)
+Seat 3: fecondator (2370)
+Seat 4: ChesasNA (2560)
+Seat 5: WILD CHILD (1035)
+Seat 6: sabre_laser (2185)
+Seat 8: Kalou du LDM (1460)
+Seat 10: Mars_Attack (1415)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 30
+WILD CHILD posts big blind 60
+Dealt to sabre_laser [6c 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 2310 to 2370 and is all-in
+ChesasNA folds
+WILD CHILD folds
+fecondator collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Seat 3: fecondator (button) won 2460
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-27-1438116267 - Holdem no limit (40/80) - 2015/07/28 20:44:27 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 71l1kum (1185)
+Seat 2: crazypix (2790)
+Seat 3: fecondator (2460)
+Seat 4: ChesasNA (2530)
+Seat 5: WILD CHILD (975)
+Seat 6: sabre_laser (2185)
+Seat 8: Kalou du LDM (1460)
+Seat 10: Mars_Attack (1415)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [4c 2c]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 2380 to 2460 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+fecondator collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Seat 3: fecondator won 2580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-28-1438116317 - Holdem no limit (40/80) - 2015/07/28 20:45:17 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 71l1kum (1185)
+Seat 2: crazypix (2790)
+Seat 3: fecondator (2580)
+Seat 4: ChesasNA (2530)
+Seat 5: WILD CHILD (935)
+Seat 6: sabre_laser (2105)
+Seat 8: Kalou du LDM (1460)
+Seat 10: Mars_Attack (1415)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Kalou du LDM posts big blind 80
+Dealt to sabre_laser [4s 9c]
+*** PRE-FLOP *** 
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 2500 to 2580 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+fecondator collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 3: fecondator won 2700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-29-1438116351 - Holdem no limit (40/80) - 2015/07/28 20:45:51 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 71l1kum (1185)
+Seat 2: crazypix (2790)
+Seat 3: fecondator (2700)
+Seat 4: ChesasNA (2530)
+Seat 5: WILD CHILD (935)
+Seat 6: sabre_laser (2065)
+Seat 8: Kalou du LDM (1380)
+Seat 10: Mars_Attack (1415)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 40
+Mars_Attack posts big blind 80
+Dealt to sabre_laser [Kc 4c]
+*** PRE-FLOP *** 
+71l1kum folds
+crazypix calls 80
+fecondator raises 2620 to 2700 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+crazypix folds
+fecondator collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Seat 3: fecondator won 2900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-30-1438116396 - Holdem no limit (40/80) - 2015/07/28 20:46:36 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 71l1kum (1185)
+Seat 2: crazypix (2710)
+Seat 3: fecondator (2900)
+Seat 4: ChesasNA (2530)
+Seat 5: WILD CHILD (935)
+Seat 6: sabre_laser (2065)
+Seat 8: Kalou du LDM (1340)
+Seat 10: Mars_Attack (1335)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 40
+71l1kum posts big blind 80
+Dealt to sabre_laser [Qd Ah]
+*** PRE-FLOP *** 
+crazypix folds
+fecondator raises 2820 to 2900 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser calls 2065 and is all-in
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+*** FLOP *** [2c 4h 5h]
+*** TURN *** [2c 4h 5h][8c]
+*** RIVER *** [2c 4h 5h 8c][5s]
+*** SHOW DOWN ***
+sabre_laser shows [Qd Ah] (One pair : 5)
+fecondator shows [Qs As] (One pair : 5)
+fecondator collected 2960 from side pot 1
+sabre_laser collected 2125 from main pot
+*** SUMMARY ***
+Total pot 5085 | No rake
+Board: [2c 4h 5h 8c 5s]
+Seat 3: fecondator showed [Qs As] and won 2960 with One pair : 5
+Seat 6: sabre_laser showed [Qd Ah] and won 2125 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-31-1438116447 - Holdem no limit (40/80) - 2015/07/28 20:47:27 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 71l1kum (1105)
+Seat 2: crazypix (2710)
+Seat 3: fecondator (2960)
+Seat 4: ChesasNA (2530)
+Seat 5: WILD CHILD (935)
+Seat 6: sabre_laser (2125)
+Seat 8: Kalou du LDM (1340)
+Seat 10: Mars_Attack (1295)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 40
+crazypix posts big blind 80
+Dealt to sabre_laser [Qd 8s]
+*** PRE-FLOP *** 
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack raises 1215 to 1295 and is all-in
+71l1kum calls 1065 and is all-in
+crazypix folds
+*** FLOP *** [4h 5d Td]
+*** TURN *** [4h 5d Td][2h]
+*** RIVER *** [4h 5d Td 2h][Qs]
+*** SHOW DOWN ***
+71l1kum shows [Kd Kc] (One pair : Kings)
+Mars_Attack shows [Jd Jh] (One pair : Jacks)
+Mars_Attack collected 190 from side pot 1
+71l1kum collected 2290 from main pot
+*** SUMMARY ***
+Total pot 2480 | No rake
+Board: [4h 5d Td 2h Qs]
+Seat 1: 71l1kum (small blind) showed [Kd Kc] and won 2290 with One pair : Kings
+Seat 10: Mars_Attack (button) showed [Jd Jh] and won 190 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-32-1438116488 - Holdem no limit (40/80) - 2015/07/28 20:48:08 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 71l1kum (2290)
+Seat 2: crazypix (2630)
+Seat 3: fecondator (2960)
+Seat 4: ChesasNA (2530)
+Seat 5: WILD CHILD (935)
+Seat 6: sabre_laser (2125)
+Seat 8: Kalou du LDM (1340)
+Seat 10: Mars_Attack (190)
+*** ANTE/BLINDS ***
+crazypix posts small blind 40
+fecondator posts big blind 80
+Dealt to sabre_laser [Jc Ts]
+*** PRE-FLOP *** 
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack raises 110 to 190 and is all-in
+71l1kum folds
+crazypix raises 2440 to 2630 and is all-in
+fecondator folds
+*** FLOP *** [Qh 4c Qd]
+*** TURN *** [Qh 4c Qd][Th]
+*** RIVER *** [Qh 4c Qd Th][6h]
+*** SHOW DOWN ***
+Mars_Attack shows [Td Kc] (Two pairs : Queens and Tens)
+crazypix shows [Ah Kd] (One pair : Queens)
+crazypix collected 2440 from side pot 1
+Mars_Attack collected 460 from main pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [Qh 4c Qd Th 6h]
+Seat 2: crazypix (small blind) showed [Ah Kd] and won 2440 with One pair : Queens
+Seat 10: Mars_Attack showed [Td Kc] and won 460 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-33-1438116534 - Holdem no limit (40/80) - 2015/07/28 20:48:54 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 71l1kum (2290)
+Seat 2: crazypix (2440)
+Seat 3: fecondator (2880)
+Seat 4: ChesasNA (2530)
+Seat 5: WILD CHILD (935)
+Seat 6: sabre_laser (2125)
+Seat 8: Kalou du LDM (1340)
+Seat 10: Mars_Attack (460)
+*** ANTE/BLINDS ***
+fecondator posts small blind 40
+ChesasNA posts big blind 80
+Dealt to sabre_laser [6c Td]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 2800 to 2880 and is all-in
+ChesasNA folds
+fecondator collected 2960 from pot
+*** SUMMARY ***
+Total pot 2960 | No rake
+Seat 3: fecondator (small blind) won 2960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #541061979742142465-34-1438116562 - Holdem no limit (40/80) - 2015/07/28 20:49:22 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 71l1kum (2290)
+Seat 2: crazypix (2440)
+Seat 3: fecondator (2960)
+Seat 4: ChesasNA (2450)
+Seat 5: WILD CHILD (935)
+Seat 6: sabre_laser (2125)
+Seat 8: Kalou du LDM (1340)
+Seat 10: Mars_Attack (460)
+*** ANTE/BLINDS ***
+ChesasNA posts small blind 40
+WILD CHILD posts big blind 80
+Dealt to sabre_laser [Js 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix calls 80
+fecondator folds
+ChesasNA calls 40
+WILD CHILD checks
+*** FLOP *** [4d Td 4c]
+ChesasNA checks
+WILD CHILD checks
+crazypix bets 80
+ChesasNA folds
+WILD CHILD calls 80
+*** TURN *** [4d Td 4c][4h]
+WILD CHILD checks
+crazypix checks
+*** RIVER *** [4d Td 4c 4h][6d]
+WILD CHILD bets 200
+crazypix calls 200
+*** SHOW DOWN ***
+crazypix shows [Tc Qs] (Full of 4 and Tens)
+WILD CHILD shows [Ts Jh] (Full of 4 and Tens)
+WILD CHILD collected 400 from pot
+crazypix collected 400 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [4d Td 4c 4h 6d]
+Seat 2: crazypix showed [Tc Qs] and won 400 with Full of 4 and Tens
+Seat 5: WILD CHILD (big blind) showed [Ts Jh] and won 400 with Full of 4 and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541061979742142465-35-1438116633 - Holdem no limit (60/120) - 2015/07/28 20:50:33 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 71l1kum (2290)
+Seat 2: crazypix (2480)
+Seat 3: fecondator (2960)
+Seat 4: ChesasNA (2370)
+Seat 5: WILD CHILD (975)
+Seat 6: sabre_laser (2125)
+Seat 8: Kalou du LDM (1340)
+Seat 10: Mars_Attack (460)
+*** ANTE/BLINDS ***
+WILD CHILD posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Ts Qd]
+*** PRE-FLOP *** 
+Kalou du LDM raises 120 to 240
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator raises 2720 to 2960 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+fecondator collected 3380 from pot
+*** SUMMARY ***
+Total pot 3380 | No rake
+Seat 3: fecondator won 3380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541061979742142465-36-1438116686 - Holdem no limit (60/120) - 2015/07/28 20:51:26 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #5 is the button
+Seat 1: 71l1kum (2290)
+Seat 2: crazypix (2480)
+Seat 3: fecondator (3380)
+Seat 4: ChesasNA (2370)
+Seat 5: WILD CHILD (915)
+Seat 6: sabre_laser (2005)
+Seat 8: Kalou du LDM (1100)
+Seat 10: Mars_Attack (460)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Kalou du LDM posts big blind 120
+Dealt to sabre_laser [Ks Th]
+*** PRE-FLOP *** 
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser raises 120 to 240
+Kalou du LDM calls 120
+*** FLOP *** [Qc 7h Qh]
+sabre_laser bets 1765 and is all-in
+Kalou du LDM calls 860 and is all-in
+*** TURN *** [Qc 7h Qh][2h]
+*** RIVER *** [Qc 7h Qh 2h][8s]
+*** SHOW DOWN ***
+Kalou du LDM shows [9h Kh] (Flush King high)
+sabre_laser shows [Ks Th] (One pair : Queens)
+sabre_laser collected 905 from side pot 1
+Kalou du LDM collected 2200 from main pot
+*** SUMMARY ***
+Total pot 3105 | No rake
+Board: [Qc 7h Qh 2h 8s]
+Seat 6: sabre_laser (small blind) showed [Ks Th] and won 905 with One pair : Queens
+Seat 8: Kalou du LDM (big blind) showed [9h Kh] and won 2200 with Flush King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541061979742142465-37-1438116747 - Holdem no limit (60/120) - 2015/07/28 20:52:27 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 71l1kum (2290)
+Seat 2: crazypix (2480)
+Seat 3: fecondator (3380)
+Seat 4: ChesasNA (2370)
+Seat 5: WILD CHILD (915)
+Seat 6: sabre_laser (905)
+Seat 8: Kalou du LDM (2200)
+Seat 10: Mars_Attack (460)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 60
+Mars_Attack posts big blind 120
+Dealt to sabre_laser [2s Jd]
+*** PRE-FLOP *** 
+71l1kum folds
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM raises 2080 to 2200 and is all-in
+Mars_Attack calls 340 and is all-in
+*** FLOP *** [2c As 7d]
+*** TURN *** [2c As 7d][8c]
+*** RIVER *** [2c As 7d 8c][Ah]
+*** SHOW DOWN ***
+Mars_Attack shows [Ac 9d] (Trips of Aces)
+Kalou du LDM shows [Ad 6h] (Trips of Aces)
+Kalou du LDM collected 1740 from side pot 1
+Mars_Attack collected 920 from main pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [2c As 7d 8c Ah]
+Seat 8: Kalou du LDM (small blind) showed [Ad 6h] and won 1740 with Trips of Aces
+Seat 10: Mars_Attack (big blind) showed [Ac 9d] and won 920 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541061979742142465-38-1438116803 - Holdem no limit (60/120) - 2015/07/28 20:53:23 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 71l1kum (2290)
+Seat 2: crazypix (2480)
+Seat 3: fecondator (3380)
+Seat 4: ChesasNA (2370)
+Seat 5: WILD CHILD (915)
+Seat 6: sabre_laser (905)
+Seat 8: Kalou du LDM (1740)
+Seat 10: Mars_Attack (920)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 60
+71l1kum posts big blind 120
+Dealt to sabre_laser [Js Jd]
+*** PRE-FLOP *** 
+crazypix folds
+fecondator folds
+ChesasNA folds
+WILD CHILD folds
+sabre_laser raises 785 to 905 and is all-in
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+sabre_laser collected 1085 from pot
+*** SUMMARY ***
+Total pot 1085 | No rake
+Seat 6: sabre_laser won 1085
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541061979742142465-39-1438116838 - Holdem no limit (60/120) - 2015/07/28 20:53:58 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 71l1kum (2170)
+Seat 2: crazypix (2480)
+Seat 3: fecondator (3380)
+Seat 4: ChesasNA (2370)
+Seat 5: WILD CHILD (915)
+Seat 6: sabre_laser (1085)
+Seat 8: Kalou du LDM (1740)
+Seat 10: Mars_Attack (860)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [5d 8h]
+*** PRE-FLOP *** 
+fecondator raises 3260 to 3380 and is all-in
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix folds
+fecondator collected 3560 from pot
+*** SUMMARY ***
+Total pot 3560 | No rake
+Seat 3: fecondator won 3560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541061979742142465-40-1438116905 - Holdem no limit (60/120) - 2015/07/28 20:55:05 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 71l1kum (2110)
+Seat 2: crazypix (2360)
+Seat 3: fecondator (3560)
+Seat 4: ChesasNA (2370)
+Seat 5: WILD CHILD (915)
+Seat 6: sabre_laser (1085)
+Seat 8: Kalou du LDM (1740)
+Seat 10: Mars_Attack (860)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+fecondator posts big blind 120
+Dealt to sabre_laser [4s 8s]
+*** PRE-FLOP *** 
+ChesasNA folds
+WILD CHILD folds
+sabre_laser folds
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum folds
+crazypix raises 2240 to 2360 and is all-in
+fecondator folds
+crazypix collected 2480 from pot
+*** SUMMARY ***
+Total pot 2480 | No rake
+Seat 2: crazypix (small blind) won 2480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #541061979742142465-41-1438116967 - Holdem no limit (60/120) - 2015/07/28 20:56:07 UTC
+Table: 'Double or Nothing(125975809)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 71l1kum (2110)
+Seat 2: crazypix (2480)
+Seat 3: fecondator (3440)
+Seat 4: ChesasNA (2370)
+Seat 5: WILD CHILD (915)
+Seat 6: sabre_laser (1085)
+Seat 8: Kalou du LDM (1740)
+Seat 10: Mars_Attack (860)
+*** ANTE/BLINDS ***
+fecondator posts small blind 60
+ChesasNA posts big blind 120
+Dealt to sabre_laser [9c 9d]
+*** PRE-FLOP *** 
+WILD CHILD folds
+sabre_laser raises 480 to 600
+Kalou du LDM folds
+Mars_Attack folds
+71l1kum raises 1510 to 2110 and is all-in
+crazypix folds
+fecondator folds
+ChesasNA folds
+sabre_laser calls 485 and is all-in
+*** FLOP *** [Th 2c Tc]
+*** TURN *** [Th 2c Tc][Js]
+*** RIVER *** [Th 2c Tc Js][8s]
+*** SHOW DOWN ***
+sabre_laser shows [9c 9d] (Two pairs : Tens and 9)
+71l1kum shows [Ac Ah] (Two pairs : Aces and Tens)
+71l1kum collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [Th 2c Tc Js 8s]
+Seat 1: 71l1kum showed [Ac Ah] and won 3375 with Two pairs : Aces and Tens
+Seat 6: sabre_laser showed [9c 9d] and lost with Two pairs : Tens and 9
+
+

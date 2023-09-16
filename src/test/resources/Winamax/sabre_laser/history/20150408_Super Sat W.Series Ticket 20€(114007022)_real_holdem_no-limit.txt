@@ -1,0 +1,535 @@
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #489656431004352516-25-1428520853 - Holdem no limit (40/80) - 2015/04/08 19:20:53 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #2 is the button
+Seat 1: lydawa (8510)
+Seat 2: kevinkev (2540)
+Seat 3: Paul4781 (1800)
+Seat 4: -DeadMoneyT (3320)
+Seat 5: jimbo21 (2730)
+Seat 6: sabre_laser (3000)
+*** ANTE/BLINDS ***
+Paul4781 posts small blind 40
+-DeadMoneyT posts big blind 80
+Dealt to sabre_laser [9c 6h]
+*** PRE-FLOP *** 
+jimbo21 folds
+sabre_laser folds
+lydawa folds
+kevinkev folds
+Paul4781 folds
+-DeadMoneyT collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: -DeadMoneyT (big blind) won 120
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #489656431004352516-26-1428520870 - Holdem no limit (40/80) - 2015/04/08 19:21:10 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #3 is the button
+Seat 1: lydawa (8510)
+Seat 2: kevinkev (2540)
+Seat 3: Paul4781 (1760)
+Seat 4: -DeadMoneyT (3360)
+Seat 5: jimbo21 (2730)
+Seat 6: sabre_laser (3000)
+*** ANTE/BLINDS ***
+-DeadMoneyT posts small blind 40
+jimbo21 posts big blind 80
+Dealt to sabre_laser [7s Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+lydawa folds
+kevinkev folds
+Paul4781 raises 90 to 170
+-DeadMoneyT folds
+jimbo21 calls 90
+*** FLOP *** [2d Td Jd]
+jimbo21 checks
+Paul4781 bets 190
+jimbo21 folds
+Paul4781 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [2d Td Jd]
+Seat 3: Paul4781 (button) won 570
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #489656431004352516-27-1428520908 - Holdem no limit (40/80) - 2015/04/08 19:21:48 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #4 is the button
+Seat 1: lydawa (8510)
+Seat 2: kevinkev (2540)
+Seat 3: Paul4781 (1970)
+Seat 4: -DeadMoneyT (3320)
+Seat 5: jimbo21 (2560)
+Seat 6: sabre_laser (3000)
+*** ANTE/BLINDS ***
+jimbo21 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [2c 6d]
+*** PRE-FLOP *** 
+lydawa folds
+kevinkev folds
+Paul4781 folds
+-DeadMoneyT raises 120 to 200
+jimbo21 folds
+sabre_laser calls 120
+*** FLOP *** [4d 2h 6h]
+sabre_laser checks
+-DeadMoneyT checks
+*** TURN *** [4d 2h 6h][Qh]
+sabre_laser bets 440
+-DeadMoneyT calls 440
+*** RIVER *** [4d 2h 6h Qh][Ks]
+sabre_laser checks
+-DeadMoneyT checks
+*** SHOW DOWN ***
+-DeadMoneyT shows [Tc Qd] (One pair : Queens)
+sabre_laser shows [2c 6d] (Two pairs : 6 and 2)
+sabre_laser collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [4d 2h 6h Qh Ks]
+Seat 4: -DeadMoneyT (button) showed [Tc Qd] and lost with One pair : Queens
+Seat 6: sabre_laser (big blind) showed [2c 6d] and won 1320 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #489656431004352516-28-1428520955 - Holdem no limit (40/80) - 2015/04/08 19:22:35 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #5 is the button
+Seat 1: lydawa (8510)
+Seat 2: kevinkev (2540)
+Seat 3: Paul4781 (1970)
+Seat 4: -DeadMoneyT (2680)
+Seat 5: jimbo21 (2520)
+Seat 6: sabre_laser (3680)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+lydawa posts big blind 80
+Dealt to sabre_laser [Ah Ad]
+*** PRE-FLOP *** 
+kevinkev folds
+Paul4781 folds
+-DeadMoneyT folds
+jimbo21 raises 80 to 160
+sabre_laser raises 80 to 240
+lydawa folds
+jimbo21 calls 80
+*** FLOP *** [Qh Kd 3c]
+sabre_laser checks
+jimbo21 bets 280
+sabre_laser calls 280
+*** TURN *** [Qh Kd 3c][5s]
+sabre_laser bets 360
+jimbo21 raises 360 to 720
+sabre_laser calls 360
+*** RIVER *** [Qh Kd 3c 5s][4h]
+sabre_laser checks
+jimbo21 bets 1280 and is all-in
+sabre_laser calls 1280
+*** SHOW DOWN ***
+sabre_laser shows [Ah Ad] (One pair : Aces)
+jimbo21 shows [3d Qs] (Two pairs : Queens and 3)
+jimbo21 collected 5120 from pot
+*** SUMMARY ***
+Total pot 5120 | No rake
+Board: [Qh Kd 3c 5s 4h]
+Seat 5: jimbo21 (button) showed [3d Qs] and won 5120 with Two pairs : Queens and 3
+Seat 6: sabre_laser (small blind) showed [Ah Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #489656431004352516-29-1428521055 - Holdem no limit (40/80) - 2015/04/08 19:24:15 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #6 is the button
+Seat 1: lydawa (8430)
+Seat 2: kevinkev (2540)
+Seat 3: Paul4781 (1970)
+Seat 4: -DeadMoneyT (2680)
+Seat 5: jimbo21 (5120)
+Seat 6: sabre_laser (1160)
+*** ANTE/BLINDS ***
+lydawa posts small blind 40
+kevinkev posts big blind 80
+Dealt to sabre_laser [4h 9d]
+*** PRE-FLOP *** 
+Paul4781 folds
+-DeadMoneyT folds
+jimbo21 folds
+sabre_laser folds
+lydawa calls 40
+kevinkev folds
+lydawa collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: lydawa (small blind) won 160
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #489656431004352516-30-1428521093 - Holdem no limit (40/80) - 2015/04/08 19:24:53 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #1 is the button
+Seat 1: lydawa (8510)
+Seat 2: kevinkev (2460)
+Seat 3: Paul4781 (1970)
+Seat 4: -DeadMoneyT (2680)
+Seat 5: jimbo21 (5120)
+Seat 6: sabre_laser (1160)
+*** ANTE/BLINDS ***
+kevinkev posts small blind 40
+Paul4781 posts big blind 80
+Dealt to sabre_laser [6h 3h]
+*** PRE-FLOP *** 
+-DeadMoneyT folds
+jimbo21 folds
+sabre_laser folds
+lydawa raises 80 to 160
+kevinkev folds
+Paul4781 folds
+lydawa collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: lydawa (button) won 280
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-31-1428521112 - Holdem no limit (60/120) - 2015/04/08 19:25:12 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #2 is the button
+Seat 1: lydawa (8630)
+Seat 2: kevinkev (2420)
+Seat 3: Paul4781 (1890)
+Seat 4: -DeadMoneyT (2680)
+Seat 5: jimbo21 (5120)
+Seat 6: sabre_laser (1160)
+*** ANTE/BLINDS ***
+Paul4781 posts small blind 60
+-DeadMoneyT posts big blind 120
+Dealt to sabre_laser [Kh Ts]
+*** PRE-FLOP *** 
+jimbo21 raises 120 to 240
+sabre_laser folds
+lydawa folds
+kevinkev folds
+Paul4781 raises 1650 to 1890 and is all-in
+-DeadMoneyT folds
+jimbo21 calls 1650
+*** FLOP *** [Qc 3d 7h]
+*** TURN *** [Qc 3d 7h][Jc]
+*** RIVER *** [Qc 3d 7h Jc][8c]
+*** SHOW DOWN ***
+Paul4781 shows [9h 9s] (One pair : 9)
+jimbo21 shows [Js Jd] (Trips of Jacks)
+jimbo21 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [Qc 3d 7h Jc 8c]
+Seat 3: Paul4781 (small blind) showed [9h 9s] and lost with One pair : 9
+Seat 5: jimbo21 showed [Js Jd] and won 3900 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-32-1428521149 - Holdem no limit (60/120) - 2015/04/08 19:25:49 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #3 is the button
+Seat 1: lydawa (8630)
+Seat 2: kevinkev (2420)
+Seat 4: -DeadMoneyT (2560)
+Seat 5: jimbo21 (7130)
+Seat 6: sabre_laser (1160)
+*** ANTE/BLINDS ***
+-DeadMoneyT posts small blind 60
+jimbo21 posts big blind 120
+Dealt to sabre_laser [Qs Th]
+*** PRE-FLOP *** 
+sabre_laser calls 120
+lydawa calls 120
+kevinkev folds
+-DeadMoneyT folds
+jimbo21 checks
+*** FLOP *** [Jc Kh 8h]
+jimbo21 bets 280
+sabre_laser calls 280
+lydawa calls 280
+*** TURN *** [Jc Kh 8h][Ad]
+jimbo21 checks
+sabre_laser bets 760 and is all-in
+lydawa folds
+jimbo21 calls 760
+*** RIVER *** [Jc Kh 8h Ad][6s]
+*** SHOW DOWN ***
+jimbo21 shows [Kd 4h] (One pair : Kings)
+sabre_laser shows [Qs Th] (Straight Ace high)
+sabre_laser collected 2780 from pot
+*** SUMMARY ***
+Total pot 2780 | No rake
+Board: [Jc Kh 8h Ad 6s]
+Seat 5: jimbo21 (big blind) showed [Kd 4h] and lost with One pair : Kings
+Seat 6: sabre_laser showed [Qs Th] and won 2780 with Straight Ace high
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-33-1428521224 - Holdem no limit (60/120) - 2015/04/08 19:27:04 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #4 is the button
+Seat 1: lydawa (8230)
+Seat 2: kevinkev (2420)
+Seat 3: pachole210 (3000)
+Seat 4: -DeadMoneyT (2500)
+Seat 5: jimbo21 (5970)
+Seat 6: sabre_laser (2780)
+*** ANTE/BLINDS ***
+jimbo21 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [4c 3d]
+*** PRE-FLOP *** 
+lydawa folds
+kevinkev folds
+pachole210 calls 120
+-DeadMoneyT folds
+jimbo21 calls 60
+sabre_laser checks
+*** FLOP *** [3s Jh Ad]
+jimbo21 bets 180
+sabre_laser folds
+pachole210 calls 180
+*** TURN *** [3s Jh Ad][2d]
+jimbo21 checks
+pachole210 checks
+*** RIVER *** [3s Jh Ad 2d][7c]
+jimbo21 bets 360
+pachole210 folds
+jimbo21 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [3s Jh Ad 2d 7c]
+Seat 5: jimbo21 (small blind) won 1080
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-34-1428521269 - Holdem no limit (60/120) - 2015/04/08 19:27:49 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #5 is the button
+Seat 1: lydawa (8230)
+Seat 2: kevinkev (2420)
+Seat 3: pachole210 (2700)
+Seat 4: -DeadMoneyT (2500)
+Seat 5: jimbo21 (6390)
+Seat 6: sabre_laser (2660)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+lydawa posts big blind 120
+Dealt to sabre_laser [7d 8h]
+*** PRE-FLOP *** 
+kevinkev folds
+pachole210 folds
+-DeadMoneyT folds
+jimbo21 raises 120 to 240
+sabre_laser folds
+lydawa folds
+jimbo21 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: jimbo21 (button) won 420
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-35-1428521299 - Holdem no limit (60/120) - 2015/04/08 19:28:19 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #6 is the button
+Seat 1: lydawa (8110)
+Seat 2: kevinkev (2420)
+Seat 3: pachole210 (2700)
+Seat 4: -DeadMoneyT (2500)
+Seat 5: jimbo21 (6570)
+Seat 6: sabre_laser (2600)
+*** ANTE/BLINDS ***
+lydawa posts small blind 60
+kevinkev posts big blind 120
+Dealt to sabre_laser [7c Jh]
+*** PRE-FLOP *** 
+pachole210 raises 240 to 360
+-DeadMoneyT folds
+jimbo21 folds
+sabre_laser folds
+lydawa folds
+kevinkev folds
+pachole210 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 3: pachole210 won 540
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-36-1428521329 - Holdem no limit (60/120) - 2015/04/08 19:28:49 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #1 is the button
+Seat 1: lydawa (8050)
+Seat 2: kevinkev (2300)
+Seat 3: pachole210 (2880)
+Seat 4: -DeadMoneyT (2500)
+Seat 5: jimbo21 (6570)
+Seat 6: sabre_laser (2600)
+*** ANTE/BLINDS ***
+kevinkev posts small blind 60
+pachole210 posts big blind 120
+Dealt to sabre_laser [5h 4c]
+*** PRE-FLOP *** 
+-DeadMoneyT folds
+jimbo21 calls 120
+sabre_laser folds
+lydawa folds
+kevinkev folds
+pachole210 checks
+*** FLOP *** [Ts Jc Qs]
+pachole210 checks
+jimbo21 checks
+*** TURN *** [Ts Jc Qs][Ad]
+pachole210 checks
+jimbo21 checks
+*** RIVER *** [Ts Jc Qs Ad][Ks]
+pachole210 checks
+jimbo21 bets 300
+pachole210 calls 300
+*** SHOW DOWN ***
+pachole210 shows [Ah 2d] (Straight Ace high)
+jimbo21 shows [9s 7s] (Flush King high)
+jimbo21 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts Jc Qs Ad Ks]
+Seat 3: pachole210 (big blind) showed [Ah 2d] and lost with Straight Ace high
+Seat 5: jimbo21 showed [9s 7s] and won 900 with Flush King high
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-37-1428521371 - Holdem no limit (60/120) - 2015/04/08 19:29:31 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #2 is the button
+Seat 1: lydawa (8050)
+Seat 2: kevinkev (2240)
+Seat 4: -DeadMoneyT (2500)
+Seat 5: jimbo21 (7050)
+Seat 6: sabre_laser (2600)
+*** ANTE/BLINDS ***
+-DeadMoneyT posts big blind 120
+Dealt to sabre_laser [5h Qh]
+*** PRE-FLOP *** 
+jimbo21 folds
+sabre_laser folds
+lydawa raises 240 to 360
+kevinkev folds
+-DeadMoneyT folds
+lydawa collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: lydawa won 480
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-38-1428521395 - Holdem no limit (60/120) - 2015/04/08 19:29:55 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #3 is the button
+Seat 1: lydawa (8170)
+Seat 2: kevinkev (2240)
+Seat 3: AllAbout18 (3000)
+Seat 4: -DeadMoneyT (2380)
+Seat 5: jimbo21 (7050)
+Seat 6: sabre_laser (2600)
+*** ANTE/BLINDS ***
+-DeadMoneyT posts small blind 60
+jimbo21 posts big blind 120
+Dealt to sabre_laser [8s 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+lydawa folds
+kevinkev folds
+-DeadMoneyT folds
+jimbo21 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 5: jimbo21 (big blind) won 180
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352516-39-1428521407 - Holdem no limit (60/120) - 2015/04/08 19:30:07 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#003' 6-max (real money) Seat #4 is the button
+Seat 1: lydawa (8170)
+Seat 2: kevinkev (2240)
+Seat 3: AllAbout18 (3000)
+Seat 4: -DeadMoneyT (2320)
+Seat 5: jimbo21 (7110)
+Seat 6: sabre_laser (2600)
+*** ANTE/BLINDS ***
+jimbo21 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Ac Kd]
+*** PRE-FLOP *** 
+lydawa folds
+kevinkev folds
+AllAbout18 raises 180 to 300
+-DeadMoneyT calls 300
+jimbo21 folds
+sabre_laser raises 2300 to 2600 and is all-in
+AllAbout18 folds
+-DeadMoneyT calls 2020 and is all-in
+*** FLOP *** [8h 6c 7h]
+*** TURN *** [8h 6c 7h][8s]
+*** RIVER *** [8h 6c 7h 8s][3s]
+*** SHOW DOWN ***
+-DeadMoneyT shows [4c 4s] (Two pairs : 8 and 4)
+sabre_laser shows [Ac Kd] (One pair : 8)
+sabre_laser collected 280 from side pot 1
+-DeadMoneyT collected 5000 from main pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Board: [8h 6c 7h 8s 3s]
+Seat 4: -DeadMoneyT (button) showed [4c 4s] and won 5000 with Two pairs : 8 and 4
+Seat 6: sabre_laser (big blind) showed [Ac Kd] and won 280 with One pair : 8
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352519-1-1428521443 - Holdem no limit (60/120) - 2015/04/08 19:30:43 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#006' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (280)
+Seat 6: Mr CaLLhAiR (3000)
+*** ANTE/BLINDS ***
+Mr CaLLhAiR posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [4s 6d]
+*** PRE-FLOP *** 
+Mr CaLLhAiR folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #489656431004352519-2-1428521448 - Holdem no limit (60/120) - 2015/04/08 19:30:48 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#006' 6-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (340)
+Seat 5: Nel09 (3000)
+Seat 6: Mr CaLLhAiR (2940)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Nel09 posts big blind 120
+Dealt to sabre_laser [4d Ks]
+*** PRE-FLOP *** 
+Mr CaLLhAiR raises 120 to 240
+sabre_laser folds
+Nel09 folds
+Mr CaLLhAiR collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: Mr CaLLhAiR (button) won 420
+
+
+Winamax Poker - Tournament "Super Sat W.Series Ticket 20€" buyIn: 2,70€ + 0,30€ level: 6 - HandId: #489656431004352519-3-1428521466 - Holdem no limit (10/60/120) - 2015/04/08 19:31:06 UTC
+Table: 'Super Sat W.Series Ticket 20€(114007022)#006' 6-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (280)
+Seat 3: thelonious29 (3000)
+Seat 5: Nel09 (2880)
+Seat 6: Mr CaLLhAiR (3120)
+*** ANTE/BLINDS ***
+Nel09 posts ante 10
+Mr CaLLhAiR posts ante 10
+sabre_laser posts ante 10
+Nel09 posts small blind 60
+Mr CaLLhAiR posts big blind 120
+Dealt to sabre_laser [Jd 9s]
+*** PRE-FLOP *** 
+sabre_laser raises 150 to 270 and is all-in
+Nel09 calls 210
+Mr CaLLhAiR calls 150
+*** FLOP *** [Ad 5h 8c]
+Nel09 checks
+Mr CaLLhAiR checks
+*** TURN *** [Ad 5h 8c][3c]
+Nel09 bets 420
+Mr CaLLhAiR folds
+*** RIVER *** [Ad 5h 8c 3c][7h]
+*** SHOW DOWN ***
+sabre_laser shows [Jd 9s] (High card : Ace)
+Nel09 shows [Kc Tc] (High card : Ace)
+Nel09 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [Ad 5h 8c 3c 7h]
+Seat 1: sabre_laser (button) showed [Jd 9s] and lost with High card : Ace
+Seat 5: Nel09 (small blind) showed [Kc Tc] and won 1260 with High card : Ace
+
+

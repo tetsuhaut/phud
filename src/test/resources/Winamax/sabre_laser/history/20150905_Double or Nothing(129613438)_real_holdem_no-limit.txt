@@ -1,0 +1,267 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #556685477332123649-1-1441406040 - Holdem no limit (10/20) - 2015/09/04 22:34:00 UTC
+Table: 'Double or Nothing(129613438)#0' 10-max (real money) Seat #5 is the button
+Seat 1: lowenn88 (1500)
+Seat 2: veranu2b (1500)
+Seat 3: lauty (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: L4B3LVi3 (1500)
+Seat 6: meuledor83 (1500)
+Seat 7: hcrf250 (1500)
+Seat 8: Nicoosss (1500)
+Seat 9: soshin (1500)
+Seat 10: Connector (1500)
+*** ANTE/BLINDS ***
+meuledor83 posts small blind 10
+hcrf250 posts big blind 20
+Dealt to sabre_laser [4c 2h]
+*** PRE-FLOP *** 
+Nicoosss calls 20
+soshin folds
+Connector folds
+lowenn88 folds
+veranu2b calls 20
+lauty calls 20
+sabre_laser folds
+L4B3LVi3 folds
+meuledor83 folds
+hcrf250 checks
+*** FLOP *** [9h 9c 2c]
+hcrf250 checks
+Nicoosss checks
+veranu2b checks
+lauty bets 20
+hcrf250 calls 20
+Nicoosss calls 20
+veranu2b calls 20
+*** TURN *** [9h 9c 2c][9s]
+hcrf250 checks
+Nicoosss bets 20
+veranu2b calls 20
+lauty calls 20
+hcrf250 folds
+*** RIVER *** [9h 9c 2c 9s][2s]
+Nicoosss bets 1440 and is all-in
+veranu2b calls 1440 and is all-in
+lauty calls 1440 and is all-in
+*** SHOW DOWN ***
+veranu2b shows [Ac 4s] (Full of 9 and 2)
+lauty shows [Qs 4h] (Full of 9 and 2)
+Nicoosss shows [Tc 8h] (Full of 9 and 2)
+Nicoosss collected 1517 from pot
+lauty collected 1517 from pot
+veranu2b collected 1516 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [9h 9c 2c 9s 2s]
+Seat 2: veranu2b showed [Ac 4s] and won 1516 with Full of 9 and 2
+Seat 3: lauty showed [Qs 4h] and won 1517 with Full of 9 and 2
+Seat 8: Nicoosss showed [Tc 8h] and won 1517 with Full of 9 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #556685477332123649-2-1441406165 - Holdem no limit (10/20) - 2015/09/04 22:36:05 UTC
+Table: 'Double or Nothing(129613438)#0' 10-max (real money) Seat #6 is the button
+Seat 1: lowenn88 (1500)
+Seat 2: veranu2b (1516)
+Seat 3: lauty (1517)
+Seat 4: sabre_laser (1500)
+Seat 5: L4B3LVi3 (1500)
+Seat 6: meuledor83 (1490)
+Seat 7: hcrf250 (1460)
+Seat 8: Nicoosss (1517)
+Seat 9: soshin (1500)
+Seat 10: Connector (1500)
+*** ANTE/BLINDS ***
+hcrf250 posts small blind 10
+Nicoosss posts big blind 20
+Dealt to sabre_laser [8c 2s]
+*** PRE-FLOP *** 
+soshin folds
+Connector calls 20
+lowenn88 calls 20
+veranu2b calls 20
+lauty calls 20
+sabre_laser folds
+L4B3LVi3 folds
+meuledor83 folds
+hcrf250 folds
+Nicoosss checks
+*** FLOP *** [Js 7d 7s]
+Nicoosss checks
+Connector bets 20
+lowenn88 folds
+veranu2b folds
+lauty calls 20
+Nicoosss folds
+*** TURN *** [Js 7d 7s][Ac]
+Connector bets 20
+lauty calls 20
+*** RIVER *** [Js 7d 7s Ac][Qd]
+Connector bets 20
+lauty calls 20
+*** SHOW DOWN ***
+Connector shows [Jd 6d] (Two pairs : Jacks and 7)
+lauty shows [Qs 4s] (Two pairs : Queens and 7)
+lauty collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [Js 7d 7s Ac Qd]
+Seat 3: lauty showed [Qs 4s] and won 230 with Two pairs : Queens and 7
+Seat 10: Connector showed [Jd 6d] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556685477332123649-3-1441406240 - Holdem no limit (15/30) - 2015/09/04 22:37:20 UTC
+Table: 'Double or Nothing(129613438)#0' 10-max (real money) Seat #7 is the button
+Seat 1: lowenn88 (1480)
+Seat 2: veranu2b (1496)
+Seat 3: lauty (1667)
+Seat 4: sabre_laser (1500)
+Seat 5: L4B3LVi3 (1500)
+Seat 6: meuledor83 (1490)
+Seat 7: hcrf250 (1450)
+Seat 8: Nicoosss (1497)
+Seat 9: soshin (1500)
+Seat 10: Connector (1420)
+*** ANTE/BLINDS ***
+Nicoosss posts small blind 15
+soshin posts big blind 30
+Dealt to sabre_laser [Ac 4s]
+*** PRE-FLOP *** 
+Connector folds
+lowenn88 folds
+veranu2b folds
+lauty folds
+sabre_laser folds
+L4B3LVi3 folds
+meuledor83 folds
+hcrf250 raises 30 to 60
+Nicoosss folds
+soshin folds
+hcrf250 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 7: hcrf250 (button) won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556685477332123649-4-1441406276 - Holdem no limit (15/30) - 2015/09/04 22:37:56 UTC
+Table: 'Double or Nothing(129613438)#0' 10-max (real money) Seat #8 is the button
+Seat 1: lowenn88 (1480)
+Seat 2: veranu2b (1496)
+Seat 3: lauty (1667)
+Seat 4: sabre_laser (1500)
+Seat 5: L4B3LVi3 (1500)
+Seat 6: meuledor83 (1490)
+Seat 7: hcrf250 (1495)
+Seat 8: Nicoosss (1482)
+Seat 9: soshin (1470)
+Seat 10: Connector (1420)
+*** ANTE/BLINDS ***
+soshin posts small blind 15
+Connector posts big blind 30
+Dealt to sabre_laser [Th 5h]
+*** PRE-FLOP *** 
+lowenn88 folds
+veranu2b folds
+lauty calls 30
+sabre_laser folds
+L4B3LVi3 folds
+meuledor83 calls 30
+hcrf250 folds
+Nicoosss folds
+soshin folds
+Connector raises 1390 to 1420 and is all-in
+lauty folds
+meuledor83 folds
+Connector collected 1495 from pot
+*** SUMMARY ***
+Total pot 1495 | No rake
+Seat 10: Connector (big blind) won 1495
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556685477332123649-5-1441406332 - Holdem no limit (15/30) - 2015/09/04 22:38:52 UTC
+Table: 'Double or Nothing(129613438)#0' 10-max (real money) Seat #9 is the button
+Seat 1: lowenn88 (1480)
+Seat 2: veranu2b (1496)
+Seat 3: lauty (1637)
+Seat 4: sabre_laser (1500)
+Seat 5: L4B3LVi3 (1500)
+Seat 6: meuledor83 (1460)
+Seat 7: hcrf250 (1495)
+Seat 8: Nicoosss (1482)
+Seat 9: soshin (1455)
+Seat 10: Connector (1495)
+*** ANTE/BLINDS ***
+Connector posts small blind 15
+lowenn88 posts big blind 30
+Dealt to sabre_laser [6s 6c]
+*** PRE-FLOP *** 
+veranu2b folds
+lauty folds
+sabre_laser raises 30 to 60
+L4B3LVi3 folds
+meuledor83 raises 1400 to 1460 and is all-in
+hcrf250 folds
+Nicoosss folds
+soshin folds
+Connector calls 1445
+lowenn88 folds
+sabre_laser folds
+*** FLOP *** [7c Ad Qs]
+*** TURN *** [7c Ad Qs][4h]
+*** RIVER *** [7c Ad Qs 4h][8c]
+*** SHOW DOWN ***
+meuledor83 shows [Kd Kh] (One pair : Kings)
+Connector shows [Th As] (One pair : Aces)
+Connector collected 3010 from pot
+*** SUMMARY ***
+Total pot 3010 | No rake
+Board: [7c Ad Qs 4h 8c]
+Seat 6: meuledor83 showed [Kd Kh] and lost with One pair : Kings
+Seat 10: Connector (small blind) showed [Th As] and won 3010 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556685477332123649-6-1441406380 - Holdem no limit (15/30) - 2015/09/04 22:39:40 UTC
+Table: 'Double or Nothing(129613438)#0' 10-max (real money) Seat #10 is the button
+Seat 1: lowenn88 (1450)
+Seat 2: veranu2b (1496)
+Seat 3: lauty (1637)
+Seat 4: sabre_laser (1440)
+Seat 5: L4B3LVi3 (1500)
+Seat 7: hcrf250 (1495)
+Seat 8: Nicoosss (1482)
+Seat 9: soshin (1455)
+Seat 10: Connector (3045)
+*** ANTE/BLINDS ***
+lowenn88 posts small blind 15
+veranu2b posts big blind 30
+Dealt to sabre_laser [Kc Ac]
+*** PRE-FLOP *** 
+lauty folds
+sabre_laser raises 60 to 90
+L4B3LVi3 folds
+hcrf250 folds
+Nicoosss folds
+soshin raises 225 to 315
+Connector calls 315
+lowenn88 folds
+veranu2b folds
+sabre_laser raises 1125 to 1440 and is all-in
+soshin calls 1125
+Connector calls 1125
+*** FLOP *** [3d Jc Qd]
+soshin bets 15 and is all-in
+Connector calls 15
+*** TURN *** [3d Jc Qd][4h]
+*** RIVER *** [3d Jc Qd 4h][8h]
+*** SHOW DOWN ***
+sabre_laser shows [Kc Ac] (High card : Ace)
+Connector shows [2h Jh] (One pair : Jacks)
+soshin shows [Ah As] (One pair : Aces)
+soshin collected 4395 from pot
+*** SUMMARY ***
+Total pot 4395 | No rake
+Board: [3d Jc Qd 4h 8h]
+Seat 4: sabre_laser showed [Kc Ac] and lost with High card : Ace
+Seat 9: soshin showed [Ah As] and won 4395 with One pair : Aces
+Seat 10: Connector (button) showed [2h Jh] and lost with One pair : Jacks
+
+

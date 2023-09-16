@@ -1,0 +1,430 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559254640869244929-1-1441831387 - Holdem no limit (10/20) - 2015/09/09 20:43:07 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #4 is the button
+Seat 1: BZHlich (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: gillestekill (1500)
+Seat 4: berbere14000 (1500)
+Seat 5: Addict17000 (1500)
+Seat 6: COURSEMAN (1500)
+Seat 7: AMSTAFF38 (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: K nnay (1500)
+Seat 10: karolina08 (1500)
+*** ANTE/BLINDS ***
+Addict17000 posts small blind 10
+COURSEMAN posts big blind 20
+Dealt to sabre_laser [9d 7h]
+*** PRE-FLOP *** 
+AMSTAFF38 folds
+.Roxon. folds
+K nnay folds
+karolina08 calls 20
+BZHlich folds
+sabre_laser folds
+gillestekill folds
+berbere14000 calls 20
+Addict17000 calls 10
+COURSEMAN checks
+*** FLOP *** [4d 3h 3s]
+Addict17000 bets 20
+COURSEMAN folds
+karolina08 calls 20
+berbere14000 calls 20
+*** TURN *** [4d 3h 3s][9h]
+Addict17000 bets 20
+karolina08 calls 20
+berbere14000 raises 200 to 220
+Addict17000 folds
+karolina08 calls 200
+*** RIVER *** [4d 3h 3s 9h][3d]
+karolina08 checks
+berbere14000 bets 600
+karolina08 calls 600
+*** SHOW DOWN ***
+berbere14000 shows [9s 7s] (Full of 3 and 9)
+karolina08 shows [4h 9c] (Full of 3 and 9)
+karolina08 collected 900 from pot
+berbere14000 collected 900 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [4d 3h 3s 9h 3d]
+Seat 4: berbere14000 (button) showed [9s 7s] and won 900 with Full of 3 and 9
+Seat 10: karolina08 showed [4h 9c] and won 900 with Full of 3 and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559254640869244929-2-1441831512 - Holdem no limit (10/20) - 2015/09/09 20:45:12 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #5 is the button
+Seat 1: BZHlich (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: gillestekill (1500)
+Seat 4: berbere14000 (1540)
+Seat 5: Addict17000 (1440)
+Seat 6: COURSEMAN (1480)
+Seat 7: AMSTAFF38 (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: K nnay (1500)
+Seat 10: karolina08 (1540)
+*** ANTE/BLINDS ***
+COURSEMAN posts small blind 10
+AMSTAFF38 posts big blind 20
+Dealt to sabre_laser [Ac Qc]
+*** PRE-FLOP *** 
+.Roxon. folds
+K nnay folds
+karolina08 calls 20
+BZHlich folds
+sabre_laser raises 80 to 100
+gillestekill folds
+berbere14000 folds
+Addict17000 folds
+COURSEMAN folds
+AMSTAFF38 folds
+karolina08 calls 80
+*** FLOP *** [Kc 8c 7d]
+karolina08 checks
+sabre_laser checks
+*** TURN *** [Kc 8c 7d][7s]
+karolina08 checks
+sabre_laser bets 80
+karolina08 folds
+sabre_laser collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [Kc 8c 7d 7s]
+Seat 2: sabre_laser won 310
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559254640869244929-3-1441831562 - Holdem no limit (15/30) - 2015/09/09 20:46:02 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #6 is the button
+Seat 1: BZHlich (1500)
+Seat 2: sabre_laser (1630)
+Seat 3: gillestekill (1500)
+Seat 4: berbere14000 (1540)
+Seat 5: Addict17000 (1440)
+Seat 6: COURSEMAN (1470)
+Seat 7: AMSTAFF38 (1480)
+Seat 8: .Roxon. (1500)
+Seat 9: K nnay (1500)
+Seat 10: karolina08 (1440)
+*** ANTE/BLINDS ***
+AMSTAFF38 posts small blind 15
+.Roxon. posts big blind 30
+Dealt to sabre_laser [Ac Ks]
+*** PRE-FLOP *** 
+K nnay folds
+karolina08 calls 30
+BZHlich folds
+sabre_laser raises 45 to 75
+gillestekill calls 75
+berbere14000 folds
+Addict17000 folds
+COURSEMAN folds
+AMSTAFF38 calls 60
+.Roxon. folds
+karolina08 calls 45
+*** FLOP *** [3c Kh 5h]
+AMSTAFF38 bets 30
+karolina08 calls 30
+sabre_laser calls 30
+gillestekill calls 30
+*** TURN *** [3c Kh 5h][Kc]
+AMSTAFF38 bets 30
+karolina08 folds
+sabre_laser calls 30
+gillestekill calls 30
+*** RIVER *** [3c Kh 5h Kc][4c]
+AMSTAFF38 checks
+sabre_laser bets 75
+gillestekill calls 75
+AMSTAFF38 folds
+*** SHOW DOWN ***
+gillestekill shows [7d 7s] (Two pairs : Kings and 7)
+sabre_laser shows [Ac Ks] (Trips of Kings)
+sabre_laser collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [3c Kh 5h Kc 4c]
+Seat 2: sabre_laser showed [Ac Ks] and won 690 with Trips of Kings
+Seat 3: gillestekill showed [7d 7s] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559254640869244929-4-1441831669 - Holdem no limit (15/30) - 2015/09/09 20:47:49 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #7 is the button
+Seat 1: BZHlich (1500)
+Seat 2: sabre_laser (2110)
+Seat 3: gillestekill (1290)
+Seat 4: berbere14000 (1540)
+Seat 5: Addict17000 (1440)
+Seat 6: COURSEMAN (1470)
+Seat 7: AMSTAFF38 (1345)
+Seat 8: .Roxon. (1470)
+Seat 9: K nnay (1500)
+Seat 10: karolina08 (1335)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 15
+K nnay posts big blind 30
+Dealt to sabre_laser [Kd Qc]
+*** PRE-FLOP *** 
+karolina08 calls 30
+BZHlich folds
+sabre_laser folds
+gillestekill folds
+berbere14000 folds
+Addict17000 raises 30 to 60
+COURSEMAN folds
+AMSTAFF38 calls 60
+.Roxon. folds
+K nnay folds
+karolina08 calls 30
+*** FLOP *** [4s 2h Qs]
+karolina08 checks
+Addict17000 bets 90
+AMSTAFF38 folds
+karolina08 calls 90
+*** TURN *** [4s 2h Qs][5c]
+karolina08 checks
+Addict17000 bets 180
+karolina08 calls 180
+*** RIVER *** [4s 2h Qs 5c][Kc]
+karolina08 checks
+Addict17000 bets 105
+karolina08 calls 105
+*** SHOW DOWN ***
+karolina08 shows [Td Tc] (One pair : Tens)
+Addict17000 shows [Qd 8d] (One pair : Queens)
+Addict17000 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [4s 2h Qs 5c Kc]
+Seat 5: Addict17000 showed [Qd 8d] and won 975 with One pair : Queens
+Seat 10: karolina08 showed [Td Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559254640869244929-5-1441831790 - Holdem no limit (20/40) - 2015/09/09 20:49:50 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #8 is the button
+Seat 1: BZHlich (1500)
+Seat 2: sabre_laser (2110)
+Seat 3: gillestekill (1290)
+Seat 4: berbere14000 (1540)
+Seat 5: Addict17000 (1980)
+Seat 6: COURSEMAN (1470)
+Seat 7: AMSTAFF38 (1285)
+Seat 8: .Roxon. (1455)
+Seat 9: K nnay (1470)
+Seat 10: karolina08 (900)
+*** ANTE/BLINDS ***
+K nnay posts small blind 20
+karolina08 posts big blind 40
+Dealt to sabre_laser [8s 6s]
+*** PRE-FLOP *** 
+BZHlich folds
+sabre_laser folds
+gillestekill folds
+berbere14000 raises 100 to 140
+Addict17000 folds
+COURSEMAN folds
+AMSTAFF38 folds
+.Roxon. folds
+K nnay calls 120
+karolina08 calls 100
+*** FLOP *** [8h 4c 6h]
+K nnay checks
+karolina08 checks
+berbere14000 bets 40
+K nnay calls 40
+karolina08 calls 40
+*** TURN *** [8h 4c 6h][2h]
+K nnay checks
+karolina08 checks
+berbere14000 bets 405
+K nnay folds
+karolina08 calls 405
+*** RIVER *** [8h 4c 6h 2h][Ac]
+karolina08 checks
+berbere14000 bets 300
+karolina08 folds
+berbere14000 shows [4d 4s] (Trips of 4)
+berbere14000 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [8h 4c 6h 2h Ac]
+Seat 4: berbere14000 showed [4d 4s] and won 1650 with Trips of 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559254640869244929-6-1441831901 - Holdem no limit (20/40) - 2015/09/09 20:51:41 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #9 is the button
+Seat 1: BZHlich (1500)
+Seat 2: sabre_laser (2110)
+Seat 3: gillestekill (1290)
+Seat 4: berbere14000 (2305)
+Seat 5: Addict17000 (1980)
+Seat 6: COURSEMAN (1470)
+Seat 7: AMSTAFF38 (1285)
+Seat 8: .Roxon. (1455)
+Seat 9: K nnay (1290)
+Seat 10: karolina08 (315)
+*** ANTE/BLINDS ***
+karolina08 posts small blind 20
+BZHlich posts big blind 40
+Dealt to sabre_laser [Jd Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+gillestekill folds
+berbere14000 folds
+Addict17000 folds
+COURSEMAN folds
+AMSTAFF38 calls 40
+.Roxon. folds
+K nnay calls 40
+karolina08 calls 20
+BZHlich checks
+*** FLOP *** [8s 7s 9s]
+karolina08 checks
+BZHlich checks
+AMSTAFF38 checks
+K nnay checks
+*** TURN *** [8s 7s 9s][Ks]
+karolina08 checks
+BZHlich checks
+AMSTAFF38 bets 40
+K nnay folds
+karolina08 raises 40 to 80
+BZHlich folds
+AMSTAFF38 calls 40
+*** RIVER *** [8s 7s 9s Ks][9h]
+karolina08 bets 195 and is all-in
+AMSTAFF38 calls 195
+*** SHOW DOWN ***
+karolina08 shows [3s 4c] (Flush King high)
+AMSTAFF38 shows [Ts Ad] (Flush King high)
+AMSTAFF38 collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [8s 7s 9s Ks 9h]
+Seat 7: AMSTAFF38 showed [Ts Ad] and won 710 with Flush King high
+Seat 10: karolina08 (small blind) showed [3s 4c] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559254640869244929-7-1441831977 - Holdem no limit (30/60) - 2015/09/09 20:52:57 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #10 is the button
+Seat 1: BZHlich (1460)
+Seat 2: sabre_laser (2110)
+Seat 3: gillestekill (1290)
+Seat 4: berbere14000 (2305)
+Seat 5: Addict17000 (1980)
+Seat 6: COURSEMAN (1470)
+Seat 7: AMSTAFF38 (1680)
+Seat 8: .Roxon. (1455)
+Seat 9: K nnay (1250)
+*** ANTE/BLINDS ***
+BZHlich posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Jd Qh]
+*** PRE-FLOP *** 
+gillestekill folds
+berbere14000 raises 150 to 210
+Addict17000 folds
+COURSEMAN folds
+AMSTAFF38 folds
+.Roxon. folds
+K nnay raises 420 to 630
+BZHlich folds
+sabre_laser folds
+berbere14000 raises 1350 to 1980
+K nnay calls 620 and is all-in
+*** FLOP *** [8c 7h 2d]
+*** TURN *** [8c 7h 2d][8d]
+*** RIVER *** [8c 7h 2d 8d][2s]
+*** SHOW DOWN ***
+K nnay shows [Kd Ac] (Two pairs : 8 and 2)
+berbere14000 shows [Qd Ks] (Two pairs : 8 and 2)
+berbere14000 collected 730 from side pot 1
+K nnay collected 2590 from main pot
+*** SUMMARY ***
+Total pot 3320 | No rake
+Board: [8c 7h 2d 8d 2s]
+Seat 4: berbere14000 showed [Qd Ks] and won 730 with Two pairs : 8 and 2
+Seat 9: K nnay showed [Kd Ac] and won 2590 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559254640869244929-8-1441832033 - Holdem no limit (30/60) - 2015/09/09 20:53:53 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #1 is the button
+Seat 1: BZHlich (1430)
+Seat 2: sabre_laser (2050)
+Seat 3: gillestekill (1290)
+Seat 4: berbere14000 (1055)
+Seat 5: Addict17000 (1980)
+Seat 6: COURSEMAN (1470)
+Seat 7: AMSTAFF38 (1680)
+Seat 8: .Roxon. (1455)
+Seat 9: K nnay (2590)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+gillestekill posts big blind 60
+Dealt to sabre_laser [Qs As]
+*** PRE-FLOP *** 
+berbere14000 calls 60
+Addict17000 raises 60 to 120
+COURSEMAN folds
+AMSTAFF38 folds
+.Roxon. folds
+K nnay folds
+BZHlich folds
+sabre_laser calls 90
+gillestekill folds
+berbere14000 raises 935 to 1055 and is all-in
+Addict17000 folds
+sabre_laser calls 935
+*** FLOP *** [7s 7c 6c]
+*** TURN *** [7s 7c 6c][2h]
+*** RIVER *** [7s 7c 6c 2h][Jc]
+*** SHOW DOWN ***
+sabre_laser shows [Qs As] (One pair : 7)
+berbere14000 shows [Js Kd] (Two pairs : Jacks and 7)
+berbere14000 collected 2290 from pot
+*** SUMMARY ***
+Total pot 2290 | No rake
+Board: [7s 7c 6c 2h Jc]
+Seat 2: sabre_laser (small blind) showed [Qs As] and lost with One pair : 7
+Seat 4: berbere14000 showed [Js Kd] and won 2290 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559254640869244929-9-1441832113 - Holdem no limit (40/80) - 2015/09/09 20:55:13 UTC
+Table: 'Double or Nothing(130211618)#0' 10-max (real money) Seat #2 is the button
+Seat 1: BZHlich (1430)
+Seat 2: sabre_laser (995)
+Seat 3: gillestekill (1230)
+Seat 4: berbere14000 (2290)
+Seat 5: Addict17000 (1860)
+Seat 6: COURSEMAN (1470)
+Seat 7: AMSTAFF38 (1680)
+Seat 8: .Roxon. (1455)
+Seat 9: K nnay (2590)
+*** ANTE/BLINDS ***
+gillestekill posts small blind 40
+berbere14000 posts big blind 80
+Dealt to sabre_laser [Kc Ah]
+*** PRE-FLOP *** 
+Addict17000 folds
+COURSEMAN folds
+AMSTAFF38 folds
+.Roxon. folds
+K nnay folds
+BZHlich folds
+sabre_laser raises 915 to 995 and is all-in
+gillestekill folds
+berbere14000 calls 915
+*** FLOP *** [9c 8c Qd]
+*** TURN *** [9c 8c Qd][Jh]
+*** RIVER *** [9c 8c Qd Jh][5h]
+*** SHOW DOWN ***
+sabre_laser shows [Kc Ah] (High card : Ace)
+berbere14000 shows [6h 7d] (Straight 9 high)
+berbere14000 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Board: [9c 8c Qd Jh 5h]
+Seat 2: sabre_laser (button) showed [Kc Ah] and lost with High card : Ace
+Seat 4: berbere14000 (big blind) showed [6h 7d] and won 2030 with Straight 9 high
+
+

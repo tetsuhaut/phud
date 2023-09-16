@@ -1,0 +1,915 @@
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 4 - HandId: #472320156291301390-4-1425245308 - Holdem no limit (150/300) - 2015/03/01 21:28:28 UTC
+Table: 'Hold'em [180 Max](109970606)#13' 9-max (real money) Seat #9 is the button
+Seat 1: Sanglier47 (20064)
+Seat 4: Fontelas09 (10000)
+Seat 5: Manu8321 (10000)
+Seat 7: lalilou1987 (10000)
+Seat 8: sabre_laser (10000)
+Seat 9: g.h.d.n.p.i (9550)
+*** ANTE/BLINDS ***
+Sanglier47 posts small blind 150
+Fontelas09 posts big blind 300
+Dealt to sabre_laser [8d Qs]
+*** PRE-FLOP *** 
+Manu8321 calls 300
+lalilou1987 folds
+sabre_laser folds
+g.h.d.n.p.i folds
+Sanglier47 raises 600 to 900
+Fontelas09 calls 600
+Manu8321 calls 600
+*** FLOP *** [Js Kd Jh]
+Sanglier47 checks
+Fontelas09 checks
+Manu8321 checks
+*** TURN *** [Js Kd Jh][7h]
+Sanglier47 checks
+Fontelas09 checks
+Manu8321 checks
+*** RIVER *** [Js Kd Jh 7h][Ah]
+Sanglier47 bets 2700
+Fontelas09 folds
+Manu8321 calls 2700
+*** SHOW DOWN ***
+Sanglier47 shows [5s Ac] (Two pairs : Aces and Jacks)
+Manu8321 shows [Ad 4h] (Two pairs : Aces and Jacks)
+Manu8321 collected 4050 from pot
+Sanglier47 collected 4050 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [Js Kd Jh 7h Ah]
+Seat 1: Sanglier47 (small blind) showed [5s Ac] and won 4050 with Two pairs : Aces and Jacks
+Seat 5: Manu8321 showed [Ad 4h] and won 4050 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 4 - HandId: #472320156291301390-5-1425245387 - Holdem no limit (150/300) - 2015/03/01 21:29:47 UTC
+Table: 'Hold'em [180 Max](109970606)#13' 9-max (real money) Seat #1 is the button
+Seat 1: Sanglier47 (20514)
+Seat 3: Maxtom_2 (10000)
+Seat 4: Fontelas09 (9100)
+Seat 5: Manu8321 (10450)
+Seat 6: john wayne14 (10000)
+Seat 7: lalilou1987 (10000)
+Seat 8: sabre_laser (10000)
+Seat 9: g.h.d.n.p.i (9550)
+*** ANTE/BLINDS ***
+Fontelas09 posts small blind 150
+Manu8321 posts big blind 300
+Dealt to sabre_laser [2s 7d]
+*** PRE-FLOP *** 
+john wayne14 raises 300 to 600
+lalilou1987 raises 1200 to 1800
+sabre_laser folds
+g.h.d.n.p.i folds
+Sanglier47 calls 1800
+Fontelas09 folds
+Manu8321 calls 1500
+john wayne14 folds
+*** FLOP *** [6h 6s Ad]
+Manu8321 checks
+lalilou1987 checks
+Sanglier47 bets 18714 and is all-in
+Manu8321 folds
+lalilou1987 folds
+Sanglier47 collected 24864 from pot
+*** SUMMARY ***
+Total pot 24864 | No rake
+Board: [6h 6s Ad]
+Seat 1: Sanglier47 (button) won 24864
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 5 - HandId: #472320156291301390-6-1425245452 - Holdem no limit (25/150/300) - 2015/03/01 21:30:52 UTC
+Table: 'Hold'em [180 Max](109970606)#13' 9-max (real money) Seat #4 is the button
+Seat 1: Sanglier47 (24864)
+Seat 3: Maxtom_2 (10000)
+Seat 4: Fontelas09 (8950)
+Seat 5: Manu8321 (8650)
+Seat 6: john wayne14 (9400)
+Seat 7: lalilou1987 (8200)
+Seat 8: sabre_laser (10000)
+Seat 9: g.h.d.n.p.i (9550)
+*** ANTE/BLINDS ***
+Manu8321 posts ante 25
+john wayne14 posts ante 25
+Sanglier47 posts ante 25
+Maxtom_2 posts ante 25
+Fontelas09 posts ante 25
+lalilou1987 posts ante 25
+sabre_laser posts ante 25
+g.h.d.n.p.i posts ante 25
+Manu8321 posts small blind 150
+john wayne14 posts big blind 300
+Dealt to sabre_laser [9s Qh]
+*** PRE-FLOP *** 
+lalilou1987 raises 950 to 1250
+sabre_laser folds
+g.h.d.n.p.i folds
+Sanglier47 calls 1250
+Maxtom_2 folds
+Fontelas09 calls 1250
+Manu8321 calls 1100
+john wayne14 calls 950
+*** FLOP *** [8h 9d Kh]
+Manu8321 checks
+john wayne14 bets 600
+lalilou1987 calls 600
+Sanglier47 calls 600
+Fontelas09 calls 600
+Manu8321 calls 600
+*** TURN *** [8h 9d Kh][Ks]
+Manu8321 checks
+john wayne14 bets 600
+lalilou1987 calls 600
+Sanglier47 calls 600
+Fontelas09 folds
+Manu8321 calls 600
+*** RIVER *** [8h 9d Kh Ks][5h]
+Manu8321 checks
+john wayne14 checks
+lalilou1987 checks
+Sanglier47 bets 11850
+Manu8321 calls 6175 and is all-in
+john wayne14 folds
+lalilou1987 folds
+*** SHOW DOWN ***
+Manu8321 shows [Ad 5d] (Two pairs : Kings and 5)
+Sanglier47 shows [7d 6s] (Straight 9 high)
+Sanglier47 collected 29875 from pot
+*** SUMMARY ***
+Total pot 29875 | No rake
+Board: [8h 9d Kh Ks 5h]
+Seat 1: Sanglier47 showed [7d 6s] and won 29875 with Straight 9 high
+Seat 5: Manu8321 (small blind) showed [Ad 5d] and lost with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 5 - HandId: #472320156291301390-7-1425245551 - Holdem no limit (25/150/300) - 2015/03/01 21:32:31 UTC
+Table: 'Hold'em [180 Max](109970606)#13' 9-max (real money) Seat #5 is the button
+Seat 1: Sanglier47 (40414)
+Seat 2: W A N T E D (10000)
+Seat 3: Maxtom_2 (9975)
+Seat 4: Fontelas09 (7075)
+Seat 6: john wayne14 (6925)
+Seat 7: lalilou1987 (5725)
+Seat 8: sabre_laser (9975)
+Seat 9: g.h.d.n.p.i (9525)
+*** ANTE/BLINDS ***
+john wayne14 posts ante 25
+lalilou1987 posts ante 25
+Sanglier47 posts ante 25
+W A N T E D posts ante 25
+Maxtom_2 posts ante 25
+Fontelas09 posts ante 25
+sabre_laser posts ante 25
+g.h.d.n.p.i posts ante 25
+john wayne14 posts small blind 150
+lalilou1987 posts big blind 300
+Dealt to sabre_laser [Td 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+g.h.d.n.p.i folds
+Sanglier47 calls 300
+W A N T E D folds
+Maxtom_2 folds
+Fontelas09 calls 300
+john wayne14 calls 150
+lalilou1987 checks
+*** FLOP *** [9c Ks Kd]
+john wayne14 checks
+lalilou1987 bets 1400
+Sanglier47 folds
+Fontelas09 calls 1400
+john wayne14 folds
+*** TURN *** [9c Ks Kd][4c]
+lalilou1987 bets 4000 and is all-in
+Fontelas09 calls 4000
+*** RIVER *** [9c Ks Kd 4c][Qs]
+*** SHOW DOWN ***
+Fontelas09 shows [Js 9d] (Two pairs : Kings and 9)
+lalilou1987 shows [Ts Qd] (Two pairs : Kings and Queens)
+lalilou1987 collected 12200 from pot
+*** SUMMARY ***
+Total pot 12200 | No rake
+Board: [9c Ks Kd 4c Qs]
+Seat 4: Fontelas09 showed [Js 9d] and lost with Two pairs : Kings and 9
+Seat 7: lalilou1987 (big blind) showed [Ts Qd] and won 12200 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 5 - HandId: #472320156291301390-8-1425245628 - Holdem no limit (25/150/300) - 2015/03/01 21:33:48 UTC
+Table: 'Hold'em [180 Max](109970606)#13' 9-max (real money) Seat #6 is the button
+Seat 1: Sanglier47 (40089)
+Seat 2: W A N T E D (9975)
+Seat 3: Maxtom_2 (9950)
+Seat 4: Fontelas09 (1350)
+Seat 6: john wayne14 (6600)
+Seat 7: lalilou1987 (12200)
+Seat 8: sabre_laser (9950)
+Seat 9: g.h.d.n.p.i (9500)
+*** ANTE/BLINDS ***
+lalilou1987 posts ante 25
+sabre_laser posts ante 25
+Sanglier47 posts ante 25
+W A N T E D posts ante 25
+Maxtom_2 posts ante 25
+Fontelas09 posts ante 25
+john wayne14 posts ante 25
+g.h.d.n.p.i posts ante 25
+lalilou1987 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [5h 9h]
+*** PRE-FLOP *** 
+g.h.d.n.p.i folds
+Sanglier47 raises 300 to 600
+W A N T E D folds
+Maxtom_2 folds
+Fontelas09 raises 725 to 1325 and is all-in
+john wayne14 folds
+lalilou1987 calls 1175
+sabre_laser folds
+Sanglier47 calls 725
+*** FLOP *** [Qc 8h 2s]
+lalilou1987 checks
+Sanglier47 bets 4475
+lalilou1987 folds
+*** TURN *** [Qc 8h 2s][3s]
+*** RIVER *** [Qc 8h 2s 3s][9s]
+*** SHOW DOWN ***
+Fontelas09 shows [As 6d] (High card : Ace)
+Sanglier47 shows [7h 6h] (High card : Queen)
+Sanglier47 collected 4475 from side pot 1
+Fontelas09 collected 4475 from main pot
+*** SUMMARY ***
+Total pot 8950 | No rake
+Board: [Qc 8h 2s 3s 9s]
+Seat 1: Sanglier47 showed [7h 6h] and won 4475 with High card : Queen
+Seat 4: Fontelas09 showed [As 6d] and won 4475 with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 5 - HandId: #472320156291301390-9-1425245673 - Holdem no limit (25/150/300) - 2015/03/01 21:34:33 UTC
+Table: 'Hold'em [180 Max](109970606)#13' 9-max (real money) Seat #7 is the button
+Seat 1: Sanglier47 (38739)
+Seat 2: W A N T E D (9950)
+Seat 3: Maxtom_2 (9925)
+Seat 4: Fontelas09 (4475)
+Seat 6: john wayne14 (6575)
+Seat 7: lalilou1987 (10850)
+Seat 8: sabre_laser (9625)
+Seat 9: g.h.d.n.p.i (9475)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+g.h.d.n.p.i posts ante 25
+Sanglier47 posts ante 25
+W A N T E D posts ante 25
+Maxtom_2 posts ante 25
+Fontelas09 posts ante 25
+john wayne14 posts ante 25
+lalilou1987 posts ante 25
+sabre_laser posts small blind 150
+g.h.d.n.p.i posts big blind 300
+Dealt to sabre_laser [Jd Js]
+*** PRE-FLOP *** 
+Sanglier47 folds
+W A N T E D folds
+Maxtom_2 folds
+Fontelas09 folds
+john wayne14 raises 6250 to 6550 and is all-in
+lalilou1987 folds
+sabre_laser raises 3050 to 9600 and is all-in
+g.h.d.n.p.i folds
+*** FLOP *** [4s 5d 9d]
+*** TURN *** [4s 5d 9d][5c]
+*** RIVER *** [4s 5d 9d 5c][3c]
+*** SHOW DOWN ***
+john wayne14 shows [Ad 6c] (One pair : 5)
+sabre_laser shows [Jd Js] (Two pairs : Jacks and 5)
+sabre_laser collected 16650 from pot
+*** SUMMARY ***
+Total pot 16650 | No rake
+Board: [4s 5d 9d 5c 3c]
+Seat 6: john wayne14 showed [Ad 6c] and lost with One pair : 5
+Seat 8: sabre_laser (small blind) showed [Jd Js] and won 16650 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 5 - HandId: #472320156291301383-34-1425245789 - Holdem no limit (25/150/300) - 2015/03/01 21:36:29 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #7 is the button
+Seat 1: djidale06 (16025)
+Seat 2: mogwaifou (13150)
+Seat 3: ganjaspliff (9933)
+Seat 4: eenerriol (20042)
+Seat 5: adaumieres (9650)
+Seat 7: CKOICEBOARDL (12375)
+Seat 8: imacat (10075)
+Seat 9: sabre_laser (16650)
+*** ANTE/BLINDS ***
+imacat posts ante 25
+sabre_laser posts ante 25
+djidale06 posts ante 25
+mogwaifou posts ante 25
+ganjaspliff posts ante 25
+eenerriol posts ante 25
+adaumieres posts ante 25
+CKOICEBOARDL posts ante 25
+imacat posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [2h 6d]
+*** PRE-FLOP *** 
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+eenerriol folds
+adaumieres folds
+CKOICEBOARDL raises 300 to 600
+imacat raises 1200 to 1800
+sabre_laser folds
+CKOICEBOARDL folds
+imacat collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Seat 8: imacat (small blind) won 2900
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 5 - HandId: #472320156291301383-35-1425245824 - Holdem no limit (25/150/300) - 2015/03/01 21:37:04 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #8 is the button
+Seat 1: djidale06 (16000)
+Seat 2: mogwaifou (13125)
+Seat 3: ganjaspliff (9908)
+Seat 4: eenerriol (20017)
+Seat 5: adaumieres (9625)
+Seat 7: CKOICEBOARDL (11750)
+Seat 8: imacat (11150)
+Seat 9: sabre_laser (16325)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+djidale06 posts ante 25
+mogwaifou posts ante 25
+ganjaspliff posts ante 25
+eenerriol posts ante 25
+adaumieres posts ante 25
+CKOICEBOARDL posts ante 25
+imacat posts ante 25
+sabre_laser posts small blind 150
+djidale06 posts big blind 300
+Dealt to sabre_laser [Ad Tc]
+*** PRE-FLOP *** 
+mogwaifou folds
+ganjaspliff folds
+eenerriol folds
+adaumieres raises 9300 to 9600 and is all-in
+CKOICEBOARDL folds
+imacat folds
+sabre_laser folds
+djidale06 folds
+adaumieres collected 10250 from pot
+*** SUMMARY ***
+Total pot 10250 | No rake
+Seat 5: adaumieres won 10250
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 5 - HandId: #472320156291301383-36-1425245866 - Holdem no limit (25/150/300) - 2015/03/01 21:37:46 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #9 is the button
+Seat 1: djidale06 (15675)
+Seat 2: mogwaifou (13100)
+Seat 3: ganjaspliff (9883)
+Seat 4: eenerriol (19992)
+Seat 5: adaumieres (10250)
+Seat 6: Antoiine6241 (13550)
+Seat 7: CKOICEBOARDL (11725)
+Seat 8: imacat (11125)
+Seat 9: sabre_laser (16150)
+*** ANTE/BLINDS ***
+djidale06 posts ante 25
+mogwaifou posts ante 25
+ganjaspliff posts ante 25
+eenerriol posts ante 25
+adaumieres posts ante 25
+Antoiine6241 posts ante 25
+CKOICEBOARDL posts ante 25
+imacat posts ante 25
+sabre_laser posts ante 25
+djidale06 posts small blind 150
+mogwaifou posts big blind 300
+Dealt to sabre_laser [5c 4c]
+*** PRE-FLOP *** 
+ganjaspliff folds
+eenerriol calls 300
+adaumieres calls 300
+Antoiine6241 folds
+CKOICEBOARDL folds
+imacat folds
+sabre_laser calls 300
+djidale06 folds
+mogwaifou checks
+*** FLOP *** [Kd 5s 8d]
+mogwaifou checks
+eenerriol checks
+adaumieres checks
+sabre_laser checks
+*** TURN *** [Kd 5s 8d][6d]
+mogwaifou checks
+eenerriol checks
+adaumieres bets 300
+sabre_laser calls 300
+mogwaifou folds
+eenerriol calls 300
+*** RIVER *** [Kd 5s 8d 6d][Jh]
+eenerriol checks
+adaumieres checks
+sabre_laser bets 1050
+eenerriol folds
+adaumieres folds
+sabre_laser collected 3525 from pot
+*** SUMMARY ***
+Total pot 3525 | No rake
+Board: [Kd 5s 8d 6d Jh]
+Seat 9: sabre_laser (button) won 3525
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 6 - HandId: #472320156291301383-37-1425246012 - Holdem no limit (30/200/400) - 2015/03/01 21:40:12 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #1 is the button
+Seat 1: djidale06 (15500)
+Seat 2: mogwaifou (12775)
+Seat 3: ganjaspliff (9858)
+Seat 4: eenerriol (19367)
+Seat 5: adaumieres (9625)
+Seat 6: Antoiine6241 (13525)
+Seat 7: CKOICEBOARDL (11700)
+Seat 8: imacat (11100)
+Seat 9: sabre_laser (18000)
+*** ANTE/BLINDS ***
+mogwaifou posts ante 30
+ganjaspliff posts ante 30
+djidale06 posts ante 30
+eenerriol posts ante 30
+adaumieres posts ante 30
+Antoiine6241 posts ante 30
+CKOICEBOARDL posts ante 30
+imacat posts ante 30
+sabre_laser posts ante 30
+mogwaifou posts small blind 200
+ganjaspliff posts big blind 400
+Dealt to sabre_laser [3c Kc]
+*** PRE-FLOP *** 
+eenerriol raises 18937 to 19337 and is all-in
+adaumieres calls 9595 and is all-in
+Antoiine6241 folds
+CKOICEBOARDL folds
+imacat folds
+sabre_laser folds
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+*** FLOP *** [Qs 8s 2s]
+*** TURN *** [Qs 8s 2s][2c]
+*** RIVER *** [Qs 8s 2s 2c][4d]
+*** SHOW DOWN ***
+adaumieres shows [Ac 6c] (One pair : 2)
+eenerriol shows [Jd As] (One pair : 2)
+eenerriol collected 29802 from pot
+*** SUMMARY ***
+Total pot 29802 | No rake
+Board: [Qs 8s 2s 2c 4d]
+Seat 4: eenerriol showed [Jd As] and won 29802 with One pair : 2
+Seat 5: adaumieres showed [Ac 6c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 6 - HandId: #472320156291301383-38-1425246059 - Holdem no limit (30/200/400) - 2015/03/01 21:40:59 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #2 is the button
+Seat 1: djidale06 (15470)
+Seat 2: mogwaifou (12545)
+Seat 3: ganjaspliff (9428)
+Seat 4: eenerriol (29802)
+Seat 6: Antoiine6241 (13495)
+Seat 7: CKOICEBOARDL (11670)
+Seat 8: imacat (11070)
+Seat 9: sabre_laser (17970)
+*** ANTE/BLINDS ***
+ganjaspliff posts ante 30
+eenerriol posts ante 30
+djidale06 posts ante 30
+mogwaifou posts ante 30
+Antoiine6241 posts ante 30
+CKOICEBOARDL posts ante 30
+imacat posts ante 30
+sabre_laser posts ante 30
+ganjaspliff posts small blind 200
+eenerriol posts big blind 400
+Dealt to sabre_laser [7s 3c]
+*** PRE-FLOP *** 
+Antoiine6241 folds
+CKOICEBOARDL folds
+imacat folds
+sabre_laser folds
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+eenerriol collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 4: eenerriol (big blind) won 840
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 6 - HandId: #472320156291301383-39-1425246099 - Holdem no limit (30/200/400) - 2015/03/01 21:41:39 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #3 is the button
+Seat 1: djidale06 (15440)
+Seat 2: mogwaifou (12515)
+Seat 3: ganjaspliff (9198)
+Seat 4: eenerriol (30212)
+Seat 5: EDOUAR25 (11390)
+Seat 6: Antoiine6241 (13465)
+Seat 7: CKOICEBOARDL (11640)
+Seat 8: imacat (11040)
+Seat 9: sabre_laser (17940)
+*** ANTE/BLINDS ***
+eenerriol posts ante 30
+EDOUAR25 posts ante 30
+djidale06 posts ante 30
+mogwaifou posts ante 30
+ganjaspliff posts ante 30
+Antoiine6241 posts ante 30
+CKOICEBOARDL posts ante 30
+imacat posts ante 30
+sabre_laser posts ante 30
+eenerriol posts small blind 200
+EDOUAR25 posts big blind 400
+Dealt to sabre_laser [Tc 6d]
+*** PRE-FLOP *** 
+Antoiine6241 folds
+CKOICEBOARDL raises 400 to 800
+imacat folds
+sabre_laser folds
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+eenerriol folds
+EDOUAR25 folds
+CKOICEBOARDL collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Seat 7: CKOICEBOARDL won 1670
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 6 - HandId: #472320156291301383-40-1425246133 - Holdem no limit (30/200/400) - 2015/03/01 21:42:13 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #4 is the button
+Seat 1: djidale06 (15410)
+Seat 2: mogwaifou (12485)
+Seat 3: ganjaspliff (9168)
+Seat 4: eenerriol (29982)
+Seat 6: Antoiine6241 (13435)
+Seat 7: CKOICEBOARDL (12480)
+Seat 8: imacat (11010)
+Seat 9: sabre_laser (17910)
+*** ANTE/BLINDS ***
+Antoiine6241 posts ante 30
+djidale06 posts ante 30
+mogwaifou posts ante 30
+ganjaspliff posts ante 30
+eenerriol posts ante 30
+CKOICEBOARDL posts ante 30
+imacat posts ante 30
+sabre_laser posts ante 30
+Antoiine6241 posts big blind 400
+Dealt to sabre_laser [Ks 4h]
+*** PRE-FLOP *** 
+CKOICEBOARDL folds
+imacat folds
+sabre_laser folds
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+eenerriol folds
+Antoiine6241 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 6: Antoiine6241 (big blind) won 640
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 6 - HandId: #472320156291301383-41-1425246160 - Holdem no limit (30/200/400) - 2015/03/01 21:42:40 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #5 is the button
+Seat 1: djidale06 (15380)
+Seat 2: mogwaifou (12455)
+Seat 3: ganjaspliff (9138)
+Seat 4: eenerriol (29952)
+Seat 5: Mister G Di (10000)
+Seat 6: Antoiine6241 (13645)
+Seat 7: CKOICEBOARDL (12450)
+Seat 8: imacat (10980)
+Seat 9: sabre_laser (17880)
+*** ANTE/BLINDS ***
+Antoiine6241 posts ante 30
+CKOICEBOARDL posts ante 30
+djidale06 posts ante 30
+mogwaifou posts ante 30
+ganjaspliff posts ante 30
+eenerriol posts ante 30
+imacat posts ante 30
+sabre_laser posts ante 30
+Antoiine6241 posts small blind 200
+CKOICEBOARDL posts big blind 400
+Dealt to sabre_laser [7h Kh]
+*** PRE-FLOP *** 
+imacat folds
+sabre_laser raises 400 to 800
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+eenerriol calls 800
+Antoiine6241 folds
+CKOICEBOARDL calls 400
+*** FLOP *** [9s 6s 7d]
+CKOICEBOARDL checks
+sabre_laser bets 2840
+eenerriol folds
+CKOICEBOARDL raises 4733 to 7573
+sabre_laser raises 9477 to 17050 and is all-in
+CKOICEBOARDL calls 4047 and is all-in
+*** TURN *** [9s 6s 7d][3h]
+*** RIVER *** [9s 6s 7d 3h][4c]
+*** SHOW DOWN ***
+CKOICEBOARDL shows [8d 5d] (Straight 9 high)
+sabre_laser shows [7h Kh] (One pair : 7)
+sabre_laser collected 5430 from side pot 1
+CKOICEBOARDL collected 26080 from main pot
+*** SUMMARY ***
+Total pot 31510 | No rake
+Board: [9s 6s 7d 3h 4c]
+Seat 7: CKOICEBOARDL (big blind) showed [8d 5d] and won 26080 with Straight 9 high
+Seat 9: sabre_laser showed [7h Kh] and won 5430 with One pair : 7
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 6 - HandId: #472320156291301383-42-1425246248 - Holdem no limit (30/200/400) - 2015/03/01 21:44:08 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #6 is the button
+Seat 1: djidale06 (15350)
+Seat 2: mogwaifou (12425)
+Seat 3: ganjaspliff (9108)
+Seat 4: eenerriol (29122)
+Seat 5: Mister G Di (10000)
+Seat 6: Antoiine6241 (13415)
+Seat 7: CKOICEBOARDL (26080)
+Seat 8: imacat (10950)
+Seat 9: sabre_laser (5430)
+*** ANTE/BLINDS ***
+CKOICEBOARDL posts ante 30
+imacat posts ante 30
+djidale06 posts ante 30
+mogwaifou posts ante 30
+ganjaspliff posts ante 30
+eenerriol posts ante 30
+Mister G Di posts ante 30
+Antoiine6241 posts ante 30
+sabre_laser posts ante 30
+CKOICEBOARDL posts small blind 200
+imacat posts big blind 400
+Dealt to sabre_laser [9d 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+eenerriol folds
+Mister G Di folds
+Antoiine6241 raises 800 to 1200
+CKOICEBOARDL folds
+imacat folds
+Antoiine6241 collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Seat 6: Antoiine6241 (button) won 2070
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 6 - HandId: #472320156291301383-43-1425246299 - Holdem no limit (30/200/400) - 2015/03/01 21:44:59 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #7 is the button
+Seat 1: djidale06 (15320)
+Seat 2: mogwaifou (12395)
+Seat 3: ganjaspliff (9078)
+Seat 4: eenerriol (29092)
+Seat 5: Mister G Di (9970)
+Seat 6: Antoiine6241 (14255)
+Seat 7: CKOICEBOARDL (25850)
+Seat 8: imacat (10520)
+Seat 9: sabre_laser (5400)
+*** ANTE/BLINDS ***
+imacat posts ante 30
+sabre_laser posts ante 30
+djidale06 posts ante 30
+mogwaifou posts ante 30
+ganjaspliff posts ante 30
+eenerriol posts ante 30
+Mister G Di posts ante 30
+Antoiine6241 posts ante 30
+CKOICEBOARDL posts ante 30
+imacat posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [3c Qd]
+*** PRE-FLOP *** 
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+eenerriol folds
+Mister G Di raises 600 to 1000
+Antoiine6241 calls 1000
+CKOICEBOARDL folds
+imacat calls 800
+sabre_laser folds
+*** FLOP *** [4d Jd 6d]
+imacat checks
+Mister G Di checks
+Antoiine6241 bets 1835
+imacat folds
+Mister G Di calls 1835
+*** TURN *** [4d Jd 6d][Qh]
+Mister G Di checks
+Antoiine6241 bets 11390 and is all-in
+Mister G Di calls 7105 and is all-in
+*** RIVER *** [4d Jd 6d Qh][6c]
+*** SHOW DOWN ***
+Mister G Di shows [6h 7d] (Trips of 6)
+Antoiine6241 shows [Ac 7s] (One pair : 6)
+Antoiine6241 collected 4285 from side pot 1
+Mister G Di collected 21550 from main pot
+*** SUMMARY ***
+Total pot 25835 | No rake
+Board: [4d Jd 6d Qh 6c]
+Seat 5: Mister G Di showed [6h 7d] and won 21550 with Trips of 6
+Seat 6: Antoiine6241 showed [Ac 7s] and won 4285 with One pair : 6
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 7 - HandId: #472320156291301383-44-1425246415 - Holdem no limit (40/250/500) - 2015/03/01 21:46:55 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #8 is the button
+Seat 1: djidale06 (15290)
+Seat 2: mogwaifou (12365)
+Seat 3: ganjaspliff (9048)
+Seat 4: eenerriol (29062)
+Seat 5: Mister G Di (21550)
+Seat 6: Antoiine6241 (4285)
+Seat 7: CKOICEBOARDL (25820)
+Seat 8: imacat (9490)
+Seat 9: sabre_laser (4970)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+djidale06 posts ante 40
+mogwaifou posts ante 40
+ganjaspliff posts ante 40
+eenerriol posts ante 40
+Mister G Di posts ante 40
+Antoiine6241 posts ante 40
+CKOICEBOARDL posts ante 40
+imacat posts ante 40
+sabre_laser posts small blind 250
+djidale06 posts big blind 500
+Dealt to sabre_laser [2h Ac]
+*** PRE-FLOP *** 
+mogwaifou folds
+ganjaspliff folds
+eenerriol folds
+Mister G Di raises 750 to 1250
+Antoiine6241 folds
+CKOICEBOARDL calls 1250
+imacat folds
+sabre_laser folds
+djidale06 folds
+*** FLOP *** [4s Qh Th]
+Mister G Di bets 2708
+CKOICEBOARDL folds
+Mister G Di collected 6318 from pot
+*** SUMMARY ***
+Total pot 6318 | No rake
+Board: [4s Qh Th]
+Seat 5: Mister G Di won 6318
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 7 - HandId: #472320156291301383-45-1425246498 - Holdem no limit (40/250/500) - 2015/03/01 21:48:18 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #9 is the button
+Seat 1: djidale06 (14750)
+Seat 2: mogwaifou (12325)
+Seat 3: ganjaspliff (9008)
+Seat 4: eenerriol (29022)
+Seat 5: Mister G Di (23870)
+Seat 6: Antoiine6241 (4245)
+Seat 7: CKOICEBOARDL (24530)
+Seat 8: imacat (9450)
+Seat 9: sabre_laser (4680)
+*** ANTE/BLINDS ***
+djidale06 posts ante 40
+mogwaifou posts ante 40
+ganjaspliff posts ante 40
+eenerriol posts ante 40
+Mister G Di posts ante 40
+Antoiine6241 posts ante 40
+CKOICEBOARDL posts ante 40
+imacat posts ante 40
+sabre_laser posts ante 40
+djidale06 posts small blind 250
+mogwaifou posts big blind 500
+Dealt to sabre_laser [2s 7s]
+*** PRE-FLOP *** 
+ganjaspliff folds
+eenerriol folds
+Mister G Di folds
+Antoiine6241 folds
+CKOICEBOARDL folds
+imacat folds
+sabre_laser folds
+djidale06 folds
+mogwaifou collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 2: mogwaifou (big blind) won 1110
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 7 - HandId: #472320156291301383-46-1425246547 - Holdem no limit (40/250/500) - 2015/03/01 21:49:07 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #1 is the button
+Seat 1: djidale06 (14460)
+Seat 2: mogwaifou (12895)
+Seat 3: ganjaspliff (8968)
+Seat 4: eenerriol (28982)
+Seat 5: born to win1 (33096)
+Seat 6: Antoiine6241 (4205)
+Seat 7: CKOICEBOARDL (24490)
+Seat 8: imacat (9410)
+Seat 9: sabre_laser (4640)
+*** ANTE/BLINDS ***
+mogwaifou posts ante 40
+ganjaspliff posts ante 40
+djidale06 posts ante 40
+eenerriol posts ante 40
+born to win1 posts ante 40
+Antoiine6241 posts ante 40
+CKOICEBOARDL posts ante 40
+imacat posts ante 40
+sabre_laser posts ante 40
+mogwaifou posts small blind 250
+ganjaspliff posts big blind 500
+Dealt to sabre_laser [3h Th]
+*** PRE-FLOP *** 
+eenerriol folds
+born to win1 calls 500
+Antoiine6241 raises 1000 to 1500
+CKOICEBOARDL folds
+imacat folds
+sabre_laser folds
+djidale06 folds
+mogwaifou folds
+ganjaspliff folds
+born to win1 calls 1000
+*** FLOP *** [Js 4h 7s]
+born to win1 bets 500
+Antoiine6241 calls 500
+*** TURN *** [Js 4h 7s][Td]
+born to win1 bets 500
+Antoiine6241 raises 1665 to 2165 and is all-in
+born to win1 folds
+Antoiine6241 collected 7775 from pot
+*** SUMMARY ***
+Total pot 7775 | No rake
+Board: [Js 4h 7s Td]
+Seat 6: Antoiine6241 won 7775
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 1,80€ + 0,20€ level: 7 - HandId: #472320156291301383-47-1425246614 - Holdem no limit (40/250/500) - 2015/03/01 21:50:14 UTC
+Table: 'Hold'em [180 Max](109970606)#06' 9-max (real money) Seat #2 is the button
+Seat 1: djidale06 (14420)
+Seat 2: mogwaifou (12605)
+Seat 3: ganjaspliff (8428)
+Seat 4: eenerriol (28942)
+Seat 5: born to win1 (30556)
+Seat 6: Antoiine6241 (7775)
+Seat 7: CKOICEBOARDL (24450)
+Seat 8: imacat (9370)
+Seat 9: sabre_laser (4600)
+*** ANTE/BLINDS ***
+ganjaspliff posts ante 40
+eenerriol posts ante 40
+djidale06 posts ante 40
+mogwaifou posts ante 40
+born to win1 posts ante 40
+Antoiine6241 posts ante 40
+CKOICEBOARDL posts ante 40
+imacat posts ante 40
+sabre_laser posts ante 40
+ganjaspliff posts small blind 250
+eenerriol posts big blind 500
+Dealt to sabre_laser [Kd 9c]
+*** PRE-FLOP *** 
+born to win1 folds
+Antoiine6241 folds
+CKOICEBOARDL folds
+imacat folds
+sabre_laser calls 500
+djidale06 folds
+mogwaifou folds
+ganjaspliff raises 7888 to 8388 and is all-in
+eenerriol folds
+sabre_laser calls 4060 and is all-in
+*** FLOP *** [7h 8s Qh]
+*** TURN *** [7h 8s Qh][3d]
+*** RIVER *** [7h 8s Qh 3d][5c]
+*** SHOW DOWN ***
+sabre_laser shows [Kd 9c] (High card : King)
+ganjaspliff shows [Ah Jd] (High card : Ace)
+ganjaspliff collected 13808 from pot
+*** SUMMARY ***
+Total pot 13808 | No rake
+Board: [7h 8s Qh 3d 5c]
+Seat 3: ganjaspliff (small blind) showed [Ah Jd] and won 13808 with High card : Ace
+Seat 9: sabre_laser showed [Kd 9c] and lost with High card : King
+
+

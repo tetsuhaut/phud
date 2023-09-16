@@ -1,0 +1,1469 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560479410923241473-1-1442060489 - Holdem no limit (10/20) - 2015/09/12 12:21:29 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #3 is the button
+Seat 1: WuTang_check (1500)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: mafalex (1500)
+Seat 6: Leboude92 (1500)
+Seat 7: Apophyse89 (1500)
+Seat 8: Dc Watson (1500)
+Seat 9: FataIBazooka (1500)
+Seat 10: oeil.de.nuit (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+mafalex posts big blind 20
+Dealt to sabre_laser [Ad 8d]
+*** PRE-FLOP *** 
+Leboude92 folds
+Apophyse89 calls 20
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit calls 20
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser calls 10
+mafalex checks
+*** FLOP *** [Ac 8h Qs]
+sabre_laser bets 20
+mafalex folds
+Apophyse89 calls 20
+oeil.de.nuit calls 20
+*** TURN *** [Ac 8h Qs][Kh]
+sabre_laser checks
+Apophyse89 checks
+oeil.de.nuit bets 70
+sabre_laser calls 70
+Apophyse89 folds
+*** RIVER *** [Ac 8h Qs Kh][9h]
+sabre_laser bets 140
+oeil.de.nuit folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Ac 8h Qs Kh 9h]
+Seat 4: sabre_laser (small blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560479410923241473-2-1442060660 - Holdem no limit (10/20) - 2015/09/12 12:24:20 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #4 is the button
+Seat 1: WuTang_check (1500)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1670)
+Seat 5: mafalex (1480)
+Seat 6: Leboude92 (1500)
+Seat 7: Apophyse89 (1460)
+Seat 8: Dc Watson (1500)
+Seat 9: FataIBazooka (1500)
+Seat 10: oeil.de.nuit (1390)
+*** ANTE/BLINDS ***
+mafalex posts small blind 10
+Leboude92 posts big blind 20
+Dealt to sabre_laser [Jh Kh]
+*** PRE-FLOP *** 
+Apophyse89 folds
+Dc Watson calls 20
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser raises 60 to 80
+mafalex folds
+Leboude92 folds
+Dc Watson calls 60
+*** FLOP *** [7s 8d Th]
+Dc Watson checks
+sabre_laser checks
+*** TURN *** [7s 8d Th][2s]
+Dc Watson checks
+sabre_laser bets 95
+Dc Watson calls 95
+*** RIVER *** [7s 8d Th 2s][8h]
+Dc Watson checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Jh Kh] (One pair : 8)
+Dc Watson shows [9s 9h] (Two pairs : 9 and 8)
+Dc Watson collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [7s 8d Th 2s 8h]
+Seat 4: sabre_laser (button) showed [Jh Kh] and lost with One pair : 8
+Seat 8: Dc Watson showed [9s 9h] and won 380 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560479410923241473-3-1442060730 - Holdem no limit (15/30) - 2015/09/12 12:25:30 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #5 is the button
+Seat 1: WuTang_check (1500)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1470)
+Seat 6: Leboude92 (1480)
+Seat 7: Apophyse89 (1460)
+Seat 8: Dc Watson (1705)
+Seat 9: FataIBazooka (1500)
+Seat 10: oeil.de.nuit (1390)
+*** ANTE/BLINDS ***
+Leboude92 posts small blind 15
+Apophyse89 posts big blind 30
+Dealt to sabre_laser [Qh 9s]
+*** PRE-FLOP *** 
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit calls 30
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 checks
+*** FLOP *** [3c 8s 6d]
+Apophyse89 checks
+oeil.de.nuit checks
+*** TURN *** [3c 8s 6d][4h]
+Apophyse89 checks
+oeil.de.nuit checks
+*** RIVER *** [3c 8s 6d 4h][8h]
+Apophyse89 checks
+oeil.de.nuit checks
+*** SHOW DOWN ***
+oeil.de.nuit shows [Jd 9d] (One pair : 8)
+Apophyse89 shows [7c 3h] (Two pairs : 8 and 3)
+Apophyse89 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [3c 8s 6d 4h 8h]
+Seat 7: Apophyse89 (big blind) showed [7c 3h] and won 75 with Two pairs : 8 and 3
+Seat 10: oeil.de.nuit showed [Jd 9d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560479410923241473-4-1442060824 - Holdem no limit (15/30) - 2015/09/12 12:27:04 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #6 is the button
+Seat 1: WuTang_check (1500)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1470)
+Seat 6: Leboude92 (1465)
+Seat 7: Apophyse89 (1505)
+Seat 8: Dc Watson (1705)
+Seat 9: FataIBazooka (1500)
+Seat 10: oeil.de.nuit (1360)
+*** ANTE/BLINDS ***
+Apophyse89 posts small blind 15
+Dc Watson posts big blind 30
+Dealt to sabre_laser [6s Qh]
+*** PRE-FLOP *** 
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 folds
+Dc Watson collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 8: Dc Watson (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560479410923241473-5-1442060853 - Holdem no limit (20/40) - 2015/09/12 12:27:33 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #7 is the button
+Seat 1: WuTang_check (1500)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1470)
+Seat 6: Leboude92 (1465)
+Seat 7: Apophyse89 (1490)
+Seat 8: Dc Watson (1720)
+Seat 9: FataIBazooka (1500)
+Seat 10: oeil.de.nuit (1360)
+*** ANTE/BLINDS ***
+Dc Watson posts small blind 20
+FataIBazooka posts big blind 40
+Dealt to sabre_laser [9h 6d]
+*** PRE-FLOP *** 
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 raises 40 to 80
+Dc Watson folds
+FataIBazooka folds
+Apophyse89 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 7: Apophyse89 (button) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560479410923241473-6-1442060899 - Holdem no limit (20/40) - 2015/09/12 12:28:19 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #8 is the button
+Seat 1: WuTang_check (1500)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1470)
+Seat 6: Leboude92 (1465)
+Seat 7: Apophyse89 (1550)
+Seat 8: Dc Watson (1700)
+Seat 9: FataIBazooka (1460)
+Seat 10: oeil.de.nuit (1360)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 20
+oeil.de.nuit posts big blind 40
+Dealt to sabre_laser [2d 5s]
+*** PRE-FLOP *** 
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 raises 40 to 80
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit calls 40
+*** FLOP *** [Qc Ks Kd]
+oeil.de.nuit checks
+Apophyse89 checks
+*** TURN *** [Qc Ks Kd][Tc]
+oeil.de.nuit checks
+Apophyse89 bets 40
+oeil.de.nuit calls 40
+*** RIVER *** [Qc Ks Kd Tc][5h]
+oeil.de.nuit checks
+Apophyse89 bets 195
+oeil.de.nuit folds
+Apophyse89 collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Board: [Qc Ks Kd Tc 5h]
+Seat 7: Apophyse89 won 455
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560479410923241473-7-1442060982 - Holdem no limit (20/40) - 2015/09/12 12:29:42 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #9 is the button
+Seat 1: WuTang_check (1500)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1470)
+Seat 6: Leboude92 (1465)
+Seat 7: Apophyse89 (1690)
+Seat 8: Dc Watson (1700)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (1240)
+*** ANTE/BLINDS ***
+oeil.de.nuit posts small blind 20
+WuTang_check posts big blind 40
+Dealt to sabre_laser [6c Qh]
+*** PRE-FLOP *** 
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex calls 40
+Leboude92 folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit calls 20
+WuTang_check checks
+*** FLOP *** [Js 3s 4d]
+oeil.de.nuit bets 120
+WuTang_check folds
+mafalex calls 120
+*** TURN *** [Js 3s 4d][Ah]
+oeil.de.nuit bets 40
+mafalex calls 40
+*** RIVER *** [Js 3s 4d Ah][Th]
+oeil.de.nuit bets 40
+mafalex raises 240 to 280
+oeil.de.nuit calls 240
+*** SHOW DOWN ***
+oeil.de.nuit shows [9s Jh] (One pair : Jacks)
+mafalex shows [As Ts] (Two pairs : Aces and Tens)
+mafalex collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Js 3s 4d Ah Th]
+Seat 5: mafalex showed [As Ts] and won 1000 with Two pairs : Aces and Tens
+Seat 10: oeil.de.nuit (small blind) showed [9s Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560479410923241473-8-1442061096 - Holdem no limit (30/60) - 2015/09/12 12:31:36 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #10 is the button
+Seat 1: WuTang_check (1460)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1990)
+Seat 6: Leboude92 (1465)
+Seat 7: Apophyse89 (1690)
+Seat 8: Dc Watson (1700)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (760)
+*** ANTE/BLINDS ***
+WuTang_check posts small blind 30
+Begbie4491 posts big blind 60
+Dealt to sabre_laser [5d 7s]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 folds
+Dc Watson calls 60
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 checks
+*** FLOP *** [4c Td 8h]
+Begbie4491 bets 1440 and is all-in
+Dc Watson folds
+Begbie4491 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [4c Td 8h]
+Seat 2: Begbie4491 (big blind) won 1590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560479410923241473-9-1442061149 - Holdem no limit (30/60) - 2015/09/12 12:32:29 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #1 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1590)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1990)
+Seat 6: Leboude92 (1465)
+Seat 7: Apophyse89 (1690)
+Seat 8: Dc Watson (1640)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (760)
+*** ANTE/BLINDS ***
+Begbie4491 posts small blind 30
+cool4321 posts big blind 60
+Dealt to sabre_laser [2d 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: cool4321 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560479410923241473-10-1442061205 - Holdem no limit (40/80) - 2015/09/12 12:33:25 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #2 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1530)
+Seat 4: sabre_laser (1495)
+Seat 5: mafalex (1990)
+Seat 6: Leboude92 (1465)
+Seat 7: Apophyse89 (1690)
+Seat 8: Dc Watson (1640)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (760)
+*** ANTE/BLINDS ***
+cool4321 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Ts 8s]
+*** PRE-FLOP *** 
+mafalex folds
+Leboude92 calls 80
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit raises 80 to 160
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+Leboude92 calls 80
+*** FLOP *** [Ah Kd 6c]
+Leboude92 checks
+oeil.de.nuit bets 80
+Leboude92 folds
+oeil.de.nuit collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ah Kd 6c]
+Seat 10: oeil.de.nuit won 520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560479410923241473-11-1442061293 - Holdem no limit (40/80) - 2015/09/12 12:34:53 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #3 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1415)
+Seat 5: mafalex (1990)
+Seat 6: Leboude92 (1305)
+Seat 7: Apophyse89 (1690)
+Seat 8: Dc Watson (1640)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (1040)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+mafalex posts big blind 80
+Dealt to sabre_laser [Kc 9c]
+*** PRE-FLOP *** 
+Leboude92 folds
+Apophyse89 folds
+Dc Watson calls 80
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser calls 40
+mafalex checks
+*** FLOP *** [5h 3d 2s]
+sabre_laser checks
+mafalex checks
+Dc Watson checks
+*** TURN *** [5h 3d 2s][3s]
+sabre_laser checks
+mafalex checks
+Dc Watson checks
+*** RIVER *** [5h 3d 2s 3s][4c]
+sabre_laser bets 80
+mafalex folds
+Dc Watson calls 80
+*** SHOW DOWN ***
+sabre_laser shows [Kc 9c] (One pair : 3)
+Dc Watson shows [As Tc] (Straight 5 high)
+Dc Watson collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [5h 3d 2s 3s 4c]
+Seat 4: sabre_laser (small blind) showed [Kc 9c] and lost with One pair : 3
+Seat 8: Dc Watson showed [As Tc] and won 400 with Straight 5 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560479410923241473-12-1442061405 - Holdem no limit (60/120) - 2015/09/12 12:36:45 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #4 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1255)
+Seat 5: mafalex (1910)
+Seat 6: Leboude92 (1305)
+Seat 7: Apophyse89 (1690)
+Seat 8: Dc Watson (1880)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (1040)
+*** ANTE/BLINDS ***
+mafalex posts small blind 60
+Leboude92 posts big blind 120
+Dealt to sabre_laser [Ks 8s]
+*** PRE-FLOP *** 
+Apophyse89 raises 240 to 360
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 7: Apophyse89 won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560479410923241473-13-1442061474 - Holdem no limit (60/120) - 2015/09/12 12:37:54 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #5 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1255)
+Seat 5: mafalex (1850)
+Seat 6: Leboude92 (1185)
+Seat 7: Apophyse89 (1870)
+Seat 8: Dc Watson (1880)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (1040)
+*** ANTE/BLINDS ***
+Leboude92 posts small blind 60
+Apophyse89 posts big blind 120
+Dealt to sabre_laser [Td 8h]
+*** PRE-FLOP *** 
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 raises 300 to 420
+Apophyse89 raises 1450 to 1870 and is all-in
+Leboude92 folds
+Apophyse89 collected 2290 from pot
+*** SUMMARY ***
+Total pot 2290 | No rake
+Seat 7: Apophyse89 (big blind) won 2290
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560479410923241473-14-1442061571 - Holdem no limit (80/160) - 2015/09/12 12:39:31 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #6 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1255)
+Seat 5: mafalex (1850)
+Seat 6: Leboude92 (765)
+Seat 7: Apophyse89 (2290)
+Seat 8: Dc Watson (1880)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (1040)
+*** ANTE/BLINDS ***
+Apophyse89 posts small blind 80
+Dc Watson posts big blind 160
+Dealt to sabre_laser [8c Ad]
+*** PRE-FLOP *** 
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 folds
+Apophyse89 folds
+Dc Watson collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: Dc Watson (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560479410923241473-15-1442061619 - Holdem no limit (80/160) - 2015/09/12 12:40:19 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #7 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1255)
+Seat 5: mafalex (1850)
+Seat 6: Leboude92 (765)
+Seat 7: Apophyse89 (2210)
+Seat 8: Dc Watson (1960)
+Seat 9: FataIBazooka (1440)
+Seat 10: oeil.de.nuit (1040)
+*** ANTE/BLINDS ***
+Dc Watson posts small blind 80
+FataIBazooka posts big blind 160
+Dealt to sabre_laser [9s 5d]
+*** PRE-FLOP *** 
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 raises 320 to 480
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+Leboude92 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 6: Leboude92 won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560479410923241473-16-1442061664 - Holdem no limit (80/160) - 2015/09/12 12:41:04 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #8 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1255)
+Seat 5: mafalex (1850)
+Seat 6: Leboude92 (1005)
+Seat 7: Apophyse89 (2210)
+Seat 8: Dc Watson (1880)
+Seat 9: FataIBazooka (1280)
+Seat 10: oeil.de.nuit (1040)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 80
+oeil.de.nuit posts big blind 160
+Dealt to sabre_laser [3h 8h]
+*** PRE-FLOP *** 
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Leboude92 raises 480 to 640
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka calls 560
+oeil.de.nuit folds
+*** FLOP *** [7d Kd 3c]
+FataIBazooka checks
+Leboude92 bets 365 and is all-in
+FataIBazooka raises 275 to 640 and is all-in
+*** TURN *** [7d Kd 3c][6h]
+*** RIVER *** [7d Kd 3c 6h][Qd]
+*** SHOW DOWN ***
+Leboude92 shows [Ac Ts] (High card : Ace)
+FataIBazooka shows [Kh Ks] (Trips of Kings)
+FataIBazooka collected 2445 from pot
+*** SUMMARY ***
+Total pot 2445 | No rake
+Board: [7d Kd 3c 6h Qd]
+Seat 6: Leboude92 showed [Ac Ts] and lost with High card : Ace
+Seat 9: FataIBazooka (small blind) showed [Kh Ks] and won 2445 with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560479410923241473-17-1442061738 - Holdem no limit (80/160) - 2015/09/12 12:42:18 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #9 is the button
+Seat 1: WuTang_check (1430)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1255)
+Seat 5: mafalex (1850)
+Seat 7: Apophyse89 (2210)
+Seat 8: Dc Watson (1880)
+Seat 9: FataIBazooka (2445)
+Seat 10: oeil.de.nuit (880)
+*** ANTE/BLINDS ***
+oeil.de.nuit posts small blind 80
+WuTang_check posts big blind 160
+Dealt to sabre_laser [6d Qs]
+*** PRE-FLOP *** 
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex raises 320 to 480
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+mafalex collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 5: mafalex won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560479410923241473-18-1442061788 - Holdem no limit (10/100/200) - 2015/09/12 12:43:08 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #10 is the button
+Seat 1: WuTang_check (1270)
+Seat 2: Begbie4491 (1560)
+Seat 3: cool4321 (1490)
+Seat 4: sabre_laser (1255)
+Seat 5: mafalex (2090)
+Seat 7: Apophyse89 (2210)
+Seat 8: Dc Watson (1880)
+Seat 9: FataIBazooka (2445)
+Seat 10: oeil.de.nuit (800)
+*** ANTE/BLINDS ***
+WuTang_check posts ante 10
+Begbie4491 posts ante 10
+cool4321 posts ante 10
+sabre_laser posts ante 10
+mafalex posts ante 10
+Apophyse89 posts ante 10
+Dc Watson posts ante 10
+FataIBazooka posts ante 10
+oeil.de.nuit posts ante 10
+WuTang_check posts small blind 100
+Begbie4491 posts big blind 200
+Dealt to sabre_laser [2s 4s]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 2: Begbie4491 (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560479410923241473-19-1442061813 - Holdem no limit (10/100/200) - 2015/09/12 12:43:33 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #1 is the button
+Seat 1: WuTang_check (1160)
+Seat 2: Begbie4491 (1740)
+Seat 3: cool4321 (1480)
+Seat 4: sabre_laser (1245)
+Seat 5: mafalex (2080)
+Seat 7: Apophyse89 (2200)
+Seat 8: Dc Watson (1870)
+Seat 9: FataIBazooka (2435)
+Seat 10: oeil.de.nuit (790)
+*** ANTE/BLINDS ***
+Begbie4491 posts ante 10
+cool4321 posts ante 10
+WuTang_check posts ante 10
+sabre_laser posts ante 10
+mafalex posts ante 10
+Apophyse89 posts ante 10
+Dc Watson posts ante 10
+FataIBazooka posts ante 10
+oeil.de.nuit posts ante 10
+Begbie4491 posts small blind 100
+cool4321 posts big blind 200
+Dealt to sabre_laser [Jc Kd]
+*** PRE-FLOP *** 
+sabre_laser calls 200
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 checks
+*** FLOP *** [Js As 2d]
+cool4321 checks
+sabre_laser checks
+*** TURN *** [Js As 2d][7h]
+cool4321 checks
+sabre_laser bets 200
+cool4321 folds
+sabre_laser collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [Js As 2d 7h]
+Seat 4: sabre_laser won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560479410923241473-20-1442061849 - Holdem no limit (10/100/200) - 2015/09/12 12:44:09 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #2 is the button
+Seat 1: WuTang_check (1150)
+Seat 2: Begbie4491 (1630)
+Seat 3: cool4321 (1270)
+Seat 4: sabre_laser (1625)
+Seat 5: mafalex (2070)
+Seat 7: Apophyse89 (2190)
+Seat 8: Dc Watson (1860)
+Seat 9: FataIBazooka (2425)
+Seat 10: oeil.de.nuit (780)
+*** ANTE/BLINDS ***
+cool4321 posts ante 10
+sabre_laser posts ante 10
+WuTang_check posts ante 10
+Begbie4491 posts ante 10
+mafalex posts ante 10
+Apophyse89 posts ante 10
+Dc Watson posts ante 10
+FataIBazooka posts ante 10
+oeil.de.nuit posts ante 10
+cool4321 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9h Qs]
+*** PRE-FLOP *** 
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 raises 1060 to 1260 and is all-in
+sabre_laser folds
+cool4321 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 3: cool4321 (small blind) won 1550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560479410923241473-21-1442061899 - Holdem no limit (10/100/200) - 2015/09/12 12:44:59 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #3 is the button
+Seat 1: WuTang_check (1140)
+Seat 2: Begbie4491 (1620)
+Seat 3: cool4321 (1550)
+Seat 4: sabre_laser (1415)
+Seat 5: mafalex (2060)
+Seat 7: Apophyse89 (2180)
+Seat 8: Dc Watson (1850)
+Seat 9: FataIBazooka (2415)
+Seat 10: oeil.de.nuit (770)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+mafalex posts ante 10
+WuTang_check posts ante 10
+Begbie4491 posts ante 10
+cool4321 posts ante 10
+Apophyse89 posts ante 10
+Dc Watson posts ante 10
+FataIBazooka posts ante 10
+oeil.de.nuit posts ante 10
+sabre_laser posts small blind 100
+mafalex posts big blind 200
+Dealt to sabre_laser [As Ks]
+*** PRE-FLOP *** 
+Apophyse89 raises 400 to 600
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser raises 805 to 1405 and is all-in
+mafalex folds
+Apophyse89 raises 765 to 2170 and is all-in
+*** FLOP *** [7d Qc Js]
+*** TURN *** [7d Qc Js][7c]
+*** RIVER *** [7d Qc Js 7c][2s]
+*** SHOW DOWN ***
+sabre_laser shows [As Ks] (One pair : 7)
+Apophyse89 shows [Ad Kc] (One pair : 7)
+Apophyse89 collected 2315 from side pot 1
+sabre_laser collected 1550 from main pot
+*** SUMMARY ***
+Total pot 3865 | No rake
+Board: [7d Qc Js 7c 2s]
+Seat 4: sabre_laser (small blind) showed [As Ks] and won 1550 with One pair : 7
+Seat 7: Apophyse89 showed [Ad Kc] and won 2315 with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560479410923241473-22-1442061940 - Holdem no limit (20/150/300) - 2015/09/12 12:45:40 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #4 is the button
+Seat 1: WuTang_check (1130)
+Seat 2: Begbie4491 (1610)
+Seat 3: cool4321 (1540)
+Seat 4: sabre_laser (1550)
+Seat 5: mafalex (1850)
+Seat 7: Apophyse89 (2315)
+Seat 8: Dc Watson (1840)
+Seat 9: FataIBazooka (2405)
+Seat 10: oeil.de.nuit (760)
+*** ANTE/BLINDS ***
+mafalex posts ante 20
+Apophyse89 posts ante 20
+WuTang_check posts ante 20
+Begbie4491 posts ante 20
+cool4321 posts ante 20
+sabre_laser posts ante 20
+Dc Watson posts ante 20
+FataIBazooka posts ante 20
+oeil.de.nuit posts ante 20
+mafalex posts small blind 150
+Apophyse89 posts big blind 300
+Dealt to sabre_laser [9s 2s]
+*** PRE-FLOP *** 
+Dc Watson folds
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 7: Apophyse89 (big blind) won 630
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560479410923241473-23-1442062016 - Holdem no limit (20/150/300) - 2015/09/12 12:46:56 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #5 is the button
+Seat 1: WuTang_check (1110)
+Seat 2: Begbie4491 (1590)
+Seat 3: cool4321 (1520)
+Seat 4: sabre_laser (1530)
+Seat 5: mafalex (1680)
+Seat 7: Apophyse89 (2625)
+Seat 8: Dc Watson (1820)
+Seat 9: FataIBazooka (2385)
+Seat 10: oeil.de.nuit (740)
+*** ANTE/BLINDS ***
+Apophyse89 posts ante 20
+Dc Watson posts ante 20
+WuTang_check posts ante 20
+Begbie4491 posts ante 20
+cool4321 posts ante 20
+sabre_laser posts ante 20
+mafalex posts ante 20
+FataIBazooka posts ante 20
+oeil.de.nuit posts ante 20
+Apophyse89 posts small blind 150
+Dc Watson posts big blind 300
+Dealt to sabre_laser [Jh 6s]
+*** PRE-FLOP *** 
+FataIBazooka folds
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 calls 150
+Dc Watson checks
+*** FLOP *** [Td 8s 2c]
+Apophyse89 checks
+Dc Watson checks
+*** TURN *** [Td 8s 2c][4h]
+Apophyse89 checks
+Dc Watson checks
+*** RIVER *** [Td 8s 2c 4h][Jd]
+Apophyse89 checks
+Dc Watson checks
+*** SHOW DOWN ***
+Dc Watson shows [9s 5d] (High card : Jack)
+Apophyse89 shows [Ah 9d] (High card : Ace)
+Apophyse89 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Td 8s 2c 4h Jd]
+Seat 7: Apophyse89 (small blind) showed [Ah 9d] and won 780 with High card : Ace
+Seat 8: Dc Watson (big blind) showed [9s 5d] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560479410923241473-24-1442062069 - Holdem no limit (20/150/300) - 2015/09/12 12:47:49 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #7 is the button
+Seat 1: WuTang_check (1090)
+Seat 2: Begbie4491 (1570)
+Seat 3: cool4321 (1500)
+Seat 4: sabre_laser (1510)
+Seat 5: mafalex (1660)
+Seat 7: Apophyse89 (3085)
+Seat 8: Dc Watson (1500)
+Seat 9: FataIBazooka (2365)
+Seat 10: oeil.de.nuit (720)
+*** ANTE/BLINDS ***
+Dc Watson posts ante 20
+FataIBazooka posts ante 20
+WuTang_check posts ante 20
+Begbie4491 posts ante 20
+cool4321 posts ante 20
+sabre_laser posts ante 20
+mafalex posts ante 20
+Apophyse89 posts ante 20
+oeil.de.nuit posts ante 20
+Dc Watson posts small blind 150
+FataIBazooka posts big blind 300
+Dealt to sabre_laser [Jh 3c]
+*** PRE-FLOP *** 
+oeil.de.nuit folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex calls 300
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka checks
+*** FLOP *** [4d Qc 5h]
+FataIBazooka checks
+mafalex bets 300
+FataIBazooka folds
+mafalex collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Board: [4d Qc 5h]
+Seat 5: mafalex won 1230
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560479410923241473-25-1442062123 - Holdem no limit (50/200/400) - 2015/09/12 12:48:43 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #8 is the button
+Seat 1: WuTang_check (1070)
+Seat 2: Begbie4491 (1550)
+Seat 3: cool4321 (1480)
+Seat 4: sabre_laser (1490)
+Seat 5: mafalex (2270)
+Seat 7: Apophyse89 (3065)
+Seat 8: Dc Watson (1330)
+Seat 9: FataIBazooka (2045)
+Seat 10: oeil.de.nuit (700)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 50
+oeil.de.nuit posts ante 50
+WuTang_check posts ante 50
+Begbie4491 posts ante 50
+cool4321 posts ante 50
+sabre_laser posts ante 50
+mafalex posts ante 50
+Apophyse89 posts ante 50
+Dc Watson posts ante 50
+FataIBazooka posts small blind 200
+oeil.de.nuit posts big blind 400
+Dealt to sabre_laser [4c 4h]
+*** PRE-FLOP *** 
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka raises 1595 to 1995 and is all-in
+oeil.de.nuit calls 250 and is all-in
+*** FLOP *** [7h Ah 7s]
+*** TURN *** [7h Ah 7s][3d]
+*** RIVER *** [7h Ah 7s 3d][Kd]
+*** SHOW DOWN ***
+oeil.de.nuit shows [8d 2c] (One pair : 7)
+FataIBazooka shows [3s As] (Two pairs : Aces and 7)
+FataIBazooka collected 3095 from pot
+*** SUMMARY ***
+Total pot 3095 | No rake
+Board: [7h Ah 7s 3d Kd]
+Seat 9: FataIBazooka (small blind) showed [3s As] and won 3095 with Two pairs : Aces and 7
+Seat 10: oeil.de.nuit (big blind) showed [8d 2c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560479410923241473-26-1442062172 - Holdem no limit (50/200/400) - 2015/09/12 12:49:32 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #9 is the button
+Seat 1: WuTang_check (1020)
+Seat 2: Begbie4491 (1500)
+Seat 3: cool4321 (1430)
+Seat 4: sabre_laser (1440)
+Seat 5: mafalex (2220)
+Seat 7: Apophyse89 (3015)
+Seat 8: Dc Watson (1280)
+Seat 9: FataIBazooka (3095)
+*** ANTE/BLINDS ***
+WuTang_check posts ante 50
+Begbie4491 posts ante 50
+cool4321 posts ante 50
+sabre_laser posts ante 50
+mafalex posts ante 50
+Apophyse89 posts ante 50
+Dc Watson posts ante 50
+FataIBazooka posts ante 50
+WuTang_check posts big blind 400
+Dealt to sabre_laser [6d Kd]
+*** PRE-FLOP *** 
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+WuTang_check collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 1: WuTang_check (big blind) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560479410923241473-27-1442062207 - Holdem no limit (50/200/400) - 2015/09/12 12:50:07 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #10 is the button
+Seat 1: WuTang_check (1370)
+Seat 2: Begbie4491 (1450)
+Seat 3: cool4321 (1380)
+Seat 4: sabre_laser (1390)
+Seat 5: mafalex (2170)
+Seat 7: Apophyse89 (2965)
+Seat 8: Dc Watson (1230)
+Seat 9: FataIBazooka (3045)
+*** ANTE/BLINDS ***
+WuTang_check posts ante 50
+Begbie4491 posts ante 50
+cool4321 posts ante 50
+sabre_laser posts ante 50
+mafalex posts ante 50
+Apophyse89 posts ante 50
+Dc Watson posts ante 50
+FataIBazooka posts ante 50
+WuTang_check posts small blind 200
+Begbie4491 posts big blind 400
+Dealt to sabre_laser [4h 3d]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+WuTang_check folds
+Begbie4491 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 2: Begbie4491 (big blind) won 1000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #560479410923241473-28-1442062255 - Holdem no limit (50/200/400) - 2015/09/12 12:50:55 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #1 is the button
+Seat 1: WuTang_check (1120)
+Seat 2: Begbie4491 (2000)
+Seat 3: cool4321 (1330)
+Seat 4: sabre_laser (1340)
+Seat 5: mafalex (2120)
+Seat 7: Apophyse89 (2915)
+Seat 8: Dc Watson (1180)
+Seat 9: FataIBazooka (2995)
+*** ANTE/BLINDS ***
+Begbie4491 posts ante 50
+cool4321 posts ante 50
+WuTang_check posts ante 50
+sabre_laser posts ante 50
+mafalex posts ante 50
+Apophyse89 posts ante 50
+Dc Watson posts ante 50
+FataIBazooka posts ante 50
+Begbie4491 posts small blind 200
+cool4321 posts big blind 400
+Dealt to sabre_laser [Jc 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 3: cool4321 (big blind) won 1000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #560479410923241473-29-1442062299 - Holdem no limit (75/300/600) - 2015/09/12 12:51:39 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #2 is the button
+Seat 1: WuTang_check (1070)
+Seat 2: Begbie4491 (1750)
+Seat 3: cool4321 (1880)
+Seat 4: sabre_laser (1290)
+Seat 5: mafalex (2070)
+Seat 7: Apophyse89 (2865)
+Seat 8: Dc Watson (1130)
+Seat 9: FataIBazooka (2945)
+*** ANTE/BLINDS ***
+cool4321 posts ante 75
+sabre_laser posts ante 75
+WuTang_check posts ante 75
+Begbie4491 posts ante 75
+mafalex posts ante 75
+Apophyse89 posts ante 75
+Dc Watson posts ante 75
+FataIBazooka posts ante 75
+cool4321 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [5h 5s]
+*** PRE-FLOP *** 
+mafalex folds
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 4: sabre_laser (big blind) won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #560479410923241473-30-1442062342 - Holdem no limit (75/300/600) - 2015/09/12 12:52:22 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #3 is the button
+Seat 1: WuTang_check (995)
+Seat 2: Begbie4491 (1675)
+Seat 3: cool4321 (1505)
+Seat 4: sabre_laser (2115)
+Seat 5: mafalex (1995)
+Seat 7: Apophyse89 (2790)
+Seat 8: Dc Watson (1055)
+Seat 9: FataIBazooka (2870)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+mafalex posts ante 75
+WuTang_check posts ante 75
+Begbie4491 posts ante 75
+cool4321 posts ante 75
+Apophyse89 posts ante 75
+Dc Watson posts ante 75
+FataIBazooka posts ante 75
+sabre_laser posts small blind 300
+mafalex posts big blind 600
+Dealt to sabre_laser [Tc Qd]
+*** PRE-FLOP *** 
+Apophyse89 folds
+Dc Watson folds
+FataIBazooka folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 raises 830 to 1430 and is all-in
+sabre_laser folds
+mafalex folds
+cool4321 collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Seat 3: cool4321 (button) won 2930
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #560479410923241473-31-1442062402 - Holdem no limit (75/300/600) - 2015/09/12 12:53:22 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #4 is the button
+Seat 1: WuTang_check (920)
+Seat 2: Begbie4491 (1600)
+Seat 3: cool4321 (2930)
+Seat 4: sabre_laser (1740)
+Seat 5: mafalex (1320)
+Seat 7: Apophyse89 (2715)
+Seat 8: Dc Watson (980)
+Seat 9: FataIBazooka (2795)
+*** ANTE/BLINDS ***
+mafalex posts ante 75
+Apophyse89 posts ante 75
+WuTang_check posts ante 75
+Begbie4491 posts ante 75
+cool4321 posts ante 75
+sabre_laser posts ante 75
+Dc Watson posts ante 75
+FataIBazooka posts ante 75
+mafalex posts small blind 300
+Apophyse89 posts big blind 600
+Dealt to sabre_laser [8s Jd]
+*** PRE-FLOP *** 
+Dc Watson folds
+FataIBazooka folds
+WuTang_check folds
+Begbie4491 raises 925 to 1525 and is all-in
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+Begbie4491 collected 3025 from pot
+*** SUMMARY ***
+Total pot 3025 | No rake
+Seat 2: Begbie4491 won 3025
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #560479410923241473-32-1442062423 - Holdem no limit (75/300/600) - 2015/09/12 12:53:43 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #5 is the button
+Seat 1: WuTang_check (845)
+Seat 2: Begbie4491 (3025)
+Seat 3: cool4321 (2855)
+Seat 4: sabre_laser (1665)
+Seat 5: mafalex (945)
+Seat 7: Apophyse89 (2040)
+Seat 8: Dc Watson (905)
+Seat 9: FataIBazooka (2720)
+*** ANTE/BLINDS ***
+Apophyse89 posts ante 75
+Dc Watson posts ante 75
+WuTang_check posts ante 75
+Begbie4491 posts ante 75
+cool4321 posts ante 75
+sabre_laser posts ante 75
+mafalex posts ante 75
+FataIBazooka posts ante 75
+Apophyse89 posts small blind 300
+Dc Watson posts big blind 600
+Dealt to sabre_laser [Ks Qs]
+*** PRE-FLOP *** 
+FataIBazooka folds
+WuTang_check folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser raises 990 to 1590 and is all-in
+mafalex folds
+Apophyse89 folds
+Dc Watson calls 230 and is all-in
+*** FLOP *** [Jc 8d Qd]
+*** TURN *** [Jc 8d Qd][7d]
+*** RIVER *** [Jc 8d Qd 7d][3c]
+*** SHOW DOWN ***
+Dc Watson shows [8c Tc] (One pair : 8)
+sabre_laser shows [Ks Qs] (One pair : Queens)
+sabre_laser collected 3320 from pot
+*** SUMMARY ***
+Total pot 3320 | No rake
+Board: [Jc 8d Qd 7d 3c]
+Seat 4: sabre_laser showed [Ks Qs] and won 3320 with One pair : Queens
+Seat 8: Dc Watson (big blind) showed [8c Tc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #560479410923241473-33-1442062478 - Holdem no limit (100/400/800) - 2015/09/12 12:54:38 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #7 is the button
+Seat 1: WuTang_check (770)
+Seat 2: Begbie4491 (2950)
+Seat 3: cool4321 (2780)
+Seat 4: sabre_laser (3320)
+Seat 5: mafalex (870)
+Seat 7: Apophyse89 (1665)
+Seat 9: FataIBazooka (2645)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 100
+WuTang_check posts ante 100
+Begbie4491 posts ante 100
+cool4321 posts ante 100
+sabre_laser posts ante 100
+mafalex posts ante 100
+Apophyse89 posts ante 100
+FataIBazooka posts big blind 800
+Dealt to sabre_laser [5h Td]
+*** PRE-FLOP *** 
+WuTang_check calls 670 and is all-in
+Begbie4491 folds
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+*** FLOP *** [Ac 6s 2h]
+*** TURN *** [Ac 6s 2h][8h]
+*** RIVER *** [Ac 6s 2h 8h][6h]
+*** SHOW DOWN ***
+WuTang_check shows [Jc Jh] (Two pairs : Jacks and 6)
+FataIBazooka shows [7d Ah] (Two pairs : Aces and 6)
+FataIBazooka collected 2170 from pot
+*** SUMMARY ***
+Total pot 2170 | No rake
+Board: [Ac 6s 2h 8h 6h]
+Seat 1: WuTang_check showed [Jc Jh] and lost with Two pairs : Jacks and 6
+Seat 9: FataIBazooka (big blind) showed [7d Ah] and won 2170 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #560479410923241473-34-1442062503 - Holdem no limit (100/400/800) - 2015/09/12 12:55:03 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Begbie4491 (2850)
+Seat 3: cool4321 (2680)
+Seat 4: sabre_laser (3220)
+Seat 5: mafalex (770)
+Seat 7: Apophyse89 (1565)
+Seat 9: FataIBazooka (3915)
+*** ANTE/BLINDS ***
+FataIBazooka posts ante 100
+Begbie4491 posts ante 100
+cool4321 posts ante 100
+sabre_laser posts ante 100
+mafalex posts ante 100
+Apophyse89 posts ante 100
+FataIBazooka posts small blind 400
+Begbie4491 posts big blind 800
+Dealt to sabre_laser [2h Kd]
+*** PRE-FLOP *** 
+cool4321 folds
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+FataIBazooka folds
+Begbie4491 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 2: Begbie4491 (big blind) won 1800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #560479410923241473-35-1442062519 - Holdem no limit (100/400/800) - 2015/09/12 12:55:19 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Begbie4491 (3750)
+Seat 3: cool4321 (2580)
+Seat 4: sabre_laser (3120)
+Seat 5: mafalex (670)
+Seat 7: Apophyse89 (1465)
+Seat 9: FataIBazooka (3415)
+*** ANTE/BLINDS ***
+Begbie4491 posts ante 100
+cool4321 posts ante 100
+sabre_laser posts ante 100
+mafalex posts ante 100
+Apophyse89 posts ante 100
+FataIBazooka posts ante 100
+Begbie4491 posts small blind 400
+cool4321 posts big blind 800
+Dealt to sabre_laser [3c Jc]
+*** PRE-FLOP *** 
+sabre_laser folds
+mafalex folds
+Apophyse89 folds
+FataIBazooka folds
+Begbie4491 folds
+cool4321 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 3: cool4321 (big blind) won 1800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #560479410923241473-36-1442062543 - Holdem no limit (100/400/800) - 2015/09/12 12:55:43 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Begbie4491 (3250)
+Seat 3: cool4321 (3480)
+Seat 4: sabre_laser (3020)
+Seat 5: mafalex (570)
+Seat 7: Apophyse89 (1365)
+Seat 9: FataIBazooka (3315)
+*** ANTE/BLINDS ***
+cool4321 posts ante 100
+sabre_laser posts ante 100
+Begbie4491 posts ante 100
+mafalex posts ante 100
+Apophyse89 posts ante 100
+FataIBazooka posts ante 100
+cool4321 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Tc 5h]
+*** PRE-FLOP *** 
+mafalex folds
+Apophyse89 folds
+FataIBazooka folds
+Begbie4491 folds
+cool4321 folds
+sabre_laser collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 4: sabre_laser (big blind) won 1800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #560479410923241473-37-1442062583 - Holdem no limit (100/400/800) - 2015/09/12 12:56:23 UTC
+Table: 'Double or Nothing(130496782)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Begbie4491 (3150)
+Seat 3: cool4321 (2980)
+Seat 4: sabre_laser (3920)
+Seat 5: mafalex (470)
+Seat 7: Apophyse89 (1265)
+Seat 9: FataIBazooka (3215)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+mafalex posts ante 100
+Begbie4491 posts ante 100
+cool4321 posts ante 100
+Apophyse89 posts ante 100
+FataIBazooka posts ante 100
+sabre_laser posts small blind 400
+mafalex posts big blind 370 and is all-in
+Dealt to sabre_laser [6d 6s]
+*** PRE-FLOP *** 
+Apophyse89 folds
+FataIBazooka folds
+Begbie4491 folds
+cool4321 calls 800
+sabre_laser calls 400
+*** FLOP *** [6h 5h Jh]
+sabre_laser checks
+cool4321 checks
+*** TURN *** [6h 5h Jh][Ac]
+sabre_laser bets 800
+cool4321 calls 800
+*** RIVER *** [6h 5h Jh Ac][2c]
+sabre_laser checks
+cool4321 checks
+*** SHOW DOWN ***
+cool4321 shows [4c As] (One pair : Aces)
+mafalex shows [9h 2d] (One pair : 2)
+sabre_laser shows [6d 6s] (Trips of 6)
+sabre_laser collected 4170 from pot
+*** SUMMARY ***
+Total pot 4170 | No rake
+Board: [6h 5h Jh Ac 2c]
+Seat 3: cool4321 (button) showed [4c As] and lost with One pair : Aces
+Seat 4: sabre_laser (small blind) showed [6d 6s] and won 4170 with Trips of 6
+Seat 5: mafalex (big blind) showed [9h 2d] and lost with One pair : 2
+
+

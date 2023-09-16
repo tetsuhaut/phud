@@ -1,0 +1,1026 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #562861696138346497-1-1442439026 - Holdem no limit (10/20) - 2015/09/16 21:30:26 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cricri.t (1500)
+Seat 2: christofams (1500)
+Seat 3: raphancy (1500)
+Seat 4: Warnerman (1500)
+Seat 5: SpewItRight (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: berbere14000 (1500)
+Seat 8: YACK07 (1500)
+Seat 9: smogogolle (1500)
+Seat 10: chanes71 (1500)
+*** ANTE/BLINDS ***
+Warnerman posts small blind 10
+SpewItRight posts big blind 20
+Dealt to sabre_laser [Kh Kc]
+*** PRE-FLOP *** 
+sabre_laser raises 30 to 50
+berbere14000 raises 130 to 180
+YACK07 folds
+smogogolle folds
+chanes71 folds
+cricri.t folds
+christofams folds
+raphancy folds
+Warnerman folds
+SpewItRight folds
+sabre_laser calls 130
+*** FLOP *** [9c As Ks]
+sabre_laser checks
+berbere14000 bets 390
+sabre_laser raises 930 to 1320 and is all-in
+berbere14000 calls 930 and is all-in
+*** TURN *** [9c As Ks][3d]
+*** RIVER *** [9c As Ks 3d][Js]
+*** SHOW DOWN ***
+berbere14000 shows [Ad Jc] (Two pairs : Aces and Jacks)
+sabre_laser shows [Kh Kc] (Trips of Kings)
+sabre_laser collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Board: [9c As Ks 3d Js]
+Seat 6: sabre_laser showed [Kh Kc] and won 3030 with Trips of Kings
+Seat 7: berbere14000 showed [Ad Jc] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #562861696138346497-2-1442439154 - Holdem no limit (10/20) - 2015/09/16 21:32:34 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cricri.t (1500)
+Seat 2: christofams (1500)
+Seat 3: raphancy (1500)
+Seat 4: Warnerman (1490)
+Seat 5: SpewItRight (1480)
+Seat 6: sabre_laser (3030)
+Seat 8: YACK07 (1500)
+Seat 9: smogogolle (1500)
+Seat 10: chanes71 (1500)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Ac Th]
+*** PRE-FLOP *** 
+YACK07 folds
+smogogolle folds
+chanes71 folds
+cricri.t folds
+christofams calls 20
+raphancy calls 20
+Warnerman folds
+SpewItRight folds
+sabre_laser checks
+*** FLOP *** [9c Js Td]
+sabre_laser checks
+christofams bets 47
+raphancy folds
+sabre_laser calls 47
+*** TURN *** [9c Js Td][4c]
+sabre_laser checks
+christofams bets 123
+sabre_laser calls 123
+*** RIVER *** [9c Js Td 4c][2d]
+sabre_laser checks
+christofams bets 410
+sabre_laser calls 410
+*** SHOW DOWN ***
+christofams shows [Ad 8d] (High card : Ace)
+sabre_laser shows [Ac Th] (One pair : Tens)
+sabre_laser collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Board: [9c Js Td 4c 2d]
+Seat 2: christofams showed [Ad 8d] and lost with High card : Ace
+Seat 6: sabre_laser (big blind) showed [Ac Th] and won 1230 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562861696138346497-3-1442439253 - Holdem no limit (15/30) - 2015/09/16 21:34:13 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cricri.t (1500)
+Seat 2: christofams (900)
+Seat 3: raphancy (1480)
+Seat 4: Warnerman (1490)
+Seat 5: SpewItRight (1470)
+Seat 6: sabre_laser (3660)
+Seat 8: YACK07 (1500)
+Seat 9: smogogolle (1500)
+Seat 10: chanes71 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+YACK07 posts big blind 30
+Dealt to sabre_laser [9d 6h]
+*** PRE-FLOP *** 
+smogogolle folds
+chanes71 folds
+cricri.t folds
+christofams calls 30
+raphancy folds
+Warnerman folds
+SpewItRight raises 1440 to 1470 and is all-in
+sabre_laser folds
+YACK07 folds
+christofams calls 870 and is all-in
+*** FLOP *** [Qs 5d Ac]
+*** TURN *** [Qs 5d Ac][As]
+*** RIVER *** [Qs 5d Ac As][Ts]
+*** SHOW DOWN ***
+christofams shows [Jc 9c] (One pair : Aces)
+SpewItRight shows [Ad Ah] (Quads of Aces)
+SpewItRight collected 2415 from pot
+*** SUMMARY ***
+Total pot 2415 | No rake
+Board: [Qs 5d Ac As Ts]
+Seat 2: christofams showed [Jc 9c] and lost with One pair : Aces
+Seat 5: SpewItRight (button) showed [Ad Ah] and won 2415 with Quads of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562861696138346497-4-1442439293 - Holdem no limit (15/30) - 2015/09/16 21:34:53 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cricri.t (1500)
+Seat 3: raphancy (1480)
+Seat 4: Warnerman (1490)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3645)
+Seat 8: YACK07 (1470)
+Seat 9: smogogolle (1500)
+Seat 10: chanes71 (1500)
+*** ANTE/BLINDS ***
+YACK07 posts small blind 15
+smogogolle posts big blind 30
+Dealt to sabre_laser [6s Jd]
+*** PRE-FLOP *** 
+chanes71 folds
+cricri.t calls 30
+raphancy folds
+Warnerman folds
+SpewItRight folds
+sabre_laser folds
+YACK07 calls 15
+smogogolle checks
+*** FLOP *** [2h 7c 6h]
+YACK07 bets 90
+smogogolle folds
+cricri.t calls 90
+*** TURN *** [2h 7c 6h][5h]
+YACK07 bets 135
+cricri.t calls 135
+*** RIVER *** [2h 7c 6h 5h][9s]
+YACK07 bets 360
+cricri.t calls 360
+*** SHOW DOWN ***
+cricri.t shows [Ad 9h] (One pair : 9)
+YACK07 shows [8d 5d] (Straight 9 high)
+YACK07 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [2h 7c 6h 5h 9s]
+Seat 1: cricri.t showed [Ad 9h] and lost with One pair : 9
+Seat 8: YACK07 (small blind) showed [8d 5d] and won 1260 with Straight 9 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #562861696138346497-5-1442439344 - Holdem no limit (15/30) - 2015/09/16 21:35:44 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cricri.t (885)
+Seat 3: raphancy (1480)
+Seat 4: Warnerman (1490)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3645)
+Seat 8: YACK07 (2115)
+Seat 9: smogogolle (1470)
+Seat 10: chanes71 (1500)
+*** ANTE/BLINDS ***
+smogogolle posts small blind 15
+chanes71 posts big blind 30
+Dealt to sabre_laser [9d As]
+*** PRE-FLOP *** 
+cricri.t folds
+raphancy folds
+Warnerman folds
+SpewItRight folds
+sabre_laser raises 60 to 90
+YACK07 folds
+smogogolle folds
+chanes71 raises 360 to 450
+sabre_laser folds
+chanes71 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 10: chanes71 (big blind) won 555
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562861696138346497-6-1442439386 - Holdem no limit (20/40) - 2015/09/16 21:36:26 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #9 is the button
+Seat 1: cricri.t (885)
+Seat 3: raphancy (1480)
+Seat 4: Warnerman (1490)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3555)
+Seat 8: YACK07 (2115)
+Seat 9: smogogolle (1455)
+Seat 10: chanes71 (1605)
+*** ANTE/BLINDS ***
+chanes71 posts small blind 20
+cricri.t posts big blind 40
+Dealt to sabre_laser [Td Js]
+*** PRE-FLOP *** 
+raphancy folds
+Warnerman folds
+SpewItRight folds
+sabre_laser folds
+YACK07 calls 40
+smogogolle folds
+chanes71 calls 20
+cricri.t checks
+*** FLOP *** [4h 9c Jh]
+chanes71 bets 40
+cricri.t folds
+YACK07 calls 40
+*** TURN *** [4h 9c Jh][7c]
+chanes71 checks
+YACK07 checks
+*** RIVER *** [4h 9c Jh 7c][2d]
+chanes71 checks
+YACK07 checks
+*** SHOW DOWN ***
+YACK07 shows [Qd 5d] (High card : Queen)
+chanes71 shows [Ad 9s] (One pair : 9)
+chanes71 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [4h 9c Jh 7c 2d]
+Seat 8: YACK07 showed [Qd 5d] and lost with High card : Queen
+Seat 10: chanes71 (small blind) showed [Ad 9s] and won 200 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562861696138346497-7-1442439489 - Holdem no limit (20/40) - 2015/09/16 21:38:09 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #10 is the button
+Seat 1: cricri.t (845)
+Seat 3: raphancy (1480)
+Seat 4: Warnerman (1490)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3555)
+Seat 8: YACK07 (2035)
+Seat 9: smogogolle (1455)
+Seat 10: chanes71 (1725)
+*** ANTE/BLINDS ***
+cricri.t posts small blind 20
+raphancy posts big blind 40
+Dealt to sabre_laser [9s 8d]
+*** PRE-FLOP *** 
+Warnerman folds
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 160 to 200
+smogogolle folds
+chanes71 folds
+cricri.t folds
+raphancy folds
+YACK07 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 8: YACK07 won 260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #562861696138346497-8-1442439541 - Holdem no limit (20/40) - 2015/09/16 21:39:01 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cricri.t (825)
+Seat 3: raphancy (1440)
+Seat 4: Warnerman (1490)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3555)
+Seat 8: YACK07 (2095)
+Seat 9: smogogolle (1455)
+Seat 10: chanes71 (1725)
+*** ANTE/BLINDS ***
+raphancy posts small blind 20
+Warnerman posts big blind 40
+Dealt to sabre_laser [3d 8c]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 320 to 360
+smogogolle folds
+chanes71 folds
+cricri.t folds
+raphancy folds
+Warnerman raises 1130 to 1490 and is all-in
+YACK07 calls 1130
+*** FLOP *** [5h 4h 5s]
+*** TURN *** [5h 4h 5s][2d]
+*** RIVER *** [5h 4h 5s 2d][2c]
+*** SHOW DOWN ***
+Warnerman shows [Kh Ah] (Two pairs : 5 and 2)
+YACK07 shows [6h 6d] (Two pairs : 6 and 5)
+YACK07 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [5h 4h 5s 2d 2c]
+Seat 4: Warnerman (big blind) showed [Kh Ah] and lost with Two pairs : 5 and 2
+Seat 8: YACK07 showed [6h 6d] and won 3000 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562861696138346497-9-1442439599 - Holdem no limit (30/60) - 2015/09/16 21:39:59 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cricri.t (825)
+Seat 3: raphancy (1420)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3555)
+Seat 8: YACK07 (3605)
+Seat 9: smogogolle (1455)
+Seat 10: chanes71 (1725)
+*** ANTE/BLINDS ***
+SpewItRight posts big blind 60
+Dealt to sabre_laser [Tc 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+YACK07 folds
+smogogolle folds
+chanes71 folds
+cricri.t raises 765 to 825 and is all-in
+raphancy folds
+SpewItRight folds
+cricri.t collected 885 from pot
+*** SUMMARY ***
+Total pot 885 | No rake
+Seat 1: cricri.t won 885
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562861696138346497-10-1442439639 - Holdem no limit (30/60) - 2015/09/16 21:40:39 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #4 is the button
+Seat 1: cricri.t (885)
+Seat 3: raphancy (1420)
+Seat 5: SpewItRight (2355)
+Seat 6: sabre_laser (3555)
+Seat 8: YACK07 (3605)
+Seat 9: smogogolle (1455)
+Seat 10: chanes71 (1725)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [9s 4d]
+*** PRE-FLOP *** 
+YACK07 calls 60
+smogogolle calls 60
+chanes71 folds
+cricri.t folds
+raphancy folds
+SpewItRight folds
+sabre_laser checks
+*** FLOP *** [3h 2c 2s]
+sabre_laser checks
+YACK07 bets 120
+smogogolle calls 120
+sabre_laser folds
+*** TURN *** [3h 2c 2s][Qs]
+YACK07 bets 180
+smogogolle calls 180
+*** RIVER *** [3h 2c 2s Qs][5c]
+YACK07 checks
+smogogolle bets 1095 and is all-in
+YACK07 calls 1095
+*** SHOW DOWN ***
+smogogolle shows [Ac Ah] (Two pairs : Aces and 2)
+YACK07 shows [Ad 4s] (Straight 5 high)
+YACK07 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [3h 2c 2s Qs 5c]
+Seat 8: YACK07 showed [Ad 4s] and won 3000 with Straight 5 high
+Seat 9: smogogolle showed [Ac Ah] and lost with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562861696138346497-11-1442439701 - Holdem no limit (30/60) - 2015/09/16 21:41:41 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cricri.t (885)
+Seat 3: raphancy (1420)
+Seat 5: SpewItRight (2325)
+Seat 6: sabre_laser (3495)
+Seat 8: YACK07 (5150)
+Seat 10: chanes71 (1725)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+YACK07 posts big blind 60
+Dealt to sabre_laser [6h 2d]
+*** PRE-FLOP *** 
+chanes71 folds
+cricri.t folds
+raphancy folds
+SpewItRight raises 2265 to 2325 and is all-in
+sabre_laser folds
+YACK07 folds
+SpewItRight collected 2415 from pot
+*** SUMMARY ***
+Total pot 2415 | No rake
+Seat 5: SpewItRight (button) won 2415
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #562861696138346497-12-1442439727 - Holdem no limit (30/60) - 2015/09/16 21:42:07 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cricri.t (885)
+Seat 3: raphancy (1420)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3465)
+Seat 8: YACK07 (5090)
+Seat 10: chanes71 (1725)
+*** ANTE/BLINDS ***
+YACK07 posts small blind 30
+chanes71 posts big blind 60
+Dealt to sabre_laser [3h 4h]
+*** PRE-FLOP *** 
+cricri.t folds
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+YACK07 calls 30
+chanes71 checks
+*** FLOP *** [Jd 6s Kd]
+YACK07 bets 60
+chanes71 calls 60
+*** TURN *** [Jd 6s Kd][Kh]
+YACK07 bets 120
+chanes71 calls 120
+*** RIVER *** [Jd 6s Kd Kh][2s]
+YACK07 bets 120
+chanes71 calls 120
+*** SHOW DOWN ***
+YACK07 shows [5s 6h] (Two pairs : Kings and 6)
+chanes71 shows [Js 8h] (Two pairs : Kings and Jacks)
+chanes71 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Jd 6s Kd Kh 2s]
+Seat 8: YACK07 (small blind) showed [5s 6h] and lost with Two pairs : Kings and 6
+Seat 10: chanes71 (big blind) showed [Js 8h] and won 720 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #562861696138346497-13-1442439793 - Holdem no limit (40/80) - 2015/09/16 21:43:13 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cricri.t (885)
+Seat 3: raphancy (1420)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3465)
+Seat 8: YACK07 (4730)
+Seat 10: chanes71 (2085)
+*** ANTE/BLINDS ***
+chanes71 posts small blind 40
+cricri.t posts big blind 80
+Dealt to sabre_laser [3d 6h]
+*** PRE-FLOP *** 
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 80 to 160
+chanes71 folds
+cricri.t folds
+YACK07 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 8: YACK07 (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #562861696138346497-14-1442439812 - Holdem no limit (40/80) - 2015/09/16 21:43:32 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #10 is the button
+Seat 1: cricri.t (805)
+Seat 3: raphancy (1420)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3465)
+Seat 8: YACK07 (4850)
+Seat 10: chanes71 (2045)
+*** ANTE/BLINDS ***
+cricri.t posts small blind 40
+raphancy posts big blind 80
+Dealt to sabre_laser [Ac 4s]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser folds
+YACK07 calls 80
+chanes71 folds
+cricri.t folds
+raphancy checks
+*** FLOP *** [Kc 3s Ks]
+raphancy bets 80
+YACK07 calls 80
+*** TURN *** [Kc 3s Ks][6c]
+raphancy bets 80
+YACK07 calls 80
+*** RIVER *** [Kc 3s Ks 6c][6s]
+raphancy bets 80
+YACK07 calls 80
+*** SHOW DOWN ***
+raphancy shows [3c 4c] (Two pairs : Kings and 6)
+YACK07 shows [5c 4d] (Two pairs : Kings and 6)
+YACK07 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Kc 3s Ks 6c 6s]
+Seat 3: raphancy (big blind) showed [3c 4c] and lost with Two pairs : Kings and 6
+Seat 8: YACK07 showed [5c 4d] and won 680 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #562861696138346497-15-1442439850 - Holdem no limit (40/80) - 2015/09/16 21:44:10 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cricri.t (765)
+Seat 3: raphancy (1100)
+Seat 5: SpewItRight (2415)
+Seat 6: sabre_laser (3465)
+Seat 8: YACK07 (5210)
+Seat 10: chanes71 (2045)
+*** ANTE/BLINDS ***
+raphancy posts small blind 40
+SpewItRight posts big blind 80
+Dealt to sabre_laser [9h 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+YACK07 calls 80
+chanes71 folds
+cricri.t folds
+raphancy folds
+SpewItRight checks
+*** FLOP *** [3h 6s 8d]
+SpewItRight checks
+YACK07 bets 160
+SpewItRight folds
+YACK07 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3h 6s 8d]
+Seat 8: YACK07 won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #562861696138346497-16-1442439907 - Holdem no limit (40/80) - 2015/09/16 21:45:07 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cricri.t (765)
+Seat 3: raphancy (1060)
+Seat 5: SpewItRight (2335)
+Seat 6: sabre_laser (3465)
+Seat 8: YACK07 (5330)
+Seat 10: chanes71 (2045)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [5d Qs]
+*** PRE-FLOP *** 
+YACK07 folds
+chanes71 folds
+cricri.t folds
+raphancy folds
+SpewItRight folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: sabre_laser (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562861696138346497-17-1442439931 - Holdem no limit (60/120) - 2015/09/16 21:45:31 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cricri.t (765)
+Seat 3: raphancy (1060)
+Seat 5: SpewItRight (2295)
+Seat 6: sabre_laser (3505)
+Seat 8: YACK07 (5330)
+Seat 10: chanes71 (2045)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+YACK07 posts big blind 120
+Dealt to sabre_laser [Ad Jd]
+*** PRE-FLOP *** 
+chanes71 folds
+cricri.t folds
+raphancy folds
+SpewItRight folds
+sabre_laser raises 180 to 300
+YACK07 folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: sabre_laser (small blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562861696138346497-18-1442439982 - Holdem no limit (60/120) - 2015/09/16 21:46:22 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cricri.t (765)
+Seat 3: raphancy (1060)
+Seat 5: SpewItRight (2295)
+Seat 6: sabre_laser (3625)
+Seat 8: YACK07 (5210)
+Seat 10: chanes71 (2045)
+*** ANTE/BLINDS ***
+YACK07 posts small blind 60
+chanes71 posts big blind 120
+Dealt to sabre_laser [Qs 3d]
+*** PRE-FLOP *** 
+cricri.t raises 645 to 765 and is all-in
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+YACK07 folds
+chanes71 folds
+cricri.t collected 945 from pot
+*** SUMMARY ***
+Total pot 945 | No rake
+Seat 1: cricri.t won 945
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562861696138346497-19-1442440014 - Holdem no limit (60/120) - 2015/09/16 21:46:54 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cricri.t (945)
+Seat 3: raphancy (1060)
+Seat 5: SpewItRight (2295)
+Seat 6: sabre_laser (3625)
+Seat 8: YACK07 (5150)
+Seat 10: chanes71 (1925)
+*** ANTE/BLINDS ***
+chanes71 posts small blind 60
+cricri.t posts big blind 120
+Dealt to sabre_laser [2d Ah]
+*** PRE-FLOP *** 
+raphancy calls 120
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 660 to 780
+chanes71 folds
+cricri.t folds
+raphancy folds
+YACK07 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Seat 8: YACK07 (button) won 1080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562861696138346497-20-1442440049 - Holdem no limit (60/120) - 2015/09/16 21:47:29 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #10 is the button
+Seat 1: cricri.t (825)
+Seat 3: raphancy (940)
+Seat 5: SpewItRight (2295)
+Seat 6: sabre_laser (3625)
+Seat 8: YACK07 (5450)
+Seat 10: chanes71 (1865)
+*** ANTE/BLINDS ***
+cricri.t posts small blind 60
+raphancy posts big blind 120
+Dealt to sabre_laser [Qd 3h]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 480 to 600
+chanes71 folds
+cricri.t folds
+raphancy folds
+YACK07 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 8: YACK07 won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #562861696138346497-21-1442440068 - Holdem no limit (60/120) - 2015/09/16 21:47:48 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cricri.t (765)
+Seat 3: raphancy (820)
+Seat 5: SpewItRight (2295)
+Seat 6: sabre_laser (3625)
+Seat 8: YACK07 (5630)
+Seat 10: chanes71 (1865)
+*** ANTE/BLINDS ***
+raphancy posts small blind 60
+SpewItRight posts big blind 120
+Dealt to sabre_laser [Qd 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+YACK07 raises 120 to 240
+chanes71 folds
+cricri.t folds
+raphancy folds
+SpewItRight folds
+YACK07 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 8: YACK07 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562861696138346497-22-1442440113 - Holdem no limit (80/160) - 2015/09/16 21:48:33 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cricri.t (765)
+Seat 3: raphancy (760)
+Seat 5: SpewItRight (2175)
+Seat 6: sabre_laser (3625)
+Seat 8: YACK07 (5810)
+Seat 10: chanes71 (1865)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [9d Qh]
+*** PRE-FLOP *** 
+YACK07 folds
+chanes71 folds
+cricri.t raises 605 to 765 and is all-in
+raphancy folds
+SpewItRight folds
+sabre_laser calls 605
+*** FLOP *** [6d 6s Jd]
+*** TURN *** [6d 6s Jd][4c]
+*** RIVER *** [6d 6s Jd 4c][3s]
+*** SHOW DOWN ***
+sabre_laser shows [9d Qh] (One pair : 6)
+cricri.t shows [Ts Qs] (One pair : 6)
+cricri.t collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | No rake
+Board: [6d 6s Jd 4c 3s]
+Seat 1: cricri.t showed [Ts Qs] and won 1610 with One pair : 6
+Seat 6: sabre_laser (big blind) showed [9d Qh] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562861696138346497-23-1442440144 - Holdem no limit (80/160) - 2015/09/16 21:49:04 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #5 is the button
+Seat 1: cricri.t (1610)
+Seat 3: raphancy (760)
+Seat 5: SpewItRight (2095)
+Seat 6: sabre_laser (2860)
+Seat 8: YACK07 (5810)
+Seat 10: chanes71 (1865)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+YACK07 posts big blind 160
+Dealt to sabre_laser [7h Ac]
+*** PRE-FLOP *** 
+chanes71 folds
+cricri.t folds
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+YACK07 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: YACK07 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562861696138346497-24-1442440155 - Holdem no limit (80/160) - 2015/09/16 21:49:15 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cricri.t (1610)
+Seat 3: raphancy (760)
+Seat 5: SpewItRight (2095)
+Seat 6: sabre_laser (2780)
+Seat 8: YACK07 (5890)
+Seat 10: chanes71 (1865)
+*** ANTE/BLINDS ***
+YACK07 posts small blind 80
+chanes71 posts big blind 160
+Dealt to sabre_laser [8h 4s]
+*** PRE-FLOP *** 
+cricri.t folds
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 640 to 800
+chanes71 folds
+YACK07 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 8: YACK07 (small blind) won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562861696138346497-25-1442440177 - Holdem no limit (80/160) - 2015/09/16 21:49:37 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cricri.t (1610)
+Seat 3: raphancy (760)
+Seat 5: SpewItRight (2095)
+Seat 6: sabre_laser (2780)
+Seat 8: YACK07 (6050)
+Seat 10: chanes71 (1705)
+*** ANTE/BLINDS ***
+chanes71 posts small blind 80
+cricri.t posts big blind 160
+Dealt to sabre_laser [6c Th]
+*** PRE-FLOP *** 
+raphancy folds
+SpewItRight raises 1935 to 2095 and is all-in
+sabre_laser folds
+YACK07 folds
+chanes71 folds
+cricri.t folds
+SpewItRight collected 2335 from pot
+*** SUMMARY ***
+Total pot 2335 | No rake
+Seat 5: SpewItRight won 2335
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562861696138346497-26-1442440206 - Holdem no limit (80/160) - 2015/09/16 21:50:06 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #10 is the button
+Seat 1: cricri.t (1450)
+Seat 3: raphancy (760)
+Seat 5: SpewItRight (2335)
+Seat 6: sabre_laser (2780)
+Seat 8: YACK07 (6050)
+Seat 10: chanes71 (1625)
+*** ANTE/BLINDS ***
+cricri.t posts small blind 80
+raphancy posts big blind 160
+Dealt to sabre_laser [Jc 3s]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser folds
+YACK07 calls 160
+chanes71 folds
+cricri.t folds
+raphancy checks
+*** FLOP *** [Kd 6h 9d]
+raphancy bets 600 and is all-in
+YACK07 folds
+raphancy collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Kd 6h 9d]
+Seat 3: raphancy (big blind) won 1000
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562861696138346497-27-1442440230 - Holdem no limit (80/160) - 2015/09/16 21:50:30 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cricri.t (1370)
+Seat 3: raphancy (1000)
+Seat 5: SpewItRight (2335)
+Seat 6: sabre_laser (2780)
+Seat 8: YACK07 (5890)
+Seat 10: chanes71 (1625)
+*** ANTE/BLINDS ***
+raphancy posts small blind 80
+SpewItRight posts big blind 160
+Dealt to sabre_laser [5s 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+YACK07 folds
+chanes71 raises 1465 to 1625 and is all-in
+cricri.t folds
+raphancy folds
+SpewItRight folds
+chanes71 collected 1865 from pot
+*** SUMMARY ***
+Total pot 1865 | No rake
+Seat 10: chanes71 won 1865
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #562861696138346497-28-1442440249 - Holdem no limit (80/160) - 2015/09/16 21:50:49 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #3 is the button
+Seat 1: cricri.t (1370)
+Seat 3: raphancy (920)
+Seat 5: SpewItRight (2175)
+Seat 6: sabre_laser (2780)
+Seat 8: YACK07 (5890)
+Seat 10: chanes71 (1865)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Th Js]
+*** PRE-FLOP *** 
+YACK07 folds
+chanes71 folds
+cricri.t raises 1210 to 1370 and is all-in
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+cricri.t collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | No rake
+Seat 1: cricri.t won 1610
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #562861696138346497-42-1442440622 - Holdem no limit (20/150/300) - 2015/09/16 21:57:02 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #6 is the button
+Seat 1: cricri.t (2670)
+Seat 3: raphancy (920)
+Seat 5: SpewItRight (1165)
+Seat 6: sabre_laser (1610)
+Seat 8: YACK07 (6315)
+Seat 10: chanes71 (2320)
+*** ANTE/BLINDS ***
+YACK07 posts ante 20
+chanes71 posts ante 20
+cricri.t posts ante 20
+raphancy posts ante 20
+SpewItRight posts ante 20
+sabre_laser posts ante 20
+YACK07 posts small blind 150
+chanes71 posts big blind 300
+Dealt to sabre_laser [6h 2h]
+*** PRE-FLOP *** 
+cricri.t folds
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+YACK07 calls 150
+chanes71 checks
+*** FLOP *** [5s 3d 5d]
+YACK07 checks
+chanes71 checks
+*** TURN *** [5s 3d 5d][Js]
+YACK07 bets 300
+chanes71 folds
+YACK07 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [5s 3d 5d Js]
+Seat 8: YACK07 (small blind) won 1020
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #562861696138346497-43-1442440668 - Holdem no limit (50/200/400) - 2015/09/16 21:57:48 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #8 is the button
+Seat 1: cricri.t (2650)
+Seat 3: raphancy (900)
+Seat 5: SpewItRight (1145)
+Seat 6: sabre_laser (1590)
+Seat 8: YACK07 (6715)
+Seat 10: chanes71 (2000)
+*** ANTE/BLINDS ***
+chanes71 posts ante 50
+cricri.t posts ante 50
+raphancy posts ante 50
+SpewItRight posts ante 50
+sabre_laser posts ante 50
+YACK07 posts ante 50
+chanes71 posts small blind 200
+cricri.t posts big blind 400
+Dealt to sabre_laser [5c Ks]
+*** PRE-FLOP *** 
+raphancy folds
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 400 to 800
+chanes71 folds
+cricri.t folds
+YACK07 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 8: YACK07 (button) won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #562861696138346497-44-1442440691 - Holdem no limit (50/200/400) - 2015/09/16 21:58:11 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #10 is the button
+Seat 1: cricri.t (2200)
+Seat 3: raphancy (850)
+Seat 5: SpewItRight (1095)
+Seat 6: sabre_laser (1540)
+Seat 8: YACK07 (7565)
+Seat 10: chanes71 (1750)
+*** ANTE/BLINDS ***
+cricri.t posts ante 50
+raphancy posts ante 50
+SpewItRight posts ante 50
+sabre_laser posts ante 50
+YACK07 posts ante 50
+chanes71 posts ante 50
+cricri.t posts small blind 200
+raphancy posts big blind 400
+Dealt to sabre_laser [9d Kc]
+*** PRE-FLOP *** 
+SpewItRight folds
+sabre_laser folds
+YACK07 raises 400 to 800
+chanes71 folds
+cricri.t folds
+raphancy folds
+YACK07 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 8: YACK07 won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #562861696138346497-45-1442440712 - Holdem no limit (50/200/400) - 2015/09/16 21:58:32 UTC
+Table: 'Double or Nothing(131051451)#0' 10-max (real money) Seat #1 is the button
+Seat 1: cricri.t (1950)
+Seat 3: raphancy (400)
+Seat 5: SpewItRight (1045)
+Seat 6: sabre_laser (1490)
+Seat 8: YACK07 (8415)
+Seat 10: chanes71 (1700)
+*** ANTE/BLINDS ***
+raphancy posts ante 50
+SpewItRight posts ante 50
+cricri.t posts ante 50
+sabre_laser posts ante 50
+YACK07 posts ante 50
+chanes71 posts ante 50
+raphancy posts small blind 200
+SpewItRight posts big blind 400
+Dealt to sabre_laser [Qc Qh]
+*** PRE-FLOP *** 
+sabre_laser raises 1040 to 1440 and is all-in
+YACK07 folds
+chanes71 folds
+cricri.t folds
+raphancy calls 150 and is all-in
+SpewItRight calls 595 and is all-in
+*** FLOP *** [7c 4d Tc]
+*** TURN *** [7c 4d Tc][Kc]
+*** RIVER *** [7c 4d Tc Kc][5h]
+*** SHOW DOWN ***
+raphancy shows [Th Ah] (One pair : Tens)
+SpewItRight shows [8d 6c] (Straight 8 high)
+sabre_laser shows [Qc Qh] (One pair : Queens)
+sabre_laser collected 445 from side pot 1
+SpewItRight collected 2640 from main pot
+*** SUMMARY ***
+Total pot 3085 | No rake
+Board: [7c 4d Tc Kc 5h]
+Seat 3: raphancy (small blind) showed [Th Ah] and lost with One pair : Tens
+Seat 5: SpewItRight (big blind) showed [8d 6c] and won 2640 with Straight 8 high
+Seat 6: sabre_laser showed [Qc Qh] and won 445 with One pair : Queens
+
+

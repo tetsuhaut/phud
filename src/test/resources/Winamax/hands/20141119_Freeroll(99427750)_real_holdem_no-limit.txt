@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 15 - HandId: #427038934564864214-37-1416431212 - Holdem no limit (100/500/1000) - 2014/11/19 21:06:52 UTC
+Table: 'Freeroll(99427750)#213' 9-max (real money) Seat #1 is the button
+Seat 1: kiki28700 (9051)
+Seat 2: GuiGui.39 (5294)
+Seat 3: sabre_laser (950)
+Seat 4: Kermit21 (12240)
+Seat 5: Sharony55 (25834)
+Seat 6: M.Gee31 (8541)
+Seat 7: LUKEP72 (8000)
+Seat 8: eirinn33 (6585)
+Seat 9: LudoSab08 (9182)
+*** ANTE/BLINDS ***
+GuiGui.39 posts ante 100
+sabre_laser posts ante 100
+kiki28700 posts ante 100
+Kermit21 posts ante 100
+Sharony55 posts ante 100
+M.Gee31 posts ante 100
+LUKEP72 posts ante 100
+eirinn33 posts ante 100
+LudoSab08 posts ante 100
+GuiGui.39 posts small blind 500
+sabre_laser posts big blind 850 and is all-in
+Dealt to sabre_laser [2h 2d]
+*** PRE-FLOP *** 
+Kermit21 raises 1150 to 2000
+Sharony55 calls 2000
+M.Gee31 folds
+LUKEP72 folds
+eirinn33 folds
+LudoSab08 folds
+kiki28700 folds
+GuiGui.39 folds
+*** FLOP *** [2c 8c 9s]
+Kermit21 checks
+Sharony55 bets 1000
+Kermit21 folds
+*** TURN *** [2c 8c 9s][Ks]
+*** RIVER *** [2c 8c 9s Ks][Ad]
+*** SHOW DOWN ***
+sabre_laser shows [2h 2d] (Trips of 2)
+Sharony55 shows [8d Kd] (Two pairs : Kings and 8)
+Sharony55 collected 3300 from side pot 1
+sabre_laser collected 3950 from main pot
+*** SUMMARY ***
+Total pot 7250 | No rake
+Board: [2c 8c 9s Ks Ad]
+Seat 3: sabre_laser (big blind) showed [2h 2d] and won 3950 with Trips of 2
+Seat 5: Sharony55 showed [8d Kd] and won 3300 with Two pairs : Kings and 8
+

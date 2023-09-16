@@ -1,0 +1,210 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #529665627619590145-1-1435617847 - Holdem no limit (10/20) - 2015/06/29 22:44:07 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(123322389)#0' 6-max (real money) Seat #3 is the button
+Seat 1: PAYEPAS80 (500)
+Seat 2: DriverPanam (500)
+Seat 3: charleskl2 (500)
+Seat 4: Eilat26 (500)
+Seat 5: JOKER-77 (500)
+Seat 6: sabre_laser (500)
+*** ANTE/BLINDS ***
+Eilat26 posts small blind 10
+JOKER-77 posts big blind 20
+Dealt to sabre_laser [5s 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+PAYEPAS80 raises 20 to 40
+DriverPanam folds
+charleskl2 raises 460 to 500 and is all-in
+Eilat26 folds
+JOKER-77 folds
+PAYEPAS80 calls 460 and is all-in
+*** FLOP *** [Ks Kh 2d]
+*** TURN *** [Ks Kh 2d][5h]
+*** RIVER *** [Ks Kh 2d 5h][3h]
+*** SHOW DOWN ***
+charleskl2 shows [6d Jd] (One pair : Kings)
+PAYEPAS80 shows [Ac 8c] (One pair : Kings)
+PAYEPAS80 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [Ks Kh 2d 5h 3h]
+Seat 1: PAYEPAS80 showed [Ac 8c] and won 1030 with One pair : Kings
+Seat 3: charleskl2 (button) showed [6d Jd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #529665627619590145-2-1435617877 - Holdem no limit (10/20) - 2015/06/29 22:44:37 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(123322389)#0' 6-max (real money) Seat #4 is the button
+Seat 1: PAYEPAS80 (1030)
+Seat 2: DriverPanam (500)
+Seat 4: Eilat26 (490)
+Seat 5: JOKER-77 (480)
+Seat 6: sabre_laser (500)
+*** ANTE/BLINDS ***
+JOKER-77 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Jd Qd]
+*** PRE-FLOP *** 
+PAYEPAS80 raises 1010 to 1030 and is all-in
+DriverPanam calls 500 and is all-in
+Eilat26 folds
+JOKER-77 folds
+sabre_laser folds
+*** FLOP *** [6c 9c 8c]
+*** TURN *** [6c 9c 8c][4h]
+*** RIVER *** [6c 9c 8c 4h][3d]
+*** SHOW DOWN ***
+DriverPanam shows [Kc Ac] (Flush Ace high)
+PAYEPAS80 shows [9s 6s] (Two pairs : 9 and 6)
+PAYEPAS80 collected 530 from side pot 1
+DriverPanam collected 1030 from main pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [6c 9c 8c 4h 3d]
+Seat 1: PAYEPAS80 showed [9s 6s] and won 530 with Two pairs : 9 and 6
+Seat 2: DriverPanam showed [Kc Ac] and won 1030 with Flush Ace high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #529665627619590145-3-1435617898 - Holdem no limit (10/20) - 2015/06/29 22:44:58 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(123322389)#0' 6-max (real money) Seat #5 is the button
+Seat 1: PAYEPAS80 (530)
+Seat 2: DriverPanam (1030)
+Seat 4: Eilat26 (490)
+Seat 5: JOKER-77 (470)
+Seat 6: sabre_laser (480)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+PAYEPAS80 posts big blind 20
+Dealt to sabre_laser [9d 6c]
+*** PRE-FLOP *** 
+DriverPanam folds
+Eilat26 folds
+JOKER-77 raises 450 to 470 and is all-in
+sabre_laser folds
+PAYEPAS80 raises 60 to 530 and is all-in
+*** FLOP *** [7h 7c 3s]
+*** TURN *** [7h 7c 3s][Qs]
+*** RIVER *** [7h 7c 3s Qs][9s]
+*** SHOW DOWN ***
+JOKER-77 shows [5c 4h] (One pair : 7)
+PAYEPAS80 shows [5s 2d] (One pair : 7)
+PAYEPAS80 collected 535 from side pot 1
+JOKER-77 collected 475 from main pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [7h 7c 3s Qs 9s]
+Seat 1: PAYEPAS80 (big blind) showed [5s 2d] and won 535 with One pair : 7
+Seat 5: JOKER-77 (button) showed [5c 4h] and won 475 with One pair : 7
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #529665627619590145-4-1435617917 - Holdem no limit (10/20) - 2015/06/29 22:45:17 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(123322389)#0' 6-max (real money) Seat #6 is the button
+Seat 1: PAYEPAS80 (535)
+Seat 2: DriverPanam (1030)
+Seat 4: Eilat26 (490)
+Seat 5: JOKER-77 (475)
+Seat 6: sabre_laser (470)
+*** ANTE/BLINDS ***
+PAYEPAS80 posts small blind 10
+DriverPanam posts big blind 20
+Dealt to sabre_laser [Td Qc]
+*** PRE-FLOP *** 
+Eilat26 folds
+JOKER-77 raises 455 to 475 and is all-in
+sabre_laser folds
+PAYEPAS80 raises 60 to 535 and is all-in
+DriverPanam folds
+*** FLOP *** [5d As Ah]
+*** TURN *** [5d As Ah][3c]
+*** RIVER *** [5d As Ah 3c][Th]
+*** SHOW DOWN ***
+JOKER-77 shows [4s Kc] (One pair : Aces)
+PAYEPAS80 shows [3h 3d] (Full of 3 and Aces)
+PAYEPAS80 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [5d As Ah 3c Th]
+Seat 1: PAYEPAS80 (small blind) showed [3h 3d] and won 1030 with Full of 3 and Aces
+Seat 5: JOKER-77 showed [4s Kc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #529665627619590145-5-1435617942 - Holdem no limit (10/20) - 2015/06/29 22:45:42 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(123322389)#0' 6-max (real money) Seat #1 is the button
+Seat 1: PAYEPAS80 (1030)
+Seat 2: DriverPanam (1010)
+Seat 4: Eilat26 (490)
+Seat 6: sabre_laser (470)
+*** ANTE/BLINDS ***
+DriverPanam posts small blind 10
+Eilat26 posts big blind 20
+Dealt to sabre_laser [Tc 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+PAYEPAS80 raises 1010 to 1030 and is all-in
+DriverPanam folds
+Eilat26 folds
+PAYEPAS80 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 1: PAYEPAS80 (button) won 1060
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #529665627619590145-6-1435617952 - Holdem no limit (10/20) - 2015/06/29 22:45:52 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(123322389)#0' 6-max (real money) Seat #2 is the button
+Seat 1: PAYEPAS80 (1060)
+Seat 2: DriverPanam (1000)
+Seat 4: Eilat26 (470)
+Seat 6: sabre_laser (470)
+*** ANTE/BLINDS ***
+Eilat26 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [8c 4c]
+*** PRE-FLOP *** 
+PAYEPAS80 raises 70 to 90
+DriverPanam calls 90
+Eilat26 calls 80
+sabre_laser folds
+*** FLOP *** [Td As 7h]
+Eilat26 checks
+PAYEPAS80 bets 290
+DriverPanam folds
+Eilat26 folds
+PAYEPAS80 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Td As 7h]
+Seat 1: PAYEPAS80 won 580
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: Ticket only level: 0 - HandId: #529665627619590145-7-1435617978 - Holdem no limit (10/20) - 2015/06/29 22:46:18 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(123322389)#0' 6-max (real money) Seat #4 is the button
+Seat 1: PAYEPAS80 (1260)
+Seat 2: DriverPanam (910)
+Seat 4: Eilat26 (380)
+Seat 6: sabre_laser (450)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+PAYEPAS80 posts big blind 20
+Dealt to sabre_laser [Kh Qd]
+*** PRE-FLOP *** 
+DriverPanam folds
+Eilat26 calls 20
+sabre_laser raises 430 to 450 and is all-in
+PAYEPAS80 calls 430
+Eilat26 calls 360 and is all-in
+*** FLOP *** [Jc 5h 3d]
+*** TURN *** [Jc 5h 3d][Ac]
+*** RIVER *** [Jc 5h 3d Ac][2s]
+*** SHOW DOWN ***
+sabre_laser shows [Kh Qd] (High card : Ace)
+Eilat26 shows [Ad As] (Trips of Aces)
+PAYEPAS80 shows [Ks 5d] (One pair : 5)
+PAYEPAS80 collected 140 from side pot 1
+Eilat26 collected 1140 from main pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [Jc 5h 3d Ac 2s]
+Seat 1: PAYEPAS80 (big blind) showed [Ks 5d] and won 140 with One pair : 5
+Seat 4: Eilat26 (button) showed [Ad As] and won 1140 with Trips of Aces
+Seat 6: sabre_laser (small blind) showed [Kh Qd] and lost with High card : Ace
+
+

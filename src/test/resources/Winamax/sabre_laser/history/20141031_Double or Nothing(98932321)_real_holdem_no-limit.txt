@@ -1,0 +1,2029 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #424911083212374017-1-1414716301 - Holdem no limit (10/20) - 2014/10/31 00:45:01 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: el fouAArat (1500)
+Seat 5: DEEPstef (1500)
+Seat 6: crazypix (1500)
+Seat 7: blackviz (1500)
+Seat 8: romjeresci (1500)
+Seat 9: Smaky98 (1500)
+Seat 10: djembe man (1500)
+*** ANTE/BLINDS ***
+Illuminatiz posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Th 5d]
+*** PRE-FLOP *** 
+el fouAArat folds
+DEEPstef raises 50 to 70
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+djembe man folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+DEEPstef collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 5: DEEPstef won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #424911083212374017-2-1414716333 - Holdem no limit (10/20) - 2014/10/31 00:45:33 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1490)
+Seat 3: sabre_laser (1480)
+Seat 4: el fouAArat (1500)
+Seat 5: DEEPstef (1530)
+Seat 6: crazypix (1500)
+Seat 7: blackviz (1500)
+Seat 8: romjeresci (1500)
+Seat 9: Smaky98 (1500)
+Seat 10: djembe man (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+el fouAArat posts big blind 20
+Dealt to sabre_laser [2s 9s]
+*** PRE-FLOP *** 
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+djembe man raises 80 to 100
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+djembe man collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Seat 10: djembe man won 130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #424911083212374017-3-1414716370 - Holdem no limit (10/20) - 2014/10/31 00:46:10 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1490)
+Seat 3: sabre_laser (1470)
+Seat 4: el fouAArat (1480)
+Seat 5: DEEPstef (1530)
+Seat 6: crazypix (1500)
+Seat 7: blackviz (1500)
+Seat 8: romjeresci (1500)
+Seat 9: Smaky98 (1500)
+Seat 10: djembe man (1530)
+*** ANTE/BLINDS ***
+el fouAArat posts small blind 10
+DEEPstef posts big blind 20
+Dealt to sabre_laser [5c Th]
+*** PRE-FLOP *** 
+crazypix folds
+blackviz raises 40 to 60
+romjeresci folds
+Smaky98 folds
+djembe man folds
+Bordel92 folds
+Illuminatiz calls 60
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+*** FLOP *** [Tc Td 4h]
+blackviz bets 100
+Illuminatiz folds
+blackviz shows [Kc Ks] (Two pairs : Kings and Tens)
+blackviz collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [Tc Td 4h]
+Seat 7: blackviz showed [Kc Ks] and won 250 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #424911083212374017-4-1414716449 - Holdem no limit (10/20) - 2014/10/31 00:47:29 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1430)
+Seat 3: sabre_laser (1470)
+Seat 4: el fouAArat (1470)
+Seat 5: DEEPstef (1510)
+Seat 6: crazypix (1500)
+Seat 7: blackviz (1590)
+Seat 8: romjeresci (1500)
+Seat 9: Smaky98 (1500)
+Seat 10: djembe man (1530)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 10
+crazypix posts big blind 20
+Dealt to sabre_laser [2h 3c]
+*** PRE-FLOP *** 
+blackviz folds
+romjeresci folds
+Smaky98 folds
+djembe man calls 20
+Bordel92 folds
+Illuminatiz calls 20
+sabre_laser folds
+el fouAArat calls 20
+DEEPstef calls 10
+crazypix checks
+*** FLOP *** [Qd 4s Kh]
+DEEPstef checks
+crazypix checks
+djembe man checks
+Illuminatiz checks
+el fouAArat checks
+*** TURN *** [Qd 4s Kh][9s]
+DEEPstef checks
+crazypix checks
+djembe man checks
+Illuminatiz bets 50
+el fouAArat folds
+DEEPstef calls 50
+crazypix folds
+djembe man calls 50
+*** RIVER *** [Qd 4s Kh 9s][As]
+DEEPstef checks
+djembe man checks
+Illuminatiz checks
+*** SHOW DOWN ***
+Illuminatiz shows [Qc Js] (One pair : Queens)
+djembe man shows [9h 8s] (One pair : 9)
+DEEPstef shows [Ah Jh] (One pair : Aces)
+DEEPstef collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [Qd 4s Kh 9s As]
+Seat 2: Illuminatiz showed [Qc Js] and lost with One pair : Queens
+Seat 5: DEEPstef (small blind) showed [Ah Jh] and won 250 with One pair : Aces
+Seat 10: djembe man showed [9h 8s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #424911083212374017-5-1414716583 - Holdem no limit (10/20) - 2014/10/31 00:49:43 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1360)
+Seat 3: sabre_laser (1470)
+Seat 4: el fouAArat (1450)
+Seat 5: DEEPstef (1690)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (1590)
+Seat 8: romjeresci (1500)
+Seat 9: Smaky98 (1500)
+Seat 10: djembe man (1460)
+*** ANTE/BLINDS ***
+crazypix posts small blind 10
+blackviz posts big blind 20
+Dealt to sabre_laser [Js 8h]
+*** PRE-FLOP *** 
+romjeresci folds
+Smaky98 folds
+djembe man calls 20
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz checks
+*** FLOP *** [8c Ad 4c]
+blackviz checks
+djembe man bets 38
+blackviz calls 38
+*** TURN *** [8c Ad 4c][6h]
+blackviz checks
+djembe man bets 126
+blackviz raises 126 to 252
+djembe man calls 126
+*** RIVER *** [8c Ad 4c 6h][Jh]
+blackviz bets 170
+djembe man raises 980 to 1150 and is all-in
+blackviz calls 980
+*** SHOW DOWN ***
+djembe man shows [Ac 5d] (One pair : Aces)
+blackviz shows [Ah 9h] (One pair : Aces)
+blackviz collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Board: [8c Ad 4c 6h Jh]
+Seat 7: blackviz (big blind) showed [Ah 9h] and won 2930 with One pair : Aces
+Seat 10: djembe man showed [Ac 5d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 1 - HandId: #424911083212374017-6-1414716693 - Holdem no limit (15/30) - 2014/10/31 00:51:33 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1360)
+Seat 3: sabre_laser (1470)
+Seat 4: el fouAArat (1450)
+Seat 5: DEEPstef (1690)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (3060)
+Seat 8: romjeresci (1500)
+Seat 9: Smaky98 (1500)
+*** ANTE/BLINDS ***
+blackviz posts small blind 15
+romjeresci posts big blind 30
+Dealt to sabre_laser [7s 5h]
+*** PRE-FLOP *** 
+Smaky98 calls 30
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci checks
+*** FLOP *** [Kc Qh Kh]
+romjeresci checks
+Smaky98 bets 90
+romjeresci calls 90
+*** TURN *** [Kc Qh Kh][2h]
+romjeresci checks
+Smaky98 bets 30
+romjeresci raises 143 to 173
+Smaky98 calls 143
+*** RIVER *** [Kc Qh Kh 2h][3d]
+romjeresci bets 210
+Smaky98 calls 210
+*** SHOW DOWN ***
+Smaky98 shows [6d Kd] (Trips of Kings)
+romjeresci shows [7c Ks] (Trips of Kings)
+romjeresci collected 1021 from pot
+*** SUMMARY ***
+Total pot 1021 | No rake
+Board: [Kc Qh Kh 2h 3d]
+Seat 8: romjeresci (big blind) showed [7c Ks] and won 1021 with Trips of Kings
+Seat 9: Smaky98 showed [6d Kd] and lost with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 1 - HandId: #424911083212374017-7-1414716787 - Holdem no limit (15/30) - 2014/10/31 00:53:07 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1360)
+Seat 3: sabre_laser (1470)
+Seat 4: el fouAArat (1450)
+Seat 5: DEEPstef (1690)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (3045)
+Seat 8: romjeresci (2018)
+Seat 9: Smaky98 (997)
+*** ANTE/BLINDS ***
+romjeresci posts small blind 15
+Smaky98 posts big blind 30
+Dealt to sabre_laser [Jh As]
+*** PRE-FLOP *** 
+Bordel92 folds
+Illuminatiz folds
+sabre_laser raises 45 to 75
+el fouAArat folds
+DEEPstef calls 75
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+*** FLOP *** [3h 2d 4h]
+sabre_laser bets 45
+DEEPstef folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3h 2d 4h]
+Seat 3: sabre_laser won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 1 - HandId: #424911083212374017-8-1414716845 - Holdem no limit (15/30) - 2014/10/31 00:54:05 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Bordel92 (1500)
+Seat 2: Illuminatiz (1360)
+Seat 3: sabre_laser (1590)
+Seat 4: el fouAArat (1450)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (3045)
+Seat 8: romjeresci (2003)
+Seat 9: Smaky98 (967)
+*** ANTE/BLINDS ***
+Smaky98 posts small blind 15
+Bordel92 posts big blind 30
+Dealt to sabre_laser [4d Ad]
+*** PRE-FLOP *** 
+Illuminatiz calls 30
+sabre_laser folds
+el fouAArat calls 30
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci calls 30
+Smaky98 calls 15
+Bordel92 checks
+*** FLOP *** [Jh 8d 4s]
+Smaky98 checks
+Bordel92 checks
+Illuminatiz checks
+el fouAArat checks
+romjeresci bets 113
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+el fouAArat calls 113
+*** TURN *** [Jh 8d 4s][Qs]
+el fouAArat checks
+romjeresci bets 135
+el fouAArat raises 195 to 330
+romjeresci calls 195
+*** RIVER *** [Jh 8d 4s Qs][Js]
+el fouAArat bets 977 and is all-in
+romjeresci calls 977
+*** SHOW DOWN ***
+romjeresci shows [9d Jd] (Trips of Jacks)
+el fouAArat shows [8c 8s] (Full of 8 and Jacks)
+el fouAArat collected 2990 from pot
+*** SUMMARY ***
+Total pot 2990 | No rake
+Board: [Jh 8d 4s Qs Js]
+Seat 4: el fouAArat showed [8c 8s] and won 2990 with Full of 8 and Jacks
+Seat 8: romjeresci (button) showed [9d Jd] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 1 - HandId: #424911083212374017-9-1414716965 - Holdem no limit (15/30) - 2014/10/31 00:56:05 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Bordel92 (1470)
+Seat 2: Illuminatiz (1330)
+Seat 3: sabre_laser (1590)
+Seat 4: el fouAArat (2990)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (3045)
+Seat 8: romjeresci (553)
+Seat 9: Smaky98 (937)
+*** ANTE/BLINDS ***
+Bordel92 posts small blind 15
+Illuminatiz posts big blind 30
+Dealt to sabre_laser [3c Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 calls 30
+Bordel92 folds
+Illuminatiz checks
+*** FLOP *** [3s 9h 6h]
+Illuminatiz checks
+Smaky98 bets 75
+Illuminatiz folds
+Smaky98 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [3s 9h 6h]
+Seat 9: Smaky98 (button) won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 1 - HandId: #424911083212374017-10-1414717001 - Holdem no limit (15/30) - 2014/10/31 00:56:41 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1300)
+Seat 3: sabre_laser (1590)
+Seat 4: el fouAArat (2990)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (3045)
+Seat 8: romjeresci (553)
+Seat 9: Smaky98 (982)
+*** ANTE/BLINDS ***
+Illuminatiz posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Qs 8c]
+*** PRE-FLOP *** 
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz raises 30 to 60
+romjeresci folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser calls 30
+*** FLOP *** [4s 5h Td]
+sabre_laser checks
+blackviz checks
+*** TURN *** [4s 5h Td][Qc]
+sabre_laser bets 60
+blackviz raises 60 to 120
+sabre_laser calls 60
+*** RIVER *** [4s 5h Td Qc][8h]
+sabre_laser checks
+blackviz bets 120
+sabre_laser raises 120 to 240
+blackviz calls 120
+*** SHOW DOWN ***
+blackviz shows [Ac Qh] (One pair : Queens)
+sabre_laser shows [Qs 8c] (Two pairs : Queens and 8)
+sabre_laser collected 855 from pot
+*** SUMMARY ***
+Total pot 855 | No rake
+Board: [4s 5h Td Qc 8h]
+Seat 3: sabre_laser (big blind) showed [Qs 8c] and won 855 with Two pairs : Queens and 8
+Seat 7: blackviz showed [Ac Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #424911083212374017-11-1414717124 - Holdem no limit (20/40) - 2014/10/31 00:58:44 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1285)
+Seat 3: sabre_laser (2025)
+Seat 4: el fouAArat (2990)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (2625)
+Seat 8: romjeresci (553)
+Seat 9: Smaky98 (982)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+el fouAArat posts big blind 40
+Dealt to sabre_laser [Jh Kd]
+*** PRE-FLOP *** 
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci raises 80 to 120
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser raises 360 to 480
+el fouAArat folds
+romjeresci raises 73 to 553 and is all-in
+sabre_laser calls 73
+*** FLOP *** [Ts 8h 4c]
+*** TURN *** [Ts 8h 4c][9d]
+*** RIVER *** [Ts 8h 4c 9d][3h]
+*** SHOW DOWN ***
+sabre_laser shows [Jh Kd] (High card : King)
+romjeresci shows [Ah Qd] (High card : Ace)
+romjeresci collected 1146 from pot
+*** SUMMARY ***
+Total pot 1146 | No rake
+Board: [Ts 8h 4c 9d 3h]
+Seat 3: sabre_laser (small blind) showed [Jh Kd] and lost with High card : King
+Seat 8: romjeresci showed [Ah Qd] and won 1146 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #424911083212374017-12-1414717167 - Holdem no limit (20/40) - 2014/10/31 00:59:27 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1285)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2950)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (2625)
+Seat 8: romjeresci (1146)
+Seat 9: Smaky98 (982)
+*** ANTE/BLINDS ***
+el fouAArat posts small blind 20
+DEEPstef posts big blind 40
+Dealt to sabre_laser [8c 6s]
+*** PRE-FLOP *** 
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 raises 942 to 982 and is all-in
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+Smaky98 collected 1042 from pot
+*** SUMMARY ***
+Total pot 1042 | No rake
+Seat 9: Smaky98 won 1042
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #424911083212374017-13-1414717195 - Holdem no limit (20/40) - 2014/10/31 00:59:55 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1285)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1575)
+Seat 6: crazypix (1470)
+Seat 7: blackviz (2625)
+Seat 8: romjeresci (1146)
+Seat 9: Smaky98 (1042)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 20
+crazypix posts big blind 40
+Dealt to sabre_laser [Js Ac]
+*** PRE-FLOP *** 
+blackviz folds
+romjeresci calls 40
+Smaky98 raises 1002 to 1042 and is all-in
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+romjeresci raises 104 to 1146 and is all-in
+*** FLOP *** [Jc 6s Th]
+*** TURN *** [Jc 6s Th][Qc]
+*** RIVER *** [Jc 6s Th Qc][Tc]
+*** SHOW DOWN ***
+Smaky98 shows [Ts Td] (Quads of Tens)
+romjeresci shows [4d 4s] (Two pairs : Tens and 4)
+romjeresci collected 104 from side pot 1
+Smaky98 collected 2144 from main pot
+*** SUMMARY ***
+Total pot 2248 | No rake
+Board: [Jc 6s Th Qc Tc]
+Seat 8: romjeresci showed [4d 4s] and won 104 with Two pairs : Tens and 4
+Seat 9: Smaky98 showed [Ts Td] and won 2144 with Quads of Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #424911083212374017-14-1414717240 - Holdem no limit (20/40) - 2014/10/31 01:00:40 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1285)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1555)
+Seat 6: crazypix (1430)
+Seat 7: blackviz (2625)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (2144)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+blackviz posts big blind 40
+Dealt to sabre_laser [Jh 6h]
+*** PRE-FLOP *** 
+romjeresci raises 64 to 104 and is all-in
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci collected 164 from pot
+*** SUMMARY ***
+Total pot 164 | No rake
+Seat 8: romjeresci won 164
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #424911083212374017-15-1414717265 - Holdem no limit (20/40) - 2014/10/31 01:01:05 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1285)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1555)
+Seat 6: crazypix (1410)
+Seat 7: blackviz (2585)
+Seat 8: romjeresci (164)
+Seat 9: Smaky98 (2144)
+*** ANTE/BLINDS ***
+blackviz posts small blind 20
+romjeresci posts big blind 40
+Dealt to sabre_laser [Kc Ts]
+*** PRE-FLOP *** 
+Smaky98 calls 40
+Bordel92 folds
+Illuminatiz calls 40
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz calls 20
+romjeresci checks
+*** FLOP *** [6h Ac 9c]
+blackviz checks
+romjeresci checks
+Smaky98 bets 80
+Illuminatiz calls 80
+blackviz folds
+romjeresci folds
+*** TURN *** [6h Ac 9c][7s]
+Smaky98 bets 320
+Illuminatiz calls 320
+*** RIVER *** [6h Ac 9c 7s][Jc]
+Smaky98 checks
+Illuminatiz bets 845 and is all-in
+Smaky98 folds
+Illuminatiz shows [Tc 8c] (Flush Ace high)
+Illuminatiz collected 1805 from pot
+*** SUMMARY ***
+Total pot 1805 | No rake
+Board: [6h Ac 9c 7s Jc]
+Seat 2: Illuminatiz showed [Tc 8c] and won 1805 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #424911083212374017-16-1414717345 - Holdem no limit (20/40) - 2014/10/31 01:02:25 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1805)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1555)
+Seat 6: crazypix (1410)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (124)
+Seat 9: Smaky98 (1704)
+*** ANTE/BLINDS ***
+romjeresci posts small blind 20
+Smaky98 posts big blind 40
+Dealt to sabre_laser [7c 4c]
+*** PRE-FLOP *** 
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef raises 80 to 120
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+DEEPstef collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 5: DEEPstef won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #424911083212374017-17-1414717371 - Holdem no limit (20/40) - 2014/10/31 01:02:51 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Bordel92 (1455)
+Seat 2: Illuminatiz (1805)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1410)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1664)
+*** ANTE/BLINDS ***
+Smaky98 posts small blind 20
+Bordel92 posts big blind 40
+Dealt to sabre_laser [Kc 7h]
+*** PRE-FLOP *** 
+Illuminatiz calls 40
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix raises 240 to 280
+blackviz folds
+romjeresci folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+crazypix collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 6: crazypix won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-18-1414717400 - Holdem no limit (30/60) - 2014/10/31 01:03:20 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Bordel92 (1415)
+Seat 2: Illuminatiz (1765)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1510)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1644)
+*** ANTE/BLINDS ***
+Bordel92 posts small blind 30
+Illuminatiz posts big blind 60
+Dealt to sabre_laser [3h 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Illuminatiz (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-19-1414717433 - Holdem no limit (30/60) - 2014/10/31 01:03:53 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (1795)
+Seat 3: sabre_laser (1472)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1510)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1644)
+*** ANTE/BLINDS ***
+Illuminatiz posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Tc 8c]
+*** PRE-FLOP *** 
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz calls 30
+sabre_laser checks
+*** FLOP *** [8s Ts 6c]
+Illuminatiz bets 80
+sabre_laser calls 80
+*** TURN *** [8s Ts 6c][4d]
+Illuminatiz bets 187
+sabre_laser calls 187
+*** RIVER *** [8s Ts 6c 4d][5d]
+Illuminatiz checks
+sabre_laser checks
+*** SHOW DOWN ***
+Illuminatiz shows [Jd Jh] (One pair : Jacks)
+sabre_laser shows [Tc 8c] (Two pairs : Tens and 8)
+sabre_laser collected 654 from pot
+*** SUMMARY ***
+Total pot 654 | No rake
+Board: [8s Ts 6c 4d 5d]
+Seat 2: Illuminatiz (small blind) showed [Jd Jh] and lost with One pair : Jacks
+Seat 3: sabre_laser (big blind) showed [Tc 8c] and won 654 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-20-1414717496 - Holdem no limit (30/60) - 2014/10/31 01:04:56 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (1468)
+Seat 3: sabre_laser (1799)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1510)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1644)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+el fouAArat posts big blind 60
+Dealt to sabre_laser [8s 3d]
+*** PRE-FLOP *** 
+DEEPstef folds
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: el fouAArat (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-21-1414717514 - Holdem no limit (30/60) - 2014/10/31 01:05:14 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (1468)
+Seat 3: sabre_laser (1769)
+Seat 4: el fouAArat (2960)
+Seat 5: DEEPstef (1615)
+Seat 6: crazypix (1510)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1644)
+*** ANTE/BLINDS ***
+el fouAArat posts small blind 30
+DEEPstef posts big blind 60
+Dealt to sabre_laser [Ah Td]
+*** PRE-FLOP *** 
+crazypix folds
+blackviz folds
+romjeresci folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz calls 60
+sabre_laser raises 180 to 240
+el fouAArat folds
+DEEPstef folds
+Illuminatiz calls 180
+*** FLOP *** [Kh 4h 3c]
+Illuminatiz checks
+sabre_laser checks
+*** TURN *** [Kh 4h 3c][As]
+Illuminatiz checks
+sabre_laser checks
+*** RIVER *** [Kh 4h 3c As][7c]
+Illuminatiz bets 380
+sabre_laser calls 380
+*** SHOW DOWN ***
+sabre_laser shows [Ah Td] (One pair : Aces)
+Illuminatiz shows [Ad Jc] (One pair : Aces)
+Illuminatiz collected 1330 from pot
+*** SUMMARY ***
+Total pot 1330 | No rake
+Board: [Kh 4h 3c As 7c]
+Seat 2: Illuminatiz showed [Ad Jc] and won 1330 with One pair : Aces
+Seat 3: sabre_laser (button) showed [Ah Td] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-22-1414717579 - Holdem no limit (30/60) - 2014/10/31 01:06:19 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (2178)
+Seat 3: sabre_laser (1149)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1555)
+Seat 6: crazypix (1510)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1644)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 30
+crazypix posts big blind 60
+Dealt to sabre_laser [7s 3h]
+*** PRE-FLOP *** 
+blackviz folds
+romjeresci folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz raises 120 to 180
+sabre_laser folds
+el fouAArat folds
+DEEPstef calls 150
+crazypix folds
+*** FLOP *** [7d Ah Th]
+DEEPstef checks
+Illuminatiz checks
+*** TURN *** [7d Ah Th][6h]
+DEEPstef checks
+Illuminatiz checks
+*** RIVER *** [7d Ah Th 6h][6c]
+DEEPstef checks
+Illuminatiz checks
+*** SHOW DOWN ***
+DEEPstef shows [Jh Jd] (Two pairs : Jacks and 6)
+Illuminatiz shows [Qh Qc] (Two pairs : Queens and 6)
+Illuminatiz collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7d Ah Th 6h 6c]
+Seat 2: Illuminatiz showed [Qh Qc] and won 420 with Two pairs : Queens and 6
+Seat 5: DEEPstef (small blind) showed [Jh Jd] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-23-1414717628 - Holdem no limit (30/60) - 2014/10/31 01:07:08 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (2418)
+Seat 3: sabre_laser (1149)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1450)
+Seat 7: blackviz (2545)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1644)
+*** ANTE/BLINDS ***
+crazypix posts small blind 30
+blackviz posts big blind 60
+Dealt to sabre_laser [8h Qc]
+*** PRE-FLOP *** 
+romjeresci folds
+Smaky98 calls 60
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz checks
+*** FLOP *** [6d 5c 4d]
+blackviz checks
+Smaky98 bets 150
+blackviz folds
+Smaky98 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [6d 5c 4d]
+Seat 9: Smaky98 won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-24-1414717664 - Holdem no limit (30/60) - 2014/10/31 01:07:44 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (2418)
+Seat 3: sabre_laser (1149)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1420)
+Seat 7: blackviz (2485)
+Seat 8: romjeresci (104)
+Seat 9: Smaky98 (1734)
+*** ANTE/BLINDS ***
+blackviz posts small blind 30
+romjeresci posts big blind 60
+Dealt to sabre_laser [Th 6s]
+*** PRE-FLOP *** 
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix calls 60
+blackviz calls 30
+romjeresci raises 44 to 104 and is all-in
+crazypix folds
+blackviz calls 44
+*** FLOP *** [8c Ad Kh]
+*** TURN *** [8c Ad Kh][7s]
+*** RIVER *** [8c Ad Kh 7s][5c]
+*** SHOW DOWN ***
+romjeresci shows [5d 6c] (One pair : 5)
+blackviz shows [Tc 8h] (One pair : 8)
+blackviz collected 268 from pot
+*** SUMMARY ***
+Total pot 268 | No rake
+Board: [8c Ad Kh 7s 5c]
+Seat 7: blackviz (small blind) showed [Tc 8h] and won 268 with One pair : 8
+Seat 8: romjeresci (big blind) showed [5d 6c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #424911083212374017-25-1414717709 - Holdem no limit (30/60) - 2014/10/31 01:08:29 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (2418)
+Seat 3: sabre_laser (1149)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1360)
+Seat 7: blackviz (2649)
+Seat 9: Smaky98 (1734)
+*** ANTE/BLINDS ***
+Smaky98 posts big blind 60
+Dealt to sabre_laser [7c 7s]
+*** PRE-FLOP *** 
+Bordel92 folds
+Illuminatiz folds
+sabre_laser raises 60 to 120
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: sabre_laser won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-26-1414717763 - Holdem no limit (40/80) - 2014/10/31 01:09:23 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Bordel92 (1385)
+Seat 2: Illuminatiz (2418)
+Seat 3: sabre_laser (1209)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1360)
+Seat 7: blackviz (2649)
+Seat 9: Smaky98 (1674)
+*** ANTE/BLINDS ***
+Smaky98 posts small blind 40
+Bordel92 posts big blind 80
+Dealt to sabre_laser [Qh Qs]
+*** PRE-FLOP *** 
+Illuminatiz calls 80
+sabre_laser calls 80
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz raises 80 to 160
+Smaky98 folds
+Bordel92 folds
+Illuminatiz calls 80
+sabre_laser raises 1049 to 1209 and is all-in
+blackviz folds
+Illuminatiz folds
+sabre_laser collected 1649 from pot
+*** SUMMARY ***
+Total pot 1649 | No rake
+Seat 3: sabre_laser won 1649
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-27-1414717808 - Holdem no limit (40/80) - 2014/10/31 01:10:08 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Bordel92 (1305)
+Seat 2: Illuminatiz (2258)
+Seat 3: sabre_laser (1649)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1360)
+Seat 7: blackviz (2489)
+Seat 9: Smaky98 (1634)
+*** ANTE/BLINDS ***
+Bordel92 posts small blind 40
+Illuminatiz posts big blind 80
+Dealt to sabre_laser [6d Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix raises 80 to 160
+blackviz folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+crazypix collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: crazypix won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-28-1414717859 - Holdem no limit (40/80) - 2014/10/31 01:10:59 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Bordel92 (1265)
+Seat 2: Illuminatiz (2178)
+Seat 3: sabre_laser (1649)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2489)
+Seat 9: Smaky98 (1634)
+*** ANTE/BLINDS ***
+Illuminatiz posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [6c 9h]
+*** PRE-FLOP *** 
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: sabre_laser (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-29-1414717889 - Holdem no limit (40/80) - 2014/10/31 01:11:29 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Bordel92 (1265)
+Seat 2: Illuminatiz (2138)
+Seat 3: sabre_laser (1689)
+Seat 4: el fouAArat (2930)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2489)
+Seat 9: Smaky98 (1634)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+el fouAArat posts big blind 80
+Dealt to sabre_laser [Kh 8c]
+*** PRE-FLOP *** 
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz calls 80
+sabre_laser calls 40
+el fouAArat checks
+*** FLOP *** [Jh 6c 5d]
+sabre_laser bets 120
+el fouAArat folds
+Illuminatiz folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Jh 6c 5d]
+Seat 3: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-30-1414717930 - Holdem no limit (40/80) - 2014/10/31 01:12:10 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Bordel92 (1265)
+Seat 2: Illuminatiz (2058)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2850)
+Seat 5: DEEPstef (1375)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2489)
+Seat 9: Smaky98 (1634)
+*** ANTE/BLINDS ***
+el fouAArat posts small blind 40
+DEEPstef posts big blind 80
+Dealt to sabre_laser [Ks Qh]
+*** PRE-FLOP *** 
+crazypix folds
+blackviz folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz calls 80
+sabre_laser folds
+el fouAArat folds
+DEEPstef checks
+*** FLOP *** [6c 8c 9d]
+DEEPstef checks
+Illuminatiz bets 100
+DEEPstef folds
+Illuminatiz collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [6c 8c 9d]
+Seat 2: Illuminatiz won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-31-1414717970 - Holdem no limit (40/80) - 2014/10/31 01:12:50 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Bordel92 (1265)
+Seat 2: Illuminatiz (2178)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2810)
+Seat 5: DEEPstef (1295)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2489)
+Seat 9: Smaky98 (1634)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 40
+crazypix posts big blind 80
+Dealt to sabre_laser [2d 9h]
+*** PRE-FLOP *** 
+blackviz folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: crazypix (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-32-1414717996 - Holdem no limit (40/80) - 2014/10/31 01:13:16 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Bordel92 (1265)
+Seat 2: Illuminatiz (2178)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2810)
+Seat 5: DEEPstef (1255)
+Seat 6: crazypix (1520)
+Seat 7: blackviz (2489)
+Seat 9: Smaky98 (1634)
+*** ANTE/BLINDS ***
+crazypix posts small blind 40
+blackviz posts big blind 80
+Dealt to sabre_laser [Jd 8h]
+*** PRE-FLOP *** 
+Smaky98 calls 80
+Bordel92 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz checks
+*** FLOP *** [2s 7c 2h]
+blackviz checks
+Smaky98 checks
+*** TURN *** [2s 7c 2h][Td]
+blackviz checks
+Smaky98 bets 80
+blackviz folds
+Smaky98 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2s 7c 2h Td]
+Seat 9: Smaky98 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #424911083212374017-33-1414718075 - Holdem no limit (40/80) - 2014/10/31 01:14:35 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Bordel92 (1265)
+Seat 2: Illuminatiz (2178)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2810)
+Seat 5: DEEPstef (1255)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2409)
+Seat 9: Smaky98 (1754)
+*** ANTE/BLINDS ***
+blackviz posts small blind 40
+Smaky98 posts big blind 80
+Dealt to sabre_laser [4h Qh]
+*** PRE-FLOP *** 
+Bordel92 folds
+Illuminatiz calls 80
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz calls 40
+Smaky98 checks
+*** FLOP *** [Kc Ts 4s]
+blackviz bets 80
+Smaky98 folds
+Illuminatiz calls 80
+*** TURN *** [Kc Ts 4s][Kh]
+blackviz checks
+Illuminatiz bets 267
+blackviz folds
+Illuminatiz collected 667 from pot
+*** SUMMARY ***
+Total pot 667 | No rake
+Board: [Kc Ts 4s Kh]
+Seat 2: Illuminatiz won 667
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #424911083212374017-34-1414718148 - Holdem no limit (60/120) - 2014/10/31 01:15:48 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Bordel92 (1265)
+Seat 2: Illuminatiz (2418)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2810)
+Seat 5: DEEPstef (1255)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2249)
+Seat 9: Smaky98 (1674)
+*** ANTE/BLINDS ***
+Smaky98 posts small blind 60
+Bordel92 posts big blind 120
+Dealt to sabre_laser [3h 3c]
+*** PRE-FLOP *** 
+Illuminatiz raises 120 to 240
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 folds
+Bordel92 folds
+Illuminatiz shows [Kd Kh] (One pair : Kings)
+Illuminatiz collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: Illuminatiz showed [Kd Kh] and won 420 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #424911083212374017-35-1414718175 - Holdem no limit (60/120) - 2014/10/31 01:16:15 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Bordel92 (1145)
+Seat 2: Illuminatiz (2598)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2810)
+Seat 5: DEEPstef (1255)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2249)
+Seat 9: Smaky98 (1614)
+*** ANTE/BLINDS ***
+Bordel92 posts small blind 60
+Illuminatiz posts big blind 120
+Dealt to sabre_laser [Jd 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz raises 120 to 240
+Smaky98 folds
+Bordel92 folds
+Illuminatiz folds
+blackviz collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 7: blackviz won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #424911083212374017-36-1414718223 - Holdem no limit (60/120) - 2014/10/31 01:17:03 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Bordel92 (1085)
+Seat 2: Illuminatiz (2478)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2810)
+Seat 5: DEEPstef (1255)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2429)
+Seat 9: Smaky98 (1614)
+*** ANTE/BLINDS ***
+Illuminatiz posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [4d 2h]
+*** PRE-FLOP *** 
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 calls 120
+Bordel92 raises 965 to 1085 and is all-in
+Illuminatiz folds
+sabre_laser folds
+Smaky98 calls 965
+*** FLOP *** [Ad 4c Jc]
+*** TURN *** [Ad 4c Jc][6h]
+*** RIVER *** [Ad 4c Jc 6h][3c]
+*** SHOW DOWN ***
+Bordel92 shows [Qc 7s] (High card : Ace)
+Smaky98 shows [7d Ah] (One pair : Aces)
+Smaky98 collected 2350 from pot
+*** SUMMARY ***
+Total pot 2350 | No rake
+Board: [Ad 4c Jc 6h 3c]
+Seat 1: Bordel92 (button) showed [Qc 7s] and lost with High card : Ace
+Seat 9: Smaky98 showed [7d Ah] and won 2350 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #424911083212374017-37-1414718270 - Holdem no limit (60/120) - 2014/10/31 01:17:50 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Illuminatiz (2418)
+Seat 3: sabre_laser (1729)
+Seat 4: el fouAArat (2810)
+Seat 5: DEEPstef (1255)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2429)
+Seat 9: Smaky98 (2879)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+el fouAArat posts big blind 120
+Dealt to sabre_laser [Ac As]
+*** PRE-FLOP *** 
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 folds
+Illuminatiz folds
+sabre_laser raises 120 to 240
+el fouAArat folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #424911083212374017-38-1414718304 - Holdem no limit (60/120) - 2014/10/31 01:18:24 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Illuminatiz (2418)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2690)
+Seat 5: DEEPstef (1255)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2429)
+Seat 9: Smaky98 (2879)
+*** ANTE/BLINDS ***
+el fouAArat posts small blind 60
+DEEPstef posts big blind 120
+Dealt to sabre_laser [Th Kc]
+*** PRE-FLOP *** 
+crazypix folds
+blackviz folds
+Smaky98 folds
+Illuminatiz calls 120
+sabre_laser folds
+el fouAArat calls 60
+DEEPstef checks
+*** FLOP *** [2c 4c 3h]
+el fouAArat checks
+DEEPstef checks
+Illuminatiz checks
+*** TURN *** [2c 4c 3h][9s]
+el fouAArat checks
+DEEPstef checks
+Illuminatiz checks
+*** RIVER *** [2c 4c 3h 9s][Jh]
+el fouAArat checks
+DEEPstef bets 120
+Illuminatiz folds
+el fouAArat folds
+DEEPstef collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2c 4c 3h 9s Jh]
+Seat 5: DEEPstef (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #424911083212374017-39-1414718373 - Holdem no limit (60/120) - 2014/10/31 01:19:33 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Illuminatiz (2298)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2570)
+Seat 5: DEEPstef (1495)
+Seat 6: crazypix (1480)
+Seat 7: blackviz (2429)
+Seat 9: Smaky98 (2879)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [2c 5s]
+*** PRE-FLOP *** 
+blackviz raises 120 to 240
+Smaky98 folds
+Illuminatiz calls 240
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+*** FLOP *** [Jh Kd 7d]
+blackviz bets 330
+Illuminatiz folds
+blackviz collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [Jh Kd 7d]
+Seat 7: blackviz won 990
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #424911083212374017-40-1414718425 - Holdem no limit (60/120) - 2014/10/31 01:20:25 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Illuminatiz (2058)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2570)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1360)
+Seat 7: blackviz (2849)
+Seat 9: Smaky98 (2879)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+blackviz posts big blind 120
+Dealt to sabre_laser [8s Ts]
+*** PRE-FLOP *** 
+Smaky98 calls 120
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz checks
+*** FLOP *** [Kd Qd 9c]
+blackviz checks
+Smaky98 checks
+*** TURN *** [Kd Qd 9c][Qc]
+blackviz checks
+Smaky98 checks
+*** RIVER *** [Kd Qd 9c Qc][2s]
+blackviz checks
+Smaky98 bets 120
+blackviz calls 120
+*** SHOW DOWN ***
+blackviz shows [Ad 7s] (One pair : Queens)
+Smaky98 shows [6s Ac] (One pair : Queens)
+Smaky98 collected 270 from pot
+blackviz collected 270 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Kd Qd 9c Qc 2s]
+Seat 7: blackviz (big blind) showed [Ad 7s] and won 270 with One pair : Queens
+Seat 9: Smaky98 showed [6s Ac] and won 270 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-41-1414718501 - Holdem no limit (80/160) - 2014/10/31 01:21:41 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Illuminatiz (2058)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2570)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1300)
+Seat 7: blackviz (2879)
+Seat 9: Smaky98 (2909)
+*** ANTE/BLINDS ***
+blackviz posts small blind 80
+Smaky98 posts big blind 160
+Dealt to sabre_laser [Kc 8s]
+*** PRE-FLOP *** 
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz raises 160 to 320
+Smaky98 folds
+blackviz collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 7: blackviz (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-42-1414718522 - Holdem no limit (80/160) - 2014/10/31 01:22:02 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Illuminatiz (2058)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2570)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1300)
+Seat 7: blackviz (3039)
+Seat 9: Smaky98 (2749)
+*** ANTE/BLINDS ***
+Smaky98 posts small blind 80
+Illuminatiz posts big blind 160
+Dealt to sabre_laser [9d Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 raises 480 to 640
+Illuminatiz calls 480
+*** FLOP *** [7h 3d 2d]
+Smaky98 bets 1280
+Illuminatiz folds
+Smaky98 collected 2560 from pot
+*** SUMMARY ***
+Total pot 2560 | No rake
+Board: [7h 3d 2d]
+Seat 9: Smaky98 (small blind) won 2560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-43-1414718565 - Holdem no limit (80/160) - 2014/10/31 01:22:45 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Illuminatiz (1418)
+Seat 3: sabre_laser (1849)
+Seat 4: el fouAArat (2570)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1300)
+Seat 7: blackviz (3039)
+Seat 9: Smaky98 (3389)
+*** ANTE/BLINDS ***
+Illuminatiz posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Js Th]
+*** PRE-FLOP *** 
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 folds
+Illuminatiz calls 80
+sabre_laser checks
+*** FLOP *** [6h 7s Jc]
+Illuminatiz checks
+sabre_laser bets 320
+Illuminatiz folds
+sabre_laser collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [6h 7s Jc]
+Seat 3: sabre_laser (big blind) won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-44-1414718606 - Holdem no limit (80/160) - 2014/10/31 01:23:26 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Illuminatiz (1258)
+Seat 3: sabre_laser (2009)
+Seat 4: el fouAArat (2570)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1300)
+Seat 7: blackviz (3039)
+Seat 9: Smaky98 (3389)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+el fouAArat posts big blind 160
+Dealt to sabre_laser [6c 5d]
+*** PRE-FLOP *** 
+DEEPstef folds
+crazypix folds
+blackviz raises 160 to 320
+Smaky98 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+blackviz collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 7: blackviz won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-45-1414718636 - Holdem no limit (80/160) - 2014/10/31 01:23:56 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Illuminatiz (1258)
+Seat 3: sabre_laser (1929)
+Seat 4: el fouAArat (2410)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1300)
+Seat 7: blackviz (3279)
+Seat 9: Smaky98 (3389)
+*** ANTE/BLINDS ***
+el fouAArat posts small blind 80
+DEEPstef posts big blind 160
+Dealt to sabre_laser [Td 7d]
+*** PRE-FLOP *** 
+crazypix folds
+blackviz raises 160 to 320
+Smaky98 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+blackviz shows [Qc Qs] (One pair : Queens)
+blackviz collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 7: blackviz showed [Qc Qs] and won 560 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-46-1414718671 - Holdem no limit (80/160) - 2014/10/31 01:24:31 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Illuminatiz (1258)
+Seat 3: sabre_laser (1929)
+Seat 4: el fouAArat (2330)
+Seat 5: DEEPstef (1275)
+Seat 6: crazypix (1300)
+Seat 7: blackviz (3519)
+Seat 9: Smaky98 (3389)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 80
+crazypix posts big blind 160
+Dealt to sabre_laser [5h 8d]
+*** PRE-FLOP *** 
+blackviz folds
+Smaky98 calls 160
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix checks
+*** FLOP *** [6d Ac Tc]
+crazypix checks
+Smaky98 bets 160
+crazypix folds
+Smaky98 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6d Ac Tc]
+Seat 9: Smaky98 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-47-1414718723 - Holdem no limit (80/160) - 2014/10/31 01:25:23 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Illuminatiz (1258)
+Seat 3: sabre_laser (1929)
+Seat 4: el fouAArat (2330)
+Seat 5: DEEPstef (1195)
+Seat 6: crazypix (1140)
+Seat 7: blackviz (3519)
+Seat 9: Smaky98 (3629)
+*** ANTE/BLINDS ***
+crazypix posts small blind 80
+blackviz posts big blind 160
+Dealt to sabre_laser [Ks 6h]
+*** PRE-FLOP *** 
+Smaky98 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz shows [Tc Td] (One pair : Tens)
+blackviz collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: blackviz (big blind) showed [Tc Td] and won 240 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-48-1414718746 - Holdem no limit (80/160) - 2014/10/31 01:25:46 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Illuminatiz (1258)
+Seat 3: sabre_laser (1929)
+Seat 4: el fouAArat (2330)
+Seat 5: DEEPstef (1195)
+Seat 6: crazypix (1060)
+Seat 7: blackviz (3599)
+Seat 9: Smaky98 (3629)
+*** ANTE/BLINDS ***
+blackviz posts small blind 80
+Smaky98 posts big blind 160
+Dealt to sabre_laser [Js Qc]
+*** PRE-FLOP *** 
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef raises 1035 to 1195 and is all-in
+crazypix folds
+blackviz folds
+Smaky98 folds
+DEEPstef collected 1435 from pot
+*** SUMMARY ***
+Total pot 1435 | No rake
+Seat 5: DEEPstef won 1435
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 6 - HandId: #424911083212374017-49-1414718788 - Holdem no limit (80/160) - 2014/10/31 01:26:28 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Illuminatiz (1258)
+Seat 3: sabre_laser (1929)
+Seat 4: el fouAArat (2330)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1060)
+Seat 7: blackviz (3519)
+Seat 9: Smaky98 (3469)
+*** ANTE/BLINDS ***
+Smaky98 posts small blind 80
+Illuminatiz posts big blind 160
+Dealt to sabre_laser [8d Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 calls 80
+Illuminatiz checks
+*** FLOP *** [Tc Ad As]
+Smaky98 checks
+Illuminatiz checks
+*** TURN *** [Tc Ad As][5c]
+Smaky98 bets 160
+Illuminatiz calls 160
+*** RIVER *** [Tc Ad As 5c][6c]
+Smaky98 bets 160
+Illuminatiz calls 160
+*** SHOW DOWN ***
+Smaky98 shows [Ah 8h] (Trips of Aces)
+Illuminatiz shows [Ac Js] (Trips of Aces)
+Illuminatiz collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Tc Ad As 5c 6c]
+Seat 2: Illuminatiz (big blind) showed [Ac Js] and won 960 with Trips of Aces
+Seat 9: Smaky98 (small blind) showed [Ah 8h] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 7 - HandId: #424911083212374017-50-1414718856 - Holdem no limit (10/100/200) - 2014/10/31 01:27:36 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Illuminatiz (1738)
+Seat 3: sabre_laser (1929)
+Seat 4: el fouAArat (2330)
+Seat 5: DEEPstef (1435)
+Seat 6: crazypix (1060)
+Seat 7: blackviz (3519)
+Seat 9: Smaky98 (2989)
+*** ANTE/BLINDS ***
+Illuminatiz posts ante 10
+sabre_laser posts ante 10
+el fouAArat posts ante 10
+DEEPstef posts ante 10
+crazypix posts ante 10
+blackviz posts ante 10
+Smaky98 posts ante 10
+Illuminatiz posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Ah Ts]
+*** PRE-FLOP *** 
+el fouAArat folds
+DEEPstef folds
+crazypix folds
+blackviz raises 200 to 400
+Smaky98 folds
+Illuminatiz calls 300
+sabre_laser folds
+*** FLOP *** [4s 2d 2s]
+Illuminatiz bets 535
+blackviz folds
+Illuminatiz collected 1605 from pot
+*** SUMMARY ***
+Total pot 1605 | No rake
+Board: [4s 2d 2s]
+Seat 2: Illuminatiz (small blind) won 1605
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 7 - HandId: #424911083212374017-51-1414718907 - Holdem no limit (10/100/200) - 2014/10/31 01:28:27 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Illuminatiz (2398)
+Seat 3: sabre_laser (1719)
+Seat 4: el fouAArat (2320)
+Seat 5: DEEPstef (1425)
+Seat 6: crazypix (1050)
+Seat 7: blackviz (3109)
+Seat 9: Smaky98 (2979)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+el fouAArat posts ante 10
+Illuminatiz posts ante 10
+DEEPstef posts ante 10
+crazypix posts ante 10
+blackviz posts ante 10
+Smaky98 posts ante 10
+sabre_laser posts small blind 100
+el fouAArat posts big blind 200
+Dealt to sabre_laser [Ac 4d]
+*** PRE-FLOP *** 
+DEEPstef folds
+crazypix folds
+blackviz folds
+Smaky98 folds
+Illuminatiz folds
+sabre_laser calls 100
+el fouAArat checks
+*** FLOP *** [Qc 8s 6s]
+sabre_laser bets 200
+el fouAArat folds
+sabre_laser collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Qc 8s 6s]
+Seat 3: sabre_laser (small blind) won 670
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 7 - HandId: #424911083212374017-52-1414718964 - Holdem no limit (10/100/200) - 2014/10/31 01:29:24 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Illuminatiz (2388)
+Seat 3: sabre_laser (1979)
+Seat 4: el fouAArat (2110)
+Seat 5: DEEPstef (1415)
+Seat 6: crazypix (1040)
+Seat 7: blackviz (3099)
+Seat 9: Smaky98 (2969)
+*** ANTE/BLINDS ***
+el fouAArat posts ante 10
+DEEPstef posts ante 10
+Illuminatiz posts ante 10
+sabre_laser posts ante 10
+crazypix posts ante 10
+blackviz posts ante 10
+Smaky98 posts ante 10
+el fouAArat posts small blind 100
+DEEPstef posts big blind 200
+Dealt to sabre_laser [2h Tc]
+*** PRE-FLOP *** 
+crazypix folds
+blackviz folds
+Smaky98 folds
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 5: DEEPstef (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 7 - HandId: #424911083212374017-53-1414718991 - Holdem no limit (10/100/200) - 2014/10/31 01:29:51 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Illuminatiz (2378)
+Seat 3: sabre_laser (1969)
+Seat 4: el fouAArat (2000)
+Seat 5: DEEPstef (1575)
+Seat 6: crazypix (1030)
+Seat 7: blackviz (3089)
+Seat 9: Smaky98 (2959)
+*** ANTE/BLINDS ***
+DEEPstef posts ante 10
+crazypix posts ante 10
+Illuminatiz posts ante 10
+sabre_laser posts ante 10
+el fouAArat posts ante 10
+blackviz posts ante 10
+Smaky98 posts ante 10
+DEEPstef posts small blind 100
+crazypix posts big blind 200
+Dealt to sabre_laser [6h Tc]
+*** PRE-FLOP *** 
+blackviz folds
+Smaky98 folds
+Illuminatiz calls 200
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+crazypix raises 820 to 1020 and is all-in
+Illuminatiz calls 820
+*** FLOP *** [2d 5d Js]
+*** TURN *** [2d 5d Js][5s]
+*** RIVER *** [2d 5d Js 5s][Jh]
+*** SHOW DOWN ***
+crazypix shows [Kc Ad] (Two pairs : Jacks and 5)
+Illuminatiz shows [8d 8c] (Two pairs : Jacks and 8)
+Illuminatiz collected 2210 from pot
+*** SUMMARY ***
+Total pot 2210 | No rake
+Board: [2d 5d Js 5s Jh]
+Seat 2: Illuminatiz showed [8d 8c] and won 2210 with Two pairs : Jacks and 8
+Seat 6: crazypix (big blind) showed [Kc Ad] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 7 - HandId: #424911083212374017-54-1414719048 - Holdem no limit (10/100/200) - 2014/10/31 01:30:48 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #5 is the button
+Seat 2: Illuminatiz (3558)
+Seat 3: sabre_laser (1959)
+Seat 4: el fouAArat (1990)
+Seat 5: DEEPstef (1465)
+Seat 7: blackviz (3079)
+Seat 9: Smaky98 (2949)
+*** ANTE/BLINDS ***
+blackviz posts ante 10
+Illuminatiz posts ante 10
+sabre_laser posts ante 10
+el fouAArat posts ante 10
+DEEPstef posts ante 10
+Smaky98 posts ante 10
+blackviz posts big blind 200
+Dealt to sabre_laser [Jd 8s]
+*** PRE-FLOP *** 
+Smaky98 folds
+Illuminatiz calls 200
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+blackviz checks
+*** FLOP *** [9s 6d Qh]
+blackviz checks
+Illuminatiz checks
+*** TURN *** [9s 6d Qh][Qs]
+blackviz bets 230
+Illuminatiz folds
+blackviz collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [9s 6d Qh Qs]
+Seat 7: blackviz (big blind) won 690
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 7 - HandId: #424911083212374017-55-1414719116 - Holdem no limit (10/100/200) - 2014/10/31 01:31:56 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Illuminatiz (3348)
+Seat 3: sabre_laser (1949)
+Seat 4: el fouAArat (1980)
+Seat 5: DEEPstef (1455)
+Seat 7: blackviz (3329)
+Seat 9: Smaky98 (2939)
+*** ANTE/BLINDS ***
+blackviz posts ante 10
+Smaky98 posts ante 10
+Illuminatiz posts ante 10
+sabre_laser posts ante 10
+el fouAArat posts ante 10
+DEEPstef posts ante 10
+blackviz posts small blind 100
+Smaky98 posts big blind 200
+Dealt to sabre_laser [2h Ks]
+*** PRE-FLOP *** 
+Illuminatiz folds
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+blackviz raises 200 to 400
+Smaky98 calls 200
+*** FLOP *** [9c Kd Jh]
+blackviz bets 430
+Smaky98 raises 1720 to 2150
+blackviz folds
+Smaky98 collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | No rake
+Board: [9c Kd Jh]
+Seat 9: Smaky98 (big blind) won 3440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 8 - HandId: #424911083212374017-56-1414719191 - Holdem no limit (20/150/300) - 2014/10/31 01:33:11 UTC
+Table: 'Double or Nothing(98932321)#0' 10-max (real money) Seat #7 is the button
+Seat 2: Illuminatiz (3338)
+Seat 3: sabre_laser (1939)
+Seat 4: el fouAArat (1970)
+Seat 5: DEEPstef (1445)
+Seat 7: blackviz (2489)
+Seat 9: Smaky98 (3819)
+*** ANTE/BLINDS ***
+Smaky98 posts ante 20
+Illuminatiz posts ante 20
+sabre_laser posts ante 20
+el fouAArat posts ante 20
+DEEPstef posts ante 20
+blackviz posts ante 20
+Smaky98 posts small blind 150
+Illuminatiz posts big blind 300
+Dealt to sabre_laser [Qs 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+el fouAArat folds
+DEEPstef folds
+blackviz raises 300 to 600
+Smaky98 folds
+Illuminatiz calls 300
+*** FLOP *** [7s Tc Ks]
+Illuminatiz bets 735
+blackviz raises 1134 to 1869 and is all-in
+Illuminatiz calls 1134
+*** TURN *** [7s Tc Ks][5s]
+*** RIVER *** [7s Tc Ks 5s][Ad]
+*** SHOW DOWN ***
+blackviz shows [9s Kc] (One pair : Kings)
+Illuminatiz shows [Kh Ac] (Two pairs : Aces and Kings)
+Illuminatiz collected 5208 from pot
+*** SUMMARY ***
+Total pot 5208 | No rake
+Board: [7s Tc Ks 5s Ad]
+Seat 2: Illuminatiz (big blind) showed [Kh Ac] and won 5208 with Two pairs : Aces and Kings
+Seat 7: blackviz (button) showed [9s Kc] and lost with One pair : Kings
+
+

@@ -1,0 +1,944 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563272986501578753-1-1442519790 - Holdem no limit (10/20) - 2015/09/17 19:56:30 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Dullvllav (1500)
+Seat 2: Bosnyone (1500)
+Seat 3: TonyMosh66 (1500)
+Seat 4: burgond (1500)
+Seat 5: raphy77580 (1500)
+Seat 6: baba_au_roi (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: samdil38 (1500)
+Seat 9: flatired (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+raphy77580 posts small blind 10
+baba_au_roi posts big blind 20
+Dealt to sabre_laser [9c Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+samdil38 calls 20
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+TonyMosh66 calls 20
+burgond calls 20
+raphy77580 folds
+baba_au_roi checks
+*** FLOP *** [Td 6h Ts]
+baba_au_roi checks
+samdil38 checks
+TonyMosh66 checks
+burgond checks
+*** TURN *** [Td 6h Ts][7h]
+baba_au_roi checks
+samdil38 bets 50
+TonyMosh66 calls 50
+burgond folds
+baba_au_roi folds
+*** RIVER *** [Td 6h Ts 7h][Kd]
+samdil38 bets 80
+TonyMosh66 folds
+samdil38 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Td 6h Ts 7h Kd]
+Seat 8: samdil38 won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563272986501578753-2-1442519893 - Holdem no limit (10/20) - 2015/09/17 19:58:13 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Dullvllav (1500)
+Seat 2: Bosnyone (1500)
+Seat 3: TonyMosh66 (1430)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1480)
+Seat 7: sabre_laser (1500)
+Seat 8: samdil38 (1620)
+Seat 9: flatired (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+baba_au_roi posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [5d 4s]
+*** PRE-FLOP *** 
+samdil38 calls 20
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone raises 40 to 60
+TonyMosh66 calls 60
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 calls 40
+*** FLOP *** [6d Ts Ac]
+samdil38 checks
+Bosnyone checks
+TonyMosh66 checks
+*** TURN *** [6d Ts Ac][Jc]
+samdil38 checks
+Bosnyone bets 105
+TonyMosh66 calls 105
+samdil38 calls 105
+*** RIVER *** [6d Ts Ac Jc][2d]
+samdil38 checks
+Bosnyone checks
+TonyMosh66 checks
+*** SHOW DOWN ***
+Bosnyone shows [Kc 9c] (High card : Ace)
+TonyMosh66 shows [7s 7d] (One pair : 7)
+samdil38 shows [Ah 8d] (One pair : Aces)
+samdil38 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [6d Ts Ac Jc 2d]
+Seat 2: Bosnyone showed [Kc 9c] and lost with High card : Ace
+Seat 3: TonyMosh66 showed [7s 7d] and lost with One pair : 7
+Seat 8: samdil38 showed [Ah 8d] and won 525 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563272986501578753-3-1442520071 - Holdem no limit (15/30) - 2015/09/17 20:01:11 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Dullvllav (1500)
+Seat 2: Bosnyone (1335)
+Seat 3: TonyMosh66 (1265)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1470)
+Seat 7: sabre_laser (1480)
+Seat 8: samdil38 (1980)
+Seat 9: flatired (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+samdil38 posts big blind 30
+Dealt to sabre_laser [Tc 6h]
+*** PRE-FLOP *** 
+flatired raises 45 to 75
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+TonyMosh66 folds
+burgond folds
+raphy77580 folds
+baba_au_roi calls 75
+sabre_laser folds
+samdil38 calls 45
+*** FLOP *** [2h Jc 6c]
+samdil38 checks
+flatired bets 75
+baba_au_roi folds
+samdil38 folds
+flatired collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [2h Jc 6c]
+Seat 9: flatired won 315
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563272986501578753-4-1442520141 - Holdem no limit (15/30) - 2015/09/17 20:02:21 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Dullvllav (1500)
+Seat 2: Bosnyone (1335)
+Seat 3: TonyMosh66 (1265)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1395)
+Seat 7: sabre_laser (1465)
+Seat 8: samdil38 (1905)
+Seat 9: flatired (1665)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+samdil38 posts small blind 15
+flatired posts big blind 30
+Dealt to sabre_laser [Tc 2s]
+*** PRE-FLOP *** 
+raidden02 folds
+Dullvllav raises 1470 to 1500 and is all-in
+Bosnyone folds
+TonyMosh66 folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 folds
+flatired folds
+Dullvllav collected 1545 from pot
+*** SUMMARY ***
+Total pot 1545 | No rake
+Seat 1: Dullvllav won 1545
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563272986501578753-5-1442520214 - Holdem no limit (20/40) - 2015/09/17 20:03:34 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Dullvllav (1545)
+Seat 2: Bosnyone (1335)
+Seat 3: TonyMosh66 (1265)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1395)
+Seat 7: sabre_laser (1465)
+Seat 8: samdil38 (1890)
+Seat 9: flatired (1635)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+flatired posts small blind 20
+raidden02 posts big blind 40
+Dealt to sabre_laser [4h 6c]
+*** PRE-FLOP *** 
+Dullvllav folds
+Bosnyone folds
+TonyMosh66 folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 calls 40
+flatired calls 20
+raidden02 checks
+*** FLOP *** [9c Ac Td]
+flatired bets 80
+raidden02 folds
+samdil38 folds
+flatired collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [9c Ac Td]
+Seat 9: flatired (small blind) won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563272986501578753-6-1442520291 - Holdem no limit (20/40) - 2015/09/17 20:04:51 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Dullvllav (1545)
+Seat 2: Bosnyone (1335)
+Seat 3: TonyMosh66 (1265)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1395)
+Seat 7: sabre_laser (1465)
+Seat 8: samdil38 (1850)
+Seat 9: flatired (1715)
+Seat 10: raidden02 (1460)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 20
+Dullvllav posts big blind 40
+Dealt to sabre_laser [5s As]
+*** PRE-FLOP *** 
+Bosnyone calls 40
+TonyMosh66 calls 40
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser calls 40
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav checks
+*** FLOP *** [3s Jh 6c]
+Dullvllav bets 180
+Bosnyone folds
+TonyMosh66 folds
+sabre_laser folds
+Dullvllav collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3s Jh 6c]
+Seat 1: Dullvllav (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563272986501578753-7-1442520357 - Holdem no limit (30/60) - 2015/09/17 20:05:57 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Dullvllav (1685)
+Seat 2: Bosnyone (1295)
+Seat 3: TonyMosh66 (1225)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1395)
+Seat 7: sabre_laser (1425)
+Seat 8: samdil38 (1850)
+Seat 9: flatired (1715)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+Dullvllav posts small blind 30
+Bosnyone posts big blind 60
+Dealt to sabre_laser [Ad 2c]
+*** PRE-FLOP *** 
+TonyMosh66 folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 raises 180 to 240
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+samdil38 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 8: samdil38 won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563272986501578753-8-1442520422 - Holdem no limit (30/60) - 2015/09/17 20:07:02 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1235)
+Seat 3: TonyMosh66 (1225)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1395)
+Seat 7: sabre_laser (1425)
+Seat 8: samdil38 (1940)
+Seat 9: flatired (1715)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+Bosnyone posts small blind 30
+TonyMosh66 posts big blind 60
+Dealt to sabre_laser [Ac Kc]
+*** PRE-FLOP *** 
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser raises 90 to 150
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+TonyMosh66 calls 90
+*** FLOP *** [Qd 6d 7s]
+TonyMosh66 checks
+sabre_laser bets 165
+TonyMosh66 folds
+sabre_laser collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [Qd 6d 7s]
+Seat 7: sabre_laser won 495
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563272986501578753-9-1442520515 - Holdem no limit (40/80) - 2015/09/17 20:08:35 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1205)
+Seat 3: TonyMosh66 (1075)
+Seat 4: burgond (1480)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (1395)
+Seat 7: sabre_laser (1605)
+Seat 8: samdil38 (1940)
+Seat 9: flatired (1715)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+TonyMosh66 posts small blind 40
+burgond posts big blind 80
+Dealt to sabre_laser [5h 8h]
+*** PRE-FLOP *** 
+raphy77580 folds
+baba_au_roi raises 80 to 160
+sabre_laser folds
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+TonyMosh66 calls 120
+burgond folds
+*** FLOP *** [Ad Ah 3d]
+TonyMosh66 checks
+baba_au_roi bets 200
+TonyMosh66 calls 200
+*** TURN *** [Ad Ah 3d][9h]
+TonyMosh66 checks
+baba_au_roi bets 1035 and is all-in
+TonyMosh66 calls 715 and is all-in
+*** RIVER *** [Ad Ah 3d 9h][4s]
+*** SHOW DOWN ***
+TonyMosh66 shows [2c Ac] (Trips of Aces)
+baba_au_roi shows [Th As] (Trips of Aces)
+baba_au_roi collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [Ad Ah 3d 9h 4s]
+Seat 3: TonyMosh66 (small blind) showed [2c Ac] and lost with Trips of Aces
+Seat 6: baba_au_roi showed [Th As] and won 2550 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563272986501578753-10-1442520615 - Holdem no limit (40/80) - 2015/09/17 20:10:15 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1205)
+Seat 4: burgond (1400)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (2550)
+Seat 7: sabre_laser (1605)
+Seat 8: samdil38 (1940)
+Seat 9: flatired (1715)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+burgond posts small blind 40
+raphy77580 posts big blind 80
+Dealt to sabre_laser [Tc Ac]
+*** PRE-FLOP *** 
+baba_au_roi folds
+sabre_laser calls 80
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone raises 240 to 320
+burgond folds
+raphy77580 folds
+sabre_laser folds
+Bosnyone collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 2: Bosnyone won 520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563272986501578753-11-1442520665 - Holdem no limit (40/80) - 2015/09/17 20:11:05 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1405)
+Seat 4: burgond (1360)
+Seat 5: raphy77580 (1410)
+Seat 6: baba_au_roi (2550)
+Seat 7: sabre_laser (1525)
+Seat 8: samdil38 (1940)
+Seat 9: flatired (1715)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+raphy77580 posts small blind 40
+baba_au_roi posts big blind 80
+Dealt to sabre_laser [4d Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+burgond folds
+raphy77580 raises 1306 to 1386
+baba_au_roi folds
+raphy77580 collected 1466 from pot
+*** SUMMARY ***
+Total pot 1466 | No rake
+Seat 5: raphy77580 (small blind) won 1466
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563272986501578753-12-1442520716 - Holdem no limit (60/120) - 2015/09/17 20:11:56 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1405)
+Seat 4: burgond (1360)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (2470)
+Seat 7: sabre_laser (1525)
+Seat 8: samdil38 (1940)
+Seat 9: flatired (1715)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+baba_au_roi posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Kd Jc]
+*** PRE-FLOP *** 
+samdil38 folds
+flatired raises 180 to 300
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+flatired collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 9: flatired won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563272986501578753-13-1442520783 - Holdem no limit (60/120) - 2015/09/17 20:13:03 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1405)
+Seat 4: burgond (1360)
+Seat 5: raphy77580 (1490)
+Seat 6: baba_au_roi (2410)
+Seat 7: sabre_laser (1405)
+Seat 8: samdil38 (1940)
+Seat 9: flatired (1895)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+samdil38 posts big blind 120
+Dealt to sabre_laser [Ac 7c]
+*** PRE-FLOP *** 
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone raises 240 to 360
+burgond folds
+raphy77580 raises 1130 to 1490 and is all-in
+baba_au_roi folds
+sabre_laser folds
+samdil38 folds
+Bosnyone folds
+raphy77580 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Seat 5: raphy77580 won 2030
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563272986501578753-14-1442520863 - Holdem no limit (60/120) - 2015/09/17 20:14:23 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1045)
+Seat 4: burgond (1360)
+Seat 5: raphy77580 (2030)
+Seat 6: baba_au_roi (2410)
+Seat 7: sabre_laser (1345)
+Seat 8: samdil38 (1820)
+Seat 9: flatired (1895)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+samdil38 posts small blind 60
+flatired posts big blind 120
+Dealt to sabre_laser [7c 6s]
+*** PRE-FLOP *** 
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+burgond folds
+raphy77580 raises 1910 to 2030 and is all-in
+baba_au_roi folds
+sabre_laser folds
+samdil38 folds
+flatired folds
+raphy77580 collected 2210 from pot
+*** SUMMARY ***
+Total pot 2210 | No rake
+Seat 5: raphy77580 won 2210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563272986501578753-15-1442520912 - Holdem no limit (80/160) - 2015/09/17 20:15:12 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1045)
+Seat 4: burgond (1360)
+Seat 5: raphy77580 (2210)
+Seat 6: baba_au_roi (2410)
+Seat 7: sabre_laser (1345)
+Seat 8: samdil38 (1760)
+Seat 9: flatired (1775)
+Seat 10: raidden02 (1440)
+*** ANTE/BLINDS ***
+flatired posts small blind 80
+raidden02 posts big blind 160
+Dealt to sabre_laser [7c Qs]
+*** PRE-FLOP *** 
+Dullvllav folds
+Bosnyone folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 raises 400 to 560
+flatired folds
+raidden02 folds
+samdil38 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 8: samdil38 (button) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563272986501578753-16-1442520976 - Holdem no limit (80/160) - 2015/09/17 20:16:16 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (1045)
+Seat 4: burgond (1360)
+Seat 5: raphy77580 (2210)
+Seat 6: baba_au_roi (2410)
+Seat 7: sabre_laser (1345)
+Seat 8: samdil38 (2000)
+Seat 9: flatired (1695)
+Seat 10: raidden02 (1280)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 80
+Dullvllav posts big blind 160
+Dealt to sabre_laser [Kh 3d]
+*** PRE-FLOP *** 
+Bosnyone folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 raises 160 to 320
+flatired folds
+raidden02 folds
+Dullvllav folds
+samdil38 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 8: samdil38 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563272986501578753-17-1442521060 - Holdem no limit (10/100/200) - 2015/09/17 20:17:40 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Dullvllav (1495)
+Seat 2: Bosnyone (1045)
+Seat 4: burgond (1360)
+Seat 5: raphy77580 (2210)
+Seat 6: baba_au_roi (2410)
+Seat 7: sabre_laser (1345)
+Seat 8: samdil38 (2240)
+Seat 9: flatired (1695)
+Seat 10: raidden02 (1200)
+*** ANTE/BLINDS ***
+Dullvllav posts ante 10
+Bosnyone posts ante 10
+burgond posts ante 10
+raphy77580 posts ante 10
+baba_au_roi posts ante 10
+sabre_laser posts ante 10
+samdil38 posts ante 10
+flatired posts ante 10
+raidden02 posts ante 10
+Dullvllav posts small blind 100
+Bosnyone posts big blind 200
+Dealt to sabre_laser [2c Kd]
+*** PRE-FLOP *** 
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 calls 200
+flatired raises 300 to 500
+raidden02 folds
+Dullvllav folds
+Bosnyone raises 535 to 1035 and is all-in
+samdil38 folds
+flatired calls 535
+*** FLOP *** [Qc 9d As]
+*** TURN *** [Qc 9d As][4h]
+*** RIVER *** [Qc 9d As 4h][5s]
+*** SHOW DOWN ***
+flatired shows [Kh Tc] (High card : Ace)
+Bosnyone shows [2s 2d] (One pair : 2)
+Bosnyone collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [Qc 9d As 4h 5s]
+Seat 2: Bosnyone (big blind) showed [2s 2d] and won 2460 with One pair : 2
+Seat 9: flatired showed [Kh Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563272986501578753-18-1442521169 - Holdem no limit (10/100/200) - 2015/09/17 20:19:29 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Dullvllav (1385)
+Seat 2: Bosnyone (2460)
+Seat 4: burgond (1350)
+Seat 5: raphy77580 (2200)
+Seat 6: baba_au_roi (2400)
+Seat 7: sabre_laser (1335)
+Seat 8: samdil38 (2030)
+Seat 9: flatired (650)
+Seat 10: raidden02 (1190)
+*** ANTE/BLINDS ***
+Bosnyone posts ante 10
+burgond posts ante 10
+Dullvllav posts ante 10
+raphy77580 posts ante 10
+baba_au_roi posts ante 10
+sabre_laser posts ante 10
+samdil38 posts ante 10
+flatired posts ante 10
+raidden02 posts ante 10
+Bosnyone posts small blind 100
+burgond posts big blind 200
+Dealt to sabre_laser [5d Qh]
+*** PRE-FLOP *** 
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav raises 1175 to 1375 and is all-in
+Bosnyone folds
+burgond folds
+Dullvllav collected 1765 from pot
+*** SUMMARY ***
+Total pot 1765 | No rake
+Seat 1: Dullvllav (button) won 1765
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563272986501578753-19-1442521232 - Holdem no limit (20/150/300) - 2015/09/17 20:20:32 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Dullvllav (1765)
+Seat 2: Bosnyone (2350)
+Seat 4: burgond (1140)
+Seat 5: raphy77580 (2190)
+Seat 6: baba_au_roi (2390)
+Seat 7: sabre_laser (1325)
+Seat 8: samdil38 (2020)
+Seat 9: flatired (640)
+Seat 10: raidden02 (1180)
+*** ANTE/BLINDS ***
+burgond posts ante 20
+raphy77580 posts ante 20
+Dullvllav posts ante 20
+Bosnyone posts ante 20
+baba_au_roi posts ante 20
+sabre_laser posts ante 20
+samdil38 posts ante 20
+flatired posts ante 20
+raidden02 posts ante 20
+burgond posts small blind 150
+raphy77580 posts big blind 300
+Dealt to sabre_laser [4h 6s]
+*** PRE-FLOP *** 
+baba_au_roi folds
+sabre_laser folds
+samdil38 raises 300 to 600
+flatired raises 20 to 620 and is all-in
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+burgond folds
+raphy77580 folds
+samdil38 calls 20
+*** FLOP *** [3s As 3h]
+*** TURN *** [3s As 3h][9s]
+*** RIVER *** [3s As 3h 9s][7h]
+*** SHOW DOWN ***
+samdil38 shows [Kd Jh] (One pair : 3)
+flatired shows [Tc Td] (Two pairs : Tens and 3)
+flatired collected 1870 from pot
+*** SUMMARY ***
+Total pot 1870 | No rake
+Board: [3s As 3h 9s 7h]
+Seat 8: samdil38 showed [Kd Jh] and lost with One pair : 3
+Seat 9: flatired showed [Tc Td] and won 1870 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563272986501578753-20-1442521307 - Holdem no limit (20/150/300) - 2015/09/17 20:21:47 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Dullvllav (1745)
+Seat 2: Bosnyone (2330)
+Seat 4: burgond (970)
+Seat 5: raphy77580 (1870)
+Seat 6: baba_au_roi (2370)
+Seat 7: sabre_laser (1305)
+Seat 8: samdil38 (1380)
+Seat 9: flatired (1870)
+Seat 10: raidden02 (1160)
+*** ANTE/BLINDS ***
+raphy77580 posts ante 20
+baba_au_roi posts ante 20
+Dullvllav posts ante 20
+Bosnyone posts ante 20
+burgond posts ante 20
+sabre_laser posts ante 20
+samdil38 posts ante 20
+flatired posts ante 20
+raidden02 posts ante 20
+raphy77580 posts small blind 150
+baba_au_roi posts big blind 300
+Dealt to sabre_laser [9s Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+burgond raises 650 to 950 and is all-in
+raphy77580 folds
+baba_au_roi folds
+burgond collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 4: burgond (button) won 1580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563272986501578753-21-1442521379 - Holdem no limit (20/150/300) - 2015/09/17 20:22:59 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Dullvllav (1725)
+Seat 2: Bosnyone (2310)
+Seat 4: burgond (1580)
+Seat 5: raphy77580 (1700)
+Seat 6: baba_au_roi (2050)
+Seat 7: sabre_laser (1285)
+Seat 8: samdil38 (1360)
+Seat 9: flatired (1850)
+Seat 10: raidden02 (1140)
+*** ANTE/BLINDS ***
+baba_au_roi posts ante 20
+sabre_laser posts ante 20
+Dullvllav posts ante 20
+Bosnyone posts ante 20
+burgond posts ante 20
+raphy77580 posts ante 20
+samdil38 posts ante 20
+flatired posts ante 20
+raidden02 posts ante 20
+baba_au_roi posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [6d 2h]
+*** PRE-FLOP *** 
+samdil38 folds
+flatired folds
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+burgond raises 1260 to 1560 and is all-in
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+burgond collected 2190 from pot
+*** SUMMARY ***
+Total pot 2190 | No rake
+Seat 4: burgond won 2190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563272986501578753-22-1442521437 - Holdem no limit (50/200/400) - 2015/09/17 20:23:57 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Dullvllav (1705)
+Seat 2: Bosnyone (2290)
+Seat 4: burgond (2190)
+Seat 5: raphy77580 (1680)
+Seat 6: baba_au_roi (1880)
+Seat 7: sabre_laser (965)
+Seat 8: samdil38 (1340)
+Seat 9: flatired (1830)
+Seat 10: raidden02 (1120)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+samdil38 posts ante 50
+Dullvllav posts ante 50
+Bosnyone posts ante 50
+burgond posts ante 50
+raphy77580 posts ante 50
+baba_au_roi posts ante 50
+flatired posts ante 50
+raidden02 posts ante 50
+sabre_laser posts small blind 200
+samdil38 posts big blind 400
+Dealt to sabre_laser [7c 6d]
+*** PRE-FLOP *** 
+flatired raises 1380 to 1780 and is all-in
+raidden02 folds
+Dullvllav folds
+Bosnyone folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 calls 890 and is all-in
+*** FLOP *** [Kd Kc 8d]
+*** TURN *** [Kd Kc 8d][Kh]
+*** RIVER *** [Kd Kc 8d Kh][8c]
+*** SHOW DOWN ***
+samdil38 shows [6s 9d] (Full of Kings and 8)
+flatired shows [As 6c] (Full of Kings and 8)
+flatired collected 2105 from side pot 1
+samdil38 collected 1615 from main pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [Kd Kc 8d Kh 8c]
+Seat 8: samdil38 (big blind) showed [6s 9d] and won 1615 with Full of Kings and 8
+Seat 9: flatired showed [As 6c] and won 2105 with Full of Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563272986501578753-23-1442521465 - Holdem no limit (50/200/400) - 2015/09/17 20:24:25 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Dullvllav (1655)
+Seat 2: Bosnyone (2240)
+Seat 4: burgond (2140)
+Seat 5: raphy77580 (1630)
+Seat 6: baba_au_roi (1830)
+Seat 7: sabre_laser (715)
+Seat 8: samdil38 (1615)
+Seat 9: flatired (2105)
+Seat 10: raidden02 (1070)
+*** ANTE/BLINDS ***
+samdil38 posts ante 50
+flatired posts ante 50
+Dullvllav posts ante 50
+Bosnyone posts ante 50
+burgond posts ante 50
+raphy77580 posts ante 50
+baba_au_roi posts ante 50
+sabre_laser posts ante 50
+raidden02 posts ante 50
+samdil38 posts small blind 200
+flatired posts big blind 400
+Dealt to sabre_laser [Qc 5h]
+*** PRE-FLOP *** 
+raidden02 folds
+Dullvllav raises 1205 to 1605 and is all-in
+Bosnyone folds
+burgond folds
+raphy77580 folds
+baba_au_roi folds
+sabre_laser folds
+samdil38 folds
+flatired folds
+Dullvllav collected 2655 from pot
+*** SUMMARY ***
+Total pot 2655 | No rake
+Seat 1: Dullvllav won 2655
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563272986501578753-24-1442521509 - Holdem no limit (50/200/400) - 2015/09/17 20:25:09 UTC
+Table: 'Double or Nothing(131147212)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Dullvllav (2655)
+Seat 2: Bosnyone (2190)
+Seat 4: burgond (2090)
+Seat 5: raphy77580 (1580)
+Seat 6: baba_au_roi (1780)
+Seat 7: sabre_laser (665)
+Seat 8: samdil38 (1365)
+Seat 9: flatired (1655)
+Seat 10: raidden02 (1020)
+*** ANTE/BLINDS ***
+flatired posts ante 50
+raidden02 posts ante 50
+Dullvllav posts ante 50
+Bosnyone posts ante 50
+burgond posts ante 50
+raphy77580 posts ante 50
+baba_au_roi posts ante 50
+sabre_laser posts ante 50
+samdil38 posts ante 50
+flatired posts small blind 200
+raidden02 posts big blind 400
+Dealt to sabre_laser [Ts 9d]
+*** PRE-FLOP *** 
+Dullvllav folds
+Bosnyone folds
+burgond folds
+raphy77580 folds
+baba_au_roi raises 1330 to 1730 and is all-in
+sabre_laser calls 615 and is all-in
+samdil38 folds
+flatired folds
+raidden02 folds
+*** FLOP *** [4c 7c 7h]
+*** TURN *** [4c 7c 7h][Js]
+*** RIVER *** [4c 7c 7h Js][Jd]
+*** SHOW DOWN ***
+sabre_laser shows [Ts 9d] (Two pairs : Jacks and 7)
+baba_au_roi shows [Ac 6c] (Two pairs : Jacks and 7)
+baba_au_roi collected 3395 from pot
+*** SUMMARY ***
+Total pot 3395 | No rake
+Board: [4c 7c 7h Js Jd]
+Seat 6: baba_au_roi showed [Ac 6c] and won 3395 with Two pairs : Jacks and 7
+Seat 7: sabre_laser showed [Ts 9d] and lost with Two pairs : Jacks and 7
+
+

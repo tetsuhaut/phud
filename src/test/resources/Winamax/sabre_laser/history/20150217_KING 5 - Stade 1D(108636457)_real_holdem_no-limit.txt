@@ -1,0 +1,6105 @@
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 0 - HandId: #466590029968310338-1-1424200527 - Holdem no limit (10/20) - 2015/02/17 19:15:27 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #9 is the button
+Seat 1: JULIEN1984 x (4000)
+Seat 2: Egeira (4000)
+Seat 3: sabre_laser (4000)
+Seat 4: Yolth (4000)
+Seat 5: SURVIVOR01 (4000)
+Seat 6: fafou1981 (4000)
+Seat 7: Gofly (4000)
+Seat 8: Chaoui13005 (4000)
+Seat 9: mordok (4000)
+*** ANTE/BLINDS ***
+JULIEN1984 x posts small blind 10
+Egeira posts big blind 20
+Dealt to sabre_laser [4d Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+Yolth folds
+SURVIVOR01 folds
+fafou1981 folds
+Gofly folds
+Chaoui13005 folds
+mordok raises 40 to 60
+JULIEN1984 x folds
+Egeira folds
+mordok collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: mordok (button) won 90
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 0 - HandId: #466590029968310338-2-1424200572 - Holdem no limit (10/20) - 2015/02/17 19:16:12 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #1 is the button
+Seat 1: JULIEN1984 x (3990)
+Seat 2: Egeira (3980)
+Seat 3: sabre_laser (4000)
+Seat 4: Yolth (4000)
+Seat 5: SURVIVOR01 (4000)
+Seat 6: fafou1981 (4000)
+Seat 7: Gofly (4000)
+Seat 8: Chaoui13005 (4000)
+*** ANTE/BLINDS ***
+Egeira posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2c 8s]
+*** PRE-FLOP *** 
+Yolth calls 20
+SURVIVOR01 folds
+fafou1981 folds
+Gofly folds
+Chaoui13005 folds
+JULIEN1984 x folds
+Egeira folds
+sabre_laser checks
+*** FLOP *** [Th 2d Kc]
+sabre_laser bets 50
+Yolth calls 50
+*** TURN *** [Th 2d Kc][3d]
+sabre_laser checks
+Yolth checks
+*** RIVER *** [Th 2d Kc 3d][Qc]
+sabre_laser checks
+Yolth checks
+*** SHOW DOWN ***
+sabre_laser shows [2c 8s] (One pair : 2)
+Yolth shows [Jh Qs] (One pair : Queens)
+Yolth collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Th 2d Kc 3d Qc]
+Seat 3: sabre_laser (big blind) showed [2c 8s] and lost with One pair : 2
+Seat 4: Yolth showed [Jh Qs] and won 150 with One pair : Queens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 0 - HandId: #466590029968310338-3-1424200666 - Holdem no limit (10/20) - 2015/02/17 19:17:46 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #2 is the button
+Seat 1: JULIEN1984 x (3990)
+Seat 2: Egeira (3970)
+Seat 3: sabre_laser (3930)
+Seat 4: Yolth (4080)
+Seat 5: SURVIVOR01 (4000)
+Seat 6: fafou1981 (4000)
+Seat 7: Gofly (4000)
+Seat 8: philispiate (3940)
+Seat 9: ELbetER (3980)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Yolth posts big blind 20
+Dealt to sabre_laser [Kd As]
+*** PRE-FLOP *** 
+SURVIVOR01 folds
+fafou1981 folds
+Gofly folds
+philispiate folds
+ELbetER folds
+JULIEN1984 x folds
+Egeira folds
+sabre_laser raises 20 to 40
+Yolth calls 20
+*** FLOP *** [Ad Tc Js]
+sabre_laser checks
+Yolth checks
+*** TURN *** [Ad Tc Js][Ts]
+sabre_laser checks
+Yolth checks
+*** RIVER *** [Ad Tc Js Ts][4s]
+sabre_laser bets 80
+Yolth folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ad Tc Js Ts 4s]
+Seat 3: sabre_laser (small blind) won 160
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 0 - HandId: #466590029968310338-4-1424200751 - Holdem no limit (10/20) - 2015/02/17 19:19:11 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #3 is the button
+Seat 1: JULIEN1984 x (3990)
+Seat 2: Egeira (3970)
+Seat 3: sabre_laser (3970)
+Seat 4: Yolth (4040)
+Seat 5: SURVIVOR01 (4000)
+Seat 6: fafou1981 (4000)
+Seat 7: Gofly (4000)
+Seat 8: philispiate (3940)
+Seat 9: ELbetER (3980)
+*** ANTE/BLINDS ***
+Yolth posts small blind 10
+SURVIVOR01 posts big blind 20
+Dealt to sabre_laser [9d 4c]
+*** PRE-FLOP *** 
+fafou1981 calls 20
+Gofly calls 20
+philispiate folds
+ELbetER folds
+JULIEN1984 x folds
+Egeira folds
+sabre_laser folds
+Yolth folds
+SURVIVOR01 checks
+*** FLOP *** [Kd Ah 8c]
+SURVIVOR01 checks
+fafou1981 checks
+Gofly checks
+*** TURN *** [Kd Ah 8c][4s]
+SURVIVOR01 bets 20
+fafou1981 raises 30 to 50
+Gofly folds
+SURVIVOR01 calls 30
+*** RIVER *** [Kd Ah 8c 4s][Ad]
+SURVIVOR01 checks
+fafou1981 checks
+*** SHOW DOWN ***
+fafou1981 shows [3s 3d] (Two pairs : Aces and 3)
+SURVIVOR01 shows [Kh 3c] (Two pairs : Aces and Kings)
+SURVIVOR01 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Kd Ah 8c 4s Ad]
+Seat 5: SURVIVOR01 (big blind) showed [Kh 3c] and won 170 with Two pairs : Aces and Kings
+Seat 6: fafou1981 showed [3s 3d] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 0 - HandId: #466590029968310338-5-1424200851 - Holdem no limit (10/20) - 2015/02/17 19:20:51 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #4 is the button
+Seat 1: JULIEN1984 x (3990)
+Seat 2: Egeira (3970)
+Seat 3: sabre_laser (3970)
+Seat 4: Yolth (4030)
+Seat 5: SURVIVOR01 (4100)
+Seat 6: fafou1981 (3930)
+Seat 7: Soraider (3990)
+Seat 8: philispiate (3940)
+Seat 9: ELbetER (3980)
+*** ANTE/BLINDS ***
+SURVIVOR01 posts small blind 10
+fafou1981 posts big blind 20
+Dealt to sabre_laser [7h Tc]
+*** PRE-FLOP *** 
+Soraider folds
+philispiate raises 30 to 50
+ELbetER folds
+JULIEN1984 x folds
+Egeira folds
+sabre_laser folds
+Yolth folds
+SURVIVOR01 folds
+fafou1981 folds
+philispiate collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 8: philispiate won 80
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 0 - HandId: #466590029968310338-6-1424200902 - Holdem no limit (10/20) - 2015/02/17 19:21:42 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #5 is the button
+Seat 1: JULIEN1984 x (3990)
+Seat 2: Egeira (3970)
+Seat 3: sabre_laser (3970)
+Seat 4: Yolth (4030)
+Seat 5: SURVIVOR01 (4090)
+Seat 6: fafou1981 (3910)
+Seat 7: Soraider (3990)
+Seat 8: philispiate (3970)
+Seat 9: ELbetER (3980)
+*** ANTE/BLINDS ***
+fafou1981 posts small blind 10
+Soraider posts big blind 20
+Dealt to sabre_laser [5h Tc]
+*** PRE-FLOP *** 
+philispiate folds
+ELbetER folds
+JULIEN1984 x folds
+Egeira folds
+sabre_laser folds
+Yolth folds
+SURVIVOR01 folds
+fafou1981 folds
+Soraider collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 7: Soraider (big blind) won 30
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 0 - HandId: #466590029968310338-7-1424200930 - Holdem no limit (10/20) - 2015/02/17 19:22:10 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #6 is the button
+Seat 1: JULIEN1984 x (3990)
+Seat 2: Egeira (3970)
+Seat 3: sabre_laser (3970)
+Seat 4: Yolth (4030)
+Seat 5: SURVIVOR01 (4090)
+Seat 6: Jizzer (3910)
+Seat 7: Soraider (4000)
+Seat 8: philispiate (3970)
+Seat 9: ELbetER (3980)
+*** ANTE/BLINDS ***
+Soraider posts small blind 10
+philispiate posts big blind 20
+Dealt to sabre_laser [Ah 8d]
+*** PRE-FLOP *** 
+ELbetER folds
+JULIEN1984 x folds
+Egeira folds
+sabre_laser raises 40 to 60
+Yolth folds
+SURVIVOR01 folds
+Soraider folds
+philispiate calls 40
+*** FLOP *** [2d 4c 5s]
+philispiate checks
+sabre_laser bets 98
+philispiate calls 98
+*** TURN *** [2d 4c 5s][Qc]
+philispiate checks
+sabre_laser bets 245
+philispiate calls 245
+*** RIVER *** [2d 4c 5s Qc][9s]
+philispiate checks
+sabre_laser checks
+*** SHOW DOWN ***
+philispiate shows [3s 7s] (High card : Queen)
+sabre_laser shows [Ah 8d] (High card : Ace)
+sabre_laser collected 816 from pot
+*** SUMMARY ***
+Total pot 816 | No rake
+Board: [2d 4c 5s Qc 9s]
+Seat 3: sabre_laser showed [Ah 8d] and won 816 with High card : Ace
+Seat 8: philispiate (big blind) showed [3s 7s] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 1 - HandId: #466590029968310338-8-1424201053 - Holdem no limit (15/30) - 2015/02/17 19:24:13 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #7 is the button
+Seat 1: JULIEN1984 x (3990)
+Seat 2: Egeira (3970)
+Seat 3: sabre_laser (4383)
+Seat 4: Yolth (4030)
+Seat 5: SURVIVOR01 (4090)
+Seat 6: Jizzer (3910)
+Seat 7: Soraider (3990)
+Seat 8: philispiate (3567)
+Seat 9: ELbetER (3980)
+*** ANTE/BLINDS ***
+philispiate posts small blind 15
+ELbetER posts big blind 30
+Dealt to sabre_laser [Ac 2c]
+*** PRE-FLOP *** 
+JULIEN1984 x raises 45 to 75
+Egeira folds
+sabre_laser calls 75
+Yolth folds
+SURVIVOR01 raises 135 to 210
+Jizzer folds
+Soraider folds
+philispiate folds
+ELbetER folds
+JULIEN1984 x calls 135
+sabre_laser folds
+*** FLOP *** [4c 9h 8d]
+JULIEN1984 x checks
+SURVIVOR01 bets 225
+JULIEN1984 x raises 383 to 608
+SURVIVOR01 calls 383
+*** TURN *** [4c 9h 8d][9d]
+JULIEN1984 x checks
+SURVIVOR01 checks
+*** RIVER *** [4c 9h 8d 9d][5c]
+JULIEN1984 x bets 1200
+SURVIVOR01 folds
+JULIEN1984 x collected 2956 from pot
+*** SUMMARY ***
+Total pot 2956 | No rake
+Board: [4c 9h 8d 9d 5c]
+Seat 1: JULIEN1984 x won 2956
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 1 - HandId: #466590029968310338-9-1424201141 - Holdem no limit (15/30) - 2015/02/17 19:25:41 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #8 is the button
+Seat 1: JULIEN1984 x (4928)
+Seat 2: Egeira (3970)
+Seat 3: sabre_laser (4308)
+Seat 4: Yolth (4030)
+Seat 5: le neuveu (2660)
+Seat 6: Jizzer (3910)
+Seat 7: Soraider (3990)
+Seat 8: philispiate (3552)
+Seat 9: ELbetER (3950)
+*** ANTE/BLINDS ***
+ELbetER posts small blind 15
+JULIEN1984 x posts big blind 30
+Dealt to sabre_laser [9c 2d]
+*** PRE-FLOP *** 
+Egeira calls 30
+sabre_laser folds
+Yolth folds
+le neuveu folds
+Jizzer folds
+Soraider folds
+philispiate folds
+ELbetER folds
+JULIEN1984 x checks
+*** FLOP *** [8h 3c Ad]
+JULIEN1984 x checks
+Egeira checks
+*** TURN *** [8h 3c Ad][Ts]
+JULIEN1984 x bets 50
+Egeira folds
+JULIEN1984 x collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [8h 3c Ad Ts]
+Seat 1: JULIEN1984 x (big blind) won 125
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 1 - HandId: #466590029968310338-10-1424201182 - Holdem no limit (15/30) - 2015/02/17 19:26:22 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #9 is the button
+Seat 1: JULIEN1984 x (4973)
+Seat 2: Egeira (3940)
+Seat 3: sabre_laser (4308)
+Seat 4: DaV2k (4000)
+Seat 5: le neuveu (2660)
+Seat 6: Jizzer (3910)
+Seat 7: Soraider (3990)
+Seat 8: philispiate (3552)
+Seat 9: ELbetER (3935)
+*** ANTE/BLINDS ***
+JULIEN1984 x posts small blind 15
+Egeira posts big blind 30
+Dealt to sabre_laser [Jd 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+DaV2k folds
+le neuveu folds
+Jizzer folds
+Soraider raises 120 to 150
+philispiate folds
+ELbetER folds
+JULIEN1984 x calls 135
+Egeira folds
+*** FLOP *** [7h 5h 8h]
+JULIEN1984 x checks
+Soraider bets 220
+JULIEN1984 x folds
+Soraider collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [7h 5h 8h]
+Seat 7: Soraider won 550
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 1 - HandId: #466590029968310338-11-1424201277 - Holdem no limit (15/30) - 2015/02/17 19:27:57 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #1 is the button
+Seat 1: JULIEN1984 x (4823)
+Seat 2: Egeira (3910)
+Seat 3: sabre_laser (4308)
+Seat 4: DaV2k (4000)
+Seat 5: le neuveu (2660)
+Seat 6: Jizzer (3910)
+Seat 7: Soraider (4170)
+Seat 8: philispiate (3552)
+Seat 9: ELbetER (3935)
+*** ANTE/BLINDS ***
+Egeira posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [4d 2s]
+*** PRE-FLOP *** 
+DaV2k folds
+le neuveu folds
+Jizzer folds
+Soraider folds
+philispiate folds
+ELbetER raises 60 to 90
+JULIEN1984 x folds
+Egeira folds
+sabre_laser folds
+ELbetER collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 9: ELbetER won 135
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 1 - HandId: #466590029968310338-12-1424201316 - Holdem no limit (15/30) - 2015/02/17 19:28:36 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #2 is the button
+Seat 1: JULIEN1984 x (4823)
+Seat 2: Egeira (3895)
+Seat 3: sabre_laser (4278)
+Seat 4: DaV2k (4000)
+Seat 5: le neuveu (2660)
+Seat 6: Jizzer (3910)
+Seat 7: Soraider (4170)
+Seat 8: philispiate (3552)
+Seat 9: ELbetER (3980)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+DaV2k posts big blind 30
+Dealt to sabre_laser [Th 4h]
+*** PRE-FLOP *** 
+le neuveu raises 30 to 60
+Jizzer folds
+Soraider folds
+philispiate folds
+ELbetER raises 60 to 120
+JULIEN1984 x folds
+Egeira folds
+sabre_laser folds
+DaV2k folds
+le neuveu calls 60
+*** FLOP *** [5c 4d 6s]
+le neuveu checks
+ELbetER bets 190
+le neuveu calls 190
+*** TURN *** [5c 4d 6s][Tc]
+le neuveu checks
+ELbetER bets 480
+le neuveu folds
+ELbetER collected 1145 from pot
+*** SUMMARY ***
+Total pot 1145 | No rake
+Board: [5c 4d 6s Tc]
+Seat 9: ELbetER won 1145
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 1 - HandId: #466590029968310338-13-1424201448 - Holdem no limit (15/30) - 2015/02/17 19:30:48 UTC
+Table: 'KING 5 - Stade 1D(108636457)#065' 9-max (real money) Seat #3 is the button
+Seat 1: JULIEN1984 x (4823)
+Seat 2: Egeira (3895)
+Seat 3: sabre_laser (4263)
+Seat 4: DaV2k (3970)
+Seat 5: le neuveu (2350)
+Seat 6: Jizzer (3910)
+Seat 7: Soraider (4170)
+Seat 8: philispiate (3552)
+Seat 9: ELbetER (4335)
+*** ANTE/BLINDS ***
+DaV2k posts small blind 15
+le neuveu posts big blind 30
+Dealt to sabre_laser [4d 8h]
+*** PRE-FLOP *** 
+Jizzer folds
+Soraider folds
+philispiate folds
+ELbetER folds
+JULIEN1984 x folds
+Egeira folds
+sabre_laser folds
+DaV2k raises 30 to 60
+le neuveu raises 120 to 180
+DaV2k folds
+le neuveu collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: le neuveu (big blind) won 240
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 1 - HandId: #466590029968310434-15-1424201482 - Holdem no limit (15/30) - 2015/02/17 19:31:22 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #2 is the button
+Seat 1: MrCioldez (3593)
+Seat 2: chtom60 (3895)
+Seat 3: krus59 (3271)
+Seat 4: sabre_laser (4263)
+Seat 5: belikemike (3825)
+Seat 6: Supasow (3700)
+Seat 7: aNsVegas (4434)
+Seat 8: C.Rocancourt (3925)
+Seat 9: 7-Max-7 (3494)
+*** ANTE/BLINDS ***
+krus59 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [2d Th]
+*** PRE-FLOP *** 
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez raises 90 to 120
+chtom60 folds
+krus59 calls 105
+sabre_laser folds
+*** FLOP *** [6c Ks 4h]
+krus59 checks
+MrCioldez bets 180
+krus59 calls 180
+*** TURN *** [6c Ks 4h][Ah]
+krus59 checks
+MrCioldez bets 630
+krus59 folds
+MrCioldez collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [6c Ks 4h Ah]
+Seat 1: MrCioldez won 1260
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-16-1424201544 - Holdem no limit (20/40) - 2015/02/17 19:32:24 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #3 is the button
+Seat 1: MrCioldez (3923)
+Seat 2: chtom60 (3895)
+Seat 3: krus59 (2971)
+Seat 4: sabre_laser (4233)
+Seat 5: belikemike (3825)
+Seat 6: Supasow (3700)
+Seat 7: aNsVegas (4434)
+Seat 8: C.Rocancourt (3925)
+Seat 9: 7-Max-7 (3494)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+belikemike posts big blind 40
+Dealt to sabre_laser [9s Qh]
+*** PRE-FLOP *** 
+Supasow calls 40
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez folds
+chtom60 folds
+krus59 folds
+sabre_laser raises 80 to 120
+belikemike folds
+Supasow calls 80
+*** FLOP *** [Jc Th 3c]
+sabre_laser bets 140
+Supasow folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jc Th 3c]
+Seat 4: sabre_laser (small blind) won 420
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-17-1424201610 - Holdem no limit (20/40) - 2015/02/17 19:33:30 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #4 is the button
+Seat 1: MrCioldez (3923)
+Seat 2: chtom60 (3895)
+Seat 3: krus59 (2971)
+Seat 4: sabre_laser (4393)
+Seat 5: belikemike (3785)
+Seat 6: Supasow (3580)
+Seat 7: aNsVegas (4434)
+Seat 8: C.Rocancourt (3925)
+Seat 9: 7-Max-7 (3494)
+*** ANTE/BLINDS ***
+belikemike posts small blind 20
+Supasow posts big blind 40
+Dealt to sabre_laser [6c 5s]
+*** PRE-FLOP *** 
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez raises 40 to 80
+chtom60 folds
+krus59 calls 80
+sabre_laser folds
+belikemike folds
+Supasow folds
+*** FLOP *** [6s 3h 6d]
+MrCioldez checks
+krus59 bets 120
+MrCioldez calls 120
+*** TURN *** [6s 3h 6d][2h]
+MrCioldez bets 306
+krus59 folds
+MrCioldez collected 766 from pot
+*** SUMMARY ***
+Total pot 766 | No rake
+Board: [6s 3h 6d 2h]
+Seat 1: MrCioldez won 766
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-18-1424201670 - Holdem no limit (20/40) - 2015/02/17 19:34:30 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #5 is the button
+Seat 1: MrCioldez (4183)
+Seat 2: chtom60 (3895)
+Seat 3: raito28 (3740)
+Seat 4: sabre_laser (4393)
+Seat 5: belikemike (3765)
+Seat 6: Supasow (3540)
+Seat 7: aNsVegas (4434)
+Seat 8: C.Rocancourt (3925)
+Seat 9: 7-Max-7 (3494)
+*** ANTE/BLINDS ***
+Supasow posts small blind 20
+aNsVegas posts big blind 40
+Dealt to sabre_laser [7s Ac]
+*** PRE-FLOP *** 
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez raises 40 to 80
+chtom60 folds
+raito28 calls 80
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+*** FLOP *** [Jc 9d 2s]
+MrCioldez bets 220
+raito28 folds
+MrCioldez collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Jc 9d 2s]
+Seat 1: MrCioldez won 440
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-19-1424201703 - Holdem no limit (20/40) - 2015/02/17 19:35:03 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #6 is the button
+Seat 1: MrCioldez (4323)
+Seat 2: amazonie (3484)
+Seat 3: raito28 (3660)
+Seat 4: sabre_laser (4393)
+Seat 5: belikemike (3765)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4394)
+Seat 8: C.Rocancourt (3925)
+Seat 9: 7-Max-7 (3494)
+*** ANTE/BLINDS ***
+aNsVegas posts small blind 20
+C.Rocancourt posts big blind 40
+Dealt to sabre_laser [Ts Td]
+*** PRE-FLOP *** 
+7-Max-7 folds
+MrCioldez folds
+amazonie folds
+raito28 raises 80 to 120
+sabre_laser raises 240 to 360
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+raito28 calls 240
+*** FLOP *** [Tc Kh As]
+raito28 checks
+sabre_laser bets 780
+raito28 calls 780
+*** TURN *** [Tc Kh As][3d]
+raito28 checks
+sabre_laser checks
+*** RIVER *** [Tc Kh As 3d][Ks]
+raito28 bets 1170
+sabre_laser calls 1170
+*** SHOW DOWN ***
+raito28 shows [Jd 9d] (One pair : Kings)
+sabre_laser shows [Ts Td] (Full of Tens and Kings)
+sabre_laser collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Board: [Tc Kh As 3d Ks]
+Seat 3: raito28 showed [Jd 9d] and lost with One pair : Kings
+Seat 4: sabre_laser showed [Ts Td] and won 4680 with Full of Tens and Kings
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-20-1424201790 - Holdem no limit (20/40) - 2015/02/17 19:36:30 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #7 is the button
+Seat 1: MrCioldez (4323)
+Seat 2: amazonie (3484)
+Seat 3: raito28 (1350)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (3765)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4374)
+Seat 8: C.Rocancourt (3885)
+Seat 9: 7-Max-7 (3494)
+*** ANTE/BLINDS ***
+C.Rocancourt posts small blind 20
+7-Max-7 posts big blind 40
+Dealt to sabre_laser [Th Qs]
+*** PRE-FLOP *** 
+MrCioldez folds
+amazonie folds
+raito28 raises 80 to 120
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 calls 80
+*** FLOP *** [Td 3h Kd]
+7-Max-7 checks
+raito28 checks
+*** TURN *** [Td 3h Kd][Qd]
+7-Max-7 bets 130
+raito28 calls 130
+*** RIVER *** [Td 3h Kd Qd][Ah]
+7-Max-7 checks
+raito28 checks
+*** SHOW DOWN ***
+7-Max-7 shows [8c Qh] (One pair : Queens)
+raito28 shows [8s Ad] (One pair : Aces)
+raito28 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Td 3h Kd Qd Ah]
+Seat 3: raito28 showed [8s Ad] and won 520 with One pair : Aces
+Seat 9: 7-Max-7 (big blind) showed [8c Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-21-1424201844 - Holdem no limit (20/40) - 2015/02/17 19:37:24 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #8 is the button
+Seat 1: MrCioldez (4323)
+Seat 2: amazonie (3484)
+Seat 3: raito28 (1620)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (3765)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4374)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3244)
+*** ANTE/BLINDS ***
+7-Max-7 posts small blind 20
+MrCioldez posts big blind 40
+Dealt to sabre_laser [3d 4d]
+*** PRE-FLOP *** 
+amazonie folds
+raito28 folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas raises 40 to 80
+C.Rocancourt folds
+7-Max-7 calls 60
+MrCioldez calls 40
+*** FLOP *** [Th Td Kc]
+7-Max-7 checks
+MrCioldez bets 120
+aNsVegas folds
+7-Max-7 calls 120
+*** TURN *** [Th Td Kc][6h]
+7-Max-7 checks
+MrCioldez bets 240
+7-Max-7 calls 240
+*** RIVER *** [Th Td Kc 6h][5s]
+7-Max-7 checks
+MrCioldez checks
+*** SHOW DOWN ***
+MrCioldez shows [Kd 4h] (Two pairs : Kings and Tens)
+7-Max-7 shows [Ks 9h] (Two pairs : Kings and Tens)
+7-Max-7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Th Td Kc 6h 5s]
+Seat 1: MrCioldez (big blind) showed [Kd 4h] and lost with Two pairs : Kings and Tens
+Seat 9: 7-Max-7 (small blind) showed [Ks 9h] and won 960 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-22-1424201900 - Holdem no limit (20/40) - 2015/02/17 19:38:20 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #9 is the button
+Seat 1: MrCioldez (3883)
+Seat 2: amazonie (3484)
+Seat 3: raito28 (1620)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (3765)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4294)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3764)
+*** ANTE/BLINDS ***
+MrCioldez posts small blind 20
+amazonie posts big blind 40
+Dealt to sabre_laser [2h 3d]
+*** PRE-FLOP *** 
+raito28 folds
+sabre_laser folds
+belikemike calls 40
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez folds
+amazonie checks
+*** FLOP *** [8d Tc 6s]
+amazonie checks
+belikemike bets 80
+amazonie folds
+belikemike collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8d Tc 6s]
+Seat 5: belikemike won 180
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 2 - HandId: #466590029968310434-23-1424201940 - Holdem no limit (20/40) - 2015/02/17 19:39:00 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #1 is the button
+Seat 1: MrCioldez (3863)
+Seat 2: amazonie (3444)
+Seat 3: raito28 (1620)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (3825)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4294)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3764)
+*** ANTE/BLINDS ***
+amazonie posts small blind 20
+raito28 posts big blind 40
+Dealt to sabre_laser [5s 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas raises 40 to 80
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez calls 80
+amazonie calls 60
+raito28 calls 40
+*** FLOP *** [Ts Th 4s]
+amazonie checks
+raito28 checks
+aNsVegas checks
+MrCioldez checks
+*** TURN *** [Ts Th 4s][8s]
+amazonie bets 174
+raito28 folds
+aNsVegas folds
+MrCioldez calls 174
+*** RIVER *** [Ts Th 4s 8s][9c]
+amazonie checks
+MrCioldez bets 334
+amazonie folds
+MrCioldez collected 1002 from pot
+*** SUMMARY ***
+Total pot 1002 | No rake
+Board: [Ts Th 4s 8s 9c]
+Seat 1: MrCioldez (button) won 1002
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 3 - HandId: #466590029968310434-24-1424202057 - Holdem no limit (30/60) - 2015/02/17 19:40:57 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #2 is the button
+Seat 1: MrCioldez (4277)
+Seat 2: amazonie (3190)
+Seat 3: raito28 (1540)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (3825)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4214)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3764)
+*** ANTE/BLINDS ***
+raito28 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [7c Qc]
+*** PRE-FLOP *** 
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez raises 240 to 300
+amazonie folds
+raito28 folds
+sabre_laser folds
+MrCioldez collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 1: MrCioldez won 390
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 3 - HandId: #466590029968310434-25-1424202078 - Holdem no limit (30/60) - 2015/02/17 19:41:18 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #3 is the button
+Seat 1: MrCioldez (4367)
+Seat 2: amazonie (3190)
+Seat 3: raito28 (1510)
+Seat 4: sabre_laser (6703)
+Seat 5: belikemike (3825)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4214)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3764)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+belikemike posts big blind 60
+Dealt to sabre_laser [6c 2s]
+*** PRE-FLOP *** 
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez calls 60
+amazonie folds
+raito28 calls 60
+sabre_laser calls 30
+belikemike raises 180 to 240
+MrCioldez calls 180
+raito28 calls 180
+sabre_laser folds
+*** FLOP *** [5h 4d Qh]
+belikemike bets 210
+MrCioldez folds
+raito28 calls 210
+*** TURN *** [5h 4d Qh][Ah]
+belikemike checks
+raito28 checks
+*** RIVER *** [5h 4d Qh Ah][3d]
+belikemike checks
+raito28 checks
+*** SHOW DOWN ***
+raito28 shows [5c Kc] (One pair : 5)
+belikemike shows [Js Jh] (One pair : Jacks)
+belikemike collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [5h 4d Qh Ah 3d]
+Seat 3: raito28 (button) showed [5c Kc] and lost with One pair : 5
+Seat 5: belikemike (big blind) showed [Js Jh] and won 1200 with One pair : Jacks
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 3 - HandId: #466590029968310434-26-1424202157 - Holdem no limit (30/60) - 2015/02/17 19:42:37 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #4 is the button
+Seat 1: MrCioldez (4127)
+Seat 2: amazonie (3190)
+Seat 3: raito28 (1060)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4575)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (4214)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3764)
+*** ANTE/BLINDS ***
+belikemike posts small blind 30
+Supasow posts big blind 60
+Dealt to sabre_laser [9s 3s]
+*** PRE-FLOP *** 
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 raises 60 to 120
+MrCioldez folds
+amazonie folds
+raito28 calls 120
+sabre_laser folds
+belikemike folds
+Supasow folds
+*** FLOP *** [3c Kd 2h]
+7-Max-7 bets 165
+raito28 folds
+7-Max-7 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [3c Kd 2h]
+Seat 9: 7-Max-7 won 495
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 3 - HandId: #466590029968310434-27-1424202212 - Holdem no limit (30/60) - 2015/02/17 19:43:32 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #5 is the button
+Seat 1: MrCioldez (4127)
+Seat 2: amazonie (3190)
+Seat 3: raito28 (940)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3460)
+Seat 7: aNsVegas (4214)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3974)
+*** ANTE/BLINDS ***
+Supasow posts small blind 30
+aNsVegas posts big blind 60
+Dealt to sabre_laser [7h 6s]
+*** PRE-FLOP *** 
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez raises 120 to 180
+amazonie folds
+raito28 folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+MrCioldez collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: MrCioldez won 270
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 3 - HandId: #466590029968310434-28-1424202270 - Holdem no limit (30/60) - 2015/02/17 19:44:30 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #6 is the button
+Seat 1: MrCioldez (4217)
+Seat 2: amazonie (3190)
+Seat 3: raito28 (940)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (4154)
+Seat 8: C.Rocancourt (3865)
+Seat 9: 7-Max-7 (3974)
+*** ANTE/BLINDS ***
+aNsVegas posts small blind 30
+C.Rocancourt posts big blind 60
+Dealt to sabre_laser [Kh 2s]
+*** PRE-FLOP *** 
+7-Max-7 folds
+MrCioldez folds
+amazonie raises 90 to 150
+raito28 calls 150
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+*** FLOP *** [3s 2c Qs]
+amazonie bets 210
+raito28 folds
+amazonie collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3s 2c Qs]
+Seat 2: amazonie won 600
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 3 - HandId: #466590029968310434-29-1424202331 - Holdem no limit (30/60) - 2015/02/17 19:45:31 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #7 is the button
+Seat 1: MrCioldez (4217)
+Seat 2: amazonie (3430)
+Seat 3: raito28 (790)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3805)
+Seat 9: 7-Max-7 (3974)
+*** ANTE/BLINDS ***
+C.Rocancourt posts small blind 30
+7-Max-7 posts big blind 60
+Dealt to sabre_laser [5c 4c]
+*** PRE-FLOP *** 
+MrCioldez folds
+amazonie raises 90 to 150
+raito28 folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 calls 90
+*** FLOP *** [6c Jd Ks]
+7-Max-7 checks
+amazonie bets 180
+7-Max-7 calls 180
+*** TURN *** [6c Jd Ks][9d]
+7-Max-7 checks
+amazonie checks
+*** RIVER *** [6c Jd Ks 9d][6d]
+7-Max-7 bets 345
+amazonie folds
+7-Max-7 collected 1035 from pot
+*** SUMMARY ***
+Total pot 1035 | No rake
+Board: [6c Jd Ks 9d 6d]
+Seat 9: 7-Max-7 (big blind) won 1035
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 3 - HandId: #466590029968310434-30-1424202425 - Holdem no limit (30/60) - 2015/02/17 19:47:05 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #8 is the button
+Seat 1: MrCioldez (4217)
+Seat 2: amazonie (3100)
+Seat 3: raito28 (790)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (4334)
+*** ANTE/BLINDS ***
+7-Max-7 posts small blind 30
+MrCioldez posts big blind 60
+Dealt to sabre_laser [Kd Ts]
+*** PRE-FLOP *** 
+amazonie folds
+raito28 folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 raises 60 to 120
+MrCioldez calls 60
+*** FLOP *** [2h 2d 5c]
+7-Max-7 bets 120
+MrCioldez calls 120
+*** TURN *** [2h 2d 5c][Jd]
+7-Max-7 bets 240
+MrCioldez raises 720 to 960
+7-Max-7 raises 3134 to 4094 and is all-in
+MrCioldez folds
+7-Max-7 collected 5534 from pot
+*** SUMMARY ***
+Total pot 5534 | No rake
+Board: [2h 2d 5c Jd]
+Seat 9: 7-Max-7 (small blind) won 5534
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-31-1424202504 - Holdem no limit (40/80) - 2015/02/17 19:48:24 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #9 is the button
+Seat 1: MrCioldez (3017)
+Seat 2: amazonie (3100)
+Seat 3: raito28 (790)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (5534)
+*** ANTE/BLINDS ***
+MrCioldez posts small blind 40
+amazonie posts big blind 80
+Dealt to sabre_laser [Kc 3d]
+*** PRE-FLOP *** 
+raito28 folds
+sabre_laser folds
+belikemike folds
+Supasow raises 130 to 210
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+MrCioldez folds
+amazonie folds
+Supasow collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 6: Supasow won 330
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-32-1424202543 - Holdem no limit (40/80) - 2015/02/17 19:49:03 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #1 is the button
+Seat 1: Maggy_ggr (2474)
+Seat 2: amazonie (3020)
+Seat 3: raito28 (790)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (5534)
+*** ANTE/BLINDS ***
+amazonie posts small blind 40
+raito28 posts big blind 80
+Dealt to sabre_laser [6d 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+amazonie calls 40
+raito28 checks
+*** FLOP *** [7s Kh Kd]
+amazonie checks
+raito28 checks
+*** TURN *** [7s Kh Kd][Qc]
+amazonie bets 90
+raito28 folds
+amazonie collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [7s Kh Kd Qc]
+Seat 2: amazonie (small blind) won 250
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-33-1424202596 - Holdem no limit (40/80) - 2015/02/17 19:49:56 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #2 is the button
+Seat 1: Maggy_ggr (2474)
+Seat 2: amazonie (3100)
+Seat 3: raito28 (710)
+Seat 4: sabre_laser (6643)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (5534)
+*** ANTE/BLINDS ***
+raito28 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [3s Ks]
+*** PRE-FLOP *** 
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 raises 80 to 160
+Maggy_ggr raises 2314 to 2474 and is all-in
+amazonie folds
+raito28 folds
+sabre_laser folds
+7-Max-7 calls 2314
+*** FLOP *** [7h 2h 3h]
+*** TURN *** [7h 2h 3h][Tc]
+*** RIVER *** [7h 2h 3h Tc][As]
+*** SHOW DOWN ***
+Maggy_ggr shows [8c 8d] (One pair : 8)
+7-Max-7 shows [3d 3c] (Trips of 3)
+7-Max-7 collected 5068 from pot
+*** SUMMARY ***
+Total pot 5068 | No rake
+Board: [7h 2h 3h Tc As]
+Seat 1: Maggy_ggr showed [8c 8d] and lost with One pair : 8
+Seat 9: 7-Max-7 showed [3d 3c] and won 5068 with Trips of 3
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-34-1424202647 - Holdem no limit (40/80) - 2015/02/17 19:50:47 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #3 is the button
+Seat 1: lucky86sport (7080)
+Seat 2: amazonie (3100)
+Seat 3: raito28 (670)
+Seat 4: sabre_laser (6563)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+belikemike posts big blind 80
+Dealt to sabre_laser [2c 8s]
+*** PRE-FLOP *** 
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+lucky86sport folds
+amazonie folds
+raito28 calls 80
+sabre_laser folds
+belikemike checks
+*** FLOP *** [9c As 3d]
+belikemike checks
+raito28 checks
+*** TURN *** [9c As 3d][Jd]
+belikemike checks
+raito28 checks
+*** RIVER *** [9c As 3d Jd][4h]
+belikemike checks
+raito28 checks
+*** SHOW DOWN ***
+belikemike shows [7d 2s] (High card : Ace)
+raito28 shows [Qh Th] (High card : Ace)
+raito28 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [9c As 3d Jd 4h]
+Seat 3: raito28 (button) showed [Qh Th] and won 200 with High card : Ace
+Seat 5: belikemike (big blind) showed [7d 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-35-1424202763 - Holdem no limit (40/80) - 2015/02/17 19:52:43 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #4 is the button
+Seat 1: lucky86sport (7080)
+Seat 2: amazonie (3100)
+Seat 3: raito28 (790)
+Seat 4: sabre_laser (6523)
+Seat 5: belikemike (4465)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+belikemike posts small blind 40
+Supasow posts big blind 80
+Dealt to sabre_laser [9d 2h]
+*** PRE-FLOP *** 
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+lucky86sport folds
+amazonie folds
+raito28 raises 710 to 790 and is all-in
+sabre_laser folds
+belikemike folds
+Supasow folds
+raito28 collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | No rake
+Seat 3: raito28 won 910
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-36-1424202810 - Holdem no limit (40/80) - 2015/02/17 19:53:30 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #5 is the button
+Seat 1: Coscaa (3815)
+Seat 2: amazonie (3100)
+Seat 3: raito28 (910)
+Seat 4: sabre_laser (6523)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3470)
+Seat 7: aNsVegas (4124)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+Supasow posts small blind 40
+aNsVegas posts big blind 80
+Dealt to sabre_laser [5d Ad]
+*** PRE-FLOP *** 
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa raises 80 to 160
+amazonie folds
+raito28 raises 750 to 910 and is all-in
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+Coscaa calls 750
+*** FLOP *** [5c Qc 2s]
+*** TURN *** [5c Qc 2s][Qd]
+*** RIVER *** [5c Qc 2s Qd][Kd]
+*** SHOW DOWN ***
+raito28 shows [Th Kh] (Two pairs : Kings and Queens)
+Coscaa shows [Ac Kc] (Two pairs : Kings and Queens)
+Coscaa collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | No rake
+Board: [5c Qc 2s Qd Kd]
+Seat 1: Coscaa showed [Ac Kc] and won 1940 with Two pairs : Kings and Queens
+Seat 3: raito28 showed [Th Kh] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-37-1424202852 - Holdem no limit (40/80) - 2015/02/17 19:54:12 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #6 is the button
+Seat 1: Coscaa (4845)
+Seat 2: amazonie (3100)
+Seat 4: sabre_laser (6523)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (4044)
+Seat 8: C.Rocancourt (3775)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+aNsVegas posts small blind 40
+C.Rocancourt posts big blind 80
+Dealt to sabre_laser [3c 3s]
+*** PRE-FLOP *** 
+7-Max-7 folds
+Coscaa calls 80
+amazonie folds
+sabre_laser calls 80
+belikemike folds
+Supasow folds
+aNsVegas calls 40
+C.Rocancourt folds
+*** FLOP *** [Td 9h 2s]
+aNsVegas checks
+Coscaa checks
+sabre_laser bets 160
+aNsVegas folds
+Coscaa folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Td 9h 2s]
+Seat 4: sabre_laser won 480
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-38-1424202894 - Holdem no limit (40/80) - 2015/02/17 19:54:54 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #7 is the button
+Seat 1: Coscaa (4765)
+Seat 2: amazonie (3100)
+Seat 3: piniche (2453)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (3964)
+Seat 8: C.Rocancourt (3695)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+C.Rocancourt posts small blind 40
+7-Max-7 posts big blind 80
+Dealt to sabre_laser [7s 6h]
+*** PRE-FLOP *** 
+Coscaa folds
+amazonie folds
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 9: 7-Max-7 (big blind) won 120
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 4 - HandId: #466590029968310434-39-1424203203 - Holdem no limit (40/80) - 2015/02/17 20:00:03 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #8 is the button
+Seat 1: Coscaa (4765)
+Seat 2: amazonie (3100)
+Seat 3: piniche (2453)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (3964)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8168)
+*** ANTE/BLINDS ***
+7-Max-7 posts small blind 40
+Coscaa posts big blind 80
+Dealt to sabre_laser [5s Qd]
+*** PRE-FLOP *** 
+amazonie folds
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow raises 80 to 160
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+Supasow collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: Supasow won 280
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-40-1424203248 - Holdem no limit (60/120) - 2015/02/17 20:00:48 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #9 is the button
+Seat 1: Coscaa (4685)
+Seat 2: loli69 (4000)
+Seat 3: piniche (2453)
+Seat 4: sabre_laser (6763)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (3964)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+Coscaa posts small blind 60
+loli69 posts big blind 120
+Dealt to sabre_laser [7d As]
+*** PRE-FLOP *** 
+piniche folds
+sabre_laser raises 120 to 240
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+loli69 calls 120
+*** FLOP *** [5h 8h Jh]
+loli69 checks
+sabre_laser bets 6523 and is all-in
+loli69 folds
+sabre_laser collected 7063 from pot
+*** SUMMARY ***
+Total pot 7063 | No rake
+Board: [5h 8h Jh]
+Seat 4: sabre_laser won 7063
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-41-1424203294 - Holdem no limit (60/120) - 2015/02/17 20:01:34 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #1 is the button
+Seat 1: Coscaa (4625)
+Seat 2: loli69 (3760)
+Seat 3: piniche (2453)
+Seat 4: sabre_laser (7063)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (3964)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+loli69 posts small blind 60
+piniche posts big blind 120
+Dealt to sabre_laser [Qs 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas raises 180 to 300
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+loli69 folds
+piniche folds
+aNsVegas collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 7: aNsVegas won 480
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-42-1424203329 - Holdem no limit (60/120) - 2015/02/17 20:02:09 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #2 is the button
+Seat 1: Coscaa (4625)
+Seat 2: loli69 (3700)
+Seat 3: piniche (2333)
+Seat 4: sabre_laser (7063)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (4144)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+piniche posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [4c 3c]
+*** PRE-FLOP *** 
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+loli69 folds
+piniche folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-43-1424203365 - Holdem no limit (60/120) - 2015/02/17 20:02:45 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #3 is the button
+Seat 1: Coscaa (4625)
+Seat 2: loli69 (3700)
+Seat 3: piniche (2273)
+Seat 4: sabre_laser (7123)
+Seat 5: belikemike (4425)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (4144)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8128)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+belikemike posts big blind 120
+Dealt to sabre_laser [5c 3c]
+*** PRE-FLOP *** 
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 raises 120 to 240
+Coscaa folds
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike folds
+7-Max-7 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 9: 7-Max-7 won 420
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-44-1424203424 - Holdem no limit (60/120) - 2015/02/17 20:03:44 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #4 is the button
+Seat 1: Coscaa (4625)
+Seat 2: loli69 (3700)
+Seat 3: piniche (2273)
+Seat 4: sabre_laser (7063)
+Seat 5: belikemike (4305)
+Seat 6: Supasow (3550)
+Seat 7: aNsVegas (4144)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8308)
+*** ANTE/BLINDS ***
+belikemike posts small blind 60
+Supasow posts big blind 120
+Dealt to sabre_laser [2h 7c]
+*** PRE-FLOP *** 
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa calls 120
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike calls 60
+Supasow checks
+*** FLOP *** [5d Qh Ah]
+belikemike bets 180
+Supasow folds
+Coscaa calls 180
+*** TURN *** [5d Qh Ah][Th]
+belikemike checks
+Coscaa checks
+*** RIVER *** [5d Qh Ah Th][Js]
+belikemike checks
+Coscaa bets 240
+belikemike folds
+Coscaa collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [5d Qh Ah Th Js]
+Seat 1: Coscaa won 960
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-45-1424203481 - Holdem no limit (60/120) - 2015/02/17 20:04:41 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #5 is the button
+Seat 1: Coscaa (5045)
+Seat 2: loli69 (3700)
+Seat 3: piniche (2273)
+Seat 4: sabre_laser (7063)
+Seat 5: belikemike (4005)
+Seat 6: Supasow (3430)
+Seat 7: aNsVegas (4144)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8308)
+*** ANTE/BLINDS ***
+Supasow posts small blind 60
+aNsVegas posts big blind 120
+Dealt to sabre_laser [5h 7h]
+*** PRE-FLOP *** 
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike raises 180 to 300
+Supasow calls 240
+aNsVegas folds
+*** FLOP *** [Ks 5s Ad]
+Supasow bets 360
+belikemike folds
+Supasow collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Ks 5s Ad]
+Seat 6: Supasow (small blind) won 1080
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-46-1424203538 - Holdem no limit (60/120) - 2015/02/17 20:05:38 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #6 is the button
+Seat 1: Coscaa (5045)
+Seat 2: loli69 (3700)
+Seat 3: piniche (2273)
+Seat 4: sabre_laser (7063)
+Seat 5: belikemike (3705)
+Seat 6: Supasow (3850)
+Seat 7: aNsVegas (4024)
+Seat 8: C.Rocancourt (3655)
+Seat 9: 7-Max-7 (8308)
+*** ANTE/BLINDS ***
+aNsVegas posts small blind 60
+C.Rocancourt posts big blind 120
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+7-Max-7 calls 120
+Coscaa raises 120 to 240
+loli69 folds
+piniche folds
+sabre_laser calls 240
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 calls 120
+*** FLOP *** [Kc 6c 6h]
+7-Max-7 checks
+Coscaa checks
+sabre_laser bets 450
+7-Max-7 folds
+Coscaa calls 450
+*** TURN *** [Kc 6c 6h][3d]
+Coscaa bets 240
+sabre_laser calls 240
+*** RIVER *** [Kc 6c 6h 3d][5h]
+Coscaa checks
+sabre_laser bets 1200
+Coscaa folds
+sabre_laser collected 3480 from pot
+*** SUMMARY ***
+Total pot 3480 | No rake
+Board: [Kc 6c 6h 3d 5h]
+Seat 4: sabre_laser won 3480
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 5 - HandId: #466590029968310434-47-1424203641 - Holdem no limit (60/120) - 2015/02/17 20:07:21 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #7 is the button
+Seat 1: Coscaa (4115)
+Seat 2: loli69 (3700)
+Seat 3: piniche (2273)
+Seat 4: sabre_laser (8413)
+Seat 5: belikemike (3705)
+Seat 6: Supasow (3850)
+Seat 7: aNsVegas (3964)
+Seat 8: C.Rocancourt (3535)
+Seat 9: 7-Max-7 (8068)
+*** ANTE/BLINDS ***
+C.Rocancourt posts small blind 60
+7-Max-7 posts big blind 120
+Dealt to sabre_laser [Js Ks]
+*** PRE-FLOP *** 
+Coscaa folds
+loli69 folds
+piniche folds
+sabre_laser raises 120 to 240
+belikemike calls 240
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 calls 120
+*** FLOP *** [Ad 7d 3h]
+7-Max-7 checks
+sabre_laser checks
+belikemike bets 360
+7-Max-7 folds
+sabre_laser folds
+belikemike collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | No rake
+Board: [Ad 7d 3h]
+Seat 5: belikemike won 1140
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-48-1424203710 - Holdem no limit (15/75/150) - 2015/02/17 20:08:30 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #8 is the button
+Seat 1: Coscaa (4115)
+Seat 2: loli69 (3700)
+Seat 3: piniche (2273)
+Seat 4: sabre_laser (8173)
+Seat 5: belikemike (4245)
+Seat 6: Supasow (3850)
+Seat 7: aNsVegas (3964)
+Seat 8: C.Rocancourt (3475)
+Seat 9: 7-Max-7 (7828)
+*** ANTE/BLINDS ***
+7-Max-7 posts ante 15
+Coscaa posts ante 15
+loli69 posts ante 15
+piniche posts ante 15
+sabre_laser posts ante 15
+belikemike posts ante 15
+Supasow posts ante 15
+aNsVegas posts ante 15
+C.Rocancourt posts ante 15
+7-Max-7 posts small blind 75
+Coscaa posts big blind 150
+Dealt to sabre_laser [3d 8d]
+*** PRE-FLOP *** 
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike raises 150 to 300
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+belikemike collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 5: belikemike won 660
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-49-1424203760 - Holdem no limit (15/75/150) - 2015/02/17 20:09:20 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #9 is the button
+Seat 1: Coscaa (3950)
+Seat 2: loli69 (3685)
+Seat 3: piniche (2258)
+Seat 4: sabre_laser (8158)
+Seat 5: belikemike (4590)
+Seat 6: Supasow (3835)
+Seat 7: aNsVegas (3949)
+Seat 8: C.Rocancourt (3460)
+Seat 9: 7-Max-7 (7738)
+*** ANTE/BLINDS ***
+Coscaa posts ante 15
+loli69 posts ante 15
+piniche posts ante 15
+sabre_laser posts ante 15
+belikemike posts ante 15
+Supasow posts ante 15
+aNsVegas posts ante 15
+C.Rocancourt posts ante 15
+7-Max-7 posts ante 15
+Coscaa posts small blind 75
+loli69 posts big blind 150
+Dealt to sabre_laser [5c 8h]
+*** PRE-FLOP *** 
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 raises 150 to 300
+Coscaa calls 225
+loli69 folds
+*** FLOP *** [8s 5d 5h]
+Coscaa checks
+7-Max-7 bets 443
+Coscaa folds
+7-Max-7 collected 1328 from pot
+*** SUMMARY ***
+Total pot 1328 | No rake
+Board: [8s 5d 5h]
+Seat 9: 7-Max-7 (button) won 1328
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-50-1424203809 - Holdem no limit (15/75/150) - 2015/02/17 20:10:09 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #1 is the button
+Seat 1: Coscaa (3635)
+Seat 2: loli69 (3520)
+Seat 3: piniche (2243)
+Seat 4: sabre_laser (8143)
+Seat 5: belikemike (4575)
+Seat 6: Supasow (3820)
+Seat 7: aNsVegas (3934)
+Seat 8: C.Rocancourt (3445)
+Seat 9: 7-Max-7 (8308)
+*** ANTE/BLINDS ***
+loli69 posts ante 15
+piniche posts ante 15
+Coscaa posts ante 15
+sabre_laser posts ante 15
+belikemike posts ante 15
+Supasow posts ante 15
+aNsVegas posts ante 15
+C.Rocancourt posts ante 15
+7-Max-7 posts ante 15
+loli69 posts small blind 75
+piniche posts big blind 150
+Dealt to sabre_laser [8h 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa calls 150
+loli69 calls 75
+piniche checks
+*** FLOP *** [7h Ad Kd]
+loli69 checks
+piniche bets 150
+Coscaa raises 300 to 450
+loli69 folds
+piniche raises 1628 to 2078 and is all-in
+Coscaa calls 1628
+*** TURN *** [7h Ad Kd][Kc]
+*** RIVER *** [7h Ad Kd Kc][6s]
+*** SHOW DOWN ***
+Coscaa shows [3c Ac] (Two pairs : Aces and Kings)
+piniche shows [Ah 7c] (Two pairs : Aces and Kings)
+piniche collected 2371 from pot
+Coscaa collected 2370 from pot
+*** SUMMARY ***
+Total pot 4741 | No rake
+Board: [7h Ad Kd Kc 6s]
+Seat 1: Coscaa (button) showed [3c Ac] and won 2370 with Two pairs : Aces and Kings
+Seat 3: piniche (big blind) showed [Ah 7c] and won 2371 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-51-1424203870 - Holdem no limit (15/75/150) - 2015/02/17 20:11:10 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #2 is the button
+Seat 1: Coscaa (3762)
+Seat 2: loli69 (3355)
+Seat 3: piniche (2371)
+Seat 4: sabre_laser (8128)
+Seat 5: belikemike (4560)
+Seat 6: Supasow (3805)
+Seat 7: aNsVegas (3919)
+Seat 8: C.Rocancourt (3430)
+Seat 9: 7-Max-7 (8293)
+*** ANTE/BLINDS ***
+piniche posts ante 15
+sabre_laser posts ante 15
+Coscaa posts ante 15
+loli69 posts ante 15
+belikemike posts ante 15
+Supasow posts ante 15
+aNsVegas posts ante 15
+C.Rocancourt posts ante 15
+7-Max-7 posts ante 15
+piniche posts small blind 75
+sabre_laser posts big blind 150
+Dealt to sabre_laser [3d 8c]
+*** PRE-FLOP *** 
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa calls 150
+loli69 calls 150
+piniche calls 75
+sabre_laser checks
+*** FLOP *** [2h 5h 5c]
+piniche bets 225
+sabre_laser folds
+Coscaa folds
+loli69 calls 225
+*** TURN *** [2h 5h 5c][Th]
+piniche checks
+loli69 bets 525
+piniche folds
+loli69 collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [2h 5h 5c Th]
+Seat 2: loli69 (button) won 1710
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-52-1424203942 - Holdem no limit (15/75/150) - 2015/02/17 20:12:22 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #3 is the button
+Seat 1: Coscaa (3597)
+Seat 2: loli69 (4150)
+Seat 3: piniche (1981)
+Seat 4: sabre_laser (7963)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3790)
+Seat 7: aNsVegas (3904)
+Seat 8: C.Rocancourt (3415)
+Seat 9: 7-Max-7 (8278)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 15
+belikemike posts ante 15
+Coscaa posts ante 15
+loli69 posts ante 15
+piniche posts ante 15
+Supasow posts ante 15
+aNsVegas posts ante 15
+C.Rocancourt posts ante 15
+7-Max-7 posts ante 15
+sabre_laser posts small blind 75
+belikemike posts big blind 150
+Dealt to sabre_laser [9s Qd]
+*** PRE-FLOP *** 
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 5: belikemike (big blind) won 360
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-53-1424203977 - Holdem no limit (15/75/150) - 2015/02/17 20:12:57 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #4 is the button
+Seat 1: Coscaa (3582)
+Seat 2: loli69 (4135)
+Seat 3: piniche (1966)
+Seat 4: sabre_laser (7873)
+Seat 5: belikemike (4740)
+Seat 6: Supasow (3775)
+Seat 7: aNsVegas (3889)
+Seat 8: C.Rocancourt (3400)
+Seat 9: 7-Max-7 (8263)
+*** ANTE/BLINDS ***
+belikemike posts ante 15
+Supasow posts ante 15
+Coscaa posts ante 15
+loli69 posts ante 15
+piniche posts ante 15
+sabre_laser posts ante 15
+aNsVegas posts ante 15
+C.Rocancourt posts ante 15
+7-Max-7 posts ante 15
+belikemike posts small blind 75
+Supasow posts big blind 150
+Dealt to sabre_laser [Ks 4d]
+*** PRE-FLOP *** 
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa calls 150
+loli69 folds
+piniche calls 150
+sabre_laser folds
+belikemike calls 75
+Supasow checks
+*** FLOP *** [Qd Qh 2h]
+belikemike checks
+Supasow checks
+Coscaa checks
+piniche checks
+*** TURN *** [Qd Qh 2h][8d]
+belikemike checks
+Supasow checks
+Coscaa checks
+piniche checks
+*** RIVER *** [Qd Qh 2h 8d][Qs]
+belikemike checks
+Supasow checks
+Coscaa checks
+piniche checks
+*** SHOW DOWN ***
+Coscaa shows [9d Kd] (Trips of Queens)
+belikemike shows [Td Kc] (Trips of Queens)
+Supasow shows [3c 7c] (Trips of Queens)
+piniche shows [Ac 4c] (Trips of Queens)
+piniche collected 735 from pot
+*** SUMMARY ***
+Total pot 735 | No rake
+Board: [Qd Qh 2h 8d Qs]
+Seat 1: Coscaa showed [9d Kd] and lost with Trips of Queens
+Seat 3: piniche showed [Ac 4c] and won 735 with Trips of Queens
+Seat 5: belikemike (small blind) showed [Td Kc] and lost with Trips of Queens
+Seat 6: Supasow (big blind) showed [3c 7c] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-54-1424204057 - Holdem no limit (15/75/150) - 2015/02/17 20:14:17 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #5 is the button
+Seat 1: Coscaa (3417)
+Seat 2: loli69 (4120)
+Seat 3: piniche (2536)
+Seat 4: sabre_laser (7858)
+Seat 5: belikemike (4575)
+Seat 6: Supasow (3610)
+Seat 7: aNsVegas (3874)
+Seat 8: C.Rocancourt (3385)
+Seat 9: 7-Max-7 (8248)
+*** ANTE/BLINDS ***
+Supasow posts ante 15
+aNsVegas posts ante 15
+Coscaa posts ante 15
+loli69 posts ante 15
+piniche posts ante 15
+sabre_laser posts ante 15
+belikemike posts ante 15
+C.Rocancourt posts ante 15
+7-Max-7 posts ante 15
+Supasow posts small blind 75
+aNsVegas posts big blind 150
+Dealt to sabre_laser [9d 8h]
+*** PRE-FLOP *** 
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa calls 150
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas raises 300 to 450
+Coscaa calls 300
+*** FLOP *** [Kd Ac 2d]
+aNsVegas bets 600
+Coscaa raises 900 to 1500
+aNsVegas folds
+Coscaa collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Board: [Kd Ac 2d]
+Seat 1: Coscaa won 3210
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 6 - HandId: #466590029968310434-55-1424204124 - Holdem no limit (15/75/150) - 2015/02/17 20:15:24 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #6 is the button
+Seat 1: Coscaa (4662)
+Seat 2: loli69 (4105)
+Seat 3: piniche (2521)
+Seat 4: sabre_laser (7843)
+Seat 5: belikemike (4560)
+Seat 6: Supasow (3520)
+Seat 7: aNsVegas (2809)
+Seat 8: C.Rocancourt (3370)
+Seat 9: 7-Max-7 (8233)
+*** ANTE/BLINDS ***
+aNsVegas posts ante 15
+C.Rocancourt posts ante 15
+Coscaa posts ante 15
+loli69 posts ante 15
+piniche posts ante 15
+sabre_laser posts ante 15
+belikemike posts ante 15
+Supasow posts ante 15
+7-Max-7 posts ante 15
+aNsVegas posts small blind 75
+C.Rocancourt posts big blind 150
+Dealt to sabre_laser [9c 4s]
+*** PRE-FLOP *** 
+7-Max-7 folds
+Coscaa calls 150
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas calls 75
+C.Rocancourt folds
+*** FLOP *** [3s 6d 9h]
+aNsVegas checks
+Coscaa checks
+*** TURN *** [3s 6d 9h][4c]
+aNsVegas bets 390
+Coscaa raises 585 to 975
+aNsVegas calls 585
+*** RIVER *** [3s 6d 9h 4c][Qd]
+aNsVegas checks
+Coscaa bets 1200
+aNsVegas folds
+Coscaa collected 3735 from pot
+*** SUMMARY ***
+Total pot 3735 | No rake
+Board: [3s 6d 9h 4c Qd]
+Seat 1: Coscaa won 3735
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-56-1424204204 - Holdem no limit (20/100/200) - 2015/02/17 20:16:44 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #7 is the button
+Seat 1: Coscaa (6057)
+Seat 2: loli69 (4090)
+Seat 3: piniche (2506)
+Seat 4: sabre_laser (7828)
+Seat 5: belikemike (4545)
+Seat 6: Supasow (3505)
+Seat 7: aNsVegas (1669)
+Seat 8: C.Rocancourt (3205)
+Seat 9: 7-Max-7 (8218)
+*** ANTE/BLINDS ***
+C.Rocancourt posts ante 20
+7-Max-7 posts ante 20
+Coscaa posts ante 20
+loli69 posts ante 20
+piniche posts ante 20
+sabre_laser posts ante 20
+belikemike posts ante 20
+Supasow posts ante 20
+aNsVegas posts ante 20
+C.Rocancourt posts small blind 100
+7-Max-7 posts big blind 200
+Dealt to sabre_laser [2c 6c]
+*** PRE-FLOP *** 
+Coscaa folds
+loli69 folds
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 9: 7-Max-7 (big blind) won 480
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-57-1424204235 - Holdem no limit (20/100/200) - 2015/02/17 20:17:15 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #8 is the button
+Seat 1: Coscaa (6037)
+Seat 2: loli69 (4070)
+Seat 3: piniche (2486)
+Seat 4: sabre_laser (7808)
+Seat 5: belikemike (4525)
+Seat 6: Supasow (3485)
+Seat 7: aNsVegas (1649)
+Seat 8: C.Rocancourt (3085)
+Seat 9: 7-Max-7 (8478)
+*** ANTE/BLINDS ***
+7-Max-7 posts ante 20
+Coscaa posts ante 20
+loli69 posts ante 20
+piniche posts ante 20
+sabre_laser posts ante 20
+belikemike posts ante 20
+Supasow posts ante 20
+aNsVegas posts ante 20
+C.Rocancourt posts ante 20
+7-Max-7 posts small blind 100
+Coscaa posts big blind 200
+Dealt to sabre_laser [Jd As]
+*** PRE-FLOP *** 
+loli69 folds
+piniche raises 300 to 500
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 calls 400
+Coscaa calls 300
+*** FLOP *** [7d 9d 6d]
+7-Max-7 checks
+Coscaa checks
+piniche bets 500
+7-Max-7 calls 500
+Coscaa folds
+*** TURN *** [7d 9d 6d][Kh]
+7-Max-7 checks
+piniche bets 700
+7-Max-7 calls 700
+*** RIVER *** [7d 9d 6d Kh][3c]
+7-Max-7 checks
+piniche checks
+*** SHOW DOWN ***
+7-Max-7 shows [Qd Ks] (One pair : Kings)
+piniche shows [Ah Kc] (One pair : Kings)
+piniche collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [7d 9d 6d Kh 3c]
+Seat 3: piniche showed [Ah Kc] and won 4080 with One pair : Kings
+Seat 9: 7-Max-7 (small blind) showed [Qd Ks] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-58-1424204320 - Holdem no limit (20/100/200) - 2015/02/17 20:18:40 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #9 is the button
+Seat 1: Coscaa (5517)
+Seat 2: loli69 (4050)
+Seat 3: piniche (4846)
+Seat 4: sabre_laser (7788)
+Seat 5: belikemike (4505)
+Seat 6: Supasow (3465)
+Seat 7: aNsVegas (1629)
+Seat 8: C.Rocancourt (3065)
+Seat 9: 7-Max-7 (6758)
+*** ANTE/BLINDS ***
+Coscaa posts ante 20
+loli69 posts ante 20
+piniche posts ante 20
+sabre_laser posts ante 20
+belikemike posts ante 20
+Supasow posts ante 20
+aNsVegas posts ante 20
+C.Rocancourt posts ante 20
+7-Max-7 posts ante 20
+Coscaa posts small blind 100
+loli69 posts big blind 200
+Dealt to sabre_laser [Jh Ac]
+*** PRE-FLOP *** 
+piniche folds
+sabre_laser raises 200 to 400
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+loli69 folds
+sabre_laser collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Seat 4: sabre_laser won 880
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-59-1424204359 - Holdem no limit (20/100/200) - 2015/02/17 20:19:19 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #1 is the button
+Seat 1: Coscaa (5397)
+Seat 2: loli69 (3830)
+Seat 3: piniche (4826)
+Seat 4: sabre_laser (8248)
+Seat 5: belikemike (4485)
+Seat 6: Supasow (3445)
+Seat 7: aNsVegas (1609)
+Seat 8: C.Rocancourt (3045)
+Seat 9: 7-Max-7 (6738)
+*** ANTE/BLINDS ***
+loli69 posts ante 20
+piniche posts ante 20
+Coscaa posts ante 20
+sabre_laser posts ante 20
+belikemike posts ante 20
+Supasow posts ante 20
+aNsVegas posts ante 20
+C.Rocancourt posts ante 20
+7-Max-7 posts ante 20
+loli69 posts small blind 100
+piniche posts big blind 200
+Dealt to sabre_laser [Qs 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+loli69 raises 300 to 500
+piniche calls 300
+*** FLOP *** [Kh 8s Js]
+loli69 bets 565
+piniche folds
+loli69 collected 1745 from pot
+*** SUMMARY ***
+Total pot 1745 | No rake
+Board: [Kh 8s Js]
+Seat 2: loli69 (small blind) won 1745
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-60-1424204410 - Holdem no limit (20/100/200) - 2015/02/17 20:20:10 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #2 is the button
+Seat 1: Coscaa (5377)
+Seat 2: junior273 (2914)
+Seat 3: piniche (4306)
+Seat 4: sabre_laser (8228)
+Seat 5: belikemike (4465)
+Seat 6: Supasow (3425)
+Seat 7: aNsVegas (1589)
+Seat 8: C.Rocancourt (3025)
+Seat 9: 7-Max-7 (6718)
+*** ANTE/BLINDS ***
+piniche posts ante 20
+sabre_laser posts ante 20
+Coscaa posts ante 20
+belikemike posts ante 20
+Supasow posts ante 20
+aNsVegas posts ante 20
+C.Rocancourt posts ante 20
+7-Max-7 posts ante 20
+piniche posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Kd 4c]
+*** PRE-FLOP *** 
+belikemike folds
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+piniche calls 100
+sabre_laser checks
+*** FLOP *** [3h Tc 2s]
+piniche bets 600
+sabre_laser folds
+piniche collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [3h Tc 2s]
+Seat 3: piniche (small blind) won 1160
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-61-1424204450 - Holdem no limit (20/100/200) - 2015/02/17 20:20:50 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #3 is the button
+Seat 1: Coscaa (5357)
+Seat 2: junior273 (2914)
+Seat 3: piniche (4646)
+Seat 4: sabre_laser (8008)
+Seat 5: belikemike (4445)
+Seat 6: Supasow (3405)
+Seat 7: aNsVegas (1569)
+Seat 8: C.Rocancourt (3005)
+Seat 9: 7-Max-7 (6698)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+belikemike posts ante 20
+Coscaa posts ante 20
+junior273 posts ante 20
+piniche posts ante 20
+Supasow posts ante 20
+aNsVegas posts ante 20
+C.Rocancourt posts ante 20
+7-Max-7 posts ante 20
+sabre_laser posts small blind 100
+belikemike posts big blind 200
+Dealt to sabre_laser [2s 8d]
+*** PRE-FLOP *** 
+Supasow folds
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa folds
+junior273 folds
+piniche folds
+sabre_laser folds
+belikemike collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 5: belikemike (big blind) won 480
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-62-1424204482 - Holdem no limit (20/100/200) - 2015/02/17 20:21:22 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #4 is the button
+Seat 1: Coscaa (5337)
+Seat 2: junior273 (2894)
+Seat 3: piniche (4626)
+Seat 4: sabre_laser (7888)
+Seat 5: belikemike (4705)
+Seat 6: Supasow (3385)
+Seat 7: aNsVegas (1549)
+Seat 8: C.Rocancourt (2985)
+Seat 9: 7-Max-7 (6678)
+*** ANTE/BLINDS ***
+belikemike posts ante 20
+Supasow posts ante 20
+Coscaa posts ante 20
+junior273 posts ante 20
+piniche posts ante 20
+sabre_laser posts ante 20
+aNsVegas posts ante 20
+C.Rocancourt posts ante 20
+7-Max-7 posts ante 20
+belikemike posts small blind 100
+Supasow posts big blind 200
+Dealt to sabre_laser [Ad 4d]
+*** PRE-FLOP *** 
+aNsVegas folds
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa raises 200 to 400
+junior273 calls 400
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+*** FLOP *** [8c Td Jc]
+Coscaa bets 600
+junior273 raises 1874 to 2474 and is all-in
+Coscaa calls 1874
+*** TURN *** [8c Td Jc][5s]
+*** RIVER *** [8c Td Jc 5s][2s]
+*** SHOW DOWN ***
+junior273 shows [Kd Jh] (One pair : Jacks)
+Coscaa shows [Qs Qh] (One pair : Queens)
+Coscaa collected 6228 from pot
+*** SUMMARY ***
+Total pot 6228 | No rake
+Board: [8c Td Jc 5s 2s]
+Seat 1: Coscaa showed [Qs Qh] and won 6228 with One pair : Queens
+Seat 2: junior273 showed [Kd Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-63-1424204558 - Holdem no limit (20/100/200) - 2015/02/17 20:22:38 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #5 is the button
+Seat 1: Coscaa (8671)
+Seat 3: piniche (4606)
+Seat 4: sabre_laser (7868)
+Seat 5: belikemike (4585)
+Seat 6: Supasow (3165)
+Seat 7: aNsVegas (1529)
+Seat 8: C.Rocancourt (2965)
+Seat 9: 7-Max-7 (6658)
+*** ANTE/BLINDS ***
+Supasow posts ante 20
+aNsVegas posts ante 20
+Coscaa posts ante 20
+piniche posts ante 20
+sabre_laser posts ante 20
+belikemike posts ante 20
+C.Rocancourt posts ante 20
+7-Max-7 posts ante 20
+Supasow posts small blind 100
+aNsVegas posts big blind 200
+Dealt to sabre_laser [7s 2h]
+*** PRE-FLOP *** 
+C.Rocancourt folds
+7-Max-7 folds
+Coscaa calls 200
+piniche calls 200
+sabre_laser folds
+belikemike folds
+Supasow folds
+aNsVegas checks
+*** FLOP *** [3h 9h 4s]
+aNsVegas checks
+Coscaa checks
+piniche bets 800
+aNsVegas raises 509 to 1309 and is all-in
+Coscaa raises 7142 to 8451 and is all-in
+piniche folds
+*** TURN *** [3h 9h 4s][Qd]
+*** RIVER *** [3h 9h 4s Qd][6c]
+*** SHOW DOWN ***
+aNsVegas shows [2d 3c] (One pair : 3)
+Coscaa shows [9d 9s] (Trips of 9)
+Coscaa collected 11420 from pot
+*** SUMMARY ***
+Total pot 11420 | No rake
+Board: [3h 9h 4s Qd 6c]
+Seat 1: Coscaa showed [9d 9s] and won 11420 with Trips of 9
+Seat 7: aNsVegas (big blind) showed [2d 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310434-64-1424204642 - Holdem no limit (20/100/200) - 2015/02/17 20:24:02 UTC
+Table: 'KING 5 - Stade 1D(108636457)#161' 9-max (real money) Seat #6 is the button
+Seat 1: Coscaa (11420)
+Seat 2: jomalaure (12927)
+Seat 3: piniche (3586)
+Seat 4: sabre_laser (7848)
+Seat 5: belikemike (4565)
+Seat 6: Supasow (3045)
+Seat 8: C.Rocancourt (2945)
+Seat 9: 7-Max-7 (6638)
+*** ANTE/BLINDS ***
+C.Rocancourt posts ante 20
+Coscaa posts ante 20
+jomalaure posts ante 20
+piniche posts ante 20
+sabre_laser posts ante 20
+belikemike posts ante 20
+Supasow posts ante 20
+7-Max-7 posts ante 20
+C.Rocancourt posts big blind 200
+Dealt to sabre_laser [8d 5h]
+*** PRE-FLOP *** 
+7-Max-7 raises 400 to 600
+Coscaa folds
+jomalaure folds
+piniche folds
+sabre_laser folds
+belikemike folds
+Supasow folds
+C.Rocancourt folds
+7-Max-7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 9: 7-Max-7 won 960
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 7 - HandId: #466590029968310492-69-1424204661 - Holdem no limit (20/100/200) - 2015/02/17 20:24:21 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #8 is the button
+Seat 1: Wadydy (1799)
+Seat 2: l3adass (2490)
+Seat 3: ReghateR (6619)
+Seat 4: Pantx64 (2935)
+Seat 5: sandro30 x (6970)
+Seat 6: liguilise24 (2383)
+Seat 7: bekanta. (7096)
+Seat 8: Silver910 (4312)
+Seat 9: sabre_laser (7828)
+*** ANTE/BLINDS ***
+Wadydy posts ante 20
+l3adass posts ante 20
+ReghateR posts ante 20
+Pantx64 posts ante 20
+sandro30 x posts ante 20
+liguilise24 posts ante 20
+bekanta. posts ante 20
+Silver910 posts ante 20
+Wadydy posts big blind 200
+*** PRE-FLOP *** 
+l3adass folds
+ReghateR folds
+Pantx64 raises 400 to 600
+sandro30 x folds
+liguilise24 folds
+bekanta. folds
+Silver910 folds
+Wadydy folds
+Pantx64 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 4: Pantx64 won 960
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-70-1424204685 - Holdem no limit (25/125/250) - 2015/02/17 20:24:45 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #9 is the button
+Seat 1: Wadydy (1579)
+Seat 2: l3adass (2470)
+Seat 3: ReghateR (6599)
+Seat 4: Pantx64 (3275)
+Seat 5: sandro30 x (6950)
+Seat 6: liguilise24 (2363)
+Seat 7: bekanta. (7076)
+Seat 8: Silver910 (4292)
+Seat 9: sabre_laser (7828)
+*** ANTE/BLINDS ***
+Wadydy posts ante 25
+l3adass posts ante 25
+ReghateR posts ante 25
+Pantx64 posts ante 25
+sandro30 x posts ante 25
+liguilise24 posts ante 25
+bekanta. posts ante 25
+Silver910 posts ante 25
+Wadydy posts small blind 125
+l3adass posts big blind 250
+*** PRE-FLOP *** 
+ReghateR folds
+Pantx64 folds
+sandro30 x folds
+liguilise24 folds
+bekanta. folds
+Silver910 raises 4017 to 4267 and is all-in
+Wadydy calls 1429 and is all-in
+l3adass folds
+*** FLOP *** [As 7h Jc]
+*** TURN *** [As 7h Jc][Th]
+*** RIVER *** [As 7h Jc Th][4h]
+*** SHOW DOWN ***
+Wadydy shows [Jh Ah] (Flush Ace high)
+Silver910 shows [Kd Qd] (Straight Ace high)
+Silver910 collected 2713 from side pot 1
+Wadydy collected 3558 from main pot
+*** SUMMARY ***
+Total pot 6271 | No rake
+Board: [As 7h Jc Th 4h]
+Seat 1: Wadydy (small blind) showed [Jh Ah] and won 3558 with Flush Ace high
+Seat 8: Silver910 showed [Kd Qd] and won 2713 with Straight Ace high
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-71-1424204710 - Holdem no limit (25/125/250) - 2015/02/17 20:25:10 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #1 is the button
+Seat 1: Wadydy (3558)
+Seat 2: l3adass (2195)
+Seat 3: ReghateR (6574)
+Seat 4: Pantx64 (3250)
+Seat 5: sandro30 x (6925)
+Seat 6: liguilise24 (2338)
+Seat 7: bekanta. (7051)
+Seat 8: SmallFish62 (10910)
+Seat 9: sabre_laser (7828)
+*** ANTE/BLINDS ***
+l3adass posts ante 25
+ReghateR posts ante 25
+Wadydy posts ante 25
+Pantx64 posts ante 25
+sandro30 x posts ante 25
+liguilise24 posts ante 25
+bekanta. posts ante 25
+SmallFish62 posts ante 25
+sabre_laser posts ante 25
+l3adass posts small blind 125
+ReghateR posts big blind 250
+Dealt to sabre_laser [Jh 4c]
+*** PRE-FLOP *** 
+Pantx64 folds
+sandro30 x folds
+liguilise24 folds
+bekanta. folds
+SmallFish62 folds
+sabre_laser raises 250 to 500
+Wadydy folds
+l3adass folds
+ReghateR calls 250
+*** FLOP *** [7h 3d 2d]
+ReghateR checks
+sabre_laser bets 1013
+ReghateR folds
+sabre_laser collected 2363 from pot
+*** SUMMARY ***
+Total pot 2363 | No rake
+Board: [7h 3d 2d]
+Seat 9: sabre_laser won 2363
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-72-1424204775 - Holdem no limit (25/125/250) - 2015/02/17 20:26:15 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #2 is the button
+Seat 1: Wadydy (3533)
+Seat 2: l3adass (2045)
+Seat 3: ReghateR (6049)
+Seat 4: Pantx64 (3225)
+Seat 5: sandro30 x (6900)
+Seat 6: liguilise24 (2313)
+Seat 7: bekanta. (7026)
+Seat 8: SmallFish62 (10885)
+Seat 9: sabre_laser (8653)
+*** ANTE/BLINDS ***
+ReghateR posts ante 25
+Pantx64 posts ante 25
+Wadydy posts ante 25
+l3adass posts ante 25
+sandro30 x posts ante 25
+liguilise24 posts ante 25
+bekanta. posts ante 25
+SmallFish62 posts ante 25
+sabre_laser posts ante 25
+ReghateR posts small blind 125
+Pantx64 posts big blind 250
+Dealt to sabre_laser [3d 3s]
+*** PRE-FLOP *** 
+sandro30 x folds
+liguilise24 folds
+bekanta. calls 250
+SmallFish62 folds
+sabre_laser calls 250
+Wadydy folds
+l3adass folds
+ReghateR raises 1000 to 1250
+Pantx64 folds
+bekanta. folds
+sabre_laser folds
+ReghateR collected 2225 from pot
+*** SUMMARY ***
+Total pot 2225 | No rake
+Seat 3: ReghateR (small blind) won 2225
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-73-1424204821 - Holdem no limit (25/125/250) - 2015/02/17 20:27:01 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #3 is the button
+Seat 1: Wadydy (3508)
+Seat 2: l3adass (2020)
+Seat 3: ReghateR (6999)
+Seat 4: Pantx64 (2950)
+Seat 5: sandro30 x (6875)
+Seat 6: liguilise24 (2288)
+Seat 7: bekanta. (6751)
+Seat 8: SmallFish62 (10860)
+Seat 9: sabre_laser (8378)
+*** ANTE/BLINDS ***
+Pantx64 posts ante 25
+sandro30 x posts ante 25
+Wadydy posts ante 25
+l3adass posts ante 25
+ReghateR posts ante 25
+liguilise24 posts ante 25
+bekanta. posts ante 25
+SmallFish62 posts ante 25
+sabre_laser posts ante 25
+Pantx64 posts small blind 125
+sandro30 x posts big blind 250
+Dealt to sabre_laser [9d 3h]
+*** PRE-FLOP *** 
+liguilise24 folds
+bekanta. folds
+SmallFish62 folds
+sabre_laser folds
+Wadydy folds
+l3adass folds
+ReghateR folds
+Pantx64 folds
+sandro30 x collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 5: sandro30 x (big blind) won 600
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-74-1424204841 - Holdem no limit (25/125/250) - 2015/02/17 20:27:21 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #4 is the button
+Seat 1: Wadydy (3483)
+Seat 2: l3adass (1995)
+Seat 3: ReghateR (6974)
+Seat 4: Pantx64 (2800)
+Seat 5: sandro30 x (7200)
+Seat 6: liguilise24 (2263)
+Seat 7: bekanta. (6726)
+Seat 8: SmallFish62 (10835)
+Seat 9: sabre_laser (8353)
+*** ANTE/BLINDS ***
+sandro30 x posts ante 25
+liguilise24 posts ante 25
+Wadydy posts ante 25
+l3adass posts ante 25
+ReghateR posts ante 25
+Pantx64 posts ante 25
+bekanta. posts ante 25
+SmallFish62 posts ante 25
+sabre_laser posts ante 25
+sandro30 x posts small blind 125
+liguilise24 posts big blind 250
+Dealt to sabre_laser [Kd Qd]
+*** PRE-FLOP *** 
+bekanta. folds
+SmallFish62 folds
+sabre_laser calls 250
+Wadydy folds
+l3adass folds
+ReghateR folds
+Pantx64 folds
+sandro30 x calls 125
+liguilise24 raises 1988 to 2238 and is all-in
+sabre_laser raises 6090 to 8328 and is all-in
+sandro30 x folds
+*** FLOP *** [8h Ts Qs]
+*** TURN *** [8h Ts Qs][5d]
+*** RIVER *** [8h Ts Qs 5d][Tc]
+*** SHOW DOWN ***
+liguilise24 shows [Qc As] (Two pairs : Queens and Tens)
+sabre_laser shows [Kd Qd] (Two pairs : Queens and Tens)
+sabre_laser collected 6090 from side pot 1
+liguilise24 collected 4951 from main pot
+*** SUMMARY ***
+Total pot 11041 | No rake
+Board: [8h Ts Qs 5d Tc]
+Seat 6: liguilise24 (big blind) showed [Qc As] and won 4951 with Two pairs : Queens and Tens
+Seat 9: sabre_laser showed [Kd Qd] and won 6090 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-75-1424204896 - Holdem no limit (25/125/250) - 2015/02/17 20:28:16 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #5 is the button
+Seat 1: Wadydy (3458)
+Seat 2: l3adass (1970)
+Seat 3: ReghateR (6949)
+Seat 4: Pantx64 (2775)
+Seat 5: sandro30 x (6925)
+Seat 6: liguilise24 (4951)
+Seat 7: bekanta. (6701)
+Seat 8: SmallFish62 (10810)
+Seat 9: sabre_laser (6090)
+*** ANTE/BLINDS ***
+liguilise24 posts ante 25
+bekanta. posts ante 25
+Wadydy posts ante 25
+l3adass posts ante 25
+ReghateR posts ante 25
+Pantx64 posts ante 25
+sandro30 x posts ante 25
+SmallFish62 posts ante 25
+sabre_laser posts ante 25
+liguilise24 posts small blind 125
+bekanta. posts big blind 250
+Dealt to sabre_laser [2s Kh]
+*** PRE-FLOP *** 
+SmallFish62 folds
+sabre_laser folds
+Wadydy folds
+l3adass folds
+ReghateR calls 250
+Pantx64 folds
+sandro30 x raises 500 to 750
+liguilise24 folds
+bekanta. folds
+ReghateR calls 500
+*** FLOP *** [6d Jh 8c]
+ReghateR checks
+sandro30 x checks
+*** TURN *** [6d Jh 8c][7c]
+ReghateR bets 1050
+sandro30 x calls 1050
+*** RIVER *** [6d Jh 8c 7c][2c]
+ReghateR bets 2000
+sandro30 x raises 3100 to 5100 and is all-in
+ReghateR calls 3100
+*** SHOW DOWN ***
+ReghateR shows [6s 6h] (Trips of 6)
+sandro30 x shows [Qc Ac] (Flush Ace high)
+sandro30 x collected 14400 from pot
+*** SUMMARY ***
+Total pot 14400 | No rake
+Board: [6d Jh 8c 7c 2c]
+Seat 3: ReghateR showed [6s 6h] and lost with Trips of 6
+Seat 5: sandro30 x (button) showed [Qc Ac] and won 14400 with Flush Ace high
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-76-1424204964 - Holdem no limit (25/125/250) - 2015/02/17 20:29:24 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #6 is the button
+Seat 1: Wadydy (3433)
+Seat 2: l3adass (1945)
+Seat 3: ReghateR (24)
+Seat 4: Pantx64 (2750)
+Seat 5: sandro30 x (14400)
+Seat 6: liguilise24 (4801)
+Seat 7: bekanta. (6426)
+Seat 8: SmallFish62 (10785)
+Seat 9: sabre_laser (6065)
+*** ANTE/BLINDS ***
+bekanta. posts ante 25
+SmallFish62 posts ante 25
+Wadydy posts ante 25
+l3adass posts ante 25
+ReghateR posts ante 24 and is all-in
+Pantx64 posts ante 25
+sandro30 x posts ante 25
+liguilise24 posts ante 25
+sabre_laser posts ante 25
+bekanta. posts small blind 125
+SmallFish62 posts big blind 250
+Dealt to sabre_laser [4d 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Wadydy folds
+l3adass folds
+Pantx64 folds
+sandro30 x calls 250
+liguilise24 folds
+bekanta. folds
+SmallFish62 checks
+*** FLOP *** [Th 2c 3h]
+SmallFish62 checks
+sandro30 x bets 849
+SmallFish62 folds
+*** TURN *** [Th 2c 3h][Jh]
+*** RIVER *** [Th 2c 3h Jh][Kh]
+*** SHOW DOWN ***
+ReghateR shows [7c 6c] (High card : King)
+sandro30 x shows [Td Kc] (Two pairs : Kings and Tens)
+sandro30 x collected 1698 from pot
+*** SUMMARY ***
+Total pot 1698 | No rake
+Board: [Th 2c 3h Jh Kh]
+Seat 3: ReghateR showed [7c 6c] and lost with High card : King
+Seat 5: sandro30 x showed [Td Kc] and won 1698 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-77-1424205043 - Holdem no limit (25/125/250) - 2015/02/17 20:30:43 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #7 is the button
+Seat 1: Wadydy (3408)
+Seat 2: l3adass (1920)
+Seat 3: Miniondu29 (24936)
+Seat 4: Pantx64 (2725)
+Seat 5: sandro30 x (14974)
+Seat 6: liguilise24 (4776)
+Seat 7: bekanta. (6276)
+Seat 8: SmallFish62 (10510)
+Seat 9: sabre_laser (6040)
+*** ANTE/BLINDS ***
+SmallFish62 posts ante 25
+sabre_laser posts ante 25
+Wadydy posts ante 25
+l3adass posts ante 25
+Miniondu29 posts ante 25
+Pantx64 posts ante 25
+sandro30 x posts ante 25
+liguilise24 posts ante 25
+bekanta. posts ante 25
+SmallFish62 posts small blind 125
+sabre_laser posts big blind 250
+Dealt to sabre_laser [5s Th]
+*** PRE-FLOP *** 
+Wadydy folds
+l3adass folds
+Miniondu29 calls 250
+Pantx64 folds
+sandro30 x folds
+liguilise24 folds
+bekanta. folds
+SmallFish62 calls 125
+sabre_laser checks
+*** FLOP *** [8c Td 7h]
+SmallFish62 bets 488
+sabre_laser calls 488
+Miniondu29 folds
+*** TURN *** [8c Td 7h][9c]
+SmallFish62 checks
+sabre_laser bets 976
+SmallFish62 folds
+sabre_laser collected 2927 from pot
+*** SUMMARY ***
+Total pot 2927 | No rake
+Board: [8c Td 7h 9c]
+Seat 9: sabre_laser (big blind) won 2927
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 8 - HandId: #466590029968310492-78-1424205123 - Holdem no limit (25/125/250) - 2015/02/17 20:32:03 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #8 is the button
+Seat 1: Wadydy (3383)
+Seat 2: l3adass (1895)
+Seat 3: Miniondu29 (24661)
+Seat 4: Pantx64 (2700)
+Seat 5: sandro30 x (14949)
+Seat 6: liguilise24 (4751)
+Seat 7: bekanta. (6251)
+Seat 8: SmallFish62 (9747)
+Seat 9: sabre_laser (7228)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+Wadydy posts ante 25
+l3adass posts ante 25
+Miniondu29 posts ante 25
+Pantx64 posts ante 25
+sandro30 x posts ante 25
+liguilise24 posts ante 25
+bekanta. posts ante 25
+SmallFish62 posts ante 25
+sabre_laser posts small blind 125
+Wadydy posts big blind 250
+Dealt to sabre_laser [Qc 5s]
+*** PRE-FLOP *** 
+l3adass folds
+Miniondu29 folds
+Pantx64 folds
+sandro30 x folds
+liguilise24 folds
+bekanta. folds
+SmallFish62 calls 250
+sabre_laser calls 125
+Wadydy checks
+*** FLOP *** [3h Jd 5d]
+sabre_laser checks
+Wadydy checks
+SmallFish62 bets 488
+sabre_laser folds
+Wadydy folds
+SmallFish62 collected 1463 from pot
+*** SUMMARY ***
+Total pot 1463 | No rake
+Board: [3h Jd 5d]
+Seat 8: SmallFish62 (button) won 1463
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310492-79-1424205194 - Holdem no limit (35/150/300) - 2015/02/17 20:33:14 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #9 is the button
+Seat 1: Wadydy (3108)
+Seat 2: l3adass (1870)
+Seat 3: Miniondu29 (24636)
+Seat 4: Pantx64 (2675)
+Seat 5: sandro30 x (14924)
+Seat 6: liguilise24 (4726)
+Seat 7: bekanta. (6226)
+Seat 8: SmallFish62 (10447)
+Seat 9: sabre_laser (6953)
+*** ANTE/BLINDS ***
+Wadydy posts ante 35
+l3adass posts ante 35
+Miniondu29 posts ante 35
+Pantx64 posts ante 35
+sandro30 x posts ante 35
+liguilise24 posts ante 35
+bekanta. posts ante 35
+SmallFish62 posts ante 35
+sabre_laser posts ante 35
+Wadydy posts small blind 150
+l3adass posts big blind 300
+Dealt to sabre_laser [8h 6c]
+*** PRE-FLOP *** 
+Miniondu29 calls 300
+Pantx64 calls 300
+sandro30 x calls 300
+liguilise24 raises 4391 to 4691 and is all-in
+bekanta. folds
+SmallFish62 folds
+sabre_laser folds
+Wadydy folds
+l3adass folds
+Miniondu29 folds
+Pantx64 folds
+sandro30 x folds
+liguilise24 collected 6356 from pot
+*** SUMMARY ***
+Total pot 6356 | No rake
+Seat 6: liguilise24 won 6356
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310492-80-1424205248 - Holdem no limit (35/150/300) - 2015/02/17 20:34:08 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #1 is the button
+Seat 1: Wadydy (2923)
+Seat 2: l3adass (1535)
+Seat 3: Miniondu29 (24301)
+Seat 4: Pantx64 (2340)
+Seat 5: sandro30 x (14589)
+Seat 6: liguilise24 (6356)
+Seat 7: bekanta. (6191)
+Seat 8: SmallFish62 (10412)
+Seat 9: sabre_laser (6918)
+*** ANTE/BLINDS ***
+l3adass posts ante 35
+Miniondu29 posts ante 35
+Wadydy posts ante 35
+Pantx64 posts ante 35
+sandro30 x posts ante 35
+liguilise24 posts ante 35
+bekanta. posts ante 35
+SmallFish62 posts ante 35
+sabre_laser posts ante 35
+l3adass posts small blind 150
+Miniondu29 posts big blind 300
+Dealt to sabre_laser [As 3d]
+*** PRE-FLOP *** 
+Pantx64 folds
+sandro30 x folds
+liguilise24 folds
+bekanta. folds
+SmallFish62 folds
+sabre_laser folds
+Wadydy folds
+l3adass folds
+Miniondu29 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 3: Miniondu29 (big blind) won 765
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310492-81-1424205265 - Holdem no limit (35/150/300) - 2015/02/17 20:34:25 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #2 is the button
+Seat 1: Wadydy (2888)
+Seat 2: l3adass (1350)
+Seat 3: Miniondu29 (24731)
+Seat 4: Pantx64 (2305)
+Seat 5: sandro30 x (14554)
+Seat 6: liguilise24 (6321)
+Seat 7: bekanta. (6156)
+Seat 8: SmallFish62 (10377)
+Seat 9: sabre_laser (6883)
+*** ANTE/BLINDS ***
+Miniondu29 posts ante 35
+Pantx64 posts ante 35
+Wadydy posts ante 35
+l3adass posts ante 35
+sandro30 x posts ante 35
+liguilise24 posts ante 35
+bekanta. posts ante 35
+SmallFish62 posts ante 35
+sabre_laser posts ante 35
+Miniondu29 posts small blind 150
+Pantx64 posts big blind 300
+Dealt to sabre_laser [Kh As]
+*** PRE-FLOP *** 
+sandro30 x folds
+liguilise24 folds
+bekanta. folds
+SmallFish62 raises 300 to 600
+sabre_laser raises 600 to 1200
+Wadydy folds
+l3adass folds
+Miniondu29 folds
+Pantx64 folds
+SmallFish62 calls 600
+*** FLOP *** [Td Qh 3c]
+SmallFish62 checks
+sabre_laser checks
+*** TURN *** [Td Qh 3c][3h]
+SmallFish62 checks
+sabre_laser bets 2110
+SmallFish62 folds
+sabre_laser collected 5275 from pot
+*** SUMMARY ***
+Total pot 5275 | No rake
+Board: [Td Qh 3c 3h]
+Seat 9: sabre_laser won 5275
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310492-82-1424205334 - Holdem no limit (35/150/300) - 2015/02/17 20:35:34 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #3 is the button
+Seat 1: Wadydy (2853)
+Seat 2: l3adass (1315)
+Seat 3: Miniondu29 (24546)
+Seat 4: Pantx64 (1970)
+Seat 5: sandro30 x (14519)
+Seat 6: liguilise24 (6286)
+Seat 7: bekanta. (6121)
+Seat 8: speedstaf (2930)
+Seat 9: sabre_laser (8813)
+*** ANTE/BLINDS ***
+Pantx64 posts ante 35
+sandro30 x posts ante 35
+Wadydy posts ante 35
+l3adass posts ante 35
+Miniondu29 posts ante 35
+liguilise24 posts ante 35
+bekanta. posts ante 35
+speedstaf posts ante 35
+sabre_laser posts ante 35
+Pantx64 posts small blind 150
+sandro30 x posts big blind 300
+Dealt to sabre_laser [Qs 3c]
+*** PRE-FLOP *** 
+liguilise24 folds
+bekanta. folds
+speedstaf folds
+sabre_laser folds
+Wadydy folds
+l3adass folds
+Miniondu29 calls 300
+Pantx64 folds
+sandro30 x checks
+*** FLOP *** [Ts 3s As]
+sandro30 x checks
+Miniondu29 bets 300
+sandro30 x folds
+Miniondu29 collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | No rake
+Board: [Ts 3s As]
+Seat 3: Miniondu29 (button) won 1365
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310492-83-1424205358 - Holdem no limit (35/150/300) - 2015/02/17 20:35:58 UTC
+Table: 'KING 5 - Stade 1D(108636457)#219' 9-max (real money) Seat #4 is the button
+Seat 1: Wadydy (2818)
+Seat 2: l3adass (1280)
+Seat 3: Miniondu29 (25276)
+Seat 4: Pantx64 (1785)
+Seat 5: sandro30 x (14184)
+Seat 6: liguilise24 (6251)
+Seat 7: bekanta. (6086)
+Seat 8: speedstaf (2895)
+Seat 9: sabre_laser (8778)
+*** ANTE/BLINDS ***
+sandro30 x posts ante 35
+liguilise24 posts ante 35
+Wadydy posts ante 35
+l3adass posts ante 35
+Miniondu29 posts ante 35
+Pantx64 posts ante 35
+bekanta. posts ante 35
+speedstaf posts ante 35
+sabre_laser posts ante 35
+sandro30 x posts small blind 150
+liguilise24 posts big blind 300
+Dealt to sabre_laser [2h 2s]
+*** PRE-FLOP *** 
+bekanta. folds
+speedstaf folds
+sabre_laser folds
+Wadydy folds
+l3adass folds
+Miniondu29 calls 300
+Pantx64 folds
+sandro30 x folds
+liguilise24 checks
+*** FLOP *** [7h 9h Ts]
+liguilise24 checks
+Miniondu29 checks
+*** TURN *** [7h 9h Ts][8h]
+liguilise24 checks
+Miniondu29 checks
+*** RIVER *** [7h 9h Ts 8h][Jh]
+liguilise24 checks
+Miniondu29 bets 300
+liguilise24 calls 300
+*** SHOW DOWN ***
+liguilise24 shows [5c Jd] (Straight Jack high)
+Miniondu29 shows [3d 3h] (Flush Jack high)
+Miniondu29 collected 1665 from pot
+*** SUMMARY ***
+Total pot 1665 | No rake
+Board: [7h 9h Ts 8h Jh]
+Seat 3: Miniondu29 showed [3d 3h] and won 1665 with Flush Jack high
+Seat 6: liguilise24 (big blind) showed [5c Jd] and lost with Straight Jack high
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310433-66-1424205409 - Holdem no limit (35/150/300) - 2015/02/17 20:36:49 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #1 is the button
+Seat 1: samsail (2624)
+Seat 2: Desploum32 (4105)
+Seat 3: perpss (4785)
+Seat 4: CANNNNABIS (6015)
+Seat 5: ninie28300 (9261)
+Seat 6: mordok (6867)
+Seat 7: Qarizm-AA (10106)
+Seat 8: richecofie35 (6765)
+Seat 9: sabre_laser (8743)
+*** ANTE/BLINDS ***
+Desploum32 posts ante 35
+perpss posts ante 35
+samsail posts ante 35
+CANNNNABIS posts ante 35
+ninie28300 posts ante 35
+mordok posts ante 35
+Qarizm-AA posts ante 35
+richecofie35 posts ante 35
+sabre_laser posts ante 35
+Desploum32 posts small blind 150
+perpss posts big blind 300
+Dealt to sabre_laser [Ts 5h]
+*** PRE-FLOP *** 
+CANNNNABIS folds
+ninie28300 calls 300
+mordok folds
+Qarizm-AA folds
+richecofie35 folds
+sabre_laser folds
+samsail raises 2289 to 2589 and is all-in
+Desploum32 folds
+perpss folds
+ninie28300 calls 2289
+*** FLOP *** [Qh Kd Jh]
+*** TURN *** [Qh Kd Jh][5s]
+*** RIVER *** [Qh Kd Jh 5s][Tc]
+*** SHOW DOWN ***
+ninie28300 shows [2h 2d] (One pair : 2)
+samsail shows [7c 7d] (One pair : 7)
+samsail collected 5943 from pot
+*** SUMMARY ***
+Total pot 5943 | No rake
+Board: [Qh Kd Jh 5s Tc]
+Seat 1: samsail (button) showed [7c 7d] and won 5943 with One pair : 7
+Seat 5: ninie28300 showed [2h 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310433-67-1424205468 - Holdem no limit (35/150/300) - 2015/02/17 20:37:48 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #2 is the button
+Seat 1: samsail (5943)
+Seat 2: Desploum32 (3920)
+Seat 3: perpss (4450)
+Seat 4: CANNNNABIS (5980)
+Seat 5: ninie28300 (6637)
+Seat 6: mordok (6832)
+Seat 7: Qarizm-AA (10071)
+Seat 8: richecofie35 (6730)
+Seat 9: sabre_laser (8708)
+*** ANTE/BLINDS ***
+perpss posts ante 35
+CANNNNABIS posts ante 35
+samsail posts ante 35
+Desploum32 posts ante 35
+ninie28300 posts ante 35
+mordok posts ante 35
+Qarizm-AA posts ante 35
+richecofie35 posts ante 35
+sabre_laser posts ante 35
+perpss posts small blind 150
+CANNNNABIS posts big blind 300
+Dealt to sabre_laser [Kc Jh]
+*** PRE-FLOP *** 
+ninie28300 calls 300
+mordok folds
+Qarizm-AA folds
+richecofie35 folds
+sabre_laser raises 450 to 750
+samsail folds
+Desploum32 folds
+perpss folds
+CANNNNABIS folds
+ninie28300 folds
+sabre_laser collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | No rake
+Seat 9: sabre_laser won 1815
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310433-68-1424205500 - Holdem no limit (35/150/300) - 2015/02/17 20:38:20 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #3 is the button
+Seat 1: samsail (5908)
+Seat 2: Desploum32 (3885)
+Seat 3: perpss (4265)
+Seat 4: CANNNNABIS (5645)
+Seat 5: ninie28300 (6302)
+Seat 6: mordok (6797)
+Seat 7: Qarizm-AA (10036)
+Seat 8: richecofie35 (6695)
+Seat 9: sabre_laser (9738)
+*** ANTE/BLINDS ***
+CANNNNABIS posts ante 35
+ninie28300 posts ante 35
+samsail posts ante 35
+Desploum32 posts ante 35
+perpss posts ante 35
+mordok posts ante 35
+Qarizm-AA posts ante 35
+richecofie35 posts ante 35
+sabre_laser posts ante 35
+CANNNNABIS posts small blind 150
+ninie28300 posts big blind 300
+Dealt to sabre_laser [Jc 2d]
+*** PRE-FLOP *** 
+mordok folds
+Qarizm-AA calls 300
+richecofie35 folds
+sabre_laser folds
+samsail folds
+Desploum32 folds
+perpss folds
+CANNNNABIS calls 150
+ninie28300 checks
+*** FLOP *** [2h 5h 2s]
+CANNNNABIS checks
+ninie28300 bets 300
+Qarizm-AA raises 300 to 600
+CANNNNABIS folds
+ninie28300 raises 5367 to 5967 and is all-in
+Qarizm-AA folds
+ninie28300 collected 7782 from pot
+*** SUMMARY ***
+Total pot 7782 | No rake
+Board: [2h 5h 2s]
+Seat 5: ninie28300 (big blind) won 7782
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310433-69-1424205560 - Holdem no limit (35/150/300) - 2015/02/17 20:39:20 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #4 is the button
+Seat 1: samsail (5873)
+Seat 2: Desploum32 (3850)
+Seat 3: perpss (4230)
+Seat 4: CANNNNABIS (5310)
+Seat 5: ninie28300 (7782)
+Seat 6: mordok (6762)
+Seat 7: Qarizm-AA (9101)
+Seat 8: richecofie35 (6660)
+Seat 9: sabre_laser (9703)
+*** ANTE/BLINDS ***
+ninie28300 posts ante 35
+mordok posts ante 35
+samsail posts ante 35
+Desploum32 posts ante 35
+perpss posts ante 35
+CANNNNABIS posts ante 35
+Qarizm-AA posts ante 35
+richecofie35 posts ante 35
+sabre_laser posts ante 35
+ninie28300 posts small blind 150
+mordok posts big blind 300
+Dealt to sabre_laser [2d As]
+*** PRE-FLOP *** 
+Qarizm-AA calls 300
+richecofie35 folds
+sabre_laser folds
+samsail folds
+Desploum32 calls 300
+perpss folds
+CANNNNABIS raises 1200 to 1500
+ninie28300 folds
+mordok folds
+Qarizm-AA folds
+Desploum32 folds
+CANNNNABIS collected 2865 from pot
+*** SUMMARY ***
+Total pot 2865 | No rake
+Seat 4: CANNNNABIS (button) won 2865
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 9 - HandId: #466590029968310433-70-1424205617 - Holdem no limit (35/150/300) - 2015/02/17 20:40:17 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #5 is the button
+Seat 1: samsail (5838)
+Seat 2: Desploum32 (3515)
+Seat 3: perpss (4195)
+Seat 4: CANNNNABIS (6640)
+Seat 5: ninie28300 (7597)
+Seat 6: mordok (6427)
+Seat 7: Qarizm-AA (8766)
+Seat 8: richecofie35 (6625)
+Seat 9: sabre_laser (9668)
+*** ANTE/BLINDS ***
+mordok posts ante 35
+Qarizm-AA posts ante 35
+samsail posts ante 35
+Desploum32 posts ante 35
+perpss posts ante 35
+CANNNNABIS posts ante 35
+ninie28300 posts ante 35
+richecofie35 posts ante 35
+sabre_laser posts ante 35
+mordok posts small blind 150
+Qarizm-AA posts big blind 300
+Dealt to sabre_laser [2d Kh]
+*** PRE-FLOP *** 
+richecofie35 folds
+sabre_laser folds
+samsail folds
+Desploum32 folds
+perpss folds
+CANNNNABIS folds
+ninie28300 calls 300
+mordok calls 150
+Qarizm-AA checks
+*** FLOP *** [Ts 3c 2s]
+mordok bets 608
+Qarizm-AA folds
+ninie28300 calls 608
+*** TURN *** [Ts 3c 2s][6c]
+mordok bets 1216
+ninie28300 raises 5438 to 6654 and is all-in
+mordok calls 4268 and is all-in
+*** RIVER *** [Ts 3c 2s 6c][8d]
+*** SHOW DOWN ***
+mordok shows [4s 5s] (Straight 6 high)
+ninie28300 shows [Td As] (One pair : Tens)
+ninie28300 collected 1170 from side pot 1
+mordok collected 13399 from main pot
+*** SUMMARY ***
+Total pot 14569 | No rake
+Board: [Ts 3c 2s 6c 8d]
+Seat 5: ninie28300 (button) showed [Td As] and won 1170 with One pair : Tens
+Seat 6: mordok (small blind) showed [4s 5s] and won 13399 with Straight 6 high
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310433-71-1424205683 - Holdem no limit (40/200/400) - 2015/02/17 20:41:23 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #6 is the button
+Seat 1: samsail (5803)
+Seat 2: Desploum32 (3480)
+Seat 3: perpss (4160)
+Seat 4: CANNNNABIS (6605)
+Seat 5: ninie28300 (1170)
+Seat 6: mordok (13399)
+Seat 7: Qarizm-AA (8431)
+Seat 8: richecofie35 (6590)
+Seat 9: sabre_laser (9633)
+*** ANTE/BLINDS ***
+Qarizm-AA posts ante 40
+richecofie35 posts ante 40
+samsail posts ante 40
+Desploum32 posts ante 40
+perpss posts ante 40
+CANNNNABIS posts ante 40
+ninie28300 posts ante 40
+mordok posts ante 40
+sabre_laser posts ante 40
+Qarizm-AA posts small blind 200
+richecofie35 posts big blind 400
+Dealt to sabre_laser [Qs As]
+*** PRE-FLOP *** 
+sabre_laser raises 600 to 1000
+samsail folds
+Desploum32 folds
+perpss folds
+CANNNNABIS folds
+ninie28300 folds
+mordok folds
+Qarizm-AA calls 800
+richecofie35 folds
+*** FLOP *** [Qd 2d Ts]
+Qarizm-AA bets 400
+sabre_laser calls 400
+*** TURN *** [Qd 2d Ts][8c]
+Qarizm-AA checks
+sabre_laser bets 400
+Qarizm-AA folds
+sabre_laser collected 3960 from pot
+*** SUMMARY ***
+Total pot 3960 | No rake
+Board: [Qd 2d Ts 8c]
+Seat 9: sabre_laser won 3960
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310433-72-1424205742 - Holdem no limit (40/200/400) - 2015/02/17 20:42:22 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #7 is the button
+Seat 1: samsail (5763)
+Seat 2: Desploum32 (3440)
+Seat 3: perpss (4120)
+Seat 4: CANNNNABIS (6565)
+Seat 5: ninie28300 (1130)
+Seat 6: mordok (13359)
+Seat 7: Qarizm-AA (6991)
+Seat 8: richecofie35 (6150)
+Seat 9: sabre_laser (11753)
+*** ANTE/BLINDS ***
+richecofie35 posts ante 40
+sabre_laser posts ante 40
+samsail posts ante 40
+Desploum32 posts ante 40
+perpss posts ante 40
+CANNNNABIS posts ante 40
+ninie28300 posts ante 40
+mordok posts ante 40
+Qarizm-AA posts ante 40
+richecofie35 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [5s Jd]
+*** PRE-FLOP *** 
+samsail folds
+Desploum32 folds
+perpss folds
+CANNNNABIS folds
+ninie28300 folds
+mordok folds
+Qarizm-AA folds
+richecofie35 calls 200
+sabre_laser checks
+*** FLOP *** [Jh Kc Js]
+richecofie35 checks
+sabre_laser checks
+*** TURN *** [Jh Kc Js][8s]
+richecofie35 checks
+sabre_laser checks
+*** RIVER *** [Jh Kc Js 8s][9c]
+richecofie35 checks
+sabre_laser bets 400
+richecofie35 calls 400
+*** SHOW DOWN ***
+richecofie35 shows [6h 9h] (Two pairs : Jacks and 9)
+sabre_laser shows [5s Jd] (Trips of Jacks)
+sabre_laser collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [Jh Kc Js 8s 9c]
+Seat 8: richecofie35 (small blind) showed [6h 9h] and lost with Two pairs : Jacks and 9
+Seat 9: sabre_laser (big blind) showed [5s Jd] and won 1960 with Trips of Jacks
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310433-73-1424205818 - Holdem no limit (40/200/400) - 2015/02/17 20:43:38 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #8 is the button
+Seat 1: samsail (5723)
+Seat 2: Desploum32 (3400)
+Seat 3: perpss (4080)
+Seat 4: CANNNNABIS (6525)
+Seat 5: ninie28300 (1090)
+Seat 6: NaBiLLaBoOBS (5256)
+Seat 7: Qarizm-AA (6951)
+Seat 8: richecofie35 (5310)
+Seat 9: sabre_laser (12873)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+samsail posts ante 40
+Desploum32 posts ante 40
+perpss posts ante 40
+CANNNNABIS posts ante 40
+ninie28300 posts ante 40
+NaBiLLaBoOBS posts ante 40
+Qarizm-AA posts ante 40
+richecofie35 posts ante 40
+sabre_laser posts small blind 200
+samsail posts big blind 400
+Dealt to sabre_laser [Js Kd]
+*** PRE-FLOP *** 
+Desploum32 calls 400
+perpss folds
+CANNNNABIS folds
+ninie28300 folds
+NaBiLLaBoOBS folds
+Qarizm-AA folds
+richecofie35 folds
+sabre_laser calls 200
+samsail checks
+*** FLOP *** [Th 9d 2c]
+sabre_laser checks
+samsail checks
+Desploum32 checks
+*** TURN *** [Th 9d 2c][8s]
+sabre_laser bets 1560
+samsail folds
+Desploum32 folds
+sabre_laser collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [Th 9d 2c 8s]
+Seat 9: sabre_laser (small blind) won 3120
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310433-74-1424205906 - Holdem no limit (40/200/400) - 2015/02/17 20:45:06 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #9 is the button
+Seat 1: samsail (5283)
+Seat 2: Desploum32 (2960)
+Seat 3: perpss (4040)
+Seat 4: CANNNNABIS (6485)
+Seat 5: ninie28300 (1050)
+Seat 6: NaBiLLaBoOBS (5216)
+Seat 7: Qarizm-AA (6911)
+Seat 8: richecofie35 (5270)
+Seat 9: sabre_laser (13993)
+*** ANTE/BLINDS ***
+samsail posts ante 40
+Desploum32 posts ante 40
+perpss posts ante 40
+CANNNNABIS posts ante 40
+ninie28300 posts ante 40
+NaBiLLaBoOBS posts ante 40
+Qarizm-AA posts ante 40
+richecofie35 posts ante 40
+sabre_laser posts ante 40
+samsail posts small blind 200
+Desploum32 posts big blind 400
+Dealt to sabre_laser [Qh Kd]
+*** PRE-FLOP *** 
+perpss folds
+CANNNNABIS folds
+ninie28300 folds
+NaBiLLaBoOBS folds
+Qarizm-AA folds
+richecofie35 folds
+sabre_laser raises 600 to 1000
+samsail folds
+Desploum32 folds
+sabre_laser collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Seat 9: sabre_laser (button) won 1960
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310433-75-1424205948 - Holdem no limit (40/200/400) - 2015/02/17 20:45:48 UTC
+Table: 'KING 5 - Stade 1D(108636457)#160' 9-max (real money) Seat #1 is the button
+Seat 1: samsail (5043)
+Seat 2: Desploum32 (2520)
+Seat 3: perpss (4000)
+Seat 4: CANNNNABIS (6445)
+Seat 5: ninie28300 (1010)
+Seat 6: NaBiLLaBoOBS (5176)
+Seat 7: Qarizm-AA (6871)
+Seat 8: richecofie35 (5230)
+Seat 9: sabre_laser (14913)
+*** ANTE/BLINDS ***
+Desploum32 posts ante 40
+perpss posts ante 40
+samsail posts ante 40
+CANNNNABIS posts ante 40
+ninie28300 posts ante 40
+NaBiLLaBoOBS posts ante 40
+Qarizm-AA posts ante 40
+richecofie35 posts ante 40
+sabre_laser posts ante 40
+Desploum32 posts small blind 200
+perpss posts big blind 400
+Dealt to sabre_laser [3d Ac]
+*** PRE-FLOP *** 
+CANNNNABIS folds
+ninie28300 raises 570 to 970 and is all-in
+NaBiLLaBoOBS folds
+Qarizm-AA calls 970
+richecofie35 folds
+sabre_laser folds
+samsail folds
+Desploum32 folds
+perpss folds
+*** FLOP *** [9c Qc Th]
+*** TURN *** [9c Qc Th][9d]
+*** RIVER *** [9c Qc Th 9d][3h]
+*** SHOW DOWN ***
+ninie28300 shows [8h Ks] (One pair : 9)
+Qarizm-AA shows [Tc As] (Two pairs : Tens and 9)
+Qarizm-AA collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [9c Qc Th 9d 3h]
+Seat 5: ninie28300 showed [8h Ks] and lost with One pair : 9
+Seat 7: Qarizm-AA showed [Tc As] and won 2900 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310697-66-1424206006 - Holdem no limit (40/200/400) - 2015/02/17 20:46:46 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (14873)
+Seat 2: Anathorne (2165)
+Seat 3: yocosy (9190)
+Seat 4: Djodu84 (170)
+Seat 5: AlexWIN85 (9931)
+Seat 6: BAR.A.K (4745)
+Seat 7: Zebulas (8764)
+Seat 8: WestL (17336)
+Seat 9: PECO36 (9145)
+*** ANTE/BLINDS ***
+yocosy posts ante 40
+Djodu84 posts ante 40
+sabre_laser posts ante 40
+Anathorne posts ante 40
+AlexWIN85 posts ante 40
+BAR.A.K posts ante 40
+Zebulas posts ante 40
+WestL posts ante 40
+PECO36 posts ante 40
+yocosy posts small blind 200
+Djodu84 posts big blind 130 and is all-in
+Dealt to sabre_laser [Ah Ad]
+*** PRE-FLOP *** 
+AlexWIN85 folds
+BAR.A.K folds
+Zebulas folds
+WestL folds
+PECO36 folds
+sabre_laser calls 400
+Anathorne folds
+yocosy folds
+*** FLOP *** [Jc 7h 4s]
+*** TURN *** [Jc 7h 4s][Th]
+*** RIVER *** [Jc 7h 4s Th][3d]
+*** SHOW DOWN ***
+Djodu84 shows [Qs 2h] (High card : Queen)
+sabre_laser shows [Ah Ad] (One pair : Aces)
+sabre_laser collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [Jc 7h 4s Th 3d]
+Seat 1: sabre_laser showed [Ah Ad] and won 1090 with One pair : Aces
+Seat 4: Djodu84 (big blind) showed [Qs 2h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310697-67-1424206038 - Holdem no limit (40/200/400) - 2015/02/17 20:47:18 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (15523)
+Seat 2: Anathorne (2125)
+Seat 3: yocosy (8950)
+Seat 5: AlexWIN85 (9891)
+Seat 6: BAR.A.K (4705)
+Seat 7: Zebulas (8724)
+Seat 8: WestL (17296)
+Seat 9: PECO36 (9105)
+*** ANTE/BLINDS ***
+AlexWIN85 posts ante 40
+sabre_laser posts ante 40
+Anathorne posts ante 40
+yocosy posts ante 40
+BAR.A.K posts ante 40
+Zebulas posts ante 40
+WestL posts ante 40
+PECO36 posts ante 40
+AlexWIN85 posts big blind 400
+Dealt to sabre_laser [8s Kc]
+*** PRE-FLOP *** 
+BAR.A.K folds
+Zebulas folds
+WestL folds
+PECO36 folds
+sabre_laser folds
+Anathorne folds
+yocosy folds
+AlexWIN85 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 5: AlexWIN85 (big blind) won 720
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 10 - HandId: #466590029968310697-68-1424206076 - Holdem no limit (40/200/400) - 2015/02/17 20:47:56 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (15483)
+Seat 2: Anathorne (2085)
+Seat 3: yocosy (8910)
+Seat 4: guaye (6547)
+Seat 5: AlexWIN85 (10171)
+Seat 6: BAR.A.K (4665)
+Seat 7: Zebulas (8684)
+Seat 8: WestL (17256)
+Seat 9: PECO36 (9065)
+*** ANTE/BLINDS ***
+AlexWIN85 posts ante 40
+BAR.A.K posts ante 40
+sabre_laser posts ante 40
+Anathorne posts ante 40
+yocosy posts ante 40
+Zebulas posts ante 40
+WestL posts ante 40
+PECO36 posts ante 40
+AlexWIN85 posts small blind 200
+BAR.A.K posts big blind 400
+Dealt to sabre_laser [Jh 2c]
+*** PRE-FLOP *** 
+Zebulas folds
+WestL folds
+PECO36 raises 400 to 800
+sabre_laser folds
+Anathorne folds
+yocosy folds
+AlexWIN85 calls 600
+BAR.A.K folds
+*** FLOP *** [8s Js 2d]
+AlexWIN85 checks
+PECO36 bets 400
+AlexWIN85 calls 400
+*** TURN *** [8s Js 2d][5c]
+AlexWIN85 checks
+PECO36 checks
+*** RIVER *** [8s Js 2d 5c][Th]
+AlexWIN85 checks
+PECO36 checks
+*** SHOW DOWN ***
+PECO36 shows [6h 6d] (One pair : 6)
+AlexWIN85 shows [8c 9h] (One pair : 8)
+AlexWIN85 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [8s Js 2d 5c Th]
+Seat 5: AlexWIN85 (small blind) showed [8c 9h] and won 3120 with One pair : 8
+Seat 9: PECO36 showed [6h 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-69-1424206120 - Holdem no limit (50/250/500) - 2015/02/17 20:48:40 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (15443)
+Seat 2: Anathorne (2045)
+Seat 3: yocosy (8870)
+Seat 4: guaye (6547)
+Seat 5: AlexWIN85 (12051)
+Seat 6: BAR.A.K (4225)
+Seat 7: Zebulas (8644)
+Seat 8: WestL (17216)
+Seat 9: PECO36 (7825)
+*** ANTE/BLINDS ***
+BAR.A.K posts ante 50
+Zebulas posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+WestL posts ante 50
+PECO36 posts ante 50
+BAR.A.K posts small blind 250
+Zebulas posts big blind 500
+Dealt to sabre_laser [Ac 9d]
+*** PRE-FLOP *** 
+WestL folds
+PECO36 folds
+sabre_laser raises 500 to 1000
+Anathorne folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+Zebulas calls 500
+*** FLOP *** [2d 3h Jc]
+Zebulas checks
+sabre_laser bets 1350
+Zebulas folds
+sabre_laser collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | No rake
+Board: [2d 3h Jc]
+Seat 1: sabre_laser won 4050
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-70-1424206174 - Holdem no limit (50/250/500) - 2015/02/17 20:49:34 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (17093)
+Seat 2: Anathorne (1995)
+Seat 3: yocosy (8820)
+Seat 4: guaye (6497)
+Seat 5: AlexWIN85 (12001)
+Seat 6: BAR.A.K (3925)
+Seat 7: Zebulas (7594)
+Seat 8: WestL (17166)
+Seat 9: PECO36 (7775)
+*** ANTE/BLINDS ***
+Zebulas posts ante 50
+WestL posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+PECO36 posts ante 50
+Zebulas posts small blind 250
+WestL posts big blind 500
+Dealt to sabre_laser [6d 2d]
+*** PRE-FLOP *** 
+PECO36 raises 500 to 1000
+sabre_laser folds
+Anathorne folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+Zebulas folds
+WestL folds
+PECO36 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Seat 9: PECO36 won 2200
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-71-1424206225 - Holdem no limit (50/250/500) - 2015/02/17 20:50:25 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (17043)
+Seat 2: Anathorne (1945)
+Seat 3: yocosy (8770)
+Seat 4: guaye (6447)
+Seat 5: AlexWIN85 (11951)
+Seat 6: BAR.A.K (3875)
+Seat 7: Zebulas (7294)
+Seat 8: WestL (16616)
+Seat 9: PECO36 (8925)
+*** ANTE/BLINDS ***
+WestL posts ante 50
+PECO36 posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+Zebulas posts ante 50
+WestL posts small blind 250
+PECO36 posts big blind 500
+Dealt to sabre_laser [Td 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Anathorne folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+Zebulas raises 6744 to 7244 and is all-in
+WestL folds
+PECO36 folds
+Zebulas collected 8444 from pot
+*** SUMMARY ***
+Total pot 8444 | No rake
+Seat 7: Zebulas (button) won 8444
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-72-1424206263 - Holdem no limit (50/250/500) - 2015/02/17 20:51:03 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (16993)
+Seat 2: Anathorne (1895)
+Seat 3: yocosy (8720)
+Seat 4: guaye (6397)
+Seat 5: AlexWIN85 (11901)
+Seat 6: BAR.A.K (3825)
+Seat 7: Zebulas (8444)
+Seat 8: WestL (16316)
+Seat 9: PECO36 (8375)
+*** ANTE/BLINDS ***
+PECO36 posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+Zebulas posts ante 50
+WestL posts ante 50
+PECO36 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [9c 4d]
+*** PRE-FLOP *** 
+Anathorne folds
+yocosy raises 500 to 1000
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+Zebulas calls 1000
+WestL folds
+PECO36 folds
+sabre_laser folds
+*** FLOP *** [Td Js 5s]
+yocosy bets 500
+Zebulas raises 6894 to 7394 and is all-in
+yocosy calls 6894
+*** TURN *** [Td Js 5s][9d]
+*** RIVER *** [Td Js 5s 9d][5h]
+*** SHOW DOWN ***
+Zebulas shows [Ah Jc] (Two pairs : Jacks and 5)
+yocosy shows [Kd Kh] (Two pairs : Kings and 5)
+yocosy collected 17988 from pot
+*** SUMMARY ***
+Total pot 17988 | No rake
+Board: [Td Js 5s 9d 5h]
+Seat 3: yocosy showed [Kd Kh] and won 17988 with Two pairs : Kings and 5
+Seat 7: Zebulas showed [Ah Jc] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-73-1424206315 - Holdem no limit (50/250/500) - 2015/02/17 20:51:55 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (16443)
+Seat 2: Anathorne (1845)
+Seat 3: yocosy (18264)
+Seat 4: guaye (6347)
+Seat 5: AlexWIN85 (11851)
+Seat 6: BAR.A.K (3775)
+Seat 8: WestL (16266)
+Seat 9: PECO36 (8075)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+WestL posts ante 50
+PECO36 posts ante 50
+sabre_laser posts small blind 250
+Anathorne posts big blind 500
+Dealt to sabre_laser [7h Js]
+*** PRE-FLOP *** 
+yocosy folds
+guaye folds
+AlexWIN85 raises 500 to 1000
+BAR.A.K folds
+WestL folds
+PECO36 folds
+sabre_laser folds
+Anathorne folds
+AlexWIN85 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Seat 5: AlexWIN85 won 2150
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-74-1424206345 - Holdem no limit (50/250/500) - 2015/02/17 20:52:25 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (16143)
+Seat 2: Anathorne (1295)
+Seat 3: yocosy (18214)
+Seat 4: guaye (6297)
+Seat 5: AlexWIN85 (12951)
+Seat 6: BAR.A.K (3725)
+Seat 8: WestL (16216)
+Seat 9: PECO36 (8025)
+*** ANTE/BLINDS ***
+Anathorne posts ante 50
+yocosy posts ante 50
+sabre_laser posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+WestL posts ante 50
+PECO36 posts ante 50
+Anathorne posts small blind 250
+yocosy posts big blind 500
+Dealt to sabre_laser [7s 7d]
+*** PRE-FLOP *** 
+guaye folds
+AlexWIN85 raises 500 to 1000
+BAR.A.K folds
+WestL folds
+PECO36 folds
+sabre_laser raises 2250 to 3250
+Anathorne folds
+yocosy folds
+AlexWIN85 folds
+sabre_laser collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Seat 1: sabre_laser (button) won 5400
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-75-1424206389 - Holdem no limit (50/250/500) - 2015/02/17 20:53:09 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (18243)
+Seat 2: Anathorne (995)
+Seat 3: yocosy (17664)
+Seat 4: guaye (6247)
+Seat 5: AlexWIN85 (11901)
+Seat 6: BAR.A.K (3675)
+Seat 7: jerem13550 (29675)
+Seat 8: WestL (16166)
+Seat 9: PECO36 (7975)
+*** ANTE/BLINDS ***
+yocosy posts ante 50
+guaye posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+jerem13550 posts ante 50
+WestL posts ante 50
+PECO36 posts ante 50
+yocosy posts small blind 250
+guaye posts big blind 500
+Dealt to sabre_laser [3d Ks]
+*** PRE-FLOP *** 
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 raises 1000 to 1500
+WestL folds
+PECO36 folds
+sabre_laser folds
+Anathorne folds
+yocosy calls 1250
+guaye folds
+*** FLOP *** [2d Kd Ac]
+yocosy bets 500
+jerem13550 raises 2475 to 2975
+yocosy calls 2475
+*** TURN *** [2d Kd Ac][8s]
+yocosy checks
+jerem13550 bets 3200
+yocosy calls 3200
+*** RIVER *** [2d Kd Ac 8s][6c]
+yocosy checks
+jerem13550 checks
+*** SHOW DOWN ***
+jerem13550 shows [Qh Qd] (One pair : Queens)
+yocosy shows [Qs As] (One pair : Aces)
+yocosy collected 16300 from pot
+*** SUMMARY ***
+Total pot 16300 | No rake
+Board: [2d Kd Ac 8s 6c]
+Seat 3: yocosy (small blind) showed [Qs As] and won 16300 with One pair : Aces
+Seat 7: jerem13550 showed [Qh Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-76-1424206446 - Holdem no limit (50/250/500) - 2015/02/17 20:54:06 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (18193)
+Seat 2: Anathorne (945)
+Seat 3: yocosy (26239)
+Seat 4: guaye (5697)
+Seat 5: AlexWIN85 (11851)
+Seat 6: BAR.A.K (3625)
+Seat 7: jerem13550 (21950)
+Seat 8: WestL (16116)
+Seat 9: PECO36 (7925)
+*** ANTE/BLINDS ***
+guaye posts ante 50
+AlexWIN85 posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+BAR.A.K posts ante 50
+jerem13550 posts ante 50
+WestL posts ante 50
+PECO36 posts ante 50
+guaye posts small blind 250
+AlexWIN85 posts big blind 500
+Dealt to sabre_laser [5s Ad]
+*** PRE-FLOP *** 
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser folds
+Anathorne folds
+yocosy folds
+guaye calls 250
+AlexWIN85 checks
+*** FLOP *** [Qc 6d 7c]
+guaye bets 1088
+AlexWIN85 folds
+guaye collected 2538 from pot
+*** SUMMARY ***
+Total pot 2538 | No rake
+Board: [Qc 6d 7c]
+Seat 4: guaye (small blind) won 2538
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-77-1424206479 - Holdem no limit (50/250/500) - 2015/02/17 20:54:39 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (18143)
+Seat 2: Anathorne (895)
+Seat 3: yocosy (26189)
+Seat 4: guaye (6597)
+Seat 5: AlexWIN85 (11301)
+Seat 6: BAR.A.K (3575)
+Seat 7: jerem13550 (21900)
+Seat 8: WestL (16066)
+Seat 9: PECO36 (7875)
+*** ANTE/BLINDS ***
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+jerem13550 posts ante 50
+WestL posts ante 50
+PECO36 posts ante 50
+AlexWIN85 posts small blind 250
+BAR.A.K posts big blind 500
+Dealt to sabre_laser [6s 7c]
+*** PRE-FLOP *** 
+jerem13550 calls 500
+WestL folds
+PECO36 folds
+sabre_laser folds
+Anathorne folds
+yocosy folds
+guaye folds
+AlexWIN85 calls 250
+BAR.A.K folds
+*** FLOP *** [Ts 7d 2d]
+AlexWIN85 checks
+jerem13550 checks
+*** TURN *** [Ts 7d 2d][Jd]
+AlexWIN85 bets 750
+jerem13550 folds
+AlexWIN85 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Ts 7d 2d Jd]
+Seat 5: AlexWIN85 (small blind) won 2700
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-78-1424206803 - Holdem no limit (50/250/500) - 2015/02/17 21:00:03 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (18093)
+Seat 2: Anathorne (845)
+Seat 3: yocosy (26139)
+Seat 4: guaye (6547)
+Seat 5: AlexWIN85 (12701)
+Seat 6: BAR.A.K (3025)
+Seat 7: jerem13550 (21350)
+Seat 8: WestL (16016)
+Seat 9: PECO36 (7825)
+*** ANTE/BLINDS ***
+BAR.A.K posts ante 50
+jerem13550 posts ante 50
+sabre_laser posts ante 50
+Anathorne posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+WestL posts ante 50
+PECO36 posts ante 50
+BAR.A.K posts small blind 250
+jerem13550 posts big blind 500
+Dealt to sabre_laser [Kd 5s]
+*** PRE-FLOP *** 
+WestL folds
+PECO36 folds
+sabre_laser folds
+Anathorne raises 295 to 795 and is all-in
+yocosy folds
+guaye calls 795
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 calls 295
+*** FLOP *** [5h 4c 6d]
+jerem13550 checks
+guaye checks
+*** TURN *** [5h 4c 6d][Jh]
+jerem13550 checks
+guaye checks
+*** RIVER *** [5h 4c 6d Jh][9d]
+jerem13550 checks
+guaye checks
+*** SHOW DOWN ***
+Anathorne shows [Qs As] (High card : Ace)
+jerem13550 shows [2d 8d] (High card : Jack)
+guaye shows [Ac Kh] (High card : Ace)
+guaye collected 3085 from pot
+*** SUMMARY ***
+Total pot 3085 | No rake
+Board: [5h 4c 6d Jh 9d]
+Seat 2: Anathorne showed [Qs As] and lost with High card : Ace
+Seat 4: guaye showed [Ac Kh] and won 3085 with High card : Ace
+Seat 7: jerem13550 (big blind) showed [2d 8d] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 11 - HandId: #466590029968310697-79-1424206860 - Holdem no limit (50/250/500) - 2015/02/17 21:01:00 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (18043)
+Seat 2: CaTient (9458)
+Seat 3: yocosy (26089)
+Seat 4: guaye (8787)
+Seat 5: AlexWIN85 (12651)
+Seat 6: BAR.A.K (2725)
+Seat 7: jerem13550 (20505)
+Seat 8: WestL (15966)
+Seat 9: PECO36 (7775)
+*** ANTE/BLINDS ***
+jerem13550 posts ante 50
+WestL posts ante 50
+sabre_laser posts ante 50
+CaTient posts ante 50
+yocosy posts ante 50
+guaye posts ante 50
+AlexWIN85 posts ante 50
+BAR.A.K posts ante 50
+PECO36 posts ante 50
+jerem13550 posts small blind 250
+WestL posts big blind 500
+Dealt to sabre_laser [Jc 5s]
+*** PRE-FLOP *** 
+PECO36 folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 calls 250
+WestL raises 1000 to 1500
+jerem13550 folds
+WestL collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Seat 8: WestL (big blind) won 2450
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 12 - HandId: #466590029968310697-80-1424206915 - Holdem no limit (70/300/600) - 2015/02/17 21:01:55 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (17993)
+Seat 2: CaTient (9408)
+Seat 3: yocosy (26039)
+Seat 4: guaye (8737)
+Seat 5: AlexWIN85 (12601)
+Seat 6: BAR.A.K (2675)
+Seat 7: jerem13550 (19955)
+Seat 8: WestL (16866)
+Seat 9: PECO36 (7725)
+*** ANTE/BLINDS ***
+WestL posts ante 70
+PECO36 posts ante 70
+sabre_laser posts ante 70
+CaTient posts ante 70
+yocosy posts ante 70
+guaye posts ante 70
+AlexWIN85 posts ante 70
+BAR.A.K posts ante 70
+jerem13550 posts ante 70
+WestL posts small blind 300
+PECO36 posts big blind 600
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+sabre_laser raises 600 to 1200
+CaTient folds
+yocosy calls 1200
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+*** FLOP *** [2h Ks 2s]
+sabre_laser bets 2100
+yocosy folds
+sabre_laser collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [2h Ks 2s]
+Seat 1: sabre_laser won 6030
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 12 - HandId: #466590029968310697-81-1424207003 - Holdem no limit (70/300/600) - 2015/02/17 21:03:23 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (20653)
+Seat 2: CaTient (9338)
+Seat 3: yocosy (24769)
+Seat 4: guaye (8667)
+Seat 5: AlexWIN85 (12531)
+Seat 6: BAR.A.K (2605)
+Seat 7: jerem13550 (19885)
+Seat 8: WestL (16496)
+Seat 9: PECO36 (7055)
+*** ANTE/BLINDS ***
+PECO36 posts ante 70
+sabre_laser posts ante 70
+CaTient posts ante 70
+yocosy posts ante 70
+guaye posts ante 70
+AlexWIN85 posts ante 70
+BAR.A.K posts ante 70
+jerem13550 posts ante 70
+WestL posts ante 70
+PECO36 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [Qs Th]
+*** PRE-FLOP *** 
+CaTient folds
+yocosy folds
+guaye raises 600 to 1200
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser calls 600
+*** FLOP *** [3h Kd 5c]
+sabre_laser checks
+guaye checks
+*** TURN *** [3h Kd 5c][4d]
+sabre_laser bets 600
+guaye calls 600
+*** RIVER *** [3h Kd 5c 4d][6c]
+sabre_laser checks
+guaye checks
+*** SHOW DOWN ***
+sabre_laser shows [Qs Th] (High card : King)
+guaye shows [As 6s] (One pair : 6)
+guaye collected 4530 from pot
+*** SUMMARY ***
+Total pot 4530 | No rake
+Board: [3h Kd 5c 4d 6c]
+Seat 1: sabre_laser (big blind) showed [Qs Th] and lost with High card : King
+Seat 4: guaye showed [As 6s] and won 4530 with One pair : 6
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 12 - HandId: #466590029968310697-82-1424207093 - Holdem no limit (70/300/600) - 2015/02/17 21:04:53 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (18783)
+Seat 2: CaTient (9268)
+Seat 3: yocosy (24699)
+Seat 4: guaye (11327)
+Seat 5: AlexWIN85 (12461)
+Seat 6: BAR.A.K (2535)
+Seat 7: jerem13550 (19815)
+Seat 8: WestL (16426)
+Seat 9: PECO36 (6685)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 70
+CaTient posts ante 70
+yocosy posts ante 70
+guaye posts ante 70
+AlexWIN85 posts ante 70
+BAR.A.K posts ante 70
+jerem13550 posts ante 70
+WestL posts ante 70
+PECO36 posts ante 70
+sabre_laser posts small blind 300
+CaTient posts big blind 600
+Dealt to sabre_laser [Ah Qd]
+*** PRE-FLOP *** 
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser raises 1500 to 2100
+CaTient folds
+sabre_laser collected 3330 from pot
+*** SUMMARY ***
+Total pot 3330 | No rake
+Seat 1: sabre_laser (small blind) won 3330
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 12 - HandId: #466590029968310697-83-1424207140 - Holdem no limit (70/300/600) - 2015/02/17 21:05:40 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (19943)
+Seat 2: CaTient (8598)
+Seat 3: yocosy (24629)
+Seat 4: guaye (11257)
+Seat 5: AlexWIN85 (12391)
+Seat 6: BAR.A.K (2465)
+Seat 7: jerem13550 (19745)
+Seat 8: WestL (16356)
+Seat 9: PECO36 (6615)
+*** ANTE/BLINDS ***
+CaTient posts ante 70
+yocosy posts ante 70
+sabre_laser posts ante 70
+guaye posts ante 70
+AlexWIN85 posts ante 70
+BAR.A.K posts ante 70
+jerem13550 posts ante 70
+WestL posts ante 70
+PECO36 posts ante 70
+CaTient posts small blind 300
+yocosy posts big blind 600
+Dealt to sabre_laser [As 7d]
+*** PRE-FLOP *** 
+guaye raises 600 to 1200
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient calls 900
+yocosy folds
+*** FLOP *** [Td 6d 9d]
+CaTient bets 600
+guaye folds
+CaTient collected 4230 from pot
+*** SUMMARY ***
+Total pot 4230 | No rake
+Board: [Td 6d 9d]
+Seat 2: CaTient (small blind) won 4230
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 12 - HandId: #466590029968310697-84-1424207219 - Holdem no limit (70/300/600) - 2015/02/17 21:06:59 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (19873)
+Seat 2: CaTient (10958)
+Seat 3: yocosy (23959)
+Seat 4: guaye (9987)
+Seat 5: AlexWIN85 (12321)
+Seat 6: BAR.A.K (2395)
+Seat 7: jerem13550 (19675)
+Seat 8: WestL (16286)
+Seat 9: PECO36 (6545)
+*** ANTE/BLINDS ***
+yocosy posts ante 70
+guaye posts ante 70
+sabre_laser posts ante 70
+CaTient posts ante 70
+AlexWIN85 posts ante 70
+BAR.A.K posts ante 70
+jerem13550 posts ante 70
+WestL posts ante 70
+PECO36 posts ante 70
+yocosy posts small blind 300
+guaye posts big blind 600
+Dealt to sabre_laser [5d 5c]
+*** PRE-FLOP *** 
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser raises 600 to 1200
+CaTient folds
+yocosy calls 900
+guaye raises 8717 to 9917 and is all-in
+sabre_laser folds
+yocosy folds
+guaye collected 12947 from pot
+*** SUMMARY ***
+Total pot 12947 | No rake
+Seat 4: guaye (big blind) won 12947
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 12 - HandId: #466590029968310697-85-1424207296 - Holdem no limit (70/300/600) - 2015/02/17 21:08:16 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (18603)
+Seat 2: CaTient (10888)
+Seat 3: yocosy (22689)
+Seat 4: guaye (12947)
+Seat 5: AlexWIN85 (12251)
+Seat 6: BAR.A.K (2325)
+Seat 7: jerem13550 (19605)
+Seat 8: WestL (16216)
+Seat 9: PECO36 (6475)
+*** ANTE/BLINDS ***
+guaye posts ante 70
+AlexWIN85 posts ante 70
+sabre_laser posts ante 70
+CaTient posts ante 70
+yocosy posts ante 70
+BAR.A.K posts ante 70
+jerem13550 posts ante 70
+WestL posts ante 70
+PECO36 posts ante 70
+guaye posts small blind 300
+AlexWIN85 posts big blind 600
+Dealt to sabre_laser [2c 6s]
+*** PRE-FLOP *** 
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient raises 600 to 1200
+yocosy folds
+guaye folds
+AlexWIN85 folds
+CaTient collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Seat 2: CaTient won 2730
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 12 - HandId: #466590029968310697-86-1424207332 - Holdem no limit (70/300/600) - 2015/02/17 21:08:52 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (18533)
+Seat 2: CaTient (12348)
+Seat 3: yocosy (22619)
+Seat 4: guaye (12577)
+Seat 5: AlexWIN85 (11581)
+Seat 6: BAR.A.K (2255)
+Seat 7: jerem13550 (19535)
+Seat 8: WestL (16146)
+Seat 9: PECO36 (6405)
+*** ANTE/BLINDS ***
+AlexWIN85 posts ante 70
+BAR.A.K posts ante 70
+sabre_laser posts ante 70
+CaTient posts ante 70
+yocosy posts ante 70
+guaye posts ante 70
+jerem13550 posts ante 70
+WestL posts ante 70
+PECO36 posts ante 70
+AlexWIN85 posts small blind 300
+BAR.A.K posts big blind 600
+Dealt to sabre_laser [Kc 8d]
+*** PRE-FLOP *** 
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 raises 10911 to 11511 and is all-in
+BAR.A.K folds
+AlexWIN85 collected 12741 from pot
+*** SUMMARY ***
+Total pot 12741 | No rake
+Seat 5: AlexWIN85 (small blind) won 12741
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-87-1424207379 - Holdem no limit (80/400/800) - 2015/02/17 21:09:39 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (18463)
+Seat 2: CaTient (12278)
+Seat 3: yocosy (22549)
+Seat 4: guaye (12507)
+Seat 5: AlexWIN85 (12741)
+Seat 6: BAR.A.K (1585)
+Seat 7: jerem13550 (19465)
+Seat 8: WestL (16076)
+Seat 9: PECO36 (6335)
+*** ANTE/BLINDS ***
+BAR.A.K posts ante 80
+jerem13550 posts ante 80
+sabre_laser posts ante 80
+CaTient posts ante 80
+yocosy posts ante 80
+guaye posts ante 80
+AlexWIN85 posts ante 80
+WestL posts ante 80
+PECO36 posts ante 80
+BAR.A.K posts small blind 400
+jerem13550 posts big blind 800
+Dealt to sabre_laser [3c 2d]
+*** PRE-FLOP *** 
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 calls 800
+BAR.A.K folds
+jerem13550 checks
+*** FLOP *** [Qd 6c Kd]
+jerem13550 bets 1360
+AlexWIN85 folds
+jerem13550 collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [Qd 6c Kd]
+Seat 7: jerem13550 (big blind) won 4080
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-88-1424207422 - Holdem no limit (80/400/800) - 2015/02/17 21:10:22 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (18383)
+Seat 2: CaTient (12198)
+Seat 3: yocosy (22469)
+Seat 4: guaye (12427)
+Seat 5: AlexWIN85 (11861)
+Seat 6: BAR.A.K (1105)
+Seat 7: jerem13550 (21305)
+Seat 8: WestL (15996)
+Seat 9: PECO36 (6255)
+*** ANTE/BLINDS ***
+jerem13550 posts ante 80
+WestL posts ante 80
+sabre_laser posts ante 80
+CaTient posts ante 80
+yocosy posts ante 80
+guaye posts ante 80
+AlexWIN85 posts ante 80
+BAR.A.K posts ante 80
+PECO36 posts ante 80
+jerem13550 posts small blind 400
+WestL posts big blind 800
+Dealt to sabre_laser [Ad 3c]
+*** PRE-FLOP *** 
+PECO36 folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 calls 400
+WestL checks
+*** FLOP *** [Qh 7c Jd]
+jerem13550 bets 800
+WestL calls 800
+*** TURN *** [Qh 7c Jd][9d]
+jerem13550 bets 800
+WestL calls 800
+*** RIVER *** [Qh 7c Jd 9d][As]
+jerem13550 checks
+WestL checks
+*** SHOW DOWN ***
+jerem13550 shows [4d 4h] (One pair : 4)
+WestL shows [8s 9h] (One pair : 9)
+WestL collected 5520 from pot
+*** SUMMARY ***
+Total pot 5520 | No rake
+Board: [Qh 7c Jd 9d As]
+Seat 7: jerem13550 (small blind) showed [4d 4h] and lost with One pair : 4
+Seat 8: WestL (big blind) showed [8s 9h] and won 5520 with One pair : 9
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-89-1424207513 - Holdem no limit (80/400/800) - 2015/02/17 21:11:53 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (18303)
+Seat 2: CaTient (12118)
+Seat 3: yocosy (22389)
+Seat 4: guaye (12347)
+Seat 5: AlexWIN85 (11781)
+Seat 6: BAR.A.K (1025)
+Seat 7: jerem13550 (18825)
+Seat 8: WestL (19036)
+Seat 9: PECO36 (6175)
+*** ANTE/BLINDS ***
+WestL posts ante 80
+PECO36 posts ante 80
+sabre_laser posts ante 80
+CaTient posts ante 80
+yocosy posts ante 80
+guaye posts ante 80
+AlexWIN85 posts ante 80
+BAR.A.K posts ante 80
+jerem13550 posts ante 80
+WestL posts small blind 400
+PECO36 posts big blind 800
+Dealt to sabre_laser [9d Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 raises 1200 to 2000
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 raises 4095 to 6095 and is all-in
+AlexWIN85 folds
+PECO36 collected 9215 from pot
+*** SUMMARY ***
+Total pot 9215 | No rake
+Seat 9: PECO36 (big blind) won 9215
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-90-1424207583 - Holdem no limit (80/400/800) - 2015/02/17 21:13:03 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (18223)
+Seat 2: CaTient (12038)
+Seat 3: yocosy (22309)
+Seat 4: guaye (12267)
+Seat 5: AlexWIN85 (9701)
+Seat 6: BAR.A.K (945)
+Seat 7: jerem13550 (18745)
+Seat 8: WestL (18556)
+Seat 9: PECO36 (9215)
+*** ANTE/BLINDS ***
+PECO36 posts ante 80
+sabre_laser posts ante 80
+CaTient posts ante 80
+yocosy posts ante 80
+guaye posts ante 80
+AlexWIN85 posts ante 80
+BAR.A.K posts ante 80
+jerem13550 posts ante 80
+WestL posts ante 80
+PECO36 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [6s 6d]
+*** PRE-FLOP *** 
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Seat 1: sabre_laser (big blind) won 1920
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-91-1424207652 - Holdem no limit (80/400/800) - 2015/02/17 21:14:12 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (19263)
+Seat 2: CaTient (11958)
+Seat 3: yocosy (22229)
+Seat 4: guaye (12187)
+Seat 5: AlexWIN85 (9621)
+Seat 6: BAR.A.K (865)
+Seat 7: jerem13550 (18665)
+Seat 8: WestL (18476)
+Seat 9: PECO36 (8735)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 80
+CaTient posts ante 80
+yocosy posts ante 80
+guaye posts ante 80
+AlexWIN85 posts ante 80
+BAR.A.K posts ante 80
+jerem13550 posts ante 80
+WestL posts ante 80
+PECO36 posts ante 80
+sabre_laser posts small blind 400
+CaTient posts big blind 800
+Dealt to sabre_laser [3d As]
+*** PRE-FLOP *** 
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 calls 800
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient checks
+*** FLOP *** [9h 9c Qs]
+CaTient checks
+jerem13550 bets 1813
+CaTient folds
+jerem13550 collected 4533 from pot
+*** SUMMARY ***
+Total pot 4533 | No rake
+Board: [9h 9c Qs]
+Seat 7: jerem13550 won 4533
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-92-1424207696 - Holdem no limit (80/400/800) - 2015/02/17 21:14:56 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (18783)
+Seat 2: CaTient (11078)
+Seat 3: yocosy (22149)
+Seat 4: guaye (12107)
+Seat 5: AlexWIN85 (9541)
+Seat 6: BAR.A.K (785)
+Seat 7: jerem13550 (20505)
+Seat 8: WestL (18396)
+Seat 9: PECO36 (8655)
+*** ANTE/BLINDS ***
+CaTient posts ante 80
+yocosy posts ante 80
+sabre_laser posts ante 80
+guaye posts ante 80
+AlexWIN85 posts ante 80
+BAR.A.K posts ante 80
+jerem13550 posts ante 80
+WestL posts ante 80
+PECO36 posts ante 80
+CaTient posts small blind 400
+yocosy posts big blind 800
+Dealt to sabre_laser [Kd Ts]
+*** PRE-FLOP *** 
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient raises 800 to 1600
+yocosy calls 800
+*** FLOP *** [Qd Qs 4c]
+CaTient bets 800
+yocosy folds
+CaTient collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Board: [Qd Qs 4c]
+Seat 2: CaTient (small blind) won 4720
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-93-1424207749 - Holdem no limit (80/400/800) - 2015/02/17 21:15:49 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (18703)
+Seat 2: CaTient (13318)
+Seat 3: yocosy (20469)
+Seat 4: guaye (12027)
+Seat 5: AlexWIN85 (9461)
+Seat 6: BAR.A.K (705)
+Seat 7: jerem13550 (20425)
+Seat 8: WestL (18316)
+Seat 9: PECO36 (8575)
+*** ANTE/BLINDS ***
+yocosy posts ante 80
+guaye posts ante 80
+sabre_laser posts ante 80
+CaTient posts ante 80
+AlexWIN85 posts ante 80
+BAR.A.K posts ante 80
+jerem13550 posts ante 80
+WestL posts ante 80
+PECO36 posts ante 80
+yocosy posts small blind 400
+guaye posts big blind 800
+Dealt to sabre_laser [6d Kc]
+*** PRE-FLOP *** 
+AlexWIN85 folds
+BAR.A.K folds
+jerem13550 raises 1600 to 2400
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+jerem13550 collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Seat 7: jerem13550 won 4320
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-94-1424207801 - Holdem no limit (80/400/800) - 2015/02/17 21:16:41 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (18623)
+Seat 2: CaTient (13238)
+Seat 3: yocosy (19989)
+Seat 4: guaye (11147)
+Seat 5: AlexWIN85 (9381)
+Seat 6: BAR.A.K (625)
+Seat 7: jerem13550 (22265)
+Seat 8: WestL (18236)
+Seat 9: PECO36 (8495)
+*** ANTE/BLINDS ***
+guaye posts ante 80
+AlexWIN85 posts ante 80
+sabre_laser posts ante 80
+CaTient posts ante 80
+yocosy posts ante 80
+BAR.A.K posts ante 80
+jerem13550 posts ante 80
+WestL posts ante 80
+PECO36 posts ante 80
+guaye posts small blind 400
+AlexWIN85 posts big blind 800
+Dealt to sabre_laser [3c 9s]
+*** PRE-FLOP *** 
+BAR.A.K folds
+jerem13550 folds
+WestL folds
+PECO36 raises 800 to 1600
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+PECO36 collected 3520 from pot
+*** SUMMARY ***
+Total pot 3520 | No rake
+Seat 9: PECO36 won 3520
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 13 - HandId: #466590029968310697-95-1424207826 - Holdem no limit (80/400/800) - 2015/02/17 21:17:06 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (18543)
+Seat 2: CaTient (13158)
+Seat 3: yocosy (19909)
+Seat 4: guaye (10667)
+Seat 5: AlexWIN85 (8501)
+Seat 6: BAR.A.K (545)
+Seat 7: jerem13550 (22185)
+Seat 8: WestL (18156)
+Seat 9: PECO36 (10335)
+*** ANTE/BLINDS ***
+AlexWIN85 posts ante 80
+BAR.A.K posts ante 80
+sabre_laser posts ante 80
+CaTient posts ante 80
+yocosy posts ante 80
+guaye posts ante 80
+jerem13550 posts ante 80
+WestL posts ante 80
+PECO36 posts ante 80
+AlexWIN85 posts small blind 400
+BAR.A.K posts big blind 465 and is all-in
+Dealt to sabre_laser [5c 4h]
+*** PRE-FLOP *** 
+jerem13550 calls 800
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 raises 7956 to 8421 and is all-in
+jerem13550 calls 7621
+*** FLOP *** [Qd Qh 4d]
+*** TURN *** [Qd Qh 4d][3s]
+*** RIVER *** [Qd Qh 4d 3s][4s]
+*** SHOW DOWN ***
+jerem13550 shows [Ah 5d] (Two pairs : Queens and 4)
+BAR.A.K shows [Tc Qs] (Full of Queens and 4)
+AlexWIN85 shows [8c 8h] (Two pairs : Queens and 8)
+AlexWIN85 collected 15912 from side pot 1
+BAR.A.K collected 2115 from main pot
+*** SUMMARY ***
+Total pot 18027 | No rake
+Board: [Qd Qh 4d 3s 4s]
+Seat 5: AlexWIN85 (small blind) showed [8c 8h] and won 15912 with Two pairs : Queens and 8
+Seat 6: BAR.A.K (big blind) showed [Tc Qs] and won 2115 with Full of Queens and 4
+Seat 7: jerem13550 showed [Ah 5d] and lost with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-96-1424207870 - Holdem no limit (100/500/1000) - 2015/02/17 21:17:50 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (18463)
+Seat 2: CaTient (13078)
+Seat 3: yocosy (19829)
+Seat 4: guaye (10587)
+Seat 5: AlexWIN85 (15912)
+Seat 6: BAR.A.K (2115)
+Seat 7: jerem13550 (13684)
+Seat 8: WestL (18076)
+Seat 9: PECO36 (10255)
+*** ANTE/BLINDS ***
+BAR.A.K posts ante 100
+jerem13550 posts ante 100
+sabre_laser posts ante 100
+CaTient posts ante 100
+yocosy posts ante 100
+guaye posts ante 100
+AlexWIN85 posts ante 100
+WestL posts ante 100
+PECO36 posts ante 100
+BAR.A.K posts small blind 500
+jerem13550 posts big blind 1000
+Dealt to sabre_laser [7h 9h]
+*** PRE-FLOP *** 
+WestL folds
+PECO36 folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye calls 1000
+AlexWIN85 raises 1000 to 2000
+BAR.A.K folds
+jerem13550 raises 8000 to 10000
+guaye folds
+AlexWIN85 raises 5812 to 15812 and is all-in
+jerem13550 calls 3584 and is all-in
+*** FLOP *** [3d Js Td]
+*** TURN *** [3d Js Td][Qc]
+*** RIVER *** [3d Js Td Qc][9c]
+*** SHOW DOWN ***
+jerem13550 shows [2h 2c] (One pair : 2)
+AlexWIN85 shows [Tc Ah] (One pair : Tens)
+AlexWIN85 collected 31796 from pot
+*** SUMMARY ***
+Total pot 31796 | No rake
+Board: [3d Js Td Qc 9c]
+Seat 5: AlexWIN85 (button) showed [Tc Ah] and won 31796 with One pair : Tens
+Seat 7: jerem13550 (big blind) showed [2h 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-97-1424207913 - Holdem no limit (100/500/1000) - 2015/02/17 21:18:33 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (18363)
+Seat 2: CaTient (12978)
+Seat 3: yocosy (19729)
+Seat 4: guaye (9487)
+Seat 5: AlexWIN85 (31796)
+Seat 6: BAR.A.K (1515)
+Seat 8: WestL (17976)
+Seat 9: PECO36 (10155)
+*** ANTE/BLINDS ***
+WestL posts ante 100
+sabre_laser posts ante 100
+CaTient posts ante 100
+yocosy posts ante 100
+guaye posts ante 100
+AlexWIN85 posts ante 100
+BAR.A.K posts ante 100
+PECO36 posts ante 100
+WestL posts big blind 1000
+Dealt to sabre_laser [Jd 4c]
+*** PRE-FLOP *** 
+PECO36 calls 1000
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+WestL checks
+*** FLOP *** [Ac Ad 9c]
+WestL checks
+PECO36 bets 1000
+WestL folds
+PECO36 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [Ac Ad 9c]
+Seat 9: PECO36 won 3800
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-98-1424207974 - Holdem no limit (100/500/1000) - 2015/02/17 21:19:34 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (18263)
+Seat 2: CaTient (12878)
+Seat 3: yocosy (19629)
+Seat 4: guaye (9387)
+Seat 5: AlexWIN85 (31696)
+Seat 6: BAR.A.K (1415)
+Seat 7: bobleponge74 (27468)
+Seat 8: WestL (16876)
+Seat 9: PECO36 (11855)
+*** ANTE/BLINDS ***
+WestL posts ante 100
+PECO36 posts ante 100
+sabre_laser posts ante 100
+CaTient posts ante 100
+yocosy posts ante 100
+guaye posts ante 100
+AlexWIN85 posts ante 100
+BAR.A.K posts ante 100
+WestL posts small blind 500
+PECO36 posts big blind 1000
+Dealt to sabre_laser [9d 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+BAR.A.K folds
+WestL raises 1500 to 2500
+PECO36 folds
+WestL collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Seat 8: WestL (small blind) won 4300
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-99-1424208042 - Holdem no limit (100/500/1000) - 2015/02/17 21:20:42 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (18163)
+Seat 2: CaTient (12778)
+Seat 3: yocosy (19529)
+Seat 4: guaye (9287)
+Seat 5: AlexWIN85 (31596)
+Seat 6: BAR.A.K (1315)
+Seat 7: bobleponge74 (27468)
+Seat 8: WestL (18576)
+Seat 9: PECO36 (10755)
+*** ANTE/BLINDS ***
+PECO36 posts ante 100
+sabre_laser posts ante 100
+CaTient posts ante 100
+yocosy posts ante 100
+guaye posts ante 100
+AlexWIN85 posts ante 100
+BAR.A.K posts ante 100
+bobleponge74 posts ante 100
+WestL posts ante 100
+PECO36 posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [Ts Jh]
+*** PRE-FLOP *** 
+CaTient folds
+yocosy folds
+guaye calls 1000
+AlexWIN85 folds
+BAR.A.K raises 215 to 1215 and is all-in
+bobleponge74 folds
+WestL folds
+PECO36 folds
+sabre_laser calls 215
+guaye calls 215
+*** FLOP *** [7h Ks 2h]
+sabre_laser bets 2500
+guaye raises 2500 to 5000
+sabre_laser folds
+*** TURN *** [7h Ks 2h][4h]
+*** RIVER *** [7h Ks 2h 4h][4c]
+*** SHOW DOWN ***
+BAR.A.K shows [9h Kd] (Two pairs : Kings and 4)
+guaye shows [Kh Qh] (Flush King high)
+guaye collected 12545 from pot
+*** SUMMARY ***
+Total pot 12545 | No rake
+Board: [7h Ks 2h 4h 4c]
+Seat 4: guaye showed [Kh Qh] and won 12545 with Flush King high
+Seat 6: BAR.A.K showed [9h Kd] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-100-1424208115 - Holdem no limit (100/500/1000) - 2015/02/17 21:21:55 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (14348)
+Seat 2: CaTient (12678)
+Seat 3: yocosy (19429)
+Seat 4: guaye (15517)
+Seat 5: AlexWIN85 (31496)
+Seat 7: bobleponge74 (27368)
+Seat 8: WestL (18476)
+Seat 9: PECO36 (10155)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+CaTient posts ante 100
+yocosy posts ante 100
+guaye posts ante 100
+AlexWIN85 posts ante 100
+bobleponge74 posts ante 100
+WestL posts ante 100
+PECO36 posts ante 100
+sabre_laser posts small blind 500
+CaTient posts big blind 1000
+Dealt to sabre_laser [As 8d]
+*** PRE-FLOP *** 
+yocosy folds
+guaye calls 1000
+AlexWIN85 folds
+bobleponge74 folds
+WestL folds
+PECO36 raises 1000 to 2000
+sabre_laser folds
+CaTient calls 1000
+guaye raises 13417 to 15417 and is all-in
+PECO36 calls 8055 and is all-in
+CaTient folds
+*** FLOP *** [6s Ts 5s]
+*** TURN *** [6s Ts 5s][4s]
+*** RIVER *** [6s Ts 5s 4s][Ks]
+*** SHOW DOWN ***
+PECO36 shows [Ac Js] (Flush King high)
+guaye shows [Qh Qs] (Flush King high)
+guaye collected 28772 from pot
+*** SUMMARY ***
+Total pot 28772 | No rake
+Board: [6s Ts 5s 4s Ks]
+Seat 4: guaye showed [Qh Qs] and won 28772 with Flush King high
+Seat 9: PECO36 (button) showed [Ac Js] and lost with Flush King high
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-101-1424208182 - Holdem no limit (100/500/1000) - 2015/02/17 21:23:02 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (13748)
+Seat 2: CaTient (10578)
+Seat 3: yocosy (19329)
+Seat 4: guaye (28772)
+Seat 5: AlexWIN85 (31396)
+Seat 6: DubAram (22717)
+Seat 7: bobleponge74 (27268)
+Seat 8: WestL (18376)
+*** ANTE/BLINDS ***
+CaTient posts ante 100
+yocosy posts ante 100
+sabre_laser posts ante 100
+guaye posts ante 100
+AlexWIN85 posts ante 100
+DubAram posts ante 100
+bobleponge74 posts ante 100
+WestL posts ante 100
+CaTient posts small blind 500
+yocosy posts big blind 1000
+Dealt to sabre_laser [Kh Th]
+*** PRE-FLOP *** 
+guaye folds
+AlexWIN85 folds
+DubAram folds
+bobleponge74 folds
+WestL raises 1500 to 2500
+sabre_laser folds
+CaTient folds
+yocosy calls 1500
+*** FLOP *** [3h 5s 9c]
+yocosy checks
+WestL bets 3000
+yocosy folds
+WestL collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | No rake
+Board: [3h 5s 9c]
+Seat 8: WestL won 9300
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-102-1424208249 - Holdem no limit (100/500/1000) - 2015/02/17 21:24:09 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (13648)
+Seat 2: CaTient (9978)
+Seat 3: yocosy (16729)
+Seat 4: guaye (28672)
+Seat 5: AlexWIN85 (31296)
+Seat 6: DubAram (22617)
+Seat 8: WestL (22076)
+Seat 9: Kr1-DGaiN (33370)
+*** ANTE/BLINDS ***
+yocosy posts ante 100
+guaye posts ante 100
+sabre_laser posts ante 100
+CaTient posts ante 100
+AlexWIN85 posts ante 100
+DubAram posts ante 100
+WestL posts ante 100
+Kr1-DGaiN posts ante 100
+yocosy posts small blind 500
+guaye posts big blind 1000
+Dealt to sabre_laser [6h Ts]
+*** PRE-FLOP *** 
+AlexWIN85 folds
+DubAram folds
+WestL folds
+Kr1-DGaiN calls 1000
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye checks
+*** FLOP *** [Qc Jh 9h]
+guaye checks
+Kr1-DGaiN checks
+*** TURN *** [Qc Jh 9h][2c]
+guaye checks
+Kr1-DGaiN checks
+*** RIVER *** [Qc Jh 9h 2c][2s]
+guaye checks
+Kr1-DGaiN checks
+*** SHOW DOWN ***
+guaye shows [3c 5d] (One pair : 2)
+Kr1-DGaiN shows [Kh 8c] (One pair : 2)
+Kr1-DGaiN collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [Qc Jh 9h 2c 2s]
+Seat 4: guaye (big blind) showed [3c 5d] and lost with One pair : 2
+Seat 9: Kr1-DGaiN showed [Kh 8c] and won 3300 with One pair : 2
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 14 - HandId: #466590029968310697-103-1424208314 - Holdem no limit (100/500/1000) - 2015/02/17 21:25:14 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (13548)
+Seat 2: CaTient (9878)
+Seat 3: yocosy (16129)
+Seat 4: guaye (27572)
+Seat 5: AlexWIN85 (31196)
+Seat 6: DubAram (22517)
+Seat 7: caryl VI (15900)
+Seat 8: WestL (21976)
+Seat 9: Kr1-DGaiN (35570)
+*** ANTE/BLINDS ***
+guaye posts ante 100
+AlexWIN85 posts ante 100
+sabre_laser posts ante 100
+CaTient posts ante 100
+yocosy posts ante 100
+DubAram posts ante 100
+caryl VI posts ante 100
+WestL posts ante 100
+Kr1-DGaiN posts ante 100
+guaye posts small blind 500
+AlexWIN85 posts big blind 1000
+Dealt to sabre_laser [8h 6s]
+*** PRE-FLOP *** 
+DubAram raises 2000 to 3000
+caryl VI folds
+WestL folds
+Kr1-DGaiN calls 3000
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+*** FLOP *** [5h 8d 8s]
+DubAram bets 3000
+Kr1-DGaiN calls 3000
+*** TURN *** [5h 8d 8s][Jd]
+DubAram checks
+Kr1-DGaiN bets 7200
+DubAram folds
+Kr1-DGaiN collected 21600 from pot
+*** SUMMARY ***
+Total pot 21600 | No rake
+Board: [5h 8d 8s Jd]
+Seat 9: Kr1-DGaiN won 21600
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 15 - HandId: #466590029968310697-104-1424208382 - Holdem no limit (135/600/1200) - 2015/02/17 21:26:22 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (13448)
+Seat 2: CaTient (9778)
+Seat 3: yocosy (16029)
+Seat 4: guaye (26972)
+Seat 5: AlexWIN85 (30096)
+Seat 6: DubAram (16417)
+Seat 7: caryl VI (15800)
+Seat 8: WestL (21876)
+Seat 9: Kr1-DGaiN (43870)
+*** ANTE/BLINDS ***
+AlexWIN85 posts ante 135
+DubAram posts ante 135
+sabre_laser posts ante 135
+CaTient posts ante 135
+yocosy posts ante 135
+guaye posts ante 135
+caryl VI posts ante 135
+WestL posts ante 135
+Kr1-DGaiN posts ante 135
+AlexWIN85 posts small blind 600
+DubAram posts big blind 1200
+Dealt to sabre_laser [6s 7c]
+*** PRE-FLOP *** 
+caryl VI folds
+WestL folds
+Kr1-DGaiN calls 1200
+sabre_laser folds
+CaTient calls 1200
+yocosy folds
+guaye folds
+AlexWIN85 calls 600
+DubAram checks
+*** FLOP *** [5s 2c Jc]
+AlexWIN85 checks
+DubAram checks
+Kr1-DGaiN checks
+CaTient checks
+*** TURN *** [5s 2c Jc][9d]
+AlexWIN85 bets 3000
+DubAram folds
+Kr1-DGaiN folds
+CaTient calls 3000
+*** RIVER *** [5s 2c Jc 9d][Kd]
+AlexWIN85 bets 25761 and is all-in
+CaTient calls 5443 and is all-in
+*** SHOW DOWN ***
+CaTient shows [Qc Td] (Straight King high)
+AlexWIN85 shows [5d 2d] (Two pairs : 5 and 2)
+AlexWIN85 collected 20318 from side pot 1
+CaTient collected 22901 from main pot
+*** SUMMARY ***
+Total pot 43219 | No rake
+Board: [5s 2c Jc 9d Kd]
+Seat 2: CaTient showed [Qc Td] and won 22901 with Straight King high
+Seat 5: AlexWIN85 (small blind) showed [5d 2d] and won 20318 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 15 - HandId: #466590029968310697-105-1424208491 - Holdem no limit (135/600/1200) - 2015/02/17 21:28:11 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (13313)
+Seat 2: CaTient (22901)
+Seat 3: yocosy (15894)
+Seat 4: guaye (26837)
+Seat 5: AlexWIN85 (20318)
+Seat 6: DubAram (15082)
+Seat 7: caryl VI (15665)
+Seat 8: WestL (21741)
+Seat 9: Kr1-DGaiN (42535)
+*** ANTE/BLINDS ***
+DubAram posts ante 135
+caryl VI posts ante 135
+sabre_laser posts ante 135
+CaTient posts ante 135
+yocosy posts ante 135
+guaye posts ante 135
+AlexWIN85 posts ante 135
+WestL posts ante 135
+Kr1-DGaiN posts ante 135
+DubAram posts small blind 600
+caryl VI posts big blind 1200
+Dealt to sabre_laser [As Ad]
+*** PRE-FLOP *** 
+WestL folds
+Kr1-DGaiN folds
+sabre_laser raises 2400 to 3600
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+DubAram folds
+caryl VI folds
+sabre_laser collected 6615 from pot
+*** SUMMARY ***
+Total pot 6615 | No rake
+Seat 1: sabre_laser won 6615
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 15 - HandId: #466590029968310697-106-1424208535 - Holdem no limit (135/600/1200) - 2015/02/17 21:28:55 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (16193)
+Seat 2: CaTient (22766)
+Seat 3: yocosy (15759)
+Seat 4: guaye (26702)
+Seat 5: AlexWIN85 (20183)
+Seat 6: DubAram (14347)
+Seat 7: caryl VI (14330)
+Seat 8: WestL (21606)
+Seat 9: Kr1-DGaiN (42400)
+*** ANTE/BLINDS ***
+caryl VI posts ante 135
+WestL posts ante 135
+sabre_laser posts ante 135
+CaTient posts ante 135
+yocosy posts ante 135
+guaye posts ante 135
+AlexWIN85 posts ante 135
+DubAram posts ante 135
+Kr1-DGaiN posts ante 135
+caryl VI posts small blind 600
+WestL posts big blind 1200
+Dealt to sabre_laser [Jc 6s]
+*** PRE-FLOP *** 
+Kr1-DGaiN folds
+sabre_laser folds
+CaTient folds
+yocosy folds
+guaye folds
+AlexWIN85 folds
+DubAram raises 13012 to 14212 and is all-in
+caryl VI folds
+WestL folds
+DubAram collected 17227 from pot
+*** SUMMARY ***
+Total pot 17227 | No rake
+Seat 6: DubAram (button) won 17227
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 15 - HandId: #466590029968310697-107-1424208575 - Holdem no limit (135/600/1200) - 2015/02/17 21:29:35 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (16058)
+Seat 2: CaTient (22631)
+Seat 3: yocosy (15624)
+Seat 4: guaye (26567)
+Seat 5: AlexWIN85 (20048)
+Seat 6: DubAram (17227)
+Seat 7: caryl VI (13595)
+Seat 8: WestL (20271)
+Seat 9: Kr1-DGaiN (42265)
+*** ANTE/BLINDS ***
+WestL posts ante 135
+Kr1-DGaiN posts ante 135
+sabre_laser posts ante 135
+CaTient posts ante 135
+yocosy posts ante 135
+guaye posts ante 135
+AlexWIN85 posts ante 135
+DubAram posts ante 135
+caryl VI posts ante 135
+WestL posts small blind 600
+Kr1-DGaiN posts big blind 1200
+Dealt to sabre_laser [3h 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+CaTient raises 1200 to 2400
+yocosy folds
+guaye folds
+AlexWIN85 folds
+DubAram folds
+caryl VI folds
+WestL folds
+Kr1-DGaiN calls 1200
+*** FLOP *** [Kh Td 5h]
+Kr1-DGaiN checks
+CaTient bets 1200
+Kr1-DGaiN calls 1200
+*** TURN *** [Kh Td 5h][9h]
+Kr1-DGaiN checks
+CaTient checks
+*** RIVER *** [Kh Td 5h 9h][8d]
+Kr1-DGaiN checks
+CaTient bets 1200
+Kr1-DGaiN calls 1200
+*** SHOW DOWN ***
+Kr1-DGaiN shows [7d As] (High card : Ace)
+CaTient shows [Ah 8h] (Flush Ace high)
+CaTient collected 11415 from pot
+*** SUMMARY ***
+Total pot 11415 | No rake
+Board: [Kh Td 5h 9h 8d]
+Seat 2: CaTient showed [Ah 8h] and won 11415 with Flush Ace high
+Seat 9: Kr1-DGaiN (big blind) showed [7d As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 15 - HandId: #466590029968310697-108-1424208656 - Holdem no limit (135/600/1200) - 2015/02/17 21:30:56 UTC
+Table: 'KING 5 - Stade 1D(108636457)#424' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (15923)
+Seat 2: CaTient (29111)
+Seat 3: yocosy (15489)
+Seat 4: guaye (26432)
+Seat 5: AlexWIN85 (19913)
+Seat 6: DubAram (17092)
+Seat 7: caryl VI (13460)
+Seat 8: WestL (19536)
+Seat 9: Kr1-DGaiN (37330)
+*** ANTE/BLINDS ***
+Kr1-DGaiN posts ante 135
+sabre_laser posts ante 135
+CaTient posts ante 135
+yocosy posts ante 135
+guaye posts ante 135
+AlexWIN85 posts ante 135
+DubAram posts ante 135
+caryl VI posts ante 135
+WestL posts ante 135
+Kr1-DGaiN posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [Qd 7s]
+*** PRE-FLOP *** 
+CaTient folds
+yocosy calls 1200
+guaye folds
+AlexWIN85 folds
+DubAram folds
+caryl VI folds
+WestL raises 1800 to 3000
+Kr1-DGaiN folds
+sabre_laser folds
+yocosy calls 1800
+*** FLOP *** [Kc Th 5c]
+yocosy checks
+WestL checks
+*** TURN *** [Kc Th 5c][Qc]
+yocosy bets 1200
+WestL raises 5108 to 6308
+yocosy raises 5108 to 11416
+WestL raises 4985 to 16401 and is all-in
+yocosy calls 938 and is all-in
+*** RIVER *** [Kc Th 5c Qc][Js]
+*** SHOW DOWN ***
+yocosy shows [9h Jh] (Straight King high)
+WestL shows [As Jd] (Straight Ace high)
+WestL collected 37770 from pot
+*** SUMMARY ***
+Total pot 37770 | No rake
+Board: [Kc Th 5c Qc Js]
+Seat 3: yocosy showed [9h Jh] and lost with Straight King high
+Seat 8: WestL (button) showed [As Jd] and won 37770 with Straight Ace high
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 16 - HandId: #466590029968310491-141-1424208817 - Holdem no limit (160/800/1600) - 2015/02/17 21:33:37 UTC
+Table: 'KING 5 - Stade 1D(108636457)#218' 9-max (real money) Seat #9 is the button
+Seat 1: I_DonT_ShOw (20558)
+Seat 2: ophe3001 (29856)
+Seat 3: MandonPierre (30775)
+Seat 4: bobleponge74 (28033)
+Seat 5: FRED34570PIG (32925)
+Seat 6: sabre_laser (14588)
+Seat 7: legrandgar (49417)
+Seat 8: Chloro 21 (1108)
+Seat 9: -T0r0unA- (59818)
+*** ANTE/BLINDS ***
+I_DonT_ShOw posts ante 160
+ophe3001 posts ante 160
+MandonPierre posts ante 160
+bobleponge74 posts ante 160
+FRED34570PIG posts ante 160
+sabre_laser posts ante 160
+legrandgar posts ante 160
+Chloro 21 posts ante 160
+-T0r0unA- posts ante 160
+I_DonT_ShOw posts small blind 800
+ophe3001 posts big blind 1600
+Dealt to sabre_laser [Qd Jd]
+*** PRE-FLOP *** 
+MandonPierre folds
+bobleponge74 folds
+FRED34570PIG raises 6400 to 8000
+sabre_laser folds
+legrandgar folds
+Chloro 21 folds
+-T0r0unA- folds
+I_DonT_ShOw folds
+ophe3001 folds
+FRED34570PIG collected 11840 from pot
+*** SUMMARY ***
+Total pot 11840 | No rake
+Seat 5: FRED34570PIG won 11840
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 16 - HandId: #466590029968310491-142-1424208859 - Holdem no limit (160/800/1600) - 2015/02/17 21:34:19 UTC
+Table: 'KING 5 - Stade 1D(108636457)#218' 9-max (real money) Seat #1 is the button
+Seat 1: I_DonT_ShOw (19598)
+Seat 2: ophe3001 (28096)
+Seat 3: MandonPierre (30615)
+Seat 4: bobleponge74 (27873)
+Seat 5: FRED34570PIG (36605)
+Seat 6: sabre_laser (14428)
+Seat 7: legrandgar (49257)
+Seat 8: Chloro 21 (948)
+Seat 9: -T0r0unA- (59658)
+*** ANTE/BLINDS ***
+ophe3001 posts ante 160
+MandonPierre posts ante 160
+I_DonT_ShOw posts ante 160
+bobleponge74 posts ante 160
+FRED34570PIG posts ante 160
+sabre_laser posts ante 160
+legrandgar posts ante 160
+Chloro 21 posts ante 160
+-T0r0unA- posts ante 160
+ophe3001 posts small blind 800
+MandonPierre posts big blind 1600
+Dealt to sabre_laser [Jh 6h]
+*** PRE-FLOP *** 
+bobleponge74 folds
+FRED34570PIG folds
+sabre_laser folds
+legrandgar folds
+Chloro 21 folds
+-T0r0unA- raises 3184 to 4784
+I_DonT_ShOw folds
+ophe3001 folds
+MandonPierre raises 25671 to 30455 and is all-in
+-T0r0unA- calls 25671
+*** FLOP *** [3s 8d 5h]
+*** TURN *** [3s 8d 5h][Kh]
+*** RIVER *** [3s 8d 5h Kh][8c]
+*** SHOW DOWN ***
+MandonPierre shows [As Ts] (One pair : 8)
+-T0r0unA- shows [Qd Qh] (Two pairs : Queens and 8)
+-T0r0unA- collected 63150 from pot
+*** SUMMARY ***
+Total pot 63150 | No rake
+Board: [3s 8d 5h Kh 8c]
+Seat 3: MandonPierre (big blind) showed [As Ts] and lost with One pair : 8
+Seat 9: -T0r0unA- showed [Qd Qh] and won 63150 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 16 - HandId: #466590029968310628-122-1424208959 - Holdem no limit (160/800/1600) - 2015/02/17 21:35:59 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (14268)
+Seat 2: lerushfou (40408)
+Seat 3: marchy54 (8985)
+Seat 4: larafale01 (44256)
+Seat 5: Zi-Amateur (10113)
+Seat 6: harleymanbis (22496)
+Seat 7: --Neymar71-- (5971)
+Seat 8: FaitesExcuse (23660)
+Seat 9: scarlouch91 (61809)
+*** ANTE/BLINDS ***
+marchy54 posts ante 160
+larafale01 posts ante 160
+sabre_laser posts ante 160
+lerushfou posts ante 160
+Zi-Amateur posts ante 160
+harleymanbis posts ante 160
+--Neymar71-- posts ante 160
+FaitesExcuse posts ante 160
+scarlouch91 posts ante 160
+marchy54 posts small blind 800
+larafale01 posts big blind 1600
+Dealt to sabre_laser [4c Jh]
+*** PRE-FLOP *** 
+Zi-Amateur folds
+harleymanbis calls 1600
+--Neymar71-- folds
+FaitesExcuse calls 1600
+scarlouch91 calls 1600
+sabre_laser folds
+lerushfou folds
+marchy54 calls 800
+larafale01 checks
+*** FLOP *** [5c Ad Kh]
+marchy54 checks
+larafale01 checks
+harleymanbis checks
+FaitesExcuse checks
+scarlouch91 checks
+*** TURN *** [5c Ad Kh][4s]
+marchy54 checks
+larafale01 checks
+harleymanbis checks
+FaitesExcuse checks
+scarlouch91 checks
+*** RIVER *** [5c Ad Kh 4s][As]
+marchy54 checks
+larafale01 checks
+harleymanbis checks
+FaitesExcuse bets 6293
+scarlouch91 folds
+marchy54 folds
+larafale01 folds
+harleymanbis folds
+FaitesExcuse collected 15733 from pot
+*** SUMMARY ***
+Total pot 15733 | No rake
+Board: [5c Ad Kh 4s As]
+Seat 8: FaitesExcuse won 15733
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 16 - HandId: #466590029968310628-123-1424209124 - Holdem no limit (160/800/1600) - 2015/02/17 21:38:44 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (14108)
+Seat 2: lerushfou (40248)
+Seat 3: marchy54 (7225)
+Seat 4: larafale01 (42496)
+Seat 5: Zi-Amateur (9953)
+Seat 6: harleymanbis (20736)
+Seat 7: --Neymar71-- (5811)
+Seat 8: FaitesExcuse (31340)
+Seat 9: scarlouch91 (60049)
+*** ANTE/BLINDS ***
+larafale01 posts ante 160
+Zi-Amateur posts ante 160
+sabre_laser posts ante 160
+lerushfou posts ante 160
+marchy54 posts ante 160
+harleymanbis posts ante 160
+--Neymar71-- posts ante 160
+FaitesExcuse posts ante 160
+scarlouch91 posts ante 160
+larafale01 posts small blind 800
+Zi-Amateur posts big blind 1600
+Dealt to sabre_laser [Qc 9h]
+*** PRE-FLOP *** 
+harleymanbis folds
+--Neymar71-- folds
+FaitesExcuse folds
+scarlouch91 folds
+sabre_laser folds
+lerushfou folds
+marchy54 folds
+larafale01 raises 1600 to 3200
+Zi-Amateur folds
+larafale01 collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Seat 4: larafale01 (small blind) won 6240
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 16 - HandId: #466590029968310628-124-1424209166 - Holdem no limit (160/800/1600) - 2015/02/17 21:39:26 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (13948)
+Seat 2: lerushfou (40088)
+Seat 3: marchy54 (7065)
+Seat 4: larafale01 (45376)
+Seat 5: Zi-Amateur (8193)
+Seat 6: harleymanbis (20576)
+Seat 7: --Neymar71-- (5651)
+Seat 8: FaitesExcuse (31180)
+Seat 9: scarlouch91 (59889)
+*** ANTE/BLINDS ***
+Zi-Amateur posts ante 160
+harleymanbis posts ante 160
+sabre_laser posts ante 160
+lerushfou posts ante 160
+marchy54 posts ante 160
+larafale01 posts ante 160
+--Neymar71-- posts ante 160
+FaitesExcuse posts ante 160
+scarlouch91 posts ante 160
+Zi-Amateur posts small blind 800
+harleymanbis posts big blind 1600
+Dealt to sabre_laser [9c Jc]
+*** PRE-FLOP *** 
+--Neymar71-- folds
+FaitesExcuse folds
+scarlouch91 folds
+sabre_laser raises 1600 to 3200
+lerushfou folds
+marchy54 folds
+larafale01 folds
+Zi-Amateur raises 4833 to 8033 and is all-in
+harleymanbis folds
+sabre_laser calls 4833
+*** FLOP *** [8d 6h 3h]
+*** TURN *** [8d 6h 3h][Kh]
+*** RIVER *** [8d 6h 3h Kh][9s]
+*** SHOW DOWN ***
+sabre_laser shows [9c Jc] (One pair : 9)
+Zi-Amateur shows [Kc Ks] (Trips of Kings)
+Zi-Amateur collected 19106 from pot
+*** SUMMARY ***
+Total pot 19106 | No rake
+Board: [8d 6h 3h Kh 9s]
+Seat 1: sabre_laser showed [9c Jc] and lost with One pair : 9
+Seat 5: Zi-Amateur (small blind) showed [Kc Ks] and won 19106 with Trips of Kings
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 16 - HandId: #466590029968310628-125-1424209221 - Holdem no limit (160/800/1600) - 2015/02/17 21:40:21 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (5755)
+Seat 2: lerushfou (39928)
+Seat 3: marchy54 (6905)
+Seat 4: larafale01 (45216)
+Seat 5: Zi-Amateur (19106)
+Seat 6: harleymanbis (18816)
+Seat 7: --Neymar71-- (5491)
+Seat 8: FaitesExcuse (31020)
+Seat 9: scarlouch91 (59729)
+*** ANTE/BLINDS ***
+harleymanbis posts ante 160
+--Neymar71-- posts ante 160
+sabre_laser posts ante 160
+lerushfou posts ante 160
+marchy54 posts ante 160
+larafale01 posts ante 160
+Zi-Amateur posts ante 160
+FaitesExcuse posts ante 160
+scarlouch91 posts ante 160
+harleymanbis posts small blind 800
+--Neymar71-- posts big blind 1600
+Dealt to sabre_laser [3s 5h]
+*** PRE-FLOP *** 
+FaitesExcuse folds
+scarlouch91 raises 2400 to 4000
+sabre_laser folds
+lerushfou folds
+marchy54 folds
+larafale01 folds
+Zi-Amateur folds
+harleymanbis folds
+--Neymar71-- folds
+scarlouch91 collected 7840 from pot
+*** SUMMARY ***
+Total pot 7840 | No rake
+Seat 9: scarlouch91 won 7840
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 16 - HandId: #466590029968310628-126-1424209266 - Holdem no limit (160/800/1600) - 2015/02/17 21:41:06 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (5595)
+Seat 2: lerushfou (39768)
+Seat 3: marchy54 (6745)
+Seat 4: larafale01 (45056)
+Seat 5: Zi-Amateur (18946)
+Seat 6: harleymanbis (17856)
+Seat 7: --Neymar71-- (3731)
+Seat 8: FaitesExcuse (30860)
+Seat 9: scarlouch91 (63409)
+*** ANTE/BLINDS ***
+--Neymar71-- posts ante 160
+FaitesExcuse posts ante 160
+sabre_laser posts ante 160
+lerushfou posts ante 160
+marchy54 posts ante 160
+larafale01 posts ante 160
+Zi-Amateur posts ante 160
+harleymanbis posts ante 160
+scarlouch91 posts ante 160
+--Neymar71-- posts small blind 800
+FaitesExcuse posts big blind 1600
+Dealt to sabre_laser [8d 3c]
+*** PRE-FLOP *** 
+scarlouch91 folds
+sabre_laser folds
+lerushfou folds
+marchy54 folds
+larafale01 folds
+Zi-Amateur folds
+harleymanbis folds
+--Neymar71-- folds
+FaitesExcuse collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Seat 8: FaitesExcuse (big blind) won 3840
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 17 - HandId: #466590029968310628-127-1424209293 - Holdem no limit (200/1000/2000) - 2015/02/17 21:41:33 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (5435)
+Seat 2: lerushfou (39608)
+Seat 3: marchy54 (6585)
+Seat 4: larafale01 (44896)
+Seat 5: Zi-Amateur (18786)
+Seat 6: harleymanbis (17696)
+Seat 7: --Neymar71-- (2771)
+Seat 8: FaitesExcuse (32940)
+Seat 9: scarlouch91 (63249)
+*** ANTE/BLINDS ***
+FaitesExcuse posts ante 200
+scarlouch91 posts ante 200
+sabre_laser posts ante 200
+lerushfou posts ante 200
+marchy54 posts ante 200
+larafale01 posts ante 200
+Zi-Amateur posts ante 200
+harleymanbis posts ante 200
+--Neymar71-- posts ante 200
+FaitesExcuse posts small blind 1000
+scarlouch91 posts big blind 2000
+Dealt to sabre_laser [4c Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+lerushfou folds
+marchy54 folds
+larafale01 folds
+Zi-Amateur folds
+harleymanbis folds
+--Neymar71-- folds
+FaitesExcuse raises 30740 to 32740 and is all-in
+scarlouch91 folds
+FaitesExcuse collected 36540 from pot
+*** SUMMARY ***
+Total pot 36540 | No rake
+Seat 8: FaitesExcuse (small blind) won 36540
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 17 - HandId: #466590029968310628-128-1424209335 - Holdem no limit (200/1000/2000) - 2015/02/17 21:42:15 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (5235)
+Seat 2: lerushfou (39408)
+Seat 3: marchy54 (6385)
+Seat 4: larafale01 (44696)
+Seat 5: Zi-Amateur (18586)
+Seat 6: harleymanbis (17496)
+Seat 7: --Neymar71-- (2571)
+Seat 8: FaitesExcuse (36540)
+Seat 9: scarlouch91 (61049)
+*** ANTE/BLINDS ***
+scarlouch91 posts ante 200
+sabre_laser posts ante 200
+lerushfou posts ante 200
+marchy54 posts ante 200
+larafale01 posts ante 200
+Zi-Amateur posts ante 200
+harleymanbis posts ante 200
+--Neymar71-- posts ante 200
+FaitesExcuse posts ante 200
+scarlouch91 posts small blind 1000
+sabre_laser posts big blind 2000
+Dealt to sabre_laser [Ah Tc]
+*** PRE-FLOP *** 
+lerushfou folds
+marchy54 folds
+larafale01 calls 2000
+Zi-Amateur folds
+harleymanbis folds
+--Neymar71-- folds
+FaitesExcuse raises 34340 to 36340 and is all-in
+scarlouch91 calls 35340
+sabre_laser folds
+larafale01 folds
+*** FLOP *** [Td 6s Kh]
+*** TURN *** [Td 6s Kh][Kd]
+*** RIVER *** [Td 6s Kh Kd][Ad]
+*** SHOW DOWN ***
+FaitesExcuse shows [2c 2s] (Two pairs : Kings and 2)
+scarlouch91 shows [Ac As] (Full of Aces and Kings)
+scarlouch91 collected 78480 from pot
+*** SUMMARY ***
+Total pot 78480 | No rake
+Board: [Td 6s Kh Kd Ad]
+Seat 8: FaitesExcuse (button) showed [2c 2s] and lost with Two pairs : Kings and 2
+Seat 9: scarlouch91 (small blind) showed [Ac As] and won 78480 with Full of Aces and Kings
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1D" buyIn: Ticket only level: 17 - HandId: #466590029968310628-129-1424209393 - Holdem no limit (200/1000/2000) - 2015/02/17 21:43:13 UTC
+Table: 'KING 5 - Stade 1D(108636457)#355' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (3035)
+Seat 2: lerushfou (39208)
+Seat 3: marchy54 (6185)
+Seat 4: larafale01 (42496)
+Seat 5: Zi-Amateur (18386)
+Seat 6: harleymanbis (17296)
+Seat 7: --Neymar71-- (2371)
+Seat 9: scarlouch91 (102989)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 200
+lerushfou posts ante 200
+marchy54 posts ante 200
+larafale01 posts ante 200
+Zi-Amateur posts ante 200
+harleymanbis posts ante 200
+--Neymar71-- posts ante 200
+scarlouch91 posts ante 200
+sabre_laser posts small blind 1000
+lerushfou posts big blind 2000
+Dealt to sabre_laser [Kc 6s]
+*** PRE-FLOP *** 
+marchy54 folds
+larafale01 calls 2000
+Zi-Amateur raises 16186 to 18186 and is all-in
+harleymanbis folds
+--Neymar71-- folds
+scarlouch91 folds
+sabre_laser calls 1835 and is all-in
+lerushfou folds
+larafale01 folds
+*** FLOP *** [4s 5s 9c]
+*** TURN *** [4s 5s 9c][7s]
+*** RIVER *** [4s 5s 9c 7s][8d]
+*** SHOW DOWN ***
+sabre_laser shows [Kc 6s] (Straight 9 high)
+Zi-Amateur shows [Jd Th] (Straight Jack high)
+Zi-Amateur collected 26621 from pot
+*** SUMMARY ***
+Total pot 26621 | No rake
+Board: [4s 5s 9c 7s 8d]
+Seat 1: sabre_laser (small blind) showed [Kc 6s] and lost with Straight 9 high
+Seat 5: Zi-Amateur showed [Jd Th] and won 26621 with Straight Jack high
+
+

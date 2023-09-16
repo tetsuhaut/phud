@@ -1,0 +1,326 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #613005215980847701-1-1452546932 - Holdem no limit (10/20) - 2016/01/11 21:15:32 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #2 is the button
+Seat 1: zillco (3000)
+Seat 2: Ailaudie9913 (3000)
+Seat 3: sabre_laser (3000)
+Seat 4: Gilmie-W (3000)
+Seat 5: noz85 (3000)
+Seat 6: ericoo62 (3000)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Gilmie-W posts big blind 20
+Dealt to sabre_laser [7c 9d]
+*** PRE-FLOP *** 
+noz85 calls 20
+ericoo62 folds
+zillco calls 20
+Ailaudie9913 folds
+sabre_laser calls 10
+Gilmie-W checks
+*** FLOP *** [6c Qc 6d]
+sabre_laser checks
+Gilmie-W checks
+noz85 bets 20
+zillco folds
+sabre_laser folds
+Gilmie-W folds
+noz85 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [6c Qc 6d]
+Seat 5: noz85 won 100
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #613005215980847701-2-1452547098 - Holdem no limit (10/20) - 2016/01/11 21:18:18 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #3 is the button
+Seat 1: zillco (2980)
+Seat 2: Ailaudie9913 (3000)
+Seat 3: sabre_laser (2980)
+Seat 4: Gilmie-W (2980)
+Seat 5: noz85 (3060)
+Seat 6: ericoo62 (3000)
+*** ANTE/BLINDS ***
+Gilmie-W posts small blind 10
+noz85 posts big blind 20
+Dealt to sabre_laser [7h 9s]
+*** PRE-FLOP *** 
+ericoo62 raises 2980 to 3000 and is all-in
+zillco folds
+Ailaudie9913 folds
+sabre_laser folds
+Gilmie-W folds
+noz85 raises 60 to 3060 and is all-in
+*** FLOP *** [8c Qc 7s]
+*** TURN *** [8c Qc 7s][4c]
+*** RIVER *** [8c Qc 7s 4c][Qd]
+*** SHOW DOWN ***
+ericoo62 shows [Jd As] (One pair : Queens)
+noz85 shows [Tc 9h] (One pair : Queens)
+noz85 collected 60 from side pot 1
+ericoo62 collected 6010 from main pot
+*** SUMMARY ***
+Total pot 6070 | No rake
+Board: [8c Qc 7s 4c Qd]
+Seat 5: noz85 (big blind) showed [Tc 9h] and won 60 with One pair : Queens
+Seat 6: ericoo62 showed [Jd As] and won 6010 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #613005215980847701-3-1452547150 - Holdem no limit (15/30) - 2016/01/11 21:19:10 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #4 is the button
+Seat 1: zillco (2980)
+Seat 2: Ailaudie9913 (3000)
+Seat 3: sabre_laser (2980)
+Seat 4: Gilmie-W (2970)
+Seat 5: noz85 (60)
+Seat 6: ericoo62 (6010)
+*** ANTE/BLINDS ***
+noz85 posts small blind 15
+ericoo62 posts big blind 30
+Dealt to sabre_laser [8s 2s]
+*** PRE-FLOP *** 
+zillco calls 30
+Ailaudie9913 folds
+sabre_laser folds
+Gilmie-W raises 60 to 90
+noz85 calls 45 and is all-in
+ericoo62 calls 60
+zillco calls 60
+*** FLOP *** [2h Kd As]
+ericoo62 checks
+zillco checks
+Gilmie-W bets 220
+ericoo62 folds
+zillco folds
+*** TURN *** [2h Kd As][Jd]
+*** RIVER *** [2h Kd As Jd][5c]
+*** SHOW DOWN ***
+noz85 shows [6h Js] (One pair : Jacks)
+Gilmie-W shows [Td 9d] (High card : Ace)
+Gilmie-W collected 310 from side pot 1
+noz85 collected 240 from main pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [2h Kd As Jd 5c]
+Seat 4: Gilmie-W (button) showed [Td 9d] and won 310 with High card : Ace
+Seat 5: noz85 (small blind) showed [6h Js] and won 240 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #613005215980847701-4-1452547238 - Holdem no limit (15/30) - 2016/01/11 21:20:38 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #5 is the button
+Seat 1: zillco (2890)
+Seat 2: Ailaudie9913 (3000)
+Seat 3: sabre_laser (2980)
+Seat 4: Gilmie-W (2970)
+Seat 5: noz85 (240)
+Seat 6: ericoo62 (5920)
+*** ANTE/BLINDS ***
+ericoo62 posts small blind 15
+zillco posts big blind 30
+Dealt to sabre_laser [9h 8d]
+*** PRE-FLOP *** 
+Ailaudie9913 folds
+sabre_laser folds
+Gilmie-W raises 60 to 90
+noz85 raises 150 to 240 and is all-in
+ericoo62 folds
+zillco raises 480 to 720
+Gilmie-W folds
+*** FLOP *** [7d 3s 6d]
+*** TURN *** [7d 3s 6d][3h]
+*** RIVER *** [7d 3s 6d 3h][Js]
+*** SHOW DOWN ***
+noz85 shows [Kd Ad] (One pair : 3)
+zillco shows [Ac 8h] (One pair : 3)
+zillco collected 480 from side pot 1
+noz85 collected 585 from main pot
+*** SUMMARY ***
+Total pot 1065 | No rake
+Board: [7d 3s 6d 3h Js]
+Seat 1: zillco (big blind) showed [Ac 8h] and won 480 with One pair : 3
+Seat 5: noz85 (button) showed [Kd Ad] and won 585 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #613005215980847701-5-1452547294 - Holdem no limit (20/40) - 2016/01/11 21:21:34 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #6 is the button
+Seat 1: zillco (2650)
+Seat 2: Ailaudie9913 (3000)
+Seat 3: sabre_laser (2980)
+Seat 4: Gilmie-W (2880)
+Seat 5: noz85 (585)
+Seat 6: ericoo62 (5905)
+*** ANTE/BLINDS ***
+zillco posts small blind 20
+Ailaudie9913 posts big blind 40
+Dealt to sabre_laser [Kc 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Gilmie-W folds
+noz85 folds
+ericoo62 calls 40
+zillco calls 20
+Ailaudie9913 folds
+*** FLOP *** [3c 7s Qs]
+zillco checks
+ericoo62 bets 40
+zillco calls 40
+*** TURN *** [3c 7s Qs][9s]
+zillco checks
+ericoo62 checks
+*** RIVER *** [3c 7s Qs 9s][8h]
+zillco bets 2570 and is all-in
+ericoo62 folds
+zillco collected 2770 from pot
+*** SUMMARY ***
+Total pot 2770 | No rake
+Board: [3c 7s Qs 9s 8h]
+Seat 1: zillco (small blind) won 2770
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #613005215980847701-6-1452547360 - Holdem no limit (20/40) - 2016/01/11 21:22:40 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #1 is the button
+Seat 1: zillco (2770)
+Seat 2: Ailaudie9913 (2960)
+Seat 3: sabre_laser (2980)
+Seat 4: Gilmie-W (2880)
+Seat 5: noz85 (585)
+Seat 6: ericoo62 (5825)
+*** ANTE/BLINDS ***
+Ailaudie9913 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [7c 9s]
+*** PRE-FLOP *** 
+Gilmie-W folds
+noz85 calls 40
+ericoo62 calls 40
+zillco raises 80 to 120
+Ailaudie9913 folds
+sabre_laser folds
+noz85 calls 80
+ericoo62 calls 80
+*** FLOP *** [5c Ad 4c]
+noz85 checks
+ericoo62 checks
+zillco checks
+*** TURN *** [5c Ad 4c][5d]
+noz85 bets 40
+ericoo62 folds
+zillco calls 40
+*** RIVER *** [5c Ad 4c 5d][2s]
+noz85 bets 40
+zillco calls 40
+*** SHOW DOWN ***
+zillco shows [Jd Qs] (One pair : 5)
+noz85 shows [2c 9c] (Two pairs : 5 and 2)
+noz85 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5c Ad 4c 5d 2s]
+Seat 1: zillco (button) showed [Jd Qs] and lost with One pair : 5
+Seat 5: noz85 showed [2c 9c] and won 580 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #613005215980847701-7-1452547430 - Holdem no limit (20/40) - 2016/01/11 21:23:50 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #2 is the button
+Seat 1: zillco (2570)
+Seat 2: Ailaudie9913 (2940)
+Seat 3: sabre_laser (2940)
+Seat 4: Gilmie-W (2880)
+Seat 5: noz85 (965)
+Seat 6: ericoo62 (5705)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Gilmie-W posts big blind 40
+Dealt to sabre_laser [4h 8c]
+*** PRE-FLOP *** 
+noz85 folds
+ericoo62 calls 40
+zillco calls 40
+Ailaudie9913 folds
+sabre_laser calls 20
+Gilmie-W raises 120 to 160
+ericoo62 calls 120
+zillco calls 120
+sabre_laser folds
+*** FLOP *** [Ts 7d 3c]
+Gilmie-W bets 260
+ericoo62 calls 260
+zillco calls 260
+*** TURN *** [Ts 7d 3c][7c]
+Gilmie-W checks
+ericoo62 checks
+zillco bets 2150 and is all-in
+Gilmie-W folds
+ericoo62 folds
+zillco collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | No rake
+Board: [Ts 7d 3c 7c]
+Seat 1: zillco won 3450
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #613005215980847701-8-1452547524 - Holdem no limit (30/60) - 2016/01/11 21:25:24 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #3 is the button
+Seat 1: zillco (3450)
+Seat 2: Ailaudie9913 (2940)
+Seat 3: sabre_laser (2900)
+Seat 4: Gilmie-W (2460)
+Seat 5: noz85 (965)
+Seat 6: ericoo62 (5285)
+*** ANTE/BLINDS ***
+Gilmie-W posts small blind 30
+noz85 posts big blind 60
+Dealt to sabre_laser [6h 2c]
+*** PRE-FLOP *** 
+ericoo62 folds
+zillco calls 60
+Ailaudie9913 folds
+sabre_laser folds
+Gilmie-W raises 2400 to 2460 and is all-in
+noz85 calls 905 and is all-in
+zillco folds
+*** FLOP *** [Ac 2h Ks]
+*** TURN *** [Ac 2h Ks][Jd]
+*** RIVER *** [Ac 2h Ks Jd][Js]
+*** SHOW DOWN ***
+noz85 shows [5d Qs] (One pair : Jacks)
+Gilmie-W shows [8s 8d] (Two pairs : Jacks and 8)
+Gilmie-W collected 3485 from pot
+*** SUMMARY ***
+Total pot 3485 | No rake
+Board: [Ac 2h Ks Jd Js]
+Seat 4: Gilmie-W (small blind) showed [8s 8d] and won 3485 with Two pairs : Jacks and 8
+Seat 5: noz85 (big blind) showed [5d Qs] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #613005215980847701-9-1452547553 - Holdem no limit (30/60) - 2016/01/11 21:25:53 UTC
+Table: 'Freeroll(142726399)#596' 6-max (real money) Seat #4 is the button
+Seat 1: zillco (3390)
+Seat 2: Ailaudie9913 (2940)
+Seat 3: sabre_laser (2900)
+Seat 4: Gilmie-W (3485)
+Seat 6: ericoo62 (5285)
+*** ANTE/BLINDS ***
+ericoo62 posts big blind 60
+Dealt to sabre_laser [Ad Qs]
+*** PRE-FLOP *** 
+zillco folds
+Ailaudie9913 calls 60
+sabre_laser calls 60
+Gilmie-W raises 3425 to 3485 and is all-in
+ericoo62 folds
+Ailaudie9913 folds
+sabre_laser calls 2840 and is all-in
+*** FLOP *** [Th Kh Ah]
+*** TURN *** [Th Kh Ah][7h]
+*** RIVER *** [Th Kh Ah 7h][7d]
+*** SHOW DOWN ***
+sabre_laser shows [Ad Qs] (Two pairs : Aces and 7)
+Gilmie-W shows [Kc Kd] (Full of Kings and 7)
+Gilmie-W collected 6505 from pot
+*** SUMMARY ***
+Total pot 6505 | No rake
+Board: [Th Kh Ah 7h 7d]
+Seat 3: sabre_laser showed [Ad Qs] and lost with Two pairs : Aces and 7
+Seat 4: Gilmie-W (button) showed [Kc Kd] and won 6505 with Full of Kings and 7
+
+

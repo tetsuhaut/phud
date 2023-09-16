@@ -1,0 +1,695 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #541042287317090305-1-1438112836 - Holdem no limit (10/20) - 2015/07/28 19:47:16 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sebco54940 (1500)
+Seat 2: Crisssis (1500)
+Seat 3: AirJordan42 (1500)
+Seat 4: dimvert (1500)
+Seat 5: fox60 (1500)
+Seat 6: Archange Gab (1500)
+Seat 7: G_ZU (1500)
+Seat 8: kingofpigeon (1500)
+Seat 9: SoMn5mn5 (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+fox60 posts small blind 10
+Archange Gab posts big blind 20
+Dealt to sabre_laser [8c 6h]
+*** PRE-FLOP *** 
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 calls 20
+Crisssis calls 20
+AirJordan42 folds
+dimvert folds
+fox60 raises 20 to 40
+Archange Gab calls 20
+sebco54940 calls 20
+Crisssis calls 20
+*** FLOP *** [Qc As Ks]
+fox60 bets 160
+Archange Gab folds
+sebco54940 folds
+Crisssis folds
+fox60 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Qc As Ks]
+Seat 5: fox60 (small blind) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #541042287317090305-2-1438112925 - Holdem no limit (10/20) - 2015/07/28 19:48:45 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sebco54940 (1460)
+Seat 2: Crisssis (1460)
+Seat 3: AirJordan42 (1500)
+Seat 4: dimvert (1500)
+Seat 5: fox60 (1620)
+Seat 6: Archange Gab (1460)
+Seat 7: G_ZU (1500)
+Seat 8: kingofpigeon (1500)
+Seat 9: SoMn5mn5 (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+Archange Gab posts small blind 10
+G_ZU posts big blind 20
+Dealt to sabre_laser [4d 2c]
+*** PRE-FLOP *** 
+kingofpigeon calls 20
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 calls 20
+Crisssis folds
+AirJordan42 folds
+dimvert folds
+fox60 calls 20
+Archange Gab folds
+G_ZU checks
+*** FLOP *** [3s 9h 8h]
+G_ZU checks
+kingofpigeon checks
+sebco54940 checks
+fox60 checks
+*** TURN *** [3s 9h 8h][9s]
+G_ZU bets 30
+kingofpigeon calls 30
+sebco54940 calls 30
+fox60 folds
+*** RIVER *** [3s 9h 8h 9s][Th]
+G_ZU checks
+kingofpigeon checks
+sebco54940 checks
+*** SHOW DOWN ***
+sebco54940 shows [6c 5c] (One pair : 9)
+kingofpigeon shows [Qs 5s] (One pair : 9)
+G_ZU shows [9d Qd] (Trips of 9)
+G_ZU collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3s 9h 8h 9s Th]
+Seat 1: sebco54940 showed [6c 5c] and lost with One pair : 9
+Seat 7: G_ZU (big blind) showed [9d Qd] and won 180 with Trips of 9
+Seat 8: kingofpigeon showed [Qs 5s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 0 - HandId: #541042287317090305-3-1438112997 - Holdem no limit (10/20) - 2015/07/28 19:49:57 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sebco54940 (1410)
+Seat 2: Crisssis (1460)
+Seat 3: AirJordan42 (1500)
+Seat 4: dimvert (1500)
+Seat 5: fox60 (1600)
+Seat 6: Archange Gab (1450)
+Seat 7: G_ZU (1630)
+Seat 8: kingofpigeon (1450)
+Seat 9: SoMn5mn5 (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 10
+kingofpigeon posts big blind 20
+Dealt to sabre_laser [7d Ad]
+*** PRE-FLOP *** 
+SoMn5mn5 folds
+sabre_laser raises 50 to 70
+sebco54940 folds
+Crisssis folds
+AirJordan42 folds
+dimvert folds
+fox60 folds
+Archange Gab folds
+G_ZU folds
+kingofpigeon calls 50
+*** FLOP *** [Th 6s 5h]
+kingofpigeon checks
+sabre_laser checks
+*** TURN *** [Th 6s 5h][Qs]
+kingofpigeon checks
+sabre_laser bets 50
+kingofpigeon calls 50
+*** RIVER *** [Th 6s 5h Qs][Ks]
+kingofpigeon checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [7d Ad] (High card : Ace)
+kingofpigeon shows [6h 3h] (One pair : 6)
+kingofpigeon collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [Th 6s 5h Qs Ks]
+Seat 8: kingofpigeon (big blind) showed [6h 3h] and won 250 with One pair : 6
+Seat 10: sabre_laser showed [7d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #541042287317090305-4-1438113082 - Holdem no limit (15/30) - 2015/07/28 19:51:22 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sebco54940 (1410)
+Seat 2: Crisssis (1460)
+Seat 3: AirJordan42 (1500)
+Seat 4: dimvert (1500)
+Seat 5: fox60 (1600)
+Seat 6: Archange Gab (1450)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1580)
+Seat 9: SoMn5mn5 (1500)
+Seat 10: sabre_laser (1380)
+*** ANTE/BLINDS ***
+kingofpigeon posts small blind 15
+SoMn5mn5 posts big blind 30
+Dealt to sabre_laser [Ad 8c]
+*** PRE-FLOP *** 
+sabre_laser folds
+sebco54940 calls 30
+Crisssis folds
+AirJordan42 calls 30
+dimvert folds
+fox60 calls 30
+Archange Gab folds
+G_ZU folds
+kingofpigeon calls 15
+SoMn5mn5 checks
+*** FLOP *** [4c Ks Jd]
+kingofpigeon checks
+SoMn5mn5 checks
+sebco54940 checks
+AirJordan42 bets 75
+fox60 folds
+kingofpigeon folds
+SoMn5mn5 folds
+sebco54940 folds
+AirJordan42 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [4c Ks Jd]
+Seat 3: AirJordan42 won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 1 - HandId: #541042287317090305-5-1438113150 - Holdem no limit (15/30) - 2015/07/28 19:52:30 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sebco54940 (1380)
+Seat 2: Crisssis (1460)
+Seat 3: AirJordan42 (1620)
+Seat 4: dimvert (1500)
+Seat 5: fox60 (1570)
+Seat 6: Archange Gab (1450)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1550)
+Seat 9: SoMn5mn5 (1470)
+Seat 10: sabre_laser (1380)
+*** ANTE/BLINDS ***
+SoMn5mn5 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Jh Js]
+*** PRE-FLOP *** 
+sebco54940 folds
+Crisssis folds
+AirJordan42 folds
+dimvert folds
+fox60 calls 30
+Archange Gab raises 81 to 111
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser calls 81
+fox60 calls 81
+*** FLOP *** [5d 4h 6c]
+sabre_laser checks
+fox60 bets 174
+Archange Gab folds
+sabre_laser calls 174
+*** TURN *** [5d 4h 6c][9d]
+sabre_laser checks
+fox60 bets 120
+sabre_laser raises 975 to 1095 and is all-in
+fox60 folds
+sabre_laser collected 1911 from pot
+*** SUMMARY ***
+Total pot 1911 | No rake
+Board: [5d 4h 6c 9d]
+Seat 10: sabre_laser (big blind) won 1911
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 2 - HandId: #541042287317090305-6-1438113294 - Holdem no limit (20/40) - 2015/07/28 19:54:54 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sebco54940 (1380)
+Seat 2: Crisssis (1460)
+Seat 3: AirJordan42 (1620)
+Seat 4: dimvert (1500)
+Seat 5: fox60 (1165)
+Seat 6: Archange Gab (1339)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1550)
+Seat 9: SoMn5mn5 (1455)
+Seat 10: sabre_laser (1911)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+sebco54940 posts big blind 40
+Dealt to sabre_laser [Ad Qc]
+*** PRE-FLOP *** 
+Crisssis folds
+AirJordan42 folds
+dimvert calls 40
+fox60 calls 40
+Archange Gab calls 40
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 calls 40
+sabre_laser raises 1871 to 1911 and is all-in
+sebco54940 folds
+dimvert folds
+fox60 folds
+Archange Gab folds
+SoMn5mn5 folds
+sabre_laser collected 2111 from pot
+*** SUMMARY ***
+Total pot 2111 | No rake
+Seat 10: sabre_laser (small blind) won 2111
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 2 - HandId: #541042287317090305-7-1438113343 - Holdem no limit (20/40) - 2015/07/28 19:55:43 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sebco54940 (1340)
+Seat 2: Crisssis (1460)
+Seat 3: AirJordan42 (1620)
+Seat 4: dimvert (1460)
+Seat 5: fox60 (1125)
+Seat 6: Archange Gab (1299)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1550)
+Seat 9: SoMn5mn5 (1415)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+sebco54940 posts small blind 20
+Crisssis posts big blind 40
+Dealt to sabre_laser [5s 8s]
+*** PRE-FLOP *** 
+AirJordan42 folds
+dimvert folds
+fox60 calls 40
+Archange Gab folds
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 calls 20
+Crisssis checks
+*** FLOP *** [8h 5d 9h]
+sebco54940 bets 40
+Crisssis calls 40
+fox60 calls 40
+*** TURN *** [8h 5d 9h][8d]
+sebco54940 bets 1260 and is all-in
+Crisssis folds
+fox60 folds
+sebco54940 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [8h 5d 9h 8d]
+Seat 1: sebco54940 (small blind) won 1500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #541042287317090305-8-1438113404 - Holdem no limit (30/60) - 2015/07/28 19:56:44 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sebco54940 (1500)
+Seat 2: Crisssis (1380)
+Seat 3: AirJordan42 (1620)
+Seat 4: dimvert (1460)
+Seat 5: fox60 (1045)
+Seat 6: Archange Gab (1299)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1550)
+Seat 9: SoMn5mn5 (1415)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 30
+AirJordan42 posts big blind 60
+Dealt to sabre_laser [8c Tc]
+*** PRE-FLOP *** 
+dimvert folds
+fox60 folds
+Archange Gab folds
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 calls 60
+Crisssis folds
+AirJordan42 raises 180 to 240
+sebco54940 calls 180
+*** FLOP *** [6c 6h 7c]
+AirJordan42 bets 1380 and is all-in
+sebco54940 calls 1260 and is all-in
+*** TURN *** [6c 6h 7c][Qs]
+*** RIVER *** [6c 6h 7c Qs][As]
+*** SHOW DOWN ***
+sebco54940 shows [Ac 7h] (Two pairs : Aces and 7)
+AirJordan42 shows [Ks Kd] (Two pairs : Kings and 6)
+AirJordan42 collected 120 from side pot 1
+sebco54940 collected 3030 from main pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [6c 6h 7c Qs As]
+Seat 1: sebco54940 (button) showed [Ac 7h] and won 3030 with Two pairs : Aces and 7
+Seat 3: AirJordan42 (big blind) showed [Ks Kd] and won 120 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 3 - HandId: #541042287317090305-9-1438113502 - Holdem no limit (30/60) - 2015/07/28 19:58:22 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sebco54940 (3030)
+Seat 2: Crisssis (1350)
+Seat 3: AirJordan42 (120)
+Seat 4: dimvert (1460)
+Seat 5: fox60 (1045)
+Seat 6: Archange Gab (1299)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1550)
+Seat 9: SoMn5mn5 (1415)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+AirJordan42 posts small blind 30
+dimvert posts big blind 60
+Dealt to sabre_laser [9c 7h]
+*** PRE-FLOP *** 
+fox60 folds
+Archange Gab folds
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 folds
+Crisssis folds
+AirJordan42 raises 60 to 120 and is all-in
+dimvert folds
+AirJordan42 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: AirJordan42 (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #541042287317090305-10-1438113576 - Holdem no limit (40/80) - 2015/07/28 19:59:36 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sebco54940 (3030)
+Seat 2: Crisssis (1350)
+Seat 3: AirJordan42 (180)
+Seat 4: dimvert (1400)
+Seat 5: fox60 (1045)
+Seat 6: Archange Gab (1299)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1550)
+Seat 9: SoMn5mn5 (1415)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+dimvert posts small blind 40
+fox60 posts big blind 80
+Dealt to sabre_laser [9c 7s]
+*** PRE-FLOP *** 
+Archange Gab folds
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 calls 80
+Crisssis folds
+AirJordan42 raises 100 to 180 and is all-in
+dimvert folds
+fox60 calls 100
+sebco54940 calls 100
+*** FLOP *** [Ad 5h 2c]
+fox60 bets 120
+sebco54940 calls 120
+*** TURN *** [Ad 5h 2c][4d]
+fox60 bets 120
+sebco54940 folds
+*** RIVER *** [Ad 5h 2c 4d][Jc]
+*** SHOW DOWN ***
+AirJordan42 shows [7d 2d] (One pair : 2)
+fox60 shows [5c Kh] (One pair : 5)
+fox60 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [Ad 5h 2c 4d Jc]
+Seat 3: AirJordan42 (button) showed [7d 2d] and lost with One pair : 2
+Seat 5: fox60 (big blind) showed [5c Kh] and won 940 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 4 - HandId: #541042287317090305-11-1438113672 - Holdem no limit (40/80) - 2015/07/28 20:01:12 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sebco54940 (2730)
+Seat 2: Crisssis (1350)
+Seat 4: dimvert (1360)
+Seat 5: fox60 (1565)
+Seat 6: Archange Gab (1299)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1550)
+Seat 9: SoMn5mn5 (1415)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+fox60 posts small blind 40
+Archange Gab posts big blind 80
+Dealt to sabre_laser [7c 2s]
+*** PRE-FLOP *** 
+G_ZU folds
+kingofpigeon calls 80
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 folds
+Crisssis folds
+dimvert folds
+fox60 calls 40
+Archange Gab checks
+*** FLOP *** [7s 2c 9s]
+fox60 checks
+Archange Gab checks
+kingofpigeon checks
+*** TURN *** [7s 2c 9s][6s]
+fox60 bets 80
+Archange Gab folds
+kingofpigeon calls 80
+*** RIVER *** [7s 2c 9s 6s][Ts]
+fox60 bets 200
+kingofpigeon calls 200
+*** SHOW DOWN ***
+kingofpigeon shows [Tc Ks] (Flush King high)
+fox60 shows [8s 8h] (Straight flush Ten)
+fox60 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [7s 2c 9s 6s Ts]
+Seat 5: fox60 (small blind) showed [8s 8h] and won 800 with Straight flush Ten
+Seat 8: kingofpigeon showed [Tc Ks] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #541042287317090305-12-1438113733 - Holdem no limit (60/120) - 2015/07/28 20:02:13 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sebco54940 (2730)
+Seat 2: Crisssis (1350)
+Seat 4: dimvert (1360)
+Seat 5: fox60 (2005)
+Seat 6: Archange Gab (1219)
+Seat 7: G_ZU (1620)
+Seat 8: kingofpigeon (1190)
+Seat 9: SoMn5mn5 (1415)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+Archange Gab posts small blind 60
+G_ZU posts big blind 120
+Dealt to sabre_laser [6s Ac]
+*** PRE-FLOP *** 
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser folds
+sebco54940 calls 120
+Crisssis folds
+dimvert folds
+fox60 folds
+Archange Gab folds
+G_ZU checks
+*** FLOP *** [8d 8c 2d]
+G_ZU checks
+sebco54940 bets 120
+G_ZU folds
+sebco54940 shows [6d Td] (One pair : 8)
+sebco54940 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [8d 8c 2d]
+Seat 1: sebco54940 showed [6d Td] and won 420 with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #541042287317090305-13-1438113807 - Holdem no limit (60/120) - 2015/07/28 20:03:27 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sebco54940 (2910)
+Seat 2: Crisssis (1350)
+Seat 4: dimvert (1360)
+Seat 5: fox60 (2005)
+Seat 6: Archange Gab (1159)
+Seat 7: G_ZU (1500)
+Seat 8: kingofpigeon (1190)
+Seat 9: SoMn5mn5 (1415)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 60
+kingofpigeon posts big blind 120
+Dealt to sabre_laser [Kh 8h]
+*** PRE-FLOP *** 
+SoMn5mn5 raises 120 to 240
+sabre_laser folds
+sebco54940 folds
+Crisssis folds
+dimvert folds
+fox60 folds
+Archange Gab folds
+G_ZU folds
+kingofpigeon calls 120
+*** FLOP *** [2s Tc 4h]
+kingofpigeon checks
+SoMn5mn5 checks
+*** TURN *** [2s Tc 4h][2h]
+kingofpigeon checks
+SoMn5mn5 checks
+*** RIVER *** [2s Tc 4h 2h][Jc]
+kingofpigeon bets 120
+SoMn5mn5 calls 120
+*** SHOW DOWN ***
+SoMn5mn5 shows [Kc Ac] (One pair : 2)
+kingofpigeon shows [4c 7c] (Two pairs : 4 and 2)
+kingofpigeon collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [2s Tc 4h 2h Jc]
+Seat 8: kingofpigeon (big blind) showed [4c 7c] and won 780 with Two pairs : 4 and 2
+Seat 9: SoMn5mn5 showed [Kc Ac] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 5 - HandId: #541042287317090305-14-1438113895 - Holdem no limit (60/120) - 2015/07/28 20:04:55 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sebco54940 (2910)
+Seat 2: Crisssis (1350)
+Seat 4: dimvert (1360)
+Seat 5: fox60 (2005)
+Seat 6: Archange Gab (1159)
+Seat 7: G_ZU (1440)
+Seat 8: kingofpigeon (1610)
+Seat 9: SoMn5mn5 (1055)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+kingofpigeon posts small blind 60
+SoMn5mn5 posts big blind 120
+Dealt to sabre_laser [Qd Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+sebco54940 folds
+Crisssis folds
+dimvert folds
+fox60 calls 120
+Archange Gab folds
+G_ZU folds
+kingofpigeon calls 60
+SoMn5mn5 checks
+*** FLOP *** [3h Jc 9h]
+kingofpigeon checks
+SoMn5mn5 checks
+fox60 bets 120
+kingofpigeon folds
+SoMn5mn5 folds
+fox60 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3h Jc 9h]
+Seat 5: fox60 won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 6 - HandId: #541042287317090305-15-1438114003 - Holdem no limit (80/160) - 2015/07/28 20:06:43 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sebco54940 (2910)
+Seat 2: Crisssis (1350)
+Seat 4: dimvert (1360)
+Seat 5: fox60 (2245)
+Seat 6: Archange Gab (1159)
+Seat 7: G_ZU (1440)
+Seat 8: kingofpigeon (1490)
+Seat 9: SoMn5mn5 (935)
+Seat 10: sabre_laser (2111)
+*** ANTE/BLINDS ***
+SoMn5mn5 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [5c 2d]
+*** PRE-FLOP *** 
+sebco54940 folds
+Crisssis folds
+dimvert folds
+fox60 folds
+Archange Gab folds
+G_ZU folds
+kingofpigeon calls 160
+SoMn5mn5 folds
+sabre_laser checks
+*** FLOP *** [4s 8d Qh]
+sabre_laser checks
+kingofpigeon checks
+*** TURN *** [4s 8d Qh][Jh]
+sabre_laser checks
+kingofpigeon checks
+*** RIVER *** [4s 8d Qh Jh][6d]
+sabre_laser checks
+kingofpigeon checks
+*** SHOW DOWN ***
+sabre_laser shows [5c 2d] (High card : Queen)
+kingofpigeon shows [Tc As] (High card : Ace)
+kingofpigeon collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [4s 8d Qh Jh 6d]
+Seat 8: kingofpigeon (button) showed [Tc As] and won 400 with High card : Ace
+Seat 10: sabre_laser (big blind) showed [5c 2d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,93€ + 0,07€ level: 7 - HandId: #541042287317090305-16-1438114104 - Holdem no limit (10/100/200) - 2015/07/28 20:08:24 UTC
+Table: 'Double or Nothing(125971224)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sebco54940 (2910)
+Seat 2: Crisssis (1350)
+Seat 4: dimvert (1360)
+Seat 5: fox60 (2245)
+Seat 6: Archange Gab (1159)
+Seat 7: G_ZU (1440)
+Seat 8: kingofpigeon (1730)
+Seat 9: SoMn5mn5 (855)
+Seat 10: sabre_laser (1951)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+sebco54940 posts ante 10
+Crisssis posts ante 10
+dimvert posts ante 10
+fox60 posts ante 10
+Archange Gab posts ante 10
+G_ZU posts ante 10
+kingofpigeon posts ante 10
+SoMn5mn5 posts ante 10
+sabre_laser posts small blind 100
+sebco54940 posts big blind 200
+Dealt to sabre_laser [Ad 7s]
+*** PRE-FLOP *** 
+Crisssis folds
+dimvert folds
+fox60 calls 200
+Archange Gab folds
+G_ZU folds
+kingofpigeon folds
+SoMn5mn5 folds
+sabre_laser raises 1741 to 1941 and is all-in
+sebco54940 calls 1741
+fox60 folds
+*** FLOP *** [5s Js 4c]
+*** TURN *** [5s Js 4c][3s]
+*** RIVER *** [5s Js 4c 3s][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [Ad 7s] (High card : Ace)
+sebco54940 shows [Ks Kd] (Trips of Kings)
+sebco54940 collected 4172 from pot
+*** SUMMARY ***
+Total pot 4172 | No rake
+Board: [5s Js 4c 3s Kh]
+Seat 1: sebco54940 (big blind) showed [Ks Kd] and won 4172 with Trips of Kings
+Seat 10: sabre_laser (small blind) showed [Ad 7s] and lost with High card : Ace
+
+

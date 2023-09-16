@@ -1,0 +1,1055 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: -1 - HandId: #656269632734232778-1-1459448130 - Holdem no limit (10/20) - 2016/03/31 18:15:30 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #8 is the button
+Seat 1: Yo911 (3000)
+Seat 2: kalidivina (3000)
+Seat 3: toto622 (3000)
+Seat 4: michouel jeh (3000)
+Seat 5: webert tony (3000)
+Seat 6: MIOMCT (3000)
+Seat 7: sabre_laser (3000)
+Seat 8: drik-c44 (3000)
+*** ANTE/BLINDS ***
+Yo911 posts small blind 10
+kalidivina posts big blind 20
+Dealt to sabre_laser [Td 2d]
+*** PRE-FLOP *** 
+toto622 folds
+michouel jeh folds
+webert tony folds
+MIOMCT calls 20
+sabre_laser folds
+drik-c44 folds
+Yo911 folds
+kalidivina checks
+*** FLOP *** [Qs 4d Jc]
+kalidivina checks
+MIOMCT checks
+*** TURN *** [Qs 4d Jc][3h]
+kalidivina bets 20
+MIOMCT folds
+kalidivina collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Qs 4d Jc 3h]
+Seat 2: kalidivina (big blind) won 70
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #656269632734232778-2-1459448340 - Holdem no limit (15/30) - 2016/03/31 18:19:00 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #1 is the button
+Seat 1: Yo911 (2990)
+Seat 2: kalidivina (3030)
+Seat 3: toto622 (3000)
+Seat 4: michouel jeh (3000)
+Seat 5: webert tony (3000)
+Seat 6: MIOMCT (2980)
+Seat 7: sabre_laser (3000)
+Seat 8: drik-c44 (3000)
+*** ANTE/BLINDS ***
+kalidivina posts small blind 15
+toto622 posts big blind 30
+Dealt to sabre_laser [9h 8s]
+*** PRE-FLOP *** 
+michouel jeh calls 30
+webert tony folds
+MIOMCT calls 30
+sabre_laser folds
+drik-c44 folds
+Yo911 folds
+kalidivina folds
+toto622 checks
+*** FLOP *** [Tc Ad 9d]
+toto622 checks
+michouel jeh bets 105
+MIOMCT calls 105
+toto622 calls 105
+*** TURN *** [Tc Ad 9d][Qs]
+toto622 bets 30
+michouel jeh raises 240 to 270
+MIOMCT calls 270
+toto622 folds
+*** RIVER *** [Tc Ad 9d Qs][3c]
+michouel jeh bets 495
+MIOMCT raises 495 to 990
+michouel jeh folds
+MIOMCT collected 2475 from pot
+*** SUMMARY ***
+Total pot 2475 | No rake
+Board: [Tc Ad 9d Qs 3c]
+Seat 6: MIOMCT won 2475
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #656269632734232778-3-1459448455 - Holdem no limit (15/30) - 2016/03/31 18:20:55 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #2 is the button
+Seat 1: Yo911 (2990)
+Seat 2: kalidivina (3015)
+Seat 3: toto622 (2835)
+Seat 4: michouel jeh (2100)
+Seat 5: webert tony (3000)
+Seat 6: MIOMCT (4060)
+Seat 7: sabre_laser (3000)
+Seat 8: drik-c44 (3000)
+*** ANTE/BLINDS ***
+toto622 posts small blind 15
+michouel jeh posts big blind 30
+Dealt to sabre_laser [2s Th]
+*** PRE-FLOP *** 
+webert tony calls 30
+MIOMCT calls 30
+sabre_laser folds
+drik-c44 folds
+Yo911 folds
+kalidivina calls 30
+toto622 calls 15
+michouel jeh checks
+*** FLOP *** [Ac 5h 8c]
+toto622 checks
+michouel jeh checks
+webert tony checks
+MIOMCT checks
+kalidivina bets 75
+toto622 calls 75
+michouel jeh folds
+webert tony calls 75
+MIOMCT calls 75
+*** TURN *** [Ac 5h 8c][6s]
+toto622 checks
+webert tony checks
+MIOMCT checks
+kalidivina checks
+*** RIVER *** [Ac 5h 8c 6s][8h]
+toto622 bets 2730 and is all-in
+webert tony raises 165 to 2895 and is all-in
+MIOMCT folds
+kalidivina folds
+*** SHOW DOWN ***
+toto622 shows [4s 8d] (Trips of 8)
+webert tony shows [9s 8s] (Trips of 8)
+webert tony collected 6075 from pot
+*** SUMMARY ***
+Total pot 6075 | No rake
+Board: [Ac 5h 8c 6s 8h]
+Seat 3: toto622 (small blind) showed [4s 8d] and lost with Trips of 8
+Seat 5: webert tony showed [9s 8s] and won 6075 with Trips of 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #656269632734232778-4-1459448639 - Holdem no limit (20/40) - 2016/03/31 18:23:59 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #3 is the button
+Seat 1: Yo911 (2990)
+Seat 2: kalidivina (2910)
+Seat 4: michouel jeh (2070)
+Seat 5: webert tony (6075)
+Seat 6: MIOMCT (3955)
+Seat 7: sabre_laser (3000)
+Seat 8: drik-c44 (3000)
+*** ANTE/BLINDS ***
+michouel jeh posts small blind 20
+webert tony posts big blind 40
+Dealt to sabre_laser [9c 6h]
+*** PRE-FLOP *** 
+MIOMCT folds
+sabre_laser folds
+drik-c44 calls 40
+Yo911 folds
+kalidivina folds
+michouel jeh calls 20
+webert tony raises 6035 to 6075 and is all-in
+drik-c44 folds
+michouel jeh folds
+webert tony collected 6155 from pot
+*** SUMMARY ***
+Total pot 6155 | No rake
+Seat 5: webert tony (big blind) won 6155
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #656269632734232778-5-1459448699 - Holdem no limit (30/60) - 2016/03/31 18:24:59 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #4 is the button
+Seat 1: Yo911 (2990)
+Seat 2: kalidivina (2910)
+Seat 3: futer-84 (2850)
+Seat 4: michouel jeh (2030)
+Seat 5: webert tony (6155)
+Seat 6: MIOMCT (3955)
+Seat 7: sabre_laser (3000)
+Seat 8: drik-c44 (2960)
+*** ANTE/BLINDS ***
+webert tony posts small blind 30
+MIOMCT posts big blind 60
+Dealt to sabre_laser [6s Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+drik-c44 folds
+Yo911 folds
+kalidivina folds
+futer-84 calls 60
+michouel jeh calls 60
+webert tony folds
+MIOMCT checks
+*** FLOP *** [9d 3c Js]
+MIOMCT checks
+futer-84 bets 60
+michouel jeh calls 60
+MIOMCT calls 60
+*** TURN *** [9d 3c Js][Ah]
+MIOMCT checks
+futer-84 bets 60
+michouel jeh calls 60
+MIOMCT calls 60
+*** RIVER *** [9d 3c Js Ah][6h]
+MIOMCT checks
+futer-84 folds
+michouel jeh bets 380
+MIOMCT folds
+michouel jeh collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [9d 3c Js Ah 6h]
+Seat 4: michouel jeh (button) won 950
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #656269632734232778-6-1459448887 - Holdem no limit (40/80) - 2016/03/31 18:28:07 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #5 is the button
+Seat 1: Yo911 (2990)
+Seat 2: kalidivina (2910)
+Seat 3: futer-84 (2670)
+Seat 4: michouel jeh (2420)
+Seat 5: webert tony (6125)
+Seat 6: MIOMCT (3775)
+Seat 7: sabre_laser (3000)
+Seat 8: drik-c44 (2960)
+*** ANTE/BLINDS ***
+MIOMCT posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Ad 8s]
+*** PRE-FLOP *** 
+drik-c44 calls 80
+Yo911 folds
+kalidivina folds
+futer-84 calls 80
+michouel jeh folds
+webert tony folds
+MIOMCT calls 40
+sabre_laser checks
+*** FLOP *** [8d 6s 5h]
+MIOMCT checks
+sabre_laser bets 80
+drik-c44 calls 80
+futer-84 calls 80
+MIOMCT calls 80
+*** TURN *** [8d 6s 5h][7h]
+MIOMCT bets 640
+sabre_laser folds
+drik-c44 folds
+futer-84 folds
+MIOMCT collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [8d 6s 5h 7h]
+Seat 6: MIOMCT (small blind) won 1280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #656269632734232778-7-1459449044 - Holdem no limit (60/120) - 2016/03/31 18:30:44 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #6 is the button
+Seat 1: Yo911 (2990)
+Seat 2: kalidivina (2910)
+Seat 3: futer-84 (2510)
+Seat 4: michouel jeh (2420)
+Seat 5: webert tony (6125)
+Seat 6: MIOMCT (4255)
+Seat 7: sabre_laser (2840)
+Seat 8: drik-c44 (2800)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+drik-c44 posts big blind 120
+Dealt to sabre_laser [Kc 5h]
+*** PRE-FLOP *** 
+Yo911 calls 120
+kalidivina folds
+futer-84 calls 120
+michouel jeh raises 2300 to 2420 and is all-in
+webert tony raises 3705 to 6125 and is all-in
+MIOMCT folds
+sabre_laser folds
+drik-c44 calls 2680 and is all-in
+Yo911 calls 2870 and is all-in
+futer-84 folds
+*** FLOP *** [3h Td Qs]
+*** TURN *** [3h Td Qs][7s]
+*** RIVER *** [3h Td Qs 7s][9h]
+*** SHOW DOWN ***
+Yo911 shows [Ad 8d] (High card : Ace)
+drik-c44 shows [4s As] (High card : Ace)
+michouel jeh shows [Qd Ac] (One pair : Queens)
+webert tony shows [9s Ah] (One pair : 9)
+webert tony collected 4655 from side pot 1
+michouel jeh collected 9860 from main pot
+*** SUMMARY ***
+Total pot 14515 | No rake
+Board: [3h Td Qs 7s 9h]
+Seat 1: Yo911 showed [Ad 8d] and lost with High card : Ace
+Seat 4: michouel jeh showed [Qd Ac] and won 9860 with One pair : Queens
+Seat 5: webert tony showed [9s Ah] and won 4655 with One pair : 9
+Seat 8: drik-c44 (big blind) showed [4s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #656269632734232778-8-1459449111 - Holdem no limit (60/120) - 2016/03/31 18:31:51 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #7 is the button
+Seat 2: kalidivina (2910)
+Seat 3: futer-84 (2390)
+Seat 4: michouel jeh (9860)
+Seat 5: webert tony (4655)
+Seat 6: MIOMCT (4255)
+Seat 7: sabre_laser (2780)
+Seat 8: ATBC (11782)
+*** ANTE/BLINDS ***
+kalidivina posts big blind 120
+Dealt to sabre_laser [4d 3c]
+*** PRE-FLOP *** 
+futer-84 calls 120
+michouel jeh raises 9740 to 9860 and is all-in
+webert tony calls 4655 and is all-in
+MIOMCT folds
+sabre_laser folds
+kalidivina folds
+futer-84 folds
+*** FLOP *** [Kh 5h As]
+*** TURN *** [Kh 5h As][Qc]
+*** RIVER *** [Kh 5h As Qc][6d]
+*** SHOW DOWN ***
+webert tony shows [Qd Jc] (One pair : Queens)
+michouel jeh shows [Qs Ah] (Two pairs : Aces and Queens)
+michouel jeh collected 14755 from pot
+*** SUMMARY ***
+Total pot 14755 | No rake
+Board: [Kh 5h As Qc 6d]
+Seat 4: michouel jeh showed [Qs Ah] and won 14755 with Two pairs : Aces and Queens
+Seat 5: webert tony showed [Qd Jc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #656269632734232778-9-1459449170 - Holdem no limit (60/120) - 2016/03/31 18:32:50 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #8 is the button
+Seat 1: gravity13 (2930)
+Seat 2: kalidivina (2790)
+Seat 3: futer-84 (2270)
+Seat 4: michouel jeh (14755)
+Seat 6: MIOMCT (4255)
+Seat 7: sabre_laser (2780)
+Seat 8: ATBC (11782)
+*** ANTE/BLINDS ***
+kalidivina posts small blind 60
+futer-84 posts big blind 120
+Dealt to sabre_laser [4d 4s]
+*** PRE-FLOP *** 
+michouel jeh calls 120
+MIOMCT calls 120
+sabre_laser calls 120
+kalidivina calls 60
+futer-84 raises 120 to 240
+michouel jeh calls 120
+MIOMCT calls 120
+sabre_laser calls 120
+kalidivina folds
+*** FLOP *** [Kd 7d Ah]
+futer-84 checks
+michouel jeh bets 120
+MIOMCT calls 120
+sabre_laser folds
+futer-84 calls 120
+*** TURN *** [Kd 7d Ah][3c]
+futer-84 checks
+michouel jeh bets 120
+MIOMCT calls 120
+futer-84 calls 120
+*** RIVER *** [Kd 7d Ah 3c][Kh]
+futer-84 checks
+michouel jeh checks
+MIOMCT bets 120
+futer-84 raises 1290 to 1410
+michouel jeh folds
+MIOMCT calls 1290
+*** SHOW DOWN ***
+MIOMCT shows [As 8d] (Two pairs : Aces and Kings)
+futer-84 shows [Kc Jh] (Trips of Kings)
+futer-84 collected 4620 from pot
+*** SUMMARY ***
+Total pot 4620 | No rake
+Board: [Kd 7d Ah 3c Kh]
+Seat 3: futer-84 (big blind) showed [Kc Jh] and won 4620 with Trips of Kings
+Seat 6: MIOMCT showed [As 8d] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #656269632734232778-10-1459449330 - Holdem no limit (10/60/120) - 2016/03/31 18:35:30 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #2 is the button
+Seat 1: gravity13 (2930)
+Seat 2: kalidivina (2670)
+Seat 3: futer-84 (5000)
+Seat 4: michouel jeh (14275)
+Seat 5: billyboy76 (3000)
+Seat 6: MIOMCT (2365)
+Seat 7: sabre_laser (2540)
+Seat 8: ATBC (11782)
+*** ANTE/BLINDS ***
+futer-84 posts ante 10
+michouel jeh posts ante 10
+gravity13 posts ante 10
+kalidivina posts ante 10
+billyboy76 posts ante 10
+MIOMCT posts ante 10
+sabre_laser posts ante 10
+ATBC posts ante 10
+futer-84 posts small blind 60
+michouel jeh posts big blind 120
+Dealt to sabre_laser [As 9h]
+*** PRE-FLOP *** 
+billyboy76 folds
+MIOMCT folds
+sabre_laser raises 120 to 240
+ATBC folds
+gravity13 folds
+kalidivina folds
+futer-84 calls 180
+michouel jeh calls 120
+*** FLOP *** [4s Kh 6c]
+futer-84 checks
+michouel jeh checks
+sabre_laser bets 400
+futer-84 calls 400
+michouel jeh folds
+*** TURN *** [4s Kh 6c][4h]
+futer-84 checks
+sabre_laser checks
+*** RIVER *** [4s Kh 6c 4h][3c]
+futer-84 bets 1040
+sabre_laser folds
+futer-84 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [4s Kh 6c 4h 3c]
+Seat 3: futer-84 (small blind) won 2640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #656269632734232778-11-1459449411 - Holdem no limit (15/75/150) - 2016/03/31 18:36:51 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #3 is the button
+Seat 1: gravity13 (2920)
+Seat 2: kalidivina (2660)
+Seat 3: futer-84 (5950)
+Seat 4: michouel jeh (14025)
+Seat 5: billyboy76 (2990)
+Seat 6: MIOMCT (2355)
+Seat 7: sabre_laser (1890)
+Seat 8: ATBC (11772)
+*** ANTE/BLINDS ***
+michouel jeh posts ante 15
+billyboy76 posts ante 15
+gravity13 posts ante 15
+kalidivina posts ante 15
+futer-84 posts ante 15
+MIOMCT posts ante 15
+sabre_laser posts ante 15
+ATBC posts ante 15
+michouel jeh posts small blind 75
+billyboy76 posts big blind 150
+Dealt to sabre_laser [Th 8c]
+*** PRE-FLOP *** 
+MIOMCT folds
+sabre_laser folds
+ATBC folds
+gravity13 folds
+kalidivina folds
+futer-84 folds
+michouel jeh raises 150 to 300
+billyboy76 calls 150
+*** FLOP *** [9s 7s 9h]
+michouel jeh bets 150
+billyboy76 calls 150
+*** TURN *** [9s 7s 9h][Js]
+michouel jeh bets 150
+billyboy76 calls 150
+*** RIVER *** [9s 7s 9h Js][3h]
+michouel jeh bets 150
+billyboy76 calls 150
+*** SHOW DOWN ***
+michouel jeh shows [5s Ah] (One pair : 9)
+billyboy76 shows [2d 2h] (Two pairs : 9 and 2)
+billyboy76 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [9s 7s 9h Js 3h]
+Seat 4: michouel jeh (small blind) showed [5s Ah] and lost with One pair : 9
+Seat 5: billyboy76 (big blind) showed [2d 2h] and won 1620 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #656269632734232778-12-1459449458 - Holdem no limit (15/75/150) - 2016/03/31 18:37:38 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #4 is the button
+Seat 1: gravity13 (2905)
+Seat 2: kalidivina (2645)
+Seat 3: futer-84 (5935)
+Seat 4: michouel jeh (13260)
+Seat 5: billyboy76 (3845)
+Seat 6: MIOMCT (2340)
+Seat 7: sabre_laser (1875)
+Seat 8: ATBC (11757)
+*** ANTE/BLINDS ***
+billyboy76 posts ante 15
+MIOMCT posts ante 15
+gravity13 posts ante 15
+kalidivina posts ante 15
+futer-84 posts ante 15
+michouel jeh posts ante 15
+sabre_laser posts ante 15
+ATBC posts ante 15
+billyboy76 posts small blind 75
+MIOMCT posts big blind 150
+Dealt to sabre_laser [6d 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+ATBC folds
+gravity13 folds
+kalidivina folds
+futer-84 calls 150
+michouel jeh raises 150 to 300
+billyboy76 calls 225
+MIOMCT calls 150
+futer-84 calls 150
+*** FLOP *** [Ah 9d 5h]
+billyboy76 bets 150
+MIOMCT folds
+futer-84 folds
+michouel jeh calls 150
+*** TURN *** [Ah 9d 5h][4c]
+billyboy76 bets 150
+michouel jeh calls 150
+*** RIVER *** [Ah 9d 5h 4c][2d]
+billyboy76 checks
+michouel jeh bets 300
+billyboy76 folds
+michouel jeh collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [Ah 9d 5h 4c 2d]
+Seat 4: michouel jeh (button) won 2220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #656269632734232778-13-1459449543 - Holdem no limit (15/75/150) - 2016/03/31 18:39:03 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #5 is the button
+Seat 1: gravity13 (2890)
+Seat 2: kalidivina (2630)
+Seat 3: futer-84 (5620)
+Seat 4: michouel jeh (14565)
+Seat 5: billyboy76 (3230)
+Seat 6: MIOMCT (2025)
+Seat 7: sabre_laser (1860)
+Seat 8: ATBC (11742)
+*** ANTE/BLINDS ***
+MIOMCT posts ante 15
+sabre_laser posts ante 15
+gravity13 posts ante 15
+kalidivina posts ante 15
+futer-84 posts ante 15
+michouel jeh posts ante 15
+billyboy76 posts ante 15
+ATBC posts ante 15
+MIOMCT posts small blind 75
+sabre_laser posts big blind 150
+Dealt to sabre_laser [8s 5d]
+*** PRE-FLOP *** 
+ATBC raises 150 to 300
+gravity13 folds
+kalidivina folds
+futer-84 calls 300
+michouel jeh folds
+billyboy76 folds
+MIOMCT folds
+sabre_laser calls 150
+*** FLOP *** [4d 2d 4h]
+sabre_laser checks
+ATBC checks
+futer-84 checks
+*** TURN *** [4d 2d 4h][7d]
+sabre_laser bets 300
+ATBC folds
+futer-84 folds
+sabre_laser collected 1395 from pot
+*** SUMMARY ***
+Total pot 1395 | No rake
+Board: [4d 2d 4h 7d]
+Seat 7: sabre_laser (big blind) won 1395
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #656269632734232778-14-1459449653 - Holdem no limit (20/100/200) - 2016/03/31 18:40:53 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #6 is the button
+Seat 1: gravity13 (2875)
+Seat 2: kalidivina (2615)
+Seat 3: futer-84 (5305)
+Seat 4: michouel jeh (14550)
+Seat 5: billyboy76 (3215)
+Seat 6: MIOMCT (1935)
+Seat 7: sabre_laser (2640)
+Seat 8: ATBC (11427)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+ATBC posts ante 20
+gravity13 posts ante 20
+kalidivina posts ante 20
+futer-84 posts ante 20
+michouel jeh posts ante 20
+billyboy76 posts ante 20
+MIOMCT posts ante 20
+sabre_laser posts small blind 100
+ATBC posts big blind 200
+Dealt to sabre_laser [Js Td]
+*** PRE-FLOP *** 
+gravity13 folds
+kalidivina folds
+futer-84 calls 200
+michouel jeh folds
+billyboy76 calls 200
+MIOMCT calls 200
+sabre_laser calls 100
+ATBC raises 600 to 800
+futer-84 raises 4485 to 5285 and is all-in
+billyboy76 folds
+MIOMCT folds
+sabre_laser folds
+ATBC folds
+futer-84 collected 6845 from pot
+*** SUMMARY ***
+Total pot 6845 | No rake
+Seat 3: futer-84 won 6845
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #656269632734232778-15-1459449735 - Holdem no limit (20/100/200) - 2016/03/31 18:42:15 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #7 is the button
+Seat 1: gravity13 (2855)
+Seat 2: kalidivina (2595)
+Seat 3: futer-84 (6845)
+Seat 4: michouel jeh (14530)
+Seat 5: billyboy76 (2995)
+Seat 6: MIOMCT (1715)
+Seat 7: sabre_laser (2420)
+Seat 8: ATBC (10607)
+*** ANTE/BLINDS ***
+ATBC posts ante 20
+gravity13 posts ante 20
+kalidivina posts ante 20
+futer-84 posts ante 20
+michouel jeh posts ante 20
+billyboy76 posts ante 20
+MIOMCT posts ante 20
+sabre_laser posts ante 20
+ATBC posts small blind 100
+gravity13 posts big blind 200
+Dealt to sabre_laser [7h 9s]
+*** PRE-FLOP *** 
+kalidivina raises 200 to 400
+futer-84 calls 400
+michouel jeh folds
+billyboy76 raises 2575 to 2975 and is all-in
+MIOMCT folds
+sabre_laser folds
+ATBC folds
+gravity13 folds
+kalidivina calls 2175 and is all-in
+futer-84 folds
+*** FLOP *** [6s 4s 9h]
+*** TURN *** [6s 4s 9h][3s]
+*** RIVER *** [6s 4s 9h 3s][8s]
+*** SHOW DOWN ***
+kalidivina shows [As 5s] (Flush Ace high)
+billyboy76 shows [Kd Ad] (High card : Ace)
+billyboy76 collected 400 from side pot 1
+kalidivina collected 6010 from main pot
+*** SUMMARY ***
+Total pot 6410 | No rake
+Board: [6s 4s 9h 3s 8s]
+Seat 2: kalidivina showed [As 5s] and won 6010 with Flush Ace high
+Seat 5: billyboy76 showed [Kd Ad] and won 400 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #656269632734232778-16-1459449791 - Holdem no limit (25/125/250) - 2016/03/31 18:43:11 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #8 is the button
+Seat 1: gravity13 (2635)
+Seat 2: kalidivina (6010)
+Seat 3: futer-84 (6425)
+Seat 4: michouel jeh (14510)
+Seat 5: billyboy76 (400)
+Seat 6: MIOMCT (1695)
+Seat 7: sabre_laser (2400)
+Seat 8: ATBC (10487)
+*** ANTE/BLINDS ***
+gravity13 posts ante 25
+kalidivina posts ante 25
+futer-84 posts ante 25
+michouel jeh posts ante 25
+billyboy76 posts ante 25
+MIOMCT posts ante 25
+sabre_laser posts ante 25
+ATBC posts ante 25
+gravity13 posts small blind 125
+kalidivina posts big blind 250
+Dealt to sabre_laser [Kc 8h]
+*** PRE-FLOP *** 
+futer-84 folds
+michouel jeh raises 14235 to 14485 and is all-in
+billyboy76 folds
+MIOMCT folds
+sabre_laser folds
+ATBC folds
+gravity13 folds
+kalidivina folds
+michouel jeh collected 15060 from pot
+*** SUMMARY ***
+Total pot 15060 | No rake
+Seat 4: michouel jeh won 15060
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #656269632734232778-17-1459449820 - Holdem no limit (25/125/250) - 2016/03/31 18:43:40 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #1 is the button
+Seat 1: gravity13 (2485)
+Seat 2: kalidivina (5735)
+Seat 3: futer-84 (6400)
+Seat 4: michouel jeh (15060)
+Seat 5: billyboy76 (375)
+Seat 6: MIOMCT (1670)
+Seat 7: sabre_laser (2375)
+Seat 8: ATBC (10462)
+*** ANTE/BLINDS ***
+kalidivina posts ante 25
+futer-84 posts ante 25
+gravity13 posts ante 25
+michouel jeh posts ante 25
+billyboy76 posts ante 25
+MIOMCT posts ante 25
+sabre_laser posts ante 25
+ATBC posts ante 25
+kalidivina posts small blind 125
+futer-84 posts big blind 250
+Dealt to sabre_laser [Td 4c]
+*** PRE-FLOP *** 
+michouel jeh calls 250
+billyboy76 folds
+MIOMCT folds
+sabre_laser folds
+ATBC raises 5288 to 5538
+gravity13 folds
+kalidivina folds
+futer-84 folds
+michouel jeh folds
+ATBC collected 6363 from pot
+*** SUMMARY ***
+Total pot 6363 | No rake
+Seat 8: ATBC won 6363
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #656269632734232778-18-1459449878 - Holdem no limit (25/125/250) - 2016/03/31 18:44:38 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #2 is the button
+Seat 1: gravity13 (2460)
+Seat 2: kalidivina (5585)
+Seat 3: futer-84 (6125)
+Seat 4: michouel jeh (14785)
+Seat 5: billyboy76 (350)
+Seat 6: MIOMCT (1645)
+Seat 7: sabre_laser (2350)
+Seat 8: ATBC (11262)
+*** ANTE/BLINDS ***
+futer-84 posts ante 25
+michouel jeh posts ante 25
+gravity13 posts ante 25
+kalidivina posts ante 25
+billyboy76 posts ante 25
+MIOMCT posts ante 25
+sabre_laser posts ante 25
+ATBC posts ante 25
+futer-84 posts small blind 125
+michouel jeh posts big blind 250
+Dealt to sabre_laser [2d 5s]
+*** PRE-FLOP *** 
+billyboy76 raises 75 to 325 and is all-in
+MIOMCT calls 325
+sabre_laser folds
+ATBC folds
+gravity13 folds
+kalidivina folds
+futer-84 calls 200
+michouel jeh calls 75
+*** FLOP *** [9h 4d Jh]
+futer-84 checks
+michouel jeh bets 250
+MIOMCT folds
+futer-84 calls 250
+*** TURN *** [9h 4d Jh][Qd]
+futer-84 checks
+michouel jeh bets 250
+futer-84 calls 250
+*** RIVER *** [9h 4d Jh Qd][Jd]
+futer-84 checks
+michouel jeh checks
+*** SHOW DOWN ***
+futer-84 shows [Ts 6d] (One pair : Jacks)
+billyboy76 shows [Kd 5d] (Flush King high)
+michouel jeh shows [Ac 4c] (Two pairs : Jacks and 4)
+michouel jeh collected 1000 from side pot 1
+billyboy76 collected 1500 from main pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [9h 4d Jh Qd Jd]
+Seat 3: futer-84 (small blind) showed [Ts 6d] and lost with One pair : Jacks
+Seat 4: michouel jeh (big blind) showed [Ac 4c] and won 1000 with Two pairs : Jacks and 4
+Seat 5: billyboy76 showed [Kd 5d] and won 1500 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #656269632734232778-19-1459449951 - Holdem no limit (35/150/300) - 2016/03/31 18:45:51 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #3 is the button
+Seat 1: gravity13 (2435)
+Seat 2: kalidivina (5560)
+Seat 3: futer-84 (5275)
+Seat 4: michouel jeh (14935)
+Seat 5: billyboy76 (1500)
+Seat 6: MIOMCT (1295)
+Seat 7: sabre_laser (2325)
+Seat 8: ATBC (11237)
+*** ANTE/BLINDS ***
+michouel jeh posts ante 35
+billyboy76 posts ante 35
+gravity13 posts ante 35
+kalidivina posts ante 35
+futer-84 posts ante 35
+MIOMCT posts ante 35
+sabre_laser posts ante 35
+ATBC posts ante 35
+michouel jeh posts small blind 150
+billyboy76 posts big blind 300
+Dealt to sabre_laser [Kd 4h]
+*** PRE-FLOP *** 
+MIOMCT calls 300
+sabre_laser folds
+ATBC folds
+gravity13 folds
+kalidivina folds
+futer-84 raises 300 to 600
+michouel jeh folds
+billyboy76 calls 300
+MIOMCT raises 660 to 1260 and is all-in
+futer-84 raises 660 to 1920
+billyboy76 calls 865 and is all-in
+*** FLOP *** [Ac 2c 3s]
+*** TURN *** [Ac 2c 3s][6h]
+*** RIVER *** [Ac 2c 3s 6h][Td]
+*** SHOW DOWN ***
+MIOMCT shows [Ad Qs] (One pair : Aces)
+billyboy76 shows [2h 2d] (Trips of 2)
+futer-84 shows [9d As] (One pair : Aces)
+futer-84 collected 455 from side pot 1
+billyboy76 collected 4620 from main pot
+*** SUMMARY ***
+Total pot 5075 | No rake
+Board: [Ac 2c 3s 6h Td]
+Seat 3: futer-84 (button) showed [9d As] and won 455 with One pair : Aces
+Seat 5: billyboy76 (big blind) showed [2h 2d] and won 4620 with Trips of 2
+Seat 6: MIOMCT showed [Ad Qs] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #656269632734232778-20-1459450028 - Holdem no limit (35/150/300) - 2016/03/31 18:47:08 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #4 is the button
+Seat 1: gravity13 (2400)
+Seat 2: kalidivina (5525)
+Seat 3: futer-84 (3775)
+Seat 4: michouel jeh (14750)
+Seat 5: billyboy76 (4620)
+Seat 7: sabre_laser (2290)
+Seat 8: ATBC (11202)
+*** ANTE/BLINDS ***
+billyboy76 posts ante 35
+sabre_laser posts ante 35
+gravity13 posts ante 35
+kalidivina posts ante 35
+futer-84 posts ante 35
+michouel jeh posts ante 35
+ATBC posts ante 35
+billyboy76 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Kh 2s]
+*** PRE-FLOP *** 
+ATBC raises 435 to 735
+gravity13 folds
+kalidivina folds
+futer-84 folds
+michouel jeh folds
+billyboy76 folds
+sabre_laser folds
+ATBC collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Seat 8: ATBC won 1430
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #656269632734232778-21-1459450082 - Holdem no limit (35/150/300) - 2016/03/31 18:48:02 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #5 is the button
+Seat 1: gravity13 (2365)
+Seat 2: kalidivina (5490)
+Seat 3: futer-84 (3740)
+Seat 4: michouel jeh (14715)
+Seat 5: billyboy76 (4435)
+Seat 6: zenos08 (9530)
+Seat 7: sabre_laser (1955)
+Seat 8: ATBC (11862)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 35
+ATBC posts ante 35
+gravity13 posts ante 35
+kalidivina posts ante 35
+futer-84 posts ante 35
+michouel jeh posts ante 35
+billyboy76 posts ante 35
+sabre_laser posts small blind 150
+ATBC posts big blind 300
+Dealt to sabre_laser [7d Qh]
+*** PRE-FLOP *** 
+gravity13 folds
+kalidivina folds
+futer-84 calls 300
+michouel jeh calls 300
+billyboy76 folds
+sabre_laser calls 150
+ATBC checks
+*** FLOP *** [3s 6s Ad]
+sabre_laser checks
+ATBC checks
+futer-84 checks
+michouel jeh bets 723
+sabre_laser folds
+ATBC folds
+futer-84 raises 2682 to 3405 and is all-in
+michouel jeh folds
+futer-84 collected 5573 from pot
+*** SUMMARY ***
+Total pot 5573 | No rake
+Board: [3s 6s Ad]
+Seat 3: futer-84 won 5573
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #656269632734232778-22-1459450221 - Holdem no limit (40/200/400) - 2016/03/31 18:50:21 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #7 is the button
+Seat 1: gravity13 (2330)
+Seat 2: kalidivina (5455)
+Seat 3: futer-84 (5573)
+Seat 4: michouel jeh (13657)
+Seat 5: billyboy76 (4400)
+Seat 6: zenos08 (9530)
+Seat 7: sabre_laser (1620)
+Seat 8: ATBC (11527)
+*** ANTE/BLINDS ***
+ATBC posts ante 40
+gravity13 posts ante 40
+kalidivina posts ante 40
+futer-84 posts ante 40
+michouel jeh posts ante 40
+billyboy76 posts ante 40
+zenos08 posts ante 40
+sabre_laser posts ante 40
+ATBC posts small blind 200
+gravity13 posts big blind 400
+Dealt to sabre_laser [4h Qs]
+*** PRE-FLOP *** 
+kalidivina folds
+futer-84 calls 400
+michouel jeh folds
+billyboy76 folds
+zenos08 calls 400
+sabre_laser folds
+ATBC calls 200
+gravity13 folds
+*** FLOP *** [3c 7s 8h]
+ATBC checks
+futer-84 bets 800
+zenos08 folds
+ATBC folds
+futer-84 collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [3c 7s 8h]
+Seat 3: futer-84 won 2720
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #656269632734232778-23-1459450267 - Holdem no limit (40/200/400) - 2016/03/31 18:51:07 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #8 is the button
+Seat 1: gravity13 (1890)
+Seat 2: kalidivina (5415)
+Seat 3: futer-84 (7053)
+Seat 4: michouel jeh (13617)
+Seat 5: billyboy76 (4360)
+Seat 6: zenos08 (9090)
+Seat 7: sabre_laser (1580)
+Seat 8: ATBC (11087)
+*** ANTE/BLINDS ***
+gravity13 posts ante 40
+kalidivina posts ante 40
+futer-84 posts ante 40
+michouel jeh posts ante 40
+billyboy76 posts ante 40
+zenos08 posts ante 40
+sabre_laser posts ante 40
+ATBC posts ante 40
+gravity13 posts small blind 200
+kalidivina posts big blind 400
+Dealt to sabre_laser [9c 5c]
+*** PRE-FLOP *** 
+futer-84 folds
+michouel jeh folds
+billyboy76 folds
+zenos08 calls 400
+sabre_laser folds
+ATBC folds
+gravity13 folds
+kalidivina raises 4975 to 5375 and is all-in
+zenos08 folds
+kalidivina collected 6295 from pot
+*** SUMMARY ***
+Total pot 6295 | No rake
+Seat 2: kalidivina (big blind) won 6295
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #656269632734232778-24-1459450342 - Holdem no limit (50/250/500) - 2016/03/31 18:52:22 UTC
+Table: 'Freeroll(152799681)#0201' 8-max (real money) Seat #1 is the button
+Seat 1: gravity13 (1650)
+Seat 2: kalidivina (6295)
+Seat 3: futer-84 (7013)
+Seat 4: michouel jeh (13577)
+Seat 5: billyboy76 (4320)
+Seat 6: zenos08 (8650)
+Seat 7: sabre_laser (1540)
+Seat 8: ATBC (11047)
+*** ANTE/BLINDS ***
+kalidivina posts ante 50
+futer-84 posts ante 50
+gravity13 posts ante 50
+michouel jeh posts ante 50
+billyboy76 posts ante 50
+zenos08 posts ante 50
+sabre_laser posts ante 50
+ATBC posts ante 50
+kalidivina posts small blind 250
+futer-84 posts big blind 500
+Dealt to sabre_laser [7s Kd]
+*** PRE-FLOP *** 
+michouel jeh folds
+billyboy76 folds
+zenos08 folds
+sabre_laser raises 990 to 1490 and is all-in
+ATBC folds
+gravity13 folds
+kalidivina raises 990 to 2480
+futer-84 folds
+*** FLOP *** [Ts Tc 3h]
+*** TURN *** [Ts Tc 3h][Ah]
+*** RIVER *** [Ts Tc 3h Ah][Jd]
+*** SHOW DOWN ***
+sabre_laser shows [7s Kd] (One pair : Tens)
+kalidivina shows [Js Ad] (Two pairs : Aces and Jacks)
+kalidivina collected 4870 from pot
+*** SUMMARY ***
+Total pot 4870 | No rake
+Board: [Ts Tc 3h Ah Jd]
+Seat 2: kalidivina (small blind) showed [Js Ad] and won 4870 with Two pairs : Aces and Jacks
+Seat 7: sabre_laser showed [7s Kd] and lost with One pair : Tens
+
+

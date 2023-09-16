@@ -1,0 +1,259 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #554583507452559361-1-1441030801 - Holdem no limit (10/20) - 2015/08/31 14:20:01 UTC
+Table: 'Starting Block Winamax Poker Tour(129124035)#0' 10-max (real money) Seat #10 is the button
+Seat 1: phig (1500)
+Seat 2: seb1406 (1500)
+Seat 3: Mikepierce69 (1500)
+Seat 4: kesty14 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: ol6980 (1500)
+Seat 7: HARIBO974 (1500)
+Seat 8: ric 64 (1500)
+Seat 9: ludo 62 (1500)
+Seat 10: vikase3 (1500)
+*** ANTE/BLINDS ***
+phig posts small blind 10
+seb1406 posts big blind 20
+Dealt to sabre_laser [Th 9d]
+*** PRE-FLOP *** 
+Mikepierce69 folds
+kesty14 calls 20
+sabre_laser folds
+ol6980 calls 20
+HARIBO974 calls 20
+ric 64 folds
+ludo 62 folds
+vikase3 calls 20
+phig calls 10
+seb1406 checks
+*** FLOP *** [4h 7d 8d]
+phig bets 20
+seb1406 raises 70 to 90
+kesty14 folds
+ol6980 calls 90
+HARIBO974 calls 90
+vikase3 calls 90
+phig calls 70
+*** TURN *** [4h 7d 8d][8h]
+phig checks
+seb1406 checks
+ol6980 checks
+HARIBO974 bets 20
+vikase3 raises 1370 to 1390 and is all-in
+phig folds
+seb1406 calls 1390 and is all-in
+ol6980 folds
+HARIBO974 folds
+*** RIVER *** [4h 7d 8d 8h][Kh]
+*** SHOW DOWN ***
+vikase3 shows [Ad 8c] (Trips of 8)
+seb1406 shows [8s 4c] (Full of 8 and 4)
+seb1406 collected 3370 from pot
+*** SUMMARY ***
+Total pot 3370 | No rake
+Board: [4h 7d 8d 8h Kh]
+Seat 2: seb1406 (big blind) showed [8s 4c] and won 3370 with Full of 8 and 4
+Seat 10: vikase3 (button) showed [Ad 8c] and lost with Trips of 8
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #554583507452559361-2-1441030922 - Holdem no limit (10/20) - 2015/08/31 14:22:02 UTC
+Table: 'Starting Block Winamax Poker Tour(129124035)#0' 10-max (real money) Seat #1 is the button
+Seat 1: phig (1390)
+Seat 2: seb1406 (3370)
+Seat 3: Mikepierce69 (1500)
+Seat 4: kesty14 (1480)
+Seat 5: sabre_laser (1500)
+Seat 6: ol6980 (1390)
+Seat 7: HARIBO974 (1370)
+Seat 8: ric 64 (1500)
+Seat 9: ludo 62 (1500)
+*** ANTE/BLINDS ***
+seb1406 posts small blind 10
+Mikepierce69 posts big blind 20
+Dealt to sabre_laser [Kd 7c]
+*** PRE-FLOP *** 
+kesty14 calls 20
+sabre_laser folds
+ol6980 calls 20
+HARIBO974 folds
+ric 64 calls 20
+ludo 62 folds
+phig folds
+seb1406 calls 10
+Mikepierce69 checks
+*** FLOP *** [Kh Qh 7d]
+seb1406 checks
+Mikepierce69 checks
+kesty14 checks
+ol6980 checks
+ric 64 bets 110
+seb1406 folds
+Mikepierce69 folds
+kesty14 raises 1350 to 1460 and is all-in
+ol6980 folds
+ric 64 folds
+kesty14 collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Board: [Kh Qh 7d]
+Seat 4: kesty14 won 1670
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #554583507452559361-3-1441031036 - Holdem no limit (15/30) - 2015/08/31 14:23:56 UTC
+Table: 'Starting Block Winamax Poker Tour(129124035)#0' 10-max (real money) Seat #2 is the button
+Seat 1: phig (1390)
+Seat 2: seb1406 (3350)
+Seat 3: Mikepierce69 (1480)
+Seat 4: kesty14 (1670)
+Seat 5: sabre_laser (1500)
+Seat 6: ol6980 (1370)
+Seat 7: HARIBO974 (1370)
+Seat 8: ric 64 (1370)
+Seat 9: ludo 62 (1500)
+*** ANTE/BLINDS ***
+Mikepierce69 posts small blind 15
+kesty14 posts big blind 30
+Dealt to sabre_laser [4d 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+ol6980 raises 1340 to 1370 and is all-in
+HARIBO974 folds
+ric 64 folds
+ludo 62 folds
+phig folds
+seb1406 folds
+Mikepierce69 folds
+kesty14 folds
+ol6980 collected 1415 from pot
+*** SUMMARY ***
+Total pot 1415 | No rake
+Seat 6: ol6980 won 1415
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #554583507452559361-4-1441031139 - Holdem no limit (15/30) - 2015/08/31 14:25:39 UTC
+Table: 'Starting Block Winamax Poker Tour(129124035)#0' 10-max (real money) Seat #3 is the button
+Seat 1: phig (1390)
+Seat 2: seb1406 (3350)
+Seat 3: Mikepierce69 (1465)
+Seat 4: kesty14 (1640)
+Seat 5: sabre_laser (1500)
+Seat 6: ol6980 (1415)
+Seat 7: HARIBO974 (1370)
+Seat 8: ric 64 (1370)
+Seat 9: ludo 62 (1500)
+*** ANTE/BLINDS ***
+kesty14 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Jc 8h]
+*** PRE-FLOP *** 
+ol6980 calls 30
+HARIBO974 calls 30
+ric 64 folds
+ludo 62 calls 30
+phig folds
+seb1406 raises 45 to 75
+Mikepierce69 folds
+kesty14 calls 60
+sabre_laser calls 45
+ol6980 calls 45
+HARIBO974 folds
+ludo 62 calls 45
+*** FLOP *** [Ac Js 4s]
+kesty14 bets 405
+sabre_laser folds
+ol6980 folds
+ludo 62 calls 405
+seb1406 folds
+*** TURN *** [Ac Js 4s][2c]
+kesty14 bets 1160 and is all-in
+ludo 62 calls 1020 and is all-in
+*** RIVER *** [Ac Js 4s 2c][6c]
+*** SHOW DOWN ***
+ludo 62 shows [Kd Qd] (High card : Ace)
+kesty14 shows [7s As] (One pair : Aces)
+kesty14 collected 3395 from pot
+*** SUMMARY ***
+Total pot 3395 | No rake
+Board: [Ac Js 4s 2c 6c]
+Seat 4: kesty14 (small blind) showed [7s As] and won 3395 with One pair : Aces
+Seat 9: ludo 62 showed [Kd Qd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 2 - HandId: #554583507452559361-5-1441031279 - Holdem no limit (20/40) - 2015/08/31 14:27:59 UTC
+Table: 'Starting Block Winamax Poker Tour(129124035)#0' 10-max (real money) Seat #4 is the button
+Seat 1: phig (1390)
+Seat 2: seb1406 (3275)
+Seat 3: Mikepierce69 (1465)
+Seat 4: kesty14 (3395)
+Seat 5: sabre_laser (1425)
+Seat 6: ol6980 (1340)
+Seat 7: HARIBO974 (1340)
+Seat 8: ric 64 (1370)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+ol6980 posts big blind 40
+Dealt to sabre_laser [6c Ts]
+*** PRE-FLOP *** 
+HARIBO974 folds
+ric 64 raises 40 to 80
+phig folds
+seb1406 folds
+Mikepierce69 folds
+kesty14 folds
+sabre_laser folds
+ol6980 calls 40
+*** FLOP *** [Jd 8s 7c]
+ol6980 checks
+ric 64 bets 100
+ol6980 folds
+ric 64 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Jd 8s 7c]
+Seat 8: ric 64 won 280
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #554583507452559361-6-1441031382 - Holdem no limit (30/60) - 2015/08/31 14:29:42 UTC
+Table: 'Starting Block Winamax Poker Tour(129124035)#0' 10-max (real money) Seat #5 is the button
+Seat 1: phig (1390)
+Seat 2: seb1406 (3275)
+Seat 3: Mikepierce69 (1465)
+Seat 4: kesty14 (3395)
+Seat 5: sabre_laser (1405)
+Seat 6: ol6980 (1260)
+Seat 7: HARIBO974 (1340)
+Seat 8: ric 64 (1470)
+*** ANTE/BLINDS ***
+ol6980 posts small blind 30
+HARIBO974 posts big blind 60
+Dealt to sabre_laser [Ah 8h]
+*** PRE-FLOP *** 
+ric 64 folds
+phig calls 60
+seb1406 calls 60
+Mikepierce69 folds
+kesty14 calls 60
+sabre_laser raises 1345 to 1405 and is all-in
+ol6980 calls 1230 and is all-in
+HARIBO974 folds
+phig calls 1330 and is all-in
+seb1406 folds
+kesty14 raises 1990 to 3395 and is all-in
+*** FLOP *** [2c 4s 5d]
+*** TURN *** [2c 4s 5d][6h]
+*** RIVER *** [2c 4s 5d 6h][5s]
+*** SHOW DOWN ***
+phig shows [Js Td] (One pair : 5)
+sabre_laser shows [Ah 8h] (One pair : 5)
+ol6980 shows [7c 7s] (Two pairs : 7 and 5)
+kesty14 shows [Kc As] (One pair : 5)
+kesty14 collected 2410 from side pot 1
+ol6980 collected 5160 from main pot
+*** SUMMARY ***
+Total pot 7570 | No rake
+Board: [2c 4s 5d 6h 5s]
+Seat 1: phig showed [Js Td] and lost with One pair : 5
+Seat 4: kesty14 showed [Kc As] and won 2410 with One pair : 5
+Seat 5: sabre_laser (button) showed [Ah 8h] and lost with One pair : 5
+Seat 6: ol6980 (small blind) showed [7c 7s] and won 5160 with Two pairs : 7 and 5
+
+

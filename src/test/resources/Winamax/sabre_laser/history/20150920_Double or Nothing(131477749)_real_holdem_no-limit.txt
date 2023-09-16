@@ -1,0 +1,1289 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564692632106696705-1-1442784809 - Holdem no limit (10/20) - 2015/09/20 21:33:29 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Victor 75 (1500)
+Seat 2: KRitoViaC (1500)
+Seat 3: G_ZU (1500)
+Seat 4: Hak_Poker (1500)
+Seat 5: BERPAT54 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: olive72 (1500)
+Seat 8: SpewItRight (1500)
+Seat 9: raidden02 (1500)
+Seat 10: Dullvllav (1500)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 10
+Dullvllav posts big blind 20
+Dealt to sabre_laser [9s 6c]
+*** PRE-FLOP *** 
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker calls 20
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+SpewItRight folds
+raidden02 folds
+Dullvllav checks
+*** FLOP *** [Jc 5c 5d]
+Dullvllav checks
+Hak_Poker checks
+*** TURN *** [Jc 5c 5d][9h]
+Dullvllav checks
+Hak_Poker checks
+*** RIVER *** [Jc 5c 5d 9h][7c]
+Dullvllav checks
+Hak_Poker checks
+*** SHOW DOWN ***
+Hak_Poker shows [3s As] (One pair : 5)
+Dullvllav shows [6s 7h] (Two pairs : 7 and 5)
+Dullvllav collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Jc 5c 5d 9h 7c]
+Seat 4: Hak_Poker showed [3s As] and lost with One pair : 5
+Seat 10: Dullvllav (big blind) showed [6s 7h] and won 50 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564692632106696705-2-1442784914 - Holdem no limit (10/20) - 2015/09/20 21:35:14 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Victor 75 (1500)
+Seat 2: KRitoViaC (1500)
+Seat 3: G_ZU (1500)
+Seat 4: Hak_Poker (1480)
+Seat 5: BERPAT54 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: olive72 (1500)
+Seat 8: SpewItRight (1500)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1530)
+*** ANTE/BLINDS ***
+Dullvllav posts small blind 10
+Victor 75 posts big blind 20
+Dealt to sabre_laser [7h Qd]
+*** PRE-FLOP *** 
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+SpewItRight folds
+raidden02 folds
+Dullvllav folds
+Victor 75 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Victor 75 (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564692632106696705-3-1442784967 - Holdem no limit (10/20) - 2015/09/20 21:36:07 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Victor 75 (1510)
+Seat 2: KRitoViaC (1500)
+Seat 3: G_ZU (1500)
+Seat 4: Hak_Poker (1480)
+Seat 5: BERPAT54 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: olive72 (1500)
+Seat 8: SpewItRight (1500)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+Victor 75 posts small blind 10
+KRitoViaC posts big blind 20
+Dealt to sabre_laser [Tc Kh]
+*** PRE-FLOP *** 
+G_ZU folds
+Hak_Poker folds
+BERPAT54 calls 20
+sabre_laser folds
+olive72 folds
+SpewItRight calls 20
+raidden02 folds
+Dullvllav folds
+Victor 75 calls 10
+KRitoViaC checks
+*** FLOP *** [7c Jc 2s]
+Victor 75 checks
+KRitoViaC checks
+BERPAT54 bets 250
+SpewItRight raises 1230 to 1480 and is all-in
+Victor 75 folds
+KRitoViaC folds
+BERPAT54 calls 1230 and is all-in
+*** TURN *** [7c Jc 2s][6s]
+*** RIVER *** [7c Jc 2s 6s][3s]
+*** SHOW DOWN ***
+SpewItRight shows [Qd Qc] (One pair : Queens)
+BERPAT54 shows [Js 6c] (Two pairs : Jacks and 6)
+BERPAT54 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [7c Jc 2s 6s 3s]
+Seat 5: BERPAT54 showed [Js 6c] and won 3040 with Two pairs : Jacks and 6
+Seat 8: SpewItRight showed [Qd Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564692632106696705-4-1442785092 - Holdem no limit (15/30) - 2015/09/20 21:38:12 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Victor 75 (1490)
+Seat 2: KRitoViaC (1480)
+Seat 3: G_ZU (1500)
+Seat 4: Hak_Poker (1480)
+Seat 5: BERPAT54 (3040)
+Seat 6: sabre_laser (1500)
+Seat 7: olive72 (1500)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+KRitoViaC posts small blind 15
+G_ZU posts big blind 30
+Dealt to sabre_laser [5s Tc]
+*** PRE-FLOP *** 
+Hak_Poker folds
+BERPAT54 raises 120 to 150
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 calls 150
+KRitoViaC folds
+G_ZU folds
+*** FLOP *** [Qc 7c Jh]
+BERPAT54 bets 420
+Victor 75 folds
+BERPAT54 shows [Ah Qs] (One pair : Queens)
+BERPAT54 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Board: [Qc 7c Jh]
+Seat 5: BERPAT54 showed [Ah Qs] and won 765 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564692632106696705-5-1442785161 - Holdem no limit (15/30) - 2015/09/20 21:39:21 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Victor 75 (1340)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1470)
+Seat 4: Hak_Poker (1480)
+Seat 5: BERPAT54 (3235)
+Seat 6: sabre_laser (1500)
+Seat 7: olive72 (1500)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 15
+Hak_Poker posts big blind 30
+Dealt to sabre_laser [2d Kc]
+*** PRE-FLOP *** 
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 calls 30
+KRitoViaC folds
+G_ZU folds
+Hak_Poker checks
+*** FLOP *** [8s 4h 7s]
+Hak_Poker checks
+Victor 75 checks
+*** TURN *** [8s 4h 7s][Kh]
+Hak_Poker checks
+Victor 75 checks
+*** RIVER *** [8s 4h 7s Kh][Js]
+Hak_Poker checks
+Victor 75 checks
+*** SHOW DOWN ***
+Hak_Poker shows [Tc As] (High card : Ace)
+Victor 75 shows [Qh Jd] (One pair : Jacks)
+Victor 75 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [8s 4h 7s Kh Js]
+Seat 1: Victor 75 showed [Qh Jd] and won 75 with One pair : Jacks
+Seat 4: Hak_Poker (big blind) showed [Tc As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564692632106696705-6-1442785270 - Holdem no limit (20/40) - 2015/09/20 21:41:10 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Victor 75 (1385)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1450)
+Seat 5: BERPAT54 (3235)
+Seat 6: sabre_laser (1500)
+Seat 7: olive72 (1500)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+Hak_Poker posts small blind 20
+BERPAT54 posts big blind 40
+Dealt to sabre_laser [4c 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker raises 120 to 160
+BERPAT54 folds
+Hak_Poker collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 4: Hak_Poker (small blind) won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564692632106696705-7-1442785319 - Holdem no limit (20/40) - 2015/09/20 21:41:59 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Victor 75 (1385)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1490)
+Seat 5: BERPAT54 (3195)
+Seat 6: sabre_laser (1500)
+Seat 7: olive72 (1500)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+BERPAT54 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [9s 6h]
+*** PRE-FLOP *** 
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 calls 20
+sabre_laser checks
+*** FLOP *** [Js 3s 5d]
+BERPAT54 checks
+sabre_laser checks
+*** TURN *** [Js 3s 5d][Td]
+BERPAT54 bets 40
+sabre_laser folds
+BERPAT54 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Js 3s 5d Td]
+Seat 5: BERPAT54 (small blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564692632106696705-8-1442785386 - Holdem no limit (30/60) - 2015/09/20 21:43:06 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Victor 75 (1385)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1490)
+Seat 5: BERPAT54 (3235)
+Seat 6: sabre_laser (1460)
+Seat 7: olive72 (1500)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+olive72 posts big blind 60
+Dealt to sabre_laser [2c As]
+*** PRE-FLOP *** 
+raidden02 folds
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser calls 30
+olive72 checks
+*** FLOP *** [Td 6c 8c]
+sabre_laser checks
+olive72 checks
+*** TURN *** [Td 6c 8c][4h]
+sabre_laser bets 60
+olive72 calls 60
+*** RIVER *** [Td 6c 8c 4h][Kd]
+sabre_laser checks
+olive72 checks
+*** SHOW DOWN ***
+sabre_laser shows [2c As] (High card : Ace)
+olive72 shows [4c 7s] (One pair : 4)
+olive72 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Td 6c 8c 4h Kd]
+Seat 6: sabre_laser (small blind) showed [2c As] and lost with High card : Ace
+Seat 7: olive72 (big blind) showed [4c 7s] and won 240 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564692632106696705-9-1442785476 - Holdem no limit (30/60) - 2015/09/20 21:44:36 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Victor 75 (1385)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1490)
+Seat 5: BERPAT54 (3235)
+Seat 6: sabre_laser (1340)
+Seat 7: olive72 (1620)
+Seat 9: raidden02 (1490)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+olive72 posts small blind 30
+raidden02 posts big blind 60
+Dealt to sabre_laser [Js 3s]
+*** PRE-FLOP *** 
+Dullvllav folds
+Victor 75 calls 60
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 calls 60
+sabre_laser folds
+olive72 folds
+raidden02 checks
+*** FLOP *** [3d 2h Tc]
+raidden02 checks
+Victor 75 checks
+BERPAT54 bets 210
+raidden02 folds
+Victor 75 folds
+BERPAT54 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [3d 2h Tc]
+Seat 5: BERPAT54 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564692632106696705-10-1442785527 - Holdem no limit (40/80) - 2015/09/20 21:45:27 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Victor 75 (1325)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1490)
+Seat 5: BERPAT54 (3385)
+Seat 6: sabre_laser (1340)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1430)
+Seat 10: Dullvllav (1520)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 40
+Dullvllav posts big blind 80
+Dealt to sabre_laser [Jh Ah]
+*** PRE-FLOP *** 
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser raises 120 to 200
+olive72 folds
+raidden02 folds
+Dullvllav folds
+sabre_laser collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 6: sabre_laser won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564692632106696705-11-1442785570 - Holdem no limit (40/80) - 2015/09/20 21:46:10 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Victor 75 (1325)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1490)
+Seat 5: BERPAT54 (3385)
+Seat 6: sabre_laser (1460)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1440)
+*** ANTE/BLINDS ***
+Dullvllav posts small blind 40
+Victor 75 posts big blind 80
+Dealt to sabre_laser [6d 4s]
+*** PRE-FLOP *** 
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Victor 75 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564692632106696705-12-1442785625 - Holdem no limit (40/80) - 2015/09/20 21:47:05 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Victor 75 (1365)
+Seat 2: KRitoViaC (1465)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1490)
+Seat 5: BERPAT54 (3385)
+Seat 6: sabre_laser (1460)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1400)
+*** ANTE/BLINDS ***
+Victor 75 posts small blind 40
+KRitoViaC posts big blind 80
+Dealt to sabre_laser [Ah 2c]
+*** PRE-FLOP *** 
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 calls 40
+KRitoViaC checks
+*** FLOP *** [9h Kd 6c]
+Victor 75 checks
+KRitoViaC checks
+*** TURN *** [9h Kd 6c][Td]
+Victor 75 checks
+KRitoViaC checks
+*** RIVER *** [9h Kd 6c Td][Qh]
+Victor 75 checks
+KRitoViaC checks
+*** SHOW DOWN ***
+KRitoViaC shows [4d 8h] (High card : King)
+Victor 75 shows [Jh 3c] (Straight King high)
+Victor 75 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [9h Kd 6c Td Qh]
+Seat 1: Victor 75 (small blind) showed [Jh 3c] and won 160 with Straight King high
+Seat 2: KRitoViaC (big blind) showed [4d 8h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564692632106696705-13-1442785679 - Holdem no limit (40/80) - 2015/09/20 21:47:59 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Victor 75 (1445)
+Seat 2: KRitoViaC (1385)
+Seat 3: G_ZU (1455)
+Seat 4: Hak_Poker (1490)
+Seat 5: BERPAT54 (3385)
+Seat 6: sabre_laser (1460)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1400)
+*** ANTE/BLINDS ***
+KRitoViaC posts small blind 40
+G_ZU posts big blind 80
+Dealt to sabre_laser [Qh 7h]
+*** PRE-FLOP *** 
+Hak_Poker raises 80 to 160
+BERPAT54 calls 160
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+*** FLOP *** [Qd 8h Ad]
+Hak_Poker bets 220
+BERPAT54 folds
+Hak_Poker collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Qd 8h Ad]
+Seat 4: Hak_Poker won 660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564692632106696705-14-1442785737 - Holdem no limit (60/120) - 2015/09/20 21:48:57 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Victor 75 (1445)
+Seat 2: KRitoViaC (1345)
+Seat 3: G_ZU (1375)
+Seat 4: Hak_Poker (1770)
+Seat 5: BERPAT54 (3225)
+Seat 6: sabre_laser (1460)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1400)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 60
+Hak_Poker posts big blind 120
+Dealt to sabre_laser [Ad 6d]
+*** PRE-FLOP *** 
+BERPAT54 raises 120 to 240
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: BERPAT54 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564692632106696705-15-1442785775 - Holdem no limit (60/120) - 2015/09/20 21:49:35 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Victor 75 (1445)
+Seat 2: KRitoViaC (1345)
+Seat 3: G_ZU (1315)
+Seat 4: Hak_Poker (1650)
+Seat 5: BERPAT54 (3405)
+Seat 6: sabre_laser (1460)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1400)
+*** ANTE/BLINDS ***
+Hak_Poker posts small blind 60
+BERPAT54 posts big blind 120
+Dealt to sabre_laser [9h Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU raises 1195 to 1315 and is all-in
+Hak_Poker folds
+BERPAT54 calls 1195
+*** FLOP *** [Qd 4d 6c]
+*** TURN *** [Qd 4d 6c][8c]
+*** RIVER *** [Qd 4d 6c 8c][Ah]
+*** SHOW DOWN ***
+BERPAT54 shows [Qh Ts] (One pair : Queens)
+G_ZU shows [Ac Qc] (Two pairs : Aces and Queens)
+G_ZU collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Board: [Qd 4d 6c 8c Ah]
+Seat 3: G_ZU (button) showed [Ac Qc] and won 2690 with Two pairs : Aces and Queens
+Seat 5: BERPAT54 (big blind) showed [Qh Ts] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564692632106696705-16-1442785838 - Holdem no limit (60/120) - 2015/09/20 21:50:38 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Victor 75 (1445)
+Seat 2: KRitoViaC (1345)
+Seat 3: G_ZU (2690)
+Seat 4: Hak_Poker (1590)
+Seat 5: BERPAT54 (2090)
+Seat 6: sabre_laser (1460)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1400)
+*** ANTE/BLINDS ***
+BERPAT54 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [5h 8c]
+*** PRE-FLOP *** 
+olive72 folds
+raidden02 folds
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 calls 60
+sabre_laser checks
+*** FLOP *** [Ac 2c 5s]
+BERPAT54 bets 120
+sabre_laser calls 120
+*** TURN *** [Ac 2c 5s][8h]
+BERPAT54 bets 120
+sabre_laser raises 480 to 600
+BERPAT54 folds
+sabre_laser collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ac 2c 5s 8h]
+Seat 6: sabre_laser (big blind) won 1200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564692632106696705-17-1442785929 - Holdem no limit (80/160) - 2015/09/20 21:52:09 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Victor 75 (1445)
+Seat 2: KRitoViaC (1345)
+Seat 3: G_ZU (2690)
+Seat 4: Hak_Poker (1590)
+Seat 5: BERPAT54 (1730)
+Seat 6: sabre_laser (1820)
+Seat 7: olive72 (1590)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1400)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+olive72 posts big blind 160
+Dealt to sabre_laser [Qs Tc]
+*** PRE-FLOP *** 
+raidden02 folds
+Dullvllav folds
+Victor 75 calls 160
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser calls 80
+olive72 checks
+*** FLOP *** [Jh 2c 4d]
+sabre_laser checks
+olive72 checks
+Victor 75 checks
+*** TURN *** [Jh 2c 4d][2h]
+sabre_laser checks
+olive72 checks
+Victor 75 bets 160
+sabre_laser folds
+olive72 folds
+Victor 75 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Jh 2c 4d 2h]
+Seat 1: Victor 75 won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564692632106696705-18-1442786113 - Holdem no limit (10/100/200) - 2015/09/20 21:55:13 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Victor 75 (1765)
+Seat 2: KRitoViaC (1345)
+Seat 3: G_ZU (2690)
+Seat 4: Hak_Poker (1590)
+Seat 5: BERPAT54 (1730)
+Seat 6: sabre_laser (1660)
+Seat 7: olive72 (1430)
+Seat 9: raidden02 (1390)
+Seat 10: Dullvllav (1400)
+*** ANTE/BLINDS ***
+olive72 posts ante 10
+raidden02 posts ante 10
+Victor 75 posts ante 10
+KRitoViaC posts ante 10
+G_ZU posts ante 10
+Hak_Poker posts ante 10
+BERPAT54 posts ante 10
+sabre_laser posts ante 10
+Dullvllav posts ante 10
+olive72 posts small blind 100
+raidden02 posts big blind 200
+Dealt to sabre_laser [6d 8h]
+*** PRE-FLOP *** 
+Dullvllav folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+raidden02 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 9: raidden02 (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564692632106696705-19-1442786138 - Holdem no limit (10/100/200) - 2015/09/20 21:55:38 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Victor 75 (1755)
+Seat 2: KRitoViaC (1335)
+Seat 3: G_ZU (2680)
+Seat 4: Hak_Poker (1580)
+Seat 5: BERPAT54 (1720)
+Seat 6: sabre_laser (1650)
+Seat 7: olive72 (1320)
+Seat 9: raidden02 (1570)
+Seat 10: Dullvllav (1390)
+*** ANTE/BLINDS ***
+raidden02 posts ante 10
+Dullvllav posts ante 10
+Victor 75 posts ante 10
+KRitoViaC posts ante 10
+G_ZU posts ante 10
+Hak_Poker posts ante 10
+BERPAT54 posts ante 10
+sabre_laser posts ante 10
+olive72 posts ante 10
+raidden02 posts small blind 100
+Dullvllav posts big blind 200
+Dealt to sabre_laser [Qd 9c]
+*** PRE-FLOP *** 
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 raises 400 to 600
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Dullvllav folds
+BERPAT54 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 5: BERPAT54 won 990
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564692632106696705-20-1442786181 - Holdem no limit (10/100/200) - 2015/09/20 21:56:21 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Victor 75 (1745)
+Seat 2: KRitoViaC (1325)
+Seat 3: G_ZU (2670)
+Seat 4: Hak_Poker (1570)
+Seat 5: BERPAT54 (2100)
+Seat 6: sabre_laser (1640)
+Seat 7: olive72 (1310)
+Seat 9: raidden02 (1460)
+Seat 10: Dullvllav (1180)
+*** ANTE/BLINDS ***
+Dullvllav posts ante 10
+Victor 75 posts ante 10
+KRitoViaC posts ante 10
+G_ZU posts ante 10
+Hak_Poker posts ante 10
+BERPAT54 posts ante 10
+sabre_laser posts ante 10
+olive72 posts ante 10
+raidden02 posts ante 10
+Dullvllav posts small blind 100
+Victor 75 posts big blind 200
+Dealt to sabre_laser [7d 8h]
+*** PRE-FLOP *** 
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser folds
+olive72 calls 200
+raidden02 folds
+Dullvllav raises 970 to 1170 and is all-in
+Victor 75 folds
+olive72 calls 970
+*** FLOP *** [7h Qd Tc]
+*** TURN *** [7h Qd Tc][5s]
+*** RIVER *** [7h Qd Tc 5s][3c]
+*** SHOW DOWN ***
+Dullvllav shows [2s 2d] (One pair : 2)
+olive72 shows [As Qc] (One pair : Queens)
+olive72 collected 2630 from pot
+*** SUMMARY ***
+Total pot 2630 | No rake
+Board: [7h Qd Tc 5s 3c]
+Seat 7: olive72 showed [As Qc] and won 2630 with One pair : Queens
+Seat 10: Dullvllav (small blind) showed [2s 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564692632106696705-21-1442786220 - Holdem no limit (10/100/200) - 2015/09/20 21:57:00 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Victor 75 (1535)
+Seat 2: KRitoViaC (1315)
+Seat 3: G_ZU (2660)
+Seat 4: Hak_Poker (1560)
+Seat 5: BERPAT54 (2090)
+Seat 6: sabre_laser (1630)
+Seat 7: olive72 (2760)
+Seat 9: raidden02 (1450)
+*** ANTE/BLINDS ***
+Victor 75 posts ante 10
+KRitoViaC posts ante 10
+G_ZU posts ante 10
+Hak_Poker posts ante 10
+BERPAT54 posts ante 10
+sabre_laser posts ante 10
+olive72 posts ante 10
+raidden02 posts ante 10
+Victor 75 posts small blind 100
+KRitoViaC posts big blind 200
+Dealt to sabre_laser [2c Td]
+*** PRE-FLOP *** 
+G_ZU folds
+Hak_Poker raises 1350 to 1550 and is all-in
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Victor 75 folds
+KRitoViaC folds
+Hak_Poker collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Seat 4: Hak_Poker won 1930
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564692632106696705-22-1442786245 - Holdem no limit (20/150/300) - 2015/09/20 21:57:25 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Victor 75 (1425)
+Seat 2: KRitoViaC (1105)
+Seat 3: G_ZU (2650)
+Seat 4: Hak_Poker (1930)
+Seat 5: BERPAT54 (2080)
+Seat 6: sabre_laser (1620)
+Seat 7: olive72 (2750)
+Seat 9: raidden02 (1440)
+*** ANTE/BLINDS ***
+KRitoViaC posts ante 20
+G_ZU posts ante 20
+Victor 75 posts ante 20
+Hak_Poker posts ante 20
+BERPAT54 posts ante 20
+sabre_laser posts ante 20
+olive72 posts ante 20
+raidden02 posts ante 20
+KRitoViaC posts small blind 150
+G_ZU posts big blind 300
+Dealt to sabre_laser [6h 7h]
+*** PRE-FLOP *** 
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser folds
+olive72 calls 300
+raidden02 folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU checks
+*** FLOP *** [6c 5h 9h]
+G_ZU checks
+olive72 bets 300
+G_ZU folds
+olive72 collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | No rake
+Board: [6c 5h 9h]
+Seat 7: olive72 won 1210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564692632106696705-23-1442786308 - Holdem no limit (20/150/300) - 2015/09/20 21:58:28 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Victor 75 (1405)
+Seat 2: KRitoViaC (935)
+Seat 3: G_ZU (2330)
+Seat 4: Hak_Poker (1910)
+Seat 5: BERPAT54 (2060)
+Seat 6: sabre_laser (1600)
+Seat 7: olive72 (3340)
+Seat 9: raidden02 (1420)
+*** ANTE/BLINDS ***
+G_ZU posts ante 20
+Hak_Poker posts ante 20
+Victor 75 posts ante 20
+KRitoViaC posts ante 20
+BERPAT54 posts ante 20
+sabre_laser posts ante 20
+olive72 posts ante 20
+raidden02 posts ante 20
+G_ZU posts small blind 150
+Hak_Poker posts big blind 300
+Dealt to sabre_laser [7h 9d]
+*** PRE-FLOP *** 
+BERPAT54 raises 1740 to 2040 and is all-in
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Victor 75 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 shows [Ac Td] (High card : Ace)
+BERPAT54 collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | No rake
+Seat 5: BERPAT54 showed [Ac Td] and won 2650 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564692632106696705-24-1442786332 - Holdem no limit (20/150/300) - 2015/09/20 21:58:52 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Victor 75 (1385)
+Seat 2: KRitoViaC (915)
+Seat 3: G_ZU (2160)
+Seat 4: Hak_Poker (1590)
+Seat 5: BERPAT54 (2650)
+Seat 6: sabre_laser (1580)
+Seat 7: olive72 (3320)
+Seat 9: raidden02 (1400)
+*** ANTE/BLINDS ***
+Hak_Poker posts ante 20
+BERPAT54 posts ante 20
+Victor 75 posts ante 20
+KRitoViaC posts ante 20
+G_ZU posts ante 20
+sabre_laser posts ante 20
+olive72 posts ante 20
+raidden02 posts ante 20
+Hak_Poker posts small blind 150
+BERPAT54 posts big blind 300
+Dealt to sabre_laser [7c Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+olive72 folds
+raidden02 folds
+Victor 75 folds
+KRitoViaC raises 595 to 895 and is all-in
+G_ZU folds
+Hak_Poker folds
+BERPAT54 calls 595
+*** FLOP *** [8h 8d As]
+*** TURN *** [8h 8d As][9d]
+*** RIVER *** [8h 8d As 9d][2d]
+*** SHOW DOWN ***
+BERPAT54 shows [7h 6s] (One pair : 8)
+KRitoViaC shows [Th Jh] (One pair : 8)
+KRitoViaC collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [8h 8d As 9d 2d]
+Seat 2: KRitoViaC showed [Th Jh] and won 2100 with One pair : 8
+Seat 5: BERPAT54 (big blind) showed [7h 6s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564692632106696705-25-1442786399 - Holdem no limit (20/150/300) - 2015/09/20 21:59:59 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Victor 75 (1365)
+Seat 2: KRitoViaC (2100)
+Seat 3: G_ZU (2140)
+Seat 4: Hak_Poker (1420)
+Seat 5: BERPAT54 (1735)
+Seat 6: sabre_laser (1560)
+Seat 7: olive72 (3300)
+Seat 9: raidden02 (1380)
+*** ANTE/BLINDS ***
+BERPAT54 posts ante 20
+sabre_laser posts ante 20
+Victor 75 posts ante 20
+KRitoViaC posts ante 20
+G_ZU posts ante 20
+Hak_Poker posts ante 20
+olive72 posts ante 20
+raidden02 posts ante 20
+BERPAT54 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [4c 5s]
+*** PRE-FLOP *** 
+olive72 folds
+raidden02 folds
+Victor 75 calls 300
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 raises 1415 to 1715 and is all-in
+sabre_laser folds
+Victor 75 calls 1045 and is all-in
+*** FLOP *** [9c 5c 8s]
+*** TURN *** [9c 5c 8s][7s]
+*** RIVER *** [9c 5c 8s 7s][2h]
+*** SHOW DOWN ***
+Victor 75 shows [Js Ad] (High card : Ace)
+BERPAT54 shows [9h Kh] (One pair : 9)
+BERPAT54 collected 3520 from pot
+*** SUMMARY ***
+Total pot 3520 | No rake
+Board: [9c 5c 8s 7s 2h]
+Seat 1: Victor 75 showed [Js Ad] and lost with High card : Ace
+Seat 5: BERPAT54 (small blind) showed [9h Kh] and won 3520 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564692632106696705-26-1442786452 - Holdem no limit (50/200/400) - 2015/09/20 22:00:52 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #5 is the button
+Seat 2: KRitoViaC (2080)
+Seat 3: G_ZU (2120)
+Seat 4: Hak_Poker (1400)
+Seat 5: BERPAT54 (3520)
+Seat 6: sabre_laser (1240)
+Seat 7: olive72 (3280)
+Seat 9: raidden02 (1360)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+olive72 posts ante 50
+KRitoViaC posts ante 50
+G_ZU posts ante 50
+Hak_Poker posts ante 50
+BERPAT54 posts ante 50
+raidden02 posts ante 50
+sabre_laser posts small blind 200
+olive72 posts big blind 400
+Dealt to sabre_laser [6c 2c]
+*** PRE-FLOP *** 
+raidden02 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker raises 950 to 1350 and is all-in
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+Hak_Poker collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 4: Hak_Poker won 2300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564692632106696705-27-1442786489 - Holdem no limit (50/200/400) - 2015/09/20 22:01:29 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #6 is the button
+Seat 2: KRitoViaC (2030)
+Seat 3: G_ZU (2070)
+Seat 4: Hak_Poker (2300)
+Seat 5: BERPAT54 (3470)
+Seat 6: sabre_laser (990)
+Seat 7: olive72 (2830)
+Seat 9: raidden02 (1310)
+*** ANTE/BLINDS ***
+olive72 posts ante 50
+raidden02 posts ante 50
+KRitoViaC posts ante 50
+G_ZU posts ante 50
+Hak_Poker posts ante 50
+BERPAT54 posts ante 50
+sabre_laser posts ante 50
+olive72 posts small blind 200
+raidden02 posts big blind 400
+Dealt to sabre_laser [Jc 5d]
+*** PRE-FLOP *** 
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 raises 600 to 1000
+sabre_laser folds
+olive72 folds
+raidden02 folds
+BERPAT54 shows [9c 9h] (One pair : 9)
+BERPAT54 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Seat 5: BERPAT54 showed [9c 9h] and won 1950 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564692632106696705-28-1442786530 - Holdem no limit (50/200/400) - 2015/09/20 22:02:10 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #7 is the button
+Seat 2: KRitoViaC (1980)
+Seat 3: G_ZU (2020)
+Seat 4: Hak_Poker (2250)
+Seat 5: BERPAT54 (4370)
+Seat 6: sabre_laser (940)
+Seat 7: olive72 (2580)
+Seat 9: raidden02 (860)
+*** ANTE/BLINDS ***
+raidden02 posts ante 50
+KRitoViaC posts ante 50
+G_ZU posts ante 50
+Hak_Poker posts ante 50
+BERPAT54 posts ante 50
+sabre_laser posts ante 50
+olive72 posts ante 50
+raidden02 posts small blind 200
+KRitoViaC posts big blind 400
+Dealt to sabre_laser [7s 8d]
+*** PRE-FLOP *** 
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser raises 490 to 890 and is all-in
+olive72 folds
+raidden02 folds
+KRitoViaC calls 490
+*** FLOP *** [7d 4d Td]
+*** TURN *** [7d 4d Td][7h]
+*** RIVER *** [7d 4d Td 7h][3s]
+*** SHOW DOWN ***
+KRitoViaC shows [Kd Qc] (One pair : 7)
+sabre_laser shows [7s 8d] (Trips of 7)
+sabre_laser collected 2330 from pot
+*** SUMMARY ***
+Total pot 2330 | No rake
+Board: [7d 4d Td 7h 3s]
+Seat 2: KRitoViaC (big blind) showed [Kd Qc] and lost with One pair : 7
+Seat 6: sabre_laser showed [7s 8d] and won 2330 with Trips of 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564692632106696705-29-1442786579 - Holdem no limit (50/200/400) - 2015/09/20 22:02:59 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #9 is the button
+Seat 2: KRitoViaC (1040)
+Seat 3: G_ZU (1970)
+Seat 4: Hak_Poker (2200)
+Seat 5: BERPAT54 (4320)
+Seat 6: sabre_laser (2330)
+Seat 7: olive72 (2530)
+Seat 9: raidden02 (610)
+*** ANTE/BLINDS ***
+KRitoViaC posts ante 50
+G_ZU posts ante 50
+Hak_Poker posts ante 50
+BERPAT54 posts ante 50
+sabre_laser posts ante 50
+olive72 posts ante 50
+raidden02 posts ante 50
+KRitoViaC posts small blind 200
+G_ZU posts big blind 400
+Dealt to sabre_laser [Ac 5h]
+*** PRE-FLOP *** 
+Hak_Poker folds
+BERPAT54 folds
+sabre_laser folds
+olive72 folds
+raidden02 folds
+KRitoViaC raises 590 to 990 and is all-in
+G_ZU folds
+KRitoViaC collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 2: KRitoViaC (small blind) won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564692632106696705-30-1442786643 - Holdem no limit (75/300/600) - 2015/09/20 22:04:03 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #2 is the button
+Seat 2: KRitoViaC (1740)
+Seat 3: G_ZU (1520)
+Seat 4: Hak_Poker (2150)
+Seat 5: BERPAT54 (4270)
+Seat 6: sabre_laser (2280)
+Seat 7: olive72 (2480)
+Seat 9: raidden02 (560)
+*** ANTE/BLINDS ***
+G_ZU posts ante 75
+Hak_Poker posts ante 75
+KRitoViaC posts ante 75
+BERPAT54 posts ante 75
+sabre_laser posts ante 75
+olive72 posts ante 75
+raidden02 posts ante 75
+G_ZU posts small blind 300
+Hak_Poker posts big blind 600
+Dealt to sabre_laser [9s 3c]
+*** PRE-FLOP *** 
+BERPAT54 calls 600
+sabre_laser folds
+olive72 folds
+raidden02 calls 485 and is all-in
+KRitoViaC folds
+G_ZU folds
+Hak_Poker checks
+*** FLOP *** [6s Jc As]
+Hak_Poker checks
+BERPAT54 bets 3595 and is all-in
+Hak_Poker folds
+*** TURN *** [6s Jc As][2d]
+*** RIVER *** [6s Jc As 2d][8s]
+*** SHOW DOWN ***
+raidden02 shows [Kh 9h] (High card : Ace)
+BERPAT54 shows [Qh 9c] (High card : Ace)
+BERPAT54 collected 3825 from side pot 1
+raidden02 collected 2280 from main pot
+*** SUMMARY ***
+Total pot 6105 | No rake
+Board: [6s Jc As 2d 8s]
+Seat 5: BERPAT54 showed [Qh 9c] and won 3825 with High card : Ace
+Seat 9: raidden02 showed [Kh 9h] and won 2280 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564692632106696705-31-1442786732 - Holdem no limit (75/300/600) - 2015/09/20 22:05:32 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #3 is the button
+Seat 2: KRitoViaC (1665)
+Seat 3: G_ZU (1145)
+Seat 4: Hak_Poker (1475)
+Seat 5: BERPAT54 (3825)
+Seat 6: sabre_laser (2205)
+Seat 7: olive72 (2405)
+Seat 9: raidden02 (2280)
+*** ANTE/BLINDS ***
+Hak_Poker posts ante 75
+BERPAT54 posts ante 75
+KRitoViaC posts ante 75
+G_ZU posts ante 75
+sabre_laser posts ante 75
+olive72 posts ante 75
+raidden02 posts ante 75
+Hak_Poker posts small blind 300
+BERPAT54 posts big blind 600
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+olive72 folds
+raidden02 raises 1605 to 2205 and is all-in
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 folds
+raidden02 collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Seat 9: raidden02 won 3630
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564692632106696705-32-1442786783 - Holdem no limit (75/300/600) - 2015/09/20 22:06:23 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #4 is the button
+Seat 2: KRitoViaC (1590)
+Seat 3: G_ZU (1070)
+Seat 4: Hak_Poker (1100)
+Seat 5: BERPAT54 (3150)
+Seat 6: sabre_laser (2130)
+Seat 7: olive72 (2330)
+Seat 9: raidden02 (3630)
+*** ANTE/BLINDS ***
+BERPAT54 posts ante 75
+sabre_laser posts ante 75
+KRitoViaC posts ante 75
+G_ZU posts ante 75
+Hak_Poker posts ante 75
+olive72 posts ante 75
+raidden02 posts ante 75
+BERPAT54 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [6h 2d]
+*** PRE-FLOP *** 
+olive72 folds
+raidden02 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker raises 425 to 1025 and is all-in
+BERPAT54 folds
+sabre_laser folds
+Hak_Poker collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Seat 4: Hak_Poker (button) won 2450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #564692632106696705-33-1442786838 - Holdem no limit (100/400/800) - 2015/09/20 22:07:18 UTC
+Table: 'Double or Nothing(131477749)#0' 10-max (real money) Seat #5 is the button
+Seat 2: KRitoViaC (1515)
+Seat 3: G_ZU (995)
+Seat 4: Hak_Poker (2450)
+Seat 5: BERPAT54 (2775)
+Seat 6: sabre_laser (1455)
+Seat 7: olive72 (2255)
+Seat 9: raidden02 (3555)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+olive72 posts ante 100
+KRitoViaC posts ante 100
+G_ZU posts ante 100
+Hak_Poker posts ante 100
+BERPAT54 posts ante 100
+raidden02 posts ante 100
+sabre_laser posts small blind 400
+olive72 posts big blind 800
+Dealt to sabre_laser [Ah 7h]
+*** PRE-FLOP *** 
+raidden02 folds
+KRitoViaC folds
+G_ZU folds
+Hak_Poker folds
+BERPAT54 raises 1875 to 2675 and is all-in
+sabre_laser calls 955 and is all-in
+olive72 folds
+*** FLOP *** [4s 7c Qs]
+*** TURN *** [4s 7c Qs][2h]
+*** RIVER *** [4s 7c Qs 2h][3c]
+*** SHOW DOWN ***
+sabre_laser shows [Ah 7h] (One pair : 7)
+BERPAT54 shows [Ts Tc] (One pair : Tens)
+BERPAT54 collected 5530 from pot
+*** SUMMARY ***
+Total pot 5530 | No rake
+Board: [4s 7c Qs 2h 3c]
+Seat 5: BERPAT54 (button) showed [Ts Tc] and won 5530 with One pair : Tens
+Seat 6: sabre_laser (small blind) showed [Ah 7h] and lost with One pair : 7
+
+

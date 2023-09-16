@@ -1,0 +1,1546 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #529690456825528862-13-1436875936 - Holdem no limit (30/60) - 2015/07/14 12:12:16 UTC
+Table: 'Freeroll(123328170)#541' 6-max (real money) Seat #6 is the button
+Seat 1: Mang0dream (8175)
+Seat 2: Dr. Temes (3020)
+Seat 3: quelneuc (3060)
+Seat 4: sabre_laser (3000)
+Seat 5: Pisotiko (2900)
+Seat 6: Kim.ha (2910)
+*** ANTE/BLINDS ***
+Mang0dream posts small blind 30
+Dr. Temes posts big blind 60
+Dealt to sabre_laser [Js 4h]
+*** PRE-FLOP *** 
+quelneuc folds
+sabre_laser folds
+Pisotiko folds
+Kim.ha calls 60
+Mang0dream calls 30
+Dr. Temes checks
+*** FLOP *** [2c Qh 8h]
+Mang0dream checks
+Dr. Temes checks
+Kim.ha checks
+*** TURN *** [2c Qh 8h][Td]
+Mang0dream bets 120
+Dr. Temes calls 120
+Kim.ha calls 120
+*** RIVER *** [2c Qh 8h Td][8s]
+Mang0dream checks
+Dr. Temes bets 270
+Kim.ha calls 270
+Mang0dream folds
+*** SHOW DOWN ***
+Dr. Temes shows [9d 3d] (One pair : 8)
+Kim.ha shows [Ks Tc] (Two pairs : Tens and 8)
+Kim.ha collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [2c Qh 8h Td 8s]
+Seat 2: Dr. Temes (big blind) showed [9d 3d] and lost with One pair : 8
+Seat 6: Kim.ha (button) showed [Ks Tc] and won 1080 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #529690456825528862-14-1436876014 - Holdem no limit (40/80) - 2015/07/14 12:13:34 UTC
+Table: 'Freeroll(123328170)#541' 6-max (real money) Seat #1 is the button
+Seat 1: Mang0dream (7995)
+Seat 2: Dr. Temes (2570)
+Seat 3: quelneuc (3060)
+Seat 4: sabre_laser (3000)
+Seat 5: Pisotiko (2900)
+Seat 6: Kim.ha (3540)
+*** ANTE/BLINDS ***
+Dr. Temes posts small blind 40
+quelneuc posts big blind 80
+Dealt to sabre_laser [Tc Js]
+*** PRE-FLOP *** 
+sabre_laser calls 80
+Pisotiko calls 80
+Kim.ha folds
+Mang0dream folds
+Dr. Temes calls 40
+quelneuc checks
+*** FLOP *** [Qh Td 2h]
+Dr. Temes bets 160
+quelneuc calls 160
+sabre_laser calls 160
+Pisotiko calls 160
+*** TURN *** [Qh Td 2h][4d]
+Dr. Temes bets 640
+quelneuc calls 640
+sabre_laser folds
+Pisotiko raises 2020 to 2660 and is all-in
+Dr. Temes calls 1690 and is all-in
+quelneuc folds
+*** RIVER *** [Qh Td 2h 4d][Kc]
+*** SHOW DOWN ***
+Dr. Temes shows [2d 3d] (One pair : 2)
+Pisotiko shows [9h 6h] (High card : King)
+Pisotiko collected 330 from side pot 1
+Dr. Temes collected 6260 from main pot
+*** SUMMARY ***
+Total pot 6590 | No rake
+Board: [Qh Td 2h 4d Kc]
+Seat 2: Dr. Temes (small blind) showed [2d 3d] and won 6260 with One pair : 2
+Seat 5: Pisotiko showed [9h 6h] and won 330 with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #529690456825528862-15-1436876094 - Holdem no limit (40/80) - 2015/07/14 12:14:54 UTC
+Table: 'Freeroll(123328170)#541' 6-max (real money) Seat #2 is the button
+Seat 1: Mang0dream (7995)
+Seat 2: Dr. Temes (6260)
+Seat 3: quelneuc (2180)
+Seat 4: sabre_laser (2760)
+Seat 5: Pisotiko (330)
+Seat 6: Kim.ha (3540)
+*** ANTE/BLINDS ***
+quelneuc posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [3h 6d]
+*** PRE-FLOP *** 
+Pisotiko raises 250 to 330 and is all-in
+Kim.ha folds
+Mang0dream calls 330
+Dr. Temes calls 330
+quelneuc raises 1850 to 2180 and is all-in
+sabre_laser folds
+Mang0dream calls 1850
+Dr. Temes folds
+*** FLOP *** [Kd 7h Jd]
+*** TURN *** [Kd 7h Jd][4s]
+*** RIVER *** [Kd 7h Jd 4s][Qd]
+*** SHOW DOWN ***
+Mang0dream shows [As 2d] (High card : Ace)
+Pisotiko shows [8h Qh] (One pair : Queens)
+quelneuc shows [3d 3s] (One pair : 3)
+quelneuc collected 3700 from side pot 1
+Pisotiko collected 1400 from main pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [Kd 7h Jd 4s Qd]
+Seat 1: Mang0dream showed [As 2d] and lost with High card : Ace
+Seat 3: quelneuc (small blind) showed [3d 3s] and won 3700 with One pair : 3
+Seat 5: Pisotiko showed [8h Qh] and won 1400 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #529690456825528862-16-1436876140 - Holdem no limit (60/120) - 2015/07/14 12:15:40 UTC
+Table: 'Freeroll(123328170)#541' 6-max (real money) Seat #3 is the button
+Seat 1: Mang0dream (5815)
+Seat 2: Dr. Temes (5930)
+Seat 3: quelneuc (3700)
+Seat 4: sabre_laser (2680)
+Seat 5: Pisotiko (1400)
+Seat 6: Kim.ha (3540)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Pisotiko posts big blind 120
+Dealt to sabre_laser [Qs Qh]
+*** PRE-FLOP *** 
+Kim.ha folds
+Mang0dream folds
+Dr. Temes raises 240 to 360
+quelneuc folds
+sabre_laser calls 300
+Pisotiko raises 1040 to 1400 and is all-in
+Dr. Temes raises 4530 to 5930 and is all-in
+sabre_laser calls 2320 and is all-in
+*** FLOP *** [Jc Kh 4c]
+*** TURN *** [Jc Kh 4c][Jd]
+*** RIVER *** [Jc Kh 4c Jd][7c]
+*** SHOW DOWN ***
+Pisotiko shows [4d Qd] (Two pairs : Jacks and 4)
+sabre_laser shows [Qs Qh] (Two pairs : Queens and Jacks)
+Dr. Temes shows [Ac 7d] (Two pairs : Jacks and 7)
+Dr. Temes collected 3250 from side pot 1
+sabre_laser collected 6760 from main pot
+*** SUMMARY ***
+Total pot 10010 | No rake
+Board: [Jc Kh 4c Jd 7c]
+Seat 2: Dr. Temes showed [Ac 7d] and won 3250 with Two pairs : Jacks and 7
+Seat 4: sabre_laser (small blind) showed [Qs Qh] and won 6760 with Two pairs : Queens and Jacks
+Seat 5: Pisotiko (big blind) showed [4d Qd] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #529690456825528862-17-1436876180 - Holdem no limit (60/120) - 2015/07/14 12:16:20 UTC
+Table: 'Freeroll(123328170)#541' 6-max (real money) Seat #4 is the button
+Seat 1: Mang0dream (5815)
+Seat 2: Dr. Temes (3250)
+Seat 3: quelneuc (3700)
+Seat 4: sabre_laser (6760)
+Seat 5: scredman 1er (2940)
+Seat 6: Kim.ha (3540)
+*** ANTE/BLINDS ***
+Kim.ha posts big blind 120
+Dealt to sabre_laser [Jc Kd]
+*** PRE-FLOP *** 
+Mang0dream calls 120
+Dr. Temes folds
+quelneuc folds
+sabre_laser calls 120
+Kim.ha checks
+*** FLOP *** [7d 9h 7h]
+Kim.ha checks
+Mang0dream bets 120
+sabre_laser folds
+Kim.ha calls 120
+*** TURN *** [7d 9h 7h][Qh]
+Kim.ha checks
+Mang0dream bets 300
+Kim.ha calls 300
+*** RIVER *** [7d 9h 7h Qh][3s]
+Kim.ha checks
+Mang0dream checks
+*** SHOW DOWN ***
+Mang0dream shows [Ad 8h] (One pair : 7)
+Kim.ha shows [5c 7s] (Trips of 7)
+Kim.ha collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [7d 9h 7h Qh 3s]
+Seat 1: Mang0dream showed [Ad 8h] and lost with One pair : 7
+Seat 6: Kim.ha (big blind) showed [5c 7s] and won 1200 with Trips of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #529690456825528862-18-1436876241 - Holdem no limit (60/120) - 2015/07/14 12:17:21 UTC
+Table: 'Freeroll(123328170)#541' 6-max (real money) Seat #5 is the button
+Seat 1: Mang0dream (5275)
+Seat 2: Dr. Temes (3250)
+Seat 3: quelneuc (3700)
+Seat 4: sabre_laser (6640)
+Seat 5: scredman 1er (2940)
+Seat 6: Kim.ha (4200)
+*** ANTE/BLINDS ***
+Kim.ha posts small blind 60
+Mang0dream posts big blind 120
+Dealt to sabre_laser [Ts Kh]
+*** PRE-FLOP *** 
+Dr. Temes folds
+quelneuc folds
+sabre_laser folds
+Kim.ha calls 60
+Mang0dream checks
+*** FLOP *** [7h 2c Kc]
+Kim.ha checks
+Mang0dream bets 120
+Kim.ha calls 120
+*** TURN *** [7h 2c Kc][Jc]
+Kim.ha checks
+Mang0dream bets 360
+Kim.ha folds
+Mang0dream collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [7h 2c Kc Jc]
+Seat 1: Mang0dream (big blind) won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #529690456825528887-23-1436876306 - Holdem no limit (10/60/120) - 2015/07/14 12:18:26 UTC
+Table: 'Freeroll(123328170)#566' 6-max (real money) Seat #3 is the button
+Seat 1: aedhie (885)
+Seat 2: rollerback (2655)
+Seat 3: Anthony04100 (2755)
+Seat 4: sabre_laser (6640)
+Seat 5: givmizechips (4343)
+Seat 6: escudos (2700)
+*** ANTE/BLINDS ***
+givmizechips posts ante 10
+aedhie posts ante 10
+rollerback posts ante 10
+Anthony04100 posts ante 10
+escudos posts ante 10
+givmizechips posts big blind 120
+*** PRE-FLOP *** 
+escudos folds
+aedhie folds
+rollerback folds
+Anthony04100 folds
+givmizechips collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 5: givmizechips (big blind) won 170
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #529690456825528635-26-1436876317 - Holdem no limit (10/60/120) - 2015/07/14 12:18:37 UTC
+Table: 'Freeroll(123328170)#314' 6-max (real money) Seat #1 is the button
+Seat 1: elvina37 (6250)
+Seat 2: chache-57 (6710)
+Seat 3: sabre_laser (6640)
+Seat 4: tiptop69 (2595)
+Seat 5: inaya64480 (3010)
+Seat 6: Starpilot95 (5440)
+*** ANTE/BLINDS ***
+chache-57 posts ante 10
+sabre_laser posts ante 10
+elvina37 posts ante 10
+tiptop69 posts ante 10
+inaya64480 posts ante 10
+Starpilot95 posts ante 10
+chache-57 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [7s Kh]
+*** PRE-FLOP *** 
+tiptop69 folds
+inaya64480 raises 240 to 360
+Starpilot95 folds
+elvina37 folds
+chache-57 folds
+sabre_laser folds
+inaya64480 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 5: inaya64480 won 600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #529690456825528635-27-1436876336 - Holdem no limit (10/60/120) - 2015/07/14 12:18:56 UTC
+Table: 'Freeroll(123328170)#314' 6-max (real money) Seat #2 is the button
+Seat 1: elvina37 (6240)
+Seat 2: chache-57 (6640)
+Seat 3: sabre_laser (6510)
+Seat 4: tiptop69 (2585)
+Seat 5: inaya64480 (3240)
+Seat 6: Starpilot95 (5430)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+tiptop69 posts ante 10
+elvina37 posts ante 10
+chache-57 posts ante 10
+inaya64480 posts ante 10
+Starpilot95 posts ante 10
+sabre_laser posts small blind 60
+tiptop69 posts big blind 120
+Dealt to sabre_laser [Jh Qh]
+*** PRE-FLOP *** 
+inaya64480 folds
+Starpilot95 raises 120 to 240
+elvina37 folds
+chache-57 raises 6390 to 6630 and is all-in
+sabre_laser folds
+tiptop69 folds
+Starpilot95 calls 5180 and is all-in
+*** FLOP *** [7d As 9d]
+*** TURN *** [7d As 9d][Qd]
+*** RIVER *** [7d As 9d Qd][5c]
+*** SHOW DOWN ***
+Starpilot95 shows [Jd Jc] (One pair : Jacks)
+chache-57 shows [4c 4h] (One pair : 4)
+chache-57 collected 1210 from side pot 1
+Starpilot95 collected 11080 from main pot
+*** SUMMARY ***
+Total pot 12290 | No rake
+Board: [7d As 9d Qd 5c]
+Seat 2: chache-57 (button) showed [4c 4h] and won 1210 with One pair : 4
+Seat 6: Starpilot95 showed [Jd Jc] and won 11080 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #529690456825528635-28-1436876369 - Holdem no limit (10/60/120) - 2015/07/14 12:19:29 UTC
+Table: 'Freeroll(123328170)#314' 6-max (real money) Seat #3 is the button
+Seat 1: elvina37 (6230)
+Seat 2: chache-57 (1210)
+Seat 3: sabre_laser (6440)
+Seat 4: tiptop69 (2455)
+Seat 5: inaya64480 (3230)
+Seat 6: Starpilot95 (11080)
+*** ANTE/BLINDS ***
+tiptop69 posts ante 10
+inaya64480 posts ante 10
+elvina37 posts ante 10
+chache-57 posts ante 10
+sabre_laser posts ante 10
+Starpilot95 posts ante 10
+tiptop69 posts small blind 60
+inaya64480 posts big blind 120
+Dealt to sabre_laser [Kh 3c]
+*** PRE-FLOP *** 
+Starpilot95 raises 240 to 360
+elvina37 folds
+chache-57 folds
+sabre_laser folds
+tiptop69 folds
+inaya64480 folds
+Starpilot95 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 6: Starpilot95 won 600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #529690456825528966-11-1436876393 - Holdem no limit (10/60/120) - 2015/07/14 12:19:53 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #1 is the button
+Seat 1: STOY NOUMEA (8600)
+Seat 2: kulimoetoke (8060)
+Seat 3: WonDerFull76 (4690)
+Seat 4: ROSARIO201 (2595)
+Seat 5: sabre_laser (6430)
+Seat 6: niskolito (2960)
+*** ANTE/BLINDS ***
+kulimoetoke posts ante 10
+WonDerFull76 posts ante 10
+STOY NOUMEA posts ante 10
+ROSARIO201 posts ante 10
+sabre_laser posts ante 10
+niskolito posts ante 10
+kulimoetoke posts small blind 60
+WonDerFull76 posts big blind 120
+Dealt to sabre_laser [5h Ac]
+*** PRE-FLOP *** 
+ROSARIO201 folds
+sabre_laser raises 120 to 240
+niskolito raises 720 to 960
+STOY NOUMEA calls 960
+kulimoetoke folds
+WonDerFull76 folds
+sabre_laser folds
+*** FLOP *** [6d 2s Td]
+niskolito bets 1990 and is all-in
+STOY NOUMEA calls 1990
+*** TURN *** [6d 2s Td][5s]
+*** RIVER *** [6d 2s Td 5s][Js]
+*** SHOW DOWN ***
+niskolito shows [Ad Kc] (High card : Ace)
+STOY NOUMEA shows [8h 8s] (One pair : 8)
+STOY NOUMEA collected 6380 from pot
+*** SUMMARY ***
+Total pot 6380 | No rake
+Board: [6d 2s Td 5s Js]
+Seat 1: STOY NOUMEA (button) showed [8h 8s] and won 6380 with One pair : 8
+Seat 6: niskolito showed [Ad Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #529690456825528966-12-1436876436 - Holdem no limit (10/60/120) - 2015/07/14 12:20:36 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #2 is the button
+Seat 1: STOY NOUMEA (12020)
+Seat 2: kulimoetoke (7990)
+Seat 3: WonDerFull76 (4560)
+Seat 4: ROSARIO201 (2585)
+Seat 5: sabre_laser (6180)
+Seat 6: Azoyas (3000)
+*** ANTE/BLINDS ***
+WonDerFull76 posts ante 10
+ROSARIO201 posts ante 10
+STOY NOUMEA posts ante 10
+kulimoetoke posts ante 10
+sabre_laser posts ante 10
+Azoyas posts ante 10
+WonDerFull76 posts small blind 60
+ROSARIO201 posts big blind 120
+Dealt to sabre_laser [7d 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Azoyas calls 120
+STOY NOUMEA calls 120
+kulimoetoke calls 120
+WonDerFull76 folds
+ROSARIO201 folds
+*** FLOP *** [9c Ks 5c]
+Azoyas checks
+STOY NOUMEA checks
+kulimoetoke checks
+*** TURN *** [9c Ks 5c][6c]
+Azoyas bets 120
+STOY NOUMEA folds
+kulimoetoke calls 120
+*** RIVER *** [9c Ks 5c 6c][6d]
+Azoyas checks
+kulimoetoke checks
+*** SHOW DOWN ***
+kulimoetoke shows [5s Qd] (Two pairs : 6 and 5)
+Azoyas shows [5h As] (Two pairs : 6 and 5)
+Azoyas collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [9c Ks 5c 6c 6d]
+Seat 2: kulimoetoke (button) showed [5s Qd] and lost with Two pairs : 6 and 5
+Seat 6: Azoyas showed [5h As] and won 840 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #529690456825528966-13-1436876483 - Holdem no limit (10/60/120) - 2015/07/14 12:21:23 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #3 is the button
+Seat 1: STOY NOUMEA (11890)
+Seat 2: kulimoetoke (7740)
+Seat 3: WonDerFull76 (4490)
+Seat 4: ROSARIO201 (2455)
+Seat 5: sabre_laser (6170)
+Seat 6: Azoyas (3590)
+*** ANTE/BLINDS ***
+ROSARIO201 posts ante 10
+sabre_laser posts ante 10
+STOY NOUMEA posts ante 10
+kulimoetoke posts ante 10
+WonDerFull76 posts ante 10
+Azoyas posts ante 10
+ROSARIO201 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [8c 7s]
+*** PRE-FLOP *** 
+Azoyas folds
+STOY NOUMEA calls 120
+kulimoetoke calls 120
+WonDerFull76 folds
+ROSARIO201 folds
+sabre_laser checks
+*** FLOP *** [8d Ts Kd]
+sabre_laser checks
+STOY NOUMEA checks
+kulimoetoke checks
+*** TURN *** [8d Ts Kd][8s]
+sabre_laser checks
+STOY NOUMEA bets 120
+kulimoetoke calls 120
+sabre_laser calls 120
+*** RIVER *** [8d Ts Kd 8s][Jd]
+sabre_laser bets 480
+STOY NOUMEA folds
+kulimoetoke folds
+sabre_laser collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [8d Ts Kd 8s Jd]
+Seat 5: sabre_laser (big blind) won 1320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #529690456825528966-14-1436876558 - Holdem no limit (15/75/150) - 2015/07/14 12:22:38 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #4 is the button
+Seat 1: STOY NOUMEA (11640)
+Seat 2: kulimoetoke (7490)
+Seat 3: WonDerFull76 (4480)
+Seat 4: ROSARIO201 (2385)
+Seat 5: sabre_laser (6760)
+Seat 6: Azoyas (3580)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 15
+Azoyas posts ante 15
+STOY NOUMEA posts ante 15
+kulimoetoke posts ante 15
+WonDerFull76 posts ante 15
+ROSARIO201 posts ante 15
+sabre_laser posts small blind 75
+Azoyas posts big blind 150
+Dealt to sabre_laser [2d Th]
+*** PRE-FLOP *** 
+STOY NOUMEA calls 150
+kulimoetoke folds
+WonDerFull76 folds
+ROSARIO201 folds
+sabre_laser folds
+Azoyas checks
+*** FLOP *** [6d 2h Qs]
+Azoyas checks
+STOY NOUMEA bets 150
+Azoyas folds
+STOY NOUMEA collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [6d 2h Qs]
+Seat 1: STOY NOUMEA won 615
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #529690456825528966-15-1436876589 - Holdem no limit (15/75/150) - 2015/07/14 12:23:09 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #5 is the button
+Seat 1: STOY NOUMEA (11940)
+Seat 2: kulimoetoke (7475)
+Seat 3: WonDerFull76 (4465)
+Seat 4: ROSARIO201 (2370)
+Seat 5: sabre_laser (6670)
+Seat 6: Azoyas (3415)
+*** ANTE/BLINDS ***
+Azoyas posts ante 15
+STOY NOUMEA posts ante 15
+kulimoetoke posts ante 15
+WonDerFull76 posts ante 15
+ROSARIO201 posts ante 15
+sabre_laser posts ante 15
+Azoyas posts small blind 75
+STOY NOUMEA posts big blind 150
+Dealt to sabre_laser [Kd Js]
+*** PRE-FLOP *** 
+kulimoetoke calls 150
+WonDerFull76 folds
+ROSARIO201 folds
+sabre_laser calls 150
+Azoyas folds
+STOY NOUMEA checks
+*** FLOP *** [4h Jh 5s]
+STOY NOUMEA checks
+kulimoetoke bets 450
+sabre_laser calls 450
+STOY NOUMEA calls 450
+*** TURN *** [4h Jh 5s][Tc]
+STOY NOUMEA checks
+kulimoetoke bets 900
+sabre_laser calls 900
+STOY NOUMEA calls 900
+*** RIVER *** [4h Jh 5s Tc][8s]
+STOY NOUMEA bets 4665
+kulimoetoke raises 1295 to 5960 and is all-in
+sabre_laser folds
+STOY NOUMEA calls 1295
+*** SHOW DOWN ***
+kulimoetoke shows [9c Jc] (One pair : Jacks)
+STOY NOUMEA shows [6s 7d] (Straight 8 high)
+STOY NOUMEA collected 16585 from pot
+*** SUMMARY ***
+Total pot 16585 | No rake
+Board: [4h Jh 5s Tc 8s]
+Seat 1: STOY NOUMEA (big blind) showed [6s 7d] and won 16585 with Straight 8 high
+Seat 2: kulimoetoke showed [9c Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #529690456825528966-16-1436876700 - Holdem no limit (20/100/200) - 2015/07/14 12:25:00 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #6 is the button
+Seat 1: STOY NOUMEA (21050)
+Seat 2: plombers (19690)
+Seat 3: WonDerFull76 (4450)
+Seat 4: ROSARIO201 (2355)
+Seat 5: sabre_laser (5155)
+Seat 6: Azoyas (3325)
+*** ANTE/BLINDS ***
+STOY NOUMEA posts ante 20
+plombers posts ante 20
+WonDerFull76 posts ante 20
+ROSARIO201 posts ante 20
+sabre_laser posts ante 20
+Azoyas posts ante 20
+STOY NOUMEA posts small blind 100
+plombers posts big blind 200
+Dealt to sabre_laser [Kc 8h]
+*** PRE-FLOP *** 
+WonDerFull76 folds
+ROSARIO201 folds
+sabre_laser folds
+Azoyas folds
+STOY NOUMEA calls 100
+plombers raises 200 to 400
+STOY NOUMEA folds
+plombers collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 2: plombers (big blind) won 720
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #529690456825528966-17-1436876719 - Holdem no limit (20/100/200) - 2015/07/14 12:25:19 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #1 is the button
+Seat 1: STOY NOUMEA (20830)
+Seat 2: plombers (19990)
+Seat 3: WonDerFull76 (4430)
+Seat 4: ROSARIO201 (2335)
+Seat 5: sabre_laser (5135)
+Seat 6: Azoyas (3305)
+*** ANTE/BLINDS ***
+plombers posts ante 20
+WonDerFull76 posts ante 20
+STOY NOUMEA posts ante 20
+ROSARIO201 posts ante 20
+sabre_laser posts ante 20
+Azoyas posts ante 20
+plombers posts small blind 100
+WonDerFull76 posts big blind 200
+Dealt to sabre_laser [Kc 5d]
+*** PRE-FLOP *** 
+ROSARIO201 folds
+sabre_laser folds
+Azoyas folds
+STOY NOUMEA raises 200 to 400
+plombers calls 300
+WonDerFull76 folds
+*** FLOP *** [6c 5h 9c]
+plombers checks
+STOY NOUMEA bets 200
+plombers calls 200
+*** TURN *** [6c 5h 9c][3c]
+plombers checks
+STOY NOUMEA bets 200
+plombers calls 200
+*** RIVER *** [6c 5h 9c 3c][5c]
+plombers checks
+STOY NOUMEA bets 1920
+plombers calls 1920
+*** SHOW DOWN ***
+plombers shows [2d 4d] (Straight 6 high)
+STOY NOUMEA shows [Td Jc] (Flush Jack high)
+STOY NOUMEA collected 5760 from pot
+*** SUMMARY ***
+Total pot 5760 | No rake
+Board: [6c 5h 9c 3c 5c]
+Seat 1: STOY NOUMEA (button) showed [Td Jc] and won 5760 with Flush Jack high
+Seat 2: plombers (small blind) showed [2d 4d] and lost with Straight 6 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #529690456825528966-18-1436876757 - Holdem no limit (20/100/200) - 2015/07/14 12:25:57 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #2 is the button
+Seat 1: STOY NOUMEA (23850)
+Seat 2: plombers (17250)
+Seat 3: WonDerFull76 (4210)
+Seat 4: ROSARIO201 (2315)
+Seat 5: sabre_laser (5115)
+Seat 6: Azoyas (3285)
+*** ANTE/BLINDS ***
+WonDerFull76 posts ante 20
+ROSARIO201 posts ante 20
+STOY NOUMEA posts ante 20
+plombers posts ante 20
+sabre_laser posts ante 20
+Azoyas posts ante 20
+WonDerFull76 posts small blind 100
+ROSARIO201 posts big blind 200
+Dealt to sabre_laser [Jc 3d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Azoyas folds
+STOY NOUMEA calls 200
+plombers folds
+WonDerFull76 folds
+ROSARIO201 folds
+STOY NOUMEA collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 1: STOY NOUMEA won 620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #529690456825528966-19-1436876771 - Holdem no limit (20/100/200) - 2015/07/14 12:26:11 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #3 is the button
+Seat 1: STOY NOUMEA (24250)
+Seat 2: plombers (17230)
+Seat 3: WonDerFull76 (4090)
+Seat 4: ROSARIO201 (2095)
+Seat 5: sabre_laser (5095)
+Seat 6: Azoyas (3265)
+*** ANTE/BLINDS ***
+ROSARIO201 posts ante 20
+sabre_laser posts ante 20
+STOY NOUMEA posts ante 20
+plombers posts ante 20
+WonDerFull76 posts ante 20
+Azoyas posts ante 20
+ROSARIO201 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Kh 9c]
+*** PRE-FLOP *** 
+Azoyas raises 200 to 400
+STOY NOUMEA raises 200 to 600
+plombers folds
+WonDerFull76 folds
+ROSARIO201 folds
+sabre_laser folds
+Azoyas folds
+STOY NOUMEA collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | No rake
+Seat 1: STOY NOUMEA won 1420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #529690456825528966-20-1436876810 - Holdem no limit (20/100/200) - 2015/07/14 12:26:50 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #4 is the button
+Seat 1: STOY NOUMEA (25050)
+Seat 2: plombers (17210)
+Seat 3: WonDerFull76 (4070)
+Seat 4: ROSARIO201 (1975)
+Seat 5: sabre_laser (4875)
+Seat 6: Azoyas (2845)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Azoyas posts ante 20
+STOY NOUMEA posts ante 20
+plombers posts ante 20
+WonDerFull76 posts ante 20
+ROSARIO201 posts ante 20
+sabre_laser posts small blind 100
+Azoyas posts big blind 200
+Dealt to sabre_laser [2c 4h]
+*** PRE-FLOP *** 
+STOY NOUMEA folds
+plombers calls 200
+WonDerFull76 folds
+ROSARIO201 folds
+sabre_laser calls 100
+Azoyas folds
+*** FLOP *** [7s Qd Qh]
+sabre_laser checks
+plombers bets 200
+sabre_laser folds
+plombers collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [7s Qd Qh]
+Seat 2: plombers won 920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #529690456825528966-21-1436876856 - Holdem no limit (25/125/250) - 2015/07/14 12:27:36 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #5 is the button
+Seat 1: STOY NOUMEA (25030)
+Seat 2: plombers (17710)
+Seat 3: WonDerFull76 (4050)
+Seat 4: ROSARIO201 (1955)
+Seat 5: sabre_laser (4655)
+Seat 6: ---JMI--- (12373)
+*** ANTE/BLINDS ***
+STOY NOUMEA posts ante 25
+plombers posts ante 25
+WonDerFull76 posts ante 25
+ROSARIO201 posts ante 25
+sabre_laser posts ante 25
+STOY NOUMEA posts big blind 250
+Dealt to sabre_laser [5h Th]
+*** PRE-FLOP *** 
+plombers folds
+WonDerFull76 folds
+ROSARIO201 folds
+sabre_laser folds
+STOY NOUMEA collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 1: STOY NOUMEA (big blind) won 375
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #529690456825528966-22-1436876865 - Holdem no limit (25/125/250) - 2015/07/14 12:27:45 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #6 is the button
+Seat 1: STOY NOUMEA (25130)
+Seat 2: plombers (17685)
+Seat 3: Prool69 (2205)
+Seat 4: ROSARIO201 (1930)
+Seat 5: sabre_laser (4630)
+Seat 6: ---JMI--- (12373)
+*** ANTE/BLINDS ***
+STOY NOUMEA posts ante 25
+plombers posts ante 25
+Prool69 posts ante 25
+ROSARIO201 posts ante 25
+sabre_laser posts ante 25
+STOY NOUMEA posts small blind 125
+plombers posts big blind 250
+Dealt to sabre_laser [2d Ks]
+*** PRE-FLOP *** 
+Prool69 folds
+ROSARIO201 folds
+sabre_laser folds
+STOY NOUMEA raises 250 to 500
+plombers calls 250
+*** FLOP *** [Tc As Jc]
+STOY NOUMEA bets 1125
+plombers calls 1125
+*** TURN *** [Tc As Jc][Jh]
+STOY NOUMEA bets 250
+plombers calls 250
+*** RIVER *** [Tc As Jc Jh][Ad]
+STOY NOUMEA bets 23230 and is all-in
+plombers folds
+STOY NOUMEA collected 27105 from pot
+*** SUMMARY ***
+Total pot 27105 | No rake
+Board: [Tc As Jc Jh Ad]
+Seat 1: STOY NOUMEA (small blind) won 27105
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #529690456825528966-23-1436876926 - Holdem no limit (25/125/250) - 2015/07/14 12:28:46 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #1 is the button
+Seat 1: STOY NOUMEA (27105)
+Seat 2: plombers (15785)
+Seat 3: Prool69 (2180)
+Seat 4: ROSARIO201 (1905)
+Seat 5: sabre_laser (4605)
+Seat 6: ---JMI--- (12373)
+*** ANTE/BLINDS ***
+plombers posts ante 25
+Prool69 posts ante 25
+STOY NOUMEA posts ante 25
+ROSARIO201 posts ante 25
+sabre_laser posts ante 25
+---JMI--- posts ante 25
+plombers posts small blind 125
+Prool69 posts big blind 250
+Dealt to sabre_laser [3d 2c]
+*** PRE-FLOP *** 
+ROSARIO201 folds
+sabre_laser folds
+---JMI--- folds
+STOY NOUMEA calls 250
+plombers calls 125
+Prool69 folds
+*** FLOP *** [Qs Ad Qh]
+plombers checks
+STOY NOUMEA checks
+*** TURN *** [Qs Ad Qh][5s]
+plombers checks
+STOY NOUMEA bets 250
+plombers calls 250
+*** RIVER *** [Qs Ad Qh 5s][6c]
+plombers bets 1400
+STOY NOUMEA calls 1400
+*** SHOW DOWN ***
+STOY NOUMEA shows [6s 2s] (Two pairs : Queens and 6)
+plombers shows [3c Qc] (Trips of Queens)
+plombers collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [Qs Ad Qh 5s 6c]
+Seat 1: STOY NOUMEA (button) showed [6s 2s] and lost with Two pairs : Queens and 6
+Seat 2: plombers (small blind) showed [3c Qc] and won 4200 with Trips of Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #529690456825528966-24-1436876997 - Holdem no limit (25/125/250) - 2015/07/14 12:29:57 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #2 is the button
+Seat 1: STOY NOUMEA (25180)
+Seat 2: plombers (18060)
+Seat 3: Prool69 (1905)
+Seat 4: ROSARIO201 (1880)
+Seat 5: sabre_laser (4580)
+Seat 6: ---JMI--- (12348)
+*** ANTE/BLINDS ***
+Prool69 posts ante 25
+ROSARIO201 posts ante 25
+STOY NOUMEA posts ante 25
+plombers posts ante 25
+sabre_laser posts ante 25
+---JMI--- posts ante 25
+Prool69 posts small blind 125
+ROSARIO201 posts big blind 250
+Dealt to sabre_laser [Jc Qd]
+*** PRE-FLOP *** 
+sabre_laser raises 250 to 500
+---JMI--- calls 500
+STOY NOUMEA raises 2025 to 2525
+plombers folds
+Prool69 folds
+ROSARIO201 folds
+sabre_laser folds
+---JMI--- calls 2025
+*** FLOP *** [3d As 4c]
+---JMI--- checks
+STOY NOUMEA bets 22630 and is all-in
+---JMI--- folds
+STOY NOUMEA collected 28705 from pot
+*** SUMMARY ***
+Total pot 28705 | No rake
+Board: [3d As 4c]
+Seat 1: STOY NOUMEA won 28705
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #529690456825528966-25-1436877054 - Holdem no limit (35/150/300) - 2015/07/14 12:30:54 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #3 is the button
+Seat 1: STOY NOUMEA (28705)
+Seat 2: plombers (18035)
+Seat 3: Prool69 (1755)
+Seat 4: ROSARIO201 (1605)
+Seat 5: sabre_laser (4055)
+Seat 6: ---JMI--- (9798)
+*** ANTE/BLINDS ***
+ROSARIO201 posts ante 35
+sabre_laser posts ante 35
+STOY NOUMEA posts ante 35
+plombers posts ante 35
+Prool69 posts ante 35
+---JMI--- posts ante 35
+ROSARIO201 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Qh Kh]
+*** PRE-FLOP *** 
+---JMI--- calls 300
+STOY NOUMEA raises 300 to 600
+plombers calls 600
+Prool69 folds
+ROSARIO201 folds
+sabre_laser raises 3420 to 4020 and is all-in
+---JMI--- raises 5743 to 9763 and is all-in
+STOY NOUMEA calls 9163
+plombers calls 9163
+*** FLOP *** [9c 7s 3s]
+STOY NOUMEA checks
+plombers checks
+*** TURN *** [9c 7s 3s][4c]
+STOY NOUMEA checks
+plombers checks
+*** RIVER *** [9c 7s 3s 4c][Qd]
+STOY NOUMEA checks
+plombers checks
+*** SHOW DOWN ***
+plombers shows [Ac 8c] (High card : Ace)
+---JMI--- shows [Ad Kc] (High card : Ace)
+sabre_laser shows [Qh Kh] (One pair : Queens)
+STOY NOUMEA shows [9h Js] (One pair : 9)
+STOY NOUMEA collected 17229 from side pot 1
+sabre_laser collected 16440 from main pot
+*** SUMMARY ***
+Total pot 33669 | No rake
+Board: [9c 7s 3s 4c Qd]
+Seat 1: STOY NOUMEA showed [9h Js] and won 17229 with One pair : 9
+Seat 2: plombers showed [Ac 8c] and lost with High card : Ace
+Seat 5: sabre_laser (big blind) showed [Qh Kh] and won 16440 with One pair : Queens
+Seat 6: ---JMI--- showed [Ad Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #529690456825528966-26-1436877109 - Holdem no limit (35/150/300) - 2015/07/14 12:31:49 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #4 is the button
+Seat 1: STOY NOUMEA (36136)
+Seat 2: plombers (8237)
+Seat 3: Prool69 (1720)
+Seat 4: ROSARIO201 (1420)
+Seat 5: sabre_laser (16440)
+Seat 6: poulpe59 (7448)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 35
+poulpe59 posts ante 35
+STOY NOUMEA posts ante 35
+plombers posts ante 35
+Prool69 posts ante 35
+ROSARIO201 posts ante 35
+sabre_laser posts small blind 150
+poulpe59 posts big blind 300
+Dealt to sabre_laser [6c 9d]
+*** PRE-FLOP *** 
+STOY NOUMEA calls 300
+plombers raises 1200 to 1500
+Prool69 folds
+ROSARIO201 folds
+sabre_laser folds
+poulpe59 folds
+STOY NOUMEA folds
+plombers collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Seat 2: plombers won 2460
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #529690456825528966-27-1436877133 - Holdem no limit (35/150/300) - 2015/07/14 12:32:13 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #5 is the button
+Seat 1: STOY NOUMEA (35801)
+Seat 2: plombers (9162)
+Seat 3: Prool69 (1685)
+Seat 4: ROSARIO201 (1385)
+Seat 5: sabre_laser (16255)
+Seat 6: poulpe59 (7113)
+*** ANTE/BLINDS ***
+poulpe59 posts ante 35
+STOY NOUMEA posts ante 35
+plombers posts ante 35
+Prool69 posts ante 35
+ROSARIO201 posts ante 35
+sabre_laser posts ante 35
+poulpe59 posts small blind 150
+STOY NOUMEA posts big blind 300
+Dealt to sabre_laser [6h Qd]
+*** PRE-FLOP *** 
+plombers folds
+Prool69 folds
+ROSARIO201 folds
+sabre_laser folds
+poulpe59 calls 150
+STOY NOUMEA checks
+*** FLOP *** [5c Jd Kd]
+poulpe59 bets 540
+STOY NOUMEA folds
+poulpe59 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [5c Jd Kd]
+Seat 6: poulpe59 (small blind) won 1350
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #529690456825528966-28-1436877156 - Holdem no limit (35/150/300) - 2015/07/14 12:32:36 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #6 is the button
+Seat 1: STOY NOUMEA (35466)
+Seat 2: plombers (9127)
+Seat 3: Prool69 (1650)
+Seat 4: ROSARIO201 (1350)
+Seat 5: sabre_laser (16220)
+Seat 6: poulpe59 (7588)
+*** ANTE/BLINDS ***
+STOY NOUMEA posts ante 35
+plombers posts ante 35
+Prool69 posts ante 35
+ROSARIO201 posts ante 35
+sabre_laser posts ante 35
+poulpe59 posts ante 35
+STOY NOUMEA posts small blind 150
+plombers posts big blind 300
+Dealt to sabre_laser [9h 3c]
+*** PRE-FLOP *** 
+Prool69 folds
+ROSARIO201 folds
+sabre_laser folds
+poulpe59 raises 600 to 900
+STOY NOUMEA folds
+plombers folds
+poulpe59 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 6: poulpe59 (button) won 1560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #529690456825528966-29-1436877176 - Holdem no limit (35/150/300) - 2015/07/14 12:32:56 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #1 is the button
+Seat 1: STOY NOUMEA (35281)
+Seat 2: plombers (8792)
+Seat 3: Prool69 (1615)
+Seat 4: ROSARIO201 (1315)
+Seat 5: sabre_laser (16185)
+Seat 6: poulpe59 (8213)
+*** ANTE/BLINDS ***
+plombers posts ante 35
+Prool69 posts ante 35
+STOY NOUMEA posts ante 35
+ROSARIO201 posts ante 35
+sabre_laser posts ante 35
+poulpe59 posts ante 35
+plombers posts small blind 150
+Prool69 posts big blind 300
+Dealt to sabre_laser [Jd As]
+*** PRE-FLOP *** 
+ROSARIO201 folds
+sabre_laser raises 600 to 900
+poulpe59 folds
+STOY NOUMEA calls 900
+plombers folds
+Prool69 folds
+*** FLOP *** [9s 6h 6c]
+sabre_laser checks
+STOY NOUMEA bets 300
+sabre_laser raises 14950 to 15250 and is all-in
+STOY NOUMEA folds
+sabre_laser collected 18010 from pot
+*** SUMMARY ***
+Total pot 18010 | No rake
+Board: [9s 6h 6c]
+Seat 5: sabre_laser won 18010
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #529690456825528966-30-1436877214 - Holdem no limit (40/200/400) - 2015/07/14 12:33:34 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #2 is the button
+Seat 1: STOY NOUMEA (34046)
+Seat 2: plombers (8607)
+Seat 3: Prool69 (1280)
+Seat 4: ROSARIO201 (1280)
+Seat 5: sabre_laser (18010)
+Seat 6: poulpe59 (8178)
+*** ANTE/BLINDS ***
+Prool69 posts ante 40
+ROSARIO201 posts ante 40
+STOY NOUMEA posts ante 40
+plombers posts ante 40
+sabre_laser posts ante 40
+poulpe59 posts ante 40
+Prool69 posts small blind 200
+ROSARIO201 posts big blind 400
+Dealt to sabre_laser [9d Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+poulpe59 raises 800 to 1200
+STOY NOUMEA folds
+plombers folds
+Prool69 folds
+ROSARIO201 folds
+poulpe59 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Seat 6: poulpe59 won 2040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #529690456825528966-31-1436877228 - Holdem no limit (40/200/400) - 2015/07/14 12:33:48 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #3 is the button
+Seat 1: STOY NOUMEA (34006)
+Seat 2: plombers (8567)
+Seat 3: Prool69 (1040)
+Seat 4: ROSARIO201 (840)
+Seat 5: sabre_laser (17970)
+Seat 6: poulpe59 (8978)
+*** ANTE/BLINDS ***
+ROSARIO201 posts ante 40
+sabre_laser posts ante 40
+STOY NOUMEA posts ante 40
+plombers posts ante 40
+Prool69 posts ante 40
+poulpe59 posts ante 40
+ROSARIO201 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [8c Ks]
+*** PRE-FLOP *** 
+poulpe59 folds
+STOY NOUMEA folds
+plombers folds
+Prool69 folds
+ROSARIO201 folds
+sabre_laser collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 5: sabre_laser (big blind) won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #529690456825528966-32-1436877242 - Holdem no limit (40/200/400) - 2015/07/14 12:34:02 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #4 is the button
+Seat 1: STOY NOUMEA (33966)
+Seat 2: plombers (8527)
+Seat 3: Prool69 (1000)
+Seat 4: ROSARIO201 (600)
+Seat 5: sabre_laser (18370)
+Seat 6: poulpe59 (8938)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+poulpe59 posts ante 40
+STOY NOUMEA posts ante 40
+plombers posts ante 40
+Prool69 posts ante 40
+ROSARIO201 posts ante 40
+sabre_laser posts small blind 200
+poulpe59 posts big blind 400
+Dealt to sabre_laser [Ac Ts]
+*** PRE-FLOP *** 
+STOY NOUMEA calls 400
+plombers calls 400
+Prool69 folds
+ROSARIO201 folds
+sabre_laser calls 200
+poulpe59 checks
+*** FLOP *** [Ad Th 3s]
+sabre_laser checks
+poulpe59 checks
+STOY NOUMEA checks
+plombers checks
+*** TURN *** [Ad Th 3s][Jh]
+sabre_laser bets 920
+poulpe59 folds
+STOY NOUMEA calls 920
+plombers calls 920
+*** RIVER *** [Ad Th 3s Jh][Js]
+sabre_laser bets 2300
+STOY NOUMEA folds
+plombers raises 4867 to 7167 and is all-in
+sabre_laser calls 4867
+*** SHOW DOWN ***
+sabre_laser shows [Ac Ts] (Two pairs : Aces and Jacks)
+plombers shows [Jc 7h] (Trips of Jacks)
+plombers collected 18934 from pot
+*** SUMMARY ***
+Total pot 18934 | No rake
+Board: [Ad Th 3s Jh Js]
+Seat 2: plombers showed [Jc 7h] and won 18934 with Trips of Jacks
+Seat 5: sabre_laser (small blind) showed [Ac Ts] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #529690456825528966-33-1436877319 - Holdem no limit (40/200/400) - 2015/07/14 12:35:19 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #5 is the button
+Seat 1: STOY NOUMEA (32606)
+Seat 2: plombers (18934)
+Seat 3: Prool69 (960)
+Seat 4: ROSARIO201 (560)
+Seat 5: sabre_laser (9843)
+Seat 6: poulpe59 (8498)
+*** ANTE/BLINDS ***
+poulpe59 posts ante 40
+STOY NOUMEA posts ante 40
+plombers posts ante 40
+Prool69 posts ante 40
+ROSARIO201 posts ante 40
+sabre_laser posts ante 40
+poulpe59 posts small blind 200
+STOY NOUMEA posts big blind 400
+Dealt to sabre_laser [7s 6s]
+*** PRE-FLOP *** 
+plombers calls 400
+Prool69 folds
+ROSARIO201 folds
+sabre_laser calls 400
+poulpe59 calls 200
+STOY NOUMEA checks
+*** FLOP *** [Kd 3c 5h]
+poulpe59 checks
+STOY NOUMEA checks
+plombers checks
+sabre_laser checks
+*** TURN *** [Kd 3c 5h][6c]
+poulpe59 checks
+STOY NOUMEA checks
+plombers checks
+sabre_laser bets 400
+poulpe59 calls 400
+STOY NOUMEA calls 400
+plombers folds
+*** RIVER *** [Kd 3c 5h 6c][Th]
+poulpe59 checks
+STOY NOUMEA checks
+sabre_laser checks
+*** SHOW DOWN ***
+STOY NOUMEA shows [2s Ah] (High card : Ace)
+poulpe59 shows [4d 3d] (One pair : 3)
+sabre_laser shows [7s 6s] (One pair : 6)
+sabre_laser collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [Kd 3c 5h 6c Th]
+Seat 1: STOY NOUMEA (big blind) showed [2s Ah] and lost with High card : Ace
+Seat 5: sabre_laser (button) showed [7s 6s] and won 3040 with One pair : 6
+Seat 6: poulpe59 (small blind) showed [4d 3d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #529690456825528966-34-1436877373 - Holdem no limit (40/200/400) - 2015/07/14 12:36:13 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #6 is the button
+Seat 1: STOY NOUMEA (31766)
+Seat 2: plombers (18494)
+Seat 3: Prool69 (920)
+Seat 4: ROSARIO201 (520)
+Seat 5: sabre_laser (12043)
+Seat 6: poulpe59 (7658)
+*** ANTE/BLINDS ***
+STOY NOUMEA posts ante 40
+plombers posts ante 40
+Prool69 posts ante 40
+ROSARIO201 posts ante 40
+sabre_laser posts ante 40
+poulpe59 posts ante 40
+STOY NOUMEA posts small blind 200
+plombers posts big blind 400
+Dealt to sabre_laser [5h Qh]
+*** PRE-FLOP *** 
+Prool69 folds
+ROSARIO201 folds
+sabre_laser folds
+poulpe59 raises 800 to 1200
+STOY NOUMEA calls 1000
+plombers calls 800
+*** FLOP *** [Ts 9s Qd]
+STOY NOUMEA bets 3840
+plombers folds
+poulpe59 raises 2578 to 6418 and is all-in
+STOY NOUMEA calls 2578
+*** TURN *** [Ts 9s Qd][6h]
+*** RIVER *** [Ts 9s Qd 6h][Jh]
+*** SHOW DOWN ***
+STOY NOUMEA shows [8c Td] (Straight Queen high)
+poulpe59 shows [Ks Kh] (Straight King high)
+poulpe59 collected 16676 from pot
+*** SUMMARY ***
+Total pot 16676 | No rake
+Board: [Ts 9s Qd 6h Jh]
+Seat 1: STOY NOUMEA (small blind) showed [8c Td] and lost with Straight Queen high
+Seat 6: poulpe59 (button) showed [Ks Kh] and won 16676 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #529690456825528966-35-1436877412 - Holdem no limit (50/250/500) - 2015/07/14 12:36:52 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #1 is the button
+Seat 1: kolpiot (16795)
+Seat 2: plombers (17254)
+Seat 3: Prool69 (880)
+Seat 4: ROSARIO201 (480)
+Seat 5: sabre_laser (12003)
+Seat 6: poulpe59 (16676)
+*** ANTE/BLINDS ***
+plombers posts ante 50
+Prool69 posts ante 50
+ROSARIO201 posts ante 50
+sabre_laser posts ante 50
+poulpe59 posts ante 50
+plombers posts small blind 250
+Prool69 posts big blind 500
+Dealt to sabre_laser [3s 2d]
+*** PRE-FLOP *** 
+ROSARIO201 folds
+sabre_laser folds
+poulpe59 folds
+plombers calls 250
+Prool69 folds
+plombers collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 2: plombers (small blind) won 1250
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #529690456825528966-36-1436877427 - Holdem no limit (50/250/500) - 2015/07/14 12:37:07 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #2 is the button
+Seat 1: kolpiot (16795)
+Seat 2: plombers (17954)
+Seat 3: Prool69 (330)
+Seat 4: ROSARIO201 (430)
+Seat 5: sabre_laser (11953)
+Seat 6: poulpe59 (16626)
+*** ANTE/BLINDS ***
+Prool69 posts ante 50
+ROSARIO201 posts ante 50
+kolpiot posts ante 50
+plombers posts ante 50
+sabre_laser posts ante 50
+poulpe59 posts ante 50
+Prool69 posts small blind 250
+ROSARIO201 posts big blind 380 and is all-in
+Dealt to sabre_laser [Td 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+poulpe59 calls 500
+kolpiot raises 620 to 1000
+plombers raises 3430 to 4430
+Prool69 folds
+poulpe59 folds
+kolpiot calls 3430
+*** FLOP *** [7h 5h As]
+kolpiot bets 12315 and is all-in
+plombers calls 12315
+*** TURN *** [7h 5h As][Kd]
+*** RIVER *** [7h 5h As Kd][6s]
+*** SHOW DOWN ***
+plombers shows [Ad Qs] (One pair : Aces)
+ROSARIO201 shows [5s Ts] (One pair : 5)
+kolpiot shows [5d Ah] (Two pairs : Aces and 5)
+kolpiot collected 34920 from pot
+*** SUMMARY ***
+Total pot 34920 | No rake
+Board: [7h 5h As Kd 6s]
+Seat 1: kolpiot showed [5d Ah] and won 34920 with Two pairs : Aces and 5
+Seat 2: plombers (button) showed [Ad Qs] and lost with One pair : Aces
+Seat 4: ROSARIO201 (big blind) showed [5s Ts] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #529690456825528966-37-1436877471 - Holdem no limit (50/250/500) - 2015/07/14 12:37:51 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #3 is the button
+Seat 1: kolpiot (34920)
+Seat 2: plombers (1159)
+Seat 3: Prool69 (30)
+Seat 4: jim97437 (15920)
+Seat 5: sabre_laser (11903)
+Seat 6: poulpe59 (16076)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+kolpiot posts ante 50
+plombers posts ante 50
+Prool69 posts ante 30 and is all-in
+poulpe59 posts ante 50
+sabre_laser posts big blind 500
+Dealt to sabre_laser [Ac 7d]
+*** PRE-FLOP *** 
+poulpe59 folds
+kolpiot calls 500
+plombers folds
+sabre_laser checks
+*** FLOP *** [6h 2s Ah]
+sabre_laser bets 500
+kolpiot raises 500 to 1000
+sabre_laser raises 10353 to 11353 and is all-in
+kolpiot folds
+*** TURN *** [6h 2s Ah][Td]
+*** RIVER *** [6h 2s Ah Td][Jd]
+*** SHOW DOWN ***
+Prool69 shows [8d Ad] (One pair : Aces)
+sabre_laser shows [Ac 7d] (One pair : Aces)
+sabre_laser collected 13433 from side pot 1
+Prool69 collected 150 from main pot
+*** SUMMARY ***
+Total pot 13583 | No rake
+Board: [6h 2s Ah Td Jd]
+Seat 3: Prool69 (button) showed [8d Ad] and won 150 with One pair : Aces
+Seat 5: sabre_laser (big blind) showed [Ac 7d] and won 13433 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #529690456825528966-38-1436877512 - Holdem no limit (50/250/500) - 2015/07/14 12:38:32 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #4 is the button
+Seat 1: kolpiot (33370)
+Seat 2: plombers (1109)
+Seat 3: Prool69 (150)
+Seat 4: jim97437 (15920)
+Seat 5: sabre_laser (13433)
+Seat 6: poulpe59 (16026)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+poulpe59 posts ante 50
+kolpiot posts ante 50
+plombers posts ante 50
+Prool69 posts ante 50
+sabre_laser posts small blind 250
+poulpe59 posts big blind 500
+Dealt to sabre_laser [Ad 3s]
+*** PRE-FLOP *** 
+kolpiot calls 500
+plombers folds
+Prool69 folds
+sabre_laser calls 250
+poulpe59 checks
+*** FLOP *** [4c Ks 5s]
+sabre_laser checks
+poulpe59 checks
+kolpiot bets 500
+sabre_laser folds
+poulpe59 folds
+kolpiot collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [4c Ks 5s]
+Seat 1: kolpiot won 2250
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #529690456825528966-39-1436877546 - Holdem no limit (50/250/500) - 2015/07/14 12:39:06 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #5 is the button
+Seat 1: kolpiot (34570)
+Seat 2: plombers (1059)
+Seat 3: Prool69 (100)
+Seat 4: jim97437 (15920)
+Seat 5: sabre_laser (12883)
+Seat 6: poulpe59 (15476)
+*** ANTE/BLINDS ***
+poulpe59 posts ante 50
+kolpiot posts ante 50
+plombers posts ante 50
+Prool69 posts ante 50
+jim97437 posts ante 50
+sabre_laser posts ante 50
+poulpe59 posts small blind 250
+kolpiot posts big blind 500
+Dealt to sabre_laser [Ks Jd]
+*** PRE-FLOP *** 
+plombers raises 509 to 1009 and is all-in
+Prool69 folds
+jim97437 folds
+sabre_laser raises 11824 to 12833 and is all-in
+poulpe59 folds
+kolpiot folds
+*** FLOP *** [9s 2c 3c]
+*** TURN *** [9s 2c 3c][Qd]
+*** RIVER *** [9s 2c 3c Qd][3d]
+*** SHOW DOWN ***
+plombers shows [Ad 8d] (One pair : 3)
+sabre_laser shows [Ks Jd] (One pair : 3)
+sabre_laser collected 11824 from side pot 1
+plombers collected 3068 from main pot
+*** SUMMARY ***
+Total pot 14892 | No rake
+Board: [9s 2c 3c Qd 3d]
+Seat 2: plombers showed [Ad 8d] and won 3068 with One pair : 3
+Seat 5: sabre_laser (button) showed [Ks Jd] and won 11824 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #529690456825528966-40-1436877597 - Holdem no limit (70/300/600) - 2015/07/14 12:39:57 UTC
+Table: 'Freeroll(123328170)#645' 6-max (real money) Seat #6 is the button
+Seat 1: kolpiot (34020)
+Seat 2: plombers (3068)
+Seat 3: Prool69 (50)
+Seat 4: jim97437 (15870)
+Seat 5: sabre_laser (11824)
+Seat 6: poulpe59 (15176)
+*** ANTE/BLINDS ***
+kolpiot posts ante 70
+plombers posts ante 70
+Prool69 posts ante 50 and is all-in
+jim97437 posts ante 70
+sabre_laser posts ante 70
+poulpe59 posts ante 70
+kolpiot posts small blind 300
+plombers posts big blind 600
+Dealt to sabre_laser [As Th]
+*** PRE-FLOP *** 
+jim97437 folds
+sabre_laser raises 600 to 1200
+poulpe59 folds
+kolpiot calls 900
+plombers calls 600
+*** FLOP *** [Td Ac 6c]
+kolpiot bets 600
+plombers folds
+sabre_laser raises 9954 to 10554 and is all-in
+kolpiot calls 9954
+*** TURN *** [Td Ac 6c][4d]
+*** RIVER *** [Td Ac 6c 4d][5c]
+*** SHOW DOWN ***
+Prool69 shows [8c 2d] (High card : Ace)
+sabre_laser shows [As Th] (Two pairs : Aces and Tens)
+kolpiot shows [8s 7s] (Straight 8 high)
+kolpiot collected 25108 from pot
+*** SUMMARY ***
+Total pot 25108 | No rake
+Board: [Td Ac 6c 4d 5c]
+Seat 1: kolpiot (small blind) showed [8s 7s] and won 25108 with Straight 8 high
+Seat 3: Prool69 showed [8c 2d] and lost with High card : Ace
+Seat 5: sabre_laser showed [As Th] and lost with Two pairs : Aces and Tens
+
+

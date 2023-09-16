@@ -1,0 +1,1230 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #556688844586483713-1-1441406673 - Holdem no limit (10/20) - 2015/09/04 22:44:33 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1500)
+Seat 2: coeurt (1500)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1500)
+Seat 6: edelweiss87 (1500)
+Seat 7: titou9488 (1500)
+Seat 8: Y0Y0 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: dblnours (1500)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 10
+edelweiss87 posts big blind 20
+Dealt to sabre_laser [As 3c]
+*** PRE-FLOP *** 
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours calls 20
+jadedel folds
+coeurt calls 20
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 checks
+*** FLOP *** [8s 5c 9d]
+edelweiss87 checks
+dblnours bets 50
+coeurt folds
+edelweiss87 calls 50
+*** TURN *** [8s 5c 9d][Ts]
+edelweiss87 checks
+dblnours bets 60
+edelweiss87 calls 60
+*** RIVER *** [8s 5c 9d Ts][5d]
+edelweiss87 bets 290
+dblnours calls 290
+*** SHOW DOWN ***
+edelweiss87 shows [2h 7s] (One pair : 5)
+dblnours shows [Qc 9s] (Two pairs : 9 and 5)
+dblnours collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [8s 5c 9d Ts 5d]
+Seat 6: edelweiss87 (big blind) showed [2h 7s] and lost with One pair : 5
+Seat 10: dblnours showed [Qc 9s] and won 870 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #556688844586483713-2-1441406785 - Holdem no limit (10/20) - 2015/09/04 22:46:25 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1500)
+Seat 2: coeurt (1480)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1490)
+Seat 6: edelweiss87 (1080)
+Seat 7: titou9488 (1500)
+Seat 8: Y0Y0 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: dblnours (1950)
+*** ANTE/BLINDS ***
+edelweiss87 posts small blind 10
+titou9488 posts big blind 20
+Dealt to sabre_laser [4d 7h]
+*** PRE-FLOP *** 
+Y0Y0 folds
+sabre_laser folds
+dblnours raises 20 to 40
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 calls 30
+titou9488 folds
+*** FLOP *** [Qc 6c 7d]
+edelweiss87 bets 100
+dblnours folds
+edelweiss87 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qc 6c 7d]
+Seat 6: edelweiss87 (small blind) won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #556688844586483713-3-1441406882 - Holdem no limit (10/20) - 2015/09/04 22:48:02 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1500)
+Seat 2: coeurt (1480)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1490)
+Seat 6: edelweiss87 (1140)
+Seat 7: titou9488 (1480)
+Seat 8: Y0Y0 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: dblnours (1910)
+*** ANTE/BLINDS ***
+titou9488 posts small blind 10
+Y0Y0 posts big blind 20
+Dealt to sabre_laser [Qd 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+fan2Slash raises 50 to 70
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+fan2Slash collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 5: fan2Slash won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 0 - HandId: #556688844586483713-4-1441406963 - Holdem no limit (10/20) - 2015/09/04 22:49:23 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1500)
+Seat 2: coeurt (1480)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1520)
+Seat 6: edelweiss87 (1140)
+Seat 7: titou9488 (1470)
+Seat 8: Y0Y0 (1480)
+Seat 9: sabre_laser (1500)
+Seat 10: dblnours (1910)
+*** ANTE/BLINDS ***
+Y0Y0 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Jh 3h]
+*** PRE-FLOP *** 
+dblnours calls 20
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 calls 20
+titou9488 folds
+Y0Y0 calls 10
+sabre_laser checks
+*** FLOP *** [8d 6h Ks]
+Y0Y0 checks
+sabre_laser checks
+dblnours checks
+edelweiss87 checks
+*** TURN *** [8d 6h Ks][8h]
+Y0Y0 bets 40
+sabre_laser calls 40
+dblnours calls 40
+edelweiss87 folds
+*** RIVER *** [8d 6h Ks 8h][7h]
+Y0Y0 checks
+sabre_laser bets 60
+dblnours raises 100 to 160
+Y0Y0 folds
+sabre_laser calls 100
+*** SHOW DOWN ***
+sabre_laser shows [Jh 3h] (Flush Jack high)
+dblnours shows [2h Qh] (Flush Queen high)
+dblnours collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [8d 6h Ks 8h 7h]
+Seat 9: sabre_laser (big blind) showed [Jh 3h] and lost with Flush Jack high
+Seat 10: dblnours showed [2h Qh] and won 520 with Flush Queen high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #556688844586483713-5-1441407088 - Holdem no limit (15/30) - 2015/09/04 22:51:28 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1500)
+Seat 2: coeurt (1480)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1520)
+Seat 6: edelweiss87 (1120)
+Seat 7: titou9488 (1470)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1280)
+Seat 10: dblnours (2210)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+dblnours posts big blind 30
+Dealt to sabre_laser [4s Kc]
+*** PRE-FLOP *** 
+jadedel folds
+coeurt raises 30 to 60
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser calls 45
+dblnours calls 30
+*** FLOP *** [5h 3s 3c]
+sabre_laser bets 30
+dblnours folds
+coeurt calls 30
+*** TURN *** [5h 3s 3c][5c]
+sabre_laser bets 75
+coeurt folds
+sabre_laser collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [5h 3s 3c 5c]
+Seat 9: sabre_laser (small blind) won 315
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #556688844586483713-6-1441407158 - Holdem no limit (15/30) - 2015/09/04 22:52:38 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1500)
+Seat 2: coeurt (1390)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1520)
+Seat 6: edelweiss87 (1120)
+Seat 7: titou9488 (1470)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1430)
+Seat 10: dblnours (2150)
+*** ANTE/BLINDS ***
+dblnours posts small blind 15
+jadedel posts big blind 30
+Dealt to sabre_laser [2h 6d]
+*** PRE-FLOP *** 
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours calls 15
+jadedel checks
+*** FLOP *** [Tc Ah 8d]
+dblnours checks
+jadedel checks
+*** TURN *** [Tc Ah 8d][Jh]
+dblnours checks
+jadedel checks
+*** RIVER *** [Tc Ah 8d Jh][Qs]
+dblnours checks
+jadedel checks
+*** SHOW DOWN ***
+jadedel shows [5h 4s] (High card : Ace)
+dblnours shows [2d 3s] (High card : Ace)
+dblnours collected 30 from pot
+jadedel collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Tc Ah 8d Jh Qs]
+Seat 1: jadedel (big blind) showed [5h 4s] and won 30 with High card : Ace
+Seat 10: dblnours (small blind) showed [2d 3s] and won 30 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #556688844586483713-7-1441407243 - Holdem no limit (15/30) - 2015/09/04 22:54:03 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1500)
+Seat 2: coeurt (1390)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1520)
+Seat 6: edelweiss87 (1120)
+Seat 7: titou9488 (1470)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1430)
+Seat 10: dblnours (2150)
+*** ANTE/BLINDS ***
+jadedel posts small blind 15
+coeurt posts big blind 30
+Dealt to sabre_laser [6h 4c]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: coeurt (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 1 - HandId: #556688844586483713-8-1441407289 - Holdem no limit (15/30) - 2015/09/04 22:54:49 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1405)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1520)
+Seat 6: edelweiss87 (1120)
+Seat 7: titou9488 (1470)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1430)
+Seat 10: dblnours (2150)
+*** ANTE/BLINDS ***
+coeurt posts small blind 15
+L4B3LVi3 posts big blind 30
+Dealt to sabre_laser [4d 6d]
+*** PRE-FLOP *** 
+Malibx folds
+fan2Slash folds
+edelweiss87 calls 30
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours calls 30
+jadedel folds
+coeurt calls 15
+L4B3LVi3 checks
+*** FLOP *** [As 5s 7s]
+coeurt checks
+L4B3LVi3 checks
+edelweiss87 checks
+dblnours checks
+*** TURN *** [As 5s 7s][7h]
+coeurt checks
+L4B3LVi3 checks
+edelweiss87 checks
+dblnours checks
+*** RIVER *** [As 5s 7s 7h][Qd]
+coeurt checks
+L4B3LVi3 checks
+edelweiss87 checks
+dblnours checks
+*** SHOW DOWN ***
+coeurt shows [Ks Th] (One pair : 7)
+edelweiss87 shows [9c Jc] (One pair : 7)
+dblnours shows [8d 6h] (One pair : 7)
+L4B3LVi3 shows [3h Ac] (Two pairs : Aces and 7)
+L4B3LVi3 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [As 5s 7s 7h Qd]
+Seat 2: coeurt (small blind) showed [Ks Th] and lost with One pair : 7
+Seat 3: L4B3LVi3 (big blind) showed [3h Ac] and won 120 with Two pairs : Aces and 7
+Seat 6: edelweiss87 showed [9c Jc] and lost with One pair : 7
+Seat 10: dblnours showed [8d 6h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #556688844586483713-9-1441407425 - Holdem no limit (20/40) - 2015/09/04 22:57:05 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1590)
+Seat 4: Malibx (1500)
+Seat 5: fan2Slash (1520)
+Seat 6: edelweiss87 (1090)
+Seat 7: titou9488 (1470)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1430)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 20
+Malibx posts big blind 40
+Dealt to sabre_laser [Ts Jd]
+*** PRE-FLOP *** 
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser raises 60 to 100
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 9: sabre_laser won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #556688844586483713-10-1441407470 - Holdem no limit (20/40) - 2015/09/04 22:57:50 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #3 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 4: Malibx (1460)
+Seat 5: fan2Slash (1520)
+Seat 6: edelweiss87 (1090)
+Seat 7: titou9488 (1470)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1490)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+Malibx posts small blind 20
+fan2Slash posts big blind 40
+Dealt to sabre_laser [Jd 2h]
+*** PRE-FLOP *** 
+edelweiss87 calls 40
+titou9488 raises 120 to 160
+Y0Y0 folds
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 calls 120
+*** FLOP *** [2s 6s 8d]
+edelweiss87 bets 40
+titou9488 calls 40
+*** TURN *** [2s 6s 8d][Ad]
+edelweiss87 bets 40
+titou9488 raises 540 to 580
+edelweiss87 folds
+titou9488 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [2s 6s 8d Ad]
+Seat 7: titou9488 won 1080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #556688844586483713-11-1441407586 - Holdem no limit (20/40) - 2015/09/04 22:59:46 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #4 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 4: Malibx (1440)
+Seat 5: fan2Slash (1480)
+Seat 6: edelweiss87 (850)
+Seat 7: titou9488 (1770)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1490)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 20
+edelweiss87 posts big blind 40
+Dealt to sabre_laser [Ah Ts]
+*** PRE-FLOP *** 
+titou9488 folds
+Y0Y0 folds
+sabre_laser raises 80 to 120
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: sabre_laser won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #556688844586483713-12-1441407645 - Holdem no limit (20/40) - 2015/09/04 23:00:45 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 4: Malibx (1440)
+Seat 5: fan2Slash (1460)
+Seat 6: edelweiss87 (810)
+Seat 7: titou9488 (1770)
+Seat 8: Y0Y0 (1420)
+Seat 9: sabre_laser (1550)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+edelweiss87 posts small blind 20
+titou9488 posts big blind 40
+Dealt to sabre_laser [8s 5d]
+*** PRE-FLOP *** 
+Y0Y0 raises 80 to 120
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx calls 120
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+*** FLOP *** [Kc 9d 2h]
+Y0Y0 bets 200
+Malibx calls 200
+*** TURN *** [Kc 9d 2h][4h]
+Y0Y0 bets 467
+Malibx raises 653 to 1120 and is all-in
+Y0Y0 calls 633 and is all-in
+*** RIVER *** [Kc 9d 2h 4h][5s]
+*** SHOW DOWN ***
+Y0Y0 shows [Ks Qd] (One pair : Kings)
+Malibx shows [Qc Qh] (One pair : Queens)
+Malibx collected 20 from side pot 1
+Y0Y0 collected 2900 from main pot
+*** SUMMARY ***
+Total pot 2920 | No rake
+Board: [Kc 9d 2h 4h 5s]
+Seat 4: Malibx showed [Qc Qh] and won 20 with One pair : Queens
+Seat 8: Y0Y0 showed [Ks Qd] and won 2900 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 2 - HandId: #556688844586483713-13-1441407734 - Holdem no limit (20/40) - 2015/09/04 23:02:14 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 4: Malibx (20)
+Seat 5: fan2Slash (1460)
+Seat 6: edelweiss87 (790)
+Seat 7: titou9488 (1730)
+Seat 8: Y0Y0 (2900)
+Seat 9: sabre_laser (1550)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+titou9488 posts small blind 20
+Y0Y0 posts big blind 40
+Dealt to sabre_laser [9c Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx calls 20 and is all-in
+fan2Slash folds
+edelweiss87 calls 40
+titou9488 folds
+Y0Y0 checks
+*** FLOP *** [8c 9s 9h]
+Y0Y0 checks
+edelweiss87 bets 120
+Y0Y0 folds
+*** TURN *** [8c 9s 9h][8h]
+*** RIVER *** [8c 9s 9h 8h][5h]
+*** SHOW DOWN ***
+Malibx shows [4d Ac] (Two pairs : 9 and 8)
+edelweiss87 shows [As 3c] (Two pairs : 9 and 8)
+edelweiss87 collected 200 from side pot 1
+Malibx collected 40 from main pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c 9s 9h 8h 5h]
+Seat 4: Malibx showed [4d Ac] and won 40 with Two pairs : 9 and 8
+Seat 6: edelweiss87 (button) showed [As 3c] and won 200 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-14-1441407786 - Holdem no limit (30/60) - 2015/09/04 23:03:06 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 4: Malibx (40)
+Seat 5: fan2Slash (1460)
+Seat 6: edelweiss87 (830)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2860)
+Seat 9: sabre_laser (1550)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+Y0Y0 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Qh Ad]
+*** PRE-FLOP *** 
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx folds
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: sabre_laser (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-15-1441407825 - Holdem no limit (30/60) - 2015/09/04 23:03:45 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 4: Malibx (40)
+Seat 5: fan2Slash (1460)
+Seat 6: edelweiss87 (830)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2830)
+Seat 9: sabre_laser (1580)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+dblnours posts big blind 60
+Dealt to sabre_laser [Kd 6d]
+*** PRE-FLOP *** 
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+Malibx calls 40 and is all-in
+fan2Slash calls 60
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser calls 30
+dblnours checks
+*** FLOP *** [5s Qd Th]
+sabre_laser checks
+dblnours checks
+fan2Slash checks
+*** TURN *** [5s Qd Th][Ad]
+sabre_laser checks
+dblnours checks
+fan2Slash bets 150
+sabre_laser calls 150
+dblnours folds
+*** RIVER *** [5s Qd Th Ad][Ks]
+sabre_laser checks
+fan2Slash bets 1250 and is all-in
+sabre_laser folds
+*** SHOW DOWN ***
+Malibx shows [Kc Kh] (Trips of Kings)
+fan2Slash shows [As Jd] (Straight Ace high)
+fan2Slash collected 1770 from pot
+*** SUMMARY ***
+Total pot 1770 | No rake
+Board: [5s Qd Th Ad Ks]
+Seat 4: Malibx showed [Kc Kh] and lost with Trips of Kings
+Seat 5: fan2Slash showed [As Jd] and won 1770 with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-16-1441407914 - Holdem no limit (30/60) - 2015/09/04 23:05:14 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1485)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 5: fan2Slash (1770)
+Seat 6: edelweiss87 (830)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2830)
+Seat 9: sabre_laser (1370)
+Seat 10: dblnours (2060)
+*** ANTE/BLINDS ***
+dblnours posts small blind 30
+jadedel posts big blind 60
+Dealt to sabre_laser [3c Kh]
+*** PRE-FLOP *** 
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours raises 60 to 120
+jadedel folds
+dblnours collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 10: dblnours (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-17-1441407944 - Holdem no limit (30/60) - 2015/09/04 23:05:44 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1425)
+Seat 2: coeurt (1375)
+Seat 3: L4B3LVi3 (1570)
+Seat 5: fan2Slash (1770)
+Seat 6: edelweiss87 (830)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2830)
+Seat 9: sabre_laser (1370)
+Seat 10: dblnours (2120)
+*** ANTE/BLINDS ***
+jadedel posts small blind 30
+coeurt posts big blind 60
+Dealt to sabre_laser [Kd 8d]
+*** PRE-FLOP *** 
+L4B3LVi3 raises 60 to 120
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours calls 120
+jadedel folds
+coeurt folds
+*** FLOP *** [Kc 4d 6d]
+L4B3LVi3 checks
+dblnours bets 180
+L4B3LVi3 folds
+dblnours collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Kc 4d 6d]
+Seat 10: dblnours (button) won 510
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-18-1441407987 - Holdem no limit (30/60) - 2015/09/04 23:06:27 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (1315)
+Seat 3: L4B3LVi3 (1450)
+Seat 5: fan2Slash (1770)
+Seat 6: edelweiss87 (830)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2830)
+Seat 9: sabre_laser (1370)
+Seat 10: dblnours (2330)
+*** ANTE/BLINDS ***
+coeurt posts small blind 30
+L4B3LVi3 posts big blind 60
+Dealt to sabre_laser [Jc Jd]
+*** PRE-FLOP *** 
+fan2Slash folds
+edelweiss87 folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser raises 90 to 150
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: sabre_laser won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-19-1441408025 - Holdem no limit (30/60) - 2015/09/04 23:07:05 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (1285)
+Seat 3: L4B3LVi3 (1390)
+Seat 5: fan2Slash (1770)
+Seat 6: edelweiss87 (830)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2830)
+Seat 9: sabre_laser (1460)
+Seat 10: dblnours (2330)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 30
+fan2Slash posts big blind 60
+Dealt to sabre_laser [9h 9d]
+*** PRE-FLOP *** 
+edelweiss87 folds
+titou9488 folds
+Y0Y0 raises 120 to 180
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+Y0Y0 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 8: Y0Y0 won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-20-1441408058 - Holdem no limit (30/60) - 2015/09/04 23:07:38 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #3 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (1285)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1710)
+Seat 6: edelweiss87 (830)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2920)
+Seat 9: sabre_laser (1460)
+Seat 10: dblnours (2330)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 30
+edelweiss87 posts big blind 60
+Dealt to sabre_laser [6d 5c]
+*** PRE-FLOP *** 
+titou9488 folds
+Y0Y0 calls 60
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt calls 60
+L4B3LVi3 folds
+fan2Slash calls 30
+edelweiss87 checks
+*** FLOP *** [Ad 9h Jc]
+fan2Slash bets 60
+edelweiss87 folds
+Y0Y0 folds
+coeurt folds
+fan2Slash collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Ad 9h Jc]
+Seat 5: fan2Slash (small blind) won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 3 - HandId: #556688844586483713-21-1441408103 - Holdem no limit (30/60) - 2015/09/04 23:08:23 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (1225)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1890)
+Seat 6: edelweiss87 (770)
+Seat 7: titou9488 (1710)
+Seat 8: Y0Y0 (2860)
+Seat 9: sabre_laser (1460)
+Seat 10: dblnours (2330)
+*** ANTE/BLINDS ***
+edelweiss87 posts small blind 30
+titou9488 posts big blind 60
+Dealt to sabre_laser [Ks Ts]
+*** PRE-FLOP *** 
+Y0Y0 raises 120 to 180
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+edelweiss87 raises 590 to 770 and is all-in
+titou9488 folds
+Y0Y0 calls 590
+*** FLOP *** [4d 6s Ac]
+*** TURN *** [4d 6s Ac][Jh]
+*** RIVER *** [4d 6s Ac Jh][4h]
+*** SHOW DOWN ***
+edelweiss87 shows [Ah 7d] (Two pairs : Aces and 4)
+Y0Y0 shows [As Kd] (Two pairs : Aces and 4)
+Y0Y0 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [4d 6s Ac Jh 4h]
+Seat 6: edelweiss87 (small blind) showed [Ah 7d] and lost with Two pairs : Aces and 4
+Seat 8: Y0Y0 showed [As Kd] and won 1600 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #556688844586483713-22-1441408158 - Holdem no limit (40/80) - 2015/09/04 23:09:18 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #6 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (1225)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1890)
+Seat 7: titou9488 (1650)
+Seat 8: Y0Y0 (3690)
+Seat 9: sabre_laser (1460)
+Seat 10: dblnours (2330)
+*** ANTE/BLINDS ***
+titou9488 posts small blind 40
+Y0Y0 posts big blind 80
+Dealt to sabre_laser [Jc 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 folds
+Y0Y0 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: Y0Y0 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #556688844586483713-23-1441408191 - Holdem no limit (40/80) - 2015/09/04 23:09:51 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (1225)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1890)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (3730)
+Seat 9: sabre_laser (1460)
+Seat 10: dblnours (2330)
+*** ANTE/BLINDS ***
+Y0Y0 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Qs 5h]
+*** PRE-FLOP *** 
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 folds
+Y0Y0 calls 40
+sabre_laser checks
+*** FLOP *** [Qd 4c 8c]
+Y0Y0 bets 107
+sabre_laser calls 107
+*** TURN *** [Qd 4c 8c][3h]
+Y0Y0 bets 249
+sabre_laser calls 249
+*** RIVER *** [Qd 4c 8c 3h][7h]
+Y0Y0 bets 436
+sabre_laser calls 436
+*** SHOW DOWN ***
+sabre_laser shows [Qs 5h] (One pair : Queens)
+Y0Y0 shows [Jd Qc] (One pair : Queens)
+Y0Y0 collected 1744 from pot
+*** SUMMARY ***
+Total pot 1744 | No rake
+Board: [Qd 4c 8c 3h 7h]
+Seat 8: Y0Y0 (small blind) showed [Jd Qc] and won 1744 with One pair : Queens
+Seat 9: sabre_laser (big blind) showed [Qs 5h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #556688844586483713-24-1441408268 - Holdem no limit (40/80) - 2015/09/04 23:11:08 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (1225)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1890)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (4602)
+Seat 9: sabre_laser (588)
+Seat 10: dblnours (2330)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+dblnours posts big blind 80
+Dealt to sabre_laser [Ts 9h]
+*** PRE-FLOP *** 
+jadedel folds
+coeurt raises 80 to 160
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours calls 80
+*** FLOP *** [5d 3s 6s]
+dblnours checks
+coeurt bets 198
+dblnours raises 202 to 400
+coeurt folds
+dblnours collected 958 from pot
+*** SUMMARY ***
+Total pot 958 | No rake
+Board: [5d 3s 6s]
+Seat 10: dblnours (big blind) won 958
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #556688844586483713-25-1441408341 - Holdem no limit (40/80) - 2015/09/04 23:12:21 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1395)
+Seat 2: coeurt (867)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1890)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (4602)
+Seat 9: sabre_laser (548)
+Seat 10: dblnours (2728)
+*** ANTE/BLINDS ***
+dblnours posts small blind 40
+jadedel posts big blind 80
+Dealt to sabre_laser [6d Ks]
+*** PRE-FLOP *** 
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser raises 468 to 548 and is all-in
+dblnours folds
+jadedel folds
+sabre_laser collected 668 from pot
+*** SUMMARY ***
+Total pot 668 | No rake
+Seat 9: sabre_laser (button) won 668
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #556688844586483713-26-1441408394 - Holdem no limit (40/80) - 2015/09/04 23:13:14 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #10 is the button
+Seat 1: jadedel (1315)
+Seat 2: coeurt (867)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1890)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (4602)
+Seat 9: sabre_laser (668)
+Seat 10: dblnours (2688)
+*** ANTE/BLINDS ***
+jadedel posts small blind 40
+coeurt posts big blind 80
+Dealt to sabre_laser [Ad 5d]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 folds
+Y0Y0 raises 160 to 240
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+Y0Y0 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 8: Y0Y0 won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #556688844586483713-27-1441408434 - Holdem no limit (40/80) - 2015/09/04 23:13:54 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #1 is the button
+Seat 1: jadedel (1275)
+Seat 2: coeurt (787)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1890)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (4722)
+Seat 9: sabre_laser (668)
+Seat 10: dblnours (2688)
+*** ANTE/BLINDS ***
+coeurt posts small blind 40
+L4B3LVi3 posts big blind 80
+Dealt to sabre_laser [2d 8c]
+*** PRE-FLOP *** 
+fan2Slash folds
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: L4B3LVi3 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 4 - HandId: #556688844586483713-28-1441408456 - Holdem no limit (40/80) - 2015/09/04 23:14:16 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #2 is the button
+Seat 1: jadedel (1275)
+Seat 2: coeurt (747)
+Seat 3: L4B3LVi3 (1400)
+Seat 5: fan2Slash (1890)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (4722)
+Seat 9: sabre_laser (668)
+Seat 10: dblnours (2688)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 40
+fan2Slash posts big blind 80
+Dealt to sabre_laser [9s Jc]
+*** PRE-FLOP *** 
+titou9488 folds
+Y0Y0 folds
+sabre_laser folds
+dblnours raises 160 to 240
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash calls 160
+*** FLOP *** [8d 4d Js]
+fan2Slash checks
+dblnours bets 280
+fan2Slash folds
+dblnours collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [8d 4d Js]
+Seat 10: dblnours won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #556688844586483713-29-1441408507 - Holdem no limit (60/120) - 2015/09/04 23:15:07 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #3 is the button
+Seat 1: jadedel (1275)
+Seat 2: coeurt (747)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1650)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (4722)
+Seat 9: sabre_laser (668)
+Seat 10: dblnours (2968)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 60
+titou9488 posts big blind 120
+Dealt to sabre_laser [6s 9c]
+*** PRE-FLOP *** 
+Y0Y0 folds
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: titou9488 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #556688844586483713-30-1441408531 - Holdem no limit (60/120) - 2015/09/04 23:15:31 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #5 is the button
+Seat 1: jadedel (1275)
+Seat 2: coeurt (747)
+Seat 3: L4B3LVi3 (1360)
+Seat 5: fan2Slash (1590)
+Seat 7: titou9488 (1670)
+Seat 8: Y0Y0 (4722)
+Seat 9: sabre_laser (668)
+Seat 10: dblnours (2968)
+*** ANTE/BLINDS ***
+titou9488 posts small blind 60
+Y0Y0 posts big blind 120
+Dealt to sabre_laser [3d Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 raises 1240 to 1360 and is all-in
+fan2Slash folds
+titou9488 folds
+Y0Y0 folds
+L4B3LVi3 collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Seat 3: L4B3LVi3 won 1540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #556688844586483713-31-1441408559 - Holdem no limit (60/120) - 2015/09/04 23:15:59 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #7 is the button
+Seat 1: jadedel (1275)
+Seat 2: coeurt (747)
+Seat 3: L4B3LVi3 (1540)
+Seat 5: fan2Slash (1590)
+Seat 7: titou9488 (1610)
+Seat 8: Y0Y0 (4602)
+Seat 9: sabre_laser (668)
+Seat 10: dblnours (2968)
+*** ANTE/BLINDS ***
+Y0Y0 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [8c Ah]
+*** PRE-FLOP *** 
+dblnours folds
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 raises 1490 to 1610 and is all-in
+Y0Y0 folds
+sabre_laser calls 548 and is all-in
+*** FLOP *** [Ts 6d 4c]
+*** TURN *** [Ts 6d 4c][Jh]
+*** RIVER *** [Ts 6d 4c Jh][6h]
+*** SHOW DOWN ***
+sabre_laser shows [8c Ah] (One pair : 6)
+titou9488 shows [Ad 3c] (One pair : 6)
+titou9488 collected 1640 from side pot 1
+sabre_laser collected 698 from main pot
+*** SUMMARY ***
+Total pot 2338 | No rake
+Board: [Ts 6d 4c Jh 6h]
+Seat 7: titou9488 (button) showed [Ad 3c] and won 1640 with One pair : 6
+Seat 9: sabre_laser (big blind) showed [8c Ah] and won 698 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #556688844586483713-32-1441408623 - Holdem no limit (60/120) - 2015/09/04 23:17:03 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #8 is the button
+Seat 1: jadedel (1275)
+Seat 2: coeurt (747)
+Seat 3: L4B3LVi3 (1540)
+Seat 5: fan2Slash (1590)
+Seat 7: titou9488 (1640)
+Seat 8: Y0Y0 (4542)
+Seat 9: sabre_laser (698)
+Seat 10: dblnours (2968)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+dblnours posts big blind 120
+Dealt to sabre_laser [4d 6d]
+*** PRE-FLOP *** 
+jadedel folds
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 folds
+Y0Y0 raises 240 to 360
+sabre_laser folds
+dblnours folds
+Y0Y0 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 8: Y0Y0 (button) won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,92€ + 0,08€ level: 5 - HandId: #556688844586483713-33-1441408666 - Holdem no limit (60/120) - 2015/09/04 23:17:46 UTC
+Table: 'Double or Nothing(129614222)#0' 10-max (real money) Seat #9 is the button
+Seat 1: jadedel (1275)
+Seat 2: coeurt (747)
+Seat 3: L4B3LVi3 (1540)
+Seat 5: fan2Slash (1590)
+Seat 7: titou9488 (1640)
+Seat 8: Y0Y0 (4722)
+Seat 9: sabre_laser (638)
+Seat 10: dblnours (2848)
+*** ANTE/BLINDS ***
+dblnours posts small blind 60
+jadedel posts big blind 120
+Dealt to sabre_laser [9c Kc]
+*** PRE-FLOP *** 
+coeurt folds
+L4B3LVi3 folds
+fan2Slash folds
+titou9488 folds
+Y0Y0 raises 240 to 360
+sabre_laser raises 278 to 638 and is all-in
+dblnours folds
+jadedel folds
+Y0Y0 calls 278
+*** FLOP *** [4d Qd 5s]
+*** TURN *** [4d Qd 5s][Kd]
+*** RIVER *** [4d Qd 5s Kd][2d]
+*** SHOW DOWN ***
+sabre_laser shows [9c Kc] (One pair : Kings)
+Y0Y0 shows [Jd Ac] (Flush King high)
+Y0Y0 collected 1456 from pot
+*** SUMMARY ***
+Total pot 1456 | No rake
+Board: [4d Qd 5s Kd 2d]
+Seat 8: Y0Y0 showed [Jd Ac] and won 1456 with Flush King high
+Seat 9: sabre_laser (button) showed [9c Kc] and lost with One pair : Kings
+
+

@@ -1,0 +1,881 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #662763099299774465-1-1459447125 - Holdem no limit (10/20) - 2016/03/31 17:58:45 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 10Vall-In (1500)
+Seat 2: DEMONNB1 (1500)
+Seat 3: TheKriska (1500)
+Seat 4: Kaliente69 (1500)
+Seat 5: vudici (1500)
+Seat 6: Richard51 (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: oceanetof (1500)
+Seat 9: elpio (1500)
+Seat 10: tipisson (1500)
+*** ANTE/BLINDS ***
+tipisson posts small blind 10
+10Vall-In posts big blind 20
+Dealt to sabre_laser [8d Ks]
+*** PRE-FLOP *** 
+DEMONNB1 calls 20
+TheKriska folds
+Kaliente69 folds
+vudici calls 20
+Richard51 calls 20
+sabre_laser calls 20
+oceanetof folds
+elpio folds
+tipisson calls 10
+10Vall-In checks
+*** FLOP *** [6s 7s 7h]
+tipisson checks
+10Vall-In checks
+DEMONNB1 bets 150
+vudici raises 150 to 300
+Richard51 folds
+sabre_laser folds
+tipisson folds
+10Vall-In folds
+DEMONNB1 calls 150
+*** TURN *** [6s 7s 7h][4c]
+DEMONNB1 checks
+vudici bets 1180 and is all-in
+DEMONNB1 calls 1180 and is all-in
+*** RIVER *** [6s 7s 7h 4c][3h]
+*** SHOW DOWN ***
+vudici shows [7d Ah] (Trips of 7)
+DEMONNB1 shows [As 5s] (Straight 7 high)
+DEMONNB1 collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [6s 7s 7h 4c 3h]
+Seat 2: DEMONNB1 showed [As 5s] and won 3080 with Straight 7 high
+Seat 5: vudici showed [7d Ah] and lost with Trips of 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #662763099299774465-2-1459447317 - Holdem no limit (10/20) - 2016/03/31 18:01:57 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 10Vall-In (1480)
+Seat 2: DEMONNB1 (3080)
+Seat 3: TheKriska (1500)
+Seat 4: Kaliente69 (1500)
+Seat 6: Richard51 (1480)
+Seat 7: sabre_laser (1480)
+Seat 8: oceanetof (1500)
+Seat 9: elpio (1500)
+Seat 10: tipisson (1480)
+*** ANTE/BLINDS ***
+10Vall-In posts small blind 10
+DEMONNB1 posts big blind 20
+Dealt to sabre_laser [6h 3c]
+*** PRE-FLOP *** 
+TheKriska folds
+Kaliente69 calls 20
+Richard51 calls 20
+sabre_laser folds
+oceanetof folds
+elpio folds
+tipisson calls 20
+10Vall-In calls 10
+DEMONNB1 checks
+*** FLOP *** [Td Kc 3s]
+10Vall-In bets 50
+DEMONNB1 folds
+Kaliente69 folds
+Richard51 calls 50
+tipisson folds
+*** TURN *** [Td Kc 3s][3h]
+10Vall-In bets 100
+Richard51 calls 100
+*** RIVER *** [Td Kc 3s 3h][Jh]
+10Vall-In checks
+Richard51 checks
+*** SHOW DOWN ***
+Richard51 shows [Qs Ts] (Two pairs : Tens and 3)
+10Vall-In shows [Kh Th] (Two pairs : Kings and Tens)
+10Vall-In collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Td Kc 3s 3h Jh]
+Seat 1: 10Vall-In (small blind) showed [Kh Th] and won 400 with Two pairs : Kings and Tens
+Seat 6: Richard51 showed [Qs Ts] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #662763099299774465-3-1459447413 - Holdem no limit (10/20) - 2016/03/31 18:03:33 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (3060)
+Seat 3: TheKriska (1500)
+Seat 4: Kaliente69 (1480)
+Seat 6: Richard51 (1310)
+Seat 7: sabre_laser (1480)
+Seat 8: oceanetof (1500)
+Seat 9: elpio (1500)
+Seat 10: tipisson (1460)
+*** ANTE/BLINDS ***
+DEMONNB1 posts small blind 10
+TheKriska posts big blind 20
+Dealt to sabre_laser [3c Td]
+*** PRE-FLOP *** 
+Kaliente69 calls 20
+Richard51 folds
+sabre_laser folds
+oceanetof folds
+elpio folds
+tipisson folds
+10Vall-In folds
+DEMONNB1 calls 10
+TheKriska checks
+*** FLOP *** [4d Tc Js]
+DEMONNB1 bets 90
+TheKriska calls 90
+Kaliente69 folds
+*** TURN *** [4d Tc Js][Ad]
+DEMONNB1 checks
+TheKriska checks
+*** RIVER *** [4d Tc Js Ad][3h]
+DEMONNB1 bets 100
+TheKriska raises 160 to 260
+DEMONNB1 calls 160
+*** SHOW DOWN ***
+DEMONNB1 shows [8d Jd] (One pair : Jacks)
+TheKriska shows [Ah Ts] (Two pairs : Aces and Tens)
+TheKriska collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [4d Tc Js Ad 3h]
+Seat 2: DEMONNB1 (small blind) showed [8d Jd] and lost with One pair : Jacks
+Seat 3: TheKriska (big blind) showed [Ah Ts] and won 760 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #662763099299774465-4-1459447499 - Holdem no limit (10/20) - 2016/03/31 18:04:59 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (2690)
+Seat 3: TheKriska (1890)
+Seat 4: Kaliente69 (1460)
+Seat 6: Richard51 (1310)
+Seat 7: sabre_laser (1480)
+Seat 8: oceanetof (1500)
+Seat 9: elpio (1500)
+Seat 10: tipisson (1460)
+*** ANTE/BLINDS ***
+TheKriska posts small blind 10
+Kaliente69 posts big blind 20
+Dealt to sabre_laser [6d 5c]
+*** PRE-FLOP *** 
+Richard51 calls 20
+sabre_laser folds
+oceanetof folds
+elpio folds
+tipisson folds
+10Vall-In folds
+DEMONNB1 calls 20
+TheKriska calls 10
+Kaliente69 checks
+*** FLOP *** [9s 9c Tc]
+TheKriska checks
+Kaliente69 checks
+Richard51 checks
+DEMONNB1 bets 30
+TheKriska folds
+Kaliente69 calls 30
+Richard51 calls 30
+*** TURN *** [9s 9c Tc][8h]
+Kaliente69 checks
+Richard51 checks
+DEMONNB1 checks
+*** RIVER *** [9s 9c Tc 8h][Jd]
+Kaliente69 bets 170
+Richard51 calls 170
+DEMONNB1 calls 170
+*** SHOW DOWN ***
+DEMONNB1 shows [7d Ad] (Straight Jack high)
+Richard51 shows [Jc 7c] (Straight Jack high)
+Kaliente69 shows [5s Qs] (Straight Queen high)
+Kaliente69 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [9s 9c Tc 8h Jd]
+Seat 2: DEMONNB1 (button) showed [7d Ad] and lost with Straight Jack high
+Seat 4: Kaliente69 (big blind) showed [5s Qs] and won 680 with Straight Queen high
+Seat 6: Richard51 showed [Jc 7c] and lost with Straight Jack high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #662763099299774465-5-1459447599 - Holdem no limit (10/20) - 2016/03/31 18:06:39 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (2470)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (1920)
+Seat 6: Richard51 (1090)
+Seat 7: sabre_laser (1480)
+Seat 8: oceanetof (1500)
+Seat 9: elpio (1500)
+Seat 10: tipisson (1460)
+*** ANTE/BLINDS ***
+Kaliente69 posts small blind 10
+Richard51 posts big blind 20
+Dealt to sabre_laser [4c Qd]
+*** PRE-FLOP *** 
+sabre_laser folds
+oceanetof folds
+elpio calls 20
+tipisson folds
+10Vall-In folds
+DEMONNB1 folds
+TheKriska folds
+Kaliente69 folds
+Richard51 checks
+*** FLOP *** [As Js Jc]
+Richard51 checks
+elpio bets 20
+Richard51 folds
+elpio collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [As Js Jc]
+Seat 9: elpio won 70
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #662763099299774465-6-1459447656 - Holdem no limit (15/30) - 2016/03/31 18:07:36 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (2470)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (1910)
+Seat 6: Richard51 (1070)
+Seat 7: sabre_laser (1480)
+Seat 8: oceanetof (1500)
+Seat 9: elpio (1530)
+Seat 10: tipisson (1460)
+*** ANTE/BLINDS ***
+Richard51 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [3d 7c]
+*** PRE-FLOP *** 
+oceanetof folds
+elpio folds
+tipisson raises 75 to 105
+10Vall-In folds
+DEMONNB1 folds
+TheKriska folds
+Kaliente69 folds
+Richard51 folds
+sabre_laser folds
+tipisson collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 10: tipisson won 150
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #662763099299774465-7-1459447676 - Holdem no limit (15/30) - 2016/03/31 18:07:56 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (2470)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (1910)
+Seat 6: Richard51 (1055)
+Seat 7: sabre_laser (1450)
+Seat 8: oceanetof (1500)
+Seat 9: elpio (1530)
+Seat 10: tipisson (1505)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+oceanetof posts big blind 30
+Dealt to sabre_laser [3d Ac]
+*** PRE-FLOP *** 
+elpio calls 30
+tipisson folds
+10Vall-In folds
+DEMONNB1 folds
+TheKriska folds
+Kaliente69 folds
+Richard51 folds
+sabre_laser raises 60 to 90
+oceanetof calls 60
+elpio calls 60
+*** FLOP *** [4h 7h 5d]
+sabre_laser bets 195
+oceanetof folds
+elpio raises 255 to 450
+sabre_laser folds
+elpio collected 915 from pot
+*** SUMMARY ***
+Total pot 915 | No rake
+Board: [4h 7h 5d]
+Seat 9: elpio won 915
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #662763099299774465-8-1459447758 - Holdem no limit (15/30) - 2016/03/31 18:09:18 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #7 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (2470)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (1910)
+Seat 6: Richard51 (1055)
+Seat 7: sabre_laser (1165)
+Seat 8: oceanetof (1410)
+Seat 9: elpio (1905)
+Seat 10: tipisson (1505)
+*** ANTE/BLINDS ***
+oceanetof posts small blind 15
+elpio posts big blind 30
+Dealt to sabre_laser [5h 8c]
+*** PRE-FLOP *** 
+tipisson folds
+10Vall-In folds
+DEMONNB1 folds
+TheKriska folds
+Kaliente69 folds
+Richard51 folds
+sabre_laser folds
+oceanetof folds
+elpio collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 9: elpio (big blind) won 45
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #662763099299774465-9-1459447789 - Holdem no limit (15/30) - 2016/03/31 18:09:49 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (2470)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (1910)
+Seat 6: Richard51 (1055)
+Seat 7: sabre_laser (1165)
+Seat 8: oceanetof (1395)
+Seat 9: elpio (1920)
+Seat 10: tipisson (1505)
+*** ANTE/BLINDS ***
+elpio posts small blind 15
+tipisson posts big blind 30
+Dealt to sabre_laser [Ad 8c]
+*** PRE-FLOP *** 
+10Vall-In folds
+DEMONNB1 calls 30
+TheKriska folds
+Kaliente69 folds
+Richard51 folds
+sabre_laser calls 30
+oceanetof folds
+elpio calls 15
+tipisson checks
+*** FLOP *** [3d 6c Kh]
+elpio checks
+tipisson checks
+DEMONNB1 bets 105
+sabre_laser folds
+elpio folds
+tipisson folds
+DEMONNB1 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [3d 6c Kh]
+Seat 2: DEMONNB1 won 225
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #662763099299774465-10-1459447867 - Holdem no limit (15/30) - 2016/03/31 18:11:07 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 10Vall-In (1710)
+Seat 2: DEMONNB1 (2560)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (1910)
+Seat 6: Richard51 (1055)
+Seat 7: sabre_laser (1135)
+Seat 8: oceanetof (1395)
+Seat 9: elpio (1890)
+Seat 10: tipisson (1475)
+*** ANTE/BLINDS ***
+tipisson posts small blind 15
+10Vall-In posts big blind 30
+Dealt to sabre_laser [Qd 7h]
+*** PRE-FLOP *** 
+DEMONNB1 folds
+TheKriska folds
+Kaliente69 calls 30
+Richard51 calls 30
+sabre_laser folds
+oceanetof folds
+elpio folds
+tipisson calls 15
+10Vall-In checks
+*** FLOP *** [Jh 8c 7d]
+tipisson checks
+10Vall-In checks
+Kaliente69 checks
+Richard51 checks
+*** TURN *** [Jh 8c 7d][2d]
+tipisson checks
+10Vall-In checks
+Kaliente69 checks
+Richard51 checks
+*** RIVER *** [Jh 8c 7d 2d][4c]
+tipisson checks
+10Vall-In checks
+Kaliente69 checks
+Richard51 bets 30
+tipisson calls 30
+10Vall-In folds
+Kaliente69 folds
+*** SHOW DOWN ***
+tipisson shows [9d 7c] (One pair : 7)
+Richard51 shows [Qc 7s] (One pair : 7)
+Richard51 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jh 8c 7d 2d 4c]
+Seat 6: Richard51 showed [Qc 7s] and won 180 with One pair : 7
+Seat 10: tipisson (small blind) showed [9d 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #662763099299774465-11-1459447973 - Holdem no limit (15/30) - 2016/03/31 18:12:53 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 10Vall-In (1680)
+Seat 2: DEMONNB1 (2560)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (1880)
+Seat 6: Richard51 (1175)
+Seat 7: sabre_laser (1135)
+Seat 8: oceanetof (1395)
+Seat 9: elpio (1890)
+Seat 10: tipisson (1415)
+*** ANTE/BLINDS ***
+10Vall-In posts small blind 15
+DEMONNB1 posts big blind 30
+Dealt to sabre_laser [2h 8h]
+*** PRE-FLOP *** 
+TheKriska folds
+Kaliente69 raises 60 to 90
+Richard51 calls 90
+sabre_laser folds
+oceanetof folds
+elpio folds
+tipisson calls 90
+10Vall-In folds
+DEMONNB1 calls 60
+*** FLOP *** [5d 5c 3d]
+DEMONNB1 checks
+Kaliente69 bets 203
+Richard51 calls 203
+tipisson folds
+DEMONNB1 folds
+*** TURN *** [5d 5c 3d][7d]
+Kaliente69 bets 86
+Richard51 calls 86
+*** RIVER *** [5d 5c 3d 7d][Qs]
+Kaliente69 bets 922
+Richard51 calls 796 and is all-in
+*** SHOW DOWN ***
+Richard51 shows [8d Qd] (Flush Queen high)
+Kaliente69 shows [Kd Ah] (One pair : 5)
+Kaliente69 collected 126 from side pot 1
+Richard51 collected 2545 from main pot
+*** SUMMARY ***
+Total pot 2671 | No rake
+Board: [5d 5c 3d 7d Qs]
+Seat 4: Kaliente69 showed [Kd Ah] and won 126 with One pair : 5
+Seat 6: Richard51 showed [8d Qd] and won 2545 with Flush Queen high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #662763099299774465-12-1459448052 - Holdem no limit (15/30) - 2016/03/31 18:14:12 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #1 is the button
+Seat 1: 10Vall-In (1665)
+Seat 2: DEMONNB1 (2470)
+Seat 3: TheKriska (1870)
+Seat 4: Kaliente69 (705)
+Seat 6: Richard51 (2545)
+Seat 7: sabre_laser (1135)
+Seat 8: oceanetof (1395)
+Seat 9: elpio (1890)
+Seat 10: tipisson (1325)
+*** ANTE/BLINDS ***
+DEMONNB1 posts small blind 15
+TheKriska posts big blind 30
+Dealt to sabre_laser [7d 4c]
+*** PRE-FLOP *** 
+Kaliente69 folds
+Richard51 calls 30
+sabre_laser folds
+oceanetof folds
+elpio calls 30
+tipisson folds
+10Vall-In calls 30
+DEMONNB1 folds
+TheKriska checks
+*** FLOP *** [9c Js Td]
+TheKriska checks
+Richard51 bets 30
+elpio folds
+10Vall-In calls 30
+TheKriska calls 30
+*** TURN *** [9c Js Td][6c]
+TheKriska checks
+Richard51 bets 30
+10Vall-In calls 30
+TheKriska calls 30
+*** RIVER *** [9c Js Td 6c][Qh]
+TheKriska checks
+Richard51 bets 30
+10Vall-In folds
+TheKriska folds
+Richard51 collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [9c Js Td 6c Qh]
+Seat 6: Richard51 won 345
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #662763099299774465-13-1459448199 - Holdem no limit (20/40) - 2016/03/31 18:16:39 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #2 is the button
+Seat 1: 10Vall-In (1575)
+Seat 2: DEMONNB1 (2455)
+Seat 3: TheKriska (1780)
+Seat 4: Kaliente69 (705)
+Seat 6: Richard51 (2770)
+Seat 7: sabre_laser (1135)
+Seat 8: oceanetof (1395)
+Seat 9: elpio (1860)
+Seat 10: tipisson (1325)
+*** ANTE/BLINDS ***
+TheKriska posts small blind 20
+Kaliente69 posts big blind 40
+Dealt to sabre_laser [2c 8d]
+*** PRE-FLOP *** 
+Richard51 folds
+sabre_laser folds
+oceanetof folds
+elpio folds
+tipisson folds
+10Vall-In folds
+DEMONNB1 raises 2415 to 2455 and is all-in
+TheKriska folds
+Kaliente69 calls 665 and is all-in
+*** FLOP *** [8s As 6h]
+*** TURN *** [8s As 6h][3s]
+*** RIVER *** [8s As 6h 3s][6c]
+*** SHOW DOWN ***
+Kaliente69 shows [Kd 2d] (One pair : 6)
+DEMONNB1 shows [Jh Jc] (Two pairs : Jacks and 6)
+DEMONNB1 collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [8s As 6h 3s 6c]
+Seat 2: DEMONNB1 (button) showed [Jh Jc] and won 3180 with Two pairs : Jacks and 6
+Seat 4: Kaliente69 (big blind) showed [Kd 2d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #662763099299774465-14-1459448278 - Holdem no limit (20/40) - 2016/03/31 18:17:58 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #3 is the button
+Seat 1: 10Vall-In (1575)
+Seat 2: DEMONNB1 (3180)
+Seat 3: TheKriska (1760)
+Seat 6: Richard51 (2770)
+Seat 7: sabre_laser (1135)
+Seat 8: oceanetof (1395)
+Seat 9: elpio (1860)
+Seat 10: tipisson (1325)
+*** ANTE/BLINDS ***
+Richard51 posts big blind 40
+Dealt to sabre_laser [Jc 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+oceanetof raises 80 to 120
+elpio folds
+tipisson folds
+10Vall-In folds
+DEMONNB1 calls 120
+TheKriska folds
+Richard51 calls 80
+*** FLOP *** [4c 4s 2c]
+Richard51 checks
+oceanetof bets 360
+DEMONNB1 raises 760 to 1120
+Richard51 folds
+oceanetof raises 155 to 1275 and is all-in
+DEMONNB1 calls 155
+*** TURN *** [4c 4s 2c][3s]
+*** RIVER *** [4c 4s 2c 3s][Qd]
+*** SHOW DOWN ***
+DEMONNB1 shows [Tc Ad] (One pair : 4)
+oceanetof shows [Kh Kd] (Two pairs : Kings and 4)
+oceanetof collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | No rake
+Board: [4c 4s 2c 3s Qd]
+Seat 2: DEMONNB1 showed [Tc Ad] and lost with One pair : 4
+Seat 8: oceanetof showed [Kh Kd] and won 2910 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #662763099299774465-15-1459448359 - Holdem no limit (20/40) - 2016/03/31 18:19:19 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #4 is the button
+Seat 1: 10Vall-In (1575)
+Seat 2: DEMONNB1 (1785)
+Seat 3: TheKriska (1760)
+Seat 6: Richard51 (2650)
+Seat 7: sabre_laser (1135)
+Seat 8: oceanetof (2910)
+Seat 9: elpio (1860)
+Seat 10: tipisson (1325)
+*** ANTE/BLINDS ***
+Richard51 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Qs 4h]
+*** PRE-FLOP *** 
+oceanetof folds
+elpio raises 40 to 80
+tipisson folds
+10Vall-In folds
+DEMONNB1 calls 80
+TheKriska folds
+Richard51 folds
+sabre_laser folds
+*** FLOP *** [Jc Kd 5c]
+elpio bets 110
+DEMONNB1 calls 110
+*** TURN *** [Jc Kd 5c][8s]
+elpio bets 220
+DEMONNB1 calls 220
+*** RIVER *** [Jc Kd 5c 8s][3c]
+elpio bets 440
+DEMONNB1 raises 440 to 880
+elpio calls 440
+*** SHOW DOWN ***
+elpio shows [Ad Ah] (One pair : Aces)
+DEMONNB1 shows [3s Ks] (Two pairs : Kings and 3)
+DEMONNB1 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [Jc Kd 5c 8s 3c]
+Seat 2: DEMONNB1 showed [3s Ks] and won 2640 with Two pairs : Kings and 3
+Seat 9: elpio showed [Ad Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #662763099299774465-16-1459448425 - Holdem no limit (20/40) - 2016/03/31 18:20:25 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #6 is the button
+Seat 1: 10Vall-In (1575)
+Seat 2: DEMONNB1 (3135)
+Seat 3: TheKriska (1760)
+Seat 6: Richard51 (2630)
+Seat 7: sabre_laser (1095)
+Seat 8: oceanetof (2910)
+Seat 9: elpio (570)
+Seat 10: tipisson (1325)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+oceanetof posts big blind 40
+Dealt to sabre_laser [6h Kd]
+*** PRE-FLOP *** 
+elpio folds
+tipisson folds
+10Vall-In calls 40
+DEMONNB1 folds
+TheKriska calls 40
+Richard51 folds
+sabre_laser calls 20
+oceanetof checks
+*** FLOP *** [8s 6s 5d]
+sabre_laser bets 160
+oceanetof folds
+10Vall-In folds
+TheKriska folds
+sabre_laser collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [8s 6s 5d]
+Seat 7: sabre_laser (small blind) won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #662763099299774465-17-1459448504 - Holdem no limit (20/40) - 2016/03/31 18:21:44 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #7 is the button
+Seat 1: 10Vall-In (1535)
+Seat 2: DEMONNB1 (3135)
+Seat 3: TheKriska (1720)
+Seat 6: Richard51 (2630)
+Seat 7: sabre_laser (1215)
+Seat 8: oceanetof (2870)
+Seat 9: elpio (570)
+Seat 10: tipisson (1325)
+*** ANTE/BLINDS ***
+oceanetof posts small blind 20
+elpio posts big blind 40
+Dealt to sabre_laser [3s Td]
+*** PRE-FLOP *** 
+tipisson folds
+10Vall-In raises 80 to 120
+DEMONNB1 raises 480 to 600
+TheKriska folds
+Richard51 folds
+sabre_laser folds
+oceanetof folds
+elpio calls 530 and is all-in
+10Vall-In folds
+*** FLOP *** [Ad Kc 6s]
+*** TURN *** [Ad Kc 6s][2s]
+*** RIVER *** [Ad Kc 6s 2s][8d]
+*** SHOW DOWN ***
+elpio shows [8c 8s] (Trips of 8)
+DEMONNB1 shows [Tc Ac] (One pair : Aces)
+DEMONNB1 collected 30 from side pot 1
+elpio collected 1280 from main pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Board: [Ad Kc 6s 2s 8d]
+Seat 2: DEMONNB1 showed [Tc Ac] and won 30 with One pair : Aces
+Seat 9: elpio (big blind) showed [8c 8s] and won 1280 with Trips of 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #662763099299774465-18-1459448547 - Holdem no limit (20/40) - 2016/03/31 18:22:27 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #8 is the button
+Seat 1: 10Vall-In (1415)
+Seat 2: DEMONNB1 (2565)
+Seat 3: TheKriska (1720)
+Seat 6: Richard51 (2630)
+Seat 7: sabre_laser (1215)
+Seat 8: oceanetof (2850)
+Seat 9: elpio (1280)
+Seat 10: tipisson (1325)
+*** ANTE/BLINDS ***
+elpio posts small blind 20
+tipisson posts big blind 40
+Dealt to sabre_laser [Jc Qd]
+*** PRE-FLOP *** 
+10Vall-In folds
+DEMONNB1 folds
+TheKriska folds
+Richard51 calls 40
+sabre_laser folds
+oceanetof folds
+elpio calls 20
+tipisson checks
+*** FLOP *** [Kc 9s Jd]
+elpio checks
+tipisson checks
+Richard51 bets 40
+elpio folds
+tipisson folds
+Richard51 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kc 9s Jd]
+Seat 6: Richard51 won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #662763099299774465-19-1459448617 - Holdem no limit (30/60) - 2016/03/31 18:23:37 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #9 is the button
+Seat 1: 10Vall-In (1415)
+Seat 2: DEMONNB1 (2565)
+Seat 3: TheKriska (1720)
+Seat 6: Richard51 (2710)
+Seat 7: sabre_laser (1215)
+Seat 8: oceanetof (2850)
+Seat 9: elpio (1240)
+Seat 10: tipisson (1285)
+*** ANTE/BLINDS ***
+tipisson posts small blind 30
+10Vall-In posts big blind 60
+Dealt to sabre_laser [Kh Jd]
+*** PRE-FLOP *** 
+DEMONNB1 folds
+TheKriska folds
+Richard51 folds
+sabre_laser raises 120 to 180
+oceanetof folds
+elpio folds
+tipisson folds
+10Vall-In folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 7: sabre_laser won 270
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #662763099299774465-20-1459448647 - Holdem no limit (30/60) - 2016/03/31 18:24:07 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #10 is the button
+Seat 1: 10Vall-In (1355)
+Seat 2: DEMONNB1 (2565)
+Seat 3: TheKriska (1720)
+Seat 6: Richard51 (2710)
+Seat 7: sabre_laser (1305)
+Seat 8: oceanetof (2850)
+Seat 9: elpio (1240)
+Seat 10: tipisson (1255)
+*** ANTE/BLINDS ***
+10Vall-In posts small blind 30
+DEMONNB1 posts big blind 60
+Dealt to sabre_laser [8s Kc]
+*** PRE-FLOP *** 
+TheKriska folds
+Richard51 calls 60
+sabre_laser folds
+oceanetof folds
+elpio folds
+tipisson folds
+10Vall-In calls 30
+DEMONNB1 raises 60 to 120
+Richard51 calls 60
+10Vall-In calls 60
+*** FLOP *** [Th 6c 2s]
+10Vall-In bets 240
+DEMONNB1 calls 240
+Richard51 folds
+*** TURN *** [Th 6c 2s][6d]
+10Vall-In checks
+DEMONNB1 checks
+*** RIVER *** [Th 6c 2s 6d][3h]
+10Vall-In bets 560
+DEMONNB1 raises 560 to 1120
+10Vall-In calls 435 and is all-in
+*** SHOW DOWN ***
+10Vall-In shows [Jc Tc] (Two pairs : Tens and 6)
+DEMONNB1 shows [5h 4h] (Straight 6 high)
+DEMONNB1 collected 2955 from pot
+*** SUMMARY ***
+Total pot 2955 | No rake
+Board: [Th 6c 2s 6d 3h]
+Seat 1: 10Vall-In (small blind) showed [Jc Tc] and lost with Two pairs : Tens and 6
+Seat 2: DEMONNB1 (big blind) showed [5h 4h] and won 2955 with Straight 6 high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #662763099299774465-21-1459448763 - Holdem no limit (30/60) - 2016/03/31 18:26:03 UTC
+Table: 'No Limit Hold'em(154311559)#0' 10-max (real money) Seat #1 is the button
+Seat 2: DEMONNB1 (4040)
+Seat 3: TheKriska (1720)
+Seat 6: Richard51 (2590)
+Seat 7: sabre_laser (1305)
+Seat 8: oceanetof (2850)
+Seat 9: elpio (1240)
+Seat 10: tipisson (1255)
+*** ANTE/BLINDS ***
+DEMONNB1 posts small blind 30
+TheKriska posts big blind 60
+Dealt to sabre_laser [Tc Ac]
+*** PRE-FLOP *** 
+Richard51 folds
+sabre_laser calls 60
+oceanetof folds
+elpio folds
+tipisson folds
+DEMONNB1 calls 30
+TheKriska checks
+*** FLOP *** [5h 5d 9s]
+DEMONNB1 checks
+TheKriska checks
+sabre_laser checks
+*** TURN *** [5h 5d 9s][5c]
+DEMONNB1 bets 360
+TheKriska folds
+sabre_laser calls 360
+*** RIVER *** [5h 5d 9s 5c][8h]
+DEMONNB1 bets 2070
+sabre_laser calls 885 and is all-in
+*** SHOW DOWN ***
+sabre_laser shows [Tc Ac] (Trips of 5)
+DEMONNB1 shows [6c 8c] (Full of 5 and 8)
+DEMONNB1 collected 3855 from pot
+*** SUMMARY ***
+Total pot 3855 | No rake
+Board: [5h 5d 9s 5c 8h]
+Seat 2: DEMONNB1 (small blind) showed [6c 8c] and won 3855 with Full of 5 and 8
+Seat 7: sabre_laser showed [Tc Ac] and lost with Trips of 5
+
+

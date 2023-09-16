@@ -1,0 +1,2309 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560461977650987009-1-1442058098 - Holdem no limit (10/20) - 2015/09/12 11:41:38 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: mafalex (1500)
+Seat 4: juvamine84 (1500)
+Seat 5: kundolap (1500)
+Seat 6: 71l1kum (1500)
+Seat 7: lepjon77 (1500)
+Seat 8: Tag.H (1500)
+Seat 9: EAGLE TWO (1500)
+Seat 10: koraly14 (1500)
+*** ANTE/BLINDS ***
+mafalex posts small blind 10
+juvamine84 posts big blind 20
+Dealt to sabre_laser [Kd 7s]
+*** PRE-FLOP *** 
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO calls 20
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+mafalex folds
+juvamine84 checks
+*** FLOP *** [4c Ks 5d]
+juvamine84 checks
+EAGLE TWO checks
+*** TURN *** [4c Ks 5d][Tc]
+juvamine84 checks
+EAGLE TWO checks
+*** RIVER *** [4c Ks 5d Tc][8c]
+juvamine84 checks
+EAGLE TWO checks
+*** SHOW DOWN ***
+juvamine84 shows [Js 3h] (High card : King)
+EAGLE TWO shows [Jd 7d] (High card : King)
+EAGLE TWO collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [4c Ks 5d Tc 8c]
+Seat 4: juvamine84 (big blind) showed [Js 3h] and lost with High card : King
+Seat 9: EAGLE TWO showed [Jd 7d] and won 50 with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560461977650987009-2-1442058178 - Holdem no limit (10/20) - 2015/09/12 11:42:58 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: mafalex (1490)
+Seat 4: juvamine84 (1480)
+Seat 5: kundolap (1500)
+Seat 6: 71l1kum (1500)
+Seat 7: lepjon77 (1500)
+Seat 8: Tag.H (1500)
+Seat 9: EAGLE TWO (1530)
+Seat 10: koraly14 (1500)
+*** ANTE/BLINDS ***
+juvamine84 posts small blind 10
+kundolap posts big blind 20
+Dealt to sabre_laser [Ac 9s]
+*** PRE-FLOP *** 
+71l1kum raises 20 to 40
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+mafalex calls 40
+juvamine84 folds
+kundolap folds
+*** FLOP *** [4c Qc 3d]
+71l1kum bets 60
+mafalex folds
+71l1kum collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [4c Qc 3d]
+Seat 6: 71l1kum won 170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560461977650987009-3-1442058229 - Holdem no limit (10/20) - 2015/09/12 11:43:49 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: mafalex (1450)
+Seat 4: juvamine84 (1470)
+Seat 5: kundolap (1480)
+Seat 6: 71l1kum (1570)
+Seat 7: lepjon77 (1500)
+Seat 8: Tag.H (1500)
+Seat 9: EAGLE TWO (1530)
+Seat 10: koraly14 (1500)
+*** ANTE/BLINDS ***
+kundolap posts small blind 10
+71l1kum posts big blind 20
+Dealt to sabre_laser [2h 9d]
+*** PRE-FLOP *** 
+lepjon77 folds
+Tag.H calls 20
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+mafalex calls 20
+juvamine84 folds
+kundolap calls 10
+71l1kum checks
+*** FLOP *** [6c Jd Jc]
+kundolap checks
+71l1kum checks
+Tag.H checks
+mafalex bets 20
+kundolap calls 20
+71l1kum folds
+Tag.H calls 20
+*** TURN *** [6c Jd Jc][8h]
+kundolap checks
+Tag.H checks
+mafalex checks
+*** RIVER *** [6c Jd Jc 8h][3c]
+kundolap checks
+Tag.H checks
+mafalex checks
+*** SHOW DOWN ***
+mafalex shows [Qh Kd] (One pair : Jacks)
+Tag.H shows [4s 4h] (Two pairs : Jacks and 4)
+kundolap shows [9h Jh] (Trips of Jacks)
+kundolap collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6c Jd Jc 8h 3c]
+Seat 3: mafalex showed [Qh Kd] and lost with One pair : Jacks
+Seat 5: kundolap (small blind) showed [9h Jh] and won 140 with Trips of Jacks
+Seat 8: Tag.H showed [4s 4h] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560461977650987009-4-1442058340 - Holdem no limit (10/20) - 2015/09/12 11:45:40 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: mafalex (1410)
+Seat 4: juvamine84 (1470)
+Seat 5: kundolap (1580)
+Seat 6: 71l1kum (1550)
+Seat 7: lepjon77 (1500)
+Seat 8: Tag.H (1460)
+Seat 9: EAGLE TWO (1530)
+Seat 10: koraly14 (1500)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 10
+lepjon77 posts big blind 20
+Dealt to sabre_laser [Jd 8s]
+*** PRE-FLOP *** 
+Tag.H folds
+EAGLE TWO folds
+koraly14 raises 20 to 40
+Galderian31 folds
+sabre_laser folds
+mafalex folds
+juvamine84 raises 138 to 178
+kundolap folds
+71l1kum folds
+lepjon77 folds
+koraly14 calls 138
+*** FLOP *** [Kd 9c Th]
+koraly14 checks
+juvamine84 bets 1292 and is all-in
+koraly14 calls 1292
+*** TURN *** [Kd 9c Th][Ad]
+*** RIVER *** [Kd 9c Th Ad][Qs]
+*** SHOW DOWN ***
+juvamine84 shows [6d 6c] (One pair : 6)
+koraly14 shows [Kc Qc] (Two pairs : Kings and Queens)
+koraly14 collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | No rake
+Board: [Kd 9c Th Ad Qs]
+Seat 4: juvamine84 showed [6d 6c] and lost with One pair : 6
+Seat 10: koraly14 showed [Kc Qc] and won 2970 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #560461977650987009-5-1442058390 - Holdem no limit (10/20) - 2015/09/12 11:46:30 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: mafalex (1410)
+Seat 5: kundolap (1580)
+Seat 6: 71l1kum (1540)
+Seat 7: lepjon77 (1480)
+Seat 8: Tag.H (1460)
+Seat 9: EAGLE TWO (1530)
+Seat 10: koraly14 (3000)
+*** ANTE/BLINDS ***
+lepjon77 posts small blind 10
+Tag.H posts big blind 20
+Dealt to sabre_laser [7c 7d]
+*** PRE-FLOP *** 
+EAGLE TWO raises 60 to 80
+koraly14 folds
+Galderian31 folds
+sabre_laser calls 80
+mafalex folds
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+*** FLOP *** [Jc 5c 4h]
+EAGLE TWO checks
+sabre_laser bets 95
+EAGLE TWO calls 95
+*** TURN *** [Jc 5c 4h][9d]
+EAGLE TWO checks
+sabre_laser checks
+*** RIVER *** [Jc 5c 4h 9d][8h]
+EAGLE TWO checks
+sabre_laser checks
+*** SHOW DOWN ***
+EAGLE TWO shows [Qd Kc] (High card : King)
+sabre_laser shows [7c 7d] (One pair : 7)
+sabre_laser collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Jc 5c 4h 9d 8h]
+Seat 2: sabre_laser showed [7c 7d] and won 380 with One pair : 7
+Seat 9: EAGLE TWO showed [Qd Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560461977650987009-6-1442058456 - Holdem no limit (15/30) - 2015/09/12 11:47:36 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1705)
+Seat 3: mafalex (1410)
+Seat 5: kundolap (1580)
+Seat 6: 71l1kum (1540)
+Seat 7: lepjon77 (1470)
+Seat 8: Tag.H (1440)
+Seat 9: EAGLE TWO (1355)
+Seat 10: koraly14 (3000)
+*** ANTE/BLINDS ***
+Tag.H posts small blind 15
+EAGLE TWO posts big blind 30
+Dealt to sabre_laser [2c As]
+*** PRE-FLOP *** 
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+mafalex calls 30
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO raises 300 to 330
+mafalex calls 300
+*** FLOP *** [9d 6d Kh]
+EAGLE TWO checks
+mafalex bets 30
+EAGLE TWO calls 30
+*** TURN *** [9d 6d Kh][7d]
+EAGLE TWO checks
+mafalex bets 551
+EAGLE TWO raises 444 to 995 and is all-in
+mafalex calls 444
+*** RIVER *** [9d 6d Kh 7d][Ac]
+*** SHOW DOWN ***
+mafalex shows [Ah Js] (One pair : Aces)
+EAGLE TWO shows [Kc Kd] (Trips of Kings)
+EAGLE TWO collected 2725 from pot
+*** SUMMARY ***
+Total pot 2725 | No rake
+Board: [9d 6d Kh 7d Ac]
+Seat 3: mafalex showed [Ah Js] and lost with One pair : Aces
+Seat 9: EAGLE TWO (big blind) showed [Kc Kd] and won 2725 with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560461977650987009-7-1442058519 - Holdem no limit (15/30) - 2015/09/12 11:48:39 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1705)
+Seat 3: mafalex (55)
+Seat 5: kundolap (1580)
+Seat 6: 71l1kum (1540)
+Seat 7: lepjon77 (1470)
+Seat 8: Tag.H (1425)
+Seat 9: EAGLE TWO (2725)
+Seat 10: koraly14 (3000)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 15
+koraly14 posts big blind 30
+Dealt to sabre_laser [5d 2c]
+*** PRE-FLOP *** 
+Galderian31 folds
+sabre_laser folds
+mafalex folds
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H calls 30
+EAGLE TWO calls 15
+koraly14 checks
+*** FLOP *** [5c Jh 5s]
+EAGLE TWO checks
+koraly14 checks
+Tag.H checks
+*** TURN *** [5c Jh 5s][6s]
+EAGLE TWO bets 45
+koraly14 calls 45
+Tag.H folds
+*** RIVER *** [5c Jh 5s 6s][8c]
+EAGLE TWO bets 180
+koraly14 calls 180
+*** SHOW DOWN ***
+koraly14 shows [9h 9s] (Two pairs : 9 and 5)
+EAGLE TWO shows [8h 8s] (Full of 8 and 5)
+EAGLE TWO collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [5c Jh 5s 6s 8c]
+Seat 9: EAGLE TWO (small blind) showed [8h 8s] and won 540 with Full of 8 and 5
+Seat 10: koraly14 (big blind) showed [9h 9s] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560461977650987009-8-1442058606 - Holdem no limit (15/30) - 2015/09/12 11:50:06 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1500)
+Seat 2: sabre_laser (1705)
+Seat 3: mafalex (55)
+Seat 5: kundolap (1580)
+Seat 6: 71l1kum (1540)
+Seat 7: lepjon77 (1470)
+Seat 8: Tag.H (1395)
+Seat 9: EAGLE TWO (3010)
+Seat 10: koraly14 (2745)
+*** ANTE/BLINDS ***
+koraly14 posts small blind 15
+Galderian31 posts big blind 30
+Dealt to sabre_laser [2h 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+mafalex folds
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H calls 30
+EAGLE TWO calls 30
+koraly14 folds
+Galderian31 checks
+*** FLOP *** [Qs 8s 8h]
+Galderian31 checks
+Tag.H bets 30
+EAGLE TWO calls 30
+Galderian31 folds
+*** TURN *** [Qs 8s 8h][Qd]
+Tag.H bets 30
+EAGLE TWO calls 30
+*** RIVER *** [Qs 8s 8h Qd][3h]
+Tag.H bets 30
+EAGLE TWO calls 30
+*** SHOW DOWN ***
+Tag.H shows [Jd 7d] (Two pairs : Queens and 8)
+EAGLE TWO shows [5s Ac] (Two pairs : Queens and 8)
+EAGLE TWO collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Board: [Qs 8s 8h Qd 3h]
+Seat 8: Tag.H showed [Jd 7d] and lost with Two pairs : Queens and 8
+Seat 9: EAGLE TWO (button) showed [5s Ac] and won 285 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560461977650987009-9-1442058694 - Holdem no limit (15/30) - 2015/09/12 11:51:34 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1470)
+Seat 2: sabre_laser (1705)
+Seat 3: mafalex (55)
+Seat 5: kundolap (1580)
+Seat 6: 71l1kum (1540)
+Seat 7: lepjon77 (1470)
+Seat 8: Tag.H (1275)
+Seat 9: EAGLE TWO (3175)
+Seat 10: koraly14 (2730)
+*** ANTE/BLINDS ***
+Galderian31 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Kh 2d]
+*** PRE-FLOP *** 
+mafalex raises 25 to 55 and is all-in
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser calls 25
+*** FLOP *** [Ad Kd 8h]
+*** TURN *** [Ad Kd 8h][Qh]
+*** RIVER *** [Ad Kd 8h Qh][Ks]
+*** SHOW DOWN ***
+mafalex shows [5c 5d] (Two pairs : Kings and 5)
+sabre_laser shows [Kh 2d] (Trips of Kings)
+sabre_laser collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [Ad Kd 8h Qh Ks]
+Seat 2: sabre_laser (big blind) showed [Kh 2d] and won 125 with Trips of Kings
+Seat 3: mafalex showed [5c 5d] and lost with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #560461977650987009-10-1442058740 - Holdem no limit (15/30) - 2015/09/12 11:52:20 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1455)
+Seat 2: sabre_laser (1775)
+Seat 5: kundolap (1580)
+Seat 6: 71l1kum (1540)
+Seat 7: lepjon77 (1470)
+Seat 8: Tag.H (1275)
+Seat 9: EAGLE TWO (3175)
+Seat 10: koraly14 (2730)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+kundolap posts big blind 30
+Dealt to sabre_laser [8c 8d]
+*** PRE-FLOP *** 
+71l1kum raises 45 to 75
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 calls 75
+sabre_laser calls 60
+kundolap folds
+*** FLOP *** [Kd 5c 6h]
+sabre_laser checks
+71l1kum bets 105
+Galderian31 folds
+sabre_laser folds
+71l1kum collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kd 5c 6h]
+Seat 6: 71l1kum won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560461977650987009-11-1442058842 - Holdem no limit (20/40) - 2015/09/12 11:54:02 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (1700)
+Seat 5: kundolap (1550)
+Seat 6: 71l1kum (1720)
+Seat 7: lepjon77 (1470)
+Seat 8: Tag.H (1275)
+Seat 9: EAGLE TWO (3175)
+Seat 10: koraly14 (2730)
+*** ANTE/BLINDS ***
+kundolap posts small blind 20
+71l1kum posts big blind 40
+Dealt to sabre_laser [Tc Js]
+*** PRE-FLOP *** 
+lepjon77 folds
+Tag.H folds
+EAGLE TWO calls 40
+koraly14 folds
+Galderian31 folds
+sabre_laser calls 40
+kundolap calls 20
+71l1kum checks
+*** FLOP *** [5d 9c 8c]
+kundolap checks
+71l1kum bets 160
+EAGLE TWO folds
+sabre_laser calls 160
+kundolap folds
+*** TURN *** [5d 9c 8c][Kd]
+71l1kum bets 240
+sabre_laser calls 240
+*** RIVER *** [5d 9c 8c Kd][3h]
+71l1kum bets 480
+sabre_laser folds
+71l1kum collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [5d 9c 8c Kd 3h]
+Seat 6: 71l1kum (big blind) won 1440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560461977650987009-12-1442058909 - Holdem no limit (20/40) - 2015/09/12 11:55:09 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (1260)
+Seat 5: kundolap (1510)
+Seat 6: 71l1kum (2240)
+Seat 7: lepjon77 (1470)
+Seat 8: Tag.H (1275)
+Seat 9: EAGLE TWO (3135)
+Seat 10: koraly14 (2730)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 20
+lepjon77 posts big blind 40
+Dealt to sabre_laser [8c Kd]
+*** PRE-FLOP *** 
+Tag.H calls 40
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+kundolap folds
+71l1kum calls 20
+lepjon77 checks
+*** FLOP *** [8d Tc 4c]
+71l1kum checks
+lepjon77 checks
+Tag.H checks
+*** TURN *** [8d Tc 4c][2c]
+71l1kum checks
+lepjon77 checks
+Tag.H checks
+*** RIVER *** [8d Tc 4c 2c][Qh]
+71l1kum bets 60
+lepjon77 calls 60
+Tag.H folds
+*** SHOW DOWN ***
+lepjon77 shows [2h Ts] (Two pairs : Tens and 2)
+71l1kum shows [Qc Kc] (Flush King high)
+71l1kum collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8d Tc 4c 2c Qh]
+Seat 6: 71l1kum (small blind) showed [Qc Kc] and won 240 with Flush King high
+Seat 7: lepjon77 (big blind) showed [2h Ts] and lost with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560461977650987009-13-1442058957 - Holdem no limit (20/40) - 2015/09/12 11:55:57 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (1260)
+Seat 5: kundolap (1510)
+Seat 6: 71l1kum (2380)
+Seat 7: lepjon77 (1370)
+Seat 8: Tag.H (1235)
+Seat 9: EAGLE TWO (3135)
+Seat 10: koraly14 (2730)
+*** ANTE/BLINDS ***
+lepjon77 posts small blind 20
+Tag.H posts big blind 40
+Dealt to sabre_laser [4d Ad]
+*** PRE-FLOP *** 
+EAGLE TWO folds
+koraly14 raises 40 to 80
+Galderian31 folds
+sabre_laser folds
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+koraly14 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 10: koraly14 won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560461977650987009-14-1442058982 - Holdem no limit (20/40) - 2015/09/12 11:56:22 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (1260)
+Seat 5: kundolap (1510)
+Seat 6: 71l1kum (2380)
+Seat 7: lepjon77 (1350)
+Seat 8: Tag.H (1195)
+Seat 9: EAGLE TWO (3135)
+Seat 10: koraly14 (2790)
+*** ANTE/BLINDS ***
+Tag.H posts small blind 20
+EAGLE TWO posts big blind 40
+Dealt to sabre_laser [Kh 9h]
+*** PRE-FLOP *** 
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+kundolap raises 80 to 120
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+kundolap collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 5: kundolap won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560461977650987009-15-1442059018 - Holdem no limit (20/40) - 2015/09/12 11:56:58 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (1260)
+Seat 5: kundolap (1570)
+Seat 6: 71l1kum (2380)
+Seat 7: lepjon77 (1350)
+Seat 8: Tag.H (1175)
+Seat 9: EAGLE TWO (3095)
+Seat 10: koraly14 (2790)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 20
+koraly14 posts big blind 40
+Dealt to sabre_laser [3c 5d]
+*** PRE-FLOP *** 
+Galderian31 folds
+sabre_laser folds
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H raises 40 to 80
+EAGLE TWO folds
+koraly14 calls 40
+*** FLOP *** [9h 7c 9d]
+koraly14 checks
+Tag.H bets 80
+koraly14 calls 80
+*** TURN *** [9h 7c 9d][3h]
+koraly14 checks
+Tag.H bets 80
+koraly14 calls 80
+*** RIVER *** [9h 7c 9d 3h][Th]
+koraly14 checks
+Tag.H bets 40
+koraly14 calls 40
+*** SHOW DOWN ***
+Tag.H shows [Qc Kd] (One pair : 9)
+koraly14 shows [Ad Qs] (One pair : 9)
+koraly14 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [9h 7c 9d 3h Th]
+Seat 8: Tag.H (button) showed [Qc Kd] and lost with One pair : 9
+Seat 10: koraly14 (big blind) showed [Ad Qs] and won 580 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560461977650987009-16-1442059067 - Holdem no limit (20/40) - 2015/09/12 11:57:47 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (1260)
+Seat 5: kundolap (1570)
+Seat 6: 71l1kum (2380)
+Seat 7: lepjon77 (1350)
+Seat 8: Tag.H (895)
+Seat 9: EAGLE TWO (3075)
+Seat 10: koraly14 (3090)
+*** ANTE/BLINDS ***
+koraly14 posts small blind 20
+Galderian31 posts big blind 40
+Dealt to sabre_laser [8s 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H raises 60 to 100
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+Tag.H collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 8: Tag.H won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #560461977650987009-17-1442059109 - Holdem no limit (20/40) - 2015/09/12 11:58:29 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1340)
+Seat 2: sabre_laser (1260)
+Seat 5: kundolap (1570)
+Seat 6: 71l1kum (2380)
+Seat 7: lepjon77 (1350)
+Seat 8: Tag.H (955)
+Seat 9: EAGLE TWO (3075)
+Seat 10: koraly14 (3070)
+*** ANTE/BLINDS ***
+Galderian31 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Th 4d]
+*** PRE-FLOP *** 
+kundolap folds
+71l1kum folds
+lepjon77 folds
+Tag.H calls 40
+EAGLE TWO folds
+koraly14 folds
+Galderian31 calls 20
+sabre_laser checks
+*** FLOP *** [3c Ah 7d]
+Galderian31 checks
+sabre_laser checks
+Tag.H checks
+*** TURN *** [3c Ah 7d][2d]
+Galderian31 checks
+sabre_laser bets 120
+Tag.H calls 120
+Galderian31 raises 200 to 320
+sabre_laser folds
+Tag.H folds
+Galderian31 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3c Ah 7d 2d]
+Seat 1: Galderian31 (small blind) won 680
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560461977650987009-18-1442059224 - Holdem no limit (30/60) - 2015/09/12 12:00:24 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1100)
+Seat 5: kundolap (1570)
+Seat 6: 71l1kum (2380)
+Seat 7: lepjon77 (1350)
+Seat 8: Tag.H (795)
+Seat 9: EAGLE TWO (3075)
+Seat 10: koraly14 (3070)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+kundolap posts big blind 60
+Dealt to sabre_laser [Js Jc]
+*** PRE-FLOP *** 
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO calls 60
+koraly14 folds
+Galderian31 folds
+sabre_laser calls 30
+kundolap checks
+*** FLOP *** [4c 7d 4d]
+sabre_laser bets 180
+kundolap folds
+EAGLE TWO folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [4c 7d 4d]
+Seat 2: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560461977650987009-19-1442059275 - Holdem no limit (30/60) - 2015/09/12 12:01:15 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1220)
+Seat 5: kundolap (1510)
+Seat 6: 71l1kum (2380)
+Seat 7: lepjon77 (1350)
+Seat 8: Tag.H (795)
+Seat 9: EAGLE TWO (3015)
+Seat 10: koraly14 (3070)
+*** ANTE/BLINDS ***
+kundolap posts small blind 30
+71l1kum posts big blind 60
+Dealt to sabre_laser [Kh 7d]
+*** PRE-FLOP *** 
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser raises 120 to 180
+kundolap folds
+71l1kum folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: sabre_laser (button) won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560461977650987009-20-1442059320 - Holdem no limit (30/60) - 2015/09/12 12:02:00 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1310)
+Seat 5: kundolap (1480)
+Seat 6: 71l1kum (2320)
+Seat 7: lepjon77 (1350)
+Seat 8: Tag.H (795)
+Seat 9: EAGLE TWO (3015)
+Seat 10: koraly14 (3070)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 30
+lepjon77 posts big blind 60
+Dealt to sabre_laser [Qh Jd]
+*** PRE-FLOP *** 
+Tag.H folds
+EAGLE TWO calls 60
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+kundolap calls 60
+71l1kum raises 180 to 240
+lepjon77 folds
+EAGLE TWO calls 180
+kundolap calls 180
+*** FLOP *** [Kh 7d Qs]
+71l1kum bets 390
+EAGLE TWO folds
+kundolap calls 390
+*** TURN *** [Kh 7d Qs][Kd]
+71l1kum bets 330
+kundolap raises 520 to 850 and is all-in
+71l1kum calls 520
+*** RIVER *** [Kh 7d Qs Kd][Jh]
+*** SHOW DOWN ***
+kundolap shows [Qd As] (Two pairs : Kings and Queens)
+71l1kum shows [Ks Ac] (Trips of Kings)
+71l1kum collected 3260 from pot
+*** SUMMARY ***
+Total pot 3260 | No rake
+Board: [Kh 7d Qs Kd Jh]
+Seat 5: kundolap (button) showed [Qd As] and lost with Two pairs : Kings and Queens
+Seat 6: 71l1kum (small blind) showed [Ks Ac] and won 3260 with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560461977650987009-21-1442059400 - Holdem no limit (30/60) - 2015/09/12 12:03:20 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1310)
+Seat 6: 71l1kum (4100)
+Seat 7: lepjon77 (1290)
+Seat 8: Tag.H (795)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (3070)
+*** ANTE/BLINDS ***
+lepjon77 posts small blind 30
+Tag.H posts big blind 60
+Dealt to sabre_laser [Kc 2c]
+*** PRE-FLOP *** 
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 8: Tag.H (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560461977650987009-22-1442059415 - Holdem no limit (30/60) - 2015/09/12 12:03:35 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1310)
+Seat 6: 71l1kum (4100)
+Seat 7: lepjon77 (1260)
+Seat 8: Tag.H (825)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (3070)
+*** ANTE/BLINDS ***
+Tag.H posts small blind 30
+EAGLE TWO posts big blind 60
+Dealt to sabre_laser [8s 3d]
+*** PRE-FLOP *** 
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: EAGLE TWO (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560461977650987009-23-1442059434 - Holdem no limit (30/60) - 2015/09/12 12:03:54 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1310)
+Seat 6: 71l1kum (4100)
+Seat 7: lepjon77 (1260)
+Seat 8: Tag.H (795)
+Seat 9: EAGLE TWO (2805)
+Seat 10: koraly14 (3070)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 30
+koraly14 posts big blind 60
+Dealt to sabre_laser [6s 3d]
+*** PRE-FLOP *** 
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H raises 90 to 150
+EAGLE TWO folds
+koraly14 calls 90
+*** FLOP *** [Qs 8c Qc]
+koraly14 checks
+Tag.H bets 150
+koraly14 calls 150
+*** TURN *** [Qs 8c Qc][Kc]
+koraly14 checks
+Tag.H checks
+*** RIVER *** [Qs 8c Qc Kc][8s]
+koraly14 checks
+Tag.H checks
+*** SHOW DOWN ***
+Tag.H shows [7h Ad] (Two pairs : Queens and 8)
+koraly14 shows [Kh Jc] (Two pairs : Kings and Queens)
+koraly14 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qs 8c Qc Kc 8s]
+Seat 8: Tag.H (button) showed [7h Ad] and lost with Two pairs : Queens and 8
+Seat 10: koraly14 (big blind) showed [Kh Jc] and won 630 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #560461977650987009-24-1442059489 - Holdem no limit (30/60) - 2015/09/12 12:04:49 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1310)
+Seat 6: 71l1kum (4100)
+Seat 7: lepjon77 (1260)
+Seat 8: Tag.H (495)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (3400)
+*** ANTE/BLINDS ***
+koraly14 posts small blind 30
+Galderian31 posts big blind 60
+Dealt to sabre_laser [6s 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H raises 435 to 495 and is all-in
+EAGLE TWO folds
+koraly14 calls 465
+Galderian31 folds
+*** FLOP *** [Js 7c Ts]
+*** TURN *** [Js 7c Ts][4h]
+*** RIVER *** [Js 7c Ts 4h][5d]
+*** SHOW DOWN ***
+koraly14 shows [Qc Kh] (High card : King)
+Tag.H shows [3s Ac] (High card : Ace)
+Tag.H collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Js 7c Ts 4h 5d]
+Seat 8: Tag.H showed [3s Ac] and won 1050 with High card : Ace
+Seat 10: koraly14 (small blind) showed [Qc Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560461977650987009-25-1442059543 - Holdem no limit (40/80) - 2015/09/12 12:05:43 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1600)
+Seat 2: sabre_laser (1310)
+Seat 6: 71l1kum (4100)
+Seat 7: lepjon77 (1260)
+Seat 8: Tag.H (1050)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (2905)
+*** ANTE/BLINDS ***
+Galderian31 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [7c 6s]
+*** PRE-FLOP *** 
+71l1kum folds
+lepjon77 folds
+Tag.H calls 80
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser checks
+*** FLOP *** [6c Th 3h]
+sabre_laser checks
+Tag.H bets 80
+sabre_laser calls 80
+*** TURN *** [6c Th 3h][Qh]
+sabre_laser bets 180
+Tag.H raises 710 to 890 and is all-in
+sabre_laser folds
+Tag.H collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Board: [6c Th 3h Qh]
+Seat 8: Tag.H won 1430
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560461977650987009-26-1442059601 - Holdem no limit (40/80) - 2015/09/12 12:06:41 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1560)
+Seat 2: sabre_laser (970)
+Seat 6: 71l1kum (4100)
+Seat 7: lepjon77 (1260)
+Seat 8: Tag.H (1430)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (2905)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+71l1kum posts big blind 80
+Dealt to sabre_laser [7d Qd]
+*** PRE-FLOP *** 
+lepjon77 folds
+Tag.H calls 80
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser calls 40
+71l1kum checks
+*** FLOP *** [5c 3h Kc]
+sabre_laser checks
+71l1kum bets 120
+Tag.H calls 120
+sabre_laser folds
+*** TURN *** [5c 3h Kc][5s]
+71l1kum checks
+Tag.H checks
+*** RIVER *** [5c 3h Kc 5s][Td]
+71l1kum checks
+Tag.H checks
+*** SHOW DOWN ***
+71l1kum shows [Ad 3s] (Two pairs : 5 and 3)
+Tag.H shows [Kh Th] (Two pairs : Kings and Tens)
+Tag.H collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5c 3h Kc 5s Td]
+Seat 6: 71l1kum (big blind) showed [Ad 3s] and lost with Two pairs : 5 and 3
+Seat 8: Tag.H showed [Kh Th] and won 480 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560461977650987009-27-1442059673 - Holdem no limit (40/80) - 2015/09/12 12:07:53 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1560)
+Seat 2: sabre_laser (890)
+Seat 6: 71l1kum (3900)
+Seat 7: lepjon77 (1260)
+Seat 8: Tag.H (1710)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (2905)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 40
+lepjon77 posts big blind 80
+Dealt to sabre_laser [8d Jd]
+*** PRE-FLOP *** 
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum raises 120 to 200
+lepjon77 folds
+71l1kum collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: 71l1kum (small blind) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560461977650987009-28-1442059706 - Holdem no limit (40/80) - 2015/09/12 12:08:26 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1560)
+Seat 2: sabre_laser (890)
+Seat 6: 71l1kum (3980)
+Seat 7: lepjon77 (1180)
+Seat 8: Tag.H (1710)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (2905)
+*** ANTE/BLINDS ***
+lepjon77 posts small blind 40
+Tag.H posts big blind 80
+Dealt to sabre_laser [Jd Td]
+*** PRE-FLOP *** 
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser calls 80
+71l1kum folds
+lepjon77 folds
+Tag.H checks
+*** FLOP *** [4s 6d 3c]
+Tag.H checks
+sabre_laser checks
+*** TURN *** [4s 6d 3c][7d]
+Tag.H checks
+sabre_laser checks
+*** RIVER *** [4s 6d 3c 7d][6s]
+Tag.H checks
+sabre_laser checks
+*** SHOW DOWN ***
+Tag.H shows [Th 2d] (One pair : 6)
+sabre_laser shows [Jd Td] (One pair : 6)
+sabre_laser collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [4s 6d 3c 7d 6s]
+Seat 2: sabre_laser showed [Jd Td] and won 200 with One pair : 6
+Seat 8: Tag.H (big blind) showed [Th 2d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560461977650987009-29-1442059748 - Holdem no limit (40/80) - 2015/09/12 12:09:08 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1560)
+Seat 2: sabre_laser (1010)
+Seat 6: 71l1kum (3980)
+Seat 7: lepjon77 (1140)
+Seat 8: Tag.H (1630)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (2905)
+*** ANTE/BLINDS ***
+Tag.H posts small blind 40
+EAGLE TWO posts big blind 80
+Dealt to sabre_laser [3d Qc]
+*** PRE-FLOP *** 
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 9: EAGLE TWO (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560461977650987009-30-1442059774 - Holdem no limit (40/80) - 2015/09/12 12:09:34 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Galderian31 (1560)
+Seat 2: sabre_laser (1010)
+Seat 6: 71l1kum (3980)
+Seat 7: lepjon77 (1140)
+Seat 8: Tag.H (1590)
+Seat 9: EAGLE TWO (2815)
+Seat 10: koraly14 (2905)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 40
+koraly14 posts big blind 80
+Dealt to sabre_laser [2s Kc]
+*** PRE-FLOP *** 
+Galderian31 calls 80
+sabre_laser folds
+71l1kum raises 80 to 160
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 calls 80
+Galderian31 calls 80
+*** FLOP *** [5h 9c Qs]
+koraly14 checks
+Galderian31 checks
+71l1kum bets 260
+koraly14 folds
+Galderian31 folds
+71l1kum collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [5h 9c Qs]
+Seat 6: 71l1kum won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #560461977650987009-31-1442059844 - Holdem no limit (40/80) - 2015/09/12 12:10:44 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1400)
+Seat 2: sabre_laser (1010)
+Seat 6: 71l1kum (4340)
+Seat 7: lepjon77 (1140)
+Seat 8: Tag.H (1590)
+Seat 9: EAGLE TWO (2775)
+Seat 10: koraly14 (2745)
+*** ANTE/BLINDS ***
+koraly14 posts small blind 40
+Galderian31 posts big blind 80
+Dealt to sabre_laser [Js 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H calls 80
+EAGLE TWO calls 80
+koraly14 calls 40
+Galderian31 checks
+*** FLOP *** [Kd 7s 2c]
+koraly14 checks
+Galderian31 checks
+Tag.H checks
+EAGLE TWO checks
+*** TURN *** [Kd 7s 2c][8c]
+koraly14 checks
+Galderian31 bets 80
+Tag.H folds
+EAGLE TWO calls 80
+koraly14 folds
+*** RIVER *** [Kd 7s 2c 8c][3s]
+Galderian31 bets 360
+EAGLE TWO folds
+Galderian31 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Kd 7s 2c 8c 3s]
+Seat 1: Galderian31 (big blind) won 840
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560461977650987009-32-1442059963 - Holdem no limit (60/120) - 2015/09/12 12:12:43 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1720)
+Seat 2: sabre_laser (1010)
+Seat 6: 71l1kum (4340)
+Seat 7: lepjon77 (1140)
+Seat 8: Tag.H (1510)
+Seat 9: EAGLE TWO (2615)
+Seat 10: koraly14 (2665)
+*** ANTE/BLINDS ***
+Galderian31 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [9d 2s]
+*** PRE-FLOP *** 
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 raises 120 to 240
+Galderian31 folds
+sabre_laser folds
+koraly14 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 10: koraly14 (button) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560461977650987009-33-1442059990 - Holdem no limit (60/120) - 2015/09/12 12:13:10 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (890)
+Seat 6: 71l1kum (4340)
+Seat 7: lepjon77 (1140)
+Seat 8: Tag.H (1510)
+Seat 9: EAGLE TWO (2615)
+Seat 10: koraly14 (2845)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+71l1kum posts big blind 120
+Dealt to sabre_laser [Jh Qc]
+*** PRE-FLOP *** 
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser calls 60
+71l1kum checks
+*** FLOP *** [8c 3s Ah]
+sabre_laser bets 770 and is all-in
+71l1kum folds
+sabre_laser collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [8c 3s Ah]
+Seat 2: sabre_laser (small blind) won 1010
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560461977650987009-34-1442060022 - Holdem no limit (60/120) - 2015/09/12 12:13:42 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1010)
+Seat 6: 71l1kum (4220)
+Seat 7: lepjon77 (1140)
+Seat 8: Tag.H (1510)
+Seat 9: EAGLE TWO (2615)
+Seat 10: koraly14 (2845)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 60
+lepjon77 posts big blind 120
+Dealt to sabre_laser [9d Kd]
+*** PRE-FLOP *** 
+Tag.H folds
+EAGLE TWO folds
+koraly14 calls 120
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 checks
+*** FLOP *** [6d 9s Kc]
+lepjon77 checks
+koraly14 bets 150
+lepjon77 folds
+koraly14 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [6d 9s Kc]
+Seat 10: koraly14 won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560461977650987009-35-1442060065 - Holdem no limit (60/120) - 2015/09/12 12:14:25 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1010)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (1020)
+Seat 8: Tag.H (1510)
+Seat 9: EAGLE TWO (2615)
+Seat 10: koraly14 (3025)
+*** ANTE/BLINDS ***
+lepjon77 posts small blind 60
+Tag.H posts big blind 120
+Dealt to sabre_laser [Js Ac]
+*** PRE-FLOP *** 
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser raises 120 to 240
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: sabre_laser won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560461977650987009-36-1442060100 - Holdem no limit (60/120) - 2015/09/12 12:15:00 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1190)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1390)
+Seat 9: EAGLE TWO (2615)
+Seat 10: koraly14 (3025)
+*** ANTE/BLINDS ***
+Tag.H posts small blind 60
+EAGLE TWO posts big blind 120
+Dealt to sabre_laser [Kc 3d]
+*** PRE-FLOP *** 
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: EAGLE TWO (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560461977650987009-37-1442060130 - Holdem no limit (60/120) - 2015/09/12 12:15:30 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1190)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1330)
+Seat 9: EAGLE TWO (2675)
+Seat 10: koraly14 (3025)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 60
+koraly14 posts big blind 120
+Dealt to sabre_laser [9c 7h]
+*** PRE-FLOP *** 
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO raises 120 to 240
+koraly14 calls 120
+*** FLOP *** [9s 3s As]
+EAGLE TWO checks
+koraly14 bets 320
+EAGLE TWO folds
+koraly14 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [9s 3s As]
+Seat 10: koraly14 (big blind) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #560461977650987009-38-1442060178 - Holdem no limit (60/120) - 2015/09/12 12:16:18 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1660)
+Seat 2: sabre_laser (1190)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1330)
+Seat 9: EAGLE TWO (2435)
+Seat 10: koraly14 (3265)
+*** ANTE/BLINDS ***
+koraly14 posts small blind 60
+Galderian31 posts big blind 120
+Dealt to sabre_laser [3h 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 calls 60
+Galderian31 checks
+*** FLOP *** [Kc 5h 6h]
+koraly14 checks
+Galderian31 checks
+*** TURN *** [Kc 5h 6h][4s]
+koraly14 bets 120
+Galderian31 folds
+koraly14 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kc 5h 6h 4s]
+Seat 10: koraly14 (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-39-1442060280 - Holdem no limit (80/160) - 2015/09/12 12:18:00 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1540)
+Seat 2: sabre_laser (1190)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1330)
+Seat 9: EAGLE TWO (2435)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+Galderian31 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [6h 5s]
+*** PRE-FLOP *** 
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 raises 1380 to 1540 and is all-in
+sabre_laser folds
+Galderian31 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 1: Galderian31 (small blind) won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-40-1442060316 - Holdem no limit (80/160) - 2015/09/12 12:18:36 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1700)
+Seat 2: sabre_laser (1030)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1330)
+Seat 9: EAGLE TWO (2435)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+71l1kum posts big blind 160
+Dealt to sabre_laser [5h Ts]
+*** PRE-FLOP *** 
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: 71l1kum (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-41-1442060339 - Holdem no limit (80/160) - 2015/09/12 12:18:59 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1700)
+Seat 2: sabre_laser (950)
+Seat 6: 71l1kum (4240)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1330)
+Seat 9: EAGLE TWO (2435)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 80
+lepjon77 posts big blind 160
+Dealt to sabre_laser [Th Ad]
+*** PRE-FLOP *** 
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 calls 160
+sabre_laser raises 790 to 950 and is all-in
+71l1kum folds
+lepjon77 folds
+Galderian31 folds
+sabre_laser collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 2: sabre_laser (button) won 1350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-42-1442060391 - Holdem no limit (80/160) - 2015/09/12 12:19:51 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1540)
+Seat 2: sabre_laser (1350)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (800)
+Seat 8: Tag.H (1330)
+Seat 9: EAGLE TWO (2435)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+lepjon77 posts small blind 80
+Tag.H posts big blind 160
+Dealt to sabre_laser [Ah 3s]
+*** PRE-FLOP *** 
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum raises 160 to 320
+lepjon77 folds
+Tag.H folds
+71l1kum collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 6: 71l1kum (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-43-1442060417 - Holdem no limit (80/160) - 2015/09/12 12:20:17 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1540)
+Seat 2: sabre_laser (1350)
+Seat 6: 71l1kum (4400)
+Seat 7: lepjon77 (720)
+Seat 8: Tag.H (1170)
+Seat 9: EAGLE TWO (2435)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+Tag.H posts small blind 80
+EAGLE TWO posts big blind 160
+Dealt to sabre_laser [2h 3c]
+*** PRE-FLOP *** 
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 raises 560 to 720 and is all-in
+Tag.H folds
+EAGLE TWO folds
+lepjon77 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 7: lepjon77 (button) won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-44-1442060488 - Holdem no limit (80/160) - 2015/09/12 12:21:28 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Galderian31 (1540)
+Seat 2: sabre_laser (1350)
+Seat 6: 71l1kum (4400)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1090)
+Seat 9: EAGLE TWO (2275)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 80
+koraly14 posts big blind 160
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 10: koraly14 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-45-1442060513 - Holdem no limit (80/160) - 2015/09/12 12:21:53 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1540)
+Seat 2: sabre_laser (1350)
+Seat 6: 71l1kum (4400)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1090)
+Seat 9: EAGLE TWO (2195)
+Seat 10: koraly14 (3465)
+*** ANTE/BLINDS ***
+koraly14 posts small blind 80
+Galderian31 posts big blind 160
+Dealt to sabre_laser [8c Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+71l1kum raises 160 to 320
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 calls 160
+*** FLOP *** [2d 9s Tc]
+Galderian31 bets 1220 and is all-in
+71l1kum calls 1220
+*** TURN *** [2d 9s Tc][Jh]
+*** RIVER *** [2d 9s Tc Jh][5h]
+*** SHOW DOWN ***
+Galderian31 shows [Td As] (One pair : Tens)
+71l1kum shows [Ac Ts] (One pair : Tens)
+71l1kum collected 1580 from pot
+Galderian31 collected 1580 from pot
+*** SUMMARY ***
+Total pot 3160 | No rake
+Board: [2d 9s Tc Jh 5h]
+Seat 1: Galderian31 (big blind) showed [Td As] and won 1580 with One pair : Tens
+Seat 6: 71l1kum showed [Ac Ts] and won 1580 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-46-1442060568 - Holdem no limit (80/160) - 2015/09/12 12:22:48 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1580)
+Seat 2: sabre_laser (1350)
+Seat 6: 71l1kum (4440)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1090)
+Seat 9: EAGLE TWO (2195)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+Galderian31 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [9h 5h]
+*** PRE-FLOP *** 
+71l1kum folds
+lepjon77 folds
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 raises 1420 to 1580 and is all-in
+sabre_laser folds
+Galderian31 collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 1: Galderian31 (small blind) won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #560461977650987009-47-1442060588 - Holdem no limit (80/160) - 2015/09/12 12:23:08 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1740)
+Seat 2: sabre_laser (1190)
+Seat 6: 71l1kum (4440)
+Seat 7: lepjon77 (960)
+Seat 8: Tag.H (1090)
+Seat 9: EAGLE TWO (2195)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+71l1kum posts big blind 160
+Dealt to sabre_laser [5d 6h]
+*** PRE-FLOP *** 
+lepjon77 raises 800 to 960 and is all-in
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Seat 7: lepjon77 won 1200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-48-1442060615 - Holdem no limit (10/100/200) - 2015/09/12 12:23:35 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1740)
+Seat 2: sabre_laser (1110)
+Seat 6: 71l1kum (4280)
+Seat 7: lepjon77 (1200)
+Seat 8: Tag.H (1090)
+Seat 9: EAGLE TWO (2195)
+Seat 10: koraly14 (3385)
+*** ANTE/BLINDS ***
+71l1kum posts ante 10
+lepjon77 posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+Tag.H posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+71l1kum posts small blind 100
+lepjon77 posts big blind 200
+Dealt to sabre_laser [5c 9c]
+*** PRE-FLOP *** 
+Tag.H folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 7: lepjon77 (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-49-1442060637 - Holdem no limit (10/100/200) - 2015/09/12 12:23:57 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1730)
+Seat 2: sabre_laser (1100)
+Seat 6: 71l1kum (4170)
+Seat 7: lepjon77 (1360)
+Seat 8: Tag.H (1080)
+Seat 9: EAGLE TWO (2185)
+Seat 10: koraly14 (3375)
+*** ANTE/BLINDS ***
+lepjon77 posts ante 10
+Tag.H posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+lepjon77 posts small blind 100
+Tag.H posts big blind 200
+Dealt to sabre_laser [Th Kc]
+*** PRE-FLOP *** 
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser raises 890 to 1090 and is all-in
+71l1kum folds
+lepjon77 folds
+Tag.H calls 870 and is all-in
+*** FLOP *** [Qc 3s 2h]
+*** TURN *** [Qc 3s 2h][Ks]
+*** RIVER *** [Qc 3s 2h Ks][5s]
+*** SHOW DOWN ***
+Tag.H shows [As Qd] (One pair : Queens)
+sabre_laser shows [Th Kc] (One pair : Kings)
+sabre_laser collected 2330 from pot
+*** SUMMARY ***
+Total pot 2330 | No rake
+Board: [Qc 3s 2h Ks 5s]
+Seat 2: sabre_laser showed [Th Kc] and won 2330 with One pair : Kings
+Seat 8: Tag.H (big blind) showed [As Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-50-1442060694 - Holdem no limit (10/100/200) - 2015/09/12 12:24:54 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1720)
+Seat 2: sabre_laser (2330)
+Seat 6: 71l1kum (4160)
+Seat 7: lepjon77 (1250)
+Seat 9: EAGLE TWO (2175)
+Seat 10: koraly14 (3365)
+*** ANTE/BLINDS ***
+EAGLE TWO posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+lepjon77 posts ante 10
+koraly14 posts ante 10
+EAGLE TWO posts big blind 200
+Dealt to sabre_laser [Ac As]
+*** PRE-FLOP *** 
+koraly14 calls 200
+Galderian31 folds
+sabre_laser raises 200 to 400
+71l1kum folds
+lepjon77 folds
+EAGLE TWO folds
+koraly14 calls 200
+*** FLOP *** [6h Qc Kh]
+koraly14 checks
+sabre_laser bets 400
+koraly14 raises 2555 to 2955 and is all-in
+sabre_laser calls 1520 and is all-in
+*** TURN *** [6h Qc Kh][Jh]
+*** RIVER *** [6h Qc Kh Jh][Qs]
+*** SHOW DOWN ***
+sabre_laser shows [Ac As] (Two pairs : Aces and Queens)
+koraly14 shows [Kc Js] (Two pairs : Kings and Queens)
+koraly14 collected 1035 from side pot 1
+sabre_laser collected 4900 from main pot
+*** SUMMARY ***
+Total pot 5935 | No rake
+Board: [6h Qc Kh Jh Qs]
+Seat 2: sabre_laser showed [Ac As] and won 4900 with Two pairs : Aces and Queens
+Seat 10: koraly14 showed [Kc Js] and won 1035 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-51-1442060738 - Holdem no limit (10/100/200) - 2015/09/12 12:25:38 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Galderian31 (1710)
+Seat 2: sabre_laser (4900)
+Seat 6: 71l1kum (4150)
+Seat 7: lepjon77 (1240)
+Seat 9: EAGLE TWO (1965)
+Seat 10: koraly14 (1035)
+*** ANTE/BLINDS ***
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts small blind 100
+koraly14 posts big blind 200
+Dealt to sabre_laser [2s 5s]
+*** PRE-FLOP *** 
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 raises 1030 to 1230 and is all-in
+EAGLE TWO folds
+koraly14 folds
+lepjon77 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Seat 7: lepjon77 won 1590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-52-1442060757 - Holdem no limit (10/100/200) - 2015/09/12 12:25:57 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1700)
+Seat 2: sabre_laser (4890)
+Seat 6: 71l1kum (4140)
+Seat 7: lepjon77 (1590)
+Seat 9: EAGLE TWO (1855)
+Seat 10: koraly14 (825)
+*** ANTE/BLINDS ***
+koraly14 posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts small blind 100
+Galderian31 posts big blind 200
+Dealt to sabre_laser [Ac 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+EAGLE TWO folds
+koraly14 raises 615 to 815 and is all-in
+Galderian31 folds
+koraly14 collected 1075 from pot
+*** SUMMARY ***
+Total pot 1075 | No rake
+Seat 10: koraly14 (small blind) won 1075
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-53-1442060781 - Holdem no limit (10/100/200) - 2015/09/12 12:26:21 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1490)
+Seat 2: sabre_laser (4880)
+Seat 6: 71l1kum (4130)
+Seat 7: lepjon77 (1580)
+Seat 9: EAGLE TWO (1845)
+Seat 10: koraly14 (1075)
+*** ANTE/BLINDS ***
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+Galderian31 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [9d 4d]
+*** PRE-FLOP *** 
+71l1kum raises 200 to 400
+lepjon77 folds
+EAGLE TWO calls 400
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+*** FLOP *** [7c 4s 5d]
+71l1kum checks
+EAGLE TWO checks
+*** TURN *** [7c 4s 5d][9c]
+71l1kum checks
+EAGLE TWO checks
+*** RIVER *** [7c 4s 5d 9c][6d]
+71l1kum checks
+EAGLE TWO checks
+*** SHOW DOWN ***
+71l1kum shows [As Td] (High card : Ace)
+EAGLE TWO shows [Ah Tc] (High card : Ace)
+EAGLE TWO collected 580 from pot
+71l1kum collected 580 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [7c 4s 5d 9c 6d]
+Seat 6: 71l1kum showed [As Td] and won 580 with High card : Ace
+Seat 9: EAGLE TWO showed [Ah Tc] and won 580 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-54-1442060816 - Holdem no limit (10/100/200) - 2015/09/12 12:26:56 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (4670)
+Seat 6: 71l1kum (4300)
+Seat 7: lepjon77 (1570)
+Seat 9: EAGLE TWO (2015)
+Seat 10: koraly14 (1065)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+71l1kum posts ante 10
+Galderian31 posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+sabre_laser posts small blind 100
+71l1kum posts big blind 200
+Dealt to sabre_laser [As 7h]
+*** PRE-FLOP *** 
+lepjon77 folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 6: 71l1kum (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-55-1442060831 - Holdem no limit (10/100/200) - 2015/09/12 12:27:11 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1370)
+Seat 2: sabre_laser (4560)
+Seat 6: 71l1kum (4450)
+Seat 7: lepjon77 (1560)
+Seat 9: EAGLE TWO (2005)
+Seat 10: koraly14 (1055)
+*** ANTE/BLINDS ***
+71l1kum posts ante 10
+lepjon77 posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+71l1kum posts small blind 100
+lepjon77 posts big blind 200
+Dealt to sabre_laser [4h 3h]
+*** PRE-FLOP *** 
+EAGLE TWO calls 200
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum raises 200 to 400
+lepjon77 folds
+EAGLE TWO calls 200
+*** FLOP *** [7d Ac 2s]
+71l1kum bets 530
+EAGLE TWO folds
+71l1kum collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [7d Ac 2s]
+Seat 6: 71l1kum (small blind) won 1590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-56-1442060854 - Holdem no limit (10/100/200) - 2015/09/12 12:27:34 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1360)
+Seat 2: sabre_laser (4550)
+Seat 6: 71l1kum (5100)
+Seat 7: lepjon77 (1350)
+Seat 9: EAGLE TWO (1595)
+Seat 10: koraly14 (1045)
+*** ANTE/BLINDS ***
+lepjon77 posts ante 10
+EAGLE TWO posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+koraly14 posts ante 10
+lepjon77 posts small blind 100
+EAGLE TWO posts big blind 200
+Dealt to sabre_laser [4s Kd]
+*** PRE-FLOP *** 
+koraly14 raises 835 to 1035 and is all-in
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+EAGLE TWO folds
+koraly14 collected 1395 from pot
+*** SUMMARY ***
+Total pot 1395 | No rake
+Seat 10: koraly14 won 1395
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-57-1442060876 - Holdem no limit (10/100/200) - 2015/09/12 12:27:56 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1350)
+Seat 2: sabre_laser (4540)
+Seat 6: 71l1kum (5090)
+Seat 7: lepjon77 (1240)
+Seat 9: EAGLE TWO (1385)
+Seat 10: koraly14 (1395)
+*** ANTE/BLINDS ***
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts small blind 100
+koraly14 posts big blind 200
+Dealt to sabre_laser [Td Jd]
+*** PRE-FLOP *** 
+Galderian31 raises 400 to 600
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 1: Galderian31 won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-58-1442060892 - Holdem no limit (10/100/200) - 2015/09/12 12:28:12 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (1700)
+Seat 2: sabre_laser (4530)
+Seat 6: 71l1kum (5080)
+Seat 7: lepjon77 (1230)
+Seat 9: EAGLE TWO (1275)
+Seat 10: koraly14 (1185)
+*** ANTE/BLINDS ***
+koraly14 posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts small blind 100
+Galderian31 posts big blind 200
+Dealt to sabre_laser [Kh Qc]
+*** PRE-FLOP *** 
+sabre_laser raises 200 to 400
+71l1kum folds
+lepjon77 folds
+EAGLE TWO folds
+koraly14 raises 775 to 1175 and is all-in
+Galderian31 folds
+sabre_laser calls 775
+*** FLOP *** [Qd Ac Jc]
+*** TURN *** [Qd Ac Jc][3c]
+*** RIVER *** [Qd Ac Jc 3c][9s]
+*** SHOW DOWN ***
+sabre_laser shows [Kh Qc] (One pair : Queens)
+koraly14 shows [Ad As] (Trips of Aces)
+koraly14 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [Qd Ac Jc 3c 9s]
+Seat 2: sabre_laser showed [Kh Qc] and lost with One pair : Queens
+Seat 10: koraly14 (small blind) showed [Ad As] and won 2610 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-59-1442060933 - Holdem no limit (10/100/200) - 2015/09/12 12:28:53 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1490)
+Seat 2: sabre_laser (3345)
+Seat 6: 71l1kum (5070)
+Seat 7: lepjon77 (1220)
+Seat 9: EAGLE TWO (1265)
+Seat 10: koraly14 (2610)
+*** ANTE/BLINDS ***
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+71l1kum posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+Galderian31 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [5d Ah]
+*** PRE-FLOP *** 
+71l1kum folds
+lepjon77 folds
+EAGLE TWO folds
+koraly14 raises 2400 to 2600 and is all-in
+Galderian31 folds
+sabre_laser folds
+koraly14 shows [Qh Ac] (High card : Ace)
+koraly14 collected 2960 from pot
+*** SUMMARY ***
+Total pot 2960 | No rake
+Seat 10: koraly14 (button) showed [Qh Ac] and won 2960 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-60-1442060948 - Holdem no limit (10/100/200) - 2015/09/12 12:29:08 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1380)
+Seat 2: sabre_laser (3135)
+Seat 6: 71l1kum (5060)
+Seat 7: lepjon77 (1210)
+Seat 9: EAGLE TWO (1255)
+Seat 10: koraly14 (2960)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+71l1kum posts ante 10
+Galderian31 posts ante 10
+lepjon77 posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+sabre_laser posts small blind 100
+71l1kum posts big blind 200
+Dealt to sabre_laser [Tc 7h]
+*** PRE-FLOP *** 
+lepjon77 folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 raises 300 to 500
+sabre_laser folds
+71l1kum folds
+Galderian31 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 1: Galderian31 (button) won 860
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #560461977650987009-61-1442060961 - Holdem no limit (10/100/200) - 2015/09/12 12:29:21 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Galderian31 (1730)
+Seat 2: sabre_laser (3025)
+Seat 6: 71l1kum (4850)
+Seat 7: lepjon77 (1200)
+Seat 9: EAGLE TWO (1245)
+Seat 10: koraly14 (2950)
+*** ANTE/BLINDS ***
+71l1kum posts ante 10
+lepjon77 posts ante 10
+Galderian31 posts ante 10
+sabre_laser posts ante 10
+EAGLE TWO posts ante 10
+koraly14 posts ante 10
+71l1kum posts small blind 100
+lepjon77 posts big blind 200
+Dealt to sabre_laser [2c 8s]
+*** PRE-FLOP *** 
+EAGLE TWO raises 400 to 600
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+EAGLE TWO collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 9: EAGLE TWO won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560461977650987009-62-1442060983 - Holdem no limit (20/150/300) - 2015/09/12 12:29:43 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Galderian31 (1720)
+Seat 2: sabre_laser (3015)
+Seat 6: 71l1kum (4740)
+Seat 7: lepjon77 (990)
+Seat 9: EAGLE TWO (1595)
+Seat 10: koraly14 (2940)
+*** ANTE/BLINDS ***
+lepjon77 posts ante 20
+EAGLE TWO posts ante 20
+Galderian31 posts ante 20
+sabre_laser posts ante 20
+71l1kum posts ante 20
+koraly14 posts ante 20
+lepjon77 posts small blind 150
+EAGLE TWO posts big blind 300
+Dealt to sabre_laser [5s 6s]
+*** PRE-FLOP *** 
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum raises 4420 to 4720 and is all-in
+lepjon77 folds
+EAGLE TWO folds
+71l1kum collected 5290 from pot
+*** SUMMARY ***
+Total pot 5290 | No rake
+Seat 6: 71l1kum (button) won 5290
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560461977650987009-63-1442061003 - Holdem no limit (20/150/300) - 2015/09/12 12:30:03 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Galderian31 (1700)
+Seat 2: sabre_laser (2995)
+Seat 6: 71l1kum (5290)
+Seat 7: lepjon77 (820)
+Seat 9: EAGLE TWO (1275)
+Seat 10: koraly14 (2920)
+*** ANTE/BLINDS ***
+EAGLE TWO posts ante 20
+koraly14 posts ante 20
+Galderian31 posts ante 20
+sabre_laser posts ante 20
+71l1kum posts ante 20
+lepjon77 posts ante 20
+EAGLE TWO posts small blind 150
+koraly14 posts big blind 300
+Dealt to sabre_laser [4d 6h]
+*** PRE-FLOP *** 
+Galderian31 raises 300 to 600
+sabre_laser folds
+71l1kum folds
+lepjon77 folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 1: Galderian31 won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560461977650987009-64-1442061030 - Holdem no limit (20/150/300) - 2015/09/12 12:30:30 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Galderian31 (2250)
+Seat 2: sabre_laser (2975)
+Seat 6: 71l1kum (5270)
+Seat 7: lepjon77 (800)
+Seat 9: EAGLE TWO (1105)
+Seat 10: koraly14 (2600)
+*** ANTE/BLINDS ***
+koraly14 posts ante 20
+Galderian31 posts ante 20
+sabre_laser posts ante 20
+71l1kum posts ante 20
+lepjon77 posts ante 20
+EAGLE TWO posts ante 20
+koraly14 posts small blind 150
+Galderian31 posts big blind 300
+Dealt to sabre_laser [Tc 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+71l1kum raises 4950 to 5250 and is all-in
+lepjon77 folds
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+71l1kum collected 5820 from pot
+*** SUMMARY ***
+Total pot 5820 | No rake
+Seat 6: 71l1kum won 5820
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560461977650987009-65-1442061052 - Holdem no limit (20/150/300) - 2015/09/12 12:30:52 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Galderian31 (1930)
+Seat 2: sabre_laser (2955)
+Seat 6: 71l1kum (5820)
+Seat 7: lepjon77 (780)
+Seat 9: EAGLE TWO (1085)
+Seat 10: koraly14 (2430)
+*** ANTE/BLINDS ***
+Galderian31 posts ante 20
+sabre_laser posts ante 20
+71l1kum posts ante 20
+lepjon77 posts ante 20
+EAGLE TWO posts ante 20
+koraly14 posts ante 20
+Galderian31 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Qh 8c]
+*** PRE-FLOP *** 
+71l1kum folds
+lepjon77 folds
+EAGLE TWO raises 765 to 1065 and is all-in
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+EAGLE TWO collected 1635 from pot
+*** SUMMARY ***
+Total pot 1635 | No rake
+Seat 9: EAGLE TWO won 1635
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #560461977650987009-66-1442061088 - Holdem no limit (20/150/300) - 2015/09/12 12:31:28 UTC
+Table: 'Double or Nothing(130492723)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Galderian31 (1760)
+Seat 2: sabre_laser (2635)
+Seat 6: 71l1kum (5800)
+Seat 7: lepjon77 (760)
+Seat 9: EAGLE TWO (1635)
+Seat 10: koraly14 (2410)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+71l1kum posts ante 20
+Galderian31 posts ante 20
+lepjon77 posts ante 20
+EAGLE TWO posts ante 20
+koraly14 posts ante 20
+sabre_laser posts small blind 150
+71l1kum posts big blind 300
+Dealt to sabre_laser [Js 5d]
+*** PRE-FLOP *** 
+lepjon77 raises 440 to 740 and is all-in
+EAGLE TWO folds
+koraly14 folds
+Galderian31 folds
+sabre_laser folds
+71l1kum calls 440
+*** FLOP *** [Kh 3h 5h]
+*** TURN *** [Kh 3h 5h][Qh]
+*** RIVER *** [Kh 3h 5h Qh][Jc]
+*** SHOW DOWN ***
+lepjon77 shows [Ac 5s] (One pair : 5)
+71l1kum shows [Tc 9c] (Straight King high)
+71l1kum collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [Kh 3h 5h Qh Jc]
+Seat 6: 71l1kum (big blind) showed [Tc 9c] and won 1750 with Straight King high
+Seat 7: lepjon77 showed [Ac 5s] and lost with One pair : 5
+
+

@@ -1,0 +1,2143 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #471639378205081601-1-1423847461 - Holdem no limit (10/20) - 2015/02/13 17:11:01 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (1500)
+Seat 2: Davigo47 (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: crebou (1500)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1500)
+Seat 7: SKT T1 Faker (1500)
+Seat 8: LABELLE VIE (1500)
+Seat 9: 72waldokitty (1500)
+Seat 10: ..lesnake.. (1500)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts small blind 10
+LABELLE VIE posts big blind 20
+Dealt to sabre_laser [Ac Ks]
+*** PRE-FLOP *** 
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 calls 20
+sabre_laser raises 30 to 50
+crebou folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+Davigo47 calls 30
+*** FLOP *** [Kd Jd 5c]
+Davigo47 checks
+sabre_laser bets 65
+Davigo47 calls 65
+*** TURN *** [Kd Jd 5c][8s]
+Davigo47 checks
+sabre_laser checks
+*** RIVER *** [Kd Jd 5c 8s][Kc]
+Davigo47 checks
+sabre_laser bets 110
+Davigo47 calls 110
+*** SHOW DOWN ***
+Davigo47 shows [Ts Jc] (Two pairs : Kings and Jacks)
+sabre_laser shows [Ac Ks] (Trips of Kings)
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Kd Jd 5c 8s Kc]
+Seat 2: Davigo47 showed [Ts Jc] and lost with Two pairs : Kings and Jacks
+Seat 3: sabre_laser showed [Ac Ks] and won 480 with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #471639378205081601-2-1423847574 - Holdem no limit (10/20) - 2015/02/13 17:12:54 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (1500)
+Seat 2: Davigo47 (1275)
+Seat 3: sabre_laser (1755)
+Seat 4: crebou (1500)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1500)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1480)
+Seat 9: 72waldokitty (1500)
+Seat 10: ..lesnake.. (1500)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 10
+72waldokitty posts big blind 20
+Dealt to sabre_laser [4h 9s]
+*** PRE-FLOP *** 
+..lesnake.. folds
+Male-O_neT56 raises 30 to 50
+Davigo47 folds
+sabre_laser folds
+crebou folds
+G_ZU folds
+Charlybillar calls 50
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+*** FLOP *** [5h 5c 9h]
+Male-O_neT56 bets 50
+Charlybillar folds
+Male-O_neT56 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5h 5c 9h]
+Seat 1: Male-O_neT56 won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #471639378205081601-3-1423847615 - Holdem no limit (10/20) - 2015/02/13 17:13:35 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Male-O_neT56 (1580)
+Seat 2: Davigo47 (1275)
+Seat 3: sabre_laser (1755)
+Seat 4: crebou (1500)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1480)
+Seat 10: ..lesnake.. (1500)
+*** ANTE/BLINDS ***
+72waldokitty posts small blind 10
+..lesnake.. posts big blind 20
+Dealt to sabre_laser [5d 3c]
+*** PRE-FLOP *** 
+Male-O_neT56 calls 20
+Davigo47 folds
+sabre_laser folds
+crebou folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. checks
+*** FLOP *** [7d Ks 8c]
+..lesnake.. checks
+Male-O_neT56 checks
+*** TURN *** [7d Ks 8c][Jh]
+..lesnake.. bets 20
+Male-O_neT56 calls 20
+*** RIVER *** [7d Ks 8c Jh][Td]
+..lesnake.. bets 50
+Male-O_neT56 calls 50
+*** SHOW DOWN ***
+Male-O_neT56 shows [Js Qc] (One pair : Jacks)
+..lesnake.. shows [9d Kd] (Straight Jack high)
+..lesnake.. collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [7d Ks 8c Jh Td]
+Seat 1: Male-O_neT56 showed [Js Qc] and lost with One pair : Jacks
+Seat 10: ..lesnake.. (big blind) showed [9d Kd] and won 190 with Straight Jack high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #471639378205081601-4-1423847687 - Holdem no limit (10/20) - 2015/02/13 17:14:47 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Male-O_neT56 (1490)
+Seat 2: Davigo47 (1275)
+Seat 3: sabre_laser (1755)
+Seat 4: crebou (1500)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1600)
+*** ANTE/BLINDS ***
+..lesnake.. posts small blind 10
+Male-O_neT56 posts big blind 20
+Dealt to sabre_laser [Qc Ks]
+*** PRE-FLOP *** 
+Davigo47 folds
+sabre_laser raises 30 to 50
+crebou folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 calls 30
+*** FLOP *** [3c Qs Qh]
+Male-O_neT56 checks
+sabre_laser checks
+*** TURN *** [3c Qs Qh][Jc]
+Male-O_neT56 checks
+sabre_laser bets 50
+Male-O_neT56 calls 50
+*** RIVER *** [3c Qs Qh Jc][As]
+Male-O_neT56 checks
+sabre_laser bets 105
+Male-O_neT56 raises 135 to 240
+sabre_laser raises 180 to 420
+Male-O_neT56 calls 180
+*** SHOW DOWN ***
+Male-O_neT56 shows [Ah 5s] (Two pairs : Aces and Queens)
+sabre_laser shows [Qc Ks] (Trips of Queens)
+sabre_laser collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [3c Qs Qh Jc As]
+Seat 1: Male-O_neT56 (big blind) showed [Ah 5s] and lost with Two pairs : Aces and Queens
+Seat 3: sabre_laser showed [Qc Ks] and won 1050 with Trips of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #471639378205081601-5-1423847804 - Holdem no limit (10/20) - 2015/02/13 17:16:44 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Male-O_neT56 (970)
+Seat 2: Davigo47 (1275)
+Seat 3: sabre_laser (2285)
+Seat 4: crebou (1500)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+Male-O_neT56 posts small blind 10
+Davigo47 posts big blind 20
+Dealt to sabre_laser [9d 2d]
+*** PRE-FLOP *** 
+sabre_laser folds
+crebou calls 20
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 raises 30 to 50
+Davigo47 folds
+crebou calls 30
+*** FLOP *** [3h 2c 7d]
+Male-O_neT56 bets 80
+crebou calls 80
+*** TURN *** [3h 2c 7d][Th]
+Male-O_neT56 checks
+crebou bets 140
+Male-O_neT56 calls 140
+*** RIVER *** [3h 2c 7d Th][Jc]
+Male-O_neT56 checks
+crebou bets 560
+Male-O_neT56 calls 560
+*** SHOW DOWN ***
+Male-O_neT56 shows [Ac 2s] (One pair : 2)
+crebou shows [Ah 2h] (One pair : 2)
+crebou collected 840 from pot
+Male-O_neT56 collected 840 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [3h 2c 7d Th Jc]
+Seat 1: Male-O_neT56 (small blind) showed [Ac 2s] and won 840 with One pair : 2
+Seat 4: crebou showed [Ah 2h] and won 840 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #471639378205081601-6-1423847884 - Holdem no limit (15/30) - 2015/02/13 17:18:04 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Male-O_neT56 (980)
+Seat 2: Davigo47 (1255)
+Seat 3: sabre_laser (2285)
+Seat 4: crebou (1510)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+Davigo47 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [3s Ks]
+*** PRE-FLOP *** 
+crebou folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: sabre_laser (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #471639378205081601-7-1423847910 - Holdem no limit (15/30) - 2015/02/13 17:18:30 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Male-O_neT56 (980)
+Seat 2: Davigo47 (1240)
+Seat 3: sabre_laser (2300)
+Seat 4: crebou (1510)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+crebou posts big blind 30
+Dealt to sabre_laser [Ts 7c]
+*** PRE-FLOP *** 
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 raises 30 to 60
+Davigo47 folds
+sabre_laser folds
+crebou folds
+Male-O_neT56 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 1: Male-O_neT56 won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #471639378205081601-8-1423847956 - Holdem no limit (15/30) - 2015/02/13 17:19:16 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Male-O_neT56 (1025)
+Seat 2: Davigo47 (1240)
+Seat 3: sabre_laser (2285)
+Seat 4: crebou (1480)
+Seat 5: G_ZU (1500)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+crebou posts small blind 15
+G_ZU posts big blind 30
+Dealt to sabre_laser [As Kc]
+*** PRE-FLOP *** 
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser raises 45 to 75
+crebou calls 60
+G_ZU folds
+*** FLOP *** [Kd 8h 4d]
+crebou bets 135
+sabre_laser calls 135
+*** TURN *** [Kd 8h 4d][8c]
+crebou checks
+sabre_laser bets 450
+crebou raises 450 to 900
+sabre_laser raises 1175 to 2075 and is all-in
+crebou calls 370 and is all-in
+*** RIVER *** [Kd 8h 4d 8c][9s]
+*** SHOW DOWN ***
+crebou shows [Th Kh] (Two pairs : Kings and 8)
+sabre_laser shows [As Kc] (Two pairs : Kings and 8)
+sabre_laser collected 3795 from pot
+*** SUMMARY ***
+Total pot 3795 | No rake
+Board: [Kd 8h 4d 8c 9s]
+Seat 3: sabre_laser (button) showed [As Kc] and won 3795 with Two pairs : Kings and 8
+Seat 4: crebou (small blind) showed [Th Kh] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #471639378205081601-9-1423848038 - Holdem no limit (15/30) - 2015/02/13 17:20:38 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Male-O_neT56 (1025)
+Seat 2: Davigo47 (1240)
+Seat 3: sabre_laser (3795)
+Seat 5: G_ZU (1470)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 15
+Charlybillar posts big blind 30
+Dealt to sabre_laser [Ah 5h]
+*** PRE-FLOP *** 
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser raises 60 to 90
+G_ZU folds
+Charlybillar calls 60
+*** FLOP *** [8d 2h 8s]
+Charlybillar checks
+sabre_laser bets 135
+Charlybillar folds
+sabre_laser collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [8d 2h 8s]
+Seat 3: sabre_laser won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #471639378205081601-10-1423848105 - Holdem no limit (15/30) - 2015/02/13 17:21:45 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Male-O_neT56 (1025)
+Seat 2: Davigo47 (1240)
+Seat 3: sabre_laser (3900)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1360)
+Seat 7: SKT T1 Faker (1490)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+Charlybillar posts small blind 15
+SKT T1 Faker posts big blind 30
+Dealt to sabre_laser [6s 7h]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 15
+SKT T1 Faker checks
+*** FLOP *** [3c 5c 2d]
+Charlybillar checks
+SKT T1 Faker checks
+*** TURN *** [3c 5c 2d][Qd]
+Charlybillar checks
+SKT T1 Faker checks
+*** RIVER *** [3c 5c 2d Qd][8h]
+Charlybillar checks
+SKT T1 Faker checks
+*** SHOW DOWN ***
+Charlybillar shows [Kd Ts] (High card : King)
+SKT T1 Faker shows [7s 2h] (One pair : 2)
+SKT T1 Faker collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c 5c 2d Qd 8h]
+Seat 6: Charlybillar (small blind) showed [Kd Ts] and lost with High card : King
+Seat 7: SKT T1 Faker (big blind) showed [7s 2h] and won 60 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #471639378205081601-11-1423848160 - Holdem no limit (15/30) - 2015/02/13 17:22:40 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (1025)
+Seat 2: Davigo47 (1240)
+Seat 3: sabre_laser (3900)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1330)
+Seat 7: SKT T1 Faker (1520)
+Seat 8: LABELLE VIE (1470)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts small blind 15
+LABELLE VIE posts big blind 30
+Dealt to sabre_laser [2d 5s]
+*** PRE-FLOP *** 
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 calls 30
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE checks
+*** FLOP *** [8d 8c Kh]
+LABELLE VIE checks
+Davigo47 checks
+*** TURN *** [8d 8c Kh][9d]
+LABELLE VIE checks
+Davigo47 checks
+*** RIVER *** [8d 8c Kh 9d][2c]
+LABELLE VIE checks
+Davigo47 bets 30
+LABELLE VIE calls 30
+*** SHOW DOWN ***
+Davigo47 shows [6h 6d] (Two pairs : 8 and 6)
+LABELLE VIE shows [3c 9c] (Two pairs : 9 and 8)
+LABELLE VIE collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [8d 8c Kh 9d 2c]
+Seat 2: Davigo47 showed [6h 6d] and lost with Two pairs : 8 and 6
+Seat 8: LABELLE VIE (big blind) showed [3c 9c] and won 135 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #471639378205081601-12-1423848239 - Holdem no limit (20/40) - 2015/02/13 17:23:59 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (1025)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3900)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1330)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1545)
+Seat 9: 72waldokitty (1470)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 20
+72waldokitty posts big blind 40
+Dealt to sabre_laser [3d 8c]
+*** PRE-FLOP *** 
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar raises 40 to 80
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Charlybillar collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 6: Charlybillar won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #471639378205081601-13-1423848286 - Holdem no limit (20/40) - 2015/02/13 17:24:46 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Male-O_neT56 (1025)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3900)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1390)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1430)
+Seat 10: ..lesnake.. (1590)
+*** ANTE/BLINDS ***
+72waldokitty posts small blind 20
+..lesnake.. posts big blind 40
+Dealt to sabre_laser [Ad 3h]
+*** PRE-FLOP *** 
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 40
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. checks
+*** FLOP *** [4h Ac Qh]
+..lesnake.. checks
+Charlybillar bets 40
+..lesnake.. folds
+Charlybillar collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [4h Ac Qh]
+Seat 6: Charlybillar won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #471639378205081601-14-1423848345 - Holdem no limit (20/40) - 2015/02/13 17:25:45 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Male-O_neT56 (1025)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3900)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1550)
+*** ANTE/BLINDS ***
+..lesnake.. posts small blind 20
+Male-O_neT56 posts big blind 40
+Dealt to sabre_laser [Qc Kc]
+*** PRE-FLOP *** 
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. calls 20
+Male-O_neT56 checks
+*** FLOP *** [Qh 6s Ks]
+..lesnake.. checks
+Male-O_neT56 checks
+*** TURN *** [Qh 6s Ks][Qd]
+..lesnake.. checks
+Male-O_neT56 bets 60
+..lesnake.. calls 60
+*** RIVER *** [Qh 6s Ks Qd][8h]
+..lesnake.. checks
+Male-O_neT56 bets 200
+..lesnake.. folds
+Male-O_neT56 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Qh 6s Ks Qd 8h]
+Seat 1: Male-O_neT56 (big blind) won 400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #471639378205081601-15-1423848410 - Holdem no limit (20/40) - 2015/02/13 17:26:50 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Male-O_neT56 (1125)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3900)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1450)
+*** ANTE/BLINDS ***
+Male-O_neT56 posts small blind 20
+Davigo47 posts big blind 40
+Dealt to sabre_laser [7d 8c]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Davigo47 (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #471639378205081601-16-1423848436 - Holdem no limit (20/40) - 2015/02/13 17:27:16 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Male-O_neT56 (1105)
+Seat 2: Davigo47 (1200)
+Seat 3: sabre_laser (3900)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1450)
+*** ANTE/BLINDS ***
+Davigo47 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Kh 2c]
+*** PRE-FLOP *** 
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 raises 40 to 80
+Davigo47 folds
+sabre_laser raises 160 to 240
+Male-O_neT56 raises 865 to 1105 and is all-in
+sabre_laser folds
+Male-O_neT56 collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | No rake
+Seat 1: Male-O_neT56 (button) won 1365
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #471639378205081601-17-1423848494 - Holdem no limit (20/40) - 2015/02/13 17:28:14 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Male-O_neT56 (1365)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3660)
+Seat 5: G_ZU (1455)
+Seat 6: Charlybillar (1450)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1450)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+G_ZU posts big blind 40
+Dealt to sabre_laser [Kd 4s]
+*** PRE-FLOP *** 
+Charlybillar raises 40 to 80
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 6: Charlybillar won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-18-1423848537 - Holdem no limit (30/60) - 2015/02/13 17:28:57 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Male-O_neT56 (1365)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3640)
+Seat 5: G_ZU (1415)
+Seat 6: Charlybillar (1510)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1450)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 30
+Charlybillar posts big blind 60
+Dealt to sabre_laser [3h 5s]
+*** PRE-FLOP *** 
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: Charlybillar (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-19-1423848567 - Holdem no limit (30/60) - 2015/02/13 17:29:27 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Male-O_neT56 (1365)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3640)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1540)
+Seat 7: SKT T1 Faker (1505)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1450)
+*** ANTE/BLINDS ***
+Charlybillar posts small blind 30
+SKT T1 Faker posts big blind 60
+Dealt to sabre_laser [Th 3s]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 30
+SKT T1 Faker checks
+*** FLOP *** [5s Ad Jd]
+Charlybillar bets 60
+SKT T1 Faker calls 60
+*** TURN *** [5s Ad Jd][6h]
+Charlybillar checks
+SKT T1 Faker checks
+*** RIVER *** [5s Ad Jd 6h][Qh]
+Charlybillar checks
+SKT T1 Faker bets 1385 and is all-in
+Charlybillar folds
+SKT T1 Faker collected 1625 from pot
+*** SUMMARY ***
+Total pot 1625 | No rake
+Board: [5s Ad Jd 6h Qh]
+Seat 7: SKT T1 Faker (big blind) won 1625
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-20-1423848625 - Holdem no limit (30/60) - 2015/02/13 17:30:25 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (1365)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3640)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1420)
+Seat 7: SKT T1 Faker (1625)
+Seat 8: LABELLE VIE (1525)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1450)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts small blind 30
+LABELLE VIE posts big blind 60
+Dealt to sabre_laser [9s 6h]
+*** PRE-FLOP *** 
+72waldokitty folds
+..lesnake.. calls 60
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 60
+SKT T1 Faker folds
+LABELLE VIE checks
+*** FLOP *** [8s Th 3s]
+LABELLE VIE checks
+..lesnake.. checks
+Charlybillar bets 60
+LABELLE VIE folds
+..lesnake.. folds
+Charlybillar collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [8s Th 3s]
+Seat 6: Charlybillar (button) won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-21-1423848658 - Holdem no limit (30/60) - 2015/02/13 17:30:58 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (1365)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3640)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1570)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1465)
+Seat 9: 72waldokitty (1410)
+Seat 10: ..lesnake.. (1390)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 30
+72waldokitty posts big blind 60
+Dealt to sabre_laser [2h 5h]
+*** PRE-FLOP *** 
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser raises 90 to 150
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: sabre_laser won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-22-1423848694 - Holdem no limit (30/60) - 2015/02/13 17:31:34 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Male-O_neT56 (1365)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3730)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1570)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1350)
+Seat 10: ..lesnake.. (1390)
+*** ANTE/BLINDS ***
+72waldokitty posts small blind 30
+..lesnake.. posts big blind 60
+Dealt to sabre_laser [4c 6s]
+*** PRE-FLOP *** 
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 10: ..lesnake.. (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-23-1423848740 - Holdem no limit (30/60) - 2015/02/13 17:32:20 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Male-O_neT56 (1365)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3730)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1570)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1320)
+Seat 10: ..lesnake.. (1420)
+*** ANTE/BLINDS ***
+..lesnake.. posts small blind 30
+Male-O_neT56 posts big blind 60
+Dealt to sabre_laser [Kh Ts]
+*** PRE-FLOP *** 
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. raises 90 to 150
+Male-O_neT56 raises 1215 to 1365 and is all-in
+..lesnake.. calls 1215
+*** FLOP *** [Th Tc 9d]
+*** TURN *** [Th Tc 9d][3d]
+*** RIVER *** [Th Tc 9d 3d][7d]
+*** SHOW DOWN ***
+..lesnake.. shows [Ah As] (Two pairs : Aces and Tens)
+Male-O_neT56 shows [Jd Ad] (Flush Ace high)
+Male-O_neT56 collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [Th Tc 9d 3d 7d]
+Seat 1: Male-O_neT56 (big blind) showed [Jd Ad] and won 2730 with Flush Ace high
+Seat 10: ..lesnake.. (small blind) showed [Ah As] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-24-1423848785 - Holdem no limit (30/60) - 2015/02/13 17:33:05 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Male-O_neT56 (2730)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3730)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1570)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1320)
+Seat 10: ..lesnake.. (55)
+*** ANTE/BLINDS ***
+Male-O_neT56 posts small blind 30
+Davigo47 posts big blind 60
+Dealt to sabre_laser [Ah 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 60
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 calls 30
+Davigo47 checks
+*** FLOP *** [8c Kh 3h]
+Male-O_neT56 checks
+Davigo47 checks
+Charlybillar bets 60
+Male-O_neT56 folds
+Davigo47 folds
+Charlybillar collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c Kh 3h]
+Seat 6: Charlybillar won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-25-1423848829 - Holdem no limit (30/60) - 2015/02/13 17:33:49 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Male-O_neT56 (2670)
+Seat 2: Davigo47 (1120)
+Seat 3: sabre_laser (3730)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1690)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1320)
+Seat 10: ..lesnake.. (55)
+*** ANTE/BLINDS ***
+Davigo47 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Ad 4d]
+*** PRE-FLOP *** 
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty raises 90 to 150
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser calls 90
+*** FLOP *** [3s 9c 8d]
+sabre_laser bets 330
+72waldokitty raises 840 to 1170 and is all-in
+sabre_laser folds
+72waldokitty collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Board: [3s 9c 8d]
+Seat 9: 72waldokitty won 1830
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #471639378205081601-26-1423848890 - Holdem no limit (30/60) - 2015/02/13 17:34:50 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Male-O_neT56 (2670)
+Seat 2: Davigo47 (1090)
+Seat 3: sabre_laser (3250)
+Seat 5: G_ZU (1385)
+Seat 6: Charlybillar (1690)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1830)
+Seat 10: ..lesnake.. (55)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+G_ZU posts big blind 60
+Dealt to sabre_laser [5s 2c]
+*** PRE-FLOP *** 
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. folds
+Male-O_neT56 folds
+Davigo47 raises 120 to 180
+sabre_laser folds
+G_ZU folds
+Davigo47 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: Davigo47 (button) won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #471639378205081601-27-1423848923 - Holdem no limit (40/80) - 2015/02/13 17:35:23 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Male-O_neT56 (2670)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3220)
+Seat 5: G_ZU (1325)
+Seat 6: Charlybillar (1690)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1830)
+Seat 10: ..lesnake.. (55)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 40
+Charlybillar posts big blind 80
+Dealt to sabre_laser [3c 8h]
+*** PRE-FLOP *** 
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+..lesnake.. calls 55 and is all-in
+Male-O_neT56 calls 80
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar checks
+*** FLOP *** [9d 9c Jc]
+Charlybillar checks
+Male-O_neT56 checks
+*** TURN *** [9d 9c Jc][3s]
+Charlybillar checks
+Male-O_neT56 checks
+*** RIVER *** [9d 9c Jc 3s][5c]
+Charlybillar checks
+Male-O_neT56 bets 170
+Charlybillar folds
+*** SHOW DOWN ***
+..lesnake.. shows [Ah Kd] (One pair : 9)
+Male-O_neT56 shows [Ks 9h] (Trips of 9)
+Male-O_neT56 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Board: [9d 9c Jc 3s 5c]
+Seat 1: Male-O_neT56 showed [Ks 9h] and won 425 with Trips of 9
+Seat 10: ..lesnake.. showed [Ah Kd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #471639378205081601-28-1423849001 - Holdem no limit (40/80) - 2015/02/13 17:36:41 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Male-O_neT56 (2845)
+Seat 2: Davigo47 (1180)
+Seat 3: sabre_laser (3220)
+Seat 5: G_ZU (1285)
+Seat 6: Charlybillar (1610)
+Seat 7: SKT T1 Faker (1595)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+Charlybillar posts small blind 40
+SKT T1 Faker posts big blind 80
+Dealt to sabre_laser [2h 8d]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 raises 80 to 160
+Davigo47 calls 160
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+*** FLOP *** [3d 4h 7c]
+Male-O_neT56 checks
+Davigo47 checks
+*** TURN *** [3d 4h 7c][9s]
+Male-O_neT56 bets 293
+Davigo47 folds
+Male-O_neT56 collected 733 from pot
+*** SUMMARY ***
+Total pot 733 | No rake
+Board: [3d 4h 7c 9s]
+Seat 1: Male-O_neT56 won 733
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #471639378205081601-29-1423849056 - Holdem no limit (40/80) - 2015/02/13 17:37:36 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (3125)
+Seat 2: Davigo47 (1020)
+Seat 3: sabre_laser (3220)
+Seat 5: G_ZU (1285)
+Seat 6: Charlybillar (1570)
+Seat 7: SKT T1 Faker (1515)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts small blind 40
+LABELLE VIE posts big blind 80
+Dealt to sabre_laser [4c 5h]
+*** PRE-FLOP *** 
+72waldokitty folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 80
+SKT T1 Faker folds
+LABELLE VIE checks
+*** FLOP *** [3s 6c 7s]
+LABELLE VIE checks
+Charlybillar checks
+*** TURN *** [3s 6c 7s][6h]
+LABELLE VIE checks
+Charlybillar checks
+*** RIVER *** [3s 6c 7s 6h][7d]
+LABELLE VIE checks
+Charlybillar checks
+*** SHOW DOWN ***
+LABELLE VIE shows [Jh 5c] (Two pairs : 7 and 6)
+Charlybillar shows [Qs Ks] (Two pairs : 7 and 6)
+Charlybillar collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [3s 6c 7s 6h 7d]
+Seat 6: Charlybillar (button) showed [Qs Ks] and won 200 with Two pairs : 7 and 6
+Seat 8: LABELLE VIE (big blind) showed [Jh 5c] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #471639378205081601-30-1423849112 - Holdem no limit (40/80) - 2015/02/13 17:38:32 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (3125)
+Seat 2: Davigo47 (1020)
+Seat 3: sabre_laser (3220)
+Seat 5: G_ZU (1285)
+Seat 6: Charlybillar (1690)
+Seat 7: SKT T1 Faker (1475)
+Seat 8: LABELLE VIE (1355)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 40
+72waldokitty posts big blind 80
+Dealt to sabre_laser [Jh 8s]
+*** PRE-FLOP *** 
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 9: 72waldokitty (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #471639378205081601-31-1423849153 - Holdem no limit (40/80) - 2015/02/13 17:39:13 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Male-O_neT56 (3125)
+Seat 2: Davigo47 (1020)
+Seat 3: sabre_laser (3220)
+Seat 5: G_ZU (1285)
+Seat 6: Charlybillar (1690)
+Seat 7: SKT T1 Faker (1475)
+Seat 8: LABELLE VIE (1315)
+Seat 9: 72waldokitty (1870)
+*** ANTE/BLINDS ***
+72waldokitty posts small blind 40
+Male-O_neT56 posts big blind 80
+Dealt to sabre_laser [4c Jd]
+*** PRE-FLOP *** 
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 80
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 raises 160 to 240
+Charlybillar calls 160
+*** FLOP *** [4h Td 6c]
+Male-O_neT56 checks
+Charlybillar bets 80
+Male-O_neT56 calls 80
+*** TURN *** [4h Td 6c][7h]
+Male-O_neT56 checks
+Charlybillar bets 80
+Male-O_neT56 calls 80
+*** RIVER *** [4h Td 6c 7h][5h]
+Male-O_neT56 checks
+Charlybillar checks
+*** SHOW DOWN ***
+Male-O_neT56 shows [Kc Ah] (High card : Ace)
+Charlybillar shows [As 7d] (One pair : 7)
+Charlybillar collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [4h Td 6c 7h 5h]
+Seat 1: Male-O_neT56 (big blind) showed [Kc Ah] and lost with High card : Ace
+Seat 6: Charlybillar showed [As 7d] and won 840 with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-32-1423849266 - Holdem no limit (60/120) - 2015/02/13 17:41:06 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Male-O_neT56 (2725)
+Seat 2: Davigo47 (1020)
+Seat 3: sabre_laser (3220)
+Seat 5: G_ZU (1285)
+Seat 6: Charlybillar (2130)
+Seat 7: SKT T1 Faker (1475)
+Seat 8: LABELLE VIE (1315)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+Male-O_neT56 posts small blind 60
+Davigo47 posts big blind 120
+Dealt to sabre_laser [Ks 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 120
+SKT T1 Faker folds
+LABELLE VIE raises 1195 to 1315 and is all-in
+72waldokitty folds
+Male-O_neT56 folds
+Davigo47 folds
+Charlybillar folds
+LABELLE VIE collected 1615 from pot
+*** SUMMARY ***
+Total pot 1615 | No rake
+Seat 8: LABELLE VIE won 1615
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-33-1423849306 - Holdem no limit (60/120) - 2015/02/13 17:41:46 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Male-O_neT56 (2665)
+Seat 2: Davigo47 (900)
+Seat 3: sabre_laser (3220)
+Seat 5: G_ZU (1285)
+Seat 6: Charlybillar (2010)
+Seat 7: SKT T1 Faker (1475)
+Seat 8: LABELLE VIE (1615)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+Davigo47 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [5h 8c]
+*** PRE-FLOP *** 
+G_ZU folds
+Charlybillar raises 120 to 240
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+Charlybillar collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: Charlybillar won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-34-1423849336 - Holdem no limit (60/120) - 2015/02/13 17:42:16 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Male-O_neT56 (2665)
+Seat 2: Davigo47 (840)
+Seat 3: sabre_laser (3100)
+Seat 5: G_ZU (1285)
+Seat 6: Charlybillar (2190)
+Seat 7: SKT T1 Faker (1475)
+Seat 8: LABELLE VIE (1615)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+G_ZU posts big blind 120
+Dealt to sabre_laser [9d 3d]
+*** PRE-FLOP *** 
+Charlybillar calls 120
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU checks
+*** FLOP *** [Qd Ks 4s]
+G_ZU checks
+Charlybillar bets 120
+G_ZU folds
+Charlybillar collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Qd Ks 4s]
+Seat 6: Charlybillar won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-35-1423849392 - Holdem no limit (60/120) - 2015/02/13 17:43:12 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Male-O_neT56 (2665)
+Seat 2: Davigo47 (840)
+Seat 3: sabre_laser (3040)
+Seat 5: G_ZU (1165)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1475)
+Seat 8: LABELLE VIE (1615)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 60
+Charlybillar posts big blind 120
+Dealt to sabre_laser [9c 3h]
+*** PRE-FLOP *** 
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: Charlybillar (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-36-1423849437 - Holdem no limit (60/120) - 2015/02/13 17:43:57 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Male-O_neT56 (2665)
+Seat 2: Davigo47 (840)
+Seat 3: sabre_laser (3040)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (2430)
+Seat 7: SKT T1 Faker (1475)
+Seat 8: LABELLE VIE (1615)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+Charlybillar posts small blind 60
+SKT T1 Faker posts big blind 120
+Dealt to sabre_laser [2c 8d]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 raises 180 to 300
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+Male-O_neT56 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: Male-O_neT56 won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-37-1423849476 - Holdem no limit (60/120) - 2015/02/13 17:44:36 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (2845)
+Seat 2: Davigo47 (840)
+Seat 3: sabre_laser (3040)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1355)
+Seat 8: LABELLE VIE (1615)
+Seat 9: 72waldokitty (1830)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts small blind 60
+LABELLE VIE posts big blind 120
+Dealt to sabre_laser [7c 6d]
+*** PRE-FLOP *** 
+72waldokitty raises 240 to 360
+Male-O_neT56 folds
+Davigo47 calls 360
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+*** FLOP *** [5s 8c 8h]
+72waldokitty bets 480
+Davigo47 folds
+72waldokitty collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [5s 8c 8h]
+Seat 9: 72waldokitty won 1380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-38-1423849537 - Holdem no limit (60/120) - 2015/02/13 17:45:37 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (2845)
+Seat 2: Davigo47 (480)
+Seat 3: sabre_laser (3040)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1495)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 60
+72waldokitty posts big blind 120
+Dealt to sabre_laser [9h 6c]
+*** PRE-FLOP *** 
+Male-O_neT56 folds
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: 72waldokitty (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-39-1423849562 - Holdem no limit (60/120) - 2015/02/13 17:46:02 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Male-O_neT56 (2845)
+Seat 2: Davigo47 (480)
+Seat 3: sabre_laser (3040)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2430)
+*** ANTE/BLINDS ***
+72waldokitty posts small blind 60
+Male-O_neT56 posts big blind 120
+Dealt to sabre_laser [Th 4s]
+*** PRE-FLOP *** 
+Davigo47 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: Male-O_neT56 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #471639378205081601-40-1423849589 - Holdem no limit (60/120) - 2015/02/13 17:46:29 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Male-O_neT56 (2905)
+Seat 2: Davigo47 (480)
+Seat 3: sabre_laser (3040)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+Male-O_neT56 posts small blind 60
+Davigo47 posts big blind 120
+Dealt to sabre_laser [Jh Kd]
+*** PRE-FLOP *** 
+sabre_laser raises 120 to 240
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 calls 180
+Davigo47 raises 240 to 480 and is all-in
+sabre_laser calls 240
+Male-O_neT56 calls 240
+*** FLOP *** [4h 3c 2h]
+Male-O_neT56 bets 2425 and is all-in
+sabre_laser folds
+*** TURN *** [4h 3c 2h][5s]
+*** RIVER *** [4h 3c 2h 5s][2s]
+*** SHOW DOWN ***
+Davigo47 shows [Kc Jd] (One pair : 2)
+Male-O_neT56 shows [4s Kh] (Two pairs : 4 and 2)
+Male-O_neT56 collected 3865 from pot
+*** SUMMARY ***
+Total pot 3865 | No rake
+Board: [4h 3c 2h 5s 2s]
+Seat 1: Male-O_neT56 (small blind) showed [4s Kh] and won 3865 with Two pairs : 4 and 2
+Seat 2: Davigo47 (big blind) showed [Kc Jd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-41-1423849637 - Holdem no limit (80/160) - 2015/02/13 17:47:17 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Male-O_neT56 (3865)
+Seat 3: sabre_laser (2560)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+sabre_laser posts big blind 160
+Dealt to sabre_laser [7c 4c]
+*** PRE-FLOP *** 
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: sabre_laser (big blind) won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-42-1423849663 - Holdem no limit (80/160) - 2015/02/13 17:47:43 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Male-O_neT56 (3865)
+Seat 3: sabre_laser (2560)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+G_ZU posts big blind 160
+Dealt to sabre_laser [8h 8d]
+*** PRE-FLOP *** 
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser raises 160 to 320
+G_ZU folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: sabre_laser (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-43-1423849691 - Holdem no limit (80/160) - 2015/02/13 17:48:11 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Male-O_neT56 (3865)
+Seat 3: sabre_laser (2720)
+Seat 5: G_ZU (945)
+Seat 6: Charlybillar (2370)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 80
+Charlybillar posts big blind 160
+Dealt to sabre_laser [4c Jd]
+*** PRE-FLOP *** 
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 raises 160 to 320
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 160
+*** FLOP *** [Td Qc Ks]
+Charlybillar checks
+Male-O_neT56 bets 240
+Charlybillar calls 240
+*** TURN *** [Td Qc Ks][Tc]
+Charlybillar checks
+Male-O_neT56 bets 560
+Charlybillar folds
+Male-O_neT56 collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [Td Qc Ks Tc]
+Seat 1: Male-O_neT56 won 1760
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-44-1423849725 - Holdem no limit (80/160) - 2015/02/13 17:48:45 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Male-O_neT56 (4505)
+Seat 3: sabre_laser (2720)
+Seat 5: G_ZU (865)
+Seat 6: Charlybillar (1810)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+Charlybillar posts small blind 80
+SKT T1 Faker posts big blind 160
+Dealt to sabre_laser [2h 8c]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU raises 705 to 865 and is all-in
+Charlybillar folds
+SKT T1 Faker folds
+G_ZU collected 1105 from pot
+*** SUMMARY ***
+Total pot 1105 | No rake
+Seat 5: G_ZU (button) won 1105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-45-1423849755 - Holdem no limit (80/160) - 2015/02/13 17:49:15 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (4505)
+Seat 3: sabre_laser (2720)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (1730)
+Seat 7: SKT T1 Faker (1135)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts small blind 80
+LABELLE VIE posts big blind 160
+Dealt to sabre_laser [5h Qh]
+*** PRE-FLOP *** 
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: LABELLE VIE (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-46-1423849768 - Holdem no limit (80/160) - 2015/02/13 17:49:28 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (4505)
+Seat 3: sabre_laser (2720)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (1730)
+Seat 7: SKT T1 Faker (1055)
+Seat 8: LABELLE VIE (1515)
+Seat 9: 72waldokitty (2370)
+*** ANTE/BLINDS ***
+LABELLE VIE posts small blind 80
+72waldokitty posts big blind 160
+Dealt to sabre_laser [4d 4s]
+*** PRE-FLOP *** 
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 160
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty checks
+*** FLOP *** [4c 7h 2s]
+72waldokitty checks
+Charlybillar bets 160
+72waldokitty folds
+Charlybillar collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [4c 7h 2s]
+Seat 6: Charlybillar won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-47-1423849822 - Holdem no limit (80/160) - 2015/02/13 17:50:22 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Male-O_neT56 (4505)
+Seat 3: sabre_laser (2720)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (1970)
+Seat 7: SKT T1 Faker (1055)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2210)
+*** ANTE/BLINDS ***
+72waldokitty posts small blind 80
+Male-O_neT56 posts big blind 160
+Dealt to sabre_laser [4s 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: Male-O_neT56 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-48-1423849842 - Holdem no limit (80/160) - 2015/02/13 17:50:42 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Male-O_neT56 (4585)
+Seat 3: sabre_laser (2720)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (1970)
+Seat 7: SKT T1 Faker (1055)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2130)
+*** ANTE/BLINDS ***
+Male-O_neT56 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Ks 8s]
+*** PRE-FLOP *** 
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 calls 80
+sabre_laser checks
+*** FLOP *** [5s Jd 7d]
+Male-O_neT56 checks
+sabre_laser bets 160
+Male-O_neT56 calls 160
+*** TURN *** [5s Jd 7d][Qd]
+Male-O_neT56 checks
+sabre_laser checks
+*** RIVER *** [5s Jd 7d Qd][8c]
+Male-O_neT56 checks
+sabre_laser checks
+*** SHOW DOWN ***
+Male-O_neT56 shows [Ah 6h] (High card : Ace)
+sabre_laser shows [Ks 8s] (One pair : 8)
+sabre_laser collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [5s Jd 7d Qd 8c]
+Seat 1: Male-O_neT56 (small blind) showed [Ah 6h] and lost with High card : Ace
+Seat 3: sabre_laser (big blind) showed [Ks 8s] and won 640 with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-49-1423849929 - Holdem no limit (80/160) - 2015/02/13 17:52:09 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Male-O_neT56 (4265)
+Seat 3: sabre_laser (3040)
+Seat 5: G_ZU (1105)
+Seat 6: Charlybillar (1970)
+Seat 7: SKT T1 Faker (1055)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2130)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+G_ZU posts big blind 160
+Dealt to sabre_laser [7d 3h]
+*** PRE-FLOP *** 
+Charlybillar calls 160
+SKT T1 Faker folds
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU checks
+*** FLOP *** [Qs 8h 9s]
+G_ZU checks
+Charlybillar bets 160
+G_ZU folds
+Charlybillar collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qs 8h 9s]
+Seat 6: Charlybillar won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #471639378205081601-50-1423849964 - Holdem no limit (80/160) - 2015/02/13 17:52:44 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Male-O_neT56 (4265)
+Seat 3: sabre_laser (2960)
+Seat 5: G_ZU (945)
+Seat 6: Charlybillar (2210)
+Seat 7: SKT T1 Faker (1055)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2130)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 80
+Charlybillar posts big blind 160
+Dealt to sabre_laser [3s 8c]
+*** PRE-FLOP *** 
+SKT T1 Faker raises 895 to 1055 and is all-in
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker shows [Ah As] (One pair : Aces)
+SKT T1 Faker collected 1295 from pot
+*** SUMMARY ***
+Total pot 1295 | No rake
+Seat 7: SKT T1 Faker showed [Ah As] and won 1295 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-51-1423850003 - Holdem no limit (10/100/200) - 2015/02/13 17:53:23 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Male-O_neT56 (4265)
+Seat 3: sabre_laser (2960)
+Seat 5: G_ZU (865)
+Seat 6: Charlybillar (2050)
+Seat 7: SKT T1 Faker (1295)
+Seat 8: LABELLE VIE (1435)
+Seat 9: 72waldokitty (2130)
+*** ANTE/BLINDS ***
+Charlybillar posts ante 10
+SKT T1 Faker posts ante 10
+Male-O_neT56 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+LABELLE VIE posts ante 10
+72waldokitty posts ante 10
+Charlybillar posts small blind 100
+SKT T1 Faker posts big blind 200
+Dealt to sabre_laser [3c 2h]
+*** PRE-FLOP *** 
+LABELLE VIE folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU raises 655 to 855 and is all-in
+Charlybillar folds
+SKT T1 Faker folds
+G_ZU collected 1225 from pot
+*** SUMMARY ***
+Total pot 1225 | No rake
+Seat 5: G_ZU (button) won 1225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-52-1423850053 - Holdem no limit (10/100/200) - 2015/02/13 17:54:13 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (4255)
+Seat 3: sabre_laser (2950)
+Seat 5: G_ZU (1225)
+Seat 6: Charlybillar (1940)
+Seat 7: SKT T1 Faker (1085)
+Seat 8: LABELLE VIE (1425)
+Seat 9: 72waldokitty (2120)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts ante 10
+LABELLE VIE posts ante 10
+Male-O_neT56 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+Charlybillar posts ante 10
+72waldokitty posts ante 10
+SKT T1 Faker posts small blind 100
+LABELLE VIE posts big blind 200
+Dealt to sabre_laser [9h 2h]
+*** PRE-FLOP *** 
+72waldokitty folds
+Male-O_neT56 raises 200 to 400
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+LABELLE VIE raises 1015 to 1415 and is all-in
+Male-O_neT56 calls 1015
+*** FLOP *** [Ks Qc 5s]
+*** TURN *** [Ks Qc 5s][Jd]
+*** RIVER *** [Ks Qc 5s Jd][6s]
+*** SHOW DOWN ***
+LABELLE VIE shows [Ad Qh] (One pair : Queens)
+Male-O_neT56 shows [Qs Ts] (Flush King high)
+Male-O_neT56 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Ks Qc 5s Jd 6s]
+Seat 1: Male-O_neT56 showed [Qs Ts] and won 3000 with Flush King high
+Seat 8: LABELLE VIE (big blind) showed [Ad Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-53-1423850109 - Holdem no limit (10/100/200) - 2015/02/13 17:55:09 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (5830)
+Seat 3: sabre_laser (2940)
+Seat 5: G_ZU (1215)
+Seat 6: Charlybillar (1930)
+Seat 7: SKT T1 Faker (975)
+Seat 9: 72waldokitty (2110)
+*** ANTE/BLINDS ***
+72waldokitty posts ante 10
+Male-O_neT56 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+Charlybillar posts ante 10
+SKT T1 Faker posts ante 10
+72waldokitty posts big blind 200
+Dealt to sabre_laser [4d 9s]
+*** PRE-FLOP *** 
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar calls 200
+SKT T1 Faker folds
+72waldokitty checks
+*** FLOP *** [5d 4h 8h]
+72waldokitty checks
+Charlybillar checks
+*** TURN *** [5d 4h 8h][6d]
+72waldokitty checks
+Charlybillar checks
+*** RIVER *** [5d 4h 8h 6d][Tc]
+72waldokitty checks
+Charlybillar checks
+*** SHOW DOWN ***
+72waldokitty shows [9c Qc] (High card : Queen)
+Charlybillar shows [Ac 2s] (High card : Ace)
+Charlybillar collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [5d 4h 8h 6d Tc]
+Seat 6: Charlybillar showed [Ac 2s] and won 460 with High card : Ace
+Seat 9: 72waldokitty (big blind) showed [9c Qc] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-54-1423850148 - Holdem no limit (10/100/200) - 2015/02/13 17:55:48 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Male-O_neT56 (5820)
+Seat 3: sabre_laser (2930)
+Seat 5: G_ZU (1205)
+Seat 6: Charlybillar (2180)
+Seat 7: SKT T1 Faker (965)
+Seat 9: 72waldokitty (1900)
+*** ANTE/BLINDS ***
+72waldokitty posts ante 10
+Male-O_neT56 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+Charlybillar posts ante 10
+SKT T1 Faker posts ante 10
+72waldokitty posts small blind 100
+Male-O_neT56 posts big blind 200
+Dealt to sabre_laser [Kc Kd]
+*** PRE-FLOP *** 
+sabre_laser raises 200 to 400
+G_ZU folds
+Charlybillar calls 400
+SKT T1 Faker folds
+72waldokitty folds
+Male-O_neT56 calls 200
+*** FLOP *** [6c Ac Ks]
+Male-O_neT56 checks
+sabre_laser bets 1360
+Charlybillar folds
+Male-O_neT56 folds
+sabre_laser collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [6c Ac Ks]
+Seat 3: sabre_laser won 2720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-55-1423850211 - Holdem no limit (10/100/200) - 2015/02/13 17:56:51 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Male-O_neT56 (5410)
+Seat 3: sabre_laser (3880)
+Seat 5: G_ZU (1195)
+Seat 6: Charlybillar (1770)
+Seat 7: SKT T1 Faker (955)
+Seat 9: 72waldokitty (1790)
+*** ANTE/BLINDS ***
+Male-O_neT56 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+Charlybillar posts ante 10
+SKT T1 Faker posts ante 10
+72waldokitty posts ante 10
+Male-O_neT56 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Qs Qh]
+*** PRE-FLOP *** 
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: sabre_laser (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-56-1423850235 - Holdem no limit (10/100/200) - 2015/02/13 17:57:15 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Male-O_neT56 (5300)
+Seat 3: sabre_laser (4030)
+Seat 5: G_ZU (1185)
+Seat 6: Charlybillar (1760)
+Seat 7: SKT T1 Faker (945)
+Seat 9: 72waldokitty (1780)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+G_ZU posts ante 10
+Male-O_neT56 posts ante 10
+Charlybillar posts ante 10
+SKT T1 Faker posts ante 10
+72waldokitty posts ante 10
+sabre_laser posts small blind 100
+G_ZU posts big blind 200
+Dealt to sabre_laser [Js Kd]
+*** PRE-FLOP *** 
+Charlybillar folds
+SKT T1 Faker folds
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser raises 800 to 1000
+G_ZU folds
+sabre_laser collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 3: sabre_laser (small blind) won 1260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-57-1423850268 - Holdem no limit (10/100/200) - 2015/02/13 17:57:48 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Male-O_neT56 (5290)
+Seat 3: sabre_laser (4280)
+Seat 5: G_ZU (975)
+Seat 6: Charlybillar (1750)
+Seat 7: SKT T1 Faker (935)
+Seat 9: 72waldokitty (1770)
+*** ANTE/BLINDS ***
+G_ZU posts ante 10
+Charlybillar posts ante 10
+Male-O_neT56 posts ante 10
+sabre_laser posts ante 10
+SKT T1 Faker posts ante 10
+72waldokitty posts ante 10
+G_ZU posts small blind 100
+Charlybillar posts big blind 200
+Dealt to sabre_laser [3s 2d]
+*** PRE-FLOP *** 
+SKT T1 Faker raises 725 to 925 and is all-in
+72waldokitty folds
+Male-O_neT56 calls 925
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+*** FLOP *** [Kd 4h Td]
+*** TURN *** [Kd 4h Td][Ad]
+*** RIVER *** [Kd 4h Td Ad][Ac]
+*** SHOW DOWN ***
+Male-O_neT56 shows [2s 2h] (Two pairs : Aces and 2)
+SKT T1 Faker shows [5h 5s] (Two pairs : Aces and 5)
+SKT T1 Faker collected 2210 from pot
+*** SUMMARY ***
+Total pot 2210 | No rake
+Board: [Kd 4h Td Ad Ac]
+Seat 1: Male-O_neT56 showed [2s 2h] and lost with Two pairs : Aces and 2
+Seat 7: SKT T1 Faker showed [5h 5s] and won 2210 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #471639378205081601-58-1423850316 - Holdem no limit (10/100/200) - 2015/02/13 17:58:36 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Male-O_neT56 (4355)
+Seat 3: sabre_laser (4270)
+Seat 5: G_ZU (865)
+Seat 6: Charlybillar (1540)
+Seat 7: SKT T1 Faker (2210)
+Seat 9: 72waldokitty (1760)
+*** ANTE/BLINDS ***
+Charlybillar posts ante 10
+SKT T1 Faker posts ante 10
+Male-O_neT56 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+72waldokitty posts ante 10
+Charlybillar posts small blind 100
+SKT T1 Faker posts big blind 200
+Dealt to sabre_laser [8c 9c]
+*** PRE-FLOP *** 
+72waldokitty folds
+Male-O_neT56 folds
+sabre_laser calls 200
+G_ZU folds
+Charlybillar raises 1330 to 1530 and is all-in
+SKT T1 Faker folds
+sabre_laser folds
+Charlybillar collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Seat 6: Charlybillar (small blind) won 1990
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #471639378205081601-59-1423850367 - Holdem no limit (20/150/300) - 2015/02/13 17:59:27 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Male-O_neT56 (4345)
+Seat 3: sabre_laser (4060)
+Seat 5: G_ZU (855)
+Seat 6: Charlybillar (1990)
+Seat 7: SKT T1 Faker (2000)
+Seat 9: 72waldokitty (1750)
+*** ANTE/BLINDS ***
+SKT T1 Faker posts ante 20
+72waldokitty posts ante 20
+Male-O_neT56 posts ante 20
+sabre_laser posts ante 20
+G_ZU posts ante 20
+Charlybillar posts ante 20
+SKT T1 Faker posts small blind 150
+72waldokitty posts big blind 300
+Dealt to sabre_laser [4h 3d]
+*** PRE-FLOP *** 
+Male-O_neT56 folds
+sabre_laser folds
+G_ZU folds
+Charlybillar folds
+SKT T1 Faker folds
+72waldokitty collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 9: 72waldokitty (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #471639378205081601-60-1423850389 - Holdem no limit (20/150/300) - 2015/02/13 17:59:49 UTC
+Table: 'Double or Nothing(109812100)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Male-O_neT56 (4325)
+Seat 3: sabre_laser (4040)
+Seat 5: G_ZU (835)
+Seat 6: Charlybillar (1970)
+Seat 7: SKT T1 Faker (1830)
+Seat 9: 72waldokitty (2000)
+*** ANTE/BLINDS ***
+72waldokitty posts ante 20
+Male-O_neT56 posts ante 20
+sabre_laser posts ante 20
+G_ZU posts ante 20
+Charlybillar posts ante 20
+SKT T1 Faker posts ante 20
+72waldokitty posts small blind 150
+Male-O_neT56 posts big blind 300
+Dealt to sabre_laser [3h 8h]
+*** PRE-FLOP *** 
+sabre_laser folds
+G_ZU raises 515 to 815 and is all-in
+Charlybillar folds
+SKT T1 Faker calls 815
+72waldokitty folds
+Male-O_neT56 calls 515
+*** FLOP *** [4h 6s Jc]
+Male-O_neT56 checks
+SKT T1 Faker checks
+*** TURN *** [4h 6s Jc][Kc]
+Male-O_neT56 bets 300
+SKT T1 Faker calls 300
+*** RIVER *** [4h 6s Jc Kc][7s]
+Male-O_neT56 checks
+SKT T1 Faker checks
+*** SHOW DOWN ***
+Male-O_neT56 shows [Jh 9s] (One pair : Jacks)
+G_ZU shows [Ac Th] (High card : Ace)
+SKT T1 Faker shows [Ks Jd] (Two pairs : Kings and Jacks)
+SKT T1 Faker collected 3315 from pot
+*** SUMMARY ***
+Total pot 3315 | No rake
+Board: [4h 6s Jc Kc 7s]
+Seat 1: Male-O_neT56 (big blind) showed [Jh 9s] and lost with One pair : Jacks
+Seat 5: G_ZU showed [Ac Th] and lost with High card : Ace
+Seat 7: SKT T1 Faker (button) showed [Ks Jd] and won 3315 with Two pairs : Kings and Jacks
+
+

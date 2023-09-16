@@ -1,0 +1,2129 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563281069630029825-1-1442520482 - Holdem no limit (10/20) - 2015/09/17 20:08:02 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #8 is the button
+Seat 1: popopelop (1500)
+Seat 2: AceRaf77 (1500)
+Seat 3: Judoka04 (1500)
+Seat 4: KroKrogan (1500)
+Seat 5: 71l1kum (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Mars_Attack (1500)
+Seat 8: leeloo 30 (1500)
+Seat 9: Nuitorride62 (1500)
+Seat 10: Diabow (1500)
+*** ANTE/BLINDS ***
+Nuitorride62 posts small blind 10
+Diabow posts big blind 20
+Dealt to sabre_laser [9c 2h]
+*** PRE-FLOP *** 
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack raises 20 to 40
+leeloo 30 folds
+Nuitorride62 calls 30
+Diabow calls 20
+*** FLOP *** [6d Jc 8c]
+Nuitorride62 bets 60
+Diabow calls 60
+Mars_Attack raises 120 to 180
+Nuitorride62 calls 120
+Diabow folds
+*** TURN *** [6d Jc 8c][Qc]
+Nuitorride62 checks
+Mars_Attack bets 270
+Nuitorride62 calls 270
+*** RIVER *** [6d Jc 8c Qc][8d]
+Nuitorride62 checks
+Mars_Attack bets 540
+Nuitorride62 calls 540
+*** SHOW DOWN ***
+Nuitorride62 shows [Js Kh] (Two pairs : Jacks and 8)
+Mars_Attack shows [Qs Qd] (Full of Queens and 8)
+Mars_Attack collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [6d Jc 8c Qc 8d]
+Seat 7: Mars_Attack showed [Qs Qd] and won 2160 with Full of Queens and 8
+Seat 9: Nuitorride62 (small blind) showed [Js Kh] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563281069630029825-2-1442520630 - Holdem no limit (10/20) - 2015/09/17 20:10:30 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #9 is the button
+Seat 1: popopelop (1500)
+Seat 2: AceRaf77 (1500)
+Seat 3: Judoka04 (1500)
+Seat 4: KroKrogan (1500)
+Seat 5: 71l1kum (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Mars_Attack (2630)
+Seat 8: leeloo 30 (1500)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1400)
+*** ANTE/BLINDS ***
+Diabow posts small blind 10
+popopelop posts big blind 20
+Dealt to sabre_laser [6s Kh]
+*** PRE-FLOP *** 
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 20
+Nuitorride62 folds
+Diabow calls 10
+popopelop checks
+*** FLOP *** [Ks 6h 7s]
+Diabow checks
+popopelop checks
+leeloo 30 checks
+*** TURN *** [Ks 6h 7s][9c]
+Diabow checks
+popopelop bets 40
+leeloo 30 folds
+Diabow folds
+popopelop collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ks 6h 7s 9c]
+Seat 1: popopelop (big blind) won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563281069630029825-3-1442520773 - Holdem no limit (10/20) - 2015/09/17 20:12:53 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #10 is the button
+Seat 1: popopelop (1540)
+Seat 2: AceRaf77 (1500)
+Seat 3: Judoka04 (1500)
+Seat 4: KroKrogan (1500)
+Seat 5: 71l1kum (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Mars_Attack (2630)
+Seat 8: leeloo 30 (1480)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1380)
+*** ANTE/BLINDS ***
+popopelop posts small blind 10
+AceRaf77 posts big blind 20
+Dealt to sabre_laser [2s 2d]
+*** PRE-FLOP *** 
+Judoka04 raises 50 to 70
+KroKrogan folds
+71l1kum folds
+sabre_laser calls 70
+Mars_Attack folds
+leeloo 30 calls 70
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 calls 50
+*** FLOP *** [8h 4h Kh]
+AceRaf77 checks
+Judoka04 bets 290
+sabre_laser folds
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8h 4h Kh]
+Seat 3: Judoka04 won 580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563281069630029825-4-1442520878 - Holdem no limit (15/30) - 2015/09/17 20:14:38 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #1 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1430)
+Seat 3: Judoka04 (1720)
+Seat 4: KroKrogan (1500)
+Seat 5: 71l1kum (1500)
+Seat 6: sabre_laser (1430)
+Seat 7: Mars_Attack (2630)
+Seat 8: leeloo 30 (1410)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1380)
+*** ANTE/BLINDS ***
+AceRaf77 posts small blind 15
+Judoka04 posts big blind 30
+Dealt to sabre_laser [8h 7s]
+*** PRE-FLOP *** 
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 calls 15
+Judoka04 checks
+*** FLOP *** [3d 6c 9d]
+AceRaf77 checks
+Judoka04 checks
+*** TURN *** [3d 6c 9d][2s]
+AceRaf77 checks
+Judoka04 checks
+*** RIVER *** [3d 6c 9d 2s][3s]
+AceRaf77 checks
+Judoka04 bets 60
+AceRaf77 folds
+Judoka04 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3d 6c 9d 2s 3s]
+Seat 3: Judoka04 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563281069630029825-5-1442520996 - Holdem no limit (15/30) - 2015/09/17 20:16:36 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #2 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1400)
+Seat 3: Judoka04 (1750)
+Seat 4: KroKrogan (1500)
+Seat 5: 71l1kum (1500)
+Seat 6: sabre_laser (1430)
+Seat 7: Mars_Attack (2630)
+Seat 8: leeloo 30 (1410)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1380)
+*** ANTE/BLINDS ***
+Judoka04 posts small blind 15
+KroKrogan posts big blind 30
+Dealt to sabre_laser [9d 8d]
+*** PRE-FLOP *** 
+71l1kum folds
+sabre_laser raises 45 to 75
+Mars_Attack folds
+leeloo 30 calls 75
+Nuitorride62 folds
+Diabow calls 75
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+*** FLOP *** [2c As 6c]
+sabre_laser checks
+leeloo 30 checks
+Diabow bets 135
+sabre_laser folds
+leeloo 30 folds
+Diabow collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [2c As 6c]
+Seat 10: Diabow won 405
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563281069630029825-6-1442521078 - Holdem no limit (15/30) - 2015/09/17 20:17:58 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #3 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1400)
+Seat 3: Judoka04 (1735)
+Seat 4: KroKrogan (1470)
+Seat 5: 71l1kum (1500)
+Seat 6: sabre_laser (1355)
+Seat 7: Mars_Attack (2630)
+Seat 8: leeloo 30 (1335)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1575)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 15
+71l1kum posts big blind 30
+Dealt to sabre_laser [5s 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 30
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 calls 30
+Judoka04 folds
+KroKrogan folds
+71l1kum checks
+*** FLOP *** [3d Jh 2s]
+71l1kum checks
+leeloo 30 checks
+AceRaf77 checks
+*** TURN *** [3d Jh 2s][3s]
+71l1kum checks
+leeloo 30 checks
+AceRaf77 checks
+*** RIVER *** [3d Jh 2s 3s][9s]
+71l1kum bets 45
+leeloo 30 folds
+AceRaf77 raises 115 to 160
+71l1kum calls 115
+*** SHOW DOWN ***
+71l1kum shows [Ks 9h] (Two pairs : 9 and 3)
+AceRaf77 shows [As 6s] (Flush Ace high)
+AceRaf77 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Board: [3d Jh 2s 3s 9s]
+Seat 2: AceRaf77 showed [As 6s] and won 425 with Flush Ace high
+Seat 5: 71l1kum (big blind) showed [Ks 9h] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563281069630029825-7-1442521234 - Holdem no limit (20/40) - 2015/09/17 20:20:34 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #4 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1635)
+Seat 3: Judoka04 (1735)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1310)
+Seat 6: sabre_laser (1355)
+Seat 7: Mars_Attack (2630)
+Seat 8: leeloo 30 (1305)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1575)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [2d 2c]
+*** PRE-FLOP *** 
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: sabre_laser (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563281069630029825-8-1442521298 - Holdem no limit (20/40) - 2015/09/17 20:21:38 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #5 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1635)
+Seat 3: Judoka04 (1735)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (1375)
+Seat 7: Mars_Attack (2630)
+Seat 8: leeloo 30 (1305)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1575)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Mars_Attack posts big blind 40
+Dealt to sabre_laser [9h 6h]
+*** PRE-FLOP *** 
+leeloo 30 folds
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 raises 1695 to 1735 and is all-in
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+Judoka04 collected 1795 from pot
+*** SUMMARY ***
+Total pot 1795 | No rake
+Seat 3: Judoka04 won 1795
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563281069630029825-9-1442521369 - Holdem no limit (20/40) - 2015/09/17 20:22:49 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #6 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1635)
+Seat 3: Judoka04 (1795)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (1355)
+Seat 7: Mars_Attack (2590)
+Seat 8: leeloo 30 (1305)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1575)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 20
+leeloo 30 posts big blind 40
+Dealt to sabre_laser [Jh 4h]
+*** PRE-FLOP *** 
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 8: leeloo 30 (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563281069630029825-10-1442521406 - Holdem no limit (20/40) - 2015/09/17 20:23:26 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #7 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1635)
+Seat 3: Judoka04 (1795)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (1355)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1325)
+Seat 9: Nuitorride62 (470)
+Seat 10: Diabow (1575)
+*** ANTE/BLINDS ***
+leeloo 30 posts small blind 20
+Nuitorride62 posts big blind 40
+Dealt to sabre_laser [8s 9d]
+*** PRE-FLOP *** 
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 calls 40
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 20
+Nuitorride62 checks
+*** FLOP *** [Kd Jh Qs]
+leeloo 30 checks
+Nuitorride62 checks
+Judoka04 bets 120
+leeloo 30 folds
+Nuitorride62 folds
+Judoka04 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kd Jh Qs]
+Seat 3: Judoka04 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #563281069630029825-11-1442521497 - Holdem no limit (20/40) - 2015/09/17 20:24:57 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #8 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1635)
+Seat 3: Judoka04 (1875)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (1355)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1285)
+Seat 9: Nuitorride62 (430)
+Seat 10: Diabow (1575)
+*** ANTE/BLINDS ***
+Nuitorride62 posts small blind 20
+Diabow posts big blind 40
+Dealt to sabre_laser [7s 7h]
+*** PRE-FLOP *** 
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser calls 40
+Mars_Attack folds
+leeloo 30 calls 40
+Nuitorride62 raises 390 to 430 and is all-in
+Diabow folds
+sabre_laser calls 390
+leeloo 30 folds
+*** FLOP *** [8d 9d Tc]
+*** TURN *** [8d 9d Tc][3h]
+*** RIVER *** [8d 9d Tc 3h][Kh]
+*** SHOW DOWN ***
+sabre_laser shows [7s 7h] (One pair : 7)
+Nuitorride62 shows [Jd Jh] (One pair : Jacks)
+Nuitorride62 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [8d 9d Tc 3h Kh]
+Seat 6: sabre_laser showed [7s 7h] and lost with One pair : 7
+Seat 9: Nuitorride62 (small blind) showed [Jd Jh] and won 940 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563281069630029825-12-1442521580 - Holdem no limit (30/60) - 2015/09/17 20:26:20 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #9 is the button
+Seat 1: popopelop (1530)
+Seat 2: AceRaf77 (1635)
+Seat 3: Judoka04 (1875)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (925)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1245)
+Seat 9: Nuitorride62 (940)
+Seat 10: Diabow (1535)
+*** ANTE/BLINDS ***
+Diabow posts small blind 30
+popopelop posts big blind 60
+Dealt to sabre_laser [9h 8c]
+*** PRE-FLOP *** 
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 raises 150 to 210
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+leeloo 30 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 8: leeloo 30 won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563281069630029825-13-1442521614 - Holdem no limit (30/60) - 2015/09/17 20:26:54 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #10 is the button
+Seat 1: popopelop (1470)
+Seat 2: AceRaf77 (1635)
+Seat 3: Judoka04 (1875)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (925)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1335)
+Seat 9: Nuitorride62 (940)
+Seat 10: Diabow (1505)
+*** ANTE/BLINDS ***
+popopelop posts small blind 30
+AceRaf77 posts big blind 60
+Dealt to sabre_laser [4d 7d]
+*** PRE-FLOP *** 
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 raises 60 to 120
+Diabow folds
+popopelop calls 90
+AceRaf77 folds
+*** FLOP *** [3d Qc 4c]
+popopelop checks
+Nuitorride62 checks
+*** TURN *** [3d Qc 4c][Jc]
+popopelop bets 300
+Nuitorride62 folds
+popopelop collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3d Qc 4c Jc]
+Seat 1: popopelop (small blind) won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563281069630029825-14-1442521687 - Holdem no limit (30/60) - 2015/09/17 20:28:07 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #1 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (1575)
+Seat 3: Judoka04 (1875)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (925)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1335)
+Seat 9: Nuitorride62 (820)
+Seat 10: Diabow (1505)
+*** ANTE/BLINDS ***
+AceRaf77 posts small blind 30
+Judoka04 posts big blind 60
+Dealt to sabre_laser [5c Jh]
+*** PRE-FLOP *** 
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 60
+Nuitorride62 calls 60
+Diabow calls 60
+popopelop folds
+AceRaf77 calls 30
+Judoka04 checks
+*** FLOP *** [Tc 8s 3s]
+AceRaf77 checks
+Judoka04 checks
+leeloo 30 checks
+Nuitorride62 checks
+Diabow checks
+*** TURN *** [Tc 8s 3s][7h]
+AceRaf77 checks
+Judoka04 checks
+leeloo 30 checks
+Nuitorride62 checks
+Diabow checks
+*** RIVER *** [Tc 8s 3s 7h][4d]
+AceRaf77 checks
+Judoka04 checks
+leeloo 30 bets 60
+Nuitorride62 calls 60
+Diabow folds
+AceRaf77 calls 60
+Judoka04 folds
+*** SHOW DOWN ***
+leeloo 30 shows [8c 9d] (One pair : 8)
+Nuitorride62 shows [Ks Ah] (High card : Ace)
+AceRaf77 shows [6h Ts] (One pair : Tens)
+AceRaf77 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Tc 8s 3s 7h 4d]
+Seat 2: AceRaf77 (small blind) showed [6h Ts] and won 480 with One pair : Tens
+Seat 8: leeloo 30 showed [8c 9d] and lost with One pair : 8
+Seat 9: Nuitorride62 showed [Ks Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563281069630029825-15-1442521820 - Holdem no limit (30/60) - 2015/09/17 20:30:20 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #2 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (1935)
+Seat 3: Judoka04 (1815)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (925)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1215)
+Seat 9: Nuitorride62 (700)
+Seat 10: Diabow (1445)
+*** ANTE/BLINDS ***
+Judoka04 posts small blind 30
+KroKrogan posts big blind 60
+Dealt to sabre_laser [2h Kd]
+*** PRE-FLOP *** 
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 raises 60 to 120
+Judoka04 calls 90
+KroKrogan folds
+*** FLOP *** [7h Qs 8s]
+Judoka04 checks
+AceRaf77 bets 90
+Judoka04 folds
+AceRaf77 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [7h Qs 8s]
+Seat 2: AceRaf77 (button) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #563281069630029825-16-1442521884 - Holdem no limit (30/60) - 2015/09/17 20:31:24 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #3 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (2115)
+Seat 3: Judoka04 (1695)
+Seat 4: KroKrogan (1395)
+Seat 5: 71l1kum (1290)
+Seat 6: sabre_laser (925)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1215)
+Seat 9: Nuitorride62 (700)
+Seat 10: Diabow (1445)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 30
+71l1kum posts big blind 60
+Dealt to sabre_laser [4c Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 60
+Nuitorride62 calls 60
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum checks
+*** FLOP *** [6h Ks 5s]
+71l1kum checks
+leeloo 30 checks
+Nuitorride62 checks
+*** TURN *** [6h Ks 5s][9d]
+71l1kum bets 105
+leeloo 30 calls 105
+Nuitorride62 calls 105
+*** RIVER *** [6h Ks 5s 9d][4s]
+71l1kum bets 120
+leeloo 30 folds
+Nuitorride62 calls 120
+*** SHOW DOWN ***
+Nuitorride62 shows [Ah Qc] (High card : Ace)
+71l1kum shows [Kd Js] (One pair : Kings)
+71l1kum collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Board: [6h Ks 5s 9d 4s]
+Seat 5: 71l1kum (big blind) showed [Kd Js] and won 765 with One pair : Kings
+Seat 9: Nuitorride62 showed [Ah Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563281069630029825-17-1442521984 - Holdem no limit (40/80) - 2015/09/17 20:33:04 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #4 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (2115)
+Seat 3: Judoka04 (1695)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1770)
+Seat 6: sabre_laser (925)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1050)
+Seat 9: Nuitorride62 (415)
+Seat 10: Diabow (1445)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [2h 7c]
+*** PRE-FLOP *** 
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 raises 335 to 415 and is all-in
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Nuitorride62 collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 9: Nuitorride62 won 535
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563281069630029825-18-1442522036 - Holdem no limit (40/80) - 2015/09/17 20:33:56 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #5 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (2115)
+Seat 3: Judoka04 (1695)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (845)
+Seat 7: Mars_Attack (2570)
+Seat 8: leeloo 30 (1050)
+Seat 9: Nuitorride62 (535)
+Seat 10: Diabow (1445)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Mars_Attack posts big blind 80
+Dealt to sabre_laser [7s 9c]
+*** PRE-FLOP *** 
+leeloo 30 raises 80 to 160
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 8: leeloo 30 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563281069630029825-19-1442522087 - Holdem no limit (40/80) - 2015/09/17 20:34:47 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #6 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (2115)
+Seat 3: Judoka04 (1695)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2490)
+Seat 8: leeloo 30 (1170)
+Seat 9: Nuitorride62 (535)
+Seat 10: Diabow (1445)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 40
+leeloo 30 posts big blind 80
+Dealt to sabre_laser [Ah 4c]
+*** PRE-FLOP *** 
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 raises 160 to 240
+Judoka04 calls 240
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+*** FLOP *** [Kc Qs Kh]
+AceRaf77 checks
+Judoka04 checks
+*** TURN *** [Kc Qs Kh][Td]
+AceRaf77 checks
+Judoka04 bets 600
+AceRaf77 folds
+Judoka04 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Kc Qs Kh Td]
+Seat 3: Judoka04 won 1200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563281069630029825-20-1442522196 - Holdem no limit (40/80) - 2015/09/17 20:36:36 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #7 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (1875)
+Seat 3: Judoka04 (2055)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (1090)
+Seat 9: Nuitorride62 (535)
+Seat 10: Diabow (1445)
+*** ANTE/BLINDS ***
+leeloo 30 posts small blind 40
+Nuitorride62 posts big blind 80
+Dealt to sabre_laser [9s 2s]
+*** PRE-FLOP *** 
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 40
+Nuitorride62 checks
+*** FLOP *** [5c Ad Qh]
+leeloo 30 bets 1010 and is all-in
+Nuitorride62 folds
+leeloo 30 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Board: [5c Ad Qh]
+Seat 8: leeloo 30 (small blind) won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #563281069630029825-21-1442522243 - Holdem no limit (40/80) - 2015/09/17 20:37:23 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #8 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (1875)
+Seat 3: Judoka04 (2055)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (1170)
+Seat 9: Nuitorride62 (455)
+Seat 10: Diabow (1445)
+*** ANTE/BLINDS ***
+Nuitorride62 posts small blind 40
+Diabow posts big blind 80
+Dealt to sabre_laser [Qd Kd]
+*** PRE-FLOP *** 
+popopelop folds
+AceRaf77 calls 80
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser raises 725 to 805 and is all-in
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 folds
+Diabow folds
+AceRaf77 folds
+sabre_laser collected 1005 from pot
+*** SUMMARY ***
+Total pot 1005 | No rake
+Seat 6: sabre_laser won 1005
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563281069630029825-22-1442522291 - Holdem no limit (60/120) - 2015/09/17 20:38:11 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #9 is the button
+Seat 1: popopelop (1650)
+Seat 2: AceRaf77 (1795)
+Seat 3: Judoka04 (2055)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (1005)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (1170)
+Seat 9: Nuitorride62 (415)
+Seat 10: Diabow (1365)
+*** ANTE/BLINDS ***
+Diabow posts small blind 60
+popopelop posts big blind 120
+Dealt to sabre_laser [3s Jc]
+*** PRE-FLOP *** 
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 raises 299 to 419
+Nuitorride62 folds
+Diabow folds
+popopelop raises 1231 to 1650 and is all-in
+leeloo 30 calls 751 and is all-in
+*** FLOP *** [Qs Jh 8c]
+*** TURN *** [Qs Jh 8c][Tc]
+*** RIVER *** [Qs Jh 8c Tc][8h]
+*** SHOW DOWN ***
+leeloo 30 shows [6h 6s] (Two pairs : 8 and 6)
+popopelop shows [5s 5c] (Two pairs : 8 and 5)
+popopelop collected 480 from side pot 1
+leeloo 30 collected 2400 from main pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [Qs Jh 8c Tc 8h]
+Seat 1: popopelop (big blind) showed [5s 5c] and won 480 with Two pairs : 8 and 5
+Seat 8: leeloo 30 showed [6h 6s] and won 2400 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563281069630029825-23-1442522344 - Holdem no limit (60/120) - 2015/09/17 20:39:04 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #10 is the button
+Seat 1: popopelop (480)
+Seat 2: AceRaf77 (1795)
+Seat 3: Judoka04 (2055)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (1005)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (2400)
+Seat 9: Nuitorride62 (415)
+Seat 10: Diabow (1305)
+*** ANTE/BLINDS ***
+popopelop posts small blind 60
+AceRaf77 posts big blind 120
+Dealt to sabre_laser [Jc Kd]
+*** PRE-FLOP *** 
+Judoka04 calls 120
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 raises 120 to 240
+Diabow folds
+popopelop folds
+AceRaf77 calls 120
+Judoka04 calls 120
+*** FLOP *** [Th 4c 8d]
+AceRaf77 checks
+Judoka04 checks
+Nuitorride62 bets 175 and is all-in
+AceRaf77 folds
+Judoka04 calls 175
+*** TURN *** [Th 4c 8d][Js]
+*** RIVER *** [Th 4c 8d Js][6d]
+*** SHOW DOWN ***
+Judoka04 shows [3s 3c] (One pair : 3)
+Nuitorride62 shows [Ad Ah] (One pair : Aces)
+Nuitorride62 collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Board: [Th 4c 8d Js 6d]
+Seat 3: Judoka04 showed [3s 3c] and lost with One pair : 3
+Seat 9: Nuitorride62 showed [Ad Ah] and won 1130 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563281069630029825-24-1442522455 - Holdem no limit (60/120) - 2015/09/17 20:40:55 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #1 is the button
+Seat 1: popopelop (420)
+Seat 2: AceRaf77 (1555)
+Seat 3: Judoka04 (1640)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (1005)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (2400)
+Seat 9: Nuitorride62 (1130)
+Seat 10: Diabow (1305)
+*** ANTE/BLINDS ***
+AceRaf77 posts small blind 60
+Judoka04 posts big blind 120
+Dealt to sabre_laser [Qh 5c]
+*** PRE-FLOP *** 
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 folds
+Diabow folds
+popopelop raises 300 to 420 and is all-in
+AceRaf77 folds
+Judoka04 folds
+popopelop collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: popopelop (button) won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563281069630029825-25-1442522502 - Holdem no limit (60/120) - 2015/09/17 20:41:42 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #2 is the button
+Seat 1: popopelop (600)
+Seat 2: AceRaf77 (1495)
+Seat 3: Judoka04 (1520)
+Seat 4: KroKrogan (1365)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (1005)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (2400)
+Seat 9: Nuitorride62 (1130)
+Seat 10: Diabow (1305)
+*** ANTE/BLINDS ***
+Judoka04 posts small blind 60
+KroKrogan posts big blind 120
+Dealt to sabre_laser [2h 5s]
+*** PRE-FLOP *** 
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 folds
+Diabow folds
+popopelop folds
+AceRaf77 raises 1375 to 1495 and is all-in
+Judoka04 folds
+KroKrogan folds
+AceRaf77 collected 1675 from pot
+*** SUMMARY ***
+Total pot 1675 | No rake
+Seat 2: AceRaf77 (button) won 1675
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563281069630029825-26-1442522583 - Holdem no limit (60/120) - 2015/09/17 20:43:03 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #3 is the button
+Seat 1: popopelop (600)
+Seat 2: AceRaf77 (1675)
+Seat 3: Judoka04 (1460)
+Seat 4: KroKrogan (1245)
+Seat 5: 71l1kum (1730)
+Seat 6: sabre_laser (1005)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (2400)
+Seat 9: Nuitorride62 (1130)
+Seat 10: Diabow (1305)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 60
+71l1kum posts big blind 120
+Dealt to sabre_laser [6d Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Nuitorride62 calls 120
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum raises 1610 to 1730 and is all-in
+Nuitorride62 calls 1010 and is all-in
+*** FLOP *** [Qs 5s 4h]
+*** TURN *** [Qs 5s 4h][4d]
+*** RIVER *** [Qs 5s 4h 4d][Qh]
+*** SHOW DOWN ***
+Nuitorride62 shows [As Kd] (Two pairs : Queens and 4)
+71l1kum shows [Ac Qc] (Full of Queens and 4)
+71l1kum collected 2920 from pot
+*** SUMMARY ***
+Total pot 2920 | No rake
+Board: [Qs 5s 4h 4d Qh]
+Seat 5: 71l1kum (big blind) showed [Ac Qc] and won 2920 with Full of Queens and 4
+Seat 9: Nuitorride62 showed [As Kd] and lost with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #563281069630029825-27-1442522634 - Holdem no limit (60/120) - 2015/09/17 20:43:54 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #4 is the button
+Seat 1: popopelop (600)
+Seat 2: AceRaf77 (1675)
+Seat 3: Judoka04 (1460)
+Seat 4: KroKrogan (1185)
+Seat 5: 71l1kum (2920)
+Seat 6: sabre_laser (1005)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (2400)
+Seat 10: Diabow (1305)
+*** ANTE/BLINDS ***
+71l1kum posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [8d Qs]
+*** PRE-FLOP *** 
+Mars_Attack folds
+leeloo 30 folds
+Diabow folds
+popopelop raises 480 to 600 and is all-in
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+popopelop collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 1: popopelop won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563281069630029825-28-1442522680 - Holdem no limit (80/160) - 2015/09/17 20:44:40 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #5 is the button
+Seat 1: popopelop (780)
+Seat 2: AceRaf77 (1675)
+Seat 3: Judoka04 (1460)
+Seat 4: KroKrogan (1185)
+Seat 5: 71l1kum (2860)
+Seat 6: sabre_laser (885)
+Seat 7: Mars_Attack (2450)
+Seat 8: leeloo 30 (2400)
+Seat 10: Diabow (1305)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Mars_Attack posts big blind 160
+Dealt to sabre_laser [6s Ts]
+*** PRE-FLOP *** 
+leeloo 30 raises 320 to 480
+Diabow folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 8: leeloo 30 won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563281069630029825-29-1442522753 - Holdem no limit (80/160) - 2015/09/17 20:45:53 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #6 is the button
+Seat 1: popopelop (780)
+Seat 2: AceRaf77 (1675)
+Seat 3: Judoka04 (1460)
+Seat 4: KroKrogan (1185)
+Seat 5: 71l1kum (2860)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2290)
+Seat 8: leeloo 30 (2640)
+Seat 10: Diabow (1305)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 80
+leeloo 30 posts big blind 160
+Dealt to sabre_laser [7h 6c]
+*** PRE-FLOP *** 
+Diabow raises 160 to 320
+popopelop folds
+AceRaf77 folds
+Judoka04 raises 1140 to 1460 and is all-in
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+Diabow calls 985 and is all-in
+*** FLOP *** [Qs 6h 8h]
+*** TURN *** [Qs 6h 8h][3c]
+*** RIVER *** [Qs 6h 8h 3c][2d]
+*** SHOW DOWN ***
+Diabow shows [Jc Kc] (High card : King)
+Judoka04 shows [Ad Th] (High card : Ace)
+Judoka04 collected 3005 from pot
+*** SUMMARY ***
+Total pot 3005 | No rake
+Board: [Qs 6h 8h 3c 2d]
+Seat 3: Judoka04 showed [Ad Th] and won 3005 with High card : Ace
+Seat 10: Diabow showed [Jc Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563281069630029825-30-1442522824 - Holdem no limit (80/160) - 2015/09/17 20:47:04 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #7 is the button
+Seat 1: popopelop (780)
+Seat 2: AceRaf77 (1675)
+Seat 3: Judoka04 (3005)
+Seat 4: KroKrogan (1185)
+Seat 5: 71l1kum (2860)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2210)
+Seat 8: leeloo 30 (2480)
+*** ANTE/BLINDS ***
+leeloo 30 posts small blind 80
+popopelop posts big blind 160
+Dealt to sabre_laser [3h 2s]
+*** PRE-FLOP *** 
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 80
+popopelop checks
+*** FLOP *** [Qd 4d Ad]
+leeloo 30 checks
+popopelop bets 620 and is all-in
+leeloo 30 folds
+popopelop collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [Qd 4d Ad]
+Seat 1: popopelop (big blind) won 940
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563281069630029825-31-1442522892 - Holdem no limit (80/160) - 2015/09/17 20:48:12 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #8 is the button
+Seat 1: popopelop (940)
+Seat 2: AceRaf77 (1675)
+Seat 3: Judoka04 (3005)
+Seat 4: KroKrogan (1185)
+Seat 5: 71l1kum (2860)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2210)
+Seat 8: leeloo 30 (2320)
+*** ANTE/BLINDS ***
+popopelop posts small blind 80
+AceRaf77 posts big blind 160
+Dealt to sabre_laser [9c 2h]
+*** PRE-FLOP *** 
+Judoka04 folds
+KroKrogan raises 1025 to 1185 and is all-in
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+popopelop folds
+AceRaf77 folds
+KroKrogan collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Seat 4: KroKrogan won 1425
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563281069630029825-32-1442522951 - Holdem no limit (80/160) - 2015/09/17 20:49:11 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #1 is the button
+Seat 1: popopelop (860)
+Seat 2: AceRaf77 (1515)
+Seat 3: Judoka04 (3005)
+Seat 4: KroKrogan (1425)
+Seat 5: 71l1kum (2860)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2210)
+Seat 8: leeloo 30 (2320)
+*** ANTE/BLINDS ***
+AceRaf77 posts small blind 80
+Judoka04 posts big blind 160
+Dealt to sabre_laser [7c 4h]
+*** PRE-FLOP *** 
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+popopelop raises 700 to 860 and is all-in
+AceRaf77 raises 655 to 1515 and is all-in
+Judoka04 folds
+*** FLOP *** [9c 9h 2s]
+*** TURN *** [9c 9h 2s][7s]
+*** RIVER *** [9c 9h 2s 7s][9s]
+*** SHOW DOWN ***
+popopelop shows [Kh As] (Trips of 9)
+AceRaf77 shows [Ac Qc] (Trips of 9)
+AceRaf77 collected 655 from side pot 1
+popopelop collected 1880 from main pot
+*** SUMMARY ***
+Total pot 2535 | No rake
+Board: [9c 9h 2s 7s 9s]
+Seat 1: popopelop (button) showed [Kh As] and won 1880 with Trips of 9
+Seat 2: AceRaf77 (small blind) showed [Ac Qc] and won 655 with Trips of 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #563281069630029825-33-1442522978 - Holdem no limit (80/160) - 2015/09/17 20:49:38 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #2 is the button
+Seat 1: popopelop (1880)
+Seat 2: AceRaf77 (655)
+Seat 3: Judoka04 (2845)
+Seat 4: KroKrogan (1425)
+Seat 5: 71l1kum (2860)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2210)
+Seat 8: leeloo 30 (2320)
+*** ANTE/BLINDS ***
+Judoka04 posts small blind 80
+KroKrogan posts big blind 160
+Dealt to sabre_laser [Jc 6h]
+*** PRE-FLOP *** 
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+popopelop raises 1720 to 1880 and is all-in
+AceRaf77 calls 655 and is all-in
+Judoka04 folds
+KroKrogan folds
+*** FLOP *** [3c Js 7h]
+*** TURN *** [3c Js 7h][Kh]
+*** RIVER *** [3c Js 7h Kh][4s]
+*** SHOW DOWN ***
+AceRaf77 shows [Ac Jh] (One pair : Jacks)
+popopelop shows [5d 5h] (One pair : 5)
+popopelop collected 1225 from side pot 1
+AceRaf77 collected 1550 from main pot
+*** SUMMARY ***
+Total pot 2775 | No rake
+Board: [3c Js 7h Kh 4s]
+Seat 1: popopelop showed [5d 5h] and won 1225 with One pair : 5
+Seat 2: AceRaf77 (button) showed [Ac Jh] and won 1550 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-34-1442523022 - Holdem no limit (10/100/200) - 2015/09/17 20:50:22 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #3 is the button
+Seat 1: popopelop (1225)
+Seat 2: AceRaf77 (1550)
+Seat 3: Judoka04 (2765)
+Seat 4: KroKrogan (1265)
+Seat 5: 71l1kum (2860)
+Seat 6: sabre_laser (805)
+Seat 7: Mars_Attack (2210)
+Seat 8: leeloo 30 (2320)
+*** ANTE/BLINDS ***
+KroKrogan posts ante 10
+71l1kum posts ante 10
+popopelop posts ante 10
+AceRaf77 posts ante 10
+Judoka04 posts ante 10
+sabre_laser posts ante 10
+Mars_Attack posts ante 10
+leeloo 30 posts ante 10
+KroKrogan posts small blind 100
+71l1kum posts big blind 200
+Dealt to sabre_laser [9d Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+popopelop folds
+AceRaf77 raises 1340 to 1540 and is all-in
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+AceRaf77 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Seat 2: AceRaf77 won 1920
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-35-1442523071 - Holdem no limit (10/100/200) - 2015/09/17 20:51:11 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #4 is the button
+Seat 1: popopelop (1215)
+Seat 2: AceRaf77 (1920)
+Seat 3: Judoka04 (2755)
+Seat 4: KroKrogan (1155)
+Seat 5: 71l1kum (2650)
+Seat 6: sabre_laser (795)
+Seat 7: Mars_Attack (2200)
+Seat 8: leeloo 30 (2310)
+*** ANTE/BLINDS ***
+71l1kum posts ante 10
+sabre_laser posts ante 10
+popopelop posts ante 10
+AceRaf77 posts ante 10
+Judoka04 posts ante 10
+KroKrogan posts ante 10
+Mars_Attack posts ante 10
+leeloo 30 posts ante 10
+71l1kum posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Jh Ac]
+*** PRE-FLOP *** 
+Mars_Attack folds
+leeloo 30 folds
+popopelop folds
+AceRaf77 folds
+Judoka04 raises 580 to 780
+KroKrogan folds
+71l1kum folds
+sabre_laser calls 580
+*** FLOP *** [Kd 3d 4h]
+sabre_laser bets 5 and is all-in
+Judoka04 calls 5
+*** TURN *** [Kd 3d 4h][Js]
+*** RIVER *** [Kd 3d 4h Js][7s]
+*** SHOW DOWN ***
+Judoka04 shows [8c As] (High card : Ace)
+sabre_laser shows [Jh Ac] (One pair : Jacks)
+sabre_laser collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [Kd 3d 4h Js 7s]
+Seat 3: Judoka04 showed [8c As] and lost with High card : Ace
+Seat 6: sabre_laser (big blind) showed [Jh Ac] and won 1750 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-36-1442523132 - Holdem no limit (10/100/200) - 2015/09/17 20:52:12 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #5 is the button
+Seat 1: popopelop (1205)
+Seat 2: AceRaf77 (1910)
+Seat 3: Judoka04 (1960)
+Seat 4: KroKrogan (1145)
+Seat 5: 71l1kum (2540)
+Seat 6: sabre_laser (1750)
+Seat 7: Mars_Attack (2190)
+Seat 8: leeloo 30 (2300)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Mars_Attack posts ante 10
+popopelop posts ante 10
+AceRaf77 posts ante 10
+Judoka04 posts ante 10
+KroKrogan posts ante 10
+71l1kum posts ante 10
+leeloo 30 posts ante 10
+sabre_laser posts small blind 100
+Mars_Attack posts big blind 200
+Dealt to sabre_laser [Kd 8s]
+*** PRE-FLOP *** 
+leeloo 30 folds
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 7: Mars_Attack (big blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-37-1442523165 - Holdem no limit (10/100/200) - 2015/09/17 20:52:45 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #6 is the button
+Seat 1: popopelop (1195)
+Seat 2: AceRaf77 (1900)
+Seat 3: Judoka04 (1950)
+Seat 4: KroKrogan (1135)
+Seat 5: 71l1kum (2530)
+Seat 6: sabre_laser (1640)
+Seat 7: Mars_Attack (2360)
+Seat 8: leeloo 30 (2290)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 10
+leeloo 30 posts ante 10
+popopelop posts ante 10
+AceRaf77 posts ante 10
+Judoka04 posts ante 10
+KroKrogan posts ante 10
+71l1kum posts ante 10
+sabre_laser posts ante 10
+Mars_Attack posts small blind 100
+leeloo 30 posts big blind 200
+Dealt to sabre_laser [Th Ad]
+*** PRE-FLOP *** 
+popopelop folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser raises 200 to 400
+Mars_Attack folds
+leeloo 30 folds
+sabre_laser collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 6: sabre_laser (button) won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-38-1442523232 - Holdem no limit (10/100/200) - 2015/09/17 20:53:52 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #7 is the button
+Seat 1: popopelop (1185)
+Seat 2: AceRaf77 (1890)
+Seat 3: Judoka04 (1940)
+Seat 4: KroKrogan (1125)
+Seat 5: 71l1kum (2520)
+Seat 6: sabre_laser (2010)
+Seat 7: Mars_Attack (2250)
+Seat 8: leeloo 30 (2080)
+*** ANTE/BLINDS ***
+leeloo 30 posts ante 10
+popopelop posts ante 10
+AceRaf77 posts ante 10
+Judoka04 posts ante 10
+KroKrogan posts ante 10
+71l1kum posts ante 10
+sabre_laser posts ante 10
+Mars_Attack posts ante 10
+leeloo 30 posts small blind 100
+popopelop posts big blind 200
+Dealt to sabre_laser [Th Qh]
+*** PRE-FLOP *** 
+AceRaf77 folds
+Judoka04 calls 200
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 raises 1870 to 2070 and is all-in
+popopelop calls 975 and is all-in
+Judoka04 folds
+*** FLOP *** [Tc Ts Jd]
+*** TURN *** [Tc Ts Jd][8d]
+*** RIVER *** [Tc Ts Jd 8d][6c]
+*** SHOW DOWN ***
+popopelop shows [Qd Kc] (One pair : Tens)
+leeloo 30 shows [As 9d] (One pair : Tens)
+leeloo 30 collected 3525 from pot
+*** SUMMARY ***
+Total pot 3525 | No rake
+Board: [Tc Ts Jd 8d 6c]
+Seat 1: popopelop (big blind) showed [Qd Kc] and lost with One pair : Tens
+Seat 8: leeloo 30 (small blind) showed [As 9d] and won 3525 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-39-1442523289 - Holdem no limit (10/100/200) - 2015/09/17 20:54:49 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #8 is the button
+Seat 2: AceRaf77 (1880)
+Seat 3: Judoka04 (1730)
+Seat 4: KroKrogan (1115)
+Seat 5: 71l1kum (2510)
+Seat 6: sabre_laser (2000)
+Seat 7: Mars_Attack (2240)
+Seat 8: leeloo 30 (3525)
+*** ANTE/BLINDS ***
+AceRaf77 posts ante 10
+Judoka04 posts ante 10
+KroKrogan posts ante 10
+71l1kum posts ante 10
+sabre_laser posts ante 10
+Mars_Attack posts ante 10
+leeloo 30 posts ante 10
+AceRaf77 posts big blind 200
+Dealt to sabre_laser [Js 5s]
+*** PRE-FLOP *** 
+Judoka04 raises 470 to 670
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 670
+AceRaf77 folds
+*** FLOP *** [8h Ah 5h]
+Judoka04 checks
+leeloo 30 bets 200
+Judoka04 folds
+leeloo 30 collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | No rake
+Board: [8h Ah 5h]
+Seat 8: leeloo 30 (button) won 1810
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-40-1442523330 - Holdem no limit (10/100/200) - 2015/09/17 20:55:30 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #1 is the button
+Seat 2: AceRaf77 (1670)
+Seat 3: Judoka04 (1050)
+Seat 4: KroKrogan (1105)
+Seat 5: 71l1kum (2500)
+Seat 6: sabre_laser (1990)
+Seat 7: Mars_Attack (2230)
+Seat 8: leeloo 30 (4455)
+*** ANTE/BLINDS ***
+AceRaf77 posts ante 10
+Judoka04 posts ante 10
+KroKrogan posts ante 10
+71l1kum posts ante 10
+sabre_laser posts ante 10
+Mars_Attack posts ante 10
+leeloo 30 posts ante 10
+AceRaf77 posts small blind 100
+Judoka04 posts big blind 200
+Dealt to sabre_laser [9d Jc]
+*** PRE-FLOP *** 
+KroKrogan raises 895 to 1095 and is all-in
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 4: KroKrogan won 1465
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #563281069630029825-41-1442523354 - Holdem no limit (10/100/200) - 2015/09/17 20:55:54 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #2 is the button
+Seat 2: AceRaf77 (1560)
+Seat 3: Judoka04 (840)
+Seat 4: KroKrogan (1465)
+Seat 5: 71l1kum (2490)
+Seat 6: sabre_laser (1980)
+Seat 7: Mars_Attack (2220)
+Seat 8: leeloo 30 (4445)
+*** ANTE/BLINDS ***
+Judoka04 posts ante 10
+KroKrogan posts ante 10
+AceRaf77 posts ante 10
+71l1kum posts ante 10
+sabre_laser posts ante 10
+Mars_Attack posts ante 10
+leeloo 30 posts ante 10
+Judoka04 posts small blind 100
+KroKrogan posts big blind 200
+Dealt to sabre_laser [9c 6s]
+*** PRE-FLOP *** 
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 4: KroKrogan (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-42-1442523374 - Holdem no limit (20/150/300) - 2015/09/17 20:56:14 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #3 is the button
+Seat 2: AceRaf77 (1550)
+Seat 3: Judoka04 (730)
+Seat 4: KroKrogan (1625)
+Seat 5: 71l1kum (2480)
+Seat 6: sabre_laser (1970)
+Seat 7: Mars_Attack (2210)
+Seat 8: leeloo 30 (4435)
+*** ANTE/BLINDS ***
+KroKrogan posts ante 20
+71l1kum posts ante 20
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+sabre_laser posts ante 20
+Mars_Attack posts ante 20
+leeloo 30 posts ante 20
+KroKrogan posts small blind 150
+71l1kum posts big blind 300
+Dealt to sabre_laser [8s 8c]
+*** PRE-FLOP *** 
+sabre_laser raises 1650 to 1950 and is all-in
+Mars_Attack folds
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser collected 2540 from pot
+*** SUMMARY ***
+Total pot 2540 | No rake
+Seat 6: sabre_laser won 2540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-43-1442523444 - Holdem no limit (20/150/300) - 2015/09/17 20:57:24 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #4 is the button
+Seat 2: AceRaf77 (1530)
+Seat 3: Judoka04 (710)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (2160)
+Seat 6: sabre_laser (2540)
+Seat 7: Mars_Attack (2190)
+Seat 8: leeloo 30 (4415)
+*** ANTE/BLINDS ***
+71l1kum posts ante 20
+sabre_laser posts ante 20
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+KroKrogan posts ante 20
+Mars_Attack posts ante 20
+leeloo 30 posts ante 20
+71l1kum posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [8c Qh]
+*** PRE-FLOP *** 
+Mars_Attack folds
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 6: sabre_laser (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-44-1442523478 - Holdem no limit (20/150/300) - 2015/09/17 20:57:58 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #5 is the button
+Seat 2: AceRaf77 (1510)
+Seat 3: Judoka04 (690)
+Seat 4: KroKrogan (1435)
+Seat 5: 71l1kum (1990)
+Seat 6: sabre_laser (2810)
+Seat 7: Mars_Attack (2170)
+Seat 8: leeloo 30 (4395)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Mars_Attack posts ante 20
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+KroKrogan posts ante 20
+71l1kum posts ante 20
+leeloo 30 posts ante 20
+sabre_laser posts small blind 150
+Mars_Attack posts big blind 300
+Dealt to sabre_laser [6d Th]
+*** PRE-FLOP *** 
+leeloo 30 calls 300
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack checks
+*** FLOP *** [7h 6h Kd]
+Mars_Attack checks
+leeloo 30 bets 808
+Mars_Attack folds
+leeloo 30 collected 1698 from pot
+*** SUMMARY ***
+Total pot 1698 | No rake
+Board: [7h 6h Kd]
+Seat 8: leeloo 30 won 1698
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-45-1442523511 - Holdem no limit (20/150/300) - 2015/09/17 20:58:31 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #6 is the button
+Seat 2: AceRaf77 (1490)
+Seat 3: Judoka04 (670)
+Seat 4: KroKrogan (1415)
+Seat 5: 71l1kum (1970)
+Seat 6: sabre_laser (2640)
+Seat 7: Mars_Attack (1850)
+Seat 8: leeloo 30 (4965)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 20
+leeloo 30 posts ante 20
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+KroKrogan posts ante 20
+71l1kum posts ante 20
+sabre_laser posts ante 20
+Mars_Attack posts small blind 150
+leeloo 30 posts big blind 300
+Dealt to sabre_laser [6s 8c]
+*** PRE-FLOP *** 
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 8: leeloo 30 (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-46-1442523535 - Holdem no limit (20/150/300) - 2015/09/17 20:58:55 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #7 is the button
+Seat 2: AceRaf77 (1470)
+Seat 3: Judoka04 (650)
+Seat 4: KroKrogan (1395)
+Seat 5: 71l1kum (1950)
+Seat 6: sabre_laser (2620)
+Seat 7: Mars_Attack (1680)
+Seat 8: leeloo 30 (5235)
+*** ANTE/BLINDS ***
+leeloo 30 posts ante 20
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+KroKrogan posts ante 20
+71l1kum posts ante 20
+sabre_laser posts ante 20
+Mars_Attack posts ante 20
+leeloo 30 posts small blind 150
+AceRaf77 posts big blind 300
+Dealt to sabre_laser [4d 4s]
+*** PRE-FLOP *** 
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 raises 900 to 1200
+AceRaf77 folds
+leeloo 30 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 8: leeloo 30 (small blind) won 1640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-47-1442523586 - Holdem no limit (20/150/300) - 2015/09/17 20:59:46 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #8 is the button
+Seat 2: AceRaf77 (1150)
+Seat 3: Judoka04 (630)
+Seat 4: KroKrogan (1375)
+Seat 5: 71l1kum (1930)
+Seat 6: sabre_laser (2600)
+Seat 7: Mars_Attack (1660)
+Seat 8: leeloo 30 (5655)
+*** ANTE/BLINDS ***
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+KroKrogan posts ante 20
+71l1kum posts ante 20
+sabre_laser posts ante 20
+Mars_Attack posts ante 20
+leeloo 30 posts ante 20
+AceRaf77 posts small blind 150
+Judoka04 posts big blind 300
+Dealt to sabre_laser [Tc 6d]
+*** PRE-FLOP *** 
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 raises 900 to 1200
+AceRaf77 calls 980 and is all-in
+Judoka04 folds
+*** FLOP *** [Td 2c Jc]
+*** TURN *** [Td 2c Jc][Jh]
+*** RIVER *** [Td 2c Jc Jh][2s]
+*** SHOW DOWN ***
+AceRaf77 shows [Qc Ks] (Two pairs : Jacks and 2)
+leeloo 30 shows [7h Qh] (Two pairs : Jacks and 2)
+leeloo 30 collected 70 from side pot 1
+AceRaf77 collected 2700 from main pot
+*** SUMMARY ***
+Total pot 2770 | No rake
+Board: [Td 2c Jc Jh 2s]
+Seat 2: AceRaf77 (small blind) showed [Qc Ks] and won 2700 with Two pairs : Jacks and 2
+Seat 8: leeloo 30 (button) showed [7h Qh] and won 70 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-48-1442523616 - Holdem no limit (20/150/300) - 2015/09/17 21:00:16 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #2 is the button
+Seat 2: AceRaf77 (2700)
+Seat 3: Judoka04 (310)
+Seat 4: KroKrogan (1355)
+Seat 5: 71l1kum (1910)
+Seat 6: sabre_laser (2580)
+Seat 7: Mars_Attack (1640)
+Seat 8: leeloo 30 (4505)
+*** ANTE/BLINDS ***
+Judoka04 posts ante 20
+KroKrogan posts ante 20
+AceRaf77 posts ante 20
+71l1kum posts ante 20
+sabre_laser posts ante 20
+Mars_Attack posts ante 20
+leeloo 30 posts ante 20
+Judoka04 posts small blind 150
+KroKrogan posts big blind 300
+Dealt to sabre_laser [8c 9s]
+*** PRE-FLOP *** 
+71l1kum folds
+sabre_laser folds
+Mars_Attack raises 1320 to 1620 and is all-in
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan folds
+Mars_Attack collected 2210 from pot
+*** SUMMARY ***
+Total pot 2210 | No rake
+Seat 7: Mars_Attack won 2210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-49-1442523655 - Holdem no limit (20/150/300) - 2015/09/17 21:00:55 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #3 is the button
+Seat 2: AceRaf77 (2680)
+Seat 3: Judoka04 (140)
+Seat 4: KroKrogan (1035)
+Seat 5: 71l1kum (1890)
+Seat 6: sabre_laser (2560)
+Seat 7: Mars_Attack (2210)
+Seat 8: leeloo 30 (4485)
+*** ANTE/BLINDS ***
+KroKrogan posts ante 20
+71l1kum posts ante 20
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+sabre_laser posts ante 20
+Mars_Attack posts ante 20
+leeloo 30 posts ante 20
+KroKrogan posts small blind 150
+71l1kum posts big blind 300
+Dealt to sabre_laser [6s 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan raises 715 to 1015 and is all-in
+71l1kum folds
+KroKrogan collected 1455 from pot
+*** SUMMARY ***
+Total pot 1455 | No rake
+Seat 4: KroKrogan (small blind) won 1455
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #563281069630029825-50-1442523679 - Holdem no limit (20/150/300) - 2015/09/17 21:01:19 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #4 is the button
+Seat 2: AceRaf77 (2660)
+Seat 3: Judoka04 (120)
+Seat 4: KroKrogan (1455)
+Seat 5: 71l1kum (1570)
+Seat 6: sabre_laser (2540)
+Seat 7: Mars_Attack (2190)
+Seat 8: leeloo 30 (4465)
+*** ANTE/BLINDS ***
+71l1kum posts ante 20
+sabre_laser posts ante 20
+AceRaf77 posts ante 20
+Judoka04 posts ante 20
+KroKrogan posts ante 20
+Mars_Attack posts ante 20
+leeloo 30 posts ante 20
+71l1kum posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Qs 3c]
+*** PRE-FLOP *** 
+Mars_Attack folds
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan raises 1135 to 1435 and is all-in
+71l1kum folds
+sabre_laser folds
+KroKrogan collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Seat 4: KroKrogan (button) won 2025
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563281069630029825-51-1442523736 - Holdem no limit (50/200/400) - 2015/09/17 21:02:16 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #5 is the button
+Seat 2: AceRaf77 (2640)
+Seat 3: Judoka04 (100)
+Seat 4: KroKrogan (2025)
+Seat 5: 71l1kum (1400)
+Seat 6: sabre_laser (2220)
+Seat 7: Mars_Attack (2170)
+Seat 8: leeloo 30 (4445)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Mars_Attack posts ante 50
+AceRaf77 posts ante 50
+Judoka04 posts ante 50
+KroKrogan posts ante 50
+71l1kum posts ante 50
+leeloo 30 posts ante 50
+sabre_laser posts small blind 200
+Mars_Attack posts big blind 400
+Dealt to sabre_laser [7h 5d]
+*** PRE-FLOP *** 
+leeloo 30 folds
+AceRaf77 folds
+Judoka04 folds
+KroKrogan raises 1575 to 1975 and is all-in
+71l1kum calls 1350 and is all-in
+sabre_laser folds
+Mars_Attack folds
+*** FLOP *** [2d Ks 2h]
+*** TURN *** [2d Ks 2h][6h]
+*** RIVER *** [2d Ks 2h 6h][Qd]
+*** SHOW DOWN ***
+71l1kum shows [Qc Qh] (Full of Queens and 2)
+KroKrogan shows [Ac 3c] (One pair : 2)
+KroKrogan collected 625 from side pot 1
+71l1kum collected 3650 from main pot
+*** SUMMARY ***
+Total pot 4275 | No rake
+Board: [2d Ks 2h 6h Qd]
+Seat 4: KroKrogan showed [Ac 3c] and won 625 with One pair : 2
+Seat 5: 71l1kum (button) showed [Qc Qh] and won 3650 with Full of Queens and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563281069630029825-52-1442523771 - Holdem no limit (50/200/400) - 2015/09/17 21:02:51 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #6 is the button
+Seat 2: AceRaf77 (2590)
+Seat 3: Judoka04 (50)
+Seat 4: KroKrogan (625)
+Seat 5: 71l1kum (3650)
+Seat 6: sabre_laser (1970)
+Seat 7: Mars_Attack (1720)
+Seat 8: leeloo 30 (4395)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 50
+leeloo 30 posts ante 50
+AceRaf77 posts ante 50
+Judoka04 posts ante 50 and is all-in
+KroKrogan posts ante 50
+71l1kum posts ante 50
+sabre_laser posts ante 50
+Mars_Attack posts small blind 200
+leeloo 30 posts big blind 400
+Dealt to sabre_laser [9s 8h]
+*** PRE-FLOP *** 
+AceRaf77 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser calls 400
+Mars_Attack folds
+leeloo 30 checks
+*** FLOP *** [2d 5d 5s]
+leeloo 30 checks
+sabre_laser checks
+*** TURN *** [2d 5d 5s][7d]
+leeloo 30 checks
+sabre_laser checks
+*** RIVER *** [2d 5d 5s 7d][5c]
+leeloo 30 bets 400
+sabre_laser folds
+*** SHOW DOWN ***
+Judoka04 shows [7c 2s] (Full of 5 and 7)
+leeloo 30 shows [7h Ah] (Full of 5 and 7)
+leeloo 30 collected 1575 from side pot 1
+Judoka04 collected 175 from main pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [2d 5d 5s 7d 5c]
+Seat 3: Judoka04 showed [7c 2s] and won 175 with Full of 5 and 7
+Seat 8: leeloo 30 (big blind) showed [7h Ah] and won 1575 with Full of 5 and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563281069630029825-53-1442523802 - Holdem no limit (50/200/400) - 2015/09/17 21:03:22 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #7 is the button
+Seat 2: AceRaf77 (2540)
+Seat 3: Judoka04 (175)
+Seat 4: KroKrogan (575)
+Seat 5: 71l1kum (3600)
+Seat 6: sabre_laser (1520)
+Seat 7: Mars_Attack (1470)
+Seat 8: leeloo 30 (5120)
+*** ANTE/BLINDS ***
+leeloo 30 posts ante 50
+AceRaf77 posts ante 50
+Judoka04 posts ante 50
+KroKrogan posts ante 50
+71l1kum posts ante 50
+sabre_laser posts ante 50
+Mars_Attack posts ante 50
+leeloo 30 posts small blind 200
+AceRaf77 posts big blind 400
+Dealt to sabre_laser [Qc Jh]
+*** PRE-FLOP *** 
+Judoka04 folds
+KroKrogan folds
+71l1kum folds
+sabre_laser folds
+Mars_Attack raises 1020 to 1420 and is all-in
+leeloo 30 folds
+AceRaf77 folds
+Mars_Attack collected 2370 from pot
+*** SUMMARY ***
+Total pot 2370 | No rake
+Seat 7: Mars_Attack (button) won 2370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563281069630029825-54-1442523824 - Holdem no limit (50/200/400) - 2015/09/17 21:03:44 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #8 is the button
+Seat 2: AceRaf77 (2090)
+Seat 3: Judoka04 (125)
+Seat 4: KroKrogan (525)
+Seat 5: 71l1kum (3550)
+Seat 6: sabre_laser (1470)
+Seat 7: Mars_Attack (2370)
+Seat 8: leeloo 30 (4870)
+*** ANTE/BLINDS ***
+AceRaf77 posts ante 50
+Judoka04 posts ante 50
+KroKrogan posts ante 50
+71l1kum posts ante 50
+sabre_laser posts ante 50
+Mars_Attack posts ante 50
+leeloo 30 posts ante 50
+AceRaf77 posts small blind 200
+Judoka04 posts big blind 75 and is all-in
+Dealt to sabre_laser [8h 6d]
+*** PRE-FLOP *** 
+KroKrogan folds
+71l1kum calls 400
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 calls 400
+AceRaf77 calls 200
+*** FLOP *** [As Kh 3c]
+AceRaf77 checks
+71l1kum bets 400
+leeloo 30 calls 400
+AceRaf77 folds
+*** TURN *** [As Kh 3c][Ah]
+71l1kum bets 400
+leeloo 30 calls 400
+*** RIVER *** [As Kh 3c Ah][2c]
+71l1kum bets 400
+leeloo 30 calls 400
+*** SHOW DOWN ***
+Judoka04 shows [Td 5d] (One pair : Aces)
+leeloo 30 shows [Ks 7s] (Two pairs : Aces and Kings)
+71l1kum shows [9h Ad] (Trips of Aces)
+71l1kum collected 4025 from pot
+*** SUMMARY ***
+Total pot 4025 | No rake
+Board: [As Kh 3c Ah 2c]
+Seat 3: Judoka04 (big blind) showed [Td 5d] and lost with One pair : Aces
+Seat 5: 71l1kum showed [9h Ad] and won 4025 with Trips of Aces
+Seat 8: leeloo 30 (button) showed [Ks 7s] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #563281069630029825-55-1442523913 - Holdem no limit (50/200/400) - 2015/09/17 21:05:13 UTC
+Table: 'Double or Nothing(131149094)#0' 10-max (real money) Seat #2 is the button
+Seat 2: AceRaf77 (1640)
+Seat 4: KroKrogan (475)
+Seat 5: 71l1kum (5925)
+Seat 6: sabre_laser (1420)
+Seat 7: Mars_Attack (2320)
+Seat 8: leeloo 30 (3220)
+*** ANTE/BLINDS ***
+KroKrogan posts ante 50
+AceRaf77 posts ante 50
+71l1kum posts ante 50
+sabre_laser posts ante 50
+Mars_Attack posts ante 50
+leeloo 30 posts ante 50
+KroKrogan posts big blind 400
+Dealt to sabre_laser [Qs 6d]
+*** PRE-FLOP *** 
+71l1kum calls 400
+sabre_laser folds
+Mars_Attack folds
+leeloo 30 folds
+AceRaf77 folds
+KroKrogan raises 25 to 425 and is all-in
+71l1kum calls 25
+*** FLOP *** [Ts Ac 3h]
+*** TURN *** [Ts Ac 3h][3c]
+*** RIVER *** [Ts Ac 3h 3c][Ah]
+*** SHOW DOWN ***
+KroKrogan shows [Js Qh] (Two pairs : Aces and 3)
+71l1kum shows [4h 4c] (Two pairs : Aces and 4)
+71l1kum collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [Ts Ac 3h 3c Ah]
+Seat 4: KroKrogan (big blind) showed [Js Qh] and lost with Two pairs : Aces and 3
+Seat 5: 71l1kum showed [4h 4c] and won 1150 with Two pairs : Aces and 4
+
+

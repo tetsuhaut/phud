@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------
+Logique de parsage de l'historique :
+1 fichier = une partie d'un type de jeu.
+
+table Game = Id, Room, Type (Tournament|Cash), Name (Double or Nothing), buyin, variant (HNL|PLO), currentPrice, date
+--------------------------------------------------------------------------------

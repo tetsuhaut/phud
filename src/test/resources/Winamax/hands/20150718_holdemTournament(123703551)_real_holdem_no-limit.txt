@@ -1,0 +1,34 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 17 - HandId: #531302705944068104-65-1437230557 - Holdem no limit (160/800/1600) - 2015/07/18 14:42:37 UTC
+Table: 'Hold'em(123703551)#07' 6-max (play money) Seat #4 is the button
+Seat 1: trinita34 (45650)
+Seat 2: sabre_laser (17220)
+Seat 3: Dukette974 (6995)
+Seat 6: willbelucky (70120)
+*** ANTE/BLINDS ***
+willbelucky posts ante 160
+trinita34 posts ante 160
+sabre_laser posts ante 160
+Dukette974 posts ante 160
+willbelucky posts small blind 800
+trinita34 posts big blind 1600
+Dealt to sabre_laser [2d 2c]
+*** PRE-FLOP *** 
+sabre_laser raises 1600 to 3200
+Dukette974 folds
+willbelucky folds
+trinita34 raises 42290 to 45490 and is all-in
+sabre_laser calls 13860 and is all-in
+*** FLOP *** [Jd Tc 5d]
+*** TURN *** [Jd Tc 5d][5c]
+*** RIVER *** [Jd Tc 5d 5c][Th]
+*** SHOW DOWN ***
+sabre_laser shows [2d 2c] (Two pairs : Tens and 5)
+trinita34 shows [Kd 2s] (Two pairs : Tens and 5)
+trinita34 collected 63990 from pot
+*** SUMMARY ***
+Total pot 63990 | No rake
+Board: [Jd Tc 5d 5c Th]
+Seat 1: trinita34 (big blind) showed [Kd 2s] and won 63990 with Two pairs : Tens and 5
+Seat 2: sabre_laser showed [2d 2c] and lost with Two pairs : Tens and 5
+
+

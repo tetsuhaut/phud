@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564703257855787009-1-1442786083 - Holdem no limit (10/20) - 2015/09/20 21:54:43 UTC
+Table: 'Double or Nothing(131480223)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ReeeF (1500)
+Seat 2: Jeebee92i (1500)
+Seat 3: davwinamaxpk (1500)
+Seat 4: .Roxon. (1500)
+Seat 5: Platonov (1500)
+Seat 6: SpewItRight (1500)
+Seat 7: KroKrogan (1500)
+Seat 8: Hak_Poker (1500)
+Seat 9: Cresusssss77 (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 10
+KroKrogan posts big blind 20
+Dealt to sabre_laser [7d 7c]
+*** PRE-FLOP *** 
+Hak_Poker folds
+Cresusssss77 folds
+sabre_laser calls 20
+ReeeF folds
+Jeebee92i calls 20
+davwinamaxpk folds
+.Roxon. folds
+Platonov folds
+SpewItRight folds
+KroKrogan raises 120 to 140
+sabre_laser calls 120
+Jeebee92i folds
+*** FLOP *** [6h 3h 5s]
+KroKrogan bets 155
+sabre_laser calls 155
+*** TURN *** [6h 3h 5s][8s]
+KroKrogan bets 1205 and is all-in
+sabre_laser folds
+KroKrogan collected 1825 from pot
+*** SUMMARY ***
+Total pot 1825 | No rake
+Board: [6h 3h 5s 8s]
+Seat 7: KroKrogan (big blind) won 1825
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564703257855787009-2-1442786171 - Holdem no limit (10/20) - 2015/09/20 21:56:11 UTC
+Table: 'Double or Nothing(131480223)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ReeeF (1500)
+Seat 2: Jeebee92i (1480)
+Seat 3: davwinamaxpk (1500)
+Seat 4: .Roxon. (1500)
+Seat 5: Platonov (1500)
+Seat 6: SpewItRight (1490)
+Seat 7: KroKrogan (1825)
+Seat 8: Hak_Poker (1500)
+Seat 9: Cresusssss77 (1500)
+Seat 10: sabre_laser (1205)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 10
+Hak_Poker posts big blind 20
+Dealt to sabre_laser [Qd 7d]
+*** PRE-FLOP *** 
+Cresusssss77 folds
+sabre_laser folds
+ReeeF folds
+Jeebee92i folds
+davwinamaxpk folds
+.Roxon. folds
+Platonov folds
+SpewItRight folds
+KroKrogan raises 31 to 51
+Hak_Poker folds
+KroKrogan collected 71 from pot
+*** SUMMARY ***
+Total pot 71 | No rake
+Seat 7: KroKrogan (small blind) won 71
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564703257855787009-3-1442786234 - Holdem no limit (10/20) - 2015/09/20 21:57:14 UTC
+Table: 'Double or Nothing(131480223)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ReeeF (1500)
+Seat 2: Jeebee92i (1480)
+Seat 3: davwinamaxpk (1500)
+Seat 4: .Roxon. (1500)
+Seat 5: Platonov (1500)
+Seat 6: SpewItRight (1490)
+Seat 7: KroKrogan (1845)
+Seat 8: Hak_Poker (1480)
+Seat 9: Cresusssss77 (1500)
+Seat 10: sabre_laser (1205)
+*** ANTE/BLINDS ***
+Hak_Poker posts small blind 10
+Cresusssss77 posts big blind 20
+Dealt to sabre_laser [Ah Qs]
+*** PRE-FLOP *** 
+sabre_laser raises 40 to 60
+ReeeF folds
+Jeebee92i calls 60
+davwinamaxpk folds
+.Roxon. raises 180 to 240
+Platonov folds
+SpewItRight folds
+KroKrogan folds
+Hak_Poker folds
+Cresusssss77 folds
+sabre_laser raises 965 to 1205 and is all-in
+Jeebee92i calls 1145
+.Roxon. calls 965
+*** FLOP *** [Tc 2c Qh]
+Jeebee92i bets 275 and is all-in
+.Roxon. calls 275
+*** TURN *** [Tc 2c Qh][Ts]
+*** RIVER *** [Tc 2c Qh Ts][5h]
+*** SHOW DOWN ***
+Jeebee92i shows [Jd Ad] (One pair : Tens)
+sabre_laser shows [Ah Qs] (Two pairs : Queens and Tens)
+.Roxon. shows [Ac As] (Two pairs : Aces and Tens)
+.Roxon. collected 4195 from pot
+*** SUMMARY ***
+Total pot 4195 | No rake
+Board: [Tc 2c Qh Ts 5h]
+Seat 2: Jeebee92i showed [Jd Ad] and lost with One pair : Tens
+Seat 4: .Roxon. showed [Ac As] and won 4195 with Two pairs : Aces and Tens
+Seat 10: sabre_laser showed [Ah Qs] and lost with Two pairs : Queens and Tens
+
+

@@ -1,0 +1,619 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 0 - HandId: #577511851059838977-1-1445195372 - Holdem no limit (10/20) - 2015/10/18 19:09:32 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1500)
+Seat 3: crazypix (1500)
+Seat 4: AirJordan42 (1500)
+Seat 5: LEXXI (1500)
+Seat 6: boybad63 (1500)
+Seat 7: langevert18 (1500)
+Seat 8: QUEBRA (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+tony rA16 posts small blind 10
+crazypix posts big blind 20
+Dealt to sabre_laser [2c 8s]
+*** PRE-FLOP *** 
+AirJordan42 folds
+LEXXI folds
+boybad63 folds
+langevert18 raises 40 to 60
+QUEBRA folds
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+langevert18 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 7: langevert18 won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 0 - HandId: #577511851059838977-2-1445195443 - Holdem no limit (10/20) - 2015/10/18 19:10:43 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1490)
+Seat 3: crazypix (1480)
+Seat 4: AirJordan42 (1500)
+Seat 5: LEXXI (1500)
+Seat 6: boybad63 (1500)
+Seat 7: langevert18 (1530)
+Seat 8: QUEBRA (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+crazypix posts small blind 10
+AirJordan42 posts big blind 20
+Dealt to sabre_laser [Th Ad]
+*** PRE-FLOP *** 
+LEXXI folds
+boybad63 folds
+langevert18 folds
+QUEBRA folds
+sabre_laser raises 50 to 70
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+AirJordan42 folds
+sabre_laser collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 9: sabre_laser won 100
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 0 - HandId: #577511851059838977-3-1445195514 - Holdem no limit (10/20) - 2015/10/18 19:11:54 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1490)
+Seat 3: crazypix (1470)
+Seat 4: AirJordan42 (1480)
+Seat 5: LEXXI (1500)
+Seat 6: boybad63 (1500)
+Seat 7: langevert18 (1530)
+Seat 8: QUEBRA (1500)
+Seat 9: sabre_laser (1530)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+AirJordan42 posts small blind 10
+LEXXI posts big blind 20
+Dealt to sabre_laser [2d Js]
+*** PRE-FLOP *** 
+boybad63 folds
+langevert18 folds
+QUEBRA folds
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+AirJordan42 folds
+LEXXI collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 5: LEXXI (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 0 - HandId: #577511851059838977-4-1445195569 - Holdem no limit (10/20) - 2015/10/18 19:12:49 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1490)
+Seat 3: crazypix (1470)
+Seat 4: AirJordan42 (1470)
+Seat 5: LEXXI (1510)
+Seat 6: boybad63 (1500)
+Seat 7: langevert18 (1530)
+Seat 8: QUEBRA (1500)
+Seat 9: sabre_laser (1530)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+LEXXI posts small blind 10
+boybad63 posts big blind 20
+Dealt to sabre_laser [2d 4s]
+*** PRE-FLOP *** 
+langevert18 calls 20
+QUEBRA folds
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+AirJordan42 calls 20
+LEXXI calls 10
+boybad63 checks
+*** FLOP *** [6d Ah 3s]
+LEXXI checks
+boybad63 checks
+langevert18 checks
+AirJordan42 checks
+*** TURN *** [6d Ah 3s][5d]
+LEXXI checks
+boybad63 checks
+langevert18 bets 40
+AirJordan42 folds
+LEXXI calls 40
+boybad63 folds
+*** RIVER *** [6d Ah 3s 5d][Ks]
+LEXXI bets 20
+langevert18 calls 20
+*** SHOW DOWN ***
+LEXXI shows [9d 7d] (High card : Ace)
+langevert18 shows [4c 4d] (One pair : 4)
+langevert18 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [6d Ah 3s 5d Ks]
+Seat 5: LEXXI (small blind) showed [9d 7d] and lost with High card : Ace
+Seat 7: langevert18 showed [4c 4d] and won 200 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 0 - HandId: #577511851059838977-5-1445195706 - Holdem no limit (10/20) - 2015/10/18 19:15:06 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1490)
+Seat 3: crazypix (1470)
+Seat 4: AirJordan42 (1450)
+Seat 5: LEXXI (1430)
+Seat 6: boybad63 (1480)
+Seat 7: langevert18 (1650)
+Seat 8: QUEBRA (1500)
+Seat 9: sabre_laser (1530)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+boybad63 posts small blind 10
+langevert18 posts big blind 20
+Dealt to sabre_laser [Ks 8h]
+*** PRE-FLOP *** 
+QUEBRA folds
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+AirJordan42 raises 40 to 60
+LEXXI raises 40 to 100
+boybad63 calls 90
+langevert18 folds
+AirJordan42 raises 200 to 300
+LEXXI calls 200
+boybad63 calls 200
+*** FLOP *** [Th 2h 2d]
+boybad63 checks
+AirJordan42 bets 1150 and is all-in
+LEXXI calls 1130 and is all-in
+boybad63 folds
+*** TURN *** [Th 2h 2d][Kc]
+*** RIVER *** [Th 2h 2d Kc][6s]
+*** SHOW DOWN ***
+LEXXI shows [Ts Qd] (Two pairs : Tens and 2)
+AirJordan42 shows [Ad Ac] (Two pairs : Aces and 2)
+AirJordan42 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [Th 2h 2d Kc 6s]
+Seat 4: AirJordan42 showed [Ad Ac] and won 3200 with Two pairs : Aces and 2
+Seat 5: LEXXI (button) showed [Ts Qd] and lost with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 1 - HandId: #577511851059838977-6-1445195858 - Holdem no limit (15/30) - 2015/10/18 19:17:38 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1490)
+Seat 3: crazypix (1470)
+Seat 4: AirJordan42 (3200)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1630)
+Seat 8: QUEBRA (1500)
+Seat 9: sabre_laser (1530)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+langevert18 posts small blind 15
+QUEBRA posts big blind 30
+Dealt to sabre_laser [8d 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 raises 195 to 225
+crazypix folds
+AirJordan42 folds
+boybad63 folds
+langevert18 folds
+QUEBRA folds
+tony rA16 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: tony rA16 won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 1 - HandId: #577511851059838977-7-1445195912 - Holdem no limit (15/30) - 2015/10/18 19:18:32 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1535)
+Seat 3: crazypix (1470)
+Seat 4: AirJordan42 (3200)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1615)
+Seat 8: QUEBRA (1470)
+Seat 9: sabre_laser (1530)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+QUEBRA posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [7c Js]
+*** PRE-FLOP *** 
+M.Streller folds
+Fabbdx47 folds
+tony rA16 raises 30 to 60
+crazypix folds
+AirJordan42 folds
+boybad63 folds
+langevert18 folds
+QUEBRA folds
+sabre_laser calls 30
+*** FLOP *** [3s 8d 5d]
+sabre_laser bets 68
+tony rA16 folds
+sabre_laser collected 203 from pot
+*** SUMMARY ***
+Total pot 203 | No rake
+Board: [3s 8d 5d]
+Seat 9: sabre_laser (big blind) won 203
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 1 - HandId: #577511851059838977-8-1445196010 - Holdem no limit (15/30) - 2015/10/18 19:20:10 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1475)
+Seat 3: crazypix (1470)
+Seat 4: AirJordan42 (3200)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1615)
+Seat 8: QUEBRA (1455)
+Seat 9: sabre_laser (1605)
+Seat 10: M.Streller (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+M.Streller posts big blind 30
+Dealt to sabre_laser [Jh 3h]
+*** PRE-FLOP *** 
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+AirJordan42 folds
+boybad63 folds
+langevert18 raises 30 to 60
+QUEBRA calls 60
+sabre_laser folds
+M.Streller folds
+*** FLOP *** [7d 5h 4d]
+langevert18 bets 83
+QUEBRA calls 83
+*** TURN *** [7d 5h 4d][Ah]
+langevert18 bets 1472 and is all-in
+QUEBRA folds
+langevert18 collected 1803 from pot
+*** SUMMARY ***
+Total pot 1803 | No rake
+Board: [7d 5h 4d Ah]
+Seat 7: langevert18 won 1803
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 2 - HandId: #577511851059838977-9-1445196116 - Holdem no limit (20/40) - 2015/10/18 19:21:56 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Fabbdx47 (1500)
+Seat 2: tony rA16 (1475)
+Seat 3: crazypix (1470)
+Seat 4: AirJordan42 (3200)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1803)
+Seat 8: QUEBRA (1312)
+Seat 9: sabre_laser (1590)
+Seat 10: M.Streller (1470)
+*** ANTE/BLINDS ***
+M.Streller posts small blind 20
+Fabbdx47 posts big blind 40
+Dealt to sabre_laser [Js 8h]
+*** PRE-FLOP *** 
+tony rA16 folds
+crazypix calls 40
+AirJordan42 folds
+boybad63 folds
+langevert18 folds
+QUEBRA folds
+sabre_laser folds
+M.Streller raises 120 to 160
+Fabbdx47 folds
+crazypix calls 120
+*** FLOP *** [3h Ah 5c]
+M.Streller bets 195
+crazypix folds
+M.Streller collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [3h Ah 5c]
+Seat 10: M.Streller (small blind) won 555
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 2 - HandId: #577511851059838977-10-1445196174 - Holdem no limit (20/40) - 2015/10/18 19:22:54 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Fabbdx47 (1460)
+Seat 2: tony rA16 (1475)
+Seat 3: crazypix (1310)
+Seat 4: AirJordan42 (3200)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1803)
+Seat 8: QUEBRA (1312)
+Seat 9: sabre_laser (1590)
+Seat 10: M.Streller (1670)
+*** ANTE/BLINDS ***
+Fabbdx47 posts small blind 20
+tony rA16 posts big blind 40
+Dealt to sabre_laser [2c Tc]
+*** PRE-FLOP *** 
+crazypix folds
+AirJordan42 folds
+boybad63 folds
+langevert18 folds
+QUEBRA folds
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: tony rA16 (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 2 - HandId: #577511851059838977-11-1445196221 - Holdem no limit (20/40) - 2015/10/18 19:23:41 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Fabbdx47 (1440)
+Seat 2: tony rA16 (1495)
+Seat 3: crazypix (1310)
+Seat 4: AirJordan42 (3200)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1803)
+Seat 8: QUEBRA (1312)
+Seat 9: sabre_laser (1590)
+Seat 10: M.Streller (1670)
+*** ANTE/BLINDS ***
+tony rA16 posts small blind 20
+crazypix posts big blind 40
+Dealt to sabre_laser [Jc Ts]
+*** PRE-FLOP *** 
+AirJordan42 folds
+boybad63 folds
+langevert18 folds
+QUEBRA folds
+sabre_laser raises 60 to 100
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 9: sabre_laser won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 2 - HandId: #577511851059838977-12-1445196307 - Holdem no limit (20/40) - 2015/10/18 19:25:07 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Fabbdx47 (1440)
+Seat 2: tony rA16 (1475)
+Seat 3: crazypix (1270)
+Seat 4: AirJordan42 (3200)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1803)
+Seat 8: QUEBRA (1312)
+Seat 9: sabre_laser (1650)
+Seat 10: M.Streller (1670)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+AirJordan42 posts big blind 40
+Dealt to sabre_laser [Ah As]
+*** PRE-FLOP *** 
+boybad63 folds
+langevert18 folds
+QUEBRA raises 40 to 80
+sabre_laser raises 60 to 140
+M.Streller folds
+Fabbdx47 folds
+tony rA16 calls 140
+crazypix folds
+AirJordan42 folds
+QUEBRA calls 60
+*** FLOP *** [6d 2s 6s]
+QUEBRA checks
+sabre_laser bets 480
+tony rA16 folds
+QUEBRA folds
+sabre_laser collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [6d 2s 6s]
+Seat 9: sabre_laser won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 2 - HandId: #577511851059838977-13-1445196422 - Holdem no limit (20/40) - 2015/10/18 19:27:02 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Fabbdx47 (1440)
+Seat 2: tony rA16 (1335)
+Seat 3: crazypix (1250)
+Seat 4: AirJordan42 (3160)
+Seat 6: boybad63 (1180)
+Seat 7: langevert18 (1803)
+Seat 8: QUEBRA (1172)
+Seat 9: sabre_laser (1990)
+Seat 10: M.Streller (1670)
+*** ANTE/BLINDS ***
+AirJordan42 posts small blind 20
+boybad63 posts big blind 40
+Dealt to sabre_laser [9d Jd]
+*** PRE-FLOP *** 
+langevert18 folds
+QUEBRA folds
+sabre_laser calls 40
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+AirJordan42 folds
+boybad63 raises 60 to 100
+sabre_laser calls 60
+*** FLOP *** [7h 4c 3c]
+boybad63 checks
+sabre_laser checks
+*** TURN *** [7h 4c 3c][Ac]
+boybad63 checks
+sabre_laser bets 320
+boybad63 calls 320
+*** RIVER *** [7h 4c 3c Ac][Ts]
+boybad63 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [9d Jd] (High card : Ace)
+boybad63 shows [Kc Qs] (High card : Ace)
+boybad63 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [7h 4c 3c Ac Ts]
+Seat 6: boybad63 (big blind) showed [Kc Qs] and won 860 with High card : Ace
+Seat 9: sabre_laser showed [9d Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 3 - HandId: #577511851059838977-14-1445196559 - Holdem no limit (30/60) - 2015/10/18 19:29:19 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Fabbdx47 (1440)
+Seat 2: tony rA16 (1335)
+Seat 3: crazypix (1250)
+Seat 4: AirJordan42 (3140)
+Seat 6: boybad63 (1620)
+Seat 7: langevert18 (1803)
+Seat 8: QUEBRA (1172)
+Seat 9: sabre_laser (1570)
+Seat 10: M.Streller (1670)
+*** ANTE/BLINDS ***
+boybad63 posts small blind 30
+langevert18 posts big blind 60
+Dealt to sabre_laser [9h 6s]
+*** PRE-FLOP *** 
+QUEBRA folds
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 calls 60
+crazypix folds
+AirJordan42 folds
+boybad63 folds
+langevert18 checks
+*** FLOP *** [8d 8c 2c]
+langevert18 bets 75
+tony rA16 calls 75
+*** TURN *** [8d 8c 2c][9d]
+langevert18 checks
+tony rA16 checks
+*** RIVER *** [8d 8c 2c 9d][4s]
+langevert18 checks
+tony rA16 checks
+*** SHOW DOWN ***
+langevert18 shows [6c Kd] (One pair : 8)
+tony rA16 shows [Ah 7s] (One pair : 8)
+tony rA16 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8d 8c 2c 9d 4s]
+Seat 2: tony rA16 showed [Ah 7s] and won 300 with One pair : 8
+Seat 7: langevert18 (big blind) showed [6c Kd] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 3 - HandId: #577511851059838977-15-1445196641 - Holdem no limit (30/60) - 2015/10/18 19:30:41 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Fabbdx47 (1440)
+Seat 2: tony rA16 (1500)
+Seat 3: crazypix (1250)
+Seat 4: AirJordan42 (3140)
+Seat 6: boybad63 (1590)
+Seat 7: langevert18 (1668)
+Seat 8: QUEBRA (1172)
+Seat 9: sabre_laser (1570)
+Seat 10: M.Streller (1670)
+*** ANTE/BLINDS ***
+langevert18 posts small blind 30
+QUEBRA posts big blind 60
+Dealt to sabre_laser [3c Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix calls 60
+AirJordan42 folds
+boybad63 raises 60 to 120
+langevert18 folds
+QUEBRA folds
+crazypix calls 60
+*** FLOP *** [8s Qs Ah]
+crazypix checks
+boybad63 checks
+*** TURN *** [8s Qs Ah][Ac]
+crazypix checks
+boybad63 checks
+*** RIVER *** [8s Qs Ah Ac][6c]
+crazypix checks
+boybad63 checks
+*** SHOW DOWN ***
+crazypix shows [Tc Td] (Two pairs : Aces and Tens)
+boybad63 shows [Kh Kc] (Two pairs : Aces and Kings)
+boybad63 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [8s Qs Ah Ac 6c]
+Seat 3: crazypix showed [Tc Td] and lost with Two pairs : Aces and Tens
+Seat 6: boybad63 (button) showed [Kh Kc] and won 330 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 2,79€ + 0,21€ level: 3 - HandId: #577511851059838977-16-1445196745 - Holdem no limit (30/60) - 2015/10/18 19:32:25 UTC
+Table: 'Double or Nothing(134462456)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Fabbdx47 (1440)
+Seat 2: tony rA16 (1500)
+Seat 3: crazypix (1130)
+Seat 4: AirJordan42 (3140)
+Seat 6: boybad63 (1800)
+Seat 7: langevert18 (1638)
+Seat 8: QUEBRA (1112)
+Seat 9: sabre_laser (1570)
+Seat 10: M.Streller (1670)
+*** ANTE/BLINDS ***
+QUEBRA posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Ac 7c]
+*** PRE-FLOP *** 
+M.Streller folds
+Fabbdx47 folds
+tony rA16 folds
+crazypix folds
+AirJordan42 folds
+boybad63 raises 60 to 120
+langevert18 folds
+QUEBRA folds
+sabre_laser calls 60
+*** FLOP *** [6d Tc 6c]
+sabre_laser checks
+boybad63 bets 135
+sabre_laser raises 1315 to 1450 and is all-in
+boybad63 calls 1315
+*** TURN *** [6d Tc 6c][3s]
+*** RIVER *** [6d Tc 6c 3s][Js]
+*** SHOW DOWN ***
+sabre_laser shows [Ac 7c] (One pair : 6)
+boybad63 shows [Ts As] (Two pairs : Tens and 6)
+boybad63 collected 3170 from pot
+*** SUMMARY ***
+Total pot 3170 | No rake
+Board: [6d Tc 6c 3s Js]
+Seat 6: boybad63 showed [Ts As] and won 3170 with Two pairs : Tens and 6
+Seat 9: sabre_laser (big blind) showed [Ac 7c] and lost with One pair : 6
+
+

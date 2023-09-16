@@ -1,0 +1,1058 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #444698628905238529-1-1418675843 - Holdem no limit (10/20) - 2014/12/15 20:37:23 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #2 is the button
+Seat 1: malcomfrere (1500)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1500)
+Seat 4: Chungo (1500)
+Seat 5: jm azemus (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Kerviel_Spew (1500)
+Seat 8: Kalou du LDM (1500)
+Seat 9: 13MERCO13 (1500)
+Seat 10: NiamorYbud (1500)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 10
+Chungo posts big blind 20
+Dealt to sabre_laser [9c Ts]
+*** PRE-FLOP *** 
+jm azemus folds
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 calls 20
+NiamorYbud folds
+malcomfrere raises 20 to 40
+Floo60 folds
+DEEPstef folds
+Chungo folds
+13MERCO13 calls 20
+*** FLOP *** [As Th Qc]
+13MERCO13 checks
+malcomfrere bets 55
+13MERCO13 calls 55
+*** TURN *** [As Th Qc][Ad]
+13MERCO13 checks
+malcomfrere bets 82
+13MERCO13 calls 82
+*** RIVER *** [As Th Qc Ad][4h]
+13MERCO13 checks
+malcomfrere checks
+*** SHOW DOWN ***
+13MERCO13 shows [Ks 3s] (One pair : Aces)
+malcomfrere shows [5h 5s] (Two pairs : Aces and 5)
+malcomfrere collected 384 from pot
+*** SUMMARY ***
+Total pot 384 | No rake
+Board: [As Th Qc Ad 4h]
+Seat 1: malcomfrere showed [5h 5s] and won 384 with Two pairs : Aces and 5
+Seat 9: 13MERCO13 showed [Ks 3s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #444698628905238529-2-1418675941 - Holdem no limit (10/20) - 2014/12/15 20:39:01 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #3 is the button
+Seat 1: malcomfrere (1707)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1490)
+Seat 4: Chungo (1480)
+Seat 5: jm azemus (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Kerviel_Spew (1500)
+Seat 8: Kalou du LDM (1500)
+Seat 9: 13MERCO13 (1323)
+Seat 10: NiamorYbud (1500)
+*** ANTE/BLINDS ***
+Chungo posts small blind 10
+jm azemus posts big blind 20
+Dealt to sabre_laser [4c Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 calls 20
+NiamorYbud folds
+malcomfrere raises 20 to 40
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus calls 20
+13MERCO13 calls 20
+*** FLOP *** [8c Jh 8s]
+jm azemus checks
+13MERCO13 checks
+malcomfrere checks
+*** TURN *** [8c Jh 8s][7s]
+jm azemus bets 50
+13MERCO13 calls 50
+malcomfrere folds
+*** RIVER *** [8c Jh 8s 7s][Td]
+jm azemus checks
+13MERCO13 checks
+*** SHOW DOWN ***
+13MERCO13 shows [6s 6h] (Two pairs : 8 and 6)
+jm azemus shows [7h Kc] (Two pairs : 8 and 7)
+jm azemus collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [8c Jh 8s 7s Td]
+Seat 5: jm azemus (big blind) showed [7h Kc] and won 230 with Two pairs : 8 and 7
+Seat 9: 13MERCO13 showed [6s 6h] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #444698628905238529-3-1418676060 - Holdem no limit (10/20) - 2014/12/15 20:41:00 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #4 is the button
+Seat 1: malcomfrere (1667)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1490)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1640)
+Seat 6: sabre_laser (1500)
+Seat 7: Kerviel_Spew (1500)
+Seat 8: Kalou du LDM (1500)
+Seat 9: 13MERCO13 (1233)
+Seat 10: NiamorYbud (1500)
+*** ANTE/BLINDS ***
+jm azemus posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Jc 8s]
+*** PRE-FLOP *** 
+Kerviel_Spew folds
+Kalou du LDM calls 20
+13MERCO13 folds
+NiamorYbud raises 40 to 60
+malcomfrere folds
+Floo60 folds
+DEEPstef raises 70 to 130
+Chungo folds
+jm azemus folds
+sabre_laser folds
+Kalou du LDM folds
+NiamorYbud raises 1370 to 1500 and is all-in
+DEEPstef folds
+NiamorYbud collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Seat 10: NiamorYbud won 1680
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #444698628905238529-4-1418676121 - Holdem no limit (10/20) - 2014/12/15 20:42:01 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #5 is the button
+Seat 1: malcomfrere (1667)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1360)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1630)
+Seat 6: sabre_laser (1480)
+Seat 7: Kerviel_Spew (1500)
+Seat 8: Kalou du LDM (1480)
+Seat 9: 13MERCO13 (1233)
+Seat 10: NiamorYbud (1680)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Kerviel_Spew posts big blind 20
+Dealt to sabre_laser [Qc 3d]
+*** PRE-FLOP *** 
+Kalou du LDM calls 20
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus raises 280 to 300
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+jm azemus collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 5: jm azemus (button) won 350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #444698628905238529-5-1418676177 - Holdem no limit (10/20) - 2014/12/15 20:42:57 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #6 is the button
+Seat 1: malcomfrere (1667)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1360)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1680)
+Seat 6: sabre_laser (1470)
+Seat 7: Kerviel_Spew (1480)
+Seat 8: Kalou du LDM (1460)
+Seat 9: 13MERCO13 (1233)
+Seat 10: NiamorYbud (1680)
+*** ANTE/BLINDS ***
+Kerviel_Spew posts small blind 10
+Kalou du LDM posts big blind 20
+Dealt to sabre_laser [6d Ts]
+*** PRE-FLOP *** 
+13MERCO13 folds
+NiamorYbud calls 20
+malcomfrere raises 20 to 40
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+NiamorYbud calls 20
+*** FLOP *** [Qh 9s Jh]
+NiamorYbud checks
+malcomfrere bets 55
+NiamorYbud folds
+malcomfrere collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Qh 9s Jh]
+Seat 1: malcomfrere won 165
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 1 - HandId: #444698628905238529-6-1418676291 - Holdem no limit (15/30) - 2014/12/15 20:44:51 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #7 is the button
+Seat 1: malcomfrere (1737)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1360)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1680)
+Seat 6: sabre_laser (1470)
+Seat 7: Kerviel_Spew (1470)
+Seat 8: Kalou du LDM (1440)
+Seat 9: 13MERCO13 (1233)
+Seat 10: NiamorYbud (1640)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 15
+13MERCO13 posts big blind 30
+Dealt to sabre_laser [2s 6s]
+*** PRE-FLOP *** 
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef calls 30
+Chungo folds
+jm azemus calls 30
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 checks
+*** FLOP *** [Qd 5c Ac]
+13MERCO13 checks
+DEEPstef bets 30
+jm azemus folds
+13MERCO13 calls 30
+*** TURN *** [Qd 5c Ac][Jh]
+13MERCO13 checks
+DEEPstef bets 90
+13MERCO13 calls 90
+*** RIVER *** [Qd 5c Ac Jh][3d]
+13MERCO13 checks
+DEEPstef checks
+*** SHOW DOWN ***
+13MERCO13 shows [Jd Ts] (One pair : Jacks)
+DEEPstef shows [Qc Kc] (One pair : Queens)
+DEEPstef collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [Qd 5c Ac Jh 3d]
+Seat 3: DEEPstef showed [Qc Kc] and won 345 with One pair : Queens
+Seat 9: 13MERCO13 (big blind) showed [Jd Ts] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 1 - HandId: #444698628905238529-7-1418676401 - Holdem no limit (15/30) - 2014/12/15 20:46:41 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #8 is the button
+Seat 1: malcomfrere (1737)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1555)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1650)
+Seat 6: sabre_laser (1470)
+Seat 7: Kerviel_Spew (1470)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (1083)
+Seat 10: NiamorYbud (1640)
+*** ANTE/BLINDS ***
+13MERCO13 posts small blind 15
+NiamorYbud posts big blind 30
+Dealt to sabre_laser [2s 5h]
+*** PRE-FLOP *** 
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser folds
+Kerviel_Spew raises 37 to 67
+Kalou du LDM folds
+13MERCO13 calls 52
+NiamorYbud calls 37
+*** FLOP *** [Td 2d Ah]
+13MERCO13 checks
+NiamorYbud bets 60
+Kerviel_Spew raises 191 to 251
+13MERCO13 calls 251
+NiamorYbud calls 191
+*** TURN *** [Td 2d Ah][Kc]
+13MERCO13 checks
+NiamorYbud checks
+Kerviel_Spew bets 382
+13MERCO13 calls 382
+NiamorYbud raises 940 to 1322 and is all-in
+Kerviel_Spew folds
+13MERCO13 calls 383 and is all-in
+*** RIVER *** [Td 2d Ah Kc][8d]
+*** SHOW DOWN ***
+13MERCO13 shows [Jc Qh] (Straight Ace high)
+NiamorYbud shows [Kd Ac] (Two pairs : Aces and Kings)
+NiamorYbud collected 557 from side pot 1
+13MERCO13 collected 2866 from main pot
+*** SUMMARY ***
+Total pot 3423 | No rake
+Board: [Td 2d Ah Kc 8d]
+Seat 9: 13MERCO13 (small blind) showed [Jc Qh] and won 2866 with Straight Ace high
+Seat 10: NiamorYbud (big blind) showed [Kd Ac] and won 557 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #444698628905238529-8-1418676561 - Holdem no limit (20/40) - 2014/12/15 20:49:21 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #9 is the button
+Seat 1: malcomfrere (1737)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1555)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1650)
+Seat 6: sabre_laser (1470)
+Seat 7: Kerviel_Spew (770)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2866)
+Seat 10: NiamorYbud (557)
+*** ANTE/BLINDS ***
+NiamorYbud posts small blind 20
+malcomfrere posts big blind 40
+Dealt to sabre_laser [Ks 3c]
+*** PRE-FLOP *** 
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud raises 517 to 557 and is all-in
+malcomfrere folds
+NiamorYbud collected 597 from pot
+*** SUMMARY ***
+Total pot 597 | No rake
+Seat 10: NiamorYbud (small blind) won 597
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #444698628905238529-9-1418676628 - Holdem no limit (20/40) - 2014/12/15 20:50:28 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #10 is the button
+Seat 1: malcomfrere (1697)
+Seat 2: Floo60 (1500)
+Seat 3: DEEPstef (1555)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1650)
+Seat 6: sabre_laser (1470)
+Seat 7: Kerviel_Spew (770)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2866)
+Seat 10: NiamorYbud (597)
+*** ANTE/BLINDS ***
+malcomfrere posts small blind 20
+Floo60 posts big blind 40
+Dealt to sabre_laser [Qd 2c]
+*** PRE-FLOP *** 
+DEEPstef folds
+Chungo folds
+jm azemus calls 40
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 calls 40
+NiamorYbud raises 557 to 597 and is all-in
+malcomfrere folds
+Floo60 folds
+jm azemus calls 557
+13MERCO13 folds
+*** FLOP *** [9h 4s As]
+*** TURN *** [9h 4s As][Ad]
+*** RIVER *** [9h 4s As Ad][7d]
+*** SHOW DOWN ***
+jm azemus shows [Jh Qh] (One pair : Aces)
+NiamorYbud shows [3c 3h] (Two pairs : Aces and 3)
+NiamorYbud collected 1294 from pot
+*** SUMMARY ***
+Total pot 1294 | No rake
+Board: [9h 4s As Ad 7d]
+Seat 5: jm azemus showed [Jh Qh] and lost with One pair : Aces
+Seat 10: NiamorYbud (button) showed [3c 3h] and won 1294 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #444698628905238529-10-1418676690 - Holdem no limit (20/40) - 2014/12/15 20:51:30 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #1 is the button
+Seat 1: malcomfrere (1677)
+Seat 2: Floo60 (1460)
+Seat 3: DEEPstef (1555)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (1053)
+Seat 6: sabre_laser (1470)
+Seat 7: Kerviel_Spew (770)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2826)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+Floo60 posts small blind 20
+DEEPstef posts big blind 40
+Dealt to sabre_laser [7c 8c]
+*** PRE-FLOP *** 
+Chungo folds
+jm azemus calls 40
+sabre_laser calls 40
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 calls 20
+DEEPstef folds
+*** FLOP *** [Qc Qd Ac]
+Floo60 checks
+jm azemus bets 120
+sabre_laser calls 120
+Floo60 calls 120
+*** TURN *** [Qc Qd Ac][6h]
+Floo60 checks
+jm azemus checks
+sabre_laser checks
+*** RIVER *** [Qc Qd Ac 6h][4c]
+Floo60 bets 280
+jm azemus folds
+sabre_laser calls 280
+*** SHOW DOWN ***
+sabre_laser shows [7c 8c] (Flush Ace high)
+Floo60 shows [As Qs] (Full of Queens and Aces)
+Floo60 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Qc Qd Ac 6h 4c]
+Seat 2: Floo60 (small blind) showed [As Qs] and won 1080 with Full of Queens and Aces
+Seat 6: sabre_laser showed [7c 8c] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #444698628905238529-11-1418676778 - Holdem no limit (20/40) - 2014/12/15 20:52:58 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #2 is the button
+Seat 1: malcomfrere (1677)
+Seat 2: Floo60 (2100)
+Seat 3: DEEPstef (1515)
+Seat 4: Chungo (1470)
+Seat 5: jm azemus (893)
+Seat 6: sabre_laser (1030)
+Seat 7: Kerviel_Spew (770)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2826)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 20
+Chungo posts big blind 40
+Dealt to sabre_laser [6c 7s]
+*** PRE-FLOP *** 
+jm azemus calls 40
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere raises 80 to 120
+Floo60 calls 120
+DEEPstef folds
+Chungo folds
+jm azemus calls 80
+*** FLOP *** [4c 8c 6h]
+jm azemus checks
+malcomfrere bets 210
+Floo60 raises 1770 to 1980 and is all-in
+jm azemus folds
+malcomfrere folds
+Floo60 shows [Qs Qh] (One pair : Queens)
+Floo60 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [4c 8c 6h]
+Seat 2: Floo60 (button) showed [Qs Qh] and won 2610 with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #444698628905238529-12-1418676851 - Holdem no limit (20/40) - 2014/12/15 20:54:11 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #3 is the button
+Seat 1: malcomfrere (1347)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1430)
+Seat 5: jm azemus (773)
+Seat 6: sabre_laser (1030)
+Seat 7: Kerviel_Spew (770)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2826)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+Chungo posts small blind 20
+jm azemus posts big blind 40
+Dealt to sabre_laser [Ac 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 5: jm azemus (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 2 - HandId: #444698628905238529-13-1418676884 - Holdem no limit (20/40) - 2014/12/15 20:54:44 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #4 is the button
+Seat 1: malcomfrere (1347)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1410)
+Seat 5: jm azemus (793)
+Seat 6: sabre_laser (1030)
+Seat 7: Kerviel_Spew (770)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2826)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+jm azemus posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ad Ac]
+*** PRE-FLOP *** 
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo calls 40
+jm azemus folds
+sabre_laser raises 40 to 80
+Chungo calls 40
+*** FLOP *** [6c 3h 9d]
+sabre_laser bets 40
+Chungo folds
+sabre_laser collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [6c 3h 9d]
+Seat 6: sabre_laser (big blind) won 220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #444698628905238529-14-1418676982 - Holdem no limit (30/60) - 2014/12/15 20:56:22 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #5 is the button
+Seat 1: malcomfrere (1347)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (773)
+Seat 6: sabre_laser (1130)
+Seat 7: Kerviel_Spew (770)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2826)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Kerviel_Spew posts big blind 60
+Dealt to sabre_laser [6c As]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere raises 60 to 120
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser calls 90
+Kerviel_Spew folds
+*** FLOP *** [Qd 9c 8c]
+sabre_laser checks
+malcomfrere checks
+*** TURN *** [Qd 9c 8c][2d]
+sabre_laser bets 150
+malcomfrere calls 150
+*** RIVER *** [Qd 9c 8c 2d][Qc]
+sabre_laser checks
+malcomfrere bets 300
+sabre_laser folds
+malcomfrere collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 9c 8c 2d Qc]
+Seat 1: malcomfrere won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #444698628905238529-15-1418677116 - Holdem no limit (30/60) - 2014/12/15 20:58:36 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #6 is the button
+Seat 1: malcomfrere (1677)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (773)
+Seat 6: sabre_laser (860)
+Seat 7: Kerviel_Spew (710)
+Seat 8: Kalou du LDM (1425)
+Seat 9: 13MERCO13 (2826)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+Kerviel_Spew posts small blind 30
+Kalou du LDM posts big blind 60
+Dealt to sabre_laser [Kd Qd]
+*** PRE-FLOP *** 
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus calls 60
+sabre_laser raises 240 to 300
+Kerviel_Spew folds
+Kalou du LDM folds
+jm azemus raises 473 to 773 and is all-in
+sabre_laser calls 473
+*** FLOP *** [8s Jc 5h]
+*** TURN *** [8s Jc 5h][6h]
+*** RIVER *** [8s Jc 5h 6h][Tc]
+*** SHOW DOWN ***
+sabre_laser shows [Kd Qd] (High card : King)
+jm azemus shows [Kh Jh] (One pair : Jacks)
+jm azemus collected 1636 from pot
+*** SUMMARY ***
+Total pot 1636 | No rake
+Board: [8s Jc 5h 6h Tc]
+Seat 5: jm azemus showed [Kh Jh] and won 1636 with One pair : Jacks
+Seat 6: sabre_laser (button) showed [Kd Qd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #444698628905238529-16-1418677182 - Holdem no limit (30/60) - 2014/12/15 20:59:42 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #7 is the button
+Seat 1: malcomfrere (1677)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (1636)
+Seat 6: sabre_laser (87)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1365)
+Seat 9: 13MERCO13 (2826)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 30
+13MERCO13 posts big blind 60
+Dealt to sabre_laser [9h 8c]
+*** PRE-FLOP *** 
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser raises 27 to 87 and is all-in
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 calls 27
+*** FLOP *** [Qc 2s Kd]
+*** TURN *** [Qc 2s Kd][Jd]
+*** RIVER *** [Qc 2s Kd Jd][8s]
+*** SHOW DOWN ***
+13MERCO13 shows [5h 3h] (High card : King)
+sabre_laser shows [9h 8c] (One pair : 8)
+sabre_laser collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [Qc 2s Kd Jd 8s]
+Seat 6: sabre_laser showed [9h 8c] and won 204 with One pair : 8
+Seat 9: 13MERCO13 (big blind) showed [5h 3h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 3 - HandId: #444698628905238529-17-1418677251 - Holdem no limit (30/60) - 2014/12/15 21:00:51 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #8 is the button
+Seat 1: malcomfrere (1677)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (1636)
+Seat 6: sabre_laser (204)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2739)
+Seat 10: NiamorYbud (1294)
+*** ANTE/BLINDS ***
+13MERCO13 posts small blind 30
+NiamorYbud posts big blind 60
+Dealt to sabre_laser [9s 7d]
+*** PRE-FLOP *** 
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus raises 240 to 300
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud raises 994 to 1294 and is all-in
+jm azemus calls 994
+*** FLOP *** [6d 6h Ad]
+*** TURN *** [6d 6h Ad][5s]
+*** RIVER *** [6d 6h Ad 5s][Tc]
+*** SHOW DOWN ***
+jm azemus shows [Kd Kh] (Two pairs : Kings and 6)
+NiamorYbud shows [Jh Ah] (Two pairs : Aces and 6)
+NiamorYbud collected 2618 from pot
+*** SUMMARY ***
+Total pot 2618 | No rake
+Board: [6d 6h Ad 5s Tc]
+Seat 5: jm azemus showed [Kd Kh] and lost with Two pairs : Kings and 6
+Seat 10: NiamorYbud (big blind) showed [Jh Ah] and won 2618 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #444698628905238529-18-1418677318 - Holdem no limit (40/80) - 2014/12/15 21:01:58 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #9 is the button
+Seat 1: malcomfrere (1677)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (342)
+Seat 6: sabre_laser (204)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2709)
+Seat 10: NiamorYbud (2618)
+*** ANTE/BLINDS ***
+NiamorYbud posts small blind 40
+malcomfrere posts big blind 80
+Dealt to sabre_laser [5d Tc]
+*** PRE-FLOP *** 
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 calls 80
+NiamorYbud folds
+malcomfrere checks
+*** FLOP *** [9d Kd 9h]
+malcomfrere bets 80
+13MERCO13 folds
+malcomfrere collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [9d Kd 9h]
+Seat 1: malcomfrere (big blind) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #444698628905238529-19-1418677369 - Holdem no limit (40/80) - 2014/12/15 21:02:49 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #10 is the button
+Seat 1: malcomfrere (1797)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (342)
+Seat 6: sabre_laser (204)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2629)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+malcomfrere posts small blind 40
+Floo60 posts big blind 80
+Dealt to sabre_laser [5d Jc]
+*** PRE-FLOP *** 
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser raises 124 to 204 and is all-in
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+sabre_laser collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Seat 6: sabre_laser won 324
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #444698628905238529-20-1418677423 - Holdem no limit (40/80) - 2014/12/15 21:03:43 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #1 is the button
+Seat 1: malcomfrere (1757)
+Seat 2: Floo60 (2530)
+Seat 3: DEEPstef (1495)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (342)
+Seat 6: sabre_laser (324)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2629)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+Floo60 posts small blind 40
+DEEPstef posts big blind 80
+Dealt to sabre_laser [5s 6h]
+*** PRE-FLOP *** 
+Chungo folds
+jm azemus raises 262 to 342 and is all-in
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+jm azemus collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Seat 5: jm azemus won 462
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #444698628905238529-21-1418677489 - Holdem no limit (40/80) - 2014/12/15 21:04:49 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #2 is the button
+Seat 1: malcomfrere (1757)
+Seat 2: Floo60 (2490)
+Seat 3: DEEPstef (1415)
+Seat 4: Chungo (1330)
+Seat 5: jm azemus (462)
+Seat 6: sabre_laser (324)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2629)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+DEEPstef posts small blind 40
+Chungo posts big blind 80
+Dealt to sabre_laser [4s 2s]
+*** PRE-FLOP *** 
+jm azemus folds
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 raises 2410 to 2490 and is all-in
+DEEPstef folds
+Chungo folds
+Floo60 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Seat 2: Floo60 (button) won 2610
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #444698628905238529-22-1418677541 - Holdem no limit (40/80) - 2014/12/15 21:05:41 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #3 is the button
+Seat 1: malcomfrere (1757)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1375)
+Seat 4: Chungo (1250)
+Seat 5: jm azemus (462)
+Seat 6: sabre_laser (324)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2629)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+Chungo posts small blind 40
+jm azemus posts big blind 80
+Dealt to sabre_laser [5d Kd]
+*** PRE-FLOP *** 
+sabre_laser raises 244 to 324 and is all-in
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | No rake
+Seat 6: sabre_laser won 444
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 4 - HandId: #444698628905238529-23-1418677579 - Holdem no limit (40/80) - 2014/12/15 21:06:19 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #4 is the button
+Seat 1: malcomfrere (1757)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1375)
+Seat 4: Chungo (1210)
+Seat 5: jm azemus (382)
+Seat 6: sabre_laser (444)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2629)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+jm azemus posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [4d 7c]
+*** PRE-FLOP *** 
+Kerviel_Spew folds
+Kalou du LDM folds
+13MERCO13 calls 80
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus raises 302 to 382 and is all-in
+sabre_laser folds
+13MERCO13 calls 302
+*** FLOP *** [Qh 5s 3h]
+*** TURN *** [Qh 5s 3h][4h]
+*** RIVER *** [Qh 5s 3h 4h][5d]
+*** SHOW DOWN ***
+13MERCO13 shows [Ks Ac] (One pair : 5)
+jm azemus shows [Qc 9s] (Two pairs : Queens and 5)
+jm azemus collected 844 from pot
+*** SUMMARY ***
+Total pot 844 | No rake
+Board: [Qh 5s 3h 4h 5d]
+Seat 5: jm azemus (small blind) showed [Qc 9s] and won 844 with Two pairs : Queens and 5
+Seat 9: 13MERCO13 showed [Ks Ac] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #444698628905238529-24-1418677646 - Holdem no limit (60/120) - 2014/12/15 21:07:26 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #5 is the button
+Seat 1: malcomfrere (1757)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1375)
+Seat 4: Chungo (1210)
+Seat 5: jm azemus (844)
+Seat 6: sabre_laser (364)
+Seat 7: Kerviel_Spew (680)
+Seat 8: Kalou du LDM (1335)
+Seat 9: 13MERCO13 (2247)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Kerviel_Spew posts big blind 120
+Dealt to sabre_laser [Jh 3h]
+*** PRE-FLOP *** 
+Kalou du LDM calls 120
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus raises 724 to 844 and is all-in
+sabre_laser folds
+Kerviel_Spew folds
+Kalou du LDM calls 724
+*** FLOP *** [Ah 6s 3s]
+*** TURN *** [Ah 6s 3s][Kd]
+*** RIVER *** [Ah 6s 3s Kd][Tc]
+*** SHOW DOWN ***
+Kalou du LDM shows [Qd Qc] (One pair : Queens)
+jm azemus shows [Ac Kc] (Two pairs : Aces and Kings)
+jm azemus collected 1868 from pot
+*** SUMMARY ***
+Total pot 1868 | No rake
+Board: [Ah 6s 3s Kd Tc]
+Seat 5: jm azemus (button) showed [Ac Kc] and won 1868 with Two pairs : Aces and Kings
+Seat 8: Kalou du LDM showed [Qd Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #444698628905238529-25-1418677710 - Holdem no limit (60/120) - 2014/12/15 21:08:30 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #6 is the button
+Seat 1: malcomfrere (1757)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1375)
+Seat 4: Chungo (1210)
+Seat 5: jm azemus (1868)
+Seat 6: sabre_laser (304)
+Seat 7: Kerviel_Spew (560)
+Seat 8: Kalou du LDM (491)
+Seat 9: 13MERCO13 (2247)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+Kerviel_Spew posts small blind 60
+Kalou du LDM posts big blind 120
+Dealt to sabre_laser [Ah 3c]
+*** PRE-FLOP *** 
+13MERCO13 folds
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser raises 184 to 304 and is all-in
+Kerviel_Spew folds
+Kalou du LDM raises 184 to 488
+*** FLOP *** [7s Ac Ks]
+*** TURN *** [7s Ac Ks][Kd]
+*** RIVER *** [7s Ac Ks Kd][4c]
+*** SHOW DOWN ***
+sabre_laser shows [Ah 3c] (Two pairs : Aces and Kings)
+Kalou du LDM shows [Ad 4h] (Two pairs : Aces and Kings)
+Kalou du LDM collected 518 from side pot 1
+sabre_laser collected 334 from main pot
+*** SUMMARY ***
+Total pot 852 | No rake
+Board: [7s Ac Ks Kd 4c]
+Seat 6: sabre_laser (button) showed [Ah 3c] and won 334 with Two pairs : Aces and Kings
+Seat 8: Kalou du LDM (big blind) showed [Ad 4h] and won 518 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 5 - HandId: #444698628905238529-26-1418677749 - Holdem no limit (60/120) - 2014/12/15 21:09:09 UTC
+Table: 'Double or Nothing(103539468)#0' 10-max (real money) Seat #7 is the button
+Seat 1: malcomfrere (1757)
+Seat 2: Floo60 (2610)
+Seat 3: DEEPstef (1375)
+Seat 4: Chungo (1210)
+Seat 5: jm azemus (1868)
+Seat 6: sabre_laser (334)
+Seat 7: Kerviel_Spew (500)
+Seat 8: Kalou du LDM (521)
+Seat 9: 13MERCO13 (2247)
+Seat 10: NiamorYbud (2578)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 60
+13MERCO13 posts big blind 120
+Dealt to sabre_laser [Ad Ks]
+*** PRE-FLOP *** 
+NiamorYbud folds
+malcomfrere folds
+Floo60 folds
+DEEPstef folds
+Chungo folds
+jm azemus folds
+sabre_laser raises 214 to 334 and is all-in
+Kerviel_Spew folds
+Kalou du LDM raises 187 to 521 and is all-in
+13MERCO13 folds
+*** FLOP *** [6h 4h Qc]
+*** TURN *** [6h 4h Qc][2h]
+*** RIVER *** [6h 4h Qc 2h][Qd]
+*** SHOW DOWN ***
+sabre_laser shows [Ad Ks] (One pair : Queens)
+Kalou du LDM shows [8h Ah] (Flush Ace high)
+Kalou du LDM collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [6h 4h Qc 2h Qd]
+Seat 6: sabre_laser showed [Ad Ks] and lost with One pair : Queens
+Seat 8: Kalou du LDM (small blind) showed [8h Ah] and won 975 with Flush Ace high
+
+

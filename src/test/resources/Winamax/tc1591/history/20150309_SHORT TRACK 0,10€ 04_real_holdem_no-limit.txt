@@ -1,0 +1,789 @@
+Winamax Poker - CashGame - HandId: #7274721-354-1425936413 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:26:53 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Cha83140 (0.61€)
+Seat 2: madelons (0.08€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.36€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+madelons posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [3s 6c]
+*** PRE-FLOP *** 
+doliprane 1g raises 0.04€ to 0.06€
+Cha83140 folds
+madelons folds
+tc1591 folds
+doliprane 1g collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: doliprane 1g won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #7274721-355-1425936443 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:27:23 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #2 is the button
+Seat 1: Cha83140 (0.61€)
+Seat 2: madelons (0.07€)
+Seat 3: tc1591 (0.08€)
+Seat 4: doliprane 1g (0.39€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+doliprane 1g posts big blind 0.02€
+Dealt to tc1591 [Kh 3s]
+*** PRE-FLOP *** 
+Cha83140 calls 0.02€
+madelons raises 0.05€ to 0.07€ and is all-in
+tc1591 folds
+doliprane 1g folds
+Cha83140 calls 0.05€
+*** FLOP *** [Jd Kc 8h]
+*** TURN *** [Jd Kc 8h][6h]
+*** RIVER *** [Jd Kc 8h 6h][Kd]
+*** SHOW DOWN ***
+Cha83140 shows [8d Qd] (Two pairs : Kings and 8)
+madelons shows [Td Th] (Two pairs : Kings and Tens)
+madelons collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | Rake 0.01€
+Board: [Jd Kc 8h 6h Kd]
+Seat 1: Cha83140 showed [8d Qd] and lost with Two pairs : Kings and 8
+Seat 2: madelons (button) showed [Td Th] and won 0.16€ with Two pairs : Kings and Tens
+
+
+Winamax Poker - CashGame - HandId: #7274721-356-1425936489 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:28:09 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #3 is the button
+Seat 1: Cha83140 (0.54€)
+Seat 2: madelons (0.16€)
+Seat 3: tc1591 (0.07€)
+Seat 4: doliprane 1g (0.37€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+doliprane 1g posts small blind 0.01€
+Cha83140 posts big blind 0.02€
+Dealt to tc1591 [Kc 4h]
+*** PRE-FLOP *** 
+madelons calls 0.02€
+tc1591 folds
+doliprane 1g calls 0.01€
+Cha83140 checks
+*** FLOP *** [3d 5d 3h]
+doliprane 1g bets 0.06€
+Cha83140 folds
+madelons calls 0.06€
+*** TURN *** [3d 5d 3h][Ks]
+doliprane 1g bets 0.18€
+madelons calls 0.08€ and is all-in
+*** RIVER *** [3d 5d 3h Ks][7d]
+*** SHOW DOWN ***
+madelons shows [Ad 4d] (Flush Ace high)
+doliprane 1g shows [6d Kd] (Flush King high)
+doliprane 1g collected 0.10€ from side pot 1
+madelons collected 0.32€ from main pot
+*** SUMMARY ***
+Total pot 0.42€ | Rake 0.02€
+Board: [3d 5d 3h Ks 7d]
+Seat 2: madelons showed [Ad 4d] and won 0.32€ with Flush Ace high
+Seat 4: doliprane 1g (small blind) showed [6d Kd] and won 0.10€ with Flush King high
+
+
+Winamax Poker - CashGame - HandId: #7274721-357-1425936544 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:29:04 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #4 is the button
+Seat 1: Cha83140 (0.52€)
+Seat 2: madelons (0.32€)
+Seat 3: tc1591 (0.07€)
+Seat 4: doliprane 1g (0.21€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+Cha83140 posts small blind 0.01€
+madelons posts big blind 0.02€
+Dealt to tc1591 [Jc Td]
+*** PRE-FLOP *** 
+tc1591 raises 0.05€ to 0.07€ and is all-in
+doliprane 1g folds
+Cha83140 folds
+madelons folds
+tc1591 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 3: tc1591 won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #7274721-358-1425936569 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:29:29 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Cha83140 (0.51€)
+Seat 2: madelons (0.30€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.21€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+madelons posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Ks 9d]
+*** PRE-FLOP *** 
+doliprane 1g calls 0.02€
+Cha83140 folds
+madelons calls 0.01€
+tc1591 checks
+*** FLOP *** [3h Qh Jd]
+madelons bets 0.06€
+tc1591 folds
+doliprane 1g raises 0.13€ to 0.19€ and is all-in
+madelons calls 0.13€
+*** TURN *** [3h Qh Jd][Kc]
+*** RIVER *** [3h Qh Jd Kc][7s]
+*** SHOW DOWN ***
+doliprane 1g shows [4h 6h] (High card : King)
+madelons shows [Jh Ac] (One pair : Jacks)
+madelons collected 0.41€ from pot
+*** SUMMARY ***
+Total pot 0.41€ | Rake 0.03€
+Board: [3h Qh Jd Kc 7s]
+Seat 2: madelons (small blind) showed [Jh Ac] and won 0.41€ with One pair : Jacks
+Seat 4: doliprane 1g showed [4h 6h] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7274721-359-1425936617 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:30:17 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #2 is the button
+Seat 1: Cha83140 (0.51€)
+Seat 2: madelons (0.50€)
+Seat 3: tc1591 (0.08€)
+Seat 4: doliprane 1g (0.10€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+doliprane 1g posts big blind 0.02€
+Dealt to tc1591 [6d Kc]
+*** PRE-FLOP *** 
+Cha83140 raises 0.02€ to 0.04€
+madelons folds
+tc1591 folds
+doliprane 1g calls 0.02€
+*** FLOP *** [6h 6c Kd]
+doliprane 1g checks
+Cha83140 bets 0.06€
+doliprane 1g folds
+Cha83140 collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [6h 6c Kd]
+Seat 1: Cha83140 won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #7274721-360-1425936653 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:30:53 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #3 is the button
+Seat 1: Cha83140 (0.55€)
+Seat 2: madelons (0.50€)
+Seat 3: tc1591 (0.07€)
+Seat 4: doliprane 1g (0.10€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+doliprane 1g posts small blind 0.01€
+Cha83140 posts big blind 0.02€
+Dealt to tc1591 [5c Kd]
+*** PRE-FLOP *** 
+madelons folds
+tc1591 folds
+doliprane 1g folds
+Cha83140 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: Cha83140 (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7274721-361-1425936662 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:31:02 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #4 is the button
+Seat 1: Cha83140 (0.56€)
+Seat 2: madelons (0.50€)
+Seat 3: tc1591 (0.07€)
+Seat 4: doliprane 1g (0.10€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+Cha83140 posts small blind 0.01€
+madelons posts big blind 0.02€
+Dealt to tc1591 [Kh 9s]
+*** PRE-FLOP *** 
+tc1591 raises 0.03€ to 0.05€
+doliprane 1g raises 0.05€ to 0.10€ and is all-in
+Cha83140 folds
+madelons folds
+tc1591 calls 0.02€ and is all-in
+*** FLOP *** [4s Qh 4c]
+*** TURN *** [4s Qh 4c][Qc]
+*** RIVER *** [4s Qh 4c Qc][7h]
+*** SHOW DOWN ***
+tc1591 shows [Kh 9s] (Two pairs : Queens and 4)
+doliprane 1g shows [Ac 8h] (Two pairs : Queens and 4)
+doliprane 1g collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [4s Qh 4c Qc 7h]
+Seat 3: tc1591 showed [Kh 9s] and lost with Two pairs : Queens and 4
+Seat 4: doliprane 1g (button) showed [Ac 8h] and won 0.19€ with Two pairs : Queens and 4
+
+
+Winamax Poker - CashGame - HandId: #7274721-362-1425936693 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:31:33 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Cha83140 (0.55€)
+Seat 2: madelons (0.48€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.19€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+madelons posts small blind 0.01€
+doliprane 1g posts big blind 0.02€
+*** PRE-FLOP *** 
+Cha83140 folds
+madelons calls 0.01€
+doliprane 1g raises 0.17€ to 0.19€ and is all-in
+madelons folds
+doliprane 1g collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | No rake
+Seat 4: doliprane 1g (big blind) won 0.21€
+
+
+Winamax Poker - CashGame - HandId: #7274721-363-1425936730 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:32:10 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #2 is the button
+Seat 1: Cha83140 (0.55€)
+Seat 2: madelons (0.46€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.21€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+doliprane 1g posts small blind 0.01€
+Cha83140 posts big blind 0.02€
+*** PRE-FLOP *** 
+madelons folds
+doliprane 1g raises 0.04€ to 0.06€
+Cha83140 folds
+doliprane 1g collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 4: doliprane 1g (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #7274721-364-1425936752 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:32:32 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #4 is the button
+Seat 1: Cha83140 (0.53€)
+Seat 2: madelons (0.46€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.23€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+Cha83140 posts small blind 0.01€
+madelons posts big blind 0.02€
+*** PRE-FLOP *** 
+doliprane 1g raises 0.02€ to 0.04€
+Cha83140 calls 0.03€
+madelons calls 0.02€
+*** FLOP *** [9c 7c Kd]
+Cha83140 checks
+madelons bets 0.02€
+doliprane 1g raises 0.05€ to 0.07€
+Cha83140 calls 0.07€
+madelons folds
+*** TURN *** [9c 7c Kd][5d]
+Cha83140 checks
+doliprane 1g bets 0.12€ and is all-in
+Cha83140 calls 0.12€
+*** RIVER *** [9c 7c Kd 5d][Ah]
+*** SHOW DOWN ***
+Cha83140 shows [Ks Jh] (One pair : Kings)
+doliprane 1g shows [As Ac] (Trips of Aces)
+doliprane 1g collected 0.49€ from pot
+*** SUMMARY ***
+Total pot 0.49€ | Rake 0.03€
+Board: [9c 7c Kd 5d Ah]
+Seat 1: Cha83140 (small blind) showed [Ks Jh] and lost with One pair : Kings
+Seat 4: doliprane 1g (button) showed [As Ac] and won 0.49€ with Trips of Aces
+
+
+Winamax Poker - CashGame - HandId: #7274721-365-1425936808 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:33:28 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Cha83140 (0.30€)
+Seat 2: madelons (0.40€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.49€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+madelons posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Kc 5d]
+*** PRE-FLOP *** 
+doliprane 1g raises 0.02€ to 0.04€
+Cha83140 raises 0.26€ to 0.30€ and is all-in
+madelons folds
+tc1591 folds
+doliprane 1g folds
+Cha83140 collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | No rake
+Seat 1: Cha83140 (button) won 0.37€
+
+
+Winamax Poker - CashGame - HandId: #7274721-366-1425936847 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:34:07 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #2 is the button
+Seat 1: Cha83140 (0.37€)
+Seat 2: madelons (0.39€)
+Seat 3: tc1591 (0.08€)
+Seat 4: doliprane 1g (0.45€)
+Seat 5: obamakooO (0.26€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+doliprane 1g posts big blind 0.02€
+Dealt to tc1591 [9c 5c]
+*** PRE-FLOP *** 
+Cha83140 folds
+madelons folds
+tc1591 folds
+doliprane 1g collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 4: doliprane 1g (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #7274721-367-1425936864 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:34:24 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #3 is the button
+Seat 1: Cha83140 (0.37€)
+Seat 2: madelons (0.39€)
+Seat 3: tc1591 (0.07€)
+Seat 4: doliprane 1g (0.46€)
+*** ANTE/BLINDS ***
+doliprane 1g posts small blind 0.01€
+Cha83140 posts big blind 0.02€
+Dealt to tc1591 [Tc Kc]
+*** PRE-FLOP *** 
+madelons folds
+tc1591 raises 0.05€ to 0.07€ and is all-in
+doliprane 1g folds
+Cha83140 calls 0.05€
+*** FLOP *** [9s Qc Th]
+*** TURN *** [9s Qc Th][3c]
+*** RIVER *** [9s Qc Th 3c][5d]
+*** SHOW DOWN ***
+tc1591 shows [Tc Kc] (One pair : Tens)
+Cha83140 shows [Kh Js] (Straight King high)
+Cha83140 collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [9s Qc Th 3c 5d]
+Seat 1: Cha83140 (big blind) showed [Kh Js] and won 0.14€ with Straight King high
+Seat 3: tc1591 (button) showed [Tc Kc] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7274721-368-1425936887 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:34:47 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #4 is the button
+Seat 1: Cha83140 (0.44€)
+Seat 2: madelons (0.39€)
+Seat 3: tc1591 (0€)
+Seat 4: doliprane 1g (0.45€)
+*** ANTE/BLINDS ***
+Cha83140 posts small blind 0.01€
+madelons posts big blind 0.02€
+*** PRE-FLOP *** 
+doliprane 1g raises 0.03€ to 0.05€
+Cha83140 calls 0.04€
+madelons folds
+*** FLOP *** [8s Jc 8d]
+Cha83140 checks
+doliprane 1g checks
+*** TURN *** [8s Jc 8d][Js]
+Cha83140 checks
+doliprane 1g checks
+*** RIVER *** [8s Jc 8d Js][Jd]
+Cha83140 checks
+doliprane 1g checks
+*** SHOW DOWN ***
+Cha83140 shows [5c Kc] (Full of Jacks and 8)
+doliprane 1g shows [Qh Ts] (Full of Jacks and 8)
+doliprane 1g collected 0.06€ from pot
+Cha83140 collected 0.05€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | Rake 0.01€
+Board: [8s Jc 8d Js Jd]
+Seat 1: Cha83140 (small blind) showed [5c Kc] and won 0.05€ with Full of Jacks and 8
+Seat 4: doliprane 1g (button) showed [Qh Ts] and won 0.06€ with Full of Jacks and 8
+
+
+Winamax Poker - CashGame - HandId: #7274721-369-1425936980 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:36:20 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Cha83140 (0.44€)
+Seat 2: madelons (0.37€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.46€)
+Seat 5: Phil 95 (0.10€)
+*** ANTE/BLINDS ***
+madelons posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Phil 95 posts big blind 0.02€ out of position
+Dealt to tc1591 [2c 4c]
+*** PRE-FLOP *** 
+doliprane 1g calls 0.02€
+Phil 95 checks
+Cha83140 calls 0.02€
+madelons calls 0.01€
+tc1591 checks
+*** FLOP *** [Jh 2s As]
+madelons checks
+tc1591 checks
+doliprane 1g checks
+Phil 95 checks
+Cha83140 checks
+*** TURN *** [Jh 2s As][3h]
+madelons bets 0.02€
+tc1591 raises 0.06€ to 0.08€ and is all-in
+doliprane 1g folds
+Phil 95 folds
+Cha83140 calls 0.08€
+madelons raises 0.27€ to 0.35€ and is all-in
+Cha83140 folds
+*** RIVER *** [Jh 2s As 3h][9c]
+*** SHOW DOWN ***
+tc1591 shows [2c 4c] (One pair : 2)
+madelons shows [2h 3c] (Two pairs : 3 and 2)
+madelons collected 0.59€ from pot
+*** SUMMARY ***
+Total pot 0.59€ | Rake 0.02€
+Board: [Jh 2s As 3h 9c]
+Seat 2: madelons (small blind) showed [2h 3c] and won 0.59€ with Two pairs : 3 and 2
+Seat 3: tc1591 (big blind) showed [2c 4c] and lost with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #7274721-370-1425937068 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:37:48 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #2 is the button
+Seat 1: Cha83140 (0.34€)
+Seat 2: madelons (0.59€)
+Seat 3: tc1591 (0€)
+Seat 4: doliprane 1g (0.44€)
+Seat 5: Phil 95 (0.08€)
+*** ANTE/BLINDS ***
+doliprane 1g posts big blind 0.02€
+*** PRE-FLOP *** 
+Phil 95 calls 0.02€
+Cha83140 folds
+madelons calls 0.02€
+doliprane 1g checks
+*** FLOP *** [Ks 4h Qs]
+doliprane 1g checks
+Phil 95 checks
+madelons checks
+*** TURN *** [Ks 4h Qs][5d]
+doliprane 1g checks
+Phil 95 checks
+madelons checks
+*** RIVER *** [Ks 4h Qs 5d][Jc]
+doliprane 1g checks
+Phil 95 checks
+madelons bets 0.06€
+doliprane 1g folds
+Phil 95 folds
+madelons collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [Ks 4h Qs 5d Jc]
+Seat 2: madelons (button) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #7274721-371-1425937185 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:39:45 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #3 is the button
+Seat 1: Cha83140 (0.34€)
+Seat 2: madelons (0.63€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.42€)
+Seat 5: Phil 95 (0.06€)
+*** ANTE/BLINDS ***
+doliprane 1g posts small blind 0.01€
+Phil 95 posts big blind 0.02€
+*** PRE-FLOP *** 
+Cha83140 calls 0.02€
+madelons folds
+doliprane 1g folds
+Phil 95 checks
+*** FLOP *** [6s 2s Kh]
+Phil 95 checks
+Cha83140 bets 0.02€
+Phil 95 raises 0.02€ to 0.04€ and is all-in
+Cha83140 calls 0.02€
+*** TURN *** [6s 2s Kh][Ah]
+*** RIVER *** [6s 2s Kh Ah][Jd]
+*** SHOW DOWN ***
+Phil 95 shows [3h 9h] (High card : Ace)
+Cha83140 shows [2d 2h] (Trips of 2)
+Cha83140 collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [6s 2s Kh Ah Jd]
+Seat 1: Cha83140 showed [2d 2h] and won 0.12€ with Trips of 2
+Seat 5: Phil 95 (big blind) showed [3h 9h] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7274721-372-1425937232 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:40:32 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #4 is the button
+Seat 1: Cha83140 (0.40€)
+Seat 2: madelons (0.63€)
+Seat 3: tc1591 (0.10€)
+Seat 4: doliprane 1g (0.41€)
+Seat 5: Phil 95 (0.10€)
+*** ANTE/BLINDS ***
+Phil 95 posts small blind 0.01€
+Cha83140 posts big blind 0.02€
+tc1591 posts small blind 0.01€ out of position
+Dealt to tc1591 [2s Tc]
+*** PRE-FLOP *** 
+madelons raises 0.02€ to 0.04€
+tc1591 folds
+doliprane 1g folds
+Phil 95 calls 0.03€
+Cha83140 folds
+*** FLOP *** [8c 4h Qc]
+Phil 95 bets 0.06€ and is all-in
+madelons folds
+Phil 95 collected 0.16€ from pot
+*** SUMMARY ***
+Total pot 0.16€ | Rake 0.01€
+Board: [8c 4h Qc]
+Seat 5: Phil 95 (small blind) won 0.16€
+
+
+Winamax Poker - CashGame - HandId: #7274721-373-1425937260 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:41:00 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #5 is the button
+Seat 1: Cha83140 (0.38€)
+Seat 2: madelons (0.59€)
+Seat 3: tc1591 (0.09€)
+Seat 4: doliprane 1g (0.41€)
+Seat 5: Phil 95 (0.16€)
+*** ANTE/BLINDS ***
+Cha83140 posts small blind 0.01€
+madelons posts big blind 0.02€
+Dealt to tc1591 [Ad 5d]
+*** PRE-FLOP *** 
+tc1591 raises 0.07€ to 0.09€ and is all-in
+doliprane 1g folds
+Phil 95 folds
+Cha83140 folds
+madelons folds
+tc1591 collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Seat 3: tc1591 won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #7274721-374-1425937283 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:41:23 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Cha83140 (0.37€)
+Seat 2: madelons (0.57€)
+Seat 3: tc1591 (0.12€)
+Seat 4: doliprane 1g (0.41€)
+Seat 5: Phil 95 (0.16€)
+*** ANTE/BLINDS ***
+madelons posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [6h 7h]
+*** PRE-FLOP *** 
+doliprane 1g folds
+Phil 95 folds
+Cha83140 folds
+madelons calls 0.01€
+tc1591 raises 0.10€ to 0.12€ and is all-in
+madelons folds
+tc1591 collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | No rake
+Seat 3: tc1591 (big blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #7274721-375-1425937321 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:42:01 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #2 is the button
+Seat 1: Cha83140 (0.37€)
+Seat 2: madelons (0.55€)
+Seat 3: tc1591 (0.14€)
+Seat 4: doliprane 1g (0.41€)
+Seat 5: Phil 95 (0.16€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+doliprane 1g posts big blind 0.02€
+Dealt to tc1591 [8h 9h]
+*** PRE-FLOP *** 
+Phil 95 calls 0.02€
+Cha83140 folds
+madelons calls 0.02€
+tc1591 calls 0.01€
+doliprane 1g checks
+*** FLOP *** [As Jc 3d]
+tc1591 checks
+doliprane 1g checks
+Phil 95 checks
+madelons checks
+*** TURN *** [As Jc 3d][8c]
+tc1591 bets 0.12€ and is all-in
+doliprane 1g folds
+Phil 95 folds
+madelons calls 0.12€
+*** RIVER *** [As Jc 3d 8c][Ah]
+*** SHOW DOWN ***
+madelons shows [Qc Tc] (One pair : Aces)
+tc1591 shows [8h 9h] (Two pairs : Aces and 8)
+tc1591 collected 0.30€ from pot
+*** SUMMARY ***
+Total pot 0.30€ | Rake 0.02€
+Board: [As Jc 3d 8c Ah]
+Seat 2: madelons (button) showed [Qc Tc] and lost with One pair : Aces
+Seat 3: tc1591 (small blind) showed [8h 9h] and won 0.30€ with Two pairs : Aces and 8
+
+
+Winamax Poker - CashGame - HandId: #7274721-376-1425937428 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:43:48 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #3 is the button
+Seat 1: Cha83140 (0.37€)
+Seat 2: madelons (0.41€)
+Seat 3: tc1591 (0.30€)
+Seat 4: doliprane 1g (0.39€)
+Seat 5: Phil 95 (0.14€)
+*** ANTE/BLINDS ***
+doliprane 1g posts small blind 0.01€
+Phil 95 posts big blind 0.02€
+Dealt to tc1591 [9c Qh]
+*** PRE-FLOP *** 
+Cha83140 folds
+madelons raises 0.02€ to 0.04€
+tc1591 folds
+doliprane 1g folds
+Phil 95 calls 0.02€
+*** FLOP *** [9d 5c Jc]
+Phil 95 checks
+madelons checks
+*** TURN *** [9d 5c Jc][7h]
+Phil 95 checks
+madelons checks
+*** RIVER *** [9d 5c Jc 7h][9h]
+Phil 95 checks
+madelons checks
+*** SHOW DOWN ***
+Phil 95 shows [6d Ks] (One pair : 9)
+madelons shows [Qd Ac] (One pair : 9)
+madelons collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | Rake 0.01€
+Board: [9d 5c Jc 7h 9h]
+Seat 2: madelons showed [Qd Ac] and won 0.08€ with One pair : 9
+Seat 5: Phil 95 (big blind) showed [6d Ks] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7274721-377-1425937498 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:44:58 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #4 is the button
+Seat 1: Cha83140 (0.37€)
+Seat 2: madelons (0.45€)
+Seat 3: tc1591 (0.30€)
+Seat 4: doliprane 1g (0.38€)
+Seat 5: Phil 95 (0.10€)
+*** ANTE/BLINDS ***
+Phil 95 posts small blind 0.01€
+Cha83140 posts big blind 0.02€
+Dealt to tc1591 [Js 3d]
+*** PRE-FLOP *** 
+madelons folds
+tc1591 folds
+doliprane 1g calls 0.02€
+Phil 95 calls 0.01€
+Cha83140 checks
+*** FLOP *** [3c As Jh]
+Phil 95 checks
+Cha83140 checks
+doliprane 1g bets 0.05€
+Phil 95 folds
+Cha83140 folds
+doliprane 1g collected 0.11€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | No rake
+Board: [3c As Jh]
+Seat 4: doliprane 1g (button) won 0.11€
+
+
+Winamax Poker - CashGame - HandId: #7274721-378-1425937595 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:46:35 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #5 is the button
+Seat 1: Cha83140 (0.35€)
+Seat 2: madelons (0.45€)
+Seat 3: tc1591 (0.30€)
+Seat 4: doliprane 1g (0.42€)
+Seat 5: Phil 95 (0.08€)
+*** ANTE/BLINDS ***
+Cha83140 posts small blind 0.01€
+madelons posts big blind 0.02€
+Dealt to tc1591 [Kd Ts]
+*** PRE-FLOP *** 
+tc1591 raises 0.28€ to 0.30€ and is all-in
+doliprane 1g folds
+Phil 95 folds
+Cha83140 folds
+madelons folds
+tc1591 collected 0.33€ from pot
+*** SUMMARY ***
+Total pot 0.33€ | No rake
+Seat 3: tc1591 won 0.33€
+
+
+Winamax Poker - CashGame - HandId: #7274721-379-1425937618 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:46:58 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Cha83140 (0.34€)
+Seat 2: madelons (0.43€)
+Seat 3: tc1591 (0.33€)
+Seat 4: doliprane 1g (0.42€)
+Seat 5: Phil 95 (0.08€)
+*** ANTE/BLINDS ***
+madelons posts small blind 0.01€
+tc1591 posts big blind 0.02€
+Dealt to tc1591 [Kh 8s]
+*** PRE-FLOP *** 
+doliprane 1g raises 0.03€ to 0.05€
+Phil 95 raises 0.03€ to 0.08€ and is all-in
+Cha83140 folds
+madelons folds
+tc1591 folds
+doliprane 1g calls 0.03€
+*** FLOP *** [2h 9h Qc]
+*** TURN *** [2h 9h Qc][3c]
+*** RIVER *** [2h 9h Qc 3c][9c]
+*** SHOW DOWN ***
+doliprane 1g shows [6c As] (One pair : 9)
+Phil 95 shows [Ah 8h] (One pair : 9)
+Phil 95 collected 0.18€ from pot
+*** SUMMARY ***
+Total pot 0.18€ | Rake 0.01€
+Board: [2h 9h Qc 3c 9c]
+Seat 4: doliprane 1g showed [6c As] and lost with One pair : 9
+Seat 5: Phil 95 showed [Ah 8h] and won 0.18€ with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7274721-380-1425937675 - Holdem no limit (0.01€/0.02€) - 2015/03/09 21:47:55 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #2 is the button
+Seat 1: Cha83140 (0.34€)
+Seat 2: madelons (0.42€)
+Seat 3: tc1591 (0.31€)
+Seat 4: doliprane 1g (0.34€)
+Seat 5: Phil 95 (0.18€)
+*** ANTE/BLINDS ***
+tc1591 posts small blind 0.01€
+doliprane 1g posts big blind 0.02€
+Dealt to tc1591 [8s Tc]
+*** PRE-FLOP *** 
+Phil 95 calls 0.02€
+Cha83140 folds
+madelons folds
+tc1591 calls 0.01€
+doliprane 1g raises 0.32€ to 0.34€ and is all-in
+Phil 95 folds
+tc1591 calls 0.29€ and is all-in
+*** FLOP *** [Kh 7s 8h]
+*** TURN *** [Kh 7s 8h][7h]
+*** RIVER *** [Kh 7s 8h 7h][Ah]
+*** SHOW DOWN ***
+tc1591 shows [8s Tc] (Two pairs : 8 and 7)
+doliprane 1g shows [3c 3h] (Flush Ace high)
+doliprane 1g collected 0.63€ from pot
+*** SUMMARY ***
+Total pot 0.63€ | Rake 0.04€
+Board: [Kh 7s 8h 7h Ah]
+Seat 3: tc1591 (small blind) showed [8s Tc] and lost with Two pairs : 8 and 7
+Seat 4: doliprane 1g (big blind) showed [3c 3h] and won 0.63€ with Flush Ace high
+
+

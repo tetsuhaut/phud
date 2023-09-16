@@ -1,0 +1,1559 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #656269564014755905-1-1459451465 - Holdem no limit (100/200) - 2016/03/31 19:11:05 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (10000)
+Seat 2: Alylou31 (10000)
+Seat 3: Hasducoeur (10000)
+Seat 4: AA-P10D-AA (10000)
+Seat 5: sabre_laser (10000)
+Seat 6: swepps63 (10000)
+*** ANTE/BLINDS ***
+AA-P10D-AA posts small blind 100
+swepps63 posts big blind 200
+*** PRE-FLOP *** 
+Hasducoeur folds
+AA-P10D-AA calls 100
+swepps63 checks
+*** FLOP *** [Jh 8c 4d]
+AA-P10D-AA checks
+swepps63 bets 200
+AA-P10D-AA calls 200
+*** TURN *** [Jh 8c 4d][6h]
+AA-P10D-AA checks
+swepps63 bets 200
+AA-P10D-AA calls 200
+*** RIVER *** [Jh 8c 4d 6h][Kd]
+AA-P10D-AA bets 600
+swepps63 calls 600
+*** SHOW DOWN ***
+swepps63 shows [3d 8s] (One pair : 8)
+AA-P10D-AA shows [7d 8d] (One pair : 8)
+AA-P10D-AA collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [Jh 8c 4d 6h Kd]
+Seat 4: AA-P10D-AA (small blind) showed [7d 8d] and won 2400 with One pair : 8
+Seat 6: swepps63 (big blind) showed [3d 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #656269564014755905-2-1459451524 - Holdem no limit (100/200) - 2016/03/31 19:12:04 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #4 is the button
+Seat 1: Elconkistadr (10000)
+Seat 2: Alylou31 (10000)
+Seat 3: Hasducoeur (10000)
+Seat 4: AA-P10D-AA (11200)
+Seat 5: sabre_laser (10000)
+Seat 6: swepps63 (8800)
+*** ANTE/BLINDS ***
+swepps63 posts small blind 100
+Elconkistadr posts big blind 200
+*** PRE-FLOP *** 
+Alylou31 folds
+Hasducoeur calls 200
+AA-P10D-AA folds
+swepps63 calls 100
+Elconkistadr checks
+*** FLOP *** [4d 6d 9d]
+swepps63 checks
+Elconkistadr checks
+Hasducoeur bets 1000
+swepps63 folds
+Elconkistadr folds
+Hasducoeur collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [4d 6d 9d]
+Seat 3: Hasducoeur won 1600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #656269564014755905-3-1459451591 - Holdem no limit (100/200) - 2016/03/31 19:13:11 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #6 is the button
+Seat 1: Elconkistadr (9800)
+Seat 2: Alylou31 (10000)
+Seat 3: Hasducoeur (10400)
+Seat 4: AA-P10D-AA (11200)
+Seat 5: sabre_laser (10000)
+Seat 6: swepps63 (8600)
+*** ANTE/BLINDS ***
+Elconkistadr posts small blind 100
+Alylou31 posts big blind 200
+Dealt to sabre_laser [3c 8d]
+*** PRE-FLOP *** 
+Hasducoeur calls 200
+AA-P10D-AA folds
+sabre_laser folds
+swepps63 calls 200
+Elconkistadr folds
+Alylou31 checks
+*** FLOP *** [Js Th Ah]
+Alylou31 bets 200
+Hasducoeur calls 200
+swepps63 folds
+*** TURN *** [Js Th Ah][Jh]
+Alylou31 bets 200
+Hasducoeur raises 1500 to 1700
+Alylou31 calls 1500
+*** RIVER *** [Js Th Ah Jh][6c]
+Alylou31 checks
+Hasducoeur checks
+*** SHOW DOWN ***
+Alylou31 shows [8c 9h] (One pair : Jacks)
+Hasducoeur shows [Qh 6d] (Two pairs : Jacks and 6)
+Hasducoeur collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Board: [Js Th Ah Jh 6c]
+Seat 2: Alylou31 (big blind) showed [8c 9h] and lost with One pair : Jacks
+Seat 3: Hasducoeur showed [Qh 6d] and won 4500 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #656269564014755905-4-1459451661 - Holdem no limit (150/300) - 2016/03/31 19:14:21 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #1 is the button
+Seat 1: Elconkistadr (9700)
+Seat 2: Alylou31 (7900)
+Seat 3: Hasducoeur (12800)
+Seat 4: AA-P10D-AA (11200)
+Seat 5: sabre_laser (10000)
+Seat 6: swepps63 (8400)
+*** ANTE/BLINDS ***
+Alylou31 posts small blind 150
+Hasducoeur posts big blind 300
+Dealt to sabre_laser [Ah Ts]
+*** PRE-FLOP *** 
+AA-P10D-AA folds
+sabre_laser raises 300 to 600
+swepps63 folds
+Elconkistadr folds
+Alylou31 calls 450
+Hasducoeur calls 300
+*** FLOP *** [Jd As Ks]
+Alylou31 checks
+Hasducoeur checks
+sabre_laser checks
+*** TURN *** [Jd As Ks][Jh]
+Alylou31 checks
+Hasducoeur checks
+sabre_laser bets 1800
+Alylou31 folds
+Hasducoeur folds
+sabre_laser collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [Jd As Ks Jh]
+Seat 5: sabre_laser won 3600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #656269564014755905-5-1459451729 - Holdem no limit (150/300) - 2016/03/31 19:15:29 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #2 is the button
+Seat 1: Elconkistadr (9700)
+Seat 2: Alylou31 (7300)
+Seat 3: Hasducoeur (12200)
+Seat 4: AA-P10D-AA (11200)
+Seat 5: sabre_laser (11200)
+Seat 6: swepps63 (8400)
+*** ANTE/BLINDS ***
+Hasducoeur posts small blind 150
+AA-P10D-AA posts big blind 300
+Dealt to sabre_laser [6c 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+swepps63 folds
+Elconkistadr raises 300 to 600
+Alylou31 folds
+Hasducoeur raises 300 to 900
+AA-P10D-AA folds
+Elconkistadr calls 300
+*** FLOP *** [3d Qc 4c]
+Hasducoeur checks
+Elconkistadr bets 1050
+Hasducoeur calls 1050
+*** TURN *** [3d Qc 4c][2h]
+Hasducoeur checks
+Elconkistadr bets 2100
+Hasducoeur folds
+Elconkistadr collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [3d Qc 4c 2h]
+Seat 1: Elconkistadr won 6300
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #656269564014755905-6-1459451794 - Holdem no limit (150/300) - 2016/03/31 19:16:34 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (11950)
+Seat 2: Alylou31 (7300)
+Seat 3: Hasducoeur (10250)
+Seat 4: AA-P10D-AA (10900)
+Seat 5: sabre_laser (11200)
+Seat 6: swepps63 (8400)
+*** ANTE/BLINDS ***
+AA-P10D-AA posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [2h 9h]
+*** PRE-FLOP *** 
+swepps63 calls 300
+Elconkistadr folds
+Alylou31 folds
+Hasducoeur raises 9950 to 10250 and is all-in
+AA-P10D-AA raises 650 to 10900 and is all-in
+sabre_laser folds
+swepps63 folds
+*** FLOP *** [Jh 5s As]
+*** TURN *** [Jh 5s As][5h]
+*** RIVER *** [Jh 5s As 5h][9d]
+*** SHOW DOWN ***
+Hasducoeur shows [Ks 6s] (One pair : 5)
+AA-P10D-AA shows [Qh Th] (One pair : 5)
+AA-P10D-AA collected 650 from side pot 1
+Hasducoeur collected 21100 from main pot
+*** SUMMARY ***
+Total pot 21750 | No rake
+Board: [Jh 5s As 5h 9d]
+Seat 3: Hasducoeur (button) showed [Ks 6s] and won 21100 with One pair : 5
+Seat 4: AA-P10D-AA (small blind) showed [Qh Th] and won 650 with One pair : 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #656269564014755905-7-1459451849 - Holdem no limit (150/300) - 2016/03/31 19:17:29 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #4 is the button
+Seat 1: Elconkistadr (11950)
+Seat 2: Alylou31 (7300)
+Seat 3: Hasducoeur (21100)
+Seat 4: AA-P10D-AA (650)
+Seat 5: sabre_laser (10900)
+Seat 6: swepps63 (8100)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 150
+swepps63 posts big blind 300
+Dealt to sabre_laser [2h 9c]
+*** PRE-FLOP *** 
+Elconkistadr folds
+Alylou31 folds
+Hasducoeur folds
+AA-P10D-AA raises 350 to 650 and is all-in
+sabre_laser folds
+swepps63 calls 350
+*** FLOP *** [9h 6c Qs]
+*** TURN *** [9h 6c Qs][Jd]
+*** RIVER *** [9h 6c Qs Jd][Jh]
+*** SHOW DOWN ***
+AA-P10D-AA shows [2d 4d] (One pair : Jacks)
+swepps63 shows [4c 6s] (Two pairs : Jacks and 6)
+swepps63 collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [9h 6c Qs Jd Jh]
+Seat 4: AA-P10D-AA (button) showed [2d 4d] and lost with One pair : Jacks
+Seat 6: swepps63 (big blind) showed [4c 6s] and won 1450 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #656269564014755905-8-1459451896 - Holdem no limit (150/300) - 2016/03/31 19:18:16 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #5 is the button
+Seat 1: Elconkistadr (11950)
+Seat 2: Alylou31 (7300)
+Seat 3: Hasducoeur (21100)
+Seat 5: sabre_laser (10750)
+Seat 6: swepps63 (8900)
+*** ANTE/BLINDS ***
+swepps63 posts small blind 150
+Elconkistadr posts big blind 300
+Dealt to sabre_laser [2h 4h]
+*** PRE-FLOP *** 
+Alylou31 folds
+Hasducoeur raises 300 to 600
+sabre_laser folds
+swepps63 folds
+Elconkistadr raises 1800 to 2400
+Hasducoeur calls 1800
+*** FLOP *** [8d 8s 5s]
+Elconkistadr bets 2100
+Hasducoeur raises 16600 to 18700 and is all-in
+Elconkistadr calls 7450 and is all-in
+*** TURN *** [8d 8s 5s][As]
+*** RIVER *** [8d 8s 5s As][Js]
+*** SHOW DOWN ***
+Elconkistadr shows [Ah Qd] (Two pairs : Aces and 8)
+Hasducoeur shows [9d 9c] (Two pairs : 9 and 8)
+Hasducoeur collected 9150 from side pot 1
+Elconkistadr collected 24050 from main pot
+*** SUMMARY ***
+Total pot 33200 | No rake
+Board: [8d 8s 5s As Js]
+Seat 1: Elconkistadr (big blind) showed [Ah Qd] and won 24050 with Two pairs : Aces and 8
+Seat 3: Hasducoeur showed [9d 9c] and won 9150 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #656269564014755905-9-1459451944 - Holdem no limit (150/300) - 2016/03/31 19:19:04 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #6 is the button
+Seat 1: Elconkistadr (24050)
+Seat 2: Alylou31 (7300)
+Seat 3: Hasducoeur (9150)
+Seat 4: KAK.40 (10000)
+Seat 5: sabre_laser (10750)
+Seat 6: swepps63 (8750)
+*** ANTE/BLINDS ***
+Elconkistadr posts small blind 150
+Alylou31 posts big blind 300
+Dealt to sabre_laser [Qh 8d]
+*** PRE-FLOP *** 
+Hasducoeur folds
+KAK.40 calls 300
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 checks
+*** FLOP *** [Kh 6c 9h]
+Alylou31 checks
+KAK.40 bets 300
+Alylou31 folds
+KAK.40 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Kh 6c 9h]
+Seat 4: KAK.40 won 1050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #656269564014755905-10-1459451970 - Holdem no limit (150/300) - 2016/03/31 19:19:30 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #1 is the button
+Seat 1: Elconkistadr (23900)
+Seat 2: Alylou31 (7000)
+Seat 3: Hasducoeur (9150)
+Seat 4: KAK.40 (10450)
+Seat 5: sabre_laser (10750)
+Seat 6: swepps63 (8750)
+*** ANTE/BLINDS ***
+Alylou31 posts small blind 150
+Hasducoeur posts big blind 300
+Dealt to sabre_laser [3h 5c]
+*** PRE-FLOP *** 
+KAK.40 calls 300
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 calls 150
+Hasducoeur raises 300 to 600
+KAK.40 calls 300
+Alylou31 calls 300
+*** FLOP *** [2c Jh Jd]
+Alylou31 checks
+Hasducoeur bets 300
+KAK.40 folds
+Alylou31 calls 300
+*** TURN *** [2c Jh Jd][Ac]
+Alylou31 checks
+Hasducoeur bets 300
+Alylou31 folds
+Hasducoeur collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [2c Jh Jd Ac]
+Seat 3: Hasducoeur (big blind) won 2700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #656269564014755905-11-1459452032 - Holdem no limit (25/150/300) - 2016/03/31 19:20:32 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #2 is the button
+Seat 1: Elconkistadr (23900)
+Seat 2: Alylou31 (6100)
+Seat 3: Hasducoeur (10650)
+Seat 4: KAK.40 (9850)
+Seat 5: sabre_laser (10750)
+Seat 6: swepps63 (8750)
+*** ANTE/BLINDS ***
+Hasducoeur posts ante 25
+KAK.40 posts ante 25
+Elconkistadr posts ante 25
+Alylou31 posts ante 25
+sabre_laser posts ante 25
+swepps63 posts ante 25
+Hasducoeur posts small blind 150
+KAK.40 posts big blind 300
+Dealt to sabre_laser [Jc 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+swepps63 folds
+Elconkistadr raises 300 to 600
+Alylou31 folds
+Hasducoeur calls 450
+KAK.40 folds
+*** FLOP *** [7h Ad Ah]
+Hasducoeur checks
+Elconkistadr bets 825
+Hasducoeur raises 825 to 1650
+Elconkistadr folds
+Hasducoeur collected 4125 from pot
+*** SUMMARY ***
+Total pot 4125 | No rake
+Board: [7h Ad Ah]
+Seat 3: Hasducoeur (small blind) won 4125
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #656269564014755905-12-1459452074 - Holdem no limit (25/150/300) - 2016/03/31 19:21:14 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (22450)
+Seat 2: Alylou31 (6075)
+Seat 3: Hasducoeur (12500)
+Seat 4: KAK.40 (9525)
+Seat 5: sabre_laser (10725)
+Seat 6: swepps63 (8725)
+*** ANTE/BLINDS ***
+KAK.40 posts ante 25
+sabre_laser posts ante 25
+Elconkistadr posts ante 25
+Alylou31 posts ante 25
+Hasducoeur posts ante 25
+swepps63 posts ante 25
+KAK.40 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Jc 4s]
+*** PRE-FLOP *** 
+swepps63 calls 300
+Elconkistadr folds
+Alylou31 folds
+Hasducoeur raises 1200 to 1500
+KAK.40 folds
+sabre_laser folds
+swepps63 folds
+Hasducoeur collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Seat 3: Hasducoeur (button) won 2400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #656269564014755905-13-1459452104 - Holdem no limit (25/150/300) - 2016/03/31 19:21:44 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #4 is the button
+Seat 1: Elconkistadr (22425)
+Seat 2: Alylou31 (6050)
+Seat 3: Hasducoeur (13375)
+Seat 4: KAK.40 (9350)
+Seat 5: sabre_laser (10400)
+Seat 6: swepps63 (8400)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+swepps63 posts ante 25
+Elconkistadr posts ante 25
+Alylou31 posts ante 25
+Hasducoeur posts ante 25
+KAK.40 posts ante 25
+sabre_laser posts small blind 150
+swepps63 posts big blind 300
+Dealt to sabre_laser [2h Js]
+*** PRE-FLOP *** 
+Elconkistadr folds
+Alylou31 folds
+Hasducoeur calls 300
+KAK.40 calls 300
+sabre_laser calls 150
+swepps63 checks
+*** FLOP *** [8h 8d 4s]
+sabre_laser checks
+swepps63 checks
+Hasducoeur bets 1013
+KAK.40 folds
+sabre_laser folds
+swepps63 calls 1013
+*** TURN *** [8h 8d 4s][2c]
+swepps63 checks
+Hasducoeur bets 2532
+swepps63 raises 2532 to 5064
+Hasducoeur calls 2532
+*** RIVER *** [8h 8d 4s 2c][5d]
+swepps63 bets 1998 and is all-in
+Hasducoeur calls 1998
+*** SHOW DOWN ***
+Hasducoeur shows [Kh 9s] (One pair : 8)
+swepps63 shows [8c 7d] (Trips of 8)
+swepps63 collected 17500 from pot
+*** SUMMARY ***
+Total pot 17500 | No rake
+Board: [8h 8d 4s 2c 5d]
+Seat 3: Hasducoeur showed [Kh 9s] and lost with One pair : 8
+Seat 6: swepps63 (big blind) showed [8c 7d] and won 17500 with Trips of 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #656269564014755905-14-1459452208 - Holdem no limit (25/150/300) - 2016/03/31 19:23:28 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #5 is the button
+Seat 1: Elconkistadr (22400)
+Seat 2: Alylou31 (6025)
+Seat 3: Hasducoeur (4975)
+Seat 4: KAK.40 (9025)
+Seat 5: sabre_laser (10075)
+Seat 6: swepps63 (17500)
+*** ANTE/BLINDS ***
+swepps63 posts ante 25
+Elconkistadr posts ante 25
+Alylou31 posts ante 25
+Hasducoeur posts ante 25
+KAK.40 posts ante 25
+sabre_laser posts ante 25
+swepps63 posts small blind 150
+Elconkistadr posts big blind 300
+Dealt to sabre_laser [Qs 9h]
+*** PRE-FLOP *** 
+Alylou31 calls 300
+Hasducoeur raises 4650 to 4950 and is all-in
+KAK.40 folds
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 calls 4650
+*** FLOP *** [Kh Th 7h]
+*** TURN *** [Kh Th 7h][Qh]
+*** RIVER *** [Kh Th 7h Qh][Kd]
+*** SHOW DOWN ***
+Hasducoeur shows [Qd 5s] (Two pairs : Kings and Queens)
+Alylou31 shows [2h 2d] (Flush King high)
+Alylou31 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Board: [Kh Th 7h Qh Kd]
+Seat 2: Alylou31 showed [2h 2d] and won 10500 with Flush King high
+Seat 3: Hasducoeur showed [Qd 5s] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #656269564014755905-15-1459452243 - Holdem no limit (25/150/300) - 2016/03/31 19:24:03 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #6 is the button
+Seat 1: Elconkistadr (22075)
+Seat 2: Alylou31 (11550)
+Seat 4: KAK.40 (9000)
+Seat 5: sabre_laser (10050)
+Seat 6: swepps63 (17325)
+*** ANTE/BLINDS ***
+Elconkistadr posts ante 25
+Alylou31 posts ante 25
+KAK.40 posts ante 25
+sabre_laser posts ante 25
+swepps63 posts ante 25
+Elconkistadr posts small blind 150
+Alylou31 posts big blind 300
+Dealt to sabre_laser [Ks Qd]
+*** PRE-FLOP *** 
+KAK.40 folds
+sabre_laser raises 300 to 600
+swepps63 folds
+Elconkistadr folds
+Alylou31 calls 300
+*** FLOP *** [8d 8s 2c]
+Alylou31 checks
+sabre_laser bets 600
+Alylou31 calls 600
+*** TURN *** [8d 8s 2c][4s]
+Alylou31 checks
+sabre_laser checks
+*** RIVER *** [8d 8s 2c 4s][8h]
+Alylou31 checks
+sabre_laser bets 450
+Alylou31 folds
+sabre_laser collected 3125 from pot
+*** SUMMARY ***
+Total pot 3125 | No rake
+Board: [8d 8s 2c 4s 8h]
+Seat 5: sabre_laser won 3125
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #656269564014755905-16-1459452332 - Holdem no limit (25/150/300) - 2016/03/31 19:25:32 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #1 is the button
+Seat 1: Elconkistadr (21900)
+Seat 2: Alylou31 (10325)
+Seat 3: Fiza89 (9975)
+Seat 4: KAK.40 (8975)
+Seat 5: sabre_laser (11500)
+Seat 6: swepps63 (17300)
+*** ANTE/BLINDS ***
+Alylou31 posts ante 25
+Fiza89 posts ante 25
+Elconkistadr posts ante 25
+KAK.40 posts ante 25
+sabre_laser posts ante 25
+swepps63 posts ante 25
+Alylou31 posts small blind 150
+Fiza89 posts big blind 300
+Dealt to sabre_laser [9c 3s]
+*** PRE-FLOP *** 
+KAK.40 folds
+sabre_laser folds
+swepps63 calls 300
+Elconkistadr folds
+Alylou31 calls 150
+Fiza89 checks
+*** FLOP *** [7d 5c Ah]
+Alylou31 checks
+Fiza89 checks
+swepps63 bets 300
+Alylou31 folds
+Fiza89 calls 300
+*** TURN *** [7d 5c Ah][Jd]
+Fiza89 checks
+swepps63 bets 300
+Fiza89 calls 300
+*** RIVER *** [7d 5c Ah Jd][Qs]
+Fiza89 checks
+swepps63 checks
+*** SHOW DOWN ***
+swepps63 shows [5h 3h] (One pair : 5)
+Fiza89 shows [6d 7s] (One pair : 7)
+Fiza89 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [7d 5c Ah Jd Qs]
+Seat 3: Fiza89 (big blind) showed [6d 7s] and won 2250 with One pair : 7
+Seat 6: swepps63 showed [5h 3h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-17-1459452383 - Holdem no limit (30/200/400) - 2016/03/31 19:26:23 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #2 is the button
+Seat 1: Elconkistadr (21875)
+Seat 2: Alylou31 (10000)
+Seat 3: Fiza89 (11300)
+Seat 4: KAK.40 (8950)
+Seat 5: sabre_laser (11475)
+Seat 6: swepps63 (16375)
+*** ANTE/BLINDS ***
+Fiza89 posts ante 30
+KAK.40 posts ante 30
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+sabre_laser posts ante 30
+swepps63 posts ante 30
+Fiza89 posts small blind 200
+KAK.40 posts big blind 400
+Dealt to sabre_laser [Td 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 4: KAK.40 (big blind) won 780
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-18-1459452407 - Holdem no limit (30/200/400) - 2016/03/31 19:26:47 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (21845)
+Seat 2: Alylou31 (9970)
+Seat 3: Fiza89 (11070)
+Seat 4: KAK.40 (9300)
+Seat 5: sabre_laser (11445)
+Seat 6: swepps63 (16345)
+*** ANTE/BLINDS ***
+KAK.40 posts ante 30
+sabre_laser posts ante 30
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+Fiza89 posts ante 30
+swepps63 posts ante 30
+KAK.40 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [6d 5c]
+*** PRE-FLOP *** 
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 folds
+sabre_laser collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 5: sabre_laser (big blind) won 780
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-19-1459452429 - Holdem no limit (30/200/400) - 2016/03/31 19:27:09 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #4 is the button
+Seat 1: Elconkistadr (21815)
+Seat 2: Alylou31 (9940)
+Seat 3: Fiza89 (11040)
+Seat 4: KAK.40 (9070)
+Seat 5: sabre_laser (11795)
+Seat 6: swepps63 (16315)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 30
+swepps63 posts ante 30
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+Fiza89 posts ante 30
+KAK.40 posts ante 30
+sabre_laser posts small blind 200
+swepps63 posts big blind 400
+Dealt to sabre_laser [Jh 8c]
+*** PRE-FLOP *** 
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 folds
+sabre_laser calls 200
+swepps63 raises 800 to 1200
+sabre_laser calls 800
+*** FLOP *** [2h Th Tc]
+sabre_laser checks
+swepps63 bets 1800
+sabre_laser folds
+swepps63 collected 4380 from pot
+*** SUMMARY ***
+Total pot 4380 | No rake
+Board: [2h Th Tc]
+Seat 6: swepps63 (big blind) won 4380
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-20-1459452500 - Holdem no limit (30/200/400) - 2016/03/31 19:28:20 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #5 is the button
+Seat 1: Elconkistadr (21785)
+Seat 2: Alylou31 (9910)
+Seat 3: Fiza89 (11010)
+Seat 4: KAK.40 (9040)
+Seat 5: sabre_laser (10565)
+Seat 6: swepps63 (17665)
+*** ANTE/BLINDS ***
+swepps63 posts ante 30
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+Fiza89 posts ante 30
+KAK.40 posts ante 30
+sabre_laser posts ante 30
+swepps63 posts small blind 200
+Elconkistadr posts big blind 400
+Dealt to sabre_laser [Kc 8c]
+*** PRE-FLOP *** 
+Alylou31 folds
+Fiza89 raises 400 to 800
+KAK.40 folds
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Fiza89 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 3: Fiza89 won 1580
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-21-1459452529 - Holdem no limit (30/200/400) - 2016/03/31 19:28:49 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #6 is the button
+Seat 1: Elconkistadr (21355)
+Seat 2: Alylou31 (9880)
+Seat 3: Fiza89 (11760)
+Seat 4: KAK.40 (9010)
+Seat 5: sabre_laser (10535)
+Seat 6: swepps63 (17435)
+*** ANTE/BLINDS ***
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+Fiza89 posts ante 30
+KAK.40 posts ante 30
+sabre_laser posts ante 30
+swepps63 posts ante 30
+Elconkistadr posts small blind 200
+Alylou31 posts big blind 400
+Dealt to sabre_laser [8d Jc]
+*** PRE-FLOP *** 
+Fiza89 folds
+KAK.40 calls 400
+sabre_laser folds
+swepps63 calls 400
+Elconkistadr calls 200
+Alylou31 raises 9450 to 9850 and is all-in
+KAK.40 folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 collected 11230 from pot
+*** SUMMARY ***
+Total pot 11230 | No rake
+Seat 2: Alylou31 (big blind) won 11230
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-22-1459452569 - Holdem no limit (30/200/400) - 2016/03/31 19:29:29 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #1 is the button
+Seat 1: Elconkistadr (20925)
+Seat 2: Alylou31 (11230)
+Seat 3: Fiza89 (11730)
+Seat 4: KAK.40 (8580)
+Seat 5: sabre_laser (10505)
+Seat 6: swepps63 (17005)
+*** ANTE/BLINDS ***
+Alylou31 posts ante 30
+Fiza89 posts ante 30
+Elconkistadr posts ante 30
+KAK.40 posts ante 30
+sabre_laser posts ante 30
+swepps63 posts ante 30
+Alylou31 posts small blind 200
+Fiza89 posts big blind 400
+Dealt to sabre_laser [7d 8h]
+*** PRE-FLOP *** 
+KAK.40 calls 400
+sabre_laser folds
+swepps63 calls 400
+Elconkistadr folds
+Alylou31 folds
+Fiza89 checks
+*** FLOP *** [Td Qc 3d]
+Fiza89 checks
+KAK.40 bets 1200
+swepps63 calls 1200
+Fiza89 folds
+*** TURN *** [Td Qc 3d][6d]
+KAK.40 bets 1000
+swepps63 calls 1000
+*** RIVER *** [Td Qc 3d 6d][6s]
+KAK.40 bets 1200
+swepps63 calls 1200
+*** SHOW DOWN ***
+KAK.40 shows [Qs Jc] (Two pairs : Queens and 6)
+swepps63 shows [Qd Jh] (Two pairs : Queens and 6)
+swepps63 collected 4190 from pot
+KAK.40 collected 4190 from pot
+*** SUMMARY ***
+Total pot 8380 | No rake
+Board: [Td Qc 3d 6d 6s]
+Seat 4: KAK.40 showed [Qs Jc] and won 4190 with Two pairs : Queens and 6
+Seat 6: swepps63 showed [Qd Jh] and won 4190 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-23-1459452632 - Holdem no limit (30/200/400) - 2016/03/31 19:30:32 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #2 is the button
+Seat 1: Elconkistadr (20895)
+Seat 2: Alylou31 (11000)
+Seat 3: Fiza89 (11300)
+Seat 4: KAK.40 (8940)
+Seat 5: sabre_laser (10475)
+Seat 6: swepps63 (17365)
+*** ANTE/BLINDS ***
+Fiza89 posts ante 30
+KAK.40 posts ante 30
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+sabre_laser posts ante 30
+swepps63 posts ante 30
+Fiza89 posts small blind 200
+KAK.40 posts big blind 400
+Dealt to sabre_laser [8s 7h]
+*** PRE-FLOP *** 
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 raises 400 to 800
+KAK.40 folds
+Fiza89 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Seat 3: Fiza89 (small blind) won 1380
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-24-1459452652 - Holdem no limit (30/200/400) - 2016/03/31 19:30:52 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (20865)
+Seat 2: Alylou31 (10970)
+Seat 3: Fiza89 (11850)
+Seat 4: KAK.40 (8510)
+Seat 5: sabre_laser (10445)
+Seat 6: swepps63 (17335)
+*** ANTE/BLINDS ***
+KAK.40 posts ante 30
+sabre_laser posts ante 30
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+Fiza89 posts ante 30
+swepps63 posts ante 30
+KAK.40 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [6d Kd]
+*** PRE-FLOP *** 
+swepps63 raises 800 to 1200
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 folds
+sabre_laser folds
+swepps63 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Seat 6: swepps63 won 1980
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #656269564014755905-25-1459452694 - Holdem no limit (30/200/400) - 2016/03/31 19:31:34 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #4 is the button
+Seat 1: Elconkistadr (20835)
+Seat 2: Alylou31 (10940)
+Seat 3: Fiza89 (11820)
+Seat 4: KAK.40 (8280)
+Seat 5: sabre_laser (10015)
+Seat 6: swepps63 (18085)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 30
+swepps63 posts ante 30
+Elconkistadr posts ante 30
+Alylou31 posts ante 30
+Fiza89 posts ante 30
+KAK.40 posts ante 30
+sabre_laser posts small blind 200
+swepps63 posts big blind 400
+Dealt to sabre_laser [7h 6s]
+*** PRE-FLOP *** 
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 calls 400
+sabre_laser folds
+swepps63 checks
+*** FLOP *** [8s Qc 3c]
+swepps63 checks
+KAK.40 checks
+*** TURN *** [8s Qc 3c][8c]
+swepps63 checks
+KAK.40 checks
+*** RIVER *** [8s Qc 3c 8c][Jh]
+swepps63 bets 400
+KAK.40 folds
+swepps63 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Board: [8s Qc 3c 8c Jh]
+Seat 6: swepps63 (big blind) won 1580
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-26-1459452741 - Holdem no limit (40/250/500) - 2016/03/31 19:32:21 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #5 is the button
+Seat 1: Elconkistadr (20805)
+Seat 2: Alylou31 (10910)
+Seat 3: Fiza89 (11790)
+Seat 4: KAK.40 (7850)
+Seat 5: sabre_laser (9785)
+Seat 6: swepps63 (18835)
+*** ANTE/BLINDS ***
+swepps63 posts ante 40
+Elconkistadr posts ante 40
+Alylou31 posts ante 40
+Fiza89 posts ante 40
+KAK.40 posts ante 40
+sabre_laser posts ante 40
+swepps63 posts small blind 250
+Elconkistadr posts big blind 500
+Dealt to sabre_laser [7h Td]
+*** PRE-FLOP *** 
+Alylou31 raises 500 to 1000
+Fiza89 folds
+KAK.40 folds
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Seat 2: Alylou31 won 1990
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-27-1459452767 - Holdem no limit (40/250/500) - 2016/03/31 19:32:47 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #6 is the button
+Seat 1: Elconkistadr (20265)
+Seat 2: Alylou31 (11860)
+Seat 3: Fiza89 (11750)
+Seat 4: KAK.40 (7810)
+Seat 5: sabre_laser (9745)
+Seat 6: swepps63 (18545)
+*** ANTE/BLINDS ***
+Elconkistadr posts ante 40
+Alylou31 posts ante 40
+Fiza89 posts ante 40
+KAK.40 posts ante 40
+sabre_laser posts ante 40
+swepps63 posts ante 40
+Elconkistadr posts small blind 250
+Alylou31 posts big blind 500
+Dealt to sabre_laser [6d 9s]
+*** PRE-FLOP *** 
+Fiza89 raises 500 to 1000
+KAK.40 folds
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Seat 3: Fiza89 won 1990
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-28-1459452798 - Holdem no limit (40/250/500) - 2016/03/31 19:33:18 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #1 is the button
+Seat 1: Elconkistadr (19975)
+Seat 2: Alylou31 (11320)
+Seat 3: Fiza89 (12700)
+Seat 4: KAK.40 (7770)
+Seat 5: sabre_laser (9705)
+Seat 6: swepps63 (18505)
+*** ANTE/BLINDS ***
+Alylou31 posts ante 40
+Fiza89 posts ante 40
+Elconkistadr posts ante 40
+KAK.40 posts ante 40
+sabre_laser posts ante 40
+swepps63 posts ante 40
+Alylou31 posts small blind 250
+Fiza89 posts big blind 500
+Dealt to sabre_laser [Qs 8s]
+*** PRE-FLOP *** 
+KAK.40 folds
+sabre_laser folds
+swepps63 calls 500
+Elconkistadr folds
+Alylou31 calls 250
+Fiza89 checks
+*** FLOP *** [Ad 2h Kd]
+Alylou31 checks
+Fiza89 checks
+swepps63 bets 500
+Alylou31 calls 500
+Fiza89 calls 500
+*** TURN *** [Ad 2h Kd][2c]
+Alylou31 checks
+Fiza89 checks
+swepps63 bets 500
+Alylou31 calls 500
+Fiza89 calls 500
+*** RIVER *** [Ad 2h Kd 2c][6h]
+Alylou31 checks
+Fiza89 checks
+swepps63 checks
+*** SHOW DOWN ***
+Alylou31 shows [5d 9d] (One pair : 2)
+Fiza89 shows [Tc Kh] (Two pairs : Kings and 2)
+swepps63 shows [5h Ac] (Two pairs : Aces and 2)
+swepps63 collected 4740 from pot
+*** SUMMARY ***
+Total pot 4740 | No rake
+Board: [Ad 2h Kd 2c 6h]
+Seat 2: Alylou31 (small blind) showed [5d 9d] and lost with One pair : 2
+Seat 3: Fiza89 (big blind) showed [Tc Kh] and lost with Two pairs : Kings and 2
+Seat 6: swepps63 showed [5h Ac] and won 4740 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-29-1459452865 - Holdem no limit (40/250/500) - 2016/03/31 19:34:25 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #2 is the button
+Seat 1: Elconkistadr (19935)
+Seat 2: Alylou31 (9780)
+Seat 3: Fiza89 (11160)
+Seat 4: KAK.40 (7730)
+Seat 5: sabre_laser (9665)
+Seat 6: swepps63 (21705)
+*** ANTE/BLINDS ***
+Fiza89 posts ante 40
+KAK.40 posts ante 40
+Elconkistadr posts ante 40
+Alylou31 posts ante 40
+sabre_laser posts ante 40
+swepps63 posts ante 40
+Fiza89 posts small blind 250
+KAK.40 posts big blind 500
+Dealt to sabre_laser [Qh Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 4: KAK.40 (big blind) won 990
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-30-1459452881 - Holdem no limit (40/250/500) - 2016/03/31 19:34:41 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (19895)
+Seat 2: Alylou31 (9740)
+Seat 3: Fiza89 (10870)
+Seat 4: KAK.40 (8180)
+Seat 5: sabre_laser (9625)
+Seat 6: swepps63 (21665)
+*** ANTE/BLINDS ***
+KAK.40 posts ante 40
+sabre_laser posts ante 40
+Elconkistadr posts ante 40
+Alylou31 posts ante 40
+Fiza89 posts ante 40
+swepps63 posts ante 40
+KAK.40 posts small blind 250
+sabre_laser posts big blind 500
+Dealt to sabre_laser [6d 7d]
+*** PRE-FLOP *** 
+swepps63 folds
+Elconkistadr folds
+Alylou31 calls 500
+Fiza89 folds
+KAK.40 folds
+sabre_laser checks
+*** FLOP *** [Ks Jd 3s]
+sabre_laser checks
+Alylou31 bets 500
+sabre_laser folds
+Alylou31 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Board: [Ks Jd 3s]
+Seat 2: Alylou31 won 1990
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-31-1459452919 - Holdem no limit (40/250/500) - 2016/03/31 19:35:19 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #4 is the button
+Seat 1: Elconkistadr (19855)
+Seat 2: Alylou31 (10690)
+Seat 3: Fiza89 (10830)
+Seat 4: KAK.40 (7890)
+Seat 5: sabre_laser (9085)
+Seat 6: swepps63 (21625)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 40
+swepps63 posts ante 40
+Elconkistadr posts ante 40
+Alylou31 posts ante 40
+Fiza89 posts ante 40
+KAK.40 posts ante 40
+sabre_laser posts small blind 250
+swepps63 posts big blind 500
+Dealt to sabre_laser [Jh 2d]
+*** PRE-FLOP *** 
+Elconkistadr folds
+Alylou31 raises 500 to 1000
+Fiza89 folds
+KAK.40 calls 1000
+sabre_laser folds
+swepps63 calls 500
+*** FLOP *** [4h 3c Tc]
+swepps63 checks
+Alylou31 checks
+KAK.40 checks
+*** TURN *** [4h 3c Tc][6d]
+swepps63 checks
+Alylou31 checks
+KAK.40 checks
+*** RIVER *** [4h 3c Tc 6d][4s]
+swepps63 checks
+Alylou31 checks
+KAK.40 checks
+*** SHOW DOWN ***
+KAK.40 shows [9c Jc] (One pair : 4)
+swepps63 shows [Ah Qd] (One pair : 4)
+Alylou31 shows [Kh Ad] (One pair : 4)
+Alylou31 collected 3490 from pot
+*** SUMMARY ***
+Total pot 3490 | No rake
+Board: [4h 3c Tc 6d 4s]
+Seat 2: Alylou31 showed [Kh Ad] and won 3490 with One pair : 4
+Seat 4: KAK.40 (button) showed [9c Jc] and lost with One pair : 4
+Seat 6: swepps63 (big blind) showed [Ah Qd] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-32-1459452975 - Holdem no limit (40/250/500) - 2016/03/31 19:36:15 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #5 is the button
+Seat 1: Elconkistadr (19815)
+Seat 2: Alylou31 (13140)
+Seat 3: Fiza89 (10790)
+Seat 4: KAK.40 (6850)
+Seat 5: sabre_laser (8795)
+Seat 6: swepps63 (20585)
+*** ANTE/BLINDS ***
+swepps63 posts ante 40
+Elconkistadr posts ante 40
+Alylou31 posts ante 40
+Fiza89 posts ante 40
+KAK.40 posts ante 40
+sabre_laser posts ante 40
+swepps63 posts small blind 250
+Elconkistadr posts big blind 500
+Dealt to sabre_laser [Qs 4c]
+*** PRE-FLOP *** 
+Alylou31 folds
+Fiza89 raises 500 to 1000
+KAK.40 calls 1000
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+*** FLOP *** [Jh Tc 4h]
+Fiza89 checks
+KAK.40 bets 500
+Fiza89 raises 1250 to 1750
+KAK.40 calls 1250
+*** TURN *** [Jh Tc 4h][6h]
+Fiza89 checks
+KAK.40 bets 1250
+Fiza89 folds
+KAK.40 collected 7740 from pot
+*** SUMMARY ***
+Total pot 7740 | No rake
+Board: [Jh Tc 4h 6h]
+Seat 4: KAK.40 won 7740
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #656269564014755905-33-1459453034 - Holdem no limit (40/250/500) - 2016/03/31 19:37:14 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #6 is the button
+Seat 1: Elconkistadr (19275)
+Seat 2: Alylou31 (13100)
+Seat 3: Fiza89 (8000)
+Seat 4: KAK.40 (10550)
+Seat 5: sabre_laser (8755)
+Seat 6: swepps63 (20295)
+*** ANTE/BLINDS ***
+Elconkistadr posts ante 40
+Alylou31 posts ante 40
+Fiza89 posts ante 40
+KAK.40 posts ante 40
+sabre_laser posts ante 40
+swepps63 posts ante 40
+Elconkistadr posts small blind 250
+Alylou31 posts big blind 500
+Dealt to sabre_laser [Qc Jh]
+*** PRE-FLOP *** 
+Fiza89 folds
+KAK.40 folds
+sabre_laser raises 500 to 1000
+swepps63 folds
+Elconkistadr folds
+Alylou31 calls 500
+*** FLOP *** [7d 3s 9h]
+Alylou31 checks
+sabre_laser bets 1245
+Alylou31 folds
+sabre_laser collected 3735 from pot
+*** SUMMARY ***
+Total pot 3735 | No rake
+Board: [7d 3s 9h]
+Seat 5: sabre_laser won 3735
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-34-1459453089 - Holdem no limit (60/300/600) - 2016/03/31 19:38:09 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #1 is the button
+Seat 1: Elconkistadr (18985)
+Seat 2: Alylou31 (12060)
+Seat 3: Fiza89 (7960)
+Seat 4: KAK.40 (10510)
+Seat 5: sabre_laser (10205)
+Seat 6: swepps63 (20255)
+*** ANTE/BLINDS ***
+Alylou31 posts ante 60
+Fiza89 posts ante 60
+Elconkistadr posts ante 60
+KAK.40 posts ante 60
+sabre_laser posts ante 60
+swepps63 posts ante 60
+Alylou31 posts small blind 300
+Fiza89 posts big blind 600
+Dealt to sabre_laser [Ah Js]
+*** PRE-FLOP *** 
+KAK.40 folds
+sabre_laser raises 600 to 1200
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+sabre_laser collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Seat 5: sabre_laser won 2460
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-35-1459453122 - Holdem no limit (60/300/600) - 2016/03/31 19:38:42 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #2 is the button
+Seat 1: Elconkistadr (18925)
+Seat 2: Alylou31 (11700)
+Seat 3: Fiza89 (7300)
+Seat 4: KAK.40 (10450)
+Seat 5: sabre_laser (11405)
+Seat 6: swepps63 (20195)
+*** ANTE/BLINDS ***
+Fiza89 posts ante 60
+KAK.40 posts ante 60
+Elconkistadr posts ante 60
+Alylou31 posts ante 60
+sabre_laser posts ante 60
+swepps63 posts ante 60
+Fiza89 posts small blind 300
+KAK.40 posts big blind 600
+Dealt to sabre_laser [2c Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 4: KAK.40 (big blind) won 1260
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-36-1459453159 - Holdem no limit (60/300/600) - 2016/03/31 19:39:19 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (18865)
+Seat 2: Alylou31 (11640)
+Seat 3: Fiza89 (6940)
+Seat 4: KAK.40 (11050)
+Seat 5: sabre_laser (11345)
+Seat 6: swepps63 (20135)
+*** ANTE/BLINDS ***
+KAK.40 posts ante 60
+sabre_laser posts ante 60
+Elconkistadr posts ante 60
+Alylou31 posts ante 60
+Fiza89 posts ante 60
+swepps63 posts ante 60
+KAK.40 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [9c 7d]
+*** PRE-FLOP *** 
+swepps63 folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 folds
+sabre_laser collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 5: sabre_laser (big blind) won 1260
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-37-1459453175 - Holdem no limit (60/300/600) - 2016/03/31 19:39:35 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #4 is the button
+Seat 1: Elconkistadr (18805)
+Seat 2: Alylou31 (11580)
+Seat 3: Fiza89 (6880)
+Seat 4: KAK.40 (10690)
+Seat 5: sabre_laser (11945)
+Seat 6: swepps63 (20075)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 60
+swepps63 posts ante 60
+Elconkistadr posts ante 60
+Alylou31 posts ante 60
+Fiza89 posts ante 60
+KAK.40 posts ante 60
+sabre_laser posts small blind 300
+swepps63 posts big blind 600
+Dealt to sabre_laser [As 3s]
+*** PRE-FLOP *** 
+Elconkistadr folds
+Alylou31 folds
+Fiza89 raises 600 to 1200
+KAK.40 folds
+sabre_laser folds
+swepps63 calls 600
+*** FLOP *** [7h Ad 4s]
+swepps63 checks
+Fiza89 checks
+*** TURN *** [7h Ad 4s][Qc]
+swepps63 checks
+Fiza89 checks
+*** RIVER *** [7h Ad 4s Qc][5h]
+swepps63 checks
+Fiza89 bets 2400
+swepps63 folds
+Fiza89 collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | No rake
+Board: [7h Ad 4s Qc 5h]
+Seat 3: Fiza89 won 5460
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-38-1459453225 - Holdem no limit (60/300/600) - 2016/03/31 19:40:25 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #5 is the button
+Seat 1: Elconkistadr (18745)
+Seat 2: Alylou31 (11520)
+Seat 3: Fiza89 (8680)
+Seat 4: KAK.40 (10630)
+Seat 5: sabre_laser (11585)
+Seat 6: swepps63 (18815)
+*** ANTE/BLINDS ***
+swepps63 posts ante 60
+Elconkistadr posts ante 60
+Alylou31 posts ante 60
+Fiza89 posts ante 60
+KAK.40 posts ante 60
+sabre_laser posts ante 60
+swepps63 posts small blind 300
+Elconkistadr posts big blind 600
+Dealt to sabre_laser [3d 8s]
+*** PRE-FLOP *** 
+Alylou31 folds
+Fiza89 folds
+KAK.40 calls 600
+sabre_laser folds
+swepps63 calls 300
+Elconkistadr checks
+*** FLOP *** [6h 4c 7h]
+swepps63 bets 900
+Elconkistadr calls 900
+KAK.40 folds
+*** TURN *** [6h 4c 7h][2h]
+swepps63 checks
+Elconkistadr checks
+*** RIVER *** [6h 4c 7h 2h][9c]
+swepps63 checks
+Elconkistadr bets 1630
+swepps63 calls 1630
+*** SHOW DOWN ***
+swepps63 shows [7c Tc] (One pair : 7)
+Elconkistadr shows [9h 7d] (Two pairs : 9 and 7)
+Elconkistadr collected 7220 from pot
+*** SUMMARY ***
+Total pot 7220 | No rake
+Board: [6h 4c 7h 2h 9c]
+Seat 1: Elconkistadr (big blind) showed [9h 7d] and won 7220 with Two pairs : 9 and 7
+Seat 6: swepps63 (small blind) showed [7c Tc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-39-1459453298 - Holdem no limit (60/300/600) - 2016/03/31 19:41:38 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #6 is the button
+Seat 1: Elconkistadr (22775)
+Seat 2: Alylou31 (11460)
+Seat 3: Fiza89 (8620)
+Seat 4: KAK.40 (9970)
+Seat 5: sabre_laser (11525)
+Seat 6: swepps63 (15625)
+*** ANTE/BLINDS ***
+Elconkistadr posts ante 60
+Alylou31 posts ante 60
+Fiza89 posts ante 60
+KAK.40 posts ante 60
+sabre_laser posts ante 60
+swepps63 posts ante 60
+Elconkistadr posts small blind 300
+Alylou31 posts big blind 600
+Dealt to sabre_laser [Td 5s]
+*** PRE-FLOP *** 
+Fiza89 folds
+KAK.40 folds
+sabre_laser folds
+swepps63 raises 1200 to 1800
+Elconkistadr raises 2250 to 4050
+Alylou31 folds
+swepps63 calls 2250
+*** FLOP *** [9c 6c 3s]
+Elconkistadr bets 4530
+swepps63 raises 6985 to 11515 and is all-in
+Elconkistadr calls 6985
+*** TURN *** [9c 6c 3s][9h]
+*** RIVER *** [9c 6c 3s 9h][4c]
+*** SHOW DOWN ***
+swepps63 shows [8c 8h] (Two pairs : 9 and 8)
+Elconkistadr shows [Qd Qh] (Two pairs : Queens and 9)
+Elconkistadr collected 32090 from pot
+*** SUMMARY ***
+Total pot 32090 | No rake
+Board: [9c 6c 3s 9h 4c]
+Seat 1: Elconkistadr (small blind) showed [Qd Qh] and won 32090 with Two pairs : Queens and 9
+Seat 6: swepps63 (button) showed [8c 8h] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-40-1459453356 - Holdem no limit (60/300/600) - 2016/03/31 19:42:36 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #1 is the button
+Seat 1: Elconkistadr (39240)
+Seat 2: Alylou31 (10800)
+Seat 3: Fiza89 (8560)
+Seat 4: KAK.40 (9910)
+Seat 5: sabre_laser (11465)
+*** ANTE/BLINDS ***
+Alylou31 posts ante 60
+Fiza89 posts ante 60
+Elconkistadr posts ante 60
+KAK.40 posts ante 60
+sabre_laser posts ante 60
+Alylou31 posts small blind 300
+Fiza89 posts big blind 600
+Dealt to sabre_laser [Jh Td]
+*** PRE-FLOP *** 
+KAK.40 calls 600
+sabre_laser folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 checks
+*** FLOP *** [3s 8c 9c]
+Fiza89 checks
+KAK.40 checks
+*** TURN *** [3s 8c 9c][8s]
+Fiza89 checks
+KAK.40 checks
+*** RIVER *** [3s 8c 9c 8s][7c]
+Fiza89 checks
+KAK.40 checks
+*** SHOW DOWN ***
+KAK.40 shows [Th 4h] (One pair : 8)
+Fiza89 shows [7d Qs] (Two pairs : 8 and 7)
+Fiza89 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [3s 8c 9c 8s 7c]
+Seat 3: Fiza89 (big blind) showed [7d Qs] and won 1800 with Two pairs : 8 and 7
+Seat 4: KAK.40 showed [Th 4h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #656269564014755905-41-1459453415 - Holdem no limit (60/300/600) - 2016/03/31 19:43:35 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #2 is the button
+Seat 1: Elconkistadr (39180)
+Seat 2: Alylou31 (10440)
+Seat 3: Fiza89 (9700)
+Seat 4: KAK.40 (9250)
+Seat 5: sabre_laser (11405)
+Seat 6: IpodClassic (11860)
+*** ANTE/BLINDS ***
+Fiza89 posts ante 60
+KAK.40 posts ante 60
+Elconkistadr posts ante 60
+Alylou31 posts ante 60
+sabre_laser posts ante 60
+IpodClassic posts ante 60
+Fiza89 posts small blind 300
+KAK.40 posts big blind 600
+Dealt to sabre_laser [8d Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+IpodClassic folds
+Elconkistadr folds
+Alylou31 folds
+Fiza89 raises 600 to 1200
+KAK.40 raises 1800 to 3000
+Fiza89 folds
+KAK.40 collected 4560 from pot
+*** SUMMARY ***
+Total pot 4560 | No rake
+Seat 4: KAK.40 (big blind) won 4560
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #656269564014755905-42-1459453447 - Holdem no limit (75/400/800) - 2016/03/31 19:44:07 UTC
+Table: 'MiniRoll(152799665)#064' 6-max (real money) Seat #3 is the button
+Seat 1: Elconkistadr (39120)
+Seat 2: Alylou31 (10380)
+Seat 3: Fiza89 (8440)
+Seat 4: KAK.40 (10750)
+Seat 5: sabre_laser (11345)
+Seat 6: IpodClassic (11800)
+*** ANTE/BLINDS ***
+KAK.40 posts ante 75
+sabre_laser posts ante 75
+Elconkistadr posts ante 75
+Alylou31 posts ante 75
+Fiza89 posts ante 75
+IpodClassic posts ante 75
+KAK.40 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [8s 8c]
+*** PRE-FLOP *** 
+IpodClassic raises 1200 to 2000
+Elconkistadr folds
+Alylou31 folds
+Fiza89 folds
+KAK.40 folds
+sabre_laser raises 2400 to 4400
+IpodClassic raises 7325 to 11725 and is all-in
+sabre_laser calls 6870 and is all-in
+*** FLOP *** [4s 6s Qd]
+*** TURN *** [4s 6s Qd][5d]
+*** RIVER *** [4s 6s Qd 5d][Qh]
+*** SHOW DOWN ***
+sabre_laser shows [8s 8c] (Two pairs : Queens and 8)
+IpodClassic shows [Qc Ah] (Trips of Queens)
+IpodClassic collected 23845 from pot
+*** SUMMARY ***
+Total pot 23845 | No rake
+Board: [4s 6s Qd 5d Qh]
+Seat 5: sabre_laser (big blind) showed [8s 8c] and lost with Two pairs : Queens and 8
+Seat 6: IpodClassic showed [Qc Ah] and won 23845 with Trips of Queens
+
+

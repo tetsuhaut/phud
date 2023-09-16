@@ -1,0 +1,1307 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558764477726588929-1-1441746069 - Holdem no limit (10/20) - 2015/09/08 21:01:09 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #2 is the button
+Seat 1: xunes (1500)
+Seat 2: syBBille (1500)
+Seat 3: __XXV__ (1500)
+Seat 4: willbonney81 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: stibriana (1500)
+*** ANTE/BLINDS ***
+__XXV__ posts small blind 10
+willbonney81 posts big blind 20
+Dealt to sabre_laser [3h Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 4: willbonney81 (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558764477726588929-2-1441746098 - Holdem no limit (10/20) - 2015/09/08 21:01:38 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: xunes (1500)
+Seat 2: syBBille (1500)
+Seat 3: __XXV__ (1490)
+Seat 4: willbonney81 (1510)
+Seat 5: sabre_laser (1500)
+Seat 6: stibriana (1500)
+*** ANTE/BLINDS ***
+willbonney81 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [6h 6d]
+*** PRE-FLOP *** 
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 calls 10
+sabre_laser checks
+*** FLOP *** [As 2h Jh]
+willbonney81 checks
+sabre_laser checks
+*** TURN *** [As 2h Jh][7s]
+willbonney81 checks
+sabre_laser checks
+*** RIVER *** [As 2h Jh 7s][4d]
+willbonney81 checks
+sabre_laser checks
+*** SHOW DOWN ***
+willbonney81 shows [Qd Kd] (High card : Ace)
+sabre_laser shows [6h 6d] (One pair : 6)
+sabre_laser collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [As 2h Jh 7s 4d]
+Seat 4: willbonney81 (small blind) showed [Qd Kd] and lost with High card : Ace
+Seat 5: sabre_laser (big blind) showed [6h 6d] and won 40 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558764477726588929-3-1441746164 - Holdem no limit (10/20) - 2015/09/08 21:02:44 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (1500)
+Seat 2: syBBille (1500)
+Seat 3: __XXV__ (1490)
+Seat 4: willbonney81 (1490)
+Seat 5: sabre_laser (1520)
+Seat 6: stibriana (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+stibriana posts big blind 20
+Dealt to sabre_laser [3h 9h]
+*** PRE-FLOP *** 
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 folds
+sabre_laser folds
+stibriana collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 6: stibriana (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558764477726588929-4-1441746194 - Holdem no limit (10/20) - 2015/09/08 21:03:14 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (1500)
+Seat 2: syBBille (1500)
+Seat 3: __XXV__ (1490)
+Seat 4: willbonney81 (1490)
+Seat 5: sabre_laser (1510)
+Seat 6: stibriana (1510)
+*** ANTE/BLINDS ***
+stibriana posts small blind 10
+xunes posts big blind 20
+Dealt to sabre_laser [Tc 5c]
+*** PRE-FLOP *** 
+syBBille folds
+__XXV__ raises 20 to 40
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes folds
+__XXV__ collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: __XXV__ won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558764477726588929-5-1441746240 - Holdem no limit (10/20) - 2015/09/08 21:04:00 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (1480)
+Seat 2: syBBille (1500)
+Seat 3: __XXV__ (1520)
+Seat 4: willbonney81 (1490)
+Seat 5: sabre_laser (1510)
+Seat 6: stibriana (1500)
+*** ANTE/BLINDS ***
+xunes posts small blind 10
+syBBille posts big blind 20
+Dealt to sabre_laser [Kd Kc]
+*** PRE-FLOP *** 
+__XXV__ folds
+willbonney81 calls 20
+sabre_laser raises 50 to 70
+stibriana calls 70
+xunes folds
+syBBille folds
+willbonney81 calls 50
+*** FLOP *** [Tc 6h Kh]
+willbonney81 checks
+sabre_laser bets 90
+stibriana folds
+willbonney81 folds
+sabre_laser collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Tc 6h Kh]
+Seat 5: sabre_laser won 330
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558764477726588929-6-1441746315 - Holdem no limit (15/30) - 2015/09/08 21:05:15 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (1470)
+Seat 2: syBBille (1480)
+Seat 3: __XXV__ (1520)
+Seat 4: willbonney81 (1420)
+Seat 5: sabre_laser (1680)
+Seat 6: stibriana (1430)
+*** ANTE/BLINDS ***
+syBBille posts small blind 15
+__XXV__ posts big blind 30
+Dealt to sabre_laser [Ad 3d]
+*** PRE-FLOP *** 
+willbonney81 folds
+sabre_laser calls 30
+stibriana raises 45 to 75
+xunes folds
+syBBille folds
+__XXV__ folds
+sabre_laser calls 45
+*** FLOP *** [6s Qs 5h]
+sabre_laser checks
+stibriana bets 45
+sabre_laser folds
+stibriana collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6s Qs 5h]
+Seat 6: stibriana won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558764477726588929-7-1441746373 - Holdem no limit (15/30) - 2015/09/08 21:06:13 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #2 is the button
+Seat 1: xunes (1470)
+Seat 2: syBBille (1465)
+Seat 3: __XXV__ (1490)
+Seat 4: willbonney81 (1420)
+Seat 5: sabre_laser (1605)
+Seat 6: stibriana (1550)
+*** ANTE/BLINDS ***
+__XXV__ posts small blind 15
+willbonney81 posts big blind 30
+Dealt to sabre_laser [3h 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 4: willbonney81 (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558764477726588929-8-1441746391 - Holdem no limit (15/30) - 2015/09/08 21:06:31 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: xunes (1470)
+Seat 2: syBBille (1465)
+Seat 3: __XXV__ (1475)
+Seat 4: willbonney81 (1435)
+Seat 5: sabre_laser (1605)
+Seat 6: stibriana (1550)
+*** ANTE/BLINDS ***
+willbonney81 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [8d 2c]
+*** PRE-FLOP *** 
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ raises 30 to 60
+willbonney81 folds
+sabre_laser folds
+__XXV__ collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: __XXV__ (button) won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558764477726588929-9-1441746411 - Holdem no limit (15/30) - 2015/09/08 21:06:51 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (1470)
+Seat 2: syBBille (1465)
+Seat 3: __XXV__ (1520)
+Seat 4: willbonney81 (1420)
+Seat 5: sabre_laser (1575)
+Seat 6: stibriana (1550)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+stibriana posts big blind 30
+Dealt to sabre_laser [Kh 5c]
+*** PRE-FLOP *** 
+xunes raises 45 to 75
+syBBille folds
+__XXV__ folds
+willbonney81 folds
+sabre_laser folds
+stibriana raises 150 to 225
+xunes folds
+stibriana collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 6: stibriana (big blind) won 315
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558764477726588929-10-1441746459 - Holdem no limit (20/40) - 2015/09/08 21:07:39 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (1395)
+Seat 2: syBBille (1465)
+Seat 3: __XXV__ (1520)
+Seat 4: willbonney81 (1420)
+Seat 5: sabre_laser (1560)
+Seat 6: stibriana (1640)
+*** ANTE/BLINDS ***
+stibriana posts small blind 20
+xunes posts big blind 40
+Dealt to sabre_laser [Ac Ts]
+*** PRE-FLOP *** 
+syBBille folds
+__XXV__ folds
+willbonney81 folds
+sabre_laser raises 40 to 80
+stibriana folds
+xunes calls 40
+*** FLOP *** [Td 4h Kh]
+xunes bets 99
+sabre_laser calls 99
+*** TURN *** [Td 4h Kh][9c]
+xunes checks
+sabre_laser checks
+*** RIVER *** [Td 4h Kh 9c][2h]
+xunes bets 284
+sabre_laser folds
+xunes collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | No rake
+Board: [Td 4h Kh 9c 2h]
+Seat 1: xunes (big blind) won 662
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558764477726588929-11-1441746566 - Holdem no limit (20/40) - 2015/09/08 21:09:26 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (1594)
+Seat 2: syBBille (1465)
+Seat 3: __XXV__ (1520)
+Seat 4: willbonney81 (1420)
+Seat 5: sabre_laser (1381)
+Seat 6: stibriana (1620)
+*** ANTE/BLINDS ***
+xunes posts small blind 20
+syBBille posts big blind 40
+Dealt to sabre_laser [8s Kc]
+*** PRE-FLOP *** 
+__XXV__ folds
+willbonney81 folds
+sabre_laser calls 40
+stibriana folds
+xunes folds
+syBBille checks
+*** FLOP *** [9d Th As]
+syBBille checks
+sabre_laser bets 60
+syBBille folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [9d Th As]
+Seat 5: sabre_laser won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558764477726588929-12-1441746609 - Holdem no limit (30/60) - 2015/09/08 21:10:09 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (1574)
+Seat 2: syBBille (1425)
+Seat 3: __XXV__ (1520)
+Seat 4: willbonney81 (1420)
+Seat 5: sabre_laser (1441)
+Seat 6: stibriana (1620)
+*** ANTE/BLINDS ***
+syBBille posts small blind 30
+__XXV__ posts big blind 60
+Dealt to sabre_laser [7h Qs]
+*** PRE-FLOP *** 
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: __XXV__ (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558764477726588929-13-1441746638 - Holdem no limit (30/60) - 2015/09/08 21:10:38 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #2 is the button
+Seat 1: xunes (1574)
+Seat 2: syBBille (1395)
+Seat 3: __XXV__ (1550)
+Seat 4: willbonney81 (1420)
+Seat 5: sabre_laser (1441)
+Seat 6: stibriana (1620)
+*** ANTE/BLINDS ***
+__XXV__ posts small blind 30
+willbonney81 posts big blind 60
+Dealt to sabre_laser [6s 5s]
+*** PRE-FLOP *** 
+sabre_laser calls 60
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ calls 30
+willbonney81 checks
+*** FLOP *** [Kc Ad Ts]
+__XXV__ bets 120
+willbonney81 folds
+sabre_laser folds
+__XXV__ collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kc Ad Ts]
+Seat 3: __XXV__ (small blind) won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558764477726588929-14-1441746717 - Holdem no limit (30/60) - 2015/09/08 21:11:57 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: xunes (1574)
+Seat 2: syBBille (1395)
+Seat 3: __XXV__ (1670)
+Seat 4: willbonney81 (1360)
+Seat 5: sabre_laser (1381)
+Seat 6: stibriana (1620)
+*** ANTE/BLINDS ***
+willbonney81 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [9s 8h]
+*** PRE-FLOP *** 
+stibriana folds
+xunes raises 66 to 126
+syBBille folds
+__XXV__ folds
+willbonney81 folds
+sabre_laser folds
+xunes collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Seat 1: xunes won 216
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558764477726588929-15-1441746755 - Holdem no limit (30/60) - 2015/09/08 21:12:35 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (1664)
+Seat 2: syBBille (1395)
+Seat 3: __XXV__ (1670)
+Seat 4: willbonney81 (1330)
+Seat 5: sabre_laser (1321)
+Seat 6: stibriana (1620)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+stibriana posts big blind 60
+Dealt to sabre_laser [Jh 4s]
+*** PRE-FLOP *** 
+xunes folds
+syBBille folds
+__XXV__ raises 60 to 120
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+__XXV__ collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: __XXV__ won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558764477726588929-16-1441746777 - Holdem no limit (30/60) - 2015/09/08 21:12:57 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (1664)
+Seat 2: syBBille (1395)
+Seat 3: __XXV__ (1760)
+Seat 4: willbonney81 (1330)
+Seat 5: sabre_laser (1291)
+Seat 6: stibriana (1560)
+*** ANTE/BLINDS ***
+stibriana posts small blind 30
+xunes posts big blind 60
+Dealt to sabre_laser [2s 9c]
+*** PRE-FLOP *** 
+syBBille folds
+__XXV__ folds
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: xunes (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558764477726588929-17-1441746792 - Holdem no limit (40/80) - 2015/09/08 21:13:12 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (1694)
+Seat 2: syBBille (1395)
+Seat 3: __XXV__ (1760)
+Seat 4: willbonney81 (1330)
+Seat 5: sabre_laser (1291)
+Seat 6: stibriana (1530)
+*** ANTE/BLINDS ***
+xunes posts small blind 40
+syBBille posts big blind 80
+Dealt to sabre_laser [2s 8s]
+*** PRE-FLOP *** 
+__XXV__ folds
+willbonney81 raises 160 to 240
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+willbonney81 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 4: willbonney81 won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558764477726588929-18-1441746816 - Holdem no limit (40/80) - 2015/09/08 21:13:36 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (1654)
+Seat 2: syBBille (1315)
+Seat 3: __XXV__ (1760)
+Seat 4: willbonney81 (1450)
+Seat 5: sabre_laser (1291)
+Seat 6: stibriana (1530)
+*** ANTE/BLINDS ***
+syBBille posts small blind 40
+__XXV__ posts big blind 80
+Dealt to sabre_laser [4s Qc]
+*** PRE-FLOP *** 
+willbonney81 folds
+sabre_laser folds
+stibriana raises 80 to 160
+xunes folds
+syBBille folds
+__XXV__ folds
+stibriana collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: stibriana won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558764477726588929-19-1441746852 - Holdem no limit (40/80) - 2015/09/08 21:14:12 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #2 is the button
+Seat 1: xunes (1654)
+Seat 2: syBBille (1275)
+Seat 3: __XXV__ (1680)
+Seat 4: willbonney81 (1450)
+Seat 5: sabre_laser (1291)
+Seat 6: stibriana (1650)
+*** ANTE/BLINDS ***
+__XXV__ posts small blind 40
+willbonney81 posts big blind 80
+Dealt to sabre_laser [2s Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ raises 80 to 160
+willbonney81 folds
+__XXV__ collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: __XXV__ (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558764477726588929-20-1441746920 - Holdem no limit (40/80) - 2015/09/08 21:15:20 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: xunes (1654)
+Seat 2: syBBille (1275)
+Seat 3: __XXV__ (1760)
+Seat 4: willbonney81 (1370)
+Seat 5: sabre_laser (1291)
+Seat 6: stibriana (1650)
+*** ANTE/BLINDS ***
+willbonney81 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [7h Kd]
+*** PRE-FLOP *** 
+stibriana raises 80 to 160
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 folds
+sabre_laser calls 80
+*** FLOP *** [4h 6h 3h]
+sabre_laser checks
+stibriana bets 180
+sabre_laser folds
+stibriana collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [4h 6h 3h]
+Seat 6: stibriana won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558764477726588929-21-1441746995 - Holdem no limit (60/120) - 2015/09/08 21:16:35 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (1654)
+Seat 2: syBBille (1275)
+Seat 3: __XXV__ (1760)
+Seat 4: willbonney81 (1330)
+Seat 5: sabre_laser (1131)
+Seat 6: stibriana (1850)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+stibriana posts big blind 120
+Dealt to sabre_laser [Kd 7h]
+*** PRE-FLOP *** 
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 raises 240 to 360
+sabre_laser folds
+stibriana folds
+willbonney81 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 4: willbonney81 (button) won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558764477726588929-22-1441747042 - Holdem no limit (60/120) - 2015/09/08 21:17:22 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (1654)
+Seat 2: syBBille (1275)
+Seat 3: __XXV__ (1760)
+Seat 4: willbonney81 (1510)
+Seat 5: sabre_laser (1071)
+Seat 6: stibriana (1730)
+*** ANTE/BLINDS ***
+stibriana posts small blind 60
+xunes posts big blind 120
+Dealt to sabre_laser [2d 8h]
+*** PRE-FLOP *** 
+syBBille folds
+__XXV__ raises 120 to 240
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes folds
+__XXV__ collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: __XXV__ won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558764477726588929-23-1441747084 - Holdem no limit (60/120) - 2015/09/08 21:18:04 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (1534)
+Seat 2: syBBille (1275)
+Seat 3: __XXV__ (1940)
+Seat 4: willbonney81 (1510)
+Seat 5: sabre_laser (1071)
+Seat 6: stibriana (1670)
+*** ANTE/BLINDS ***
+xunes posts small blind 60
+syBBille posts big blind 120
+Dealt to sabre_laser [Qc Js]
+*** PRE-FLOP *** 
+__XXV__ folds
+willbonney81 folds
+sabre_laser folds
+stibriana calls 120
+xunes folds
+syBBille checks
+*** FLOP *** [2s Ks Jc]
+syBBille checks
+stibriana bets 150
+syBBille folds
+stibriana collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [2s Ks Jc]
+Seat 6: stibriana (button) won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558764477726588929-24-1441747143 - Holdem no limit (60/120) - 2015/09/08 21:19:03 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (1474)
+Seat 2: syBBille (1155)
+Seat 3: __XXV__ (1940)
+Seat 4: willbonney81 (1510)
+Seat 5: sabre_laser (1071)
+Seat 6: stibriana (1850)
+*** ANTE/BLINDS ***
+syBBille posts small blind 60
+__XXV__ posts big blind 120
+Dealt to sabre_laser [Kd 2s]
+*** PRE-FLOP *** 
+willbonney81 raises 240 to 360
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 4: willbonney81 won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558764477726588929-25-1441747181 - Holdem no limit (80/160) - 2015/09/08 21:19:41 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #2 is the button
+Seat 1: xunes (1474)
+Seat 2: syBBille (1095)
+Seat 3: __XXV__ (1820)
+Seat 4: willbonney81 (1690)
+Seat 5: sabre_laser (1071)
+Seat 6: stibriana (1850)
+*** ANTE/BLINDS ***
+__XXV__ posts small blind 80
+willbonney81 posts big blind 160
+Dealt to sabre_laser [Qd Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: willbonney81 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558764477726588929-26-1441747204 - Holdem no limit (80/160) - 2015/09/08 21:20:04 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: xunes (1474)
+Seat 2: syBBille (1095)
+Seat 3: __XXV__ (1740)
+Seat 4: willbonney81 (1770)
+Seat 5: sabre_laser (1071)
+Seat 6: stibriana (1850)
+*** ANTE/BLINDS ***
+willbonney81 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Td 3h]
+*** PRE-FLOP *** 
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 raises 1610 to 1770 and is all-in
+sabre_laser folds
+willbonney81 collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Seat 4: willbonney81 (small blind) won 1930
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558764477726588929-27-1441747233 - Holdem no limit (80/160) - 2015/09/08 21:20:33 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (1474)
+Seat 2: syBBille (1095)
+Seat 3: __XXV__ (1740)
+Seat 4: willbonney81 (1930)
+Seat 5: sabre_laser (911)
+Seat 6: stibriana (1850)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+stibriana posts big blind 160
+Dealt to sabre_laser [Tc 6d]
+*** PRE-FLOP *** 
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 raises 320 to 480
+sabre_laser folds
+stibriana raises 1370 to 1850 and is all-in
+willbonney81 folds
+stibriana collected 2410 from pot
+*** SUMMARY ***
+Total pot 2410 | No rake
+Seat 6: stibriana (big blind) won 2410
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558764477726588929-28-1441747282 - Holdem no limit (80/160) - 2015/09/08 21:21:22 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (1474)
+Seat 2: syBBille (1095)
+Seat 3: __XXV__ (1740)
+Seat 4: willbonney81 (1450)
+Seat 5: sabre_laser (831)
+Seat 6: stibriana (2410)
+*** ANTE/BLINDS ***
+stibriana posts small blind 80
+xunes posts big blind 160
+Dealt to sabre_laser [8s Kh]
+*** PRE-FLOP *** 
+syBBille raises 320 to 480
+__XXV__ folds
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 2: syBBille won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558764477726588929-29-1441747306 - Holdem no limit (80/160) - 2015/09/08 21:21:46 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (1314)
+Seat 2: syBBille (1335)
+Seat 3: __XXV__ (1740)
+Seat 4: willbonney81 (1450)
+Seat 5: sabre_laser (831)
+Seat 6: stibriana (2330)
+*** ANTE/BLINDS ***
+xunes posts small blind 80
+syBBille posts big blind 160
+Dealt to sabre_laser [Jd 9d]
+*** PRE-FLOP *** 
+__XXV__ raises 1580 to 1740 and is all-in
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Seat 3: __XXV__ won 1980
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558764477726588929-30-1441747339 - Holdem no limit (10/100/200) - 2015/09/08 21:22:19 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (1234)
+Seat 2: syBBille (1175)
+Seat 3: __XXV__ (1980)
+Seat 4: willbonney81 (1450)
+Seat 5: sabre_laser (831)
+Seat 6: stibriana (2330)
+*** ANTE/BLINDS ***
+syBBille posts ante 10
+__XXV__ posts ante 10
+xunes posts ante 10
+willbonney81 posts ante 10
+sabre_laser posts ante 10
+stibriana posts ante 10
+syBBille posts small blind 100
+__XXV__ posts big blind 200
+Dealt to sabre_laser [3c 2c]
+*** PRE-FLOP *** 
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: __XXV__ (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558764477726588929-31-1441747364 - Holdem no limit (10/100/200) - 2015/09/08 21:22:44 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #2 is the button
+Seat 1: xunes (1224)
+Seat 2: syBBille (1065)
+Seat 3: __XXV__ (2130)
+Seat 4: willbonney81 (1440)
+Seat 5: sabre_laser (821)
+Seat 6: stibriana (2320)
+*** ANTE/BLINDS ***
+__XXV__ posts ante 10
+willbonney81 posts ante 10
+xunes posts ante 10
+syBBille posts ante 10
+sabre_laser posts ante 10
+stibriana posts ante 10
+__XXV__ posts small blind 100
+willbonney81 posts big blind 200
+Dealt to sabre_laser [7h 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+xunes folds
+syBBille folds
+__XXV__ folds
+willbonney81 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 4: willbonney81 (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558764477726588929-32-1441747388 - Holdem no limit (10/100/200) - 2015/09/08 21:23:08 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: xunes (1214)
+Seat 2: syBBille (1055)
+Seat 3: __XXV__ (2020)
+Seat 4: willbonney81 (1590)
+Seat 5: sabre_laser (811)
+Seat 6: stibriana (2310)
+*** ANTE/BLINDS ***
+willbonney81 posts ante 10
+sabre_laser posts ante 10
+xunes posts ante 10
+syBBille posts ante 10
+__XXV__ posts ante 10
+stibriana posts ante 10
+willbonney81 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Qh Qc]
+*** PRE-FLOP *** 
+stibriana folds
+xunes folds
+syBBille raises 845 to 1045 and is all-in
+__XXV__ raises 965 to 2010 and is all-in
+willbonney81 folds
+sabre_laser calls 601 and is all-in
+*** FLOP *** [Qs 4c 6c]
+*** TURN *** [Qs 4c 6c][Ah]
+*** RIVER *** [Qs 4c 6c Ah][8c]
+*** SHOW DOWN ***
+sabre_laser shows [Qh Qc] (Trips of Queens)
+syBBille shows [5s Ac] (One pair : Aces)
+__XXV__ shows [Tc Th] (One pair : Tens)
+__XXV__ collected 965 from side pot 2
+syBBille collected 488 from side pot 1
+sabre_laser collected 2563 from main pot
+*** SUMMARY ***
+Total pot 4016 | No rake
+Board: [Qs 4c 6c Ah 8c]
+Seat 2: syBBille showed [5s Ac] and won 488 with One pair : Aces
+Seat 3: __XXV__ (button) showed [Tc Th] and won 965 with One pair : Tens
+Seat 5: sabre_laser (big blind) showed [Qh Qc] and won 2563 with Trips of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558764477726588929-33-1441747441 - Holdem no limit (10/100/200) - 2015/09/08 21:24:01 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (1204)
+Seat 2: syBBille (488)
+Seat 3: __XXV__ (965)
+Seat 4: willbonney81 (1480)
+Seat 5: sabre_laser (2563)
+Seat 6: stibriana (2300)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+stibriana posts ante 10
+xunes posts ante 10
+syBBille posts ante 10
+__XXV__ posts ante 10
+willbonney81 posts ante 10
+sabre_laser posts small blind 100
+stibriana posts big blind 200
+Dealt to sabre_laser [9s Qc]
+*** PRE-FLOP *** 
+xunes folds
+syBBille raises 278 to 478 and is all-in
+__XXV__ folds
+willbonney81 calls 478
+sabre_laser folds
+stibriana calls 278
+*** FLOP *** [Tc 3c 6d]
+stibriana checks
+willbonney81 checks
+*** TURN *** [Tc 3c 6d][2s]
+stibriana checks
+willbonney81 bets 992 and is all-in
+stibriana folds
+*** RIVER *** [Tc 3c 6d 2s][8h]
+*** SHOW DOWN ***
+syBBille shows [Ks 7h] (High card : King)
+willbonney81 shows [5h 3h] (One pair : 3)
+willbonney81 collected 2586 from pot
+*** SUMMARY ***
+Total pot 2586 | No rake
+Board: [Tc 3c 6d 2s 8h]
+Seat 2: syBBille showed [Ks 7h] and lost with High card : King
+Seat 4: willbonney81 (button) showed [5h 3h] and won 2586 with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558764477726588929-34-1441747501 - Holdem no limit (10/100/200) - 2015/09/08 21:25:01 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (1194)
+Seat 3: __XXV__ (955)
+Seat 4: willbonney81 (2586)
+Seat 5: sabre_laser (2453)
+Seat 6: stibriana (1812)
+*** ANTE/BLINDS ***
+stibriana posts ante 10
+xunes posts ante 10
+__XXV__ posts ante 10
+willbonney81 posts ante 10
+sabre_laser posts ante 10
+stibriana posts small blind 100
+xunes posts big blind 200
+Dealt to sabre_laser [As Ks]
+*** PRE-FLOP *** 
+__XXV__ raises 745 to 945 and is all-in
+willbonney81 folds
+sabre_laser raises 1498 to 2443 and is all-in
+stibriana folds
+xunes folds
+*** FLOP *** [Kd 4h Kc]
+*** TURN *** [Kd 4h Kc][5h]
+*** RIVER *** [Kd 4h Kc 5h][Ts]
+*** SHOW DOWN ***
+__XXV__ shows [Qh 2h] (One pair : Kings)
+sabre_laser shows [As Ks] (Trips of Kings)
+sabre_laser collected 3738 from pot
+*** SUMMARY ***
+Total pot 3738 | No rake
+Board: [Kd 4h Kc 5h Ts]
+Seat 3: __XXV__ showed [Qh 2h] and lost with One pair : Kings
+Seat 5: sabre_laser (button) showed [As Ks] and won 3738 with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558764477726588929-35-1441747535 - Holdem no limit (20/150/300) - 2015/09/08 21:25:35 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (984)
+Seat 4: willbonney81 (2576)
+Seat 5: sabre_laser (3738)
+Seat 6: stibriana (1702)
+*** ANTE/BLINDS ***
+xunes posts ante 20
+willbonney81 posts ante 20
+sabre_laser posts ante 20
+stibriana posts ante 20
+xunes posts small blind 150
+willbonney81 posts big blind 300
+Dealt to sabre_laser [Ah 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+xunes raises 664 to 964 and is all-in
+willbonney81 folds
+xunes collected 1344 from pot
+*** SUMMARY ***
+Total pot 1344 | No rake
+Seat 1: xunes (small blind) won 1344
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558764477726588929-36-1441747552 - Holdem no limit (20/150/300) - 2015/09/08 21:25:52 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (1344)
+Seat 4: willbonney81 (2256)
+Seat 5: sabre_laser (3718)
+Seat 6: stibriana (1682)
+*** ANTE/BLINDS ***
+willbonney81 posts ante 20
+sabre_laser posts ante 20
+xunes posts ante 20
+stibriana posts ante 20
+willbonney81 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Th Js]
+*** PRE-FLOP *** 
+stibriana raises 1362 to 1662 and is all-in
+xunes folds
+willbonney81 folds
+sabre_laser folds
+stibriana collected 2192 from pot
+*** SUMMARY ***
+Total pot 2192 | No rake
+Seat 6: stibriana won 2192
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558764477726588929-37-1441747578 - Holdem no limit (20/150/300) - 2015/09/08 21:26:18 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (1324)
+Seat 4: willbonney81 (2086)
+Seat 5: sabre_laser (3398)
+Seat 6: stibriana (2192)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+stibriana posts ante 20
+xunes posts ante 20
+willbonney81 posts ante 20
+sabre_laser posts small blind 150
+stibriana posts big blind 300
+Dealt to sabre_laser [4c 5s]
+*** PRE-FLOP *** 
+xunes raises 1004 to 1304 and is all-in
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes collected 1834 from pot
+*** SUMMARY ***
+Total pot 1834 | No rake
+Seat 1: xunes won 1834
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558764477726588929-38-1441747596 - Holdem no limit (20/150/300) - 2015/09/08 21:26:36 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (1834)
+Seat 4: willbonney81 (2066)
+Seat 5: sabre_laser (3228)
+Seat 6: stibriana (1872)
+*** ANTE/BLINDS ***
+stibriana posts ante 20
+xunes posts ante 20
+willbonney81 posts ante 20
+sabre_laser posts ante 20
+stibriana posts small blind 150
+xunes posts big blind 300
+Dealt to sabre_laser [3c As]
+*** PRE-FLOP *** 
+willbonney81 folds
+sabre_laser raises 2908 to 3208 and is all-in
+stibriana folds
+xunes folds
+sabre_laser collected 3738 from pot
+*** SUMMARY ***
+Total pot 3738 | No rake
+Seat 5: sabre_laser (button) won 3738
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558764477726588929-39-1441747679 - Holdem no limit (20/150/300) - 2015/09/08 21:27:59 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (1514)
+Seat 4: willbonney81 (2046)
+Seat 5: sabre_laser (3738)
+Seat 6: stibriana (1702)
+*** ANTE/BLINDS ***
+xunes posts ante 20
+willbonney81 posts ante 20
+sabre_laser posts ante 20
+stibriana posts ante 20
+xunes posts small blind 150
+willbonney81 posts big blind 300
+Dealt to sabre_laser [Qs 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana raises 1382 to 1682 and is all-in
+xunes folds
+willbonney81 folds
+stibriana collected 2212 from pot
+*** SUMMARY ***
+Total pot 2212 | No rake
+Seat 6: stibriana (button) won 2212
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558764477726588929-40-1441747718 - Holdem no limit (50/200/400) - 2015/09/08 21:28:38 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (1344)
+Seat 4: willbonney81 (1726)
+Seat 5: sabre_laser (3718)
+Seat 6: stibriana (2212)
+*** ANTE/BLINDS ***
+willbonney81 posts ante 50
+sabre_laser posts ante 50
+xunes posts ante 50
+stibriana posts ante 50
+willbonney81 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Ah 2h]
+*** PRE-FLOP *** 
+stibriana folds
+xunes raises 894 to 1294 and is all-in
+willbonney81 folds
+sabre_laser calls 894
+*** FLOP *** [3c 3h 5c]
+*** TURN *** [3c 3h 5c][2d]
+*** RIVER *** [3c 3h 5c 2d][7h]
+*** SHOW DOWN ***
+sabre_laser shows [Ah 2h] (Two pairs : 3 and 2)
+xunes shows [3s Ac] (Trips of 3)
+xunes collected 2988 from pot
+*** SUMMARY ***
+Total pot 2988 | No rake
+Board: [3c 3h 5c 2d 7h]
+Seat 1: xunes (button) showed [3s Ac] and won 2988 with Trips of 3
+Seat 5: sabre_laser (big blind) showed [Ah 2h] and lost with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558764477726588929-41-1441747770 - Holdem no limit (50/200/400) - 2015/09/08 21:29:30 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (2988)
+Seat 4: willbonney81 (1476)
+Seat 5: sabre_laser (2374)
+Seat 6: stibriana (2162)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+stibriana posts ante 50
+xunes posts ante 50
+willbonney81 posts ante 50
+sabre_laser posts small blind 200
+stibriana posts big blind 400
+Dealt to sabre_laser [3d 6h]
+*** PRE-FLOP *** 
+xunes folds
+willbonney81 raises 1026 to 1426 and is all-in
+sabre_laser folds
+stibriana folds
+willbonney81 collected 2226 from pot
+*** SUMMARY ***
+Total pot 2226 | No rake
+Seat 4: willbonney81 (button) won 2226
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558764477726588929-42-1441747784 - Holdem no limit (50/200/400) - 2015/09/08 21:29:44 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (2938)
+Seat 4: willbonney81 (2226)
+Seat 5: sabre_laser (2124)
+Seat 6: stibriana (1712)
+*** ANTE/BLINDS ***
+stibriana posts ante 50
+xunes posts ante 50
+willbonney81 posts ante 50
+sabre_laser posts ante 50
+stibriana posts small blind 200
+xunes posts big blind 400
+Dealt to sabre_laser [6d 9h]
+*** PRE-FLOP *** 
+willbonney81 folds
+sabre_laser folds
+stibriana folds
+xunes collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 1: xunes (big blind) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558764477726588929-43-1441747803 - Holdem no limit (50/200/400) - 2015/09/08 21:30:03 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (3288)
+Seat 4: willbonney81 (2176)
+Seat 5: sabre_laser (2074)
+Seat 6: stibriana (1462)
+*** ANTE/BLINDS ***
+xunes posts ante 50
+willbonney81 posts ante 50
+sabre_laser posts ante 50
+stibriana posts ante 50
+xunes posts small blind 200
+willbonney81 posts big blind 400
+Dealt to sabre_laser [2h 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+xunes folds
+willbonney81 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 4: willbonney81 (big blind) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558764477726588929-44-1441747828 - Holdem no limit (50/200/400) - 2015/09/08 21:30:28 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xunes (3038)
+Seat 4: willbonney81 (2526)
+Seat 5: sabre_laser (2024)
+Seat 6: stibriana (1412)
+*** ANTE/BLINDS ***
+willbonney81 posts ante 50
+sabre_laser posts ante 50
+xunes posts ante 50
+stibriana posts ante 50
+willbonney81 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Kc 5h]
+*** PRE-FLOP *** 
+stibriana raises 962 to 1362 and is all-in
+xunes folds
+willbonney81 folds
+sabre_laser folds
+stibriana collected 2162 from pot
+*** SUMMARY ***
+Total pot 2162 | No rake
+Seat 6: stibriana won 2162
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558764477726588929-45-1441747850 - Holdem no limit (50/200/400) - 2015/09/08 21:30:50 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: xunes (2988)
+Seat 4: willbonney81 (2276)
+Seat 5: sabre_laser (1574)
+Seat 6: stibriana (2162)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+stibriana posts ante 50
+xunes posts ante 50
+willbonney81 posts ante 50
+sabre_laser posts small blind 200
+stibriana posts big blind 400
+Dealt to sabre_laser [9c Jd]
+*** PRE-FLOP *** 
+xunes folds
+willbonney81 raises 1826 to 2226 and is all-in
+sabre_laser folds
+stibriana folds
+willbonney81 collected 3026 from pot
+*** SUMMARY ***
+Total pot 3026 | No rake
+Seat 4: willbonney81 (button) won 3026
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #558764477726588929-46-1441747874 - Holdem no limit (75/300/600) - 2015/09/08 21:31:14 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: xunes (2938)
+Seat 4: willbonney81 (3026)
+Seat 5: sabre_laser (1324)
+Seat 6: stibriana (1712)
+*** ANTE/BLINDS ***
+stibriana posts ante 75
+xunes posts ante 75
+willbonney81 posts ante 75
+sabre_laser posts ante 75
+stibriana posts small blind 300
+xunes posts big blind 600
+Dealt to sabre_laser [6d 7h]
+*** PRE-FLOP *** 
+willbonney81 raises 2351 to 2951 and is all-in
+sabre_laser folds
+stibriana folds
+xunes calls 2263 and is all-in
+*** FLOP *** [As Qd Ks]
+*** TURN *** [As Qd Ks][2s]
+*** RIVER *** [As Qd Ks 2s][8c]
+*** SHOW DOWN ***
+xunes shows [Ad Jc] (One pair : Aces)
+willbonney81 shows [3c Kc] (One pair : Kings)
+willbonney81 collected 88 from side pot 1
+xunes collected 6326 from main pot
+*** SUMMARY ***
+Total pot 6414 | No rake
+Board: [As Qd Ks 2s 8c]
+Seat 1: xunes (big blind) showed [Ad Jc] and won 6326 with One pair : Aces
+Seat 4: willbonney81 showed [3c Kc] and won 88 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #558764477726588929-47-1441747903 - Holdem no limit (75/300/600) - 2015/09/08 21:31:43 UTC
+Table: 'Double or Nothing(130097493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xunes (6326)
+Seat 4: willbonney81 (88)
+Seat 5: sabre_laser (1249)
+Seat 6: stibriana (1337)
+*** ANTE/BLINDS ***
+xunes posts ante 75
+willbonney81 posts ante 75
+sabre_laser posts ante 75
+stibriana posts ante 75
+xunes posts small blind 300
+willbonney81 posts big blind 13 and is all-in
+Dealt to sabre_laser [Tc 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+stibriana folds
+*** FLOP *** [Jd Ah Kd]
+*** TURN *** [Jd Ah Kd][5c]
+*** RIVER *** [Jd Ah Kd 5c][Ts]
+*** SHOW DOWN ***
+willbonney81 shows [Td 2h] (One pair : Tens)
+xunes shows [Ad 2d] (One pair : Aces)
+xunes collected 613 from pot
+*** SUMMARY ***
+Total pot 613 | No rake
+Board: [Jd Ah Kd 5c Ts]
+Seat 1: xunes (small blind) showed [Ad 2d] and won 613 with One pair : Aces
+Seat 4: willbonney81 (big blind) showed [Td 2h] and lost with One pair : Tens
+
+

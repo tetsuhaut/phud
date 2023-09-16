@@ -1,0 +1,1496 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #471637668808097793-1-1423847331 - Holdem no limit (10/20) - 2015/02/13 17:08:51 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #5 is the button
+Seat 1: CmxCiX (1500)
+Seat 2: GimoDR (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: gordito (1500)
+Seat 5: Hi-JAQs (1500)
+Seat 6: lassss1 (1500)
+Seat 7: jos57690 (1500)
+Seat 8: lesforges25 (1500)
+Seat 9: uritorpedo (1500)
+Seat 10: bubu33160 (1500)
+*** ANTE/BLINDS ***
+lassss1 posts small blind 10
+jos57690 posts big blind 20
+Dealt to sabre_laser [2d 8h]
+*** PRE-FLOP *** 
+lesforges25 calls 20
+uritorpedo raises 20 to 40
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito raises 80 to 120
+Hi-JAQs folds
+lassss1 folds
+jos57690 folds
+lesforges25 calls 100
+uritorpedo calls 80
+*** FLOP *** [4c 2s 6s]
+lesforges25 checks
+uritorpedo checks
+gordito bets 200
+lesforges25 folds
+uritorpedo folds
+gordito collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [4c 2s 6s]
+Seat 4: gordito won 590
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #471637668808097793-2-1423847417 - Holdem no limit (10/20) - 2015/02/13 17:10:17 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #6 is the button
+Seat 1: CmxCiX (1500)
+Seat 2: GimoDR (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: gordito (1770)
+Seat 5: Hi-JAQs (1500)
+Seat 6: lassss1 (1490)
+Seat 7: jos57690 (1480)
+Seat 8: lesforges25 (1380)
+Seat 9: uritorpedo (1380)
+Seat 10: bubu33160 (1500)
+*** ANTE/BLINDS ***
+jos57690 posts small blind 10
+lesforges25 posts big blind 20
+Dealt to sabre_laser [6h Js]
+*** PRE-FLOP *** 
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito calls 20
+Hi-JAQs folds
+lassss1 calls 20
+jos57690 raises 20 to 40
+lesforges25 folds
+gordito calls 20
+lassss1 calls 20
+*** FLOP *** [Tc Jd 7h]
+jos57690 bets 70
+gordito folds
+lassss1 calls 70
+*** TURN *** [Tc Jd 7h][Ts]
+jos57690 bets 140
+lassss1 folds
+jos57690 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Tc Jd 7h Ts]
+Seat 7: jos57690 (small blind) won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #471637668808097793-3-1423847501 - Holdem no limit (10/20) - 2015/02/13 17:11:41 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #7 is the button
+Seat 1: CmxCiX (1500)
+Seat 2: GimoDR (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: gordito (1730)
+Seat 5: Hi-JAQs (1500)
+Seat 6: lassss1 (1380)
+Seat 7: jos57690 (1650)
+Seat 8: lesforges25 (1360)
+Seat 9: uritorpedo (1380)
+Seat 10: bubu33160 (1500)
+*** ANTE/BLINDS ***
+lesforges25 posts small blind 10
+uritorpedo posts big blind 20
+Dealt to sabre_laser [Kh 8d]
+*** PRE-FLOP *** 
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+lassss1 folds
+jos57690 raises 20 to 40
+lesforges25 calls 30
+uritorpedo folds
+*** FLOP *** [7d 2s 6h]
+lesforges25 checks
+jos57690 bets 50
+lesforges25 calls 50
+*** TURN *** [7d 2s 6h][9s]
+lesforges25 checks
+jos57690 bets 100
+lesforges25 calls 100
+*** RIVER *** [7d 2s 6h 9s][Td]
+lesforges25 checks
+jos57690 checks
+*** SHOW DOWN ***
+jos57690 shows [Ts Ks] (One pair : Tens)
+lesforges25 shows [8s 8h] (Straight Ten high)
+lesforges25 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [7d 2s 6h 9s Td]
+Seat 7: jos57690 (button) showed [Ts Ks] and lost with One pair : Tens
+Seat 8: lesforges25 (small blind) showed [8s 8h] and won 400 with Straight Ten high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #471637668808097793-4-1423847589 - Holdem no limit (15/30) - 2015/02/13 17:13:09 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #8 is the button
+Seat 1: CmxCiX (1500)
+Seat 2: GimoDR (1500)
+Seat 3: sabre_laser (1500)
+Seat 4: gordito (1730)
+Seat 5: Hi-JAQs (1500)
+Seat 6: lassss1 (1380)
+Seat 7: jos57690 (1460)
+Seat 8: lesforges25 (1570)
+Seat 9: uritorpedo (1360)
+Seat 10: bubu33160 (1500)
+*** ANTE/BLINDS ***
+uritorpedo posts small blind 15
+bubu33160 posts big blind 30
+Dealt to sabre_laser [Kc Ks]
+*** PRE-FLOP *** 
+CmxCiX folds
+GimoDR folds
+sabre_laser raises 45 to 75
+gordito folds
+Hi-JAQs folds
+lassss1 folds
+jos57690 calls 75
+lesforges25 raises 1495 to 1570 and is all-in
+uritorpedo folds
+bubu33160 folds
+sabre_laser calls 1425 and is all-in
+jos57690 folds
+*** FLOP *** [Ts Td 4s]
+*** TURN *** [Ts Td 4s][6c]
+*** RIVER *** [Ts Td 4s 6c][Js]
+*** SHOW DOWN ***
+sabre_laser shows [Kc Ks] (Two pairs : Kings and Tens)
+lesforges25 shows [Jh Kh] (Two pairs : Jacks and Tens)
+lesforges25 collected 70 from side pot 1
+sabre_laser collected 3120 from main pot
+*** SUMMARY ***
+Total pot 3190 | No rake
+Board: [Ts Td 4s 6c Js]
+Seat 3: sabre_laser showed [Kc Ks] and won 3120 with Two pairs : Kings and Tens
+Seat 8: lesforges25 (button) showed [Jh Kh] and won 70 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #471637668808097793-5-1423847647 - Holdem no limit (15/30) - 2015/02/13 17:14:07 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #9 is the button
+Seat 1: CmxCiX (1500)
+Seat 2: GimoDR (1500)
+Seat 3: sabre_laser (3120)
+Seat 4: gordito (1730)
+Seat 5: Hi-JAQs (1500)
+Seat 6: lassss1 (1380)
+Seat 7: jos57690 (1385)
+Seat 8: lesforges25 (70)
+Seat 9: uritorpedo (1345)
+Seat 10: bubu33160 (1470)
+*** ANTE/BLINDS ***
+bubu33160 posts small blind 15
+CmxCiX posts big blind 30
+Dealt to sabre_laser [As Ah]
+*** PRE-FLOP *** 
+GimoDR folds
+sabre_laser raises 60 to 90
+gordito folds
+Hi-JAQs folds
+lassss1 folds
+jos57690 folds
+lesforges25 calls 70 and is all-in
+uritorpedo calls 90
+bubu33160 folds
+CmxCiX folds
+*** FLOP *** [Kh 3c 2h]
+sabre_laser checks
+uritorpedo bets 120
+sabre_laser raises 120 to 240
+uritorpedo calls 120
+*** TURN *** [Kh 3c 2h][3d]
+sabre_laser bets 330
+uritorpedo calls 330
+*** RIVER *** [Kh 3c 2h 3d][Ad]
+sabre_laser bets 2460 and is all-in
+uritorpedo folds
+*** SHOW DOWN ***
+lesforges25 shows [7h Qh] (One pair : 3)
+sabre_laser shows [As Ah] (Full of Aces and 3)
+sabre_laser collected 3895 from pot
+*** SUMMARY ***
+Total pot 3895 | No rake
+Board: [Kh 3c 2h 3d Ad]
+Seat 3: sabre_laser showed [As Ah] and won 3895 with Full of Aces and 3
+Seat 8: lesforges25 showed [7h Qh] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #471637668808097793-6-1423847805 - Holdem no limit (20/40) - 2015/02/13 17:16:45 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #10 is the button
+Seat 1: CmxCiX (1470)
+Seat 2: GimoDR (1500)
+Seat 3: sabre_laser (3895)
+Seat 4: gordito (1730)
+Seat 5: Hi-JAQs (1500)
+Seat 6: lassss1 (1380)
+Seat 7: jos57690 (1385)
+Seat 9: uritorpedo (685)
+Seat 10: bubu33160 (1455)
+*** ANTE/BLINDS ***
+CmxCiX posts small blind 20
+GimoDR posts big blind 40
+Dealt to sabre_laser [Qc 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+lassss1 raises 80 to 120
+jos57690 folds
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+lassss1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: lassss1 won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #471637668808097793-7-1423847860 - Holdem no limit (20/40) - 2015/02/13 17:17:40 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #1 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1460)
+Seat 3: sabre_laser (3895)
+Seat 4: gordito (1730)
+Seat 5: Hi-JAQs (1500)
+Seat 6: lassss1 (1440)
+Seat 7: jos57690 (1385)
+Seat 9: uritorpedo (685)
+Seat 10: bubu33160 (1455)
+*** ANTE/BLINDS ***
+GimoDR posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [7h 8c]
+*** PRE-FLOP *** 
+gordito folds
+Hi-JAQs raises 80 to 120
+lassss1 folds
+jos57690 folds
+uritorpedo calls 120
+bubu33160 calls 120
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+*** FLOP *** [5c 5d Th]
+Hi-JAQs bets 210
+uritorpedo folds
+bubu33160 folds
+Hi-JAQs collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [5c 5d Th]
+Seat 5: Hi-JAQs won 630
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #471637668808097793-8-1423847929 - Holdem no limit (30/60) - 2015/02/13 17:18:49 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #2 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3855)
+Seat 4: gordito (1730)
+Seat 5: Hi-JAQs (1800)
+Seat 6: lassss1 (1440)
+Seat 7: jos57690 (1385)
+Seat 9: uritorpedo (565)
+Seat 10: bubu33160 (1335)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+gordito posts big blind 60
+Dealt to sabre_laser [Jc 2c]
+*** PRE-FLOP *** 
+Hi-JAQs calls 60
+lassss1 folds
+jos57690 folds
+uritorpedo raises 60 to 120
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito calls 60
+Hi-JAQs folds
+*** FLOP *** [Tc 8h 8s]
+gordito checks
+uritorpedo bets 445 and is all-in
+gordito folds
+uritorpedo collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | No rake
+Board: [Tc 8h 8s]
+Seat 9: uritorpedo won 775
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #471637668808097793-9-1423848031 - Holdem no limit (30/60) - 2015/02/13 17:20:31 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3825)
+Seat 4: gordito (1610)
+Seat 5: Hi-JAQs (1740)
+Seat 6: lassss1 (1440)
+Seat 7: jos57690 (1385)
+Seat 9: uritorpedo (775)
+Seat 10: bubu33160 (1335)
+*** ANTE/BLINDS ***
+gordito posts small blind 30
+Hi-JAQs posts big blind 60
+Dealt to sabre_laser [Ac 4c]
+*** PRE-FLOP *** 
+lassss1 folds
+jos57690 raises 60 to 120
+uritorpedo calls 120
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser calls 120
+gordito calls 90
+Hi-JAQs folds
+*** FLOP *** [Ad 8s 9c]
+gordito checks
+jos57690 bets 270
+uritorpedo folds
+sabre_laser calls 270
+gordito folds
+*** TURN *** [Ad 8s 9c][9s]
+jos57690 bets 995 and is all-in
+sabre_laser folds
+jos57690 collected 2075 from pot
+*** SUMMARY ***
+Total pot 2075 | No rake
+Board: [Ad 8s 9c 9s]
+Seat 7: jos57690 won 2075
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #471637668808097793-10-1423848130 - Holdem no limit (40/80) - 2015/02/13 17:22:10 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3435)
+Seat 4: gordito (1490)
+Seat 5: Hi-JAQs (1680)
+Seat 6: lassss1 (1440)
+Seat 7: jos57690 (2075)
+Seat 9: uritorpedo (655)
+Seat 10: bubu33160 (1335)
+*** ANTE/BLINDS ***
+Hi-JAQs posts small blind 40
+lassss1 posts big blind 80
+Dealt to sabre_laser [9h 6c]
+*** PRE-FLOP *** 
+jos57690 folds
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito calls 80
+Hi-JAQs raises 160 to 240
+lassss1 folds
+gordito folds
+Hi-JAQs collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 5: Hi-JAQs (small blind) won 400
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #471637668808097793-11-1423848167 - Holdem no limit (40/80) - 2015/02/13 17:22:47 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #5 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3435)
+Seat 4: gordito (1410)
+Seat 5: Hi-JAQs (1840)
+Seat 6: lassss1 (1360)
+Seat 7: jos57690 (2075)
+Seat 9: uritorpedo (655)
+Seat 10: bubu33160 (1335)
+*** ANTE/BLINDS ***
+lassss1 posts small blind 40
+jos57690 posts big blind 80
+Dealt to sabre_laser [8s Jh]
+*** PRE-FLOP *** 
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito calls 80
+Hi-JAQs folds
+lassss1 folds
+jos57690 checks
+*** FLOP *** [Kc 5h 5d]
+jos57690 checks
+gordito bets 100
+jos57690 folds
+gordito collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kc 5h 5d]
+Seat 4: gordito won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #471637668808097793-12-1423848230 - Holdem no limit (60/120) - 2015/02/13 17:23:50 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #6 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3435)
+Seat 4: gordito (1530)
+Seat 5: Hi-JAQs (1840)
+Seat 6: lassss1 (1320)
+Seat 7: jos57690 (1995)
+Seat 9: uritorpedo (655)
+Seat 10: bubu33160 (1335)
+*** ANTE/BLINDS ***
+jos57690 posts small blind 60
+uritorpedo posts big blind 120
+Dealt to sabre_laser [5c Ad]
+*** PRE-FLOP *** 
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito folds
+Hi-JAQs raises 240 to 360
+lassss1 folds
+jos57690 folds
+uritorpedo folds
+Hi-JAQs collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 5: Hi-JAQs won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #471637668808097793-13-1423848270 - Holdem no limit (60/120) - 2015/02/13 17:24:30 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #7 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3435)
+Seat 4: gordito (1530)
+Seat 5: Hi-JAQs (2020)
+Seat 6: lassss1 (1320)
+Seat 7: jos57690 (1935)
+Seat 9: uritorpedo (535)
+Seat 10: bubu33160 (1335)
+*** ANTE/BLINDS ***
+uritorpedo posts small blind 60
+bubu33160 posts big blind 120
+Dealt to sabre_laser [5s 8d]
+*** PRE-FLOP *** 
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+lassss1 raises 120 to 240
+jos57690 folds
+uritorpedo folds
+bubu33160 calls 120
+*** FLOP *** [7s 7d Jh]
+bubu33160 checks
+lassss1 checks
+*** TURN *** [7s 7d Jh][Th]
+bubu33160 bets 360
+lassss1 raises 360 to 720
+bubu33160 raises 375 to 1095 and is all-in
+lassss1 calls 360 and is all-in
+*** RIVER *** [7s 7d Jh Th][8c]
+*** SHOW DOWN ***
+lassss1 shows [6c 7c] (Trips of 7)
+bubu33160 shows [Qc Jd] (Two pairs : Jacks and 7)
+bubu33160 collected 15 from side pot 1
+lassss1 collected 2700 from main pot
+*** SUMMARY ***
+Total pot 2715 | No rake
+Board: [7s 7d Jh Th 8c]
+Seat 6: lassss1 showed [6c 7c] and won 2700 with Trips of 7
+Seat 10: bubu33160 (big blind) showed [Qc Jd] and won 15 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #471637668808097793-14-1423848343 - Holdem no limit (60/120) - 2015/02/13 17:25:43 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #9 is the button
+Seat 1: CmxCiX (1450)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3435)
+Seat 4: gordito (1530)
+Seat 5: Hi-JAQs (2020)
+Seat 6: lassss1 (2700)
+Seat 7: jos57690 (1935)
+Seat 9: uritorpedo (475)
+Seat 10: bubu33160 (15)
+*** ANTE/BLINDS ***
+bubu33160 posts small blind 15 and is all-in
+CmxCiX posts big blind 120
+Dealt to sabre_laser [7c 9c]
+*** PRE-FLOP *** 
+GimoDR folds
+sabre_laser folds
+gordito folds
+Hi-JAQs raises 240 to 360
+lassss1 folds
+jos57690 folds
+uritorpedo raises 115 to 475 and is all-in
+CmxCiX folds
+Hi-JAQs calls 115
+*** FLOP *** [4c 6h 2s]
+*** TURN *** [4c 6h 2s][6s]
+*** RIVER *** [4c 6h 2s 6s][Jh]
+*** SHOW DOWN ***
+Hi-JAQs shows [Ad 3h] (One pair : 6)
+bubu33160 shows [Kh Jd] (Two pairs : Jacks and 6)
+uritorpedo shows [Ac 9s] (One pair : 6)
+uritorpedo collected 1025 from side pot 1
+bubu33160 collected 60 from main pot
+*** SUMMARY ***
+Total pot 1085 | No rake
+Board: [4c 6h 2s 6s Jh]
+Seat 5: Hi-JAQs showed [Ad 3h] and lost with One pair : 6
+Seat 9: uritorpedo (button) showed [Ac 9s] and won 1025 with One pair : 6
+Seat 10: bubu33160 (small blind) showed [Kh Jd] and won 60 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #471637668808097793-15-1423848383 - Holdem no limit (60/120) - 2015/02/13 17:26:23 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #10 is the button
+Seat 1: CmxCiX (1330)
+Seat 2: GimoDR (1440)
+Seat 3: sabre_laser (3435)
+Seat 4: gordito (1530)
+Seat 5: Hi-JAQs (1545)
+Seat 6: lassss1 (2700)
+Seat 7: jos57690 (1935)
+Seat 9: uritorpedo (1025)
+Seat 10: bubu33160 (60)
+*** ANTE/BLINDS ***
+CmxCiX posts small blind 60
+GimoDR posts big blind 120
+Dealt to sabre_laser [4s Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+lassss1 folds
+jos57690 calls 120
+uritorpedo calls 120
+bubu33160 calls 60 and is all-in
+CmxCiX folds
+GimoDR checks
+*** FLOP *** [Jd 2c Ts]
+GimoDR checks
+jos57690 checks
+uritorpedo bets 905 and is all-in
+GimoDR folds
+jos57690 folds
+*** TURN *** [Jd 2c Ts][9s]
+*** RIVER *** [Jd 2c Ts 9s][Td]
+*** SHOW DOWN ***
+bubu33160 shows [Qs Kd] (Straight King high)
+uritorpedo shows [Qh Jh] (Two pairs : Jacks and Tens)
+uritorpedo collected 1085 from side pot 1
+bubu33160 collected 300 from main pot
+*** SUMMARY ***
+Total pot 1385 | No rake
+Board: [Jd 2c Ts 9s Td]
+Seat 9: uritorpedo showed [Qh Jh] and won 1085 with Two pairs : Jacks and Tens
+Seat 10: bubu33160 (button) showed [Qs Kd] and won 300 with Straight King high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #471637668808097793-16-1423848455 - Holdem no limit (80/160) - 2015/02/13 17:27:35 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #1 is the button
+Seat 1: CmxCiX (1270)
+Seat 2: GimoDR (1320)
+Seat 3: sabre_laser (3435)
+Seat 4: gordito (1530)
+Seat 5: Hi-JAQs (1545)
+Seat 6: lassss1 (2700)
+Seat 7: jos57690 (1815)
+Seat 9: uritorpedo (1085)
+Seat 10: bubu33160 (300)
+*** ANTE/BLINDS ***
+GimoDR posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [2s Ks]
+*** PRE-FLOP *** 
+gordito folds
+Hi-JAQs calls 160
+lassss1 folds
+jos57690 calls 160
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser checks
+*** FLOP *** [9s 3d Ad]
+sabre_laser checks
+Hi-JAQs checks
+jos57690 bets 280
+sabre_laser folds
+Hi-JAQs folds
+jos57690 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [9s 3d Ad]
+Seat 7: jos57690 won 840
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #471637668808097793-17-1423848526 - Holdem no limit (80/160) - 2015/02/13 17:28:46 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #2 is the button
+Seat 1: CmxCiX (1270)
+Seat 2: GimoDR (1240)
+Seat 3: sabre_laser (3275)
+Seat 4: gordito (1530)
+Seat 5: Hi-JAQs (1385)
+Seat 6: lassss1 (2700)
+Seat 7: jos57690 (2215)
+Seat 9: uritorpedo (1085)
+Seat 10: bubu33160 (300)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+gordito posts big blind 160
+Dealt to sabre_laser [3d Ad]
+*** PRE-FLOP *** 
+Hi-JAQs folds
+lassss1 folds
+jos57690 folds
+uritorpedo raises 160 to 320
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser calls 240
+gordito calls 160
+*** FLOP *** [8h 2h Qd]
+sabre_laser checks
+gordito checks
+uritorpedo checks
+*** TURN *** [8h 2h Qd][Ah]
+sabre_laser bets 480
+gordito folds
+uritorpedo folds
+sabre_laser collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [8h 2h Qd Ah]
+Seat 3: sabre_laser (small blind) won 1440
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #471637668808097793-18-1423848616 - Holdem no limit (10/100/200) - 2015/02/13 17:30:16 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 1: CmxCiX (1270)
+Seat 2: GimoDR (1240)
+Seat 3: sabre_laser (3915)
+Seat 4: gordito (1210)
+Seat 5: Hi-JAQs (1385)
+Seat 6: lassss1 (2700)
+Seat 7: jos57690 (2215)
+Seat 9: uritorpedo (765)
+Seat 10: bubu33160 (300)
+*** ANTE/BLINDS ***
+gordito posts ante 10
+Hi-JAQs posts ante 10
+CmxCiX posts ante 10
+GimoDR posts ante 10
+sabre_laser posts ante 10
+lassss1 posts ante 10
+jos57690 posts ante 10
+uritorpedo posts ante 10
+bubu33160 posts ante 10
+gordito posts small blind 100
+Hi-JAQs posts big blind 200
+Dealt to sabre_laser [6d Tc]
+*** PRE-FLOP *** 
+lassss1 folds
+jos57690 folds
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR raises 1030 to 1230 and is all-in
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+GimoDR collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Seat 2: GimoDR won 1620
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #471637668808097793-19-1423848646 - Holdem no limit (10/100/200) - 2015/02/13 17:30:46 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 1: CmxCiX (1260)
+Seat 2: GimoDR (1620)
+Seat 3: sabre_laser (3905)
+Seat 4: gordito (1100)
+Seat 5: Hi-JAQs (1175)
+Seat 6: lassss1 (2690)
+Seat 7: jos57690 (2205)
+Seat 9: uritorpedo (755)
+Seat 10: bubu33160 (290)
+*** ANTE/BLINDS ***
+Hi-JAQs posts ante 10
+lassss1 posts ante 10
+CmxCiX posts ante 10
+GimoDR posts ante 10
+sabre_laser posts ante 10
+gordito posts ante 10
+jos57690 posts ante 10
+uritorpedo posts ante 10
+bubu33160 posts ante 10
+Hi-JAQs posts small blind 100
+lassss1 posts big blind 200
+Dealt to sabre_laser [As 5c]
+*** PRE-FLOP *** 
+jos57690 folds
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito raises 890 to 1090 and is all-in
+Hi-JAQs folds
+lassss1 folds
+gordito collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Seat 4: gordito (button) won 1480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #471637668808097793-20-1423848683 - Holdem no limit (10/100/200) - 2015/02/13 17:31:23 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #5 is the button
+Seat 1: CmxCiX (1250)
+Seat 2: GimoDR (1610)
+Seat 3: sabre_laser (3895)
+Seat 4: gordito (1480)
+Seat 5: Hi-JAQs (1065)
+Seat 6: lassss1 (2480)
+Seat 7: jos57690 (2195)
+Seat 9: uritorpedo (745)
+Seat 10: bubu33160 (280)
+*** ANTE/BLINDS ***
+lassss1 posts ante 10
+jos57690 posts ante 10
+CmxCiX posts ante 10
+GimoDR posts ante 10
+sabre_laser posts ante 10
+gordito posts ante 10
+Hi-JAQs posts ante 10
+uritorpedo posts ante 10
+bubu33160 posts ante 10
+lassss1 posts small blind 100
+jos57690 posts big blind 200
+Dealt to sabre_laser [5h Qd]
+*** PRE-FLOP *** 
+uritorpedo folds
+bubu33160 folds
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito folds
+Hi-JAQs raises 400 to 600
+lassss1 calls 500
+jos57690 folds
+*** FLOP *** [5d 3h Td]
+lassss1 checks
+Hi-JAQs bets 455 and is all-in
+lassss1 calls 455
+*** TURN *** [5d 3h Td][9d]
+*** RIVER *** [5d 3h Td 9d][Jh]
+*** SHOW DOWN ***
+lassss1 shows [6s Ah] (High card : Ace)
+Hi-JAQs shows [4s Js] (One pair : Jacks)
+Hi-JAQs collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [5d 3h Td 9d Jh]
+Seat 5: Hi-JAQs (button) showed [4s Js] and won 2400 with One pair : Jacks
+Seat 6: lassss1 (small blind) showed [6s Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #471637668808097793-21-1423848737 - Holdem no limit (10/100/200) - 2015/02/13 17:32:17 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #6 is the button
+Seat 1: CmxCiX (1240)
+Seat 2: GimoDR (1600)
+Seat 3: sabre_laser (3885)
+Seat 4: gordito (1470)
+Seat 5: Hi-JAQs (2400)
+Seat 6: lassss1 (1415)
+Seat 7: jos57690 (1985)
+Seat 9: uritorpedo (735)
+Seat 10: bubu33160 (270)
+*** ANTE/BLINDS ***
+jos57690 posts ante 10
+uritorpedo posts ante 10
+CmxCiX posts ante 10
+GimoDR posts ante 10
+sabre_laser posts ante 10
+gordito posts ante 10
+Hi-JAQs posts ante 10
+lassss1 posts ante 10
+bubu33160 posts ante 10
+jos57690 posts small blind 100
+uritorpedo posts big blind 200
+Dealt to sabre_laser [8h 4s]
+*** PRE-FLOP *** 
+bubu33160 raises 60 to 260 and is all-in
+CmxCiX folds
+GimoDR folds
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+lassss1 folds
+jos57690 folds
+uritorpedo raises 465 to 725 and is all-in
+*** FLOP *** [3s Kd 4c]
+*** TURN *** [3s Kd 4c][Td]
+*** RIVER *** [3s Kd 4c Td][Qs]
+*** SHOW DOWN ***
+bubu33160 shows [As 9s] (High card : Ace)
+uritorpedo shows [Qd Ad] (One pair : Queens)
+uritorpedo collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | No rake
+Board: [3s Kd 4c Td Qs]
+Seat 9: uritorpedo (big blind) showed [Qd Ad] and won 1175 with One pair : Queens
+Seat 10: bubu33160 showed [As 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #471637668808097793-22-1423848810 - Holdem no limit (20/150/300) - 2015/02/13 17:33:30 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #7 is the button
+Seat 1: CmxCiX (1230)
+Seat 2: GimoDR (1590)
+Seat 3: sabre_laser (3875)
+Seat 4: gordito (1460)
+Seat 5: Hi-JAQs (2390)
+Seat 6: lassss1 (1405)
+Seat 7: jos57690 (1875)
+Seat 9: uritorpedo (1175)
+*** ANTE/BLINDS ***
+uritorpedo posts ante 20
+CmxCiX posts ante 20
+GimoDR posts ante 20
+sabre_laser posts ante 20
+gordito posts ante 20
+Hi-JAQs posts ante 20
+lassss1 posts ante 20
+jos57690 posts ante 20
+uritorpedo posts small blind 150
+CmxCiX posts big blind 300
+Dealt to sabre_laser [8c Tc]
+*** PRE-FLOP *** 
+GimoDR folds
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+lassss1 folds
+jos57690 raises 300 to 600
+uritorpedo folds
+CmxCiX folds
+jos57690 collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | No rake
+Seat 7: jos57690 (button) won 1210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #471637668808097793-23-1423848848 - Holdem no limit (20/150/300) - 2015/02/13 17:34:08 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #9 is the button
+Seat 1: CmxCiX (910)
+Seat 2: GimoDR (1570)
+Seat 3: sabre_laser (3855)
+Seat 4: gordito (1440)
+Seat 5: Hi-JAQs (2370)
+Seat 6: lassss1 (1385)
+Seat 7: jos57690 (2465)
+Seat 9: uritorpedo (1005)
+*** ANTE/BLINDS ***
+CmxCiX posts ante 20
+GimoDR posts ante 20
+sabre_laser posts ante 20
+gordito posts ante 20
+Hi-JAQs posts ante 20
+lassss1 posts ante 20
+jos57690 posts ante 20
+uritorpedo posts ante 20
+CmxCiX posts small blind 150
+GimoDR posts big blind 300
+Dealt to sabre_laser [Ks Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+gordito folds
+Hi-JAQs folds
+lassss1 raises 300 to 600
+jos57690 calls 600
+uritorpedo folds
+CmxCiX folds
+GimoDR folds
+*** FLOP *** [As 6d Kd]
+lassss1 bets 765 and is all-in
+jos57690 calls 765
+*** TURN *** [As 6d Kd][Ac]
+*** RIVER *** [As 6d Kd Ac][7c]
+*** SHOW DOWN ***
+lassss1 shows [9s Qs] (One pair : Aces)
+jos57690 shows [Td Qd] (One pair : Aces)
+jos57690 collected 3340 from pot
+*** SUMMARY ***
+Total pot 3340 | No rake
+Board: [As 6d Kd Ac 7c]
+Seat 6: lassss1 showed [9s Qs] and lost with One pair : Aces
+Seat 7: jos57690 showed [Td Qd] and won 3340 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #471637668808097793-24-1423848918 - Holdem no limit (20/150/300) - 2015/02/13 17:35:18 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #1 is the button
+Seat 1: CmxCiX (740)
+Seat 2: GimoDR (1250)
+Seat 3: sabre_laser (3835)
+Seat 4: gordito (1420)
+Seat 5: Hi-JAQs (2350)
+Seat 7: jos57690 (4420)
+Seat 9: uritorpedo (985)
+*** ANTE/BLINDS ***
+GimoDR posts ante 20
+sabre_laser posts ante 20
+CmxCiX posts ante 20
+gordito posts ante 20
+Hi-JAQs posts ante 20
+jos57690 posts ante 20
+uritorpedo posts ante 20
+GimoDR posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [9d Qh]
+*** PRE-FLOP *** 
+gordito calls 300
+Hi-JAQs folds
+jos57690 folds
+uritorpedo folds
+CmxCiX calls 300
+GimoDR folds
+sabre_laser checks
+*** FLOP *** [8c Jc 6h]
+sabre_laser checks
+gordito bets 1100 and is all-in
+CmxCiX calls 420 and is all-in
+sabre_laser folds
+*** TURN *** [8c Jc 6h][4s]
+*** RIVER *** [8c Jc 6h 4s][6c]
+*** SHOW DOWN ***
+CmxCiX shows [8s Kc] (Two pairs : 8 and 6)
+gordito shows [Qc Jd] (Two pairs : Jacks and 6)
+gordito collected 2710 from pot
+*** SUMMARY ***
+Total pot 2710 | No rake
+Board: [8c Jc 6h 4s 6c]
+Seat 1: CmxCiX (button) showed [8s Kc] and lost with Two pairs : 8 and 6
+Seat 4: gordito showed [Qc Jd] and won 2710 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #471637668808097793-25-1423848976 - Holdem no limit (50/200/400) - 2015/02/13 17:36:16 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #2 is the button
+Seat 2: GimoDR (1080)
+Seat 3: sabre_laser (3515)
+Seat 4: gordito (2710)
+Seat 5: Hi-JAQs (2330)
+Seat 7: jos57690 (4400)
+Seat 9: uritorpedo (965)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+gordito posts ante 50
+GimoDR posts ante 50
+Hi-JAQs posts ante 50
+jos57690 posts ante 50
+uritorpedo posts ante 50
+sabre_laser posts small blind 200
+gordito posts big blind 400
+Dealt to sabre_laser [9h Kh]
+*** PRE-FLOP *** 
+Hi-JAQs folds
+jos57690 folds
+uritorpedo folds
+GimoDR raises 630 to 1030 and is all-in
+sabre_laser calls 830
+gordito folds
+*** FLOP *** [Kd Ks As]
+*** TURN *** [Kd Ks As][8h]
+*** RIVER *** [Kd Ks As 8h][Qc]
+*** SHOW DOWN ***
+GimoDR shows [Th Td] (Two pairs : Kings and Tens)
+sabre_laser shows [9h Kh] (Trips of Kings)
+sabre_laser collected 2760 from pot
+*** SUMMARY ***
+Total pot 2760 | No rake
+Board: [Kd Ks As 8h Qc]
+Seat 2: GimoDR (button) showed [Th Td] and lost with Two pairs : Kings and Tens
+Seat 3: sabre_laser (small blind) showed [9h Kh] and won 2760 with Trips of Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #471637668808097793-26-1423849040 - Holdem no limit (50/200/400) - 2015/02/13 17:37:20 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 3: sabre_laser (5195)
+Seat 4: gordito (2260)
+Seat 5: Hi-JAQs (2280)
+Seat 7: jos57690 (4350)
+Seat 9: uritorpedo (915)
+*** ANTE/BLINDS ***
+gordito posts ante 50
+Hi-JAQs posts ante 50
+sabre_laser posts ante 50
+jos57690 posts ante 50
+uritorpedo posts ante 50
+gordito posts small blind 200
+Hi-JAQs posts big blind 400
+Dealt to sabre_laser [Qs 7d]
+*** PRE-FLOP *** 
+jos57690 folds
+uritorpedo folds
+sabre_laser folds
+gordito calls 200
+Hi-JAQs checks
+*** FLOP *** [7h 3s Kc]
+gordito checks
+Hi-JAQs checks
+*** TURN *** [7h 3s Kc][8s]
+gordito checks
+Hi-JAQs bets 525
+gordito folds
+Hi-JAQs collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [7h 3s Kc 8s]
+Seat 5: Hi-JAQs (big blind) won 1575
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #471637668808097793-27-1423849110 - Holdem no limit (50/200/400) - 2015/02/13 17:38:30 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 3: sabre_laser (5145)
+Seat 4: gordito (1810)
+Seat 5: Hi-JAQs (2880)
+Seat 7: jos57690 (4300)
+Seat 9: uritorpedo (865)
+*** ANTE/BLINDS ***
+Hi-JAQs posts ante 50
+jos57690 posts ante 50
+sabre_laser posts ante 50
+gordito posts ante 50
+uritorpedo posts ante 50
+Hi-JAQs posts small blind 200
+jos57690 posts big blind 400
+Dealt to sabre_laser [9s 4h]
+*** PRE-FLOP *** 
+uritorpedo folds
+sabre_laser folds
+gordito calls 400
+Hi-JAQs folds
+jos57690 checks
+*** FLOP *** [6s 6c 6d]
+jos57690 checks
+gordito bets 625
+jos57690 folds
+gordito collected 1875 from pot
+*** SUMMARY ***
+Total pot 1875 | No rake
+Board: [6s 6c 6d]
+Seat 4: gordito (button) won 1875
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #471637668808097793-28-1423849165 - Holdem no limit (75/300/600) - 2015/02/13 17:39:25 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #5 is the button
+Seat 3: sabre_laser (5095)
+Seat 4: gordito (2610)
+Seat 5: Hi-JAQs (2630)
+Seat 7: jos57690 (3850)
+Seat 9: uritorpedo (815)
+*** ANTE/BLINDS ***
+jos57690 posts ante 75
+uritorpedo posts ante 75
+sabre_laser posts ante 75
+gordito posts ante 75
+Hi-JAQs posts ante 75
+jos57690 posts small blind 300
+uritorpedo posts big blind 600
+Dealt to sabre_laser [Js 9h]
+*** PRE-FLOP *** 
+sabre_laser raises 600 to 1200
+gordito folds
+Hi-JAQs folds
+jos57690 folds
+uritorpedo calls 140 and is all-in
+*** FLOP *** [Jc Ks Kc]
+*** TURN *** [Jc Ks Kc][7h]
+*** RIVER *** [Jc Ks Kc 7h][Ah]
+*** SHOW DOWN ***
+uritorpedo shows [9d Qh] (One pair : Kings)
+sabre_laser shows [Js 9h] (Two pairs : Kings and Jacks)
+sabre_laser collected 2615 from pot
+*** SUMMARY ***
+Total pot 2615 | No rake
+Board: [Jc Ks Kc 7h Ah]
+Seat 3: sabre_laser showed [Js 9h] and won 2615 with Two pairs : Kings and Jacks
+Seat 9: uritorpedo (big blind) showed [9d Qh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #471637668808097793-29-1423849209 - Holdem no limit (75/300/600) - 2015/02/13 17:40:09 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #7 is the button
+Seat 3: sabre_laser (6435)
+Seat 4: gordito (2535)
+Seat 5: Hi-JAQs (2555)
+Seat 7: jos57690 (3475)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+gordito posts ante 75
+Hi-JAQs posts ante 75
+jos57690 posts ante 75
+sabre_laser posts big blind 600
+Dealt to sabre_laser [As 8s]
+*** PRE-FLOP *** 
+gordito raises 1860 to 2460 and is all-in
+Hi-JAQs folds
+jos57690 folds
+sabre_laser folds
+gordito collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Seat 4: gordito won 3360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #471637668808097793-30-1423849251 - Holdem no limit (75/300/600) - 2015/02/13 17:40:51 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #9 is the button
+Seat 3: sabre_laser (5760)
+Seat 4: gordito (3360)
+Seat 5: Hi-JAQs (2480)
+Seat 7: jos57690 (3400)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+gordito posts ante 75
+Hi-JAQs posts ante 75
+jos57690 posts ante 75
+sabre_laser posts small blind 300
+gordito posts big blind 600
+Dealt to sabre_laser [Td 9h]
+*** PRE-FLOP *** 
+Hi-JAQs calls 600
+jos57690 folds
+sabre_laser calls 300
+gordito checks
+*** FLOP *** [Ts 3d 2d]
+sabre_laser bets 1800
+gordito folds
+Hi-JAQs folds
+sabre_laser collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [Ts 3d 2d]
+Seat 3: sabre_laser (small blind) won 3900
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #471637668808097793-31-1423849309 - Holdem no limit (100/400/800) - 2015/02/13 17:41:49 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 3: sabre_laser (7185)
+Seat 4: gordito (2685)
+Seat 5: Hi-JAQs (1805)
+Seat 7: jos57690 (3325)
+*** ANTE/BLINDS ***
+gordito posts ante 100
+Hi-JAQs posts ante 100
+sabre_laser posts ante 100
+jos57690 posts ante 100
+gordito posts small blind 400
+Hi-JAQs posts big blind 800
+Dealt to sabre_laser [9s Ad]
+*** PRE-FLOP *** 
+jos57690 raises 800 to 1600
+sabre_laser folds
+gordito folds
+Hi-JAQs raises 105 to 1705 and is all-in
+jos57690 calls 105
+*** FLOP *** [Td Kc 8h]
+*** TURN *** [Td Kc 8h][3d]
+*** RIVER *** [Td Kc 8h 3d][Kd]
+*** SHOW DOWN ***
+Hi-JAQs shows [Ah 7h] (One pair : Kings)
+jos57690 shows [2c 2h] (Two pairs : Kings and 2)
+jos57690 collected 4210 from pot
+*** SUMMARY ***
+Total pot 4210 | No rake
+Board: [Td Kc 8h 3d Kd]
+Seat 5: Hi-JAQs (big blind) showed [Ah 7h] and lost with One pair : Kings
+Seat 7: jos57690 showed [2c 2h] and won 4210 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #471637668808097793-32-1423849367 - Holdem no limit (100/400/800) - 2015/02/13 17:42:47 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 3: sabre_laser (7085)
+Seat 4: gordito (2185)
+Seat 7: jos57690 (5730)
+*** ANTE/BLINDS ***
+jos57690 posts ante 100
+sabre_laser posts ante 100
+gordito posts ante 100
+jos57690 posts big blind 800
+Dealt to sabre_laser [4s 3s]
+*** PRE-FLOP *** 
+sabre_laser raises 800 to 1600
+gordito folds
+jos57690 folds
+sabre_laser collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 3: sabre_laser won 2700
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #471637668808097793-33-1423849381 - Holdem no limit (100/400/800) - 2015/02/13 17:43:01 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #5 is the button
+Seat 3: sabre_laser (8085)
+Seat 4: gordito (2085)
+Seat 7: jos57690 (4830)
+*** ANTE/BLINDS ***
+jos57690 posts ante 100
+sabre_laser posts ante 100
+gordito posts ante 100
+jos57690 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [4h Jc]
+*** PRE-FLOP *** 
+gordito folds
+jos57690 folds
+sabre_laser collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 3: sabre_laser (big blind) won 1500
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #471637668808097793-34-1423849397 - Holdem no limit (100/400/800) - 2015/02/13 17:43:17 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #7 is the button
+Seat 3: sabre_laser (8685)
+Seat 4: gordito (1985)
+Seat 7: jos57690 (4330)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+gordito posts ante 100
+jos57690 posts ante 100
+sabre_laser posts small blind 400
+gordito posts big blind 800
+Dealt to sabre_laser [6d 7h]
+*** PRE-FLOP *** 
+jos57690 raises 800 to 1600
+sabre_laser folds
+gordito raises 285 to 1885 and is all-in
+jos57690 calls 285
+*** FLOP *** [8s 5s 3s]
+*** TURN *** [8s 5s 3s][Kh]
+*** RIVER *** [8s 5s 3s Kh][3c]
+*** SHOW DOWN ***
+jos57690 shows [Ad 9h] (One pair : 3)
+gordito shows [2c 2h] (Two pairs : 3 and 2)
+gordito collected 4470 from pot
+*** SUMMARY ***
+Total pot 4470 | No rake
+Board: [8s 5s 3s Kh 3c]
+Seat 4: gordito (big blind) showed [2c 2h] and won 4470 with Two pairs : 3 and 2
+Seat 7: jos57690 (button) showed [Ad 9h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #471637668808097793-35-1423849432 - Holdem no limit (100/400/800) - 2015/02/13 17:43:52 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 3: sabre_laser (8185)
+Seat 4: gordito (4470)
+Seat 7: jos57690 (2345)
+*** ANTE/BLINDS ***
+gordito posts ante 100
+jos57690 posts ante 100
+sabre_laser posts ante 100
+gordito posts small blind 400
+jos57690 posts big blind 800
+Dealt to sabre_laser [3s 3h]
+*** PRE-FLOP *** 
+sabre_laser raises 7285 to 8085 and is all-in
+gordito folds
+jos57690 folds
+sabre_laser collected 9585 from pot
+*** SUMMARY ***
+Total pot 9585 | No rake
+Seat 3: sabre_laser (button) won 9585
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #471637668808097793-36-1423849454 - Holdem no limit (100/400/800) - 2015/02/13 17:44:14 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 3: sabre_laser (9585)
+Seat 4: gordito (3970)
+Seat 7: jos57690 (1445)
+*** ANTE/BLINDS ***
+jos57690 posts ante 100
+sabre_laser posts ante 100
+gordito posts ante 100
+jos57690 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [8c 9d]
+*** PRE-FLOP *** 
+gordito folds
+jos57690 raises 545 to 1345 and is all-in
+sabre_laser calls 545
+*** FLOP *** [As Ah 8d]
+*** TURN *** [As Ah 8d][9h]
+*** RIVER *** [As Ah 8d 9h][5d]
+*** SHOW DOWN ***
+jos57690 shows [Qc Kd] (One pair : Aces)
+sabre_laser shows [8c 9d] (Two pairs : Aces and 9)
+sabre_laser collected 2990 from pot
+*** SUMMARY ***
+Total pot 2990 | No rake
+Board: [As Ah 8d 9h 5d]
+Seat 3: sabre_laser (big blind) showed [8c 9d] and won 2990 with Two pairs : Aces and 9
+Seat 7: jos57690 (small blind) showed [Qc Kd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #471637668808097793-37-1423849482 - Holdem no limit (100/400/800) - 2015/02/13 17:44:42 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 3: sabre_laser (11130)
+Seat 4: gordito (3870)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+gordito posts ante 100
+sabre_laser posts small blind 400
+gordito posts big blind 800
+Dealt to sabre_laser [4s 9s]
+*** PRE-FLOP *** 
+sabre_laser calls 400
+gordito checks
+*** FLOP *** [7h Jd 9c]
+gordito checks
+sabre_laser bets 1600
+gordito calls 1600
+*** TURN *** [7h Jd 9c][Jc]
+gordito bets 1370 and is all-in
+sabre_laser calls 1370
+*** RIVER *** [7h Jd 9c Jc][Ac]
+*** SHOW DOWN ***
+sabre_laser shows [4s 9s] (Two pairs : Jacks and 9)
+gordito shows [8d Tc] (Straight Jack high)
+gordito collected 7740 from pot
+*** SUMMARY ***
+Total pot 7740 | No rake
+Board: [7h Jd 9c Jc Ac]
+Seat 3: sabre_laser (small blind) (button) showed [4s 9s] and lost with Two pairs : Jacks and 9
+Seat 4: gordito (big blind) showed [8d Tc] and won 7740 with Straight Jack high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #471637668808097793-38-1423849543 - Holdem no limit (125/500/1000) - 2015/02/13 17:45:43 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 3: sabre_laser (7260)
+Seat 4: gordito (7740)
+*** ANTE/BLINDS ***
+gordito posts ante 125
+sabre_laser posts ante 125
+gordito posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [8c 7d]
+*** PRE-FLOP *** 
+gordito raises 1000 to 2000
+sabre_laser calls 1000
+*** FLOP *** [3d Td As]
+sabre_laser checks
+gordito bets 2125
+sabre_laser folds
+gordito collected 6375 from pot
+*** SUMMARY ***
+Total pot 6375 | No rake
+Board: [3d Td As]
+Seat 4: gordito (small blind) (button) won 6375
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #471637668808097793-39-1423849577 - Holdem no limit (125/500/1000) - 2015/02/13 17:46:17 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 3: sabre_laser (5135)
+Seat 4: gordito (9865)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 125
+gordito posts ante 125
+sabre_laser posts small blind 500
+gordito posts big blind 1000
+Dealt to sabre_laser [3d Td]
+*** PRE-FLOP *** 
+sabre_laser calls 500
+gordito checks
+*** FLOP *** [Jc 2c Kh]
+gordito bets 1500
+sabre_laser folds
+gordito collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | No rake
+Board: [Jc 2c Kh]
+Seat 4: gordito (big blind) won 3750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #471637668808097793-40-1423849620 - Holdem no limit (125/500/1000) - 2015/02/13 17:47:00 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 3: sabre_laser (4010)
+Seat 4: gordito (10990)
+*** ANTE/BLINDS ***
+gordito posts ante 125
+sabre_laser posts ante 125
+gordito posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [9h 5d]
+*** PRE-FLOP *** 
+gordito calls 500
+sabre_laser checks
+*** FLOP *** [4c Ts 8c]
+sabre_laser bets 2885 and is all-in
+gordito folds
+sabre_laser collected 5135 from pot
+*** SUMMARY ***
+Total pot 5135 | No rake
+Board: [4c Ts 8c]
+Seat 3: sabre_laser (big blind) won 5135
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #471637668808097793-41-1423849663 - Holdem no limit (125/500/1000) - 2015/02/13 17:47:43 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #3 is the button
+Seat 3: sabre_laser (5135)
+Seat 4: gordito (9865)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 125
+gordito posts ante 125
+sabre_laser posts small blind 500
+gordito posts big blind 1000
+Dealt to sabre_laser [5d Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+gordito collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Seat 4: gordito (big blind) won 1750
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 13 - HandId: #471637668808097793-42-1423849673 - Holdem no limit (150/600/1200) - 2015/02/13 17:47:53 UTC
+Table: 'No Limit Hold'em(109811702)#0' 10-max (real money) Seat #4 is the button
+Seat 3: sabre_laser (4510)
+Seat 4: gordito (10490)
+*** ANTE/BLINDS ***
+gordito posts ante 150
+sabre_laser posts ante 150
+gordito posts small blind 600
+sabre_laser posts big blind 1200
+Dealt to sabre_laser [7s 6c]
+*** PRE-FLOP *** 
+gordito raises 2400 to 3600
+sabre_laser raises 760 to 4360 and is all-in
+gordito calls 760
+*** FLOP *** [Kc Qh Jd]
+*** TURN *** [Kc Qh Jd][4c]
+*** RIVER *** [Kc Qh Jd 4c][Kd]
+*** SHOW DOWN ***
+sabre_laser shows [7s 6c] (One pair : Kings)
+gordito shows [Ac 4h] (Two pairs : Kings and 4)
+gordito collected 9020 from pot
+*** SUMMARY ***
+Total pot 9020 | No rake
+Board: [Kc Qh Jd 4c Kd]
+Seat 3: sabre_laser (big blind) showed [7s 6c] and lost with One pair : Kings
+Seat 4: gordito (small blind) (button) showed [Ac 4h] and won 9020 with Two pairs : Kings and 4
+
+

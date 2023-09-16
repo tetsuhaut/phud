@@ -1,0 +1,485 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563275894194438145-1-1442519819 - Holdem no limit (10/20) - 2015/09/17 19:56:59 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1500)
+Seat 3: lamouche61 (1500)
+Seat 4: HlnP (1500)
+Seat 5: Fullcoach (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Askel17 (1500)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+lamouche61 posts small blind 10
+HlnP posts big blind 20
+Dealt to sabre_laser [8s 7h]
+*** PRE-FLOP *** 
+Fullcoach folds
+sabre_laser folds
+Askel17 folds
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- raises 80 to 100
+lamouche61 folds
+HlnP folds
+-Navajo- collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Seat 2: -Navajo- (button) won 130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563275894194438145-2-1442519864 - Holdem no limit (10/20) - 2015/09/17 19:57:44 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1530)
+Seat 3: lamouche61 (1490)
+Seat 4: HlnP (1480)
+Seat 5: Fullcoach (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Askel17 (1500)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+HlnP posts small blind 10
+Fullcoach posts big blind 20
+Dealt to sabre_laser [Qh 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Askel17 raises 40 to 60
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- folds
+lamouche61 folds
+HlnP folds
+Fullcoach raises 60 to 120
+Askel17 calls 60
+*** FLOP *** [6d Jd 6h]
+Fullcoach bets 100
+Askel17 calls 100
+*** TURN *** [6d Jd 6h][Ad]
+Fullcoach bets 100
+Askel17 raises 300 to 400
+Fullcoach calls 300
+*** RIVER *** [6d Jd 6h Ad][7s]
+Fullcoach bets 100
+Askel17 folds
+Fullcoach collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [6d Jd 6h Ad 7s]
+Seat 5: Fullcoach (big blind) won 1350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563275894194438145-3-1442519966 - Holdem no limit (10/20) - 2015/09/17 19:59:26 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1530)
+Seat 3: lamouche61 (1490)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2130)
+Seat 6: sabre_laser (1500)
+Seat 7: Askel17 (880)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+Fullcoach posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [9d Js]
+*** PRE-FLOP *** 
+Askel17 folds
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- raises 80 to 100
+lamouche61 calls 100
+HlnP folds
+Fullcoach folds
+sabre_laser folds
+*** FLOP *** [Kh 9c Ac]
+-Navajo- checks
+lamouche61 bets 50
+-Navajo- calls 50
+*** TURN *** [Kh 9c Ac][Qh]
+-Navajo- checks
+lamouche61 bets 165
+-Navajo- folds
+lamouche61 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [Kh 9c Ac Qh]
+Seat 3: lamouche61 won 495
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563275894194438145-4-1442520020 - Holdem no limit (10/20) - 2015/09/17 20:00:20 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1380)
+Seat 3: lamouche61 (1670)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1480)
+Seat 7: Askel17 (880)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Askel17 posts big blind 20
+Dealt to sabre_laser [3d 9h]
+*** PRE-FLOP *** 
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- folds
+lamouche61 calls 20
+HlnP folds
+Fullcoach folds
+sabre_laser folds
+Askel17 checks
+*** FLOP *** [4h 7h 7s]
+Askel17 bets 20
+lamouche61 raises 60 to 80
+Askel17 calls 60
+*** TURN *** [4h 7h 7s][2c]
+Askel17 checks
+lamouche61 bets 80
+Askel17 calls 80
+*** RIVER *** [4h 7h 7s 2c][Kd]
+Askel17 checks
+lamouche61 bets 150
+Askel17 raises 210 to 360
+lamouche61 calls 210
+*** SHOW DOWN ***
+lamouche61 shows [7d Jd] (Trips of 7)
+Askel17 shows [7c Qc] (Trips of 7)
+Askel17 collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [4h 7h 7s 2c Kd]
+Seat 3: lamouche61 showed [7d Jd] and lost with Trips of 7
+Seat 7: Askel17 (big blind) showed [7c Qc] and won 1090 with Trips of 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563275894194438145-5-1442520082 - Holdem no limit (10/20) - 2015/09/17 20:01:22 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1380)
+Seat 3: lamouche61 (1130)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1470)
+Seat 7: Askel17 (1430)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+Askel17 posts small blind 10
+Mars_Attack posts big blind 20
+Dealt to sabre_laser [9c 4h]
+*** PRE-FLOP *** 
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- folds
+lamouche61 folds
+HlnP folds
+Fullcoach folds
+sabre_laser folds
+Askel17 folds
+Mars_Attack collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 8: Mars_Attack (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563275894194438145-6-1442520104 - Holdem no limit (10/20) - 2015/09/17 20:01:44 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1380)
+Seat 3: lamouche61 (1130)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1470)
+Seat 7: Askel17 (1420)
+Seat 8: Mars_Attack (1510)
+Seat 9: Carles-25 (1500)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 10
+Carles-25 posts big blind 20
+Dealt to sabre_laser [Qd 7d]
+*** PRE-FLOP *** 
+raidden02 folds
+Double upMan folds
+-Navajo- folds
+lamouche61 folds
+HlnP folds
+Fullcoach folds
+sabre_laser folds
+Askel17 folds
+Mars_Attack folds
+Carles-25 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 9: Carles-25 (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #563275894194438145-7-1442520124 - Holdem no limit (10/20) - 2015/09/17 20:02:04 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1380)
+Seat 3: lamouche61 (1130)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1470)
+Seat 7: Askel17 (1420)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1510)
+Seat 10: raidden02 (1500)
+*** ANTE/BLINDS ***
+Carles-25 posts small blind 10
+raidden02 posts big blind 20
+Dealt to sabre_laser [2c As]
+*** PRE-FLOP *** 
+Double upMan folds
+-Navajo- folds
+lamouche61 folds
+HlnP folds
+Fullcoach folds
+sabre_laser raises 30 to 50
+Askel17 folds
+Mars_Attack folds
+Carles-25 calls 40
+raidden02 folds
+*** FLOP *** [4s 2s 9h]
+Carles-25 bets 60
+sabre_laser calls 60
+*** TURN *** [4s 2s 9h][6s]
+Carles-25 checks
+sabre_laser bets 80
+Carles-25 raises 80 to 160
+sabre_laser calls 80
+*** RIVER *** [4s 2s 9h 6s][Kc]
+Carles-25 bets 280
+sabre_laser folds
+Carles-25 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [4s 2s 9h 6s Kc]
+Seat 9: Carles-25 (small blind) won 840
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563275894194438145-8-1442520215 - Holdem no limit (15/30) - 2015/09/17 20:03:35 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Double upMan (1500)
+Seat 2: -Navajo- (1380)
+Seat 3: lamouche61 (1130)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1200)
+Seat 7: Askel17 (1420)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1800)
+Seat 10: raidden02 (1480)
+*** ANTE/BLINDS ***
+raidden02 posts small blind 15
+Double upMan posts big blind 30
+Dealt to sabre_laser [Ah 5s]
+*** PRE-FLOP *** 
+-Navajo- folds
+lamouche61 calls 30
+HlnP folds
+Fullcoach folds
+sabre_laser folds
+Askel17 folds
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan checks
+*** FLOP *** [5c 5d Ad]
+Double upMan checks
+lamouche61 bets 30
+Double upMan folds
+lamouche61 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [5c 5d Ad]
+Seat 3: lamouche61 won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563275894194438145-9-1442520239 - Holdem no limit (15/30) - 2015/09/17 20:03:59 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Double upMan (1470)
+Seat 2: -Navajo- (1380)
+Seat 3: lamouche61 (1175)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1200)
+Seat 7: Askel17 (1420)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1800)
+Seat 10: raidden02 (1465)
+*** ANTE/BLINDS ***
+Double upMan posts small blind 15
+-Navajo- posts big blind 30
+Dealt to sabre_laser [8s Kc]
+*** PRE-FLOP *** 
+lamouche61 calls 30
+HlnP folds
+Fullcoach folds
+sabre_laser folds
+Askel17 folds
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan raises 30 to 60
+-Navajo- folds
+lamouche61 calls 30
+*** FLOP *** [6c 4s As]
+Double upMan bets 75
+lamouche61 calls 75
+*** TURN *** [6c 4s As][7s]
+Double upMan checks
+lamouche61 checks
+*** RIVER *** [6c 4s As 7s][9h]
+Double upMan bets 30
+lamouche61 calls 30
+*** SHOW DOWN ***
+Double upMan shows [9d Kd] (One pair : 9)
+lamouche61 shows [Ad 5c] (One pair : Aces)
+lamouche61 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6c 4s As 7s 9h]
+Seat 1: Double upMan (small blind) showed [9d Kd] and lost with One pair : 9
+Seat 3: lamouche61 showed [Ad 5c] and won 360 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563275894194438145-10-1442520275 - Holdem no limit (15/30) - 2015/09/17 20:04:35 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Double upMan (1305)
+Seat 2: -Navajo- (1350)
+Seat 3: lamouche61 (1370)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1200)
+Seat 7: Askel17 (1420)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1800)
+Seat 10: raidden02 (1465)
+*** ANTE/BLINDS ***
+-Navajo- posts small blind 15
+lamouche61 posts big blind 30
+Dealt to sabre_laser [5h Kh]
+*** PRE-FLOP *** 
+HlnP folds
+Fullcoach folds
+sabre_laser folds
+Askel17 folds
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- folds
+lamouche61 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: lamouche61 (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563275894194438145-11-1442520312 - Holdem no limit (15/30) - 2015/09/17 20:05:12 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Double upMan (1305)
+Seat 2: -Navajo- (1335)
+Seat 3: lamouche61 (1385)
+Seat 4: HlnP (1470)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1200)
+Seat 7: Askel17 (1420)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1800)
+Seat 10: raidden02 (1465)
+*** ANTE/BLINDS ***
+lamouche61 posts small blind 15
+HlnP posts big blind 30
+Dealt to sabre_laser [3h 3d]
+*** PRE-FLOP *** 
+Fullcoach folds
+sabre_laser calls 30
+Askel17 folds
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- folds
+lamouche61 folds
+HlnP checks
+*** FLOP *** [5d 8s Jh]
+HlnP checks
+sabre_laser checks
+*** TURN *** [5d 8s Jh][2h]
+HlnP bets 50
+sabre_laser folds
+HlnP collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [5d 8s Jh 2h]
+Seat 4: HlnP (big blind) won 125
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #563275894194438145-12-1442520364 - Holdem no limit (15/30) - 2015/09/17 20:06:04 UTC
+Table: 'Double or Nothing(131147889)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Double upMan (1305)
+Seat 2: -Navajo- (1335)
+Seat 3: lamouche61 (1370)
+Seat 4: HlnP (1515)
+Seat 5: Fullcoach (2120)
+Seat 6: sabre_laser (1170)
+Seat 7: Askel17 (1420)
+Seat 8: Mars_Attack (1500)
+Seat 9: Carles-25 (1800)
+Seat 10: raidden02 (1465)
+*** ANTE/BLINDS ***
+HlnP posts small blind 15
+Fullcoach posts big blind 30
+Dealt to sabre_laser [Ks Js]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 90
+Askel17 folds
+Mars_Attack folds
+Carles-25 folds
+raidden02 folds
+Double upMan folds
+-Navajo- raises 360 to 450
+lamouche61 folds
+HlnP folds
+Fullcoach folds
+sabre_laser calls 360
+*** FLOP *** [2c 7c 6h]
+sabre_laser checks
+-Navajo- checks
+*** TURN *** [2c 7c 6h][Jh]
+sabre_laser bets 255
+-Navajo- raises 630 to 885 and is all-in
+sabre_laser calls 465 and is all-in
+*** RIVER *** [2c 7c 6h Jh][3d]
+*** SHOW DOWN ***
+sabre_laser shows [Ks Js] (One pair : Jacks)
+-Navajo- shows [As Jd] (One pair : Jacks)
+-Navajo- collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [2c 7c 6h Jh 3d]
+Seat 2: -Navajo- showed [As Jd] and won 2550 with One pair : Jacks
+Seat 6: sabre_laser showed [Ks Js] and lost with One pair : Jacks
+
+

@@ -1,0 +1,1050 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #556669809291427841-1-1441404618 - Holdem no limit (10/20) - 2015/09/04 22:10:18 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: fabauer (1500)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: sebharry1976 (1500)
+Seat 5: Raoulcalamar (1500)
+Seat 6: x JPR (1500)
+Seat 7: cricri.t (1500)
+Seat 8: greg-sab (1500)
+Seat 9: edelweiss87 (1500)
+Seat 10: ofelietof (1500)
+*** ANTE/BLINDS ***
+ofelietof posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Qh Ks]
+*** PRE-FLOP *** 
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t raises 80 to 100
+greg-sab folds
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+cricri.t collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Seat 7: cricri.t won 130
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #556669809291427841-2-1441404776 - Holdem no limit (10/20) - 2015/09/04 22:12:56 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1480)
+Seat 2: fabauer (1500)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: sebharry1976 (1500)
+Seat 5: Raoulcalamar (1500)
+Seat 6: x JPR (1500)
+Seat 7: cricri.t (1530)
+Seat 8: greg-sab (1500)
+Seat 9: edelweiss87 (1500)
+Seat 10: ofelietof (1490)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+fabauer posts big blind 20
+Dealt to sabre_laser [Kh Qh]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+ofelietof raises 40 to 60
+sabre_laser calls 50
+fabauer folds
+*** FLOP *** [5s 9h 4s]
+sabre_laser checks
+ofelietof bets 20
+sabre_laser calls 20
+*** TURN *** [5s 9h 4s][6c]
+sabre_laser checks
+ofelietof bets 20
+sabre_laser calls 20
+*** RIVER *** [5s 9h 4s 6c][2h]
+sabre_laser checks
+ofelietof bets 20
+sabre_laser calls 20
+*** SHOW DOWN ***
+sabre_laser shows [Kh Qh] (High card : King)
+ofelietof shows [Js Ad] (High card : Ace)
+ofelietof collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [5s 9h 4s 6c 2h]
+Seat 1: sabre_laser (small blind) showed [Kh Qh] and lost with High card : King
+Seat 10: ofelietof (button) showed [Js Ad] and won 260 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #556669809291427841-3-1441404857 - Holdem no limit (10/20) - 2015/09/04 22:14:17 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1360)
+Seat 2: fabauer (1480)
+Seat 3: L4B3LVi3 (1500)
+Seat 4: sebharry1976 (1500)
+Seat 5: Raoulcalamar (1500)
+Seat 6: x JPR (1500)
+Seat 7: cricri.t (1530)
+Seat 8: greg-sab (1500)
+Seat 9: edelweiss87 (1500)
+Seat 10: ofelietof (1630)
+*** ANTE/BLINDS ***
+fabauer posts small blind 10
+L4B3LVi3 posts big blind 20
+Dealt to sabre_laser [3s Js]
+*** PRE-FLOP *** 
+sebharry1976 folds
+Raoulcalamar folds
+x JPR calls 20
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 checks
+*** FLOP *** [Qd Jd Ad]
+L4B3LVi3 checks
+x JPR checks
+*** TURN *** [Qd Jd Ad][2d]
+L4B3LVi3 checks
+x JPR bets 20
+L4B3LVi3 folds
+x JPR collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Qd Jd Ad 2d]
+Seat 6: x JPR won 70
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #556669809291427841-4-1441404917 - Holdem no limit (10/20) - 2015/09/04 22:15:17 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1360)
+Seat 2: fabauer (1470)
+Seat 3: L4B3LVi3 (1480)
+Seat 4: sebharry1976 (1500)
+Seat 5: Raoulcalamar (1500)
+Seat 6: x JPR (1530)
+Seat 7: cricri.t (1530)
+Seat 8: greg-sab (1500)
+Seat 9: edelweiss87 (1500)
+Seat 10: ofelietof (1630)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 10
+sebharry1976 posts big blind 20
+Dealt to sabre_laser [Kc 5h]
+*** PRE-FLOP *** 
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+ofelietof calls 20
+sabre_laser folds
+fabauer raises 40 to 60
+L4B3LVi3 folds
+sebharry1976 folds
+ofelietof calls 40
+*** FLOP *** [5s 2d Qc]
+ofelietof checks
+fabauer checks
+*** TURN *** [5s 2d Qc][8c]
+ofelietof checks
+fabauer checks
+*** RIVER *** [5s 2d Qc 8c][9s]
+ofelietof checks
+fabauer checks
+*** SHOW DOWN ***
+fabauer shows [Td As] (High card : Ace)
+ofelietof shows [Jh Ac] (High card : Ace)
+ofelietof collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5s 2d Qc 8c 9s]
+Seat 2: fabauer (button) showed [Td As] and lost with High card : Ace
+Seat 10: ofelietof showed [Jh Ac] and won 150 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556669809291427841-5-1441404990 - Holdem no limit (15/30) - 2015/09/04 22:16:30 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1360)
+Seat 2: fabauer (1410)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1480)
+Seat 5: Raoulcalamar (1500)
+Seat 6: x JPR (1530)
+Seat 7: cricri.t (1530)
+Seat 8: greg-sab (1500)
+Seat 9: edelweiss87 (1500)
+Seat 10: ofelietof (1720)
+*** ANTE/BLINDS ***
+sebharry1976 posts small blind 15
+Raoulcalamar posts big blind 30
+Dealt to sabre_laser [4d 3h]
+*** PRE-FLOP *** 
+x JPR folds
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer raises 60 to 90
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+fabauer collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: fabauer won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556669809291427841-6-1441405075 - Holdem no limit (15/30) - 2015/09/04 22:17:55 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1360)
+Seat 2: fabauer (1455)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1465)
+Seat 5: Raoulcalamar (1470)
+Seat 6: x JPR (1530)
+Seat 7: cricri.t (1530)
+Seat 8: greg-sab (1500)
+Seat 9: edelweiss87 (1500)
+Seat 10: ofelietof (1720)
+*** ANTE/BLINDS ***
+Raoulcalamar posts small blind 15
+x JPR posts big blind 30
+Dealt to sabre_laser [8c Kc]
+*** PRE-FLOP *** 
+cricri.t calls 30
+greg-sab folds
+edelweiss87 calls 30
+ofelietof folds
+sabre_laser calls 30
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 raises 420 to 450
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+edelweiss87 folds
+sabre_laser folds
+sebharry1976 collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 4: sebharry1976 (button) won 585
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556669809291427841-7-1441405152 - Holdem no limit (15/30) - 2015/09/04 22:19:12 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1330)
+Seat 2: fabauer (1455)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1600)
+Seat 5: Raoulcalamar (1455)
+Seat 6: x JPR (1500)
+Seat 7: cricri.t (1500)
+Seat 8: greg-sab (1500)
+Seat 9: edelweiss87 (1470)
+Seat 10: ofelietof (1720)
+*** ANTE/BLINDS ***
+x JPR posts small blind 15
+cricri.t posts big blind 30
+Dealt to sabre_laser [4c 6d]
+*** PRE-FLOP *** 
+greg-sab raises 60 to 90
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t calls 60
+*** FLOP *** [Qh Ac 8s]
+cricri.t checks
+greg-sab checks
+*** TURN *** [Qh Ac 8s][4h]
+cricri.t checks
+greg-sab checks
+*** RIVER *** [Qh Ac 8s 4h][3c]
+cricri.t checks
+greg-sab bets 195
+cricri.t folds
+greg-sab shows [Ah As] (Trips of Aces)
+greg-sab collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Qh Ac 8s 4h 3c]
+Seat 8: greg-sab showed [Ah As] and won 390 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #556669809291427841-8-1441405216 - Holdem no limit (15/30) - 2015/09/04 22:20:16 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1330)
+Seat 2: fabauer (1455)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1600)
+Seat 5: Raoulcalamar (1455)
+Seat 6: x JPR (1485)
+Seat 7: cricri.t (1410)
+Seat 8: greg-sab (1605)
+Seat 9: edelweiss87 (1470)
+Seat 10: ofelietof (1720)
+*** ANTE/BLINDS ***
+cricri.t posts small blind 15
+greg-sab posts big blind 30
+Dealt to sabre_laser [4d Qh]
+*** PRE-FLOP *** 
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer raises 60 to 90
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar calls 90
+x JPR calls 90
+cricri.t folds
+greg-sab folds
+*** FLOP *** [5d 9h Js]
+fabauer checks
+Raoulcalamar checks
+x JPR checks
+*** TURN *** [5d 9h Js][9d]
+fabauer checks
+Raoulcalamar checks
+x JPR checks
+*** RIVER *** [5d 9h Js 9d][8c]
+fabauer checks
+Raoulcalamar checks
+x JPR bets 30
+fabauer folds
+Raoulcalamar calls 30
+*** SHOW DOWN ***
+Raoulcalamar shows [Ks Ad] (One pair : 9)
+x JPR shows [8s As] (Two pairs : 9 and 8)
+x JPR collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [5d 9h Js 9d 8c]
+Seat 5: Raoulcalamar showed [Ks Ad] and lost with One pair : 9
+Seat 6: x JPR (button) showed [8s As] and won 375 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #556669809291427841-9-1441405342 - Holdem no limit (20/40) - 2015/09/04 22:22:22 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1330)
+Seat 2: fabauer (1365)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1600)
+Seat 5: Raoulcalamar (1335)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1575)
+Seat 9: edelweiss87 (1470)
+Seat 10: ofelietof (1720)
+*** ANTE/BLINDS ***
+greg-sab posts small blind 20
+edelweiss87 posts big blind 40
+Dealt to sabre_laser [6d Ts]
+*** PRE-FLOP *** 
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 raises 160 to 200
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+sebharry1976 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 4: sebharry1976 won 260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #556669809291427841-10-1441405378 - Holdem no limit (20/40) - 2015/09/04 22:22:58 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1330)
+Seat 2: fabauer (1365)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1660)
+Seat 5: Raoulcalamar (1335)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1555)
+Seat 9: edelweiss87 (1430)
+Seat 10: ofelietof (1720)
+*** ANTE/BLINDS ***
+edelweiss87 posts small blind 20
+ofelietof posts big blind 40
+Dealt to sabre_laser [8s 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab calls 40
+edelweiss87 calls 20
+ofelietof checks
+*** FLOP *** [4s 2c 7h]
+edelweiss87 bets 40
+ofelietof calls 40
+greg-sab calls 40
+*** TURN *** [4s 2c 7h][4d]
+edelweiss87 checks
+ofelietof checks
+greg-sab checks
+*** RIVER *** [4s 2c 7h 4d][3h]
+edelweiss87 checks
+ofelietof bets 120
+greg-sab folds
+edelweiss87 folds
+ofelietof collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [4s 2c 7h 4d 3h]
+Seat 10: ofelietof (big blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #556669809291427841-11-1441405455 - Holdem no limit (20/40) - 2015/09/04 22:24:15 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1330)
+Seat 2: fabauer (1365)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1660)
+Seat 5: Raoulcalamar (1335)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1475)
+Seat 9: edelweiss87 (1350)
+Seat 10: ofelietof (1880)
+*** ANTE/BLINDS ***
+ofelietof posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Kd Ah]
+*** PRE-FLOP *** 
+fabauer calls 40
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab calls 40
+edelweiss87 folds
+ofelietof folds
+sabre_laser raises 140 to 180
+fabauer folds
+greg-sab folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: sabre_laser (big blind) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #556669809291427841-12-1441405484 - Holdem no limit (20/40) - 2015/09/04 22:24:44 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1430)
+Seat 2: fabauer (1325)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1660)
+Seat 5: Raoulcalamar (1335)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1435)
+Seat 9: edelweiss87 (1350)
+Seat 10: ofelietof (1860)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+fabauer posts big blind 40
+Dealt to sabre_laser [Jc 2s]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+ofelietof raises 40 to 80
+sabre_laser folds
+fabauer calls 40
+*** FLOP *** [Jd Qh 5s]
+fabauer checks
+ofelietof bets 40
+fabauer folds
+ofelietof collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Jd Qh 5s]
+Seat 10: ofelietof (button) won 220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #556669809291427841-13-1441405526 - Holdem no limit (20/40) - 2015/09/04 22:25:26 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1245)
+Seat 3: L4B3LVi3 (1470)
+Seat 4: sebharry1976 (1660)
+Seat 5: Raoulcalamar (1335)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1435)
+Seat 9: edelweiss87 (1350)
+Seat 10: ofelietof (1960)
+*** ANTE/BLINDS ***
+fabauer posts small blind 20
+L4B3LVi3 posts big blind 40
+Dealt to sabre_laser [Th 3c]
+*** PRE-FLOP *** 
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab raises 40 to 80
+edelweiss87 calls 80
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+*** FLOP *** [8s 4c Jh]
+greg-sab bets 80
+edelweiss87 raises 80 to 160
+greg-sab calls 80
+*** TURN *** [8s 4c Jh][8c]
+greg-sab bets 80
+edelweiss87 calls 80
+*** RIVER *** [8s 4c Jh 8c][Kc]
+greg-sab bets 100
+edelweiss87 calls 100
+*** SHOW DOWN ***
+edelweiss87 shows [7h 7c] (Two pairs : 8 and 7)
+greg-sab shows [Qh Qc] (Two pairs : Queens and 8)
+greg-sab collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 4c Jh 8c Kc]
+Seat 8: greg-sab showed [Qh Qc] and won 900 with Two pairs : Queens and 8
+Seat 9: edelweiss87 showed [7h 7c] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #556669809291427841-14-1441405607 - Holdem no limit (20/40) - 2015/09/04 22:26:47 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1225)
+Seat 3: L4B3LVi3 (1430)
+Seat 4: sebharry1976 (1660)
+Seat 5: Raoulcalamar (1335)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1915)
+Seat 9: edelweiss87 (930)
+Seat 10: ofelietof (1960)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 20
+sebharry1976 posts big blind 40
+Dealt to sabre_laser [2h Js]
+*** PRE-FLOP *** 
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab calls 40
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 checks
+*** FLOP *** [Td Th Kh]
+sebharry1976 checks
+greg-sab checks
+*** TURN *** [Td Th Kh][7c]
+sebharry1976 checks
+greg-sab checks
+*** RIVER *** [Td Th Kh 7c][Tc]
+sebharry1976 checks
+greg-sab checks
+*** SHOW DOWN ***
+sebharry1976 shows [4s Ah] (Trips of Tens)
+greg-sab shows [Ad 2c] (Trips of Tens)
+greg-sab collected 50 from pot
+sebharry1976 collected 50 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Td Th Kh 7c Tc]
+Seat 4: sebharry1976 (big blind) showed [4s Ah] and won 50 with Trips of Tens
+Seat 8: greg-sab showed [Ad 2c] and won 50 with Trips of Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #556669809291427841-15-1441405664 - Holdem no limit (20/40) - 2015/09/04 22:27:44 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1225)
+Seat 3: L4B3LVi3 (1410)
+Seat 4: sebharry1976 (1670)
+Seat 5: Raoulcalamar (1335)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1925)
+Seat 9: edelweiss87 (930)
+Seat 10: ofelietof (1960)
+*** ANTE/BLINDS ***
+sebharry1976 posts small blind 20
+Raoulcalamar posts big blind 40
+Dealt to sabre_laser [Ts 7d]
+*** PRE-FLOP *** 
+x JPR folds
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+ofelietof raises 40 to 80
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+ofelietof collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 10: ofelietof won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #556669809291427841-16-1441405730 - Holdem no limit (30/60) - 2015/09/04 22:28:50 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1225)
+Seat 3: L4B3LVi3 (1410)
+Seat 4: sebharry1976 (1650)
+Seat 5: Raoulcalamar (1295)
+Seat 6: x JPR (1740)
+Seat 7: cricri.t (1395)
+Seat 8: greg-sab (1925)
+Seat 9: edelweiss87 (930)
+Seat 10: ofelietof (2020)
+*** ANTE/BLINDS ***
+Raoulcalamar posts small blind 30
+x JPR posts big blind 60
+Dealt to sabre_laser [3c 3s]
+*** PRE-FLOP *** 
+cricri.t calls 60
+greg-sab raises 90 to 150
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t calls 90
+*** FLOP *** [Ah 4c 5d]
+cricri.t checks
+greg-sab bets 120
+cricri.t folds
+greg-sab shows [Kc As] (One pair : Aces)
+greg-sab collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Ah 4c 5d]
+Seat 8: greg-sab showed [Kc As] and won 510 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #556669809291427841-17-1441405798 - Holdem no limit (30/60) - 2015/09/04 22:29:58 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1225)
+Seat 3: L4B3LVi3 (1410)
+Seat 4: sebharry1976 (1650)
+Seat 5: Raoulcalamar (1265)
+Seat 6: x JPR (1680)
+Seat 7: cricri.t (1245)
+Seat 8: greg-sab (2165)
+Seat 9: edelweiss87 (930)
+Seat 10: ofelietof (2020)
+*** ANTE/BLINDS ***
+x JPR posts small blind 30
+cricri.t posts big blind 60
+Dealt to sabre_laser [4s 3d]
+*** PRE-FLOP *** 
+greg-sab calls 60
+edelweiss87 folds
+ofelietof calls 60
+sabre_laser folds
+fabauer calls 60
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t checks
+*** FLOP *** [7d 4d 6s]
+cricri.t checks
+greg-sab bets 90
+ofelietof calls 90
+fabauer calls 90
+cricri.t folds
+*** TURN *** [7d 4d 6s][3h]
+greg-sab checks
+ofelietof checks
+fabauer bets 360
+greg-sab calls 360
+ofelietof folds
+*** RIVER *** [7d 4d 6s 3h][2h]
+greg-sab checks
+fabauer bets 715 and is all-in
+greg-sab folds
+fabauer collected 1975 from pot
+*** SUMMARY ***
+Total pot 1975 | No rake
+Board: [7d 4d 6s 3h 2h]
+Seat 2: fabauer won 1975
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #556669809291427841-18-1441405911 - Holdem no limit (30/60) - 2015/09/04 22:31:51 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1975)
+Seat 3: L4B3LVi3 (1410)
+Seat 4: sebharry1976 (1650)
+Seat 5: Raoulcalamar (1265)
+Seat 6: x JPR (1650)
+Seat 7: cricri.t (1185)
+Seat 8: greg-sab (1655)
+Seat 9: edelweiss87 (930)
+Seat 10: ofelietof (1870)
+*** ANTE/BLINDS ***
+cricri.t posts small blind 30
+greg-sab posts big blind 60
+Dealt to sabre_laser [Qd 7h]
+*** PRE-FLOP *** 
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar calls 60
+x JPR folds
+cricri.t folds
+greg-sab checks
+*** FLOP *** [8d Jh 7c]
+greg-sab checks
+Raoulcalamar checks
+*** TURN *** [8d Jh 7c][2h]
+greg-sab checks
+Raoulcalamar checks
+*** RIVER *** [8d Jh 7c 2h][Ad]
+greg-sab checks
+Raoulcalamar bets 150
+greg-sab calls 150
+*** SHOW DOWN ***
+greg-sab shows [6c Kh] (High card : Ace)
+Raoulcalamar shows [Kc Ac] (One pair : Aces)
+Raoulcalamar collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [8d Jh 7c 2h Ad]
+Seat 5: Raoulcalamar showed [Kc Ac] and won 450 with One pair : Aces
+Seat 8: greg-sab (big blind) showed [6c Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #556669809291427841-19-1441405966 - Holdem no limit (30/60) - 2015/09/04 22:32:46 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1975)
+Seat 3: L4B3LVi3 (1410)
+Seat 4: sebharry1976 (1650)
+Seat 5: Raoulcalamar (1505)
+Seat 6: x JPR (1650)
+Seat 7: cricri.t (1155)
+Seat 8: greg-sab (1445)
+Seat 9: edelweiss87 (930)
+Seat 10: ofelietof (1870)
+*** ANTE/BLINDS ***
+greg-sab posts small blind 30
+edelweiss87 posts big blind 60
+Dealt to sabre_laser [3d Ks]
+*** PRE-FLOP *** 
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 folds
+Raoulcalamar folds
+x JPR raises 60 to 120
+cricri.t folds
+greg-sab calls 90
+edelweiss87 calls 60
+*** FLOP *** [6d Jd 8h]
+greg-sab checks
+edelweiss87 bets 360
+x JPR folds
+greg-sab folds
+edelweiss87 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6d Jd 8h]
+Seat 9: edelweiss87 (big blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #556669809291427841-20-1441406025 - Holdem no limit (30/60) - 2015/09/04 22:33:45 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1975)
+Seat 3: L4B3LVi3 (1410)
+Seat 4: sebharry1976 (1650)
+Seat 5: Raoulcalamar (1505)
+Seat 6: x JPR (1530)
+Seat 7: cricri.t (1155)
+Seat 8: greg-sab (1325)
+Seat 9: edelweiss87 (1170)
+Seat 10: ofelietof (1870)
+*** ANTE/BLINDS ***
+edelweiss87 posts small blind 30
+ofelietof posts big blind 60
+Dealt to sabre_laser [4s Ah]
+*** PRE-FLOP *** 
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 raises 240 to 300
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab calls 300
+edelweiss87 folds
+ofelietof folds
+*** FLOP *** [Jc 2h 3h]
+sebharry1976 bets 1350 and is all-in
+greg-sab calls 1025 and is all-in
+*** TURN *** [Jc 2h 3h][Kc]
+*** RIVER *** [Jc 2h 3h Kc][6c]
+*** SHOW DOWN ***
+greg-sab shows [8d 8c] (One pair : 8)
+sebharry1976 shows [Qd Td] (High card : King)
+sebharry1976 collected 325 from side pot 1
+greg-sab collected 2740 from main pot
+*** SUMMARY ***
+Total pot 3065 | No rake
+Board: [Jc 2h 3h Kc 6c]
+Seat 4: sebharry1976 showed [Qd Td] and won 325 with High card : King
+Seat 8: greg-sab (button) showed [8d 8c] and won 2740 with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #556669809291427841-21-1441406071 - Holdem no limit (40/80) - 2015/09/04 22:34:31 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: fabauer (1975)
+Seat 3: L4B3LVi3 (1410)
+Seat 4: sebharry1976 (325)
+Seat 5: Raoulcalamar (1505)
+Seat 6: x JPR (1530)
+Seat 7: cricri.t (1155)
+Seat 8: greg-sab (2740)
+Seat 9: edelweiss87 (1140)
+Seat 10: ofelietof (1810)
+*** ANTE/BLINDS ***
+ofelietof posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [2h 4c]
+*** PRE-FLOP *** 
+fabauer folds
+L4B3LVi3 folds
+sebharry1976 raises 245 to 325 and is all-in
+Raoulcalamar folds
+x JPR raises 245 to 570
+cricri.t folds
+greg-sab folds
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+*** FLOP *** [9h 8s Js]
+*** TURN *** [9h 8s Js][Ts]
+*** RIVER *** [9h 8s Js Ts][Qd]
+*** SHOW DOWN ***
+sebharry1976 shows [2d 4d] (Straight Queen high)
+x JPR shows [Ad Kd] (Straight Ace high)
+x JPR collected 1015 from pot
+*** SUMMARY ***
+Total pot 1015 | No rake
+Board: [9h 8s Js Ts Qd]
+Seat 4: sebharry1976 showed [2d 4d] and lost with Straight Queen high
+Seat 6: x JPR showed [Ad Kd] and won 1015 with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #556669809291427841-22-1441406103 - Holdem no limit (40/80) - 2015/09/04 22:35:03 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1330)
+Seat 2: fabauer (1975)
+Seat 3: L4B3LVi3 (1410)
+Seat 5: Raoulcalamar (1505)
+Seat 6: x JPR (1975)
+Seat 7: cricri.t (1155)
+Seat 8: greg-sab (2740)
+Seat 9: edelweiss87 (1140)
+Seat 10: ofelietof (1770)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+fabauer posts big blind 80
+Dealt to sabre_laser [Th 8h]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+Raoulcalamar folds
+x JPR folds
+cricri.t folds
+greg-sab calls 80
+edelweiss87 calls 80
+ofelietof folds
+sabre_laser calls 40
+fabauer checks
+*** FLOP *** [Jd 4s 9s]
+sabre_laser checks
+fabauer checks
+greg-sab checks
+edelweiss87 checks
+*** TURN *** [Jd 4s 9s][Ac]
+sabre_laser checks
+fabauer checks
+greg-sab bets 80
+edelweiss87 calls 80
+sabre_laser calls 80
+fabauer folds
+*** RIVER *** [Jd 4s 9s Ac][9c]
+sabre_laser checks
+greg-sab bets 80
+edelweiss87 folds
+sabre_laser folds
+greg-sab shows [2h Ah] (Two pairs : Aces and 9)
+greg-sab collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Jd 4s 9s Ac 9c]
+Seat 8: greg-sab showed [2h Ah] and won 640 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #556669809291427841-23-1441406163 - Holdem no limit (40/80) - 2015/09/04 22:36:03 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1170)
+Seat 2: fabauer (1895)
+Seat 3: L4B3LVi3 (1410)
+Seat 5: Raoulcalamar (1505)
+Seat 6: x JPR (1975)
+Seat 7: cricri.t (1155)
+Seat 8: greg-sab (3140)
+Seat 9: edelweiss87 (980)
+Seat 10: ofelietof (1770)
+*** ANTE/BLINDS ***
+fabauer posts small blind 40
+L4B3LVi3 posts big blind 80
+Dealt to sabre_laser [Ac Qs]
+*** PRE-FLOP *** 
+Raoulcalamar folds
+x JPR folds
+cricri.t raises 1075 to 1155 and is all-in
+greg-sab calls 1155
+edelweiss87 folds
+ofelietof folds
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+*** FLOP *** [Th 9s 4c]
+*** TURN *** [Th 9s 4c][6c]
+*** RIVER *** [Th 9s 4c 6c][Jd]
+*** SHOW DOWN ***
+cricri.t shows [8c As] (High card : Ace)
+greg-sab shows [2d 2c] (One pair : 2)
+greg-sab collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [Th 9s 4c 6c Jd]
+Seat 7: cricri.t showed [8c As] and lost with High card : Ace
+Seat 8: greg-sab showed [2d 2c] and won 2430 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #556669809291427841-24-1441406232 - Holdem no limit (40/80) - 2015/09/04 22:37:12 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1170)
+Seat 2: fabauer (1855)
+Seat 3: L4B3LVi3 (1330)
+Seat 5: Raoulcalamar (1505)
+Seat 6: x JPR (1975)
+Seat 8: greg-sab (4415)
+Seat 9: edelweiss87 (980)
+Seat 10: ofelietof (1770)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 40
+Raoulcalamar posts big blind 80
+Dealt to sabre_laser [6h 9c]
+*** PRE-FLOP *** 
+x JPR folds
+greg-sab raises 80 to 160
+edelweiss87 folds
+ofelietof calls 160
+sabre_laser folds
+fabauer folds
+L4B3LVi3 folds
+Raoulcalamar raises 1280 to 1440
+greg-sab calls 1280
+ofelietof folds
+*** FLOP *** [2h As 8s]
+Raoulcalamar bets 65 and is all-in
+greg-sab calls 65
+*** TURN *** [2h As 8s][Qc]
+*** RIVER *** [2h As 8s Qc][9s]
+*** SHOW DOWN ***
+greg-sab shows [9d Kd] (One pair : 9)
+Raoulcalamar shows [Tc Th] (One pair : Tens)
+Raoulcalamar collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Board: [2h As 8s Qc 9s]
+Seat 5: Raoulcalamar (big blind) showed [Tc Th] and won 3210 with One pair : Tens
+Seat 8: greg-sab showed [9d Kd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #556669809291427841-25-1441406294 - Holdem no limit (40/80) - 2015/09/04 22:38:14 UTC
+Table: 'Double or Nothing(129609790)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1170)
+Seat 2: fabauer (1855)
+Seat 3: L4B3LVi3 (1290)
+Seat 5: Raoulcalamar (3210)
+Seat 6: x JPR (1975)
+Seat 8: greg-sab (2910)
+Seat 9: edelweiss87 (980)
+Seat 10: ofelietof (1610)
+*** ANTE/BLINDS ***
+Raoulcalamar posts small blind 40
+x JPR posts big blind 80
+Dealt to sabre_laser [9d 9s]
+*** PRE-FLOP *** 
+greg-sab raises 120 to 200
+edelweiss87 folds
+ofelietof folds
+sabre_laser raises 970 to 1170 and is all-in
+fabauer folds
+L4B3LVi3 folds
+Raoulcalamar folds
+x JPR folds
+greg-sab calls 970
+*** FLOP *** [As Qh 5c]
+*** TURN *** [As Qh 5c][Jc]
+*** RIVER *** [As Qh 5c Jc][2s]
+*** SHOW DOWN ***
+sabre_laser shows [9d 9s] (One pair : 9)
+greg-sab shows [Qc Kh] (One pair : Queens)
+greg-sab collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [As Qh 5c Jc 2s]
+Seat 1: sabre_laser showed [9d 9s] and lost with One pair : 9
+Seat 8: greg-sab showed [Qc Kh] and won 2460 with One pair : Queens
+
+

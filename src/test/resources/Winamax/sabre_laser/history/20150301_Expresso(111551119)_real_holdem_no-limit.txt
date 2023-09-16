@@ -1,0 +1,565 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479108407937204225-1-1425245577 - Holdem no limit (10/20) - 2015/03/01 21:32:57 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sylvlefish (500)
+Seat 2: sabre_laser (500)
+Seat 3: Jules_39400 (500)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 10
+Sylvlefish posts big blind 20
+Dealt to sabre_laser [5c 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jules_39400 calls 10
+Sylvlefish checks
+*** FLOP *** [3d 7c 2c]
+Jules_39400 bets 20
+Sylvlefish calls 20
+*** TURN *** [3d 7c 2c][8d]
+Jules_39400 bets 20
+Sylvlefish calls 20
+*** RIVER *** [3d 7c 2c 8d][2h]
+Jules_39400 checks
+Sylvlefish checks
+*** SHOW DOWN ***
+Jules_39400 shows [9d Jd] (One pair : 2)
+Sylvlefish shows [As 3c] (Two pairs : 3 and 2)
+Sylvlefish collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3d 7c 2c 8d 2h]
+Seat 1: Sylvlefish (big blind) showed [As 3c] and won 120 with Two pairs : 3 and 2
+Seat 3: Jules_39400 (small blind) showed [9d Jd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479108407937204225-2-1425245616 - Holdem no limit (10/20) - 2015/03/01 21:33:36 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sylvlefish (560)
+Seat 2: sabre_laser (500)
+Seat 3: Jules_39400 (440)
+*** ANTE/BLINDS ***
+Sylvlefish posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [7s Td]
+*** PRE-FLOP *** 
+Jules_39400 calls 20
+Sylvlefish folds
+sabre_laser checks
+*** FLOP *** [5c Qd 4d]
+sabre_laser checks
+Jules_39400 checks
+*** TURN *** [5c Qd 4d][Ac]
+sabre_laser checks
+Jules_39400 checks
+*** RIVER *** [5c Qd 4d Ac][8h]
+sabre_laser bets 20
+Jules_39400 folds
+sabre_laser collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [5c Qd 4d Ac 8h]
+Seat 2: sabre_laser (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479108407937204225-3-1425245668 - Holdem no limit (10/20) - 2015/03/01 21:34:28 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sylvlefish (550)
+Seat 2: sabre_laser (530)
+Seat 3: Jules_39400 (420)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Jules_39400 posts big blind 20
+Dealt to sabre_laser [Tc Kc]
+*** PRE-FLOP *** 
+Sylvlefish folds
+sabre_laser raises 20 to 40
+Jules_39400 folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: sabre_laser (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479108407937204225-4-1425245678 - Holdem no limit (10/20) - 2015/03/01 21:34:38 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sylvlefish (550)
+Seat 2: sabre_laser (550)
+Seat 3: Jules_39400 (400)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 10
+Sylvlefish posts big blind 20
+Dealt to sabre_laser [Ts 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jules_39400 calls 10
+Sylvlefish checks
+*** FLOP *** [9h 5h 8c]
+Jules_39400 bets 20
+Sylvlefish calls 20
+*** TURN *** [9h 5h 8c][6s]
+Jules_39400 bets 20
+Sylvlefish folds
+Jules_39400 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9h 5h 8c 6s]
+Seat 3: Jules_39400 (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479108407937204225-5-1425245711 - Holdem no limit (10/20) - 2015/03/01 21:35:11 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sylvlefish (510)
+Seat 2: sabre_laser (550)
+Seat 3: Jules_39400 (440)
+*** ANTE/BLINDS ***
+Sylvlefish posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Tc 8s]
+*** PRE-FLOP *** 
+Jules_39400 folds
+Sylvlefish raises 40 to 60
+sabre_laser calls 40
+*** FLOP *** [Td 7s 9d]
+Sylvlefish bets 450 and is all-in
+sabre_laser calls 450
+*** TURN *** [Td 7s 9d][6h]
+*** RIVER *** [Td 7s 9d 6h][2s]
+*** SHOW DOWN ***
+Sylvlefish shows [Jd Js] (One pair : Jacks)
+sabre_laser shows [Tc 8s] (Straight Ten high)
+sabre_laser collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Td 7s 9d 6h 2s]
+Seat 1: Sylvlefish (small blind) showed [Jd Js] and lost with One pair : Jacks
+Seat 2: sabre_laser (big blind) showed [Tc 8s] and won 1020 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479108407937204225-6-1425245740 - Holdem no limit (10/20) - 2015/03/01 21:35:40 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (1060)
+Seat 3: Jules_39400 (440)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+Jules_39400 posts big blind 20
+Dealt to sabre_laser [Td Qd]
+*** PRE-FLOP *** 
+sabre_laser calls 10
+Jules_39400 checks
+*** FLOP *** [Ks 9c Qc]
+Jules_39400 checks
+sabre_laser bets 40
+Jules_39400 calls 40
+*** TURN *** [Ks 9c Qc][Ac]
+Jules_39400 bets 60
+sabre_laser calls 60
+*** RIVER *** [Ks 9c Qc Ac][6c]
+Jules_39400 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Td Qd] (One pair : Queens)
+Jules_39400 shows [5c 8s] (Flush Ace high)
+Jules_39400 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ks 9c Qc Ac 6c]
+Seat 2: sabre_laser (small blind) (button) showed [Td Qd] and lost with One pair : Queens
+Seat 3: Jules_39400 (big blind) showed [5c 8s] and won 240 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479108407937204225-7-1425245779 - Holdem no limit (15/30) - 2015/03/01 21:36:19 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (940)
+Seat 3: Jules_39400 (560)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Qs Ts]
+*** PRE-FLOP *** 
+Jules_39400 calls 15
+sabre_laser checks
+*** FLOP *** [4c 7h 4s]
+sabre_laser checks
+Jules_39400 bets 30
+sabre_laser folds
+Jules_39400 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4c 7h 4s]
+Seat 3: Jules_39400 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479108407937204225-8-1425245816 - Holdem no limit (15/30) - 2015/03/01 21:36:56 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (910)
+Seat 3: Jules_39400 (590)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Jules_39400 posts big blind 30
+Dealt to sabre_laser [Ks 4s]
+*** PRE-FLOP *** 
+sabre_laser calls 15
+Jules_39400 raises 30 to 60
+sabre_laser calls 30
+*** FLOP *** [2h 3c Qc]
+Jules_39400 bets 60
+sabre_laser calls 60
+*** TURN *** [2h 3c Qc][8d]
+Jules_39400 bets 120
+sabre_laser folds
+Jules_39400 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2h 3c Qc 8d]
+Seat 3: Jules_39400 (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479108407937204225-9-1425245908 - Holdem no limit (15/30) - 2015/03/01 21:38:28 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (790)
+Seat 3: Jules_39400 (710)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Jh Js]
+*** PRE-FLOP *** 
+Jules_39400 calls 15
+sabre_laser raises 45 to 75
+Jules_39400 folds
+sabre_laser collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: sabre_laser (big blind) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 1 - HandId: #479108407937204225-10-1425245923 - Holdem no limit (15/30) - 2015/03/01 21:38:43 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (820)
+Seat 3: Jules_39400 (680)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Jules_39400 posts big blind 30
+Dealt to sabre_laser [2c Kd]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 90
+Jules_39400 folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: sabre_laser (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479108407937204225-11-1425245934 - Holdem no limit (20/40) - 2015/03/01 21:38:54 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (850)
+Seat 3: Jules_39400 (650)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Jc 6c]
+*** PRE-FLOP *** 
+Jules_39400 calls 20
+sabre_laser checks
+*** FLOP *** [2c Ts Qs]
+sabre_laser checks
+Jules_39400 bets 40
+sabre_laser folds
+Jules_39400 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2c Ts Qs]
+Seat 3: Jules_39400 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479108407937204225-12-1425245969 - Holdem no limit (20/40) - 2015/03/01 21:39:29 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (810)
+Seat 3: Jules_39400 (690)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Jules_39400 posts big blind 40
+Dealt to sabre_laser [Kc Ah]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+Jules_39400 checks
+*** FLOP *** [3d 7d Td]
+Jules_39400 bets 40
+sabre_laser raises 730 to 770 and is all-in
+Jules_39400 calls 610 and is all-in
+*** TURN *** [3d 7d Td][9d]
+*** RIVER *** [3d 7d Td 9d][8d]
+*** SHOW DOWN ***
+Jules_39400 shows [7s 3s] (Flush Ten high)
+sabre_laser shows [Kc Ah] (Flush Ten high)
+sabre_laser collected 810 from side pot 1
+Jules_39400 collected 690 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [3d 7d Td 9d 8d]
+Seat 2: sabre_laser (small blind) (button) showed [Kc Ah] and won 810 with Flush Ten high
+Seat 3: Jules_39400 (big blind) showed [7s 3s] and won 690 with Flush Ten high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479108407937204225-13-1425246005 - Holdem no limit (20/40) - 2015/03/01 21:40:05 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (810)
+Seat 3: Jules_39400 (690)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [3c 3h]
+*** PRE-FLOP *** 
+Jules_39400 raises 650 to 690 and is all-in
+sabre_laser raises 120 to 810 and is all-in
+*** FLOP *** [2h As 8h]
+*** TURN *** [2h As 8h][8s]
+*** RIVER *** [2h As 8h 8s][4h]
+*** SHOW DOWN ***
+Jules_39400 shows [Jc Jh] (Two pairs : Jacks and 8)
+sabre_laser shows [3c 3h] (Two pairs : 8 and 3)
+sabre_laser collected 120 from side pot 1
+Jules_39400 collected 1380 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2h As 8h 8s 4h]
+Seat 2: sabre_laser (big blind) showed [3c 3h] and won 120 with Two pairs : 8 and 3
+Seat 3: Jules_39400 (small blind) (button) showed [Jc Jh] and won 1380 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479108407937204225-14-1425246025 - Holdem no limit (20/40) - 2015/03/01 21:40:25 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (120)
+Seat 3: Jules_39400 (1380)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Jules_39400 posts big blind 40
+Dealt to sabre_laser [9c Td]
+*** PRE-FLOP *** 
+sabre_laser raises 80 to 120 and is all-in
+Jules_39400 calls 80
+*** FLOP *** [8c 6c Jc]
+*** TURN *** [8c 6c Jc][8s]
+*** RIVER *** [8c 6c Jc 8s][7d]
+*** SHOW DOWN ***
+Jules_39400 shows [7s Ks] (Two pairs : 8 and 7)
+sabre_laser shows [9c Td] (Straight Jack high)
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c 6c Jc 8s 7d]
+Seat 2: sabre_laser (small blind) (button) showed [9c Td] and won 240 with Straight Jack high
+Seat 3: Jules_39400 (big blind) showed [7s Ks] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479108407937204225-15-1425246042 - Holdem no limit (20/40) - 2015/03/01 21:40:42 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (240)
+Seat 3: Jules_39400 (1260)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Kc 6c]
+*** PRE-FLOP *** 
+Jules_39400 calls 20
+sabre_laser raises 200 to 240 and is all-in
+Jules_39400 calls 200
+*** FLOP *** [4d Qc 2c]
+*** TURN *** [4d Qc 2c][Tc]
+*** RIVER *** [4d Qc 2c Tc][Ts]
+*** SHOW DOWN ***
+Jules_39400 shows [4h Kd] (Two pairs : Tens and 4)
+sabre_laser shows [Kc 6c] (Flush King high)
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [4d Qc 2c Tc Ts]
+Seat 2: sabre_laser (big blind) showed [Kc 6c] and won 480 with Flush King high
+Seat 3: Jules_39400 (small blind) (button) showed [4h Kd] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479108407937204225-16-1425246060 - Holdem no limit (20/40) - 2015/03/01 21:41:00 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (480)
+Seat 3: Jules_39400 (1020)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Jules_39400 posts big blind 40
+Dealt to sabre_laser [2d Ks]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+Jules_39400 checks
+*** FLOP *** [9c Tc Jh]
+Jules_39400 checks
+sabre_laser checks
+*** TURN *** [9c Tc Jh][4d]
+Jules_39400 checks
+sabre_laser bets 80
+Jules_39400 folds
+sabre_laser collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [9c Tc Jh 4d]
+Seat 2: sabre_laser (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 2 - HandId: #479108407937204225-17-1425246096 - Holdem no limit (20/40) - 2015/03/01 21:41:36 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (520)
+Seat 3: Jules_39400 (980)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [5c 6d]
+*** PRE-FLOP *** 
+Jules_39400 calls 20
+sabre_laser checks
+*** FLOP *** [Js Kh Kd]
+sabre_laser checks
+Jules_39400 checks
+*** TURN *** [Js Kh Kd][Jc]
+sabre_laser checks
+Jules_39400 bets 80
+sabre_laser folds
+Jules_39400 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Js Kh Kd Jc]
+Seat 3: Jules_39400 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479108407937204225-18-1425246142 - Holdem no limit (30/60) - 2015/03/01 21:42:22 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (480)
+Seat 3: Jules_39400 (1020)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Jules_39400 posts big blind 60
+Dealt to sabre_laser [9h 2s]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Jules_39400 checks
+*** FLOP *** [Ad 5h 7d]
+Jules_39400 checks
+sabre_laser checks
+*** TURN *** [Ad 5h 7d][Tc]
+Jules_39400 bets 60
+sabre_laser folds
+Jules_39400 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ad 5h 7d Tc]
+Seat 3: Jules_39400 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479108407937204225-19-1425246166 - Holdem no limit (30/60) - 2015/03/01 21:42:46 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (420)
+Seat 3: Jules_39400 (1080)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [3c 6c]
+*** PRE-FLOP *** 
+Jules_39400 calls 30
+sabre_laser checks
+*** FLOP *** [3h Ad 9s]
+sabre_laser bets 360 and is all-in
+Jules_39400 folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3h Ad 9s]
+Seat 2: sabre_laser (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479108407937204225-20-1425246179 - Holdem no limit (30/60) - 2015/03/01 21:42:59 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (480)
+Seat 3: Jules_39400 (1020)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Jules_39400 posts big blind 60
+Dealt to sabre_laser [9h 6s]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Jules_39400 checks
+*** FLOP *** [Ks 5d Ad]
+Jules_39400 bets 60
+sabre_laser folds
+Jules_39400 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ks 5d Ad]
+Seat 3: Jules_39400 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479108407937204225-21-1425246191 - Holdem no limit (30/60) - 2015/03/01 21:43:11 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (420)
+Seat 3: Jules_39400 (1080)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Ts 9s]
+*** PRE-FLOP *** 
+Jules_39400 raises 60 to 120
+sabre_laser raises 300 to 420 and is all-in
+Jules_39400 calls 300
+*** FLOP *** [8h Js Th]
+*** TURN *** [8h Js Th][7d]
+*** RIVER *** [8h Js Th 7d][7c]
+*** SHOW DOWN ***
+Jules_39400 shows [Ad 4h] (One pair : 7)
+sabre_laser shows [Ts 9s] (Straight Jack high)
+sabre_laser collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [8h Js Th 7d 7c]
+Seat 2: sabre_laser (big blind) showed [Ts 9s] and won 840 with Straight Jack high
+Seat 3: Jules_39400 (small blind) (button) showed [Ad 4h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479108407937204225-22-1425246208 - Holdem no limit (30/60) - 2015/03/01 21:43:28 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (840)
+Seat 3: Jules_39400 (660)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Jules_39400 posts big blind 60
+Dealt to sabre_laser [Tc 2h]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Jules_39400 raises 600 to 660 and is all-in
+sabre_laser folds
+Jules_39400 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 3: Jules_39400 (big blind) won 720
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 3 - HandId: #479108407937204225-23-1425246221 - Holdem no limit (30/60) - 2015/03/01 21:43:41 UTC
+Table: 'Expresso(111551119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (780)
+Seat 3: Jules_39400 (720)
+*** ANTE/BLINDS ***
+Jules_39400 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Kh 4h]
+*** PRE-FLOP *** 
+Jules_39400 raises 60 to 120
+sabre_laser calls 60
+*** FLOP *** [9h Kd 6d]
+sabre_laser bets 660 and is all-in
+Jules_39400 calls 600 and is all-in
+*** TURN *** [9h Kd 6d][6h]
+*** RIVER *** [9h Kd 6d 6h][5s]
+*** SHOW DOWN ***
+Jules_39400 shows [Qd 3d] (One pair : 6)
+sabre_laser shows [Kh 4h] (Two pairs : Kings and 6)
+sabre_laser collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9h Kd 6d 6h 5s]
+Seat 2: sabre_laser (big blind) showed [Kh 4h] and won 1500 with Two pairs : Kings and 6
+Seat 3: Jules_39400 (small blind) (button) showed [Qd 3d] and lost with One pair : 6
+
+

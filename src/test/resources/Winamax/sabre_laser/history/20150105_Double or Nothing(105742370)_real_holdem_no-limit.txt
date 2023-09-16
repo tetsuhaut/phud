@@ -1,0 +1,192 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #454160020951531521-1-1420484282 - Holdem no limit (10/20) - 2015/01/05 18:58:02 UTC
+Table: 'Double or Nothing(105742370)#0' 10-max (real money) Seat #3 is the button
+Seat 1: ko6k07 (1500)
+Seat 2: The-Waiter (1500)
+Seat 3: Kentoche44 (1500)
+Seat 4: Don Appling (1500)
+Seat 5: Ast0nMarteen (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: kevfourn (1500)
+Seat 8: Anarkii14 (1500)
+Seat 9: jazzyda60 (1500)
+Seat 10: crazypix (1500)
+*** ANTE/BLINDS ***
+Don Appling posts small blind 10
+Ast0nMarteen posts big blind 20
+Dealt to sabre_laser [2c 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+kevfourn folds
+Anarkii14 folds
+jazzyda60 folds
+crazypix folds
+ko6k07 folds
+The-Waiter folds
+Kentoche44 folds
+Don Appling folds
+Ast0nMarteen collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 5: Ast0nMarteen (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #454160020951531521-2-1420484314 - Holdem no limit (10/20) - 2015/01/05 18:58:34 UTC
+Table: 'Double or Nothing(105742370)#0' 10-max (real money) Seat #4 is the button
+Seat 1: ko6k07 (1500)
+Seat 2: The-Waiter (1500)
+Seat 3: Kentoche44 (1500)
+Seat 4: Don Appling (1490)
+Seat 5: Ast0nMarteen (1510)
+Seat 6: sabre_laser (1500)
+Seat 7: kevfourn (1500)
+Seat 8: Anarkii14 (1500)
+Seat 9: jazzyda60 (1500)
+Seat 10: crazypix (1500)
+*** ANTE/BLINDS ***
+Ast0nMarteen posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [3c 7s]
+*** PRE-FLOP *** 
+kevfourn folds
+Anarkii14 folds
+jazzyda60 folds
+crazypix folds
+ko6k07 folds
+The-Waiter folds
+Kentoche44 folds
+Don Appling folds
+Ast0nMarteen folds
+sabre_laser collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 6: sabre_laser (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #454160020951531521-3-1420484351 - Holdem no limit (10/20) - 2015/01/05 18:59:11 UTC
+Table: 'Double or Nothing(105742370)#0' 10-max (real money) Seat #5 is the button
+Seat 1: ko6k07 (1500)
+Seat 2: The-Waiter (1500)
+Seat 3: Kentoche44 (1500)
+Seat 4: Don Appling (1490)
+Seat 5: Ast0nMarteen (1500)
+Seat 6: sabre_laser (1510)
+Seat 7: kevfourn (1500)
+Seat 8: Anarkii14 (1500)
+Seat 9: jazzyda60 (1500)
+Seat 10: crazypix (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+kevfourn posts big blind 20
+Dealt to sabre_laser [Qs 9c]
+*** PRE-FLOP *** 
+Anarkii14 folds
+jazzyda60 folds
+crazypix folds
+ko6k07 folds
+The-Waiter folds
+Kentoche44 folds
+Don Appling folds
+Ast0nMarteen folds
+sabre_laser calls 10
+kevfourn checks
+*** FLOP *** [9h 9d Ad]
+sabre_laser checks
+kevfourn bets 160
+sabre_laser calls 160
+*** TURN *** [9h 9d Ad][5h]
+sabre_laser bets 1330 and is all-in
+kevfourn calls 1320 and is all-in
+*** RIVER *** [9h 9d Ad 5h][Ts]
+*** SHOW DOWN ***
+kevfourn shows [5s 9s] (Full of 9 and 5)
+sabre_laser shows [Qs 9c] (Trips of 9)
+sabre_laser collected 10 from side pot 1
+kevfourn collected 3000 from main pot
+*** SUMMARY ***
+Total pot 3010 | No rake
+Board: [9h 9d Ad 5h Ts]
+Seat 6: sabre_laser (small blind) showed [Qs 9c] and won 10 with Trips of 9
+Seat 7: kevfourn (big blind) showed [5s 9s] and won 3000 with Full of 9 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #454160020951531521-4-1420484415 - Holdem no limit (10/20) - 2015/01/05 19:00:15 UTC
+Table: 'Double or Nothing(105742370)#0' 10-max (real money) Seat #6 is the button
+Seat 1: ko6k07 (1500)
+Seat 2: The-Waiter (1500)
+Seat 3: Kentoche44 (1500)
+Seat 4: Don Appling (1490)
+Seat 5: Ast0nMarteen (1500)
+Seat 6: sabre_laser (10)
+Seat 7: kevfourn (3000)
+Seat 8: Anarkii14 (1500)
+Seat 9: jazzyda60 (1500)
+Seat 10: crazypix (1500)
+*** ANTE/BLINDS ***
+kevfourn posts small blind 10
+Anarkii14 posts big blind 20
+Dealt to sabre_laser [6h 5d]
+*** PRE-FLOP *** 
+jazzyda60 folds
+crazypix folds
+ko6k07 folds
+The-Waiter folds
+Kentoche44 folds
+Don Appling folds
+Ast0nMarteen folds
+sabre_laser folds
+kevfourn folds
+Anarkii14 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 8: Anarkii14 (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 1,84€ + 0,16€ level: 0 - HandId: #454160020951531521-5-1420484443 - Holdem no limit (10/20) - 2015/01/05 19:00:43 UTC
+Table: 'Double or Nothing(105742370)#0' 10-max (real money) Seat #7 is the button
+Seat 1: ko6k07 (1500)
+Seat 2: The-Waiter (1500)
+Seat 3: Kentoche44 (1500)
+Seat 4: Don Appling (1490)
+Seat 5: Ast0nMarteen (1500)
+Seat 6: sabre_laser (10)
+Seat 7: kevfourn (2990)
+Seat 8: Anarkii14 (1510)
+Seat 9: jazzyda60 (1500)
+Seat 10: crazypix (1500)
+*** ANTE/BLINDS ***
+Anarkii14 posts small blind 10
+jazzyda60 posts big blind 20
+Dealt to sabre_laser [7s Qd]
+*** PRE-FLOP *** 
+crazypix folds
+ko6k07 folds
+The-Waiter folds
+Kentoche44 folds
+Don Appling folds
+Ast0nMarteen folds
+sabre_laser calls 10 and is all-in
+kevfourn calls 20
+Anarkii14 folds
+jazzyda60 checks
+*** FLOP *** [2h 6c 7h]
+jazzyda60 checks
+kevfourn checks
+*** TURN *** [2h 6c 7h][4h]
+jazzyda60 checks
+kevfourn checks
+*** RIVER *** [2h 6c 7h 4h][Tc]
+jazzyda60 checks
+kevfourn checks
+*** SHOW DOWN ***
+sabre_laser shows [7s Qd] (One pair : 7)
+jazzyda60 shows [Kh 2s] (One pair : 2)
+kevfourn shows [4s 4c] (Trips of 4)
+kevfourn collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2h 6c 7h 4h Tc]
+Seat 6: sabre_laser showed [7s Qd] and lost with One pair : 7
+Seat 7: kevfourn (button) showed [4s 4c] and won 60 with Trips of 4
+Seat 9: jazzyda60 (big blind) showed [Kh 2s] and lost with One pair : 2
+
+

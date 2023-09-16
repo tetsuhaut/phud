@@ -1,0 +1,2537 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #438705216792035329-1-1417479515 - Holdem no limit (10/20) - 2014/12/02 00:18:35 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (1500)
+Seat 2: Gyver80 (1500)
+Seat 3: Dz_poto (1500)
+Seat 4: abelloche (1500)
+Seat 5: persinho30 (1500)
+Seat 6: Jaack-D (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: nickysantoro (1500)
+Seat 9: MikelNieve (1500)
+Seat 10: willaxhot (1500)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 10
+MikelNieve posts big blind 20
+Dealt to sabre_laser [Ts 2c]
+*** PRE-FLOP *** 
+willaxhot calls 20
+MECAZED folds
+Gyver80 calls 20
+Dz_poto folds
+abelloche folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro calls 10
+MikelNieve checks
+*** FLOP *** [4s Jc 7d]
+nickysantoro checks
+MikelNieve checks
+willaxhot bets 110
+Gyver80 raises 110 to 220
+nickysantoro folds
+MikelNieve folds
+willaxhot calls 110
+*** TURN *** [4s Jc 7d][9c]
+willaxhot checks
+Gyver80 bets 20
+willaxhot raises 270 to 290
+Gyver80 calls 270
+*** RIVER *** [4s Jc 7d 9c][7h]
+willaxhot bets 970 and is all-in
+Gyver80 calls 970 and is all-in
+*** SHOW DOWN ***
+Gyver80 shows [Ks Jd] (Two pairs : Jacks and 7)
+willaxhot shows [Jh Kh] (Two pairs : Jacks and 7)
+willaxhot collected 1520 from pot
+Gyver80 collected 1520 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [4s Jc 7d 9c 7h]
+Seat 2: Gyver80 showed [Ks Jd] and won 1520 with Two pairs : Jacks and 7
+Seat 10: willaxhot showed [Jh Kh] and won 1520 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #438705216792035329-2-1417479625 - Holdem no limit (10/20) - 2014/12/02 00:20:25 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (1500)
+Seat 2: Gyver80 (1520)
+Seat 3: Dz_poto (1500)
+Seat 4: abelloche (1500)
+Seat 5: persinho30 (1500)
+Seat 6: Jaack-D (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: nickysantoro (1480)
+Seat 9: MikelNieve (1480)
+Seat 10: willaxhot (1520)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 10
+willaxhot posts big blind 20
+Dealt to sabre_laser [Qs Ks]
+*** PRE-FLOP *** 
+MECAZED folds
+Gyver80 calls 20
+Dz_poto folds
+abelloche folds
+persinho30 folds
+Jaack-D folds
+sabre_laser calls 20
+nickysantoro folds
+MikelNieve folds
+willaxhot checks
+*** FLOP *** [Kd 8s 7c]
+willaxhot checks
+Gyver80 bets 20
+sabre_laser raises 80 to 100
+willaxhot calls 100
+Gyver80 calls 80
+*** TURN *** [Kd 8s 7c][7s]
+willaxhot checks
+Gyver80 bets 20
+sabre_laser calls 20
+willaxhot calls 20
+*** RIVER *** [Kd 8s 7c 7s][Qc]
+willaxhot checks
+Gyver80 bets 1380 and is all-in
+sabre_laser calls 1360 and is all-in
+willaxhot folds
+*** SHOW DOWN ***
+sabre_laser shows [Qs Ks] (Two pairs : Kings and Queens)
+Gyver80 shows [2d 2h] (Two pairs : 7 and 2)
+Gyver80 collected 20 from side pot 1
+sabre_laser collected 3150 from main pot
+*** SUMMARY ***
+Total pot 3170 | No rake
+Board: [Kd 8s 7c 7s Qc]
+Seat 2: Gyver80 showed [2d 2h] and won 20 with Two pairs : 7 and 2
+Seat 7: sabre_laser showed [Qs Ks] and won 3150 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #438705216792035329-3-1417479752 - Holdem no limit (10/20) - 2014/12/02 00:22:32 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (1500)
+Seat 2: Gyver80 (20)
+Seat 3: Dz_poto (1500)
+Seat 4: abelloche (1500)
+Seat 5: persinho30 (1500)
+Seat 6: Jaack-D (1500)
+Seat 7: sabre_laser (3150)
+Seat 8: nickysantoro (1480)
+Seat 9: MikelNieve (1470)
+Seat 10: willaxhot (1380)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 10
+MECAZED posts big blind 20
+Dealt to sabre_laser [Td Qh]
+*** PRE-FLOP *** 
+Gyver80 calls 20 and is all-in
+Dz_poto raises 1480 to 1500 and is all-in
+abelloche folds
+persinho30 folds
+Jaack-D calls 1500 and is all-in
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+*** FLOP *** [8c Kh 4s]
+*** TURN *** [8c Kh 4s][Ks]
+*** RIVER *** [8c Kh 4s Ks][Qc]
+*** SHOW DOWN ***
+Gyver80 shows [3d Jc] (One pair : Kings)
+Dz_poto shows [9s 9h] (Two pairs : Kings and 9)
+Jaack-D shows [Qs Qd] (Full of Queens and Kings)
+Jaack-D collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [8c Kh 4s Ks Qc]
+Seat 2: Gyver80 showed [3d Jc] and lost with One pair : Kings
+Seat 3: Dz_poto showed [9s 9h] and lost with Two pairs : Kings and 9
+Seat 6: Jaack-D showed [Qs Qd] and won 3050 with Full of Queens and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #438705216792035329-4-1417479797 - Holdem no limit (10/20) - 2014/12/02 00:23:17 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (1480)
+Seat 4: abelloche (1500)
+Seat 5: persinho30 (1500)
+Seat 6: Jaack-D (3050)
+Seat 7: sabre_laser (3150)
+Seat 8: nickysantoro (1480)
+Seat 9: MikelNieve (1470)
+Seat 10: willaxhot (1370)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 10
+abelloche posts big blind 20
+Dealt to sabre_laser [3c 9s]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+abelloche collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 4: abelloche (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #438705216792035329-5-1417479836 - Holdem no limit (10/20) - 2014/12/02 00:23:56 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (1470)
+Seat 4: abelloche (1510)
+Seat 5: persinho30 (1500)
+Seat 6: Jaack-D (3050)
+Seat 7: sabre_laser (3150)
+Seat 8: nickysantoro (1480)
+Seat 9: MikelNieve (1470)
+Seat 10: willaxhot (1370)
+*** ANTE/BLINDS ***
+abelloche posts small blind 10
+persinho30 posts big blind 20
+Dealt to sabre_laser [4c 4h]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser calls 20
+nickysantoro folds
+MikelNieve folds
+willaxhot calls 20
+MECAZED folds
+abelloche folds
+persinho30 checks
+*** FLOP *** [Ah Qh 8c]
+persinho30 checks
+sabre_laser checks
+willaxhot bets 40
+persinho30 folds
+sabre_laser folds
+willaxhot collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Ah Qh 8c]
+Seat 10: willaxhot won 110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #438705216792035329-6-1417479912 - Holdem no limit (15/30) - 2014/12/02 00:25:12 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #4 is the button
+Seat 1: MECAZED (1470)
+Seat 4: abelloche (1500)
+Seat 5: persinho30 (1480)
+Seat 6: Jaack-D (3050)
+Seat 7: sabre_laser (3130)
+Seat 8: nickysantoro (1480)
+Seat 9: MikelNieve (1470)
+Seat 10: willaxhot (1420)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 15
+Jaack-D posts big blind 30
+Dealt to sabre_laser [Ad Qh]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 90
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED calls 90
+abelloche calls 90
+persinho30 folds
+Jaack-D folds
+*** FLOP *** [Ts 3c Jh]
+sabre_laser checks
+MECAZED checks
+abelloche checks
+*** TURN *** [Ts 3c Jh][Ac]
+sabre_laser checks
+MECAZED checks
+abelloche bets 30
+sabre_laser raises 45 to 75
+MECAZED folds
+abelloche calls 45
+*** RIVER *** [Ts 3c Jh Ac][5s]
+sabre_laser bets 75
+abelloche calls 75
+*** SHOW DOWN ***
+abelloche shows [Ah 2h] (One pair : Aces)
+sabre_laser shows [Ad Qh] (One pair : Aces)
+sabre_laser collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [Ts 3c Jh Ac 5s]
+Seat 4: abelloche (button) showed [Ah 2h] and lost with One pair : Aces
+Seat 7: sabre_laser showed [Ad Qh] and won 615 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #438705216792035329-7-1417480032 - Holdem no limit (15/30) - 2014/12/02 00:27:12 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (1380)
+Seat 4: abelloche (1260)
+Seat 5: persinho30 (1465)
+Seat 6: Jaack-D (3020)
+Seat 7: sabre_laser (3505)
+Seat 8: nickysantoro (1480)
+Seat 9: MikelNieve (1470)
+Seat 10: willaxhot (1420)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [7h Ad]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED calls 30
+abelloche folds
+persinho30 folds
+Jaack-D calls 15
+sabre_laser checks
+*** FLOP *** [9s 9h 8h]
+Jaack-D checks
+sabre_laser checks
+MECAZED checks
+*** TURN *** [9s 9h 8h][7d]
+Jaack-D checks
+sabre_laser bets 60
+MECAZED folds
+Jaack-D calls 60
+*** RIVER *** [9s 9h 8h 7d][3d]
+Jaack-D checks
+sabre_laser checks
+*** SHOW DOWN ***
+Jaack-D shows [Jd Qs] (One pair : 9)
+sabre_laser shows [7h Ad] (Two pairs : 9 and 7)
+sabre_laser collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [9s 9h 8h 7d 3d]
+Seat 6: Jaack-D (small blind) showed [Jd Qs] and lost with One pair : 9
+Seat 7: sabre_laser (big blind) showed [7h Ad] and won 210 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #438705216792035329-8-1417480118 - Holdem no limit (15/30) - 2014/12/02 00:28:38 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (1350)
+Seat 4: abelloche (1260)
+Seat 5: persinho30 (1465)
+Seat 6: Jaack-D (2930)
+Seat 7: sabre_laser (3625)
+Seat 8: nickysantoro (1480)
+Seat 9: MikelNieve (1470)
+Seat 10: willaxhot (1420)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+nickysantoro posts big blind 30
+Dealt to sabre_laser [9s 8h]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+abelloche folds
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 60 to 90
+nickysantoro folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 7: sabre_laser (small blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #438705216792035329-9-1417480157 - Holdem no limit (15/30) - 2014/12/02 00:29:17 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (1350)
+Seat 4: abelloche (1260)
+Seat 5: persinho30 (1465)
+Seat 6: Jaack-D (2930)
+Seat 7: sabre_laser (3655)
+Seat 8: nickysantoro (1450)
+Seat 9: MikelNieve (1470)
+Seat 10: willaxhot (1420)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 15
+MikelNieve posts big blind 30
+Dealt to sabre_laser [2c Kc]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+abelloche folds
+persinho30 folds
+Jaack-D calls 30
+sabre_laser folds
+nickysantoro calls 15
+MikelNieve checks
+*** FLOP *** [2h Td Qh]
+nickysantoro checks
+MikelNieve checks
+Jaack-D bets 75
+nickysantoro folds
+MikelNieve folds
+Jaack-D collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [2h Td Qh]
+Seat 6: Jaack-D won 165
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #438705216792035329-10-1417480247 - Holdem no limit (20/40) - 2014/12/02 00:30:47 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (1350)
+Seat 4: abelloche (1260)
+Seat 5: persinho30 (1465)
+Seat 6: Jaack-D (2990)
+Seat 7: sabre_laser (3655)
+Seat 8: nickysantoro (1420)
+Seat 9: MikelNieve (1440)
+Seat 10: willaxhot (1420)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 20
+willaxhot posts big blind 40
+Dealt to sabre_laser [2h 9s]
+*** PRE-FLOP *** 
+MECAZED raises 40 to 80
+abelloche folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot calls 40
+*** FLOP *** [Ah As 4d]
+willaxhot checks
+MECAZED bets 100
+willaxhot folds
+MECAZED collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Ah As 4d]
+Seat 1: MECAZED won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #438705216792035329-11-1417480311 - Holdem no limit (20/40) - 2014/12/02 00:31:51 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (1450)
+Seat 4: abelloche (1260)
+Seat 5: persinho30 (1465)
+Seat 6: Jaack-D (2990)
+Seat 7: sabre_laser (3655)
+Seat 8: nickysantoro (1420)
+Seat 9: MikelNieve (1420)
+Seat 10: willaxhot (1340)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 20
+MECAZED posts big blind 40
+Dealt to sabre_laser [3h 5c]
+*** PRE-FLOP *** 
+abelloche folds
+persinho30 folds
+Jaack-D calls 40
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot calls 20
+MECAZED checks
+*** FLOP *** [Kh 2s 4d]
+willaxhot checks
+MECAZED checks
+Jaack-D bets 90
+willaxhot calls 90
+MECAZED folds
+*** TURN *** [Kh 2s 4d][Th]
+willaxhot checks
+Jaack-D bets 285
+willaxhot folds
+Jaack-D collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [Kh 2s 4d Th]
+Seat 6: Jaack-D won 585
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #438705216792035329-12-1417480372 - Holdem no limit (20/40) - 2014/12/02 00:32:52 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (1410)
+Seat 4: abelloche (1260)
+Seat 5: persinho30 (1465)
+Seat 6: Jaack-D (3160)
+Seat 7: sabre_laser (3655)
+Seat 8: nickysantoro (1420)
+Seat 9: MikelNieve (1420)
+Seat 10: willaxhot (1210)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 20
+abelloche posts big blind 40
+Dealt to sabre_laser [7c Kh]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D calls 40
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot calls 40
+MECAZED folds
+abelloche checks
+*** FLOP *** [Kd 5d Kc]
+abelloche checks
+Jaack-D checks
+willaxhot checks
+*** TURN *** [Kd 5d Kc][Th]
+abelloche checks
+Jaack-D checks
+willaxhot checks
+*** RIVER *** [Kd 5d Kc Th][2s]
+abelloche checks
+Jaack-D bets 80
+willaxhot folds
+abelloche folds
+Jaack-D collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Kd 5d Kc Th 2s]
+Seat 6: Jaack-D won 220
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #438705216792035329-13-1417480445 - Holdem no limit (20/40) - 2014/12/02 00:34:05 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (1390)
+Seat 4: abelloche (1220)
+Seat 5: persinho30 (1465)
+Seat 6: Jaack-D (3260)
+Seat 7: sabre_laser (3655)
+Seat 8: nickysantoro (1420)
+Seat 9: MikelNieve (1420)
+Seat 10: willaxhot (1170)
+*** ANTE/BLINDS ***
+abelloche posts small blind 20
+persinho30 posts big blind 40
+Dealt to sabre_laser [Kh 8h]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED raises 80 to 120
+abelloche folds
+persinho30 folds
+MECAZED collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: MECAZED (button) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #438705216792035329-14-1417480489 - Holdem no limit (20/40) - 2014/12/02 00:34:49 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #4 is the button
+Seat 1: MECAZED (1450)
+Seat 4: abelloche (1200)
+Seat 5: persinho30 (1425)
+Seat 6: Jaack-D (3260)
+Seat 7: sabre_laser (3655)
+Seat 8: nickysantoro (1420)
+Seat 9: MikelNieve (1420)
+Seat 10: willaxhot (1170)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 20
+Jaack-D posts big blind 40
+Dealt to sabre_laser [Ts Kh]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+abelloche folds
+persinho30 folds
+Jaack-D collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Jaack-D (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #438705216792035329-15-1417480523 - Holdem no limit (20/40) - 2014/12/02 00:35:23 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (1450)
+Seat 4: abelloche (1200)
+Seat 5: persinho30 (1405)
+Seat 6: Jaack-D (3280)
+Seat 7: sabre_laser (3655)
+Seat 8: nickysantoro (1420)
+Seat 9: MikelNieve (1420)
+Seat 10: willaxhot (1170)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Kh As]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+abelloche folds
+persinho30 folds
+Jaack-D folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 7: sabre_laser (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #438705216792035329-16-1417480558 - Holdem no limit (20/40) - 2014/12/02 00:35:58 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (1450)
+Seat 4: abelloche (1200)
+Seat 5: persinho30 (1405)
+Seat 6: Jaack-D (3260)
+Seat 7: sabre_laser (3675)
+Seat 8: nickysantoro (1420)
+Seat 9: MikelNieve (1420)
+Seat 10: willaxhot (1170)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+nickysantoro posts big blind 40
+Dealt to sabre_laser [Ah Th]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+abelloche calls 40
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 160 to 200
+nickysantoro folds
+abelloche folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 7: sabre_laser (small blind) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-17-1417480604 - Holdem no limit (30/60) - 2014/12/02 00:36:44 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (1450)
+Seat 4: abelloche (1160)
+Seat 5: persinho30 (1405)
+Seat 6: Jaack-D (3260)
+Seat 7: sabre_laser (3755)
+Seat 8: nickysantoro (1380)
+Seat 9: MikelNieve (1420)
+Seat 10: willaxhot (1170)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 30
+MikelNieve posts big blind 60
+Dealt to sabre_laser [7h 7s]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+abelloche folds
+persinho30 raises 90 to 150
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+persinho30 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: persinho30 won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-18-1417480639 - Holdem no limit (30/60) - 2014/12/02 00:37:19 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (1450)
+Seat 4: abelloche (1160)
+Seat 5: persinho30 (1495)
+Seat 6: Jaack-D (3260)
+Seat 7: sabre_laser (3755)
+Seat 8: nickysantoro (1350)
+Seat 9: MikelNieve (1360)
+Seat 10: willaxhot (1170)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 30
+willaxhot posts big blind 60
+Dealt to sabre_laser [3c 5h]
+*** PRE-FLOP *** 
+MECAZED folds
+abelloche calls 60
+persinho30 folds
+Jaack-D calls 60
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot checks
+*** FLOP *** [Qd 2s Kc]
+willaxhot bets 210
+abelloche calls 210
+Jaack-D folds
+*** TURN *** [Qd 2s Kc][3h]
+willaxhot bets 900 and is all-in
+abelloche calls 890 and is all-in
+*** RIVER *** [Qd 2s Kc 3h][7d]
+*** SHOW DOWN ***
+abelloche shows [Ks 9d] (One pair : Kings)
+willaxhot shows [2h Kd] (Two pairs : Kings and 2)
+willaxhot collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Board: [Qd 2s Kc 3h 7d]
+Seat 4: abelloche showed [Ks 9d] and lost with One pair : Kings
+Seat 10: willaxhot (big blind) showed [2h Kd] and won 2420 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-19-1417480707 - Holdem no limit (30/60) - 2014/12/02 00:38:27 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (1450)
+Seat 5: persinho30 (1495)
+Seat 6: Jaack-D (3200)
+Seat 7: sabre_laser (3755)
+Seat 8: nickysantoro (1350)
+Seat 9: MikelNieve (1330)
+Seat 10: willaxhot (2420)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 30
+MECAZED posts big blind 60
+Dealt to sabre_laser [5s 6c]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MECAZED (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-20-1417480728 - Holdem no limit (30/60) - 2014/12/02 00:38:48 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (1480)
+Seat 5: persinho30 (1495)
+Seat 6: Jaack-D (3200)
+Seat 7: sabre_laser (3755)
+Seat 8: nickysantoro (1350)
+Seat 9: MikelNieve (1330)
+Seat 10: willaxhot (2390)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 30
+persinho30 posts big blind 60
+Dealt to sabre_laser [5s 6d]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED calls 30
+persinho30 checks
+*** FLOP *** [2s 5c 9c]
+MECAZED bets 60
+persinho30 folds
+MECAZED collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2s 5c 9c]
+Seat 1: MECAZED (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-21-1417480777 - Holdem no limit (30/60) - 2014/12/02 00:39:37 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (1540)
+Seat 5: persinho30 (1435)
+Seat 6: Jaack-D (3200)
+Seat 7: sabre_laser (3755)
+Seat 8: nickysantoro (1350)
+Seat 9: MikelNieve (1330)
+Seat 10: willaxhot (2390)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 30
+Jaack-D posts big blind 60
+Dealt to sabre_laser [6d Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot raises 60 to 120
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+willaxhot collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 10: willaxhot won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-22-1417480813 - Holdem no limit (30/60) - 2014/12/02 00:40:13 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (1540)
+Seat 5: persinho30 (1405)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (3755)
+Seat 8: nickysantoro (1350)
+Seat 9: MikelNieve (1330)
+Seat 10: willaxhot (2480)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [6d Th]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 raises 90 to 150
+Jaack-D folds
+sabre_laser calls 90
+*** FLOP *** [Tc Js Jd]
+sabre_laser bets 3605 and is all-in
+persinho30 calls 1255 and is all-in
+*** TURN *** [Tc Js Jd][Ah]
+*** RIVER *** [Tc Js Jd Ah][3d]
+*** SHOW DOWN ***
+persinho30 shows [Kc Ks] (Two pairs : Kings and Jacks)
+sabre_laser shows [6d Th] (Two pairs : Jacks and Tens)
+sabre_laser collected 2350 from side pot 1
+persinho30 collected 2840 from main pot
+*** SUMMARY ***
+Total pot 5190 | No rake
+Board: [Tc Js Jd Ah 3d]
+Seat 5: persinho30 (button) showed [Kc Ks] and won 2840 with Two pairs : Kings and Jacks
+Seat 7: sabre_laser (big blind) showed [6d Th] and won 2350 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-23-1417480856 - Holdem no limit (30/60) - 2014/12/02 00:40:56 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (1540)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3110)
+Seat 7: sabre_laser (2350)
+Seat 8: nickysantoro (1350)
+Seat 9: MikelNieve (1330)
+Seat 10: willaxhot (2480)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+nickysantoro posts big blind 60
+Dealt to sabre_laser [Ac 9c]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D calls 60
+sabre_laser calls 30
+nickysantoro raises 180 to 240
+Jaack-D folds
+sabre_laser calls 180
+*** FLOP *** [4h 7c 2c]
+sabre_laser checks
+nickysantoro bets 360
+sabre_laser folds
+nickysantoro collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h 7c 2c]
+Seat 8: nickysantoro (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #438705216792035329-24-1417480937 - Holdem no limit (30/60) - 2014/12/02 00:42:17 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (1540)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3050)
+Seat 7: sabre_laser (2110)
+Seat 8: nickysantoro (1650)
+Seat 9: MikelNieve (1330)
+Seat 10: willaxhot (2480)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 30
+MikelNieve posts big blind 60
+Dealt to sabre_laser [9c 8h]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D calls 60
+sabre_laser folds
+nickysantoro folds
+MikelNieve checks
+*** FLOP *** [4d 6c 8d]
+MikelNieve checks
+Jaack-D bets 100
+MikelNieve folds
+Jaack-D collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [4d 6c 8d]
+Seat 6: Jaack-D won 250
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-25-1417480975 - Holdem no limit (40/80) - 2014/12/02 00:42:55 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (1540)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2110)
+Seat 8: nickysantoro (1620)
+Seat 9: MikelNieve (1270)
+Seat 10: willaxhot (2480)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 40
+willaxhot posts big blind 80
+Dealt to sabre_laser [9c Ah]
+*** PRE-FLOP *** 
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 80 to 160
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 7: sabre_laser won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-26-1417481008 - Holdem no limit (40/80) - 2014/12/02 00:43:28 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (1540)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1620)
+Seat 9: MikelNieve (1230)
+Seat 10: willaxhot (2400)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 40
+MECAZED posts big blind 80
+Dealt to sabre_laser [Th Jc]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve raises 119 to 199
+willaxhot folds
+MECAZED calls 119
+*** FLOP *** [Kh 4d Js]
+MECAZED checks
+MikelNieve bets 188
+MECAZED calls 188
+*** TURN *** [Kh 4d Js][7s]
+MECAZED checks
+MikelNieve checks
+*** RIVER *** [Kh 4d Js 7s][5c]
+MECAZED bets 407
+MikelNieve folds
+MECAZED shows [Qh 9h] (High card : King)
+MECAZED collected 1221 from pot
+*** SUMMARY ***
+Total pot 1221 | No rake
+Board: [Kh 4d Js 7s 5c]
+Seat 1: MECAZED (big blind) showed [Qh 9h] and won 1221 with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-27-1417481090 - Holdem no limit (40/80) - 2014/12/02 00:44:50 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (1967)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1620)
+Seat 9: MikelNieve (843)
+Seat 10: willaxhot (2360)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 40
+persinho30 posts big blind 80
+Dealt to sabre_laser [2h 2s]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: persinho30 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-28-1417481128 - Holdem no limit (40/80) - 2014/12/02 00:45:28 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (1927)
+Seat 5: persinho30 (2880)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1620)
+Seat 9: MikelNieve (843)
+Seat 10: willaxhot (2360)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 40
+Jaack-D posts big blind 80
+Dealt to sabre_laser [Jc Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D shows [Ac Ad] (One pair : Aces)
+Jaack-D collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: Jaack-D (big blind) showed [Ac Ad] and won 120 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-29-1417481151 - Holdem no limit (40/80) - 2014/12/02 00:45:51 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (1927)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3180)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1620)
+Seat 9: MikelNieve (843)
+Seat 10: willaxhot (2360)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [7c 2c]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot raises 120 to 200
+MECAZED raises 400 to 600
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+willaxhot folds
+MECAZED collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Seat 1: MECAZED won 920
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-30-1417481178 - Holdem no limit (40/80) - 2014/12/02 00:46:18 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (2247)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2150)
+Seat 8: nickysantoro (1620)
+Seat 9: MikelNieve (843)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+nickysantoro posts big blind 80
+Dealt to sabre_laser [Ks Ad]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 80 to 160
+nickysantoro folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: sabre_laser (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-31-1417481204 - Holdem no limit (40/80) - 2014/12/02 00:46:44 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (2247)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1540)
+Seat 9: MikelNieve (843)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 40
+MikelNieve posts big blind 80
+Dealt to sabre_laser [Js 3d]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+persinho30 raises 120 to 200
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+persinho30 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 5: persinho30 won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-32-1417481230 - Holdem no limit (40/80) - 2014/12/02 00:47:10 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (2247)
+Seat 5: persinho30 (2960)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1500)
+Seat 9: MikelNieve (763)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 40
+willaxhot posts big blind 80
+Dealt to sabre_laser [Qh 7h]
+*** PRE-FLOP *** 
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 10: willaxhot (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-33-1417481254 - Holdem no limit (40/80) - 2014/12/02 00:47:34 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (2247)
+Seat 5: persinho30 (2960)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1500)
+Seat 9: MikelNieve (723)
+Seat 10: willaxhot (2200)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 40
+MECAZED posts big blind 80
+Dealt to sabre_laser [Ks Jd]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MECAZED (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-34-1417481271 - Holdem no limit (40/80) - 2014/12/02 00:47:51 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (2287)
+Seat 5: persinho30 (2960)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1500)
+Seat 9: MikelNieve (723)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 40
+persinho30 posts big blind 80
+Dealt to sabre_laser [4h Jd]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED raises 80 to 160
+persinho30 folds
+MECAZED collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: MECAZED (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #438705216792035329-35-1417481297 - Holdem no limit (40/80) - 2014/12/02 00:48:17 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (2367)
+Seat 5: persinho30 (2880)
+Seat 6: Jaack-D (3140)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1500)
+Seat 9: MikelNieve (723)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 40
+Jaack-D posts big blind 80
+Dealt to sabre_laser [7c 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: Jaack-D (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-36-1417481316 - Holdem no limit (60/120) - 2014/12/02 00:48:36 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (2367)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3180)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (1500)
+Seat 9: MikelNieve (723)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Jh 2d]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-37-1417481350 - Holdem no limit (60/120) - 2014/12/02 00:49:10 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (2367)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2290)
+Seat 8: nickysantoro (1500)
+Seat 9: MikelNieve (723)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+nickysantoro posts big blind 120
+Dealt to sabre_laser [7d Jh]
+*** PRE-FLOP *** 
+MikelNieve raises 603 to 723 and is all-in
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro calls 603
+*** FLOP *** [6c Js 3d]
+*** TURN *** [6c Js 3d][Tc]
+*** RIVER *** [6c Js 3d Tc][Ts]
+*** SHOW DOWN ***
+nickysantoro shows [Kh As] (One pair : Tens)
+MikelNieve shows [Qh Qd] (Two pairs : Queens and Tens)
+MikelNieve collected 1506 from pot
+*** SUMMARY ***
+Total pot 1506 | No rake
+Board: [6c Js 3d Tc Ts]
+Seat 8: nickysantoro (big blind) showed [Kh As] and lost with One pair : Tens
+Seat 9: MikelNieve showed [Qh Qd] and won 1506 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-38-1417481372 - Holdem no limit (60/120) - 2014/12/02 00:49:32 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (2367)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (777)
+Seat 9: MikelNieve (1506)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 60
+MikelNieve posts big blind 120
+Dealt to sabre_laser [8c 4d]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED raises 2247 to 2367 and is all-in
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+MECAZED collected 2547 from pot
+*** SUMMARY ***
+Total pot 2547 | No rake
+Seat 1: MECAZED won 2547
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-39-1417481409 - Holdem no limit (60/120) - 2014/12/02 00:50:09 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (2547)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (717)
+Seat 9: MikelNieve (1386)
+Seat 10: willaxhot (2160)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 60
+willaxhot posts big blind 120
+Dealt to sabre_laser [Qs Ks]
+*** PRE-FLOP *** 
+MECAZED raises 120 to 240
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 1: MECAZED won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-40-1417481425 - Holdem no limit (60/120) - 2014/12/02 00:50:25 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (2727)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (717)
+Seat 9: MikelNieve (1326)
+Seat 10: willaxhot (2040)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 60
+MECAZED posts big blind 120
+Dealt to sabre_laser [Ks 7c]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: MECAZED (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-41-1417481441 - Holdem no limit (60/120) - 2014/12/02 00:50:41 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (2787)
+Seat 5: persinho30 (2840)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (717)
+Seat 9: MikelNieve (1326)
+Seat 10: willaxhot (1980)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 60
+persinho30 posts big blind 120
+Dealt to sabre_laser [6h Jc]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED calls 60
+persinho30 checks
+*** FLOP *** [2h 7s Ad]
+MECAZED bets 120
+persinho30 folds
+MECAZED collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2h 7s Ad]
+Seat 1: MECAZED (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-42-1417481473 - Holdem no limit (60/120) - 2014/12/02 00:51:13 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (2907)
+Seat 5: persinho30 (2720)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2230)
+Seat 8: nickysantoro (717)
+Seat 9: MikelNieve (1326)
+Seat 10: willaxhot (1980)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 60
+Jaack-D posts big blind 120
+Dealt to sabre_laser [Kd Kh]
+*** PRE-FLOP *** 
+sabre_laser raises 180 to 300
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 7: sabre_laser won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-43-1417481509 - Holdem no limit (60/120) - 2014/12/02 00:51:49 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (2907)
+Seat 5: persinho30 (2660)
+Seat 6: Jaack-D (3000)
+Seat 7: sabre_laser (2410)
+Seat 8: nickysantoro (717)
+Seat 9: MikelNieve (1326)
+Seat 10: willaxhot (1980)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Kd Ks]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-44-1417481522 - Holdem no limit (60/120) - 2014/12/02 00:52:02 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (2907)
+Seat 5: persinho30 (2660)
+Seat 6: Jaack-D (2940)
+Seat 7: sabre_laser (2470)
+Seat 8: nickysantoro (717)
+Seat 9: MikelNieve (1326)
+Seat 10: willaxhot (1980)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+nickysantoro posts big blind 120
+Dealt to sabre_laser [Kc Jh]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 120 to 240
+nickysantoro folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 7: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-45-1417481555 - Holdem no limit (60/120) - 2014/12/02 00:52:35 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (2907)
+Seat 5: persinho30 (2660)
+Seat 6: Jaack-D (2940)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (597)
+Seat 9: MikelNieve (1326)
+Seat 10: willaxhot (1980)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 60
+MikelNieve posts big blind 120
+Dealt to sabre_laser [4s 8s]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro raises 477 to 597 and is all-in
+MikelNieve folds
+nickysantoro collected 717 from pot
+*** SUMMARY ***
+Total pot 717 | No rake
+Seat 8: nickysantoro (small blind) won 717
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-46-1417481586 - Holdem no limit (60/120) - 2014/12/02 00:53:06 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (2907)
+Seat 5: persinho30 (2660)
+Seat 6: Jaack-D (2940)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (717)
+Seat 9: MikelNieve (1206)
+Seat 10: willaxhot (1980)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 60
+willaxhot posts big blind 120
+Dealt to sabre_laser [2h 3h]
+*** PRE-FLOP *** 
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro raises 597 to 717 and is all-in
+MikelNieve folds
+willaxhot folds
+nickysantoro collected 897 from pot
+*** SUMMARY ***
+Total pot 897 | No rake
+Seat 8: nickysantoro (button) won 897
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-47-1417481608 - Holdem no limit (60/120) - 2014/12/02 00:53:28 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (2907)
+Seat 5: persinho30 (2660)
+Seat 6: Jaack-D (2940)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (897)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1860)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 60
+MECAZED posts big blind 120
+Dealt to sabre_laser [5s 6c]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D raises 240 to 360
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+Jaack-D collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 6: Jaack-D won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #438705216792035329-48-1417481640 - Holdem no limit (60/120) - 2014/12/02 00:54:00 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (2787)
+Seat 5: persinho30 (2660)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (897)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 60
+persinho30 posts big blind 120
+Dealt to sabre_laser [Td Qh]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro raises 777 to 897 and is all-in
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+nickysantoro collected 1077 from pot
+*** SUMMARY ***
+Total pot 1077 | No rake
+Seat 8: nickysantoro won 1077
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-49-1417481679 - Holdem no limit (80/160) - 2014/12/02 00:54:39 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (2727)
+Seat 5: persinho30 (2540)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (1077)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 80
+Jaack-D posts big blind 160
+Dealt to sabre_laser [Tc 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot raises 1640 to 1800 and is all-in
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+willaxhot collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Seat 10: willaxhot won 2040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-50-1417481716 - Holdem no limit (80/160) - 2014/12/02 00:55:16 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (2727)
+Seat 5: persinho30 (2460)
+Seat 6: Jaack-D (2960)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (1077)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (2040)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Qs 7d]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D calls 80
+sabre_laser checks
+*** FLOP *** [As 4h Qd]
+Jaack-D bets 480
+sabre_laser folds
+Jaack-D collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [As 4h Qd]
+Seat 6: Jaack-D (small blind) won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-51-1417481776 - Holdem no limit (80/160) - 2014/12/02 00:56:16 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (2727)
+Seat 5: persinho30 (2460)
+Seat 6: Jaack-D (3120)
+Seat 7: sabre_laser (2430)
+Seat 8: nickysantoro (1077)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (2040)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+nickysantoro posts big blind 160
+Dealt to sabre_laser [8h Qs]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D raises 240 to 400
+sabre_laser folds
+nickysantoro raises 677 to 1077 and is all-in
+Jaack-D folds
+nickysantoro collected 1557 from pot
+*** SUMMARY ***
+Total pot 1557 | No rake
+Seat 8: nickysantoro (big blind) won 1557
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-52-1417481819 - Holdem no limit (80/160) - 2014/12/02 00:56:59 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (2727)
+Seat 5: persinho30 (2460)
+Seat 6: Jaack-D (2720)
+Seat 7: sabre_laser (2350)
+Seat 8: nickysantoro (1557)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (2040)
+*** ANTE/BLINDS ***
+nickysantoro posts small blind 80
+MikelNieve posts big blind 160
+Dealt to sabre_laser [6c 7c]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 160 to 320
+nickysantoro folds
+MikelNieve folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 7: sabre_laser (button) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-53-1417481838 - Holdem no limit (80/160) - 2014/12/02 00:57:18 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (2727)
+Seat 5: persinho30 (2460)
+Seat 6: Jaack-D (2720)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (1477)
+Seat 9: MikelNieve (986)
+Seat 10: willaxhot (2040)
+*** ANTE/BLINDS ***
+MikelNieve posts small blind 80
+willaxhot posts big blind 160
+Dealt to sabre_laser [Ac 2d]
+*** PRE-FLOP *** 
+MECAZED folds
+persinho30 raises 160 to 320
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+persinho30 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 5: persinho30 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-54-1417481862 - Holdem no limit (80/160) - 2014/12/02 00:57:42 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (2727)
+Seat 5: persinho30 (2700)
+Seat 6: Jaack-D (2720)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (1477)
+Seat 9: MikelNieve (906)
+Seat 10: willaxhot (1880)
+*** ANTE/BLINDS ***
+willaxhot posts small blind 80
+MECAZED posts big blind 160
+Dealt to sabre_laser [5c 9c]
+*** PRE-FLOP *** 
+persinho30 raises 160 to 320
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 5: persinho30 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-55-1417481878 - Holdem no limit (80/160) - 2014/12/02 00:57:58 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (2567)
+Seat 5: persinho30 (2940)
+Seat 6: Jaack-D (2720)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (1477)
+Seat 9: MikelNieve (906)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+MECAZED posts small blind 80
+persinho30 posts big blind 160
+Dealt to sabre_laser [3s 9c]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve raises 746 to 906 and is all-in
+willaxhot folds
+MECAZED folds
+persinho30 folds
+MikelNieve collected 1146 from pot
+*** SUMMARY ***
+Total pot 1146 | No rake
+Seat 9: MikelNieve won 1146
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-56-1417481902 - Holdem no limit (80/160) - 2014/12/02 00:58:22 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (2487)
+Seat 5: persinho30 (2780)
+Seat 6: Jaack-D (2720)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (1477)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+persinho30 posts small blind 80
+Jaack-D posts big blind 160
+Dealt to sabre_laser [9h 8c]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 calls 80
+Jaack-D checks
+*** FLOP *** [Qh Qc Ah]
+persinho30 bets 160
+Jaack-D calls 160
+*** TURN *** [Qh Qc Ah][Td]
+persinho30 bets 320
+Jaack-D calls 320
+*** RIVER *** [Qh Qc Ah Td][Jc]
+persinho30 checks
+Jaack-D checks
+*** SHOW DOWN ***
+persinho30 shows [Jd Kc] (Straight Ace high)
+Jaack-D shows [Kh 8h] (Straight Ace high)
+Jaack-D collected 640 from pot
+persinho30 collected 640 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [Qh Qc Ah Td Jc]
+Seat 5: persinho30 (small blind) showed [Jd Kc] and won 640 with Straight Ace high
+Seat 6: Jaack-D (big blind) showed [Kh 8h] and won 640 with Straight Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-57-1417481965 - Holdem no limit (80/160) - 2014/12/02 00:59:25 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (2487)
+Seat 5: persinho30 (2780)
+Seat 6: Jaack-D (2720)
+Seat 7: sabre_laser (2590)
+Seat 8: nickysantoro (1477)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+Jaack-D posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [8h 9h]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D calls 80
+sabre_laser checks
+*** FLOP *** [Th 4d 8c]
+Jaack-D checks
+sabre_laser bets 160
+Jaack-D folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Th 4d 8c]
+Seat 7: sabre_laser (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #438705216792035329-58-1417482017 - Holdem no limit (80/160) - 2014/12/02 01:00:17 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (2487)
+Seat 5: persinho30 (2780)
+Seat 6: Jaack-D (2560)
+Seat 7: sabre_laser (2750)
+Seat 8: nickysantoro (1477)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+nickysantoro posts big blind 160
+Dealt to sabre_laser [9s 5s]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: nickysantoro (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-59-1417482063 - Holdem no limit (10/100/200) - 2014/12/02 01:01:03 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (2487)
+Seat 5: persinho30 (2780)
+Seat 6: Jaack-D (2560)
+Seat 7: sabre_laser (2670)
+Seat 8: nickysantoro (1557)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+nickysantoro posts ante 10
+MikelNieve posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+willaxhot posts ante 10
+nickysantoro posts small blind 100
+MikelNieve posts big blind 200
+Dealt to sabre_laser [5s 5h]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED raises 2277 to 2477 and is all-in
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+MECAZED collected 2847 from pot
+*** SUMMARY ***
+Total pot 2847 | No rake
+Seat 1: MECAZED won 2847
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-60-1417482084 - Holdem no limit (10/100/200) - 2014/12/02 01:01:24 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (2847)
+Seat 5: persinho30 (2770)
+Seat 6: Jaack-D (2550)
+Seat 7: sabre_laser (2660)
+Seat 8: nickysantoro (1447)
+Seat 9: MikelNieve (936)
+Seat 10: willaxhot (1790)
+*** ANTE/BLINDS ***
+MikelNieve posts ante 10
+willaxhot posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+nickysantoro posts ante 10
+MikelNieve posts small blind 100
+willaxhot posts big blind 200
+Dealt to sabre_laser [5h 7s]
+*** PRE-FLOP *** 
+MECAZED folds
+persinho30 raises 200 to 400
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+persinho30 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 5: persinho30 won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-61-1417482107 - Holdem no limit (10/100/200) - 2014/12/02 01:01:47 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (2837)
+Seat 5: persinho30 (3130)
+Seat 6: Jaack-D (2540)
+Seat 7: sabre_laser (2650)
+Seat 8: nickysantoro (1437)
+Seat 9: MikelNieve (826)
+Seat 10: willaxhot (1580)
+*** ANTE/BLINDS ***
+willaxhot posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+nickysantoro posts ante 10
+MikelNieve posts ante 10
+willaxhot posts small blind 100
+MECAZED posts big blind 200
+Dealt to sabre_laser [9h Ac]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot raises 1370 to 1570 and is all-in
+MECAZED folds
+willaxhot collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Seat 10: willaxhot (small blind) won 1840
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-62-1417482145 - Holdem no limit (10/100/200) - 2014/12/02 01:02:25 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (2627)
+Seat 5: persinho30 (3120)
+Seat 6: Jaack-D (2530)
+Seat 7: sabre_laser (2640)
+Seat 8: nickysantoro (1427)
+Seat 9: MikelNieve (816)
+Seat 10: willaxhot (1840)
+*** ANTE/BLINDS ***
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+nickysantoro posts ante 10
+MikelNieve posts ante 10
+willaxhot posts ante 10
+MECAZED posts small blind 100
+persinho30 posts big blind 200
+Dealt to sabre_laser [Th Kh]
+*** PRE-FLOP *** 
+Jaack-D raises 400 to 600
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | No rake
+Seat 6: Jaack-D won 970
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-63-1417482183 - Holdem no limit (10/100/200) - 2014/12/02 01:03:03 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (2517)
+Seat 5: persinho30 (2910)
+Seat 6: Jaack-D (2890)
+Seat 7: sabre_laser (2630)
+Seat 8: nickysantoro (1417)
+Seat 9: MikelNieve (806)
+Seat 10: willaxhot (1830)
+*** ANTE/BLINDS ***
+persinho30 posts ante 10
+Jaack-D posts ante 10
+MECAZED posts ante 10
+sabre_laser posts ante 10
+nickysantoro posts ante 10
+MikelNieve posts ante 10
+willaxhot posts ante 10
+persinho30 posts small blind 100
+Jaack-D posts big blind 200
+Dealt to sabre_laser [2c 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve raises 596 to 796 and is all-in
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+MikelNieve collected 1166 from pot
+*** SUMMARY ***
+Total pot 1166 | No rake
+Seat 9: MikelNieve won 1166
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-64-1417482219 - Holdem no limit (10/100/200) - 2014/12/02 01:03:39 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (2507)
+Seat 5: persinho30 (2800)
+Seat 6: Jaack-D (2680)
+Seat 7: sabre_laser (2620)
+Seat 8: nickysantoro (1407)
+Seat 9: MikelNieve (1166)
+Seat 10: willaxhot (1820)
+*** ANTE/BLINDS ***
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+nickysantoro posts ante 10
+MikelNieve posts ante 10
+willaxhot posts ante 10
+Jaack-D posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Jd 7c]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 7: sabre_laser (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-65-1417482234 - Holdem no limit (10/100/200) - 2014/12/02 01:03:54 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (2497)
+Seat 5: persinho30 (2790)
+Seat 6: Jaack-D (2570)
+Seat 7: sabre_laser (2780)
+Seat 8: nickysantoro (1397)
+Seat 9: MikelNieve (1156)
+Seat 10: willaxhot (1810)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+nickysantoro posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+MikelNieve posts ante 10
+willaxhot posts ante 10
+sabre_laser posts small blind 100
+nickysantoro posts big blind 200
+Dealt to sabre_laser [Th 2h]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 200 to 400
+nickysantoro raises 987 to 1387 and is all-in
+sabre_laser folds
+nickysantoro collected 1857 from pot
+*** SUMMARY ***
+Total pot 1857 | No rake
+Seat 8: nickysantoro (big blind) won 1857
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-66-1417482299 - Holdem no limit (10/100/200) - 2014/12/02 01:04:59 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (2487)
+Seat 5: persinho30 (2780)
+Seat 6: Jaack-D (2560)
+Seat 7: sabre_laser (2370)
+Seat 8: nickysantoro (1857)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1800)
+*** ANTE/BLINDS ***
+nickysantoro posts ante 10
+MikelNieve posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+willaxhot posts ante 10
+nickysantoro posts small blind 100
+MikelNieve posts big blind 200
+Dealt to sabre_laser [8s 2s]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 9: MikelNieve (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-67-1417482332 - Holdem no limit (10/100/200) - 2014/12/02 01:05:32 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (2477)
+Seat 5: persinho30 (2770)
+Seat 6: Jaack-D (2550)
+Seat 7: sabre_laser (2360)
+Seat 8: nickysantoro (1747)
+Seat 9: MikelNieve (1306)
+Seat 10: willaxhot (1790)
+*** ANTE/BLINDS ***
+MikelNieve posts ante 10
+willaxhot posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+nickysantoro posts ante 10
+MikelNieve posts small blind 100
+willaxhot posts big blind 200
+Dealt to sabre_laser [3c 2s]
+*** PRE-FLOP *** 
+MECAZED folds
+persinho30 folds
+Jaack-D raises 500 to 700
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+Jaack-D collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | No rake
+Seat 6: Jaack-D won 1070
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #438705216792035329-68-1417482369 - Holdem no limit (10/100/200) - 2014/12/02 01:06:09 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (2467)
+Seat 5: persinho30 (2760)
+Seat 6: Jaack-D (2910)
+Seat 7: sabre_laser (2350)
+Seat 8: nickysantoro (1737)
+Seat 9: MikelNieve (1196)
+Seat 10: willaxhot (1580)
+*** ANTE/BLINDS ***
+willaxhot posts ante 10
+MECAZED posts ante 10
+persinho30 posts ante 10
+Jaack-D posts ante 10
+sabre_laser posts ante 10
+nickysantoro posts ante 10
+MikelNieve posts ante 10
+willaxhot posts small blind 100
+MECAZED posts big blind 200
+Dealt to sabre_laser [9c Th]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: MECAZED (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-69-1417482405 - Holdem no limit (20/150/300) - 2014/12/02 01:06:45 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (2627)
+Seat 5: persinho30 (2750)
+Seat 6: Jaack-D (2900)
+Seat 7: sabre_laser (2340)
+Seat 8: nickysantoro (1727)
+Seat 9: MikelNieve (1186)
+Seat 10: willaxhot (1470)
+*** ANTE/BLINDS ***
+MECAZED posts ante 20
+persinho30 posts ante 20
+Jaack-D posts ante 20
+sabre_laser posts ante 20
+nickysantoro posts ante 20
+MikelNieve posts ante 20
+willaxhot posts ante 20
+MECAZED posts small blind 150
+persinho30 posts big blind 300
+Dealt to sabre_laser [6s Tc]
+*** PRE-FLOP *** 
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 5: persinho30 (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-70-1417482434 - Holdem no limit (20/150/300) - 2014/12/02 01:07:14 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (2457)
+Seat 5: persinho30 (3020)
+Seat 6: Jaack-D (2880)
+Seat 7: sabre_laser (2320)
+Seat 8: nickysantoro (1707)
+Seat 9: MikelNieve (1166)
+Seat 10: willaxhot (1450)
+*** ANTE/BLINDS ***
+persinho30 posts ante 20
+Jaack-D posts ante 20
+MECAZED posts ante 20
+sabre_laser posts ante 20
+nickysantoro posts ante 20
+MikelNieve posts ante 20
+willaxhot posts ante 20
+persinho30 posts small blind 150
+Jaack-D posts big blind 300
+Dealt to sabre_laser [2h 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 6: Jaack-D (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-71-1417482478 - Holdem no limit (20/150/300) - 2014/12/02 01:07:58 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (2437)
+Seat 5: persinho30 (2850)
+Seat 6: Jaack-D (3150)
+Seat 7: sabre_laser (2300)
+Seat 8: nickysantoro (1687)
+Seat 9: MikelNieve (1146)
+Seat 10: willaxhot (1430)
+*** ANTE/BLINDS ***
+Jaack-D posts ante 20
+sabre_laser posts ante 20
+MECAZED posts ante 20
+persinho30 posts ante 20
+nickysantoro posts ante 20
+MikelNieve posts ante 20
+willaxhot posts ante 20
+Jaack-D posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Kc 9h]
+*** PRE-FLOP *** 
+nickysantoro folds
+MikelNieve folds
+willaxhot folds
+MECAZED raises 2117 to 2417 and is all-in
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+MECAZED collected 3007 from pot
+*** SUMMARY ***
+Total pot 3007 | No rake
+Seat 1: MECAZED won 3007
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-72-1417482503 - Holdem no limit (20/150/300) - 2014/12/02 01:08:23 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (3007)
+Seat 5: persinho30 (2830)
+Seat 6: Jaack-D (2980)
+Seat 7: sabre_laser (1980)
+Seat 8: nickysantoro (1667)
+Seat 9: MikelNieve (1126)
+Seat 10: willaxhot (1410)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+nickysantoro posts ante 20
+MECAZED posts ante 20
+persinho30 posts ante 20
+Jaack-D posts ante 20
+MikelNieve posts ante 20
+willaxhot posts ante 20
+sabre_laser posts small blind 150
+nickysantoro posts big blind 300
+Dealt to sabre_laser [Qs 4c]
+*** PRE-FLOP *** 
+MikelNieve folds
+willaxhot folds
+MECAZED raises 300 to 600
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MECAZED collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 1: MECAZED won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-73-1417482519 - Holdem no limit (20/150/300) - 2014/12/02 01:08:39 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #7 is the button
+Seat 1: MECAZED (3577)
+Seat 5: persinho30 (2810)
+Seat 6: Jaack-D (2960)
+Seat 7: sabre_laser (1810)
+Seat 8: nickysantoro (1347)
+Seat 9: MikelNieve (1106)
+Seat 10: willaxhot (1390)
+*** ANTE/BLINDS ***
+nickysantoro posts ante 20
+MikelNieve posts ante 20
+MECAZED posts ante 20
+persinho30 posts ante 20
+Jaack-D posts ante 20
+sabre_laser posts ante 20
+willaxhot posts ante 20
+nickysantoro posts small blind 150
+MikelNieve posts big blind 300
+Dealt to sabre_laser [2d Td]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser raises 1490 to 1790 and is all-in
+nickysantoro folds
+MikelNieve folds
+sabre_laser collected 2380 from pot
+*** SUMMARY ***
+Total pot 2380 | No rake
+Seat 7: sabre_laser (button) won 2380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-74-1417482557 - Holdem no limit (20/150/300) - 2014/12/02 01:09:17 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #8 is the button
+Seat 1: MECAZED (3557)
+Seat 5: persinho30 (2790)
+Seat 6: Jaack-D (2940)
+Seat 7: sabre_laser (2380)
+Seat 8: nickysantoro (1177)
+Seat 9: MikelNieve (786)
+Seat 10: willaxhot (1370)
+*** ANTE/BLINDS ***
+MikelNieve posts ante 20
+willaxhot posts ante 20
+MECAZED posts ante 20
+persinho30 posts ante 20
+Jaack-D posts ante 20
+sabre_laser posts ante 20
+nickysantoro posts ante 20
+MikelNieve posts small blind 150
+willaxhot posts big blind 300
+Dealt to sabre_laser [9c 3c]
+*** PRE-FLOP *** 
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+MikelNieve raises 466 to 766 and is all-in
+willaxhot raises 466 to 1232
+*** FLOP *** [Kc 2h 2c]
+*** TURN *** [Kc 2h 2c][9d]
+*** RIVER *** [Kc 2h 2c 9d][Qs]
+*** SHOW DOWN ***
+MikelNieve shows [6d 5d] (One pair : 2)
+willaxhot shows [Jc As] (One pair : 2)
+willaxhot collected 2138 from pot
+*** SUMMARY ***
+Total pot 2138 | No rake
+Board: [Kc 2h 2c 9d Qs]
+Seat 9: MikelNieve (small blind) showed [6d 5d] and lost with One pair : 2
+Seat 10: willaxhot (big blind) showed [Jc As] and won 2138 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-75-1417482586 - Holdem no limit (20/150/300) - 2014/12/02 01:09:46 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #9 is the button
+Seat 1: MECAZED (3537)
+Seat 5: persinho30 (2770)
+Seat 6: Jaack-D (2920)
+Seat 7: sabre_laser (2360)
+Seat 8: nickysantoro (1157)
+Seat 10: willaxhot (2256)
+*** ANTE/BLINDS ***
+willaxhot posts ante 20
+MECAZED posts ante 20
+persinho30 posts ante 20
+Jaack-D posts ante 20
+sabre_laser posts ante 20
+nickysantoro posts ante 20
+willaxhot posts small blind 150
+MECAZED posts big blind 300
+Dealt to sabre_laser [8d Ac]
+*** PRE-FLOP *** 
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro folds
+willaxhot folds
+MECAZED collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 1: MECAZED (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-76-1417482598 - Holdem no limit (20/150/300) - 2014/12/02 01:09:58 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #10 is the button
+Seat 1: MECAZED (3787)
+Seat 5: persinho30 (2750)
+Seat 6: Jaack-D (2900)
+Seat 7: sabre_laser (2340)
+Seat 8: nickysantoro (1137)
+Seat 10: willaxhot (2086)
+*** ANTE/BLINDS ***
+MECAZED posts ante 20
+persinho30 posts ante 20
+Jaack-D posts ante 20
+sabre_laser posts ante 20
+nickysantoro posts ante 20
+willaxhot posts ante 20
+MECAZED posts small blind 150
+persinho30 posts big blind 300
+Dealt to sabre_laser [5h 6h]
+*** PRE-FLOP *** 
+Jaack-D raises 300 to 600
+sabre_laser folds
+nickysantoro folds
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 6: Jaack-D won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-77-1417482632 - Holdem no limit (20/150/300) - 2014/12/02 01:10:32 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #1 is the button
+Seat 1: MECAZED (3617)
+Seat 5: persinho30 (2430)
+Seat 6: Jaack-D (3450)
+Seat 7: sabre_laser (2320)
+Seat 8: nickysantoro (1117)
+Seat 10: willaxhot (2066)
+*** ANTE/BLINDS ***
+persinho30 posts ante 20
+Jaack-D posts ante 20
+MECAZED posts ante 20
+sabre_laser posts ante 20
+nickysantoro posts ante 20
+willaxhot posts ante 20
+persinho30 posts small blind 150
+Jaack-D posts big blind 300
+Dealt to sabre_laser [6h 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+nickysantoro folds
+willaxhot raises 1746 to 2046 and is all-in
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+willaxhot collected 2616 from pot
+*** SUMMARY ***
+Total pot 2616 | No rake
+Seat 10: willaxhot won 2616
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #438705216792035329-78-1417482654 - Holdem no limit (20/150/300) - 2014/12/02 01:10:54 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #5 is the button
+Seat 1: MECAZED (3597)
+Seat 5: persinho30 (2260)
+Seat 6: Jaack-D (3130)
+Seat 7: sabre_laser (2300)
+Seat 8: nickysantoro (1097)
+Seat 10: willaxhot (2616)
+*** ANTE/BLINDS ***
+Jaack-D posts ante 20
+sabre_laser posts ante 20
+MECAZED posts ante 20
+persinho30 posts ante 20
+nickysantoro posts ante 20
+willaxhot posts ante 20
+Jaack-D posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [3d 9s]
+*** PRE-FLOP *** 
+nickysantoro raises 777 to 1077 and is all-in
+willaxhot folds
+MECAZED folds
+persinho30 folds
+Jaack-D folds
+sabre_laser folds
+nickysantoro collected 1647 from pot
+*** SUMMARY ***
+Total pot 1647 | No rake
+Seat 8: nickysantoro won 1647
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 9 - HandId: #438705216792035329-79-1417482755 - Holdem no limit (50/200/400) - 2014/12/02 01:12:35 UTC
+Table: 'Double or Nothing(102144018)#0' 10-max (real money) Seat #6 is the button
+Seat 1: MECAZED (3577)
+Seat 5: persinho30 (2240)
+Seat 6: Jaack-D (2960)
+Seat 7: sabre_laser (1980)
+Seat 8: nickysantoro (1647)
+Seat 10: willaxhot (2596)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+nickysantoro posts ante 50
+MECAZED posts ante 50
+persinho30 posts ante 50
+Jaack-D posts ante 50
+willaxhot posts ante 50
+sabre_laser posts small blind 200
+nickysantoro posts big blind 400
+Dealt to sabre_laser [Ks Kh]
+*** PRE-FLOP *** 
+willaxhot folds
+MECAZED folds
+persinho30 raises 1790 to 2190 and is all-in
+Jaack-D folds
+sabre_laser calls 1730 and is all-in
+nickysantoro folds
+*** FLOP *** [4d Ac 7s]
+*** TURN *** [4d Ac 7s][Tc]
+*** RIVER *** [4d Ac 7s Tc][3c]
+*** SHOW DOWN ***
+sabre_laser shows [Ks Kh] (One pair : Kings)
+persinho30 shows [6h Ah] (One pair : Aces)
+persinho30 collected 4820 from pot
+*** SUMMARY ***
+Total pot 4820 | No rake
+Board: [4d Ac 7s Tc 3c]
+Seat 5: persinho30 showed [6h Ah] and won 4820 with One pair : Aces
+Seat 7: sabre_laser (small blind) showed [Ks Kh] and lost with One pair : Kings
+
+

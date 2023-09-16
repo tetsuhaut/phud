@@ -1,0 +1,846 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586281822090952705-1-1446833360 - Holdem no limit (10/20) - 2015/11/06 18:09:20 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bboydring (1500)
+Seat 2: bquidam (1500)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (1500)
+Seat 5: V-KING (1500)
+Seat 6: slb68 (1500)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1500)
+Seat 9: crazypix (1500)
+Seat 10: mbtrezeguet (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+V-KING posts big blind 20
+Dealt to sabre_laser [3c 8c]
+*** PRE-FLOP *** 
+slb68 calls 20
+eltaros folds
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring folds
+bquidam folds
+666eldiabolo folds
+sabre_laser calls 10
+V-KING checks
+*** FLOP *** [3d 5h Ad]
+sabre_laser bets 30
+V-KING raises 30 to 60
+slb68 calls 60
+sabre_laser calls 30
+*** TURN *** [3d 5h Ad][8s]
+sabre_laser checks
+V-KING checks
+slb68 bets 90
+sabre_laser calls 90
+V-KING folds
+*** RIVER *** [3d 5h Ad 8s][4h]
+sabre_laser bets 90
+slb68 calls 90
+*** SHOW DOWN ***
+slb68 shows [Jh Ac] (One pair : Aces)
+sabre_laser shows [3c 8c] (Two pairs : 8 and 3)
+sabre_laser collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3d 5h Ad 8s 4h]
+Seat 4: sabre_laser (small blind) showed [3c 8c] and won 600 with Two pairs : 8 and 3
+Seat 6: slb68 showed [Jh Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586281822090952705-2-1446833480 - Holdem no limit (10/20) - 2015/11/06 18:11:20 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bboydring (1500)
+Seat 2: bquidam (1500)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (1840)
+Seat 5: V-KING (1420)
+Seat 6: slb68 (1240)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1500)
+Seat 9: crazypix (1500)
+Seat 10: mbtrezeguet (1500)
+*** ANTE/BLINDS ***
+V-KING posts small blind 10
+slb68 posts big blind 20
+Dealt to sabre_laser [Ac Qs]
+*** PRE-FLOP *** 
+eltaros folds
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring calls 20
+bquidam calls 20
+666eldiabolo folds
+sabre_laser raises 110 to 130
+V-KING folds
+slb68 folds
+bboydring calls 110
+bquidam folds
+*** FLOP *** [5d 5s 6h]
+bboydring checks
+sabre_laser bets 207
+bboydring folds
+sabre_laser collected 517 from pot
+*** SUMMARY ***
+Total pot 517 | No rake
+Board: [5d 5s 6h]
+Seat 4: sabre_laser (button) won 517
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586281822090952705-3-1446833544 - Holdem no limit (10/20) - 2015/11/06 18:12:24 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #5 is the button
+Seat 1: bboydring (1370)
+Seat 2: bquidam (1480)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (2020)
+Seat 5: V-KING (1410)
+Seat 6: slb68 (1220)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1500)
+Seat 9: crazypix (1500)
+Seat 10: mbtrezeguet (1500)
+*** ANTE/BLINDS ***
+slb68 posts small blind 10
+eltaros posts big blind 20
+Dealt to sabre_laser [6h Qs]
+*** PRE-FLOP *** 
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring folds
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 folds
+eltaros collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 7: eltaros (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586281822090952705-4-1446833594 - Holdem no limit (10/20) - 2015/11/06 18:13:14 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #6 is the button
+Seat 1: bboydring (1370)
+Seat 2: bquidam (1480)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (2020)
+Seat 5: V-KING (1410)
+Seat 6: slb68 (1210)
+Seat 7: eltaros (1510)
+Seat 8: regenci (1500)
+Seat 9: crazypix (1500)
+Seat 10: mbtrezeguet (1500)
+*** ANTE/BLINDS ***
+eltaros posts small blind 10
+regenci posts big blind 20
+Dealt to sabre_laser [9c 7d]
+*** PRE-FLOP *** 
+crazypix folds
+mbtrezeguet folds
+bboydring raises 60 to 80
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 calls 80
+eltaros folds
+regenci calls 60
+*** FLOP *** [Ts 8d 2s]
+regenci checks
+bboydring bets 125
+slb68 folds
+regenci folds
+bboydring collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Ts 8d 2s]
+Seat 1: bboydring won 375
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #586281822090952705-5-1446833701 - Holdem no limit (10/20) - 2015/11/06 18:15:01 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #7 is the button
+Seat 1: bboydring (1540)
+Seat 2: bquidam (1480)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (2020)
+Seat 5: V-KING (1410)
+Seat 6: slb68 (1130)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1420)
+Seat 9: crazypix (1500)
+Seat 10: mbtrezeguet (1500)
+*** ANTE/BLINDS ***
+regenci posts small blind 10
+crazypix posts big blind 20
+Dealt to sabre_laser [3c Qh]
+*** PRE-FLOP *** 
+mbtrezeguet folds
+bboydring calls 20
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 folds
+eltaros folds
+regenci folds
+crazypix checks
+*** FLOP *** [Kh 2h As]
+crazypix checks
+bboydring checks
+*** TURN *** [Kh 2h As][4d]
+crazypix checks
+bboydring bets 25
+crazypix folds
+bboydring shows [4c 4h] (Trips of 4)
+bboydring collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Kh 2h As 4d]
+Seat 1: bboydring showed [4c 4h] and won 75 with Trips of 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #586281822090952705-6-1446833824 - Holdem no limit (15/30) - 2015/11/06 18:17:04 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bboydring (1570)
+Seat 2: bquidam (1480)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (2020)
+Seat 5: V-KING (1410)
+Seat 6: slb68 (1130)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1410)
+Seat 9: crazypix (1480)
+Seat 10: mbtrezeguet (1500)
+*** ANTE/BLINDS ***
+crazypix posts small blind 15
+mbtrezeguet posts big blind 30
+Dealt to sabre_laser [5d 6d]
+*** PRE-FLOP *** 
+bboydring calls 30
+bquidam folds
+666eldiabolo folds
+sabre_laser calls 30
+V-KING folds
+slb68 calls 30
+eltaros folds
+regenci folds
+crazypix calls 15
+mbtrezeguet checks
+*** FLOP *** [3d 8s Tc]
+crazypix checks
+mbtrezeguet checks
+bboydring checks
+sabre_laser checks
+slb68 checks
+*** TURN *** [3d 8s Tc][7c]
+crazypix checks
+mbtrezeguet checks
+bboydring checks
+sabre_laser checks
+slb68 checks
+*** RIVER *** [3d 8s Tc 7c][Ad]
+crazypix checks
+mbtrezeguet bets 313
+bboydring calls 313
+sabre_laser folds
+slb68 folds
+crazypix folds
+*** SHOW DOWN ***
+bboydring shows [4s Ac] (One pair : Aces)
+mbtrezeguet shows [Ah 8d] (Two pairs : Aces and 8)
+mbtrezeguet collected 776 from pot
+*** SUMMARY ***
+Total pot 776 | No rake
+Board: [3d 8s Tc 7c Ad]
+Seat 1: bboydring showed [4s Ac] and lost with One pair : Aces
+Seat 10: mbtrezeguet (big blind) showed [Ah 8d] and won 776 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #586281822090952705-7-1446834013 - Holdem no limit (15/30) - 2015/11/06 18:20:13 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bboydring (1227)
+Seat 2: bquidam (1480)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (1990)
+Seat 5: V-KING (1410)
+Seat 6: slb68 (1100)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1410)
+Seat 9: crazypix (1450)
+Seat 10: mbtrezeguet (1933)
+*** ANTE/BLINDS ***
+mbtrezeguet posts small blind 15
+bboydring posts big blind 30
+Dealt to sabre_laser [9s 2c]
+*** PRE-FLOP *** 
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 folds
+eltaros folds
+regenci raises 30 to 60
+crazypix folds
+mbtrezeguet folds
+bboydring calls 30
+*** FLOP *** [4s Qs 5c]
+bboydring checks
+regenci bets 68
+bboydring calls 68
+*** TURN *** [4s Qs 5c][Jh]
+bboydring checks
+regenci checks
+*** RIVER *** [4s Qs 5c Jh][Tc]
+bboydring checks
+regenci bets 181
+bboydring folds
+regenci collected 452 from pot
+*** SUMMARY ***
+Total pot 452 | No rake
+Board: [4s Qs 5c Jh Tc]
+Seat 8: regenci won 452
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586281822090952705-8-1446834099 - Holdem no limit (20/40) - 2015/11/06 18:21:39 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #10 is the button
+Seat 1: bboydring (1099)
+Seat 2: bquidam (1480)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (1990)
+Seat 5: V-KING (1410)
+Seat 6: slb68 (1100)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1553)
+Seat 9: crazypix (1450)
+Seat 10: mbtrezeguet (1918)
+*** ANTE/BLINDS ***
+bboydring posts small blind 20
+bquidam posts big blind 40
+Dealt to sabre_laser [4c Jc]
+*** PRE-FLOP *** 
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 folds
+eltaros folds
+regenci raises 40 to 80
+crazypix folds
+mbtrezeguet folds
+bboydring calls 60
+bquidam calls 40
+*** FLOP *** [2c 7d 5c]
+bboydring checks
+bquidam checks
+regenci bets 160
+bboydring folds
+bquidam folds
+regenci collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [2c 7d 5c]
+Seat 8: regenci won 400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586281822090952705-9-1446834163 - Holdem no limit (20/40) - 2015/11/06 18:22:43 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bboydring (1019)
+Seat 2: bquidam (1400)
+Seat 3: 666eldiabolo (1500)
+Seat 4: sabre_laser (1990)
+Seat 5: V-KING (1410)
+Seat 6: slb68 (1100)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1713)
+Seat 9: crazypix (1450)
+Seat 10: mbtrezeguet (1918)
+*** ANTE/BLINDS ***
+bquidam posts small blind 20
+666eldiabolo posts big blind 40
+Dealt to sabre_laser [4d 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+V-KING calls 40
+slb68 folds
+eltaros folds
+regenci folds
+crazypix raises 52 to 92
+mbtrezeguet calls 92
+bboydring folds
+bquidam folds
+666eldiabolo folds
+V-KING calls 52
+*** FLOP *** [Ts 5c 2d]
+V-KING checks
+crazypix checks
+mbtrezeguet bets 168
+V-KING folds
+crazypix folds
+mbtrezeguet collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | No rake
+Board: [Ts 5c 2d]
+Seat 10: mbtrezeguet won 504
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586281822090952705-10-1446834243 - Holdem no limit (20/40) - 2015/11/06 18:24:03 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bboydring (1019)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1460)
+Seat 4: sabre_laser (1990)
+Seat 5: V-KING (1318)
+Seat 6: slb68 (1100)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1713)
+Seat 9: crazypix (1358)
+Seat 10: mbtrezeguet (2162)
+*** ANTE/BLINDS ***
+666eldiabolo posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Qc 3s]
+*** PRE-FLOP *** 
+V-KING folds
+slb68 raises 40 to 80
+eltaros folds
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring raises 939 to 1019 and is all-in
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+slb68 folds
+bboydring collected 1159 from pot
+*** SUMMARY ***
+Total pot 1159 | No rake
+Seat 1: bboydring won 1159
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586281822090952705-11-1446834279 - Holdem no limit (20/40) - 2015/11/06 18:24:39 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bboydring (1159)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (1950)
+Seat 5: V-KING (1318)
+Seat 6: slb68 (1020)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1713)
+Seat 9: crazypix (1358)
+Seat 10: mbtrezeguet (2162)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+V-KING posts big blind 40
+Dealt to sabre_laser [Kh Jh]
+*** PRE-FLOP *** 
+slb68 folds
+eltaros folds
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring calls 40
+bquidam folds
+666eldiabolo folds
+sabre_laser calls 20
+V-KING raises 160 to 200
+bboydring calls 160
+sabre_laser calls 160
+*** FLOP *** [Td Ah 4s]
+sabre_laser checks
+V-KING bets 300
+bboydring raises 659 to 959 and is all-in
+sabre_laser folds
+V-KING folds
+bboydring collected 1859 from pot
+*** SUMMARY ***
+Total pot 1859 | No rake
+Board: [Td Ah 4s]
+Seat 1: bboydring won 1859
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #586281822090952705-12-1446834344 - Holdem no limit (20/40) - 2015/11/06 18:25:44 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bboydring (1859)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (1750)
+Seat 5: V-KING (818)
+Seat 6: slb68 (1020)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1713)
+Seat 9: crazypix (1358)
+Seat 10: mbtrezeguet (2162)
+*** ANTE/BLINDS ***
+V-KING posts small blind 20
+slb68 posts big blind 40
+Dealt to sabre_laser [Ad Ah]
+*** PRE-FLOP *** 
+eltaros folds
+regenci folds
+crazypix calls 40
+mbtrezeguet calls 40
+bboydring folds
+bquidam folds
+666eldiabolo folds
+sabre_laser raises 180 to 220
+V-KING folds
+slb68 folds
+crazypix folds
+mbtrezeguet calls 180
+*** FLOP *** [4h 3h Jc]
+mbtrezeguet checks
+sabre_laser bets 140
+mbtrezeguet calls 140
+*** TURN *** [4h 3h Jc][6h]
+mbtrezeguet checks
+sabre_laser bets 320
+mbtrezeguet calls 320
+*** RIVER *** [4h 3h Jc 6h][4s]
+mbtrezeguet checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Ad Ah] (Two pairs : Aces and 4)
+mbtrezeguet shows [Js Jd] (Full of Jacks and 4)
+mbtrezeguet collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [4h 3h Jc 6h 4s]
+Seat 4: sabre_laser (button) showed [Ad Ah] and lost with Two pairs : Aces and 4
+Seat 10: mbtrezeguet showed [Js Jd] and won 1460 with Full of Jacks and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586281822090952705-13-1446834478 - Holdem no limit (30/60) - 2015/11/06 18:27:58 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #5 is the button
+Seat 1: bboydring (1859)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (1070)
+Seat 5: V-KING (798)
+Seat 6: slb68 (980)
+Seat 7: eltaros (1500)
+Seat 8: regenci (1713)
+Seat 9: crazypix (1318)
+Seat 10: mbtrezeguet (2942)
+*** ANTE/BLINDS ***
+slb68 posts small blind 30
+eltaros posts big blind 60
+Dealt to sabre_laser [Ac Qd]
+*** PRE-FLOP *** 
+regenci folds
+crazypix folds
+mbtrezeguet calls 60
+bboydring folds
+bquidam folds
+666eldiabolo folds
+sabre_laser raises 120 to 180
+V-KING raises 618 to 798 and is all-in
+slb68 folds
+eltaros folds
+mbtrezeguet folds
+sabre_laser calls 618
+*** FLOP *** [4d 3h 4h]
+*** TURN *** [4d 3h 4h][Kh]
+*** RIVER *** [4d 3h 4h Kh][8d]
+*** SHOW DOWN ***
+sabre_laser shows [Ac Qd] (One pair : 4)
+V-KING shows [Ah Kd] (Two pairs : Kings and 4)
+V-KING collected 1746 from pot
+*** SUMMARY ***
+Total pot 1746 | No rake
+Board: [4d 3h 4h Kh 8d]
+Seat 4: sabre_laser showed [Ac Qd] and lost with One pair : 4
+Seat 5: V-KING (button) showed [Ah Kd] and won 1746 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586281822090952705-14-1446834574 - Holdem no limit (30/60) - 2015/11/06 18:29:34 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #6 is the button
+Seat 1: bboydring (1859)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (272)
+Seat 5: V-KING (1746)
+Seat 6: slb68 (950)
+Seat 7: eltaros (1440)
+Seat 8: regenci (1713)
+Seat 9: crazypix (1318)
+Seat 10: mbtrezeguet (2882)
+*** ANTE/BLINDS ***
+eltaros posts small blind 30
+regenci posts big blind 60
+Dealt to sabre_laser [4c Qc]
+*** PRE-FLOP *** 
+crazypix folds
+mbtrezeguet folds
+bboydring calls 60
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 calls 60
+eltaros calls 30
+regenci checks
+*** FLOP *** [8h Ks Kc]
+eltaros checks
+regenci checks
+bboydring checks
+slb68 checks
+*** TURN *** [8h Ks Kc][Jh]
+eltaros checks
+regenci bets 160
+bboydring calls 160
+slb68 folds
+eltaros folds
+*** RIVER *** [8h Ks Kc Jh][3s]
+regenci checks
+bboydring checks
+*** SHOW DOWN ***
+bboydring shows [Js Qs] (Two pairs : Kings and Jacks)
+regenci shows [2c Kd] (Trips of Kings)
+regenci collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [8h Ks Kc Jh 3s]
+Seat 1: bboydring showed [Js Qs] and lost with Two pairs : Kings and Jacks
+Seat 8: regenci (big blind) showed [2c Kd] and won 560 with Trips of Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586281822090952705-15-1446834704 - Holdem no limit (30/60) - 2015/11/06 18:31:44 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #7 is the button
+Seat 1: bboydring (1639)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (272)
+Seat 5: V-KING (1746)
+Seat 6: slb68 (890)
+Seat 7: eltaros (1380)
+Seat 8: regenci (2053)
+Seat 9: crazypix (1318)
+Seat 10: mbtrezeguet (2882)
+*** ANTE/BLINDS ***
+regenci posts small blind 30
+crazypix posts big blind 60
+Dealt to sabre_laser [As Qd]
+*** PRE-FLOP *** 
+mbtrezeguet folds
+bboydring folds
+bquidam folds
+666eldiabolo folds
+sabre_laser raises 212 to 272 and is all-in
+V-KING folds
+slb68 folds
+eltaros folds
+regenci folds
+crazypix folds
+sabre_laser collected 362 from pot
+*** SUMMARY ***
+Total pot 362 | No rake
+Seat 4: sabre_laser won 362
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #586281822090952705-16-1446834755 - Holdem no limit (30/60) - 2015/11/06 18:32:35 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #8 is the button
+Seat 1: bboydring (1639)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (362)
+Seat 5: V-KING (1746)
+Seat 6: slb68 (890)
+Seat 7: eltaros (1380)
+Seat 8: regenci (2023)
+Seat 9: crazypix (1258)
+Seat 10: mbtrezeguet (2882)
+*** ANTE/BLINDS ***
+crazypix posts small blind 30
+mbtrezeguet posts big blind 60
+Dealt to sabre_laser [2d 8s]
+*** PRE-FLOP *** 
+bboydring calls 60
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 raises 60 to 120
+eltaros folds
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring calls 60
+*** FLOP *** [Qd 6s 4h]
+bboydring checks
+slb68 checks
+*** TURN *** [Qd 6s 4h][9c]
+bboydring bets 165
+slb68 calls 165
+*** RIVER *** [Qd 6s 4h 9c][Jh]
+bboydring bets 330
+slb68 folds
+bboydring shows [6h 6c] (Trips of 6)
+bboydring collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [Qd 6s 4h 9c Jh]
+Seat 1: bboydring showed [6h 6c] and won 990 with Trips of 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #586281822090952705-17-1446834835 - Holdem no limit (40/80) - 2015/11/06 18:33:55 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #9 is the button
+Seat 1: bboydring (2014)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (362)
+Seat 5: V-KING (1746)
+Seat 6: slb68 (605)
+Seat 7: eltaros (1380)
+Seat 8: regenci (2023)
+Seat 9: crazypix (1228)
+Seat 10: mbtrezeguet (2822)
+*** ANTE/BLINDS ***
+mbtrezeguet posts small blind 40
+bboydring posts big blind 80
+Dealt to sabre_laser [9s 5s]
+*** PRE-FLOP *** 
+bquidam folds
+666eldiabolo folds
+sabre_laser folds
+V-KING folds
+slb68 folds
+eltaros folds
+regenci raises 80 to 160
+crazypix folds
+mbtrezeguet folds
+bboydring calls 80
+*** FLOP *** [7h Qc 6s]
+bboydring checks
+regenci bets 180
+bboydring raises 180 to 360
+regenci calls 180
+*** TURN *** [7h Qc 6s][9d]
+bboydring checks
+regenci checks
+*** RIVER *** [7h Qc 6s 9d][8h]
+bboydring checks
+regenci checks
+*** SHOW DOWN ***
+regenci shows [7c Ac] (One pair : 7)
+bboydring shows [Qs 7s] (Two pairs : Queens and 7)
+bboydring collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [7h Qc 6s 9d 8h]
+Seat 1: bboydring (big blind) showed [Qs 7s] and won 1080 with Two pairs : Queens and 7
+Seat 8: regenci showed [7c Ac] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #586281822090952705-18-1446834911 - Holdem no limit (40/80) - 2015/11/06 18:35:11 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #10 is the button
+Seat 1: bboydring (2574)
+Seat 2: bquidam (1380)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (362)
+Seat 5: V-KING (1746)
+Seat 6: slb68 (605)
+Seat 7: eltaros (1380)
+Seat 8: regenci (1503)
+Seat 9: crazypix (1228)
+Seat 10: mbtrezeguet (2782)
+*** ANTE/BLINDS ***
+bboydring posts small blind 40
+bquidam posts big blind 80
+Dealt to sabre_laser [7c Ah]
+*** PRE-FLOP *** 
+666eldiabolo folds
+sabre_laser raises 282 to 362 and is all-in
+V-KING folds
+slb68 folds
+eltaros folds
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring folds
+bquidam folds
+sabre_laser collected 482 from pot
+*** SUMMARY ***
+Total pot 482 | No rake
+Seat 4: sabre_laser won 482
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #586281822090952705-19-1446834951 - Holdem no limit (40/80) - 2015/11/06 18:35:51 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #1 is the button
+Seat 1: bboydring (2534)
+Seat 2: bquidam (1300)
+Seat 3: 666eldiabolo (1440)
+Seat 4: sabre_laser (482)
+Seat 5: V-KING (1746)
+Seat 6: slb68 (605)
+Seat 7: eltaros (1380)
+Seat 8: regenci (1503)
+Seat 9: crazypix (1228)
+Seat 10: mbtrezeguet (2782)
+*** ANTE/BLINDS ***
+bquidam posts small blind 40
+666eldiabolo posts big blind 80
+Dealt to sabre_laser [2d 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+V-KING folds
+slb68 raises 525 to 605 and is all-in
+eltaros folds
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring folds
+bquidam folds
+666eldiabolo folds
+slb68 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Seat 6: slb68 won 725
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #586281822090952705-20-1446834979 - Holdem no limit (40/80) - 2015/11/06 18:36:19 UTC
+Table: 'Double or Nothing(136504374)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bboydring (2534)
+Seat 2: bquidam (1260)
+Seat 3: 666eldiabolo (1360)
+Seat 4: sabre_laser (482)
+Seat 5: V-KING (1746)
+Seat 6: slb68 (725)
+Seat 7: eltaros (1380)
+Seat 8: regenci (1503)
+Seat 9: crazypix (1228)
+Seat 10: mbtrezeguet (2782)
+*** ANTE/BLINDS ***
+666eldiabolo posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [5h 3s]
+*** PRE-FLOP *** 
+V-KING folds
+slb68 folds
+eltaros calls 80
+regenci folds
+crazypix folds
+mbtrezeguet folds
+bboydring folds
+bquidam folds
+666eldiabolo folds
+sabre_laser checks
+*** FLOP *** [4s 8d 5c]
+sabre_laser bets 402 and is all-in
+eltaros calls 402
+*** TURN *** [4s 8d 5c][8c]
+*** RIVER *** [4s 8d 5c 8c][Jc]
+*** SHOW DOWN ***
+sabre_laser shows [5h 3s] (Two pairs : 8 and 5)
+eltaros shows [Td Ts] (Two pairs : Tens and 8)
+eltaros collected 1004 from pot
+*** SUMMARY ***
+Total pot 1004 | No rake
+Board: [4s 8d 5c 8c Jc]
+Seat 4: sabre_laser (big blind) showed [5h 3s] and lost with Two pairs : 8 and 5
+Seat 7: eltaros showed [Td Ts] and won 1004 with Two pairs : Tens and 8
+
+

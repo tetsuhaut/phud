@@ -1,0 +1,2423 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #590113663063425049-27-1448748965 - Holdem no limit (75/400/800) - 2015/11/28 22:16:05 UTC
+Table: 'MiniRoll(137396544)#024' 8-max (real money) Seat #3 is the button
+Seat 1: hassoune59 (19610)
+Seat 2: caramelo11 (17080)
+Seat 3: philosophe17 (29050)
+Seat 4: tictactuc (6255)
+Seat 5: Titoons59 (18020)
+Seat 6: sabre_laser (39215)
+Seat 7: Jocy42 (18415)
+Seat 8: Le Binch (13395)
+*** ANTE/BLINDS ***
+tictactuc posts ante 75
+Titoons59 posts ante 75
+hassoune59 posts ante 75
+caramelo11 posts ante 75
+philosophe17 posts ante 75
+sabre_laser posts ante 75
+Jocy42 posts ante 75
+Le Binch posts ante 75
+tictactuc posts small blind 400
+Titoons59 posts big blind 800
+Dealt to sabre_laser [5s Kh]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jocy42 folds
+Le Binch calls 800
+hassoune59 calls 800
+caramelo11 calls 800
+philosophe17 folds
+tictactuc folds
+Titoons59 checks
+*** FLOP *** [3d 6h Td]
+Titoons59 bets 800
+Le Binch folds
+hassoune59 calls 800
+caramelo11 folds
+*** TURN *** [3d 6h Td][4h]
+Titoons59 checks
+hassoune59 checks
+*** RIVER *** [3d 6h Td 4h][5c]
+Titoons59 bets 800
+hassoune59 folds
+Titoons59 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Board: [3d 6h Td 4h 5c]
+Seat 5: Titoons59 (big blind) won 6600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #590113663063425049-28-1448749026 - Holdem no limit (75/400/800) - 2015/11/28 22:17:06 UTC
+Table: 'MiniRoll(137396544)#024' 8-max (real money) Seat #4 is the button
+Seat 1: hassoune59 (17935)
+Seat 2: caramelo11 (16205)
+Seat 3: philosophe17 (28975)
+Seat 4: tictactuc (5780)
+Seat 5: Titoons59 (22145)
+Seat 6: sabre_laser (39140)
+Seat 7: Jocy42 (18340)
+Seat 8: Le Binch (12520)
+*** ANTE/BLINDS ***
+Titoons59 posts ante 75
+sabre_laser posts ante 75
+hassoune59 posts ante 75
+caramelo11 posts ante 75
+philosophe17 posts ante 75
+tictactuc posts ante 75
+Jocy42 posts ante 75
+Le Binch posts ante 75
+Titoons59 posts small blind 400
+sabre_laser posts big blind 800
+Dealt to sabre_laser [Ac 7s]
+*** PRE-FLOP *** 
+Jocy42 calls 800
+Le Binch calls 800
+hassoune59 folds
+caramelo11 folds
+philosophe17 folds
+tictactuc folds
+Titoons59 folds
+sabre_laser checks
+*** FLOP *** [5c 7h Jc]
+sabre_laser checks
+Jocy42 checks
+Le Binch checks
+*** TURN *** [5c 7h Jc][8d]
+sabre_laser bets 800
+Jocy42 folds
+Le Binch folds
+sabre_laser collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [5c 7h Jc 8d]
+Seat 6: sabre_laser (big blind) won 4200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #590113663063425049-29-1448749081 - Holdem no limit (75/400/800) - 2015/11/28 22:18:01 UTC
+Table: 'MiniRoll(137396544)#024' 8-max (real money) Seat #5 is the button
+Seat 1: hassoune59 (17860)
+Seat 2: caramelo11 (16130)
+Seat 3: philosophe17 (28900)
+Seat 4: tictactuc (5705)
+Seat 5: Titoons59 (21670)
+Seat 6: sabre_laser (41665)
+Seat 7: Jocy42 (17465)
+Seat 8: Le Binch (11645)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 75
+Jocy42 posts ante 75
+hassoune59 posts ante 75
+caramelo11 posts ante 75
+philosophe17 posts ante 75
+tictactuc posts ante 75
+Titoons59 posts ante 75
+Le Binch posts ante 75
+sabre_laser posts small blind 400
+Jocy42 posts big blind 800
+Dealt to sabre_laser [5d 5s]
+*** PRE-FLOP *** 
+Le Binch folds
+hassoune59 calls 800
+caramelo11 raises 1200 to 2000
+philosophe17 folds
+tictactuc folds
+Titoons59 folds
+sabre_laser folds
+Jocy42 folds
+hassoune59 calls 1200
+*** FLOP *** [Kh 7h 7s]
+hassoune59 checks
+caramelo11 bets 14055 and is all-in
+hassoune59 folds
+caramelo11 collected 19855 from pot
+*** SUMMARY ***
+Total pot 19855 | No rake
+Board: [Kh 7h 7s]
+Seat 2: caramelo11 won 19855
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #590113663063425049-30-1448749131 - Holdem no limit (75/400/800) - 2015/11/28 22:18:51 UTC
+Table: 'MiniRoll(137396544)#024' 8-max (real money) Seat #6 is the button
+Seat 1: hassoune59 (15785)
+Seat 2: caramelo11 (19855)
+Seat 3: philosophe17 (28825)
+Seat 4: tictactuc (5630)
+Seat 5: Titoons59 (21595)
+Seat 6: sabre_laser (41190)
+Seat 7: Jocy42 (16590)
+Seat 8: Le Binch (11570)
+*** ANTE/BLINDS ***
+Jocy42 posts ante 75
+Le Binch posts ante 75
+hassoune59 posts ante 75
+caramelo11 posts ante 75
+philosophe17 posts ante 75
+tictactuc posts ante 75
+Titoons59 posts ante 75
+sabre_laser posts ante 75
+Jocy42 posts small blind 400
+Le Binch posts big blind 800
+Dealt to sabre_laser [Th Ah]
+*** PRE-FLOP *** 
+hassoune59 calls 800
+caramelo11 calls 800
+philosophe17 folds
+tictactuc folds
+Titoons59 folds
+sabre_laser calls 800
+Jocy42 folds
+Le Binch checks
+*** FLOP *** [8d Jc 8c]
+Le Binch checks
+hassoune59 checks
+caramelo11 bets 3150
+sabre_laser folds
+Le Binch folds
+hassoune59 folds
+caramelo11 collected 7350 from pot
+*** SUMMARY ***
+Total pot 7350 | No rake
+Board: [8d Jc 8c]
+Seat 2: caramelo11 won 7350
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #590113663063425049-31-1448749183 - Holdem no limit (75/400/800) - 2015/11/28 22:19:43 UTC
+Table: 'MiniRoll(137396544)#024' 8-max (real money) Seat #7 is the button
+Seat 1: hassoune59 (14910)
+Seat 2: caramelo11 (23180)
+Seat 3: philosophe17 (28750)
+Seat 4: tictactuc (5555)
+Seat 5: Titoons59 (21520)
+Seat 6: sabre_laser (40315)
+Seat 7: Jocy42 (16115)
+Seat 8: Le Binch (10695)
+*** ANTE/BLINDS ***
+Le Binch posts ante 75
+hassoune59 posts ante 75
+caramelo11 posts ante 75
+philosophe17 posts ante 75
+tictactuc posts ante 75
+Titoons59 posts ante 75
+sabre_laser posts ante 75
+Jocy42 posts ante 75
+Le Binch posts small blind 400
+hassoune59 posts big blind 800
+Dealt to sabre_laser [4d 5d]
+*** PRE-FLOP *** 
+caramelo11 folds
+philosophe17 folds
+tictactuc calls 800
+Titoons59 calls 800
+sabre_laser folds
+Jocy42 calls 800
+Le Binch folds
+hassoune59 checks
+*** FLOP *** [3s 6h 7d]
+hassoune59 checks
+tictactuc checks
+Titoons59 checks
+Jocy42 checks
+*** TURN *** [3s 6h 7d][7s]
+hassoune59 checks
+tictactuc checks
+Titoons59 checks
+Jocy42 checks
+*** RIVER *** [3s 6h 7d 7s][3h]
+hassoune59 bets 4200
+tictactuc folds
+Titoons59 folds
+Jocy42 folds
+hassoune59 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Board: [3s 6h 7d 7s 3h]
+Seat 1: hassoune59 (big blind) won 8400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #590113663063425042-41-1448749276 - Holdem no limit (100/500/1000) - 2015/11/28 22:21:16 UTC
+Table: 'MiniRoll(137396544)#017' 8-max (real money) Seat #8 is the button
+Seat 1: tituxa (18541)
+Seat 2: XxXromXx (16340)
+Seat 3: jphi67 (22810)
+Seat 4: Kiitch (6865)
+Seat 5: propokNL (29650)
+Seat 6: sabre_laser (40240)
+Seat 7: papat22 (16620)
+Seat 8: D-money (9524)
+*** ANTE/BLINDS ***
+tituxa posts ante 100
+XxXromXx posts ante 100
+jphi67 posts ante 100
+Kiitch posts ante 100
+propokNL posts ante 100
+sabre_laser posts ante 100
+papat22 posts ante 100
+D-money posts ante 100
+tituxa posts small blind 500
+XxXromXx posts big blind 1000
+Dealt to sabre_laser [7d 8h]
+*** PRE-FLOP *** 
+jphi67 folds
+Kiitch folds
+propokNL folds
+sabre_laser folds
+papat22 folds
+D-money folds
+tituxa calls 500
+XxXromXx checks
+*** FLOP *** [Qc Qs 8c]
+tituxa bets 1000
+XxXromXx calls 1000
+*** TURN *** [Qc Qs 8c][Th]
+tituxa bets 1000
+XxXromXx folds
+tituxa collected 5800 from pot
+*** SUMMARY ***
+Total pot 5800 | No rake
+Board: [Qc Qs 8c Th]
+Seat 1: tituxa (small blind) won 5800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #590113663063425042-42-1448749344 - Holdem no limit (100/500/1000) - 2015/11/28 22:22:24 UTC
+Table: 'MiniRoll(137396544)#017' 8-max (real money) Seat #1 is the button
+Seat 1: tituxa (21241)
+Seat 2: XxXromXx (14240)
+Seat 3: jphi67 (22710)
+Seat 4: Kiitch (6765)
+Seat 5: propokNL (29550)
+Seat 6: sabre_laser (40140)
+Seat 7: papat22 (16520)
+Seat 8: D-money (9424)
+*** ANTE/BLINDS ***
+XxXromXx posts ante 100
+jphi67 posts ante 100
+tituxa posts ante 100
+Kiitch posts ante 100
+propokNL posts ante 100
+sabre_laser posts ante 100
+papat22 posts ante 100
+D-money posts ante 100
+XxXromXx posts small blind 500
+jphi67 posts big blind 1000
+Dealt to sabre_laser [As Ad]
+*** PRE-FLOP *** 
+Kiitch folds
+propokNL folds
+sabre_laser raises 1000 to 2000
+papat22 folds
+D-money folds
+tituxa calls 2000
+XxXromXx calls 1500
+jphi67 calls 1000
+*** FLOP *** [Qh 9h Kd]
+XxXromXx checks
+jphi67 checks
+sabre_laser bets 38040 and is all-in
+tituxa folds
+XxXromXx folds
+jphi67 folds
+sabre_laser collected 46840 from pot
+*** SUMMARY ***
+Total pot 46840 | No rake
+Board: [Qh 9h Kd]
+Seat 6: sabre_laser won 46840
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #590113663063425042-43-1448749408 - Holdem no limit (100/500/1000) - 2015/11/28 22:23:28 UTC
+Table: 'MiniRoll(137396544)#017' 8-max (real money) Seat #2 is the button
+Seat 1: tituxa (19141)
+Seat 2: XxXromXx (12140)
+Seat 3: jphi67 (20610)
+Seat 4: Kiitch (6665)
+Seat 5: propokNL (29450)
+Seat 6: sabre_laser (46840)
+Seat 7: papat22 (16420)
+Seat 8: D-money (9324)
+*** ANTE/BLINDS ***
+jphi67 posts ante 100
+Kiitch posts ante 100
+tituxa posts ante 100
+XxXromXx posts ante 100
+propokNL posts ante 100
+sabre_laser posts ante 100
+papat22 posts ante 100
+D-money posts ante 100
+jphi67 posts small blind 500
+Kiitch posts big blind 1000
+Dealt to sabre_laser [9h 3c]
+*** PRE-FLOP *** 
+propokNL calls 1000
+sabre_laser folds
+papat22 raises 1000 to 2000
+D-money folds
+tituxa calls 2000
+XxXromXx folds
+jphi67 calls 1500
+Kiitch raises 4565 to 6565 and is all-in
+propokNL folds
+papat22 raises 9755 to 16320 and is all-in
+tituxa folds
+jphi67 folds
+*** FLOP *** [5c 4c Kh]
+*** TURN *** [5c 4c Kh][5d]
+*** RIVER *** [5c 4c Kh 5d][Ac]
+*** SHOW DOWN ***
+Kiitch shows [6s 6d] (Two pairs : 6 and 5)
+papat22 shows [Ts Td] (Two pairs : Tens and 5)
+papat22 collected 28685 from pot
+*** SUMMARY ***
+Total pot 28685 | No rake
+Board: [5c 4c Kh 5d Ac]
+Seat 4: Kiitch (big blind) showed [6s 6d] and lost with Two pairs : 6 and 5
+Seat 7: papat22 showed [Ts Td] and won 28685 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #590113663063425042-44-1448749479 - Holdem no limit (100/500/1000) - 2015/11/28 22:24:39 UTC
+Table: 'MiniRoll(137396544)#017' 8-max (real money) Seat #3 is the button
+Seat 1: tituxa (17041)
+Seat 2: XxXromXx (12040)
+Seat 3: jphi67 (18510)
+Seat 5: propokNL (28350)
+Seat 6: sabre_laser (46740)
+Seat 7: papat22 (28685)
+Seat 8: D-money (9224)
+*** ANTE/BLINDS ***
+propokNL posts ante 100
+tituxa posts ante 100
+XxXromXx posts ante 100
+jphi67 posts ante 100
+sabre_laser posts ante 100
+papat22 posts ante 100
+D-money posts ante 100
+propokNL posts big blind 1000
+Dealt to sabre_laser [7c Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+papat22 folds
+D-money folds
+tituxa calls 1000
+XxXromXx folds
+jphi67 folds
+propokNL checks
+*** FLOP *** [2h Ah 6s]
+propokNL checks
+tituxa bets 2000
+propokNL folds
+tituxa collected 4700 from pot
+*** SUMMARY ***
+Total pot 4700 | No rake
+Board: [2h Ah 6s]
+Seat 1: tituxa won 4700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #590113663063425042-45-1448749521 - Holdem no limit (100/500/1000) - 2015/11/28 22:25:21 UTC
+Table: 'MiniRoll(137396544)#017' 8-max (real money) Seat #4 is the button
+Seat 1: tituxa (18641)
+Seat 2: XxXromXx (11940)
+Seat 3: jphi67 (18410)
+Seat 4: Daltones (18120)
+Seat 5: propokNL (27250)
+Seat 6: sabre_laser (46640)
+Seat 7: papat22 (28585)
+Seat 8: D-money (9124)
+*** ANTE/BLINDS ***
+propokNL posts ante 100
+sabre_laser posts ante 100
+tituxa posts ante 100
+XxXromXx posts ante 100
+jphi67 posts ante 100
+Daltones posts ante 100
+papat22 posts ante 100
+D-money posts ante 100
+propokNL posts small blind 500
+sabre_laser posts big blind 1000
+Dealt to sabre_laser [Qd Kc]
+*** PRE-FLOP *** 
+papat22 folds
+D-money folds
+tituxa folds
+XxXromXx folds
+jphi67 folds
+Daltones calls 1000
+propokNL folds
+sabre_laser checks
+*** FLOP *** [Ks 3d Tc]
+sabre_laser bets 1500
+Daltones calls 1500
+*** TURN *** [Ks 3d Tc][3h]
+sabre_laser checks
+Daltones checks
+*** RIVER *** [Ks 3d Tc 3h][3s]
+sabre_laser bets 2500
+Daltones calls 2500
+*** SHOW DOWN ***
+Daltones shows [9c 9d] (Full of 3 and 9)
+sabre_laser shows [Qd Kc] (Full of 3 and Kings)
+sabre_laser collected 11300 from pot
+*** SUMMARY ***
+Total pot 11300 | No rake
+Board: [Ks 3d Tc 3h 3s]
+Seat 4: Daltones (button) showed [9c 9d] and lost with Full of 3 and 9
+Seat 6: sabre_laser (big blind) showed [Qd Kc] and won 11300 with Full of 3 and Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #590113663063425042-46-1448749604 - Holdem no limit (150/600/1200) - 2015/11/28 22:26:44 UTC
+Table: 'MiniRoll(137396544)#017' 8-max (real money) Seat #5 is the button
+Seat 1: tituxa (18541)
+Seat 2: XxXromXx (11840)
+Seat 3: jphi67 (18310)
+Seat 4: Daltones (13020)
+Seat 5: propokNL (26650)
+Seat 6: sabre_laser (52840)
+Seat 7: papat22 (28485)
+Seat 8: D-money (9024)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 150
+papat22 posts ante 150
+tituxa posts ante 150
+XxXromXx posts ante 150
+jphi67 posts ante 150
+Daltones posts ante 150
+propokNL posts ante 150
+D-money posts ante 150
+sabre_laser posts small blind 600
+papat22 posts big blind 1200
+Dealt to sabre_laser [4c 2s]
+*** PRE-FLOP *** 
+D-money folds
+tituxa folds
+XxXromXx folds
+jphi67 folds
+Daltones raises 11670 to 12870 and is all-in
+propokNL raises 13630 to 26500 and is all-in
+sabre_laser folds
+papat22 folds
+*** FLOP *** [6d 7h Td]
+*** TURN *** [6d 7h Td][Kh]
+*** RIVER *** [6d 7h Td Kh][3c]
+*** SHOW DOWN ***
+Daltones shows [Qc Kc] (One pair : Kings)
+propokNL shows [Kd Ac] (One pair : Kings)
+propokNL collected 42370 from pot
+*** SUMMARY ***
+Total pot 42370 | No rake
+Board: [6d 7h Td Kh 3c]
+Seat 4: Daltones showed [Qc Kc] and lost with One pair : Kings
+Seat 5: propokNL (button) showed [Kd Ac] and won 42370 with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #590113663063425042-47-1448749665 - Holdem no limit (150/600/1200) - 2015/11/28 22:27:45 UTC
+Table: 'MiniRoll(137396544)#017' 8-max (real money) Seat #6 is the button
+Seat 1: tituxa (18391)
+Seat 2: XxXromXx (11690)
+Seat 3: jphi67 (18160)
+Seat 5: propokNL (42370)
+Seat 6: sabre_laser (52090)
+Seat 7: papat22 (27135)
+Seat 8: D-money (8874)
+*** ANTE/BLINDS ***
+papat22 posts ante 150
+D-money posts ante 150
+tituxa posts ante 150
+XxXromXx posts ante 150
+jphi67 posts ante 150
+propokNL posts ante 150
+sabre_laser posts ante 150
+papat22 posts small blind 600
+D-money posts big blind 1200
+Dealt to sabre_laser [9d 7c]
+*** PRE-FLOP *** 
+tituxa calls 1200
+XxXromXx folds
+jphi67 calls 1200
+propokNL folds
+sabre_laser folds
+papat22 raises 2400 to 3600
+D-money folds
+tituxa calls 2400
+jphi67 calls 2400
+*** FLOP *** [7h 2h Kc]
+papat22 checks
+tituxa checks
+jphi67 bets 6525
+papat22 folds
+tituxa folds
+jphi67 collected 19575 from pot
+*** SUMMARY ***
+Total pot 19575 | No rake
+Board: [7h 2h Kc]
+Seat 3: jphi67 won 19575
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #590113663063425036-48-1448749775 - Holdem no limit (150/600/1200) - 2015/11/28 22:29:35 UTC
+Table: 'MiniRoll(137396544)#011' 8-max (real money) Seat #4 is the button
+Seat 1: vortex57 (765)
+Seat 2: sabre_laser (51940)
+Seat 3: john_john 13 (47685)
+Seat 4: Belgrade12 (42793)
+Seat 5: Koudbull (51370)
+Seat 6: -TonyStark-- (21765)
+Seat 7: cicil (58160)
+Seat 8: evilchild59 (14250)
+*** ANTE/BLINDS ***
+Koudbull posts ante 150
+-TonyStark-- posts ante 150
+vortex57 posts ante 150
+sabre_laser posts ante 150
+john_john 13 posts ante 150
+Belgrade12 posts ante 150
+cicil posts ante 150
+evilchild59 posts ante 150
+Koudbull posts small blind 600
+-TonyStark-- posts big blind 1200
+Dealt to sabre_laser [2h Ts]
+*** PRE-FLOP *** 
+cicil folds
+evilchild59 folds
+vortex57 folds
+sabre_laser folds
+john_john 13 folds
+Belgrade12 folds
+Koudbull raises 1800 to 3000
+-TonyStark-- calls 1800
+*** FLOP *** [Jd 9s Kh]
+Koudbull bets 3000
+-TonyStark-- calls 3000
+*** TURN *** [Jd 9s Kh][9h]
+Koudbull checks
+-TonyStark-- bets 6600
+Koudbull folds
+-TonyStark-- collected 19800 from pot
+*** SUMMARY ***
+Total pot 19800 | No rake
+Board: [Jd 9s Kh 9h]
+Seat 6: -TonyStark-- (big blind) won 19800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #590113663063425036-49-1448749858 - Holdem no limit (150/600/1200) - 2015/11/28 22:30:58 UTC
+Table: 'MiniRoll(137396544)#011' 8-max (real money) Seat #5 is the button
+Seat 1: vortex57 (615)
+Seat 2: sabre_laser (51790)
+Seat 3: john_john 13 (47535)
+Seat 4: Belgrade12 (42643)
+Seat 5: Koudbull (45220)
+Seat 6: -TonyStark-- (28815)
+Seat 7: cicil (58010)
+Seat 8: evilchild59 (14100)
+*** ANTE/BLINDS ***
+-TonyStark-- posts ante 150
+cicil posts ante 150
+vortex57 posts ante 150
+sabre_laser posts ante 150
+john_john 13 posts ante 150
+Belgrade12 posts ante 150
+Koudbull posts ante 150
+evilchild59 posts ante 150
+-TonyStark-- posts small blind 600
+cicil posts big blind 1200
+Dealt to sabre_laser [2s Kh]
+*** PRE-FLOP *** 
+evilchild59 folds
+vortex57 folds
+sabre_laser folds
+john_john 13 folds
+Belgrade12 folds
+Koudbull folds
+-TonyStark-- calls 600
+cicil checks
+*** FLOP *** [7s Th Td]
+-TonyStark-- checks
+cicil bets 1200
+-TonyStark-- folds
+cicil collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [7s Th Td]
+Seat 7: cicil (big blind) won 4800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #590113663063425036-50-1448749952 - Holdem no limit (180/800/1600) - 2015/11/28 22:32:32 UTC
+Table: 'MiniRoll(137396544)#011' 8-max (real money) Seat #6 is the button
+Seat 2: sabre_laser (51640)
+Seat 3: john_john 13 (47385)
+Seat 4: Belgrade12 (42493)
+Seat 5: Koudbull (45070)
+Seat 6: -TonyStark-- (27465)
+Seat 7: cicil (60260)
+Seat 8: evilchild59 (13950)
+*** ANTE/BLINDS ***
+cicil posts ante 180
+evilchild59 posts ante 180
+sabre_laser posts ante 180
+john_john 13 posts ante 180
+Belgrade12 posts ante 180
+Koudbull posts ante 180
+-TonyStark-- posts ante 180
+cicil posts small blind 800
+evilchild59 posts big blind 1600
+Dealt to sabre_laser [7d 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+john_john 13 calls 1600
+Belgrade12 folds
+Koudbull folds
+-TonyStark-- folds
+cicil folds
+evilchild59 checks
+*** FLOP *** [Kh 7h Td]
+evilchild59 checks
+john_john 13 bets 2630
+evilchild59 folds
+john_john 13 collected 7890 from pot
+*** SUMMARY ***
+Total pot 7890 | No rake
+Board: [Kh 7h Td]
+Seat 3: john_john 13 won 7890
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #590113663063425036-51-1448750030 - Holdem no limit (180/800/1600) - 2015/11/28 22:33:50 UTC
+Table: 'MiniRoll(137396544)#011' 8-max (real money) Seat #7 is the button
+Seat 2: sabre_laser (51460)
+Seat 3: john_john 13 (50865)
+Seat 4: Belgrade12 (42313)
+Seat 5: Koudbull (44890)
+Seat 6: -TonyStark-- (27285)
+Seat 7: cicil (59280)
+Seat 8: evilchild59 (12170)
+*** ANTE/BLINDS ***
+evilchild59 posts ante 180
+sabre_laser posts ante 180
+john_john 13 posts ante 180
+Belgrade12 posts ante 180
+Koudbull posts ante 180
+-TonyStark-- posts ante 180
+cicil posts ante 180
+evilchild59 posts small blind 800
+sabre_laser posts big blind 1600
+Dealt to sabre_laser [8s 9d]
+*** PRE-FLOP *** 
+john_john 13 calls 1600
+Belgrade12 folds
+Koudbull folds
+-TonyStark-- folds
+cicil folds
+evilchild59 calls 800
+sabre_laser checks
+*** FLOP *** [Jc 7d 7s]
+evilchild59 checks
+sabre_laser checks
+john_john 13 bets 1600
+evilchild59 folds
+sabre_laser folds
+john_john 13 collected 7660 from pot
+*** SUMMARY ***
+Total pot 7660 | No rake
+Board: [Jc 7d 7s]
+Seat 3: john_john 13 won 7660
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #590113663063425036-52-1448750135 - Holdem no limit (180/800/1600) - 2015/11/28 22:35:35 UTC
+Table: 'MiniRoll(137396544)#011' 8-max (real money) Seat #1 is the button
+Seat 1: LE MELOMANE (21875)
+Seat 2: sabre_laser (49680)
+Seat 3: john_john 13 (55145)
+Seat 4: Belgrade12 (42133)
+Seat 5: Koudbull (44710)
+Seat 6: -TonyStark-- (27105)
+Seat 7: cicil (59100)
+Seat 8: evilchild59 (10390)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 180
+john_john 13 posts ante 180
+LE MELOMANE posts ante 180
+Belgrade12 posts ante 180
+Koudbull posts ante 180
+-TonyStark-- posts ante 180
+cicil posts ante 180
+evilchild59 posts ante 180
+sabre_laser posts small blind 800
+john_john 13 posts big blind 1600
+Dealt to sabre_laser [6d 7c]
+*** PRE-FLOP *** 
+Belgrade12 calls 1600
+Koudbull raises 3200 to 4800
+-TonyStark-- folds
+cicil calls 4800
+evilchild59 folds
+LE MELOMANE folds
+sabre_laser folds
+john_john 13 calls 3200
+Belgrade12 calls 3200
+*** FLOP *** [5c Qs Th]
+john_john 13 bets 10720
+Belgrade12 calls 10720
+Koudbull folds
+cicil folds
+*** TURN *** [5c Qs Th][6s]
+john_john 13 checks
+Belgrade12 checks
+*** RIVER *** [5c Qs Th 6s][9s]
+john_john 13 checks
+Belgrade12 checks
+*** SHOW DOWN ***
+Belgrade12 shows [Ad Kd] (High card : Ace)
+john_john 13 shows [3c 3d] (One pair : 3)
+john_john 13 collected 42880 from pot
+*** SUMMARY ***
+Total pot 42880 | No rake
+Board: [5c Qs Th 6s 9s]
+Seat 3: john_john 13 (big blind) showed [3c 3d] and won 42880 with One pair : 3
+Seat 4: Belgrade12 showed [Ad Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 12 - HandId: #590113663063425036-53-1448750237 - Holdem no limit (180/800/1600) - 2015/11/28 22:37:17 UTC
+Table: 'MiniRoll(137396544)#011' 8-max (real money) Seat #2 is the button
+Seat 1: LE MELOMANE (21695)
+Seat 2: sabre_laser (48700)
+Seat 3: john_john 13 (82325)
+Seat 4: Belgrade12 (26433)
+Seat 5: Koudbull (39730)
+Seat 6: -TonyStark-- (26925)
+Seat 7: cicil (54120)
+Seat 8: evilchild59 (10210)
+*** ANTE/BLINDS ***
+john_john 13 posts ante 180
+Belgrade12 posts ante 180
+LE MELOMANE posts ante 180
+sabre_laser posts ante 180
+Koudbull posts ante 180
+-TonyStark-- posts ante 180
+cicil posts ante 180
+evilchild59 posts ante 180
+john_john 13 posts small blind 800
+Belgrade12 posts big blind 1600
+Dealt to sabre_laser [9c 6c]
+*** PRE-FLOP *** 
+Koudbull folds
+-TonyStark-- folds
+cicil folds
+evilchild59 folds
+LE MELOMANE calls 1600
+sabre_laser folds
+john_john 13 calls 800
+Belgrade12 checks
+*** FLOP *** [Th Ah Qc]
+john_john 13 bets 1600
+Belgrade12 folds
+LE MELOMANE calls 1600
+*** TURN *** [Th Ah Qc][6h]
+john_john 13 bets 1600
+LE MELOMANE calls 1600
+*** RIVER *** [Th Ah Qc 6h][7h]
+john_john 13 bets 1600
+LE MELOMANE calls 1600
+*** SHOW DOWN ***
+LE MELOMANE shows [Kd Qs] (One pair : Queens)
+john_john 13 shows [9h As] (Flush Ace high)
+john_john 13 collected 15840 from pot
+*** SUMMARY ***
+Total pot 15840 | No rake
+Board: [Th Ah Qc 6h 7h]
+Seat 1: LE MELOMANE showed [Kd Qs] and lost with One pair : Queens
+Seat 3: john_john 13 (small blind) showed [9h As] and won 15840 with Flush Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 13 - HandId: #590113663063425036-54-1448750287 - Holdem no limit (240/1000/2000) - 2015/11/28 22:38:07 UTC
+Table: 'MiniRoll(137396544)#011' 8-max (real money) Seat #3 is the button
+Seat 1: LE MELOMANE (15115)
+Seat 2: sabre_laser (48520)
+Seat 3: john_john 13 (91585)
+Seat 4: Belgrade12 (24653)
+Seat 5: Koudbull (39550)
+Seat 7: cicil (53940)
+Seat 8: evilchild59 (10030)
+*** ANTE/BLINDS ***
+Belgrade12 posts ante 240
+Koudbull posts ante 240
+LE MELOMANE posts ante 240
+sabre_laser posts ante 240
+john_john 13 posts ante 240
+cicil posts ante 240
+evilchild59 posts ante 240
+Belgrade12 posts small blind 1000
+Koudbull posts big blind 2000
+Dealt to sabre_laser [5d 9h]
+*** PRE-FLOP *** 
+cicil calls 2000
+evilchild59 folds
+LE MELOMANE calls 2000
+sabre_laser folds
+john_john 13 folds
+Belgrade12 calls 1000
+Koudbull checks
+*** FLOP *** [As 3h 6s]
+Belgrade12 bets 2000
+Koudbull folds
+cicil raises 10260 to 12260
+LE MELOMANE folds
+Belgrade12 folds
+cicil collected 23940 from pot
+*** SUMMARY ***
+Total pot 23940 | No rake
+Board: [As 3h 6s]
+Seat 7: cicil won 23940
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 13 - HandId: #590113663063425027-72-1448750392 - Holdem no limit (240/1000/2000) - 2015/11/28 22:39:52 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #6 is the button
+Seat 1: D-money (18982)
+Seat 2: 1Marseille3 (94082)
+Seat 3: sabre_laser (48280)
+Seat 4: Liloosweet (66742)
+Seat 5: one piece 52 (44962)
+Seat 6: Carlitto69 (76069)
+Seat 7: ronsin80 (48735)
+Seat 8: lartiste0214 (18212)
+*** ANTE/BLINDS ***
+ronsin80 posts ante 240
+lartiste0214 posts ante 240
+D-money posts ante 240
+1Marseille3 posts ante 240
+sabre_laser posts ante 240
+Liloosweet posts ante 240
+one piece 52 posts ante 240
+Carlitto69 posts ante 240
+ronsin80 posts small blind 1000
+lartiste0214 posts big blind 2000
+Dealt to sabre_laser [3d 8h]
+*** PRE-FLOP *** 
+D-money folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+ronsin80 raises 2000 to 4000
+lartiste0214 folds
+ronsin80 collected 7920 from pot
+*** SUMMARY ***
+Total pot 7920 | No rake
+Seat 7: ronsin80 (small blind) won 7920
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 13 - HandId: #590113663063425027-73-1448750431 - Holdem no limit (240/1000/2000) - 2015/11/28 22:40:31 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #7 is the button
+Seat 1: D-money (18742)
+Seat 2: 1Marseille3 (93842)
+Seat 3: sabre_laser (48040)
+Seat 4: Liloosweet (66502)
+Seat 5: one piece 52 (44722)
+Seat 6: Carlitto69 (75829)
+Seat 7: ronsin80 (52415)
+Seat 8: lartiste0214 (15972)
+*** ANTE/BLINDS ***
+lartiste0214 posts ante 240
+D-money posts ante 240
+1Marseille3 posts ante 240
+sabre_laser posts ante 240
+Liloosweet posts ante 240
+one piece 52 posts ante 240
+Carlitto69 posts ante 240
+ronsin80 posts ante 240
+lartiste0214 posts small blind 1000
+D-money posts big blind 2000
+Dealt to sabre_laser [4h 5c]
+*** PRE-FLOP *** 
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 raises 3000 to 5000
+ronsin80 calls 5000
+lartiste0214 folds
+D-money calls 3000
+*** FLOP *** [Ts 4d Jh]
+D-money checks
+Carlitto69 bets 9000
+ronsin80 raises 9000 to 18000
+D-money folds
+Carlitto69 raises 52589 to 70589 and is all-in
+ronsin80 calls 29175 and is all-in
+*** TURN *** [Ts 4d Jh][5d]
+*** RIVER *** [Ts 4d Jh 5d][3c]
+*** SHOW DOWN ***
+ronsin80 shows [Kh Th] (One pair : Tens)
+Carlitto69 shows [3d 3s] (Trips of 3)
+Carlitto69 collected 135684 from pot
+*** SUMMARY ***
+Total pot 135684 | No rake
+Board: [Ts 4d Jh 5d 3c]
+Seat 6: Carlitto69 showed [3d 3s] and won 135684 with Trips of 3
+Seat 7: ronsin80 (button) showed [Kh Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 13 - HandId: #590113663063425027-74-1448750532 - Holdem no limit (240/1000/2000) - 2015/11/28 22:42:12 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #8 is the button
+Seat 1: D-money (13502)
+Seat 2: 1Marseille3 (93602)
+Seat 3: sabre_laser (47800)
+Seat 4: Liloosweet (66262)
+Seat 5: one piece 52 (44482)
+Seat 6: Carlitto69 (135684)
+Seat 8: lartiste0214 (14732)
+*** ANTE/BLINDS ***
+D-money posts ante 240
+1Marseille3 posts ante 240
+sabre_laser posts ante 240
+Liloosweet posts ante 240
+one piece 52 posts ante 240
+Carlitto69 posts ante 240
+lartiste0214 posts ante 240
+D-money posts small blind 1000
+1Marseille3 posts big blind 2000
+Dealt to sabre_laser [3h 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+lartiste0214 folds
+D-money folds
+1Marseille3 collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Seat 2: 1Marseille3 (big blind) won 4680
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 13 - HandId: #590113663063425027-75-1448750572 - Holdem no limit (240/1000/2000) - 2015/11/28 22:42:52 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #1 is the button
+Seat 1: D-money (12262)
+Seat 2: 1Marseille3 (96042)
+Seat 3: sabre_laser (47560)
+Seat 4: Liloosweet (66022)
+Seat 5: one piece 52 (44242)
+Seat 6: Carlitto69 (135444)
+Seat 8: lartiste0214 (14492)
+*** ANTE/BLINDS ***
+1Marseille3 posts ante 240
+sabre_laser posts ante 240
+D-money posts ante 240
+Liloosweet posts ante 240
+one piece 52 posts ante 240
+Carlitto69 posts ante 240
+lartiste0214 posts ante 240
+1Marseille3 posts small blind 1000
+sabre_laser posts big blind 2000
+Dealt to sabre_laser [9h 5s]
+*** PRE-FLOP *** 
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+lartiste0214 folds
+D-money folds
+1Marseille3 calls 1000
+sabre_laser checks
+*** FLOP *** [8c 8s 6d]
+1Marseille3 checks
+sabre_laser checks
+*** TURN *** [8c 8s 6d][5d]
+1Marseille3 bets 5680
+sabre_laser folds
+1Marseille3 collected 11360 from pot
+*** SUMMARY ***
+Total pot 11360 | No rake
+Board: [8c 8s 6d 5d]
+Seat 2: 1Marseille3 (small blind) won 11360
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 13 - HandId: #590113663063425027-76-1448750635 - Holdem no limit (240/1000/2000) - 2015/11/28 22:43:55 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #2 is the button
+Seat 1: D-money (12022)
+Seat 2: 1Marseille3 (99482)
+Seat 3: sabre_laser (45320)
+Seat 4: Liloosweet (65782)
+Seat 5: one piece 52 (44002)
+Seat 6: Carlitto69 (135204)
+Seat 7: tetof (76453)
+Seat 8: lartiste0214 (14252)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 240
+Liloosweet posts ante 240
+D-money posts ante 240
+1Marseille3 posts ante 240
+one piece 52 posts ante 240
+Carlitto69 posts ante 240
+tetof posts ante 240
+lartiste0214 posts ante 240
+sabre_laser posts small blind 1000
+Liloosweet posts big blind 2000
+Dealt to sabre_laser [Th Js]
+*** PRE-FLOP *** 
+one piece 52 folds
+Carlitto69 folds
+tetof calls 2000
+lartiste0214 folds
+D-money folds
+1Marseille3 folds
+sabre_laser calls 1000
+Liloosweet checks
+*** FLOP *** [7s 9s Jh]
+sabre_laser checks
+Liloosweet checks
+tetof bets 2000
+sabre_laser calls 2000
+Liloosweet folds
+*** TURN *** [7s 9s Jh][Ks]
+sabre_laser checks
+tetof bets 2000
+sabre_laser calls 2000
+*** RIVER *** [7s 9s Jh Ks][As]
+sabre_laser bets 4000
+tetof raises 4000 to 8000
+sabre_laser calls 4000
+*** SHOW DOWN ***
+sabre_laser shows [Th Js] (Flush Ace high)
+tetof shows [Qs Ts] (Flush Ace high)
+tetof collected 31920 from pot
+*** SUMMARY ***
+Total pot 31920 | No rake
+Board: [7s 9s Jh Ks As]
+Seat 3: sabre_laser (small blind) showed [Th Js] and lost with Flush Ace high
+Seat 7: tetof showed [Qs Ts] and won 31920 with Flush Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 14 - HandId: #590113663063425027-77-1448750773 - Holdem no limit (320/1250/2500) - 2015/11/28 22:46:13 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #3 is the button
+Seat 1: D-money (11782)
+Seat 2: 1Marseille3 (99242)
+Seat 3: sabre_laser (31080)
+Seat 4: Liloosweet (63542)
+Seat 5: one piece 52 (43762)
+Seat 6: Carlitto69 (134964)
+Seat 7: tetof (94133)
+Seat 8: lartiste0214 (14012)
+*** ANTE/BLINDS ***
+Liloosweet posts ante 320
+one piece 52 posts ante 320
+D-money posts ante 320
+1Marseille3 posts ante 320
+sabre_laser posts ante 320
+Carlitto69 posts ante 320
+tetof posts ante 320
+lartiste0214 posts ante 320
+Liloosweet posts small blind 1250
+one piece 52 posts big blind 2500
+Dealt to sabre_laser [Ts Th]
+*** PRE-FLOP *** 
+Carlitto69 folds
+tetof folds
+lartiste0214 folds
+D-money folds
+1Marseille3 folds
+sabre_laser raises 2500 to 5000
+Liloosweet folds
+one piece 52 folds
+sabre_laser collected 11310 from pot
+*** SUMMARY ***
+Total pot 11310 | No rake
+Seat 3: sabre_laser (button) won 11310
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 14 - HandId: #590113663063425027-78-1448750827 - Holdem no limit (320/1250/2500) - 2015/11/28 22:47:07 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #4 is the button
+Seat 1: D-money (11462)
+Seat 2: 1Marseille3 (98922)
+Seat 3: sabre_laser (37070)
+Seat 4: Liloosweet (61972)
+Seat 5: one piece 52 (40942)
+Seat 6: Carlitto69 (134644)
+Seat 7: tetof (93813)
+Seat 8: lartiste0214 (13692)
+*** ANTE/BLINDS ***
+one piece 52 posts ante 320
+Carlitto69 posts ante 320
+D-money posts ante 320
+1Marseille3 posts ante 320
+sabre_laser posts ante 320
+Liloosweet posts ante 320
+tetof posts ante 320
+lartiste0214 posts ante 320
+one piece 52 posts small blind 1250
+Carlitto69 posts big blind 2500
+Dealt to sabre_laser [Td 2s]
+*** PRE-FLOP *** 
+tetof folds
+lartiste0214 folds
+D-money folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 collected 6310 from pot
+*** SUMMARY ***
+Total pot 6310 | No rake
+Seat 6: Carlitto69 (big blind) won 6310
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 14 - HandId: #590113663063425027-79-1448750878 - Holdem no limit (320/1250/2500) - 2015/11/28 22:47:58 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #5 is the button
+Seat 1: D-money (11142)
+Seat 2: 1Marseille3 (98602)
+Seat 3: sabre_laser (36750)
+Seat 4: Liloosweet (61652)
+Seat 5: one piece 52 (39372)
+Seat 6: Carlitto69 (138134)
+Seat 7: tetof (93493)
+Seat 8: lartiste0214 (13372)
+*** ANTE/BLINDS ***
+Carlitto69 posts ante 320
+tetof posts ante 320
+D-money posts ante 320
+1Marseille3 posts ante 320
+sabre_laser posts ante 320
+Liloosweet posts ante 320
+one piece 52 posts ante 320
+lartiste0214 posts ante 320
+Carlitto69 posts small blind 1250
+tetof posts big blind 2500
+Dealt to sabre_laser [Qs Th]
+*** PRE-FLOP *** 
+lartiste0214 folds
+D-money folds
+1Marseille3 raises 7500 to 10000
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+1Marseille3 collected 16310 from pot
+*** SUMMARY ***
+Total pot 16310 | No rake
+Seat 2: 1Marseille3 won 16310
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 14 - HandId: #590113663063425027-80-1448750949 - Holdem no limit (320/1250/2500) - 2015/11/28 22:49:09 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #6 is the button
+Seat 1: D-money (10822)
+Seat 2: 1Marseille3 (104592)
+Seat 3: sabre_laser (36430)
+Seat 4: Liloosweet (61332)
+Seat 5: one piece 52 (39052)
+Seat 6: Carlitto69 (136564)
+Seat 7: tetof (90673)
+Seat 8: lartiste0214 (13052)
+*** ANTE/BLINDS ***
+tetof posts ante 320
+lartiste0214 posts ante 320
+D-money posts ante 320
+1Marseille3 posts ante 320
+sabre_laser posts ante 320
+Liloosweet posts ante 320
+one piece 52 posts ante 320
+Carlitto69 posts ante 320
+tetof posts small blind 1250
+lartiste0214 posts big blind 2500
+Dealt to sabre_laser [6s 9h]
+*** PRE-FLOP *** 
+D-money calls 2500
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 raises 3750 to 6250
+tetof calls 5000
+lartiste0214 folds
+D-money raises 4252 to 10502 and is all-in
+Carlitto69 folds
+tetof calls 4252
+*** FLOP *** [4s 9d Qd]
+*** TURN *** [4s 9d Qd][Tc]
+*** RIVER *** [4s 9d Qd Tc][2h]
+*** SHOW DOWN ***
+D-money shows [Jd Ah] (High card : Ace)
+tetof shows [Ks Qc] (One pair : Queens)
+tetof collected 32314 from pot
+*** SUMMARY ***
+Total pot 32314 | No rake
+Board: [4s 9d Qd Tc 2h]
+Seat 1: D-money showed [Jd Ah] and lost with High card : Ace
+Seat 7: tetof (small blind) showed [Ks Qc] and won 32314 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 14 - HandId: #590113663063425027-81-1448751003 - Holdem no limit (430/1500/3000) - 2015/11/28 22:50:03 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #7 is the button
+Seat 2: 1Marseille3 (104272)
+Seat 3: sabre_laser (36110)
+Seat 4: Liloosweet (61012)
+Seat 5: one piece 52 (38732)
+Seat 6: Carlitto69 (129994)
+Seat 7: tetof (112165)
+Seat 8: lartiste0214 (10232)
+*** ANTE/BLINDS ***
+lartiste0214 posts ante 430
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+Liloosweet posts ante 430
+one piece 52 posts ante 430
+Carlitto69 posts ante 430
+tetof posts ante 430
+lartiste0214 posts small blind 1500
+1Marseille3 posts big blind 3000
+Dealt to sabre_laser [8d Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof raises 3000 to 6000
+lartiste0214 folds
+1Marseille3 calls 3000
+*** FLOP *** [4h Jc Ah]
+1Marseille3 checks
+tetof checks
+*** TURN *** [4h Jc Ah][Qh]
+1Marseille3 checks
+tetof checks
+*** RIVER *** [4h Jc Ah Qh][6h]
+1Marseille3 checks
+tetof checks
+*** SHOW DOWN ***
+tetof shows [7c 5d] (High card : Ace)
+1Marseille3 shows [Kd 6d] (One pair : 6)
+1Marseille3 collected 16510 from pot
+*** SUMMARY ***
+Total pot 16510 | No rake
+Board: [4h Jc Ah Qh 6h]
+Seat 2: 1Marseille3 (big blind) showed [Kd 6d] and won 16510 with One pair : 6
+Seat 7: tetof (button) showed [7c 5d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-82-1448751040 - Holdem no limit (430/1500/3000) - 2015/11/28 22:50:40 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #8 is the button
+Seat 2: 1Marseille3 (114352)
+Seat 3: sabre_laser (35680)
+Seat 4: Liloosweet (60582)
+Seat 5: one piece 52 (38302)
+Seat 6: Carlitto69 (129564)
+Seat 7: tetof (105735)
+Seat 8: lartiste0214 (8302)
+*** ANTE/BLINDS ***
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+Liloosweet posts ante 430
+one piece 52 posts ante 430
+Carlitto69 posts ante 430
+tetof posts ante 430
+lartiste0214 posts ante 430
+1Marseille3 posts small blind 1500
+sabre_laser posts big blind 3000
+Dealt to sabre_laser [3s 5h]
+*** PRE-FLOP *** 
+Liloosweet folds
+one piece 52 folds
+Carlitto69 raises 4500 to 7500
+tetof folds
+lartiste0214 folds
+1Marseille3 folds
+sabre_laser folds
+Carlitto69 collected 15010 from pot
+*** SUMMARY ***
+Total pot 15010 | No rake
+Seat 6: Carlitto69 won 15010
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-83-1448751063 - Holdem no limit (430/1500/3000) - 2015/11/28 22:51:03 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #2 is the button
+Seat 2: 1Marseille3 (112422)
+Seat 3: sabre_laser (32250)
+Seat 4: Liloosweet (60152)
+Seat 5: one piece 52 (37872)
+Seat 6: Carlitto69 (136644)
+Seat 7: tetof (105305)
+Seat 8: lartiste0214 (7872)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 430
+Liloosweet posts ante 430
+1Marseille3 posts ante 430
+one piece 52 posts ante 430
+Carlitto69 posts ante 430
+tetof posts ante 430
+lartiste0214 posts ante 430
+sabre_laser posts small blind 1500
+Liloosweet posts big blind 3000
+Dealt to sabre_laser [8s Ac]
+*** PRE-FLOP *** 
+one piece 52 folds
+Carlitto69 folds
+tetof raises 7500 to 10500
+lartiste0214 folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+tetof collected 18010 from pot
+*** SUMMARY ***
+Total pot 18010 | No rake
+Seat 7: tetof won 18010
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-84-1448751095 - Holdem no limit (430/1500/3000) - 2015/11/28 22:51:35 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #3 is the button
+Seat 2: 1Marseille3 (111992)
+Seat 3: sabre_laser (30320)
+Seat 4: Liloosweet (56722)
+Seat 5: one piece 52 (37442)
+Seat 6: Carlitto69 (136214)
+Seat 7: tetof (112385)
+Seat 8: lartiste0214 (7442)
+*** ANTE/BLINDS ***
+Liloosweet posts ante 430
+one piece 52 posts ante 430
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+Carlitto69 posts ante 430
+tetof posts ante 430
+lartiste0214 posts ante 430
+Liloosweet posts small blind 1500
+one piece 52 posts big blind 3000
+Dealt to sabre_laser [6s 8s]
+*** PRE-FLOP *** 
+Carlitto69 raises 4500 to 7500
+tetof folds
+lartiste0214 folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet raises 22500 to 30000
+one piece 52 folds
+Carlitto69 folds
+Liloosweet collected 43510 from pot
+*** SUMMARY ***
+Total pot 43510 | No rake
+Seat 4: Liloosweet (small blind) won 43510
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-85-1448751133 - Holdem no limit (430/1500/3000) - 2015/11/28 22:52:13 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #4 is the button
+Seat 2: 1Marseille3 (111562)
+Seat 3: sabre_laser (29890)
+Seat 4: Liloosweet (69802)
+Seat 5: one piece 52 (34012)
+Seat 6: Carlitto69 (128284)
+Seat 7: tetof (111955)
+Seat 8: lartiste0214 (7012)
+*** ANTE/BLINDS ***
+one piece 52 posts ante 430
+Carlitto69 posts ante 430
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+Liloosweet posts ante 430
+tetof posts ante 430
+lartiste0214 posts ante 430
+one piece 52 posts small blind 1500
+Carlitto69 posts big blind 3000
+Dealt to sabre_laser [7s Td]
+*** PRE-FLOP *** 
+tetof folds
+lartiste0214 folds
+1Marseille3 calls 3000
+sabre_laser folds
+Liloosweet folds
+one piece 52 raises 30582 to 33582 and is all-in
+Carlitto69 folds
+1Marseille3 folds
+one piece 52 collected 42592 from pot
+*** SUMMARY ***
+Total pot 42592 | No rake
+Seat 5: one piece 52 (small blind) won 42592
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-86-1448751178 - Holdem no limit (430/1500/3000) - 2015/11/28 22:52:58 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #5 is the button
+Seat 2: 1Marseille3 (108132)
+Seat 3: sabre_laser (29460)
+Seat 4: Liloosweet (69372)
+Seat 5: one piece 52 (42592)
+Seat 6: Carlitto69 (124854)
+Seat 7: tetof (111525)
+Seat 8: lartiste0214 (6582)
+*** ANTE/BLINDS ***
+Carlitto69 posts ante 430
+tetof posts ante 430
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+Liloosweet posts ante 430
+one piece 52 posts ante 430
+lartiste0214 posts ante 430
+Carlitto69 posts small blind 1500
+tetof posts big blind 3000
+Dealt to sabre_laser [3s 3h]
+*** PRE-FLOP *** 
+lartiste0214 folds
+1Marseille3 folds
+sabre_laser calls 3000
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof checks
+*** FLOP *** [4c 9s As]
+tetof checks
+sabre_laser checks
+*** TURN *** [4c 9s As][Kd]
+tetof bets 3000
+sabre_laser folds
+tetof collected 13510 from pot
+*** SUMMARY ***
+Total pot 13510 | No rake
+Board: [4c 9s As Kd]
+Seat 7: tetof (big blind) won 13510
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-87-1448751217 - Holdem no limit (430/1500/3000) - 2015/11/28 22:53:37 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #6 is the button
+Seat 2: 1Marseille3 (107702)
+Seat 3: sabre_laser (26030)
+Seat 4: Liloosweet (68942)
+Seat 5: one piece 52 (42162)
+Seat 6: Carlitto69 (122924)
+Seat 7: tetof (118605)
+Seat 8: lartiste0214 (6152)
+*** ANTE/BLINDS ***
+tetof posts ante 430
+lartiste0214 posts ante 430
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+Liloosweet posts ante 430
+one piece 52 posts ante 430
+Carlitto69 posts ante 430
+tetof posts small blind 1500
+lartiste0214 posts big blind 3000
+Dealt to sabre_laser [Ac 8d]
+*** PRE-FLOP *** 
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 raises 4500 to 7500
+tetof calls 6000
+lartiste0214 folds
+*** FLOP *** [5c 9d 6c]
+tetof checks
+Carlitto69 bets 7500
+tetof folds
+Carlitto69 collected 28510 from pot
+*** SUMMARY ***
+Total pot 28510 | No rake
+Board: [5c 9d 6c]
+Seat 6: Carlitto69 (button) won 28510
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-88-1448751276 - Holdem no limit (430/1500/3000) - 2015/11/28 22:54:36 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #7 is the button
+Seat 2: 1Marseille3 (107272)
+Seat 3: sabre_laser (25600)
+Seat 4: Liloosweet (68512)
+Seat 5: one piece 52 (41732)
+Seat 6: Carlitto69 (136004)
+Seat 7: tetof (110675)
+Seat 8: lartiste0214 (2722)
+*** ANTE/BLINDS ***
+lartiste0214 posts ante 430
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+Liloosweet posts ante 430
+one piece 52 posts ante 430
+Carlitto69 posts ante 430
+tetof posts ante 430
+lartiste0214 posts small blind 1500
+1Marseille3 posts big blind 3000
+Dealt to sabre_laser [Ts Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+lartiste0214 folds
+1Marseille3 collected 7510 from pot
+*** SUMMARY ***
+Total pot 7510 | No rake
+Seat 2: 1Marseille3 (big blind) won 7510
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 15 - HandId: #590113663063425027-89-1448751602 - Holdem no limit (430/1500/3000) - 2015/11/28 23:00:02 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #1 is the button
+Seat 1: _le_facteur_ (97692)
+Seat 2: 1Marseille3 (111352)
+Seat 3: sabre_laser (25170)
+Seat 4: Liloosweet (68082)
+Seat 5: one piece 52 (41302)
+Seat 6: Carlitto69 (135574)
+Seat 7: tetof (110245)
+Seat 8: lartiste0214 (792)
+*** ANTE/BLINDS ***
+1Marseille3 posts ante 430
+sabre_laser posts ante 430
+_le_facteur_ posts ante 430
+Liloosweet posts ante 430
+one piece 52 posts ante 430
+Carlitto69 posts ante 430
+tetof posts ante 430
+lartiste0214 posts ante 430
+1Marseille3 posts small blind 1500
+sabre_laser posts big blind 3000
+Dealt to sabre_laser [Qd 2s]
+*** PRE-FLOP *** 
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof calls 3000
+lartiste0214 folds
+_le_facteur_ folds
+1Marseille3 calls 1500
+sabre_laser checks
+*** FLOP *** [5c 2c 9h]
+1Marseille3 checks
+sabre_laser bets 21740 and is all-in
+tetof folds
+1Marseille3 folds
+sabre_laser collected 34180 from pot
+*** SUMMARY ***
+Total pot 34180 | No rake
+Board: [5c 2c 9h]
+Seat 3: sabre_laser (big blind) won 34180
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 16 - HandId: #590113663063425027-90-1448751688 - Holdem no limit (500/2000/4000) - 2015/11/28 23:01:28 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #2 is the button
+Seat 1: _le_facteur_ (97262)
+Seat 2: 1Marseille3 (107922)
+Seat 3: sabre_laser (34180)
+Seat 4: Liloosweet (67652)
+Seat 5: one piece 52 (40872)
+Seat 6: Carlitto69 (135144)
+Seat 7: tetof (106815)
+Seat 8: lartiste0214 (362)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 500
+Liloosweet posts ante 500
+_le_facteur_ posts ante 500
+1Marseille3 posts ante 500
+one piece 52 posts ante 500
+Carlitto69 posts ante 500
+tetof posts ante 500
+lartiste0214 posts ante 362 and is all-in
+sabre_laser posts small blind 2000
+Liloosweet posts big blind 4000
+Dealt to sabre_laser [7h Ac]
+*** PRE-FLOP *** 
+one piece 52 folds
+Carlitto69 folds
+tetof raises 4000 to 8000
+_le_facteur_ folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+*** FLOP *** [3c 9h Td]
+*** TURN *** [3c 9h Td][2s]
+*** RIVER *** [3c 9h Td 2s][As]
+*** SHOW DOWN ***
+lartiste0214 shows [8s 2d] (One pair : 2)
+tetof shows [Qc Kc] (High card : Ace)
+tetof collected 14966 from side pot 1
+lartiste0214 collected 2896 from main pot
+*** SUMMARY ***
+Total pot 17862 | No rake
+Board: [3c 9h Td 2s As]
+Seat 7: tetof showed [Qc Kc] and won 14966 with High card : Ace
+Seat 8: lartiste0214 showed [8s 2d] and won 2896 with One pair : 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 16 - HandId: #590113663063425027-91-1448751762 - Holdem no limit (500/2000/4000) - 2015/11/28 23:02:42 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #3 is the button
+Seat 1: _le_facteur_ (96762)
+Seat 2: 1Marseille3 (107422)
+Seat 3: sabre_laser (31680)
+Seat 4: Liloosweet (63152)
+Seat 5: one piece 52 (40372)
+Seat 6: Carlitto69 (134644)
+Seat 7: tetof (113281)
+Seat 8: lartiste0214 (2896)
+*** ANTE/BLINDS ***
+Liloosweet posts ante 500
+one piece 52 posts ante 500
+_le_facteur_ posts ante 500
+1Marseille3 posts ante 500
+sabre_laser posts ante 500
+Carlitto69 posts ante 500
+tetof posts ante 500
+lartiste0214 posts ante 500
+Liloosweet posts small blind 2000
+one piece 52 posts big blind 4000
+Dealt to sabre_laser [7s Ts]
+*** PRE-FLOP *** 
+Carlitto69 folds
+tetof folds
+lartiste0214 folds
+_le_facteur_ folds
+1Marseille3 raises 102922 to 106922 and is all-in
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+1Marseille3 collected 116922 from pot
+*** SUMMARY ***
+Total pot 116922 | No rake
+Seat 2: 1Marseille3 won 116922
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 16 - HandId: #590113663063425027-92-1448751841 - Holdem no limit (500/2000/4000) - 2015/11/28 23:04:01 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #4 is the button
+Seat 1: _le_facteur_ (96262)
+Seat 2: 1Marseille3 (116922)
+Seat 3: sabre_laser (31180)
+Seat 4: Liloosweet (60652)
+Seat 5: one piece 52 (35872)
+Seat 6: Carlitto69 (134144)
+Seat 7: tetof (112781)
+Seat 8: lartiste0214 (2396)
+*** ANTE/BLINDS ***
+one piece 52 posts ante 500
+Carlitto69 posts ante 500
+_le_facteur_ posts ante 500
+1Marseille3 posts ante 500
+sabre_laser posts ante 500
+Liloosweet posts ante 500
+tetof posts ante 500
+lartiste0214 posts ante 500
+one piece 52 posts small blind 2000
+Carlitto69 posts big blind 4000
+Dealt to sabre_laser [3s Qd]
+*** PRE-FLOP *** 
+tetof folds
+lartiste0214 folds
+_le_facteur_ raises 5200 to 9200
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+_le_facteur_ collected 19200 from pot
+*** SUMMARY ***
+Total pot 19200 | No rake
+Seat 1: _le_facteur_ won 19200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 16 - HandId: #590113663063425027-93-1448751900 - Holdem no limit (500/2000/4000) - 2015/11/28 23:05:00 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #5 is the button
+Seat 1: _le_facteur_ (105762)
+Seat 2: 1Marseille3 (116422)
+Seat 3: sabre_laser (30680)
+Seat 4: Liloosweet (60152)
+Seat 5: one piece 52 (33372)
+Seat 6: Carlitto69 (129644)
+Seat 7: tetof (112281)
+Seat 8: lartiste0214 (1896)
+*** ANTE/BLINDS ***
+Carlitto69 posts ante 500
+tetof posts ante 500
+_le_facteur_ posts ante 500
+1Marseille3 posts ante 500
+sabre_laser posts ante 500
+Liloosweet posts ante 500
+one piece 52 posts ante 500
+lartiste0214 posts ante 500
+Carlitto69 posts small blind 2000
+tetof posts big blind 4000
+Dealt to sabre_laser [Jd Js]
+*** PRE-FLOP *** 
+lartiste0214 folds
+_le_facteur_ folds
+1Marseille3 folds
+sabre_laser raises 26180 to 30180 and is all-in
+Liloosweet calls 30180
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+*** FLOP *** [Kc 7d Td]
+*** TURN *** [Kc 7d Td][3c]
+*** RIVER *** [Kc 7d Td 3c][4s]
+*** SHOW DOWN ***
+Liloosweet shows [Qs As] (High card : Ace)
+sabre_laser shows [Jd Js] (One pair : Jacks)
+sabre_laser collected 70360 from pot
+*** SUMMARY ***
+Total pot 70360 | No rake
+Board: [Kc 7d Td 3c 4s]
+Seat 3: sabre_laser showed [Jd Js] and won 70360 with One pair : Jacks
+Seat 4: Liloosweet showed [Qs As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 16 - HandId: #590113663063425027-94-1448751972 - Holdem no limit (500/2000/4000) - 2015/11/28 23:06:12 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #6 is the button
+Seat 2: 1Marseille3 (115922)
+Seat 3: sabre_laser (70360)
+Seat 4: Liloosweet (29472)
+Seat 5: one piece 52 (32872)
+Seat 6: Carlitto69 (127144)
+Seat 7: tetof (107781)
+Seat 8: lartiste0214 (1396)
+*** ANTE/BLINDS ***
+tetof posts ante 500
+lartiste0214 posts ante 500
+1Marseille3 posts ante 500
+sabre_laser posts ante 500
+Liloosweet posts ante 500
+one piece 52 posts ante 500
+Carlitto69 posts ante 500
+tetof posts small blind 2000
+lartiste0214 posts big blind 896 and is all-in
+Dealt to sabre_laser [6h Qh]
+*** PRE-FLOP *** 
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 calls 4000
+Carlitto69 folds
+tetof calls 2000
+*** FLOP *** [5d 7d 3h]
+tetof checks
+one piece 52 checks
+*** TURN *** [5d 7d 3h][Jh]
+tetof bets 4000
+one piece 52 calls 4000
+*** RIVER *** [5d 7d 3h Jh][Qc]
+tetof checks
+one piece 52 checks
+*** SHOW DOWN ***
+one piece 52 shows [Js Ts] (One pair : Jacks)
+lartiste0214 shows [7c 2d] (One pair : 7)
+tetof shows [Kh Jd] (One pair : Jacks)
+tetof collected 20396 from pot
+*** SUMMARY ***
+Total pot 20396 | No rake
+Board: [5d 7d 3h Jh Qc]
+Seat 5: one piece 52 showed [Js Ts] and lost with One pair : Jacks
+Seat 7: tetof (small blind) showed [Kh Jd] and won 20396 with One pair : Jacks
+Seat 8: lartiste0214 (big blind) showed [7c 2d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 17 - HandId: #590113663063425027-95-1448752033 - Holdem no limit (620/2500/5000) - 2015/11/28 23:07:13 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #7 is the button
+Seat 2: 1Marseille3 (115422)
+Seat 3: sabre_laser (69860)
+Seat 4: Liloosweet (28972)
+Seat 5: one piece 52 (24372)
+Seat 6: Carlitto69 (126644)
+Seat 7: tetof (119677)
+*** ANTE/BLINDS ***
+1Marseille3 posts ante 620
+sabre_laser posts ante 620
+Liloosweet posts ante 620
+one piece 52 posts ante 620
+Carlitto69 posts ante 620
+tetof posts ante 620
+1Marseille3 posts big blind 5000
+Dealt to sabre_laser [2s Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 raises 7500 to 12500
+tetof folds
+1Marseille3 raises 102302 to 114802 and is all-in
+Carlitto69 folds
+1Marseille3 collected 131022 from pot
+*** SUMMARY ***
+Total pot 131022 | No rake
+Seat 2: 1Marseille3 (big blind) won 131022
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 17 - HandId: #590113663063425027-96-1448752119 - Holdem no limit (620/2500/5000) - 2015/11/28 23:08:39 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #8 is the button
+Seat 1: GrandClacos (32614)
+Seat 2: 1Marseille3 (131022)
+Seat 3: sabre_laser (69240)
+Seat 4: Liloosweet (28352)
+Seat 5: one piece 52 (23752)
+Seat 6: Carlitto69 (113524)
+Seat 7: tetof (119057)
+Seat 8: poseidon1979 (159568)
+*** ANTE/BLINDS ***
+1Marseille3 posts ante 620
+sabre_laser posts ante 620
+Liloosweet posts ante 620
+one piece 52 posts ante 620
+Carlitto69 posts ante 620
+tetof posts ante 620
+poseidon1979 posts ante 620
+1Marseille3 posts small blind 2500
+sabre_laser posts big blind 5000
+Dealt to sabre_laser [8c Ah]
+*** PRE-FLOP *** 
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof raises 5000 to 10000
+poseidon1979 folds
+1Marseille3 calls 7500
+sabre_laser folds
+*** FLOP *** [Qs 2d 6h]
+1Marseille3 checks
+tetof checks
+*** TURN *** [Qs 2d 6h][4c]
+1Marseille3 checks
+tetof bets 29340
+1Marseille3 folds
+tetof collected 58680 from pot
+*** SUMMARY ***
+Total pot 58680 | No rake
+Board: [Qs 2d 6h 4c]
+Seat 7: tetof won 58680
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 17 - HandId: #590113663063425027-97-1448752202 - Holdem no limit (620/2500/5000) - 2015/11/28 23:10:02 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #2 is the button
+Seat 1: GrandClacos (32614)
+Seat 2: 1Marseille3 (120402)
+Seat 3: sabre_laser (63620)
+Seat 4: Liloosweet (27732)
+Seat 5: one piece 52 (23132)
+Seat 6: Carlitto69 (112904)
+Seat 7: tetof (137777)
+Seat 8: poseidon1979 (158948)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 620
+Liloosweet posts ante 620
+GrandClacos posts ante 620
+1Marseille3 posts ante 620
+one piece 52 posts ante 620
+Carlitto69 posts ante 620
+tetof posts ante 620
+poseidon1979 posts ante 620
+sabre_laser posts small blind 2500
+Liloosweet posts big blind 5000
+Dealt to sabre_laser [5h 8d]
+*** PRE-FLOP *** 
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+poseidon1979 folds
+GrandClacos folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet collected 12460 from pot
+*** SUMMARY ***
+Total pot 12460 | No rake
+Seat 4: Liloosweet (big blind) won 12460
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 17 - HandId: #590113663063425027-98-1448752225 - Holdem no limit (620/2500/5000) - 2015/11/28 23:10:25 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #3 is the button
+Seat 1: GrandClacos (31994)
+Seat 2: 1Marseille3 (119782)
+Seat 3: sabre_laser (60500)
+Seat 4: Liloosweet (34572)
+Seat 5: one piece 52 (22512)
+Seat 6: Carlitto69 (112284)
+Seat 7: tetof (137157)
+Seat 8: poseidon1979 (158328)
+*** ANTE/BLINDS ***
+Liloosweet posts ante 620
+one piece 52 posts ante 620
+GrandClacos posts ante 620
+1Marseille3 posts ante 620
+sabre_laser posts ante 620
+Carlitto69 posts ante 620
+tetof posts ante 620
+poseidon1979 posts ante 620
+Liloosweet posts small blind 2500
+one piece 52 posts big blind 5000
+Dealt to sabre_laser [Ad Qd]
+*** PRE-FLOP *** 
+Carlitto69 raises 5000 to 10000
+tetof calls 10000
+poseidon1979 folds
+GrandClacos folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+*** FLOP *** [Jd Qh 8s]
+Carlitto69 bets 17500
+tetof calls 17500
+*** TURN *** [Jd Qh 8s][5d]
+Carlitto69 bets 84164 and is all-in
+tetof folds
+Carlitto69 collected 151624 from pot
+*** SUMMARY ***
+Total pot 151624 | No rake
+Board: [Jd Qh 8s 5d]
+Seat 6: Carlitto69 won 151624
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 17 - HandId: #590113663063425027-99-1448752337 - Holdem no limit (620/2500/5000) - 2015/11/28 23:12:17 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #4 is the button
+Seat 1: GrandClacos (31374)
+Seat 2: 1Marseille3 (119162)
+Seat 3: sabre_laser (59880)
+Seat 4: Liloosweet (31452)
+Seat 5: one piece 52 (16892)
+Seat 6: Carlitto69 (151624)
+Seat 7: tetof (109037)
+Seat 8: poseidon1979 (157708)
+*** ANTE/BLINDS ***
+one piece 52 posts ante 620
+Carlitto69 posts ante 620
+GrandClacos posts ante 620
+1Marseille3 posts ante 620
+sabre_laser posts ante 620
+Liloosweet posts ante 620
+tetof posts ante 620
+poseidon1979 posts ante 620
+one piece 52 posts small blind 2500
+Carlitto69 posts big blind 5000
+Dealt to sabre_laser [8s 9s]
+*** PRE-FLOP *** 
+tetof raises 5000 to 10000
+poseidon1979 folds
+GrandClacos folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 raises 6272 to 16272 and is all-in
+Carlitto69 folds
+tetof calls 6272
+*** FLOP *** [Qs Kd 9h]
+*** TURN *** [Qs Kd 9h][As]
+*** RIVER *** [Qs Kd 9h As][8c]
+*** SHOW DOWN ***
+tetof shows [Jc Js] (One pair : Jacks)
+one piece 52 shows [Ah Ks] (Two pairs : Aces and Kings)
+one piece 52 collected 42504 from pot
+*** SUMMARY ***
+Total pot 42504 | No rake
+Board: [Qs Kd 9h As 8c]
+Seat 5: one piece 52 (small blind) showed [Ah Ks] and won 42504 with Two pairs : Aces and Kings
+Seat 7: tetof showed [Jc Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 18 - HandId: #590113663063425027-100-1448752403 - Holdem no limit (820/3000/6000) - 2015/11/28 23:13:23 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #5 is the button
+Seat 1: GrandClacos (30754)
+Seat 2: 1Marseille3 (118542)
+Seat 3: sabre_laser (59260)
+Seat 4: Liloosweet (30832)
+Seat 5: one piece 52 (42504)
+Seat 6: Carlitto69 (146004)
+Seat 7: tetof (92145)
+Seat 8: poseidon1979 (157088)
+*** ANTE/BLINDS ***
+Carlitto69 posts ante 820
+tetof posts ante 820
+GrandClacos posts ante 820
+1Marseille3 posts ante 820
+sabre_laser posts ante 820
+Liloosweet posts ante 820
+one piece 52 posts ante 820
+poseidon1979 posts ante 820
+Carlitto69 posts small blind 3000
+tetof posts big blind 6000
+Dealt to sabre_laser [2s 7s]
+*** PRE-FLOP *** 
+poseidon1979 folds
+GrandClacos folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 raises 9000 to 15000
+tetof calls 9000
+*** FLOP *** [7c Kc 3d]
+Carlitto69 checks
+tetof checks
+*** TURN *** [7c Kc 3d][3c]
+Carlitto69 bets 15000
+tetof folds
+Carlitto69 collected 51560 from pot
+*** SUMMARY ***
+Total pot 51560 | No rake
+Board: [7c Kc 3d 3c]
+Seat 6: Carlitto69 (small blind) won 51560
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 18 - HandId: #590113663063425027-101-1448752495 - Holdem no limit (820/3000/6000) - 2015/11/28 23:14:55 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #6 is the button
+Seat 2: 1Marseille3 (117722)
+Seat 3: sabre_laser (58440)
+Seat 4: Liloosweet (30012)
+Seat 5: one piece 52 (41684)
+Seat 6: Carlitto69 (166744)
+Seat 7: tetof (76325)
+Seat 8: poseidon1979 (156268)
+*** ANTE/BLINDS ***
+tetof posts ante 820
+poseidon1979 posts ante 820
+1Marseille3 posts ante 820
+sabre_laser posts ante 820
+Liloosweet posts ante 820
+one piece 52 posts ante 820
+Carlitto69 posts ante 820
+tetof posts small blind 3000
+poseidon1979 posts big blind 6000
+Dealt to sabre_laser [8s 3c]
+*** PRE-FLOP *** 
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+poseidon1979 collected 14740 from pot
+*** SUMMARY ***
+Total pot 14740 | No rake
+Seat 8: poseidon1979 (big blind) won 14740
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 18 - HandId: #590113663063425027-102-1448752522 - Holdem no limit (820/3000/6000) - 2015/11/28 23:15:22 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #7 is the button
+Seat 2: 1Marseille3 (116902)
+Seat 3: sabre_laser (57620)
+Seat 4: Liloosweet (29192)
+Seat 5: one piece 52 (40864)
+Seat 6: Carlitto69 (165924)
+Seat 7: tetof (72505)
+Seat 8: poseidon1979 (164188)
+*** ANTE/BLINDS ***
+poseidon1979 posts ante 820
+1Marseille3 posts ante 820
+sabre_laser posts ante 820
+Liloosweet posts ante 820
+one piece 52 posts ante 820
+Carlitto69 posts ante 820
+tetof posts ante 820
+poseidon1979 posts small blind 3000
+1Marseille3 posts big blind 6000
+Dealt to sabre_laser [Ks Ah]
+*** PRE-FLOP *** 
+sabre_laser raises 50800 to 56800 and is all-in
+Liloosweet calls 28372 and is all-in
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+poseidon1979 folds
+1Marseille3 folds
+*** FLOP *** [6s 4s 7d]
+*** TURN *** [6s 4s 7d][2c]
+*** RIVER *** [6s 4s 7d 2c][7h]
+*** SHOW DOWN ***
+Liloosweet shows [Th Ts] (Two pairs : Tens and 7)
+sabre_laser shows [Ks Ah] (One pair : 7)
+sabre_laser collected 28428 from side pot 1
+Liloosweet collected 71484 from main pot
+*** SUMMARY ***
+Total pot 99912 | No rake
+Board: [6s 4s 7d 2c 7h]
+Seat 3: sabre_laser showed [Ks Ah] and won 28428 with One pair : 7
+Seat 4: Liloosweet showed [Th Ts] and won 71484 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 18 - HandId: #590113663063425027-103-1448752562 - Holdem no limit (820/3000/6000) - 2015/11/28 23:16:02 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #8 is the button
+Seat 2: 1Marseille3 (110082)
+Seat 3: sabre_laser (28428)
+Seat 4: Liloosweet (71484)
+Seat 5: one piece 52 (40044)
+Seat 6: Carlitto69 (165104)
+Seat 7: tetof (71685)
+Seat 8: poseidon1979 (160368)
+*** ANTE/BLINDS ***
+1Marseille3 posts ante 820
+sabre_laser posts ante 820
+Liloosweet posts ante 820
+one piece 52 posts ante 820
+Carlitto69 posts ante 820
+tetof posts ante 820
+poseidon1979 posts ante 820
+1Marseille3 posts small blind 3000
+sabre_laser posts big blind 6000
+Dealt to sabre_laser [8c 9d]
+*** PRE-FLOP *** 
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+poseidon1979 folds
+1Marseille3 raises 24000 to 30000
+sabre_laser folds
+1Marseille3 collected 41740 from pot
+*** SUMMARY ***
+Total pot 41740 | No rake
+Seat 2: 1Marseille3 (small blind) won 41740
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 18 - HandId: #590113663063425027-104-1448752602 - Holdem no limit (820/3000/6000) - 2015/11/28 23:16:42 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #2 is the button
+Seat 1: Kdan93 (15702)
+Seat 2: 1Marseille3 (121002)
+Seat 3: sabre_laser (21608)
+Seat 4: Liloosweet (70664)
+Seat 5: one piece 52 (39224)
+Seat 6: Carlitto69 (164284)
+Seat 7: tetof (70865)
+Seat 8: poseidon1979 (159548)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 820
+Liloosweet posts ante 820
+Kdan93 posts ante 820
+1Marseille3 posts ante 820
+one piece 52 posts ante 820
+Carlitto69 posts ante 820
+tetof posts ante 820
+poseidon1979 posts ante 820
+sabre_laser posts small blind 3000
+Liloosweet posts big blind 6000
+Dealt to sabre_laser [Kc Kh]
+*** PRE-FLOP *** 
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+poseidon1979 folds
+Kdan93 folds
+1Marseille3 folds
+sabre_laser calls 3000
+Liloosweet checks
+*** FLOP *** [As 2d Tc]
+sabre_laser bets 6000
+Liloosweet folds
+sabre_laser collected 24560 from pot
+*** SUMMARY ***
+Total pot 24560 | No rake
+Board: [As 2d Tc]
+Seat 3: sabre_laser (small blind) won 24560
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 18 - HandId: #590113663063425027-105-1448752689 - Holdem no limit (820/3000/6000) - 2015/11/28 23:18:09 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #3 is the button
+Seat 1: Kdan93 (14882)
+Seat 2: 1Marseille3 (120182)
+Seat 3: sabre_laser (33348)
+Seat 4: Liloosweet (63844)
+Seat 5: one piece 52 (38404)
+Seat 6: Carlitto69 (163464)
+Seat 7: tetof (70045)
+Seat 8: poseidon1979 (158728)
+*** ANTE/BLINDS ***
+Liloosweet posts ante 820
+one piece 52 posts ante 820
+Kdan93 posts ante 820
+1Marseille3 posts ante 820
+sabre_laser posts ante 820
+Carlitto69 posts ante 820
+tetof posts ante 820
+poseidon1979 posts ante 820
+Liloosweet posts small blind 3000
+one piece 52 posts big blind 6000
+Dealt to sabre_laser [3c 5h]
+*** PRE-FLOP *** 
+Carlitto69 raises 9000 to 15000
+tetof folds
+poseidon1979 folds
+Kdan93 folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 collected 30560 from pot
+*** SUMMARY ***
+Total pot 30560 | No rake
+Seat 6: Carlitto69 won 30560
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 19 - HandId: #590113663063425027-106-1448752743 - Holdem no limit (950/4000/8000) - 2015/11/28 23:19:03 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #4 is the button
+Seat 1: Kdan93 (14062)
+Seat 2: 1Marseille3 (119362)
+Seat 3: sabre_laser (32528)
+Seat 4: Liloosweet (60024)
+Seat 5: one piece 52 (31584)
+Seat 6: Carlitto69 (178204)
+Seat 7: tetof (69225)
+Seat 8: poseidon1979 (157908)
+*** ANTE/BLINDS ***
+one piece 52 posts ante 950
+Carlitto69 posts ante 950
+Kdan93 posts ante 950
+1Marseille3 posts ante 950
+sabre_laser posts ante 950
+Liloosweet posts ante 950
+tetof posts ante 950
+poseidon1979 posts ante 950
+one piece 52 posts small blind 4000
+Carlitto69 posts big blind 8000
+Dealt to sabre_laser [2s 2d]
+*** PRE-FLOP *** 
+tetof folds
+poseidon1979 folds
+Kdan93 folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 collected 19600 from pot
+*** SUMMARY ***
+Total pot 19600 | No rake
+Seat 6: Carlitto69 (big blind) won 19600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 19 - HandId: #590113663063425027-107-1448752799 - Holdem no limit (950/4000/8000) - 2015/11/28 23:19:59 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #5 is the button
+Seat 1: Kdan93 (13112)
+Seat 2: 1Marseille3 (118412)
+Seat 3: sabre_laser (31578)
+Seat 4: Liloosweet (59074)
+Seat 5: one piece 52 (26634)
+Seat 6: Carlitto69 (188854)
+Seat 7: tetof (68275)
+Seat 8: poseidon1979 (156958)
+*** ANTE/BLINDS ***
+Carlitto69 posts ante 950
+tetof posts ante 950
+Kdan93 posts ante 950
+1Marseille3 posts ante 950
+sabre_laser posts ante 950
+Liloosweet posts ante 950
+one piece 52 posts ante 950
+poseidon1979 posts ante 950
+Carlitto69 posts small blind 4000
+tetof posts big blind 8000
+Dealt to sabre_laser [9h 4d]
+*** PRE-FLOP *** 
+poseidon1979 folds
+Kdan93 folds
+1Marseille3 raises 16000 to 24000
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+1Marseille3 collected 43600 from pot
+*** SUMMARY ***
+Total pot 43600 | No rake
+Seat 2: 1Marseille3 won 43600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 19 - HandId: #590113663063425027-108-1448752886 - Holdem no limit (950/4000/8000) - 2015/11/28 23:21:26 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #6 is the button
+Seat 1: Kdan93 (12162)
+Seat 2: 1Marseille3 (137062)
+Seat 3: sabre_laser (30628)
+Seat 4: Liloosweet (58124)
+Seat 5: one piece 52 (25684)
+Seat 6: Carlitto69 (183904)
+Seat 7: tetof (59325)
+Seat 8: poseidon1979 (156008)
+*** ANTE/BLINDS ***
+tetof posts ante 950
+poseidon1979 posts ante 950
+Kdan93 posts ante 950
+1Marseille3 posts ante 950
+sabre_laser posts ante 950
+Liloosweet posts ante 950
+one piece 52 posts ante 950
+Carlitto69 posts ante 950
+tetof posts small blind 4000
+poseidon1979 posts big blind 8000
+Dealt to sabre_laser [5s 3s]
+*** PRE-FLOP *** 
+Kdan93 folds
+1Marseille3 folds
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 raises 12000 to 20000
+tetof folds
+poseidon1979 folds
+Carlitto69 collected 39600 from pot
+*** SUMMARY ***
+Total pot 39600 | No rake
+Seat 6: Carlitto69 (button) won 39600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 19 - HandId: #590113663063425027-109-1448752927 - Holdem no limit (950/4000/8000) - 2015/11/28 23:22:07 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #7 is the button
+Seat 1: Kdan93 (11212)
+Seat 3: sabre_laser (29678)
+Seat 4: Liloosweet (57174)
+Seat 5: one piece 52 (24734)
+Seat 6: Carlitto69 (202554)
+Seat 7: tetof (54375)
+Seat 8: poseidon1979 (147058)
+*** ANTE/BLINDS ***
+poseidon1979 posts ante 950
+Kdan93 posts ante 950
+sabre_laser posts ante 950
+Liloosweet posts ante 950
+one piece 52 posts ante 950
+Carlitto69 posts ante 950
+tetof posts ante 950
+poseidon1979 posts small blind 4000
+Kdan93 posts big blind 8000
+Dealt to sabre_laser [5c 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof raises 45425 to 53425 and is all-in
+poseidon1979 folds
+Kdan93 calls 2262 and is all-in
+*** FLOP *** [8c 4d Qs]
+*** TURN *** [8c 4d Qs][3h]
+*** RIVER *** [8c 4d Qs 3h][Qd]
+*** SHOW DOWN ***
+Kdan93 shows [Kc 2c] (One pair : Queens)
+tetof shows [Th Jh] (One pair : Queens)
+tetof collected 43163 from side pot 1
+Kdan93 collected 31174 from main pot
+*** SUMMARY ***
+Total pot 74337 | No rake
+Board: [8c 4d Qs 3h Qd]
+Seat 1: Kdan93 (big blind) showed [Kc 2c] and won 31174 with One pair : Queens
+Seat 7: tetof (button) showed [Th Jh] and won 43163 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 19 - HandId: #590113663063425027-110-1448752963 - Holdem no limit (950/4000/8000) - 2015/11/28 23:22:43 UTC
+Table: 'MiniRoll(137396544)#002' 8-max (real money) Seat #8 is the button
+Seat 1: Kdan93 (31174)
+Seat 3: sabre_laser (28728)
+Seat 4: Liloosweet (56224)
+Seat 5: one piece 52 (23784)
+Seat 6: Carlitto69 (201604)
+Seat 7: tetof (43163)
+Seat 8: poseidon1979 (142108)
+*** ANTE/BLINDS ***
+Kdan93 posts ante 950
+sabre_laser posts ante 950
+Liloosweet posts ante 950
+one piece 52 posts ante 950
+Carlitto69 posts ante 950
+tetof posts ante 950
+poseidon1979 posts ante 950
+Kdan93 posts small blind 4000
+sabre_laser posts big blind 8000
+Dealt to sabre_laser [8s Qd]
+*** PRE-FLOP *** 
+Liloosweet folds
+one piece 52 folds
+Carlitto69 folds
+tetof folds
+poseidon1979 folds
+Kdan93 raises 22224 to 30224 and is all-in
+sabre_laser calls 19778 and is all-in
+*** FLOP *** [Kd 3c 6d]
+*** TURN *** [Kd 3c 6d][2s]
+*** RIVER *** [Kd 3c 6d 2s][6h]
+*** SHOW DOWN ***
+sabre_laser shows [8s Qd] (One pair : 6)
+Kdan93 shows [3d Kh] (Two pairs : Kings and 6)
+Kdan93 collected 64652 from pot
+*** SUMMARY ***
+Total pot 64652 | No rake
+Board: [Kd 3c 6d 2s 6h]
+Seat 1: Kdan93 (small blind) showed [3d Kh] and won 64652 with Two pairs : Kings and 6
+Seat 3: sabre_laser (big blind) showed [8s Qd] and lost with One pair : 6
+
+

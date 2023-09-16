@@ -1,0 +1,156 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107024957734913-1-1425245416 - Holdem no limit (10/20) - 2015/03/01 21:30:16 UTC
+Table: 'Expresso(111550797)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sir Ower (500)
+Seat 2: S-Croc_K3ur (500)
+Seat 3: sabre_laser (500)
+*** ANTE/BLINDS ***
+Sir Ower posts small blind 10
+S-Croc_K3ur posts big blind 20
+Dealt to sabre_laser [5c 7d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Sir Ower raises 480 to 500 and is all-in
+S-Croc_K3ur calls 480 and is all-in
+*** FLOP *** [6c Ac 8s]
+*** TURN *** [6c Ac 8s][7s]
+*** RIVER *** [6c Ac 8s 7s][Ad]
+*** SHOW DOWN ***
+Sir Ower shows [3c 2c] (One pair : Aces)
+S-Croc_K3ur shows [2d 2h] (Two pairs : Aces and 2)
+S-Croc_K3ur collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [6c Ac 8s 7s Ad]
+Seat 1: Sir Ower (small blind) showed [3c 2c] and lost with One pair : Aces
+Seat 2: S-Croc_K3ur (big blind) showed [2d 2h] and won 1000 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107024957734913-2-1425245436 - Holdem no limit (10/20) - 2015/03/01 21:30:36 UTC
+Table: 'Expresso(111550797)#0' 3-max (real money) Seat #2 is the button
+Seat 2: S-Croc_K3ur (1000)
+Seat 3: sabre_laser (500)
+*** ANTE/BLINDS ***
+S-Croc_K3ur posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2d 5s]
+*** PRE-FLOP *** 
+S-Croc_K3ur folds
+sabre_laser collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: sabre_laser (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107024957734913-3-1425245441 - Holdem no limit (10/20) - 2015/03/01 21:30:41 UTC
+Table: 'Expresso(111550797)#0' 3-max (real money) Seat #3 is the button
+Seat 2: S-Croc_K3ur (990)
+Seat 3: sabre_laser (510)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+S-Croc_K3ur posts big blind 20
+Dealt to sabre_laser [7h 6s]
+*** PRE-FLOP *** 
+sabre_laser calls 10
+S-Croc_K3ur checks
+*** FLOP *** [4c 4s 6c]
+S-Croc_K3ur checks
+sabre_laser bets 20
+S-Croc_K3ur calls 20
+*** TURN *** [4c 4s 6c][8h]
+S-Croc_K3ur checks
+sabre_laser bets 470 and is all-in
+S-Croc_K3ur folds
+sabre_laser collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [4c 4s 6c 8h]
+Seat 3: sabre_laser (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107024957734913-4-1425245467 - Holdem no limit (10/20) - 2015/03/01 21:31:07 UTC
+Table: 'Expresso(111550797)#0' 3-max (real money) Seat #2 is the button
+Seat 2: S-Croc_K3ur (950)
+Seat 3: sabre_laser (550)
+*** ANTE/BLINDS ***
+S-Croc_K3ur posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [2d Jh]
+*** PRE-FLOP *** 
+S-Croc_K3ur calls 10
+sabre_laser checks
+*** FLOP *** [5d Qh 6s]
+sabre_laser checks
+S-Croc_K3ur checks
+*** TURN *** [5d Qh 6s][Jc]
+sabre_laser checks
+S-Croc_K3ur checks
+*** RIVER *** [5d Qh 6s Jc][8h]
+sabre_laser bets 40
+S-Croc_K3ur folds
+sabre_laser collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5d Qh 6s Jc 8h]
+Seat 3: sabre_laser (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107024957734913-5-1425245514 - Holdem no limit (10/20) - 2015/03/01 21:31:54 UTC
+Table: 'Expresso(111550797)#0' 3-max (real money) Seat #3 is the button
+Seat 2: S-Croc_K3ur (930)
+Seat 3: sabre_laser (570)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+S-Croc_K3ur posts big blind 20
+Dealt to sabre_laser [Qh Js]
+*** PRE-FLOP *** 
+sabre_laser raises 40 to 60
+S-Croc_K3ur folds
+sabre_laser collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: sabre_laser (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107024957734913-6-1425245522 - Holdem no limit (10/20) - 2015/03/01 21:32:02 UTC
+Table: 'Expresso(111550797)#0' 3-max (real money) Seat #2 is the button
+Seat 2: S-Croc_K3ur (910)
+Seat 3: sabre_laser (590)
+*** ANTE/BLINDS ***
+S-Croc_K3ur posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [6s Ad]
+*** PRE-FLOP *** 
+S-Croc_K3ur folds
+sabre_laser collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: sabre_laser (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0€ + 1€ level: 0 - HandId: #479107024957734913-7-1425245526 - Holdem no limit (10/20) - 2015/03/01 21:32:06 UTC
+Table: 'Expresso(111550797)#0' 3-max (real money) Seat #3 is the button
+Seat 2: S-Croc_K3ur (900)
+Seat 3: sabre_laser (600)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+S-Croc_K3ur posts big blind 20
+Dealt to sabre_laser [8s Ac]
+*** PRE-FLOP *** 
+sabre_laser raises 60 to 80
+S-Croc_K3ur raises 201 to 281
+sabre_laser raises 319 to 600 and is all-in
+S-Croc_K3ur raises 300 to 900 and is all-in
+*** FLOP *** [Qc 2s 8h]
+*** TURN *** [Qc 2s 8h][2c]
+*** RIVER *** [Qc 2s 8h 2c][6c]
+*** SHOW DOWN ***
+sabre_laser shows [8s Ac] (Two pairs : 8 and 2)
+S-Croc_K3ur shows [Qs Qh] (Full of Queens and 2)
+S-Croc_K3ur collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Qc 2s 8h 2c 6c]
+Seat 2: S-Croc_K3ur (big blind) showed [Qs Qh] and won 1500 with Full of Queens and 2
+Seat 3: sabre_laser (small blind) (button) showed [8s Ac] and lost with Two pairs : 8 and 2
+
+

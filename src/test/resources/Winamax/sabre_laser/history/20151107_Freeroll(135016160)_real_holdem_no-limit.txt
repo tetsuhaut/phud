@@ -1,0 +1,983 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #579889991631503362-1-1446906626 - Holdem no limit (10/20) - 2015/11/07 14:30:26 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #7 is the button
+Seat 1: oortael (3000)
+Seat 2: NinjoOB (3000)
+Seat 3: hongsa (3000)
+Seat 4: ked66971 (3000)
+Seat 5: Arrow-92i (3000)
+Seat 6: NO JOKE 75 (3000)
+Seat 7: Force-Rouge (3000)
+Seat 8: sabre_laser (3000)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+oortael posts big blind 20
+Dealt to sabre_laser [Ah Th]
+*** PRE-FLOP *** 
+NinjoOB raises 2980 to 3000 and is all-in
+hongsa folds
+ked66971 folds
+Arrow-92i calls 3000 and is all-in
+NO JOKE 75 folds
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+*** FLOP *** [3h 6h Qd]
+*** TURN *** [3h 6h Qd][4d]
+*** RIVER *** [3h 6h Qd 4d][Ks]
+*** SHOW DOWN ***
+Arrow-92i shows [6s 9s] (One pair : 6)
+NinjoOB shows [Kh 9d] (One pair : Kings)
+NinjoOB collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [3h 6h Qd 4d Ks]
+Seat 2: NinjoOB showed [Kh 9d] and won 6030 with One pair : Kings
+Seat 5: Arrow-92i showed [6s 9s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #579889991631503362-2-1446906780 - Holdem no limit (10/20) - 2015/11/07 14:33:00 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #8 is the button
+Seat 1: oortael (2980)
+Seat 2: NinjoOB (6030)
+Seat 3: hongsa (3000)
+Seat 4: ked66971 (3000)
+Seat 6: NO JOKE 75 (3000)
+Seat 7: Force-Rouge (3000)
+Seat 8: sabre_laser (2990)
+*** ANTE/BLINDS ***
+oortael posts small blind 10
+NinjoOB posts big blind 20
+Dealt to sabre_laser [8c 3h]
+*** PRE-FLOP *** 
+hongsa folds
+ked66971 calls 20
+NO JOKE 75 folds
+Force-Rouge calls 20
+sabre_laser folds
+oortael calls 10
+NinjoOB raises 6010 to 6030 and is all-in
+ked66971 folds
+Force-Rouge folds
+oortael folds
+NinjoOB collected 6090 from pot
+*** SUMMARY ***
+Total pot 6090 | No rake
+Seat 2: NinjoOB (big blind) won 6090
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #579889991631503362-3-1446906827 - Holdem no limit (15/30) - 2015/11/07 14:33:47 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #1 is the button
+Seat 1: oortael (2960)
+Seat 2: NinjoOB (6090)
+Seat 3: hongsa (3000)
+Seat 4: ked66971 (2980)
+Seat 5: Calimero1123 (3000)
+Seat 6: NO JOKE 75 (3000)
+Seat 7: Force-Rouge (2980)
+Seat 8: sabre_laser (2990)
+*** ANTE/BLINDS ***
+NinjoOB posts small blind 15
+hongsa posts big blind 30
+Dealt to sabre_laser [5h 3s]
+*** PRE-FLOP *** 
+ked66971 calls 30
+Calimero1123 folds
+NO JOKE 75 raises 2970 to 3000 and is all-in
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB folds
+hongsa folds
+ked66971 calls 2950 and is all-in
+*** FLOP *** [7c 7s Th]
+*** TURN *** [7c 7s Th][Ac]
+*** RIVER *** [7c 7s Th Ac][4c]
+*** SHOW DOWN ***
+ked66971 shows [9d 9s] (Two pairs : 9 and 7)
+NO JOKE 75 shows [As Ad] (Full of Aces and 7)
+NO JOKE 75 collected 6025 from pot
+*** SUMMARY ***
+Total pot 6025 | No rake
+Board: [7c 7s Th Ac 4c]
+Seat 4: ked66971 showed [9d 9s] and lost with Two pairs : 9 and 7
+Seat 6: NO JOKE 75 showed [As Ad] and won 6025 with Full of Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #579889991631503362-4-1446906872 - Holdem no limit (15/30) - 2015/11/07 14:34:32 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #2 is the button
+Seat 1: oortael (2960)
+Seat 2: NinjoOB (6075)
+Seat 3: hongsa (2970)
+Seat 4: KALLON 99 (3000)
+Seat 5: Calimero1123 (3000)
+Seat 6: NO JOKE 75 (6025)
+Seat 7: Force-Rouge (2980)
+Seat 8: sabre_laser (2990)
+*** ANTE/BLINDS ***
+hongsa posts small blind 15
+KALLON 99 posts big blind 30
+Dealt to sabre_laser [4s Qh]
+*** PRE-FLOP *** 
+Calimero1123 folds
+NO JOKE 75 folds
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB calls 30
+hongsa raises 2940 to 2970 and is all-in
+KALLON 99 folds
+NinjoOB calls 2940
+*** FLOP *** [Qd As Td]
+*** TURN *** [Qd As Td][5c]
+*** RIVER *** [Qd As Td 5c][5d]
+*** SHOW DOWN ***
+hongsa shows [2s 2c] (Two pairs : 5 and 2)
+NinjoOB shows [9h Tc] (Two pairs : Tens and 5)
+NinjoOB collected 5970 from pot
+*** SUMMARY ***
+Total pot 5970 | No rake
+Board: [Qd As Td 5c 5d]
+Seat 2: NinjoOB (button) showed [9h Tc] and won 5970 with Two pairs : Tens and 5
+Seat 3: hongsa (small blind) showed [2s 2c] and lost with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #579889991631503362-5-1446906967 - Holdem no limit (15/30) - 2015/11/07 14:36:07 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #3 is the button
+Seat 1: oortael (2960)
+Seat 2: NinjoOB (9075)
+Seat 4: KALLON 99 (2970)
+Seat 5: Calimero1123 (3000)
+Seat 6: NO JOKE 75 (6025)
+Seat 7: Force-Rouge (2980)
+Seat 8: sabre_laser (2990)
+*** ANTE/BLINDS ***
+KALLON 99 posts small blind 15
+Calimero1123 posts big blind 30
+Dealt to sabre_laser [9h Qc]
+*** PRE-FLOP *** 
+NO JOKE 75 calls 30
+Force-Rouge folds
+sabre_laser calls 30
+oortael folds
+NinjoOB calls 30
+KALLON 99 raises 2940 to 2970 and is all-in
+Calimero1123 folds
+NO JOKE 75 folds
+sabre_laser folds
+NinjoOB folds
+KALLON 99 collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Seat 4: KALLON 99 (small blind) won 3090
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #579889991631503362-6-1446907041 - Holdem no limit (20/40) - 2015/11/07 14:37:21 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #4 is the button
+Seat 1: oortael (2960)
+Seat 2: NinjoOB (9045)
+Seat 3: pinkman06 (3000)
+Seat 4: KALLON 99 (3090)
+Seat 5: Calimero1123 (2970)
+Seat 6: NO JOKE 75 (5995)
+Seat 7: Force-Rouge (2980)
+Seat 8: sabre_laser (2960)
+*** ANTE/BLINDS ***
+Calimero1123 posts small blind 20
+NO JOKE 75 posts big blind 40
+Dealt to sabre_laser [Ad Jc]
+*** PRE-FLOP *** 
+Force-Rouge folds
+sabre_laser raises 160 to 200
+oortael folds
+NinjoOB folds
+pinkman06 folds
+KALLON 99 folds
+Calimero1123 calls 180
+NO JOKE 75 folds
+*** FLOP *** [6s Js Tc]
+Calimero1123 checks
+sabre_laser bets 220
+Calimero1123 calls 220
+*** TURN *** [6s Js Tc][3s]
+Calimero1123 checks
+sabre_laser checks
+*** RIVER *** [6s Js Tc 3s][5h]
+Calimero1123 checks
+sabre_laser checks
+*** SHOW DOWN ***
+Calimero1123 shows [Qs Kc] (High card : King)
+sabre_laser shows [Ad Jc] (One pair : Jacks)
+sabre_laser collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [6s Js Tc 3s 5h]
+Seat 5: Calimero1123 (small blind) showed [Qs Kc] and lost with High card : King
+Seat 8: sabre_laser showed [Ad Jc] and won 880 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #579889991631503362-7-1446907165 - Holdem no limit (30/60) - 2015/11/07 14:39:25 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #5 is the button
+Seat 1: oortael (2960)
+Seat 2: NinjoOB (9045)
+Seat 3: pinkman06 (3000)
+Seat 4: KALLON 99 (3090)
+Seat 5: Calimero1123 (2550)
+Seat 6: NO JOKE 75 (5955)
+Seat 7: Force-Rouge (2980)
+Seat 8: sabre_laser (3420)
+*** ANTE/BLINDS ***
+NO JOKE 75 posts small blind 30
+Force-Rouge posts big blind 60
+Dealt to sabre_laser [8s 4h]
+*** PRE-FLOP *** 
+sabre_laser folds
+oortael folds
+NinjoOB calls 60
+pinkman06 folds
+KALLON 99 folds
+Calimero1123 folds
+NO JOKE 75 folds
+Force-Rouge checks
+*** FLOP *** [Kh 7h 5h]
+Force-Rouge checks
+NinjoOB checks
+*** TURN *** [Kh 7h 5h][Qh]
+Force-Rouge checks
+NinjoOB checks
+*** RIVER *** [Kh 7h 5h Qh][2d]
+Force-Rouge checks
+NinjoOB bets 60
+Force-Rouge raises 2860 to 2920 and is all-in
+NinjoOB folds
+Force-Rouge collected 3130 from pot
+*** SUMMARY ***
+Total pot 3130 | No rake
+Board: [Kh 7h 5h Qh 2d]
+Seat 7: Force-Rouge (big blind) won 3130
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #579889991631503362-8-1446907284 - Holdem no limit (30/60) - 2015/11/07 14:41:24 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #6 is the button
+Seat 1: oortael (2960)
+Seat 2: NinjoOB (8925)
+Seat 3: pinkman06 (3000)
+Seat 4: KALLON 99 (3090)
+Seat 5: Calimero1123 (2550)
+Seat 6: NO JOKE 75 (5925)
+Seat 7: Force-Rouge (3130)
+Seat 8: sabre_laser (3420)
+*** ANTE/BLINDS ***
+Force-Rouge posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [6d Ks]
+*** PRE-FLOP *** 
+oortael folds
+NinjoOB calls 60
+pinkman06 folds
+KALLON 99 folds
+Calimero1123 folds
+NO JOKE 75 calls 60
+Force-Rouge raises 3070 to 3130 and is all-in
+sabre_laser folds
+NinjoOB folds
+NO JOKE 75 folds
+Force-Rouge collected 3310 from pot
+*** SUMMARY ***
+Total pot 3310 | No rake
+Seat 7: Force-Rouge (small blind) won 3310
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #579889991631503362-9-1446907346 - Holdem no limit (40/80) - 2015/11/07 14:42:26 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #7 is the button
+Seat 1: oortael (2960)
+Seat 2: NinjoOB (8865)
+Seat 3: pinkman06 (3000)
+Seat 4: KALLON 99 (3090)
+Seat 5: Calimero1123 (2550)
+Seat 6: NO JOKE 75 (5865)
+Seat 7: Force-Rouge (3310)
+Seat 8: sabre_laser (3360)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+oortael posts big blind 80
+Dealt to sabre_laser [9d 6h]
+*** PRE-FLOP *** 
+NinjoOB raises 80 to 160
+pinkman06 folds
+KALLON 99 calls 160
+Calimero1123 folds
+NO JOKE 75 calls 160
+Force-Rouge folds
+sabre_laser folds
+oortael calls 80
+*** FLOP *** [5d Ks 2h]
+oortael checks
+NinjoOB bets 8705 and is all-in
+KALLON 99 folds
+NO JOKE 75 folds
+oortael folds
+NinjoOB collected 9385 from pot
+*** SUMMARY ***
+Total pot 9385 | No rake
+Board: [5d Ks 2h]
+Seat 2: NinjoOB won 9385
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #579889991631503362-10-1446907396 - Holdem no limit (40/80) - 2015/11/07 14:43:16 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #8 is the button
+Seat 1: oortael (2800)
+Seat 2: NinjoOB (9385)
+Seat 3: pinkman06 (3000)
+Seat 4: KALLON 99 (2930)
+Seat 5: Calimero1123 (2550)
+Seat 6: NO JOKE 75 (5705)
+Seat 7: Force-Rouge (3310)
+Seat 8: sabre_laser (3320)
+*** ANTE/BLINDS ***
+oortael posts small blind 40
+NinjoOB posts big blind 80
+Dealt to sabre_laser [Jc 3d]
+*** PRE-FLOP *** 
+pinkman06 calls 80
+KALLON 99 raises 2850 to 2930 and is all-in
+Calimero1123 folds
+NO JOKE 75 folds
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB folds
+pinkman06 folds
+KALLON 99 collected 3130 from pot
+*** SUMMARY ***
+Total pot 3130 | No rake
+Seat 4: KALLON 99 won 3130
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #579889991631503362-11-1446907459 - Holdem no limit (40/80) - 2015/11/07 14:44:19 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #1 is the button
+Seat 1: oortael (2760)
+Seat 2: NinjoOB (9305)
+Seat 3: pinkman06 (2920)
+Seat 4: KALLON 99 (3130)
+Seat 5: Calimero1123 (2550)
+Seat 6: NO JOKE 75 (5705)
+Seat 7: Force-Rouge (3310)
+Seat 8: sabre_laser (3320)
+*** ANTE/BLINDS ***
+NinjoOB posts small blind 40
+pinkman06 posts big blind 80
+Dealt to sabre_laser [5d Ac]
+*** PRE-FLOP *** 
+KALLON 99 folds
+Calimero1123 folds
+NO JOKE 75 calls 80
+Force-Rouge calls 80
+sabre_laser folds
+oortael raises 220 to 300
+NinjoOB folds
+pinkman06 folds
+NO JOKE 75 raises 5405 to 5705 and is all-in
+Force-Rouge folds
+oortael calls 2460 and is all-in
+*** FLOP *** [4s 8h 9c]
+*** TURN *** [4s 8h 9c][Td]
+*** RIVER *** [4s 8h 9c Td][8d]
+*** SHOW DOWN ***
+oortael shows [Tc Ts] (Full of Tens and 8)
+NO JOKE 75 shows [As Qc] (One pair : 8)
+NO JOKE 75 collected 2945 from side pot 1
+oortael collected 5720 from main pot
+*** SUMMARY ***
+Total pot 8665 | No rake
+Board: [4s 8h 9c Td 8d]
+Seat 1: oortael (button) showed [Tc Ts] and won 5720 with Full of Tens and 8
+Seat 6: NO JOKE 75 showed [As Qc] and won 2945 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #579889991631503362-12-1446907543 - Holdem no limit (60/120) - 2015/11/07 14:45:43 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #2 is the button
+Seat 1: oortael (5720)
+Seat 2: NinjoOB (9265)
+Seat 3: pinkman06 (2840)
+Seat 4: KALLON 99 (3130)
+Seat 5: Calimero1123 (2550)
+Seat 6: NO JOKE 75 (2945)
+Seat 7: Force-Rouge (3230)
+Seat 8: sabre_laser (3320)
+*** ANTE/BLINDS ***
+pinkman06 posts small blind 60
+KALLON 99 posts big blind 120
+Dealt to sabre_laser [4s 3d]
+*** PRE-FLOP *** 
+Calimero1123 folds
+NO JOKE 75 raises 2825 to 2945 and is all-in
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB folds
+pinkman06 calls 2780 and is all-in
+KALLON 99 folds
+*** FLOP *** [2s 9h 5h]
+*** TURN *** [2s 9h 5h][Th]
+*** RIVER *** [2s 9h 5h Th][4d]
+*** SHOW DOWN ***
+pinkman06 shows [Ah Kc] (High card : Ace)
+NO JOKE 75 shows [Jh Td] (One pair : Tens)
+NO JOKE 75 collected 5905 from pot
+*** SUMMARY ***
+Total pot 5905 | No rake
+Board: [2s 9h 5h Th 4d]
+Seat 3: pinkman06 (small blind) showed [Ah Kc] and lost with High card : Ace
+Seat 6: NO JOKE 75 showed [Jh Td] and won 5905 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #579889991631503362-13-1446907573 - Holdem no limit (60/120) - 2015/11/07 14:46:13 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #3 is the button
+Seat 1: oortael (5720)
+Seat 2: NinjoOB (9265)
+Seat 3: Zine006 (3000)
+Seat 4: KALLON 99 (3010)
+Seat 5: Calimero1123 (2550)
+Seat 6: NO JOKE 75 (5905)
+Seat 7: Force-Rouge (3230)
+Seat 8: sabre_laser (3320)
+*** ANTE/BLINDS ***
+KALLON 99 posts small blind 60
+Calimero1123 posts big blind 120
+Dealt to sabre_laser [Ac Qs]
+*** PRE-FLOP *** 
+NO JOKE 75 folds
+Force-Rouge folds
+sabre_laser raises 480 to 600
+oortael folds
+NinjoOB folds
+KALLON 99 calls 540
+Calimero1123 folds
+*** FLOP *** [As 5s 4d]
+KALLON 99 checks
+sabre_laser bets 240
+KALLON 99 raises 240 to 480
+sabre_laser raises 2240 to 2720 and is all-in
+KALLON 99 calls 1930 and is all-in
+*** TURN *** [As 5s 4d][Jd]
+*** RIVER *** [As 5s 4d Jd][7d]
+*** SHOW DOWN ***
+KALLON 99 shows [Ad 7h] (Two pairs : Aces and 7)
+sabre_laser shows [Ac Qs] (One pair : Aces)
+sabre_laser collected 310 from side pot 1
+KALLON 99 collected 6140 from main pot
+*** SUMMARY ***
+Total pot 6450 | No rake
+Board: [As 5s 4d Jd 7d]
+Seat 4: KALLON 99 (small blind) showed [Ad 7h] and won 6140 with Two pairs : Aces and 7
+Seat 8: sabre_laser showed [Ac Qs] and won 310 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #579889991631503362-14-1446907632 - Holdem no limit (60/120) - 2015/11/07 14:47:12 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #4 is the button
+Seat 1: oortael (5720)
+Seat 2: NinjoOB (9265)
+Seat 3: Zine006 (3000)
+Seat 4: KALLON 99 (6140)
+Seat 5: Calimero1123 (2430)
+Seat 6: NO JOKE 75 (5905)
+Seat 7: Force-Rouge (3230)
+Seat 8: sabre_laser (310)
+*** ANTE/BLINDS ***
+Calimero1123 posts small blind 60
+NO JOKE 75 posts big blind 120
+Dealt to sabre_laser [Td Kd]
+*** PRE-FLOP *** 
+Force-Rouge folds
+sabre_laser raises 190 to 310 and is all-in
+oortael folds
+NinjoOB calls 310
+Zine006 raises 2690 to 3000 and is all-in
+KALLON 99 folds
+Calimero1123 folds
+NO JOKE 75 folds
+NinjoOB folds
+*** FLOP *** [4c Qc Js]
+*** TURN *** [4c Qc Js][9c]
+*** RIVER *** [4c Qc Js 9c][9d]
+*** SHOW DOWN ***
+sabre_laser shows [Td Kd] (Straight King high)
+Zine006 shows [5h 5s] (Two pairs : 9 and 5)
+Zine006 collected 2690 from side pot 1
+sabre_laser collected 1110 from main pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [4c Qc Js 9c 9d]
+Seat 3: Zine006 showed [5h 5s] and won 2690 with Two pairs : 9 and 5
+Seat 8: sabre_laser showed [Td Kd] and won 1110 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #579889991631503362-15-1446907697 - Holdem no limit (60/120) - 2015/11/07 14:48:17 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #5 is the button
+Seat 1: oortael (5720)
+Seat 2: NinjoOB (8955)
+Seat 3: Zine006 (2690)
+Seat 4: KALLON 99 (6140)
+Seat 5: Calimero1123 (2370)
+Seat 6: NO JOKE 75 (5785)
+Seat 7: Force-Rouge (3230)
+Seat 8: sabre_laser (1110)
+*** ANTE/BLINDS ***
+NO JOKE 75 posts small blind 60
+Force-Rouge posts big blind 120
+Dealt to sabre_laser [9c Kh]
+*** PRE-FLOP *** 
+sabre_laser folds
+oortael folds
+NinjoOB raises 120 to 240
+Zine006 folds
+KALLON 99 folds
+Calimero1123 folds
+NO JOKE 75 calls 180
+Force-Rouge calls 120
+*** FLOP *** [3d 6c 8c]
+NO JOKE 75 checks
+Force-Rouge bets 480
+NinjoOB calls 480
+NO JOKE 75 folds
+*** TURN *** [3d 6c 8c][Th]
+Force-Rouge bets 2510 and is all-in
+NinjoOB folds
+Force-Rouge collected 4190 from pot
+*** SUMMARY ***
+Total pot 4190 | No rake
+Board: [3d 6c 8c Th]
+Seat 7: Force-Rouge (big blind) won 4190
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #579889991631503362-16-1446907835 - Holdem no limit (10/60/120) - 2015/11/07 14:50:35 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #6 is the button
+Seat 1: oortael (5720)
+Seat 2: NinjoOB (8235)
+Seat 3: Zine006 (2690)
+Seat 4: KALLON 99 (6140)
+Seat 5: Calimero1123 (2370)
+Seat 6: NO JOKE 75 (5545)
+Seat 7: Force-Rouge (4190)
+Seat 8: sabre_laser (1110)
+*** ANTE/BLINDS ***
+Force-Rouge posts ante 10
+sabre_laser posts ante 10
+oortael posts ante 10
+NinjoOB posts ante 10
+Zine006 posts ante 10
+KALLON 99 posts ante 10
+Calimero1123 posts ante 10
+NO JOKE 75 posts ante 10
+Force-Rouge posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Jc Kh]
+*** PRE-FLOP *** 
+oortael folds
+NinjoOB folds
+Zine006 folds
+KALLON 99 raises 6010 to 6130 and is all-in
+Calimero1123 folds
+NO JOKE 75 folds
+Force-Rouge folds
+sabre_laser calls 980 and is all-in
+*** FLOP *** [8c Qs 9s]
+*** TURN *** [8c Qs 9s][6d]
+*** RIVER *** [8c Qs 9s 6d][Td]
+*** SHOW DOWN ***
+sabre_laser shows [Jc Kh] (Straight King high)
+KALLON 99 shows [Qd Js] (Straight Queen high)
+KALLON 99 collected 5030 from side pot 1
+sabre_laser collected 2340 from main pot
+*** SUMMARY ***
+Total pot 7370 | No rake
+Board: [8c Qs 9s 6d Td]
+Seat 4: KALLON 99 showed [Qd Js] and won 5030 with Straight Queen high
+Seat 8: sabre_laser (big blind) showed [Jc Kh] and won 2340 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #579889991631503362-17-1446907894 - Holdem no limit (15/75/150) - 2015/11/07 14:51:34 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #7 is the button
+Seat 1: oortael (5710)
+Seat 2: NinjoOB (8225)
+Seat 3: Zine006 (2680)
+Seat 4: KALLON 99 (5030)
+Seat 5: Calimero1123 (2360)
+Seat 6: NO JOKE 75 (5535)
+Seat 7: Force-Rouge (4120)
+Seat 8: sabre_laser (2340)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 15
+oortael posts ante 15
+NinjoOB posts ante 15
+Zine006 posts ante 15
+KALLON 99 posts ante 15
+Calimero1123 posts ante 15
+NO JOKE 75 posts ante 15
+Force-Rouge posts ante 15
+sabre_laser posts small blind 75
+oortael posts big blind 150
+Dealt to sabre_laser [5s Kc]
+*** PRE-FLOP *** 
+NinjoOB calls 150
+Zine006 folds
+KALLON 99 raises 4865 to 5015 and is all-in
+Calimero1123 folds
+NO JOKE 75 folds
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB folds
+KALLON 99 collected 5510 from pot
+*** SUMMARY ***
+Total pot 5510 | No rake
+Seat 4: KALLON 99 won 5510
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #579889991631503362-18-1446907942 - Holdem no limit (15/75/150) - 2015/11/07 14:52:22 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #8 is the button
+Seat 1: oortael (5545)
+Seat 2: NinjoOB (8060)
+Seat 3: Zine006 (2665)
+Seat 4: KALLON 99 (5510)
+Seat 5: Calimero1123 (2345)
+Seat 6: NO JOKE 75 (5520)
+Seat 7: Force-Rouge (4105)
+Seat 8: sabre_laser (2250)
+*** ANTE/BLINDS ***
+oortael posts ante 15
+NinjoOB posts ante 15
+Zine006 posts ante 15
+KALLON 99 posts ante 15
+Calimero1123 posts ante 15
+NO JOKE 75 posts ante 15
+Force-Rouge posts ante 15
+sabre_laser posts ante 15
+oortael posts small blind 75
+NinjoOB posts big blind 150
+Dealt to sabre_laser [Td Th]
+*** PRE-FLOP *** 
+Zine006 folds
+KALLON 99 folds
+Calimero1123 raises 150 to 300
+NO JOKE 75 calls 300
+Force-Rouge calls 300
+sabre_laser raises 1935 to 2235 and is all-in
+oortael folds
+NinjoOB raises 1935 to 4170
+Calimero1123 folds
+NO JOKE 75 folds
+Force-Rouge folds
+*** FLOP *** [6d 6h 7c]
+*** TURN *** [6d 6h 7c][3h]
+*** RIVER *** [6d 6h 7c 3h][Ks]
+*** SHOW DOWN ***
+sabre_laser shows [Td Th] (Two pairs : Tens and 6)
+NinjoOB shows [9d 8s] (One pair : 6)
+NinjoOB collected 1935 from side pot 1
+sabre_laser collected 5565 from main pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [6d 6h 7c 3h Ks]
+Seat 2: NinjoOB (big blind) showed [9d 8s] and won 1935 with One pair : 6
+Seat 8: sabre_laser (button) showed [Td Th] and won 5565 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #579889991631503362-19-1446908037 - Holdem no limit (15/75/150) - 2015/11/07 14:53:57 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #1 is the button
+Seat 1: oortael (5455)
+Seat 2: NinjoOB (5810)
+Seat 3: Zine006 (2650)
+Seat 4: KALLON 99 (5495)
+Seat 5: Calimero1123 (2030)
+Seat 6: NO JOKE 75 (5205)
+Seat 7: Force-Rouge (3790)
+Seat 8: sabre_laser (5565)
+*** ANTE/BLINDS ***
+NinjoOB posts ante 15
+Zine006 posts ante 15
+oortael posts ante 15
+KALLON 99 posts ante 15
+Calimero1123 posts ante 15
+NO JOKE 75 posts ante 15
+Force-Rouge posts ante 15
+sabre_laser posts ante 15
+NinjoOB posts small blind 75
+Zine006 posts big blind 150
+Dealt to sabre_laser [4c 7d]
+*** PRE-FLOP *** 
+KALLON 99 folds
+Calimero1123 folds
+NO JOKE 75 folds
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB raises 450 to 600
+Zine006 folds
+NinjoOB collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 2: NinjoOB (small blind) won 870
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #579889991631503362-20-1446908403 - Holdem no limit (20/100/200) - 2015/11/07 15:00:03 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #2 is the button
+Seat 1: oortael (5440)
+Seat 2: NinjoOB (6065)
+Seat 3: Zine006 (2485)
+Seat 4: KALLON 99 (5480)
+Seat 5: Calimero1123 (2015)
+Seat 6: NO JOKE 75 (5190)
+Seat 7: Force-Rouge (3775)
+Seat 8: sabre_laser (5550)
+*** ANTE/BLINDS ***
+Zine006 posts ante 20
+KALLON 99 posts ante 20
+oortael posts ante 20
+NinjoOB posts ante 20
+Calimero1123 posts ante 20
+NO JOKE 75 posts ante 20
+Force-Rouge posts ante 20
+sabre_laser posts ante 20
+Zine006 posts small blind 100
+KALLON 99 posts big blind 200
+Dealt to sabre_laser [8h Ks]
+*** PRE-FLOP *** 
+Calimero1123 folds
+NO JOKE 75 calls 200
+Force-Rouge raises 600 to 800
+sabre_laser folds
+oortael folds
+NinjoOB folds
+Zine006 folds
+KALLON 99 folds
+NO JOKE 75 calls 600
+*** FLOP *** [6s 7s 9h]
+NO JOKE 75 bets 4370 and is all-in
+Force-Rouge calls 2955 and is all-in
+*** TURN *** [6s 7s 9h][Tc]
+*** RIVER *** [6s 7s 9h Tc][8s]
+*** SHOW DOWN ***
+Force-Rouge shows [Ac Jh] (Straight Jack high)
+NO JOKE 75 shows [9d Th] (Straight Ten high)
+NO JOKE 75 collected 1415 from side pot 1
+Force-Rouge collected 7970 from main pot
+*** SUMMARY ***
+Total pot 9385 | No rake
+Board: [6s 7s 9h Tc 8s]
+Seat 6: NO JOKE 75 showed [9d Th] and won 1415 with Straight Ten high
+Seat 7: Force-Rouge showed [Ac Jh] and won 7970 with Straight Jack high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #579889991631503362-21-1446908483 - Holdem no limit (20/100/200) - 2015/11/07 15:01:23 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #3 is the button
+Seat 1: oortael (5420)
+Seat 2: NinjoOB (6045)
+Seat 3: Zine006 (2365)
+Seat 4: KALLON 99 (5260)
+Seat 5: Calimero1123 (1995)
+Seat 6: NO JOKE 75 (1415)
+Seat 7: Force-Rouge (7970)
+Seat 8: sabre_laser (5530)
+*** ANTE/BLINDS ***
+KALLON 99 posts ante 20
+Calimero1123 posts ante 20
+oortael posts ante 20
+NinjoOB posts ante 20
+Zine006 posts ante 20
+NO JOKE 75 posts ante 20
+Force-Rouge posts ante 20
+sabre_laser posts ante 20
+KALLON 99 posts small blind 100
+Calimero1123 posts big blind 200
+Dealt to sabre_laser [Kd 3c]
+*** PRE-FLOP *** 
+NO JOKE 75 raises 1195 to 1395 and is all-in
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB folds
+Zine006 folds
+KALLON 99 folds
+Calimero1123 folds
+NO JOKE 75 collected 1855 from pot
+*** SUMMARY ***
+Total pot 1855 | No rake
+Seat 6: NO JOKE 75 won 1855
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #579889991631503362-22-1446908529 - Holdem no limit (20/100/200) - 2015/11/07 15:02:09 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #4 is the button
+Seat 1: oortael (5400)
+Seat 2: NinjoOB (6025)
+Seat 3: Zine006 (2345)
+Seat 4: KALLON 99 (5140)
+Seat 5: Calimero1123 (1775)
+Seat 6: NO JOKE 75 (1855)
+Seat 7: Force-Rouge (7950)
+Seat 8: sabre_laser (5510)
+*** ANTE/BLINDS ***
+Calimero1123 posts ante 20
+NO JOKE 75 posts ante 20
+oortael posts ante 20
+NinjoOB posts ante 20
+Zine006 posts ante 20
+KALLON 99 posts ante 20
+Force-Rouge posts ante 20
+sabre_laser posts ante 20
+Calimero1123 posts small blind 100
+NO JOKE 75 posts big blind 200
+Dealt to sabre_laser [Qh 2h]
+*** PRE-FLOP *** 
+Force-Rouge folds
+sabre_laser folds
+oortael folds
+NinjoOB folds
+Zine006 folds
+KALLON 99 calls 200
+Calimero1123 folds
+NO JOKE 75 raises 1635 to 1835 and is all-in
+KALLON 99 calls 1635
+*** FLOP *** [8h Ac 5c]
+*** TURN *** [8h Ac 5c][Jc]
+*** RIVER *** [8h Ac 5c Jc][9c]
+*** SHOW DOWN ***
+NO JOKE 75 shows [Jd 8s] (Two pairs : Jacks and 8)
+KALLON 99 shows [4c 4h] (Flush Ace high)
+KALLON 99 collected 3930 from pot
+*** SUMMARY ***
+Total pot 3930 | No rake
+Board: [8h Ac 5c Jc 9c]
+Seat 4: KALLON 99 (button) showed [4c 4h] and won 3930 with Flush Ace high
+Seat 6: NO JOKE 75 (big blind) showed [Jd 8s] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #579889991631503362-23-1446908570 - Holdem no limit (25/125/250) - 2015/11/07 15:02:50 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #5 is the button
+Seat 1: oortael (5380)
+Seat 2: NinjoOB (6005)
+Seat 3: Zine006 (2325)
+Seat 4: KALLON 99 (7215)
+Seat 5: Calimero1123 (1655)
+Seat 7: Force-Rouge (7930)
+Seat 8: sabre_laser (5490)
+*** ANTE/BLINDS ***
+Force-Rouge posts ante 25
+oortael posts ante 25
+NinjoOB posts ante 25
+Zine006 posts ante 25
+KALLON 99 posts ante 25
+Calimero1123 posts ante 25
+sabre_laser posts ante 25
+Force-Rouge posts big blind 250
+Dealt to sabre_laser [9h 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+oortael folds
+NinjoOB folds
+Zine006 folds
+KALLON 99 folds
+Calimero1123 folds
+Force-Rouge collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 7: Force-Rouge (big blind) won 425
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #579889991631503362-24-1446908589 - Holdem no limit (25/125/250) - 2015/11/07 15:03:09 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #6 is the button
+Seat 1: oortael (5355)
+Seat 2: NinjoOB (5980)
+Seat 3: Zine006 (2300)
+Seat 4: KALLON 99 (7190)
+Seat 5: Calimero1123 (1630)
+Seat 7: Force-Rouge (8080)
+Seat 8: sabre_laser (5465)
+*** ANTE/BLINDS ***
+Force-Rouge posts ante 25
+sabre_laser posts ante 25
+oortael posts ante 25
+NinjoOB posts ante 25
+Zine006 posts ante 25
+KALLON 99 posts ante 25
+Calimero1123 posts ante 25
+Force-Rouge posts small blind 125
+sabre_laser posts big blind 250
+Dealt to sabre_laser [Kh Kc]
+*** PRE-FLOP *** 
+oortael raises 350 to 600
+NinjoOB calls 600
+Zine006 folds
+KALLON 99 folds
+Calimero1123 folds
+Force-Rouge calls 475
+sabre_laser raises 1775 to 2375
+oortael raises 2955 to 5330 and is all-in
+NinjoOB calls 4730
+Force-Rouge raises 2725 to 8055 and is all-in
+sabre_laser calls 3065 and is all-in
+NinjoOB calls 625 and is all-in
+*** FLOP *** [5c 6d Qd]
+*** TURN *** [5c 6d Qd][5h]
+*** RIVER *** [5c 6d Qd 5h][Ah]
+*** SHOW DOWN ***
+NinjoOB shows [9s 8s] (One pair : 5)
+oortael shows [6h 6s] (Full of 6 and 5)
+sabre_laser shows [Kh Kc] (Two pairs : Kings and 5)
+Force-Rouge shows [4h 4c] (Two pairs : 5 and 4)
+Force-Rouge collected 3130 from side pot 2
+sabre_laser collected 330 from side pot 1
+oortael collected 21495 from main pot
+*** SUMMARY ***
+Total pot 24955 | No rake
+Board: [5c 6d Qd 5h Ah]
+Seat 1: oortael showed [6h 6s] and won 21495 with Full of 6 and 5
+Seat 2: NinjoOB showed [9s 8s] and lost with One pair : 5
+Seat 7: Force-Rouge (small blind) showed [4h 4c] and won 3130 with Two pairs : 5 and 4
+Seat 8: sabre_laser (big blind) showed [Kh Kc] and won 330 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #579889991631503362-25-1446908658 - Holdem no limit (25/125/250) - 2015/11/07 15:04:18 UTC
+Table: 'Freeroll(135016160)#001' 8-max (real money) Seat #7 is the button
+Seat 1: oortael (21495)
+Seat 3: Zine006 (2275)
+Seat 4: KALLON 99 (7165)
+Seat 5: Calimero1123 (1605)
+Seat 6: ETENDARD13 (3920)
+Seat 7: Force-Rouge (3130)
+Seat 8: sabre_laser (330)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+oortael posts ante 25
+Zine006 posts ante 25
+KALLON 99 posts ante 25
+Calimero1123 posts ante 25
+ETENDARD13 posts ante 25
+Force-Rouge posts ante 25
+sabre_laser posts small blind 125
+oortael posts big blind 250
+Dealt to sabre_laser [Kd 5h]
+*** PRE-FLOP *** 
+Zine006 folds
+KALLON 99 folds
+Calimero1123 folds
+ETENDARD13 folds
+Force-Rouge folds
+sabre_laser calls 125
+oortael checks
+*** FLOP *** [Qd 8h Tc]
+sabre_laser bets 55 and is all-in
+oortael calls 55
+*** TURN *** [Qd 8h Tc][6s]
+*** RIVER *** [Qd 8h Tc 6s][8d]
+*** SHOW DOWN ***
+sabre_laser shows [Kd 5h] (One pair : 8)
+oortael shows [Jd 6c] (Two pairs : 8 and 6)
+oortael collected 785 from pot
+*** SUMMARY ***
+Total pot 785 | No rake
+Board: [Qd 8h Tc 6s 8d]
+Seat 1: oortael (big blind) showed [Jd 6c] and won 785 with Two pairs : 8 and 6
+Seat 8: sabre_laser (small blind) showed [Kd 5h] and lost with One pair : 8
+
+

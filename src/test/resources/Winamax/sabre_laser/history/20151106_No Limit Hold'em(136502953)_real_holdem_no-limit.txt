@@ -1,0 +1,372 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586275718942425089-1-1446833834 - Holdem no limit (10/20) - 2015/11/06 18:17:14 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #4 is the button
+Seat 1: nanalelou111 (1500)
+Seat 2: delbeu62 (1500)
+Seat 3: MaximeBr (1500)
+Seat 4: 10000001 (1500)
+Seat 5: SENEGALAIS (1500)
+Seat 6: Aalain04 (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: vousmorts (1500)
+Seat 9: KroKrogan (1500)
+Seat 10: titi150 (1500)
+*** ANTE/BLINDS ***
+SENEGALAIS posts small blind 10
+Aalain04 posts big blind 20
+Dealt to sabre_laser [9d Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+vousmorts calls 20
+KroKrogan folds
+titi150 folds
+nanalelou111 folds
+delbeu62 raises 240 to 260
+MaximeBr folds
+10000001 folds
+SENEGALAIS folds
+Aalain04 calls 240
+vousmorts calls 240
+*** FLOP *** [3s 8s 8h]
+Aalain04 checks
+vousmorts bets 140
+delbeu62 raises 1100 to 1240 and is all-in
+Aalain04 folds
+vousmorts calls 1100 and is all-in
+*** TURN *** [3s 8s 8h][Ac]
+*** RIVER *** [3s 8s 8h Ac][2s]
+*** SHOW DOWN ***
+vousmorts shows [6d 6h] (Two pairs : 8 and 6)
+delbeu62 shows [Jd Ad] (Two pairs : Aces and 8)
+delbeu62 collected 3270 from pot
+*** SUMMARY ***
+Total pot 3270 | No rake
+Board: [3s 8s 8h Ac 2s]
+Seat 2: delbeu62 showed [Jd Ad] and won 3270 with Two pairs : Aces and 8
+Seat 8: vousmorts showed [6d 6h] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586275718942425089-2-1446833980 - Holdem no limit (10/20) - 2015/11/06 18:19:40 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #5 is the button
+Seat 1: nanalelou111 (1500)
+Seat 2: delbeu62 (3270)
+Seat 3: MaximeBr (1500)
+Seat 4: 10000001 (1500)
+Seat 5: SENEGALAIS (1490)
+Seat 6: Aalain04 (1240)
+Seat 7: sabre_laser (1500)
+Seat 9: KroKrogan (1500)
+Seat 10: titi150 (1500)
+*** ANTE/BLINDS ***
+Aalain04 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Qc 3d]
+*** PRE-FLOP *** 
+KroKrogan folds
+titi150 folds
+nanalelou111 calls 20
+delbeu62 raises 3250 to 3270 and is all-in
+MaximeBr folds
+10000001 folds
+SENEGALAIS calls 1490 and is all-in
+Aalain04 folds
+sabre_laser folds
+nanalelou111 folds
+*** FLOP *** [7s Ks Js]
+*** TURN *** [7s Ks Js][Kc]
+*** RIVER *** [7s Ks Js Kc][8c]
+*** SHOW DOWN ***
+SENEGALAIS shows [Ah Qh] (One pair : Kings)
+delbeu62 shows [As Kd] (Trips of Kings)
+delbeu62 collected 4810 from pot
+*** SUMMARY ***
+Total pot 4810 | No rake
+Board: [7s Ks Js Kc 8c]
+Seat 2: delbeu62 showed [As Kd] and won 4810 with Trips of Kings
+Seat 5: SENEGALAIS (button) showed [Ah Qh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586275718942425089-3-1446834045 - Holdem no limit (15/30) - 2015/11/06 18:20:45 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #6 is the button
+Seat 1: nanalelou111 (1480)
+Seat 2: delbeu62 (4810)
+Seat 3: MaximeBr (1500)
+Seat 4: 10000001 (1500)
+Seat 6: Aalain04 (1230)
+Seat 7: sabre_laser (1480)
+Seat 9: KroKrogan (1500)
+Seat 10: titi150 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+KroKrogan posts big blind 30
+Dealt to sabre_laser [3h 9s]
+*** PRE-FLOP *** 
+titi150 folds
+nanalelou111 folds
+delbeu62 calls 30
+MaximeBr folds
+10000001 folds
+Aalain04 calls 30
+sabre_laser calls 15
+KroKrogan checks
+*** FLOP *** [8d Jh Ts]
+sabre_laser bets 60
+KroKrogan folds
+delbeu62 folds
+Aalain04 calls 60
+*** TURN *** [8d Jh Ts][Td]
+sabre_laser checks
+Aalain04 checks
+*** RIVER *** [8d Jh Ts Td][2c]
+sabre_laser checks
+Aalain04 checks
+*** SHOW DOWN ***
+sabre_laser shows [3h 9s] (One pair : Tens)
+Aalain04 shows [6h As] (One pair : Tens)
+Aalain04 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8d Jh Ts Td 2c]
+Seat 6: Aalain04 (button) showed [6h As] and won 240 with One pair : Tens
+Seat 7: sabre_laser (small blind) showed [3h 9s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586275718942425089-4-1446834150 - Holdem no limit (15/30) - 2015/11/06 18:22:30 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #7 is the button
+Seat 1: nanalelou111 (1480)
+Seat 2: delbeu62 (4780)
+Seat 3: MaximeBr (1500)
+Seat 4: 10000001 (1500)
+Seat 6: Aalain04 (1380)
+Seat 7: sabre_laser (1390)
+Seat 9: KroKrogan (1470)
+Seat 10: titi150 (1500)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 15
+titi150 posts big blind 30
+Dealt to sabre_laser [9s 8c]
+*** PRE-FLOP *** 
+nanalelou111 raises 75 to 105
+delbeu62 raises 4675 to 4780 and is all-in
+MaximeBr folds
+10000001 folds
+Aalain04 folds
+sabre_laser folds
+KroKrogan folds
+titi150 folds
+nanalelou111 calls 1375 and is all-in
+*** FLOP *** [Ks 6c Js]
+*** TURN *** [Ks 6c Js][9d]
+*** RIVER *** [Ks 6c Js 9d][3d]
+*** SHOW DOWN ***
+nanalelou111 shows [2s 8s] (High card : King)
+delbeu62 shows [Kh Kc] (Trips of Kings)
+delbeu62 collected 6305 from pot
+*** SUMMARY ***
+Total pot 6305 | No rake
+Board: [Ks 6c Js 9d 3d]
+Seat 1: nanalelou111 showed [2s 8s] and lost with High card : King
+Seat 2: delbeu62 showed [Kh Kc] and won 6305 with Trips of Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586275718942425089-5-1446834195 - Holdem no limit (20/40) - 2015/11/06 18:23:15 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #9 is the button
+Seat 2: delbeu62 (6305)
+Seat 3: MaximeBr (1500)
+Seat 4: 10000001 (1500)
+Seat 6: Aalain04 (1380)
+Seat 7: sabre_laser (1390)
+Seat 9: KroKrogan (1455)
+Seat 10: titi150 (1470)
+*** ANTE/BLINDS ***
+titi150 posts small blind 20
+delbeu62 posts big blind 40
+Dealt to sabre_laser [4h Th]
+*** PRE-FLOP *** 
+MaximeBr folds
+10000001 folds
+Aalain04 raises 40 to 80
+sabre_laser folds
+KroKrogan folds
+titi150 folds
+delbeu62 calls 40
+*** FLOP *** [2h 3c 5h]
+delbeu62 bets 180
+Aalain04 calls 180
+*** TURN *** [2h 3c 5h][Qh]
+delbeu62 bets 270
+Aalain04 raises 270 to 540
+delbeu62 calls 270
+*** RIVER *** [2h 3c 5h Qh][9s]
+delbeu62 checks
+Aalain04 bets 580 and is all-in
+delbeu62 folds
+Aalain04 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [2h 3c 5h Qh 9s]
+Seat 6: Aalain04 won 2200
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586275718942425089-6-1446834319 - Holdem no limit (20/40) - 2015/11/06 18:25:19 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #10 is the button
+Seat 2: delbeu62 (5505)
+Seat 3: MaximeBr (1500)
+Seat 4: 10000001 (1500)
+Seat 6: Aalain04 (2200)
+Seat 7: sabre_laser (1390)
+Seat 9: KroKrogan (1455)
+Seat 10: titi150 (1450)
+*** ANTE/BLINDS ***
+delbeu62 posts small blind 20
+MaximeBr posts big blind 40
+Dealt to sabre_laser [4c 3d]
+*** PRE-FLOP *** 
+10000001 folds
+Aalain04 raises 40 to 80
+sabre_laser folds
+KroKrogan folds
+titi150 folds
+delbeu62 calls 60
+MaximeBr folds
+*** FLOP *** [4d Js 2d]
+delbeu62 checks
+Aalain04 checks
+*** TURN *** [4d Js 2d][3c]
+delbeu62 checks
+Aalain04 bets 40
+delbeu62 calls 40
+*** RIVER *** [4d Js 2d 3c][Qc]
+delbeu62 checks
+Aalain04 bets 40
+delbeu62 folds
+Aalain04 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [4d Js 2d 3c Qc]
+Seat 6: Aalain04 won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586275718942425089-7-1446834404 - Holdem no limit (30/60) - 2015/11/06 18:26:44 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #2 is the button
+Seat 2: delbeu62 (5385)
+Seat 3: MaximeBr (1460)
+Seat 4: 10000001 (1500)
+Seat 6: Aalain04 (2360)
+Seat 7: sabre_laser (1390)
+Seat 9: KroKrogan (1455)
+Seat 10: titi150 (1450)
+*** ANTE/BLINDS ***
+MaximeBr posts small blind 30
+10000001 posts big blind 60
+Dealt to sabre_laser [Qs 9c]
+*** PRE-FLOP *** 
+Aalain04 folds
+sabre_laser folds
+KroKrogan folds
+titi150 folds
+delbeu62 calls 60
+MaximeBr folds
+10000001 folds
+delbeu62 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: delbeu62 (button) won 150
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586275718942425089-8-1446834477 - Holdem no limit (30/60) - 2015/11/06 18:27:57 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #3 is the button
+Seat 2: delbeu62 (5475)
+Seat 3: MaximeBr (1430)
+Seat 4: 10000001 (1440)
+Seat 6: Aalain04 (2360)
+Seat 7: sabre_laser (1390)
+Seat 9: KroKrogan (1455)
+Seat 10: titi150 (1450)
+*** ANTE/BLINDS ***
+10000001 posts small blind 30
+Aalain04 posts big blind 60
+Dealt to sabre_laser [2d 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+KroKrogan folds
+titi150 raises 120 to 180
+delbeu62 raises 5295 to 5475 and is all-in
+MaximeBr folds
+10000001 folds
+Aalain04 folds
+titi150 folds
+delbeu62 collected 5745 from pot
+*** SUMMARY ***
+Total pot 5745 | No rake
+Seat 2: delbeu62 won 5745
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586275718942425089-9-1446834524 - Holdem no limit (30/60) - 2015/11/06 18:28:44 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #4 is the button
+Seat 2: delbeu62 (5745)
+Seat 3: MaximeBr (1430)
+Seat 4: 10000001 (1410)
+Seat 6: Aalain04 (2300)
+Seat 7: sabre_laser (1390)
+Seat 9: KroKrogan (1455)
+Seat 10: titi150 (1270)
+*** ANTE/BLINDS ***
+Aalain04 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Ad 2h]
+*** PRE-FLOP *** 
+KroKrogan folds
+titi150 raises 120 to 180
+delbeu62 raises 5565 to 5745 and is all-in
+MaximeBr folds
+10000001 folds
+Aalain04 folds
+sabre_laser folds
+titi150 calls 1090 and is all-in
+*** FLOP *** [Qs 2d 3h]
+*** TURN *** [Qs 2d 3h][7h]
+*** RIVER *** [Qs 2d 3h 7h][9c]
+*** SHOW DOWN ***
+titi150 shows [5h Ah] (High card : Ace)
+delbeu62 shows [Ac 7c] (One pair : 7)
+delbeu62 collected 7105 from pot
+*** SUMMARY ***
+Total pot 7105 | No rake
+Board: [Qs 2d 3h 7h 9c]
+Seat 2: delbeu62 showed [Ac 7c] and won 7105 with One pair : 7
+Seat 10: titi150 showed [5h Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586275718942425089-10-1446834599 - Holdem no limit (40/80) - 2015/11/06 18:29:59 UTC
+Table: 'No Limit Hold'em(136502953)#0' 10-max (real money) Seat #6 is the button
+Seat 2: delbeu62 (7105)
+Seat 3: MaximeBr (1430)
+Seat 4: 10000001 (1410)
+Seat 6: Aalain04 (2270)
+Seat 7: sabre_laser (1330)
+Seat 9: KroKrogan (1455)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+KroKrogan posts big blind 80
+Dealt to sabre_laser [9h Kh]
+*** PRE-FLOP *** 
+delbeu62 raises 7025 to 7105 and is all-in
+MaximeBr folds
+10000001 folds
+Aalain04 folds
+sabre_laser calls 1290 and is all-in
+KroKrogan folds
+*** FLOP *** [Qd Qs Jc]
+*** TURN *** [Qd Qs Jc][9c]
+*** RIVER *** [Qd Qs Jc 9c][2c]
+*** SHOW DOWN ***
+sabre_laser shows [9h Kh] (Two pairs : Queens and 9)
+delbeu62 shows [As Jh] (Two pairs : Queens and Jacks)
+delbeu62 collected 8515 from pot
+*** SUMMARY ***
+Total pot 8515 | No rake
+Board: [Qd Qs Jc 9c 2c]
+Seat 2: delbeu62 showed [As Jh] and won 8515 with Two pairs : Queens and Jacks
+Seat 7: sabre_laser (small blind) showed [9h Kh] and lost with Two pairs : Queens and 9
+
+

@@ -1,0 +1,758 @@
+Winamax Poker - CashGame - HandId: #7309776-453-1426706958 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:29:18 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #5 is the button
+Seat 1: Radeczech5 (1.99€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (2.48€)
+Seat 4: lea94220 (3.21€)
+Seat 5: sabre_laser (2€)
+Seat 6: nocturne999 (2.07€)
+Seat 7: Skarabette (1.91€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (4.05€)
+*** ANTE/BLINDS ***
+nocturne999 posts small blind 0.01€
+Skarabette posts big blind 0.02€
+*** PRE-FLOP *** 
+katekate folds
+danibleues folds
+Radeczech5 folds
+Betteraves raises 0.06€ to 0.08€
+nermoum raises 0.16€ to 0.24€
+lea94220 folds
+nocturne999 raises 0.16€ to 0.40€
+Skarabette folds
+Betteraves folds
+nermoum calls 0.16€
+*** FLOP *** [2c Ad 7d]
+nocturne999 bets 1.67€ and is all-in
+nermoum calls 1.67€
+*** TURN *** [2c Ad 7d][8s]
+*** RIVER *** [2c Ad 7d 8s][9d]
+*** SHOW DOWN ***
+nocturne999 shows [6s Ac] (One pair : Aces)
+nermoum shows [Qs Ah] (One pair : Aces)
+nermoum collected 3.96€ from pot
+*** SUMMARY ***
+Total pot 3.96€ | Rake 0.28€
+Board: [2c Ad 7d 8s 9d]
+Seat 3: nermoum showed [Qs Ah] and won 3.96€ with One pair : Aces
+Seat 6: nocturne999 (small blind) showed [6s Ac] and lost with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7309776-454-1426707030 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:30:30 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #6 is the button
+Seat 1: Radeczech5 (1.99€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (4.37€)
+Seat 4: lea94220 (3.21€)
+Seat 5: sabre_laser (2€)
+Seat 6: nocturne999 (0€)
+Seat 7: Skarabette (1.89€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (4.05€)
+*** ANTE/BLINDS ***
+Skarabette posts small blind 0.01€
+katekate posts big blind 0.02€
+*** PRE-FLOP *** 
+danibleues folds
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+Skarabette raises 0.08€ to 0.10€
+katekate folds
+Skarabette collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Seat 7: Skarabette (small blind) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #7309776-455-1426707084 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:31:24 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #7 is the button
+Seat 1: Radeczech5 (1.99€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (4.37€)
+Seat 4: lea94220 (3.21€)
+Seat 5: sabre_laser (2€)
+Seat 6: Parvoh (0€)
+Seat 7: Skarabette (1.91€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (4.05€)
+*** ANTE/BLINDS ***
+katekate posts small blind 0.01€
+danibleues posts big blind 0.02€
+sabre_laser posts big blind 0.02€ out of position
+Dealt to sabre_laser [2c Qd]
+*** PRE-FLOP *** 
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser checks
+Skarabette calls 0.02€
+katekate calls 0.01€
+danibleues checks
+*** FLOP *** [Td 5h 8c]
+katekate checks
+danibleues bets 0.08€
+sabre_laser folds
+Skarabette folds
+katekate folds
+danibleues collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | Rake 0.01€
+Board: [Td 5h 8c]
+Seat 9: danibleues (big blind) won 0.15€
+
+
+Winamax Poker - CashGame - HandId: #7309776-456-1426707171 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:32:51 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #8 is the button
+Seat 1: Radeczech5 (1.99€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (4.37€)
+Seat 4: lea94220 (3.21€)
+Seat 5: sabre_laser (1.98€)
+Seat 6: Parvoh (0.80€)
+Seat 7: Skarabette (1.89€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (4.10€)
+*** ANTE/BLINDS ***
+danibleues posts small blind 0.01€
+Radeczech5 posts big blind 0.02€
+Parvoh posts big blind 0.02€ out of position
+Dealt to sabre_laser [7c As]
+*** PRE-FLOP *** 
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser raises 0.06€ to 0.08€
+Parvoh folds
+Skarabette calls 0.08€
+katekate folds
+danibleues calls 0.07€
+Radeczech5 calls 0.06€
+*** FLOP *** [4c Jh 8d]
+danibleues checks
+Radeczech5 bets 0.17€
+sabre_laser folds
+Skarabette calls 0.17€
+danibleues calls 0.17€
+*** TURN *** [4c Jh 8d][Kh]
+danibleues checks
+Radeczech5 bets 0.85€
+Skarabette folds
+danibleues calls 0.85€
+*** RIVER *** [4c Jh 8d Kh][Kd]
+danibleues checks
+Radeczech5 bets 0.89€ and is all-in
+danibleues calls 0.89€
+*** SHOW DOWN ***
+danibleues shows [Th 8c] (Two pairs : Kings and 8)
+Radeczech5 shows [Jd Jc] (Full of Jacks and Kings)
+Radeczech5 collected 4.05€ from pot
+*** SUMMARY ***
+Total pot 4.05€ | Rake 0.28€
+Board: [4c Jh 8d Kh Kd]
+Seat 1: Radeczech5 (big blind) showed [Jd Jc] and won 4.05€ with Full of Jacks and Kings
+Seat 9: danibleues (small blind) showed [Th 8c] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - CashGame - HandId: #7309776-457-1426707255 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:34:15 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #9 is the button
+Seat 1: Radeczech5 (4.05€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (4.37€)
+Seat 4: lea94220 (3.21€)
+Seat 5: sabre_laser (1.90€)
+Seat 6: Parvoh (0.78€)
+Seat 7: Skarabette (1.64€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (2.11€)
+*** ANTE/BLINDS ***
+Radeczech5 posts small blind 0.01€
+Betteraves posts big blind 0.02€
+Dealt to sabre_laser [Th 6d]
+*** PRE-FLOP *** 
+nermoum raises 0.05€ to 0.07€
+lea94220 folds
+sabre_laser folds
+Parvoh folds
+Skarabette folds
+katekate folds
+danibleues calls 0.07€
+Radeczech5 folds
+Betteraves folds
+*** FLOP *** [8c Qs 3d]
+nermoum bets 0.09€
+danibleues folds
+nermoum collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | Rake 0.01€
+Board: [8c Qs 3d]
+Seat 3: nermoum won 0.25€
+
+
+Winamax Poker - CashGame - HandId: #7309776-458-1426707313 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:35:13 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #1 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (4.46€)
+Seat 4: lea94220 (3.21€)
+Seat 5: sabre_laser (1.90€)
+Seat 6: Parvoh (0.78€)
+Seat 7: Skarabette (1.64€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (2.04€)
+*** ANTE/BLINDS ***
+Betteraves posts small blind 0.01€
+nermoum posts big blind 0.02€
+Dealt to sabre_laser [5s 8d]
+*** PRE-FLOP *** 
+lea94220 calls 0.02€
+sabre_laser folds
+Parvoh folds
+Skarabette calls 0.02€
+katekate folds
+danibleues calls 0.02€
+Radeczech5 folds
+Betteraves folds
+nermoum checks
+*** FLOP *** [9h Kd Th]
+nermoum checks
+lea94220 checks
+Skarabette bets 0.05€
+danibleues calls 0.05€
+nermoum folds
+lea94220 calls 0.05€
+*** TURN *** [9h Kd Th][5h]
+lea94220 checks
+Skarabette bets 0.10€
+danibleues folds
+lea94220 calls 0.10€
+*** RIVER *** [9h Kd Th 5h][Kc]
+lea94220 checks
+Skarabette bets 0.32€
+lea94220 calls 0.32€
+*** SHOW DOWN ***
+Skarabette shows [Td 3c] (Two pairs : Kings and Tens)
+lea94220 shows [Ah 2h] (Flush Ace high)
+lea94220 collected 1.01€ from pot
+*** SUMMARY ***
+Total pot 1.01€ | Rake 0.07€
+Board: [9h Kd Th 5h Kc]
+Seat 4: lea94220 showed [Ah 2h] and won 1.01€ with Flush Ace high
+Seat 7: Skarabette showed [Td 3c] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - CashGame - HandId: #7309776-459-1426707399 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:36:39 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #2 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (4.44€)
+Seat 4: lea94220 (3.73€)
+Seat 5: sabre_laser (1.90€)
+Seat 6: Parvoh (0.78€)
+Seat 7: Skarabette (1.15€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (1.97€)
+*** ANTE/BLINDS ***
+nermoum posts small blind 0.01€
+lea94220 posts big blind 0.02€
+Dealt to sabre_laser [7s Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+Parvoh calls 0.02€
+Skarabette raises 1.13€ to 1.15€ and is all-in
+katekate folds
+danibleues folds
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+Parvoh folds
+Skarabette collected 1.20€ from pot
+*** SUMMARY ***
+Total pot 1.20€ | No rake
+Seat 7: Skarabette won 1.20€
+
+
+Winamax Poker - CashGame - HandId: #7309776-460-1426707442 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:37:22 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #3 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (4.43€)
+Seat 4: lea94220 (3.71€)
+Seat 5: sabre_laser (1.90€)
+Seat 6: Parvoh (0.76€)
+Seat 7: Skarabette (1.20€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (1.97€)
+*** ANTE/BLINDS ***
+lea94220 posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [7h 2s]
+*** PRE-FLOP *** 
+Parvoh raises 0.05€ to 0.07€
+Skarabette folds
+katekate folds
+danibleues calls 0.07€
+Radeczech5 folds
+Betteraves folds
+nermoum calls 0.07€
+lea94220 calls 0.06€
+sabre_laser folds
+*** FLOP *** [7s 3s 5s]
+lea94220 checks
+Parvoh bets 0.30€
+danibleues folds
+nermoum calls 0.30€
+lea94220 folds
+*** TURN *** [7s 3s 5s][Ac]
+Parvoh bets 0.39€ and is all-in
+nermoum calls 0.39€
+*** RIVER *** [7s 3s 5s Ac][Js]
+*** SHOW DOWN ***
+nermoum shows [9d 7d] (One pair : 7)
+Parvoh shows [Qs Ts] (Flush Queen high)
+Parvoh collected 1.57€ from pot
+*** SUMMARY ***
+Total pot 1.57€ | Rake 0.11€
+Board: [7s 3s 5s Ac Js]
+Seat 3: nermoum (button) showed [9d 7d] and lost with One pair : 7
+Seat 6: Parvoh showed [Qs Ts] and won 1.57€ with Flush Queen high
+
+
+Winamax Poker - CashGame - HandId: #7309776-461-1426707513 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:38:33 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #4 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.67€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (1.88€)
+Seat 6: Parvoh (1.57€)
+Seat 7: Skarabette (1.20€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (2€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Parvoh posts big blind 0.02€
+Dealt to sabre_laser [3s 8s]
+*** PRE-FLOP *** 
+Skarabette raises 1.18€ to 1.20€ and is all-in
+katekate folds
+danibleues folds
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser folds
+Parvoh folds
+Skarabette collected 1.23€ from pot
+*** SUMMARY ***
+Total pot 1.23€ | No rake
+Seat 7: Skarabette won 1.23€
+
+
+Winamax Poker - CashGame - HandId: #7309776-462-1426707546 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:39:06 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #5 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.67€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (1.87€)
+Seat 6: Parvoh (1.55€)
+Seat 7: Skarabette (1.23€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (2€)
+*** ANTE/BLINDS ***
+Parvoh posts small blind 0.01€
+Skarabette posts big blind 0.02€
+Dealt to sabre_laser [8h Ac]
+*** PRE-FLOP *** 
+katekate folds
+danibleues calls 0.02€
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser raises 0.04€ to 0.06€
+Parvoh folds
+Skarabette raises 0.24€ to 0.30€
+danibleues calls 0.28€
+sabre_laser folds
+*** FLOP *** [7d 8s 4s]
+Skarabette bets 0.93€ and is all-in
+danibleues calls 0.93€
+*** TURN *** [7d 8s 4s][8d]
+*** RIVER *** [7d 8s 4s 8d][6d]
+*** SHOW DOWN ***
+danibleues shows [9s Jd] (One pair : 8)
+Skarabette shows [Qd Jc] (One pair : 8)
+Skarabette collected 2.37€ from pot
+*** SUMMARY ***
+Total pot 2.37€ | Rake 0.16€
+Board: [7d 8s 4s 8d 6d]
+Seat 7: Skarabette (big blind) showed [Qd Jc] and won 2.37€ with One pair : 8
+Seat 9: danibleues showed [9s Jd] and lost with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #7309776-463-1426707614 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:40:14 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #6 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.67€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (1.81€)
+Seat 6: Parvoh (1.54€)
+Seat 7: Skarabette (2.37€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (0.77€)
+*** ANTE/BLINDS ***
+Skarabette posts small blind 0.01€
+katekate posts big blind 0.02€
+Dealt to sabre_laser [4s Qc]
+*** PRE-FLOP *** 
+danibleues raises 0.75€ to 0.77€ and is all-in
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser folds
+Parvoh folds
+Skarabette folds
+katekate folds
+danibleues collected 0.80€ from pot
+*** SUMMARY ***
+Total pot 0.80€ | No rake
+Seat 9: danibleues won 0.80€
+
+
+Winamax Poker - CashGame - HandId: #7309776-464-1426707686 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:41:26 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #7 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.67€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (1.81€)
+Seat 6: Parvoh (1.54€)
+Seat 7: Skarabette (2.36€)
+Seat 8: katekate (2€)
+Seat 9: danibleues (1.78€)
+*** ANTE/BLINDS ***
+katekate posts small blind 0.01€
+danibleues posts big blind 0.02€
+Dealt to sabre_laser [Th Ad]
+*** PRE-FLOP *** 
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser raises 0.03€ to 0.05€
+Parvoh folds
+Skarabette calls 0.05€
+katekate calls 0.04€
+danibleues raises 1.73€ to 1.78€ and is all-in
+sabre_laser calls 1.73€
+Skarabette folds
+katekate folds
+*** FLOP *** [7c Td 6d]
+*** TURN *** [7c Td 6d][Tc]
+*** RIVER *** [7c Td 6d Tc][Ac]
+*** SHOW DOWN ***
+danibleues shows [6h 7s] (Two pairs : Tens and 7)
+sabre_laser shows [Th Ad] (Full of Tens and Aces)
+sabre_laser collected 3.42€ from pot
+*** SUMMARY ***
+Total pot 3.42€ | Rake 0.24€
+Board: [7c Td 6d Tc Ac]
+Seat 5: sabre_laser showed [Th Ad] and won 3.42€ with Full of Tens and Aces
+Seat 9: danibleues (big blind) showed [6h 7s] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - CashGame - HandId: #7309776-465-1426707772 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:42:52 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #8 is the button
+Seat 1: Radeczech5 (4.04€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.67€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (3.45€)
+Seat 6: Parvoh (1.54€)
+Seat 7: Skarabette (2.31€)
+Seat 8: katekate (2€)
+Seat 9: Quentin219 (0€)
+*** ANTE/BLINDS ***
+Radeczech5 posts big blind 0.02€
+Dealt to sabre_laser [3h Jh]
+*** PRE-FLOP *** 
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser folds
+Parvoh folds
+Skarabette calls 0.02€
+katekate folds
+Radeczech5 raises 0.04€ to 0.06€
+Skarabette calls 0.04€
+*** FLOP *** [8c Qd 4d]
+Radeczech5 bets 0.08€
+Skarabette calls 0.08€
+*** TURN *** [8c Qd 4d][As]
+Radeczech5 checks
+Skarabette checks
+*** RIVER *** [8c Qd 4d As][9s]
+Radeczech5 checks
+Skarabette checks
+*** SHOW DOWN ***
+Skarabette shows [8h Tc] (One pair : 8)
+Radeczech5 shows [Kd Kc] (One pair : Kings)
+Radeczech5 collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.02€
+Board: [8c Qd 4d As 9s]
+Seat 1: Radeczech5 (big blind) showed [Kd Kc] and won 0.26€ with One pair : Kings
+Seat 7: Skarabette showed [8h Tc] and lost with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #7309776-466-1426707874 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:44:34 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #9 is the button
+Seat 1: Radeczech5 (4.16€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.67€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (3.45€)
+Seat 6: Parvoh (1.54€)
+Seat 7: Skarabette (2.17€)
+Seat 8: katekate (2€)
+Seat 9: C.Eastlouze (2€)
+*** ANTE/BLINDS ***
+Radeczech5 posts small blind 0.01€
+Betteraves posts big blind 0.02€
+Dealt to sabre_laser [Kc 4h]
+*** PRE-FLOP *** 
+nermoum folds
+lea94220 folds
+sabre_laser folds
+Parvoh calls 0.02€
+Skarabette folds
+katekate folds
+Radeczech5 folds
+Betteraves checks
+*** FLOP *** [4d Td 6s]
+Betteraves bets 0.04€
+Parvoh calls 0.04€
+*** TURN *** [4d Td 6s][9d]
+Betteraves checks
+Parvoh bets 0.13€
+Betteraves calls 0.13€
+*** RIVER *** [4d Td 6s 9d][Qc]
+Betteraves checks
+Parvoh checks
+*** SHOW DOWN ***
+Betteraves shows [7c Ad] (High card : Ace)
+Parvoh shows [Tc 9h] (Two pairs : Tens and 9)
+Parvoh collected 0.36€ from pot
+*** SUMMARY ***
+Total pot 0.36€ | Rake 0.03€
+Board: [4d Td 6s 9d Qc]
+Seat 2: Betteraves (big blind) showed [7c Ad] and lost with High card : Ace
+Seat 6: Parvoh showed [Tc 9h] and won 0.36€ with Two pairs : Tens and 9
+
+
+Winamax Poker - CashGame - HandId: #7309776-467-1426707922 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:45:22 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #1 is the button
+Seat 1: Radeczech5 (4.15€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.67€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (3.45€)
+Seat 6: Parvoh (1.71€)
+Seat 7: Skarabette (2.17€)
+Seat 8: katekate (2€)
+Seat 9: C.Eastlouze (2€)
+*** ANTE/BLINDS ***
+Betteraves posts small blind 0.01€
+nermoum posts big blind 0.02€
+Dealt to sabre_laser [Qc 5s]
+*** PRE-FLOP *** 
+lea94220 folds
+sabre_laser folds
+Parvoh folds
+Skarabette calls 0.02€
+katekate calls 0.02€
+Radeczech5 folds
+Betteraves calls 0.01€
+nermoum raises 0.10€ to 0.12€
+Skarabette calls 0.10€
+katekate calls 0.10€
+Betteraves folds
+*** FLOP *** [Jh 8h Ac]
+nermoum bets 0.18€
+Skarabette calls 0.18€
+katekate folds
+*** TURN *** [Jh 8h Ac][7c]
+nermoum checks
+Skarabette bets 0.49€
+nermoum folds
+Skarabette collected 1.18€ from pot
+*** SUMMARY ***
+Total pot 1.18€ | Rake 0.05€
+Board: [Jh 8h Ac 7c]
+Seat 7: Skarabette won 1.18€
+
+
+Winamax Poker - CashGame - HandId: #7309776-468-1426708069 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:47:49 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #2 is the button
+Seat 1: Radeczech5 (4.15€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.37€)
+Seat 4: lea94220 (3.64€)
+Seat 5: sabre_laser (3.45€)
+Seat 6: Parvoh (1.71€)
+Seat 7: Skarabette (2.56€)
+Seat 8: katekate (1.88€)
+Seat 9: C.Eastlouze (2€)
+*** ANTE/BLINDS ***
+nermoum posts small blind 0.01€
+lea94220 posts big blind 0.02€
+Dealt to sabre_laser [7h 9s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Parvoh folds
+Skarabette calls 0.02€
+katekate calls 0.02€
+Radeczech5 folds
+Betteraves folds
+nermoum calls 0.01€
+lea94220 checks
+*** FLOP *** [9d 5s 2c]
+nermoum checks
+lea94220 checks
+Skarabette checks
+katekate checks
+*** TURN *** [9d 5s 2c][3h]
+nermoum checks
+lea94220 checks
+Skarabette checks
+katekate checks
+*** RIVER *** [9d 5s 2c 3h][2s]
+nermoum checks
+lea94220 checks
+Skarabette bets 0.06€
+katekate folds
+nermoum folds
+lea94220 folds
+Skarabette collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [9d 5s 2c 3h 2s]
+Seat 7: Skarabette won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #7309776-469-1426708198 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:49:58 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #3 is the button
+Seat 1: Radeczech5 (4.15€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.35€)
+Seat 4: lea94220 (3.62€)
+Seat 5: sabre_laser (3.45€)
+Seat 6: Parvoh (1.71€)
+Seat 7: Skarabette (2.61€)
+Seat 8: katekate (1.86€)
+Seat 9: C.Eastlouze (2€)
+*** ANTE/BLINDS ***
+lea94220 posts small blind 0.01€
+sabre_laser posts big blind 0.02€
+Dealt to sabre_laser [3d Qd]
+*** PRE-FLOP *** 
+Parvoh folds
+Skarabette calls 0.02€
+Radeczech5 folds
+Betteraves folds
+nermoum calls 0.02€
+lea94220 calls 0.01€
+sabre_laser checks
+*** FLOP *** [Th 7h 3h]
+lea94220 checks
+sabre_laser checks
+Skarabette bets 0.06€
+nermoum folds
+lea94220 folds
+sabre_laser folds
+Skarabette collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [Th 7h 3h]
+Seat 7: Skarabette won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #7309776-470-1426708287 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:51:27 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #4 is the button
+Seat 1: Radeczech5 (4.15€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.33€)
+Seat 4: lea94220 (3.60€)
+Seat 5: sabre_laser (3.43€)
+Seat 6: Parvoh (1.71€)
+Seat 7: Skarabette (2.66€)
+Seat 8: katekate (1.86€)
+Seat 9: C.Eastlouze (2€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01€
+Parvoh posts big blind 0.02€
+Dealt to sabre_laser [Td Qs]
+*** PRE-FLOP *** 
+Skarabette calls 0.02€
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser raises 0.04€ to 0.06€
+Parvoh folds
+Skarabette calls 0.04€
+*** FLOP *** [6h 7h Th]
+sabre_laser bets 3.37€ and is all-in
+Skarabette folds
+sabre_laser collected 3.50€ from pot
+*** SUMMARY ***
+Total pot 3.50€ | Rake 0.01€
+Board: [6h 7h Th]
+Seat 5: sabre_laser (small blind) won 3.50€
+
+
+Winamax Poker - CashGame - HandId: #7309776-471-1426708330 - Holdem no limit (0.01€/0.02€) - 2015/03/18 19:52:10 UTC
+Table: 'Frankfurt 09' 9-max (real money) Seat #5 is the button
+Seat 1: Radeczech5 (4.15€)
+Seat 2: Betteraves (2€)
+Seat 3: nermoum (3.33€)
+Seat 4: lea94220 (3.60€)
+Seat 5: sabre_laser (3.50€)
+Seat 6: Parvoh (1.69€)
+Seat 7: Skarabette (2.60€)
+Seat 8: katekate (1.86€)
+Seat 9: C.Eastlouze (2€)
+*** ANTE/BLINDS ***
+Parvoh posts small blind 0.01€
+Skarabette posts big blind 0.02€
+Dealt to sabre_laser [Qc Ah]
+*** PRE-FLOP *** 
+Radeczech5 folds
+Betteraves folds
+nermoum folds
+lea94220 folds
+sabre_laser raises 0.04€ to 0.06€
+Parvoh calls 0.05€
+Skarabette folds
+*** FLOP *** [Jd 2c 3s]
+Parvoh checks
+sabre_laser bets 0.07€
+Parvoh calls 0.07€
+*** TURN *** [Jd 2c 3s][Th]
+Parvoh bets 0.13€
+sabre_laser folds
+Parvoh collected 0.39€ from pot
+*** SUMMARY ***
+Total pot 0.39€ | Rake 0.02€
+Board: [Jd 2c 3s Th]
+Seat 6: Parvoh (small blind) won 0.39€
+
+

@@ -1,0 +1,1574 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558783135064522753-1-1441748089 - Holdem no limit (10/20) - 2015/09/08 21:34:49 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1500)
+Seat 5: betula84 (1500)
+Seat 6: Hak_Poker (1500)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1500)
+Seat 9: bigC46 (1500)
+Seat 10: L4B3LVi3 (1500)
+*** ANTE/BLINDS ***
+tgyhuj posts small blind 10
+betula84 posts big blind 20
+Dealt to sabre_laser [Qd Kd]
+*** PRE-FLOP *** 
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 raises 30 to 50
+L4B3LVi3 folds
+sabre_laser calls 50
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 calls 30
+*** FLOP *** [7d 9h 2s]
+betula84 checks
+bigC46 checks
+sabre_laser checks
+*** TURN *** [7d 9h 2s][9d]
+betula84 checks
+bigC46 bets 50
+sabre_laser calls 50
+betula84 calls 50
+*** RIVER *** [7d 9h 2s 9d][8h]
+betula84 checks
+bigC46 checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [Qd Kd] (One pair : 9)
+bigC46 shows [Ks Qs] (One pair : 9)
+betula84 shows [Ad Js] (One pair : 9)
+betula84 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [7d 9h 2s 9d 8h]
+Seat 1: sabre_laser showed [Qd Kd] and lost with One pair : 9
+Seat 5: betula84 (big blind) showed [Ad Js] and won 310 with One pair : 9
+Seat 9: bigC46 showed [Ks Qs] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #558783135064522753-2-1441748232 - Holdem no limit (10/20) - 2015/09/08 21:37:12 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1400)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1490)
+Seat 5: betula84 (1710)
+Seat 6: Hak_Poker (1500)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1500)
+Seat 9: bigC46 (1400)
+Seat 10: L4B3LVi3 (1500)
+*** ANTE/BLINDS ***
+betula84 posts small blind 10
+Hak_Poker posts big blind 20
+Dealt to sabre_laser [2h 4d]
+*** PRE-FLOP *** 
+stefcham folds
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 folds
+Hak_Poker collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 6: Hak_Poker (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558783135064522753-3-1441748274 - Holdem no limit (15/30) - 2015/09/08 21:37:54 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1400)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1490)
+Seat 5: betula84 (1700)
+Seat 6: Hak_Poker (1510)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1500)
+Seat 9: bigC46 (1400)
+Seat 10: L4B3LVi3 (1500)
+*** ANTE/BLINDS ***
+Hak_Poker posts small blind 15
+stefcham posts big blind 30
+Dealt to sabre_laser [3c Ks]
+*** PRE-FLOP *** 
+KroKrogan folds
+bigC46 calls 30
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj raises 105 to 135
+betula84 folds
+Hak_Poker folds
+stefcham folds
+bigC46 folds
+tgyhuj collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 4: tgyhuj won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558783135064522753-4-1441748337 - Holdem no limit (15/30) - 2015/09/08 21:38:57 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1400)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1565)
+Seat 5: betula84 (1700)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1470)
+Seat 8: KroKrogan (1500)
+Seat 9: bigC46 (1370)
+Seat 10: L4B3LVi3 (1500)
+*** ANTE/BLINDS ***
+stefcham posts small blind 15
+KroKrogan posts big blind 30
+Dealt to sabre_laser [3d Jh]
+*** PRE-FLOP *** 
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 folds
+Hak_Poker folds
+stefcham calls 15
+KroKrogan checks
+*** FLOP *** [Ts 6c Jd]
+stefcham bets 30
+KroKrogan folds
+stefcham collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ts 6c Jd]
+Seat 7: stefcham (small blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558783135064522753-5-1441748383 - Holdem no limit (15/30) - 2015/09/08 21:39:43 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1400)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1565)
+Seat 5: betula84 (1700)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1470)
+Seat 9: bigC46 (1370)
+Seat 10: L4B3LVi3 (1500)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 15
+bigC46 posts big blind 30
+Dealt to sabre_laser [Kh Ts]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 folds
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 9: bigC46 (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #558783135064522753-6-1441748438 - Holdem no limit (15/30) - 2015/09/08 21:40:38 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1400)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1565)
+Seat 5: betula84 (1700)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (1385)
+Seat 10: L4B3LVi3 (1500)
+*** ANTE/BLINDS ***
+bigC46 posts small blind 15
+L4B3LVi3 posts big blind 30
+Dealt to sabre_laser [3s Td]
+*** PRE-FLOP *** 
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 folds
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 10: L4B3LVi3 (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558783135064522753-7-1441748514 - Holdem no limit (20/40) - 2015/09/08 21:41:54 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1400)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1565)
+Seat 5: betula84 (1700)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (1370)
+Seat 10: L4B3LVi3 (1515)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [8s 5h]
+*** PRE-FLOP *** 
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 calls 40
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser checks
+*** FLOP *** [8c 9h Ad]
+sabre_laser bets 40
+betula84 calls 40
+*** TURN *** [8c 9h Ad][8h]
+sabre_laser bets 60
+betula84 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c 9h Ad 8h]
+Seat 1: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #558783135064522753-8-1441748608 - Holdem no limit (20/40) - 2015/09/08 21:43:28 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Alex9_53 (1500)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1565)
+Seat 5: betula84 (1620)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (1370)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Alex9_53 posts big blind 40
+Dealt to sabre_laser [5c Td]
+*** PRE-FLOP *** 
+Crisssis folds
+tgyhuj folds
+betula84 calls 40
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 raises 1330 to 1370 and is all-in
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+betula84 calls 1330
+*** FLOP *** [7h 6h 3s]
+*** TURN *** [7h 6h 3s][3d]
+*** RIVER *** [7h 6h 3s 3d][8d]
+*** SHOW DOWN ***
+betula84 shows [Ah 2h] (One pair : 3)
+bigC46 shows [Jh Js] (Two pairs : Jacks and 3)
+bigC46 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [7h 6h 3s 3d 8d]
+Seat 5: betula84 showed [Ah 2h] and lost with One pair : 3
+Seat 9: bigC46 showed [Jh Js] and won 2800 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558783135064522753-9-1441748648 - Holdem no limit (30/60) - 2015/09/08 21:44:08 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1480)
+Seat 2: Alex9_53 (1460)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (1565)
+Seat 5: betula84 (250)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (2800)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+Alex9_53 posts small blind 30
+Crisssis posts big blind 60
+Dealt to sabre_laser [Qc 4h]
+*** PRE-FLOP *** 
+tgyhuj folds
+betula84 raises 190 to 250 and is all-in
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+betula84 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 5: betula84 won 340
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #558783135064522753-10-1441748727 - Holdem no limit (30/60) - 2015/09/08 21:45:27 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1480)
+Seat 2: Alex9_53 (1430)
+Seat 3: Crisssis (1440)
+Seat 4: tgyhuj (1565)
+Seat 5: betula84 (340)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1500)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (2800)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 30
+tgyhuj posts big blind 60
+Dealt to sabre_laser [2d 2h]
+*** PRE-FLOP *** 
+betula84 folds
+Hak_Poker folds
+stefcham calls 60
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser calls 60
+Alex9_53 folds
+Crisssis folds
+tgyhuj checks
+*** FLOP *** [8h 3c Jh]
+tgyhuj bets 210
+stefcham calls 210
+sabre_laser folds
+*** TURN *** [8h 3c Jh][Kc]
+tgyhuj checks
+stefcham checks
+*** RIVER *** [8h 3c Jh Kc][Ts]
+tgyhuj checks
+stefcham bets 420
+tgyhuj calls 420
+*** SHOW DOWN ***
+stefcham shows [Ah 9h] (High card : Ace)
+tgyhuj shows [Jc 5s] (One pair : Jacks)
+tgyhuj collected 1470 from pot
+*** SUMMARY ***
+Total pot 1470 | No rake
+Board: [8h 3c Jh Kc Ts]
+Seat 4: tgyhuj (big blind) showed [Jc 5s] and won 1470 with One pair : Jacks
+Seat 7: stefcham showed [Ah 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558783135064522753-11-1441748810 - Holdem no limit (40/80) - 2015/09/08 21:46:50 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1420)
+Seat 2: Alex9_53 (1430)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2345)
+Seat 5: betula84 (340)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (810)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (2800)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+tgyhuj posts small blind 40
+betula84 posts big blind 80
+Dealt to sabre_laser [Ts Jh]
+*** PRE-FLOP *** 
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser raises 80 to 160
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 raises 180 to 340 and is all-in
+sabre_laser calls 180
+*** FLOP *** [5d 4c 6s]
+*** TURN *** [5d 4c 6s][Qh]
+*** RIVER *** [5d 4c 6s Qh][Th]
+*** SHOW DOWN ***
+sabre_laser shows [Ts Jh] (One pair : Tens)
+betula84 shows [Tc 4s] (Two pairs : Tens and 4)
+betula84 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [5d 4c 6s Qh Th]
+Seat 1: sabre_laser showed [Ts Jh] and lost with One pair : Tens
+Seat 5: betula84 (big blind) showed [Tc 4s] and won 720 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558783135064522753-12-1441748871 - Holdem no limit (40/80) - 2015/09/08 21:47:51 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1080)
+Seat 2: Alex9_53 (1430)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2305)
+Seat 5: betula84 (720)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (810)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (2800)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+betula84 posts small blind 40
+Hak_Poker posts big blind 80
+Dealt to sabre_laser [4c 5h]
+*** PRE-FLOP *** 
+stefcham folds
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+betula84 folds
+Hak_Poker collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: Hak_Poker (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558783135064522753-13-1441748905 - Holdem no limit (40/80) - 2015/09/08 21:48:25 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1080)
+Seat 2: Alex9_53 (1430)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2305)
+Seat 5: betula84 (680)
+Seat 6: Hak_Poker (1535)
+Seat 7: stefcham (810)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (2800)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+Hak_Poker posts small blind 40
+stefcham posts big blind 80
+Dealt to sabre_laser [Ad As]
+*** PRE-FLOP *** 
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser raises 80 to 160
+Alex9_53 raises 1270 to 1430 and is all-in
+Crisssis folds
+tgyhuj folds
+betula84 calls 680 and is all-in
+Hak_Poker folds
+stefcham folds
+sabre_laser calls 920 and is all-in
+*** FLOP *** [2h 7h 3d]
+*** TURN *** [2h 7h 3d][8h]
+*** RIVER *** [2h 7h 3d 8h][8d]
+*** SHOW DOWN ***
+betula84 shows [2d Ah] (Two pairs : 8 and 2)
+sabre_laser shows [Ad As] (Two pairs : Aces and 8)
+Alex9_53 shows [Qs Qc] (Two pairs : Queens and 8)
+Alex9_53 collected 350 from side pot 1
+sabre_laser collected 2960 from main pot
+*** SUMMARY ***
+Total pot 3310 | No rake
+Board: [2h 7h 3d 8h 8d]
+Seat 1: sabre_laser showed [Ad As] and won 2960 with Two pairs : Aces and 8
+Seat 2: Alex9_53 showed [Qs Qc] and won 350 with Two pairs : Queens and 8
+Seat 5: betula84 (button) showed [2d Ah] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #558783135064522753-14-1441748956 - Holdem no limit (40/80) - 2015/09/08 21:49:16 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2960)
+Seat 2: Alex9_53 (350)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2305)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (730)
+Seat 8: KroKrogan (1455)
+Seat 9: bigC46 (2800)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+stefcham posts small blind 40
+KroKrogan posts big blind 80
+Dealt to sabre_laser [Qs Td]
+*** PRE-FLOP *** 
+bigC46 raises 80 to 160
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 9: bigC46 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558783135064522753-15-1441749023 - Holdem no limit (60/120) - 2015/09/08 21:50:23 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2960)
+Seat 2: Alex9_53 (350)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2305)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (690)
+Seat 8: KroKrogan (1375)
+Seat 9: bigC46 (2920)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+KroKrogan posts small blind 60
+bigC46 posts big blind 120
+Dealt to sabre_laser [Kd 3d]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sabre_laser folds
+Alex9_53 folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 shows [8d 8c] (One pair : 8)
+bigC46 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: bigC46 (big blind) showed [8d 8c] and won 180 with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558783135064522753-16-1441749060 - Holdem no limit (60/120) - 2015/09/08 21:51:00 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2960)
+Seat 2: Alex9_53 (350)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2305)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (690)
+Seat 8: KroKrogan (1315)
+Seat 9: bigC46 (2980)
+Seat 10: L4B3LVi3 (1495)
+*** ANTE/BLINDS ***
+bigC46 posts small blind 60
+L4B3LVi3 posts big blind 120
+Dealt to sabre_laser [9c 8c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Alex9_53 raises 230 to 350 and is all-in
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham raises 340 to 690 and is all-in
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+*** FLOP *** [Qc Tc 5d]
+*** TURN *** [Qc Tc 5d][Jh]
+*** RIVER *** [Qc Tc 5d Jh][2d]
+*** SHOW DOWN ***
+Alex9_53 shows [Ad 8s] (High card : Ace)
+stefcham shows [Ts Kh] (One pair : Tens)
+stefcham collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | No rake
+Board: [Qc Tc 5d Jh 2d]
+Seat 2: Alex9_53 showed [Ad 8s] and lost with High card : Ace
+Seat 7: stefcham showed [Ts Kh] and won 1220 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558783135064522753-17-1441749110 - Holdem no limit (60/120) - 2015/09/08 21:51:50 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2960)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2305)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1220)
+Seat 8: KroKrogan (1315)
+Seat 9: bigC46 (2920)
+Seat 10: L4B3LVi3 (1375)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [7d Ah]
+*** PRE-FLOP *** 
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham raises 1100 to 1220 and is all-in
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+stefcham collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Seat 7: stefcham won 1400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #558783135064522753-18-1441749141 - Holdem no limit (60/120) - 2015/09/08 21:52:21 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2840)
+Seat 3: Crisssis (1410)
+Seat 4: tgyhuj (2305)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1400)
+Seat 8: KroKrogan (1315)
+Seat 9: bigC46 (2920)
+Seat 10: L4B3LVi3 (1315)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Crisssis posts big blind 120
+Dealt to sabre_laser [8d 6d]
+*** PRE-FLOP *** 
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+KroKrogan folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser raises 120 to 240
+Crisssis folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558783135064522753-19-1441749190 - Holdem no limit (80/160) - 2015/09/08 21:53:10 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2960)
+Seat 3: Crisssis (1290)
+Seat 4: tgyhuj (2305)
+Seat 6: Hak_Poker (1495)
+Seat 7: stefcham (1400)
+Seat 8: KroKrogan (1315)
+Seat 9: bigC46 (2920)
+Seat 10: L4B3LVi3 (1315)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 80
+tgyhuj posts big blind 160
+Dealt to sabre_laser [3d 3c]
+*** PRE-FLOP *** 
+Hak_Poker raises 160 to 320
+stefcham folds
+KroKrogan raises 995 to 1315 and is all-in
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker calls 995
+*** FLOP *** [8c Kc 7d]
+*** TURN *** [8c Kc 7d][Qd]
+*** RIVER *** [8c Kc 7d Qd][9h]
+*** SHOW DOWN ***
+KroKrogan shows [Kh Ah] (One pair : Kings)
+Hak_Poker shows [Ac Ad] (One pair : Aces)
+Hak_Poker collected 2870 from pot
+*** SUMMARY ***
+Total pot 2870 | No rake
+Board: [8c Kc 7d Qd 9h]
+Seat 6: Hak_Poker showed [Ac Ad] and won 2870 with One pair : Aces
+Seat 8: KroKrogan showed [Kh Ah] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558783135064522753-20-1441749263 - Holdem no limit (80/160) - 2015/09/08 21:54:23 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2960)
+Seat 3: Crisssis (1210)
+Seat 4: tgyhuj (2145)
+Seat 6: Hak_Poker (3050)
+Seat 7: stefcham (1400)
+Seat 9: bigC46 (2920)
+Seat 10: L4B3LVi3 (1315)
+*** ANTE/BLINDS ***
+tgyhuj posts small blind 80
+Hak_Poker posts big blind 160
+Dealt to sabre_laser [3s 7h]
+*** PRE-FLOP *** 
+stefcham folds
+bigC46 folds
+L4B3LVi3 raises 1155 to 1315 and is all-in
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+L4B3LVi3 collected 1555 from pot
+*** SUMMARY ***
+Total pot 1555 | No rake
+Seat 10: L4B3LVi3 won 1555
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #558783135064522753-21-1441749315 - Holdem no limit (80/160) - 2015/09/08 21:55:15 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2960)
+Seat 3: Crisssis (1210)
+Seat 4: tgyhuj (2065)
+Seat 6: Hak_Poker (2890)
+Seat 7: stefcham (1400)
+Seat 9: bigC46 (2920)
+Seat 10: L4B3LVi3 (1555)
+*** ANTE/BLINDS ***
+Hak_Poker posts small blind 80
+stefcham posts big blind 160
+Dealt to sabre_laser [5h Ad]
+*** PRE-FLOP *** 
+bigC46 calls 160
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham checks
+*** FLOP *** [8s Kh Js]
+stefcham bets 1240 and is all-in
+bigC46 calls 1240
+*** TURN *** [8s Kh Js][8h]
+*** RIVER *** [8s Kh Js 8h][2d]
+*** SHOW DOWN ***
+bigC46 shows [Th As] (One pair : 8)
+stefcham shows [Kc 3d] (Two pairs : Kings and 8)
+stefcham collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [8s Kh Js 8h 2d]
+Seat 7: stefcham (big blind) showed [Kc 3d] and won 2880 with Two pairs : Kings and 8
+Seat 9: bigC46 showed [Th As] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558783135064522753-22-1441749365 - Holdem no limit (10/100/200) - 2015/09/08 21:56:05 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2960)
+Seat 3: Crisssis (1210)
+Seat 4: tgyhuj (2065)
+Seat 6: Hak_Poker (2810)
+Seat 7: stefcham (2880)
+Seat 9: bigC46 (1520)
+Seat 10: L4B3LVi3 (1555)
+*** ANTE/BLINDS ***
+stefcham posts ante 10
+bigC46 posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+tgyhuj posts ante 10
+Hak_Poker posts ante 10
+L4B3LVi3 posts ante 10
+stefcham posts small blind 100
+bigC46 posts big blind 200
+Dealt to sabre_laser [3h 3d]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker raises 200 to 400
+stefcham folds
+bigC46 raises 800 to 1200
+Hak_Poker folds
+bigC46 collected 1770 from pot
+*** SUMMARY ***
+Total pot 1770 | No rake
+Seat 9: bigC46 (big blind) won 1770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558783135064522753-23-1441749419 - Holdem no limit (10/100/200) - 2015/09/08 21:56:59 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2950)
+Seat 3: Crisssis (1200)
+Seat 4: tgyhuj (2055)
+Seat 6: Hak_Poker (2400)
+Seat 7: stefcham (2770)
+Seat 9: bigC46 (2080)
+Seat 10: L4B3LVi3 (1545)
+*** ANTE/BLINDS ***
+bigC46 posts ante 10
+L4B3LVi3 posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+tgyhuj posts ante 10
+Hak_Poker posts ante 10
+stefcham posts ante 10
+bigC46 posts small blind 100
+L4B3LVi3 posts big blind 200
+Dealt to sabre_laser [2s 6d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis raises 200 to 400
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+bigC46 folds
+L4B3LVi3 folds
+Crisssis collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 3: Crisssis won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558783135064522753-24-1441749449 - Holdem no limit (10/100/200) - 2015/09/08 21:57:29 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2940)
+Seat 3: Crisssis (1560)
+Seat 4: tgyhuj (2045)
+Seat 6: Hak_Poker (2390)
+Seat 7: stefcham (2760)
+Seat 9: bigC46 (1970)
+Seat 10: L4B3LVi3 (1335)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts ante 10
+sabre_laser posts ante 10
+Crisssis posts ante 10
+tgyhuj posts ante 10
+Hak_Poker posts ante 10
+stefcham posts ante 10
+bigC46 posts ante 10
+L4B3LVi3 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Qs 5c]
+*** PRE-FLOP *** 
+Crisssis raises 200 to 400
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 3: Crisssis won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #558783135064522753-25-1441749480 - Holdem no limit (10/100/200) - 2015/09/08 21:58:00 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2730)
+Seat 3: Crisssis (1920)
+Seat 4: tgyhuj (2035)
+Seat 6: Hak_Poker (2380)
+Seat 7: stefcham (2750)
+Seat 9: bigC46 (1960)
+Seat 10: L4B3LVi3 (1225)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Crisssis posts ante 10
+tgyhuj posts ante 10
+Hak_Poker posts ante 10
+stefcham posts ante 10
+bigC46 posts ante 10
+L4B3LVi3 posts ante 10
+sabre_laser posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [2c Qh]
+*** PRE-FLOP *** 
+tgyhuj folds
+Hak_Poker raises 200 to 400
+stefcham folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+Hak_Poker collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Seat 6: Hak_Poker won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558783135064522753-26-1441749539 - Holdem no limit (20/150/300) - 2015/09/08 21:58:59 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2620)
+Seat 3: Crisssis (1710)
+Seat 4: tgyhuj (2025)
+Seat 6: Hak_Poker (2740)
+Seat 7: stefcham (2740)
+Seat 9: bigC46 (1950)
+Seat 10: L4B3LVi3 (1215)
+*** ANTE/BLINDS ***
+Crisssis posts ante 20
+tgyhuj posts ante 20
+sabre_laser posts ante 20
+Hak_Poker posts ante 20
+stefcham posts ante 20
+bigC46 posts ante 20
+L4B3LVi3 posts ante 20
+Crisssis posts small blind 150
+tgyhuj posts big blind 300
+Dealt to sabre_laser [3d 6d]
+*** PRE-FLOP *** 
+Hak_Poker folds
+stefcham raises 2420 to 2720 and is all-in
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+stefcham collected 3310 from pot
+*** SUMMARY ***
+Total pot 3310 | No rake
+Seat 7: stefcham won 3310
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558783135064522753-27-1441749597 - Holdem no limit (20/150/300) - 2015/09/08 21:59:57 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2600)
+Seat 3: Crisssis (1540)
+Seat 4: tgyhuj (1705)
+Seat 6: Hak_Poker (2720)
+Seat 7: stefcham (3310)
+Seat 9: bigC46 (1930)
+Seat 10: L4B3LVi3 (1195)
+*** ANTE/BLINDS ***
+tgyhuj posts ante 20
+Hak_Poker posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+stefcham posts ante 20
+bigC46 posts ante 20
+L4B3LVi3 posts ante 20
+tgyhuj posts small blind 150
+Hak_Poker posts big blind 300
+Dealt to sabre_laser [3c Js]
+*** PRE-FLOP *** 
+stefcham folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj raises 1385 to 1685 and is all-in
+Hak_Poker folds
+tgyhuj collected 2125 from pot
+*** SUMMARY ***
+Total pot 2125 | No rake
+Seat 4: tgyhuj (small blind) won 2125
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558783135064522753-28-1441749631 - Holdem no limit (20/150/300) - 2015/09/08 22:00:31 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2580)
+Seat 3: Crisssis (1520)
+Seat 4: tgyhuj (2125)
+Seat 6: Hak_Poker (2400)
+Seat 7: stefcham (3290)
+Seat 9: bigC46 (1910)
+Seat 10: L4B3LVi3 (1175)
+*** ANTE/BLINDS ***
+Hak_Poker posts ante 20
+stefcham posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+tgyhuj posts ante 20
+bigC46 posts ante 20
+L4B3LVi3 posts ante 20
+Hak_Poker posts small blind 150
+stefcham posts big blind 300
+Dealt to sabre_laser [2d Ah]
+*** PRE-FLOP *** 
+bigC46 folds
+L4B3LVi3 raises 855 to 1155 and is all-in
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+L4B3LVi3 collected 1745 from pot
+*** SUMMARY ***
+Total pot 1745 | No rake
+Seat 10: L4B3LVi3 won 1745
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558783135064522753-29-1441749668 - Holdem no limit (20/150/300) - 2015/09/08 22:01:08 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2560)
+Seat 3: Crisssis (1500)
+Seat 4: tgyhuj (2105)
+Seat 6: Hak_Poker (2230)
+Seat 7: stefcham (2970)
+Seat 9: bigC46 (1890)
+Seat 10: L4B3LVi3 (1745)
+*** ANTE/BLINDS ***
+stefcham posts ante 20
+bigC46 posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+tgyhuj posts ante 20
+Hak_Poker posts ante 20
+L4B3LVi3 posts ante 20
+stefcham posts small blind 150
+bigC46 posts big blind 300
+Dealt to sabre_laser [2s 4s]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis raises 1180 to 1480 and is all-in
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+bigC46 calls 1180
+*** FLOP *** [Kd Jc 7d]
+*** TURN *** [Kd Jc 7d][6s]
+*** RIVER *** [Kd Jc 7d 6s][3c]
+*** SHOW DOWN ***
+bigC46 shows [4c 4d] (One pair : 4)
+Crisssis shows [Ac Jh] (One pair : Jacks)
+Crisssis collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Board: [Kd Jc 7d 6s 3c]
+Seat 3: Crisssis showed [Ac Jh] and won 3250 with One pair : Jacks
+Seat 9: bigC46 (big blind) showed [4c 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #558783135064522753-30-1441749703 - Holdem no limit (20/150/300) - 2015/09/08 22:01:43 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2540)
+Seat 3: Crisssis (3250)
+Seat 4: tgyhuj (2085)
+Seat 6: Hak_Poker (2210)
+Seat 7: stefcham (2800)
+Seat 9: bigC46 (390)
+Seat 10: L4B3LVi3 (1725)
+*** ANTE/BLINDS ***
+bigC46 posts ante 20
+L4B3LVi3 posts ante 20
+sabre_laser posts ante 20
+Crisssis posts ante 20
+tgyhuj posts ante 20
+Hak_Poker posts ante 20
+stefcham posts ante 20
+bigC46 posts small blind 150
+L4B3LVi3 posts big blind 300
+Dealt to sabre_laser [7h 3d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+bigC46 raises 70 to 370 and is all-in
+L4B3LVi3 folds
+bigC46 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Seat 9: bigC46 (small blind) won 810
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558783135064522753-31-1441749747 - Holdem no limit (50/200/400) - 2015/09/08 22:02:27 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2520)
+Seat 3: Crisssis (3230)
+Seat 4: tgyhuj (2065)
+Seat 6: Hak_Poker (2190)
+Seat 7: stefcham (2780)
+Seat 9: bigC46 (810)
+Seat 10: L4B3LVi3 (1405)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts ante 50
+sabre_laser posts ante 50
+Crisssis posts ante 50
+tgyhuj posts ante 50
+Hak_Poker posts ante 50
+stefcham posts ante 50
+bigC46 posts ante 50
+L4B3LVi3 posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [5s Ac]
+*** PRE-FLOP *** 
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+bigC46 raises 360 to 760 and is all-in
+L4B3LVi3 folds
+sabre_laser calls 360
+*** FLOP *** [4s 2h 7d]
+*** TURN *** [4s 2h 7d][6d]
+*** RIVER *** [4s 2h 7d 6d][Jd]
+*** SHOW DOWN ***
+sabre_laser shows [5s Ac] (High card : Ace)
+bigC46 shows [Td Ad] (Flush Ace high)
+bigC46 collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Board: [4s 2h 7d 6d Jd]
+Seat 1: sabre_laser (big blind) showed [5s Ac] and lost with High card : Ace
+Seat 9: bigC46 (button) showed [Td Ad] and won 2070 with Flush Ace high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558783135064522753-32-1441749793 - Holdem no limit (50/200/400) - 2015/09/08 22:03:13 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1710)
+Seat 3: Crisssis (3180)
+Seat 4: tgyhuj (2015)
+Seat 6: Hak_Poker (2140)
+Seat 7: stefcham (2730)
+Seat 9: bigC46 (2070)
+Seat 10: L4B3LVi3 (1155)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Crisssis posts ante 50
+tgyhuj posts ante 50
+Hak_Poker posts ante 50
+stefcham posts ante 50
+bigC46 posts ante 50
+L4B3LVi3 posts ante 50
+sabre_laser posts small blind 200
+Crisssis posts big blind 400
+Dealt to sabre_laser [Ah 5d]
+*** PRE-FLOP *** 
+tgyhuj raises 1565 to 1965 and is all-in
+Hak_Poker folds
+stefcham folds
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj collected 2915 from pot
+*** SUMMARY ***
+Total pot 2915 | No rake
+Seat 4: tgyhuj won 2915
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558783135064522753-33-1441749832 - Holdem no limit (50/200/400) - 2015/09/08 22:03:52 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1460)
+Seat 3: Crisssis (2730)
+Seat 4: tgyhuj (2915)
+Seat 6: Hak_Poker (2090)
+Seat 7: stefcham (2680)
+Seat 9: bigC46 (2020)
+Seat 10: L4B3LVi3 (1105)
+*** ANTE/BLINDS ***
+Crisssis posts ante 50
+tgyhuj posts ante 50
+sabre_laser posts ante 50
+Hak_Poker posts ante 50
+stefcham posts ante 50
+bigC46 posts ante 50
+L4B3LVi3 posts ante 50
+Crisssis posts small blind 200
+tgyhuj posts big blind 400
+Dealt to sabre_laser [Ts Jd]
+*** PRE-FLOP *** 
+Hak_Poker folds
+stefcham raises 2230 to 2630 and is all-in
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+stefcham collected 3580 from pot
+*** SUMMARY ***
+Total pot 3580 | No rake
+Seat 7: stefcham won 3580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #558783135064522753-34-1441749869 - Holdem no limit (50/200/400) - 2015/09/08 22:04:29 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1410)
+Seat 3: Crisssis (2480)
+Seat 4: tgyhuj (2465)
+Seat 6: Hak_Poker (2040)
+Seat 7: stefcham (3580)
+Seat 9: bigC46 (1970)
+Seat 10: L4B3LVi3 (1055)
+*** ANTE/BLINDS ***
+tgyhuj posts ante 50
+Hak_Poker posts ante 50
+sabre_laser posts ante 50
+Crisssis posts ante 50
+stefcham posts ante 50
+bigC46 posts ante 50
+L4B3LVi3 posts ante 50
+tgyhuj posts small blind 200
+Hak_Poker posts big blind 400
+Dealt to sabre_laser [5d 3h]
+*** PRE-FLOP *** 
+stefcham raises 3130 to 3530 and is all-in
+bigC46 folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham collected 4480 from pot
+*** SUMMARY ***
+Total pot 4480 | No rake
+Seat 7: stefcham won 4480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #558783135064522753-35-1441749901 - Holdem no limit (75/300/600) - 2015/09/08 22:05:01 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1360)
+Seat 3: Crisssis (2430)
+Seat 4: tgyhuj (2215)
+Seat 6: Hak_Poker (1590)
+Seat 7: stefcham (4480)
+Seat 9: bigC46 (1920)
+Seat 10: L4B3LVi3 (1005)
+*** ANTE/BLINDS ***
+Hak_Poker posts ante 75
+stefcham posts ante 75
+sabre_laser posts ante 75
+Crisssis posts ante 75
+tgyhuj posts ante 75
+bigC46 posts ante 75
+L4B3LVi3 posts ante 75
+Hak_Poker posts small blind 300
+stefcham posts big blind 600
+Dealt to sabre_laser [5s 8s]
+*** PRE-FLOP *** 
+bigC46 folds
+L4B3LVi3 raises 330 to 930 and is all-in
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham calls 330
+*** FLOP *** [Ks Qh 8c]
+*** TURN *** [Ks Qh 8c][7d]
+*** RIVER *** [Ks Qh 8c 7d][4s]
+*** SHOW DOWN ***
+stefcham shows [Jh 5h] (High card : King)
+L4B3LVi3 shows [Tc Kh] (One pair : Kings)
+L4B3LVi3 collected 2685 from pot
+*** SUMMARY ***
+Total pot 2685 | No rake
+Board: [Ks Qh 8c 7d 4s]
+Seat 7: stefcham (big blind) showed [Jh 5h] and lost with High card : King
+Seat 10: L4B3LVi3 showed [Tc Kh] and won 2685 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #558783135064522753-36-1441749968 - Holdem no limit (75/300/600) - 2015/09/08 22:06:08 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1285)
+Seat 3: Crisssis (2355)
+Seat 4: tgyhuj (2140)
+Seat 6: Hak_Poker (1215)
+Seat 7: stefcham (3475)
+Seat 9: bigC46 (1845)
+Seat 10: L4B3LVi3 (2685)
+*** ANTE/BLINDS ***
+stefcham posts ante 75
+bigC46 posts ante 75
+sabre_laser posts ante 75
+Crisssis posts ante 75
+tgyhuj posts ante 75
+Hak_Poker posts ante 75
+L4B3LVi3 posts ante 75
+stefcham posts small blind 300
+bigC46 posts big blind 600
+Dealt to sabre_laser [6h 6s]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sabre_laser raises 610 to 1210 and is all-in
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+bigC46 calls 610
+*** FLOP *** [8h Tc 9h]
+*** TURN *** [8h Tc 9h][6d]
+*** RIVER *** [8h Tc 9h 6d][8c]
+*** SHOW DOWN ***
+bigC46 shows [Kc Kh] (Two pairs : Kings and 8)
+sabre_laser shows [6h 6s] (Full of 6 and 8)
+sabre_laser collected 3245 from pot
+*** SUMMARY ***
+Total pot 3245 | No rake
+Board: [8h Tc 9h 6d 8c]
+Seat 1: sabre_laser showed [6h 6s] and won 3245 with Full of 6 and 8
+Seat 9: bigC46 (big blind) showed [Kc Kh] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #558783135064522753-37-1441750014 - Holdem no limit (75/300/600) - 2015/09/08 22:06:54 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (3245)
+Seat 3: Crisssis (2280)
+Seat 4: tgyhuj (2065)
+Seat 6: Hak_Poker (1140)
+Seat 7: stefcham (3100)
+Seat 9: bigC46 (560)
+Seat 10: L4B3LVi3 (2610)
+*** ANTE/BLINDS ***
+bigC46 posts ante 75
+L4B3LVi3 posts ante 75
+sabre_laser posts ante 75
+Crisssis posts ante 75
+tgyhuj posts ante 75
+Hak_Poker posts ante 75
+stefcham posts ante 75
+bigC46 posts small blind 300
+L4B3LVi3 posts big blind 600
+Dealt to sabre_laser [Qs 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+bigC46 calls 185 and is all-in
+*** FLOP *** [Ks Ts 6d]
+*** TURN *** [Ks Ts 6d][4s]
+*** RIVER *** [Ks Ts 6d 4s][5s]
+*** SHOW DOWN ***
+bigC46 shows [2h Jd] (High card : King)
+L4B3LVi3 shows [9c 6h] (One pair : 6)
+L4B3LVi3 collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | No rake
+Board: [Ks Ts 6d 4s 5s]
+Seat 9: bigC46 (small blind) showed [2h Jd] and lost with High card : King
+Seat 10: L4B3LVi3 (big blind) showed [9c 6h] and won 1610 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #558783135064522753-38-1441750058 - Holdem no limit (75/300/600) - 2015/09/08 22:07:38 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (3170)
+Seat 3: Crisssis (2205)
+Seat 4: tgyhuj (1990)
+Seat 6: Hak_Poker (1065)
+Seat 7: stefcham (3025)
+Seat 10: L4B3LVi3 (3545)
+*** ANTE/BLINDS ***
+L4B3LVi3 posts ante 75
+sabre_laser posts ante 75
+Crisssis posts ante 75
+tgyhuj posts ante 75
+Hak_Poker posts ante 75
+stefcham posts ante 75
+L4B3LVi3 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [8h 5c]
+*** PRE-FLOP *** 
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham folds
+L4B3LVi3 folds
+sabre_laser collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 1: sabre_laser (big blind) won 1350
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #558783135064522753-39-1441750084 - Holdem no limit (100/400/800) - 2015/09/08 22:08:04 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (3845)
+Seat 3: Crisssis (2130)
+Seat 4: tgyhuj (1915)
+Seat 6: Hak_Poker (990)
+Seat 7: stefcham (2950)
+Seat 10: L4B3LVi3 (3170)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 100
+Crisssis posts ante 100
+tgyhuj posts ante 100
+Hak_Poker posts ante 100
+stefcham posts ante 100
+L4B3LVi3 posts ante 100
+sabre_laser posts small blind 400
+Crisssis posts big blind 800
+Dealt to sabre_laser [4s Th]
+*** PRE-FLOP *** 
+tgyhuj folds
+Hak_Poker raises 90 to 890 and is all-in
+stefcham folds
+L4B3LVi3 folds
+sabre_laser calls 490
+Crisssis calls 90
+*** FLOP *** [5h 8s 6c]
+sabre_laser checks
+Crisssis checks
+*** TURN *** [5h 8s 6c][Jd]
+sabre_laser checks
+Crisssis checks
+*** RIVER *** [5h 8s 6c Jd][3h]
+sabre_laser checks
+Crisssis checks
+*** SHOW DOWN ***
+sabre_laser shows [4s Th] (High card : Jack)
+Crisssis shows [Qc Ac] (High card : Ace)
+Hak_Poker shows [2s 2c] (One pair : 2)
+Hak_Poker collected 3270 from pot
+*** SUMMARY ***
+Total pot 3270 | No rake
+Board: [5h 8s 6c Jd 3h]
+Seat 1: sabre_laser (small blind) showed [4s Th] and lost with High card : Jack
+Seat 3: Crisssis (big blind) showed [Qc Ac] and lost with High card : Ace
+Seat 6: Hak_Poker showed [2s 2c] and won 3270 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #558783135064522753-40-1441750135 - Holdem no limit (100/400/800) - 2015/09/08 22:08:55 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2855)
+Seat 3: Crisssis (1140)
+Seat 4: tgyhuj (1815)
+Seat 6: Hak_Poker (3270)
+Seat 7: stefcham (2850)
+Seat 10: L4B3LVi3 (3070)
+*** ANTE/BLINDS ***
+Crisssis posts ante 100
+tgyhuj posts ante 100
+sabre_laser posts ante 100
+Hak_Poker posts ante 100
+stefcham posts ante 100
+L4B3LVi3 posts ante 100
+Crisssis posts small blind 400
+tgyhuj posts big blind 800
+Dealt to sabre_laser [5s 2c]
+*** PRE-FLOP *** 
+Hak_Poker folds
+stefcham folds
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis raises 240 to 1040 and is all-in
+tgyhuj calls 240
+*** FLOP *** [9s 6d 8c]
+*** TURN *** [9s 6d 8c][Tc]
+*** RIVER *** [9s 6d 8c Tc][9d]
+*** SHOW DOWN ***
+tgyhuj shows [Jd 6h] (Two pairs : 9 and 6)
+Crisssis shows [Ad Ac] (Two pairs : Aces and 9)
+Crisssis collected 2680 from pot
+*** SUMMARY ***
+Total pot 2680 | No rake
+Board: [9s 6d 8c Tc 9d]
+Seat 3: Crisssis (small blind) showed [Ad Ac] and won 2680 with Two pairs : Aces and 9
+Seat 4: tgyhuj (big blind) showed [Jd 6h] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #558783135064522753-41-1441750180 - Holdem no limit (100/400/800) - 2015/09/08 22:09:40 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2755)
+Seat 3: Crisssis (2680)
+Seat 4: tgyhuj (675)
+Seat 6: Hak_Poker (3170)
+Seat 7: stefcham (2750)
+Seat 10: L4B3LVi3 (2970)
+*** ANTE/BLINDS ***
+tgyhuj posts ante 100
+Hak_Poker posts ante 100
+sabre_laser posts ante 100
+Crisssis posts ante 100
+stefcham posts ante 100
+L4B3LVi3 posts ante 100
+tgyhuj posts small blind 400
+Hak_Poker posts big blind 800
+Dealt to sabre_laser [6c 5s]
+*** PRE-FLOP *** 
+stefcham folds
+L4B3LVi3 raises 2070 to 2870 and is all-in
+sabre_laser folds
+Crisssis folds
+tgyhuj calls 175 and is all-in
+Hak_Poker folds
+*** FLOP *** [2s Th 3h]
+*** TURN *** [2s Th 3h][5c]
+*** RIVER *** [2s Th 3h 5c][9s]
+*** SHOW DOWN ***
+tgyhuj shows [9c Jd] (One pair : 9)
+L4B3LVi3 shows [Kh Ah] (High card : Ace)
+L4B3LVi3 collected 2520 from side pot 1
+tgyhuj collected 2325 from main pot
+*** SUMMARY ***
+Total pot 4845 | No rake
+Board: [2s Th 3h 5c 9s]
+Seat 4: tgyhuj (small blind) showed [9c Jd] and won 2325 with One pair : 9
+Seat 10: L4B3LVi3 showed [Kh Ah] and won 2520 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 11 - HandId: #558783135064522753-42-1441750230 - Holdem no limit (100/400/800) - 2015/09/08 22:10:30 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2655)
+Seat 3: Crisssis (2580)
+Seat 4: tgyhuj (2325)
+Seat 6: Hak_Poker (2270)
+Seat 7: stefcham (2650)
+Seat 10: L4B3LVi3 (2520)
+*** ANTE/BLINDS ***
+Hak_Poker posts ante 100
+stefcham posts ante 100
+sabre_laser posts ante 100
+Crisssis posts ante 100
+tgyhuj posts ante 100
+L4B3LVi3 posts ante 100
+Hak_Poker posts small blind 400
+stefcham posts big blind 800
+Dealt to sabre_laser [Th 4c]
+*** PRE-FLOP *** 
+L4B3LVi3 folds
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker raises 1370 to 2170 and is all-in
+stefcham folds
+Hak_Poker collected 3570 from pot
+*** SUMMARY ***
+Total pot 3570 | No rake
+Seat 6: Hak_Poker (small blind) won 3570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 12 - HandId: #558783135064522753-43-1441750257 - Holdem no limit (125/500/1000) - 2015/09/08 22:10:57 UTC
+Table: 'Double or Nothing(130101837)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2555)
+Seat 3: Crisssis (2480)
+Seat 4: tgyhuj (2225)
+Seat 6: Hak_Poker (3570)
+Seat 7: stefcham (1750)
+Seat 10: L4B3LVi3 (2420)
+*** ANTE/BLINDS ***
+stefcham posts ante 125
+L4B3LVi3 posts ante 125
+sabre_laser posts ante 125
+Crisssis posts ante 125
+tgyhuj posts ante 125
+Hak_Poker posts ante 125
+stefcham posts small blind 500
+L4B3LVi3 posts big blind 1000
+Dealt to sabre_laser [3h 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Crisssis folds
+tgyhuj folds
+Hak_Poker folds
+stefcham raises 625 to 1625 and is all-in
+L4B3LVi3 calls 625
+*** FLOP *** [5d 4c 3s]
+*** TURN *** [5d 4c 3s][7h]
+*** RIVER *** [5d 4c 3s 7h][7s]
+*** SHOW DOWN ***
+stefcham shows [8s 9c] (One pair : 7)
+L4B3LVi3 shows [Jh Js] (Two pairs : Jacks and 7)
+L4B3LVi3 collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Board: [5d 4c 3s 7h 7s]
+Seat 7: stefcham (small blind) showed [8s 9c] and lost with One pair : 7
+Seat 10: L4B3LVi3 (big blind) showed [Jh Js] and won 4000 with Two pairs : Jacks and 7
+
+

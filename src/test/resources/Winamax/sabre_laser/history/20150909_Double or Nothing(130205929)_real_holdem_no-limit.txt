@@ -1,0 +1,1294 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559230206800297985-1-1441829002 - Holdem no limit (10/20) - 2015/09/09 20:03:22 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Mars_Attack (1500)
+Seat 2: aceshot (1500)
+Seat 3: AARSEN-LUPIN (1500)
+Seat 4: CSWAOR (1500)
+Seat 5: liodu46 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: BB06 (1500)
+Seat 8: victorbynite (1500)
+Seat 9: crazypix (1500)
+Seat 10: Hicks.sk (1500)
+*** ANTE/BLINDS ***
+crazypix posts small blind 10
+Hicks.sk posts big blind 20
+Dealt to sabre_laser [Jd 5h]
+*** PRE-FLOP *** 
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN calls 20
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite raises 60 to 80
+crazypix folds
+Hicks.sk folds
+AARSEN-LUPIN calls 60
+*** FLOP *** [Js 8c 2d]
+AARSEN-LUPIN bets 20
+victorbynite folds
+AARSEN-LUPIN collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Js 8c 2d]
+Seat 3: AARSEN-LUPIN won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559230206800297985-2-1441829060 - Holdem no limit (10/20) - 2015/09/09 20:04:20 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Mars_Attack (1500)
+Seat 2: aceshot (1500)
+Seat 3: AARSEN-LUPIN (1610)
+Seat 4: CSWAOR (1500)
+Seat 5: liodu46 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: BB06 (1500)
+Seat 8: victorbynite (1420)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1480)
+*** ANTE/BLINDS ***
+Hicks.sk posts small blind 10
+Mars_Attack posts big blind 20
+Dealt to sabre_laser [Js Ts]
+*** PRE-FLOP *** 
+aceshot folds
+AARSEN-LUPIN calls 20
+CSWAOR folds
+liodu46 folds
+sabre_laser calls 20
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk calls 10
+Mars_Attack checks
+*** FLOP *** [Jc 6d 4d]
+Hicks.sk checks
+Mars_Attack checks
+AARSEN-LUPIN checks
+sabre_laser bets 100
+Hicks.sk folds
+Mars_Attack folds
+AARSEN-LUPIN folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jc 6d 4d]
+Seat 6: sabre_laser won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559230206800297985-3-1441829142 - Holdem no limit (10/20) - 2015/09/09 20:05:42 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Mars_Attack (1480)
+Seat 2: aceshot (1500)
+Seat 3: AARSEN-LUPIN (1590)
+Seat 4: CSWAOR (1500)
+Seat 5: liodu46 (1500)
+Seat 6: sabre_laser (1560)
+Seat 7: BB06 (1500)
+Seat 8: victorbynite (1420)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1460)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 10
+aceshot posts big blind 20
+Dealt to sabre_laser [4c Qh]
+*** PRE-FLOP *** 
+AARSEN-LUPIN calls 20
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot raises 40 to 60
+AARSEN-LUPIN calls 40
+*** FLOP *** [Kd 8h Ac]
+aceshot bets 170
+AARSEN-LUPIN folds
+aceshot collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kd 8h Ac]
+Seat 2: aceshot (big blind) won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559230206800297985-4-1441829215 - Holdem no limit (10/20) - 2015/09/09 20:06:55 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1570)
+Seat 3: AARSEN-LUPIN (1530)
+Seat 4: CSWAOR (1500)
+Seat 5: liodu46 (1500)
+Seat 6: sabre_laser (1560)
+Seat 7: BB06 (1500)
+Seat 8: victorbynite (1420)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1460)
+*** ANTE/BLINDS ***
+aceshot posts small blind 10
+AARSEN-LUPIN posts big blind 20
+Dealt to sabre_laser [Ah 9s]
+*** PRE-FLOP *** 
+CSWAOR folds
+liodu46 folds
+sabre_laser raises 40 to 60
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk calls 60
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+*** FLOP *** [5s 7h Qd]
+sabre_laser checks
+Hicks.sk checks
+*** TURN *** [5s 7h Qd][Tc]
+sabre_laser checks
+Hicks.sk checks
+*** RIVER *** [5s 7h Qd Tc][6s]
+sabre_laser checks
+Hicks.sk checks
+*** SHOW DOWN ***
+sabre_laser shows [Ah 9s] (High card : Ace)
+Hicks.sk shows [As Kd] (High card : Ace)
+Hicks.sk collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5s 7h Qd Tc 6s]
+Seat 6: sabre_laser showed [Ah 9s] and lost with High card : Ace
+Seat 10: Hicks.sk showed [As Kd] and won 150 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #559230206800297985-5-1441829308 - Holdem no limit (10/20) - 2015/09/09 20:08:28 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1510)
+Seat 4: CSWAOR (1500)
+Seat 5: liodu46 (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: BB06 (1500)
+Seat 8: victorbynite (1420)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1550)
+*** ANTE/BLINDS ***
+AARSEN-LUPIN posts small blind 10
+CSWAOR posts big blind 20
+Dealt to sabre_laser [Qh Ks]
+*** PRE-FLOP *** 
+liodu46 folds
+sabre_laser calls 20
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN calls 10
+CSWAOR raises 40 to 60
+sabre_laser calls 40
+AARSEN-LUPIN folds
+*** FLOP *** [8d Ah Qs]
+CSWAOR bets 100
+sabre_laser folds
+CSWAOR collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8d Ah Qs]
+Seat 4: CSWAOR (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559230206800297985-6-1441829374 - Holdem no limit (15/30) - 2015/09/09 20:09:34 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1490)
+Seat 4: CSWAOR (1580)
+Seat 5: liodu46 (1500)
+Seat 6: sabre_laser (1440)
+Seat 7: BB06 (1500)
+Seat 8: victorbynite (1420)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1550)
+*** ANTE/BLINDS ***
+CSWAOR posts small blind 15
+liodu46 posts big blind 30
+Dealt to sabre_laser [8s 3s]
+*** PRE-FLOP *** 
+sabre_laser folds
+BB06 calls 30
+victorbynite raises 90 to 120
+crazypix folds
+Hicks.sk calls 120
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+BB06 folds
+*** FLOP *** [Js 6s 8h]
+victorbynite checks
+Hicks.sk checks
+*** TURN *** [Js 6s 8h][2c]
+victorbynite checks
+Hicks.sk checks
+*** RIVER *** [Js 6s 8h 2c][5s]
+victorbynite checks
+Hicks.sk checks
+*** SHOW DOWN ***
+Hicks.sk shows [Qh Ac] (High card : Ace)
+victorbynite shows [4c 4d] (One pair : 4)
+victorbynite collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [Js 6s 8h 2c 5s]
+Seat 8: victorbynite showed [4c 4d] and won 315 with One pair : 4
+Seat 10: Hicks.sk showed [Qh Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559230206800297985-7-1441829424 - Holdem no limit (15/30) - 2015/09/09 20:10:24 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1490)
+Seat 4: CSWAOR (1565)
+Seat 5: liodu46 (1470)
+Seat 6: sabre_laser (1440)
+Seat 7: BB06 (1470)
+Seat 8: victorbynite (1615)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1430)
+*** ANTE/BLINDS ***
+liodu46 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [5d 4h]
+*** PRE-FLOP *** 
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR raises 60 to 90
+liodu46 folds
+sabre_laser folds
+CSWAOR collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 4: CSWAOR (button) won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559230206800297985-8-1441829464 - Holdem no limit (15/30) - 2015/09/09 20:11:04 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1490)
+Seat 4: CSWAOR (1610)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (1410)
+Seat 7: BB06 (1470)
+Seat 8: victorbynite (1615)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1430)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+BB06 posts big blind 30
+Dealt to sabre_laser [Js 7h]
+*** PRE-FLOP *** 
+victorbynite folds
+crazypix folds
+Hicks.sk raises 60 to 90
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN calls 90
+CSWAOR raises 60 to 150
+liodu46 folds
+sabre_laser folds
+BB06 folds
+Hicks.sk calls 60
+AARSEN-LUPIN calls 60
+*** FLOP *** [Jd Tc 4h]
+Hicks.sk checks
+AARSEN-LUPIN bets 495
+CSWAOR folds
+Hicks.sk folds
+AARSEN-LUPIN collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [Jd Tc 4h]
+Seat 3: AARSEN-LUPIN won 990
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559230206800297985-9-1441829545 - Holdem no limit (15/30) - 2015/09/09 20:12:25 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1835)
+Seat 4: CSWAOR (1460)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (1395)
+Seat 7: BB06 (1440)
+Seat 8: victorbynite (1615)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1280)
+*** ANTE/BLINDS ***
+BB06 posts small blind 15
+victorbynite posts big blind 30
+Dealt to sabre_laser [Td 9d]
+*** PRE-FLOP *** 
+crazypix folds
+Hicks.sk raises 60 to 90
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN raises 180 to 270
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+Hicks.sk raises 1010 to 1280 and is all-in
+AARSEN-LUPIN calls 1010
+*** FLOP *** [6d 2d 7c]
+*** TURN *** [6d 2d 7c][3c]
+*** RIVER *** [6d 2d 7c 3c][3d]
+*** SHOW DOWN ***
+AARSEN-LUPIN shows [Qh Ac] (One pair : 3)
+Hicks.sk shows [Ah Qc] (One pair : 3)
+Hicks.sk collected 1303 from pot
+AARSEN-LUPIN collected 1302 from pot
+*** SUMMARY ***
+Total pot 2605 | No rake
+Board: [6d 2d 7c 3c 3d]
+Seat 3: AARSEN-LUPIN showed [Qh Ac] and won 1302 with One pair : 3
+Seat 10: Hicks.sk showed [Ah Qc] and won 1303 with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559230206800297985-10-1441829603 - Holdem no limit (15/30) - 2015/09/09 20:13:23 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1857)
+Seat 4: CSWAOR (1460)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (1395)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1585)
+Seat 9: crazypix (1490)
+Seat 10: Hicks.sk (1303)
+*** ANTE/BLINDS ***
+victorbynite posts small blind 15
+crazypix posts big blind 30
+Dealt to sabre_laser [3h Ad]
+*** PRE-FLOP *** 
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN calls 30
+CSWAOR raises 60 to 90
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix calls 60
+AARSEN-LUPIN calls 60
+*** FLOP *** [Qc 9d Qd]
+crazypix checks
+AARSEN-LUPIN bets 285
+CSWAOR raises 285 to 570
+crazypix calls 570
+AARSEN-LUPIN folds
+*** TURN *** [Qc 9d Qd][3d]
+crazypix checks
+CSWAOR checks
+*** RIVER *** [Qc 9d Qd 3d][2d]
+crazypix checks
+CSWAOR checks
+*** SHOW DOWN ***
+crazypix shows [Js Qs] (Trips of Queens)
+CSWAOR shows [4d Ac] (Flush Queen high)
+CSWAOR collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [Qc 9d Qd 3d 2d]
+Seat 4: CSWAOR showed [4d Ac] and won 1710 with Flush Queen high
+Seat 9: crazypix (big blind) showed [Js Qs] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #559230206800297985-11-1441829708 - Holdem no limit (15/30) - 2015/09/09 20:15:08 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1482)
+Seat 4: CSWAOR (2510)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (1395)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1570)
+Seat 9: crazypix (830)
+Seat 10: Hicks.sk (1303)
+*** ANTE/BLINDS ***
+crazypix posts small blind 15
+Hicks.sk posts big blind 30
+Dealt to sabre_laser [2s Qd]
+*** PRE-FLOP *** 
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite raises 60 to 90
+crazypix folds
+Hicks.sk calls 60
+*** FLOP *** [3s Tc 7d]
+Hicks.sk checks
+victorbynite checks
+*** TURN *** [3s Tc 7d][6h]
+Hicks.sk bets 30
+victorbynite calls 30
+*** RIVER *** [3s Tc 7d 6h][Jd]
+Hicks.sk bets 75
+victorbynite calls 75
+*** SHOW DOWN ***
+victorbynite shows [4s 4h] (One pair : 4)
+Hicks.sk shows [6s 7s] (Two pairs : 7 and 6)
+Hicks.sk collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [3s Tc 7d 6h Jd]
+Seat 8: victorbynite (button) showed [4s 4h] and lost with One pair : 4
+Seat 10: Hicks.sk (big blind) showed [6s 7s] and won 405 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559230206800297985-12-1441829768 - Holdem no limit (20/40) - 2015/09/09 20:16:08 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Mars_Attack (1470)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1482)
+Seat 4: CSWAOR (2510)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (1395)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (815)
+Seat 10: Hicks.sk (1513)
+*** ANTE/BLINDS ***
+Hicks.sk posts small blind 20
+Mars_Attack posts big blind 40
+Dealt to sabre_laser [4h 5d]
+*** PRE-FLOP *** 
+aceshot folds
+AARSEN-LUPIN raises 40 to 80
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+AARSEN-LUPIN collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: AARSEN-LUPIN won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559230206800297985-13-1441829802 - Holdem no limit (20/40) - 2015/09/09 20:16:42 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Mars_Attack (1430)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1542)
+Seat 4: CSWAOR (2510)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (1395)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (815)
+Seat 10: Hicks.sk (1493)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 20
+aceshot posts big blind 40
+Dealt to sabre_laser [6s Tc]
+*** PRE-FLOP *** 
+AARSEN-LUPIN calls 40
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot checks
+*** FLOP *** [4d Qc 3s]
+aceshot bets 220
+AARSEN-LUPIN folds
+aceshot collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [4d Qc 3s]
+Seat 2: aceshot (big blind) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559230206800297985-14-1441829848 - Holdem no limit (20/40) - 2015/09/09 20:17:28 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1620)
+Seat 3: AARSEN-LUPIN (1502)
+Seat 4: CSWAOR (2510)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (1395)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (815)
+Seat 10: Hicks.sk (1493)
+*** ANTE/BLINDS ***
+aceshot posts small blind 20
+AARSEN-LUPIN posts big blind 40
+Dealt to sabre_laser [Qc Ac]
+*** PRE-FLOP *** 
+CSWAOR folds
+liodu46 folds
+sabre_laser raises 40 to 80
+BB06 folds
+victorbynite folds
+crazypix raises 735 to 815 and is all-in
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+sabre_laser calls 735
+*** FLOP *** [Tc 2c 7d]
+*** TURN *** [Tc 2c 7d][5s]
+*** RIVER *** [Tc 2c 7d 5s][5d]
+*** SHOW DOWN ***
+sabre_laser shows [Qc Ac] (One pair : 5)
+crazypix shows [6h 6s] (Two pairs : 6 and 5)
+crazypix collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Board: [Tc 2c 7d 5s 5d]
+Seat 6: sabre_laser showed [Qc Ac] and lost with One pair : 5
+Seat 9: crazypix showed [6h 6s] and won 1690 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559230206800297985-15-1441829917 - Holdem no limit (20/40) - 2015/09/09 20:18:37 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1462)
+Seat 4: CSWAOR (2510)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (580)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (1690)
+Seat 10: Hicks.sk (1493)
+*** ANTE/BLINDS ***
+AARSEN-LUPIN posts small blind 20
+CSWAOR posts big blind 40
+Dealt to sabre_laser [3s 2h]
+*** PRE-FLOP *** 
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN calls 20
+CSWAOR raises 80 to 120
+AARSEN-LUPIN folds
+CSWAOR collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 4: CSWAOR (big blind) won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559230206800297985-16-1441829961 - Holdem no limit (20/40) - 2015/09/09 20:19:21 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1422)
+Seat 4: CSWAOR (2550)
+Seat 5: liodu46 (1455)
+Seat 6: sabre_laser (580)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (1690)
+Seat 10: Hicks.sk (1493)
+*** ANTE/BLINDS ***
+CSWAOR posts small blind 20
+liodu46 posts big blind 40
+Dealt to sabre_laser [2c 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+BB06 raises 50 to 90
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+BB06 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 7: BB06 won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #559230206800297985-17-1441830035 - Holdem no limit (20/40) - 2015/09/09 20:20:35 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1422)
+Seat 4: CSWAOR (2530)
+Seat 5: liodu46 (1415)
+Seat 6: sabre_laser (580)
+Seat 7: BB06 (1485)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (1690)
+Seat 10: Hicks.sk (1493)
+*** ANTE/BLINDS ***
+liodu46 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Qh 7h]
+*** PRE-FLOP *** 
+BB06 folds
+victorbynite folds
+crazypix calls 40
+Hicks.sk raises 120 to 160
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+crazypix folds
+Hicks.sk collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 10: Hicks.sk won 260
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559230206800297985-18-1441830099 - Holdem no limit (30/60) - 2015/09/09 20:21:39 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1422)
+Seat 4: CSWAOR (2530)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (540)
+Seat 7: BB06 (1485)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (1650)
+Seat 10: Hicks.sk (1593)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+BB06 posts big blind 60
+Dealt to sabre_laser [Qd 2h]
+*** PRE-FLOP *** 
+victorbynite folds
+crazypix folds
+Hicks.sk raises 60 to 120
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN calls 120
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+*** FLOP *** [6s 4h 5c]
+Hicks.sk bets 120
+AARSEN-LUPIN folds
+Hicks.sk collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [6s 4h 5c]
+Seat 10: Hicks.sk won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559230206800297985-19-1441830251 - Holdem no limit (30/60) - 2015/09/09 20:24:11 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1302)
+Seat 4: CSWAOR (2530)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (510)
+Seat 7: BB06 (1425)
+Seat 8: victorbynite (1375)
+Seat 9: crazypix (1650)
+Seat 10: Hicks.sk (1803)
+*** ANTE/BLINDS ***
+BB06 posts small blind 30
+victorbynite posts big blind 60
+Dealt to sabre_laser [As 9s]
+*** PRE-FLOP *** 
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR raises 120 to 180
+liodu46 folds
+sabre_laser raises 330 to 510 and is all-in
+BB06 folds
+victorbynite folds
+CSWAOR calls 330
+*** FLOP *** [6h 4h 7c]
+*** TURN *** [6h 4h 7c][8h]
+*** RIVER *** [6h 4h 7c 8h][5s]
+*** SHOW DOWN ***
+CSWAOR shows [Jd Qs] (Straight 8 high)
+sabre_laser shows [As 9s] (Straight 9 high)
+sabre_laser collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [6h 4h 7c 8h 5s]
+Seat 4: CSWAOR showed [Jd Qs] and lost with Straight 8 high
+Seat 6: sabre_laser (button) showed [As 9s] and won 1110 with Straight 9 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559230206800297985-20-1441830321 - Holdem no limit (30/60) - 2015/09/09 20:25:21 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1302)
+Seat 4: CSWAOR (2020)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1395)
+Seat 8: victorbynite (1315)
+Seat 9: crazypix (1650)
+Seat 10: Hicks.sk (1803)
+*** ANTE/BLINDS ***
+victorbynite posts small blind 30
+crazypix posts big blind 60
+Dealt to sabre_laser [4s 3h]
+*** PRE-FLOP *** 
+Hicks.sk raises 60 to 120
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR raises 120 to 240
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite raises 480 to 720
+crazypix folds
+Hicks.sk folds
+CSWAOR calls 480
+*** FLOP *** [7s 9s 2c]
+victorbynite bets 595 and is all-in
+CSWAOR folds
+victorbynite collected 2215 from pot
+*** SUMMARY ***
+Total pot 2215 | No rake
+Board: [7s 9s 2c]
+Seat 8: victorbynite (small blind) won 2215
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #559230206800297985-21-1441830424 - Holdem no limit (30/60) - 2015/09/09 20:27:04 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1302)
+Seat 4: CSWAOR (1300)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1395)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1590)
+Seat 10: Hicks.sk (1683)
+*** ANTE/BLINDS ***
+crazypix posts small blind 30
+Hicks.sk posts big blind 60
+Dealt to sabre_laser [Ts Kd]
+*** PRE-FLOP *** 
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 10: Hicks.sk (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-22-1441830458 - Holdem no limit (40/80) - 2015/09/09 20:27:38 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Mars_Attack (1410)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1302)
+Seat 4: CSWAOR (1300)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1395)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1560)
+Seat 10: Hicks.sk (1713)
+*** ANTE/BLINDS ***
+Hicks.sk posts small blind 40
+Mars_Attack posts big blind 80
+Dealt to sabre_laser [2h 3d]
+*** PRE-FLOP *** 
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR raises 120 to 200
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+CSWAOR collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 4: CSWAOR won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-23-1441830495 - Holdem no limit (40/80) - 2015/09/09 20:28:15 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Mars_Attack (1330)
+Seat 2: aceshot (1600)
+Seat 3: AARSEN-LUPIN (1302)
+Seat 4: CSWAOR (1420)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1395)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1560)
+Seat 10: Hicks.sk (1673)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 40
+aceshot posts big blind 80
+Dealt to sabre_laser [9c 6c]
+*** PRE-FLOP *** 
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: aceshot (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-24-1441830523 - Holdem no limit (40/80) - 2015/09/09 20:28:43 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1640)
+Seat 3: AARSEN-LUPIN (1302)
+Seat 4: CSWAOR (1420)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1395)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1560)
+Seat 10: Hicks.sk (1673)
+*** ANTE/BLINDS ***
+aceshot posts small blind 40
+AARSEN-LUPIN posts big blind 80
+Dealt to sabre_laser [9s 3s]
+*** PRE-FLOP *** 
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix calls 80
+Hicks.sk folds
+Mars_Attack folds
+aceshot calls 40
+AARSEN-LUPIN folds
+*** FLOP *** [4d 4s 2c]
+aceshot checks
+crazypix checks
+*** TURN *** [4d 4s 2c][6h]
+aceshot checks
+crazypix checks
+*** RIVER *** [4d 4s 2c 6h][Kc]
+aceshot checks
+crazypix checks
+*** SHOW DOWN ***
+aceshot shows [9c 3c] (One pair : 4)
+crazypix shows [Jh Th] (One pair : 4)
+crazypix collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4d 4s 2c 6h Kc]
+Seat 2: aceshot (small blind) showed [9c 3c] and lost with One pair : 4
+Seat 9: crazypix showed [Jh Th] and won 240 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-25-1441830646 - Holdem no limit (40/80) - 2015/09/09 20:30:46 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1222)
+Seat 4: CSWAOR (1420)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1395)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1720)
+Seat 10: Hicks.sk (1673)
+*** ANTE/BLINDS ***
+AARSEN-LUPIN posts small blind 40
+CSWAOR posts big blind 80
+Dealt to sabre_laser [Jh 8h]
+*** PRE-FLOP *** 
+liodu46 folds
+sabre_laser folds
+BB06 raises 80 to 160
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+BB06 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 7: BB06 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-26-1441830678 - Holdem no limit (40/80) - 2015/09/09 20:31:18 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (1340)
+Seat 5: liodu46 (1395)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1515)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1720)
+Seat 10: Hicks.sk (1673)
+*** ANTE/BLINDS ***
+CSWAOR posts small blind 40
+liodu46 posts big blind 80
+Dealt to sabre_laser [Ts 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+BB06 raises 80 to 160
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+BB06 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 7: BB06 won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-27-1441830711 - Holdem no limit (40/80) - 2015/09/09 20:31:51 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (1300)
+Seat 5: liodu46 (1315)
+Seat 6: sabre_laser (1110)
+Seat 7: BB06 (1635)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1720)
+Seat 10: Hicks.sk (1673)
+*** ANTE/BLINDS ***
+liodu46 posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [4c 3s]
+*** PRE-FLOP *** 
+BB06 folds
+victorbynite folds
+crazypix folds
+Hicks.sk raises 80 to 160
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+Hicks.sk collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 10: Hicks.sk won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-28-1441830748 - Holdem no limit (40/80) - 2015/09/09 20:32:28 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (1300)
+Seat 5: liodu46 (1275)
+Seat 6: sabre_laser (1030)
+Seat 7: BB06 (1635)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1720)
+Seat 10: Hicks.sk (1793)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+BB06 posts big blind 80
+Dealt to sabre_laser [9c 8s]
+*** PRE-FLOP *** 
+victorbynite folds
+crazypix folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 7: BB06 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #559230206800297985-29-1441830784 - Holdem no limit (40/80) - 2015/09/09 20:33:04 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (1300)
+Seat 5: liodu46 (1275)
+Seat 6: sabre_laser (990)
+Seat 7: BB06 (1675)
+Seat 8: victorbynite (2215)
+Seat 9: crazypix (1720)
+Seat 10: Hicks.sk (1793)
+*** ANTE/BLINDS ***
+BB06 posts small blind 40
+victorbynite posts big blind 80
+Dealt to sabre_laser [Ac Kc]
+*** PRE-FLOP *** 
+crazypix raises 1640 to 1720 and is all-in
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR calls 1300 and is all-in
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+*** FLOP *** [5h 5s 9s]
+*** TURN *** [5h 5s 9s][Jd]
+*** RIVER *** [5h 5s 9s Jd][6h]
+*** SHOW DOWN ***
+CSWAOR shows [Tc Ts] (Two pairs : Tens and 5)
+crazypix shows [Kd As] (One pair : 5)
+crazypix collected 420 from side pot 1
+CSWAOR collected 2720 from main pot
+*** SUMMARY ***
+Total pot 3140 | No rake
+Board: [5h 5s 9s Jd 6h]
+Seat 4: CSWAOR showed [Tc Ts] and won 2720 with Two pairs : Tens and 5
+Seat 9: crazypix showed [Kd As] and won 420 with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559230206800297985-30-1441830825 - Holdem no limit (60/120) - 2015/09/09 20:33:45 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (2720)
+Seat 5: liodu46 (1275)
+Seat 6: sabre_laser (990)
+Seat 7: BB06 (1635)
+Seat 8: victorbynite (2135)
+Seat 9: crazypix (420)
+Seat 10: Hicks.sk (1793)
+*** ANTE/BLINDS ***
+victorbynite posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [Qs 3c]
+*** PRE-FLOP *** 
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: crazypix (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559230206800297985-31-1441830847 - Holdem no limit (60/120) - 2015/09/09 20:34:07 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (2720)
+Seat 5: liodu46 (1275)
+Seat 6: sabre_laser (990)
+Seat 7: BB06 (1635)
+Seat 8: victorbynite (2075)
+Seat 9: crazypix (480)
+Seat 10: Hicks.sk (1793)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+Hicks.sk posts big blind 120
+Dealt to sabre_laser [Ts 6d]
+*** PRE-FLOP *** 
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 raises 1155 to 1275 and is all-in
+sabre_laser folds
+BB06 folds
+victorbynite folds
+crazypix calls 420 and is all-in
+Hicks.sk folds
+*** FLOP *** [4c Kc 6s]
+*** TURN *** [4c Kc 6s][Th]
+*** RIVER *** [4c Kc 6s Th][Kd]
+*** SHOW DOWN ***
+crazypix shows [7h 8c] (One pair : Kings)
+liodu46 shows [Ad Kh] (Trips of Kings)
+liodu46 collected 1875 from pot
+*** SUMMARY ***
+Total pot 1875 | No rake
+Board: [4c Kc 6s Th Kd]
+Seat 5: liodu46 showed [Ad Kh] and won 1875 with Trips of Kings
+Seat 9: crazypix (small blind) showed [7h 8c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559230206800297985-32-1441830881 - Holdem no limit (60/120) - 2015/09/09 20:34:41 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Mars_Attack (1290)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (2720)
+Seat 5: liodu46 (1875)
+Seat 6: sabre_laser (990)
+Seat 7: BB06 (1635)
+Seat 8: victorbynite (2075)
+Seat 10: Hicks.sk (1673)
+*** ANTE/BLINDS ***
+Hicks.sk posts small blind 60
+Mars_Attack posts big blind 120
+Dealt to sabre_laser [7s 4d]
+*** PRE-FLOP *** 
+aceshot folds
+AARSEN-LUPIN folds
+CSWAOR folds
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite raises 240 to 360
+Hicks.sk folds
+Mars_Attack folds
+victorbynite collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 8: victorbynite won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559230206800297985-33-1441830910 - Holdem no limit (60/120) - 2015/09/09 20:35:10 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Mars_Attack (1170)
+Seat 2: aceshot (1560)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (2720)
+Seat 5: liodu46 (1875)
+Seat 6: sabre_laser (990)
+Seat 7: BB06 (1635)
+Seat 8: victorbynite (2255)
+Seat 10: Hicks.sk (1613)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 60
+aceshot posts big blind 120
+Dealt to sabre_laser [8d Jc]
+*** PRE-FLOP *** 
+AARSEN-LUPIN folds
+CSWAOR raises 120 to 240
+liodu46 folds
+sabre_laser folds
+BB06 folds
+victorbynite folds
+Hicks.sk folds
+Mars_Attack folds
+aceshot calls 120
+*** FLOP *** [4c 3c 9d]
+aceshot bets 1320 and is all-in
+CSWAOR folds
+aceshot collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [4c 3c 9d]
+Seat 2: aceshot (big blind) won 1860
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #559230206800297985-34-1441830958 - Holdem no limit (60/120) - 2015/09/09 20:35:58 UTC
+Table: 'Double or Nothing(130205929)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Mars_Attack (1110)
+Seat 2: aceshot (1860)
+Seat 3: AARSEN-LUPIN (1182)
+Seat 4: CSWAOR (2480)
+Seat 5: liodu46 (1875)
+Seat 6: sabre_laser (990)
+Seat 7: BB06 (1635)
+Seat 8: victorbynite (2255)
+Seat 10: Hicks.sk (1613)
+*** ANTE/BLINDS ***
+aceshot posts small blind 60
+AARSEN-LUPIN posts big blind 120
+Dealt to sabre_laser [5c Kh]
+*** PRE-FLOP *** 
+CSWAOR folds
+liodu46 folds
+sabre_laser raises 870 to 990 and is all-in
+BB06 folds
+victorbynite calls 990
+Hicks.sk folds
+Mars_Attack folds
+aceshot folds
+AARSEN-LUPIN folds
+*** FLOP *** [7h Ts 7s]
+*** TURN *** [7h Ts 7s][2c]
+*** RIVER *** [7h Ts 7s 2c][4s]
+*** SHOW DOWN ***
+sabre_laser shows [5c Kh] (One pair : 7)
+victorbynite shows [Qh Qc] (Two pairs : Queens and 7)
+victorbynite collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [7h Ts 7s 2c 4s]
+Seat 6: sabre_laser showed [5c Kh] and lost with One pair : 7
+Seat 8: victorbynite showed [Qh Qc] and won 2160 with Two pairs : Queens and 7
+
+

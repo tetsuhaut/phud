@@ -1,0 +1,1116 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #538098697121038337-1-1437425419 - Holdem no limit (10/20) - 2015/07/20 20:50:19 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1500)
+Seat 4: Kykygaia (1500)
+Seat 5: Polo97216 (1500)
+Seat 6: FancyTato (1500)
+Seat 7: show wizo (1500)
+Seat 8: Crisssis (1500)
+Seat 9: Sony55 (1500)
+Seat 10: AdrianPolo (1500)
+*** ANTE/BLINDS ***
+show wizo posts small blind 10
+Crisssis posts big blind 20
+Dealt to sabre_laser [5h 2d]
+*** PRE-FLOP *** 
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia calls 20
+Polo97216 folds
+FancyTato raises 40 to 60
+show wizo folds
+Crisssis folds
+Kykygaia calls 40
+*** FLOP *** [4s As 6h]
+Kykygaia checks
+FancyTato checks
+*** TURN *** [4s As 6h][5d]
+Kykygaia checks
+FancyTato checks
+*** RIVER *** [4s As 6h 5d][Ks]
+Kykygaia bets 20
+FancyTato folds
+Kykygaia collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [4s As 6h 5d Ks]
+Seat 4: Kykygaia won 170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #538098697121038337-2-1437425559 - Holdem no limit (10/20) - 2015/07/20 20:52:39 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1500)
+Seat 4: Kykygaia (1590)
+Seat 5: Polo97216 (1500)
+Seat 6: FancyTato (1440)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1480)
+Seat 9: Sony55 (1500)
+Seat 10: AdrianPolo (1500)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 10
+Sony55 posts big blind 20
+Dealt to sabre_laser [Ah Kh]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser raises 40 to 60
+Fuusay folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: sabre_laser won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538098697121038337-3-1437425651 - Holdem no limit (15/30) - 2015/07/20 20:54:11 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1530)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1500)
+Seat 4: Kykygaia (1590)
+Seat 5: Polo97216 (1500)
+Seat 6: FancyTato (1440)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1480)
+Seat 10: AdrianPolo (1500)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 15
+AdrianPolo posts big blind 30
+Dealt to sabre_laser [9h 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 raises 60 to 90
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 calls 75
+AdrianPolo folds
+*** FLOP *** [Ad 9c Qd]
+Sony55 checks
+Polo97216 bets 105
+Sony55 folds
+Polo97216 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [Ad 9c Qd]
+Seat 5: Polo97216 won 315
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538098697121038337-4-1437425740 - Holdem no limit (15/30) - 2015/07/20 20:55:40 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1530)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1500)
+Seat 4: Kykygaia (1590)
+Seat 5: Polo97216 (1620)
+Seat 6: FancyTato (1440)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1470)
+*** ANTE/BLINDS ***
+AdrianPolo posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [9h Ad]
+*** PRE-FLOP *** 
+Fuusay folds
+Mad Troll folds
+Kykygaia calls 30
+Polo97216 calls 30
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser checks
+*** FLOP *** [Jc 8c Th]
+sabre_laser checks
+Kykygaia bets 30
+Polo97216 calls 30
+sabre_laser calls 30
+*** TURN *** [Jc 8c Th][5s]
+sabre_laser checks
+Kykygaia bets 30
+Polo97216 calls 30
+sabre_laser raises 135 to 165
+Kykygaia calls 135
+Polo97216 calls 135
+*** RIVER *** [Jc 8c Th 5s][7s]
+sabre_laser bets 195
+Kykygaia calls 195
+Polo97216 folds
+*** SHOW DOWN ***
+Kykygaia shows [5c 7c] (Two pairs : 7 and 5)
+sabre_laser shows [9h Ad] (Straight Jack high)
+sabre_laser collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Jc 8c Th 5s 7s]
+Seat 1: sabre_laser (big blind) showed [9h Ad] and won 1080 with Straight Jack high
+Seat 4: Kykygaia showed [5c 7c] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538098697121038337-5-1437425867 - Holdem no limit (20/40) - 2015/07/20 20:57:47 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2190)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1500)
+Seat 4: Kykygaia (1170)
+Seat 5: Polo97216 (1395)
+Seat 6: FancyTato (1440)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1455)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+Fuusay posts big blind 40
+Dealt to sabre_laser [5d 8s]
+*** PRE-FLOP *** 
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Fuusay (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538098697121038337-6-1437425923 - Holdem no limit (20/40) - 2015/07/20 20:58:43 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1520)
+Seat 3: Mad Troll (1500)
+Seat 4: Kykygaia (1170)
+Seat 5: Polo97216 (1395)
+Seat 6: FancyTato (1440)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1455)
+*** ANTE/BLINDS ***
+Fuusay posts small blind 20
+Mad Troll posts big blind 40
+Dealt to sabre_laser [2d 9c]
+*** PRE-FLOP *** 
+Kykygaia folds
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay folds
+Mad Troll collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Mad Troll (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538098697121038337-7-1437426060 - Holdem no limit (30/60) - 2015/07/20 21:01:00 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1520)
+Seat 4: Kykygaia (1170)
+Seat 5: Polo97216 (1395)
+Seat 6: FancyTato (1440)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1455)
+*** ANTE/BLINDS ***
+Mad Troll posts small blind 30
+Kykygaia posts big blind 60
+Dealt to sabre_laser [4s 2c]
+*** PRE-FLOP *** 
+Polo97216 folds
+FancyTato raises 90 to 150
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia calls 90
+*** FLOP *** [9c Kh 5h]
+Kykygaia checks
+FancyTato bets 150
+Kykygaia raises 150 to 300
+FancyTato folds
+Kykygaia collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [9c Kh 5h]
+Seat 4: Kykygaia (big blind) won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538098697121038337-8-1437426129 - Holdem no limit (30/60) - 2015/07/20 21:02:09 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1490)
+Seat 4: Kykygaia (1500)
+Seat 5: Polo97216 (1395)
+Seat 6: FancyTato (1140)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1455)
+*** ANTE/BLINDS ***
+Kykygaia posts small blind 30
+Polo97216 posts big blind 60
+Dealt to sabre_laser [5c 2s]
+*** PRE-FLOP *** 
+FancyTato raises 120 to 180
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia calls 150
+Polo97216 folds
+*** FLOP *** [6d Jh Ks]
+Kykygaia bets 60
+FancyTato folds
+Kykygaia collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6d Jh Ks]
+Seat 4: Kykygaia (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538098697121038337-9-1437426194 - Holdem no limit (40/80) - 2015/07/20 21:03:14 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1490)
+Seat 4: Kykygaia (1740)
+Seat 5: Polo97216 (1335)
+Seat 6: FancyTato (960)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1455)
+*** ANTE/BLINDS ***
+Polo97216 posts small blind 40
+FancyTato posts big blind 80
+Dealt to sabre_laser [5s 5h]
+*** PRE-FLOP *** 
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo raises 80 to 160
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+FancyTato folds
+AdrianPolo collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 10: AdrianPolo won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538098697121038337-10-1437426246 - Holdem no limit (40/80) - 2015/07/20 21:04:06 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1490)
+Seat 4: Kykygaia (1740)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (880)
+Seat 7: show wizo (1490)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1575)
+*** ANTE/BLINDS ***
+FancyTato posts small blind 40
+show wizo posts big blind 80
+Dealt to sabre_laser [Tc 4s]
+*** PRE-FLOP *** 
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay folds
+Mad Troll calls 80
+Kykygaia raises 160 to 240
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Mad Troll folds
+Kykygaia collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 4: Kykygaia won 440
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538098697121038337-11-1437426322 - Holdem no limit (60/120) - 2015/07/20 21:05:22 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1410)
+Seat 4: Kykygaia (1940)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (840)
+Seat 7: show wizo (1410)
+Seat 8: Crisssis (1470)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1575)
+*** ANTE/BLINDS ***
+show wizo posts small blind 60
+Crisssis posts big blind 120
+Dealt to sabre_laser [2c 4c]
+*** PRE-FLOP *** 
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay folds
+Mad Troll calls 120
+Kykygaia calls 120
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis checks
+*** FLOP *** [Kc Tc 8s]
+Crisssis checks
+Mad Troll checks
+Kykygaia bets 210
+Crisssis folds
+Mad Troll folds
+Kykygaia collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Kc Tc 8s]
+Seat 4: Kykygaia won 630
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538098697121038337-12-1437426437 - Holdem no limit (60/120) - 2015/07/20 21:07:17 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1290)
+Seat 4: Kykygaia (2240)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (840)
+Seat 7: show wizo (1350)
+Seat 8: Crisssis (1350)
+Seat 9: Sony55 (1390)
+Seat 10: AdrianPolo (1575)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 60
+Sony55 posts big blind 120
+Dealt to sabre_laser [Kh 6s]
+*** PRE-FLOP *** 
+AdrianPolo raises 120 to 240
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 10: AdrianPolo won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538098697121038337-13-1437426476 - Holdem no limit (60/120) - 2015/07/20 21:07:56 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1290)
+Seat 4: Kykygaia (2240)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (840)
+Seat 7: show wizo (1350)
+Seat 8: Crisssis (1290)
+Seat 9: Sony55 (1270)
+Seat 10: AdrianPolo (1755)
+*** ANTE/BLINDS ***
+Sony55 posts small blind 60
+AdrianPolo posts big blind 120
+Dealt to sabre_laser [4h 7c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+FancyTato raises 720 to 840 and is all-in
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+FancyTato collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Seat 6: FancyTato won 1020
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538098697121038337-14-1437426541 - Holdem no limit (80/160) - 2015/07/20 21:09:01 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2170)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1290)
+Seat 4: Kykygaia (2240)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (1020)
+Seat 7: show wizo (1350)
+Seat 8: Crisssis (1290)
+Seat 9: Sony55 (1210)
+Seat 10: AdrianPolo (1635)
+*** ANTE/BLINDS ***
+AdrianPolo posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Ad 9d]
+*** PRE-FLOP *** 
+Fuusay folds
+Mad Troll folds
+Kykygaia raises 320 to 480
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Kykygaia collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 4: Kykygaia won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538098697121038337-15-1437426600 - Holdem no limit (80/160) - 2015/07/20 21:10:00 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2010)
+Seat 2: Fuusay (1500)
+Seat 3: Mad Troll (1290)
+Seat 4: Kykygaia (2480)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (1020)
+Seat 7: show wizo (1350)
+Seat 8: Crisssis (1290)
+Seat 9: Sony55 (1210)
+Seat 10: AdrianPolo (1555)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Fuusay posts big blind 160
+Dealt to sabre_laser [4s 7h]
+*** PRE-FLOP *** 
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis raises 1130 to 1290 and is all-in
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay calls 1130
+*** FLOP *** [2c As 9s]
+*** TURN *** [2c As 9s][9d]
+*** RIVER *** [2c As 9s 9d][6d]
+*** SHOW DOWN ***
+Fuusay shows [Td Tc] (Two pairs : Tens and 9)
+Crisssis shows [Ac Kd] (Two pairs : Aces and 9)
+Crisssis collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [2c As 9s 9d 6d]
+Seat 2: Fuusay (big blind) showed [Td Tc] and lost with Two pairs : Tens and 9
+Seat 8: Crisssis showed [Ac Kd] and won 2660 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538098697121038337-16-1437426669 - Holdem no limit (80/160) - 2015/07/20 21:11:09 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1930)
+Seat 2: Fuusay (210)
+Seat 3: Mad Troll (1290)
+Seat 4: Kykygaia (2480)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (1020)
+Seat 7: show wizo (1350)
+Seat 8: Crisssis (2660)
+Seat 9: Sony55 (1210)
+Seat 10: AdrianPolo (1555)
+*** ANTE/BLINDS ***
+Fuusay posts small blind 80
+Mad Troll posts big blind 160
+Dealt to sabre_laser [Ad 4c]
+*** PRE-FLOP *** 
+Kykygaia calls 160
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo calls 160
+sabre_laser folds
+Fuusay folds
+Mad Troll checks
+*** FLOP *** [4h 6d 2c]
+Mad Troll checks
+Kykygaia bets 560
+AdrianPolo folds
+Mad Troll folds
+Kykygaia collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [4h 6d 2c]
+Seat 4: Kykygaia won 1120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538098697121038337-17-1437426767 - Holdem no limit (10/100/200) - 2015/07/20 21:12:47 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1930)
+Seat 2: Fuusay (130)
+Seat 3: Mad Troll (1130)
+Seat 4: Kykygaia (2880)
+Seat 5: Polo97216 (1295)
+Seat 6: FancyTato (1020)
+Seat 7: show wizo (1350)
+Seat 8: Crisssis (2660)
+Seat 9: Sony55 (1210)
+Seat 10: AdrianPolo (1395)
+*** ANTE/BLINDS ***
+Mad Troll posts ante 10
+Kykygaia posts ante 10
+sabre_laser posts ante 10
+Fuusay posts ante 10
+Polo97216 posts ante 10
+FancyTato posts ante 10
+show wizo posts ante 10
+Crisssis posts ante 10
+Sony55 posts ante 10
+AdrianPolo posts ante 10
+Mad Troll posts small blind 100
+Kykygaia posts big blind 200
+Dealt to sabre_laser [Kh 2h]
+*** PRE-FLOP *** 
+Polo97216 folds
+FancyTato folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo calls 200
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia raises 800 to 1000
+AdrianPolo folds
+Kykygaia collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Seat 4: Kykygaia (big blind) won 1400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538098697121038337-18-1437426803 - Holdem no limit (10/100/200) - 2015/07/20 21:13:23 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (1920)
+Seat 2: Fuusay (120)
+Seat 3: Mad Troll (1020)
+Seat 4: Kykygaia (3270)
+Seat 5: Polo97216 (1285)
+Seat 6: FancyTato (1010)
+Seat 7: show wizo (1340)
+Seat 8: Crisssis (2650)
+Seat 9: Sony55 (1200)
+Seat 10: AdrianPolo (1185)
+*** ANTE/BLINDS ***
+Kykygaia posts ante 10
+Polo97216 posts ante 10
+sabre_laser posts ante 10
+Fuusay posts ante 10
+Mad Troll posts ante 10
+FancyTato posts ante 10
+show wizo posts ante 10
+Crisssis posts ante 10
+Sony55 posts ante 10
+AdrianPolo posts ante 10
+Kykygaia posts small blind 100
+Polo97216 posts big blind 200
+Dealt to sabre_laser [8c 4c]
+*** PRE-FLOP *** 
+FancyTato raises 300 to 500
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 calls 300
+*** FLOP *** [9c 4s 3c]
+Polo97216 checks
+FancyTato bets 500 and is all-in
+Polo97216 calls 500
+*** TURN *** [9c 4s 3c][Th]
+*** RIVER *** [9c 4s 3c Th][6c]
+*** SHOW DOWN ***
+FancyTato shows [Ac Kd] (High card : Ace)
+Polo97216 shows [Jc Qc] (Flush Queen high)
+Polo97216 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [9c 4s 3c Th 6c]
+Seat 5: Polo97216 (big blind) showed [Jc Qc] and won 2200 with Flush Queen high
+Seat 6: FancyTato showed [Ac Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538098697121038337-19-1437426878 - Holdem no limit (20/150/300) - 2015/07/20 21:14:38 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1910)
+Seat 2: Fuusay (110)
+Seat 3: Mad Troll (1010)
+Seat 4: Kykygaia (3160)
+Seat 5: Polo97216 (2475)
+Seat 7: show wizo (1330)
+Seat 8: Crisssis (2640)
+Seat 9: Sony55 (1190)
+Seat 10: AdrianPolo (1175)
+*** ANTE/BLINDS ***
+Polo97216 posts ante 20
+show wizo posts ante 20
+sabre_laser posts ante 20
+Fuusay posts ante 20
+Mad Troll posts ante 20
+Kykygaia posts ante 20
+Crisssis posts ante 20
+Sony55 posts ante 20
+AdrianPolo posts ante 20
+Polo97216 posts small blind 150
+show wizo posts big blind 300
+Dealt to sabre_laser [Kd 4h]
+*** PRE-FLOP *** 
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Fuusay calls 90 and is all-in
+Mad Troll folds
+Kykygaia folds
+Polo97216 calls 150
+show wizo checks
+*** FLOP *** [Ac 2s 8h]
+Polo97216 checks
+show wizo checks
+*** TURN *** [Ac 2s 8h][Kh]
+Polo97216 checks
+show wizo bets 300
+Polo97216 folds
+*** RIVER *** [Ac 2s 8h Kh][Kc]
+*** SHOW DOWN ***
+Fuusay shows [7d 5c] (One pair : Kings)
+show wizo shows [Ad 2d] (Two pairs : Aces and Kings)
+show wizo collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Board: [Ac 2s 8h Kh Kc]
+Seat 2: Fuusay showed [7d 5c] and lost with One pair : Kings
+Seat 7: show wizo (big blind) showed [Ad 2d] and won 1170 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538098697121038337-20-1437426927 - Holdem no limit (20/150/300) - 2015/07/20 21:15:27 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1890)
+Seat 3: Mad Troll (990)
+Seat 4: Kykygaia (3140)
+Seat 5: Polo97216 (2155)
+Seat 7: show wizo (1880)
+Seat 8: Crisssis (2620)
+Seat 9: Sony55 (1170)
+Seat 10: AdrianPolo (1155)
+*** ANTE/BLINDS ***
+show wizo posts ante 20
+Crisssis posts ante 20
+sabre_laser posts ante 20
+Mad Troll posts ante 20
+Kykygaia posts ante 20
+Polo97216 posts ante 20
+Sony55 posts ante 20
+AdrianPolo posts ante 20
+show wizo posts small blind 150
+Crisssis posts big blind 300
+Dealt to sabre_laser [Ks 7s]
+*** PRE-FLOP *** 
+Sony55 folds
+AdrianPolo folds
+sabre_laser folds
+Mad Troll raises 670 to 970 and is all-in
+Kykygaia folds
+Polo97216 folds
+show wizo folds
+Crisssis folds
+Mad Troll collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 3: Mad Troll won 1580
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538098697121038337-21-1437426964 - Holdem no limit (20/150/300) - 2015/07/20 21:16:04 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1870)
+Seat 3: Mad Troll (1580)
+Seat 4: Kykygaia (3120)
+Seat 5: Polo97216 (2135)
+Seat 7: show wizo (1710)
+Seat 8: Crisssis (2300)
+Seat 9: Sony55 (1150)
+Seat 10: AdrianPolo (1135)
+*** ANTE/BLINDS ***
+Crisssis posts ante 20
+Sony55 posts ante 20
+sabre_laser posts ante 20
+Mad Troll posts ante 20
+Kykygaia posts ante 20
+Polo97216 posts ante 20
+show wizo posts ante 20
+AdrianPolo posts ante 20
+Crisssis posts small blind 150
+Sony55 posts big blind 300
+Dealt to sabre_laser [3d 9c]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+show wizo raises 1390 to 1690 and is all-in
+Crisssis folds
+Sony55 folds
+show wizo collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 7: show wizo (button) won 2300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538098697121038337-22-1437427000 - Holdem no limit (20/150/300) - 2015/07/20 21:16:40 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1850)
+Seat 3: Mad Troll (1560)
+Seat 4: Kykygaia (3100)
+Seat 5: Polo97216 (2115)
+Seat 7: show wizo (2300)
+Seat 8: Crisssis (2130)
+Seat 9: Sony55 (830)
+Seat 10: AdrianPolo (1115)
+*** ANTE/BLINDS ***
+Sony55 posts ante 20
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+Mad Troll posts ante 20
+Kykygaia posts ante 20
+Polo97216 posts ante 20
+show wizo posts ante 20
+Crisssis posts ante 20
+Sony55 posts small blind 150
+AdrianPolo posts big blind 300
+Dealt to sabre_laser [Qs 5c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+show wizo raises 1980 to 2280 and is all-in
+Crisssis folds
+Sony55 folds
+AdrianPolo folds
+show wizo collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | No rake
+Seat 7: show wizo won 2890
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538098697121038337-23-1437427024 - Holdem no limit (20/150/300) - 2015/07/20 21:17:04 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1830)
+Seat 3: Mad Troll (1540)
+Seat 4: Kykygaia (3080)
+Seat 5: Polo97216 (2095)
+Seat 7: show wizo (2890)
+Seat 8: Crisssis (2110)
+Seat 9: Sony55 (660)
+Seat 10: AdrianPolo (795)
+*** ANTE/BLINDS ***
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+Mad Troll posts ante 20
+Kykygaia posts ante 20
+Polo97216 posts ante 20
+show wizo posts ante 20
+Crisssis posts ante 20
+Sony55 posts ante 20
+AdrianPolo posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [8s 8c]
+*** PRE-FLOP *** 
+Mad Troll folds
+Kykygaia folds
+Polo97216 folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+AdrianPolo raises 475 to 775 and is all-in
+sabre_laser calls 475
+*** FLOP *** [Ts 3h Kd]
+*** TURN *** [Ts 3h Kd][8h]
+*** RIVER *** [Ts 3h Kd 8h][2s]
+*** SHOW DOWN ***
+AdrianPolo shows [Jc Th] (One pair : Tens)
+sabre_laser shows [8s 8c] (Trips of 8)
+sabre_laser collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [Ts 3h Kd 8h 2s]
+Seat 1: sabre_laser (big blind) showed [8s 8c] and won 1710 with Trips of 8
+Seat 10: AdrianPolo (small blind) showed [Jc Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538098697121038337-24-1437427053 - Holdem no limit (50/200/400) - 2015/07/20 21:17:33 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2745)
+Seat 3: Mad Troll (1520)
+Seat 4: Kykygaia (3060)
+Seat 5: Polo97216 (2075)
+Seat 7: show wizo (2870)
+Seat 8: Crisssis (2090)
+Seat 9: Sony55 (640)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Mad Troll posts ante 50
+Kykygaia posts ante 50
+Polo97216 posts ante 50
+show wizo posts ante 50
+Crisssis posts ante 50
+Sony55 posts ante 50
+sabre_laser posts small blind 200
+Mad Troll posts big blind 400
+Dealt to sabre_laser [Th Tc]
+*** PRE-FLOP *** 
+Kykygaia raises 1600 to 2000
+Polo97216 folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+sabre_laser raises 695 to 2695 and is all-in
+Mad Troll folds
+Kykygaia calls 695
+*** FLOP *** [8d 8c Ad]
+*** TURN *** [8d 8c Ad][2c]
+*** RIVER *** [8d 8c Ad 2c][Ks]
+*** SHOW DOWN ***
+Kykygaia shows [4h 4s] (Two pairs : 8 and 4)
+sabre_laser shows [Th Tc] (Two pairs : Tens and 8)
+sabre_laser collected 6140 from pot
+*** SUMMARY ***
+Total pot 6140 | No rake
+Board: [8d 8c Ad 2c Ks]
+Seat 1: sabre_laser (small blind) showed [Th Tc] and won 6140 with Two pairs : Tens and 8
+Seat 4: Kykygaia showed [4h 4s] and lost with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538098697121038337-25-1437427089 - Holdem no limit (50/200/400) - 2015/07/20 21:18:09 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (6140)
+Seat 3: Mad Troll (1070)
+Seat 4: Kykygaia (315)
+Seat 5: Polo97216 (2025)
+Seat 7: show wizo (2820)
+Seat 8: Crisssis (2040)
+Seat 9: Sony55 (590)
+*** ANTE/BLINDS ***
+Mad Troll posts ante 50
+Kykygaia posts ante 50
+sabre_laser posts ante 50
+Polo97216 posts ante 50
+show wizo posts ante 50
+Crisssis posts ante 50
+Sony55 posts ante 50
+Mad Troll posts small blind 200
+Kykygaia posts big blind 265 and is all-in
+Dealt to sabre_laser [As Jd]
+*** PRE-FLOP *** 
+Polo97216 folds
+show wizo folds
+Crisssis folds
+Sony55 folds
+sabre_laser calls 400
+Mad Troll calls 200
+*** FLOP *** [9h 5s 7c]
+Mad Troll bets 400
+sabre_laser folds
+*** TURN *** [9h 5s 7c][6s]
+*** RIVER *** [9h 5s 7c 6s][9d]
+*** SHOW DOWN ***
+Kykygaia shows [7d 3d] (Two pairs : 9 and 7)
+Mad Troll shows [7s Ac] (Two pairs : 9 and 7)
+Mad Troll collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | No rake
+Board: [9h 5s 7c 6s 9d]
+Seat 3: Mad Troll (small blind) showed [7s Ac] and won 1815 with Two pairs : 9 and 7
+Seat 4: Kykygaia (big blind) showed [7d 3d] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538098697121038337-26-1437427151 - Holdem no limit (50/200/400) - 2015/07/20 21:19:11 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (5690)
+Seat 3: Mad Troll (2035)
+Seat 5: Polo97216 (1975)
+Seat 7: show wizo (2770)
+Seat 8: Crisssis (1990)
+Seat 9: Sony55 (540)
+*** ANTE/BLINDS ***
+Polo97216 posts ante 50
+sabre_laser posts ante 50
+Mad Troll posts ante 50
+show wizo posts ante 50
+Crisssis posts ante 50
+Sony55 posts ante 50
+Polo97216 posts big blind 400
+Dealt to sabre_laser [Td 6h]
+*** PRE-FLOP *** 
+show wizo folds
+Crisssis folds
+Sony55 folds
+sabre_laser folds
+Mad Troll folds
+Polo97216 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 5: Polo97216 (big blind) won 700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538098697121038337-27-1437427183 - Holdem no limit (50/200/400) - 2015/07/20 21:19:43 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (5640)
+Seat 3: Mad Troll (1985)
+Seat 5: Polo97216 (2225)
+Seat 7: show wizo (2720)
+Seat 8: Crisssis (1940)
+Seat 9: Sony55 (490)
+*** ANTE/BLINDS ***
+Polo97216 posts ante 50
+show wizo posts ante 50
+sabre_laser posts ante 50
+Mad Troll posts ante 50
+Crisssis posts ante 50
+Sony55 posts ante 50
+Polo97216 posts small blind 200
+show wizo posts big blind 400
+Dealt to sabre_laser [2d Kd]
+*** PRE-FLOP *** 
+Crisssis folds
+Sony55 folds
+sabre_laser folds
+Mad Troll folds
+Polo97216 folds
+show wizo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 7: show wizo (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538098697121038337-28-1437427215 - Holdem no limit (50/200/400) - 2015/07/20 21:20:15 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (5590)
+Seat 3: Mad Troll (1935)
+Seat 5: Polo97216 (1975)
+Seat 7: show wizo (3170)
+Seat 8: Crisssis (1890)
+Seat 9: Sony55 (440)
+*** ANTE/BLINDS ***
+show wizo posts ante 50
+Crisssis posts ante 50
+sabre_laser posts ante 50
+Mad Troll posts ante 50
+Polo97216 posts ante 50
+Sony55 posts ante 50
+show wizo posts small blind 200
+Crisssis posts big blind 400
+Dealt to sabre_laser [Qh 4c]
+*** PRE-FLOP *** 
+Sony55 folds
+sabre_laser folds
+Mad Troll folds
+Polo97216 folds
+show wizo raises 2720 to 3120 and is all-in
+Crisssis folds
+show wizo collected 3820 from pot
+*** SUMMARY ***
+Total pot 3820 | No rake
+Seat 7: show wizo (small blind) won 3820
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #538098697121038337-29-1437427235 - Holdem no limit (75/300/600) - 2015/07/20 21:20:35 UTC
+Table: 'Double or Nothing(125285866)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (5540)
+Seat 3: Mad Troll (1885)
+Seat 5: Polo97216 (1925)
+Seat 7: show wizo (3820)
+Seat 8: Crisssis (1440)
+Seat 9: Sony55 (390)
+*** ANTE/BLINDS ***
+Crisssis posts ante 75
+Sony55 posts ante 75
+sabre_laser posts ante 75
+Mad Troll posts ante 75
+Polo97216 posts ante 75
+show wizo posts ante 75
+Crisssis posts small blind 300
+Sony55 posts big blind 315 and is all-in
+Dealt to sabre_laser [Qd Jh]
+*** PRE-FLOP *** 
+sabre_laser calls 600
+Mad Troll folds
+Polo97216 folds
+show wizo folds
+Crisssis folds
+*** FLOP *** [5s 6h Ac]
+*** TURN *** [5s 6h Ac][Js]
+*** RIVER *** [5s 6h Ac Js][3h]
+*** SHOW DOWN ***
+Sony55 shows [Td 3c] (One pair : 3)
+sabre_laser shows [Qd Jh] (One pair : Jacks)
+sabre_laser collected 1665 from pot
+*** SUMMARY ***
+Total pot 1665 | No rake
+Board: [5s 6h Ac Js 3h]
+Seat 1: sabre_laser showed [Qd Jh] and won 1665 with One pair : Jacks
+Seat 9: Sony55 (big blind) showed [Td 3c] and lost with One pair : 3
+
+

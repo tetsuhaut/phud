@@ -1,0 +1,526 @@
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-1-1425410426 - Holdem no limit (10/20) - 2015/03/03 19:20:26 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (4000)
+Seat 2: 64butcher59 (4000)
+Seat 3: WhY_Not_BaBy (4000)
+Seat 4: cruvellier (4000)
+Seat 5: TYRUS-31 (4000)
+Seat 6: ultreia (4000)
+Seat 7: le resistant (4000)
+Seat 8: LoveInDeep81 (4000)
+Seat 9: Fandjo&co (4000)
+*** ANTE/BLINDS ***
+ultreia posts small blind 10
+le resistant posts big blind 20
+Dealt to sabre_laser [Ac Td]
+*** PRE-FLOP *** 
+LoveInDeep81 calls 20
+Fandjo&co folds
+sabre_laser raises 50 to 70
+64butcher59 folds
+WhY_Not_BaBy calls 70
+cruvellier folds
+TYRUS-31 folds
+ultreia calls 60
+le resistant folds
+LoveInDeep81 calls 50
+*** FLOP *** [5s Jc Qh]
+ultreia checks
+LoveInDeep81 checks
+sabre_laser bets 420
+WhY_Not_BaBy folds
+ultreia folds
+LoveInDeep81 folds
+sabre_laser collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [5s Jc Qh]
+Seat 1: sabre_laser won 720
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-2-1425410537 - Holdem no limit (10/20) - 2015/03/03 19:22:17 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (4230)
+Seat 2: 64butcher59 (4000)
+Seat 3: WhY_Not_BaBy (3930)
+Seat 4: cruvellier (4000)
+Seat 5: TYRUS-31 (4000)
+Seat 6: ultreia (3930)
+Seat 7: le resistant (3980)
+Seat 8: LoveInDeep81 (3930)
+Seat 9: jyp_maths (4000)
+*** ANTE/BLINDS ***
+le resistant posts small blind 10
+LoveInDeep81 posts big blind 20
+Dealt to sabre_laser [3d 9s]
+*** PRE-FLOP *** 
+jyp_maths folds
+sabre_laser folds
+64butcher59 folds
+WhY_Not_BaBy folds
+cruvellier folds
+TYRUS-31 calls 20
+ultreia calls 20
+le resistant folds
+LoveInDeep81 checks
+*** FLOP *** [3h 6h Qd]
+LoveInDeep81 checks
+TYRUS-31 checks
+ultreia bets 110
+LoveInDeep81 folds
+TYRUS-31 folds
+ultreia collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3h 6h Qd]
+Seat 6: ultreia (button) won 180
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-3-1425410601 - Holdem no limit (10/20) - 2015/03/03 19:23:21 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (4230)
+Seat 2: 64butcher59 (4000)
+Seat 3: WhY_Not_BaBy (3930)
+Seat 4: cruvellier (4000)
+Seat 5: TYRUS-31 (3980)
+Seat 6: ultreia (3980)
+Seat 7: le resistant (3970)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (4000)
+*** ANTE/BLINDS ***
+jyp_maths posts big blind 20
+Dealt to sabre_laser [Ts 4s]
+*** PRE-FLOP *** 
+sabre_laser folds
+64butcher59 calls 20
+WhY_Not_BaBy folds
+cruvellier folds
+TYRUS-31 folds
+ultreia calls 20
+le resistant calls 20
+jyp_maths checks
+*** FLOP *** [Qd Js 5d]
+jyp_maths bets 25
+64butcher59 folds
+ultreia raises 265 to 290
+le resistant folds
+jyp_maths folds
+ultreia collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Board: [Qd Js 5d]
+Seat 6: ultreia won 395
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-4-1425410668 - Holdem no limit (10/20) - 2015/03/03 19:24:28 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (4230)
+Seat 2: 64butcher59 (3980)
+Seat 3: WhY_Not_BaBy (3930)
+Seat 4: cruvellier (4000)
+Seat 5: TYRUS-31 (3980)
+Seat 6: ultreia (4065)
+Seat 7: le resistant (3950)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (3955)
+*** ANTE/BLINDS ***
+jyp_maths posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [4c 7c]
+*** PRE-FLOP *** 
+64butcher59 folds
+WhY_Not_BaBy folds
+cruvellier calls 20
+TYRUS-31 folds
+ultreia folds
+le resistant raises 40 to 60
+jyp_maths folds
+sabre_laser folds
+cruvellier calls 40
+*** FLOP *** [3h 3s 6s]
+cruvellier bets 100
+le resistant folds
+cruvellier collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [3h 3s 6s]
+Seat 4: cruvellier won 250
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-5-1425410716 - Holdem no limit (10/20) - 2015/03/03 19:25:16 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (4210)
+Seat 2: 64butcher59 (3980)
+Seat 3: WhY_Not_BaBy (3930)
+Seat 4: cruvellier (4090)
+Seat 5: TYRUS-31 (3980)
+Seat 6: ultreia (4065)
+Seat 7: Falabella (3970)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (3945)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+64butcher59 posts big blind 20
+Dealt to sabre_laser [8d 2d]
+*** PRE-FLOP *** 
+WhY_Not_BaBy folds
+cruvellier folds
+TYRUS-31 folds
+ultreia folds
+Falabella folds
+Mauricien49 folds
+jyp_maths folds
+sabre_laser calls 10
+64butcher59 checks
+*** FLOP *** [7h 5c 3s]
+sabre_laser bets 20
+64butcher59 calls 20
+*** TURN *** [7h 5c 3s][2c]
+sabre_laser checks
+64butcher59 checks
+*** RIVER *** [7h 5c 3s 2c][5h]
+sabre_laser bets 40
+64butcher59 folds
+sabre_laser collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7h 5c 3s 2c 5h]
+Seat 1: sabre_laser (small blind) won 120
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-6-1425410777 - Holdem no limit (10/20) - 2015/03/03 19:26:17 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (4250)
+Seat 2: 64butcher59 (3940)
+Seat 3: WhY_Not_BaBy (3930)
+Seat 4: cruvellier (4090)
+Seat 5: TYRUS-31 (3980)
+Seat 6: MISTER--TEA (3970)
+Seat 7: Falabella (3970)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (3945)
+*** ANTE/BLINDS ***
+64butcher59 posts small blind 10
+WhY_Not_BaBy posts big blind 20
+Dealt to sabre_laser [Td 5c]
+*** PRE-FLOP *** 
+cruvellier raises 20 to 40
+TYRUS-31 folds
+MISTER--TEA folds
+Falabella folds
+Mauricien49 folds
+jyp_maths folds
+sabre_laser folds
+64butcher59 folds
+WhY_Not_BaBy folds
+cruvellier collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 4: cruvellier won 70
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-7-1425410830 - Holdem no limit (10/20) - 2015/03/03 19:27:10 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (4250)
+Seat 2: 64butcher59 (3930)
+Seat 3: WhY_Not_BaBy (3910)
+Seat 4: cruvellier (4120)
+Seat 5: The_Banker (4250)
+Seat 6: MISTER--TEA (3970)
+Seat 7: Falabella (3970)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (3945)
+*** ANTE/BLINDS ***
+WhY_Not_BaBy posts small blind 10
+cruvellier posts big blind 20
+Dealt to sabre_laser [5c 7c]
+*** PRE-FLOP *** 
+The_Banker folds
+MISTER--TEA folds
+Falabella folds
+Mauricien49 folds
+jyp_maths folds
+sabre_laser folds
+64butcher59 folds
+WhY_Not_BaBy folds
+cruvellier collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 4: cruvellier (big blind) won 30
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 0 - HandId: #473298154704339011-8-1425410887 - Holdem no limit (10/20) - 2015/03/03 19:28:07 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (4250)
+Seat 2: 64butcher59 (3930)
+Seat 3: WhY_Not_BaBy (3900)
+Seat 4: cruvellier (4130)
+Seat 5: The_Banker (4250)
+Seat 6: MISTER--TEA (3970)
+Seat 7: Falabella (3970)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (3945)
+*** ANTE/BLINDS ***
+cruvellier posts small blind 10
+The_Banker posts big blind 20
+Dealt to sabre_laser [4h Jc]
+*** PRE-FLOP *** 
+MISTER--TEA folds
+Falabella folds
+Mauricien49 folds
+jyp_maths folds
+sabre_laser folds
+64butcher59 raises 60 to 80
+WhY_Not_BaBy folds
+cruvellier calls 70
+The_Banker calls 60
+*** FLOP *** [Ad Qc 6h]
+cruvellier checks
+The_Banker checks
+64butcher59 bets 140
+cruvellier folds
+The_Banker folds
+64butcher59 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Ad Qc 6h]
+Seat 2: 64butcher59 won 380
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 1 - HandId: #473298154704339011-9-1425410943 - Holdem no limit (15/30) - 2015/03/03 19:29:03 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (4250)
+Seat 2: 64butcher59 (4090)
+Seat 3: WhY_Not_BaBy (3900)
+Seat 4: BananeNathy (3930)
+Seat 5: The_Banker (4170)
+Seat 6: MISTER--TEA (3970)
+Seat 7: Falabella (3970)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (3945)
+*** ANTE/BLINDS ***
+The_Banker posts small blind 15
+MISTER--TEA posts big blind 30
+Dealt to sabre_laser [3s 5d]
+*** PRE-FLOP *** 
+Falabella folds
+Mauricien49 folds
+jyp_maths raises 60 to 90
+sabre_laser folds
+64butcher59 folds
+WhY_Not_BaBy folds
+The_Banker folds
+MISTER--TEA folds
+jyp_maths collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 9: jyp_maths won 135
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 1 - HandId: #473298154704339011-10-1425410988 - Holdem no limit (15/30) - 2015/03/03 19:29:48 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (4250)
+Seat 2: 64butcher59 (4090)
+Seat 3: WhY_Not_BaBy (3900)
+Seat 4: BananeNathy (3930)
+Seat 5: The_Banker (4155)
+Seat 6: MISTER--TEA (3940)
+Seat 7: Falabella (3970)
+Seat 8: Mauricien49 (4000)
+Seat 9: jyp_maths (3990)
+*** ANTE/BLINDS ***
+MISTER--TEA posts small blind 15
+Falabella posts big blind 30
+Dealt to sabre_laser [2c 3d]
+*** PRE-FLOP *** 
+Mauricien49 calls 30
+jyp_maths folds
+sabre_laser folds
+64butcher59 folds
+WhY_Not_BaBy folds
+BananeNathy folds
+The_Banker folds
+MISTER--TEA folds
+Falabella checks
+*** FLOP *** [8c Jh Ad]
+Falabella checks
+Mauricien49 bets 38
+Falabella folds
+Mauricien49 collected 113 from pot
+*** SUMMARY ***
+Total pot 113 | No rake
+Board: [8c Jh Ad]
+Seat 8: Mauricien49 won 113
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 1 - HandId: #473298154704339011-11-1425411078 - Holdem no limit (15/30) - 2015/03/03 19:31:18 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #6 is the button
+Seat 1: sabre_laser (4250)
+Seat 2: 64butcher59 (4090)
+Seat 3: WhY_Not_BaBy (3900)
+Seat 4: BananeNathy (3930)
+Seat 5: The_Banker (4155)
+Seat 6: MISTER--TEA (3925)
+Seat 7: Falabella (3940)
+Seat 8: Mauricien49 (4045)
+Seat 9: jyp_maths (3990)
+*** ANTE/BLINDS ***
+Falabella posts small blind 15
+Mauricien49 posts big blind 30
+Dealt to sabre_laser [Jd Qc]
+*** PRE-FLOP *** 
+jyp_maths folds
+sabre_laser raises 60 to 90
+64butcher59 folds
+WhY_Not_BaBy folds
+BananeNathy folds
+The_Banker calls 90
+MISTER--TEA folds
+Falabella calls 75
+Mauricien49 calls 60
+*** FLOP *** [Th Js Ad]
+Falabella bets 180
+Mauricien49 folds
+sabre_laser calls 180
+The_Banker folds
+*** TURN *** [Th Js Ad][Jh]
+Falabella checks
+sabre_laser checks
+*** RIVER *** [Th Js Ad Jh][9c]
+Falabella bets 480
+sabre_laser raises 480 to 960
+Falabella raises 480 to 1440
+sabre_laser calls 480
+*** SHOW DOWN ***
+sabre_laser shows [Jd Qc] (Trips of Jacks)
+Falabella shows [As Jc] (Full of Jacks and Aces)
+Falabella collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [Th Js Ad Jh 9c]
+Seat 1: sabre_laser showed [Jd Qc] and lost with Trips of Jacks
+Seat 7: Falabella (small blind) showed [As Jc] and won 3600 with Full of Jacks and Aces
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 1 - HandId: #473298154704339011-12-1425411198 - Holdem no limit (15/30) - 2015/03/03 19:33:18 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (2540)
+Seat 2: 64butcher59 (4090)
+Seat 3: WhY_Not_BaBy (3900)
+Seat 4: BananeNathy (3930)
+Seat 5: The_Banker (4065)
+Seat 6: MISTER--TEA (3925)
+Seat 7: Falabella (5830)
+Seat 8: Mauricien49 (3955)
+Seat 9: jyp_maths (3990)
+*** ANTE/BLINDS ***
+Mauricien49 posts small blind 15
+jyp_maths posts big blind 30
+Dealt to sabre_laser [6h Qs]
+*** PRE-FLOP *** 
+sabre_laser folds
+64butcher59 folds
+WhY_Not_BaBy folds
+BananeNathy folds
+The_Banker folds
+MISTER--TEA folds
+Falabella calls 30
+Mauricien49 calls 15
+jyp_maths checks
+*** FLOP *** [2s 3h 2h]
+Mauricien49 checks
+jyp_maths checks
+Falabella checks
+*** TURN *** [2s 3h 2h][2d]
+Mauricien49 checks
+jyp_maths checks
+Falabella checks
+*** RIVER *** [2s 3h 2h 2d][Jd]
+Mauricien49 checks
+jyp_maths checks
+Falabella bets 30
+Mauricien49 folds
+jyp_maths folds
+Falabella collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2s 3h 2h 2d Jd]
+Seat 7: Falabella (button) won 120
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 1 - HandId: #473298154704339011-13-1425411288 - Holdem no limit (15/30) - 2015/03/03 19:34:48 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (2540)
+Seat 2: 64butcher59 (4090)
+Seat 3: WhY_Not_BaBy (3900)
+Seat 4: BananeNathy (3930)
+Seat 5: The_Banker (4065)
+Seat 6: MISTER--TEA (3925)
+Seat 7: Falabella (5890)
+Seat 8: Mauricien49 (3925)
+Seat 9: jyp_maths (3960)
+*** ANTE/BLINDS ***
+jyp_maths posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Kc 6h]
+*** PRE-FLOP *** 
+64butcher59 folds
+WhY_Not_BaBy folds
+BananeNathy folds
+The_Banker folds
+MISTER--TEA folds
+Falabella calls 30
+Mauricien49 folds
+jyp_maths folds
+sabre_laser checks
+*** FLOP *** [Tc Ah 4s]
+sabre_laser checks
+Falabella bets 50
+sabre_laser folds
+Falabella collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [Tc Ah 4s]
+Seat 7: Falabella won 125
+
+
+Winamax Poker - Tournament "KING 5 - Stade 1E" buyIn: Ticket only level: 2 - HandId: #473298154704339011-14-1425411398 - Holdem no limit (20/40) - 2015/03/03 19:36:38 UTC
+Table: 'KING 5 - Stade 1E(110198314)#066' 9-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (2510)
+Seat 2: 64butcher59 (4090)
+Seat 3: WhY_Not_BaBy (3900)
+Seat 4: BananeNathy (3930)
+Seat 5: The_Banker (4065)
+Seat 6: MISTER--TEA (3925)
+Seat 7: Falabella (5935)
+Seat 8: Mauricien49 (3925)
+Seat 9: jyp_maths (3945)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+64butcher59 posts big blind 40
+Dealt to sabre_laser [Ac As]
+*** PRE-FLOP *** 
+WhY_Not_BaBy folds
+BananeNathy folds
+The_Banker folds
+MISTER--TEA folds
+Falabella folds
+Mauricien49 folds
+jyp_maths folds
+sabre_laser raises 40 to 80
+64butcher59 raises 4010 to 4090 and is all-in
+sabre_laser calls 2430 and is all-in
+*** FLOP *** [9s 4c Js]
+*** TURN *** [9s 4c Js][Th]
+*** RIVER *** [9s 4c Js Th][8h]
+*** SHOW DOWN ***
+sabre_laser shows [Ac As] (One pair : Aces)
+64butcher59 shows [Qs Ah] (Straight Queen high)
+64butcher59 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Board: [9s 4c Js Th 8h]
+Seat 1: sabre_laser (small blind) showed [Ac As] and lost with One pair : Aces
+Seat 2: 64butcher59 (big blind) showed [Qs Ah] and won 6600 with Straight Queen high
+
+

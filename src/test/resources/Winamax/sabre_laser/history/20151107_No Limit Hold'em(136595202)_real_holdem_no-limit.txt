@@ -1,0 +1,2265 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586671925380513793-1-1446904723 - Holdem no limit (10/20) - 2015/11/07 13:58:43 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #9 is the button
+Seat 1: christymanon (1500)
+Seat 2: RAPHI2720 (1500)
+Seat 3: spartacus70 (1500)
+Seat 4: Thomro (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: miguel3010 (1500)
+Seat 7: guims28 (1500)
+Seat 8: alison93 (1500)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (1500)
+*** ANTE/BLINDS ***
+Azerty1302 posts small blind 10
+christymanon posts big blind 20
+Dealt to sabre_laser [Ad 9d]
+*** PRE-FLOP *** 
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser raises 30 to 50
+miguel3010 calls 50
+guims28 calls 50
+alison93 calls 50
+maficell folds
+Azerty1302 folds
+christymanon calls 30
+*** FLOP *** [8c Tc 2s]
+christymanon bets 20
+sabre_laser folds
+miguel3010 calls 20
+guims28 calls 20
+alison93 calls 20
+*** TURN *** [8c Tc 2s][5s]
+christymanon bets 40
+miguel3010 calls 40
+guims28 raises 460 to 500
+alison93 folds
+christymanon calls 460
+miguel3010 folds
+*** RIVER *** [8c Tc 2s 5s][Ah]
+christymanon checks
+guims28 bets 930 and is all-in
+christymanon folds
+guims28 collected 2310 from pot
+*** SUMMARY ***
+Total pot 2310 | No rake
+Board: [8c Tc 2s 5s Ah]
+Seat 7: guims28 won 2310
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586671925380513793-2-1446904789 - Holdem no limit (10/20) - 2015/11/07 13:59:49 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #10 is the button
+Seat 1: christymanon (930)
+Seat 2: RAPHI2720 (1500)
+Seat 3: spartacus70 (1500)
+Seat 4: Thomro (1500)
+Seat 5: sabre_laser (1450)
+Seat 6: miguel3010 (1390)
+Seat 7: guims28 (2310)
+Seat 8: alison93 (1430)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (1490)
+*** ANTE/BLINDS ***
+christymanon posts small blind 10
+RAPHI2720 posts big blind 20
+Dealt to sabre_laser [Ad 3d]
+*** PRE-FLOP *** 
+spartacus70 folds
+Thomro folds
+sabre_laser calls 20
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 raises 853 to 873
+christymanon calls 863
+RAPHI2720 folds
+sabre_laser folds
+*** FLOP *** [6d 8d Tc]
+christymanon bets 20
+Azerty1302 calls 20
+*** TURN *** [6d 8d Tc][4s]
+christymanon bets 20
+Azerty1302 calls 20
+*** RIVER *** [6d 8d Tc 4s][2h]
+christymanon checks
+Azerty1302 checks
+*** SHOW DOWN ***
+christymanon shows [Ah 9h] (High card : Ace)
+Azerty1302 shows [As Kc] (High card : Ace)
+Azerty1302 collected 1866 from pot
+*** SUMMARY ***
+Total pot 1866 | No rake
+Board: [6d 8d Tc 4s 2h]
+Seat 1: christymanon (small blind) showed [Ah 9h] and lost with High card : Ace
+Seat 10: Azerty1302 (button) showed [As Kc] and won 1866 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586671925380513793-3-1446904843 - Holdem no limit (10/20) - 2015/11/07 14:00:43 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #1 is the button
+Seat 1: christymanon (17)
+Seat 2: RAPHI2720 (1480)
+Seat 3: spartacus70 (1500)
+Seat 4: Thomro (1500)
+Seat 5: sabre_laser (1430)
+Seat 6: miguel3010 (1390)
+Seat 7: guims28 (2310)
+Seat 8: alison93 (1430)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (2443)
+*** ANTE/BLINDS ***
+RAPHI2720 posts small blind 10
+spartacus70 posts big blind 20
+Dealt to sabre_laser [9c 5c]
+*** PRE-FLOP *** 
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 folds
+christymanon calls 17 and is all-in
+RAPHI2720 calls 10
+spartacus70 checks
+*** FLOP *** [3d Td 4d]
+RAPHI2720 checks
+spartacus70 checks
+*** TURN *** [3d Td 4d][7h]
+RAPHI2720 checks
+spartacus70 checks
+*** RIVER *** [3d Td 4d 7h][Jd]
+RAPHI2720 checks
+spartacus70 checks
+*** SHOW DOWN ***
+spartacus70 shows [Js 4s] (Two pairs : Jacks and 4)
+christymanon shows [Ad 2c] (Flush Ace high)
+RAPHI2720 shows [7c 6d] (Flush Jack high)
+RAPHI2720 collected 6 from side pot 1
+christymanon collected 51 from main pot
+*** SUMMARY ***
+Total pot 57 | No rake
+Board: [3d Td 4d 7h Jd]
+Seat 1: christymanon (button) showed [Ad 2c] and won 51 with Flush Ace high
+Seat 2: RAPHI2720 (small blind) showed [7c 6d] and won 6 with Flush Jack high
+Seat 3: spartacus70 (big blind) showed [Js 4s] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586671925380513793-4-1446904938 - Holdem no limit (10/20) - 2015/11/07 14:02:18 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #2 is the button
+Seat 1: christymanon (51)
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1480)
+Seat 4: Thomro (1500)
+Seat 5: sabre_laser (1430)
+Seat 6: miguel3010 (1390)
+Seat 7: guims28 (2310)
+Seat 8: alison93 (1430)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (2443)
+*** ANTE/BLINDS ***
+spartacus70 posts small blind 10
+Thomro posts big blind 20
+Dealt to sabre_laser [5d 5c]
+*** PRE-FLOP *** 
+sabre_laser calls 20
+miguel3010 folds
+guims28 folds
+alison93 calls 20
+maficell folds
+Azerty1302 folds
+christymanon raises 31 to 51 and is all-in
+RAPHI2720 folds
+spartacus70 calls 41
+Thomro folds
+sabre_laser calls 31
+alison93 calls 31
+*** FLOP *** [7h 3s 3h]
+spartacus70 checks
+sabre_laser bets 224
+alison93 folds
+spartacus70 folds
+*** TURN *** [7h 3s 3h][Qd]
+*** RIVER *** [7h 3s 3h Qd][Th]
+*** SHOW DOWN ***
+christymanon shows [8s Qh] (Two pairs : Queens and 3)
+sabre_laser shows [5d 5c] (Two pairs : 5 and 3)
+sabre_laser collected 224 from side pot 1
+christymanon collected 224 from main pot
+*** SUMMARY ***
+Total pot 448 | No rake
+Board: [7h 3s 3h Qd Th]
+Seat 1: christymanon showed [8s Qh] and won 224 with Two pairs : Queens and 3
+Seat 5: sabre_laser showed [5d 5c] and won 224 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #586671925380513793-5-1446905139 - Holdem no limit (10/20) - 2015/11/07 14:05:39 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #3 is the button
+Seat 1: christymanon (224)
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1480)
+Seat 5: sabre_laser (1379)
+Seat 6: miguel3010 (1390)
+Seat 7: guims28 (2310)
+Seat 8: alison93 (1379)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (2443)
+*** ANTE/BLINDS ***
+Thomro posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Td 5h]
+*** PRE-FLOP *** 
+miguel3010 folds
+guims28 calls 20
+alison93 calls 20
+maficell folds
+Azerty1302 folds
+christymanon folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser checks
+*** FLOP *** [5s Ac 4c]
+sabre_laser bets 50
+guims28 folds
+alison93 calls 50
+*** TURN *** [5s Ac 4c][Jc]
+sabre_laser bets 85
+alison93 calls 85
+*** RIVER *** [5s Ac 4c Jc][Th]
+sabre_laser bets 100
+alison93 calls 100
+*** SHOW DOWN ***
+alison93 shows [Kd Kh] (One pair : Kings)
+sabre_laser shows [Td 5h] (Two pairs : Tens and 5)
+sabre_laser collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [5s Ac 4c Jc Th]
+Seat 5: sabre_laser (big blind) showed [Td 5h] and won 540 with Two pairs : Tens and 5
+Seat 8: alison93 showed [Kd Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586671925380513793-6-1446905267 - Holdem no limit (15/30) - 2015/11/07 14:07:47 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #4 is the button
+Seat 1: christymanon (224)
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1470)
+Seat 5: sabre_laser (1664)
+Seat 6: miguel3010 (1390)
+Seat 7: guims28 (2290)
+Seat 8: alison93 (1124)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (2443)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+miguel3010 posts big blind 30
+Dealt to sabre_laser [Qd As]
+*** PRE-FLOP *** 
+guims28 calls 30
+alison93 folds
+maficell folds
+Azerty1302 raises 1468 to 1498
+christymanon calls 224 and is all-in
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+*** FLOP *** [2c 4h 6s]
+*** TURN *** [2c 4h 6s][4c]
+*** RIVER *** [2c 4h 6s 4c][7h]
+*** SHOW DOWN ***
+christymanon shows [6h Qh] (Two pairs : 6 and 4)
+Azerty1302 shows [Ks Ah] (One pair : 4)
+Azerty1302 collected 1274 from side pot 1
+christymanon collected 523 from main pot
+*** SUMMARY ***
+Total pot 1797 | No rake
+Board: [2c 4h 6s 4c 7h]
+Seat 1: christymanon showed [6h Qh] and won 523 with Two pairs : 6 and 4
+Seat 10: Azerty1302 showed [Ks Ah] and won 1274 with One pair : 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586671925380513793-7-1446905336 - Holdem no limit (15/30) - 2015/11/07 14:08:56 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #5 is the button
+Seat 1: christymanon (523)
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1470)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1360)
+Seat 7: guims28 (2260)
+Seat 8: alison93 (1124)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (2219)
+*** ANTE/BLINDS ***
+miguel3010 posts small blind 15
+guims28 posts big blind 30
+Dealt to sabre_laser [Kd 4d]
+*** PRE-FLOP *** 
+alison93 folds
+maficell folds
+Azerty1302 raises 1419 to 1449
+christymanon calls 523 and is all-in
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+*** FLOP *** [5h 6h 2d]
+*** TURN *** [5h 6h 2d][3c]
+*** RIVER *** [5h 6h 2d 3c][Qd]
+*** SHOW DOWN ***
+christymanon shows [Qh Ks] (One pair : Queens)
+Azerty1302 shows [Kc Ad] (High card : Ace)
+Azerty1302 collected 926 from side pot 1
+christymanon collected 1091 from main pot
+*** SUMMARY ***
+Total pot 2017 | No rake
+Board: [5h 6h 2d 3c Qd]
+Seat 1: christymanon showed [Qh Ks] and won 1091 with One pair : Queens
+Seat 10: Azerty1302 showed [Kc Ad] and won 926 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586671925380513793-8-1446905419 - Holdem no limit (15/30) - 2015/11/07 14:10:19 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #6 is the button
+Seat 1: christymanon (1091)
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1470)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1345)
+Seat 7: guims28 (2230)
+Seat 8: alison93 (1124)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (1696)
+*** ANTE/BLINDS ***
+guims28 posts small blind 15
+alison93 posts big blind 30
+Dealt to sabre_laser [9d Kh]
+*** PRE-FLOP *** 
+maficell folds
+Azerty1302 folds
+christymanon calls 30
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 30
+guims28 calls 15
+alison93 checks
+*** FLOP *** [7h Tc 2s]
+guims28 checks
+alison93 checks
+christymanon bets 60
+miguel3010 calls 60
+guims28 folds
+alison93 folds
+*** TURN *** [7h Tc 2s][6c]
+christymanon bets 120
+miguel3010 calls 120
+*** RIVER *** [7h Tc 2s 6c][3s]
+christymanon bets 240
+miguel3010 calls 240
+*** SHOW DOWN ***
+christymanon shows [7c Th] (Two pairs : Tens and 7)
+miguel3010 shows [6s 6h] (Trips of 6)
+miguel3010 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [7h Tc 2s 6c 3s]
+Seat 1: christymanon showed [7c Th] and lost with Two pairs : Tens and 7
+Seat 6: miguel3010 (button) showed [6s 6h] and won 960 with Trips of 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586671925380513793-9-1446905488 - Holdem no limit (15/30) - 2015/11/07 14:11:28 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #7 is the button
+Seat 1: christymanon (641)
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1470)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1855)
+Seat 7: guims28 (2200)
+Seat 8: alison93 (1094)
+Seat 9: maficell (1500)
+Seat 10: Azerty1302 (1696)
+*** ANTE/BLINDS ***
+alison93 posts small blind 15
+maficell posts big blind 30
+Dealt to sabre_laser [4h 2s]
+*** PRE-FLOP *** 
+Azerty1302 folds
+christymanon calls 30
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 30
+guims28 calls 30
+alison93 calls 15
+maficell folds
+*** FLOP *** [5s 9h 4d]
+alison93 checks
+christymanon bets 60
+miguel3010 calls 60
+guims28 raises 330 to 390
+alison93 folds
+christymanon calls 330
+miguel3010 folds
+*** TURN *** [5s 9h 4d][3d]
+christymanon bets 30
+guims28 calls 30
+*** RIVER *** [5s 9h 4d 3d][Js]
+christymanon checks
+guims28 bets 1050
+christymanon calls 191 and is all-in
+*** SHOW DOWN ***
+christymanon shows [4c 6c] (One pair : 4)
+guims28 shows [Jh Jd] (Trips of Jacks)
+guims28 collected 2291 from pot
+*** SUMMARY ***
+Total pot 2291 | No rake
+Board: [5s 9h 4d 3d Js]
+Seat 1: christymanon showed [4c 6c] and lost with One pair : 4
+Seat 7: guims28 (button) showed [Jh Jd] and won 2291 with Trips of Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586671925380513793-10-1446905546 - Holdem no limit (15/30) - 2015/11/07 14:12:26 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #8 is the button
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1470)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1765)
+Seat 7: guims28 (2991)
+Seat 8: alison93 (1064)
+Seat 9: maficell (1470)
+Seat 10: Azerty1302 (1696)
+*** ANTE/BLINDS ***
+maficell posts small blind 15
+Azerty1302 posts big blind 30
+Dealt to sabre_laser [9c 4h]
+*** PRE-FLOP *** 
+RAPHI2720 folds
+spartacus70 folds
+Thomro raises 30 to 60
+sabre_laser folds
+miguel3010 raises 30 to 90
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 folds
+Thomro calls 30
+*** FLOP *** [6d 6s 4c]
+Thomro checks
+miguel3010 bets 30
+Thomro calls 30
+*** TURN *** [6d 6s 4c][Qs]
+Thomro checks
+miguel3010 bets 30
+Thomro calls 30
+*** RIVER *** [6d 6s 4c Qs][2h]
+Thomro checks
+miguel3010 bets 210
+Thomro calls 210
+*** SHOW DOWN ***
+Thomro shows [Jh Qd] (Two pairs : Queens and 6)
+miguel3010 shows [Ad As] (Two pairs : Aces and 6)
+miguel3010 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Board: [6d 6s 4c Qs 2h]
+Seat 4: Thomro showed [Jh Qd] and lost with Two pairs : Queens and 6
+Seat 6: miguel3010 showed [Ad As] and won 765 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586671925380513793-11-1446905618 - Holdem no limit (15/30) - 2015/11/07 14:13:38 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #9 is the button
+Seat 2: RAPHI2720 (1466)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1110)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (2170)
+Seat 7: guims28 (2991)
+Seat 8: alison93 (1064)
+Seat 9: maficell (1455)
+Seat 10: Azerty1302 (1666)
+*** ANTE/BLINDS ***
+Azerty1302 posts small blind 15
+RAPHI2720 posts big blind 30
+Dealt to sabre_laser [5c 8h]
+*** PRE-FLOP *** 
+spartacus70 folds
+Thomro calls 30
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 calls 30
+maficell folds
+Azerty1302 folds
+RAPHI2720 checks
+*** FLOP *** [Qh Ks 7c]
+RAPHI2720 checks
+Thomro checks
+alison93 bets 30
+RAPHI2720 calls 30
+Thomro folds
+*** TURN *** [Qh Ks 7c][Jd]
+RAPHI2720 checks
+alison93 checks
+*** RIVER *** [Qh Ks 7c Jd][Kd]
+RAPHI2720 checks
+alison93 checks
+*** SHOW DOWN ***
+alison93 shows [7h Ac] (Two pairs : Kings and 7)
+RAPHI2720 shows [Qd Td] (Two pairs : Kings and Queens)
+RAPHI2720 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Qh Ks 7c Jd Kd]
+Seat 2: RAPHI2720 (big blind) showed [Qd Td] and won 165 with Two pairs : Kings and Queens
+Seat 8: alison93 showed [7h Ac] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #586671925380513793-12-1446905678 - Holdem no limit (15/30) - 2015/11/07 14:14:38 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #10 is the button
+Seat 2: RAPHI2720 (1571)
+Seat 3: spartacus70 (1429)
+Seat 4: Thomro (1080)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (2170)
+Seat 7: guims28 (2991)
+Seat 8: alison93 (1004)
+Seat 9: maficell (1455)
+Seat 10: Azerty1302 (1651)
+*** ANTE/BLINDS ***
+RAPHI2720 posts small blind 15
+spartacus70 posts big blind 30
+Dealt to sabre_laser [Tc Qs]
+*** PRE-FLOP *** 
+Thomro folds
+sabre_laser folds
+miguel3010 calls 30
+guims28 raises 60 to 90
+alison93 calls 90
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+miguel3010 folds
+*** FLOP *** [Ts As 5c]
+guims28 checks
+alison93 checks
+*** TURN *** [Ts As 5c][Qd]
+guims28 checks
+alison93 checks
+*** RIVER *** [Ts As 5c Qd][Qh]
+guims28 checks
+alison93 checks
+*** SHOW DOWN ***
+alison93 shows [7c 7s] (Two pairs : Queens and 7)
+guims28 shows [8c 8s] (Two pairs : Queens and 8)
+guims28 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [Ts As 5c Qd Qh]
+Seat 7: guims28 showed [8c 8s] and won 255 with Two pairs : Queens and 8
+Seat 8: alison93 showed [7c 7s] and lost with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586671925380513793-13-1446905757 - Holdem no limit (20/40) - 2015/11/07 14:15:57 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #2 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1399)
+Seat 4: Thomro (1080)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (2140)
+Seat 7: guims28 (3156)
+Seat 8: alison93 (914)
+Seat 9: maficell (1455)
+Seat 10: Azerty1302 (1651)
+*** ANTE/BLINDS ***
+spartacus70 posts small blind 20
+Thomro posts big blind 40
+Dealt to sabre_laser [Jd 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+miguel3010 calls 40
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 calls 40
+RAPHI2720 folds
+spartacus70 folds
+Thomro checks
+*** FLOP *** [Jh 2c 3h]
+Thomro checks
+miguel3010 checks
+Azerty1302 checks
+*** TURN *** [Jh 2c 3h][Qd]
+Thomro checks
+miguel3010 checks
+Azerty1302 checks
+*** RIVER *** [Jh 2c 3h Qd][8s]
+Thomro bets 65
+miguel3010 calls 65
+Azerty1302 folds
+*** SHOW DOWN ***
+miguel3010 shows [8c Ks] (One pair : 8)
+Thomro shows [Js 5c] (One pair : Jacks)
+Thomro collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Jh 2c 3h Qd 8s]
+Seat 4: Thomro (big blind) showed [Js 5c] and won 270 with One pair : Jacks
+Seat 6: miguel3010 showed [8c Ks] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586671925380513793-14-1446905829 - Holdem no limit (20/40) - 2015/11/07 14:17:09 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #3 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1379)
+Seat 4: Thomro (1245)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (2035)
+Seat 7: guims28 (3156)
+Seat 8: alison93 (914)
+Seat 9: maficell (1455)
+Seat 10: Azerty1302 (1611)
+*** ANTE/BLINDS ***
+Thomro posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [2d 7d]
+*** PRE-FLOP *** 
+miguel3010 calls 40
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser checks
+*** FLOP *** [Qh 5h Jd]
+sabre_laser checks
+miguel3010 bets 40
+sabre_laser folds
+miguel3010 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Qh 5h Jd]
+Seat 6: miguel3010 won 140
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586671925380513793-15-1446905870 - Holdem no limit (20/40) - 2015/11/07 14:17:50 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #4 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1379)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1609)
+Seat 6: miguel3010 (2095)
+Seat 7: guims28 (3156)
+Seat 8: alison93 (914)
+Seat 9: maficell (1455)
+Seat 10: Azerty1302 (1611)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+miguel3010 posts big blind 40
+Dealt to sabre_laser [3d 2c]
+*** PRE-FLOP *** 
+guims28 folds
+alison93 folds
+maficell raises 40 to 80
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 40
+*** FLOP *** [4h 8s Qc]
+miguel3010 checks
+maficell bets 180
+miguel3010 folds
+maficell collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [4h 8s Qc]
+Seat 9: maficell won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586671925380513793-16-1446905928 - Holdem no limit (20/40) - 2015/11/07 14:18:48 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #5 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1379)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (2015)
+Seat 7: guims28 (3156)
+Seat 8: alison93 (914)
+Seat 9: maficell (1555)
+Seat 10: Azerty1302 (1611)
+*** ANTE/BLINDS ***
+miguel3010 posts small blind 20
+guims28 posts big blind 40
+Dealt to sabre_laser [5h Qh]
+*** PRE-FLOP *** 
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 20
+guims28 checks
+*** FLOP *** [7d 6h 8c]
+miguel3010 checks
+guims28 checks
+*** TURN *** [7d 6h 8c][Qc]
+miguel3010 checks
+guims28 bets 80
+miguel3010 calls 80
+*** RIVER *** [7d 6h 8c Qc][6d]
+miguel3010 checks
+guims28 bets 120
+miguel3010 folds
+guims28 shows [Qs Ad] (Two pairs : Queens and 6)
+guims28 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7d 6h 8c Qc 6d]
+Seat 7: guims28 (big blind) showed [Qs Ad] and won 360 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586671925380513793-17-1446905996 - Holdem no limit (20/40) - 2015/11/07 14:19:56 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #6 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1379)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (1895)
+Seat 7: guims28 (3276)
+Seat 8: alison93 (914)
+Seat 9: maficell (1555)
+Seat 10: Azerty1302 (1611)
+*** ANTE/BLINDS ***
+guims28 posts small blind 20
+alison93 posts big blind 40
+Dealt to sabre_laser [6d 4d]
+*** PRE-FLOP *** 
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 40
+guims28 folds
+alison93 checks
+*** FLOP *** [Jh 2c 4h]
+alison93 checks
+miguel3010 checks
+*** TURN *** [Jh 2c 4h][Qs]
+alison93 bets 40
+miguel3010 calls 40
+*** RIVER *** [Jh 2c 4h Qs][6c]
+alison93 bets 40
+miguel3010 folds
+alison93 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Jh 2c 4h Qs 6c]
+Seat 8: alison93 (big blind) won 220
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586671925380513793-18-1446906049 - Holdem no limit (20/40) - 2015/11/07 14:20:49 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #7 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1379)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (1815)
+Seat 7: guims28 (3256)
+Seat 8: alison93 (1014)
+Seat 9: maficell (1555)
+Seat 10: Azerty1302 (1611)
+*** ANTE/BLINDS ***
+alison93 posts small blind 20
+maficell posts big blind 40
+Dealt to sabre_laser [6d Kd]
+*** PRE-FLOP *** 
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 40
+guims28 calls 40
+alison93 calls 20
+maficell checks
+*** FLOP *** [Qd Ah Js]
+alison93 bets 40
+maficell folds
+miguel3010 calls 40
+guims28 calls 40
+*** TURN *** [Qd Ah Js][5d]
+alison93 checks
+miguel3010 checks
+guims28 bets 140
+alison93 calls 140
+miguel3010 calls 140
+*** RIVER *** [Qd Ah Js 5d][Ts]
+alison93 bets 40
+miguel3010 calls 40
+guims28 calls 40
+*** SHOW DOWN ***
+miguel3010 shows [Jc 9h] (One pair : Jacks)
+guims28 shows [7c Qc] (One pair : Queens)
+alison93 shows [Ac Th] (Two pairs : Aces and Tens)
+alison93 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [Qd Ah Js 5d Ts]
+Seat 6: miguel3010 showed [Jc 9h] and lost with One pair : Jacks
+Seat 7: guims28 (button) showed [7c Qc] and lost with One pair : Queens
+Seat 8: alison93 (small blind) showed [Ac Th] and won 820 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #586671925380513793-19-1446906131 - Holdem no limit (20/40) - 2015/11/07 14:22:11 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #8 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1379)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (1555)
+Seat 7: guims28 (2996)
+Seat 8: alison93 (1574)
+Seat 9: maficell (1515)
+Seat 10: Azerty1302 (1611)
+*** ANTE/BLINDS ***
+maficell posts small blind 20
+Azerty1302 posts big blind 40
+Dealt to sabre_laser [2h 8h]
+*** PRE-FLOP *** 
+RAPHI2720 folds
+spartacus70 calls 40
+Thomro folds
+sabre_laser folds
+miguel3010 calls 40
+guims28 calls 40
+alison93 folds
+maficell folds
+Azerty1302 checks
+*** FLOP *** [7h 9d Qh]
+Azerty1302 checks
+spartacus70 checks
+miguel3010 checks
+guims28 checks
+*** TURN *** [7h 9d Qh][Jh]
+Azerty1302 checks
+spartacus70 checks
+miguel3010 bets 40
+guims28 calls 40
+Azerty1302 folds
+spartacus70 folds
+*** RIVER *** [7h 9d Qh Jh][8c]
+miguel3010 bets 40
+guims28 folds
+miguel3010 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7h 9d Qh Jh 8c]
+Seat 6: miguel3010 won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586671925380513793-20-1446906196 - Holdem no limit (30/60) - 2015/11/07 14:23:16 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #9 is the button
+Seat 2: RAPHI2720 (1556)
+Seat 3: spartacus70 (1339)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (1735)
+Seat 7: guims28 (2916)
+Seat 8: alison93 (1574)
+Seat 9: maficell (1495)
+Seat 10: Azerty1302 (1571)
+*** ANTE/BLINDS ***
+Azerty1302 posts small blind 30
+RAPHI2720 posts big blind 60
+Dealt to sabre_laser [5h 4c]
+*** PRE-FLOP *** 
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 calls 60
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 checks
+*** FLOP *** [7d Ah 3h]
+RAPHI2720 checks
+guims28 checks
+*** TURN *** [7d Ah 3h][7s]
+RAPHI2720 checks
+guims28 checks
+*** RIVER *** [7d Ah 3h 7s][6s]
+RAPHI2720 checks
+guims28 checks
+*** SHOW DOWN ***
+guims28 shows [Th Kd] (One pair : 7)
+RAPHI2720 shows [6d Kh] (Two pairs : 7 and 6)
+RAPHI2720 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [7d Ah 3h 7s 6s]
+Seat 2: RAPHI2720 (big blind) showed [6d Kh] and won 150 with Two pairs : 7 and 6
+Seat 7: guims28 showed [Th Kd] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586671925380513793-21-1446906280 - Holdem no limit (30/60) - 2015/11/07 14:24:40 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #10 is the button
+Seat 2: RAPHI2720 (1646)
+Seat 3: spartacus70 (1339)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (1735)
+Seat 7: guims28 (2856)
+Seat 8: alison93 (1574)
+Seat 9: maficell (1495)
+Seat 10: Azerty1302 (1541)
+*** ANTE/BLINDS ***
+RAPHI2720 posts small blind 30
+spartacus70 posts big blind 60
+Dealt to sabre_laser [9d Tc]
+*** PRE-FLOP *** 
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 calls 60
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 raises 180 to 240
+spartacus70 folds
+guims28 folds
+RAPHI2720 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: RAPHI2720 (small blind) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586671925380513793-22-1446906334 - Holdem no limit (30/60) - 2015/11/07 14:25:34 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #2 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1279)
+Seat 4: Thomro (1225)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (1735)
+Seat 7: guims28 (2796)
+Seat 8: alison93 (1574)
+Seat 9: maficell (1495)
+Seat 10: Azerty1302 (1541)
+*** ANTE/BLINDS ***
+spartacus70 posts small blind 30
+Thomro posts big blind 60
+Dealt to sabre_laser [7c 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+miguel3010 calls 60
+guims28 calls 60
+alison93 calls 60
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 calls 30
+Thomro checks
+*** FLOP *** [Tc 5h 4c]
+spartacus70 checks
+Thomro checks
+miguel3010 bets 60
+guims28 calls 60
+alison93 calls 60
+spartacus70 folds
+Thomro folds
+*** TURN *** [Tc 5h 4c][9s]
+miguel3010 bets 60
+guims28 calls 60
+alison93 calls 60
+*** RIVER *** [Tc 5h 4c 9s][4h]
+miguel3010 bets 60
+guims28 calls 60
+alison93 folds
+*** SHOW DOWN ***
+miguel3010 shows [5s 3c] (Two pairs : 5 and 4)
+guims28 shows [7s 7d] (Two pairs : 7 and 4)
+guims28 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Tc 5h 4c 9s 4h]
+Seat 6: miguel3010 showed [5s 3c] and lost with Two pairs : 5 and 4
+Seat 7: guims28 showed [7s 7d] and won 780 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586671925380513793-23-1446906399 - Holdem no limit (30/60) - 2015/11/07 14:26:39 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #3 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (1165)
+Seat 5: sabre_laser (1589)
+Seat 6: miguel3010 (1495)
+Seat 7: guims28 (3336)
+Seat 8: alison93 (1394)
+Seat 9: maficell (1495)
+Seat 10: Azerty1302 (1541)
+*** ANTE/BLINDS ***
+Thomro posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [2c Td]
+*** PRE-FLOP *** 
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell raises 60 to 120
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser calls 60
+*** FLOP *** [4d 2s 5d]
+sabre_laser bets 135
+maficell folds
+sabre_laser collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [4d 2s 5d]
+Seat 5: sabre_laser (big blind) won 405
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586671925380513793-24-1446906447 - Holdem no limit (30/60) - 2015/11/07 14:27:27 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #4 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (1135)
+Seat 5: sabre_laser (1739)
+Seat 6: miguel3010 (1495)
+Seat 7: guims28 (3336)
+Seat 8: alison93 (1394)
+Seat 9: maficell (1375)
+Seat 10: Azerty1302 (1541)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+miguel3010 posts big blind 60
+Dealt to sabre_laser [5d 2c]
+*** PRE-FLOP *** 
+guims28 folds
+alison93 calls 60
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro calls 60
+sabre_laser calls 30
+miguel3010 checks
+*** FLOP *** [4h Tc Qs]
+sabre_laser checks
+miguel3010 bets 60
+alison93 calls 60
+Thomro folds
+sabre_laser folds
+*** TURN *** [4h Tc Qs][2s]
+miguel3010 bets 60
+alison93 calls 60
+*** RIVER *** [4h Tc Qs 2s][Ad]
+miguel3010 bets 60
+alison93 folds
+miguel3010 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [4h Tc Qs 2s Ad]
+Seat 6: miguel3010 (big blind) won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586671925380513793-25-1446906546 - Holdem no limit (30/60) - 2015/11/07 14:29:06 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #5 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (1075)
+Seat 5: sabre_laser (1679)
+Seat 6: miguel3010 (1795)
+Seat 7: guims28 (3336)
+Seat 8: alison93 (1214)
+Seat 9: maficell (1375)
+Seat 10: Azerty1302 (1541)
+*** ANTE/BLINDS ***
+miguel3010 posts small blind 30
+guims28 posts big blind 60
+Dealt to sabre_laser [Qc 4d]
+*** PRE-FLOP *** 
+alison93 folds
+maficell raises 60 to 120
+Azerty1302 calls 120
+RAPHI2720 folds
+spartacus70 folds
+Thomro calls 120
+sabre_laser folds
+miguel3010 calls 90
+guims28 folds
+*** FLOP *** [5d Jh Kh]
+miguel3010 checks
+maficell checks
+Azerty1302 checks
+Thomro bets 170
+miguel3010 folds
+maficell raises 170 to 340
+Azerty1302 folds
+Thomro calls 170
+*** TURN *** [5d Jh Kh][9d]
+maficell bets 915 and is all-in
+Thomro folds
+maficell collected 2135 from pot
+*** SUMMARY ***
+Total pot 2135 | No rake
+Board: [5d Jh Kh 9d]
+Seat 9: maficell won 2135
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #586671925380513793-26-1446906629 - Holdem no limit (30/60) - 2015/11/07 14:30:29 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #6 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (615)
+Seat 5: sabre_laser (1679)
+Seat 6: miguel3010 (1675)
+Seat 7: guims28 (3276)
+Seat 8: alison93 (1214)
+Seat 9: maficell (2135)
+Seat 10: Azerty1302 (1421)
+*** ANTE/BLINDS ***
+guims28 posts small blind 30
+alison93 posts big blind 60
+Dealt to sabre_laser [7c As]
+*** PRE-FLOP *** 
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser raises 60 to 120
+miguel3010 folds
+guims28 folds
+alison93 folds
+sabre_laser collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 5: sabre_laser won 210
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-27-1446906669 - Holdem no limit (40/80) - 2015/11/07 14:31:09 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #7 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (615)
+Seat 5: sabre_laser (1769)
+Seat 6: miguel3010 (1675)
+Seat 7: guims28 (3246)
+Seat 8: alison93 (1154)
+Seat 9: maficell (2135)
+Seat 10: Azerty1302 (1421)
+*** ANTE/BLINDS ***
+alison93 posts small blind 40
+maficell posts big blind 80
+Dealt to sabre_laser [3h As]
+*** PRE-FLOP *** 
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 80
+guims28 folds
+alison93 folds
+maficell checks
+*** FLOP *** [Ah 4d 9s]
+maficell checks
+miguel3010 checks
+*** TURN *** [Ah 4d 9s][2s]
+maficell checks
+miguel3010 bets 80
+maficell calls 80
+*** RIVER *** [Ah 4d 9s 2s][6d]
+maficell checks
+miguel3010 bets 80
+maficell folds
+miguel3010 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Ah 4d 9s 2s 6d]
+Seat 6: miguel3010 won 440
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-28-1446906713 - Holdem no limit (40/80) - 2015/11/07 14:31:53 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #8 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (615)
+Seat 5: sabre_laser (1769)
+Seat 6: miguel3010 (1875)
+Seat 7: guims28 (3246)
+Seat 8: alison93 (1114)
+Seat 9: maficell (1975)
+Seat 10: Azerty1302 (1421)
+*** ANTE/BLINDS ***
+maficell posts small blind 40
+Azerty1302 posts big blind 80
+Dealt to sabre_laser [Jd 4s]
+*** PRE-FLOP *** 
+RAPHI2720 folds
+spartacus70 folds
+Thomro raises 535 to 615 and is all-in
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell calls 575
+Azerty1302 folds
+*** FLOP *** [3c Ad 9s]
+*** TURN *** [3c Ad 9s][7d]
+*** RIVER *** [3c Ad 9s 7d][Ts]
+*** SHOW DOWN ***
+maficell shows [5h 5c] (One pair : 5)
+Thomro shows [Qd Qc] (One pair : Queens)
+Thomro collected 1310 from pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Board: [3c Ad 9s 7d Ts]
+Seat 4: Thomro showed [Qd Qc] and won 1310 with One pair : Queens
+Seat 9: maficell (small blind) showed [5h 5c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-29-1446906757 - Holdem no limit (40/80) - 2015/11/07 14:32:37 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #9 is the button
+Seat 2: RAPHI2720 (1766)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (1310)
+Seat 5: sabre_laser (1769)
+Seat 6: miguel3010 (1875)
+Seat 7: guims28 (3246)
+Seat 8: alison93 (1114)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1341)
+*** ANTE/BLINDS ***
+Azerty1302 posts small blind 40
+RAPHI2720 posts big blind 80
+Dealt to sabre_laser [3c Ts]
+*** PRE-FLOP *** 
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 80
+guims28 folds
+alison93 calls 80
+maficell folds
+Azerty1302 folds
+RAPHI2720 checks
+*** FLOP *** [Jh 9d Qs]
+RAPHI2720 bets 210
+miguel3010 calls 210
+alison93 folds
+*** TURN *** [Jh 9d Qs][4s]
+RAPHI2720 bets 525
+miguel3010 folds
+RAPHI2720 collected 1225 from pot
+*** SUMMARY ***
+Total pot 1225 | No rake
+Board: [Jh 9d Qs 4s]
+Seat 2: RAPHI2720 (big blind) won 1225
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-30-1446906812 - Holdem no limit (40/80) - 2015/11/07 14:33:32 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #10 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1219)
+Seat 4: Thomro (1310)
+Seat 5: sabre_laser (1769)
+Seat 6: miguel3010 (1585)
+Seat 7: guims28 (3246)
+Seat 8: alison93 (1034)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1301)
+*** ANTE/BLINDS ***
+RAPHI2720 posts small blind 40
+spartacus70 posts big blind 80
+Dealt to sabre_laser [Th 8h]
+*** PRE-FLOP *** 
+Thomro folds
+sabre_laser folds
+miguel3010 calls 80
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 raises 2096 to 2176 and is all-in
+spartacus70 folds
+miguel3010 folds
+RAPHI2720 collected 2336 from pot
+*** SUMMARY ***
+Total pot 2336 | No rake
+Seat 2: RAPHI2720 (small blind) won 2336
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-31-1446906879 - Holdem no limit (40/80) - 2015/11/07 14:34:39 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #2 is the button
+Seat 2: RAPHI2720 (2336)
+Seat 3: spartacus70 (1139)
+Seat 4: Thomro (1310)
+Seat 5: sabre_laser (1769)
+Seat 6: miguel3010 (1505)
+Seat 7: guims28 (3246)
+Seat 8: alison93 (1034)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1301)
+*** ANTE/BLINDS ***
+spartacus70 posts small blind 40
+Thomro posts big blind 80
+Dealt to sabre_laser [Js Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 raises 80 to 160
+spartacus70 folds
+Thomro raises 300 to 460
+RAPHI2720 folds
+Thomro collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 4: Thomro (big blind) won 660
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-32-1446906939 - Holdem no limit (40/80) - 2015/11/07 14:35:39 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #3 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1099)
+Seat 4: Thomro (1510)
+Seat 5: sabre_laser (1769)
+Seat 6: miguel3010 (1505)
+Seat 7: guims28 (3246)
+Seat 8: alison93 (1034)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1301)
+*** ANTE/BLINDS ***
+Thomro posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Kh 9c]
+*** PRE-FLOP *** 
+miguel3010 folds
+guims28 calls 80
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro calls 40
+sabre_laser checks
+*** FLOP *** [3h 5d 7h]
+Thomro checks
+sabre_laser checks
+guims28 checks
+*** TURN *** [3h 5d 7h][Ad]
+Thomro bets 95
+sabre_laser folds
+guims28 folds
+Thomro collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Board: [3h 5d 7h Ad]
+Seat 4: Thomro (small blind) won 335
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-33-1446906994 - Holdem no limit (40/80) - 2015/11/07 14:36:34 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #4 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1099)
+Seat 4: Thomro (1670)
+Seat 5: sabre_laser (1689)
+Seat 6: miguel3010 (1505)
+Seat 7: guims28 (3166)
+Seat 8: alison93 (1034)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1301)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+miguel3010 posts big blind 80
+Dealt to sabre_laser [3s 2c]
+*** PRE-FLOP *** 
+guims28 calls 80
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 checks
+*** FLOP *** [Td Qh 2d]
+miguel3010 bets 80
+guims28 raises 360 to 440
+miguel3010 folds
+guims28 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Td Qh 2d]
+Seat 7: guims28 won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-34-1446907033 - Holdem no limit (40/80) - 2015/11/07 14:37:13 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #5 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1099)
+Seat 4: Thomro (1670)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1345)
+Seat 7: guims28 (3366)
+Seat 8: alison93 (1034)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1301)
+*** ANTE/BLINDS ***
+miguel3010 posts small blind 40
+guims28 posts big blind 80
+Dealt to sabre_laser [Ts Kd]
+*** PRE-FLOP *** 
+alison93 folds
+maficell folds
+Azerty1302 calls 80
+RAPHI2720 folds
+spartacus70 raises 1019 to 1099 and is all-in
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+Azerty1302 folds
+spartacus70 collected 1299 from pot
+*** SUMMARY ***
+Total pot 1299 | No rake
+Seat 3: spartacus70 won 1299
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-35-1446907068 - Holdem no limit (40/80) - 2015/11/07 14:37:48 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #6 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1299)
+Seat 4: Thomro (1670)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1305)
+Seat 7: guims28 (3286)
+Seat 8: alison93 (1034)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1221)
+*** ANTE/BLINDS ***
+guims28 posts small blind 40
+alison93 posts big blind 80
+Dealt to sabre_laser [5h 7h]
+*** PRE-FLOP *** 
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 80
+guims28 calls 40
+alison93 checks
+*** FLOP *** [8c Th 7c]
+guims28 checks
+alison93 bets 80
+miguel3010 calls 80
+guims28 folds
+*** TURN *** [8c Th 7c][2d]
+alison93 bets 80
+miguel3010 calls 80
+*** RIVER *** [8c Th 7c 2d][Kh]
+alison93 checks
+miguel3010 bets 160
+alison93 folds
+miguel3010 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [8c Th 7c 2d Kh]
+Seat 6: miguel3010 (button) won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #586671925380513793-36-1446907118 - Holdem no limit (40/80) - 2015/11/07 14:38:38 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #7 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1299)
+Seat 4: Thomro (1670)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1625)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (794)
+Seat 9: maficell (1360)
+Seat 10: Azerty1302 (1221)
+*** ANTE/BLINDS ***
+alison93 posts small blind 40
+maficell posts big blind 80
+Dealt to sabre_laser [2d Jc]
+*** PRE-FLOP *** 
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro raises 100 to 180
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell folds
+Thomro collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 4: Thomro won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-37-1446907148 - Holdem no limit (60/120) - 2015/11/07 14:39:08 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #8 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1299)
+Seat 4: Thomro (1790)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1625)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (754)
+Seat 9: maficell (1280)
+Seat 10: Azerty1302 (1221)
+*** ANTE/BLINDS ***
+maficell posts small blind 60
+Azerty1302 posts big blind 120
+Dealt to sabre_laser [Ac 3h]
+*** PRE-FLOP *** 
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 10: Azerty1302 (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-38-1446907176 - Holdem no limit (60/120) - 2015/11/07 14:39:36 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #9 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1299)
+Seat 4: Thomro (1790)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1625)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (754)
+Seat 9: maficell (1220)
+Seat 10: Azerty1302 (1281)
+*** ANTE/BLINDS ***
+Azerty1302 posts small blind 60
+RAPHI2720 posts big blind 120
+Dealt to sabre_laser [4c 2s]
+*** PRE-FLOP *** 
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: RAPHI2720 (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-39-1446907195 - Holdem no limit (60/120) - 2015/11/07 14:39:55 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #10 is the button
+Seat 2: RAPHI2720 (2236)
+Seat 3: spartacus70 (1299)
+Seat 4: Thomro (1790)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1625)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (754)
+Seat 9: maficell (1220)
+Seat 10: Azerty1302 (1221)
+*** ANTE/BLINDS ***
+RAPHI2720 posts small blind 60
+spartacus70 posts big blind 120
+Dealt to sabre_laser [8s 2d]
+*** PRE-FLOP *** 
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 calls 120
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 checks
+*** FLOP *** [9d Td Jh]
+spartacus70 checks
+alison93 checks
+*** TURN *** [9d Td Jh][3h]
+spartacus70 bets 120
+alison93 calls 120
+*** RIVER *** [9d Td Jh 3h][Jc]
+spartacus70 bets 120
+alison93 calls 120
+*** SHOW DOWN ***
+alison93 shows [6s 6d] (Two pairs : Jacks and 6)
+spartacus70 shows [Ad 9s] (Two pairs : Jacks and 9)
+spartacus70 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [9d Td Jh 3h Jc]
+Seat 3: spartacus70 (big blind) showed [Ad 9s] and won 780 with Two pairs : Jacks and 9
+Seat 8: alison93 showed [6s 6d] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-40-1446907259 - Holdem no limit (60/120) - 2015/11/07 14:40:59 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #2 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1719)
+Seat 4: Thomro (1790)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1625)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (394)
+Seat 9: maficell (1220)
+Seat 10: Azerty1302 (1221)
+*** ANTE/BLINDS ***
+spartacus70 posts small blind 60
+Thomro posts big blind 120
+Dealt to sabre_laser [8c 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: Thomro (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-41-1446907295 - Holdem no limit (60/120) - 2015/11/07 14:41:35 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #3 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1659)
+Seat 4: Thomro (1850)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (1625)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (394)
+Seat 9: maficell (1220)
+Seat 10: Azerty1302 (1221)
+*** ANTE/BLINDS ***
+Thomro posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [2h Qd]
+*** PRE-FLOP *** 
+miguel3010 calls 120
+guims28 folds
+alison93 folds
+maficell folds
+Azerty1302 raises 1101 to 1221 and is all-in
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 1101
+*** FLOP *** [3s 3c 5d]
+*** TURN *** [3s 3c 5d][Jc]
+*** RIVER *** [3s 3c 5d Jc][Qs]
+*** SHOW DOWN ***
+Azerty1302 shows [7d 7c] (Two pairs : 7 and 3)
+miguel3010 shows [As Qc] (Two pairs : Queens and 3)
+miguel3010 collected 2622 from pot
+*** SUMMARY ***
+Total pot 2622 | No rake
+Board: [3s 3c 5d Jc Qs]
+Seat 6: miguel3010 showed [As Qc] and won 2622 with Two pairs : Queens and 3
+Seat 10: Azerty1302 showed [7d 7c] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-42-1446907351 - Holdem no limit (60/120) - 2015/11/07 14:42:31 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #4 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1659)
+Seat 4: Thomro (1790)
+Seat 5: sabre_laser (1529)
+Seat 6: miguel3010 (3026)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (394)
+Seat 9: maficell (1220)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+miguel3010 posts big blind 120
+Dealt to sabre_laser [2c 3h]
+*** PRE-FLOP *** 
+guims28 folds
+alison93 folds
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro raises 130 to 250
+sabre_laser folds
+miguel3010 folds
+Thomro collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 4: Thomro (button) won 430
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-43-1446907377 - Holdem no limit (60/120) - 2015/11/07 14:42:57 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #5 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1659)
+Seat 4: Thomro (1970)
+Seat 5: sabre_laser (1469)
+Seat 6: miguel3010 (2906)
+Seat 7: guims28 (3206)
+Seat 8: alison93 (394)
+Seat 9: maficell (1220)
+*** ANTE/BLINDS ***
+miguel3010 posts small blind 60
+guims28 posts big blind 120
+Dealt to sabre_laser [6s 3h]
+*** PRE-FLOP *** 
+alison93 calls 120
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 checks
+*** FLOP *** [8c Kd 2c]
+guims28 checks
+alison93 bets 274 and is all-in
+guims28 calls 274
+*** TURN *** [8c Kd 2c][Ad]
+*** RIVER *** [8c Kd 2c Ad][6c]
+*** SHOW DOWN ***
+alison93 shows [3d 3s] (One pair : 3)
+guims28 shows [Tc Jc] (Flush Jack high)
+guims28 collected 848 from pot
+*** SUMMARY ***
+Total pot 848 | No rake
+Board: [8c Kd 2c Ad 6c]
+Seat 7: guims28 (big blind) showed [Tc Jc] and won 848 with Flush Jack high
+Seat 8: alison93 showed [3d 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-44-1446907474 - Holdem no limit (60/120) - 2015/11/07 14:44:34 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #6 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1659)
+Seat 4: Thomro (1970)
+Seat 5: sabre_laser (1469)
+Seat 6: miguel3010 (2846)
+Seat 7: guims28 (3660)
+Seat 9: maficell (1220)
+*** ANTE/BLINDS ***
+guims28 posts small blind 60
+maficell posts big blind 120
+Dealt to sabre_laser [8d 2h]
+*** PRE-FLOP *** 
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 calls 60
+maficell checks
+*** FLOP *** [7s 9c 8c]
+guims28 checks
+maficell checks
+*** TURN *** [7s 9c 8c][6s]
+guims28 checks
+maficell checks
+*** RIVER *** [7s 9c 8c 6s][Kc]
+guims28 checks
+maficell bets 1100 and is all-in
+guims28 folds
+maficell collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | No rake
+Board: [7s 9c 8c 6s Kc]
+Seat 9: maficell (big blind) won 1340
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-45-1446907515 - Holdem no limit (60/120) - 2015/11/07 14:45:15 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #7 is the button
+Seat 2: RAPHI2720 (2176)
+Seat 3: spartacus70 (1659)
+Seat 4: Thomro (1970)
+Seat 5: sabre_laser (1469)
+Seat 6: miguel3010 (2846)
+Seat 7: guims28 (3540)
+Seat 9: maficell (1340)
+*** ANTE/BLINDS ***
+maficell posts small blind 60
+RAPHI2720 posts big blind 120
+Dealt to sabre_laser [Ac 6d]
+*** PRE-FLOP *** 
+spartacus70 folds
+Thomro folds
+sabre_laser raises 120 to 240
+miguel3010 folds
+guims28 folds
+maficell folds
+RAPHI2720 folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: sabre_laser won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-46-1446907548 - Holdem no limit (60/120) - 2015/11/07 14:45:48 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #9 is the button
+Seat 2: RAPHI2720 (2056)
+Seat 3: spartacus70 (1659)
+Seat 4: Thomro (1970)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (2846)
+Seat 7: guims28 (3540)
+Seat 9: maficell (1280)
+*** ANTE/BLINDS ***
+RAPHI2720 posts small blind 60
+spartacus70 posts big blind 120
+Dealt to sabre_laser [8s Th]
+*** PRE-FLOP *** 
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 raises 120 to 240
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+guims28 shows [As Qs] (High card : Ace)
+guims28 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 7: guims28 showed [As Qs] and won 420 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #586671925380513793-47-1446907577 - Holdem no limit (60/120) - 2015/11/07 14:46:17 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #2 is the button
+Seat 2: RAPHI2720 (1996)
+Seat 3: spartacus70 (1539)
+Seat 4: Thomro (1970)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (2846)
+Seat 7: guims28 (3720)
+Seat 9: maficell (1280)
+*** ANTE/BLINDS ***
+spartacus70 posts small blind 60
+Thomro posts big blind 120
+Dealt to sabre_laser [3c 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+miguel3010 folds
+guims28 calls 120
+maficell folds
+RAPHI2720 folds
+spartacus70 calls 60
+Thomro checks
+*** FLOP *** [Jc Jh 4s]
+spartacus70 checks
+Thomro checks
+guims28 checks
+*** TURN *** [Jc Jh 4s][3s]
+spartacus70 checks
+Thomro bets 180
+guims28 folds
+spartacus70 folds
+Thomro collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Jc Jh 4s 3s]
+Seat 4: Thomro (big blind) won 540
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-48-1446907638 - Holdem no limit (80/160) - 2015/11/07 14:47:18 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #3 is the button
+Seat 2: RAPHI2720 (1996)
+Seat 3: spartacus70 (1419)
+Seat 4: Thomro (2210)
+Seat 5: sabre_laser (1649)
+Seat 6: miguel3010 (2846)
+Seat 7: guims28 (3600)
+Seat 9: maficell (1280)
+*** ANTE/BLINDS ***
+Thomro posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [4c 6d]
+*** PRE-FLOP *** 
+miguel3010 calls 160
+guims28 folds
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser checks
+*** FLOP *** [Qd Ks 6c]
+sabre_laser bets 160
+miguel3010 calls 160
+*** TURN *** [Qd Ks 6c][3h]
+sabre_laser checks
+miguel3010 bets 160
+sabre_laser calls 160
+*** RIVER *** [Qd Ks 6c 3h][2c]
+sabre_laser checks
+miguel3010 bets 160
+sabre_laser calls 160
+*** SHOW DOWN ***
+sabre_laser shows [4c 6d] (One pair : 6)
+miguel3010 shows [As Ah] (One pair : Aces)
+miguel3010 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [Qd Ks 6c 3h 2c]
+Seat 5: sabre_laser (big blind) showed [4c 6d] and lost with One pair : 6
+Seat 6: miguel3010 showed [As Ah] and won 1360 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-49-1446907753 - Holdem no limit (80/160) - 2015/11/07 14:49:13 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #4 is the button
+Seat 2: RAPHI2720 (1996)
+Seat 3: spartacus70 (1419)
+Seat 4: Thomro (2130)
+Seat 5: sabre_laser (1009)
+Seat 6: miguel3010 (3566)
+Seat 7: guims28 (3600)
+Seat 9: maficell (1280)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+miguel3010 posts big blind 160
+Dealt to sabre_laser [2d 3c]
+*** PRE-FLOP *** 
+guims28 folds
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro raises 180 to 340
+sabre_laser folds
+miguel3010 folds
+Thomro collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 4: Thomro (button) won 580
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-50-1446907795 - Holdem no limit (80/160) - 2015/11/07 14:49:55 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #5 is the button
+Seat 2: RAPHI2720 (1996)
+Seat 3: spartacus70 (1419)
+Seat 4: Thomro (2370)
+Seat 5: sabre_laser (929)
+Seat 6: miguel3010 (3406)
+Seat 7: guims28 (3600)
+Seat 9: maficell (1280)
+*** ANTE/BLINDS ***
+miguel3010 posts small blind 80
+guims28 posts big blind 160
+Dealt to sabre_laser [3d 5d]
+*** PRE-FLOP *** 
+maficell raises 1120 to 1280 and is all-in
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 folds
+guims28 folds
+maficell collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Seat 9: maficell won 1520
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-51-1446907826 - Holdem no limit (80/160) - 2015/11/07 14:50:26 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #6 is the button
+Seat 2: RAPHI2720 (1996)
+Seat 3: spartacus70 (1419)
+Seat 4: Thomro (2370)
+Seat 5: sabre_laser (929)
+Seat 6: miguel3010 (3326)
+Seat 7: guims28 (3440)
+Seat 9: maficell (1520)
+*** ANTE/BLINDS ***
+guims28 posts small blind 80
+maficell posts big blind 160
+Dealt to sabre_laser [6h 8d]
+*** PRE-FLOP *** 
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 160
+guims28 calls 80
+maficell checks
+*** FLOP *** [8h 5d Qh]
+guims28 checks
+maficell checks
+miguel3010 bets 160
+guims28 folds
+maficell folds
+miguel3010 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [8h 5d Qh]
+Seat 6: miguel3010 (button) won 640
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-52-1446907885 - Holdem no limit (80/160) - 2015/11/07 14:51:25 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #7 is the button
+Seat 2: RAPHI2720 (1996)
+Seat 3: spartacus70 (1419)
+Seat 4: Thomro (2370)
+Seat 5: sabre_laser (929)
+Seat 6: miguel3010 (3646)
+Seat 7: guims28 (3280)
+Seat 9: maficell (1360)
+*** ANTE/BLINDS ***
+maficell posts small blind 80
+RAPHI2720 posts big blind 160
+Dealt to sabre_laser [8h 3s]
+*** PRE-FLOP *** 
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 calls 160
+guims28 folds
+maficell calls 80
+RAPHI2720 checks
+*** FLOP *** [6h 5d 4c]
+maficell checks
+RAPHI2720 checks
+miguel3010 checks
+*** TURN *** [6h 5d 4c][7s]
+maficell checks
+RAPHI2720 checks
+miguel3010 checks
+*** RIVER *** [6h 5d 4c 7s][Jd]
+maficell bets 160
+RAPHI2720 folds
+miguel3010 calls 160
+*** SHOW DOWN ***
+miguel3010 shows [Kc 4s] (One pair : 4)
+maficell shows [8d Td] (Straight 8 high)
+maficell collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [6h 5d 4c 7s Jd]
+Seat 6: miguel3010 showed [Kc 4s] and lost with One pair : 4
+Seat 9: maficell (small blind) showed [8d Td] and won 800 with Straight 8 high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-53-1446907977 - Holdem no limit (80/160) - 2015/11/07 14:52:57 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #9 is the button
+Seat 2: RAPHI2720 (1836)
+Seat 3: spartacus70 (1419)
+Seat 4: Thomro (2370)
+Seat 5: sabre_laser (929)
+Seat 6: miguel3010 (3326)
+Seat 7: guims28 (3280)
+Seat 9: maficell (1840)
+*** ANTE/BLINDS ***
+RAPHI2720 posts small blind 80
+spartacus70 posts big blind 160
+Dealt to sabre_laser [2h As]
+*** PRE-FLOP *** 
+Thomro folds
+sabre_laser raises 769 to 929 and is all-in
+miguel3010 folds
+guims28 folds
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+sabre_laser collected 1169 from pot
+*** SUMMARY ***
+Total pot 1169 | No rake
+Seat 5: sabre_laser won 1169
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-54-1446907995 - Holdem no limit (80/160) - 2015/11/07 14:53:15 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #2 is the button
+Seat 2: RAPHI2720 (1756)
+Seat 3: spartacus70 (1259)
+Seat 4: Thomro (2370)
+Seat 5: sabre_laser (1169)
+Seat 6: miguel3010 (3326)
+Seat 7: guims28 (3280)
+Seat 9: maficell (1840)
+*** ANTE/BLINDS ***
+spartacus70 posts small blind 80
+Thomro posts big blind 160
+Dealt to sabre_laser [2s Th]
+*** PRE-FLOP *** 
+sabre_laser folds
+miguel3010 calls 160
+guims28 calls 160
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro checks
+*** FLOP *** [4c 9d Js]
+Thomro checks
+miguel3010 bets 160
+guims28 calls 160
+Thomro folds
+*** TURN *** [4c 9d Js][Tc]
+miguel3010 bets 160
+guims28 calls 160
+*** RIVER *** [4c 9d Js Tc][9h]
+miguel3010 bets 160
+guims28 raises 1520 to 1680
+miguel3010 folds
+guims28 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [4c 9d Js Tc 9h]
+Seat 7: guims28 won 3040
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #586671925380513793-55-1446908047 - Holdem no limit (80/160) - 2015/11/07 14:54:07 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #3 is the button
+Seat 2: RAPHI2720 (1756)
+Seat 3: spartacus70 (1179)
+Seat 4: Thomro (2210)
+Seat 5: sabre_laser (1169)
+Seat 6: miguel3010 (2686)
+Seat 7: guims28 (4160)
+Seat 9: maficell (1840)
+*** ANTE/BLINDS ***
+Thomro posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Kh 3d]
+*** PRE-FLOP *** 
+miguel3010 calls 160
+guims28 calls 160
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser checks
+*** FLOP *** [8h 2h 7c]
+sabre_laser checks
+miguel3010 checks
+guims28 checks
+*** TURN *** [8h 2h 7c][As]
+sabre_laser checks
+miguel3010 checks
+guims28 checks
+*** RIVER *** [8h 2h 7c As][Qh]
+sabre_laser checks
+miguel3010 bets 160
+guims28 folds
+sabre_laser folds
+miguel3010 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [8h 2h 7c As Qh]
+Seat 6: miguel3010 won 720
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586671925380513793-56-1446908095 - Holdem no limit (10/100/200) - 2015/11/07 14:54:55 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #4 is the button
+Seat 2: RAPHI2720 (1756)
+Seat 3: spartacus70 (1179)
+Seat 4: Thomro (2130)
+Seat 5: sabre_laser (1009)
+Seat 6: miguel3010 (3086)
+Seat 7: guims28 (4000)
+Seat 9: maficell (1840)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+miguel3010 posts ante 10
+RAPHI2720 posts ante 10
+spartacus70 posts ante 10
+Thomro posts ante 10
+guims28 posts ante 10
+maficell posts ante 10
+sabre_laser posts small blind 100
+miguel3010 posts big blind 200
+Dealt to sabre_laser [2c 3s]
+*** PRE-FLOP *** 
+guims28 folds
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser folds
+miguel3010 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 6: miguel3010 (big blind) won 370
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #586671925380513793-57-1446908115 - Holdem no limit (10/100/200) - 2015/11/07 14:55:15 UTC
+Table: 'No Limit Hold'em(136595202)#0' 10-max (real money) Seat #5 is the button
+Seat 2: RAPHI2720 (1746)
+Seat 3: spartacus70 (1169)
+Seat 4: Thomro (2120)
+Seat 5: sabre_laser (899)
+Seat 6: miguel3010 (3246)
+Seat 7: guims28 (3990)
+Seat 9: maficell (1830)
+*** ANTE/BLINDS ***
+miguel3010 posts ante 10
+guims28 posts ante 10
+RAPHI2720 posts ante 10
+spartacus70 posts ante 10
+Thomro posts ante 10
+sabre_laser posts ante 10
+maficell posts ante 10
+miguel3010 posts small blind 100
+guims28 posts big blind 200
+Dealt to sabre_laser [4c 6c]
+*** PRE-FLOP *** 
+maficell folds
+RAPHI2720 folds
+spartacus70 folds
+Thomro folds
+sabre_laser raises 689 to 889 and is all-in
+miguel3010 folds
+guims28 calls 689
+*** FLOP *** [As 9s Kh]
+*** TURN *** [As 9s Kh][5s]
+*** RIVER *** [As 9s Kh 5s][6d]
+*** SHOW DOWN ***
+sabre_laser shows [4c 6c] (One pair : 6)
+guims28 shows [Ah 7h] (One pair : Aces)
+guims28 collected 1948 from pot
+*** SUMMARY ***
+Total pot 1948 | No rake
+Board: [As 9s Kh 5s 6d]
+Seat 5: sabre_laser (button) showed [4c 6c] and lost with One pair : 6
+Seat 7: guims28 (big blind) showed [Ah 7h] and won 1948 with One pair : Aces
+
+

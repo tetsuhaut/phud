@@ -1,0 +1,283 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #548693608346157359-1-1441044929 - Holdem no limit (10/20) - 2015/08/31 18:15:29 UTC
+Table: 'Freeroll(127752686)#0302' 9-max (real money) Seat #1 is the button
+Seat 1: llouis83 (3000)
+Seat 2: chrismcp (3000)
+Seat 3: JJP92 (3000)
+Seat 4: sabre_laser (3000)
+Seat 5: breizh372 (3000)
+Seat 6: babar1740pet (3000)
+Seat 7: SHCROOL (3000)
+Seat 8: memen49 (3000)
+Seat 9: ylax69 (3000)
+*** ANTE/BLINDS ***
+chrismcp posts small blind 10
+JJP92 posts big blind 20
+Dealt to sabre_laser [7c 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+breizh372 folds
+babar1740pet calls 20
+SHCROOL folds
+memen49 folds
+ylax69 calls 20
+llouis83 calls 20
+chrismcp calls 10
+JJP92 checks
+*** FLOP *** [Jd 9d Kh]
+chrismcp checks
+JJP92 checks
+babar1740pet checks
+ylax69 bets 100
+llouis83 folds
+chrismcp folds
+JJP92 calls 100
+babar1740pet folds
+*** TURN *** [Jd 9d Kh][Ks]
+JJP92 checks
+ylax69 bets 150
+JJP92 calls 150
+*** RIVER *** [Jd 9d Kh Ks][Ac]
+JJP92 checks
+ylax69 checks
+*** SHOW DOWN ***
+ylax69 shows [Td 3d] (One pair : Kings)
+JJP92 shows [Qs 4d] (One pair : Kings)
+JJP92 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jd 9d Kh Ks Ac]
+Seat 3: JJP92 (big blind) showed [Qs 4d] and won 600 with One pair : Kings
+Seat 9: ylax69 showed [Td 3d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #548693608346157359-2-1441045224 - Holdem no limit (15/30) - 2015/08/31 18:20:24 UTC
+Table: 'Freeroll(127752686)#0302' 9-max (real money) Seat #2 is the button
+Seat 1: llouis83 (2980)
+Seat 2: chrismcp (2980)
+Seat 3: JJP92 (3330)
+Seat 4: sabre_laser (3000)
+Seat 5: breizh372 (3000)
+Seat 6: babar1740pet (2980)
+Seat 7: SHCROOL (3000)
+Seat 8: memen49 (3000)
+Seat 9: ylax69 (2730)
+*** ANTE/BLINDS ***
+JJP92 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [5c Kd]
+*** PRE-FLOP *** 
+breizh372 calls 30
+babar1740pet calls 30
+SHCROOL folds
+memen49 folds
+ylax69 folds
+llouis83 folds
+chrismcp calls 30
+JJP92 raises 30 to 60
+sabre_laser calls 30
+breizh372 calls 30
+babar1740pet calls 30
+chrismcp calls 30
+*** FLOP *** [8c Jc Kh]
+JJP92 bets 30
+sabre_laser calls 30
+breizh372 calls 30
+babar1740pet calls 30
+chrismcp folds
+*** TURN *** [8c Jc Kh][2c]
+JJP92 checks
+sabre_laser checks
+breizh372 checks
+babar1740pet checks
+*** RIVER *** [8c Jc Kh 2c][2d]
+JJP92 checks
+sabre_laser checks
+breizh372 checks
+babar1740pet checks
+*** SHOW DOWN ***
+JJP92 shows [8d 7s] (Two pairs : 8 and 2)
+breizh372 shows [Td Jh] (Two pairs : Jacks and 2)
+babar1740pet shows [5s Ad] (One pair : 2)
+sabre_laser shows [5c Kd] (Two pairs : Kings and 2)
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [8c Jc Kh 2c 2d]
+Seat 3: JJP92 (small blind) showed [8d 7s] and lost with Two pairs : 8 and 2
+Seat 4: sabre_laser (big blind) showed [5c Kd] and won 420 with Two pairs : Kings and 2
+Seat 5: breizh372 showed [Td Jh] and lost with Two pairs : Jacks and 2
+Seat 6: babar1740pet showed [5s Ad] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #548693608346157359-3-1441045377 - Holdem no limit (20/40) - 2015/08/31 18:22:57 UTC
+Table: 'Freeroll(127752686)#0302' 9-max (real money) Seat #3 is the button
+Seat 1: llouis83 (2980)
+Seat 2: chrismcp (2920)
+Seat 3: JJP92 (3240)
+Seat 4: sabre_laser (3330)
+Seat 5: breizh372 (2910)
+Seat 6: babar1740pet (2890)
+Seat 7: SHCROOL (3000)
+Seat 8: memen49 (3000)
+Seat 9: jules2401 (3000)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+breizh372 posts big blind 40
+Dealt to sabre_laser [4c 9h]
+*** PRE-FLOP *** 
+babar1740pet calls 40
+SHCROOL folds
+memen49 folds
+jules2401 folds
+llouis83 folds
+chrismcp folds
+JJP92 calls 40
+sabre_laser folds
+breizh372 checks
+*** FLOP *** [Ks Kc 6c]
+breizh372 checks
+babar1740pet checks
+JJP92 bets 40
+breizh372 folds
+babar1740pet folds
+JJP92 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ks Kc 6c]
+Seat 3: JJP92 (button) won 180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #548693608346157359-4-1441045451 - Holdem no limit (20/40) - 2015/08/31 18:24:11 UTC
+Table: 'Freeroll(127752686)#0302' 9-max (real money) Seat #4 is the button
+Seat 1: llouis83 (2980)
+Seat 2: chrismcp (2920)
+Seat 3: JJP92 (3340)
+Seat 4: sabre_laser (3310)
+Seat 5: breizh372 (2870)
+Seat 6: babar1740pet (2850)
+Seat 7: SHCROOL (3000)
+Seat 8: memen49 (3000)
+Seat 9: aurelnono85 (2960)
+*** ANTE/BLINDS ***
+breizh372 posts small blind 20
+babar1740pet posts big blind 40
+Dealt to sabre_laser [Ks As]
+*** PRE-FLOP *** 
+SHCROOL folds
+memen49 folds
+aurelnono85 folds
+llouis83 folds
+chrismcp raises 40 to 80
+JJP92 calls 80
+sabre_laser raises 300 to 380
+breizh372 folds
+babar1740pet calls 340
+chrismcp calls 300
+JJP92 calls 300
+*** FLOP *** [7c 4c Jc]
+babar1740pet checks
+chrismcp checks
+JJP92 bets 1540
+sabre_laser folds
+babar1740pet folds
+chrismcp folds
+JJP92 collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [7c 4c Jc]
+Seat 3: JJP92 won 3080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #548693608346157359-5-1441045539 - Holdem no limit (30/60) - 2015/08/31 18:25:39 UTC
+Table: 'Freeroll(127752686)#0302' 9-max (real money) Seat #5 is the button
+Seat 1: llouis83 (2980)
+Seat 2: chrismcp (2540)
+Seat 3: JJP92 (4500)
+Seat 4: sabre_laser (2930)
+Seat 5: breizh372 (2850)
+Seat 6: babar1740pet (2470)
+Seat 7: SHCROOL (3000)
+Seat 8: memen49 (3000)
+Seat 9: aurelnono85 (2960)
+*** ANTE/BLINDS ***
+babar1740pet posts small blind 30
+SHCROOL posts big blind 60
+Dealt to sabre_laser [7d Kh]
+*** PRE-FLOP *** 
+memen49 folds
+aurelnono85 folds
+llouis83 folds
+chrismcp calls 60
+JJP92 calls 60
+sabre_laser folds
+breizh372 folds
+babar1740pet calls 30
+SHCROOL folds
+*** FLOP *** [Qh 3d 5d]
+babar1740pet bets 60
+chrismcp calls 60
+JJP92 calls 60
+*** TURN *** [Qh 3d 5d][2s]
+babar1740pet bets 60
+chrismcp calls 60
+JJP92 calls 60
+*** RIVER *** [Qh 3d 5d 2s][6s]
+babar1740pet bets 60
+chrismcp calls 60
+JJP92 calls 60
+*** SHOW DOWN ***
+chrismcp shows [Qd Ks] (One pair : Queens)
+babar1740pet shows [6d Kd] (One pair : 6)
+JJP92 shows [8h 4c] (Straight 6 high)
+JJP92 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Qh 3d 5d 2s 6s]
+Seat 2: chrismcp showed [Qd Ks] and lost with One pair : Queens
+Seat 3: JJP92 showed [8h 4c] and won 780 with Straight 6 high
+Seat 6: babar1740pet (small blind) showed [6d Kd] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #548693608346157359-6-1441045591 - Holdem no limit (30/60) - 2015/08/31 18:26:31 UTC
+Table: 'Freeroll(127752686)#0302' 9-max (real money) Seat #6 is the button
+Seat 1: llouis83 (2980)
+Seat 2: chrismcp (2300)
+Seat 3: JJP92 (5040)
+Seat 4: sabre_laser (2930)
+Seat 5: breizh372 (2850)
+Seat 6: babar1740pet (2230)
+Seat 7: SHCROOL (2940)
+Seat 8: valtaga (3000)
+Seat 9: aurelnono85 (2960)
+*** ANTE/BLINDS ***
+SHCROOL posts small blind 30
+valtaga posts big blind 60
+Dealt to sabre_laser [Ac Kd]
+*** PRE-FLOP *** 
+aurelnono85 calls 60
+llouis83 folds
+chrismcp calls 60
+JJP92 calls 60
+sabre_laser raises 330 to 390
+breizh372 folds
+babar1740pet folds
+SHCROOL folds
+valtaga raises 2610 to 3000 and is all-in
+aurelnono85 folds
+chrismcp folds
+JJP92 folds
+sabre_laser calls 2540 and is all-in
+*** FLOP *** [7h Js 8h]
+*** TURN *** [7h Js 8h][3h]
+*** RIVER *** [7h Js 8h 3h][4c]
+*** SHOW DOWN ***
+sabre_laser shows [Ac Kd] (High card : Ace)
+valtaga shows [7s 5c] (One pair : 7)
+valtaga collected 6140 from pot
+*** SUMMARY ***
+Total pot 6140 | No rake
+Board: [7h Js 8h 3h 4c]
+Seat 4: sabre_laser showed [Ac Kd] and lost with High card : Ace
+Seat 8: valtaga (big blind) showed [7s 5c] and won 6140 with One pair : 7
+
+

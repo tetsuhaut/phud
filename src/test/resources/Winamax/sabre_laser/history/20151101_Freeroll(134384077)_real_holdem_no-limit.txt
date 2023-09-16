@@ -1,0 +1,387 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #577175215818146161-6-1446377831 - Holdem no limit (20/40) - 2015/11/01 11:37:11 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #1 is the button
+Seat 1: kiatsuo (2825)
+Seat 2: chtimi1 (3020)
+Seat 3: Piloo1989 (3000)
+Seat 4: RZNath (5970)
+Seat 5: Cindounette (6990)
+Seat 6: losc628300 (5240)
+Seat 7: sabre_laser (3000)
+Seat 8: orazio08 (2955)
+*** ANTE/BLINDS ***
+chtimi1 posts small blind 20
+Piloo1989 posts big blind 40
+Dealt to sabre_laser [3h Qc]
+*** PRE-FLOP *** 
+RZNath calls 40
+Cindounette calls 40
+losc628300 raises 120 to 160
+sabre_laser folds
+orazio08 folds
+kiatsuo folds
+chtimi1 folds
+Piloo1989 folds
+RZNath calls 120
+Cindounette calls 120
+*** FLOP *** [Jc Ah 9s]
+RZNath checks
+Cindounette checks
+losc628300 bets 360
+RZNath calls 360
+Cindounette folds
+*** TURN *** [Jc Ah 9s][8c]
+RZNath checks
+losc628300 bets 1260
+RZNath calls 1260
+*** RIVER *** [Jc Ah 9s 8c][Ts]
+RZNath checks
+losc628300 checks
+*** SHOW DOWN ***
+RZNath shows [Kc Th] (One pair : Tens)
+losc628300 shows [8s Ad] (Two pairs : Aces and 8)
+losc628300 collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | No rake
+Board: [Jc Ah 9s 8c Ts]
+Seat 4: RZNath showed [Kc Th] and lost with One pair : Tens
+Seat 6: losc628300 showed [8s Ad] and won 3780 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #577175215818146161-7-1446377926 - Holdem no limit (20/40) - 2015/11/01 11:38:46 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #2 is the button
+Seat 1: kiatsuo (2825)
+Seat 2: chtimi1 (3000)
+Seat 3: Piloo1989 (2960)
+Seat 4: RZNath (4190)
+Seat 5: Cindounette (6830)
+Seat 6: losc628300 (7240)
+Seat 7: sabre_laser (3000)
+Seat 8: orazio08 (2955)
+*** ANTE/BLINDS ***
+Piloo1989 posts small blind 20
+RZNath posts big blind 40
+Dealt to sabre_laser [3c Ts]
+*** PRE-FLOP *** 
+Cindounette calls 40
+losc628300 folds
+sabre_laser folds
+orazio08 folds
+kiatsuo calls 40
+chtimi1 folds
+Piloo1989 calls 20
+RZNath checks
+*** FLOP *** [Kc 5c 5d]
+Piloo1989 checks
+RZNath checks
+Cindounette checks
+kiatsuo checks
+*** TURN *** [Kc 5c 5d][3d]
+Piloo1989 checks
+RZNath checks
+Cindounette bets 80
+kiatsuo calls 80
+Piloo1989 folds
+RZNath calls 80
+*** RIVER *** [Kc 5c 5d 3d][Js]
+RZNath checks
+Cindounette checks
+kiatsuo checks
+*** SHOW DOWN ***
+kiatsuo shows [6c 8c] (One pair : 5)
+Cindounette shows [7d Qs] (One pair : 5)
+RZNath shows [Ad 8s] (One pair : 5)
+RZNath collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Kc 5c 5d 3d Js]
+Seat 1: kiatsuo showed [6c 8c] and lost with One pair : 5
+Seat 4: RZNath (big blind) showed [Ad 8s] and won 400 with One pair : 5
+Seat 5: Cindounette showed [7d Qs] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #577175215818146161-8-1446378001 - Holdem no limit (30/60) - 2015/11/01 11:40:01 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #3 is the button
+Seat 1: kiatsuo (2705)
+Seat 2: chtimi1 (3000)
+Seat 3: Piloo1989 (2920)
+Seat 4: RZNath (4470)
+Seat 5: Cindounette (6710)
+Seat 6: losc628300 (7240)
+Seat 7: sabre_laser (3000)
+Seat 8: orazio08 (2955)
+*** ANTE/BLINDS ***
+RZNath posts small blind 30
+Cindounette posts big blind 60
+Dealt to sabre_laser [4c 7h]
+*** PRE-FLOP *** 
+losc628300 raises 60 to 120
+sabre_laser folds
+orazio08 folds
+kiatsuo calls 120
+chtimi1 folds
+Piloo1989 folds
+RZNath folds
+Cindounette calls 60
+*** FLOP *** [6s 6c 9c]
+Cindounette bets 150
+losc628300 raises 410 to 560
+kiatsuo calls 560
+Cindounette folds
+*** TURN *** [6s 6c 9c][4d]
+losc628300 checks
+kiatsuo checks
+*** RIVER *** [6s 6c 9c 4d][Qc]
+losc628300 bets 6560 and is all-in
+kiatsuo folds
+losc628300 collected 8220 from pot
+*** SUMMARY ***
+Total pot 8220 | No rake
+Board: [6s 6c 9c 4d Qc]
+Seat 6: losc628300 won 8220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #577175215818146161-9-1446378075 - Holdem no limit (30/60) - 2015/11/01 11:41:15 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #4 is the button
+Seat 1: kiatsuo (2025)
+Seat 2: chtimi1 (3000)
+Seat 3: Piloo1989 (2920)
+Seat 4: RZNath (4440)
+Seat 5: Cindounette (6440)
+Seat 6: losc628300 (8220)
+Seat 7: sabre_laser (3000)
+Seat 8: orazio08 (2955)
+*** ANTE/BLINDS ***
+Cindounette posts small blind 30
+losc628300 posts big blind 60
+Dealt to sabre_laser [2s 2c]
+*** PRE-FLOP *** 
+sabre_laser calls 60
+orazio08 folds
+kiatsuo folds
+chtimi1 folds
+Piloo1989 folds
+RZNath folds
+Cindounette calls 30
+losc628300 raises 180 to 240
+sabre_laser calls 180
+Cindounette calls 180
+*** FLOP *** [Jc 8d 5d]
+Cindounette bets 60
+losc628300 calls 60
+sabre_laser folds
+*** TURN *** [Jc 8d 5d][Js]
+Cindounette checks
+losc628300 checks
+*** RIVER *** [Jc 8d 5d Js][4c]
+Cindounette bets 60
+losc628300 calls 60
+*** SHOW DOWN ***
+losc628300 shows [Ah Th] (One pair : Jacks)
+Cindounette shows [3c 4d] (Two pairs : Jacks and 4)
+Cindounette collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Jc 8d 5d Js 4c]
+Seat 5: Cindounette (small blind) showed [3c 4d] and won 960 with Two pairs : Jacks and 4
+Seat 6: losc628300 (big blind) showed [Ah Th] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #577175215818146161-10-1446378124 - Holdem no limit (30/60) - 2015/11/01 11:42:04 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #5 is the button
+Seat 1: kiatsuo (2025)
+Seat 2: chtimi1 (3000)
+Seat 3: Piloo1989 (2920)
+Seat 4: RZNath (4440)
+Seat 5: Cindounette (7040)
+Seat 6: losc628300 (7860)
+Seat 7: sabre_laser (2760)
+Seat 8: orazio08 (2955)
+*** ANTE/BLINDS ***
+losc628300 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [6h Tc]
+*** PRE-FLOP *** 
+orazio08 folds
+kiatsuo folds
+chtimi1 folds
+Piloo1989 folds
+RZNath raises 150 to 210
+Cindounette folds
+losc628300 calls 180
+sabre_laser folds
+*** FLOP *** [5s Qh Kh]
+losc628300 bets 60
+RZNath calls 60
+*** TURN *** [5s Qh Kh][7c]
+losc628300 checks
+RZNath checks
+*** RIVER *** [5s Qh Kh 7c][8d]
+losc628300 checks
+RZNath checks
+*** SHOW DOWN ***
+losc628300 shows [Ah 3c] (High card : Ace)
+RZNath shows [Ac Jc] (High card : Ace)
+RZNath collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5s Qh Kh 7c 8d]
+Seat 4: RZNath showed [Ac Jc] and won 600 with High card : Ace
+Seat 6: losc628300 (small blind) showed [Ah 3c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #577175215818146161-11-1446378164 - Holdem no limit (40/80) - 2015/11/01 11:42:44 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #6 is the button
+Seat 1: kiatsuo (2025)
+Seat 2: chtimi1 (3000)
+Seat 3: Piloo1989 (2920)
+Seat 4: RZNath (4770)
+Seat 5: Cindounette (7040)
+Seat 6: losc628300 (7590)
+Seat 7: sabre_laser (2700)
+Seat 8: orazio08 (2955)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+orazio08 posts big blind 80
+Dealt to sabre_laser [6s 7d]
+*** PRE-FLOP *** 
+kiatsuo raises 160 to 240
+chtimi1 folds
+Piloo1989 raises 2680 to 2920 and is all-in
+RZNath folds
+Cindounette folds
+losc628300 folds
+sabre_laser folds
+orazio08 raises 35 to 2955 and is all-in
+kiatsuo calls 1785 and is all-in
+*** FLOP *** [8d 5c Ah]
+*** TURN *** [8d 5c Ah][Qd]
+*** RIVER *** [8d 5c Ah Qd][7h]
+*** SHOW DOWN ***
+Piloo1989 shows [Td Js] (High card : Ace)
+kiatsuo shows [9d 9h] (One pair : 9)
+orazio08 shows [Tc 8c] (One pair : 8)
+orazio08 collected 1825 from side pot 1
+kiatsuo collected 6115 from main pot
+*** SUMMARY ***
+Total pot 7940 | No rake
+Board: [8d 5c Ah Qd 7h]
+Seat 1: kiatsuo showed [9d 9h] and won 6115 with One pair : 9
+Seat 3: Piloo1989 showed [Td Js] and lost with High card : Ace
+Seat 8: orazio08 (big blind) showed [Tc 8c] and won 1825 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #577175215818146161-12-1446378231 - Holdem no limit (40/80) - 2015/11/01 11:43:51 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #7 is the button
+Seat 1: kiatsuo (6115)
+Seat 2: chtimi1 (3000)
+Seat 4: RZNath (4770)
+Seat 5: Cindounette (7040)
+Seat 6: losc628300 (7590)
+Seat 7: sabre_laser (2660)
+Seat 8: orazio08 (1825)
+*** ANTE/BLINDS ***
+orazio08 posts small blind 40
+kiatsuo posts big blind 80
+Dealt to sabre_laser [3c 4s]
+*** PRE-FLOP *** 
+chtimi1 folds
+RZNath calls 80
+Cindounette calls 80
+losc628300 raises 360 to 440
+sabre_laser folds
+orazio08 calls 400
+kiatsuo calls 360
+RZNath calls 360
+Cindounette calls 360
+*** FLOP *** [Qs 6c 3h]
+orazio08 bets 1385 and is all-in
+kiatsuo folds
+RZNath folds
+Cindounette calls 1385
+losc628300 folds
+*** TURN *** [Qs 6c 3h][9d]
+*** RIVER *** [Qs 6c 3h 9d][9s]
+*** SHOW DOWN ***
+orazio08 shows [8h 2h] (One pair : 9)
+Cindounette shows [Jc 4d] (One pair : 9)
+Cindounette collected 4970 from pot
+*** SUMMARY ***
+Total pot 4970 | No rake
+Board: [Qs 6c 3h 9d 9s]
+Seat 5: Cindounette showed [Jc 4d] and won 4970 with One pair : 9
+Seat 8: orazio08 (small blind) showed [8h 2h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #577175215818146161-13-1446378288 - Holdem no limit (40/80) - 2015/11/01 11:44:48 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #8 is the button
+Seat 1: kiatsuo (5675)
+Seat 2: chtimi1 (3000)
+Seat 3: cecile80_x (3000)
+Seat 4: RZNath (4330)
+Seat 5: Cindounette (10185)
+Seat 6: losc628300 (7150)
+Seat 7: sabre_laser (2660)
+*** ANTE/BLINDS ***
+kiatsuo posts small blind 40
+chtimi1 posts big blind 80
+Dealt to sabre_laser [Jh Td]
+*** PRE-FLOP *** 
+cecile80_x raises 2920 to 3000 and is all-in
+RZNath calls 3000
+Cindounette folds
+losc628300 folds
+sabre_laser folds
+kiatsuo folds
+chtimi1 folds
+*** FLOP *** [Kh 6d 7c]
+*** TURN *** [Kh 6d 7c][7s]
+*** RIVER *** [Kh 6d 7c 7s][7h]
+*** SHOW DOWN ***
+cecile80_x shows [4d 4h] (Full of 7 and 4)
+RZNath shows [4c Kc] (Full of 7 and Kings)
+RZNath collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [Kh 6d 7c 7s 7h]
+Seat 3: cecile80_x showed [4d 4h] and lost with Full of 7 and 4
+Seat 4: RZNath showed [4c Kc] and won 6120 with Full of 7 and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #577175215818146161-14-1446378316 - Holdem no limit (40/80) - 2015/11/01 11:45:16 UTC
+Table: 'Freeroll(134384077)#368' 8-max (real money) Seat #1 is the button
+Seat 1: kiatsuo (5635)
+Seat 2: chtimi1 (2920)
+Seat 4: RZNath (7450)
+Seat 5: Cindounette (10185)
+Seat 6: losc628300 (7150)
+Seat 7: sabre_laser (2660)
+*** ANTE/BLINDS ***
+chtimi1 posts small blind 40
+RZNath posts big blind 80
+Dealt to sabre_laser [5h Ah]
+*** PRE-FLOP *** 
+Cindounette raises 80 to 160
+losc628300 calls 160
+sabre_laser raises 2500 to 2660 and is all-in
+kiatsuo folds
+chtimi1 folds
+RZNath calls 2580
+Cindounette raises 7525 to 10185 and is all-in
+losc628300 folds
+RZNath calls 4790 and is all-in
+*** FLOP *** [Td Ts As]
+*** TURN *** [Td Ts As][Ks]
+*** RIVER *** [Td Ts As Ks][8s]
+*** SHOW DOWN ***
+RZNath shows [9d Kd] (Two pairs : Kings and Tens)
+sabre_laser shows [5h Ah] (Two pairs : Aces and Tens)
+Cindounette shows [8c 8h] (Full of 8 and Tens)
+Cindounette collected 20495 from pot
+*** SUMMARY ***
+Total pot 20495 | No rake
+Board: [Td Ts As Ks 8s]
+Seat 4: RZNath (big blind) showed [9d Kd] and lost with Two pairs : Kings and Tens
+Seat 5: Cindounette showed [8c 8h] and won 20495 with Full of 8 and Tens
+Seat 7: sabre_laser showed [5h Ah] and lost with Two pairs : Aces and Tens
+
+

@@ -1,0 +1,900 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #540302101243232257-1-1437944178 - Holdem no limit (10/20) - 2015/07/26 20:56:18 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #7 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Yoda03 (1500)
+Seat 3: chatos1976 (1500)
+Seat 4: moye42 (1500)
+Seat 5: yeahmen (1500)
+Seat 6: gagabzh (1500)
+Seat 7: karl----01 (1500)
+Seat 8: na3na3 (1500)
+Seat 9: Pablito94 (1500)
+Seat 10: cokslarafale (1500)
+*** ANTE/BLINDS ***
+na3na3 posts small blind 10
+Pablito94 posts big blind 20
+Dealt to sabre_laser [Jc 5h]
+*** PRE-FLOP *** 
+cokslarafale calls 20
+sabre_laser folds
+Yoda03 folds
+chatos1976 folds
+moye42 folds
+yeahmen calls 20
+gagabzh calls 20
+karl----01 calls 20
+na3na3 calls 10
+Pablito94 checks
+*** FLOP *** [5s 2d Ah]
+na3na3 checks
+Pablito94 checks
+cokslarafale checks
+yeahmen checks
+gagabzh checks
+karl----01 checks
+*** TURN *** [5s 2d Ah][Kd]
+na3na3 checks
+Pablito94 checks
+cokslarafale bets 20
+yeahmen calls 20
+gagabzh calls 20
+karl----01 calls 20
+na3na3 calls 20
+Pablito94 folds
+*** RIVER *** [5s 2d Ah Kd][2s]
+na3na3 checks
+cokslarafale bets 165
+yeahmen folds
+gagabzh calls 165
+karl----01 folds
+na3na3 folds
+*** SHOW DOWN ***
+gagabzh shows [Kc 9d] (Two pairs : Kings and 2)
+cokslarafale shows [Ks 9s] (Two pairs : Kings and 2)
+cokslarafale collected 275 from pot
+gagabzh collected 275 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [5s 2d Ah Kd 2s]
+Seat 6: gagabzh showed [Kc 9d] and won 275 with Two pairs : Kings and 2
+Seat 10: cokslarafale showed [Ks 9s] and won 275 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 0 - HandId: #540302101243232257-2-1437944324 - Holdem no limit (10/20) - 2015/07/26 20:58:44 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Yoda03 (1500)
+Seat 3: chatos1976 (1500)
+Seat 4: moye42 (1500)
+Seat 5: yeahmen (1460)
+Seat 6: gagabzh (1570)
+Seat 7: karl----01 (1460)
+Seat 8: na3na3 (1460)
+Seat 9: Pablito94 (1480)
+Seat 10: cokslarafale (1570)
+*** ANTE/BLINDS ***
+Pablito94 posts small blind 10
+cokslarafale posts big blind 20
+Dealt to sabre_laser [3d Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+Yoda03 folds
+chatos1976 folds
+moye42 folds
+yeahmen folds
+gagabzh calls 20
+karl----01 calls 20
+na3na3 folds
+Pablito94 calls 10
+cokslarafale checks
+*** FLOP *** [6c Th Td]
+Pablito94 checks
+cokslarafale bets 80
+gagabzh folds
+karl----01 calls 80
+Pablito94 folds
+*** TURN *** [6c Th Td][Qs]
+cokslarafale bets 240
+karl----01 folds
+cokslarafale collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6c Th Td Qs]
+Seat 10: cokslarafale (big blind) won 480
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #540302101243232257-3-1437944392 - Holdem no limit (15/30) - 2015/07/26 20:59:52 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1500)
+Seat 2: Yoda03 (1500)
+Seat 3: chatos1976 (1500)
+Seat 4: moye42 (1500)
+Seat 5: yeahmen (1460)
+Seat 6: gagabzh (1550)
+Seat 7: karl----01 (1360)
+Seat 8: na3na3 (1460)
+Seat 9: Pablito94 (1460)
+Seat 10: cokslarafale (1710)
+*** ANTE/BLINDS ***
+cokslarafale posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [6d 4s]
+*** PRE-FLOP *** 
+Yoda03 folds
+chatos1976 folds
+moye42 folds
+yeahmen calls 30
+gagabzh calls 30
+karl----01 calls 30
+na3na3 folds
+Pablito94 calls 30
+cokslarafale folds
+sabre_laser checks
+*** FLOP *** [4c Th 5c]
+sabre_laser checks
+yeahmen checks
+gagabzh checks
+karl----01 checks
+Pablito94 bets 165
+sabre_laser folds
+yeahmen folds
+gagabzh folds
+karl----01 folds
+Pablito94 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [4c Th 5c]
+Seat 9: Pablito94 (button) won 330
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 1 - HandId: #540302101243232257-4-1437944499 - Holdem no limit (15/30) - 2015/07/26 21:01:39 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (1470)
+Seat 2: Yoda03 (1500)
+Seat 3: chatos1976 (1500)
+Seat 4: moye42 (1500)
+Seat 5: yeahmen (1430)
+Seat 6: gagabzh (1520)
+Seat 7: karl----01 (1330)
+Seat 8: na3na3 (1460)
+Seat 9: Pablito94 (1595)
+Seat 10: cokslarafale (1695)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Yoda03 posts big blind 30
+Dealt to sabre_laser [Kd 8d]
+*** PRE-FLOP *** 
+chatos1976 calls 30
+moye42 folds
+yeahmen folds
+gagabzh raises 30 to 60
+karl----01 folds
+na3na3 folds
+Pablito94 folds
+cokslarafale calls 60
+sabre_laser calls 45
+Yoda03 calls 30
+chatos1976 calls 30
+*** FLOP *** [5s 9h Js]
+sabre_laser checks
+Yoda03 checks
+chatos1976 bets 105
+gagabzh raises 105 to 210
+cokslarafale calls 210
+sabre_laser folds
+Yoda03 folds
+chatos1976 raises 1230 to 1440 and is all-in
+gagabzh calls 1230
+cokslarafale raises 195 to 1635 and is all-in
+gagabzh calls 20 and is all-in
+*** TURN *** [5s 9h Js][8s]
+*** RIVER *** [5s 9h Js 8s][9d]
+*** SHOW DOWN ***
+chatos1976 shows [Jh Ks] (Two pairs : Jacks and 9)
+gagabzh shows [Tc Ts] (Two pairs : Tens and 9)
+cokslarafale shows [4s As] (Flush Ace high)
+cokslarafale collected 4835 from pot
+*** SUMMARY ***
+Total pot 4835 | No rake
+Board: [5s 9h Js 8s 9d]
+Seat 3: chatos1976 showed [Jh Ks] and lost with Two pairs : Jacks and 9
+Seat 6: gagabzh showed [Tc Ts] and lost with Two pairs : Tens and 9
+Seat 10: cokslarafale (button) showed [4s As] and won 4835 with Flush Ace high
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #540302101243232257-5-1437944589 - Holdem no limit (20/40) - 2015/07/26 21:03:09 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: Yoda03 (1440)
+Seat 4: moye42 (1500)
+Seat 5: yeahmen (1430)
+Seat 7: karl----01 (1330)
+Seat 8: na3na3 (1460)
+Seat 9: Pablito94 (1595)
+Seat 10: cokslarafale (4835)
+*** ANTE/BLINDS ***
+Yoda03 posts small blind 20
+moye42 posts big blind 40
+Dealt to sabre_laser [2s Ad]
+*** PRE-FLOP *** 
+yeahmen folds
+karl----01 folds
+na3na3 raises 40 to 80
+Pablito94 calls 80
+cokslarafale folds
+sabre_laser folds
+Yoda03 folds
+moye42 calls 40
+*** FLOP *** [6d Ah 7d]
+moye42 checks
+na3na3 bets 130
+Pablito94 folds
+moye42 folds
+na3na3 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [6d Ah 7d]
+Seat 8: na3na3 won 390
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #540302101243232257-6-1437944623 - Holdem no limit (20/40) - 2015/07/26 21:03:43 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: Yoda03 (1420)
+Seat 4: moye42 (1420)
+Seat 5: yeahmen (1430)
+Seat 7: karl----01 (1330)
+Seat 8: na3na3 (1640)
+Seat 9: Pablito94 (1515)
+Seat 10: cokslarafale (4835)
+*** ANTE/BLINDS ***
+moye42 posts small blind 20
+yeahmen posts big blind 40
+Dealt to sabre_laser [6d 8c]
+*** PRE-FLOP *** 
+karl----01 raises 1290 to 1330 and is all-in
+na3na3 raises 310 to 1640 and is all-in
+Pablito94 folds
+cokslarafale folds
+sabre_laser folds
+Yoda03 folds
+moye42 folds
+yeahmen folds
+*** FLOP *** [5h 7c 3s]
+*** TURN *** [5h 7c 3s][3d]
+*** RIVER *** [5h 7c 3s 3d][4h]
+*** SHOW DOWN ***
+karl----01 shows [Tc Ah] (One pair : 3)
+na3na3 shows [Kc Ac] (One pair : 3)
+na3na3 collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Board: [5h 7c 3s 3d 4h]
+Seat 7: karl----01 showed [Tc Ah] and lost with One pair : 3
+Seat 8: na3na3 showed [Kc Ac] and won 3030 with One pair : 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #540302101243232257-7-1437944656 - Holdem no limit (20/40) - 2015/07/26 21:04:16 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: Yoda03 (1420)
+Seat 4: moye42 (1400)
+Seat 5: yeahmen (1390)
+Seat 8: na3na3 (3030)
+Seat 9: Pablito94 (1515)
+Seat 10: cokslarafale (4835)
+*** ANTE/BLINDS ***
+yeahmen posts small blind 20
+na3na3 posts big blind 40
+Dealt to sabre_laser [6s Ad]
+*** PRE-FLOP *** 
+Pablito94 folds
+cokslarafale folds
+sabre_laser folds
+Yoda03 folds
+moye42 folds
+yeahmen folds
+na3na3 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 8: na3na3 (big blind) won 60
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 2 - HandId: #540302101243232257-8-1437944675 - Holdem no limit (20/40) - 2015/07/26 21:04:35 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: Yoda03 (1420)
+Seat 4: moye42 (1400)
+Seat 5: yeahmen (1370)
+Seat 8: na3na3 (3050)
+Seat 9: Pablito94 (1515)
+Seat 10: cokslarafale (4835)
+*** ANTE/BLINDS ***
+na3na3 posts small blind 20
+Pablito94 posts big blind 40
+Dealt to sabre_laser [7s Kd]
+*** PRE-FLOP *** 
+cokslarafale calls 40
+sabre_laser folds
+Yoda03 calls 40
+moye42 folds
+yeahmen folds
+na3na3 calls 20
+Pablito94 checks
+*** FLOP *** [5s Jc 4c]
+na3na3 bets 120
+Pablito94 folds
+cokslarafale calls 120
+Yoda03 folds
+*** TURN *** [5s Jc 4c][7c]
+na3na3 bets 267
+cokslarafale folds
+na3na3 collected 667 from pot
+*** SUMMARY ***
+Total pot 667 | No rake
+Board: [5s Jc 4c 7c]
+Seat 8: na3na3 (small blind) won 667
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #540302101243232257-9-1437944713 - Holdem no limit (30/60) - 2015/07/26 21:05:13 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: Yoda03 (1380)
+Seat 4: moye42 (1400)
+Seat 5: yeahmen (1370)
+Seat 8: na3na3 (3290)
+Seat 9: Pablito94 (1475)
+Seat 10: cokslarafale (4675)
+*** ANTE/BLINDS ***
+Pablito94 posts small blind 30
+cokslarafale posts big blind 60
+Dealt to sabre_laser [5s Ks]
+*** PRE-FLOP *** 
+sabre_laser folds
+Yoda03 folds
+moye42 folds
+yeahmen folds
+na3na3 folds
+Pablito94 calls 30
+cokslarafale checks
+*** FLOP *** [Kd 9s Qs]
+Pablito94 bets 60
+cokslarafale folds
+Pablito94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Kd 9s Qs]
+Seat 9: Pablito94 (small blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #540302101243232257-10-1437944752 - Holdem no limit (30/60) - 2015/07/26 21:05:52 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (1410)
+Seat 2: Yoda03 (1380)
+Seat 4: moye42 (1400)
+Seat 5: yeahmen (1370)
+Seat 8: na3na3 (3290)
+Seat 9: Pablito94 (1535)
+Seat 10: cokslarafale (4615)
+*** ANTE/BLINDS ***
+cokslarafale posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Kd 2c]
+*** PRE-FLOP *** 
+Yoda03 folds
+moye42 folds
+yeahmen folds
+na3na3 raises 60 to 120
+Pablito94 folds
+cokslarafale calls 90
+sabre_laser calls 60
+*** FLOP *** [Kc Qc Qh]
+cokslarafale checks
+sabre_laser checks
+na3na3 bets 180
+cokslarafale folds
+sabre_laser calls 180
+*** TURN *** [Kc Qc Qh][6c]
+sabre_laser bets 360
+na3na3 raises 2630 to 2990 and is all-in
+sabre_laser calls 750 and is all-in
+*** RIVER *** [Kc Qc Qh 6c][Qs]
+*** SHOW DOWN ***
+sabre_laser shows [Kd 2c] (Full of Queens and Kings)
+na3na3 shows [6h 6s] (Full of Queens and 6)
+na3na3 collected 1880 from side pot 1
+sabre_laser collected 2940 from main pot
+*** SUMMARY ***
+Total pot 4820 | No rake
+Board: [Kc Qc Qh 6c Qs]
+Seat 1: sabre_laser (big blind) showed [Kd 2c] and won 2940 with Full of Queens and Kings
+Seat 8: na3na3 showed [6h 6s] and won 1880 with Full of Queens and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #540302101243232257-11-1437944806 - Holdem no limit (30/60) - 2015/07/26 21:06:46 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2940)
+Seat 2: Yoda03 (1380)
+Seat 4: moye42 (1400)
+Seat 5: yeahmen (1370)
+Seat 8: na3na3 (1880)
+Seat 9: Pablito94 (1535)
+Seat 10: cokslarafale (4495)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Yoda03 posts big blind 60
+Dealt to sabre_laser [9d 3h]
+*** PRE-FLOP *** 
+moye42 folds
+yeahmen folds
+na3na3 folds
+Pablito94 folds
+cokslarafale calls 60
+sabre_laser calls 30
+Yoda03 checks
+*** FLOP *** [9h Kd 6d]
+sabre_laser bets 90
+Yoda03 folds
+cokslarafale folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [9h Kd 6d]
+Seat 1: sabre_laser (small blind) won 270
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #540302101243232257-12-1437944850 - Holdem no limit (30/60) - 2015/07/26 21:07:30 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3060)
+Seat 2: Yoda03 (1320)
+Seat 4: moye42 (1400)
+Seat 5: yeahmen (1370)
+Seat 8: na3na3 (1880)
+Seat 9: Pablito94 (1535)
+Seat 10: cokslarafale (4435)
+*** ANTE/BLINDS ***
+Yoda03 posts small blind 30
+moye42 posts big blind 60
+Dealt to sabre_laser [2d 9h]
+*** PRE-FLOP *** 
+yeahmen folds
+na3na3 folds
+Pablito94 folds
+cokslarafale calls 60
+sabre_laser folds
+Yoda03 folds
+moye42 checks
+*** FLOP *** [9c 4c 2s]
+moye42 checks
+cokslarafale bets 150
+moye42 calls 150
+*** TURN *** [9c 4c 2s][Tc]
+moye42 checks
+cokslarafale checks
+*** RIVER *** [9c 4c 2s Tc][Qc]
+moye42 bets 150
+cokslarafale calls 150
+*** SHOW DOWN ***
+cokslarafale shows [Jh Qd] (One pair : Queens)
+moye42 shows [Ac 8s] (Flush Ace high)
+moye42 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [9c 4c 2s Tc Qc]
+Seat 4: moye42 (big blind) showed [Ac 8s] and won 750 with Flush Ace high
+Seat 10: cokslarafale showed [Jh Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #540302101243232257-13-1437944888 - Holdem no limit (30/60) - 2015/07/26 21:08:08 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (3060)
+Seat 2: Yoda03 (1290)
+Seat 4: moye42 (1790)
+Seat 5: yeahmen (1370)
+Seat 8: na3na3 (1880)
+Seat 9: Pablito94 (1535)
+Seat 10: cokslarafale (4075)
+*** ANTE/BLINDS ***
+moye42 posts small blind 30
+yeahmen posts big blind 60
+Dealt to sabre_laser [Qc Ks]
+*** PRE-FLOP *** 
+na3na3 folds
+Pablito94 calls 60
+cokslarafale folds
+sabre_laser folds
+Yoda03 folds
+moye42 folds
+yeahmen checks
+*** FLOP *** [Qh 7d 4s]
+yeahmen checks
+Pablito94 bets 150
+yeahmen folds
+Pablito94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Qh 7d 4s]
+Seat 9: Pablito94 won 300
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #540302101243232257-14-1437944919 - Holdem no limit (40/80) - 2015/07/26 21:08:39 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (3060)
+Seat 2: Yoda03 (1290)
+Seat 4: moye42 (1760)
+Seat 5: yeahmen (1310)
+Seat 8: na3na3 (1880)
+Seat 9: Pablito94 (1625)
+Seat 10: cokslarafale (4075)
+*** ANTE/BLINDS ***
+yeahmen posts small blind 40
+na3na3 posts big blind 80
+Dealt to sabre_laser [9c 9d]
+*** PRE-FLOP *** 
+Pablito94 folds
+cokslarafale raises 200 to 280
+sabre_laser folds
+Yoda03 folds
+moye42 folds
+yeahmen folds
+na3na3 folds
+cokslarafale collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 10: cokslarafale won 400
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #540302101243232257-15-1437944947 - Holdem no limit (40/80) - 2015/07/26 21:09:07 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (3060)
+Seat 2: Yoda03 (1290)
+Seat 4: moye42 (1760)
+Seat 5: yeahmen (1270)
+Seat 8: na3na3 (1800)
+Seat 9: Pablito94 (1625)
+Seat 10: cokslarafale (4195)
+*** ANTE/BLINDS ***
+na3na3 posts small blind 40
+Pablito94 posts big blind 80
+Dealt to sabre_laser [4h 2d]
+*** PRE-FLOP *** 
+cokslarafale calls 80
+sabre_laser folds
+Yoda03 calls 80
+moye42 folds
+yeahmen raises 320 to 400
+na3na3 folds
+Pablito94 folds
+cokslarafale folds
+Yoda03 folds
+yeahmen collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 5: yeahmen (button) won 680
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #540302101243232257-16-1437944984 - Holdem no limit (40/80) - 2015/07/26 21:09:44 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (3060)
+Seat 2: Yoda03 (1210)
+Seat 4: moye42 (1760)
+Seat 5: yeahmen (1550)
+Seat 8: na3na3 (1760)
+Seat 9: Pablito94 (1545)
+Seat 10: cokslarafale (4115)
+*** ANTE/BLINDS ***
+Pablito94 posts small blind 40
+cokslarafale posts big blind 80
+Dealt to sabre_laser [5d 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Yoda03 calls 80
+moye42 folds
+yeahmen folds
+na3na3 folds
+Pablito94 calls 40
+cokslarafale checks
+*** FLOP *** [5h 3s 2h]
+Pablito94 checks
+cokslarafale bets 80
+Yoda03 calls 80
+Pablito94 calls 80
+*** TURN *** [5h 3s 2h][7h]
+Pablito94 checks
+cokslarafale checks
+Yoda03 checks
+*** RIVER *** [5h 3s 2h 7h][Kh]
+Pablito94 checks
+cokslarafale checks
+Yoda03 checks
+*** SHOW DOWN ***
+Yoda03 shows [Ad 8c] (High card : Ace)
+cokslarafale shows [9s 4c] (High card : King)
+Pablito94 shows [7d 6h] (Flush King high)
+Pablito94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5h 3s 2h 7h Kh]
+Seat 2: Yoda03 showed [Ad 8c] and lost with High card : Ace
+Seat 9: Pablito94 (small blind) showed [7d 6h] and won 480 with Flush King high
+Seat 10: cokslarafale (big blind) showed [9s 4c] and lost with High card : King
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #540302101243232257-17-1437945037 - Holdem no limit (40/80) - 2015/07/26 21:10:37 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (3060)
+Seat 2: Yoda03 (1050)
+Seat 4: moye42 (1760)
+Seat 5: yeahmen (1550)
+Seat 8: na3na3 (1760)
+Seat 9: Pablito94 (1865)
+Seat 10: cokslarafale (3955)
+*** ANTE/BLINDS ***
+cokslarafale posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Kh Js]
+*** PRE-FLOP *** 
+Yoda03 calls 80
+moye42 folds
+yeahmen raises 160 to 240
+na3na3 folds
+Pablito94 folds
+cokslarafale calls 200
+sabre_laser calls 160
+Yoda03 folds
+*** FLOP *** [Kc 2s Ac]
+cokslarafale bets 3715 and is all-in
+sabre_laser folds
+yeahmen calls 1310 and is all-in
+*** TURN *** [Kc 2s Ac][Ad]
+*** RIVER *** [Kc 2s Ac Ad][6c]
+*** SHOW DOWN ***
+yeahmen shows [Td Ah] (Trips of Aces)
+cokslarafale shows [5s As] (Trips of Aces)
+cokslarafale collected 2405 from side pot 1
+yeahmen collected 3420 from main pot
+*** SUMMARY ***
+Total pot 5825 | No rake
+Board: [Kc 2s Ac Ad 6c]
+Seat 5: yeahmen showed [Td Ah] and won 3420 with Trips of Aces
+Seat 10: cokslarafale (small blind) showed [5s As] and won 2405 with Trips of Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #540302101243232257-18-1437945096 - Holdem no limit (60/120) - 2015/07/26 21:11:36 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #10 is the button
+Seat 1: sabre_laser (2820)
+Seat 2: Yoda03 (970)
+Seat 4: moye42 (1760)
+Seat 5: yeahmen (3420)
+Seat 8: na3na3 (1760)
+Seat 9: Pablito94 (1865)
+Seat 10: cokslarafale (2405)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Yoda03 posts big blind 120
+Dealt to sabre_laser [3d Kh]
+*** PRE-FLOP *** 
+moye42 folds
+yeahmen folds
+na3na3 folds
+Pablito94 raises 240 to 360
+cokslarafale folds
+sabre_laser folds
+Yoda03 calls 240
+*** FLOP *** [4h 7s Qh]
+Yoda03 checks
+Pablito94 bets 1505 and is all-in
+Yoda03 folds
+Pablito94 collected 2285 from pot
+*** SUMMARY ***
+Total pot 2285 | No rake
+Board: [4h 7s Qh]
+Seat 9: Pablito94 won 2285
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #540302101243232257-19-1437945130 - Holdem no limit (60/120) - 2015/07/26 21:12:10 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (2760)
+Seat 2: Yoda03 (610)
+Seat 4: moye42 (1760)
+Seat 5: yeahmen (3420)
+Seat 8: na3na3 (1760)
+Seat 9: Pablito94 (2285)
+Seat 10: cokslarafale (2405)
+*** ANTE/BLINDS ***
+Yoda03 posts small blind 60
+moye42 posts big blind 120
+Dealt to sabre_laser [Ks Qd]
+*** PRE-FLOP *** 
+yeahmen folds
+na3na3 raises 120 to 240
+Pablito94 folds
+cokslarafale folds
+sabre_laser folds
+Yoda03 folds
+moye42 folds
+na3na3 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 8: na3na3 won 420
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #540302101243232257-20-1437945166 - Holdem no limit (60/120) - 2015/07/26 21:12:46 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (2760)
+Seat 2: Yoda03 (550)
+Seat 4: moye42 (1640)
+Seat 5: yeahmen (3420)
+Seat 8: na3na3 (1940)
+Seat 9: Pablito94 (2285)
+Seat 10: cokslarafale (2405)
+*** ANTE/BLINDS ***
+moye42 posts small blind 60
+yeahmen posts big blind 120
+Dealt to sabre_laser [7d Qd]
+*** PRE-FLOP *** 
+na3na3 folds
+Pablito94 calls 120
+cokslarafale raises 480 to 600
+sabre_laser folds
+Yoda03 folds
+moye42 folds
+yeahmen folds
+Pablito94 folds
+cokslarafale collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 10: cokslarafale won 900
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #540302101243232257-21-1437945192 - Holdem no limit (60/120) - 2015/07/26 21:13:12 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #4 is the button
+Seat 1: sabre_laser (2760)
+Seat 2: Yoda03 (550)
+Seat 4: moye42 (1580)
+Seat 5: yeahmen (3300)
+Seat 8: na3na3 (1940)
+Seat 9: Pablito94 (2165)
+Seat 10: cokslarafale (2705)
+*** ANTE/BLINDS ***
+yeahmen posts small blind 60
+na3na3 posts big blind 120
+Dealt to sabre_laser [4s As]
+*** PRE-FLOP *** 
+Pablito94 folds
+cokslarafale calls 120
+sabre_laser raises 240 to 360
+Yoda03 raises 190 to 550 and is all-in
+moye42 folds
+yeahmen folds
+na3na3 folds
+cokslarafale calls 430
+sabre_laser calls 190
+*** FLOP *** [Ad 3s Th]
+cokslarafale bets 2155 and is all-in
+sabre_laser calls 2155
+*** TURN *** [Ad 3s Th][2s]
+*** RIVER *** [Ad 3s Th 2s][Kd]
+*** SHOW DOWN ***
+sabre_laser shows [4s As] (One pair : Aces)
+Yoda03 shows [Ks Jh] (One pair : Kings)
+cokslarafale shows [8c Ac] (One pair : Aces)
+cokslarafale collected 6140 from pot
+*** SUMMARY ***
+Total pot 6140 | No rake
+Board: [Ad 3s Th 2s Kd]
+Seat 1: sabre_laser showed [4s As] and lost with One pair : Aces
+Seat 2: Yoda03 showed [Ks Jh] and lost with One pair : Kings
+Seat 10: cokslarafale showed [8c Ac] and won 6140 with One pair : Aces
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #540302101243232257-22-1437945241 - Holdem no limit (60/120) - 2015/07/26 21:14:01 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #5 is the button
+Seat 1: sabre_laser (55)
+Seat 4: moye42 (1580)
+Seat 5: yeahmen (3240)
+Seat 8: na3na3 (1820)
+Seat 9: Pablito94 (2165)
+Seat 10: cokslarafale (6140)
+*** ANTE/BLINDS ***
+na3na3 posts small blind 60
+Pablito94 posts big blind 120
+Dealt to sabre_laser [8c 4h]
+*** PRE-FLOP *** 
+cokslarafale folds
+sabre_laser folds
+moye42 raises 180 to 300
+yeahmen folds
+na3na3 folds
+Pablito94 calls 180
+*** FLOP *** [6d Jh Qs]
+Pablito94 checks
+moye42 checks
+*** TURN *** [6d Jh Qs][7c]
+Pablito94 bets 660
+moye42 calls 660
+*** RIVER *** [6d Jh Qs 7c][Kc]
+Pablito94 checks
+moye42 checks
+*** SHOW DOWN ***
+moye42 shows [9s 9h] (One pair : 9)
+Pablito94 shows [Td Js] (One pair : Jacks)
+Pablito94 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [6d Jh Qs 7c Kc]
+Seat 4: moye42 showed [9s 9h] and lost with One pair : 9
+Seat 9: Pablito94 (big blind) showed [Td Js] and won 1980 with One pair : Jacks
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #540302101243232257-23-1437945280 - Holdem no limit (80/160) - 2015/07/26 21:14:40 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #8 is the button
+Seat 1: sabre_laser (55)
+Seat 4: moye42 (620)
+Seat 5: yeahmen (3240)
+Seat 8: na3na3 (1760)
+Seat 9: Pablito94 (3185)
+Seat 10: cokslarafale (6140)
+*** ANTE/BLINDS ***
+Pablito94 posts small blind 80
+cokslarafale posts big blind 160
+Dealt to sabre_laser [5s Th]
+*** PRE-FLOP *** 
+sabre_laser calls 55 and is all-in
+moye42 folds
+yeahmen folds
+na3na3 folds
+Pablito94 calls 80
+cokslarafale checks
+*** FLOP *** [5d 8s Td]
+Pablito94 checks
+cokslarafale checks
+*** TURN *** [5d 8s Td][7h]
+Pablito94 bets 160
+cokslarafale folds
+*** RIVER *** [5d 8s Td 7h][Qd]
+*** SHOW DOWN ***
+sabre_laser shows [5s Th] (Two pairs : Tens and 5)
+Pablito94 shows [4s Ah] (High card : Ace)
+Pablito94 collected 370 from side pot 1
+sabre_laser collected 165 from main pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Board: [5d 8s Td 7h Qd]
+Seat 1: sabre_laser showed [5s Th] and won 165 with Two pairs : Tens and 5
+Seat 9: Pablito94 (small blind) showed [4s Ah] and won 370 with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #540302101243232257-24-1437945316 - Holdem no limit (80/160) - 2015/07/26 21:15:16 UTC
+Table: 'No Limit Hold'em(125798886)#0' 10-max (real money) Seat #9 is the button
+Seat 1: sabre_laser (165)
+Seat 4: moye42 (620)
+Seat 5: yeahmen (3240)
+Seat 8: na3na3 (1760)
+Seat 9: Pablito94 (3235)
+Seat 10: cokslarafale (5980)
+*** ANTE/BLINDS ***
+cokslarafale posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [5d 9d]
+*** PRE-FLOP *** 
+moye42 raises 460 to 620 and is all-in
+yeahmen folds
+na3na3 folds
+Pablito94 folds
+cokslarafale folds
+sabre_laser calls 5 and is all-in
+*** FLOP *** [Js 9c 8s]
+*** TURN *** [Js 9c 8s][2d]
+*** RIVER *** [Js 9c 8s 2d][3d]
+*** SHOW DOWN ***
+sabre_laser shows [5d 9d] (One pair : 9)
+moye42 shows [Qd Jd] (One pair : Jacks)
+moye42 collected 865 from pot
+*** SUMMARY ***
+Total pot 865 | No rake
+Board: [Js 9c 8s 2d 3d]
+Seat 1: sabre_laser (big blind) showed [5d 9d] and lost with One pair : 9
+Seat 4: moye42 showed [Qd Jd] and won 865 with One pair : Jacks
+
+

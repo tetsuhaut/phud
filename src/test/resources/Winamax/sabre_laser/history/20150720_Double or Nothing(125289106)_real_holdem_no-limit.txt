@@ -1,0 +1,2466 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #538112612815077377-1-1437427137 - Holdem no limit (10/20) - 2015/07/20 21:18:57 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FancyTato (1500)
+Seat 2: crazypix (1500)
+Seat 3: AdrianPolo (1500)
+Seat 4: Smurf974 (1500)
+Seat 5: sabre_laser (1500)
+Seat 6: fan2Slash (1500)
+Seat 7: Sebtimteo (1500)
+Seat 8: greg6 (1500)
+Seat 9: jeremrr9 (1500)
+Seat 10: classman81 (1500)
+*** ANTE/BLINDS ***
+Smurf974 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [6c Qh]
+*** PRE-FLOP *** 
+fan2Slash folds
+Sebtimteo raises 20 to 40
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato calls 40
+crazypix folds
+AdrianPolo folds
+Smurf974 folds
+sabre_laser calls 20
+*** FLOP *** [4h 5h Ks]
+sabre_laser checks
+Sebtimteo checks
+FancyTato checks
+*** TURN *** [4h 5h Ks][7d]
+sabre_laser checks
+Sebtimteo checks
+FancyTato bets 90
+sabre_laser calls 90
+Sebtimteo folds
+*** RIVER *** [4h 5h Ks 7d][2s]
+sabre_laser checks
+FancyTato checks
+*** SHOW DOWN ***
+sabre_laser shows [6c Qh] (High card : King)
+FancyTato shows [3d 3s] (One pair : 3)
+FancyTato collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [4h 5h Ks 7d 2s]
+Seat 1: FancyTato showed [3d 3s] and won 310 with One pair : 3
+Seat 5: sabre_laser (big blind) showed [6c Qh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #538112612815077377-2-1437427267 - Holdem no limit (10/20) - 2015/07/20 21:21:07 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #4 is the button
+Seat 1: FancyTato (1680)
+Seat 2: crazypix (1500)
+Seat 3: AdrianPolo (1500)
+Seat 4: Smurf974 (1490)
+Seat 5: sabre_laser (1370)
+Seat 6: fan2Slash (1500)
+Seat 7: Sebtimteo (1460)
+Seat 8: greg6 (1500)
+Seat 9: jeremrr9 (1500)
+Seat 10: classman81 (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+fan2Slash posts big blind 20
+Dealt to sabre_laser [8d 5h]
+*** PRE-FLOP *** 
+Sebtimteo calls 20
+greg6 folds
+jeremrr9 calls 20
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+Smurf974 folds
+sabre_laser folds
+fan2Slash checks
+*** FLOP *** [4d 2c 8h]
+fan2Slash checks
+Sebtimteo checks
+jeremrr9 bets 20
+fan2Slash folds
+Sebtimteo calls 20
+*** TURN *** [4d 2c 8h][Qs]
+Sebtimteo checks
+jeremrr9 bets 20
+Sebtimteo calls 20
+*** RIVER *** [4d 2c 8h Qs][Kd]
+Sebtimteo checks
+jeremrr9 bets 75
+Sebtimteo folds
+jeremrr9 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [4d 2c 8h Qs Kd]
+Seat 9: jeremrr9 won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #538112612815077377-3-1437427397 - Holdem no limit (10/20) - 2015/07/20 21:23:17 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (1680)
+Seat 2: crazypix (1500)
+Seat 3: AdrianPolo (1500)
+Seat 4: Smurf974 (1490)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1480)
+Seat 7: Sebtimteo (1400)
+Seat 8: greg6 (1500)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1500)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 10
+Sebtimteo posts big blind 20
+Dealt to sabre_laser [4h Kh]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato calls 20
+crazypix folds
+AdrianPolo folds
+Smurf974 calls 20
+sabre_laser folds
+fan2Slash folds
+Sebtimteo checks
+*** FLOP *** [2h 7s 6s]
+Sebtimteo checks
+FancyTato bets 70
+Smurf974 raises 70 to 140
+Sebtimteo folds
+FancyTato calls 70
+*** TURN *** [2h 7s 6s][Js]
+FancyTato checks
+Smurf974 checks
+*** RIVER *** [2h 7s 6s Js][9d]
+FancyTato bets 230
+Smurf974 calls 230
+*** SHOW DOWN ***
+Smurf974 shows [8d 8s] (One pair : 8)
+FancyTato shows [9h 7h] (Two pairs : 9 and 7)
+FancyTato collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [2h 7s 6s Js 9d]
+Seat 1: FancyTato showed [9h 7h] and won 810 with Two pairs : 9 and 7
+Seat 4: Smurf974 showed [8d 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538112612815077377-4-1437427494 - Holdem no limit (15/30) - 2015/07/20 21:24:54 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #6 is the button
+Seat 1: FancyTato (2100)
+Seat 2: crazypix (1500)
+Seat 3: AdrianPolo (1500)
+Seat 4: Smurf974 (1100)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1470)
+Seat 7: Sebtimteo (1380)
+Seat 8: greg6 (1500)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1500)
+*** ANTE/BLINDS ***
+Sebtimteo posts small blind 15
+greg6 posts big blind 30
+Dealt to sabre_laser [9s 2c]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato calls 30
+crazypix folds
+AdrianPolo folds
+Smurf974 raises 1070 to 1100 and is all-in
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 raises 400 to 1500 and is all-in
+FancyTato folds
+*** FLOP *** [Kc 9c 4s]
+*** TURN *** [Kc 9c 4s][Ah]
+*** RIVER *** [Kc 9c 4s Ah][3d]
+*** SHOW DOWN ***
+Smurf974 shows [Qd Qs] (One pair : Queens)
+greg6 shows [Ks Ac] (Two pairs : Aces and Kings)
+greg6 collected 2645 from pot
+*** SUMMARY ***
+Total pot 2645 | No rake
+Board: [Kc 9c 4s Ah 3d]
+Seat 4: Smurf974 showed [Qd Qs] and lost with One pair : Queens
+Seat 8: greg6 (big blind) showed [Ks Ac] and won 2645 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538112612815077377-5-1437427569 - Holdem no limit (15/30) - 2015/07/20 21:26:09 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (2070)
+Seat 2: crazypix (1500)
+Seat 3: AdrianPolo (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1470)
+Seat 7: Sebtimteo (1365)
+Seat 8: greg6 (2645)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1500)
+*** ANTE/BLINDS ***
+greg6 posts small blind 15
+jeremrr9 posts big blind 30
+Dealt to sabre_laser [Jd 3c]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato folds
+crazypix calls 30
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo calls 30
+greg6 folds
+jeremrr9 checks
+*** FLOP *** [4s 5s Ac]
+jeremrr9 checks
+crazypix checks
+Sebtimteo checks
+*** TURN *** [4s 5s Ac][Jh]
+jeremrr9 bets 30
+crazypix calls 30
+Sebtimteo calls 30
+*** RIVER *** [4s 5s Ac Jh][2c]
+jeremrr9 checks
+crazypix checks
+Sebtimteo checks
+*** SHOW DOWN ***
+crazypix shows [Qc Qd] (One pair : Queens)
+Sebtimteo shows [2h Th] (One pair : 2)
+jeremrr9 shows [As 7s] (One pair : Aces)
+jeremrr9 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [4s 5s Ac Jh 2c]
+Seat 2: crazypix showed [Qc Qd] and lost with One pair : Queens
+Seat 7: Sebtimteo (button) showed [2h Th] and lost with One pair : 2
+Seat 9: jeremrr9 (big blind) showed [As 7s] and won 195 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538112612815077377-6-1437427652 - Holdem no limit (15/30) - 2015/07/20 21:27:32 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (2070)
+Seat 2: crazypix (1440)
+Seat 3: AdrianPolo (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1470)
+Seat 7: Sebtimteo (1305)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1725)
+Seat 10: classman81 (1500)
+*** ANTE/BLINDS ***
+jeremrr9 posts small blind 15
+classman81 posts big blind 30
+Dealt to sabre_laser [Th 7d]
+*** PRE-FLOP *** 
+FancyTato calls 30
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash raises 60 to 90
+Sebtimteo calls 90
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+*** FLOP *** [2s 9d Kh]
+fan2Slash bets 105
+Sebtimteo folds
+fan2Slash collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2s 9d Kh]
+Seat 6: fan2Slash won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538112612815077377-7-1437427717 - Holdem no limit (15/30) - 2015/07/20 21:28:37 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1440)
+Seat 3: AdrianPolo (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1635)
+Seat 7: Sebtimteo (1215)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1710)
+Seat 10: classman81 (1470)
+*** ANTE/BLINDS ***
+classman81 posts small blind 15
+FancyTato posts big blind 30
+Dealt to sabre_laser [Jd 6s]
+*** PRE-FLOP *** 
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo calls 30
+greg6 folds
+jeremrr9 folds
+classman81 raises 1440 to 1470 and is all-in
+FancyTato folds
+Sebtimteo folds
+classman81 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 10: classman81 (small blind) won 1530
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #538112612815077377-8-1437427769 - Holdem no limit (15/30) - 2015/07/20 21:29:29 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (2010)
+Seat 2: crazypix (1440)
+Seat 3: AdrianPolo (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1635)
+Seat 7: Sebtimteo (1185)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1710)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+FancyTato posts small blind 15
+crazypix posts big blind 30
+Dealt to sabre_laser [4h 9s]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo calls 30
+greg6 folds
+jeremrr9 calls 30
+classman81 folds
+FancyTato calls 15
+crazypix checks
+*** FLOP *** [Jd 6h 6c]
+FancyTato checks
+crazypix bets 30
+Sebtimteo calls 30
+jeremrr9 folds
+FancyTato folds
+*** TURN *** [Jd 6h 6c][5c]
+crazypix checks
+Sebtimteo checks
+*** RIVER *** [Jd 6h 6c 5c][2s]
+crazypix checks
+Sebtimteo checks
+*** SHOW DOWN ***
+Sebtimteo shows [As Th] (One pair : 6)
+crazypix shows [Jc 7h] (Two pairs : Jacks and 6)
+crazypix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jd 6h 6c 5c 2s]
+Seat 2: crazypix (big blind) showed [Jc 7h] and won 180 with Two pairs : Jacks and 6
+Seat 7: Sebtimteo showed [As Th] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538112612815077377-9-1437427947 - Holdem no limit (20/40) - 2015/07/20 21:32:27 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (1980)
+Seat 2: crazypix (1560)
+Seat 3: AdrianPolo (1500)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1635)
+Seat 7: Sebtimteo (1125)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1680)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+AdrianPolo posts big blind 40
+Dealt to sabre_laser [4h 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato raises 80 to 120
+crazypix folds
+AdrianPolo folds
+FancyTato collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: FancyTato (button) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538112612815077377-10-1437428005 - Holdem no limit (20/40) - 2015/07/20 21:33:25 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1460)
+Seat 5: sabre_laser (1360)
+Seat 6: fan2Slash (1635)
+Seat 7: Sebtimteo (1125)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1680)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+AdrianPolo posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [2s 3h]
+*** PRE-FLOP *** 
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix raises 40 to 80
+AdrianPolo folds
+sabre_laser folds
+crazypix collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: crazypix (button) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538112612815077377-11-1437428043 - Holdem no limit (20/40) - 2015/07/20 21:34:03 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1600)
+Seat 3: AdrianPolo (1440)
+Seat 5: sabre_laser (1320)
+Seat 6: fan2Slash (1635)
+Seat 7: Sebtimteo (1125)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1680)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+fan2Slash posts big blind 40
+Dealt to sabre_laser [Kh 6c]
+*** PRE-FLOP *** 
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo raises 40 to 80
+sabre_laser calls 60
+fan2Slash folds
+*** FLOP *** [Tc 2c 5h]
+sabre_laser checks
+AdrianPolo checks
+*** TURN *** [Tc 2c 5h][Qd]
+sabre_laser bets 120
+AdrianPolo folds
+sabre_laser collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Tc 2c 5h Qd]
+Seat 5: sabre_laser (small blind) won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #538112612815077377-12-1437428145 - Holdem no limit (20/40) - 2015/07/20 21:35:45 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1600)
+Seat 3: AdrianPolo (1360)
+Seat 5: sabre_laser (1440)
+Seat 6: fan2Slash (1595)
+Seat 7: Sebtimteo (1125)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1680)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 20
+Sebtimteo posts big blind 40
+Dealt to sabre_laser [As Jh]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix calls 40
+AdrianPolo folds
+sabre_laser raises 80 to 120
+fan2Slash folds
+Sebtimteo calls 80
+crazypix calls 80
+*** FLOP *** [2d Ac Tc]
+Sebtimteo checks
+crazypix checks
+sabre_laser bets 190
+Sebtimteo folds
+crazypix folds
+sabre_laser collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [2d Ac Tc]
+Seat 5: sabre_laser (button) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538112612815077377-13-1437428243 - Holdem no limit (30/60) - 2015/07/20 21:37:23 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #6 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1480)
+Seat 3: AdrianPolo (1360)
+Seat 5: sabre_laser (1700)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (1005)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1680)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+Sebtimteo posts small blind 30
+greg6 posts big blind 60
+Dealt to sabre_laser [9c Qc]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 8: greg6 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538112612815077377-14-1437428265 - Holdem no limit (30/60) - 2015/07/20 21:37:45 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1480)
+Seat 3: AdrianPolo (1360)
+Seat 5: sabre_laser (1700)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (975)
+Seat 8: greg6 (2660)
+Seat 9: jeremrr9 (1680)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+greg6 posts small blind 30
+jeremrr9 posts big blind 60
+Dealt to sabre_laser [6d Ah]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser raises 90 to 150
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: sabre_laser won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538112612815077377-15-1437428314 - Holdem no limit (30/60) - 2015/07/20 21:38:34 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1480)
+Seat 3: AdrianPolo (1360)
+Seat 5: sabre_laser (1790)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (975)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1620)
+Seat 10: classman81 (1530)
+*** ANTE/BLINDS ***
+jeremrr9 posts small blind 30
+classman81 posts big blind 60
+Dealt to sabre_laser [4s Js]
+*** PRE-FLOP *** 
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo calls 60
+greg6 folds
+jeremrr9 calls 30
+classman81 checks
+*** FLOP *** [Kd 3s Ts]
+jeremrr9 checks
+classman81 checks
+Sebtimteo checks
+*** TURN *** [Kd 3s Ts][Ks]
+jeremrr9 bets 60
+classman81 folds
+Sebtimteo calls 60
+*** RIVER *** [Kd 3s Ts Ks][Qs]
+jeremrr9 checks
+Sebtimteo bets 300
+jeremrr9 folds
+Sebtimteo collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kd 3s Ts Ks Qs]
+Seat 7: Sebtimteo won 600
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538112612815077377-16-1437428379 - Holdem no limit (30/60) - 2015/07/20 21:39:39 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2040)
+Seat 2: crazypix (1480)
+Seat 3: AdrianPolo (1360)
+Seat 5: sabre_laser (1790)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (1155)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1500)
+Seat 10: classman81 (1470)
+*** ANTE/BLINDS ***
+classman81 posts small blind 30
+FancyTato posts big blind 60
+Dealt to sabre_laser [5c Kd]
+*** PRE-FLOP *** 
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 raises 60 to 120
+classman81 folds
+FancyTato folds
+jeremrr9 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 9: jeremrr9 (button) won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538112612815077377-17-1437428409 - Holdem no limit (30/60) - 2015/07/20 21:40:09 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (1980)
+Seat 2: crazypix (1480)
+Seat 3: AdrianPolo (1360)
+Seat 5: sabre_laser (1790)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (1155)
+Seat 8: greg6 (2630)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1440)
+*** ANTE/BLINDS ***
+FancyTato posts small blind 30
+crazypix posts big blind 60
+Dealt to sabre_laser [2s 6h]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 calls 60
+jeremrr9 folds
+classman81 folds
+FancyTato calls 30
+crazypix raises 240 to 300
+greg6 folds
+FancyTato folds
+crazypix collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: crazypix (big blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538112612815077377-18-1437428448 - Holdem no limit (30/60) - 2015/07/20 21:40:48 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (1920)
+Seat 2: crazypix (1600)
+Seat 3: AdrianPolo (1360)
+Seat 5: sabre_laser (1790)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (1155)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1440)
+*** ANTE/BLINDS ***
+crazypix posts small blind 30
+AdrianPolo posts big blind 60
+Dealt to sabre_laser [7d 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 calls 60
+FancyTato calls 60
+crazypix calls 30
+AdrianPolo checks
+*** FLOP *** [Kd Qd Ts]
+crazypix checks
+AdrianPolo checks
+classman81 checks
+FancyTato bets 210
+crazypix folds
+AdrianPolo folds
+classman81 folds
+FancyTato collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Kd Qd Ts]
+Seat 1: FancyTato (button) won 450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #538112612815077377-19-1437428535 - Holdem no limit (30/60) - 2015/07/20 21:42:15 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (2100)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1300)
+Seat 5: sabre_laser (1790)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (1155)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1380)
+*** ANTE/BLINDS ***
+AdrianPolo posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [4s Ad]
+*** PRE-FLOP *** 
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo raises 60 to 120
+sabre_laser calls 60
+*** FLOP *** [2d Jh 9h]
+AdrianPolo bets 60
+sabre_laser calls 60
+*** TURN *** [2d Jh 9h][3c]
+AdrianPolo bets 60
+sabre_laser calls 60
+*** RIVER *** [2d Jh 9h 3c][Ks]
+AdrianPolo checks
+sabre_laser bets 360
+AdrianPolo calls 360
+*** SHOW DOWN ***
+sabre_laser shows [4s Ad] (High card : Ace)
+AdrianPolo shows [Kh Qc] (One pair : Kings)
+AdrianPolo collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [2d Jh 9h 3c Ks]
+Seat 3: AdrianPolo (small blind) showed [Kh Qc] and won 1200 with One pair : Kings
+Seat 5: sabre_laser (big blind) showed [4s Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538112612815077377-20-1437428599 - Holdem no limit (40/80) - 2015/07/20 21:43:19 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FancyTato (2100)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1190)
+Seat 6: fan2Slash (1575)
+Seat 7: Sebtimteo (1155)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1380)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+fan2Slash posts big blind 80
+Dealt to sabre_laser [Jd 5s]
+*** PRE-FLOP *** 
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato calls 80
+crazypix folds
+AdrianPolo folds
+sabre_laser calls 40
+fan2Slash checks
+*** FLOP *** [9s 4h Qc]
+sabre_laser checks
+fan2Slash checks
+FancyTato bets 160
+sabre_laser folds
+fan2Slash folds
+FancyTato collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [9s 4h Qc]
+Seat 1: FancyTato won 400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538112612815077377-21-1437428632 - Holdem no limit (40/80) - 2015/07/20 21:43:52 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (2260)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1495)
+Seat 7: Sebtimteo (1155)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1380)
+*** ANTE/BLINDS ***
+fan2Slash posts small blind 40
+Sebtimteo posts big blind 80
+Dealt to sabre_laser [2d Th]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 7: Sebtimteo (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538112612815077377-22-1437428678 - Holdem no limit (40/80) - 2015/07/20 21:44:38 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #6 is the button
+Seat 1: FancyTato (2260)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1455)
+Seat 7: Sebtimteo (1195)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1380)
+*** ANTE/BLINDS ***
+Sebtimteo posts small blind 40
+greg6 posts big blind 80
+Dealt to sabre_laser [5c As]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: greg6 (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538112612815077377-23-1437428751 - Holdem no limit (40/80) - 2015/07/20 21:45:51 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (2260)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1455)
+Seat 7: Sebtimteo (1155)
+Seat 8: greg6 (2610)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1380)
+*** ANTE/BLINDS ***
+greg6 posts small blind 40
+jeremrr9 posts big blind 80
+Dealt to sabre_laser [5s 2d]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo calls 80
+greg6 folds
+jeremrr9 checks
+*** FLOP *** [Qc Tc Kc]
+jeremrr9 checks
+Sebtimteo checks
+*** TURN *** [Qc Tc Kc][7h]
+jeremrr9 checks
+Sebtimteo checks
+*** RIVER *** [Qc Tc Kc 7h][Ah]
+jeremrr9 checks
+Sebtimteo bets 552
+jeremrr9 folds
+Sebtimteo collected 752 from pot
+*** SUMMARY ***
+Total pot 752 | No rake
+Board: [Qc Tc Kc 7h Ah]
+Seat 7: Sebtimteo (button) won 752
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538112612815077377-24-1437428826 - Holdem no limit (40/80) - 2015/07/20 21:47:06 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (2260)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1455)
+Seat 7: Sebtimteo (1275)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1510)
+Seat 10: classman81 (1380)
+*** ANTE/BLINDS ***
+jeremrr9 posts small blind 40
+classman81 posts big blind 80
+Dealt to sabre_laser [Jh 7s]
+*** PRE-FLOP *** 
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 raises 80 to 160
+classman81 folds
+jeremrr9 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: jeremrr9 (small blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538112612815077377-25-1437428857 - Holdem no limit (40/80) - 2015/07/20 21:47:37 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2260)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1455)
+Seat 7: Sebtimteo (1275)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1300)
+*** ANTE/BLINDS ***
+classman81 posts small blind 40
+FancyTato posts big blind 80
+Dealt to sabre_laser [Ts 8h]
+*** PRE-FLOP *** 
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash raises 80 to 160
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 raises 1140 to 1300 and is all-in
+FancyTato folds
+fan2Slash folds
+classman81 collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Seat 10: classman81 (small blind) won 1540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #538112612815077377-26-1437428895 - Holdem no limit (40/80) - 2015/07/20 21:48:15 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (2180)
+Seat 2: crazypix (1540)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1295)
+Seat 7: Sebtimteo (1275)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1540)
+*** ANTE/BLINDS ***
+FancyTato posts small blind 40
+crazypix posts big blind 80
+Dealt to sabre_laser [3d 9c]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser folds
+fan2Slash folds
+Sebtimteo calls 80
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato calls 40
+crazypix checks
+*** FLOP *** [Qc 7h 4d]
+FancyTato checks
+crazypix checks
+Sebtimteo checks
+*** TURN *** [Qc 7h 4d][9h]
+FancyTato checks
+crazypix checks
+Sebtimteo bets 80
+FancyTato folds
+crazypix calls 80
+*** RIVER *** [Qc 7h 4d 9h][9s]
+crazypix checks
+Sebtimteo bets 400
+crazypix calls 400
+*** SHOW DOWN ***
+crazypix shows [Ah Qh] (Two pairs : Queens and 9)
+Sebtimteo shows [9d 8d] (Trips of 9)
+Sebtimteo collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Qc 7h 4d 9h 9s]
+Seat 2: crazypix (big blind) showed [Ah Qh] and lost with Two pairs : Queens and 9
+Seat 7: Sebtimteo showed [9d 8d] and won 1200 with Trips of 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538112612815077377-27-1437429027 - Holdem no limit (60/120) - 2015/07/20 21:50:27 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (2100)
+Seat 2: crazypix (980)
+Seat 3: AdrianPolo (1900)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1295)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1540)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+AdrianPolo posts big blind 120
+Dealt to sabre_laser [7h 9d]
+*** PRE-FLOP *** 
+sabre_laser folds
+fan2Slash folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato raises 180 to 300
+crazypix folds
+AdrianPolo folds
+FancyTato collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: FancyTato (button) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538112612815077377-28-1437429077 - Holdem no limit (60/120) - 2015/07/20 21:51:17 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (2280)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1780)
+Seat 5: sabre_laser (1110)
+Seat 6: fan2Slash (1295)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (2570)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1540)
+*** ANTE/BLINDS ***
+AdrianPolo posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [5c 9c]
+*** PRE-FLOP *** 
+fan2Slash raises 300 to 420
+Sebtimteo folds
+greg6 raises 2150 to 2570 and is all-in
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+fan2Slash calls 875 and is all-in
+*** FLOP *** [5d 5h Js]
+*** TURN *** [5d 5h Js][4d]
+*** RIVER *** [5d 5h Js 4d][4c]
+*** SHOW DOWN ***
+fan2Slash shows [As Kc] (Two pairs : 5 and 4)
+greg6 shows [Qs Qc] (Two pairs : Queens and 5)
+greg6 collected 4045 from pot
+*** SUMMARY ***
+Total pot 4045 | No rake
+Board: [5d 5h Js 4d 4c]
+Seat 6: fan2Slash showed [As Kc] and lost with Two pairs : 5 and 4
+Seat 8: greg6 showed [Qs Qc] and won 4045 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538112612815077377-29-1437429121 - Holdem no limit (60/120) - 2015/07/20 21:52:01 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FancyTato (2280)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (990)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1540)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+Sebtimteo posts big blind 120
+Dealt to sabre_laser [Qh As]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser raises 870 to 990 and is all-in
+Sebtimteo folds
+sabre_laser collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 5: sabre_laser (small blind) won 1110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538112612815077377-30-1437429148 - Holdem no limit (60/120) - 2015/07/20 21:52:28 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (2280)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (1110)
+Seat 7: Sebtimteo (1795)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1540)
+*** ANTE/BLINDS ***
+Sebtimteo posts small blind 60
+greg6 posts big blind 120
+Dealt to sabre_laser [5d 2d]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: greg6 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538112612815077377-31-1437429186 - Holdem no limit (60/120) - 2015/07/20 21:53:06 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (2280)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (1110)
+Seat 7: Sebtimteo (1735)
+Seat 8: greg6 (4105)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1540)
+*** ANTE/BLINDS ***
+greg6 posts small blind 60
+jeremrr9 posts big blind 120
+Dealt to sabre_laser [Jc 8h]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato raises 180 to 300
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+FancyTato collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: FancyTato won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538112612815077377-32-1437429238 - Holdem no limit (60/120) - 2015/07/20 21:53:58 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (2460)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (1110)
+Seat 7: Sebtimteo (1735)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1470)
+Seat 10: classman81 (1540)
+*** ANTE/BLINDS ***
+jeremrr9 posts small blind 60
+classman81 posts big blind 120
+Dealt to sabre_laser [7c Jh]
+*** PRE-FLOP *** 
+FancyTato calls 120
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 calls 60
+classman81 checks
+*** FLOP *** [8d 9s 4c]
+jeremrr9 checks
+classman81 bets 120
+FancyTato folds
+jeremrr9 folds
+classman81 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8d 9s 4c]
+Seat 10: classman81 (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #538112612815077377-33-1437429282 - Holdem no limit (60/120) - 2015/07/20 21:54:42 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2340)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (1110)
+Seat 7: Sebtimteo (1735)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1350)
+Seat 10: classman81 (1780)
+*** ANTE/BLINDS ***
+classman81 posts small blind 60
+FancyTato posts big blind 120
+Dealt to sabre_laser [Td 6h]
+*** PRE-FLOP *** 
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo raises 120 to 240
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+Sebtimteo collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 7: Sebtimteo won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-34-1437429332 - Holdem no limit (80/160) - 2015/07/20 21:55:32 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (2220)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (1110)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1350)
+Seat 10: classman81 (1720)
+*** ANTE/BLINDS ***
+FancyTato posts small blind 80
+crazypix posts big blind 160
+Dealt to sabre_laser [3h Jd]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 raises 160 to 320
+classman81 folds
+FancyTato folds
+crazypix folds
+jeremrr9 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 9: jeremrr9 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-35-1437429356 - Holdem no limit (80/160) - 2015/07/20 21:55:56 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (2140)
+Seat 2: crazypix (760)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (1110)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1720)
+*** ANTE/BLINDS ***
+crazypix posts small blind 80
+AdrianPolo posts big blind 160
+Dealt to sabre_laser [9c Qd]
+*** PRE-FLOP *** 
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix raises 600 to 760 and is all-in
+AdrianPolo folds
+crazypix collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Seat 2: crazypix (small blind) won 920
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-36-1437429393 - Holdem no limit (80/160) - 2015/07/20 21:56:33 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (2140)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1560)
+Seat 5: sabre_laser (1110)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1720)
+*** ANTE/BLINDS ***
+AdrianPolo posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Qh 8d]
+*** PRE-FLOP *** 
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo raises 240 to 400
+sabre_laser folds
+AdrianPolo collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 3: AdrianPolo (small blind) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-37-1437429419 - Holdem no limit (80/160) - 2015/07/20 21:56:59 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FancyTato (2140)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (950)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1720)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Sebtimteo posts big blind 160
+Dealt to sabre_laser [5c 3s]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: Sebtimteo (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-38-1437429440 - Holdem no limit (80/160) - 2015/07/20 21:57:20 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (2140)
+Seat 2: crazypix (920)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (870)
+Seat 7: Sebtimteo (1995)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1720)
+*** ANTE/BLINDS ***
+Sebtimteo posts small blind 80
+greg6 posts big blind 160
+Dealt to sabre_laser [Jd 7d]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix raises 760 to 920 and is all-in
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+crazypix collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Seat 2: crazypix won 1160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-39-1437429475 - Holdem no limit (80/160) - 2015/07/20 21:57:55 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (2140)
+Seat 2: crazypix (1160)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (870)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (3885)
+Seat 9: jeremrr9 (1590)
+Seat 10: classman81 (1720)
+*** ANTE/BLINDS ***
+greg6 posts small blind 80
+jeremrr9 posts big blind 160
+Dealt to sabre_laser [8s 4s]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: jeremrr9 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-40-1437429520 - Holdem no limit (80/160) - 2015/07/20 21:58:40 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (2140)
+Seat 2: crazypix (1160)
+Seat 3: AdrianPolo (1720)
+Seat 5: sabre_laser (870)
+Seat 7: Sebtimteo (1915)
+Seat 8: greg6 (3805)
+Seat 9: jeremrr9 (1670)
+Seat 10: classman81 (1720)
+*** ANTE/BLINDS ***
+jeremrr9 posts small blind 80
+classman81 posts big blind 160
+Dealt to sabre_laser [7s Jd]
+*** PRE-FLOP *** 
+FancyTato folds
+crazypix folds
+AdrianPolo calls 160
+sabre_laser folds
+Sebtimteo calls 160
+greg6 folds
+jeremrr9 calls 80
+classman81 checks
+*** FLOP *** [8h 7c Ac]
+jeremrr9 checks
+classman81 checks
+AdrianPolo bets 160
+Sebtimteo raises 160 to 320
+jeremrr9 folds
+classman81 folds
+AdrianPolo calls 160
+*** TURN *** [8h 7c Ac][5d]
+AdrianPolo checks
+Sebtimteo bets 1280
+AdrianPolo folds
+Sebtimteo collected 2560 from pot
+*** SUMMARY ***
+Total pot 2560 | No rake
+Board: [8h 7c Ac 5d]
+Seat 7: Sebtimteo won 2560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-41-1437429608 - Holdem no limit (80/160) - 2015/07/20 22:00:08 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2140)
+Seat 2: crazypix (1160)
+Seat 3: AdrianPolo (1240)
+Seat 5: sabre_laser (870)
+Seat 7: Sebtimteo (2715)
+Seat 8: greg6 (3805)
+Seat 9: jeremrr9 (1510)
+Seat 10: classman81 (1560)
+*** ANTE/BLINDS ***
+classman81 posts small blind 80
+FancyTato posts big blind 160
+Dealt to sabre_laser [Qh 6h]
+*** PRE-FLOP *** 
+crazypix folds
+AdrianPolo folds
+sabre_laser raises 710 to 870 and is all-in
+Sebtimteo calls 870
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+*** FLOP *** [4h Ks Kh]
+*** TURN *** [4h Ks Kh][Jh]
+*** RIVER *** [4h Ks Kh Jh][Ad]
+*** SHOW DOWN ***
+Sebtimteo shows [9c 9s] (Two pairs : Kings and 9)
+sabre_laser shows [Qh 6h] (Flush King high)
+sabre_laser collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [4h Ks Kh Jh Ad]
+Seat 5: sabre_laser showed [Qh 6h] and won 1980 with Flush King high
+Seat 7: Sebtimteo showed [9c 9s] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #538112612815077377-42-1437429644 - Holdem no limit (80/160) - 2015/07/20 22:00:44 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (1980)
+Seat 2: crazypix (1160)
+Seat 3: AdrianPolo (1240)
+Seat 5: sabre_laser (1980)
+Seat 7: Sebtimteo (1845)
+Seat 8: greg6 (3805)
+Seat 9: jeremrr9 (1510)
+Seat 10: classman81 (1480)
+*** ANTE/BLINDS ***
+FancyTato posts small blind 80
+crazypix posts big blind 160
+Dealt to sabre_laser [7d 2c]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 raises 3645 to 3805 and is all-in
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+greg6 collected 4045 from pot
+*** SUMMARY ***
+Total pot 4045 | No rake
+Seat 8: greg6 won 4045
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-43-1437429684 - Holdem no limit (10/100/200) - 2015/07/20 22:01:24 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (1900)
+Seat 2: crazypix (1000)
+Seat 3: AdrianPolo (1240)
+Seat 5: sabre_laser (1980)
+Seat 7: Sebtimteo (1845)
+Seat 8: greg6 (4045)
+Seat 9: jeremrr9 (1510)
+Seat 10: classman81 (1480)
+*** ANTE/BLINDS ***
+crazypix posts ante 10
+AdrianPolo posts ante 10
+FancyTato posts ante 10
+sabre_laser posts ante 10
+Sebtimteo posts ante 10
+greg6 posts ante 10
+jeremrr9 posts ante 10
+classman81 posts ante 10
+crazypix posts small blind 100
+AdrianPolo posts big blind 200
+Dealt to sabre_laser [6d 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato raises 1690 to 1890 and is all-in
+crazypix folds
+AdrianPolo folds
+FancyTato collected 2270 from pot
+*** SUMMARY ***
+Total pot 2270 | No rake
+Seat 1: FancyTato (button) won 2270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-44-1437429715 - Holdem no limit (10/100/200) - 2015/07/20 22:01:55 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (2270)
+Seat 2: crazypix (890)
+Seat 3: AdrianPolo (1030)
+Seat 5: sabre_laser (1970)
+Seat 7: Sebtimteo (1835)
+Seat 8: greg6 (4035)
+Seat 9: jeremrr9 (1500)
+Seat 10: classman81 (1470)
+*** ANTE/BLINDS ***
+AdrianPolo posts ante 10
+sabre_laser posts ante 10
+FancyTato posts ante 10
+crazypix posts ante 10
+Sebtimteo posts ante 10
+greg6 posts ante 10
+jeremrr9 posts ante 10
+classman81 posts ante 10
+AdrianPolo posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Td 4d]
+*** PRE-FLOP *** 
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 raises 1260 to 1460 and is all-in
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+classman81 collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Seat 10: classman81 won 1840
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-45-1437429744 - Holdem no limit (10/100/200) - 2015/07/20 22:02:24 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FancyTato (2260)
+Seat 2: crazypix (880)
+Seat 3: AdrianPolo (920)
+Seat 5: sabre_laser (1760)
+Seat 7: Sebtimteo (1825)
+Seat 8: greg6 (4025)
+Seat 9: jeremrr9 (1490)
+Seat 10: classman81 (1840)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Sebtimteo posts ante 10
+FancyTato posts ante 10
+crazypix posts ante 10
+AdrianPolo posts ante 10
+greg6 posts ante 10
+jeremrr9 posts ante 10
+classman81 posts ante 10
+sabre_laser posts small blind 100
+Sebtimteo posts big blind 200
+Dealt to sabre_laser [8h 5d]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 7: Sebtimteo (big blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-46-1437429762 - Holdem no limit (10/100/200) - 2015/07/20 22:02:42 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (2250)
+Seat 2: crazypix (870)
+Seat 3: AdrianPolo (910)
+Seat 5: sabre_laser (1650)
+Seat 7: Sebtimteo (1995)
+Seat 8: greg6 (4015)
+Seat 9: jeremrr9 (1480)
+Seat 10: classman81 (1830)
+*** ANTE/BLINDS ***
+Sebtimteo posts ante 10
+greg6 posts ante 10
+FancyTato posts ante 10
+crazypix posts ante 10
+AdrianPolo posts ante 10
+sabre_laser posts ante 10
+jeremrr9 posts ante 10
+classman81 posts ante 10
+Sebtimteo posts small blind 100
+greg6 posts big blind 200
+Dealt to sabre_laser [Kh 6h]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 8: greg6 (big blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-47-1437429792 - Holdem no limit (10/100/200) - 2015/07/20 22:03:12 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (2240)
+Seat 2: crazypix (860)
+Seat 3: AdrianPolo (900)
+Seat 5: sabre_laser (1640)
+Seat 7: Sebtimteo (1885)
+Seat 8: greg6 (4185)
+Seat 9: jeremrr9 (1470)
+Seat 10: classman81 (1820)
+*** ANTE/BLINDS ***
+greg6 posts ante 10
+jeremrr9 posts ante 10
+FancyTato posts ante 10
+crazypix posts ante 10
+AdrianPolo posts ante 10
+sabre_laser posts ante 10
+Sebtimteo posts ante 10
+classman81 posts ante 10
+greg6 posts small blind 100
+jeremrr9 posts big blind 200
+Dealt to sabre_laser [6h 8c]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo calls 200
+greg6 folds
+jeremrr9 checks
+*** FLOP *** [Js Jd 2d]
+jeremrr9 checks
+Sebtimteo checks
+*** TURN *** [Js Jd 2d][8d]
+jeremrr9 checks
+Sebtimteo checks
+*** RIVER *** [Js Jd 2d 8d][Ad]
+jeremrr9 checks
+Sebtimteo checks
+*** SHOW DOWN ***
+jeremrr9 shows [9s 6s] (One pair : Jacks)
+Sebtimteo shows [3c As] (Two pairs : Aces and Jacks)
+Sebtimteo collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Js Jd 2d 8d Ad]
+Seat 7: Sebtimteo (button) showed [3c As] and won 580 with Two pairs : Aces and Jacks
+Seat 9: jeremrr9 (big blind) showed [9s 6s] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-48-1437429838 - Holdem no limit (10/100/200) - 2015/07/20 22:03:58 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (2230)
+Seat 2: crazypix (850)
+Seat 3: AdrianPolo (890)
+Seat 5: sabre_laser (1630)
+Seat 7: Sebtimteo (2255)
+Seat 8: greg6 (4075)
+Seat 9: jeremrr9 (1260)
+Seat 10: classman81 (1810)
+*** ANTE/BLINDS ***
+jeremrr9 posts ante 10
+classman81 posts ante 10
+FancyTato posts ante 10
+crazypix posts ante 10
+AdrianPolo posts ante 10
+sabre_laser posts ante 10
+Sebtimteo posts ante 10
+greg6 posts ante 10
+jeremrr9 posts small blind 100
+classman81 posts big blind 200
+Dealt to sabre_laser [2s 7c]
+*** PRE-FLOP *** 
+FancyTato calls 200
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 raises 3865 to 4065 and is all-in
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+greg6 collected 4645 from pot
+*** SUMMARY ***
+Total pot 4645 | No rake
+Seat 8: greg6 (button) won 4645
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-49-1437429893 - Holdem no limit (10/100/200) - 2015/07/20 22:04:53 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2020)
+Seat 2: crazypix (840)
+Seat 3: AdrianPolo (880)
+Seat 5: sabre_laser (1620)
+Seat 7: Sebtimteo (2245)
+Seat 8: greg6 (4645)
+Seat 9: jeremrr9 (1150)
+Seat 10: classman81 (1600)
+*** ANTE/BLINDS ***
+classman81 posts ante 10
+FancyTato posts ante 10
+crazypix posts ante 10
+AdrianPolo posts ante 10
+sabre_laser posts ante 10
+Sebtimteo posts ante 10
+greg6 posts ante 10
+jeremrr9 posts ante 10
+classman81 posts small blind 100
+FancyTato posts big blind 200
+Dealt to sabre_laser [2h 3d]
+*** PRE-FLOP *** 
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 calls 100
+FancyTato raises 300 to 500
+classman81 folds
+FancyTato collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 1: FancyTato (big blind) won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-50-1437429941 - Holdem no limit (10/100/200) - 2015/07/20 22:05:41 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (2290)
+Seat 2: crazypix (830)
+Seat 3: AdrianPolo (870)
+Seat 5: sabre_laser (1610)
+Seat 7: Sebtimteo (2235)
+Seat 8: greg6 (4635)
+Seat 9: jeremrr9 (1140)
+Seat 10: classman81 (1390)
+*** ANTE/BLINDS ***
+FancyTato posts ante 10
+crazypix posts ante 10
+AdrianPolo posts ante 10
+sabre_laser posts ante 10
+Sebtimteo posts ante 10
+greg6 posts ante 10
+jeremrr9 posts ante 10
+classman81 posts ante 10
+FancyTato posts small blind 100
+crazypix posts big blind 200
+Dealt to sabre_laser [9h Ts]
+*** PRE-FLOP *** 
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo calls 200
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato calls 100
+crazypix raises 620 to 820 and is all-in
+Sebtimteo calls 620
+FancyTato folds
+*** FLOP *** [5s Kd 7c]
+*** TURN *** [5s Kd 7c][9s]
+*** RIVER *** [5s Kd 7c 9s][7d]
+*** SHOW DOWN ***
+Sebtimteo shows [Jd Ad] (One pair : 7)
+crazypix shows [Th Td] (Two pairs : Tens and 7)
+crazypix collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [5s Kd 7c 9s 7d]
+Seat 2: crazypix (big blind) showed [Th Td] and won 1920 with Two pairs : Tens and 7
+Seat 7: Sebtimteo showed [Jd Ad] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #538112612815077377-51-1437430007 - Holdem no limit (10/100/200) - 2015/07/20 22:06:47 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (2080)
+Seat 2: crazypix (1920)
+Seat 3: AdrianPolo (860)
+Seat 5: sabre_laser (1600)
+Seat 7: Sebtimteo (1405)
+Seat 8: greg6 (4625)
+Seat 9: jeremrr9 (1130)
+Seat 10: classman81 (1380)
+*** ANTE/BLINDS ***
+crazypix posts ante 10
+AdrianPolo posts ante 10
+FancyTato posts ante 10
+sabre_laser posts ante 10
+Sebtimteo posts ante 10
+greg6 posts ante 10
+jeremrr9 posts ante 10
+classman81 posts ante 10
+crazypix posts small blind 100
+AdrianPolo posts big blind 200
+Dealt to sabre_laser [Kd 4d]
+*** PRE-FLOP *** 
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato raises 1870 to 2070 and is all-in
+crazypix folds
+AdrianPolo folds
+FancyTato collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Seat 1: FancyTato (button) won 2450
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-52-1437430049 - Holdem no limit (20/150/300) - 2015/07/20 22:07:29 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (2450)
+Seat 2: crazypix (1810)
+Seat 3: AdrianPolo (650)
+Seat 5: sabre_laser (1590)
+Seat 7: Sebtimteo (1395)
+Seat 8: greg6 (4615)
+Seat 9: jeremrr9 (1120)
+Seat 10: classman81 (1370)
+*** ANTE/BLINDS ***
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+Sebtimteo posts ante 20
+greg6 posts ante 20
+jeremrr9 posts ante 20
+classman81 posts ante 20
+AdrianPolo posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [6d 3s]
+*** PRE-FLOP *** 
+Sebtimteo folds
+greg6 folds
+jeremrr9 raises 800 to 1100 and is all-in
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+jeremrr9 collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Seat 9: jeremrr9 won 1710
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-53-1437430076 - Holdem no limit (20/150/300) - 2015/07/20 22:07:56 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #3 is the button
+Seat 1: FancyTato (2430)
+Seat 2: crazypix (1790)
+Seat 3: AdrianPolo (480)
+Seat 5: sabre_laser (1270)
+Seat 7: Sebtimteo (1375)
+Seat 8: greg6 (4595)
+Seat 9: jeremrr9 (1710)
+Seat 10: classman81 (1350)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Sebtimteo posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+AdrianPolo posts ante 20
+greg6 posts ante 20
+jeremrr9 posts ante 20
+classman81 posts ante 20
+sabre_laser posts small blind 150
+Sebtimteo posts big blind 300
+Dealt to sabre_laser [6s Kd]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser raises 300 to 600
+Sebtimteo folds
+sabre_laser collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 5: sabre_laser (small blind) won 1060
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-54-1437430101 - Holdem no limit (20/150/300) - 2015/07/20 22:08:21 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (2410)
+Seat 2: crazypix (1770)
+Seat 3: AdrianPolo (460)
+Seat 5: sabre_laser (1710)
+Seat 7: Sebtimteo (1055)
+Seat 8: greg6 (4575)
+Seat 9: jeremrr9 (1690)
+Seat 10: classman81 (1330)
+*** ANTE/BLINDS ***
+Sebtimteo posts ante 20
+greg6 posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+jeremrr9 posts ante 20
+classman81 posts ante 20
+Sebtimteo posts small blind 150
+greg6 posts big blind 300
+Dealt to sabre_laser [4c 7s]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 8: greg6 (big blind) won 610
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-55-1437430131 - Holdem no limit (20/150/300) - 2015/07/20 22:08:51 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (2390)
+Seat 2: crazypix (1750)
+Seat 3: AdrianPolo (440)
+Seat 5: sabre_laser (1690)
+Seat 7: Sebtimteo (885)
+Seat 8: greg6 (4865)
+Seat 9: jeremrr9 (1670)
+Seat 10: classman81 (1310)
+*** ANTE/BLINDS ***
+greg6 posts ante 20
+jeremrr9 posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+Sebtimteo posts ante 20
+classman81 posts ante 20
+greg6 posts small blind 150
+jeremrr9 posts big blind 300
+Dealt to sabre_laser [3h Th]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato folds
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 raises 4545 to 4845 and is all-in
+jeremrr9 folds
+greg6 collected 5305 from pot
+*** SUMMARY ***
+Total pot 5305 | No rake
+Seat 8: greg6 (small blind) won 5305
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-56-1437430177 - Holdem no limit (20/150/300) - 2015/07/20 22:09:37 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (2370)
+Seat 2: crazypix (1730)
+Seat 3: AdrianPolo (420)
+Seat 5: sabre_laser (1670)
+Seat 7: Sebtimteo (865)
+Seat 8: greg6 (5305)
+Seat 9: jeremrr9 (1350)
+Seat 10: classman81 (1290)
+*** ANTE/BLINDS ***
+jeremrr9 posts ante 20
+classman81 posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+Sebtimteo posts ante 20
+greg6 posts ante 20
+jeremrr9 posts small blind 150
+classman81 posts big blind 300
+Dealt to sabre_laser [Kh Jc]
+*** PRE-FLOP *** 
+FancyTato folds
+crazypix raises 1410 to 1710 and is all-in
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+crazypix collected 2320 from pot
+*** SUMMARY ***
+Total pot 2320 | No rake
+Seat 2: crazypix won 2320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-57-1437430201 - Holdem no limit (20/150/300) - 2015/07/20 22:10:01 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2350)
+Seat 2: crazypix (2320)
+Seat 3: AdrianPolo (400)
+Seat 5: sabre_laser (1650)
+Seat 7: Sebtimteo (845)
+Seat 8: greg6 (5285)
+Seat 9: jeremrr9 (1180)
+Seat 10: classman81 (970)
+*** ANTE/BLINDS ***
+classman81 posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+Sebtimteo posts ante 20
+greg6 posts ante 20
+jeremrr9 posts ante 20
+classman81 posts small blind 150
+FancyTato posts big blind 300
+Dealt to sabre_laser [Ks Td]
+*** PRE-FLOP *** 
+crazypix folds
+AdrianPolo folds
+sabre_laser folds
+Sebtimteo folds
+greg6 raises 4965 to 5265 and is all-in
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+greg6 collected 5875 from pot
+*** SUMMARY ***
+Total pot 5875 | No rake
+Seat 8: greg6 won 5875
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-58-1437430266 - Holdem no limit (20/150/300) - 2015/07/20 22:11:06 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (2030)
+Seat 2: crazypix (2300)
+Seat 3: AdrianPolo (380)
+Seat 5: sabre_laser (1630)
+Seat 7: Sebtimteo (825)
+Seat 8: greg6 (5875)
+Seat 9: jeremrr9 (1160)
+Seat 10: classman81 (800)
+*** ANTE/BLINDS ***
+FancyTato posts ante 20
+crazypix posts ante 20
+AdrianPolo posts ante 20
+sabre_laser posts ante 20
+Sebtimteo posts ante 20
+greg6 posts ante 20
+jeremrr9 posts ante 20
+classman81 posts ante 20
+FancyTato posts small blind 150
+crazypix posts big blind 300
+Dealt to sabre_laser [2c Jh]
+*** PRE-FLOP *** 
+AdrianPolo raises 60 to 360 and is all-in
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 raises 420 to 780 and is all-in
+FancyTato folds
+crazypix calls 480
+*** FLOP *** [4h 4s 6s]
+*** TURN *** [4h 4s 6s][5d]
+*** RIVER *** [4h 4s 6s 5d][Tc]
+*** SHOW DOWN ***
+crazypix shows [9d 3s] (One pair : 4)
+AdrianPolo shows [Ks Kh] (Two pairs : Kings and 4)
+classman81 shows [6c 6h] (Full of 6 and 4)
+classman81 collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Board: [4h 4s 6s 5d Tc]
+Seat 2: crazypix (big blind) showed [9d 3s] and lost with One pair : 4
+Seat 3: AdrianPolo showed [Ks Kh] and lost with Two pairs : Kings and 4
+Seat 10: classman81 (button) showed [6c 6h] and won 2230 with Full of 6 and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-59-1437430297 - Holdem no limit (20/150/300) - 2015/07/20 22:11:37 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (1860)
+Seat 2: crazypix (1500)
+Seat 5: sabre_laser (1610)
+Seat 7: Sebtimteo (805)
+Seat 8: greg6 (5855)
+Seat 9: jeremrr9 (1140)
+Seat 10: classman81 (2230)
+*** ANTE/BLINDS ***
+crazypix posts ante 20
+sabre_laser posts ante 20
+FancyTato posts ante 20
+Sebtimteo posts ante 20
+greg6 posts ante 20
+jeremrr9 posts ante 20
+classman81 posts ante 20
+crazypix posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [5s 4s]
+*** PRE-FLOP *** 
+Sebtimteo folds
+greg6 raises 5535 to 5835 and is all-in
+jeremrr9 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+sabre_laser folds
+greg6 collected 6425 from pot
+*** SUMMARY ***
+Total pot 6425 | No rake
+Seat 8: greg6 won 6425
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-60-1437430332 - Holdem no limit (20/150/300) - 2015/07/20 22:12:12 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (1840)
+Seat 2: crazypix (1330)
+Seat 5: sabre_laser (1290)
+Seat 7: Sebtimteo (785)
+Seat 8: greg6 (6425)
+Seat 9: jeremrr9 (1120)
+Seat 10: classman81 (2210)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Sebtimteo posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+greg6 posts ante 20
+jeremrr9 posts ante 20
+classman81 posts ante 20
+sabre_laser posts small blind 150
+Sebtimteo posts big blind 300
+Dealt to sabre_laser [Js Jd]
+*** PRE-FLOP *** 
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato raises 1520 to 1820 and is all-in
+crazypix folds
+sabre_laser calls 1120 and is all-in
+Sebtimteo folds
+*** FLOP *** [3h 4s 4c]
+*** TURN *** [3h 4s 4c][8s]
+*** RIVER *** [3h 4s 4c 8s][4h]
+*** SHOW DOWN ***
+sabre_laser shows [Js Jd] (Full of 4 and Jacks)
+FancyTato shows [9h 7h] (Trips of 4)
+FancyTato collected 550 from side pot 1
+sabre_laser collected 2980 from main pot
+*** SUMMARY ***
+Total pot 3530 | No rake
+Board: [3h 4s 4c 8s 4h]
+Seat 1: FancyTato showed [9h 7h] and won 550 with Trips of 4
+Seat 5: sabre_laser (small blind) showed [Js Jd] and won 2980 with Full of 4 and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #538112612815077377-61-1437430360 - Holdem no limit (20/150/300) - 2015/07/20 22:12:40 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FancyTato (550)
+Seat 2: crazypix (1310)
+Seat 5: sabre_laser (2980)
+Seat 7: Sebtimteo (465)
+Seat 8: greg6 (6405)
+Seat 9: jeremrr9 (1100)
+Seat 10: classman81 (2190)
+*** ANTE/BLINDS ***
+Sebtimteo posts ante 20
+greg6 posts ante 20
+FancyTato posts ante 20
+crazypix posts ante 20
+sabre_laser posts ante 20
+jeremrr9 posts ante 20
+classman81 posts ante 20
+Sebtimteo posts small blind 150
+greg6 posts big blind 300
+Dealt to sabre_laser [9h Tc]
+*** PRE-FLOP *** 
+jeremrr9 folds
+classman81 folds
+FancyTato raises 230 to 530 and is all-in
+crazypix folds
+sabre_laser folds
+Sebtimteo folds
+greg6 calls 230
+*** FLOP *** [Jc Jd 7h]
+*** TURN *** [Jc Jd 7h][2h]
+*** RIVER *** [Jc Jd 7h 2h][7s]
+*** SHOW DOWN ***
+greg6 shows [3h 4c] (Two pairs : Jacks and 7)
+FancyTato shows [7d 9c] (Full of 7 and Jacks)
+FancyTato collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Jc Jd 7h 2h 7s]
+Seat 1: FancyTato showed [7d 9c] and won 1350 with Full of 7 and Jacks
+Seat 8: greg6 (big blind) showed [3h 4c] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538112612815077377-62-1437430409 - Holdem no limit (50/200/400) - 2015/07/20 22:13:29 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FancyTato (1350)
+Seat 2: crazypix (1290)
+Seat 5: sabre_laser (2960)
+Seat 7: Sebtimteo (295)
+Seat 8: greg6 (5855)
+Seat 9: jeremrr9 (1080)
+Seat 10: classman81 (2170)
+*** ANTE/BLINDS ***
+greg6 posts ante 50
+jeremrr9 posts ante 50
+FancyTato posts ante 50
+crazypix posts ante 50
+sabre_laser posts ante 50
+Sebtimteo posts ante 50
+classman81 posts ante 50
+greg6 posts small blind 200
+jeremrr9 posts big blind 400
+Dealt to sabre_laser [2c 2d]
+*** PRE-FLOP *** 
+classman81 folds
+FancyTato folds
+crazypix folds
+sabre_laser folds
+Sebtimteo folds
+greg6 raises 5405 to 5805 and is all-in
+jeremrr9 folds
+greg6 collected 6555 from pot
+*** SUMMARY ***
+Total pot 6555 | No rake
+Seat 8: greg6 (small blind) won 6555
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538112612815077377-63-1437430450 - Holdem no limit (50/200/400) - 2015/07/20 22:14:10 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FancyTato (1300)
+Seat 2: crazypix (1240)
+Seat 5: sabre_laser (2910)
+Seat 7: Sebtimteo (245)
+Seat 8: greg6 (6555)
+Seat 9: jeremrr9 (630)
+Seat 10: classman81 (2120)
+*** ANTE/BLINDS ***
+jeremrr9 posts ante 50
+classman81 posts ante 50
+FancyTato posts ante 50
+crazypix posts ante 50
+sabre_laser posts ante 50
+Sebtimteo posts ante 50
+greg6 posts ante 50
+jeremrr9 posts small blind 200
+classman81 posts big blind 400
+Dealt to sabre_laser [Th 6h]
+*** PRE-FLOP *** 
+FancyTato raises 850 to 1250 and is all-in
+crazypix folds
+sabre_laser folds
+Sebtimteo folds
+greg6 folds
+jeremrr9 folds
+classman81 folds
+FancyTato collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Seat 1: FancyTato won 2200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538112612815077377-64-1437430470 - Holdem no limit (50/200/400) - 2015/07/20 22:14:30 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FancyTato (2200)
+Seat 2: crazypix (1190)
+Seat 5: sabre_laser (2860)
+Seat 7: Sebtimteo (195)
+Seat 8: greg6 (6505)
+Seat 9: jeremrr9 (380)
+Seat 10: classman81 (1670)
+*** ANTE/BLINDS ***
+classman81 posts ante 50
+FancyTato posts ante 50
+crazypix posts ante 50
+sabre_laser posts ante 50
+Sebtimteo posts ante 50
+greg6 posts ante 50
+jeremrr9 posts ante 50
+classman81 posts small blind 200
+FancyTato posts big blind 400
+Dealt to sabre_laser [9c Qc]
+*** PRE-FLOP *** 
+crazypix folds
+sabre_laser folds
+Sebtimteo folds
+greg6 raises 6055 to 6455 and is all-in
+jeremrr9 calls 330 and is all-in
+classman81 folds
+FancyTato folds
+*** FLOP *** [4c Kh 3d]
+*** TURN *** [4c Kh 3d][7s]
+*** RIVER *** [4c Kh 3d 7s][6h]
+*** SHOW DOWN ***
+jeremrr9 shows [Ac 3h] (One pair : 3)
+greg6 shows [Kd 6d] (Two pairs : Kings and 6)
+greg6 collected 7735 from pot
+*** SUMMARY ***
+Total pot 7735 | No rake
+Board: [4c Kh 3d 7s 6h]
+Seat 8: greg6 showed [Kd 6d] and won 7735 with Two pairs : Kings and 6
+Seat 9: jeremrr9 (button) showed [Ac 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538112612815077377-65-1437430499 - Holdem no limit (50/200/400) - 2015/07/20 22:14:59 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FancyTato (1750)
+Seat 2: crazypix (1140)
+Seat 5: sabre_laser (2810)
+Seat 7: Sebtimteo (145)
+Seat 8: greg6 (7735)
+Seat 10: classman81 (1420)
+*** ANTE/BLINDS ***
+FancyTato posts ante 50
+crazypix posts ante 50
+sabre_laser posts ante 50
+Sebtimteo posts ante 50
+greg6 posts ante 50
+classman81 posts ante 50
+FancyTato posts small blind 200
+crazypix posts big blind 400
+Dealt to sabre_laser [5d Kh]
+*** PRE-FLOP *** 
+sabre_laser folds
+Sebtimteo folds
+greg6 raises 7285 to 7685 and is all-in
+classman81 folds
+FancyTato folds
+crazypix folds
+greg6 collected 8585 from pot
+*** SUMMARY ***
+Total pot 8585 | No rake
+Seat 8: greg6 won 8585
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538112612815077377-66-1437430523 - Holdem no limit (50/200/400) - 2015/07/20 22:15:23 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FancyTato (1500)
+Seat 2: crazypix (690)
+Seat 5: sabre_laser (2760)
+Seat 7: Sebtimteo (95)
+Seat 8: greg6 (8585)
+Seat 10: classman81 (1370)
+*** ANTE/BLINDS ***
+crazypix posts ante 50
+sabre_laser posts ante 50
+FancyTato posts ante 50
+Sebtimteo posts ante 50
+greg6 posts ante 50
+classman81 posts ante 50
+crazypix posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Ad 7d]
+*** PRE-FLOP *** 
+Sebtimteo folds
+greg6 folds
+classman81 folds
+FancyTato folds
+crazypix folds
+sabre_laser collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: sabre_laser (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #538112612815077377-67-1437430539 - Holdem no limit (50/200/400) - 2015/07/20 22:15:39 UTC
+Table: 'Double or Nothing(125289106)#0' 10-max (real money) Seat #2 is the button
+Seat 1: FancyTato (1450)
+Seat 2: crazypix (440)
+Seat 5: sabre_laser (3210)
+Seat 7: Sebtimteo (45)
+Seat 8: greg6 (8535)
+Seat 10: classman81 (1320)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+Sebtimteo posts ante 45 and is all-in
+FancyTato posts ante 50
+crazypix posts ante 50
+greg6 posts ante 50
+classman81 posts ante 50
+sabre_laser posts small blind 200
+Sebtimteo posts big blind 0 and is all-in
+Dealt to sabre_laser [8d 6s]
+*** PRE-FLOP *** 
+greg6 folds
+classman81 calls 400
+FancyTato folds
+crazypix folds
+sabre_laser calls 200
+*** FLOP *** [6c 6d 5d]
+sabre_laser checks
+classman81 checks
+*** TURN *** [6c 6d 5d][3c]
+sabre_laser checks
+classman81 checks
+*** RIVER *** [6c 6d 5d 3c][Kc]
+sabre_laser checks
+classman81 checks
+*** SHOW DOWN ***
+Sebtimteo shows [Ks 5s] (Two pairs : Kings and 6)
+classman81 shows [As Kd] (Two pairs : Kings and 6)
+sabre_laser shows [8d 6s] (Trips of 6)
+sabre_laser collected 1095 from pot
+*** SUMMARY ***
+Total pot 1095 | No rake
+Board: [6c 6d 5d 3c Kc]
+Seat 5: sabre_laser (small blind) showed [8d 6s] and won 1095 with Trips of 6
+Seat 7: Sebtimteo (big blind) showed [Ks 5s] and lost with Two pairs : Kings and 6
+Seat 10: classman81 showed [As Kd] and lost with Two pairs : Kings and 6
+
+

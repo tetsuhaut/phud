@@ -1,0 +1,26 @@
+<config>
+  <filters version="4">
+    <filter lobby="sng" variant="he_nl,he_li,oh" _variant="he_nl,he_li,oh" attribute="regular,madtilt,qualifier,shootout,doubleornothing,revolution,multitable" _attribute="regular,madtilt,qualifier,shootout,doubleornothing,revolution,multitable,clubs,private,public" speed="normal,semiturbo,turbo" _speed="normal,semiturbo,turbo" buyin="0,50,100,200,300,500,1000,1200,2000,3000,5000,10000_" _buyin="0,50,100,200,300,500,1000,1200,2000,3000,5000,10000_" seat="hu,sh,fr" _seat="hu,sh,fr" hiderunning="true"/>
+    <filter lobby="gofast" hiderunning="true"/>
+    <filter lobby="tt" variant="he_nl,he_li,oh,mx" _variant="he_nl,he_li,oh,mx" attribute="regular,qualifier,satellite,madtilt,knockout,shootout,flight,tripleornothing,max180,anteup,endur,king5,special" _attribute="regular,qualifier,satellite,madtilt,knockout,shootout,flight,tripleornothing,max180,anteup,endur,king5,special,clubs,community,private" speed="normal,semiturbo,turbo" _speed="normal,semiturbo,turbo" buyin="0,25/50,100,200/250,300,500,1000,2000,3000,5000,10000,15000_" _buyin="0,25/50,100,200/250,300,500,1000,2000,3000,5000,10000,15000_" seat="hu,sh,fr" _seat="hu,sh,fr" hiderunning="true"/>
+    <filter lobby="cg" variant="oh" _variant="he_nl,he_li,oh" speed="normal,turbo" _speed="normal,turbo" blind="2,5,10,20,30,50,100,200,400,600,1000,2000,5000" _blind="2,5,10,20,30,50,100,200,400,600,1000,2000,5000" attribute="withoutante,withante,beginners,powers,shorttrack,incognito" _attribute="withoutante,withante,beginners,powers,shorttrack,incognito" seat="hu,3h,5h,fr" _seat="hu,3h,5h,fr" hideempty="false" hidefull="false" sort="name"/>
+  </filters>
+  <inbox version="1">
+    <viewed id="240" ts="1425935795"/>
+    <viewed id="72" ts="1425935798"/>
+    <viewed id="246" ts="1425935798"/>
+  </inbox>
+  <expresso version="1">
+    <buyin value="1"/>
+    <tables value="3"/>
+  </expresso>
+  <goFastLastSelectedItem version="1">
+    <uid>Colorado</uid>
+  </goFastLastSelectedItem>
+  <windows version="1">
+    <window type="table" x="747" y="585" width="747" height="585"/>
+    <window type="table" x="0" y="585" width="747" height="585"/>
+    <window type="table" x="747" y="0" width="747" height="585"/>
+    <window type="table" x="0" y="0" width="747" height="585"/>
+  </windows>
+</config>

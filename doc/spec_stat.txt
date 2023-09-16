@@ -1,0 +1,43 @@
+stats:
+ voluntary put in pot par joueur
+ pre flop raise par joueur
+ nb mains jouées contre chaque joueur
+ agressivité moyenne ?
+ pourcentage de squeeze (relance preflop avec 1 relance callée)
+ pourcentage de 3bet preflop
+ pourcentage de fold to 3bet preflop
+ pourcentage de continuation bet au flop
+ pourcentage de fold to continuation bet au flop
+ pourcentage de bet turn
+ pourcentage de bet river
+ pourcentage de fold to bet au turn
+ pourcentage de fold to bet à la river
+
+VPIP : voluntary put in pot
+pour un joueur, nombre de mains call ou raise preflop divisé par le nombre total de mains
+
+PFR : preflop raise
+pour un joueur, nombre de mains raise preflop divisé par le nombre total de mains
+
+3bet preflop
+Fold to 3bet preflop (se couche en cas de surrelance)
+4bet preflop
+ 
+
+Les statistiques que vous allez utiliser postflop :
+
+AF : "Aggression Factor" ou le facteur d'agression total
+Formule :(nombre de bets+nombre de raises)/(nombre de calls).
+
+Cbet flop
+Donkbet flop
+Fold to Cbet flop (se couche en cas de Cbet adverse)
+2nd barrel
+3rd barrel
+ 
+
+Statistiques plus générales :
+
+W$WSF : pourcentage de fois où on gagne des $ en ayant vu le flop
+WTSD : pourcentage de fois où on voit l'abattage en ayant vu le flop
+W$SD : pourcentage de fois où on gagne de l'argent à l'abattage

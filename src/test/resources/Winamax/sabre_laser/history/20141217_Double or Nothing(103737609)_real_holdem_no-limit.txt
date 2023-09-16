@@ -1,0 +1,1943 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #445549638020235265-1-1418849059 - Holdem no limit (10/20) - 2014/12/17 20:44:19 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #9 is the button
+Seat 1: crazypix (1500)
+Seat 2: le roi lolo (1500)
+Seat 3: gnomelepreux (1500)
+Seat 4: Kez42 (1500)
+Seat 5: sebr2387 (1500)
+Seat 6: Sial28 (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: hakud (1500)
+Seat 9: iTsmie (1500)
+Seat 10: sullivan62 (1500)
+*** ANTE/BLINDS ***
+sullivan62 posts small blind 10
+crazypix posts big blind 20
+Dealt to sabre_laser [Jd Ks]
+*** PRE-FLOP *** 
+le roi lolo folds
+gnomelepreux folds
+Kez42 raises 20 to 40
+sebr2387 folds
+Sial28 folds
+sabre_laser calls 40
+hakud folds
+iTsmie folds
+sullivan62 calls 30
+crazypix folds
+*** FLOP *** [3d 7d 6s]
+sullivan62 checks
+Kez42 checks
+sabre_laser checks
+*** TURN *** [3d 7d 6s][Ac]
+sullivan62 checks
+Kez42 checks
+sabre_laser bets 140
+sullivan62 folds
+Kez42 raises 140 to 280
+sabre_laser folds
+Kez42 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [3d 7d 6s Ac]
+Seat 4: Kez42 won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #445549638020235265-2-1418849192 - Holdem no limit (10/20) - 2014/12/17 20:46:32 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #10 is the button
+Seat 1: crazypix (1480)
+Seat 2: le roi lolo (1500)
+Seat 3: gnomelepreux (1500)
+Seat 4: Kez42 (1740)
+Seat 5: sebr2387 (1500)
+Seat 6: Sial28 (1500)
+Seat 7: sabre_laser (1320)
+Seat 8: hakud (1500)
+Seat 9: iTsmie (1500)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+crazypix posts small blind 10
+le roi lolo posts big blind 20
+Dealt to sabre_laser [6s Kc]
+*** PRE-FLOP *** 
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: le roi lolo (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 0 - HandId: #445549638020235265-3-1418849310 - Holdem no limit (10/20) - 2014/12/17 20:48:30 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #1 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1510)
+Seat 3: gnomelepreux (1500)
+Seat 4: Kez42 (1740)
+Seat 5: sebr2387 (1500)
+Seat 6: Sial28 (1500)
+Seat 7: sabre_laser (1320)
+Seat 8: hakud (1500)
+Seat 9: iTsmie (1500)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+le roi lolo posts small blind 10
+gnomelepreux posts big blind 20
+Dealt to sabre_laser [7d 7h]
+*** PRE-FLOP *** 
+Kez42 calls 20
+sebr2387 folds
+Sial28 folds
+sabre_laser calls 20
+hakud raises 80 to 100
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo calls 90
+gnomelepreux folds
+Kez42 folds
+sabre_laser calls 80
+*** FLOP *** [6h 4d 3h]
+le roi lolo checks
+sabre_laser checks
+hakud bets 170
+le roi lolo folds
+sabre_laser calls 170
+*** TURN *** [6h 4d 3h][6s]
+sabre_laser checks
+hakud checks
+*** RIVER *** [6h 4d 3h 6s][Jc]
+sabre_laser bets 20
+hakud folds
+sabre_laser collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [6h 4d 3h 6s Jc]
+Seat 7: sabre_laser won 700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #445549638020235265-4-1418849436 - Holdem no limit (15/30) - 2014/12/17 20:50:36 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #2 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1410)
+Seat 3: gnomelepreux (1480)
+Seat 4: Kez42 (1720)
+Seat 5: sebr2387 (1500)
+Seat 6: Sial28 (1500)
+Seat 7: sabre_laser (1730)
+Seat 8: hakud (1230)
+Seat 9: iTsmie (1500)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+gnomelepreux posts small blind 15
+Kez42 posts big blind 30
+Dealt to sabre_laser [8d Qc]
+*** PRE-FLOP *** 
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie raises 30 to 60
+sullivan62 folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+iTsmie collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 9: iTsmie won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #445549638020235265-5-1418849500 - Holdem no limit (15/30) - 2014/12/17 20:51:40 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #3 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1410)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1690)
+Seat 5: sebr2387 (1500)
+Seat 6: Sial28 (1500)
+Seat 7: sabre_laser (1730)
+Seat 8: hakud (1230)
+Seat 9: iTsmie (1545)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+Kez42 posts small blind 15
+sebr2387 posts big blind 30
+Dealt to sabre_laser [8c 9s]
+*** PRE-FLOP *** 
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo raises 30 to 60
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+le roi lolo collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: le roi lolo won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #445549638020235265-6-1418849563 - Holdem no limit (15/30) - 2014/12/17 20:52:43 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #4 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1455)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1470)
+Seat 6: Sial28 (1500)
+Seat 7: sabre_laser (1730)
+Seat 8: hakud (1230)
+Seat 9: iTsmie (1545)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+sebr2387 posts small blind 15
+Sial28 posts big blind 30
+Dealt to sabre_laser [4d Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+hakud folds
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo raises 30 to 60
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 calls 30
+*** FLOP *** [Td 6h Qh]
+Sial28 checks
+le roi lolo bets 30
+Sial28 raises 83 to 113
+le roi lolo calls 83
+*** TURN *** [Td 6h Qh][Ah]
+Sial28 bets 181
+le roi lolo folds
+Sial28 collected 542 from pot
+*** SUMMARY ***
+Total pot 542 | No rake
+Board: [Td 6h Qh Ah]
+Seat 6: Sial28 (big blind) won 542
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #445549638020235265-7-1418849667 - Holdem no limit (15/30) - 2014/12/17 20:54:27 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #5 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1282)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1455)
+Seat 6: Sial28 (1688)
+Seat 7: sabre_laser (1730)
+Seat 8: hakud (1230)
+Seat 9: iTsmie (1545)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+Sial28 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [Jh 4h]
+*** PRE-FLOP *** 
+hakud folds
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo raises 60 to 90
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+le roi lolo collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: le roi lolo won 135
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 1 - HandId: #445549638020235265-8-1418849713 - Holdem no limit (15/30) - 2014/12/17 20:55:13 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #6 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1327)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1455)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (1700)
+Seat 8: hakud (1230)
+Seat 9: iTsmie (1545)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+hakud posts big blind 30
+Dealt to sabre_laser [Qs Qd]
+*** PRE-FLOP *** 
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo calls 30
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser raises 60 to 90
+hakud calls 60
+le roi lolo calls 60
+*** FLOP *** [5c Qc Kc]
+sabre_laser bets 150
+hakud folds
+le roi lolo folds
+sabre_laser collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [5c Qc Kc]
+Seat 7: sabre_laser (small blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #445549638020235265-9-1418849799 - Holdem no limit (20/40) - 2014/12/17 20:56:39 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #7 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1237)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1455)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (1880)
+Seat 8: hakud (1140)
+Seat 9: iTsmie (1545)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+hakud posts small blind 20
+iTsmie posts big blind 40
+Dealt to sabre_laser [Jd Ts]
+*** PRE-FLOP *** 
+sullivan62 folds
+crazypix folds
+le roi lolo calls 40
+gnomelepreux folds
+Kez42 folds
+sebr2387 calls 40
+Sial28 folds
+sabre_laser calls 40
+hakud calls 20
+iTsmie checks
+*** FLOP *** [Js 9c Jh]
+hakud checks
+iTsmie checks
+le roi lolo checks
+sebr2387 checks
+sabre_laser checks
+*** TURN *** [Js 9c Jh][7h]
+hakud checks
+iTsmie checks
+le roi lolo checks
+sebr2387 bets 40
+sabre_laser raises 40 to 80
+hakud folds
+iTsmie folds
+le roi lolo folds
+sebr2387 calls 40
+*** RIVER *** [Js 9c Jh 7h][8s]
+sebr2387 checks
+sabre_laser bets 140
+sebr2387 calls 140
+*** SHOW DOWN ***
+sebr2387 shows [Jc Kc] (Trips of Jacks)
+sabre_laser shows [Jd Ts] (Straight Jack high)
+sabre_laser collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Js 9c Jh 7h 8s]
+Seat 5: sebr2387 showed [Jc Kc] and lost with Trips of Jacks
+Seat 7: sabre_laser (button) showed [Jd Ts] and won 640 with Straight Jack high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #445549638020235265-10-1418849970 - Holdem no limit (20/40) - 2014/12/17 20:59:30 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #8 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1197)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1195)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (2260)
+Seat 8: hakud (1100)
+Seat 9: iTsmie (1505)
+Seat 10: sullivan62 (1460)
+*** ANTE/BLINDS ***
+iTsmie posts small blind 20
+sullivan62 posts big blind 40
+Dealt to sabre_laser [Tc 5s]
+*** PRE-FLOP *** 
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud raises 1060 to 1100 and is all-in
+iTsmie folds
+sullivan62 folds
+hakud collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Seat 8: hakud (button) won 1160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #445549638020235265-11-1418850026 - Holdem no limit (20/40) - 2014/12/17 21:00:26 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #9 is the button
+Seat 1: crazypix (1470)
+Seat 2: le roi lolo (1197)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1195)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (2260)
+Seat 8: hakud (1160)
+Seat 9: iTsmie (1485)
+Seat 10: sullivan62 (1420)
+*** ANTE/BLINDS ***
+sullivan62 posts small blind 20
+crazypix posts big blind 40
+Dealt to sabre_laser [6c Qc]
+*** PRE-FLOP *** 
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud raises 40 to 80
+iTsmie folds
+sullivan62 raises 1340 to 1420 and is all-in
+crazypix folds
+hakud calls 1080 and is all-in
+*** FLOP *** [Ac 8s 3c]
+*** TURN *** [Ac 8s 3c][8d]
+*** RIVER *** [Ac 8s 3c 8d][4c]
+*** SHOW DOWN ***
+hakud shows [As 5s] (Two pairs : Aces and 8)
+sullivan62 shows [Qs Qd] (Two pairs : Queens and 8)
+sullivan62 collected 260 from side pot 1
+hakud collected 2360 from main pot
+*** SUMMARY ***
+Total pot 2620 | No rake
+Board: [Ac 8s 3c 8d 4c]
+Seat 8: hakud showed [As 5s] and won 2360 with Two pairs : Aces and 8
+Seat 10: sullivan62 (small blind) showed [Qs Qd] and won 260 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 2 - HandId: #445549638020235265-12-1418850089 - Holdem no limit (20/40) - 2014/12/17 21:01:29 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #10 is the button
+Seat 1: crazypix (1430)
+Seat 2: le roi lolo (1197)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1195)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (2260)
+Seat 8: hakud (2360)
+Seat 9: iTsmie (1485)
+Seat 10: sullivan62 (260)
+*** ANTE/BLINDS ***
+crazypix posts small blind 20
+le roi lolo posts big blind 40
+Dealt to sabre_laser [2c Ts]
+*** PRE-FLOP *** 
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+sullivan62 raises 220 to 260 and is all-in
+crazypix raises 1170 to 1430 and is all-in
+le roi lolo folds
+*** FLOP *** [Jd 2s 2d]
+*** TURN *** [Jd 2s 2d][6d]
+*** RIVER *** [Jd 2s 2d 6d][Js]
+*** SHOW DOWN ***
+sullivan62 shows [Kh Jc] (Full of Jacks and 2)
+crazypix shows [Ad Qc] (Two pairs : Jacks and 2)
+crazypix collected 1170 from side pot 1
+sullivan62 collected 560 from main pot
+*** SUMMARY ***
+Total pot 1730 | No rake
+Board: [Jd 2s 2d 6d Js]
+Seat 1: crazypix (small blind) showed [Ad Qc] and won 1170 with Two pairs : Jacks and 2
+Seat 10: sullivan62 (button) showed [Kh Jc] and won 560 with Full of Jacks and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #445549638020235265-13-1418850139 - Holdem no limit (30/60) - 2014/12/17 21:02:19 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #1 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1157)
+Seat 3: gnomelepreux (1465)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1195)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (2260)
+Seat 8: hakud (2360)
+Seat 9: iTsmie (1485)
+Seat 10: sullivan62 (560)
+*** ANTE/BLINDS ***
+le roi lolo posts small blind 30
+gnomelepreux posts big blind 60
+Dealt to sabre_laser [Qh Qs]
+*** PRE-FLOP *** 
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser raises 90 to 150
+hakud folds
+iTsmie calls 150
+sullivan62 folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+*** FLOP *** [2c 6s 3s]
+sabre_laser bets 390
+iTsmie folds
+sabre_laser collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [2c 6s 3s]
+Seat 7: sabre_laser won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #445549638020235265-14-1418850220 - Holdem no limit (30/60) - 2014/12/17 21:03:40 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #2 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1405)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1195)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (2500)
+Seat 8: hakud (2360)
+Seat 9: iTsmie (1335)
+Seat 10: sullivan62 (560)
+*** ANTE/BLINDS ***
+gnomelepreux posts small blind 30
+Kez42 posts big blind 60
+Dealt to sabre_laser [5d Ac]
+*** PRE-FLOP *** 
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Kez42 (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #445549638020235265-15-1418850267 - Holdem no limit (30/60) - 2014/12/17 21:04:27 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #3 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (1705)
+Seat 5: sebr2387 (1195)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (2500)
+Seat 8: hakud (2360)
+Seat 9: iTsmie (1335)
+Seat 10: sullivan62 (560)
+*** ANTE/BLINDS ***
+Kez42 posts small blind 30
+sebr2387 posts big blind 60
+Dealt to sabre_laser [Ad 8d]
+*** PRE-FLOP *** 
+Sial28 folds
+sabre_laser raises 120 to 180
+hakud folds
+iTsmie folds
+sullivan62 folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+sabre_laser collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 7: sabre_laser won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #445549638020235265-16-1418850372 - Holdem no limit (30/60) - 2014/12/17 21:06:12 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #4 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (1135)
+Seat 6: Sial28 (1673)
+Seat 7: sabre_laser (2590)
+Seat 8: hakud (2360)
+Seat 9: iTsmie (1335)
+Seat 10: sullivan62 (560)
+*** ANTE/BLINDS ***
+sebr2387 posts small blind 30
+Sial28 posts big blind 60
+Dealt to sabre_laser [3d 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+hakud folds
+iTsmie folds
+sullivan62 raises 500 to 560 and is all-in
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 calls 560
+sebr2387 folds
+Sial28 folds
+*** FLOP *** [Th Ac 7s]
+*** TURN *** [Th Ac 7s][Qh]
+*** RIVER *** [Th Ac 7s Qh][Ts]
+*** SHOW DOWN ***
+sullivan62 shows [Kc Qc] (Two pairs : Queens and Tens)
+Kez42 shows [Qd Qs] (Full of Queens and Tens)
+Kez42 collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | No rake
+Board: [Th Ac 7s Qh Ts]
+Seat 4: Kez42 (button) showed [Qd Qs] and won 1210 with Full of Queens and Tens
+Seat 10: sullivan62 showed [Kc Qc] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 3 - HandId: #445549638020235265-17-1418850469 - Holdem no limit (30/60) - 2014/12/17 21:07:49 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #5 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2325)
+Seat 5: sebr2387 (1105)
+Seat 6: Sial28 (1613)
+Seat 7: sabre_laser (2590)
+Seat 8: hakud (2360)
+Seat 9: iTsmie (1335)
+*** ANTE/BLINDS ***
+Sial28 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [Js 5d]
+*** PRE-FLOP *** 
+hakud folds
+iTsmie calls 60
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 raises 1045 to 1105 and is all-in
+Sial28 folds
+sabre_laser folds
+iTsmie folds
+sebr2387 collected 1255 from pot
+*** SUMMARY ***
+Total pot 1255 | No rake
+Seat 5: sebr2387 (button) won 1255
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #445549638020235265-18-1418850526 - Holdem no limit (40/80) - 2014/12/17 21:08:46 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #6 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2325)
+Seat 5: sebr2387 (1255)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2530)
+Seat 8: hakud (2360)
+Seat 9: iTsmie (1275)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+hakud posts big blind 80
+Dealt to sabre_laser [Qc 2h]
+*** PRE-FLOP *** 
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: hakud (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #445549638020235265-19-1418850575 - Holdem no limit (40/80) - 2014/12/17 21:09:35 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #7 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2325)
+Seat 5: sebr2387 (1255)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2490)
+Seat 8: hakud (2400)
+Seat 9: iTsmie (1275)
+*** ANTE/BLINDS ***
+hakud posts small blind 40
+iTsmie posts big blind 80
+Dealt to sabre_laser [9c 5c]
+*** PRE-FLOP *** 
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser raises 160 to 240
+hakud raises 2160 to 2400 and is all-in
+iTsmie folds
+sabre_laser folds
+hakud collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Seat 8: hakud (small blind) won 2720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #445549638020235265-20-1418850643 - Holdem no limit (40/80) - 2014/12/17 21:10:43 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #8 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2325)
+Seat 5: sebr2387 (1255)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2250)
+Seat 8: hakud (2720)
+Seat 9: iTsmie (1195)
+*** ANTE/BLINDS ***
+iTsmie posts small blind 40
+crazypix posts big blind 80
+Dealt to sabre_laser [Td Jc]
+*** PRE-FLOP *** 
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 calls 80
+Sial28 folds
+sabre_laser calls 80
+hakud folds
+iTsmie folds
+crazypix checks
+*** FLOP *** [Kc 5d 8s]
+crazypix checks
+sebr2387 bets 120
+sabre_laser folds
+crazypix calls 120
+*** TURN *** [Kc 5d 8s][2d]
+crazypix checks
+sebr2387 checks
+*** RIVER *** [Kc 5d 8s 2d][Qs]
+crazypix checks
+sebr2387 checks
+*** SHOW DOWN ***
+sebr2387 shows [Th Ad] (High card : Ace)
+crazypix shows [9s Kh] (One pair : Kings)
+crazypix collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Kc 5d 8s 2d Qs]
+Seat 1: crazypix (big blind) showed [9s Kh] and won 520 with One pair : Kings
+Seat 5: sebr2387 showed [Th Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #445549638020235265-21-1418850714 - Holdem no limit (40/80) - 2014/12/17 21:11:54 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #9 is the button
+Seat 1: crazypix (1490)
+Seat 2: le roi lolo (1127)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2325)
+Seat 5: sebr2387 (1055)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2170)
+Seat 8: hakud (2720)
+Seat 9: iTsmie (1155)
+*** ANTE/BLINDS ***
+crazypix posts small blind 40
+le roi lolo posts big blind 80
+Dealt to sabre_laser [Kh Td]
+*** PRE-FLOP *** 
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie raises 80 to 160
+crazypix folds
+le roi lolo folds
+iTsmie collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 9: iTsmie (button) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #445549638020235265-22-1418850752 - Holdem no limit (40/80) - 2014/12/17 21:12:32 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #1 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (1047)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2325)
+Seat 5: sebr2387 (1055)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2170)
+Seat 8: hakud (2720)
+Seat 9: iTsmie (1275)
+*** ANTE/BLINDS ***
+le roi lolo posts small blind 40
+gnomelepreux posts big blind 80
+Dealt to sabre_laser [8c 4h]
+*** PRE-FLOP *** 
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud raises 120 to 200
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+hakud collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 8: hakud won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 4 - HandId: #445549638020235265-23-1418850820 - Holdem no limit (40/80) - 2014/12/17 21:13:40 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #2 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (1007)
+Seat 3: gnomelepreux (1295)
+Seat 4: Kez42 (2325)
+Seat 5: sebr2387 (1055)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2170)
+Seat 8: hakud (2840)
+Seat 9: iTsmie (1275)
+*** ANTE/BLINDS ***
+gnomelepreux posts small blind 40
+Kez42 posts big blind 80
+Dealt to sabre_laser [Kc 6s]
+*** PRE-FLOP *** 
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux raises 1215 to 1295 and is all-in
+Kez42 folds
+gnomelepreux collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Seat 3: gnomelepreux (small blind) won 1375
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #445549638020235265-24-1418850864 - Holdem no limit (60/120) - 2014/12/17 21:14:24 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #3 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (1007)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2245)
+Seat 5: sebr2387 (1055)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2170)
+Seat 8: hakud (2840)
+Seat 9: iTsmie (1275)
+*** ANTE/BLINDS ***
+Kez42 posts small blind 60
+sebr2387 posts big blind 120
+Dealt to sabre_laser [6s 5h]
+*** PRE-FLOP *** 
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie calls 120
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 raises 935 to 1055 and is all-in
+iTsmie folds
+sebr2387 collected 1235 from pot
+*** SUMMARY ***
+Total pot 1235 | No rake
+Seat 5: sebr2387 (big blind) won 1235
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #445549638020235265-25-1418850913 - Holdem no limit (60/120) - 2014/12/17 21:15:13 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #4 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (1007)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2185)
+Seat 5: sebr2387 (1235)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2170)
+Seat 8: hakud (2840)
+Seat 9: iTsmie (1155)
+*** ANTE/BLINDS ***
+sebr2387 posts small blind 60
+Sial28 posts big blind 120
+Dealt to sabre_laser [Qs 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: Sial28 (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #445549638020235265-26-1418850946 - Holdem no limit (60/120) - 2014/12/17 21:15:46 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #5 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (1007)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2185)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1643)
+Seat 7: sabre_laser (2170)
+Seat 8: hakud (2840)
+Seat 9: iTsmie (1155)
+*** ANTE/BLINDS ***
+Sial28 posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Qh Jc]
+*** PRE-FLOP *** 
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: sabre_laser (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #445549638020235265-27-1418850972 - Holdem no limit (60/120) - 2014/12/17 21:16:12 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #6 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (1007)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (2185)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (2230)
+Seat 8: hakud (2840)
+Seat 9: iTsmie (1155)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+hakud posts big blind 120
+Dealt to sabre_laser [Qs Kh]
+*** PRE-FLOP *** 
+iTsmie folds
+crazypix folds
+le roi lolo calls 120
+gnomelepreux folds
+Kez42 raises 120 to 240
+sebr2387 folds
+Sial28 folds
+sabre_laser calls 180
+hakud calls 120
+le roi lolo folds
+*** FLOP *** [2c 6c 5c]
+sabre_laser checks
+hakud checks
+Kez42 checks
+*** TURN *** [2c 6c 5c][8d]
+sabre_laser checks
+hakud bets 120
+Kez42 folds
+sabre_laser calls 120
+*** RIVER *** [2c 6c 5c 8d][2h]
+sabre_laser checks
+hakud bets 120
+sabre_laser calls 120
+*** SHOW DOWN ***
+sabre_laser shows [Qs Kh] (One pair : 2)
+hakud shows [Qc 8s] (Two pairs : 8 and 2)
+hakud collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [2c 6c 5c 8d 2h]
+Seat 7: sabre_laser (small blind) showed [Qs Kh] and lost with One pair : 2
+Seat 8: hakud (big blind) showed [Qc 8s] and won 1320 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #445549638020235265-28-1418851092 - Holdem no limit (60/120) - 2014/12/17 21:18:12 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #7 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (887)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (1945)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1750)
+Seat 8: hakud (3680)
+Seat 9: iTsmie (1155)
+*** ANTE/BLINDS ***
+hakud posts small blind 60
+iTsmie posts big blind 120
+Dealt to sabre_laser [9h 7d]
+*** PRE-FLOP *** 
+crazypix folds
+le roi lolo calls 120
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie checks
+*** FLOP *** [8s 6d Kh]
+iTsmie bets 1035 and is all-in
+le roi lolo folds
+iTsmie collected 1335 from pot
+*** SUMMARY ***
+Total pot 1335 | No rake
+Board: [8s 6d Kh]
+Seat 9: iTsmie (big blind) won 1335
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #445549638020235265-29-1418851148 - Holdem no limit (60/120) - 2014/12/17 21:19:08 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #8 is the button
+Seat 1: crazypix (1450)
+Seat 2: le roi lolo (767)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (1945)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1750)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1335)
+*** ANTE/BLINDS ***
+iTsmie posts small blind 60
+crazypix posts big blind 120
+Dealt to sabre_laser [2c Js]
+*** PRE-FLOP *** 
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie calls 60
+crazypix checks
+*** FLOP *** [7s 9d 7h]
+iTsmie bets 240
+crazypix folds
+iTsmie collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [7s 9d 7h]
+Seat 9: iTsmie (small blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 5 - HandId: #445549638020235265-30-1418851204 - Holdem no limit (60/120) - 2014/12/17 21:20:04 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #9 is the button
+Seat 1: crazypix (1330)
+Seat 2: le roi lolo (767)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (1945)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1750)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1455)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+le roi lolo posts big blind 120
+Dealt to sabre_laser [2h 7c]
+*** PRE-FLOP *** 
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser raises 180 to 300
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 7: sabre_laser won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #445549638020235265-31-1418851247 - Holdem no limit (80/160) - 2014/12/17 21:20:47 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #1 is the button
+Seat 1: crazypix (1270)
+Seat 2: le roi lolo (647)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (1945)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1930)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1455)
+*** ANTE/BLINDS ***
+le roi lolo posts small blind 80
+gnomelepreux posts big blind 160
+Dealt to sabre_laser [4s 9d]
+*** PRE-FLOP *** 
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix raises 1110 to 1270 and is all-in
+le roi lolo folds
+gnomelepreux folds
+crazypix collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Seat 1: crazypix (button) won 1510
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #445549638020235265-32-1418851293 - Holdem no limit (80/160) - 2014/12/17 21:21:33 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #2 is the button
+Seat 1: crazypix (1510)
+Seat 2: le roi lolo (567)
+Seat 3: gnomelepreux (1215)
+Seat 4: Kez42 (1945)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1930)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1455)
+*** ANTE/BLINDS ***
+gnomelepreux posts small blind 80
+Kez42 posts big blind 160
+Dealt to sabre_laser [3h Qd]
+*** PRE-FLOP *** 
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie raises 160 to 320
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+iTsmie collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 9: iTsmie won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #445549638020235265-33-1418851350 - Holdem no limit (80/160) - 2014/12/17 21:22:30 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #3 is the button
+Seat 1: crazypix (1510)
+Seat 2: le roi lolo (567)
+Seat 3: gnomelepreux (1135)
+Seat 4: Kez42 (1785)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1930)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1695)
+*** ANTE/BLINDS ***
+Kez42 posts small blind 80
+sebr2387 posts big blind 160
+Dealt to sabre_laser [Tc 2d]
+*** PRE-FLOP *** 
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: sebr2387 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #445549638020235265-34-1418851418 - Holdem no limit (80/160) - 2014/12/17 21:23:38 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #4 is the button
+Seat 1: crazypix (1510)
+Seat 2: le roi lolo (567)
+Seat 3: gnomelepreux (1135)
+Seat 4: Kez42 (1705)
+Seat 5: sebr2387 (1255)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1930)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1695)
+*** ANTE/BLINDS ***
+sebr2387 posts small blind 80
+Sial28 posts big blind 160
+Dealt to sabre_laser [Jc Ad]
+*** PRE-FLOP *** 
+sabre_laser raises 160 to 320
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 7: sabre_laser won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #445549638020235265-35-1418851466 - Holdem no limit (80/160) - 2014/12/17 21:24:26 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #5 is the button
+Seat 1: crazypix (1510)
+Seat 2: le roi lolo (567)
+Seat 3: gnomelepreux (1135)
+Seat 4: Kez42 (1705)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1423)
+Seat 7: sabre_laser (2170)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1695)
+*** ANTE/BLINDS ***
+Sial28 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [6h Ac]
+*** PRE-FLOP *** 
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux raises 975 to 1135 and is all-in
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+gnomelepreux collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Seat 3: gnomelepreux won 1375
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #445549638020235265-36-1418851498 - Holdem no limit (80/160) - 2014/12/17 21:24:58 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #6 is the button
+Seat 1: crazypix (1510)
+Seat 2: le roi lolo (567)
+Seat 3: gnomelepreux (1375)
+Seat 4: Kez42 (1705)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1343)
+Seat 7: sabre_laser (2010)
+Seat 8: hakud (3620)
+Seat 9: iTsmie (1695)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+hakud posts big blind 160
+Dealt to sabre_laser [5d 7d]
+*** PRE-FLOP *** 
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux raises 1215 to 1375 and is all-in
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+gnomelepreux collected 1615 from pot
+*** SUMMARY ***
+Total pot 1615 | No rake
+Seat 3: gnomelepreux won 1615
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 6 - HandId: #445549638020235265-37-1418851547 - Holdem no limit (80/160) - 2014/12/17 21:25:47 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #7 is the button
+Seat 1: crazypix (1510)
+Seat 2: le roi lolo (567)
+Seat 3: gnomelepreux (1615)
+Seat 4: Kez42 (1705)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1343)
+Seat 7: sabre_laser (1930)
+Seat 8: hakud (3460)
+Seat 9: iTsmie (1695)
+*** ANTE/BLINDS ***
+hakud posts small blind 80
+iTsmie posts big blind 160
+Dealt to sabre_laser [2d Ad]
+*** PRE-FLOP *** 
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 raises 1183 to 1343 and is all-in
+sabre_laser folds
+hakud folds
+iTsmie folds
+Sial28 collected 1583 from pot
+*** SUMMARY ***
+Total pot 1583 | No rake
+Seat 6: Sial28 won 1583
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #445549638020235265-38-1418851628 - Holdem no limit (10/100/200) - 2014/12/17 21:27:08 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #8 is the button
+Seat 1: crazypix (1510)
+Seat 2: le roi lolo (567)
+Seat 3: gnomelepreux (1615)
+Seat 4: Kez42 (1705)
+Seat 5: sebr2387 (1175)
+Seat 6: Sial28 (1583)
+Seat 7: sabre_laser (1930)
+Seat 8: hakud (3380)
+Seat 9: iTsmie (1535)
+*** ANTE/BLINDS ***
+iTsmie posts ante 10
+crazypix posts ante 10
+le roi lolo posts ante 10
+gnomelepreux posts ante 10
+Kez42 posts ante 10
+sebr2387 posts ante 10
+Sial28 posts ante 10
+sabre_laser posts ante 10
+hakud posts ante 10
+iTsmie posts small blind 100
+crazypix posts big blind 200
+Dealt to sabre_laser [9d Qd]
+*** PRE-FLOP *** 
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud raises 200 to 400
+iTsmie folds
+crazypix folds
+hakud collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 8: hakud (button) won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #445549638020235265-39-1418851682 - Holdem no limit (10/100/200) - 2014/12/17 21:28:02 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #9 is the button
+Seat 1: crazypix (1300)
+Seat 2: le roi lolo (557)
+Seat 3: gnomelepreux (1605)
+Seat 4: Kez42 (1695)
+Seat 5: sebr2387 (1165)
+Seat 6: Sial28 (1573)
+Seat 7: sabre_laser (1920)
+Seat 8: hakud (3760)
+Seat 9: iTsmie (1425)
+*** ANTE/BLINDS ***
+crazypix posts ante 10
+le roi lolo posts ante 10
+gnomelepreux posts ante 10
+Kez42 posts ante 10
+sebr2387 posts ante 10
+Sial28 posts ante 10
+sabre_laser posts ante 10
+hakud posts ante 10
+iTsmie posts ante 10
+crazypix posts small blind 100
+le roi lolo posts big blind 200
+Dealt to sabre_laser [6c 4s]
+*** PRE-FLOP *** 
+gnomelepreux folds
+Kez42 folds
+sebr2387 raises 955 to 1155 and is all-in
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo calls 347 and is all-in
+*** FLOP *** [3s 8c Qh]
+*** TURN *** [3s 8c Qh][5h]
+*** RIVER *** [3s 8c Qh 5h][9h]
+*** SHOW DOWN ***
+le roi lolo shows [8h 8s] (Trips of 8)
+sebr2387 shows [As 7s] (High card : Ace)
+sebr2387 collected 608 from side pot 1
+le roi lolo collected 1284 from main pot
+*** SUMMARY ***
+Total pot 1892 | No rake
+Board: [3s 8c Qh 5h 9h]
+Seat 2: le roi lolo (big blind) showed [8h 8s] and won 1284 with Trips of 8
+Seat 5: sebr2387 showed [As 7s] and won 608 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #445549638020235265-40-1418851711 - Holdem no limit (10/100/200) - 2014/12/17 21:28:31 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #1 is the button
+Seat 1: crazypix (1190)
+Seat 2: le roi lolo (1284)
+Seat 3: gnomelepreux (1595)
+Seat 4: Kez42 (1685)
+Seat 5: sebr2387 (608)
+Seat 6: Sial28 (1563)
+Seat 7: sabre_laser (1910)
+Seat 8: hakud (3750)
+Seat 9: iTsmie (1415)
+*** ANTE/BLINDS ***
+le roi lolo posts ante 10
+gnomelepreux posts ante 10
+crazypix posts ante 10
+Kez42 posts ante 10
+sebr2387 posts ante 10
+Sial28 posts ante 10
+sabre_laser posts ante 10
+hakud posts ante 10
+iTsmie posts ante 10
+le roi lolo posts small blind 100
+gnomelepreux posts big blind 200
+Dealt to sabre_laser [8d 5c]
+*** PRE-FLOP *** 
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie raises 200 to 400
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+iTsmie collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 9: iTsmie won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #445549638020235265-41-1418851771 - Holdem no limit (10/100/200) - 2014/12/17 21:29:31 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #2 is the button
+Seat 1: crazypix (1180)
+Seat 2: le roi lolo (1174)
+Seat 3: gnomelepreux (1385)
+Seat 4: Kez42 (1675)
+Seat 5: sebr2387 (598)
+Seat 6: Sial28 (1553)
+Seat 7: sabre_laser (1900)
+Seat 8: hakud (3740)
+Seat 9: iTsmie (1795)
+*** ANTE/BLINDS ***
+gnomelepreux posts ante 10
+Kez42 posts ante 10
+crazypix posts ante 10
+le roi lolo posts ante 10
+sebr2387 posts ante 10
+Sial28 posts ante 10
+sabre_laser posts ante 10
+hakud posts ante 10
+iTsmie posts ante 10
+gnomelepreux posts small blind 100
+Kez42 posts big blind 200
+Dealt to sabre_laser [Ah 8d]
+*** PRE-FLOP *** 
+sebr2387 folds
+Sial28 folds
+sabre_laser raises 200 to 400
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sabre_laser collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 7: sabre_laser won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #445549638020235265-42-1418851808 - Holdem no limit (10/100/200) - 2014/12/17 21:30:08 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #3 is the button
+Seat 1: crazypix (1170)
+Seat 2: le roi lolo (1164)
+Seat 3: gnomelepreux (1275)
+Seat 4: Kez42 (1465)
+Seat 5: sebr2387 (588)
+Seat 6: Sial28 (1543)
+Seat 7: sabre_laser (2280)
+Seat 8: hakud (3730)
+Seat 9: iTsmie (1785)
+*** ANTE/BLINDS ***
+Kez42 posts ante 10
+sebr2387 posts ante 10
+crazypix posts ante 10
+le roi lolo posts ante 10
+gnomelepreux posts ante 10
+Sial28 posts ante 10
+sabre_laser posts ante 10
+hakud posts ante 10
+iTsmie posts ante 10
+Kez42 posts small blind 100
+sebr2387 posts big blind 200
+Dealt to sabre_laser [4d Ah]
+*** PRE-FLOP *** 
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 5: sebr2387 (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #445549638020235265-43-1418851865 - Holdem no limit (10/100/200) - 2014/12/17 21:31:05 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #4 is the button
+Seat 1: crazypix (1160)
+Seat 2: le roi lolo (1154)
+Seat 3: gnomelepreux (1265)
+Seat 4: Kez42 (1355)
+Seat 5: sebr2387 (768)
+Seat 6: Sial28 (1533)
+Seat 7: sabre_laser (2270)
+Seat 8: hakud (3720)
+Seat 9: iTsmie (1775)
+*** ANTE/BLINDS ***
+sebr2387 posts ante 10
+Sial28 posts ante 10
+crazypix posts ante 10
+le roi lolo posts ante 10
+gnomelepreux posts ante 10
+Kez42 posts ante 10
+sabre_laser posts ante 10
+hakud posts ante 10
+iTsmie posts ante 10
+sebr2387 posts small blind 100
+Sial28 posts big blind 200
+Dealt to sabre_laser [5h 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux raises 1055 to 1255 and is all-in
+Kez42 calls 1255
+sebr2387 folds
+Sial28 folds
+*** FLOP *** [6d 5d Jd]
+*** TURN *** [6d 5d Jd][6c]
+*** RIVER *** [6d 5d Jd 6c][Ts]
+*** SHOW DOWN ***
+Kez42 shows [Qc Ac] (One pair : 6)
+gnomelepreux shows [Ah Kh] (One pair : 6)
+gnomelepreux collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [6d 5d Jd 6c Ts]
+Seat 3: gnomelepreux showed [Ah Kh] and won 2900 with One pair : 6
+Seat 4: Kez42 (button) showed [Qc Ac] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 7 - HandId: #445549638020235265-44-1418851912 - Holdem no limit (10/100/200) - 2014/12/17 21:31:52 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #5 is the button
+Seat 1: crazypix (1150)
+Seat 2: le roi lolo (1144)
+Seat 3: gnomelepreux (2900)
+Seat 4: Kez42 (90)
+Seat 5: sebr2387 (658)
+Seat 6: Sial28 (1323)
+Seat 7: sabre_laser (2260)
+Seat 8: hakud (3710)
+Seat 9: iTsmie (1765)
+*** ANTE/BLINDS ***
+Sial28 posts ante 10
+sabre_laser posts ante 10
+crazypix posts ante 10
+le roi lolo posts ante 10
+gnomelepreux posts ante 10
+Kez42 posts ante 10
+sebr2387 posts ante 10
+hakud posts ante 10
+iTsmie posts ante 10
+Sial28 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [3s 9c]
+*** PRE-FLOP *** 
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux raises 200 to 400
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser folds
+gnomelepreux collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 3: gnomelepreux won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #445549638020235265-45-1418851953 - Holdem no limit (20/150/300) - 2014/12/17 21:32:33 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #6 is the button
+Seat 1: crazypix (1140)
+Seat 2: le roi lolo (1134)
+Seat 3: gnomelepreux (3280)
+Seat 4: Kez42 (80)
+Seat 5: sebr2387 (648)
+Seat 6: Sial28 (1213)
+Seat 7: sabre_laser (2050)
+Seat 8: hakud (3700)
+Seat 9: iTsmie (1755)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+hakud posts ante 20
+crazypix posts ante 20
+le roi lolo posts ante 20
+gnomelepreux posts ante 20
+Kez42 posts ante 20
+sebr2387 posts ante 20
+Sial28 posts ante 20
+iTsmie posts ante 20
+sabre_laser posts small blind 150
+hakud posts big blind 300
+Dealt to sabre_laser [Kc Jh]
+*** PRE-FLOP *** 
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 folds
+sabre_laser raises 300 to 600
+hakud calls 300
+*** FLOP *** [7c Kh 3c]
+sabre_laser checks
+hakud checks
+*** TURN *** [7c Kh 3c][Ah]
+sabre_laser checks
+hakud checks
+*** RIVER *** [7c Kh 3c Ah][Qh]
+sabre_laser bets 300
+hakud calls 300
+*** SHOW DOWN ***
+hakud shows [5s 3s] (One pair : 3)
+sabre_laser shows [Kc Jh] (One pair : Kings)
+sabre_laser collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [7c Kh 3c Ah Qh]
+Seat 7: sabre_laser (small blind) showed [Kc Jh] and won 1980 with One pair : Kings
+Seat 8: hakud (big blind) showed [5s 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #445549638020235265-46-1418852064 - Holdem no limit (20/150/300) - 2014/12/17 21:34:24 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #7 is the button
+Seat 1: crazypix (1120)
+Seat 2: le roi lolo (1114)
+Seat 3: gnomelepreux (3260)
+Seat 4: Kez42 (60)
+Seat 5: sebr2387 (628)
+Seat 6: Sial28 (1193)
+Seat 7: sabre_laser (3110)
+Seat 8: hakud (2780)
+Seat 9: iTsmie (1735)
+*** ANTE/BLINDS ***
+hakud posts ante 20
+iTsmie posts ante 20
+crazypix posts ante 20
+le roi lolo posts ante 20
+gnomelepreux posts ante 20
+Kez42 posts ante 20
+sebr2387 posts ante 20
+Sial28 posts ante 20
+sabre_laser posts ante 20
+hakud posts small blind 150
+iTsmie posts big blind 300
+Dealt to sabre_laser [Qs Ts]
+*** PRE-FLOP *** 
+crazypix folds
+le roi lolo folds
+gnomelepreux folds
+Kez42 folds
+sebr2387 folds
+Sial28 raises 300 to 600
+sabre_laser calls 600
+hakud folds
+iTsmie folds
+*** FLOP *** [4h 5h 4s]
+Sial28 bets 573 and is all-in
+sabre_laser folds
+Sial28 collected 2403 from pot
+*** SUMMARY ***
+Total pot 2403 | No rake
+Board: [4h 5h 4s]
+Seat 6: Sial28 won 2403
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #445549638020235265-47-1418852140 - Holdem no limit (20/150/300) - 2014/12/17 21:35:40 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #8 is the button
+Seat 1: crazypix (1100)
+Seat 2: le roi lolo (1094)
+Seat 3: gnomelepreux (3240)
+Seat 4: Kez42 (40)
+Seat 5: sebr2387 (608)
+Seat 6: Sial28 (2403)
+Seat 7: sabre_laser (2490)
+Seat 8: hakud (2610)
+Seat 9: iTsmie (1415)
+*** ANTE/BLINDS ***
+iTsmie posts ante 20
+crazypix posts ante 20
+le roi lolo posts ante 20
+gnomelepreux posts ante 20
+Kez42 posts ante 20
+sebr2387 posts ante 20
+Sial28 posts ante 20
+sabre_laser posts ante 20
+hakud posts ante 20
+iTsmie posts small blind 150
+crazypix posts big blind 300
+Dealt to sabre_laser [Qh 9c]
+*** PRE-FLOP *** 
+le roi lolo folds
+gnomelepreux folds
+Kez42 calls 20 and is all-in
+sebr2387 raises 288 to 588 and is all-in
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix calls 288
+*** FLOP *** [4c 7h 5c]
+*** TURN *** [4c 7h 5c][Qd]
+*** RIVER *** [4c 7h 5c Qd][Kd]
+*** SHOW DOWN ***
+Kez42 shows [Ah Js] (High card : Ace)
+sebr2387 shows [8h As] (High card : Ace)
+crazypix shows [4s 2h] (One pair : 4)
+crazypix collected 1526 from pot
+*** SUMMARY ***
+Total pot 1526 | No rake
+Board: [4c 7h 5c Qd Kd]
+Seat 1: crazypix (big blind) showed [4s 2h] and won 1526 with One pair : 4
+Seat 4: Kez42 showed [Ah Js] and lost with High card : Ace
+Seat 5: sebr2387 showed [8h As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #445549638020235265-48-1418852176 - Holdem no limit (20/150/300) - 2014/12/17 21:36:16 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #9 is the button
+Seat 1: crazypix (2018)
+Seat 2: le roi lolo (1074)
+Seat 3: gnomelepreux (3220)
+Seat 6: Sial28 (2383)
+Seat 7: sabre_laser (2470)
+Seat 8: hakud (2590)
+Seat 9: iTsmie (1245)
+*** ANTE/BLINDS ***
+crazypix posts ante 20
+le roi lolo posts ante 20
+gnomelepreux posts ante 20
+Sial28 posts ante 20
+sabre_laser posts ante 20
+hakud posts ante 20
+iTsmie posts ante 20
+crazypix posts small blind 150
+le roi lolo posts big blind 300
+Dealt to sabre_laser [6s Kd]
+*** PRE-FLOP *** 
+gnomelepreux folds
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie raises 300 to 600
+crazypix folds
+le roi lolo folds
+iTsmie collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 9: iTsmie (button) won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #445549638020235265-49-1418852201 - Holdem no limit (20/150/300) - 2014/12/17 21:36:41 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #1 is the button
+Seat 1: crazypix (1848)
+Seat 2: le roi lolo (754)
+Seat 3: gnomelepreux (3200)
+Seat 6: Sial28 (2363)
+Seat 7: sabre_laser (2450)
+Seat 8: hakud (2570)
+Seat 9: iTsmie (1815)
+*** ANTE/BLINDS ***
+le roi lolo posts ante 20
+gnomelepreux posts ante 20
+crazypix posts ante 20
+Sial28 posts ante 20
+sabre_laser posts ante 20
+hakud posts ante 20
+iTsmie posts ante 20
+le roi lolo posts small blind 150
+gnomelepreux posts big blind 300
+Dealt to sabre_laser [Js 9c]
+*** PRE-FLOP *** 
+Sial28 folds
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 3: gnomelepreux (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #445549638020235265-50-1418852259 - Holdem no limit (20/150/300) - 2014/12/17 21:37:39 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #2 is the button
+Seat 1: crazypix (1828)
+Seat 2: le roi lolo (584)
+Seat 3: gnomelepreux (3470)
+Seat 6: Sial28 (2343)
+Seat 7: sabre_laser (2430)
+Seat 8: hakud (2550)
+Seat 9: iTsmie (1795)
+*** ANTE/BLINDS ***
+gnomelepreux posts ante 20
+Sial28 posts ante 20
+crazypix posts ante 20
+le roi lolo posts ante 20
+sabre_laser posts ante 20
+hakud posts ante 20
+iTsmie posts ante 20
+gnomelepreux posts small blind 150
+Sial28 posts big blind 300
+Dealt to sabre_laser [4h 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo folds
+gnomelepreux raises 3150 to 3450 and is all-in
+Sial28 folds
+gnomelepreux collected 3890 from pot
+*** SUMMARY ***
+Total pot 3890 | No rake
+Seat 3: gnomelepreux (small blind) won 3890
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 8 - HandId: #445549638020235265-51-1418852291 - Holdem no limit (20/150/300) - 2014/12/17 21:38:11 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #3 is the button
+Seat 1: crazypix (1808)
+Seat 2: le roi lolo (564)
+Seat 3: gnomelepreux (3890)
+Seat 6: Sial28 (2023)
+Seat 7: sabre_laser (2410)
+Seat 8: hakud (2530)
+Seat 9: iTsmie (1775)
+*** ANTE/BLINDS ***
+Sial28 posts ante 20
+sabre_laser posts ante 20
+crazypix posts ante 20
+le roi lolo posts ante 20
+gnomelepreux posts ante 20
+hakud posts ante 20
+iTsmie posts ante 20
+Sial28 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Ac 3c]
+*** PRE-FLOP *** 
+hakud folds
+iTsmie folds
+crazypix folds
+le roi lolo raises 244 to 544 and is all-in
+gnomelepreux folds
+Sial28 folds
+sabre_laser calls 244
+*** FLOP *** [2d 4d Js]
+*** TURN *** [2d 4d Js][Ah]
+*** RIVER *** [2d 4d Js Ah][As]
+*** SHOW DOWN ***
+le roi lolo shows [Td Kc] (One pair : Aces)
+sabre_laser shows [Ac 3c] (Trips of Aces)
+sabre_laser collected 1378 from pot
+*** SUMMARY ***
+Total pot 1378 | No rake
+Board: [2d 4d Js Ah As]
+Seat 2: le roi lolo showed [Td Kc] and lost with One pair : Aces
+Seat 7: sabre_laser (big blind) showed [Ac 3c] and won 1378 with Trips of Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 4,65€ + 0,35€ level: 9 - HandId: #445549638020235265-52-1418852329 - Holdem no limit (50/200/400) - 2014/12/17 21:38:49 UTC
+Table: 'Double or Nothing(103737609)#0' 10-max (real money) Seat #6 is the button
+Seat 1: crazypix (1788)
+Seat 3: gnomelepreux (3870)
+Seat 6: Sial28 (1853)
+Seat 7: sabre_laser (3224)
+Seat 8: hakud (2510)
+Seat 9: iTsmie (1755)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+hakud posts ante 50
+crazypix posts ante 50
+gnomelepreux posts ante 50
+Sial28 posts ante 50
+iTsmie posts ante 50
+sabre_laser posts small blind 200
+hakud posts big blind 400
+Dealt to sabre_laser [Ac Ks]
+*** PRE-FLOP *** 
+iTsmie folds
+crazypix folds
+gnomelepreux folds
+Sial28 raises 1403 to 1803 and is all-in
+sabre_laser raises 1371 to 3174 and is all-in
+hakud folds
+*** FLOP *** [Td 2d Qh]
+*** TURN *** [Td 2d Qh][3h]
+*** RIVER *** [Td 2d Qh 3h][Jh]
+*** SHOW DOWN ***
+Sial28 shows [Ah 7s] (High card : Ace)
+sabre_laser shows [Ac Ks] (Straight Ace high)
+sabre_laser collected 5677 from pot
+*** SUMMARY ***
+Total pot 5677 | No rake
+Board: [Td 2d Qh 3h Jh]
+Seat 6: Sial28 (button) showed [Ah 7s] and lost with High card : Ace
+Seat 7: sabre_laser (small blind) showed [Ac Ks] and won 5677 with Straight Ace high
+
+

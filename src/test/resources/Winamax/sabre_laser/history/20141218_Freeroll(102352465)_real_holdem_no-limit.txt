@@ -1,0 +1,2283 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #439600489839985146-1-1418937339 - Holdem no limit (10/20) - 2014/12/18 21:15:39 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #1 is the button
+Seat 1: ludogims (3000)
+Seat 2: pelian76 (3000)
+Seat 3: Totoleliko (3000)
+Seat 4: TYRON37 (3000)
+Seat 5: sabre_laser (3000)
+Seat 6: gumaeilo (3000)
+*** ANTE/BLINDS ***
+pelian76 posts small blind 10
+Totoleliko posts big blind 20
+Dealt to sabre_laser [Ac 6d]
+*** PRE-FLOP *** 
+TYRON37 folds
+sabre_laser folds
+gumaeilo folds
+ludogims calls 20
+pelian76 calls 10
+Totoleliko checks
+*** FLOP *** [6s 2c 3s]
+pelian76 checks
+Totoleliko checks
+ludogims bets 20
+pelian76 folds
+Totoleliko calls 20
+*** TURN *** [6s 2c 3s][7d]
+Totoleliko checks
+ludogims bets 20
+Totoleliko calls 20
+*** RIVER *** [6s 2c 3s 7d][Tc]
+Totoleliko checks
+ludogims checks
+*** SHOW DOWN ***
+ludogims shows [As 5s] (High card : Ace)
+Totoleliko shows [7c 3c] (Two pairs : 7 and 3)
+Totoleliko collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6s 2c 3s 7d Tc]
+Seat 1: ludogims (button) showed [As 5s] and lost with High card : Ace
+Seat 3: Totoleliko (big blind) showed [7c 3c] and won 140 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #439600489839985146-2-1418937506 - Holdem no limit (10/20) - 2014/12/18 21:18:26 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #2 is the button
+Seat 1: ludogims (2940)
+Seat 2: pelian76 (2980)
+Seat 3: Totoleliko (3080)
+Seat 4: TYRON37 (3000)
+Seat 5: sabre_laser (3000)
+Seat 6: gumaeilo (3000)
+*** ANTE/BLINDS ***
+Totoleliko posts small blind 10
+TYRON37 posts big blind 20
+Dealt to sabre_laser [Js 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+gumaeilo raises 30 to 50
+ludogims folds
+pelian76 folds
+Totoleliko raises 30 to 80
+TYRON37 folds
+gumaeilo calls 30
+*** FLOP *** [7h 8h 3s]
+Totoleliko checks
+gumaeilo checks
+*** TURN *** [7h 8h 3s][7c]
+Totoleliko checks
+gumaeilo checks
+*** RIVER *** [7h 8h 3s 7c][Ad]
+Totoleliko bets 180
+gumaeilo calls 180
+*** SHOW DOWN ***
+gumaeilo shows [Ac 9c] (Two pairs : Aces and 7)
+Totoleliko shows [As Qh] (Two pairs : Aces and 7)
+Totoleliko collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7h 8h 3s 7c Ad]
+Seat 3: Totoleliko (small blind) showed [As Qh] and won 540 with Two pairs : Aces and 7
+Seat 6: gumaeilo showed [Ac 9c] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #439600489839985146-3-1418937567 - Holdem no limit (15/30) - 2014/12/18 21:19:27 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #3 is the button
+Seat 1: ludogims (2940)
+Seat 2: pelian76 (2980)
+Seat 3: Totoleliko (3360)
+Seat 4: TYRON37 (2980)
+Seat 5: sabre_laser (3000)
+Seat 6: gumaeilo (2740)
+*** ANTE/BLINDS ***
+TYRON37 posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [7d 6h]
+*** PRE-FLOP *** 
+gumaeilo raises 75 to 105
+ludogims raises 2835 to 2940 and is all-in
+pelian76 calls 2940
+Totoleliko folds
+TYRON37 folds
+sabre_laser folds
+gumaeilo calls 2635 and is all-in
+*** FLOP *** [6s 9s Jd]
+*** TURN *** [6s 9s Jd][Qh]
+*** RIVER *** [6s 9s Jd Qh][3s]
+*** SHOW DOWN ***
+ludogims shows [As Td] (High card : Ace)
+gumaeilo shows [Ad Qd] (One pair : Queens)
+pelian76 shows [Js Kh] (One pair : Jacks)
+pelian76 collected 400 from side pot 1
+gumaeilo collected 8265 from main pot
+*** SUMMARY ***
+Total pot 8665 | No rake
+Board: [6s 9s Jd Qh 3s]
+Seat 1: ludogims showed [As Td] and lost with High card : Ace
+Seat 2: pelian76 showed [Js Kh] and won 400 with One pair : Jacks
+Seat 6: gumaeilo showed [Ad Qd] and won 8265 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #439600489839985146-4-1418937610 - Holdem no limit (15/30) - 2014/12/18 21:20:10 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #4 is the button
+Seat 1: miam33 (5658)
+Seat 2: pelian76 (440)
+Seat 3: Totoleliko (3360)
+Seat 4: TYRON37 (2965)
+Seat 5: sabre_laser (2970)
+Seat 6: gumaeilo (8265)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+gumaeilo posts big blind 30
+Dealt to sabre_laser [7d 8d]
+*** PRE-FLOP *** 
+miam33 calls 30
+pelian76 folds
+Totoleliko folds
+TYRON37 calls 30
+sabre_laser folds
+gumaeilo checks
+*** FLOP *** [3s 5h Qc]
+gumaeilo checks
+miam33 bets 5628 and is all-in
+TYRON37 folds
+gumaeilo folds
+miam33 collected 5733 from pot
+*** SUMMARY ***
+Total pot 5733 | No rake
+Board: [3s 5h Qc]
+Seat 1: miam33 won 5733
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #439600489839985146-5-1418937659 - Holdem no limit (15/30) - 2014/12/18 21:20:59 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #5 is the button
+Seat 1: miam33 (5733)
+Seat 2: pelian76 (440)
+Seat 3: Totoleliko (3360)
+Seat 4: TYRON37 (2935)
+Seat 5: sabre_laser (2955)
+Seat 6: gumaeilo (8235)
+*** ANTE/BLINDS ***
+gumaeilo posts small blind 15
+miam33 posts big blind 30
+Dealt to sabre_laser [9h 6h]
+*** PRE-FLOP *** 
+pelian76 folds
+Totoleliko folds
+TYRON37 raises 30 to 60
+sabre_laser folds
+gumaeilo folds
+miam33 calls 30
+*** FLOP *** [4s 9c 7s]
+miam33 bets 30
+TYRON37 calls 30
+*** TURN *** [4s 9c 7s][9s]
+miam33 bets 195
+TYRON37 calls 195
+*** RIVER *** [4s 9c 7s 9s][7d]
+miam33 bets 30
+TYRON37 calls 30
+*** SHOW DOWN ***
+TYRON37 shows [Ac 3s] (Two pairs : 9 and 7)
+miam33 shows [Qs Ts] (Flush Queen high)
+miam33 collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Board: [4s 9c 7s 9s 7d]
+Seat 1: miam33 (big blind) showed [Qs Ts] and won 645 with Flush Queen high
+Seat 4: TYRON37 showed [Ac 3s] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #439600489839985146-6-1418937725 - Holdem no limit (20/40) - 2014/12/18 21:22:05 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #6 is the button
+Seat 1: miam33 (6063)
+Seat 2: pelian76 (440)
+Seat 3: Totoleliko (3360)
+Seat 4: TYRON37 (2620)
+Seat 5: sabre_laser (2955)
+Seat 6: gumaeilo (8220)
+*** ANTE/BLINDS ***
+miam33 posts small blind 20
+pelian76 posts big blind 40
+Dealt to sabre_laser [7c Js]
+*** PRE-FLOP *** 
+Totoleliko raises 40 to 80
+TYRON37 folds
+sabre_laser folds
+gumaeilo folds
+miam33 raises 40 to 120
+pelian76 raises 320 to 440 and is all-in
+Totoleliko calls 360
+miam33 calls 320
+*** FLOP *** [6s Qc 8s]
+miam33 checks
+Totoleliko checks
+*** TURN *** [6s Qc 8s][9h]
+miam33 bets 660
+Totoleliko calls 660
+*** RIVER *** [6s Qc 8s 9h][5d]
+miam33 checks
+Totoleliko checks
+*** SHOW DOWN ***
+miam33 shows [8h Kh] (One pair : 8)
+pelian76 shows [6h 9c] (Two pairs : 9 and 6)
+Totoleliko shows [9d Jh] (One pair : 9)
+Totoleliko collected 1320 from side pot 1
+pelian76 collected 1320 from main pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [6s Qc 8s 9h 5d]
+Seat 1: miam33 (small blind) showed [8h Kh] and lost with One pair : 8
+Seat 2: pelian76 (big blind) showed [6h 9c] and won 1320 with Two pairs : 9 and 6
+Seat 3: Totoleliko showed [9d Jh] and won 1320 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #439600489839985146-7-1418937796 - Holdem no limit (20/40) - 2014/12/18 21:23:16 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #1 is the button
+Seat 1: miam33 (4963)
+Seat 2: pelian76 (1320)
+Seat 3: Totoleliko (3580)
+Seat 4: TYRON37 (2620)
+Seat 5: sabre_laser (2955)
+Seat 6: gumaeilo (8220)
+*** ANTE/BLINDS ***
+pelian76 posts small blind 20
+Totoleliko posts big blind 40
+Dealt to sabre_laser [Qc 4d]
+*** PRE-FLOP *** 
+TYRON37 calls 40
+sabre_laser folds
+gumaeilo folds
+miam33 raises 4923 to 4963 and is all-in
+pelian76 folds
+Totoleliko folds
+TYRON37 folds
+miam33 collected 5063 from pot
+*** SUMMARY ***
+Total pot 5063 | No rake
+Seat 1: miam33 (button) won 5063
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #439600489839985146-8-1418937833 - Holdem no limit (20/40) - 2014/12/18 21:23:53 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #2 is the button
+Seat 1: miam33 (5063)
+Seat 2: pelian76 (1300)
+Seat 3: Totoleliko (3540)
+Seat 4: TYRON37 (2580)
+Seat 5: sabre_laser (2955)
+Seat 6: gumaeilo (8220)
+*** ANTE/BLINDS ***
+Totoleliko posts small blind 20
+TYRON37 posts big blind 40
+Dealt to sabre_laser [2d Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+gumaeilo folds
+miam33 calls 40
+pelian76 raises 1260 to 1300 and is all-in
+Totoleliko folds
+TYRON37 folds
+miam33 folds
+pelian76 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Seat 2: pelian76 (button) won 1400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #439600489839985146-9-1418937856 - Holdem no limit (20/40) - 2014/12/18 21:24:16 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #3 is the button
+Seat 1: miam33 (5023)
+Seat 2: pelian76 (1400)
+Seat 3: Totoleliko (3520)
+Seat 4: TYRON37 (2540)
+Seat 5: sabre_laser (2955)
+Seat 6: gumaeilo (8220)
+*** ANTE/BLINDS ***
+TYRON37 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [4h 7h]
+*** PRE-FLOP *** 
+gumaeilo folds
+miam33 raises 40 to 80
+pelian76 folds
+Totoleliko raises 40 to 120
+TYRON37 calls 100
+sabre_laser folds
+miam33 calls 40
+*** FLOP *** [8h 4s 4c]
+TYRON37 checks
+miam33 checks
+Totoleliko bets 267
+TYRON37 raises 2153 to 2420 and is all-in
+miam33 folds
+Totoleliko folds
+TYRON37 collected 3087 from pot
+*** SUMMARY ***
+Total pot 3087 | No rake
+Board: [8h 4s 4c]
+Seat 4: TYRON37 (small blind) won 3087
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #439600489839985146-10-1418937914 - Holdem no limit (30/60) - 2014/12/18 21:25:14 UTC
+Table: 'Freeroll(102352465)#505' 6-max (real money) Seat #4 is the button
+Seat 1: miam33 (4903)
+Seat 2: pelian76 (1400)
+Seat 3: Totoleliko (3133)
+Seat 4: TYRON37 (3087)
+Seat 5: sabre_laser (2915)
+Seat 6: gumaeilo (8220)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+gumaeilo posts big blind 60
+Dealt to sabre_laser [3c 8s]
+*** PRE-FLOP *** 
+miam33 raises 60 to 120
+pelian76 folds
+Totoleliko calls 120
+TYRON37 folds
+sabre_laser folds
+gumaeilo folds
+*** FLOP *** [Jc 7s 4h]
+miam33 bets 330
+Totoleliko raises 330 to 660
+miam33 calls 330
+*** TURN *** [Jc 7s 4h][Kc]
+miam33 checks
+Totoleliko bets 1650
+miam33 folds
+Totoleliko collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [Jc 7s 4h Kc]
+Seat 3: Totoleliko won 3300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #439600489839984934-16-1418937973 - Holdem no limit (30/60) - 2014/12/18 21:26:13 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (2845)
+Seat 2: RoRo_48 (3170)
+Seat 3: Mini_dinde (21275)
+Seat 4: gregouvivi44 (2835)
+Seat 5: short stack (2895)
+Seat 6: sabre_laser (2885)
+*** ANTE/BLINDS ***
+vemaroma posts small blind 30
+RoRo_48 posts big blind 60
+*** PRE-FLOP *** 
+Mini_dinde raises 60 to 120
+gregouvivi44 folds
+vemaroma folds
+RoRo_48 folds
+Mini_dinde collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: Mini_dinde won 210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #439600489839984934-17-1418937984 - Holdem no limit (30/60) - 2014/12/18 21:26:24 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (2815)
+Seat 2: RoRo_48 (3110)
+Seat 3: Mini_dinde (21365)
+Seat 4: gregouvivi44 (2835)
+Seat 5: short stack (2895)
+Seat 6: sabre_laser (2885)
+*** ANTE/BLINDS ***
+RoRo_48 posts small blind 30
+Mini_dinde posts big blind 60
+Dealt to sabre_laser [3c 4d]
+*** PRE-FLOP *** 
+gregouvivi44 folds
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 folds
+Mini_dinde collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Mini_dinde (big blind) won 90
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #439600489839984934-18-1418938021 - Holdem no limit (30/60) - 2014/12/18 21:27:01 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (2815)
+Seat 2: RoRo_48 (3080)
+Seat 3: Mini_dinde (21395)
+Seat 4: gregouvivi44 (2835)
+Seat 5: short stack (2895)
+Seat 6: sabre_laser (2885)
+*** ANTE/BLINDS ***
+Mini_dinde posts small blind 30
+gregouvivi44 posts big blind 60
+Dealt to sabre_laser [2h 8d]
+*** PRE-FLOP *** 
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 folds
+Mini_dinde raises 60 to 120
+gregouvivi44 calls 60
+*** FLOP *** [3h 5c 6c]
+Mini_dinde bets 240
+gregouvivi44 calls 240
+*** TURN *** [3h 5c 6c][Jc]
+Mini_dinde bets 21035 and is all-in
+gregouvivi44 calls 2475 and is all-in
+*** RIVER *** [3h 5c 6c Jc][Qd]
+*** SHOW DOWN ***
+gregouvivi44 shows [6d Kc] (One pair : 6)
+Mini_dinde shows [3s 5h] (Two pairs : 5 and 3)
+Mini_dinde collected 24230 from pot
+*** SUMMARY ***
+Total pot 24230 | No rake
+Board: [3h 5c 6c Jc Qd]
+Seat 3: Mini_dinde (small blind) showed [3s 5h] and won 24230 with Two pairs : 5 and 3
+Seat 4: gregouvivi44 (big blind) showed [6d Kc] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #439600489839984934-19-1418938047 - Holdem no limit (30/60) - 2014/12/18 21:27:27 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #3 is the button
+Seat 1: vemaroma (2815)
+Seat 2: RoRo_48 (3080)
+Seat 3: Mini_dinde (24230)
+Seat 4: patgeoff (5150)
+Seat 5: short stack (2895)
+Seat 6: sabre_laser (2885)
+*** ANTE/BLINDS ***
+short stack posts big blind 60
+Dealt to sabre_laser [Qs Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+vemaroma folds
+RoRo_48 folds
+Mini_dinde raises 60 to 120
+short stack folds
+Mini_dinde collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: Mini_dinde (button) won 180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-20-1418938057 - Holdem no limit (40/80) - 2014/12/18 21:27:37 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #4 is the button
+Seat 1: vemaroma (2815)
+Seat 2: RoRo_48 (3080)
+Seat 3: Mini_dinde (24290)
+Seat 4: patgeoff (5150)
+Seat 5: short stack (2835)
+Seat 6: sabre_laser (2885)
+*** ANTE/BLINDS ***
+short stack posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [7c 4s]
+*** PRE-FLOP *** 
+vemaroma folds
+RoRo_48 folds
+Mini_dinde raises 80 to 160
+short stack folds
+sabre_laser folds
+Mini_dinde collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: Mini_dinde won 280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-21-1418938066 - Holdem no limit (40/80) - 2014/12/18 21:27:46 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #5 is the button
+Seat 1: vemaroma (2815)
+Seat 2: RoRo_48 (3080)
+Seat 3: Mini_dinde (24410)
+Seat 4: patgeoff (5150)
+Seat 5: short stack (2795)
+Seat 6: sabre_laser (2805)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+vemaroma posts big blind 80
+Dealt to sabre_laser [Js Ah]
+*** PRE-FLOP *** 
+RoRo_48 raises 80 to 160
+Mini_dinde calls 160
+patgeoff folds
+short stack folds
+sabre_laser folds
+vemaroma folds
+*** FLOP *** [9d Qc 6d]
+RoRo_48 bets 280
+Mini_dinde calls 280
+*** TURN *** [9d Qc 6d][4h]
+RoRo_48 bets 280
+Mini_dinde calls 280
+*** RIVER *** [9d Qc 6d 4h][Jc]
+RoRo_48 checks
+Mini_dinde bets 23690 and is all-in
+RoRo_48 folds
+Mini_dinde collected 25250 from pot
+*** SUMMARY ***
+Total pot 25250 | No rake
+Board: [9d Qc 6d 4h Jc]
+Seat 3: Mini_dinde won 25250
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-22-1418938102 - Holdem no limit (40/80) - 2014/12/18 21:28:22 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (2735)
+Seat 2: RoRo_48 (2360)
+Seat 3: Mini_dinde (25250)
+Seat 4: patgeoff (5150)
+Seat 5: short stack (2795)
+Seat 6: sabre_laser (2765)
+*** ANTE/BLINDS ***
+vemaroma posts small blind 40
+RoRo_48 posts big blind 80
+Dealt to sabre_laser [3c Kc]
+*** PRE-FLOP *** 
+Mini_dinde raises 80 to 160
+patgeoff folds
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 folds
+Mini_dinde collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: Mini_dinde won 280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-23-1418938129 - Holdem no limit (40/80) - 2014/12/18 21:28:49 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (2695)
+Seat 2: RoRo_48 (2280)
+Seat 3: Mini_dinde (25370)
+Seat 4: patgeoff (5150)
+Seat 5: short stack (2795)
+Seat 6: sabre_laser (2765)
+*** ANTE/BLINDS ***
+RoRo_48 posts small blind 40
+Mini_dinde posts big blind 80
+Dealt to sabre_laser [Ah 5c]
+*** PRE-FLOP *** 
+patgeoff folds
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 calls 40
+Mini_dinde checks
+*** FLOP *** [Js Kd As]
+RoRo_48 checks
+Mini_dinde checks
+*** TURN *** [Js Kd As][4d]
+RoRo_48 checks
+Mini_dinde checks
+*** RIVER *** [Js Kd As 4d][8s]
+RoRo_48 checks
+Mini_dinde checks
+*** SHOW DOWN ***
+RoRo_48 shows [8h 7d] (One pair : 8)
+Mini_dinde shows [Jc 3c] (One pair : Jacks)
+Mini_dinde collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Js Kd As 4d 8s]
+Seat 2: RoRo_48 (small blind) showed [8h 7d] and lost with One pair : 8
+Seat 3: Mini_dinde (big blind) showed [Jc 3c] and won 160 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-24-1418938150 - Holdem no limit (40/80) - 2014/12/18 21:29:10 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (2695)
+Seat 2: RoRo_48 (2200)
+Seat 3: Mini_dinde (25450)
+Seat 4: patgeoff (5150)
+Seat 5: short stack (2795)
+Seat 6: sabre_laser (2765)
+*** ANTE/BLINDS ***
+Mini_dinde posts small blind 40
+patgeoff posts big blind 80
+Dealt to sabre_laser [5s 8s]
+*** PRE-FLOP *** 
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 folds
+Mini_dinde raises 80 to 160
+patgeoff folds
+Mini_dinde collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Mini_dinde (small blind) won 240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-25-1418938159 - Holdem no limit (40/80) - 2014/12/18 21:29:19 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #3 is the button
+Seat 1: vemaroma (2695)
+Seat 2: RoRo_48 (2200)
+Seat 3: Mini_dinde (25530)
+Seat 4: patgeoff (5070)
+Seat 5: short stack (2795)
+Seat 6: sabre_laser (2765)
+*** ANTE/BLINDS ***
+patgeoff posts small blind 40
+short stack posts big blind 80
+Dealt to sabre_laser [3d As]
+*** PRE-FLOP *** 
+sabre_laser folds
+vemaroma folds
+RoRo_48 calls 80
+Mini_dinde calls 80
+patgeoff folds
+short stack folds
+*** FLOP *** [9d Ad 8s]
+RoRo_48 bets 2120 and is all-in
+Mini_dinde folds
+RoRo_48 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [9d Ad 8s]
+Seat 2: RoRo_48 won 2400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-26-1418938176 - Holdem no limit (40/80) - 2014/12/18 21:29:36 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #4 is the button
+Seat 1: vemaroma (2695)
+Seat 2: RoRo_48 (2400)
+Seat 3: Mini_dinde (25450)
+Seat 4: patgeoff (5030)
+Seat 5: short stack (2715)
+Seat 6: sabre_laser (2765)
+*** ANTE/BLINDS ***
+short stack posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [Kh Qh]
+*** PRE-FLOP *** 
+vemaroma folds
+RoRo_48 folds
+Mini_dinde raises 80 to 160
+patgeoff folds
+short stack folds
+sabre_laser folds
+Mini_dinde collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: Mini_dinde won 280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-27-1418938187 - Holdem no limit (40/80) - 2014/12/18 21:29:47 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #5 is the button
+Seat 1: vemaroma (2695)
+Seat 2: RoRo_48 (2400)
+Seat 3: Mini_dinde (25570)
+Seat 4: patgeoff (5030)
+Seat 5: short stack (2675)
+Seat 6: sabre_laser (2685)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+vemaroma posts big blind 80
+Dealt to sabre_laser [Ad 3h]
+*** PRE-FLOP *** 
+RoRo_48 raises 2320 to 2400 and is all-in
+Mini_dinde folds
+patgeoff folds
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Seat 2: RoRo_48 won 2520
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-28-1418938204 - Holdem no limit (40/80) - 2014/12/18 21:30:04 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (2615)
+Seat 2: RoRo_48 (2520)
+Seat 3: Mini_dinde (25570)
+Seat 4: patgeoff (5030)
+Seat 5: short stack (2675)
+Seat 6: sabre_laser (2645)
+*** ANTE/BLINDS ***
+vemaroma posts small blind 40
+RoRo_48 posts big blind 80
+Dealt to sabre_laser [Ts 8s]
+*** PRE-FLOP *** 
+Mini_dinde raises 80 to 160
+patgeoff folds
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 raises 2360 to 2520 and is all-in
+Mini_dinde calls 2360
+*** FLOP *** [Ac 4c 7c]
+*** TURN *** [Ac 4c 7c][9c]
+*** RIVER *** [Ac 4c 7c 9c][As]
+*** SHOW DOWN ***
+Mini_dinde shows [Js 7s] (Two pairs : Aces and 7)
+RoRo_48 shows [Jc Ah] (Flush Ace high)
+RoRo_48 collected 5080 from pot
+*** SUMMARY ***
+Total pot 5080 | No rake
+Board: [Ac 4c 7c 9c As]
+Seat 2: RoRo_48 (big blind) showed [Jc Ah] and won 5080 with Flush Ace high
+Seat 3: Mini_dinde showed [Js 7s] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-29-1418938222 - Holdem no limit (40/80) - 2014/12/18 21:30:22 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (2575)
+Seat 2: RoRo_48 (5080)
+Seat 3: Mini_dinde (23050)
+Seat 4: patgeoff (5030)
+Seat 5: short stack (2675)
+Seat 6: sabre_laser (2645)
+*** ANTE/BLINDS ***
+RoRo_48 posts small blind 40
+Mini_dinde posts big blind 80
+Dealt to sabre_laser [8h 2c]
+*** PRE-FLOP *** 
+patgeoff folds
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 folds
+Mini_dinde collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Mini_dinde (big blind) won 120
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #439600489839984934-30-1418938232 - Holdem no limit (40/80) - 2014/12/18 21:30:32 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (2575)
+Seat 2: RoRo_48 (5040)
+Seat 3: Mini_dinde (23090)
+Seat 4: patgeoff (5030)
+Seat 5: short stack (2675)
+Seat 6: sabre_laser (2645)
+*** ANTE/BLINDS ***
+Mini_dinde posts small blind 40
+patgeoff posts big blind 80
+Dealt to sabre_laser [6c 7d]
+*** PRE-FLOP *** 
+short stack folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 raises 80 to 160
+Mini_dinde calls 120
+patgeoff folds
+*** FLOP *** [2h Jc As]
+Mini_dinde checks
+RoRo_48 bets 400
+Mini_dinde folds
+RoRo_48 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [2h Jc As]
+Seat 2: RoRo_48 (button) won 800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-31-1418938248 - Holdem no limit (60/120) - 2014/12/18 21:30:48 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #3 is the button
+Seat 1: vemaroma (2575)
+Seat 2: RoRo_48 (5280)
+Seat 3: Mini_dinde (22930)
+Seat 4: patgeoff (4950)
+Seat 5: short stack (2675)
+Seat 6: sabre_laser (2645)
+*** ANTE/BLINDS ***
+patgeoff posts small blind 60
+short stack posts big blind 120
+Dealt to sabre_laser [2c Qd]
+*** PRE-FLOP *** 
+sabre_laser folds
+vemaroma folds
+RoRo_48 calls 120
+Mini_dinde calls 120
+patgeoff folds
+short stack folds
+*** FLOP *** [Ah 3c Kh]
+RoRo_48 checks
+Mini_dinde bets 420
+RoRo_48 folds
+Mini_dinde collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Ah 3c Kh]
+Seat 3: Mini_dinde (button) won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-32-1418938268 - Holdem no limit (60/120) - 2014/12/18 21:31:08 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #4 is the button
+Seat 1: vemaroma (2575)
+Seat 2: RoRo_48 (5160)
+Seat 3: Mini_dinde (23230)
+Seat 4: patgeoff (4890)
+Seat 5: short stack (2555)
+Seat 6: sabre_laser (2645)
+*** ANTE/BLINDS ***
+short stack posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [8c 6d]
+*** PRE-FLOP *** 
+vemaroma folds
+RoRo_48 folds
+Mini_dinde raises 23110 to 23230 and is all-in
+patgeoff folds
+short stack folds
+sabre_laser folds
+Mini_dinde collected 23410 from pot
+*** SUMMARY ***
+Total pot 23410 | No rake
+Seat 3: Mini_dinde won 23410
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-33-1418938279 - Holdem no limit (60/120) - 2014/12/18 21:31:19 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #5 is the button
+Seat 1: vemaroma (2575)
+Seat 2: RoRo_48 (5160)
+Seat 3: Mini_dinde (23410)
+Seat 4: patgeoff (4890)
+Seat 5: short stack (2495)
+Seat 6: sabre_laser (2525)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+vemaroma posts big blind 120
+Dealt to sabre_laser [3h 8s]
+*** PRE-FLOP *** 
+RoRo_48 folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+short stack raises 2255 to 2495 and is all-in
+sabre_laser folds
+vemaroma folds
+Mini_dinde calls 2255
+*** FLOP *** [7d 7c 3c]
+*** TURN *** [7d 7c 3c][Qs]
+*** RIVER *** [7d 7c 3c Qs][Qc]
+*** SHOW DOWN ***
+short stack shows [Ah Jh] (Two pairs : Queens and 7)
+Mini_dinde shows [7s 9s] (Full of 7 and Queens)
+Mini_dinde collected 5170 from pot
+*** SUMMARY ***
+Total pot 5170 | No rake
+Board: [7d 7c 3c Qs Qc]
+Seat 3: Mini_dinde showed [7s 9s] and won 5170 with Full of 7 and Queens
+Seat 5: short stack (button) showed [Ah Jh] and lost with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-34-1418938300 - Holdem no limit (60/120) - 2014/12/18 21:31:40 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (2455)
+Seat 2: RoRo_48 (5160)
+Seat 3: Mini_dinde (26085)
+Seat 4: patgeoff (4890)
+Seat 5: Gerardmer (2570)
+Seat 6: sabre_laser (2465)
+*** ANTE/BLINDS ***
+vemaroma posts small blind 60
+RoRo_48 posts big blind 120
+Dealt to sabre_laser [Jd Th]
+*** PRE-FLOP *** 
+Mini_dinde folds
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: RoRo_48 (big blind) won 180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-35-1418938311 - Holdem no limit (60/120) - 2014/12/18 21:31:51 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (2395)
+Seat 2: RoRo_48 (5220)
+Seat 3: Mini_dinde (26085)
+Seat 4: patgeoff (4890)
+Seat 5: Gerardmer (2570)
+Seat 6: sabre_laser (2465)
+*** ANTE/BLINDS ***
+RoRo_48 posts small blind 60
+Mini_dinde posts big blind 120
+Dealt to sabre_laser [2d Qd]
+*** PRE-FLOP *** 
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+RoRo_48 raises 5100 to 5220 and is all-in
+Mini_dinde calls 5100
+*** FLOP *** [Qh Td 6c]
+*** TURN *** [Qh Td 6c][9c]
+*** RIVER *** [Qh Td 6c 9c][9s]
+*** SHOW DOWN ***
+RoRo_48 shows [3h Ac] (One pair : 9)
+Mini_dinde shows [7h Qs] (Two pairs : Queens and 9)
+Mini_dinde collected 10440 from pot
+*** SUMMARY ***
+Total pot 10440 | No rake
+Board: [Qh Td 6c 9c 9s]
+Seat 2: RoRo_48 (small blind) showed [3h Ac] and lost with One pair : 9
+Seat 3: Mini_dinde (big blind) showed [7h Qs] and won 10440 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-36-1418938328 - Holdem no limit (60/120) - 2014/12/18 21:32:08 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (2395)
+Seat 2: chrisromi26 (5345)
+Seat 3: Mini_dinde (31305)
+Seat 4: patgeoff (4890)
+Seat 5: Gerardmer (2570)
+Seat 6: sabre_laser (2465)
+*** ANTE/BLINDS ***
+Mini_dinde posts small blind 60
+patgeoff posts big blind 120
+Dealt to sabre_laser [Td Jh]
+*** PRE-FLOP *** 
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Mini_dinde collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: Mini_dinde (small blind) won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-37-1418938335 - Holdem no limit (60/120) - 2014/12/18 21:32:15 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #3 is the button
+Seat 1: vemaroma (2395)
+Seat 2: chrisromi26 (5345)
+Seat 3: Mini_dinde (31425)
+Seat 4: patgeoff (4770)
+Seat 5: Gerardmer (2570)
+Seat 6: sabre_laser (2465)
+*** ANTE/BLINDS ***
+patgeoff posts small blind 60
+Gerardmer posts big blind 120
+Dealt to sabre_laser [5d 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+vemaroma folds
+chrisromi26 folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+Mini_dinde collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: Mini_dinde (button) won 420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-38-1418938348 - Holdem no limit (60/120) - 2014/12/18 21:32:28 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #4 is the button
+Seat 1: vemaroma (2395)
+Seat 2: chrisromi26 (5345)
+Seat 3: Mini_dinde (31605)
+Seat 4: patgeoff (4710)
+Seat 5: Gerardmer (2450)
+Seat 6: sabre_laser (2465)
+*** ANTE/BLINDS ***
+Gerardmer posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [3d Tc]
+*** PRE-FLOP *** 
+vemaroma folds
+chrisromi26 folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+Mini_dinde collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: Mini_dinde won 420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-39-1418938360 - Holdem no limit (60/120) - 2014/12/18 21:32:40 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #5 is the button
+Seat 1: vemaroma (2395)
+Seat 2: chrisromi26 (5345)
+Seat 3: Mini_dinde (31785)
+Seat 4: patgeoff (4710)
+Seat 5: Gerardmer (2390)
+Seat 6: sabre_laser (2345)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+vemaroma posts big blind 120
+Dealt to sabre_laser [Th Ks]
+*** PRE-FLOP *** 
+chrisromi26 raises 120 to 240
+Mini_dinde calls 240
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+*** FLOP *** [4s 9h 3d]
+chrisromi26 bets 330
+Mini_dinde raises 908 to 1238
+chrisromi26 folds
+Mini_dinde collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | No rake
+Board: [4s 9h 3d]
+Seat 3: Mini_dinde won 2228
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-40-1418938388 - Holdem no limit (60/120) - 2014/12/18 21:33:08 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (2275)
+Seat 2: chrisromi26 (4775)
+Seat 3: Mini_dinde (32535)
+Seat 4: patgeoff (4710)
+Seat 5: Gerardmer (2390)
+Seat 6: sabre_laser (2285)
+*** ANTE/BLINDS ***
+vemaroma posts small blind 60
+chrisromi26 posts big blind 120
+Dealt to sabre_laser [Ac 8s]
+*** PRE-FLOP *** 
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+chrisromi26 folds
+Mini_dinde collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: Mini_dinde won 420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-41-1418938404 - Holdem no limit (60/120) - 2014/12/18 21:33:24 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (2215)
+Seat 2: chrisromi26 (4655)
+Seat 3: Mini_dinde (32715)
+Seat 4: patgeoff (4710)
+Seat 5: Gerardmer (2390)
+Seat 6: sabre_laser (2285)
+*** ANTE/BLINDS ***
+chrisromi26 posts small blind 60
+Mini_dinde posts big blind 120
+Dealt to sabre_laser [2h Ad]
+*** PRE-FLOP *** 
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+chrisromi26 folds
+Mini_dinde collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: Mini_dinde (big blind) won 180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #439600489839984934-42-1418938413 - Holdem no limit (60/120) - 2014/12/18 21:33:33 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (2215)
+Seat 2: chrisromi26 (4595)
+Seat 3: Mini_dinde (32775)
+Seat 4: patgeoff (4710)
+Seat 5: Gerardmer (2390)
+Seat 6: sabre_laser (2285)
+*** ANTE/BLINDS ***
+Mini_dinde posts small blind 60
+patgeoff posts big blind 120
+Dealt to sabre_laser [9d 4h]
+*** PRE-FLOP *** 
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+chrisromi26 folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Mini_dinde collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: Mini_dinde (small blind) won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-43-1418938437 - Holdem no limit (10/60/120) - 2014/12/18 21:33:57 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #3 is the button
+Seat 1: vemaroma (2215)
+Seat 2: chrisromi26 (4595)
+Seat 3: Mini_dinde (32895)
+Seat 4: patgeoff (4590)
+Seat 5: Gerardmer (2390)
+Seat 6: sabre_laser (2285)
+*** ANTE/BLINDS ***
+patgeoff posts ante 10
+Gerardmer posts ante 10
+vemaroma posts ante 10
+chrisromi26 posts ante 10
+Mini_dinde posts ante 10
+sabre_laser posts ante 10
+patgeoff posts small blind 60
+Gerardmer posts big blind 120
+Dealt to sabre_laser [5c 3c]
+*** PRE-FLOP *** 
+sabre_laser folds
+vemaroma folds
+chrisromi26 folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+Mini_dinde collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: Mini_dinde (button) won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-44-1418938449 - Holdem no limit (10/60/120) - 2014/12/18 21:34:09 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #4 is the button
+Seat 1: vemaroma (2205)
+Seat 2: chrisromi26 (4585)
+Seat 3: Mini_dinde (33125)
+Seat 4: patgeoff (4520)
+Seat 5: Gerardmer (2260)
+Seat 6: sabre_laser (2275)
+*** ANTE/BLINDS ***
+Gerardmer posts ante 10
+sabre_laser posts ante 10
+vemaroma posts ante 10
+chrisromi26 posts ante 10
+Mini_dinde posts ante 10
+patgeoff posts ante 10
+Gerardmer posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Ad 9h]
+*** PRE-FLOP *** 
+vemaroma folds
+chrisromi26 folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+Mini_dinde collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: Mini_dinde won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-45-1418938463 - Holdem no limit (10/60/120) - 2014/12/18 21:34:23 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #5 is the button
+Seat 1: vemaroma (2195)
+Seat 2: chrisromi26 (4575)
+Seat 3: Mini_dinde (33355)
+Seat 4: patgeoff (4510)
+Seat 5: Gerardmer (2190)
+Seat 6: sabre_laser (2145)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+vemaroma posts ante 10
+chrisromi26 posts ante 10
+Mini_dinde posts ante 10
+patgeoff posts ante 10
+Gerardmer posts ante 10
+sabre_laser posts small blind 60
+vemaroma posts big blind 120
+Dealt to sabre_laser [Qc Qh]
+*** PRE-FLOP *** 
+chrisromi26 folds
+Mini_dinde folds
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: vemaroma (big blind) won 240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-46-1418938472 - Holdem no limit (10/60/120) - 2014/12/18 21:34:32 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (2305)
+Seat 2: chrisromi26 (4565)
+Seat 3: Mini_dinde (33345)
+Seat 4: patgeoff (4500)
+Seat 5: Gerardmer (2180)
+Seat 6: sabre_laser (2075)
+*** ANTE/BLINDS ***
+vemaroma posts ante 10
+chrisromi26 posts ante 10
+Mini_dinde posts ante 10
+patgeoff posts ante 10
+Gerardmer posts ante 10
+sabre_laser posts ante 10
+vemaroma posts small blind 60
+chrisromi26 posts big blind 120
+Dealt to sabre_laser [5h 4s]
+*** PRE-FLOP *** 
+Mini_dinde raises 240 to 360
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+chrisromi26 calls 240
+*** FLOP *** [9h Ah 5c]
+chrisromi26 checks
+Mini_dinde bets 420
+chrisromi26 raises 3775 to 4195 and is all-in
+Mini_dinde calls 3775
+*** TURN *** [9h Ah 5c][7s]
+*** RIVER *** [9h Ah 5c 7s][2s]
+*** SHOW DOWN ***
+chrisromi26 shows [Kh 4h] (High card : Ace)
+Mini_dinde shows [8s 8h] (One pair : 8)
+Mini_dinde collected 9230 from pot
+*** SUMMARY ***
+Total pot 9230 | No rake
+Board: [9h Ah 5c 7s 2s]
+Seat 2: chrisromi26 (big blind) showed [Kh 4h] and lost with High card : Ace
+Seat 3: Mini_dinde showed [8s 8h] and won 9230 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-47-1418938514 - Holdem no limit (10/60/120) - 2014/12/18 21:35:14 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (2235)
+Seat 2: jP.POWERDOLL (3860)
+Seat 3: Mini_dinde (38010)
+Seat 4: patgeoff (4490)
+Seat 5: Gerardmer (2170)
+Seat 6: sabre_laser (2065)
+*** ANTE/BLINDS ***
+Mini_dinde posts ante 10
+vemaroma posts ante 10
+patgeoff posts ante 10
+Gerardmer posts ante 10
+sabre_laser posts ante 10
+Mini_dinde posts big blind 120
+Dealt to sabre_laser [5h 7h]
+*** PRE-FLOP *** 
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+Mini_dinde collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 3: Mini_dinde (big blind) won 170
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-48-1418938522 - Holdem no limit (10/60/120) - 2014/12/18 21:35:22 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (2225)
+Seat 2: jP.POWERDOLL (3860)
+Seat 3: Mini_dinde (38050)
+Seat 4: patgeoff (4480)
+Seat 5: Gerardmer (2160)
+Seat 6: sabre_laser (2055)
+*** ANTE/BLINDS ***
+Mini_dinde posts ante 10
+patgeoff posts ante 10
+vemaroma posts ante 10
+Gerardmer posts ante 10
+sabre_laser posts ante 10
+Mini_dinde posts small blind 60
+patgeoff posts big blind 120
+Dealt to sabre_laser [Ah Ks]
+*** PRE-FLOP *** 
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Mini_dinde collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: Mini_dinde (small blind) won 410
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-49-1418938530 - Holdem no limit (10/60/120) - 2014/12/18 21:35:30 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #3 is the button
+Seat 1: vemaroma (2215)
+Seat 2: jP.POWERDOLL (3860)
+Seat 3: Mini_dinde (38210)
+Seat 4: patgeoff (4350)
+Seat 5: Gerardmer (2150)
+Seat 6: sabre_laser (2045)
+*** ANTE/BLINDS ***
+patgeoff posts ante 10
+Gerardmer posts ante 10
+vemaroma posts ante 10
+jP.POWERDOLL posts ante 10
+Mini_dinde posts ante 10
+sabre_laser posts ante 10
+patgeoff posts small blind 60
+Gerardmer posts big blind 120
+Dealt to sabre_laser [Qc 5d]
+*** PRE-FLOP *** 
+sabre_laser folds
+vemaroma folds
+jP.POWERDOLL folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+Mini_dinde collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: Mini_dinde (button) won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-50-1418938546 - Holdem no limit (10/60/120) - 2014/12/18 21:35:46 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #4 is the button
+Seat 1: vemaroma (2205)
+Seat 2: jP.POWERDOLL (3850)
+Seat 3: Mini_dinde (38440)
+Seat 4: patgeoff (4280)
+Seat 5: Gerardmer (2020)
+Seat 6: sabre_laser (2035)
+*** ANTE/BLINDS ***
+Gerardmer posts ante 10
+sabre_laser posts ante 10
+vemaroma posts ante 10
+jP.POWERDOLL posts ante 10
+Mini_dinde posts ante 10
+patgeoff posts ante 10
+Gerardmer posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [9s 5h]
+*** PRE-FLOP *** 
+vemaroma folds
+jP.POWERDOLL folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+Mini_dinde collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: Mini_dinde won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-51-1418938568 - Holdem no limit (10/60/120) - 2014/12/18 21:36:08 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #5 is the button
+Seat 1: vemaroma (2195)
+Seat 2: jP.POWERDOLL (3840)
+Seat 3: Mini_dinde (38670)
+Seat 4: patgeoff (4270)
+Seat 5: Gerardmer (1950)
+Seat 6: sabre_laser (1905)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+vemaroma posts ante 10
+jP.POWERDOLL posts ante 10
+Mini_dinde posts ante 10
+patgeoff posts ante 10
+Gerardmer posts ante 10
+sabre_laser posts small blind 60
+vemaroma posts big blind 120
+Dealt to sabre_laser [Kc 3h]
+*** PRE-FLOP *** 
+jP.POWERDOLL folds
+Mini_dinde raises 120 to 240
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+Mini_dinde collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: Mini_dinde won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-52-1418938581 - Holdem no limit (10/60/120) - 2014/12/18 21:36:21 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (2065)
+Seat 2: jP.POWERDOLL (3830)
+Seat 3: Mini_dinde (38900)
+Seat 4: patgeoff (4260)
+Seat 5: Gerardmer (1940)
+Seat 6: sabre_laser (1835)
+*** ANTE/BLINDS ***
+vemaroma posts ante 10
+jP.POWERDOLL posts ante 10
+Mini_dinde posts ante 10
+patgeoff posts ante 10
+Gerardmer posts ante 10
+sabre_laser posts ante 10
+vemaroma posts small blind 60
+jP.POWERDOLL posts big blind 120
+Dealt to sabre_laser [9h 7s]
+*** PRE-FLOP *** 
+Mini_dinde folds
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+jP.POWERDOLL collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: jP.POWERDOLL (big blind) won 240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #439600489839984934-53-1418938590 - Holdem no limit (10/60/120) - 2014/12/18 21:36:30 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (1995)
+Seat 2: jP.POWERDOLL (3940)
+Seat 3: Mini_dinde (38890)
+Seat 4: patgeoff (4250)
+Seat 5: Gerardmer (1930)
+Seat 6: sabre_laser (1825)
+*** ANTE/BLINDS ***
+jP.POWERDOLL posts ante 10
+Mini_dinde posts ante 10
+vemaroma posts ante 10
+patgeoff posts ante 10
+Gerardmer posts ante 10
+sabre_laser posts ante 10
+jP.POWERDOLL posts small blind 60
+Mini_dinde posts big blind 120
+Dealt to sabre_laser [Js Tc]
+*** PRE-FLOP *** 
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+jP.POWERDOLL raises 120 to 240
+Mini_dinde calls 120
+*** FLOP *** [7d Ac 9h]
+jP.POWERDOLL checks
+Mini_dinde checks
+*** TURN *** [7d Ac 9h][Jc]
+jP.POWERDOLL bets 120
+Mini_dinde calls 120
+*** RIVER *** [7d Ac 9h Jc][5h]
+jP.POWERDOLL checks
+Mini_dinde checks
+*** SHOW DOWN ***
+jP.POWERDOLL shows [4d 4c] (One pair : 4)
+Mini_dinde shows [7s 8h] (One pair : 7)
+Mini_dinde collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [7d Ac 9h Jc 5h]
+Seat 2: jP.POWERDOLL (small blind) showed [4d 4c] and lost with One pair : 4
+Seat 3: Mini_dinde (big blind) showed [7s 8h] and won 780 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #439600489839984934-54-1418938612 - Holdem no limit (15/75/150) - 2014/12/18 21:36:52 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (1985)
+Seat 2: jP.POWERDOLL (3570)
+Seat 3: Mini_dinde (39300)
+Seat 4: patgeoff (4240)
+Seat 5: Gerardmer (1920)
+Seat 6: sabre_laser (1815)
+*** ANTE/BLINDS ***
+Mini_dinde posts ante 15
+patgeoff posts ante 15
+vemaroma posts ante 15
+jP.POWERDOLL posts ante 15
+Gerardmer posts ante 15
+sabre_laser posts ante 15
+Mini_dinde posts small blind 75
+patgeoff posts big blind 150
+Dealt to sabre_laser [Jh 7c]
+*** PRE-FLOP *** 
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+jP.POWERDOLL raises 150 to 300
+Mini_dinde calls 225
+patgeoff folds
+*** FLOP *** [4d 7s Qh]
+Mini_dinde checks
+jP.POWERDOLL bets 150
+Mini_dinde folds
+jP.POWERDOLL collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [4d 7s Qh]
+Seat 2: jP.POWERDOLL (button) won 990
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #439600489839984934-55-1418938626 - Holdem no limit (15/75/150) - 2014/12/18 21:37:06 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #3 is the button
+Seat 1: vemaroma (1970)
+Seat 2: jP.POWERDOLL (4095)
+Seat 3: Mini_dinde (38985)
+Seat 4: patgeoff (4075)
+Seat 5: Gerardmer (1905)
+Seat 6: sabre_laser (1800)
+*** ANTE/BLINDS ***
+patgeoff posts ante 15
+Gerardmer posts ante 15
+vemaroma posts ante 15
+jP.POWERDOLL posts ante 15
+Mini_dinde posts ante 15
+sabre_laser posts ante 15
+patgeoff posts small blind 75
+Gerardmer posts big blind 150
+Dealt to sabre_laser [5s Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+vemaroma folds
+jP.POWERDOLL folds
+Mini_dinde raises 150 to 300
+patgeoff folds
+Gerardmer folds
+Mini_dinde collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Seat 3: Mini_dinde (button) won 615
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #439600489839984934-56-1418938635 - Holdem no limit (15/75/150) - 2014/12/18 21:37:15 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #4 is the button
+Seat 1: vemaroma (1955)
+Seat 2: jP.POWERDOLL (4080)
+Seat 3: Mini_dinde (39285)
+Seat 4: patgeoff (3985)
+Seat 5: Gerardmer (1740)
+Seat 6: sabre_laser (1785)
+*** ANTE/BLINDS ***
+Gerardmer posts ante 15
+sabre_laser posts ante 15
+vemaroma posts ante 15
+jP.POWERDOLL posts ante 15
+Mini_dinde posts ante 15
+patgeoff posts ante 15
+Gerardmer posts small blind 75
+sabre_laser posts big blind 150
+Dealt to sabre_laser [5d 3s]
+*** PRE-FLOP *** 
+vemaroma folds
+jP.POWERDOLL raises 150 to 300
+Mini_dinde calls 300
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+*** FLOP *** [2h 7c 2s]
+jP.POWERDOLL checks
+Mini_dinde checks
+*** TURN *** [2h 7c 2s][Td]
+jP.POWERDOLL bets 150
+Mini_dinde calls 150
+*** RIVER *** [2h 7c 2s Td][Js]
+jP.POWERDOLL bets 1215
+Mini_dinde raises 2430 to 3645
+jP.POWERDOLL calls 2400 and is all-in
+*** SHOW DOWN ***
+jP.POWERDOLL shows [Ad 2d] (Trips of 2)
+Mini_dinde shows [9h 8h] (Straight Jack high)
+Mini_dinde collected 8475 from pot
+*** SUMMARY ***
+Total pot 8475 | No rake
+Board: [2h 7c 2s Td Js]
+Seat 2: jP.POWERDOLL showed [Ad 2d] and lost with Trips of 2
+Seat 3: Mini_dinde showed [9h 8h] and won 8475 with Straight Jack high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #439600489839984934-57-1418938672 - Holdem no limit (15/75/150) - 2014/12/18 21:37:52 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #5 is the button
+Seat 1: vemaroma (1940)
+Seat 2: thdv (2420)
+Seat 3: Mini_dinde (43650)
+Seat 4: patgeoff (3970)
+Seat 5: Gerardmer (1650)
+Seat 6: sabre_laser (1620)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 15
+vemaroma posts ante 15
+thdv posts ante 15
+Mini_dinde posts ante 15
+patgeoff posts ante 15
+Gerardmer posts ante 15
+sabre_laser posts small blind 75
+vemaroma posts big blind 150
+Dealt to sabre_laser [8s 5c]
+*** PRE-FLOP *** 
+thdv folds
+Mini_dinde raises 150 to 300
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+Mini_dinde collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Seat 3: Mini_dinde won 615
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #439600489839984934-58-1418938686 - Holdem no limit (15/75/150) - 2014/12/18 21:38:06 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #6 is the button
+Seat 1: vemaroma (1775)
+Seat 2: thdv (2405)
+Seat 3: Mini_dinde (43950)
+Seat 4: patgeoff (3955)
+Seat 5: Gerardmer (1635)
+Seat 6: sabre_laser (1530)
+*** ANTE/BLINDS ***
+vemaroma posts ante 15
+thdv posts ante 15
+Mini_dinde posts ante 15
+patgeoff posts ante 15
+Gerardmer posts ante 15
+sabre_laser posts ante 15
+vemaroma posts small blind 75
+thdv posts big blind 150
+Dealt to sabre_laser [8c 8s]
+*** PRE-FLOP *** 
+Mini_dinde raises 150 to 300
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+thdv raises 2090 to 2390 and is all-in
+Mini_dinde calls 2090
+*** FLOP *** [8d 4c 6s]
+*** TURN *** [8d 4c 6s][4h]
+*** RIVER *** [8d 4c 6s 4h][4d]
+*** SHOW DOWN ***
+Mini_dinde shows [Qd 3h] (Trips of 4)
+thdv shows [5s 5c] (Full of 4 and 5)
+thdv collected 4945 from pot
+*** SUMMARY ***
+Total pot 4945 | No rake
+Board: [8d 4c 6s 4h 4d]
+Seat 2: thdv (big blind) showed [5s 5c] and won 4945 with Full of 4 and 5
+Seat 3: Mini_dinde showed [Qd 3h] and lost with Trips of 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #439600489839984934-59-1418938721 - Holdem no limit (15/75/150) - 2014/12/18 21:38:41 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #1 is the button
+Seat 1: vemaroma (1685)
+Seat 2: thdv (4945)
+Seat 3: Mini_dinde (41545)
+Seat 4: patgeoff (3940)
+Seat 5: Gerardmer (1620)
+Seat 6: sabre_laser (1515)
+*** ANTE/BLINDS ***
+thdv posts ante 15
+Mini_dinde posts ante 15
+vemaroma posts ante 15
+patgeoff posts ante 15
+Gerardmer posts ante 15
+sabre_laser posts ante 15
+thdv posts small blind 75
+Mini_dinde posts big blind 150
+Dealt to sabre_laser [5h 9c]
+*** PRE-FLOP *** 
+patgeoff folds
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+thdv calls 75
+Mini_dinde checks
+*** FLOP *** [6d Qc 9d]
+thdv bets 150
+Mini_dinde folds
+thdv collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6d Qc 9d]
+Seat 2: thdv (small blind) won 540
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #439600489839984934-60-1418938763 - Holdem no limit (15/75/150) - 2014/12/18 21:39:23 UTC
+Table: 'Freeroll(102352465)#293' 6-max (real money) Seat #2 is the button
+Seat 1: vemaroma (1670)
+Seat 2: thdv (5170)
+Seat 3: Mini_dinde (41380)
+Seat 4: patgeoff (3925)
+Seat 5: Gerardmer (1605)
+Seat 6: sabre_laser (1500)
+*** ANTE/BLINDS ***
+Mini_dinde posts ante 15
+patgeoff posts ante 15
+vemaroma posts ante 15
+thdv posts ante 15
+Gerardmer posts ante 15
+sabre_laser posts ante 15
+Mini_dinde posts small blind 75
+patgeoff posts big blind 150
+Dealt to sabre_laser [Js 9s]
+*** PRE-FLOP *** 
+Gerardmer folds
+sabre_laser folds
+vemaroma folds
+thdv calls 150
+Mini_dinde raises 41215 to 41365 and is all-in
+patgeoff folds
+thdv calls 5005 and is all-in
+*** FLOP *** [Td Jh Ad]
+*** TURN *** [Td Jh Ad][9c]
+*** RIVER *** [Td Jh Ad 9c][3c]
+*** SHOW DOWN ***
+thdv shows [Jd Qs] (One pair : Jacks)
+Mini_dinde shows [Ah 8h] (One pair : Aces)
+Mini_dinde collected 46760 from pot
+*** SUMMARY ***
+Total pot 46760 | No rake
+Board: [Td Jh Ad 9c 3c]
+Seat 2: thdv (button) showed [Jd Qs] and lost with One pair : Jacks
+Seat 3: Mini_dinde (small blind) showed [Ah 8h] and won 46760 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #439600489839984819-21-1418938842 - Holdem no limit (20/100/200) - 2014/12/18 21:40:42 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #2 is the button
+Seat 1: Mattwix60 (4690)
+Seat 2: x_SAPOTILLE (14870)
+Seat 3: cedriko69 (1295)
+Seat 4: Dino1976 (2500)
+Seat 5: Ciol52 (2770)
+Seat 6: sabre_laser (1485)
+*** ANTE/BLINDS ***
+cedriko69 posts ante 20
+Dino1976 posts ante 20
+Mattwix60 posts ante 20
+x_SAPOTILLE posts ante 20
+Ciol52 posts ante 20
+sabre_laser posts ante 20
+cedriko69 posts small blind 100
+Dino1976 posts big blind 200
+Dealt to sabre_laser [As 4h]
+*** PRE-FLOP *** 
+Ciol52 folds
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE calls 200
+cedriko69 folds
+Dino1976 folds
+x_SAPOTILLE collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: x_SAPOTILLE (button) won 620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #439600489839984819-22-1418938875 - Holdem no limit (20/100/200) - 2014/12/18 21:41:15 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #3 is the button
+Seat 1: Mattwix60 (4670)
+Seat 2: x_SAPOTILLE (15270)
+Seat 3: cedriko69 (1175)
+Seat 4: Dino1976 (2280)
+Seat 5: Ciol52 (2750)
+Seat 6: sabre_laser (1465)
+*** ANTE/BLINDS ***
+Dino1976 posts ante 20
+Ciol52 posts ante 20
+Mattwix60 posts ante 20
+x_SAPOTILLE posts ante 20
+cedriko69 posts ante 20
+sabre_laser posts ante 20
+Dino1976 posts small blind 100
+Ciol52 posts big blind 200
+Dealt to sabre_laser [9c 2h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE calls 200
+cedriko69 raises 955 to 1155 and is all-in
+Dino1976 folds
+Ciol52 calls 955
+x_SAPOTILLE folds
+*** FLOP *** [Js Kh 3d]
+*** TURN *** [Js Kh 3d][2d]
+*** RIVER *** [Js Kh 3d 2d][Ac]
+*** SHOW DOWN ***
+Ciol52 shows [8h Jh] (One pair : Jacks)
+cedriko69 shows [4d Ad] (One pair : Aces)
+cedriko69 collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [Js Kh 3d 2d Ac]
+Seat 3: cedriko69 (button) showed [4d Ad] and won 2730 with One pair : Aces
+Seat 5: Ciol52 (big blind) showed [8h Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #439600489839984819-23-1418938916 - Holdem no limit (20/100/200) - 2014/12/18 21:41:56 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #4 is the button
+Seat 1: Mattwix60 (4650)
+Seat 2: x_SAPOTILLE (15050)
+Seat 3: cedriko69 (2730)
+Seat 4: Dino1976 (2160)
+Seat 5: Ciol52 (1575)
+Seat 6: sabre_laser (1445)
+*** ANTE/BLINDS ***
+Ciol52 posts ante 20
+sabre_laser posts ante 20
+Mattwix60 posts ante 20
+x_SAPOTILLE posts ante 20
+cedriko69 posts ante 20
+Dino1976 posts ante 20
+Ciol52 posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Kd Kh]
+*** PRE-FLOP *** 
+Mattwix60 folds
+x_SAPOTILLE calls 200
+cedriko69 folds
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+x_SAPOTILLE collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: x_SAPOTILLE won 620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #439600489839984819-24-1418938967 - Holdem no limit (25/125/250) - 2014/12/18 21:42:47 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #5 is the button
+Seat 1: Mattwix60 (4630)
+Seat 2: x_SAPOTILLE (15450)
+Seat 3: cedriko69 (2710)
+Seat 4: Dino1976 (2140)
+Seat 5: Ciol52 (1455)
+Seat 6: sabre_laser (1225)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 25
+Mattwix60 posts ante 25
+x_SAPOTILLE posts ante 25
+cedriko69 posts ante 25
+Dino1976 posts ante 25
+Ciol52 posts ante 25
+sabre_laser posts small blind 125
+Mattwix60 posts big blind 250
+Dealt to sabre_laser [Ks 7h]
+*** PRE-FLOP *** 
+x_SAPOTILLE calls 250
+cedriko69 folds
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+Mattwix60 checks
+*** FLOP *** [5c Th 4c]
+Mattwix60 checks
+x_SAPOTILLE checks
+*** TURN *** [5c Th 4c][2d]
+Mattwix60 bets 250
+x_SAPOTILLE folds
+Mattwix60 collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Board: [5c Th 4c 2d]
+Seat 1: Mattwix60 (big blind) won 1025
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #439600489839984819-25-1418939008 - Holdem no limit (25/125/250) - 2014/12/18 21:43:28 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #6 is the button
+Seat 1: Mattwix60 (5130)
+Seat 2: x_SAPOTILLE (15175)
+Seat 3: cedriko69 (2685)
+Seat 4: Dino1976 (2115)
+Seat 5: Ciol52 (1430)
+Seat 6: sabre_laser (1075)
+*** ANTE/BLINDS ***
+Mattwix60 posts ante 25
+x_SAPOTILLE posts ante 25
+cedriko69 posts ante 25
+Dino1976 posts ante 25
+Ciol52 posts ante 25
+sabre_laser posts ante 25
+Mattwix60 posts small blind 125
+x_SAPOTILLE posts big blind 250
+Dealt to sabre_laser [Qh Qs]
+*** PRE-FLOP *** 
+cedriko69 raises 2410 to 2660 and is all-in
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE calls 2410
+*** FLOP *** [Qc 2s Kd]
+*** TURN *** [Qc 2s Kd][Th]
+*** RIVER *** [Qc 2s Kd Th][4d]
+*** SHOW DOWN ***
+x_SAPOTILLE shows [5d Ad] (High card : Ace)
+cedriko69 shows [8h 8d] (One pair : 8)
+cedriko69 collected 5595 from pot
+*** SUMMARY ***
+Total pot 5595 | No rake
+Board: [Qc 2s Kd Th 4d]
+Seat 2: x_SAPOTILLE (big blind) showed [5d Ad] and lost with High card : Ace
+Seat 3: cedriko69 showed [8h 8d] and won 5595 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #439600489839984819-26-1418939039 - Holdem no limit (25/125/250) - 2014/12/18 21:43:59 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #1 is the button
+Seat 1: Mattwix60 (4980)
+Seat 2: x_SAPOTILLE (12490)
+Seat 3: cedriko69 (5595)
+Seat 4: Dino1976 (2090)
+Seat 5: Ciol52 (1405)
+Seat 6: sabre_laser (1050)
+*** ANTE/BLINDS ***
+x_SAPOTILLE posts ante 25
+cedriko69 posts ante 25
+Mattwix60 posts ante 25
+Dino1976 posts ante 25
+Ciol52 posts ante 25
+sabre_laser posts ante 25
+x_SAPOTILLE posts small blind 125
+cedriko69 posts big blind 250
+Dealt to sabre_laser [9s Qc]
+*** PRE-FLOP *** 
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE calls 125
+cedriko69 checks
+*** FLOP *** [2c Qh 4c]
+x_SAPOTILLE checks
+cedriko69 checks
+*** TURN *** [2c Qh 4c][Ks]
+x_SAPOTILLE checks
+cedriko69 checks
+*** RIVER *** [2c Qh 4c Ks][6d]
+x_SAPOTILLE checks
+cedriko69 checks
+*** SHOW DOWN ***
+cedriko69 shows [7d Td] (High card : King)
+x_SAPOTILLE shows [6s Kh] (Two pairs : Kings and 6)
+x_SAPOTILLE collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [2c Qh 4c Ks 6d]
+Seat 2: x_SAPOTILLE (small blind) showed [6s Kh] and won 650 with Two pairs : Kings and 6
+Seat 3: cedriko69 (big blind) showed [7d Td] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #439600489839984819-27-1418939083 - Holdem no limit (25/125/250) - 2014/12/18 21:44:43 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #2 is the button
+Seat 1: Mattwix60 (4955)
+Seat 2: x_SAPOTILLE (12865)
+Seat 3: cedriko69 (5320)
+Seat 4: Dino1976 (2065)
+Seat 5: Ciol52 (1380)
+Seat 6: sabre_laser (1025)
+*** ANTE/BLINDS ***
+cedriko69 posts ante 25
+Dino1976 posts ante 25
+Mattwix60 posts ante 25
+x_SAPOTILLE posts ante 25
+Ciol52 posts ante 25
+sabre_laser posts ante 25
+cedriko69 posts small blind 125
+Dino1976 posts big blind 250
+Dealt to sabre_laser [3d Qs]
+*** PRE-FLOP *** 
+Ciol52 folds
+sabre_laser folds
+Mattwix60 calls 250
+x_SAPOTILLE raises 250 to 500
+cedriko69 folds
+Dino1976 folds
+Mattwix60 calls 250
+*** FLOP *** [7c 7d 9c]
+Mattwix60 bets 638
+x_SAPOTILLE folds
+Mattwix60 collected 2163 from pot
+*** SUMMARY ***
+Total pot 2163 | No rake
+Board: [7c 7d 9c]
+Seat 1: Mattwix60 won 2163
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #439600489839984819-28-1418939136 - Holdem no limit (35/150/300) - 2014/12/18 21:45:36 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #3 is the button
+Seat 1: Mattwix60 (5955)
+Seat 2: x_SAPOTILLE (12340)
+Seat 3: cedriko69 (5170)
+Seat 4: Dino1976 (1790)
+Seat 5: Ciol52 (1355)
+Seat 6: sabre_laser (1000)
+*** ANTE/BLINDS ***
+Dino1976 posts ante 35
+Ciol52 posts ante 35
+Mattwix60 posts ante 35
+x_SAPOTILLE posts ante 35
+cedriko69 posts ante 35
+sabre_laser posts ante 35
+Dino1976 posts small blind 150
+Ciol52 posts big blind 300
+Dealt to sabre_laser [6h 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mattwix60 calls 300
+x_SAPOTILLE folds
+cedriko69 calls 300
+Dino1976 folds
+Ciol52 checks
+*** FLOP *** [Js 2s 3s]
+Ciol52 checks
+Mattwix60 bets 300
+cedriko69 calls 300
+Ciol52 folds
+*** TURN *** [Js 2s 3s][5h]
+Mattwix60 bets 930
+cedriko69 calls 930
+*** RIVER *** [Js 2s 3s 5h][2d]
+Mattwix60 bets 1860
+cedriko69 folds
+Mattwix60 collected 5580 from pot
+*** SUMMARY ***
+Total pot 5580 | No rake
+Board: [Js 2s 3s 5h 2d]
+Seat 1: Mattwix60 won 5580
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #439600489839984819-29-1418939197 - Holdem no limit (35/150/300) - 2014/12/18 21:46:37 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #4 is the button
+Seat 1: Mattwix60 (8110)
+Seat 2: x_SAPOTILLE (12305)
+Seat 3: cedriko69 (3605)
+Seat 4: Dino1976 (1605)
+Seat 5: Ciol52 (1020)
+Seat 6: sabre_laser (965)
+*** ANTE/BLINDS ***
+Ciol52 posts ante 35
+sabre_laser posts ante 35
+Mattwix60 posts ante 35
+x_SAPOTILLE posts ante 35
+cedriko69 posts ante 35
+Dino1976 posts ante 35
+Ciol52 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Jh 8h]
+*** PRE-FLOP *** 
+Mattwix60 calls 300
+x_SAPOTILLE calls 300
+cedriko69 raises 3270 to 3570 and is all-in
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE calls 3270
+*** FLOP *** [Ad 3c 6h]
+*** TURN *** [Ad 3c 6h][7s]
+*** RIVER *** [Ad 3c 6h 7s][7c]
+*** SHOW DOWN ***
+x_SAPOTILLE shows [9h Jd] (One pair : 7)
+cedriko69 shows [Ac Td] (Two pairs : Aces and 7)
+cedriko69 collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [Ad 3c 6h 7s 7c]
+Seat 2: x_SAPOTILLE showed [9h Jd] and lost with One pair : 7
+Seat 3: cedriko69 showed [Ac Td] and won 8100 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #439600489839984819-30-1418939278 - Holdem no limit (35/150/300) - 2014/12/18 21:47:58 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #5 is the button
+Seat 1: Mattwix60 (7775)
+Seat 2: x_SAPOTILLE (8700)
+Seat 3: cedriko69 (8100)
+Seat 4: Dino1976 (1570)
+Seat 5: Ciol52 (835)
+Seat 6: sabre_laser (630)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 35
+Mattwix60 posts ante 35
+x_SAPOTILLE posts ante 35
+cedriko69 posts ante 35
+Dino1976 posts ante 35
+Ciol52 posts ante 35
+sabre_laser posts small blind 150
+Mattwix60 posts big blind 300
+Dealt to sabre_laser [8h Kd]
+*** PRE-FLOP *** 
+x_SAPOTILLE folds
+cedriko69 folds
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+Mattwix60 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 1: Mattwix60 (big blind) won 660
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #439600489839984819-31-1418939318 - Holdem no limit (40/200/400) - 2014/12/18 21:48:38 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #6 is the button
+Seat 1: Mattwix60 (8100)
+Seat 2: x_SAPOTILLE (8665)
+Seat 3: cedriko69 (8065)
+Seat 4: Dino1976 (1535)
+Seat 5: Ciol52 (800)
+Seat 6: sabre_laser (445)
+*** ANTE/BLINDS ***
+Mattwix60 posts ante 40
+x_SAPOTILLE posts ante 40
+cedriko69 posts ante 40
+Dino1976 posts ante 40
+Ciol52 posts ante 40
+sabre_laser posts ante 40
+Mattwix60 posts small blind 200
+x_SAPOTILLE posts big blind 400
+Dealt to sabre_laser [3c 9c]
+*** PRE-FLOP *** 
+cedriko69 folds
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 2: x_SAPOTILLE (big blind) won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #439600489839984819-32-1418939339 - Holdem no limit (40/200/400) - 2014/12/18 21:48:59 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #1 is the button
+Seat 1: Mattwix60 (7860)
+Seat 2: x_SAPOTILLE (9065)
+Seat 3: cedriko69 (8025)
+Seat 4: Dino1976 (1495)
+Seat 5: Ciol52 (760)
+Seat 6: sabre_laser (405)
+*** ANTE/BLINDS ***
+x_SAPOTILLE posts ante 40
+cedriko69 posts ante 40
+Mattwix60 posts ante 40
+Dino1976 posts ante 40
+Ciol52 posts ante 40
+sabre_laser posts ante 40
+x_SAPOTILLE posts small blind 200
+cedriko69 posts big blind 400
+Dealt to sabre_laser [Qs Kc]
+*** PRE-FLOP *** 
+Dino1976 folds
+Ciol52 folds
+sabre_laser folds
+Mattwix60 calls 400
+x_SAPOTILLE calls 200
+cedriko69 checks
+*** FLOP *** [Ks 7d 2d]
+x_SAPOTILLE checks
+cedriko69 checks
+Mattwix60 checks
+*** TURN *** [Ks 7d 2d][7s]
+x_SAPOTILLE checks
+cedriko69 checks
+Mattwix60 checks
+*** RIVER *** [Ks 7d 2d 7s][Kh]
+x_SAPOTILLE checks
+cedriko69 checks
+Mattwix60 bets 400
+x_SAPOTILLE folds
+cedriko69 calls 400
+*** SHOW DOWN ***
+Mattwix60 shows [5d Qh] (Two pairs : Kings and 7)
+cedriko69 shows [Ad 6h] (Two pairs : Kings and 7)
+cedriko69 collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Board: [Ks 7d 2d 7s Kh]
+Seat 1: Mattwix60 (button) showed [5d Qh] and lost with Two pairs : Kings and 7
+Seat 3: cedriko69 (big blind) showed [Ad 6h] and won 2240 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #439600489839984819-33-1418939384 - Holdem no limit (40/200/400) - 2014/12/18 21:49:44 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #2 is the button
+Seat 1: Mattwix60 (7020)
+Seat 2: x_SAPOTILLE (8625)
+Seat 3: cedriko69 (9425)
+Seat 4: Dino1976 (1455)
+Seat 5: Ciol52 (720)
+Seat 6: sabre_laser (365)
+*** ANTE/BLINDS ***
+cedriko69 posts ante 40
+Dino1976 posts ante 40
+Mattwix60 posts ante 40
+x_SAPOTILLE posts ante 40
+Ciol52 posts ante 40
+sabre_laser posts ante 40
+cedriko69 posts small blind 200
+Dino1976 posts big blind 400
+Dealt to sabre_laser [3d 4h]
+*** PRE-FLOP *** 
+Ciol52 folds
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE raises 400 to 800
+cedriko69 calls 600
+Dino1976 folds
+*** FLOP *** [4s 2h Qc]
+cedriko69 checks
+x_SAPOTILLE checks
+*** TURN *** [4s 2h Qc][Jd]
+cedriko69 checks
+x_SAPOTILLE bets 2240
+cedriko69 folds
+x_SAPOTILLE collected 4480 from pot
+*** SUMMARY ***
+Total pot 4480 | No rake
+Board: [4s 2h Qc Jd]
+Seat 2: x_SAPOTILLE (button) won 4480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #439600489839984819-34-1418939431 - Holdem no limit (40/200/400) - 2014/12/18 21:50:31 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #3 is the button
+Seat 1: Mattwix60 (6980)
+Seat 2: x_SAPOTILLE (10025)
+Seat 3: cedriko69 (8585)
+Seat 4: Dino1976 (1015)
+Seat 5: Ciol52 (680)
+Seat 6: sabre_laser (325)
+*** ANTE/BLINDS ***
+Dino1976 posts ante 40
+Ciol52 posts ante 40
+Mattwix60 posts ante 40
+x_SAPOTILLE posts ante 40
+cedriko69 posts ante 40
+sabre_laser posts ante 40
+Dino1976 posts small blind 200
+Ciol52 posts big blind 400
+Dealt to sabre_laser [Ac Qh]
+*** PRE-FLOP *** 
+sabre_laser folds
+Mattwix60 folds
+x_SAPOTILLE folds
+cedriko69 folds
+Dino1976 folds
+Ciol52 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 5: Ciol52 (big blind) won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #439600489839984819-35-1418939447 - Holdem no limit (40/200/400) - 2014/12/18 21:50:47 UTC
+Table: 'Freeroll(102352465)#178' 6-max (real money) Seat #4 is the button
+Seat 1: Mattwix60 (6940)
+Seat 2: x_SAPOTILLE (9985)
+Seat 3: cedriko69 (8545)
+Seat 4: Dino1976 (775)
+Seat 5: Ciol52 (1080)
+Seat 6: sabre_laser (285)
+*** ANTE/BLINDS ***
+Ciol52 posts ante 40
+sabre_laser posts ante 40
+Mattwix60 posts ante 40
+x_SAPOTILLE posts ante 40
+cedriko69 posts ante 40
+Dino1976 posts ante 40
+Ciol52 posts small blind 200
+sabre_laser posts big blind 245 and is all-in
+Dealt to sabre_laser [Jc 4d]
+*** PRE-FLOP *** 
+Mattwix60 calls 400
+x_SAPOTILLE calls 400
+cedriko69 folds
+Dino1976 folds
+Ciol52 raises 795 to 1040 and is all-in
+Mattwix60 folds
+x_SAPOTILLE calls 640
+*** FLOP *** [5d Ks 8c]
+*** TURN *** [5d Ks 8c][Qs]
+*** RIVER *** [5d Ks 8c Qs][Kh]
+*** SHOW DOWN ***
+x_SAPOTILLE shows [6h 7s] (One pair : Kings)
+sabre_laser shows [Jc 4d] (One pair : Kings)
+Ciol52 shows [Qd 3d] (Two pairs : Kings and Queens)
+Ciol52 collected 2965 from pot
+*** SUMMARY ***
+Total pot 2965 | No rake
+Board: [5d Ks 8c Qs Kh]
+Seat 2: x_SAPOTILLE showed [6h 7s] and lost with One pair : Kings
+Seat 5: Ciol52 (small blind) showed [Qd 3d] and won 2965 with Two pairs : Kings and Queens
+Seat 6: sabre_laser (big blind) showed [Jc 4d] and lost with One pair : Kings
+
+

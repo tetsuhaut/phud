@@ -1,0 +1,1323 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564708755413925889-1-1442786920 - Holdem no limit (10/20) - 2015/09/20 22:08:40 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #10 is the button
+Seat 1: G_ZU (1500)
+Seat 2: onix7894 (1500)
+Seat 3: .Roxon. (1500)
+Seat 4: selimovic37 (1500)
+Seat 5: badson (1500)
+Seat 6: Macak Motor (1500)
+Seat 7: KRitoViaC (1500)
+Seat 8: scoobz900 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 10
+onix7894 posts big blind 20
+Dealt to sabre_laser [6s 4d]
+*** PRE-FLOP *** 
+.Roxon. folds
+selimovic37 folds
+badson calls 20
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 checks
+*** FLOP *** [5h 2h Th]
+onix7894 bets 20
+badson calls 20
+*** TURN *** [5h 2h Th][3d]
+onix7894 bets 90
+badson calls 90
+*** RIVER *** [5h 2h Th 3d][Kd]
+onix7894 bets 270
+badson raises 270 to 540
+onix7894 calls 270
+*** SHOW DOWN ***
+badson shows [Ah Qc] (High card : Ace)
+onix7894 shows [7h Kh] (Flush King high)
+onix7894 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [5h 2h Th 3d Kd]
+Seat 2: onix7894 (big blind) showed [7h Kh] and won 1350 with Flush King high
+Seat 5: badson showed [Ah Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564708755413925889-2-1442787037 - Holdem no limit (10/20) - 2015/09/20 22:10:37 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #1 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2180)
+Seat 3: .Roxon. (1500)
+Seat 4: selimovic37 (1500)
+Seat 5: badson (830)
+Seat 6: Macak Motor (1500)
+Seat 7: KRitoViaC (1500)
+Seat 8: scoobz900 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+onix7894 posts small blind 10
+.Roxon. posts big blind 20
+Dealt to sabre_laser [8h Tc]
+*** PRE-FLOP *** 
+selimovic37 folds
+badson folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 raises 30 to 50
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 folds
+.Roxon. folds
+scoobz900 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 8: scoobz900 won 80
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #564708755413925889-3-1442787082 - Holdem no limit (10/20) - 2015/09/20 22:11:22 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #2 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2170)
+Seat 3: .Roxon. (1480)
+Seat 4: selimovic37 (1500)
+Seat 5: badson (830)
+Seat 6: Macak Motor (1500)
+Seat 7: KRitoViaC (1500)
+Seat 8: scoobz900 (1530)
+Seat 9: sabre_laser (1500)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 10
+selimovic37 posts big blind 20
+Dealt to sabre_laser [Js 6s]
+*** PRE-FLOP *** 
+badson folds
+Macak Motor raises 40 to 60
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 folds
+.Roxon. folds
+selimovic37 calls 40
+*** FLOP *** [As 8c 7h]
+selimovic37 bets 87
+Macak Motor folds
+selimovic37 collected 217 from pot
+*** SUMMARY ***
+Total pot 217 | No rake
+Board: [As 8c 7h]
+Seat 4: selimovic37 (big blind) won 217
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564708755413925889-4-1442787141 - Holdem no limit (15/30) - 2015/09/20 22:12:21 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #3 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2170)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (1570)
+Seat 5: badson (830)
+Seat 6: Macak Motor (1440)
+Seat 7: KRitoViaC (1500)
+Seat 8: scoobz900 (1530)
+Seat 9: sabre_laser (1500)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+selimovic37 posts small blind 15
+badson posts big blind 30
+Dealt to sabre_laser [7d Tc]
+*** PRE-FLOP *** 
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 folds
+.Roxon. folds
+selimovic37 calls 15
+badson checks
+*** FLOP *** [Kc Jh Js]
+selimovic37 bets 30
+badson folds
+selimovic37 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Kc Jh Js]
+Seat 4: selimovic37 (small blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #564708755413925889-5-1442787197 - Holdem no limit (15/30) - 2015/09/20 22:13:17 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #4 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2170)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (1600)
+Seat 5: badson (800)
+Seat 6: Macak Motor (1440)
+Seat 7: KRitoViaC (1500)
+Seat 8: scoobz900 (1530)
+Seat 9: sabre_laser (1500)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+badson posts small blind 15
+Macak Motor posts big blind 30
+Dealt to sabre_laser [Jh Ts]
+*** PRE-FLOP *** 
+KRitoViaC folds
+scoobz900 folds
+sabre_laser raises 60 to 90
+SpewItRight folds
+G_ZU folds
+onix7894 calls 90
+.Roxon. folds
+selimovic37 folds
+badson folds
+Macak Motor calls 60
+*** FLOP *** [Ad 7s Qc]
+Macak Motor checks
+sabre_laser bets 143
+onix7894 calls 143
+Macak Motor folds
+*** TURN *** [Ad 7s Qc][3s]
+sabre_laser checks
+onix7894 bets 571
+sabre_laser folds
+onix7894 collected 1142 from pot
+*** SUMMARY ***
+Total pot 1142 | No rake
+Board: [Ad 7s Qc 3s]
+Seat 2: onix7894 won 1142
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564708755413925889-6-1442787281 - Holdem no limit (20/40) - 2015/09/20 22:14:41 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #5 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2508)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (1600)
+Seat 5: badson (785)
+Seat 6: Macak Motor (1350)
+Seat 7: KRitoViaC (1500)
+Seat 8: scoobz900 (1530)
+Seat 9: sabre_laser (1267)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+Macak Motor posts small blind 20
+KRitoViaC posts big blind 40
+Dealt to sabre_laser [3d 4c]
+*** PRE-FLOP *** 
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 folds
+.Roxon. folds
+selimovic37 folds
+badson folds
+Macak Motor raises 40 to 80
+KRitoViaC folds
+Macak Motor collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: Macak Motor (small blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564708755413925889-7-1442787327 - Holdem no limit (20/40) - 2015/09/20 22:15:27 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #6 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2508)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (1600)
+Seat 5: badson (785)
+Seat 6: Macak Motor (1390)
+Seat 7: KRitoViaC (1460)
+Seat 8: scoobz900 (1530)
+Seat 9: sabre_laser (1267)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+KRitoViaC posts small blind 20
+scoobz900 posts big blind 40
+Dealt to sabre_laser [Kd 6s]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 folds
+.Roxon. folds
+selimovic37 calls 40
+badson folds
+Macak Motor calls 40
+KRitoViaC folds
+scoobz900 checks
+*** FLOP *** [2h Jc Qs]
+scoobz900 checks
+selimovic37 checks
+Macak Motor bets 70
+scoobz900 calls 70
+selimovic37 calls 70
+*** TURN *** [2h Jc Qs][Td]
+scoobz900 checks
+selimovic37 bets 233
+Macak Motor calls 233
+scoobz900 folds
+*** RIVER *** [2h Jc Qs Td][Qd]
+selimovic37 bets 260
+Macak Motor calls 260
+*** SHOW DOWN ***
+Macak Motor shows [Qc 9c] (Trips of Queens)
+selimovic37 shows [Ad Kh] (Straight Ace high)
+selimovic37 collected 1336 from pot
+*** SUMMARY ***
+Total pot 1336 | No rake
+Board: [2h Jc Qs Td Qd]
+Seat 4: selimovic37 showed [Ad Kh] and won 1336 with Straight Ace high
+Seat 6: Macak Motor (button) showed [Qc 9c] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #564708755413925889-8-1442787446 - Holdem no limit (20/40) - 2015/09/20 22:17:26 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #7 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2508)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (2333)
+Seat 5: badson (785)
+Seat 6: Macak Motor (787)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1420)
+Seat 9: sabre_laser (1267)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+scoobz900 posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Th Td]
+*** PRE-FLOP *** 
+SpewItRight folds
+G_ZU folds
+onix7894 folds
+.Roxon. folds
+selimovic37 folds
+badson folds
+Macak Motor raises 40 to 80
+KRitoViaC folds
+scoobz900 folds
+sabre_laser calls 40
+*** FLOP *** [6s Ts Kd]
+sabre_laser checks
+Macak Motor bets 90
+sabre_laser calls 90
+*** TURN *** [6s Ts Kd][5h]
+sabre_laser bets 120
+Macak Motor folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6s Ts Kd 5h]
+Seat 9: sabre_laser (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564708755413925889-9-1442787515 - Holdem no limit (30/60) - 2015/09/20 22:18:35 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #8 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2508)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (2333)
+Seat 5: badson (785)
+Seat 6: Macak Motor (617)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1400)
+Seat 9: sabre_laser (1457)
+Seat 10: SpewItRight (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+SpewItRight posts big blind 60
+Dealt to sabre_laser [Ad 4h]
+*** PRE-FLOP *** 
+G_ZU folds
+onix7894 folds
+.Roxon. folds
+selimovic37 calls 60
+badson folds
+Macak Motor calls 60
+KRitoViaC folds
+scoobz900 folds
+sabre_laser calls 30
+SpewItRight checks
+*** FLOP *** [Jc 8c 2s]
+sabre_laser checks
+SpewItRight checks
+selimovic37 checks
+Macak Motor checks
+*** TURN *** [Jc 8c 2s][Th]
+sabre_laser checks
+SpewItRight checks
+selimovic37 bets 180
+Macak Motor folds
+sabre_laser folds
+SpewItRight folds
+selimovic37 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jc 8c 2s Th]
+Seat 4: selimovic37 won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #564708755413925889-10-1442787606 - Holdem no limit (30/60) - 2015/09/20 22:20:06 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #9 is the button
+Seat 1: G_ZU (1490)
+Seat 2: onix7894 (2508)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (2513)
+Seat 5: badson (785)
+Seat 6: Macak Motor (557)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1400)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1440)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 30
+G_ZU posts big blind 60
+Dealt to sabre_laser [6h Qd]
+*** PRE-FLOP *** 
+onix7894 folds
+.Roxon. folds
+selimovic37 calls 60
+badson folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU checks
+*** FLOP *** [4c 6c Jd]
+G_ZU checks
+selimovic37 checks
+*** TURN *** [4c 6c Jd][5s]
+G_ZU checks
+selimovic37 checks
+*** RIVER *** [4c 6c Jd 5s][2d]
+G_ZU checks
+selimovic37 bets 60
+G_ZU folds
+selimovic37 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [4c 6c Jd 5s 2d]
+Seat 4: selimovic37 won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564708755413925889-11-1442787684 - Holdem no limit (40/80) - 2015/09/20 22:21:24 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #10 is the button
+Seat 1: G_ZU (1430)
+Seat 2: onix7894 (2508)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (2603)
+Seat 5: badson (785)
+Seat 6: Macak Motor (557)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1400)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 40
+onix7894 posts big blind 80
+Dealt to sabre_laser [5s 8d]
+*** PRE-FLOP *** 
+.Roxon. folds
+selimovic37 folds
+badson folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 raises 120 to 200
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 calls 120
+*** FLOP *** [6d 5d 7d]
+onix7894 bets 440
+scoobz900 calls 440
+*** TURN *** [6d 5d 7d][Qh]
+onix7894 checks
+scoobz900 checks
+*** RIVER *** [6d 5d 7d Qh][As]
+onix7894 bets 1320
+scoobz900 folds
+onix7894 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [6d 5d 7d Qh As]
+Seat 2: onix7894 (big blind) won 2640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564708755413925889-12-1442787750 - Holdem no limit (40/80) - 2015/09/20 22:22:30 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #1 is the button
+Seat 1: G_ZU (1390)
+Seat 2: onix7894 (3188)
+Seat 3: .Roxon. (1470)
+Seat 4: selimovic37 (2603)
+Seat 5: badson (785)
+Seat 6: Macak Motor (557)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (760)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+onix7894 posts small blind 40
+.Roxon. posts big blind 80
+Dealt to sabre_laser [6d 4c]
+*** PRE-FLOP *** 
+selimovic37 calls 80
+badson calls 80
+Macak Motor folds
+KRitoViaC folds
+scoobz900 raises 680 to 760 and is all-in
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 calls 720
+.Roxon. folds
+selimovic37 folds
+badson folds
+*** FLOP *** [Jd 7h 6h]
+*** TURN *** [Jd 7h 6h][Ac]
+*** RIVER *** [Jd 7h 6h Ac][5c]
+*** SHOW DOWN ***
+onix7894 shows [Ks Qd] (High card : Ace)
+scoobz900 shows [6c Ad] (Two pairs : Aces and 6)
+scoobz900 collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [Jd 7h 6h Ac 5c]
+Seat 2: onix7894 (small blind) showed [Ks Qd] and lost with High card : Ace
+Seat 8: scoobz900 showed [6c Ad] and won 1760 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #564708755413925889-13-1442787798 - Holdem no limit (40/80) - 2015/09/20 22:23:18 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #2 is the button
+Seat 1: G_ZU (1390)
+Seat 2: onix7894 (2428)
+Seat 3: .Roxon. (1390)
+Seat 4: selimovic37 (2523)
+Seat 5: badson (705)
+Seat 6: Macak Motor (557)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1760)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 40
+selimovic37 posts big blind 80
+Dealt to sabre_laser [5s 4d]
+*** PRE-FLOP *** 
+badson folds
+Macak Motor raises 477 to 557 and is all-in
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 calls 557
+.Roxon. folds
+selimovic37 folds
+*** FLOP *** [2s 2h Ad]
+*** TURN *** [2s 2h Ad][4c]
+*** RIVER *** [2s 2h Ad 4c][9s]
+*** SHOW DOWN ***
+onix7894 shows [Jd Ah] (Two pairs : Aces and 2)
+Macak Motor shows [Ac Qd] (Two pairs : Aces and 2)
+Macak Motor collected 1234 from pot
+*** SUMMARY ***
+Total pot 1234 | No rake
+Board: [2s 2h Ad 4c 9s]
+Seat 2: onix7894 (button) showed [Jd Ah] and lost with Two pairs : Aces and 2
+Seat 6: Macak Motor showed [Ac Qd] and won 1234 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564708755413925889-14-1442787856 - Holdem no limit (60/120) - 2015/09/20 22:24:16 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #3 is the button
+Seat 1: G_ZU (1390)
+Seat 2: onix7894 (1871)
+Seat 3: .Roxon. (1350)
+Seat 4: selimovic37 (2443)
+Seat 5: badson (705)
+Seat 6: Macak Motor (1234)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1760)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+selimovic37 posts small blind 60
+badson posts big blind 120
+Dealt to sabre_laser [Kd Qs]
+*** PRE-FLOP *** 
+Macak Motor folds
+KRitoViaC folds
+scoobz900 raises 180 to 300
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+onix7894 calls 300
+.Roxon. folds
+selimovic37 calls 240
+badson calls 180
+*** FLOP *** [Td Jc Ks]
+selimovic37 checks
+badson checks
+scoobz900 checks
+onix7894 bets 120
+selimovic37 calls 120
+badson folds
+scoobz900 calls 120
+*** TURN *** [Td Jc Ks][8d]
+selimovic37 bets 2023 and is all-in
+scoobz900 folds
+onix7894 calls 1451 and is all-in
+*** RIVER *** [Td Jc Ks 8d][Tc]
+*** SHOW DOWN ***
+onix7894 shows [Qh 7d] (One pair : Tens)
+selimovic37 shows [7h Ah] (One pair : Tens)
+selimovic37 collected 5034 from pot
+*** SUMMARY ***
+Total pot 5034 | No rake
+Board: [Td Jc Ks 8d Tc]
+Seat 2: onix7894 showed [Qh 7d] and lost with One pair : Tens
+Seat 4: selimovic37 (small blind) showed [7h Ah] and won 5034 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #564708755413925889-15-1442787949 - Holdem no limit (60/120) - 2015/09/20 22:25:49 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #4 is the button
+Seat 1: G_ZU (1390)
+Seat 3: .Roxon. (1350)
+Seat 4: selimovic37 (5034)
+Seat 5: badson (405)
+Seat 6: Macak Motor (1234)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1340)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+badson posts small blind 60
+Macak Motor posts big blind 120
+Dealt to sabre_laser [Ts Qh]
+*** PRE-FLOP *** 
+KRitoViaC folds
+scoobz900 raises 1220 to 1340 and is all-in
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+selimovic37 folds
+badson calls 345 and is all-in
+Macak Motor folds
+*** FLOP *** [3d 8c Th]
+*** TURN *** [3d 8c Th][Jh]
+*** RIVER *** [3d 8c Th Jh][Tc]
+*** SHOW DOWN ***
+badson shows [Qs Kd] (One pair : Tens)
+scoobz900 shows [Js Ah] (Two pairs : Jacks and Tens)
+scoobz900 collected 1865 from pot
+*** SUMMARY ***
+Total pot 1865 | No rake
+Board: [3d 8c Th Jh Tc]
+Seat 5: badson (small blind) showed [Qs Kd] and lost with One pair : Tens
+Seat 8: scoobz900 showed [Js Ah] and won 1865 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564708755413925889-16-1442788007 - Holdem no limit (80/160) - 2015/09/20 22:26:47 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #5 is the button
+Seat 1: G_ZU (1390)
+Seat 3: .Roxon. (1350)
+Seat 4: selimovic37 (5034)
+Seat 6: Macak Motor (1114)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1865)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+Macak Motor posts small blind 80
+KRitoViaC posts big blind 160
+Dealt to sabre_laser [5d Kc]
+*** PRE-FLOP *** 
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+selimovic37 folds
+Macak Motor folds
+KRitoViaC collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 7: KRitoViaC (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564708755413925889-17-1442788040 - Holdem no limit (80/160) - 2015/09/20 22:27:20 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #6 is the button
+Seat 1: G_ZU (1390)
+Seat 3: .Roxon. (1350)
+Seat 4: selimovic37 (5034)
+Seat 6: Macak Motor (1034)
+Seat 7: KRitoViaC (1520)
+Seat 8: scoobz900 (1865)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+KRitoViaC posts small blind 80
+scoobz900 posts big blind 160
+Dealt to sabre_laser [Jc 8d]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+.Roxon. raises 320 to 480
+selimovic37 calls 480
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+*** FLOP *** [Ks 6s 6c]
+.Roxon. checks
+selimovic37 bets 880
+.Roxon. folds
+selimovic37 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Board: [Ks 6s 6c]
+Seat 4: selimovic37 won 2080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564708755413925889-18-1442788099 - Holdem no limit (80/160) - 2015/09/20 22:28:19 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #7 is the button
+Seat 1: G_ZU (1390)
+Seat 3: .Roxon. (870)
+Seat 4: selimovic37 (5754)
+Seat 6: Macak Motor (1034)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1705)
+Seat 9: sabre_laser (1397)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+scoobz900 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Kc Qs]
+*** PRE-FLOP *** 
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+selimovic37 calls 160
+Macak Motor raises 874 to 1034 and is all-in
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+selimovic37 calls 874
+*** FLOP *** [2h Kh 4s]
+*** TURN *** [2h Kh 4s][6d]
+*** RIVER *** [2h Kh 4s 6d][3c]
+*** SHOW DOWN ***
+selimovic37 shows [9h Js] (High card : King)
+Macak Motor shows [2d Ad] (One pair : 2)
+Macak Motor collected 2308 from pot
+*** SUMMARY ***
+Total pot 2308 | No rake
+Board: [2h Kh 4s 6d 3c]
+Seat 4: selimovic37 showed [9h Js] and lost with High card : King
+Seat 6: Macak Motor showed [2d Ad] and won 2308 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #564708755413925889-19-1442788153 - Holdem no limit (80/160) - 2015/09/20 22:29:13 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #8 is the button
+Seat 1: G_ZU (1390)
+Seat 3: .Roxon. (870)
+Seat 4: selimovic37 (4720)
+Seat 6: Macak Motor (2308)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (1625)
+Seat 9: sabre_laser (1237)
+Seat 10: SpewItRight (1410)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+SpewItRight posts big blind 160
+Dealt to sabre_laser [3c 7d]
+*** PRE-FLOP *** 
+G_ZU folds
+.Roxon. folds
+selimovic37 calls 160
+Macak Motor folds
+KRitoViaC folds
+scoobz900 calls 160
+sabre_laser folds
+SpewItRight checks
+*** FLOP *** [Tc 9d Qc]
+SpewItRight checks
+selimovic37 bets 160
+scoobz900 calls 160
+SpewItRight folds
+*** TURN *** [Tc 9d Qc][Ac]
+selimovic37 bets 160
+scoobz900 raises 240 to 400
+selimovic37 calls 240
+*** RIVER *** [Tc 9d Qc Ac][7c]
+selimovic37 checks
+scoobz900 checks
+*** SHOW DOWN ***
+selimovic37 shows [Th 6d] (One pair : Tens)
+scoobz900 shows [Ah 9s] (Two pairs : Aces and 9)
+scoobz900 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [Tc 9d Qc Ac 7c]
+Seat 4: selimovic37 showed [Th 6d] and lost with One pair : Tens
+Seat 8: scoobz900 (button) showed [Ah 9s] and won 1680 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564708755413925889-20-1442788221 - Holdem no limit (10/100/200) - 2015/09/20 22:30:21 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #9 is the button
+Seat 1: G_ZU (1390)
+Seat 3: .Roxon. (870)
+Seat 4: selimovic37 (4000)
+Seat 6: Macak Motor (2308)
+Seat 7: KRitoViaC (1440)
+Seat 8: scoobz900 (2585)
+Seat 9: sabre_laser (1157)
+Seat 10: SpewItRight (1250)
+*** ANTE/BLINDS ***
+SpewItRight posts ante 10
+G_ZU posts ante 10
+.Roxon. posts ante 10
+selimovic37 posts ante 10
+Macak Motor posts ante 10
+KRitoViaC posts ante 10
+scoobz900 posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts small blind 100
+G_ZU posts big blind 200
+Dealt to sabre_laser [Kh 6h]
+*** PRE-FLOP *** 
+.Roxon. folds
+selimovic37 folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 raises 200 to 400
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+scoobz900 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 8: scoobz900 won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564708755413925889-21-1442788251 - Holdem no limit (10/100/200) - 2015/09/20 22:30:51 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #10 is the button
+Seat 1: G_ZU (1180)
+Seat 3: .Roxon. (860)
+Seat 4: selimovic37 (3990)
+Seat 6: Macak Motor (2298)
+Seat 7: KRitoViaC (1430)
+Seat 8: scoobz900 (2955)
+Seat 9: sabre_laser (1147)
+Seat 10: SpewItRight (1140)
+*** ANTE/BLINDS ***
+G_ZU posts ante 10
+.Roxon. posts ante 10
+selimovic37 posts ante 10
+Macak Motor posts ante 10
+KRitoViaC posts ante 10
+scoobz900 posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+G_ZU posts small blind 100
+.Roxon. posts big blind 200
+Dealt to sabre_laser [3c 2d]
+*** PRE-FLOP *** 
+selimovic37 calls 200
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+.Roxon. checks
+*** FLOP *** [5d 5c 8c]
+.Roxon. checks
+selimovic37 bets 200
+.Roxon. raises 450 to 650 and is all-in
+selimovic37 raises 450 to 1100
+*** TURN *** [5d 5c 8c][7c]
+*** RIVER *** [5d 5c 8c 7c][3d]
+*** SHOW DOWN ***
+.Roxon. shows [8d Qh] (Two pairs : 8 and 5)
+selimovic37 shows [As 7s] (Two pairs : 7 and 5)
+selimovic37 collected 450 from side pot 1
+.Roxon. collected 1880 from main pot
+*** SUMMARY ***
+Total pot 2330 | No rake
+Board: [5d 5c 8c 7c 3d]
+Seat 3: .Roxon. (big blind) showed [8d Qh] and won 1880 with Two pairs : 8 and 5
+Seat 4: selimovic37 showed [As 7s] and won 450 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564708755413925889-22-1442788294 - Holdem no limit (10/100/200) - 2015/09/20 22:31:34 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #1 is the button
+Seat 1: G_ZU (1070)
+Seat 3: .Roxon. (1880)
+Seat 4: selimovic37 (3130)
+Seat 6: Macak Motor (2288)
+Seat 7: KRitoViaC (1420)
+Seat 8: scoobz900 (2945)
+Seat 9: sabre_laser (1137)
+Seat 10: SpewItRight (1130)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 10
+selimovic37 posts ante 10
+G_ZU posts ante 10
+Macak Motor posts ante 10
+KRitoViaC posts ante 10
+scoobz900 posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+.Roxon. posts small blind 100
+selimovic37 posts big blind 200
+Dealt to sabre_laser [8s Ah]
+*** PRE-FLOP *** 
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+sabre_laser raises 927 to 1127 and is all-in
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+selimovic37 folds
+sabre_laser collected 1507 from pot
+*** SUMMARY ***
+Total pot 1507 | No rake
+Seat 9: sabre_laser won 1507
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #564708755413925889-23-1442788347 - Holdem no limit (10/100/200) - 2015/09/20 22:32:27 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #3 is the button
+Seat 1: G_ZU (1060)
+Seat 3: .Roxon. (1770)
+Seat 4: selimovic37 (2920)
+Seat 6: Macak Motor (2278)
+Seat 7: KRitoViaC (1410)
+Seat 8: scoobz900 (2935)
+Seat 9: sabre_laser (1507)
+Seat 10: SpewItRight (1120)
+*** ANTE/BLINDS ***
+selimovic37 posts ante 10
+Macak Motor posts ante 10
+G_ZU posts ante 10
+.Roxon. posts ante 10
+KRitoViaC posts ante 10
+scoobz900 posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+selimovic37 posts small blind 100
+Macak Motor posts big blind 200
+Dealt to sabre_laser [Qd 6s]
+*** PRE-FLOP *** 
+KRitoViaC folds
+scoobz900 raises 2725 to 2925 and is all-in
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+selimovic37 calls 2810 and is all-in
+Macak Motor folds
+*** FLOP *** [Jd Ac Kh]
+*** TURN *** [Jd Ac Kh][Jh]
+*** RIVER *** [Jd Ac Kh Jh][7s]
+*** SHOW DOWN ***
+selimovic37 shows [Kc 7d] (Two pairs : Kings and Jacks)
+scoobz900 shows [Ah Qh] (Two pairs : Aces and Jacks)
+scoobz900 collected 6115 from pot
+*** SUMMARY ***
+Total pot 6115 | No rake
+Board: [Jd Ac Kh Jh 7s]
+Seat 4: selimovic37 (small blind) showed [Kc 7d] and lost with Two pairs : Kings and Jacks
+Seat 8: scoobz900 showed [Ah Qh] and won 6115 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564708755413925889-24-1442788393 - Holdem no limit (20/150/300) - 2015/09/20 22:33:13 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #4 is the button
+Seat 1: G_ZU (1050)
+Seat 3: .Roxon. (1760)
+Seat 6: Macak Motor (2068)
+Seat 7: KRitoViaC (1400)
+Seat 8: scoobz900 (6115)
+Seat 9: sabre_laser (1497)
+Seat 10: SpewItRight (1110)
+*** ANTE/BLINDS ***
+Macak Motor posts ante 20
+KRitoViaC posts ante 20
+G_ZU posts ante 20
+.Roxon. posts ante 20
+scoobz900 posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+Macak Motor posts small blind 150
+KRitoViaC posts big blind 300
+Dealt to sabre_laser [Kd 7c]
+*** PRE-FLOP *** 
+scoobz900 raises 300 to 600
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 8: scoobz900 won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564708755413925889-25-1442788426 - Holdem no limit (20/150/300) - 2015/09/20 22:33:46 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #6 is the button
+Seat 1: G_ZU (1030)
+Seat 3: .Roxon. (1740)
+Seat 6: Macak Motor (1898)
+Seat 7: KRitoViaC (1080)
+Seat 8: scoobz900 (6685)
+Seat 9: sabre_laser (1477)
+Seat 10: SpewItRight (1090)
+*** ANTE/BLINDS ***
+KRitoViaC posts ante 20
+scoobz900 posts ante 20
+G_ZU posts ante 20
+.Roxon. posts ante 20
+Macak Motor posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+KRitoViaC posts small blind 150
+scoobz900 posts big blind 300
+Dealt to sabre_laser [6s As]
+*** PRE-FLOP *** 
+sabre_laser raises 1157 to 1457 and is all-in
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+sabre_laser collected 2047 from pot
+*** SUMMARY ***
+Total pot 2047 | No rake
+Seat 9: sabre_laser won 2047
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #564708755413925889-26-1442788485 - Holdem no limit (20/150/300) - 2015/09/20 22:34:45 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #7 is the button
+Seat 1: G_ZU (1010)
+Seat 3: .Roxon. (1720)
+Seat 6: Macak Motor (1878)
+Seat 7: KRitoViaC (910)
+Seat 8: scoobz900 (6365)
+Seat 9: sabre_laser (2047)
+Seat 10: SpewItRight (1070)
+*** ANTE/BLINDS ***
+scoobz900 posts ante 20
+sabre_laser posts ante 20
+G_ZU posts ante 20
+.Roxon. posts ante 20
+Macak Motor posts ante 20
+KRitoViaC posts ante 20
+SpewItRight posts ante 20
+scoobz900 posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [4s Tc]
+*** PRE-FLOP *** 
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 calls 150
+sabre_laser checks
+*** FLOP *** [Ts 7s Kc]
+scoobz900 checks
+sabre_laser bets 300
+scoobz900 folds
+sabre_laser collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [Ts 7s Kc]
+Seat 9: sabre_laser (big blind) won 1040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564708755413925889-27-1442788578 - Holdem no limit (50/200/400) - 2015/09/20 22:36:18 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #8 is the button
+Seat 1: G_ZU (990)
+Seat 3: .Roxon. (1700)
+Seat 6: Macak Motor (1858)
+Seat 7: KRitoViaC (890)
+Seat 8: scoobz900 (6045)
+Seat 9: sabre_laser (2467)
+Seat 10: SpewItRight (1050)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+SpewItRight posts ante 50
+G_ZU posts ante 50
+.Roxon. posts ante 50
+Macak Motor posts ante 50
+KRitoViaC posts ante 50
+scoobz900 posts ante 50
+sabre_laser posts small blind 200
+SpewItRight posts big blind 400
+Dealt to sabre_laser [5d 5c]
+*** PRE-FLOP *** 
+G_ZU raises 540 to 940 and is all-in
+.Roxon. folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 calls 940
+sabre_laser folds
+SpewItRight folds
+*** FLOP *** [Jd 2s Js]
+*** TURN *** [Jd 2s Js][2h]
+*** RIVER *** [Jd 2s Js 2h][6h]
+*** SHOW DOWN ***
+scoobz900 shows [Ts 7s] (Two pairs : Jacks and 2)
+G_ZU shows [Kh Jc] (Full of Jacks and 2)
+G_ZU collected 2830 from pot
+*** SUMMARY ***
+Total pot 2830 | No rake
+Board: [Jd 2s Js 2h 6h]
+Seat 1: G_ZU showed [Kh Jc] and won 2830 with Full of Jacks and 2
+Seat 8: scoobz900 (button) showed [Ts 7s] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564708755413925889-28-1442788633 - Holdem no limit (50/200/400) - 2015/09/20 22:37:13 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #9 is the button
+Seat 1: G_ZU (2830)
+Seat 3: .Roxon. (1650)
+Seat 6: Macak Motor (1808)
+Seat 7: KRitoViaC (840)
+Seat 8: scoobz900 (5055)
+Seat 9: sabre_laser (2217)
+Seat 10: SpewItRight (600)
+*** ANTE/BLINDS ***
+SpewItRight posts ante 50
+G_ZU posts ante 50
+.Roxon. posts ante 50
+Macak Motor posts ante 50
+KRitoViaC posts ante 50
+scoobz900 posts ante 50
+sabre_laser posts ante 50
+SpewItRight posts small blind 200
+G_ZU posts big blind 400
+Dealt to sabre_laser [Tc Qc]
+*** PRE-FLOP *** 
+.Roxon. folds
+Macak Motor folds
+KRitoViaC folds
+scoobz900 raises 400 to 800
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+scoobz900 collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Seat 8: scoobz900 won 1750
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #564708755413925889-29-1442788670 - Holdem no limit (50/200/400) - 2015/09/20 22:37:50 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #10 is the button
+Seat 1: G_ZU (2380)
+Seat 3: .Roxon. (1600)
+Seat 6: Macak Motor (1758)
+Seat 7: KRitoViaC (790)
+Seat 8: scoobz900 (5955)
+Seat 9: sabre_laser (2167)
+Seat 10: SpewItRight (350)
+*** ANTE/BLINDS ***
+G_ZU posts ante 50
+.Roxon. posts ante 50
+Macak Motor posts ante 50
+KRitoViaC posts ante 50
+scoobz900 posts ante 50
+sabre_laser posts ante 50
+SpewItRight posts ante 50
+G_ZU posts small blind 200
+.Roxon. posts big blind 400
+Dealt to sabre_laser [7d 7h]
+*** PRE-FLOP *** 
+Macak Motor folds
+KRitoViaC folds
+scoobz900 folds
+sabre_laser raises 1717 to 2117 and is all-in
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+sabre_laser collected 3067 from pot
+*** SUMMARY ***
+Total pot 3067 | No rake
+Seat 9: sabre_laser won 3067
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564708755413925889-30-1442788729 - Holdem no limit (75/300/600) - 2015/09/20 22:38:49 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #1 is the button
+Seat 1: G_ZU (2130)
+Seat 3: .Roxon. (1150)
+Seat 6: Macak Motor (1708)
+Seat 7: KRitoViaC (740)
+Seat 8: scoobz900 (5905)
+Seat 9: sabre_laser (3067)
+Seat 10: SpewItRight (300)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 75
+Macak Motor posts ante 75
+G_ZU posts ante 75
+KRitoViaC posts ante 75
+scoobz900 posts ante 75
+sabre_laser posts ante 75
+SpewItRight posts ante 75
+.Roxon. posts small blind 300
+Macak Motor posts big blind 600
+Dealt to sabre_laser [Jh 5d]
+*** PRE-FLOP *** 
+KRitoViaC folds
+scoobz900 folds
+sabre_laser folds
+SpewItRight calls 225 and is all-in
+G_ZU folds
+.Roxon. raises 475 to 1075 and is all-in
+Macak Motor folds
+*** FLOP *** [4c 7h Qh]
+*** TURN *** [4c 7h Qh][5c]
+*** RIVER *** [4c 7h Qh 5c][8c]
+*** SHOW DOWN ***
+SpewItRight shows [Ac 7s] (One pair : 7)
+.Roxon. shows [Ks Jd] (High card : King)
+.Roxon. collected 1225 from side pot 1
+SpewItRight collected 1200 from main pot
+*** SUMMARY ***
+Total pot 2425 | No rake
+Board: [4c 7h Qh 5c 8c]
+Seat 3: .Roxon. (small blind) showed [Ks Jd] and won 1225 with High card : King
+Seat 10: SpewItRight showed [Ac 7s] and won 1200 with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564708755413925889-31-1442788776 - Holdem no limit (75/300/600) - 2015/09/20 22:39:36 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #3 is the button
+Seat 1: G_ZU (2055)
+Seat 3: .Roxon. (1225)
+Seat 6: Macak Motor (1033)
+Seat 7: KRitoViaC (665)
+Seat 8: scoobz900 (5830)
+Seat 9: sabre_laser (2992)
+Seat 10: SpewItRight (1200)
+*** ANTE/BLINDS ***
+Macak Motor posts ante 75
+KRitoViaC posts ante 75
+G_ZU posts ante 75
+.Roxon. posts ante 75
+scoobz900 posts ante 75
+sabre_laser posts ante 75
+SpewItRight posts ante 75
+Macak Motor posts small blind 300
+KRitoViaC posts big blind 590 and is all-in
+Dealt to sabre_laser [Th Ks]
+*** PRE-FLOP *** 
+scoobz900 folds
+sabre_laser calls 600
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+Macak Motor folds
+*** FLOP *** [2d 9d 2s]
+*** TURN *** [2d 9d 2s][Tc]
+*** RIVER *** [2d 9d 2s Tc][6s]
+*** SHOW DOWN ***
+KRitoViaC shows [5d 9s] (Two pairs : 9 and 2)
+sabre_laser shows [Th Ks] (Two pairs : Tens and 2)
+sabre_laser collected 2015 from pot
+*** SUMMARY ***
+Total pot 2015 | No rake
+Board: [2d 9d 2s Tc 6s]
+Seat 7: KRitoViaC (big blind) showed [5d 9s] and lost with Two pairs : 9 and 2
+Seat 9: sabre_laser showed [Th Ks] and won 2015 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564708755413925889-32-1442788820 - Holdem no limit (75/300/600) - 2015/09/20 22:40:20 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #6 is the button
+Seat 1: G_ZU (1980)
+Seat 3: .Roxon. (1150)
+Seat 6: Macak Motor (658)
+Seat 8: scoobz900 (5755)
+Seat 9: sabre_laser (4332)
+Seat 10: SpewItRight (1125)
+*** ANTE/BLINDS ***
+scoobz900 posts ante 75
+G_ZU posts ante 75
+.Roxon. posts ante 75
+Macak Motor posts ante 75
+sabre_laser posts ante 75
+SpewItRight posts ante 75
+scoobz900 posts big blind 600
+Dealt to sabre_laser [Ah Js]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+G_ZU folds
+.Roxon. folds
+Macak Motor folds
+scoobz900 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 8: scoobz900 (big blind) won 1050
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 10 - HandId: #564708755413925889-33-1442788856 - Holdem no limit (75/300/600) - 2015/09/20 22:40:56 UTC
+Table: 'Double or Nothing(131481503)#0' 10-max (real money) Seat #7 is the button
+Seat 1: G_ZU (1905)
+Seat 3: .Roxon. (1075)
+Seat 6: Macak Motor (583)
+Seat 8: scoobz900 (6130)
+Seat 9: sabre_laser (4257)
+Seat 10: SpewItRight (1050)
+*** ANTE/BLINDS ***
+scoobz900 posts ante 75
+sabre_laser posts ante 75
+G_ZU posts ante 75
+.Roxon. posts ante 75
+Macak Motor posts ante 75
+SpewItRight posts ante 75
+scoobz900 posts small blind 300
+sabre_laser posts big blind 600
+Dealt to sabre_laser [Ks 6s]
+*** PRE-FLOP *** 
+SpewItRight raises 375 to 975 and is all-in
+G_ZU folds
+.Roxon. folds
+Macak Motor folds
+scoobz900 calls 675
+sabre_laser calls 375
+*** FLOP *** [6d 4h 7h]
+scoobz900 checks
+sabre_laser checks
+*** TURN *** [6d 4h 7h][Qd]
+scoobz900 checks
+sabre_laser checks
+*** RIVER *** [6d 4h 7h Qd][3s]
+scoobz900 checks
+sabre_laser checks
+*** SHOW DOWN ***
+scoobz900 shows [Ac Js] (High card : Ace)
+SpewItRight shows [Th As] (High card : Ace)
+sabre_laser shows [Ks 6s] (One pair : 6)
+sabre_laser collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [6d 4h 7h Qd 3s]
+Seat 8: scoobz900 (small blind) showed [Ac Js] and lost with High card : Ace
+Seat 9: sabre_laser (big blind) showed [Ks 6s] and won 3375 with One pair : 6
+Seat 10: SpewItRight showed [Th As] and lost with High card : Ace
+
+

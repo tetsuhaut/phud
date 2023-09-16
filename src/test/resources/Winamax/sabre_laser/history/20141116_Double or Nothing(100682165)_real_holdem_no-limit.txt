@@ -1,0 +1,2325 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #432426605965475841-1-1416172458 - Holdem no limit (10/20) - 2014/11/16 21:14:18 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (1500)
+Seat 2: mc34 (1500)
+Seat 3: fullboxon59 (1500)
+Seat 4: Crisssis (1500)
+Seat 5: letafion (1500)
+Seat 6: sabre_laser (1500)
+Seat 7: Bluewayz (1500)
+Seat 8: BnB_BGL (1500)
+Seat 9: rimkdu44 (1500)
+Seat 10: isnan29 (1500)
+*** ANTE/BLINDS ***
+Bluewayz posts small blind 10
+BnB_BGL posts big blind 20
+Dealt to sabre_laser [Qh 4d]
+*** PRE-FLOP *** 
+rimkdu44 folds
+isnan29 calls 20
+Eclips49 folds
+mc34 raises 20 to 40
+fullboxon59 folds
+Crisssis folds
+letafion raises 40 to 80
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+isnan29 calls 60
+mc34 calls 40
+*** FLOP *** [9d 7s 6c]
+isnan29 checks
+mc34 bets 300
+letafion folds
+isnan29 calls 300
+*** TURN *** [9d 7s 6c][8h]
+isnan29 checks
+mc34 bets 20
+isnan29 calls 20
+*** RIVER *** [9d 7s 6c 8h][5h]
+isnan29 checks
+mc34 checks
+*** SHOW DOWN ***
+mc34 shows [Jc 9s] (Straight 9 high)
+isnan29 shows [5d As] (Straight 9 high)
+isnan29 collected 455 from pot
+mc34 collected 455 from pot
+*** SUMMARY ***
+Total pot 910 | No rake
+Board: [9d 7s 6c 8h 5h]
+Seat 2: mc34 showed [Jc 9s] and won 455 with Straight 9 high
+Seat 10: isnan29 showed [5d As] and won 455 with Straight 9 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #432426605965475841-2-1416172531 - Holdem no limit (10/20) - 2014/11/16 21:15:31 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Eclips49 (1500)
+Seat 2: mc34 (1555)
+Seat 3: fullboxon59 (1500)
+Seat 4: Crisssis (1500)
+Seat 5: letafion (1420)
+Seat 6: sabre_laser (1500)
+Seat 7: Bluewayz (1490)
+Seat 8: BnB_BGL (1480)
+Seat 9: rimkdu44 (1500)
+Seat 10: isnan29 (1555)
+*** ANTE/BLINDS ***
+BnB_BGL posts small blind 10
+rimkdu44 posts big blind 20
+Dealt to sabre_laser [Ks 6s]
+*** PRE-FLOP *** 
+isnan29 folds
+Eclips49 folds
+mc34 raises 20 to 40
+fullboxon59 raises 1460 to 1500 and is all-in
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+rimkdu44 folds
+mc34 folds
+fullboxon59 collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Seat 3: fullboxon59 won 1570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #432426605965475841-3-1416172574 - Holdem no limit (10/20) - 2014/11/16 21:16:14 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Eclips49 (1500)
+Seat 2: mc34 (1515)
+Seat 3: fullboxon59 (1570)
+Seat 4: Crisssis (1500)
+Seat 5: letafion (1420)
+Seat 6: sabre_laser (1500)
+Seat 7: Bluewayz (1490)
+Seat 8: BnB_BGL (1470)
+Seat 9: rimkdu44 (1480)
+Seat 10: isnan29 (1555)
+*** ANTE/BLINDS ***
+rimkdu44 posts small blind 10
+isnan29 posts big blind 20
+Dealt to sabre_laser [Tc Jh]
+*** PRE-FLOP *** 
+Eclips49 folds
+mc34 raises 20 to 40
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL calls 40
+rimkdu44 folds
+isnan29 raises 20 to 60
+mc34 calls 20
+BnB_BGL calls 20
+*** FLOP *** [9c 9d Qd]
+isnan29 bets 127
+mc34 folds
+BnB_BGL folds
+isnan29 collected 317 from pot
+*** SUMMARY ***
+Total pot 317 | No rake
+Board: [9c 9d Qd]
+Seat 10: isnan29 (big blind) won 317
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #432426605965475841-4-1416172630 - Holdem no limit (10/20) - 2014/11/16 21:17:10 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Eclips49 (1500)
+Seat 2: mc34 (1455)
+Seat 3: fullboxon59 (1570)
+Seat 4: Crisssis (1500)
+Seat 5: letafion (1420)
+Seat 6: sabre_laser (1500)
+Seat 7: Bluewayz (1490)
+Seat 8: BnB_BGL (1410)
+Seat 9: rimkdu44 (1470)
+Seat 10: isnan29 (1685)
+*** ANTE/BLINDS ***
+isnan29 posts small blind 10
+Eclips49 posts big blind 20
+Dealt to sabre_laser [6s 3d]
+*** PRE-FLOP *** 
+mc34 folds
+fullboxon59 raises 80 to 100
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL calls 100
+rimkdu44 folds
+isnan29 calls 90
+Eclips49 folds
+*** FLOP *** [5c 6h 5d]
+isnan29 bets 160
+fullboxon59 raises 640 to 800
+BnB_BGL folds
+isnan29 calls 640
+*** TURN *** [5c 6h 5d][4d]
+isnan29 checks
+fullboxon59 bets 670 and is all-in
+isnan29 calls 670
+*** RIVER *** [5c 6h 5d 4d][As]
+*** SHOW DOWN ***
+isnan29 shows [9c 6c] (Two pairs : 6 and 5)
+fullboxon59 shows [Kd Kh] (Two pairs : Kings and 5)
+fullboxon59 collected 3260 from pot
+*** SUMMARY ***
+Total pot 3260 | No rake
+Board: [5c 6h 5d 4d As]
+Seat 3: fullboxon59 showed [Kd Kh] and won 3260 with Two pairs : Kings and 5
+Seat 10: isnan29 (small blind) showed [9c 6c] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #432426605965475841-5-1416172736 - Holdem no limit (10/20) - 2014/11/16 21:18:56 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Eclips49 (1480)
+Seat 2: mc34 (1455)
+Seat 3: fullboxon59 (3260)
+Seat 4: Crisssis (1500)
+Seat 5: letafion (1420)
+Seat 6: sabre_laser (1500)
+Seat 7: Bluewayz (1490)
+Seat 8: BnB_BGL (1310)
+Seat 9: rimkdu44 (1470)
+Seat 10: isnan29 (115)
+*** ANTE/BLINDS ***
+Eclips49 posts small blind 10
+mc34 posts big blind 20
+Dealt to sabre_laser [2h 8d]
+*** PRE-FLOP *** 
+fullboxon59 calls 20
+Crisssis calls 20
+letafion folds
+sabre_laser folds
+Bluewayz raises 50 to 70
+BnB_BGL folds
+rimkdu44 folds
+isnan29 raises 45 to 115 and is all-in
+Eclips49 folds
+mc34 calls 95
+fullboxon59 calls 95
+Crisssis calls 95
+Bluewayz calls 45
+*** FLOP *** [8c Qd 3d]
+mc34 checks
+fullboxon59 checks
+Crisssis checks
+Bluewayz bets 300
+mc34 calls 300
+fullboxon59 folds
+Crisssis folds
+*** TURN *** [8c Qd 3d][Kh]
+mc34 checks
+Bluewayz bets 1075 and is all-in
+mc34 folds
+*** RIVER *** [8c Qd 3d Kh][Jd]
+*** SHOW DOWN ***
+isnan29 shows [5c Ts] (High card : King)
+Bluewayz shows [Qs Qc] (Trips of Queens)
+Bluewayz collected 2260 from pot
+*** SUMMARY ***
+Total pot 2260 | No rake
+Board: [8c Qd 3d Kh Jd]
+Seat 7: Bluewayz showed [Qs Qc] and won 2260 with Trips of Queens
+Seat 10: isnan29 (button) showed [5c Ts] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #432426605965475841-6-1416172859 - Holdem no limit (15/30) - 2014/11/16 21:20:59 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Eclips49 (1470)
+Seat 2: mc34 (1040)
+Seat 3: fullboxon59 (3145)
+Seat 4: Crisssis (1385)
+Seat 5: letafion (1420)
+Seat 6: sabre_laser (1500)
+Seat 7: Bluewayz (2260)
+Seat 8: BnB_BGL (1310)
+Seat 9: rimkdu44 (1470)
+*** ANTE/BLINDS ***
+mc34 posts small blind 15
+fullboxon59 posts big blind 30
+Dealt to sabre_laser [5d 7d]
+*** PRE-FLOP *** 
+Crisssis folds
+letafion folds
+sabre_laser calls 30
+Bluewayz folds
+BnB_BGL calls 30
+rimkdu44 raises 90 to 120
+Eclips49 folds
+mc34 calls 105
+fullboxon59 raises 3025 to 3145 and is all-in
+sabre_laser folds
+BnB_BGL folds
+rimkdu44 calls 1350 and is all-in
+mc34 folds
+*** FLOP *** [8d 6h 9d]
+*** TURN *** [8d 6h 9d][5c]
+*** RIVER *** [8d 6h 9d 5c][Kh]
+*** SHOW DOWN ***
+rimkdu44 shows [Tc Td] (One pair : Tens)
+fullboxon59 shows [Ah Qd] (High card : Ace)
+fullboxon59 collected 1675 from side pot 1
+rimkdu44 collected 3120 from main pot
+*** SUMMARY ***
+Total pot 4795 | No rake
+Board: [8d 6h 9d 5c Kh]
+Seat 3: fullboxon59 (big blind) showed [Ah Qd] and won 1675 with High card : Ace
+Seat 9: rimkdu44 showed [Tc Td] and won 3120 with One pair : Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #432426605965475841-7-1416172919 - Holdem no limit (15/30) - 2014/11/16 21:21:59 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Eclips49 (1470)
+Seat 2: mc34 (920)
+Seat 3: fullboxon59 (1675)
+Seat 4: Crisssis (1385)
+Seat 5: letafion (1420)
+Seat 6: sabre_laser (1470)
+Seat 7: Bluewayz (2260)
+Seat 8: BnB_BGL (1280)
+Seat 9: rimkdu44 (3120)
+*** ANTE/BLINDS ***
+fullboxon59 posts small blind 15
+Crisssis posts big blind 30
+Dealt to sabre_laser [2h Ad]
+*** PRE-FLOP *** 
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL calls 30
+rimkdu44 folds
+Eclips49 raises 38 to 68
+mc34 folds
+fullboxon59 folds
+Crisssis calls 38
+BnB_BGL calls 38
+*** FLOP *** [9h Ts 6h]
+Crisssis checks
+BnB_BGL checks
+Eclips49 checks
+*** TURN *** [9h Ts 6h][4c]
+Crisssis checks
+BnB_BGL checks
+Eclips49 checks
+*** RIVER *** [9h Ts 6h 4c][9s]
+Crisssis bets 110
+BnB_BGL folds
+Eclips49 folds
+Crisssis collected 329 from pot
+*** SUMMARY ***
+Total pot 329 | No rake
+Board: [9h Ts 6h 4c 9s]
+Seat 4: Crisssis (big blind) won 329
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #432426605965475841-8-1416172996 - Holdem no limit (15/30) - 2014/11/16 21:23:16 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Eclips49 (1402)
+Seat 2: mc34 (920)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1536)
+Seat 5: letafion (1420)
+Seat 6: sabre_laser (1470)
+Seat 7: Bluewayz (2260)
+Seat 8: BnB_BGL (1212)
+Seat 9: rimkdu44 (3120)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 15
+letafion posts big blind 30
+Dealt to sabre_laser [6s 5s]
+*** PRE-FLOP *** 
+sabre_laser calls 30
+Bluewayz folds
+BnB_BGL calls 30
+rimkdu44 folds
+Eclips49 folds
+mc34 raises 890 to 920 and is all-in
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser calls 890
+BnB_BGL folds
+*** FLOP *** [2d 3d 7c]
+*** TURN *** [2d 3d 7c][7h]
+*** RIVER *** [2d 3d 7c 7h][2s]
+*** SHOW DOWN ***
+sabre_laser shows [6s 5s] (Two pairs : 7 and 2)
+mc34 shows [As Kd] (Two pairs : 7 and 2)
+mc34 collected 1915 from pot
+*** SUMMARY ***
+Total pot 1915 | No rake
+Board: [2d 3d 7c 7h 2s]
+Seat 2: mc34 showed [As Kd] and won 1915 with Two pairs : 7 and 2
+Seat 6: sabre_laser showed [6s 5s] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #432426605965475841-9-1416173057 - Holdem no limit (15/30) - 2014/11/16 21:24:17 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Eclips49 (1402)
+Seat 2: mc34 (1915)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1521)
+Seat 5: letafion (1390)
+Seat 6: sabre_laser (550)
+Seat 7: Bluewayz (2260)
+Seat 8: BnB_BGL (1182)
+Seat 9: rimkdu44 (3120)
+*** ANTE/BLINDS ***
+letafion posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [8h 6h]
+*** PRE-FLOP *** 
+Bluewayz folds
+BnB_BGL calls 30
+rimkdu44 raises 90 to 120
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+BnB_BGL calls 90
+*** FLOP *** [7d As 6d]
+BnB_BGL bets 30
+rimkdu44 raises 90 to 120
+BnB_BGL calls 90
+*** TURN *** [7d As 6d][3d]
+BnB_BGL bets 30
+rimkdu44 calls 30
+*** RIVER *** [7d As 6d 3d][2h]
+BnB_BGL bets 30
+rimkdu44 calls 30
+*** SHOW DOWN ***
+BnB_BGL shows [Qh 7h] (One pair : 7)
+rimkdu44 shows [9c 9s] (One pair : 9)
+rimkdu44 collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Board: [7d As 6d 3d 2h]
+Seat 8: BnB_BGL showed [Qh 7h] and lost with One pair : 7
+Seat 9: rimkdu44 showed [9c 9s] and won 645 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #432426605965475841-10-1416173122 - Holdem no limit (15/30) - 2014/11/16 21:25:22 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Eclips49 (1402)
+Seat 2: mc34 (1915)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1521)
+Seat 5: letafion (1375)
+Seat 6: sabre_laser (520)
+Seat 7: Bluewayz (2260)
+Seat 8: BnB_BGL (882)
+Seat 9: rimkdu44 (3465)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Bluewayz posts big blind 30
+Dealt to sabre_laser [Jh Ah]
+*** PRE-FLOP *** 
+BnB_BGL calls 30
+rimkdu44 folds
+Eclips49 folds
+mc34 calls 30
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser raises 490 to 520 and is all-in
+Bluewayz folds
+BnB_BGL folds
+mc34 folds
+sabre_laser collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 6: sabre_laser (small blind) won 610
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #432426605965475841-11-1416173184 - Holdem no limit (20/40) - 2014/11/16 21:26:24 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (1402)
+Seat 2: mc34 (1885)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1521)
+Seat 5: letafion (1375)
+Seat 6: sabre_laser (610)
+Seat 7: Bluewayz (2230)
+Seat 8: BnB_BGL (852)
+Seat 9: rimkdu44 (3465)
+*** ANTE/BLINDS ***
+Bluewayz posts small blind 20
+BnB_BGL posts big blind 40
+Dealt to sabre_laser [Ts Qc]
+*** PRE-FLOP *** 
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL shows [5h 7d] (High card : 7)
+BnB_BGL collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 8: BnB_BGL (big blind) showed [5h 7d] and won 60 with High card : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #432426605965475841-12-1416173228 - Holdem no limit (20/40) - 2014/11/16 21:27:08 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Eclips49 (1402)
+Seat 2: mc34 (1885)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1521)
+Seat 5: letafion (1375)
+Seat 6: sabre_laser (610)
+Seat 7: Bluewayz (2210)
+Seat 8: BnB_BGL (872)
+Seat 9: rimkdu44 (3465)
+*** ANTE/BLINDS ***
+BnB_BGL posts small blind 20
+rimkdu44 posts big blind 40
+Dealt to sabre_laser [4s Ad]
+*** PRE-FLOP *** 
+Eclips49 folds
+mc34 calls 40
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL calls 20
+rimkdu44 checks
+*** FLOP *** [Kh 9s Qs]
+BnB_BGL checks
+rimkdu44 checks
+mc34 checks
+*** TURN *** [Kh 9s Qs][Qh]
+BnB_BGL checks
+rimkdu44 checks
+mc34 checks
+*** RIVER *** [Kh 9s Qs Qh][8d]
+BnB_BGL bets 40
+rimkdu44 folds
+mc34 calls 40
+*** SHOW DOWN ***
+BnB_BGL shows [7h 4d] (One pair : Queens)
+mc34 shows [Ac 8s] (Two pairs : Queens and 8)
+mc34 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Kh 9s Qs Qh 8d]
+Seat 2: mc34 showed [Ac 8s] and won 200 with Two pairs : Queens and 8
+Seat 8: BnB_BGL (small blind) showed [7h 4d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #432426605965475841-13-1416173305 - Holdem no limit (20/40) - 2014/11/16 21:28:25 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Eclips49 (1402)
+Seat 2: mc34 (2005)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1521)
+Seat 5: letafion (1375)
+Seat 6: sabre_laser (610)
+Seat 7: Bluewayz (2210)
+Seat 8: BnB_BGL (792)
+Seat 9: rimkdu44 (3425)
+*** ANTE/BLINDS ***
+rimkdu44 posts small blind 20
+Eclips49 posts big blind 40
+Dealt to sabre_laser [2h 2c]
+*** PRE-FLOP *** 
+mc34 folds
+fullboxon59 folds
+Crisssis calls 40
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL calls 40
+rimkdu44 calls 20
+Eclips49 checks
+*** FLOP *** [2s Kc 8d]
+rimkdu44 checks
+Eclips49 checks
+Crisssis checks
+BnB_BGL checks
+*** TURN *** [2s Kc 8d][Jd]
+rimkdu44 checks
+Eclips49 checks
+Crisssis checks
+BnB_BGL checks
+*** RIVER *** [2s Kc 8d Jd][4d]
+rimkdu44 checks
+Eclips49 checks
+Crisssis checks
+BnB_BGL checks
+*** SHOW DOWN ***
+Eclips49 shows [Qd Tc] (High card : King)
+BnB_BGL shows [7d Qc] (High card : King)
+rimkdu44 shows [5c 3s] (High card : King)
+Crisssis shows [Ah 5h] (High card : Ace)
+Crisssis collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2s Kc 8d Jd 4d]
+Seat 1: Eclips49 (big blind) showed [Qd Tc] and lost with High card : King
+Seat 4: Crisssis showed [Ah 5h] and won 160 with High card : Ace
+Seat 8: BnB_BGL (button) showed [7d Qc] and lost with High card : King
+Seat 9: rimkdu44 (small blind) showed [5c 3s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #432426605965475841-14-1416173410 - Holdem no limit (20/40) - 2014/11/16 21:30:10 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Eclips49 (1362)
+Seat 2: mc34 (2005)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1641)
+Seat 5: letafion (1375)
+Seat 6: sabre_laser (610)
+Seat 7: Bluewayz (2210)
+Seat 8: BnB_BGL (752)
+Seat 9: rimkdu44 (3385)
+*** ANTE/BLINDS ***
+Eclips49 posts small blind 20
+mc34 posts big blind 40
+Dealt to sabre_laser [Qh Tc]
+*** PRE-FLOP *** 
+fullboxon59 folds
+Crisssis folds
+letafion raises 80 to 120
+sabre_laser folds
+Bluewayz folds
+BnB_BGL calls 120
+rimkdu44 folds
+Eclips49 folds
+mc34 calls 80
+*** FLOP *** [4h 4s 5d]
+mc34 checks
+letafion checks
+BnB_BGL checks
+*** TURN *** [4h 4s 5d][8c]
+mc34 checks
+letafion checks
+BnB_BGL checks
+*** RIVER *** [4h 4s 5d 8c][Js]
+mc34 checks
+letafion checks
+BnB_BGL checks
+*** SHOW DOWN ***
+mc34 shows [Ad 7d] (One pair : 4)
+BnB_BGL shows [Td Ah] (One pair : 4)
+letafion shows [Ks As] (One pair : 4)
+letafion collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [4h 4s 5d 8c Js]
+Seat 2: mc34 (big blind) showed [Ad 7d] and lost with One pair : 4
+Seat 5: letafion showed [Ks As] and won 380 with One pair : 4
+Seat 8: BnB_BGL showed [Td Ah] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #432426605965475841-15-1416173486 - Holdem no limit (20/40) - 2014/11/16 21:31:26 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Eclips49 (1342)
+Seat 2: mc34 (1885)
+Seat 3: fullboxon59 (1660)
+Seat 4: Crisssis (1641)
+Seat 5: letafion (1635)
+Seat 6: sabre_laser (610)
+Seat 7: Bluewayz (2210)
+Seat 8: BnB_BGL (632)
+Seat 9: rimkdu44 (3385)
+*** ANTE/BLINDS ***
+mc34 posts small blind 20
+fullboxon59 posts big blind 40
+Dealt to sabre_laser [Jc 9d]
+*** PRE-FLOP *** 
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz raises 40 to 80
+BnB_BGL calls 80
+rimkdu44 calls 80
+Eclips49 calls 80
+mc34 calls 60
+fullboxon59 folds
+*** FLOP *** [Qd Kc 9h]
+mc34 bets 40
+Bluewayz folds
+BnB_BGL calls 40
+rimkdu44 calls 40
+Eclips49 calls 40
+*** TURN *** [Qd Kc 9h][3c]
+mc34 bets 40
+BnB_BGL calls 40
+rimkdu44 calls 40
+Eclips49 calls 40
+*** RIVER *** [Qd Kc 9h 3c][6d]
+mc34 bets 40
+BnB_BGL calls 40
+rimkdu44 calls 40
+Eclips49 folds
+*** SHOW DOWN ***
+BnB_BGL shows [9s Js] (One pair : 9)
+rimkdu44 shows [Qs Tc] (One pair : Queens)
+mc34 shows [Ah Qh] (One pair : Queens)
+mc34 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Qd Kc 9h 3c 6d]
+Seat 2: mc34 (small blind) showed [Ah Qh] and won 880 with One pair : Queens
+Seat 8: BnB_BGL showed [9s Js] and lost with One pair : 9
+Seat 9: rimkdu44 showed [Qs Tc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #432426605965475841-16-1416173580 - Holdem no limit (30/60) - 2014/11/16 21:33:00 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Eclips49 (1182)
+Seat 2: mc34 (2565)
+Seat 3: fullboxon59 (1620)
+Seat 4: Crisssis (1641)
+Seat 5: letafion (1635)
+Seat 6: sabre_laser (610)
+Seat 7: Bluewayz (2130)
+Seat 8: BnB_BGL (432)
+Seat 9: rimkdu44 (3185)
+*** ANTE/BLINDS ***
+fullboxon59 posts small blind 30
+Crisssis posts big blind 60
+Dealt to sabre_laser [Tc Ts]
+*** PRE-FLOP *** 
+letafion raises 60 to 120
+sabre_laser raises 490 to 610 and is all-in
+Bluewayz folds
+BnB_BGL folds
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 raises 1010 to 1620 and is all-in
+Crisssis folds
+letafion folds
+*** FLOP *** [9h 2d 4h]
+*** TURN *** [9h 2d 4h][Kd]
+*** RIVER *** [9h 2d 4h Kd][4d]
+*** SHOW DOWN ***
+sabre_laser shows [Tc Ts] (Two pairs : Tens and 4)
+fullboxon59 shows [Jh Ac] (One pair : 4)
+fullboxon59 collected 1010 from side pot 1
+sabre_laser collected 1400 from main pot
+*** SUMMARY ***
+Total pot 2410 | No rake
+Board: [9h 2d 4h Kd 4d]
+Seat 3: fullboxon59 (small blind) showed [Jh Ac] and won 1010 with One pair : 4
+Seat 6: sabre_laser showed [Tc Ts] and won 1400 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #432426605965475841-17-1416173628 - Holdem no limit (30/60) - 2014/11/16 21:33:48 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Eclips49 (1182)
+Seat 2: mc34 (2565)
+Seat 3: fullboxon59 (1010)
+Seat 4: Crisssis (1581)
+Seat 5: letafion (1515)
+Seat 6: sabre_laser (1400)
+Seat 7: Bluewayz (2130)
+Seat 8: BnB_BGL (432)
+Seat 9: rimkdu44 (3185)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 30
+letafion posts big blind 60
+Dealt to sabre_laser [9d Jh]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bluewayz folds
+BnB_BGL raises 372 to 432 and is all-in
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+BnB_BGL collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | No rake
+Seat 8: BnB_BGL won 522
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #432426605965475841-18-1416173669 - Holdem no limit (30/60) - 2014/11/16 21:34:29 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Eclips49 (1182)
+Seat 2: mc34 (2565)
+Seat 3: fullboxon59 (1010)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1455)
+Seat 6: sabre_laser (1400)
+Seat 7: Bluewayz (2130)
+Seat 8: BnB_BGL (522)
+Seat 9: rimkdu44 (3185)
+*** ANTE/BLINDS ***
+letafion posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [8h Ad]
+*** PRE-FLOP *** 
+Bluewayz folds
+BnB_BGL raises 120 to 180
+rimkdu44 folds
+Eclips49 folds
+mc34 calls 180
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+*** FLOP *** [Qc 3h Qd]
+BnB_BGL checks
+mc34 checks
+*** TURN *** [Qc 3h Qd][Js]
+BnB_BGL bets 60
+mc34 calls 60
+*** RIVER *** [Qc 3h Qd Js][2s]
+BnB_BGL bets 282 and is all-in
+mc34 calls 282
+*** SHOW DOWN ***
+mc34 shows [9s Ah] (One pair : Queens)
+BnB_BGL shows [Kh Qs] (Trips of Queens)
+BnB_BGL collected 1134 from pot
+*** SUMMARY ***
+Total pot 1134 | No rake
+Board: [Qc 3h Qd Js 2s]
+Seat 2: mc34 showed [9s Ah] and lost with One pair : Queens
+Seat 8: BnB_BGL showed [Kh Qs] and won 1134 with Trips of Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #432426605965475841-19-1416173714 - Holdem no limit (30/60) - 2014/11/16 21:35:14 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Eclips49 (1182)
+Seat 2: mc34 (2043)
+Seat 3: fullboxon59 (1010)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1340)
+Seat 7: Bluewayz (2130)
+Seat 8: BnB_BGL (1134)
+Seat 9: rimkdu44 (3185)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+Bluewayz posts big blind 60
+Dealt to sabre_laser [2c 7h]
+*** PRE-FLOP *** 
+BnB_BGL calls 60
+rimkdu44 folds
+Eclips49 folds
+mc34 raises 390 to 450
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+mc34 shows [4s 4c] (One pair : 4)
+mc34 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 2: mc34 showed [4s 4c] and won 600 with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #432426605965475841-20-1416173760 - Holdem no limit (30/60) - 2014/11/16 21:36:00 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (1182)
+Seat 2: mc34 (2193)
+Seat 3: fullboxon59 (1010)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1310)
+Seat 7: Bluewayz (2070)
+Seat 8: BnB_BGL (1074)
+Seat 9: rimkdu44 (3185)
+*** ANTE/BLINDS ***
+Bluewayz posts small blind 30
+BnB_BGL posts big blind 60
+Dealt to sabre_laser [Jh Kc]
+*** PRE-FLOP *** 
+rimkdu44 folds
+Eclips49 folds
+mc34 calls 60
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser raises 90 to 150
+Bluewayz raises 1920 to 2070 and is all-in
+BnB_BGL folds
+mc34 folds
+sabre_laser folds
+Bluewayz collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Seat 7: Bluewayz (small blind) won 2340
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #432426605965475841-21-1416173806 - Holdem no limit (30/60) - 2014/11/16 21:36:46 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Eclips49 (1182)
+Seat 2: mc34 (2133)
+Seat 3: fullboxon59 (1010)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1160)
+Seat 7: Bluewayz (2340)
+Seat 8: BnB_BGL (1014)
+Seat 9: rimkdu44 (3185)
+*** ANTE/BLINDS ***
+BnB_BGL posts small blind 30
+rimkdu44 posts big blind 60
+Dealt to sabre_laser [5h 7d]
+*** PRE-FLOP *** 
+Eclips49 folds
+mc34 raises 60 to 120
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+rimkdu44 calls 60
+*** FLOP *** [Th Js Ks]
+rimkdu44 checks
+mc34 bets 60
+rimkdu44 calls 60
+*** TURN *** [Th Js Ks][8s]
+rimkdu44 checks
+mc34 bets 60
+rimkdu44 calls 60
+*** RIVER *** [Th Js Ks 8s][6d]
+rimkdu44 checks
+mc34 checks
+*** SHOW DOWN ***
+rimkdu44 shows [Ah 2d] (High card : Ace)
+mc34 shows [Tc 9s] (One pair : Tens)
+mc34 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Th Js Ks 8s 6d]
+Seat 2: mc34 showed [Tc 9s] and won 510 with One pair : Tens
+Seat 9: rimkdu44 (big blind) showed [Ah 2d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #432426605965475841-22-1416173923 - Holdem no limit (40/80) - 2014/11/16 21:38:43 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Eclips49 (1182)
+Seat 2: mc34 (2403)
+Seat 3: fullboxon59 (1010)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1160)
+Seat 7: Bluewayz (2340)
+Seat 8: BnB_BGL (984)
+Seat 9: rimkdu44 (2945)
+*** ANTE/BLINDS ***
+rimkdu44 posts small blind 40
+Eclips49 posts big blind 80
+Dealt to sabre_laser [3d Qc]
+*** PRE-FLOP *** 
+mc34 folds
+fullboxon59 calls 80
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz calls 80
+BnB_BGL raises 80 to 160
+rimkdu44 folds
+Eclips49 folds
+fullboxon59 calls 80
+Bluewayz calls 80
+*** FLOP *** [8c Ts Kh]
+fullboxon59 checks
+Bluewayz checks
+BnB_BGL bets 80
+fullboxon59 calls 80
+Bluewayz calls 80
+*** TURN *** [8c Ts Kh][Ah]
+fullboxon59 checks
+Bluewayz checks
+BnB_BGL bets 120
+fullboxon59 folds
+Bluewayz calls 120
+*** RIVER *** [8c Ts Kh Ah][8h]
+Bluewayz checks
+BnB_BGL bets 160
+Bluewayz calls 160
+*** SHOW DOWN ***
+Bluewayz shows [As Jd] (Two pairs : Aces and 8)
+BnB_BGL shows [Ad Qh] (Two pairs : Aces and 8)
+BnB_BGL collected 700 from pot
+Bluewayz collected 700 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [8c Ts Kh Ah 8h]
+Seat 7: Bluewayz showed [As Jd] and won 700 with Two pairs : Aces and 8
+Seat 8: BnB_BGL (button) showed [Ad Qh] and won 700 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #432426605965475841-23-1416174005 - Holdem no limit (40/80) - 2014/11/16 21:40:05 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Eclips49 (1102)
+Seat 2: mc34 (2403)
+Seat 3: fullboxon59 (770)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1160)
+Seat 7: Bluewayz (2520)
+Seat 8: BnB_BGL (1164)
+Seat 9: rimkdu44 (2905)
+*** ANTE/BLINDS ***
+Eclips49 posts small blind 40
+mc34 posts big blind 80
+Dealt to sabre_laser [Qc Kc]
+*** PRE-FLOP *** 
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser calls 80
+Bluewayz folds
+BnB_BGL calls 80
+rimkdu44 folds
+Eclips49 calls 40
+mc34 checks
+*** FLOP *** [Js 6d Ah]
+Eclips49 checks
+mc34 checks
+sabre_laser checks
+BnB_BGL checks
+*** TURN *** [Js 6d Ah][Ac]
+Eclips49 checks
+mc34 bets 80
+sabre_laser calls 80
+BnB_BGL folds
+Eclips49 folds
+*** RIVER *** [Js 6d Ah Ac][7h]
+mc34 bets 80
+sabre_laser folds
+mc34 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Js 6d Ah Ac 7h]
+Seat 2: mc34 (big blind) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #432426605965475841-24-1416174067 - Holdem no limit (40/80) - 2014/11/16 21:41:07 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Eclips49 (1022)
+Seat 2: mc34 (2723)
+Seat 3: fullboxon59 (770)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1000)
+Seat 7: Bluewayz (2520)
+Seat 8: BnB_BGL (1084)
+Seat 9: rimkdu44 (2905)
+*** ANTE/BLINDS ***
+mc34 posts small blind 40
+fullboxon59 posts big blind 80
+Dealt to sabre_laser [6h 7c]
+*** PRE-FLOP *** 
+Crisssis folds
+letafion raises 120 to 200
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+letafion collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 5: letafion won 320
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #432426605965475841-25-1416174099 - Holdem no limit (40/80) - 2014/11/16 21:41:39 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Eclips49 (1022)
+Seat 2: mc34 (2683)
+Seat 3: fullboxon59 (690)
+Seat 4: Crisssis (1551)
+Seat 5: letafion (1545)
+Seat 6: sabre_laser (1000)
+Seat 7: Bluewayz (2520)
+Seat 8: BnB_BGL (1084)
+Seat 9: rimkdu44 (2905)
+*** ANTE/BLINDS ***
+fullboxon59 posts small blind 40
+Crisssis posts big blind 80
+Dealt to sabre_laser [7h 3s]
+*** PRE-FLOP *** 
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+rimkdu44 folds
+Eclips49 folds
+mc34 calls 80
+fullboxon59 raises 610 to 690 and is all-in
+Crisssis folds
+mc34 calls 610
+*** FLOP *** [Jh Kh 3c]
+*** TURN *** [Jh Kh 3c][Th]
+*** RIVER *** [Jh Kh 3c Th][9h]
+*** SHOW DOWN ***
+mc34 shows [Qs Qc] (Straight King high)
+fullboxon59 shows [Jc Qh] (Straight flush King)
+fullboxon59 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [Jh Kh 3c Th 9h]
+Seat 2: mc34 (button) showed [Qs Qc] and lost with Straight King high
+Seat 3: fullboxon59 (small blind) showed [Jc Qh] and won 1460 with Straight flush King
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #432426605965475841-26-1416174154 - Holdem no limit (40/80) - 2014/11/16 21:42:34 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Eclips49 (1022)
+Seat 2: mc34 (1993)
+Seat 3: fullboxon59 (1460)
+Seat 4: Crisssis (1471)
+Seat 5: letafion (1545)
+Seat 6: sabre_laser (1000)
+Seat 7: Bluewayz (2520)
+Seat 8: BnB_BGL (1084)
+Seat 9: rimkdu44 (2905)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 40
+letafion posts big blind 80
+Dealt to sabre_laser [7s Ad]
+*** PRE-FLOP *** 
+sabre_laser raises 80 to 160
+Bluewayz folds
+BnB_BGL folds
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: sabre_laser won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #432426605965475841-27-1416174185 - Holdem no limit (40/80) - 2014/11/16 21:43:05 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Eclips49 (1022)
+Seat 2: mc34 (1993)
+Seat 3: fullboxon59 (1460)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1465)
+Seat 6: sabre_laser (1120)
+Seat 7: Bluewayz (2520)
+Seat 8: BnB_BGL (1084)
+Seat 9: rimkdu44 (2905)
+*** ANTE/BLINDS ***
+letafion posts small blind 40
+sabre_laser posts big blind 80
+Dealt to sabre_laser [3c Qh]
+*** PRE-FLOP *** 
+Bluewayz folds
+BnB_BGL calls 80
+rimkdu44 raises 160 to 240
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+BnB_BGL calls 160
+*** FLOP *** [8c 2s Qs]
+BnB_BGL checks
+rimkdu44 bets 300
+BnB_BGL folds
+rimkdu44 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c 2s Qs]
+Seat 9: rimkdu44 won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #432426605965475841-28-1416174237 - Holdem no limit (40/80) - 2014/11/16 21:43:57 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Eclips49 (1022)
+Seat 2: mc34 (1993)
+Seat 3: fullboxon59 (1460)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1040)
+Seat 7: Bluewayz (2520)
+Seat 8: BnB_BGL (844)
+Seat 9: rimkdu44 (3265)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Bluewayz posts big blind 80
+Dealt to sabre_laser [4d 8h]
+*** PRE-FLOP *** 
+BnB_BGL calls 80
+rimkdu44 folds
+Eclips49 raises 100 to 180
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+Eclips49 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 1: Eclips49 won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #432426605965475841-29-1416174281 - Holdem no limit (60/120) - 2014/11/16 21:44:41 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (1222)
+Seat 2: mc34 (1993)
+Seat 3: fullboxon59 (1460)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1000)
+Seat 7: Bluewayz (2440)
+Seat 8: BnB_BGL (764)
+Seat 9: rimkdu44 (3265)
+*** ANTE/BLINDS ***
+Bluewayz posts small blind 60
+BnB_BGL posts big blind 120
+Dealt to sabre_laser [Js Ad]
+*** PRE-FLOP *** 
+rimkdu44 folds
+Eclips49 folds
+mc34 raises 480 to 600
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL folds
+mc34 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 2: mc34 won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #432426605965475841-30-1416174324 - Holdem no limit (60/120) - 2014/11/16 21:45:24 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Eclips49 (1222)
+Seat 2: mc34 (2173)
+Seat 3: fullboxon59 (1460)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (1000)
+Seat 7: Bluewayz (2380)
+Seat 8: BnB_BGL (644)
+Seat 9: rimkdu44 (3265)
+*** ANTE/BLINDS ***
+BnB_BGL posts small blind 60
+rimkdu44 posts big blind 120
+Dealt to sabre_laser [Kh Td]
+*** PRE-FLOP *** 
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser raises 120 to 240
+Bluewayz folds
+BnB_BGL folds
+rimkdu44 calls 120
+*** FLOP *** [Ac 4d 9s]
+rimkdu44 checks
+sabre_laser bets 360
+rimkdu44 calls 360
+*** TURN *** [Ac 4d 9s][Tc]
+rimkdu44 checks
+sabre_laser bets 400 and is all-in
+rimkdu44 calls 400
+*** RIVER *** [Ac 4d 9s Tc][8s]
+*** SHOW DOWN ***
+rimkdu44 shows [2c 3c] (High card : Ace)
+sabre_laser shows [Kh Td] (One pair : Tens)
+sabre_laser collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Board: [Ac 4d 9s Tc 8s]
+Seat 6: sabre_laser showed [Kh Td] and won 2060 with One pair : Tens
+Seat 9: rimkdu44 (big blind) showed [2c 3c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #432426605965475841-31-1416174436 - Holdem no limit (60/120) - 2014/11/16 21:47:16 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Eclips49 (1222)
+Seat 2: mc34 (2173)
+Seat 3: fullboxon59 (1460)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (2060)
+Seat 7: Bluewayz (2380)
+Seat 8: BnB_BGL (584)
+Seat 9: rimkdu44 (2265)
+*** ANTE/BLINDS ***
+rimkdu44 posts small blind 60
+Eclips49 posts big blind 120
+Dealt to sabre_laser [6h As]
+*** PRE-FLOP *** 
+mc34 calls 120
+fullboxon59 calls 120
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+BnB_BGL raises 464 to 584 and is all-in
+rimkdu44 folds
+Eclips49 folds
+mc34 calls 464
+fullboxon59 raises 876 to 1460 and is all-in
+mc34 folds
+*** FLOP *** [5d Qc Qd]
+*** TURN *** [5d Qc Qd][Ad]
+*** RIVER *** [5d Qc Qd Ad][7h]
+*** SHOW DOWN ***
+BnB_BGL shows [Jh Tc] (One pair : Queens)
+fullboxon59 shows [5s 5c] (Full of 5 and Queens)
+fullboxon59 collected 2808 from pot
+*** SUMMARY ***
+Total pot 2808 | No rake
+Board: [5d Qc Qd Ad 7h]
+Seat 3: fullboxon59 showed [5s 5c] and won 2808 with Full of 5 and Queens
+Seat 8: BnB_BGL (button) showed [Jh Tc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #432426605965475841-32-1416174539 - Holdem no limit (60/120) - 2014/11/16 21:48:59 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Eclips49 (1102)
+Seat 2: mc34 (1589)
+Seat 3: fullboxon59 (2808)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (2060)
+Seat 7: Bluewayz (2380)
+Seat 9: rimkdu44 (2205)
+*** ANTE/BLINDS ***
+Eclips49 posts small blind 60
+mc34 posts big blind 120
+Dealt to sabre_laser [Qd 7s]
+*** PRE-FLOP *** 
+fullboxon59 raises 2688 to 2808 and is all-in
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+rimkdu44 folds
+Eclips49 calls 1042 and is all-in
+mc34 folds
+*** FLOP *** [Ks 2c Qh]
+*** TURN *** [Ks 2c Qh][4c]
+*** RIVER *** [Ks 2c Qh 4c][3d]
+*** SHOW DOWN ***
+Eclips49 shows [Kc As] (One pair : Kings)
+fullboxon59 shows [Kd Ah] (One pair : Kings)
+fullboxon59 collected 2868 from side pot 1
+Eclips49 collected 1162 from main pot
+*** SUMMARY ***
+Total pot 4030 | No rake
+Board: [Ks 2c Qh 4c 3d]
+Seat 1: Eclips49 (small blind) showed [Kc As] and won 1162 with One pair : Kings
+Seat 3: fullboxon59 showed [Kd Ah] and won 2868 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #432426605965475841-33-1416174576 - Holdem no limit (60/120) - 2014/11/16 21:49:36 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Eclips49 (1162)
+Seat 2: mc34 (1469)
+Seat 3: fullboxon59 (2868)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (2060)
+Seat 7: Bluewayz (2380)
+Seat 9: rimkdu44 (2205)
+*** ANTE/BLINDS ***
+mc34 posts small blind 60
+fullboxon59 posts big blind 120
+Dealt to sabre_laser [Kc 4c]
+*** PRE-FLOP *** 
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+rimkdu44 calls 120
+Eclips49 folds
+mc34 calls 60
+fullboxon59 checks
+*** FLOP *** [6s 8c Qc]
+mc34 checks
+fullboxon59 checks
+rimkdu44 bets 180
+mc34 folds
+fullboxon59 calls 180
+*** TURN *** [6s 8c Qc][Qs]
+fullboxon59 checks
+rimkdu44 checks
+*** RIVER *** [6s 8c Qc Qs][5s]
+fullboxon59 checks
+rimkdu44 checks
+*** SHOW DOWN ***
+fullboxon59 shows [3c 5c] (Two pairs : Queens and 5)
+rimkdu44 shows [7h 6d] (Two pairs : Queens and 6)
+rimkdu44 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6s 8c Qc Qs 5s]
+Seat 3: fullboxon59 (big blind) showed [3c 5c] and lost with Two pairs : Queens and 5
+Seat 9: rimkdu44 showed [7h 6d] and won 720 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #432426605965475841-34-1416174664 - Holdem no limit (80/160) - 2014/11/16 21:51:04 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Eclips49 (1162)
+Seat 2: mc34 (1349)
+Seat 3: fullboxon59 (2568)
+Seat 4: Crisssis (1431)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (2060)
+Seat 7: Bluewayz (2380)
+Seat 9: rimkdu44 (2625)
+*** ANTE/BLINDS ***
+fullboxon59 posts small blind 80
+Crisssis posts big blind 160
+Dealt to sabre_laser [7d 4d]
+*** PRE-FLOP *** 
+letafion folds
+sabre_laser folds
+Bluewayz folds
+rimkdu44 folds
+Eclips49 folds
+mc34 raises 160 to 320
+fullboxon59 folds
+Crisssis folds
+mc34 shows [As Ts] (High card : Ace)
+mc34 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 2: mc34 (button) showed [As Ts] and won 560 with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #432426605965475841-35-1416174721 - Holdem no limit (80/160) - 2014/11/16 21:52:01 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Eclips49 (1162)
+Seat 2: mc34 (1589)
+Seat 3: fullboxon59 (2488)
+Seat 4: Crisssis (1271)
+Seat 5: letafion (1425)
+Seat 6: sabre_laser (2060)
+Seat 7: Bluewayz (2380)
+Seat 9: rimkdu44 (2625)
+*** ANTE/BLINDS ***
+Crisssis posts small blind 80
+letafion posts big blind 160
+Dealt to sabre_laser [Ad 5s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bluewayz folds
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 calls 160
+Crisssis folds
+letafion checks
+*** FLOP *** [7c 2h 6s]
+letafion bets 1265 and is all-in
+fullboxon59 folds
+letafion collected 1665 from pot
+*** SUMMARY ***
+Total pot 1665 | No rake
+Board: [7c 2h 6s]
+Seat 5: letafion (big blind) won 1665
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #432426605965475841-36-1416174758 - Holdem no limit (80/160) - 2014/11/16 21:52:38 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Eclips49 (1162)
+Seat 2: mc34 (1589)
+Seat 3: fullboxon59 (2328)
+Seat 4: Crisssis (1191)
+Seat 5: letafion (1665)
+Seat 6: sabre_laser (2060)
+Seat 7: Bluewayz (2380)
+Seat 9: rimkdu44 (2625)
+*** ANTE/BLINDS ***
+letafion posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [3d Th]
+*** PRE-FLOP *** 
+Bluewayz folds
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 raises 400 to 560
+Crisssis folds
+letafion folds
+sabre_laser folds
+fullboxon59 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 3: fullboxon59 won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #432426605965475841-37-1416174792 - Holdem no limit (80/160) - 2014/11/16 21:53:12 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Eclips49 (1162)
+Seat 2: mc34 (1589)
+Seat 3: fullboxon59 (2568)
+Seat 4: Crisssis (1191)
+Seat 5: letafion (1585)
+Seat 6: sabre_laser (1900)
+Seat 7: Bluewayz (2380)
+Seat 9: rimkdu44 (2625)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+Bluewayz posts big blind 160
+Dealt to sabre_laser [Js 3c]
+*** PRE-FLOP *** 
+rimkdu44 folds
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser calls 80
+Bluewayz checks
+*** FLOP *** [3s 8s 3d]
+sabre_laser checks
+Bluewayz bets 160
+sabre_laser calls 160
+*** TURN *** [3s 8s 3d][5s]
+sabre_laser bets 320
+Bluewayz folds
+sabre_laser collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [3s 8s 3d 5s]
+Seat 6: sabre_laser (small blind) won 960
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #432426605965475841-38-1416174849 - Holdem no limit (80/160) - 2014/11/16 21:54:09 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (1162)
+Seat 2: mc34 (1589)
+Seat 3: fullboxon59 (2568)
+Seat 4: Crisssis (1191)
+Seat 5: letafion (1585)
+Seat 6: sabre_laser (2220)
+Seat 7: Bluewayz (2060)
+Seat 9: rimkdu44 (2625)
+*** ANTE/BLINDS ***
+Bluewayz posts small blind 80
+rimkdu44 posts big blind 160
+Dealt to sabre_laser [Td 3s]
+*** PRE-FLOP *** 
+Eclips49 folds
+mc34 calls 160
+fullboxon59 raises 2408 to 2568 and is all-in
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+rimkdu44 calls 2408
+mc34 folds
+*** FLOP *** [5s 9d 6s]
+*** TURN *** [5s 9d 6s][3h]
+*** RIVER *** [5s 9d 6s 3h][7d]
+*** SHOW DOWN ***
+rimkdu44 shows [Ah Kd] (High card : Ace)
+fullboxon59 shows [Ks Kc] (One pair : Kings)
+fullboxon59 collected 5376 from pot
+*** SUMMARY ***
+Total pot 5376 | No rake
+Board: [5s 9d 6s 3h 7d]
+Seat 3: fullboxon59 showed [Ks Kc] and won 5376 with One pair : Kings
+Seat 9: rimkdu44 (big blind) showed [Ah Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #432426605965475841-39-1416174904 - Holdem no limit (80/160) - 2014/11/16 21:55:04 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Eclips49 (1162)
+Seat 2: mc34 (1429)
+Seat 3: fullboxon59 (5376)
+Seat 4: Crisssis (1191)
+Seat 5: letafion (1585)
+Seat 6: sabre_laser (2220)
+Seat 7: Bluewayz (1980)
+Seat 9: rimkdu44 (57)
+*** ANTE/BLINDS ***
+rimkdu44 posts small blind 57 and is all-in
+Eclips49 posts big blind 160
+Dealt to sabre_laser [6d 2d]
+*** PRE-FLOP *** 
+mc34 calls 160
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 checks
+*** FLOP *** [9h Kh 4h]
+Eclips49 bets 160
+mc34 calls 160
+*** TURN *** [9h Kh 4h][Ks]
+Eclips49 bets 160
+mc34 calls 160
+*** RIVER *** [9h Kh 4h Ks][5s]
+Eclips49 bets 160
+mc34 calls 160
+*** SHOW DOWN ***
+mc34 shows [9s Jd] (Two pairs : Kings and 9)
+rimkdu44 shows [4d Js] (Two pairs : Kings and 4)
+Eclips49 shows [Kc 6c] (Trips of Kings)
+Eclips49 collected 1337 from pot
+*** SUMMARY ***
+Total pot 1337 | No rake
+Board: [9h Kh 4h Ks 5s]
+Seat 1: Eclips49 (big blind) showed [Kc 6c] and won 1337 with Trips of Kings
+Seat 2: mc34 showed [9s Jd] and lost with Two pairs : Kings and 9
+Seat 9: rimkdu44 (small blind) showed [4d Js] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #432426605965475841-40-1416174934 - Holdem no limit (80/160) - 2014/11/16 21:55:34 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Eclips49 (1859)
+Seat 2: mc34 (789)
+Seat 3: fullboxon59 (5376)
+Seat 4: Crisssis (1191)
+Seat 5: letafion (1585)
+Seat 6: sabre_laser (2220)
+Seat 7: Bluewayz (1980)
+*** ANTE/BLINDS ***
+Eclips49 posts small blind 80
+mc34 posts big blind 160
+Dealt to sabre_laser [Td 4d]
+*** PRE-FLOP *** 
+fullboxon59 calls 160
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+mc34 checks
+*** FLOP *** [Kd 9s 6c]
+mc34 checks
+fullboxon59 bets 400
+mc34 folds
+fullboxon59 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Kd 9s 6c]
+Seat 3: fullboxon59 won 800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-41-1416174980 - Holdem no limit (10/100/200) - 2014/11/16 21:56:20 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Eclips49 (1779)
+Seat 2: mc34 (629)
+Seat 3: fullboxon59 (5616)
+Seat 4: Crisssis (1191)
+Seat 5: letafion (1585)
+Seat 6: sabre_laser (2220)
+Seat 7: Bluewayz (1980)
+*** ANTE/BLINDS ***
+mc34 posts ante 10
+fullboxon59 posts ante 10
+Eclips49 posts ante 10
+Crisssis posts ante 10
+letafion posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+mc34 posts small blind 100
+fullboxon59 posts big blind 200
+Dealt to sabre_laser [8d 4c]
+*** PRE-FLOP *** 
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+mc34 calls 100
+fullboxon59 checks
+*** FLOP *** [Jc Kd Qd]
+mc34 checks
+fullboxon59 checks
+*** TURN *** [Jc Kd Qd][Jh]
+mc34 checks
+fullboxon59 checks
+*** RIVER *** [Jc Kd Qd Jh][2c]
+mc34 bets 200
+fullboxon59 folds
+mc34 shows [Kc Jd] (Full of Jacks and Kings)
+mc34 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Jc Kd Qd Jh 2c]
+Seat 2: mc34 (small blind) showed [Kc Jd] and won 670 with Full of Jacks and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-42-1416175032 - Holdem no limit (10/100/200) - 2014/11/16 21:57:12 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Eclips49 (1769)
+Seat 2: mc34 (889)
+Seat 3: fullboxon59 (5406)
+Seat 4: Crisssis (1181)
+Seat 5: letafion (1575)
+Seat 6: sabre_laser (2210)
+Seat 7: Bluewayz (1970)
+*** ANTE/BLINDS ***
+fullboxon59 posts ante 10
+Crisssis posts ante 10
+Eclips49 posts ante 10
+mc34 posts ante 10
+letafion posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+fullboxon59 posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [7c Kc]
+*** PRE-FLOP *** 
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+mc34 folds
+fullboxon59 raises 400 to 600
+Crisssis folds
+fullboxon59 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 3: fullboxon59 (small blind) won 870
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-43-1416175075 - Holdem no limit (10/100/200) - 2014/11/16 21:57:55 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Eclips49 (1759)
+Seat 2: mc34 (879)
+Seat 3: fullboxon59 (5666)
+Seat 4: Crisssis (971)
+Seat 5: letafion (1565)
+Seat 6: sabre_laser (2200)
+Seat 7: Bluewayz (1960)
+*** ANTE/BLINDS ***
+Crisssis posts ante 10
+letafion posts ante 10
+Eclips49 posts ante 10
+mc34 posts ante 10
+fullboxon59 posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+Crisssis posts small blind 100
+letafion posts big blind 200
+Dealt to sabre_laser [As 3h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis folds
+letafion collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 5: letafion (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-44-1416175106 - Holdem no limit (10/100/200) - 2014/11/16 21:58:26 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Eclips49 (1749)
+Seat 2: mc34 (869)
+Seat 3: fullboxon59 (5656)
+Seat 4: Crisssis (861)
+Seat 5: letafion (1725)
+Seat 6: sabre_laser (2190)
+Seat 7: Bluewayz (1950)
+*** ANTE/BLINDS ***
+letafion posts ante 10
+sabre_laser posts ante 10
+Eclips49 posts ante 10
+mc34 posts ante 10
+fullboxon59 posts ante 10
+Crisssis posts ante 10
+Bluewayz posts ante 10
+letafion posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [4c 5c]
+*** PRE-FLOP *** 
+Bluewayz folds
+Eclips49 raises 250 to 450
+mc34 folds
+fullboxon59 folds
+Crisssis raises 401 to 851 and is all-in
+letafion folds
+sabre_laser folds
+Eclips49 calls 401
+*** FLOP *** [Tc 6d 2s]
+*** TURN *** [Tc 6d 2s][Ks]
+*** RIVER *** [Tc 6d 2s Ks][8d]
+*** SHOW DOWN ***
+Eclips49 shows [Qs Qh] (One pair : Queens)
+Crisssis shows [Kd Jc] (One pair : Kings)
+Crisssis collected 2072 from pot
+*** SUMMARY ***
+Total pot 2072 | No rake
+Board: [Tc 6d 2s Ks 8d]
+Seat 1: Eclips49 showed [Qs Qh] and lost with One pair : Queens
+Seat 4: Crisssis (button) showed [Kd Jc] and won 2072 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-45-1416175149 - Holdem no limit (10/100/200) - 2014/11/16 21:59:09 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Eclips49 (888)
+Seat 2: mc34 (859)
+Seat 3: fullboxon59 (5646)
+Seat 4: Crisssis (2072)
+Seat 5: letafion (1615)
+Seat 6: sabre_laser (1980)
+Seat 7: Bluewayz (1940)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+Eclips49 posts ante 10
+mc34 posts ante 10
+fullboxon59 posts ante 10
+Crisssis posts ante 10
+letafion posts ante 10
+sabre_laser posts small blind 100
+Bluewayz posts big blind 200
+Dealt to sabre_laser [5h Ac]
+*** PRE-FLOP *** 
+Eclips49 folds
+mc34 calls 200
+fullboxon59 folds
+Crisssis calls 200
+letafion folds
+sabre_laser calls 100
+Bluewayz checks
+*** FLOP *** [8s 5s 7c]
+sabre_laser bets 200
+Bluewayz folds
+mc34 folds
+Crisssis raises 1662 to 1862 and is all-in
+sabre_laser folds
+Crisssis collected 2932 from pot
+*** SUMMARY ***
+Total pot 2932 | No rake
+Board: [8s 5s 7c]
+Seat 4: Crisssis won 2932
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-46-1416175206 - Holdem no limit (10/100/200) - 2014/11/16 22:00:06 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (878)
+Seat 2: mc34 (649)
+Seat 3: fullboxon59 (5636)
+Seat 4: Crisssis (2932)
+Seat 5: letafion (1605)
+Seat 6: sabre_laser (1570)
+Seat 7: Bluewayz (1730)
+*** ANTE/BLINDS ***
+Bluewayz posts ante 10
+Eclips49 posts ante 10
+mc34 posts ante 10
+fullboxon59 posts ante 10
+Crisssis posts ante 10
+letafion posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts small blind 100
+Eclips49 posts big blind 200
+Dealt to sabre_laser [3s 6h]
+*** PRE-FLOP *** 
+mc34 folds
+fullboxon59 folds
+Crisssis calls 200
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 checks
+*** FLOP *** [3d Kc 7d]
+Eclips49 checks
+Crisssis bets 200
+Eclips49 folds
+Crisssis collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [3d Kc 7d]
+Seat 4: Crisssis won 770
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-47-1416175238 - Holdem no limit (10/100/200) - 2014/11/16 22:00:38 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Eclips49 (668)
+Seat 2: mc34 (639)
+Seat 3: fullboxon59 (5626)
+Seat 4: Crisssis (3292)
+Seat 5: letafion (1595)
+Seat 6: sabre_laser (1560)
+Seat 7: Bluewayz (1620)
+*** ANTE/BLINDS ***
+Eclips49 posts ante 10
+mc34 posts ante 10
+fullboxon59 posts ante 10
+Crisssis posts ante 10
+letafion posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+Eclips49 posts small blind 100
+mc34 posts big blind 200
+Dealt to sabre_laser [Qc Kc]
+*** PRE-FLOP *** 
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser raises 1350 to 1550 and is all-in
+Bluewayz folds
+Eclips49 folds
+mc34 folds
+sabre_laser collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Seat 6: sabre_laser won 1920
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-48-1416175262 - Holdem no limit (10/100/200) - 2014/11/16 22:01:02 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Eclips49 (558)
+Seat 2: mc34 (429)
+Seat 3: fullboxon59 (5616)
+Seat 4: Crisssis (3282)
+Seat 5: letafion (1585)
+Seat 6: sabre_laser (1920)
+Seat 7: Bluewayz (1610)
+*** ANTE/BLINDS ***
+mc34 posts ante 10
+fullboxon59 posts ante 10
+Eclips49 posts ante 10
+Crisssis posts ante 10
+letafion posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+mc34 posts small blind 100
+fullboxon59 posts big blind 200
+Dealt to sabre_laser [Kh Ad]
+*** PRE-FLOP *** 
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 raises 348 to 548 and is all-in
+mc34 folds
+fullboxon59 folds
+Eclips49 collected 918 from pot
+*** SUMMARY ***
+Total pot 918 | No rake
+Seat 1: Eclips49 (button) won 918
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-49-1416175291 - Holdem no limit (10/100/200) - 2014/11/16 22:01:31 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Eclips49 (918)
+Seat 2: mc34 (319)
+Seat 3: fullboxon59 (5406)
+Seat 4: Crisssis (3272)
+Seat 5: letafion (1575)
+Seat 6: sabre_laser (1910)
+Seat 7: Bluewayz (1600)
+*** ANTE/BLINDS ***
+fullboxon59 posts ante 10
+Crisssis posts ante 10
+Eclips49 posts ante 10
+mc34 posts ante 10
+letafion posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+fullboxon59 posts small blind 100
+Crisssis posts big blind 200
+Dealt to sabre_laser [9c As]
+*** PRE-FLOP *** 
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+mc34 folds
+fullboxon59 folds
+Crisssis collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 4: Crisssis (big blind) won 370
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #432426605965475841-50-1416175314 - Holdem no limit (10/100/200) - 2014/11/16 22:01:54 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Eclips49 (908)
+Seat 2: mc34 (309)
+Seat 3: fullboxon59 (5296)
+Seat 4: Crisssis (3432)
+Seat 5: letafion (1565)
+Seat 6: sabre_laser (1900)
+Seat 7: Bluewayz (1590)
+*** ANTE/BLINDS ***
+Crisssis posts ante 10
+letafion posts ante 10
+Eclips49 posts ante 10
+mc34 posts ante 10
+fullboxon59 posts ante 10
+sabre_laser posts ante 10
+Bluewayz posts ante 10
+Crisssis posts small blind 100
+letafion posts big blind 200
+Dealt to sabre_laser [Kh Kc]
+*** PRE-FLOP *** 
+sabre_laser raises 200 to 400
+Bluewayz folds
+Eclips49 folds
+mc34 calls 299 and is all-in
+fullboxon59 folds
+Crisssis calls 300
+letafion calls 200
+*** FLOP *** [As 2s 3d]
+Crisssis checks
+letafion checks
+sabre_laser checks
+*** TURN *** [As 2s 3d][4h]
+Crisssis bets 200
+letafion folds
+sabre_laser folds
+*** RIVER *** [As 2s 3d 4h][7d]
+*** SHOW DOWN ***
+mc34 shows [Ts Qd] (High card : Ace)
+Crisssis shows [Ah 4c] (Two pairs : Aces and 4)
+Crisssis collected 1769 from pot
+*** SUMMARY ***
+Total pot 1769 | No rake
+Board: [As 2s 3d 4h 7d]
+Seat 2: mc34 showed [Ts Qd] and lost with High card : Ace
+Seat 4: Crisssis (small blind) showed [Ah 4c] and won 1769 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-51-1416175371 - Holdem no limit (20/150/300) - 2014/11/16 22:02:51 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Eclips49 (898)
+Seat 3: fullboxon59 (5286)
+Seat 4: Crisssis (4591)
+Seat 5: letafion (1155)
+Seat 6: sabre_laser (1490)
+Seat 7: Bluewayz (1580)
+*** ANTE/BLINDS ***
+letafion posts ante 20
+sabre_laser posts ante 20
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+Bluewayz posts ante 20
+letafion posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [7h 8s]
+*** PRE-FLOP *** 
+Bluewayz raises 300 to 600
+Eclips49 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 7: Bluewayz won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-52-1416175391 - Holdem no limit (20/150/300) - 2014/11/16 22:03:11 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Eclips49 (878)
+Seat 3: fullboxon59 (5266)
+Seat 4: Crisssis (4571)
+Seat 5: letafion (985)
+Seat 6: sabre_laser (1170)
+Seat 7: Bluewayz (2130)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Bluewayz posts ante 20
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+letafion posts ante 20
+sabre_laser posts small blind 150
+Bluewayz posts big blind 300
+Dealt to sabre_laser [2s 8c]
+*** PRE-FLOP *** 
+Eclips49 folds
+fullboxon59 folds
+Crisssis calls 300
+letafion folds
+sabre_laser folds
+Bluewayz checks
+*** FLOP *** [Kd 9s 9c]
+Bluewayz checks
+Crisssis checks
+*** TURN *** [Kd 9s 9c][Jc]
+Bluewayz checks
+Crisssis checks
+*** RIVER *** [Kd 9s 9c Jc][8h]
+Bluewayz checks
+Crisssis checks
+*** SHOW DOWN ***
+Crisssis shows [6h 7h] (One pair : 9)
+Bluewayz shows [7d Ac] (One pair : 9)
+Bluewayz collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [Kd 9s 9c Jc 8h]
+Seat 4: Crisssis showed [6h 7h] and lost with One pair : 9
+Seat 7: Bluewayz (big blind) showed [7d Ac] and won 870 with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-53-1416175445 - Holdem no limit (20/150/300) - 2014/11/16 22:04:05 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (858)
+Seat 3: fullboxon59 (5246)
+Seat 4: Crisssis (4251)
+Seat 5: letafion (965)
+Seat 6: sabre_laser (1000)
+Seat 7: Bluewayz (2680)
+*** ANTE/BLINDS ***
+Bluewayz posts ante 20
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+letafion posts ante 20
+sabre_laser posts ante 20
+Bluewayz posts small blind 150
+Eclips49 posts big blind 300
+Dealt to sabre_laser [Qh 8c]
+*** PRE-FLOP *** 
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser raises 680 to 980 and is all-in
+Bluewayz folds
+Eclips49 folds
+sabre_laser collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 6: sabre_laser (button) won 1550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-54-1416175468 - Holdem no limit (20/150/300) - 2014/11/16 22:04:28 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Eclips49 (538)
+Seat 3: fullboxon59 (5226)
+Seat 4: Crisssis (4231)
+Seat 5: letafion (945)
+Seat 6: sabre_laser (1550)
+Seat 7: Bluewayz (2510)
+*** ANTE/BLINDS ***
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+letafion posts ante 20
+sabre_laser posts ante 20
+Bluewayz posts ante 20
+Eclips49 posts small blind 150
+fullboxon59 posts big blind 300
+Dealt to sabre_laser [Tc 6h]
+*** PRE-FLOP *** 
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+fullboxon59 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 3: fullboxon59 (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-55-1416175480 - Holdem no limit (20/150/300) - 2014/11/16 22:04:40 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Eclips49 (368)
+Seat 3: fullboxon59 (5476)
+Seat 4: Crisssis (4211)
+Seat 5: letafion (925)
+Seat 6: sabre_laser (1530)
+Seat 7: Bluewayz (2490)
+*** ANTE/BLINDS ***
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+Eclips49 posts ante 20
+letafion posts ante 20
+sabre_laser posts ante 20
+Bluewayz posts ante 20
+fullboxon59 posts small blind 150
+Crisssis posts big blind 300
+Dealt to sabre_laser [Ac 3c]
+*** PRE-FLOP *** 
+letafion folds
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+fullboxon59 folds
+Crisssis collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 4: Crisssis (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-56-1416175500 - Holdem no limit (20/150/300) - 2014/11/16 22:05:00 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Eclips49 (348)
+Seat 3: fullboxon59 (5306)
+Seat 4: Crisssis (4461)
+Seat 5: letafion (905)
+Seat 6: sabre_laser (1510)
+Seat 7: Bluewayz (2470)
+*** ANTE/BLINDS ***
+Crisssis posts ante 20
+letafion posts ante 20
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+sabre_laser posts ante 20
+Bluewayz posts ante 20
+Crisssis posts small blind 150
+letafion posts big blind 300
+Dealt to sabre_laser [9c 8s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Bluewayz folds
+Eclips49 folds
+fullboxon59 folds
+Crisssis calls 150
+letafion checks
+*** FLOP *** [Ac 4d Qs]
+Crisssis checks
+letafion checks
+*** TURN *** [Ac 4d Qs][5h]
+Crisssis checks
+letafion checks
+*** RIVER *** [Ac 4d Qs 5h][Jd]
+Crisssis checks
+letafion checks
+*** SHOW DOWN ***
+letafion shows [3c 7h] (High card : Ace)
+Crisssis shows [6d Jc] (One pair : Jacks)
+Crisssis collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Ac 4d Qs 5h Jd]
+Seat 4: Crisssis (small blind) showed [6d Jc] and won 720 with One pair : Jacks
+Seat 5: letafion (big blind) showed [3c 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-57-1416175544 - Holdem no limit (20/150/300) - 2014/11/16 22:05:44 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Eclips49 (328)
+Seat 3: fullboxon59 (5286)
+Seat 4: Crisssis (4861)
+Seat 5: letafion (585)
+Seat 6: sabre_laser (1490)
+Seat 7: Bluewayz (2450)
+*** ANTE/BLINDS ***
+letafion posts ante 20
+sabre_laser posts ante 20
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+Bluewayz posts ante 20
+letafion posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [3d 6s]
+*** PRE-FLOP *** 
+Bluewayz folds
+Eclips49 folds
+fullboxon59 folds
+Crisssis raises 300 to 600
+letafion folds
+sabre_laser folds
+Crisssis collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 4: Crisssis (button) won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-58-1416175562 - Holdem no limit (20/150/300) - 2014/11/16 22:06:02 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Eclips49 (308)
+Seat 3: fullboxon59 (5266)
+Seat 4: Crisssis (5411)
+Seat 5: letafion (415)
+Seat 6: sabre_laser (1170)
+Seat 7: Bluewayz (2430)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+Bluewayz posts ante 20
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+letafion posts ante 20
+sabre_laser posts small blind 150
+Bluewayz posts big blind 300
+Dealt to sabre_laser [Jh 8c]
+*** PRE-FLOP *** 
+Eclips49 folds
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser folds
+Bluewayz collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 7: Bluewayz (big blind) won 570
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #432426605965475841-59-1416175581 - Holdem no limit (20/150/300) - 2014/11/16 22:06:21 UTC
+Table: 'Double or Nothing(100682165)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Eclips49 (288)
+Seat 3: fullboxon59 (5246)
+Seat 4: Crisssis (5391)
+Seat 5: letafion (395)
+Seat 6: sabre_laser (1000)
+Seat 7: Bluewayz (2680)
+*** ANTE/BLINDS ***
+Bluewayz posts ante 20
+Eclips49 posts ante 20
+fullboxon59 posts ante 20
+Crisssis posts ante 20
+letafion posts ante 20
+sabre_laser posts ante 20
+Bluewayz posts small blind 150
+Eclips49 posts big blind 268 and is all-in
+Dealt to sabre_laser [4s Jd]
+*** PRE-FLOP *** 
+fullboxon59 folds
+Crisssis folds
+letafion folds
+sabre_laser calls 300
+Bluewayz calls 150
+*** FLOP *** [Ad 7s 8s]
+Bluewayz checks
+sabre_laser checks
+*** TURN *** [Ad 7s 8s][Qs]
+Bluewayz checks
+sabre_laser checks
+*** RIVER *** [Ad 7s 8s Qs][6h]
+Bluewayz bets 600
+sabre_laser folds
+*** SHOW DOWN ***
+Eclips49 shows [4h Kh] (High card : Ace)
+Bluewayz shows [6c 6d] (Trips of 6)
+Bluewayz collected 1588 from pot
+*** SUMMARY ***
+Total pot 1588 | No rake
+Board: [Ad 7s 8s Qs 6h]
+Seat 1: Eclips49 (big blind) showed [4h Kh] and lost with High card : Ace
+Seat 7: Bluewayz (small blind) showed [6c 6d] and won 1588 with Trips of 6
+
+

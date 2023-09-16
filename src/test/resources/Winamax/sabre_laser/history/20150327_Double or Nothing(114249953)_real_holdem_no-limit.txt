@@ -1,0 +1,1323 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #490699811704537089-1-1427479702 - Holdem no limit (10/20) - 2015/03/27 18:08:22 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mercury83140 (1500)
+Seat 2: crazypix (1500)
+Seat 3: Mars_Attack (1500)
+Seat 4: yo2922 (1500)
+Seat 5: G_ZU (1500)
+Seat 6: younespresso (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (1500)
+Seat 10: sammy59 (1500)
+*** ANTE/BLINDS ***
+8675sandra posts small blind 10
+sammy59 posts big blind 20
+Dealt to sabre_laser [6h 3h]
+*** PRE-FLOP *** 
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+yo2922 raises 1480 to 1500 and is all-in
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra calls 1490 and is all-in
+sammy59 folds
+*** FLOP *** [9s 8d Td]
+*** TURN *** [9s 8d Td][Tc]
+*** RIVER *** [9s 8d Td Tc][3d]
+*** SHOW DOWN ***
+yo2922 shows [4c 4d] (Two pairs : Tens and 4)
+8675sandra shows [Ah Ac] (Two pairs : Aces and Tens)
+8675sandra collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [9s 8d Td Tc 3d]
+Seat 4: yo2922 showed [4c 4d] and lost with Two pairs : Tens and 4
+Seat 9: 8675sandra (small blind) showed [Ah Ac] and won 3020 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #490699811704537089-2-1427479757 - Holdem no limit (10/20) - 2015/03/27 18:09:17 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mercury83140 (1500)
+Seat 2: crazypix (1500)
+Seat 3: Mars_Attack (1500)
+Seat 5: G_ZU (1500)
+Seat 6: younespresso (1500)
+Seat 7: sabre_laser (1500)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (3020)
+Seat 10: sammy59 (1480)
+*** ANTE/BLINDS ***
+sammy59 posts small blind 10
+mercury83140 posts big blind 20
+Dealt to sabre_laser [Kd Qc]
+*** PRE-FLOP *** 
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso raises 40 to 60
+sabre_laser folds
+NankerPhelge folds
+8675sandra calls 60
+sammy59 folds
+mercury83140 folds
+*** FLOP *** [Qd Ad Jd]
+younespresso checks
+8675sandra checks
+*** TURN *** [Qd Ad Jd][Qh]
+younespresso checks
+8675sandra checks
+*** RIVER *** [Qd Ad Jd Qh][7h]
+younespresso bets 50
+8675sandra folds
+younespresso collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qd Ad Jd Qh 7h]
+Seat 6: younespresso won 200
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #490699811704537089-3-1427479852 - Holdem no limit (10/20) - 2015/03/27 18:10:52 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #10 is the button
+Seat 1: mercury83140 (1480)
+Seat 2: crazypix (1500)
+Seat 3: Mars_Attack (1500)
+Seat 5: G_ZU (1500)
+Seat 6: younespresso (1590)
+Seat 7: sabre_laser (1500)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (2960)
+Seat 10: sammy59 (1470)
+*** ANTE/BLINDS ***
+mercury83140 posts small blind 10
+crazypix posts big blind 20
+Dealt to sabre_laser [9c 9h]
+*** PRE-FLOP *** 
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser raises 30 to 50
+NankerPhelge folds
+8675sandra calls 50
+sammy59 folds
+mercury83140 folds
+crazypix folds
+*** FLOP *** [7h 8d 5c]
+sabre_laser bets 60
+8675sandra calls 60
+*** TURN *** [7h 8d 5c][4s]
+sabre_laser bets 60
+8675sandra calls 60
+*** RIVER *** [7h 8d 5c 4s][Th]
+sabre_laser bets 185
+8675sandra folds
+sabre_laser collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [7h 8d 5c 4s Th]
+Seat 7: sabre_laser won 555
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #490699811704537089-4-1427479940 - Holdem no limit (15/30) - 2015/03/27 18:12:20 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #1 is the button
+Seat 1: mercury83140 (1470)
+Seat 2: crazypix (1480)
+Seat 3: Mars_Attack (1500)
+Seat 5: G_ZU (1500)
+Seat 6: younespresso (1590)
+Seat 7: sabre_laser (1700)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (2790)
+Seat 10: sammy59 (1470)
+*** ANTE/BLINDS ***
+crazypix posts small blind 15
+Mars_Attack posts big blind 30
+Dealt to sabre_laser [Qc 3h]
+*** PRE-FLOP *** 
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra calls 30
+sammy59 folds
+mercury83140 calls 30
+crazypix folds
+Mars_Attack checks
+*** FLOP *** [9c Jc Kc]
+Mars_Attack checks
+8675sandra checks
+mercury83140 checks
+*** TURN *** [9c Jc Kc][6s]
+Mars_Attack checks
+8675sandra checks
+mercury83140 checks
+*** RIVER *** [9c Jc Kc 6s][7d]
+Mars_Attack checks
+8675sandra checks
+mercury83140 checks
+*** SHOW DOWN ***
+mercury83140 shows [9s Qs] (One pair : 9)
+Mars_Attack shows [2s 4s] (High card : King)
+8675sandra shows [4h Kh] (One pair : Kings)
+8675sandra collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [9c Jc Kc 6s 7d]
+Seat 1: mercury83140 (button) showed [9s Qs] and lost with One pair : 9
+Seat 3: Mars_Attack (big blind) showed [2s 4s] and lost with High card : King
+Seat 9: 8675sandra showed [4h Kh] and won 105 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #490699811704537089-5-1427480011 - Holdem no limit (15/30) - 2015/03/27 18:13:31 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #2 is the button
+Seat 1: mercury83140 (1440)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1470)
+Seat 5: G_ZU (1500)
+Seat 6: younespresso (1590)
+Seat 7: sabre_laser (1700)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (2865)
+Seat 10: sammy59 (1470)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 15
+G_ZU posts big blind 30
+Dealt to sabre_laser [9h Qs]
+*** PRE-FLOP *** 
+younespresso calls 30
+sabre_laser folds
+NankerPhelge folds
+8675sandra calls 30
+sammy59 folds
+mercury83140 calls 30
+crazypix folds
+Mars_Attack folds
+G_ZU checks
+*** FLOP *** [Js Qd 8s]
+G_ZU checks
+younespresso checks
+8675sandra checks
+mercury83140 checks
+*** TURN *** [Js Qd 8s][3d]
+G_ZU checks
+younespresso checks
+8675sandra checks
+mercury83140 checks
+*** RIVER *** [Js Qd 8s 3d][Jc]
+G_ZU checks
+younespresso checks
+8675sandra checks
+mercury83140 checks
+*** SHOW DOWN ***
+mercury83140 shows [Ad 2s] (One pair : Jacks)
+G_ZU shows [4d 9d] (One pair : Jacks)
+8675sandra shows [Ts Ks] (One pair : Jacks)
+younespresso shows [5c 5s] (Two pairs : Jacks and 5)
+younespresso collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Js Qd 8s 3d Jc]
+Seat 1: mercury83140 showed [Ad 2s] and lost with One pair : Jacks
+Seat 5: G_ZU (big blind) showed [4d 9d] and lost with One pair : Jacks
+Seat 6: younespresso showed [5c 5s] and won 135 with Two pairs : Jacks and 5
+Seat 9: 8675sandra showed [Ts Ks] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #490699811704537089-6-1427480117 - Holdem no limit (20/40) - 2015/03/27 18:15:17 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #3 is the button
+Seat 1: mercury83140 (1410)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1455)
+Seat 5: G_ZU (1470)
+Seat 6: younespresso (1695)
+Seat 7: sabre_laser (1700)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (2835)
+Seat 10: sammy59 (1470)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 20
+younespresso posts big blind 40
+Dealt to sabre_laser [Kc Ad]
+*** PRE-FLOP *** 
+sabre_laser raises 80 to 120
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: sabre_laser won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #490699811704537089-7-1427480160 - Holdem no limit (20/40) - 2015/03/27 18:16:00 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #5 is the button
+Seat 1: mercury83140 (1410)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1455)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1655)
+Seat 7: sabre_laser (1760)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (2835)
+Seat 10: sammy59 (1470)
+*** ANTE/BLINDS ***
+younespresso posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Qh 2c]
+*** PRE-FLOP *** 
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso calls 20
+sabre_laser checks
+*** FLOP *** [7h 8d Kd]
+younespresso checks
+sabre_laser checks
+*** TURN *** [7h 8d Kd][4c]
+younespresso checks
+sabre_laser bets 60
+younespresso folds
+sabre_laser collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [7h 8d Kd 4c]
+Seat 7: sabre_laser (big blind) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #490699811704537089-8-1427480254 - Holdem no limit (30/60) - 2015/03/27 18:17:34 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #6 is the button
+Seat 1: mercury83140 (1410)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1455)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1615)
+Seat 7: sabre_laser (1800)
+Seat 8: NankerPhelge (1500)
+Seat 9: 8675sandra (2835)
+Seat 10: sammy59 (1470)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+NankerPhelge posts big blind 60
+Dealt to sabre_laser [5h 9s]
+*** PRE-FLOP *** 
+8675sandra calls 60
+sammy59 calls 60
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser calls 30
+NankerPhelge checks
+*** FLOP *** [Ah Ac 2s]
+sabre_laser checks
+NankerPhelge checks
+8675sandra checks
+sammy59 checks
+*** TURN *** [Ah Ac 2s][6d]
+sabre_laser checks
+NankerPhelge checks
+8675sandra checks
+sammy59 checks
+*** RIVER *** [Ah Ac 2s 6d][Td]
+sabre_laser bets 120
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ah Ac 2s 6d Td]
+Seat 7: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #490699811704537089-9-1427480346 - Holdem no limit (30/60) - 2015/03/27 18:19:06 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #7 is the button
+Seat 1: mercury83140 (1410)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1455)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1615)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1440)
+Seat 9: 8675sandra (2775)
+Seat 10: sammy59 (1410)
+*** ANTE/BLINDS ***
+NankerPhelge posts small blind 30
+8675sandra posts big blind 60
+Dealt to sabre_laser [2d 5c]
+*** PRE-FLOP *** 
+sammy59 folds
+mercury83140 folds
+crazypix folds
+Mars_Attack raises 60 to 120
+G_ZU folds
+younespresso raises 120 to 240
+sabre_laser folds
+NankerPhelge folds
+8675sandra folds
+Mars_Attack calls 120
+*** FLOP *** [8c 3s 6d]
+Mars_Attack checks
+younespresso bets 428
+Mars_Attack folds
+younespresso collected 998 from pot
+*** SUMMARY ***
+Total pot 998 | No rake
+Board: [8c 3s 6d]
+Seat 6: younespresso won 998
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490699811704537089-10-1427480423 - Holdem no limit (40/80) - 2015/03/27 18:20:23 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mercury83140 (1410)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1215)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1410)
+Seat 9: 8675sandra (2715)
+Seat 10: sammy59 (1410)
+*** ANTE/BLINDS ***
+8675sandra posts small blind 40
+sammy59 posts big blind 80
+Dealt to sabre_laser [Qd 4c]
+*** PRE-FLOP *** 
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra calls 40
+sammy59 checks
+*** FLOP *** [8d 8s Qc]
+8675sandra checks
+sammy59 checks
+*** TURN *** [8d 8s Qc][Ad]
+8675sandra checks
+sammy59 bets 1330 and is all-in
+8675sandra folds
+sammy59 collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | No rake
+Board: [8d 8s Qc Ad]
+Seat 10: sammy59 (big blind) won 1490
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490699811704537089-11-1427480525 - Holdem no limit (40/80) - 2015/03/27 18:22:05 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mercury83140 (1410)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1215)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1410)
+Seat 9: 8675sandra (2635)
+Seat 10: sammy59 (1490)
+*** ANTE/BLINDS ***
+sammy59 posts small blind 40
+mercury83140 posts big blind 80
+Dealt to sabre_laser [Kh 3s]
+*** PRE-FLOP *** 
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra folds
+sammy59 calls 40
+mercury83140 checks
+*** FLOP *** [5d Th Qc]
+sammy59 checks
+mercury83140 checks
+*** TURN *** [5d Th Qc][Jh]
+sammy59 checks
+mercury83140 checks
+*** RIVER *** [5d Th Qc Jh][Ah]
+sammy59 checks
+mercury83140 checks
+*** SHOW DOWN ***
+mercury83140 shows [3h 8c] (High card : Ace)
+sammy59 shows [Qh Tc] (Two pairs : Queens and Tens)
+sammy59 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [5d Th Qc Jh Ah]
+Seat 1: mercury83140 (big blind) showed [3h 8c] and lost with High card : Ace
+Seat 10: sammy59 (small blind) showed [Qh Tc] and won 160 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #490699811704537089-12-1427480585 - Holdem no limit (40/80) - 2015/03/27 18:23:05 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #10 is the button
+Seat 1: mercury83140 (1330)
+Seat 2: crazypix (1465)
+Seat 3: Mars_Attack (1215)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1410)
+Seat 9: 8675sandra (2635)
+Seat 10: sammy59 (1570)
+*** ANTE/BLINDS ***
+mercury83140 posts small blind 40
+crazypix posts big blind 80
+Dealt to sabre_laser [4c Ts]
+*** PRE-FLOP *** 
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra calls 80
+sammy59 calls 80
+mercury83140 calls 40
+crazypix checks
+*** FLOP *** [5c Kd 7d]
+mercury83140 checks
+crazypix checks
+8675sandra bets 80
+sammy59 folds
+mercury83140 folds
+crazypix folds
+8675sandra collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [5c Kd 7d]
+Seat 9: 8675sandra won 400
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #490699811704537089-13-1427480661 - Holdem no limit (60/120) - 2015/03/27 18:24:21 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #1 is the button
+Seat 1: mercury83140 (1250)
+Seat 2: crazypix (1385)
+Seat 3: Mars_Attack (1215)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1410)
+Seat 9: 8675sandra (2875)
+Seat 10: sammy59 (1490)
+*** ANTE/BLINDS ***
+crazypix posts small blind 60
+Mars_Attack posts big blind 120
+Dealt to sabre_laser [3c 6s]
+*** PRE-FLOP *** 
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra calls 120
+sammy59 folds
+mercury83140 folds
+crazypix folds
+Mars_Attack checks
+*** FLOP *** [5s Td Jd]
+Mars_Attack checks
+8675sandra checks
+*** TURN *** [5s Td Jd][4d]
+Mars_Attack checks
+8675sandra checks
+*** RIVER *** [5s Td Jd 4d][7h]
+Mars_Attack checks
+8675sandra bets 120
+Mars_Attack folds
+8675sandra collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [5s Td Jd 4d 7h]
+Seat 9: 8675sandra won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #490699811704537089-14-1427480700 - Holdem no limit (60/120) - 2015/03/27 18:25:00 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #2 is the button
+Seat 1: mercury83140 (1250)
+Seat 2: crazypix (1325)
+Seat 3: Mars_Attack (1095)
+Seat 5: G_ZU (1450)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1410)
+Seat 9: 8675sandra (3055)
+Seat 10: sammy59 (1490)
+*** ANTE/BLINDS ***
+Mars_Attack posts small blind 60
+G_ZU posts big blind 120
+Dealt to sabre_laser [9h 2h]
+*** PRE-FLOP *** 
+younespresso folds
+sabre_laser folds
+NankerPhelge raises 120 to 240
+8675sandra folds
+sammy59 folds
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+NankerPhelge collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 8: NankerPhelge won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #490699811704537089-15-1427480740 - Holdem no limit (60/120) - 2015/03/27 18:25:40 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #3 is the button
+Seat 1: mercury83140 (1250)
+Seat 2: crazypix (1325)
+Seat 3: Mars_Attack (1035)
+Seat 5: G_ZU (1330)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1590)
+Seat 9: 8675sandra (3055)
+Seat 10: sammy59 (1490)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 60
+younespresso posts big blind 120
+Dealt to sabre_laser [Js 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: younespresso (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #490699811704537089-16-1427480763 - Holdem no limit (60/120) - 2015/03/27 18:26:03 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #5 is the button
+Seat 1: mercury83140 (1250)
+Seat 2: crazypix (1325)
+Seat 3: Mars_Attack (1035)
+Seat 5: G_ZU (1270)
+Seat 6: younespresso (2005)
+Seat 7: sabre_laser (1980)
+Seat 8: NankerPhelge (1590)
+Seat 9: 8675sandra (3055)
+Seat 10: sammy59 (1490)
+*** ANTE/BLINDS ***
+younespresso posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [5h Qc]
+*** PRE-FLOP *** 
+NankerPhelge folds
+8675sandra folds
+sammy59 calls 120
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser checks
+*** FLOP *** [2s Qh 2d]
+sabre_laser bets 120
+sammy59 calls 120
+*** TURN *** [2s Qh 2d][Td]
+sabre_laser bets 240
+sammy59 calls 240
+*** RIVER *** [2s Qh 2d Td][5d]
+sabre_laser checks
+sammy59 bets 240
+sabre_laser calls 240
+*** SHOW DOWN ***
+sabre_laser shows [5h Qc] (Two pairs : Queens and 5)
+sammy59 shows [Ah Ad] (Two pairs : Aces and 2)
+sammy59 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2s Qh 2d Td 5d]
+Seat 7: sabre_laser (big blind) showed [5h Qc] and lost with Two pairs : Queens and 5
+Seat 10: sammy59 showed [Ah Ad] and won 1500 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #490699811704537089-17-1427480859 - Holdem no limit (80/160) - 2015/03/27 18:27:39 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #6 is the button
+Seat 1: mercury83140 (1250)
+Seat 2: crazypix (1325)
+Seat 3: Mars_Attack (1035)
+Seat 5: G_ZU (1270)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1260)
+Seat 8: NankerPhelge (1590)
+Seat 9: 8675sandra (3055)
+Seat 10: sammy59 (2270)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+NankerPhelge posts big blind 160
+Dealt to sabre_laser [5s 8c]
+*** PRE-FLOP *** 
+8675sandra calls 160
+sammy59 folds
+mercury83140 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge checks
+*** FLOP *** [As 3h 9c]
+NankerPhelge checks
+8675sandra checks
+*** TURN *** [As 3h 9c][2d]
+NankerPhelge bets 160
+8675sandra folds
+NankerPhelge collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [As 3h 9c 2d]
+Seat 8: NankerPhelge (big blind) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #490699811704537089-18-1427480923 - Holdem no limit (80/160) - 2015/03/27 18:28:43 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #7 is the button
+Seat 1: mercury83140 (1250)
+Seat 2: crazypix (1325)
+Seat 3: Mars_Attack (1035)
+Seat 5: G_ZU (1270)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1180)
+Seat 8: NankerPhelge (1830)
+Seat 9: 8675sandra (2895)
+Seat 10: sammy59 (2270)
+*** ANTE/BLINDS ***
+NankerPhelge posts small blind 80
+8675sandra posts big blind 160
+Dealt to sabre_laser [Qd Jh]
+*** PRE-FLOP *** 
+sammy59 folds
+mercury83140 calls 160
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra checks
+*** FLOP *** [8s Ks 6d]
+8675sandra checks
+mercury83140 checks
+*** TURN *** [8s Ks 6d][6c]
+8675sandra checks
+mercury83140 checks
+*** RIVER *** [8s Ks 6d 6c][5c]
+8675sandra checks
+mercury83140 checks
+*** SHOW DOWN ***
+mercury83140 shows [Ad 7d] (One pair : 6)
+8675sandra shows [Th 8d] (Two pairs : 8 and 6)
+8675sandra collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [8s Ks 6d 6c 5c]
+Seat 1: mercury83140 showed [Ad 7d] and lost with One pair : 6
+Seat 9: 8675sandra (big blind) showed [Th 8d] and won 400 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #490699811704537089-19-1427480964 - Holdem no limit (10/100/200) - 2015/03/27 18:29:24 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #8 is the button
+Seat 1: mercury83140 (1090)
+Seat 2: crazypix (1325)
+Seat 3: Mars_Attack (1035)
+Seat 5: G_ZU (1270)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1180)
+Seat 8: NankerPhelge (1750)
+Seat 9: 8675sandra (3135)
+Seat 10: sammy59 (2270)
+*** ANTE/BLINDS ***
+8675sandra posts ante 10
+sammy59 posts ante 10
+mercury83140 posts ante 10
+crazypix posts ante 10
+Mars_Attack posts ante 10
+G_ZU posts ante 10
+younespresso posts ante 10
+sabre_laser posts ante 10
+NankerPhelge posts ante 10
+8675sandra posts small blind 100
+sammy59 posts big blind 200
+Dealt to sabre_laser [3c 6s]
+*** PRE-FLOP *** 
+mercury83140 folds
+crazypix folds
+Mars_Attack raises 200 to 400
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra raises 2725 to 3125 and is all-in
+sammy59 folds
+Mars_Attack calls 625 and is all-in
+*** FLOP *** [Jc Kd 4s]
+*** TURN *** [Jc Kd 4s][7s]
+*** RIVER *** [Jc Kd 4s 7s][Ad]
+*** SHOW DOWN ***
+Mars_Attack shows [Ac Kh] (Two pairs : Aces and Kings)
+8675sandra shows [3s 3d] (One pair : 3)
+8675sandra collected 2100 from side pot 1
+Mars_Attack collected 2340 from main pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [Jc Kd 4s 7s Ad]
+Seat 3: Mars_Attack showed [Ac Kh] and won 2340 with Two pairs : Aces and Kings
+Seat 9: 8675sandra (small blind) showed [3s 3d] and won 2100 with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #490699811704537089-20-1427481020 - Holdem no limit (10/100/200) - 2015/03/27 18:30:20 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #9 is the button
+Seat 1: mercury83140 (1080)
+Seat 2: crazypix (1315)
+Seat 3: Mars_Attack (2340)
+Seat 5: G_ZU (1260)
+Seat 6: younespresso (1935)
+Seat 7: sabre_laser (1170)
+Seat 8: NankerPhelge (1740)
+Seat 9: 8675sandra (2100)
+Seat 10: sammy59 (2060)
+*** ANTE/BLINDS ***
+sammy59 posts ante 10
+mercury83140 posts ante 10
+crazypix posts ante 10
+Mars_Attack posts ante 10
+G_ZU posts ante 10
+younespresso posts ante 10
+sabre_laser posts ante 10
+NankerPhelge posts ante 10
+8675sandra posts ante 10
+sammy59 posts small blind 100
+mercury83140 posts big blind 200
+Dealt to sabre_laser [Kc 4h]
+*** PRE-FLOP *** 
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser raises 960 to 1160 and is all-in
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+mercury83140 folds
+sabre_laser collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 7: sabre_laser won 1550
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #490699811704537089-21-1427481064 - Holdem no limit (10/100/200) - 2015/03/27 18:31:04 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #10 is the button
+Seat 1: mercury83140 (870)
+Seat 2: crazypix (1305)
+Seat 3: Mars_Attack (2330)
+Seat 5: G_ZU (1250)
+Seat 6: younespresso (1925)
+Seat 7: sabre_laser (1550)
+Seat 8: NankerPhelge (1730)
+Seat 9: 8675sandra (2090)
+Seat 10: sammy59 (1950)
+*** ANTE/BLINDS ***
+mercury83140 posts ante 10
+crazypix posts ante 10
+Mars_Attack posts ante 10
+G_ZU posts ante 10
+younespresso posts ante 10
+sabre_laser posts ante 10
+NankerPhelge posts ante 10
+8675sandra posts ante 10
+sammy59 posts ante 10
+mercury83140 posts small blind 100
+crazypix posts big blind 200
+Dealt to sabre_laser [8h Qd]
+*** PRE-FLOP *** 
+Mars_Attack raises 400 to 600
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+mercury83140 raises 260 to 860 and is all-in
+crazypix folds
+Mars_Attack calls 260
+*** FLOP *** [4d Ks 2c]
+*** TURN *** [4d Ks 2c][2h]
+*** RIVER *** [4d Ks 2c 2h][2d]
+*** SHOW DOWN ***
+mercury83140 shows [5h Ah] (Trips of 2)
+Mars_Attack shows [Ad Kd] (Full of 2 and Kings)
+Mars_Attack collected 2010 from pot
+*** SUMMARY ***
+Total pot 2010 | No rake
+Board: [4d Ks 2c 2h 2d]
+Seat 1: mercury83140 (small blind) showed [5h Ah] and lost with Trips of 2
+Seat 3: Mars_Attack showed [Ad Kd] and won 2010 with Full of 2 and Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #490699811704537089-22-1427481106 - Holdem no limit (10/100/200) - 2015/03/27 18:31:46 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #1 is the button
+Seat 2: crazypix (1095)
+Seat 3: Mars_Attack (3470)
+Seat 5: G_ZU (1240)
+Seat 6: younespresso (1915)
+Seat 7: sabre_laser (1540)
+Seat 8: NankerPhelge (1720)
+Seat 9: 8675sandra (2080)
+Seat 10: sammy59 (1940)
+*** ANTE/BLINDS ***
+crazypix posts ante 10
+Mars_Attack posts ante 10
+G_ZU posts ante 10
+younespresso posts ante 10
+sabre_laser posts ante 10
+NankerPhelge posts ante 10
+8675sandra posts ante 10
+sammy59 posts ante 10
+crazypix posts small blind 100
+Mars_Attack posts big blind 200
+Dealt to sabre_laser [6h 5c]
+*** PRE-FLOP *** 
+G_ZU folds
+younespresso raises 1705 to 1905 and is all-in
+sabre_laser folds
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+crazypix folds
+Mars_Attack folds
+younespresso collected 2285 from pot
+*** SUMMARY ***
+Total pot 2285 | No rake
+Seat 6: younespresso won 2285
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #490699811704537089-23-1427481153 - Holdem no limit (20/150/300) - 2015/03/27 18:32:33 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #2 is the button
+Seat 2: crazypix (985)
+Seat 3: Mars_Attack (3260)
+Seat 5: G_ZU (1230)
+Seat 6: younespresso (2285)
+Seat 7: sabre_laser (1530)
+Seat 8: NankerPhelge (1710)
+Seat 9: 8675sandra (2070)
+Seat 10: sammy59 (1930)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 20
+G_ZU posts ante 20
+crazypix posts ante 20
+younespresso posts ante 20
+sabre_laser posts ante 20
+NankerPhelge posts ante 20
+8675sandra posts ante 20
+sammy59 posts ante 20
+Mars_Attack posts small blind 150
+G_ZU posts big blind 300
+Dealt to sabre_laser [7c 2c]
+*** PRE-FLOP *** 
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra raises 1750 to 2050 and is all-in
+sammy59 folds
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+8675sandra collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Seat 9: 8675sandra won 2660
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #490699811704537089-24-1427481185 - Holdem no limit (20/150/300) - 2015/03/27 18:33:05 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #3 is the button
+Seat 2: crazypix (965)
+Seat 3: Mars_Attack (3090)
+Seat 5: G_ZU (910)
+Seat 6: younespresso (2265)
+Seat 7: sabre_laser (1510)
+Seat 8: NankerPhelge (1690)
+Seat 9: 8675sandra (2660)
+Seat 10: sammy59 (1910)
+*** ANTE/BLINDS ***
+G_ZU posts ante 20
+younespresso posts ante 20
+crazypix posts ante 20
+Mars_Attack posts ante 20
+sabre_laser posts ante 20
+NankerPhelge posts ante 20
+8675sandra posts ante 20
+sammy59 posts ante 20
+G_ZU posts small blind 150
+younespresso posts big blind 300
+Dealt to sabre_laser [Jd Tc]
+*** PRE-FLOP *** 
+sabre_laser folds
+NankerPhelge folds
+8675sandra folds
+sammy59 raises 1590 to 1890 and is all-in
+crazypix folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sammy59 collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 10: sammy59 won 2500
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #490699811704537089-25-1427481235 - Holdem no limit (20/150/300) - 2015/03/27 18:33:55 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #5 is the button
+Seat 2: crazypix (945)
+Seat 3: Mars_Attack (3070)
+Seat 5: G_ZU (740)
+Seat 6: younespresso (1945)
+Seat 7: sabre_laser (1490)
+Seat 8: NankerPhelge (1670)
+Seat 9: 8675sandra (2640)
+Seat 10: sammy59 (2500)
+*** ANTE/BLINDS ***
+younespresso posts ante 20
+sabre_laser posts ante 20
+crazypix posts ante 20
+Mars_Attack posts ante 20
+G_ZU posts ante 20
+NankerPhelge posts ante 20
+8675sandra posts ante 20
+sammy59 posts ante 20
+younespresso posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [Kd Ah]
+*** PRE-FLOP *** 
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+crazypix raises 625 to 925 and is all-in
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser calls 625
+*** FLOP *** [8h 8d 5s]
+*** TURN *** [8h 8d 5s][Ad]
+*** RIVER *** [8h 8d 5s Ad][As]
+*** SHOW DOWN ***
+crazypix shows [Kh Ks] (Two pairs : Aces and Kings)
+sabre_laser shows [Kd Ah] (Full of Aces and 8)
+sabre_laser collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [8h 8d 5s Ad As]
+Seat 2: crazypix showed [Kh Ks] and lost with Two pairs : Aces and Kings
+Seat 7: sabre_laser (big blind) showed [Kd Ah] and won 2160 with Full of Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #490699811704537089-26-1427481292 - Holdem no limit (20/150/300) - 2015/03/27 18:34:52 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Mars_Attack (3050)
+Seat 5: G_ZU (720)
+Seat 6: younespresso (1775)
+Seat 7: sabre_laser (2705)
+Seat 8: NankerPhelge (1650)
+Seat 9: 8675sandra (2620)
+Seat 10: sammy59 (2480)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+NankerPhelge posts ante 20
+Mars_Attack posts ante 20
+G_ZU posts ante 20
+younespresso posts ante 20
+8675sandra posts ante 20
+sammy59 posts ante 20
+sabre_laser posts small blind 150
+NankerPhelge posts big blind 300
+Dealt to sabre_laser [Jc 3d]
+*** PRE-FLOP *** 
+8675sandra folds
+sammy59 raises 900 to 1200
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+sammy59 collected 1790 from pot
+*** SUMMARY ***
+Total pot 1790 | No rake
+Seat 10: sammy59 won 1790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #490699811704537089-27-1427481315 - Holdem no limit (20/150/300) - 2015/03/27 18:35:15 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #7 is the button
+Seat 3: Mars_Attack (3030)
+Seat 5: G_ZU (700)
+Seat 6: younespresso (1755)
+Seat 7: sabre_laser (2535)
+Seat 8: NankerPhelge (1330)
+Seat 9: 8675sandra (2600)
+Seat 10: sammy59 (3050)
+*** ANTE/BLINDS ***
+NankerPhelge posts ante 20
+8675sandra posts ante 20
+Mars_Attack posts ante 20
+G_ZU posts ante 20
+younespresso posts ante 20
+sabre_laser posts ante 20
+sammy59 posts ante 20
+NankerPhelge posts small blind 150
+8675sandra posts big blind 300
+Dealt to sabre_laser [As 5d]
+*** PRE-FLOP *** 
+sammy59 folds
+Mars_Attack folds
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 9: 8675sandra (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #490699811704537089-28-1427481334 - Holdem no limit (50/200/400) - 2015/03/27 18:35:34 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #8 is the button
+Seat 3: Mars_Attack (3010)
+Seat 5: G_ZU (680)
+Seat 6: younespresso (1735)
+Seat 7: sabre_laser (2515)
+Seat 8: NankerPhelge (1160)
+Seat 9: 8675sandra (2870)
+Seat 10: sammy59 (3030)
+*** ANTE/BLINDS ***
+8675sandra posts ante 50
+sammy59 posts ante 50
+Mars_Attack posts ante 50
+G_ZU posts ante 50
+younespresso posts ante 50
+sabre_laser posts ante 50
+NankerPhelge posts ante 50
+8675sandra posts small blind 200
+sammy59 posts big blind 400
+Dealt to sabre_laser [2d Kd]
+*** PRE-FLOP *** 
+Mars_Attack raises 400 to 800
+G_ZU folds
+younespresso folds
+sabre_laser folds
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+Mars_Attack collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Seat 3: Mars_Attack won 1750
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #490699811704537089-29-1427481367 - Holdem no limit (50/200/400) - 2015/03/27 18:36:07 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #9 is the button
+Seat 3: Mars_Attack (3910)
+Seat 5: G_ZU (630)
+Seat 6: younespresso (1685)
+Seat 7: sabre_laser (2465)
+Seat 8: NankerPhelge (1110)
+Seat 9: 8675sandra (2620)
+Seat 10: sammy59 (2580)
+*** ANTE/BLINDS ***
+sammy59 posts ante 50
+Mars_Attack posts ante 50
+G_ZU posts ante 50
+younespresso posts ante 50
+sabre_laser posts ante 50
+NankerPhelge posts ante 50
+8675sandra posts ante 50
+sammy59 posts small blind 200
+Mars_Attack posts big blind 400
+Dealt to sabre_laser [Jc As]
+*** PRE-FLOP *** 
+G_ZU raises 180 to 580 and is all-in
+younespresso folds
+sabre_laser calls 580
+NankerPhelge folds
+8675sandra folds
+sammy59 folds
+Mars_Attack calls 180
+*** FLOP *** [4d 2h 8d]
+Mars_Attack checks
+sabre_laser checks
+*** TURN *** [4d 2h 8d][Js]
+Mars_Attack checks
+sabre_laser checks
+*** RIVER *** [4d 2h 8d Js][4s]
+Mars_Attack checks
+sabre_laser checks
+*** SHOW DOWN ***
+Mars_Attack shows [Td Kd] (One pair : 4)
+G_ZU shows [9s 9h] (Two pairs : 9 and 4)
+sabre_laser shows [Jc As] (Two pairs : Jacks and 4)
+sabre_laser collected 2290 from pot
+*** SUMMARY ***
+Total pot 2290 | No rake
+Board: [4d 2h 8d Js 4s]
+Seat 3: Mars_Attack (big blind) showed [Td Kd] and lost with One pair : 4
+Seat 5: G_ZU showed [9s 9h] and lost with Two pairs : 9 and 4
+Seat 7: sabre_laser showed [Jc As] and won 2290 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #490699811704537089-30-1427481405 - Holdem no limit (50/200/400) - 2015/03/27 18:36:45 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #10 is the button
+Seat 3: Mars_Attack (3280)
+Seat 6: younespresso (1635)
+Seat 7: sabre_laser (4125)
+Seat 8: NankerPhelge (1060)
+Seat 9: 8675sandra (2570)
+Seat 10: sammy59 (2330)
+*** ANTE/BLINDS ***
+Mars_Attack posts ante 50
+younespresso posts ante 50
+sabre_laser posts ante 50
+NankerPhelge posts ante 50
+8675sandra posts ante 50
+sammy59 posts ante 50
+Mars_Attack posts small blind 200
+younespresso posts big blind 400
+Dealt to sabre_laser [6d Jd]
+*** PRE-FLOP *** 
+sabre_laser folds
+NankerPhelge folds
+8675sandra raises 2120 to 2520 and is all-in
+sammy59 folds
+Mars_Attack folds
+younespresso folds
+8675sandra collected 3420 from pot
+*** SUMMARY ***
+Total pot 3420 | No rake
+Seat 9: 8675sandra won 3420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #490699811704537089-31-1427481428 - Holdem no limit (50/200/400) - 2015/03/27 18:37:08 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #3 is the button
+Seat 3: Mars_Attack (3030)
+Seat 6: younespresso (1185)
+Seat 7: sabre_laser (4075)
+Seat 8: NankerPhelge (1010)
+Seat 9: 8675sandra (3420)
+Seat 10: sammy59 (2280)
+*** ANTE/BLINDS ***
+younespresso posts ante 50
+sabre_laser posts ante 50
+Mars_Attack posts ante 50
+NankerPhelge posts ante 50
+8675sandra posts ante 50
+sammy59 posts ante 50
+younespresso posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [3s Qd]
+*** PRE-FLOP *** 
+NankerPhelge raises 560 to 960 and is all-in
+8675sandra folds
+sammy59 folds
+Mars_Attack folds
+younespresso folds
+sabre_laser calls 560
+*** FLOP *** [2s 9s Tc]
+*** TURN *** [2s 9s Tc][4c]
+*** RIVER *** [2s 9s Tc 4c][Jd]
+*** SHOW DOWN ***
+sabre_laser shows [3s Qd] (High card : Queen)
+NankerPhelge shows [Ad 2d] (One pair : 2)
+NankerPhelge collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Board: [2s 9s Tc 4c Jd]
+Seat 7: sabre_laser (big blind) showed [3s Qd] and lost with High card : Queen
+Seat 8: NankerPhelge showed [Ad 2d] and won 2420 with One pair : 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #490699811704537089-32-1427481459 - Holdem no limit (50/200/400) - 2015/03/27 18:37:39 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #6 is the button
+Seat 3: Mars_Attack (2980)
+Seat 6: younespresso (935)
+Seat 7: sabre_laser (3065)
+Seat 8: NankerPhelge (2420)
+Seat 9: 8675sandra (3370)
+Seat 10: sammy59 (2230)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+NankerPhelge posts ante 50
+Mars_Attack posts ante 50
+younespresso posts ante 50
+8675sandra posts ante 50
+sammy59 posts ante 50
+sabre_laser posts small blind 200
+NankerPhelge posts big blind 400
+Dealt to sabre_laser [9c 2c]
+*** PRE-FLOP *** 
+8675sandra folds
+sammy59 folds
+Mars_Attack folds
+younespresso raises 485 to 885 and is all-in
+sabre_laser folds
+NankerPhelge folds
+younespresso collected 1785 from pot
+*** SUMMARY ***
+Total pot 1785 | No rake
+Seat 6: younespresso (button) won 1785
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #490699811704537089-33-1427481477 - Holdem no limit (50/200/400) - 2015/03/27 18:37:57 UTC
+Table: 'Double or Nothing(114249953)#0' 10-max (real money) Seat #7 is the button
+Seat 3: Mars_Attack (2930)
+Seat 6: younespresso (1785)
+Seat 7: sabre_laser (2815)
+Seat 8: NankerPhelge (1970)
+Seat 9: 8675sandra (3320)
+Seat 10: sammy59 (2180)
+*** ANTE/BLINDS ***
+NankerPhelge posts ante 50
+8675sandra posts ante 50
+Mars_Attack posts ante 50
+younespresso posts ante 50
+sabre_laser posts ante 50
+sammy59 posts ante 50
+NankerPhelge posts small blind 200
+8675sandra posts big blind 400
+Dealt to sabre_laser [9s Qc]
+*** PRE-FLOP *** 
+sammy59 folds
+Mars_Attack folds
+younespresso folds
+sabre_laser folds
+NankerPhelge raises 1520 to 1920 and is all-in
+8675sandra calls 1520
+*** FLOP *** [4d 2s 9h]
+*** TURN *** [4d 2s 9h][2h]
+*** RIVER *** [4d 2s 9h 2h][Jc]
+*** SHOW DOWN ***
+NankerPhelge shows [3s Ad] (One pair : 2)
+8675sandra shows [Ah Kc] (One pair : 2)
+8675sandra collected 4140 from pot
+*** SUMMARY ***
+Total pot 4140 | No rake
+Board: [4d 2s 9h 2h Jc]
+Seat 8: NankerPhelge (small blind) showed [3s Ad] and lost with One pair : 2
+Seat 9: 8675sandra (big blind) showed [Ah Kc] and won 4140 with One pair : 2
+
+

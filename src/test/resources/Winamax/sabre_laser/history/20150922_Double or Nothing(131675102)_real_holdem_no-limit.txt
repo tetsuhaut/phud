@@ -1,0 +1,2034 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565540256787464193-1-1442949158 - Holdem no limit (10/20) - 2015/09/22 19:12:38 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #9 is the button
+Seat 1: AmenMyBread (1500)
+Seat 2: Dan toretto (1500)
+Seat 3: CESTFAB (1500)
+Seat 4: babamed (1500)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (1500)
+Seat 7: coeurt (1500)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1500)
+Seat 10: sabre_laser (1500)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+AmenMyBread posts big blind 20
+Dealt to sabre_laser [2d As]
+*** PRE-FLOP *** 
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt raises 20 to 40
+JCMJ folds
+Kalou du LDM calls 40
+sabre_laser folds
+AmenMyBread folds
+*** FLOP *** [9s 8s 6h]
+coeurt bets 50
+Kalou du LDM folds
+coeurt collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [9s 8s 6h]
+Seat 7: coeurt won 160
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565540256787464193-2-1442949215 - Holdem no limit (10/20) - 2015/09/22 19:13:35 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #10 is the button
+Seat 1: AmenMyBread (1480)
+Seat 2: Dan toretto (1500)
+Seat 3: CESTFAB (1500)
+Seat 4: babamed (1500)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (1500)
+Seat 7: coeurt (1570)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1490)
+*** ANTE/BLINDS ***
+AmenMyBread posts small blind 10
+Dan toretto posts big blind 20
+Dealt to sabre_laser [Ah 2h]
+*** PRE-FLOP *** 
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser calls 20
+AmenMyBread raises 60 to 80
+Dan toretto calls 60
+sabre_laser calls 60
+*** FLOP *** [Qs 4h Ks]
+AmenMyBread bets 180
+Dan toretto folds
+sabre_laser folds
+AmenMyBread collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Qs 4h Ks]
+Seat 1: AmenMyBread (small blind) won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565540256787464193-3-1442949280 - Holdem no limit (10/20) - 2015/09/22 19:14:40 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #1 is the button
+Seat 1: AmenMyBread (1640)
+Seat 2: Dan toretto (1420)
+Seat 3: CESTFAB (1500)
+Seat 4: babamed (1500)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (1500)
+Seat 7: coeurt (1570)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1410)
+*** ANTE/BLINDS ***
+Dan toretto posts small blind 10
+CESTFAB posts big blind 20
+Dealt to sabre_laser [8h 4h]
+*** PRE-FLOP *** 
+babamed calls 20
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 10
+CESTFAB checks
+*** FLOP *** [Jd Th 5h]
+Dan toretto bets 20
+CESTFAB calls 20
+babamed raises 40 to 60
+Dan toretto calls 40
+CESTFAB folds
+*** TURN *** [Jd Th 5h][3s]
+Dan toretto checks
+babamed bets 70
+Dan toretto calls 70
+*** RIVER *** [Jd Th 5h 3s][3d]
+Dan toretto bets 400
+babamed calls 400
+*** SHOW DOWN ***
+babamed shows [Kd Kh] (Two pairs : Kings and 3)
+Dan toretto shows [3h Qh] (Trips of 3)
+Dan toretto collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | No rake
+Board: [Jd Th 5h 3s 3d]
+Seat 2: Dan toretto (small blind) showed [3h Qh] and won 1140 with Trips of 3
+Seat 4: babamed showed [Kd Kh] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565540256787464193-4-1442949361 - Holdem no limit (10/20) - 2015/09/22 19:16:01 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #2 is the button
+Seat 1: AmenMyBread (1640)
+Seat 2: Dan toretto (2010)
+Seat 3: CESTFAB (1460)
+Seat 4: babamed (950)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (1500)
+Seat 7: coeurt (1570)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1410)
+*** ANTE/BLINDS ***
+CESTFAB posts small blind 10
+babamed posts big blind 20
+Dealt to sabre_laser [8c 8h]
+*** PRE-FLOP *** 
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser raises 40 to 60
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 10: sabre_laser won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565540256787464193-5-1442949381 - Holdem no limit (10/20) - 2015/09/22 19:16:21 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #3 is the button
+Seat 1: AmenMyBread (1640)
+Seat 2: Dan toretto (2010)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (930)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (1500)
+Seat 7: coeurt (1570)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+babamed posts small blind 10
+AAFlo777 posts big blind 20
+Dealt to sabre_laser [8s 7d]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread raises 40 to 60
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+AmenMyBread collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: AmenMyBread won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565540256787464193-6-1442949499 - Holdem no limit (10/20) - 2015/09/22 19:18:19 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #4 is the button
+Seat 1: AmenMyBread (1670)
+Seat 2: Dan toretto (2010)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (920)
+Seat 5: AAFlo777 (1480)
+Seat 6: IQTYQ3 (1500)
+Seat 7: coeurt (1570)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 10
+IQTYQ3 posts big blind 20
+Dealt to sabre_laser [5d Qd]
+*** PRE-FLOP *** 
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 6: IQTYQ3 (big blind) won 30
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565540256787464193-7-1442949536 - Holdem no limit (15/30) - 2015/09/22 19:18:56 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #5 is the button
+Seat 1: AmenMyBread (1670)
+Seat 2: Dan toretto (2010)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (920)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1510)
+Seat 7: coeurt (1570)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 15
+coeurt posts big blind 30
+Dealt to sabre_laser [Jc 4h]
+*** PRE-FLOP *** 
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 30
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt checks
+*** FLOP *** [Ks Ts 2c]
+coeurt checks
+Dan toretto checks
+*** TURN *** [Ks Ts 2c][As]
+coeurt checks
+Dan toretto checks
+*** RIVER *** [Ks Ts 2c As][5h]
+coeurt checks
+Dan toretto bets 30
+coeurt folds
+Dan toretto collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Ks Ts 2c As 5h]
+Seat 2: Dan toretto won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565540256787464193-8-1442949625 - Holdem no limit (15/30) - 2015/09/22 19:20:25 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #6 is the button
+Seat 1: AmenMyBread (1670)
+Seat 2: Dan toretto (2055)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (920)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1495)
+Seat 7: coeurt (1540)
+Seat 8: JCMJ (1500)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+coeurt posts small blind 15
+JCMJ posts big blind 30
+Dealt to sabre_laser [2h 7h]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed calls 30
+AAFlo777 folds
+IQTYQ3 raises 135 to 165
+coeurt folds
+JCMJ raises 480 to 645
+babamed folds
+IQTYQ3 folds
+JCMJ collected 855 from pot
+*** SUMMARY ***
+Total pot 855 | No rake
+Seat 8: JCMJ (big blind) won 855
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565540256787464193-9-1442949691 - Holdem no limit (15/30) - 2015/09/22 19:21:31 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #7 is the button
+Seat 1: AmenMyBread (1670)
+Seat 2: Dan toretto (2055)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1330)
+Seat 7: coeurt (1525)
+Seat 8: JCMJ (1710)
+Seat 9: Kalou du LDM (1460)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+JCMJ posts small blind 15
+Kalou du LDM posts big blind 30
+Dealt to sabre_laser [9d 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 raises 41 to 71
+coeurt calls 71
+JCMJ folds
+Kalou du LDM calls 41
+*** FLOP *** [Td Qh 8s]
+Kalou du LDM checks
+IQTYQ3 checks
+coeurt bets 105
+Kalou du LDM folds
+IQTYQ3 folds
+coeurt collected 333 from pot
+*** SUMMARY ***
+Total pot 333 | No rake
+Board: [Td Qh 8s]
+Seat 7: coeurt (button) won 333
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565540256787464193-10-1442949779 - Holdem no limit (15/30) - 2015/09/22 19:22:59 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #8 is the button
+Seat 1: AmenMyBread (1670)
+Seat 2: Dan toretto (2055)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1259)
+Seat 7: coeurt (1682)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1389)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 15
+sabre_laser posts big blind 30
+Dealt to sabre_laser [9c 4h]
+*** PRE-FLOP *** 
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 10: sabre_laser (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565540256787464193-11-1442949807 - Holdem no limit (15/30) - 2015/09/22 19:23:27 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #9 is the button
+Seat 1: AmenMyBread (1670)
+Seat 2: Dan toretto (2055)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1259)
+Seat 7: coeurt (1682)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1455)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+AmenMyBread posts big blind 30
+Dealt to sabre_laser [Qd 7h]
+*** PRE-FLOP *** 
+Dan toretto calls 30
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt raises 38 to 68
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 38
+*** FLOP *** [Ah 4h 3c]
+Dan toretto checks
+coeurt bets 81
+Dan toretto calls 81
+*** TURN *** [Ah 4h 3c][Jd]
+Dan toretto checks
+coeurt checks
+*** RIVER *** [Ah 4h 3c Jd][3h]
+Dan toretto checks
+coeurt checks
+*** SHOW DOWN ***
+Dan toretto shows [9h Ac] (Two pairs : Aces and 3)
+coeurt shows [7s As] (Two pairs : Aces and 3)
+coeurt collected 172 from pot
+Dan toretto collected 171 from pot
+*** SUMMARY ***
+Total pot 343 | No rake
+Board: [Ah 4h 3c Jd 3h]
+Seat 2: Dan toretto showed [9h Ac] and won 171 with Two pairs : Aces and 3
+Seat 7: coeurt showed [7s As] and won 172 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565540256787464193-12-1442949889 - Holdem no limit (20/40) - 2015/09/22 19:24:49 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #10 is the button
+Seat 1: AmenMyBread (1640)
+Seat 2: Dan toretto (2077)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1259)
+Seat 7: coeurt (1705)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+AmenMyBread posts small blind 20
+Dan toretto posts big blind 40
+Dealt to sabre_laser [Ts 5c]
+*** PRE-FLOP *** 
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt calls 40
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto checks
+*** FLOP *** [6c Kd 8s]
+Dan toretto bets 40
+coeurt folds
+Dan toretto collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6c Kd 8s]
+Seat 2: Dan toretto (big blind) won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565540256787464193-13-1442949952 - Holdem no limit (20/40) - 2015/09/22 19:25:52 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #1 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2137)
+Seat 3: CESTFAB (1450)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1259)
+Seat 7: coeurt (1665)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1440)
+*** ANTE/BLINDS ***
+Dan toretto posts small blind 20
+CESTFAB posts big blind 40
+Dealt to sabre_laser [7s 7h]
+*** PRE-FLOP *** 
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt calls 40
+JCMJ folds
+Kalou du LDM folds
+sabre_laser calls 40
+AmenMyBread folds
+Dan toretto calls 20
+CESTFAB checks
+*** FLOP *** [2d 8c Th]
+Dan toretto checks
+CESTFAB checks
+coeurt checks
+sabre_laser checks
+*** TURN *** [2d 8c Th][6d]
+Dan toretto bets 40
+CESTFAB folds
+coeurt folds
+sabre_laser calls 40
+*** RIVER *** [2d 8c Th 6d][9c]
+Dan toretto bets 300
+sabre_laser raises 460 to 760
+Dan toretto calls 460
+*** SHOW DOWN ***
+Dan toretto shows [7c Qc] (Straight Ten high)
+sabre_laser shows [7s 7h] (Straight Ten high)
+sabre_laser collected 880 from pot
+Dan toretto collected 880 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [2d 8c Th 6d 9c]
+Seat 2: Dan toretto (small blind) showed [7c Qc] and won 880 with Straight Ten high
+Seat 10: sabre_laser showed [7s 7h] and won 880 with Straight Ten high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565540256787464193-14-1442950049 - Holdem no limit (20/40) - 2015/09/22 19:27:29 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #2 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2177)
+Seat 3: CESTFAB (1410)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1259)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1480)
+*** ANTE/BLINDS ***
+CESTFAB posts small blind 20
+babamed posts big blind 40
+Dealt to sabre_laser [9s 3s]
+*** PRE-FLOP *** 
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: babamed (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565540256787464193-15-1442950088 - Holdem no limit (20/40) - 2015/09/22 19:28:08 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #3 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2177)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (910)
+Seat 5: AAFlo777 (1470)
+Seat 6: IQTYQ3 (1259)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1480)
+*** ANTE/BLINDS ***
+babamed posts small blind 20
+AAFlo777 posts big blind 40
+Dealt to sabre_laser [5s 5c]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+coeurt calls 40
+JCMJ folds
+Kalou du LDM folds
+sabre_laser calls 40
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 checks
+*** FLOP *** [Ac 9h Qd]
+AAFlo777 checks
+coeurt checks
+sabre_laser bets 70
+AAFlo777 folds
+coeurt calls 70
+*** TURN *** [Ac 9h Qd][4h]
+coeurt checks
+sabre_laser bets 140
+coeurt calls 140
+*** RIVER *** [Ac 9h Qd 4h][8c]
+coeurt checks
+sabre_laser checks
+*** SHOW DOWN ***
+sabre_laser shows [5s 5c] (One pair : 5)
+coeurt shows [Ah 6h] (One pair : Aces)
+coeurt collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Ac 9h Qd 4h 8c]
+Seat 7: coeurt showed [Ah 6h] and won 560 with One pair : Aces
+Seat 10: sabre_laser showed [5s 5c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565540256787464193-16-1442950245 - Holdem no limit (30/60) - 2015/09/22 19:30:45 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #4 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2177)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1430)
+Seat 6: IQTYQ3 (1259)
+Seat 7: coeurt (1935)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1230)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 30
+IQTYQ3 posts big blind 60
+Dealt to sabre_laser [Ks 5d]
+*** PRE-FLOP *** 
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 60
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 checks
+*** FLOP *** [Qc Ad Qh]
+IQTYQ3 checks
+Dan toretto bets 60
+IQTYQ3 folds
+Dan toretto collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Qc Ad Qh]
+Seat 2: Dan toretto won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565540256787464193-17-1442950294 - Holdem no limit (30/60) - 2015/09/22 19:31:34 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #5 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2267)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1199)
+Seat 7: coeurt (1935)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1230)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 30
+coeurt posts big blind 60
+Dealt to sabre_laser [5d 3d]
+*** PRE-FLOP *** 
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 7: coeurt (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565540256787464193-18-1442950344 - Holdem no limit (30/60) - 2015/09/22 19:32:24 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #6 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2267)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1965)
+Seat 8: JCMJ (1695)
+Seat 9: Kalou du LDM (1374)
+Seat 10: sabre_laser (1230)
+*** ANTE/BLINDS ***
+coeurt posts small blind 30
+JCMJ posts big blind 60
+Dealt to sabre_laser [Td 6h]
+*** PRE-FLOP *** 
+Kalou du LDM calls 60
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt calls 30
+JCMJ checks
+*** FLOP *** [Ts 3h 9h]
+coeurt checks
+JCMJ checks
+Kalou du LDM bets 180
+coeurt folds
+JCMJ folds
+Kalou du LDM collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ts 3h 9h]
+Seat 9: Kalou du LDM won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565540256787464193-19-1442950390 - Holdem no limit (30/60) - 2015/09/22 19:33:10 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #7 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2267)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (890)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1905)
+Seat 8: JCMJ (1635)
+Seat 9: Kalou du LDM (1494)
+Seat 10: sabre_laser (1230)
+*** ANTE/BLINDS ***
+JCMJ posts small blind 30
+Kalou du LDM posts big blind 60
+Dealt to sabre_laser [9c 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 60
+CESTFAB folds
+babamed calls 60
+AAFlo777 folds
+IQTYQ3 folds
+coeurt calls 60
+JCMJ folds
+Kalou du LDM checks
+*** FLOP *** [Jc 6h 3s]
+Kalou du LDM checks
+Dan toretto checks
+babamed checks
+coeurt bets 100
+Kalou du LDM folds
+Dan toretto calls 100
+babamed folds
+*** TURN *** [Jc 6h 3s][3h]
+Dan toretto checks
+coeurt checks
+*** RIVER *** [Jc 6h 3s 3h][8s]
+Dan toretto bets 470
+coeurt folds
+Dan toretto collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [Jc 6h 3s 3h 8s]
+Seat 2: Dan toretto won 940
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565540256787464193-20-1442950497 - Holdem no limit (30/60) - 2015/09/22 19:34:57 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #8 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2577)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (830)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1745)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (1434)
+Seat 10: sabre_laser (1230)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [7c 7s]
+*** PRE-FLOP *** 
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt raises 60 to 120
+JCMJ folds
+Kalou du LDM calls 90
+sabre_laser calls 60
+*** FLOP *** [3h Kc 4s]
+Kalou du LDM bets 180
+sabre_laser folds
+coeurt folds
+Kalou du LDM collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3h Kc 4s]
+Seat 9: Kalou du LDM (small blind) won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565540256787464193-21-1442950570 - Holdem no limit (30/60) - 2015/09/22 19:36:10 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #9 is the button
+Seat 1: AmenMyBread (1620)
+Seat 2: Dan toretto (2577)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (830)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (1674)
+Seat 10: sabre_laser (1110)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 30
+AmenMyBread posts big blind 60
+Dealt to sabre_laser [Ts 4d]
+*** PRE-FLOP *** 
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: AmenMyBread (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565540256787464193-22-1442950646 - Holdem no limit (40/80) - 2015/09/22 19:37:26 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #10 is the button
+Seat 1: AmenMyBread (1650)
+Seat 2: Dan toretto (2577)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (830)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (1674)
+Seat 10: sabre_laser (1080)
+*** ANTE/BLINDS ***
+AmenMyBread posts small blind 40
+Dan toretto posts big blind 80
+Dealt to sabre_laser [Tc 3s]
+*** PRE-FLOP *** 
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread raises 120 to 200
+Dan toretto folds
+AmenMyBread collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: AmenMyBread (small blind) won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565540256787464193-23-1442950740 - Holdem no limit (40/80) - 2015/09/22 19:39:00 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #1 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2497)
+Seat 3: CESTFAB (1390)
+Seat 4: babamed (830)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (1674)
+Seat 10: sabre_laser (1080)
+*** ANTE/BLINDS ***
+Dan toretto posts small blind 40
+CESTFAB posts big blind 80
+Dealt to sabre_laser [7c 5c]
+*** PRE-FLOP *** 
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto raises 80 to 160
+CESTFAB calls 80
+*** FLOP *** [3c 9d 7s]
+Dan toretto bets 80
+CESTFAB calls 80
+*** TURN *** [3c 9d 7s][8c]
+Dan toretto bets 80
+CESTFAB folds
+Dan toretto collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [3c 9d 7s 8c]
+Seat 2: Dan toretto (small blind) won 560
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565540256787464193-24-1442950800 - Holdem no limit (40/80) - 2015/09/22 19:40:00 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #2 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2737)
+Seat 3: CESTFAB (1150)
+Seat 4: babamed (830)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (1674)
+Seat 10: sabre_laser (1080)
+*** ANTE/BLINDS ***
+CESTFAB posts small blind 40
+babamed posts big blind 80
+Dealt to sabre_laser [Ac 2h]
+*** PRE-FLOP *** 
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM raises 120 to 200
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 200
+CESTFAB folds
+babamed folds
+*** FLOP *** [3d 5d 3h]
+Kalou du LDM checks
+Dan toretto checks
+*** TURN *** [3d 5d 3h][6s]
+Kalou du LDM checks
+Dan toretto checks
+*** RIVER *** [3d 5d 3h 6s][2s]
+Kalou du LDM checks
+Dan toretto bets 80
+Kalou du LDM calls 80
+*** SHOW DOWN ***
+Dan toretto shows [8s Ks] (One pair : 3)
+Kalou du LDM shows [Qc Kc] (One pair : 3)
+Kalou du LDM collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3d 5d 3h 6s 2s]
+Seat 2: Dan toretto (button) showed [8s Ks] and lost with One pair : 3
+Seat 9: Kalou du LDM showed [Qc Kc] and won 680 with One pair : 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565540256787464193-25-1442950891 - Holdem no limit (40/80) - 2015/09/22 19:41:31 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #3 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2457)
+Seat 3: CESTFAB (1110)
+Seat 4: babamed (750)
+Seat 5: AAFlo777 (1400)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1080)
+*** ANTE/BLINDS ***
+babamed posts small blind 40
+AAFlo777 posts big blind 80
+Dealt to sabre_laser [4c 7h]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 80
+CESTFAB folds
+babamed calls 40
+AAFlo777 checks
+*** FLOP *** [Qc 4d 9c]
+babamed checks
+AAFlo777 checks
+Dan toretto checks
+*** TURN *** [Qc 4d 9c][Jd]
+babamed checks
+AAFlo777 checks
+Dan toretto checks
+*** RIVER *** [Qc 4d 9c Jd][3c]
+babamed checks
+AAFlo777 checks
+Dan toretto checks
+*** SHOW DOWN ***
+Dan toretto shows [Ah 6d] (High card : Ace)
+babamed shows [7s 9s] (One pair : 9)
+AAFlo777 shows [Jh 8s] (One pair : Jacks)
+AAFlo777 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qc 4d 9c Jd 3c]
+Seat 2: Dan toretto showed [Ah 6d] and lost with High card : Ace
+Seat 4: babamed (small blind) showed [7s 9s] and lost with One pair : 9
+Seat 5: AAFlo777 (big blind) showed [Jh 8s] and won 240 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565540256787464193-26-1442951068 - Holdem no limit (60/120) - 2015/09/22 19:44:28 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #4 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2377)
+Seat 3: CESTFAB (1110)
+Seat 4: babamed (670)
+Seat 5: AAFlo777 (1560)
+Seat 6: IQTYQ3 (1169)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1080)
+*** ANTE/BLINDS ***
+AAFlo777 posts small blind 60
+IQTYQ3 posts big blind 120
+Dealt to sabre_laser [Jh 7c]
+*** PRE-FLOP *** 
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 120
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 checks
+*** FLOP *** [3d Kh 2c]
+IQTYQ3 checks
+Dan toretto bets 120
+IQTYQ3 folds
+Dan toretto collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [3d Kh 2c]
+Seat 2: Dan toretto won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565540256787464193-27-1442951148 - Holdem no limit (60/120) - 2015/09/22 19:45:48 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #5 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2557)
+Seat 3: CESTFAB (1110)
+Seat 4: babamed (670)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (1049)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1080)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 60
+coeurt posts big blind 120
+Dealt to sabre_laser [8d As]
+*** PRE-FLOP *** 
+JCMJ folds
+Kalou du LDM folds
+sabre_laser raises 240 to 360
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+sabre_laser collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 10: sabre_laser won 540
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565540256787464193-28-1442951257 - Holdem no limit (60/120) - 2015/09/22 19:47:37 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #6 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2557)
+Seat 3: CESTFAB (1110)
+Seat 4: babamed (670)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1505)
+Seat 8: JCMJ (1605)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1260)
+*** ANTE/BLINDS ***
+coeurt posts small blind 60
+JCMJ posts big blind 120
+Dealt to sabre_laser [9h Jh]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed raises 550 to 670 and is all-in
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+babamed collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 4: babamed won 850
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565540256787464193-29-1442951323 - Holdem no limit (80/160) - 2015/09/22 19:48:43 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #7 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2557)
+Seat 3: CESTFAB (1110)
+Seat 4: babamed (850)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1445)
+Seat 8: JCMJ (1485)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1260)
+*** ANTE/BLINDS ***
+JCMJ posts small blind 80
+Kalou du LDM posts big blind 160
+Dealt to sabre_laser [3h Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: Kalou du LDM (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565540256787464193-30-1442951380 - Holdem no limit (80/160) - 2015/09/22 19:49:40 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #8 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2557)
+Seat 3: CESTFAB (1110)
+Seat 4: babamed (850)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1445)
+Seat 8: JCMJ (1405)
+Seat 9: Kalou du LDM (2154)
+Seat 10: sabre_laser (1260)
+*** ANTE/BLINDS ***
+Kalou du LDM posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [4s 7d]
+*** PRE-FLOP *** 
+AmenMyBread folds
+Dan toretto folds
+CESTFAB calls 160
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser checks
+*** FLOP *** [Td Qh Jc]
+sabre_laser checks
+CESTFAB checks
+*** TURN *** [Td Qh Jc][2s]
+sabre_laser bets 240
+CESTFAB calls 240
+*** RIVER *** [Td Qh Jc 2s][3s]
+sabre_laser checks
+CESTFAB checks
+*** SHOW DOWN ***
+sabre_laser shows [4s 7d] (High card : Queen)
+CESTFAB shows [9c Ac] (High card : Ace)
+CESTFAB collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Td Qh Jc 2s 3s]
+Seat 3: CESTFAB showed [9c Ac] and won 880 with High card : Ace
+Seat 10: sabre_laser (big blind) showed [4s 7d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565540256787464193-31-1442951481 - Holdem no limit (80/160) - 2015/09/22 19:51:21 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #9 is the button
+Seat 1: AmenMyBread (1730)
+Seat 2: Dan toretto (2557)
+Seat 3: CESTFAB (1590)
+Seat 4: babamed (850)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1445)
+Seat 8: JCMJ (1405)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (860)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+AmenMyBread posts big blind 160
+Dealt to sabre_laser [8c As]
+*** PRE-FLOP *** 
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser raises 700 to 860 and is all-in
+AmenMyBread calls 700
+*** FLOP *** [Ad 8s Kh]
+*** TURN *** [Ad 8s Kh][9c]
+*** RIVER *** [Ad 8s Kh 9c][5s]
+*** SHOW DOWN ***
+AmenMyBread shows [Td Th] (One pair : Tens)
+sabre_laser shows [8c As] (Two pairs : Aces and 8)
+sabre_laser collected 1720 from pot
+*** SUMMARY ***
+Total pot 1720 | No rake
+Board: [Ad 8s Kh 9c 5s]
+Seat 1: AmenMyBread (big blind) showed [Td Th] and lost with One pair : Tens
+Seat 10: sabre_laser (small blind) showed [8c As] and won 1720 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565540256787464193-32-1442951539 - Holdem no limit (80/160) - 2015/09/22 19:52:19 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #10 is the button
+Seat 1: AmenMyBread (870)
+Seat 2: Dan toretto (2557)
+Seat 3: CESTFAB (1590)
+Seat 4: babamed (850)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1445)
+Seat 8: JCMJ (1405)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1720)
+*** ANTE/BLINDS ***
+AmenMyBread posts small blind 80
+Dan toretto posts big blind 160
+Dealt to sabre_laser [3h Qc]
+*** PRE-FLOP *** 
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread raises 710 to 870 and is all-in
+Dan toretto folds
+AmenMyBread collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Seat 1: AmenMyBread (small blind) won 1030
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565540256787464193-33-1442951592 - Holdem no limit (80/160) - 2015/09/22 19:53:12 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #1 is the button
+Seat 1: AmenMyBread (1030)
+Seat 2: Dan toretto (2397)
+Seat 3: CESTFAB (1590)
+Seat 4: babamed (850)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1445)
+Seat 8: JCMJ (1405)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1720)
+*** ANTE/BLINDS ***
+Dan toretto posts small blind 80
+CESTFAB posts big blind 160
+Dealt to sabre_laser [3s Kc]
+*** PRE-FLOP *** 
+babamed folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread raises 870 to 1030 and is all-in
+Dan toretto folds
+CESTFAB folds
+AmenMyBread collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | No rake
+Seat 1: AmenMyBread (button) won 1270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565540256787464193-34-1442951642 - Holdem no limit (80/160) - 2015/09/22 19:54:02 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #2 is the button
+Seat 1: AmenMyBread (1270)
+Seat 2: Dan toretto (2317)
+Seat 3: CESTFAB (1430)
+Seat 4: babamed (850)
+Seat 5: AAFlo777 (1500)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1445)
+Seat 8: JCMJ (1405)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1720)
+*** ANTE/BLINDS ***
+CESTFAB posts small blind 80
+babamed posts big blind 160
+Dealt to sabre_laser [6c 9d]
+*** PRE-FLOP *** 
+AAFlo777 raises 1340 to 1500 and is all-in
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 5: AAFlo777 won 1740
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565540256787464193-35-1442951710 - Holdem no limit (10/100/200) - 2015/09/22 19:55:10 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #3 is the button
+Seat 1: AmenMyBread (1270)
+Seat 2: Dan toretto (2317)
+Seat 3: CESTFAB (1350)
+Seat 4: babamed (690)
+Seat 5: AAFlo777 (1740)
+Seat 6: IQTYQ3 (989)
+Seat 7: coeurt (1445)
+Seat 8: JCMJ (1405)
+Seat 9: Kalou du LDM (2074)
+Seat 10: sabre_laser (1720)
+*** ANTE/BLINDS ***
+babamed posts ante 10
+AAFlo777 posts ante 10
+AmenMyBread posts ante 10
+Dan toretto posts ante 10
+CESTFAB posts ante 10
+IQTYQ3 posts ante 10
+coeurt posts ante 10
+JCMJ posts ante 10
+Kalou du LDM posts ante 10
+sabre_laser posts ante 10
+babamed posts small blind 100
+AAFlo777 posts big blind 200
+Dealt to sabre_laser [Kd Ah]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM raises 200 to 400
+sabre_laser raises 1310 to 1710 and is all-in
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed folds
+AAFlo777 folds
+Kalou du LDM folds
+sabre_laser collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Seat 10: sabre_laser won 2510
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565540256787464193-36-1442951783 - Holdem no limit (10/100/200) - 2015/09/22 19:56:23 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #4 is the button
+Seat 1: AmenMyBread (1260)
+Seat 2: Dan toretto (2307)
+Seat 3: CESTFAB (1340)
+Seat 4: babamed (580)
+Seat 5: AAFlo777 (1530)
+Seat 6: IQTYQ3 (979)
+Seat 7: coeurt (1435)
+Seat 8: JCMJ (1395)
+Seat 9: Kalou du LDM (1664)
+Seat 10: sabre_laser (2510)
+*** ANTE/BLINDS ***
+AAFlo777 posts ante 10
+IQTYQ3 posts ante 10
+AmenMyBread posts ante 10
+Dan toretto posts ante 10
+CESTFAB posts ante 10
+babamed posts ante 10
+coeurt posts ante 10
+JCMJ posts ante 10
+Kalou du LDM posts ante 10
+sabre_laser posts ante 10
+AAFlo777 posts small blind 100
+IQTYQ3 posts big blind 200
+Dealt to sabre_laser [9h 5c]
+*** PRE-FLOP *** 
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+babamed raises 370 to 570 and is all-in
+AAFlo777 folds
+IQTYQ3 calls 370
+*** FLOP *** [Jd 3d 2d]
+*** TURN *** [Jd 3d 2d][6h]
+*** RIVER *** [Jd 3d 2d 6h][Kh]
+*** SHOW DOWN ***
+babamed shows [Ts As] (High card : Ace)
+IQTYQ3 shows [Ah Jc] (One pair : Jacks)
+IQTYQ3 collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | No rake
+Board: [Jd 3d 2d 6h Kh]
+Seat 4: babamed (button) showed [Ts As] and lost with High card : Ace
+Seat 6: IQTYQ3 (big blind) showed [Ah Jc] and won 1340 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565540256787464193-37-1442951833 - Holdem no limit (10/100/200) - 2015/09/22 19:57:13 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #5 is the button
+Seat 1: AmenMyBread (1250)
+Seat 2: Dan toretto (2297)
+Seat 3: CESTFAB (1330)
+Seat 5: AAFlo777 (1420)
+Seat 6: IQTYQ3 (1739)
+Seat 7: coeurt (1425)
+Seat 8: JCMJ (1385)
+Seat 9: Kalou du LDM (1654)
+Seat 10: sabre_laser (2500)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 10
+coeurt posts ante 10
+AmenMyBread posts ante 10
+Dan toretto posts ante 10
+CESTFAB posts ante 10
+AAFlo777 posts ante 10
+JCMJ posts ante 10
+Kalou du LDM posts ante 10
+sabre_laser posts ante 10
+IQTYQ3 posts small blind 100
+coeurt posts big blind 200
+Dealt to sabre_laser [7d Td]
+*** PRE-FLOP *** 
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+AAFlo777 raises 1210 to 1410 and is all-in
+IQTYQ3 folds
+coeurt folds
+AAFlo777 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 5: AAFlo777 (button) won 1800
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565540256787464193-38-1442951861 - Holdem no limit (10/100/200) - 2015/09/22 19:57:41 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #6 is the button
+Seat 1: AmenMyBread (1240)
+Seat 2: Dan toretto (2287)
+Seat 3: CESTFAB (1320)
+Seat 5: AAFlo777 (1800)
+Seat 6: IQTYQ3 (1629)
+Seat 7: coeurt (1215)
+Seat 8: JCMJ (1375)
+Seat 9: Kalou du LDM (1644)
+Seat 10: sabre_laser (2490)
+*** ANTE/BLINDS ***
+coeurt posts ante 10
+JCMJ posts ante 10
+AmenMyBread posts ante 10
+Dan toretto posts ante 10
+CESTFAB posts ante 10
+AAFlo777 posts ante 10
+IQTYQ3 posts ante 10
+Kalou du LDM posts ante 10
+sabre_laser posts ante 10
+coeurt posts small blind 100
+JCMJ posts big blind 200
+Dealt to sabre_laser [Ac Ah]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+sabre_laser raises 200 to 400
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+sabre_laser collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 10: sabre_laser won 790
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565540256787464193-39-1442951894 - Holdem no limit (10/100/200) - 2015/09/22 19:58:14 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #7 is the button
+Seat 1: AmenMyBread (1230)
+Seat 2: Dan toretto (2277)
+Seat 3: CESTFAB (1310)
+Seat 5: AAFlo777 (1790)
+Seat 6: IQTYQ3 (1619)
+Seat 7: coeurt (1105)
+Seat 8: JCMJ (1165)
+Seat 9: Kalou du LDM (1634)
+Seat 10: sabre_laser (2870)
+*** ANTE/BLINDS ***
+JCMJ posts ante 10
+Kalou du LDM posts ante 10
+AmenMyBread posts ante 10
+Dan toretto posts ante 10
+CESTFAB posts ante 10
+AAFlo777 posts ante 10
+IQTYQ3 posts ante 10
+coeurt posts ante 10
+sabre_laser posts ante 10
+JCMJ posts small blind 100
+Kalou du LDM posts big blind 200
+Dealt to sabre_laser [Ks Qc]
+*** PRE-FLOP *** 
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ raises 955 to 1155 and is all-in
+Kalou du LDM folds
+JCMJ collected 1445 from pot
+*** SUMMARY ***
+Total pot 1445 | No rake
+Seat 8: JCMJ (small blind) won 1445
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565540256787464193-40-1442951961 - Holdem no limit (10/100/200) - 2015/09/22 19:59:21 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #8 is the button
+Seat 1: AmenMyBread (1220)
+Seat 2: Dan toretto (2267)
+Seat 3: CESTFAB (1300)
+Seat 5: AAFlo777 (1780)
+Seat 6: IQTYQ3 (1609)
+Seat 7: coeurt (1095)
+Seat 8: JCMJ (1445)
+Seat 9: Kalou du LDM (1424)
+Seat 10: sabre_laser (2860)
+*** ANTE/BLINDS ***
+Kalou du LDM posts ante 10
+sabre_laser posts ante 10
+AmenMyBread posts ante 10
+Dan toretto posts ante 10
+CESTFAB posts ante 10
+AAFlo777 posts ante 10
+IQTYQ3 posts ante 10
+coeurt posts ante 10
+JCMJ posts ante 10
+Kalou du LDM posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [8s Tc]
+*** PRE-FLOP *** 
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 10: sabre_laser (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565540256787464193-41-1442952018 - Holdem no limit (10/100/200) - 2015/09/22 20:00:18 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #9 is the button
+Seat 1: AmenMyBread (1210)
+Seat 2: Dan toretto (2257)
+Seat 3: CESTFAB (1290)
+Seat 5: AAFlo777 (1770)
+Seat 6: IQTYQ3 (1599)
+Seat 7: coeurt (1085)
+Seat 8: JCMJ (1435)
+Seat 9: Kalou du LDM (1314)
+Seat 10: sabre_laser (3040)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+AmenMyBread posts ante 10
+Dan toretto posts ante 10
+CESTFAB posts ante 10
+AAFlo777 posts ante 10
+IQTYQ3 posts ante 10
+coeurt posts ante 10
+JCMJ posts ante 10
+Kalou du LDM posts ante 10
+sabre_laser posts small blind 100
+AmenMyBread posts big blind 200
+Dealt to sabre_laser [7d 3d]
+*** PRE-FLOP *** 
+Dan toretto folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 1: AmenMyBread (big blind) won 390
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565540256787464193-42-1442952045 - Holdem no limit (20/150/300) - 2015/09/22 20:00:45 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #10 is the button
+Seat 1: AmenMyBread (1390)
+Seat 2: Dan toretto (2247)
+Seat 3: CESTFAB (1280)
+Seat 5: AAFlo777 (1760)
+Seat 6: IQTYQ3 (1589)
+Seat 7: coeurt (1075)
+Seat 8: JCMJ (1425)
+Seat 9: Kalou du LDM (1304)
+Seat 10: sabre_laser (2930)
+*** ANTE/BLINDS ***
+AmenMyBread posts ante 20
+Dan toretto posts ante 20
+CESTFAB posts ante 20
+AAFlo777 posts ante 20
+IQTYQ3 posts ante 20
+coeurt posts ante 20
+JCMJ posts ante 20
+Kalou du LDM posts ante 20
+sabre_laser posts ante 20
+AmenMyBread posts small blind 150
+Dan toretto posts big blind 300
+Dealt to sabre_laser [5c 4d]
+*** PRE-FLOP *** 
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM raises 300 to 600
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+Kalou du LDM collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Seat 9: Kalou du LDM won 1230
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565540256787464193-43-1442952111 - Holdem no limit (20/150/300) - 2015/09/22 20:01:51 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #1 is the button
+Seat 1: AmenMyBread (1220)
+Seat 2: Dan toretto (1927)
+Seat 3: CESTFAB (1260)
+Seat 5: AAFlo777 (1740)
+Seat 6: IQTYQ3 (1569)
+Seat 7: coeurt (1055)
+Seat 8: JCMJ (1405)
+Seat 9: Kalou du LDM (1914)
+Seat 10: sabre_laser (2910)
+*** ANTE/BLINDS ***
+Dan toretto posts ante 20
+CESTFAB posts ante 20
+AmenMyBread posts ante 20
+AAFlo777 posts ante 20
+IQTYQ3 posts ante 20
+coeurt posts ante 20
+JCMJ posts ante 20
+Kalou du LDM posts ante 20
+sabre_laser posts ante 20
+Dan toretto posts small blind 150
+CESTFAB posts big blind 300
+Dealt to sabre_laser [Jc 8s]
+*** PRE-FLOP *** 
+AAFlo777 folds
+IQTYQ3 folds
+coeurt raises 735 to 1035 and is all-in
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+coeurt collected 1665 from pot
+*** SUMMARY ***
+Total pot 1665 | No rake
+Seat 7: coeurt won 1665
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565540256787464193-44-1442952142 - Holdem no limit (20/150/300) - 2015/09/22 20:02:22 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #2 is the button
+Seat 1: AmenMyBread (1200)
+Seat 2: Dan toretto (1757)
+Seat 3: CESTFAB (940)
+Seat 5: AAFlo777 (1720)
+Seat 6: IQTYQ3 (1549)
+Seat 7: coeurt (1665)
+Seat 8: JCMJ (1385)
+Seat 9: Kalou du LDM (1894)
+Seat 10: sabre_laser (2890)
+*** ANTE/BLINDS ***
+CESTFAB posts ante 20
+AAFlo777 posts ante 20
+AmenMyBread posts ante 20
+Dan toretto posts ante 20
+IQTYQ3 posts ante 20
+coeurt posts ante 20
+JCMJ posts ante 20
+Kalou du LDM posts ante 20
+sabre_laser posts ante 20
+CESTFAB posts small blind 150
+AAFlo777 posts big blind 300
+Dealt to sabre_laser [4s 5c]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto calls 300
+CESTFAB folds
+AAFlo777 checks
+*** FLOP *** [6c 8s 7s]
+AAFlo777 bets 620
+Dan toretto calls 620
+*** TURN *** [6c 8s 7s][Ks]
+AAFlo777 bets 780 and is all-in
+Dan toretto calls 780
+*** RIVER *** [6c 8s 7s Ks][7d]
+*** SHOW DOWN ***
+Dan toretto shows [6s Ac] (Two pairs : 7 and 6)
+AAFlo777 shows [4d 5h] (Straight 8 high)
+AAFlo777 collected 3730 from pot
+*** SUMMARY ***
+Total pot 3730 | No rake
+Board: [6c 8s 7s Ks 7d]
+Seat 2: Dan toretto (button) showed [6s Ac] and lost with Two pairs : 7 and 6
+Seat 5: AAFlo777 (big blind) showed [4d 5h] and won 3730 with Straight 8 high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565540256787464193-45-1442952221 - Holdem no limit (20/150/300) - 2015/09/22 20:03:41 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #3 is the button
+Seat 1: AmenMyBread (1180)
+Seat 2: Dan toretto (37)
+Seat 3: CESTFAB (770)
+Seat 5: AAFlo777 (3730)
+Seat 6: IQTYQ3 (1529)
+Seat 7: coeurt (1645)
+Seat 8: JCMJ (1365)
+Seat 9: Kalou du LDM (1874)
+Seat 10: sabre_laser (2870)
+*** ANTE/BLINDS ***
+AAFlo777 posts ante 20
+IQTYQ3 posts ante 20
+AmenMyBread posts ante 20
+Dan toretto posts ante 20
+CESTFAB posts ante 20
+coeurt posts ante 20
+JCMJ posts ante 20
+Kalou du LDM posts ante 20
+sabre_laser posts ante 20
+AAFlo777 posts small blind 150
+IQTYQ3 posts big blind 300
+Dealt to sabre_laser [7s Kc]
+*** PRE-FLOP *** 
+coeurt folds
+JCMJ raises 1045 to 1345 and is all-in
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+Dan toretto folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+JCMJ collected 1975 from pot
+*** SUMMARY ***
+Total pot 1975 | No rake
+Seat 8: JCMJ won 1975
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565540256787464193-46-1442952365 - Holdem no limit (20/150/300) - 2015/09/22 20:06:05 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #5 is the button
+Seat 1: AmenMyBread (1160)
+Seat 2: Dan toretto (17)
+Seat 3: CESTFAB (750)
+Seat 5: AAFlo777 (3560)
+Seat 6: IQTYQ3 (1209)
+Seat 7: coeurt (1625)
+Seat 8: JCMJ (1975)
+Seat 9: Kalou du LDM (1854)
+Seat 10: sabre_laser (2850)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 20
+coeurt posts ante 20
+AmenMyBread posts ante 20
+Dan toretto posts ante 17 and is all-in
+CESTFAB posts ante 20
+AAFlo777 posts ante 20
+JCMJ posts ante 20
+Kalou du LDM posts ante 20
+sabre_laser posts ante 20
+IQTYQ3 posts small blind 150
+coeurt posts big blind 300
+Dealt to sabre_laser [5h Kd]
+*** PRE-FLOP *** 
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 raises 889 to 1189 and is all-in
+coeurt folds
+*** FLOP *** [Kh 6s 7h]
+*** TURN *** [Kh 6s 7h][8c]
+*** RIVER *** [Kh 6s 7h 8c][3c]
+*** SHOW DOWN ***
+Dan toretto shows [As 4h] (High card : Ace)
+IQTYQ3 shows [7d Ks] (Two pairs : Kings and 7)
+IQTYQ3 collected 1666 from pot
+*** SUMMARY ***
+Total pot 1666 | No rake
+Board: [Kh 6s 7h 8c 3c]
+Seat 2: Dan toretto showed [As 4h] and lost with High card : Ace
+Seat 6: IQTYQ3 (small blind) showed [7d Ks] and won 1666 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565540256787464193-47-1442952418 - Holdem no limit (50/200/400) - 2015/09/22 20:06:58 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #6 is the button
+Seat 1: AmenMyBread (1140)
+Seat 3: CESTFAB (730)
+Seat 5: AAFlo777 (3540)
+Seat 6: IQTYQ3 (1666)
+Seat 7: coeurt (1305)
+Seat 8: JCMJ (1955)
+Seat 9: Kalou du LDM (1834)
+Seat 10: sabre_laser (2830)
+*** ANTE/BLINDS ***
+coeurt posts ante 50
+JCMJ posts ante 50
+AmenMyBread posts ante 50
+CESTFAB posts ante 50
+AAFlo777 posts ante 50
+IQTYQ3 posts ante 50
+Kalou du LDM posts ante 50
+sabre_laser posts ante 50
+coeurt posts small blind 200
+JCMJ posts big blind 400
+Dealt to sabre_laser [Ac Qd]
+*** PRE-FLOP *** 
+Kalou du LDM folds
+sabre_laser raises 2380 to 2780 and is all-in
+AmenMyBread folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ folds
+sabre_laser collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | No rake
+Seat 10: sabre_laser won 3780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565540256787464193-48-1442952475 - Holdem no limit (50/200/400) - 2015/09/22 20:07:55 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #7 is the button
+Seat 1: AmenMyBread (1090)
+Seat 3: CESTFAB (680)
+Seat 5: AAFlo777 (3490)
+Seat 6: IQTYQ3 (1616)
+Seat 7: coeurt (1055)
+Seat 8: JCMJ (1505)
+Seat 9: Kalou du LDM (1784)
+Seat 10: sabre_laser (3780)
+*** ANTE/BLINDS ***
+JCMJ posts ante 50
+Kalou du LDM posts ante 50
+AmenMyBread posts ante 50
+CESTFAB posts ante 50
+AAFlo777 posts ante 50
+IQTYQ3 posts ante 50
+coeurt posts ante 50
+sabre_laser posts ante 50
+JCMJ posts small blind 200
+Kalou du LDM posts big blind 400
+Dealt to sabre_laser [8s Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+AmenMyBread folds
+CESTFAB folds
+AAFlo777 folds
+IQTYQ3 folds
+coeurt folds
+JCMJ raises 1055 to 1455 and is all-in
+Kalou du LDM folds
+JCMJ collected 2255 from pot
+*** SUMMARY ***
+Total pot 2255 | No rake
+Seat 8: JCMJ (small blind) won 2255
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565540256787464193-49-1442952519 - Holdem no limit (50/200/400) - 2015/09/22 20:08:39 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #8 is the button
+Seat 1: AmenMyBread (1040)
+Seat 3: CESTFAB (630)
+Seat 5: AAFlo777 (3440)
+Seat 6: IQTYQ3 (1566)
+Seat 7: coeurt (1005)
+Seat 8: JCMJ (2255)
+Seat 9: Kalou du LDM (1334)
+Seat 10: sabre_laser (3730)
+*** ANTE/BLINDS ***
+Kalou du LDM posts ante 50
+sabre_laser posts ante 50
+AmenMyBread posts ante 50
+CESTFAB posts ante 50
+AAFlo777 posts ante 50
+IQTYQ3 posts ante 50
+coeurt posts ante 50
+JCMJ posts ante 50
+Kalou du LDM posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Ts 2h]
+*** PRE-FLOP *** 
+AmenMyBread folds
+CESTFAB folds
+AAFlo777 raises 2990 to 3390 and is all-in
+IQTYQ3 folds
+coeurt calls 955 and is all-in
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+*** FLOP *** [9d Ad Td]
+*** TURN *** [9d Ad Td][4h]
+*** RIVER *** [9d Ad Td 4h][4s]
+*** SHOW DOWN ***
+coeurt shows [8c 7c] (One pair : 4)
+AAFlo777 shows [Jd Jh] (Two pairs : Jacks and 4)
+AAFlo777 collected 5345 from pot
+*** SUMMARY ***
+Total pot 5345 | No rake
+Board: [9d Ad Td 4h 4s]
+Seat 5: AAFlo777 showed [Jd Jh] and won 5345 with Two pairs : Jacks and 4
+Seat 7: coeurt showed [8c 7c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565540256787464193-50-1442952561 - Holdem no limit (50/200/400) - 2015/09/22 20:09:21 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #9 is the button
+Seat 1: AmenMyBread (990)
+Seat 3: CESTFAB (580)
+Seat 5: AAFlo777 (5345)
+Seat 6: IQTYQ3 (1516)
+Seat 8: JCMJ (2205)
+Seat 9: Kalou du LDM (1084)
+Seat 10: sabre_laser (3280)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+AmenMyBread posts ante 50
+CESTFAB posts ante 50
+AAFlo777 posts ante 50
+IQTYQ3 posts ante 50
+JCMJ posts ante 50
+Kalou du LDM posts ante 50
+sabre_laser posts small blind 200
+AmenMyBread posts big blind 400
+Dealt to sabre_laser [6d 4h]
+*** PRE-FLOP *** 
+CESTFAB folds
+AAFlo777 raises 4895 to 5295 and is all-in
+IQTYQ3 folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+AmenMyBread calls 540 and is all-in
+*** FLOP *** [3h As 9h]
+*** TURN *** [3h As 9h][2h]
+*** RIVER *** [3h As 9h 2h][5d]
+*** SHOW DOWN ***
+AmenMyBread shows [2s Qc] (One pair : 2)
+AAFlo777 shows [Qs Ah] (One pair : Aces)
+AAFlo777 collected 6785 from pot
+*** SUMMARY ***
+Total pot 6785 | No rake
+Board: [3h As 9h 2h 5d]
+Seat 1: AmenMyBread (big blind) showed [2s Qc] and lost with One pair : 2
+Seat 5: AAFlo777 showed [Qs Ah] and won 6785 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565540256787464193-51-1442952622 - Holdem no limit (50/200/400) - 2015/09/22 20:10:22 UTC
+Table: 'Double or Nothing(131675102)#0' 10-max (real money) Seat #10 is the button
+Seat 3: CESTFAB (530)
+Seat 5: AAFlo777 (6785)
+Seat 6: IQTYQ3 (1466)
+Seat 8: JCMJ (2155)
+Seat 9: Kalou du LDM (1034)
+Seat 10: sabre_laser (3030)
+*** ANTE/BLINDS ***
+CESTFAB posts ante 50
+AAFlo777 posts ante 50
+IQTYQ3 posts ante 50
+JCMJ posts ante 50
+Kalou du LDM posts ante 50
+sabre_laser posts ante 50
+CESTFAB posts big blind 400
+Dealt to sabre_laser [8d 5h]
+*** PRE-FLOP *** 
+AAFlo777 raises 400 to 800
+IQTYQ3 folds
+JCMJ folds
+Kalou du LDM folds
+sabre_laser folds
+CESTFAB calls 80 and is all-in
+*** FLOP *** [2h 4c 6c]
+*** TURN *** [2h 4c 6c][Ks]
+*** RIVER *** [2h 4c 6c Ks][6h]
+*** SHOW DOWN ***
+CESTFAB shows [Kh 3s] (Two pairs : Kings and 6)
+AAFlo777 shows [Qd Kc] (Two pairs : Kings and 6)
+AAFlo777 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Board: [2h 4c 6c Ks 6h]
+Seat 3: CESTFAB (big blind) showed [Kh 3s] and lost with Two pairs : Kings and 6
+Seat 5: AAFlo777 showed [Qd Kc] and won 1580 with Two pairs : Kings and 6
+
+

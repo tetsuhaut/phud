@@ -1,0 +1,2294 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565572623661006849-1-1442952708 - Holdem no limit (10/20) - 2015/09/22 20:11:48 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Idealkif (1500)
+Seat 2: sabre_laser (1500)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1500)
+Seat 5: G_ZU (1500)
+Seat 6: TrickyVinc (1500)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1500)
+*** ANTE/BLINDS ***
+FIRLOU posts small blind 10
+patochem posts big blind 20
+Dealt to sabre_laser [2h Ks]
+*** PRE-FLOP *** 
+Idealkif raises 20 to 40
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc calls 40
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+*** FLOP *** [9s Js Qh]
+Idealkif checks
+TrickyVinc checks
+*** TURN *** [9s Js Qh][3c]
+Idealkif bets 57
+TrickyVinc calls 57
+*** RIVER *** [9s Js Qh 3c][3h]
+Idealkif checks
+TrickyVinc checks
+*** SHOW DOWN ***
+Idealkif shows [Ad 9c] (Two pairs : 9 and 3)
+TrickyVinc shows [Jc Ac] (Two pairs : Jacks and 3)
+TrickyVinc collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | No rake
+Board: [9s Js Qh 3c 3h]
+Seat 1: Idealkif showed [Ad 9c] and lost with Two pairs : 9 and 3
+Seat 6: TrickyVinc showed [Jc Ac] and won 224 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565572623661006849-2-1442952842 - Holdem no limit (10/20) - 2015/09/22 20:14:02 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Idealkif (1403)
+Seat 2: sabre_laser (1500)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1500)
+Seat 5: G_ZU (1500)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1490)
+Seat 10: patochem (1480)
+*** ANTE/BLINDS ***
+patochem posts small blind 10
+Idealkif posts big blind 20
+Dealt to sabre_laser [Td 5h]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem calls 10
+Idealkif checks
+*** FLOP *** [9c 9h 9d]
+patochem checks
+Idealkif checks
+*** TURN *** [9c 9h 9d][Tc]
+patochem checks
+Idealkif checks
+*** RIVER *** [9c 9h 9d Tc][Kd]
+patochem checks
+Idealkif bets 20
+patochem folds
+Idealkif collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9c 9h 9d Tc Kd]
+Seat 1: Idealkif (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565572623661006849-3-1442952905 - Holdem no limit (10/20) - 2015/09/22 20:15:05 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Idealkif (1423)
+Seat 2: sabre_laser (1500)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1500)
+Seat 5: G_ZU (1500)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1490)
+Seat 10: patochem (1460)
+*** ANTE/BLINDS ***
+Idealkif posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [7d Js]
+*** PRE-FLOP *** 
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem raises 20 to 40
+Idealkif calls 30
+sabre_laser folds
+*** FLOP *** [5h 9d Kc]
+Idealkif checks
+patochem bets 50
+Idealkif folds
+patochem collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5h 9d Kc]
+Seat 10: patochem (button) won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565572623661006849-4-1442952979 - Holdem no limit (10/20) - 2015/09/22 20:16:19 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Idealkif (1383)
+Seat 2: sabre_laser (1480)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1500)
+Seat 5: G_ZU (1500)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1490)
+Seat 10: patochem (1520)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 10
+SpewItRight posts big blind 20
+Dealt to sabre_laser [Ah Ad]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser raises 20 to 40
+SpewItRight folds
+sabre_laser collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: sabre_laser (small blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #565572623661006849-5-1442953033 - Holdem no limit (10/20) - 2015/09/22 20:17:13 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Idealkif (1383)
+Seat 2: sabre_laser (1500)
+Seat 3: SpewItRight (1480)
+Seat 4: IQTYQ3 (1500)
+Seat 5: G_ZU (1500)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1490)
+Seat 10: patochem (1520)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 10
+IQTYQ3 posts big blind 20
+Dealt to sabre_laser [5c 6c]
+*** PRE-FLOP *** 
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU calls 20
+patochem folds
+Idealkif raises 41 to 61
+sabre_laser calls 61
+SpewItRight folds
+IQTYQ3 folds
+FIRLOU calls 41
+*** FLOP *** [8d 3d 6s]
+FIRLOU checks
+Idealkif checks
+sabre_laser bets 160
+FIRLOU folds
+Idealkif folds
+sabre_laser collected 373 from pot
+*** SUMMARY ***
+Total pot 373 | No rake
+Board: [8d 3d 6s]
+Seat 2: sabre_laser (button) won 373
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565572623661006849-6-1442953133 - Holdem no limit (15/30) - 2015/09/22 20:18:53 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Idealkif (1322)
+Seat 2: sabre_laser (1652)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1480)
+Seat 5: G_ZU (1500)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1429)
+Seat 10: patochem (1520)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 15
+G_ZU posts big blind 30
+Dealt to sabre_laser [8s Th]
+*** PRE-FLOP *** 
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif raises 43 to 73
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+Idealkif collected 118 from pot
+*** SUMMARY ***
+Total pot 118 | No rake
+Seat 1: Idealkif won 118
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565572623661006849-7-1442953184 - Holdem no limit (15/30) - 2015/09/22 20:19:44 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Idealkif (1367)
+Seat 2: sabre_laser (1652)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1470)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1429)
+Seat 10: patochem (1520)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 15
+TrickyVinc posts big blind 30
+Dealt to sabre_laser [4c Td]
+*** PRE-FLOP *** 
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: TrickyVinc (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565572623661006849-8-1442953235 - Holdem no limit (15/30) - 2015/09/22 20:20:35 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Idealkif (1367)
+Seat 2: sabre_laser (1652)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1642)
+Seat 7: Donkinou (1500)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1429)
+Seat 10: patochem (1520)
+*** ANTE/BLINDS ***
+TrickyVinc posts small blind 15
+Donkinou posts big blind 30
+Dealt to sabre_laser [Ts Kc]
+*** PRE-FLOP *** 
+.Roxon. folds
+FIRLOU folds
+patochem raises 30 to 60
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+patochem collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 10: patochem won 105
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565572623661006849-9-1442953292 - Holdem no limit (15/30) - 2015/09/22 20:21:32 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Idealkif (1367)
+Seat 2: sabre_laser (1652)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1470)
+Seat 8: .Roxon. (1500)
+Seat 9: FIRLOU (1429)
+Seat 10: patochem (1565)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 15
+.Roxon. posts big blind 30
+Dealt to sabre_laser [Kh Ks]
+*** PRE-FLOP *** 
+FIRLOU folds
+patochem raises 30 to 60
+Idealkif folds
+sabre_laser calls 60
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+*** FLOP *** [Tc As 2s]
+patochem checks
+sabre_laser checks
+*** TURN *** [Tc As 2s][5s]
+patochem checks
+sabre_laser checks
+*** RIVER *** [Tc As 2s 5s][2c]
+patochem checks
+sabre_laser bets 30
+patochem calls 30
+*** SHOW DOWN ***
+patochem shows [Jc Jd] (Two pairs : Jacks and 2)
+sabre_laser shows [Kh Ks] (Two pairs : Kings and 2)
+sabre_laser collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [Tc As 2s 5s 2c]
+Seat 2: sabre_laser showed [Kh Ks] and won 225 with Two pairs : Kings and 2
+Seat 10: patochem showed [Jc Jd] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565572623661006849-10-1442953372 - Holdem no limit (15/30) - 2015/09/22 20:22:52 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Idealkif (1367)
+Seat 2: sabre_laser (1787)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1470)
+Seat 9: FIRLOU (1429)
+Seat 10: patochem (1475)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 15
+FIRLOU posts big blind 30
+Dealt to sabre_laser [8d 3d]
+*** PRE-FLOP *** 
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 9: FIRLOU (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #565572623661006849-11-1442953392 - Holdem no limit (15/30) - 2015/09/22 20:23:12 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Idealkif (1367)
+Seat 2: sabre_laser (1787)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1444)
+Seat 10: patochem (1475)
+*** ANTE/BLINDS ***
+FIRLOU posts small blind 15
+patochem posts big blind 30
+Dealt to sabre_laser [Qd 4s]
+*** PRE-FLOP *** 
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 10: patochem (big blind) won 45
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565572623661006849-12-1442953446 - Holdem no limit (20/40) - 2015/09/22 20:24:06 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Idealkif (1367)
+Seat 2: sabre_laser (1787)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1429)
+Seat 10: patochem (1490)
+*** ANTE/BLINDS ***
+patochem posts small blind 20
+Idealkif posts big blind 40
+Dealt to sabre_laser [6s Ad]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem calls 20
+Idealkif raises 86 to 126
+patochem calls 86
+*** FLOP *** [Th 9s 9d]
+patochem checks
+Idealkif bets 1241 and is all-in
+patochem folds
+Idealkif collected 1493 from pot
+*** SUMMARY ***
+Total pot 1493 | No rake
+Board: [Th 9s 9d]
+Seat 1: Idealkif (big blind) won 1493
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565572623661006849-13-1442953512 - Holdem no limit (20/40) - 2015/09/22 20:25:12 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Idealkif (1493)
+Seat 2: sabre_laser (1787)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1429)
+Seat 10: patochem (1364)
+*** ANTE/BLINDS ***
+Idealkif posts small blind 20
+sabre_laser posts big blind 40
+Dealt to sabre_laser [Ks 3d]
+*** PRE-FLOP *** 
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU raises 40 to 80
+patochem folds
+Idealkif folds
+sabre_laser folds
+FIRLOU collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 9: FIRLOU won 140
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565572623661006849-14-1442953561 - Holdem no limit (20/40) - 2015/09/22 20:26:01 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Idealkif (1473)
+Seat 2: sabre_laser (1747)
+Seat 3: SpewItRight (1470)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1489)
+Seat 10: patochem (1364)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 20
+SpewItRight posts big blind 40
+Dealt to sabre_laser [6s 6h]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif raises 58 to 98
+sabre_laser calls 78
+SpewItRight folds
+*** FLOP *** [2h 8c Js]
+sabre_laser checks
+Idealkif checks
+*** TURN *** [2h 8c Js][Qh]
+sabre_laser checks
+Idealkif checks
+*** RIVER *** [2h 8c Js Qh][7d]
+sabre_laser checks
+Idealkif checks
+*** SHOW DOWN ***
+Idealkif shows [5h Ah] (High card : Ace)
+sabre_laser shows [6s 6h] (One pair : 6)
+sabre_laser collected 236 from pot
+*** SUMMARY ***
+Total pot 236 | No rake
+Board: [2h 8c Js Qh 7d]
+Seat 1: Idealkif (button) showed [5h Ah] and lost with High card : Ace
+Seat 2: sabre_laser (small blind) showed [6s 6h] and won 236 with One pair : 6
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565572623661006849-15-1442953632 - Holdem no limit (20/40) - 2015/09/22 20:27:12 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Idealkif (1375)
+Seat 2: sabre_laser (1885)
+Seat 3: SpewItRight (1430)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1489)
+Seat 10: patochem (1364)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 20
+IQTYQ3 posts big blind 40
+Dealt to sabre_laser [9s 4s]
+*** PRE-FLOP *** 
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: IQTYQ3 (big blind) won 60
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565572623661006849-16-1442953653 - Holdem no limit (20/40) - 2015/09/22 20:27:33 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Idealkif (1375)
+Seat 2: sabre_laser (1885)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1485)
+Seat 5: G_ZU (1455)
+Seat 6: TrickyVinc (1627)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1489)
+Seat 10: patochem (1364)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 20
+G_ZU posts big blind 40
+Dealt to sabre_laser [5c 7c]
+*** PRE-FLOP *** 
+TrickyVinc calls 40
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU checks
+*** FLOP *** [7d Qs Jc]
+G_ZU checks
+TrickyVinc bets 50
+G_ZU folds
+TrickyVinc collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [7d Qs Jc]
+Seat 6: TrickyVinc won 150
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #565572623661006849-17-1442953702 - Holdem no limit (20/40) - 2015/09/22 20:28:22 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Idealkif (1375)
+Seat 2: sabre_laser (1885)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1415)
+Seat 6: TrickyVinc (1687)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1489)
+Seat 10: patochem (1364)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 20
+TrickyVinc posts big blind 40
+Dealt to sabre_laser [3c Ad]
+*** PRE-FLOP *** 
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem calls 40
+Idealkif calls 40
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc checks
+*** FLOP *** [8c As 2d]
+TrickyVinc checks
+patochem checks
+Idealkif checks
+*** TURN *** [8c As 2d][Kh]
+TrickyVinc checks
+patochem checks
+Idealkif checks
+*** RIVER *** [8c As 2d Kh][5s]
+TrickyVinc checks
+patochem checks
+Idealkif checks
+*** SHOW DOWN ***
+Idealkif shows [3d 5d] (One pair : 5)
+TrickyVinc shows [Js 9h] (High card : Ace)
+patochem shows [Qc Ks] (One pair : Kings)
+patochem collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [8c As 2d Kh 5s]
+Seat 1: Idealkif showed [3d 5d] and lost with One pair : 5
+Seat 6: TrickyVinc (big blind) showed [Js 9h] and lost with High card : Ace
+Seat 10: patochem showed [Qc Ks] and won 140 with One pair : Kings
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565572623661006849-18-1442953789 - Holdem no limit (30/60) - 2015/09/22 20:29:49 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Idealkif (1335)
+Seat 2: sabre_laser (1885)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1647)
+Seat 7: Donkinou (1455)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1489)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+TrickyVinc posts small blind 30
+Donkinou posts big blind 60
+Dealt to sabre_laser [Ks 7c]
+*** PRE-FLOP *** 
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc calls 30
+Donkinou checks
+*** FLOP *** [5h 5d As]
+TrickyVinc bets 60
+Donkinou folds
+TrickyVinc collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5h 5d As]
+Seat 6: TrickyVinc (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565572623661006849-19-1442953853 - Holdem no limit (30/60) - 2015/09/22 20:30:53 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Idealkif (1335)
+Seat 2: sabre_laser (1885)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1395)
+Seat 8: .Roxon. (1455)
+Seat 9: FIRLOU (1489)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 30
+.Roxon. posts big blind 60
+Dealt to sabre_laser [3s 5d]
+*** PRE-FLOP *** 
+FIRLOU folds
+patochem raises 60 to 120
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+patochem collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 10: patochem won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565572623661006849-20-1442953905 - Holdem no limit (30/60) - 2015/09/22 20:31:45 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Idealkif (1335)
+Seat 2: sabre_laser (1885)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1395)
+Seat 9: FIRLOU (1489)
+Seat 10: patochem (1554)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 30
+FIRLOU posts big blind 60
+Dealt to sabre_laser [Ks Jd]
+*** PRE-FLOP *** 
+patochem folds
+Idealkif folds
+sabre_laser calls 60
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU checks
+*** FLOP *** [5h Ad 9h]
+FIRLOU bets 75
+sabre_laser folds
+FIRLOU collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [5h Ad 9h]
+Seat 9: FIRLOU (big blind) won 225
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565572623661006849-21-1442953975 - Holdem no limit (30/60) - 2015/09/22 20:32:55 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 1: Idealkif (1335)
+Seat 2: sabre_laser (1825)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1579)
+Seat 10: patochem (1554)
+*** ANTE/BLINDS ***
+FIRLOU posts small blind 30
+patochem posts big blind 60
+Dealt to sabre_laser [8d 3h]
+*** PRE-FLOP *** 
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU raises 60 to 120
+patochem folds
+FIRLOU collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: FIRLOU (small blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565572623661006849-22-1442954024 - Holdem no limit (30/60) - 2015/09/22 20:33:44 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Idealkif (1335)
+Seat 2: sabre_laser (1825)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1639)
+Seat 10: patochem (1494)
+*** ANTE/BLINDS ***
+patochem posts small blind 30
+Idealkif posts big blind 60
+Dealt to sabre_laser [4s 8c]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU calls 60
+patochem folds
+Idealkif checks
+*** FLOP *** [Qc Kd Jc]
+Idealkif checks
+FIRLOU checks
+*** TURN *** [Qc Kd Jc][4c]
+Idealkif bets 79
+FIRLOU calls 79
+*** RIVER *** [Qc Kd Jc 4c][Ac]
+Idealkif checks
+FIRLOU checks
+*** SHOW DOWN ***
+FIRLOU shows [Ah 4d] (Two pairs : Aces and 4)
+Idealkif shows [Tc 3s] (Flush Ace high)
+Idealkif collected 308 from pot
+*** SUMMARY ***
+Total pot 308 | No rake
+Board: [Qc Kd Jc 4c Ac]
+Seat 1: Idealkif (big blind) showed [Tc 3s] and won 308 with Flush Ace high
+Seat 9: FIRLOU (button) showed [Ah 4d] and lost with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #565572623661006849-23-1442954116 - Holdem no limit (30/60) - 2015/09/22 20:35:16 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Idealkif (1504)
+Seat 2: sabre_laser (1825)
+Seat 3: SpewItRight (1410)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+Idealkif posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [3c 6s]
+*** PRE-FLOP *** 
+SpewItRight raises 60 to 120
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: SpewItRight won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565572623661006849-24-1442954166 - Holdem no limit (40/80) - 2015/09/22 20:36:06 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Idealkif (1474)
+Seat 2: sabre_laser (1765)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+SpewItRight posts big blind 80
+Dealt to sabre_laser [7c 8d]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc raises 104 to 184
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+TrickyVinc collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Seat 6: TrickyVinc won 304
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565572623661006849-25-1442954219 - Holdem no limit (40/80) - 2015/09/22 20:36:59 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Idealkif (1474)
+Seat 2: sabre_laser (1725)
+Seat 3: SpewItRight (1420)
+Seat 4: IQTYQ3 (1465)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1827)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 40
+IQTYQ3 posts big blind 80
+Dealt to sabre_laser [8d 3d]
+*** PRE-FLOP *** 
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif raises 107 to 187
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+Idealkif collected 307 from pot
+*** SUMMARY ***
+Total pot 307 | No rake
+Seat 1: Idealkif won 307
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565572623661006849-26-1442954275 - Holdem no limit (40/80) - 2015/09/22 20:37:55 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Idealkif (1594)
+Seat 2: sabre_laser (1725)
+Seat 3: SpewItRight (1380)
+Seat 4: IQTYQ3 (1385)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1827)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 40
+G_ZU posts big blind 80
+Dealt to sabre_laser [7c Jc]
+*** PRE-FLOP *** 
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: G_ZU (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565572623661006849-27-1442954329 - Holdem no limit (40/80) - 2015/09/22 20:38:49 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #4 is the button
+Seat 1: Idealkif (1594)
+Seat 2: sabre_laser (1725)
+Seat 3: SpewItRight (1380)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1435)
+Seat 6: TrickyVinc (1827)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 40
+TrickyVinc posts big blind 80
+Dealt to sabre_laser [5s 6s]
+*** PRE-FLOP *** 
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif raises 113 to 193
+sabre_laser raises 167 to 360
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Idealkif calls 167
+*** FLOP *** [Ks Jc 2h]
+Idealkif checks
+sabre_laser bets 240
+Idealkif folds
+sabre_laser collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Ks Jc 2h]
+Seat 2: sabre_laser won 1080
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565572623661006849-28-1442954420 - Holdem no limit (40/80) - 2015/09/22 20:40:20 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #5 is the button
+Seat 1: Idealkif (1234)
+Seat 2: sabre_laser (2205)
+Seat 3: SpewItRight (1380)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1747)
+Seat 7: Donkinou (1365)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+TrickyVinc posts small blind 40
+Donkinou posts big blind 80
+Dealt to sabre_laser [6c 2s]
+*** PRE-FLOP *** 
+.Roxon. folds
+FIRLOU folds
+patochem folds
+Idealkif folds
+sabre_laser folds
+SpewItRight raises 80 to 160
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+SpewItRight collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: SpewItRight won 280
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #565572623661006849-29-1442954468 - Holdem no limit (40/80) - 2015/09/22 20:41:08 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Idealkif (1234)
+Seat 2: sabre_laser (2205)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1285)
+Seat 8: .Roxon. (1365)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+Donkinou posts small blind 40
+.Roxon. posts big blind 80
+Dealt to sabre_laser [5d 9h]
+*** PRE-FLOP *** 
+FIRLOU folds
+patochem folds
+Idealkif raises 132 to 212
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. raises 1153 to 1365 and is all-in
+Idealkif calls 1022 and is all-in
+*** FLOP *** [4h As 9d]
+*** TURN *** [4h As 9d][5h]
+*** RIVER *** [4h As 9d 5h][Ts]
+*** SHOW DOWN ***
+Idealkif shows [6s 6d] (One pair : 6)
+.Roxon. shows [Ac Qs] (One pair : Aces)
+.Roxon. collected 2639 from pot
+*** SUMMARY ***
+Total pot 2639 | No rake
+Board: [4h As 9d 5h Ts]
+Seat 1: Idealkif showed [6s 6d] and lost with One pair : 6
+Seat 8: .Roxon. (big blind) showed [Ac Qs] and won 2639 with One pair : Aces
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565572623661006849-30-1442954523 - Holdem no limit (60/120) - 2015/09/22 20:42:03 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #7 is the button
+Seat 2: sabre_laser (2205)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1245)
+Seat 8: .Roxon. (2639)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 60
+FIRLOU posts big blind 120
+Dealt to sabre_laser [Tc 6h]
+*** PRE-FLOP *** 
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 9: FIRLOU (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565572623661006849-31-1442954548 - Holdem no limit (60/120) - 2015/09/22 20:42:28 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 2: sabre_laser (2205)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1245)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (1464)
+*** ANTE/BLINDS ***
+FIRLOU posts small blind 60
+patochem posts big blind 120
+Dealt to sabre_laser [Tc 2c]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 10: patochem (big blind) won 180
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565572623661006849-32-1442954580 - Holdem no limit (60/120) - 2015/09/22 20:43:00 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 2: sabre_laser (2205)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1245)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1500)
+Seat 10: patochem (1524)
+*** ANTE/BLINDS ***
+patochem posts small blind 60
+sabre_laser posts big blind 120
+Dealt to sabre_laser [Ad 9c]
+*** PRE-FLOP *** 
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU calls 120
+patochem calls 60
+sabre_laser checks
+*** FLOP *** [3c 8s Jh]
+patochem checks
+sabre_laser checks
+FIRLOU checks
+*** TURN *** [3c 8s Jh][7d]
+patochem checks
+sabre_laser bets 120
+FIRLOU folds
+patochem folds
+sabre_laser collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3c 8s Jh 7d]
+Seat 2: sabre_laser (big blind) won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565572623661006849-33-1442954703 - Holdem no limit (60/120) - 2015/09/22 20:45:03 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 2: sabre_laser (2445)
+Seat 3: SpewItRight (1500)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1245)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1380)
+Seat 10: patochem (1404)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 60
+SpewItRight posts big blind 120
+Dealt to sabre_laser [8d 8h]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+Donkinou folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser calls 60
+SpewItRight checks
+*** FLOP *** [Th 3h Ad]
+sabre_laser bets 120
+SpewItRight folds
+sabre_laser collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Th 3h Ad]
+Seat 2: sabre_laser (small blind) won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565572623661006849-34-1442954765 - Holdem no limit (60/120) - 2015/09/22 20:46:05 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (2565)
+Seat 3: SpewItRight (1380)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1707)
+Seat 7: Donkinou (1245)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1380)
+Seat 10: patochem (1404)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 60
+IQTYQ3 posts big blind 120
+Dealt to sabre_laser [9s 7d]
+*** PRE-FLOP *** 
+G_ZU folds
+TrickyVinc calls 120
+Donkinou raises 1125 to 1245 and is all-in
+.Roxon. folds
+FIRLOU folds
+patochem raises 159 to 1404 and is all-in
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+TrickyVinc folds
+*** FLOP *** [Td 5d 4d]
+*** TURN *** [Td 5d 4d][4h]
+*** RIVER *** [Td 5d 4d 4h][7c]
+*** SHOW DOWN ***
+Donkinou shows [Ks Ad] (One pair : 4)
+patochem shows [Qs Qc] (Two pairs : Queens and 4)
+patochem collected 2949 from pot
+*** SUMMARY ***
+Total pot 2949 | No rake
+Board: [Td 5d 4d 4h 7c]
+Seat 7: Donkinou showed [Ks Ad] and lost with One pair : 4
+Seat 10: patochem showed [Qs Qc] and won 2949 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #565572623661006849-35-1442954824 - Holdem no limit (60/120) - 2015/09/22 20:47:04 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (2565)
+Seat 3: SpewItRight (1320)
+Seat 4: IQTYQ3 (1225)
+Seat 5: G_ZU (1395)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1380)
+Seat 10: patochem (2949)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 60
+G_ZU posts big blind 120
+Dealt to sabre_laser [Kh Th]
+*** PRE-FLOP *** 
+TrickyVinc folds
+.Roxon. folds
+FIRLOU raises 120 to 240
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+FIRLOU collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 9: FIRLOU won 420
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-36-1442954875 - Holdem no limit (80/160) - 2015/09/22 20:47:55 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #4 is the button
+Seat 2: sabre_laser (2565)
+Seat 3: SpewItRight (1320)
+Seat 4: IQTYQ3 (1165)
+Seat 5: G_ZU (1275)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (2949)
+*** ANTE/BLINDS ***
+G_ZU posts small blind 80
+TrickyVinc posts big blind 160
+Dealt to sabre_laser [8h Kd]
+*** PRE-FLOP *** 
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 6: TrickyVinc (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-37-1442954902 - Holdem no limit (80/160) - 2015/09/22 20:48:22 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #5 is the button
+Seat 2: sabre_laser (2565)
+Seat 3: SpewItRight (1320)
+Seat 4: IQTYQ3 (1165)
+Seat 5: G_ZU (1195)
+Seat 6: TrickyVinc (1667)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (2949)
+*** ANTE/BLINDS ***
+TrickyVinc posts small blind 80
+.Roxon. posts big blind 160
+Dealt to sabre_laser [As 7c]
+*** PRE-FLOP *** 
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 raises 1005 to 1165 and is all-in
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+IQTYQ3 collected 1405 from pot
+*** SUMMARY ***
+Total pot 1405 | No rake
+Seat 4: IQTYQ3 won 1405
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-38-1442954958 - Holdem no limit (80/160) - 2015/09/22 20:49:18 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #6 is the button
+Seat 2: sabre_laser (2565)
+Seat 3: SpewItRight (1320)
+Seat 4: IQTYQ3 (1405)
+Seat 5: G_ZU (1195)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2419)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (2949)
+*** ANTE/BLINDS ***
+.Roxon. posts small blind 80
+FIRLOU posts big blind 160
+Dealt to sabre_laser [Qs 4h]
+*** PRE-FLOP *** 
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: FIRLOU (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-39-1442954996 - Holdem no limit (80/160) - 2015/09/22 20:49:56 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 2: sabre_laser (2565)
+Seat 3: SpewItRight (1320)
+Seat 4: IQTYQ3 (1405)
+Seat 5: G_ZU (1195)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2339)
+Seat 9: FIRLOU (1640)
+Seat 10: patochem (2949)
+*** ANTE/BLINDS ***
+FIRLOU posts small blind 80
+patochem posts big blind 160
+Dealt to sabre_laser [8d As]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 10: patochem (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-40-1442955019 - Holdem no limit (80/160) - 2015/09/22 20:50:19 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 2: sabre_laser (2565)
+Seat 3: SpewItRight (1320)
+Seat 4: IQTYQ3 (1405)
+Seat 5: G_ZU (1195)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2339)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (3029)
+*** ANTE/BLINDS ***
+patochem posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [As 2c]
+*** PRE-FLOP *** 
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem calls 80
+sabre_laser checks
+*** FLOP *** [Ad 3h Js]
+patochem bets 160
+sabre_laser calls 160
+*** TURN *** [Ad 3h Js][4d]
+patochem checks
+sabre_laser checks
+*** RIVER *** [Ad 3h Js 4d][7c]
+patochem checks
+sabre_laser checks
+*** SHOW DOWN ***
+patochem shows [Kd 7h] (One pair : 7)
+sabre_laser shows [As 2c] (One pair : Aces)
+sabre_laser collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Ad 3h Js 4d 7c]
+Seat 2: sabre_laser (big blind) showed [As 2c] and won 640 with One pair : Aces
+Seat 10: patochem (small blind) showed [Kd 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-41-1442955080 - Holdem no limit (80/160) - 2015/09/22 20:51:20 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 2: sabre_laser (2885)
+Seat 3: SpewItRight (1320)
+Seat 4: IQTYQ3 (1405)
+Seat 5: G_ZU (1195)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2339)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (2709)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+SpewItRight posts big blind 160
+Dealt to sabre_laser [3c 4c]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+.Roxon. raises 240 to 400
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight folds
+.Roxon. collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 8: .Roxon. won 640
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-42-1442955145 - Holdem no limit (80/160) - 2015/09/22 20:52:25 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (2805)
+Seat 3: SpewItRight (1160)
+Seat 4: IQTYQ3 (1405)
+Seat 5: G_ZU (1195)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (2709)
+*** ANTE/BLINDS ***
+SpewItRight posts small blind 80
+IQTYQ3 posts big blind 160
+Dealt to sabre_laser [Qc 3s]
+*** PRE-FLOP *** 
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: IQTYQ3 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #565572623661006849-43-1442955176 - Holdem no limit (80/160) - 2015/09/22 20:52:56 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (2805)
+Seat 3: SpewItRight (1080)
+Seat 4: IQTYQ3 (1485)
+Seat 5: G_ZU (1195)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (2709)
+*** ANTE/BLINDS ***
+IQTYQ3 posts small blind 80
+G_ZU posts big blind 160
+Dealt to sabre_laser [9c 3d]
+*** PRE-FLOP *** 
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: G_ZU (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565572623661006849-44-1442955271 - Holdem no limit (10/100/200) - 2015/09/22 20:54:31 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #4 is the button
+Seat 2: sabre_laser (2805)
+Seat 3: SpewItRight (1080)
+Seat 4: IQTYQ3 (1405)
+Seat 5: G_ZU (1275)
+Seat 6: TrickyVinc (1587)
+Seat 8: .Roxon. (2579)
+Seat 9: FIRLOU (1560)
+Seat 10: patochem (2709)
+*** ANTE/BLINDS ***
+G_ZU posts ante 10
+TrickyVinc posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+IQTYQ3 posts ante 10
+.Roxon. posts ante 10
+FIRLOU posts ante 10
+patochem posts ante 10
+G_ZU posts small blind 100
+TrickyVinc posts big blind 200
+Dealt to sabre_laser [Qc 8s]
+*** PRE-FLOP *** 
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 6: TrickyVinc (big blind) won 380
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565572623661006849-45-1442955320 - Holdem no limit (10/100/200) - 2015/09/22 20:55:20 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #5 is the button
+Seat 2: sabre_laser (2795)
+Seat 3: SpewItRight (1070)
+Seat 4: IQTYQ3 (1395)
+Seat 5: G_ZU (1165)
+Seat 6: TrickyVinc (1757)
+Seat 8: .Roxon. (2569)
+Seat 9: FIRLOU (1550)
+Seat 10: patochem (2699)
+*** ANTE/BLINDS ***
+TrickyVinc posts ante 10
+.Roxon. posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+IQTYQ3 posts ante 10
+G_ZU posts ante 10
+FIRLOU posts ante 10
+patochem posts ante 10
+TrickyVinc posts small blind 100
+.Roxon. posts big blind 200
+Dealt to sabre_laser [3d 6h]
+*** PRE-FLOP *** 
+FIRLOU folds
+patochem raises 200 to 400
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+patochem collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 10: patochem won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565572623661006849-46-1442955340 - Holdem no limit (10/100/200) - 2015/09/22 20:55:40 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #6 is the button
+Seat 2: sabre_laser (2785)
+Seat 3: SpewItRight (1060)
+Seat 4: IQTYQ3 (1385)
+Seat 5: G_ZU (1155)
+Seat 6: TrickyVinc (1647)
+Seat 8: .Roxon. (2359)
+Seat 9: FIRLOU (1540)
+Seat 10: patochem (3069)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 10
+FIRLOU posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+IQTYQ3 posts ante 10
+G_ZU posts ante 10
+TrickyVinc posts ante 10
+patochem posts ante 10
+.Roxon. posts small blind 100
+FIRLOU posts big blind 200
+Dealt to sabre_laser [4c 3h]
+*** PRE-FLOP *** 
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc raises 400 to 600
+.Roxon. folds
+FIRLOU folds
+TrickyVinc collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Seat 6: TrickyVinc (button) won 980
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565572623661006849-47-1442955373 - Holdem no limit (10/100/200) - 2015/09/22 20:56:13 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 2: sabre_laser (2775)
+Seat 3: SpewItRight (1050)
+Seat 4: IQTYQ3 (1375)
+Seat 5: G_ZU (1145)
+Seat 6: TrickyVinc (2017)
+Seat 8: .Roxon. (2249)
+Seat 9: FIRLOU (1330)
+Seat 10: patochem (3059)
+*** ANTE/BLINDS ***
+FIRLOU posts ante 10
+patochem posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+IQTYQ3 posts ante 10
+G_ZU posts ante 10
+TrickyVinc posts ante 10
+.Roxon. posts ante 10
+FIRLOU posts small blind 100
+patochem posts big blind 200
+Dealt to sabre_laser [9d 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc calls 200
+.Roxon. folds
+FIRLOU folds
+patochem checks
+*** FLOP *** [5c Ah Qs]
+patochem checks
+TrickyVinc checks
+*** TURN *** [5c Ah Qs][8c]
+patochem checks
+TrickyVinc checks
+*** RIVER *** [5c Ah Qs 8c][7d]
+patochem checks
+TrickyVinc checks
+*** SHOW DOWN ***
+patochem shows [Tc Jc] (High card : Ace)
+TrickyVinc shows [Ks Jd] (High card : Ace)
+TrickyVinc collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5c Ah Qs 8c 7d]
+Seat 6: TrickyVinc showed [Ks Jd] and won 580 with High card : Ace
+Seat 10: patochem (big blind) showed [Tc Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565572623661006849-48-1442955449 - Holdem no limit (10/100/200) - 2015/09/22 20:57:29 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 2: sabre_laser (2765)
+Seat 3: SpewItRight (1040)
+Seat 4: IQTYQ3 (1365)
+Seat 5: G_ZU (1135)
+Seat 6: TrickyVinc (2387)
+Seat 8: .Roxon. (2239)
+Seat 9: FIRLOU (1220)
+Seat 10: patochem (2849)
+*** ANTE/BLINDS ***
+patochem posts ante 10
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+IQTYQ3 posts ante 10
+G_ZU posts ante 10
+TrickyVinc posts ante 10
+.Roxon. posts ante 10
+FIRLOU posts ante 10
+patochem posts small blind 100
+sabre_laser posts big blind 200
+Dealt to sabre_laser [Ac 2c]
+*** PRE-FLOP *** 
+SpewItRight raises 830 to 1030 and is all-in
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem calls 930
+sabre_laser folds
+*** FLOP *** [9h Qs 6h]
+*** TURN *** [9h Qs 6h][Td]
+*** RIVER *** [9h Qs 6h Td][9s]
+*** SHOW DOWN ***
+patochem shows [Qc As] (Two pairs : Queens and 9)
+SpewItRight shows [9c 9d] (Quads of 9)
+SpewItRight collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Board: [9h Qs 6h Td 9s]
+Seat 3: SpewItRight showed [9c 9d] and won 2340 with Quads of 9
+Seat 10: patochem (small blind) showed [Qc As] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565572623661006849-49-1442955522 - Holdem no limit (10/100/200) - 2015/09/22 20:58:42 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 2: sabre_laser (2555)
+Seat 3: SpewItRight (2340)
+Seat 4: IQTYQ3 (1355)
+Seat 5: G_ZU (1125)
+Seat 6: TrickyVinc (2377)
+Seat 8: .Roxon. (2229)
+Seat 9: FIRLOU (1210)
+Seat 10: patochem (1809)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 10
+SpewItRight posts ante 10
+IQTYQ3 posts ante 10
+G_ZU posts ante 10
+TrickyVinc posts ante 10
+.Roxon. posts ante 10
+FIRLOU posts ante 10
+patochem posts ante 10
+sabre_laser posts small blind 100
+SpewItRight posts big blind 200
+Dealt to sabre_laser [7h Qh]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU raises 200 to 400
+patochem folds
+sabre_laser folds
+SpewItRight folds
+FIRLOU collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 9: FIRLOU won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 7 - HandId: #565572623661006849-50-1442955578 - Holdem no limit (10/100/200) - 2015/09/22 20:59:38 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (2445)
+Seat 3: SpewItRight (2130)
+Seat 4: IQTYQ3 (1345)
+Seat 5: G_ZU (1115)
+Seat 6: TrickyVinc (2367)
+Seat 8: .Roxon. (2219)
+Seat 9: FIRLOU (1580)
+Seat 10: patochem (1799)
+*** ANTE/BLINDS ***
+SpewItRight posts ante 10
+IQTYQ3 posts ante 10
+sabre_laser posts ante 10
+G_ZU posts ante 10
+TrickyVinc posts ante 10
+.Roxon. posts ante 10
+FIRLOU posts ante 10
+patochem posts ante 10
+SpewItRight posts small blind 100
+IQTYQ3 posts big blind 200
+Dealt to sabre_laser [Kd 3h]
+*** PRE-FLOP *** 
+G_ZU folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem raises 1589 to 1789 and is all-in
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+patochem collected 2169 from pot
+*** SUMMARY ***
+Total pot 2169 | No rake
+Seat 10: patochem won 2169
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-51-1442955625 - Holdem no limit (20/150/300) - 2015/09/22 21:00:25 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (2435)
+Seat 3: SpewItRight (2020)
+Seat 4: IQTYQ3 (1135)
+Seat 5: G_ZU (1105)
+Seat 6: TrickyVinc (2357)
+Seat 8: .Roxon. (2209)
+Seat 9: FIRLOU (1570)
+Seat 10: patochem (2169)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 20
+G_ZU posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+TrickyVinc posts ante 20
+.Roxon. posts ante 20
+FIRLOU posts ante 20
+patochem posts ante 20
+IQTYQ3 posts small blind 150
+G_ZU posts big blind 300
+Dealt to sabre_laser [3d Kc]
+*** PRE-FLOP *** 
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 raises 815 to 1115 and is all-in
+G_ZU calls 785 and is all-in
+*** FLOP *** [8h 8c Ah]
+*** TURN *** [8h 8c Ah][2h]
+*** RIVER *** [8h 8c Ah 2h][7s]
+*** SHOW DOWN ***
+G_ZU shows [9s 6h] (One pair : 8)
+IQTYQ3 shows [Qs 9d] (One pair : 8)
+IQTYQ3 collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Board: [8h 8c Ah 2h 7s]
+Seat 4: IQTYQ3 (small blind) showed [Qs 9d] and won 2360 with One pair : 8
+Seat 5: G_ZU (big blind) showed [9s 6h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-52-1442955678 - Holdem no limit (20/150/300) - 2015/09/22 21:01:18 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #4 is the button
+Seat 2: sabre_laser (2415)
+Seat 3: SpewItRight (2000)
+Seat 4: IQTYQ3 (2360)
+Seat 6: TrickyVinc (2337)
+Seat 8: .Roxon. (2189)
+Seat 9: FIRLOU (1550)
+Seat 10: patochem (2149)
+*** ANTE/BLINDS ***
+TrickyVinc posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+IQTYQ3 posts ante 20
+.Roxon. posts ante 20
+FIRLOU posts ante 20
+patochem posts ante 20
+TrickyVinc posts big blind 300
+Dealt to sabre_laser [2h 2s]
+*** PRE-FLOP *** 
+.Roxon. folds
+FIRLOU raises 300 to 600
+patochem folds
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+TrickyVinc folds
+FIRLOU collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Seat 9: FIRLOU won 1040
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-53-1442955729 - Holdem no limit (20/150/300) - 2015/09/22 21:02:09 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #5 is the button
+Seat 2: sabre_laser (2395)
+Seat 3: SpewItRight (1980)
+Seat 4: IQTYQ3 (2340)
+Seat 6: TrickyVinc (2017)
+Seat 8: .Roxon. (2169)
+Seat 9: FIRLOU (1970)
+Seat 10: patochem (2129)
+*** ANTE/BLINDS ***
+TrickyVinc posts ante 20
+.Roxon. posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+IQTYQ3 posts ante 20
+FIRLOU posts ante 20
+patochem posts ante 20
+TrickyVinc posts small blind 150
+.Roxon. posts big blind 300
+Dealt to sabre_laser [Ad Ah]
+*** PRE-FLOP *** 
+FIRLOU folds
+patochem folds
+sabre_laser raises 300 to 600
+SpewItRight folds
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. folds
+sabre_laser collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 2: sabre_laser won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-54-1442955783 - Holdem no limit (20/150/300) - 2015/09/22 21:03:03 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #6 is the button
+Seat 2: sabre_laser (2965)
+Seat 3: SpewItRight (1960)
+Seat 4: IQTYQ3 (2320)
+Seat 6: TrickyVinc (1847)
+Seat 8: .Roxon. (1849)
+Seat 9: FIRLOU (1950)
+Seat 10: patochem (2109)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 20
+FIRLOU posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+IQTYQ3 posts ante 20
+TrickyVinc posts ante 20
+patochem posts ante 20
+.Roxon. posts small blind 150
+FIRLOU posts big blind 300
+Dealt to sabre_laser [4d 2s]
+*** PRE-FLOP *** 
+patochem raises 300 to 600
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 10: patochem won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-55-1442955802 - Holdem no limit (20/150/300) - 2015/09/22 21:03:22 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 2: sabre_laser (2945)
+Seat 3: SpewItRight (1940)
+Seat 4: IQTYQ3 (2300)
+Seat 6: TrickyVinc (1827)
+Seat 8: .Roxon. (1679)
+Seat 9: FIRLOU (1630)
+Seat 10: patochem (2679)
+*** ANTE/BLINDS ***
+FIRLOU posts ante 20
+patochem posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+IQTYQ3 posts ante 20
+TrickyVinc posts ante 20
+.Roxon. posts ante 20
+FIRLOU posts small blind 150
+patochem posts big blind 300
+Dealt to sabre_laser [Ks 9h]
+*** PRE-FLOP *** 
+sabre_laser folds
+SpewItRight folds
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 10: patochem (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-56-1442955828 - Holdem no limit (20/150/300) - 2015/09/22 21:03:48 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 2: sabre_laser (2925)
+Seat 3: SpewItRight (1920)
+Seat 4: IQTYQ3 (2280)
+Seat 6: TrickyVinc (1807)
+Seat 8: .Roxon. (1659)
+Seat 9: FIRLOU (1460)
+Seat 10: patochem (2949)
+*** ANTE/BLINDS ***
+patochem posts ante 20
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+IQTYQ3 posts ante 20
+TrickyVinc posts ante 20
+.Roxon. posts ante 20
+FIRLOU posts ante 20
+patochem posts small blind 150
+sabre_laser posts big blind 300
+Dealt to sabre_laser [2h Ts]
+*** PRE-FLOP *** 
+SpewItRight folds
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU raises 300 to 600
+patochem folds
+sabre_laser folds
+FIRLOU collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 9: FIRLOU (button) won 1190
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-57-1442955859 - Holdem no limit (20/150/300) - 2015/09/22 21:04:19 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 2: sabre_laser (2605)
+Seat 3: SpewItRight (1900)
+Seat 4: IQTYQ3 (2260)
+Seat 6: TrickyVinc (1787)
+Seat 8: .Roxon. (1639)
+Seat 9: FIRLOU (2030)
+Seat 10: patochem (2779)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 20
+SpewItRight posts ante 20
+IQTYQ3 posts ante 20
+TrickyVinc posts ante 20
+.Roxon. posts ante 20
+FIRLOU posts ante 20
+patochem posts ante 20
+sabre_laser posts small blind 150
+SpewItRight posts big blind 300
+Dealt to sabre_laser [7c Ah]
+*** PRE-FLOP *** 
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 3: SpewItRight (big blind) won 590
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-58-1442955872 - Holdem no limit (20/150/300) - 2015/09/22 21:04:32 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #2 is the button
+Seat 2: sabre_laser (2435)
+Seat 3: SpewItRight (2170)
+Seat 4: IQTYQ3 (2240)
+Seat 6: TrickyVinc (1767)
+Seat 8: .Roxon. (1619)
+Seat 9: FIRLOU (2010)
+Seat 10: patochem (2759)
+*** ANTE/BLINDS ***
+SpewItRight posts ante 20
+IQTYQ3 posts ante 20
+sabre_laser posts ante 20
+TrickyVinc posts ante 20
+.Roxon. posts ante 20
+FIRLOU posts ante 20
+patochem posts ante 20
+SpewItRight posts small blind 150
+IQTYQ3 posts big blind 300
+Dealt to sabre_laser [Jd 5h]
+*** PRE-FLOP *** 
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+SpewItRight raises 1850 to 2150 and is all-in
+IQTYQ3 calls 1850
+*** FLOP *** [6d 3s Td]
+*** TURN *** [6d 3s Td][Th]
+*** RIVER *** [6d 3s Td Th][7d]
+*** SHOW DOWN ***
+SpewItRight shows [Kc 9d] (One pair : Tens)
+IQTYQ3 shows [Tc Ac] (Trips of Tens)
+IQTYQ3 collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [6d 3s Td Th 7d]
+Seat 3: SpewItRight (small blind) showed [Kc 9d] and lost with One pair : Tens
+Seat 4: IQTYQ3 (big blind) showed [Tc Ac] and won 4440 with Trips of Tens
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 8 - HandId: #565572623661006849-59-1442955915 - Holdem no limit (20/150/300) - 2015/09/22 21:05:15 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #3 is the button
+Seat 2: sabre_laser (2415)
+Seat 4: IQTYQ3 (4510)
+Seat 6: TrickyVinc (1747)
+Seat 8: .Roxon. (1599)
+Seat 9: FIRLOU (1990)
+Seat 10: patochem (2739)
+*** ANTE/BLINDS ***
+IQTYQ3 posts ante 20
+TrickyVinc posts ante 20
+sabre_laser posts ante 20
+.Roxon. posts ante 20
+FIRLOU posts ante 20
+patochem posts ante 20
+IQTYQ3 posts small blind 150
+TrickyVinc posts big blind 300
+Dealt to sabre_laser [Ac 9s]
+*** PRE-FLOP *** 
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser raises 300 to 600
+IQTYQ3 folds
+TrickyVinc folds
+sabre_laser collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 2: sabre_laser won 1170
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565572623661006849-60-1442955949 - Holdem no limit (50/200/400) - 2015/09/22 21:05:49 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #4 is the button
+Seat 2: sabre_laser (2965)
+Seat 4: IQTYQ3 (4340)
+Seat 6: TrickyVinc (1427)
+Seat 8: .Roxon. (1579)
+Seat 9: FIRLOU (1970)
+Seat 10: patochem (2719)
+*** ANTE/BLINDS ***
+TrickyVinc posts ante 50
+.Roxon. posts ante 50
+sabre_laser posts ante 50
+IQTYQ3 posts ante 50
+FIRLOU posts ante 50
+patochem posts ante 50
+TrickyVinc posts small blind 200
+.Roxon. posts big blind 400
+Dealt to sabre_laser [5s 2d]
+*** PRE-FLOP *** 
+FIRLOU folds
+patochem folds
+sabre_laser folds
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 8: .Roxon. (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565572623661006849-61-1442955987 - Holdem no limit (50/200/400) - 2015/09/22 21:06:27 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #6 is the button
+Seat 2: sabre_laser (2915)
+Seat 4: IQTYQ3 (4290)
+Seat 6: TrickyVinc (1177)
+Seat 8: .Roxon. (2029)
+Seat 9: FIRLOU (1920)
+Seat 10: patochem (2669)
+*** ANTE/BLINDS ***
+.Roxon. posts ante 50
+FIRLOU posts ante 50
+sabre_laser posts ante 50
+IQTYQ3 posts ante 50
+TrickyVinc posts ante 50
+patochem posts ante 50
+.Roxon. posts small blind 200
+FIRLOU posts big blind 400
+Dealt to sabre_laser [4d 3c]
+*** PRE-FLOP *** 
+patochem raises 400 to 800
+sabre_laser folds
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 10: patochem won 1700
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565572623661006849-62-1442956034 - Holdem no limit (50/200/400) - 2015/09/22 21:07:14 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #8 is the button
+Seat 2: sabre_laser (2865)
+Seat 4: IQTYQ3 (4240)
+Seat 6: TrickyVinc (1127)
+Seat 8: .Roxon. (1779)
+Seat 9: FIRLOU (1470)
+Seat 10: patochem (3519)
+*** ANTE/BLINDS ***
+FIRLOU posts ante 50
+patochem posts ante 50
+sabre_laser posts ante 50
+IQTYQ3 posts ante 50
+TrickyVinc posts ante 50
+.Roxon. posts ante 50
+FIRLOU posts small blind 200
+patochem posts big blind 400
+Dealt to sabre_laser [Td Kc]
+*** PRE-FLOP *** 
+sabre_laser folds
+IQTYQ3 folds
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 10: patochem (big blind) won 900
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565572623661006849-63-1442956070 - Holdem no limit (50/200/400) - 2015/09/22 21:07:50 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #9 is the button
+Seat 2: sabre_laser (2815)
+Seat 4: IQTYQ3 (4190)
+Seat 6: TrickyVinc (1077)
+Seat 8: .Roxon. (1729)
+Seat 9: FIRLOU (1220)
+Seat 10: patochem (3969)
+*** ANTE/BLINDS ***
+patochem posts ante 50
+sabre_laser posts ante 50
+IQTYQ3 posts ante 50
+TrickyVinc posts ante 50
+.Roxon. posts ante 50
+FIRLOU posts ante 50
+patochem posts small blind 200
+sabre_laser posts big blind 400
+Dealt to sabre_laser [Tc 5d]
+*** PRE-FLOP *** 
+IQTYQ3 raises 484 to 884
+TrickyVinc folds
+.Roxon. folds
+FIRLOU folds
+patochem folds
+sabre_laser folds
+IQTYQ3 collected 1784 from pot
+*** SUMMARY ***
+Total pot 1784 | No rake
+Seat 4: IQTYQ3 won 1784
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 9 - HandId: #565572623661006849-64-1442956102 - Holdem no limit (50/200/400) - 2015/09/22 21:08:22 UTC
+Table: 'Double or Nothing(131682638)#0' 10-max (real money) Seat #10 is the button
+Seat 2: sabre_laser (2365)
+Seat 4: IQTYQ3 (5040)
+Seat 6: TrickyVinc (1027)
+Seat 8: .Roxon. (1679)
+Seat 9: FIRLOU (1170)
+Seat 10: patochem (3719)
+*** ANTE/BLINDS ***
+sabre_laser posts ante 50
+IQTYQ3 posts ante 50
+TrickyVinc posts ante 50
+.Roxon. posts ante 50
+FIRLOU posts ante 50
+patochem posts ante 50
+sabre_laser posts small blind 200
+IQTYQ3 posts big blind 400
+Dealt to sabre_laser [9h 8d]
+*** PRE-FLOP *** 
+TrickyVinc folds
+.Roxon. folds
+FIRLOU raises 400 to 800
+patochem folds
+sabre_laser folds
+IQTYQ3 calls 400
+*** FLOP *** [2h 7s 7h]
+IQTYQ3 bets 400
+FIRLOU calls 320 and is all-in
+*** TURN *** [2h 7s 7h][4d]
+*** RIVER *** [2h 7s 7h 4d][2s]
+*** SHOW DOWN ***
+FIRLOU shows [Ac 9d] (Two pairs : 7 and 2)
+IQTYQ3 shows [2c Kc] (Full of 2 and 7)
+IQTYQ3 collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Board: [2h 7s 7h 4d 2s]
+Seat 4: IQTYQ3 (big blind) showed [2c Kc] and won 2820 with Full of 2 and 7
+Seat 9: FIRLOU showed [Ac 9d] and lost with Two pairs : 7 and 2
+
+

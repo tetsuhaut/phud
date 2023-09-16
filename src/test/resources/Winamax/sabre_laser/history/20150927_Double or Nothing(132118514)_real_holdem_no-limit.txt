@@ -1,0 +1,896 @@
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567444696826118145-1-1443353351 - Holdem no limit (10/20) - 2015/09/27 11:29:11 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #5 is the button
+Seat 1: baskito31 (1500)
+Seat 2: Adrhien (1500)
+Seat 3: FataIBazooka (1500)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (1500)
+Seat 6: nouchka974 (1500)
+Seat 7: GreenLemon06 (1500)
+Seat 8: DoGs71 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: Tchoupi974 (1500)
+*** ANTE/BLINDS ***
+nouchka974 posts small blind 10
+GreenLemon06 posts big blind 20
+Dealt to sabre_laser [Ts 8c]
+*** PRE-FLOP *** 
+DoGs71 folds
+sabre_laser folds
+Tchoupi974 calls 20
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal folds
+nouchka974 calls 10
+GreenLemon06 checks
+*** FLOP *** [8h 4c 4h]
+nouchka974 checks
+GreenLemon06 checks
+Tchoupi974 bets 50
+nouchka974 folds
+GreenLemon06 folds
+Tchoupi974 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [8h 4c 4h]
+Seat 10: Tchoupi974 won 110
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567444696826118145-2-1443353441 - Holdem no limit (10/20) - 2015/09/27 11:30:41 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #6 is the button
+Seat 1: baskito31 (1500)
+Seat 2: Adrhien (1500)
+Seat 3: FataIBazooka (1500)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (1500)
+Seat 6: nouchka974 (1480)
+Seat 7: GreenLemon06 (1480)
+Seat 8: DoGs71 (1500)
+Seat 9: sabre_laser (1500)
+Seat 10: Tchoupi974 (1540)
+*** ANTE/BLINDS ***
+GreenLemon06 posts small blind 10
+DoGs71 posts big blind 20
+Dealt to sabre_laser [5s 5c]
+*** PRE-FLOP *** 
+sabre_laser raises 40 to 60
+Tchoupi974 folds
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: sabre_laser won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 0 - HandId: #567444696826118145-3-1443353512 - Holdem no limit (10/20) - 2015/09/27 11:31:52 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #7 is the button
+Seat 1: baskito31 (1500)
+Seat 2: Adrhien (1500)
+Seat 3: FataIBazooka (1500)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (1500)
+Seat 6: nouchka974 (1480)
+Seat 7: GreenLemon06 (1470)
+Seat 8: DoGs71 (1480)
+Seat 9: sabre_laser (1530)
+Seat 10: Tchoupi974 (1540)
+*** ANTE/BLINDS ***
+DoGs71 posts small blind 10
+sabre_laser posts big blind 20
+Dealt to sabre_laser [Ts Ad]
+*** PRE-FLOP *** 
+Tchoupi974 folds
+baskito31 folds
+Adrhien raises 20 to 40
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal calls 40
+nouchka974 folds
+GreenLemon06 calls 40
+DoGs71 calls 30
+sabre_laser calls 20
+*** FLOP *** [Kc 5d 8s]
+DoGs71 checks
+sabre_laser checks
+Adrhien checks
+Asdrubaal checks
+GreenLemon06 bets 100
+DoGs71 folds
+sabre_laser folds
+Adrhien calls 100
+Asdrubaal calls 100
+*** TURN *** [Kc 5d 8s][Tc]
+Adrhien bets 280
+Asdrubaal folds
+GreenLemon06 folds
+Adrhien collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Kc 5d 8s Tc]
+Seat 2: Adrhien won 780
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567444696826118145-4-1443353596 - Holdem no limit (15/30) - 2015/09/27 11:33:16 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #8 is the button
+Seat 1: baskito31 (1500)
+Seat 2: Adrhien (1860)
+Seat 3: FataIBazooka (1500)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (1360)
+Seat 6: nouchka974 (1480)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1440)
+Seat 9: sabre_laser (1490)
+Seat 10: Tchoupi974 (1540)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 15
+Tchoupi974 posts big blind 30
+Dealt to sabre_laser [Tc 8h]
+*** PRE-FLOP *** 
+baskito31 raises 45 to 75
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+Tchoupi974 folds
+baskito31 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: baskito31 won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567444696826118145-5-1443353618 - Holdem no limit (15/30) - 2015/09/27 11:33:38 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #9 is the button
+Seat 1: baskito31 (1545)
+Seat 2: Adrhien (1860)
+Seat 3: FataIBazooka (1500)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (1360)
+Seat 6: nouchka974 (1480)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1440)
+Seat 9: sabre_laser (1475)
+Seat 10: Tchoupi974 (1510)
+*** ANTE/BLINDS ***
+Tchoupi974 posts small blind 15
+baskito31 posts big blind 30
+Dealt to sabre_laser [3s 6c]
+*** PRE-FLOP *** 
+Adrhien raises 30 to 60
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 calls 60
+sabre_laser folds
+Tchoupi974 folds
+baskito31 calls 30
+*** FLOP *** [7d 3h 5d]
+baskito31 checks
+Adrhien bets 105
+DoGs71 folds
+baskito31 folds
+Adrhien collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7d 3h 5d]
+Seat 2: Adrhien won 300
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 1 - HandId: #567444696826118145-6-1443353695 - Holdem no limit (15/30) - 2015/09/27 11:34:55 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #10 is the button
+Seat 1: baskito31 (1485)
+Seat 2: Adrhien (1995)
+Seat 3: FataIBazooka (1500)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (1360)
+Seat 6: nouchka974 (1480)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1380)
+Seat 9: sabre_laser (1475)
+Seat 10: Tchoupi974 (1495)
+*** ANTE/BLINDS ***
+baskito31 posts small blind 15
+Adrhien posts big blind 30
+Dealt to sabre_laser [4d 4c]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal calls 30
+nouchka974 calls 30
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser calls 30
+Tchoupi974 folds
+baskito31 folds
+Adrhien checks
+*** FLOP *** [Jd 9d Qs]
+Adrhien checks
+Asdrubaal checks
+nouchka974 checks
+sabre_laser checks
+*** TURN *** [Jd 9d Qs][Qc]
+Adrhien bets 68
+Asdrubaal folds
+nouchka974 calls 68
+sabre_laser folds
+*** RIVER *** [Jd 9d Qs Qc][2c]
+Adrhien bets 136
+nouchka974 calls 136
+*** SHOW DOWN ***
+Adrhien shows [9c Kd] (Two pairs : Queens and 9)
+nouchka974 shows [Th Jh] (Two pairs : Queens and Jacks)
+nouchka974 collected 543 from pot
+*** SUMMARY ***
+Total pot 543 | No rake
+Board: [Jd 9d Qs Qc 2c]
+Seat 2: Adrhien (big blind) showed [9c Kd] and lost with Two pairs : Queens and 9
+Seat 6: nouchka974 showed [Th Jh] and won 543 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567444696826118145-7-1443353780 - Holdem no limit (20/40) - 2015/09/27 11:36:20 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #1 is the button
+Seat 1: baskito31 (1470)
+Seat 2: Adrhien (1761)
+Seat 3: FataIBazooka (1500)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (1330)
+Seat 6: nouchka974 (1789)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1380)
+Seat 9: sabre_laser (1445)
+Seat 10: Tchoupi974 (1495)
+*** ANTE/BLINDS ***
+Adrhien posts small blind 20
+FataIBazooka posts big blind 40
+Dealt to sabre_laser [Th 5h]
+*** PRE-FLOP *** 
+Gilfourn folds
+Asdrubaal raises 60 to 100
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+Tchoupi974 folds
+baskito31 calls 100
+Adrhien folds
+FataIBazooka folds
+*** FLOP *** [2h 3s Jd]
+Asdrubaal bets 130
+baskito31 calls 130
+*** TURN *** [2h 3s Jd][7h]
+Asdrubaal bets 260
+baskito31 raises 980 to 1240 and is all-in
+Asdrubaal folds
+baskito31 collected 2020 from pot
+*** SUMMARY ***
+Total pot 2020 | No rake
+Board: [2h 3s Jd 7h]
+Seat 1: baskito31 (button) won 2020
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 2 - HandId: #567444696826118145-8-1443353840 - Holdem no limit (20/40) - 2015/09/27 11:37:20 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #2 is the button
+Seat 1: baskito31 (2020)
+Seat 2: Adrhien (1741)
+Seat 3: FataIBazooka (1460)
+Seat 4: Gilfourn (1500)
+Seat 5: Asdrubaal (840)
+Seat 6: nouchka974 (1789)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1380)
+Seat 9: sabre_laser (1445)
+Seat 10: Tchoupi974 (1495)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 20
+Gilfourn posts big blind 40
+Dealt to sabre_laser [Th 6c]
+*** PRE-FLOP *** 
+Asdrubaal folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+Tchoupi974 raises 40 to 80
+baskito31 folds
+Adrhien calls 80
+FataIBazooka folds
+Gilfourn folds
+*** FLOP *** [8c 6h 8s]
+Tchoupi974 bets 40
+Adrhien calls 40
+*** TURN *** [8c 6h 8s][5s]
+Tchoupi974 bets 40
+Adrhien raises 140 to 180
+Tchoupi974 folds
+Adrhien collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [8c 6h 8s 5s]
+Seat 2: Adrhien (button) won 520
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567444696826118145-9-1443353896 - Holdem no limit (30/60) - 2015/09/27 11:38:16 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #3 is the button
+Seat 1: baskito31 (2020)
+Seat 2: Adrhien (1961)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1460)
+Seat 5: Asdrubaal (840)
+Seat 6: nouchka974 (1789)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1380)
+Seat 9: sabre_laser (1445)
+Seat 10: Tchoupi974 (1335)
+*** ANTE/BLINDS ***
+Gilfourn posts small blind 30
+Asdrubaal posts big blind 60
+Dealt to sabre_laser [3c 8h]
+*** PRE-FLOP *** 
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+Tchoupi974 folds
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: Asdrubaal (big blind) won 90
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567444696826118145-10-1443353920 - Holdem no limit (30/60) - 2015/09/27 11:38:40 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #4 is the button
+Seat 1: baskito31 (2020)
+Seat 2: Adrhien (1961)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 5: Asdrubaal (870)
+Seat 6: nouchka974 (1789)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1380)
+Seat 9: sabre_laser (1445)
+Seat 10: Tchoupi974 (1335)
+*** ANTE/BLINDS ***
+Asdrubaal posts small blind 30
+nouchka974 posts big blind 60
+Dealt to sabre_laser [8h 3c]
+*** PRE-FLOP *** 
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+Tchoupi974 calls 60
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal folds
+nouchka974 checks
+*** FLOP *** [Ac 7h As]
+nouchka974 checks
+Tchoupi974 checks
+*** TURN *** [Ac 7h As][3s]
+nouchka974 bets 60
+Tchoupi974 folds
+nouchka974 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Ac 7h As 3s]
+Seat 6: nouchka974 (big blind) won 210
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567444696826118145-11-1443353973 - Holdem no limit (30/60) - 2015/09/27 11:39:33 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #5 is the button
+Seat 1: baskito31 (2020)
+Seat 2: Adrhien (1961)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 5: Asdrubaal (840)
+Seat 6: nouchka974 (1879)
+Seat 7: GreenLemon06 (1330)
+Seat 8: DoGs71 (1380)
+Seat 9: sabre_laser (1445)
+Seat 10: Tchoupi974 (1275)
+*** ANTE/BLINDS ***
+nouchka974 posts small blind 30
+GreenLemon06 posts big blind 60
+Dealt to sabre_laser [Kh Tc]
+*** PRE-FLOP *** 
+DoGs71 folds
+sabre_laser folds
+Tchoupi974 folds
+baskito31 raises 120 to 180
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+Asdrubaal raises 660 to 840 and is all-in
+nouchka974 folds
+GreenLemon06 folds
+baskito31 calls 660
+*** FLOP *** [5c Th 8s]
+*** TURN *** [5c Th 8s][4d]
+*** RIVER *** [5c Th 8s 4d][Js]
+*** SHOW DOWN ***
+Asdrubaal shows [Ks Jc] (One pair : Jacks)
+baskito31 shows [Qc Qh] (One pair : Queens)
+baskito31 collected 1770 from pot
+*** SUMMARY ***
+Total pot 1770 | No rake
+Board: [5c Th 8s 4d Js]
+Seat 1: baskito31 showed [Qc Qh] and won 1770 with One pair : Queens
+Seat 5: Asdrubaal (button) showed [Ks Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567444696826118145-12-1443354012 - Holdem no limit (30/60) - 2015/09/27 11:40:12 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #6 is the button
+Seat 1: baskito31 (2950)
+Seat 2: Adrhien (1961)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 6: nouchka974 (1849)
+Seat 7: GreenLemon06 (1270)
+Seat 8: DoGs71 (1380)
+Seat 9: sabre_laser (1445)
+Seat 10: Tchoupi974 (1275)
+*** ANTE/BLINDS ***
+GreenLemon06 posts small blind 30
+DoGs71 posts big blind 60
+Dealt to sabre_laser [5d Ts]
+*** PRE-FLOP *** 
+sabre_laser folds
+Tchoupi974 folds
+baskito31 raises 120 to 180
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+baskito31 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: baskito31 won 270
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 3 - HandId: #567444696826118145-13-1443354038 - Holdem no limit (30/60) - 2015/09/27 11:40:38 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #7 is the button
+Seat 1: baskito31 (3040)
+Seat 2: Adrhien (1961)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 6: nouchka974 (1849)
+Seat 7: GreenLemon06 (1240)
+Seat 8: DoGs71 (1320)
+Seat 9: sabre_laser (1445)
+Seat 10: Tchoupi974 (1275)
+*** ANTE/BLINDS ***
+DoGs71 posts small blind 30
+sabre_laser posts big blind 60
+Dealt to sabre_laser [8d 5d]
+*** PRE-FLOP *** 
+Tchoupi974 folds
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 raises 60 to 120
+DoGs71 folds
+sabre_laser calls 60
+*** FLOP *** [Qd 5c Jh]
+sabre_laser checks
+GreenLemon06 bets 135
+sabre_laser raises 225 to 360
+GreenLemon06 raises 760 to 1120 and is all-in
+sabre_laser folds
+GreenLemon06 collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [Qd 5c Jh]
+Seat 7: GreenLemon06 (button) won 1750
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567444696826118145-14-1443354128 - Holdem no limit (40/80) - 2015/09/27 11:42:08 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #8 is the button
+Seat 1: baskito31 (3040)
+Seat 2: Adrhien (1961)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 6: nouchka974 (1849)
+Seat 7: GreenLemon06 (1750)
+Seat 8: DoGs71 (1290)
+Seat 9: sabre_laser (965)
+Seat 10: Tchoupi974 (1275)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 40
+Tchoupi974 posts big blind 80
+Dealt to sabre_laser [5h 8d]
+*** PRE-FLOP *** 
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+nouchka974 calls 80
+GreenLemon06 folds
+DoGs71 calls 80
+sabre_laser folds
+Tchoupi974 checks
+*** FLOP *** [Qc 4h 9s]
+Tchoupi974 checks
+nouchka974 checks
+DoGs71 checks
+*** TURN *** [Qc 4h 9s][3c]
+Tchoupi974 checks
+nouchka974 checks
+DoGs71 checks
+*** RIVER *** [Qc 4h 9s 3c][8c]
+Tchoupi974 bets 80
+nouchka974 folds
+DoGs71 raises 1130 to 1210 and is all-in
+Tchoupi974 calls 1115 and is all-in
+*** SHOW DOWN ***
+Tchoupi974 shows [Tc Js] (Straight Queen high)
+DoGs71 shows [Ac Jc] (Flush Ace high)
+DoGs71 collected 2685 from pot
+*** SUMMARY ***
+Total pot 2685 | No rake
+Board: [Qc 4h 9s 3c 8c]
+Seat 8: DoGs71 (button) showed [Ac Jc] and won 2685 with Flush Ace high
+Seat 10: Tchoupi974 (big blind) showed [Tc Js] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567444696826118145-15-1443354197 - Holdem no limit (40/80) - 2015/09/27 11:43:17 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #9 is the button
+Seat 1: baskito31 (3040)
+Seat 2: Adrhien (1961)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 6: nouchka974 (1769)
+Seat 7: GreenLemon06 (1750)
+Seat 8: DoGs71 (2685)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+baskito31 posts big blind 80
+Dealt to sabre_laser [9d Qh]
+*** PRE-FLOP *** 
+Adrhien calls 80
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 calls 80
+sabre_laser folds
+baskito31 checks
+*** FLOP *** [Kc 6h 2d]
+baskito31 checks
+Adrhien bets 120
+DoGs71 folds
+baskito31 folds
+Adrhien collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kc 6h 2d]
+Seat 2: Adrhien won 360
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 4 - HandId: #567444696826118145-16-1443354229 - Holdem no limit (40/80) - 2015/09/27 11:43:49 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #10 is the button
+Seat 1: baskito31 (2960)
+Seat 2: Adrhien (2121)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 6: nouchka974 (1769)
+Seat 7: GreenLemon06 (1750)
+Seat 8: DoGs71 (2605)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+baskito31 posts small blind 40
+Adrhien posts big blind 80
+Dealt to sabre_laser [Kh 5h]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+baskito31 folds
+Adrhien collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Adrhien (big blind) won 120
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567444696826118145-17-1443354257 - Holdem no limit (60/120) - 2015/09/27 11:44:17 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #1 is the button
+Seat 1: baskito31 (2920)
+Seat 2: Adrhien (2161)
+Seat 3: FataIBazooka (1440)
+Seat 4: Gilfourn (1430)
+Seat 6: nouchka974 (1769)
+Seat 7: GreenLemon06 (1750)
+Seat 8: DoGs71 (2605)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+Adrhien posts small blind 60
+FataIBazooka posts big blind 120
+Dealt to sabre_laser [Jc 2d]
+*** PRE-FLOP *** 
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+baskito31 folds
+Adrhien raises 120 to 240
+FataIBazooka calls 120
+*** FLOP *** [Js Th Qd]
+Adrhien bets 240
+FataIBazooka folds
+Adrhien collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Js Th Qd]
+Seat 2: Adrhien (small blind) won 720
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567444696826118145-18-1443354291 - Holdem no limit (60/120) - 2015/09/27 11:44:51 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #2 is the button
+Seat 1: baskito31 (2920)
+Seat 2: Adrhien (2401)
+Seat 3: FataIBazooka (1200)
+Seat 4: Gilfourn (1430)
+Seat 6: nouchka974 (1769)
+Seat 7: GreenLemon06 (1750)
+Seat 8: DoGs71 (2605)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+FataIBazooka posts small blind 60
+Gilfourn posts big blind 120
+Dealt to sabre_laser [7s Ts]
+*** PRE-FLOP *** 
+nouchka974 calls 120
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+baskito31 folds
+Adrhien calls 120
+FataIBazooka folds
+Gilfourn checks
+*** FLOP *** [9d Kh 4d]
+Gilfourn checks
+nouchka974 checks
+Adrhien checks
+*** TURN *** [9d Kh 4d][9s]
+Gilfourn checks
+nouchka974 checks
+Adrhien checks
+*** RIVER *** [9d Kh 4d 9s][Ah]
+Gilfourn checks
+nouchka974 checks
+Adrhien checks
+*** SHOW DOWN ***
+Adrhien shows [6h 5h] (One pair : 9)
+nouchka974 shows [Qc Jh] (One pair : 9)
+Gilfourn shows [5s Ac] (Two pairs : Aces and 9)
+Gilfourn collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9d Kh 4d 9s Ah]
+Seat 2: Adrhien (button) showed [6h 5h] and lost with One pair : 9
+Seat 4: Gilfourn (big blind) showed [5s Ac] and won 420 with Two pairs : Aces and 9
+Seat 6: nouchka974 showed [Qc Jh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567444696826118145-19-1443354360 - Holdem no limit (60/120) - 2015/09/27 11:46:00 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #3 is the button
+Seat 1: baskito31 (2920)
+Seat 2: Adrhien (2281)
+Seat 3: FataIBazooka (1140)
+Seat 4: Gilfourn (1730)
+Seat 6: nouchka974 (1649)
+Seat 7: GreenLemon06 (1750)
+Seat 8: DoGs71 (2605)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+Gilfourn posts small blind 60
+nouchka974 posts big blind 120
+Dealt to sabre_laser [9d 4c]
+*** PRE-FLOP *** 
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+baskito31 raises 180 to 300
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+baskito31 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: baskito31 won 480
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567444696826118145-20-1443354389 - Holdem no limit (60/120) - 2015/09/27 11:46:29 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #4 is the button
+Seat 1: baskito31 (3100)
+Seat 2: Adrhien (2281)
+Seat 3: FataIBazooka (1140)
+Seat 4: Gilfourn (1670)
+Seat 6: nouchka974 (1529)
+Seat 7: GreenLemon06 (1750)
+Seat 8: DoGs71 (2605)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+nouchka974 posts small blind 60
+GreenLemon06 posts big blind 120
+Dealt to sabre_laser [5s 3s]
+*** PRE-FLOP *** 
+DoGs71 folds
+sabre_laser folds
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn raises 1550 to 1670 and is all-in
+nouchka974 folds
+GreenLemon06 folds
+Gilfourn collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Seat 4: Gilfourn (button) won 1850
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 5 - HandId: #567444696826118145-21-1443354421 - Holdem no limit (60/120) - 2015/09/27 11:47:01 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #6 is the button
+Seat 1: baskito31 (3100)
+Seat 2: Adrhien (2281)
+Seat 3: FataIBazooka (1140)
+Seat 4: Gilfourn (1850)
+Seat 6: nouchka974 (1469)
+Seat 7: GreenLemon06 (1630)
+Seat 8: DoGs71 (2605)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+GreenLemon06 posts small blind 60
+DoGs71 posts big blind 120
+Dealt to sabre_laser [5d Qd]
+*** PRE-FLOP *** 
+sabre_laser folds
+baskito31 raises 240 to 360
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 calls 240
+*** FLOP *** [Ts 9s 7s]
+DoGs71 checks
+baskito31 checks
+*** TURN *** [Ts 9s 7s][7d]
+DoGs71 checks
+baskito31 checks
+*** RIVER *** [Ts 9s 7s 7d][6d]
+DoGs71 checks
+baskito31 checks
+*** SHOW DOWN ***
+baskito31 shows [Ah Jc] (One pair : 7)
+DoGs71 shows [Jd Jh] (Two pairs : Jacks and 7)
+DoGs71 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Ts 9s 7s 7d 6d]
+Seat 1: baskito31 showed [Ah Jc] and lost with One pair : 7
+Seat 8: DoGs71 (big blind) showed [Jd Jh] and won 780 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567444696826118145-22-1443354466 - Holdem no limit (80/160) - 2015/09/27 11:47:46 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #7 is the button
+Seat 1: baskito31 (2740)
+Seat 2: Adrhien (2281)
+Seat 3: FataIBazooka (1140)
+Seat 4: Gilfourn (1850)
+Seat 6: nouchka974 (1469)
+Seat 7: GreenLemon06 (1570)
+Seat 8: DoGs71 (3025)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+DoGs71 posts small blind 80
+sabre_laser posts big blind 160
+Dealt to sabre_laser [Qc As]
+*** PRE-FLOP *** 
+baskito31 folds
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 9: sabre_laser (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567444696826118145-23-1443354485 - Holdem no limit (80/160) - 2015/09/27 11:48:05 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #8 is the button
+Seat 1: baskito31 (2740)
+Seat 2: Adrhien (2281)
+Seat 3: FataIBazooka (1140)
+Seat 4: Gilfourn (1850)
+Seat 6: nouchka974 (1469)
+Seat 7: GreenLemon06 (1570)
+Seat 8: DoGs71 (2945)
+Seat 9: sabre_laser (1005)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 80
+baskito31 posts big blind 160
+Dealt to sabre_laser [4c Kd]
+*** PRE-FLOP *** 
+Adrhien folds
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 folds
+sabre_laser folds
+baskito31 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: baskito31 (big blind) won 240
+
+
+Winamax Poker - Tournament "Double or Nothing" buyIn: 0,46€ + 0,04€ level: 6 - HandId: #567444696826118145-24-1443354501 - Holdem no limit (80/160) - 2015/09/27 11:48:21 UTC
+Table: 'Double or Nothing(132118514)#0' 10-max (real money) Seat #9 is the button
+Seat 1: baskito31 (2820)
+Seat 2: Adrhien (2281)
+Seat 3: FataIBazooka (1140)
+Seat 4: Gilfourn (1850)
+Seat 6: nouchka974 (1469)
+Seat 7: GreenLemon06 (1570)
+Seat 8: DoGs71 (2945)
+Seat 9: sabre_laser (925)
+*** ANTE/BLINDS ***
+baskito31 posts small blind 80
+Adrhien posts big blind 160
+Dealt to sabre_laser [Th Ts]
+*** PRE-FLOP *** 
+FataIBazooka folds
+Gilfourn folds
+nouchka974 folds
+GreenLemon06 folds
+DoGs71 raises 160 to 320
+sabre_laser raises 605 to 925 and is all-in
+baskito31 folds
+Adrhien folds
+DoGs71 calls 605
+*** FLOP *** [3s 4h 3c]
+*** TURN *** [3s 4h 3c][2d]
+*** RIVER *** [3s 4h 3c 2d][Ah]
+*** SHOW DOWN ***
+sabre_laser shows [Th Ts] (Two pairs : Tens and 3)
+DoGs71 shows [Jh Jd] (Two pairs : Jacks and 3)
+DoGs71 collected 2090 from pot
+*** SUMMARY ***
+Total pot 2090 | No rake
+Board: [3s 4h 3c 2d Ah]
+Seat 8: DoGs71 showed [Jh Jd] and won 2090 with Two pairs : Jacks and 3
+Seat 9: sabre_laser (button) showed [Th Ts] and lost with Two pairs : Tens and 3
+
+
