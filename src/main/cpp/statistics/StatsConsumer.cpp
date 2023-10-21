@@ -27,7 +27,7 @@ void StatsConsumer::consumeAndNotify(std::function<void(TableStatistics&)> obser
       if (Seat::seatUnknown == stats.getMaxSeat()) {
         LOG.debug<"Got no stats from db.">();
       } else {
-        LOG.debug(fmt::format("Got {} player stats objects.", stats.getMaxSeat()));
+        LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
         observerCb(stats);
       }
     }

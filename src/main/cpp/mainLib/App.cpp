@@ -68,7 +68,7 @@ static inline void notify(TableStatistics&& stats, auto observer) {
   if (Seat::seatUnknown == stats.getMaxSeat()) {
     LOG.debug<"Got no stats from db.">();
   } else {
-    LOG.debug<"Got {} player stats objects.">(stats.getMaxSeat());
+    LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
     observer(std::move(stats));
   }
 }
@@ -128,7 +128,7 @@ void App::importHistory(const Path& historyDir,
 void App::stopImportingHistory() {
   if (m_pImpl->m_pokerSiteHistory) { m_pImpl->m_pokerSiteHistory->stopLoading(); }
 
-  if (m_pImpl->m_loadTask.valid()) { stlab::blocking_get(m_pImpl->m_loadTask); }
+  if (m_pImpl->m_loadTask.valid()) { stlab::await(m_pImpl->m_loadTask); }
 
   m_pImpl->m_loadTask.reset();
 }

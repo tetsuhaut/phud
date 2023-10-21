@@ -1,6 +1,7 @@
 #pragma once
 
 #include "language/clamp-cast.hpp"
+#include <cstddef> // std::ptrdiff_t
 
 namespace limits {
 //[[nodiscard]] static constexpr int toInt(std::size_t value) {

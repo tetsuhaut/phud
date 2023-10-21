@@ -36,7 +36,7 @@ static constexpr auto NB_SEATS_TO_COEFF {
 [[nodiscard]] Pair<int, int> buildPlayerIndicatorPosition(Seat seat,
     Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   const auto [coefX, coefY] { pa::getValueFromKey(NB_SEATS_TO_COEFF, tableMaxSeats).at(tableSeat::toArrayIndex(seat)) };
-  return { static_cast<int>(tablePos.x + coefX * tablePos.w), static_cast<int>(tablePos.y + coefY * tablePos.h) };
+  return { limits::toInt(tablePos.x + coefX * tablePos.w), limits::toInt(tablePos.y + coefY * tablePos.h) };
 }
 
 /**

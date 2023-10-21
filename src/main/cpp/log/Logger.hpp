@@ -25,35 +25,10 @@ private:
   static void errorStr(StringView msg);
   static void criticalStr(StringView msg);
 
-  template<StringLiteral FMT>
-  void _trace(auto&& ... args) {
-    traceStr(fmt::format(FMT.value, std::forward<decltype(args)>(args)...));
-  }
-
-  template<StringLiteral FMT>
-  void _debug(auto&& ... args) {
-    debugStr(fmt::format(FMT.value, std::forward<decltype(args)>(args)...));
-  }
-
-  template<StringLiteral FMT>
-  void _info(auto&& ... args) {
-    infoStr(fmt::format(FMT.value, std::forward<decltype(args)>(args)...));
-  }
-
-  template<StringLiteral FMT>
-  void _warn(auto&& ... args) {
-    warnStr(fmt::format(FMT.value, std::forward<decltype(args)>(args)...));
-  }
-
-  template<StringLiteral FMT>
-  void _error(auto&& ... args) {
-    errorStr(fmt::format(FMT.value, std::forward<decltype(args)>(args)...));
-  }
-
-  template<StringLiteral FMT>
-  void _critical(auto&& ... args) {
-    criticalStr(fmt::format(FMT.value, std::forward<decltype(args)>(args)...));
-  }
+  //template<StringLiteral FMT, typename... Args>
+  //static constexpr bool allTypesAreFormattable() {
+  //  return fmt::is_formattable<Args..., decltype(FMT.value[0])>();
+  //}
 
 public:
   Logger(StringView name) : m_name { name } {}
@@ -66,31 +41,27 @@ public:
   void error(StringView msg) { errorStr(fmt::format("[{}]: {}", m_name, msg)); }
   void critical(StringView msg) { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
 
-  template<StringLiteral FMT>
-  void trace(auto&& ... args) {
-    _trace<concatLiteral("[{}]: ", FMT.value)>(m_name, std::forward<decltype(args)>(args)...);
+  template<StringLiteral FMT, typename... Args>
+  void trace(Args&&... args) {
+    //static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
+    trace(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
-  template<StringLiteral FMT>
-  void debug(auto&& ... args) {
-    _debug<concatLiteral("[{}]: ", FMT.value)>(m_name, std::forward<decltype(args)>(args)...);
-  }
-  template<StringLiteral FMT>
-  void info(auto&& ... args) {
-    _info<concatLiteral("[{}]: ", FMT.value)>(m_name, std::forward<decltype(args)>(args)...);
-  }
-  template<StringLiteral FMT>
-  void warn(auto&& ... args) {
-    _warn<concatLiteral("[{}]: ", FMT.value)>(m_name, std::forward<decltype(args)>(args)...);
-  }
-  template<StringLiteral FMT>
-  void error(auto&& ... args) {
-    _error<concatLiteral("[{}]: ", FMT.value)>(m_name, std::forward<decltype(args)>(args)...);
-  }
-  template<StringLiteral FMT>
-  void critical(auto&& ... args) {
-    _critical<concatLiteral("[{}]: ", FMT.value)>(m_name, std::forward<decltype(args)>(args)...);
-  }
+  template<StringLiteral FMT, typename... Args>
+  void debug(Args&&... args) { debug(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+
+  template<StringLiteral FMT, typename... Args>
+  void info(Args&&... args) { info(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+
+  template<StringLiteral FMT, typename... Args>
+  void warn(Args&&... args) { warn(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+
+  template<StringLiteral FMT, typename... Args>
+  void error(Args&&... args) { error(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+
+  template<StringLiteral FMT, typename... Args>
+  void critical(Args&&... args) { critical(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+
   /** Call one of those methods before any logging. */
   /**
   * Place holders to use to format messages:
@@ -128,11 +99,11 @@ public:
  */
 template <typename CHAR_TYPE, std::size_t ARRAY_LENGTH>
 constexpr std::size_t getFileNameOffset(const CHAR_TYPE(&str)[ARRAY_LENGTH],
-                                        const std::size_t pos = ARRAY_LENGTH - 1) {
-  // pos cannot be out of scope
-  if ((str[pos] == '/') or (str[pos] == '\\')) { return pos + 1; }
+                                        const std::size_t position = ARRAY_LENGTH - 1) {
+  // by construction, position cannot be out of scope
+  if ((str[position] == '/') or (str[position] == '\\')) { return position + 1; }
 
-  return (pos > 0) ? getFileNameOffset(str, pos - 1) : 0;
+  return (position > 0) ? getFileNameOffset(str, position - 1) : 0;
 }
 
 constexpr std::size_t getFileNameOffset(auto(& str)[1]) { return 0; }

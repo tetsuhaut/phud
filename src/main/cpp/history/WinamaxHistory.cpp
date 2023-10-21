@@ -12,7 +12,7 @@
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
 #include "threads/ThreadPool.hpp" // Future
-#include <stlab/concurrency/utility.hpp> // stlab::blocking_get
+#include <stlab/concurrency/utility.hpp> // stlab::await
 
 static Logger LOG { CURRENT_FILE_NAME };
 
@@ -158,7 +158,7 @@ uptr<Site> WinamaxHistory::load(const Path& winamaxHistoryDir,
     LOG.info<"Waiting for the end of loading.">();
     pa::forEach(m_pImpl->m_tasks, [&ret, this](auto & task) {
       if (task.valid()) {
-        uptr<Site> s { stlab::blocking_get(task) };
+        uptr<Site> s { stlab::await(task) };
 
         if (!m_pImpl->m_stop and s) { ret->merge(*s); }
       }

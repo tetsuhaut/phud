@@ -19,7 +19,7 @@
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::not_null
 #include <sqlite3.h>  // sqlite3*
-#include <stlab/concurrency/utility.hpp> // stlab::blocking_get, Future
+#include <stlab/concurrency/utility.hpp> // stlab::await, Future
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
 // free the char* returned by sqlite3_errmsg().
@@ -306,7 +306,7 @@ void Database::save(const Site& site) {
   m_pImpl->m_tasks = saveGamesAsync(cashGames, *this);
   auto f = saveGamesAsync(tournaments, *this);
   pa::moveInto(f, this->m_pImpl->m_tasks);
-  pa::forEach(m_pImpl->m_tasks, [](auto & task) { stlab::blocking_get(task); });
+  pa::forEach(m_pImpl->m_tasks, [](auto & task) { stlab::await(task); });
   transaction.commit();
 }
 
