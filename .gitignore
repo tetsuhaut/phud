@@ -1,2 +1,4 @@
 build/
 phud.7z
+*.db
+src/test/resources/*.db

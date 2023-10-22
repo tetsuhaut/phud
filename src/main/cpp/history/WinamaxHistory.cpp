@@ -66,7 +66,7 @@ const Path& dir, const Path& histoDir) {
 
 /**
  * @return true if the given dir is an existing dir, contains a 'history' subdir which only contains txt files,
- * and if it contains a 'data' subdir, beside 'history', which contain 'buddy' and 'players' subdirs.
+ * and if it contains a 'winamax_positioning_file.dat' file.
  */
 /*static*/ bool WinamaxHistory::isValidHistory(const Path& dir) {
   const auto& histoDir { (dir / "history").lexically_normal() };
@@ -78,8 +78,7 @@ const Path& dir, const Path& histoDir) {
   }
 
   const auto& allFilesAndDirs { either.getRight() };
-  return pf::containsAFileEndingWith(allFilesAndDirs, "winamax_positioning_file.dat")
-         and pf::containsAFileEndingWith(allFilesAndDirs, "_summary.txt");
+  return pf::containsAFileEndingWith(allFilesAndDirs, "winamax_positioning_file.dat");
 }
 
 [[nodiscard]] static inline Vector<Path> getFiles(const Path& historyDir) {
@@ -154,7 +153,7 @@ uptr<Site> WinamaxHistory::load(const Path& winamaxHistoryDir,
     LOG.info<"Waiting for the end of loading.">();
     pa::forEach(m_pImpl->m_tasks, [&ret, this](auto & task) {
       if (task.valid()) {
-        uptr<Site> s { stlab::await(task) };
+        uptr<Site> s { stlab::await(std::move(task)) };
 
         if (!m_pImpl->m_stop and s) { ret->merge(*s); }
       }

@@ -13,8 +13,10 @@ Site::~Site() = default; // needed because Site owns private uptr members
 
 Vector<const Player*> Site::viewPlayers() const {
   Vector<const Player*> ret;
-  ret.reserve(m_players.size());
-  pa::transform(m_players, ret, [](const auto & entry) noexcept { return entry.second.get(); });
+  if (false == m_players.empty()) {
+    ret.reserve(m_players.size());
+    pa::transform(m_players, ret, [](const auto& entry) noexcept { return entry.second.get(); });
+  }
   return ret;
 }
 

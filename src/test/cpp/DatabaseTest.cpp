@@ -47,6 +47,7 @@ BOOST_AUTO_TEST_SUITE(DatabaseTest)
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameShouldSucceed) {
   const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto")) };
+  BOOST_REQUIRE(nullptr != pSite);
   assertPlayersAreOk(*pSite);
   BOOST_REQUIRE(5 == pSite->viewCashGames().front()->viewHands("tc1591").size());
   Database db;
@@ -55,6 +56,7 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameShouldSucceed) {
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameAsynchShouldSucceed) {
   const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto")) };
+  BOOST_REQUIRE(nullptr != pSite);
   assertPlayersAreOk(*pSite);
   BOOST_REQUIRE(5 == pSite->viewCashGames().front()->viewHands("tc1591").size());
   Database db;
@@ -62,7 +64,8 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameAsynchShouldSucceed
 }
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_shouldGetCorrectTableMaxSeat) {
-  Database db { pt::loadDatabaseFromTestResources("simpleTHisto.db", ProgramInfos::WINAMAX_SITE_NAME).string() };
+  const auto& dbPath { pt::loadDatabaseFromTestResources("simpleTHisto.db", ProgramInfos::WINAMAX_SITE_NAME) };
+  Database db { dbPath.string() };
   BOOST_REQUIRE(Seat::seatSix == db.getTableMaxSeat(ProgramInfos::WINAMAX_SITE_NAME,
                 "Kill The Fish(152800689)#004"));
 }

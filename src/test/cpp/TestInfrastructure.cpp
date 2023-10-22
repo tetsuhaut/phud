@@ -44,6 +44,7 @@ namespace pt = phud::test;
 class [[nodiscard]] GlobalFixture final {
 public:
   GlobalFixture() {
+    boost::debug::detect_memory_leaks(false);
     Logger::setupConsoleWarnLogging("[%D %H:%M:%S.%e] [%l] [%t] %v");
     namespace but = boost::unit_test;
 
@@ -95,8 +96,12 @@ Path pt::loadDatabaseFromTestResources(StringView file, StringView pokerSite) {
   phudAssert(!ps::contains(file, '/') and !ps::contains(file, "\\"), "Needs a relative file name");
   Path dbFile { file };
 
-  if (!pf::isFile(dbFile)) {
+  if (pf::isFile(dbFile)) {
+    fmt::print("Found the database file {}, no need to create it.\n", file);
+  }
+  else {
     fmt::print("Can't find the database file {}, will create it.\n", file);
+    // TODO : make it be considered as an actual Winamax history directory
     const auto& historyDir { pt::getTestResourcesDir() / pokerSite / dbFile.stem() };
     phudAssert(pf::isDir(historyDir),
                "Can't find the given file in the src/test/resource/<file stem>history directory");

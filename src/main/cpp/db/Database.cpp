@@ -93,8 +93,7 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, StringView sql)
 struct [[nodiscard]] Database::Implementation final {
   String m_dbName;
   gsl::not_null<sqlite3*> m_database;
-  Vector<Future<void>> m_tasks {};
-
+  
   explicit Implementation(StringView dbName)
     : m_dbName { dbName },
       m_database { createDatabase(dbName) }
@@ -228,8 +227,6 @@ Database::Database(StringView dbName)
 }
 
 Database::~Database() {
-  pa::forEach(m_pImpl->m_tasks, [](auto & future) { future.reset(); });
-
   if (SQLITE_OK != sqlite3_close(m_pImpl->m_database)) {
     // can't throw in a destructor
     try {
@@ -304,10 +301,10 @@ void Database::save(const Site& site) {
   save(site.viewPlayers());
   const auto& cashGames { site.viewCashGames() };
   const auto& tournaments { site.viewTournaments() };
-  m_pImpl->m_tasks = saveGamesAsync(cashGames, *this);
+  auto tasks { saveGamesAsync(cashGames, *this) };
   auto f = saveGamesAsync(tournaments, *this);
-  pa::moveInto(f, this->m_pImpl->m_tasks);
-  pa::forEach(m_pImpl->m_tasks, [](auto & task) { stlab::await(task); });
+  pa::moveInto(f, tasks);
+  pa::forEach(tasks, [](auto & task) { stlab::await(std::move(task)); });
   transaction.commit();
 }
 

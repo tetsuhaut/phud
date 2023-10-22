@@ -47,6 +47,7 @@ void PeriodicTask::join() {
 
 void PeriodicTask::start(std::function<bool()> task) {
   m_pImpl->m_taskIsStopped = false;
+  std::cout << "PeriodicTask start\n";
   m_pImpl->m_futureTaskResult = ThreadPool::submit([this, task]() {
     do {
       UniqueLock lock { m_pImpl->m_mutex };
