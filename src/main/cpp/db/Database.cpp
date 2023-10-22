@@ -57,7 +57,8 @@ static inline gsl::not_null<sqlite3*> openDatabase(StringView dbName) {
 static inline void executeSql(const gsl::not_null<sqlite3*> pDb, StringView sql) {
   LOG.trace(sql);
 
-  if (SQLITE_OK != sqlite3_exec(pDb, sql.data(), nullptr, nullptr, nullptr)) {
+  if (SQLITE_OK != sqlite3_exec(pDb,
+                                sql.data(), /*callback*/nullptr, /*callbackParam*/nullptr, /*errorMsg*/nullptr)) {
     throw DatabaseException(fmt::format(
                               "Can't execute the query\n{}\nerror message:\n{}\n",
                               sql, sqlite3_errmsg(pDb)));

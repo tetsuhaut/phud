@@ -29,6 +29,8 @@
 // TODO: aligner les champs des classes en mémoire (padding)
 // TODO: inclure le siteName dans les id
 // TODO: tester toutes les sauvegardes en base
+// TODO: utiliser std::source_location pour contextualiser les messages d'exception
+//       cf. https://stackoverflow.com/questions/597078/file-line-and-function-usage-in-c
 // GOOD PRACTISE: apply https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 // GOOD PRACTISE: make internal functions static
 // GOOD PRACTISE: use pimpl for big classes

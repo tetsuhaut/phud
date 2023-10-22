@@ -27,6 +27,7 @@
 #endif //__MINGW32__
 
 #include <fstream> // std::ofstream
+#include <source_location>
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -64,23 +65,25 @@ struct IsFile {};
 struct IsDir {};
 };
 
-template<typename TYPE>
+template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
 [[nodiscard]] static inline Path getGenericFileFromTestResources(const auto& file) {
-  static_assert(std::is_same_v<TYPE, ::IsFile> or std::is_same_v<TYPE, ::IsDir>);
   phudAssert(!file.empty(), "file or dir can't be empty");
   phudAssert('/' != file.front(), "file or dir can't start with '/'");
   const auto& ret { (pt::getTestResourcesDir() / file) };
 
-  if constexpr(std::is_same_v<TYPE, ::IsFile> or std::is_same_v<TYPE, ::IsDir>) {
-    if (!pf::isFile(ret)) {
-      // fmt won't handle char8_t
-      throw std::runtime_error{ fmt::format("Couldn't find the file '{}' looking into '{}'.",
-                                            reinterpret_cast<const char*>(file.data()),
-                                            pt::getTestResourcesDir().string()) };
-    }
+  if constexpr(std::is_same_v<T, ::IsFile>) {
+    if (pf::isFile(ret)) { return ret; }
   }
 
-  return ret;
+  if constexpr(std::is_same_v<T, ::IsDir>) {
+    if (pf::isDir(ret)) { return ret; }
+  }
+
+  const auto sl { std::source_location::current() };
+  throw std::runtime_error { fmt::format("{} {} {} Couldn't find the file '{}' looking into '{}'.",
+                                         sl.file_name(), sl.line(),
+                                         reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
+                                         pt::getTestResourcesDir().string()) };
 }
 
 /** returns the db file named <file>.db located in the current directory.
@@ -153,7 +156,7 @@ Path pt::getTestResourcesDir() {
  * @note We use Path to handle UTF-8 and UTF-16 file names.
 */
 [[nodiscard]] static inline Path getTmpFilePath() {
-  char ret[256] { '\0' };
+  char ret[L_tmpnam] { '\0' };
 
   if (const auto errorCode { tmpnam_s(ret, std::size(ret)) }; 0 != errorCode) [[unlikely]] {
     strerror_s(ret, std::size(ret), errorCode);
@@ -171,15 +174,16 @@ Path pt::getTestResourcesDir() {
 }
 
 static inline void removeWithMessage(const Path& file) {
-  ErrorCode ec;
   const auto& fileType { pf::isFile(file) ? "file" : "directory" };
 
-  if (!std::filesystem::remove_all(file, ec)) {
-    BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
-  } else if (!isOk(ec)) [[unlikely]] {
-    BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
-    BOOST_TEST_MESSAGE(ec.message());
-  }
+  if (ErrorCode ec; !std::filesystem::remove_all(file, ec)) {
+    if (isOk(ec)) {
+      BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
+    } else [[unlikely]] {
+        BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
+        BOOST_TEST_MESSAGE(ec.message());
+      }
+    }
 }
 
 pt::TmpFile::TmpFile(StringView name)

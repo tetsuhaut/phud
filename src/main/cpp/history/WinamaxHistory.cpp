@@ -35,27 +35,25 @@ WinamaxHistory::~WinamaxHistory() {
   }
 }
 
+static constexpr StringView ERR_MSG { "The chosen directory '{}' should contain a {} directory" };
+
 [[nodiscard]] static Either<String, Vector<Path>> getErrorMessageOrHistoryFiles(
 const Path& dir, const Path& histoDir) {
   if (!pf::isDir(histoDir)) {
-    return Either<String, Vector<Path>>::left(
-             fmt::format("The chosen directory '{}' should contain a 'history' directory", dir.string()));
+    return Either<String, Vector<Path>>::left(fmt::format(ERR_MSG, dir.string(), "'history'"));
   }
 
   if (!pf::isDir(dir / "data" / "buddy")) {
-    return Either<String, Vector<Path>>::left(
-             fmt::format("The chosen directory '{}' should contain a 'data/buddy' directory", dir.string()));
+    return Either<String, Vector<Path>>::left(fmt::format(ERR_MSG,  dir.string(), "'data/buddy'"));
   }
 
   if (!pf::isDir(dir / "data" / "players")) {
-    return Either<String, Vector<Path>>::left(
-             fmt::format("The chosen directory '{}' should contain a 'data/players' directory", dir.string()));
+    return Either<String, Vector<Path>>::left(fmt::format(ERR_MSG, dir.string(), "'data/players'"));
   }
 
   if (!pf::listSubDirs(histoDir).empty()) {
     return Either<String, Vector<Path>>::left(
-             fmt::format("The chosen directory '{}' should contain a 'history' directory that contains only files",
-                         dir.string()));
+             fmt::format(String(ERR_MSG) + " that contains only files", dir.string(), "'history'"));
   }
 
   if (const auto & allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
@@ -63,8 +61,7 @@ const Path& dir, const Path& histoDir) {
   }
 
   return Either<String, Vector<Path>>::left(
-           fmt::format("The chosen directory '{}' should contain a non empty 'history' directory ",
-                       dir.string()));
+           fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
 }
 
 /**
@@ -72,7 +69,6 @@ const Path& dir, const Path& histoDir) {
  * and if it contains a 'data' subdir, beside 'history', which contain 'buddy' and 'players' subdirs.
  */
 /*static*/ bool WinamaxHistory::isValidHistory(const Path& dir) {
-  // have to use Path.append() to produce consistent result on all compilers
   const auto& histoDir { (dir / "history").lexically_normal() };
   const auto& either { getErrorMessageOrHistoryFiles(dir, histoDir) };
 
@@ -108,6 +104,8 @@ const Path& dir, const Path& histoDir) {
 
   return files;
 }
+
+// disable other types than const Path&
 static inline Vector<Path> getFilesAndNotify(auto, auto) = delete;
 
 static inline Vector<Future<Site*>> parseFilesAsync(Span<const Path> files,
@@ -115,25 +113,23 @@ std::atomic_bool& stop, const auto& incrementCb) {
   Vector<Future<Site*>> ret;
   ret.reserve(files.size());
   pa::transform(files, ret, [&incrementCb, &stop](const auto & file) {
-    if (!stop) {
-      return ThreadPool::submit([&file, &incrementCb, &stop]() {
-        Site* pSite { nullptr };
+    if (stop) { return Future<Site*>(); }
 
-        try {
-          if (!stop) {
-            pSite = WinamaxGameHistory::parseGameHistory(file).release();
-          }
-        } catch (const std::exception& e) {
-          LOG.error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
-        } catch (const char* str) {
-          LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
-        }
+    return ThreadPool::submit([&file, &incrementCb, &stop]() {
+      Site* pSite { nullptr };
 
-        if (!stop and incrementCb) { incrementCb(); }
+      try {
+        pSite = WinamaxGameHistory::parseGameHistory(file).release();
+      } catch (const std::exception& e) {
+        LOG.error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
+      } catch (const char* str) {
+        LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
+      }
 
-        return pSite;
-      });
-    } else { return Future<Site*>(); }
+      if (!stop and incrementCb) { incrementCb(); }
+
+      return pSite;
+    });
   });
   return ret;
 }

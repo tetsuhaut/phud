@@ -53,7 +53,7 @@ String phud::filesystem::readToString(const Path& p) {
 }
 
 template<typename DIRECTORY_ITERATOR>
-static inline Vector<Path> genericListDirs(const Path& dir) {
+static inline Vector<Path> iterateDirs(const Path& dir) {
   Vector<Path> ret;
 
   if (!phud::filesystem::isDir(dir)) { return ret; }
@@ -65,7 +65,7 @@ static inline Vector<Path> genericListDirs(const Path& dir) {
 static inline Vector<Path> genericListDirs(auto) = delete; // use only Path
 
 Vector<Path> phud::filesystem::listFilesAndDirs(const Path& dir) {
-  return genericListDirs<DirIt>(dir);
+  return iterateDirs<DirIt>(dir);
 }
 
 Vector<Path> phud::filesystem::listFilesInDir(const Path& dir, StringView postFix) {

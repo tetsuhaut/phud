@@ -4,7 +4,7 @@
 #include "gui/Gui.hpp"  // uptr, mkUptr
 #include "gui/MainWindowAppearance.hpp" // Label::, Size::
 #include "gui/PlayerIndicator.hpp" // DragAndDropWindow, Fl_Double_Window
-#include "gui/Position.hpp"
+#include "gui/Position.hpp" // buildPlayerIndicatorPosition()
 #include "language/assert.hpp" // phudAssert
 #include "language/argsManagement.hpp" // hideArgs, revealArgs, Tuple
 #include "language/Either.hpp" // ErrOrRes
