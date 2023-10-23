@@ -107,6 +107,7 @@ struct [[nodiscard]] LoggingConfig final {
 
     nbErr = mainProgram.showGui();
     LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
+    //ThreadPool::stop();
   } catch (const PhudException& e) {
     LOG.error(e.what());
   } catch (const std::logic_error& e) {
@@ -119,6 +120,5 @@ struct [[nodiscard]] LoggingConfig final {
     LOG.error<"Unknown exception occurred.">();
     ++nbErr;
   }
-
   return nbErr;
 }

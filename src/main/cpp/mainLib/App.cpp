@@ -78,7 +78,6 @@ static inline void notify(TableStatistics&& stats, auto observer) {
 static inline void watchHistoFile(App::Implementation& self, const Path& file, String table, auto observer) {
   self.m_fileWatcher = mkUptr<FileWatcher>(::RELOAD_PERIOD, file);
   self.m_fileWatcher->start([&self, table, &observer](const Path & f) {
-    std::cout << "filewatcher submit reload\n";
     self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
       LOG.debug<"Notified, reloading the file\n{}">(f.string());
       return self.m_pokerSiteHistory->reloadFile(f);
@@ -100,7 +99,6 @@ void App::importHistory(const Path& historyDir,
                         std::function<void(std::size_t)> setNbFilesCb,
                         std::function<void()> doneCb) {
   m_pImpl->historyDir = historyDir.lexically_normal();
-  std::cout << "filewatcher submit load\n";
   m_pImpl->m_loadTask = ThreadPool::submit([this, historyDir, incrementCb, setNbFilesCb]() {
     // as this method will execute in another thread, it should not throw
     try {

@@ -12,6 +12,7 @@
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // fmt::format(), LoggingLevel
 #include "system/ErrorCode.hpp"
+#include "threads/ThreadPool.hpp"
 
 #include <boost/test/debug.hpp> // detect_memory_leaks()
 
@@ -56,6 +57,7 @@ public:
   }
   ~GlobalFixture() {
     Logger::shutdownLogging();
+    ThreadPool::stop();
   }
 }; /* GlobalFixture */
 
@@ -66,7 +68,8 @@ struct IsFile {};
 struct IsDir {};
 };
 
-template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
+template<typename T>
+requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
 [[nodiscard]] static inline Path getGenericFileFromTestResources(const auto& file) {
   phudAssert(!file.empty(), "file or dir can't be empty");
   phudAssert('/' != file.front(), "file or dir can't start with '/'");
@@ -171,7 +174,6 @@ Path pt::getTestResourcesDir() {
   // with gcc lhmouse, fs::temp_directory_path() returns an empty path and
   // tmpnam_s gives a relative file name
   if (Path(ret).is_relative()) {
-    std::cout << "getTmpFilePath retourne " << fs::temp_directory_path() / ret << '\n';
     return fs::temp_directory_path() / Path(ret).filename();
   }
 

@@ -301,10 +301,10 @@ void Database::save(const Site& site) {
   save(site.viewPlayers());
   const auto& cashGames { site.viewCashGames() };
   const auto& tournaments { site.viewTournaments() };
-  auto tasks { saveGamesAsync(cashGames, *this) };
-  auto f = saveGamesAsync(tournaments, *this);
-  pa::moveInto(f, tasks);
-  pa::forEach(tasks, [](auto & task) { stlab::await(std::move(task)); });
+  auto tasks1 { saveGamesAsync(cashGames, *this) };
+  auto tasks2 = saveGamesAsync(tournaments, *this);
+  pa::forEach(tasks1, [](auto & task) { stlab::await(std::move(task)); });
+  pa::forEach(tasks2, [](auto & task) { stlab::await(std::move(task)); });
   transaction.commit();
 }
 
