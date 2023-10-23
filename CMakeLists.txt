@@ -170,7 +170,7 @@ target_link_libraries(mainLib PRIVATE SQLite::SQLite3)
 # the library has been installed.
 # Note: we'll use fmt from this lib.
 ################################################################################
-find_package(spdlog 1.9.2 REQUIRED)
+find_package(spdlog 1.12.0 REQUIRED)
 target_link_libraries(dbgen PRIVATE spdlog::spdlog)
 target_link_libraries(guiDryRun PRIVATE spdlog::spdlog)
 target_link_libraries(mainLib PRIVATE spdlog::spdlog)
