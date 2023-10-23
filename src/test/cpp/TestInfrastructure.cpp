@@ -81,7 +81,8 @@ template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsD
   }
 
   const auto sl { std::source_location::current() };
-  throw std::runtime_error { fmt::format("{} {} {} Couldn't find the file '{}' looking into '{}'.",
+  //std::string msg = sl.file_name() + " " + sl.line() + " " + file.data() + 
+  throw std::runtime_error { fmt::format("{} {} Couldn't find the file '{}' looking into '{}'.",
                                          sl.file_name(), sl.line(),
                                          reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
                                          pt::getTestResourcesDir().string()) };

@@ -11,6 +11,7 @@
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
+#include "strings/StringLiteral.hpp" // concatLiteral
 #include "threads/ThreadPool.hpp" // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await
 
@@ -53,7 +54,7 @@ const Path& dir, const Path& histoDir) {
 
   if (!pf::listSubDirs(histoDir).empty()) {
     return Either<String, Vector<Path>>::left(
-             fmt::format(String(ERR_MSG) + " that contains only files", dir.string(), "'history'"));
+             fmt::format("The chosen directory '{}' should contain a {} directory that contains only files", dir.string(), "'history'"));
   }
 
   if (const auto & allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
