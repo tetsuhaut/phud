@@ -2,7 +2,10 @@
 #include "TimeBomb.hpp" // std::chrono::*
 #include "containers/algorithms.hpp"
 #include "db/Database.hpp"
+#include "entities/Game.hpp"
 #include "entities/Player.hpp"
+#include "entities/Site.hpp"
+#include "history/PokerSiteHistory.hpp"
 #include "mainLib/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/StatsProducer.hpp"
@@ -18,8 +21,10 @@ BOOST_AUTO_TEST_SUITE(StatsGetterTest)
 
 BOOST_AUTO_TEST_CASE(
   StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed) { // TODO: dure 10 secondes ???
-  Database db { pt::loadDatabaseFromTestResources("StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed.db",
-                ProgramInfos::WINAMAX_SITE_NAME).string() };
+  const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed")) };
+  BOOST_REQUIRE(nullptr != pSite);
+  Database db;
+  db.save(*pSite);
   const auto& table { "Kill The Fish(152800689)#056" };
   /* create the timebomb after the database creation which can be slow */
   StatsProducer producer { {.reloadPeriod = SG_PERIOD, .site = ProgramInfos::WINAMAX_SITE_NAME, .tableWindowName = table, .db = db} };

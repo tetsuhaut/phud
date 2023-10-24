@@ -1,5 +1,8 @@
 #include "TestInfrastructure.hpp"
 #include "db/Database.hpp"
+#include "entities/Game.hpp"
+#include "entities/Site.hpp"
+#include "history/PokerSiteHistory.hpp"
 #include "mainLib/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
@@ -7,7 +10,10 @@
 namespace pt = phud::test;
 
 BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed) {
-  Database db { pt::loadDatabaseFromTestResources("simpleTHisto.db", ProgramInfos::WINAMAX_SITE_NAME).string() };
+    const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto")) };
+  BOOST_REQUIRE(nullptr != pSite);
+  Database db;
+  db.save(*pSite);
   const auto& stats { db.readTableStatistics({.site = ProgramInfos::WINAMAX_SITE_NAME, .table = "Kill The Fish(152800689)#004"}) };
   BOOST_REQUIRE(Seat::seatSix == stats.getMaxSeat());
   BOOST_REQUIRE("StopCallFish" == stats.m_tableStats[0]->getPlayerName());
@@ -28,7 +34,10 @@ BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentS
 }
 
 BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed) {
-  Database db { pt::loadDatabaseFromTestResources("sabre_laser.db", ProgramInfos::WINAMAX_SITE_NAME).string() };
+    const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/sabre_laser")) };
+  BOOST_REQUIRE(nullptr != pSite);
+  Database db;
+  db.save(*pSite);
   const auto& stats { db.readTableStatistics({.site = ProgramInfos::WINAMAX_SITE_NAME, .table = "Double or Nothing(102140685)#0"}) };
   BOOST_REQUIRE("secretstar62" == stats.m_tableStats[0]->getPlayerName());
   BOOST_REQUIRE(0 <= stats.m_tableStats[0]->getVoluntaryPutMoneyInPot());

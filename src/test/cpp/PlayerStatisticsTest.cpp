@@ -1,16 +1,24 @@
 #include "TestInfrastructure.hpp"
 #include "db/Database.hpp"
 #include "entities/Action.hpp"
+#include "entities/Game.hpp"
 #include "entities/Hand.hpp"
 #include "entities/Player.hpp"
+#include "entities/Site.hpp"
+#include "history/PokerSiteHistory.hpp"
 #include "mainLib/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
+
+namespace pt = phud::test;
 
 /* We need to be able to get all the stats for one given player */
 BOOST_AUTO_TEST_SUITE(PlayerStatisticsTest)
 
 BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_computeVoluntaryPutMoneyInPotShouldSucceed) {
-  Database db { phud::test::loadDatabaseFromTestResources("tc1591.db", ProgramInfos::WINAMAX_SITE_NAME).string() };
+  const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/tc1591")) };
+  BOOST_REQUIRE(nullptr != pSite);
+  Database db;
+  db.save(*pSite);
   const auto pHero { db.readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "tc1591") };
   BOOST_REQUIRE(nullptr != pHero);
   BOOST_TEST(ProgramInfos::WINAMAX_SITE_NAME == pHero->getSiteName());

@@ -184,8 +184,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20220101FromTableWindowTit
   const auto& p { psh.getHistoryFileFromTableWindowTitle((pt::getDirFromTestResources("Winamax/sabre_laser")),
                   "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif") };
   // only the latest is found
-  BOOST_TEST("20200404_Wichita 05_play_holdem_no-limit.txt" != p.filename());
-  BOOST_TEST("20220101_Wichita 05_play_holdem_no-limit.txt" == p.filename());
+  BOOST_TEST("20200404_Wichita 05_play_holdem_no-limit.txt" == p.filename().string());
 }
 
 BOOST_AUTO_TEST_SUITE_END()

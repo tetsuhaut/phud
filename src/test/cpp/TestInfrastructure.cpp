@@ -90,32 +90,6 @@ requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
                                          pt::getTestResourcesDir().string()) };
 }
 
-/** returns the db file named <file>.db located in the current directory.
- * if the file does not exist, it is created by loading the history files
- * located in the testResourceDir/<file stem>history directory
- */
-Path pt::loadDatabaseFromTestResources(StringView file, StringView pokerSite) {
-  phudAssert(file.ends_with(".db"), "A database file should end by '.db'");
-  phudAssert(!ps::contains(file, '/') and !ps::contains(file, "\\"), "Needs a relative file name");
-  Path dbFile { file };
-
-  if (pf::isFile(dbFile)) {
-    fmt::print("Found the database file {}, no need to create it.\n", file);
-  }
-  else {
-    fmt::print("Can't find the database file {}, will create it.\n", file);
-    // TODO : make it be considered as an actual Winamax history directory
-    const auto& historyDir { pt::getTestResourcesDir() / pokerSite / dbFile.stem() };
-    phudAssert(pf::isDir(historyDir),
-               "Can't find the given file in the src/test/resource/<file stem>history directory");
-    const auto& pSite { PokerSiteHistory::load(historyDir) };
-    Database db { file };
-    db.save(*pSite);
-  }
-
-  return dbFile;
-}
-
 Path pt::getFileFromTestResources(std::u8string_view file) {
   return getGenericFileFromTestResources<::IsFile>(file);
 }

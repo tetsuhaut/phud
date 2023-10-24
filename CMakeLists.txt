@@ -80,6 +80,7 @@ target_compile_definitions(unitTests PRIVATE PHUD_TEST_SRC_DIR="${CMAKE_SOURCE_D
 # will use the Boost libraries, so configure the project for it
 # need to have Boost_DIR as an environment variable pointing to the dir where
 # the library has been installed
+# https://github.com/boostorg/test
 ################################################################################
 # disable auto linking
 add_definitions(-DBOOST_ALL_NO_LIB)
@@ -101,6 +102,7 @@ target_link_libraries(unitTests PRIVATE ${Boost_UNIT_TEST_FRAMEWORK_LIBRARY})
 # notes:
 # - CMake's findFltk tool does not point on the installed version, so can't use it
 # - FLTK cmake conf does not handle version :(
+# https://github.com/fltk/fltk
 ################################################################################
 set(FLTK_SKIP_FORMS true)
 set(FLTK_SKIP_FLUID true)
@@ -114,40 +116,20 @@ target_include_directories(mainLib PRIVATE ${FLTK_INCLUDE_DIRS})
 target_link_libraries(mainLib PRIVATE ${FLTK_LIBRARIES})
 
 ################################################################################
-# will use the fmt library, so configure the project for it
-# need to have FMT_DIR as an environment variable pointing to the dir where
-# the library has been installed
-# Note: commented as we'll get it from spdlog.
-################################################################################
-# find_package(fmt 6.1.2 REQUIRED)
-# target_link_libraries(dbgen PRIVATE fmt::fmt)
-# target_link_libraries(mainLib PRIVATE fmt::fmt)
-# target_link_libraries(phud PRIVATE fmt::fmt)
-# target_link_libraries(unitTests PRIVATE fmt::fmt)
-
-################################################################################
 # will use the frozen library, so configure the project for it
 # need to have frozen_DIR as an environment variable pointing to the dir where
 # the library has been installed
+# https://github.com/serge-sans-paille/frozen
 ################################################################################
 find_package(frozen 1.1.0 REQUIRED)
 target_link_libraries(mainLib PRIVATE frozen::frozen-headers)
 target_link_libraries(unitTests PRIVATE frozen::frozen-headers)
 
 ################################################################################
-# will use the gsl-lite library, so configure the project for it
-# need to have gsl-lite_DIR as an environment variable pointing to the dir where
-# the library has been installed
-# Note: commented as we'll get it from Microsoft.
-################################################################################
-# find_package(gsl-lite 0.38.1 REQUIRED)
-# target_link_libraries(mainLib PRIVATE gsl::gsl-lite)
-# target_link_libraries(unitTests PRIVATE gsl::gsl-lite)
-
-################################################################################
 # will use the GSL library, so configure the project for it
 # need to have Microsoft.GSL_DIR as an environment variable pointing to the dir
 # where the library has been installed
+# https://github.com/microsoft/GSL
 ################################################################################
 find_package(Microsoft.GSL CONFIG)
 target_link_libraries(mainLib PRIVATE Microsoft.GSL::GSL)
@@ -160,6 +142,7 @@ target_link_libraries(unitTests PRIVATE Microsoft.GSL::GSL)
 # need to have SQLite3_DIR as an environment variable pointing to the dir where
 # the file Sqlite3Config.cmake has been generated
 # the CONFIG is used to comply the website explanations
+# https://github.com/azadkuh/sqlite-amalgamation
 ################################################################################
 find_package(SQLite3 REQUIRED CONFIG)
 target_link_libraries(mainLib PRIVATE SQLite::SQLite3)
@@ -169,6 +152,7 @@ target_link_libraries(mainLib PRIVATE SQLite::SQLite3)
 # need to have Spdlog_DIR as an environment variable pointing to the dir where
 # the library has been installed.
 # Note: we'll use fmt from this lib.
+# https://github.com/gabime/spdlog
 ################################################################################
 find_package(spdlog 1.12.0 REQUIRED)
 target_link_libraries(dbgen PRIVATE spdlog::spdlog)
@@ -183,14 +167,16 @@ target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 # the library has been installed
 # https://github.com/stlab/libraries
 ################################################################################
-find_package(stlab 1.6.2 REQUIRED)
+find_package(stlab 1.7.1 REQUIRED)
 target_link_libraries(mainLib PRIVATE stlab::stlab)
+target_link_libraries(phud PRIVATE stlab::stlab)
 target_link_libraries(unitTests PRIVATE stlab::stlab)
 
 ################################################################################
 # will use the utf8cpp library, so configure the project for it
 # need to have utf8cpp_DIR as an environment variable pointing to the dir where
 # the library has been installed
+# https://github.com/nemtrif/utfcpp
 ################################################################################
 find_package(utf8cpp REQUIRED) # how to specify the version?
 target_link_libraries(unitTests PRIVATE utf8cpp)
@@ -199,11 +185,13 @@ target_link_libraries(unitTests PRIVATE utf8cpp)
 # will use the tuplet library, so configure the project for it
 # need to have tuplet_DIR as an environment variable pointing to the dir where
 # the library has been installed
+# https://github.com/codeinred/tuplet
 ###############################################################################
 # not way to get the version yet
 find_package(tuplet REQUIRED)
 target_link_libraries(mainLib PRIVATE tuplet::tuplet)
 target_link_libraries(unitTests PRIVATE tuplet::tuplet)
+
 ################################################################################
 # if used with Microsoft Visual Studio, link statically, compile with max
 # warnings, compile with multiple threads (i.e. faster), use utf-8 without byte

@@ -64,8 +64,10 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameAsynchShouldSucceed
 }
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_shouldGetCorrectTableMaxSeat) {
-  const auto& dbPath { pt::loadDatabaseFromTestResources("simpleTHisto.db", ProgramInfos::WINAMAX_SITE_NAME) };
-  Database db { dbPath.string() };
+  const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto")) };
+  BOOST_REQUIRE(nullptr != pSite);
+  Database db;
+  db.save(*pSite);
   BOOST_REQUIRE(Seat::seatSix == db.getTableMaxSeat(ProgramInfos::WINAMAX_SITE_NAME,
                 "Kill The Fish(152800689)#004"));
 }
