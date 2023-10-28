@@ -3,25 +3,27 @@
 #include "entities/Site.hpp"        // Site
 #include "history/PmuHistory.hpp" // Path
 
+namespace pf = phud::filesystem;
+
 PmuHistory::~PmuHistory() = default;
 
 /**
  * @return true if the given dir is a direct child of a HandHistory dir, and contains at least one subdir, named YYYYMMDD.
  */
-bool PmuHistory::isValidHistory(const Path& /*historyDir*/) {
+bool PmuHistory::isValidHistory(const pf::Path& /*historyDir*/) {
   return false;
 }
 
-uptr<Site> PmuHistory::load(const Path& /*historyDir*/, FunctionVoid /*incrementCb*/,
+uptr<Site> PmuHistory::load(const pf::Path& /*historyDir*/, FunctionVoid /*incrementCb*/,
                             FunctionInt /*setNbFilesCb*/) {
   return nullptr;
 }
 
-/* [[nodiscard]] static*/ uptr<Site> PmuHistory::load(const Path& /*historyDir*/) { return nullptr; }
+/* [[nodiscard]] static*/ uptr<Site> PmuHistory::load(const pf::Path& /*historyDir*/) { return nullptr; }
 
 void PmuHistory::stopLoading() {}
 
-uptr<Site> PmuHistory::reloadFile(const Path& /*winamaxHistoryFile*/) {
+uptr<Site> PmuHistory::reloadFile(const pf::Path& /*winamaxHistoryFile*/) {
   return nullptr;
 }
 
@@ -29,7 +31,7 @@ std::string_view PmuHistory::getTableNameFromTableWindowTitle(std::string_view /
   return "";
 }
 
-Path PmuHistory::getHistoryFileFromTableWindowTitle(const Path& /*historyDir*/,
+pf::Path PmuHistory::getHistoryFileFromTableWindowTitle(const pf::Path& /*historyDir*/,
     std::string_view /*tableWindowTitle*/) const {
   return {};
 }

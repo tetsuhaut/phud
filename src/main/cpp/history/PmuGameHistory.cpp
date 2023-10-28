@@ -13,6 +13,7 @@
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace pa = phud::algorithms;
+namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 template <typename GAME_TYPE>
@@ -34,7 +35,7 @@ template <typename GAME_TYPE>
 }
 
 template <typename GAME_TYPE> [[nodiscard]] static inline
-uptr<GAME_TYPE> createGame(const Path& gameHistoryFile, PlayerCache& cache) {
+uptr<GAME_TYPE> createGame(const pf::Path& gameHistoryFile, PlayerCache& cache) {
   LOG.debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
   const auto& fileStem { ps::sanitize(gameHistoryFile.stem().string()) };
   uptr<GAME_TYPE> ret;
@@ -63,7 +64,7 @@ template <typename GAME_TYPE> [[nodiscard]] static inline
 uptr<GAME_TYPE> createGame(auto, PlayerCache&) = delete; // use only Path
 
 template<typename GAME_TYPE>
-[[nodiscard]] static inline uptr<Site> handleGame(const Path& gameHistoryFile) {
+[[nodiscard]] static inline uptr<Site> handleGame(const pf::Path& gameHistoryFile) {
   LOG.debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite { mkUptr<Site>(ProgramInfos::PMU_SITE_NAME) };
   PlayerCache cache { ProgramInfos::PMU_SITE_NAME };
@@ -78,7 +79,7 @@ template<typename GAME_TYPE>
   return pSite;
 }
 
-uptr<Site> PmuGameHistory::parseGameHistory(const Path& gameHistoryFile) {
+uptr<Site> PmuGameHistory::parseGameHistory(const pf::Path& gameHistoryFile) {
   LOG.debug<"Parsing the {} game history file {}.">(ProgramInfos::PMU_SITE_NAME,
       gameHistoryFile.filename().string());
   return handleGame<CashGame>(gameHistoryFile);

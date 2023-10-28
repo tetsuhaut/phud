@@ -5,7 +5,7 @@
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
-TextFile::TextFile(const Path& file)
+TextFile::TextFile(const pf::Path& file)
   : m_file { file },
     m_content { pf::readToString(file) } {}
 

@@ -181,17 +181,6 @@ target_link_libraries(unitTests PRIVATE stlab::stlab)
 find_package(utf8cpp REQUIRED) # how to specify the version?
 target_link_libraries(unitTests PRIVATE utf8cpp)
 
-###############################################################################
-# will use the tuplet library, so configure the project for it
-# need to have tuplet_DIR as an environment variable pointing to the dir where
-# the library has been installed
-# https://github.com/codeinred/tuplet
-###############################################################################
-# not way to get the version yet
-find_package(tuplet REQUIRED)
-target_link_libraries(mainLib PRIVATE tuplet::tuplet)
-target_link_libraries(unitTests PRIVATE tuplet::tuplet)
-
 ################################################################################
 # if used with Microsoft Visual Studio, link statically, compile with max
 # warnings, compile with multiple threads (i.e. faster), use utf-8 without byte

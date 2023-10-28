@@ -4,10 +4,12 @@
 #include "history/PmuHistory.hpp" // PokerSiteHistory
 #include "history/WinamaxHistory.hpp"
 
+namespace pf = phud::filesystem;
+
 PokerSiteHistory::~PokerSiteHistory() = default;
 
 /* [[nodiscard]] static */ uptr<PokerSiteHistory> PokerSiteHistory::newInstance(
-  const Path& historyDir) {
+  const pf::Path& historyDir) {
   if (PmuHistory::isValidHistory(historyDir)) { return mkUptr<PmuHistory>(); }
 
   if (WinamaxHistory::isValidHistory(historyDir)) { return mkUptr<WinamaxHistory>(); }
@@ -15,11 +17,11 @@ PokerSiteHistory::~PokerSiteHistory() = default;
   return nullptr;
 }
 
-/* [[nodiscard]] static */ bool PokerSiteHistory::isValidHistory(const Path& historyDir) {
+/* [[nodiscard]] static */ bool PokerSiteHistory::isValidHistory(const pf::Path& historyDir) {
   return PmuHistory::isValidHistory(historyDir) or WinamaxHistory::isValidHistory(historyDir);
 }
 
-/* [[nodiscard]] static */ uptr<Site> PokerSiteHistory::load(const Path& historyDir) {
+/* [[nodiscard]] static */ uptr<Site> PokerSiteHistory::load(const pf::Path& historyDir) {
   if (PmuHistory::isValidHistory(historyDir)) { return PmuHistory::load(historyDir); }
 
   if (WinamaxHistory::isValidHistory(historyDir)) { return WinamaxHistory::load(historyDir); }

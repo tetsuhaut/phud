@@ -1,5 +1,4 @@
 #include "containers/algorithms.hpp"
-#include "containers/Tuple.hpp"
 #include "entities/Action.hpp"
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
@@ -39,8 +38,16 @@ static inline void seekToDealingDownCards(TextFile& tf) {
 
 [[nodiscard]] bool isDigit(const auto& someGenericChar) { return 0 != std::isdigit(someGenericChar); }
 
+struct InfosFromCashGamePmuPokerLine {
+  double m_smallBlind;
+  double m_bigBlind;
+  Time m_startDate;
+  Limit m_limit;
+  Variant m_variant;
+};
+
 // smallBlind, bigBlind, startDate, limit, variant
-[[nodiscard]] static inline Tuple<double, double, Time, Limit, Variant>
+[[nodiscard]] static inline InfosFromCashGamePmuPokerLine
 getInfosFromCashGamePmuPokerLine(std::string_view line) {
   // €0.01/€0.02 EUR NL Texas Hold'em - Tuesday, September 21, 10:45:33 CEST 2021
   const auto smallBlindPos { line.find_first_of(".0123456789", 1) };
@@ -55,7 +62,7 @@ getInfosFromCashGamePmuPokerLine(std::string_view line) {
   const auto secondLastSpacePos { dateStr.rfind(' ', lastSpacePos - 1) };
   dateStr.replace(secondLastSpacePos, lastSpacePos - secondLastSpacePos, "");
   const Time date({ .strTime = dateStr, .format = PMU_HISTORY_TIME_FORMAT });
-  return { smallBlind, bigBlind, date, limit, variant };
+  return { .m_smallBlind = smallBlind, .m_bigBlind = bigBlind, .m_startDate = date, .m_limit = limit, .m_variant = variant };
 }
 
 static constexpr auto TABLE_LENGTH { ps::length("Table ") };
@@ -121,26 +128,32 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
   return { Street::preflop, FIVE_NONE_CARDS };
 }
 
-[[nodiscard]] static inline std::optional<Tuple<std::string_view, ActionType, double>>
+struct LineForActionParams {
+  std::string_view m_playerName;
+  ActionType m_type;
+  double m_bet;
+};
+
+[[nodiscard]] static inline std::optional<LineForActionParams>
 parseLineForActionParams(std::string_view line) {
-  std::optional < Tuple<std::string_view, ActionType, double>> ret {};
+  std::optional<LineForActionParams> ret {};
 
   // TODO factoriser
   if (line.ends_with(" folds")) {
-    ret = { line.substr(0, line.rfind(' ')), ActionType::fold, 0.0 };
+    ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::fold, .m_bet = 0.0 };
   } else if (line.ends_with(" checks")) {
-    ret = { line.substr(0, line.rfind(' ')), ActionType::check, 0.0 };
+    ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::check, .m_bet = 0.0 };
   } else if (ps::contains(line, " calls ")) {
-    ret = { line.substr(0, line.find(" calls ")), ActionType::call, ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' '))) };
+    ret = { .m_playerName = line.substr(0, line.find(" calls ")), .m_type = ActionType::call, .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' '))) };
   } else if (ps::contains(line, " bets ")) {
-    ret = { line.substr(0, line.find(" bets ")), ActionType::bet, ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' '))) };
+    ret = { .m_playerName = line.substr(0, line.find(" bets ")), .m_type = ActionType::bet, .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' '))) };
   } else if (ps::contains(line, " raises ")) {
-    ret = { line.substr(0, line.find(" raises ")), ActionType::raise,
-            ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
+    ret = { .m_playerName = line.substr(0, line.find(" raises ")), .m_type = ActionType::raise,
+            .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
           };
   } else  if (ps::contains(line, " is all-In ")) {
-    ret = { line.substr(0, line.find(" is all-In ")), ActionType::raise,
-            ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
+    ret = { .m_playerName = line.substr(0, line.find(" is all-In ")), .m_type = ActionType::raise,
+            .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
           };
   }
 
@@ -222,8 +235,14 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
   return FIVE_NONE_CARDS;
 }
 
+struct ActionsAndWinnersAndBoardCards {
+  std::vector<uptr<Action>> m_actions;
+  std::array<std::string, 10> m_winners;
+  std::array<Card, 5> m_boardCards;
+};
+
 // actions, winners,board cards
-[[nodiscard]] static inline Tuple<std::vector<uptr<Action>>, std::array<std::string, 10>, std::array<Card, 5>>
+[[nodiscard]] static inline ActionsAndWinnersAndBoardCards
 parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
   LOG.debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
   std::vector<uptr<Action>> actions;
@@ -246,13 +265,19 @@ parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
   const auto& winners { parseWinners(tf) };
   auto additionalActions { createActionForWinnersWithoutAction(winners, actions, lastStreet, handId) };
   pa::moveInto(additionalActions, actions);
-  return { std::move(actions), winners, boardCards };
+  return { .m_actions = std::move(actions), .m_winners = winners, .m_boardCards = boardCards };
 }
 
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
+struct NbMaxSeatsTableNameButtonSeat {
+  int m_nbMaxSeats;
+  std::string m_tableName;
+  int m_buttonSeat;
+};
+
 // nbMaxSeats, tableName, buttonSeat
-Tuple<int, std::string, int> getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
+NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
   tf.next();
   const auto& line { tf.getLine() };
   LOG.debug<"Parsing table line {}.">(line);
@@ -269,7 +294,7 @@ Tuple<int, std::string, int> getNbMaxSeatsTableNameButtonSeatFromTableLine(TextF
   if (line.starts_with("Seat ")) { throw "a Table line should start with 'Seat '"; }
 
   tf.next();
-  return { nbMaxSeats, tableName, buttonSeat };
+  return { .m_nbMaxSeats = nbMaxSeats, .m_tableName = tableName, .m_buttonSeat = buttonSeat };
 }
 
 template<GameType gameType>
@@ -280,7 +305,7 @@ template<GameType gameType>
   const auto& seatPlayers { parseSeats(tf, cache) };
   const auto ante { parseAnte(tf) };
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
-  auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
+  auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params params { .id = handId, .gt = gameType, .siteName = ProgramInfos::PMU_SITE_NAME,
                         .tableName = tableName, .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = level,
@@ -307,7 +332,7 @@ uptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& cache) {
   seekToDealingDownCards(tf);
   tf.next();
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
-  auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
+  auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params p { .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
                    .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate, .seatPlayers = seatPlayers,
@@ -340,7 +365,7 @@ PlayerCache& cache) {
   seekToDealingDownCards(tf);
   tf.next();
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
-  auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
+  auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params params { .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
                         .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate, .seatPlayers = seatPlayers,

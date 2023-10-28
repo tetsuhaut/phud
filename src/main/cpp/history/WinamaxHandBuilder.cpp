@@ -1,5 +1,4 @@
 #include "containers/algorithms.hpp" // phud::algorithms::moveInto, std::size()
-#include "containers/Tuple.hpp"
 #include "entities/Action.hpp" // ps::toAmount
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
@@ -34,8 +33,14 @@ constexpr static std::array FIVE_NONE_CARDS { Card::none, Card::none, Card::none
 static constexpr auto MINUS_LENGTH { ps::length(" - ") }; // nb char without '\0
 static constexpr auto HAND_ID_LENGTH { ps::length(" - HandId: #") }; // nb char without '\0
 
+struct StartOfWinamaxPokerLine {
+  std::size_t m_handIdPos;
+  Time m_handStartDate;
+  std::string m_handId;
+};
+
 // Returns the HandId position, the Hand start time and the Hand Id
-[[nodiscard]] static inline Tuple<std::size_t, Time, std::string> parseStartOfWinamaxPokerLine(
+[[nodiscard]] static inline StartOfWinamaxPokerLine parseStartOfWinamaxPokerLine(
   std::string_view line) {
   // "^Winamax Poker - .* - HandId: #(.*) .*  - (.*) UTC$"
   if (!line.starts_with("Winamax Poker")) { throw "a Winamax poker line should start with 'Winamax Poker'"; }
@@ -49,13 +54,20 @@ static constexpr auto HAND_ID_LENGTH { ps::length(" - HandId: #") }; // nb char 
   const Time handStartDate({ .strTime = line.substr(datePos, line.rfind(' ') - datePos), .format = WINAMAX_HISTORY_TIME_FORMAT });
   const auto handIdPos { line.find(" - HandId: #") + HAND_ID_LENGTH };
   const auto handId { line.substr(handIdPos, line.find(" - ", handIdPos) - handIdPos) };
-  return { handIdPos, handStartDate, std::string(handId) };
+  return { .m_handIdPos = handIdPos, .m_handStartDate = handStartDate, .m_handId = std::string(handId) };
 }
 
 static constexpr auto BUY_IN_LENGTH { ps::length(" buyIn: ") }; // nb char without '\0
 static constexpr auto LEVEL_LENGTH { ps::length(" level: ") }; // nb char without '\0
 
-[[nodiscard]] static inline Tuple<double, int, Time, std::string>
+struct BuyInLevelDateHandId {
+  double m_buyIn;
+  int m_level;
+  Time m_date;
+  std::string m_handId;
+};
+
+[[nodiscard]] static inline BuyInLevelDateHandId
 getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   const auto& [handIdPos, handStartDate, handId] { parseStartOfWinamaxPokerLine(line) };
   // "^Winamax Poker - .* buyIn: (.*) level: (.*) - HandId: #(.*) - .* - (.*) UTC$"
@@ -63,19 +75,32 @@ getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   const auto levelPos { line.find(" level: ") + LEVEL_LENGTH };
   const auto buyIn { ps::toBuyIn(line.substr(buyInPos, levelPos - LEVEL_LENGTH - buyInPos)) };
   const auto level { ps::toInt(line.substr(levelPos, handIdPos - HAND_ID_LENGTH - levelPos)) };
-  return { buyIn, level, handStartDate, handId };
+  return { .m_buyIn = buyIn, .m_level = level, .m_date = handStartDate, .m_handId = handId };
 }
 
-[[nodiscard]] static inline Tuple<int, Time, std::string>
+struct LevelDateHandId {
+  int m_level;
+  Time m_date;
+  std::string m_handId;
+};
+
+[[nodiscard]] static inline LevelDateHandId
 getLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   const auto& [handIdPos, handStartDate, handId] { parseStartOfWinamaxPokerLine(line) };
   // "^Winamax Poker - .* buyIn: (.*) level: (.*) - HandId: #(.*) - .* - (.*) UTC$"
   const auto levelPos { line.find(" level: ") + LEVEL_LENGTH };
   const auto level { ps::toInt(line.substr(levelPos, handIdPos - HAND_ID_LENGTH - levelPos)) };
-  return { level, handStartDate, handId };
+  return { .m_level = level, .m_date = handStartDate, .m_handId = handId };
 }
 
-[[nodiscard]] static inline Tuple<double, double, Time, std::string>
+struct SmallBlindBigBlindDateHandId {
+  double m_smallBlind;
+  double m_bigBlind;
+  Time m_date;
+  std::string m_handId;
+};
+
+[[nodiscard]] static inline SmallBlindBigBlindDateHandId
 getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(std::string_view line) {
   const auto& [_, handStartDate, handId] { parseStartOfWinamaxPokerLine(line) };
   // "^Winamax Poker - .* - HandId: #(.*) - .* \\((.*)/(.*)\\) - (.*) UTC$"
@@ -83,7 +108,7 @@ getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(std::string_view lin
   const auto bigBlindPos { line.find('/') + 1 };
   const auto smallBlind { ps::toAmount(line.substr(smallBlindPos, bigBlindPos - 1 - smallBlindPos)) };
   const auto bigBlind { ps::toAmount(line.substr(bigBlindPos, line.find(')') - 1)) };
-  return { smallBlind, bigBlind, handStartDate, handId };
+  return { .m_smallBlind = smallBlind, .m_bigBlind = bigBlind, .m_date = handStartDate, .m_handId = handId };
 }
 
 static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
@@ -138,8 +163,14 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
 static constexpr auto TABLE_LENGTH { ps::length("Table: '") };
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
+struct NbMaxSeatsTableNameButtonSeat {
+  Seat m_nbMaxSeats;
+  std::string m_tableName;
+  Seat m_buttonSeat;
+};
+
 // returns nbMaxSeats, tableName, buttonSeat
-[[nodiscard]] static inline Tuple<Seat, std::string, Seat> getNbMaxSeatsTableNameButtonSeatFromTableLine(
+[[nodiscard]] static inline NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(
   TextFile& tf) {
   tf.next();
   const auto& line { tf.getLine() };
@@ -157,7 +188,7 @@ static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
   if (line.starts_with("Seat ")) { throw "a Table line should start with 'Seat '"; }
 
   tf.next();
-  return { nbMaxSeats, tableName, buttonSeat };
+  return { .m_nbMaxSeats = nbMaxSeats, .m_tableName = tableName, .m_buttonSeat = buttonSeat };
 }
 
 static constexpr auto POSTS_ANTE_LENGTH { ps::length(" posts ante ") };
@@ -176,26 +207,32 @@ static constexpr auto POSTS_ANTE_LENGTH { ps::length(" posts ante ") };
   return ret;
 }
 
-[[nodiscard]] static inline std::optional<Tuple<std::string_view, ActionType, double>>
+struct ActionParams {
+  std::string_view m_playerName;
+  ActionType m_type;
+  double m_bet;
+};
+
+[[nodiscard]] static inline std::optional<ActionParams>
 parseLineForActionParams(std::string_view line) {
-  std::optional<Tuple<std::string_view, ActionType, double>> ret {};
+  std::optional<ActionParams> ret {};
 
   if (line.ends_with(" folds")) {
-    ret = { line.substr(0, line.rfind(' ')), ActionType::fold, 0.0 };
+    ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::fold, .m_bet = 0.0 };
   } else  if (line.ends_with(" checks")) {
-    ret = { line.substr(0, line.rfind(' ')), ActionType::check, 0.0 };
+    ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::check, .m_bet = 0.0 };
   } else if (ps::contains(line, " calls ")) {
-    ret = { line.substr(0, line.find(" calls ")), ActionType::call,
-            ps::toAmount(line.substr(line.rfind(' ') + 1))
-          };
+    ret = { .m_playerName = line.substr(0, line.find(" calls ")),
+            .m_type = ActionType::call,
+            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1)) };
   } else  if (ps::contains(line, " bets ")) {
-    ret = { line.substr(0, line.find(" bets ")), ActionType::bet,
-            ps::toAmount(line.substr(line.rfind(' ') + 1))
-          };
+    ret = { .m_playerName = line.substr(0, line.find(" bets ")),
+            .m_type = ActionType::bet,
+            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1)) };
   } else if (ps::contains(line, " raises ")) {
-    ret = { line.substr(0, line.find(" raises ")), ActionType::raise,
-            ps::toAmount(line.substr(line.rfind(' ') + 1))
-          };
+    ret = { .m_playerName = line.substr(0, line.find(" raises ")),
+            .m_type = ActionType::raise,
+            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1)) };
   }
 
   return ret;

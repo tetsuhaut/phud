@@ -117,8 +117,7 @@ auto MY_SRC_FILES { getMySrcFiles(SRC_FILES) };
 const auto& H_HPP_FILES { getMySrcFiles(pa::merge(HPP_FILES, H_FILES)) };
 const auto& MY_SRC_FILES_WITH_EXCEPTION {
   pa::removeCopyIf<std::vector<pf::Path>>(MY_SRC_FILES, [](const auto & file) {
-    return file.string().ends_with("SourceCodeStaticCheckTest.cpp")
-           or file.string().ends_with("Tuple.hpp");
+    return file.string().ends_with("SourceCodeStaticCheckTest.cpp");
   })
 };
 

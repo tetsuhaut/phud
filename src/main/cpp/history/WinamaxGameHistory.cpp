@@ -15,6 +15,7 @@
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace pa = phud::algorithms;
+namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 [[nodiscard]] static constexpr Limit fileStemToLimit(std::string_view fileStem) noexcept {
@@ -37,6 +38,13 @@ namespace ps = phud::strings;
   return Variant::none;
 }
 
+struct FileStem {
+  bool m_isRealMoney;
+  std::string m_gameName;
+  Variant m_variant;
+  Limit m_limit;
+};
+
 // file: file name, without path and extension
 // Fills gameData->m_gameName, gameData->m_isRealMoney, gameData->m_variant and gameData->m_limit
 // should parse something like:
@@ -46,10 +54,10 @@ namespace ps = phud::strings;
 // 20170305_Memphis 06_play_omaha_pot-limit
 // "\\d{ 8 }_(.*)_(real|play)?_(.*)_(.*)"
 // exported for unit testing
-/* static inline */ std::optional<Tuple<bool, std::string, Variant, Limit>> parseFileStem(
-std::string_view fileStem) {
+/* static inline */ std::optional<FileStem> parseFileStem(
+  std::string_view fileStem) {
   LOG.debug<"Parsing the file stem {}.">(fileStem);
-  Tuple<bool, std::string, Variant, Limit> ret {};
+  FileStem ret {};
 
   if (12 > fileStem.size()) {
     LOG.error<"Couldn't parse the file stem '{}', too short!!!">(fileStem);
@@ -57,16 +65,15 @@ std::string_view fileStem) {
   }
 
   const auto pos { fileStem.find("_real_", 9) }; // we ignore the date at the start of the file stem
-  const auto isRealMoney { std::string_view::npos != pos };
+  ret.m_isRealMoney = (std::string_view::npos != pos);
 
-  if (!isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
+  if (!ret.m_isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
     LOG.error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(fileStem);
     return ret;
-  }
-  const auto gameName { fileStem.substr(9, pos - 9) };
-  const auto variant { fileStemToVariant(fileStem) };
-  const auto limit { fileStemToLimit(fileStem) };
-  ret = { isRealMoney, std::string(gameName), variant, limit };
+    }
+  ret.m_gameName = fileStem.substr(9, pos - 9);
+  ret.m_variant = fileStemToVariant(fileStem);
+  ret.m_limit = fileStemToLimit(fileStem);
   return ret;
 }
 
@@ -88,17 +95,15 @@ template <typename GAME_TYPE>
   }
 }
 
-static inline void fillFromFileName(const Tuple<bool, std::string, Variant, Limit>& values,
-                                    GameData& gameData) {
-  const auto [isRealMoney, gameName, variant, limit] { values };
-  gameData.m_isRealMoney = isRealMoney;
-  gameData.m_gameName = gameName;
-  gameData.m_variant = variant;
-  gameData.m_limit = limit;
+static inline void fillFromFileName(const FileStem& values, GameData& gameData) {
+  gameData.m_isRealMoney = values.m_isRealMoney;
+  gameData.m_gameName = values.m_gameName;
+  gameData.m_variant = values.m_variant;
+  gameData.m_limit = values.m_limit;
 }
 
 template <typename GAME_TYPE> [[nodiscard]] static inline
-uptr<GAME_TYPE> createGame(const Path& gameHistoryFile, PlayerCache& cache) {
+uptr<GAME_TYPE> createGame(const pf::Path& gameHistoryFile, PlayerCache& cache) {
   LOG.debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
   const auto& fileStem { ps::sanitize(gameHistoryFile.stem().string()) };
   uptr<GAME_TYPE> ret;
@@ -129,7 +134,7 @@ uptr<GAME_TYPE> createGame(const Path& gameHistoryFile, PlayerCache& cache) {
 }
 
 template<typename GAME_TYPE>
-[[nodiscard]] static inline uptr<Site> handleGame(const Path& gameHistoryFile) {
+[[nodiscard]] static inline uptr<Site> handleGame(const pf::Path& gameHistoryFile) {
   LOG.debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite { mkUptr<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
   PlayerCache cache { ProgramInfos::WINAMAX_SITE_NAME };
@@ -145,7 +150,7 @@ template<typename GAME_TYPE>
 }
 
 // reminder: WinamaxGameHistory is a namespace
-uptr<Site> WinamaxGameHistory::parseGameHistory(const Path& gameHistoryFile) {
+uptr<Site> WinamaxGameHistory::parseGameHistory(const pf::Path& gameHistoryFile) {
   LOG.debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
       gameHistoryFile.filename().string());
   const auto& fileStem { gameHistoryFile.stem().string() };

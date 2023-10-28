@@ -24,8 +24,13 @@ namespace pt = phud::test;
  * exported for unit testing
  * @returns isRealMoney, gameName, variant, limit
  */
-[[nodiscard]] std::optional<Tuple<bool, std::string, Variant, Limit>>
-    parseFileStem(std::string_view fileStem);
+struct FileStem {
+  bool m_isRealMoney;
+  std::string m_gameName;
+  Variant m_variant;
+  Limit m_limit;
+};
+[[nodiscard]] std::optional<FileStem> parseFileStem(std::string_view fileStem);
 
 static inline std::string utf16To8(std::wstring_view utf16String) {
   std::string ret;
