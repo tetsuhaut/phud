@@ -72,7 +72,7 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_vie
 */
 [[nodiscard]] static inline gsl::not_null<sqlite3*> createDatabase(std::string_view name) {
   phudAssert(!name.empty(), "db name is empty !!!");
-  Path dbFile { name };
+  pf::Path dbFile { name };
   const auto isDbCreation { !pf::isFile(dbFile) };
 
   if (isDbCreation) {

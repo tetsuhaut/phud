@@ -7,6 +7,8 @@
 #include "statistics/TableStatistics.hpp"
 #include "threads/PeriodicTask.hpp"
 
+namespace pf = phud::filesystem;
+
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace {
@@ -27,7 +29,7 @@ public:
     LOG.debug<__func__>();
   }
 
-  void importHistory(const Path& /*historyDir*/,
+  void importHistory(const pf::Path& /*historyDir*/,
                      FunctionVoid incrementCb = nullptr,
                      FunctionInt setNbFilesCb = nullptr,
                      FunctionVoid doneCb = nullptr) override {
@@ -74,7 +76,7 @@ public:
     return Gui(*this).run();
   }
 
-  void setHistoryDir(const Path& /*dir*/) override {}
+  void setHistoryDir(const pf::Path& /*dir*/) override {}
 }; // class NoOpApp
 
 /* no WinMain because we want the console to show debug messages */

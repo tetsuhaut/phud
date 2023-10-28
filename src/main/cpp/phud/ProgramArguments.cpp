@@ -6,6 +6,7 @@
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 
 namespace pa = phud::algorithms;
+namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 /**
@@ -22,10 +23,10 @@ namespace ps = phud::strings;
   return {};
 }
 
-[[nodiscard]] static inline std::optional<Path> parseHistoryDir(std::span<const char* const>
+[[nodiscard]] static inline std::optional<pf::Path> parseHistoryDir(std::span<const char* const>
     arguments) {
   if (const auto & oDir { getOptionValue(arguments, "-d", "--historyDir") }; oDir.has_value()) {
-    const Path p { oDir.value() };
+    const pf::Path p { oDir.value() };
 
     if (!phud::filesystem::isDir(p)) {
       throw ProgramArgumentsException { fmt::format("The directory '{}' does not exist.", oDir.value()) };
@@ -81,7 +82,7 @@ template<StringLiteral STR>
  *                     -l or --log_level <log_level> : defines the logging level.
  * @returns the hand history directory, and the logging level
  */
-/*[[nodiscard]]*/ std::pair<std::optional<Path>, std::optional<LoggingLevel>>
+/*[[nodiscard]]*/ std::pair<std::optional<pf::Path>, std::optional<LoggingLevel>>
 parseProgramArguments(std::span<const char* const> arguments) {
   const auto programName { gsl::at(arguments, 0) };
   constexpr auto USAGE_TEMPLATE { "Usage:\n{} [-d|--historyDir <directory>] "

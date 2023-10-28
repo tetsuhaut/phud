@@ -33,7 +33,7 @@ struct [[nodiscard]] App::Implementation final {
   uptr<PokerSiteHistory> m_pokerSiteHistory {};
   Future<void> m_reloadTask {};
   Future<void> m_loadTask {};
-  Path historyDir {};
+  pf::Path historyDir {};
 
   Implementation(std::string_view databaseName)
     : m_model { mkUptr<Database>(databaseName) } {}
@@ -75,9 +75,9 @@ static inline void notify(TableStatistics&& stats, auto observer) {
 
 // on regarde les fichiers dans l'historique, on recharge ceux qui sont mis à jour
 // on notifie l'observer (le GUI) des nouvelles stats
-static inline void watchHistoFile(App::Implementation& self, const Path& file, std::string table, auto observer) {
+static inline void watchHistoFile(App::Implementation& self, const pf::Path& file, std::string table, auto observer) {
   self.m_fileWatcher = mkUptr<FileWatcher>(::RELOAD_PERIOD, file);
-  self.m_fileWatcher->start([&self, table, &observer](const Path & f) {
+  self.m_fileWatcher->start([&self, table, &observer](const pf::Path & f) {
     self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
       LOG.debug<"Notified, reloading the file\n{}">(f.string());
       return self.m_pokerSiteHistory->reloadFile(f);
@@ -94,7 +94,7 @@ int App::showGui() { /*override*/
   return m_pImpl->m_gui->run();
 }
 
-void App::importHistory(const Path& historyDir,
+void App::importHistory(const pf::Path& historyDir,
                         std::function<void()> incrementCb,
                         std::function<void(std::size_t)> setNbFilesCb,
                         std::function<void()> doneCb) {
@@ -150,7 +150,7 @@ void App::stopProducingStats() {
   if (nullptr != m_pImpl->m_fileWatcher) { m_pImpl->m_fileWatcher->stop(); }
 }
 
-void App::setHistoryDir(const Path& historyDir) {
+void App::setHistoryDir(const pf::Path& historyDir) {
   phudAssert(nullptr == m_pImpl->m_pokerSiteHistory, "m_pImpl->m_pokerSiteHistory is not empty");
   m_pImpl->historyDir = historyDir;
   m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(m_pImpl->historyDir);

@@ -20,7 +20,7 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   DirWatcher dw { WATCH_PERIOD, tmpDir.path() };
   std::vector<std::string> changedFiles;
   ConditionVariable cv;
-  dw.start([&](const Path & file) {
+  dw.start([&](const pf::Path & file) {
     changedFiles.push_back(file.stem().string());
     cv.notify_one();
   });

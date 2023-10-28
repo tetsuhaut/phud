@@ -8,6 +8,8 @@
 #include <optional>
 #include <utility> // std::pair
 
+namespace pf = phud::filesystem;
+
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace {
@@ -17,7 +19,7 @@ struct [[nodiscard]] LoggingConfig final {
 }; // struct LoggingConfig
 }; // anonymous namespace
 
-[[nodiscard]] static inline std::optional<std::pair<Path, Path>> getOptionalDbAndHistory(
+[[nodiscard]] static inline std::optional<std::pair<pf::Path, pf::Path>> getOptionalDbAndHistory(
 std::span<const char* const> args) {
   if (5 != args.size()) {
     if ((1 == args.size())) {
@@ -38,8 +40,8 @@ std::span<const char* const> args) {
     return {};
   }
 
-  const Path dbFile { ("-b" == flag1) ? args[2] : args[4] };
-  const Path historyDir { ("-b" == flag1) ? args[4] : args[2] };
+  const pf::Path dbFile { ("-b" == flag1) ? args[2] : args[4] };
+  const pf::Path historyDir { ("-b" == flag1) ? args[4] : args[2] };
 
   if (phud::filesystem::isFile(dbFile)) {
     LOG.error<"The database file\n{}\nalready exists and is in the way.">(dbFile.string());

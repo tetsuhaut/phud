@@ -4,10 +4,9 @@
 #include <filesystem>
 #include <span>
 
-using FileTime = std::filesystem::file_time_type;
-using Path = std::filesystem::path;
-
 namespace phud::filesystem {
+  using FileTime = std::filesystem::file_time_type;
+  using Path = std::filesystem::path;
 // for all those functions, we use Path because std needs std::path
 template<typename T> requires(std::same_as<T, Path>)
 [[nodiscard]] inline bool isFile(const T& p) noexcept {

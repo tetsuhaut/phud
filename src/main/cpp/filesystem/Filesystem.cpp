@@ -14,15 +14,16 @@ static Logger LOG { CURRENT_FILE_NAME };
 
 namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
+namespace pf = phud::filesystem;
 
 namespace {
 template<typename Iterator>
 class [[nodiscard]] FilesInDir final {
 private:
-  Path m_startDir;
+  pf::Path m_startDir;
 
 public:
-  template<typename T> requires(std::same_as<T, Path>) // use only Path
+  template<typename T> requires(std::same_as<T, pf::Path>) // use only Path
   explicit FilesInDir(const T& startDir) : m_startDir{ startDir } {}
   //FilesInDir(auto) = delete; // use only Path
   [[nodiscard]] Iterator begin() const { return Iterator(m_startDir); }
@@ -37,7 +38,7 @@ using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
 }; // namespace
 
 // use Path as std needs std::path
-std::string phud::filesystem::readToString(const Path& p) {
+std::string phud::filesystem::readToString(const pf::Path& p) {
   phudAssert(!phud::filesystem::isDir(p), "given a dir instead of a file");
   std::string s{ fmt::format("given a non exiting file '{}'", p.string()) };
   phudAssert(phud::filesystem::isFile(p), s.c_str());
@@ -53,8 +54,8 @@ std::string phud::filesystem::readToString(const Path& p) {
 }
 
 template<typename DIRECTORY_ITERATOR>
-static inline std::vector<Path> iterateDirs(const Path& dir) {
-  std::vector<Path> ret;
+static inline std::vector<pf::Path> iterateDirs(const pf::Path& dir) {
+  std::vector<pf::Path> ret;
 
   if (!phud::filesystem::isDir(dir)) { return ret; }
 
@@ -62,14 +63,14 @@ static inline std::vector<Path> iterateDirs(const Path& dir) {
 
   return ret;
 }
-static inline std::vector<Path> genericListDirs(auto) = delete; // use only Path
+static inline std::vector<pf::Path> genericListDirs(auto) = delete; // use only Path
 
-std::vector<Path> phud::filesystem::listFilesAndDirs(const Path& dir) {
+std::vector<pf::Path> phud::filesystem::listFilesAndDirs(const Path& dir) {
   return iterateDirs<DirIt>(dir);
 }
 
-std::vector<Path> phud::filesystem::listFilesInDir(const Path& dir, std::string_view postFix) {
-  std::vector<Path> ret;
+std::vector<pf::Path> phud::filesystem::listFilesInDir(const pf::Path& dir, std::string_view postFix) {
+  std::vector<pf::Path> ret;
 
   if (!phud::filesystem::isDir(dir)) { return ret; }
 
@@ -86,7 +87,7 @@ std::vector<Path> phud::filesystem::listFilesInDir(const Path& dir, std::string_
   return ret;
 }
 
-std::vector<Path> phud::filesystem::listTxtFilesInDir(const Path& dir) {
+std::vector<pf::Path> phud::filesystem::listTxtFilesInDir(const pf::Path& dir) {
   auto allFilesAndDirs { listFilesAndDirs(dir) };
   std::erase_if(allFilesAndDirs, [](const auto & p) {
     const auto& pstr { p.string() };
@@ -95,7 +96,7 @@ std::vector<Path> phud::filesystem::listTxtFilesInDir(const Path& dir) {
   return allFilesAndDirs;
 }
 
-std::vector<Path> phud::filesystem::listSubDirs(const Path& dir) {
+std::vector<pf::Path> phud::filesystem::listSubDirs(const Path& dir) {
   auto allFilesAndDirs { listFilesAndDirs(dir) };
   std::erase_if(allFilesAndDirs, [](const auto & p) noexcept {
     return isFile(p);
@@ -103,9 +104,9 @@ std::vector<Path> phud::filesystem::listSubDirs(const Path& dir) {
   return allFilesAndDirs;
 }
 
-std::vector<Path> phud::filesystem::listRecursiveFiles(const Path& dir) {
+std::vector<pf::Path> phud::filesystem::listRecursiveFiles(const pf::Path& dir) {
   phudAssert(isDir(dir), "given invalid dir");
-  std::vector<Path> ret;
+  std::vector<pf::Path> ret;
 
   for (const auto& dirEntry : RecursDirIt(dir)) {
     if (dirEntry.is_regular_file()) { ret.push_back(dirEntry.path()); }
@@ -137,7 +138,7 @@ std::vector<Path> phud::filesystem::listRecursiveFiles(const Path& dir) {
   return oss.str();
 }
 
-/* [[nodiscard]] */ bool phud::filesystem::containsAFileEndingWith(std::span<const Path> files,
+/* [[nodiscard]] */ bool phud::filesystem::containsAFileEndingWith(std::span<const pf::Path> files,
     std::string_view str) {
   return pa::anyOf(files, [str](const auto & p) { return p.string().ends_with(str); });
 }

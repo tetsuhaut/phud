@@ -9,13 +9,13 @@
  */
 class [[nodiscard]] TextFile final {
 private:
-  Path m_file;
+  phud::filesystem::Path m_file;
   std::string m_line {};
   int m_lineNb { 0 };
   std::stringstream m_content;
 
 public:
-  explicit TextFile(const Path& file);
+  explicit TextFile(const phud::filesystem::Path& file);
   TextFile(auto file) = delete; // use only Path
 
   TextFile(const TextFile&) = delete;
