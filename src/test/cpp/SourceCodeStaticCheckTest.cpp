@@ -10,12 +10,13 @@
 #include <frozen/unordered_map.h>
 #include <numeric> // std::accumulate
 
-static Logger LOG { CURRENT_FILE_NAME };
-
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 namespace pt = phud::test;
+
+static Logger LOG { CURRENT_FILE_NAME };
 
 /* algorithms to be moved to containers/algorithms.hpp if we use them elsewhere */
 namespace phud::algorithms {
@@ -57,13 +58,13 @@ void copyIf(const CONTAINER_SOURCE& source, CONTAINER_TARGET& target, PREDICATE 
 }
 }; // namespace phud::algorithms
 
-static std::array<pf::Path, 2> SRC_DIRS { pt::getMainCppDir(), pt::getTestCppDir() };
+static std::array<fs::path, 2> SRC_DIRS { pt::getMainCppDir(), pt::getTestCppDir() };
 
 /** all of the cpp and hpp (and potentialy other) files in src/main/cpp and src/test/cpp directories */
 static auto SRC_FILES {
   []() {
-    return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<pf::Path> {}, [](std::vector<pf::Path>&& v,
-    const pf::Path & dir) {
+    return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<fs::path> {}, [](std::vector<fs::path>&& v,
+    const fs::path & dir) {
       pa::append(v, pf::listRecursiveFiles(dir));
       return v;
     });
@@ -85,7 +86,7 @@ static auto SRC_FILES {
 /**
  * @returns a Path from SRC_FILES representing the given file name if found, else a Path formed from the the given file name.
  */
-[[nodiscard]] static inline pf::Path extractAbsolutePathIncludeIfPossible(std::string_view line) {
+[[nodiscard]] static inline fs::path extractAbsolutePathIncludeIfPossible(std::string_view line) {
   const auto& file { extractInclude(line) };
   using namespace phud;
   using namespace pf;
@@ -94,8 +95,8 @@ static auto SRC_FILES {
 }
 
 /** @returns all of the files that are nor in the src/main/cpp/thirdparty directory */
-[[nodiscard]] static inline std::vector<pf::Path> getMySrcFiles(std::span<const pf::Path> files) {
-  return pa::removeCopyIf<std::vector<pf::Path>>(files, [](const auto & f) {
+[[nodiscard]] static inline std::vector<fs::path> getMySrcFiles(std::span<const fs::path> files) {
+  return pa::removeCopyIf<std::vector<fs::path>>(files, [](const auto & f) {
     return ps::contains(f.string(), "thirdParty");
   });
 }
@@ -104,8 +105,8 @@ namespace {
 /**
  * @returns a vector containing all of the files in the given @param files that end with the given @param fileExtension.
  */
-[[nodiscard]] inline std::vector<pf::Path> getSrcFiles(std::span<const pf::Path> files, std::string_view fileExtension) {
-  std::vector<pf::Path> ret;
+[[nodiscard]] inline std::vector<fs::path> getSrcFiles(std::span<const fs::path> files, std::string_view fileExtension) {
+  std::vector<fs::path> ret;
   pa::copyIf(files, ret, [&](const auto & p) { return p.string().ends_with(fileExtension); });
   return ret;
 }
@@ -116,7 +117,7 @@ const auto& H_FILES { getSrcFiles(SRC_FILES, ".h") };
 auto MY_SRC_FILES { getMySrcFiles(SRC_FILES) };
 const auto& H_HPP_FILES { getMySrcFiles(pa::merge(HPP_FILES, H_FILES)) };
 const auto& MY_SRC_FILES_WITH_EXCEPTION {
-  pa::removeCopyIf<std::vector<pf::Path>>(MY_SRC_FILES, [](const auto & file) {
+  pa::removeCopyIf<std::vector<fs::path>>(MY_SRC_FILES, [](const auto & file) {
     return file.string().ends_with("SourceCodeStaticCheckTest.cpp");
   })
 };
@@ -125,7 +126,7 @@ const auto& MY_SRC_FILES_WITH_EXCEPTION {
 * Map of file <-> vector of its included files
 */
 const auto& FILE_INCLUSIONS = []() {
-  std::map<pf::Path, std::vector<pf::Path>, pf::PathComparator> ret;
+  std::map<fs::path, std::vector<fs::path>, pf::PathComparator> ret;
   pa::forEach(SRC_FILES, [&ret](const auto & file) {
     auto& includes { ret[file] };
     /* we do not check includes from STL, or from thirdParty */
@@ -159,7 +160,7 @@ enum class LineType : short { none, pragmaOnce, other };
   return tfl.startsWith("//") or tfl.startsWith("/*");
 }
 
-[[nodiscard]] static inline LineType getFirstCodeLineType(const pf::Path& file) {
+[[nodiscard]] static inline LineType getFirstCodeLineType(const fs::path& file) {
   TextFile tfl { file };
 
   while (tfl.next()) { /*find the first code line*/
@@ -209,7 +210,7 @@ enum class LineType : short { none, pragmaOnce, other };
   return false;
 }
 
-/*[[nodiscard]]*/ static inline void logIfMySrcFilesContainToken(std::span<const pf::Path> files,
+/*[[nodiscard]]*/ static inline void logIfMySrcFilesContainToken(std::span<const fs::path> files,
     std::string_view token, std::string_view replacement) {
   pa::forEach(files, [&](const auto & file) {
     TextFile tfl { file };
@@ -271,7 +272,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHeaderFilesShouldBeIncluded) {
   pa::forEach(headers, [](const auto & h) { LOG.warn<"Unused header:\n{}">(h.string()); });
 }
 
-static inline std::vector<pf::Path> getIncludes(const pf::Path& p) {
+static inline std::vector<fs::path> getIncludes(const fs::path& p) {
   if (const auto & entry { ::FILE_INCLUSIONS.find(p) }; ::FILE_INCLUSIONS.end() != entry) {
     return entry->second;
   }
@@ -497,7 +498,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useStdSizeT) {
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNULLInSourceCode) {
   /* NULL can only be used in SQL queries */
   const auto& MY_SRC_FILES_EXCEPTED_CURRENT_AND_SQL {
-    pa::removeCopyIf<std::vector<pf::Path>>(::MY_SRC_FILES_WITH_EXCEPTION, [](const auto & file) {
+    pa::removeCopyIf<std::vector<fs::path>>(::MY_SRC_FILES_WITH_EXCEPTION, [](const auto & file) {
       return file.string().ends_with("sqliteQueries.hpp");
     })
   };

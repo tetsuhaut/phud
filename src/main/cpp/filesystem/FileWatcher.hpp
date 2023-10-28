@@ -11,7 +11,7 @@ private:
   uptr<Implementation> m_pImpl;
 
 public:
-  FileWatcher(std::chrono::milliseconds reloadPeriod, const phud::filesystem::Path& file);
+  FileWatcher(std::chrono::milliseconds reloadPeriod, const std::filesystem::path& file);
   FileWatcher(int, auto) = delete; // use only Path
 
   FileWatcher(const FileWatcher&) = delete;
@@ -25,7 +25,7 @@ public:
    * Call stop() or destroy to stop the watching thread.
    * @param fileHasChangedCb called each time the file changes
    */
-  void start(std::function<void(const phud::filesystem::Path&)> fileHasChangedCb);
+  void start(std::function<void(const std::filesystem::path&)> fileHasChangedCb);
 
   void stop();
   [[nodiscard]] bool isStopped() const noexcept;

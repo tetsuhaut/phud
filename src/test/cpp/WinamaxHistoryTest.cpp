@@ -9,6 +9,7 @@
 #include "history/WinamaxHistory.hpp"  // PokerSiteHistory, fs::*, std::*, buildTournament, buildCashGame
 #include <unordered_set>
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace pt = phud::test;
@@ -147,7 +148,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodTournamentFileShouldSucceed) 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldDetectInvalidHistoryDirectory) {
   pt::LogDisabler dummy;
   BOOST_REQUIRE(false == PokerSiteHistory::isValidHistory(pt::getTestResourcesDir()));
-  BOOST_REQUIRE(false == PokerSiteHistory::isValidHistory(pf::Path("toto")));
+  BOOST_REQUIRE(false == PokerSiteHistory::isValidHistory(fs::path("toto")));
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldDetectValidHistoryDirectory) {

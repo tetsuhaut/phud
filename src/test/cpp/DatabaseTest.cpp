@@ -13,6 +13,7 @@
 
 #include <gsl/gsl> // gsl::finally
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pt = phud::test;
 namespace pf = phud::filesystem;
@@ -74,7 +75,7 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_shouldGetCorrectTableMaxSeat) {
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_creatingInMemoryDatabaseShouldNotCreateFile) {
   Database inMemoryDb;
-  BOOST_REQUIRE(!pf::isFile(pf::Path(inMemoryDb.getDbName())));
+  BOOST_REQUIRE(!pf::isFile(fs::path(inMemoryDb.getDbName())));
   BOOST_REQUIRE(inMemoryDb.isInMemory());
 }
 
@@ -83,19 +84,19 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_createNamedDatabaseWhenFileAlreadyExistsShould
   const auto& dbFilePath { dbFile.path() };
   Database namedDb { dbFile.string() };
   BOOST_REQUIRE(pf::isFile(dbFilePath));
-  BOOST_REQUIRE(pf::isFile(pf::Path(namedDb.getDbName())));
+  BOOST_REQUIRE(pf::isFile(fs::path(namedDb.getDbName())));
   BOOST_REQUIRE(dbFile.string() == namedDb.getDbName());
 }
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_createNamedDatabaseWhenFileDoesNotExistsCreatesFile) {
-  const pf::Path dbFile { "someName" };
+  const fs::path dbFile { "someName" };
   auto _ { gsl::finally([&]{ if (pf::isFile(dbFile)) { std::filesystem::remove(dbFile); } }) };
 
   if (pf::isFile(dbFile)) { std::filesystem::remove(dbFile); }
 
   BOOST_REQUIRE(!pf::isFile(dbFile));
   Database namedDb { dbFile.string() };
-  BOOST_REQUIRE(pf::isFile(pf::Path(namedDb.getDbName())));
+  BOOST_REQUIRE(pf::isFile(fs::path(namedDb.getDbName())));
   BOOST_REQUIRE(dbFile.string() == namedDb.getDbName());
 }
 

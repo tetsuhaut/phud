@@ -3,8 +3,8 @@
 #include "filesystem/DirWatcher.hpp"
 #include "threads/ConditionVariable.hpp" // Mutex
 
+namespace fs = std::filesystem;
 namespace pt = phud::test;
-namespace pf = phud::filesystem;
 
 static constexpr std::chrono::milliseconds TB_PERIOD { 3000 };
 static constexpr std::chrono::milliseconds WATCH_PERIOD { 50 };
@@ -16,11 +16,11 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   pt::TmpDir tmpDir { "DirWatcherTest_DetectingChangedFilesShouldWork_tmpDir" };
   pt::TmpFile tmpFile { tmpDir / "someTmpFile.txt" };
   tmpFile.print("yop");
-  BOOST_REQUIRE(1 == pf::listTxtFilesInDir(tmpDir.path()).size());
+  BOOST_REQUIRE(1 == phud::filesystem::listTxtFilesInDir(tmpDir.path()).size());
   DirWatcher dw { WATCH_PERIOD, tmpDir.path() };
   std::vector<std::string> changedFiles;
   ConditionVariable cv;
-  dw.start([&](const pf::Path & file) {
+  dw.start([&](const fs::path & file) {
     changedFiles.push_back(file.stem().string());
     cv.notify_one();
   });

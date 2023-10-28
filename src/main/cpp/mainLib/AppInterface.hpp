@@ -18,13 +18,13 @@ public:
    * Loads the hand history into database.
    * @throws
    */
-  virtual void importHistory(const phud::filesystem::Path& historyDir,
+  virtual void importHistory(const std::filesystem::path& historyDir,
                              FunctionVoid incrementCb = nullptr,
                              FunctionInt setNbFilesCb = nullptr,
                              FunctionVoid doneCb = nullptr) = 0;
   // disable implicit conversions to Path
   void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
-  virtual void setHistoryDir(const phud::filesystem::Path& dir) = 0;
+  virtual void setHistoryDir(const std::filesystem::path& dir) = 0;
 
   virtual void stopImportingHistory() = 0;
 
@@ -46,6 +46,6 @@ public:
   /**
    * @return true if historyDir is the wanted Poker application history directory.
    */
-  [[nodiscard]] static bool isValidHistory(const phud::filesystem::Path& historyDir);
+  [[nodiscard]] static bool isValidHistory(const std::filesystem::path& historyDir);
   static bool isValidHistory(auto historyDir) = delete;
 }; // class AppInterface

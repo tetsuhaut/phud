@@ -14,6 +14,7 @@
 
 static Logger LOG { CURRENT_FILE_NAME };
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
@@ -103,7 +104,7 @@ static inline void fillFromFileName(const FileStem& values, GameData& gameData) 
 }
 
 template <typename GAME_TYPE> [[nodiscard]] static inline
-uptr<GAME_TYPE> createGame(const pf::Path& gameHistoryFile, PlayerCache& cache) {
+uptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
   LOG.debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
   const auto& fileStem { ps::sanitize(gameHistoryFile.stem().string()) };
   uptr<GAME_TYPE> ret;
@@ -134,7 +135,7 @@ uptr<GAME_TYPE> createGame(const pf::Path& gameHistoryFile, PlayerCache& cache) 
 }
 
 template<typename GAME_TYPE>
-[[nodiscard]] static inline uptr<Site> handleGame(const pf::Path& gameHistoryFile) {
+[[nodiscard]] static inline uptr<Site> handleGame(const fs::path& gameHistoryFile) {
   LOG.debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite { mkUptr<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
   PlayerCache cache { ProgramInfos::WINAMAX_SITE_NAME };
@@ -150,7 +151,7 @@ template<typename GAME_TYPE>
 }
 
 // reminder: WinamaxGameHistory is a namespace
-uptr<Site> WinamaxGameHistory::parseGameHistory(const pf::Path& gameHistoryFile) {
+uptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile) {
   LOG.debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
       gameHistoryFile.filename().string());
   const auto& fileStem { gameHistoryFile.stem().string() };

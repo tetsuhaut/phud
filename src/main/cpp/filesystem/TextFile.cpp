@@ -2,10 +2,11 @@
 #include "filesystem/TextFile.hpp"  // String, std::string_view, Vector
 #include <sstream> // std::stringstream
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
-TextFile::TextFile(const pf::Path& file)
+TextFile::TextFile(const fs::path& file)
   : m_file { file },
     m_content { pf::readToString(file) } {}
 

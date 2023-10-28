@@ -9,7 +9,7 @@ enum class Limit : short;
 enum class Variant : short;
 
 namespace WinamaxGameHistory {
-[[nodiscard]] uptr<Site> parseGameHistory(const phud::filesystem::Path& gameHistoryFile);
+[[nodiscard]] uptr<Site> parseGameHistory(const std::filesystem::path& gameHistoryFile);
 uptr<Site> parseGameHistory(auto) = delete;
 
 }; // namespace WinamaxGameHistory

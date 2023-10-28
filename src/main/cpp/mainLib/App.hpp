@@ -23,13 +23,13 @@ public:
    * Loads the hand history into database.
    * @throws
    */
-  void importHistory(const phud::filesystem::Path& historyDir,
+  void importHistory(const std::filesystem::path& historyDir,
                      FunctionVoid incrementCb = nullptr,
                      FunctionInt setNbFilesCb = nullptr,
                      FunctionVoid doneCb = nullptr) override;
   // force users to user Path
   void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
-  void setHistoryDir(const phud::filesystem::Path& historyDir) override;
+  void setHistoryDir(const std::filesystem::path& historyDir) override;
   void stopImportingHistory() override;
   [[nodiscard]] int showGui() override;
 

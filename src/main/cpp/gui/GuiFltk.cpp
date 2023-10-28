@@ -60,6 +60,7 @@
 
 static Logger LOG { CURRENT_FILE_NAME };
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
@@ -173,10 +174,10 @@ template <typename T>
   return { r.left, r.top, r.right - r.left, r.bottom - r.top };
 }
 
-[[nodiscard]] static inline pf::Path getPreferredHistoDir(Fl_Preferences& pref) {
+[[nodiscard]] static inline fs::path getPreferredHistoDir(Fl_Preferences& pref) {
   char dir[MAX_PATH + 1] { '\0' };
   pref.get(MainWindow::Label::preferencesKeyChosenDir.data(), &dir[0], "", MAX_PATH);
-  const auto& pathDir { pf::Path(dir) };
+  const auto& pathDir { fs::path(dir) };
   return phud::filesystem::isDir(pathDir) ? pathDir : "";
 }
 
@@ -492,9 +493,9 @@ static inline void finishHistoryLoadingAwakeCb(void* hidden) {
 
 struct ImportDir {
   Gui::Implementation& m_self;
-  pf::Path m_dir;
+  fs::path m_dir;
 
-  ImportDir(Gui::Implementation& self, pf::Path dir)
+  ImportDir(Gui::Implementation& self, fs::path dir)
     : m_self(self),
       m_dir(dir) {}
 };
@@ -536,7 +537,7 @@ static inline void choseHistoDirCb(Fl_Widget*, void* hiddenSelf) {
 
   switch (FileChoiceStatus(dirChoser->show())) {
     case FileChoiceStatus::ok: {
-      const pf::Path dir { dirChoser->filename() };
+      const fs::path dir { dirChoser->filename() };
       LOG.info<"the user chose to import the directory '{}'">(dir.string());
 
       if (AppInterface::isValidHistory(dir)) {

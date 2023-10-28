@@ -17,6 +17,7 @@
 
 static Logger LOG { CURRENT_FILE_NAME };
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
@@ -38,30 +39,30 @@ WinamaxHistory::~WinamaxHistory() {
 
 static constexpr std::string_view ERR_MSG { "The chosen directory '{}' should contain a {} directory" };
 
-[[nodiscard]] static Either<std::string, std::vector<pf::Path>> getErrorMessageOrHistoryFiles(
-const pf::Path& dir, const pf::Path& histoDir) {
+[[nodiscard]] static Either<std::string, std::vector<fs::path>> getErrorMessageOrHistoryFiles(
+const fs::path& dir, const fs::path& histoDir) {
   if (!pf::isDir(histoDir)) {
-    return Either<std::string, std::vector<pf::Path>>::left(fmt::format(ERR_MSG, dir.string(), "'history'"));
+    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(), "'history'"));
   }
 
   if (!pf::isDir(dir / "data" / "buddy")) {
-    return Either<std::string, std::vector<pf::Path>>::left(fmt::format(ERR_MSG,  dir.string(), "'data/buddy'"));
+    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG,  dir.string(), "'data/buddy'"));
   }
 
   if (!pf::isDir(dir / "data" / "players")) {
-    return Either<std::string, std::vector<pf::Path>>::left(fmt::format(ERR_MSG, dir.string(), "'data/players'"));
+    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(), "'data/players'"));
   }
 
   if (!pf::listSubDirs(histoDir).empty()) {
-    return Either<std::string, std::vector<pf::Path>>::left(
+    return Either<std::string, std::vector<fs::path>>::left(
              fmt::format("The chosen directory '{}' should contain a {} directory that contains only files", dir.string(), "'history'"));
   }
 
   if (const auto & allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
-    return Either<std::string, std::vector<pf::Path>>::right(allFilesAndDirs);
+    return Either<std::string, std::vector<fs::path>>::right(allFilesAndDirs);
   }
 
-  return Either<std::string, std::vector<pf::Path>>::left(
+  return Either<std::string, std::vector<fs::path>>::left(
            fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
 }
 
@@ -69,7 +70,7 @@ const pf::Path& dir, const pf::Path& histoDir) {
  * @return true if the given dir is an existing dir, contains a 'history' subdir which only contains txt files,
  * and if it contains a 'winamax_positioning_file.dat' file.
  */
-/*static*/ bool WinamaxHistory::isValidHistory(const pf::Path& dir) {
+/*static*/ bool WinamaxHistory::isValidHistory(const fs::path& dir) {
   const auto& histoDir { (dir / "history").lexically_normal() };
   const auto& either { getErrorMessageOrHistoryFiles(dir, histoDir) };
 
@@ -82,16 +83,16 @@ const pf::Path& dir, const pf::Path& histoDir) {
   return pf::containsAFileEndingWith(allFilesAndDirs, "winamax_positioning_file.dat");
 }
 
-[[nodiscard]] static inline std::vector<pf::Path> getFiles(const pf::Path& historyDir) {
+[[nodiscard]] static inline std::vector<fs::path> getFiles(const fs::path& historyDir) {
   if (WinamaxHistory::isValidHistory(historyDir)) { return pf::listTxtFilesInDir(historyDir / "history"); }
 
   LOG.error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
   return {};
 }
-[[nodiscard]] static inline std::vector<pf::Path> getFiles(auto) = delete; // use only Path
+[[nodiscard]] static inline std::vector<fs::path> getFiles(auto) = delete; // use only Path
 
 // using auto&& enhances performances by inlining std::function's logic
-[[nodiscard]] static inline std::vector<pf::Path> getFilesAndNotify(const pf::Path& historyDir,
+[[nodiscard]] static inline std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
     auto&& setNbFilesCb) {
   const auto& files { getFiles(historyDir) };
 
@@ -106,9 +107,9 @@ const pf::Path& dir, const pf::Path& histoDir) {
 }
 
 // disable other types than const Path&
-static inline std::vector<pf::Path> getFilesAndNotify(auto, auto) = delete;
+static inline std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
 
-static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const pf::Path> files,
+static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::path> files,
 std::atomic_bool& stop, const auto& incrementCb) {
   std::vector<Future<Site*>> ret;
   ret.reserve(files.size());
@@ -134,7 +135,7 @@ std::atomic_bool& stop, const auto& incrementCb) {
   return ret;
 }
 
-uptr<Site> WinamaxHistory::load(const pf::Path& winamaxHistoryDir,
+uptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
                                 FunctionVoid incrementCb,
                                 FunctionInt setNbFilesCb) {
   m_pImpl->m_stop = false;
@@ -168,7 +169,7 @@ uptr<Site> WinamaxHistory::load(const pf::Path& winamaxHistoryDir,
   }
 }
 
-/* [[nodicard]] static */ uptr<Site> WinamaxHistory::load(const pf::Path& historyDir) {
+/* [[nodicard]] static */ uptr<Site> WinamaxHistory::load(const fs::path& historyDir) {
   WinamaxHistory wh;
   return wh.load(historyDir, nullptr, nullptr);
 }
@@ -187,7 +188,7 @@ void WinamaxHistory::stopLoading() {
   }
 }
 
-uptr<Site> WinamaxHistory::reloadFile(const pf::Path& file) {
+uptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
   LOG.trace<"Reloading the history file '{}'.">(file.string());
   uptr<Site> ret { nullptr };
 
@@ -217,7 +218,7 @@ static inline std::string getGameType(std::string_view tableWindowTitle) {
   }
 }
 
-pf::Path WinamaxHistory::getHistoryFileFromTableWindowTitle(const pf::Path& historyDir,
+fs::path WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& historyDir,
     std::string_view tableWindowTitle) const {
   const auto tableName { getTableNameFromTableWindowTitle(tableWindowTitle) };
   const auto& reality { isReal(tableWindowTitle) ? "real" : "play" };

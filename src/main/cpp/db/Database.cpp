@@ -30,6 +30,7 @@
 
 static Logger LOG { CURRENT_FILE_NAME };
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
@@ -72,7 +73,7 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_vie
 */
 [[nodiscard]] static inline gsl::not_null<sqlite3*> createDatabase(std::string_view name) {
   phudAssert(!name.empty(), "db name is empty !!!");
-  pf::Path dbFile { name };
+  fs::path dbFile { name };
   const auto isDbCreation { !pf::isFile(dbFile) };
 
   if (isDbCreation) {

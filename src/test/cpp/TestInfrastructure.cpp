@@ -70,7 +70,7 @@ struct IsDir {};
 
 template<typename T>
 requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
-[[nodiscard]] static inline pf::Path getGenericFileFromTestResources(const auto& file) {
+[[nodiscard]] static inline fs::path getGenericFileFromTestResources(const auto& file) {
   phudAssert(!file.empty(), "file or dir can't be empty");
   phudAssert('/' != file.front(), "file or dir can't start with '/'");
   const auto& ret { (pt::getTestResourcesDir() / file) };
@@ -90,43 +90,43 @@ requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
                                          pt::getTestResourcesDir().string()) };
 }
 
-pf::Path pt::getFileFromTestResources(std::u8string_view file) {
+fs::path pt::getFileFromTestResources(std::u8string_view file) {
   return getGenericFileFromTestResources<::IsFile>(file);
 }
 
-pf::Path pt::getDirFromTestResources(std::u8string_view dir) {
+fs::path pt::getDirFromTestResources(std::u8string_view dir) {
   return getGenericFileFromTestResources<::IsDir>(dir);
 }
 
-pf::Path pt::getFileFromTestResources(std::string_view file) {
+fs::path pt::getFileFromTestResources(std::string_view file) {
   return getGenericFileFromTestResources<::IsFile>(file);
 }
 
-pf::Path pt::getDirFromTestResources(std::string_view dir) {
+fs::path pt::getDirFromTestResources(std::string_view dir) {
   return getGenericFileFromTestResources<::IsDir>(dir);
 }
 
-[[nodiscard]] static inline pf::Path throwIfNotADirectory(const pf::Path& dir, std::string_view macro) {
+[[nodiscard]] static inline fs::path throwIfNotADirectory(const fs::path& dir, std::string_view macro) {
   if (pf::isDir(dir)) { return dir; }
 
   throw std::runtime_error { fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'", dir.string(), macro) };
 }
 
-pf::Path pt::getMainCppDir() {
+fs::path pt::getMainCppDir() {
 #ifndef PHUD_MAIN_SRC_DIR
 #error The macro PHUD_MAIN_SRC_DIR should have been defined in CMakeLists.txt
 #endif // PHUD_MAIN_SRC_DIR
   return throwIfNotADirectory(PHUD_MAIN_SRC_DIR, "PHUD_MAIN_SRC_DIR");
 }
 
-pf::Path pt::getTestCppDir() {
+fs::path pt::getTestCppDir() {
 #ifndef PHUD_TEST_SRC_DIR
 #error The macro PHUD_TEST_SRC_DIR should have been defined in CMakeLists.txt
 #endif // PHUD_TEST_SRC_DIR
   return throwIfNotADirectory(PHUD_TEST_SRC_DIR, "PHUD_TEST_SRC_DIR");
 }
 
-pf::Path pt::getTestResourcesDir() {
+fs::path pt::getTestResourcesDir() {
 #ifndef PHUD_TEST_RESOURCE_DIR
 #error The macro PHUD_TEST_RESOURCE_DIR should have been defined in CMakeLists.txt
 #endif // PHUD_TEST_RESOURCE_DIR
@@ -137,7 +137,7 @@ pf::Path pt::getTestResourcesDir() {
  * @return the absolute path of a temp file.
  * @note We use Path to handle UTF-8 and UTF-16 file names.
 */
-[[nodiscard]] static inline pf::Path getTmpFilePath() {
+[[nodiscard]] static inline fs::path getTmpFilePath() {
   char ret[L_tmpnam] { '\0' };
 
   if (const auto errorCode { tmpnam_s(ret, std::size(ret)) }; 0 != errorCode) [[unlikely]] {
@@ -147,14 +147,14 @@ pf::Path pt::getTestResourcesDir() {
 
   // with gcc lhmouse, fs::temp_directory_path() returns an empty path and
   // tmpnam_s gives a relative file name
-  if (pf::Path(ret).is_relative()) {
-    return fs::temp_directory_path() / pf::Path(ret).filename();
+  if (fs::path(ret).is_relative()) {
+    return fs::temp_directory_path() / fs::path(ret).filename();
   }
 
   return ret;
 }
 
-static inline void removeWithMessage(const pf::Path& file) {
+static inline void removeWithMessage(const fs::path& file) {
   const auto& fileType { pf::isFile(file) ? "file" : "directory" };
 
   if (ErrorCode ec; !std::filesystem::remove_all(file, ec)) {
@@ -197,7 +197,7 @@ pt::TmpDir::TmpDir(std::string_view dirName) :
 pt::TmpDir::~TmpDir() { removeWithMessage(m_dir); }
 
 std::string pt::TmpDir::operator/(std::string_view file) const {
-  pf::Path p { m_dir };
+  fs::path p { m_dir };
   return p.append(file).string();
 }
 

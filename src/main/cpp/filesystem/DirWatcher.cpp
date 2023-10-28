@@ -7,28 +7,29 @@
 #include "threads/PeriodicTask.hpp" // NonCopyable
 #include <concepts>
 
+namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
-using FileTimes = std::unordered_map<std::string, pf::FileTime>;
+using FileTimes = std::unordered_map<std::string, std::filesystem::file_time_type>;
 
 static Logger LOG { CURRENT_FILE_NAME };
 
 struct [[nodiscard]] DirWatcher::Implementation final {
-  pf::Path m_dir;
-  // note: as of C++ 17, there is no portable way to unify FileTime and Time :(
+  fs::path m_dir;
+  // note: as of C++ 17, there is no portable way to unify std::filesystem::file_time_type and std::time :(
   // note: impossible to use Path as a map key
   FileTimes m_refFileToLastModifDate {};
   PeriodicTask m_task;
 
-  Implementation(std::same_as<std::chrono::milliseconds> auto reloadPeriod, const pf::Path& dir) :
+  Implementation(std::same_as<std::chrono::milliseconds> auto reloadPeriod, const fs::path& dir) :
     m_dir { dir },
   m_task { reloadPeriod, "DirWatcher" } {}
 };
 
 // look at each file, take its last modification date, wait, do it again and compare
 // for each modified file, notify the listener through the callback
-template<typename T> requires(std::same_as<T, pf::Path>)
+template<typename T> requires(std::same_as<T, fs::path>)
 [[nodiscard]] static inline bool getLatestUpdatedFiles(const T& dir,
     FileTimes& ref, auto fileHasChangedCb) {
   LOG.trace<"Searching for file changes in dir {}">(dir.string());
@@ -51,7 +52,7 @@ template<typename T> requires(std::same_as<T, pf::Path>)
   return true;
 }
 
-DirWatcher::DirWatcher(std::chrono::milliseconds reloadPeriod, const pf::Path& dir)
+DirWatcher::DirWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& dir)
   : m_pImpl{ mkUptr<Implementation>(reloadPeriod, dir)} {
   phudAssert(pf::isDir(m_pImpl->m_dir),
              "the dir provided to DirWatcher() is not valid.");
@@ -60,7 +61,7 @@ DirWatcher::DirWatcher(std::chrono::milliseconds reloadPeriod, const pf::Path& d
 
 DirWatcher::~DirWatcher() = default;
 
-void  DirWatcher::start(std::function<void(const pf::Path&)> fileHasChangedCb) {
+void  DirWatcher::start(std::function<void(const fs::path&)> fileHasChangedCb) {
   m_pImpl->m_task.start([this, fileHasChangedCb]() {
     return getLatestUpdatedFiles(m_pImpl->m_dir, m_pImpl->m_refFileToLastModifDate, fileHasChangedCb);
   });
