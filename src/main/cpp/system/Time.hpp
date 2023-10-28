@@ -1,7 +1,7 @@
 #pragma once
 
-#include "language/PhudException.hpp" // PhudException, StringView
-#include "strings/String.hpp"
+#include "language/PhudException.hpp" // PhudException, std::string_view
+#include "strings/StringUtils.hpp"
 #include "system/memory.hpp" // uptr
 
 // forward declaration
@@ -12,14 +12,14 @@ private:
   uptr<std::tm> m_pTimeData;
 
 public:
-  struct [[nodiscard]] Args final { StringView strTime; StringView format; };
+  struct [[nodiscard]] Args final { std::string_view strTime; std::string_view format; };
   explicit Time(const Args& args);
   Time(const Time& t) noexcept;
   explicit Time(Time&&) noexcept;
   Time& operator=(const Time&) noexcept;
   Time& operator=(Time&&) noexcept;
   [[nodiscard]] bool operator==(const Time& other) const noexcept;
-  [[nodiscard]] String toSqliteDate() const;
+  [[nodiscard]] std::string toSqliteDate() const;
 }; // class Time
 
 class [[nodiscard]] TimeException : public PhudException {
@@ -27,6 +27,6 @@ public:
   using PhudException::PhudException;
 };
 
-static constexpr StringView WINAMAX_HISTORY_TIME_FORMAT { "%Y/%m/%d %H:%M:%S" }; // ex: 2014/10/31 00:45:01
-//static constexpr StringView PMU_HISTORY_TIME_FORMAT{ "%A, %B %d, %H:%M:%S %Z %Y" }; // ex: Tuesday, September 14, 18:33:39 CEST 2021
-static constexpr StringView PMU_HISTORY_TIME_FORMAT { "%A, %B %d, %H:%M:%S %Y" }; // ex: Tuesday, September 14, 18:33:39 2021
+static constexpr std::string_view WINAMAX_HISTORY_TIME_FORMAT { "%Y/%m/%d %H:%M:%S" }; // ex: 2014/10/31 00:45:01
+//static constexpr std::string_view PMU_HISTORY_TIME_FORMAT{ "%A, %B %d, %H:%M:%S %Z %Y" }; // ex: Tuesday, September 14, 18:33:39 CEST 2021
+static constexpr std::string_view PMU_HISTORY_TIME_FORMAT { "%A, %B %d, %H:%M:%S %Y" }; // ex: Tuesday, September 14, 18:33:39 2021

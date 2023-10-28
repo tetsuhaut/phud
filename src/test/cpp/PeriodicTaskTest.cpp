@@ -1,12 +1,11 @@
 #include "TestInfrastructure.hpp"
 #include "TimeBomb.hpp"
-#include "language/argsManagement.hpp" // uptr, hideArgs, revealArgs
 #include "threads/PeriodicTask.hpp"
 #include <array>
 
 namespace {
 struct [[nodiscard]] StrContainer final {
-  String str = "";
+  std::string str = "";
 }; // struct StrContainer
 }; // namespace
 
@@ -18,7 +17,7 @@ BOOST_AUTO_TEST_SUITE(PeriodicTaskTest)
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
   TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_launchingAPeriodicTaskShouldWork" };
   PeriodicTask pt { PT_PERIOD };
-  Vector<String> v { "yip" };
+  std::vector<std::string> v { "yip" };
   pt.start([&]() {
     v.push_back("yop");
     return (4 != v.size());
@@ -41,14 +40,20 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
   BOOST_REQUIRE("yopyop" == pMyStrContainer->str);
 }
 
+struct PassedInArray {
+  std::array<sptr<StrContainer>, 2>& m_array;
+  PassedInArray(std::array<sptr<StrContainer>, 2>& arr)
+    : m_array(arr) {}
+};
+
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
   TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeArrays" };
   PeriodicTask pt { PT_PERIOD };
   std::array<sptr<StrContainer>, 2> myArray { mkSptr<StrContainer>(), nullptr };
-  void* hidden { hideArgs(myArray) };
+  void* hidden { new PassedInArray(myArray) };
   pt.start([hidden]() {
-    auto [passedInArray] { *revealArgs<std::array<sptr<StrContainer>, 2>>(hidden) };
-    passedInArray[0]->str = "yop";
+    auto args { std::unique_ptr<PassedInArray>(static_cast<PassedInArray*>(hidden)) };
+    args->m_array[0]->str = "yop";
     return false;
   });
   pt.join();

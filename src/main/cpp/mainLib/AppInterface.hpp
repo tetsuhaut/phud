@@ -2,7 +2,7 @@
 
 #include "filesystem/Filesystem.hpp"
 #include "language/callbacks.hpp" // std::function
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 #include <array>
 
 struct TableStatistics;
@@ -28,7 +28,7 @@ public:
 
   virtual void stopImportingHistory() = 0;
 
-  virtual String startProducingStats(StringView table, std::function<void(TableStatistics&& ts)> observer) = 0;
+  virtual std::string startProducingStats(std::string_view table, std::function<void(TableStatistics&& ts)> observer) = 0;
   virtual void stopProducingStats() = 0;
 
   /**
@@ -41,7 +41,7 @@ public:
   /**
    * @return true if executableName is the wanted Poker application.
    */
-  [[nodiscard]] static bool isPokerApp(StringView executableName);
+  [[nodiscard]] static bool isPokerApp(std::string_view executableName);
 
   /**
    * @return true if historyDir is the wanted Poker application history directory.

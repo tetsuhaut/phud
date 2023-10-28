@@ -98,15 +98,15 @@ Path pt::getDirFromTestResources(std::u8string_view dir) {
   return getGenericFileFromTestResources<::IsDir>(dir);
 }
 
-Path pt::getFileFromTestResources(StringView file) {
+Path pt::getFileFromTestResources(std::string_view file) {
   return getGenericFileFromTestResources<::IsFile>(file);
 }
 
-Path pt::getDirFromTestResources(StringView dir) {
+Path pt::getDirFromTestResources(std::string_view dir) {
   return getGenericFileFromTestResources<::IsDir>(dir);
 }
 
-[[nodiscard]] static inline Path throwIfNotADirectory(const Path& dir, StringView macro) {
+[[nodiscard]] static inline Path throwIfNotADirectory(const Path& dir, std::string_view macro) {
   if (pf::isDir(dir)) { return dir; }
 
   throw std::runtime_error { fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'", dir.string(), macro) };
@@ -167,8 +167,8 @@ static inline void removeWithMessage(const Path& file) {
     }
 }
 
-pt::TmpFile::TmpFile(StringView name)
-  : m_file { name.empty() ? getTmpFilePath().string() : String(name) } {
+pt::TmpFile::TmpFile(std::string_view name)
+  : m_file { name.empty() ? getTmpFilePath().string() : std::string(name) } {
   std::filesystem::remove(m_file);
   this->print("");
 }
@@ -177,17 +177,17 @@ pt::TmpFile::~TmpFile() {
   removeWithMessage(m_file);
 }
 
-void pt::TmpFile::print(StringView s) const {
+void pt::TmpFile::print(std::string_view s) const {
   std::ofstream writer(m_file, std::ios_base::app);
   writer << s;
 }
 
-void pt::TmpFile::printLn(StringView s) const {
+void pt::TmpFile::printLn(std::string_view s) const {
   std::ofstream writer(m_file, std::ios_base::app);
   writer << s << '\n';
 }
 
-pt::TmpDir::TmpDir(StringView dirName) :
+pt::TmpDir::TmpDir(std::string_view dirName) :
   m_dir { std::filesystem::temp_directory_path().append(dirName) } {
   if (pf::isDir(m_dir)) { removeWithMessage(m_dir); }
 
@@ -196,7 +196,7 @@ pt::TmpDir::TmpDir(StringView dirName) :
 
 pt::TmpDir::~TmpDir() { removeWithMessage(m_dir); }
 
-String pt::TmpDir::operator/(StringView file) const {
+std::string pt::TmpDir::operator/(std::string_view file) const {
   Path p { m_dir };
   return p.append(file).string();
 }

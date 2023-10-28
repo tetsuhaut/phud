@@ -25,11 +25,11 @@ uptr<Site> PmuHistory::reloadFile(const Path& /*winamaxHistoryFile*/) {
   return nullptr;
 }
 
-StringView PmuHistory::getTableNameFromTableWindowTitle(StringView /*tableWindowTitle*/) const {
+std::string_view PmuHistory::getTableNameFromTableWindowTitle(std::string_view /*tableWindowTitle*/) const {
   return "";
 }
 
 Path PmuHistory::getHistoryFileFromTableWindowTitle(const Path& /*historyDir*/,
-    StringView /*tableWindowTitle*/) const {
+    std::string_view /*tableWindowTitle*/) const {
   return {};
 }

@@ -1,7 +1,7 @@
 #include "containers/ThreadSafeQueue.hpp" // uptr
 #include "gui/Gui.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/AppInterface.hpp" // StringView, std::function
+#include "mainLib/AppInterface.hpp" // std::string_view, std::function
 #include "mainLib/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
@@ -43,7 +43,7 @@ public:
 
   void stopImportingHistory() override { LOG.debug<__func__>(); }
 
-  String startProducingStats(StringView /*table*/, std::function<void(TableStatistics&& ts)> /*observer*/) override {
+  std::string startProducingStats(std::string_view /*table*/, std::function<void(TableStatistics&& ts)> /*observer*/) override {
     LOG.debug<__func__>();
     m_continue = true;
     m_task.start([this]() {

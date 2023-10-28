@@ -1,7 +1,7 @@
 #pragma once
 
-#include "log/LoggingLevel.hpp" // StringView
-#include "strings/String.hpp"
+#include "log/LoggingLevel.hpp" // std::string_view
+#include "strings/StringUtils.hpp"
 #include "strings/StringLiteral.hpp" // concatLiteral
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to fmt
@@ -17,13 +17,13 @@
 
 class [[nodiscard]] Logger final {
 private:
-  StringView m_name;
-  static void traceStr(StringView msg);
-  static void debugStr(StringView msg);
-  static void infoStr(StringView msg);
-  static void warnStr(StringView msg);
-  static void errorStr(StringView msg);
-  static void criticalStr(StringView msg);
+  std::string_view m_name;
+  static void traceStr(std::string_view msg);
+  static void debugStr(std::string_view msg);
+  static void infoStr(std::string_view msg);
+  static void warnStr(std::string_view msg);
+  static void errorStr(std::string_view msg);
+  static void criticalStr(std::string_view msg);
 
   //template<StringLiteral FMT, typename... Args>
   //static constexpr bool allTypesAreFormattable() {
@@ -31,15 +31,15 @@ private:
   //}
 
 public:
-  Logger(StringView name) : m_name { name } {}
+  Logger(std::string_view name) : m_name { name } {}
 
   // to be constexpr, fmt::format requires a constexpr string as first parameter
-  void trace(StringView msg) { traceStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void debug(StringView msg) { debugStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void info(StringView msg) { infoStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void warn(StringView msg) { warnStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void error(StringView msg) { errorStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void critical(StringView msg) { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void trace(std::string_view msg) { traceStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void debug(std::string_view msg) { debugStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void info(std::string_view msg) { infoStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void warn(std::string_view msg) { warnStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void error(std::string_view msg) { errorStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void critical(std::string_view msg) { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
 
   template<StringLiteral FMT, typename... Args>
   void trace(Args&&... args) {
@@ -78,9 +78,9 @@ public:
   * %z: time zone
   * see https://github.com/gabime/spdlog/wiki/3.-Custom-formatting
   */
-  static void setupFileInfoLogging(StringView pattern);
-  static void setupConsoleWarnLogging(StringView pattern);
-  static void setupConsoleDebugLogging(StringView pattern);
+  static void setupFileInfoLogging(std::string_view pattern);
+  static void setupConsoleWarnLogging(std::string_view pattern);
+  static void setupConsoleDebugLogging(std::string_view pattern);
   static void shutdownLogging();
   static void setLoggingLevel(LoggingLevel l);
   [[nodiscard]] static LoggingLevel getCurrentLoggingLevel();

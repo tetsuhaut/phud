@@ -1,5 +1,5 @@
 #include "containers/algorithms.hpp"
-#include "filesystem/TextFile.hpp"  // String, StringView, Vector
+#include "filesystem/TextFile.hpp"  // String, std::string_view, Vector
 #include <sstream> // std::stringstream
 
 namespace pa = phud::algorithms;
@@ -19,7 +19,7 @@ bool TextFile::next() {
   return ret;
 }
 
-bool TextFile::containsOneOf(Span<const StringView> patterns) const {
+bool TextFile::containsOneOf(std::span<const std::string_view> patterns) const {
   return pa::containsIf(patterns, [this](const auto & s) noexcept { return containsExact(s); });
 }
 
@@ -28,10 +28,10 @@ TextFile& TextFile::trim() {
   return *this;
 }
 
-bool TextFile::containsExact(StringView s) const noexcept {
+bool TextFile::containsExact(std::string_view s) const noexcept {
   const auto pos { m_line.find(s) };
 
-  if (StringView::npos == pos) { return false; }
+  if (std::string_view::npos == pos) { return false; }
 
   const auto offset { pos + s.size() };
 
@@ -47,13 +47,13 @@ bool TextFile::containsExact(StringView s) const noexcept {
 }
 
 int TextFile::getLineIndex() const noexcept { return m_lineNb; }
-String TextFile::getFileName() const { return m_file.string(); }
-String TextFile::getFileStem() const { return m_file.stem().string(); }
-String TextFile::getLine() const noexcept { return m_line; }
-std::size_t TextFile::find(StringView s) const noexcept { return m_line.find(s); }
+std::string TextFile::getFileName() const { return m_file.string(); }
+std::string TextFile::getFileStem() const { return m_file.stem().string(); }
+std::string TextFile::getLine() const noexcept { return m_line; }
+std::size_t TextFile::find(std::string_view s) const noexcept { return m_line.find(s); }
 std::size_t TextFile::find(char c) const noexcept { return m_line.find(c); }
 bool TextFile::lineIsEmpty() const noexcept { return m_line.empty(); }
 bool TextFile::startsWith(char c) const noexcept { return m_line.starts_with(c); }
-bool TextFile::startsWith(StringView s) const noexcept { return m_line.starts_with(s); }
-bool TextFile::endsWith(StringView s) const noexcept { return m_line.ends_with(s); }
+bool TextFile::startsWith(std::string_view s) const noexcept { return m_line.starts_with(s); }
+bool TextFile::endsWith(std::string_view s) const noexcept { return m_line.ends_with(s); }
 bool TextFile::endsWith(char c) const noexcept  { return m_line.ends_with(c); }

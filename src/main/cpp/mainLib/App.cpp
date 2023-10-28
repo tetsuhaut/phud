@@ -35,11 +35,11 @@ struct [[nodiscard]] App::Implementation final {
   Future<void> m_loadTask {};
   Path historyDir {};
 
-  Implementation(StringView databaseName)
+  Implementation(std::string_view databaseName)
     : m_model { mkUptr<Database>(databaseName) } {}
 };
 
-App::App(StringView databaseName)
+App::App(std::string_view databaseName)
   : m_pImpl {mkUptr<Implementation>(databaseName)} {}
 
 App::~App() {
@@ -53,7 +53,7 @@ App::~App() {
   }
 }
 
-static inline [[nodiscard]] TableStatistics extractTableStatistics(auto& self, StringView table) {
+static inline [[nodiscard]] TableStatistics extractTableStatistics(auto& self, std::string_view table) {
   if (auto stats { self.m_model->readTableStatistics( {.site = "Winamax", .table = table}) };
     stats.isValid()) {
     LOG.debug<"Got stats from db.">();
@@ -75,7 +75,7 @@ static inline void notify(TableStatistics&& stats, auto observer) {
 
 // on regarde les fichiers dans l'historique, on recharge ceux qui sont mis à jour
 // on notifie l'observer (le GUI) des nouvelles stats
-static inline void watchHistoFile(App::Implementation& self, const Path& file, String table, auto observer) {
+static inline void watchHistoFile(App::Implementation& self, const Path& file, std::string table, auto observer) {
   self.m_fileWatcher = mkUptr<FileWatcher>(::RELOAD_PERIOD, file);
   self.m_fileWatcher->start([&self, table, &observer](const Path & f) {
     self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
@@ -135,14 +135,14 @@ void App::stopImportingHistory() {
 
 // on écoute les changements du fichier d'historique,
 // en cas de changement on requête périodiquement la base pour recuperer les stats
-String App::startProducingStats(StringView tableWindowTitle,
+std::string App::startProducingStats(std::string_view tableWindowTitle,
   std::function<void(TableStatistics&& ts)> observer) {
   const auto& h { m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->historyDir, tableWindowTitle) };
 
   if (h.empty()) { return fmt::format("Couldn't get history file for table '{}'", tableWindowTitle); }
 
   const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
-  watchHistoFile(*m_pImpl, h, String(tableName), observer);
+  watchHistoFile(*m_pImpl, h, std::string(tableName), observer);
   return "";
 }
 

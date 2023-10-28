@@ -70,16 +70,16 @@ BOOST_AUTO_TEST_CASE(StringTest_replaceShouldWork) {
 
 namespace {
 struct [[nodiscard]] Params final {
-  StringView value;
+  std::string_view value;
 }; // struct Params
 } // namespace
 
 BOOST_AUTO_TEST_CASE(StringTest_passingStringViewStructAsParamShouldWork) {
   const auto& myFunction {
-    [](const Params & p) { return "myFunction returns " + String(p.value); }
+    [](const Params & p) { return "myFunction returns " + std::string(p.value); }
   };
   BOOST_TEST("myFunction returns a string" == myFunction({.value = "a string"}));
-  String var { "a string" };
+  std::string var { "a string" };
   BOOST_TEST("myFunction returns a string" == myFunction({.value = var}));
   const char arr[] { "a string" };
   BOOST_TEST("myFunction returns a string" == myFunction({.value = arr}));

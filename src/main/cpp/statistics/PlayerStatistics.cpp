@@ -1,4 +1,4 @@
-#include "statistics/PlayerStatistics.hpp" // PlayerStatistics, StringView, String, PlayerStatistics::Params
+#include "statistics/PlayerStatistics.hpp" // PlayerStatistics, std::string_view, String, PlayerStatistics::Params
 
 PlayerStatistics::PlayerStatistics(const Params& p) noexcept
   : m_nbHands { p.nbHands },
@@ -10,9 +10,9 @@ m_preflopRaise { p.pfr } {}
 
 PlayerStatistics::~PlayerStatistics() = default;
 
-String PlayerStatistics::getPlayerName() const noexcept { return m_playerName; }
+std::string PlayerStatistics::getPlayerName() const noexcept { return m_playerName; }
 
-String PlayerStatistics::getSiteName() const noexcept { return m_siteName; }
+std::string PlayerStatistics::getSiteName() const noexcept { return m_siteName; }
 
 bool PlayerStatistics::isHero() const noexcept { return m_isHero; }
 

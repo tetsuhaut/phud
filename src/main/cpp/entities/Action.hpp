@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/String.hpp" // StringView
+#include "strings/StringUtils.hpp" // std::string_view
 
 /**
  * The elementary move a player can do during the game.
@@ -17,8 +17,8 @@ enum class /*[[nodiscard]]*/ Street : short { none, preflop, flop, turn, river }
  */
 class [[nodiscard]] Action final {
 private:
-  String m_handId;
-  String m_playerName;
+  std::string m_handId;
+  std::string m_playerName;
   Street m_street;
   ActionType m_type;
   std::size_t m_index;
@@ -27,8 +27,8 @@ private:
 public:
 
   struct [[nodiscard]] Params final {
-    StringView handId;
-    StringView playerName;
+    std::string_view handId;
+    std::string_view playerName;
     Street street;
     ActionType type;
     std::size_t actionIndex;
@@ -42,13 +42,13 @@ public:
   Action& operator=(Action&&) = delete;
   ~Action();
   [[nodiscard]] Street getStreet() const noexcept { return m_street; }
-  [[nodiscard]] String getHandId() const noexcept { return m_handId; }
-  [[nodiscard]] String getPlayerName() const noexcept { return m_playerName; }
+  [[nodiscard]] std::string getHandId() const noexcept { return m_handId; }
+  [[nodiscard]] std::string getPlayerName() const noexcept { return m_playerName; }
   [[nodiscard]] ActionType getType() const noexcept { return m_type; }
   [[nodiscard]] std::size_t getIndex() const noexcept { return m_index; }
   [[nodiscard]] double getBetAmount() const noexcept { return m_betAmount; }
 }; // class Action
 
 // exported methods
-[[nodiscard]] StringView toString(ActionType at);
-[[nodiscard]] StringView toString(Street st);
+[[nodiscard]] std::string_view toString(ActionType at);
+[[nodiscard]] std::string_view toString(Street st);

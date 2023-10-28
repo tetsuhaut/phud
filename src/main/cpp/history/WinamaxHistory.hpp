@@ -35,10 +35,10 @@ public:
   [[nodiscard]] static bool isValidHistory(const Path& historyDir);
   static bool isValidHistory(auto) = delete;
 
-  [[nodiscard]] StringView getTableNameFromTableWindowTitle(StringView tableWindowTitle) const
+  [[nodiscard]] std::string_view getTableNameFromTableWindowTitle(std::string_view tableWindowTitle) const
   override;
 
   [[nodiscard]] Path getHistoryFileFromTableWindowTitle(const Path& historyDir,
-      StringView tableWindowTitle) const override;
-  Path getHistoryFileFromTableWindowTitle(auto, StringView) const = delete;
+      std::string_view tableWindowTitle) const override;
+  Path getHistoryFileFromTableWindowTitle(auto, std::string_view) const = delete;
 }; // class WinamaxHistory

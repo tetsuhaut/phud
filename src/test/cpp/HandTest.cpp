@@ -7,7 +7,7 @@
 #include "entities/Player.hpp" // needed as Site declares incomplete Player type
 #include "entities/Site.hpp"
 #include "filesystem/TextFile.hpp"
-#include "history/GameData.hpp" // String, StringView, Time, Variant, Limit
+#include "history/GameData.hpp" // String, std::string_view, Time, Variant, Limit
 #include "history/WinamaxHandBuilder.hpp" // toAmount, toBuyIn
 #include "history/WinamaxGameHistory.hpp"
 #include "mainLib/ProgramInfos.hpp"
@@ -24,11 +24,11 @@ namespace pt = phud::test;
  * exported for unit testing
  * @returns isRealMoney, gameName, variant, limit
  */
-[[nodiscard]] std::optional<Tuple<bool, String, Variant, Limit>>
-    parseFileStem(StringView fileStem);
+[[nodiscard]] std::optional<Tuple<bool, std::string, Variant, Limit>>
+    parseFileStem(std::string_view fileStem);
 
-static inline String utf16To8(std::wstring_view utf16String) {
-  String ret;
+static inline std::string utf16To8(std::wstring_view utf16String) {
+  std::string ret;
   utf8::utf16to8(std::begin(utf16String), std::end(utf16String), std::back_inserter(ret));
   return ret;
 }
@@ -280,16 +280,16 @@ BOOST_AUTO_TEST_CASE(HandTest_playerWithNoActionHasActionNone) {
 }
 
 struct [[nodiscard]] MyStruct1 final {
-  uptr<String> str;
+  uptr<std::string> str;
 };
 
-String func(MyStruct1& s) {
+std::string func(MyStruct1& s) {
   auto ret = std::move(s.str);
   return *ret;
 }
 
 BOOST_AUTO_TEST_CASE(HandTest_passingAUniquePtrShouldBeOk) {
-  uptr<String> myString { mkUptr<String>("my string") };
+  uptr<std::string> myString { mkUptr<std::string>("my string") };
   MyStruct1 param { .str = std::move(myString) };
   BOOST_REQUIRE("my string" == func(param));
 }

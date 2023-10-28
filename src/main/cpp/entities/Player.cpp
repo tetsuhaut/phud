@@ -1,4 +1,4 @@
-#include "entities/Player.hpp" // Player, StringView
+#include "entities/Player.hpp" // Player, std::string_view
 #include "language/assert.hpp" // phudAssert
 
 Player::~Player() = default;

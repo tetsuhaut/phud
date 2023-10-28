@@ -1,6 +1,6 @@
 #pragma once
-#include "strings/StringView.hpp"
 #include <algorithm> // std::copy_n
+#include <string_view>
 
 /**
  * A compile time string type for template parameters.
@@ -13,7 +13,7 @@ struct [[nodiscard]] StringLiteral final {
 
   constexpr explicit(false) StringLiteral(const char (&str)[N + 1]) { std::copy_n(str, N, value); }
 
-  constexpr explicit(false) operator StringView() const { return {value, N}; }
+  constexpr explicit(false) operator std::string_view() const { return {value, N}; }
 
   constexpr StringLiteral() {}
 

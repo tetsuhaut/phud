@@ -1,7 +1,7 @@
 #pragma once
 
 #include "entities/Seat.hpp"
-#include "strings/String.hpp" // StringView, phud::strings
+#include "strings/StringUtils.hpp" // std::string_view, phud::strings
 
 enum class ActionType : short;
 enum class Card : short;
@@ -16,16 +16,16 @@ enum class Variant : short;
  */
 class [[nodiscard]] SqlInsertor final {
 private:
-  String m_query;
-  String m_valueModel;
-  String m_values;
+  std::string m_query;
+  std::string m_valueModel;
+  std::string m_values;
 
 public:
   /**
    * @param sqlTemplate an SQL query model, such as
    *        INSERT INTO someTable (column1, column2, ...) VALUES (?, '?', ...);
    */
-  explicit SqlInsertor(StringView sqlTemplate);
+  explicit SqlInsertor(std::string_view sqlTemplate);
   SqlInsertor(const SqlInsertor&) = delete;
   SqlInsertor(SqlInsertor&&) = delete;
   SqlInsertor& operator=(const SqlInsertor&) = delete;
@@ -35,17 +35,17 @@ public:
   /**
    * @returns a SQL INSERT query.
    */
-  [[nodiscard]] String build();
+  [[nodiscard]] std::string build();
 
 
   /*[[nodiscard]]*/ SqlInsertor& newInsert();
-  [[nodiscard]] SqlInsertor& siteName(StringView value);
+  [[nodiscard]] SqlInsertor& siteName(std::string_view value);
   [[nodiscard]] SqlInsertor& isHero(bool value);
-  [[nodiscard]] SqlInsertor& comments(StringView value);
+  [[nodiscard]] SqlInsertor& comments(std::string_view value);
   [[nodiscard]] SqlInsertor& playerSeat(Seat value);
-  [[nodiscard]] SqlInsertor& playerName(StringView value);
+  [[nodiscard]] SqlInsertor& playerName(std::string_view value);
   [[nodiscard]] SqlInsertor& isWinner(bool value);
-  [[nodiscard]] SqlInsertor& tableName(StringView value);
+  [[nodiscard]] SqlInsertor& tableName(std::string_view value);
   [[nodiscard]] SqlInsertor& buttonSeat(Seat value);
   [[nodiscard]] SqlInsertor& maxSeats(Seat value);
   [[nodiscard]] SqlInsertor& level(int value);
@@ -60,9 +60,9 @@ public:
   [[nodiscard]] SqlInsertor& boardCard3(Card value);
   [[nodiscard]] SqlInsertor& boardCard4(Card value);
   [[nodiscard]] SqlInsertor& boardCard5(Card value);
-  [[nodiscard]] SqlInsertor& gameId(StringView value);
-  [[nodiscard]] SqlInsertor& gameName(StringView value);
-  [[nodiscard]] SqlInsertor& handId(StringView value);
+  [[nodiscard]] SqlInsertor& gameId(std::string_view value);
+  [[nodiscard]] SqlInsertor& gameName(std::string_view value);
+  [[nodiscard]] SqlInsertor& handId(std::string_view value);
   [[nodiscard]] SqlInsertor& street(Street value);
   [[nodiscard]] SqlInsertor& actionType(ActionType value);
   [[nodiscard]] SqlInsertor& actionIndex(std::size_t value);
@@ -71,12 +71,12 @@ public:
   [[nodiscard]] SqlInsertor& limitType(Limit value);
   [[nodiscard]] SqlInsertor& isRealMoney(bool value);
   [[nodiscard]] SqlInsertor& nbMaxSeats(Seat value);
-  [[nodiscard]] SqlInsertor& startDate(StringView value);
-  [[nodiscard]] SqlInsertor& tournamentId(StringView value);
+  [[nodiscard]] SqlInsertor& startDate(std::string_view value);
+  [[nodiscard]] SqlInsertor& tournamentId(std::string_view value);
   [[nodiscard]] SqlInsertor& buyIn(double value);
-  [[nodiscard]] SqlInsertor& cashGameId(StringView value);
+  [[nodiscard]] SqlInsertor& cashGameId(std::string_view value);
   [[nodiscard]] SqlInsertor& smallBlind(double value);
   [[nodiscard]] SqlInsertor& bigBlind(double value);
 }; // class SqlInsertor
 
-[[nodiscard]] String formatSQL(StringView s);
+[[nodiscard]] std::string formatSQL(std::string_view s);

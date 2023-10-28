@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 #include "system/memory.hpp" // uptr
 #include <chrono>
 
@@ -13,6 +13,6 @@ private:
   uptr<Implementation> m_pImpl;
 
 public:
-  TimeBomb(std::chrono::milliseconds countDownToExplosion, StringView testName);
+  TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_view testName);
   ~TimeBomb();
 }; // class TimeBomb

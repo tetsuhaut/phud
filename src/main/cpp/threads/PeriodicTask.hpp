@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 #include "system/memory.hpp" // uptr
 #include <chrono>
 #include <functional> // std::function 
@@ -11,7 +11,7 @@ private:
   uptr<Implementation> m_pImpl;
 
 public:
-  explicit PeriodicTask(std::chrono::milliseconds period, StringView taskName = "");
+  explicit PeriodicTask(std::chrono::milliseconds period, std::string_view taskName = "");
   PeriodicTask(const PeriodicTask&) = delete;
   PeriodicTask(PeriodicTask&&) = delete;
   PeriodicTask& operator=(const PeriodicTask&) = delete;

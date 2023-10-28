@@ -18,7 +18,7 @@ constexpr auto STRING_TO_ENUM {
 };
 
 constexpr auto ENUM_TO_STRING {
-  frozen::make_unordered_map<LoggingLevel, StringView>({
+  frozen::make_unordered_map<LoggingLevel, std::string_view>({
     { LoggingLevel::trace, "trace" },
     { LoggingLevel::debug, "debug" },
     { LoggingLevel::info, "info" },
@@ -29,10 +29,10 @@ constexpr auto ENUM_TO_STRING {
   })
 };
 
-LoggingLevel toLoggingLevel(StringView sv) {
+LoggingLevel toLoggingLevel(std::string_view sv) {
   return pa::getValueFromKey(STRING_TO_ENUM, sv);
 }
 
-StringView toString(LoggingLevel l) {
+std::string_view toString(LoggingLevel l) {
   return pa::getValueFromKey(ENUM_TO_STRING, l);
 }

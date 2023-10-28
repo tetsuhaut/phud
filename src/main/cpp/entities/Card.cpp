@@ -1,12 +1,12 @@
 #include "containers/algorithms.hpp"
-#include "entities/Card.hpp" // Card, StringView
+#include "entities/Card.hpp" // Card, std::string_view
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>
 
 namespace pa = phud::algorithms;
 
 // Note : must use frozen::string when it is a map key.
-// frozen::string can be created from StringView.
+// frozen::string can be created from std::string_view.
 
 static constexpr auto STRING_TO_ENUM {
   frozen::make_unordered_map<frozen::string, Card>({
@@ -40,7 +40,7 @@ static constexpr auto STRING_TO_ENUM {
 };
 
 static constexpr auto ENUM_TO_STRING {
-  frozen::make_unordered_map<Card, StringView>({
+  frozen::make_unordered_map<Card, std::string_view>({
     { Card::none, "none" }, { Card::twoSpade, "2s" }, { Card::threeSpade, "3s" },
     { Card::fourSpade, "4s" }, { Card::fiveSpade, "5s" },
     { Card::sixSpade, "6s" }, { Card::sevenSpade, "7s" },
@@ -70,10 +70,10 @@ static constexpr auto ENUM_TO_STRING {
   })
 };
 
-StringView toString(Card c) {
+std::string_view toString(Card c) {
   return pa::getValueFromKey(ENUM_TO_STRING, c);
 }
 
-Card toCard(StringView strCard) {
+Card toCard(std::string_view strCard) {
   return pa::getValueFromKey(STRING_TO_ENUM, strCard);
 }

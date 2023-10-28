@@ -1,4 +1,4 @@
-#include "containers/algorithms.hpp" // phud::contains
+#include "containers/algorithms.hpp" // phud::contains, mkView
 #include "entities/Action.hpp"
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
@@ -31,11 +31,13 @@ Hand::Hand(Params& p)
 
 Hand::~Hand() = default; // needed because Hand owns a private sptr member
 
-bool Hand::isPlayerInvolved(StringView name) const {
+bool Hand::isPlayerInvolved(std::string_view name) const {
   return pa::containsIf(m_actions,
   [&name](const auto & a) { return name == a->getPlayerName(); });
 }
 
-bool Hand::isWinner(StringView playerName) const noexcept {
+bool Hand::isWinner(std::string_view playerName) const noexcept {
   return pa::contains(m_winners, playerName.data());
 }
+
+[[nodiscard]] std::vector<const Action*> Hand::viewActions() const { return pa::mkView(m_actions); }

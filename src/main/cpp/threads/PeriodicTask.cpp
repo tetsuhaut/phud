@@ -1,4 +1,4 @@
-#include "strings/String.hpp" // String
+#include "strings/StringUtils.hpp" // String
 #include "threads/ConditionVariable.hpp"
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadPool.hpp" // Future, std::atomic_bool
@@ -8,17 +8,17 @@ struct [[nodiscard]] PeriodicTask::Implementation final {
   Future<void> m_futureTaskResult {};
   ConditionVariable m_cv {};
   Mutex m_mutex {};
-  String m_name;
+  std::string m_name;
   std::atomic_bool m_stop { false };
   std::atomic_bool m_taskIsStopped { true };
   std::chrono::milliseconds m_period;
 
-  explicit Implementation(std::chrono::milliseconds period, StringView taskName)
+  explicit Implementation(std::chrono::milliseconds period, std::string_view taskName)
     : m_name { taskName },
       m_period { period } {}
 };
 
-PeriodicTask::PeriodicTask(std::chrono::milliseconds period, StringView taskName)
+PeriodicTask::PeriodicTask(std::chrono::milliseconds period, std::string_view taskName)
   : m_pImpl { mkUptr<Implementation>(period, taskName) } {}
 
 PeriodicTask::~PeriodicTask() { try { stop(); } catch (...) { std::exit(6); } }

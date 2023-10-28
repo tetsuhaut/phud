@@ -7,10 +7,10 @@
 namespace pa = phud::algorithms;
 
 // Note : must use frozen::string for map keys.
-// frozen::string can be created from StringView.
+// frozen::string can be created from std::string_view.
 
 static constexpr auto ACTION_TYPE_TO_STRING {
-  frozen::make_unordered_map<ActionType, StringView>({
+  frozen::make_unordered_map<ActionType, std::string_view>({
     { ActionType::bet, "bet" }, { ActionType::call, "call" },
     { ActionType::check, "check" }, { ActionType::fold, "fold" },
     { ActionType::raise, "raise" }, { ActionType::none, "none" }
@@ -18,7 +18,7 @@ static constexpr auto ACTION_TYPE_TO_STRING {
 };
 
 static constexpr auto STREET_TO_STRING {
-  frozen::make_unordered_map<Street, StringView>({
+  frozen::make_unordered_map<Street, std::string_view>({
     { Street::preflop, "preflop" }, { Street::flop, "flop" },
     { Street::turn, "turn" }, { Street::river, "river" }
   })
@@ -39,10 +39,10 @@ Action::Action(const Params& p)
 
 Action::~Action() = default;
 
-StringView toString(ActionType at) {
+std::string_view toString(ActionType at) {
   return pa::getValueFromKey(ACTION_TYPE_TO_STRING, at);
 }
 
-StringView toString(Street st) {
+std::string_view toString(Street st) {
   return pa::getValueFromKey(STREET_TO_STRING, st);
 }

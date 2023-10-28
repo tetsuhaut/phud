@@ -31,11 +31,11 @@ namespace phud::test {
  * @return the absolute path of src/test/resources.
  * @note We use Path to mix UTF-8 and UTF-16 file names.
 */
-[[nodiscard]] Path loadDatabaseFromTestResources(StringView file, StringView pokerSite);
+[[nodiscard]] Path loadDatabaseFromTestResources(std::string_view file, std::string_view pokerSite);
 [[nodiscard]] Path getFileFromTestResources(std::u8string_view file);
 [[nodiscard]] Path getDirFromTestResources(std::u8string_view dir);
-[[nodiscard]] Path getFileFromTestResources(StringView file);
-[[nodiscard]] Path getDirFromTestResources(StringView dir);
+[[nodiscard]] Path getFileFromTestResources(std::string_view file);
+[[nodiscard]] Path getDirFromTestResources(std::string_view dir);
 [[nodiscard]] Path getTestResourcesDir();
 [[nodiscard]] Path getMainCppDir();
 [[nodiscard]] Path getTestCppDir();
@@ -46,7 +46,7 @@ namespace phud::test {
  */
 class [[nodiscard]] TmpFile final {
 private:
-  String m_file;
+  std::string m_file;
 
 public:
   /**
@@ -54,17 +54,17 @@ public:
    * user's current temp dir.
    * @param fileName the name of the file to be used. If empty, a random one will be used.
    */
-  explicit TmpFile(StringView fileName = "");
+  explicit TmpFile(std::string_view fileName = "");
   TmpFile(const TmpFile&) = delete;
   TmpFile(TmpFile&&) = delete;
   TmpFile& operator=(const TmpFile&) = delete;
   TmpFile& operator=(TmpFile&&) = delete;
   ~TmpFile();
-  void print(StringView s) const;
-  void printLn(StringView s) const;
+  void print(std::string_view s) const;
+  void printLn(std::string_view s) const;
   [[nodiscard]] Path path() const noexcept { return m_file; }
   [[nodiscard]] Path getParentDir() const { return Path(m_file).parent_path(); }
-  [[nodiscard]] String string() const noexcept { return m_file; }
+  [[nodiscard]] std::string string() const noexcept { return m_file; }
 }; // class TmpFile
 
 /**
@@ -76,10 +76,10 @@ private:
   Path m_dir;
 
 public:
-  explicit TmpDir(StringView dirName);
+  explicit TmpDir(std::string_view dirName);
   ~TmpDir();
-  [[nodiscard]] String operator/(StringView file) const;
-  [[nodiscard]] String string() const noexcept { return m_dir.string(); }
+  [[nodiscard]] std::string operator/(std::string_view file) const;
+  [[nodiscard]] std::string string() const noexcept { return m_dir.string(); }
   [[nodiscard]] Path path() const noexcept { return m_dir; }
 }; // class TmpDir
 

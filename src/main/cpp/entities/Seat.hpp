@@ -1,6 +1,6 @@
 #pragma once
 #include "language/assert.hpp"
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 
 enum class /*[[nodiscard]]*/ Seat : short {
   seatOne, seatTwo, seatThree, seatFour, seatFive, seatSix, seatSeven,
@@ -11,7 +11,7 @@ namespace tableSeat {
 /*
  * Transforms "1" into Seat::SeatOne and so on.
  */
-[[nodiscard]] Seat fromString(StringView seatStr);
+[[nodiscard]] Seat fromString(std::string_view seatStr);
 
 /*
  * Transforms 0 into Seat::SeatOne and so on.
@@ -31,7 +31,7 @@ namespace tableSeat {
 /*
  * Transforms Seat::SeatOne into 1 and so on.
  */
-[[nodiscard]] StringView toString(Seat s);
+[[nodiscard]] std::string_view toString(Seat s);
 
 /*
  * Transforms Seat::SeatOne into 0 and so on.

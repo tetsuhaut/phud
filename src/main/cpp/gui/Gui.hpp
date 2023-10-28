@@ -1,7 +1,7 @@
 #pragma once
 
 #include "system/memory.hpp" // uptr
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 
 // forward declaration
 class AppInterface;
@@ -24,7 +24,7 @@ public:
   Gui& operator=(const Gui&) = delete;
   Gui& operator=(Gui&&) = delete;
   ~Gui();
-  void informUser(StringView msg);
+  void informUser(std::string_view msg);
   /**
   * Starts the GUI.
   * @returns 0 if OK

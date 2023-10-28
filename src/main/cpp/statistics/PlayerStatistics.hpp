@@ -1,7 +1,7 @@
 #pragma once
 
 #include "language/limits.hpp" // toInt
-#include "strings/String.hpp" // String, StringView
+#include "strings/StringUtils.hpp" // String, std::string_view
 #include "system/memory.hpp" // uptr
 
 // cf. https://www.pokertracker.com/guides/PT3/general/statistical-reference-guide
@@ -13,8 +13,8 @@
 class [[nodiscard]] PlayerStatistics final {
 private:
   int m_nbHands;
-  String m_playerName;
-  String m_siteName;
+  std::string m_playerName;
+  std::string m_siteName;
   bool m_isHero;
   double m_voluntaryPutMoneyInPot;
   double m_preflopRaise;
@@ -52,8 +52,8 @@ private:
 public:
 
   struct [[nodiscard]] Params final {
-    StringView playerName;
-    StringView siteName;
+    std::string_view playerName;
+    std::string_view siteName;
     bool isHero;
     int nbHands;
     double vpip;
@@ -66,8 +66,8 @@ public:
   PlayerStatistics& operator=(const PlayerStatistics&) = delete;
   PlayerStatistics& operator=(PlayerStatistics&&) = delete;
   ~PlayerStatistics();
-  [[nodiscard]] String getSiteName() const noexcept;
-  [[nodiscard]] String getPlayerName() const noexcept;
+  [[nodiscard]] std::string getSiteName() const noexcept;
+  [[nodiscard]] std::string getPlayerName() const noexcept;
   [[nodiscard]] bool isHero() const noexcept;
   [[nodiscard]] constexpr int getNbHands() const noexcept { return m_nbHands; }
 

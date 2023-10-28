@@ -20,6 +20,7 @@
 #include <gsl/gsl> // gsl::not_null
 #include <sqlite3.h>  // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await, Future
+#include <span>
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
 // free the char* returned by sqlite3_errmsg().
@@ -33,13 +34,13 @@ namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
-static constexpr StringView IN_MEMORY { ":memory:" };
+static constexpr std::string_view IN_MEMORY { ":memory:" };
 
 /**
  * Opens the database, this will create the database file if needed.
  * @throws DatabaseException in case of error
  */
-static inline gsl::not_null<sqlite3*> openDatabase(StringView dbName) {
+static inline gsl::not_null<sqlite3*> openDatabase(std::string_view dbName) {
   sqlite3* pDb { nullptr };
 
   if (SQLITE_OK != sqlite3_open(dbName.data(), &pDb)) {
@@ -54,7 +55,7 @@ static inline gsl::not_null<sqlite3*> openDatabase(StringView dbName) {
  * Runs a query against the database.
  * @throws DatabaseException if an error occurs
  */
-static inline void executeSql(const gsl::not_null<sqlite3*> pDb, StringView sql) {
+static inline void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_view sql) {
   LOG.trace(sql);
 
   if (SQLITE_OK != sqlite3_exec(pDb,
@@ -69,7 +70,7 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, StringView sql)
 * @throws DatabaseException in case of problem getting the query SQL code or opening the database
 * file
 */
-[[nodiscard]] static inline gsl::not_null<sqlite3*> createDatabase(StringView name) {
+[[nodiscard]] static inline gsl::not_null<sqlite3*> createDatabase(std::string_view name) {
   phudAssert(!name.empty(), "db name is empty !!!");
   Path dbFile { name };
   const auto isDbCreation { !pf::isFile(dbFile) };
@@ -91,10 +92,10 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, StringView sql)
 }
 
 struct [[nodiscard]] Database::Implementation final {
-  String m_dbName;
+  std::string m_dbName;
   gsl::not_null<sqlite3*> m_database;
   
-  explicit Implementation(StringView dbName)
+  explicit Implementation(std::string_view dbName)
     : m_dbName { dbName },
       m_database { createDatabase(dbName) }
   {}
@@ -139,7 +140,7 @@ public:
 static_assert(ps::contains(phud::sql::INSERT_CASHGAME_HAND, '?'), "ill-formed SQL template");
 static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT_HAND, '?'), "ill-formed SQL template");
 static constexpr auto GAME_TYPE_TO_ID_AND_COLUMN_NAME {
-  frozen::make_unordered_map<GameType, StringView>({
+  frozen::make_unordered_map<GameType, std::string_view>({
     {GameType::cashGame, phud::sql::INSERT_CASHGAME_HAND},
     {GameType::tournament, phud::sql::INSERT_TOURNAMENT_HAND }
   })
@@ -185,7 +186,7 @@ static inline void insertSpecificGame(const gsl::not_null<sqlite3*> db, const Ca
  * @throws DatabaseException
  */
 static inline void saveActions(const gsl::not_null<sqlite3*> db,
-                               Span<const Action* const> actions) {
+                               std::span<const Action* const> actions) {
   if (actions.empty()) { return; }
 
   static_assert(ps::contains(phud::sql::INSERT_ACTION, '?'), "ill-formed SQL template");
@@ -222,7 +223,7 @@ static inline void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) 
 
 Database::Database() : Database(IN_MEMORY) {}
 
-Database::Database(StringView dbName)
+Database::Database(std::string_view dbName)
   : m_pImpl { mkUptr<Implementation>(dbName) } {
 }
 
@@ -248,7 +249,7 @@ void Database::save(const CashGame& game) { saveGame(m_pImpl->m_database, game);
  */
 void Database::save(const Tournament& game) { saveGame(m_pImpl->m_database, game); }
 
-void Database::save(Span<const Player* const> players) {
+void Database::save(std::span<const Player* const> players) {
   if (players.empty()) { return; }
 
   static_assert(ps::contains(phud::sql::INSERT_PLAYER, '?'), "ill-formed SQL template");
@@ -273,8 +274,8 @@ static inline void save(const gsl::not_null<sqlite3*> pDb, const Site& s) {
   executeSql(pDb, SqlInsertor(phud::sql::INSERT_SITE).siteName(s.getName()).build());
 }
 
-static inline Vector<Future<void>> saveGamesAsync(const auto& games, Database& self) {
-  Vector<Future<void>> ret;
+static inline std::vector<Future<void>> saveGamesAsync(const auto& games, Database& self) {
+  std::vector<Future<void>> ret;
   ret.reserve(games.size());
   pa::transform(games, ret, [&](const auto & pGame) {
     return ThreadPool::submit([&]() {
@@ -334,8 +335,8 @@ void Database::save(const Site& site) {
 /**
  * @throws DatabaseException
  */
-static inline void saveHands(const gsl::not_null<sqlite3*> db, StringView gameId,
-                             Span<const Hand* const> hands) {
+static inline void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
+                             std::span<const Hand* const> hands) {
   if (hands.empty()) { return; }
 
   LOG.trace<"create insert queries">();
@@ -382,10 +383,10 @@ class [[nodiscard]] PreparedStatement final {
 private:
   sqlite3_stmt* m_pStatement { nullptr };
   gsl::not_null<sqlite3*> m_pDatabase;
-  String m_sql;
+  std::string m_sql;
 
 public:
-  PreparedStatement(const gsl::not_null<sqlite3*> pDatabase, StringView sql)
+  PreparedStatement(const gsl::not_null<sqlite3*> pDatabase, std::string_view sql)
     : m_pDatabase { pDatabase }, m_sql { sql } {
     if (SQLITE_OK != sqlite3_prepare_v2(m_pDatabase, sql.data(), -1, &m_pStatement, nullptr)) {
       throw DatabaseException(fmt::format(
@@ -431,13 +432,13 @@ public:
   [[nodiscard]] int getColumnCount() noexcept { return sqlite3_column_count(m_pStatement); }
   [[nodiscard]] int getColumnAsInt(int column) noexcept { return sqlite3_column_int(m_pStatement, column); }
   [[nodiscard]] double getColumnAsDouble(int column) noexcept { return sqlite3_column_double(m_pStatement, column); }
-  [[nodiscard]] String getColumnAsString(int column) {
+  [[nodiscard]] std::string getColumnAsString(int column) {
     return reinterpret_cast<const char*>(sqlite3_column_text(m_pStatement, column));
   }
   [[nodiscard]] bool getColumnAsBool(int column) noexcept { return 0 != getColumnAsInt(column); }
 }; // class PreparedStatement
 
-Seat Database::getTableMaxSeat(StringView site, StringView table) const {
+Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) const {
   static_assert(ps::contains(phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME, '?'),
                 "ill-formed SQL template");
   const auto& sql { SqlSelector(phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME)
@@ -486,7 +487,7 @@ TableStatistics Database::readTableStatistics(const ReadTableStatisticsArgs& arg
   return { .m_maxSeats = getTableMaxSeat(args.site, args.table), .m_tableStats = readTableStatisticsQuery(p) };
 }
 
-uptr<PlayerStatistics> Database::readPlayerStatistics(StringView site, StringView player) const {
+uptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site, std::string_view player) const {
   static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, '?'),
                 "ill-formed SQL template");
   const auto& sql { SqlSelector(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME).site(site)
@@ -506,4 +507,4 @@ uptr<PlayerStatistics> Database::readPlayerStatistics(StringView site, StringVie
 
 bool Database::isInMemory() const noexcept { return IN_MEMORY == getDbName(); }
 
-String Database::getDbName() const noexcept { return m_pImpl->m_dbName; }
+std::string Database::getDbName() const noexcept { return m_pImpl->m_dbName; }

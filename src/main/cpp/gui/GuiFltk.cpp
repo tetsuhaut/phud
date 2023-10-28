@@ -6,7 +6,6 @@
 #include "gui/PlayerIndicator.hpp" // DragAndDropWindow, Fl_Double_Window
 #include "gui/Position.hpp" // buildPlayerIndicatorPosition()
 #include "language/assert.hpp" // phudAssert
-#include "language/argsManagement.hpp" // hideArgs, revealArgs, Tuple
 #include "language/Either.hpp" // ErrOrRes
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "mainLib/AppInterface.hpp"  // String, Vector, Path, fs::isDir
@@ -69,11 +68,11 @@ enum class [[nodiscard]] FileChoiceStatus : short { ok = 0, error = -1, cancel =
 
 namespace FltkSkin {
 /* from the int Fl::scheme(const char * s) documentation */
-constexpr StringView none { "none" };
-constexpr StringView base { "base" };
-constexpr StringView gleam { "gleam" };
-constexpr StringView gtkplus { "gtk+" };
-constexpr StringView plastic { "plastic" };
+constexpr std::string_view none { "none" };
+constexpr std::string_view base { "base" };
+constexpr std::string_view gleam { "gleam" };
+constexpr std::string_view gtkplus { "gtk+" };
+constexpr std::string_view plastic { "plastic" };
 }; // namespace FltkSkin
 
 }; // anonymous namespace
@@ -132,7 +131,7 @@ struct [[nodiscard]] Gui::Implementation final {
   ~Implementation() = default;
 }; // struct Gui::Implementation
 
-[[nodiscard]] static inline String getLastErrorMessageFromOS() {
+[[nodiscard]] static inline std::string getLastErrorMessageFromOS() {
   char err[MAX_PATH + 1] { '\0' };
   FormatMessage(FORMAT_MESSAGE_FROM_SYSTEM, nullptr, GetLastError(),
                 MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT), &err[0], MAX_PATH,
@@ -141,7 +140,7 @@ struct [[nodiscard]] Gui::Implementation final {
 }
 
 template <typename T>
-[[nodiscard]] constexpr static uptr<T> mkWidget(const phud::Rectangle& r, StringView label) {
+[[nodiscard]] constexpr static uptr<T> mkWidget(const phud::Rectangle& r, std::string_view label) {
   return mkUptr<T>(r.x, r.y, r.w, r.h, label.data());
 }
 
@@ -150,7 +149,7 @@ template <typename T>
   return mkUptr<T>(r.x, r.y, r.w, r.h);
 }
 
-[[nodiscard]] static inline String getExecutableName(const HWND window) {
+[[nodiscard]] static inline std::string getExecutableName(const HWND window) {
   LOG.debug<__func__>();
 
   if (nullptr == window) { return ""; }
@@ -202,15 +201,23 @@ static inline void informUser(Gui::Implementation& aSelf) {
   }, &aSelf);
 }
 
+struct InformUser {
+  Gui::Implementation& m_self;
+  std::string_view m_msg;
+  InformUser(Gui::Implementation& self, std::string_view msg)
+    : m_self(self),
+    m_msg(msg){}
+};
+
 /**
 * Displays a message in the info bar.
 */
-static inline void informUser(Gui::Implementation& aSelf, StringView aMsg) {
+static inline void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
   LOG.debug<__func__>();
   Fl::awake([](void* hidden) {
-    auto [self, msg] { *revealArgs<Gui::Implementation&, String>(hidden) };
-    self.m_infoBar->copy_label(msg.data());
-  }, hideArgs(std::ref(aSelf), String(aMsg)));
+    auto pInformUser { std::unique_ptr<InformUser>(static_cast<InformUser*>(hidden)) };
+    pInformUser->m_self.m_infoBar->copy_label(pInformUser->m_msg.data());
+  }, new InformUser(aSelf, aMsg));
 }
 
 /**
@@ -238,6 +245,18 @@ uptr<PlayerIndicator>& getPlayerIndicator(Gui::Implementation& self, Seat seat) 
   return self.m_playerIndicators.at(tableSeat::toArrayIndex(seat));
 }
 
+struct UpdatePlayerIndicators {
+  Gui::Implementation& m_self;
+  Seat m_seat;
+  std::pair<int, int> m_pos;
+  uptr<PlayerStatistics> m_ps;
+  UpdatePlayerIndicators(Gui::Implementation& self, Seat seat, std::pair<int, int> pos, uptr<PlayerStatistics> ps)
+    : m_self(self),
+    m_seat(seat),
+    m_pos(pos),
+    m_ps(std::move(ps)) {}
+};
+
 /**
 * Called by the stat watcher (another thread) to notify of new stats. Will
 * update the PlayerIndicators with the latest stats.
@@ -246,51 +265,69 @@ uptr<PlayerIndicator>& getPlayerIndicator(Gui::Implementation& self, Seat seat) 
 * 1 < nbSeats < 11
 */
 static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
-  const auto [self, seat, pos, ps] {
-    std::move(*revealArgs<Gui::Implementation&, Seat, Pair<int, int>, uptr<PlayerStatistics>>(hidden))
-  };
-  phudAssert(nullptr != ps, "ps nullptr dans updatePlayerIndicatorsAwakeCb");
-  auto& playerIndicator { getPlayerIndicator(self, seat) };
+  const auto args { std::move(static_cast<UpdatePlayerIndicators*>(hidden)) };
+  phudAssert(nullptr != args->m_ps, "ps nullptr dans updatePlayerIndicatorsAwakeCb");
+  auto& playerIndicator { getPlayerIndicator(args->m_self, args->m_seat) };
 
   if (nullptr == playerIndicator) {
-    playerIndicator = mkUptr<PlayerIndicator>(pos, ps->getPlayerName());
-  } else if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
-    playerIndicator->refresh(ps->getPlayerName());
+    playerIndicator = mkUptr<PlayerIndicator>(args->m_pos, args->m_ps->getPlayerName());
+  } else if (args->m_ps->getPlayerName() != playerIndicator->getPlayerName()) {
+    playerIndicator->refresh(args->m_ps->getPlayerName());
   }
 
-  playerIndicator->setStats(*ps);
+  playerIndicator->setStats(*args->m_ps);
   setWindowOnTopMost(*playerIndicator);
   playerIndicator->show();
 }
 
+struct ResetPlayerIndicator {
+  Gui::Implementation& m_self;
+  Seat m_seat;
+  ResetPlayerIndicator(Gui::Implementation& self, Seat seat)
+    :m_self(self),
+    m_seat(seat) {}
+};
+
 static inline void resetPlayerIndicatorsAwakeCb(void* hidden) {
   LOG.debug<__func__>();
-  auto [self, seat] { *revealArgs<Gui::Implementation&, Seat>(hidden) };
-  getPlayerIndicator(self, seat).reset();
+  auto rpi { uptr<ResetPlayerIndicator>(static_cast<ResetPlayerIndicator*>(hidden)) };
+  getPlayerIndicator(rpi->m_self, rpi->m_seat).reset();
 }
+
+struct UpdateTable {
+  Gui::Implementation& m_self;
+  phud::Rectangle m_tablePosition;
+  TableStatistics m_tableStatistics;
+
+  UpdateTable(Gui::Implementation& self, phud::Rectangle tablePosition , TableStatistics tableStatistics)
+    : m_self(self),
+    m_tablePosition(tablePosition),
+    m_tableStatistics(std::move(tableStatistics)) {}
+};
 
 /**
  * Updates the statistics of all the PlayerIndicators of the table.
  * Called periodically by another thread.
  */
 static inline void updateTableAwakeCb(void* hidden) {
-  auto [self, tablePosition, tableStatistics] { std::move(*revealArgs<Gui::Implementation&, phud::Rectangle, TableStatistics>(hidden)) };
-  const auto heroSeat { tableStatistics.getHeroSeat() };
-  const auto& seats { tableStatistics.getSeats() };
-  pa::forEach(seats, [&self, heroSeat, &tableStatistics, &tablePosition](auto seat) {
-    auto ps { tableStatistics.extractPlayerStatistics(seat) };
+  auto args { std::unique_ptr<UpdateTable>(static_cast<UpdateTable*>(hidden)) };
+  const auto heroSeat { args->m_tableStatistics.getHeroSeat() };
+  const auto& seats { args->m_tableStatistics.getSeats() };
+  for (const auto& seat : seats) {
+    auto ps { args->m_tableStatistics.extractPlayerStatistics(seat) };
 
     if (nullptr == ps) {
-      Fl::awake(resetPlayerIndicatorsAwakeCb, hideArgs(std::ref(self), seat));
-    } else {
+      Fl::awake(resetPlayerIndicatorsAwakeCb, new ResetPlayerIndicator(args->m_self, seat));
+    }
+    else {
       const auto& pos {
         (Seat::seatUnknown == heroSeat) ?
-          buildPlayerIndicatorPosition(seat, tableStatistics.getMaxSeat(), tablePosition)
-        : buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition)
+          buildPlayerIndicatorPosition(seat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
+        : buildPlayerIndicatorPosition(seat, heroSeat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
       };
-      Fl::awake(updatePlayerIndicatorsAwakeCb, hideArgs(std::ref(self), seat, pos, std::move(ps)));
+      Fl::awake(updatePlayerIndicatorsAwakeCb, new UpdatePlayerIndicators(args->m_self, seat, pos, std::move(ps)));
     }
-  });
+  }
 }
 
 static inline bool isLabelChooseTable(const Gui::Implementation& self) {
@@ -301,7 +338,7 @@ static inline void setChooseTableButtonLabelToChoose(Gui::Implementation& self) 
   self.m_chooseTableBtn->label(MainWindow::Label::chooseTable.data());
 }
 
-using ErrorOrRectangleAndName = ErrOrRes<Pair<phud::Rectangle, String>>;
+using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>>;
 /** Gets the current window absolute position,
  * ensures the process owning the window is the poker app,
  * gets the name of the window this position belongs to.
@@ -342,7 +379,7 @@ static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
     LOG.info<"Starting consuming stats.">();
     if (const auto& errMsg { self.m_app.startProducingStats(tableName,
       [&self, tablePosition](TableStatistics&& ts) {
-        Fl::awake(updateTableAwakeCb, hideArgs(std::ref(self), tablePosition, std::move(ts)));
+        Fl::awake(updateTableAwakeCb, new UpdateTable(self, tablePosition, std::move(ts)));
       }) }; !errMsg.empty()) {
       informUser(self, errMsg);
     }
@@ -354,7 +391,7 @@ static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
  * A table chooser, i.e. a dragndrop window that calls tableChooserCb when dropped somewhere.
  */
 struct [[nodiscard]] TableChooser : DragAndDropWindow {
-  TableChooser(Gui::Implementation& self, StringView label)
+  TableChooser(Gui::Implementation& self, std::string_view label)
     : DragAndDropWindow(MainWindow::Surface::getTableChooserRectangle(self.m_mainWindow->x(),
                         self.m_mainWindow->y(), self.m_chooseTableBtn->x()), label, [ & self](int x, int y) {
     tableChooserCb(self, x, y);
@@ -365,7 +402,7 @@ struct [[nodiscard]] TableChooser : DragAndDropWindow {
 * @returns the table chooser widget
 */
 [[nodiscard]] static inline uptr<TableChooser> buildTableChooser(
-  Gui::Implementation& self, StringView label) {
+  Gui::Implementation& self, std::string_view label) {
   LOG.debug<__func__>();
   auto ret { mkUptr<TableChooser>(self, label) };
   ret->color(FL_BLUE);
@@ -393,7 +430,7 @@ static inline void chooseTableCb(Fl_Widget* button, void* hiddenSelf) {
 }
 
 template<typename T> requires(std::same_as<T, const char*> or std::same_as<T, int>)
-static inline void saveToPreferences(Fl_Preferences& pref, StringView name, T&& value) {
+static inline void saveToPreferences(Fl_Preferences& pref, std::string_view name, T&& value) {
   if (0 == pref.set(name.data(), std::forward<decltype(value)>(value))) {
     LOG.error<"Couldn't save '{}' into the preferences repository.">(name);
   }
@@ -417,14 +454,19 @@ static inline void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   while (Fl::first_window()) { Fl::first_window()->hide(); }
 }
 
+struct NbFilesToLoad {
+  Fl_Progress* m_progressBar;
+  size_t m_nbFilesToLoad;
+};
+
 /**
  * Called by the GUI event loop when the history loader (another thread) notifies
  * of how many file will be loaded.
 */
 static inline void setNbFilesToLoadAwakeCb(void* hidden) {
   LOG.debug<__func__>();
-  auto [progressBar, nbFilesToLoad] { *revealArgs<Fl_Progress*, std::size_t>(hidden) };
-  progressBar->maximum(static_cast<float>(nbFilesToLoad));
+  auto args { std::unique_ptr<NbFilesToLoad>(static_cast<NbFilesToLoad*>(hidden)) };
+  args->m_progressBar->maximum(static_cast<float>(args->m_nbFilesToLoad));
 }
 
 /**
@@ -447,6 +489,15 @@ static inline void finishHistoryLoadingAwakeCb(void* hidden) {
   static_cast<Fl_Button*>(hidden)->activate();
 }
 
+struct ImportDir {
+  Gui::Implementation& m_self;
+  Path m_dir;
+
+  ImportDir(Gui::Implementation& self, Path dir)
+    : m_self(self),
+      m_dir(dir) {}
+};
+
 /**
  * Called by the GUI event loop when the user chosed a valid history dir.
  * Starts the import process.
@@ -458,16 +509,17 @@ static inline void finishHistoryLoadingAwakeCb(void* hidden) {
  */
 static inline void importDirAwakeCb(void* hidden) {
   LOG.debug<__func__>();
-  auto [self, dir] { *revealArgs<Gui::Implementation&, Path>(hidden) };
-  const auto& historyDir { dir.filename().string() };
+  auto args { std::unique_ptr<ImportDir>(static_cast<ImportDir*>(hidden)) };
+  const auto& historyDir { args->m_dir.filename().string() };
   LOG.info<"The import directory '{}' is valid">(historyDir);
   /* the string is copied in the widget internal buffer*/
-  self.m_histoDirTextField->copy_label(historyDir.c_str());
-  self.m_progressBar->activate();
+  args->m_self.m_histoDirTextField->copy_label(historyDir.c_str());
+  args->m_self.m_progressBar->activate();
   LOG.info<"importing history">();
-  self.m_app.importHistory(dir,
+  auto& self { args->m_self };
+  args->m_self.m_app.importHistory(args->m_dir,
   [&self]() { Fl::awake(incrementProgressBarAwakeCb, self.m_progressBar); },
-  [&self](std::size_t nbFilesToLoad) { Fl::awake(setNbFilesToLoadAwakeCb, hideArgs(self.m_progressBar, nbFilesToLoad)); },
+  [&self](std::size_t nbFilesToLoad) { Fl::awake(setNbFilesToLoadAwakeCb, new NbFilesToLoad(self.m_progressBar, nbFilesToLoad)); },
   [&self]() { Fl::awake(finishHistoryLoadingAwakeCb, self.m_chooseTableBtn); });
 }
 
@@ -489,7 +541,7 @@ static inline void choseHistoDirCb(Fl_Widget*, void* hiddenSelf) {
       if (AppInterface::isValidHistory(dir)) {
         saveToPreferences(*self.m_preferences, MainWindow::Label::preferencesKeyChosenDir,
                           dir.string().c_str()); // to get const char*
-        Fl::awake(importDirAwakeCb, hideArgs(std::ref(self), dir));
+        Fl::awake(importDirAwakeCb, new ImportDir(self, dir));
       } else {
         LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());
         informUser(self, MainWindow::Label::invalidChoice);
@@ -507,7 +559,7 @@ static inline void choseHistoDirCb(Fl_Widget*, void* hiddenSelf) {
   }
 }
 
-static inline Pair<int, int> getMainWindowPosition(Fl_Preferences& preferences) {
+static inline std::pair<int, int> getMainWindowPosition(Fl_Preferences& preferences) {
   /* get the previous width and height from preferences, if any */
   int width, height;
   preferences.get(MainWindow::Label::width.data(), width, MainWindow::Surface::mainWindow.w);
@@ -631,7 +683,7 @@ Gui::~Gui() = default;
 /**
  * Displays the given msg in the info bar.
  */
-void Gui::informUser(StringView msg) {
+void Gui::informUser(std::string_view msg) {
   ::informUser(*m_pImpl, msg);
 }
 

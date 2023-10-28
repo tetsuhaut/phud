@@ -33,15 +33,15 @@ static inline void seekToDealingDownCards(TextFile& tf) {
   while (!tf.startsWith("** Dealing down cards **")) { tf.next(); }
 }
 
-[[nodiscard]] static inline String readHandId(StringView line) {
-  return String { line.substr(HAND_HISTORY_FOR_GAME_SIZE, line.rfind(" *****") - HAND_HISTORY_FOR_GAME_SIZE) };
+[[nodiscard]] static inline std::string readHandId(std::string_view line) {
+  return std::string { line.substr(HAND_HISTORY_FOR_GAME_SIZE, line.rfind(" *****") - HAND_HISTORY_FOR_GAME_SIZE) };
 }
 
 [[nodiscard]] bool isDigit(const auto& someGenericChar) { return 0 != std::isdigit(someGenericChar); }
 
 // smallBlind, bigBlind, startDate, limit, variant
 [[nodiscard]] static inline Tuple<double, double, Time, Limit, Variant>
-getInfosFromCashGamePmuPokerLine(StringView line) {
+getInfosFromCashGamePmuPokerLine(std::string_view line) {
   // €0.01/€0.02 EUR NL Texas Hold'em - Tuesday, September 21, 10:45:33 CEST 2021
   const auto smallBlindPos { line.find_first_of(".0123456789", 1) };
   const auto bigBlindPos { line.find_first_of(".0123456789", line.find('/') + 1) };
@@ -49,7 +49,7 @@ getInfosFromCashGamePmuPokerLine(StringView line) {
   const auto bigBlind { ps::toAmount(line.substr(bigBlindPos, line.find(' '))) };
   const auto limit { ps::contains(line, " NL ") ? Limit::noLimit : Limit::potLimit };
   const auto variant { ps::contains(line, " Texas Hold'em ") ? Variant::holdem : Variant::omaha };
-  String dateStr { line.substr(line.find(" - ") + ps::length(" - ")) };
+  std::string dateStr { line.substr(line.find(" - ") + ps::length(" - ")) };
   // remove the timezone as it is not parsable as of today
   const auto lastSpacePos { dateStr.rfind(' ') };
   const auto secondLastSpacePos { dateStr.rfind(' ', lastSpacePos - 1) };
@@ -61,17 +61,17 @@ getInfosFromCashGamePmuPokerLine(StringView line) {
 static constexpr auto TABLE_LENGTH { ps::length("Table ") };
 
 // tableName, isRealMoney
-[[nodiscard]] static inline Pair<String, bool> parseTableLine(StringView line) {
-  const String tableName { line.substr(TABLE_LENGTH, line.find(" (") - TABLE_LENGTH) };
+[[nodiscard]] static inline std::pair<std::string, bool> parseTableLine(std::string_view line) {
+  const std::string tableName { line.substr(TABLE_LENGTH, line.find(" (") - TABLE_LENGTH) };
   return { tableName, line.ends_with("(Real Money)") };
 }
 
-[[nodiscard]] static inline Seat parseButtonSeatLine(StringView line) {
+[[nodiscard]] static inline Seat parseButtonSeatLine(std::string_view line) {
   return tableSeat::fromString(line.substr(SEAT_LENGTH,
                                line.find(" is the button") - SEAT_LENGTH));
 }
 
-[[nodiscard]] static inline Seat parseTotalNumberOfPlayersLine(StringView line) {
+[[nodiscard]] static inline Seat parseTotalNumberOfPlayersLine(std::string_view line) {
   return tableSeat::fromString(line.substr(line.find('/') + 1));
 }
 
@@ -79,7 +79,7 @@ static constexpr auto TABLE_LENGTH { ps::length("Table ") };
   return 0; // TODO
 }
 
-[[nodiscard]] static std::array<Card, 5> parseCards(StringView line, StringView cardDelimiter) {
+[[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line, std::string_view cardDelimiter) {
   // [  Jd 3c ] (yep, 2 spaces) or [ 4h, 3h, Jh ] or [ Kh ]
   const auto pos { line.find_first_not_of(" ", line.rfind('[') + 1) };
   const auto strCards { line.substr(pos, line.rfind(" ]") - pos) };
@@ -92,7 +92,7 @@ static constexpr auto TABLE_LENGTH { ps::length("Table ") };
 static constexpr std::array<Card, 5> FIVE_NONE_CARDS { Card::none, Card::none, Card::none, Card::none, Card::none };
 static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
 
-[[nodiscard]] static constexpr std::array<Card, 5> parseHeroCards(StringView line,
+[[nodiscard]] static constexpr std::array<Card, 5> parseHeroCards(std::string_view line,
     PlayerCache& cache) {
   // it is possible that hero is present at the table but do not play
   if (line.starts_with("Dealt to ")) {
@@ -105,7 +105,7 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
   return FIVE_NONE_CARDS;
 }
 
-[[nodiscard]] static inline Pair<Street, std::array<Card, 5>> parseStreet(StringView line) {
+[[nodiscard]] static inline std::pair<Street, std::array<Card, 5>> parseStreet(std::string_view line) {
   if (line.starts_with("** Dealing Flop **")) {
     return { Street::flop, parseCards(line, ", ") };
   } else if (line.starts_with("** Dealing Turn **")) {
@@ -121,9 +121,9 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
   return { Street::preflop, FIVE_NONE_CARDS };
 }
 
-[[nodiscard]] static inline std::optional<Tuple<StringView, ActionType, double>>
-parseLineForActionParams(StringView line) {
-  std::optional < Tuple<StringView, ActionType, double>> ret {};
+[[nodiscard]] static inline std::optional<Tuple<std::string_view, ActionType, double>>
+parseLineForActionParams(std::string_view line) {
+  std::optional < Tuple<std::string_view, ActionType, double>> ret {};
 
   // TODO factoriser
   if (line.ends_with(" folds")) {
@@ -147,11 +147,11 @@ parseLineForActionParams(StringView line) {
   return ret;
 }
 
-static constexpr std::array<StringView, 8> ACTION_TOKENS { " folds", " checks", " bets ", " calls ", " raises ", " is all-In ", " shows ", " doesn't show " };
+static constexpr std::array<std::string_view, 8> ACTION_TOKENS { " folds", " checks", " bets ", " calls ", " raises ", " is all-In ", " shows ", " doesn't show " };
 
-[[nodiscard]] static inline Vector<uptr<Action>>
-parseActions(TextFile& tf, Street street, StringView handId) {
-  Vector<uptr<Action>> actions;
+[[nodiscard]] static inline std::vector<uptr<Action>>
+parseActions(TextFile& tf, Street street, std::string_view handId) {
+  std::vector<uptr<Action>> actions;
 
   while (tf.containsOneOf(ACTION_TOKENS)) {
     const auto& line { tf.getLine() };
@@ -173,12 +173,12 @@ parseActions(TextFile& tf, Street street, StringView handId) {
   return actions;
 }
 
-[[nodiscard]] static inline std::array<String, 10> parseWinners(TextFile& tf) {
-  std::array<String, 10> winners;
-  auto pos { String::npos };
+[[nodiscard]] static inline std::array<std::string, 10> parseWinners(TextFile& tf) {
+  std::array<std::string, 10> winners;
+  auto pos { std::string::npos };
   std::size_t i { 0 };
 
-  while (String::npos != (pos = tf.find(" wins "))) {
+  while (std::string::npos != (pos = tf.find(" wins "))) {
     winners.at(i++) = tf.getLine().substr(0, pos);
     tf.next();
   }
@@ -186,10 +186,10 @@ parseActions(TextFile& tf, Street street, StringView handId) {
   return winners;
 }
 
-[[nodiscard]] static inline Vector<uptr<Action>> createActionForWinnersWithoutAction(
-Span<const String> winners, Span<uptr<Action>> actions, Street street, StringView handId) {
-  Vector<uptr<Action>> ret;
-  pa::forEach(winners, [&](StringView winner) {
+[[nodiscard]] static inline std::vector<uptr<Action>> createActionForWinnersWithoutAction(
+std::span<const std::string> winners, std::span<uptr<Action>> actions, Street street, std::string_view handId) {
+  std::vector<uptr<Action>> ret;
+  pa::forEach(winners, [&](std::string_view winner) {
     if (!winner.empty() and !pa::containsIf(actions, [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
       ret.push_back(mkUptr<Action>(Action::Params {
         .handId = handId,
@@ -223,10 +223,10 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
 }
 
 // actions, winners,board cards
-[[nodiscard]] static inline Tuple<Vector<uptr<Action>>, std::array<String, 10>, std::array<Card, 5>>
-parseActionsAndWinnersAndBoardCards(TextFile& tf, StringView handId) {
+[[nodiscard]] static inline Tuple<std::vector<uptr<Action>>, std::array<std::string, 10>, std::array<Card, 5>>
+parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
   LOG.debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
-  Vector<uptr<Action>> actions;
+  std::vector<uptr<Action>> actions;
   std::array boardCards { FIVE_NONE_CARDS };
   Street lastStreet { Street::none };
 
@@ -252,7 +252,7 @@ parseActionsAndWinnersAndBoardCards(TextFile& tf, StringView handId) {
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
 // nbMaxSeats, tableName, buttonSeat
-Tuple<int, String, int> getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
+Tuple<int, std::string, int> getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
   tf.next();
   const auto& line { tf.getLine() };
   LOG.debug<"Parsing table line {}.">(line);
@@ -274,7 +274,7 @@ Tuple<int, String, int> getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& 
 
 template<GameType gameType>
 [[nodiscard]] static inline uptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
-    int level, const Time& date, StringView handId) {
+    int level, const Time& date, std::string_view handId) {
   LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
   const auto& seatPlayers { parseSeats(tf, cache) };
@@ -320,7 +320,7 @@ uptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/, PlayerCache& /*
   return nullptr;
 }
 
-Pair<uptr<Hand>, uptr<GameData>> PmuHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
+std::pair<uptr<Hand>, uptr<GameData>> PmuHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
 PlayerCache& cache) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
@@ -355,7 +355,7 @@ PlayerCache& cache) {
   return { std::move(pHand), std::move(pGameData) };
 }
 
-Pair<uptr<Hand>, uptr<GameData>> PmuHandBuilder::buildTournamentHandAndGameData(TextFile& /*tf*/,
+std::pair<uptr<Hand>, uptr<GameData>> PmuHandBuilder::buildTournamentHandAndGameData(TextFile& /*tf*/,
 PlayerCache& /*cache*/) {
   //LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   //const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };

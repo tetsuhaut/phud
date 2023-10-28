@@ -8,7 +8,7 @@ BOOST_AUTO_TEST_SUITE(ProgramArgumentsTest)
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpShortParamShouldDisplayHelp) {
   const char* argv[] { "thisProgram.exe", "-h" };
-  String msg;
+  std::string msg;
 
   try {
     (void)parseProgramArguments(argv);

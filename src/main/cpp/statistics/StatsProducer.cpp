@@ -11,8 +11,8 @@ static Logger LOG { CURRENT_FILE_NAME };
 
 struct [[nodiscard]] StatsProducer::Implementation final {
   PeriodicTask m_task;
-  String m_site;
-  String m_table;
+  std::string m_site;
+  std::string m_table;
   const Database& m_db;
 
   Implementation(const StatsProducerArgs& args)

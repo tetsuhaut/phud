@@ -1,4 +1,4 @@
-#include "language/PhudException.hpp" // StringView, std::string
+#include "language/PhudException.hpp" // std::string_view, std::string
 
 #if defined(__MINGW32__) // removal of specific gcc warnings due to Boost
 #  pragma GCC diagnostic push
@@ -16,10 +16,10 @@
 
 #include <sstream> // std::ostringstream
 
-[[nodiscard]] static inline std::string buildMsg(StringView msg) {
+[[nodiscard]] static inline std::string buildMsg(std::string_view msg) {
   std::ostringstream oss;
   oss << '\n' << msg << " at " << boost::stacktrace::stacktrace() << '\n';
   return oss.str();
 }
 
-PhudException::PhudException(StringView msg) : std::runtime_error(buildMsg(msg)) {}
+PhudException::PhudException(std::string_view msg) : std::runtime_error(buildMsg(msg)) {}

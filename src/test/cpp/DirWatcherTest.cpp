@@ -18,7 +18,7 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   tmpFile.print("yop");
   BOOST_REQUIRE(1 == pf::listTxtFilesInDir(tmpDir.path()).size());
   DirWatcher dw { WATCH_PERIOD, tmpDir.path() };
-  Vector<String> changedFiles;
+  std::vector<std::string> changedFiles;
   ConditionVariable cv;
   dw.start([&](const Path & file) {
     changedFiles.push_back(file.stem().string());

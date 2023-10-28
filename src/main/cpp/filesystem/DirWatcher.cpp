@@ -1,5 +1,5 @@
 #include "containers/algorithms.hpp" // forEach
-#include "containers/Map.hpp"
+#include <unordered_map>
 #include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, Path, String, toString
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
@@ -10,7 +10,7 @@
 namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
-using FileTimes = Map<String, FileTime>;
+using FileTimes = std::unordered_map<std::string, FileTime>;
 
 static Logger LOG { CURRENT_FILE_NAME };
 

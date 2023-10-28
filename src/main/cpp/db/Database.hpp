@@ -1,11 +1,11 @@
 #pragma once
 
-#include "containers/Span.hpp"
-#include "containers/Vector.hpp"
 #include "entities/Seat.hpp"
-#include "language/PhudException.hpp" // StringView
-#include "strings/String.hpp"
+#include "language/PhudException.hpp" // std::string_view
+#include "strings/StringUtils.hpp"
 #include "system/memory.hpp" // uptr
+
+#include <span>
 
 // forward declarations
 class CashGame;
@@ -36,7 +36,7 @@ public:
   * @throws DatabaseException in case of problem getting the query SQL code or opeing the database
   * file.
   */
-  explicit Database(StringView name);
+  explicit Database(std::string_view name);
 
   // if we define a default constructor and destructor, we should define all of the default operations
   Database(const Database&) = delete;
@@ -48,20 +48,20 @@ public:
   void save(const Site& site);
   void save(const CashGame& game);
   void save(const Tournament& game);
-  void save(Span<const Player* const> players);
+  void save(std::span<const Player* const> players);
   // exported for unit tests
-  [[nodiscard]] uptr<PlayerStatistics> readPlayerStatistics(StringView sn,
-      StringView playerName) const;
+  [[nodiscard]] uptr<PlayerStatistics> readPlayerStatistics(std::string_view sn,
+      std::string_view playerName) const;
   /**
    * Retrieves the stats for each player of a given table.
    */
-  struct [[nodiscard]] ReadTableStatisticsArgs final { StringView site; StringView table; };
+  struct [[nodiscard]] ReadTableStatisticsArgs final { std::string_view site; std::string_view table; };
   [[nodiscard]] TableStatistics readTableStatistics(const ReadTableStatisticsArgs& args) const;
-  [[nodiscard]] String getDbName() const noexcept;
+  [[nodiscard]] std::string getDbName() const noexcept;
   [[nodiscard]] bool isInMemory() const noexcept;
 
   // for unit testing
-  [[nodiscard]] Seat getTableMaxSeat(StringView site, StringView table) const;
+  [[nodiscard]] Seat getTableMaxSeat(std::string_view site, std::string_view table) const;
 }; // class Database
 
 class [[nodiscard]] DatabaseException final : public PhudException {

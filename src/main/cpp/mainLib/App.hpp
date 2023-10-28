@@ -12,7 +12,7 @@ private:
   uptr<Implementation> m_pImpl;
 
 public:
-  explicit App(StringView);
+  explicit App(std::string_view);
   App(const App&) = delete;
   App(App&&) = delete;
   App& operator=(const App&) = delete;
@@ -36,7 +36,7 @@ public:
   /**
    * @return true if it has started
    */
-  String startProducingStats(StringView table, std::function<void(TableStatistics&& ts)> observer) override;
+  std::string startProducingStats(std::string_view table, std::function<void(TableStatistics&& ts)> observer) override;
 
   void stopProducingStats() override;
 }; // class App

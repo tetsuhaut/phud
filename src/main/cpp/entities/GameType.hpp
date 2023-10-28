@@ -1,7 +1,7 @@
 #pragma once
 
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 
 enum class [[nodiscard]] GameType : short { none, cashGame, tournament };
 
-[[nodiscard]] StringView toString(GameType gt);
+[[nodiscard]] std::string_view toString(GameType gt);

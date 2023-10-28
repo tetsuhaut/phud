@@ -1,6 +1,5 @@
 #pragma once
 
-#include "containers/Vector.hpp"
 #include "entities/Seat.hpp"
 #include "system/memory.hpp" // uptr
 #include <array>
@@ -15,7 +14,7 @@ struct [[nodiscard]] TableStatistics final {
 
   [[nodiscard]] constexpr Seat getMaxSeat() const noexcept { return m_maxSeats; }
 
-  [[nodiscard]] Vector<Seat> getSeats();
+  [[nodiscard]] std::vector<Seat> getSeats();
 
   /**
    * @returns the hero seat. 0 if error, else between 1 and 10 included.

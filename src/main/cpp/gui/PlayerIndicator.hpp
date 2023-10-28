@@ -1,9 +1,10 @@
 #pragma once
 
-#include "containers/Pair.hpp"
 #include "gui/DragAndDropWindow.hpp"
-#include "strings/String.hpp" // String, StringView
+#include "strings/StringUtils.hpp" // String, std::string_view
 #include "system/memory.hpp" // uptr
+
+#include <utility> // std::pair
 
 // forward declarations
 class Fl_Box;
@@ -18,7 +19,7 @@ private:
   uptr<Fl_Box> m_textPlayerName;
 
 public:
-  PlayerIndicator(const Pair<int, int>& position, StringView playerName);
+  PlayerIndicator(const std::pair<int, int>& position, std::string_view playerName);
   PlayerIndicator(const PlayerIndicator&) = delete;
   PlayerIndicator(PlayerIndicator&&) = delete;
   PlayerIndicator& operator=(const PlayerIndicator&) = delete;
@@ -27,7 +28,7 @@ public:
 
   void setStats(const PlayerStatistics& ps);
 
-  String getPlayerName() const;
+  std::string getPlayerName() const;
 
-  void refresh(StringView playerName);
+  void refresh(std::string_view playerName);
 }; // class PlayerIndicator

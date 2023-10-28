@@ -22,7 +22,7 @@ namespace ps = phud::strings;
 
 constexpr static std::array FIVE_NONE_CARDS { Card::none, Card::none, Card::none, Card::none, Card::none };
 
-[[nodiscard]] static std::array<Card, 5> parseCards(StringView line) {
+[[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line) {
   const auto pos { line.rfind('[') + 1 };
   const auto strCards { line.substr(pos, line.rfind(']') - pos) };
   const auto& cardsStr { split(strCards, " ") };
@@ -35,8 +35,8 @@ static constexpr auto MINUS_LENGTH { ps::length(" - ") }; // nb char without '\0
 static constexpr auto HAND_ID_LENGTH { ps::length(" - HandId: #") }; // nb char without '\0
 
 // Returns the HandId position, the Hand start time and the Hand Id
-[[nodiscard]] static inline Tuple<std::size_t, Time, String> parseStartOfWinamaxPokerLine(
-  StringView line) {
+[[nodiscard]] static inline Tuple<std::size_t, Time, std::string> parseStartOfWinamaxPokerLine(
+  std::string_view line) {
   // "^Winamax Poker - .* - HandId: #(.*) .*  - (.*) UTC$"
   if (!line.starts_with("Winamax Poker")) { throw "a Winamax poker line should start with 'Winamax Poker'"; }
 
@@ -49,14 +49,14 @@ static constexpr auto HAND_ID_LENGTH { ps::length(" - HandId: #") }; // nb char 
   const Time handStartDate({ .strTime = line.substr(datePos, line.rfind(' ') - datePos), .format = WINAMAX_HISTORY_TIME_FORMAT });
   const auto handIdPos { line.find(" - HandId: #") + HAND_ID_LENGTH };
   const auto handId { line.substr(handIdPos, line.find(" - ", handIdPos) - handIdPos) };
-  return { handIdPos, handStartDate, String(handId) };
+  return { handIdPos, handStartDate, std::string(handId) };
 }
 
 static constexpr auto BUY_IN_LENGTH { ps::length(" buyIn: ") }; // nb char without '\0
 static constexpr auto LEVEL_LENGTH { ps::length(" level: ") }; // nb char without '\0
 
-[[nodiscard]] static inline Tuple<double, int, Time, String>
-getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(StringView line) {
+[[nodiscard]] static inline Tuple<double, int, Time, std::string>
+getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   const auto& [handIdPos, handStartDate, handId] { parseStartOfWinamaxPokerLine(line) };
   // "^Winamax Poker - .* buyIn: (.*) level: (.*) - HandId: #(.*) - .* - (.*) UTC$"
   const auto buyInPos { line.find(" buyIn: ") + BUY_IN_LENGTH };
@@ -66,8 +66,8 @@ getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(StringView line) {
   return { buyIn, level, handStartDate, handId };
 }
 
-[[nodiscard]] static inline Tuple<int, Time, String>
-getLevelDateHandIdFromTournamentWinamaxPokerLine(StringView line) {
+[[nodiscard]] static inline Tuple<int, Time, std::string>
+getLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   const auto& [handIdPos, handStartDate, handId] { parseStartOfWinamaxPokerLine(line) };
   // "^Winamax Poker - .* buyIn: (.*) level: (.*) - HandId: #(.*) - .* - (.*) UTC$"
   const auto levelPos { line.find(" level: ") + LEVEL_LENGTH };
@@ -75,8 +75,8 @@ getLevelDateHandIdFromTournamentWinamaxPokerLine(StringView line) {
   return { level, handStartDate, handId };
 }
 
-[[nodiscard]] static inline Tuple<double, double, Time, String>
-getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(StringView line) {
+[[nodiscard]] static inline Tuple<double, double, Time, std::string>
+getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(std::string_view line) {
   const auto& [_, handStartDate, handId] { parseStartOfWinamaxPokerLine(line) };
   // "^Winamax Poker - .* - HandId: #(.*) - .* \\((.*)/(.*)\\) - (.*) UTC$"
   const auto smallBlindPos { line.find('(') + 1 };
@@ -139,7 +139,7 @@ static constexpr auto TABLE_LENGTH { ps::length("Table: '") };
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
 // returns nbMaxSeats, tableName, buttonSeat
-[[nodiscard]] static inline Tuple<Seat, String, Seat> getNbMaxSeatsTableNameButtonSeatFromTableLine(
+[[nodiscard]] static inline Tuple<Seat, std::string, Seat> getNbMaxSeatsTableNameButtonSeatFromTableLine(
   TextFile& tf) {
   tf.next();
   const auto& line { tf.getLine() };
@@ -167,7 +167,7 @@ static constexpr auto POSTS_ANTE_LENGTH { ps::length(" posts ante ") };
   // "^(.*) posts m_ante (.*).*$"
   long ret = 0;
 
-  if (const auto posAnte { tf.find(" posts ante ") }; String::npos != posAnte) {
+  if (const auto posAnte { tf.find(" posts ante ") };  std::string::npos != posAnte) {
     ret = ps::toInt(tf.getLine().substr(posAnte + POSTS_ANTE_LENGTH));
   }
 
@@ -176,9 +176,9 @@ static constexpr auto POSTS_ANTE_LENGTH { ps::length(" posts ante ") };
   return ret;
 }
 
-[[nodiscard]] static inline std::optional<Tuple<StringView, ActionType, double>>
-parseLineForActionParams(StringView line) {
-  std::optional<Tuple<StringView, ActionType, double>> ret {};
+[[nodiscard]] static inline std::optional<Tuple<std::string_view, ActionType, double>>
+parseLineForActionParams(std::string_view line) {
+  std::optional<Tuple<std::string_view, ActionType, double>> ret {};
 
   if (line.ends_with(" folds")) {
     ret = { line.substr(0, line.rfind(' ')), ActionType::fold, 0.0 };
@@ -201,11 +201,11 @@ parseLineForActionParams(StringView line) {
   return ret;
 }
 
-static constexpr std::array<StringView, 6> ACTION_TOKENS { " folds", " checks", " bets ", " calls ", " raises ", " shows " };
+static constexpr std::array<std::string_view, 6> ACTION_TOKENS { " folds", " checks", " bets ", " calls ", " raises ", " shows " };
 
-[[nodiscard]] static inline Vector<uptr<Action>> parseActions(TextFile& tf, Street street,
-StringView handId) {
-  Vector<uptr<Action>> actions;
+[[nodiscard]] static inline std::vector<uptr<Action>> parseActions(TextFile& tf, Street street,
+std::string_view handId) {
+  std::vector<uptr<Action>> actions;
 
   while (tf.containsOneOf(ACTION_TOKENS)) {
     const auto& line { tf.getLine() };
@@ -227,12 +227,12 @@ StringView handId) {
   return actions;
 }
 
-[[nodiscard]] static inline std::array<String, 10> parseWinners(TextFile& tf) {
-  std::array<String, 10> winners;
-  auto pos { String::npos };
+[[nodiscard]] static inline std::array<std::string, 10> parseWinners(TextFile& tf) {
+  std::array<std::string, 10> winners;
+  auto pos {  std::string::npos };
   std::size_t i { 0 };
 
-  while (String::npos != (pos = tf.find(" collected "))) {
+  while ( std::string::npos != (pos = tf.find(" collected "))) {
     winners.at(i++) = tf.getLine().substr(0, pos);
     tf.next();
   }
@@ -240,10 +240,10 @@ StringView handId) {
   return winners;
 }
 
-[[nodiscard]] static inline Vector<uptr<Action>> createActionForWinnersWithoutAction(
-Span<String> winners, Span<uptr<Action>> actions, Street street, StringView handId) {
-  Vector<uptr<Action>> ret;
-  pa::forEach(winners, [&](StringView winner) {
+[[nodiscard]] static inline std::vector<uptr<Action>> createActionForWinnersWithoutAction(
+std::span<std::string> winners, std::span<uptr<Action>> actions, Street street, std::string_view handId) {
+  std::vector<uptr<Action>> ret;
+  pa::forEach(winners, [&](std::string_view winner) {
     if (!winner.empty() and !pa::containsIf(actions, [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
       ret.push_back(mkUptr<Action>(Action::Params {
         .handId = handId,
@@ -257,10 +257,10 @@ Span<String> winners, Span<uptr<Action>> actions, Street street, StringView hand
   return ret;
 }
 
-[[nodiscard]] static inline Pair<Vector<uptr<Action>>, std::array<String, 10>>
-parseActionsAndWinners(TextFile& tf, StringView handId) {
+[[nodiscard]] static inline std::pair<std::vector<uptr<Action>>, std::array<std::string, 10>>
+parseActionsAndWinners(TextFile& tf, std::string_view handId) {
   LOG.debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
-  Vector<uptr<Action>> actions;
+  std::vector<uptr<Action>> actions;
   Street currentStreet = Street::none;
 
   while (!tf.contains(" collected ")) {
@@ -277,7 +277,7 @@ parseActionsAndWinners(TextFile& tf, StringView handId) {
 
 template<GameType gameType>
 [[nodiscard]] static inline uptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
-    int level, const Time& date, StringView handId) {
+    int level, const Time& date, std::string_view handId) {
   LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
   const auto& seatPlayers { parseSeats(tf, cache) };
@@ -306,7 +306,7 @@ uptr<Hand> WinamaxHandBuilder::buildTournamentHand(TextFile& tf, PlayerCache& pc
   return getHand<GameType::tournament>(tf, pc, level, date, handId);
 }
 
-Pair<uptr<Hand>, uptr<GameData>> WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
+std::pair<uptr<Hand>, uptr<GameData>> WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
 PlayerCache& pc) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   const auto& [smallBlind, bigBlind, date, handId] { getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(tf.getLine()) };
@@ -314,7 +314,7 @@ PlayerCache& pc) {
   return { std::move(pHand), mkUptr<GameData>(GameData::Args{.nbMaxSeats = pHand->getMaxSeats(), .smallBlind = smallBlind, .bigBlind = bigBlind, .buyIn = 0, .startDate = pHand->getStartDate() }) };
 }
 
-Pair<uptr<Hand>, uptr<GameData>> WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf,
+std::pair<uptr<Hand>, uptr<GameData>> WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf,
 PlayerCache& pc) {
   LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };

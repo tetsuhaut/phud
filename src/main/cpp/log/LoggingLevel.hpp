@@ -1,5 +1,5 @@
 #pragma once
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 
 enum class /*[[nodiscard]]*/ LoggingLevel : short {
   none,
@@ -11,6 +11,6 @@ enum class /*[[nodiscard]]*/ LoggingLevel : short {
   critical
 };
 
-[[nodiscard]] LoggingLevel toLoggingLevel(StringView sv);
+[[nodiscard]] LoggingLevel toLoggingLevel(std::string_view sv);
 
-[[nodiscard]] StringView toString(LoggingLevel l);
+[[nodiscard]] std::string_view toString(LoggingLevel l);

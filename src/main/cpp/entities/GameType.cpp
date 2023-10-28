@@ -6,11 +6,11 @@
 namespace pa = phud::algorithms;
 
 static constexpr auto ENUM_TO_STRING {
-  frozen::make_unordered_map<GameType, StringView>({
+  frozen::make_unordered_map<GameType, std::string_view>({
     { GameType::cashGame, "cashGame" }, { GameType::tournament, "tournament" }
   })
 };
 
-StringView toString(GameType gt) {
+std::string_view toString(GameType gt) {
   return pa::getValueFromKey(ENUM_TO_STRING, gt);
 }

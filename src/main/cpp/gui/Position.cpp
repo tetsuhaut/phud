@@ -7,7 +7,7 @@
 
 namespace pa = phud::algorithms;
 
-[[nodiscard]] static constexpr Pair<double, double> mkPair(double x, double y) noexcept {
+[[nodiscard]] static constexpr std::pair<double, double> mkPair(double x, double y) noexcept {
   return std::make_pair(x, y);
 }
 static constexpr auto ZERO { mkPair(0, 0) };
@@ -15,7 +15,7 @@ static constexpr auto ZERO { mkPair(0, 0) };
 // TODO: mauvaises positions pour 3
 /* The position of seats, if the window size is 1 x 1 */
 static constexpr auto NB_SEATS_TO_COEFF {
-  frozen::make_unordered_map<Seat, std::array<Pair<double, double>, 10>>({
+  frozen::make_unordered_map<Seat, std::array<std::pair<double, double>, 10>>({
     { Seat::seatTwo,  { mkPair(0.5, 0),        mkPair(0.5, 1.0),      ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO } },
     { Seat::seatThree,  { mkPair(0.3333, 0.3333), mkPair(0.6666, 0.3333), mkPair(0.5, 1),      ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO } },
     { Seat::seatFour,  { mkPair(0.25, 0.25),    mkPair(0.75, 0.25),    mkPair(0.75, 0.75),  mkPair(0.25, 0.75),  ZERO, ZERO, ZERO, ZERO, ZERO, ZERO } },
@@ -33,8 +33,9 @@ static constexpr auto NB_SEATS_TO_COEFF {
 * -1 < seat < tableMaxSeats
 * 1 < tableMaxSeats < 11
 */
-[[nodiscard]] Pair<int, int> buildPlayerIndicatorPosition(Seat seat,
+[[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat,
     Seat tableMaxSeats, const phud::Rectangle& tablePos) {
+  assert(seat <= tableMaxSeats);
   const auto [coefX, coefY] { pa::getValueFromKey(NB_SEATS_TO_COEFF, tableMaxSeats).at(tableSeat::toArrayIndex(seat)) };
   return { limits::toInt(tablePos.x + coefX * tablePos.w), limits::toInt(tablePos.y + coefY * tablePos.h) };
 }
@@ -45,8 +46,10 @@ static constexpr auto NB_SEATS_TO_COEFF {
 * 1 < tableMaxSeats < 11
 */
 // exported for unit testing
-/*[[nodiscard]] static inline*/ Pair<int, int> buildPlayerIndicatorPosition(Seat seat_a,
+/*[[nodiscard]] static inline*/ std::pair<int, int> buildPlayerIndicatorPosition(Seat seat_a,
     Seat heroSeat, Seat tableMaxSeats, const phud::Rectangle& tablePos) {
+  assert(seat_a <= tableMaxSeats);
+  assert(heroSeat <= tableMaxSeats);
   // hero is always positionned at the bottom of the table
   const auto max { tableSeat::toInt(tableMaxSeats) };
   const auto seatTmp { tableSeat::toInt(seat_a) + max - tableSeat::toInt(heroSeat) };

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "entities/Game.hpp" // String, StringView, Time, Variant, Limit
+#include "entities/Game.hpp" // String, std::string_view, Time, Variant, Limit
 #include "entities/Seat.hpp"
 
 struct [[nodiscard]] GameData final {
@@ -11,8 +11,8 @@ struct [[nodiscard]] GameData final {
   double m_smallBlind { 0 };
   double m_bigBlind { 0 };
   double m_buyIn { 0 };
-  String m_tableName {};
-  String m_gameName {};
+  std::string m_tableName {};
+  std::string m_gameName {};
   Time m_startDate;
 
   struct [[nodiscard]] Args final {

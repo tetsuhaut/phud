@@ -2,8 +2,8 @@
 #include "history/PokerSiteHandBuilder.hpp"
 #include "threads/PlayerCache.hpp"
 
-[[nodiscard]] /*static*/ std::array<String, 10> parseSeats(TextFile& tf, PlayerCache& /*cache*/) {
-  std::array<String, 10> ret;
+[[nodiscard]] /*static*/ std::array<std::string, 10> parseSeats(TextFile& tf, PlayerCache& /*cache*/) {
+  std::array<std::string, 10> ret;
 
   while (tf.startsWith("Seat ")) {
     const auto& line { tf.getLine() };
@@ -21,11 +21,11 @@
 
 // splits the given str into tokens, separated by delimiters.
 // We assume there are always 5 tokens
-[[nodiscard]] /*static*/ std::array<StringView, 5> split(StringView str, StringView delimiter) {
-  std::array<StringView, 5> ret { "none", "none", "none", "none", "none" };
+[[nodiscard]] /*static*/ std::array<std::string_view, 5> split(std::string_view str, std::string_view delimiter) {
+  std::array<std::string_view, 5> ret { "none", "none", "none", "none", "none" };
   std::size_t offset = 0, delimiterPosition = 0, arrayIndex = 0;
 
-  while (StringView::npos != (delimiterPosition = str.find(delimiter, offset))) {
+  while (std::string_view::npos != (delimiterPosition = str.find(delimiter, offset))) {
     ret.at(arrayIndex) = str.substr(offset, delimiterPosition - offset);
     offset = delimiterPosition + delimiter.size();
     arrayIndex++;

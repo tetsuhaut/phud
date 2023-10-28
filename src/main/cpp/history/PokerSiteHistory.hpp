@@ -29,10 +29,10 @@ public:
   uptr<Site> reloadFile(auto) = delete;
   [[nodiscard]] static bool isValidHistory(const Path& historyDir);
   static bool isValidHistory(auto historyDir) = delete;
-  [[nodiscard]] virtual StringView getTableNameFromTableWindowTitle(StringView tableWindowTitle) const
+  [[nodiscard]] virtual std::string_view getTableNameFromTableWindowTitle(std::string_view tableWindowTitle) const
     = 0;
   [[nodiscard]] virtual Path getHistoryFileFromTableWindowTitle(const Path& historyDir,
-      StringView tableWindowTitle) const = 0;
+      std::string_view tableWindowTitle) const = 0;
   Path getHistoryFileFromTableWindowTitle(auto historyDir,
-                                          StringView tableWindowTitle) const = delete;
+                                          std::string_view tableWindowTitle) const = delete;
 }; // class PokerSiteHistory

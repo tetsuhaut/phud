@@ -1,5 +1,5 @@
 #include "containers/algorithms.hpp"
-#include "log/Logger.hpp" // StringView, String
+#include "log/Logger.hpp" // std::string_view, String
 #include "system/memory.hpp" // sptr
 #include <frozen/unordered_map.h>
 
@@ -59,27 +59,27 @@ constexpr auto LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL {
   spdlog::drop_all();
 }
 
-void Logger::traceStr(StringView msg) { globalLogger->trace(msg); }
-void Logger::debugStr(StringView msg) { globalLogger->debug(msg); }
-void Logger::infoStr(StringView msg) { globalLogger->info(msg); globalLogger->flush(); }
-void Logger::warnStr(StringView msg) { globalLogger->warn(msg); globalLogger->flush(); }
-void Logger::errorStr(StringView msg) { globalLogger->error(msg); globalLogger->flush(); }
-void Logger::criticalStr(StringView msg) { globalLogger->critical(msg); globalLogger->flush(); }
+void Logger::traceStr(std::string_view msg) { globalLogger->trace(msg); }
+void Logger::debugStr(std::string_view msg) { globalLogger->debug(msg); }
+void Logger::infoStr(std::string_view msg) { globalLogger->info(msg); globalLogger->flush(); }
+void Logger::warnStr(std::string_view msg) { globalLogger->warn(msg); globalLogger->flush(); }
+void Logger::errorStr(std::string_view msg) { globalLogger->error(msg); globalLogger->flush(); }
+void Logger::criticalStr(std::string_view msg) { globalLogger->critical(msg); globalLogger->flush(); }
 
-/*static*/ void Logger::setupFileInfoLogging(StringView pattern) {
+/*static*/ void Logger::setupFileInfoLogging(std::string_view pattern) {
   globalLogger = spdlog::basic_logger_mt<spdlog::async_factory>("fileInfoLogger", "log.txt");
   //globalLogger = spdlog::basic_logger_mt<spdlog::synchronous_factory>("fileInfoLogger", "log.txt");
   globalLogger->set_pattern(pattern.data());
   globalLogger->set_level(LegacyLoggingLevel::info);
 }
 
-/*static*/ void Logger::setupConsoleWarnLogging(StringView pattern) {
+/*static*/ void Logger::setupConsoleWarnLogging(std::string_view pattern) {
   globalLogger = spdlog::stdout_color_mt<spdlog::async_factory>("consoleWarnLogger");
   globalLogger->set_pattern(pattern.data());
   globalLogger->set_level(LegacyLoggingLevel::warn);
 }
 
-/*static*/ void Logger::setupConsoleDebugLogging(StringView pattern) {
+/*static*/ void Logger::setupConsoleDebugLogging(std::string_view pattern) {
   globalLogger = spdlog::stdout_color_mt<spdlog::async_factory>("consoleDebugLogger");
   globalLogger->set_pattern(pattern.data());
   globalLogger->set_level(LegacyLoggingLevel::debug);

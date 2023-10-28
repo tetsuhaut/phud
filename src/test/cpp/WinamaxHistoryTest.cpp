@@ -1,4 +1,4 @@
-#include "TestInfrastructure.hpp"  // TmpFile, StringView, LogDisabler
+#include "TestInfrastructure.hpp"  // TmpFile, std::string_view, LogDisabler
 #include "containers/algorithms.hpp" // pa::isSet
 #include "db/Database.hpp"
 #include "entities/Action.hpp" // ActionType, Street
@@ -86,11 +86,11 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   BOOST_REQUIRE("Colorado 1" == cashGame.getName());
   const auto& players { pSite->viewPlayers() };
   BOOST_REQUIRE(21 == players.size());
-  Vector<String> actualPlayerNames;
+  std::vector<std::string> actualPlayerNames;
   actualPlayerNames.reserve(players.size());
   pa::transform(players, actualPlayerNames, [](const auto & p) { return p->getName(); });
   BOOST_REQUIRE(pa::isSet(actualPlayerNames));
-  Vector<String> expectedPlayerNames { "Akinos", "Amntfs", "Baroto",
+  std::vector<std::string> expectedPlayerNames { "Akinos", "Amntfs", "Baroto",
                                        "JOOL81", "CtD Jeyje", "KT-Laplume74", "LeCavSeRebif", "Merkaba1111",
                                        "MidnightSR", "acid rodge", "bebediego", "boa5ter", "daronwina",
                                        "gila90", "juju-63", "martinh06", "mentalist61", "nOnO_72", "shorty31",
@@ -105,11 +105,11 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   pa::forEach(hands, [](const auto & hand) {
     const auto& seats{ hand->getSeats() };
     const std::span firstSix(seats.begin(), seats.begin() + 6);
-    BOOST_REQUIRE(pa::noneOf(firstSix, pa::isEmpty<String>));
+    BOOST_REQUIRE(pa::noneOf(firstSix, pa::isEmpty<std::string>));
     const std::span lastFour(seats.begin() + 6, seats.end());
-    BOOST_REQUIRE(pa::allOf(lastFour, pa::isEmpty<String>));
+    BOOST_REQUIRE(pa::allOf(lastFour, pa::isEmpty<std::string>));
   });
-  const Vector<String> sixPlayerNames {"Amntfs", "tc1591", "KT-Laplume74", "martinh06", "Akinos", "JOOL81"};
+  const std::vector<std::string> sixPlayerNames {"Amntfs", "tc1591", "KT-Laplume74", "martinh06", "Akinos", "JOOL81"};
   const auto& firstHandSeats { hands[0]->getSeats() };
   BOOST_REQUIRE(std::equal(sixPlayerNames.begin(), sixPlayerNames.end(), firstHandSeats.begin()));
   BOOST_REQUIRE(16 == hands[0]->viewActions().size());

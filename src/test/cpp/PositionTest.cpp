@@ -2,8 +2,8 @@
 #include "containers/algorithms.hpp"
 #include "gui/Rectangle.hpp"
 #include "gui/Position.hpp"
-#include <spdlog/fmt/bundled/format.h>
 
+#include <iostream>
 #include <set>
 
 namespace pa = phud::algorithms;
@@ -11,7 +11,12 @@ namespace pa = phud::algorithms;
 BOOST_AUTO_TEST_SUITE(PositionTest)
 
 BOOST_AUTO_TEST_CASE(PositionTest_buildPlayerIndicatorPositionShouldSucceed) {
-  const auto [x, y] { buildPlayerIndicatorPosition(Seat::seatOne, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
 }
 
 BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldBeLocatedInsideTheTableWindow) {
@@ -27,13 +32,13 @@ BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldBeLocatedInsideTheTableW
 BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldHaveDistinctPositions) {
   phud::Rectangle tablePosition { .x = 50, .y = 50, .w = 300, .h = 200 };
   const auto seats = { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive, Seat::seatSix };
-  Vector<Pair<int, int>> positions;
+  std::vector<std::pair<int, int>> positions;
   positions.reserve(seats.size());
   pa::forEach(seats, [&tablePosition, &positions](auto seat) {
     positions.push_back(buildPlayerIndicatorPosition(seat, Seat::seatThree, Seat::seatSix,
                         tablePosition));
   });
-  std::set<Pair<int, int>> mySet(positions.begin(), positions.end());
+  std::set<std::pair<int, int>> mySet(positions.begin(), positions.end());
   BOOST_REQUIRE(mySet.size() == positions.size());
 }
 

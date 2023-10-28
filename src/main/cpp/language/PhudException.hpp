@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringView.hpp" // StringView
+#include "strings/StringUtils.hpp" // std::string_view
 #include <stdexcept> // std::runtime_error
 
 //
@@ -8,6 +8,6 @@
 //
 class [[nodiscard]] PhudException : public std::runtime_error {
 public:
-  explicit PhudException(StringView msg);
+  explicit PhudException(std::string_view msg);
   virtual ~PhudException() = default;
 };

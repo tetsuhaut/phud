@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 
 enum class /*[[nodiscard]]*/ Card : short {
   none = 0,
@@ -58,5 +58,5 @@ enum class /*[[nodiscard]]*/ Card : short {
   aceClub = 52
 };
 
-[[nodiscard]] StringView toString(Card c);
-[[nodiscard]] Card toCard(StringView card);
+[[nodiscard]] std::string_view toString(Card c);
+[[nodiscard]] Card toCard(std::string_view card);

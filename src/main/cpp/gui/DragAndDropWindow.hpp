@@ -1,7 +1,7 @@
 #pragma once
 
 #include "gui/Rectangle.hpp" // phud::Rectangle
-#include "strings/StringView.hpp"
+#include "strings/StringUtils.hpp"
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
@@ -40,7 +40,7 @@ private:
   std::function<void(int, int)> m_cb;
 
 public:
-  DragAndDropWindow(const phud::Rectangle& r, StringView label,
+  DragAndDropWindow(const phud::Rectangle& r, std::string_view label,
                     std::function<void(int, int)> cb = nullptr)
     : Fl_Double_Window(r.x, r.y, r.w, r.h, label.data()),
       m_cb { cb }

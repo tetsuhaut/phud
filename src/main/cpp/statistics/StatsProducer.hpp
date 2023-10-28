@@ -13,8 +13,8 @@ private:
 
 public:
   struct [[nodiscard]] StatsProducerArgs final {
-    std::chrono::milliseconds reloadPeriod; StringView site;
-    StringView tableWindowName; const Database& db;
+    std::chrono::milliseconds reloadPeriod; std::string_view site;
+    std::string_view tableWindowName; const Database& db;
   };
   StatsProducer(const StatsProducerArgs& args);
   StatsProducer(const StatsProducer&) = delete;

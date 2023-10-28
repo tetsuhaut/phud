@@ -1,4 +1,4 @@
-#include "TestInfrastructure.hpp" // StringView
+#include "TestInfrastructure.hpp" // std::string_view
 #include "db/SqlInsertor.hpp"
 
 BOOST_AUTO_TEST_SUITE(SqlInsertorTest)

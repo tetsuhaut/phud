@@ -16,7 +16,7 @@ namespace pa = phud::algorithms;
 namespace ps = phud::strings;
 
 template <typename GAME_TYPE>
-[[nodiscard]] static inline uptr<GAME_TYPE> newGame(StringView gameId, const GameData& gameData) {
+[[nodiscard]] static inline uptr<GAME_TYPE> newGame(std::string_view gameId, const GameData& gameData) {
   static_assert(std::is_same_v<GAME_TYPE, CashGame> or std::is_same_v<GAME_TYPE, Tournament>);
 
   if constexpr(std::is_same_v<GAME_TYPE, CashGame>) {

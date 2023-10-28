@@ -1,4 +1,3 @@
-#include "containers/Pair.hpp"
 #include "db/Database.hpp" // String
 #include "entities/Game.hpp" // needed as Site declares incomplete CashGame type
 #include "entities/Player.hpp" // needed as Site declares incomplete Player type
@@ -7,6 +6,7 @@
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include <optional>
+#include <utility> // std::pair
 
 static Logger LOG { CURRENT_FILE_NAME };
 
@@ -17,8 +17,8 @@ struct [[nodiscard]] LoggingConfig final {
 }; // struct LoggingConfig
 }; // anonymous namespace
 
-[[nodiscard]] static inline std::optional<Pair<Path, Path>> getOptionalDbAndHistory(
-Span<const char* const> args) {
+[[nodiscard]] static inline std::optional<std::pair<Path, Path>> getOptionalDbAndHistory(
+std::span<const char* const> args) {
   if (5 != args.size()) {
     if ((1 == args.size())) {
       LOG.error<"{} -b <database file name> -d <history directory>\n">(args[0]);
@@ -30,7 +30,7 @@ Span<const char* const> args) {
     return {};
   }
 
-  const StringView flag1 { args[1] }, flag2 { args[3] };
+  const std::string_view flag1 { args[1] }, flag2 { args[3] };
 
   if (("-b" != flag1 and "-d" != flag1) or ("-b" != flag2 and "-d" != flag2)) {
     LOG.error<"Wrong arguments.">();
@@ -59,7 +59,7 @@ int main(int argc, const char* const argv[]) {
   std::setlocale(LC_ALL, "en_US.utf8");
   LoggingConfig _;
 
-  if (const auto optionalRet { getOptionalDbAndHistory(Span<const char* const>(argv, limits::toSizeT(argc))) };
+  if (const auto optionalRet { getOptionalDbAndHistory(std::span<const char* const>(argv, limits::toSizeT(argc))) };
       optionalRet.has_value()) {
     const auto [dbFile, historyDir] { optionalRet.value() };
     const auto& pSite { PokerSiteHistory::newInstance(historyDir)->load(historyDir) };

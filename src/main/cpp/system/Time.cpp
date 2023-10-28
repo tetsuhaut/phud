@@ -37,9 +37,9 @@ Time& Time::operator=(Time&& other) noexcept {
   return *this;
 }
 
-static constexpr StringView SQLITE_DATE_FORMAT { "%Y-%m-%d %H:%M:%S" };
+static constexpr std::string_view SQLITE_DATE_FORMAT { "%Y-%m-%d %H:%M:%S" };
 
-String Time::toSqliteDate() const {
+std::string Time::toSqliteDate() const {
   // "2014-10-31 00:45:01"
   std::ostringstream oss;
   oss << std::put_time(m_pTimeData.get(), SQLITE_DATE_FORMAT.data());

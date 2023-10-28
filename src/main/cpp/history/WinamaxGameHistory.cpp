@@ -17,7 +17,7 @@ static Logger LOG { CURRENT_FILE_NAME };
 namespace pa = phud::algorithms;
 namespace ps = phud::strings;
 
-[[nodiscard]] static constexpr Limit fileStemToLimit(StringView fileStem) noexcept {
+[[nodiscard]] static constexpr Limit fileStemToLimit(std::string_view fileStem) noexcept {
   if (fileStem.size() < 11) { return Limit::none; }
 
   if (fileStem.ends_with("_pot-limit")) { return Limit::potLimit; }
@@ -27,7 +27,7 @@ namespace ps = phud::strings;
   return Limit::none;
 }
 
-[[nodiscard]] static constexpr Variant fileStemToVariant(StringView fileStem) noexcept {
+[[nodiscard]] static constexpr Variant fileStemToVariant(std::string_view fileStem) noexcept {
   if (ps::contains(fileStem, "_holdem_")) { return Variant::holdem; }
 
   if (ps::contains(fileStem, "_omaha_")) { return Variant::omaha; }
@@ -46,10 +46,10 @@ namespace ps = phud::strings;
 // 20170305_Memphis 06_play_omaha_pot-limit
 // "\\d{ 8 }_(.*)_(real|play)?_(.*)_(.*)"
 // exported for unit testing
-/* static inline */ std::optional<Tuple<bool, String, Variant, Limit>> parseFileStem(
-StringView fileStem) {
+/* static inline */ std::optional<Tuple<bool, std::string, Variant, Limit>> parseFileStem(
+std::string_view fileStem) {
   LOG.debug<"Parsing the file stem {}.">(fileStem);
-  Tuple<bool, String, Variant, Limit> ret {};
+  Tuple<bool, std::string, Variant, Limit> ret {};
 
   if (12 > fileStem.size()) {
     LOG.error<"Couldn't parse the file stem '{}', too short!!!">(fileStem);
@@ -57,21 +57,21 @@ StringView fileStem) {
   }
 
   const auto pos { fileStem.find("_real_", 9) }; // we ignore the date at the start of the file stem
-  const auto isRealMoney { StringView::npos != pos };
+  const auto isRealMoney { std::string_view::npos != pos };
 
-  if (!isRealMoney and (StringView::npos == fileStem.find("_play_", 9))) [[unlikely]] {
+  if (!isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
     LOG.error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(fileStem);
     return ret;
   }
   const auto gameName { fileStem.substr(9, pos - 9) };
   const auto variant { fileStemToVariant(fileStem) };
   const auto limit { fileStemToLimit(fileStem) };
-  ret = { isRealMoney, String(gameName), variant, limit };
+  ret = { isRealMoney, std::string(gameName), variant, limit };
   return ret;
 }
 
 template <typename GAME_TYPE>
-[[nodiscard]] static inline uptr<GAME_TYPE> newGame(StringView gameId, const GameData& gameData) {
+[[nodiscard]] static inline uptr<GAME_TYPE> newGame(std::string_view gameId, const GameData& gameData) {
   static_assert(std::is_same_v<GAME_TYPE, CashGame> or std::is_same_v<GAME_TYPE, Tournament>);
 
   if constexpr(std::is_same_v<GAME_TYPE, CashGame>) {
@@ -88,7 +88,7 @@ template <typename GAME_TYPE>
   }
 }
 
-static inline void fillFromFileName(const Tuple<bool, String, Variant, Limit>& values,
+static inline void fillFromFileName(const Tuple<bool, std::string, Variant, Limit>& values,
                                     GameData& gameData) {
   const auto [isRealMoney, gameName, variant, limit] { values };
   gameData.m_isRealMoney = isRealMoney;
@@ -162,11 +162,11 @@ uptr<Site> WinamaxGameHistory::parseGameHistory(const Path& gameHistoryFile) {
     return mkUptr<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
-  if (String::npos == fileStem.find("_real_", 9) and String::npos == fileStem.find("_play_", 9)) {
+  if (std::string::npos == fileStem.find("_real_", 9) and  std::string::npos == fileStem.find("_play_", 9)) {
     LOG.error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(fileStem);
     return mkUptr<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
-  return ps::contains(fileStem, '(') ? handleGame<Tournament>(gameHistoryFile) : handleGame<CashGame>
-         (gameHistoryFile);
+  return ps::contains(fileStem, '(') ?
+    handleGame<Tournament>(gameHistoryFile) : handleGame<CashGame>(gameHistoryFile);
 }

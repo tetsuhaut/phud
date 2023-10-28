@@ -1,8 +1,8 @@
 #pragma once
 
-#include "strings/String.hpp"
+#include "strings/StringUtils.hpp"
 #include <thread>
 
 using Thread = std::thread;
 
-String getCurrentThreadId();
+std::string getCurrentThreadId();

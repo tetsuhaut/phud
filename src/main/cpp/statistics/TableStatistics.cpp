@@ -20,7 +20,7 @@ uptr<PlayerStatistics> TableStatistics::extractPlayerStatistics(Seat seat) {
 
 
 static const auto MAX_SEAT_TO_TABLE_SEATS {
-  frozen::make_unordered_map<Seat, Vector<Seat>>({
+  frozen::make_unordered_map<Seat, std::vector<Seat>>({
     {Seat::seatTwo, {Seat::seatOne, Seat::seatTwo}},
     {Seat::seatThree, {Seat::seatOne, Seat::seatTwo, Seat::seatThree}},
     {Seat::seatFour, {Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour}},
@@ -33,6 +33,6 @@ static const auto MAX_SEAT_TO_TABLE_SEATS {
   })
 };
 
-/*[[nodiscard]]*/ Vector<Seat> TableStatistics::getSeats() {
+/*[[nodiscard]]*/ std::vector<Seat> TableStatistics::getSeats() {
   return pa::getValueFromKey(MAX_SEAT_TO_TABLE_SEATS, getMaxSeat());
 }

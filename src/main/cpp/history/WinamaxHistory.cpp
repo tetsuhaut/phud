@@ -11,7 +11,7 @@
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
-#include "strings/StringLiteral.hpp" // concatLiteral
+#include "strings/StringUtils.hpp" // concatLiteral
 #include "threads/ThreadPool.hpp" // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await
 
@@ -22,7 +22,7 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 struct [[nodiscard]] WinamaxHistory::Implementation final {
-  Vector<Future<Site*>> m_tasks {};
+  std::vector<Future<Site*>> m_tasks {};
   std::atomic_bool m_stop { true };
 }; // struct WinamaxHistory::Implementation
 
@@ -36,32 +36,32 @@ WinamaxHistory::~WinamaxHistory() {
   }
 }
 
-static constexpr StringView ERR_MSG { "The chosen directory '{}' should contain a {} directory" };
+static constexpr std::string_view ERR_MSG { "The chosen directory '{}' should contain a {} directory" };
 
-[[nodiscard]] static Either<String, Vector<Path>> getErrorMessageOrHistoryFiles(
+[[nodiscard]] static Either<std::string, std::vector<Path>> getErrorMessageOrHistoryFiles(
 const Path& dir, const Path& histoDir) {
   if (!pf::isDir(histoDir)) {
-    return Either<String, Vector<Path>>::left(fmt::format(ERR_MSG, dir.string(), "'history'"));
+    return Either<std::string, std::vector<Path>>::left(fmt::format(ERR_MSG, dir.string(), "'history'"));
   }
 
   if (!pf::isDir(dir / "data" / "buddy")) {
-    return Either<String, Vector<Path>>::left(fmt::format(ERR_MSG,  dir.string(), "'data/buddy'"));
+    return Either<std::string, std::vector<Path>>::left(fmt::format(ERR_MSG,  dir.string(), "'data/buddy'"));
   }
 
   if (!pf::isDir(dir / "data" / "players")) {
-    return Either<String, Vector<Path>>::left(fmt::format(ERR_MSG, dir.string(), "'data/players'"));
+    return Either<std::string, std::vector<Path>>::left(fmt::format(ERR_MSG, dir.string(), "'data/players'"));
   }
 
   if (!pf::listSubDirs(histoDir).empty()) {
-    return Either<String, Vector<Path>>::left(
+    return Either<std::string, std::vector<Path>>::left(
              fmt::format("The chosen directory '{}' should contain a {} directory that contains only files", dir.string(), "'history'"));
   }
 
   if (const auto & allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
-    return Either<String, Vector<Path>>::right(allFilesAndDirs);
+    return Either<std::string, std::vector<Path>>::right(allFilesAndDirs);
   }
 
-  return Either<String, Vector<Path>>::left(
+  return Either<std::string, std::vector<Path>>::left(
            fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
 }
 
@@ -82,16 +82,16 @@ const Path& dir, const Path& histoDir) {
   return pf::containsAFileEndingWith(allFilesAndDirs, "winamax_positioning_file.dat");
 }
 
-[[nodiscard]] static inline Vector<Path> getFiles(const Path& historyDir) {
+[[nodiscard]] static inline std::vector<Path> getFiles(const Path& historyDir) {
   if (WinamaxHistory::isValidHistory(historyDir)) { return pf::listTxtFilesInDir(historyDir / "history"); }
 
   LOG.error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
   return {};
 }
-[[nodiscard]] static inline Vector<Path> getFiles(auto) = delete; // use only Path
+[[nodiscard]] static inline std::vector<Path> getFiles(auto) = delete; // use only Path
 
 // using auto&& enhances performances by inlining std::function's logic
-[[nodiscard]] static inline Vector<Path> getFilesAndNotify(const Path& historyDir,
+[[nodiscard]] static inline std::vector<Path> getFilesAndNotify(const Path& historyDir,
     auto&& setNbFilesCb) {
   const auto& files { getFiles(historyDir) };
 
@@ -106,11 +106,11 @@ const Path& dir, const Path& histoDir) {
 }
 
 // disable other types than const Path&
-static inline Vector<Path> getFilesAndNotify(auto, auto) = delete;
+static inline std::vector<Path> getFilesAndNotify(auto, auto) = delete;
 
-static inline Vector<Future<Site*>> parseFilesAsync(Span<const Path> files,
+static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const Path> files,
 std::atomic_bool& stop, const auto& incrementCb) {
-  Vector<Future<Site*>> ret;
+  std::vector<Future<Site*>> ret;
   ret.reserve(files.size());
   pa::transform(files, ret, [&incrementCb, &stop](const auto & file) {
     if (stop) { return Future<Site*>(); }
@@ -200,15 +200,15 @@ uptr<Site> WinamaxHistory::reloadFile(const Path& file) {
   return ret;
 }
 
-StringView WinamaxHistory::getTableNameFromTableWindowTitle(StringView tableWindowTitle) const {
+std::string_view WinamaxHistory::getTableNameFromTableWindowTitle(std::string_view tableWindowTitle) const {
   const auto pos { tableWindowTitle.find("#") };
   return (notFound(pos)) ? tableWindowTitle.substr(0,
          tableWindowTitle.find(" / ")) : tableWindowTitle.substr(0, pos);
 }
 
-static constexpr bool isReal(StringView tableWindowTitle) noexcept { return !tableWindowTitle.ends_with("fictif"); }
+static constexpr bool isReal(std::string_view tableWindowTitle) noexcept { return !tableWindowTitle.ends_with("fictif"); }
 
-static inline String getGameType(StringView tableWindowTitle) {
+static inline std::string getGameType(std::string_view tableWindowTitle) {
   if (ps::contains(tableWindowTitle, "NL Holdem")) { return "holdem_no-limit"; }
   // TODO
   else {
@@ -218,7 +218,7 @@ static inline String getGameType(StringView tableWindowTitle) {
 }
 
 Path WinamaxHistory::getHistoryFileFromTableWindowTitle(const Path& historyDir,
-    StringView tableWindowTitle) const {
+    std::string_view tableWindowTitle) const {
   const auto tableName { getTableNameFromTableWindowTitle(tableWindowTitle) };
   const auto& reality { isReal(tableWindowTitle) ? "real" : "play" };
   const auto& game { getGameType(tableWindowTitle) };

@@ -1,8 +1,8 @@
 #pragma once
 
-#include "containers/Span.hpp"
-#include "filesystem/Filesystem.hpp" // Path, String, StringView, std::stringstream forward declaration
+#include "filesystem/Filesystem.hpp" // Path, String, std::string_view, std::stringstream forward declaration
 #include "system/memory.hpp" // uptr
+#include <span>
 
 /**
  * A text file reader.
@@ -10,7 +10,7 @@
 class [[nodiscard]] TextFile final {
 private:
   Path m_file;
-  String m_line {};
+  std::string m_line {};
   int m_lineNb { 0 };
   std::stringstream m_content;
 
@@ -34,27 +34,27 @@ public:
    * @returns the current line index, the first line being 0.
    */
   [[nodiscard]] int getLineIndex() const noexcept;
-  [[nodiscard]] String getFileName() const;
+  [[nodiscard]] std::string getFileName() const;
 
   /**
    * @returns the filename without extension.
    */
-  [[nodiscard]] String getFileStem() const; // filename without extension
+  [[nodiscard]] std::string getFileStem() const; // filename without extension
 
   /**
    * @returns the current line of text.
    */
-  [[nodiscard]] String getLine() const noexcept;
-  [[nodiscard]] std::size_t find(StringView s) const noexcept;
+  [[nodiscard]] std::string getLine() const noexcept;
+  [[nodiscard]] std::size_t find(std::string_view s) const noexcept;
   [[nodiscard]] std::size_t find(char c) const noexcept;
   [[nodiscard]] bool lineIsEmpty() const noexcept;
   [[nodiscard]] bool startsWith(char c) const noexcept;
-  [[nodiscard]] bool startsWith(StringView s) const noexcept;
-  [[nodiscard]] bool endsWith(StringView s) const noexcept;
+  [[nodiscard]] bool startsWith(std::string_view s) const noexcept;
+  [[nodiscard]] bool endsWith(std::string_view s) const noexcept;
   [[nodiscard]] bool endsWith(char c) const noexcept;
-  [[nodiscard]] bool contains(StringView s) const noexcept { return StringView::npos != find(s); }
-  [[nodiscard]] bool contains(char c) const noexcept { return String::npos != find(c); }
-  [[nodiscard]] bool containsExact(StringView s) const noexcept;
-  [[nodiscard]] bool containsOneOf(Span<const StringView> patterns) const;
+  [[nodiscard]] bool contains(std::string_view s) const noexcept { return std::string_view::npos != find(s); }
+  [[nodiscard]] bool contains(char c) const noexcept { return std::string::npos != find(c); }
+  [[nodiscard]] bool containsExact(std::string_view s) const noexcept;
+  [[nodiscard]] bool containsOneOf(std::span<const std::string_view> patterns) const;
   /*[[nodiscard]]*/ TextFile& trim(); // can be discarded
 }; // class TextFile

@@ -8,27 +8,27 @@
 namespace pa = phud::algorithms;
 
 // Note : must use frozen::string when it is a map key.
-// frozen::string can be created from StringView.
+// frozen::string can be created from std::string_view.
 
 static constexpr auto VARIANT_TO_STRING {
-  frozen::make_unordered_map<Variant, StringView>({
+  frozen::make_unordered_map<Variant, std::string_view>({
     { Variant::holdem, "holdem" }, { Variant::omaha, "omaha" },
     { Variant::omaha5, "omaha5" }, { Variant::none, "none" }
   })
 };
 
 static constexpr auto LIMIT_TO_STRING {
-  frozen::make_unordered_map<Limit, StringView>({
+  frozen::make_unordered_map<Limit, std::string_view>({
     { Limit::noLimit, "no-limit" }, { Limit::potLimit, "pot-limit" },
     { Limit::none, "none" }
   })
 };
 
-StringView toString(Variant variant) {
+std::string_view toString(Variant variant) {
   return pa::getValueFromKey(VARIANT_TO_STRING, variant);
 }
 
-StringView toString(Limit limitType) {
+std::string_view toString(Limit limitType) {
   return pa::getValueFromKey(LIMIT_TO_STRING, limitType);
 }
 
@@ -52,10 +52,10 @@ Game::~Game() = default; // needed because Game owns private uptr members
 
 void Game::addHand(uptr<Hand> hand) { m_hands.push_back(std::move(hand)); }
 
-Vector<const Hand*> Game::viewHands() const { return mkView(m_hands); }
+std::vector<const Hand*> Game::viewHands() const { return pa::mkView(m_hands); }
 
-Vector<const Hand*> Game::viewHands(StringView player) const {
-  Vector<const Hand*> ret;
+std::vector<const Hand*> Game::viewHands(std::string_view player) const {
+  std::vector<const Hand*> ret;
   pa::forEach(m_hands, [&](const auto & h) { if (h->isPlayerInvolved(player)) { ret.push_back(h.get()); } });
   return ret;
 }

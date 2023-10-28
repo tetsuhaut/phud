@@ -5,10 +5,10 @@
 
 struct [[nodiscard]] TimeBomb::Implementation final {
   PeriodicTask m_task;
-  String m_testName;
+  std::string m_testName;
   std::atomic_bool m_isDefused { false };
 
-  Implementation(std::chrono::milliseconds countDownToExplosion, StringView testName)
+  Implementation(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
     : m_task { countDownToExplosion, "TimeBomb" },
       m_testName { testName } {}
 };
@@ -18,7 +18,7 @@ TimeBomb::~TimeBomb() {
   m_pImpl->m_task.stop();
 }
 
-TimeBomb::TimeBomb(std::chrono::milliseconds countDownToExplosion, StringView testName)
+TimeBomb::TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
   : m_pImpl { mkUptr<Implementation>(countDownToExplosion, testName) } {
   m_pImpl->m_task.start([this]() {
     if (!m_pImpl->m_isDefused) {

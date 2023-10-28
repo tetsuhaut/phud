@@ -1,10 +1,12 @@
 #pragma once
 
-#include "containers/Pair.hpp"
 #include "filesystem/Filesystem.hpp" // Path, Span
 #include "log/LoggingLevel.hpp"
 #include "language/PhudException.hpp" // PhudException
+
+
 #include <optional>
+#include <utility> // std::pair
 
 /**
  * The phud.exe program takes arguments. This function handles these arguments.
@@ -14,8 +16,8 @@
  *                     -l or --logLevel <log_level> : defines the logging level.
  * @returns the hand history directory, and the logging level
  */
-[[nodiscard]] Pair<std::optional<Path>, std::optional<LoggingLevel>> parseProgramArguments(
-      Span<const char* const> args);
+[[nodiscard]] std::pair<std::optional<Path>, std::optional<LoggingLevel>> parseProgramArguments(
+      std::span<const char* const> args); 
 
 class [[nodiscard]] ProgramArgumentsException : public PhudException {
 public:

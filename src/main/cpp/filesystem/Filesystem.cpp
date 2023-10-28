@@ -1,5 +1,5 @@
 #include "containers/algorithms.hpp"
-#include "filesystem/Filesystem.hpp" // Path, StringView, Vector
+#include "filesystem/Filesystem.hpp" // Path, std::string_view, Vector
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp"
 #include "system/ErrorCode.hpp" // isOk
@@ -37,24 +37,24 @@ using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
 }; // namespace
 
 // use Path as std needs std::path
-String phud::filesystem::readToString(const Path& p) {
+std::string phud::filesystem::readToString(const Path& p) {
   phudAssert(!phud::filesystem::isDir(p), "given a dir instead of a file");
-  String s{ fmt::format("given a non exiting file '{}'", p.string()) };
+  std::string s{ fmt::format("given a non exiting file '{}'", p.string()) };
   phudAssert(phud::filesystem::isFile(p), s.c_str());
   std::ifstream in { p };
   // decltype(std::ifstream::gcount()) is std::streamsize, which is signed.
-  // String constructor takes a String::size_type, which is unsigned.
+  // std::string constructor takes a String::size_type, which is unsigned.
   // we know that std::ifstream::gcount() is always positive
   in.ignore(std::numeric_limits<std::streamsize>::max());
-  String result(gsl::narrow_cast<String::size_type>(in.gcount()), '\0');
+  std::string result(gsl::narrow_cast<std::string::size_type>(in.gcount()), '\0');
   in.seekg(0);
   in.read(result.data(), gsl::narrow_cast<std::streamsize>(result.size()));
   return result;
 }
 
 template<typename DIRECTORY_ITERATOR>
-static inline Vector<Path> iterateDirs(const Path& dir) {
-  Vector<Path> ret;
+static inline std::vector<Path> iterateDirs(const Path& dir) {
+  std::vector<Path> ret;
 
   if (!phud::filesystem::isDir(dir)) { return ret; }
 
@@ -62,14 +62,14 @@ static inline Vector<Path> iterateDirs(const Path& dir) {
 
   return ret;
 }
-static inline Vector<Path> genericListDirs(auto) = delete; // use only Path
+static inline std::vector<Path> genericListDirs(auto) = delete; // use only Path
 
-Vector<Path> phud::filesystem::listFilesAndDirs(const Path& dir) {
+std::vector<Path> phud::filesystem::listFilesAndDirs(const Path& dir) {
   return iterateDirs<DirIt>(dir);
 }
 
-Vector<Path> phud::filesystem::listFilesInDir(const Path& dir, StringView postFix) {
-  Vector<Path> ret;
+std::vector<Path> phud::filesystem::listFilesInDir(const Path& dir, std::string_view postFix) {
+  std::vector<Path> ret;
 
   if (!phud::filesystem::isDir(dir)) { return ret; }
 
@@ -86,7 +86,7 @@ Vector<Path> phud::filesystem::listFilesInDir(const Path& dir, StringView postFi
   return ret;
 }
 
-Vector<Path> phud::filesystem::listTxtFilesInDir(const Path& dir) {
+std::vector<Path> phud::filesystem::listTxtFilesInDir(const Path& dir) {
   auto allFilesAndDirs { listFilesAndDirs(dir) };
   std::erase_if(allFilesAndDirs, [](const auto & p) {
     const auto& pstr { p.string() };
@@ -95,7 +95,7 @@ Vector<Path> phud::filesystem::listTxtFilesInDir(const Path& dir) {
   return allFilesAndDirs;
 }
 
-Vector<Path> phud::filesystem::listSubDirs(const Path& dir) {
+std::vector<Path> phud::filesystem::listSubDirs(const Path& dir) {
   auto allFilesAndDirs { listFilesAndDirs(dir) };
   std::erase_if(allFilesAndDirs, [](const auto & p) noexcept {
     return isFile(p);
@@ -103,9 +103,9 @@ Vector<Path> phud::filesystem::listSubDirs(const Path& dir) {
   return allFilesAndDirs;
 }
 
-Vector<Path> phud::filesystem::listRecursiveFiles(const Path& dir) {
+std::vector<Path> phud::filesystem::listRecursiveFiles(const Path& dir) {
   phudAssert(isDir(dir), "given invalid dir");
-  Vector<Path> ret;
+  std::vector<Path> ret;
 
   for (const auto& dirEntry : RecursDirIt(dir)) {
     if (dirEntry.is_regular_file()) { ret.push_back(dirEntry.path()); }
@@ -114,7 +114,7 @@ Vector<Path> phud::filesystem::listRecursiveFiles(const Path& dir) {
   return ret;
 }
 
-/*[[nodiscard]]*/ String phud::filesystem::toString(const FileTime& fileTime) {
+/*[[nodiscard]]*/ std::string phud::filesystem::toString(const FileTime& fileTime) {
   namespace sc = std::chrono;
   const auto& now { fileTime - FileTime::clock::now() + sc::system_clock::now() };
   const auto& systemClockTimePoint { sc::time_point_cast<sc::system_clock::duration>(now) };
@@ -137,7 +137,7 @@ Vector<Path> phud::filesystem::listRecursiveFiles(const Path& dir) {
   return oss.str();
 }
 
-/* [[nodiscard]] */ bool phud::filesystem::containsAFileEndingWith(Span<const Path> files,
-    StringView str) {
+/* [[nodiscard]] */ bool phud::filesystem::containsAFileEndingWith(std::span<const Path> files,
+    std::string_view str) {
   return pa::anyOf(files, [str](const auto & p) { return p.string().ends_with(str); });
 }

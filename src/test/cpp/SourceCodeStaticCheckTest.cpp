@@ -1,6 +1,6 @@
 #include "TestInfrastructure.hpp" // Path, fs::*, phud::*
 #include "containers/algorithms.hpp" // phud::algorithms::*
-#include "containers/Map.hpp"
+#include <unordered_map>
 #include "db/sqliteQueries.hpp"
 #include "filesystem/TextFile.hpp" // Span
 #include "language/assert.hpp" // phudAssert
@@ -62,7 +62,7 @@ static std::array<Path, 2> SRC_DIRS { pt::getMainCppDir(), pt::getTestCppDir() }
 /** all of the cpp and hpp (and potentialy other) files in src/main/cpp and src/test/cpp directories */
 static auto SRC_FILES {
   []() {
-    return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), Vector<Path> {}, [](Vector<Path>&& v,
+    return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<Path> {}, [](std::vector<Path>&& v,
     const Path & dir) {
       pa::append(v, pf::listRecursiveFiles(dir));
       return v;
@@ -74,7 +74,7 @@ static auto SRC_FILES {
  * Changes '#include <a/b> // c' into 'a/b'
  *         '#include "a/b" // c' into 'a/b'
  */
-[[nodiscard]] static inline StringView extractInclude(StringView line) {
+[[nodiscard]] static inline std::string_view extractInclude(std::string_view line) {
   using namespace pa;
   phudAssert((1 < count(line, '"')) or (contains(line, '<') and contains(line, '>')), "bad line");
   const auto& startPos { line.find_first_of("\"<") + 1 };
@@ -85,7 +85,7 @@ static auto SRC_FILES {
 /**
  * @returns a Path from SRC_FILES representing the given file name if found, else a Path formed from the the given file name.
  */
-[[nodiscard]] static inline Path extractAbsolutePathIncludeIfPossible(StringView line) {
+[[nodiscard]] static inline Path extractAbsolutePathIncludeIfPossible(std::string_view line) {
   const auto& file { extractInclude(line) };
   using namespace phud;
   using namespace pf;
@@ -94,8 +94,8 @@ static auto SRC_FILES {
 }
 
 /** @returns all of the files that are nor in the src/main/cpp/thirdparty directory */
-[[nodiscard]] static inline Vector<Path> getMySrcFiles(Span<const Path> files) {
-  return pa::removeCopyIf<Vector<Path>>(files, [](const auto & f) {
+[[nodiscard]] static inline std::vector<Path> getMySrcFiles(std::span<const Path> files) {
+  return pa::removeCopyIf<std::vector<Path>>(files, [](const auto & f) {
     return ps::contains(f.string(), "thirdParty");
   });
 }
@@ -104,8 +104,8 @@ namespace {
 /**
  * @returns a vector containing all of the files in the given @param files that end with the given @param fileExtension.
  */
-[[nodiscard]] inline Vector<Path> getSrcFiles(Span<const Path> files, StringView fileExtension) {
-  Vector<Path> ret;
+[[nodiscard]] inline std::vector<Path> getSrcFiles(std::span<const Path> files, std::string_view fileExtension) {
+  std::vector<Path> ret;
   pa::copyIf(files, ret, [&](const auto & p) { return p.string().ends_with(fileExtension); });
   return ret;
 }
@@ -116,7 +116,7 @@ const auto& H_FILES { getSrcFiles(SRC_FILES, ".h") };
 auto MY_SRC_FILES { getMySrcFiles(SRC_FILES) };
 const auto& H_HPP_FILES { getMySrcFiles(pa::merge(HPP_FILES, H_FILES)) };
 const auto& MY_SRC_FILES_WITH_EXCEPTION {
-  pa::removeCopyIf<Vector<Path>>(MY_SRC_FILES, [](const auto & file) {
+  pa::removeCopyIf<std::vector<Path>>(MY_SRC_FILES, [](const auto & file) {
     return file.string().ends_with("SourceCodeStaticCheckTest.cpp")
            or file.string().ends_with("Tuple.hpp");
   })
@@ -126,7 +126,7 @@ const auto& MY_SRC_FILES_WITH_EXCEPTION {
 * Map of file <-> vector of its included files
 */
 const auto& FILE_INCLUSIONS = []() {
-  std::map<Path, Vector<Path>, pf::PathComparator> ret;
+  std::map<Path, std::vector<Path>, pf::PathComparator> ret;
   pa::forEach(SRC_FILES, [&ret](const auto & file) {
     auto& includes { ret[file] };
     /* we do not check includes from STL, or from thirdParty */
@@ -172,19 +172,19 @@ enum class LineType : short { none, pragmaOnce, other };
   return LineType::none; // the file is either empty or commented
 }
 
-[[nodiscard]] static inline Vector<String> getAllQueryNames(StringView
+[[nodiscard]] static inline std::vector<std::string> getAllQueryNames(std::string_view
     sourceFileContainingQueries) {
   const auto& sourceFileWithFullPath { *pa::findIf(MY_SRC_FILES, [&](const auto & file) {
     return file.string().ends_with(sourceFileContainingQueries);
   })
                                      };
   TextFile tfl { sourceFileWithFullPath };
-  Vector<String> ret;
+  std::vector<std::string> ret;
 
   while (tfl.next()) {
-    if (tfl.startsWith("static constexpr StringView ") and tfl.endsWith("[] {")) {
+    if (tfl.startsWith("static constexpr std::string_view ") and tfl.endsWith("[] {")) {
       const auto& str { tfl.getLine() };
-      const auto& pos { ps::length("static constexpr StringView ") };
+      const auto& pos { ps::length("static constexpr std::string_view ") };
       ret.push_back(str.substr(pos, str.size() - pos - ps::length("[] {")));
     }
   }
@@ -193,8 +193,8 @@ enum class LineType : short { none, pragmaOnce, other };
   return ret;
 }
 
-[[nodiscard]] static inline bool sourceFileContains(StringView sourceFile,
-    StringView sqlQueryName) {
+[[nodiscard]] static inline bool sourceFileContains(std::string_view sourceFile,
+    std::string_view sqlQueryName) {
   const auto& sourceFileWithFullPath { *pa::findIf(MY_SRC_FILES, [&](auto & file) {
     return file.string().ends_with(sourceFile);
   })
@@ -210,8 +210,8 @@ enum class LineType : short { none, pragmaOnce, other };
   return false;
 }
 
-/*[[nodiscard]]*/ static inline void logIfMySrcFilesContainToken(Span<const Path> files,
-    StringView token, StringView replacement) {
+/*[[nodiscard]]*/ static inline void logIfMySrcFilesContainToken(std::span<const Path> files,
+    std::string_view token, std::string_view replacement) {
   pa::forEach(files, [&](const auto & file) {
     TextFile tfl { file };
 
@@ -224,8 +224,8 @@ enum class LineType : short { none, pragmaOnce, other };
   });
 }
 
-/*[[nodiscard]]*/ static inline void logIfMySrcFilesContainToken(StringView token,
-    StringView replacement) {
+/*[[nodiscard]]*/ static inline void logIfMySrcFilesContainToken(std::string_view token,
+    std::string_view replacement) {
   logIfMySrcFilesContainToken(::MY_SRC_FILES_WITH_EXCEPTION, token, replacement);
 }
 /**
@@ -234,10 +234,10 @@ enum class LineType : short { none, pragmaOnce, other };
 BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_globalsAreCorrect) {
-  BOOST_TEST(!StringView(ProgramInfos::APP_VERSION).empty());
-  BOOST_TEST(!StringView(ProgramInfos::APP_SHORT_NAME).empty());
-  BOOST_TEST(!StringView(ProgramInfos::APP_LONG_NAME).empty());
-  BOOST_TEST(!StringView(ProgramInfos::WINAMAX_EXECUTABLE_STEM).empty());
+  BOOST_TEST(!std::string_view(ProgramInfos::APP_VERSION).empty());
+  BOOST_TEST(!std::string_view(ProgramInfos::APP_SHORT_NAME).empty());
+  BOOST_TEST(!std::string_view(ProgramInfos::APP_LONG_NAME).empty());
+  BOOST_TEST(!std::string_view(ProgramInfos::WINAMAX_EXECUTABLE_STEM).empty());
   BOOST_TEST(!phud::test::getMainCppDir().empty());
   BOOST_TEST(!phud::test::getTestResourcesDir().empty());
   BOOST_TEST(!phud::test::getTestCppDir().empty());
@@ -272,7 +272,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHeaderFilesShouldBeIncluded) {
   pa::forEach(headers, [](const auto & h) { LOG.warn<"Unused header:\n{}">(h.string()); });
 }
 
-static inline Vector<Path> getIncludes(const Path& p) {
+static inline std::vector<Path> getIncludes(const Path& p) {
   if (const auto & entry { ::FILE_INCLUSIONS.find(p) }; ::FILE_INCLUSIONS.end() != entry) {
     return entry->second;
   }
@@ -329,7 +329,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
     while (tfl.next()) {
       tfl.trim();
 
-      if (const auto & pos { tfl.find(constructor + "(") }; (String::npos != pos) and
+      if (const auto & pos { tfl.find(constructor + "(") }; ( std::string::npos != pos) and
           tfl.startsWith("explicit ") and !tfl.contains(" delete") and
           (')' == tfl.getLine()[pos + constructor.size() + 2])) {
         LOG.warn<"In {} at line {} the default constructor should not be explicit:{}">(
@@ -340,14 +340,11 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
 }
 
 static constexpr auto FILE_NAME_TO_FORBIDDEN_TOKENS {
-  frozen::make_unordered_map<frozen::string, std::array<StringView, 4>>({
+  frozen::make_unordered_map<frozen::string, std::array<std::string_view, 4>>({
     /* each file defines a list of shortcuts */
     { "Filesystem.hpp", { "experimental::filesystem", "::path", "", "" }},
     { "Map.hpp", { "std::unordered_map", "", "", "" }},
     { "memory.hpp", { "unique_ptr", "shared_ptr", "make_unique", "make_shared" }},
-    { "String.hpp", { "std::string", "", "", "" }},
-    { "StringView.hpp", { "std::string_view", "", "", "" }},
-    { "Vector.hpp", { "std::vector", "std::initializer_list", "", "" }}
   })
 };
 
@@ -442,7 +439,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noIncludePathShouldHaveAntiSlashPathS
     while (tfl.next()) {
       if (!tfl.trim().startsWith("#include ")) { continue; }
 
-      if (const String includePath { extractInclude(tfl.getLine()) }; ps::contains(includePath, '\\')) {
+      if (const std::string includePath { extractInclude(tfl.getLine()) }; ps::contains(includePath, '\\')) {
         LOG.warn<"The file {} contains an include path '{}' with anti slashes.">(
           file.string(), includePath);
       }
@@ -463,7 +460,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNoDiscardVoid) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesAreUsed) {
   const auto& queryNames { getAllQueryNames("sqliteQueries.hpp") };
-  pa::forEach(queryNames, [](StringView queryName) {
+  pa::forEach(queryNames, [](std::string_view queryName) {
     if (!sourceFileContains("Database.cpp", queryName)) {
       LOG.warn<"The SQL query {} is not used in Database.cpp">(queryName);
     } else {
@@ -501,7 +498,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useStdSizeT) {
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNULLInSourceCode) {
   /* NULL can only be used in SQL queries */
   const auto& MY_SRC_FILES_EXCEPTED_CURRENT_AND_SQL {
-    pa::removeCopyIf<Vector<Path>>(::MY_SRC_FILES_WITH_EXCEPTION, [](const auto & file) {
+    pa::removeCopyIf<std::vector<Path>>(::MY_SRC_FILES_WITH_EXCEPTION, [](const auto & file) {
       return file.string().ends_with("sqliteQueries.hpp");
     })
   };

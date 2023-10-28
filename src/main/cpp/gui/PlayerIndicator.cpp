@@ -1,5 +1,5 @@
 #include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface, phud::Rectangle
-#include "gui/PlayerIndicator.hpp" // Fl_Double_Window, String, StringView
+#include "gui/PlayerIndicator.hpp" // Fl_Double_Window, String, std::string_view
 #include "log/Logger.hpp" // fmt::*, Logger, CURRENT_FILE_NAME
 #include "statistics/PlayerStatistics.hpp"
 
@@ -26,7 +26,7 @@ namespace piws = PlayerIndicatorWindow::surface;
 
 static Logger LOG { CURRENT_FILE_NAME };
 
-PlayerIndicator::PlayerIndicator(const Pair<int, int>& p, StringView playerName)
+PlayerIndicator::PlayerIndicator(const std::pair<int, int>& p, std::string_view playerName)
   : DragAndDropWindow({ .x = p.first, .y = p.second, .w = piws::width, .h = piws::height },
 playerName),
 m_textStats { mkUptr<Fl_Box>(0, 0, w(), piws::statsHeight) },
@@ -51,10 +51,10 @@ void PlayerIndicator::setStats(const PlayerStatistics& s) {
                 s.getPreFlopRaise(), s.getAggressionFactor()).c_str());
 }
 
-String PlayerIndicator::getPlayerName() const { return m_textPlayerName->label(); }
+std::string PlayerIndicator::getPlayerName() const { return m_textPlayerName->label(); }
 
 // TODO unused
-void PlayerIndicator::refresh(StringView playerName) {
+void PlayerIndicator::refresh(std::string_view playerName) {
   LOG.debug<"PlayerIndicator refresh={}">(playerName);
   m_textPlayerName->copy_label(playerName.data());
 }

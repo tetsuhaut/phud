@@ -4,10 +4,10 @@
 #include <frozen/unordered_map.h>
 
 // Note : must use frozen::string when it is a map key.
-// frozen::string can be created from StringView.
+// frozen::string can be created from std::string_view.
 
 static constexpr auto ENUM_TO_STRING {
-  frozen::make_unordered_map<Seat, StringView>({
+  frozen::make_unordered_map<Seat, std::string_view>({
     {Seat::seatOne, "1"}, {Seat::seatTwo, "2"}, {Seat::seatThree, "3"}, {Seat::seatFour, "4"}, {Seat::seatFive, "5"},
     {Seat::seatSix, "6"}, {Seat::seatSeven, "7"}, {Seat::seatEight, "8"}, {Seat::seatNine, "9"}, {Seat::seatTen, "10"}
   })
@@ -47,7 +47,7 @@ static constexpr auto SIZET_TO_ENUM {
   })
 };
 
-/*[[nodiscard]]*/ Seat tableSeat::fromString(StringView seatStr) {
+/*[[nodiscard]]*/ Seat tableSeat::fromString(std::string_view seatStr) {
   phudAssert("1" == seatStr or "2" == seatStr or "3" == seatStr or "4" == seatStr or "5" == seatStr
              or "6" == seatStr or "7" == seatStr or "8" == seatStr or "9" == seatStr or "10" == seatStr,
              "bad seat string");
@@ -63,7 +63,7 @@ static constexpr auto SIZET_TO_ENUM {
   return phud::algorithms::getValueFromKey(ENUM_TO_SIZET, seat) - 1;
 }
 
-/*[[nodiscard]]*/ StringView tableSeat::toString(Seat seat) {
+/*[[nodiscard]]*/ std::string_view tableSeat::toString(Seat seat) {
   return phud::algorithms::getValueFromKey(ENUM_TO_STRING, seat);
 }
 

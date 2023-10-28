@@ -6,13 +6,13 @@
 
 namespace pa = phud::algorithms;
 
-Site::Site(StringView name)
+Site::Site(std::string_view name)
   : m_name { name } { phudAssert(!m_name.empty(), "name is empty"); }
 
 Site::~Site() = default; // needed because Site owns private uptr members
 
-Vector<const Player*> Site::viewPlayers() const {
-  Vector<const Player*> ret;
+std::vector<const Player*> Site::viewPlayers() const {
+  std::vector<const Player*> ret;
   if (false == m_players.empty()) {
     ret.reserve(m_players.size());
     pa::transform(m_players, ret, [](const auto& entry) noexcept { return entry.second.get(); });
@@ -38,9 +38,9 @@ void Site::addGame(uptr<Tournament> game) {
   m_tournaments.push_back(std::move(game));
 }
 
-Vector<const CashGame*> Site::viewCashGames() const { return mkView(m_cashGames); }
+std::vector<const CashGame*> Site::viewCashGames() const { return pa::mkView(m_cashGames); }
 
-Vector<const Tournament*> Site::viewTournaments() const { return mkView(m_tournaments); }
+std::vector<const Tournament*> Site::viewTournaments() const { return pa::mkView(m_tournaments); }
 
 void Site::merge(Site& other) {
   phudAssert(other.getName() == m_name, "Can't merge data from different poker sites");
