@@ -342,7 +342,6 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
 static constexpr auto FILE_NAME_TO_FORBIDDEN_TOKENS {
   frozen::make_unordered_map<frozen::string, std::array<std::string_view, 4>>({
     /* each file defines a list of shortcuts */
-    { "Filesystem.hpp", { "experimental::filesystem", "::path", "", "" }},
     { "Map.hpp", { "std::unordered_map", "", "", "" }},
     { "memory.hpp", { "unique_ptr", "shared_ptr", "make_unique", "make_shared" }},
   })

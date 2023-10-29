@@ -2,7 +2,7 @@
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 #include <ctime> // std::tm
 #include <iomanip>      // std::get_time
-#include <sstream>     // std::istringstream, std::ostream
+#include <sstream>     // std::istringstream, std::ostringstream
 
 [[nodiscard]] static inline std::tm toTm(const Time::Args& args) {
   std::tm when {.tm_sec = 0, .tm_min = 0, .tm_hour = 0, .tm_mday = 0, .tm_mon = 0, .tm_year = 0, .tm_wday = 0, .tm_yday = 0, .tm_isdst = 0 };
@@ -18,15 +18,12 @@
 
 Time::Time(const Args& args) : m_pTimeData { mkUptr<std::tm>(toTm(args)) } {}
 
-Time::Time(const Time& other) noexcept : m_pTimeData { mkUptr<std::tm>() } { *m_pTimeData = *other.m_pTimeData; }
+Time::Time(const Time& other) noexcept : m_pTimeData { mkUptr<std::tm>(*other.m_pTimeData) } {}
 
 Time::Time(Time&& other) noexcept : m_pTimeData { std::exchange(other.m_pTimeData, {}) } {}
 
 Time& Time::operator=(const Time& other) noexcept {
-  if (this != &other) {
-    m_pTimeData = mkUptr<std::tm>();
-    *m_pTimeData = *other.m_pTimeData;
-  }
+  if (this != &other) { m_pTimeData = mkUptr<std::tm>(*other.m_pTimeData); }
 
   return *this;
 }
