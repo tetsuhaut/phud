@@ -1,6 +1,5 @@
 #include "TestInfrastructure.hpp" // Path, fs::*, phud::*
 #include "containers/algorithms.hpp" // phud::algorithms::*
-#include <unordered_map>
 #include "db/sqliteQueries.hpp"
 #include "filesystem/TextFile.hpp" // Span
 #include "language/assert.hpp" // phudAssert
@@ -9,6 +8,7 @@
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>
 #include <numeric> // std::accumulate
+#include <unordered_map>
 
 namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
@@ -126,6 +126,7 @@ const auto& MY_SRC_FILES_WITH_EXCEPTION {
 * Map of file <-> vector of its included files
 */
 const auto& FILE_INCLUSIONS = []() {
+  // std::unordered_map doesn't accept fs::path as a key
   std::map<fs::path, std::vector<fs::path>, pf::PathComparator> ret;
   pa::forEach(SRC_FILES, [&ret](const auto & file) {
     auto& includes { ret[file] };
@@ -342,7 +343,6 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
 static constexpr auto FILE_NAME_TO_FORBIDDEN_TOKENS {
   frozen::make_unordered_map<frozen::string, std::array<std::string_view, 4>>({
     /* each file defines a list of shortcuts */
-    { "Map.hpp", { "std::unordered_map", "", "", "" }},
     { "memory.hpp", { "unique_ptr", "shared_ptr", "make_unique", "make_shared" }},
   })
 };
