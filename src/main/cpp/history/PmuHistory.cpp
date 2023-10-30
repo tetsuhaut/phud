@@ -15,8 +15,8 @@ bool PmuHistory::isValidHistory(const fs::path& /*historyDir*/) {
   return false;
 }
 
-std::unique_ptr<Site> PmuHistory::load(const fs::path& /*historyDir*/, FunctionVoid /*incrementCb*/,
-                            FunctionInt /*setNbFilesCb*/) {
+std::unique_ptr<Site> PmuHistory::load(const fs::path& /*historyDir*/, std::function<void()> /*incrementCb*/,
+                            std::function<void(std::size_t)> /*setNbFilesCb*/) {
   return nullptr;
 }
 

@@ -1,8 +1,8 @@
 #pragma once
 
 #include "filesystem/Filesystem.hpp" // std::filesystem::path
-#include "language/callbacks.hpp"
 
+#include <functional> // std::function
 #include <memory> // std::unique_ptr
 
 // forward declarations
@@ -20,9 +20,9 @@ public:
    * @returns a Site containing all the games which history files are located in
    * the given <historyDir>/history directory.
    */
-  [[nodiscard]] virtual std::unique_ptr<Site> load(const std::filesystem::path& historyDir, FunctionVoid incrementCb,
-                                        FunctionInt setNbFilesCb) = 0;
-  std::unique_ptr<Site> load(auto, FunctionVoid, FunctionInt) = delete;
+  [[nodiscard]] virtual std::unique_ptr<Site> load(const std::filesystem::path& historyDir, std::function<void()> incrementCb,
+                                        std::function<void(std::size_t)> setNbFilesCb) = 0;
+  std::unique_ptr<Site> load(auto, std::function<void()>, std::function<void(std::size_t)>) = delete;
   [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir);
   std::unique_ptr<Site> load(auto historyDir) = delete;
   virtual void stopLoading() = 0;

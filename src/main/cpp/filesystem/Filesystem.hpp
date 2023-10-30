@@ -1,8 +1,9 @@
 #pragma once
 
-#include "strings/StringUtils.hpp" // std::string, std::string_view
 #include <filesystem>
 #include <span>
+#include <string>
+#include <string_view>
 
 namespace phud::filesystem {
 template<typename T> requires(std::same_as<T, std::filesystem::path>)

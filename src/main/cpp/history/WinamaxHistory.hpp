@@ -2,6 +2,8 @@
 
 #include "history/PokerSiteHistory.hpp" // std::filesystem::path, std::unique_ptr, std::function
 
+#include <functional>
+
 // forward declarations
 class Site;
 
@@ -20,9 +22,9 @@ public:
    * @returns a Site containing all the games which history files are located in
    * the given <historyDir>/history directory.
    */
-  [[nodiscard]] std::unique_ptr<Site> load(const std::filesystem::path& historyDir, FunctionVoid incrementCb,
-                                FunctionInt setNbFilesCb) override;
-  std::unique_ptr<Site> load(auto, FunctionVoid, FunctionInt) = delete;
+  [[nodiscard]] std::unique_ptr<Site> load(const std::filesystem::path& historyDir, std::function<void()> incrementCb,
+                                std::function<void(std::size_t)> setNbFilesCb) override;
+  std::unique_ptr<Site> load(auto, std::function<void()>, std::function<void(std::size_t)>) = delete;
 
   [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir);
   std::unique_ptr<Site> load(auto) = delete;

@@ -1,8 +1,7 @@
 #pragma once
 
 #include "log/LoggingLevel.hpp" // std::string_view
-#include "strings/StringUtils.hpp"
-#include "strings/StringLiteral.hpp" // concatLiteral
+#include "strings/StringLiteral.hpp" // concatLiteral, std::string_view
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to fmt
 #  pragma warning(push)

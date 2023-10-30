@@ -30,9 +30,9 @@ public:
   }
 
   void importHistory(const fs::path& /*historyDir*/,
-                     FunctionVoid incrementCb = nullptr,
-                     FunctionInt setNbFilesCb = nullptr,
-                     FunctionVoid doneCb = nullptr) override {
+                     std::function<void()> incrementCb = nullptr,
+                     std::function<void(std::size_t)> setNbFilesCb = nullptr,
+                     std::function<void()> doneCb = nullptr) override {
     LOG.debug<__func__>();
     setNbFilesCb(3);
     incrementCb();
@@ -41,7 +41,7 @@ public:
     doneCb();
   }
   // use only std::filesystem::path
-  void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
+  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>, std::function<void()>) = delete;
 
   void stopImportingHistory() override { LOG.debug<__func__>(); }
 

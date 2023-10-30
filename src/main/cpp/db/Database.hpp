@@ -2,10 +2,10 @@
 
 #include "entities/Seat.hpp"
 #include "language/PhudException.hpp" // std::string_view
-#include "strings/StringUtils.hpp"
 
 #include <memory>
 #include <span>
+#include <string_view>
 
 // forward declarations
 class CashGame;

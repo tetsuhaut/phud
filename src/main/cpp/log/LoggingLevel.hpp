@@ -1,5 +1,6 @@
 #pragma once
-#include "strings/StringUtils.hpp"
+
+#include <string_view>
 
 enum class /*[[nodiscard]]*/ LoggingLevel : short {
   none,

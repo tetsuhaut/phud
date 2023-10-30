@@ -1,6 +1,7 @@
 #pragma once
 
-#include "strings/StringUtils.hpp" // std::string, std::string_view
+#include <string>
+#include <string_view>
 
 /**
  * A tournament or cashgame poker player.

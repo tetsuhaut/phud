@@ -134,8 +134,8 @@ std::atomic_bool& stop, const auto& incrementCb) {
 }
 
 std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
-                                FunctionVoid incrementCb,
-                                FunctionInt setNbFilesCb) {
+                                std::function<void()> incrementCb,
+                                std::function<void(std::size_t)> setNbFilesCb) {
   m_pImpl->m_stop = false;
 
   try {

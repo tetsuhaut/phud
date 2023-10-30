@@ -1,9 +1,10 @@
 #pragma once
 
-#include "filesystem/Filesystem.hpp"
-#include "language/callbacks.hpp" // std::function
-#include "strings/StringUtils.hpp"
 #include <array>
+#include <filesystem>
+#include <functional> // std::function
+#include <string>
+#include <string_view>
 
 struct TableStatistics;
 
@@ -19,11 +20,11 @@ public:
    * @throws
    */
   virtual void importHistory(const std::filesystem::path& historyDir,
-                             FunctionVoid incrementCb = nullptr,
-                             FunctionInt setNbFilesCb = nullptr,
-                             FunctionVoid doneCb = nullptr) = 0;
+                             std::function<void()> incrementCb = nullptr,
+                             std::function<void(std::size_t)> setNbFilesCb = nullptr,
+                             std::function<void()> doneCb = nullptr) = 0;
   // disable implicit conversions to std::filesystem::path
-  void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
+  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>, std::function<void()>) = delete;
   virtual void setHistoryDir(const std::filesystem::path& dir) = 0;
 
   virtual void stopImportingHistory() = 0;

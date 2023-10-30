@@ -25,11 +25,11 @@ public:
    * @throws
    */
   void importHistory(const std::filesystem::path& historyDir,
-                     FunctionVoid incrementCb = nullptr,
-                     FunctionInt setNbFilesCb = nullptr,
-                     FunctionVoid doneCb = nullptr) override;
+                     std::function<void()> incrementCb = nullptr,
+                     std::function<void(std::size_t)> setNbFilesCb = nullptr,
+                     std::function<void()> doneCb = nullptr) override;
   // force users to user std::filesystem::path
-  void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
+  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>, std::function<void()>) = delete;
   void setHistoryDir(const std::filesystem::path& historyDir) override;
   void stopImportingHistory() override;
   [[nodiscard]] int showGui() override;
