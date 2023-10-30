@@ -1,6 +1,6 @@
 #pragma once
 
-#include "filesystem/Filesystem.hpp"  // Path, fs::*, String
+#include "filesystem/Filesystem.hpp"  // std::filesystem::path, fs::*, std::string
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
@@ -29,7 +29,7 @@ enum class LoggingLevel : short;
 namespace phud::test {
 /**
  * @return the absolute path of src/test/resources.
- * @note We use Path to mix UTF-8 and UTF-16 file names.
+ * @note We use std::filesystem::path to mix UTF-8 and UTF-16 file names.
 */
 [[nodiscard]] std::filesystem::path loadDatabaseFromTestResources(std::string_view file, std::string_view pokerSite);
 [[nodiscard]] std::filesystem::path getFileFromTestResources(std::u8string_view file);

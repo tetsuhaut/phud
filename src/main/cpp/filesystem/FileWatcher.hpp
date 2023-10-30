@@ -13,7 +13,7 @@ private:
 
 public:
   FileWatcher(std::chrono::milliseconds reloadPeriod, const std::filesystem::path& file);
-  FileWatcher(int, auto) = delete; // use only Path
+  FileWatcher(int, auto) = delete; // use only std::filesystem::path
 
   FileWatcher(const FileWatcher&) = delete;
   FileWatcher(FileWatcher&&) = delete;

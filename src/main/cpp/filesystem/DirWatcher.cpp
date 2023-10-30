@@ -1,6 +1,6 @@
 #include "containers/algorithms.hpp" // forEach
 #include <unordered_map>
-#include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, Path, String, toString
+#include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp" // NonCopyable
@@ -19,7 +19,7 @@ static Logger LOG { CURRENT_FILE_NAME };
 struct [[nodiscard]] DirWatcher::Implementation final {
   fs::path m_dir;
   // note: as of C++ 17, there is no portable way to unify std::filesystem::file_time_type and std::time :(
-  // note: impossible to use Path as a map key
+  // note: impossible to use std::filesystem::path as a map key
   FileTimes m_refFileToLastModifDate {};
   PeriodicTask m_task;
 

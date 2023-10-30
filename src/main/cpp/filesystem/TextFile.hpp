@@ -1,6 +1,6 @@
 #pragma once
 
-#include "filesystem/Filesystem.hpp" // Path, String, std::string_view, std::stringstream forward declaration
+#include "filesystem/Filesystem.hpp" // std::filesystem::path, std::string, std::string_view, std::stringstream forward declaration
 
 #include <memory> // std::unique_ptr
 #include <span>
@@ -17,7 +17,7 @@ private:
 
 public:
   explicit TextFile(const std::filesystem::path& file);
-  TextFile(auto file) = delete; // use only Path
+  TextFile(auto file) = delete; // use only std::filesystem::path
 
   TextFile(const TextFile&) = delete;
   TextFile(TextFile&&) = delete;

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "mainLib/AppInterface.hpp" // Path, uptr, std::function, TableStatistics
+#include "mainLib/AppInterface.hpp" // std::filesystem::path, std::function, TableStatistics
 
 #include <memory> // std::unique_ptr
 
@@ -28,7 +28,7 @@ public:
                      FunctionVoid incrementCb = nullptr,
                      FunctionInt setNbFilesCb = nullptr,
                      FunctionVoid doneCb = nullptr) override;
-  // force users to user Path
+  // force users to user std::filesystem::path
   void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
   void setHistoryDir(const std::filesystem::path& historyDir) override;
   void stopImportingHistory() override;

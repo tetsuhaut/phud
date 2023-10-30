@@ -5,7 +5,7 @@
 #include "filesystem/TextFile.hpp"
 #include "history/GameData.hpp" // CashGame, Tournament, Variant, Time
 #include "history/PmuHandBuilder.hpp"
-#include "history/PmuGameHistory.hpp" // Path
+#include "history/PmuGameHistory.hpp" // std::filesystem::path
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp" // ProgramInfos::*
 #include "threads/PlayerCache.hpp"
@@ -62,7 +62,7 @@ std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCac
 }
 
 template <typename GAME_TYPE> [[nodiscard]] static inline
-std::unique_ptr<GAME_TYPE> createGame(auto, PlayerCache&) = delete; // use only Path
+std::unique_ptr<GAME_TYPE> createGame(auto, PlayerCache&) = delete; // use only std::filesystem::path
 
 template<typename GAME_TYPE>
 [[nodiscard]] static inline std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile) {

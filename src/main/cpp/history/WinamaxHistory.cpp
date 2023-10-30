@@ -6,7 +6,7 @@
 #include "entities/Player.hpp"      // Player
 #include "entities/Site.hpp"        // Site
 #include "history/WinamaxGameHistory.hpp" // parseGameHistory
-#include "history/WinamaxHistory.hpp" // WinamaxHistory, Path, fs::*, Global::*, String, phud::strings
+#include "history/WinamaxHistory.hpp" // WinamaxHistory, std::filesystem::path, fs::*, Global::*, std::string, phud::strings
 #include "language/Either.hpp"
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
@@ -89,7 +89,7 @@ const fs::path& dir, const fs::path& histoDir) {
   LOG.error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
   return {};
 }
-[[nodiscard]] static inline std::vector<fs::path> getFiles(auto) = delete; // use only Path
+[[nodiscard]] static inline std::vector<fs::path> getFiles(auto) = delete; // use only std::filesystem::path
 
 // using auto&& enhances performances by inlining std::function's logic
 [[nodiscard]] static inline std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
@@ -106,7 +106,7 @@ const fs::path& dir, const fs::path& histoDir) {
   return files;
 }
 
-// disable other types than const Path&
+// disable other types than const std::filesystem::path&
 static inline std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
 
 static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::path> files,

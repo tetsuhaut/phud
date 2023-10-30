@@ -1,6 +1,6 @@
 #pragma once
 
-#include "filesystem/Filesystem.hpp" // Path
+#include "filesystem/Filesystem.hpp" // std::filesystem::path
 
 #include <chrono>
 #include <functional> // std::function
@@ -13,7 +13,7 @@ private:
 
 public:
   DirWatcher(std::chrono::milliseconds reloadPeriod, const std::filesystem::path& dir);
-  DirWatcher(int, auto) = delete; // use only Path
+  DirWatcher(int, auto) = delete; // use only std::filesystem::path
 
   DirWatcher(const DirWatcher&) = delete;
   DirWatcher(DirWatcher&&) = delete;

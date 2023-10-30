@@ -1,4 +1,4 @@
-#include "TestInfrastructure.hpp" // Path, fs::*, phud::*
+#include "TestInfrastructure.hpp" // std::filesystem::path, fs::*, phud::*
 #include "containers/algorithms.hpp" // phud::algorithms::*
 #include "db/sqliteQueries.hpp"
 #include "filesystem/TextFile.hpp" // Span
@@ -84,7 +84,8 @@ static auto SRC_FILES {
 }
 
 /**
- * @returns a Path from SRC_FILES representing the given file name if found, else a Path formed from the the given file name.
+ * @returns either an std::filesystem::path from SRC_FILES representing the given file name if found,
+ * or an std::filesystem::path formed from the the given file name.
  */
 [[nodiscard]] static inline fs::path extractAbsolutePathIncludeIfPossible(std::string_view line) {
   const auto& file { extractInclude(line) };

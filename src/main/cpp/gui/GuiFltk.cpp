@@ -8,7 +8,7 @@
 #include "language/assert.hpp" // phudAssert
 #include "language/Either.hpp" // ErrOrRes
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
-#include "mainLib/AppInterface.hpp"  // String, Vector, Path, fs::isDir
+#include "mainLib/AppInterface.hpp"  // std::string, std::vector, std::filesystem::path, fs::isDir
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "strings/StringUtils.hpp"

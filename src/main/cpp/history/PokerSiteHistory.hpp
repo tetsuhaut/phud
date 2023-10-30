@@ -1,6 +1,6 @@
 #pragma once
 
-#include "filesystem/Filesystem.hpp" // Path
+#include "filesystem/Filesystem.hpp" // std::filesystem::path
 #include "language/callbacks.hpp"
 
 #include <memory> // std::unique_ptr

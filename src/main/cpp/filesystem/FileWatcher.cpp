@@ -1,6 +1,6 @@
 #include "containers/algorithms.hpp" // forEach
 #include <unordered_map>
-#include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, FileTime, Path, String, toString, count
+#include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString, count
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp"
@@ -14,7 +14,7 @@ struct [[nodiscard]] FileWatcher::Implementation final {
   fs::path m_file;
   std::error_code m_errorCode {};
   // note: as of C++ 17, there is no portable way to unify FileTime and Time :(
-  // note: impossible to use Path as a map key
+  // note: impossible to use std::filesystem::path as a map key
   fs::file_time_type m_lastModifDate;
   PeriodicTask m_task;
 

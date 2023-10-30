@@ -5,7 +5,7 @@
 #include "filesystem/TextFile.hpp"
 #include "history/GameData.hpp" // CashGame, Tournament, Variant, Time
 #include "history/WinamaxHandBuilder.hpp"
-#include "history/WinamaxGameHistory.hpp"  // Path
+#include "history/WinamaxGameHistory.hpp"  // std::filesystem::path
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
 #include "threads/PlayerCache.hpp"

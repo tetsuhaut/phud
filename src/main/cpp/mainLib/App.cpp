@@ -8,7 +8,7 @@
 #include "language/Either.hpp" // ErrOrRes
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/App.hpp" // App, uptr, Path, phud::filesystem::*
+#include "mainLib/App.hpp" // App, std::unique_ptr, std::filesystem::path, phud::filesystem::*
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/StatsConsumer.hpp" // ThreadSafeQueue
 #include "statistics/StatsProducer.hpp"

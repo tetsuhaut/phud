@@ -1,10 +1,11 @@
 #include "db/Database.hpp" // String
-#include "entities/Game.hpp" // needed as Site declares incomplete CashGame type
-#include "entities/Player.hpp" // needed as Site declares incomplete Player type
+#include "entities/Game.hpp" // needed as Site declares the incomplete CashGame type
+#include "entities/Player.hpp" // needed as Site declares the incomplete Player type
 #include "entities/Site.hpp"
-#include "history/PokerSiteHistory.hpp" // Path
+#include "history/PokerSiteHistory.hpp" // std::filesystem::path
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
+
 #include <optional>
 #include <utility> // std::pair
 

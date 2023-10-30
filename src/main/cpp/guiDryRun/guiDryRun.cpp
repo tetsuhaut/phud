@@ -40,7 +40,7 @@ public:
     incrementCb();
     doneCb();
   }
-  // use only Path
+  // use only std::filesystem::path
   void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
 
   void stopImportingHistory() override { LOG.debug<__func__>(); }

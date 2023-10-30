@@ -22,7 +22,7 @@ public:
                              FunctionVoid incrementCb = nullptr,
                              FunctionInt setNbFilesCb = nullptr,
                              FunctionVoid doneCb = nullptr) = 0;
-  // disable implicit conversions to Path
+  // disable implicit conversions to std::filesystem::path
   void importHistory(auto, FunctionVoid, FunctionInt, FunctionVoid) = delete;
   virtual void setHistoryDir(const std::filesystem::path& dir) = 0;
 

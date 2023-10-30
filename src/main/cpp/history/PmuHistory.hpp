@@ -1,6 +1,6 @@
 #pragma once
 
-#include "history/PokerSiteHistory.hpp" // Path, uptr, std::function
+#include "history/PokerSiteHistory.hpp" // std::filesystem::path, std::unique_ptr, std::function
 
 // forward declarations
 class Site;

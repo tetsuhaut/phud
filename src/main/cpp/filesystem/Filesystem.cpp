@@ -1,5 +1,5 @@
 #include "containers/algorithms.hpp"
-#include "filesystem/Filesystem.hpp" // Path, std::string_view, Vector
+#include "filesystem/Filesystem.hpp" // std::filesystem::path, std::string_view, std::vector
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp"
 
@@ -25,9 +25,8 @@ private:
   fs::path m_startDir;
 
 public:
-  template<typename T> requires(std::same_as<T, fs::path>) // use only Path
-  explicit FilesInDir(const T& startDir) : m_startDir{ startDir } {}
-  //FilesInDir(auto) = delete; // use only Path
+  explicit FilesInDir(const fs::path& startDir) : m_startDir{ startDir } {}
+  FilesInDir(auto) = delete; // use only std::filesystem::path
   [[nodiscard]] Iterator begin() const { return Iterator(m_startDir); }
   [[nodiscard]] Iterator end() const noexcept { return Iterator(); }
   [[nodiscard]] Iterator begin() { return Iterator(m_startDir); }
@@ -39,7 +38,7 @@ using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
 
 }; // namespace
 
-// use Path as std needs std::path
+// use std::filesystem::path as std needs it
 std::string phud::filesystem::readToString(const fs::path& p) {
   phudAssert(!phud::filesystem::isDir(p), "given a dir instead of a file");
   std::string s{ fmt::format("given a non exiting file '{}'", p.string()) };
@@ -65,7 +64,7 @@ static inline std::vector<fs::path> iterateDirs(const fs::path& dir) {
 
   return ret;
 }
-static inline std::vector<fs::path> genericListDirs(auto) = delete; // use only Path
+static inline std::vector<fs::path> genericListDirs(auto) = delete; // use only std::filesystem::path
 
 std::vector<fs::path> phud::filesystem::listFilesAndDirs(const fs::path& dir) {
   return iterateDirs<DirIt>(dir);
