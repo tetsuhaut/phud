@@ -1,10 +1,7 @@
-#include "containers/algorithms.hpp" // phud::algorithms
-#include "entities/Action.hpp" // ActionType, String
+#include "entities/Action.hpp" // ActionType, std::string
 #include "language/assert.hpp" // phudAssert
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>
-
-namespace pa = phud::algorithms;
 
 // Note : must use frozen::string for map keys.
 // frozen::string can be created from std::string_view.
@@ -40,9 +37,9 @@ Action::Action(const Params& p)
 Action::~Action() = default;
 
 std::string_view toString(ActionType at) {
-  return pa::getValueFromKey(ACTION_TYPE_TO_STRING, at);
+  return ACTION_TYPE_TO_STRING.find(at)->second;
 }
 
 std::string_view toString(Street st) {
-  return pa::getValueFromKey(STREET_TO_STRING, st);
+  return STREET_TO_STRING.find(st)->second;
 }

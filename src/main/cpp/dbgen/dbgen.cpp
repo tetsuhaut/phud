@@ -1,4 +1,4 @@
-#include "db/Database.hpp" // String
+#include "db/Database.hpp" // std::string
 #include "entities/Game.hpp" // needed as Site declares the incomplete CashGame type
 #include "entities/Player.hpp" // needed as Site declares the incomplete Player type
 #include "entities/Site.hpp"

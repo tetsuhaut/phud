@@ -341,37 +341,6 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
   });
 }
 
-static constexpr auto FILE_NAME_TO_FORBIDDEN_TOKENS {
-  frozen::make_unordered_map<frozen::string, std::array<std::string_view, 4>>({
-    /* each file defines a list of shortcuts */
-    { "memory.hpp", { "unique_ptr", "shared_ptr", "make_unique", "make_shared" }},
-  })
-};
-
-BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useShortcutsWherePossible) {
-  /* scan every source file. if it contains the unshorted version, log it */
-  pa::forEach(::MY_SRC_FILES_WITH_EXCEPTION, [](const auto & file) {
-    pa::forEach(FILE_NAME_TO_FORBIDDEN_TOKENS, [&file](const auto & entry) {
-      if (const auto & referenceFile { entry.first }; !file.string().ends_with(referenceFile.data())) {
-        const auto& shortcuts { entry.second };
-        TextFile tfl { file };
-
-        while (tfl.next()) {
-          if (isAComment(tfl.trim())) { continue; }
-
-          pa::forEach(shortcuts, [&](const auto & badToken) {
-            if (0 != badToken.size() and tfl.containsExact(badToken)) {
-              LOG.warn<"In the file {} at line {}, presence of '{}' that should be shortened.\n"
-              "See {} for the shortened version.">(file.string(), tfl.getLineIndex(),
-                                                   badToken, referenceFile.data());
-            }
-          });
-        }
-      }
-    });
-  });
-}
-
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_destructorShouldNotBeNoExcept) {
   /* C++11 made destructors noexcept by default, unless stated differently */
   pa::forEach(::MY_SRC_FILES, [](const auto & file) {

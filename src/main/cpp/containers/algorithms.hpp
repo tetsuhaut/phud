@@ -1,7 +1,6 @@
 #pragma once
 
-#include "strings/StringUtils.hpp" // std::find_if, std::for_each, etc...
-#include "strings/StringLiteral.hpp"
+#include "strings/StringLiteral.hpp" // std::find_if, std::for_each, etc...
 #include <iterator> // std::begin, std::end, std::back_inserter
 #include <vector>
 
@@ -120,15 +119,4 @@ constexpr void moveInto(SOURCE& s, TARGET& t) noexcept { std::move(std::begin(s)
 }
 
 [[nodiscard]] constexpr bool isEmpty(const auto& container) { return 0 == std::size(container); }
-
-template<template<typename, typename> typename SmartPointer, typename T, typename U>
-[[nodiscard]] inline std::vector<const T*> mkView(const std::vector<SmartPointer<T, U>>& v) {
-  std::vector<const T*> ret;
-  ret.reserve(v.size());
-
-  // here we use a 'for' loop to avoid depending on <algorithm>
-  for (const auto& e : v) { ret.push_back(e.get()); }
-
-  return ret;
-}
 } // namespace phud::algorithms

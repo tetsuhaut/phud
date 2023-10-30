@@ -1,7 +1,7 @@
 #pragma once
 
 #include "entities/Seat.hpp"
-#include "system/Time.hpp" // String, std::string_view, Time
+#include "system/Time.hpp" // std::string, std::string_view, Time
 #include <vector>
 
 // forward declarations

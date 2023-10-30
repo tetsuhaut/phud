@@ -1,4 +1,4 @@
-#include "containers/ThreadSafeQueue.hpp" // uptr
+#include "containers/ThreadSafeQueue.hpp" // std::unique_ptr
 #include "gui/Gui.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/AppInterface.hpp" // std::string_view, std::function

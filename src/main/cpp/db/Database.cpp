@@ -1,5 +1,4 @@
-#include "containers/algorithms.hpp" // phud::algorithms::*
-#include "db/Database.hpp"  // DatabaseException, String, Vector, std::ostream (specialized by fmt to use operator<< with Database)
+#include "db/Database.hpp"  // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database)
 #include "db/SqlInsertor.hpp"  // Game
 #include "db/SqlSelector.hpp" // phudAssert
 #include "db/sqliteQueries.hpp" // all the SQL queries
@@ -21,6 +20,7 @@
 #include <stlab/concurrency/utility.hpp> // stlab::await, Future
 
 #include <mutex>
+#include <ranges>
 #include <span>
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
@@ -32,7 +32,6 @@
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
@@ -86,7 +85,7 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_vie
 
   if (isDbCreation) {
     LOG.info<"creating the database schema {}">(name);
-    pa::forEach(phud::sql::CREATE_QUERIES, [pDb](const auto & query) { executeSql(pDb, query); });
+    std::ranges::for_each(phud::sql::CREATE_QUERIES, [pDb](const auto & query) { executeSql(pDb, query); });
     LOG.info<"database created">();
   }
 
@@ -193,7 +192,7 @@ static inline void saveActions(const gsl::not_null<sqlite3*> db,
 
   static_assert(ps::contains(phud::sql::INSERT_ACTION, '?'), "ill-formed SQL template");
   SqlInsertor query { phud::sql::INSERT_ACTION };
-  pa::forEach(actions, [&query](const auto & pAction) {
+  std::ranges::for_each(actions, [&query](const auto & pAction) {
     query
     .street(pAction->getStreet())
     .handId(pAction->getHandId())
@@ -216,7 +215,7 @@ static inline void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) 
   insertSpecificGame(db, game);
   LOG.info<"saving {} hands from the game with id={}">(hands.size(), gameId);
   saveHands(db, gameId, hands);
-  pa::forEach(hands, [db](const auto & h) {
+  std::ranges::for_each(hands, [db](const auto & h) {
     LOG.trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
     auto av { h->viewActions() };
     saveActions(db, av);
@@ -256,7 +255,7 @@ void Database::save(std::span<const Player* const> players) {
 
   static_assert(ps::contains(phud::sql::INSERT_PLAYER, '?'), "ill-formed SQL template");
   SqlInsertor query { phud::sql::INSERT_PLAYER };
-  pa::forEach(players, [&query](const auto & p) {
+  std::ranges::for_each(players, [&query](const auto & p) {
     query
     .playerName(p->getName())
     .siteName(p->getSiteName())
@@ -276,10 +275,11 @@ static inline void save(const gsl::not_null<sqlite3*> pDb, const Site& s) {
   executeSql(pDb, SqlInsertor(phud::sql::INSERT_SITE).siteName(s.getName()).build());
 }
 
-static inline std::vector<Future<void>> saveGamesAsync(const auto& games, Database& self) {
+template<typename T>
+static inline std::vector<Future<void>> saveGamesAsync(const std::vector<const T*>& games, Database& self) {
   std::vector<Future<void>> ret;
   ret.reserve(games.size());
-  pa::transform(games, ret, [&](const auto & pGame) {
+  std::transform(games.cbegin(), games.cend(), std::back_inserter(ret), [&](const auto& pGame) {
     return ThreadPool::submit([&]() {
       const auto& gameId { pGame->getId() };
 
@@ -306,8 +306,8 @@ void Database::save(const Site& site) {
   const auto& tournaments { site.viewTournaments() };
   auto tasks1 { saveGamesAsync(cashGames, *this) };
   auto tasks2 = saveGamesAsync(tournaments, *this);
-  pa::forEach(tasks1, [](auto & task) { stlab::await(std::move(task)); });
-  pa::forEach(tasks2, [](auto & task) { stlab::await(std::move(task)); });
+  std::ranges::for_each(tasks1, [](auto & task) { stlab::await(std::move(task)); });
+  std::ranges::for_each(tasks2, [](auto & task) { stlab::await(std::move(task)); });
   transaction.commit();
 }
 
@@ -346,14 +346,14 @@ static inline void saveHands(const gsl::not_null<sqlite3*> db, std::string_view 
   SqlInsertor handInsert { phud::sql::INSERT_HAND };
   static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER, '?'), "ill-formed SQL template");
   SqlInsertor handPlayerInsert { phud::sql::INSERT_HAND_PLAYER };
-  SqlInsertor gameHandInsert { pa::getValueFromKey(GAME_TYPE_TO_ID_AND_COLUMN_NAME, gsl::at(hands, 0)->getGameType()) };
-  pa::forEach(hands, [&](const auto & pHand) {
+  SqlInsertor gameHandInsert { GAME_TYPE_TO_ID_AND_COLUMN_NAME.find(gsl::at(hands, 0)->getGameType())->second };
+  std::ranges::for_each(hands, [&](const auto & pHand) {
     insertHand(handInsert, *pHand);
     const auto& seats { pHand->getSeats() };
-    phudAssert(!pa::allOf(seats, [](const auto & p) { return p.empty(); }),
+    phudAssert(!std::ranges::all_of(seats, [](const auto & p) { return p.empty(); }),
     "trying to save a hand with no players");
     int i { 1 };
-    pa::forEach(seats, [&](const auto & playerName) {
+    std::ranges::for_each(seats, [&](const auto & playerName) {
       // we suppose the Player has been saved before this call
       if (!playerName.empty()) {
         handPlayerInsert

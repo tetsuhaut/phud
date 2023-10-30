@@ -22,7 +22,7 @@ struct [[nodiscard]] FileWatcher::Implementation final {
     m_file { file },
     m_lastModifDate { fs::last_write_time(file, m_errorCode) },
     m_task { reloadPeriod, CURRENT_FILE_NAME } {
-    if (!m_errorCode) {
+    if (0 != m_errorCode.value()) {
       LOG.error<"Error getting last write time for file {} in directory {}: {}">(
         file.string(), file.parent_path().string(), m_errorCode.message());
     }
@@ -36,7 +36,7 @@ static inline void getLatestUpdatedFile(const fs::path& file,
                                         fs::file_time_type& lastModified, auto&& fileHasChangedCb) {
   std::error_code ec;
 
-  if (const auto & lasWriteTime { fs::last_write_time(file, ec) }; ec) {
+  if (const auto & lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
     if (lastModified != lasWriteTime) {
       lastModified = lasWriteTime;
       LOG.info<"The file\n{}\nhas changed, notify listener">(file.string());

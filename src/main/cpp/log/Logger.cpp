@@ -1,5 +1,5 @@
 #include "containers/algorithms.hpp"
-#include "log/Logger.hpp" // std::string_view, String
+#include "log/Logger.hpp" // std::string_view, std::string
 
 #include <frozen/unordered_map.h>
 

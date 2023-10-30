@@ -45,7 +45,7 @@ std::string phud::filesystem::readToString(const fs::path& p) {
   phudAssert(phud::filesystem::isFile(p), s.c_str());
   std::ifstream in { p };
   // decltype(std::ifstream::gcount()) is std::streamsize, which is signed.
-  // std::string constructor takes a String::size_type, which is unsigned.
+  // std::string constructor takes a std::string::size_type, which is unsigned.
   // we know that std::ifstream::gcount() is always positive
   in.ignore(std::numeric_limits<std::streamsize>::max());
   std::string result(gsl::narrow_cast<std::string::size_type>(in.gcount()), '\0');

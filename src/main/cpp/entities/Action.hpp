@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringUtils.hpp" // std::string_view
+#include <string_view>
 
 /**
  * The elementary move a player can do during the game.

@@ -1,4 +1,4 @@
-#include "statistics/PlayerStatistics.hpp" // PlayerStatistics, std::string_view, String, PlayerStatistics::Params
+#include "statistics/PlayerStatistics.hpp" // PlayerStatistics, std::string_view, std::string, PlayerStatistics::Params
 
 PlayerStatistics::PlayerStatistics(const Params& p) noexcept
   : m_nbHands { p.nbHands },

@@ -1,4 +1,4 @@
-#include "TestInfrastructure.hpp" // String
+#include "TestInfrastructure.hpp" // std::string
 #include "entities/Action.hpp" // toString(ActionType)
 #include "entities/Card.hpp" // toString(Card)
 #include "entities/GameType.hpp"

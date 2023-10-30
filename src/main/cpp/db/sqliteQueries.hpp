@@ -182,10 +182,10 @@ VALUES (
 
 /**
   * Inserts an Action entity into the Action table.
-  * @param street as String
-  * @param handId as String
-  * @param playerName as String
-  * @param actionType as String
+  * @param street as std::string
+  * @param handId as std::string
+  * @param playerName as std::string
+  * @param actionType as std::string
   * @param actionIndex as int
   * @param betAmount as double
   */

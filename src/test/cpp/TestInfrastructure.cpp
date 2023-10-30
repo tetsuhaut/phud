@@ -158,7 +158,7 @@ static inline void removeWithMessage(const fs::path& file) {
   const auto& fileType { pf::isFile(file) ? "file" : "directory" };
 
   if (std::error_code ec; !std::filesystem::remove_all(file, ec)) {
-    if (ec) {
+    if (0 == ec.value()) {
       BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
     } else [[unlikely]] {
         BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));

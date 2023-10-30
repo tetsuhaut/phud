@@ -1,7 +1,7 @@
 #include "containers/algorithms.hpp" // phud::algorithms
 #include "entities/Player.hpp"
 #include "entities/Seat.hpp"
-#include "gui/Gui.hpp"  // uptr, mkUptr
+#include "gui/Gui.hpp"  // std::unique_ptr, std::make_unique
 #include "gui/MainWindowAppearance.hpp" // Label::, Size::
 #include "gui/PlayerIndicator.hpp" // DragAndDropWindow, Fl_Double_Window
 #include "gui/Position.hpp" // buildPlayerIndicatorPosition()
@@ -204,7 +204,7 @@ static inline void informUser(Gui::Implementation& aSelf) {
   }, &aSelf);
 }
 
-struct InformUser {
+struct [[nodiscard]] InformUser {
   Gui::Implementation& m_self;
   std::string_view m_msg;
   InformUser(Gui::Implementation& self, std::string_view msg)
@@ -248,7 +248,7 @@ std::unique_ptr<PlayerIndicator>& getPlayerIndicator(Gui::Implementation& self, 
   return self.m_playerIndicators.at(tableSeat::toArrayIndex(seat));
 }
 
-struct UpdatePlayerIndicators {
+struct [[nodiscard]] UpdatePlayerIndicators {
   Gui::Implementation& m_self;
   Seat m_seat;
   std::pair<int, int> m_pos;
@@ -283,7 +283,7 @@ static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
   playerIndicator->show();
 }
 
-struct ResetPlayerIndicator {
+struct [[nodiscard]] ResetPlayerIndicator {
   Gui::Implementation& m_self;
   Seat m_seat;
   ResetPlayerIndicator(Gui::Implementation& self, Seat seat)
@@ -297,7 +297,7 @@ static inline void resetPlayerIndicatorsAwakeCb(void* hidden) {
   getPlayerIndicator(rpi->m_self, rpi->m_seat).reset();
 }
 
-struct UpdateTable {
+struct [[nodiscard]] UpdateTable {
   Gui::Implementation& m_self;
   phud::Rectangle m_tablePosition;
   TableStatistics m_tableStatistics;
@@ -457,7 +457,7 @@ static inline void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   while (Fl::first_window()) { Fl::first_window()->hide(); }
 }
 
-struct NbFilesToLoad {
+struct [[nodiscard]] NbFilesToLoad {
   Fl_Progress* m_progressBar;
   size_t m_nbFilesToLoad;
 };
@@ -492,7 +492,7 @@ static inline void finishHistoryLoadingAwakeCb(void* hidden) {
   static_cast<Fl_Button*>(hidden)->activate();
 }
 
-struct ImportDir {
+struct [[nodiscard]] ImportDir {
   Gui::Implementation& m_self;
   fs::path m_dir;
 

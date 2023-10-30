@@ -1,6 +1,7 @@
 #pragma once
 
-#include "containers/ThreadSafeQueue.hpp" // uptr
+#include "containers/ThreadSafeQueue.hpp" // std::unique_ptr
+
 #include <chrono>
 
 class Database;

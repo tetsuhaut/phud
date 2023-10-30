@@ -1,6 +1,6 @@
 #pragma once
 
-#include "entities/Game.hpp" // String, std::string_view, Time, Variant, Limit
+#include "entities/Game.hpp" // std::string, std::string_view, Time, Variant, Limit
 #include "entities/Seat.hpp"
 
 struct [[nodiscard]] GameData final {

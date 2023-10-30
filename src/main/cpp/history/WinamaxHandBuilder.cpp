@@ -33,7 +33,7 @@ constexpr static std::array FIVE_NONE_CARDS { Card::none, Card::none, Card::none
 static constexpr auto MINUS_LENGTH { ps::length(" - ") }; // nb char without '\0
 static constexpr auto HAND_ID_LENGTH { ps::length(" - HandId: #") }; // nb char without '\0
 
-struct StartOfWinamaxPokerLine {
+struct [[nodiscard]] StartOfWinamaxPokerLine {
   std::size_t m_handIdPos;
   Time m_handStartDate;
   std::string m_handId;
@@ -60,7 +60,7 @@ struct StartOfWinamaxPokerLine {
 static constexpr auto BUY_IN_LENGTH { ps::length(" buyIn: ") }; // nb char without '\0
 static constexpr auto LEVEL_LENGTH { ps::length(" level: ") }; // nb char without '\0
 
-struct BuyInLevelDateHandId {
+struct [[nodiscard]] BuyInLevelDateHandId {
   double m_buyIn;
   int m_level;
   Time m_date;
@@ -78,7 +78,7 @@ getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   return { .m_buyIn = buyIn, .m_level = level, .m_date = handStartDate, .m_handId = handId };
 }
 
-struct LevelDateHandId {
+struct [[nodiscard]] LevelDateHandId {
   int m_level;
   Time m_date;
   std::string m_handId;
@@ -93,7 +93,7 @@ getLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   return { .m_level = level, .m_date = handStartDate, .m_handId = handId };
 }
 
-struct SmallBlindBigBlindDateHandId {
+struct [[nodiscard]] SmallBlindBigBlindDateHandId {
   double m_smallBlind;
   double m_bigBlind;
   Time m_date;
@@ -163,7 +163,7 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
 static constexpr auto TABLE_LENGTH { ps::length("Table: '") };
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
-struct NbMaxSeatsTableNameButtonSeat {
+struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat {
   Seat m_nbMaxSeats;
   std::string m_tableName;
   Seat m_buttonSeat;
@@ -207,7 +207,7 @@ static constexpr auto POSTS_ANTE_LENGTH { ps::length(" posts ante ") };
   return ret;
 }
 
-struct ActionParams {
+struct [[nodiscard]] ActionParams {
   std::string_view m_playerName;
   ActionType m_type;
   double m_bet;

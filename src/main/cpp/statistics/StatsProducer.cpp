@@ -3,7 +3,7 @@
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
-#include "statistics/StatsProducer.hpp" // ThreadSafeQueue, std::array, toMilliseconds, uptr
+#include "statistics/StatsProducer.hpp" // ThreadSafeQueue, std::array, toMilliseconds, std::unique_ptr
 #include "statistics/TableStatistics.hpp"
 #include "threads/PeriodicTask.hpp"
 

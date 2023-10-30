@@ -1,11 +1,11 @@
-#include "containers/algorithms.hpp"
-#include "entities/Game.hpp" // Game, String, mkView
+#include "entities/Game.hpp" // Game, std::string
 #include "entities/Hand.hpp"
 #include "language/assert.hpp" // phudAssert
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>
 
-namespace pa = phud::algorithms;
+#include <algorithm>
+#include <ranges>
 
 // Note : must use frozen::string when it is a map key.
 // frozen::string can be created from std::string_view.
@@ -25,11 +25,11 @@ static constexpr auto LIMIT_TO_STRING {
 };
 
 std::string_view toString(Variant variant) {
-  return pa::getValueFromKey(VARIANT_TO_STRING, variant);
+  return VARIANT_TO_STRING.find(variant)->second;
 }
 
 std::string_view toString(Limit limitType) {
-  return pa::getValueFromKey(LIMIT_TO_STRING, limitType);
+  return LIMIT_TO_STRING.find(limitType)->second;
 }
 
 Game::Game(const Params& args)
@@ -48,16 +48,20 @@ Game::Game(const Params& args)
   phudAssert(m_nbMaxSeats != Seat::seatUnknown, "nbMaxSeats must be defined");
 }
 
-Game::~Game() = default; // needed because Game owns private uptr members
+Game::~Game() = default; // needed because Game owns private std::unique_ptr members
 
 void Game::addHand(std::unique_ptr<Hand> hand) { m_hands.push_back(std::move(hand)); }
 
-std::vector<const Hand*> Game::viewHands() const { return pa::mkView(m_hands); }
+std::vector<const Hand*> Game::viewHands() const {
+  std::vector<const Hand*> ret;
+  ret.reserve(m_hands.size());
+  std::transform(m_hands.cbegin(), m_hands.end(), std::back_inserter(ret), [](const auto& pHand) { return pHand.get(); });
+  return ret;
+}
 
 std::vector<const Hand*> Game::viewHands(std::string_view player) const {
-  std::vector<const Hand*> ret;
-  pa::forEach(m_hands, [&](const auto & h) { if (h->isPlayerInvolved(player)) { ret.push_back(h.get()); } });
-  return ret;
+  auto r = m_hands | std::views::transform([](const auto& pHand) { return pHand.get(); }) | std::views::filter([player](const auto& pHand) { return pHand->isPlayerInvolved(player); });
+  return {r.begin(), r.end()};
 }
 
 Tournament::Tournament(const Params& p)

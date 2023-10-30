@@ -38,7 +38,7 @@ static inline void seekToDealingDownCards(TextFile& tf) {
 
 [[nodiscard]] bool isDigit(const auto& someGenericChar) { return 0 != std::isdigit(someGenericChar); }
 
-struct InfosFromCashGamePmuPokerLine {
+struct [[nodiscard]] InfosFromCashGamePmuPokerLine {
   double m_smallBlind;
   double m_bigBlind;
   Time m_startDate;
@@ -128,7 +128,7 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
   return { Street::preflop, FIVE_NONE_CARDS };
 }
 
-struct LineForActionParams {
+struct [[nodiscard]] LineForActionParams {
   std::string_view m_playerName;
   ActionType m_type;
   double m_bet;
@@ -235,7 +235,7 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
   return FIVE_NONE_CARDS;
 }
 
-struct ActionsAndWinnersAndBoardCards {
+struct [[nodiscard]] ActionsAndWinnersAndBoardCards {
   std::vector<std::unique_ptr<Action>> m_actions;
   std::array<std::string, 10> m_winners;
   std::array<Card, 5> m_boardCards;
@@ -270,7 +270,7 @@ parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
 
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
-struct NbMaxSeatsTableNameButtonSeat {
+struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat {
   int m_nbMaxSeats;
   std::string m_tableName;
   int m_buttonSeat;

@@ -1,5 +1,5 @@
 #include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface, phud::Rectangle
-#include "gui/PlayerIndicator.hpp" // Fl_Double_Window, String, std::string_view
+#include "gui/PlayerIndicator.hpp" // Fl_Double_Window, std::string, std::string_view
 #include "log/Logger.hpp" // fmt::*, Logger, CURRENT_FILE_NAME
 #include "statistics/PlayerStatistics.hpp"
 

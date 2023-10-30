@@ -1,7 +1,7 @@
 #pragma once
 
 #include "language/limits.hpp" // toInt
-#include "strings/StringUtils.hpp" // String, std::string_view
+#include "strings/StringUtils.hpp" // std::string, std::string_view
 
 #include <memory> // std::unique_ptr
 

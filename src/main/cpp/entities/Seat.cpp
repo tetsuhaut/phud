@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp"
 #include "entities/Seat.hpp"
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>
@@ -51,27 +50,27 @@ static constexpr auto SIZET_TO_ENUM {
   phudAssert("1" == seatStr or "2" == seatStr or "3" == seatStr or "4" == seatStr or "5" == seatStr
              or "6" == seatStr or "7" == seatStr or "8" == seatStr or "9" == seatStr or "10" == seatStr,
              "bad seat string");
-  return phud::algorithms::getValueFromKey(STRING_TO_ENUM, seatStr);
+  return STRING_TO_ENUM.find(seatStr)->second;
 }
 
 /*[[nodiscard]]*/ Seat tableSeat::fromArrayIndex(std::size_t i) {
   phudAssert(10 > i, "Can't find a seat for that value");
-  return phud::algorithms::getValueFromKey(SIZET_TO_ENUM, i + 1);
+  return SIZET_TO_ENUM.find(i + 1)->second;
 }
 
 /*[[nodiscard]]*/ std::size_t tableSeat::toArrayIndex(Seat seat) {
-  return phud::algorithms::getValueFromKey(ENUM_TO_SIZET, seat) - 1;
+  return ENUM_TO_SIZET.find(seat)->second - 1;
 }
 
 /*[[nodiscard]]*/ std::string_view tableSeat::toString(Seat seat) {
-  return phud::algorithms::getValueFromKey(ENUM_TO_STRING, seat);
+  return ENUM_TO_STRING.find(seat)->second;
 }
 
 /*[[nodiscard]]*/ Seat tableSeat::fromInt(int i) {
   phudAssert(0 < i and 11 > i, "Can't find a seat for that value");
-  return phud::algorithms::getValueFromKey(INT_TO_ENUM, i);
+  return INT_TO_ENUM.find(i)->second;
 }
 
 /*[[nodiscard]]*/ int tableSeat::toInt(Seat seat) {
-  return phud::algorithms::getValueFromKey(ENUM_TO_INT, seat);
+  return ENUM_TO_INT.find(seat)->second;
 }

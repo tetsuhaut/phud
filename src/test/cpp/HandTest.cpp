@@ -7,7 +7,7 @@
 #include "entities/Player.hpp" // needed as Site declares incomplete Player type
 #include "entities/Site.hpp"
 #include "filesystem/TextFile.hpp"
-#include "history/GameData.hpp" // String, std::string_view, Time, Variant, Limit
+#include "history/GameData.hpp" // std::string, std::string_view, Time, Variant, Limit
 #include "history/WinamaxHandBuilder.hpp" // toAmount, toBuyIn
 #include "history/WinamaxGameHistory.hpp"
 #include "mainLib/ProgramInfos.hpp"

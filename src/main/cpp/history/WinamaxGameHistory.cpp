@@ -39,7 +39,7 @@ namespace ps = phud::strings;
   return Variant::none;
 }
 
-struct FileStem {
+struct [[nodiscard]] FileStem {
   bool m_isRealMoney;
   std::string m_gameName;
   Variant m_variant;

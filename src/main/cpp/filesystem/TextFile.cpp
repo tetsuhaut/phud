@@ -1,5 +1,5 @@
 #include "containers/algorithms.hpp"
-#include "filesystem/TextFile.hpp"  // String, std::string_view, Vector
+#include "filesystem/TextFile.hpp"  // std::string, std::string_view, std::vector
 #include <sstream> // std::stringstream
 
 namespace fs = std::filesystem;

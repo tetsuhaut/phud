@@ -9,7 +9,7 @@ namespace pa = phud::algorithms;
 Site::Site(std::string_view name)
   : m_name { name } { phudAssert(!m_name.empty(), "name is empty"); }
 
-Site::~Site() = default; // needed because Site owns private uptr members
+Site::~Site() = default; // needed because Site owns private std::unique_ptr members
 
 std::vector<const Player*> Site::viewPlayers() const {
   std::vector<const Player*> ret;
@@ -38,9 +38,17 @@ void Site::addGame(std::unique_ptr<Tournament> game) {
   m_tournaments.push_back(std::move(game));
 }
 
-std::vector<const CashGame*> Site::viewCashGames() const { return pa::mkView(m_cashGames); }
+template<typename T>
+static std::vector<const T*> view(const std::vector<std::unique_ptr<T>>& source) {
+  std::vector<const T*> ret;
+  ret.reserve(source.size());
+  std::transform(source.cbegin(), source.end(), std::back_inserter(ret), [](const auto& pointer) { return pointer.get(); });
+  return ret;
+}
 
-std::vector<const Tournament*> Site::viewTournaments() const { return pa::mkView(m_tournaments); }
+std::vector<const CashGame*> Site::viewCashGames() const { return view(m_cashGames); }
+
+std::vector<const Tournament*> Site::viewTournaments() const { return view(m_tournaments); }
 
 void Site::merge(Site& other) {
   phudAssert(other.getName() == m_name, "Can't merge data from different poker sites");
