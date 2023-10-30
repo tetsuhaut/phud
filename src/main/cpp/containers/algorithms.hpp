@@ -95,24 +95,6 @@ template<typename CONTAINER_OUTPUT, typename CONTAINER_INPUT, typename UNARY_PRE
 }
 
 
-// works on gcc but not Visual Studio 2019 16.11.3 TODO est-ce toujours d'actualité ?
-/*
-// use std::back_inserter for types that have push_back
-template<typename> struct PM_traits {};
-template<typename T, typename U> struct PM_traits<U T::*> { using memberType = U; };
-
-template<typename SOURCE, typename TARGET, typename UNARY_FUNCTION>
-constexpr void transform(const SOURCE& source, TARGET& target, UNARY_FUNCTION f) noexcept {
-  using MyType = PM_traits<decltype(&TARGET::push_back)>::memberType;
-
-  if constexpr (std::is_function_v<MyType>) {
-    std::transform(std::begin(source), std::end(source), std::back_inserter(target), f);
-  }
-  if constexpr (!std::is_function_v<MyType>) {
-    std::transform(std::begin(source), std::end(source), target, f);
-  }
-}*/
-
 template<typename SOURCE, typename TARGET, typename UNARY_FUNCTION>
 constexpr void transform(const SOURCE& source, TARGET& target, UNARY_FUNCTION f) noexcept {
   std::transform(std::begin(source), std::end(source), std::back_inserter(target), f);

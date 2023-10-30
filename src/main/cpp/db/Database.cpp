@@ -13,13 +13,14 @@
 #include "log/Logger.hpp" // fmt::format(), CURRENT_FILE_NAME
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
-#include "threads/Mutex.hpp"
 #include "threads/ThreadPool.hpp"  // ThreadPool
 #include "entities/Card.hpp" // Card, String
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::not_null
 #include <sqlite3.h>  // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await, Future
+
+#include <mutex>
 #include <span>
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
@@ -104,14 +105,14 @@ struct [[nodiscard]] Database::Implementation final {
 
 class [[nodiscard]] Transaction final {
 private:
-  Mutex m_mutex {};
+  std::mutex m_mutex {};
   gsl::not_null<sqlite3*> m_db;
   bool m_didCommit { false };
 
 public:
   explicit Transaction(gsl::not_null<sqlite3*> a_db)
     : m_db { a_db } {
-    const LockGuard lock { m_mutex };
+    const std::lock_guard<std::mutex> lock { m_mutex };
     executeSql(m_db, "BEGIN TRANSACTION;");
   }
 

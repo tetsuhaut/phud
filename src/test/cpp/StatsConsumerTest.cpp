@@ -2,7 +2,9 @@
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/StatsConsumer.hpp"
 #include "statistics/TableStatistics.hpp"
-#include "threads/ConditionVariable.hpp" // Mutex
+
+#include <condition_variable>
+#include <mutex> // std::unique_lock
 
 BOOST_AUTO_TEST_SUITE(StatsReaderTest)
 
@@ -23,14 +25,14 @@ BOOST_AUTO_TEST_CASE(StatsReaderTest_notifyingShouldSucceed) {
   };
   queue.push({ .m_maxSeats = Seat::seatThree, .m_tableStats = std::move(playerStats) });
   int nbNotified = 0;
-  ConditionVariable cv;
+  std::condition_variable cv;
   consumer.consumeAndNotify([&nbNotified, &cv](TableStatistics&) {
     nbNotified++;
     cv.notify_one();
   });
-  Mutex mutex;
+  std::mutex mutex;
   {
-    UniqueLock lock { mutex };
+    std::unique_lock<std::mutex> lock { mutex };
     cv.wait(lock);
   }
   BOOST_REQUIRE(0 != nbNotified);

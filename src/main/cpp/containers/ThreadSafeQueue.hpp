@@ -1,18 +1,19 @@
 #pragma once
 
 #include "system/memory.hpp" // sptr, uptr
-#include "threads/ConditionVariable.hpp" // Mutex, LockGuard, UniqueLock
+#include <condition_variable>
+#include <mutex>
 #include <queue>
 
-// informations: LockGuard unlocks only when destroyed. ConditionVariable does not take LockGuard.
+// informations: std::lock_guard<std::mutex> unlocks only when destroyed. std::condition_variable does not take std::lock_guard<std::mutex>.
 
 // inspired from https://www.justsoftwaresolutions.co.uk/threading/implementing-a-thread-safe-queue-using-condition-variables.html
 template <typename T>
 class [[nodiscard]] LockFullThreadSafeQueue final {
 private:
-  mutable Mutex m_mutex {}; // mutable so that isEmpty() can be const
+  mutable std::mutex m_mutex {}; // mutable so that isEmpty() can be const
   std::queue<T> m_queue {};
-  ConditionVariable m_condition {};
+  std::condition_variable m_condition {};
 
   void pop(T& t) noexcept {
     t = std::move(m_queue.front());
@@ -28,19 +29,19 @@ public:
   ~LockFullThreadSafeQueue() = default;
 
   void push(const T& t) {
-    const LockGuard lock(m_mutex);
+    const std::lock_guard<std::mutex> lock(m_mutex);
     m_queue.push(t);
     m_condition.notify_one();
   }
 
   void push(T&& t) {
-    const LockGuard lock(m_mutex);
+    const std::lock_guard<std::mutex> lock(m_mutex);
     m_queue.push(std::move(t));
     m_condition.notify_one();
   }
 
   [[nodiscard]] bool tryPop(T& t) {
-    const LockGuard lock(m_mutex);
+    const std::lock_guard<std::mutex> lock(m_mutex);
 
     if (m_queue.empty()) { return false; }
 
@@ -49,18 +50,18 @@ public:
   }
 
   void waitPop(T& t) {
-    UniqueLock lock(m_mutex);
+    std::unique_lock<std::mutex> lock(m_mutex);
     m_condition.wait(lock, [this] { return !m_queue.empty(); });
     pop(t);
   }
 
   [[nodiscard]] bool isEmpty() const {
-    const LockGuard lock(m_mutex);
+    const std::lock_guard<std::mutex> lock(m_mutex);
     return m_queue.empty();
   }
 
   [[nodiscard]] int size() const {
-    const LockGuard lock(m_mutex);
+    const std::lock_guard<std::mutex> lock(m_mutex);
     return m_queue.ssize();
   }
 }; // class LockFullThreadSafeQueue
@@ -74,14 +75,14 @@ private:
     uptr<Node> next {};
   };
 
-  Mutex m_headMutex {};
+  std::mutex m_headMutex {};
   uptr<Node> m_head;
-  Mutex m_tailMutex {};
+  std::mutex m_tailMutex {};
   Node* m_tail;
-  ConditionVariable m_condition {};
+  std::condition_variable m_condition {};
 
   [[nodiscard]] Node* getTail() {
-    const LockGuard m_tailLock(m_tailMutex);
+    const std::lock_guard<std::mutex> m_tailLock(m_tailMutex);
     return m_tail;
   }
 
@@ -91,8 +92,8 @@ private:
     return oldHead;
   }
 
-  [[nodiscard]] UniqueLock waitForData() {
-    UniqueLock headLock(m_headMutex);
+  [[nodiscard]] std::unique_lock<std::mutex> waitForData() {
+    std::unique_lock<std::mutex> headLock(m_headMutex);
 
     while (m_head.get() == getTail()) { m_condition.wait(headLock); }
 
@@ -100,23 +101,23 @@ private:
   }
 
   [[nodiscard]] uptr<Node> waitPopHead() {
-    UniqueLock headLock(waitForData());
+    std::unique_lock<std::mutex> headLock(waitForData());
     return popHead();
   }
 
   void waitPopHead(T& value) {
-    UniqueLock head_lock(waitForData());
+    std::unique_lock<std::mutex> head_lock(waitForData());
     value = std::move(*m_head->data);
     popHead().reset();
   }
 
   [[nodiscard]] uptr<Node> tryPopHead() {
-    const LockGuard headLock(m_headMutex);
+    const std::lock_guard<std::mutex> headLock(m_headMutex);
     return (m_head.get() == getTail()) ? uptr<Node>() : popHead();
   }
 
   [[nodiscard]] uptr<Node> tryPopHead(T& value) {
-    const LockGuard headLock(m_headMutex);
+    const std::lock_guard<std::mutex> headLock(m_headMutex);
 
     if (m_head.get() == getTail()) { return uptr<Node>(); }
 
@@ -147,7 +148,7 @@ public:
     auto newData { mkSptr<T>(std::move(newValue)) };
     auto pNode { mkUptr<Node>() };
     {
-      const LockGuard m_tailLock(m_tailMutex);
+      const std::lock_guard<std::mutex> m_tailLock(m_tailMutex);
       m_tail->data = newData;
       Node* const newTail { pNode.get() };
       m_tail->next = std::move(pNode);
@@ -157,7 +158,7 @@ public:
   }
 
   [[nodiscard]] bool isEmpty() {
-    const LockGuard headLock(m_headMutex);
+    const std::lock_guard<std::mutex> headLock(m_headMutex);
     return (m_head.get() == getTail());
   }
 }; // class LockFreeThreadSafeQueue

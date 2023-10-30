@@ -3,7 +3,6 @@
 #include "gui/Rectangle.hpp"
 #include "gui/Position.hpp"
 
-#include <iostream>
 #include <set>
 
 namespace pa = phud::algorithms;
@@ -11,12 +10,12 @@ namespace pa = phud::algorithms;
 BOOST_AUTO_TEST_SUITE(PositionTest)
 
 BOOST_AUTO_TEST_CASE(PositionTest_buildPlayerIndicatorPositionShouldSucceed) {
-  const auto [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
-  const auto [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
-  const auto [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
-  const auto [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
-  const auto [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
-  const auto [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
+  const auto& [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, Seat::seatOne, Seat::seatSix, { .x = 0, .y = 0, .w = 600, .h = 400 }) };
 }
 
 BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldBeLocatedInsideTheTableWindow) {
