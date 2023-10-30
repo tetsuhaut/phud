@@ -71,12 +71,12 @@ template <typename T>
 class [[nodiscard]] LockFreeThreadSafeQueue final {
 private:
   struct [[nodiscard]] Node final {
-    sptr<T> data {};
-    uptr<Node> next {};
+    std::shared_ptr<T> data {};
+    std::unique_ptr<Node> next {};
   };
 
   std::mutex m_headMutex {};
-  uptr<Node> m_head;
+  std::unique_ptr<Node> m_head;
   std::mutex m_tailMutex {};
   Node* m_tail;
   std::condition_variable m_condition {};
@@ -86,8 +86,8 @@ private:
     return m_tail;
   }
 
-  [[nodiscard]] uptr<Node> popHead() noexcept {
-    uptr<Node> oldHead { std::move(m_head) };
+  [[nodiscard]] std::unique_ptr<Node> popHead() noexcept {
+    std::unique_ptr<Node> oldHead { std::move(m_head) };
     m_head = std::move(oldHead->next);
     return oldHead;
   }
@@ -100,7 +100,7 @@ private:
     return headLock;
   }
 
-  [[nodiscard]] uptr<Node> waitPopHead() {
+  [[nodiscard]] std::unique_ptr<Node> waitPopHead() {
     std::unique_lock<std::mutex> headLock(waitForData());
     return popHead();
   }
@@ -111,42 +111,42 @@ private:
     popHead().reset();
   }
 
-  [[nodiscard]] uptr<Node> tryPopHead() {
+  [[nodiscard]] std::unique_ptr<Node> tryPopHead() {
     const std::lock_guard<std::mutex> headLock(m_headMutex);
-    return (m_head.get() == getTail()) ? uptr<Node>() : popHead();
+    return (m_head.get() == getTail()) ? std::unique_ptr<Node>() : popHead();
   }
 
-  [[nodiscard]] uptr<Node> tryPopHead(T& value) {
+  [[nodiscard]] std::unique_ptr<Node> tryPopHead(T& value) {
     const std::lock_guard<std::mutex> headLock(m_headMutex);
 
-    if (m_head.get() == getTail()) { return uptr<Node>(); }
+    if (m_head.get() == getTail()) { return std::unique_ptr<Node>(); }
 
     value = std::move(*m_head->data);
     return popHead();
   }
 
 public:
-  LockFreeThreadSafeQueue() : m_head { mkUptr<Node>() }, m_tail { m_head.get() } {}
+  LockFreeThreadSafeQueue() : m_head { std::make_unique<Node>() }, m_tail { m_head.get() } {}
   LockFreeThreadSafeQueue(const LockFreeThreadSafeQueue&) = delete;
   LockFreeThreadSafeQueue(LockFreeThreadSafeQueue&&) = delete;
   LockFreeThreadSafeQueue& operator=(const LockFreeThreadSafeQueue&) = delete;
   LockFreeThreadSafeQueue& operator=(LockFreeThreadSafeQueue&&) = delete;
   ~LockFreeThreadSafeQueue() = default;
 
-  [[nodiscard]] sptr<T> tryPop() {
-    uptr<Node> oldHead { tryPopHead() };
-    return oldHead ? oldHead->data : sptr<T>();
+  [[nodiscard]] std::shared_ptr<T> tryPop() {
+    std::unique_ptr<Node> oldHead { tryPopHead() };
+    return oldHead ? oldHead->data : std::shared_ptr<T>();
   }
 
   [[nodiscard]] bool tryPop(T& value) { return nullptr != tryPopHead(value); }
 
-  [[nodiscard]] sptr<T> waitPop() { return waitPopHead()->data; }
+  [[nodiscard]] std::shared_ptr<T> waitPop() { return waitPopHead()->data; }
 
   void waitPop(T& value) { waitPopHead(value); }
 
   void push(T newValue) {
-    auto newData { mkSptr<T>(std::move(newValue)) };
-    auto pNode { mkUptr<Node>() };
+    auto newData { std::make_shared<T>(std::move(newValue)) };
+    auto pNode { std::make_unique<Node>() };
     {
       const std::lock_guard<std::mutex> m_tailLock(m_tailMutex);
       m_tail->data = newData;

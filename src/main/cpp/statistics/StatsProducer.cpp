@@ -26,7 +26,7 @@ struct [[nodiscard]] StatsProducer::Implementation final {
 };
 
 StatsProducer::StatsProducer(const StatsProducerArgs& args)
-  : m_pImpl { mkUptr<Implementation>(args) } {}
+  : m_pImpl { std::make_unique<Implementation>(args) } {}
 
 StatsProducer::~StatsProducer() = default;
 

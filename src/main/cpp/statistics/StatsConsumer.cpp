@@ -17,7 +17,7 @@ struct [[nodiscard]] StatsConsumer::Implementation final {
 
 StatsConsumer::StatsConsumer(std::chrono::milliseconds reloadPeriod,
                              ThreadSafeQueue<TableStatistics>& statsQueue)
-  : m_pImpl { mkUptr<Implementation>(reloadPeriod, statsQueue) } {}
+  : m_pImpl { std::make_unique<Implementation>(reloadPeriod, statsQueue) } {}
 
 StatsConsumer::~StatsConsumer() = default;
 

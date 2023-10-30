@@ -9,7 +9,7 @@
 class [[nodiscard]] App final : public AppInterface {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   explicit App(std::string_view);

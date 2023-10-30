@@ -29,8 +29,8 @@ static Logger LOG { CURRENT_FILE_NAME };
 PlayerIndicator::PlayerIndicator(const std::pair<int, int>& p, std::string_view playerName)
   : DragAndDropWindow({ .x = p.first, .y = p.second, .w = piws::width, .h = piws::height },
 playerName),
-m_textStats { mkUptr<Fl_Box>(0, 0, w(), piws::statsHeight) },
-m_textPlayerName { mkUptr<Fl_Box>(0, piws::statsHeight + 2, w(), piws::playerNameHeight) } {
+m_textStats { std::make_unique<Fl_Box>(0, 0, w(), piws::statsHeight) },
+m_textPlayerName { std::make_unique<Fl_Box>(0, piws::statsHeight + 2, w(), piws::playerNameHeight) } {
   LOG.debug<"creation du PlayerIndicator {}">(playerName);
   box(FL_FLAT_BOX);
   color(FL_WHITE);

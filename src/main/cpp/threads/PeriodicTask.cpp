@@ -22,7 +22,7 @@ struct [[nodiscard]] PeriodicTask::Implementation final {
 };
 
 PeriodicTask::PeriodicTask(std::chrono::milliseconds period, std::string_view taskName)
-  : m_pImpl { mkUptr<Implementation>(period, taskName) } {}
+  : m_pImpl { std::make_unique<Implementation>(period, taskName) } {}
 
 PeriodicTask::~PeriodicTask() { try { stop(); } catch (...) { std::exit(6); } }
 

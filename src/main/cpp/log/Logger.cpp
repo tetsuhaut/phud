@@ -11,7 +11,7 @@
 using LegacyLoggingLevel = spdlog::level::level_enum;
 namespace pa = phud::algorithms;
 namespace {
-sptr<spdlog::logger> globalLogger;
+std::shared_ptr<spdlog::logger> globalLogger;
 
 constexpr auto LEGACCY_LOGGING_LEVEL_TO_LOGGING_LEVEL {
   frozen::make_unordered_map<LegacyLoggingLevel, LoggingLevel>({

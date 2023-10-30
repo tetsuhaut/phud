@@ -11,14 +11,14 @@ BOOST_AUTO_TEST_SUITE(StatsReaderTest)
 BOOST_AUTO_TEST_CASE(StatsReaderTest_notifyingShouldSucceed) {
   ThreadSafeQueue<TableStatistics> queue;
   StatsConsumer consumer { std::chrono::milliseconds(1), queue};
-  std::array<uptr<PlayerStatistics>, 10> playerStats {
-    mkUptr<PlayerStatistics>(PlayerStatistics::Params {
+  std::array<std::unique_ptr<PlayerStatistics>, 10> playerStats {
+    std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
       .playerName = "player1",
       .siteName = "someSite", .isHero = true, .nbHands = 1, .vpip = 1, .pfr = 1 }),
-    mkUptr<PlayerStatistics>(PlayerStatistics::Params {
+    std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
       .playerName = "player2",
       .siteName = "someSite", .isHero = false, .nbHands = 2, .vpip = 2, .pfr = 2 }),
-    mkUptr<PlayerStatistics>(PlayerStatistics::Params {
+    std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
       .playerName = "player3",
       .siteName = "someSite", .isHero = false, .nbHands = 3, .vpip = 3, .pfr = 3 }),
     nullptr, nullptr, nullptr, nullptr, nullptr, nullptr, nullptr

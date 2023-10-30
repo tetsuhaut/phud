@@ -27,21 +27,21 @@ namespace pf = phud::filesystem;
 static constexpr std::chrono::milliseconds RELOAD_PERIOD { 2000 };
 
 struct [[nodiscard]] App::Implementation final {
-  uptr<Database> m_model;
-  uptr<Gui> m_gui {};
+  std::unique_ptr<Database> m_model;
+  std::unique_ptr<Gui> m_gui {};
   ThreadSafeQueue<TableStatistics> m_statsQueue {};
-  uptr<FileWatcher> m_fileWatcher {};
-  uptr<PokerSiteHistory> m_pokerSiteHistory {};
+  std::unique_ptr<FileWatcher> m_fileWatcher {};
+  std::unique_ptr<PokerSiteHistory> m_pokerSiteHistory {};
   Future<void> m_reloadTask {};
   Future<void> m_loadTask {};
   fs::path historyDir {};
 
   Implementation(std::string_view databaseName)
-    : m_model { mkUptr<Database>(databaseName) } {}
+    : m_model { std::make_unique<Database>(databaseName) } {}
 };
 
 App::App(std::string_view databaseName)
-  : m_pImpl {mkUptr<Implementation>(databaseName)} {}
+  : m_pImpl {std::make_unique<Implementation>(databaseName)} {}
 
 App::~App() {
   try {
@@ -77,7 +77,7 @@ static inline void notify(TableStatistics&& stats, auto observer) {
 // on regarde les fichiers dans l'historique, on recharge ceux qui sont mis à jour
 // on notifie l'observer (le GUI) des nouvelles stats
 static inline void watchHistoFile(App::Implementation& self, const fs::path& file, std::string table, auto observer) {
-  self.m_fileWatcher = mkUptr<FileWatcher>(::RELOAD_PERIOD, file);
+  self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
   self.m_fileWatcher->start([&self, table, &observer](const fs::path & f) {
     self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
       LOG.debug<"Notified, reloading the file\n{}">(f.string());
@@ -91,7 +91,7 @@ static inline void watchHistoFile(App::Implementation& self, const fs::path& fil
 }
 
 int App::showGui() { /*override*/
-  m_pImpl->m_gui = mkUptr<Gui>(*this);
+  m_pImpl->m_gui = std::make_unique<Gui>(*this);
   return m_pImpl->m_gui->run();
 }
 
@@ -113,7 +113,7 @@ void App::importHistory(const fs::path& historyDir,
       LOG.error<"Unknown Error during the history import.">();
     }
 
-    return uptr<Site>();
+    return std::unique_ptr<Site>();
   })
   .then([this](const auto & pSite) {
     try {

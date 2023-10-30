@@ -15,8 +15,8 @@ class PlayerStatistics;
 */
 class [[nodiscard]] PlayerIndicator final : public DragAndDropWindow {
 private:
-  uptr<Fl_Box> m_textStats;
-  uptr<Fl_Box> m_textPlayerName;
+  std::unique_ptr<Fl_Box> m_textStats;
+  std::unique_ptr<Fl_Box> m_textPlayerName;
 
 public:
   PlayerIndicator(const std::pair<int, int>& position, std::string_view playerName);

@@ -5,9 +5,9 @@
 namespace {
 class [[nodiscard]] Owner final {
 public:
-  std::vector<uptr<int>> v {};
+  std::vector<std::unique_ptr<int>> v {};
 
-  boost::iterator_range<std::vector<uptr<int>>::const_iterator> getIntView() {
+  boost::iterator_range<std::vector<std::unique_ptr<int>>::const_iterator> getIntView() {
     return boost::make_iterator_range(v.begin(), v.end());
   }
 }; // class Owner
@@ -22,8 +22,8 @@ BOOST_AUTO_TEST_CASE(RangeTest_creatingRangeShouldSucceed) {
 
 BOOST_AUTO_TEST_CASE(RangeTest_aViewShouldHaveTheSameContentAsRealContainer) {
   Owner o;
-  o.v.push_back(mkUptr<int>(0));
-  o.v.push_back(mkUptr<int>(666));
+  o.v.push_back(std::make_unique<int>(0));
+  o.v.push_back(std::make_unique<int>(666));
   const auto& view { o.getIntView() };
   BOOST_REQUIRE(view.size() == o.v.size());
 }

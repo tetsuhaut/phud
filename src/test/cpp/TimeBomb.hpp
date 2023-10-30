@@ -10,7 +10,7 @@
 class [[nodiscard]] TimeBomb final {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_view testName);

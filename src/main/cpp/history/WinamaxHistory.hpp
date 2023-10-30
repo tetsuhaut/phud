@@ -8,7 +8,7 @@ class Site;
 class [[nodiscard]] WinamaxHistory final : public PokerSiteHistory {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 public:
   WinamaxHistory() noexcept;
   WinamaxHistory(const WinamaxHistory&) = delete;
@@ -20,17 +20,17 @@ public:
    * @returns a Site containing all the games which history files are located in
    * the given <historyDir>/history directory.
    */
-  [[nodiscard]] uptr<Site> load(const std::filesystem::path& historyDir, FunctionVoid incrementCb,
+  [[nodiscard]] std::unique_ptr<Site> load(const std::filesystem::path& historyDir, FunctionVoid incrementCb,
                                 FunctionInt setNbFilesCb) override;
-  uptr<Site> load(auto, FunctionVoid, FunctionInt) = delete;
+  std::unique_ptr<Site> load(auto, FunctionVoid, FunctionInt) = delete;
 
-  [[nodiscard]] static uptr<Site> load(const std::filesystem::path& historyDir);
-  uptr<Site> load(auto) = delete;
+  [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir);
+  std::unique_ptr<Site> load(auto) = delete;
 
   void stopLoading() override;
 
-  [[nodiscard]] uptr<Site> reloadFile(const std::filesystem::path& winamaxHistoryFile) override;
-  uptr<Site> reloadFile(auto) = delete;
+  [[nodiscard]] std::unique_ptr<Site> reloadFile(const std::filesystem::path& winamaxHistoryFile) override;
+  std::unique_ptr<Site> reloadFile(auto) = delete;
 
   [[nodiscard]] static bool isValidHistory(const std::filesystem::path& historyDir);
   static bool isValidHistory(auto) = delete;

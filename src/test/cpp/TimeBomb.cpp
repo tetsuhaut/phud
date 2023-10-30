@@ -19,7 +19,7 @@ TimeBomb::~TimeBomb() {
 }
 
 TimeBomb::TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
-  : m_pImpl { mkUptr<Implementation>(countDownToExplosion, testName) } {
+  : m_pImpl { std::make_unique<Implementation>(countDownToExplosion, testName) } {
   m_pImpl->m_task.start([this]() {
     if (!m_pImpl->m_isDefused) {
       fmt::print("[{}] TimeBomb explodes in test {}\n", getCurrentThreadId(), m_pImpl->m_testName);

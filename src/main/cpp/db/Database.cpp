@@ -226,7 +226,7 @@ static inline void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) 
 Database::Database() : Database(IN_MEMORY) {}
 
 Database::Database(std::string_view dbName)
-  : m_pImpl { mkUptr<Implementation>(dbName) } {
+  : m_pImpl { std::make_unique<Implementation>(dbName) } {
 }
 
 Database::~Database() {
@@ -455,10 +455,10 @@ Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) co
   return tableSeat::fromInt(p.getColumnAsInt(0));
 }
 
-static std::array<uptr<PlayerStatistics>, 10> readTableStatisticsQuery(PreparedStatement& p) {
+static std::array<std::unique_ptr<PlayerStatistics>, 10> readTableStatisticsQuery(PreparedStatement& p) {
   static_assert(ps::contains(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME, '?'),
                 "ill-formed SQL template");
-  std::array<uptr<PlayerStatistics>, 10> playerStats {};
+  std::array<std::unique_ptr<PlayerStatistics>, 10> playerStats {};
 
   if (QueryResult::NO_MORE_ROWS == p.execute()) { return playerStats; }
 
@@ -472,7 +472,7 @@ static std::array<uptr<PlayerStatistics>, 10> readTableStatisticsQuery(PreparedS
     const auto vpip { p.getColumnAsDouble(5) };
     const auto pfr { p.getColumnAsDouble(6) };
     const auto nbHands { p.getColumnAsInt(7) };
-    playerStats.at(tableSeat::toArrayIndex(playerSeat)) = mkUptr<PlayerStatistics>
+    playerStats.at(tableSeat::toArrayIndex(playerSeat)) = std::make_unique<PlayerStatistics>
     (PlayerStatistics::Params {
       .playerName = playerName, .siteName = siteName, .isHero = isHero, .nbHands = nbHands, .vpip = vpip, .pfr = pfr });
   } while (QueryResult::ONE_ROW_OR_MORE == p.execute());
@@ -489,7 +489,7 @@ TableStatistics Database::readTableStatistics(const ReadTableStatisticsArgs& arg
   return { .m_maxSeats = getTableMaxSeat(args.site, args.table), .m_tableStats = readTableStatisticsQuery(p) };
 }
 
-uptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site, std::string_view player) const {
+std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site, std::string_view player) const {
   static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, '?'),
                 "ill-formed SQL template");
   const auto& sql { SqlSelector(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME).site(site)
@@ -503,7 +503,7 @@ uptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site, std
   const auto vpip { p.getColumnAsDouble(1) };
   const auto pfr { p.getColumnAsDouble(2) };
   const auto nbHands { p.getColumnAsInt(3) };
-  return mkUptr<PlayerStatistics>(
+  return std::make_unique<PlayerStatistics>(
            PlayerStatistics::Params {.playerName = player, .siteName = site, .isHero = isHero, .nbHands = nbHands, .vpip = vpip, .pfr = pfr});
 }
 

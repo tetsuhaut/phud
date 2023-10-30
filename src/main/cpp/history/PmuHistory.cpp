@@ -15,16 +15,16 @@ bool PmuHistory::isValidHistory(const fs::path& /*historyDir*/) {
   return false;
 }
 
-uptr<Site> PmuHistory::load(const fs::path& /*historyDir*/, FunctionVoid /*incrementCb*/,
+std::unique_ptr<Site> PmuHistory::load(const fs::path& /*historyDir*/, FunctionVoid /*incrementCb*/,
                             FunctionInt /*setNbFilesCb*/) {
   return nullptr;
 }
 
-/* [[nodiscard]] static*/ uptr<Site> PmuHistory::load(const fs::path& /*historyDir*/) { return nullptr; }
+/* [[nodiscard]] static*/ std::unique_ptr<Site> PmuHistory::load(const fs::path& /*historyDir*/) { return nullptr; }
 
 void PmuHistory::stopLoading() {}
 
-uptr<Site> PmuHistory::reloadFile(const fs::path& /*winamaxHistoryFile*/) {
+std::unique_ptr<Site> PmuHistory::reloadFile(const fs::path& /*winamaxHistoryFile*/) {
   return nullptr;
 }
 

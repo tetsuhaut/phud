@@ -8,7 +8,7 @@
 class [[nodiscard]] FileWatcher final {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   FileWatcher(std::chrono::milliseconds reloadPeriod, const std::filesystem::path& file);

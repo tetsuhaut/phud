@@ -23,7 +23,7 @@ private:
   std::array<Card, 5> m_heroCards;
   std::array<Card, 5> m_boardCards;
   std::array<std::string, 10> m_seats;
-  std::vector<uptr<Action>> m_actions;
+  std::vector<std::unique_ptr<Action>> m_actions;
   std::array<std::string, 10> m_winners;
 
 public:
@@ -40,7 +40,7 @@ public:
     const std::array<std::string, 10>& seatPlayers;
     const std::array<Card, 5>& heroCards;
     const std::array<Card, 5>& boardCards;
-    std::vector<uptr<Action>> actions;
+    std::vector<std::unique_ptr<Action>> actions;
     const std::array<std::string, 10>& winners;
   }; // struct Params
 

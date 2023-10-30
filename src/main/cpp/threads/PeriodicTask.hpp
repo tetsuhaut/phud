@@ -8,7 +8,7 @@
 class [[nodiscard]] PeriodicTask final {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   explicit PeriodicTask(std::chrono::milliseconds period, std::string_view taskName = "");

@@ -26,7 +26,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_doNotLookAtSummaries) {
   pt::TmpDir dir{ root / "history" }, _1{ root / "data/buddy" }, _2{ root / "data/players" };
   pt::TmpFile _3 { dir / "toto_summary.txt" };
   pt::TmpFile _4 { dir / "winamax_positioning_file.dat" };
-  uptr<Site> pSite;
+  std::unique_ptr<Site> pSite;
   {
     pt::LogDisabler _5;
     pSite = PokerSiteHistory::load(root.path());
@@ -44,7 +44,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingBadEmptyFileShouldNotProduceGame)
   pt::TmpFile _3 { dir / "toto_summary.txt" };
   pt::TmpFile _4 { dir / "winamax_positioning_file.dat" };
   BOOST_REQUIRE(pf::isFile(emptyFileWithBadName.path()));
-  uptr<Site> pSite;
+  std::unique_ptr<Site> pSite;
   {
     pt::LogDisabler _;
     pSite = PokerSiteHistory::load(root.path());
@@ -65,7 +65,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingEmptyFileShouldNotProduceGame) {
   BOOST_REQUIRE(pf::isDir(_1.path()));
   BOOST_REQUIRE(pf::isDir(_2.path()));
   BOOST_REQUIRE(pf::isFile(emptyFile.path()));
-  uptr<Site> pSite;
+  std::unique_ptr<Site> pSite;
   {
     pt::LogDisabler _;
     pSite = PokerSiteHistory::load(root.path());

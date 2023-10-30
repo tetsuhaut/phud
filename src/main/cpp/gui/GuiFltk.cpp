@@ -79,9 +79,9 @@ constexpr std::string_view plastic { "plastic" };
 
 }; // anonymous namespace
 
-[[nodiscard]] static inline uptr<Fl_Preferences> buildPreferences() {
+[[nodiscard]] static inline std::unique_ptr<Fl_Preferences> buildPreferences() {
   /* preference name, value, default value */
-  return mkUptr<Fl_Preferences>(Fl_Preferences::USER,
+  return std::make_unique<Fl_Preferences>(Fl_Preferences::USER,
                                 ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data());
 }
 
@@ -114,7 +114,7 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Group* m_pmuGroup { nullptr };
   Fl_Tabs* m_tabs { nullptr };
   MyMainWindow* m_mainWindow { nullptr };
-  uptr<Fl_Preferences> m_preferences { buildPreferences() };
+  std::unique_ptr<Fl_Preferences> m_preferences { buildPreferences() };
   Fl_Button* m_chooseHistoDirBtn { nullptr };
   Fl_Button* m_chooseTableBtn { nullptr };
   Fl_Button* m_stopHudBtn { nullptr };
@@ -122,8 +122,8 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Progress* m_progressBar { nullptr };
   Fl_Box* m_infoBar { nullptr };
   Fl_Menu_Bar* m_menuBar { nullptr };
-  uptr<TableChooser> m_tableChooser {};
-  std::array<uptr<PlayerIndicator>, 10> m_playerIndicators {};
+  std::unique_ptr<TableChooser> m_tableChooser {};
+  std::array<std::unique_ptr<PlayerIndicator>, 10> m_playerIndicators {};
 
   explicit Implementation(AppInterface& app) : m_app { app } {}
   Implementation(const Implementation&) = delete;
@@ -142,13 +142,13 @@ struct [[nodiscard]] Gui::Implementation final {
 }
 
 template <typename T>
-[[nodiscard]] constexpr static uptr<T> mkWidget(const phud::Rectangle& r, std::string_view label) {
-  return mkUptr<T>(r.x, r.y, r.w, r.h, label.data());
+[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r, std::string_view label) {
+  return std::make_unique<T>(r.x, r.y, r.w, r.h, label.data());
 }
 
 template <typename T>
-[[nodiscard]] constexpr static uptr<T> mkWidget(const phud::Rectangle& r) {
-  return mkUptr<T>(r.x, r.y, r.w, r.h);
+[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r) {
+  return std::make_unique<T>(r.x, r.y, r.w, r.h);
 }
 
 [[nodiscard]] static inline std::string getExecutableName(const HWND window) {
@@ -181,10 +181,10 @@ template <typename T>
   return phud::filesystem::isDir(pathDir) ? pathDir : "";
 }
 
-[[nodiscard]] /*static*/ inline uptr<Fl_Native_File_Chooser> buildDirectoryChooser(
+[[nodiscard]] /*static*/ inline std::unique_ptr<Fl_Native_File_Chooser> buildDirectoryChooser(
   Fl_Preferences& preferences) {
   const auto& startDir { getPreferredHistoDir(preferences) };
-  auto pHistoryChoser { mkUptr<Fl_Native_File_Chooser>() };
+  auto pHistoryChoser { std::make_unique<Fl_Native_File_Chooser>() };
   pHistoryChoser->title(MainWindow::Label::chooseHistoryDirectory.data());
   pHistoryChoser->type(Fl_Native_File_Chooser::BROWSE_DIRECTORY);
   pHistoryChoser->directory(startDir.string().c_str());
@@ -243,7 +243,7 @@ static inline void setWindowOnTopMost(const Fl_Window& above) {
   SetWindowPos(fl_xid(&above), HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE | SWP_NOOWNERZORDER);
 }
 
-uptr<PlayerIndicator>& getPlayerIndicator(Gui::Implementation& self, Seat seat) {
+std::unique_ptr<PlayerIndicator>& getPlayerIndicator(Gui::Implementation& self, Seat seat) {
   return self.m_playerIndicators.at(tableSeat::toArrayIndex(seat));
 }
 
@@ -251,8 +251,8 @@ struct UpdatePlayerIndicators {
   Gui::Implementation& m_self;
   Seat m_seat;
   std::pair<int, int> m_pos;
-  uptr<PlayerStatistics> m_ps;
-  UpdatePlayerIndicators(Gui::Implementation& self, Seat seat, std::pair<int, int> pos, uptr<PlayerStatistics> ps)
+  std::unique_ptr<PlayerStatistics> m_ps;
+  UpdatePlayerIndicators(Gui::Implementation& self, Seat seat, std::pair<int, int> pos, std::unique_ptr<PlayerStatistics> ps)
     : m_self(self),
     m_seat(seat),
     m_pos(pos),
@@ -272,7 +272,7 @@ static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
   auto& playerIndicator { getPlayerIndicator(args->m_self, args->m_seat) };
 
   if (nullptr == playerIndicator) {
-    playerIndicator = mkUptr<PlayerIndicator>(args->m_pos, args->m_ps->getPlayerName());
+    playerIndicator = std::make_unique<PlayerIndicator>(args->m_pos, args->m_ps->getPlayerName());
   } else if (args->m_ps->getPlayerName() != playerIndicator->getPlayerName()) {
     playerIndicator->refresh(args->m_ps->getPlayerName());
   }
@@ -292,7 +292,7 @@ struct ResetPlayerIndicator {
 
 static inline void resetPlayerIndicatorsAwakeCb(void* hidden) {
   LOG.debug<__func__>();
-  auto rpi { uptr<ResetPlayerIndicator>(static_cast<ResetPlayerIndicator*>(hidden)) };
+  auto rpi { std::unique_ptr<ResetPlayerIndicator>(static_cast<ResetPlayerIndicator*>(hidden)) };
   getPlayerIndicator(rpi->m_self, rpi->m_seat).reset();
 }
 
@@ -403,10 +403,10 @@ struct [[nodiscard]] TableChooser : DragAndDropWindow {
 /**
 * @returns the table chooser widget
 */
-[[nodiscard]] static inline uptr<TableChooser> buildTableChooser(
+[[nodiscard]] static inline std::unique_ptr<TableChooser> buildTableChooser(
   Gui::Implementation& self, std::string_view label) {
   LOG.debug<__func__>();
-  auto ret { mkUptr<TableChooser>(self, label) };
+  auto ret { std::make_unique<TableChooser>(self, label) };
   ret->color(FL_BLUE);
   ret->clear_border();
   setWindowOnTopMost(*ret);
@@ -654,7 +654,7 @@ static inline gsl::not_null<MyMainWindow*> buildMainWindow(Fl_Preferences* prefe
 }
 
 Gui::Gui(AppInterface& app)
-  : m_pImpl { mkUptr<Gui::Implementation>(app) } {
+  : m_pImpl { std::make_unique<Gui::Implementation>(app) } {
   LOG.debug<__func__>();
   m_pImpl->m_mainWindow = buildMainWindow(m_pImpl->m_preferences.get());
   m_pImpl->m_menuBar = buildMenuBar(m_pImpl->m_preferences.get());

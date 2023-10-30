@@ -15,7 +15,7 @@ public:
   struct Implementation; // public to minimise the Gui API
 
 private:
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   explicit Gui(AppInterface& app);

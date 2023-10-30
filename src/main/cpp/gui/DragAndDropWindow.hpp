@@ -49,7 +49,7 @@ public:
   DragAndDropWindow(DragAndDropWindow&&) = delete;
   DragAndDropWindow& operator=(const DragAndDropWindow&) = delete;
   DragAndDropWindow& operator=(DragAndDropWindow&&) = delete;
-  virtual ~DragAndDropWindow() = default; // to be able to use uptr<DragAndDropWindow>
+  virtual ~DragAndDropWindow() = default; // to be able to use std::unique_ptr<DragAndDropWindow>
 
 protected:
   /**

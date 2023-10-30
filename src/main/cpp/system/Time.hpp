@@ -9,7 +9,7 @@ namespace std { using ::tm; };
 
 class [[nodiscard]] Time final { /* copyable */
 private:
-  uptr<std::tm> m_pTimeData;
+  std::unique_ptr<std::tm> m_pTimeData;
 
 public:
   struct [[nodiscard]] Args final { std::string_view strTime; std::string_view format; };

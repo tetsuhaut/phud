@@ -8,7 +8,7 @@ class Player;
 class [[nodiscard]] PlayerCache final {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   PlayerCache(std::string_view siteName) noexcept;
@@ -20,6 +20,6 @@ public:
   void setIsHero(std::string_view playerName);
   void erase(std::string_view playerName);
   void addIfMissing(std::string_view playerName);
-  [[nodiscard]] std::vector<uptr<Player>> extractPlayers();
+  [[nodiscard]] std::vector<std::unique_ptr<Player>> extractPlayers();
   [[nodiscard]] bool isEmpty();
 }; // class PlayerCache

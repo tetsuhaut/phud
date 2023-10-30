@@ -16,14 +16,14 @@
   return when;
 }
 
-Time::Time(const Args& args) : m_pTimeData { mkUptr<std::tm>(toTm(args)) } {}
+Time::Time(const Args& args) : m_pTimeData { std::make_unique<std::tm>(toTm(args)) } {}
 
-Time::Time(const Time& other) noexcept : m_pTimeData { mkUptr<std::tm>(*other.m_pTimeData) } {}
+Time::Time(const Time& other) noexcept : m_pTimeData { std::make_unique<std::tm>(*other.m_pTimeData) } {}
 
 Time::Time(Time&& other) noexcept : m_pTimeData { std::exchange(other.m_pTimeData, {}) } {}
 
 Time& Time::operator=(const Time& other) noexcept {
-  if (this != &other) { m_pTimeData = mkUptr<std::tm>(*other.m_pTimeData); }
+  if (this != &other) { m_pTimeData = std::make_unique<std::tm>(*other.m_pTimeData); }
 
   return *this;
 }

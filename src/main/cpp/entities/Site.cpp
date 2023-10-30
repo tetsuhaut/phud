@@ -20,7 +20,7 @@ std::vector<const Player*> Site::viewPlayers() const {
   return ret;
 }
 
-void Site::addPlayer(uptr<Player> p) {
+void Site::addPlayer(std::unique_ptr<Player> p) {
   phudAssert(p->getSiteName() == m_name, "player is on another site");
 
   if (!m_players.contains(p->getName())) {
@@ -28,12 +28,12 @@ void Site::addPlayer(uptr<Player> p) {
   }
 }
 
-void Site::addGame(uptr<CashGame> game) {
+void Site::addGame(std::unique_ptr<CashGame> game) {
   phudAssert(game->getSiteName() == m_name, "game is on another site");
   m_cashGames.push_back(std::move(game));
 }
 
-void Site::addGame(uptr<Tournament> game) {
+void Site::addGame(std::unique_ptr<Tournament> game) {
   phudAssert(game->getSiteName() == m_name, "game is on another site");
   m_tournaments.push_back(std::move(game));
 }

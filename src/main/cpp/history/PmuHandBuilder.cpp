@@ -162,16 +162,16 @@ parseLineForActionParams(std::string_view line) {
 
 static constexpr std::array<std::string_view, 8> ACTION_TOKENS { " folds", " checks", " bets ", " calls ", " raises ", " is all-In ", " shows ", " doesn't show " };
 
-[[nodiscard]] static inline std::vector<uptr<Action>>
+[[nodiscard]] static inline std::vector<std::unique_ptr<Action>>
 parseActions(TextFile& tf, Street street, std::string_view handId) {
-  std::vector<uptr<Action>> actions;
+  std::vector<std::unique_ptr<Action>> actions;
 
   while (tf.containsOneOf(ACTION_TOKENS)) {
     const auto& line { tf.getLine() };
 
     if (const auto & oActionParams { parseLineForActionParams(line) }; oActionParams.has_value()) {
       const auto [playerName, type, bet] { oActionParams.value() };
-      actions.push_back(mkUptr<Action>(Action::Params {
+      actions.push_back(std::make_unique<Action>(Action::Params {
         .handId = handId,
         .playerName = playerName,
         .street = street,
@@ -199,12 +199,12 @@ parseActions(TextFile& tf, Street street, std::string_view handId) {
   return winners;
 }
 
-[[nodiscard]] static inline std::vector<uptr<Action>> createActionForWinnersWithoutAction(
-std::span<const std::string> winners, std::span<uptr<Action>> actions, Street street, std::string_view handId) {
-  std::vector<uptr<Action>> ret;
+[[nodiscard]] static inline std::vector<std::unique_ptr<Action>> createActionForWinnersWithoutAction(
+std::span<const std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street, std::string_view handId) {
+  std::vector<std::unique_ptr<Action>> ret;
   pa::forEach(winners, [&](std::string_view winner) {
     if (!winner.empty() and !pa::containsIf(actions, [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
-      ret.push_back(mkUptr<Action>(Action::Params {
+      ret.push_back(std::make_unique<Action>(Action::Params {
         .handId = handId,
         .playerName = winner,
         .street = street,
@@ -236,7 +236,7 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
 }
 
 struct ActionsAndWinnersAndBoardCards {
-  std::vector<uptr<Action>> m_actions;
+  std::vector<std::unique_ptr<Action>> m_actions;
   std::array<std::string, 10> m_winners;
   std::array<Card, 5> m_boardCards;
 };
@@ -245,7 +245,7 @@ struct ActionsAndWinnersAndBoardCards {
 [[nodiscard]] static inline ActionsAndWinnersAndBoardCards
 parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
   LOG.debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
-  std::vector<uptr<Action>> actions;
+  std::vector<std::unique_ptr<Action>> actions;
   std::array boardCards { FIVE_NONE_CARDS };
   Street lastStreet { Street::none };
 
@@ -298,7 +298,7 @@ NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(Text
 }
 
 template<GameType gameType>
-[[nodiscard]] static inline uptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
+[[nodiscard]] static inline std::unique_ptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
     int level, const Time& date, std::string_view handId) {
   LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
@@ -311,10 +311,10 @@ template<GameType gameType>
                         .tableName = tableName, .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = level,
                         .ante = ante, .startDate = date, .seatPlayers = seatPlayers, .heroCards = heroCards,
                         .boardCards = boardCards, .actions = std::move(actions), .winners = winners };
-  return mkUptr<Hand>(params);
+  return std::make_unique<Hand>(params);
 }
 
-uptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& cache) {
+std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& cache) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
   const auto handId { readHandId(tf.getLine()) };
@@ -337,15 +337,15 @@ uptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& cache) {
   Hand::Params p { .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
                    .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate, .seatPlayers = seatPlayers,
                    .heroCards = heroCards, .boardCards = boardCards, .actions = std::move(actions), .winners = winners };
-  return mkUptr<Hand>(p);
+  return std::make_unique<Hand>(p);
 }
 
-uptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/, PlayerCache& /*cache*/) {
+std::unique_ptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/, PlayerCache& /*cache*/) {
   // not implemented
   return nullptr;
 }
 
-std::pair<uptr<Hand>, uptr<GameData>> PmuHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> PmuHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
 PlayerCache& cache) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
@@ -370,8 +370,8 @@ PlayerCache& cache) {
   Hand::Params params { .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
                         .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate, .seatPlayers = seatPlayers,
                         .heroCards = heroCards, .boardCards = boardCards, .actions = std::move(actions), .winners = winners };
-  auto pHand { mkUptr<Hand>(params) };
-  auto pGameData { mkUptr<GameData>(GameData::Args{.nbMaxSeats = pHand->getMaxSeats(), .smallBlind = smallBlind, .bigBlind = bigBlind, .buyIn = 0, .startDate = pHand->getStartDate()}) };
+  auto pHand { std::make_unique<Hand>(params) };
+  auto pGameData { std::make_unique<GameData>(GameData::Args{.nbMaxSeats = pHand->getMaxSeats(), .smallBlind = smallBlind, .bigBlind = bigBlind, .buyIn = 0, .startDate = pHand->getStartDate()}) };
   pGameData->m_isRealMoney = isRealMoney;
   pGameData->m_tableName = tableName;
   pGameData->m_gameName = tableName;
@@ -380,11 +380,11 @@ PlayerCache& cache) {
   return { std::move(pHand), std::move(pGameData) };
 }
 
-std::pair<uptr<Hand>, uptr<GameData>> PmuHandBuilder::buildTournamentHandAndGameData(TextFile& /*tf*/,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> PmuHandBuilder::buildTournamentHandAndGameData(TextFile& /*tf*/,
 PlayerCache& /*cache*/) {
   //LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   //const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };
   //auto pHand { getHand<GameType::tournament>(tf, pc, level, date, handId) };
-  //return { std::move(pHand), mkUptr<GameData>(pHand->getStartDate(), buyIn, 0, 0, pHand->getMaxSeats()) };
+  //return { std::move(pHand), std::make_unique<GameData>(pHand->getStartDate(), buyIn, 0, 0, pHand->getMaxSeats()) };
   return { nullptr, nullptr };
 }

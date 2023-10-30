@@ -9,11 +9,11 @@ namespace pf = phud::filesystem;
 
 PokerSiteHistory::~PokerSiteHistory() = default;
 
-/* [[nodiscard]] static */ uptr<PokerSiteHistory> PokerSiteHistory::newInstance(
+/* [[nodiscard]] static */ std::unique_ptr<PokerSiteHistory> PokerSiteHistory::newInstance(
   const fs::path& historyDir) {
-  if (PmuHistory::isValidHistory(historyDir)) { return mkUptr<PmuHistory>(); }
+  if (PmuHistory::isValidHistory(historyDir)) { return std::make_unique<PmuHistory>(); }
 
-  if (WinamaxHistory::isValidHistory(historyDir)) { return mkUptr<WinamaxHistory>(); }
+  if (WinamaxHistory::isValidHistory(historyDir)) { return std::make_unique<WinamaxHistory>(); }
 
   return nullptr;
 }
@@ -22,7 +22,7 @@ PokerSiteHistory::~PokerSiteHistory() = default;
   return PmuHistory::isValidHistory(historyDir) or WinamaxHistory::isValidHistory(historyDir);
 }
 
-/* [[nodiscard]] static */ uptr<Site> PokerSiteHistory::load(const fs::path& historyDir) {
+/* [[nodiscard]] static */ std::unique_ptr<Site> PokerSiteHistory::load(const fs::path& historyDir) {
   if (PmuHistory::isValidHistory(historyDir)) { return PmuHistory::load(historyDir); }
 
   if (WinamaxHistory::isValidHistory(historyDir)) { return WinamaxHistory::load(historyDir); }

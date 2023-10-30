@@ -21,7 +21,7 @@ class Tournament;
 class [[nodiscard]] Database final {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   /**
@@ -50,7 +50,7 @@ public:
   void save(const Tournament& game);
   void save(std::span<const Player* const> players);
   // exported for unit tests
-  [[nodiscard]] uptr<PlayerStatistics> readPlayerStatistics(std::string_view sn,
+  [[nodiscard]] std::unique_ptr<PlayerStatistics> readPlayerStatistics(std::string_view sn,
       std::string_view playerName) const;
   /**
    * Retrieves the stats for each player of a given table.

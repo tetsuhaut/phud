@@ -3,9 +3,10 @@
 #include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, Path, String, toString
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "system/ErrorCode.hpp" // isOk
 #include "threads/PeriodicTask.hpp" // NonCopyable
+
 #include <concepts>
+#include <system_error>
 
 namespace fs = std::filesystem;
 namespace pa = phud::algorithms;
@@ -35,10 +36,10 @@ template<typename T> requires(std::same_as<T, fs::path>)
   LOG.trace<"Searching for file changes in dir {}">(dir.string());
   const auto& files { pf::listTxtFilesInDir(dir) };
   pa::forEach(files, [&ref, &fileHasChangedCb](const auto & file) {
-    ErrorCode ec;
+    std::error_code ec;
     const auto& fileName{ file.string() };
 
-    if (const auto & lasWriteTime { std::filesystem::last_write_time(file, ec) }; isOk(ec)) {
+    if (const auto & lasWriteTime { std::filesystem::last_write_time(file, ec) }; ec) {
       if ((0 == ref.count(fileName)) or (ref[fileName] != lasWriteTime)) {
         ref[fileName] = lasWriteTime;
         LOG.info<"The file {} has changed, notify listener">(fileName);
@@ -53,7 +54,7 @@ template<typename T> requires(std::same_as<T, fs::path>)
 }
 
 DirWatcher::DirWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& dir)
-  : m_pImpl{ mkUptr<Implementation>(reloadPeriod, dir)} {
+  : m_pImpl{ std::make_unique<Implementation>(reloadPeriod, dir)} {
   phudAssert(pf::isDir(m_pImpl->m_dir),
              "the dir provided to DirWatcher() is not valid.");
   LOG.info<"will watch directory {} every {}ms">(dir.string(), reloadPeriod.count());

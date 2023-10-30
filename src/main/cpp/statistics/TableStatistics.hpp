@@ -8,7 +8,7 @@ class PlayerStatistics;
 
 struct [[nodiscard]] TableStatistics final {
   Seat m_maxSeats { Seat::seatUnknown };
-  std::array<uptr<PlayerStatistics>, 10> m_tableStats {};
+  std::array<std::unique_ptr<PlayerStatistics>, 10> m_tableStats {};
 
   [[nodiscard]] constexpr bool isValid() const noexcept { return Seat::seatUnknown != m_maxSeats; }
 
@@ -26,5 +26,5 @@ struct [[nodiscard]] TableStatistics final {
   * If the seat is empty, the returned pointer is nullptr.
   * 0 < seat < 11
   */
-  [[nodiscard]] uptr<PlayerStatistics> extractPlayerStatistics(Seat seat);
+  [[nodiscard]] std::unique_ptr<PlayerStatistics> extractPlayerStatistics(Seat seat);
 }; // struct TableStatistics

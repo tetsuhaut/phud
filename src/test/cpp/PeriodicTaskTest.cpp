@@ -29,7 +29,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
   TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs" };
   PeriodicTask pt { PT_PERIOD };
-  auto pMyStrContainer { mkUptr<StrContainer>() };
+  auto pMyStrContainer { std::make_unique<StrContainer>() };
   void* hidden { pMyStrContainer.get() };
   pt.start([hidden]() {
     auto pStrContainer { static_cast<StrContainer*>(hidden) };
@@ -41,15 +41,15 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
 }
 
 struct PassedInArray {
-  std::array<sptr<StrContainer>, 2>& m_array;
-  PassedInArray(std::array<sptr<StrContainer>, 2>& arr)
+  std::array<std::shared_ptr<StrContainer>, 2>& m_array;
+  PassedInArray(std::array<std::shared_ptr<StrContainer>, 2>& arr)
     : m_array(arr) {}
 };
 
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
   TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeArrays" };
   PeriodicTask pt { PT_PERIOD };
-  std::array<sptr<StrContainer>, 2> myArray { mkSptr<StrContainer>(), nullptr };
+  std::array<std::shared_ptr<StrContainer>, 2> myArray { std::make_shared<StrContainer>(), nullptr };
   void* hidden { new PassedInArray(myArray) };
   pt.start([hidden]() {
     auto args { std::unique_ptr<PassedInArray>(static_cast<PassedInArray*>(hidden)) };

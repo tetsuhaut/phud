@@ -9,7 +9,7 @@ struct TableStatistics;
 class [[nodiscard]] StatsConsumer final {
 private:
   struct Implementation;
-  uptr<Implementation> m_pImpl;
+  std::unique_ptr<Implementation> m_pImpl;
 
 public:
   StatsConsumer(std::chrono::milliseconds reloadPeriod, ThreadSafeQueue<TableStatistics>& stats);

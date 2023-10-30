@@ -285,7 +285,7 @@ BOOST_AUTO_TEST_CASE(HandTest_playerWithNoActionHasActionNone) {
 }
 
 struct [[nodiscard]] MyStruct1 final {
-  uptr<std::string> str;
+  std::unique_ptr<std::string> str;
 };
 
 std::string func(MyStruct1& s) {
@@ -294,7 +294,7 @@ std::string func(MyStruct1& s) {
 }
 
 BOOST_AUTO_TEST_CASE(HandTest_passingAUniquePtrShouldBeOk) {
-  uptr<std::string> myString { mkUptr<std::string>("my string") };
+  std::unique_ptr<std::string> myString { std::make_unique<std::string>("my string") };
   MyStruct1 param { .str = std::move(myString) };
   BOOST_REQUIRE("my string" == func(param));
 }

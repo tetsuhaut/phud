@@ -11,7 +11,6 @@
 #include "history/WinamaxHistory.hpp" // PokerSiteHistory
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // fmt::format(), LoggingLevel
-#include "system/ErrorCode.hpp"
 #include "threads/ThreadPool.hpp"
 
 #include <boost/test/debug.hpp> // detect_memory_leaks()
@@ -29,6 +28,7 @@
 
 #include <fstream> // std::ofstream
 #include <source_location>
+#include <system_error> // std::error_code
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -157,8 +157,8 @@ fs::path pt::getTestResourcesDir() {
 static inline void removeWithMessage(const fs::path& file) {
   const auto& fileType { pf::isFile(file) ? "file" : "directory" };
 
-  if (ErrorCode ec; !std::filesystem::remove_all(file, ec)) {
-    if (isOk(ec)) {
+  if (std::error_code ec; !std::filesystem::remove_all(file, ec)) {
+    if (ec) {
       BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
     } else [[unlikely]] {
         BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));

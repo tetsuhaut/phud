@@ -34,7 +34,7 @@ private:
   bool m_isRealMoney;
   Seat m_nbMaxSeats;
   Time m_startDate;
-  std::vector<uptr<Hand>> m_hands;
+  std::vector<std::unique_ptr<Hand>> m_hands;
 
 public:
 
@@ -56,7 +56,7 @@ public:
   Game& operator=(Game&&) = delete;
   ~Game();
 
-  void addHand(uptr<Hand> hand);
+  void addHand(std::unique_ptr<Hand> hand);
   // gcc 10.2 can't do constexpr std::string
   [[nodiscard]] /*constexpr*/ std::string getName() const noexcept { return m_name; }
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_isRealMoney; }
@@ -73,7 +73,7 @@ public:
 class [[nodiscard]] Tournament final {
 private:
   double m_buyIn;
-  uptr<Game> m_game;
+  std::unique_ptr<Game> m_game;
 
 public:
 
@@ -95,7 +95,7 @@ public:
   Tournament& operator=(const Tournament&) = delete;
   Tournament& operator=(Tournament&&) = delete;
   ~Tournament();
-  void addHand(uptr<Hand> hand);
+  void addHand(std::unique_ptr<Hand> hand);
   // gcc 10.2 can't do constexpr std::string
   [[nodiscard]] /*constexpr*/ std::string getName() const noexcept { return m_game->getName(); }
   [[nodiscard]] /*constexpr*/ bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
@@ -114,7 +114,7 @@ class [[nodiscard]] CashGame final {
 private:
   double m_smallBlind;
   double m_bigBlind;
-  uptr<Game> m_game;
+  std::unique_ptr<Game> m_game;
 
 public:
 
@@ -137,7 +137,7 @@ public:
   CashGame& operator=(const CashGame&) = delete;
   CashGame& operator=(CashGame&&) = delete;
   ~CashGame();
-  void addHand(uptr<Hand> hand);
+  void addHand(std::unique_ptr<Hand> hand);
   // gcc 10.2 can't do constexpr std::string
   [[nodiscard]] /*constexpr*/ std::string getName() const noexcept { return m_game->getName(); }
   [[nodiscard]] /*constexpr*/ bool isRealMoney() const noexcept { return m_game->isRealMoney(); }

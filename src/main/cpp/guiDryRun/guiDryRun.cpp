@@ -50,13 +50,13 @@ public:
     m_continue = true;
     m_task.start([this]() {
       LOG.debug<"task in guiDryRun startProducingStats()">();
-      std::array<uptr<PlayerStatistics>, 10> fakeStats{
-        mkUptr<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player0", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = true,  .nbHands = 10, .vpip = 1, .pfr = 7 }),
-        mkUptr<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player1", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 20, .vpip = 2, .pfr = 8 }),
-        mkUptr<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player2", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 30, .vpip = 3, .pfr = 9 }),
-        mkUptr<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player3", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 40, .vpip = 4, .pfr = 10}),
-        mkUptr<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player4", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 50, .vpip = 5, .pfr = 11}),
-        mkUptr<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player5", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 60, .vpip = 6, .pfr = 12}),
+      std::array<std::unique_ptr<PlayerStatistics>, 10> fakeStats{
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player0", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = true,  .nbHands = 10, .vpip = 1, .pfr = 7 }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player1", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 20, .vpip = 2, .pfr = 8 }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player2", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 30, .vpip = 3, .pfr = 9 }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player3", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 40, .vpip = 4, .pfr = 10}),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player4", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 50, .vpip = 5, .pfr = 11}),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player5", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 60, .vpip = 6, .pfr = 12}),
         nullptr, nullptr, nullptr, nullptr
       };
       m_stats.push(std::move(TableStatistics { .m_maxSeats = Seat::seatSix, .m_tableStats = std::move(fakeStats) }));

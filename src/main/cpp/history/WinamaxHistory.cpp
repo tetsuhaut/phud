@@ -27,7 +27,7 @@ struct [[nodiscard]] WinamaxHistory::Implementation final {
   std::atomic_bool m_stop { true };
 }; // struct WinamaxHistory::Implementation
 
-WinamaxHistory::WinamaxHistory() noexcept : m_pImpl { mkUptr<Implementation>() }  {}
+WinamaxHistory::WinamaxHistory() noexcept : m_pImpl { std::make_unique<Implementation>() }  {}
 
 WinamaxHistory::~WinamaxHistory() {
   try {
@@ -135,7 +135,7 @@ std::atomic_bool& stop, const auto& incrementCb) {
   return ret;
 }
 
-uptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
+std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
                                 FunctionVoid incrementCb,
                                 FunctionInt setNbFilesCb) {
   m_pImpl->m_stop = false;
@@ -143,7 +143,7 @@ uptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
   try {
     LOG.debug<"Loading the history dir '{}'.">(winamaxHistoryDir.string());
     const auto& files { getFilesAndNotify(winamaxHistoryDir, setNbFilesCb) };
-    auto ret { mkUptr<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
+    auto ret { std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
 
     if (files.empty()) {
       LOG.error<"0 file found in the dir {}">(winamaxHistoryDir.string());
@@ -155,7 +155,7 @@ uptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
     LOG.info<"Waiting for the end of loading.">();
     pa::forEach(m_pImpl->m_tasks, [&ret, this](auto & task) {
       if (task.valid()) {
-        uptr<Site> s { stlab::await(std::move(task)) };
+        std::unique_ptr<Site> s { stlab::await(std::move(task)) };
 
         if (!m_pImpl->m_stop and s) { ret->merge(*s); }
       }
@@ -165,11 +165,11 @@ uptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
     return ret;
   } catch (const std::exception& e) {
     LOG.error<"Exception in WinamaxHistory::load: {}">(e.what());
-    return mkUptr<Site>(ProgramInfos::WINAMAX_SITE_NAME);
+    return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 }
 
-/* [[nodicard]] static */ uptr<Site> WinamaxHistory::load(const fs::path& historyDir) {
+/* [[nodicard]] static */ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& historyDir) {
   WinamaxHistory wh;
   return wh.load(historyDir, nullptr, nullptr);
 }
@@ -188,9 +188,9 @@ void WinamaxHistory::stopLoading() {
   }
 }
 
-uptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
+std::unique_ptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
   LOG.trace<"Reloading the history file '{}'.">(file.string());
-  uptr<Site> ret { nullptr };
+  std::unique_ptr<Site> ret { nullptr };
 
   try {
     ret = WinamaxGameHistory::parseGameHistory(file);
