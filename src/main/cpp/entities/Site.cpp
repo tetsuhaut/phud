@@ -15,7 +15,8 @@ std::vector<const Player*> Site::viewPlayers() const {
   std::vector<const Player*> ret;
   if (false == m_players.empty()) {
     ret.reserve(m_players.size());
-    std::transform(m_players.cbegin(), m_players.cend(), std::back_inserter(ret), [](const auto& entry) noexcept { return entry.second.get(); });
+    std::transform(m_players.begin(), m_players.end(), std::back_inserter(ret),
+      [](const auto& entry) noexcept { return entry.second.get(); });
   }
   return ret;
 }
