@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp" // phud::algorithms
 #include "entities/Player.hpp"
 #include "entities/Seat.hpp"
 #include "gui/Gui.hpp"  // std::unique_ptr, std::make_unique
@@ -62,7 +61,6 @@
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
 namespace {
@@ -233,7 +231,7 @@ static inline void stopHudCb(Fl_Widget* button, void* hiddenSelf) {
   // kill stats producer/receiver
   self.m_app.stopProducingStats();
   // kill PlayerIndicators
-  pa::forEach(self.m_playerIndicators, [](auto & pi) { pi.reset(); });
+  std::ranges::for_each(self.m_playerIndicators, [](auto & pi) { pi.reset(); });
   button->deactivate();
   informUser<"no player indicator to display">(self);
   Fl::redraw();

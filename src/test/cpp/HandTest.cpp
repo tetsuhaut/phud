@@ -55,7 +55,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   BOOST_REQUIRE(ActionType::raise == pHand->viewActions().front()->getType());
   BOOST_REQUIRE("sabre_laser" == pHand->viewActions().front()->getPlayerName());
   std::size_t i { 0 };
-  pa::forEach(pHand->viewActions(), [&i](const auto pAction) {
+  std::ranges::for_each(pHand->viewActions(), [&i](const auto pAction) {
     BOOST_REQUIRE(i == pAction->getIndex());
     BOOST_REQUIRE("531302705944068104-65-1437230557" == pAction->getHandId());
     i++;

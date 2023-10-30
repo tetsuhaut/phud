@@ -1,9 +1,7 @@
-#include "containers/algorithms.hpp"
 #include "filesystem/TextFile.hpp"  // std::string, std::string_view, std::vector
 #include <sstream> // std::stringstream
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
 TextFile::TextFile(const fs::path& file)
@@ -21,7 +19,8 @@ bool TextFile::next() {
 }
 
 bool TextFile::containsOneOf(std::span<const std::string_view> patterns) const {
-  return pa::containsIf(patterns, [this](const auto & s) noexcept { return containsExact(s); });
+  return std::end(patterns) != std::find_if(std::begin(patterns), std::end(patterns),
+    [this](const auto & s) noexcept { return containsExact(s); });
 }
 
 TextFile& TextFile::trim() {

@@ -129,7 +129,7 @@ const auto& MY_SRC_FILES_WITH_EXCEPTION {
 const auto& FILE_INCLUSIONS = []() {
   // std::unordered_map doesn't accept fs::path as a key
   std::map<fs::path, std::vector<fs::path>, pf::PathComparator> ret;
-  pa::forEach(SRC_FILES, [&ret](const auto & file) {
+  std::ranges::for_each(SRC_FILES, [&ret](const auto & file) {
     auto& includes { ret[file] };
     /* we do not check includes from STL, or from thirdParty */
     TextFile tfl { file };
@@ -146,12 +146,12 @@ const auto& FILE_INCLUSIONS = []() {
 class [[nodiscard]] BeforeClass final {
 public:
   BeforeClass() {
-    BOOST_REQUIRE(pa::isSet(CPP_FILES));
-    BOOST_REQUIRE(pa::isSet(HPP_FILES));
-    BOOST_REQUIRE(pa::isSet(H_FILES));
-    BOOST_REQUIRE(pa::isSet(SRC_FILES));
-    BOOST_REQUIRE(pa::isSet(MY_SRC_FILES));
-    BOOST_REQUIRE(pa::isSet(H_HPP_FILES));
+    BOOST_REQUIRE(pt::isSet(CPP_FILES));
+    BOOST_REQUIRE(pt::isSet(HPP_FILES));
+    BOOST_REQUIRE(pt::isSet(H_FILES));
+    BOOST_REQUIRE(pt::isSet(SRC_FILES));
+    BOOST_REQUIRE(pt::isSet(MY_SRC_FILES));
+    BOOST_REQUIRE(pt::isSet(H_HPP_FILES));
   }
 } beforeClass;
 
@@ -214,7 +214,7 @@ enum class LineType : short { none, pragmaOnce, other };
 
 /*[[nodiscard]]*/ static inline void logIfMySrcFilesContainToken(std::span<const fs::path> files,
     std::string_view token, std::string_view replacement) {
-  pa::forEach(files, [&](const auto & file) {
+  std::ranges::for_each(files, [&](const auto & file) {
     TextFile tfl { file };
 
     while (tfl.next()) {
@@ -246,7 +246,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_globalsAreCorrect) {
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHppHeaderFilesMustStartWithParagmaOnce) {
-  pa::forEach(H_HPP_FILES, [](const auto & file) {
+  std::ranges::for_each(H_HPP_FILES, [](const auto & file) {
     if (LineType::other == getFirstCodeLineType(file)) {
       LOG.warn<"The header '{}' should start with '#pragma once'">(file.string());
     }
@@ -254,7 +254,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHppHeaderFilesMustStartWithParagma
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noCppFilesShouldStartWithParagmaOnce) {
-  pa::forEach(CPP_FILES, [](const auto & file) {
+  std::ranges::for_each(CPP_FILES, [](const auto & file) {
     if (LineType::pragmaOnce == getFirstCodeLineType(file)) {
       LOG.warn<"The cpp file '{}' should not contain '#pragma once'">(file.string());
     }
@@ -265,13 +265,13 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHeaderFilesShouldBeIncluded) {
   /* list all the h/hpp files, remove one each time we find it included. */
   /* Those remaining are never included. */
   auto headers { ::H_HPP_FILES };
-  pa::forEach(::MY_SRC_FILES, [&](const auto & file) {
+  std::ranges::for_each(::MY_SRC_FILES, [&](const auto & file) {
     if (!headers.empty()) {
       const auto& inclusions { pa::findOrDefault(FILE_INCLUSIONS, file.string()) };
-      pa::forEach(inclusions, [&](const auto & h) { pa::eraseValueFrom(headers, h); });
+      std::ranges::for_each(inclusions, [&](const auto & h) { pa::eraseValueFrom(headers, h); });
     }
   });
-  pa::forEach(headers, [](const auto & h) { LOG.warn<"Unused header:\n{}">(h.string()); });
+  std::ranges::for_each(headers, [](const auto & h) { LOG.warn<"Unused header:\n{}">(h.string()); });
 }
 
 static inline std::vector<fs::path> getIncludes(const fs::path& p) {
@@ -283,12 +283,12 @@ static inline std::vector<fs::path> getIncludes(const fs::path& p) {
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedInAFileAndOneOfItsIncludedFiles) {
-  pa::forEach(::FILE_INCLUSIONS, [&](const auto & fileToIncludes) {
+  std::ranges::for_each(::FILE_INCLUSIONS, [&](const auto & fileToIncludes) {
     const auto& f { fileToIncludes.first };
     const auto& currentIncludes { fileToIncludes.second };
-    pa::forEach(currentIncludes, [&](const auto & incl) {
+    std::ranges::for_each(currentIncludes, [&](const auto & incl) {
       const auto& others { getIncludes(incl) };
-      pa::forEach(others, [&](const auto & inclincl) {
+      std::ranges::for_each(others, [&](const auto & inclincl) {
         if (pa::contains(currentIncludes, inclincl)) {
           LOG.warn<"\nis in\n{}\nand in\n{}\n">(inclincl.string(), f.string(), incl.string());
         }
@@ -299,7 +299,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedInAFileAndOneOf
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingArgumentsShouldBeExplicit) {
   /* explicit is for forbidding implicit conversions for constructors callable with a single parameter */
-  pa::forEach(::H_HPP_FILES, [](const auto & file) {
+  std::ranges::for_each(::H_HPP_FILES, [](const auto & file) {
     TextFile tfl { file };
     const auto& constructor { tfl.getFileStem() };
 
@@ -324,7 +324,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingArguments
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShouldNotBeExplicit) {
   /* explicit is for forbidding constructor arguments conversion */
-  pa::forEach(::H_HPP_FILES, [](const auto & file) {
+  std::ranges::for_each(::H_HPP_FILES, [](const auto & file) {
     TextFile tfl { file };
     const auto& constructor { tfl.getFileStem() };
 
@@ -343,7 +343,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_destructorShouldNotBeNoExcept) {
   /* C++11 made destructors noexcept by default, unless stated differently */
-  pa::forEach(::MY_SRC_FILES, [](const auto & file) {
+  std::ranges::for_each(::MY_SRC_FILES, [](const auto & file) {
     TextFile tfl { file };
 
     while (tfl.next()) {
@@ -356,7 +356,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_destructorShouldNotBeNoExcept) {
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_simpleGettersShouldBeNoExcept) {
-  pa::forEach(::H_HPP_FILES, [](const auto & file) {
+  std::ranges::for_each(::H_HPP_FILES, [](const auto & file) {
     TextFile tfl { file };
 
     while (tfl.next()) {
@@ -370,7 +370,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_simpleGettersShouldBeNoExcept) {
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useChevronsForLibraryHeadersOnly) {
-  pa::forEach(::MY_SRC_FILES, [](const auto & file) {
+  std::ranges::for_each(::MY_SRC_FILES, [](const auto & file) {
     TextFile tfl { file };
 
     while (tfl.next()) {
@@ -394,7 +394,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useChevronsForLibraryHeadersOnly) {
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedTwice) {
-  pa::forEach(::FILE_INCLUSIONS, [](const auto & fileToIncludes) {
+  std::ranges::for_each(::FILE_INCLUSIONS, [](const auto & fileToIncludes) {
     if (!pa::isSet(fileToIncludes.second)) {
       LOG.warn<"some files are included more than once in '{}'">(fileToIncludes.first.string());
     }
@@ -402,7 +402,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedTwice) {
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noIncludePathShouldHaveAntiSlashPathSeparator) {
-  pa::forEach(::MY_SRC_FILES, [](const auto & file) {
+  std::ranges::for_each(::MY_SRC_FILES, [](const auto & file) {
     TextFile tfl { file };
 
     while (tfl.next()) {
@@ -429,7 +429,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNoDiscardVoid) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesAreUsed) {
   const auto& queryNames { getAllQueryNames("sqliteQueries.hpp") };
-  pa::forEach(queryNames, [](std::string_view queryName) {
+  std::ranges::for_each(queryNames, [](std::string_view queryName) {
     if (!sourceFileContains("Database.cpp", queryName)) {
       LOG.warn<"The SQL query {} is not used in Database.cpp">(queryName);
     } else {
@@ -485,7 +485,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useAndAndOr) {
 //}
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_constexprImpliesInline) {
-  pa::forEach(::MY_SRC_FILES_WITH_EXCEPTION, [&](const auto & file) {
+  std::ranges::for_each(::MY_SRC_FILES_WITH_EXCEPTION, [&](const auto & file) {
     TextFile tfl { file };
 
     while (tfl.next()) {

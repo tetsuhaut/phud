@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp"  // TmpFile, std::string_view, LogDisabler
-#include "containers/algorithms.hpp" // pa::isSet
 #include "db/Database.hpp"
 #include "entities/Action.hpp" // ActionType, Street
 #include "entities/Game.hpp" // CashGame, Tournament
@@ -10,7 +9,6 @@
 #include <unordered_set>
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace pt = phud::test;
 
@@ -89,8 +87,8 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   BOOST_REQUIRE(21 == players.size());
   std::vector<std::string> actualPlayerNames;
   actualPlayerNames.reserve(players.size());
-  pa::transform(players, actualPlayerNames, [](const auto & p) { return p->getName(); });
-  BOOST_REQUIRE(pa::isSet(actualPlayerNames));
+  std::transform(players.cbegin(), players.cend(), std::back_inserter(actualPlayerNames), [](const auto& p) { return p->getName(); });
+  BOOST_REQUIRE(pt::isSet(actualPlayerNames));
   std::vector<std::string> expectedPlayerNames { "Akinos", "Amntfs", "Baroto",
                                        "JOOL81", "CtD Jeyje", "KT-Laplume74", "LeCavSeRebif", "Merkaba1111",
                                        "MidnightSR", "acid rodge", "bebediego", "boa5ter", "daronwina",
@@ -103,12 +101,13 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   const auto& hands { cashGame.viewHands() };
   BOOST_REQUIRE(5 == hands.size());
   /* each hand has 6 players */
-  pa::forEach(hands, [](const auto & hand) {
+  std::ranges::for_each(hands, [](const auto & hand) {
     const auto& seats{ hand->getSeats() };
     const std::span firstSix(seats.begin(), seats.begin() + 6);
-    BOOST_REQUIRE(pa::noneOf(firstSix, pa::isEmpty<std::string>));
+    const auto isEmpty = [](auto s) { return s.empty(); };
+    BOOST_REQUIRE(std::ranges::none_of(firstSix, isEmpty));
     const std::span lastFour(seats.begin() + 6, seats.end());
-    BOOST_REQUIRE(pa::allOf(lastFour, pa::isEmpty<std::string>));
+    BOOST_REQUIRE(std::ranges::all_of(lastFour, isEmpty));
   });
   const std::vector<std::string> sixPlayerNames {"Amntfs", "tc1591", "KT-Laplume74", "martinh06", "Akinos", "JOOL81"};
   const auto& firstHandSeats { hands[0]->getSeats() };
@@ -117,8 +116,8 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   BOOST_REQUIRE(6 == hands[1]->viewActions().size());
   /* check that the 5 first players folded preflop */
   const auto& actions { hands[1]->viewActions() };
-  const std::span firstFive(&actions[0], &actions[5]);
-  pa::forEach(firstFive, [](const auto & action) {
+  const auto& firstFive { std::span(&actions[0], &actions[5]) };
+  std::ranges::for_each(firstFive, [](const auto & action) {
     BOOST_REQUIRE(Street::preflop == action->getStreet());
     BOOST_REQUIRE(ActionType::fold == action->getType());
   });
@@ -164,7 +163,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldNotHaveDuplicatedPlayers) {
   const auto pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/sabre_laser")) };
   auto players { pSite->viewPlayers() };
   std::unordered_set<const Player*> uniquePlayers;
-  pa::forEach(players, [&uniquePlayers](auto p) { uniquePlayers.insert(p); });
+  std::ranges::for_each(players, [&uniquePlayers](auto p) { uniquePlayers.insert(p); });
   BOOST_REQUIRE(players.size() == uniquePlayers.size());
 }
 

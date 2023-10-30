@@ -21,7 +21,7 @@ BOOST_AUTO_TEST_CASE(PositionTest_buildPlayerIndicatorPositionShouldSucceed) {
 BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldBeLocatedInsideTheTableWindow) {
   phud::Rectangle tablePosition { .x = 50, .y = 50, .w = 300, .h = 200 };
   const auto seats = { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive, Seat::seatSix };
-  pa::forEach(seats, [&tablePosition](auto seat) {
+  std::ranges::for_each(seats, [&tablePosition](auto seat) {
     auto [x, y] { buildPlayerIndicatorPosition(seat, Seat::seatThree, Seat::seatSix, tablePosition) };
     BOOST_REQUIRE(tablePosition.x <= x and x <= (tablePosition.x + tablePosition.w));
     BOOST_REQUIRE(50 <= tablePosition.y and (tablePosition.y + tablePosition.h) <= 250);
@@ -33,7 +33,7 @@ BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldHaveDistinctPositions) {
   const auto seats = { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive, Seat::seatSix };
   std::vector<std::pair<int, int>> positions;
   positions.reserve(seats.size());
-  pa::forEach(seats, [&tablePosition, &positions](auto seat) {
+  std::ranges::for_each(seats, [&tablePosition, &positions](auto seat) {
     positions.push_back(buildPlayerIndicatorPosition(seat, Seat::seatThree, Seat::seatSix,
                         tablePosition));
   });

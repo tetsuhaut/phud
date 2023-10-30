@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp" // forEach
 #include <unordered_map>
 #include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString, count
 #include "language/assert.hpp" // phudAssert

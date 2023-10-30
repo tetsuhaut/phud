@@ -131,21 +131,21 @@ BOOST_AUTO_TEST_CASE(WinamaxGameHistoryTest_mergingSitesShouldSucceed) {
                         "Winamax/tc1591/history/20150309_Colorado 1_real_holdem_no-limit.txt") };
   const auto& pSiteToBeMerged { WinamaxGameHistory::parseGameHistory(file1) };
   BOOST_REQUIRE(21 == pSiteToBeMerged->viewPlayers().size());
-  BOOST_REQUIRE(pa::isSet(pSiteToBeMerged->viewPlayers()));
+  BOOST_REQUIRE(pt::isSet(pSiteToBeMerged->viewPlayers()));
   BOOST_REQUIRE(nullptr != pSiteToBeMerged->viewPlayer("tc1591"));
   BOOST_REQUIRE(5 == pSiteToBeMerged->viewCashGames()[0]->viewHands("tc1591").size());
   const auto& file2 { pt::getFileFromTestResources(
                         "Winamax/tc1591/history/20150309_Colorado 2_real_holdem_no-limit.txt") };
   auto site { WinamaxGameHistory::parseGameHistory(file2) };
   BOOST_REQUIRE(40 == site->viewPlayers().size());
-  BOOST_REQUIRE(pa::isSet(site->viewPlayers()));
+  BOOST_REQUIRE(pt::isSet(site->viewPlayers()));
   BOOST_REQUIRE(10 == site->viewCashGames()[0]->viewHands("tc1591").size());
   site->merge(*pSiteToBeMerged);
   BOOST_REQUIRE(55 == site->viewPlayers().size());
   BOOST_REQUIRE(2 == site->viewCashGames().size());
   BOOST_REQUIRE(10 == site->viewCashGames()[0]->viewHands("tc1591").size());
   BOOST_REQUIRE(5 == site->viewCashGames()[1]->viewHands("tc1591").size());
-  BOOST_REQUIRE(pa::isSet(site->viewPlayers()));
+  BOOST_REQUIRE(pt::isSet(site->viewPlayers()));
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxGameHistoryTest_playerWithNoActionHaveActionNone) {

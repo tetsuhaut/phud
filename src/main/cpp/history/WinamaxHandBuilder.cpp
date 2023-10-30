@@ -280,7 +280,7 @@ std::string_view handId) {
 [[nodiscard]] static inline std::vector<std::unique_ptr<Action>> createActionForWinnersWithoutAction(
 std::span<std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street, std::string_view handId) {
   std::vector<std::unique_ptr<Action>> ret;
-  pa::forEach(winners, [&](std::string_view winner) {
+  std::ranges::for_each(winners, [&](std::string_view winner) {
     if (!winner.empty() and !pa::containsIf(actions, [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
       ret.push_back(std::make_unique<Action>(Action::Params {
         .handId = handId,
@@ -318,7 +318,7 @@ template<GameType gameType>
   LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
   const auto& seatPlayers { parseSeats(tf, cache) };
-  pa::forEach(seatPlayers, [&cache](const auto & p) { if (!p.empty()) { cache.addIfMissing(p); } });
+  std::ranges::for_each(seatPlayers, [&cache](const auto & p) { if (!p.empty()) { cache.addIfMissing(p); } });
   const auto ante { parseAnte(tf) };
   const auto& heroCards { parseHeroCards(tf, cache) };
   auto [actions, winners] { parseActionsAndWinners(tf, handId) };

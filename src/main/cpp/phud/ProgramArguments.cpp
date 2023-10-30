@@ -1,12 +1,13 @@
-#include "containers/algorithms.hpp" // phud::algorithms::*
 #include "phud/ProgramArguments.hpp"  // ProgramArguments::*, std::string, std::string_view, std::filesystem::path, std::pair, std::optional, toLoggingLevel()
 #include "mainLib/ProgramInfos.hpp"  // ProgramInfos::*
-#include <array>
+#include "strings/StringLiteral.hpp"
+
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 
+#include <array>
+
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace ps = phud::strings;
 
 /**
@@ -41,7 +42,7 @@ namespace ps = phud::strings;
 [[nodiscard]] static inline std::string toLowerCase(std::string_view str) {
   std::string lowerCase;
   lowerCase.reserve(str.size());
-  pa::transform(str, lowerCase, [](unsigned char c) {
+  std::transform(str.cbegin(), str.cend(), lowerCase.begin(), [](unsigned char c) {
     return gsl::narrow_cast<char>(std::tolower(c));
   });
   return lowerCase;
@@ -65,7 +66,10 @@ namespace ps = phud::strings;
   constexpr std::array<std::string_view, 4> KNOWN_ARGS {"-d", "--historyDir", "-l", "--logLevel"};
   auto index { 0 };
   std::copy_if(arguments.begin(), arguments.end(), std::back_inserter(ret),
-  [&KNOWN_ARGS, &index](std::string_view arg) { return isOdd(index++) and !pa::contains(KNOWN_ARGS, arg); });
+  [&KNOWN_ARGS, &index](std::string_view arg) {
+    return isOdd(index++) and
+       std::end(KNOWN_ARGS) == std::find(std::begin(KNOWN_ARGS), std::end(KNOWN_ARGS), arg);
+  });
   return ret;
 }
 
@@ -91,7 +95,8 @@ parseProgramArguments(std::span<const char* const> arguments) {
                                   "  <directory> is the directory containing the poker site hand history.\n"
                                   "  <none|trace|info|warning|error> are the different values for the logging level.\n" };
 
-  if (pa::containsIf(arguments, isEqualTo<"-h">) or pa::containsIf(arguments, isEqualTo<"--help">)) {
+  if ((std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments), isEqualTo<"-h">)) or
+    (std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments), isEqualTo<"--help">))) {
     const auto& PROGRAM_DESCRIPTION { fmt::format("Poker Heads-Up Dispay version {} \n"
                                       "Shows statistics on the players for the current poker table.\n", ProgramInfos::APP_VERSION) };
     throw UserAskedForHelpException { fmt::format("{}{}", PROGRAM_DESCRIPTION,
@@ -100,7 +105,7 @@ parseProgramArguments(std::span<const char* const> arguments) {
 
   if (const auto & badArgs { listUnknownArguments(arguments) }; !badArgs.empty()) {
     std::string argsList;
-    pa::forEach(badArgs, [&argsList](const auto & arg) { argsList.append(arg).append(", "); });
+    std::ranges::for_each(badArgs, [&argsList](const auto & arg) { argsList.append(arg).append(", "); });
     argsList = argsList.substr(0, argsList.size() - ps::length(", "));
     throw ProgramArgumentsException { fmt::format("Unknown argument{}: {}\n{}",
                                       ps::plural(badArgs.size()), argsList, fmt::format(USAGE_TEMPLATE, programName)) };

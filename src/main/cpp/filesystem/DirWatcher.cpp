@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp" // forEach
 #include <unordered_map>
 #include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString
 #include "language/assert.hpp" // phudAssert
@@ -9,7 +8,6 @@
 #include <system_error>
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
 using FileTimes = std::unordered_map<std::string, std::filesystem::file_time_type>;
@@ -35,7 +33,7 @@ template<typename T> requires(std::same_as<T, fs::path>)
     FileTimes& ref, auto fileHasChangedCb) {
   LOG.trace<"Searching for file changes in dir {}">(dir.string());
   const auto& files { pf::listTxtFilesInDir(dir) };
-  pa::forEach(files, [&ref, &fileHasChangedCb](const auto & file) {
+  std::ranges::for_each(files, [&ref, &fileHasChangedCb](const auto & file) {
     std::error_code ec;
     const auto& fileName{ file.string() };
 

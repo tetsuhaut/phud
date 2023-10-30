@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp"
 #include "filesystem/Filesystem.hpp" // std::filesystem::path, std::string_view, std::vector
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp"
@@ -15,7 +14,6 @@
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 
 namespace {
@@ -141,5 +139,5 @@ std::vector<fs::path> phud::filesystem::listRecursiveFiles(const fs::path& dir) 
 
 /* [[nodiscard]] */ bool phud::filesystem::containsAFileEndingWith(std::span<const fs::path> files,
     std::string_view str) {
-  return pa::anyOf(files, [str](const auto & p) { return p.string().ends_with(str); });
+  return std::ranges::any_of(files, [str](const auto & p) { return p.string().ends_with(str); });
 }

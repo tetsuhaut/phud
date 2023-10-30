@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp" // phud::algorithms::*
 #include "db/Database.hpp"          // Database
 #include "entities/Action.hpp"      // Action, ActionType
 #include "entities/Card.hpp"        // Card, toCard
@@ -18,7 +17,6 @@
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
@@ -113,7 +111,7 @@ static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::pat
 std::atomic_bool& stop, const auto& incrementCb) {
   std::vector<Future<Site*>> ret;
   ret.reserve(files.size());
-  pa::transform(files, ret, [&incrementCb, &stop](const auto & file) {
+  std::transform(files.cbegin(), files.cend(), std::back_inserter(ret), [&incrementCb, &stop](const auto& file) {
     if (stop) { return Future<Site*>(); }
 
     return ThreadPool::submit([&file, &incrementCb, &stop]() {
@@ -153,7 +151,7 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
     LOG.info<" file{} to load.">(files.size(), ps::plural(files.size()));
     m_pImpl->m_tasks = parseFilesAsync(files, m_pImpl->m_stop, incrementCb);
     LOG.info<"Waiting for the end of loading.">();
-    pa::forEach(m_pImpl->m_tasks, [&ret, this](auto & task) {
+    std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto & task) {
       if (task.valid()) {
         std::unique_ptr<Site> s { stlab::await(std::move(task)) };
 
@@ -179,7 +177,7 @@ void WinamaxHistory::stopLoading() {
   std::size_t nbTasksFinished { 0 };
 
   while (nbTasksFinished != m_pImpl->m_tasks.size()) {
-    pa::forEach(m_pImpl->m_tasks, [&nbTasksFinished](auto & task) {
+    std::ranges::for_each(m_pImpl->m_tasks, [&nbTasksFinished](auto & task) {
       if (task.is_ready()) {
         task.reset(); // it won't be ready anymore
         nbTasksFinished++;

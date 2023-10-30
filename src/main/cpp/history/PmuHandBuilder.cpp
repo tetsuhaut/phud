@@ -202,7 +202,7 @@ parseActions(TextFile& tf, Street street, std::string_view handId) {
 [[nodiscard]] static inline std::vector<std::unique_ptr<Action>> createActionForWinnersWithoutAction(
 std::span<const std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street, std::string_view handId) {
   std::vector<std::unique_ptr<Action>> ret;
-  pa::forEach(winners, [&](std::string_view winner) {
+  std::ranges::for_each(winners, [&](std::string_view winner) {
     if (!winner.empty() and !pa::containsIf(actions, [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
       ret.push_back(std::make_unique<Action>(Action::Params {
         .handId = handId,
@@ -328,7 +328,7 @@ std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCach
   const auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) }; // TODO unneeded
   tf.next();
   const auto& seatPlayers { parseSeats(tf, cache) };
-  pa::forEach(seatPlayers, [&cache](const auto & p) { if (!p.empty()) { cache.addIfMissing(p); } });
+  std::ranges::for_each(seatPlayers, [&cache](const auto & p) { if (!p.empty()) { cache.addIfMissing(p); } });
   seekToDealingDownCards(tf);
   tf.next();
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };

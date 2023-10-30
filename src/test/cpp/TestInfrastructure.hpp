@@ -92,4 +92,10 @@ public:
   ~LogDisabler();
 }; // class LogDisabler
 
+[[nodiscard]] bool isSet(const auto& container) {
+  auto copy { container };
+  std::sort(std::begin(copy), std::end(copy));
+  return std::end(copy) == std::adjacent_find(std::begin(copy), std::end(copy));
+}
+
 } // namespace phud::test

@@ -76,7 +76,7 @@ template<typename GAME_TYPE>
   } else { LOG.info<"Game *not* created for file {}.">(gameHistoryFile.filename().string()); }
 
   auto players { cache.extractPlayers() };
-  pa::forEach(players, [&](auto & p) { pSite->addPlayer(std::move(p)); });
+  std::ranges::for_each(players, [&](auto & p) { pSite->addPlayer(std::move(p)); });
   return pSite;
 }
 

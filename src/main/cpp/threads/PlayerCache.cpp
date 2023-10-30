@@ -48,7 +48,7 @@ std::vector<std::unique_ptr<Player>> PlayerCache::extractPlayers() {
   const std::lock_guard<std::mutex> lock { m_pImpl->m_mutex };
   std::vector<std::unique_ptr<Player>> ret;
   ret.reserve(m_pImpl->m_players.size());
-  pa::forEach(m_pImpl->m_players, [&](auto & nameToPlayer) { ret.push_back(std::move(nameToPlayer.second)); });
+  std::ranges::for_each(m_pImpl->m_players, [&](auto & nameToPlayer) { ret.push_back(std::move(nameToPlayer.second)); });
   m_pImpl->m_players.clear();
   return ret;
 }

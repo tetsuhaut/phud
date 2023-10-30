@@ -1,10 +1,10 @@
-#include "containers/algorithms.hpp" // phud::algorithms::*
 #include "entities/Game.hpp" // CashGame, Tournament
 #include "entities/Player.hpp"
 #include "entities/Site.hpp" // Site
 #include "language/assert.hpp" // phudAssert
 
-namespace pa = phud::algorithms;
+#include <algorithm> // std::transform
+#include <iterator> // std::back_inserter
 
 Site::Site(std::string_view name)
   : m_name { name } { phudAssert(!m_name.empty(), "name is empty"); }
@@ -15,7 +15,7 @@ std::vector<const Player*> Site::viewPlayers() const {
   std::vector<const Player*> ret;
   if (false == m_players.empty()) {
     ret.reserve(m_players.size());
-    pa::transform(m_players, ret, [](const auto& entry) noexcept { return entry.second.get(); });
+    std::transform(m_players.cbegin(), m_players.cend(), std::back_inserter(ret), [](const auto& entry) noexcept { return entry.second.get(); });
   }
   return ret;
 }
@@ -52,7 +52,7 @@ std::vector<const Tournament*> Site::viewTournaments() const { return view(m_tou
 
 void Site::merge(Site& other) {
   phudAssert(other.getName() == m_name, "Can't merge data from different poker sites");
-  pa::forEach(other.m_players, [this](auto & pair) { addPlayer(std::move(pair.second)); });
-  pa::moveInto(other.m_cashGames, m_cashGames);
-  pa::moveInto(other.m_tournaments, m_tournaments);
+  std::ranges::for_each(other.m_players, [this](auto & pair) { addPlayer(std::move(pair.second)); });
+  std::move(std::begin(other.m_cashGames), std::end(other.m_cashGames), std::back_inserter(m_cashGames));
+  std::move(std::begin(other.m_tournaments), std::end(other.m_tournaments), std::back_inserter(m_tournaments));
 }

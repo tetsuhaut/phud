@@ -1,11 +1,8 @@
-#include "containers/algorithms.hpp"
 #include "entities/Seat.hpp"
 #include "gui/Position.hpp"
 #include "gui/Rectangle.hpp"
 #include "language/limits.hpp" // toSizeT
 #include <frozen/unordered_map.h>
-
-namespace pa = phud::algorithms;
 
 [[nodiscard]] static constexpr std::pair<double, double> mkPair(double x, double y) noexcept {
   return std::make_pair(x, y);
@@ -36,7 +33,7 @@ static constexpr auto NB_SEATS_TO_COEFF {
 [[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat,
     Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   assert(seat <= tableMaxSeats);
-  const auto [coefX, coefY] { pa::getValueFromKey(NB_SEATS_TO_COEFF, tableMaxSeats).at(tableSeat::toArrayIndex(seat)) };
+  const auto& [coefX, coefY] { NB_SEATS_TO_COEFF.find(tableMaxSeats)->second.at(tableSeat::toArrayIndex(seat)) };
   return { limits::toInt(tablePos.x + coefX * tablePos.w), limits::toInt(tablePos.y + coefY * tablePos.h) };
 }
 
