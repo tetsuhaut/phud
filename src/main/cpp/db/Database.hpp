@@ -3,8 +3,8 @@
 #include "entities/Seat.hpp"
 #include "language/PhudException.hpp" // std::string_view
 #include "strings/StringUtils.hpp"
-#include "system/memory.hpp" // uptr
 
+#include <memory>
 #include <span>
 
 // forward declarations

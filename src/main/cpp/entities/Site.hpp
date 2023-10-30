@@ -1,8 +1,9 @@
 #pragma once
 
-#include <unordered_map>
 #include "strings/StringUtils.hpp" // String, std::string_view
-#include "system/memory.hpp" // uptr
+
+#include <memory> // std::unique_ptr
+#include <unordered_map>
 
 class Player;
 class CashGame;

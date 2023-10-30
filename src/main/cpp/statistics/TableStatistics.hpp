@@ -1,8 +1,9 @@
 #pragma once
 
 #include "entities/Seat.hpp"
-#include "system/memory.hpp" // uptr
+
 #include <array>
+#include <memory> // std::unique_ptr
 
 class PlayerStatistics;
 

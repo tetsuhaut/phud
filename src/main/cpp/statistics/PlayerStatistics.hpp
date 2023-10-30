@@ -2,7 +2,8 @@
 
 #include "language/limits.hpp" // toInt
 #include "strings/StringUtils.hpp" // String, std::string_view
-#include "system/memory.hpp" // uptr
+
+#include <memory> // std::unique_ptr
 
 // cf. https://www.pokertracker.com/guides/PT3/general/statistical-reference-guide
 // VPIP = Voluntary Put money In Pot = (preflop calls + preflop bets + preflop raises) / (preflop calls + preflop bet + preflop raises + preflop checks + preflop folds)

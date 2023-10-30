@@ -2,7 +2,8 @@
 
 #include "language/PhudException.hpp" // PhudException, std::string_view
 #include "strings/StringUtils.hpp"
-#include "system/memory.hpp" // uptr
+
+#include <memory>
 
 // forward declaration
 namespace std { using ::tm; };

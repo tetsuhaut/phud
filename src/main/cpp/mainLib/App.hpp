@@ -1,7 +1,8 @@
 #pragma once
 
 #include "mainLib/AppInterface.hpp" // Path, uptr, std::function, TableStatistics
-#include "system/memory.hpp" // uptr
+
+#include <memory> // std::unique_ptr
 
 /**
  * The phud application.

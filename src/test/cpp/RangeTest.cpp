@@ -1,6 +1,8 @@
 #include "TestInfrastructure.hpp"
-#include "system/memory.hpp"
+
 #include <boost/range.hpp>
+
+#include <memory> // std::unique_ptr
 
 namespace {
 class [[nodiscard]] Owner final {

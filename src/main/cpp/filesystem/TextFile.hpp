@@ -1,7 +1,8 @@
 #pragma once
 
 #include "filesystem/Filesystem.hpp" // Path, String, std::string_view, std::stringstream forward declaration
-#include "system/memory.hpp" // uptr
+
+#include <memory> // std::unique_ptr
 #include <span>
 
 /**

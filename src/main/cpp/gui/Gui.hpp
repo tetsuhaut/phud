@@ -1,7 +1,6 @@
 #pragma once
 
-#include "system/memory.hpp" // uptr
-#include "strings/StringUtils.hpp"
+#include <memory> // std::unique_ptr
 
 // forward declaration
 class AppInterface;

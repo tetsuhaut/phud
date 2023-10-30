@@ -11,6 +11,7 @@
 #include "mainLib/AppInterface.hpp"  // String, Vector, Path, fs::isDir
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
+#include "strings/StringUtils.hpp"
 #include "threads/PeriodicTask.hpp"
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::finally

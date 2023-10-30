@@ -1,8 +1,9 @@
 #pragma once
 
 #include "strings/StringUtils.hpp"
-#include "system/memory.hpp" // uptr
+
 #include <chrono>
+#include <memory> // std::unique_ptr
 
 /**
 * This class produces objects that will kill the program after a period of time.

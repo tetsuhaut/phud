@@ -1,7 +1,7 @@
 #pragma once
 
-#include "system/memory.hpp" // sptr, uptr
 #include <condition_variable>
+#include <memory> // std::unique_ptr
 #include <mutex>
 #include <queue>
 
