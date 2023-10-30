@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringUtils.hpp"
+#include <string_view>
 
 enum class /*[[nodiscard]]*/ Card : short {
   none = 0,

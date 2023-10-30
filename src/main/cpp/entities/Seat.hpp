@@ -1,6 +1,7 @@
 #pragma once
 #include "language/assert.hpp"
-#include "strings/StringUtils.hpp"
+
+#include <string_view>
 
 enum class /*[[nodiscard]]*/ Seat : short {
   seatOne, seatTwo, seatThree, seatFour, seatFive, seatSix, seatSeven,

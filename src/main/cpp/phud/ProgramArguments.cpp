@@ -2,6 +2,7 @@
 #include "phud/ProgramArguments.hpp"  // ProgramArguments::*, std::string, std::string_view, std::pair, std::optional, toLoggingLevel()
 #include "mainLib/ProgramInfos.hpp"  // ProgramInfos::*
 #include "strings/StringLiteral.hpp"
+#include "strings/StringUtils.hpp" // phud::strings::*
 
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format

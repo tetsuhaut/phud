@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringUtils.hpp"
+#include <string_view>
 
 namespace ProgramInfos {
 
