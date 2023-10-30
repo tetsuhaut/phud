@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp" // std::find_if_not, phud::algorithms::*
 #include "language/assert.hpp"
 #include "strings/StringUtils.hpp" // std::string_view
 #include <cctype> // std::isspace
@@ -74,7 +73,7 @@ double phud::strings::toBuyIn(std::string_view buyIn) {
   std::string token;
   token.reserve(buyIn.size());
   double ret{ 0.0 };
-  phud::algorithms::forEach(buyIn, [&token, &ret](auto c) {
+  std::ranges::for_each(buyIn, [&token, &ret](auto c) {
     switch (c) {
       case ',': { token += '.'; } break;
 

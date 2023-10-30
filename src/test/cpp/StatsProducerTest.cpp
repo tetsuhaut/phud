@@ -1,6 +1,5 @@
 #include "TestInfrastructure.hpp"
 #include "TimeBomb.hpp" // std::chrono::*
-#include "containers/algorithms.hpp"
 #include "db/Database.hpp"
 #include "entities/Game.hpp"
 #include "entities/Player.hpp"
@@ -11,7 +10,6 @@
 #include "statistics/StatsProducer.hpp"
 #include "statistics/TableStatistics.hpp"
 
-namespace pa = phud::algorithms;
 namespace pt = phud::test;
 
 static constexpr std::chrono::milliseconds COUNTDOWN_TO_EXPLOSION { 10000 };

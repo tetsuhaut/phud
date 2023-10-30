@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp"
 #include "entities/Action.hpp"
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
@@ -17,10 +16,9 @@
 #include <optional>
 #include <string_view>
 
-static Logger LOG { CURRENT_FILE_NAME };
-
-namespace pa = phud::algorithms;
 namespace ps = phud::strings;
+
+static Logger LOG { CURRENT_FILE_NAME };
 
 static constexpr auto HAND_HISTORY_FOR_GAME_SIZE { ps::length("***** Hand History for Game ") };
 
@@ -203,7 +201,8 @@ parseActions(TextFile& tf, Street street, std::string_view handId) {
 std::span<const std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street, std::string_view handId) {
   std::vector<std::unique_ptr<Action>> ret;
   std::ranges::for_each(winners, [&](std::string_view winner) {
-    if (!winner.empty() and !pa::containsIf(actions, [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
+    if (!winner.empty() and std::end(actions) == std::find_if(std::begin(actions), std::end(actions),
+        [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
       ret.push_back(std::make_unique<Action>(Action::Params {
         .handId = handId,
         .playerName = winner,
@@ -258,13 +257,13 @@ parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
 
     tf.next();
     auto currentActions { parseActions(tf, currentStreet, handId) };
-    pa::moveInto(currentActions, actions);
+    std::move(std::begin(currentActions), std::end(currentActions), std::back_inserter(actions));
     lastStreet = currentStreet;
   }
 
   const auto& winners { parseWinners(tf) };
   auto additionalActions { createActionForWinnersWithoutAction(winners, actions, lastStreet, handId) };
-  pa::moveInto(additionalActions, actions);
+  std::move(std::begin(additionalActions), std::end(additionalActions), std::back_inserter(actions));
   return { .m_actions = std::move(actions), .m_winners = winners, .m_boardCards = boardCards };
 }
 

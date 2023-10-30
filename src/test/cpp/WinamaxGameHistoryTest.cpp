@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp" // LogDisabler, phud::test
-#include "containers/algorithms.hpp" // phud::algorithms::*
 #include "entities/Game.hpp"
 #include "entities/Hand.hpp"
 #include "entities/Player.hpp"
@@ -8,7 +7,6 @@
 #include "mainLib/ProgramInfos.hpp"
 
 namespace pt = phud::test;
-namespace pa = phud::algorithms;
 
 BOOST_AUTO_TEST_SUITE(WinamaxGameHistoryTest)
 

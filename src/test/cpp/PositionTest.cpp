@@ -1,11 +1,8 @@
 #include "TestInfrastructure.hpp"
-#include "containers/algorithms.hpp"
 #include "gui/Rectangle.hpp"
 #include "gui/Position.hpp"
 
 #include <set>
-
-namespace pa = phud::algorithms;
 
 BOOST_AUTO_TEST_SUITE(PositionTest)
 

@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp"
-#include "containers/algorithms.hpp"
 #include "db/Database.hpp"
 #include "db/sqliteQueries.hpp"
 #include "entities/Game.hpp"
@@ -14,7 +13,6 @@
 #include <gsl/gsl> // gsl::finally
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pt = phud::test;
 namespace pf = phud::filesystem;
 

@@ -3,6 +3,7 @@
 #include "strings/StringUtils.hpp"
 
 #include <memory> // std::unique_ptr
+#include <vector>
 
 class Player;
 

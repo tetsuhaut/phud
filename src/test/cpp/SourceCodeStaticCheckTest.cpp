@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp" // std::filesystem::path, fs::*, phud::*
-#include "containers/algorithms.hpp" // phud::algorithms::*
 #include "db/sqliteQueries.hpp"
 #include "filesystem/TextFile.hpp" // Span
 #include "language/assert.hpp" // phudAssert
@@ -11,7 +10,6 @@
 #include <unordered_map>
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 namespace pt = phud::test;
@@ -46,7 +44,7 @@ template<typename CONTAINER, typename... Args>
 /*[[nodiscard]]*/ CONTAINER merge(const CONTAINER& c, Args&& ... otherContainers) {
   CONTAINER ret { c };
   const auto& allOtherContainers = { std::forward<Args>(otherContainers)... };
-  forEach(allOtherContainers, [&ret](const auto & other) {
+  std::ranges::for_each(allOtherContainers, [&ret](const auto & other) {
     ret.insert(std::end(ret), std::begin(other), std::end(other));
   });
   return ret;
@@ -55,6 +53,31 @@ template<typename CONTAINER, typename... Args>
 template<typename CONTAINER_SOURCE, typename CONTAINER_TARGET, typename PREDICATE>
 void copyIf(const CONTAINER_SOURCE& source, CONTAINER_TARGET& target, PREDICATE p) {
   std::copy_if(std::begin(source), std::end(source), std::back_inserter(target), p);
+}
+
+/**
+ * Returns true if container contains value
+ */
+template<typename CONTAINER, typename T>
+[[nodiscard]] constexpr bool contains(const CONTAINER& c, const T& value) noexcept {
+  return std::end(c) != std::find(std::begin(c), std::end(c), value);
+}
+
+  template<typename CONTAINER, typename FUNCTOR>
+[[nodiscard]] auto findIf(const CONTAINER& c, FUNCTOR f) {
+  return std::find_if(c.begin(), c.end(), f);
+}
+
+/**
+ * Returns a copy of c, not containing the possible values for which p is true
+ */
+template<typename CONTAINER_OUTPUT, typename CONTAINER_INPUT, typename UNARY_PREDICATE>
+[[nodiscard]] CONTAINER_OUTPUT removeCopyIf(const CONTAINER_INPUT& c, UNARY_PREDICATE p) {
+  CONTAINER_OUTPUT ret;
+  ret.reserve(c.size());
+  std::remove_copy_if(std::begin(c), std::end(c), std::back_inserter(ret), p);
+  ret.shrink_to_fit();
+  return ret;
 }
 }; // namespace phud::algorithms
 
@@ -65,7 +88,7 @@ static auto SRC_FILES {
   []() {
     return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<fs::path> {}, [](std::vector<fs::path>&& v,
     const fs::path & dir) {
-      pa::append(v, pf::listRecursiveFiles(dir));
+      phud::algorithms::append(v, pf::listRecursiveFiles(dir));
       return v;
     });
   }()
@@ -76,8 +99,9 @@ static auto SRC_FILES {
  *         '#include "a/b" // c' into 'a/b'
  */
 [[nodiscard]] static inline std::string_view extractInclude(std::string_view line) {
-  using namespace pa;
-  phudAssert((1 < count(line, '"')) or (contains(line, '<') and contains(line, '>')), "bad line");
+  phudAssert((1 < phud::algorithms::count(line, '"')) or
+    (std::end(line) != std::find(line.begin(), line.end(), '<') and
+      std::end(line) != std::find(line.begin(), line.end(), '>')), "bad line");
   const auto& startPos { line.find_first_of("\"<") + 1 };
   const auto& endPos { line.find_first_of("\">", startPos) - 1 };
   return line.substr(startPos, 1 + endPos - startPos);
@@ -91,13 +115,15 @@ static auto SRC_FILES {
   const auto& file { extractInclude(line) };
   using namespace phud;
   using namespace pf;
-  const auto& f { pa::findIf(SRC_DIRS, [&file](const auto & dir) { return pa::contains(SRC_FILES, dir / file); }) };
+  const auto& f { phud::algorithms::findIf(SRC_DIRS, [&file](const auto & dir) {
+    return phud::algorithms::contains(SRC_FILES, dir / file); })
+  };
   return (SRC_DIRS.end() == f) ? file : std::filesystem::canonical(*f / file);
 }
 
 /** @returns all of the files that are nor in the src/main/cpp/thirdparty directory */
 [[nodiscard]] static inline std::vector<fs::path> getMySrcFiles(std::span<const fs::path> files) {
-  return pa::removeCopyIf<std::vector<fs::path>>(files, [](const auto & f) {
+  return phud::algorithms::removeCopyIf<std::vector<fs::path>>(files, [](const auto & f) {
     return ps::contains(f.string(), "thirdParty");
   });
 }
@@ -108,7 +134,7 @@ namespace {
  */
 [[nodiscard]] inline std::vector<fs::path> getSrcFiles(std::span<const fs::path> files, std::string_view fileExtension) {
   std::vector<fs::path> ret;
-  pa::copyIf(files, ret, [&](const auto & p) { return p.string().ends_with(fileExtension); });
+  phud::algorithms::copyIf(files, ret, [&](const auto & p) { return p.string().ends_with(fileExtension); });
   return ret;
 }
 
@@ -116,9 +142,9 @@ const auto& CPP_FILES { getSrcFiles(SRC_FILES, ".cpp") };
 const auto& HPP_FILES { getSrcFiles(SRC_FILES, ".hpp") };
 const auto& H_FILES { getSrcFiles(SRC_FILES, ".h") };
 auto MY_SRC_FILES { getMySrcFiles(SRC_FILES) };
-const auto& H_HPP_FILES { getMySrcFiles(pa::merge(HPP_FILES, H_FILES)) };
+const auto& H_HPP_FILES { getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES)) };
 const auto& MY_SRC_FILES_WITH_EXCEPTION {
-  pa::removeCopyIf<std::vector<fs::path>>(MY_SRC_FILES, [](const auto & file) {
+  phud::algorithms::removeCopyIf<std::vector<fs::path>>(MY_SRC_FILES, [](const auto & file) {
     return file.string().ends_with("SourceCodeStaticCheckTest.cpp");
   })
 };
@@ -176,7 +202,7 @@ enum class LineType : short { none, pragmaOnce, other };
 
 [[nodiscard]] static inline std::vector<std::string> getAllQueryNames(std::string_view
     sourceFileContainingQueries) {
-  const auto& sourceFileWithFullPath { *pa::findIf(MY_SRC_FILES, [&](const auto & file) {
+  const auto& sourceFileWithFullPath { *phud::algorithms::findIf(MY_SRC_FILES, [&](const auto & file) {
     return file.string().ends_with(sourceFileContainingQueries);
   })
                                      };
@@ -197,7 +223,7 @@ enum class LineType : short { none, pragmaOnce, other };
 
 [[nodiscard]] static inline bool sourceFileContains(std::string_view sourceFile,
     std::string_view sqlQueryName) {
-  const auto& sourceFileWithFullPath { *pa::findIf(MY_SRC_FILES, [&](auto & file) {
+  const auto& sourceFileWithFullPath { *phud::algorithms::findIf(MY_SRC_FILES, [&](auto & file) {
     return file.string().ends_with(sourceFile);
   })
                                      };
@@ -267,8 +293,8 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHeaderFilesShouldBeIncluded) {
   auto headers { ::H_HPP_FILES };
   std::ranges::for_each(::MY_SRC_FILES, [&](const auto & file) {
     if (!headers.empty()) {
-      const auto& inclusions { pa::findOrDefault(FILE_INCLUSIONS, file.string()) };
-      std::ranges::for_each(inclusions, [&](const auto & h) { pa::eraseValueFrom(headers, h); });
+      const auto& inclusions { phud::algorithms::findOrDefault(FILE_INCLUSIONS, file.string()) };
+      std::ranges::for_each(inclusions, [&](const auto & h) { phud::algorithms::eraseValueFrom(headers, h); });
     }
   });
   std::ranges::for_each(headers, [](const auto & h) { LOG.warn<"Unused header:\n{}">(h.string()); });
@@ -289,7 +315,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedInAFileAndOneOf
     std::ranges::for_each(currentIncludes, [&](const auto & incl) {
       const auto& others { getIncludes(incl) };
       std::ranges::for_each(others, [&](const auto & inclincl) {
-        if (pa::contains(currentIncludes, inclincl)) {
+        if (phud::algorithms::contains(currentIncludes, inclincl)) {
           LOG.warn<"\nis in\n{}\nand in\n{}\n">(inclincl.string(), f.string(), incl.string());
         }
       });
@@ -312,7 +338,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingArguments
           /* it's not an empty constructor */
           !trimmedLine.starts_with(constructor + "()")
           /* it's a one parameter callable constructor */
-          and pa::count(trimmedLine, ',') > pa::count(trimmedLine, '=')
+          and phud::algorithms::count(trimmedLine, ',') > phud::algorithms::count(trimmedLine, '=')
           /* it's not an explicit constructor */
           and trimmedLine.starts_with("explicit ")) {
         LOG.warn<"In {} at line {} the constructor should be explicit: {}.">(
@@ -377,7 +403,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useChevronsForLibraryHeadersOnly) {
       if (tfl.trim().startsWith("#include ")) {
         const auto& hasChevrons { tfl.startsWith("#include <") };
         const auto& include { extractAbsolutePathIncludeIfPossible(tfl.getLine()) };
-        const auto& isOneOfMine { pa::contains(MY_SRC_FILES, include) };
+        const auto& isOneOfMine { phud::algorithms::contains(MY_SRC_FILES, include) };
 
         if (hasChevrons and isOneOfMine) {
           LOG.warn<"The non library file '{}' is included in file {} with chevrons instead of double quotes at line {}.">
@@ -395,7 +421,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useChevronsForLibraryHeadersOnly) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedTwice) {
   std::ranges::for_each(::FILE_INCLUSIONS, [](const auto & fileToIncludes) {
-    if (!pa::isSet(fileToIncludes.second)) {
+    if (!pt::isSet(fileToIncludes.second)) {
       LOG.warn<"some files are included more than once in '{}'">(fileToIncludes.first.string());
     }
   });
@@ -467,7 +493,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useStdSizeT) {
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNULLInSourceCode) {
   /* NULL can only be used in SQL queries */
   const auto& MY_SRC_FILES_EXCEPTED_CURRENT_AND_SQL {
-    pa::removeCopyIf<std::vector<fs::path>>(::MY_SRC_FILES_WITH_EXCEPTION, [](const auto & file) {
+    phud::algorithms::removeCopyIf<std::vector<fs::path>>(::MY_SRC_FILES_WITH_EXCEPTION, [](const auto & file) {
       return file.string().ends_with("sqliteQueries.hpp");
     })
   };

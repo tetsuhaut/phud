@@ -1,15 +1,14 @@
-#include "containers/algorithms.hpp"
 #include "language/assert.hpp"
 #include "language/limits.hpp"
 #include "statistics/PlayerStatistics.hpp" // toSizeT
 #include "statistics/TableStatistics.hpp"
 #include <frozen/unordered_map.h>
 
-namespace pa = phud::algorithms;
-
+#include <ranges>
 
 Seat TableStatistics::getHeroSeat() const {
-  const auto it { pa::findIf(m_tableStats, [this](const auto & playerStat) noexcept { return playerStat and playerStat->isHero(); }) };
+
+  const auto it { std::ranges::find_if(m_tableStats, [this](const auto & playerStat) noexcept { return playerStat and playerStat->isHero(); }) };
   return (m_tableStats.end() == it) ? Seat::seatUnknown : tableSeat::fromArrayIndex(
            limits::toSizeT(it - m_tableStats.begin()));
 }
@@ -34,5 +33,6 @@ static const auto MAX_SEAT_TO_TABLE_SEATS {
 };
 
 /*[[nodiscard]]*/ std::vector<Seat> TableStatistics::getSeats() {
-  return pa::getValueFromKey(MAX_SEAT_TO_TABLE_SEATS, getMaxSeat());
+  auto seat { getMaxSeat() };
+  return MAX_SEAT_TO_TABLE_SEATS.find(seat)->second;
 }

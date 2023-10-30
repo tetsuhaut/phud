@@ -1,9 +1,6 @@
-#include "containers/algorithms.hpp"
 #include "log/LoggingLevel.hpp"
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>
-
-namespace pa = phud::algorithms;
 
 constexpr auto STRING_TO_ENUM {
   frozen::make_unordered_map<frozen::string, LoggingLevel>({
@@ -30,9 +27,9 @@ constexpr auto ENUM_TO_STRING {
 };
 
 LoggingLevel toLoggingLevel(std::string_view sv) {
-  return pa::getValueFromKey(STRING_TO_ENUM, sv);
+  return STRING_TO_ENUM.find(sv)->second;
 }
 
 std::string_view toString(LoggingLevel l) {
-  return pa::getValueFromKey(ENUM_TO_STRING, l);
+  return ENUM_TO_STRING.find(l)->second;
 }

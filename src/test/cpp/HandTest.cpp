@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp"
-#include "containers/algorithms.hpp" // phud::algorithms
 #include "entities/Action.hpp" // ActionType, Street
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
@@ -16,7 +15,6 @@
 #include <utf8.h> // utf8::utf16to8
 #include <optional>
 
-namespace pa = phud::algorithms;
 namespace ps = phud::strings;
 namespace pt = phud::test;
 

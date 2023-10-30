@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp" // phud::algorithms::*
 #include "entities/Hand.hpp"
 #include "entities/Player.hpp"
 #include "entities/Site.hpp"
@@ -10,12 +9,11 @@
 #include "mainLib/ProgramInfos.hpp" // ProgramInfos::*
 #include "threads/PlayerCache.hpp"
 
-static Logger LOG { CURRENT_FILE_NAME };
-
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
+
+static Logger LOG { CURRENT_FILE_NAME };
 
 template <typename GAME_TYPE>
 [[nodiscard]] static inline std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId, const GameData& gameData) {

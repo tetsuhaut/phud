@@ -4,6 +4,7 @@
 
 #include <array>
 #include <memory> // std::unique_ptr
+#include <vector>
 
 class PlayerStatistics;
 

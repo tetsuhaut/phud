@@ -1,12 +1,11 @@
-#include "containers/algorithms.hpp" // phud::algorithms
 #include "entities/Player.hpp"
 #include "language/assert.hpp"
 #include "threads/PlayerCache.hpp"
 
+#include <algorithm> // std::ranges::for_each
 #include <map>
 #include <mutex> // std::lock_guard
-
-namespace pa = phud::algorithms;
+#include <vector>
 
 struct [[nodiscard]] PlayerCache::Implementation final {
   std::map<std::string, std::unique_ptr<Player>, std::less<>> m_players {};

@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp"
 #include "log/Logger.hpp" // std::string_view, std::string
 
 #include <frozen/unordered_map.h>
@@ -11,11 +10,11 @@
 #include <memory> // std::shared_ptr
 
 using LegacyLoggingLevel = spdlog::level::level_enum;
-namespace pa = phud::algorithms;
+
 namespace {
 std::shared_ptr<spdlog::logger> globalLogger;
 
-constexpr auto LEGACCY_LOGGING_LEVEL_TO_LOGGING_LEVEL {
+constexpr auto LEGACY_LOGGING_LEVEL_TO_LOGGING_LEVEL {
   frozen::make_unordered_map<LegacyLoggingLevel, LoggingLevel>({
     { LegacyLoggingLevel::critical, LoggingLevel::critical },
     { LegacyLoggingLevel::debug, LoggingLevel::debug },
@@ -41,11 +40,11 @@ constexpr auto LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL {
 } // anonymous namespace
 
 [[nodiscard]] static inline LoggingLevel toLoggingLevel(LegacyLoggingLevel l) {
-  return pa::getValueFromKey(LEGACCY_LOGGING_LEVEL_TO_LOGGING_LEVEL, l);
+  return LEGACY_LOGGING_LEVEL_TO_LOGGING_LEVEL.find(l)->second;
 }
 
 [[nodiscard]] static inline LegacyLoggingLevel toLegacyLoggingLevel(LoggingLevel l) {
-  return pa::getValueFromKey(LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL, l);
+  return LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL.find(l)->second;
 }
 
 /*[[nodiscard]] static*/ LoggingLevel Logger::getCurrentLoggingLevel() {

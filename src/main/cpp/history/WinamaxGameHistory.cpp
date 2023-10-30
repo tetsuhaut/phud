@@ -1,4 +1,3 @@
-#include "containers/algorithms.hpp" // phud::algorithms::*
 #include "entities/Hand.hpp"
 #include "entities/Player.hpp"
 #include "entities/Site.hpp"
@@ -15,7 +14,6 @@
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace fs = std::filesystem;
-namespace pa = phud::algorithms;
 namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
