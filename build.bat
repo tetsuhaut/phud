@@ -26,7 +26,7 @@ POPD
 ECHO ^pushd %CD% ^&^& ^format ^&^& ^popd > %BUILD_DIR%\format.bat
 ECHO ^color ^&^& ^cls ^&^& ^%BIN_DIR%\unitTests.exe %%* > %BUILD_DIR%\runAllTests.bat
 ECHO ^color ^&^& ^cls ^&^& ^%BIN_DIR%\unitTests.exe --run_test=%%* -l all > %BUILD_DIR%\runOneTest.bat
-ECHO ^%SCRIPTS_DIR%\timecmd.bat ^%BIN_DIR%\unitTests.exe > %BUILD_DIR%\measure.bat
+ECHO ^%BIN_DIR%\unitTests.exe --log_level=unit_scope > %BUILD_DIR%\measure.bat
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\tc1591.db -d %CD%\src\test\resources\tc1591 > %BUILD_DIR%\updateDb.bat
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\simpleCGHisto.db -d %CD%\src\test\resources\simpleCGHisto >> %BUILD_DIR%\updateDb.bat
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\simpleTHisto.db -d %CD%\src\test\resources\simpleTHisto >> %BUILD_DIR%\updateDb.bat
