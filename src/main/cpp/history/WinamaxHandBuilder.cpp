@@ -10,6 +10,7 @@
 #include "history/WinamaxHandBuilder.hpp" // Pair
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
+#include "mainLib/ProgramInfos.hpp"
 #include "threads/PlayerCache.hpp"
 #include <optional>
 
