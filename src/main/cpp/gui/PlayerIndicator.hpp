@@ -1,9 +1,10 @@
 #pragma once
 
 #include "gui/DragAndDropWindow.hpp"
-#include "strings/StringUtils.hpp" // std::string, std::string_view
 
 #include <memory> // std::unique_ptr
+#include <string>
+#include <string_view>
 #include <utility> // std::pair
 
 // forward declarations

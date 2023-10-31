@@ -1,7 +1,9 @@
 #pragma once
 
 #include "entities/Seat.hpp"
-#include "strings/StringUtils.hpp" // std::string_view, phud::strings
+
+#include <string>
+#include <string_view>
 
 enum class ActionType : short;
 enum class Card : short;

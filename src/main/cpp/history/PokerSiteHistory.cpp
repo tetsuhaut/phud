@@ -5,7 +5,6 @@
 #include "history/WinamaxHistory.hpp"
 
 namespace fs = std::filesystem;
-namespace pf = phud::filesystem;
 
 PokerSiteHistory::~PokerSiteHistory() = default;
 

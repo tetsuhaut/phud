@@ -1,4 +1,5 @@
 #pragma once
+
 #include "language/assert.hpp"
 
 #include <string_view>

@@ -4,8 +4,10 @@
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp" // ProgramInfos::*
+#include "strings/StringUtils.hpp" // phud::strings::*
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>
+
 #include <numeric> // std::accumulate
 #include <unordered_map>
 

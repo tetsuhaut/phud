@@ -4,7 +4,6 @@
 #include "history/PmuHistory.hpp" // std::filesystem::path
 
 namespace fs = std::filesystem;
-namespace pf = phud::filesystem;
 
 PmuHistory::~PmuHistory() = default;
 

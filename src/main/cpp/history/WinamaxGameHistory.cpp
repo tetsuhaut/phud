@@ -1,6 +1,7 @@
 #include "entities/Hand.hpp"
 #include "entities/Player.hpp"
 #include "entities/Site.hpp"
+#include "filesystem/Filesystem.hpp"
 #include "filesystem/TextFile.hpp"
 #include "history/GameData.hpp" // CashGame, Tournament, Variant, Time
 #include "history/WinamaxHandBuilder.hpp"

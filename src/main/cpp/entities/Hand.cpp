@@ -3,6 +3,7 @@
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp"
 #include "language/assert.hpp" // phudAssert
+#include "strings/StringUtils.hpp" // phud::strings::*
 
 #include <algorithm> // std::transform
 #include <iterator> // std:: back_insertor

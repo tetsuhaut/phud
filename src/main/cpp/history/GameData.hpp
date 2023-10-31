@@ -1,7 +1,6 @@
 #pragma once
 
 #include "entities/Game.hpp" // std::string, std::string_view, Time, Variant, Limit
-#include "entities/Seat.hpp"
 
 struct [[nodiscard]] GameData final {
   Seat m_nbMaxSeats { Seat::seatUnknown };

@@ -1,9 +1,8 @@
 #pragma once
 
 #include "language/PhudException.hpp" // PhudException, std::string_view
-#include "strings/StringUtils.hpp"
 
-#include <memory>
+#include <memory> // std::unique_ptr
 
 // forward declaration
 namespace std { using ::tm; };

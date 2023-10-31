@@ -7,18 +7,17 @@
 #include "history/PmuGameHistory.hpp" // std::filesystem::path
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp" // ProgramInfos::*
+#include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/PlayerCache.hpp"
 
 namespace fs = std::filesystem;
-namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 static Logger LOG { CURRENT_FILE_NAME };
 
 template <typename GAME_TYPE>
+requires(std::is_same_v<GAME_TYPE, CashGame> or std::is_same_v<GAME_TYPE, Tournament>)
 [[nodiscard]] static inline std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId, const GameData& gameData) {
-  static_assert(std::is_same_v<GAME_TYPE, CashGame> or std::is_same_v<GAME_TYPE, Tournament>);
-
   if constexpr(std::is_same_v<GAME_TYPE, CashGame>) {
     return std::make_unique<CashGame>(CashGame::Params { .id = gameId, .siteName = ProgramInfos::PMU_SITE_NAME,
                             .cashGameName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,

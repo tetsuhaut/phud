@@ -3,7 +3,7 @@
 #include "system/Time.hpp" // Time, std::unique_ptr, std::string, std::string_view
 #include "entities/Seat.hpp"
 
-#include <array> // std::array
+#include <array>
 #include <vector>
 
 // forward declarations

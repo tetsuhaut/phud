@@ -4,6 +4,7 @@
 #include "entities/GameType.hpp"
 #include "entities/Game.hpp" // toString(GameType)
 #include "entities/Hand.hpp" // toString(Street)
+#include "strings/StringUtils.hpp" // phud::strings::*
 
 namespace ps = phud::strings;
 

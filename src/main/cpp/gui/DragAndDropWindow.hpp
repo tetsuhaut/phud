@@ -1,7 +1,6 @@
 #pragma once
 
 #include "gui/Rectangle.hpp" // phud::Rectangle
-#include "strings/StringUtils.hpp"
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
@@ -29,6 +28,7 @@
 #endif  // _MSC_VER
 
 #include <functional> // std::function
+#include <string_view>
 
 /**
  * A drag and drop window.

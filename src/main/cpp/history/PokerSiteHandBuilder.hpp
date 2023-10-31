@@ -1,8 +1,7 @@
 #pragma once
 
-#include "mainLib/ProgramInfos.hpp"
 #include "strings/StringUtils.hpp"
-#include "threads/PlayerCache.hpp"
+
 #include <array>
 
 class PlayerCache;

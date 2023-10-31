@@ -1,6 +1,7 @@
 #pragma once
 
 #include <memory> // std::unique_ptr
+#include <string_view>
 
 // forward declaration
 class AppInterface;

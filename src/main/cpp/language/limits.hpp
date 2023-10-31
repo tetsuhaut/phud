@@ -2,6 +2,7 @@
 
 #include "language/clamp-cast.hpp"
 #include <cstddef> // std::ptrdiff_t
+#include <concepts> // std::same_as
 
 namespace limits {
 //[[nodiscard]] static constexpr int toInt(std::size_t value) {
@@ -29,14 +30,10 @@ namespace limits {
 
 [[nodiscard]] static constexpr int toInt(auto) = delete; // forbid other types
 
-[[nodiscard]] static constexpr std::size_t toSizeT(int value) {
-  // int can be < 0, std::size_t can't
+template<typename T>
+requires(std::same_as<T, int> || std::same_as<T, std::ptrdiff_t>)
+[[nodiscard]] static constexpr std::size_t toSizeT(T value) {
+  // std::size_t can't be < 0
   return (value < 0) ? 0 : static_cast<std::size_t>(value);
 }
-
-[[nodiscard]] static constexpr std::size_t toSizeT(std::ptrdiff_t value) {
-  return (value < 0) ? 0 : static_cast<std::size_t>(value);
-}
-
-[[nodiscard]] static constexpr std::size_t toSizeT(auto) = delete; // forbid other types
 } // namespace limits

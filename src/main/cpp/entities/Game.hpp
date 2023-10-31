@@ -2,6 +2,7 @@
 
 #include "entities/Seat.hpp"
 #include "system/Time.hpp" // std::string, std::string_view, Time
+
 #include <vector>
 
 // forward declarations

@@ -11,6 +11,7 @@
 #include "history/WinamaxHistory.hpp" // PokerSiteHistory
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // fmt::format(), LoggingLevel
+#include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/ThreadPool.hpp"
 
 #include <boost/test/debug.hpp> // detect_memory_leaks()

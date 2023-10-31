@@ -1,8 +1,7 @@
 #pragma once
 
-#include "strings/StringUtils.hpp"
-
 #include <memory> // std::unique_ptr
+#include <string_view>
 #include <vector>
 
 class Player;

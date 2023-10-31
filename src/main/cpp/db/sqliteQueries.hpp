@@ -1,6 +1,6 @@
 #pragma once
 
-#include "strings/StringUtils.hpp"
+#include <string_view>
 
 namespace phud::sql {
 static constexpr std::string_view CREATE_SITE { R"raw(

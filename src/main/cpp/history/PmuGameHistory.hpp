@@ -1,7 +1,6 @@
 #pragma once
 
-#include "filesystem/Filesystem.hpp" // std::filesystem::path
-
+#include <filesystem> // std::filesystem::path
 #include <memory> // std::unique_ptr
 
 class Site;

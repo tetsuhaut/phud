@@ -24,11 +24,6 @@ private:
   static void errorStr(std::string_view msg);
   static void criticalStr(std::string_view msg);
 
-  //template<StringLiteral FMT, typename... Args>
-  //static constexpr bool allTypesAreFormattable() {
-  //  return fmt::is_formattable<Args..., decltype(FMT.value[0])>();
-  //}
-
 public:
   Logger(std::string_view name) : m_name { name } {}
 
@@ -66,7 +61,7 @@ public:
   * Place holders to use to format messages:
   * %D: date
   * %H: time hour
-  * %L: dunno lol
+  * %L: Short log level of the message
   * %M: time minutes
   * %S: time seconds
   * %e: time milliseconds
@@ -75,7 +70,8 @@ public:
   * %t: thread identifier
   * %v: message
   * %z: time zone
-  * see https://github.com/gabime/spdlog/wiki/3.-Custom-formatting
+  * etc.
+  * see https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags
   */
   static void setupFileInfoLogging(std::string_view pattern);
   static void setupConsoleWarnLogging(std::string_view pattern);
@@ -85,7 +81,7 @@ public:
   [[nodiscard]] static LoggingLevel getCurrentLoggingLevel();
 }; // class Logger
 
-// inspired from https://stackoverflow.com/questions/8487986/file-macro-shows-full-path
+// inspired by https://stackoverflow.com/questions/8487986/file-macro-shows-full-path
 // see user Andry
 // also https://godbolt.org/z/u6s8j3
 /**

@@ -19,10 +19,9 @@
 
 #include <chrono>
 
-static Logger LOG { CURRENT_FILE_NAME };
-
 namespace fs = std::filesystem;
-namespace pf = phud::filesystem;
+
+static Logger LOG { CURRENT_FILE_NAME };
 
 static constexpr std::chrono::milliseconds RELOAD_PERIOD { 2000 };
 

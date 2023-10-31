@@ -10,6 +10,7 @@
 #include "language/assert.hpp" // phudAssert
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
+#include "mainLib/ProgramInfos.hpp"
 #include "threads/PlayerCache.hpp"
 
 #include <cctype> // std::isdigit

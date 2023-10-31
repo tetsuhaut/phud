@@ -1,3 +1,4 @@
+#include "filesystem/Filesystem.hpp" // phud::filesystem::*
 #include "filesystem/TextFile.hpp"  // std::string, std::string_view, std::vector
 #include "strings/StringUtils.hpp" // phud::strings::*
 
