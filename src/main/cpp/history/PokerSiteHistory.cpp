@@ -21,7 +21,8 @@ PokerSiteHistory::~PokerSiteHistory() = default;
   return PmuHistory::isValidHistory(historyDir) or WinamaxHistory::isValidHistory(historyDir);
 }
 
-/* [[nodiscard]] static */ std::unique_ptr<Site> PokerSiteHistory::load(const fs::path& historyDir) {
+/* [[nodiscard]] static */ std::unique_ptr<Site> PokerSiteHistory::load(
+  const fs::path& historyDir) {
   if (PmuHistory::isValidHistory(historyDir)) { return PmuHistory::load(historyDir); }
 
   if (WinamaxHistory::isValidHistory(historyDir)) { return WinamaxHistory::load(historyDir); }

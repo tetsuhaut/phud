@@ -7,7 +7,6 @@
 #include <ranges>
 
 Seat TableStatistics::getHeroSeat() const {
-
   const auto it { std::ranges::find_if(m_tableStats, [this](const auto & playerStat) noexcept { return playerStat and playerStat->isHero(); }) };
   return (m_tableStats.end() == it) ? Seat::seatUnknown : tableSeat::fromArrayIndex(
            limits::toSizeT(it - m_tableStats.begin()));

@@ -87,13 +87,14 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   BOOST_REQUIRE(21 == players.size());
   std::vector<std::string> actualPlayerNames;
   actualPlayerNames.reserve(players.size());
-  std::transform(players.cbegin(), players.cend(), std::back_inserter(actualPlayerNames), [](const auto& p) { return p->getName(); });
+  std::transform(players.cbegin(), players.cend(),
+  std::back_inserter(actualPlayerNames), [](const auto & p) { return p->getName(); });
   BOOST_REQUIRE(pt::isSet(actualPlayerNames));
   std::vector<std::string> expectedPlayerNames { "Akinos", "Amntfs", "Baroto",
-                                       "JOOL81", "CtD Jeyje", "KT-Laplume74", "LeCavSeRebif", "Merkaba1111",
-                                       "MidnightSR", "acid rodge", "bebediego", "boa5ter", "daronwina",
-                                       "gila90", "juju-63", "martinh06", "mentalist61", "nOnO_72", "shorty31",
-                                       "sicktricks", "tc1591" };
+      "JOOL81", "CtD Jeyje", "KT-Laplume74", "LeCavSeRebif", "Merkaba1111",
+      "MidnightSR", "acid rodge", "bebediego", "boa5ter", "daronwina",
+      "gila90", "juju-63", "martinh06", "mentalist61", "nOnO_72", "shorty31",
+      "sicktricks", "tc1591" };
   std::sort(expectedPlayerNames.begin(), expectedPlayerNames.end());
   std::sort(actualPlayerNames.begin(), actualPlayerNames.end());
   BOOST_REQUIRE(std::equal(expectedPlayerNames.begin(), expectedPlayerNames.end(),

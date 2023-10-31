@@ -55,12 +55,13 @@ void Game::addHand(std::unique_ptr<Hand> hand) { m_hands.push_back(std::move(han
 std::vector<const Hand*> Game::viewHands() const {
   std::vector<const Hand*> ret;
   ret.reserve(m_hands.size());
-  std::transform(m_hands.cbegin(), m_hands.end(), std::back_inserter(ret), [](const auto& pHand) { return pHand.get(); });
+  std::transform(m_hands.cbegin(), m_hands.end(), std::back_inserter(ret), [](const auto & pHand) { return pHand.get(); });
   return ret;
 }
 
 std::vector<const Hand*> Game::viewHands(std::string_view player) const {
-  auto r = m_hands | std::views::transform([](const auto& pHand) { return pHand.get(); }) | std::views::filter([player](const auto& pHand) { return pHand->isPlayerInvolved(player); });
+  auto r = m_hands | std::views::transform([](const auto & pHand) { return pHand.get(); }) |
+  std::views::filter([player](const auto & pHand) { return pHand->isPlayerInvolved(player); });
   return {r.begin(), r.end()};
 }
 
@@ -78,7 +79,7 @@ CashGame::CashGame(const Params& p)
   : m_smallBlind { p.smallBlind },
     m_bigBlind { p.bigBlind },
     m_game { std::make_unique<Game>(Game::Params{.id = p.id, .siteName = p.siteName, .gameName = p.cashGameName, .variant = p.variant,
-                                       .limitType = p.limit, .isRealMoney = p.isRealMoney, .nbMaxSeats = p.nbMaxSeats, .startDate = p.startDate}) } {
+                                    .limitType = p.limit, .isRealMoney = p.isRealMoney, .nbMaxSeats = p.nbMaxSeats, .startDate = p.startDate}) } {
   phudAssert(m_smallBlind >= 0, "negative small blind");
   phudAssert(m_bigBlind >= 0, "negative big blind");
 }

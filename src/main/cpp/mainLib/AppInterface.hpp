@@ -23,12 +23,14 @@ public:
                              std::function<void(std::size_t)> setNbFilesCb = nullptr,
                              std::function<void()> doneCb = nullptr) = 0;
   // disable implicit conversions to std::filesystem::path
-  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>, std::function<void()>) = delete;
+  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
+                     std::function<void()>) = delete;
   virtual void setHistoryDir(const std::filesystem::path& dir) = 0;
 
   virtual void stopImportingHistory() = 0;
 
-  virtual std::string startProducingStats(std::string_view table, std::function<void(TableStatistics&& ts)> observer) = 0;
+  virtual std::string startProducingStats(std::string_view table,
+                                          std::function < void(TableStatistics&& ts) > observer) = 0;
   virtual void stopProducingStats() = 0;
 
   /**

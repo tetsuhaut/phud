@@ -36,25 +36,25 @@ public:
   void critical(std::string_view msg) { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
 
   template<StringLiteral FMT, typename... Args>
-  void trace(Args&&... args) {
+  void trace(Args&& ... args) {
     //static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
     trace(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
   template<StringLiteral FMT, typename... Args>
-  void debug(Args&&... args) { debug(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void debug(Args&& ... args) { debug(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
   template<StringLiteral FMT, typename... Args>
-  void info(Args&&... args) { info(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void info(Args&& ... args) { info(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
   template<StringLiteral FMT, typename... Args>
-  void warn(Args&&... args) { warn(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void warn(Args&& ... args) { warn(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
   template<StringLiteral FMT, typename... Args>
-  void error(Args&&... args) { error(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void error(Args&& ... args) { error(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
   template<StringLiteral FMT, typename... Args>
-  void critical(Args&&... args) { critical(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void critical(Args&& ... args) { critical(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
   /** Call one of those methods before any logging. */
   /**

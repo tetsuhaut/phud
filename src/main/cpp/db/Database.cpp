@@ -95,7 +95,7 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_vie
 struct [[nodiscard]] Database::Implementation final {
   std::string m_dbName;
   gsl::not_null<sqlite3*> m_database;
-  
+
   explicit Implementation(std::string_view dbName)
     : m_dbName { dbName },
       m_database { createDatabase(dbName) }
@@ -276,10 +276,11 @@ static inline void save(const gsl::not_null<sqlite3*> pDb, const Site& s) {
 }
 
 template<typename T>
-static inline std::vector<Future<void>> saveGamesAsync(const std::vector<const T*>& games, Database& self) {
+static inline std::vector<Future<void>> saveGamesAsync(const std::vector<const T*>& games,
+Database& self) {
   std::vector<Future<void>> ret;
   ret.reserve(games.size());
-  std::transform(games.cbegin(), games.cend(), std::back_inserter(ret), [&](const auto& pGame) {
+  std::transform(games.cbegin(), games.cend(), std::back_inserter(ret), [&](const auto & pGame) {
     return ThreadPool::submit([&]() {
       const auto& gameId { pGame->getId() };
 
@@ -455,7 +456,8 @@ Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) co
   return tableSeat::fromInt(p.getColumnAsInt(0));
 }
 
-static std::array<std::unique_ptr<PlayerStatistics>, 10> readTableStatisticsQuery(PreparedStatement& p) {
+static std::array<std::unique_ptr<PlayerStatistics>, 10> readTableStatisticsQuery(
+  PreparedStatement& p) {
   static_assert(ps::contains(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME, '?'),
                 "ill-formed SQL template");
   std::array<std::unique_ptr<PlayerStatistics>, 10> playerStats {};
@@ -489,7 +491,8 @@ TableStatistics Database::readTableStatistics(const ReadTableStatisticsArgs& arg
   return { .m_maxSeats = getTableMaxSeat(args.site, args.table), .m_tableStats = readTableStatisticsQuery(p) };
 }
 
-std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site, std::string_view player) const {
+std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site,
+    std::string_view player) const {
   static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, '?'),
                 "ill-formed SQL template");
   const auto& sql { SqlSelector(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME).site(site)

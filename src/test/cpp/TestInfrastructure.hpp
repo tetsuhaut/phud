@@ -31,7 +31,8 @@ namespace phud::test {
  * @return the absolute path of src/test/resources.
  * @note We use std::filesystem::path to mix UTF-8 and UTF-16 file names.
 */
-[[nodiscard]] std::filesystem::path loadDatabaseFromTestResources(std::string_view file, std::string_view pokerSite);
+[[nodiscard]] std::filesystem::path loadDatabaseFromTestResources(std::string_view file,
+    std::string_view pokerSite);
 [[nodiscard]] std::filesystem::path getFileFromTestResources(std::u8string_view file);
 [[nodiscard]] std::filesystem::path getDirFromTestResources(std::u8string_view dir);
 [[nodiscard]] std::filesystem::path getFileFromTestResources(std::string_view file);

@@ -70,7 +70,7 @@ struct [[nodiscard]] FileStem {
   if (!ret.m_isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
     LOG.error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(fileStem);
     return ret;
-    }
+  }
   ret.m_gameName = fileStem.substr(9, pos - 9);
   ret.m_variant = fileStemToVariant(fileStem);
   ret.m_limit = fileStemToLimit(fileStem);
@@ -78,20 +78,21 @@ struct [[nodiscard]] FileStem {
 }
 
 template <typename GAME_TYPE>
-[[nodiscard]] static inline std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId, const GameData& gameData) {
+[[nodiscard]] static inline std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId,
+    const GameData& gameData) {
   static_assert(std::is_same_v<GAME_TYPE, CashGame> or std::is_same_v<GAME_TYPE, Tournament>);
 
   if constexpr(std::is_same_v<GAME_TYPE, CashGame>) {
     return std::make_unique<CashGame>(CashGame::Params {.id = gameId, .siteName = ProgramInfos::WINAMAX_SITE_NAME,
-                            .cashGameName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
-                            .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats,
-                            .smallBlind = gameData.m_smallBlind, .bigBlind = gameData.m_bigBlind, .startDate = gameData.m_startDate});
+                                      .cashGameName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
+                                      .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats,
+                                      .smallBlind = gameData.m_smallBlind, .bigBlind = gameData.m_bigBlind, .startDate = gameData.m_startDate});
   }
 
   if constexpr(std::is_same_v<GAME_TYPE, Tournament>) {
     return std::make_unique<Tournament>(Tournament::Params {.id = gameId, .siteName = ProgramInfos::WINAMAX_SITE_NAME,
-                              .tournamentName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
-                              .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats, .buyIn = gameData.m_buyIn, .startDate = gameData.m_startDate});
+                                        .tournamentName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
+                                        .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats, .buyIn = gameData.m_buyIn, .startDate = gameData.m_startDate});
   }
 }
 
@@ -167,11 +168,12 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
-  if (std::string::npos == fileStem.find("_real_", 9) and  std::string::npos == fileStem.find("_play_", 9)) {
+  if (std::string::npos == fileStem.find("_real_", 9)
+      and  std::string::npos == fileStem.find("_play_", 9)) {
     LOG.error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(fileStem);
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
   return ps::contains(fileStem, '(') ?
-    handleGame<Tournament>(gameHistoryFile) : handleGame<CashGame>(gameHistoryFile);
+         handleGame<Tournament>(gameHistoryFile) : handleGame<CashGame>(gameHistoryFile);
 }

@@ -30,8 +30,7 @@ namespace limits {
 
 [[nodiscard]] static constexpr int toInt(auto) = delete; // forbid other types
 
-template<typename T>
-requires(std::same_as<T, int> or std::same_as<T, std::ptrdiff_t>)
+template<typename T> requires(std::same_as<T, int> or std::same_as<T, std::ptrdiff_t>)
 [[nodiscard]] static constexpr std::size_t toSizeT(T value) {
   // std::size_t can't be < 0
   return (value < 0) ? 0 : static_cast<std::size_t>(value);

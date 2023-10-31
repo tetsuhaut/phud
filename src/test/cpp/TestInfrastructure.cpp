@@ -69,8 +69,7 @@ struct IsFile {};
 struct IsDir {};
 };
 
-template<typename T>
-requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
+template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
 [[nodiscard]] static inline fs::path getGenericFileFromTestResources(const auto& file) {
   phudAssert(!file.empty(), "file or dir can't be empty");
   phudAssert('/' != file.front(), "file or dir can't start with '/'");
@@ -107,7 +106,8 @@ fs::path pt::getDirFromTestResources(std::string_view dir) {
   return getGenericFileFromTestResources<::IsDir>(dir);
 }
 
-[[nodiscard]] static inline fs::path throwIfNotADirectory(const fs::path& dir, std::string_view macro) {
+[[nodiscard]] static inline fs::path throwIfNotADirectory(const fs::path& dir,
+    std::string_view macro) {
   if (pf::isDir(dir)) { return dir; }
 
   throw std::runtime_error { fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'", dir.string(), macro) };

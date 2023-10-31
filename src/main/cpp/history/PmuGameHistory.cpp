@@ -15,20 +15,21 @@ namespace ps = phud::strings;
 
 static Logger LOG { CURRENT_FILE_NAME };
 
-template <typename GAME_TYPE>
-requires(std::is_same_v<GAME_TYPE, CashGame> or std::is_same_v<GAME_TYPE, Tournament>)
-[[nodiscard]] static inline std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId, const GameData& gameData) {
+template <typename GAME_TYPE> requires(std::is_same_v<GAME_TYPE, CashGame>
+                                       or std::is_same_v<GAME_TYPE, Tournament>)
+[[nodiscard]] static inline std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId,
+    const GameData& gameData) {
   if constexpr(std::is_same_v<GAME_TYPE, CashGame>) {
     return std::make_unique<CashGame>(CashGame::Params { .id = gameId, .siteName = ProgramInfos::PMU_SITE_NAME,
-                            .cashGameName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
-                            .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats,
-                            .smallBlind = gameData.m_smallBlind, .bigBlind = gameData.m_bigBlind, .startDate = gameData.m_startDate });
+                                      .cashGameName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
+                                      .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats,
+                                      .smallBlind = gameData.m_smallBlind, .bigBlind = gameData.m_bigBlind, .startDate = gameData.m_startDate });
   }
 
   if constexpr(std::is_same_v<GAME_TYPE, Tournament>) {
     return std::make_unique<Tournament>(Tournament::Params { .id = gameId, .siteName = ProgramInfos::PMU_SITE_NAME,
-                              .tournamentName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
-                              .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats, .buyIn = gameData.m_buyIn, .startDate = gameData.m_startDate });
+                                        .tournamentName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
+                                        .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats, .buyIn = gameData.m_buyIn, .startDate = gameData.m_startDate });
   }
 }
 
@@ -59,7 +60,8 @@ std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCac
 }
 
 template <typename GAME_TYPE> [[nodiscard]] static inline
-std::unique_ptr<GAME_TYPE> createGame(auto, PlayerCache&) = delete; // use only std::filesystem::path
+std::unique_ptr<GAME_TYPE> createGame(auto,
+                                      PlayerCache&) = delete; // use only std::filesystem::path
 
 template<typename GAME_TYPE>
 [[nodiscard]] static inline std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile) {

@@ -16,8 +16,9 @@
  *                     -l or --logLevel <log_level> : defines the logging level.
  * @returns the hand history directory, and the logging level
  */
-[[nodiscard]] std::pair<std::optional<std::filesystem::path>, std::optional<LoggingLevel>> parseProgramArguments(
-      std::span<const char* const> args); 
+[[nodiscard]] std::pair<std::optional<std::filesystem::path>, std::optional<LoggingLevel>>
+    parseProgramArguments(
+      std::span<const char* const> args);
 
 class [[nodiscard]] ProgramArgumentsException : public PhudException {
 public:

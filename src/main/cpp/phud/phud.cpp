@@ -121,5 +121,6 @@ struct [[nodiscard]] LoggingConfig final {
     LOG.error<"Unknown exception occurred.">();
     ++nbErr;
   }
+
   return nbErr;
 }

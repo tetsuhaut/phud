@@ -41,11 +41,13 @@ public:
     doneCb();
   }
   // use only std::filesystem::path
-  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>, std::function<void()>) = delete;
+  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
+                     std::function<void()>) = delete;
 
   void stopImportingHistory() override { LOG.debug<__func__>(); }
 
-  std::string startProducingStats(std::string_view /*table*/, std::function<void(TableStatistics&& ts)> /*observer*/) override {
+  std::string startProducingStats(std::string_view /*table*/,
+                                  std::function < void(TableStatistics&& ts) > /*observer*/) override {
     LOG.debug<__func__>();
     m_continue = true;
     m_task.start([this]() {

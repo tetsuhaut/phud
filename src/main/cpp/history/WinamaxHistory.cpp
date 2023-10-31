@@ -41,20 +41,24 @@ static constexpr std::string_view ERR_MSG { "The chosen directory '{}' should co
 [[nodiscard]] static Either<std::string, std::vector<fs::path>> getErrorMessageOrHistoryFiles(
 const fs::path& dir, const fs::path& histoDir) {
   if (!pf::isDir(histoDir)) {
-    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(), "'history'"));
+    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(),
+           "'history'"));
   }
 
   if (!pf::isDir(dir / "data" / "buddy")) {
-    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG,  dir.string(), "'data/buddy'"));
+    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG,  dir.string(),
+           "'data/buddy'"));
   }
 
   if (!pf::isDir(dir / "data" / "players")) {
-    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(), "'data/players'"));
+    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(),
+           "'data/players'"));
   }
 
   if (!pf::listSubDirs(histoDir).empty()) {
     return Either<std::string, std::vector<fs::path>>::left(
-             fmt::format("The chosen directory '{}' should contain a {} directory that contains only files", dir.string(), "'history'"));
+             fmt::format("The chosen directory '{}' should contain a {} directory that contains only files",
+                         dir.string(), "'history'"));
   }
 
   if (const auto & allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
@@ -88,7 +92,8 @@ const fs::path& dir, const fs::path& histoDir) {
   LOG.error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
   return {};
 }
-[[nodiscard]] static inline std::vector<fs::path> getFiles(auto) = delete; // use only std::filesystem::path
+[[nodiscard]] static inline std::vector<fs::path> getFiles(auto) =
+  delete; // use only std::filesystem::path
 
 // using auto&& enhances performances by inlining std::function's logic
 [[nodiscard]] static inline std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
@@ -112,7 +117,8 @@ static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::pat
 std::atomic_bool& stop, const auto& incrementCb) {
   std::vector<Future<Site*>> ret;
   ret.reserve(files.size());
-  std::transform(files.cbegin(), files.cend(), std::back_inserter(ret), [&incrementCb, &stop](const auto& file) {
+  std::transform(files.cbegin(), files.cend(), std::back_inserter(ret), [&incrementCb,
+  &stop](const auto & file) {
     if (stop) { return Future<Site*>(); }
 
     return ThreadPool::submit([&file, &incrementCb, &stop]() {
@@ -135,8 +141,8 @@ std::atomic_bool& stop, const auto& incrementCb) {
 }
 
 std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
-                                std::function<void()> incrementCb,
-                                std::function<void(std::size_t)> setNbFilesCb) {
+    std::function<void()> incrementCb,
+    std::function<void(std::size_t)> setNbFilesCb) {
   m_pImpl->m_stop = false;
 
   try {
@@ -200,7 +206,8 @@ std::unique_ptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
   return ret;
 }
 
-std::string_view WinamaxHistory::getTableNameFromTableWindowTitle(std::string_view tableWindowTitle) const {
+std::string_view WinamaxHistory::getTableNameFromTableWindowTitle(std::string_view tableWindowTitle)
+const {
   const auto pos { tableWindowTitle.find("#") };
   return (notFound(pos)) ? tableWindowTitle.substr(0,
          tableWindowTitle.find(" / ")) : tableWindowTitle.substr(0, pos);

@@ -85,7 +85,8 @@ static constexpr auto TABLE_LENGTH { ps::length("Table ") };
   return 0; // TODO
 }
 
-[[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line, std::string_view cardDelimiter) {
+[[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line,
+    std::string_view cardDelimiter) {
   // [  Jd 3c ] (yep, 2 spaces) or [ 4h, 3h, Jh ] or [ Kh ]
   const auto pos { line.find_first_not_of(" ", line.rfind('[') + 1) };
   const auto strCards { line.substr(pos, line.rfind(" ]") - pos) };
@@ -111,7 +112,8 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
   return FIVE_NONE_CARDS;
 }
 
-[[nodiscard]] static inline std::pair<Street, std::array<Card, 5>> parseStreet(std::string_view line) {
+[[nodiscard]] static inline std::pair<Street, std::array<Card, 5>> parseStreet(
+std::string_view line) {
   if (line.starts_with("** Dealing Flop **")) {
     return { Street::flop, parseCards(line, ", ") };
   } else if (line.starts_with("** Dealing Turn **")) {
@@ -198,12 +200,14 @@ parseActions(TextFile& tf, Street street, std::string_view handId) {
   return winners;
 }
 
-[[nodiscard]] static inline std::vector<std::unique_ptr<Action>> createActionForWinnersWithoutAction(
-std::span<const std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street, std::string_view handId) {
+[[nodiscard]] static inline std::vector<std::unique_ptr<Action>>
+    createActionForWinnersWithoutAction(
+      std::span<const std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street,
+std::string_view handId) {
   std::vector<std::unique_ptr<Action>> ret;
   std::ranges::for_each(winners, [&](std::string_view winner) {
     if (!winner.empty() and std::end(actions) == std::find_if(std::begin(actions), std::end(actions),
-        [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
+    [&](auto & pAction) { return winner == pAction->getPlayerName(); })) {
       ret.push_back(std::make_unique<Action>(Action::Params {
         .handId = handId,
         .playerName = winner,
@@ -340,12 +344,14 @@ std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCach
   return std::make_unique<Hand>(p);
 }
 
-std::unique_ptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/, PlayerCache& /*cache*/) {
+std::unique_ptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/,
+    PlayerCache& /*cache*/) {
   // not implemented
   return nullptr;
 }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> PmuHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
+    PmuHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
 PlayerCache& cache) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
@@ -380,7 +386,8 @@ PlayerCache& cache) {
   return { std::move(pHand), std::move(pGameData) };
 }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> PmuHandBuilder::buildTournamentHandAndGameData(TextFile& /*tf*/,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
+    PmuHandBuilder::buildTournamentHandAndGameData(TextFile& /*tf*/,
 PlayerCache& /*cache*/) {
   //LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   //const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };

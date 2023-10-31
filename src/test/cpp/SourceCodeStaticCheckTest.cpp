@@ -65,7 +65,7 @@ template<typename CONTAINER, typename T>
   return std::end(c) != std::find(std::begin(c), std::end(c), value);
 }
 
-  template<typename CONTAINER, typename FUNCTOR>
+template<typename CONTAINER, typename FUNCTOR>
 [[nodiscard]] auto findIf(const CONTAINER& c, FUNCTOR f) {
   return std::find_if(c.begin(), c.end(), f);
 }
@@ -88,7 +88,8 @@ static std::array<fs::path, 2> SRC_DIRS { pt::getMainCppDir(), pt::getTestCppDir
 /** all of the cpp and hpp (and potentialy other) files in src/main/cpp and src/test/cpp directories */
 static auto SRC_FILES {
   []() {
-    return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<fs::path> {}, [](std::vector<fs::path>&& v,
+    return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<fs::path> {}, [](
+                             std::vector<fs::path>&& v,
     const fs::path & dir) {
       phud::algorithms::append(v, pf::listRecursiveFiles(dir));
       return v;
@@ -102,8 +103,8 @@ static auto SRC_FILES {
  */
 [[nodiscard]] static inline std::string_view extractInclude(std::string_view line) {
   phudAssert((1 < phud::algorithms::count(line, '"')) or
-    (std::end(line) != std::find(line.begin(), line.end(), '<') and
-      std::end(line) != std::find(line.begin(), line.end(), '>')), "bad line");
+             (std::end(line) != std::find(line.begin(), line.end(), '<') and
+              std::end(line) != std::find(line.begin(), line.end(), '>')), "bad line");
   const auto& startPos { line.find_first_of("\"<") + 1 };
   const auto& endPos { line.find_first_of("\">", startPos) - 1 };
   return line.substr(startPos, 1 + endPos - startPos);
@@ -118,8 +119,9 @@ static auto SRC_FILES {
   using namespace phud;
   using namespace pf;
   const auto& f { phud::algorithms::findIf(SRC_DIRS, [&file](const auto & dir) {
-    return phud::algorithms::contains(SRC_FILES, dir / file); })
-  };
+    return phud::algorithms::contains(SRC_FILES, dir / file);
+  })
+                };
   return (SRC_DIRS.end() == f) ? file : std::filesystem::canonical(*f / file);
 }
 
@@ -134,7 +136,8 @@ namespace {
 /**
  * @returns a vector containing all of the files in the given @param files that end with the given @param fileExtension.
  */
-[[nodiscard]] inline std::vector<fs::path> getSrcFiles(std::span<const fs::path> files, std::string_view fileExtension) {
+[[nodiscard]] inline std::vector<fs::path> getSrcFiles(std::span<const fs::path> files,
+    std::string_view fileExtension) {
   std::vector<fs::path> ret;
   phud::algorithms::copyIf(files, ret, [&](const auto & p) { return p.string().ends_with(fileExtension); });
   return ret;
@@ -359,7 +362,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
     while (tfl.next()) {
       tfl.trim();
 
-      if (const auto & pos { tfl.find(constructor + "(") }; ( std::string::npos != pos) and
+      if (const auto & pos { tfl.find(constructor + "(") }; (std::string::npos != pos) and
           tfl.startsWith("explicit ") and !tfl.contains(" delete") and
           (')' == tfl.getLine()[pos + constructor.size() + 2])) {
         LOG.warn<"In {} at line {} the default constructor should not be explicit:{}">(
@@ -436,7 +439,8 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noIncludePathShouldHaveAntiSlashPathS
     while (tfl.next()) {
       if (!tfl.trim().startsWith("#include ")) { continue; }
 
-      if (const std::string includePath { extractInclude(tfl.getLine()) }; ps::contains(includePath, '\\')) {
+      if (const std::string includePath { extractInclude(tfl.getLine()) }; ps::contains(includePath,
+          '\\')) {
         LOG.warn<"The file {} contains an include path '{}' with anti slashes.">(
           file.string(), includePath);
       }

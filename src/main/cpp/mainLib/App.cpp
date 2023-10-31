@@ -53,9 +53,10 @@ App::~App() {
   }
 }
 
-static inline [[nodiscard]] TableStatistics extractTableStatistics(auto& self, std::string_view table) {
-  if (auto stats { self.m_model->readTableStatistics( {.site = "Winamax", .table = table}) };
-    stats.isValid()) {
+static inline [[nodiscard]] TableStatistics extractTableStatistics(auto& self,
+    std::string_view table) {
+  if (auto stats { self.m_model->readTableStatistics({.site = "Winamax", .table = table}) };
+      stats.isValid()) {
     LOG.debug<"Got stats from db.">();
     return stats;
   } else {
@@ -75,7 +76,8 @@ static inline void notify(TableStatistics&& stats, auto observer) {
 
 // on regarde les fichiers dans l'historique, on recharge ceux qui sont mis à jour
 // on notifie l'observer (le GUI) des nouvelles stats
-static inline void watchHistoFile(App::Implementation& self, const fs::path& file, std::string table, auto observer) {
+static inline void watchHistoFile(App::Implementation& self, const fs::path& file,
+                                  std::string table, auto observer) {
   self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
   self.m_fileWatcher->start([&self, table, &observer](const fs::path & f) {
     self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
@@ -84,7 +86,7 @@ static inline void watchHistoFile(App::Implementation& self, const fs::path& fil
     })
     .then([&self](const auto & pSite) { self.m_model->save(*pSite); })
     .then([&self, table]() { return extractTableStatistics(self, table); })
-    .then([&self, &observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
+    .then([&self, &observer](TableStatistics && ts) { notify(std::move(ts), observer); });
   });
   self.m_gui->informUser(fmt::format("Watching the file {}", file.filename().string()));
 }
@@ -136,7 +138,7 @@ void App::stopImportingHistory() {
 // on écoute les changements du fichier d'historique,
 // en cas de changement on requête périodiquement la base pour recuperer les stats
 std::string App::startProducingStats(std::string_view tableWindowTitle,
-  std::function<void(TableStatistics&& ts)> observer) {
+                                     std::function < void(TableStatistics&& ts) > observer) {
   const auto& h { m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->historyDir, tableWindowTitle) };
 
   if (h.empty()) { return fmt::format("Couldn't get history file for table '{}'", tableWindowTitle); }

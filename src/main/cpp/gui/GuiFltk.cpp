@@ -82,7 +82,7 @@ constexpr std::string_view plastic { "plastic" };
 [[nodiscard]] static inline std::unique_ptr<Fl_Preferences> buildPreferences() {
   /* preference name, value, default value */
   return std::make_unique<Fl_Preferences>(Fl_Preferences::USER,
-                                ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data());
+                                          ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data());
 }
 
 /**
@@ -142,7 +142,8 @@ struct [[nodiscard]] Gui::Implementation final {
 }
 
 template <typename T>
-[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r, std::string_view label) {
+[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r,
+    std::string_view label) {
   return std::make_unique<T>(r.x, r.y, r.w, r.h, label.data());
 }
 
@@ -208,7 +209,7 @@ struct [[nodiscard]] InformUser {
   std::string_view m_msg;
   InformUser(Gui::Implementation& self, std::string_view msg)
     : m_self(self),
-    m_msg(msg){}
+      m_msg(msg) {}
 };
 
 /**
@@ -252,11 +253,12 @@ struct [[nodiscard]] UpdatePlayerIndicators {
   Seat m_seat;
   std::pair<int, int> m_pos;
   std::unique_ptr<PlayerStatistics> m_ps;
-  UpdatePlayerIndicators(Gui::Implementation& self, Seat seat, std::pair<int, int> pos, std::unique_ptr<PlayerStatistics> ps)
+  UpdatePlayerIndicators(Gui::Implementation& self, Seat seat, std::pair<int, int> pos,
+                         std::unique_ptr<PlayerStatistics> ps)
     : m_self(self),
-    m_seat(seat),
-    m_pos(pos),
-    m_ps(std::move(ps)) {}
+      m_seat(seat),
+      m_pos(pos),
+      m_ps(std::move(ps)) {}
 };
 
 /**
@@ -286,8 +288,8 @@ struct [[nodiscard]] ResetPlayerIndicator {
   Gui::Implementation& m_self;
   Seat m_seat;
   ResetPlayerIndicator(Gui::Implementation& self, Seat seat)
-    :m_self(self),
-    m_seat(seat) {}
+    : m_self(self),
+      m_seat(seat) {}
 };
 
 static inline void resetPlayerIndicatorsAwakeCb(void* hidden) {
@@ -301,10 +303,11 @@ struct [[nodiscard]] UpdateTable {
   phud::Rectangle m_tablePosition;
   TableStatistics m_tableStatistics;
 
-  UpdateTable(Gui::Implementation& self, phud::Rectangle tablePosition , TableStatistics tableStatistics)
+  UpdateTable(Gui::Implementation& self, phud::Rectangle tablePosition,
+              TableStatistics tableStatistics)
     : m_self(self),
-    m_tablePosition(tablePosition),
-    m_tableStatistics(std::move(tableStatistics)) {}
+      m_tablePosition(tablePosition),
+      m_tableStatistics(std::move(tableStatistics)) {}
 };
 
 /**
@@ -315,19 +318,20 @@ static inline void updateTableAwakeCb(void* hidden) {
   auto args { std::unique_ptr<UpdateTable>(static_cast<UpdateTable*>(hidden)) };
   const auto heroSeat { args->m_tableStatistics.getHeroSeat() };
   const auto& seats { args->m_tableStatistics.getSeats() };
+
   for (const auto& seat : seats) {
     auto ps { args->m_tableStatistics.extractPlayerStatistics(seat) };
 
     if (nullptr == ps) {
       Fl::awake(resetPlayerIndicatorsAwakeCb, new ResetPlayerIndicator(args->m_self, seat));
-    }
-    else {
+    } else {
       const auto& pos {
         (Seat::seatUnknown == heroSeat) ?
-          buildPlayerIndicatorPosition(seat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
+        buildPlayerIndicatorPosition(seat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
         : buildPlayerIndicatorPosition(seat, heroSeat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
       };
-      Fl::awake(updatePlayerIndicatorsAwakeCb, new UpdatePlayerIndicators(args->m_self, seat, pos, std::move(ps)));
+      Fl::awake(updatePlayerIndicatorsAwakeCb, new UpdatePlayerIndicators(args->m_self, seat, pos,
+                std::move(ps)));
     }
   }
 }
@@ -379,13 +383,13 @@ static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
     self.m_tableChooser = nullptr;
     setChooseTableButtonLabelToChoose(self);
     LOG.info<"Starting consuming stats.">();
-    if (const auto& errMsg { self.m_app.startProducingStats(tableName,
-      [&self, tablePosition](TableStatistics&& ts) {
-        Fl::awake(updateTableAwakeCb, new UpdateTable(self, tablePosition, std::move(ts)));
-      }) }; !errMsg.empty()) {
+
+    if (const auto & errMsg { self.m_app.startProducingStats(tableName,
+    [&self, tablePosition](TableStatistics&& ts) {
+    Fl::awake(updateTableAwakeCb, new UpdateTable(self, tablePosition, std::move(ts)));
+    }) }; !errMsg.empty()) {
       informUser(self, errMsg);
-    }
-    else { self.m_stopHudBtn->activate(); }
+    } else { self.m_stopHudBtn->activate(); }
   }
 }
 

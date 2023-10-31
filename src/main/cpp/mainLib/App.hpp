@@ -29,7 +29,8 @@ public:
                      std::function<void(std::size_t)> setNbFilesCb = nullptr,
                      std::function<void()> doneCb = nullptr) override;
   // force users to user std::filesystem::path
-  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>, std::function<void()>) = delete;
+  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
+                     std::function<void()>) = delete;
   void setHistoryDir(const std::filesystem::path& historyDir) override;
   void stopImportingHistory() override;
   [[nodiscard]] int showGui() override;
@@ -37,7 +38,8 @@ public:
   /**
    * @return true if it has started
    */
-  std::string startProducingStats(std::string_view table, std::function<void(TableStatistics&& ts)> observer) override;
+  std::string startProducingStats(std::string_view table,
+                                  std::function < void(TableStatistics&& ts) > observer) override;
 
   void stopProducingStats() override;
 }; // class App

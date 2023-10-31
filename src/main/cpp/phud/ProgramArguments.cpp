@@ -15,8 +15,9 @@ namespace ps = phud::strings;
 /**
 * @returns the value, from @param arguments, corresponding to one of the given options.
 */
-[[nodiscard]] constexpr static std::optional<std::string_view> getOptionValue(std::span<const char* const>
-    arguments, std::string_view shortOption, std::string_view longOption) {
+[[nodiscard]] constexpr static std::optional<std::string_view> getOptionValue(
+  std::span<const char* const>
+  arguments, std::string_view shortOption, std::string_view longOption) {
   const auto begin { std::begin(arguments) }, end { std::end(arguments) };
 
   if (const auto it { std::find(begin, end, shortOption) }; end != it) { return gsl::at(arguments, it - begin + 1); }
@@ -62,15 +63,16 @@ namespace ps = phud::strings;
 
 [[nodiscard]] static bool isOdd(auto value) { return value % 2 != 0; }
 
-[[nodiscard]] static inline std::vector<std::string_view> listUnknownArguments(std::span<const char* const>
-    arguments) {
+[[nodiscard]] static inline std::vector<std::string_view> listUnknownArguments(
+  std::span<const char* const>
+  arguments) {
   std::vector<std::string_view> ret;
   constexpr std::array<std::string_view, 4> KNOWN_ARGS {"-d", "--historyDir", "-l", "--logLevel"};
   auto index { 0 };
   std::copy_if(arguments.begin(), arguments.end(), std::back_inserter(ret),
   [&KNOWN_ARGS, &index](std::string_view arg) {
     return isOdd(index++) and
-       std::end(KNOWN_ARGS) == std::find(std::begin(KNOWN_ARGS), std::end(KNOWN_ARGS), arg);
+           std::end(KNOWN_ARGS) == std::find(std::begin(KNOWN_ARGS), std::end(KNOWN_ARGS), arg);
   });
   return ret;
 }
@@ -97,8 +99,10 @@ parseProgramArguments(std::span<const char* const> arguments) {
                                   "  <directory> is the directory containing the poker site hand history.\n"
                                   "  <none|trace|info|warning|error> are the different values for the logging level.\n" };
 
-  if ((std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments), isEqualTo<"-h">)) or
-    (std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments), isEqualTo<"--help">))) {
+  if ((std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments),
+       isEqualTo<"-h">)) or
+      (std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments),
+          isEqualTo<"--help">))) {
     const auto& PROGRAM_DESCRIPTION { fmt::format("Poker Heads-Up Dispay version {} \n"
                                       "Shows statistics on the players for the current poker table.\n", ProgramInfos::APP_VERSION) };
     throw UserAskedForHelpException { fmt::format("{}{}", PROGRAM_DESCRIPTION,

@@ -169,7 +169,8 @@ struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat {
 };
 
 // returns nbMaxSeats, tableName, buttonSeat
-[[nodiscard]] static inline NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(
+[[nodiscard]] static inline NbMaxSeatsTableNameButtonSeat
+getNbMaxSeatsTableNameButtonSeatFromTableLine(
   TextFile& tf) {
   tf.next();
   const auto& line { tf.getLine() };
@@ -223,15 +224,18 @@ parseLineForActionParams(std::string_view line) {
   } else if (ps::contains(line, " calls ")) {
     ret = { .m_playerName = line.substr(0, line.find(" calls ")),
             .m_type = ActionType::call,
-            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1)) };
+            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1))
+          };
   } else  if (ps::contains(line, " bets ")) {
     ret = { .m_playerName = line.substr(0, line.find(" bets ")),
             .m_type = ActionType::bet,
-            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1)) };
+            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1))
+          };
   } else if (ps::contains(line, " raises ")) {
     ret = { .m_playerName = line.substr(0, line.find(" raises ")),
             .m_type = ActionType::raise,
-            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1)) };
+            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1))
+          };
   }
 
   return ret;
@@ -239,7 +243,8 @@ parseLineForActionParams(std::string_view line) {
 
 static constexpr std::array<std::string_view, 6> ACTION_TOKENS { " folds", " checks", " bets ", " calls ", " raises ", " shows " };
 
-[[nodiscard]] static inline std::vector<std::unique_ptr<Action>> parseActions(TextFile& tf, Street street,
+[[nodiscard]] static inline std::vector<std::unique_ptr<Action>> parseActions(TextFile& tf,
+    Street street,
 std::string_view handId) {
   std::vector<std::unique_ptr<Action>> actions;
 
@@ -268,7 +273,7 @@ std::string_view handId) {
   auto pos {  std::string::npos };
   std::size_t i { 0 };
 
-  while ( std::string::npos != (pos = tf.find(" collected "))) {
+  while (std::string::npos != (pos = tf.find(" collected "))) {
     winners.at(i++) = tf.getLine().substr(0, pos);
     tf.next();
   }
@@ -276,13 +281,16 @@ std::string_view handId) {
   return winners;
 }
 
-[[nodiscard]] static inline std::vector<std::unique_ptr<Action>> createActionForWinnersWithoutAction(
-std::span<std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street, std::string_view handId) {
+[[nodiscard]] static inline std::vector<std::unique_ptr<Action>>
+    createActionForWinnersWithoutAction(
+      std::span<std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street,
+std::string_view handId) {
   std::vector<std::unique_ptr<Action>> ret;
-  
   std::ranges::for_each(winners, [&](std::string_view winner) {
-    auto isPlayerName { [&](auto& pAction) { return winner == pAction->getPlayerName(); } };
-    if (!winner.empty() and (std::end(actions) == std::find_if(std::begin(actions), std::end(actions), isPlayerName))) {
+    auto isPlayerName { [&](auto & pAction) { return winner == pAction->getPlayerName(); } };
+
+    if (!winner.empty()
+        and (std::end(actions) == std::find_if(std::begin(actions), std::end(actions), isPlayerName))) {
       ret.push_back(std::make_unique<Action>(Action::Params {
         .handId = handId,
         .playerName = winner,
@@ -295,7 +303,8 @@ std::span<std::string> winners, std::span<std::unique_ptr<Action>> actions, Stre
   return ret;
 }
 
-[[nodiscard]] static inline std::pair<std::vector<std::unique_ptr<Action>>, std::array<std::string, 10>>
+[[nodiscard]] static inline
+std::pair<std::vector<std::unique_ptr<Action>>, std::array<std::string, 10>>
 parseActionsAndWinners(TextFile& tf, std::string_view handId) {
   LOG.debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;
@@ -344,7 +353,8 @@ std::unique_ptr<Hand> WinamaxHandBuilder::buildTournamentHand(TextFile& tf, Play
   return getHand<GameType::tournament>(tf, pc, level, date, handId);
 }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
+    WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
 PlayerCache& pc) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   const auto& [smallBlind, bigBlind, date, handId] { getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(tf.getLine()) };
@@ -352,7 +362,8 @@ PlayerCache& pc) {
   return { std::move(pHand), std::make_unique<GameData>(GameData::Args{.nbMaxSeats = pHand->getMaxSeats(), .smallBlind = smallBlind, .bigBlind = bigBlind, .buyIn = 0, .startDate = pHand->getStartDate() }) };
 }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
+    WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf,
 PlayerCache& pc) {
   LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };
