@@ -1,6 +1,7 @@
 #pragma once
 
 #include "language/clamp-cast.hpp"
+
 #include <cstddef> // std::ptrdiff_t
 #include <concepts> // std::same_as
 

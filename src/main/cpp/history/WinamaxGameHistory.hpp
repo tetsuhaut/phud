@@ -3,6 +3,7 @@
 #include <filesystem>
 #include <memory> // std::unique_ptr
 
+// forward declaration
 class Site;
 struct GameData;
 enum class Limit : short;
