@@ -59,10 +59,10 @@
 *   method is less risky as lock()/unlock() blocks the main thread.
 */
 
-static Logger LOG { CURRENT_FILE_NAME };
-
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
+
+static Logger LOG { CURRENT_FILE_NAME };
 
 namespace {
 /* in anonymous namespace as type definitions can't be static */
@@ -679,13 +679,6 @@ Gui::Gui(AppInterface& app)
 
 Gui::~Gui() = default;
 
-/*[[nodiscard]]*/ int Gui::run() {
-  LOG.debug<__func__>();
-  m_pImpl->m_mainWindow->show();  // display the main window
-  Fl::lock();  // enable multi-thread support
-  return Fl::run();  // listen to awake() calls
-}
-
 /**
  * Displays the given msg in the info bar.
  */
@@ -693,9 +686,28 @@ void Gui::informUser(std::string_view msg) {
   ::informUser(*m_pImpl, msg);
 }
 
+/**
+ * GUI entry point. will exit if all the window are closed.
+ */
+/*[[nodiscard]]*/ int Gui::run() {
+  LOG.debug<__func__>();
+  m_pImpl->m_mainWindow->show();  // display the main window
+  Fl::lock();  // enable multi-thread support
+  return Fl::run();  // listen to awake() calls
+}
+
 // BUG : le stop HUD les cache mais ils réapparaissent
 // BUG : filtrer plus la validation du répertoire de l'historique
 // TODO : fonctionnalité de suppression des préférences utilisateurs
-// TODO : sauvegarde des type de stat selectionnees
+// TODO : sauvegarde des types de stat selectionnees
 // TODO : remplacer le choix du répertoire d'historique à charger par un menu listant tous les répertoires connus
 // TODO : remplacer les periodic task des StatProducer/StatReader par une requête exécutée si le fichier d'historique de la table change
+// +------------------------> X
+// | ---------------------|
+// | GUI                  |
+// |----------------------|
+// |     info bar         |
+// +----------------------+
+// |
+// V
+// Y

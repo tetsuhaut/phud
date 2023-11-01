@@ -43,7 +43,7 @@ static constexpr auto NB_SEATS_TO_COEFF {
 * 1 < tableMaxSeats < 11
 */
 // exported for unit testing
-/*[[nodiscard]] static inline*/ std::pair<int, int> buildPlayerIndicatorPosition(Seat seat_a,
+[[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat_a,
     Seat heroSeat, Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   assert(seat_a <= tableMaxSeats);
   assert(heroSeat <= tableMaxSeats);
