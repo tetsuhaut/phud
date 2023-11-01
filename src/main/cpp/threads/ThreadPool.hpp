@@ -12,5 +12,5 @@ template<typename F, typename... ARGS>
   return stlab::async(stlab::default_executor, std::forward<F>(f), std::forward<ARGS>(args)...);
 }
 
-void stop();
+inline void stop() { stlab::pre_exit(); }
 }; // namespace ThreadPool

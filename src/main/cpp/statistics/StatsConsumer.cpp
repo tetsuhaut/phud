@@ -32,7 +32,7 @@ void StatsConsumer::consumeAndNotify(std::function<void(TableStatistics&)> obser
       }
     }
 
-    return true;
+    return PeriodicTaskStatus::repeatTask;
   });
 }
 

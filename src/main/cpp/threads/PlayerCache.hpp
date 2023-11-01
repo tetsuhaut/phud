@@ -4,6 +4,7 @@
 #include <string_view>
 #include <vector>
 
+// forward declarations
 class Player;
 
 class [[nodiscard]] PlayerCache final {

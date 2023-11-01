@@ -1,7 +1,7 @@
 #include "entities/Hand.hpp"
 #include "entities/Player.hpp"
 #include "entities/Site.hpp"
-#include "filesystem/Filesystem.hpp"
+#include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "filesystem/TextFile.hpp"
 #include "history/GameData.hpp" // CashGame, Tournament, Variant, Time
 #include "history/WinamaxHandBuilder.hpp"
@@ -38,7 +38,7 @@ namespace ps = phud::strings;
   return Variant::none;
 }
 
-struct [[nodiscard]] FileStem {
+struct [[nodiscard]] FileStem final {
   bool m_isRealMoney;
   std::string m_gameName;
   Variant m_variant;

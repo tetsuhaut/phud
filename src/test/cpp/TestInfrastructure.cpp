@@ -65,8 +65,8 @@ public:
 BOOST_GLOBAL_FIXTURE(GlobalFixture);
 
 namespace {
-struct IsFile {};
-struct IsDir {};
+struct IsFile final {};
+struct IsDir final {};
 };
 
 template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)

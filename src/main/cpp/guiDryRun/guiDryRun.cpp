@@ -21,7 +21,7 @@ struct [[nodiscard]] LoggingConfig final {
 class [[nodiscard]] NoOpApp final : public AppInterface {
 private:
   ThreadSafeQueue<TableStatistics> m_stats {};
-  bool m_continue { false };
+  PeriodicTaskStatus m_continue { PeriodicTaskStatus::stopTask };
   PeriodicTask m_task;
 
 public:
@@ -49,7 +49,7 @@ public:
   std::string startProducingStats(std::string_view /*table*/,
                                   std::function < void(TableStatistics&& ts) > /*observer*/) override {
     LOG.debug<__func__>();
-    m_continue = true;
+    m_continue = PeriodicTaskStatus::repeatTask;
     m_task.start([this]() {
       LOG.debug<"task in guiDryRun startProducingStats()">();
       std::array<std::unique_ptr<PlayerStatistics>, 10> fakeStats{
@@ -62,7 +62,7 @@ public:
         nullptr, nullptr, nullptr, nullptr
       };
       m_stats.push(std::move(TableStatistics { .m_maxSeats = Seat::seatSix, .m_tableStats = std::move(fakeStats) }));
-      LOG.debug<"task in guiDryRun startObservingTable() returns {}">(m_continue);
+      LOG.debug<"task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
       return m_continue; // run until the NoOpApp object is destroyed
     });
     return "";
@@ -70,7 +70,8 @@ public:
 
   void stopProducingStats() override {
     LOG.debug<__func__>();
-    m_continue = true; m_task.stop();
+    m_continue = PeriodicTaskStatus::stopTask;
+    m_task.stop();
   }
 
   [[nodiscard]] int showGui() override {

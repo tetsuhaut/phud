@@ -30,6 +30,6 @@ TimeBomb::TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_v
       std::terminate();
     }
 
-    return false;
+    return PeriodicTaskStatus::stopTask;
     });
 }

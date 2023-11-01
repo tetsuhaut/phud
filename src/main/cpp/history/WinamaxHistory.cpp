@@ -1,10 +1,9 @@
-#include "db/Database.hpp"          // Database
 #include "entities/Action.hpp"      // Action, ActionType
 #include "entities/Card.hpp"        // Card, toCard
 #include "entities/Game.hpp"        // Game
 #include "entities/Player.hpp"      // Player
 #include "entities/Site.hpp"        // Site
-#include "filesystem/Filesystem.hpp" // phud::filesystem::*
+#include "filesystem/FileUtils.hpp" // phud::filesystem::*
 #include "history/WinamaxGameHistory.hpp" // parseGameHistory
 #include "history/WinamaxHistory.hpp" // WinamaxHistory, std::filesystem::path, fs::*, Global::*, std::string, phud::strings
 #include "language/Either.hpp"

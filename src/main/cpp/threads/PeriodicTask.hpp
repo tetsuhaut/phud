@@ -3,6 +3,14 @@
 #include <chrono>
 #include <functional> // std::function
 #include <memory> // std::unique_ptr
+#include <string_view>
+
+enum class /*[[nodiscard]]*/ PeriodicTaskStatus : short {
+  repeatTask,
+  stopTask
+};
+
+std::string_view toString(PeriodicTaskStatus);
 
 class [[nodiscard]] PeriodicTask final {
 private:
@@ -28,7 +36,7 @@ public:
   void join();
   [[nodiscard]] bool isStopped() const noexcept;
   /**
-   * if task returns true, continue, else stop.
+   * if task returns PeriodicTaskStatus::repeatTask, continue, else stop.
    */
-  void start(std::function<bool()> task);
+  void start(std::function<PeriodicTaskStatus()> task);
 }; // class PeriodicTask

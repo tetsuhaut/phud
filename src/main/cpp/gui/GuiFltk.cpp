@@ -11,7 +11,7 @@
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "strings/StringUtils.hpp"
-#include "filesystem/Filesystem.hpp"
+#include "filesystem/FileUtils.hpp"
 #include "threads/PeriodicTask.hpp"
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::finally
@@ -204,7 +204,7 @@ static inline void informUser(Gui::Implementation& aSelf) {
   }, &aSelf);
 }
 
-struct [[nodiscard]] InformUser {
+struct [[nodiscard]] InformUser final {
   Gui::Implementation& m_self;
   std::string_view m_msg;
   InformUser(Gui::Implementation& self, std::string_view msg)
@@ -248,7 +248,7 @@ std::unique_ptr<PlayerIndicator>& getPlayerIndicator(Gui::Implementation& self, 
   return self.m_playerIndicators.at(tableSeat::toArrayIndex(seat));
 }
 
-struct [[nodiscard]] UpdatePlayerIndicators {
+struct [[nodiscard]] UpdatePlayerIndicators final {
   Gui::Implementation& m_self;
   Seat m_seat;
   std::pair<int, int> m_pos;
@@ -284,7 +284,7 @@ static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
   playerIndicator->show();
 }
 
-struct [[nodiscard]] ResetPlayerIndicator {
+struct [[nodiscard]] ResetPlayerIndicator final {
   Gui::Implementation& m_self;
   Seat m_seat;
   ResetPlayerIndicator(Gui::Implementation& self, Seat seat)
@@ -298,7 +298,7 @@ static inline void resetPlayerIndicatorsAwakeCb(void* hidden) {
   getPlayerIndicator(rpi->m_self, rpi->m_seat).reset();
 }
 
-struct [[nodiscard]] UpdateTable {
+struct [[nodiscard]] UpdateTable final {
   Gui::Implementation& m_self;
   phud::Rectangle m_tablePosition;
   TableStatistics m_tableStatistics;
@@ -396,7 +396,7 @@ static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
 /*
  * A table chooser, i.e. a dragndrop window that calls tableChooserCb when dropped somewhere.
  */
-struct [[nodiscard]] TableChooser : DragAndDropWindow {
+struct [[nodiscard]] TableChooser final : DragAndDropWindow {
   TableChooser(Gui::Implementation& self, std::string_view label)
     : DragAndDropWindow(MainWindow::Surface::getTableChooserRectangle(self.m_mainWindow->x(),
                         self.m_mainWindow->y(), self.m_chooseTableBtn->x()), label, [ & self](int x, int y) {
@@ -460,7 +460,7 @@ static inline void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   while (Fl::first_window()) { Fl::first_window()->hide(); }
 }
 
-struct [[nodiscard]] NbFilesToLoad {
+struct [[nodiscard]] NbFilesToLoad final {
   Fl_Progress* m_progressBar;
   size_t m_nbFilesToLoad;
 };
@@ -495,7 +495,7 @@ static inline void finishHistoryLoadingAwakeCb(void* hidden) {
   static_cast<Fl_Button*>(hidden)->activate();
 }
 
-struct [[nodiscard]] ImportDir {
+struct [[nodiscard]] ImportDir final {
   Gui::Implementation& m_self;
   fs::path m_dir;
 

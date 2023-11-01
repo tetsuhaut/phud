@@ -36,9 +36,11 @@ void StatsProducer::start(ThreadSafeQueue<TableStatistics>& statsQueue) {
     {.site = m_pImpl->m_site, .table = m_pImpl->m_table}) }; stats.isValid()) {
       LOG.debug<"Got stats from db.">();
       statsQueue.push(std::move(stats));
-    } else { LOG.debug<"Got no stats from db yet for table {} on site {}.">(m_pImpl->m_table, m_pImpl->m_site); }
+    } else {
+      LOG.debug<"Got no stats from db yet for table {} on site {}.">(m_pImpl->m_table, m_pImpl->m_site);
+    }
 
-    return true;
+    return PeriodicTaskStatus::repeatTask;
   });
 }
 

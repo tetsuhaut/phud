@@ -1,8 +1,9 @@
 #include "language/assert.hpp"
 #include "strings/StringUtils.hpp" // std::string_view
+#include <gsl/gsl>
+
 #include <cctype> // std::isspace
 #include <charconv> // std::from_chars
-#include <gsl/gsl>
 
 template<typename T>
 static inline T toT(std::string_view s) {

@@ -11,15 +11,16 @@
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
+#include "strings/StringUtils.hpp"
 #include "threads/PlayerCache.hpp"
 
 #include <cctype> // std::isdigit
 #include <optional>
 #include <string_view>
 
-namespace ps = phud::strings;
-
 static Logger LOG { CURRENT_FILE_NAME };
+
+namespace ps = phud::strings;
 
 static constexpr auto HAND_HISTORY_FOR_GAME_SIZE { ps::length("***** Hand History for Game ") };
 
@@ -37,7 +38,7 @@ static inline void seekToDealingDownCards(TextFile& tf) {
 
 [[nodiscard]] bool isDigit(const auto& someGenericChar) { return 0 != std::isdigit(someGenericChar); }
 
-struct [[nodiscard]] InfosFromCashGamePmuPokerLine {
+struct [[nodiscard]] InfosFromCashGamePmuPokerLine final {
   double m_smallBlind;
   double m_bigBlind;
   Time m_startDate;
@@ -71,6 +72,8 @@ static constexpr auto TABLE_LENGTH { ps::length("Table ") };
   const std::string tableName { line.substr(TABLE_LENGTH, line.find(" (") - TABLE_LENGTH) };
   return { tableName, line.ends_with("(Real Money)") };
 }
+
+static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
 
 [[nodiscard]] static inline Seat parseButtonSeatLine(std::string_view line) {
   return tableSeat::fromString(line.substr(SEAT_LENGTH,
@@ -129,7 +132,7 @@ std::string_view line) {
   return { Street::preflop, FIVE_NONE_CARDS };
 }
 
-struct [[nodiscard]] LineForActionParams {
+struct [[nodiscard]] LineForActionParams final {
   std::string_view m_playerName;
   ActionType m_type;
   double m_bet;
@@ -239,7 +242,7 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
   return FIVE_NONE_CARDS;
 }
 
-struct [[nodiscard]] ActionsAndWinnersAndBoardCards {
+struct [[nodiscard]] ActionsAndWinnersAndBoardCards final {
   std::vector<std::unique_ptr<Action>> m_actions;
   std::array<std::string, 10> m_winners;
   std::array<Card, 5> m_boardCards;
@@ -274,7 +277,7 @@ parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
 
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
-struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat {
+struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat final {
   int m_nbMaxSeats;
   std::string m_tableName;
   int m_buttonSeat;

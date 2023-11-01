@@ -1,6 +1,6 @@
 #pragma once
 
-#include "filesystem/Filesystem.hpp"  // std::filesystem::path, fs::*, std::string
+#include "filesystem/FileUtils.hpp"  // std::filesystem::path, fs::*, std::string
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)

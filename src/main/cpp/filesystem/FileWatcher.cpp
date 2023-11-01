@@ -1,4 +1,4 @@
-#include "filesystem/Filesystem.hpp"
+#include "filesystem/FileUtils.hpp"
 #include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString, count
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
@@ -61,7 +61,7 @@ void FileWatcher::start(std::function<void(const fs::path&)> fileHasChangedCb) {
   phudAssert(nullptr != fileHasChangedCb, "null callback in FileWatcher::start()");
   m_pImpl->m_task.start([this, fileHasChangedCb]() {
     getLatestUpdatedFile(m_pImpl->m_file, m_pImpl->m_lastModifDate, fileHasChangedCb);
-    return !isStopped();
+    return isStopped() ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;
   });
 }
 

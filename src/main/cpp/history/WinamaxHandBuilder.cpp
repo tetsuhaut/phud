@@ -6,12 +6,13 @@
 #include "entities/Seat.hpp"
 #include "filesystem/TextFile.hpp"
 #include "history/GameData.hpp"
-#include "history/PokerSiteHandBuilder.hpp" // ProgramInfos
+#include "history/PokerSiteHandBuilder.hpp" // split, parseSeats
 #include "history/WinamaxHandBuilder.hpp" // Pair
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
 #include "threads/PlayerCache.hpp"
+
 #include <optional>
 
 static Logger LOG { CURRENT_FILE_NAME };
@@ -32,7 +33,7 @@ constexpr static std::array FIVE_NONE_CARDS { Card::none, Card::none, Card::none
 static constexpr auto MINUS_LENGTH { ps::length(" - ") }; // nb char without '\0
 static constexpr auto HAND_ID_LENGTH { ps::length(" - HandId: #") }; // nb char without '\0
 
-struct [[nodiscard]] StartOfWinamaxPokerLine {
+struct [[nodiscard]] StartOfWinamaxPokerLine final {
   std::size_t m_handIdPos;
   Time m_handStartDate;
   std::string m_handId;
@@ -59,7 +60,7 @@ struct [[nodiscard]] StartOfWinamaxPokerLine {
 static constexpr auto BUY_IN_LENGTH { ps::length(" buyIn: ") }; // nb char without '\0
 static constexpr auto LEVEL_LENGTH { ps::length(" level: ") }; // nb char without '\0
 
-struct [[nodiscard]] BuyInLevelDateHandId {
+struct [[nodiscard]] BuyInLevelDateHandId final {
   double m_buyIn;
   int m_level;
   Time m_date;
@@ -77,7 +78,7 @@ getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   return { .m_buyIn = buyIn, .m_level = level, .m_date = handStartDate, .m_handId = handId };
 }
 
-struct [[nodiscard]] LevelDateHandId {
+struct [[nodiscard]] LevelDateHandId final {
   int m_level;
   Time m_date;
   std::string m_handId;
@@ -92,7 +93,7 @@ getLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
   return { .m_level = level, .m_date = handStartDate, .m_handId = handId };
 }
 
-struct [[nodiscard]] SmallBlindBigBlindDateHandId {
+struct [[nodiscard]] SmallBlindBigBlindDateHandId final {
   double m_smallBlind;
   double m_bigBlind;
   Time m_date;
@@ -162,7 +163,7 @@ static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
 static constexpr auto TABLE_LENGTH { ps::length("Table: '") };
 static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
 
-struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat {
+struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat final {
   Seat m_nbMaxSeats;
   std::string m_tableName;
   Seat m_buttonSeat;
@@ -207,7 +208,7 @@ static constexpr auto POSTS_ANTE_LENGTH { ps::length(" posts ante ") };
   return ret;
 }
 
-struct [[nodiscard]] ActionParams {
+struct [[nodiscard]] ActionParams final {
   std::string_view m_playerName;
   ActionType m_type;
   double m_bet;

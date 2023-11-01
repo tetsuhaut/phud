@@ -48,7 +48,7 @@ void PeriodicTask::join() {
 
 /*[[nodiscard]]*/ bool PeriodicTask::isStopped() const noexcept { return m_pImpl->m_taskIsStopped; }
 
-void PeriodicTask::start(std::function<bool()> task) {
+void PeriodicTask::start(std::function<PeriodicTaskStatus()> task) {
   m_pImpl->m_taskIsStopped = false;
   m_pImpl->m_futureTaskResult = ThreadPool::submit([this, task]() {
     do {
@@ -57,9 +57,13 @@ void PeriodicTask::start(std::function<bool()> task) {
 
       // listen to spurious wakes
       while (!m_pImpl->m_stop) { if (std::cv_status::timeout == m_pImpl->m_cv.wait_until(lock, timeout)) { break; } }
-    } while (!m_pImpl->m_stop and task());
+    } while (!m_pImpl->m_stop and PeriodicTaskStatus::repeatTask == task());
 
     m_pImpl->m_taskIsStopped = true;
     m_pImpl->m_cv.notify_one();
   });
+}
+
+std::string_view toString(PeriodicTaskStatus status) {
+  return PeriodicTaskStatus::repeatTask == status ? "repeatTask" : "stopTask";
 }

@@ -1,6 +1,11 @@
 #include "filesystem/TextFile.hpp"
 #include "history/PokerSiteHandBuilder.hpp"
+#include "strings/StringUtils.hpp"
 #include "threads/PlayerCache.hpp"
+
+namespace ps = phud::strings;
+
+static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
 
 [[nodiscard]] /*static*/ std::array<std::string, 10> parseSeats(TextFile& tf,
     PlayerCache& /*cache*/) {
@@ -9,7 +14,7 @@
   while (tf.startsWith("Seat ")) {
     const auto& line { tf.getLine() };
     const auto pos { line.find(": ", SEAT_LENGTH) };
-    const auto seat { phud::strings::toSizeT(line.substr(SEAT_LENGTH, pos - SEAT_LENGTH)) - 1 };
+    const auto seat { ps::toSizeT(line.substr(SEAT_LENGTH, pos - SEAT_LENGTH)) - 1 };
     const auto& player { line.substr(pos + 2, line.rfind(" (") - pos - 2) };
     ret.at(seat) = player;
     tf.next();

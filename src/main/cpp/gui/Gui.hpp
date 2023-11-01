@@ -3,7 +3,7 @@
 #include <memory> // std::unique_ptr
 #include <string_view>
 
-// forward declaration
+// forward declarations
 class AppInterface;
 class PlayerStatistics;
 

@@ -1,6 +1,6 @@
 #include <unordered_map>
 #include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString
-#include "filesystem/Filesystem.hpp" // phud::filesystem::*
+#include "filesystem/FileUtils.hpp" // phud::filesystem::*
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp" // NonCopyable
@@ -30,7 +30,7 @@ struct [[nodiscard]] DirWatcher::Implementation final {
 // look at each file, take its last modification date, wait, do it again and compare
 // for each modified file, notify the listener through the callback
 template<typename T> requires(std::same_as<T, fs::path>)
-[[nodiscard]] static inline bool getLatestUpdatedFiles(const T& dir,
+[[nodiscard]] static inline PeriodicTaskStatus getLatestUpdatedFiles(const T& dir,
     FileTimes& ref, auto fileHasChangedCb) {
   LOG.trace<"Searching for file changes in dir {}">(dir.string());
   const auto& files { pf::listTxtFilesInDir(dir) };
@@ -49,7 +49,7 @@ template<typename T> requires(std::same_as<T, fs::path>)
           fileName, file.parent_path().string(), ec.message());
       }
     });
-  return true;
+  return PeriodicTaskStatus::repeatTask;
 }
 
 DirWatcher::DirWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& dir)

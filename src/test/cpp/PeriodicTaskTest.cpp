@@ -20,7 +20,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
   std::vector<std::string> v { "yip" };
   pt.start([&]() {
     v.push_back("yop");
-    return (4 != v.size());
+    return 4 == v.size() ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;
   });
   pt.join();
   BOOST_REQUIRE(4 == v.size());
@@ -34,13 +34,13 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
   pt.start([hidden]() {
     auto pStrContainer { static_cast<StrContainer*>(hidden) };
     pStrContainer->str += "yop";
-    return pStrContainer->str != "yopyop";
+    return pStrContainer->str == "yopyop" ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;;
   });
   pt.join();
   BOOST_REQUIRE("yopyop" == pMyStrContainer->str);
 }
 
-struct PassedInArray {
+struct [[nodiscard]] PassedInArray final {
   std::array<std::shared_ptr<StrContainer>, 2>& m_array;
   PassedInArray(std::array<std::shared_ptr<StrContainer>, 2>& arr)
     : m_array(arr) {}
@@ -54,7 +54,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
   pt.start([hidden]() {
     auto args { std::unique_ptr<PassedInArray>(static_cast<PassedInArray*>(hidden)) };
     args->m_array[0]->str = "yop";
-    return false;
+    return PeriodicTaskStatus::stopTask;
   });
   pt.join();
   BOOST_REQUIRE("yop" == myArray[0]->str);
