@@ -13,6 +13,50 @@ BOOST_AUTO_TEST_SUITE(PositionTest)
 // +
 // Y
 
+BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionFor6MAxShouldSucceed) {
+  const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
+  const auto tableMaxSeat { Seat::seatSix };
+  const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, tableMaxSeat, tablePosition) };
+  fmt::print("x1={}, y1={}\n", x1, y1);
+  const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, tableMaxSeat, tablePosition) };
+  fmt::print("x2={}, y2={}\n", x2, y2);
+  const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, tableMaxSeat, tablePosition) };
+  fmt::print("x3={}, y3={}\n", x3, y3);
+  const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, tableMaxSeat, tablePosition) };
+  fmt::print("x4={}, y4={}\n", x4, y4);
+  const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, tableMaxSeat, tablePosition) };
+  fmt::print("x5={}, y5={}\n", x5, y5);
+  const auto& [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, tableMaxSeat, tablePosition) };
+  fmt::print("x6={}, y6={}\n", x6, y6);
+}
+
+// 0---+ X
+// |
+// |
+// +
+// Y
+
+BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionFor5MAxShouldSucceed) {
+  const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
+  const auto tableMaxSeat { Seat::seatFive };
+  const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, tableMaxSeat, tablePosition) };
+  fmt::print("x1={}, y1={}\n", x1, y1);
+  const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, tableMaxSeat, tablePosition) };
+  fmt::print("x2={}, y2={}\n", x2, y2);
+  const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, tableMaxSeat, tablePosition) };
+  fmt::print("x3={}, y3={}\n", x3, y3);
+  const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, tableMaxSeat, tablePosition) };
+  fmt::print("x4={}, y4={}\n", x4, y4);
+  const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, tableMaxSeat, tablePosition) };
+  fmt::print("x5={}, y5={}\n", x5, y5);
+}
+
+// 0---+ X
+// |
+// |
+// +
+// Y
+
 BOOST_AUTO_TEST_CASE(PositionTest_buildPlayerIndicatorPositionShouldSucceed) {
   const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
   const auto heroSeat { Seat::seatOne };
@@ -51,7 +95,7 @@ BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldHaveDistinctPositions) {
   std::vector<std::pair<int, int>> positions;
   positions.reserve(seats.size());
   std::transform(seats.begin(), seats.end(), std::back_inserter(positions),
-    [&](auto seat) {
+  [&](auto seat) {
     return buildPlayerIndicatorPosition(seat, heroSeat, tableMaxSeat, tablePosition);
   });
   std::set<std::pair<int, int>> mySet(positions.begin(), positions.end());

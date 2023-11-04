@@ -2,8 +2,6 @@
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadPool.hpp" // Future, std::atomic_bool
 
-#include <stlab/concurrency/system_timer.hpp>
-
 #include <condition_variable>
 #include <mutex>
 

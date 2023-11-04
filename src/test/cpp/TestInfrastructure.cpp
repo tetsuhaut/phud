@@ -158,7 +158,7 @@ fs::path pt::getTestResourcesDir() {
 static inline void removeWithMessage(const fs::path& file) {
   const auto& fileType { pf::isFile(file) ? "file" : "directory" };
 
-  if (std::error_code ec; !std::filesystem::remove_all(file, ec)) {
+  if (std::error_code ec; !fs::remove_all(file, ec)) {
     if (0 == ec.value()) {
       BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
     } else [[unlikely]] {
@@ -170,7 +170,7 @@ static inline void removeWithMessage(const fs::path& file) {
 
 pt::TmpFile::TmpFile(std::string_view name)
   : m_file { name.empty() ? getTmpFilePath().string() : std::string(name) } {
-  std::filesystem::remove(m_file);
+  fs::remove(m_file);
   this->print("");
 }
 
@@ -189,10 +189,10 @@ void pt::TmpFile::printLn(std::string_view s) const {
 }
 
 pt::TmpDir::TmpDir(std::string_view dirName) :
-  m_dir { std::filesystem::temp_directory_path().append(dirName) } {
+  m_dir { fs::temp_directory_path().append(dirName) } {
   if (pf::isDir(m_dir)) { removeWithMessage(m_dir); }
 
-  std::filesystem::create_directories(m_dir);
+  fs::create_directories(m_dir);
 }
 
 pt::TmpDir::~TmpDir() { removeWithMessage(m_dir); }

@@ -29,9 +29,10 @@ BOOST_AUTO_TEST_CASE(TournamentTest_loadingDoubleOrNothingWithOnlyFoldsShouldSuc
   BOOST_REQUIRE(1 == tournaments.size());
   const auto& t { *tournaments[0] };
   BOOST_REQUIRE_MESSAGE("Double or Nothing(98932321)" == t.getName(),
-    "t.getName()='" << t.getName() << '\'');
+                        "t.getName()='" << t.getName() << '\'');
   BOOST_REQUIRE(t.isRealMoney());
-  BOOST_REQUIRE(Time({ .strTime = "2014/10/31 00:45:01", .format = WINAMAX_HISTORY_TIME_FORMAT }) == t.getStartDate());
+  BOOST_REQUIRE(Time({ .strTime = "2014/10/31 00:45:01", .format = WINAMAX_HISTORY_TIME_FORMAT }) ==
+                t.getStartDate());
   BOOST_REQUIRE("Winamax" == t.getSiteName());
   BOOST_REQUIRE("20141031_Double or Nothing(98932321)_real_holdem_no-limit" == t.getId());
   BOOST_REQUIRE(Variant::holdem == t.getVariant());

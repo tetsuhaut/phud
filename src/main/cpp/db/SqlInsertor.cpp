@@ -5,7 +5,7 @@
 #include "entities/Game.hpp" // Limit, Variant
 #include "language/assert.hpp" // phudAssert
 #include "strings/StringUtils.hpp" // phud::strings::*
-#include <spdlog/fmt/bundled/format.h> // fmt::format()
+#include <spdlog/formatter.h> // fmt::format()
 
 namespace ps = phud::strings;
 

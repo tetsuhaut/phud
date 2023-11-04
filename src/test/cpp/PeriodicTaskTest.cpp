@@ -34,7 +34,8 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
   pt.start([hidden]() {
     auto pStrContainer { static_cast<StrContainer*>(hidden) };
     pStrContainer->str += "yop";
-    return pStrContainer->str == "yopyop" ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;;
+    return pStrContainer->str == "yopyop" ? PeriodicTaskStatus::stopTask :
+           PeriodicTaskStatus::repeatTask;;
   });
   pt.join();
   BOOST_REQUIRE("yopyop" == pMyStrContainer->str);

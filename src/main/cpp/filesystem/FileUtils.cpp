@@ -116,10 +116,9 @@ std::vector<fs::path> phud::filesystem::listRecursiveFiles(const fs::path& dir) 
   return ret;
 }
 
-/*[[nodiscard]]*/ std::string phud::filesystem::toString(const std::filesystem::file_time_type&
-    fileTime) {
+/*[[nodiscard]]*/ std::string phud::filesystem::toString(const fs::file_time_type& fileTime) {
   namespace sc = std::chrono;
-  const auto& now { fileTime - std::filesystem::file_time_type::clock::now() + sc::system_clock::now() };
+  const auto& now { fileTime - fs::file_time_type::clock::now() + sc::system_clock::now() };
   const auto& systemClockTimePoint { sc::time_point_cast<sc::system_clock::duration>(now) };
   const auto& posixTime { sc::system_clock::to_time_t(systemClockTimePoint) };
   std::ostringstream oss;

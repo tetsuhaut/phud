@@ -5,7 +5,7 @@
 #include "strings/StringUtils.hpp" // phud::strings::*
 
 #include <gsl/gsl>
-#include <spdlog/fmt/bundled/format.h> // fmt::format
+#include <spdlog/formatter.h> // fmt::format
 
 #include <array>
 
@@ -30,13 +30,9 @@ namespace ps = phud::strings;
 [[nodiscard]] static inline std::optional<fs::path> parseHistoryDir(std::span<const char* const>
     arguments) {
   if (const auto & oDir { getOptionValue(arguments, "-d", "--historyDir") }; oDir.has_value()) {
-    const fs::path p { oDir.value() };
+    if (const fs::path p { oDir.value() }; phud::filesystem::isDir(p)) { return p; }
 
-    if (!phud::filesystem::isDir(p)) {
-      throw ProgramArgumentsException { fmt::format("The directory '{}' does not exist.", oDir.value()) };
-    }
-
-    return p;
+    throw ProgramArgumentsException { fmt::format("The directory '{}' does not exist.", oDir.value()) };
   }
 
   return {};

@@ -122,7 +122,7 @@ static auto SRC_FILES {
     return phud::algorithms::contains(SRC_FILES, dir / file);
   })
                 };
-  return (SRC_DIRS.end() == f) ? file : std::filesystem::canonical(*f / file);
+  return (SRC_DIRS.end() == f) ? file : fs::canonical(*f / file);
 }
 
 /** @returns all of the files that are nor in the src/main/cpp/thirdparty directory */

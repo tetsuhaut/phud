@@ -12,12 +12,12 @@
 #include "log/Logger.hpp" // fmt::format(), CURRENT_FILE_NAME
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
-#include "threads/ThreadPool.hpp"  // ThreadPool
+#include "threads/ThreadPool.hpp"  // ThreadPool, Future
 #include "entities/Card.hpp" // Card, String
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::not_null
 #include <sqlite3.h>  // sqlite3*
-#include <stlab/concurrency/utility.hpp> // stlab::await, Future
+#include <stlab/concurrency/utility.hpp> // stlab::await
 
 #include <mutex>
 #include <ranges>

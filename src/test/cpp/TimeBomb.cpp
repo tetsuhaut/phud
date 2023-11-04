@@ -12,7 +12,7 @@ struct [[nodiscard]] TimeBomb::Implementation final {
 
   Implementation(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
     : m_task { countDownToExplosion, "TimeBomb" },
-    m_testName { testName } {}
+      m_testName { testName } {}
 };
 
 TimeBomb::~TimeBomb() {
@@ -31,5 +31,5 @@ TimeBomb::TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_v
     }
 
     return PeriodicTaskStatus::stopTask;
-    });
+  });
 }

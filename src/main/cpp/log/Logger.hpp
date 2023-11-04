@@ -8,7 +8,7 @@
 #  pragma warning(disable : 4191 4244 4365 4514 4625 4626 4820 5026 5027 )
 #endif  // _MSC_VER
 
-#include <spdlog/fmt/bundled/format.h> // fmt::format()
+#include <spdlog/formatter.h> // fmt::format()
 
 #if defined(_MSC_VER)  // end of specific msvc warnings removal
 #  pragma warning(pop)

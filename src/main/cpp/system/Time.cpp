@@ -1,5 +1,5 @@
 #include "system/Time.hpp"
-#include <spdlog/fmt/bundled/format.h> // fmt::format
+#include <spdlog/formatter.h> // fmt::format
 
 #include <ctime> // std::tm
 #include <iomanip>      // std::get_time

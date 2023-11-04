@@ -353,8 +353,8 @@ std::unique_ptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/,
   return nullptr;
 }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
-    PmuHandBuilder::buildCashgameHandAndGameData(TextFile& tf,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> PmuHandBuilder::buildCashgameHandAndGameData(
+      TextFile& tf,
 PlayerCache& cache) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
@@ -389,8 +389,8 @@ PlayerCache& cache) {
   return { std::move(pHand), std::move(pGameData) };
 }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
-    PmuHandBuilder::buildTournamentHandAndGameData(TextFile& /*tf*/,
+std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> PmuHandBuilder::buildTournamentHandAndGameData(
+      TextFile& /*tf*/,
 PlayerCache& /*cache*/) {
   //LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   //const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };

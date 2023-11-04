@@ -88,9 +88,9 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_createNamedDatabaseWhenFileAlreadyExistsShould
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_createNamedDatabaseWhenFileDoesNotExistsCreatesFile) {
   const fs::path dbFile { "someName" };
-  auto _ { gsl::finally([&]{ if (pf::isFile(dbFile)) { std::filesystem::remove(dbFile); } }) };
+  auto _ { gsl::finally([&]{ if (pf::isFile(dbFile)) { fs::remove(dbFile); } }) };
 
-  if (pf::isFile(dbFile)) { std::filesystem::remove(dbFile); }
+  if (pf::isFile(dbFile)) { fs::remove(dbFile); }
 
   BOOST_REQUIRE(!pf::isFile(dbFile));
   Database namedDb { dbFile.string() };
