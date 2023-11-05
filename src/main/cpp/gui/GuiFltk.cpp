@@ -65,24 +65,24 @@ namespace pf = phud::filesystem;
 static Logger LOG { CURRENT_FILE_NAME };
 
 namespace {
-/* in anonymous namespace as type definitions can't be static */
-enum class [[nodiscard]] FileChoiceStatus : short { ok = 0, error = -1, cancel = 1 };
+  /* in anonymous namespace as type definitions can't be static */
+  enum class [[nodiscard]] FileChoiceStatus : short { ok = 0, error = -1, cancel = 1 };
 
-namespace FltkSkin {
-/* from the int Fl::scheme(const char * s) documentation */
-constexpr std::string_view none { "none" };
-constexpr std::string_view base { "base" };
-constexpr std::string_view gleam { "gleam" };
-constexpr std::string_view gtkplus { "gtk+" };
-constexpr std::string_view plastic { "plastic" };
-}; // namespace FltkSkin
+  namespace FltkSkin {
+    /* from the int Fl::scheme(const char * s) documentation */
+    constexpr std::string_view none { "none" };
+    constexpr std::string_view base { "base" };
+    constexpr std::string_view gleam { "gleam" };
+    constexpr std::string_view gtkplus { "gtk+" };
+    constexpr std::string_view plastic { "plastic" };
+  }; // namespace FltkSkin
 
 }; // anonymous namespace
 
 [[nodiscard]] static inline std::unique_ptr<Fl_Preferences> buildPreferences() {
   /* preference name, value, default value */
   return std::make_unique<Fl_Preferences>(Fl_Preferences::USER,
-                                          ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data());
+    ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data());
 }
 
 /**
@@ -136,14 +136,14 @@ struct [[nodiscard]] Gui::Implementation final {
 [[nodiscard]] static inline std::string getLastErrorMessageFromOS() {
   char err[MAX_PATH + 1] { '\0' };
   FormatMessage(FORMAT_MESSAGE_FROM_SYSTEM, nullptr, GetLastError(),
-                MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT), &err[0], MAX_PATH,
-                nullptr);
+    MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT), &err[0], MAX_PATH,
+    nullptr);
   return &err[0];
 }
 
 template <typename T>
 [[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r,
-    std::string_view label) {
+  std::string_view label) {
   return std::make_unique<T>(r.x, r.y, r.w, r.h, label.data());
 }
 
@@ -201,15 +201,16 @@ static inline void informUser(Gui::Implementation& aSelf) {
   Fl::awake([](void* hiddenSelf) {
     auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
     self.m_infoBar->copy_label(MSG.value);
-  }, &aSelf);
+    }, &aSelf);
 }
 
-struct [[nodiscard]] InformUser final {
+struct [[nodiscard]] InformUserArgs final {
   Gui::Implementation& m_self;
-  std::string_view m_msg;
-  InformUser(Gui::Implementation& self, std::string_view msg)
+  std::string m_msg;
+
+  InformUserArgs(Gui::Implementation& self, std::string_view msg)
     : m_self(self),
-      m_msg(msg) {}
+    m_msg(msg) {}
 };
 
 /**
@@ -218,9 +219,9 @@ struct [[nodiscard]] InformUser final {
 static inline void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
   LOG.debug<__func__>();
   Fl::awake([](void* hidden) {
-    auto pInformUser { std::unique_ptr<InformUser>(static_cast<InformUser*>(hidden)) };
+    auto pInformUser { std::unique_ptr<InformUserArgs>(static_cast<InformUserArgs*>(hidden)) };
     pInformUser->m_self.m_infoBar->copy_label(pInformUser->m_msg.data());
-  }, new InformUser(aSelf, aMsg));
+    }, new InformUserArgs(aSelf, aMsg));
 }
 
 /**
@@ -233,7 +234,7 @@ static inline void stopHudCb(Fl_Widget* button, void* hiddenSelf) {
   // kill stats producer/receiver
   self.m_app.stopProducingStats();
   // kill PlayerIndicators
-  std::ranges::for_each(self.m_playerIndicators, [](auto & pi) { pi.reset(); });
+  std::ranges::for_each(self.m_playerIndicators, [](auto& pi) { pi.reset(); });
   button->deactivate();
   informUser<"no player indicator to display">(self);
   Fl::redraw();
@@ -248,17 +249,19 @@ std::unique_ptr<PlayerIndicator>& getPlayerIndicator(Gui::Implementation& self, 
   return self.m_playerIndicators.at(tableSeat::toArrayIndex(seat));
 }
 
-struct [[nodiscard]] UpdatePlayerIndicators final {
+struct [[nodiscard]] UpdatePlayerIndicatorsArgs final {
   Gui::Implementation& m_self;
-  Seat m_seat;
-  std::pair<int, int> m_pos;
   std::unique_ptr<PlayerStatistics> m_ps;
-  UpdatePlayerIndicators(Gui::Implementation& self, Seat seat, std::pair<int, int> pos,
-                         std::unique_ptr<PlayerStatistics> ps)
-    : m_self(self),
-      m_seat(seat),
-      m_pos(pos),
-      m_ps(std::move(ps)) {}
+  std::pair<int, int> m_pos;
+  Seat m_seat;
+
+  UpdatePlayerIndicatorsArgs(Gui::Implementation& self, Seat seat, std::pair<int, int> pos,
+    std::unique_ptr<PlayerStatistics> ps) :
+    m_self(self),
+    m_ps(std::move(ps)),
+    m_pos(pos),
+    m_seat(seat)
+  {}
 };
 
 /**
@@ -269,13 +272,14 @@ struct [[nodiscard]] UpdatePlayerIndicators final {
 * 1 < nbSeats < 11
 */
 static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
-  const auto args { std::move(static_cast<UpdatePlayerIndicators*>(hidden)) };
+  const auto args { std::move(static_cast<UpdatePlayerIndicatorsArgs*>(hidden)) };
   phudAssert(nullptr != args->m_ps, "ps nullptr dans updatePlayerIndicatorsAwakeCb");
   auto& playerIndicator { getPlayerIndicator(args->m_self, args->m_seat) };
 
   if (nullptr == playerIndicator) {
     playerIndicator = std::make_unique<PlayerIndicator>(args->m_pos, args->m_ps->getPlayerName());
-  } else if (args->m_ps->getPlayerName() != playerIndicator->getPlayerName()) {
+  }
+  else if (args->m_ps->getPlayerName() != playerIndicator->getPlayerName()) {
     playerIndicator->refresh(args->m_ps->getPlayerName());
   }
 
@@ -284,30 +288,32 @@ static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
   playerIndicator->show();
 }
 
-struct [[nodiscard]] ResetPlayerIndicator final {
+struct [[nodiscard]] ResetPlayerIndicatorArgs final {
   Gui::Implementation& m_self;
   Seat m_seat;
-  ResetPlayerIndicator(Gui::Implementation& self, Seat seat)
+
+  ResetPlayerIndicatorArgs(Gui::Implementation& self, Seat seat)
     : m_self(self),
-      m_seat(seat) {}
+    m_seat(seat) {}
 };
 
 static inline void resetPlayerIndicatorsAwakeCb(void* hidden) {
   LOG.debug<__func__>();
-  auto rpi { std::unique_ptr<ResetPlayerIndicator>(static_cast<ResetPlayerIndicator*>(hidden)) };
+  auto rpi { std::unique_ptr<ResetPlayerIndicatorArgs>(static_cast<ResetPlayerIndicatorArgs*>(hidden)) };
   getPlayerIndicator(rpi->m_self, rpi->m_seat).reset();
 }
 
-struct [[nodiscard]] UpdateTable final {
+struct [[nodiscard]] UpdateTableArgs final {
   Gui::Implementation& m_self;
-  phud::Rectangle m_tablePosition;
   TableStatistics m_tableStatistics;
+  phud::Rectangle m_tablePosition;
 
-  UpdateTable(Gui::Implementation& self, phud::Rectangle tablePosition,
-              TableStatistics tableStatistics)
+  UpdateTableArgs(Gui::Implementation& self, phud::Rectangle tablePosition,
+    TableStatistics tableStatistics)
     : m_self(self),
-      m_tablePosition(tablePosition),
-      m_tableStatistics(std::move(tableStatistics)) {}
+    m_tableStatistics(std::move(tableStatistics)),
+    m_tablePosition(tablePosition)
+     {}
 };
 
 /**
@@ -315,7 +321,7 @@ struct [[nodiscard]] UpdateTable final {
  * Called periodically by another thread.
  */
 static inline void updateTableAwakeCb(void* hidden) {
-  auto args { std::unique_ptr<UpdateTable>(static_cast<UpdateTable*>(hidden)) };
+  auto args { std::unique_ptr<UpdateTableArgs>(static_cast<UpdateTableArgs*>(hidden)) };
   const auto heroSeat { args->m_tableStatistics.getHeroSeat() };
   const auto& seats { args->m_tableStatistics.getSeats() };
 
@@ -323,15 +329,16 @@ static inline void updateTableAwakeCb(void* hidden) {
     auto ps { args->m_tableStatistics.extractPlayerStatistics(seat) };
 
     if (nullptr == ps) {
-      Fl::awake(resetPlayerIndicatorsAwakeCb, new ResetPlayerIndicator(args->m_self, seat));
-    } else {
+      Fl::awake(resetPlayerIndicatorsAwakeCb, new ResetPlayerIndicatorArgs(args->m_self, seat));
+    }
+    else {
       const auto& pos {
         (Seat::seatUnknown == heroSeat) ?
         buildPlayerIndicatorPosition(seat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
         : buildPlayerIndicatorPosition(seat, heroSeat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
       };
-      Fl::awake(updatePlayerIndicatorsAwakeCb, new UpdatePlayerIndicators(args->m_self, seat, pos,
-                std::move(ps)));
+      Fl::awake(updatePlayerIndicatorsAwakeCb, new UpdatePlayerIndicatorsArgs(args->m_self, seat, pos,
+        std::move(ps)));
     }
   }
 }
@@ -360,7 +367,7 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
   if (RECT r; 0 != GetWindowRect(myWindowHandle, &r)) {
     char tableName[MAX_PATH + 1] { '\0' };
     GetWindowText(myWindowHandle, &tableName[0], MAX_PATH);
-    return ErrorOrRectangleAndName::res({toRectangle(r), tableName});
+    return ErrorOrRectangleAndName::res({ toRectangle(r), tableName });
   }
 
   return ErrorOrRectangleAndName::err<"Could not get the chosen window handle.">();
@@ -377,19 +384,21 @@ static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
   if (errorOrResult.isErr()) {
     LOG.info(errorOrResult.getErr());
     informUser(self, errorOrResult.getErr());
-  } else {
+  }
+  else {
     const auto& [tablePosition, tableName] { errorOrResult.getRes() };
     informUser(self, fmt::format("The chosen poker table is '{}'", tableName));
     self.m_tableChooser = nullptr;
     setChooseTableButtonLabelToChoose(self);
     LOG.info<"Starting consuming stats.">();
 
-    if (const auto & errMsg { self.m_app.startProducingStats(tableName,
+    if (const auto& errMsg { self.m_app.startProducingStats(tableName,
     [&self, tablePosition](TableStatistics&& ts) {
-    Fl::awake(updateTableAwakeCb, new UpdateTable(self, tablePosition, std::move(ts)));
+    Fl::awake(updateTableAwakeCb, new UpdateTableArgs(self, tablePosition, std::move(ts)));
     }) }; !errMsg.empty()) {
       informUser(self, errMsg);
-    } else { self.m_stopHudBtn->activate(); }
+    }
+    else { self.m_stopHudBtn->activate(); }
   }
 }
 
@@ -397,9 +406,9 @@ static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
  * A table chooser, i.e. a dragndrop window that calls tableChooserCb when dropped somewhere.
  */
 struct [[nodiscard]] TableChooser final : DragAndDropWindow {
-  TableChooser(Gui::Implementation& self, std::string_view label)
+  TableChooser(Gui::Implementation & self, std::string_view label)
     : DragAndDropWindow(MainWindow::Surface::getTableChooserRectangle(self.m_mainWindow->x(),
-                        self.m_mainWindow->y(), self.m_chooseTableBtn->x()), label, [ & self](int x, int y) {
+                        self.m_mainWindow->y(), self.m_chooseTableBtn->x()), label, [&self](int x, int y) {
     tableChooserCb(self, x, y);
   }) {}
 }; // struct TableChooser
@@ -429,7 +438,8 @@ static inline void chooseTableCb(Fl_Widget* button, void* hiddenSelf) {
   if (isLabelChooseTable(self)) {
     button->label(MainWindow::Label::cancelTableChoice.data());
     self.m_tableChooser = buildTableChooser(self, MainWindow::Label::chooseTable);
-  } else {
+  }
+  else {
     setChooseTableButtonLabelToChoose(self);
     self.m_tableChooser = nullptr;
   }
@@ -460,7 +470,7 @@ static inline void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   while (Fl::first_window()) { Fl::first_window()->hide(); }
 }
 
-struct [[nodiscard]] NbFilesToLoad final {
+struct [[nodiscard]] NbFilesToLoadArgs final {
   Fl_Progress* m_progressBar;
   size_t m_nbFilesToLoad;
 };
@@ -471,7 +481,7 @@ struct [[nodiscard]] NbFilesToLoad final {
 */
 static inline void setNbFilesToLoadAwakeCb(void* hidden) {
   LOG.debug<__func__>();
-  auto args { std::unique_ptr<NbFilesToLoad>(static_cast<NbFilesToLoad*>(hidden)) };
+  auto args { std::unique_ptr<NbFilesToLoadArgs>(static_cast<NbFilesToLoadArgs*>(hidden)) };
   args->m_progressBar->maximum(static_cast<float>(args->m_nbFilesToLoad));
 }
 
@@ -495,13 +505,13 @@ static inline void finishHistoryLoadingAwakeCb(void* hidden) {
   static_cast<Fl_Button*>(hidden)->activate();
 }
 
-struct [[nodiscard]] ImportDir final {
+struct [[nodiscard]] ImportDirArgs final {
   Gui::Implementation& m_self;
   fs::path m_dir;
 
-  ImportDir(Gui::Implementation& self, fs::path dir)
+  ImportDirArgs(Gui::Implementation& self, fs::path dir)
     : m_self(self),
-      m_dir(dir) {}
+    m_dir(dir) {}
 };
 
 /**
@@ -515,7 +525,7 @@ struct [[nodiscard]] ImportDir final {
  */
 static inline void importDirAwakeCb(void* hidden) {
   LOG.debug<__func__>();
-  auto args { std::unique_ptr<ImportDir>(static_cast<ImportDir*>(hidden)) };
+  auto args { std::unique_ptr<ImportDirArgs>(static_cast<ImportDirArgs*>(hidden)) };
   const auto& historyDir { args->m_dir.filename().string() };
   LOG.info<"The import directory '{}' is valid">(historyDir);
   /* the string is copied in the widget internal buffer*/
@@ -524,9 +534,9 @@ static inline void importDirAwakeCb(void* hidden) {
   LOG.info<"importing history">();
   auto& self { args->m_self };
   args->m_self.m_app.importHistory(args->m_dir,
-  [&self]() { Fl::awake(incrementProgressBarAwakeCb, self.m_progressBar); },
-  [&self](std::size_t nbFilesToLoad) { Fl::awake(setNbFilesToLoadAwakeCb, new NbFilesToLoad(self.m_progressBar, nbFilesToLoad)); },
-  [&self]() { Fl::awake(finishHistoryLoadingAwakeCb, self.m_chooseTableBtn); });
+    [&self]() { Fl::awake(incrementProgressBarAwakeCb, self.m_progressBar); },
+    [&self](std::size_t nbFilesToLoad) { Fl::awake(setNbFilesToLoadAwakeCb, new NbFilesToLoadArgs(self.m_progressBar, nbFilesToLoad)); },
+    [&self]() { Fl::awake(finishHistoryLoadingAwakeCb, self.m_chooseTableBtn); });
 }
 
 /**
@@ -540,28 +550,29 @@ static inline void choseHistoDirCb(Fl_Widget*, void* hiddenSelf) {
   auto dirChoser { buildDirectoryChooser(*self.m_preferences) };
 
   switch (FileChoiceStatus(dirChoser->show())) {
-    case FileChoiceStatus::ok: {
-      const fs::path dir { dirChoser->filename() };
-      LOG.info<"the user chose to import the directory '{}'">(dir.string());
+  case FileChoiceStatus::ok: {
+    const fs::path dir { dirChoser->filename() };
+    LOG.info<"the user chose to import the directory '{}'">(dir.string());
 
-      if (AppInterface::isValidHistory(dir)) {
-        saveToPreferences(*self.m_preferences, MainWindow::Label::preferencesKeyChosenDir,
-                          dir.string().c_str()); // to get const char*
-        Fl::awake(importDirAwakeCb, new ImportDir(self, dir));
-      } else {
-        LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());
-        informUser(self, MainWindow::Label::invalidChoice);
-      }
+    if (AppInterface::isValidHistory(dir)) {
+      saveToPreferences(*self.m_preferences, MainWindow::Label::preferencesKeyChosenDir,
+        dir.string().c_str()); // to get const char*
+      Fl::awake(importDirAwakeCb, new ImportDirArgs(self, dir));
+    }
+    else {
+      LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());
+      informUser(self, MainWindow::Label::invalidChoice);
+    }
+  } break;
+
+  case FileChoiceStatus::error: [[unlikely]] {
+    if (nullptr == dirChoser->errmsg()) { informUser<"File choice error">(self); }
+    else { informUser(self, dirChoser->errmsg()); }
     } break;
 
-    case FileChoiceStatus::error: [[unlikely]] {
-        if (nullptr == dirChoser->errmsg()) { informUser<"File choice error">(self); }
-        else { informUser(self, dirChoser->errmsg()); }
-      } break;
+  case FileChoiceStatus::cancel: [[fallthrough]];
 
-    case FileChoiceStatus::cancel: [[fallthrough]];
-
-    default: /* nothing to do */ break;
+  default: /* nothing to do */ break;
   }
 }
 
@@ -570,7 +581,7 @@ static inline std::pair<int, int> getMainWindowPosition(Fl_Preferences& preferen
   int width, height;
   preferences.get(MainWindow::Label::width.data(), width, MainWindow::Surface::mainWindow.w);
   preferences.get(MainWindow::Label::height.data(), height,
-                  MainWindow::Surface::mainWindow.h);
+    MainWindow::Surface::mainWindow.h);
   /* compute the center position */
   int dummyX, dummyY, screenWidth, screenHeight;
   Fl::screen_xywh(dummyX, dummyY, screenWidth, screenHeight);
@@ -596,7 +607,7 @@ static inline std::pair<int, int> getMainWindowPosition(Fl_Preferences& preferen
   const auto [x, y, w, h] { MainWindow::Surface::chooseHistoDirBtn };
   auto ret { new Fl_Button(x, y, w, h, MainWindow::Label::chooseHistoDir.data()) };
   /* setup the button for choosing which history directory to import into database */
-  ret->callback(choseHistoDirCb,  &self);
+  ret->callback(choseHistoDirCb, &self);
   return ret;
 }
 
@@ -623,8 +634,8 @@ static inline std::pair<int, int> getMainWindowPosition(Fl_Preferences& preferen
   auto ret { new Fl_Box(x, y, w, h) };
   /* setup the text box to display the chosen directory */
   ret->copy_label(phud::filesystem::isDir(getPreferredHistoDir(pref)) ?
-                  MainWindow::Label::HAND_HISTORY_EXISTS.data() :
-                  MainWindow::Label::CHOOSE_HAND_HISTORY_DIRECTORY.data());
+    MainWindow::Label::HAND_HISTORY_EXISTS.data() :
+    MainWindow::Label::CHOOSE_HAND_HISTORY_DIRECTORY.data());
   return ret;
 }
 

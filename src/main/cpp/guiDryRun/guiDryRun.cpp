@@ -62,7 +62,7 @@ public:
         nullptr, nullptr, nullptr, nullptr
       };
       m_stats.push(std::move(TableStatistics { .m_maxSeats = Seat::seatSix, .m_tableStats = std::move(fakeStats) }));
-      LOG.debug<"task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
+      LOG.debug<"the task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
       return m_continue; // run until the NoOpApp object is destroyed
     });
     return "";
