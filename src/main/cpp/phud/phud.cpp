@@ -3,7 +3,6 @@
 #include "mainLib/App.hpp"
 #include "phud/ProgramArguments.hpp"  // ProgramArgumentsException, UserAskedForHelpException
 #include "mainLib/ProgramInfos.hpp"
-#include "threads/ThreadPool.hpp"
 
 #if defined(__MINGW32__) // removal of specific gcc warnings due to Boost
 #  pragma GCC diagnostic push
@@ -108,7 +107,6 @@ struct [[nodiscard]] LoggingConfig final {
 
     nbErr = mainProgram.showGui();
     LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
-    ThreadPool::stop();
   } catch (const PhudException& e) {
     LOG.error(e.what());
   } catch (const std::logic_error& e) {

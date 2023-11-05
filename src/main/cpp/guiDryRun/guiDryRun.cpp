@@ -80,6 +80,8 @@ public:
   }
 
   void setHistoryDir(const fs::path& /*dir*/) override {}
+
+  bool isPokerApp(std::string_view) const override { return true; }
 }; // class NoOpApp
 
 /* no WinMain because we want the console to show debug messages */

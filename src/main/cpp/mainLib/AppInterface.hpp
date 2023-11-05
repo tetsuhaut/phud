@@ -43,8 +43,9 @@ public:
 
   /**
    * @return true if executableName is the wanted Poker application.
+   * non-static to be overriden in guiDryRun
    */
-  [[nodiscard]] static bool isPokerApp(std::string_view executableName);
+  [[nodiscard]] virtual bool isPokerApp(std::string_view executableName) const;
 
   /**
    * @return true if historyDir is the wanted Poker application history directory.

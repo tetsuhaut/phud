@@ -6,7 +6,7 @@ namespace fs = std::filesystem;
 
 AppInterface::~AppInterface() = default;
 
-/*static*/ bool AppInterface::isPokerApp(std::string_view executableName) {
+bool AppInterface::isPokerApp(std::string_view executableName) const {
   const auto& exe { fs::path(executableName).filename().string() };
   return std::end(ProgramInfos::POKER_SITE_EXECUTABLE_STEMS) != std::find_if(
            std::begin(ProgramInfos::POKER_SITE_EXECUTABLE_STEMS),

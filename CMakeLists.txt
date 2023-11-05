@@ -169,7 +169,6 @@ target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 ################################################################################
 find_package(stlab 1.7.1 REQUIRED)
 target_link_libraries(mainLib PRIVATE stlab::stlab)
-target_link_libraries(phud PRIVATE stlab::stlab)
 target_link_libraries(unitTests PRIVATE stlab::stlab)
 
 ################################################################################

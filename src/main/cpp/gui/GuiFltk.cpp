@@ -13,6 +13,7 @@
 #include "strings/StringUtils.hpp"
 #include "filesystem/FileUtils.hpp"
 #include "threads/PeriodicTask.hpp"
+#include "threads/ThreadPool.hpp"
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::finally
 
@@ -130,7 +131,7 @@ struct [[nodiscard]] Gui::Implementation final {
   Implementation(Implementation&&) = delete;
   Implementation& operator=(const Implementation&) = delete;
   Implementation& operator=(Implementation&&) = delete;
-  ~Implementation() = default;
+  ~Implementation() { ThreadPool::stop(); }
 }; // struct Gui::Implementation
 
 [[nodiscard]] static inline std::string getLastErrorMessageFromOS() {
@@ -219,8 +220,8 @@ struct [[nodiscard]] InformUserArgs final {
 static inline void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
   LOG.debug<__func__>();
   Fl::awake([](void* hidden) {
-    auto pInformUser { std::unique_ptr<InformUserArgs>(static_cast<InformUserArgs*>(hidden)) };
-    pInformUser->m_self.m_infoBar->copy_label(pInformUser->m_msg.data());
+    auto pArgs { std::unique_ptr<InformUserArgs>(static_cast<InformUserArgs*>(hidden)) };
+    pArgs->m_self.m_infoBar->copy_label(pArgs->m_msg.data());
     }, new InformUserArgs(aSelf, aMsg));
 }
 
@@ -356,13 +357,13 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
  * ensures the process owning the window is the poker app,
  * gets the name of the window this position belongs to.
  */
-[[nodiscard]] static inline ErrorOrRectangleAndName getWindowRectangleAndName(int x, int y) {
+[[nodiscard]] static inline ErrorOrRectangleAndName getWindowRectangleAndName(const AppInterface& app, int x, int y) {
   LOG.debug<__func__>();
   const auto& myWindowHandle { WindowFromPoint({x, y}) };
 
   if (nullptr == myWindowHandle) { return ErrorOrRectangleAndName::err<"No window at the given position">(); }
 
-  if (!AppInterface::isPokerApp(getExecutableName(myWindowHandle))) { return ErrorOrRectangleAndName::err<"The chosen window is not a poker table.">(); }
+  if (!app.isPokerApp(getExecutableName(myWindowHandle))) { return ErrorOrRectangleAndName::err<"The chosen window is not a poker table.">(); }
 
   if (RECT r; 0 != GetWindowRect(myWindowHandle, &r)) {
     char tableName[MAX_PATH + 1] { '\0' };
@@ -379,7 +380,7 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
  */
 static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
   LOG.debug<__func__>();
-  const auto& errorOrResult { getWindowRectangleAndName(x, y) };
+  const auto& errorOrResult { getWindowRectangleAndName(self.m_app, x, y) };
 
   if (errorOrResult.isErr()) {
     LOG.info(errorOrResult.getErr());

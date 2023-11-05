@@ -12,9 +12,11 @@ BOOST_AUTO_TEST_CASE(AppTest_enterAndExitShouldSucceed) {
 }
 
 BOOST_AUTO_TEST_CASE(AppTest_isPokerAppShouldSucceed) {
-  BOOST_REQUIRE(AppInterface::isPokerApp("Winamax Poker"));
-  BOOST_REQUIRE(AppInterface::isPokerApp("PMU"));
-  BOOST_REQUIRE(false == AppInterface::isPokerApp("Some unimplemented site stem"));
+    pt::TmpFile databaseFile;
+  App mainProgram { databaseFile.string() };
+  BOOST_REQUIRE(mainProgram.isPokerApp("Winamax Poker"));
+  BOOST_REQUIRE(mainProgram.isPokerApp("PMU"));  
+  BOOST_REQUIRE(false == mainProgram.isPokerApp("Some unimplemented site stem"));
 }
 
 BOOST_AUTO_TEST_SUITE_END()
