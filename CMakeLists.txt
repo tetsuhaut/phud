@@ -220,6 +220,11 @@ if(MSVC)
   # target_compile_options(dbgen PRIVATE -fsanitize=address,undefined)
   # target_compile_options(guiDryRun PRIVATE -fsanitize=address,undefined)
   # target_compile_options(unitTests PRIVATE -fsanitize=address,undefined)
+  target_compile_definitions(mainLib PRIVATE _MSVC_STL_HARDENING=1)
+  target_compile_definitions(phud PRIVATE _MSVC_STL_HARDENING=1)
+  target_compile_definitions(dbgen PRIVATE _MSVC_STL_HARDENING=1)
+  target_compile_definitions(guiDryRun PRIVATE _MSVC_STL_HARDENING=1)
+  target_compile_definitions(unitTests PRIVATE _MSVC_STL_HARDENING=1)
 
   #target_compile_options(${target_name} PRIVATE -fno-sanitize=signed-integer-overflow)
 

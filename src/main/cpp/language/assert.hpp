@@ -7,4 +7,4 @@ void phudMacroAssert(const char* const expression, bool expressionReturnValue,
 #  define phudAssert(Expr, Msg) phudMacroAssert(#Expr, Expr, __FILE__, __func__, __LINE__, Msg)
 #else
 #  define phudAssert(Expr, Msg)
-#endif
+#endif // NDEBUG
