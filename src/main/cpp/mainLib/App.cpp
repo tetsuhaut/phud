@@ -86,7 +86,7 @@ static inline void watchHistoFile(App::Implementation& self, const fs::path& fil
     })
     .then([&self](const auto & pSite) { self.m_model->save(*pSite); })
     .then([&self, table]() { return extractTableStatistics(self, table); })
-    .then([&self, &observer](TableStatistics && ts) { notify(std::move(ts), observer); });
+    .then([&self, &observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
   });
   self.m_gui->informUser(fmt::format("Watching the file {}", file.filename().string()));
 }

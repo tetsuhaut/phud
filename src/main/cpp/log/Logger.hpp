@@ -85,7 +85,7 @@ public:
 // see user Andry
 // also https://godbolt.org/z/u6s8j3
 /**
- * @returns the position of the 1st char of the file name in a path,
+ * @returns the position of the 1st character of the file name in a path,
  * 0 if the given path ends with a / or \.
  * Ex: C:/a/b/c.txt returns 7, a.txt returns 0
  * @param CHAR_TYPE the type of character, e.g. char or wchar or uchar

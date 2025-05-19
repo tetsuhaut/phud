@@ -13,7 +13,6 @@ static Logger LOG { CURRENT_FILE_NAME };
 struct [[nodiscard]] FileWatcher::Implementation final {
   fs::path m_file;
   std::error_code m_errorCode {};
-  // note: as of C++ 17, there is no portable way to unify FileTime and Time :(
   // note: impossible to use std::filesystem::path as a map key
   fs::file_time_type m_lastModifDate;
   PeriodicTask m_task;

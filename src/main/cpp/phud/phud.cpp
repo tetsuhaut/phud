@@ -41,7 +41,6 @@
 // GOOD PRACTISE: use [[nodiscard]] for all pure functions, or where return value must be examined
 // GOOD PRACTISE: no const class attribute
 // explicit for constructors callable with one parameter
-// FUTURE: unify FileTime and Time (hope it becomes possible with C++ 20)
 // FUTURE : try unity build
 // FUTURE add code documentation (Doxygen, compatible with Javadoc format)
 // BUG : crash à la sélection de la table : impossible de trouver l'historique pour table "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif"

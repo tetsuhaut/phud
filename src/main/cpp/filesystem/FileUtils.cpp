@@ -1,6 +1,6 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::string_view, std::vector
 #include "language/assert.hpp" // phudAssert
-#include "log/Logger.hpp"
+#include "log/Logger.hpp" // CURRENT_FILE_NAME
 
 #include <gsl/gsl>
 
@@ -62,6 +62,7 @@ static inline std::vector<fs::path> iterateDirs(const fs::path& dir) {
 
   return ret;
 }
+
 static inline std::vector<fs::path> genericListDirs(auto) =
   delete; // use only std::filesystem::path
 
