@@ -12,7 +12,7 @@
 #include "mainLib/ProgramInfos.hpp"
 #include "threads/PlayerCache.hpp"
 
-#include <utf8.h> // utf8::utf16to8
+#include <thirdParties/utfcpp/utf8.h> // utf8::utf16to8
 #include <optional>
 
 namespace ps = phud::strings;

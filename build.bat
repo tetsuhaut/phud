@@ -8,7 +8,7 @@ IF NOT DEFINED BIN_DIR ECHO call build-*.bat instead && EXIT /B 1
 REM the *_DIR environment variables are hints to help CMake finding the libraries and include dirs
 REM one letter for the loop variable
 SETLOCAL enabledelayedexpansion
-FOR %%i IN (Boost_DIR FLTK_DIR frozen_DIR Microsoft.GSL_DIR SCRIPTS_DIR SPDLOG_DIR SQLite3_DIR stlab_DIR utf8cpp_DIR) DO (
+FOR %%i IN (Boost_DIR FLTK_DIR frozen_DIR Microsoft.GSL_DIR SCRIPTS_DIR SPDLOG_DIR SQLite3_DIR stlab_DIR) DO (
   IF NOT DEFINED %%i ECHO need to set the %%i environment variable && EXIT /B 1
   FOR /F %%j IN ('ECHO %%i') DO (
     IF NOT EXIST !%%j!\NUL ECHO %%i refers to a non existing directory '!%%j!' && EXIT /B 1

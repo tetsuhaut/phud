@@ -91,7 +91,7 @@ set(Boost_USE_MULTITHREADED ON)
 set(Boost_USE_STATIC_RUNTIME ON)
 
 # specify which libraries to link with and corresponding include files
-find_package(Boost 1.80.0 REQUIRED COMPONENTS unit_test_framework)
+find_package(Boost 1.88.0 REQUIRED COMPONENTS unit_test_framework)
 include_directories(${Boost_INCLUDE_DIRS})
 target_link_libraries(unitTests PRIVATE ${Boost_UNIT_TEST_FRAMEWORK_LIBRARY})
 
@@ -108,9 +108,9 @@ set(FLTK_SKIP_FORMS true)
 set(FLTK_SKIP_FLUID true)
 set(FLTK_SKIP_IMAGES true)
 set(FLTK_SKIP_OPENGL true)
-find_package(FLTK REQUIRED) # dunno how to provide version
-if(NOT (FLTK_VERSION GREATER_EQUAL 1.3.7))
-  message(FATAL_ERROR "Wrong FLTK version '${FLTK_VERSION}'")
+find_package(FLTK 1.4.3 REQUIRED)
+if(FLTK_VERSION VERSION_LESS "1.4.3")
+  message(FATAL_ERROR "FLTK version '${FLTK_VERSION}' which is too old")
 endif()
 target_include_directories(mainLib PRIVATE ${FLTK_INCLUDE_DIRS})
 target_link_libraries(mainLib PRIVATE ${FLTK_LIBRARIES})
@@ -144,7 +144,7 @@ target_link_libraries(unitTests PRIVATE Microsoft.GSL::GSL)
 # the CONFIG is used to comply the website explanations
 # https://github.com/azadkuh/sqlite-amalgamation
 ################################################################################
-find_package(SQLite3 REQUIRED CONFIG)
+find_package(SQLite3 REQUIRED CONFIG) # see https://github.com/rhuijben/sqlite-amalgamation/issues/8 for getting the version
 target_link_libraries(mainLib PRIVATE SQLite::SQLite3)
 
 ################################################################################
@@ -172,13 +172,10 @@ target_link_libraries(mainLib PRIVATE stlab::stlab)
 target_link_libraries(unitTests PRIVATE stlab::stlab)
 
 ################################################################################
-# will use the utf8cpp library, so configure the project for it
-# need to have utf8cpp_DIR as an environment variable pointing to the dir where
-# the library has been installed
+# will use the utf8cpp library, which is a copy and paste header-only library.
+# it should be in src/main/cpp/thirdParties/utfcpp
 # https://github.com/nemtrif/utfcpp
 ################################################################################
-find_package(utf8cpp REQUIRED) # how to specify the version?
-target_link_libraries(unitTests PRIVATE utf8cpp)
 
 ################################################################################
 # if used with Microsoft Visual Studio, link statically, compile with max

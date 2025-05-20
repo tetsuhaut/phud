@@ -130,7 +130,7 @@ void App::importHistory(const fs::path& historyDir,
 void App::stopImportingHistory() {
   if (m_pImpl->m_pokerSiteHistory) { m_pImpl->m_pokerSiteHistory->stopLoading(); }
 
-  if (m_pImpl->m_loadTask.valid()) { stlab::await(m_pImpl->m_loadTask); }
+  if (m_pImpl->m_loadTask.valid()) { stlab::await(std::move(m_pImpl->m_loadTask)); }
 
   m_pImpl->m_loadTask.reset();
 }
