@@ -110,7 +110,7 @@ set(FLTK_SKIP_OPENGL true)
 find_package(FLTK 1.4.4 REQUIRED)
 # - FLTK cmake conf does not handle version :(
 if(FLTK_VERSION VERSION_LESS "1.4.4")
-  message(FATAL_ERROR "FLTK version '${FLTK_VERSION}' which is too old")
+  message(FATAL_ERROR "FLTK version '${FLTK_VERSION}' is too old")
 endif()
 target_include_directories(mainLib PRIVATE ${FLTK_INCLUDE_DIRS})
 target_link_libraries(mainLib PRIVATE ${FLTK_LIBRARIES})
@@ -166,9 +166,9 @@ target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 # will use the stlab library, so configure the project for it
 # needs to have stlab_DIR as an environment variable pointing to the dir where
 # the stlab 'libraries' library has been installed
-# also needs to have stlab-copy-on-write_DIR as an environment variable pointing
-# to the dir where the stlab 'copy-on-write' library has been installed
 # https://github.com/stlab/libraries
+# needs to have stlab-copy-on-write_DIR as an environment variable pointing o the*
+# dir where the stlab 'copy-on-write' library has been installed
 # https://github.com/stlab/copy-on-write
 ################################################################################
 find_package(stlab 2.0.2 REQUIRED)
