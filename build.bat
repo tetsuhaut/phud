@@ -1,10 +1,10 @@
-@ECHO OFF
 SETLOCAL
 IF NOT DEFINED COMPILER ECHO need to set the COMPILER environment variable && EXIT /B 1
 IF NOT DEFINED CMAKE_GENERATOR ECHO call build-*.bat instead && EXIT /B 1
 IF NOT DEFINED BUILD_DIR ECHO call build-*.bat instead && EXIT /B 1
 IF NOT DEFINED BIN_DIR ECHO call build-*.bat instead && EXIT /B 1
 
+ECHO checking for environment
 REM the *_DIR environment variables are hints to help CMake finding the libraries and include dirs
 REM one letter for the loop variable
 SETLOCAL enabledelayedexpansion
@@ -18,9 +18,11 @@ ENDLOCAL
 
 IF NOT EXIST %SCRIPTS_DIR%\timecmd.bat ECHO the script 'timecmd.bat' could not be found && EXIT /B 1
 
-IF EXIST %BUILD_DIR% (RMDIR /Q /S %BUILD_DIR%)
+IF EXIST %BUILD_DIR% (ECHO deleting build dir '%BUILD_DIR%' && RMDIR /Q /S %BUILD_DIR%)
+ECHO creating build dir '%BUILD_DIR%'
 MKDIR %BUILD_DIR%
 PUSHD %BUILD_DIR%
+ECHO calling cmake
 cmake -G %CMAKE_GENERATOR% %~dp0
 POPD
 ECHO ^pushd %CD% ^&^& ^format ^&^& ^popd > %BUILD_DIR%\format.bat
@@ -34,4 +36,4 @@ ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\sabre_laser.db -d %CD%\src\test\resources
 ECHO ^%BIN_DIR%\phud.exe > %BUILD_DIR%\phud.bat
 ECHO ^%BIN_DIR%\guiDryRun.exe > %BUILD_DIR%\guiDryRun.bat
 REM ENDLOCAL
-@ECHO ON
+ECHO done

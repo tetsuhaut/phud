@@ -128,7 +128,7 @@ static auto SRC_FILES {
 /** @returns all of the files that are nor in the src/main/cpp/thirdparty directory */
 [[nodiscard]] static inline std::vector<fs::path> getMySrcFiles(std::span<const fs::path> files) {
   return phud::algorithms::removeCopyIf<std::vector<fs::path>>(files, [](const auto & f) {
-    return ps::contains(f.string(), "thirdParty");
+    return ps::contains(f.string(), "thirdParties");
   });
 }
 

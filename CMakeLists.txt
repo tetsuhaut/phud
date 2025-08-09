@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14.4)
+cmake_minimum_required(VERSION 4.1.0)
 
 project(Poker_Head-Up_Display
  VERSION 0.0.2
@@ -78,7 +78,7 @@ target_compile_definitions(unitTests PRIVATE PHUD_TEST_SRC_DIR="${CMAKE_SOURCE_D
 
 ################################################################################
 # will use the Boost libraries, so configure the project for it
-# need to have Boost_DIR as an environment variable pointing to the dir where
+# needs to have Boost_DIR as an environment variable pointing to the dir where
 # the library has been installed
 # https://github.com/boostorg/test
 ################################################################################
@@ -91,25 +91,25 @@ set(Boost_USE_MULTITHREADED ON)
 set(Boost_USE_STATIC_RUNTIME ON)
 
 # specify which libraries to link with and corresponding include files
-find_package(Boost 1.88.0 REQUIRED COMPONENTS unit_test_framework)
+find_package(Boost CONFIG 1.88.0 REQUIRED COMPONENTS unit_test_framework)
 include_directories(${Boost_INCLUDE_DIRS})
 target_link_libraries(unitTests PRIVATE ${Boost_UNIT_TEST_FRAMEWORK_LIBRARY})
 
 ################################################################################
 # will use the FLTK libraries, so configure the project for it
-# need to have FLTK_DIR as an environment variable pointing to the dir where
+# needs to have FLTK_DIR as an environment variable pointing to the dir where
 # the library has been installed
 # notes:
 # - CMake's findFltk tool does not point on the installed version, so can't use it
-# - FLTK cmake conf does not handle version :(
 # https://github.com/fltk/fltk
 ################################################################################
 set(FLTK_SKIP_FORMS true)
 set(FLTK_SKIP_FLUID true)
 set(FLTK_SKIP_IMAGES true)
 set(FLTK_SKIP_OPENGL true)
-find_package(FLTK 1.4.3 REQUIRED)
-if(FLTK_VERSION VERSION_LESS "1.4.3")
+find_package(FLTK 1.4.4 REQUIRED)
+# - FLTK cmake conf does not handle version :(
+if(FLTK_VERSION VERSION_LESS "1.4.4")
   message(FATAL_ERROR "FLTK version '${FLTK_VERSION}' which is too old")
 endif()
 target_include_directories(mainLib PRIVATE ${FLTK_INCLUDE_DIRS})
@@ -117,17 +117,18 @@ target_link_libraries(mainLib PRIVATE ${FLTK_LIBRARIES})
 
 ################################################################################
 # will use the frozen library, so configure the project for it
-# need to have frozen_DIR as an environment variable pointing to the dir where
+# needs to have frozen_DIR as an environment variable pointing to the dir where
 # the library has been installed
 # https://github.com/serge-sans-paille/frozen
 ################################################################################
+# the version exported by the lib is erroneously 1.1.0 so use it anyway
 find_package(frozen 1.1.0 REQUIRED)
 target_link_libraries(mainLib PRIVATE frozen::frozen-headers)
 target_link_libraries(unitTests PRIVATE frozen::frozen-headers)
 
 ################################################################################
 # will use the GSL library, so configure the project for it
-# need to have Microsoft.GSL_DIR as an environment variable pointing to the dir
+# needs to have Microsoft.GSL_DIR as an environment variable pointing to the dir
 # where the library has been installed
 # https://github.com/microsoft/GSL
 ################################################################################
@@ -139,7 +140,7 @@ target_link_libraries(unitTests PRIVATE Microsoft.GSL::GSL)
 ################################################################################
 # will use the SQLite library, so configure the project for it
 # no way to specify the project version :(
-# need to have SQLite3_DIR as an environment variable pointing to the dir where
+# needs to have SQLite3_DIR as an environment variable pointing to the dir where
 # the file Sqlite3Config.cmake has been generated
 # the CONFIG is used to comply the website explanations
 # https://github.com/azadkuh/sqlite-amalgamation
@@ -149,12 +150,12 @@ target_link_libraries(mainLib PRIVATE SQLite::SQLite3)
 
 ################################################################################
 # will use the spdlog library, so configure the project for it
-# need to have Spdlog_DIR as an environment variable pointing to the dir where
+# needs to have Spdlog_DIR as an environment variable pointing to the dir where
 # the library has been installed.
 # Note: we'll use fmt from this lib.
 # https://github.com/gabime/spdlog
 ################################################################################
-find_package(spdlog 1.12.0 REQUIRED)
+find_package(spdlog 1.15.3 REQUIRED)
 target_link_libraries(dbgen PRIVATE spdlog::spdlog)
 target_link_libraries(guiDryRun PRIVATE spdlog::spdlog)
 target_link_libraries(mainLib PRIVATE spdlog::spdlog)
@@ -163,13 +164,17 @@ target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 
 ################################################################################
 # will use the stlab library, so configure the project for it
-# need to have stlab_DIR as an environment variable pointing to the dir where
-# the library has been installed
+# needs to have stlab_DIR as an environment variable pointing to the dir where
+# the stlab 'libraries' library has been installed
+# also needs to have stlab-copy-on-write_DIR as an environment variable pointing
+# to the dir where the stlab 'copy-on-write' library has been installed
 # https://github.com/stlab/libraries
+# https://github.com/stlab/copy-on-write
 ################################################################################
-find_package(stlab 1.7.1 REQUIRED)
+find_package(stlab 2.0.2 REQUIRED)
 target_link_libraries(mainLib PRIVATE stlab::stlab)
 target_link_libraries(unitTests PRIVATE stlab::stlab)
+# bug : https://github.com/stlab/libraries/issues/568
 
 ################################################################################
 # will use the utf8cpp library, which is a copy and paste header-only library.
