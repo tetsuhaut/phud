@@ -48,7 +48,7 @@ static constexpr std::string_view PMU_SITE_NAME {
 static constexpr std::string_view POKER_SITE_EXECUTABLE_STEMS[] {
   WINAMAX_EXECUTABLE_STEM, PMU_EXECUTABLE_STEM
 };
-} // ProgramInfos
+} // namespace ProgramInfos
 
 #undef PHUD_APP_VERSION
 #undef PHUD_APP_NAME_SHORT

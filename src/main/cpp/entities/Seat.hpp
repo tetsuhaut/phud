@@ -39,4 +39,4 @@ namespace tableSeat {
  * Transforms Seat::SeatOne into 0 and so on.
  */
 [[nodiscard]] std::size_t toArrayIndex(Seat seat);
-}
+} // namespace tableSeat

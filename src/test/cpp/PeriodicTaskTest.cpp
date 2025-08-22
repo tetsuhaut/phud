@@ -7,7 +7,7 @@ namespace {
 struct [[nodiscard]] StrContainer final {
   std::string str = "";
 }; // struct StrContainer
-}; // namespace
+} // anonymous namespace
 
 static constexpr std::chrono::milliseconds TB_PERIOD { 3000 };
 static constexpr std::chrono::milliseconds PT_PERIOD { 50 };

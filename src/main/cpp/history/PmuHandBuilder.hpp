@@ -38,4 +38,4 @@ template<typename GAME_TYPE> requires(std::is_same_v<GAME_TYPE, CashGame>
 
   if constexpr(std::is_same_v<GAME_TYPE, Tournament>) { return buildTournamentHand(tfl, pc); }
 }
-}; // PmuHandBuilder
+} // namespace PmuHandBuilder

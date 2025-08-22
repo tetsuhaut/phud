@@ -20,4 +20,4 @@ constexpr int statsHeight = 12;
 constexpr int playerNameHeight = 12;
 constexpr int height = 1 + statsHeight + 1 + playerNameHeight + 1;
 // constexpr int
-}
+} // namespace PlayerIndicatorWindow::surface

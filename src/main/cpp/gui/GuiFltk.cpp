@@ -20,14 +20,6 @@
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
 #  pragma warning(disable : 4191 4244 4365 4514 4625 4626 4820 5026 5027 )
-#elif defined(__MINGW32__) // removal of specific gcc warnings due to FLTK
-#  pragma GCC diagnostic push
-#  pragma GCC diagnostic ignored "-Wcast-function-type"
-#  pragma GCC diagnostic ignored "-Wsuggest-override"
-#  pragma GCC diagnostic ignored "-Wshadow"
-#  pragma GCC diagnostic ignored "-Wold-style-cast"
-#  pragma GCC diagnostic ignored "-Wsign-conversion"
-#  pragma GCC diagnostic ignored "-Weffc++"
 #endif  // _MSC_VER
 
 #include <FL/Enumerations.H> // Fl_Event
@@ -44,8 +36,6 @@
 
 #if defined(_MSC_VER)  // end of specific msvc warnings removal
 #  pragma warning(pop)
-#elif defined(__MINGW32__)
-#  pragma GCC diagnostic pop
 #endif  // _MSC_VER
 
 #include <windows.h> // RECT, GetWindowThreadProcessId, MAX_PATH, WindowFromPoint, GetWindowRect, GetWindowText, SetWindowPos
@@ -76,9 +66,9 @@ namespace {
     constexpr std::string_view gleam { "gleam" };
     constexpr std::string_view gtkplus { "gtk+" };
     constexpr std::string_view plastic { "plastic" };
-  }; // namespace FltkSkin
+  } // namespace FltkSkin
 
-}; // anonymous namespace
+} // anonymous namespace
 
 [[nodiscard]] static inline std::unique_ptr<Fl_Preferences> buildPreferences() {
   /* preference name, value, default value */

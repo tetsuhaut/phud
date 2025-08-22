@@ -73,7 +73,7 @@ namespace {
 struct [[nodiscard]] Params final {
   std::string_view value;
 }; // struct Params
-} // namespace
+} // anonymous namespace
 
 BOOST_AUTO_TEST_CASE(StringTest_passingStringViewStructAsParamShouldWork) {
   const auto& myFunction {

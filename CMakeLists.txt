@@ -26,6 +26,84 @@ option(CMAKE_ENCODING_UTF8 "Use UTF-8 encoding internally." ON)
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
+if(MSVC)
+  # use UTF-8 for source and execution with the MSVC compiler
+  add_compile_options(/utf-8)
+  
+
+  
+  # /Zc:__cplusplus: ask the compiler to fix the __cplusplus macro
+  add_compile_options(/MP # compile using multi processor
+                      /ZI # enable debug and continue
+                      /Gy # the linker will remove unused functions
+                      /EHsc # use standard exceptions
+                      /Zc:__cplusplus #ask the compiler to fix the __cplusplus macro
+                      /std:c++23preview)
+  # compile with lots of warnings
+  add_compile_options(/W4 # compile with lots of warnings
+                      /w14242 # implicit conversion
+                      /w14254 # type annotation
+                      /w14263 # buffer overflow
+                      /w14265 # missing virtual destructor
+                      /w14287 # unexpected dependencies
+                      /we4289
+                      /w14296
+                      /w14311
+                      /w14545
+                      /w14546
+                      /w14547
+                      /w14549
+                      /w14555
+                      /w14619
+                      /w14640
+                      /w14640
+                      /w14826
+                      /w14905
+                      /w14906
+                      /w14928
+                      /w35038
+                      /we4289)
+  # link statically with the compiler C runtime
+  set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
+else()
+  # compile with lots of warnings
+  add_compile_options(-Wall
+                      -Wextra
+                      -Wpedantic
+                      -Wconversion
+                      -Werror=unused-function
+                      -pedantic-errors
+                      -Wvla
+                      -Wextra-semi
+                      -Wnull-dereference
+                      -Wswitch-enum
+                      -Wno-deprecated
+                      -fno-elide-type
+                      -Wduplicated-cond
+                      -Wduplicated-branches
+                      -Wsuggest-override
+                      -Wshadow
+                      -Wnon-virtual-dtor
+                      -Wold-style-cast
+                      -Wcast-align
+                      -Wunused
+                      -Woverloaded-virtual
+                      -pedantic
+                      -Wconversion
+                      -Wsign-conversion
+                      -Wmisleading-indentation
+                      -Wduplicated-cond
+                      -Wduplicated-branches
+                      -Wlogical-op
+                      -Wnull-dereference
+                      -Wuseless-cast
+                      -Wdouble-promotion
+                      -Wformat=2
+                      -Weffc++)
+  # link statically with the compiler C runtime
+  # add_link_options(-static -static-libgcc -static-libstdc++)
+  add_link_options(-static -lstdc++exp)
+endif(MSVC)
 
 # where to produce executables and libraries
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin/${CMAKE_BUILD_TYPE})
@@ -89,6 +167,8 @@ add_definitions(-DBOOST_ALL_NO_LIB)
 set(Boost_USE_STATIC_LIBS ON)
 set(Boost_USE_MULTITHREADED ON)
 set(Boost_USE_STATIC_RUNTIME ON)
+set(Boost_NO_SYSTEM_PATHS ON)
+
 
 # specify which libraries to link with and corresponding include files
 find_package(Boost CONFIG 1.88.0 REQUIRED COMPONENTS unit_test_framework)
@@ -189,47 +269,26 @@ target_link_libraries(unitTests PRIVATE stlab::stlab)
 # see https://github.com/cpp-best-practices/cppbestpractices/blob/master/02-Use_the_Tools_Available.md
 ################################################################################
 if(MSVC)
-  set(CompilerFlags
-    CMAKE_CXX_FLAGS
-    CMAKE_CXX_FLAGS_DEBUG
-    CMAKE_CXX_FLAGS_RELEASE
-    CMAKE_CXX_FLAGS_MINSIZEREL
-    CMAKE_CXX_FLAGS_RELWITHDEBINFO
-    CMAKE_C_FLAGS
-    CMAKE_C_FLAGS_DEBUG
-    CMAKE_C_FLAGS_RELEASE
-    CMAKE_C_FLAGS_MINSIZEREL
-    CMAKE_C_FLAGS_RELWITHDEBINFO
-  )
-  foreach(CompilerFlag ${CompilerFlags})
-    string(REPLACE "/MD" "/MT" TMP "${${CompilerFlag}}")
-    set(${CompilerFlag} "${TMP}" CACHE STRING "" FORCE)
-    string(REGEX REPLACE "/W[0-4]" "/W4 /w35038 /w14640 /w14242 /w14254 /w14263 /w14265 /w14287 /we4289 /w14296 /w14311 /w14545 /w14546 /w14547 /w14549 /w14555 /w14619 /w14640 /w14826 /w14905 /w14906 /w14928" TMP "${${CompilerFlag}}")
-    set(${CompilerFlag} "${TMP}" CACHE STRING "" FORCE)
-  endforeach()
-  set_target_properties(dbgen PROPERTIES LINK_FLAGS /SUBSYSTEM:CONSOLE)
+  # dbgen writes to console
+  target_link_options(dbgen PRIVATE /DEBUG /SUBSYSTEM:CONSOLE)
+  # set phud as the Visual Studio startup project
   set_property(DIRECTORY PROPERTY VS_STARTUP_PROJECT phud)
-  
-  # use utf-8 without byte order mark, compile with multiple threads
-  # note : /INCREMENTAL is is implied for debug build
   # /fsanitize=address, /fsanitize=undefined, /fsanitize=memory, /fsanitize=thread, /fsanitize=leak, /fsanitize=hwaddress
   #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /utf-8 /MP /ZI /Gy /EHsc /Zc:__cplusplus /fsanitize=leak" CACHE STRING "" FORCE)
-  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /utf-8 /MP /ZI /Gy /EHsc /Zc:__cplusplus /std:c++23preview " CACHE STRING "" FORCE)
-  set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} /ignore:4099" CACHE STRING "" FORCE)
-
+  #set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} /ignore:4099" CACHE STRING "" FORCE)
   # target_compile_options(mainLib PRIVATE -fsanitize=address,undefined)
   # target_compile_options(phud PRIVATE -fsanitize=address,undefined)
   # target_compile_options(dbgen PRIVATE -fsanitize=address,undefined)
   # target_compile_options(guiDryRun PRIVATE -fsanitize=address,undefined)
   # target_compile_options(unitTests PRIVATE -fsanitize=address,undefined)
+  #target_compile_options(${target_name} PRIVATE -fno-sanitize=signed-integer-overflow)
   target_compile_definitions(mainLib PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(phud PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(dbgen PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(guiDryRun PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(unitTests PRIVATE _MSVC_STL_HARDENING=1)
-
-  #target_compile_options(${target_name} PRIVATE -fno-sanitize=signed-integer-overflow)
-
+  # we want to statically link with the compiler runtime
+  set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
 ################################################################################
 # if used with MinGW, link statically, compile with max warnings, do not show
 # the console window for phud.exe, use the Windows API, the thread API
@@ -238,10 +297,7 @@ if(MSVC)
 # https://sourceforge.net/p/mingw-w64/mailman/mingw-w64-public/thread/575d13dd.430ac20a.33013.1aa0@mx.google.com/
 ################################################################################
 else()
-   # -Werror=conversion breaks compilation because of Boost
-  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++2a -Wall -Wextra -Wpedantic -Werror=unused-function -pedantic-errors -Wvla -Wextra-semi -Wnull-dereference -Wswitch-enum -Wno-deprecated -fno-elide-type -Wduplicated-cond -Wduplicated-branches -Wsuggest-override -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -pedantic -Wconversion -Wsign-conversion -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -Wuseless-cast -Wdouble-promotion -Wformat=2 -Weffc++")
-  set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -static")
-  target_link_libraries(mainLib PRIVATE "-lpsapi -pthread")
+  target_link_libraries(mainLib PRIVATE "-lpsapi -pthread -lstdc++exp")
   #target_link_libraries(phud PRIVATE -mwindows)
   add_definitions(-DWIN32)
 endif(MSVC)

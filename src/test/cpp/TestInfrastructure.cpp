@@ -13,20 +13,8 @@
 #include "log/Logger.hpp" // fmt::format(), LoggingLevel
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/ThreadPool.hpp"
-
 #include <boost/test/debug.hpp> // detect_memory_leaks()
-
-#if defined(__MINGW32__) // removal of specific gcc warnings
-#  pragma GCC diagnostic push
-#  pragma GCC diagnostic ignored "-Wsuggest-override"
-#endif //__MINGW32__
-
 #include <boost/test/unit_test_parameters.hpp>
-
-#if defined(__MINGW32__)
-#  pragma GCC diagnostic pop
-#endif //__MINGW32__
-
 #include <fstream> // std::ofstream
 #include <source_location>
 #include <system_error> // std::error_code
@@ -67,7 +55,7 @@ BOOST_GLOBAL_FIXTURE(GlobalFixture);
 namespace {
 struct IsFile final {};
 struct IsDir final {};
-};
+} // anonymous namespace
 
 template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
 [[nodiscard]] static inline fs::path getGenericFileFromTestResources(const auto& file) {

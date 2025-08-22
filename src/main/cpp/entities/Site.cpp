@@ -1,6 +1,5 @@
 #include "entities/Game.hpp" // CashGame, Tournament
-#include "entities/Player.hpp"
-#include "entities/Site.hpp" // Site
+#include "entities/Site.hpp" // Site, Player
 #include "language/assert.hpp" // phudAssert
 
 #include <algorithm> // std::transform

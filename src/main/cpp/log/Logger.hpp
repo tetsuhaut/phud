@@ -109,6 +109,6 @@ template <typename T, T v>
 struct [[nodiscard]] ConstexprValue final {
   static constexpr T value = v;
 }; // struct ConstexprValue
-}; // namespace utility
+} // namespace utility
 
 #define CURRENT_FILE_NAME &__FILE__[::utility::ConstexprValue<std::size_t, getFileNameOffset(__FILE__)>::value]

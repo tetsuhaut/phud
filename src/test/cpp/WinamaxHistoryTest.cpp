@@ -15,7 +15,7 @@ namespace pt = phud::test;
 namespace phud::algorithms {
 template<typename CONTAINER, typename FUNCTION>
 [[nodiscard]] bool noneOf(const CONTAINER& c, FUNCTION f) noexcept { return std::none_of(std::begin(c), std::end(c), f); }
-}; // namespace phud::algorithms
+} // namespace phud::algorithms
 
 BOOST_AUTO_TEST_SUITE(WinamaxHistoryTest)
 

@@ -1,6 +1,4 @@
 #include "db/Database.hpp"
-#include "entities/Game.hpp" // needed as Site declares incomplete CashGame type
-#include "entities/Player.hpp" // needed as Site declares incomplete Player type
 #include "entities/Site.hpp"
 #include "filesystem/FileWatcher.hpp"
 #include "gui/Gui.hpp"
@@ -37,6 +35,37 @@ struct [[nodiscard]] App::Implementation final {
 
   Implementation(std::string_view databaseName)
     : m_model { std::make_unique<Database>(databaseName) } {}
+
+  [[nodiscard]] static inline TableStatistics extractTableStatistics(auto& self,
+      std::string_view table) {
+    if (auto stats { self.m_model->readTableStatistics({.site = "Winamax", .table = table}) };
+        stats.isValid()) {
+      LOG.debug<"Got stats from db.">();
+      return stats;
+    } else {
+      LOG.debug<"Got no stats from db yet for table {} on site {}.">(table, "Winamax");
+      return TableStatistics();
+    }
+  }
+
+  /**
+   *  on regarde les fichiers dans l'historique, on recharge ceux qui sont mis à jour
+   * on notifie l'observer (le GUI) des nouvelles stats
+   */
+  static void watchHistoFile(App::Implementation& self, const fs::path& file,
+                                    std::string table, auto observer) {
+    self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
+    self.m_fileWatcher->start([&self, table, &observer](const fs::path & f) {
+      self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
+        LOG.debug<"Notified, reloading the file\n{}">(f.string());
+        return self.m_pokerSiteHistory->reloadFile(f);
+      })
+      .then([&self](const auto & pSite) { self.m_model->save(*pSite); })
+      .then([&self, table]() { return extractTableStatistics(self, table); })
+      .then([&self, &observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
+    });
+    self.m_gui->informUser(fmt::format("Watching the file {}", file.filename().string()));
+  }
 };
 
 App::App(std::string_view databaseName)
@@ -53,18 +82,6 @@ App::~App() {
   }
 }
 
-static inline [[nodiscard]] TableStatistics extractTableStatistics(auto& self,
-    std::string_view table) {
-  if (auto stats { self.m_model->readTableStatistics({.site = "Winamax", .table = table}) };
-      stats.isValid()) {
-    LOG.debug<"Got stats from db.">();
-    return stats;
-  } else {
-    LOG.debug<"Got no stats from db yet for table {} on site {}.">(table, "Winamax");
-    return TableStatistics();
-  }
-}
-
 static inline void notify(TableStatistics&& stats, auto observer) {
   if (Seat::seatUnknown == stats.getMaxSeat()) {
     LOG.debug<"Got no stats from db.">();
@@ -72,23 +89,6 @@ static inline void notify(TableStatistics&& stats, auto observer) {
     LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
     observer(std::move(stats));
   }
-}
-
-// on regarde les fichiers dans l'historique, on recharge ceux qui sont mis à jour
-// on notifie l'observer (le GUI) des nouvelles stats
-static inline void watchHistoFile(App::Implementation& self, const fs::path& file,
-                                  std::string table, auto observer) {
-  self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
-  self.m_fileWatcher->start([&self, table, &observer](const fs::path & f) {
-    self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
-      LOG.debug<"Notified, reloading the file\n{}">(f.string());
-      return self.m_pokerSiteHistory->reloadFile(f);
-    })
-    .then([&self](const auto & pSite) { self.m_model->save(*pSite); })
-    .then([&self, table]() { return extractTableStatistics(self, table); })
-    .then([&self, &observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
-  });
-  self.m_gui->informUser(fmt::format("Watching the file {}", file.filename().string()));
 }
 
 int App::showGui() { /*override*/
@@ -144,7 +144,7 @@ std::string App::startProducingStats(std::string_view tableWindowTitle,
   if (h.empty()) { return fmt::format("Couldn't get history file for table '{}'", tableWindowTitle); }
 
   const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
-  watchHistoFile(*m_pImpl, h, std::string(tableName), observer);
+  App::Implementation::watchHistoFile(*m_pImpl, h, std::string(tableName), observer);
   return "";
 }
 

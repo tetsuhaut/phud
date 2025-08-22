@@ -13,4 +13,4 @@ template<typename F, typename... ARGS>
 }
 
 inline void stop() { stlab::pre_exit(); }
-}; // namespace ThreadPool
+} // namespace ThreadPool

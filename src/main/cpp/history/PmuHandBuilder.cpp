@@ -339,7 +339,7 @@ std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCach
   seekToDealingDownCards(tf);
   tf.next();
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
-  auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
+  auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params p { .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
                    .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate, .seatPlayers = seatPlayers,
@@ -375,7 +375,7 @@ PlayerCache& cache) {
   seekToDealingDownCards(tf);
   tf.next();
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
-  auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
+  auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params params { .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
                         .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate, .seatPlayers = seatPlayers,

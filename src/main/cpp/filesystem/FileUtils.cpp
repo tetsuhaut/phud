@@ -34,7 +34,7 @@ public:
 using DirIt = FilesInDir<fs::directory_iterator>;
 using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
 
-}; // namespace
+} // anonymous namespace
 
 // use std::filesystem::path as std needs it
 std::string phud::filesystem::readToString(const fs::path& p) {

@@ -6,10 +6,8 @@
 
 #if defined(__MINGW32__) // removal of specific gcc warnings due to Boost
 #  pragma GCC diagnostic push
-#  pragma GCC diagnostic ignored "-Wshadow"
 #  pragma GCC diagnostic ignored "-Wold-style-cast"
 #  pragma GCC diagnostic ignored "-Weffc++"
-#  pragma GCC diagnostic ignored "-Wuseless-cast"
 #endif  // __MINGW32__
 
 #include <boost/stacktrace.hpp> // boost::stacktrace

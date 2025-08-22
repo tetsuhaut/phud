@@ -4,8 +4,10 @@
 #include <string>
 #include <string_view>
 #include <unordered_map>
+#include <vector>
 
-class Player;
+#include "entities/Player.hpp" // used in a std::unordered_map so must be a complete type
+
 class CashGame;
 class Tournament;
 

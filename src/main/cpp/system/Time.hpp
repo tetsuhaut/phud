@@ -5,7 +5,7 @@
 #include <memory> // std::unique_ptr
 
 // forward declaration
-namespace std { using ::tm; };
+namespace std { using ::tm; }
 
 class [[nodiscard]] Time final { /* copyable */
 private:

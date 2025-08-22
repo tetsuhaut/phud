@@ -13,7 +13,7 @@ public:
     return boost::make_iterator_range(v.begin(), v.end());
   }
 }; // class Owner
-}; // namespace
+} // anonymous namespace
 
 BOOST_AUTO_TEST_SUITE(RangeTest)
 

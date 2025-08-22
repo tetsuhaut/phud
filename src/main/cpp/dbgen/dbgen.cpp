@@ -19,7 +19,7 @@ struct [[nodiscard]] LoggingConfig final {
   LoggingConfig() { Logger::setupConsoleWarnLogging("%v"); }
   ~LoggingConfig() { Logger::shutdownLogging(); }
 }; // struct LoggingConfig
-}; // anonymous namespace
+} // anonymous namespace
 
 [[nodiscard]] static inline std::optional<std::pair<fs::path, fs::path>> getOptionalDbAndHistory(
 std::span<const char* const> args) {

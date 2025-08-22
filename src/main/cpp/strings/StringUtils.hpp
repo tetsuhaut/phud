@@ -29,6 +29,6 @@ template <typename CHAR, std::size_t SIZE>
 [[nodiscard]] std::string_view trim(std::string_view s);
 [[nodiscard]] double toAmount(std::string_view amount);
 [[nodiscard]] double toBuyIn(std::string_view buyIn);
-}; // namespace phud::strings
+} // namespace phud::strings
 
 [[nodiscard]] inline bool notFound(std::string_view::size_type st) { return std::string_view::npos == st; }

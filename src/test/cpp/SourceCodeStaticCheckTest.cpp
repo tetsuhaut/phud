@@ -81,7 +81,7 @@ template<typename CONTAINER_OUTPUT, typename CONTAINER_INPUT, typename UNARY_PRE
   ret.shrink_to_fit();
   return ret;
 }
-}; // namespace phud::algorithms
+} // namespace phud::algorithms
 
 static std::array<fs::path, 2> SRC_DIRS { pt::getMainCppDir(), pt::getTestCppDir() };
 
@@ -187,7 +187,7 @@ public:
 } beforeClass;
 
 enum class LineType : short { none, pragmaOnce, other };
-} // namespace
+} // anonymous namespace
 
 [[nodiscard]] static inline bool isAComment(const TextFile& tfl) {
   return tfl.startsWith("//") or tfl.startsWith("/*");

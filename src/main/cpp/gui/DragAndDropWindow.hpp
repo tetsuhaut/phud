@@ -5,16 +5,6 @@
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
 #  pragma warning(disable : 26451 4458 26812 4244)
-#elif defined(__MINGW32__) // removal of specific gcc warnings due to FLTK
-#  pragma GCC diagnostic push
-#  pragma GCC diagnostic ignored "-Wcast-function-type"
-#  pragma GCC diagnostic ignored "-Wsuggest-override"
-#  pragma GCC diagnostic ignored "-Wshadow"
-#  pragma GCC diagnostic ignored "-Wold-style-cast"
-#  pragma GCC diagnostic ignored "-Wsign-conversion"
-#  pragma GCC diagnostic ignored "-Weffc++"
-#  pragma GCC diagnostic ignored "-Wuseless-cast"
-#  pragma GCC diagnostic ignored "-Wextra-semi"
 #endif  // _MSC_VER
 
 #include <FL/Enumerations.H> // Fl_Event
@@ -23,8 +13,6 @@
 
 #if defined(_MSC_VER)  // end of specific msvc warnings removal
 #  pragma warning(pop)
-#elif defined(__MINGW32__)
-#  pragma GCC diagnostic pop
 #endif  // _MSC_VER
 
 #include <functional> // std::function

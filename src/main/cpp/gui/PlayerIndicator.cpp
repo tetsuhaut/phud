@@ -7,19 +7,12 @@
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
 #  pragma warning(disable : 4191 4244 4365 4514 4625 4626 4820 5026 5027 )
-#elif defined(__MINGW32__) // removal of specific gcc warnings due to FLTK
-#  pragma GCC diagnostic push
-#  pragma GCC diagnostic ignored "-Wsuggest-override"
-#  pragma GCC diagnostic ignored "-Wold-style-cast"
-#  pragma GCC diagnostic ignored "-Wuseless-cast"
 #endif  // _MSC_VER
 
 #include <FL/Fl_Box.H>
 
 #if defined(_MSC_VER)  // end of specific msvc warnings removal
 #  pragma warning(pop)
-#elif defined(__MINGW32__)
-#  pragma GCC diagnostic pop
 #endif  // _MSC_VER
 
 namespace piws = PlayerIndicatorWindow::surface;

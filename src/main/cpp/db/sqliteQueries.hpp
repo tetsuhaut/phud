@@ -274,4 +274,4 @@ static constexpr std::string_view CREATE_QUERIES[] {
   CREATE_HAND_PLAYER
 };
 
-} // end of namespace phud::sql
+} // namespace phud::sql
