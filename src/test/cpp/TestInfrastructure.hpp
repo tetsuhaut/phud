@@ -5,14 +5,6 @@
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
 #  pragma warning(disable : 4619 26495)
-#elif defined(__MINGW32__) // removal of specific gcc warnings due to FLTK
-#  pragma GCC diagnostic push
-#  pragma GCC diagnostic ignored "-Wcast-function-type"
-#  pragma GCC diagnostic ignored "-Wsuggest-override"
-#  pragma GCC diagnostic ignored "-Wshadow"
-// #  pragma GCC diagnostic ignored "-Wold-style-cast"
-// #  pragma GCC diagnostic ignored "-Wsign-conversion"
-// #  pragma GCC diagnostic ignored "-Weffc++"
 #endif  // _MSC_VER
 
 #include <boost/test/unit_test.hpp>

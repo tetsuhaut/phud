@@ -263,18 +263,18 @@ struct [[nodiscard]] UpdatePlayerIndicatorsArgs final {
 * 1 < nbSeats < 11
 */
 static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
-  const auto args { std::move(static_cast<UpdatePlayerIndicatorsArgs*>(hidden)) };
-  phudAssert(nullptr != args->m_ps, "ps nullptr dans updatePlayerIndicatorsAwakeCb");
-  auto& playerIndicator { getPlayerIndicator(args->m_self, args->m_seat) };
+  const std::unique_ptr<UpdatePlayerIndicatorsArgs> pArgs(static_cast<UpdatePlayerIndicatorsArgs*>(hidden));
+  phudAssert(nullptr != pArgs->m_ps, "ps nullptr dans updatePlayerIndicatorsAwakeCb");
+  auto& playerIndicator { getPlayerIndicator(pArgs->m_self, pArgs->m_seat) };
 
   if (nullptr == playerIndicator) {
-    playerIndicator = std::make_unique<PlayerIndicator>(args->m_pos, args->m_ps->getPlayerName());
+    playerIndicator = std::make_unique<PlayerIndicator>(pArgs->m_pos, pArgs->m_ps->getPlayerName());
   }
-  else if (args->m_ps->getPlayerName() != playerIndicator->getPlayerName()) {
-    playerIndicator->refresh(args->m_ps->getPlayerName());
+  else if (pArgs->m_ps->getPlayerName() != playerIndicator->getPlayerName()) {
+    playerIndicator->refresh(pArgs->m_ps->getPlayerName());
   }
 
-  playerIndicator->setStats(*args->m_ps);
+  playerIndicator->setStats(*pArgs->m_ps);
   setWindowOnTopMost(*playerIndicator);
   playerIndicator->show();
 }

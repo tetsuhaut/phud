@@ -58,14 +58,13 @@ public:
   ~Game();
 
   void addHand(std::unique_ptr<Hand> hand);
-  // gcc 10.2 can't do constexpr std::string
-  [[nodiscard]] /*constexpr*/ std::string getName() const noexcept { return m_name; }
+  [[nodiscard]] constexpr std::string getName() const noexcept { return m_name; }
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_isRealMoney; }
   [[nodiscard]] Time getStartDate() const noexcept { return m_startDate; }
   [[nodiscard]] std::vector<const Hand*> viewHands() const;
   [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const;
-  [[nodiscard]] /*constexpr*/ std::string getSiteName() const noexcept { return m_site; }
-  [[nodiscard]] /*constexpr*/ std::string getId() const noexcept { return m_id; }
+  [[nodiscard]] constexpr std::string getSiteName() const noexcept { return m_site; }
+  [[nodiscard]] constexpr std::string getId() const noexcept { return m_id; }
   [[nodiscard]] constexpr Variant getVariant() const noexcept { return m_variant; }
   [[nodiscard]] constexpr Limit getLimitType() const noexcept { return m_limitType; }
   [[nodiscard]] constexpr Seat getMaxNbSeats() const noexcept { return m_nbMaxSeats; }
@@ -97,17 +96,16 @@ public:
   Tournament& operator=(Tournament&&) = delete;
   ~Tournament();
   void addHand(std::unique_ptr<Hand> hand);
-  // gcc 10.2 can't do constexpr std::string
-  [[nodiscard]] /*constexpr*/ std::string getName() const noexcept { return m_game->getName(); }
-  [[nodiscard]] /*constexpr*/ bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
+  [[nodiscard]] constexpr std::string getName() const noexcept { return m_game->getName(); }
+  [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
   [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }
   [[nodiscard]] std::vector<const Hand*> viewHands() const { return m_game->viewHands(); }
   [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const { return m_game->viewHands(player); }
-  [[nodiscard]] /*constexpr*/ std::string getSiteName() const noexcept { return m_game->getSiteName(); }
-  [[nodiscard]] /*constexpr*/ std::string getId() const noexcept { return m_game->getId(); }
-  [[nodiscard]] /*constexpr*/ Variant getVariant() const noexcept { return m_game->getVariant(); }
-  [[nodiscard]] /*constexpr*/ Limit getLimitType() const noexcept { return m_game->getLimitType(); }
-  [[nodiscard]] /*constexpr*/ Seat getMaxNbSeats() const noexcept { return m_game->getMaxNbSeats(); }
+  [[nodiscard]] constexpr std::string getSiteName() const noexcept { return m_game->getSiteName(); }
+  [[nodiscard]] constexpr std::string getId() const noexcept { return m_game->getId(); }
+  [[nodiscard]] constexpr Variant getVariant() const noexcept { return m_game->getVariant(); }
+  [[nodiscard]] constexpr Limit getLimitType() const noexcept { return m_game->getLimitType(); }
+  [[nodiscard]] constexpr Seat getMaxNbSeats() const noexcept { return m_game->getMaxNbSeats(); }
   [[nodiscard]] constexpr double getBuyIn() const noexcept { return m_buyIn; }
 }; // class Tournament
 
@@ -139,17 +137,16 @@ public:
   CashGame& operator=(CashGame&&) = delete;
   ~CashGame();
   void addHand(std::unique_ptr<Hand> hand);
-  // gcc 10.2 can't do constexpr std::string
-  [[nodiscard]] /*constexpr*/ std::string getName() const noexcept { return m_game->getName(); }
-  [[nodiscard]] /*constexpr*/ bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
+  [[nodiscard]] constexpr std::string getName() const noexcept { return m_game->getName(); }
+  [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
   [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }
   [[nodiscard]] std::vector<const Hand*> viewHands() const { return m_game->viewHands(); }
   [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const { return m_game->viewHands(player); }
-  [[nodiscard]] /*constexpr*/ std::string getSiteName() const noexcept { return m_game->getSiteName(); }
-  [[nodiscard]] /*constexpr*/ std::string getId() const noexcept { return m_game->getId(); }
-  [[nodiscard]] /*constexpr*/ Variant getVariant() const noexcept { return m_game->getVariant(); }
-  [[nodiscard]] /*constexpr*/ Limit getLimitType() const noexcept { return m_game->getLimitType(); }
-  [[nodiscard]] /*constexpr*/ Seat getMaxNbSeats() const noexcept { return m_game->getMaxNbSeats(); }
+  [[nodiscard]] constexpr std::string getSiteName() const noexcept { return m_game->getSiteName(); }
+  [[nodiscard]] constexpr std::string getId() const noexcept { return m_game->getId(); }
+  [[nodiscard]] constexpr Variant getVariant() const noexcept { return m_game->getVariant(); }
+  [[nodiscard]] constexpr Limit getLimitType() const noexcept { return m_game->getLimitType(); }
+  [[nodiscard]] constexpr Seat getMaxNbSeats() const noexcept { return m_game->getMaxNbSeats(); }
   [[nodiscard]] constexpr double getSmallBlind() const noexcept { return m_smallBlind; }
   [[nodiscard]] constexpr double getBigBlind() const noexcept { return m_bigBlind; }
 }; // class CashGame

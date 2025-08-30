@@ -10,7 +10,7 @@
 #  pragma GCC diagnostic ignored "-Weffc++"
 #endif  // __MINGW32__
 
-#include <boost/stacktrace.hpp> // boost::stacktrace
+#include <boost/stacktrace.hpp> // as std::stacktrace does not work with gcc 15.2 on Windows
 
 #if defined(__MINGW32__) // end of specific gcc warnings removal
 #  pragma GCC diagnostic pop

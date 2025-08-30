@@ -4,6 +4,7 @@
 
 #include <cctype> // std::isspace
 #include <charconv> // std::from_chars
+#include <iostream> // std::cout
 
 template<typename T>
 static inline T toT(std::string_view s) {
@@ -32,15 +33,31 @@ std::string_view phud::strings::trim(std::string_view s) {
 double phud::strings::toDouble(std::string_view amount) {
   const auto str { phud::strings::trim(amount) };
   double ret { 0 };
-#if defined(_MSC_VER) // std::from_chars is not available for double on gcc 11.2.0 TODO est-ce tjrs d'actualite
-  std::from_chars(str.data(), str.data() + amount.size(), ret);
-#else
-#include <stdio.h>
+// TODO : si ça fonctionne avec gcc et msvc, enlever le code commenté
+//#if defined(_MSC_VER) // std::from_chars is not available for double on gcc 11.2.0
+  const auto result { std::from_chars(str.data(), str.data() + amount.size(), ret) };
+// #else
+// #include <stdio.h>
 
-  try { ret = std::stod(std::string(str)); }
-  catch (const std::invalid_argument&) { return 0.0; } // silent error
+  // try { ret = std::stod(std::string(str)); }
+  // catch (const std::invalid_argument&) { return 0.0; } // silent error
 
-#endif
+// #endif
+
+  if (result.ec == std::errc{}) {
+    std::cout << "Valeur: " << ret << std::endl;
+    std::cout << "Caractères traités: " << (result.ptr - str.data()) << '\n';
+    std::terminate();
+  }
+  else if (result.ec == std::errc::invalid_argument) {
+    std::cout << "Format invalide\n";
+    std::terminate();
+  }
+  else if (result.ec == std::errc::result_out_of_range) {
+    std::cout << "Valeur hors limites\n";
+    std::terminate();
+  }
+
   return ret;
 }
 
