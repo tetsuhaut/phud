@@ -240,7 +240,7 @@ Database::~Database() {
       LOG.error<"Couldn't fetch the error message.">();
       threw = true;
     }
-    if (false == threw && nullptr != pErrMsg) {
+    if (false == threw and nullptr != pErrMsg) {
       LOG.error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
     }
   }

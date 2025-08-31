@@ -1,6 +1,15 @@
 #pragma once
 
+#if defined(__MINGW32__) // removal of specific gcc warnings due to clamp-cast
+#  pragma GCC diagnostic push
+#  pragma GCC diagnostic ignored "-Wdouble-promotion"
+#endif  // __MINGW32__
+
 #include "language/clamp-cast.hpp"
+
+#if defined(__MINGW32__) // end of specific gcc warnings removal
+#  pragma GCC diagnostic pop
+#endif  // _MSC_VER
 
 #include <cstddef> // std::ptrdiff_t
 #include <concepts> // std::same_as
