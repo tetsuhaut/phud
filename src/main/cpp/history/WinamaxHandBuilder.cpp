@@ -355,9 +355,7 @@ std::unique_ptr<Hand> WinamaxHandBuilder::buildTournamentHand(TextFile& tf, Play
 }
 
 std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
-    WinamaxHandBuilder::buildCashgameHandAndGameData(
-      TextFile& tf,
-PlayerCache& pc) {
+    WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf, PlayerCache& pc) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   const auto& [smallBlind, bigBlind, date, handId] { getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(tf.getLine()) };
   auto pHand { getHand<GameType::cashGame>(tf, pc, 0, date, handId) };

@@ -29,9 +29,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 if(MSVC)
   # use UTF-8 for source and execution with the MSVC compiler
   add_compile_options(/utf-8)
-  
-
-  
   # /Zc:__cplusplus: ask the compiler to fix the __cplusplus macro
   add_compile_options(/MP # compile using multi processor
                       /ZI # enable debug and continue
@@ -99,7 +96,9 @@ else()
                       -Wuseless-cast
                       -Wdouble-promotion
                       -Wformat=2
-                      -Weffc++)
+                      -Weffc++
+                      -finput-charset=UTF-8
+                      -fexec-charset=UTF-8)
   # link statically with the compiler C runtime
   # add_link_options(-static -static-libgcc -static-libstdc++)
   add_link_options(-static -lstdc++exp)
@@ -143,9 +142,14 @@ target_include_directories(unitTests PRIVATE src/main/cpp)
 target_link_libraries(unitTests PRIVATE mainLib)
 
 # pass informations to the source code
+# on Windows, avoid interference between min and max macros and std::numeric_limits<>
+target_compile_definitions(mainLib PUBLIC NOMINMAX)
+target_compile_definitions(unitTests PUBLIC NOMINMAX)
+# provide application version number and name
 target_compile_definitions(mainLib PUBLIC PHUD_APP_VERSION="${CMAKE_PROJECT_VERSION}")
 target_compile_definitions(mainLib PUBLIC PHUD_APP_NAME_SHORT="phud")
 target_compile_definitions(mainLib PUBLIC PHUD_APP_NAME_LONG="Poker Head-Up Display")
+# tell the test code where is the source code
 target_compile_definitions(unitTests PRIVATE PHUD_MAIN_SRC_DIR="${CMAKE_SOURCE_DIR}/src/main/cpp/")
 target_compile_definitions(unitTests PRIVATE PHUD_TEST_RESOURCE_DIR="${CMAKE_SOURCE_DIR}/src/test/resources/")
 target_compile_definitions(unitTests PRIVATE PHUD_TEST_SRC_DIR="${CMAKE_SOURCE_DIR}/src/test/cpp/")
@@ -247,14 +251,39 @@ target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 # needs to have stlab_DIR as an environment variable pointing to the dir where
 # the stlab 'libraries' library has been installed
 # https://github.com/stlab/libraries
-# needs to have stlab-copy-on-write_DIR as an environment variable pointing o the*
-# dir where the stlab 'copy-on-write' library has been installed
-# https://github.com/stlab/copy-on-write
 ################################################################################
-find_package(stlab 2.0.2 REQUIRED)
-target_link_libraries(mainLib PRIVATE stlab::stlab)
-target_link_libraries(unitTests PRIVATE stlab::stlab)
-# bug : https://github.com/stlab/libraries/issues/568
+# bugged since 2.1.1 :-(
+# bug : https://github.com/stlab/libraries/issues/575
+# find_package(stlab 2.0.2 REQUIRED)
+# target_link_libraries(mainLib PRIVATE stlab::stlab)
+# target_link_libraries(unitTests PRIVATE stlab::stlab)
+
+set(STLAB_BUILD_DIR $ENV{stlab_DIR})
+
+if(NOT STLAB_BUILD_DIR)
+  message(FATAL_ERROR "The env variable stlab_DIR is missing")
+endif()
+if(NOT EXISTS "${STLAB_BUILD_DIR}")
+  message(FATAL_ERROR "The $stlab_DIR dir does not exist: ${STLAB_BUILD_DIR}")
+endif()
+
+set(STLAB_INCLUDE_DIR1 "${STLAB_BUILD_DIR}/include")
+set(STLAB_INCLUDE_DIR2 "${STLAB_BUILD_DIR}/../libraries-2.1.1/include")
+find_library(STLAB_LIBRARY
+    NAMES stlab libstlab
+    PATHS "${STLAB_BUILD_DIR}"
+    NO_DEFAULT_PATH
+)
+if(NOT STLAB_LIBRARY)
+  message(FATAL_ERROR "Did not find the stlab library in ${STLAB_BUILD_DIR}")
+endif()
+add_library(stlab STATIC IMPORTED)
+set_target_properties(stlab PROPERTIES
+    IMPORTED_LOCATION "${STLAB_LIBRARY}"
+    INTERFACE_INCLUDE_DIRECTORIES "${STLAB_INCLUDE_DIR1};${STLAB_INCLUDE_DIR2}"
+)
+target_link_libraries(mainLib PRIVATE stlab)
+target_link_libraries(unitTests PRIVATE stlab)
 
 ################################################################################
 # will use the utf8cpp library, which is a copy and paste header-only library.

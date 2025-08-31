@@ -30,8 +30,8 @@ WinamaxHistory::WinamaxHistory() noexcept : m_pImpl { std::make_unique<Implement
 WinamaxHistory::~WinamaxHistory() {
   try {
     stopLoading();
-  } catch (...) {
-    std::exit(4);
+  } catch (...) { // can't throw in a destructor
+    LOG.error<"Unknown Error raised by WinamaxHistory::stopLoading().">();
   }
 }
 
@@ -154,7 +154,7 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
       return ret;
     }
 
-    LOG.info<" file{} to load.">(files.size(), ps::plural(files.size()));
+    LOG.info<"{} file{} to load.">(files.size(), ps::plural(files.size()));
     m_pImpl->m_tasks = parseFilesAsync(files, m_pImpl->m_stop, incrementCb);
     LOG.info<"Waiting for the end of loading.">();
     std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto & task) {

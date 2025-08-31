@@ -263,8 +263,8 @@ struct [[nodiscard]] UpdatePlayerIndicatorsArgs final {
 * 1 < nbSeats < 11
 */
 static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
-  const std::unique_ptr<UpdatePlayerIndicatorsArgs> pArgs(static_cast<UpdatePlayerIndicatorsArgs*>(hidden));
-  phudAssert(nullptr != pArgs->m_ps, "ps nullptr dans updatePlayerIndicatorsAwakeCb");
+  auto pArgs { std::unique_ptr<UpdatePlayerIndicatorsArgs>(static_cast<UpdatePlayerIndicatorsArgs*>(hidden)) };
+  phudAssert(nullptr != pArgs->m_ps, "pArgs->m_ps is nullptr in updatePlayerIndicatorsAwakeCb");
   auto& playerIndicator { getPlayerIndicator(pArgs->m_self, pArgs->m_seat) };
 
   if (nullptr == playerIndicator) {

@@ -60,9 +60,10 @@ std::vector<const Hand*> Game::viewHands() const {
 }
 
 std::vector<const Hand*> Game::viewHands(std::string_view player) const {
-  auto r = m_hands | std::views::transform([](const auto & pHand) { return pHand.get(); }) |
-  std::views::filter([player](const auto & pHand) { return pHand->isPlayerInvolved(player); });
-  return {r.begin(), r.end()};
+  auto r { m_hands
+    | std::views::transform([](const auto& pHand) { return pHand.get(); })
+    | std::views::filter([player](const auto& pHand) { return pHand->isPlayerInvolved(player); }) };
+  return { r.begin(), r.end() };
 }
 
 Tournament::Tournament(const Params& p)

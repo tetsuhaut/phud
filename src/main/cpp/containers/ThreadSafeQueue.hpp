@@ -60,7 +60,7 @@ public:
     return m_queue.empty();
   }
 
-  [[nodiscard]] int size() const {
+  [[nodiscard]] std::size_t size() const {
     const std::lock_guard<std::mutex> lock(m_mutex);
     return m_queue.ssize();
   }

@@ -1,10 +1,12 @@
 #include "language/assert.hpp"
+#include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // std::string_view
 #include <gsl/gsl>
 
 #include <cctype> // std::isspace
 #include <charconv> // std::from_chars
-#include <iostream> // std::cout
+
+static Logger LOG { CURRENT_FILE_NAME };
 
 template<typename T>
 static inline T toT(std::string_view s) {
@@ -30,34 +32,30 @@ std::string_view phud::strings::trim(std::string_view s) {
   return s;
 }
 
+/**
+ * @returns the double corresponding to the given string.
+ * if amount is only digits: classic std::from_chars
+ * if amount is totally unparsable, return 0.
+ * if amount is a value ending with €, returns the value.
+ * examples :
+ * toDouble("abc") returns 0.0
+ * toDouble("42") returns 42.0
+ * toDouble("x42") returns 0.0
+ * toDouble("42aaa") returns 42.0
+ * toDouble("42€") returns 42.0
+ */
 double phud::strings::toDouble(std::string_view amount) {
   const auto str { phud::strings::trim(amount) };
   double ret { 0 };
-// TODO : si ça fonctionne avec gcc et msvc, enlever le code commenté
-//#if defined(_MSC_VER) // std::from_chars is not available for double on gcc 11.2.0
   const auto result { std::from_chars(str.data(), str.data() + amount.size(), ret) };
-// #else
-// #include <stdio.h>
 
-  // try { ret = std::stod(std::string(str)); }
-  // catch (const std::invalid_argument&) { return 0.0; } // silent error
-
-// #endif
-
-  if (result.ec == std::errc{}) {
-    std::cout << "Valeur: " << ret << std::endl;
-    std::cout << "Caractères traités: " << (result.ptr - str.data()) << '\n';
-    std::terminate();
+  if (result.ec == std::errc::result_out_of_range) {
+    LOG.error<"phud::strings::toDouble({})">(amount);
+    LOG.error<"amount in double: {}">(ret);
+    LOG.error<"Number of treated characters: {}">(result.ptr - str.data());
+    LOG.error<"Out of range value">();
+    std::exit(8);
   }
-  else if (result.ec == std::errc::invalid_argument) {
-    std::cout << "Format invalide\n";
-    std::terminate();
-  }
-  else if (result.ec == std::errc::result_out_of_range) {
-    std::cout << "Valeur hors limites\n";
-    std::terminate();
-  }
-
   return ret;
 }
 

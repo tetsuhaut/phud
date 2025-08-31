@@ -74,11 +74,18 @@ App::App(std::string_view databaseName)
 App::~App() {
   try {
     if (nullptr != m_pImpl->m_fileWatcher) { m_pImpl->m_fileWatcher->stop(); }
-
+  } catch (...) { // can't throw in a destructor
+    LOG.error<"Unknown Error when stopping the file watch in the App destruction.">();
+  }
+  try {
     stopImportingHistory();
+  } catch (...) { // can't throw in a destructor
+    LOG.error<"Unknown Error when stopping the history import in the App destruction.">();
+  }
+  try {
     stopProducingStats();
-  } catch (...) {
-    std::exit(5);
+  } catch (...) { // can't throw in a destructor
+    LOG.error<"Unknown Error when stopping the stat production in the App destruction.">();
   }
 }
 

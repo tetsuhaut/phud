@@ -1,9 +1,12 @@
+#include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // std::string
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadPool.hpp" // Future, std::atomic_bool
 
 #include <condition_variable>
 #include <mutex>
+
+static Logger LOG { CURRENT_FILE_NAME };
 
 struct [[nodiscard]] PeriodicTask::Implementation final {
   Future<void> m_futureTaskResult {};
@@ -22,7 +25,13 @@ struct [[nodiscard]] PeriodicTask::Implementation final {
 PeriodicTask::PeriodicTask(std::chrono::milliseconds period, std::string_view taskName)
   : m_pImpl { std::make_unique<Implementation>(period, taskName) } {}
 
-PeriodicTask::~PeriodicTask() { try { stop(); } catch (...) { std::exit(6); } }
+PeriodicTask::~PeriodicTask() {
+  try {
+    stop();
+  } catch (...) {
+    LOG.error<"Unknown error during the stop of PeriodicTask.">();
+  }
+}
 
 void PeriodicTask::stop() {
   if (!m_pImpl->m_taskIsStopped) {

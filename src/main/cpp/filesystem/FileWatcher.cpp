@@ -42,9 +42,10 @@ static inline void getLatestUpdatedFile(const fs::path& file,
       std::forward<decltype(fileHasChangedCb)>(fileHasChangedCb)(file);
     }
   } else [[unlikely]] {
-      LOG.error<"Error checking if the file {} has changed: ">(file.string(), ec.message());
-    }
+    LOG.error<"Error checking if the file {} has changed: {}">(file.string(), ec.message());
   }
+}
+
 static inline void getLatestUpdatedFile(auto, fs::file_time_type&, auto&&) = delete;
 
 FileWatcher::FileWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& file)

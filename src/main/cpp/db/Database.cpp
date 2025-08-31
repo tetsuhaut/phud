@@ -123,11 +123,12 @@ public:
 
   ~Transaction() {
     if (!m_didCommit) {
-      // can't throw in a destructor
       try {
         executeSql(m_db, "ROLLBACK;");
-      } catch (...) {
-        std::exit(1);
+      } catch (const DatabaseException& e) {
+        LOG.error<"Error rollbacking transaction: {}">(e.what());
+      } catch (...) { // can't throw in a destructor
+        LOG.error<"Unknown Error rollbacking transaction.">();
       }
     }
   }
@@ -230,12 +231,17 @@ Database::Database(std::string_view dbName)
 
 Database::~Database() {
   if (SQLITE_OK != sqlite3_close(m_pImpl->m_database)) {
-    // can't throw in a destructor
+    LOG.error<"Unknown error when closing the database. Fetching the error message...">();
+    auto threw { false };
+    const char* pErrMsg { nullptr };
     try {
-      LOG.error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName,
-          sqlite3_errmsg(m_pImpl->m_database));
-    } catch (...) {
-      std::exit(2);
+      pErrMsg = sqlite3_errmsg(m_pImpl->m_database);
+    } catch (...) { // can't throw in a destructor
+      LOG.error<"Couldn't fetch the error message.">();
+      threw = true;
+    }
+    if (false == threw && nullptr != pErrMsg) {
+      LOG.error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
     }
   }
 }
@@ -406,11 +412,10 @@ public:
 
   ~PreparedStatement() {
     if (SQLITE_OK != sqlite3_finalize(m_pStatement)) {
-      // can't throw in a destructor
       try {
         LOG.error<"Can't close a prepared statement, database error is:\n{}">(sqlite3_errmsg(m_pDatabase));
-      } catch (...) {
-        std::exit(3);
+      } catch (...) { // can't throw in a destructor
+        LOG.error<"Can't close a prepared statement, database error is unknown.">();
       }
     }
   }

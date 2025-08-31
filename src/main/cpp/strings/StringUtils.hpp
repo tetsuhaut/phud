@@ -19,7 +19,18 @@ namespace phud::strings {
  */
 template <typename CHAR, std::size_t SIZE>
 [[nodiscard]] constexpr std::size_t length(const CHAR(&)[SIZE]) noexcept { return SIZE - 1; }
-
+/**
+ * @returns the double corresponding to the given string.
+ * if amount is only digits: classic std::from_chars
+ * if amount is totally unparsable, return 0.
+ * if amount is a value ending with €, returns the value.
+ * examples :
+ * toDouble("abc") returns 0.0
+ * toDouble("42") returns 42.0
+ * toDouble("x42") returns 0.0
+ * toDouble("42aaa") returns 42.0
+ * toDouble("42€") returns 42.0
+ */
 [[nodiscard]] double toDouble(std::string_view s);
 [[nodiscard]] int toInt(std::string_view s);
 [[nodiscard]] std::size_t toSizeT(std::string_view s);
