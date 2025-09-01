@@ -45,6 +45,7 @@ static inline gsl::not_null<sqlite3*> openDatabase(std::string_view dbName) {
   sqlite3* pDb { nullptr };
 
   if (SQLITE_OK != sqlite3_open(dbName.data(), &pDb)) {
+    sqlite3_close(pDb); // try to free pDb
     throw DatabaseException(fmt::format("Can't open database file '{}': {}",
                                         dbName, sqlite3_errmsg(pDb)));
   }
@@ -232,16 +233,11 @@ Database::Database(std::string_view dbName)
 Database::~Database() {
   if (SQLITE_OK != sqlite3_close(m_pImpl->m_database)) {
     LOG.error<"Unknown error when closing the database. Fetching the error message...">();
-    auto threw { false };
-    const char* pErrMsg { nullptr };
     try {
-      pErrMsg = sqlite3_errmsg(m_pImpl->m_database);
+      const auto pErrMsg { sqlite3_errmsg(m_pImpl->m_database) };
+      LOG.error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
     } catch (...) { // can't throw in a destructor
       LOG.error<"Couldn't fetch the error message.">();
-      threw = true;
-    }
-    if (false == threw and nullptr != pErrMsg) {
-      LOG.error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
     }
   }
 }
@@ -312,7 +308,7 @@ void Database::save(const Site& site) {
   const auto& cashGames { site.viewCashGames() };
   const auto& tournaments { site.viewTournaments() };
   auto tasks1 { saveGamesAsync(cashGames, *this) };
-  auto tasks2 = saveGamesAsync(tournaments, *this);
+  auto tasks2 { saveGamesAsync(tournaments, *this) };
   std::ranges::for_each(tasks1, [](auto & task) { stlab::await(std::move(task)); });
   std::ranges::for_each(tasks2, [](auto & task) { stlab::await(std::move(task)); });
   transaction.commit();

@@ -19,12 +19,19 @@ template<> inline std::string toString<std::size_t>(std::size_t s) { return std:
 template<> inline std::string toString<double>(double s) { return std::to_string(s); }
 template<> inline std::string toString<Seat>(Seat seat) { return tableSeat::toString(seat).data(); }
 
+static std::string_view isOk(std::string_view s) {
+  phudAssert(ps::contains(s, '('), "The given sqlTemplate should contain '('");
+  phudAssert(ps::contains(s, ')'), "The given sqlTemplate should contain ')'");
+  phudAssert(ps::contains(s, '?'), "The given sqlTemplate should contain '?'");
+  return s;
+}
+
 // sqlTemplate contains 'INSERT INTO <table> (<columns>) VALUES (<model of values>);'
 // or 'INSERT OR IGNORE INTO <table> (<columns>) VALUES (<model of values>);'
 // m_query contains 'INSERT INTO <table> (<columns>) VALUES '
 // m_valueModel contains <model of values>
 SqlInsertor::SqlInsertor(std::string_view sqlTemplate)
-  : m_query { sqlTemplate.substr(0, sqlTemplate.rfind('(')) },
+  : m_query { isOk(sqlTemplate).substr(0, sqlTemplate.rfind('(')) },
     m_valueModel { sqlTemplate.substr(sqlTemplate.rfind('(') + 1, sqlTemplate.rfind(')')
                                       - sqlTemplate.rfind('(') - 1) },
     m_values { m_valueModel } {
@@ -44,6 +51,7 @@ std::string SqlInsertor::build() {
 
 #define REPLACE_IN_VALUES(PLACE_HOLDER) \
   do { \
+    phudAssert(std::string::npos != m_values.find(PLACE_HOLDER), "m_values should contain " #PLACE_HOLDER); \
     m_values.replace(m_values.find(PLACE_HOLDER), ps::length(PLACE_HOLDER), toString(value)); \
     return *this; \
   } while (false)

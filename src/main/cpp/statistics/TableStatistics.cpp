@@ -34,7 +34,7 @@ static const auto MAX_SEAT_TO_TABLE_SEATS {
   })
 };
 
-/*[[nodiscard]]*/ std::vector<Seat> TableStatistics::getSeats() {
+/*[[nodiscard]]*/ std::vector<Seat> TableStatistics::getSeats() const {
   auto seat { getMaxSeat() };
   return MAX_SEAT_TO_TABLE_SEATS.find(seat)->second;
 }

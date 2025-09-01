@@ -40,7 +40,7 @@
 
 #include <windows.h> // RECT, GetWindowThreadProcessId, MAX_PATH, WindowFromPoint, GetWindowRect, GetWindowText, SetWindowPos
 #include <psapi.h>  // GetModuleFileNameEx
-#include <concepts>
+#include <concepts> // requires
 
 /*
 * From http://www.fltk.org/doc-1.3/advanced.html#advanced_multithreading:
@@ -69,6 +69,34 @@ namespace {
   } // namespace FltkSkin
 
 } // anonymous namespace
+
+/**
+ * Defines the concept of a function taking no argument and returning void
+ */
+template<typename F>
+concept VoidNullaryFunction = requires(F f) {
+  // calling f returns void
+  { f() } -> std::same_as<void>;
+} and std::is_invocable_v<F> and !std::is_invocable_v<F, int>;
+
+/**
+ * Schedules a function to be executed by the main GUI thread during the next message handling cycle.
+ * The function to be executed must take no argument
+ * @param aTask the function to be executed
+ */
+template<VoidNullaryFunction TASK> static void scheduleUITask(TASK&& aTask) {
+  using TaskType = std::decay_t<TASK>;
+  Fl::awake([](void* hiddenTask) {
+    auto task { std::unique_ptr<TaskType>(static_cast<TaskType*>(hiddenTask)) };
+    try {
+        (*task)();
+    } catch (const std::exception& e) {
+        LOG.error<"Error in UI task: {}">(e.what());
+    } catch (...) {
+        LOG.error<"Unknown error in UI task">();
+    }
+  }, std::make_unique<TaskType>(std::forward<TASK>(aTask)).release());
+}
 
 [[nodiscard]] static inline std::unique_ptr<Fl_Preferences> buildPreferences() {
   /* preference name, value, default value */
@@ -189,30 +217,19 @@ template <typename T>
 template<StringLiteral MSG>
 static inline void informUser(Gui::Implementation& aSelf) {
   LOG.debug<__func__>();
-  Fl::awake([](void* hiddenSelf) {
-    auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
-    self.m_infoBar->copy_label(MSG.value);
-    }, &aSelf);
+  scheduleUITask([&aSelf, msg = std::string(MSG.value)]() {
+    aSelf.m_infoBar->copy_label(msg.c_str());
+  });
 }
-
-struct [[nodiscard]] InformUserArgs final {
-  Gui::Implementation& m_self;
-  std::string m_msg;
-
-  InformUserArgs(Gui::Implementation& self, std::string_view msg)
-    : m_self(self),
-    m_msg(msg) {}
-};
 
 /**
 * Displays a message in the info bar.
 */
 static inline void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
   LOG.debug<__func__>();
-  Fl::awake([](void* hidden) {
-    auto pArgs { std::unique_ptr<InformUserArgs>(static_cast<InformUserArgs*>(hidden)) };
-    pArgs->m_self.m_infoBar->copy_label(pArgs->m_msg.data());
-    }, new InformUserArgs(aSelf, aMsg));
+  scheduleUITask([&aSelf, msg = std::string(aMsg)]() {
+    aSelf.m_infoBar->copy_label(msg.c_str());
+  });
 }
 
 /**
@@ -255,30 +272,6 @@ struct [[nodiscard]] UpdatePlayerIndicatorsArgs final {
   {}
 };
 
-/**
-* Called by the stat watcher (another thread) to notify of new stats. Will
-* update the PlayerIndicators with the latest stats.
-* tablePosition is copied
-* -1 < seat < nbSeats
-* 1 < nbSeats < 11
-*/
-static inline void updatePlayerIndicatorsAwakeCb(void* hidden) {
-  auto pArgs { std::unique_ptr<UpdatePlayerIndicatorsArgs>(static_cast<UpdatePlayerIndicatorsArgs*>(hidden)) };
-  phudAssert(nullptr != pArgs->m_ps, "pArgs->m_ps is nullptr in updatePlayerIndicatorsAwakeCb");
-  auto& playerIndicator { getPlayerIndicator(pArgs->m_self, pArgs->m_seat) };
-
-  if (nullptr == playerIndicator) {
-    playerIndicator = std::make_unique<PlayerIndicator>(pArgs->m_pos, pArgs->m_ps->getPlayerName());
-  }
-  else if (pArgs->m_ps->getPlayerName() != playerIndicator->getPlayerName()) {
-    playerIndicator->refresh(pArgs->m_ps->getPlayerName());
-  }
-
-  playerIndicator->setStats(*pArgs->m_ps);
-  setWindowOnTopMost(*playerIndicator);
-  playerIndicator->show();
-}
-
 struct [[nodiscard]] ResetPlayerIndicatorArgs final {
   Gui::Implementation& m_self;
   Seat m_seat;
@@ -287,12 +280,6 @@ struct [[nodiscard]] ResetPlayerIndicatorArgs final {
     : m_self(self),
     m_seat(seat) {}
 };
-
-static inline void resetPlayerIndicatorsAwakeCb(void* hidden) {
-  LOG.debug<__func__>();
-  auto rpi { std::unique_ptr<ResetPlayerIndicatorArgs>(static_cast<ResetPlayerIndicatorArgs*>(hidden)) };
-  getPlayerIndicator(rpi->m_self, rpi->m_seat).reset();
-}
 
 struct [[nodiscard]] UpdateTableArgs final {
   Gui::Implementation& m_self;
@@ -311,25 +298,34 @@ struct [[nodiscard]] UpdateTableArgs final {
  * Updates the statistics of all the PlayerIndicators of the table.
  * Called periodically by another thread.
  */
-static inline void updateTableAwakeCb(void* hidden) {
-  auto args { std::unique_ptr<UpdateTableArgs>(static_cast<UpdateTableArgs*>(hidden)) };
-  const auto heroSeat { args->m_tableStatistics.getHeroSeat() };
-  const auto& seats { args->m_tableStatistics.getSeats() };
+static inline void updateTableAwakeCb(Gui::Implementation& self, const phud::Rectangle& tablePosition,
+                                      TableStatistics&& tableStatistics) {
+  const auto heroSeat { tableStatistics.getHeroSeat() };
+  const auto& seats { tableStatistics.getSeats() };
 
   for (const auto& seat : seats) {
-    auto ps { args->m_tableStatistics.extractPlayerStatistics(seat) };
-
+    auto ps { tableStatistics.extractPlayerStatistics(seat) };
+    // clear player indicators
     if (nullptr == ps) {
-      Fl::awake(resetPlayerIndicatorsAwakeCb, new ResetPlayerIndicatorArgs(args->m_self, seat));
+      scheduleUITask([&self, seat]() { getPlayerIndicator(self, seat).reset(); });
     }
     else {
-      const auto& pos {
-        (Seat::seatUnknown == heroSeat) ?
-        buildPlayerIndicatorPosition(seat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
-        : buildPlayerIndicatorPosition(seat, heroSeat, args->m_tableStatistics.getMaxSeat(), args->m_tablePosition)
-      };
-      Fl::awake(updatePlayerIndicatorsAwakeCb, new UpdatePlayerIndicatorsArgs(args->m_self, seat, pos,
-        std::move(ps)));
+      const auto& pos { buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition) };
+      // update the PlayerIndicators with the latest stats.
+      // -1 < seat < nbSeats, 1 < nbSeats < 11
+      scheduleUITask([&self, seat, pos, ps = std::move(ps)]() {
+        auto& playerIndicator { getPlayerIndicator(self, seat) };
+
+        if (nullptr == playerIndicator) {
+          playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName());
+        }
+        else if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
+          playerIndicator->refresh(ps->getPlayerName());
+        }
+        playerIndicator->setStats(*ps);
+        setWindowOnTopMost(*playerIndicator);
+        playerIndicator->show();
+      });
     }
   }
 }
@@ -364,6 +360,8 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
   return ErrorOrRectangleAndName::err<"Could not get the chosen window handle.">();
 }
 
+
+
 /**
  * Called by the GUI (table chooser widget) when the user drags the table
  * chooser widget above a window and drops it.
@@ -379,17 +377,24 @@ static inline void tableChooserCb(Gui::Implementation& self, int x, int y) {
   else {
     const auto& [tablePosition, tableName] { errorOrResult.getRes() };
     informUser(self, fmt::format("The chosen poker table is '{}'", tableName));
-    self.m_tableChooser = nullptr;
-    setChooseTableButtonLabelToChoose(self);
+    scheduleUITask([&self]() {
+      self.m_tableChooser = nullptr;
+      setChooseTableButtonLabelToChoose(self);
+    });
     LOG.info<"Starting consuming stats.">();
+    const auto statObserver = [&self, tablePosition](TableStatistics&& ts) {
+      // to read table statistics, we need to extract data from it -> non const
+      scheduleUITask([&self, tablePosition, ts = std::move(ts)]() mutable {
+        updateTableAwakeCb(self, tablePosition, std::move(ts));
+      });
+    };
 
-    if (const auto& errMsg { self.m_app.startProducingStats(tableName,
-    [&self, tablePosition](TableStatistics&& ts) {
-    Fl::awake(updateTableAwakeCb, new UpdateTableArgs(self, tablePosition, std::move(ts)));
-    }) }; !errMsg.empty()) {
+    if (const auto& errMsg { self.m_app.startProducingStats(tableName, statObserver) }; !errMsg.empty()) {
       informUser(self, errMsg);
     }
-    else { self.m_stopHudBtn->activate(); }
+    else {
+      scheduleUITask([&self]() { self.m_stopHudBtn->activate(); });
+    }
   }
 }
 
@@ -461,73 +466,38 @@ static inline void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   while (Fl::first_window()) { Fl::first_window()->hide(); }
 }
 
-struct [[nodiscard]] NbFilesToLoadArgs final {
-  Fl_Progress* m_progressBar;
-  size_t m_nbFilesToLoad;
-};
-
-/**
- * Called by the GUI event loop when the history loader (another thread) notifies
- * of how many file will be loaded.
-*/
-static inline void setNbFilesToLoadAwakeCb(void* hidden) {
-  LOG.debug<__func__>();
-  auto args { std::unique_ptr<NbFilesToLoadArgs>(static_cast<NbFilesToLoadArgs*>(hidden)) };
-  args->m_progressBar->maximum(static_cast<float>(args->m_nbFilesToLoad));
-}
-
-/**
- * Called by the GUI event loop when the history loader (another thread) notifies
- * the loading has made progress.
- */
-static inline void incrementProgressBarAwakeCb(void* hidden) {
-  LOG.debug<__func__>();
-  auto& pb { *static_cast<Fl_Progress*>(hidden) };
-  pb.value(pb.value() + 1);
-  pb.copy_label(fmt::format("{}/{}", limits::toInt(pb.value()), limits::toInt(pb.maximum())).c_str());
-}
-
-/**
- * Called by the GUI event loop when the history loader (another thread) notifies
- * the loading is done.
- */
-static inline void finishHistoryLoadingAwakeCb(void* hidden) {
-  LOG.debug<__func__>();
-  static_cast<Fl_Button*>(hidden)->activate();
-}
-
-struct [[nodiscard]] ImportDirArgs final {
-  Gui::Implementation& m_self;
-  fs::path m_dir;
-
-  ImportDirArgs(Gui::Implementation& self, fs::path dir)
-    : m_self(self),
-    m_dir(dir) {}
-};
-
 /**
  * Called by the GUI event loop when the user chosed a valid history dir.
- * Starts the import process.
- * During the process, the other thread will call
- * - progressBarIncrementAwakeCb() (several times)
- * - setNbFilesToLoadAwakeCb() (once)
- * - historyLoadingDoneAwakeCb() (once)
- * can't use gsl::not_null due to signature being imposed by FLTK.
+ * Starts the import process for a valid history directory.
+ * Updates UI components and starts the background import.
  */
-static inline void importDirAwakeCb(void* hidden) {
+static inline void importDirAwakeCb(Gui::Implementation& self, fs::path dir) {
   LOG.debug<__func__>();
-  auto args { std::unique_ptr<ImportDirArgs>(static_cast<ImportDirArgs*>(hidden)) };
-  const auto& historyDir { args->m_dir.filename().string() };
+  const auto& historyDir { dir.filename().string() };
   LOG.info<"The import directory '{}' is valid">(historyDir);
-  /* the string is copied in the widget internal buffer*/
-  args->m_self.m_histoDirTextField->copy_label(historyDir.c_str());
-  args->m_self.m_progressBar->activate();
+  // UI update
+  scheduleUITask([&self, historyDir]() {
+      // the string is copied in the widget internal buffer
+      self.m_histoDirTextField->copy_label(historyDir.c_str());
+      self.m_progressBar->activate();
+    });
   LOG.info<"importing history">();
-  auto& self { args->m_self };
-  args->m_self.m_app.importHistory(args->m_dir,
-    [&self]() { Fl::awake(incrementProgressBarAwakeCb, self.m_progressBar); },
-    [&self](std::size_t nbFilesToLoad) { Fl::awake(setNbFilesToLoadAwakeCb, new NbFilesToLoadArgs(self.m_progressBar, nbFilesToLoad)); },
-    [&self]() { Fl::awake(finishHistoryLoadingAwakeCb, self.m_chooseTableBtn); });
+  // Called when the history loader (another thread) notifies the loading has made progress.
+  auto incrementCb = [&self]() {
+    scheduleUITask([&self]() {
+      auto& pb = *self.m_progressBar;
+      pb.value(pb.value() + 1);
+      pb.copy_label(fmt::format("{}/{}", limits::toInt(pb.value()), limits::toInt(pb.maximum())).c_str());
+    });
+  };
+  // called when the history loader (another thread) notifies of how many file will be loaded.
+  auto setNbFilesCb = [&self](std::size_t nbFilesToLoad) {
+    scheduleUITask([&self, nbFilesToLoad]() { self.m_progressBar->maximum(static_cast<float>(nbFilesToLoad)); });
+  };
+  // called when the history loader (another thread) notifies the loading is done.
+  auto doneCb = [&self]() { scheduleUITask([&self]() { self.m_chooseTableBtn->activate(); }); };
+  // start the import
+  self.m_app.importHistory(dir, incrementCb, setNbFilesCb, doneCb);
 }
 
 /**
@@ -548,7 +518,7 @@ static inline void choseHistoDirCb(Fl_Widget*, void* hiddenSelf) {
     if (AppInterface::isValidHistory(dir)) {
       saveToPreferences(*self.m_preferences, MainWindow::Label::preferencesKeyChosenDir,
         dir.string().c_str()); // to get const char*
-      Fl::awake(importDirAwakeCb, new ImportDirArgs(self, dir));
+      scheduleUITask([&self, dir]() { importDirAwakeCb(self, dir); });
     }
     else {
       LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());

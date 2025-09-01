@@ -60,9 +60,9 @@ public:
     return m_queue.empty();
   }
 
-  [[nodiscard]] std::size_t size() const {
+  [[nodiscard]] std::ptrdiff_t size() const {
     const std::lock_guard<std::mutex> lock(m_mutex);
-    return m_queue.ssize();
+    return std::ssize(m_queue);
   }
 }; // class LockFullThreadSafeQueue
 

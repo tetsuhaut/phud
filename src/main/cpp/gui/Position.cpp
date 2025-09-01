@@ -26,10 +26,11 @@ static constexpr auto NB_SEATS_TO_COEFF {
 };
 
 /**
-* Returns the PlayerIndicator position.
-* -1 < seat < tableMaxSeats
-* 1 < tableMaxSeats < 11
-*/
+  * Returns the PlayerIndicator position.
+  * -1 < seat < tableMaxSeats
+  * 1 < tableMaxSeats < 11
+  * Builds absolute seat position.
+  */
 [[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat,
     Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   assert(seat <= tableMaxSeats);
@@ -45,10 +46,13 @@ static constexpr auto NB_SEATS_TO_COEFF {
 [[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat_a,
     Seat heroSeat, Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   assert(seat_a <= tableMaxSeats);
-  assert(heroSeat <= tableMaxSeats);
-  // hero is always positionned at the bottom of the table
-  const auto max { tableSeat::toInt(tableMaxSeats) };
-  const auto seatTmp { tableSeat::toInt(seat_a) + max - tableSeat::toInt(heroSeat) };
-  const auto seat { tableSeat::fromInt((seatTmp > max) ? (seatTmp - max) : seatTmp) };
-  return buildPlayerIndicatorPosition(seat, tableMaxSeats, tablePos);
+  if (Seat::seatUnknown != heroSeat) {
+    assert(heroSeat <= tableMaxSeats);
+    // hero is always positionned at the bottom of the table
+    const auto max { tableSeat::toInt(tableMaxSeats) };
+    const auto seatTmp { tableSeat::toInt(seat_a) + max - tableSeat::toInt(heroSeat) };
+    const auto rotatedSeat { tableSeat::fromInt((seatTmp > max) ? (seatTmp - max) : seatTmp) };
+    return buildPlayerIndicatorPosition(rotatedSeat, tableMaxSeats, tablePos);
+  }
+  return buildPlayerIndicatorPosition(seat_a, tableMaxSeats, tablePos);
 }

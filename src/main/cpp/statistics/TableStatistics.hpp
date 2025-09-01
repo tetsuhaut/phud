@@ -16,7 +16,7 @@ struct [[nodiscard]] TableStatistics final {
 
   [[nodiscard]] constexpr Seat getMaxSeat() const noexcept { return m_maxSeats; }
 
-  [[nodiscard]] std::vector<Seat> getSeats();
+  [[nodiscard]] std::vector<Seat> getSeats() const;
 
   /**
    * @returns the hero seat. 0 if error, else between 1 and 10 included.

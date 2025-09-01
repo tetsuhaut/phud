@@ -12,7 +12,7 @@ template<typename T>
 static inline T toT(std::string_view s) {
   const auto str { phud::strings::trim(s) };
   T ret { 0 };
-  std::from_chars(str.data(), str.data() + s.size(), ret);
+  std::from_chars(str.data(), str.data() + str.size(), ret);
   return ret;
 }
 
