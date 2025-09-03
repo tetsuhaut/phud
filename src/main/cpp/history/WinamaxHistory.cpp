@@ -120,7 +120,7 @@ std::atomic_bool& stop, const auto& incrementCb) {
   &stop](const auto & file) {
     if (stop) { return Future<Site*>(); }
 
-    return ThreadPool::submit([&file, &incrementCb, &stop]() {
+    return ThreadPool::submit([file, incrementCb, stop = std::ref(stop)]() {
       Site* pSite { nullptr };
 
       try {
@@ -131,7 +131,7 @@ std::atomic_bool& stop, const auto& incrementCb) {
         LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
       }
 
-      if (!stop and incrementCb) { incrementCb(); }
+      if (!stop.get() and incrementCb) { incrementCb(); }
 
       return pSite;
     });

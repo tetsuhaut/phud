@@ -29,8 +29,8 @@ struct [[nodiscard]] App::Implementation final {
   ThreadSafeQueue<TableStatistics> m_statsQueue {};
   std::unique_ptr<FileWatcher> m_fileWatcher {};
   std::unique_ptr<PokerSiteHistory> m_pokerSiteHistory {};
-  Future<void> m_reloadTask {};
-  Future<void> m_loadTask {};
+  Future<void> m_reloadTask {}; // for reloading the current history file
+  Future<void> m_loadTask {}; // for history import
   fs::path historyDir {};
 
   Implementation(std::string_view databaseName)
@@ -55,14 +55,14 @@ struct [[nodiscard]] App::Implementation final {
   static void watchHistoFile(App::Implementation& self, const fs::path& file,
                                     std::string table, auto observer) {
     self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
-    self.m_fileWatcher->start([&self, table, &observer](const fs::path & f) {
-      self.m_reloadTask = ThreadPool::submit([&self, table, &observer, f]() {
+    self.m_fileWatcher->start([&self, table, observer](const fs::path & f) {
+      self.m_reloadTask = ThreadPool::submit([&self, table, observer, f]() {
         LOG.debug<"Notified, reloading the file\n{}">(f.string());
         return self.m_pokerSiteHistory->reloadFile(f);
       })
       .then([&self](const auto & pSite) { self.m_model->save(*pSite); })
       .then([&self, table]() { return extractTableStatistics(self, table); })
-      .then([&self, &observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
+      .then([&self, observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
     });
     self.m_gui->informUser(fmt::format("Watching the file {}", file.filename().string()));
   }

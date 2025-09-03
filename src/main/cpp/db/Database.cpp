@@ -45,9 +45,12 @@ static inline gsl::not_null<sqlite3*> openDatabase(std::string_view dbName) {
   sqlite3* pDb { nullptr };
 
   if (SQLITE_OK != sqlite3_open(dbName.data(), &pDb)) {
-    sqlite3_close(pDb); // try to free pDb
-    throw DatabaseException(fmt::format("Can't open database file '{}': {}",
-                                        dbName, sqlite3_errmsg(pDb)));
+    std::string msg = "Failed to allocate database handle";
+    if (nullptr != pDb) {
+      msg =  sqlite3_errmsg(pDb);
+      sqlite3_close(pDb); // try to free pDb (sqlite3_close is null safe)
+    }
+    throw DatabaseException(fmt::format("Can't open database file '{}': {}", dbName, msg));
   }
 
   return pDb;
@@ -282,8 +285,8 @@ static inline std::vector<Future<void>> saveGamesAsync(const std::vector<const T
 Database& self) {
   std::vector<Future<void>> ret;
   ret.reserve(games.size());
-  std::transform(games.cbegin(), games.cend(), std::back_inserter(ret), [&](const auto & pGame) {
-    return ThreadPool::submit([&]() {
+  std::transform(games.cbegin(), games.cend(), std::back_inserter(ret), [&self](const auto & pGame) {
+    return ThreadPool::submit([pGame, &self]() {
       const auto& gameId { pGame->getId() };
 
       try {
@@ -309,8 +312,8 @@ void Database::save(const Site& site) {
   const auto& tournaments { site.viewTournaments() };
   auto tasks1 { saveGamesAsync(cashGames, *this) };
   auto tasks2 { saveGamesAsync(tournaments, *this) };
-  std::ranges::for_each(tasks1, [](auto & task) { stlab::await(std::move(task)); });
-  std::ranges::for_each(tasks2, [](auto & task) { stlab::await(std::move(task)); });
+  std::ranges::for_each(tasks1, [](auto&& task) { stlab::await(std::move(task)); });
+  std::ranges::for_each(tasks2, [](auto&& task) { stlab::await(std::move(task)); });
   transaction.commit();
 }
 
@@ -437,7 +440,8 @@ public:
   [[nodiscard]] int getColumnAsInt(int column) noexcept { return sqlite3_column_int(m_pStatement, column); }
   [[nodiscard]] double getColumnAsDouble(int column) noexcept { return sqlite3_column_double(m_pStatement, column); }
   [[nodiscard]] std::string getColumnAsString(int column) {
-    return reinterpret_cast<const char*>(sqlite3_column_text(m_pStatement, column));
+    const auto* text { sqlite3_column_text(m_pStatement, column) };
+    return (nullptr == text) ? "" : reinterpret_cast<const char*>(text);
   }
   [[nodiscard]] bool getColumnAsBool(int column) noexcept { return 0 != getColumnAsInt(column); }
 }; // class PreparedStatement

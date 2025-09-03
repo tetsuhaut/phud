@@ -5,66 +5,8 @@
 #include <mutex>
 #include <queue>
 
-// informations: std::lock_guard<std::mutex> unlocks only when destroyed. std::condition_variable does not take std::lock_guard<std::mutex>.
-
-// inspired from https://www.justsoftwaresolutions.co.uk/threading/implementing-a-thread-safe-queue-using-condition-variables.html
-template <typename T>
-class [[nodiscard]] LockFullThreadSafeQueue final {
-private:
-  mutable std::mutex m_mutex {}; // mutable so that isEmpty() can be const
-  std::queue<T> m_queue {};
-  std::condition_variable m_condition {};
-
-  void pop(T& t) noexcept {
-    t = std::move(m_queue.front());
-    m_queue.pop();
-  }
-
-public:
-  LockFullThreadSafeQueue() noexcept = default;
-  LockFullThreadSafeQueue(const LockFullThreadSafeQueue&) = delete;
-  LockFullThreadSafeQueue(LockFullThreadSafeQueue&&) = delete;
-  LockFullThreadSafeQueue& operator=(const LockFullThreadSafeQueue&) = delete;
-  LockFullThreadSafeQueue& operator=(LockFullThreadSafeQueue&&) = delete;
-  ~LockFullThreadSafeQueue() = default;
-
-  void push(const T& t) {
-    const std::lock_guard<std::mutex> lock(m_mutex);
-    m_queue.push(t);
-    m_condition.notify_one();
-  }
-
-  void push(T&& t) {
-    const std::lock_guard<std::mutex> lock(m_mutex);
-    m_queue.push(std::move(t));
-    m_condition.notify_one();
-  }
-
-  [[nodiscard]] bool tryPop(T& t) {
-    const std::lock_guard<std::mutex> lock(m_mutex);
-
-    if (m_queue.empty()) { return false; }
-
-    pop(t);
-    return true;
-  }
-
-  void waitPop(T& t) {
-    std::unique_lock<std::mutex> lock(m_mutex);
-    m_condition.wait(lock, [this] { return !m_queue.empty(); });
-    pop(t);
-  }
-
-  [[nodiscard]] bool isEmpty() const {
-    const std::lock_guard<std::mutex> lock(m_mutex);
-    return m_queue.empty();
-  }
-
-  [[nodiscard]] std::ptrdiff_t size() const {
-    const std::lock_guard<std::mutex> lock(m_mutex);
-    return std::ssize(m_queue);
-  }
-}; // class LockFullThreadSafeQueue
+// informations: std::lock_guard<std::mutex> unlocks only when destroyed.
+// std::condition_variable does not take std::lock_guard<std::mutex>.
 
 // comes from http://mainstream.inf.elte.hu/csordasmarton/CodeCompass_OS/commit/128ec25afb4c269be03ae671856ab6875aab9727#a67761fa4ec1dd20340ba3a1a1377b1c8584b981_0_44
 template <typename T>
@@ -159,7 +101,8 @@ public:
 
   [[nodiscard]] bool isEmpty() {
     const std::lock_guard<std::mutex> headLock(m_headMutex);
-    return (m_head.get() == getTail());
+    const std::lock_guard<std::mutex> tailLock(m_tailMutex);
+    return (m_head.get() == m_tail);
   }
 }; // class LockFreeThreadSafeQueue
 
