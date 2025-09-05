@@ -89,31 +89,31 @@ App::~App() {
   }
 }
 
-static inline void notify(TableStatistics&& stats, auto observer) {
+static inline void notify(TableStatistics&& stats, auto statObserver) {
   if (Seat::seatUnknown == stats.getMaxSeat()) {
     LOG.debug<"Got no stats from db.">();
   } else {
     LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
-    observer(std::move(stats));
+    statObserver(std::move(stats));
   }
 }
 
 int App::showGui() { /*override*/
-  m_pImpl->m_gui = std::make_unique<Gui>(*this);
+  m_pImpl->m_gui = std::make_unique<Gui>(static_cast<TableService&>(*this), static_cast<HistoryService&>(*this));
   return m_pImpl->m_gui->run();
 }
 
 void App::importHistory(const fs::path& historyDir,
-                        std::function<void()> incrementCb,
-                        std::function<void(std::size_t)> setNbFilesCb,
-                        std::function<void()> doneCb) {
+                        std::function<void()> onProgress,
+                        std::function<void(std::size_t)> onSetNbFiles,
+                        std::function<void()> onDone) {
   m_pImpl->historyDir = historyDir.lexically_normal();
-  m_pImpl->m_loadTask = ThreadPool::submit([this, historyDir, incrementCb, setNbFilesCb]() {
+  m_pImpl->m_loadTask = ThreadPool::submit([this, historyDir, onProgress, onSetNbFiles]() {
     // as this method will execute in another thread, it should not throw
     try {
       if (m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(historyDir);
           m_pImpl->m_pokerSiteHistory) {
-        return m_pImpl->m_pokerSiteHistory->load(historyDir, incrementCb, setNbFilesCb);
+        return m_pImpl->m_pokerSiteHistory->load(historyDir, onProgress, onSetNbFiles);
       }
     } catch (const std::exception& e) {
       LOG.error<"Unexpected exception during the history import: {}.">(e.what());
@@ -130,7 +130,7 @@ void App::importHistory(const fs::path& historyDir,
       LOG.error<"Exception during the database usage: {}.">(e.what());
     } catch (...) { LOG.error<"Unknown during the database usage.">(); }
   })
-  .then([doneCb]() { if (doneCb) { doneCb(); }});
+  .then([onDone]() { if (onDone) { onDone(); }});
 }
 
 // TODO utiliser des variables atomiques pour limiter ce que fait le load
@@ -145,18 +145,28 @@ void App::stopImportingHistory() {
 // on écoute les changements du fichier d'historique,
 // en cas de changement on requête périodiquement la base pour recuperer les stats
 std::string App::startProducingStats(std::string_view tableWindowTitle,
-                                     std::function < void(TableStatistics&& ts) > observer) {
+                                     std::function < void(TableStatistics&& ts) > statObserver) {
   const auto& h { m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->historyDir, tableWindowTitle) };
 
   if (h.empty()) { return fmt::format("Couldn't get history file for table '{}'", tableWindowTitle); }
 
   const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
-  App::Implementation::watchHistoFile(*m_pImpl, h, std::string(tableName), observer);
+  App::Implementation::watchHistoFile(*m_pImpl, h, std::string(tableName), statObserver);
   return "";
 }
 
 void App::stopProducingStats() {
   if (nullptr != m_pImpl->m_fileWatcher) { m_pImpl->m_fileWatcher->stop(); }
+}
+
+// TableService interface implementation
+bool App::isPokerApp(std::string_view executableName) const { /*override*/
+  return AppInterface::isPokerApp(executableName);
+}
+
+// HistoryService interface implementation
+bool App::isValidHistory(const std::filesystem::path& dir) { /*override*/
+  return AppInterface::isValidHistory(dir);
 }
 
 void App::setHistoryDir(const fs::path& historyDir) {

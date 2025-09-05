@@ -20,9 +20,9 @@ public:
    * @throws
    */
   virtual void importHistory(const std::filesystem::path& historyDir,
-                             std::function<void()> incrementCb = nullptr,
-                             std::function<void(std::size_t)> setNbFilesCb = nullptr,
-                             std::function<void()> doneCb = nullptr) = 0;
+                             std::function<void()> onProgress = nullptr,
+                             std::function<void(std::size_t)> onSetNbFiles = nullptr,
+                             std::function<void()> onDone = nullptr) = 0;
   // disable implicit conversions to std::filesystem::path
   void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
                      std::function<void()>) = delete;

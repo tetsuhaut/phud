@@ -10,101 +10,92 @@
 
 // comes from http://mainstream.inf.elte.hu/csordasmarton/CodeCompass_OS/commit/128ec25afb4c269be03ae671856ab6875aab9727#a67761fa4ec1dd20340ba3a1a1377b1c8584b981_0_44
 template <typename T>
-class [[nodiscard]] LockFreeThreadSafeQueue final {
+class [[nodiscard]] ThreadSafeQueue final {
 private:
   struct [[nodiscard]] Node final {
     std::shared_ptr<T> data {};
     std::unique_ptr<Node> next {};
   };
 
-  std::mutex m_headMutex {};
-  std::unique_ptr<Node> m_head;
-  std::mutex m_tailMutex {};
-  Node* m_tail;
+  std::mutex m_pHeadMutex {};
+  std::unique_ptr<Node> m_pHead;
+  std::mutex m_pTailMutex {};
+  Node* m_pTail;
   std::condition_variable m_condition {};
 
-  [[nodiscard]] Node* getTail() {
-    const std::lock_guard<std::mutex> m_tailLock(m_tailMutex);
-    return m_tail;
-  }
-
   [[nodiscard]] std::unique_ptr<Node> popHead() noexcept {
-    std::unique_ptr<Node> oldHead { std::move(m_head) };
-    m_head = std::move(oldHead->next);
-    return oldHead;
-  }
-
-  [[nodiscard]] std::unique_lock<std::mutex> waitForData() {
-    std::unique_lock<std::mutex> headLock(m_headMutex);
-
-    while (m_head.get() == getTail()) { m_condition.wait(headLock); }
-
-    return headLock;
-  }
-
-  [[nodiscard]] std::unique_ptr<Node> waitPopHead() {
-    std::unique_lock<std::mutex> headLock(waitForData());
-    return popHead();
-  }
-
-  void waitPopHead(T& value) {
-    std::unique_lock<std::mutex> head_lock(waitForData());
-    value = std::move(*m_head->data);
-    popHead().reset();
-  }
-
-  [[nodiscard]] std::unique_ptr<Node> tryPopHead() {
-    const std::lock_guard<std::mutex> headLock(m_headMutex);
-    return (m_head.get() == getTail()) ? std::unique_ptr<Node>() : popHead();
-  }
-
-  [[nodiscard]] std::unique_ptr<Node> tryPopHead(T& value) {
-    const std::lock_guard<std::mutex> headLock(m_headMutex);
-
-    if (m_head.get() == getTail()) { return std::unique_ptr<Node>(); }
-
-    value = std::move(*m_head->data);
-    return popHead();
+    std::unique_ptr<Node> pOldHead { std::move(m_pHead) };
+    m_pHead = std::move(pOldHead->next);
+    return pOldHead;
   }
 
 public:
-  LockFreeThreadSafeQueue() : m_head { std::make_unique<Node>() }, m_tail { m_head.get() } {}
-  LockFreeThreadSafeQueue(const LockFreeThreadSafeQueue&) = delete;
-  LockFreeThreadSafeQueue(LockFreeThreadSafeQueue&&) = delete;
-  LockFreeThreadSafeQueue& operator=(const LockFreeThreadSafeQueue&) = delete;
-  LockFreeThreadSafeQueue& operator=(LockFreeThreadSafeQueue&&) = delete;
-  ~LockFreeThreadSafeQueue() = default;
+  ThreadSafeQueue() : m_pHead { std::make_unique<Node>() }, m_pTail { m_pHead.get() } {}
+  ThreadSafeQueue(const ThreadSafeQueue&) = delete;
+  ThreadSafeQueue(ThreadSafeQueue&&) = delete;
+  ThreadSafeQueue& operator=(const ThreadSafeQueue&) = delete;
+  ThreadSafeQueue& operator=(ThreadSafeQueue&&) = delete;
+  ~ThreadSafeQueue() = default;
 
-  [[nodiscard]] std::shared_ptr<T> tryPop() {
-    std::unique_ptr<Node> oldHead { tryPopHead() };
-    return oldHead ? oldHead->data : std::shared_ptr<T>();
+  /**
+   * Pop a value and return true, unless the queue is empty, then return false.
+   * @returns true If the queue contains a value
+   */
+  [[nodiscard]] bool tryPop(T& value) {
+    const std::lock_guard<std::mutex> headLock(m_pHeadMutex);
+    {
+      const std::lock_guard<std::mutex> tailLock(m_pTailMutex);
+      if (m_pHead.get() == m_pTail) {
+        // the queue is empty
+        return false;
+      }
+    }
+    value = std::move(*m_pHead->data);
+    popHead().reset();
+    return true;
   }
 
-  [[nodiscard]] bool tryPop(T& value) { return nullptr != tryPopHead(value); }
+  /**
+   * Wait forever until there is a value to pop, then pop it.
+   */
+  void waitPop(T& value) {
+    std::unique_lock<std::mutex> headLock(m_pHeadMutex);
+    
+    // Use simple while loop to avoid complex lock ordering in predicate
+    while (true) {
+      {
+        std::lock_guard<std::mutex> tailLock(m_pTailMutex);
+        if (m_pHead.get() != m_pTail) {
+          break; // Data available
+        }
+      }
+      m_condition.wait(headLock);
+    }
+    
+    value = std::move(*m_pHead->data);
+    popHead().reset();
+  }
 
-  [[nodiscard]] std::shared_ptr<T> waitPop() { return waitPopHead()->data; }
-
-  void waitPop(T& value) { waitPopHead(value); }
-
+  /**
+   * Push a value into the queue. newValue will be moved into the queue, and can't be used afterward.
+   */
   void push(T newValue) {
     auto newData { std::make_shared<T>(std::move(newValue)) };
     auto pNode { std::make_unique<Node>() };
     {
-      const std::lock_guard<std::mutex> m_tailLock(m_tailMutex);
-      m_tail->data = newData;
+      const std::lock_guard<std::mutex> m_pTailLock(m_pTailMutex);
+      m_pTail->data = newData;
       Node* const newTail { pNode.get() };
-      m_tail->next = std::move(pNode);
-      m_tail = newTail;
+      m_pTail->next = std::move(pNode);
+      m_pTail = newTail;
     }
     m_condition.notify_one();
   }
 
   [[nodiscard]] bool isEmpty() {
-    const std::lock_guard<std::mutex> headLock(m_headMutex);
-    const std::lock_guard<std::mutex> tailLock(m_tailMutex);
-    return (m_head.get() == m_tail);
+    // Acquire mutexes in consistent order: tail first, then head (prevents deadlock)
+    const std::lock_guard<std::mutex> tailLock(m_pTailMutex);
+    const std::lock_guard<std::mutex> headLock(m_pHeadMutex);
+    return (m_pHead.get() == m_pTail);
   }
-}; // class LockFreeThreadSafeQueue
-
-template <typename T>
-using ThreadSafeQueue = LockFreeThreadSafeQueue<T>;
+}; // class ThreadSafeQueue

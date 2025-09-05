@@ -1,13 +1,17 @@
 #include "entities/Player.hpp"
 #include "entities/Seat.hpp"
 #include "gui/Gui.hpp"  // std::unique_ptr, std::make_unique
-#include "gui/MainWindowAppearance.hpp" // Label::, Size::
+#include "gui/TableService.hpp"
+#include "gui/HistoryService.hpp"
+#include "gui/MainWindowAppearance.hpp" // Surface::
+#include "gui/MainWindowColor.hpp" // Color::
+#include "gui/MainWindowLabel.hpp" // Label::
 #include "gui/PlayerIndicator.hpp" // DragAndDropWindow, Fl_Double_Window
 #include "gui/Position.hpp" // buildPlayerIndicatorPosition()
+#include "gui/WindowUtils.hpp"
 #include "language/assert.hpp" // phudAssert
 #include "language/Either.hpp" // ErrOrRes
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
-#include "mainLib/AppInterface.hpp"  // std::string, std::vector, std::filesystem::path, fs::isDir
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "strings/StringUtils.hpp"
@@ -81,7 +85,6 @@ concept VoidNullaryFunction = requires(F f) {
 
 /**
  * Schedules a function to be executed by the main GUI thread during the next message handling cycle.
- * The function to be executed must take no argument
  * @param aTask the function to be executed
  */
 template<VoidNullaryFunction TASK> static void scheduleUITask(TASK&& aTask) {
@@ -130,7 +133,8 @@ public:
 struct TableChooser;
 
 struct [[nodiscard]] Gui::Implementation final {
-  AppInterface& m_app;
+  TableService& m_tableService;
+  HistoryService& m_historyService;
   Fl_Group* m_winamaxGroup { nullptr };
   Fl_Group* m_pmuGroup { nullptr };
   Fl_Tabs* m_tabs { nullptr };
@@ -146,7 +150,9 @@ struct [[nodiscard]] Gui::Implementation final {
   std::unique_ptr<TableChooser> m_tableChooser {};
   std::shared_ptr<std::array<std::unique_ptr<PlayerIndicator>, 10>> m_playerIndicators { std::make_shared<std::array<std::unique_ptr<PlayerIndicator>, 10>>() };
 
-  explicit Implementation(AppInterface& app) : m_app { app } {}
+  explicit Implementation(TableService& tableService, HistoryService& historyService) 
+    : m_tableService { tableService }
+    , m_historyService { historyService } {}
   Implementation(const Implementation&) = delete;
   Implementation(Implementation&&) = delete;
   Implementation& operator=(const Implementation&) = delete;
@@ -154,50 +160,14 @@ struct [[nodiscard]] Gui::Implementation final {
   ~Implementation() { ThreadPool::stop(); }
 }; // struct Gui::Implementation
 
-[[nodiscard]] static inline std::string getLastErrorMessageFromOS() {
-  const auto localeId { LocaleNameToLCID(LOCALE_NAME_SYSTEM_DEFAULT, 0) };
-  char err[MAX_PATH + 1] { '\0' };
-  const auto size { FormatMessage(FORMAT_MESSAGE_FROM_SYSTEM, nullptr, GetLastError(), localeId, &err[0], MAX_PATH, nullptr) };
-  err[MAX_PATH] = '\0';
-  return 0 == size ? "Failed to retrieve error message from system" : std::string(&err[0]);
-}
 
 template <typename T>
-[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r,
-  std::string_view label) {
-  return std::make_unique<T>(r.x, r.y, r.w, r.h, label.data());
-}
-
-template <typename T>
-[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r) {
-  return std::make_unique<T>(r.x, r.y, r.w, r.h);
-}
-
-[[nodiscard]] static inline std::string getExecutableName(const HWND window) {
-  LOG.debug<__func__>();
-
-  if (nullptr == window) { return ""; }
-
-  DWORD pid;
-  GetWindowThreadProcessId(window, &pid);
-  const auto myProcessHandle { OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, pid) };
-  phudAssert(nullptr != myProcessHandle, getLastErrorMessageFromOS().c_str());
-  auto _ { gsl::finally([myProcessHandle] { CloseHandle(myProcessHandle); }) };
-  char process[MAX_PATH + 1] { '\0' };
-
-  if (const auto nbChars { GetModuleFileNameEx(myProcessHandle, nullptr, &process[0], MAX_PATH) }; 0 != nbChars) {
-    process[MAX_PATH] = '\0';
-    return std::string(& process[0]);
+[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r, std::string_view label = {}) {
+  // if T can be constructed with a label and we have a non-empty label, use it
+  if constexpr (requires { T(r.x, r.y, r.w, r.h, label.data()); }) {
+    if (!label.empty()) { return std::make_unique<T>(r.x, r.y, r.w, r.h, label.data()); }
   }
-  LOG.error<"Can't retrieve the executable name: {}">(getLastErrorMessageFromOS());
-  return "";
-}
-
-/**
-* Converts a RECT object from the Windows API into a phud::Rectangle object
-*/
-[[nodiscard]] constexpr static phud::Rectangle toRectangle(const RECT& r) noexcept {
-  return { r.left, r.top, r.right - r.left, r.bottom - r.top };
+  return std::make_unique<T>(r.x, r.y, r.w, r.h);
 }
 
 [[nodiscard]] static inline fs::path getPreferredHistoDir(Fl_Preferences& pref) {
@@ -219,14 +189,14 @@ template <typename T>
 }
 
 /**
-* Displays a literal message in the info bar.
+* Displays a message in the info bar, when the message is known at compile time.
 */
-template<StringLiteral MSG>
+template<const std::string_view& MSG>
 static inline void informUser(Gui::Implementation& aSelf) {
   LOG.debug<__func__>();
-  scheduleUITask([infoBar = aSelf.m_infoBar, msg = std::string(MSG.value)]() {
+  scheduleUITask([infoBar = aSelf.m_infoBar, msg = std::string(MSG)]() {
     infoBar->copy_label(msg.c_str());
-    });
+  });
 }
 
 /**
@@ -236,7 +206,7 @@ static inline void informUser(Gui::Implementation& aSelf, std::string_view aMsg)
   LOG.debug<__func__>();
   scheduleUITask([infoBar = aSelf.m_infoBar, msg = std::string(aMsg)]() {
     infoBar->copy_label(msg.c_str());
-    });
+  });
 }
 
 static inline void setWindowOnTopMost(const Fl_Window& above) {
@@ -244,11 +214,7 @@ static inline void setWindowOnTopMost(const Fl_Window& above) {
   SetWindowPos(fl_xid(&above), HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE | SWP_NOOWNERZORDER);
 }
 
-/**
- * Updates the statistics of all the PlayerIndicators of the table.
- * Called periodically by another thread.
- */
-static inline void updateTableAwakeCb(std::shared_ptr<std::array<std::unique_ptr<PlayerIndicator>, 10>> playerIndicators, const phud::Rectangle& tablePosition,
+static inline void updateTablePlayerIndicators(std::shared_ptr<std::array<std::unique_ptr<PlayerIndicator>, 10>> playerIndicators, const phud::Rectangle& tablePosition,
   TableStatistics tableStatistics) {
   const auto heroSeat { tableStatistics.getHeroSeat() };
   const auto& seats { tableStatistics.getSeats() };
@@ -257,27 +223,23 @@ static inline void updateTableAwakeCb(std::shared_ptr<std::array<std::unique_ptr
     auto ps { tableStatistics.extractPlayerStatistics(seat) };
     // clear player indicators
     if (nullptr == ps) {
-      scheduleUITask([playerIndicators, seat]() { 
-        playerIndicators->at(tableSeat::toArrayIndex(seat)).reset();
-      });
+      playerIndicators->at(tableSeat::toArrayIndex(seat)).reset();
     }
     else {
       const auto& pos { buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition) };
       // update the PlayerIndicators with the latest stats.
       // -1 < seat < nbSeats, 1 < nbSeats < 11
-      scheduleUITask([playerIndicators, seat, pos, ps = std::move(ps)]() {
-        auto& playerIndicator { playerIndicators->at(tableSeat::toArrayIndex(seat)) };
+      auto& playerIndicator { playerIndicators->at(tableSeat::toArrayIndex(seat)) };
 
-        if (nullptr == playerIndicator) {
-          playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName());
-        }
-        else if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
-          playerIndicator->refresh(ps->getPlayerName());
-        }
-        playerIndicator->setStats(*ps);
-        setWindowOnTopMost(*playerIndicator);
-        playerIndicator->show();
-        });
+      if (nullptr == playerIndicator) {
+        playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName());
+      }
+      else if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
+        playerIndicator->refresh(ps->getPlayerName());
+      }
+      playerIndicator->setStats(*ps);
+      setWindowOnTopMost(*playerIndicator);
+      playerIndicator->show();
     }
   }
 }
@@ -290,68 +252,44 @@ static inline void setChooseTableButtonLabelToChoose(Fl_Button* chooseTableBtn) 
   chooseTableBtn->label(MainWindow::Label::chooseTable.data());
 }
 
-using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>>;
-/** Gets the current window absolute position,
- * ensures the process owning the window is the poker app,
- * gets the name of the window this position belongs to.
- */
-[[nodiscard]] static inline ErrorOrRectangleAndName getWindowRectangleAndName(const AppInterface& app, int x, int y) {
-  LOG.debug<__func__>();
-  const auto& myWindowHandle { WindowFromPoint({x, y}) };
-
-  if (nullptr == myWindowHandle) { return ErrorOrRectangleAndName::err<"No window at the given position">(); }
-
-  if (!app.isPokerApp(getExecutableName(myWindowHandle))) { return ErrorOrRectangleAndName::err<"The chosen window is not a poker table.">(); }
-
-  if (RECT r; 0 != GetWindowRect(myWindowHandle, &r)) {
-    char tableName[MAX_PATH + 1] { '\0' };
-    GetWindowText(myWindowHandle, &tableName[0], MAX_PATH);
-    tableName[MAX_PATH] = '\0';
-    return ErrorOrRectangleAndName::res({ toRectangle(r), tableName });
-  }
-
-  return ErrorOrRectangleAndName::err<"Could not get the chosen window handle.">();
-}
-
-
-
 /**
  * Called by the GUI (table chooser widget) when the user drags the table
  * chooser widget above a window and drops it.
  */
-static inline void tableChooserCb(AppInterface& app, 
+static inline void tableChooserCb(TableService& tableService,
                                  std::unique_ptr<TableChooser>& tableChooser,
                                  Fl_Button* chooseTableBtn,
                                  std::shared_ptr<std::array<std::unique_ptr<PlayerIndicator>, 10>> playerIndicators,
                                  int x, int y) {
   LOG.debug<__func__>();
-  const auto& errorOrResult { getWindowRectangleAndName(app, x, y) };
+  
+  // Use business service for table selection
+  const auto result = tableService.selectTableAt(x, y);
 
-  if (errorOrResult.isErr()) {
-    LOG.info(errorOrResult.getErr());
-    // Cannot call informUser here without infoBar - would need to be passed as parameter
-    LOG.error(errorOrResult.getErr());
+  if (!result.success) {
+    LOG.error(result.errorMessage);
   }
   else {
-    const auto& [tablePosition, tableName] { errorOrResult.getRes() };
-    LOG.info<"The chosen poker table is '{}'">(tableName);
+    LOG.info<"The chosen poker table is '{}'">(result.tableName);
+    
+    // UI updates
     scheduleUITask([tableChooser = std::move(tableChooser), chooseTableBtn]() mutable {
       tableChooser = nullptr;
       setChooseTableButtonLabelToChoose(chooseTableBtn);
-      });
-    LOG.info<"Starting consuming stats.">();
-    const auto statObserver = [playerIndicators, tablePosition](TableStatistics&& ts) {
-      // to read table statistics, we need to extract data from it -> non const
+    });
+    
+    // Start monitoring through business service
+    const auto statObserver = [playerIndicators, tablePosition = result.position](TableStatistics&& ts) {
       scheduleUITask([playerIndicators, tablePosition, ts = std::move(ts)]() mutable {
-          updateTableAwakeCb(playerIndicators, tablePosition, std::move(ts));
-        });
-      };
+        updateTablePlayerIndicators(playerIndicators, tablePosition, std::move(ts));
+      });
+    };
 
-    if (const auto& errMsg { app.startProducingStats(tableName, statObserver) }; !errMsg.empty()) {
+    const auto& errMsg = tableService.startMonitoringTable(result.tableName, statObserver);
+    if (!errMsg.empty()) {
       LOG.error(errMsg);
     }
     else {
-      // Cannot activate stopHudBtn here without passing it as parameter
       LOG.info<"Stats production started successfully">();
     }
   }
@@ -364,11 +302,11 @@ struct [[nodiscard]] TableChooser final : DragAndDropWindow {
   TableChooser(Gui::Implementation & self, std::string_view label)
     : DragAndDropWindow(MainWindow::Surface::getTableChooserRectangle(self.m_mainWindow->x(),
                         self.m_mainWindow->y(), self.m_chooseTableBtn->x()), label, 
-                        [app = &self.m_app, 
+                        [tableService = &self.m_tableService, 
                          tableChooser = &self.m_tableChooser,
                          chooseTableBtn = self.m_chooseTableBtn,
                          playerIndicators = self.m_playerIndicators](int x, int y) {
-        tableChooserCb(*app, *tableChooser, chooseTableBtn, playerIndicators, x, y);
+        tableChooserCb(*tableService, *tableChooser, chooseTableBtn, playerIndicators, x, y);
     }) {}
 }; // struct TableChooser
 
@@ -414,39 +352,56 @@ static inline void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   }
 }
 
+static void onImportProgress(Fl_Progress* progressBar) {
+  scheduleUITask([pb = progressBar]() {
+    pb->value(pb->value() + 1);
+    pb->copy_label(fmt::format("{}/{}", limits::toInt(pb->value()), limits::toInt(pb->maximum())).c_str());
+  });
+}
+
+static void onSetNbFiles(Fl_Progress* progressBar, std::size_t nbFilesToLoad) {
+  scheduleUITask([pb = progressBar, nbFilesToLoad]() {
+    // as the progress bar boundaries are float values
+    pb->maximum(static_cast<float>(nbFilesToLoad));
+  });
+}
+
+static void onImportDone(Fl_Button* chooseTableBtn) {
+  scheduleUITask([chooseTableBtn]() { 
+    chooseTableBtn->activate(); 
+  });
+}
+
 /**
  * Called by the GUI event loop when the user chosed a valid history dir.
  * Starts the import process for a valid history directory.
  * Updates UI components and starts the background import.
  */
-static inline void importDirAwakeCb(Fl_Box* histoDirTextField, Fl_Progress* progressBar, Fl_Button* chooseTableBtn, AppInterface& app, const fs::path& dir) {
+static inline void importDirAwakeCb(Fl_Box* histoDirTextField, Fl_Progress* progressBar, Fl_Button* chooseTableBtn, HistoryService& historyService, const fs::path& dir) {
   LOG.debug<__func__>();
-  const auto& historyDir { dir.filename().string() };
+  
+  const auto& historyDir = historyService.getDisplayName(dir);
   LOG.info<"The import directory '{}' is valid">(historyDir);
+  
   // UI update
   scheduleUITask([histoDirTextField, historyDir, progressBar]() {
     // the string is copied in the widget internal buffer
     histoDirTextField->copy_label(historyDir.c_str());
     progressBar->activate();
   });
+  
+  // Start import through business service
   LOG.info<"importing history">();
-  // Called when the history loader (another thread) notifies the loading has made progress.
-  auto incrementCb = [progressBar]() {
-    scheduleUITask([pb = progressBar]() {
-      pb->value(pb->value() + 1);
-      pb->copy_label(fmt::format("{}/{}", limits::toInt(pb->value()), limits::toInt(pb->maximum())).c_str());
-    });
+  HistoryService::ImportCallbacks callbacks{
+    // update the progress bar during the import
+    .onProgress = [progressBar]() { onImportProgress(progressBar); },
+    // when we know the number of files to import, setup the progress bar
+    .onSetNbFiles = [progressBar](std::size_t nb) { onSetNbFiles(progressBar, nb); },
+    // reactivate the import button when the import is done
+    .onDone = [chooseTableBtn]() { onImportDone(chooseTableBtn); }
   };
-  // called when the history loader (another thread) notifies of how many file will be loaded.
-  auto setNbFilesCb = [progressBar](std::size_t nbFilesToLoad) {
-    scheduleUITask([pb = progressBar, nbFilesToLoad]() { pb->maximum(static_cast<float>(nbFilesToLoad)); });
-  };
-  // called when the history loader (another thread) notifies the loading is done.
-  auto doneCb = [chooseTableBtn]() {
-    scheduleUITask([chooseTableBtn]() { chooseTableBtn->activate(); });
-  };
-  // start the import
-  app.importHistory(dir, incrementCb, setNbFilesCb, doneCb);
+  
+  historyService.startImport(dir, callbacks);
 }
 
 static inline std::pair<int, int> getMainWindowPosition(Fl_Preferences& preferences) {
@@ -499,31 +454,33 @@ template<typename WIDGET>
 }
 
 namespace DirectoryChoiceHandler {
-  void handleOk(std::string_view dirName, Gui::Implementation& self) {
-    const auto dir { fs::path { dirName } };
-    LOG.info<"the user chose to import the directory '{}'">(dir.string());
+void handleOk(std::string_view dirName, Gui::Implementation& self) {
+  const auto dir { fs::path { dirName } };
+  LOG.info<"the user chose to import the directory '{}'">(dir.string());
 
-    if (AppInterface::isValidHistory(dir)) {
-      saveToPreferences(*self.m_preferences, MainWindow::Label::preferencesKeyChosenDir,
-        dir.string().c_str()); // to get const char*
-      scheduleUITask([hdtf = self.m_histoDirTextField, pb = self.m_progressBar, ctb = self.m_chooseTableBtn, app = &self.m_app, dir = std::move(dir)]() {
-        importDirAwakeCb(hdtf, pb, ctb, *app, dir);
-        });
-    }
-    else {
-      LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());
-      informUser(self, MainWindow::Label::invalidChoice);
-    }
+  if (self.m_historyService.historyDirectoryIsValid(dir)) {
+    saveToPreferences(*self.m_preferences, MainWindow::Label::preferencesKeyChosenDir,
+      dir.string().c_str()); // to get const char*
+    scheduleUITask([hdtf = self.m_histoDirTextField,
+                    pb = self.m_progressBar,
+                    ctb = self.m_chooseTableBtn,
+                    historyService = &self.m_historyService,
+                    dir = std::move(dir)]() { importDirAwakeCb(hdtf, pb, ctb, *historyService, dir); });
   }
+  else {
+    LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());
+    informUser<MainWindow::Label::invalidChoice>(self);
+  }
+}
 
-  void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
-    if (nullptr == chooser->errmsg()) { 
-      informUser<"File choice error">(self); 
-    }
-    else { 
-      informUser(self, chooser->errmsg()); 
-    }
+void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
+  if (nullptr == chooser->errmsg()) { 
+    informUser<MainWindow::Label::fileChoiceError>(self); 
   }
+  else { 
+    informUser(self, chooser->errmsg()); 
+  }
+}
 } // namespace DirectoryChoiceHandler
 
 [[nodiscard]] static inline gsl::not_null<Fl_Button*> buildChooseHistoDirBtn(
@@ -533,7 +490,7 @@ namespace DirectoryChoiceHandler {
   auto choseHistoDirCb = [](Fl_Widget*, void* hiddenSelf) {
     LOG.debug<__func__>();
     auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
-    informUser<"">(self);
+    informUser<MainWindow::Label::chooseHistoDirText>(self);
     auto dirChoser { buildDirectoryChooser(*self.m_preferences) };
 
     switch (FileChoiceStatus(dirChoser->show())) {
@@ -578,7 +535,7 @@ namespace DirectoryChoiceHandler {
                                  [&aSelf, chooseTableCb](Fl_Button* btn) {
     /* setup the table chooser */
     btn->callback(chooseTableCb, &aSelf);
-    /* btn->deactivate(); */
+    btn->deactivate();
   });
 }
 
@@ -588,12 +545,12 @@ namespace DirectoryChoiceHandler {
   auto stopHudCb = [](Fl_Widget* button, void* hiddenSelf) {
     auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
     LOG.debug<__func__>();
-    // kill stats producer/receiver
-    self.m_app.stopProducingStats();
+    // Use business service to stop monitoring
+    self.m_tableService.stopMonitoring();
     // kill PlayerIndicators
     std::ranges::for_each(*self.m_playerIndicators, [](auto& pi) { pi.reset(); });
     button->deactivate();
-    informUser<"no player indicator to display">(self);
+    informUser<MainWindow::Label::noPlayerIndicators>(self);
     Fl::redraw();
   };
 
@@ -641,8 +598,8 @@ static inline gsl::not_null<MyMainWindow*> buildMainWindow(Fl_Preferences* prefe
   return ret;
 }
 
-Gui::Gui(AppInterface& app)
-  : m_pImpl { std::make_unique<Gui::Implementation>(app) } {
+Gui::Gui(TableService& tableService, HistoryService& historyService)
+  : m_pImpl { std::make_unique<Gui::Implementation>(tableService, historyService) } {
   LOG.debug<__func__>();
   m_pImpl->m_mainWindow = buildMainWindow(m_pImpl->m_preferences.get());
   m_pImpl->m_menuBar = buildMenuBar(m_pImpl->m_preferences.get());
@@ -651,9 +608,9 @@ Gui::Gui(AppInterface& app)
   m_pImpl->m_progressBar = buildProgressBar();
   m_pImpl->m_chooseTableBtn = buildChooseTableBtn(*m_pImpl);
 
-  if (const auto dir { getPreferredHistoDir(*m_pImpl->m_preferences) }; !dir.empty() and pf::isDir(dir)) {
+  if (const auto dir { getPreferredHistoDir(*m_pImpl->m_preferences) }; pf::isDir(dir)) {
     m_pImpl->m_chooseTableBtn->activate();
-    m_pImpl->m_app.setHistoryDir(dir);
+    m_pImpl->m_historyService.setHistoryDir(dir);
   }
 
   m_pImpl->m_stopHudBtn = buildStopHudBtn(*m_pImpl);
@@ -671,7 +628,7 @@ void Gui::informUser(std::string_view msg) {
 }
 
 /**
- * GUI entry point. will exit if all the window are closed.
+ * GUI entry point. will exit when all the windows are closed.
  */
 /*[[nodiscard]]*/ int Gui::run() {
   LOG.debug<__func__>();

@@ -96,14 +96,14 @@ const fs::path& dir, const fs::path& histoDir) {
 
 // using auto&& enhances performances by inlining std::function's logic
 [[nodiscard]] static inline std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
-    auto&& setNbFilesCb) {
+    auto&& onSetNbFiles) {
   const auto& files { getFiles(historyDir) };
 
-  if (setNbFilesCb) {
+  if (onSetNbFiles) {
     const auto fileSize{ files.size() };
     LOG.info<"Notify observer of {} files.">(fileSize);
 
-    if (!files.empty()) { std::forward<decltype(setNbFilesCb)>(setNbFilesCb)(fileSize); }
+    if (!files.empty()) { std::forward<decltype(onSetNbFiles)>(onSetNbFiles)(fileSize); }
   }
 
   return files;
@@ -113,14 +113,14 @@ const fs::path& dir, const fs::path& histoDir) {
 static inline std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
 
 static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::path> files,
-std::atomic_bool& stop, const auto& incrementCb) {
+std::atomic_bool& stop, const auto& onProgress) {
   std::vector<Future<Site*>> ret;
   ret.reserve(files.size());
-  std::transform(files.cbegin(), files.cend(), std::back_inserter(ret), [&incrementCb,
+  std::transform(files.cbegin(), files.cend(), std::back_inserter(ret), [&onProgress,
   &stop](const auto & file) {
     if (stop) { return Future<Site*>(); }
 
-    return ThreadPool::submit([file, incrementCb, stop = std::ref(stop)]() {
+    return ThreadPool::submit([file, onProgress, stop = std::ref(stop)]() {
       Site* pSite { nullptr };
 
       try {
@@ -131,7 +131,7 @@ std::atomic_bool& stop, const auto& incrementCb) {
         LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
       }
 
-      if (!stop.get() and incrementCb) { incrementCb(); }
+      if (!stop.get() and onProgress) { onProgress(); }
 
       return pSite;
     });
@@ -140,13 +140,13 @@ std::atomic_bool& stop, const auto& incrementCb) {
 }
 
 std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
-    std::function<void()> incrementCb,
-    std::function<void(std::size_t)> setNbFilesCb) {
+    std::function<void()> onProgress,
+    std::function<void(std::size_t)> onSetNbFiles) {
   m_pImpl->m_stop = false;
 
   try {
     LOG.debug<"Loading the history dir '{}'.">(winamaxHistoryDir.string());
-    const auto& files { getFilesAndNotify(winamaxHistoryDir, setNbFilesCb) };
+    const auto& files { getFilesAndNotify(winamaxHistoryDir, onSetNbFiles) };
     auto ret { std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
 
     if (files.empty()) {
@@ -155,7 +155,7 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
     }
 
     LOG.info<"{} file{} to load.">(files.size(), ps::plural(files.size()));
-    m_pImpl->m_tasks = parseFilesAsync(files, m_pImpl->m_stop, incrementCb);
+    m_pImpl->m_tasks = parseFilesAsync(files, m_pImpl->m_stop, onProgress);
     LOG.info<"Waiting for the end of loading.">();
     std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto & task) {
       if (task.valid()) {

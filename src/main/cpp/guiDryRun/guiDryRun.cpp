@@ -1,5 +1,7 @@
 #include "containers/ThreadSafeQueue.hpp" // std::unique_ptr
 #include "gui/Gui.hpp"
+#include "gui/TableService.hpp"
+#include "gui/HistoryService.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/AppInterface.hpp" // std::string_view, std::function
 #include "mainLib/ProgramInfos.hpp"
@@ -18,7 +20,7 @@ struct [[nodiscard]] LoggingConfig final {
 };
 } // anonymous namespace
 
-class [[nodiscard]] NoOpApp final : public AppInterface {
+class [[nodiscard]] NoOpApp final : public AppInterface, public TableService, public HistoryService {
 private:
   ThreadSafeQueue<TableStatistics> m_stats {};
   PeriodicTaskStatus m_continue { PeriodicTaskStatus::stopTask };
@@ -30,15 +32,15 @@ public:
   }
 
   void importHistory(const fs::path& /*historyDir*/,
-                     std::function<void()> incrementCb = nullptr,
-                     std::function<void(std::size_t)> setNbFilesCb = nullptr,
-                     std::function<void()> doneCb = nullptr) override {
+                     std::function<void()> onProgress = nullptr,
+                     std::function<void(std::size_t)> onSetNbFiles = nullptr,
+                     std::function<void()> onDone = nullptr) override {
     LOG.debug<__func__>();
-    setNbFilesCb(3);
-    incrementCb();
-    incrementCb();
-    incrementCb();
-    doneCb();
+    onSetNbFiles(3);
+    onProgress();
+    onProgress();
+    onProgress();
+    onDone();
   }
   // use only std::filesystem::path
   void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
@@ -76,12 +78,16 @@ public:
 
   [[nodiscard]] int showGui() override {
     LOG.debug<__func__>();
-    return Gui(*this).run();
+    return Gui(static_cast<TableService&>(*this), static_cast<HistoryService&>(*this)).run();
   }
 
   void setHistoryDir(const fs::path& /*dir*/) override {}
 
-  bool isPokerApp(std::string_view) const override { return true; }
+  // TableService interface
+  bool isPokerApp(std::string_view /*executableName*/) const override { return true; }
+  
+  // HistoryService interface
+  bool isValidHistory(const fs::path& /*dir*/) override { return true; }
 }; // class NoOpApp
 
 /* no WinMain because we want the console to show debug messages */

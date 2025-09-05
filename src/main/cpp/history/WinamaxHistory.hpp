@@ -23,8 +23,8 @@ public:
    * the given <historyDir>/history directory.
    */
   [[nodiscard]] std::unique_ptr<Site> load(const std::filesystem::path& historyDir,
-      std::function<void()> incrementCb,
-      std::function<void(std::size_t)> setNbFilesCb) override;
+      std::function<void()> onProgress,
+      std::function<void(std::size_t)> onSetNbFiles) override;
   std::unique_ptr<Site> load(auto, std::function<void()>, std::function<void(std::size_t)>) = delete;
 
   [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir);

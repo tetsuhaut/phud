@@ -21,8 +21,8 @@ public:
    * the given <historyDir>/history directory.
    */
   [[nodiscard]] virtual std::unique_ptr<Site> load(const std::filesystem::path& historyDir,
-      std::function<void()> incrementCb,
-      std::function<void(std::size_t)> setNbFilesCb) = 0;
+      std::function<void()> onProgress,
+      std::function<void(std::size_t)> onSetNbFiles) = 0;
   std::unique_ptr<Site> load(auto, std::function<void()>, std::function<void(std::size_t)>) = delete;
   [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir);
   std::unique_ptr<Site> load(auto historyDir) = delete;

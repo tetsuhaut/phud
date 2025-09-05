@@ -1,13 +1,15 @@
 #pragma once
 
 #include "mainLib/AppInterface.hpp" // std::filesystem::path, std::function, TableStatistics
+#include "gui/TableService.hpp"
+#include "gui/HistoryService.hpp"
 
 #include <memory> // std::unique_ptr
 
 /**
  * The phud application.
  */
-class [[nodiscard]] App final : public AppInterface {
+class [[nodiscard]] App final : public AppInterface, public TableService, public HistoryService {
 private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
@@ -25,9 +27,9 @@ public:
    * @throws
    */
   void importHistory(const std::filesystem::path& historyDir,
-                     std::function<void()> incrementCb = nullptr,
-                     std::function<void(std::size_t)> setNbFilesCb = nullptr,
-                     std::function<void()> doneCb = nullptr) override;
+                     std::function<void()> onProgress = nullptr,
+                     std::function<void(std::size_t)> onSetNbFiles = nullptr,
+                     std::function<void()> onDone = nullptr) override;
   // force users to user std::filesystem::path
   void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
                      std::function<void()>) = delete;
@@ -42,4 +44,10 @@ public:
                                   std::function < void(TableStatistics&& ts) > observer) override;
 
   void stopProducingStats() override;
+
+  // TableService interface
+  [[nodiscard]] bool isPokerApp(std::string_view executableName) const override;
+  
+  // HistoryService interface  
+  [[nodiscard]] bool isValidHistory(const std::filesystem::path& dir) override;
 }; // class App

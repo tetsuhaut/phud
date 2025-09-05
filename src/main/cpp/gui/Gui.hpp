@@ -4,7 +4,8 @@
 #include <string_view>
 
 // forward declarations
-class AppInterface;
+class TableService;
+class HistoryService;
 class PlayerStatistics;
 
 /**
@@ -18,7 +19,7 @@ private:
   std::unique_ptr<Implementation> m_pImpl;
 
 public:
-  explicit Gui(AppInterface& app);
+  explicit Gui(TableService& tableService, HistoryService& historyService);
   Gui(const Gui&) = delete;
   Gui(Gui&&) = delete;
   Gui& operator=(const Gui&) = delete;

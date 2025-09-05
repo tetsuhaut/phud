@@ -13,6 +13,7 @@ BOOST_AUTO_TEST_CASE(FilesystemTest_readingFileShouldSucceed) {
   BOOST_REQUIRE(pf::isFile(file));
   const auto& fileContent { pf::readToString(file) };
   BOOST_REQUIRE(!fileContent.empty());
+  BOOST_REQUIRE(!pf::isDir(std::filesystem::path("")));
 }
 
 BOOST_AUTO_TEST_CASE(FilesystemTest_listingFileInDirShouldSucceed) {

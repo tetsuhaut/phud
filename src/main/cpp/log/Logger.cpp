@@ -67,6 +67,9 @@ void Logger::warnStr(std::string_view msg) { globalLogger->warn(msg); globalLogg
 void Logger::errorStr(std::string_view msg) { globalLogger->error(msg); globalLogger->flush(); }
 void Logger::criticalStr(std::string_view msg) { globalLogger->critical(msg); globalLogger->flush(); }
 
+//
+// note: *_mt means "multithread, i.e. all those factories create thread-safe loggers.
+//
 /*static*/ void Logger::setupFileInfoLogging(std::string_view pattern) {
   globalLogger = spdlog::basic_logger_mt<spdlog::async_factory>("fileInfoLogger", "log.txt");
   //globalLogger = spdlog::basic_logger_mt<spdlog::synchronous_factory>("fileInfoLogger", "log.txt");

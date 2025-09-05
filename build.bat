@@ -1,7 +1,5 @@
-SETLOCAL
 IF NOT DEFINED COMPILER ECHO need to set the COMPILER environment variable && EXIT /B 1
 IF NOT DEFINED CMAKE_GENERATOR ECHO call build-*.bat instead && EXIT /B 1
-IF NOT DEFINED BUILD_DIR ECHO call build-*.bat instead && EXIT /B 1
 IF NOT DEFINED BIN_DIR ECHO call build-*.bat instead && EXIT /B 1
 
 ECHO checking for environment
@@ -17,6 +15,8 @@ FOR %%i IN (Boost_DIR FLTK_DIR frozen_DIR Microsoft.GSL_DIR SCRIPTS_DIR SPDLOG_D
 ENDLOCAL
 
 IF NOT EXIST %SCRIPTS_DIR%\timecmd.bat ECHO the script 'timecmd.bat' could not be found && EXIT /B 1
+
+SET BUILD_DIR=build-%COMPILER%
 
 IF EXIST %BUILD_DIR% (ECHO deleting build dir '%BUILD_DIR%' && RMDIR /Q /S %BUILD_DIR%)
 ECHO creating build dir '%BUILD_DIR%'
@@ -35,5 +35,4 @@ ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\simpleTHisto.db -d %CD%\src\test\resource
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\sabre_laser.db -d %CD%\src\test\resources\sabre_laser >> %BUILD_DIR%\updateDb.bat
 ECHO ^%BIN_DIR%\phud.exe > %BUILD_DIR%\phud.bat
 ECHO ^%BIN_DIR%\guiDryRun.exe > %BUILD_DIR%\guiDryRun.bat
-REM ENDLOCAL
 ECHO done

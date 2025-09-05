@@ -97,7 +97,7 @@ struct [[nodiscard]] LoggingConfig final {
     if (oPokerSiteHistoryDir.has_value()) {
       const auto& winamaxGamesHistoryDir { oPokerSiteHistoryDir.value() };
 
-      if (App::isValidHistory(winamaxGamesHistoryDir)) {
+      if (AppInterface::isValidHistory(winamaxGamesHistoryDir)) {
         mainProgram.importHistory(winamaxGamesHistoryDir);
       }
     }
