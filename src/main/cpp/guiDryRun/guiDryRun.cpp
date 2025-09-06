@@ -63,7 +63,7 @@ public:
         std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player5", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 60, .vpip = 6, .pfr = 12}),
         nullptr, nullptr, nullptr, nullptr
       };
-      m_stats.push(TableStatistics { .m_maxSeats = Seat::seatSix, .m_tableStats = std::move(fakeStats) });
+      m_stats.push(TableStatistics { Seat::seatSix, std::move(fakeStats) });
       LOG.debug<"the task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
       return m_continue; // run until the NoOpApp object is destroyed
     });

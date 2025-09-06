@@ -35,6 +35,7 @@ public:
    */
   void join();
   [[nodiscard]] bool isStopped() const noexcept;
+  [[nodiscard]] bool isRunning() const noexcept;
   /**
    * if task returns PeriodicTaskStatus::repeatTask, continue, else stop.
    */

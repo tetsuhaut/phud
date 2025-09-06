@@ -23,7 +23,7 @@ BOOST_AUTO_TEST_CASE(StatsReaderTest_notifyingShouldSucceed) {
       .siteName = "someSite", .isHero = false, .nbHands = 3, .vpip = 3, .pfr = 3 }),
     nullptr, nullptr, nullptr, nullptr, nullptr, nullptr, nullptr
   };
-  queue.push({ .m_maxSeats = Seat::seatThree, .m_tableStats = std::move(playerStats) });
+  queue.push(TableStatistics { Seat::seatThree, std::move(playerStats) });
   int nbNotified = 0;
   std::condition_variable cv;
   consumer.consumeAndNotify([&nbNotified, &cv](TableStatistics&) {

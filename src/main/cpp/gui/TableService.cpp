@@ -1,6 +1,7 @@
 #include "gui/TableService.hpp"
 #include "gui/WindowUtils.hpp"
 #include "log/Logger.hpp"
+#include "statistics/PlayerStatistics.hpp"
 
 static Logger LOG { CURRENT_FILE_NAME };
 

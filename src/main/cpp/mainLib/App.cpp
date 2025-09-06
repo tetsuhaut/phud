@@ -7,6 +7,7 @@
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/App.hpp" // App, std::unique_ptr, std::filesystem::path, phud::filesystem::*
+#include "mainLib/ProgramInfos.hpp" // ProgramInfos::*, std::string_view
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/StatsConsumer.hpp" // ThreadSafeQueue
 #include "statistics/StatsProducer.hpp"
@@ -159,18 +160,21 @@ void App::stopProducingStats() {
   if (nullptr != m_pImpl->m_fileWatcher) { m_pImpl->m_fileWatcher->stop(); }
 }
 
-// TableService interface implementation
-bool App::isPokerApp(std::string_view executableName) const { /*override*/
-  return AppInterface::isPokerApp(executableName);
+// HistoryService interface implementation
+bool App::isValidHistory(const std::filesystem::path& dir) {
+  return PokerSiteHistory::isValidHistory(dir);
 }
 
 // HistoryService interface implementation
-bool App::isValidHistory(const std::filesystem::path& dir) { /*override*/
-  return AppInterface::isValidHistory(dir);
-}
-
 void App::setHistoryDir(const fs::path& historyDir) {
-  phudAssert(nullptr == m_pImpl->m_pokerSiteHistory, "m_pImpl->m_pokerSiteHistory is not empty");
   m_pImpl->historyDir = historyDir;
   m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(m_pImpl->historyDir);
+}
+
+// TableService interface implementation
+bool App::isPokerApp(std::string_view executableName) const {
+  const auto& exe { fs::path(executableName).filename().string() };
+  const auto& stems { ProgramInfos::POKER_SITE_EXECUTABLE_STEMS };
+  return std::end(stems) != std::find_if(std::begin(stems), std::end(stems),
+    [&exe](const auto stem) noexcept { return exe.starts_with(stem); });
 }

@@ -12,6 +12,15 @@ struct [[nodiscard]] TableStatistics final {
   Seat m_maxSeats { Seat::seatUnknown };
   std::array<std::unique_ptr<PlayerStatistics>, 10> m_tableStats {};
 
+  TableStatistics() = default;
+  TableStatistics(Seat maxSeats, std::array<std::unique_ptr<PlayerStatistics>, 10> tableStats)
+    : m_maxSeats{maxSeats}, m_tableStats{std::move(tableStats)} {}
+  TableStatistics(const TableStatistics&) = delete;
+  TableStatistics(TableStatistics&&) = default;
+  TableStatistics& operator=(const TableStatistics&) = delete;
+  TableStatistics& operator=(TableStatistics&&) = default;
+  ~TableStatistics();
+
   [[nodiscard]] constexpr bool isValid() const noexcept { return Seat::seatUnknown != m_maxSeats; }
 
   [[nodiscard]] constexpr Seat getMaxSeat() const noexcept { return m_maxSeats; }

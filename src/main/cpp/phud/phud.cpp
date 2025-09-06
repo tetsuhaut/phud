@@ -1,8 +1,10 @@
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/App.hpp"
-#include "phud/ProgramArguments.hpp"  // ProgramArgumentsException, UserAskedForHelpException
 #include "mainLib/ProgramInfos.hpp"
+#include "phud/ProgramArguments.hpp"  // ProgramArgumentsException, UserAskedForHelpException
+#include "statistics/PlayerStatistics.hpp"
+#include "statistics/TableStatistics.hpp"
 
 #if defined(__MINGW32__) // removal of specific gcc warnings due to Boost
 #  pragma GCC diagnostic push
@@ -97,7 +99,7 @@ struct [[nodiscard]] LoggingConfig final {
     if (oPokerSiteHistoryDir.has_value()) {
       const auto& winamaxGamesHistoryDir { oPokerSiteHistoryDir.value() };
 
-      if (AppInterface::isValidHistory(winamaxGamesHistoryDir)) {
+      if (mainProgram.isValidHistory(winamaxGamesHistoryDir)) {
         mainProgram.importHistory(winamaxGamesHistoryDir);
       }
     }

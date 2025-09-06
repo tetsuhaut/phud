@@ -7,6 +7,9 @@
 // forward declarations
 class Site;
 
+/**
+ * @brief The hand history of all the games played on one poker site.
+ */
 class [[nodiscard]] PokerSiteHistory {
 private:
 

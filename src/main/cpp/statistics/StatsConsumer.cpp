@@ -23,7 +23,7 @@ StatsConsumer::~StatsConsumer() = default;
 
 void StatsConsumer::consumeAndNotify(std::function<void(TableStatistics&)> observerCb) {
   m_pImpl->m_task.start([this, observerCb]() {
-    if (TableStatistics stats; m_pImpl->m_statsQueue.tryPop(stats)) {
+    if (TableStatistics stats ; m_pImpl->m_statsQueue.tryPop(stats)) {
       if (Seat::seatUnknown == stats.getMaxSeat()) {
         LOG.debug<"Got no stats from db.">();
       } else {

@@ -44,16 +44,6 @@ const fs::path& dir, const fs::path& histoDir) {
            "'history'"));
   }
 
-  if (!pf::isDir(dir / "data" / "buddy")) {
-    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG,  dir.string(),
-           "'data/buddy'"));
-  }
-
-  if (!pf::isDir(dir / "data" / "players")) {
-    return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(),
-           "'data/players'"));
-  }
-
   if (!pf::listSubDirs(histoDir).empty()) {
     return Either<std::string, std::vector<fs::path>>::left(
              fmt::format("The chosen directory '{}' should contain a {} directory that contains only files",
@@ -73,6 +63,7 @@ const fs::path& dir, const fs::path& histoDir) {
  * and if it contains a 'winamax_positioning_file.dat' file.
  */
 /*static*/ bool WinamaxHistory::isValidHistory(const fs::path& dir) {
+  LOG.debug<__func__>();
   const auto& histoDir { (dir / "history").lexically_normal() };
   const auto& either { getErrorMessageOrHistoryFiles(dir, histoDir) };
 

@@ -1,6 +1,7 @@
 #include "gui/WindowUtils.hpp"
 #include "language/assert.hpp"
 #include "log/Logger.hpp"
+#include "statistics/PlayerStatistics.hpp"
 
 #include <windows.h>
 #include <psapi.h>

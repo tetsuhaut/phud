@@ -493,7 +493,7 @@ TableStatistics Database::readTableStatistics(const ReadTableStatisticsArgs& arg
                     .table(args.table)
                     .toString() };
   PreparedStatement p { m_pImpl->m_database, sql };
-  return { .m_maxSeats = getTableMaxSeat(args.site, args.table), .m_tableStats = readTableStatisticsQuery(p) };
+  return TableStatistics{getTableMaxSeat(args.site, args.table), readTableStatisticsQuery(p)};
 }
 
 std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site,

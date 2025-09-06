@@ -1,5 +1,6 @@
 #include "TestInfrastructure.hpp"
 #include "mainLib/App.hpp" // AppInterface
+#include "statistics/PlayerStatistics.hpp"
 
 namespace pt = phud::test;
 

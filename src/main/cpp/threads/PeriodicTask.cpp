@@ -54,6 +54,7 @@ void PeriodicTask::join() {
 }
 
 /*[[nodiscard]]*/ bool PeriodicTask::isStopped() const noexcept { return m_pImpl->m_taskIsStopped; }
+/*[[nodiscard]]*/ bool PeriodicTask::isRunning() const noexcept { return false == m_pImpl->m_taskIsStopped; }
 
 void PeriodicTask::start(std::function<PeriodicTaskStatus()> task) {
   m_pImpl->m_taskIsStopped = false;

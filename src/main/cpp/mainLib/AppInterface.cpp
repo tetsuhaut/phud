@@ -6,14 +6,3 @@ namespace fs = std::filesystem;
 
 AppInterface::~AppInterface() = default;
 
-bool AppInterface::isPokerApp(std::string_view executableName) const {
-  const auto& exe { fs::path(executableName).filename().string() };
-  return std::end(ProgramInfos::POKER_SITE_EXECUTABLE_STEMS) != std::find_if(
-           std::begin(ProgramInfos::POKER_SITE_EXECUTABLE_STEMS),
-           std::end(ProgramInfos::POKER_SITE_EXECUTABLE_STEMS),
-  [&exe](const auto stem) noexcept { return exe.starts_with(stem); });
-}
-
-bool AppInterface::isValidHistory(const fs::path& historyDir) {
-  return PokerSiteHistory::isValidHistory(historyDir);
-}
