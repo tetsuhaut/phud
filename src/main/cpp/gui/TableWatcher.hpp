@@ -1,18 +1,18 @@
 #pragma once
 
-#include <chrono>
-#include <functional>
-#include <memory>
+#include <functional> // std::function
+#include <memory> // std::unique_ptr
 #include <string>
 
 class [[nodiscard]] TableWatcher final {
+private:
+  struct Implementation;
+  std::unique_ptr<Implementation> m_pImpl;
 public:
-  using TableFoundCallback = std::function<void(const std::string& tableName)>;
-  using TableLostCallback = std::function<void()>;
+  using TablesChangedCallback = std::function<void(const std::vector<std::string>& tableNames)>;
   
   struct [[nodiscard]] Callbacks {
-    TableFoundCallback onTableFound;
-    TableLostCallback onTableLost;
+    TablesChangedCallback onTablesChanged;
   };
 
   explicit TableWatcher(const Callbacks& callbacks);
@@ -27,9 +27,6 @@ public:
   
   [[nodiscard]] bool isWatching() const noexcept;
   [[nodiscard]] bool hasActiveTable() const noexcept;
-  [[nodiscard]] std::string getCurrentTableName() const;
-
-private:
-  struct Implementation;
-  std::unique_ptr<Implementation> m_pImpl;
+  [[nodiscard]] std::vector<std::string> getCurrentTableNames() const;
+  [[nodiscard]] std::size_t getTableCount() const noexcept;
 }; // class TableWatcher

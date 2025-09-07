@@ -62,3 +62,26 @@ ErrorOrRectangleAndName getWindowRectangleAndName(TableService& tableService, in
 
   return ErrorOrRectangleAndName::err<"Could not get the chosen window handle.">();
 }
+
+std::vector<std::string> getWindowTitles() {
+  std::vector<std::string> titles;
+
+  EnumWindows([](HWND hwnd, LPARAM hiddenTitles) -> BOOL {
+    auto& titles = *reinterpret_cast<std::vector<std::string>*>(hiddenTitles);
+
+    if (IsWindowVisible(hwnd)) {
+      // Get window title
+      const auto length { GetWindowTextLength(hwnd) };
+      auto title { std::string(length + 1, '\0') };
+
+      if (const auto actualLength { GetWindowText(hwnd, title.data(), length + 1) }; actualLength > 0) {
+        title.resize(actualLength);
+        titles.emplace_back(title);
+      }
+    }
+
+    return TRUE; // Continue enumeration
+    }, reinterpret_cast<LPARAM>(&titles));
+
+  return titles;
+}

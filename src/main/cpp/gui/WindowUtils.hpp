@@ -40,3 +40,8 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
  * @return Result containing window rectangle and name, or error message
  */
 [[nodiscard]] ErrorOrRectangleAndName getWindowRectangleAndName(TableService& tableService, int x, int y);
+
+/**
+ * @return the list the currently visible top level windows titles
+ */
+[[nodiscard]] std::vector<std::string> getWindowTitles();

@@ -6,6 +6,9 @@
 #include <functional>
 #include <string>
 
+// forward declaration
+struct TableStatistics;
+
 /**
  * Unified service for all table-related operations.
  * Combines table selection, monitoring, and validation concerns.

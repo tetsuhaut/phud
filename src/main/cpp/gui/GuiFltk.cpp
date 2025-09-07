@@ -9,6 +9,8 @@
 #include "gui/PlayerIndicator.hpp" // DragAndDropWindow, Fl_Double_Window
 #include "gui/Position.hpp" // buildPlayerIndicatorPosition()
 #include "gui/WindowUtils.hpp"
+#include "gui/Preferences.hpp"
+#include "gui/TableWatcher.hpp"
 #include "language/assert.hpp" // phudAssert
 #include "language/Either.hpp" // ErrOrRes
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
@@ -103,11 +105,6 @@ template<VoidNullaryFunction TASK> static void scheduleUITask(TASK&& aTask) {
     }, std::make_unique<TaskType>(std::forward<TASK>(aTask)).release());
 }
 
-[[nodiscard]] static inline std::unique_ptr<Fl_Preferences> buildPreferences() {
-  /* preference name, value, default value */
-  return std::make_unique<Fl_Preferences>(Fl_Preferences::USER,
-    ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data());
-}
 
 /**
  * An Fl_Double_Window with disabled 'close on Esc key' behavior
@@ -138,13 +135,15 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Group* m_pmuGroup { nullptr };
   Fl_Tabs* m_tabs { nullptr };
   MyMainWindow* m_mainWindow { nullptr };
-  std::unique_ptr<Fl_Preferences> m_preferences { buildPreferences() };
+  std::unique_ptr<Preferences> m_preferences { std::make_unique<Preferences>() };
   Fl_Button* m_chooseHistoDirBtn { nullptr };
   Fl_Button* m_stopHudBtn { nullptr };
   Fl_Box* m_histoDirTextField { nullptr };
   Fl_Progress* m_progressBar { nullptr };
+  Fl_Box* m_watchedTablesLabel { nullptr };
   Fl_Box* m_infoBar { nullptr };
   Fl_Menu_Bar* m_menuBar { nullptr };
+  std::unique_ptr<TableWatcher> m_tableWatcher { nullptr };
   std::shared_ptr<std::array<std::unique_ptr<PlayerIndicator>, 10>> m_playerIndicators { std::make_shared<std::array<std::unique_ptr<PlayerIndicator>, 10>>() };
 
   explicit Implementation(TableService& tableService, HistoryService& historyService) 
@@ -154,9 +153,13 @@ struct [[nodiscard]] Gui::Implementation final {
   Implementation(Implementation&&) = delete;
   Implementation& operator=(const Implementation&) = delete;
   Implementation& operator=(Implementation&&) = delete;
-  ~Implementation() { ThreadPool::stop(); }
+  ~Implementation() { 
+    if (m_tableWatcher) {
+      m_tableWatcher->stop();
+    }
+    ThreadPool::stop(); 
+  }
 }; // struct Gui::Implementation
-
 
 template <typename T>
 [[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r, std::string_view label = {}) {
@@ -167,34 +170,9 @@ template <typename T>
   return std::make_unique<T>(r.x, r.y, r.w, r.h);
 }
 
-[[nodiscard]] static inline fs::path getPreferredHistoDir(Fl_Preferences& pref) {
-  char dir[MAX_PATH + 1] { '\0' };
-  pref.get(MainWindow::Label::preferencesKeyChosenDir.data(), &dir[0], "", MAX_PATH);
-  dir[MAX_PATH] = '\0';
-  const auto& pathDir { fs::path(dir) };
-  // Return path only if it's not empty and the directory exists
-  return (!pathDir.empty() and pf::isDir(pathDir)) ? pathDir : "";
-}
-
-[[nodiscard]] static inline std::string getHistoryDirectoryDisplayLabel(Fl_Preferences& pref) {
-  const auto& historyDir = getPreferredHistoDir(pref);
-  if (historyDir.empty()) {
-    return std::string(MainWindow::Label::NO_HAND_HISTORY_DIRECTORY_SELECTED);
-  }
-  
-  const auto dirString = historyDir.string();
-  // Double-check: if string conversion somehow results in empty string, return the no-directory message
-  if (dirString.empty()) {
-    return std::string(MainWindow::Label::NO_HAND_HISTORY_DIRECTORY_SELECTED);
-  }
-  
-  return dirString;
-}
-
-
-[[nodiscard]] /*static*/ inline std::unique_ptr<Fl_Native_File_Chooser> buildDirectoryChooser(
-  Fl_Preferences& preferences) {
-  const auto& startDir { getPreferredHistoDir(preferences) };
+[[nodiscard]] inline std::unique_ptr<Fl_Native_File_Chooser> buildDirectoryChooser(
+  const Preferences& preferences) {
+  const auto& startDir { preferences.getPreferredHistoDir() };
   auto pHistoryChoser { std::make_unique<Fl_Native_File_Chooser>() };
   pHistoryChoser->title(MainWindow::Label::chooseHistoryDirectory.data());
   pHistoryChoser->type(Fl_Native_File_Chooser::BROWSE_DIRECTORY);
@@ -258,18 +236,6 @@ static inline void updateTablePlayerIndicators(std::shared_ptr<std::array<std::u
   }
 }
 
-
-
-
-
-
-template<typename T> requires(std::same_as<T, const char*> or std::same_as<T, int>)
-static inline void saveToPreferences(Fl_Preferences& pref, std::string_view name, T&& value) {
-  if (0 == pref.set(name.data(), std::forward<decltype(value)>(value))) {
-    LOG.error<"Couldn't save '{}' into the preferences repository.">(name);
-  }
-}
-
 /**
 * Called by the GUI (button component) when the user clicks on the 'exit'
 * button.
@@ -277,12 +243,16 @@ static inline void saveToPreferences(Fl_Preferences& pref, std::string_view name
 static inline void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   LOG.debug<__func__>();
   LOG.info<"Stopping the GUI.">();
-  auto& preferences { *static_cast<Fl_Preferences*>(hidden) };
+  auto& impl { *static_cast<Gui::Implementation*>(hidden) };
+  
+  // Stop watching for poker tables first
+  if (impl.m_tableWatcher) {
+    impl.m_tableWatcher->stop();
+  }
+  
   /* save the main window position */
-  saveToPreferences(preferences, MainWindow::Label::x, mainWindow->x());
-  saveToPreferences(preferences, MainWindow::Label::y, mainWindow->y());
-  saveToPreferences(preferences, MainWindow::Label::width, mainWindow->w());
-  saveToPreferences(preferences, MainWindow::Label::height, mainWindow->h());
+  impl.m_preferences->saveWindowPosition(mainWindow->x(), mainWindow->y());
+  impl.m_preferences->saveWindowSize(mainWindow->w(), mainWindow->h());
 
   /* close all subwindows */
   while (Fl::first_window()) { 
@@ -305,8 +275,10 @@ static void onSetNbFiles(Fl_Progress* progressBar, std::size_t nbFilesToLoad) {
   });
 }
 
-static void onImportDone() {
-  // Table selection removed - import completion callback
+static void onImportDone(Fl_Button* chooseHistoDirBtn) {
+  scheduleUITask([chb = chooseHistoDirBtn]() {
+    chb->activate();
+  });
 }
 
 /**
@@ -314,15 +286,15 @@ static void onImportDone() {
  * Starts the import process for a valid history directory.
  * Updates UI components and starts the background import.
  */
-static inline void importDirAwakeCb(Fl_Progress* progressBar, HistoryService& historyService, const fs::path& dir) {
+static inline void importDirAwakeCb(Fl_Progress* progressBar, Fl_Button* chooseHistoDirBtn, HistoryService& historyService, const fs::path& dir) {
   LOG.debug<__func__>();
   
   try {
     LOG.info<"The import directory '{}' is valid">(dir.string());
     
     // UI update - already running in UI thread, no need for scheduleUITask
-    LOG.info<"Activating progress bar">();
     progressBar->activate();
+    chooseHistoDirBtn->deactivate();
     
     // Start import through business service
     LOG.info<"Creating import callbacks">();
@@ -332,7 +304,7 @@ static inline void importDirAwakeCb(Fl_Progress* progressBar, HistoryService& hi
       // when we know the number of files to import, setup the progress bar
       .onSetNbFiles = [progressBar](std::size_t nb) { onSetNbFiles(progressBar, nb); },
       // import completion callback
-      .onDone = []() { onImportDone(); }
+      .onDone = [chooseHistoDirBtn]() { onImportDone(chooseHistoDirBtn); }
     };
     
     LOG.info<"About to call historyService.startImport">();
@@ -345,24 +317,6 @@ static inline void importDirAwakeCb(Fl_Progress* progressBar, HistoryService& hi
   catch (...) {
     LOG.error<"Unknown exception in importDirAwakeCb">();
   }
-}
-
-static inline std::pair<int, int> getMainWindowPosition(Fl_Preferences& preferences) {
-  /* get the previous width and height from preferences, if any */
-  int width, height;
-  preferences.get(MainWindow::Label::width.data(), width, MainWindow::Screen::mainWindow.w);
-  preferences.get(MainWindow::Label::height.data(), height,
-    MainWindow::Screen::mainWindow.h);
-  /* compute the center position */
-  int dummyX, dummyY, screenWidth, screenHeight;
-  Fl::screen_xywh(dummyX, dummyY, screenWidth, screenHeight);
-  const auto initX { (screenWidth - width) / 2 };
-  const auto initY { (screenHeight - height) / 2 };
-  /* get the previous position from preferences. if none, use the center position */
-  int x, y;
-  preferences.get(MainWindow::Label::x.data(), x, initX);
-  preferences.get(MainWindow::Label::y.data(), y, initY);
-  return { x, y };
 }
 
 template<typename WIDGET>
@@ -389,9 +343,9 @@ template<typename WIDGET>
   return widget;
 }
 
-[[nodiscard]] static inline gsl::not_null<Fl_Menu_Bar*> buildMenuBar(Fl_Preferences* preferences) {
-  return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [preferences](Fl_Menu_Bar* menu) {
-    menu->add("&File/E&xit", 0, exitCb, preferences);
+[[nodiscard]] static inline gsl::not_null<Fl_Menu_Bar*> buildMenuBar(Gui::Implementation* impl) {
+  return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [impl](Fl_Menu_Bar* menu) {
+    menu->add("&File/E&xit", 0, exitCb, impl);
     menu->box(FL_NO_BOX);
   });
 }
@@ -402,22 +356,22 @@ void handleOk(std::string_view dirName, Gui::Implementation& self) {
   LOG.info<"the user chose to import the directory '{}'">(dir.string());
 
   if (self.m_historyService.historyDirectoryIsValid(dir)) {
-    saveToPreferences(*self.m_preferences, MainWindow::Label::preferencesKeyChosenDir,
-      dir.string().c_str()); // to get const char*
+    self.m_preferences->saveHistoryDirectory(dir);
     self.m_historyService.setHistoryDir(dir); // Set the history directory in the service
     
     // Update directory label immediately (synchronously) to avoid pointer issues
-    const auto& label = getHistoryDirectoryDisplayLabel(*self.m_preferences);
+    const auto& label = self.m_preferences->getHistoryDirectoryDisplayLabel();
     self.m_histoDirTextField->copy_label(label.c_str());
     
     // Schedule the rest of the UI updates and import
     scheduleUITask([pb = self.m_progressBar,
+                    chb = self.m_chooseHistoDirBtn,
                     historyService = &self.m_historyService,
-                    dir = std::move(dir)]() { 
+                    dir]() { 
       try {
         LOG.info<"About to start import process">();
         // Start import
-        importDirAwakeCb(pb, *historyService, dir); 
+        importDirAwakeCb(pb, chb, *historyService, dir);
         LOG.info<"Import process started successfully">();
       }
       catch (const std::exception& e) {
@@ -474,7 +428,6 @@ void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
   });
 }
 
-
 [[nodiscard]] static inline gsl::not_null<Fl_Button*> buildStopHudBtn(Gui::Implementation& aSelf) {
   
   // Called by the GUI (button component) when the user clicks on the 'stop HUD'
@@ -498,10 +451,10 @@ void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
   });
 }
 
-[[nodiscard]] static inline gsl::not_null<Fl_Box*> buildHistoDirTextField(Fl_Preferences& pref) {
+[[nodiscard]] static inline gsl::not_null<Fl_Box*> buildHistoDirTextField(const Preferences& pref) {
   return createWidget<Fl_Box>(MainWindow::Screen::histoDirTextField, [&pref](Fl_Box* box) {
     /* setup the text box to display the chosen directory */
-    const auto& label = getHistoryDirectoryDisplayLabel(pref);
+    const auto& label = pref.getHistoryDirectoryDisplayLabel();
     box->copy_label(label.c_str());
   });
 }
@@ -518,35 +471,67 @@ void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
   });
 }
 
+[[nodiscard]] static inline gsl::not_null<Fl_Box*> buildWatchedTablesLabel() {
+  return createWidget<Fl_Box>(MainWindow::Screen::watchedTableLabel, MainWindow::Label::noPokerTableDetected, [](Fl_Box* box) {
+    box->align(FL_ALIGN_LEFT | FL_ALIGN_INSIDE);
+  });
+}
+
 [[nodiscard]] static inline gsl::not_null<Fl_Box*> buildInfoBar() {
   return createWidget<Fl_Box>(MainWindow::Screen::infoBar, MainWindow::Label::WELCOME);
 }
 
-static inline gsl::not_null<MyMainWindow*> buildMainWindow(Fl_Preferences* preferences) {
+[[nodiscard]] static inline std::unique_ptr<TableWatcher> buildTableWatcher(Fl_Box* watchedTableLabel) {
+  TableWatcher::Callbacks callbacks {
+    .onTablesChanged = [watchedTableLabel](const std::vector<std::string>& tableNames) {
+      scheduleUITask([watchedTableLabel, tableNames]() {
+        if (tableNames.empty()) {
+          watchedTableLabel->copy_label(MainWindow::Label::noPokerTableDetected.data());
+        } else if (tableNames.size() == 1) {
+          const auto displayText = std::string(MainWindow::Label::watchingTable) + tableNames.front();
+          watchedTableLabel->copy_label(displayText.c_str());
+        } else {
+          const auto displayText = fmt::format(MainWindow::Label::watchingMultipleTables, tableNames.size());
+          watchedTableLabel->copy_label(displayText.c_str());
+        }
+      });
+    }
+  };
+  
+  return std::make_unique<TableWatcher>(callbacks);
+}
+
+static inline gsl::not_null<MyMainWindow*> buildMainWindow(Gui::Implementation* impl) {
   Fl::scheme(FltkSkin::gleam.data());  // select the look & feel
   Fl::visual(Fl_Mode::FL_DOUBLE | Fl_Mode::FL_INDEX);  // enhance look where needed
   const auto [mx, my, mw, mh] { MainWindow::Screen::mainWindow };
   auto ret { new MyMainWindow(mx, my, mw, mh, MainWindow::Label::mainWindowTitle.data()) };
-  const auto [x, y] { getMainWindowPosition(*preferences) };
+  const auto [x, y] { impl->m_preferences->getMainWindowPosition() };
   ret->position(x, y);
-  ret->callback(exitCb, preferences);
+  ret->callback(exitCb, impl);
   return ret;
 }
 
 Gui::Gui(TableService& tableService, HistoryService& historyService)
   : m_pImpl { std::make_unique<Gui::Implementation>(tableService, historyService) } {
   LOG.debug<__func__>();
-  m_pImpl->m_mainWindow = buildMainWindow(m_pImpl->m_preferences.get());
-  m_pImpl->m_menuBar = buildMenuBar(m_pImpl->m_preferences.get());
+  m_pImpl->m_mainWindow = buildMainWindow(m_pImpl.get());
+  m_pImpl->m_menuBar = buildMenuBar(m_pImpl.get());
   m_pImpl->m_chooseHistoDirBtn = buildChooseHistoDirBtn(*m_pImpl);
   m_pImpl->m_histoDirTextField = buildHistoDirTextField(*m_pImpl->m_preferences);
   m_pImpl->m_progressBar = buildProgressBar();
-  if (const auto dir { getPreferredHistoDir(*m_pImpl->m_preferences) }; pf::isDir(dir)) {
+  m_pImpl->m_watchedTablesLabel = buildWatchedTablesLabel();
+  if (const auto dir { m_pImpl->m_preferences->getPreferredHistoDir() }; pf::isDir(dir)) {
     m_pImpl->m_historyService.setHistoryDir(dir);
   }
 
   m_pImpl->m_stopHudBtn = buildStopHudBtn(*m_pImpl);
   m_pImpl->m_infoBar = buildInfoBar();
+  
+  // Create and start table watcher
+  m_pImpl->m_tableWatcher = buildTableWatcher(m_pImpl->m_watchedTablesLabel);
+  m_pImpl->m_tableWatcher->start();
+  
   m_pImpl->m_mainWindow->end();
 }
 
