@@ -4,7 +4,7 @@
 #include "gui/Rectangle.hpp"
 #include "language/ErrOrRes.hpp"
 
-#include <utility>
+#include <utility> // std::pair
 #include <string>
 #include <windows.h>
 

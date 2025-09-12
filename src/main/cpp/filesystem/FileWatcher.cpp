@@ -45,7 +45,7 @@ static inline void getLatestUpdatedFile(const fs::path& file,
     LOG.error<"Error checking if the file {} has changed: {}">(file.string(), ec.message());
   }
 }
-
+// forces the use of fs::path
 static inline void getLatestUpdatedFile(auto, fs::file_time_type&, auto&&) = delete;
 
 FileWatcher::FileWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& file)
@@ -65,6 +65,6 @@ void FileWatcher::start(std::function<void(const fs::path&)> fileHasChangedCb) {
   });
 }
 
-void FileWatcher::stop() { m_pImpl->m_task.stop(); }
+void FileWatcher::stop() { m_pImpl->m_task.stop(); } // TODO : proposer de rendre stop() noexcept chez stlab
 
 /*[[nodiscard]]*/ bool FileWatcher::isStopped() const noexcept { return m_pImpl->m_task.isStopped(); }

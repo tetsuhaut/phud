@@ -13,20 +13,18 @@ private:
 public:
   FileWatcher(std::chrono::milliseconds reloadPeriod, const std::filesystem::path& file);
   FileWatcher(int, auto) = delete; // use only std::filesystem::path
-
   FileWatcher(const FileWatcher&) = delete;
   FileWatcher(FileWatcher&&) = delete;
   FileWatcher& operator=(const FileWatcher&) = delete;
   FileWatcher& operator=(FileWatcher&&) = delete;
   ~FileWatcher();
   /**
-   * Watches periodically the previously provided file. Each time it changes,
-   * @fileHasChangedCb is called.
+   * Watches periodically the file provided in the constructor. Each time it changes,
+   * calls @fileHasChangedCb.
    * Call stop() or destroy to stop the watching thread.
    * @param fileHasChangedCb called each time the file changes
    */
   void start(std::function<void(const std::filesystem::path&)> fileHasChangedCb);
-
   void stop();
   [[nodiscard]] bool isStopped() const noexcept;
 }; // class FileWatcher

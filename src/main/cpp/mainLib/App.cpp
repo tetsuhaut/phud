@@ -50,8 +50,8 @@ struct [[nodiscard]] App::Implementation final {
   }
 
   /**
-   *  on regarde les fichiers dans l'historique, on recharge ceux qui sont mis à jour
-   * on notifie l'observer (le GUI) des nouvelles stats
+   * Periodically reload the game history files that have changed, then notifies the observer
+   * with the new statistics.
    */
   static void watchHistoFile(App::Implementation& self, const fs::path& file,
                                     std::string table, auto observer) {
@@ -143,10 +143,12 @@ void App::stopImportingHistory() {
   m_pImpl->m_loadTask.reset();
 }
 
-// on écoute les changements du fichier d'historique,
-// en cas de changement on requête périodiquement la base pour recuperer les stats
+/**
+ * Listens to the history file updates. When the OS tells us it changed, we periodically query
+ * the database to get stats
+ */
 std::string App::startProducingStats(std::string_view tableWindowTitle,
-                                     std::function < void(TableStatistics&& ts) > statObserver) {
+                                     std::function < void(TableStatistics&&) > statObserver) {
   const auto& h { m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->historyDir, tableWindowTitle) };
 
   if (h.empty()) { return fmt::format("Couldn't get history file for table '{}'", tableWindowTitle); }

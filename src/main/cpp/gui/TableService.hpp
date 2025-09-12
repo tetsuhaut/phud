@@ -19,12 +19,6 @@ private:
   
 public:
   virtual ~TableService() = default;
-  struct [[nodiscard]] TableSelectionResult final {
-    bool success;
-    std::string tableName;
-    phud::Rectangle position;
-    std::string errorMessage;
-  };
 
   /**
    * Checks if the given executable name represents a supported poker application.
@@ -32,14 +26,6 @@ public:
    * @return True if it's a supported poker application
    */
   [[nodiscard]] virtual bool isPokerApp(std::string_view executableName) const = 0;
-
-  /**
-   * Attempts to select a table at the given screen coordinates.
-   * @param x Screen x coordinate
-   * @param y Screen y coordinate  
-   * @return Result containing success status and table information
-   */
-  [[nodiscard]] TableSelectionResult selectTableAt(int x, int y);
 
   /**
    * Starts producing statistics for the given table.

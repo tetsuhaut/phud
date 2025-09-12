@@ -22,6 +22,7 @@
 #include "threads/ThreadPool.hpp"
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::finally
+#include <unordered_map>
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
@@ -144,7 +145,7 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Box* m_infoBar { nullptr };
   Fl_Menu_Bar* m_menuBar { nullptr };
   std::unique_ptr<TableWatcher> m_tableWatcher { nullptr };
-  std::shared_ptr<std::array<std::unique_ptr<PlayerIndicator>, 10>> m_playerIndicators { std::make_shared<std::array<std::unique_ptr<PlayerIndicator>, 10>>() };
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>> m_playerIndicators;
 
   explicit Implementation(TableService& tableService, HistoryService& historyService) 
     : m_tableService { tableService }
@@ -206,7 +207,7 @@ static inline void setWindowOnTopMost(const Fl_Window& above) {
   SetWindowPos(fl_xid(&above), HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE | SWP_NOOWNERZORDER);
 }
 
-static inline void updateTablePlayerIndicators(std::shared_ptr<std::array<std::unique_ptr<PlayerIndicator>, 10>> playerIndicators, const phud::Rectangle& tablePosition,
+static inline void updateTablePlayerIndicators(std::array<std::unique_ptr<PlayerIndicator>, 10>& playerIndicators, const phud::Rectangle& tablePosition,
   TableStatistics tableStatistics) {
   const auto heroSeat { tableStatistics.getHeroSeat() };
   const auto& seats { tableStatistics.getSeats() };
@@ -215,13 +216,13 @@ static inline void updateTablePlayerIndicators(std::shared_ptr<std::array<std::u
     auto ps { tableStatistics.extractPlayerStatistics(seat) };
     // clear player indicators
     if (nullptr == ps) {
-      playerIndicators->at(tableSeat::toArrayIndex(seat)).reset();
+      playerIndicators.at(tableSeat::toArrayIndex(seat)).reset();
     }
     else {
       const auto& pos { buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition) };
       // update the PlayerIndicators with the latest stats.
       // -1 < seat < nbSeats, 1 < nbSeats < 11
-      auto& playerIndicator { playerIndicators->at(tableSeat::toArrayIndex(seat)) };
+      auto& playerIndicator { playerIndicators.at(tableSeat::toArrayIndex(seat)) };
 
       if (nullptr == playerIndicator) {
         playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName());
@@ -232,6 +233,63 @@ static inline void updateTablePlayerIndicators(std::shared_ptr<std::array<std::u
       playerIndicator->setStats(*ps);
       setWindowOnTopMost(*playerIndicator);
       playerIndicator->show();
+    }
+  }
+}
+
+static inline void managePlayerIndicatorsForTables(
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  const std::vector<std::string>& currentTables,
+  TableService& tableService) {
+  
+  // Remove indicators for tables no longer detected
+  auto it = playerIndicators.begin();
+  while (it != playerIndicators.end()) {
+    if (currentTables.end() == std::find(currentTables.begin(), currentTables.end(), it->first)) {
+      // Stop monitoring this table
+      tableService.stopMonitoring();
+      
+      // Clear all player indicators for this table
+      for (auto& pi : it->second) {
+        pi.reset();
+      }
+      LOG.debug<"Removed player indicators for table: {}">(it->first);
+      it = playerIndicators.erase(it);
+    } else {
+      ++it;
+    }
+  }
+  
+  // Create/update indicators for current tables
+  for (const auto& tableName : currentTables) {
+    // Create entry if it doesn't exist
+    if (playerIndicators.find(tableName) == playerIndicators.end()) {
+      playerIndicators[tableName] = std::array<std::unique_ptr<PlayerIndicator>, 10>{};
+      LOG.debug<"Created player indicators array for table: {}">(tableName);
+      
+      // Start monitoring this table for statistics
+      auto observer = [&playerIndicators, tableName](TableStatistics&& stats) {
+        scheduleUITask([&playerIndicators, tableName, stats = std::move(stats)]() mutable {
+          // Find window position by title
+          HWND hwnd = FindWindow(NULL, tableName.c_str());
+          if (hwnd != NULL) {
+            RECT rect;
+            if (GetWindowRect(hwnd, &rect)) {
+              phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
+              
+              // Update PlayerIndicators with real statistics
+              if (playerIndicators.find(tableName) != playerIndicators.end()) {
+                updateTablePlayerIndicators(playerIndicators[tableName], tableRect, std::move(stats));
+              }
+            }
+          }
+        });
+      };
+      
+      const auto& errorMsg = tableService.startMonitoringTable(tableName, observer);
+      if (!errorMsg.empty()) {
+        LOG.error<"Failed to start monitoring table '{}': {}">(tableName, errorMsg);
+      }
     }
   }
 }
@@ -437,7 +495,10 @@ void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
     // Use business service to stop monitoring
     self.m_tableService.stopMonitoring();
     // kill PlayerIndicators
-    std::ranges::for_each(*self.m_playerIndicators, [](auto& pi) { pi.reset(); });
+    for (auto& [tableName, indicators] : self.m_playerIndicators) {
+      std::ranges::for_each(indicators, [](auto& pi) { pi.reset(); });
+    }
+    self.m_playerIndicators.clear();
     button->deactivate();
     informUser<MainWindow::Label::noPlayerIndicators>(self);
     Fl::redraw();
@@ -481,19 +542,27 @@ void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
   return createWidget<Fl_Box>(MainWindow::Screen::infoBar, MainWindow::Label::WELCOME);
 }
 
-[[nodiscard]] static inline std::unique_ptr<TableWatcher> buildTableWatcher(Fl_Box* watchedTableLabel) {
+[[nodiscard]] static inline std::unique_ptr<TableWatcher> buildTableWatcher(
+  Fl_Box* pWatchedTableLabel, 
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  TableService& tableService) {
+  
   TableWatcher::Callbacks callbacks {
-    .onTablesChanged = [watchedTableLabel](const std::vector<std::string>& tableNames) {
-      scheduleUITask([watchedTableLabel, tableNames]() {
+    .onTablesChanged = [pWatchedTableLabel, &playerIndicators, &tableService](const std::vector<std::string>& tableNames) {
+      scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, tableNames]() {
+        // Update label
         if (tableNames.empty()) {
-          watchedTableLabel->copy_label(MainWindow::Label::noPokerTableDetected.data());
+          pWatchedTableLabel->copy_label(MainWindow::Label::noPokerTableDetected.data());
         } else if (tableNames.size() == 1) {
           const auto displayText = std::string(MainWindow::Label::watchingTable) + tableNames.front();
-          watchedTableLabel->copy_label(displayText.c_str());
+          pWatchedTableLabel->copy_label(displayText.c_str());
         } else {
           const auto displayText = fmt::format(MainWindow::Label::watchingMultipleTables, tableNames.size());
-          watchedTableLabel->copy_label(displayText.c_str());
+          pWatchedTableLabel->copy_label(displayText.c_str());
         }
+        
+        // Manage PlayerIndicators for all detected tables
+        managePlayerIndicatorsForTables(playerIndicators, tableNames, tableService);
       });
     }
   };
@@ -529,7 +598,10 @@ Gui::Gui(TableService& tableService, HistoryService& historyService)
   m_pImpl->m_infoBar = buildInfoBar();
   
   // Create and start table watcher
-  m_pImpl->m_tableWatcher = buildTableWatcher(m_pImpl->m_watchedTablesLabel);
+  m_pImpl->m_tableWatcher = buildTableWatcher(
+    m_pImpl->m_watchedTablesLabel, 
+    m_pImpl->m_playerIndicators, 
+    m_pImpl->m_tableService);
   m_pImpl->m_tableWatcher->start();
   
   m_pImpl->m_mainWindow->end();
