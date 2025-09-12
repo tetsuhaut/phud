@@ -1,15 +1,18 @@
 #pragma once
 
 #include "mainLib/AppInterface.hpp" // std::filesystem::path, std::function, TableStatistics
-#include "gui/TableService.hpp"
-#include "gui/HistoryService.hpp"
 
 #include <memory> // std::unique_ptr
+
+// forward declarations
+class Database;
+class TableService;
+class HistoryService;
 
 /**
  * The phud application.
  */
-class [[nodiscard]] App final : public AppInterface, public TableService, public HistoryService {
+class [[nodiscard]] App final : public AppInterface {
 private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
@@ -44,16 +47,4 @@ public:
                                   std::function < void(TableStatistics&& ts) > observer) override;
 
   void stopProducingStats() override;
-  
-  /**
-   * @return true if historyDir is the wanted Poker application history directory.
-   */
-  [[nodiscard]] bool isValidHistory(const std::filesystem::path& dir);
-
-  /**
-   * Checks if the given executable name represents a supported poker application.
-   * @param executableName Name/path of the executable
-   * @return True if it's a supported poker application
-   */
-  [[nodiscard]] virtual bool isPokerApp(std::string_view executableName) const override;
 }; // class App

@@ -1,5 +1,6 @@
 #include "gui/TableWatcher.hpp"
 #include "gui/WindowUtils.hpp"
+#include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "threads/PeriodicTask.hpp"

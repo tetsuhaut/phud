@@ -2,29 +2,39 @@
 
 #include <filesystem>
 #include <functional>
+#include <memory>
 #include <string>
+
+// forward declarations
+class Database;
+class PokerSiteHistory;
 
 namespace fs = std::filesystem;
 
 /**
  * Unified service for all history-related operations.
  * Combines history import, validation, and management concerns.
+ * This is a concrete sealed class - not polymorphic.
  */
-class [[nodiscard]] HistoryService {
+class [[nodiscard]] HistoryService final {
+private:
+  struct Implementation;
+  std::unique_ptr<Implementation> m_pImpl;
+
 public:
-  virtual ~HistoryService() = default;
-  struct [[nodiscard]] ImportCallbacks final {
-    std::function<void()> onProgress;
-    std::function<void(std::size_t)> onSetNbFiles;
-    std::function<void()> onDone;
-  };
+  explicit HistoryService(Database& database);
+  HistoryService(const HistoryService&) = delete;
+  HistoryService(HistoryService&&) = delete;
+  HistoryService& operator=(const HistoryService&) = delete;
+  HistoryService& operator=(HistoryService&&) = delete;
+  ~HistoryService();
 
   /**
    * Validates if the given directory contains valid poker history.
    * @param dir Directory path to validate
    * @return True if directory contains valid history files
    */
-  [[nodiscard]] virtual bool isValidHistory(const fs::path& dir) = 0;
+  [[nodiscard]] bool isValidHistory(const fs::path& dir);
   
   /**
    * Imports history from the given directory.
@@ -33,35 +43,25 @@ public:
    * @param onSetNbFiles Callback called when total file count is known
    * @param onDone Callback called when import is complete
    */
-  virtual void importHistory(const fs::path& dir, 
-                            std::function<void()> onProgress,
-                            std::function<void(std::size_t)> onSetNbFiles,
-                            std::function<void()> onDone) = 0;
+  void importHistory(const fs::path& dir, 
+                     std::function<void()> onProgress,
+                     std::function<void(std::size_t)> onSetNbFiles,
+                     std::function<void()> onDone);
                             
   /**
    * Sets the current history directory.
    * @param dir History directory path
    */
-  virtual void setHistoryDir(const fs::path& dir) = 0;
+  void setHistoryDir(const fs::path& dir);
 
   /**
-   * Validates if the given directory contains valid poker history.
-   * @param dir Directory path to validate
-   * @return True if directory contains valid history files
+   * Stops importing history.
    */
-  [[nodiscard]] bool historyDirectoryIsValid(const fs::path& dir);
+  void stopImportingHistory();
 
   /**
-   * Starts importing history from the given directory.
-   * @param dir Directory containing history files
-   * @param callbacks Callbacks for import progress updates
+   * Gets the poker site history instance.
+   * @return Shared pointer to poker site history
    */
-  void startImport(const fs::path& dir, ImportCallbacks callbacks);
-
-  /**
-   * Gets the display name for a directory (filename only).
-   * @param dir Directory path
-   * @return Display name for UI
-   */
-  [[nodiscard]] std::string getDisplayName(const fs::path& dir);
+  [[nodiscard]] std::shared_ptr<PokerSiteHistory> getPokerSiteHistory() const;
 };

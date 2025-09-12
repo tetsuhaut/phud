@@ -1,106 +1,34 @@
+#include "mainLib/App.hpp"
+
 #include "db/Database.hpp"
-#include "entities/Site.hpp"
-#include "filesystem/FileWatcher.hpp"
 #include "gui/Gui.hpp"
-#include "history/PokerSiteHistory.hpp"
-#include "language/Either.hpp" // ErrOrRes
-#include "language/assert.hpp" // phudAssert
-#include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/App.hpp" // App, std::unique_ptr, std::filesystem::path, phud::filesystem::*
-#include "mainLib/ProgramInfos.hpp" // ProgramInfos::*, std::string_view
-#include "statistics/PlayerStatistics.hpp"
-#include "statistics/StatsConsumer.hpp" // ThreadSafeQueue
-#include "statistics/StatsProducer.hpp"
-#include "statistics/TableStatistics.hpp"
-#include "threads/ThreadPool.hpp" // Future, std::chrono::*
-
-#include <stlab/concurrency/utility.hpp> // stlab::await
-
-#include <chrono>
+#include "gui/HistoryService.hpp"
+#include "gui/TableService.hpp"
+#include "log/Logger.hpp"
 
 namespace fs = std::filesystem;
 
 static Logger LOG { CURRENT_FILE_NAME };
 
-static constexpr std::chrono::milliseconds RELOAD_PERIOD { 2000 };
-
 struct [[nodiscard]] App::Implementation final {
-  std::unique_ptr<Database> m_model;
+  std::unique_ptr<Database> m_database;
+  std::unique_ptr<TableService> m_tableService;
+  std::unique_ptr<HistoryService> m_historyService;
   std::unique_ptr<Gui> m_gui {};
-  ThreadSafeQueue<TableStatistics> m_statsQueue {};
-  std::unique_ptr<FileWatcher> m_fileWatcher {};
-  std::unique_ptr<PokerSiteHistory> m_pokerSiteHistory {};
-  Future<void> m_reloadTask {}; // for reloading the current history file
-  Future<void> m_loadTask {}; // for history import
-  fs::path historyDir {};
 
   Implementation(std::string_view databaseName)
-    : m_model { std::make_unique<Database>(databaseName) } {}
-
-  [[nodiscard]] static inline TableStatistics extractTableStatistics(auto& self,
-      std::string_view table) {
-    if (auto stats { self.m_model->readTableStatistics({.site = "Winamax", .table = table}) };
-        stats.isValid()) {
-      LOG.debug<"Got stats from db.">();
-      return stats;
-    } else {
-      LOG.debug<"Got no stats from db yet for table {} on site {}.">(table, "Winamax");
-      return TableStatistics();
-    }
-  }
-
-  /**
-   * Periodically reload the game history files that have changed, then notifies the observer
-   * with the new statistics.
-   */
-  static void watchHistoFile(App::Implementation& self, const fs::path& file,
-                                    std::string table, auto observer) {
-    self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
-    self.m_fileWatcher->start([&self, table, observer](const fs::path & f) {
-      self.m_reloadTask = ThreadPool::submit([&self, table, observer, f]() {
-        LOG.debug<"Notified, reloading the file\n{}">(f.string());
-        return self.m_pokerSiteHistory->reloadFile(f);
-      })
-      .then([&self](const auto & pSite) { self.m_model->save(*pSite); })
-      .then([&self, table]() { return extractTableStatistics(self, table); })
-      .then([&self, observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
-    });
-    self.m_gui->informUser(fmt::format("Watching the file {}", file.filename().string()));
-  }
+    : m_database { std::make_unique<Database>(databaseName) },
+      m_tableService { std::make_unique<TableService>(*m_database) },
+      m_historyService { std::make_unique<HistoryService>(*m_database) } {}
 };
 
 App::App(std::string_view databaseName)
   : m_pImpl {std::make_unique<Implementation>(databaseName)} {}
 
-App::~App() {
-  try {
-    if (nullptr != m_pImpl->m_fileWatcher) { m_pImpl->m_fileWatcher->stop(); }
-  } catch (...) { // can't throw in a destructor
-    LOG.error<"Unknown Error when stopping the file watch in the App destruction.">();
-  }
-  try {
-    stopImportingHistory();
-  } catch (...) { // can't throw in a destructor
-    LOG.error<"Unknown Error when stopping the history import in the App destruction.">();
-  }
-  try {
-    stopProducingStats();
-  } catch (...) { // can't throw in a destructor
-    LOG.error<"Unknown Error when stopping the stat production in the App destruction.">();
-  }
-}
-
-static inline void notify(TableStatistics&& stats, auto statObserver) {
-  if (Seat::seatUnknown == stats.getMaxSeat()) {
-    LOG.debug<"Got no stats from db.">();
-  } else {
-    LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
-    statObserver(std::move(stats));
-  }
-}
+App::~App() = default;
 
 int App::showGui() { /*override*/
-  m_pImpl->m_gui = std::make_unique<Gui>(static_cast<TableService&>(*this), static_cast<HistoryService&>(*this));
+  m_pImpl->m_gui = std::make_unique<Gui>(*m_pImpl->m_tableService, *m_pImpl->m_historyService);
   return m_pImpl->m_gui->run();
 }
 
@@ -108,75 +36,27 @@ void App::importHistory(const fs::path& historyDir,
                         std::function<void()> onProgress,
                         std::function<void(std::size_t)> onSetNbFiles,
                         std::function<void()> onDone) {
-  m_pImpl->historyDir = historyDir.lexically_normal();
-  m_pImpl->m_loadTask = ThreadPool::submit([this, historyDir, onProgress, onSetNbFiles]() {
-    // as this method will execute in another thread, it should not throw
-    try {
-      if (m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(historyDir);
-          m_pImpl->m_pokerSiteHistory) {
-        return m_pImpl->m_pokerSiteHistory->load(historyDir, onProgress, onSetNbFiles);
-      }
-    } catch (const std::exception& e) {
-      LOG.error<"Unexpected exception during the history import: {}.">(e.what());
-    } catch (...) {
-      LOG.error<"Unknown Error during the history import.">();
-    }
-
-    return std::unique_ptr<Site>();
-  })
-  .then([this](const auto & pSite) {
-    try {
-      if (pSite) { m_pImpl->m_model->save(*pSite); }
-    } catch (const DatabaseException& e) {
-      LOG.error<"Exception during the database usage: {}.">(e.what());
-    } catch (...) { LOG.error<"Unknown during the database usage.">(); }
-  })
-  .then([onDone]() { if (onDone) { onDone(); }});
+  m_pImpl->m_historyService->importHistory(historyDir, onProgress, onSetNbFiles, onDone);
 }
 
-// TODO utiliser des variables atomiques pour limiter ce que fait le load
 void App::stopImportingHistory() {
-  if (m_pImpl->m_pokerSiteHistory) { m_pImpl->m_pokerSiteHistory->stopLoading(); }
-
-  if (m_pImpl->m_loadTask.valid()) { stlab::await(std::move(m_pImpl->m_loadTask)); }
-
-  m_pImpl->m_loadTask.reset();
+  m_pImpl->m_historyService->stopImportingHistory();
 }
 
-/**
- * Listens to the history file updates. When the OS tells us it changed, we periodically query
- * the database to get stats
- */
+void App::setHistoryDir(const fs::path& historyDir) {
+  m_pImpl->m_historyService->setHistoryDir(historyDir);
+  
+  // Share the PokerSiteHistory instance with TableService
+  auto pokerSiteHistory = m_pImpl->m_historyService->getPokerSiteHistory();
+  m_pImpl->m_tableService->setPokerSiteHistory(pokerSiteHistory);
+  m_pImpl->m_tableService->setHistoryDir(historyDir);
+}
+
 std::string App::startProducingStats(std::string_view tableWindowTitle,
-                                     std::function < void(TableStatistics&&) > statObserver) {
-  const auto& h { m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->historyDir, tableWindowTitle) };
-
-  if (h.empty()) { return fmt::format("Couldn't get history file for table '{}'", tableWindowTitle); }
-
-  const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
-  App::Implementation::watchHistoFile(*m_pImpl, h, std::string(tableName), statObserver);
-  return "";
+                                     std::function<void(TableStatistics&&)> statObserver) {
+  return m_pImpl->m_tableService->startProducingStats(tableWindowTitle, statObserver);
 }
 
 void App::stopProducingStats() {
-  if (nullptr != m_pImpl->m_fileWatcher) { m_pImpl->m_fileWatcher->stop(); }
-}
-
-// HistoryService interface implementation
-bool App::isValidHistory(const std::filesystem::path& dir) {
-  return PokerSiteHistory::isValidHistory(dir);
-}
-
-// HistoryService interface implementation
-void App::setHistoryDir(const fs::path& historyDir) {
-  m_pImpl->historyDir = historyDir;
-  m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(m_pImpl->historyDir);
-}
-
-// TableService interface implementation
-bool App::isPokerApp(std::string_view executableName) const {
-  const auto& exe { fs::path(executableName).filename().string() };
-  const auto& stems { ProgramInfos::POKER_SITE_EXECUTABLE_STEMS };
-  return std::end(stems) != std::find_if(std::begin(stems), std::end(stems),
-    [&exe](const auto stem) noexcept { return exe.starts_with(stem); });
+  m_pImpl->m_tableService->stopProducingStats();
 }
