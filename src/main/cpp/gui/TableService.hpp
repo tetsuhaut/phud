@@ -11,7 +11,6 @@ class Database;
 class FileWatcher;
 class PokerSiteHistory;
 struct TableStatistics;
-template<typename T> class Future;
 
 namespace fs = std::filesystem;
 

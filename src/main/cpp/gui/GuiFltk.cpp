@@ -247,7 +247,7 @@ static inline void managePlayerIndicatorsForTables(
   while (it != playerIndicators.end()) {
     if (currentTables.end() == std::find(currentTables.begin(), currentTables.end(), it->first)) {
       // Stop monitoring this table
-      tableService.stopMonitoring();
+      tableService.stopProducingStats();
       
       // Clear all player indicators for this table
       for (auto& pi : it->second) {
@@ -286,7 +286,7 @@ static inline void managePlayerIndicatorsForTables(
         });
       };
       
-      const auto& errorMsg = tableService.startMonitoringTable(tableName, observer);
+      const auto& errorMsg = tableService.startProducingStats(tableName, observer);
       if (!errorMsg.empty()) {
         LOG.error<"Failed to start monitoring table '{}': {}">(tableName, errorMsg);
       }
@@ -355,19 +355,15 @@ static inline void importDirAwakeCb(Fl_Progress* progressBar, Fl_Button* chooseH
     chooseHistoDirBtn->deactivate();
     
     // Start import through business service
-    LOG.info<"Creating import callbacks">();
-    HistoryService::ImportCallbacks callbacks{
-      // update the progress bar during the import
-      .onProgress = [progressBar]() { onImportProgress(progressBar); },
-      // when we know the number of files to import, setup the progress bar
-      .onSetNbFiles = [progressBar](std::size_t nb) { onSetNbFiles(progressBar, nb); },
-      // import completion callback
-      .onDone = [chooseHistoDirBtn]() { onImportDone(chooseHistoDirBtn); }
-    };
-    
     LOG.info<"About to call historyService.startImport">();
-    historyService.startImport(dir, callbacks);
-    LOG.info<"historyService.startImport completed">();
+    historyService.importHistory(dir,
+      // update the progress bar during the import
+      [progressBar]() { onImportProgress(progressBar); },
+      // when we know the number of files to import, setup the progress bar
+      [progressBar](std::size_t nb) { onSetNbFiles(progressBar, nb); },
+      // import completion callback
+      [chooseHistoDirBtn]() { onImportDone(chooseHistoDirBtn); });    
+    LOG.info<"historyService.importHistory completed">();
   }
   catch (const std::exception& e) {
     LOG.error<"Exception in importDirAwakeCb: {}">(e.what());
@@ -413,7 +409,7 @@ void handleOk(std::string_view dirName, Gui::Implementation& self) {
   const auto dir { fs::path { dirName } };
   LOG.info<"the user chose to import the directory '{}'">(dir.string());
 
-  if (self.m_historyService.historyDirectoryIsValid(dir)) {
+  if (self.m_historyService.isValidHistory(dir)) {
     self.m_preferences->saveHistoryDirectory(dir);
     self.m_historyService.setHistoryDir(dir); // Set the history directory in the service
     
@@ -493,7 +489,7 @@ void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
     auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
     LOG.debug<__func__>();
     // Use business service to stop monitoring
-    self.m_tableService.stopMonitoring();
+    self.m_tableService.stopProducingStats();
     // kill PlayerIndicators
     for (auto& [tableName, indicators] : self.m_playerIndicators) {
       std::ranges::for_each(indicators, [](auto& pi) { pi.reset(); });

@@ -7,10 +7,10 @@
 
 #include <FL/Fl_Preferences.H>
 
-#include <windows.h>
 #include <FL/Fl.H>
 
 static Logger LOG { CURRENT_FILE_NAME };
+static constexpr int MAX_PATH_LENGTH { 260 };
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -29,9 +29,7 @@ Preferences::Preferences()
 Preferences::~Preferences() = default;
 
 std::filesystem::path Preferences::getPreferredHistoDir() const {
-  char dir[MAX_PATH + 1] { '\0' };
-  m_pImpl->m_preferences.get(MainWindow::Label::preferencesKeyChosenDir.data(), &dir[0], "", MAX_PATH);
-  dir[MAX_PATH] = '\0';
+  const auto& dir { getStringPreference(MainWindow::Label::preferencesKeyChosenDir.data()) };
   const auto& pathDir { fs::path(dir) };
   // Return path only if it's not empty and the directory exists
   return (!pathDir.empty() and pf::isDir(pathDir)) ? pathDir : "";
@@ -99,9 +97,10 @@ void Preferences::saveIntPreference(std::string_view key, int value) {
 }
 
 std::string Preferences::getStringPreference(std::string_view key, std::string_view defaultValue) const {
-  char buffer[1024] { '\0' };
-  m_pImpl->m_preferences.get(key.data(), buffer, defaultValue.data(), sizeof(buffer) - 1);
-  return std::string(buffer);
+  char buffer[MAX_PATH_LENGTH + 1] { '\0' };
+  m_pImpl->m_preferences.get(key.data(), buffer, defaultValue.data(), MAX_PATH_LENGTH);
+  buffer[MAX_PATH_LENGTH] = '\0';
+  return buffer;
 }
 
 int Preferences::getIntPreference(std::string_view key, int defaultValue) const {

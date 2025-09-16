@@ -2,10 +2,12 @@
 
 #include "db/Database.hpp"
 #include "entities/Seat.hpp"
+#include "entities/Site.hpp"
 #include "filesystem/FileWatcher.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp"
 #include "mainLib/ProgramInfos.hpp"
+#include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp" // Future
 
