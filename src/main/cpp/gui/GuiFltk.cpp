@@ -145,15 +145,17 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Box* m_infoBar { nullptr };
   Fl_Menu_Bar* m_menuBar { nullptr };
   std::unique_ptr<TableWatcher> m_tableWatcher { nullptr };
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>> m_playerIndicators;
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>> m_playerIndicators {};
 
   explicit Implementation(TableService& tableService, HistoryService& historyService) 
     : m_tableService { tableService }
     , m_historyService { historyService } {}
+
   Implementation(const Implementation&) = delete;
   Implementation(Implementation&&) = delete;
   Implementation& operator=(const Implementation&) = delete;
   Implementation& operator=(Implementation&&) = delete;
+
   ~Implementation() { 
     if (m_tableWatcher) {
       m_tableWatcher->stop();
@@ -271,10 +273,8 @@ static inline void managePlayerIndicatorsForTables(
       auto observer = [&playerIndicators, tableName](TableStatistics&& stats) {
         scheduleUITask([&playerIndicators, tableName, stats = std::move(stats)]() mutable {
           // Find window position by title
-          HWND hwnd = FindWindow(NULL, tableName.c_str());
-          if (hwnd != NULL) {
-            RECT rect;
-            if (GetWindowRect(hwnd, &rect)) {
+          if (const auto& hwnd {FindWindow(nullptr, tableName.c_str())}; nullptr != hwnd) {
+            if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
               phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
               
               // Update PlayerIndicators with real statistics
@@ -285,9 +285,7 @@ static inline void managePlayerIndicatorsForTables(
           }
         });
       };
-      
-      const auto& errorMsg = tableService.startProducingStats(tableName, observer);
-      if (!errorMsg.empty()) {
+      if (const auto& errorMsg { tableService.startProducingStats(tableName, observer) }; !errorMsg.empty()) {
         LOG.error<"Failed to start monitoring table '{}': {}">(tableName, errorMsg);
       }
     }
@@ -406,7 +404,7 @@ template<typename WIDGET>
 
 namespace DirectoryChoiceHandler {
 void handleOk(std::string_view dirName, Gui::Implementation& self) {
-  const auto dir { fs::path { dirName } };
+  const auto& dir { fs::path { dirName } };
   LOG.info<"the user chose to import the directory '{}'">(dir.string());
 
   if (self.m_historyService.isValidHistory(dir)) {

@@ -19,7 +19,7 @@ namespace fs = std::filesystem;
  * Combines table selection, monitoring, and validation concerns.
  * This is a concrete sealed class - not polymorphic.
  */
-class [[nodiscard]] TableService final {
+class [[nodiscard]] TableService /*final*/ {
 private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
@@ -30,14 +30,14 @@ public:
   TableService(TableService&&) = delete;
   TableService& operator=(const TableService&) = delete;
   TableService& operator=(TableService&&) = delete;
-  ~TableService();
+  virtual ~TableService();
 
   /**
    * Checks if the given executable name represents a supported poker application.
    * @param executableName Name/path of the executable
    * @return True if it's a supported poker application
    */
-  [[nodiscard]] bool isPokerApp(std::string_view executableName) const;
+  [[nodiscard]] virtual bool isPokerApp(std::string_view executableName) const;
 
   /**
    * Starts producing statistics for the given table.
@@ -45,13 +45,13 @@ public:
    * @param observer Callback for statistics updates
    * @return Error message if failed, empty string if success
    */
-  [[nodiscard]] std::string startProducingStats(std::string_view tableName, 
-                                                std::function<void(TableStatistics&&)> observer);
+  [[nodiscard]] virtual std::string startProducingStats(std::string_view tableName, 
+                                                        std::function<void(TableStatistics&&)> observer);
   
   /**
    * Stops producing statistics for the current table.
    */
-  void stopProducingStats();
+  virtual void stopProducingStats();
 
   /**
    * Sets the poker site history instance to use.

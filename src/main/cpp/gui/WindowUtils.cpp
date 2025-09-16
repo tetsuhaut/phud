@@ -1,5 +1,6 @@
 #include "gui/WindowUtils.hpp"
 #include "language/assert.hpp"
+#include "language/limits.hpp"
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
 
@@ -67,16 +68,17 @@ std::vector<std::string> getWindowTitles() {
   std::vector<std::string> titles;
 
   EnumWindows([](HWND hwnd, LPARAM hiddenTitles) -> BOOL {
-    auto& titles = *reinterpret_cast<std::vector<std::string>*>(hiddenTitles);
+    auto& localTitles { *reinterpret_cast<std::vector<std::string>*>(hiddenTitles) };
 
     if (IsWindowVisible(hwnd)) {
       // Get window title
       const auto length { GetWindowTextLength(hwnd) };
-      auto title { std::string(length + 1, '\0') };
+      const auto lengthPlusOne { limits::toSizeT(length + 1) };
+      auto title { std::string(lengthPlusOne, '\0') };
 
-      if (const auto actualLength { GetWindowText(hwnd, title.data(), length + 1) }; actualLength > 0) {
-        title.resize(actualLength);
-        titles.emplace_back(title);
+      if (const auto actualLength { GetWindowText(hwnd, title.data(), lengthPlusOne) }; actualLength > 0) {
+        title.resize(limits::toSizeT(actualLength));
+        localTitles.emplace_back(title);
       }
     }
 

@@ -1,9 +1,9 @@
 #include "containers/ThreadSafeQueue.hpp" // std::unique_ptr
+#include "db/Database.hpp"
 #include "gui/Gui.hpp"
 #include "gui/TableService.hpp"
 #include "gui/HistoryService.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/AppInterface.hpp" // std::string_view, std::function
 #include "mainLib/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
@@ -20,33 +20,15 @@ struct [[nodiscard]] LoggingConfig final {
 };
 } // anonymous namespace
 
-class [[nodiscard]] NoOpApp final : public AppInterface, public TableService, public HistoryService {
+class [[nodiscard]] NoOpTableService final : public TableService {
 private:
   ThreadSafeQueue<TableStatistics> m_stats {};
   PeriodicTaskStatus m_continue { PeriodicTaskStatus::stopTask };
-  PeriodicTask m_task;
+  PeriodicTask m_task { std::chrono::milliseconds(500), CURRENT_FILE_NAME };
 
 public:
-  NoOpApp() : m_task { std::chrono::milliseconds(500), CURRENT_FILE_NAME } {
-    LOG.debug<__func__>();
-  }
-
-  void importHistory(const fs::path& /*historyDir*/,
-                     std::function<void()> onProgress = nullptr,
-                     std::function<void(std::size_t)> onSetNbFiles = nullptr,
-                     std::function<void()> onDone = nullptr) override {
-    LOG.debug<__func__>();
-    onSetNbFiles(3);
-    onProgress();
-    onProgress();
-    onProgress();
-    onDone();
-  }
-  // use only std::filesystem::path
-  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
-                     std::function<void()>) = delete;
-
-  void stopImportingHistory() override { LOG.debug<__func__>(); }
+  // TableService interface
+  bool isPokerApp(std::string_view /*executableName*/) const override { return true; }
 
   std::string startProducingStats(std::string_view /*table*/,
                                   std::function < void(TableStatistics&& ts) > /*observer*/) override {
@@ -75,27 +57,41 @@ public:
     m_continue = PeriodicTaskStatus::stopTask;
     m_task.stop();
   }
+}; // class NoOpTableService
 
-  [[nodiscard]] int showGui() override {
-    LOG.debug<__func__>();
-    return Gui(static_cast<TableService&>(*this), static_cast<HistoryService&>(*this)).run();
-  }
-
-  void setHistoryDir(const fs::path& /*dir*/) override {}
-
-  // TableService interface
-  bool isPokerApp(std::string_view /*executableName*/) const override { return true; }
-  
+class [[nodiscard]] NoOpHistoryService final : public HistoryService {
   // HistoryService interface
   bool isValidHistory(const fs::path& /*dir*/) override { return true; }
-}; // class NoOpApp
+
+  void importHistory(const fs::path& /*historyDir*/,
+                     std::function<void()> onProgress = nullptr,
+                     std::function<void(std::size_t)> onSetNbFiles = nullptr,
+                     std::function<void()> onDone = nullptr) override {
+    LOG.debug<__func__>();
+    onSetNbFiles(3);
+    onProgress();
+    onProgress();
+    onProgress();
+    onDone();
+  }
+  // use only std::filesystem::path
+  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
+                     std::function<void()>) = delete;
+
+  void stopImportingHistory() override { LOG.debug<__func__>(); }
+
+  void setHistoryDir(const fs::path& /*dir*/) override {}
+}; // NoOpHistoryService
 
 /* no WinMain because we want the console to show debug messages */
 /*[[nodiscard]] static inline*/ int main() {
   std::setlocale(LC_ALL, "en_US.utf8");
   LoggingConfig _;
   LOG.debug<"guiDryRun is starting">();
-  auto ret { NoOpApp().showGui() };
+  Database db;
+  TableService ts(db);
+  HistoryService hs(db);
+  auto ret { Gui(ts, hs).run() };
   LOG.debug<"guiDryRun is stopping">();
   return ret;
 }

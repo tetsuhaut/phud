@@ -16,7 +16,7 @@ namespace fs = std::filesystem;
  * Combines history import, validation, and management concerns.
  * This is a concrete sealed class - not polymorphic.
  */
-class [[nodiscard]] HistoryService final {
+class [[nodiscard]] HistoryService /*final*/ {
 private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
@@ -27,14 +27,14 @@ public:
   HistoryService(HistoryService&&) = delete;
   HistoryService& operator=(const HistoryService&) = delete;
   HistoryService& operator=(HistoryService&&) = delete;
-  ~HistoryService();
+  virtual ~HistoryService();
 
   /**
    * Validates if the given directory contains valid poker history.
    * @param dir Directory path to validate
    * @return True if directory contains valid history files
    */
-  [[nodiscard]] bool isValidHistory(const fs::path& dir);
+  [[nodiscard]] virtual bool isValidHistory(const fs::path& dir);
   
   /**
    * Imports history from the given directory.
@@ -43,21 +43,21 @@ public:
    * @param onSetNbFiles Callback called when total file count is known
    * @param onDone Callback called when import is complete
    */
-  void importHistory(const fs::path& dir, 
-                     std::function<void()> onProgress,
-                     std::function<void(std::size_t)> onSetNbFiles,
-                     std::function<void()> onDone);
-                            
-  /**
-   * Sets the current history directory.
-   * @param dir History directory path
-   */
-  void setHistoryDir(const fs::path& dir);
+  virtual void importHistory(const fs::path& dir, 
+                             std::function<void()> onProgress,
+                             std::function<void(std::size_t)> onSetNbFiles,
+                             std::function<void()> onDone);
 
   /**
    * Stops importing history.
    */
-  void stopImportingHistory();
+  virtual void stopImportingHistory();
+
+  /**
+   * Sets the current history directory.
+   * @param dir History directory path
+   */
+  virtual void setHistoryDir(const fs::path& dir);
 
   /**
    * Gets the poker site history instance.

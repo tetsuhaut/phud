@@ -1,3 +1,4 @@
+#include "history/PokerSiteHistory.hpp"
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/App.hpp"
@@ -99,7 +100,7 @@ struct [[nodiscard]] LoggingConfig final {
     if (oPokerSiteHistoryDir.has_value()) {
       const auto& winamaxGamesHistoryDir { oPokerSiteHistoryDir.value() };
 
-      if (mainProgram.isValidHistory(winamaxGamesHistoryDir)) {
+      if (PokerSiteHistory::isValidHistory(winamaxGamesHistoryDir)) {
         mainProgram.importHistory(winamaxGamesHistoryDir);
       }
     }

@@ -20,7 +20,7 @@ namespace {
 struct [[nodiscard]] TableWatcher::Implementation final {
   TableWatcher::Callbacks m_callbacks;
   PeriodicTask m_periodicTask { WATCH_INTERVAL };
-  std::vector<std::string> m_currentTableNames;
+  std::vector<std::string> m_currentTableNames {};
   bool m_hasActiveTable { false };
 
   explicit Implementation(const TableWatcher::Callbacks& callbacks)
@@ -47,14 +47,12 @@ struct [[nodiscard]] TableWatcher::Implementation final {
   }
 
   void checkForTables() {
-    const auto& foundTables { findPokerTables() };
-    
-    if (!foundTables.empty()) {
+    if (const auto& foundTables { findPokerTables() }; !foundTables.empty()) {
       const bool hadTables { m_hasActiveTable };
       const auto& previousTables { m_currentTableNames };
       
       // Check if tables changed BEFORE updating m_currentTableNames
-      if (!hadTables || previousTables != foundTables) {
+      if (!hadTables or previousTables != foundTables) {
         LOG.info<"Poker tables changed. Found {} table(s)">(foundTables.size());
         
         // Update state after comparison

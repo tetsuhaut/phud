@@ -1,10 +1,10 @@
-#include "mainLib/App.hpp"
-
 #include "db/Database.hpp"
 #include "gui/Gui.hpp"
 #include "gui/HistoryService.hpp"
 #include "gui/TableService.hpp"
 #include "log/Logger.hpp"
+#include "mainLib/App.hpp"
+#include "statistics/PlayerStatistics.hpp"
 
 namespace fs = std::filesystem;
 
@@ -27,36 +27,7 @@ App::App(std::string_view databaseName)
 
 App::~App() = default;
 
-int App::showGui() { /*override*/
+int App::showGui() {
   m_pImpl->m_gui = std::make_unique<Gui>(*m_pImpl->m_tableService, *m_pImpl->m_historyService);
   return m_pImpl->m_gui->run();
-}
-
-void App::importHistory(const fs::path& historyDir,
-                        std::function<void()> onProgress,
-                        std::function<void(std::size_t)> onSetNbFiles,
-                        std::function<void()> onDone) {
-  m_pImpl->m_historyService->importHistory(historyDir, onProgress, onSetNbFiles, onDone);
-}
-
-void App::stopImportingHistory() {
-  m_pImpl->m_historyService->stopImportingHistory();
-}
-
-void App::setHistoryDir(const fs::path& historyDir) {
-  m_pImpl->m_historyService->setHistoryDir(historyDir);
-  
-  // Share the PokerSiteHistory instance with TableService
-  auto pokerSiteHistory = m_pImpl->m_historyService->getPokerSiteHistory();
-  m_pImpl->m_tableService->setPokerSiteHistory(pokerSiteHistory);
-  m_pImpl->m_tableService->setHistoryDir(historyDir);
-}
-
-std::string App::startProducingStats(std::string_view tableWindowTitle,
-                                     std::function<void(TableStatistics&&)> statObserver) {
-  return m_pImpl->m_tableService->startProducingStats(tableWindowTitle, statObserver);
-}
-
-void App::stopProducingStats() {
-  m_pImpl->m_tableService->stopProducingStats();
 }
