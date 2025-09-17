@@ -75,6 +75,11 @@ namespace {
     constexpr std::string_view plastic { "plastic" };
   } // namespace FltkSkin
 
+  template<typename T>
+  [[nodiscard]] constexpr std::vector<T> toVector(std::span<const T> span) {
+    return std::vector<T>(span.begin(), span.end());
+  }
+
 } // anonymous namespace
 
 /**
@@ -553,7 +558,7 @@ static inline std::string getWatchedTableLabel(std::span<const std::string> tabl
   
   TableWatcher::TablesChangedCallback onTablesChangedCb {
     [pWatchedTableLabel, &playerIndicators, &tableService](std::span<const std::string> tableNames) {
-      scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, tableNames]() {
+      scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, tableNames = toVector(tableNames)]() {
         // Update label
         const auto& label { getWatchedTableLabel(tableNames) };
         pWatchedTableLabel->copy_label(label.c_str());

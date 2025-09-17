@@ -21,56 +21,50 @@ struct [[nodiscard]] TableWatcher::Implementation final {
   TablesChangedCallback m_onTablesChangedCb;
   PeriodicTask m_periodicTask { WATCH_INTERVAL };
   std::vector<std::string> m_currentTableNames {};
-  bool m_hasActiveTable { false };
 
   explicit Implementation(const TablesChangedCallback& onTablesChanged)
     : m_onTablesChangedCb { onTablesChanged } {
     phudAssert(nullptr != m_onTablesChangedCb, "m_callbacks.onTablesChanged is null");
-  } 
-
-  [[nodiscard]] static bool isPokerTable(std::string_view title) {
-  // the window title should be something like 'Winamax someName someOptionalNumber'
-  // e.g. 'Winamax Aalen 27', 'Winamax Athens'
-  const auto nbSpaces { std::count(title.begin(), title.end(), ' ') };
-    return 
-      title.starts_with(WINAMAX_TABLE_PATTERN) and
-      (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and
-      (' ' == title.at(WINAMAX_TABLE_PATTERN.length())) and
-      (' ' != title.at(WINAMAX_TABLE_PATTERN.length() + 1)) and
-      ((1 == nbSpaces) or (2 == nbSpaces));
   }
 
   [[nodiscard]] static std::vector<std::string> findPokerTables() {
     return getWindowTitles()
-      | std::views::filter(isPokerTable)
+      | std::views::filter(TableWatcher::isPokerTable)
       | std::ranges::to<std::vector<std::string>>();
   }
 
   void checkForTables() {
     if (const auto& foundTables { findPokerTables() }; !foundTables.empty()) {
-      const bool hadTables { m_hasActiveTable };
-      const auto& previousTables { m_currentTableNames };
-      
       // Check if tables changed BEFORE updating m_currentTableNames
-      if (!hadTables or previousTables != foundTables) {
+      if (m_currentTableNames != foundTables) {
         LOG.info<"Poker tables changed. Found {} table(s)">(foundTables.size());
         
         // Update state after comparison
         m_currentTableNames = foundTables;
-        m_hasActiveTable = true;
         m_onTablesChangedCb(foundTables);
       }
     } else {
       // No table found
-      if (m_hasActiveTable) {
+      if (!m_currentTableNames.empty()) {
         LOG.info<"All poker tables lost">();
-        m_hasActiveTable = false;
         m_currentTableNames.clear();
         m_onTablesChangedCb({});
       }
     }
   }
 }; // struct TableWatcher::Implementation
+
+bool TableWatcher::isPokerTable(std::string_view title) {
+  // the window title should be something like 'Winamax someName someOptionalNumber'
+  // e.g. 'Winamax Aalen 27', 'Winamax Athens'
+  const auto nbSpaces { std::count(title.begin(), title.end(), ' ') };
+  return
+    title.starts_with(WINAMAX_TABLE_PATTERN) and
+    (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and
+    (' ' == title.at(WINAMAX_TABLE_PATTERN.length())) and
+    (' ' != title.at(WINAMAX_TABLE_PATTERN.length() + 1)) and
+    ((1 == nbSpaces) or (2 == nbSpaces));
+}
 
 TableWatcher::TableWatcher(const TablesChangedCallback& onTablesChanged)
   : m_pImpl { std::make_unique<Implementation>(onTablesChanged) } {}
@@ -94,10 +88,6 @@ void TableWatcher::stop() {
 
 bool TableWatcher::isWatching() const noexcept {
   return m_pImpl->m_periodicTask.isRunning();
-}
-
-bool TableWatcher::hasActiveTable() const noexcept {
-  return m_pImpl->m_hasActiveTable;
 }
 
 std::vector<std::string> TableWatcher::getCurrentTableNames() const {

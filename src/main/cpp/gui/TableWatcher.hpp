@@ -23,8 +23,8 @@ public:
   void start();
   void stop();
   
+  [[nodiscard]] static bool isPokerTable(std::string_view title);
   [[nodiscard]] bool isWatching() const noexcept;
-  [[nodiscard]] bool hasActiveTable() const noexcept;
   [[nodiscard]] std::vector<std::string> getCurrentTableNames() const;
   [[nodiscard]] std::size_t getTableCount() const noexcept;
 }; // class TableWatcher
