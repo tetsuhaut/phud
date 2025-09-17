@@ -1,26 +1,29 @@
-#include "gui/Preferences.hpp"
+#include "filesystem/FileUtils.hpp"
 #include "gui/MainWindowAppearance.hpp"
 #include "gui/MainWindowLabel.hpp"
+#include "gui/Preferences.hpp"
+#include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
-#include "filesystem/FileUtils.hpp"
-#include "log/Logger.hpp"
-
-#include <FL/Fl_Preferences.H>
 
 #include <FL/Fl.H>
+#include <FL/Fl_Preferences.H>
 
 static Logger LOG { CURRENT_FILE_NAME };
-static constexpr int MAX_PATH_LENGTH { 260 };
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
+
+namespace {
+constexpr std::string_view CHOSEN_DIR{ "preferencesKeyChosenDir" };
+constexpr int MAX_PATH_LENGTH { 260 };
+} // anonymous namespace
 
 struct [[nodiscard]] Preferences::Implementation final {
   Fl_Preferences m_preferences;
 
   Implementation() 
-    : m_preferences(Fl_Preferences::USER,
-        ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data()) {}
+    : m_preferences(Fl_Preferences::USER, ProgramInfos::APP_SHORT_NAME.data(),
+        ProgramInfos::APP_SHORT_NAME.data()) {}
 }; // struct Preferences::Implementation
 
 Preferences::Preferences()
@@ -29,25 +32,20 @@ Preferences::Preferences()
 Preferences::~Preferences() = default;
 
 std::filesystem::path Preferences::getPreferredHistoDir() const {
-  const auto& dir { getStringPreference(MainWindow::Label::preferencesKeyChosenDir.data()) };
+  const auto& dir { getStringPreference(::CHOSEN_DIR, "") };
   const auto& pathDir { fs::path(dir) };
   // Return path only if it's not empty and the directory exists
   return (!pathDir.empty() and pf::isDir(pathDir)) ? pathDir : "";
 }
 
 std::string Preferences::getHistoryDirectoryDisplayLabel() const {
-  const auto& historyDir = getPreferredHistoDir();
-  if (historyDir.empty()) {
-    return std::string(MainWindow::Label::NO_HAND_HISTORY_DIRECTORY_SELECTED);
+  if (const auto& historyDir { getPreferredHistoDir() }; !historyDir.empty()) {
+    if (const auto& dirString { historyDir.string() }; !dirString.empty()) {
+      return dirString;
+    }
   }
   
-  const auto dirString = historyDir.string();
-  // Double-check: if string conversion somehow results in empty string, return the no-directory message
-  if (dirString.empty()) {
-    return std::string(MainWindow::Label::NO_HAND_HISTORY_DIRECTORY_SELECTED);
-  }
-  
-  return dirString;
+  return std::string(MainWindow::Label::NO_HAND_HISTORY_DIRECTORY_SELECTED);
 }
 
 void Preferences::saveHistoryDirectory(const std::filesystem::path& dir) {

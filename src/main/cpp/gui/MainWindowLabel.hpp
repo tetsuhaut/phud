@@ -15,7 +15,6 @@ constexpr std::string_view stopHud{ "Stop HUD" };
 constexpr std::string_view invalidChoice{ "The chosen entry is not a valid Winamax history directory" };
 constexpr std::string_view chooseHistoryDirectory{ "Choose the hand history directory" };
 constexpr auto mainWindowTitle { ProgramInfos::APP_LONG_NAME_AND_VERSION };
-constexpr std::string_view preferencesKeyChosenDir{ "preferencesKeyChosenDir" };
 constexpr std::string_view turnLeft{ "Rotate counterclock wise" };
 constexpr std::string_view turnRight{ "Rotate clock wise" };
 constexpr std::string_view HAND_HISTORY_EXISTS { "The hand history directory exists" };

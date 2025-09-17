@@ -149,7 +149,7 @@ target_compile_definitions(unitTests PUBLIC NOMINMAX)
 target_compile_definitions(mainLib PUBLIC PHUD_APP_VERSION="${CMAKE_PROJECT_VERSION}")
 target_compile_definitions(mainLib PUBLIC PHUD_APP_NAME_SHORT="phud")
 target_compile_definitions(mainLib PUBLIC PHUD_APP_NAME_LONG="Poker Head-Up Display")
-# tell the test code where is the source code
+# tell the test code where the source code is
 target_compile_definitions(unitTests PRIVATE PHUD_MAIN_SRC_DIR="${CMAKE_SOURCE_DIR}/src/main/cpp/")
 target_compile_definitions(unitTests PRIVATE PHUD_TEST_RESOURCE_DIR="${CMAKE_SOURCE_DIR}/src/test/resources/")
 target_compile_definitions(unitTests PRIVATE PHUD_TEST_SRC_DIR="${CMAKE_SOURCE_DIR}/src/test/cpp/")

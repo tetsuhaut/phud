@@ -44,11 +44,9 @@ static inline gsl::not_null<sqlite3*> openDatabase(std::string_view dbName) {
   sqlite3* pDb { nullptr };
 
   if (SQLITE_OK != sqlite3_open(dbName.data(), &pDb)) {
-    std::string msg = "Failed to allocate database handle";
-    if (nullptr != pDb) {
-      msg =  sqlite3_errmsg(pDb);
-      sqlite3_close(pDb); // try to free pDb (sqlite3_close is null safe)
-    }
+    // sqlite3_errmsg() and sqlite3_close() are null safe
+    const auto& msg { (nullptr != pDb) ? sqlite3_errmsg(pDb) : "Failed to allocate database handle" };
+    sqlite3_close(pDb); // try to free pDb
     throw DatabaseException(fmt::format("Can't open database file '{}': {}", dbName, msg));
   }
 
@@ -438,10 +436,16 @@ public:
   [[nodiscard]] int getColumnCount() noexcept { return sqlite3_column_count(m_pStatement); }
   [[nodiscard]] int getColumnAsInt(int column) noexcept { return sqlite3_column_int(m_pStatement, column); }
   [[nodiscard]] double getColumnAsDouble(int column) noexcept { return sqlite3_column_double(m_pStatement, column); }
+
   [[nodiscard]] std::string getColumnAsString(int column) {
     const auto* text { sqlite3_column_text(m_pStatement, column) };
-    return (nullptr == text) ? "" : reinterpret_cast<const char*>(text);
+    
+    if (nullptr != text) {
+      return reinterpret_cast<const char*>(text);
+    }
+    throw DatabaseException(fmt::format("Got a null column name for column {} preparing statement {}", column, m_sql);
   }
+
   [[nodiscard]] bool getColumnAsBool(int column) noexcept { return 0 != getColumnAsInt(column); }
 }; // class PreparedStatement
 

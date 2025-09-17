@@ -108,7 +108,7 @@ template<VoidNullaryFunction TASK> static void scheduleUITask(TASK&& aTask) {
     catch (...) {
       LOG.error<"Unknown error in UI task">();
     }
-    }, std::make_unique<TaskType>(std::forward<TASK>(aTask)).release());
+  }, std::make_unique<TaskType>(std::forward<TASK>(aTask)).release());
 }
 
 
