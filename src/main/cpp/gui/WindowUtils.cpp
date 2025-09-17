@@ -73,8 +73,8 @@ std::vector<std::string> getWindowTitles() {
     if (IsWindowVisible(hwnd)) {
       // Get window title
       const auto length { GetWindowTextLength(hwnd) };
-      const auto lengthPlusOne { limits::toSizeT(length + 1) };
-      auto title { std::string(lengthPlusOne, '\0') };
+      const auto lengthPlusOne { length + 1 };
+      auto title { std::string(limits::toSizeT(lengthPlusOne), '\0') };
 
       if (const auto actualLength { GetWindowText(hwnd, title.data(), lengthPlusOne) }; actualLength > 0) {
         title.resize(limits::toSizeT(actualLength));

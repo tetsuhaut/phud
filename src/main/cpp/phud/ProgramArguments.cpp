@@ -85,6 +85,7 @@ template<StringLiteral STR>
  * - Else, understands -d or --winamaxDir <dir>: import the history into the database.
  *                     -l or --log_level <log_level> : defines the logging level.
  * @returns the hand history directory, and the logging level
+ * @throws UserAskedForHelpException
  */
 /*[[nodiscard]]*/ std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
 parseProgramArguments(std::span<const char* const> arguments) {

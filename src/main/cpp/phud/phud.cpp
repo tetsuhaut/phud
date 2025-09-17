@@ -1,7 +1,11 @@
+#include "db/Database.hpp"
+#include "entities/Site.hpp"
+#include "gui/Gui.hpp"
+#include "gui/HistoryService.hpp"
+#include "gui/TableService.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/App.hpp"
 #include "mainLib/ProgramInfos.hpp"
 #include "phud/ProgramArguments.hpp"  // ProgramArgumentsException, UserAskedForHelpException
 #include "statistics/PlayerStatistics.hpp"
@@ -20,7 +24,7 @@
 #endif  // _MSC_VER
 
 #include <spdlog/fmt/bundled/printf.h> // fmt::print
-#include <csignal> // std::signal()
+#include <csignal> // std::signal(), SIG_DFL, SIGABRT
 #include <sstream> // std::ostringstream
 
 #if defined(_WIN32)
@@ -93,19 +97,21 @@ struct [[nodiscard]] LoggingConfig final {
   try {
     const auto& [oPokerSiteHistoryDir, oLoggingLevel] { parseProgramArguments(std::span(argv, limits::toSizeT(argc))) };
 
+    Database db("phud.db");
+    TableService ts(db);
+    HistoryService hs(db);
+
     if (oLoggingLevel.has_value()) { Logger::setLoggingLevel(oLoggingLevel.value()); }
 
-    App mainProgram { "phud.db" };
-
     if (oPokerSiteHistoryDir.has_value()) {
-      const auto& winamaxGamesHistoryDir { oPokerSiteHistoryDir.value() };
-
-      if (PokerSiteHistory::isValidHistory(winamaxGamesHistoryDir)) {
-        mainProgram.importHistory(winamaxGamesHistoryDir);
+      if (const auto& historyDir { oPokerSiteHistoryDir.value() }; PokerSiteHistory::isValidHistory(historyDir)) {
+        const auto& site { PokerSiteHistory::load(historyDir) };
+        db.save(*site);
       }
     }
 
-    nbErr = mainProgram.showGui();
+    Gui gui(ts, hs);
+    nbErr = gui.run();
     LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
   } catch (const PhudException& e) {
     LOG.error(e.what());
