@@ -241,13 +241,13 @@ static inline void updateTablePlayerIndicators(std::array<std::unique_ptr<Player
 
 static inline void managePlayerIndicatorsForTables(
   std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
-  const std::vector<std::string>& currentTables,
+  const std::span<const std::string> tableNames,
   TableService& tableService) {
   
   // Remove indicators for tables no longer detected
   auto it = playerIndicators.begin();
   while (it != playerIndicators.end()) {
-    if (currentTables.end() == std::find(currentTables.begin(), currentTables.end(), it->first)) {
+    if (tableNames.end() == std::find(tableNames.begin(), tableNames.end(), it->first)) {
       // Stop monitoring this table
       tableService.stopProducingStats();
       
@@ -263,7 +263,7 @@ static inline void managePlayerIndicatorsForTables(
   }
   
   // Create/update indicators for current tables
-  for (const auto& tableName : currentTables) {
+  for (const auto& tableName : tableNames) {
     // Create entry if it doesn't exist
     if (playerIndicators.find(tableName) == playerIndicators.end()) {
       playerIndicators[tableName] = std::array<std::unique_ptr<PlayerIndicator>, 10>{};
@@ -536,32 +536,34 @@ void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
   return createWidget<Fl_Box>(MainWindow::Screen::infoBar, MainWindow::Label::WELCOME);
 }
 
+static inline std::string getWatchedTableLabel(std::span<const std::string> tableNames) {
+  if (tableNames.empty()) {
+    return MainWindow::Label::noPokerTableDetected.data();
+  }
+  if (tableNames.size() == 1) {
+    return std::format(MainWindow::Label::watchingTable, tableNames.front());
+  }
+  return fmt::format(MainWindow::Label::watchingMultipleTables, tableNames.size());
+}
+
 [[nodiscard]] static inline std::unique_ptr<TableWatcher> buildTableWatcher(
   Fl_Box* pWatchedTableLabel, 
   std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
   TableService& tableService) {
   
-  TableWatcher::Callbacks callbacks {
-    .onTablesChanged = [pWatchedTableLabel, &playerIndicators, &tableService](const std::vector<std::string>& tableNames) {
+  TableWatcher::TablesChangedCallback onTablesChangedCb {
+    [pWatchedTableLabel, &playerIndicators, &tableService](std::span<const std::string> tableNames) {
       scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, tableNames]() {
         // Update label
-        if (tableNames.empty()) {
-          pWatchedTableLabel->copy_label(MainWindow::Label::noPokerTableDetected.data());
-        } else if (tableNames.size() == 1) {
-          const auto displayText = std::string(MainWindow::Label::watchingTable) + tableNames.front();
-          pWatchedTableLabel->copy_label(displayText.c_str());
-        } else {
-          const auto displayText = fmt::format(MainWindow::Label::watchingMultipleTables, tableNames.size());
-          pWatchedTableLabel->copy_label(displayText.c_str());
-        }
-        
+        const auto& label { getWatchedTableLabel(tableNames) };
+        pWatchedTableLabel->copy_label(label.c_str());
         // Manage PlayerIndicators for all detected tables
         managePlayerIndicatorsForTables(playerIndicators, tableNames, tableService);
       });
     }
   };
   
-  return std::make_unique<TableWatcher>(callbacks);
+  return std::make_unique<TableWatcher>(onTablesChangedCb);
 }
 
 static inline gsl::not_null<MyMainWindow*> buildMainWindow(Gui::Implementation* impl) {

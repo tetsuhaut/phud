@@ -1,4 +1,4 @@
-#include "db/Database.hpp"
+#include "db/Database.hpp" // std::span
 #include "entities/Site.hpp"
 #include "gui/Gui.hpp"
 #include "gui/HistoryService.hpp"

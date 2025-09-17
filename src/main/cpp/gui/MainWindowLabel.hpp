@@ -25,6 +25,6 @@ constexpr std::string_view NO_HAND_HISTORY_DIRECTORY_SELECTED { "<no hand histor
 constexpr std::string_view fileChoiceError { "File choice error" };
 constexpr std::string_view noPlayerIndicators { "No player indicators to display" };
 constexpr std::string_view noPokerTableDetected { "No poker table detected" };
-constexpr std::string_view watchingTable { "Watching table: " };
+constexpr std::string_view watchingTable { "Watching table: {}" };
 constexpr std::string_view watchingMultipleTables { "Watching {} poker tables" };
 }  // namespace MainWindow::Label

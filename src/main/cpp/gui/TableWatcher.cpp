@@ -18,14 +18,14 @@ namespace {
 }
 
 struct [[nodiscard]] TableWatcher::Implementation final {
-  TableWatcher::Callbacks m_callbacks;
+  TablesChangedCallback m_onTablesChangedCb;
   PeriodicTask m_periodicTask { WATCH_INTERVAL };
   std::vector<std::string> m_currentTableNames {};
   bool m_hasActiveTable { false };
 
-  explicit Implementation(const TableWatcher::Callbacks& callbacks)
-    : m_callbacks { callbacks } {
-    phudAssert(nullptr != m_callbacks.onTablesChanged, "m_callbacks.onTablesChanged is null");
+  explicit Implementation(const TablesChangedCallback& onTablesChanged)
+    : m_onTablesChangedCb { onTablesChanged } {
+    phudAssert(nullptr != m_onTablesChangedCb, "m_callbacks.onTablesChanged is null");
   } 
 
   [[nodiscard]] static bool isPokerTable(std::string_view title) {
@@ -58,7 +58,7 @@ struct [[nodiscard]] TableWatcher::Implementation final {
         // Update state after comparison
         m_currentTableNames = foundTables;
         m_hasActiveTable = true;
-        m_callbacks.onTablesChanged(foundTables);
+        m_onTablesChangedCb(foundTables);
       }
     } else {
       // No table found
@@ -66,14 +66,14 @@ struct [[nodiscard]] TableWatcher::Implementation final {
         LOG.info<"All poker tables lost">();
         m_hasActiveTable = false;
         m_currentTableNames.clear();
-        m_callbacks.onTablesChanged({});
+        m_onTablesChangedCb({});
       }
     }
   }
 }; // struct TableWatcher::Implementation
 
-TableWatcher::TableWatcher(const Callbacks& callbacks)
-  : m_pImpl { std::make_unique<Implementation>(callbacks) } {}
+TableWatcher::TableWatcher(const TablesChangedCallback& onTablesChanged)
+  : m_pImpl { std::make_unique<Implementation>(onTablesChanged) } {}
 
 TableWatcher::~TableWatcher() {
   stop();

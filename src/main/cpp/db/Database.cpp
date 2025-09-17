@@ -1,4 +1,4 @@
-#include "db/Database.hpp"  // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database)
+#include "db/Database.hpp"  // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database), std::span
 #include "db/SqlInsertor.hpp"  // Game
 #include "db/SqlSelector.hpp" // phudAssert
 #include "db/sqliteQueries.hpp" // all the SQL queries
@@ -21,7 +21,6 @@
 
 #include <mutex>
 #include <ranges>
-#include <span>
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
 // free the char* returned by sqlite3_errmsg().
@@ -274,15 +273,15 @@ void Database::save(std::span<const Player* const> players) {
 /**
 * @throws DatabaseException
 */
-static inline void save(const gsl::not_null<sqlite3*> pDb, const Site& s) {
+static inline void saveSite(const gsl::not_null<sqlite3*> pDb, const Site& s) {
   LOG.info<"saving the Site with name={}">(s.getName());
   static_assert(ps::contains(phud::sql::INSERT_SITE, '?'), "ill-formed SQL template");
   executeSql(pDb, SqlInsertor(phud::sql::INSERT_SITE).siteName(s.getName()).build());
 }
 
 template<typename T>
-static inline std::vector<Future<void>> saveGamesAsync(const std::vector<const T*>& games,
-Database& self) {
+static inline std::vector<Future<void>>
+saveGamesAsync(std::span<const T* const> games, Database& self) {
   std::vector<Future<void>> ret;
   ret.reserve(games.size());
   std::transform(games.cbegin(), games.cend(), std::back_inserter(ret), [&self](const auto & pGame) {
@@ -306,12 +305,12 @@ Database& self) {
  */
 void Database::save(const Site& site) {
   Transaction transaction { m_pImpl->m_database };
-  ::save(m_pImpl->m_database, site);
+  saveSite(m_pImpl->m_database, site);
   save(site.viewPlayers());
   const auto& cashGames { site.viewCashGames() };
   const auto& tournaments { site.viewTournaments() };
-  auto tasks1 { saveGamesAsync(cashGames, *this) };
-  auto tasks2 { saveGamesAsync(tournaments, *this) };
+  auto tasks1 { saveGamesAsync(std::span{cashGames}, *this) };
+  auto tasks2 { saveGamesAsync(std::span{tournaments}, *this) };
   std::ranges::for_each(tasks1, [](auto&& task) { stlab::await(std::move(task)); });
   std::ranges::for_each(tasks2, [](auto&& task) { stlab::await(std::move(task)); });
   transaction.commit();
