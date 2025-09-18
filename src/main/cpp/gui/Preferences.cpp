@@ -49,7 +49,7 @@ std::string Preferences::getHistoryDirectoryDisplayLabel() const {
 }
 
 void Preferences::saveHistoryDirectory(const std::filesystem::path& dir) {
-  saveStringPreference(MainWindow::Label::preferencesKeyChosenDir, dir.string());
+  saveStringPreference(CHOSEN_DIR, dir.string());
 }
 
 std::pair<int, int> Preferences::getMainWindowPosition() const {

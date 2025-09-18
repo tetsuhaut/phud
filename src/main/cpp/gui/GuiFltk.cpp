@@ -22,7 +22,6 @@
 #include "threads/ThreadPool.hpp"
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::finally
-#include <unordered_map>
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
@@ -48,6 +47,7 @@
 #include <windows.h> // RECT, GetWindowThreadProcessId, MAX_PATH, WindowFromPoint, GetWindowRect, GetWindowText, SetWindowPos
 #include <psapi.h>  // GetModuleFileNameEx
 #include <concepts> // requires
+#include <unordered_map>
 
 /*
 * From http://www.fltk.org/doc-1.3/advanced.html#advanced_multithreading:
@@ -110,7 +110,6 @@ template<VoidNullaryFunction TASK> static void scheduleUITask(TASK&& aTask) {
     }
   }, std::make_unique<TaskType>(std::forward<TASK>(aTask)).release());
 }
-
 
 /**
  * An Fl_Double_Window with disabled 'close on Esc key' behavior
@@ -220,12 +219,7 @@ static inline void updateTablePlayerIndicators(std::array<std::unique_ptr<Player
   const auto& seats { tableStatistics.getSeats() };
 
   for (const auto& seat : seats) {
-    auto ps { tableStatistics.extractPlayerStatistics(seat) };
-    // clear player indicators
-    if (nullptr == ps) {
-      playerIndicators.at(tableSeat::toArrayIndex(seat)).reset();
-    }
-    else {
+    if (auto ps { tableStatistics.extractPlayerStatistics(seat) }; nullptr != ps) {
       const auto& pos { buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition) };
       // update the PlayerIndicators with the latest stats.
       // -1 < seat < nbSeats, 1 < nbSeats < 11
@@ -241,21 +235,22 @@ static inline void updateTablePlayerIndicators(std::array<std::unique_ptr<Player
       setWindowOnTopMost(*playerIndicator);
       playerIndicator->show();
     }
+    else {
+      // clear player indicators
+      playerIndicators.at(tableSeat::toArrayIndex(seat)).reset();
+    }
   }
 }
 
-static inline void managePlayerIndicatorsForTables(
+static inline void removeUselessPlayerIndicators(
   std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
   const std::span<const std::string> tableNames,
   TableService& tableService) {
-  
-  // Remove indicators for tables no longer detected
-  auto it = playerIndicators.begin();
-  while (it != playerIndicators.end()) {
+  for (auto it = playerIndicators.begin(); it != playerIndicators.end();) {
     if (tableNames.end() == std::find(tableNames.begin(), tableNames.end(), it->first)) {
       // Stop monitoring this table
       tableService.stopProducingStats();
-      
+
       // Clear all player indicators for this table
       for (auto& pi : it->second) {
         pi.reset();
@@ -266,8 +261,12 @@ static inline void managePlayerIndicatorsForTables(
       ++it;
     }
   }
-  
-  // Create/update indicators for current tables
+}
+
+static inline void updateUsefulPlayerIndicators(
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  const std::span<const std::string> tableNames,
+  TableService& tableService) {
   for (const auto& tableName : tableNames) {
     // Create entry if it doesn't exist
     if (playerIndicators.find(tableName) == playerIndicators.end()) {
@@ -295,6 +294,16 @@ static inline void managePlayerIndicatorsForTables(
       }
     }
   }
+}
+
+static inline void managePlayerIndicatorsForTables(
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  const std::span<const std::string> tableNames,
+  TableService& tableService) {
+  // Remove indicators for tables no longer detected
+  removeUselessPlayerIndicators(playerIndicators, tableNames, tableService);
+  // Create/update indicators for current tables
+  updateUsefulPlayerIndicators(playerIndicators, tableNames, tableService);
 }
 
 /**

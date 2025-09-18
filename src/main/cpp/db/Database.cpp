@@ -443,7 +443,7 @@ public:
     if (nullptr != text) {
       return reinterpret_cast<const char*>(text);
     }
-    throw DatabaseException(fmt::format("Got a null column name for column {} preparing statement {}", column, m_sql);
+    throw DatabaseException(fmt::format("Got a null column name for column {} preparing statement {}", column, m_sql));
   }
 
   [[nodiscard]] bool getColumnAsBool(int column) noexcept { return 0 != getColumnAsInt(column); }

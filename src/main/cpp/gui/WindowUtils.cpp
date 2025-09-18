@@ -87,3 +87,14 @@ std::vector<std::string> getWindowTitles() {
 
   return titles;
 }
+
+std::optional<phud::Rectangle> getTableWindowRectangle(std::string_view tableName) {
+  // Find window position by title
+  if (const auto& hwnd { FindWindow(nullptr, tableName.data()) }; nullptr != hwnd) {
+    if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
+      phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
+      return tableRect;
+    }
+  }
+  return {};
+}
