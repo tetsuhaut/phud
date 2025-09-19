@@ -4,7 +4,7 @@
 #include "gui/TableService.hpp"
 #include "gui/HistoryService.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/PeriodicTask.hpp"
@@ -36,7 +36,7 @@ public:
     m_continue = PeriodicTaskStatus::repeatTask;
     m_task.start([this]() {
       LOG.debug<"task in guiDryRun startProducingStats()">();
-      std::array<std::unique_ptr<PlayerStatistics>, 10> fakeStats{
+      std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> fakeStats{
         std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player0", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = true,  .nbHands = 10, .vpip = 1, .pfr = 7 }),
         std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player1", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 20, .vpip = 2, .pfr = 8 }),
         std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player2", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 30, .vpip = 3, .pfr = 9 }),

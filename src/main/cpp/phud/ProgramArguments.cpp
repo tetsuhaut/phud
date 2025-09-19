@@ -1,6 +1,6 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::span
 #include "phud/ProgramArguments.hpp"  // ProgramArguments::*, std::string, std::string_view, std::pair, std::optional, toLoggingLevel()
-#include "mainLib/ProgramInfos.hpp"  // ProgramInfos::*
+#include "constants/ProgramInfos.hpp"  // ProgramInfos::*
 #include "strings/StringLiteral.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
 
@@ -57,7 +57,7 @@ namespace ps = phud::strings;
   return {};
 }
 
-[[nodiscard]] static bool isOdd(auto value) { return value % 2 != 0; }
+[[nodiscard]] constexpr static bool isOdd(auto value) { return value % 2 != 0; }
 
 [[nodiscard]] static inline std::vector<std::string_view> listUnknownArguments(
   std::span<const char* const>
@@ -74,7 +74,7 @@ namespace ps = phud::strings;
 }
 
 template<StringLiteral STR>
-[[nodiscard]] static bool isEqualTo(const char* const str) noexcept {
+[[nodiscard]] constexpr static bool isEqualTo(const char* const str) noexcept {
   return 0 == std::strcmp(str, &STR.value[0]);
 }
 

@@ -1,5 +1,6 @@
 #pragma once
 
+#include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
 
 #include <array>
@@ -10,10 +11,10 @@ class PlayerStatistics;
 
 struct [[nodiscard]] TableStatistics final {
   Seat m_maxSeats { Seat::seatUnknown };
-  std::array<std::unique_ptr<PlayerStatistics>, 10> m_tableStats {};
+  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> m_tableStats {};
 
   TableStatistics() = default;
-  TableStatistics(Seat maxSeats, std::array<std::unique_ptr<PlayerStatistics>, 10> tableStats)
+  TableStatistics(Seat maxSeats, std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats)
     : m_maxSeats{maxSeats}, m_tableStats{std::move(tableStats)} {}
   TableStatistics(const TableStatistics&) = delete;
   TableStatistics(TableStatistics&&) = default;

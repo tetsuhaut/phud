@@ -10,7 +10,7 @@
 #include "language/assert.hpp" // phudAssert
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "strings/StringUtils.hpp"
 #include "threads/PlayerCache.hpp"
 
@@ -190,8 +190,8 @@ parseActions(TextFile& tf, Street street, std::string_view handId) {
   return actions;
 }
 
-[[nodiscard]] static inline std::array<std::string, 10> parseWinners(TextFile& tf) {
-  std::array<std::string, 10> winners;
+[[nodiscard]] static inline std::array<std::string, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
+  std::array<std::string, TableConstants::MAX_SEATS> winners;
   auto pos { std::string::npos };
   std::size_t i { 0 };
 
@@ -244,8 +244,8 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
 
 struct [[nodiscard]] ActionsAndWinnersAndBoardCards final {
   std::vector<std::unique_ptr<Action>> m_actions;
-  std::array<std::string, 10> m_winners;
-  std::array<Card, 5> m_boardCards;
+  std::array<std::string, TableConstants::MAX_SEATS> m_winners;
+  std::array<Card, TableConstants::MAX_CARDS> m_boardCards;
 };
 
 // actions, winners,board cards

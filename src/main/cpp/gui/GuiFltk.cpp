@@ -1,3 +1,4 @@
+#include "constants/TableConstants.hpp"
 #include "entities/Player.hpp"
 #include "entities/Seat.hpp"
 #include "gui/Gui.hpp"  // std::unique_ptr, std::make_unique
@@ -149,7 +150,7 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Box* m_infoBar { nullptr };
   Fl_Menu_Bar* m_menuBar { nullptr };
   std::unique_ptr<TableWatcher> m_tableWatcher { nullptr };
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>> m_playerIndicators {};
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>> m_playerIndicators {};
 
   explicit Implementation(TableService& tableService, HistoryService& historyService) 
     : m_tableService { tableService }
@@ -213,7 +214,7 @@ static inline void setWindowOnTopMost(const Fl_Window& above) {
   SetWindowPos(fl_xid(&above), HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE | SWP_NOOWNERZORDER);
 }
 
-static inline void updateTablePlayerIndicators(std::array<std::unique_ptr<PlayerIndicator>, 10>& playerIndicators, const phud::Rectangle& tablePosition,
+static inline void updateTablePlayerIndicators(std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>& playerIndicators, const phud::Rectangle& tablePosition,
   TableStatistics tableStatistics) {
   const auto heroSeat { tableStatistics.getHeroSeat() };
   const auto& seats { tableStatistics.getSeats() };
@@ -271,14 +272,14 @@ static inline void removeUselessPlayerIndicators(
 }
 
 static inline void updateUsefulPlayerIndicators(
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>>& playerIndicators,
   const std::span<const std::string> tableNames,
   TableService& tableService) {
   LOG.info<"Create/Update table indicators for {} table(s)">(tableNames.size());
   for (const auto& tableName : tableNames) {
     // Create entry if it doesn't exist
     if (playerIndicators.find(tableName) == playerIndicators.end()) {
-      playerIndicators[tableName] = std::array<std::unique_ptr<PlayerIndicator>, 10>{};
+      playerIndicators[tableName] = std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>{};
       LOG.debug<"Created player indicators array for table: {}">(tableName);
       
       // Start monitoring this table for statistics
@@ -580,7 +581,7 @@ static inline std::string getWatchedTableLabel(std::span<const std::string> tabl
 
 [[nodiscard]] static inline std::unique_ptr<TableWatcher> buildTableWatcher(
   Fl_Box* pWatchedTableLabel, 
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>>& playerIndicators,
   TableService& tableService) {
   
   TableWatcher::TablesChangedCallback onTablesChangedCb {

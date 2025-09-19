@@ -1,35 +1,26 @@
 #include "entities/Game.hpp" // Game, std::string
 #include "entities/Hand.hpp"
 #include "language/assert.hpp" // phudAssert
-#include <frozen/string.h>
-#include <frozen/unordered_map.h>
+#include "language/EnumMapper.hpp"
 
-#include <algorithm>
-#include <ranges>
+#include <ranges> // std::views
 
-// Note : must use frozen::string when it is a map key.
-// frozen::string can be created from std::string_view.
+static constexpr auto VARIANT_MAPPER = makeEnumMapper<Variant, 4>({{
+  {Variant::holdem, "holdem"}, {Variant::omaha, "omaha"},
+  {Variant::omaha5, "omaha5"}, {Variant::none, "none"}
+}});
 
-static constexpr auto VARIANT_TO_STRING {
-  frozen::make_unordered_map<Variant, std::string_view>({
-    { Variant::holdem, "holdem" }, { Variant::omaha, "omaha" },
-    { Variant::omaha5, "omaha5" }, { Variant::none, "none" }
-  })
-};
-
-static constexpr auto LIMIT_TO_STRING {
-  frozen::make_unordered_map<Limit, std::string_view>({
-    { Limit::noLimit, "no-limit" }, { Limit::potLimit, "pot-limit" },
-    { Limit::none, "none" }
-  })
-};
+static constexpr auto LIMIT_MAPPER = makeEnumMapper<Limit, 3>({{
+  {Limit::noLimit, "no-limit"}, {Limit::potLimit, "pot-limit"},
+  {Limit::none, "none"}
+}});
 
 std::string_view toString(Variant variant) {
-  return VARIANT_TO_STRING.find(variant)->second;
+  return VARIANT_MAPPER.toString(variant);
 }
 
 std::string_view toString(Limit limitType) {
-  return LIMIT_TO_STRING.find(limitType)->second;
+  return LIMIT_MAPPER.toString(limitType);
 }
 
 Game::Game(const Params& args)
@@ -53,10 +44,8 @@ Game::~Game() = default; // needed because Game owns private std::unique_ptr mem
 void Game::addHand(std::unique_ptr<Hand> hand) { m_hands.push_back(std::move(hand)); }
 
 std::vector<const Hand*> Game::viewHands() const {
-  std::vector<const Hand*> ret;
-  ret.reserve(m_hands.size());
-  std::transform(m_hands.cbegin(), m_hands.end(), std::back_inserter(ret), [](const auto & pHand) { return pHand.get(); });
-  return ret;
+  auto hands_view = m_hands | std::views::transform([](const auto& pHand) { return pHand.get(); });
+  return { hands_view.begin(), hands_view.end() };
 }
 
 std::vector<const Hand*> Game::viewHands(std::string_view player) const {

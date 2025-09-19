@@ -1,25 +1,17 @@
 #include "entities/Action.hpp" // ActionType, std::string
 #include "language/assert.hpp" // phudAssert
-#include <frozen/string.h>
-#include <frozen/unordered_map.h>
+#include "language/EnumMapper.hpp"
 
-// Note : must use frozen::string for map keys.
-// frozen::string can be created from std::string_view.
+static constexpr auto ACTION_TYPE_MAPPER = makeEnumMapper<ActionType, 6>({{
+  {ActionType::bet, "bet"}, {ActionType::call, "call"},
+  {ActionType::check, "check"}, {ActionType::fold, "fold"},
+  {ActionType::raise, "raise"}, {ActionType::none, "none"}
+}});
 
-static constexpr auto ACTION_TYPE_TO_STRING {
-  frozen::make_unordered_map<ActionType, std::string_view>({
-    { ActionType::bet, "bet" }, { ActionType::call, "call" },
-    { ActionType::check, "check" }, { ActionType::fold, "fold" },
-    { ActionType::raise, "raise" }, { ActionType::none, "none" }
-  })
-};
-
-static constexpr auto STREET_TO_STRING {
-  frozen::make_unordered_map<Street, std::string_view>({
-    { Street::preflop, "preflop" }, { Street::flop, "flop" },
-    { Street::turn, "turn" }, { Street::river, "river" }
-  })
-};
+static constexpr auto STREET_MAPPER = makeEnumMapper<Street, 4>({{
+  {Street::preflop, "preflop"}, {Street::flop, "flop"},
+  {Street::turn, "turn"}, {Street::river, "river"}
+}});
 
 Action::Action(const Params& p)
   : m_handId { p.handId },
@@ -37,9 +29,9 @@ Action::Action(const Params& p)
 Action::~Action() = default;
 
 std::string_view toString(ActionType at) {
-  return ACTION_TYPE_TO_STRING.find(at)->second;
+  return ACTION_TYPE_MAPPER.toString(at);
 }
 
 std::string_view toString(Street st) {
-  return STREET_TO_STRING.find(st)->second;
+  return STREET_MAPPER.toString(st);
 }

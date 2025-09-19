@@ -7,9 +7,9 @@ namespace ps = phud::strings;
 
 static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
 
-[[nodiscard]] /*static*/ std::array<std::string, 10> parseSeats(TextFile& tf,
+[[nodiscard]] /*static*/ std::array<std::string, TableConstants::MAX_SEATS> parseSeats(TextFile& tf,
     PlayerCache& /*cache*/) {
-  std::array<std::string, 10> ret;
+  std::array<std::string, TableConstants::MAX_SEATS> ret;
 
   while (tf.startsWith("Seat ")) {
     const auto& line { tf.getLine() };

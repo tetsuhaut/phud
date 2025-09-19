@@ -6,7 +6,7 @@
 #include "entities/Player.hpp"
 #include "entities/Site.hpp"
 #include "history/PokerSiteHistory.hpp"
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 

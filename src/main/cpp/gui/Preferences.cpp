@@ -3,7 +3,7 @@
 #include "gui/MainWindowLabel.hpp"
 #include "gui/Preferences.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 
 #include <FL/Fl.H>
 #include <FL/Fl_Preferences.H>

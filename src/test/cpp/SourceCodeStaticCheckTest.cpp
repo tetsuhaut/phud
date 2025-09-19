@@ -3,7 +3,7 @@
 #include "filesystem/TextFile.hpp" // Span
 #include "language/assert.hpp" // phudAssert
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/ProgramInfos.hpp" // ProgramInfos::*
+#include "constants/ProgramInfos.hpp" // ProgramInfos::*
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include <frozen/string.h>
 #include <frozen/unordered_map.h>

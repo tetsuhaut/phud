@@ -9,7 +9,7 @@
 #include "history/GameData.hpp" // std::string, std::string_view, Time, Variant, Limit
 #include "history/WinamaxHandBuilder.hpp" // toAmount, toBuyIn
 #include "history/WinamaxGameHistory.hpp"
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "threads/PlayerCache.hpp"
 
 #include <thirdParties/utfcpp/utf8.h> // utf8::utf16to8
@@ -81,7 +81,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingDoubleOrNothingWithOnlyFoldsShouldSucceed) 
   BOOST_REQUIRE(Variant::holdem == t->getVariant());
   BOOST_REQUIRE(Limit::noLimit == t->getLimitType());
   BOOST_REQUIRE(Seat::seatTen == t->getMaxNbSeats());
-  BOOST_REQUIRE(2.0 == t->getBuyIn());
+  BOOST_REQUIRE_EQUAL(2.0, t->getBuyIn());
   BOOST_REQUIRE(1 == t->viewHands().size());
   const auto& h { *t->viewHands().front() };
   BOOST_REQUIRE(10 == h.viewActions().size());

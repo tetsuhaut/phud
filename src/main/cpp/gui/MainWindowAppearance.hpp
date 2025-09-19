@@ -1,7 +1,7 @@
 #pragma once
 
 #include "gui/Rectangle.hpp" // phud::Rectangle
-#include "mainLib/ProgramInfos.hpp" // ProgramInfos::*, std::string_view
+#include "constants/ProgramInfos.hpp" // ProgramInfos::*, std::string_view
 
 /*
  * Position of the graphical elements on the main screen

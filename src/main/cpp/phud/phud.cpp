@@ -6,7 +6,7 @@
 #include "history/PokerSiteHistory.hpp"
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "phud/ProgramConfiguration.hpp"
 #include "phud/ProgramArguments.hpp"  // ProgramArgumentsException, UserAskedForHelpException
 #include "statistics/PlayerStatistics.hpp"

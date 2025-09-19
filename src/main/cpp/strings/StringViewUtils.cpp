@@ -5,20 +5,42 @@
 
 #include <cctype> // std::isspace
 #include <charconv> // std::from_chars
+#include <type_traits> // std::is_arithmetic_v, std::is_same_v
+#include <stdexcept> // std::invalid_argument
+#include <spdlog/formatter.h> // fmt::format
 
 static Logger LOG { CURRENT_FILE_NAME };
 
-template<typename T>
-static inline T toT(std::string_view s) {
-  const auto str { phud::strings::trim(s) };
-  T ret { 0 };
-  std::from_chars(str.data(), str.data() + str.size(), ret);
-  return ret;
-}
+namespace {
+  template<typename T>
+  requires std::is_arithmetic_v<T> and (not std::is_same_v<T, bool>)
+  [[nodiscard]] T fromStringView(std::string_view s) {
+    const auto& str { phud::strings::trim(s) };
+    T result{};
+    if (str.empty()) { return result; }
+    const auto [ptr, ec] { std::from_chars(str.data(), str.data() + str.size(), result) };
+    if (ec != std::errc{}) {
+      throw std::invalid_argument(fmt::format("Failed to convert '{}' to {}", s, typeid(T).name()));
+    }
+    return result;
+  }
+  
+  [[nodiscard]] constexpr bool isNumericCharOrDot(char c) noexcept {
+    return (c >= '0' and c <= '9') or c == '.';
+  }
 
-int phud::strings::toInt(std::string_view s) { return toT<int>(s); }
+  [[nodiscard]] constexpr char normalizeDecimalSeparator(char c) noexcept {
+    return (c == ',') ? '.' : c;
+  }
 
-std::size_t phud::strings::toSizeT(std::string_view s) { return toT<std::size_t>(s); }
+  [[nodiscard]] double processToken(std::string_view token) {
+    return token.empty() ? 0.0 : phud::strings::toDouble(token);
+  }
+} // anonymous namespace
+
+int phud::strings::toInt(std::string_view s) { return fromStringView<int>(s); }
+
+std::size_t phud::strings::toSizeT(std::string_view s) { return fromStringView<std::size_t>(s); }
 
 [[nodiscard]] constexpr static bool isSpace(char c) noexcept {
   return c == ' ' or c == '\f' or c == '\n' or c == '\r' or c == '\t' or c == '\v';
@@ -47,12 +69,12 @@ std::string_view phud::strings::trim(std::string_view s) {
 double phud::strings::toDouble(std::string_view amount) {
   const auto str { phud::strings::trim(amount) };
   double ret { 0 };
-  const auto result { std::from_chars(str.data(), str.data() + amount.size(), ret) };
+  const auto& [ptr, ec] { std::from_chars(str.data(), str.data() + amount.size(), ret) };
 
-  if (result.ec == std::errc::result_out_of_range) {
+  if (ec == std::errc::result_out_of_range) {
     LOG.error<"phud::strings::toDouble({})">(amount);
     LOG.error<"amount in double: {}">(ret);
-    LOG.error<"Number of treated characters: {}">(result.ptr - str.data());
+    LOG.error<"Number of treated characters: {}">(ptr - str.data());
     LOG.error<"Out of range value">();
     std::exit(8);
   }
@@ -88,40 +110,20 @@ double phud::strings::toAmount(std::string_view amount) {
 double phud::strings::toBuyIn(std::string_view buyIn) {
   std::string token;
   token.reserve(buyIn.size());
-  double ret{ 0.0 };
-  std::ranges::for_each(buyIn, [&token, &ret](auto c) {
-    switch (c) {
-      case ',': { token += '.'; } break;
+  double result{ 0.0 };
 
-      case '.': [[fallthrough]];
-
-      case '0': [[fallthrough]];
-
-      case '1': [[fallthrough]];
-
-      case '2': [[fallthrough]];
-
-      case '3': [[fallthrough]];
-
-      case '4': [[fallthrough]];
-
-      case '5': [[fallthrough]];
-
-      case '6': [[fallthrough]];
-
-      case '7': [[fallthrough]];
-
-      case '8': [[fallthrough]];
-
-      case '9': { token.push_back(c); } break;
-
-      case '+': { ret += phud::strings::toDouble(token); token.clear(); } break;
-
-      default: break;
+  std::ranges::for_each(buyIn, [&token, &result](char c) {
+    if (c == '+') {
+      result += processToken(token);
+      token.clear();
+    } else if (isNumericCharOrDot(c)) {
+      token.push_back(normalizeDecimalSeparator(c));
+    } else if (',' == c) {
+      token += '.';
     }
+    // ignore other characters (like '€', spaces, etc.)
   });
 
-  if (!token.empty()) { ret += phud::strings::toDouble(token); }
-
-  return ret;
+  result += processToken(token);
+  return result;
 }

@@ -10,7 +10,7 @@
 #include "history/WinamaxHandBuilder.hpp" // Pair
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "threads/PlayerCache.hpp"
 
 #include <optional>
@@ -269,8 +269,8 @@ std::string_view handId) {
   return actions;
 }
 
-[[nodiscard]] static inline std::array<std::string, 10> parseWinners(TextFile& tf) {
-  std::array<std::string, 10> winners;
+[[nodiscard]] static inline std::array<std::string, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
+  std::array<std::string, TableConstants::MAX_SEATS> winners;
   auto pos {  std::string::npos };
   std::size_t i { 0 };
 
@@ -305,7 +305,7 @@ std::string_view handId) {
 }
 
 [[nodiscard]] static inline
-std::pair<std::vector<std::unique_ptr<Action>>, std::array<std::string, 10>> parseActionsAndWinners(
+std::pair<std::vector<std::unique_ptr<Action>>, std::array<std::string, TableConstants::MAX_SEATS>> parseActionsAndWinners(
 TextFile& tf, std::string_view handId) {
   LOG.debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;

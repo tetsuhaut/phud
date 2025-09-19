@@ -1,3 +1,4 @@
+#include "constants/TableConstants.hpp"
 #include "db/Database.hpp"  // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database), std::span
 #include "db/SqlInsertor.hpp"  // Game
 #include "db/SqlSelector.hpp" // phudAssert
@@ -464,11 +465,11 @@ Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) co
   return tableSeat::fromInt(p.getColumnAsInt(0));
 }
 
-static std::array<std::unique_ptr<PlayerStatistics>, 10> readTableStatisticsQuery(
+static std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> readTableStatisticsQuery(
   PreparedStatement& p) {
   static_assert(ps::contains(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME, '?'),
                 "ill-formed SQL template");
-  std::array<std::unique_ptr<PlayerStatistics>, 10> playerStats {};
+  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> playerStats {};
 
   if (QueryResult::NO_MORE_ROWS == p.execute()) { return playerStats; }
 

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 
 #include <string_view>
 

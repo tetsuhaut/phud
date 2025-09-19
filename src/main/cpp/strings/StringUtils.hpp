@@ -42,4 +42,4 @@ template <typename CHAR, std::size_t SIZE>
 [[nodiscard]] double toBuyIn(std::string_view buyIn);
 } // namespace phud::strings
 
-[[nodiscard]] inline bool notFound(std::string_view::size_type st) { return std::string_view::npos == st; }
+[[nodiscard]] constexpr bool notFound(std::string_view::size_type st) noexcept { return std::string_view::npos == st; }

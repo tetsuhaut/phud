@@ -4,7 +4,7 @@
 #include "entities/Player.hpp"
 #include "entities/Site.hpp"
 #include "history/WinamaxGameHistory.hpp"
-#include "mainLib/ProgramInfos.hpp"
+#include "constants/ProgramInfos.hpp"
 
 namespace pt = phud::test;
 

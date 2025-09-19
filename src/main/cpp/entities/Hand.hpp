@@ -1,7 +1,8 @@
 #pragma once
 
-#include "system/Time.hpp" // Time, std::unique_ptr, std::string, std::string_view
+#include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
+#include "system/Time.hpp" // Time, std::unique_ptr, std::string, std::string_view
 
 #include <array>
 #include <vector>
@@ -22,11 +23,11 @@ private:
   int m_level;
   long m_ante;
   Time m_date;
-  std::array<Card, 5> m_heroCards;
-  std::array<Card, 5> m_boardCards;
-  std::array<std::string, 10> m_seats;
+  std::array<Card, TableConstants::MAX_CARDS> m_heroCards;
+  std::array<Card, TableConstants::MAX_CARDS> m_boardCards;
+  std::array<std::string, TableConstants::MAX_SEATS> m_seats;
   std::vector<std::unique_ptr<Action>> m_actions;
-  std::array<std::string, 10> m_winners;
+  std::array<std::string, TableConstants::MAX_SEATS> m_winners;
 
 public:
   struct [[nodiscard]] Params final {
@@ -39,11 +40,11 @@ public:
     int level;
     long ante;
     const Time& startDate;
-    const std::array<std::string, 10>& seatPlayers;
-    const std::array<Card, 5>& heroCards;
-    const std::array<Card, 5>& boardCards;
+    const std::array<std::string, TableConstants::MAX_SEATS>& seatPlayers;
+    const std::array<Card, TableConstants::MAX_CARDS>& heroCards;
+    const std::array<Card, TableConstants::MAX_CARDS>& boardCards;
     std::vector<std::unique_ptr<Action>> actions;
-    const std::array<std::string, 10>& winners;
+    const std::array<std::string, TableConstants::MAX_SEATS>& winners;
   }; // struct Params
 
   explicit Hand(Params& p);
@@ -57,7 +58,7 @@ public:
   [[nodiscard]] GameType getGameType() const noexcept { return m_gameType; }
   [[nodiscard]] std::string getSiteName() const noexcept { return m_siteName; }
   [[nodiscard]] std::string getTableName() const noexcept { return m_tableName; }
-  [[nodiscard]] std::array<std::string, 10> getSeats() const noexcept { return m_seats; }
+  [[nodiscard]] std::array<std::string, TableConstants::MAX_SEATS> getSeats() const noexcept { return m_seats; }
   [[nodiscard]] Seat getButtonSeat() const noexcept { return m_buttonSeat; }
   [[nodiscard]] Seat getMaxSeats() const noexcept { return m_maxSeats; }
   [[nodiscard]] int getLevel()const noexcept { return m_level; }

@@ -5,8 +5,8 @@
 #include "language/assert.hpp" // phudAssert
 #include "strings/StringUtils.hpp" // phud::strings::*
 
-#include <algorithm> // std::transform
-#include <iterator> // std:: back_insertor
+#include <algorithm> // std::ranges::find_if
+#include <ranges> // std::views
 #include <vector>
 
 namespace ps = phud::strings;
@@ -36,19 +36,14 @@ Hand::~Hand() = default; // needed because Hand owns a private std::shared_ptr m
 
 bool Hand::isPlayerInvolved(std::string_view name) const {
   const auto isPlayerName { [&name](const auto & a) { return name == a->getPlayerName(); } };
-  return std::end(m_actions) != std::find_if(std::begin(m_actions), std::end(m_actions),
-         isPlayerName);
+  return std::ranges::find_if(m_actions, isPlayerName) != m_actions.end();
 }
 
 bool Hand::isWinner(std::string_view playerName) const noexcept {
-  return std::end(m_winners) != std::find(std::begin(m_winners), std::end(m_winners),
-                                          playerName.data());
+  return std::ranges::find(m_winners, playerName.data()) != m_winners.end();
 }
 
 [[nodiscard]] std::vector<const Action*> Hand::viewActions() const {
-  std::vector<const Action*> ret;
-  ret.reserve(m_actions.size());
-  std::transform(m_actions.cbegin(), m_actions.end(),
-  std::back_inserter(ret), [](const auto & pAction) { return pAction.get(); });
-  return ret;
+  auto actions_view = m_actions | std::views::transform([](const auto& pAction) { return pAction.get(); });
+  return { actions_view.begin(), actions_view.end() };
 }

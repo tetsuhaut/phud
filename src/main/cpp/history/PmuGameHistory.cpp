@@ -6,7 +6,7 @@
 #include "history/PmuHandBuilder.hpp"
 #include "history/PmuGameHistory.hpp" // std::filesystem::path
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "mainLib/ProgramInfos.hpp" // ProgramInfos::*
+#include "constants/ProgramInfos.hpp" // ProgramInfos::*
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/PlayerCache.hpp"
 

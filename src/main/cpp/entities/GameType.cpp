@@ -1,14 +1,10 @@
 #include "entities/GameType.hpp"
-#include <frozen/string.h>
-#include <frozen/unordered_map.h>
+#include "language/EnumMapper.hpp"
 
-
-static constexpr auto ENUM_TO_STRING {
-  frozen::make_unordered_map<GameType, std::string_view>({
-    { GameType::cashGame, "cashGame" }, { GameType::tournament, "tournament" }
-  })
-};
+static constexpr auto GAMETYPE_MAPPER = makeEnumMapper<GameType, 2>({{
+  {GameType::cashGame, "cashGame"}, {GameType::tournament, "tournament"}
+}});
 
 std::string_view toString(GameType gt) {
-  return ENUM_TO_STRING.find(gt)->second;
+  return GAMETYPE_MAPPER.toString(gt);
 }
