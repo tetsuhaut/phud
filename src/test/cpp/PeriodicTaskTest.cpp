@@ -18,7 +18,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
   TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_launchingAPeriodicTaskShouldWork" };
   PeriodicTask pt { PT_PERIOD };
   std::vector<std::string> v { "yip" };
-  pt.start([&]() {
+  pt.start([&v]() {
     v.push_back("yop");
     return 4 == v.size() ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;
   });
@@ -51,10 +51,10 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
   TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeArrays" };
   PeriodicTask pt { PT_PERIOD };
   std::array<std::shared_ptr<StrContainer>, 2> myArray { std::make_shared<StrContainer>(), nullptr };
-  void* hidden { new PassedInArray(myArray) };
-  pt.start([hidden]() {
-    auto args { std::unique_ptr<PassedInArray>(static_cast<PassedInArray*>(hidden)) };
-    args->m_array[0]->str = "yop";
+  auto pArray = std::make_shared<PassedInArray>(myArray);
+  pt.start([pArray]() {
+    auto& args { *pArray };
+    args.m_array[0]->str = "yop";
     return PeriodicTaskStatus::stopTask;
   });
   pt.join();

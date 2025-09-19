@@ -218,24 +218,30 @@ static inline void updateTablePlayerIndicators(std::array<std::unique_ptr<Player
   const auto heroSeat { tableStatistics.getHeroSeat() };
   const auto& seats { tableStatistics.getSeats() };
 
+  LOG.debug<"Processing {} seats for player indicators">(seats.size());
   for (const auto& seat : seats) {
     if (auto ps { tableStatistics.extractPlayerStatistics(seat) }; nullptr != ps) {
+      LOG.debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(), static_cast<int>(seat));
       const auto& pos { buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition) };
       // update the PlayerIndicators with the latest stats.
       // -1 < seat < nbSeats, 1 < nbSeats < 11
       auto& playerIndicator { playerIndicators.at(tableSeat::toArrayIndex(seat)) };
 
       if (nullptr == playerIndicator) {
+        LOG.debug<"Creating new PlayerIndicator for '{}'">(ps->getPlayerName());
         playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName());
       }
       else if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
+        LOG.debug<"Refreshing PlayerIndicator for '{}'">(ps->getPlayerName());
         playerIndicator->refresh(ps->getPlayerName());
       }
       playerIndicator->setStats(*ps);
       setWindowOnTopMost(*playerIndicator);
       playerIndicator->show();
+      LOG.debug<"PlayerIndicator shown for '{}'">(ps->getPlayerName());
     }
     else {
+      LOG.debug<"No player statistics for seat {}, clearing indicator">(static_cast<int>(seat));
       // clear player indicators
       playerIndicators.at(tableSeat::toArrayIndex(seat)).reset();
     }
@@ -246,6 +252,7 @@ static inline void removeUselessPlayerIndicators(
   std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
   const std::span<const std::string> tableNames,
   TableService& tableService) {
+  LOG.info<"Delete table indicators for removed table(s)">();
   for (auto it = playerIndicators.begin(); it != playerIndicators.end();) {
     if (tableNames.end() == std::find(tableNames.begin(), tableNames.end(), it->first)) {
       // Stop monitoring this table
@@ -267,6 +274,7 @@ static inline void updateUsefulPlayerIndicators(
   std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
   const std::span<const std::string> tableNames,
   TableService& tableService) {
+  LOG.info<"Create/Update table indicators for {} table(s)">(tableNames.size());
   for (const auto& tableName : tableNames) {
     // Create entry if it doesn't exist
     if (playerIndicators.find(tableName) == playerIndicators.end()) {
@@ -274,18 +282,28 @@ static inline void updateUsefulPlayerIndicators(
       LOG.debug<"Created player indicators array for table: {}">(tableName);
       
       // Start monitoring this table for statistics
-      auto observer = [&playerIndicators, tableName](TableStatistics&& stats) {
+      auto observer = [&playerIndicators, &tableName](TableStatistics&& stats) {
+        LOG.debug<"Observer called for table '{}'">(tableName);
         scheduleUITask([&playerIndicators, tableName, stats = std::move(stats)]() mutable {
+          LOG.debug<"Scheduled UI task executing for table '{}'">(tableName);
           // Find window position by title
           if (const auto& hwnd {FindWindow(nullptr, tableName.c_str())}; nullptr != hwnd) {
+            LOG.debug<"Found window for table '{}'">(tableName);
             if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
               phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
               
               // Update PlayerIndicators with real statistics
               if (playerIndicators.find(tableName) != playerIndicators.end()) {
+                LOG.debug<"Updating player indicators for table '{}'">(tableName);
                 updateTablePlayerIndicators(playerIndicators[tableName], tableRect, std::move(stats));
+              } else {
+                LOG.warn<"Player indicators not found for table '{}'">(tableName);
               }
+            } else {
+              LOG.warn<"Could not get window rect for table '{}'">(tableName);
             }
+          } else {
+            LOG.warn<"Window not found for table '{}'">(tableName);
           }
         });
       };

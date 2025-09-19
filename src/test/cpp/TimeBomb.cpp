@@ -1,7 +1,7 @@
 #include "TimeBomb.hpp"
 #include "threads/PeriodicTask.hpp"
-#include <spdlog/fmt/bundled/printf.h> // fmt::print
 
+#include <print>
 #include <sstream> // std::ostringstream
 #include <thread>
 
@@ -26,8 +26,8 @@ TimeBomb::TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_v
     if (!m_pImpl->m_isDefused) {
       std::ostringstream oss;
       oss << std::this_thread::get_id();
-      fmt::print("[{}] TimeBomb explodes in test {}\n", oss.str(), m_pImpl->m_testName);
-      std::terminate();
+      std::print("[{}] TimeBomb explodes in test {}\n", oss.str(), m_pImpl->m_testName);
+      std::abort();
     }
 
     return PeriodicTaskStatus::stopTask;

@@ -482,9 +482,13 @@ static std::array<std::unique_ptr<PlayerStatistics>, 10> readTableStatisticsQuer
     const auto vpip { p.getColumnAsDouble(5) };
     const auto pfr { p.getColumnAsDouble(6) };
     const auto nbHands { p.getColumnAsInt(7) };
-    playerStats.at(tableSeat::toArrayIndex(playerSeat)) = std::make_unique<PlayerStatistics>
-    (PlayerStatistics::Params {
-      .playerName = playerName, .siteName = siteName, .isHero = isHero, .nbHands = nbHands, .vpip = vpip, .pfr = pfr });
+    if (playerSeat != Seat::seatUnknown) {
+      playerStats.at(tableSeat::toArrayIndex(playerSeat)) = std::make_unique<PlayerStatistics>
+      (PlayerStatistics::Params {
+        .playerName = playerName, .siteName = siteName, .isHero = isHero, .nbHands = nbHands, .vpip = vpip, .pfr = pfr });
+    } else {
+      LOG.warn<"Invalid seat {} for player {}">(static_cast<int>(playerSeat), playerName);
+    }
   } while (QueryResult::ONE_ROW_OR_MORE == p.execute());
 
   return playerStats;

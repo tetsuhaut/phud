@@ -7,6 +7,7 @@
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "mainLib/ProgramInfos.hpp"
+#include "phud/ProgramConfiguration.hpp"
 #include "phud/ProgramArguments.hpp"  // ProgramArgumentsException, UserAskedForHelpException
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
@@ -23,8 +24,8 @@
 #  pragma GCC diagnostic pop
 #endif  // _MSC_VER
 
-#include <spdlog/fmt/bundled/printf.h> // fmt::print
 #include <csignal> // std::signal(), SIG_DFL, SIGABRT
+#include <print>
 #include <sstream> // std::ostringstream
 
 #if defined(_WIN32)
@@ -61,7 +62,7 @@ static inline void logErrorAndAbort(int signum) {
   std::signal(signum, SIG_DFL);
   std::ostringstream oss;
   oss << boost::stacktrace::stacktrace();
-  fmt::print(stderr, "{}\n", oss.str());
+  std::print(stderr, "{}\n", oss.str());
   LOG.critical(oss.str());
   std::raise(SIGABRT);
 }
@@ -95,34 +96,45 @@ struct [[nodiscard]] LoggingConfig final {
   auto nbErr { 0 };
 
   try {
-    const auto& [oPokerSiteHistoryDir, oLoggingLevel] { parseProgramArguments(std::span(argv, limits::toSizeT(argc))) };
-
-    Database db("phud.db");
+    auto args { std::span(argv, limits::toSizeT(argc)) };
+    const auto& [oHistoDir, loggingLevel] { ProgramConfiguration::readConfiguration(args) };
+    Logger::setLoggingLevel(loggingLevel);
+    Database db(ProgramInfos::DATABASE_NAME);
     TableService ts(db);
     HistoryService hs(db);
 
-    if (oLoggingLevel.has_value()) { Logger::setLoggingLevel(oLoggingLevel.value()); }
-
-    if (oPokerSiteHistoryDir.has_value()) {
-      if (const auto& historyDir { oPokerSiteHistoryDir.value() }; PokerSiteHistory::isValidHistory(historyDir)) {
+    if (oHistoDir.has_value()) {
+      if (const auto& historyDir { oHistoDir.value() }; PokerSiteHistory::isValidHistory(historyDir)) {
         const auto& site { PokerSiteHistory::load(historyDir) };
         db.save(*site);
+      }
+      else {
+        const auto& strDir { oHistoDir.value().string() };
+        throw PhudException(fmt::format("The provided hand history directory '{}' is invalid", strDir));
       }
     }
 
     Gui gui(ts, hs);
     nbErr = gui.run();
     LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
+  } catch (const UserAskedForHelpException& e) {
+    LOG.info(e.what());
+    std::print("{}\n", e.what());
   } catch (const PhudException& e) {
     LOG.error(e.what());
+    std::print(stderr, "{}\n", e.what());
+    ++nbErr;
   } catch (const std::logic_error& e) {
     LOG.error<"Unexpected exception: {}">(e.what());
+    std::print(stderr, "{}\n", e.what());
     ++nbErr;
   } catch (const std::exception& e) {
     LOG.error<"Unexpected exception: {}">(e.what());
+    std::print(stderr, "{}\n", e.what());
     ++nbErr;
   } catch (...) {
     LOG.error<"Unknown exception occurred.">();
+    std::print(stderr, "Unknown exception occurred.\n");
     ++nbErr;
   }
 

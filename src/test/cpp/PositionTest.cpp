@@ -1,8 +1,8 @@
 #include "TestInfrastructure.hpp"
 #include "gui/Rectangle.hpp"
 #include "gui/Position.hpp"
-#include <spdlog/formatter.h>
 
+#include <print>
 #include <set>
 
 BOOST_AUTO_TEST_SUITE(PositionTest)
@@ -17,17 +17,17 @@ BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionFor6MAxSho
   const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
   const auto tableMaxSeat { Seat::seatSix };
   const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, tableMaxSeat, tablePosition) };
-  fmt::print("x1={}, y1={}\n", x1, y1);
+  std::print("x1={}, y1={}\n", x1, y1);
   const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, tableMaxSeat, tablePosition) };
-  fmt::print("x2={}, y2={}\n", x2, y2);
+  std::print("x2={}, y2={}\n", x2, y2);
   const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, tableMaxSeat, tablePosition) };
-  fmt::print("x3={}, y3={}\n", x3, y3);
+  std::print("x3={}, y3={}\n", x3, y3);
   const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, tableMaxSeat, tablePosition) };
-  fmt::print("x4={}, y4={}\n", x4, y4);
+  std::print("x4={}, y4={}\n", x4, y4);
   const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, tableMaxSeat, tablePosition) };
-  fmt::print("x5={}, y5={}\n", x5, y5);
+  std::print("x5={}, y5={}\n", x5, y5);
   const auto& [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, tableMaxSeat, tablePosition) };
-  fmt::print("x6={}, y6={}\n", x6, y6);
+  std::print("x6={}, y6={}\n", x6, y6);
 }
 
 // 0---+ X
@@ -40,15 +40,15 @@ BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionFor5MAxSho
   const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
   const auto tableMaxSeat { Seat::seatFive };
   const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, tableMaxSeat, tablePosition) };
-  fmt::print("x1={}, y1={}\n", x1, y1);
+  std::print("x1={}, y1={}\n", x1, y1);
   const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, tableMaxSeat, tablePosition) };
-  fmt::print("x2={}, y2={}\n", x2, y2);
+  std::print("x2={}, y2={}\n", x2, y2);
   const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, tableMaxSeat, tablePosition) };
-  fmt::print("x3={}, y3={}\n", x3, y3);
+  std::print("x3={}, y3={}\n", x3, y3);
   const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, tableMaxSeat, tablePosition) };
-  fmt::print("x4={}, y4={}\n", x4, y4);
+  std::print("x4={}, y4={}\n", x4, y4);
   const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, tableMaxSeat, tablePosition) };
-  fmt::print("x5={}, y5={}\n", x5, y5);
+  std::print("x5={}, y5={}\n", x5, y5);
 }
 
 // 0---+ X
@@ -62,17 +62,17 @@ BOOST_AUTO_TEST_CASE(PositionTest_buildPlayerIndicatorPositionShouldSucceed) {
   const auto heroSeat { Seat::seatOne };
   const auto tableMaxSeat { Seat::seatSix };
   const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, heroSeat, tableMaxSeat, tablePosition) };
-  fmt::print("x1={}, y1={}\n", x1, y1);
+  std::print("x1={}, y1={}\n", x1, y1);
   const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, heroSeat, tableMaxSeat, tablePosition) };
-  fmt::print("x2={}, y2={}\n", x2, y2);
+  std::print("x2={}, y2={}\n", x2, y2);
   const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, heroSeat, tableMaxSeat, tablePosition) };
-  fmt::print("x3={}, y3={}\n", x3, y3);
+  std::print("x3={}, y3={}\n", x3, y3);
   const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, heroSeat, tableMaxSeat, tablePosition) };
-  fmt::print("x4={}, y4={}\n", x4, y4);
+  std::print("x4={}, y4={}\n", x4, y4);
   const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, heroSeat, tableMaxSeat, tablePosition) };
-  fmt::print("x5={}, y5={}\n", x5, y5);
+  std::print("x5={}, y5={}\n", x5, y5);
   const auto& [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, heroSeat, tableMaxSeat, tablePosition) };
-  fmt::print("x6={}, y6={}\n", x6, y6);
+  std::print("x6={}, y6={}\n", x6, y6);
 }
 
 BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldBeLocatedInsideTheTableWindow) {
