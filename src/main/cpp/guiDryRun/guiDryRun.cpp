@@ -1,4 +1,4 @@
-#include "containers/ThreadSafeQueue.hpp" // std::unique_ptr
+#include "threads/ThreadSafeQueue.hpp" // std::unique_ptr
 #include "db/Database.hpp"
 #include "gui/Gui.hpp"
 #include "gui/TableService.hpp"

@@ -2,8 +2,8 @@
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp"
-#include "strings/StringUtils.hpp" // phud::strings::*
 #include "language/FieldValidators.hpp"
+#include "strings/StringUtils.hpp" // phud::strings::*
 
 #include <algorithm> // std::ranges::find_if
 #include <ranges> // std::views

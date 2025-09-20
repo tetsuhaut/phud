@@ -1,6 +1,6 @@
 #pragma once
 
-#include "containers/ThreadSafeQueue.hpp" // std::unique_ptr
+#include "threads/ThreadSafeQueue.hpp" // std::unique_ptr
 
 #include <chrono>
 
