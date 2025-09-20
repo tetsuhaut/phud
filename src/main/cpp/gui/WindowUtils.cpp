@@ -1,5 +1,5 @@
 #include "gui/WindowUtils.hpp"
-#include "language/assert.hpp"
+#include "language/FieldValidators.hpp"
 #include "language/limits.hpp"
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
@@ -26,7 +26,7 @@ std::string getExecutableName(const HWND window) {
   DWORD pid;
   GetWindowThreadProcessId(window, &pid);
   const auto myProcessHandle { OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, pid) };
-  phudAssert(nullptr != myProcessHandle, getLastErrorMessageFromOS().c_str());
+  validation::requireNotNull(myProcessHandle, getLastErrorMessageFromOS().c_str());
   auto _ { gsl::finally([myProcessHandle] { CloseHandle(myProcessHandle); }) };
   char process[MAX_PATH + 1] { '\0' };
 

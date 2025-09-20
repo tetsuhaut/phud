@@ -1,5 +1,5 @@
 #include "entities/Player.hpp"
-#include "language/assert.hpp"
+#include "language/FieldValidators.hpp"
 #include "threads/PlayerCache.hpp"
 
 #include <algorithm> // std::ranges::for_each
@@ -22,14 +22,14 @@ PlayerCache::~PlayerCache() = default;
 void PlayerCache::setIsHero(std::string_view playerName) {
   const std::lock_guard<std::mutex> lock { m_pImpl->m_mutex };
   auto it { m_pImpl->m_players.find(playerName) };
-  phudAssert(m_pImpl->m_players.end() != it, "Setting hero on a bad player");
+  validation::require(m_pImpl->m_players.end() != it, "Setting hero on a bad player");
   it->second->setIsHero(true);
 }
 
 void PlayerCache::erase(std::string_view playerName) {
   const std::lock_guard<std::mutex> lock { m_pImpl->m_mutex };
   auto it { m_pImpl->m_players.find(playerName) };
-  phudAssert(m_pImpl->m_players.end() != it, "Erasing a bad player");
+  validation::require(m_pImpl->m_players.end() != it, "Erasing a bad player");
   m_pImpl->m_players.erase(it);
 }
 

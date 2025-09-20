@@ -1,6 +1,6 @@
 #include "filesystem/FileUtils.hpp"
 #include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, std::filesystem::path, std::string, toString, count
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp"
 
@@ -50,7 +50,7 @@ static inline void getLatestUpdatedFile(auto, fs::file_time_type&, auto&&) = del
 
 FileWatcher::FileWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& file)
   : m_pImpl{ std::make_unique<FileWatcher::Implementation>(reloadPeriod, file) } {
-  phudAssert(phud::filesystem::isFile(m_pImpl->m_file),
+  validation::require(phud::filesystem::isFile(m_pImpl->m_file),
              "the file provided to FileWatcher() is not valid.");
   LOG.info<"will watch the file {} every {}ms">(m_pImpl->m_file.string(), reloadPeriod.count());
 }
@@ -58,7 +58,7 @@ FileWatcher::FileWatcher(std::chrono::milliseconds reloadPeriod, const fs::path&
 FileWatcher::~FileWatcher() = default;
 
 void FileWatcher::start(std::function<void(const fs::path&)> fileHasChangedCb) {
-  phudAssert(nullptr != fileHasChangedCb, "null callback in FileWatcher::start()");
+  validation::requireNotNull(fileHasChangedCb, "null callback in FileWatcher::start()");
   m_pImpl->m_task.start([this, fileHasChangedCb]() {
     getLatestUpdatedFile(m_pImpl->m_file, m_pImpl->m_lastModifDate, fileHasChangedCb);
     return isStopped() ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;

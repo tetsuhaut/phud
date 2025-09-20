@@ -12,7 +12,6 @@
 #include "gui/WindowUtils.hpp"
 #include "gui/Preferences.hpp"
 #include "gui/TableWatcher.hpp"
-#include "language/assert.hpp" // phudAssert
 #include "language/Either.hpp" // ErrOrRes
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "statistics/PlayerStatistics.hpp"

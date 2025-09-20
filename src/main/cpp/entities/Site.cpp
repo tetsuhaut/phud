@@ -1,12 +1,12 @@
 #include "entities/Game.hpp" // CashGame, Tournament
 #include "entities/Site.hpp" // Site, Player
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 
 #include <algorithm> // std::transform
 #include <iterator> // std::back_inserter
 
 Site::Site(std::string_view name)
-  : m_name { name } { phudAssert(!m_name.empty(), "name is empty"); }
+  : m_name { name } { validation::requireNonEmpty(m_name, "name"); }
 
 Site::~Site() = default; // needed because Site owns private std::unique_ptr members
 
@@ -23,7 +23,7 @@ std::vector<const Player*> Site::viewPlayers() const {
 }
 
 void Site::addPlayer(std::unique_ptr<Player> p) {
-  phudAssert(p->getSiteName() == m_name, "player is on another site");
+  validation::require(p->getSiteName() == m_name, "player is on another site");
 
   if (!m_players.contains(p->getName())) {
     m_players[p->getName()] = std::move(p);
@@ -31,12 +31,12 @@ void Site::addPlayer(std::unique_ptr<Player> p) {
 }
 
 void Site::addGame(std::unique_ptr<CashGame> game) {
-  phudAssert(game->getSiteName() == m_name, "game is on another site");
+  validation::require(game->getSiteName() == m_name, "game is on another site");
   m_cashGames.push_back(std::move(game));
 }
 
 void Site::addGame(std::unique_ptr<Tournament> game) {
-  phudAssert(game->getSiteName() == m_name, "game is on another site");
+  validation::require(game->getSiteName() == m_name, "game is on another site");
   m_tournaments.push_back(std::move(game));
 }
 
@@ -53,7 +53,7 @@ std::vector<const CashGame*> Site::viewCashGames() const { return view(m_cashGam
 std::vector<const Tournament*> Site::viewTournaments() const { return view(m_tournaments); }
 
 void Site::merge(Site& other) {
-  phudAssert(other.getName() == m_name, "Can't merge data from different poker sites");
+  validation::require(other.getName() == m_name, "Can't merge data from different poker sites");
   std::ranges::for_each(other.m_players, [this](auto & pair) { addPlayer(std::move(pair.second)); });
   std::move(std::begin(other.m_cashGames), std::end(other.m_cashGames),
             std::back_inserter(m_cashGames));

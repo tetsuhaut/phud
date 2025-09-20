@@ -9,7 +9,7 @@
 #include "entities/Player.hpp" // needed as Site declares incomplete Player type
 #include "entities/Site.hpp"
 #include "history/WinamaxHistory.hpp" // PokerSiteHistory
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "log/Logger.hpp" // fmt::format(), LoggingLevel
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/ThreadPool.hpp"
@@ -59,8 +59,8 @@ struct IsDir final {};
 
 template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
 [[nodiscard]] static inline fs::path getGenericFileFromTestResources(const auto& file) {
-  phudAssert(!file.empty(), "file or dir can't be empty");
-  phudAssert('/' != file.front(), "file or dir can't start with '/'");
+  validation::requireNonEmpty(file, "file or dir");
+  validation::require('/' != file.front(), "file or dir can't start with '/'");
   const auto& ret { (pt::getTestResourcesDir() / file) };
 
   if constexpr(std::is_same_v<T, ::IsFile>) {

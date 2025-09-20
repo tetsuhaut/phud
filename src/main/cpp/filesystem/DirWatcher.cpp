@@ -1,7 +1,7 @@
 #include <unordered_map>
 #include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString
 #include "filesystem/FileUtils.hpp" // phud::filesystem::*
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp" // NonCopyable
 
@@ -54,7 +54,7 @@ template<typename T> requires(std::same_as<T, fs::path>)
 
 DirWatcher::DirWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& dir)
   : m_pImpl{ std::make_unique<Implementation>(reloadPeriod, dir)} {
-  phudAssert(pf::isDir(m_pImpl->m_dir),
+  validation::require(pf::isDir(m_pImpl->m_dir),
              "the dir provided to DirWatcher() is not valid.");
   LOG.info<"will watch directory {} every {}ms">(dir.string(), reloadPeriod.count());
 }

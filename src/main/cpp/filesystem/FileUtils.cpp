@@ -1,5 +1,5 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::string_view, std::vector
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 
 #include <gsl/gsl>
@@ -38,9 +38,9 @@ using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
 
 // use std::filesystem::path as std needs it
 std::string phud::filesystem::readToString(const fs::path& p) {
-  phudAssert(!phud::filesystem::isDir(p), "given a dir instead of a file");
+  validation::require(!phud::filesystem::isDir(p), "given a dir instead of a file");
   std::string s{ fmt::format("given a non exiting file '{}'", p.string()) };
-  phudAssert(phud::filesystem::isFile(p), s.c_str());
+  validation::require(phud::filesystem::isFile(p), s.c_str());
   std::ifstream in { p };
   // decltype(std::ifstream::gcount()) is std::streamsize, which is signed.
   // std::string constructor takes a std::string::size_type, which is unsigned.
@@ -107,7 +107,7 @@ std::vector<fs::path> phud::filesystem::listSubDirs(const fs::path& dir) {
 }
 
 std::vector<fs::path> phud::filesystem::listRecursiveFiles(const fs::path& dir) {
-  phudAssert(isDir(dir), "given invalid dir");
+  validation::require(isDir(dir), "given invalid dir");
   std::vector<fs::path> ret;
 
   for (const auto& dirEntry : RecursDirIt(dir)) {

@@ -3,7 +3,7 @@
 #include "entities/Action.hpp"
 #include "entities/Card.hpp"
 #include "entities/Game.hpp" // Limit, Variant
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include <spdlog/formatter.h> // fmt::format()
 
@@ -20,9 +20,9 @@ template<> inline std::string toString<double>(double s) { return std::to_string
 template<> inline std::string toString<Seat>(Seat seat) { return tableSeat::toString(seat).data(); }
 
 static std::string_view isOk(std::string_view s) {
-  phudAssert(ps::contains(s, '('), "The given sqlTemplate should contain '('");
-  phudAssert(ps::contains(s, ')'), "The given sqlTemplate should contain ')'");
-  phudAssert(ps::contains(s, '?'), "The given sqlTemplate should contain '?'");
+  validation::require(ps::contains(s, '('), "The given sqlTemplate should contain '('");
+  validation::require(ps::contains(s, ')'), "The given sqlTemplate should contain ')'");
+  validation::require(ps::contains(s, '?'), "The given sqlTemplate should contain '?'");
   return s;
 }
 
@@ -35,7 +35,7 @@ SqlInsertor::SqlInsertor(std::string_view sqlTemplate)
     m_valueModel { sqlTemplate.substr(sqlTemplate.rfind('(') + 1, sqlTemplate.rfind(')')
                                       - sqlTemplate.rfind('(') - 1) },
     m_values { m_valueModel } {
-  phudAssert(ps::contains(sqlTemplate, '?'), "The given sqlTemplate should contain '?'");
+  validation::require(ps::contains(sqlTemplate, '?'), "The given sqlTemplate should contain '?'");
 }
 
 std::string SqlInsertor::build() {
@@ -51,7 +51,7 @@ std::string SqlInsertor::build() {
 
 #define REPLACE_IN_VALUES(PLACE_HOLDER) \
   do { \
-    phudAssert(std::string::npos != m_values.find(PLACE_HOLDER), "m_values should contain " #PLACE_HOLDER); \
+    validation::require(std::string::npos != m_values.find(PLACE_HOLDER), "m_values should contain " #PLACE_HOLDER); \
     m_values.replace(m_values.find(PLACE_HOLDER), ps::length(PLACE_HOLDER), toString(value)); \
     return *this; \
   } while (false)

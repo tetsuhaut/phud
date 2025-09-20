@@ -1,4 +1,3 @@
-#include "language/assert.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // std::string_view
 #include <gsl/gsl>

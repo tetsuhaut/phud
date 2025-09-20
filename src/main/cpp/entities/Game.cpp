@@ -1,7 +1,7 @@
 #include "entities/Game.hpp" // Game, std::string
 #include "entities/Hand.hpp"
-#include "language/assert.hpp" // phudAssert
 #include "language/EnumMapper.hpp"
+#include "language/FieldValidators.hpp"
 
 #include <ranges> // std::views
 
@@ -33,10 +33,10 @@ Game::Game(const Params& args)
     m_nbMaxSeats { args.nbMaxSeats },
     m_startDate { args.startDate },
     m_hands {} {
-  phudAssert(!m_id.empty(), "empty id");
-  phudAssert(!m_site.empty(), "empty site");
-  phudAssert(!m_name.empty(), "empty name");
-  phudAssert(m_nbMaxSeats != Seat::seatUnknown, "nbMaxSeats must be defined");
+  validation::requireNonEmpty(m_id, "id");
+  validation::requireNonEmpty(m_site, "site");
+  validation::requireNonEmpty(m_name, "name");
+  validation::require(m_nbMaxSeats != Seat::seatUnknown, "nbMaxSeats must be defined");
 }
 
 Game::~Game() = default; // needed because Game owns private std::unique_ptr members
@@ -58,7 +58,7 @@ std::vector<const Hand*> Game::viewHands(std::string_view player) const {
 Tournament::Tournament(const Params& p)
   : m_buyIn { p.buyIn },
     m_game { std::make_unique<Game>(Game::Params {.id = p.id, .siteName = p.siteName, .gameName = p.tournamentName, .variant = p.variant, .limitType = p.limit, .isRealMoney = p.isRealMoney, .nbMaxSeats = p.nbMaxSeats, .startDate = p.startDate}) } {
-  phudAssert(m_buyIn >= 0, "negative buyIn");
+  validation::requirePositive(m_buyIn, "buyIn");
 }
 
 Tournament::~Tournament() = default;
@@ -70,8 +70,8 @@ CashGame::CashGame(const Params& p)
     m_bigBlind { p.bigBlind },
     m_game { std::make_unique<Game>(Game::Params{.id = p.id, .siteName = p.siteName, .gameName = p.cashGameName, .variant = p.variant,
                                     .limitType = p.limit, .isRealMoney = p.isRealMoney, .nbMaxSeats = p.nbMaxSeats, .startDate = p.startDate}) } {
-  phudAssert(m_smallBlind >= 0, "negative small blind");
-  phudAssert(m_bigBlind >= 0, "negative big blind");
+  validation::requirePositive(m_smallBlind, "smallBlind");
+  validation::requirePositive(m_bigBlind, "bigBlind");
 }
 
 CashGame::~CashGame() = default;

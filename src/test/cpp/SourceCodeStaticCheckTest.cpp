@@ -1,7 +1,7 @@
 #include "TestInfrastructure.hpp" // std::filesystem::path, fs::*, phud::*
 #include "db/sqliteQueries.hpp"
 #include "filesystem/TextFile.hpp" // Span
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "constants/ProgramInfos.hpp" // ProgramInfos::*
 #include "strings/StringUtils.hpp" // phud::strings::*
@@ -102,7 +102,7 @@ static auto SRC_FILES {
  *         '#include "a/b" // c' into 'a/b'
  */
 [[nodiscard]] static inline std::string_view extractInclude(std::string_view line) {
-  phudAssert((1 < phud::algorithms::count(line, '"')) or
+  validation::require((1 < phud::algorithms::count(line, '"')) or
              (std::end(line) != std::find(line.begin(), line.end(), '<') and
               std::end(line) != std::find(line.begin(), line.end(), '>')), "bad line");
   const auto& startPos { line.find_first_of("\"<") + 1 };
@@ -222,7 +222,7 @@ enum class LineType : short { none, pragmaOnce, other };
     }
   }
 
-  phudAssert(!ret.empty(), "did not detect any query");
+  validation::requireNonEmpty(ret, "detected queries");
   return ret;
 }
 

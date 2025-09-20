@@ -1,8 +1,9 @@
 #include "constants/TableConstants.hpp"
 #include "db/Database.hpp"  // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database), std::span
 #include "db/SqlInsertor.hpp"  // Game
-#include "db/SqlSelector.hpp" // phudAssert
+#include "db/SqlSelector.hpp"
 #include "db/sqliteQueries.hpp" // all the SQL queries
+#include "language/FieldValidators.hpp"
 #include "entities/Action.hpp"
 #include "entities/Game.hpp" // Cashgame, Limit, Time, Tournament, Variant
 #include "entities/GameType.hpp"
@@ -74,7 +75,7 @@ static inline void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_vie
 * file
 */
 [[nodiscard]] static inline gsl::not_null<sqlite3*> createDatabase(std::string_view name) {
-  phudAssert(!name.empty(), "db name is empty !!!");
+  validation::requireNonEmpty(name, "db name");
   fs::path dbFile { name };
   const auto isDbCreation { !pf::isFile(dbFile) };
 
@@ -354,7 +355,7 @@ static inline void saveHands(const gsl::not_null<sqlite3*> db, std::string_view 
   std::ranges::for_each(hands, [&](const auto & pHand) {
     insertHand(handInsert, *pHand);
     const auto& seats { pHand->getSeats() };
-    phudAssert(!std::ranges::all_of(seats, [](const auto & p) { return p.empty(); }),
+    validation::require(!std::ranges::all_of(seats, [](const auto & p) { return p.empty(); }),
     "trying to save a hand with no players");
     int i { 1 };
     std::ranges::for_each(seats, [&](const auto & playerName) {
@@ -461,7 +462,7 @@ Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) co
 
   if (QueryResult::NO_MORE_ROWS == p.execute()) { return Seat::seatUnknown; }
 
-  phudAssert(1 == p.getColumnCount(), "bad number of columns in Database::getTableMaxSeat()");
+  validation::require(1 == p.getColumnCount(), "bad number of columns in Database::getTableMaxSeat()");
   return tableSeat::fromInt(p.getColumnAsInt(0));
 }
 
@@ -474,7 +475,7 @@ static std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> 
   if (QueryResult::NO_MORE_ROWS == p.execute()) { return playerStats; }
 
   do {
-    phudAssert(8 == p.getColumnCount(), "bad number of columns in readTablePlayersStatistics()");
+    validation::require(8 == p.getColumnCount(), "bad number of columns in readTablePlayersStatistics()");
     const auto& playerName { p.getColumnAsString(0) };
     const auto& siteName { p.getColumnAsString(1) };
     const auto isHero { p.getColumnAsBool(2) };
@@ -514,7 +515,7 @@ std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_vie
 
   if (QueryResult::NO_MORE_ROWS == p.execute()) { return nullptr; }
 
-  phudAssert(4 == p.getColumnCount(), "bad number of columns in Database::readPlayerStatistics()");
+  validation::require(4 == p.getColumnCount(), "bad number of columns in Database::readPlayerStatistics()");
   const auto isHero { 0 != p.getColumnAsInt(0) };
   const auto vpip { p.getColumnAsDouble(1) };
   const auto pfr { p.getColumnAsDouble(2) };

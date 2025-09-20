@@ -7,7 +7,7 @@
 #include "history/PmuHandBuilder.hpp"
 #include "history/PokerSiteHandBuilder.hpp" // ProgramInfos
 #include "filesystem/TextFile.hpp"
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "constants/ProgramInfos.hpp"
@@ -236,7 +236,7 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
 
     case Street::river: { return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), cards.at(4) }; }
 
-    default: { phudAssert(false, "Unknown street !!!"); }
+    default: { validation::require(false, "Unknown street !!!"); }
   }
 
   return FIVE_NONE_CARDS;

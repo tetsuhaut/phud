@@ -1,4 +1,3 @@
-#include "language/assert.hpp"
 #include "language/limits.hpp"
 #include "statistics/PlayerStatistics.hpp" // toSizeT
 #include "statistics/TableStatistics.hpp"

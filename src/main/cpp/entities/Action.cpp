@@ -1,6 +1,6 @@
 #include "entities/Action.hpp" // ActionType, std::string
-#include "language/assert.hpp" // phudAssert
 #include "language/EnumMapper.hpp"
+#include "language/FieldValidators.hpp"
 
 static constexpr auto ACTION_TYPE_MAPPER = makeEnumMapper<ActionType, 6>({{
   {ActionType::bet, "bet"}, {ActionType::call, "call"},
@@ -20,10 +20,10 @@ Action::Action(const Params& p)
     m_type { p.type },
     m_index { p.actionIndex },
     m_betAmount { p.betAmount } {
-  phudAssert((Street::none != m_street), "Cannot create 'none' action");
-  phudAssert(!m_handId.empty(), "empty hand id");
-  phudAssert(!m_playerName.empty(), "empty playerName");
-  phudAssert(m_betAmount >= 0, "negative bet amount");
+  validation::require(Street::none != m_street, "Cannot create 'none' action");
+  validation::requireNonEmpty(m_handId, "handId");
+  validation::requireNonEmpty(m_playerName, "playerName");
+  validation::requirePositive(m_betAmount, "betAmount");
 }
 
 Action::~Action() = default;

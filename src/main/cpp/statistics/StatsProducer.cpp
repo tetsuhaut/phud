@@ -1,5 +1,5 @@
 #include "db/Database.hpp"
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/StatsProducer.hpp" // ThreadSafeQueue, std::array, toMilliseconds, std::unique_ptr
@@ -19,8 +19,8 @@ struct [[nodiscard]] StatsProducer::Implementation final {
       m_site { args.site },
       m_table { args.tableWindowName },
       m_db { args.db } {
-    phudAssert(!args.site.empty(), "site is empty");
-    phudAssert(!args.tableWindowName.empty(), "table is empty");
+    validation::requireNonEmpty(args.site, "site");
+    validation::requireNonEmpty(args.tableWindowName, "tableWindowName");
   }
 };
 

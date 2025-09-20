@@ -1,6 +1,7 @@
 #include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
 #include "language/EnumMapper.hpp"
+#include "language/FieldValidators.hpp"
 
 static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat, 10>({{
   {Seat::seatOne, "1"}, {Seat::seatTwo, "2"}, {Seat::seatThree, "3"}, {Seat::seatFour, "4"}, {Seat::seatFive, "5"},
@@ -8,12 +9,12 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat, 10>({{
 }});
 
 /*[[nodiscard]]*/ Seat tableSeat::fromString(std::string_view seatStr) {
-  phudAssert(SEAT_MAPPER.isValid(seatStr), "bad seat string");
+  validation::require(SEAT_MAPPER.isValid(seatStr), "bad seat string");
   return SEAT_MAPPER.fromString(seatStr);
 }
 
 /*[[nodiscard]]*/ Seat tableSeat::fromArrayIndex(std::size_t i) {
-  phudAssert(TableConstants::MAX_SEATS > i, "Can't find a seat for that value");
+  validation::require(TableConstants::MAX_SEATS > i, "Can't find a seat for that value");
   return static_cast<Seat>(i);
 }
 
@@ -26,7 +27,7 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat, 10>({{
 }
 
 /*[[nodiscard]]*/ Seat tableSeat::fromInt(int i) {
-  phudAssert(0 < i and TableConstants::MAX_SEAT_NUMBER >= i, "Can't find a seat for that value");
+  validation::require(0 < i and TableConstants::MAX_SEAT_NUMBER >= i, "Can't find a seat for that value");
   return static_cast<Seat>(i - 1);
 }
 

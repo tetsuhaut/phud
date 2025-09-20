@@ -2,8 +2,8 @@
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp"
-#include "language/assert.hpp" // phudAssert
 #include "strings/StringUtils.hpp" // phud::strings::*
+#include "language/FieldValidators.hpp"
 
 #include <algorithm> // std::ranges::find_if
 #include <ranges> // std::views
@@ -26,10 +26,10 @@ Hand::Hand(Params& p)
     m_seats { p.seatPlayers },
     m_actions { std::move(p.actions) },
     m_winners { p.winners } {
-  phudAssert(!m_id.empty(), "id is empty");
-  phudAssert(!m_siteName.empty(), "site is empty");
-  phudAssert(!m_tableName.empty(), "table is empty");
-  phudAssert(m_ante >= 0, "ante is negative");
+  validation::requireNonEmpty(m_id, "id");
+  validation::requireNonEmpty(m_siteName, "site");
+  validation::requireNonEmpty(m_tableName, "table");
+  validation::requirePositive(m_ante, "ante");
 }
 
 Hand::~Hand() = default; // needed because Hand owns a private std::shared_ptr member

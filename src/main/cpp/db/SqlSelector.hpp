@@ -1,6 +1,6 @@
 #pragma once
 
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "strings/StringUtils.hpp" // std::string_view
 
 
@@ -10,11 +10,11 @@ private:
 
 public:
   explicit SqlSelector(std::string_view sqlTemplate) : m_query { sqlTemplate } {
-    phudAssert(phud::strings::contains(sqlTemplate, '?'), "The given sqlTemplate should contain '?'");
+    validation::require(phud::strings::contains(sqlTemplate, '?'), "The given sqlTemplate should contain '?'");
   }
 
   [[nodiscard]] std::string toString() {
-    phudAssert(!phud::strings::contains(m_query, '?'),
+    validation::require(!phud::strings::contains(m_query, '?'),
                "At least one variable still needs to be replaced");
     return m_query;
   }

@@ -1,6 +1,6 @@
 #include "gui/TableWatcher.hpp"
 #include "gui/WindowUtils.hpp"
-#include "language/assert.hpp" // phudAssert
+#include "language/FieldValidators.hpp"
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "threads/PeriodicTask.hpp"
@@ -24,7 +24,7 @@ struct [[nodiscard]] TableWatcher::Implementation final {
 
   explicit Implementation(const TablesChangedCallback& onTablesChanged)
     : m_onTablesChangedCb { onTablesChanged } {
-    phudAssert(nullptr != m_onTablesChangedCb, "m_callbacks.onTablesChanged is null");
+    validation::requireNotNull(m_onTablesChangedCb, "m_callbacks.onTablesChanged is null");
   }
 
   [[nodiscard]] static std::vector<std::string> findPokerTables() {
