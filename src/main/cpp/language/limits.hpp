@@ -5,7 +5,7 @@
 #  pragma GCC diagnostic ignored "-Wdouble-promotion"
 #endif  // __MINGW32__
 
-#include "language/clamp-cast.hpp"
+#include <thirdParties/cpp-clamp-cast/clamp-cast.hpp>
 
 #if defined(__MINGW32__) // end of specific gcc warnings removal
 #  pragma GCC diagnostic pop
