@@ -1,4 +1,5 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::span
+#include "log/Logger.hpp"
 #include "phud/ProgramArguments.hpp"  // ProgramArguments::*, std::string, std::string_view, std::pair, std::optional, toLoggingLevel()
 #include "constants/ProgramInfos.hpp"  // ProgramInfos::*
 #include "strings/StringLiteral.hpp"
@@ -9,6 +10,8 @@
 
 #include <array>
 
+static Logger LOG { CURRENT_FILE_NAME };
+
 namespace fs = std::filesystem;
 namespace ps = phud::strings;
 
@@ -16,8 +19,9 @@ namespace ps = phud::strings;
 * @returns the value, from @param arguments, corresponding to one of the given options.
 */
 [[nodiscard]] constexpr static std::optional<std::string_view> getOptionValue(
-  std::span<const char* const>
-  arguments, std::string_view shortOption, std::string_view longOption) {
+  std::span<const char* const> arguments,
+  std::string_view shortOption,
+  std::string_view longOption) {
   const auto begin { std::begin(arguments) }, end { std::end(arguments) };
 
   if (const auto it { std::find(begin, end, shortOption) }; end != it) { return gsl::at(arguments, it - begin + 1); }
@@ -89,6 +93,7 @@ template<StringLiteral STR>
  */
 /*[[nodiscard]]*/ std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
 parseProgramArguments(std::span<const char* const> arguments) {
+  LOG.info<"reading phud program arguments">();
   const auto programName { gsl::at(arguments, 0) };
   constexpr auto USAGE_TEMPLATE { "Usage:\n{} [-d|--historyDir <directory>] "
                                   "[-l|--logLevel none|trace|info|warning|error]\n"
@@ -96,10 +101,8 @@ parseProgramArguments(std::span<const char* const> arguments) {
                                   "  <directory> is the directory containing the poker site hand history.\n"
                                   "  <none|trace|info|warning|error> are the different values for the logging level.\n" };
 
-  if ((std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments),
-       isEqualTo<"-h">)) or
-      (std::end(arguments) != std::find_if(std::begin(arguments), std::end(arguments),
-          isEqualTo<"--help">))) {
+  if ((std::end(arguments) != std::ranges::find_if(arguments, isEqualTo<"-h">)) or
+      (std::end(arguments) != std::ranges::find_if(arguments, isEqualTo<"--help">))) {
     const auto& PROGRAM_DESCRIPTION { fmt::format("Poker Heads-Up Dispay version {} \n"
                                       "Shows statistics on the players for the current poker table.\n", ProgramInfos::APP_VERSION) };
     throw UserAskedForHelpException { fmt::format("{}{}", PROGRAM_DESCRIPTION,

@@ -33,6 +33,6 @@ ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\tc1591.db -d %CD%\src\test\resources\tc15
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\simpleCGHisto.db -d %CD%\src\test\resources\simpleCGHisto >> %BUILD_DIR%\updateDb.bat
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\simpleTHisto.db -d %CD%\src\test\resources\simpleTHisto >> %BUILD_DIR%\updateDb.bat
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\sabre_laser.db -d %CD%\src\test\resources\sabre_laser >> %BUILD_DIR%\updateDb.bat
-ECHO ^%BIN_DIR%\phud.exe > %BUILD_DIR%\phud.bat
+ECHO ^del log.txt ^& ^%BIN_DIR%\phud.exe %%* > %BUILD_DIR%\phud.bat
 ECHO ^%BIN_DIR%\guiDryRun.exe > %BUILD_DIR%\guiDryRun.bat
 ECHO done

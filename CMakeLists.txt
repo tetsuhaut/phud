@@ -118,8 +118,9 @@ target_include_directories(mainLib PRIVATE src/main/cpp)
 
 # build the phud GUI executable, it uses the main lib
 file(GLOB_RECURSE phudSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/phud/*)
-# if on Windows, do no show console
+# if on Windows, 'WIN32' makes the program not show console
 add_executable(phud WIN32 ${phudSourceFiles})
+# add_executable(phud ${phudSourceFiles})
 target_include_directories(phud PRIVATE src/main/cpp)
 target_link_libraries(phud PRIVATE mainLib)
 

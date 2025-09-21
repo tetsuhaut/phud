@@ -32,7 +32,8 @@ public:
     }
 };
 
-template<typename EnumType, std::size_t N>
-constexpr auto makeEnumMapper(const std::array<std::pair<EnumType, std::string_view>, N>& pairs) {
-  return EnumMapper<EnumType, N>(pairs);
+template<typename EnumType, typename... Args>
+constexpr auto makeEnumMapper(std::pair<EnumType, std::string_view> first, Args... rest) {
+  constexpr auto N { 1 + sizeof...(Args) };
+  return EnumMapper<EnumType, N>(std::array<std::pair<EnumType, std::string_view>, N>{first, rest...});
 }

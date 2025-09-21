@@ -2,16 +2,16 @@
 #include "language/EnumMapper.hpp"
 #include "language/FieldValidators.hpp"
 
-static constexpr auto ACTION_TYPE_MAPPER = makeEnumMapper<ActionType, 6>({{
-  {ActionType::bet, "bet"}, {ActionType::call, "call"},
-  {ActionType::check, "check"}, {ActionType::fold, "fold"},
-  {ActionType::raise, "raise"}, {ActionType::none, "none"}
-}});
+static constexpr auto ACTION_TYPE_MAPPER = makeEnumMapper<ActionType>(
+  std::pair{ActionType::bet, "bet"}, std::pair{ActionType::call, "call"},
+  std::pair{ActionType::check, "check"}, std::pair{ActionType::fold, "fold"},
+  std::pair{ActionType::raise, "raise"}, std::pair{ActionType::none, "none"}
+);
 
-static constexpr auto STREET_MAPPER = makeEnumMapper<Street, 4>({{
-  {Street::preflop, "preflop"}, {Street::flop, "flop"},
-  {Street::turn, "turn"}, {Street::river, "river"}
-}});
+static constexpr auto STREET_MAPPER = makeEnumMapper<Street>(
+  std::pair{Street::preflop, "preflop"}, std::pair{Street::flop, "flop"},
+  std::pair{Street::turn, "turn"}, std::pair{Street::river, "river"}
+);
 
 Action::Action(const Params& p)
   : m_handId { p.handId },

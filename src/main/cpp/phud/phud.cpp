@@ -29,7 +29,8 @@
 #include <sstream> // std::ostringstream
 
 #if defined(_WIN32)
-#  include <windows.h> // WinMain
+#  include <windows.h> // WinMain. must be included before tlhelp32.h
+#  include <tlhelp32.h> // TH32CS_SNAPPROCESS
 #endif  // _WIN32
 
 // TODO: aligner les champs des classes en mémoire (padding)
@@ -76,16 +77,78 @@ struct [[nodiscard]] LoggingConfig final {
   ~LoggingConfig() { Logger::shutdownLogging(); }
 };
 
+
+#if defined(_WIN32)
+
+struct [[nodiscard]] AutoCloseHandle final {
+  HANDLE m_handle;
+
+  AutoCloseHandle(HANDLE h): m_handle { h } {}
+  AutoCloseHandle(const AutoCloseHandle&) = delete;
+  AutoCloseHandle& operator=(const AutoCloseHandle&) = delete;
+  ~AutoCloseHandle() { if (INVALID_HANDLE_VALUE != m_handle) { CloseHandle(m_handle); } }
+
+  constexpr bool isInvalid() const { return INVALID_HANDLE_VALUE == m_handle; }
+  operator HANDLE() const { return m_handle; }
+};
+
+static DWORD getParentProcessId(DWORD pid) {
+  const auto hSnapshot { AutoCloseHandle(CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0)) };
+  if (hSnapshot.isInvalid()) { return 0; }  
+  PROCESSENTRY32 pe32;
+  pe32.dwSize = sizeof(PROCESSENTRY32);
+  DWORD parentPid = 0;
+  if (Process32First(hSnapshot, &pe32)) {
+    do {
+      if (pe32.th32ProcessID == pid) {
+        parentPid = pe32.th32ParentProcessID;
+        break;
+      }
+    } while (Process32Next(hSnapshot, &pe32));
+  }
+  return parentPid;
+}
+
+static std::string getProcessName(DWORD pid) {
+  const auto hProcess { AutoCloseHandle(OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, pid)) };
+  if (hProcess.isInvalid()) { return ""; }
+  char processName[MAX_PATH] {'\0'};
+  DWORD size = sizeof(processName);
+  std::string name;
+  if (QueryFullProcessImageNameA(hProcess, 0, processName, &size)) {
+    name = processName;
+    // Extraire juste le nom du fichier
+    if (const auto lastSlash { name.find_last_of("\\/") }; lastSlash != std::string::npos) {
+      name = name.substr(lastSlash + 1);
+    }
+  }
+  return name;
+}
+
+class [[nodiscard]] ConsoleHider final {
+private:
+  bool isInConsole() {
+    const auto currentPid { GetCurrentProcessId() };
+    const auto parentPid { getParentProcessId(currentPid) };
+    return (parentPid == 0 or getProcessName(parentPid).find("explorer.exe") == std::string::npos);
+  }
+public:
+  bool m_isInConsole;
+  ConsoleHider() : m_isInConsole(isInConsole()) {
+    if (!m_isInConsole) { FreeConsole(); }
+  }
+};
+
 /*
  * Under Windows, graphical user interfaces use 'WinMain' as a default entry point.
+ * Note : main or WinMain functions can't be static or inline or [[nodiscard]]
  */
-#if defined(_WIN32)
-/*[[nodiscard]] static inline*/ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR,
-    _In_ INT) {
+int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
   const auto& argc { __argc };
   const auto& argv { __argv };
+  ConsoleHider console;
 #  else
-/*[[nodiscard]] static inline*/ int main(int argc, const char* const* const argv) {
+int main(int argc, const char* const* const argv) {
 #endif  // _WIN32
   std::setlocale(LC_ALL, "en_US.utf8");
   std::signal(SIGSEGV, logErrorAndAbort);
@@ -93,6 +156,7 @@ struct [[nodiscard]] LoggingConfig final {
   std::signal(SIGINT, logErrorAndAbort);
   LoggingConfig _;
   LOG.info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
+  LOG.info<"m_isInConsole={}">(console.m_isInConsole);
   auto nbErr { 0 };
 
   try {
@@ -118,7 +182,7 @@ struct [[nodiscard]] LoggingConfig final {
     nbErr = gui.run();
     LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
   } catch (const UserAskedForHelpException& e) {
-    LOG.info(e.what());
+    // if user asks for help, he passed -h in the command line
     std::print("{}\n", e.what());
   } catch (const PhudException& e) {
     LOG.error(e.what());

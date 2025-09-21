@@ -5,15 +5,15 @@
 
 #include <ranges> // std::views
 
-static constexpr auto VARIANT_MAPPER = makeEnumMapper<Variant, 4>({{
-  {Variant::holdem, "holdem"}, {Variant::omaha, "omaha"},
-  {Variant::omaha5, "omaha5"}, {Variant::none, "none"}
-}});
+static constexpr auto VARIANT_MAPPER = makeEnumMapper<Variant>(
+  std::pair{Variant::holdem, "holdem"}, std::pair{Variant::omaha, "omaha"},
+  std::pair{Variant::omaha5, "omaha5"}, std::pair{Variant::none, "none"}
+);
 
-static constexpr auto LIMIT_MAPPER = makeEnumMapper<Limit, 3>({{
-  {Limit::noLimit, "no-limit"}, {Limit::potLimit, "pot-limit"},
-  {Limit::none, "none"}
-}});
+static constexpr auto LIMIT_MAPPER = makeEnumMapper<Limit>(
+  std::pair{Limit::noLimit, "no-limit"}, std::pair{Limit::potLimit, "pot-limit"},
+  std::pair{Limit::none, "none"}
+);
 
 std::string_view toString(Variant variant) {
   return VARIANT_MAPPER.toString(variant);

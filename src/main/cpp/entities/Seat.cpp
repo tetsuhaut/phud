@@ -3,10 +3,13 @@
 #include "language/EnumMapper.hpp"
 #include "language/FieldValidators.hpp"
 
-static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat, 10>({{
-  {Seat::seatOne, "1"}, {Seat::seatTwo, "2"}, {Seat::seatThree, "3"}, {Seat::seatFour, "4"}, {Seat::seatFive, "5"},
-  {Seat::seatSix, "6"}, {Seat::seatSeven, "7"}, {Seat::seatEight, "8"}, {Seat::seatNine, "9"}, {Seat::seatTen, "10"}
-}});
+static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
+  std::pair{Seat::seatOne, "1"}, std::pair{Seat::seatTwo, "2"},
+  std::pair{Seat::seatThree, "3"}, std::pair{Seat::seatFour, "4"},
+  std::pair{Seat::seatFive, "5"}, std::pair{Seat::seatSix, "6"},
+  std::pair{Seat::seatSeven, "7"}, std::pair{Seat::seatEight, "8"},
+  std::pair{Seat::seatNine, "9"}, std::pair{Seat::seatTen, "10"}
+);
 
 /*[[nodiscard]]*/ Seat tableSeat::fromString(std::string_view seatStr) {
   validation::require(SEAT_MAPPER.isValid(seatStr), "bad seat string");
