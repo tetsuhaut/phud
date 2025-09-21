@@ -4,7 +4,6 @@
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
 
-#include <windows.h>
 #include <psapi.h>
 #include <gsl/gsl>
 
