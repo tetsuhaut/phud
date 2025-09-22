@@ -1,9 +1,10 @@
 #include "entities/Game.hpp" // CashGame, Tournament
 #include "entities/Site.hpp" // Site, Player
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 
-#include <algorithm> // std::transform
+#include <algorithm> // std::move, also needed for std::ranges::transform, std::ranges::for_each
 #include <iterator> // std::back_inserter
+#include <ranges> // std::ranges::transform, std::ranges::for_each
 
 Site::Site(std::string_view name)
   : m_name { name } { validation::requireNonEmpty(m_name, "name"); }
@@ -15,7 +16,7 @@ std::vector<const Player*> Site::viewPlayers() const {
 
   if (false == m_players.empty()) {
     ret.reserve(m_players.size());
-    std::transform(m_players.begin(), m_players.end(), std::back_inserter(ret),
+    std::ranges::transform(m_players, std::back_inserter(ret),
     [](const auto & entry) noexcept { return entry.second.get(); });
   }
 
@@ -44,7 +45,7 @@ template<typename T>
 static std::vector<const T*> view(const std::vector<std::unique_ptr<T>>& source) {
   std::vector<const T*> ret;
   ret.reserve(source.size());
-  std::transform(source.cbegin(), source.end(), std::back_inserter(ret), [](const auto & pointer) { return pointer.get(); });
+  std::ranges::transform(source, std::back_inserter(ret), [](const auto& pointer) { return pointer.get(); });
   return ret;
 }
 

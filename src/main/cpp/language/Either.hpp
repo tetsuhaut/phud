@@ -6,21 +6,21 @@ template <typename LEFT, typename RIGHT>
 class [[nodiscard]] Either final {
 private:
   template<typename T> struct [[nodiscard]] Left final {
-    Left(T v) : m_value(v) {}
+    constexpr Left(T v) : m_value(v) {}
     T m_value;
   };
 
   template<typename T> struct [[nodiscard]] Right final {
-    Right(T v) : m_value(v) {}
+    constexpr Right(T v) : m_value(v) {}
     T m_value;
   };
   std::optional<LEFT> m_left;
   std::optional<RIGHT> m_right;
-  explicit Either(Left<LEFT> l) : m_left { l.m_value }, m_right {} {}
-  explicit Either(Right<RIGHT> r) : m_left {}, m_right { r.m_value } {}
+  explicit constexpr Either(Left<LEFT> l) : m_left { l.m_value }, m_right {} {}
+  explicit constexpr Either(Right<RIGHT> r) : m_left {}, m_right { r.m_value } {}
 public:
-  [[nodiscard]] static Either<LEFT, RIGHT> left(LEFT arg) { return Either(Left(arg)); }
-  [[nodiscard]] static Either<LEFT, RIGHT> right(RIGHT arg) { return Either(Right(arg)); }
+  [[nodiscard]] static constexpr Either<LEFT, RIGHT> left(LEFT arg) { return Either(Left(arg)); }
+  [[nodiscard]] static constexpr Either<LEFT, RIGHT> right(RIGHT arg) { return Either(Right(arg)); }
   [[nodiscard]] constexpr bool isLeft() const noexcept { return m_left.has_value(); }
   [[nodiscard]] constexpr bool isRight() const noexcept { return m_right.has_value(); }
   [[nodiscard]] constexpr const LEFT& getLeft() const { return m_left.value();  }

@@ -1,7 +1,7 @@
 #include "TestInfrastructure.hpp" // LogDisabler, phud::test
 #include "entities/Game.hpp"
 #include "entities/Hand.hpp"
-#include "entities/Player.hpp"
+#include "entities/Seat.hpp"
 #include "entities/Site.hpp"
 #include "history/WinamaxGameHistory.hpp"
 #include "constants/ProgramInfos.hpp"

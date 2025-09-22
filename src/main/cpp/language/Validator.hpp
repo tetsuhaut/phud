@@ -1,7 +1,7 @@
 #pragma once
 
 #include <string_view>
-#include <spdlog/formatter.h> // fmt::format
+#include <spdlog/fmt/bundled/format.h> // fmt::format
 
 #ifndef NDEBUG
 void phudMacroAssert(const char* const expression, bool expressionReturnValue,
@@ -35,4 +35,4 @@ namespace validation {
   }
 
   void require(bool mustBeTrue, std::string_view errorMessage);
-}
+ } // namespace validation

@@ -1,5 +1,4 @@
 #include "constants/TableConstants.hpp"
-#include "entities/Player.hpp"
 #include "entities/Seat.hpp"
 #include "gui/Gui.hpp"  // std::unique_ptr, std::make_unique
 #include "gui/TableService.hpp"
@@ -9,18 +8,13 @@
 #include "gui/MainWindowLabel.hpp" // Label::
 #include "gui/PlayerIndicator.hpp" // DragAndDropWindow, Fl_Double_Window
 #include "gui/Position.hpp" // buildPlayerIndicatorPosition()
-#include "gui/WindowUtils.hpp"
 #include "gui/Preferences.hpp"
 #include "gui/TableWatcher.hpp"
-#include "language/Either.hpp" // ErrOrRes
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
-#include "strings/StringUtils.hpp"
 #include "filesystem/FileUtils.hpp"
-#include "threads/PeriodicTask.hpp"
 #include "threads/ThreadPool.hpp"
-#include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::finally
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
@@ -32,10 +26,8 @@
 #include <FL/Fl.H> // Fl::awake
 #include <FL/Fl_Box.H>
 #include <FL/Fl_Button.H>
-#include <FL/Fl_Group.H>
 #include <FL/Fl_Menu_Bar.H>
-#include <FL/Fl_Native_File_Chooser.H>
-#include <FL/Fl_Preferences.H>
+#include <FL/Fl_Native_File_Chooser.H> // Fl_Group
 #include <FL/Fl_Progress.H>
 #include <FL/Fl_Tabs.H>
 #include <FL/platform.H> // fl_xid
@@ -44,8 +36,6 @@
 #  pragma warning(pop)
 #endif  // _MSC_VER
 
-#include <windows.h> // RECT, GetWindowThreadProcessId, MAX_PATH, WindowFromPoint, GetWindowRect, GetWindowText, SetWindowPos
-#include <psapi.h>  // GetModuleFileNameEx
 #include <concepts> // requires
 #include <unordered_map>
 
@@ -98,7 +88,7 @@ concept VoidNullaryFunction = requires(F f) {
 template<VoidNullaryFunction TASK> static void scheduleUITask(TASK&& aTask) {
   using TaskType = std::decay_t<TASK>;
   Fl::awake([](void* hiddenTask) {
-    auto task { std::unique_ptr<TaskType>(static_cast<TaskType*>(hiddenTask)) };
+    const auto task { std::unique_ptr<TaskType>(static_cast<TaskType*>(hiddenTask)) };
     try {
       (*task)();
     }

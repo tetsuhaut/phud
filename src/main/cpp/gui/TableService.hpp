@@ -8,11 +8,8 @@
 
 // forward declarations
 class Database;
-class FileWatcher;
 class PokerSiteHistory;
 struct TableStatistics;
-
-namespace fs = std::filesystem;
 
 /**
  * Unified service for all table-related operations.
@@ -63,5 +60,5 @@ public:
    * Sets the history directory.
    * @param historyDir Path to history directory
    */
-  void setHistoryDir(const fs::path& historyDir);
+  void setHistoryDir(const std::filesystem::path& historyDir);
 };

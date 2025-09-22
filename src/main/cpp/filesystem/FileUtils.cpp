@@ -1,15 +1,14 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::string_view, std::vector
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 
-#include <gsl/gsl>
+#include <gsl/gsl> // std::streamsize
 
 #include <chrono> // to_time_t
 #include <cstring> // std::strerror, strerror_s
 #include <ctime> // localtime
 #include <fstream> // std::ifstream
 #include <iomanip> // std::get_time
-#include <system_error>
 
 static Logger LOG { CURRENT_FILE_NAME };
 
@@ -126,8 +125,7 @@ std::vector<fs::path> phud::filesystem::listRecursiveFiles(const fs::path& dir) 
 #if defined(_MSC_VER) // use localtime_s instead of std::localtime with _MSC_VER
   std::tm calendarDateTime { .tm_sec = 0, .tm_min = 0, .tm_hour = 0, .tm_mday = 0, .tm_mon = 0, .tm_year = 0, .tm_wday = 0, .tm_yday = 0, .tm_isdst = 0 };
 
-  if (const auto errorCode { localtime_s(&calendarDateTime, &posixTime) }; 0 !=
-      errorCode) [[unlikely]] {
+  if (const auto errorCode { localtime_s(&calendarDateTime, &posixTime) }; 0 != errorCode) [[unlikely]] {
     char msg[256] { 0 };
     strerror_s(msg, std::size(msg), errorCode);
     LOG.error(msg);

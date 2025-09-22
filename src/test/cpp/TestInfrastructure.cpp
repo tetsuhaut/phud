@@ -4,12 +4,8 @@
 #define BOOST_TEST_MODULE Unit Tests for the Poker Head-Up Dispay
 
 #include "TestInfrastructure.hpp" // boost::unit_test::*
-#include "db/Database.hpp"
-#include "entities/Game.hpp" // needed as Site declares incomplete CashGame type
-#include "entities/Player.hpp" // needed as Site declares incomplete Player type
-#include "entities/Site.hpp"
-#include "history/WinamaxHistory.hpp" // PokerSiteHistory
-#include "language/FieldValidators.hpp"
+#include "filesystem/FileUtils.hpp" // phud::filesystem
+#include "language/Validator.hpp"
 #include "log/Logger.hpp" // fmt::format(), LoggingLevel
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/ThreadPool.hpp"

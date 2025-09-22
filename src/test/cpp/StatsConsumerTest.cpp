@@ -2,6 +2,7 @@
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/StatsConsumer.hpp"
 #include "statistics/TableStatistics.hpp"
+#include "threads/ThreadSafeQueue.hpp"
 
 #include <condition_variable>
 #include <mutex> // std::unique_lock

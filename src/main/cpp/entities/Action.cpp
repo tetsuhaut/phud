@@ -1,6 +1,6 @@
 #include "entities/Action.hpp" // ActionType, std::string
 #include "language/EnumMapper.hpp"
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 
 static constexpr auto ACTION_TYPE_MAPPER = makeEnumMapper<ActionType>(
   std::pair{ActionType::bet, "bet"}, std::pair{ActionType::call, "call"},

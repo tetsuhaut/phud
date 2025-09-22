@@ -1,5 +1,3 @@
-#include "entities/Game.hpp" // // needed as Site declares incomplete CashGame type
-#include "entities/Player.hpp" // needed as Site declares incomplete Player type
 #include "entities/Site.hpp"
 #include "history/PmuHistory.hpp" // PokerSiteHistory
 #include "history/WinamaxHistory.hpp"

@@ -2,11 +2,10 @@
 #include "strings/StringUtils.hpp" // std::string_view
 #include <gsl/gsl>
 
-#include <cctype> // std::isspace
 #include <charconv> // std::from_chars
 #include <type_traits> // std::is_arithmetic_v, std::is_same_v
 #include <stdexcept> // std::invalid_argument
-#include <spdlog/formatter.h> // fmt::format
+#include <spdlog/fmt/bundled/format.h> // fmt::format
 
 static Logger LOG { CURRENT_FILE_NAME };
 

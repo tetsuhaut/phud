@@ -10,10 +10,11 @@
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/PlayerCache.hpp"
 
+static Logger LOG { CURRENT_FILE_NAME };
+
 namespace fs = std::filesystem;
 namespace ps = phud::strings;
 
-static Logger LOG { CURRENT_FILE_NAME };
 
 template <typename GAME_TYPE> requires(std::is_same_v<GAME_TYPE, CashGame>
                                        or std::is_same_v<GAME_TYPE, Tournament>)

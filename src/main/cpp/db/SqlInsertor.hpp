@@ -1,13 +1,12 @@
 #pragma once
 
-#include "entities/Seat.hpp"
-
 #include <string>
 #include <string_view>
 
 enum class ActionType : short;
 enum class Card : short;
 enum class Limit : short;
+enum class Seat : short;
 enum class Street : short;
 enum class Variant : short;
 

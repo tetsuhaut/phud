@@ -6,7 +6,7 @@
 #include "strings/StringUtils.hpp" // phud::strings::*
 
 #include <gsl/gsl>
-#include <spdlog/formatter.h> // fmt::format
+#include <spdlog/fmt/bundled/format.h> // fmt::format
 
 #include <array>
 

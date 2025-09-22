@@ -1,7 +1,6 @@
 #include "TestInfrastructure.hpp"
 #include "db/Database.hpp"
 #include "gui/TableService.hpp"
-#include "statistics/PlayerStatistics.hpp"
 
 namespace pt = phud::test;
 

@@ -1,14 +1,13 @@
 #include "TestInfrastructure.hpp"
 #include "TimeBomb.hpp" // std::chrono::*
 #include "db/Database.hpp"
-#include "entities/Game.hpp"
-#include "entities/Player.hpp"
 #include "entities/Site.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "constants/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/StatsProducer.hpp"
 #include "statistics/TableStatistics.hpp"
+#include "threads/ThreadSafeQueue.hpp"
 
 namespace pt = phud::test;
 

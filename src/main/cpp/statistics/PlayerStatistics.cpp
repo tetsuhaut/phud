@@ -10,11 +10,6 @@ m_preflopRaise { p.pfr } {}
 
 PlayerStatistics::~PlayerStatistics() = default;
 
-std::string PlayerStatistics::getPlayerName() const noexcept { return m_playerName; }
-
-std::string PlayerStatistics::getSiteName() const noexcept { return m_siteName; }
-
-bool PlayerStatistics::isHero() const noexcept { return m_isHero; }
 
 //PlayerStatistics::PlayerStatistics(PlayerStatistics&& p) :
 //  m_nbHands{ p.m_nbHands },

@@ -1,7 +1,8 @@
 #include "entities/Game.hpp" // Game, std::string
 #include "entities/Hand.hpp"
+#include "entities/Seat.hpp"
 #include "language/EnumMapper.hpp"
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 
 #include <ranges> // std::views
 
@@ -44,8 +45,8 @@ Game::~Game() = default; // needed because Game owns private std::unique_ptr mem
 void Game::addHand(std::unique_ptr<Hand> hand) { m_hands.push_back(std::move(hand)); }
 
 std::vector<const Hand*> Game::viewHands() const {
-  auto hands_view = m_hands | std::views::transform([](const auto& pHand) { return pHand.get(); });
-  return { hands_view.begin(), hands_view.end() };
+  const auto handsView { m_hands | std::views::transform([](const auto& pHand) { return pHand.get(); }) };
+  return { handsView.begin(), handsView.end() };
 }
 
 std::vector<const Hand*> Game::viewHands(std::string_view player) const {

@@ -1,11 +1,10 @@
-#include "db/Database.hpp" // DatabaseException
 #include "db/SqlInsertor.hpp" // phud::strings
 #include "entities/Action.hpp"
 #include "entities/Card.hpp"
 #include "entities/Game.hpp" // Limit, Variant
-#include "language/FieldValidators.hpp"
+#include "entities/Seat.hpp" // tableSeat
+#include "language/Validator.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
-#include <spdlog/formatter.h> // fmt::format()
 
 namespace ps = phud::strings;
 

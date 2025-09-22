@@ -1,12 +1,11 @@
-#include "gui/HistoryService.hpp"
-
 #include "db/Database.hpp"
 #include "entities/Site.hpp"
+#include "gui/HistoryService.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp"
 #include "threads/ThreadPool.hpp" // Future
 
-#include <stlab/concurrency/utility.hpp>
+#include <stlab/concurrency/utility.hpp> // stlab::await
 
 namespace fs = std::filesystem;
 

@@ -3,26 +3,23 @@
 #include "db/SqlInsertor.hpp"  // Game
 #include "db/SqlSelector.hpp"
 #include "db/sqliteQueries.hpp" // all the SQL queries
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 #include "entities/Action.hpp"
 #include "entities/Game.hpp" // Cashgame, Limit, Time, Tournament, Variant
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp"  // std::array
-#include "entities/Player.hpp"  // Player
 #include "entities/Site.hpp"  // Site
 #include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "log/Logger.hpp" // fmt::format(), CURRENT_FILE_NAME
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp"  // ThreadPool, Future
-#include "entities/Card.hpp" // Card, String
 #include <frozen/unordered_map.h>
 #include <gsl/gsl> // gsl::not_null
 #include <sqlite3.h>  // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await
 
 #include <mutex>
-#include <ranges>
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
 // free the char* returned by sqlite3_errmsg().
@@ -221,7 +218,7 @@ static inline void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) 
   saveHands(db, gameId, hands);
   std::ranges::for_each(hands, [db](const auto & h) {
     LOG.trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
-    auto av { h->viewActions() };
+    const auto av { h->viewActions() };
     saveActions(db, av);
   });
 }

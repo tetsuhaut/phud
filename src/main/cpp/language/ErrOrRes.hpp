@@ -14,18 +14,18 @@ private:
   /**
    * builds an result.
    */
-  explicit ErrOrRes(RESULT r) : m_err {}, m_res { r } {}
+  explicit constexpr ErrOrRes(RESULT r) : m_err {}, m_res { r } {}
   /**
    * builds an error message. we use std::in_place_t to disambiguate in case
    * RESULT is constructible from std::string_view
    */
-  ErrOrRes(std::in_place_t, std::string_view s) : m_err { s }, m_res {} {}
+  constexpr ErrOrRes(std::in_place_t, std::string_view s) : m_err { s }, m_res {} {}
 
 public:
   template<StringLiteral ERR_MSG>
-  [[nodiscard]] static ErrOrRes<RESULT> err() { return ErrOrRes(std::in_place, ERR_MSG.value); }
-  [[nodiscard]] static ErrOrRes<RESULT> err(std::string_view s) { return ErrOrRes(std::in_place, s); }
-  [[nodiscard]] static ErrOrRes<RESULT> res(RESULT arg) { return ErrOrRes(arg); }
+  [[nodiscard]] static constexpr ErrOrRes<RESULT> err() { return ErrOrRes(std::in_place, ERR_MSG.value); }
+  [[nodiscard]] static constexpr ErrOrRes<RESULT> err(std::string_view s) { return ErrOrRes(std::in_place, s); }
+  [[nodiscard]] static constexpr ErrOrRes<RESULT> res(RESULT arg) { return ErrOrRes(arg); }
   [[nodiscard]] constexpr bool isErr() const noexcept { return m_err.has_value(); }
   [[nodiscard]] constexpr bool isRes() const noexcept { return m_res.has_value(); }
   [[nodiscard]] constexpr std::string getErr() const { return m_err.value(); }

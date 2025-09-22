@@ -1,10 +1,12 @@
 #pragma once
 
 #include "language/PhudException.hpp"
-#include "log/LoggingLevel.hpp"
 
 #include <filesystem>
 #include <optional>
+
+// forward declaration
+enum class LoggingLevel : short;
 
 /**
  * @brief Configuration reader for PHUD settings

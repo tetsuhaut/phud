@@ -8,6 +8,9 @@ project(Poker_Head-Up_Display
 # uncomment in case we want to know where CMake is looking for packages
 #set(CMAKE_FIND_DEBUG_MODE 1)
 
+# to generate a file 'compile_commands.json' to be used by include-what-you-use
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 # building in-tree is not allowed
 if(CMAKE_SOURCE_DIR STREQUAL CMAKE_BINARY_DIR)
   message(FATAL_ERROR "Prevented in-tree built. Remove CMakeCache.txt, the CMakeFiles directory and create a build directory outside of the source code and call cmake from there.")

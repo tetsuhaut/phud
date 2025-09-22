@@ -1,14 +1,11 @@
 #include "TestInfrastructure.hpp"
 #include "db/Database.hpp"
-#include "db/sqliteQueries.hpp"
 #include "entities/Game.hpp"
-#include "entities/Hand.hpp"
 #include "entities/Player.hpp"
 #include "entities/Site.hpp"
+#include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "history/PokerSiteHistory.hpp"
 #include "constants/ProgramInfos.hpp"
-#include "statistics/PlayerStatistics.hpp"
-#include "statistics/TableStatistics.hpp"
 
 #include <gsl/gsl> // gsl::finally
 
@@ -88,7 +85,7 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_createNamedDatabaseWhenFileAlreadyExistsShould
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_createNamedDatabaseWhenFileDoesNotExistsCreatesFile) {
   const fs::path dbFile { "someName" };
-  auto _ { gsl::finally([&]{ if (pf::isFile(dbFile)) { fs::remove(dbFile); } }) };
+  const auto _ { gsl::finally([&]{ if (pf::isFile(dbFile)) { fs::remove(dbFile); } }) };
 
   if (pf::isFile(dbFile)) { fs::remove(dbFile); }
 

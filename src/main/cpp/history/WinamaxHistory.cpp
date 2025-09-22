@@ -1,15 +1,10 @@
-#include "entities/Action.hpp"      // Action, ActionType
-#include "entities/Card.hpp"        // Card, toCard
-#include "entities/Game.hpp"        // Game
-#include "entities/Player.hpp"      // Player
+#include "constants/ProgramInfos.hpp"
 #include "entities/Site.hpp"        // Site
 #include "filesystem/FileUtils.hpp" // phud::filesystem::*
 #include "history/WinamaxGameHistory.hpp" // parseGameHistory
 #include "history/WinamaxHistory.hpp" // WinamaxHistory, std::filesystem::path, fs::*, Global::*, std::string, phud::strings
 #include "language/Either.hpp"
-#include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "constants/ProgramInfos.hpp"
 #include "strings/StringUtils.hpp" // concatLiteral
 #include "threads/ThreadPool.hpp" // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await

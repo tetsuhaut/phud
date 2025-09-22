@@ -23,4 +23,4 @@ std::pair<std::optional<std::filesystem::path>, LoggingLevel> ProgramConfigurati
   const auto histoDirStr { oHistoryDir.has_value() ? oHistoryDir.value().string() : "<none>" };
   LOG.info<"phud configuration:\n  loggingLevel={}\n  historyDirectory={}">(toString(loggingLevel), histoDirStr);
   return {oHistoryDir, loggingLevel};
-}
+} // anonymous namespace

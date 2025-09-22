@@ -7,7 +7,7 @@
 #include "history/PmuHandBuilder.hpp"
 #include "history/PokerSiteHandBuilder.hpp" // ProgramInfos
 #include "filesystem/TextFile.hpp"
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "constants/ProgramInfos.hpp"

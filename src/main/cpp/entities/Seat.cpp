@@ -1,7 +1,7 @@
 #include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
 #include "language/EnumMapper.hpp"
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 
 static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
   std::pair{Seat::seatOne, "1"}, std::pair{Seat::seatTwo, "2"},
@@ -21,10 +21,6 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
   return static_cast<Seat>(i);
 }
 
-/*[[nodiscard]]*/ std::size_t tableSeat::toArrayIndex(Seat seat) {
-  return static_cast<std::size_t>(seat);
-}
-
 /*[[nodiscard]]*/ std::string_view tableSeat::toString(Seat seat) {
   return SEAT_MAPPER.toString(seat);
 }
@@ -32,8 +28,4 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
 /*[[nodiscard]]*/ Seat tableSeat::fromInt(int i) {
   validation::require(0 < i and TableConstants::MAX_SEAT_NUMBER >= i, "Can't find a seat for that value");
   return static_cast<Seat>(i - 1);
-}
-
-/*[[nodiscard]]*/ int tableSeat::toInt(Seat seat) {
-  return static_cast<int>(seat) + 1;
 }

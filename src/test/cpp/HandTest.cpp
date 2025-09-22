@@ -1,15 +1,16 @@
 #include "TestInfrastructure.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "entities/Action.hpp" // ActionType, Street
 #include "entities/Card.hpp"
+#include "entities/Game.hpp"
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp" // Time
-#include "entities/Player.hpp" // needed as Site declares incomplete Player type
 #include "entities/Site.hpp"
+#include "entities/Seat.hpp"
 #include "filesystem/TextFile.hpp"
-#include "history/GameData.hpp" // std::string, std::string_view, Time, Variant, Limit
 #include "history/WinamaxHandBuilder.hpp" // toAmount, toBuyIn
 #include "history/WinamaxGameHistory.hpp"
-#include "constants/ProgramInfos.hpp"
+#include "strings/StringUtils.hpp" // phud::strings
 #include "threads/PlayerCache.hpp"
 
 #include <thirdParties/utfcpp/utf8.h> // utf8::utf16to8

@@ -1,11 +1,10 @@
 #pragma once
 
-#include "entities/Seat.hpp"
-
 #include <utility> // std::pair
 
 // foward declaration
 namespace phud { struct Rectangle; }
+enum class Seat : short;
 
 /**
 * Builds absolute seat position.

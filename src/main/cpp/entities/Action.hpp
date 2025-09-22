@@ -42,12 +42,12 @@ public:
   Action& operator=(const Action&) = delete;
   Action& operator=(Action&&) = delete;
   ~Action();
-  [[nodiscard]] Street getStreet() const noexcept { return m_street; }
-  [[nodiscard]] std::string getHandId() const noexcept { return m_handId; }
-  [[nodiscard]] std::string getPlayerName() const noexcept { return m_playerName; }
-  [[nodiscard]] ActionType getType() const noexcept { return m_type; }
-  [[nodiscard]] std::size_t getIndex() const noexcept { return m_index; }
-  [[nodiscard]] double getBetAmount() const noexcept { return m_betAmount; }
+  [[nodiscard]] constexpr Street getStreet() const noexcept { return m_street; }
+  [[nodiscard]] constexpr const std::string& getHandId() const noexcept { return m_handId; }
+  [[nodiscard]] constexpr const std::string& getPlayerName() const noexcept { return m_playerName; }
+  [[nodiscard]] constexpr ActionType getType() const noexcept { return m_type; }
+  [[nodiscard]] constexpr std::size_t getIndex() const noexcept { return m_index; }
+  [[nodiscard]] constexpr double getBetAmount() const noexcept { return m_betAmount; }
 }; // class Action
 
 // exported methods

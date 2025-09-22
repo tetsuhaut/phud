@@ -3,6 +3,7 @@
 #include "statistics/PlayerStatistics.hpp" // required by TableStatistics
 #include "statistics/TableStatistics.hpp"
 #include "threads/PeriodicTask.hpp"
+#include "threads/ThreadSafeQueue.hpp"
 
 static Logger LOG { CURRENT_FILE_NAME };
 

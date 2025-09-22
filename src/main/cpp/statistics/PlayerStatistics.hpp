@@ -66,9 +66,9 @@ public:
   PlayerStatistics& operator=(const PlayerStatistics&) = delete;
   PlayerStatistics& operator=(PlayerStatistics&&) = delete;
   ~PlayerStatistics();
-  [[nodiscard]] std::string getSiteName() const noexcept;
-  [[nodiscard]] std::string getPlayerName() const noexcept;
-  [[nodiscard]] bool isHero() const noexcept;
+  [[nodiscard]] constexpr const std::string& getSiteName() const noexcept { return m_siteName; }
+  [[nodiscard]] constexpr const std::string& getPlayerName() const noexcept { return m_playerName; }
+  [[nodiscard]] constexpr bool isHero() const noexcept { return m_isHero; }
   [[nodiscard]] constexpr int getNbHands() const noexcept { return m_nbHands; }
 
   /** @return The percentage of hands the player puts money into the pot preflop, without counting

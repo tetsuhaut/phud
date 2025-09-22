@@ -1,12 +1,9 @@
 #include "gui/TableWatcher.hpp"
 #include "gui/WindowUtils.hpp"
-#include "language/FieldValidators.hpp"
+#include "language/Validator.hpp"
 #include "log/Logger.hpp"
-#include "statistics/PlayerStatistics.hpp"
 #include "threads/PeriodicTask.hpp"
 
-#include <algorithm>
-#include <chrono>
 #include <ranges>
 #include <vector>
 
@@ -15,7 +12,7 @@ static Logger LOG { CURRENT_FILE_NAME };
 namespace {
   constexpr std::chrono::milliseconds WATCH_INTERVAL { 3000 }; // 3 seconds
   constexpr std::string_view WINAMAX_TABLE_PATTERN { "Winamax" };
-}
+} // anonymous namespace
 
 struct [[nodiscard]] TableWatcher::Implementation final {
   TablesChangedCallback m_onTablesChangedCb;

@@ -1,4 +1,5 @@
 #include "TimeBomb.hpp"
+#include "strings/StringUtils.hpp"
 #include "threads/PeriodicTask.hpp"
 
 #include <print>

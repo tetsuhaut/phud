@@ -1,4 +1,5 @@
 #include "TestInfrastructure.hpp"
+#include "entities/Seat.hpp"
 #include "gui/Rectangle.hpp"
 #include "gui/Position.hpp"
 

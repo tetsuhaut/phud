@@ -9,29 +9,16 @@
 #include "constants/ProgramInfos.hpp"
 #include "phud/ProgramConfiguration.hpp"
 #include "phud/ProgramArguments.hpp"  // ProgramArgumentsException, UserAskedForHelpException
-#include "statistics/PlayerStatistics.hpp"
-#include "statistics/TableStatistics.hpp"
 
-#if defined(__MINGW32__) // removal of specific gcc warnings due to Boost
-#  pragma GCC diagnostic push
-#  pragma GCC diagnostic ignored "-Wold-style-cast"
-#  pragma GCC diagnostic ignored "-Weffc++"
-#endif  // __MINGW32__
-
-#include <boost/stacktrace.hpp> // as std::stacktrace does not work with gcc 15.2 on Windows
-
-#if defined(__MINGW32__) // end of specific gcc warnings removal
-#  pragma GCC diagnostic pop
-#endif  // _MSC_VER
+#if defined(_WIN32)
+#  include <windows.h> // WinMain. must be included before tlhelp32.h
+#endif  // _WIN32
 
 #include <csignal> // std::signal(), SIG_DFL, SIGABRT
 #include <iostream>
 #include <print>
 #include <sstream> // std::ostringstream
 
-#if defined(_WIN32)
-#  include <windows.h> // WinMain. must be included before tlhelp32.h
-#endif  // _WIN32
 
 // TODO: aligner les champs des classes en mémoire (padding)
 // TODO: inclure le siteName dans les id

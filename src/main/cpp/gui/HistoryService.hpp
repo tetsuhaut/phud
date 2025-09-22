@@ -1,15 +1,12 @@
 #pragma once
 
-#include <filesystem>
-#include <functional>
-#include <memory>
-#include <string>
+#include <filesystem> // std::filesystem::path
+#include <functional> // std::function
+#include <memory> // std::shared_ptr
 
 // forward declarations
 class Database;
 class PokerSiteHistory;
-
-namespace fs = std::filesystem;
 
 /**
  * Unified service for all history-related operations.
@@ -34,7 +31,7 @@ public:
    * @param dir Directory path to validate
    * @return True if directory contains valid history files
    */
-  [[nodiscard]] virtual bool isValidHistory(const fs::path& dir);
+  [[nodiscard]] virtual bool isValidHistory(const std::filesystem::path& dir);
   
   /**
    * Imports history from the given directory.
@@ -43,7 +40,7 @@ public:
    * @param onSetNbFiles Callback called when total file count is known
    * @param onDone Callback called when import is complete
    */
-  virtual void importHistory(const fs::path& dir, 
+  virtual void importHistory(const std::filesystem::path& dir, 
                              std::function<void()> onProgress,
                              std::function<void(std::size_t)> onSetNbFiles,
                              std::function<void()> onDone);
@@ -57,7 +54,7 @@ public:
    * Sets the current history directory.
    * @param dir History directory path
    */
-  virtual void setHistoryDir(const fs::path& dir);
+  virtual void setHistoryDir(const std::filesystem::path& dir);
 
   /**
    * Gets the poker site history instance.

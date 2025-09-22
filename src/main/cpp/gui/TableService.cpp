@@ -1,12 +1,11 @@
-#include "gui/TableService.hpp"
-
+#include "constants/ProgramInfos.hpp"
 #include "db/Database.hpp"
 #include "entities/Seat.hpp"
 #include "entities/Site.hpp"
 #include "filesystem/FileWatcher.hpp"
+#include "gui/TableService.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp"
-#include "constants/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp" // Future

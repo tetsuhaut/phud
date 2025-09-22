@@ -1,7 +1,5 @@
 #pragma once
 
-#include "filesystem/FileUtils.hpp"  // std::filesystem::path, fs::*, std::string
-
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
 #  pragma warning(disable : 4619 26495)
@@ -12,6 +10,8 @@
 #if defined(_MSC_VER)  // end of specific msvc warnings removal
 #  pragma warning(pop)
 #endif  // _MSC_VER
+
+#include <filesystem> // std::filesystem::path
 
 /* forward declaration */
 enum class LoggingLevel : short;

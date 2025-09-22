@@ -1,18 +1,17 @@
 #pragma once
 
+#include "entities/Player.hpp" // used in a std::unordered_map so must be a complete type
 #include <memory> // std::unique_ptr
 #include <string>
 #include <string_view>
 #include <unordered_map>
 #include <vector>
 
-#include "entities/Player.hpp" // used in a std::unordered_map so must be a complete type
-
 class CashGame;
 class Tournament;
 
 /**
- * A Poker site, i.e. a bunch of hands played on different games, that enables us to build
+ * A Poker site, i.e. a bunch of hands played on different games. This entity is required to build
  * statistics on encountered players behavior.
  */
 class [[nodiscard]] Site final {
@@ -34,7 +33,7 @@ public:
   [[nodiscard]] std::vector<const CashGame*> viewCashGames() const;
   void addGame(std::unique_ptr<Tournament> t);
   [[nodiscard]] std::vector<const Tournament*> viewTournaments() const;
-  [[nodiscard]] constexpr std::string getName() const noexcept { return m_name; }
+  [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_name; }
   [[nodiscard]] std::vector<const Player*> viewPlayers() const;
   [[nodiscard]] const Player* viewPlayer(std::string_view name) const {
     const auto& p { m_players.find(std::string(name)) };

@@ -1,5 +1,4 @@
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "strings/StringUtils.hpp" // std::string
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadPool.hpp" // Future, std::atomic_bool
 

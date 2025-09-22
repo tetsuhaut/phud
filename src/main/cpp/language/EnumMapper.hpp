@@ -16,15 +16,13 @@ public:
     constexpr EnumMapper(std::array<EnumToString, N> pairs) : m_enumToStringList(pairs) {}
 
     [[nodiscard]] constexpr std::string_view toString(EnumType e) const {
-        auto it = std::ranges::find_if(m_enumToStringList, [e](const auto& p) { return p.first == e; });
-        return it != m_enumToStringList.end() ? it->second : "";
+        const auto it { std::ranges::find_if(m_enumToStringList, [e](const auto& p) { return p.first == e; }) };
+        return (it != m_enumToStringList.end()) ? it->second : throw std::invalid_argument("Invalid enum type value");
     }
 
     [[nodiscard]] constexpr EnumType fromString(std::string_view s) const {
-        if (auto it = std::ranges::find_if(m_enumToStringList, [s](const auto& p) { return p.second == s; }); it != m_enumToStringList.end()) {
-          return it->first;
-        }
-        throw std::invalid_argument("Invalid enum string value");
+      const auto it { std::ranges::find_if(m_enumToStringList, [s](const auto& p) { return p.second == s; }) };
+      return (it != m_enumToStringList.end()) ? it->first : throw std::invalid_argument("Invalid enum string value"); 
     }
 
     [[nodiscard]] constexpr bool isValid(std::string_view s) const {

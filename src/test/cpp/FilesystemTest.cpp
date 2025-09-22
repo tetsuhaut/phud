@@ -1,4 +1,5 @@
 #include "TestInfrastructure.hpp" // BOOST_* macros, phud::test::*
+#include "filesystem/FileUtils.hpp"
 #include "filesystem/TextFile.hpp"
 
 namespace pt = phud::test;

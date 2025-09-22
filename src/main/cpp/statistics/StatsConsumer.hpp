@@ -1,11 +1,12 @@
 #pragma once
 
-#include "threads/ThreadSafeQueue.hpp" // std::unique_ptr
-
 #include <chrono>
 #include <functional> // std::function
+#include <memory> // std::unique_ptr
 
+// forward declarations
 struct TableStatistics;
+template <typename T> class ThreadSafeQueue;
 
 class [[nodiscard]] StatsConsumer final {
 private:

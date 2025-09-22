@@ -1,5 +1,6 @@
 #include "entities/Card.hpp" // Card, std::string_view
-#include "language/EnumMapper.hpp"
+#include "language/EnumMapper.hpp" // makeEnumMapper, std::pair
+
 
 static constexpr auto CARD_MAPPER = makeEnumMapper<Card>(
   std::pair{Card::none, "none"}, std::pair{Card::twoSpade, "2s"}, std::pair{Card::threeSpade, "3s"},

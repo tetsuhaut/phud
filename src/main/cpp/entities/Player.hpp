@@ -26,10 +26,10 @@ public:
   Player& operator=(const Player&) = delete;
   Player& operator=(Player&&) = delete;
   ~Player();
-  [[nodiscard]] constexpr std::string getName() const noexcept { return m_name; }
-  [[nodiscard]] constexpr std::string getPlayerName() const noexcept { return m_name; }
-  [[nodiscard]] constexpr std::string getSiteName() const noexcept { return m_site; }
-  [[nodiscard]] constexpr std::string getComments() const noexcept { return m_comments; }
+  [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_name; }
+  [[nodiscard]] constexpr const std::string& getPlayerName() const noexcept { return m_name; }
+  [[nodiscard]] constexpr const std::string& getSiteName() const noexcept { return m_site; }
+  [[nodiscard]] constexpr const std::string& getComments() const noexcept { return m_comments; }
   [[nodiscard]] constexpr bool isHero() const noexcept { return m_isHero; }
   constexpr void setIsHero(bool isHero) noexcept { m_isHero = isHero; }
 }; // class Player

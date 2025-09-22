@@ -1,7 +1,6 @@
 #pragma once
 
 #include "constants/TableConstants.hpp"
-#include "entities/Seat.hpp"
 #include "system/Time.hpp" // Time, std::unique_ptr, std::string, std::string_view
 
 #include <array>
@@ -11,6 +10,7 @@
 class Action;
 enum class Card : short;
 enum class GameType : short;
+enum class Seat : short;
 
 class [[nodiscard]] Hand final {
 private:
@@ -54,26 +54,26 @@ public:
   Hand& operator=(Hand&&) = delete;
   ~Hand();
   [[nodiscard]] std::vector<const Action*> viewActions() const;
-  [[nodiscard]] std::string getId() const noexcept { return m_id; }
-  [[nodiscard]] GameType getGameType() const noexcept { return m_gameType; }
-  [[nodiscard]] std::string getSiteName() const noexcept { return m_siteName; }
-  [[nodiscard]] std::string getTableName() const noexcept { return m_tableName; }
-  [[nodiscard]] std::array<std::string, TableConstants::MAX_SEATS> getSeats() const noexcept { return m_seats; }
-  [[nodiscard]] Seat getButtonSeat() const noexcept { return m_buttonSeat; }
-  [[nodiscard]] Seat getMaxSeats() const noexcept { return m_maxSeats; }
-  [[nodiscard]] int getLevel()const noexcept { return m_level; }
-  [[nodiscard]] long getAnte() const noexcept { return m_ante; }
-  [[nodiscard]] Time getStartDate() const noexcept { return m_date; }
+  [[nodiscard]] constexpr const std::string& getId() const noexcept { return m_id; }
+  [[nodiscard]] constexpr GameType getGameType() const noexcept { return m_gameType; }
+  [[nodiscard]] constexpr const std::string& getSiteName() const noexcept { return m_siteName; }
+  [[nodiscard]] constexpr const std::string& getTableName() const noexcept { return m_tableName; }
+  [[nodiscard]] constexpr const std::array<std::string, TableConstants::MAX_SEATS>& getSeats() const noexcept { return m_seats; }
+  [[nodiscard]] constexpr Seat getButtonSeat() const noexcept { return m_buttonSeat; }
+  [[nodiscard]] constexpr Seat getMaxSeats() const noexcept { return m_maxSeats; }
+  [[nodiscard]] constexpr int getLevel()const noexcept { return m_level; }
+  [[nodiscard]] constexpr long getAnte() const noexcept { return m_ante; }
+  [[nodiscard]] constexpr Time getStartDate() const noexcept { return m_date; }
   [[nodiscard]] bool isPlayerInvolved(std::string_view name) const;
-  [[nodiscard]] Card getHeroCard1() const { return m_heroCards.at(0); }
-  [[nodiscard]] Card getHeroCard2() const { return m_heroCards.at(1); }
-  [[nodiscard]] Card getHeroCard3() const { return m_heroCards.at(2); }
-  [[nodiscard]] Card getHeroCard4() const { return m_heroCards.at(3); }
-  [[nodiscard]] Card getHeroCard5() const { return m_heroCards.at(4); }
-  [[nodiscard]] Card getBoardCard1() const { return m_boardCards.at(0); }
-  [[nodiscard]] Card getBoardCard2() const { return m_boardCards.at(1); }
-  [[nodiscard]] Card getBoardCard3() const { return m_boardCards.at(2); }
-  [[nodiscard]] Card getBoardCard4() const { return m_boardCards.at(3); }
-  [[nodiscard]] Card getBoardCard5() const { return m_boardCards.at(4); }
+  [[nodiscard]] constexpr Card getHeroCard1() const { return m_heroCards.at(0); }
+  [[nodiscard]] constexpr Card getHeroCard2() const { return m_heroCards.at(1); }
+  [[nodiscard]] constexpr Card getHeroCard3() const { return m_heroCards.at(2); }
+  [[nodiscard]] constexpr Card getHeroCard4() const { return m_heroCards.at(3); }
+  [[nodiscard]] constexpr Card getHeroCard5() const { return m_heroCards.at(4); }
+  [[nodiscard]] constexpr Card getBoardCard1() const { return m_boardCards.at(0); }
+  [[nodiscard]] constexpr Card getBoardCard2() const { return m_boardCards.at(1); }
+  [[nodiscard]] constexpr Card getBoardCard3() const { return m_boardCards.at(2); }
+  [[nodiscard]] constexpr Card getBoardCard4() const { return m_boardCards.at(3); }
+  [[nodiscard]] constexpr Card getBoardCard5() const { return m_boardCards.at(4); }
   [[nodiscard]] bool isWinner(std::string_view playerName) const noexcept;
 }; // class Hand

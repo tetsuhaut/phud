@@ -1,9 +1,10 @@
 #include "system/Time.hpp"
-#include <spdlog/formatter.h> // fmt::format
+#include <spdlog/fmt/bundled/format.h> // fmt::format
 
 #include <ctime> // std::tm
-#include <iomanip>      // std::get_time
-#include <sstream>     // std::istringstream, std::ostringstream
+#include <iomanip> // std::get_time
+#include <sstream> // std::istringstream, std::ostringstream
+#include <utility> // std::exchange
 
 [[nodiscard]] static inline std::tm toTm(const Time::Args& args) {
   std::tm when {.tm_sec = 0, .tm_min = 0, .tm_hour = 0, .tm_mday = 0, .tm_mon = 0, .tm_year = 0, .tm_wday = 0, .tm_yday = 0, .tm_isdst = 0 };

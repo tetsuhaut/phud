@@ -1,10 +1,9 @@
 #include "TestInfrastructure.hpp"  // TmpFile, std::string_view, LogDisabler
-#include "db/Database.hpp"
 #include "entities/Action.hpp" // ActionType, Street
 #include "entities/Game.hpp" // CashGame, Tournament
 #include "entities/Hand.hpp"
-#include "entities/Player.hpp"
 #include "entities/Site.hpp"
+#include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "history/WinamaxHistory.hpp"  // PokerSiteHistory, fs::*, std::*, buildTournament, buildCashGame
 #include <unordered_set>
 

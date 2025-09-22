@@ -1,5 +1,6 @@
 #include "TestInfrastructure.hpp" // std::string_view
 #include "db/SqlInsertor.hpp"
+#include "entities/Seat.hpp"
 
 BOOST_AUTO_TEST_SUITE(SqlInsertorTest)
 

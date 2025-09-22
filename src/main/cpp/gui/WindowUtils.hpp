@@ -1,6 +1,5 @@
 #pragma once
 
-#include "gui/TableService.hpp"
 #include "gui/Rectangle.hpp"
 #include "language/ErrOrRes.hpp"
 
@@ -10,6 +9,9 @@
 #include <string>
 #include <string_view>
 #include <utility> // std::pair
+
+// forward declaration
+class TableService;
 
 using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>>;
 

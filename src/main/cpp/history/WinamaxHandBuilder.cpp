@@ -1,16 +1,15 @@
+#include "constants/ProgramInfos.hpp"
 #include "entities/Action.hpp" // ps::toAmount
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp" // Time
-#include "entities/Player.hpp"
 #include "entities/Seat.hpp"
 #include "filesystem/TextFile.hpp"
 #include "history/GameData.hpp"
 #include "history/PokerSiteHandBuilder.hpp" // split, parseSeats
 #include "history/WinamaxHandBuilder.hpp" // Pair
-#include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "constants/ProgramInfos.hpp"
+#include "strings/StringUtils.hpp" // phud::strings
 #include "threads/PlayerCache.hpp"
 
 #include <optional>
@@ -359,7 +358,14 @@ std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   const auto& [smallBlind, bigBlind, date, handId] { getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(tf.getLine()) };
   auto pHand { getHand<GameType::cashGame>(tf, pc, 0, date, handId) };
-  return { std::move(pHand), std::make_unique<GameData>(GameData::Args{.nbMaxSeats = pHand->getMaxSeats(), .smallBlind = smallBlind, .bigBlind = bigBlind, .buyIn = 0, .startDate = pHand->getStartDate() }) };
+  return { std::move(pHand), std::make_unique<GameData>(GameData::Args {
+    .nbMaxSeats = pHand->getMaxSeats(),
+    .smallBlind = smallBlind,
+    .bigBlind = bigBlind,
+    .buyIn = 0,
+    .startDate = pHand->getStartDate()
+    })
+  };
 }
 
 std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>

@@ -60,4 +60,4 @@ template<typename T> requires(std::same_as<T, std::filesystem::path>)
 struct [[nodiscard]] PathComparator final {
   bool operator()(const std::filesystem::path& a, const std::filesystem::path& b) const { return a.string() < b.string(); }
 };
-} // phud::filesystem
+} // namespace phud::filesystem

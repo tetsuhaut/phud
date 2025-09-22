@@ -1,6 +1,5 @@
 #include "TestInfrastructure.hpp"
 #include "db/Database.hpp"
-#include "entities/Game.hpp"
 #include "entities/Site.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "constants/ProgramInfos.hpp"

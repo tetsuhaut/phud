@@ -1,14 +1,14 @@
 #pragma once
 
 #include "log/LoggingLevel.hpp" // std::string_view
-#include "strings/StringLiteral.hpp" // concatLiteral, std::string_view
+#include "strings/StringLiteral.hpp" // concatLiteral
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to fmt
 #  pragma warning(push)
 #  pragma warning(disable : 4191 4244 4365 4514 4625 4626 4820 5026 5027 )
 #endif  // _MSC_VER
 
-#include <spdlog/formatter.h> // fmt::format()
+#include <spdlog/fmt/bundled/format.h> // fmt::format()
 
 #if defined(_MSC_VER)  // end of specific msvc warnings removal
 #  pragma warning(pop)
@@ -95,13 +95,11 @@ public:
 template <typename CHAR_TYPE, std::size_t ARRAY_LENGTH>
 constexpr std::size_t getFileNameOffset(const CHAR_TYPE(&str)[ARRAY_LENGTH],
                                         const std::size_t position = ARRAY_LENGTH - 1) {
+  if constexpr (ARRAY_LENGTH == 1) { return 0; }
   // by construction, position cannot be out of scope
   if ((str[position] == '/') or (str[position] == '\\')) { return position + 1; }
-
   return (position > 0) ? getFileNameOffset(str, position - 1) : 0;
 }
-
-constexpr std::size_t getFileNameOffset(auto(& str)[1]) { return 0; }
 
 // forces the compiler to do a compile time evaluation
 namespace utility {
