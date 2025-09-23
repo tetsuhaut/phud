@@ -29,7 +29,7 @@ public:
 
   void setStats(const PlayerStatistics& ps);
 
-  std::string getPlayerName() const;
+  [[nodiscard]] std::string getPlayerName() const;
 
   void refresh(std::string_view playerName);
 }; // class PlayerIndicator

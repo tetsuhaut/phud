@@ -8,7 +8,7 @@ namespace clamp_cast {
   namespace detail {
 
     // constexpr std::exp2 equivalent
-    template <typename T> constexpr T exp2(int exp) noexcept {
+    template <typename T> [[nodiscard]] constexpr T exp2(int exp) noexcept {
       // Alternatively we could use std::bit_cast but explicit exponentation is
       // clearer.
       T result { 1.0 };
@@ -18,7 +18,7 @@ namespace clamp_cast {
       return result;
     }
 
-    template <typename T> constexpr int exponent_bits() noexcept {
+    template <typename T> [[nodiscard]] constexpr int exponent_bits() noexcept {
       using limits = std::numeric_limits<T>;
       static_assert(limits::is_iec559);
       static_assert(limits::radix == 2);
@@ -28,7 +28,7 @@ namespace clamp_cast {
   } // namespace detail
 
   // constexpr std::isnan equivalent
-  template <typename T> constexpr bool is_nan(T t) noexcept {
+  template <typename T> [[nodiscard]] constexpr bool is_nan(T t) noexcept {
     static_assert(std::numeric_limits<T>::is_iec559);
     // https://en.cppreference.com/w/cpp/numeric/math/isnan
     return t != t;
@@ -36,7 +36,7 @@ namespace clamp_cast {
 
   // The lowest From value that will not underflow when converted to To.
   template <typename To, typename From>
-  constexpr From lower_bound_inclusive() noexcept {
+  [[nodiscard]] constexpr From lower_bound_inclusive() noexcept {
     using to_limits = std::numeric_limits<To>;
     static_assert(to_limits::is_integer);
     static_assert(to_limits::radix == 2);
@@ -57,7 +57,7 @@ namespace clamp_cast {
 
   // The lowest From value that will overflow when converted to To.
   template <typename To, typename From>
-  constexpr From upper_bound_exclusive() noexcept {
+  [[nodiscard]] constexpr From upper_bound_exclusive() noexcept {
     using to_limits = std::numeric_limits<To>;
     static_assert(to_limits::is_integer);
     static_assert(to_limits::radix == 2);
@@ -80,7 +80,7 @@ namespace clamp_cast {
   // https://en.cppreference.com/w/cpp/language/implicit_conversion
   // section "Floating–integral conversions"
   template <typename To, typename From>
-  constexpr To clamp_cast(const From from) noexcept {
+  [[nodiscard]] constexpr To clamp_cast(const From from) noexcept {
     // Floating point numbers can represent a large range of powers of 2 exactly.
     // For example, even a 32 bit float can represent 2**64. In this common case
     // we can represent the minimum and maximum values of To exactly in From.

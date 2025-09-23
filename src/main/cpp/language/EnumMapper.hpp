@@ -31,7 +31,7 @@ public:
 };
 
 template<typename EnumType, typename... Args>
-constexpr auto makeEnumMapper(std::pair<EnumType, std::string_view> first, Args... rest) {
+[[nodiscard]] constexpr auto makeEnumMapper(std::pair<EnumType, std::string_view> first, Args... rest) {
   constexpr auto N { 1 + sizeof...(Args) };
   return EnumMapper<EnumType, N>(std::array<std::pair<EnumType, std::string_view>, N>{first, rest...});
 }

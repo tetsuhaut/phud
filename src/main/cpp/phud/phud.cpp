@@ -38,11 +38,9 @@
 // FUTURE : try unity build
 // FUTURE add code documentation (Doxygen, compatible with Javadoc format)
 // BUG : crash à la sélection de la table : impossible de trouver l'historique pour table "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif"
-// l'historique est maintenant dans C:\Users\Simon\AppData\Roaming\wam.04351C371E530C3762CBA45FA283ED972DCDEFB6.1\Local Store\documents\accounts\sabre_laser\history
 // BUG : au 2eme choix d'historique
 // TODO : détecteur d'historique pour que l'utilisateur sache quoi choisir
 // TODO : liste des historiques surveillés
-
 
 static Logger LOG { CURRENT_FILE_NAME };
 

@@ -10,7 +10,7 @@ enum class /*[[nodiscard]]*/ PeriodicTaskStatus : short {
   stopTask
 };
 
-std::string_view toString(PeriodicTaskStatus);
+[[nodiscard]] std::string_view toString(PeriodicTaskStatus);
 
 class [[nodiscard]] PeriodicTask final {
 private:
