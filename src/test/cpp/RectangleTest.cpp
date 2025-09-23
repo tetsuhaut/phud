@@ -1,0 +1,63 @@
+#include "TestInfrastructure.hpp"
+#include "gui/Rectangle.hpp"
+
+BOOST_AUTO_TEST_SUITE(RectangleTest)
+
+BOOST_AUTO_TEST_CASE(RectangleTest_defaultConstruction) {
+  phud::Rectangle rect;
+  BOOST_CHECK_EQUAL(rect.x, 0);
+  BOOST_CHECK_EQUAL(rect.y, 0);
+  BOOST_CHECK_EQUAL(rect.w, 0);
+  BOOST_CHECK_EQUAL(rect.h, 0);
+}
+
+BOOST_AUTO_TEST_CASE(RectangleTest_valueConstruction) {
+  phud::Rectangle rect{10, 20, 100, 50};
+  BOOST_CHECK_EQUAL(rect.x, 10);
+  BOOST_CHECK_EQUAL(rect.y, 20);
+  BOOST_CHECK_EQUAL(rect.w, 100);
+  BOOST_CHECK_EQUAL(rect.h, 50);
+}
+
+BOOST_AUTO_TEST_CASE(RectangleTest_copyConstruction) {
+  phud::Rectangle rect1{10, 20, 100, 50};
+  phud::Rectangle rect2 = rect1;
+
+  BOOST_CHECK_EQUAL(rect2.x, rect1.x);
+  BOOST_CHECK_EQUAL(rect2.y, rect1.y);
+  BOOST_CHECK_EQUAL(rect2.w, rect1.w);
+  BOOST_CHECK_EQUAL(rect2.h, rect1.h);
+}
+
+BOOST_AUTO_TEST_CASE(RectangleTest_assignment) {
+  phud::Rectangle rect1{10, 20, 100, 50};
+  phud::Rectangle rect2;
+
+  rect2 = rect1;
+
+  BOOST_CHECK_EQUAL(rect2.x, rect1.x);
+  BOOST_CHECK_EQUAL(rect2.y, rect1.y);
+  BOOST_CHECK_EQUAL(rect2.w, rect1.w);
+  BOOST_CHECK_EQUAL(rect2.h, rect1.h);
+}
+
+BOOST_AUTO_TEST_CASE(RectangleTest_structuredBinding) {
+  phud::Rectangle rect{10, 20, 100, 50};
+  auto [x, y, w, h] = rect;
+
+  BOOST_CHECK_EQUAL(x, 10);
+  BOOST_CHECK_EQUAL(y, 20);
+  BOOST_CHECK_EQUAL(w, 100);
+  BOOST_CHECK_EQUAL(h, 50);
+}
+
+BOOST_AUTO_TEST_CASE(RectangleTest_negativeValues) {
+  phud::Rectangle rect{-10, -20, 100, 50};
+
+  BOOST_CHECK_EQUAL(rect.x, -10);
+  BOOST_CHECK_EQUAL(rect.y, -20);
+  BOOST_CHECK_EQUAL(rect.w, 100);
+  BOOST_CHECK_EQUAL(rect.h, 50);
+}
+
+BOOST_AUTO_TEST_SUITE_END()

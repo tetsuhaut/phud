@@ -1,7 +1,7 @@
 #pragma once
 
-#include "gui/Rectangle.hpp" // phud::Rectangle
 #include "constants/ProgramInfos.hpp" // ProgramInfos::*, std::string_view
+#include "gui/Rectangle.hpp" // phud::Rectangle
 
 /*
  * Position of the graphical elements on the main screen
@@ -65,4 +65,3 @@ constexpr phud::Rectangle mainWindow { .x = 0,
                                          .h = menuBar.h + space + chooseHistoDirBtn.h + space + progressBar.h + space + elemHeight + space + infoBar.h };
 
 } // namespace MainWindow::Screen
-

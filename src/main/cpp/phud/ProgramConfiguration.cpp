@@ -5,9 +5,6 @@
 
 static Logger LOG { CURRENT_FILE_NAME };
 
-namespace {
-}
-
 std::pair<std::optional<std::filesystem::path>, LoggingLevel> ProgramConfiguration::readConfiguration(std::span<const char* const> args) {
   LOG.info<"reading phud configuration">();
   // Parse command line arguments (override config file)

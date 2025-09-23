@@ -9,10 +9,9 @@
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp" // Future
-
+#include <spdlog/fmt/fmt.h>
 #include <stlab/concurrency/utility.hpp>
 #include <chrono>
-#include <spdlog/fmt/fmt.h>
 #include <filesystem>
 
 namespace fs = std::filesystem;

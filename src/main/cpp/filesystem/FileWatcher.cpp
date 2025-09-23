@@ -3,7 +3,6 @@
 #include "language/Validator.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp"
-
 #include <system_error> // std::error_code
 
 static Logger LOG { CURRENT_FILE_NAME };

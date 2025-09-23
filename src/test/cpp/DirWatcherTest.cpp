@@ -2,7 +2,6 @@
 #include "TimeBomb.hpp"
 #include "filesystem/DirWatcher.hpp"
 #include "filesystem/FileUtils.hpp"
-
 #include <condition_variable>
 #include <mutex>
 

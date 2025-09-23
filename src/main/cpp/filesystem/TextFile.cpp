@@ -1,7 +1,6 @@
 #include "filesystem/FileUtils.hpp" // phud::filesystem::*
 #include "filesystem/TextFile.hpp"  // std::string, std::string_view, std::vector
 #include "strings/StringUtils.hpp" // phud::strings::*
-
 #include <sstream> // std::stringstream
 
 namespace fs = std::filesystem;

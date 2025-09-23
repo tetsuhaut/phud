@@ -1,7 +1,6 @@
 #pragma once
 
 #include "language/PhudException.hpp" // PhudException, std::string_view
-
 #include <memory> // std::unique_ptr
 
 // forward declaration

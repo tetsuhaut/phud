@@ -1,4 +1,5 @@
 #pragma once
+
 #include <algorithm> // std::copy_n
 #include <string_view>
 

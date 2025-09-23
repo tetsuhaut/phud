@@ -1,7 +1,5 @@
 #include "TestInfrastructure.hpp"
-
 #include <boost/range.hpp>
-
 #include <memory> // std::unique_ptr
 
 namespace {

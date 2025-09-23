@@ -1,8 +1,8 @@
 #include "TestInfrastructure.hpp"
+#include "constants/ProgramInfos.hpp"
 #include "db/Database.hpp"
 #include "entities/Site.hpp"
 #include "history/PokerSiteHistory.hpp"
-#include "constants/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 
 namespace pt = phud::test;

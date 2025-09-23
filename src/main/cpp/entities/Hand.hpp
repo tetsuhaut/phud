@@ -2,7 +2,6 @@
 
 #include "constants/TableConstants.hpp"
 #include "system/Time.hpp" // Time, std::unique_ptr, std::string, std::string_view
-
 #include <array>
 #include <vector>
 

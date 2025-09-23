@@ -1,7 +1,6 @@
 #pragma once
 
 #include "history/PokerSiteHistory.hpp" // std::filesystem::path, std::unique_ptr, std::function
-
 #include <functional>
 
 // forward declarations

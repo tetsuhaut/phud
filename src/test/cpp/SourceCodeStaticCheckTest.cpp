@@ -6,7 +6,6 @@
 #include "language/Validator.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // phud::strings::*
-
 #include <numeric> // std::accumulate
 
 namespace fs = std::filesystem;

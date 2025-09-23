@@ -1,9 +1,8 @@
 #include "gui/TableService.hpp"
 #include "gui/WindowUtils.hpp"
-#include "language/Validator.hpp"
 #include "language/limits.hpp"
+#include "language/Validator.hpp"
 #include "log/Logger.hpp"
-
 #include <psapi.h> // GetModuleFileNameEx
 #include <gsl/gsl>
 
@@ -35,10 +34,6 @@ std::string getExecutableName(const HWND window) {
   }
   LOG.error<"Can't retrieve the executable name: {}">(getLastErrorMessageFromOS());
   return "";
-}
-
-constexpr phud::Rectangle toRectangle(const RECT& r) noexcept {
-  return { r.left, r.top, r.right - r.left, r.bottom - r.top };
 }
 
 ErrorOrRectangleAndName getWindowRectangleAndName(TableService& tableService, int x, int y) {

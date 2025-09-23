@@ -3,7 +3,6 @@
 #include "language/Validator.hpp"
 #include "log/Logger.hpp"
 #include "threads/PeriodicTask.hpp"
-
 #include <ranges>
 #include <vector>
 

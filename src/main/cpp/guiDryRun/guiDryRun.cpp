@@ -1,17 +1,17 @@
-#include "threads/ThreadSafeQueue.hpp" // std::unique_ptr
+#include "constants/ProgramInfos.hpp"
 #include "db/Database.hpp"
 #include "gui/Gui.hpp"
-#include "gui/TableService.hpp"
 #include "gui/HistoryService.hpp"
+#include "gui/TableService.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "constants/ProgramInfos.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/PeriodicTask.hpp"
-
-namespace fs = std::filesystem;
+#include "threads/ThreadSafeQueue.hpp" // std::unique_ptr
 
 static Logger LOG { CURRENT_FILE_NAME };
+
+namespace fs = std::filesystem;
 
 namespace {
 struct [[nodiscard]] LoggingConfig final {

@@ -1,11 +1,10 @@
 #pragma once
 
 #include "language/PhudException.hpp"
-
 #include <filesystem>
 #include <optional>
 
-// forward declaration
+// forward declarations
 enum class LoggingLevel : short;
 
 /**

@@ -1,6 +1,6 @@
 #pragma once
-#include "strings/StringLiteral.hpp" // string_view
 
+#include "strings/StringLiteral.hpp" // string_view
 #include <optional> // std::in_place_t, std::in_place
 
 /**

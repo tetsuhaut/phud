@@ -11,7 +11,6 @@
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // phud::strings
 #include "threads/PlayerCache.hpp"
-
 #include <optional>
 
 static Logger LOG { CURRENT_FILE_NAME };

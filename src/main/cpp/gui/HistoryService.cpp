@@ -4,12 +4,11 @@
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp"
 #include "threads/ThreadPool.hpp" // Future
-
 #include <stlab/concurrency/utility.hpp> // stlab::await
 
-namespace fs = std::filesystem;
-
 static Logger LOG { CURRENT_FILE_NAME };
+
+namespace fs = std::filesystem;
 
 struct [[nodiscard]] HistoryService::Implementation final {
   Database& m_database;

@@ -2,9 +2,9 @@
 
 #include <utility> // std::pair
 
-// foward declaration
-namespace phud { struct Rectangle; }
+// foward declarations
 enum class Seat : short;
+namespace phud { struct Rectangle; }
 
 /**
 * Builds absolute seat position.

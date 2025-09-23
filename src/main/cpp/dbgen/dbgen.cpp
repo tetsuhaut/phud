@@ -4,13 +4,12 @@
 #include "history/PokerSiteHistory.hpp" // std::filesystem::path
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-
 #include <optional>
 #include <utility> // std::pair
 
-namespace fs = std::filesystem;
-
 static Logger LOG { CURRENT_FILE_NAME };
+
+namespace fs = std::filesystem;
 
 namespace {
 struct [[nodiscard]] LoggingConfig final {

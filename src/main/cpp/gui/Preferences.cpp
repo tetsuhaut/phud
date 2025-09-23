@@ -21,13 +21,15 @@ constexpr int MAX_PATH_LENGTH { 260 };
 struct [[nodiscard]] Preferences::Implementation final {
   Fl_Preferences m_preferences;
 
-  Implementation() 
-    : m_preferences(Fl_Preferences::USER, ProgramInfos::APP_SHORT_NAME.data(),
-        ProgramInfos::APP_SHORT_NAME.data()) {}
+  Implementation(bool isInMemory)
+  // see https://www.fltk.org/doc-1.4/classFl__Preferences.html#a0947b73d778ca66b9fbb97b75bbbd7cb
+    : m_preferences(isInMemory ? Fl_Preferences::MEMORY : Fl_Preferences::USER_L,
+                    ProgramInfos::APP_SHORT_NAME.data(),
+                    ProgramInfos::APP_SHORT_NAME.data()) {}
 }; // struct Preferences::Implementation
 
-Preferences::Preferences()
-  : m_pImpl { std::make_unique<Implementation>() } {}
+Preferences::Preferences(bool isInMemory)
+  : m_pImpl { std::make_unique<Implementation>(isInMemory) } {}
 
 Preferences::~Preferences() = default;
 

@@ -61,4 +61,4 @@ public:
    * @param historyDir Path to history directory
    */
   void setHistoryDir(const std::filesystem::path& historyDir);
-};
+}; // class TableService

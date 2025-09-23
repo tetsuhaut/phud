@@ -5,10 +5,8 @@
 #include <mutex>
 #include <queue>
 
-// informations: std::lock_guard<std::mutex> unlocks only when destroyed.
+// std::lock_guard<std::mutex> unlocks only when destroyed.
 // std::condition_variable does not take std::lock_guard<std::mutex>.
-
-// comes from http://mainstream.inf.elte.hu/csordasmarton/CodeCompass_OS/commit/128ec25afb4c269be03ae671856ab6875aab9727#a67761fa4ec1dd20340ba3a1a1377b1c8584b981_0_44
 template <typename T>
 class [[nodiscard]] ThreadSafeQueue final {
 private:

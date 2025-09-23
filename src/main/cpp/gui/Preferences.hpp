@@ -14,7 +14,7 @@ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 public:
-  Preferences();
+  Preferences(bool isInMemory = false);
   Preferences(const Preferences&) = delete;
   Preferences(Preferences&&) = delete;
   Preferences& operator=(const Preferences&) = delete;

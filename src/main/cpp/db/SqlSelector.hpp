@@ -3,7 +3,6 @@
 #include "language/Validator.hpp"
 #include "strings/StringUtils.hpp" // std::string_view
 
-
 class [[nodiscard]] SqlSelector final {
 private:
   std::string m_query;

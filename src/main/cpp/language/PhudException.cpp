@@ -1,5 +1,4 @@
 #include "language/PhudException.hpp" // std::string_view, std::string, boost::stacktrace
-
 #include <format>
 
 PhudException::PhudException(std::string_view msg, const boost::stacktrace::stacktrace& stacktrace)

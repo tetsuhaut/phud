@@ -4,10 +4,8 @@
 #include "constants/ProgramInfos.hpp"  // ProgramInfos::*
 #include "strings/StringLiteral.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
-
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format
-
 #include <array>
 
 static Logger LOG { CURRENT_FILE_NAME };

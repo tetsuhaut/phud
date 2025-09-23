@@ -1,8 +1,6 @@
 #pragma once
 
-#include "entities/Seat.hpp"
 #include "language/PhudException.hpp" // std::string_view
-
 #include <memory>
 #include <span>
 
@@ -11,8 +9,9 @@ class CashGame;
 class Player;
 class PlayerStatistics;
 class Site;
-struct TableStatistics;
 class Tournament;
+enum class Seat : short;
+struct TableStatistics;
 
 /**
  * The database where each entity is persisted.

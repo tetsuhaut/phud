@@ -42,5 +42,4 @@ BOOST_AUTO_TEST_CASE(TimeTest_compilerShouldSupportTimeZoneLol) {
   BOOST_TEST(true == iss.fail());
 }
 
-
 BOOST_AUTO_TEST_SUITE_END()

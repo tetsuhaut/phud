@@ -3,7 +3,6 @@
 #include "entities/Seat.hpp"
 #include "language/Validator.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
-
 #include <ranges> // std::ranges::find_if, std::views
 #include <vector>
 

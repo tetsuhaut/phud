@@ -90,4 +90,3 @@ PlayerStatistics::~PlayerStatistics() = default;
 //m_callFlopCheckRaise{ p.m_callFlopCheckRaise },
 //m_foldToFlopCheckRaise{ p.m_foldToFlopCheckRaise }
 //{}
-

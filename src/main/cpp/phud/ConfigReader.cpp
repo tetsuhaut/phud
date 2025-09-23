@@ -3,7 +3,6 @@
 #include "log/LoggingLevel.hpp"
 #include "phud/ConfigReader.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::trim, std::string
-
 #include <format>
 #include <fstream> // std::ofstream
 

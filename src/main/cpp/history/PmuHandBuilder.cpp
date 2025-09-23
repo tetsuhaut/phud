@@ -1,3 +1,4 @@
+#include "constants/ProgramInfos.hpp"
 #include "entities/Action.hpp"
 #include "entities/Card.hpp"
 #include "entities/GameType.hpp"
@@ -10,10 +11,8 @@
 #include "language/Validator.hpp"
 #include "language/limits.hpp" // toInt
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "constants/ProgramInfos.hpp"
 #include "strings/StringUtils.hpp"
 #include "threads/PlayerCache.hpp"
-
 #include <cctype> // std::isdigit
 #include <optional>
 #include <string_view>

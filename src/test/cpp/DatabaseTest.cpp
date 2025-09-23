@@ -2,11 +2,11 @@
 #include "db/Database.hpp"
 #include "entities/Game.hpp"
 #include "entities/Player.hpp"
+#include "entities/Seat.hpp"
 #include "entities/Site.hpp"
 #include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "history/PokerSiteHistory.hpp"
 #include "constants/ProgramInfos.hpp"
-
 #include <gsl/gsl> // gsl::finally
 
 namespace fs = std::filesystem;

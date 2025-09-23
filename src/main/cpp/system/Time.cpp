@@ -1,6 +1,5 @@
 #include "system/Time.hpp"
 #include <spdlog/fmt/bundled/format.h> // fmt::format
-
 #include <ctime> // std::tm
 #include <iomanip> // std::get_time
 #include <sstream> // std::istringstream, std::ostringstream

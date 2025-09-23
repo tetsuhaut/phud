@@ -1,11 +1,10 @@
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // std::string_view
 #include <gsl/gsl>
-
+#include <spdlog/fmt/bundled/format.h> // fmt::format
 #include <charconv> // std::from_chars
 #include <type_traits> // std::is_arithmetic_v, std::is_same_v
 #include <stdexcept> // std::invalid_argument
-#include <spdlog/fmt/bundled/format.h> // fmt::format
 
 static Logger LOG { CURRENT_FILE_NAME };
 

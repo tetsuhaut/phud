@@ -2,7 +2,6 @@
 
 #include "log/LoggingLevel.hpp"
 #include "language/PhudException.hpp" // PhudException
-
 #include <filesystem>
 #include <optional>
 #include <span>

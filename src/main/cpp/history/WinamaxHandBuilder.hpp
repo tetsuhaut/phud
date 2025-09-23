@@ -3,7 +3,7 @@
 #include <memory> // std::unique_ptr, std::is_same_v
 #include <utility> // std::pair
 
-// forward declaration
+// forward declarations
 struct GameData;
 class Hand;
 class PlayerCache;

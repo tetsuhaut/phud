@@ -1,7 +1,7 @@
 #include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
+#include "filesystem/FileUtils.hpp"
 #include "gui/Gui.hpp"  // std::unique_ptr, std::make_unique
-#include "gui/TableService.hpp"
 #include "gui/HistoryService.hpp"
 #include "gui/MainWindowAppearance.hpp" // Surface::
 #include "gui/MainWindowColor.hpp" // Color::
@@ -9,11 +9,11 @@
 #include "gui/PlayerIndicator.hpp" // DragAndDropWindow, Fl_Double_Window
 #include "gui/Position.hpp" // buildPlayerIndicatorPosition()
 #include "gui/Preferences.hpp"
+#include "gui/TableService.hpp"
 #include "gui/TableWatcher.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
-#include "filesystem/FileUtils.hpp"
 #include "threads/ThreadPool.hpp"
 #include <gsl/gsl> // gsl::finally
 
@@ -47,10 +47,10 @@
 *   method is less risky as lock()/unlock() blocks the main thread.
 */
 
+static Logger LOG { CURRENT_FILE_NAME };
+
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
-
-static Logger LOG { CURRENT_FILE_NAME };
 
 namespace {
   /* in anonymous namespace as type definitions can't be static */

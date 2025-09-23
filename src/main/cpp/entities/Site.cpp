@@ -1,7 +1,6 @@
 #include "entities/Game.hpp" // CashGame, Tournament
 #include "entities/Site.hpp" // Site, Player
 #include "language/Validator.hpp"
-
 #include <algorithm> // std::move, also needed for std::ranges::transform, std::ranges::for_each
 #include <iterator> // std::back_inserter
 #include <ranges> // std::ranges::transform, std::ranges::for_each

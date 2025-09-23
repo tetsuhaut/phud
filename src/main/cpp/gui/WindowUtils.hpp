@@ -2,15 +2,13 @@
 
 #include "gui/Rectangle.hpp"
 #include "language/ErrOrRes.hpp"
-
 #include <windows.h>
-
 #include <optional>
 #include <string>
 #include <string_view>
 #include <utility> // std::pair
 
-// forward declaration
+// forward declarations
 class TableService;
 
 using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>>;
@@ -33,7 +31,9 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
  * @param r Windows RECT structure
  * @return phud::Rectangle equivalent
  */
-[[nodiscard]] constexpr phud::Rectangle toRectangle(const RECT& r) noexcept;
+[[nodiscard]] constexpr phud::Rectangle toRectangle(const RECT& r) noexcept {
+  return { r.left, r.top, r.right - r.left, r.bottom - r.top };
+}
 
 /**
  * Gets the current window absolute position,

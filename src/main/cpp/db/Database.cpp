@@ -3,13 +3,14 @@
 #include "db/SqlInsertor.hpp"  // Game
 #include "db/SqlSelector.hpp"
 #include "db/sqliteQueries.hpp" // all the SQL queries
-#include "language/Validator.hpp"
 #include "entities/Action.hpp"
 #include "entities/Game.hpp" // Cashgame, Limit, Time, Tournament, Variant
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp"  // std::array
+#include "entities/Seat.hpp"
 #include "entities/Site.hpp"  // Site
 #include "filesystem/FileUtils.hpp" // phud::filesystem
+#include "language/Validator.hpp"
 #include "log/Logger.hpp" // fmt::format(), CURRENT_FILE_NAME
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"

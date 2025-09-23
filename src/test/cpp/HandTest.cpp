@@ -12,7 +12,6 @@
 #include "history/WinamaxGameHistory.hpp"
 #include "strings/StringUtils.hpp" // phud::strings
 #include "threads/PlayerCache.hpp"
-
 #include <thirdParties/utfcpp/utf8.h> // utf8::utf16to8
 #include <optional>
 

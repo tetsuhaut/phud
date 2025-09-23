@@ -226,6 +226,6 @@ fs::path WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& hist
 
   if (1 == files.size()) { return files.front(); }
 
-  std::sort(std::begin(files), std::end(files), pf::PathComparator {});
+  std::ranges::sort(files, pf::PathComparator {});
   return files.back();
 }

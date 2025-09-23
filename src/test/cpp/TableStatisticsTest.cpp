@@ -8,6 +8,8 @@
 
 namespace pt = phud::test;
 
+BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
+
 BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed) {
   const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto")) };
   BOOST_REQUIRE(nullptr != pSite);
@@ -57,3 +59,5 @@ BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed) {
   BOOST_REQUIRE("sianae" == stats.m_tableStats[9]->getPlayerName());
   BOOST_REQUIRE(0 <= stats.m_tableStats[9]->getVoluntaryPutMoneyInPot());
 }
+
+BOOST_AUTO_TEST_SUITE_END()
