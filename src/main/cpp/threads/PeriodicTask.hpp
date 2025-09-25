@@ -28,16 +28,16 @@ public:
   /*
    * Stops the task as soon as possible
    */
-  void stop();
+  void stop() const;
 
   /**
    * Blocks until the given task returns false or stop() is called.
    */
-  void join();
+  void join() const;
   [[nodiscard]] bool isStopped() const noexcept;
   [[nodiscard]] bool isRunning() const noexcept;
   /**
    * if task returns PeriodicTaskStatus::repeatTask, continue, else stop.
    */
-  void start(std::function<PeriodicTaskStatus()> task);
+  void start(const std::function<PeriodicTaskStatus()>& task) const;
 }; // class PeriodicTask

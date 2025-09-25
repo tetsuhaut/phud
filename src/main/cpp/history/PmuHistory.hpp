@@ -7,17 +7,16 @@
 class Site;
 
 class [[nodiscard]] PmuHistory final : public PokerSiteHistory {
-
 public:
-  ~PmuHistory();
+  ~PmuHistory() override;
 
   /**
   * @returns a Site containing all the games which history files are located in
   * the given <historyDir>/history directory.
   */
   [[nodiscard]] std::unique_ptr<Site> load(const std::filesystem::path& historyDir,
-      std::function<void()> onProgress,
-      std::function<void(std::size_t)> onSetNbFiles) override;
+                                           std::function<void()> onProgress,
+                                           std::function<void(std::size_t)> onSetNbFiles) override;
   std::unique_ptr<Site> load(auto, std::function<void()>, std::function<void(std::size_t)>) = delete;
 
   [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir);

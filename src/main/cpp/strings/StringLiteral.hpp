@@ -14,11 +14,11 @@ struct [[nodiscard]] StringLiteral final {
 
   constexpr explicit(false) StringLiteral(const char (&str)[N + 1]) { std::copy_n(str, N, value); }
 
-  constexpr explicit(false) operator std::string_view() const { return {value, N}; }
+  constexpr explicit operator std::string_view() const { return {value, N}; }
 
-  constexpr StringLiteral() {}
+  constexpr StringLiteral() = default;
 
-  constexpr StringLiteral(std::basic_string_view<CHAR> str) {
+  constexpr explicit StringLiteral(std::basic_string_view<CHAR> str) {
     std::copy_n(str, str.size() + 1, value);
   }
 };
@@ -34,12 +34,12 @@ template<typename CHAR, auto N> StringLiteral(const CHAR(&)[N]) -> StringLiteral
 template<typename CHAR, std::size_t ...N>
 [[nodiscard]] constexpr auto concatLiteral(const CHAR(&...strings)[N]) {
   constexpr auto len = (... + N) - sizeof...(N);
-  StringLiteral < CHAR, len + 1 > result {};
+  StringLiteral<CHAR, len + 1> result {};
   result.value[len] = '\0';
   CHAR* dst { result.value };
 
   for (const CHAR* src : { strings... }) {
-    for (; *src != '\0'; src++, dst++) {
+    for (; *src != '\0'; ++src, ++dst) {
       *dst = *src;
     }
   }

@@ -24,19 +24,19 @@ std::string getExecutableName(const HWND window) {
   DWORD pid;
   GetWindowThreadProcessId(window, &pid);
   const auto myProcessHandle { OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, pid) };
-  validation::requireNotNull(myProcessHandle, getLastErrorMessageFromOS().c_str());
+  validation::requireNotNull(myProcessHandle, getLastErrorMessageFromOS());
   const auto _ { gsl::finally([myProcessHandle] { CloseHandle(myProcessHandle); }) };
   char process[MAX_PATH + 1] { '\0' };
 
   if (const auto nbChars { GetModuleFileNameEx(myProcessHandle, nullptr, &process[0], MAX_PATH) }; 0 != nbChars) {
     process[MAX_PATH] = '\0';
-    return std::string(&process[0]);
+    return &process[0];
   }
   LOG.error<"Can't retrieve the executable name: {}">(getLastErrorMessageFromOS());
   return "";
 }
 
-ErrorOrRectangleAndName getWindowRectangleAndName(TableService& tableService, int x, int y) {
+ErrorOrRectangleAndName getWindowRectangleAndName(const TableService& tableService, int x, int y) {
   LOG.debug<__func__>();
   const auto& myWindowHandle { WindowFromPoint({x, y}) };
 

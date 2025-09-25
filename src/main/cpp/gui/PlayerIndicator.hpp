@@ -27,9 +27,9 @@ public:
   PlayerIndicator& operator=(PlayerIndicator&&) = delete;
   ~PlayerIndicator();
 
-  void setStats(const PlayerStatistics& ps);
+  void setStats(const PlayerStatistics& ps) const;
 
   [[nodiscard]] std::string getPlayerName() const;
 
-  void refresh(std::string_view playerName);
+  void refresh(std::string_view playerName) const;
 }; // class PlayerIndicator

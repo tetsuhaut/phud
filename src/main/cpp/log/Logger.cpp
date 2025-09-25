@@ -36,11 +36,11 @@ constexpr auto LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL {
 };
 } // anonymous namespace
 
-[[nodiscard]] static inline LoggingLevel toLoggingLevel(LegacyLoggingLevel l) {
+[[nodiscard]] static LoggingLevel toLoggingLevel(LegacyLoggingLevel l) {
   return LEGACY_LOGGING_LEVEL_TO_LOGGING_LEVEL.find(l)->second;
 }
 
-[[nodiscard]] static inline LegacyLoggingLevel toLegacyLoggingLevel(LoggingLevel l) {
+[[nodiscard]] static LegacyLoggingLevel toLegacyLoggingLevel(LoggingLevel l) {
   return LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL.find(l)->second;
 }
 

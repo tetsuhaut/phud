@@ -27,15 +27,16 @@ PeriodicTask::PeriodicTask(std::chrono::milliseconds period, std::string_view ta
 PeriodicTask::~PeriodicTask() {
   try {
     stop();
-  } catch (...) {
+  }
+  catch (...) {
     LOG.error<"Unknown error during the stop of PeriodicTask.">();
   }
 }
 
-void PeriodicTask::stop() {
+void PeriodicTask::stop() const {
   if (!m_pImpl->m_taskIsStopped) {
     {
-      std::unique_lock<std::mutex> lock { m_pImpl->m_mutex }; // noexcept
+      std::unique_lock lock { m_pImpl->m_mutex }; // noexcept
       m_pImpl->m_futureTaskResult.reset(); // should be noexcept :)
       m_pImpl->m_stop = true;
       m_pImpl->m_cv.notify_all(); // noexcept
@@ -44,27 +45,30 @@ void PeriodicTask::stop() {
   }
 }
 
-void PeriodicTask::join() {
+void PeriodicTask::join() const {
   if (!m_pImpl->m_taskIsStopped) {
-    std::unique_lock<std::mutex> lock { m_pImpl->m_mutex };
+    std::unique_lock lock { m_pImpl->m_mutex };
     // wait is not noexcept
     m_pImpl->m_cv.wait(lock, [this]() noexcept { return m_pImpl->m_taskIsStopped.load(); });
   }
 }
 
-/*[[nodiscard]]*/ bool PeriodicTask::isStopped() const noexcept { return m_pImpl->m_taskIsStopped; }
-/*[[nodiscard]]*/ bool PeriodicTask::isRunning() const noexcept { return false == m_pImpl->m_taskIsStopped; }
+/*[[nodiscard]]*/
+bool PeriodicTask::isStopped() const noexcept { return m_pImpl->m_taskIsStopped; }
+/*[[nodiscard]]*/
+bool PeriodicTask::isRunning() const noexcept { return false == m_pImpl->m_taskIsStopped; }
 
-void PeriodicTask::start(std::function<PeriodicTaskStatus()> task) {
+void PeriodicTask::start(const std::function<PeriodicTaskStatus()>& task) const {
   m_pImpl->m_taskIsStopped = false;
   m_pImpl->m_futureTaskResult = ThreadPool::submit([this, task]() {
     do {
-      std::unique_lock<std::mutex> lock { m_pImpl->m_mutex };
+      std::unique_lock lock { m_pImpl->m_mutex };
       const auto& timeout { std::chrono::steady_clock::now() + m_pImpl->m_period };
 
       // listen to spurious wakes
       while (!m_pImpl->m_stop) { if (std::cv_status::timeout == m_pImpl->m_cv.wait_until(lock, timeout)) { break; } }
-    } while (!m_pImpl->m_stop and PeriodicTaskStatus::repeatTask == task());
+    }
+    while (!m_pImpl->m_stop and PeriodicTaskStatus::repeatTask == task());
 
     m_pImpl->m_taskIsStopped = true;
     m_pImpl->m_cv.notify_one();

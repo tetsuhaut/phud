@@ -1,0 +1,1416 @@
+Winamax Poker - CashGame - HandId: #21496293-397-1758747013 - Holdem no limit (0.01/0.02) - 2025/09/24 20:50:13 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (4.08)
+Seat 2: pitou13015 (2)
+Seat 3: pokas3 (0.96)
+Seat 4: sabre_laser (2)
+Seat 5: Jerome387340 (0.53)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [3c Jd]
+*** PRE-FLOP *** 
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.02
+pokas3 raises 0.08 to 0.10
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.08
+*** FLOP *** [8d 6c Qc]
+pokas3 bets 0.02
+HG Titan7421 calls 0.02
+*** TURN *** [8d 6c Qc][2s]
+pokas3 bets 0.02
+HG Titan7421 calls 0.02
+*** RIVER *** [8d 6c Qc 2s][Kd]
+pokas3 bets 0.02
+HG Titan7421 calls 0.02
+*** SHOW DOWN ***
+pokas3 shows [Tc Ad] (High card : Ace)
+HG Titan7421 shows [8s As] (One pair : 8)
+HG Titan7421 collected 0.34 from pot
+*** SUMMARY ***
+Total pot 0.34 | Rake 0.02
+Board: [8d 6c Qc 2s Kd]
+Seat 1: HG Titan7421 (button) showed [8s As] and won 0.34 with One pair : 8
+Seat 3: pokas3 (small blind) showed [Tc Ad] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #21496293-398-1758747051 - Holdem no limit (0.01/0.02) - 2025/09/24 20:50:51 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (4.26)
+Seat 2: pitou13015 (2)
+Seat 3: pokas3 (0.80)
+Seat 4: sabre_laser (1.98)
+Seat 5: Jerome387340 (0.51)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+pitou13015 posts big blind 0.02 out of position
+Dealt to sabre_laser [Ts 6s]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+pitou13015 checks
+pokas3 raises 0.02 to 0.04
+sabre_laser folds
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.02
+pitou13015 calls 0.02
+*** FLOP *** [Qs 2d 3d]
+Jerome387340 checks
+HG Titan7421 bets 0.17
+pitou13015 folds
+pokas3 raises 0.17 to 0.34
+Jerome387340 folds
+HG Titan7421 raises 3.88 to 4.22 and is all-in
+pokas3 calls 0.42 and is all-in
+*** TURN *** [Qs 2d 3d][8h]
+*** RIVER *** [Qs 2d 3d 8h][2c]
+*** SHOW DOWN ***
+pokas3 shows [5d Qd] (Two pairs : Queens and 2)
+HG Titan7421 shows [Qh Ac] (Two pairs : Queens and 2)
+HG Titan7421 collected 5.05 from pot
+*** SUMMARY ***
+Total pot 5.05 | Rake 0.10
+Board: [Qs 2d 3d 8h 2c]
+Seat 1: HG Titan7421 showed [Qh Ac] and won 5.05 with Two pairs : Queens and 2
+Seat 3: pokas3 (button) showed [5d Qd] and lost with Two pairs : Queens and 2
+
+
+Winamax Poker - CashGame - HandId: #21496293-399-1758747102 - Holdem no limit (0.01/0.02) - 2025/09/24 20:51:42 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (5.05)
+Seat 2: pitou13015 (1.96)
+Seat 3: pokas3 (0.51)
+Seat 4: sabre_laser (1.97)
+Seat 5: Jerome387340 (0.47)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+HG Titan7421 posts big blind 0.02
+Dealt to sabre_laser [2d 2h]
+*** PRE-FLOP *** 
+pitou13015 calls 0.02
+pokas3 calls 0.02
+sabre_laser calls 0.02
+Jerome387340 calls 0.01
+HG Titan7421 checks
+*** FLOP *** [6h Qd 4s]
+Jerome387340 checks
+HG Titan7421 bets 0.10
+pitou13015 calls 0.10
+pokas3 calls 0.10
+sabre_laser folds
+Jerome387340 folds
+*** TURN *** [6h Qd 4s][Kh]
+HG Titan7421 bets 0.40
+pitou13015 calls 0.40
+pokas3 folds
+*** RIVER *** [6h Qd 4s Kh][3h]
+HG Titan7421 checks
+pitou13015 bets 1.44 and is all-in
+HG Titan7421 calls 1.44
+*** SHOW DOWN ***
+pitou13015 shows [Qs 9d] (One pair : Queens)
+HG Titan7421 shows [4d 6c] (Two pairs : 6 and 4)
+HG Titan7421 collected 3.85 from pot
+*** SUMMARY ***
+Total pot 3.85 | Rake 0.23
+Board: [6h Qd 4s Kh 3h]
+Seat 1: HG Titan7421 (big blind) showed [4d 6c] and won 3.85 with Two pairs : 6 and 4
+Seat 2: pitou13015 showed [Qs 9d] and lost with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #21496293-400-1758747165 - Holdem no limit (0.01/0.02) - 2025/09/24 20:52:45 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 1: HG Titan7421 (6.94)
+Seat 2: pitou13015 (2)
+Seat 3: pokas3 (0.90)
+Seat 4: sabre_laser (1.95)
+Seat 5: Jerome387340 (0.45)
+*** ANTE/BLINDS ***
+HG Titan7421 posts small blind 0.01
+pitou13015 posts big blind 0.02
+Dealt to sabre_laser [3c 2d]
+*** PRE-FLOP *** 
+pokas3 raises 0.02 to 0.04
+sabre_laser folds
+Jerome387340 calls 0.04
+HG Titan7421 calls 0.03
+pitou13015 calls 0.02
+*** FLOP *** [5s 8s Qh]
+HG Titan7421 checks
+pitou13015 checks
+pokas3 checks
+Jerome387340 checks
+*** TURN *** [5s 8s Qh][Ad]
+HG Titan7421 checks
+pitou13015 checks
+pokas3 checks
+Jerome387340 checks
+*** RIVER *** [5s 8s Qh Ad][7h]
+HG Titan7421 bets 0.16
+pitou13015 folds
+pokas3 raises 0.16 to 0.32
+Jerome387340 folds
+HG Titan7421 folds
+pokas3 collected 0.61 from pot
+*** SUMMARY ***
+Total pot 0.61 | Rake 0.03
+Board: [5s 8s Qh Ad 7h]
+Seat 3: pokas3 won 0.61
+
+
+Winamax Poker - CashGame - HandId: #21496293-401-1758747217 - Holdem no limit (0.01/0.02) - 2025/09/24 20:53:37 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (6.74)
+Seat 2: pitou13015 (1.96)
+Seat 3: pokas3 (1.15)
+Seat 4: sabre_laser (1.95)
+Seat 5: Jerome387340 (0.41)
+*** ANTE/BLINDS ***
+pitou13015 posts small blind 0.01
+pokas3 posts big blind 0.02
+Dealt to sabre_laser [6h Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.02
+pitou13015 raises 0.12 to 0.14
+pokas3 calls 0.12
+Jerome387340 folds
+HG Titan7421 folds
+*** FLOP *** [Jd 4d 6c]
+pitou13015 bets 1.82 and is all-in
+pokas3 folds
+pitou13015 collected 2.12 from pot
+*** SUMMARY ***
+Total pot 2.12 | Rake 0.02
+Board: [Jd 4d 6c]
+Seat 2: pitou13015 (small blind) won 2.12
+
+
+Winamax Poker - CashGame - HandId: #21496293-402-1758747256 - Holdem no limit (0.01/0.02) - 2025/09/24 20:54:16 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #2 is the button
+Seat 1: HG Titan7421 (6.72)
+Seat 2: pitou13015 (2.12)
+Seat 3: pokas3 (1.01)
+Seat 4: sabre_laser (1.95)
+Seat 5: Jerome387340 (0.39)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [Jh 5d]
+*** PRE-FLOP *** 
+Jerome387340 calls 0.02
+HG Titan7421 raises 0.55 to 0.57
+pitou13015 raises 1.55 to 2.12 and is all-in
+pokas3 folds
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 1.55
+*** FLOP *** [3c Td Ah]
+*** TURN *** [3c Td Ah][3d]
+*** RIVER *** [3c Td Ah 3d][8s]
+*** SHOW DOWN ***
+pitou13015 shows [7s Ts] (Two pairs : Tens and 3)
+HG Titan7421 shows [Kc Kh] (Two pairs : Kings and 3)
+HG Titan7421 collected 4.04 from pot
+*** SUMMARY ***
+Total pot 4.04 | Rake 0.25
+Board: [3c Td Ah 3d 8s]
+Seat 1: HG Titan7421 showed [Kc Kh] and won 4.04 with Two pairs : Kings and 3
+Seat 2: pitou13015 (button) showed [7s Ts] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - CashGame - HandId: #21496293-403-1758747323 - Holdem no limit (0.01/0.02) - 2025/09/24 20:55:23 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (8.64)
+Seat 2: pitou13015 (2)
+Seat 3: pokas3 (1)
+Seat 4: sabre_laser (1.93)
+Seat 5: Jerome387340 (0.37)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+Dealt to sabre_laser [7h Kh]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+pitou13015 calls 0.02
+pokas3 calls 0.02
+sabre_laser raises 0.14 to 0.16
+Jerome387340 folds
+HG Titan7421 folds
+pitou13015 calls 0.14
+pokas3 calls 0.14
+*** FLOP *** [5c 2s 3h]
+sabre_laser checks
+pitou13015 bets 1.76
+pokas3 folds
+sabre_laser raises 0.01 to 1.77 and is all-in
+pitou13015 calls 0.01
+*** TURN *** [5c 2s 3h][Qc]
+*** RIVER *** [5c 2s 3h Qc][Qs]
+*** SHOW DOWN ***
+pitou13015 shows [4h 7d] (One pair : Queens)
+sabre_laser shows [7h Kh] (One pair : Queens)
+sabre_laser collected 3.83 from pot
+*** SUMMARY ***
+Total pot 3.83 | Rake 0.23
+Board: [5c 2s 3h Qc Qs]
+Seat 2: pitou13015 showed [4h 7d] and lost with One pair : Queens
+Seat 4: sabre_laser (small blind) showed [7h Kh] and won 3.83 with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #21496293-404-1758747371 - Holdem no limit (0.01/0.02) - 2025/09/24 20:56:11 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (8.62)
+Seat 3: pokas3 (0.84)
+Seat 4: sabre_laser (3.83)
+Seat 5: Jerome387340 (0.35)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+HG Titan7421 posts big blind 0.02
+Dealt to sabre_laser [Qc Ts]
+*** PRE-FLOP *** 
+pokas3 calls 0.02
+sabre_laser folds
+Jerome387340 calls 0.01
+HG Titan7421 checks
+*** FLOP *** [Th Jh Kc]
+Jerome387340 checks
+HG Titan7421 checks
+pokas3 checks
+*** TURN *** [Th Jh Kc][Jc]
+Jerome387340 checks
+HG Titan7421 checks
+pokas3 checks
+*** RIVER *** [Th Jh Kc Jc][6d]
+Jerome387340 checks
+HG Titan7421 checks
+pokas3 checks
+*** SHOW DOWN ***
+HG Titan7421 shows [Qh 5h] (One pair : Jacks)
+pokas3 shows [8s 4s] (One pair : Jacks)
+Jerome387340 shows [6c 3h] (Two pairs : Jacks and 6)
+Jerome387340 collected 0.06 from pot
+*** SUMMARY ***
+Total pot 0.06 | No rake
+Board: [Th Jh Kc Jc 6d]
+Seat 1: HG Titan7421 (big blind) showed [Qh 5h] and lost with One pair : Jacks
+Seat 3: pokas3 showed [8s 4s] and lost with One pair : Jacks
+Seat 5: Jerome387340 (small blind) showed [6c 3h] and won 0.06 with Two pairs : Jacks and 6
+
+
+Winamax Poker - CashGame - HandId: #21496293-405-1758747424 - Holdem no limit (0.01/0.02) - 2025/09/24 20:57:04 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 1: HG Titan7421 (8.60)
+Seat 3: pokas3 (0.82)
+Seat 4: sabre_laser (3.83)
+Seat 5: Jerome387340 (0.39)
+*** ANTE/BLINDS ***
+HG Titan7421 posts small blind 0.01
+pokas3 posts big blind 0.02
+Dealt to sabre_laser [6c Kd]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.01
+pokas3 checks
+*** FLOP *** [Kc 8h 6h]
+HG Titan7421 bets 0.06
+pokas3 folds
+Jerome387340 folds
+HG Titan7421 collected 0.12 from pot
+*** SUMMARY ***
+Total pot 0.12 | No rake
+Board: [Kc 8h 6h]
+Seat 1: HG Titan7421 (small blind) won 0.12
+
+
+Winamax Poker - CashGame - HandId: #21496293-406-1758747454 - Holdem no limit (0.01/0.02) - 2025/09/24 20:57:34 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (8.64)
+Seat 2: jpax1 (0)
+Seat 3: pokas3 (0.80)
+Seat 4: sabre_laser (3.83)
+Seat 5: Jerome387340 (0.37)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [Qh 6c]
+*** PRE-FLOP *** 
+Jerome387340 folds
+HG Titan7421 calls 0.02
+pokas3 calls 0.01
+sabre_laser checks
+*** FLOP *** [4d Ah 4c]
+pokas3 checks
+sabre_laser checks
+HG Titan7421 checks
+*** TURN *** [4d Ah 4c][Kh]
+pokas3 checks
+sabre_laser checks
+HG Titan7421 bets 0.06
+pokas3 calls 0.06
+sabre_laser folds
+*** RIVER *** [4d Ah 4c Kh][Jc]
+pokas3 bets 0.12
+HG Titan7421 calls 0.12
+*** SHOW DOWN ***
+HG Titan7421 shows [5c 4h] (Trips of 4)
+pokas3 shows [Qc Th] (Straight Ace high)
+pokas3 collected 0.40 from pot
+*** SUMMARY ***
+Total pot 0.40 | Rake 0.02
+Board: [4d Ah 4c Kh Jc]
+Seat 1: HG Titan7421 (button) showed [5c 4h] and lost with Trips of 4
+Seat 3: pokas3 (small blind) showed [Qc Th] and won 0.40 with Straight Ace high
+
+
+Winamax Poker - CashGame - HandId: #21496293-407-1758747518 - Holdem no limit (0.01/0.02) - 2025/09/24 20:58:38 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (8.44)
+Seat 2: jpax1 (2)
+Seat 3: pokas3 (1)
+Seat 4: sabre_laser (3.81)
+Seat 5: Jerome387340 (0.37)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+jpax1 posts big blind 0.02 out of position
+Dealt to sabre_laser [4h 4d]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+jpax1 checks
+pokas3 folds
+sabre_laser folds
+Jerome387340 raises 0.02 to 0.04
+HG Titan7421 calls 0.02
+jpax1 calls 0.02
+*** FLOP *** [9s 7c Kh]
+Jerome387340 bets 0.04
+HG Titan7421 folds
+jpax1 folds
+Jerome387340 collected 0.16 from pot
+*** SUMMARY ***
+Total pot 0.16 | Rake 0.01
+Board: [9s 7c Kh]
+Seat 5: Jerome387340 (big blind) won 0.16
+
+
+Winamax Poker - CashGame - HandId: #21496293-408-1758747577 - Holdem no limit (0.01/0.02) - 2025/09/24 20:59:37 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (8.40)
+Seat 2: jpax1 (1.96)
+Seat 3: pokas3 (1)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.45)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+HG Titan7421 posts big blind 0.02
+Dealt to sabre_laser [2c 8d]
+*** PRE-FLOP *** 
+jpax1 calls 0.02
+pokas3 folds
+sabre_laser folds
+Jerome387340 calls 0.01
+HG Titan7421 checks
+*** FLOP *** [3h Jd Ts]
+Jerome387340 checks
+HG Titan7421 checks
+jpax1 checks
+*** TURN *** [3h Jd Ts][Td]
+Jerome387340 checks
+HG Titan7421 checks
+jpax1 checks
+*** RIVER *** [3h Jd Ts Td][Kc]
+Jerome387340 checks
+HG Titan7421 bets 0.43
+jpax1 folds
+Jerome387340 folds
+HG Titan7421 collected 0.49 from pot
+*** SUMMARY ***
+Total pot 0.49 | No rake
+Board: [3h Jd Ts Td Kc]
+Seat 1: HG Titan7421 (big blind) won 0.49
+
+
+Winamax Poker - CashGame - HandId: #21496293-409-1758747624 - Holdem no limit (0.01/0.02) - 2025/09/24 21:00:24 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 1: HG Titan7421 (8.44)
+Seat 2: jpax1 (1.94)
+Seat 3: pokas3 (1)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.43)
+*** ANTE/BLINDS ***
+HG Titan7421 posts small blind 0.01
+jpax1 posts big blind 0.02
+Dealt to sabre_laser [8d 4h]
+*** PRE-FLOP *** 
+pokas3 calls 0.02
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.01
+jpax1 raises 1.92 to 1.94 and is all-in
+pokas3 folds
+HG Titan7421 folds
+jpax1 collected 1.98 from pot
+*** SUMMARY ***
+Total pot 1.98 | No rake
+Seat 2: jpax1 (big blind) won 1.98
+
+
+Winamax Poker - CashGame - HandId: #21496293-410-1758747642 - Holdem no limit (0.01/0.02) - 2025/09/24 21:00:42 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (8.42)
+Seat 2: jpax1 (1.98)
+Seat 3: pokas3 (0.98)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.43)
+*** ANTE/BLINDS ***
+jpax1 posts small blind 0.01
+pokas3 posts big blind 0.02
+Dealt to sabre_laser [7h 6c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.02
+jpax1 calls 0.01
+pokas3 checks
+*** FLOP *** [9c 5h Kc]
+jpax1 checks
+pokas3 checks
+Jerome387340 checks
+HG Titan7421 checks
+*** TURN *** [9c 5h Kc][Qh]
+jpax1 bets 1.96 and is all-in
+pokas3 folds
+Jerome387340 folds
+HG Titan7421 folds
+jpax1 collected 2.04 from pot
+*** SUMMARY ***
+Total pot 2.04 | No rake
+Board: [9c 5h Kc Qh]
+Seat 2: jpax1 (small blind) won 2.04
+
+
+Winamax Poker - CashGame - HandId: #21496293-411-1758747695 - Holdem no limit (0.01/0.02) - 2025/09/24 21:01:35 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #2 is the button
+Seat 1: HG Titan7421 (8.40)
+Seat 2: jpax1 (2.04)
+Seat 3: pokas3 (0.96)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.41)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [9c 3d]
+*** PRE-FLOP *** 
+Jerome387340 folds
+HG Titan7421 calls 0.02
+jpax1 calls 0.02
+pokas3 calls 0.01
+sabre_laser checks
+*** FLOP *** [6s 3s 8c]
+pokas3 checks
+sabre_laser checks
+HG Titan7421 checks
+jpax1 checks
+*** TURN *** [6s 3s 8c][Ah]
+pokas3 checks
+sabre_laser checks
+HG Titan7421 bets 0.08
+jpax1 calls 0.08
+pokas3 calls 0.08
+sabre_laser folds
+*** RIVER *** [6s 3s 8c Ah][9h]
+pokas3 bets 0.02
+HG Titan7421 folds
+jpax1 calls 0.02
+*** SHOW DOWN ***
+jpax1 shows [9d 7d] (One pair : 9)
+pokas3 shows [Ac 5h] (One pair : Aces)
+pokas3 collected 0.34 from pot
+*** SUMMARY ***
+Total pot 0.34 | Rake 0.02
+Board: [6s 3s 8c Ah 9h]
+Seat 2: jpax1 (button) showed [9d 7d] and lost with One pair : 9
+Seat 3: pokas3 (small blind) showed [Ac 5h] and won 0.34 with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #21496293-412-1758747754 - Holdem no limit (0.01/0.02) - 2025/09/24 21:02:34 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (8.30)
+Seat 2: jpax1 (1.92)
+Seat 3: pokas3 (1.18)
+Seat 4: sabre_laser (3.78)
+Seat 5: Jerome387340 (0.41)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+Dealt to sabre_laser [5s 8h]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+jpax1 folds
+pokas3 raises 0.02 to 0.04
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.02
+*** FLOP *** [Js Jh Qs]
+HG Titan7421 checks
+pokas3 bets 0.06
+HG Titan7421 folds
+pokas3 collected 0.16 from pot
+*** SUMMARY ***
+Total pot 0.16 | Rake 0.01
+Board: [Js Jh Qs]
+Seat 3: pokas3 (button) won 0.16
+
+
+Winamax Poker - CashGame - HandId: #21496293-413-1758747805 - Holdem no limit (0.01/0.02) - 2025/09/24 21:03:25 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (8.26)
+Seat 2: jpax1 (1.92)
+Seat 3: pokas3 (1.24)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.39)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+HG Titan7421 posts big blind 0.02
+Dealt to sabre_laser [3c 5h]
+*** PRE-FLOP *** 
+jpax1 calls 0.02
+pokas3 folds
+sabre_laser folds
+Jerome387340 calls 0.01
+HG Titan7421 checks
+*** FLOP *** [6d Ah 9s]
+Jerome387340 checks
+HG Titan7421 checks
+jpax1 checks
+*** TURN *** [6d Ah 9s][Kd]
+Jerome387340 checks
+HG Titan7421 checks
+jpax1 checks
+*** RIVER *** [6d Ah 9s Kd][3d]
+Jerome387340 checks
+HG Titan7421 checks
+jpax1 checks
+*** SHOW DOWN ***
+jpax1 shows [Qd Js] (High card : Ace)
+Jerome387340 shows [7c 3s] (One pair : 3)
+HG Titan7421 shows [4d 4c] (One pair : 4)
+HG Titan7421 collected 0.06 from pot
+*** SUMMARY ***
+Total pot 0.06 | No rake
+Board: [6d Ah 9s Kd 3d]
+Seat 1: HG Titan7421 (big blind) showed [4d 4c] and won 0.06 with One pair : 4
+Seat 2: jpax1 showed [Qd Js] and lost with High card : Ace
+Seat 5: Jerome387340 (small blind) showed [7c 3s] and lost with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #21496293-414-1758747861 - Holdem no limit (0.01/0.02) - 2025/09/24 21:04:21 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 1: HG Titan7421 (8.30)
+Seat 2: jpax1 (1.90)
+Seat 3: pokas3 (1.24)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.37)
+*** ANTE/BLINDS ***
+HG Titan7421 posts small blind 0.01
+jpax1 posts big blind 0.02
+Dealt to sabre_laser [5h 9d]
+*** PRE-FLOP *** 
+pokas3 folds
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.01
+jpax1 checks
+*** FLOP *** [2c 2d 8d]
+HG Titan7421 checks
+jpax1 bets 1.88 and is all-in
+HG Titan7421 folds
+jpax1 collected 1.92 from pot
+*** SUMMARY ***
+Total pot 1.92 | No rake
+Board: [2c 2d 8d]
+Seat 2: jpax1 (big blind) won 1.92
+
+
+Winamax Poker - CashGame - HandId: #21496293-415-1758747893 - Holdem no limit (0.01/0.02) - 2025/09/24 21:04:53 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (8.28)
+Seat 2: jpax1 (1.92)
+Seat 3: pokas3 (1.24)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.37)
+*** ANTE/BLINDS ***
+jpax1 posts small blind 0.01
+pokas3 posts big blind 0.02
+Dealt to sabre_laser [Jc 9c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.02
+jpax1 raises 0.06 to 0.08
+pokas3 raises 0.06 to 0.14
+HG Titan7421 folds
+jpax1 raises 1.78 to 1.92 and is all-in
+pokas3 calls 1.10 and is all-in
+*** FLOP *** [8d Jh Qs]
+*** TURN *** [8d Jh Qs][4s]
+*** RIVER *** [8d Jh Qs 4s][3c]
+*** SHOW DOWN ***
+pokas3 shows [Ac Ks] (High card : Ace)
+jpax1 shows [Ad Ah] (One pair : Aces)
+jpax1 collected 3.04 from pot
+*** SUMMARY ***
+Total pot 3.04 | Rake 0.14
+Board: [8d Jh Qs 4s 3c]
+Seat 2: jpax1 (small blind) showed [Ad Ah] and won 3.04 with One pair : Aces
+Seat 3: pokas3 (big blind) showed [Ac Ks] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #21496293-416-1758747934 - Holdem no limit (0.01/0.02) - 2025/09/24 21:05:34 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #2 is the button
+Seat 1: HG Titan7421 (8.26)
+Seat 2: jpax1 (3.04)
+Seat 3: pokas3 (0.51)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.37)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [Td 2h]
+*** PRE-FLOP *** 
+Jerome387340 folds
+HG Titan7421 calls 0.02
+jpax1 folds
+pokas3 calls 0.01
+sabre_laser checks
+*** FLOP *** [7h Jh 9h]
+pokas3 checks
+sabre_laser checks
+HG Titan7421 checks
+*** TURN *** [7h Jh 9h][4h]
+pokas3 checks
+sabre_laser checks
+HG Titan7421 checks
+*** RIVER *** [7h Jh 9h 4h][Ad]
+pokas3 checks
+sabre_laser checks
+HG Titan7421 checks
+*** SHOW DOWN ***
+HG Titan7421 shows [2c Kd] (High card : Ace)
+pokas3 shows [3c 4c] (One pair : 4)
+sabre_laser shows [Td 2h] (Flush Jack high)
+sabre_laser collected 0.06 from pot
+*** SUMMARY ***
+Total pot 0.06 | No rake
+Board: [7h Jh 9h 4h Ad]
+Seat 1: HG Titan7421 showed [2c Kd] and lost with High card : Ace
+Seat 3: pokas3 (small blind) showed [3c 4c] and lost with One pair : 4
+Seat 4: sabre_laser (big blind) showed [Td 2h] and won 0.06 with Flush Jack high
+
+
+Winamax Poker - CashGame - HandId: #21496293-417-1758747980 - Holdem no limit (0.01/0.02) - 2025/09/24 21:06:20 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (8.24)
+Seat 3: pokas3 (0.49)
+Seat 4: sabre_laser (3.81)
+Seat 5: Jerome387340 (0.37)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+Dealt to sabre_laser [5c 9d]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+pokas3 raises 0.02 to 0.04
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.02
+*** FLOP *** [Th Ts 9h]
+HG Titan7421 checks
+pokas3 checks
+*** TURN *** [Th Ts 9h][4d]
+HG Titan7421 checks
+pokas3 checks
+*** RIVER *** [Th Ts 9h 4d][6c]
+HG Titan7421 checks
+pokas3 checks
+*** SHOW DOWN ***
+pokas3 shows [As Jd] (One pair : Tens)
+HG Titan7421 shows [6d 2s] (Two pairs : Tens and 6)
+HG Titan7421 collected 0.10 from pot
+*** SUMMARY ***
+Total pot 0.10 | Rake 0.01
+Board: [Th Ts 9h 4d 6c]
+Seat 1: HG Titan7421 showed [6d 2s] and won 0.10 with Two pairs : Tens and 6
+Seat 3: pokas3 (button) showed [As Jd] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #21496293-418-1758748019 - Holdem no limit (0.01/0.02) - 2025/09/24 21:06:59 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (8.30)
+Seat 2: anass69 (2)
+Seat 3: pokas3 (0.45)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.35)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+HG Titan7421 posts big blind 0.02
+Dealt to sabre_laser [9d Qs]
+*** PRE-FLOP *** 
+pokas3 calls 0.02
+sabre_laser folds
+Jerome387340 calls 0.01
+HG Titan7421 checks
+*** FLOP *** [Js 4s Qd]
+Jerome387340 checks
+HG Titan7421 checks
+pokas3 checks
+*** TURN *** [Js 4s Qd][4c]
+Jerome387340 checks
+HG Titan7421 checks
+pokas3 bets 0.02
+Jerome387340 folds
+HG Titan7421 folds
+pokas3 collected 0.08 from pot
+*** SUMMARY ***
+Total pot 0.08 | No rake
+Board: [Js 4s Qd 4c]
+Seat 3: pokas3 won 0.08
+
+
+Winamax Poker - CashGame - HandId: #21496293-419-1758748050 - Holdem no limit (0.01/0.02) - 2025/09/24 21:07:30 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 1: HG Titan7421 (8.28)
+Seat 2: anass69 (2)
+Seat 3: pokas3 (0.49)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.33)
+*** ANTE/BLINDS ***
+HG Titan7421 posts small blind 0.01
+anass69 posts big blind 0.02
+Dealt to sabre_laser [Qc 5d]
+*** PRE-FLOP *** 
+pokas3 raises 0.02 to 0.04
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.03
+anass69 calls 0.02
+*** FLOP *** [Tc 4c Kh]
+HG Titan7421 checks
+anass69 checks
+pokas3 checks
+*** TURN *** [Tc 4c Kh][6d]
+HG Titan7421 checks
+anass69 checks
+pokas3 checks
+*** RIVER *** [Tc 4c Kh 6d][Ah]
+HG Titan7421 bets 0.12
+anass69 folds
+pokas3 raises 0.12 to 0.24
+HG Titan7421 calls 0.12
+*** SHOW DOWN ***
+HG Titan7421 shows [Ac 8d] (One pair : Aces)
+pokas3 shows [Ad 6h] (Two pairs : Aces and 6)
+pokas3 collected 0.57 from pot
+*** SUMMARY ***
+Total pot 0.57 | Rake 0.03
+Board: [Tc 4c Kh 6d Ah]
+Seat 1: HG Titan7421 (small blind) showed [Ac 8d] and lost with One pair : Aces
+Seat 3: pokas3 showed [Ad 6h] and won 0.57 with Two pairs : Aces and 6
+
+
+Winamax Poker - CashGame - HandId: #21496293-420-1758748104 - Holdem no limit (0.01/0.02) - 2025/09/24 21:08:24 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (8)
+Seat 2: anass69 (1.96)
+Seat 3: pokas3 (0.78)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.33)
+*** ANTE/BLINDS ***
+anass69 posts small blind 0.01
+pokas3 posts big blind 0.02
+Dealt to sabre_laser [8c 6h]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.02
+anass69 raises 0.08 to 0.10
+pokas3 calls 0.08
+Jerome387340 folds
+HG Titan7421 folds
+*** FLOP *** [Jh Kc 5c]
+anass69 bets 0.24
+pokas3 folds
+anass69 collected 0.47 from pot
+*** SUMMARY ***
+Total pot 0.47 | Rake 0.01
+Board: [Jh Kc 5c]
+Seat 2: anass69 (small blind) won 0.47
+
+
+Winamax Poker - CashGame - HandId: #21496293-421-1758748143 - Holdem no limit (0.01/0.02) - 2025/09/24 21:09:03 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #2 is the button
+Seat 1: HG Titan7421 (7.98)
+Seat 2: anass69 (2.09)
+Seat 3: pokas3 (0.68)
+Seat 4: sabre_laser (3.80)
+Seat 5: Jerome387340 (0.31)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [3c 4h]
+*** PRE-FLOP *** 
+Jerome387340 folds
+HG Titan7421 calls 0.02
+anass69 calls 0.02
+pokas3 raises 0.02 to 0.04
+sabre_laser folds
+HG Titan7421 calls 0.02
+anass69 calls 0.02
+*** FLOP *** [3h 7d Kc]
+pokas3 checks
+HG Titan7421 checks
+anass69 bets 0.14
+pokas3 folds
+HG Titan7421 folds
+anass69 collected 0.27 from pot
+*** SUMMARY ***
+Total pot 0.27 | Rake 0.01
+Board: [3h 7d Kc]
+Seat 2: anass69 (button) won 0.27
+
+
+Winamax Poker - CashGame - HandId: #21496293-422-1758748194 - Holdem no limit (0.01/0.02) - 2025/09/24 21:09:54 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (7.94)
+Seat 2: anass69 (2.18)
+Seat 3: pokas3 (0.64)
+Seat 4: sabre_laser (3.78)
+Seat 5: Jerome387340 (0.31)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+Dealt to sabre_laser [6d Jc]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+anass69 raises 0.07 to 0.09
+pokas3 folds
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.07
+*** FLOP *** [2c Tc 5s]
+HG Titan7421 bets 0.21
+anass69 calls 0.21
+*** TURN *** [2c Tc 5s][5c]
+HG Titan7421 checks
+anass69 checks
+*** RIVER *** [2c Tc 5s 5c][Kd]
+HG Titan7421 checks
+anass69 checks
+*** SHOW DOWN ***
+anass69 shows [3s 3c] (Two pairs : 5 and 3)
+HG Titan7421 shows [Td Ac] (Two pairs : Tens and 5)
+HG Titan7421 collected 0.59 from pot
+*** SUMMARY ***
+Total pot 0.59 | Rake 0.04
+Board: [2c Tc 5s 5c Kd]
+Seat 1: HG Titan7421 showed [Td Ac] and won 0.59 with Two pairs : Tens and 5
+Seat 2: anass69 showed [3s 3c] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - CashGame - HandId: #21496293-423-1758748240 - Holdem no limit (0.01/0.02) - 2025/09/24 21:10:40 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (8.23)
+Seat 2: anass69 (1.88)
+Seat 3: pokas3 (0.64)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.29)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+HG Titan7421 posts big blind 0.02
+Dealt to sabre_laser [4d Th]
+*** PRE-FLOP *** 
+anass69 calls 0.02
+pokas3 calls 0.02
+sabre_laser folds
+Jerome387340 calls 0.01
+HG Titan7421 checks
+*** FLOP *** [2s 3h 8d]
+Jerome387340 checks
+HG Titan7421 checks
+anass69 checks
+pokas3 checks
+*** TURN *** [2s 3h 8d][Kc]
+Jerome387340 checks
+HG Titan7421 checks
+anass69 checks
+pokas3 checks
+*** RIVER *** [2s 3h 8d Kc][7d]
+Jerome387340 checks
+HG Titan7421 checks
+anass69 checks
+pokas3 checks
+*** SHOW DOWN ***
+HG Titan7421 shows [Ac 5s] (High card : Ace)
+anass69 shows [6c Td] (High card : King)
+Jerome387340 shows [Qc Ad] (High card : Ace)
+pokas3 shows [2c As] (One pair : 2)
+pokas3 collected 0.08 from pot
+*** SUMMARY ***
+Total pot 0.08 | No rake
+Board: [2s 3h 8d Kc 7d]
+Seat 1: HG Titan7421 (big blind) showed [Ac 5s] and lost with High card : Ace
+Seat 2: anass69 showed [6c Td] and lost with High card : King
+Seat 3: pokas3 showed [2c As] and won 0.08 with One pair : 2
+Seat 5: Jerome387340 (small blind) showed [Qc Ad] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #21496293-424-1758748301 - Holdem no limit (0.01/0.02) - 2025/09/24 21:11:41 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 1: HG Titan7421 (8.21)
+Seat 2: anass69 (1.86)
+Seat 3: pokas3 (0.70)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.27)
+*** ANTE/BLINDS ***
+HG Titan7421 posts small blind 0.01
+anass69 posts big blind 0.02
+Dealt to sabre_laser [4c 7s]
+*** PRE-FLOP *** 
+pokas3 folds
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.01
+anass69 checks
+*** FLOP *** [Ah 6s 8h]
+HG Titan7421 checks
+anass69 checks
+*** TURN *** [Ah 6s 8h][Td]
+HG Titan7421 checks
+anass69 bets 0.04
+HG Titan7421 calls 0.04
+*** RIVER *** [Ah 6s 8h Td][3s]
+HG Titan7421 checks
+anass69 bets 1.80 and is all-in
+HG Titan7421 folds
+anass69 collected 1.91 from pot
+*** SUMMARY ***
+Total pot 1.91 | Rake 0.01
+Board: [Ah 6s 8h Td 3s]
+Seat 2: anass69 (big blind) won 1.91
+
+
+Winamax Poker - CashGame - HandId: #21496293-425-1758748337 - Holdem no limit (0.01/0.02) - 2025/09/24 21:12:17 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (8.15)
+Seat 2: anass69 (1.91)
+Seat 3: pokas3 (0.70)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.27)
+*** ANTE/BLINDS ***
+anass69 posts small blind 0.01
+pokas3 posts big blind 0.02
+Dealt to sabre_laser [7s 4c]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.02
+anass69 calls 0.01
+pokas3 checks
+*** FLOP *** [3s 8c Kd]
+anass69 checks
+pokas3 checks
+Jerome387340 checks
+HG Titan7421 bets 0.08
+anass69 folds
+pokas3 folds
+Jerome387340 folds
+HG Titan7421 collected 0.16 from pot
+*** SUMMARY ***
+Total pot 0.16 | No rake
+Board: [3s 8c Kd]
+Seat 1: HG Titan7421 (button) won 0.16
+
+
+Winamax Poker - CashGame - HandId: #21496293-426-1758748375 - Holdem no limit (0.01/0.02) - 2025/09/24 21:12:55 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #2 is the button
+Seat 1: HG Titan7421 (8.21)
+Seat 2: anass69 (1.89)
+Seat 3: pokas3 (0.68)
+Seat 4: sabre_laser (3.77)
+Seat 5: Jerome387340 (0.25)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [Qs Js]
+*** PRE-FLOP *** 
+Jerome387340 calls 0.02
+HG Titan7421 calls 0.02
+anass69 calls 0.02
+pokas3 calls 0.01
+sabre_laser raises 0.13 to 0.15
+Jerome387340 folds
+HG Titan7421 folds
+anass69 calls 0.13
+pokas3 calls 0.13
+*** FLOP *** [2h 6c 3c]
+pokas3 checks
+sabre_laser bets 0.17
+anass69 calls 0.17
+pokas3 calls 0.17
+*** TURN *** [2h 6c 3c][6h]
+pokas3 checks
+sabre_laser checks
+anass69 checks
+*** RIVER *** [2h 6c 3c 6h][Tc]
+pokas3 bets 0.36 and is all-in
+sabre_laser folds
+anass69 folds
+pokas3 collected 1.30 from pot
+*** SUMMARY ***
+Total pot 1.30 | Rake 0.06
+Board: [2h 6c 3c 6h Tc]
+Seat 3: pokas3 (small blind) won 1.30
+
+
+Winamax Poker - CashGame - HandId: #21496293-427-1758748433 - Holdem no limit (0.01/0.02) - 2025/09/24 21:13:53 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (8.19)
+Seat 2: anass69 (1.57)
+Seat 3: pokas3 (1.81)
+Seat 4: sabre_laser (3.45)
+Seat 5: Jerome387340 (0.23)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+Dealt to sabre_laser [6s 3s]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+anass69 raises 0.07 to 0.09
+pokas3 folds
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.07
+*** FLOP *** [9c Qc 2h]
+HG Titan7421 checks
+anass69 bets 0.21
+HG Titan7421 raises 0.63 to 0.84
+anass69 calls 0.63
+*** TURN *** [9c Qc 2h][5s]
+HG Titan7421 bets 1.89
+anass69 calls 0.64 and is all-in
+*** RIVER *** [9c Qc 2h 5s][As]
+*** SHOW DOWN ***
+anass69 shows [9d Kd] (One pair : 9)
+HG Titan7421 shows [2c 2s] (Trips of 2)
+HG Titan7421 collected 4.24 from pot
+*** SUMMARY ***
+Total pot 4.24 | Rake 0.18
+Board: [9c Qc 2h 5s As]
+Seat 1: HG Titan7421 showed [2c 2s] and won 4.24 with Trips of 2
+Seat 2: anass69 showed [9d Kd] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #21496293-428-1758748475 - Holdem no limit (0.01/0.02) - 2025/09/24 21:14:35 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (9.61)
+Seat 2: anass69 (2)
+Seat 3: pokas3 (1.81)
+Seat 4: sabre_laser (3.44)
+Seat 5: Jerome387340 (0.21)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+HG Titan7421 posts big blind 0.02
+Dealt to sabre_laser [3d Kc]
+*** PRE-FLOP *** 
+anass69 raises 0.05 to 0.07
+pokas3 raises 0.14 to 0.21
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 folds
+anass69 calls 0.14
+*** FLOP *** [6h Qd 9h]
+anass69 checks
+pokas3 checks
+*** TURN *** [6h Qd 9h][6d]
+anass69 bets 0.45
+pokas3 calls 0.45
+*** RIVER *** [6h Qd 9h 6d][Th]
+anass69 bets 1.34 and is all-in
+pokas3 folds
+anass69 collected 2.61 from pot
+*** SUMMARY ***
+Total pot 2.61 | Rake 0.08
+Board: [6h Qd 9h 6d Th]
+Seat 2: anass69 won 2.61
+
+
+Winamax Poker - CashGame - HandId: #21496293-429-1758748516 - Holdem no limit (0.01/0.02) - 2025/09/24 21:15:16 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 1: HG Titan7421 (9.59)
+Seat 2: anass69 (2.61)
+Seat 3: pokas3 (1.15)
+Seat 4: sabre_laser (3.44)
+Seat 5: Jerome387340 (0.20)
+*** ANTE/BLINDS ***
+HG Titan7421 posts small blind 0.01
+anass69 posts big blind 0.02
+Dealt to sabre_laser [4s 8h]
+*** PRE-FLOP *** 
+pokas3 raises 0.02 to 0.04
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.03
+anass69 calls 0.02
+*** FLOP *** [Kc Ad 3d]
+HG Titan7421 checks
+anass69 checks
+pokas3 checks
+*** TURN *** [Kc Ad 3d][Js]
+HG Titan7421 checks
+anass69 checks
+pokas3 bets 0.06
+HG Titan7421 folds
+anass69 calls 0.06
+*** RIVER *** [Kc Ad 3d Js][Qh]
+anass69 checks
+pokas3 checks
+*** SHOW DOWN ***
+anass69 shows [5s 4c] (High card : Ace)
+pokas3 shows [Ac Jh] (Two pairs : Aces and Jacks)
+pokas3 collected 0.23 from pot
+*** SUMMARY ***
+Total pot 0.23 | Rake 0.01
+Board: [Kc Ad 3d Js Qh]
+Seat 2: anass69 (big blind) showed [5s 4c] and lost with High card : Ace
+Seat 3: pokas3 showed [Ac Jh] and won 0.23 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - CashGame - HandId: #21496293-430-1758748550 - Holdem no limit (0.01/0.02) - 2025/09/24 21:15:50 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #1 is the button
+Seat 1: HG Titan7421 (9.55)
+Seat 2: anass69 (2.51)
+Seat 3: pokas3 (1.28)
+Seat 4: sabre_laser (3.44)
+Seat 5: Jerome387340 (0.20)
+*** ANTE/BLINDS ***
+anass69 posts small blind 0.01
+pokas3 posts big blind 0.02
+Dealt to sabre_laser [8s 2s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 folds
+HG Titan7421 calls 0.02
+anass69 calls 0.01
+pokas3 checks
+*** FLOP *** [Jh Ad Qc]
+anass69 checks
+pokas3 checks
+HG Titan7421 checks
+*** TURN *** [Jh Ad Qc][Jd]
+anass69 bets 0.06
+pokas3 calls 0.06
+HG Titan7421 folds
+*** RIVER *** [Jh Ad Qc Jd][Ac]
+anass69 bets 0.18
+pokas3 folds
+anass69 collected 0.35 from pot
+*** SUMMARY ***
+Total pot 0.35 | Rake 0.01
+Board: [Jh Ad Qc Jd Ac]
+Seat 2: anass69 (small blind) won 0.35
+
+
+Winamax Poker - CashGame - HandId: #21496293-431-1758748579 - Holdem no limit (0.01/0.02) - 2025/09/24 21:16:19 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #2 is the button
+Seat 1: HG Titan7421 (9.53)
+Seat 2: anass69 (2.60)
+Seat 3: pokas3 (1.20)
+Seat 4: sabre_laser (3.44)
+Seat 5: Jerome387340 (0.20)
+*** ANTE/BLINDS ***
+pokas3 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [Qh 5d]
+*** PRE-FLOP *** 
+Jerome387340 folds
+HG Titan7421 calls 0.02
+anass69 raises 0.07 to 0.09
+pokas3 calls 0.08
+sabre_laser folds
+HG Titan7421 calls 0.07
+*** FLOP *** [4c 7c 3h]
+pokas3 checks
+HG Titan7421 checks
+anass69 checks
+*** TURN *** [4c 7c 3h][8s]
+pokas3 checks
+HG Titan7421 checks
+anass69 checks
+*** RIVER *** [4c 7c 3h 8s][As]
+pokas3 checks
+HG Titan7421 checks
+anass69 bets 0.29
+pokas3 folds
+HG Titan7421 folds
+anass69 collected 0.56 from pot
+*** SUMMARY ***
+Total pot 0.56 | Rake 0.02
+Board: [4c 7c 3h 8s As]
+Seat 2: anass69 (button) won 0.56
+
+
+Winamax Poker - CashGame - HandId: #21496293-432-1758748635 - Holdem no limit (0.01/0.02) - 2025/09/24 21:17:15 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #3 is the button
+Seat 1: HG Titan7421 (9.44)
+Seat 2: anass69 (2.78)
+Seat 3: pokas3 (1.11)
+Seat 4: sabre_laser (3.42)
+Seat 5: Jerome387340 (0.20)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+Dealt to sabre_laser [8c Tc]
+*** PRE-FLOP *** 
+HG Titan7421 calls 0.02
+anass69 calls 0.02
+pokas3 calls 0.02
+sabre_laser raises 0.14 to 0.16
+Jerome387340 folds
+HG Titan7421 folds
+anass69 calls 0.14
+pokas3 calls 0.14
+*** FLOP *** [Ac 6s 4s]
+sabre_laser bets 3.26 and is all-in
+anass69 calls 2.62 and is all-in
+pokas3 calls 0.95 and is all-in
+*** TURN *** [Ac 6s 4s][8d]
+*** RIVER *** [Ac 6s 4s 8d][Ad]
+*** SHOW DOWN ***
+pokas3 shows [2d 5c] (One pair : Aces)
+anass69 shows [5h 7d] (Straight 8 high)
+sabre_laser shows [8c Tc] (Two pairs : Aces and 8)
+sabre_laser collected 0.64 from side pot 1
+anass69 collected 6.32 from main pot
+*** SUMMARY ***
+Total pot 6.96 | Rake 0.39
+Board: [Ac 6s 4s 8d Ad]
+Seat 2: anass69 showed [5h 7d] and won 6.32 with Straight 8 high
+Seat 3: pokas3 (button) showed [2d 5c] and lost with One pair : Aces
+Seat 4: sabre_laser (small blind) showed [8c Tc] and won 0.64 with Two pairs : Aces and 8
+
+
+Winamax Poker - CashGame - HandId: #21496293-433-1758748669 - Holdem no limit (0.01/0.02) - 2025/09/24 21:17:49 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: HG Titan7421 (9.42)
+Seat 2: anass69 (6.32)
+Seat 4: sabre_laser (0.64)
+Seat 5: Jerome387340 (0.18)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+anass69 posts big blind 0.02
+Dealt to sabre_laser [Jd Th]
+*** PRE-FLOP *** 
+sabre_laser raises 0.04 to 0.06
+Jerome387340 folds
+anass69 calls 0.04
+*** FLOP *** [Kd 6s Ts]
+anass69 checks
+sabre_laser bets 0.08
+anass69 calls 0.08
+*** TURN *** [Kd 6s Ts][Qd]
+anass69 checks
+sabre_laser checks
+*** RIVER *** [Kd 6s Ts Qd][7c]
+anass69 checks
+sabre_laser bets 0.14
+anass69 folds
+sabre_laser collected 0.41 from pot
+*** SUMMARY ***
+Total pot 0.41 | Rake 0.02
+Board: [Kd 6s Ts Qd 7c]
+Seat 4: sabre_laser (button) won 0.41
+
+
+Winamax Poker - CashGame - HandId: #21496293-434-1758748706 - Holdem no limit (0.01/0.02) - 2025/09/24 21:18:26 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #5 is the button
+Seat 2: anass69 (6.18)
+Seat 4: sabre_laser (0.77)
+Seat 5: Jerome387340 (0.17)
+*** ANTE/BLINDS ***
+anass69 posts small blind 0.01
+sabre_laser posts big blind 0.02
+Dealt to sabre_laser [Kd 9d]
+*** PRE-FLOP *** 
+Jerome387340 folds
+anass69 calls 0.01
+sabre_laser checks
+*** FLOP *** [5s Qh 2c]
+anass69 checks
+sabre_laser checks
+*** TURN *** [5s Qh 2c][Ac]
+anass69 checks
+sabre_laser bets 0.04
+anass69 calls 0.04
+*** RIVER *** [5s Qh 2c Ac][9c]
+anass69 checks
+sabre_laser checks
+*** SHOW DOWN ***
+anass69 shows [7h 3h] (High card : Ace)
+sabre_laser shows [Kd 9d] (One pair : 9)
+sabre_laser collected 0.11 from pot
+*** SUMMARY ***
+Total pot 0.11 | Rake 0.01
+Board: [5s Qh 2c Ac 9c]
+Seat 2: anass69 (small blind) showed [7h 3h] and lost with High card : Ace
+Seat 4: sabre_laser (big blind) showed [Kd 9d] and won 0.11 with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #21496293-435-1758748751 - Holdem no limit (0.01/0.02) - 2025/09/24 21:19:11 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #2 is the button
+Seat 2: anass69 (6.12)
+Seat 4: sabre_laser (0.82)
+Seat 5: Jerome387340 (0.17)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.01
+Jerome387340 posts big blind 0.02
+Dealt to sabre_laser [3h 9c]
+*** PRE-FLOP *** 
+anass69 raises 0.05 to 0.07
+sabre_laser folds
+Jerome387340 folds
+anass69 collected 0.10 from pot
+*** SUMMARY ***
+Total pot 0.10 | No rake
+Seat 2: anass69 (button) won 0.10
+
+
+Winamax Poker - CashGame - HandId: #21496293-436-1758748771 - Holdem no limit (0.01/0.02) - 2025/09/24 21:19:31 UTC
+Table: 'Wichita 09' 5-max (play money) Seat #4 is the button
+Seat 1: chirulillo (0)
+Seat 2: anass69 (6.15)
+Seat 4: sabre_laser (0.81)
+Seat 5: Jerome387340 (0.15)
+*** ANTE/BLINDS ***
+Jerome387340 posts small blind 0.01
+anass69 posts big blind 0.02
+Dealt to sabre_laser [2d 7s]
+*** PRE-FLOP *** 
+sabre_laser folds
+Jerome387340 calls 0.01
+anass69 checks
+*** FLOP *** [Ad Th Jh]
+Jerome387340 checks
+anass69 bets 0.04
+Jerome387340 folds
+anass69 collected 0.08 from pot
+*** SUMMARY ***
+Total pot 0.08 | No rake
+Board: [Ad Th Jh]
+Seat 2: anass69 (big blind) won 0.08
+
+

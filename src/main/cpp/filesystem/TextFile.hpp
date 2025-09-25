@@ -16,7 +16,7 @@ private:
 
 public:
   explicit TextFile(const std::filesystem::path& file);
-  TextFile(auto file) = delete; // use only std::filesystem::path
+  explicit TextFile(auto file) = delete; // use only std::filesystem::path
 
   TextFile(const TextFile&) = delete;
   TextFile(TextFile&&) = delete;

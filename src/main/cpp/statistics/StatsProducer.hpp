@@ -18,7 +18,7 @@ public:
     std::chrono::milliseconds reloadPeriod; std::string_view site;
     std::string_view tableWindowName; const Database& db;
   };
-  StatsProducer(const StatsProducerArgs& args);
+  explicit StatsProducer(const StatsProducerArgs& args);
   StatsProducer(const StatsProducer&) = delete;
   StatsProducer(StatsProducer&&) = delete;
   StatsProducer& operator=(const StatsProducer&) = delete;
@@ -27,7 +27,7 @@ public:
   /**
    * Watches table data. Each time a new one is created put it in @statsQueue.
    */
-  void start(ThreadSafeQueue<TableStatistics>& statsQueue);
-  void stop();
+  void start(ThreadSafeQueue<TableStatistics>& statsQueue) const;
+  void stop() const;
   [[nodiscard]] bool isStopped() const noexcept;
 }; // class StatsProducer

@@ -1,5 +1,6 @@
 #include "filesystem/FileUtils.hpp"
 #include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, std::filesystem::path, std::string, toString, count
+
 #include "language/Validator.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp"
@@ -25,38 +26,41 @@ struct [[nodiscard]] FileWatcher::Implementation final {
         file.string(), file.parent_path().string(), m_errorCode.message());
     }
   }
+
   Implementation(int, auto) = delete; // use only path
 };
 
 // look at the file, take its last modification date, if it has changed notify
 // the listener through the callback
-static inline void getLatestUpdatedFile(const fs::path& file,
-                                        fs::file_time_type& lastModified, auto&& fileHasChangedCb) {
+static void getLatestUpdatedFile(const fs::path& file,
+                                 fs::file_time_type& lastModified, auto&& fileHasChangedCb) {
   std::error_code ec;
 
-  if (const auto & lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
+  if (const auto& lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
     if (lastModified != lasWriteTime) {
       lastModified = lasWriteTime;
       LOG.info<"The file\n{}\nhas changed, notify listener">(file.string());
       std::forward<decltype(fileHasChangedCb)>(fileHasChangedCb)(file);
     }
-  } else [[unlikely]] {
+  }
+  else [[unlikely]] {
     LOG.error<"Error checking if the file {} has changed: {}">(file.string(), ec.message());
   }
 }
+
 // forces the use of fs::path
-static inline void getLatestUpdatedFile(auto, fs::file_time_type&, auto&&) = delete;
+static void getLatestUpdatedFile(auto, fs::file_time_type&, auto&&) = delete;
 
 FileWatcher::FileWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& file)
-  : m_pImpl{ std::make_unique<FileWatcher::Implementation>(reloadPeriod, file) } {
+  : m_pImpl { std::make_unique<FileWatcher::Implementation>(reloadPeriod, file) } {
   validation::require(phud::filesystem::isFile(m_pImpl->m_file),
-             "the file provided to FileWatcher() is not valid.");
+                      "the file provided to FileWatcher() is not valid.");
   LOG.info<"will watch the file {} every {}ms">(m_pImpl->m_file.string(), reloadPeriod.count());
 }
 
 FileWatcher::~FileWatcher() = default;
 
-void FileWatcher::start(std::function<void(const fs::path&)> fileHasChangedCb) {
+void FileWatcher::start(const std::function<void(const fs::path&)>& fileHasChangedCb) const {
   validation::requireNotNull(fileHasChangedCb, "null callback in FileWatcher::start()");
   m_pImpl->m_task.start([this, fileHasChangedCb]() {
     getLatestUpdatedFile(m_pImpl->m_file, m_pImpl->m_lastModifDate, fileHasChangedCb);
@@ -64,6 +68,7 @@ void FileWatcher::start(std::function<void(const fs::path&)> fileHasChangedCb) {
   });
 }
 
-void FileWatcher::stop() { m_pImpl->m_task.stop(); } // TODO : proposer de rendre stop() noexcept chez stlab
+void FileWatcher::stop() const { m_pImpl->m_task.stop(); } // TODO : proposer de rendre stop() noexcept chez stlab
 
-/*[[nodiscard]]*/ bool FileWatcher::isStopped() const noexcept { return m_pImpl->m_task.isStopped(); }
+/*[[nodiscard]]*/
+bool FileWatcher::isStopped() const noexcept { return m_pImpl->m_task.isStopped(); }

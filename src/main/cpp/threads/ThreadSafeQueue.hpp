@@ -40,9 +40,9 @@ public:
    * @returns true If the queue contains a value
    */
   [[nodiscard]] bool tryPop(T& value) {
-    const std::lock_guard<std::mutex> headLock(m_pHeadMutex);
+    const std::lock_guard headLock(m_pHeadMutex);
     {
-      const std::lock_guard<std::mutex> tailLock(m_pTailMutex);
+      const std::lock_guard tailLock(m_pTailMutex);
       if (m_pHead.get() == m_pTail) {
         // the queue is empty
         return false;
@@ -57,19 +57,19 @@ public:
    * Wait forever until there is a value to pop, then pop it.
    */
   void waitPop(T& value) {
-    std::unique_lock<std::mutex> headLock(m_pHeadMutex);
-    
+    std::unique_lock headLock(m_pHeadMutex);
+
     // Use simple while loop to avoid complex lock ordering in predicate
     while (true) {
       {
-        std::lock_guard<std::mutex> tailLock(m_pTailMutex);
+        std::lock_guard tailLock(m_pTailMutex);
         if (m_pHead.get() != m_pTail) {
           break; // Data available
         }
       }
       m_condition.wait(headLock);
     }
-    
+
     value = std::move(*m_pHead->data);
     popHead().reset();
   }
@@ -79,9 +79,9 @@ public:
    */
   void push(T newValue) {
     auto newData { std::make_shared<T>(std::move(newValue)) };
-    auto pNode { std::make_unique<Node>() };
     {
-      const std::lock_guard<std::mutex> m_pTailLock(m_pTailMutex);
+      auto pNode { std::make_unique<Node>() };
+      const std::lock_guard m_pTailLock(m_pTailMutex);
       m_pTail->data = newData;
       Node* const newTail { pNode.get() };
       m_pTail->next = std::move(pNode);
@@ -92,8 +92,8 @@ public:
 
   [[nodiscard]] bool isEmpty() {
     // Acquire mutexes in consistent order: tail first, then head (prevents deadlock)
-    const std::lock_guard<std::mutex> tailLock(m_pTailMutex);
-    const std::lock_guard<std::mutex> headLock(m_pHeadMutex);
-    return (m_pHead.get() == m_pTail);
+    const std::lock_guard tailLock(m_pTailMutex);
+    const std::lock_guard headLock(m_pHeadMutex);
+    return m_pHead.get() == m_pTail;
   }
 }; // class ThreadSafeQueue

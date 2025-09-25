@@ -25,8 +25,8 @@ public:
    * Call stop() or destroy to stop the watching thread.
    * @param fileHasChangedCb called each time a file changes
    */
-  void start(std::function<void(const std::filesystem::path&)> fileHasChangedCb);
+  void start(const std::function<void(const std::filesystem::path&)>& fileHasChangedCb) const;
 
-  void stop();
+  void stop() const;
   [[nodiscard]] bool isStopped() const noexcept;
 }; // class DirWatcher

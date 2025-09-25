@@ -19,7 +19,6 @@
 #include <print>
 #include <sstream> // std::ostringstream
 
-
 // TODO: aligner les champs des classes en mémoire (padding)
 // TODO: inclure le siteName dans les id
 // TODO: tester toutes les sauvegardes en base
@@ -44,7 +43,7 @@
 
 static Logger LOG { CURRENT_FILE_NAME };
 
-static inline void logErrorAndAbort(int signum) {
+static void logErrorAndAbort(int signum) {
   std::signal(signum, SIG_DFL);
   std::ostringstream oss;
   oss << boost::stacktrace::stacktrace();
@@ -62,12 +61,12 @@ struct [[nodiscard]] LoggingConfig final {
   ~LoggingConfig() { Logger::shutdownLogging(); }
 };
 
-
 #if defined(_WIN32)
 
 class [[nodiscard]] ConditionalConsole final {
 private:
-  bool m_hasConsole = false;
+  bool m_hasConsole { false };
+
 public:
   ConditionalConsole() {
     // if the app was launched in a console, do not create a new one
@@ -83,26 +82,26 @@ public:
       std::cin.clear();
       std::print("\n");
     }
-  }    
+  }
+
   ~ConditionalConsole() {
     if (m_hasConsole) {
       std::print("\n");
       FreeConsole();
     }
-  }  
-};
-
+  }
+}; // class ConditionalConsole
 
 /*
  * Under Windows, graphical user interfaces use 'WinMain' as a default entry point.
- * Note : main or WinMain functions can't be static or inline or [[nodiscard]]
+ * Note : main or WinMain functions can't be static or [[nodiscard]]
  */
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
   const auto& argc { __argc };
   const auto& argv { __argv };
   ConditionalConsole attachToParentConsoleIfNeeded;
 #  else
-int main(int argc, const char* const* const argv) {
+  int main(int argc, const char* const* const argv) {
 #endif  // _WIN32
   std::setlocale(LC_ALL, "en_US.utf8");
   std::signal(SIGSEGV, logErrorAndAbort);
@@ -113,7 +112,7 @@ int main(int argc, const char* const* const argv) {
   auto nbErr { 0 };
 
   try {
-    auto args { std::span(argv, limits::toSizeT(argc)) };
+    const auto args { std::span(argv, limits::toSizeT(argc)) };
     const auto& [oHistoDir, loggingLevel] { ProgramConfiguration::readConfiguration(args) };
     Logger::setLoggingLevel(loggingLevel);
     Database db(ProgramInfos::DATABASE_NAME);
@@ -134,22 +133,27 @@ int main(int argc, const char* const* const argv) {
     Gui gui(ts, hs);
     nbErr = gui.run();
     LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
-  } catch (const UserAskedForHelpException& e) {
+  }
+  catch (const UserAskedForHelpException& e) {
     // if user asks for help, he passed -h in the command line
     std::print("{}\n", e.what());
-  } catch (const PhudException& e) {
+  }
+  catch (const PhudException& e) {
     LOG.error(e.what());
     std::print(stderr, "{}\n", e.what());
     ++nbErr;
-  } catch (const std::logic_error& e) {
+  }
+  catch (const std::logic_error& e) {
     LOG.error<"Unexpected exception: {}">(e.what());
     std::print(stderr, "{}\n", e.what());
     ++nbErr;
-  } catch (const std::exception& e) {
+  }
+  catch (const std::exception& e) {
     LOG.error<"Unexpected exception: {}">(e.what());
     std::print(stderr, "{}\n", e.what());
     ++nbErr;
-  } catch (...) {
+  }
+  catch (...) {
     LOG.error<"Unknown exception occurred.">();
     std::print(stderr, "Unknown exception occurred.\n");
     ++nbErr;

@@ -14,7 +14,7 @@ private:
   /**
    * builds an result.
    */
-  explicit constexpr ErrOrRes(RESULT r) : m_err {}, m_res { r } {}
+  explicit constexpr ErrOrRes(RESULT r) : m_res { r } {}
   /**
    * builds an error message. we use std::in_place_t to disambiguate in case
    * RESULT is constructible from std::string_view

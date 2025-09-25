@@ -1,12 +1,14 @@
 #include "system/Time.hpp"
 #include <spdlog/fmt/bundled/format.h> // fmt::format
-#include <ctime> // std::tm
 #include <iomanip> // std::get_time
 #include <sstream> // std::istringstream, std::ostringstream
 #include <utility> // std::exchange
 
-[[nodiscard]] static inline std::tm toTm(const Time::Args& args) {
-  std::tm when {.tm_sec = 0, .tm_min = 0, .tm_hour = 0, .tm_mday = 0, .tm_mon = 0, .tm_year = 0, .tm_wday = 0, .tm_yday = 0, .tm_isdst = 0 };
+[[nodiscard]] static std::tm toTm(const Time::Args& args) {
+  std::tm when {
+    .tm_sec = 0, .tm_min = 0, .tm_hour = 0, .tm_mday = 0, .tm_mon = 0, .tm_year = 0, .tm_wday = 0, .tm_yday = 0,
+    .tm_isdst = 0
+  };
   std::istringstream iss { args.strTime.data() };
   iss >> std::get_time(&when, args.format.data());
 
@@ -45,14 +47,15 @@ std::string Time::toSqliteDate() const {
 }
 
 bool Time::operator==(const Time& other) const noexcept {
-  return this == &other ? true :
-         m_pTimeData->tm_sec == other.m_pTimeData->tm_sec
-         and m_pTimeData->tm_min == other.m_pTimeData->tm_min
-         and m_pTimeData->tm_hour == other.m_pTimeData->tm_hour
-         and m_pTimeData->tm_mday == other.m_pTimeData->tm_mday
-         and m_pTimeData->tm_mon == other.m_pTimeData->tm_mon
-         and m_pTimeData->tm_year == other.m_pTimeData->tm_year
-         and m_pTimeData->tm_wday == other.m_pTimeData->tm_wday
-         and m_pTimeData->tm_yday == other.m_pTimeData->tm_yday
-         and m_pTimeData->tm_isdst == other.m_pTimeData->tm_isdst;
+  return this == &other
+           ? true
+           : m_pTimeData->tm_sec == other.m_pTimeData->tm_sec
+           and m_pTimeData->tm_min == other.m_pTimeData->tm_min
+           and m_pTimeData->tm_hour == other.m_pTimeData->tm_hour
+           and m_pTimeData->tm_mday == other.m_pTimeData->tm_mday
+           and m_pTimeData->tm_mon == other.m_pTimeData->tm_mon
+           and m_pTimeData->tm_year == other.m_pTimeData->tm_year
+           and m_pTimeData->tm_wday == other.m_pTimeData->tm_wday
+           and m_pTimeData->tm_yday == other.m_pTimeData->tm_yday
+           and m_pTimeData->tm_isdst == other.m_pTimeData->tm_isdst;
 }

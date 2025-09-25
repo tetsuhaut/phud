@@ -50,7 +50,7 @@ public:
     const Time& startDate;
   };
 
-  Game(const Params& args);
+  explicit Game(const Params& args);
   Game(const Game&) = delete;
   Game(Game&&) = delete;
   Game& operator=(const Game&) = delete;
@@ -95,7 +95,7 @@ public:
   Tournament& operator=(const Tournament&) = delete;
   Tournament& operator=(Tournament&&) = delete;
   ~Tournament();
-  void addHand(std::unique_ptr<Hand> hand);
+  void addHand(std::unique_ptr<Hand> hand) const;
   [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_game->getName(); }
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
   [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }
@@ -136,7 +136,7 @@ public:
   CashGame& operator=(const CashGame&) = delete;
   CashGame& operator=(CashGame&&) = delete;
   ~CashGame();
-  void addHand(std::unique_ptr<Hand> hand);
+  void addHand(std::unique_ptr<Hand> hand) const;
   [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_game->getName(); }
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
   [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }

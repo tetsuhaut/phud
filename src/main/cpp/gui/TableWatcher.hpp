@@ -11,7 +11,7 @@ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 public:
-  using TablesChangedCallback = std::function<void(const std::span<const std::string> tableNames)>;
+  using TablesChangedCallback = std::function<void(std::span<const std::string> tableNames)>;
 
   explicit TableWatcher(const TablesChangedCallback& onTablesChanged);
   TableWatcher(const TableWatcher&) = delete;

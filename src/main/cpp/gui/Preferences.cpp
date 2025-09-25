@@ -21,7 +21,7 @@ constexpr int MAX_PATH_LENGTH { 260 };
 struct [[nodiscard]] Preferences::Implementation final {
   Fl_Preferences m_preferences;
 
-  Implementation(bool isInMemory)
+  explicit Implementation(bool isInMemory)
   // see https://www.fltk.org/doc-1.4/classFl__Preferences.html#a0947b73d778ca66b9fbb97b75bbbd7cb
     : m_preferences(isInMemory ? Fl_Preferences::MEMORY : Fl_Preferences::USER_L,
                     ProgramInfos::APP_SHORT_NAME.data(),

@@ -23,7 +23,7 @@ BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitLambdaWithParametersShouldWork) {
 }
 
 BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitLambdaWithCapturedParametersShouldWork) {
-  int d { 3 };
+  auto d { 3 };
   auto futureResult { ThreadPool::submit([d]() { return d / 2; }) };
   stlab::await(stlab::copy(futureResult));
   BOOST_REQUIRE(futureResult.is_ready());

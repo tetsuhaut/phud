@@ -7,14 +7,14 @@
 
 
 namespace {
-  [[nodiscard]] static constexpr std::pair<double, double> mkPair(double x, double y) noexcept {
+  [[nodiscard]] constexpr std::pair<double, double> mkPair(double x, double y) noexcept {
     return std::make_pair(x, y);
   }
-  static constexpr auto ZERO { mkPair(0, 0) };
+  constexpr auto ZERO { mkPair(0, 0) };
 
   // TODO: mauvaises positions pour 3
   /* The position of seats, if the window size is 1 x 1 */
-  static constexpr auto NB_SEATS_TO_COEFF {
+  constexpr auto NB_SEATS_TO_COEFF {
     frozen::make_unordered_map<Seat, std::array<std::pair<double, double>, TableConstants::MAX_SEATS>>({
       { Seat::seatTwo,  { mkPair(0.5, 0.1),        mkPair(0.5, 0.9),      ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO } },
       { Seat::seatThree,  { mkPair(0.3333, 0.3333), mkPair(0.6666, 0.3333), mkPair(0.5, 0.9),      ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO } },

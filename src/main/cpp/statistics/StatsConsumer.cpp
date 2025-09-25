@@ -17,17 +17,18 @@ struct [[nodiscard]] StatsConsumer::Implementation final {
 };
 
 StatsConsumer::StatsConsumer(std::chrono::milliseconds reloadPeriod,
-                             ThreadSafeQueue<TableStatistics>& statsQueue)
-  : m_pImpl { std::make_unique<Implementation>(reloadPeriod, statsQueue) } {}
+                             ThreadSafeQueue<TableStatistics>& stats)
+  : m_pImpl { std::make_unique<Implementation>(reloadPeriod, stats) } {}
 
 StatsConsumer::~StatsConsumer() = default;
 
-void StatsConsumer::consumeAndNotify(std::function<void(TableStatistics&)> observerCb) {
+void StatsConsumer::consumeAndNotify(const std::function<void(TableStatistics&)>& observerCb) const {
   m_pImpl->m_task.start([this, observerCb]() {
-    if (TableStatistics stats ; m_pImpl->m_statsQueue.tryPop(stats)) {
+    if (TableStatistics stats; m_pImpl->m_statsQueue.tryPop(stats)) {
       if (Seat::seatUnknown == stats.getMaxSeat()) {
         LOG.debug<"Got no stats from db.">();
-      } else {
+      }
+      else {
         LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
         observerCb(stats);
       }
@@ -37,4 +38,4 @@ void StatsConsumer::consumeAndNotify(std::function<void(TableStatistics&)> obser
   });
 }
 
-void StatsConsumer::stop() { m_pImpl->m_task.stop(); }
+void StatsConsumer::stop() const { m_pImpl->m_task.stop(); }

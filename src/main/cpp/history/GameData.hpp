@@ -23,11 +23,10 @@ struct [[nodiscard]] GameData final {
     const Time& startDate;
   };
 
-  GameData(const Args& args) noexcept
+  explicit GameData(const Args& args) noexcept
     : m_nbMaxSeats { args.nbMaxSeats },
-  m_smallBlind { args.smallBlind },
-  m_bigBlind { args.bigBlind },
-  m_buyIn { args.buyIn },
-  m_startDate { args.startDate }
-  {}
+      m_smallBlind { args.smallBlind },
+      m_bigBlind { args.bigBlind },
+      m_buyIn { args.buyIn },
+      m_startDate { args.startDate } {}
 }; // struct GameData

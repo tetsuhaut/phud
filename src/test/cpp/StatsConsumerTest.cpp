@@ -10,7 +10,7 @@ BOOST_AUTO_TEST_SUITE(StatsReaderTest)
 
 BOOST_AUTO_TEST_CASE(StatsReaderTest_notifyingShouldSucceed) {
   ThreadSafeQueue<TableStatistics> queue;
-  StatsConsumer consumer { std::chrono::milliseconds(1), queue};
+  const StatsConsumer consumer { std::chrono::milliseconds(1), queue};
   std::array<std::unique_ptr<PlayerStatistics>, 10> playerStats {
     std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
       .playerName = "player1",
@@ -30,9 +30,9 @@ BOOST_AUTO_TEST_CASE(StatsReaderTest_notifyingShouldSucceed) {
     nbNotified++;
     cv.notify_one();
   });
-  std::mutex mutex;
   {
-    std::unique_lock<std::mutex> lock { mutex };
+    std::mutex mutex;
+    std::unique_lock lock { mutex };
     cv.wait(lock);
   }
   BOOST_REQUIRE(0 != nbNotified);

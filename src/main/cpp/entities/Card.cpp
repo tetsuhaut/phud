@@ -27,6 +27,6 @@ std::string_view toString(Card c) {
   return CARD_MAPPER.toString(c);
 }
 
-Card toCard(std::string_view strCard) {
-  return CARD_MAPPER.fromString(strCard);
+Card toCard(std::string_view card) {
+  return CARD_MAPPER.fromString(card);
 }

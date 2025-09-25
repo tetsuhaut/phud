@@ -29,17 +29,16 @@ struct [[nodiscard]] TableService::Implementation final {
   explicit Implementation(Database& database)
     : m_database { database } {}
 
-  [[nodiscard]] static inline TableStatistics extractTableStatistics(Database& database,
+  [[nodiscard]] static TableStatistics extractTableStatistics(const Database& database,
       std::string_view table) {
     LOG.debug<"Extracting table statistics for table: {}">(table);
     if (auto stats { database.readTableStatistics({.site = "Winamax", .table = table}) };
         stats.isValid()) {
       LOG.debug<"Got stats from db.">();
       return stats;
-    } else {
-      LOG.debug<"Got no stats from db yet for table {} on site {}.">(table, "Winamax");
-      return TableStatistics();
     }
+    LOG.debug<"Got no stats from db yet for table {} on site {}.">(table, "Winamax");
+    return {};
   }
 
   static void watchHistoFile(TableService::Implementation& self, const fs::path& file,
@@ -60,7 +59,7 @@ struct [[nodiscard]] TableService::Implementation final {
 
 }; // struct TableService::Implementation
 
-static inline void notify(TableStatistics&& stats, auto observer) {
+static void notify(TableStatistics&& stats, auto observer) {
   if (Seat::seatUnknown == stats.getMaxSeat()) {
     LOG.debug<"Got no stats from db.">();
   } else {
@@ -75,7 +74,7 @@ TableService::TableService(Database& database)
 
 TableService::~TableService() {
   try {
-    stopProducingStats();
+    TableService::stopProducingStats();
   } catch (...) {
     LOG.error<"Unknown Error when stopping the stat production in the TableService destruction.">();
   }
@@ -84,7 +83,7 @@ TableService::~TableService() {
 bool TableService::isPokerApp(std::string_view executableName) const {
   const auto& exe { fs::path(executableName).filename().string() };
   const auto& stems { ProgramInfos::POKER_SITE_EXECUTABLE_STEMS };
-  return std::end(stems) != std::find_if(std::begin(stems), std::end(stems),
+  return std::end(stems) != std::ranges::find_if(stems,
     [&exe](const auto stem) noexcept { return exe.starts_with(stem); });
 }
 
@@ -114,18 +113,16 @@ void TableService::stopProducingStats() {
   if (nullptr != m_pImpl->m_fileWatcher) { 
     m_pImpl->m_fileWatcher->stop(); 
   }
-  
   if (m_pImpl->m_reloadTask.valid()) { 
     stlab::await(std::move(m_pImpl->m_reloadTask)); 
   }
-  
   m_pImpl->m_reloadTask.reset();
 }
 
-void TableService::setPokerSiteHistory(std::shared_ptr<PokerSiteHistory> pokerSiteHistory) {
+void TableService::setPokerSiteHistory(std::shared_ptr<PokerSiteHistory> pokerSiteHistory) const {
   m_pImpl->m_pokerSiteHistory = std::move(pokerSiteHistory);
 }
 
-void TableService::setHistoryDir(const fs::path& historyDir) {
+void TableService::setHistoryDir(const fs::path& historyDir) const {
   m_pImpl->m_historyDir = historyDir;
 }

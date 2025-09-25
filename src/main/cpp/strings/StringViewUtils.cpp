@@ -45,9 +45,9 @@ std::size_t phud::strings::toSizeT(std::string_view s) { return fromStringView<s
 
 std::string_view phud::strings::trim(std::string_view s) {
   s.remove_prefix(gsl::narrow_cast<std::string_view::size_type>(std::distance(s.cbegin(),
-                  std::find_if_not(s.cbegin(), s.cend(), isSpace))));
+                  std::ranges::find_if_not(s, isSpace))));
   s.remove_suffix(gsl::narrow_cast<std::string_view::size_type>(std::distance(s.crbegin(),
-                  std::find_if_not(s.crbegin(), s.crend(), isSpace))));
+                  std::ranges::find_if_not(s.crbegin(), s.crend(), isSpace))));
   return s;
 }
 
@@ -66,21 +66,21 @@ std::string_view phud::strings::trim(std::string_view s) {
 double phud::strings::toDouble(std::string_view amount) {
   const auto str { phud::strings::trim(amount) };
   double ret { 0 };
-  const auto& [ptr, ec] { std::from_chars(str.data(), str.data() + amount.size(), ret) };
 
-  if (ec == std::errc::result_out_of_range) {
+  if (const auto& [ptr, ec] { std::from_chars(str.data(), str.data() + amount.size(), ret) };
+    ec == std::errc::result_out_of_range) {
     LOG.error<"phud::strings::toDouble({})">(amount);
     LOG.error<"amount in double: {}">(ret);
     LOG.error<"Number of treated characters: {}">(ptr - str.data());
     LOG.error<"Out of range value">();
-    std::exit(8);
+    return 0;
   }
   return ret;
 }
 
 std::string phud::strings::replaceAll(std::string_view s, char oldC, char newC) {
   std::string ret { s };
-  std::replace(std::begin(ret), std::end(ret), oldC, newC);
+  std::ranges::replace(ret, oldC, newC);
   return ret;
 }
 
@@ -107,7 +107,7 @@ double phud::strings::toAmount(std::string_view amount) {
 double phud::strings::toBuyIn(std::string_view buyIn) {
   std::string token;
   token.reserve(buyIn.size());
-  double result{ 0.0 };
+  double result { 0.0 };
 
   std::ranges::for_each(buyIn, [&token, &result](char c) {
     if (c == '+') {

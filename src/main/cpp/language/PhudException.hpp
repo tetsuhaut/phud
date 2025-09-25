@@ -18,5 +18,5 @@
 class [[nodiscard]] PhudException : public std::runtime_error {
 public:
   explicit PhudException(std::string_view msg, const boost::stacktrace::stacktrace& stacktrace = boost::stacktrace::stacktrace());
-  virtual ~PhudException() = default;
+  ~PhudException() override = default;
 };

@@ -32,12 +32,12 @@ m_textPlayerName { std::make_unique<Fl_Box>(0, piws::statsHeight + 2, w(), piws:
   m_textPlayerName->copy_label(playerName.data());
   clear_border();
   end();
-  show();
+  Fl_Double_Window::show();
   LOG.debug<"m_textPlayerName->label()={}">(m_textPlayerName->label());
 }
 
 // TODO unused
-void PlayerIndicator::setStats(const PlayerStatistics& s) {
+void PlayerIndicator::setStats(const PlayerStatistics& s) const {
   m_textStats->copy_label(
     fmt::format("{}|{}/{}/{}", s.getNbHands(),
                 s.getVoluntaryPutMoneyInPot(),
@@ -47,7 +47,7 @@ void PlayerIndicator::setStats(const PlayerStatistics& s) {
 std::string PlayerIndicator::getPlayerName() const { return m_textPlayerName->label(); }
 
 // TODO unused
-void PlayerIndicator::refresh(std::string_view playerName) {
+void PlayerIndicator::refresh(std::string_view playerName) const {
   LOG.debug<"PlayerIndicator refresh={}">(playerName);
   m_textPlayerName->copy_label(playerName.data());
 }

@@ -71,8 +71,7 @@ namespace {
    * @param configPath Path where to create the configuration file
    */
   void createDefaultConfigFile(const std::filesystem::path& configPath) {
-    std::ofstream file(configPath);
-    if (file.is_open()) {
+    if (std::ofstream file(configPath); file.is_open()) {
       file << "# phud Configuration File\n";
       file << "# Generated automatically with default values\n\n";
       file << "# Logging level: trace, debug, info, warn, error, critical, off\n";

@@ -54,11 +54,11 @@ public:
    * Sets the poker site history instance to use.
    * @param pokerSiteHistory Shared pointer to poker site history
    */
-  void setPokerSiteHistory(std::shared_ptr<PokerSiteHistory> pokerSiteHistory);
+  void setPokerSiteHistory(std::shared_ptr<PokerSiteHistory> pokerSiteHistory) const;
 
   /**
    * Sets the history directory.
    * @param historyDir Path to history directory
    */
-  void setHistoryDir(const std::filesystem::path& historyDir);
+  void setHistoryDir(const std::filesystem::path& historyDir) const;
 }; // class TableService

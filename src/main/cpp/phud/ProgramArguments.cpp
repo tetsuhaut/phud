@@ -29,7 +29,7 @@ namespace ps = phud::strings;
   return {};
 }
 
-[[nodiscard]] static inline std::optional<fs::path> parseHistoryDir(std::span<const char* const>
+[[nodiscard]] static std::optional<fs::path> parseHistoryDir(std::span<const char* const>
     arguments) {
   if (const auto & oDir { getOptionValue(arguments, "-d", "--historyDir") }; oDir.has_value()) {
     if (const fs::path p { oDir.value() }; phud::filesystem::isDir(p)) { return p; }
@@ -40,16 +40,16 @@ namespace ps = phud::strings;
   return {};
 }
 
-[[nodiscard]] static inline std::string toLowerCase(std::string_view str) {
+[[nodiscard]] static std::string toLowerCase(std::string_view str) {
   std::string lowerCase;
   lowerCase.reserve(str.size());
-  std::transform(str.cbegin(), str.cend(), lowerCase.begin(), [](unsigned char c) {
+  std::ranges::transform(str, lowerCase.begin(), [](unsigned char c) {
     return gsl::narrow_cast<char>(std::tolower(c));
   });
   return lowerCase;
 }
 
-[[nodiscard]] static inline std::optional<LoggingLevel> parseLoggingLevel(
+[[nodiscard]] static std::optional<LoggingLevel> parseLoggingLevel(
   std::span<const char* const> arguments) {
   if (const auto & oLogLevel { getOptionValue(arguments, "-l", "--logLevel") };
       oLogLevel.has_value()) {
@@ -61,16 +61,15 @@ namespace ps = phud::strings;
 
 [[nodiscard]] constexpr static bool isOdd(auto value) { return value % 2 != 0; }
 
-[[nodiscard]] static inline std::vector<std::string_view> listUnknownArguments(
+[[nodiscard]] static std::vector<std::string_view> listUnknownArguments(
   std::span<const char* const>
   arguments) {
   std::vector<std::string_view> ret;
   constexpr std::array<std::string_view, 4> KNOWN_ARGS {"-d", "--historyDir", "-l", "--logLevel"};
   auto index { 0 };
-  std::copy_if(arguments.begin(), arguments.end(), std::back_inserter(ret),
+  std::ranges::copy_if(arguments, std::back_inserter(ret),
   [&KNOWN_ARGS, &index](std::string_view arg) {
-    return isOdd(index++) and
-           std::end(KNOWN_ARGS) == std::find(std::begin(KNOWN_ARGS), std::end(KNOWN_ARGS), arg);
+    return isOdd(index++) and (std::end(KNOWN_ARGS) == std::ranges::find(KNOWN_ARGS, arg));
   });
   return ret;
 }
@@ -90,24 +89,24 @@ template<StringLiteral STR>
  * @throws UserAskedForHelpException
  */
 /*[[nodiscard]]*/ std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
-parseProgramArguments(std::span<const char* const> arguments) {
+parseProgramArguments(std::span<const char* const> args) {
   LOG.info<"reading phud program arguments">();
-  const auto programName { gsl::at(arguments, 0) };
+  const auto programName { gsl::at(args, 0) };
   constexpr auto USAGE_TEMPLATE { "Usage:\n{} [-d|--historyDir <directory>] "
                                   "[-l|--logLevel none|trace|info|warning|error]\n"
                                   "Where:\n"
                                   "  <directory> is the directory containing the poker site hand history.\n"
                                   "  <none|trace|info|warning|error> are the different values for the logging level.\n" };
 
-  if ((std::end(arguments) != std::ranges::find_if(arguments, isEqualTo<"-h">)) or
-      (std::end(arguments) != std::ranges::find_if(arguments, isEqualTo<"--help">))) {
+  if ((std::end(args) != std::ranges::find_if(args, isEqualTo<"-h">)) or
+      (std::end(args) != std::ranges::find_if(args, isEqualTo<"--help">))) {
     const auto& PROGRAM_DESCRIPTION { fmt::format("Poker Heads-Up Dispay version {} \n"
                                       "Shows statistics on the players for the current poker table.\n", ProgramInfos::APP_VERSION) };
     throw UserAskedForHelpException { fmt::format("{}{}", PROGRAM_DESCRIPTION,
                                       fmt::format(USAGE_TEMPLATE, programName)) };
   }
 
-  if (const auto & badArgs { listUnknownArguments(arguments) }; !badArgs.empty()) {
+  if (const auto & badArgs { listUnknownArguments(args) }; !badArgs.empty()) {
     std::string argsList;
     std::ranges::for_each(badArgs, [&argsList](const auto & arg) { argsList.append(arg).append(", "); });
     argsList = argsList.substr(0, argsList.size() - ps::length(", "));
@@ -115,5 +114,5 @@ parseProgramArguments(std::span<const char* const> arguments) {
                                       ps::plural(badArgs.size()), argsList, fmt::format(USAGE_TEMPLATE, programName)) };
   }
 
-  return { parseHistoryDir(arguments), parseLoggingLevel(arguments)};
+  return { parseHistoryDir(args), parseLoggingLevel(args)};
 }

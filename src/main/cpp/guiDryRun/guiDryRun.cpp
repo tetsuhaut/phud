@@ -14,10 +14,10 @@ static Logger LOG { CURRENT_FILE_NAME };
 namespace fs = std::filesystem;
 
 namespace {
-struct [[nodiscard]] LoggingConfig final {
-  LoggingConfig() { Logger::setupConsoleDebugLogging("[%D %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v"); }
-  ~LoggingConfig() { Logger::shutdownLogging(); }
-};
+  struct [[nodiscard]] LoggingConfig final {
+    LoggingConfig() { Logger::setupConsoleDebugLogging("[%D %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v"); }
+    ~LoggingConfig() { Logger::shutdownLogging(); }
+  };
 } // anonymous namespace
 
 class [[nodiscard]] NoOpTableService final : public TableService {
@@ -27,22 +27,41 @@ private:
   PeriodicTask m_task { std::chrono::milliseconds(500), CURRENT_FILE_NAME };
 
 public:
+  explicit NoOpTableService(Database& db) : TableService(db) {}
   // TableService interface
-  bool isPokerApp(std::string_view /*executableName*/) const override { return true; }
+  [[nodiscard]] bool isPokerApp(std::string_view /*executableName*/) const override { return true; }
 
   std::string startProducingStats(std::string_view /*table*/,
-                                  std::function < void(TableStatistics&& ts) > /*observer*/) override {
+                                  std::function<void(TableStatistics&& ts)> /*observer*/) override {
     LOG.debug<__func__>();
     m_continue = PeriodicTaskStatus::repeatTask;
     m_task.start([this]() {
       LOG.debug<"task in guiDryRun startProducingStats()">();
-      std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> fakeStats{
-        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player0", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = true,  .nbHands = 10, .vpip = 1, .pfr = 7 }),
-        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player1", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 20, .vpip = 2, .pfr = 8 }),
-        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player2", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 30, .vpip = 3, .pfr = 9 }),
-        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player3", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 40, .vpip = 4, .pfr = 10}),
-        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player4", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 50, .vpip = 5, .pfr = 11}),
-        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = "player5", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 60, .vpip = 6, .pfr = 12}),
+      std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> fakeStats {
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+          .playerName = "player0", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = true, .nbHands = 10,
+          .vpip = 1, .pfr = 7
+        }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+          .playerName = "player1", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 20,
+          .vpip = 2, .pfr = 8
+        }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+          .playerName = "player2", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 30,
+          .vpip = 3, .pfr = 9
+        }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+          .playerName = "player3", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 40,
+          .vpip = 4, .pfr = 10
+        }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+          .playerName = "player4", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 50,
+          .vpip = 5, .pfr = 11
+        }),
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+          .playerName = "player5", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = false, .nbHands = 60,
+          .vpip = 6, .pfr = 12
+        }),
         nullptr, nullptr, nullptr, nullptr
       };
       m_stats.push(TableStatistics { Seat::seatSix, std::move(fakeStats) });
@@ -60,6 +79,7 @@ public:
 }; // class NoOpTableService
 
 class [[nodiscard]] NoOpHistoryService final : public HistoryService {
+  NoOpHistoryService(Database& db) : HistoryService(db) {}
   // HistoryService interface
   bool isValidHistory(const fs::path& /*dir*/) override { return true; }
 
@@ -74,6 +94,7 @@ class [[nodiscard]] NoOpHistoryService final : public HistoryService {
     onProgress();
     onDone();
   }
+
   // use only std::filesystem::path
   void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
                      std::function<void()>) = delete;
@@ -84,14 +105,15 @@ class [[nodiscard]] NoOpHistoryService final : public HistoryService {
 }; // NoOpHistoryService
 
 /* no WinMain because we want the console to show debug messages */
-/*[[nodiscard]] static inline*/ int main() {
+/*[[nodiscard]] static*/
+int main() {
   std::setlocale(LC_ALL, "en_US.utf8");
   LoggingConfig _;
   LOG.debug<"guiDryRun is starting">();
   Database db;
   TableService ts(db);
   HistoryService hs(db);
-  auto ret { Gui(ts, hs).run() };
+  const auto ret { Gui(ts, hs).run() };
   LOG.debug<"guiDryRun is stopping">();
   return ret;
 }

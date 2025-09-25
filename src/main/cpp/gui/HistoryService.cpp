@@ -25,7 +25,7 @@ HistoryService::HistoryService(Database& database)
 
 HistoryService::~HistoryService() {
   try {
-    stopImportingHistory();
+    HistoryService::stopImportingHistory();
   } catch (...) {
     LOG.error<"Unknown Error when stopping the history import in the HistoryService destruction.">();
   }

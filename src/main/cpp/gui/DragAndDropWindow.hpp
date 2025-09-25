@@ -31,13 +31,13 @@ public:
   DragAndDropWindow(const phud::Rectangle& r, std::string_view label,
                     std::function<void(int, int)> cb = nullptr)
     : Fl_Double_Window(r.x, r.y, r.w, r.h, label.data()),
-      m_cb { cb }
+      m_cb { std::move(cb) }
   {}
   DragAndDropWindow(const DragAndDropWindow&) = delete;
   DragAndDropWindow(DragAndDropWindow&&) = delete;
   DragAndDropWindow& operator=(const DragAndDropWindow&) = delete;
   DragAndDropWindow& operator=(DragAndDropWindow&&) = delete;
-  virtual ~DragAndDropWindow() = default; // to be able to use std::unique_ptr<DragAndDropWindow>
+  ~DragAndDropWindow() override = default; // to be able to use std::unique_ptr<DragAndDropWindow>
 
 protected:
   /**

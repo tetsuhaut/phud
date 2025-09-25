@@ -35,10 +35,11 @@ public:
   std::unique_ptr<Site> reloadFile(auto) = delete;
   /**
    * Validates if the given directory contains valid poker history.
-   * @param dir Directory path to validate
+   * @param historyDir Directory path to validate
    * @return True if directory contains valid history files
    */
   [[nodiscard]] static bool isValidHistory(const std::filesystem::path& historyDir);
+
   static bool isValidHistory(auto historyDir) = delete;
   [[nodiscard]] virtual std::string_view getTableNameFromTableWindowTitle(
     std::string_view tableWindowTitle) const
@@ -46,6 +47,7 @@ public:
   [[nodiscard]] virtual std::filesystem::path getHistoryFileFromTableWindowTitle(
     const std::filesystem::path& historyDir,
     std::string_view tableWindowTitle) const = 0;
+  // force the use of std::filesystem::path
   std::filesystem::path getHistoryFileFromTableWindowTitle(auto historyDir,
       std::string_view tableWindowTitle) const = delete;
 }; // class PokerSiteHistory

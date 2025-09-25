@@ -18,7 +18,7 @@ namespace ps = phud::strings;
 
 template <typename GAME_TYPE> requires(std::is_same_v<GAME_TYPE, CashGame>
                                        or std::is_same_v<GAME_TYPE, Tournament>)
-[[nodiscard]] static inline std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId,
+[[nodiscard]] static std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId,
     const GameData& gameData) {
   if constexpr(std::is_same_v<GAME_TYPE, CashGame>) {
     return std::make_unique<CashGame>(CashGame::Params { .id = gameId, .siteName = ProgramInfos::PMU_SITE_NAME,
@@ -34,7 +34,7 @@ template <typename GAME_TYPE> requires(std::is_same_v<GAME_TYPE, CashGame>
   }
 }
 
-template <typename GAME_TYPE> [[nodiscard]] static inline
+template <typename GAME_TYPE> [[nodiscard]] static
 std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
   LOG.debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
   const auto& fileStem { ps::sanitize(gameHistoryFile.stem().string()) };
@@ -60,12 +60,12 @@ std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCac
   return ret;
 }
 
-template <typename GAME_TYPE> [[nodiscard]] static inline
+template <typename GAME_TYPE> [[nodiscard]] static
 std::unique_ptr<GAME_TYPE> createGame(auto,
                                       PlayerCache&) = delete; // use only std::filesystem::path
 
 template<typename GAME_TYPE>
-[[nodiscard]] static inline std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile) {
+[[nodiscard]] static std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile) {
   LOG.debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite { std::make_unique<Site>(ProgramInfos::PMU_SITE_NAME) };
   PlayerCache cache { ProgramInfos::PMU_SITE_NAME };

@@ -24,7 +24,7 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
  * @param window Window handle
  * @return Executable name or empty string on error
  */
-[[nodiscard]] std::string getExecutableName(const HWND window);
+[[nodiscard]] std::string getExecutableName(HWND window);
 
 /**
  * Converts a RECT object from the Windows API into a phud::Rectangle object.
@@ -44,7 +44,7 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
  * @param y Screen y coordinate
  * @return Result containing window rectangle and name, or error message
  */
-[[nodiscard]] ErrorOrRectangleAndName getWindowRectangleAndName(TableService& tableService, int x, int y);
+[[nodiscard]] ErrorOrRectangleAndName getWindowRectangleAndName(const TableService& tableService, int x, int y);
 
 /**
  * @return the list the currently visible top level windows titles

@@ -15,8 +15,8 @@ BOOST_AUTO_TEST_SUITE(DirWatcherTest)
 
 BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   /* create our own tmp dir to where we watch file changes */
-  pt::TmpDir tmpDir { "DirWatcherTest_DetectingChangedFilesShouldWork_tmpDir" };
-  pt::TmpFile tmpFile { tmpDir / "someTmpFile.txt" };
+  const pt::TmpDir tmpDir { "DirWatcherTest_DetectingChangedFilesShouldWork_tmpDir" };
+  const pt::TmpFile tmpFile { tmpDir / "someTmpFile.txt" };
   tmpFile.print("yop");
   BOOST_REQUIRE(1 == phud::filesystem::listTxtFilesInDir(tmpDir.path()).size());
   DirWatcher dw { WATCH_PERIOD, tmpDir.path() };

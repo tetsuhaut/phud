@@ -6,7 +6,8 @@
 
 // forward declarations
 struct TableStatistics;
-template <typename T> class ThreadSafeQueue;
+template <typename T>
+class ThreadSafeQueue;
 
 class [[nodiscard]] StatsConsumer final {
 private:
@@ -21,9 +22,9 @@ public:
   StatsConsumer& operator=(StatsConsumer&&) = delete;
   ~StatsConsumer();
   /**
-   * Calls @param observer each time a new TableStatistics is found it the stats queue.
+   * @param observerCb the callback called
+   * Calls @param observerCb each time a new TableStatistics is found it the stats queue.
    */
-  void consumeAndNotify(std::function<void(TableStatistics&)> observer);
-  void stop();
-  [[nodiscard]] bool isStopped() const noexcept;
+  void consumeAndNotify(const std::function<void(TableStatistics&)>& observerCb) const;
+  void stop() const;
 }; // class StatsConsumer

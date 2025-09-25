@@ -25,7 +25,7 @@ private:
   static void criticalStr(std::string_view msg);
 
 public:
-  Logger(std::string_view name) : m_name { name } {}
+  explicit Logger(std::string_view name) : m_name { name } {}
 
   // to be constexpr, fmt::format requires a constexpr string as first parameter
   void trace(std::string_view msg) { traceStr(fmt::format("[{}]: {}", m_name, msg)); }

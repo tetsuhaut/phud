@@ -35,11 +35,12 @@ public:
     namespace but = boost::unit_test;
 
     if (but::log_level::log_successful_tests ==
-        but::runtime_config::get<but::log_level>(but::runtime_config::btrt_log_level)) {
+      but::runtime_config::get<but::log_level>(but::runtime_config::btrt_log_level)) {
       /* if unit tests are launched with option -l all, set log to trace level */
       Logger::setLoggingLevel(LoggingLevel::trace);
     }
   }
+
   ~GlobalFixture() {
     Logger::shutdownLogging();
     ThreadPool::stop();
@@ -49,29 +50,32 @@ public:
 BOOST_GLOBAL_FIXTURE(GlobalFixture);
 
 namespace {
-struct IsFile final {};
-struct IsDir final {};
+  struct IsFile final {};
+
+  struct IsDir final {};
 } // anonymous namespace
 
-template<typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
-[[nodiscard]] static inline fs::path getGenericFileFromTestResources(const auto& file) {
+template <typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
+[[nodiscard]] static fs::path getGenericFileFromTestResources(const auto& file) {
   validation::requireNonEmpty(file, "file or dir");
   validation::require('/' != file.front(), "file or dir can't start with '/'");
   const auto& ret { (pt::getTestResourcesDir() / file) };
 
-  if constexpr(std::is_same_v<T, ::IsFile>) {
+  if constexpr (std::is_same_v<T, ::IsFile>) {
     if (pf::isFile(ret)) { return ret; }
   }
 
-  if constexpr(std::is_same_v<T, ::IsDir>) {
+  if constexpr (std::is_same_v<T, ::IsDir>) {
     if (pf::isDir(ret)) { return ret; }
   }
 
   const auto sl { std::source_location::current() };
-  throw std::runtime_error { fmt::format("{} {} Couldn't find the file '{}' looking into '{}'.",
-                                         sl.file_name(), sl.line(),
-                                         reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
-                                         pt::getTestResourcesDir().string()) };
+  throw std::runtime_error {
+    fmt::format("{} {} Couldn't find the file '{}' looking into '{}'.",
+                sl.file_name(), sl.line(),
+                reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
+                pt::getTestResourcesDir().string())
+  };
 }
 
 fs::path pt::getFileFromTestResources(std::u8string_view file) {
@@ -90,11 +94,20 @@ fs::path pt::getDirFromTestResources(std::string_view dir) {
   return getGenericFileFromTestResources<::IsDir>(dir);
 }
 
-[[nodiscard]] static inline fs::path throwIfNotADirectory(const fs::path& dir,
-    std::string_view macro) {
+[[nodiscard]] static fs::path throwIfNotADirectory(const fs::path& dir,
+                                                   std::string_view macro) {
   if (pf::isDir(dir)) { return dir; }
 
-  throw std::runtime_error { fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'", dir.string(), macro) };
+  throw std::runtime_error {
+    fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'", dir.string(), macro)
+  };
+}
+
+fs::path pt::getTestResourcesDir() {
+#ifndef PHUD_TEST_RESOURCE_DIR
+#error The macro PHUD_TEST_RESOURCE_DIR should have been defined in CMakeLists.txt
+#endif // PHUD_TEST_RESOURCE_DIR
+  return throwIfNotADirectory(PHUD_TEST_RESOURCE_DIR, "PHUD_TEST_RESOURCE_DIR");
 }
 
 fs::path pt::getMainCppDir() {
@@ -111,18 +124,11 @@ fs::path pt::getTestCppDir() {
   return throwIfNotADirectory(PHUD_TEST_SRC_DIR, "PHUD_TEST_SRC_DIR");
 }
 
-fs::path pt::getTestResourcesDir() {
-#ifndef PHUD_TEST_RESOURCE_DIR
-#error The macro PHUD_TEST_RESOURCE_DIR should have been defined in CMakeLists.txt
-#endif // PHUD_TEST_RESOURCE_DIR
-  return throwIfNotADirectory(PHUD_TEST_RESOURCE_DIR, "PHUD_TEST_RESOURCE_DIR");
-}
-
 /**
  * @return the absolute path of a temp file.
  * @note We use Path to handle UTF-8 and UTF-16 file names.
 */
-[[nodiscard]] static inline fs::path getTmpFilePath() {
+[[nodiscard]] static fs::path getTmpFilePath() {
   char ret[L_tmpnam] { '\0' };
 
   if (const auto errorCode { tmpnam_s(ret, std::size(ret)) }; 0 != errorCode) [[unlikely]] {
@@ -139,17 +145,18 @@ fs::path pt::getTestResourcesDir() {
   return ret;
 }
 
-static inline void removeWithMessage(const fs::path& file) {
+static void removeWithMessage(const fs::path& file) {
   const auto& fileType { pf::isFile(file) ? "file" : "directory" };
 
   if (std::error_code ec; !fs::remove_all(file, ec)) {
     if (0 == ec.value()) {
       BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
-    } else [[unlikely]] {
-        BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
-        BOOST_TEST_MESSAGE(ec.message());
-      }
     }
+    else [[unlikely]] {
+      BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
+      BOOST_TEST_MESSAGE(ec.message());
+    }
+  }
 }
 
 pt::TmpFile::TmpFile(std::string_view name)

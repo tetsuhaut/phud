@@ -13,7 +13,7 @@ namespace fs = std::filesystem;
 namespace pt = phud::test;
 namespace pf = phud::filesystem;
 
-static inline void assertPlayersAreOk(const Site& site) {
+static void assertPlayersAreOk(const Site& site) {
   BOOST_REQUIRE(21 == site.viewPlayers().size());
   BOOST_REQUIRE(nullptr != site.viewPlayer("Amntfs"));
   BOOST_REQUIRE(nullptr != site.viewPlayer("tc1591"));

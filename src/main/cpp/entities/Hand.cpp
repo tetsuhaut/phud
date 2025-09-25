@@ -1,6 +1,5 @@
 #include "entities/Action.hpp"
 #include "entities/Hand.hpp"
-#include "entities/Seat.hpp"
 #include "language/Validator.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include <ranges> // std::ranges::find_if, std::views
@@ -32,7 +31,7 @@ Hand::Hand(Params& p)
 Hand::~Hand() = default; // needed because Hand owns a private std::shared_ptr member
 
 bool Hand::isPlayerInvolved(std::string_view name) const {
-  const auto isPlayerName { [&name](const auto & a) { return name == a->getPlayerName(); } };
+  const auto isPlayerName { [&name](const auto& a) { return name == a->getPlayerName(); } };
   return std::ranges::find_if(m_actions, isPlayerName) != m_actions.end();
 }
 

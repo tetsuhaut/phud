@@ -6,9 +6,9 @@ BOOST_AUTO_TEST_SUITE(PreferencesTest)
 static constexpr auto IN_MEMORY { true };
 
 BOOST_AUTO_TEST_CASE(PreferencesTest_getDefaultValues) {
-  Preferences prefs(IN_MEMORY);
+  const Preferences prefs(IN_MEMORY);
   auto [x, y] = prefs.getMainWindowPosition();
-  auto historyDir = prefs.getPreferredHistoDir();
+  const  auto historyDir = prefs.getPreferredHistoDir();
   auto displayLabel = prefs.getHistoryDirectoryDisplayLabel();
 
   // Vérifier que les valeurs par défaut sont cohérentes
@@ -28,7 +28,7 @@ BOOST_AUTO_TEST_CASE(TestPreferencesTest_saveAndLoad) {
 }
 
 BOOST_AUTO_TEST_CASE(PreferencesTest_defaultValuesForMissingKeys) {
-  Preferences prefs(IN_MEMORY);
+  const Preferences prefs(IN_MEMORY);
 
   // Test des valeurs par défaut pour des clés manquantes
   BOOST_CHECK_EQUAL(prefs.getStringPreference("missing_key", "default"), "default");
@@ -53,11 +53,11 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_historyDirectory) {
 
   // Test avec un répertoire inexistant (retourne empty path)
   prefs.saveHistoryDirectory("/path/that/does/not/exist");
-  auto dir = prefs.getPreferredHistoDir();
+  const auto& dir { prefs.getPreferredHistoDir() };
   BOOST_CHECK(dir.empty());
 
   // Test du label par défaut
-  auto label = prefs.getHistoryDirectoryDisplayLabel();
+  const auto& label { prefs.getHistoryDirectoryDisplayLabel() };
   BOOST_CHECK(!label.empty());
 }
 

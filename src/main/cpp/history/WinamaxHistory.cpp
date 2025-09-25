@@ -3,11 +3,14 @@
 #include "filesystem/FileUtils.hpp" // phud::filesystem::*
 #include "history/WinamaxGameHistory.hpp" // parseGameHistory
 #include "history/WinamaxHistory.hpp" // WinamaxHistory, std::filesystem::path, fs::*, Global::*, std::string, phud::strings
+
+
 #include "language/Either.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // concatLiteral
 #include "threads/ThreadPool.hpp" // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await
+#include <ranges>
 
 static Logger LOG { CURRENT_FILE_NAME };
 
@@ -20,12 +23,13 @@ struct [[nodiscard]] WinamaxHistory::Implementation final {
   std::atomic_bool m_stop { true };
 }; // struct WinamaxHistory::Implementation
 
-WinamaxHistory::WinamaxHistory() noexcept : m_pImpl { std::make_unique<Implementation>() }  {}
+WinamaxHistory::WinamaxHistory() noexcept : m_pImpl { std::make_unique<Implementation>() } {}
 
 WinamaxHistory::~WinamaxHistory() {
   try {
     stopLoading();
-  } catch (...) { // can't throw in a destructor
+  }
+  catch (...) { // can't throw in a destructor
     LOG.error<"Unknown Error raised by WinamaxHistory::stopLoading().">();
   }
 }
@@ -33,31 +37,32 @@ WinamaxHistory::~WinamaxHistory() {
 static constexpr std::string_view ERR_MSG { "The chosen directory '{}' should contain a {} directory" };
 
 [[nodiscard]] static Either<std::string, std::vector<fs::path>> getErrorMessageOrHistoryFiles(
-const fs::path& dir, const fs::path& histoDir) {
+  const fs::path& dir, const fs::path& histoDir) {
   if (!pf::isDir(histoDir)) {
     return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(),
-           "'history'"));
+                                                                        "'history'"));
   }
 
   if (!pf::listSubDirs(histoDir).empty()) {
     return Either<std::string, std::vector<fs::path>>::left(
-             fmt::format("The chosen directory '{}' should contain a {} directory that contains only files",
-                         dir.string(), "'history'"));
+      fmt::format("The chosen directory '{}' should contain a {} directory that contains only files",
+                  dir.string(), "'history'"));
   }
 
-  if (const auto & allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
+  if (const auto& allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
     return Either<std::string, std::vector<fs::path>>::right(allFilesAndDirs);
   }
 
   return Either<std::string, std::vector<fs::path>>::left(
-           fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
+    fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
 }
 
 /**
  * @return true if the given dir is an existing dir, contains a 'history' subdir which only contains txt files,
  * and if it contains a 'winamax_positioning_file.dat' file.
  */
-/*static*/ bool WinamaxHistory::isValidHistory(const fs::path& dir) {
+/*static*/
+bool WinamaxHistory::isValidHistory(const fs::path& dir) {
   LOG.debug<__func__>();
   const auto& histoDir { (dir / "history").lexically_normal() };
   const auto& either { getErrorMessageOrHistoryFiles(dir, histoDir) };
@@ -71,22 +76,22 @@ const fs::path& dir, const fs::path& histoDir) {
   return pf::containsAFileEndingWith(allFilesAndDirs, "winamax_positioning_file.dat");
 }
 
-[[nodiscard]] static inline std::vector<fs::path> getFiles(const fs::path& historyDir) {
+[[nodiscard]] static std::vector<fs::path> getFiles(const fs::path& historyDir) {
   if (WinamaxHistory::isValidHistory(historyDir)) { return pf::listTxtFilesInDir(historyDir / "history"); }
 
   LOG.error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
   return {};
 }
-[[nodiscard]] static inline std::vector<fs::path> getFiles(auto) =
-  delete; // use only std::filesystem::path
+
+[[nodiscard]] static std::vector<fs::path> getFiles(auto) = delete; // use only std::filesystem::path
 
 // using auto&& enhances performances by inlining std::function's logic
-[[nodiscard]] static inline std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
-    auto&& onSetNbFiles) {
+[[nodiscard]] static std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
+                                                             auto&& onSetNbFiles) {
   const auto& files { getFiles(historyDir) };
 
   if (onSetNbFiles) {
-    const auto fileSize{ files.size() };
+    const auto fileSize { files.size() };
     LOG.info<"Notify observer of {} files.">(fileSize);
 
     if (!files.empty()) { std::forward<decltype(onSetNbFiles)>(onSetNbFiles)(fileSize); }
@@ -96,72 +101,75 @@ const fs::path& dir, const fs::path& histoDir) {
 }
 
 // disable other types than const std::filesystem::path&
-static inline std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
+static std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
 
-static inline std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::path> files,
-std::atomic_bool& stop, const auto& onProgress) {
+static std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::path> files,
+                                                  std::atomic_bool& stop, const auto& onProgress) {
   std::vector<Future<Site*>> ret;
   ret.reserve(files.size());
   std::transform(files.cbegin(), files.cend(), std::back_inserter(ret), [&onProgress,
-  &stop](const auto & file) {
-    if (stop) { return Future<Site*>(); }
+                   &stop](const auto& file) {
+                   if (stop) { return Future<Site*>(); }
 
-    return ThreadPool::submit([file, onProgress, stop = std::ref(stop)]() {
-      Site* pSite { nullptr };
+                   return ThreadPool::submit([file, onProgress, stop = std::ref(stop)]() {
+                     Site* pSite { nullptr };
 
-      try {
-        pSite = WinamaxGameHistory::parseGameHistory(file).release();
-      } catch (const std::exception& e) {
-        LOG.error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
-      } catch (const char* str) {
-        LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
-      }
+                     try {
+                       pSite = WinamaxGameHistory::parseGameHistory(file).release();
+                     }
+                     catch (const std::exception& e) {
+                       LOG.error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
+                     }
+                     catch (const char* str) {
+                       LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
+                     }
 
-      if (!stop.get() and onProgress) { onProgress(); }
+                     if (!stop.get() and onProgress) { onProgress(); }
 
-      return pSite;
-    });
-  });
+                     return pSite;
+                   });
+                 });
   return ret;
 }
 
-std::unique_ptr<Site> WinamaxHistory::load(const fs::path& winamaxHistoryDir,
-    std::function<void()> onProgress,
-    std::function<void(std::size_t)> onSetNbFiles) {
+std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir,
+                                           std::function<void()> onProgress,
+                                           std::function<void(std::size_t)> onSetNbFiles) {
   m_pImpl->m_stop = false;
 
   try {
-    LOG.debug<"Loading the history dir '{}'.">(winamaxHistoryDir.string());
-    const auto& files { getFilesAndNotify(winamaxHistoryDir, onSetNbFiles) };
+    LOG.debug<"Loading the history dir '{}'.">(dir.string());
+    const auto& files { getFilesAndNotify(dir, onSetNbFiles) };
     auto ret { std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
 
     if (files.empty()) {
-      LOG.error<"0 file found in the dir {}">(winamaxHistoryDir.string());
+      LOG.error<"0 file found in the dir {}">(dir.string());
       return ret;
     }
 
     LOG.info<"{} file{} to load.">(files.size(), ps::plural(files.size()));
     m_pImpl->m_tasks = parseFilesAsync(files, m_pImpl->m_stop, onProgress);
     LOG.info<"Waiting for the end of loading.">();
-    std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto & task) {
+    std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto& task) {
       if (task.valid()) {
-        std::unique_ptr<Site> s { stlab::await(std::move(task)) };
-
-        if (!m_pImpl->m_stop and s) { ret->merge(*s); }
+        if (const auto site { std::unique_ptr<Site>(stlab::await(std::move(task))) };
+          !m_pImpl->m_stop and site) { ret->merge(*site); }
       }
     });
     m_pImpl->m_tasks.clear();
     LOG.info<"Loading done.">();
     return ret;
-  } catch (const std::exception& e) {
+  }
+  catch (const std::exception& e) {
     LOG.error<"Exception in WinamaxHistory::load: {}">(e.what());
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 }
 
-/* [[nodicard]] static */ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& historyDir) {
+/* [[nodicard]] static */
+std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir) {
   WinamaxHistory wh;
-  return wh.load(historyDir, nullptr, nullptr);
+  return wh.load(dir, nullptr, nullptr);
 }
 
 void WinamaxHistory::stopLoading() {
@@ -169,7 +177,7 @@ void WinamaxHistory::stopLoading() {
   std::size_t nbTasksFinished { 0 };
 
   while (nbTasksFinished != m_pImpl->m_tasks.size()) {
-    std::ranges::for_each(m_pImpl->m_tasks, [&nbTasksFinished](auto & task) {
+    std::ranges::for_each(m_pImpl->m_tasks, [&nbTasksFinished](auto& task) {
       if (task.is_ready()) {
         task.reset(); // it won't be ready anymore
         nbTasksFinished++;
@@ -184,7 +192,8 @@ std::unique_ptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
 
   try {
     ret = WinamaxGameHistory::parseGameHistory(file);
-  } catch (const std::exception& e) {
+  }
+  catch (const std::exception& e) {
     LOG.error<"Exception loading the file {}: {}">(file.string(), e.what());
   }
 
@@ -193,36 +202,36 @@ std::unique_ptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
 
 std::string_view WinamaxHistory::getTableNameFromTableWindowTitle(std::string_view tableWindowTitle)
 const {
-  const auto pos { tableWindowTitle.find("#") };
-  return (notFound(pos)) ? tableWindowTitle.substr(0,
-         tableWindowTitle.find(" / ")) : tableWindowTitle.substr(0, pos);
-}
-
-static constexpr bool isReal(std::string_view tableWindowTitle) noexcept { return !tableWindowTitle.ends_with("fictif"); }
-
-static inline std::string getGameType(std::string_view tableWindowTitle) {
-  if (ps::contains(tableWindowTitle, "NL Holdem")) { return "holdem_no-limit"; }
-  // TODO
-  else {
-    LOG.error<"Unknown game type for table window title {}">(tableWindowTitle);
-    return "omaha5_pot-limit";
+  // Remove "Winamax " prefix if present (new format in 2025)
+  auto workingTitle { tableWindowTitle };
+  if (constexpr auto winamaxPrefix { std::string_view("Winamax ") }; workingTitle.starts_with(winamaxPrefix)) {
+    workingTitle = workingTitle.substr(winamaxPrefix.size());
   }
+
+  // Extract table name using existing logic
+  const auto pos { workingTitle.find('#') };
+  return (notFound(pos))
+           ? workingTitle.substr(0,
+                                 workingTitle.find(" / "))
+           : workingTitle.substr(0, pos);
 }
 
-fs::path WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& historyDir,
-    std::string_view tableWindowTitle) const {
+fs::path WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& dir,
+                                                            std::string_view tableWindowTitle) const {
   const auto tableName { getTableNameFromTableWindowTitle(tableWindowTitle) };
-  const auto& reality { isReal(tableWindowTitle) ? "real" : "play" };
-  const auto& game { getGameType(tableWindowTitle) };
-  const auto& postfix { fmt::format("_{}_{}_{}.txt", tableName, reality, game)};
-  auto files { pf::listFilesInDir(historyDir / "history", postfix)};
+  LOG.debug<"Looking for history files for table: '{}'">(tableName);
+  LOG.debug<"Searching in directory: '{}'">(fs::absolute(dir / "history").string());
+  // Search for all files matching the table name, regardless of game type
+  const auto& tablePattern { fmt::format("*_{}_*.txt", tableName) };
+  auto files { pf::listFilesMatchingPattern(dir / "history", tablePattern) };
 
   if (files.empty()) {
-    LOG.error<"No history file found for table\n'{}'\nlooking in directory {}\nhaving the postfix '{}'.">
-    (
-      tableWindowTitle, (historyDir / "history").string(), postfix);
-    return "";
+    LOG.error<"No history file found for table '{}' in directory {}">(tableName, (dir / "history").string());
+    return {};
   }
+
+  // Take the most recent file (or the first one found)
+  LOG.debug<"Found {} history file(s) for table '{}', using: {}">(files.size(), tableName, files[0].string());
 
   if (1 == files.size()) { return files.front(); }
 

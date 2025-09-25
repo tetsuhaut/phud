@@ -29,10 +29,10 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
   TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs" };
   PeriodicTask pt { PT_PERIOD };
-  auto pMyStrContainer { std::make_unique<StrContainer>() };
+  const auto pMyStrContainer { std::make_unique<StrContainer>() };
   void* hidden { pMyStrContainer.get() };
   pt.start([hidden]() {
-    auto pStrContainer { static_cast<StrContainer*>(hidden) };
+    const auto pStrContainer { static_cast<StrContainer*>(hidden) };
     pStrContainer->str += "yop";
     return pStrContainer->str == "yopyop" ? PeriodicTaskStatus::stopTask :
            PeriodicTaskStatus::repeatTask;;
@@ -53,7 +53,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
   std::array<std::shared_ptr<StrContainer>, 2> myArray { std::make_shared<StrContainer>(), nullptr };
   auto pArray = std::make_shared<PassedInArray>(myArray);
   pt.start([pArray]() {
-    auto& args { *pArray };
+    const auto& args { *pArray };
     args.m_array[0]->str = "yop";
     return PeriodicTaskStatus::stopTask;
   });
