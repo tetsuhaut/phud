@@ -23,8 +23,8 @@ private:
   explicit constexpr Either(Right<RIGHT> r) : m_left {}, m_right { r.m_value } {}
 
 public:
-  [[nodiscard]] static constexpr Either<LEFT, RIGHT> left(LEFT arg) { return Either(Left(std::move(arg))); }
-  [[nodiscard]] static constexpr Either<LEFT, RIGHT> right(RIGHT arg) { return Either(Right(std::move(arg))); }
+  [[nodiscard]] static constexpr Either left(LEFT arg) { return Either(Left(std::move(arg))); }
+  [[nodiscard]] static constexpr Either right(RIGHT arg) { return Either(Right(std::move(arg))); }
   [[nodiscard]] constexpr bool isLeft() const noexcept { return m_left.has_value(); }
   [[nodiscard]] constexpr bool isRight() const noexcept { return m_right.has_value(); }
   [[nodiscard]] constexpr const LEFT& getLeft() const { return m_left.value(); }

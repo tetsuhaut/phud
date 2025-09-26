@@ -23,9 +23,9 @@ private:
 
 public:
   template<StringLiteral ERR_MSG>
-  [[nodiscard]] static constexpr ErrOrRes<RESULT> err() { return ErrOrRes(std::in_place, ERR_MSG.value); }
-  [[nodiscard]] static constexpr ErrOrRes<RESULT> err(std::string_view s) { return ErrOrRes(std::in_place, s); }
-  [[nodiscard]] static constexpr ErrOrRes<RESULT> res(RESULT arg) { return ErrOrRes(arg); }
+  [[nodiscard]] static constexpr ErrOrRes err() { return ErrOrRes(std::in_place, ERR_MSG.value); }
+  [[nodiscard]] static constexpr ErrOrRes err(std::string_view s) { return ErrOrRes(std::in_place, s); }
+  [[nodiscard]] static constexpr ErrOrRes res(RESULT arg) { return ErrOrRes(arg); }
   [[nodiscard]] constexpr bool isErr() const noexcept { return m_err.has_value(); }
   [[nodiscard]] constexpr bool isRes() const noexcept { return m_res.has_value(); }
   [[nodiscard]] constexpr std::string getErr() const { return m_err.value(); }

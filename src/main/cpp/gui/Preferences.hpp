@@ -13,6 +13,7 @@ class [[nodiscard]] Preferences final {
 private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
+
 public:
   explicit Preferences(bool isInMemory = false);
   Preferences(const Preferences&) = delete;
@@ -24,17 +25,17 @@ public:
   // History directory preferences
   [[nodiscard]] std::filesystem::path getPreferredHistoDir() const;
   [[nodiscard]] std::string getHistoryDirectoryDisplayLabel() const;
-  void saveHistoryDirectory(const std::filesystem::path& dir);
+  void saveHistoryDirectory(const std::filesystem::path& dir) const;
 
   // Window position and size preferences
   [[nodiscard]] std::pair<int, int> getMainWindowPosition() const;
-  void saveWindowPosition(int x, int y);
-  void saveWindowSize(int width, int height);
+  void saveWindowPosition(int x, int y) const;
+  void saveWindowSize(int width, int height) const;
 
   // Generic preference operations
-  void saveStringPreference(std::string_view key, std::string_view value);
-  void saveIntPreference(std::string_view key, int value);
-  
+  void saveStringPreference(std::string_view key, std::string_view value) const;
+  void saveIntPreference(std::string_view key, int value) const;
+
   [[nodiscard]] std::string getStringPreference(std::string_view key, std::string_view defaultValue = "") const;
   [[nodiscard]] int getIntPreference(std::string_view key, int defaultValue = 0) const;
 }; // class Preferences

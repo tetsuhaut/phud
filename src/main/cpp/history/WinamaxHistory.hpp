@@ -32,7 +32,7 @@ public:
 
   void stopLoading() override;
 
-  [[nodiscard]] std::unique_ptr<Site> reloadFile(const std::filesystem::path& winamaxHistoryFile)
+  [[nodiscard]] std::unique_ptr<Site> reloadFile(const std::filesystem::path& file)
   override;
   std::unique_ptr<Site> reloadFile(auto) = delete;
 

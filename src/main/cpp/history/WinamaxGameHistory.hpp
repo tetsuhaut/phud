@@ -7,7 +7,6 @@
 class Site;
 
 namespace WinamaxGameHistory {
-[[nodiscard]] std::unique_ptr<Site> parseGameHistory(const std::filesystem::path& gameHistoryFile);
-std::unique_ptr<Site> parseGameHistory(auto) = delete;
-
+  [[nodiscard]] std::unique_ptr<Site> parseGameHistory(const std::filesystem::path& gameHistoryFile);
+  std::unique_ptr<Site> parseGameHistory(auto) = delete;
 } // namespace WinamaxGameHistory

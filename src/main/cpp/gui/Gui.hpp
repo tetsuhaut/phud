@@ -25,7 +25,7 @@ public:
   Gui& operator=(const Gui&) = delete;
   Gui& operator=(Gui&&) = delete;
   ~Gui();
-  void informUser(std::string_view msg);
+  void informUser(std::string_view msg) const;
   /**
   * Starts the GUI.
   * @returns 0 if OK

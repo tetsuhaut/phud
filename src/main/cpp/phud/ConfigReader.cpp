@@ -10,15 +10,15 @@ static Logger LOG { CURRENT_FILE_NAME };
 
 namespace {
   constexpr std::string_view PROPERTIES_FILE { "phud-config.properties" };
-  
+
   struct KeyValue {
     std::string key;
     std::string value;
   };
-  
+
   [[nodiscard]] KeyValue readLine(std::string_view line) {
     const auto trimmedLine { phud::strings::trim(line) };
-    
+
     if (const auto equalPos { trimmedLine.find('=') }; !notFound(equalPos)) {
       const std::string key { phud::strings::trim(trimmedLine.substr(0, equalPos)) };
       const std::string value { phud::strings::trim(trimmedLine.substr(equalPos + 1)) };
@@ -27,7 +27,7 @@ namespace {
     const auto msg { std::format("Invalid configuration line (missing '='): {}", line) };
     throw ConfigReaderException(msg);
   }
-  
+
   /**
    * @brief Parse a properties file format (key=value)
    * @param configPath Path to the configuration file
@@ -41,7 +41,7 @@ namespace {
     while (file.next()) {
       if (!file.lineIsEmpty() and !file.startsWith('#')) {
         const auto [key, value] { readLine(file.getLine()) };
-        
+
         if (key != "logging.level" and key != "history.directory") {
           LOG.warn<"Unknown configuration key: '{}'">(key);
         }

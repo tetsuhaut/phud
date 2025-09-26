@@ -35,26 +35,26 @@ public:
   void error(std::string_view msg) { errorStr(fmt::format("[{}]: {}", m_name, msg)); }
   void critical(std::string_view msg) { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
 
-  template<StringLiteral FMT, typename... Args>
-  void trace(Args&& ... args) {
+  template <StringLiteral FMT, typename... Args>
+  void trace(Args&&... args) {
     //static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
     trace(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
-  template<StringLiteral FMT, typename... Args>
-  void debug(Args&& ... args) { debug(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  template <StringLiteral FMT, typename... Args>
+  void debug(Args&&... args) { debug(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
-  template<StringLiteral FMT, typename... Args>
-  void info(Args&& ... args) { info(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  template <StringLiteral FMT, typename... Args>
+  void info(Args&&... args) { info(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
-  template<StringLiteral FMT, typename... Args>
-  void warn(Args&& ... args) { warn(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  template <StringLiteral FMT, typename... Args>
+  void warn(Args&&... args) { warn(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
-  template<StringLiteral FMT, typename... Args>
-  void error(Args&& ... args) { error(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  template <StringLiteral FMT, typename... Args>
+  void error(Args&&... args) { error(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
-  template<StringLiteral FMT, typename... Args>
-  void critical(Args&& ... args) { critical(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  template <StringLiteral FMT, typename... Args>
+  void critical(Args&&... args) { critical(fmt::format(FMT.value, std::forward<Args>(args)...)); }
 
   /** Call one of those methods before any logging. */
   /**
@@ -91,9 +91,10 @@ public:
  * @param CHAR_TYPE the type of character, e.g. char or wchar or uchar
  * @param ARRAY_LENGTH the size of the char array containing the string
  * @param str the char array
+ * @param position the position in str to start searching for the beginning of the file name
  */
 template <typename CHAR_TYPE, std::size_t ARRAY_LENGTH>
-constexpr std::size_t getFileNameOffset(const CHAR_TYPE(&str)[ARRAY_LENGTH],
+constexpr std::size_t getFileNameOffset(const CHAR_TYPE (&str)[ARRAY_LENGTH],
                                         const std::size_t position = ARRAY_LENGTH - 1) {
   if constexpr (ARRAY_LENGTH == 1) { return 0; }
   // by construction, position cannot be out of scope
@@ -103,10 +104,10 @@ constexpr std::size_t getFileNameOffset(const CHAR_TYPE(&str)[ARRAY_LENGTH],
 
 // forces the compiler to do a compile time evaluation
 namespace utility {
-template <typename T, T v>
-struct [[nodiscard]] ConstexprValue final {
-  static constexpr T value = v;
-}; // struct ConstexprValue
+  template <typename T, T v>
+  struct [[nodiscard]] ConstexprValue final {
+    static constexpr T value = v;
+  }; // struct ConstexprValue
 } // namespace utility
 
 #define CURRENT_FILE_NAME &__FILE__[::utility::ConstexprValue<std::size_t, getFileNameOffset(__FILE__)>::value]

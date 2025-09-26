@@ -60,10 +60,10 @@ namespace {
 * -1 < seat < tableMaxSeats
 * 1 < tableMaxSeats < 11
 */
-[[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat_a,
+[[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat,
     Seat heroSeat, Seat tableMaxSeats, const phud::Rectangle& tablePos) {
-  assert(seat_a <= tableMaxSeats);
+  assert(seat <= tableMaxSeats);
   assert(heroSeat <= tableMaxSeats or heroSeat == Seat::seatUnknown);
-  const auto rotatedSeat { rotateRelativeToHero(seat_a, heroSeat, tableMaxSeats) };
+  const auto rotatedSeat { rotateRelativeToHero(seat, heroSeat, tableMaxSeats) };
   return calculatePosition(rotatedSeat, tableMaxSeats, tablePos);
 }

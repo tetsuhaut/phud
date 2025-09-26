@@ -4,9 +4,8 @@
 
 namespace fs = std::filesystem;
 
-PokerSiteHistory::~PokerSiteHistory() = default;
-
-/* [[nodiscard]] static */ std::unique_ptr<PokerSiteHistory> PokerSiteHistory::newInstance(
+/* [[nodiscard]] static */
+std::unique_ptr<PokerSiteHistory> PokerSiteHistory::newInstance(
   const fs::path& historyDir) {
   if (PmuHistory::isValidHistory(historyDir)) { return std::make_unique<PmuHistory>(); }
 
@@ -15,15 +14,19 @@ PokerSiteHistory::~PokerSiteHistory() = default;
   return nullptr;
 }
 
-/* [[nodiscard]] static */ bool PokerSiteHistory::isValidHistory(const fs::path& historyDir) {
-  return PmuHistory::isValidHistory(historyDir) or WinamaxHistory::isValidHistory(historyDir);
-}
+PokerSiteHistory::~PokerSiteHistory() = default;
 
-/* [[nodiscard]] static */ std::unique_ptr<Site> PokerSiteHistory::load(
+/* [[nodiscard]] static */
+std::unique_ptr<Site> PokerSiteHistory::load(
   const fs::path& historyDir) {
   if (PmuHistory::isValidHistory(historyDir)) { return PmuHistory::load(historyDir); }
 
   if (WinamaxHistory::isValidHistory(historyDir)) { return WinamaxHistory::load(historyDir); }
 
   return nullptr;
+}
+
+/* [[nodiscard]] static */
+bool PokerSiteHistory::isValidHistory(const fs::path& historyDir) {
+  return PmuHistory::isValidHistory(historyDir) or WinamaxHistory::isValidHistory(historyDir);
 }

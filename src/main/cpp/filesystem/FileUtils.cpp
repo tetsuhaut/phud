@@ -17,11 +17,11 @@ namespace {
   template <typename Iterator>
   class [[nodiscard]] FilesInDir final {
   private:
-    fs::path m_startDir;
+    fs::path m_startDir {};
 
   public:
     explicit FilesInDir(fs::path startDir) : m_startDir { std::move(startDir) } {}
-    FilesInDir(auto) = delete; // use only std::filesystem::path
+    explicit FilesInDir(auto) = delete; // use only std::filesystem::path
     [[nodiscard]] Iterator begin() const { return Iterator(m_startDir); }
     [[nodiscard]] Iterator end() const noexcept { return Iterator(); }
     [[nodiscard]] Iterator begin() { return Iterator(m_startDir); }

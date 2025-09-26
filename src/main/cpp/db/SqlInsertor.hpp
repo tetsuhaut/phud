@@ -39,7 +39,8 @@ public:
   [[nodiscard]] std::string build();
 
 
-  /*[[nodiscard]]*/ SqlInsertor& newInsert();
+  /*[[nodiscard]]*/
+  SqlInsertor& newInsert();
   [[nodiscard]] SqlInsertor& siteName(std::string_view value);
   [[nodiscard]] SqlInsertor& isHero(bool value);
   [[nodiscard]] SqlInsertor& comments(std::string_view value);
@@ -80,4 +81,4 @@ public:
   [[nodiscard]] SqlInsertor& bigBlind(double value);
 }; // class SqlInsertor
 
-[[nodiscard]] std::string formatSQL(std::string_view s);
+[[nodiscard]] std::string formatSQL(std::string_view sql);

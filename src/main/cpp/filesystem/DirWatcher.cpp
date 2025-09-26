@@ -37,7 +37,7 @@ template <typename T> requires(std::same_as<T, fs::path>)
     const auto& fileName { file.string() };
 
     if (const auto& lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
-      if ((0 == ref.count(fileName)) or (ref[fileName] != lasWriteTime)) {
+      if ((!ref.contains(fileName)) or (ref[fileName] != lasWriteTime)) {
         ref[fileName] = lasWriteTime;
         LOG.info<"The file {} has changed, notify listener">(fileName);
         fileHasChangedCb(file);

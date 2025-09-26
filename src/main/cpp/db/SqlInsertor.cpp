@@ -8,15 +8,31 @@
 
 namespace ps = phud::strings;
 
-[[nodiscard]] inline std::string toString(auto s) = delete;
-template<> inline std::string toString<std::string_view>(std::string_view s) { return std::string(s); }
-template<> inline std::string toString<char>(char s) { return std::string(1, s); }
-template<> inline std::string toString<const char*>(const char* const s) { return s; }
-template<> inline std::string toString<bool>(bool s) { return s ? "1" : "0"; }
-template<> inline std::string toString<int>(int s) { return std::to_string(s); }
-template<> inline std::string toString<std::size_t>(std::size_t s) { return std::to_string(s); }
-template<> inline std::string toString<double>(double s) { return std::to_string(s); }
-template<> inline std::string toString<Seat>(Seat seat) { return tableSeat::toString(seat).data(); }
+[[nodiscard]] std::string toString(auto s) = delete;
+
+template <>
+inline std::string toString<std::string_view>(std::string_view s) { return std::string(s); }
+
+template <>
+inline std::string toString<char>(char s) { return { s }; }
+
+template <>
+inline std::string toString<const char*>(const char* const s) { return s; }
+
+template <>
+inline std::string toString<bool>(bool s) { return s ? "1" : "0"; }
+
+template <>
+inline std::string toString<int>(int s) { return std::to_string(s); }
+
+template <>
+inline std::string toString<std::size_t>(std::size_t s) { return std::to_string(s); }
+
+template <>
+inline std::string toString<double>(double s) { return std::to_string(s); }
+
+template <>
+inline std::string toString<Seat>(Seat seat) { return tableSeat::toString(seat).data(); }
 
 static std::string_view isOk(std::string_view s) {
   validation::require(ps::contains(s, '('), "The given sqlTemplate should contain '('");
@@ -31,8 +47,10 @@ static std::string_view isOk(std::string_view s) {
 // m_valueModel contains <model of values>
 SqlInsertor::SqlInsertor(std::string_view sqlTemplate)
   : m_query { isOk(sqlTemplate).substr(0, sqlTemplate.rfind('(')) },
-    m_valueModel { sqlTemplate.substr(sqlTemplate.rfind('(') + 1, sqlTemplate.rfind(')')
-                                      - sqlTemplate.rfind('(') - 1) },
+    m_valueModel {
+      sqlTemplate.substr(sqlTemplate.rfind('(') + 1, sqlTemplate.rfind(')')
+                         - sqlTemplate.rfind('(') - 1)
+    },
     m_values { m_valueModel } {
   validation::require(ps::contains(sqlTemplate, '?'), "The given sqlTemplate should contain '?'");
 }
@@ -41,7 +59,8 @@ std::string SqlInsertor::build() {
   if (',' == m_query.back()) {
     m_query.pop_back();
     m_query.push_back(';');
-  } else {
+  }
+  else {
     m_query += fmt::format("({});", m_values);
   }
 

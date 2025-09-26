@@ -12,7 +12,7 @@ struct [[nodiscard]] PlayerCache::Implementation final {
   std::mutex m_mutex {};
   std::string m_siteName;
 
-  explicit Implementation(const std::string_view siteName): m_siteName { siteName } {}
+  explicit Implementation(const std::string_view siteName) : m_siteName { siteName } {}
 };
 
 PlayerCache::PlayerCache(std::string_view siteName) noexcept : m_pImpl { std::make_unique<Implementation>(siteName) } {}
@@ -35,7 +35,9 @@ void PlayerCache::erase(std::string_view playerName) const {
 
 void PlayerCache::addIfMissing(std::string_view playerName) const {
   const std::lock_guard lock { m_pImpl->m_mutex };
-  m_pImpl->m_players.emplace(std::make_pair(playerName, std::make_unique<Player>(Player::Params{ .name = playerName, .site = m_pImpl->m_siteName })));
+  m_pImpl->m_players.emplace(playerName, std::make_unique<Player>(Player::Params {
+                               .name = playerName, .site = m_pImpl->m_siteName, .comments = ""
+                             }));
 }
 
 bool PlayerCache::isEmpty() const {
@@ -47,7 +49,7 @@ std::vector<std::unique_ptr<Player>> PlayerCache::extractPlayers() {
   const std::lock_guard lock { m_pImpl->m_mutex };
   std::vector<std::unique_ptr<Player>> ret;
   ret.reserve(m_pImpl->m_players.size());
-  std::ranges::for_each(m_pImpl->m_players, [&](auto & nameToPlayer) { ret.push_back(std::move(nameToPlayer.second)); });
+  std::ranges::for_each(m_pImpl->m_players, [&](auto& nameToPlayer) { ret.push_back(std::move(nameToPlayer.second)); });
   m_pImpl->m_players.clear();
   return ret;
 }

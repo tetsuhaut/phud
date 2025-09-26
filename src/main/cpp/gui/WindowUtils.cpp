@@ -10,13 +10,13 @@ static Logger LOG { CURRENT_FILE_NAME };
 
 std::string getLastErrorMessageFromOS() {
   const auto localeId { LocaleNameToLCID(LOCALE_NAME_SYSTEM_DEFAULT, 0) };
-  char err[MAX_PATH + 1] { '\0' };
+  char err[MAX_PATH + 1] {};
   const auto size { FormatMessage(FORMAT_MESSAGE_FROM_SYSTEM, nullptr, GetLastError(), localeId, &err[0], MAX_PATH, nullptr) };
   err[MAX_PATH] = '\0';
   return 0 == size ? "Failed to retrieve error message from system" : std::string(&err[0]);
 }
 
-std::string getExecutableName(const HWND window) {
+std::string getExecutableName(HWND window) {
   LOG.debug<__func__>();
 
   if (nullptr == window) { return ""; }
@@ -26,7 +26,7 @@ std::string getExecutableName(const HWND window) {
   const auto myProcessHandle { OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, pid) };
   validation::requireNotNull(myProcessHandle, getLastErrorMessageFromOS());
   const auto _ { gsl::finally([myProcessHandle] { CloseHandle(myProcessHandle); }) };
-  char process[MAX_PATH + 1] { '\0' };
+  char process[MAX_PATH + 1] {};
 
   if (const auto nbChars { GetModuleFileNameEx(myProcessHandle, nullptr, &process[0], MAX_PATH) }; 0 != nbChars) {
     process[MAX_PATH] = '\0';
@@ -40,16 +40,16 @@ ErrorOrRectangleAndName getWindowRectangleAndName(const TableService& tableServi
   LOG.debug<__func__>();
   const auto& myWindowHandle { WindowFromPoint({x, y}) };
 
-  if (nullptr == myWindowHandle) { 
-    return ErrorOrRectangleAndName::err<"No window at the given position">(); 
+  if (nullptr == myWindowHandle) {
+    return ErrorOrRectangleAndName::err<"No window at the given position">();
   }
 
-  if (!tableService.isPokerApp(getExecutableName(myWindowHandle))) { 
-    return ErrorOrRectangleAndName::err<"The chosen window is not a poker table.">(); 
+  if (!tableService.isPokerApp(getExecutableName(myWindowHandle))) {
+    return ErrorOrRectangleAndName::err<"The chosen window is not a poker table.">();
   }
 
   if (RECT r; 0 != GetWindowRect(myWindowHandle, &r)) {
-    char tableName[MAX_PATH + 1] { '\0' };
+    char tableName[MAX_PATH + 1] {};
     GetWindowText(myWindowHandle, &tableName[0], MAX_PATH);
     tableName[MAX_PATH] = '\0';
     return ErrorOrRectangleAndName::res({ toRectangle(r), tableName });

@@ -18,7 +18,7 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_getDefaultValues) {
 }
 
 BOOST_AUTO_TEST_CASE(TestPreferencesTest_saveAndLoad) {
-  Preferences prefs(IN_MEMORY);
+  const Preferences prefs(IN_MEMORY);
 
   prefs.saveStringPreference("test_key", "test_value");
   prefs.saveIntPreference("test_int", 42);

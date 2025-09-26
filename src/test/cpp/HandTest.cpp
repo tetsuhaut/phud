@@ -302,7 +302,7 @@ BOOST_AUTO_TEST_SUITE(HandTest)
   }
 
   BOOST_AUTO_TEST_CASE(HandTest_passingAUniquePtrShouldBeOk) {
-    std::unique_ptr<std::string> myString { std::make_unique<std::string>("my string") };
+    auto myString { std::make_unique<std::string>("my string") };
     MyStruct1 param { .str = std::move(myString) };
     BOOST_REQUIRE("my string" == func(param));
   }

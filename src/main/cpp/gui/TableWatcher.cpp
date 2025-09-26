@@ -4,6 +4,7 @@
 #include "log/Logger.hpp"
 #include "threads/PeriodicTask.hpp"
 #include <ranges>
+#include <utility>
 #include <vector>
 
 static Logger LOG { CURRENT_FILE_NAME };
@@ -18,8 +19,8 @@ struct [[nodiscard]] TableWatcher::Implementation final {
   PeriodicTask m_periodicTask { WATCH_INTERVAL };
   std::vector<std::string> m_currentTableNames {};
 
-  explicit Implementation(const TablesChangedCallback& onTablesChanged)
-    : m_onTablesChangedCb { onTablesChanged } {
+  explicit Implementation(TablesChangedCallback  onTablesChanged)
+    : m_onTablesChangedCb {std::move( onTablesChanged )} {
     validation::requireNotNull(m_onTablesChangedCb, "m_callbacks.onTablesChanged is null");
   }
 
@@ -34,7 +35,7 @@ struct [[nodiscard]] TableWatcher::Implementation final {
       // Check if tables changed BEFORE updating m_currentTableNames
       if (m_currentTableNames != foundTables) {
         LOG.info<"Poker tables changed. Found {} table(s)">(foundTables.size());
-        
+
         // Update state after comparison
         m_currentTableNames = foundTables;
         m_onTablesChangedCb(foundTables);
@@ -53,7 +54,7 @@ struct [[nodiscard]] TableWatcher::Implementation final {
 bool TableWatcher::isPokerTable(std::string_view title) {
   // the window title should be something like 'Winamax someName someOptionalNumber'
   // e.g. 'Winamax Aalen 27', 'Winamax Athens'
-  const auto nbSpaces { std::count(title.begin(), title.end(), ' ') };
+  const auto nbSpaces { std::ranges::count(title, ' ') };
   return
     title.starts_with(WINAMAX_TABLE_PATTERN) and
     (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and
@@ -69,7 +70,7 @@ TableWatcher::~TableWatcher() {
   stop();
 }
 
-void TableWatcher::start() {
+void TableWatcher::start() const {
   LOG.debug<"Starting table watcher">();
   m_pImpl->m_periodicTask.start([this]() {
     m_pImpl->checkForTables();
@@ -77,7 +78,7 @@ void TableWatcher::start() {
   });
 }
 
-void TableWatcher::stop() {
+void TableWatcher::stop() const {
   LOG.debug<"Stopping table watcher">();
   m_pImpl->m_periodicTask.stop();
 }

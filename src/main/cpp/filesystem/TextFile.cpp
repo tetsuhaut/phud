@@ -21,8 +21,8 @@ bool TextFile::next() {
 }
 
 bool TextFile::containsOneOf(std::span<const std::string_view> patterns) const {
-  return std::end(patterns) != std::find_if(std::begin(patterns), std::end(patterns),
-  [this](const auto & s) noexcept { return containsExact(s); });
+  return std::end(patterns) != std::ranges::find_if(patterns,
+                                                    [this](const auto & s) noexcept { return containsExact(s); });
 }
 
 TextFile& TextFile::trim() {

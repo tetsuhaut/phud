@@ -32,7 +32,7 @@ public:
   [[nodiscard]] bool isPokerApp(std::string_view /*executableName*/) const override { return true; }
 
   std::string startProducingStats(std::string_view /*table*/,
-                                  std::function<void(TableStatistics&& ts)> /*observer*/) override {
+                                  const std::function<void(TableStatistics&& ts)>& /*observer*/) override {
     LOG.debug<__func__>();
     m_continue = PeriodicTaskStatus::repeatTask;
     m_task.start([this]() {
@@ -79,30 +79,37 @@ public:
 }; // class NoOpTableService
 
 class [[nodiscard]] NoOpHistoryService final : public HistoryService {
-  NoOpHistoryService(Database& db) : HistoryService(db) {}
+public:
+  explicit NoOpHistoryService(Database& db) : HistoryService(db) {}
   // HistoryService interface
   bool isValidHistory(const fs::path& /*dir*/) override { return true; }
 
   void importHistory(const fs::path& /*historyDir*/,
-                     std::function<void()> onProgress = nullptr,
-                     std::function<void(std::size_t)> onSetNbFiles = nullptr,
-                     std::function<void()> onDone = nullptr) override {
-    LOG.debug<__func__>();
-    onSetNbFiles(3);
-    onProgress();
-    onProgress();
-    onProgress();
-    onDone();
-  }
+                     const std::function<void()>& onProgress,
+                     const std::function<void(std::size_t)>& onSetNbFiles,
+                     const std::function<void()>& onDone) override;
 
   // use only std::filesystem::path
-  void importHistory(auto, std::function<void()>, std::function<void(std::size_t)>,
-                     std::function<void()>) = delete;
+  void importHistory(auto,
+                     const std::function<void()>&,
+                     const std::function<void(std::size_t)>&,
+                     const std::function<void()>&) = delete;
 
   void stopImportingHistory() override { LOG.debug<__func__>(); }
 
   void setHistoryDir(const fs::path& /*dir*/) override {}
 }; // NoOpHistoryService
+void NoOpHistoryService::importHistory(const fs::path&,
+                                       const std::function<void()>& onProgress,
+                                       const std::function<void(std::size_t)>& onSetNbFiles,
+                                       const std::function<void()>& onDone) {
+  LOG.debug<__func__>();
+  onSetNbFiles(3);
+  onProgress();
+  onProgress();
+  onProgress();
+  onDone();
+}
 
 /* no WinMain because we want the console to show debug messages */
 /*[[nodiscard]] static*/

@@ -21,8 +21,8 @@ namespace {
     }
     return result;
   }
-  
-  [[nodiscard]] constexpr bool isNumericCharOrDot(char c) noexcept {
+
+ [[nodiscard]] constexpr bool isNumericCharOrDot(char c) noexcept {
     return (c >= '0' and c <= '9') or c == '.';
   }
 
@@ -107,7 +107,7 @@ double phud::strings::toAmount(std::string_view amount) {
 double phud::strings::toBuyIn(std::string_view buyIn) {
   std::string token;
   token.reserve(buyIn.size());
-  double result { 0.0 };
+  auto result { 0.0 };
 
   std::ranges::for_each(buyIn, [&token, &result](char c) {
     if (c == '+') {

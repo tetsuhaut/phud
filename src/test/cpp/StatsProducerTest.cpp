@@ -24,7 +24,7 @@ BOOST_AUTO_TEST_CASE(
   db.save(*pSite);
   const auto& table { "Kill The Fish(152800689)#056" };
   /* create the timebomb after the database creation which can be slow */
-  StatsProducer producer { {.reloadPeriod = SG_PERIOD, .site = ProgramInfos::WINAMAX_SITE_NAME, .tableWindowName = table, .db = db} };
+  const StatsProducer producer { {.reloadPeriod = SG_PERIOD, .site = ProgramInfos::WINAMAX_SITE_NAME, .tableWindowName = table, .db = db} };
   ThreadSafeQueue<TableStatistics> statsQueue;
   producer.start(statsQueue);
   TimeBomb _ { COUNTDOWN_TO_EXPLOSION, "StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed" };

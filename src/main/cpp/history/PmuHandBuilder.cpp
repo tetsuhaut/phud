@@ -92,10 +92,10 @@ static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
 [[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line,
                                                     std::string_view cardDelimiter) {
   // [  Jd 3c ] (yep, 2 spaces) or [ 4h, 3h, Jh ] or [ Kh ]
-  const auto pos { line.find_first_not_of(" ", line.rfind('[') + 1) };
+  const auto pos { line.find_first_not_of(' ', line.rfind('[') + 1) };
   const auto strCards { line.substr(pos, line.rfind(" ]") - pos) };
   const auto& cardsStr { split(strCards, cardDelimiter) };
-  std::array<Card, 5> ret;
+  std::array<Card, 5> ret {};
   std::ranges::transform(cardsStr, ret.begin(), toCard);
   return ret;
 }
@@ -104,7 +104,7 @@ static constexpr std::array FIVE_NONE_CARDS { Card::none, Card::none, Card::none
 static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
 
 [[nodiscard]] static constexpr std::array<Card, 5> parseHeroCards(std::string_view line,
-                                                                  PlayerCache& cache) {
+                                                                  const PlayerCache& cache) {
   // it is possible that hero is present at the table but do not play
   if (line.starts_with("Dealt to ")) {
     // "^Dealt to (.*) \\[(.*)\\]$"
@@ -275,8 +275,8 @@ struct [[nodiscard]] ActionsAndWinnersAndBoardCards final {
 parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
   LOG.debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;
-  std::array boardCards { FIVE_NONE_CARDS };
-  Street lastStreet { Street::none };
+  auto boardCards { FIVE_NONE_CARDS };
+  auto lastStreet { Street::none };
 
   while (!tf.contains(" wins ")) {
     const auto& [currentStreet, streetCards] { parseStreet(tf.getLine()) };
@@ -320,7 +320,7 @@ NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(Text
   const auto& buttonSeatStr { line.substr(posSharp, line.find(" is the button") - posSharp) };
   const auto buttonSeat { ps::toInt(buttonSeatStr) };
 
-  if (line.starts_with("Seat ")) { throw "a Table line should start with 'Seat '"; }
+  if (line.starts_with("Seat ")) { throw PhudException("a Table line should start with 'Seat '"); }
 
   tf.next();
   return { .m_nbMaxSeats = nbMaxSeats, .m_tableName = tableName, .m_buttonSeat = buttonSeat };
@@ -328,7 +328,7 @@ NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(Text
 
 template <GameType gameType>
 [[nodiscard]] static std::unique_ptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
-                                                          int level, const Time& date, std::string_view handId) {
+                                                   int level, const Time& date, std::string_view handId) {
   LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
   const auto& seatPlayers { parseSeats(tf, cache) };
@@ -345,7 +345,7 @@ template <GameType gameType>
   return std::make_unique<Hand>(params);
 }
 
-std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& cache) {
+std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
   const auto handId { readHandId(tf.getLine()) };
@@ -358,11 +358,11 @@ std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCach
   tf.next();
   const auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) }; // TODO unneeded
   tf.next();
-  const auto& seatPlayers { parseSeats(tf, cache) };
-  std::ranges::for_each(seatPlayers, [&cache](const auto& p) { if (!p.empty()) { cache.addIfMissing(p); } });
+  const auto& seatPlayers { parseSeats(tf, pc) };
+  std::ranges::for_each(seatPlayers, [&pc](const auto& p) { if (!p.empty()) { pc.addIfMissing(p); } });
   seekToDealingDownCards(tf);
   tf.next();
-  const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
+  const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
   auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params p {
@@ -383,7 +383,7 @@ std::unique_ptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/,
 std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
 PmuHandBuilder::buildCashgameHandAndGameData(
   TextFile& tf,
-  PlayerCache& cache) {
+  PlayerCache& pc) {
   LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
   tf.next(); // during the 1rst hand, we don't know the names of our opponents
@@ -398,10 +398,10 @@ PmuHandBuilder::buildCashgameHandAndGameData(
   tf.next();
   const auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) };
   tf.next();
-  const auto& seatPlayers { parseSeats(tf, cache) };
+  const auto& seatPlayers { parseSeats(tf, pc) };
   seekToDealingDownCards(tf);
   tf.next();
-  const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
+  const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
   auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params params {

@@ -11,22 +11,22 @@ class TextFile;
 
 namespace WinamaxHandBuilder {
   [[nodiscard]] std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
-  buildCashgameHandAndGameData(TextFile& tfl,
+  buildCashgameHandAndGameData(TextFile& tf,
                                PlayerCache& pc);
 
   [[nodiscard]] std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
   buildTournamentHandAndGameData(
-    TextFile& tfl, PlayerCache& pc);
+    TextFile& tf, PlayerCache& pc);
 
   template <typename GAME_TYPE>
     requires(std::is_same_v<GAME_TYPE, CashGame>
       or std::is_same_v<GAME_TYPE, Tournament>)
   [[nodiscard]] std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>> buildHandAndGameData(
-    TextFile& tfl,
+    TextFile& tf,
     PlayerCache& pc) {
-    if constexpr (std::is_same_v<GAME_TYPE, CashGame>) { return buildCashgameHandAndGameData(tfl, pc); }
+    if constexpr (std::is_same_v<GAME_TYPE, CashGame>) { return buildCashgameHandAndGameData(tf, pc); }
 
-    if constexpr (std::is_same_v<GAME_TYPE, Tournament>) { return buildTournamentHandAndGameData(tfl, pc); }
+    if constexpr (std::is_same_v<GAME_TYPE, Tournament>) { return buildTournamentHandAndGameData(tf, pc); }
     return {};
   }
 
@@ -37,10 +37,10 @@ namespace WinamaxHandBuilder {
   template <typename GAME_TYPE>
     requires(std::is_same_v<GAME_TYPE, CashGame>
       or std::is_same_v<GAME_TYPE, Tournament>)
-  [[nodiscard]] std::unique_ptr<Hand> buildHand(TextFile& tfl, PlayerCache& pc) {
-    if constexpr (std::is_same_v<GAME_TYPE, CashGame>) { return buildCashgameHand(tfl, pc); }
+  [[nodiscard]] std::unique_ptr<Hand> buildHand(TextFile& tf, PlayerCache& pc) {
+    if constexpr (std::is_same_v<GAME_TYPE, CashGame>) { return buildCashgameHand(tf, pc); }
 
-    if constexpr (std::is_same_v<GAME_TYPE, Tournament>) { return buildTournamentHand(tfl, pc); }
+    if constexpr (std::is_same_v<GAME_TYPE, Tournament>) { return buildTournamentHand(tf, pc); }
     return nullptr;
   }
 } // namespace WinamaxHandBuilder

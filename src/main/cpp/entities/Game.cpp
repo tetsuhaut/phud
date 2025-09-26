@@ -32,7 +32,9 @@ Game::Game(const Params& args)
     m_limitType { args.limitType },
     m_isRealMoney { args.isRealMoney },
     m_nbMaxSeats { args.nbMaxSeats },
-    m_startDate { args.startDate } {
+    m_startDate { args.startDate },
+    // ReSharper disable once CppRedundantMemberInitializer
+    m_hands {} {
   validation::requireNonEmpty(m_id, "id");
   validation::requireNonEmpty(m_site, "site");
   validation::requireNonEmpty(m_name, "name");

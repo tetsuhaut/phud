@@ -17,7 +17,7 @@ public:
   struct [[nodiscard]] Params final {
     std::string_view name;
     std::string_view site;
-    std::string_view comments { "" };
+    std::string_view comments;
   };
 
   explicit Player(const Params& p);

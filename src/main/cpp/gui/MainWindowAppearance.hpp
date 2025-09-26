@@ -27,12 +27,12 @@
 // Y axis
 
 namespace MainWindow::Screen {
-  constexpr int elemHeight { 30 };
-  constexpr int buttonWidth { 170 };
-  constexpr int mainWindowDefaultX { 10 };
-  constexpr int mainWindowDefaultY { elemHeight };
-  constexpr int space { 5 };
-  constexpr int mainWindowWidth = 600;
+  constexpr auto elemHeight { 30 };
+  constexpr auto buttonWidth { 170 };
+  constexpr auto mainWindowDefaultX { 10 };
+  constexpr auto mainWindowDefaultY { elemHeight };
+  constexpr auto space { 5 };
+  constexpr auto mainWindowWidth { 600 };
   constexpr phud::Rectangle menuBar { .x = 0, .y = 0, .w = mainWindowWidth, .h = elemHeight };
   constexpr phud::Rectangle chooseHistoDirBtn {
     .x = space,

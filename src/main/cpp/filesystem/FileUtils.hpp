@@ -31,23 +31,28 @@ namespace phud::filesystem {
     bool listTxtFilesInDir(auto p) = delete; // use only path
 
     /**
-     * Returns the list of files ending by @param postFix contained in @param dir.
+     * @param dir the directory to search the files in
+     * @param postFix the post fix of the files
+     * @returns the list of files ending by postfix contained in dir.
      */
     [[nodiscard]] std::vector<std::filesystem::path> listFilesInDir(const std::filesystem::path& dir,
                                                                     std::string_view postFix);
     bool listFilesInDir(auto p) = delete; // use only path
 
     /**
-     * Returns the list of files matching @param pattern contained in @param dir.
-     * Pattern supports wildcards: * matches any sequence of characters.
-     * Example: "*_Wichita_*.txt" matches "20241223_Wichita_real_holdem.txt"
+     * @param dir the directory to search the files in
+     * @param pattern the pattern to match with the filename. Supports wildcards:
+     * '*' matches any sequence of characters. Example: "*_Wichita_*.txt" matches
+     * "20241223_Wichita_real_holdem.txt"
+     * @returns the list of files matching pattern contained in dir.
      */
     [[nodiscard]] std::vector<std::filesystem::path> listFilesMatchingPattern(const std::filesystem::path& dir,
                                                                               std::string_view pattern);
     bool listFilesMatchingPattern(auto p) = delete; // use only path
 
     /**
-     * Returns the list of directories contained in @param dir.
+     * @param dir the directory containing the subdirs
+     * @returns the list of directories contained in dir.
      */
     [[nodiscard]] std::vector<std::filesystem::path> listSubDirs(const std::filesystem::path& dir);
     std::vector<std::filesystem::path> listSubDirs(auto p) = delete; // use only path

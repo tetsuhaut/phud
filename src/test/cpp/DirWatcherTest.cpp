@@ -19,7 +19,7 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   const pt::TmpFile tmpFile { tmpDir / "someTmpFile.txt" };
   tmpFile.print("yop");
   BOOST_REQUIRE(1 == phud::filesystem::listTxtFilesInDir(tmpDir.path()).size());
-  DirWatcher dw { WATCH_PERIOD, tmpDir.path() };
+  const DirWatcher dw { WATCH_PERIOD, tmpDir.path() };
   std::vector<std::string> changedFiles;
   std::condition_variable cv;
   dw.start([&](const fs::path & file) {
@@ -30,9 +30,9 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   tmpFile.print("yip");
   tmpFile.print("yip");
   tmpFile.print("yip");
-  std::mutex mutex;
   {
-    std::unique_lock<std::mutex> lock { mutex };
+    std::mutex mutex;
+    std::unique_lock lock { mutex };
     cv.wait(lock);
   }
   dw.stop();

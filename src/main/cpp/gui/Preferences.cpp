@@ -14,8 +14,8 @@ namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 
 namespace {
-constexpr std::string_view CHOSEN_DIR{ "preferencesKeyChosenDir" };
-constexpr int MAX_PATH_LENGTH { 260 };
+  constexpr std::string_view CHOSEN_DIR { "preferencesKeyChosenDir" };
+  constexpr auto MAX_PATH_LENGTH { 260 };
 } // anonymous namespace
 
 struct [[nodiscard]] Preferences::Implementation final {
@@ -46,11 +46,11 @@ std::string Preferences::getHistoryDirectoryDisplayLabel() const {
       return dirString;
     }
   }
-  
+
   return std::string(MainWindow::Label::NO_HAND_HISTORY_DIRECTORY_SELECTED);
 }
 
-void Preferences::saveHistoryDirectory(const std::filesystem::path& dir) {
+void Preferences::saveHistoryDirectory(const std::filesystem::path& dir) const {
   saveStringPreference(CHOSEN_DIR, dir.string());
 }
 
@@ -59,45 +59,45 @@ std::pair<int, int> Preferences::getMainWindowPosition() const {
   int width, height;
   m_pImpl->m_preferences.get(MainWindow::Label::width.data(), width, MainWindow::Screen::mainWindow.w);
   m_pImpl->m_preferences.get(MainWindow::Label::height.data(), height, MainWindow::Screen::mainWindow.h);
-  
+
   /* compute the center position */
   int dummyX, dummyY, screenWidth, screenHeight;
   Fl::screen_xywh(dummyX, dummyY, screenWidth, screenHeight);
   const auto initX { (screenWidth - width) / 2 };
   const auto initY { (screenHeight - height) / 2 };
-  
+
   /* get the previous position from preferences. if none, use the center position */
   int x, y;
   m_pImpl->m_preferences.get(MainWindow::Label::x.data(), x, initX);
   m_pImpl->m_preferences.get(MainWindow::Label::y.data(), y, initY);
-  
+
   return { x, y };
 }
 
-void Preferences::saveWindowPosition(int x, int y) {
+void Preferences::saveWindowPosition(int x, int y) const {
   saveIntPreference(MainWindow::Label::x, x);
   saveIntPreference(MainWindow::Label::y, y);
 }
 
-void Preferences::saveWindowSize(int width, int height) {
+void Preferences::saveWindowSize(int width, int height) const {
   saveIntPreference(MainWindow::Label::width, width);
   saveIntPreference(MainWindow::Label::height, height);
 }
 
-void Preferences::saveStringPreference(std::string_view key, std::string_view value) {
+void Preferences::saveStringPreference(std::string_view key, std::string_view value) const {
   if (0 == m_pImpl->m_preferences.set(key.data(), value.data())) {
     LOG.error<"Couldn't save '{}' into the preferences repository.">(key);
   }
 }
 
-void Preferences::saveIntPreference(std::string_view key, int value) {
+void Preferences::saveIntPreference(std::string_view key, int value) const {
   if (0 == m_pImpl->m_preferences.set(key.data(), value)) {
     LOG.error<"Couldn't save '{}' into the preferences repository.">(key);
   }
 }
 
 std::string Preferences::getStringPreference(std::string_view key, std::string_view defaultValue) const {
-  char buffer[MAX_PATH_LENGTH + 1] { '\0' };
+  char buffer[MAX_PATH_LENGTH + 1] {};
   m_pImpl->m_preferences.get(key.data(), buffer, defaultValue.data(), MAX_PATH_LENGTH);
   buffer[MAX_PATH_LENGTH] = '\0';
   return buffer;

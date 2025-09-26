@@ -55,8 +55,6 @@ std::vector<const Tournament*> Site::viewTournaments() const { return view(std::
 void Site::merge(Site& other) {
   validation::require(other.getName() == m_name, "Can't merge data from different poker sites");
   std::ranges::for_each(other.m_players, [this](auto& pair) { addPlayer(std::move(pair.second)); });
-  std::move(std::begin(other.m_cashGames), std::end(other.m_cashGames),
-            std::back_inserter(m_cashGames));
-  std::move(std::begin(other.m_tournaments), std::end(other.m_tournaments),
-            std::back_inserter(m_tournaments));
+  std::ranges::move(other.m_cashGames, std::back_inserter(m_cashGames));
+  std::ranges::move(other.m_tournaments, std::back_inserter(m_tournaments));
 }

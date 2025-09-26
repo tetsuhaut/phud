@@ -19,6 +19,8 @@
 #include "threads/ThreadPool.hpp"
 #include <gsl/gsl> // gsl::finally
 
+#include "history/PokerSiteHistory.hpp"
+
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
 #  pragma warning(disable : 4191 4244 4365 4514 4625 4626 4820 5026 5027 )
@@ -113,15 +115,13 @@ public:
   MyMainWindow(MyMainWindow&&) = delete;
   MyMainWindow& operator=(const MyMainWindow&) = delete;
   MyMainWindow& operator=(MyMainWindow&&) = delete;
-  ~MyMainWindow() = default;
+  ~MyMainWindow() override = default;
 
   int handle(int e) override {
-    switch (e) {
     // disable the 'close on Esc key' default behavior
-    case Fl_Event::FL_SHORTCUT: return (FL_Escape == Fl::event_key()) ? 1 : Fl_Double_Window::handle(e);
-
-    default: return Fl_Double_Window::handle(e);
-    }
+    return ((Fl_Event::FL_SHORTCUT == e) and (FL_Escape == Fl::event_key()))
+             ? 1
+             : Fl_Double_Window::handle(e);
   }
 }; // class MyMainWindow
 
@@ -161,15 +161,6 @@ struct [[nodiscard]] Gui::Implementation final {
     ThreadPool::stop();
   }
 }; // struct Gui::Implementation
-
-template <typename T>
-[[nodiscard]] constexpr static std::unique_ptr<T> mkWidget(const phud::Rectangle& r, std::string_view label = {}) {
-  // if T can be constructed with a label and we have a non-empty label, use it
-  if constexpr (requires { T(r.x, r.y, r.w, r.h, label.data()); }) {
-    if (!label.empty()) { return std::make_unique<T>(r.x, r.y, r.w, r.h, label.data()); }
-  }
-  return std::make_unique<T>(r.x, r.y, r.w, r.h);
-}
 
 [[nodiscard]] inline std::unique_ptr<Fl_Native_File_Chooser> buildDirectoryChooser(
   const Preferences& preferences) {
@@ -250,7 +241,7 @@ static void removeUselessPlayerIndicators(
   TableService& tableService) {
   LOG.info<"Delete table indicators for removed table(s)">();
   for (auto it = playerIndicators.begin(); it != playerIndicators.end();) {
-    if (tableNames.end() == std::find(tableNames.begin(), tableNames.end(), it->first)) {
+    if (tableNames.end() == std::ranges::find(tableNames, it->first)) {
       // Stop monitoring this table
       tableService.stopProducingStats();
 
@@ -275,7 +266,7 @@ static void updateUsefulPlayerIndicators(
   LOG.info<"Create/Update table indicators for {} table(s)">(tableNames.size());
   for (const auto& tableName : tableNames) {
     // Create entry if it doesn't exist
-    if (playerIndicators.find(tableName) == playerIndicators.end()) {
+    if (!playerIndicators.contains(tableName)) {
       playerIndicators[tableName] = std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS> {};
       LOG.debug<"Created player indicators array for table: {}">(tableName);
 
@@ -291,7 +282,7 @@ static void updateUsefulPlayerIndicators(
               phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
 
               // Update PlayerIndicators with real statistics
-              if (playerIndicators.find(tableName) != playerIndicators.end()) {
+              if (playerIndicators.contains(tableName)) {
                 LOG.debug<"Updating player indicators for table '{}'">(tableName);
                 updateTablePlayerIndicators(playerIndicators[tableName], tableRect, std::move(stats));
               }
@@ -329,6 +320,8 @@ static void managePlayerIndicatorsForTables(
 * Called by the GUI (button component) when the user clicks on the 'exit'
 * button.
 */
+// ReSharper disable once CppParameterMayBeConstPtrOrRef
+// as this function has to be an Fl_Callback
 static void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   LOG.debug<__func__>();
   LOG.info<"Stopping the GUI.">();
@@ -430,10 +423,11 @@ template <typename WIDGET>
 }
 
 [[nodiscard]] static gsl::not_null<Fl_Menu_Bar*> buildMenuBar(Gui::Implementation* impl) {
-  return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [impl](Fl_Menu_Bar* menu) {
-    menu->add("&File/E&xit", 0, exitCb, impl);
-    menu->box(FL_NO_BOX);
-  });
+  return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar,
+                                   [impl](Fl_Menu_Bar* menu) {
+                                     menu->add("&File/E&xit", 0, exitCb, impl);
+                                     menu->box(FL_NO_BOX);
+                                   });
 }
 
 namespace DirectoryChoiceHandler {
@@ -479,7 +473,7 @@ namespace DirectoryChoiceHandler {
     }
   }
 
-  void handleError(Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
+  void handleError(const Fl_Native_File_Chooser* chooser, Gui::Implementation& self) {
     if (nullptr == chooser->errmsg()) {
       informUser<MainWindow::Label::fileChoiceError>(self);
     }
@@ -625,24 +619,22 @@ Gui::Gui(TableService& tableService, HistoryService& historyService)
   m_pImpl->m_histoDirTextField = buildHistoDirTextField(*m_pImpl->m_preferences);
   m_pImpl->m_progressBar = buildProgressBar();
   m_pImpl->m_watchedTablesLabel = buildWatchedTablesLabel();
-  if (const auto dir { m_pImpl->m_preferences->getPreferredHistoDir() }; pf::isDir(dir)) {
+
+  if (const auto dir { m_pImpl->m_preferences->getPreferredHistoDir() }; PokerSiteHistory::isValidHistory(dir)) {
     m_pImpl->m_historyService.setHistoryDir(dir);
     // Connect HistoryService and TableService
-    if (auto pokerSiteHistory = m_pImpl->m_historyService.getPokerSiteHistory()) {
-      m_pImpl->m_tableService.setPokerSiteHistory(pokerSiteHistory);
+    if (const auto h { m_pImpl->m_historyService.getPokerSiteHistory() }) {
+      m_pImpl->m_tableService.setPokerSiteHistory(h);
     }
   }
-
   m_pImpl->m_stopHudBtn = buildStopHudBtn(*m_pImpl);
   m_pImpl->m_infoBar = buildInfoBar();
-
   // Create and start table watcher
   m_pImpl->m_tableWatcher = buildTableWatcher(
     m_pImpl->m_watchedTablesLabel,
     m_pImpl->m_playerIndicators,
     m_pImpl->m_tableService);
   m_pImpl->m_tableWatcher->start();
-
   m_pImpl->m_mainWindow->end();
 }
 
@@ -651,7 +643,7 @@ Gui::~Gui() = default;
 /**
  * Displays the given msg in the info bar.
  */
-void Gui::informUser(std::string_view msg) {
+void Gui::informUser(std::string_view msg) const {
   ::informUser(*m_pImpl, msg);
 }
 

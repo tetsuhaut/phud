@@ -44,11 +44,11 @@ public:
 
   ~Database();
   void save(const Site& site);
-  void save(const CashGame& game);
-  void save(const Tournament& game);
-  void save(std::span<const Player* const> players);
+  void save(const CashGame& game) const;
+  void save(const Tournament& game) const;
+  void save(std::span<const Player* const> players) const;
   // exported for unit tests
-  [[nodiscard]] std::unique_ptr<PlayerStatistics> readPlayerStatistics(std::string_view sn,
+  [[nodiscard]] std::unique_ptr<PlayerStatistics> readPlayerStatistics(std::string_view site,
       std::string_view playerName) const;
   /**
    * Retrieves the stats for each player of a given table.

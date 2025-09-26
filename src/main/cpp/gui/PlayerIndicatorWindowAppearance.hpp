@@ -14,9 +14,9 @@
 // Y
 
 namespace PlayerIndicatorWindow::surface {
-  constexpr int width = 100;
-  constexpr int statsHeight = 12;
-  constexpr int playerNameHeight = 12;
-  constexpr int height = 1 + statsHeight + 1 + playerNameHeight + 1;
+  constexpr auto width { 100 };
+  constexpr auto statsHeight { 12 };
+  constexpr auto playerNameHeight { 12 };
+  constexpr auto height { 1 + statsHeight + 1 + playerNameHeight + 1 };
   // constexpr int
 } // namespace PlayerIndicatorWindow::surface

@@ -25,7 +25,7 @@ public:
   PlayerIndicator(PlayerIndicator&&) = delete;
   PlayerIndicator& operator=(const PlayerIndicator&) = delete;
   PlayerIndicator& operator=(PlayerIndicator&&) = delete;
-  ~PlayerIndicator();
+  ~PlayerIndicator() override;
 
   void setStats(const PlayerStatistics& ps) const;
 

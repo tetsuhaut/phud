@@ -42,7 +42,7 @@ struct [[nodiscard]] TableService::Implementation final {
   }
 
   static void watchHistoFile(TableService::Implementation& self, const fs::path& file,
-                            std::string table, auto observer) {
+                            std::string table, const auto& observer) {
     LOG.debug<"Starting to watch history file: {} for table: {}">(file.string(), table);
     self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
     self.m_fileWatcher->start([&self, table, observer](const fs::path & f) {
@@ -59,7 +59,7 @@ struct [[nodiscard]] TableService::Implementation final {
 
 }; // struct TableService::Implementation
 
-static void notify(TableStatistics&& stats, auto observer) {
+static void notify(TableStatistics&& stats, const auto& observer) {
   if (Seat::seatUnknown == stats.getMaxSeat()) {
     LOG.debug<"Got no stats from db.">();
   } else {
@@ -88,7 +88,7 @@ bool TableService::isPokerApp(std::string_view executableName) const {
 }
 
 std::string TableService::startProducingStats(std::string_view tableWindowTitle,
-                                             std::function<void(TableStatistics&&)> statObserver) {
+                                             const std::function<void(TableStatistics&&)>& observer) {
   LOG.debug<"Starting to produce stats for table window: {}">(tableWindowTitle);
 
   if (!m_pImpl->m_pokerSiteHistory) {
@@ -105,16 +105,16 @@ std::string TableService::startProducingStats(std::string_view tableWindowTitle,
 
   const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
   LOG.debug<"Table name extracted: '{}', history file: {}">(tableName, h.string());
-  TableService::Implementation::watchHistoFile(*m_pImpl, h, std::string(tableName), statObserver);
+  TableService::Implementation::watchHistoFile(*m_pImpl, h, std::string(tableName), observer);
   return "";
 }
 
 void TableService::stopProducingStats() {
-  if (nullptr != m_pImpl->m_fileWatcher) { 
-    m_pImpl->m_fileWatcher->stop(); 
+  if (nullptr != m_pImpl->m_fileWatcher) {
+    m_pImpl->m_fileWatcher->stop();
   }
-  if (m_pImpl->m_reloadTask.valid()) { 
-    stlab::await(std::move(m_pImpl->m_reloadTask)); 
+  if (m_pImpl->m_reloadTask.valid()) {
+    stlab::await(std::move(m_pImpl->m_reloadTask));
   }
   m_pImpl->m_reloadTask.reset();
 }

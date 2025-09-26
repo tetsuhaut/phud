@@ -202,7 +202,7 @@ private:
 public:
   explicit Transaction(gsl::not_null<sqlite3*> a_db)
     : m_db { a_db } {
-    const std::lock_guard<std::mutex> lock { m_mutex };
+    const std::lock_guard lock { m_mutex };
     executeSql(m_db, "BEGIN TRANSACTION;");
   }
 
@@ -253,14 +253,14 @@ Database::~Database() {
 /**
  * @throws DatabaseException
  */
-void Database::save(const CashGame& game) { saveGame(m_pImpl->m_database, game); }
+void Database::save(const CashGame& game) const { saveGame(m_pImpl->m_database, game); }
 
 /**
  * @throws DatabaseException
  */
-void Database::save(const Tournament& game) { saveGame(m_pImpl->m_database, game); }
+void Database::save(const Tournament& game) const { saveGame(m_pImpl->m_database, game); }
 
-void Database::save(std::span<const Player* const> players) {
+void Database::save(std::span<const Player* const> players) const {
   if (players.empty()) { return; }
 
   static_assert(ps::contains(phud::sql::INSERT_PLAYER, '?'), "ill-formed SQL template");
@@ -459,7 +459,7 @@ public:
     throw DatabaseException(fmt::format("Got a null column name for column {} preparing statement {}", column, m_sql));
   }
 
-  [[nodiscard]] bool getColumnAsBool(int column) noexcept { return 0 != getColumnAsInt(column); }
+  [[nodiscard]] bool getColumnAsBool(int column) const noexcept { return 0 != getColumnAsInt(column); }
 }; // class PreparedStatement
 
 Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) const {
@@ -524,12 +524,12 @@ TableStatistics Database::readTableStatistics(const ReadTableStatisticsArgs& arg
 }
 
 std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site,
-                                                                 std::string_view player) const {
+                                                                 std::string_view playerName) const {
   static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, '?'),
                 "ill-formed SQL template");
   const auto& sql {
     SqlSelector(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME).site(site)
-                                                             .player(player).toString()
+                                                             .player(playerName).toString()
   };
   PreparedStatement p { m_pImpl->m_database, sql };
 
@@ -542,7 +542,8 @@ std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_vie
   const auto nbHands { p.getColumnAsInt(3) };
   return std::make_unique<PlayerStatistics>(
     PlayerStatistics::Params {
-      .playerName = player, .siteName = site, .isHero = isHero, .nbHands = nbHands, .vpip = vpip, .pfr = pfr
+      .playerName = playerName, .siteName = site, .isHero = isHero,
+      .nbHands = nbHands, .vpip = vpip, .pfr = pfr
     });
 }
 

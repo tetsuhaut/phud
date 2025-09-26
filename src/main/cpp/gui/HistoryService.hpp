@@ -32,7 +32,7 @@ public:
    * @return True if directory contains valid history files
    */
   [[nodiscard]] virtual bool isValidHistory(const std::filesystem::path& dir);
-  
+
   /**
    * Imports history from the given directory.
    * @param dir Directory containing history files
@@ -40,10 +40,10 @@ public:
    * @param onSetNbFiles Callback called when total file count is known
    * @param onDone Callback called when import is complete
    */
-  virtual void importHistory(const std::filesystem::path& dir, 
-                             std::function<void()> onProgress,
-                             std::function<void(std::size_t)> onSetNbFiles,
-                             std::function<void()> onDone);
+  virtual void importHistory(const std::filesystem::path& dir,
+                             const std::function<void()>& onProgress,
+                             const std::function<void(std::size_t)>& onSetNbFiles,
+                             const std::function<void()>& onDone);
 
   /**
    * Stops importing history.

@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////
 // No unit tests here. This file must be the only one defining BOOST_TEST_MODULE. //
 ///////////////////////////////////////////////////////////////////////////////////
-#define BOOST_TEST_MODULE Unit Tests for the Poker Head-Up Dispay
+#define BOOST_TEST_MODULE (Unit Tests for the Poker Head-Up Dispay)
 
 #include "TestInfrastructure.hpp" // boost::unit_test::*
 #include "filesystem/FileUtils.hpp" // phud::filesystem
@@ -14,6 +14,8 @@
 #include <fstream> // std::ofstream
 #include <source_location>
 #include <system_error> // std::error_code
+
+#include "language/PhudException.hpp"
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -129,11 +131,11 @@ fs::path pt::getTestCppDir() {
  * @note We use Path to handle UTF-8 and UTF-16 file names.
 */
 [[nodiscard]] static fs::path getTmpFilePath() {
-  char ret[L_tmpnam] { '\0' };
+  char ret[L_tmpnam] {};
 
   if (const auto errorCode { tmpnam_s(ret, std::size(ret)) }; 0 != errorCode) [[unlikely]] {
     strerror_s(ret, std::size(ret), errorCode);
-    throw ret;
+    throw PhudException(ret);
   }
 
   // with gcc lhmouse, fs::temp_directory_path() returns an empty path and
@@ -159,8 +161,8 @@ static void removeWithMessage(const fs::path& file) {
   }
 }
 
-pt::TmpFile::TmpFile(std::string_view name)
-  : m_file { name.empty() ? getTmpFilePath().string() : std::string(name) } {
+pt::TmpFile::TmpFile(std::string_view fileName)
+  : m_file { fileName.empty() ? getTmpFilePath().string() : std::string(fileName) } {
   fs::remove(m_file);
   this->print("");
 }
@@ -189,7 +191,7 @@ pt::TmpDir::TmpDir(std::string_view dirName) :
 pt::TmpDir::~TmpDir() { removeWithMessage(m_dir); }
 
 std::string pt::TmpDir::operator/(std::string_view file) const {
-  fs::path p { m_dir };
+  auto p { m_dir };
   return p.append(file).string();
 }
 

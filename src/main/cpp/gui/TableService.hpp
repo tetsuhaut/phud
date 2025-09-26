@@ -20,7 +20,7 @@ class [[nodiscard]] TableService /*final*/ {
 private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
-  
+
 public:
   explicit TableService(Database& database);
   TableService(const TableService&) = delete;
@@ -38,13 +38,12 @@ public:
 
   /**
    * Starts producing statistics for the given table.
-   * @param tableName Name of table to monitor
+   * @param tableWindowTitle Name of table to monitor
    * @param observer Callback for statistics updates
    * @return Error message if failed, empty string if success
    */
-  [[nodiscard]] virtual std::string startProducingStats(std::string_view tableName, 
-                                                        std::function<void(TableStatistics&&)> observer);
-  
+  [[nodiscard]] virtual std::string startProducingStats(std::string_view tableWindowTitle,
+                                                        const std::function<void(TableStatistics&&)>& observer);
   /**
    * Stops producing statistics for the current table.
    */
