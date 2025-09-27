@@ -488,7 +488,7 @@ namespace DirectoryChoiceHandler {
   // Called by the GUI (button component) when the user clicks on the 'choose history directory' button.
   // Displays a directory chooser window.
   auto choseHistoDirCb = [](Fl_Widget*, void* hiddenSelf) {
-    LOG.debug<__func__>();
+    LOG.debug<"choseHistoDirCb">();
     auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
     informUser<MainWindow::Label::chooseHistoDirText>(self);
     const auto dirChoser { buildDirectoryChooser(*self.m_preferences) };
@@ -517,7 +517,7 @@ namespace DirectoryChoiceHandler {
   // Called by the GUI (button component) when the user clicks on the 'stop HUD'
   auto stopHudCb = [](Fl_Widget* button, void* hiddenSelf) {
     auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
-    LOG.debug<__func__>();
+    LOG.debug<"stopHudCb">();
     // Use business service to stop monitoring
     self.m_tableService.stopProducingStats();
     // kill PlayerIndicators

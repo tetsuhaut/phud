@@ -5,7 +5,7 @@
 
 namespace {
   struct [[nodiscard]] StrContainer final {
-    std::string str;
+    std::string str {};
   }; // struct StrContainer
 } // anonymous namespace
 

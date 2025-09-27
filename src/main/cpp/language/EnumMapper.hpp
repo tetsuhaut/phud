@@ -13,7 +13,7 @@ private:
     std::array<EnumToString, N> m_enumToStringList;
 
 public:
-    explicit constexpr EnumMapper(std::array<EnumToString, N> pairs) : m_enumToStringList(pairs) {}
+    explicit constexpr EnumMapper(std::array<EnumToString, N> pairs) : m_enumToStringList(std::move(pairs)) {}
 
     [[nodiscard]] constexpr std::string_view toString(EnumType e) const {
         const auto it { std::ranges::find_if(m_enumToStringList, [e](const auto& p) { return p.first == e; }) };
