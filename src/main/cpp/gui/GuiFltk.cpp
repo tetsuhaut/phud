@@ -180,9 +180,11 @@ struct [[nodiscard]] Gui::Implementation final {
   Implementation& operator=(Implementation&&) = delete;
 
   ~Implementation() {
+    m_historyService.stopImportingHistory();
     if (m_tableWatcher) {
       m_tableWatcher->stop();
     }
+    m_tableService.stopProducingStats();
     ThreadPool::stop();
   }
 }; // struct Gui::Implementation
@@ -284,11 +286,12 @@ static void removeUselessPlayerIndicators(
   }
 }
 
-static TableService::TableObserverCallback buildTableObserver(TableWindowTitleToTablePlayerIndicators& playerIndicators, std::string_view tableWindowTitle) {
-  return [&playerIndicators, title = tableWindowTitle](TableStatistics&& stats) {
+static TableService::TableObserverCallback buildTableObserver(TableWindowTitleToTablePlayerIndicators& playerIndicators,
+                                                              std::string_view tableWindowTitle) {
+  return [&playerIndicators, title = std::string(tableWindowTitle)](TableStatistics&& stats) {
     LOG.debug<"Observer called for table '{}'">(stats.getTable());
     LOG.debug<"About to schedule UI task for table '{}'">(stats.getTable());
-    scheduleUITask([&playerIndicators, title = std::string(title), stats = std::move(stats)]() mutable {
+    scheduleUITask([&playerIndicators, title, stats = std::move(stats)]() mutable {
       LOG.debug<"Scheduled UI task executing for table window '{}'">(title);
 
       if (const auto tableRect { getTableWindowRectangle(title) }) {
@@ -315,9 +318,10 @@ static void updateUsefulPlayerIndicators(
   TableService& tableService) {
   LOG.info<"Create/Update table indicators for {} table(s)">(tableWindowTitles.size());
   const auto& tableTitleNotYetMonitored {
-      tableWindowTitles
+    tableWindowTitles
     | std::views::filter([&playerIndicators](const auto& title) { return !playerIndicators.contains(title); })
-    | std::ranges::to<std::vector<std::string>>() };
+    | std::ranges::to<std::vector<std::string>>()
+  };
   // Create entry if it doesn't exist
   std::ranges::for_each(tableTitleNotYetMonitored, [&playerIndicators, &tableService](const auto& title) {
     playerIndicators[title] = TablePlayerIndicators {};
@@ -598,13 +602,14 @@ static std::string getWatchedTableLabel(std::span<const std::string> tableNames)
   TableService& tableService) {
   TableWatcher::TableWindowsDetectedCallback onTableWindowsDetectedCb {
     [pWatchedTableLabel, &playerIndicators, &tableService](std::span<const std::string> tableWindowTitles) {
-      scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, tableWindowTitles = toVector(tableWindowTitles)]() {
-        // Update label and player indicators
-        const auto& label { getWatchedTableLabel(tableWindowTitles) };
-        pWatchedTableLabel->copy_label(label.c_str());
-        removeUselessPlayerIndicators(playerIndicators, tableWindowTitles, tableService);
-        updateUsefulPlayerIndicators(playerIndicators, tableWindowTitles, tableService);
-      });
+      scheduleUITask(
+        [pWatchedTableLabel, &playerIndicators, &tableService, tableWindowTitles = toVector(tableWindowTitles)]() {
+          // Update label and player indicators
+          const auto& label { getWatchedTableLabel(tableWindowTitles) };
+          pWatchedTableLabel->copy_label(label.c_str());
+          removeUselessPlayerIndicators(playerIndicators, tableWindowTitles, tableService);
+          updateUsefulPlayerIndicators(playerIndicators, tableWindowTitles, tableService);
+        });
     }
   };
 
