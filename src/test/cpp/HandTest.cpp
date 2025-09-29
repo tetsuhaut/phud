@@ -8,6 +8,7 @@
 #include "entities/Site.hpp"
 #include "entities/Seat.hpp"
 #include "filesystem/TextFile.hpp"
+#include "history/GameData.hpp"
 #include "history/WinamaxHandBuilder.hpp" // toAmount, toBuyIn
 #include "history/WinamaxGameHistory.hpp"
 #include "strings/StringUtils.hpp" // phud::strings

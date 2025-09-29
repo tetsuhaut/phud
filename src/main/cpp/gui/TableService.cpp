@@ -105,7 +105,7 @@ bool TableService::isPokerApp(std::string_view executableName) {
 }
 
 std::string TableService::startProducingStats(std::string_view tableWindowTitle,
-                                              const std::function<void(TableStatistics&&)>& observerCb) {
+                                              const TableObserverCallback& observerCb) {
   LOG.info<"Starting to produce stats for table window: {}">(tableWindowTitle);
 
   if (!m_pImpl->m_pokerSiteHistory) {

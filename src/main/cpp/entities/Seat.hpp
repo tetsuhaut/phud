@@ -26,7 +26,7 @@ namespace tableSeat {
   /*
    * Transforms Seat::SeatOne into 1 and so on.
    */
-  [[nodiscard]] constexpr int toInt(Seat seat) {
+  [[nodiscard]] constexpr int toInt(Seat seat) noexcept {
     return static_cast<int>(seat) + 1;
   }
 
@@ -38,7 +38,7 @@ namespace tableSeat {
   /*
    * Transforms Seat::SeatOne into 0 and so on.
    */
-  [[nodiscard]] constexpr std::size_t toArrayIndex(Seat seat) {
+  [[nodiscard]] constexpr std::size_t toArrayIndex(Seat seat) noexcept {
     return static_cast<std::size_t>(seat);
   }
 } // namespace tableSeat

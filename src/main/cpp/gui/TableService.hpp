@@ -22,6 +22,8 @@ private:
   std::unique_ptr<Implementation> m_pImpl;
 
 public:
+  using TableObserverCallback = std::function<void(TableStatistics&&)>;
+
   explicit TableService(Database& database);
   TableService(const TableService&) = delete;
   TableService(TableService&&) = delete;
@@ -43,7 +45,7 @@ public:
    * @return Error message if failed, empty string if success
    */
   [[nodiscard]] virtual std::string startProducingStats(std::string_view tableWindowTitle,
-                                                        const std::function<void(TableStatistics&&)>& observerCb);
+                                                        const TableObserverCallback& observerCb);
   /**
    * Stops producing statistics for the current table.
    */

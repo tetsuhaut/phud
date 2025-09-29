@@ -12,9 +12,9 @@ private:
   std::unique_ptr<Implementation> m_pImpl;
 
 public:
-  using TablesChangedCallback = std::function<void(std::span<const std::string> tableNames)>;
+  using TableWindowsDetectedCallback = std::function<void(std::span<const std::string> tableNames)>;
 
-  explicit TableWatcher(const TablesChangedCallback& onTablesChanged);
+  explicit TableWatcher(const TableWindowsDetectedCallback& onTablesChanged);
   TableWatcher(const TableWatcher&) = delete;
   TableWatcher(TableWatcher&&) = delete;
   TableWatcher& operator=(const TableWatcher&) = delete;

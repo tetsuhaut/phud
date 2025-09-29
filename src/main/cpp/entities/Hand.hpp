@@ -62,17 +62,17 @@ public:
   [[nodiscard]] constexpr Seat getMaxSeats() const noexcept { return m_maxSeats; }
   [[nodiscard]] constexpr int getLevel()const noexcept { return m_level; }
   [[nodiscard]] constexpr long getAnte() const noexcept { return m_ante; }
-  [[nodiscard]] constexpr Time getStartDate() const noexcept { return m_date; }
+  [[nodiscard]] Time getStartDate() const noexcept { return m_date; }
   [[nodiscard]] bool isPlayerInvolved(std::string_view name) const;
-  [[nodiscard]] constexpr Card getHeroCard1() const { return m_heroCards.at(0); }
-  [[nodiscard]] constexpr Card getHeroCard2() const { return m_heroCards.at(1); }
-  [[nodiscard]] constexpr Card getHeroCard3() const { return m_heroCards.at(2); }
-  [[nodiscard]] constexpr Card getHeroCard4() const { return m_heroCards.at(3); }
-  [[nodiscard]] constexpr Card getHeroCard5() const { return m_heroCards.at(4); }
-  [[nodiscard]] constexpr Card getBoardCard1() const { return m_boardCards.at(0); }
-  [[nodiscard]] constexpr Card getBoardCard2() const { return m_boardCards.at(1); }
-  [[nodiscard]] constexpr Card getBoardCard3() const { return m_boardCards.at(2); }
-  [[nodiscard]] constexpr Card getBoardCard4() const { return m_boardCards.at(3); }
-  [[nodiscard]] constexpr Card getBoardCard5() const { return m_boardCards.at(4); }
+  [[nodiscard]] constexpr Card getHeroCard1() const noexcept { return m_heroCards.at(0); }
+  [[nodiscard]] constexpr Card getHeroCard2() const noexcept { return m_heroCards.at(1); }
+  [[nodiscard]] constexpr Card getHeroCard3() const noexcept { return m_heroCards.at(2); }
+  [[nodiscard]] constexpr Card getHeroCard4() const noexcept { return m_heroCards.at(3); }
+  [[nodiscard]] constexpr Card getHeroCard5() const noexcept { return m_heroCards.at(4); }
+  [[nodiscard]] constexpr Card getBoardCard1() const noexcept { return m_boardCards.at(0); }
+  [[nodiscard]] constexpr Card getBoardCard2() const noexcept { return m_boardCards.at(1); }
+  [[nodiscard]] constexpr Card getBoardCard3() const noexcept { return m_boardCards.at(2); }
+  [[nodiscard]] constexpr Card getBoardCard4() const noexcept { return m_boardCards.at(3); }
+  [[nodiscard]] constexpr Card getBoardCard5() const noexcept { return m_boardCards.at(4); }
   [[nodiscard]] bool isWinner(std::string_view playerName) const noexcept;
 }; // class Hand

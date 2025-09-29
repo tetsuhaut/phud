@@ -26,8 +26,7 @@ namespace WinamaxHandBuilder {
     PlayerCache& pc) {
     if constexpr (std::is_same_v<GAME_TYPE, CashGame>) { return buildCashgameHandAndGameData(tf, pc); }
 
-    if constexpr (std::is_same_v<GAME_TYPE, Tournament>) { return buildTournamentHandAndGameData(tf, pc); }
-    return {};
+    return buildTournamentHandAndGameData(tf, pc);
   }
 
   [[nodiscard]] std::unique_ptr<Hand> buildCashgameHand(TextFile& tf, PlayerCache& pc);
@@ -40,7 +39,6 @@ namespace WinamaxHandBuilder {
   [[nodiscard]] std::unique_ptr<Hand> buildHand(TextFile& tf, PlayerCache& pc) {
     if constexpr (std::is_same_v<GAME_TYPE, CashGame>) { return buildCashgameHand(tf, pc); }
 
-    if constexpr (std::is_same_v<GAME_TYPE, Tournament>) { return buildTournamentHand(tf, pc); }
-    return nullptr;
+    return buildTournamentHand(tf, pc);
   }
 } // namespace WinamaxHandBuilder

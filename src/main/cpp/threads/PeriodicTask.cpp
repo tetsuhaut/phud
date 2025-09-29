@@ -37,11 +37,11 @@ void PeriodicTask::stop() const {
   if (!m_pImpl->m_taskIsStopped) {
     {
       std::unique_lock lock { m_pImpl->m_mutex }; // noexcept
-      m_pImpl->m_futureTaskResult.reset(); // should be noexcept :)
+      m_pImpl->m_futureTaskResult.reset(); // noexcept
       m_pImpl->m_stop = true;
       m_pImpl->m_cv.notify_all(); // noexcept
     }
-    join();
+    join(); // not nexcept
   }
 }
 
@@ -75,6 +75,3 @@ void PeriodicTask::start(const std::function<PeriodicTaskStatus()>& task) const 
   });
 }
 
-std::string_view toString(PeriodicTaskStatus status) {
-  return PeriodicTaskStatus::repeatTask == status ? "repeatTask" : "stopTask";
-}

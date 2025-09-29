@@ -258,7 +258,7 @@ target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 ################################################################################
 # bugged since 2.1.1 :-(
 # bug : https://github.com/stlab/libraries/issues/575
-# find_package(stlab 2.0.2 REQUIRED)
+# find_package(stlab 2.1.2 REQUIRED)
 # target_link_libraries(mainLib PRIVATE stlab::stlab)
 # target_link_libraries(unitTests PRIVATE stlab::stlab)
 
@@ -272,7 +272,7 @@ if(NOT EXISTS "${STLAB_BUILD_DIR}")
 endif()
 
 set(STLAB_INCLUDE_DIR1 "${STLAB_BUILD_DIR}/include")
-set(STLAB_INCLUDE_DIR2 "${STLAB_BUILD_DIR}/../libraries-2.1.1/include")
+set(STLAB_INCLUDE_DIR2 "${STLAB_BUILD_DIR}/../libraries-2.1.2/include")
 find_library(STLAB_LIBRARY
     NAMES stlab libstlab
     PATHS "${STLAB_BUILD_DIR}"

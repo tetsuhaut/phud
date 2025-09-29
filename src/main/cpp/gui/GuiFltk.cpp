@@ -97,7 +97,7 @@ namespace {
   }
 
   using TablePlayerIndicators = std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>;
-  using TableNameToTablePlayerIndicators = std::unordered_map<std::string, TablePlayerIndicators>;
+  using TableWindowTitleToTablePlayerIndicators = std::unordered_map<std::string, TablePlayerIndicators>;
 
   /**
    * Defines the concept of a function taking no argument and returning void
@@ -168,7 +168,7 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Box* m_infoBar { nullptr };
   Fl_Menu_Bar* m_menuBar { nullptr };
   std::unique_ptr<TableWatcher> m_tableWatcher { nullptr };
-  TableNameToTablePlayerIndicators m_playerIndicators {};
+  TableWindowTitleToTablePlayerIndicators m_playerIndicators {};
 
   explicit Implementation(TableService& tableService, HistoryService& historyService)
     : m_tableService { tableService }
@@ -219,7 +219,7 @@ static void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
 }
 
 // TODO:  try window->stay_on_top(1) instead of this
-static void setWindowOnTopMost(const Fl_Window& above) {
+static void setWindowOnTopMost(const Fl_Window& above) noexcept {
   setWindowOnTopMost(fl_xid(&above));
 }
 
@@ -263,21 +263,20 @@ static void updateTablePlayerIndicators(
 }
 
 static void removeUselessPlayerIndicators(
-  TableNameToTablePlayerIndicators& playerIndicators,
-  const std::span<const std::string> tableNames,
+  TableWindowTitleToTablePlayerIndicators& tableToPlayerIndicators,
+  const std::span<const std::string> tableWindowTitles,
   TableService& tableService) {
-  LOG.info<"Delete table indicators for removed table(s)">();
-  for (auto it = playerIndicators.begin(); it != playerIndicators.end();) {
-    if (tableNames.end() == std::ranges::find(tableNames, it->first)) {
+  LOG.info<"Delete table indicators for removed table window(s)">();
+
+  for (auto it = tableToPlayerIndicators.begin(); it != tableToPlayerIndicators.end();) {
+    if (const auto& title { it->first }; !std::ranges::contains(tableWindowTitles, title)) {
       // Stop monitoring this table
       tableService.stopProducingStats();
-
       // Clear all player indicators for this table
-      for (auto& pi : it->second) {
-        pi.reset();
-      }
-      LOG.debug<"Removed player indicators for table: {}">(it->first);
-      it = playerIndicators.erase(it);
+      auto& playerIndicators { it->second };
+      std::ranges::for_each(playerIndicators, [](auto& pi) { pi.reset(); });
+      LOG.debug<"Removed player indicators for table window: {}">(title);
+      it = tableToPlayerIndicators.erase(it);
     }
     else {
       ++it;
@@ -285,64 +284,49 @@ static void removeUselessPlayerIndicators(
   }
 }
 
-static void updateUsefulPlayerIndicators(
-  TableNameToTablePlayerIndicators& playerIndicators,
-  const std::span<const std::string> tableNames,
-  TableService& tableService) {
-  LOG.info<"Create/Update table indicators for {} table(s)">(tableNames.size());
-  for (const auto& tableName : tableNames) {
-    // Create entry if it doesn't exist
-    if (!playerIndicators.contains(tableName)) {
-      playerIndicators[tableName] = TablePlayerIndicators {};
+static TableService::TableObserverCallback buildTableObserver(TableWindowTitleToTablePlayerIndicators& playerIndicators, std::string_view tableWindowTitle) {
+  return [&playerIndicators, title = tableWindowTitle](TableStatistics&& stats) {
+    LOG.debug<"Observer called for table '{}'">(stats.getTable());
+    LOG.debug<"About to schedule UI task for table '{}'">(stats.getTable());
+    scheduleUITask([&playerIndicators, title = std::string(title), stats = std::move(stats)]() mutable {
+      LOG.debug<"Scheduled UI task executing for table window '{}'">(title);
 
-      // Start monitoring this table for statistics
-      auto observerCb = [&playerIndicators](TableStatistics&& stats) {
-        LOG.debug<"Observer called for table '{}'">(stats.getTable());
-        LOG.debug<"About to schedule UI task for table '{}'">(stats.getTable());
-        // BUG: ici on a besoin du titre de la fenêtre, et on a le nom de la table
-        scheduleUITask([&playerIndicators,
-            tableWindowTitle = stats.getTable(), stats = std::move(stats)]() mutable {
-            LOG.debug<"Scheduled UI task executing for table '{}'">(tableWindowTitle);
-            // Find window position by title
-            if (const auto& hwnd { FindWindow(nullptr, tableWindowTitle.c_str()) };
-              nullptr != hwnd) {
-              LOG.debug<"Found window for table '{}'">(tableWindowTitle);
-              if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
-                phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
-
-                // Update PlayerIndicators with real statistics
-                if (playerIndicators.contains(tableWindowTitle)) {
-                  LOG.debug<"Updating player indicators for table '{}'">(tableWindowTitle);
-                  updateTablePlayerIndicators(playerIndicators[tableWindowTitle], tableRect, std::move(stats));
-                }
-                else {
-                  LOG.warn<"Player indicators not found for table '{}'">(tableWindowTitle);
-                }
-              }
-              else {
-                LOG.warn<"Could not get window rect for table '{}'">(tableWindowTitle);
-              }
-            }
-            else {
-              LOG.warn<"Window not found for table '{}'">(tableWindowTitle);
-            }
-          });
-      };
-      if (const auto& errorMsg { tableService.startProducingStats(tableName, observerCb) }; !errorMsg.empty()) {
-        LOG.error<"Failed to start monitoring table '{}': {}">(tableName, errorMsg);
+      if (const auto tableRect { getTableWindowRectangle(title) }) {
+        LOG.debug<"Found table window '{}'">(title);
+        // Update PlayerIndicators with real statistics
+        if (playerIndicators.contains(title)) {
+          LOG.debug<"Updating player indicators for table window '{}'">(title);
+          updateTablePlayerIndicators(playerIndicators[title], *tableRect, std::move(stats));
+        }
+        else {
+          LOG.warn<"Player indicators not found for table '{}'">(title);
+        }
       }
-    }
-  }
+      else {
+        LOG.warn<"Could not get window rect for table window '{}'">(title);
+      }
+    });
+  };
 }
 
-static void managePlayerIndicatorsForTables(
-  TableNameToTablePlayerIndicators& playerIndicators,
-  const std::span<const std::string> tableNames,
+static void updateUsefulPlayerIndicators(
+  TableWindowTitleToTablePlayerIndicators& playerIndicators,
+  const std::span<const std::string> tableWindowTitles,
   TableService& tableService) {
-  // Remove indicators for tables no longer detected
-  removeUselessPlayerIndicators(playerIndicators, tableNames, tableService);
-  // Create/update indicators for current tables
-  updateUsefulPlayerIndicators(playerIndicators, tableNames, tableService);
+  LOG.info<"Create/Update table indicators for {} table(s)">(tableWindowTitles.size());
+  const auto& tableTitleNotYetMonitored {
+      tableWindowTitles
+    | std::views::filter([&playerIndicators](const auto& title) { return !playerIndicators.contains(title); })
+    | std::ranges::to<std::vector<std::string>>() };
+  // Create entry if it doesn't exist
+  std::ranges::for_each(tableTitleNotYetMonitored, [&playerIndicators, &tableService](const auto& title) {
+    playerIndicators[title] = TablePlayerIndicators {};
+    // Start monitoring this table for statistics
+    const auto& observerCb { buildTableObserver(playerIndicators, title) };
+    if (const auto& errorMsg { tableService.startProducingStats(title, observerCb) }; !errorMsg.empty()) {
+      LOG.error<"Failed to start monitoring table window '{}': {}">(title, errorMsg);
+    }
+  });
 }
 
 /**
@@ -610,21 +594,21 @@ static std::string getWatchedTableLabel(std::span<const std::string> tableNames)
 
 [[nodiscard]] static std::unique_ptr<TableWatcher> buildTableWatcher(
   Fl_Box* pWatchedTableLabel,
-  TableNameToTablePlayerIndicators& playerIndicators,
+  TableWindowTitleToTablePlayerIndicators& playerIndicators,
   TableService& tableService) {
-  TableWatcher::TablesChangedCallback onTablesChangedCb {
-    [pWatchedTableLabel, &playerIndicators, &tableService](std::span<const std::string> tableNames) {
-      scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, tableNames = toVector(tableNames)]() {
-        // Update label
-        const auto& label { getWatchedTableLabel(tableNames) };
+  TableWatcher::TableWindowsDetectedCallback onTableWindowsDetectedCb {
+    [pWatchedTableLabel, &playerIndicators, &tableService](std::span<const std::string> tableWindowTitles) {
+      scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, tableWindowTitles = toVector(tableWindowTitles)]() {
+        // Update label and player indicators
+        const auto& label { getWatchedTableLabel(tableWindowTitles) };
         pWatchedTableLabel->copy_label(label.c_str());
-        // Manage PlayerIndicators for all detected tables
-        managePlayerIndicatorsForTables(playerIndicators, tableNames, tableService);
+        removeUselessPlayerIndicators(playerIndicators, tableWindowTitles, tableService);
+        updateUsefulPlayerIndicators(playerIndicators, tableWindowTitles, tableService);
       });
     }
   };
 
-  return std::make_unique<TableWatcher>(onTablesChangedCb);
+  return std::make_unique<TableWatcher>(onTableWindowsDetectedCb);
 }
 
 static gsl::not_null<MyMainWindow*> buildMainWindow(Gui::Implementation* impl) {

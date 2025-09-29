@@ -10,7 +10,9 @@ enum class /*[[nodiscard]]*/ PeriodicTaskStatus : short {
   stopTask
 };
 
-[[nodiscard]] std::string_view toString(PeriodicTaskStatus);
+[[nodiscard]] constexpr std::string_view toString(PeriodicTaskStatus status) noexcept {
+  return PeriodicTaskStatus::repeatTask == status ? "repeatTask" : "stopTask";
+}
 
 class [[nodiscard]] PeriodicTask final {
 private:

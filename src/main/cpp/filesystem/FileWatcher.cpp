@@ -72,7 +72,7 @@ void FileWatcher::start(const std::function<void(const fs::path&)>& fileHasChang
   });
 }
 
-void FileWatcher::stop() const { m_pImpl->m_task.stop(); } // TODO : proposer de rendre stop() noexcept chez stlab
+void FileWatcher::stop() const { m_pImpl->m_task.stop(); }
 
 /*[[nodiscard]]*/
 bool FileWatcher::isStopped() const noexcept { return m_pImpl->m_task.isStopped(); }

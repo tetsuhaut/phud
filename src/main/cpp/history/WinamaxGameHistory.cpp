@@ -90,16 +90,14 @@ template <typename GAME_TYPE>
       .smallBlind = gameData.m_smallBlind, .bigBlind = gameData.m_bigBlind, .startDate = gameData.m_startDate
     });
   }
-
   if constexpr (std::is_same_v<GAME_TYPE, Tournament>) {
     return std::make_unique<Tournament>(Tournament::Params {
       .id = gameId, .siteName = ProgramInfos::WINAMAX_SITE_NAME,
       .tournamentName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
       .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats, .buyIn = gameData.m_buyIn,
       .startDate = gameData.m_startDate
-    });
+      });
   }
-  return nullptr;
 }
 
 static void fillFromFileName(const FileStem& values, GameData& gameData) {

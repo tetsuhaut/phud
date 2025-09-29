@@ -22,15 +22,15 @@ namespace limits {
   //         static_cast<int>(value);
   //}
 
-  [[nodiscard]] static constexpr int toInt(double value) {
+  [[nodiscard]] static constexpr int toInt(double value) noexcept {
     return clamp_cast::clamp_cast<int>(value);
   }
 
-  [[nodiscard]] static constexpr int toInt(float value) {
+  [[nodiscard]] static constexpr int toInt(float value) noexcept {
     return clamp_cast::clamp_cast<int>(value);
   }
 
-  [[nodiscard]] static constexpr int toInt(std::ptrdiff_t value) {
+  [[nodiscard]] static constexpr int toInt(std::ptrdiff_t value) noexcept {
     if (value > std::numeric_limits<int>::max()) { return std::numeric_limits<int>::max(); }
 
     if (value < std::numeric_limits<int>::min()) { return std::numeric_limits<int>::min(); }
@@ -41,7 +41,7 @@ namespace limits {
   [[nodiscard]] static constexpr int toInt(auto) = delete; // forbid other types
 
   template<typename T> requires(std::same_as<T, int> or std::same_as<T, std::ptrdiff_t>)
-  [[nodiscard]] static constexpr std::size_t toSizeT(T value) {
+  [[nodiscard]] static constexpr std::size_t toSizeT(T value) noexcept {
     // std::size_t can't be < 0
     return (value < 0) ? 0 : static_cast<std::size_t>(value);
   }

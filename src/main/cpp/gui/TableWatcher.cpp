@@ -27,44 +27,37 @@ namespace {
 } // anonymous namespace
 
 struct [[nodiscard]] TableWatcher::Implementation final {
-  TablesChangedCallback m_onTablesChangedCb;
+  TableWindowsDetectedCallback m_onTablesChangedCb;
   PeriodicTask m_periodicTask { WATCH_INTERVAL };
-  std::vector<std::string> m_currentTableNames {};
+  std::vector<std::string> m_currentTableWindowTitles {};
 
-  explicit Implementation(TablesChangedCallback onTablesChanged)
+  explicit Implementation(TableWindowsDetectedCallback onTablesChanged)
     : m_onTablesChangedCb { std::move(onTablesChanged) } {
     validation::requireNotNull(m_onTablesChangedCb, "m_callbacks.onTablesChanged is null");
   }
 
-  [[nodiscard]] static std::vector<std::string> findPokerTables() {
-    return getWindowTitles()
-      | std::views::filter(::isPokerTable)
-      | std::ranges::to<std::vector<std::string>>();
-  }
-
   void checkForTables() {
-    if (const auto& foundTables { findPokerTables() }; !foundTables.empty()) {
-      // Check if tables changed BEFORE updating m_currentTableNames
-      if (m_currentTableNames != foundTables) {
-        LOG.info<"Poker tables changed. Found {} table(s)">(foundTables.size());
-
-        // Update state after comparison
-        m_currentTableNames = foundTables;
-        m_onTablesChangedCb(foundTables);
+    if (const auto& titles { getWindowTitles()
+                            | std::views::filter(::isPokerTable)
+                            | std::ranges::to<std::vector<std::string>>() }; !titles.empty()) {
+      if (m_currentTableWindowTitles != titles) {
+        LOG.info<"Poker tables changed. Found {} table(s)">(titles.size());
+        m_currentTableWindowTitles = titles;
+        m_onTablesChangedCb(titles);
       }
     }
     else {
       // No table found
-      if (!m_currentTableNames.empty()) {
-        LOG.info<"All poker tables lost">();
-        m_currentTableNames.clear();
+      if (!m_currentTableWindowTitles.empty()) {
+        LOG.info<"All poker table windows lost">();
+        m_currentTableWindowTitles.clear();
         m_onTablesChangedCb({});
       }
     }
   }
 }; // struct TableWatcher::Implementation
 
-TableWatcher::TableWatcher(const TablesChangedCallback& onTablesChanged)
+TableWatcher::TableWatcher(const TableWindowsDetectedCallback& onTablesChanged)
   : m_pImpl { std::make_unique<Implementation>(onTablesChanged) } {}
 
 TableWatcher::~TableWatcher() {
@@ -89,9 +82,9 @@ bool TableWatcher::isWatching() const noexcept {
 }
 
 std::vector<std::string> TableWatcher::getCurrentTableNames() const {
-  return m_pImpl->m_currentTableNames;
+  return m_pImpl->m_currentTableWindowTitles;
 }
 
 std::size_t TableWatcher::getTableCount() const noexcept {
-  return m_pImpl->m_currentTableNames.size();
+  return m_pImpl->m_currentTableWindowTitles.size();
 }
