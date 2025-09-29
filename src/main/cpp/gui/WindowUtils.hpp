@@ -8,9 +8,6 @@
 #include <string_view>
 #include <utility> // std::pair
 
-// forward declarations
-class TableService;
-
 using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>>;
 
 /**
@@ -44,11 +41,13 @@ using ErrorOrRectangleAndName = ErrOrRes<std::pair<phud::Rectangle, std::string>
  * @param y Screen y coordinate
  * @return Result containing window rectangle and name, or error message
  */
-[[nodiscard]] ErrorOrRectangleAndName getWindowRectangleAndName(const TableService& tableService, int x, int y);
+[[nodiscard]] ErrorOrRectangleAndName getWindowRectangleAndTitle(int x, int y);
 
 /**
  * @return the list the currently visible top level windows titles
  */
 [[nodiscard]] std::vector<std::string> getWindowTitles();
 
-[[nodiscard]] std::optional<phud::Rectangle> getTableWindowRectangle(std::string_view tableName);
+[[nodiscard]] std::optional<phud::Rectangle> getTableWindowRectangle(std::string_view tableWindowTitle);
+
+void setWindowOnTopMost(HWND above);

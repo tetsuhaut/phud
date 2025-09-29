@@ -30,42 +30,57 @@ struct [[nodiscard]] TableService::Implementation final {
     : m_database { database } {}
 
   [[nodiscard]] static TableStatistics extractTableStatistics(const Database& database,
-      std::string_view table) {
-    LOG.debug<"Extracting table statistics for table: {}">(table);
-    if (auto stats { database.readTableStatistics({.site = "Winamax", .table = table}) };
-        stats.isValid()) {
-      LOG.debug<"Got stats from db.">();
+                                                              std::string_view table) {
+    LOG.info<"Extracting table statistics for table: {}">(table);
+    if (auto stats { database.readTableStatistics("Winamax", table) };
+      stats.isValid()) {
+      LOG.info<"Got stats from db.">();
       return stats;
     }
-    LOG.debug<"Got no stats from db yet for table {} on site {}.">(table, "Winamax");
+    LOG.info<"Got no stats from db yet for table {} on site {}.">(table, "Winamax");
     return {};
   }
 
-  static void watchHistoFile(TableService::Implementation& self, const fs::path& file,
-                            std::string table, const auto& observer) {
-    LOG.debug<"Starting to watch history file: {} for table: {}">(file.string(), table);
-    self.m_fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
-    self.m_fileWatcher->start([&self, table, observer](const fs::path & f) {
-      LOG.debug<"File watcher triggered for: {}">(f.string());
-      self.m_reloadTask = ThreadPool::submit([pokerSiteHistory = self.m_pokerSiteHistory, table, observer, f]() {
-        LOG.debug<"Notified, reloading the file\n{}">(f.string());
-        return pokerSiteHistory->reloadFile(f);
-      })
-      .then([&database = self.m_database](const auto & pSite) { database.save(*pSite); })
-      .then([&database = self.m_database, table]() { return extractTableStatistics(database, table); })
-      .then([observer](TableStatistics&& ts) { notify(std::move(ts), observer); });
-    });
+  static std::unique_ptr<FileWatcher> watchHistoFile(Future<void>& reloadTask,
+                                                     std::shared_ptr<PokerSiteHistory> pokerSiteHistory, // NOLINT(*-unnecessary-value-param)
+                                                     Database& database,
+                                                     const fs::path& file,
+                                                     std::string_view table,
+                                                     const auto& observerCb) {
+    LOG.info<"Starting to watch history file: {} for table: {}">(file.string(), table);
+    auto fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
+    fileWatcher->start(
+      [&reloadTask, &database, pokerSiteHistory, table = std::string(table), observerCb](const fs::path& f) {
+        LOG.info<"File watcher triggered for: {}">(f.string());
+        reloadTask = ThreadPool::submit([pokerSiteHistory, table, observerCb, f]() {
+                       LOG.debug<"Notified, reloading the file\n{}">(f.string());
+                       return pokerSiteHistory->reloadFile(f);
+                     })
+                     .then([&database](const auto& pSite) {
+                       LOG.info<"in threadpool : Saving poker site data to database">();
+                       database.save(*pSite);
+                     })
+                     .then([&database, table]() {
+                       LOG.info<"in threadpool : Extracting table statistics for table: {}">(table);
+                       return extractTableStatistics(database, table);
+                     })
+                     .then([observerCb](TableStatistics&& ts) {
+                       LOG.info<"in threadpool : Notifying observer with table statistics">();
+                       notify(std::move(ts), observerCb);
+                     });
+      });
+    return fileWatcher;
   }
-
 }; // struct TableService::Implementation
 
-static void notify(TableStatistics&& stats, const auto& observer) {
+static void notify(TableStatistics&& stats, const auto& observerCb) {
   if (Seat::seatUnknown == stats.getMaxSeat()) {
-    LOG.debug<"Got no stats from db.">();
-  } else {
-    LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
-    LOG.debug<"Calling observer with statistics...">();
-    observer(std::move(stats));
+    LOG.info<"Got no stats from db.">();
+  }
+  else {
+    LOG.info<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
+    LOG.info<"Calling observer with statistics...">();
+    observerCb(std::move(stats));
   }
 }
 
@@ -75,28 +90,32 @@ TableService::TableService(Database& database)
 TableService::~TableService() {
   try {
     TableService::stopProducingStats();
-  } catch (...) {
+  }
+  catch (...) {
     LOG.error<"Unknown Error when stopping the stat production in the TableService destruction.">();
   }
 }
 
-bool TableService::isPokerApp(std::string_view executableName) const {
+/*static*/
+bool TableService::isPokerApp(std::string_view executableName) {
   const auto& exe { fs::path(executableName).filename().string() };
   const auto& stems { ProgramInfos::POKER_SITE_EXECUTABLE_STEMS };
   return std::end(stems) != std::ranges::find_if(stems,
-    [&exe](const auto stem) noexcept { return exe.starts_with(stem); });
+                                                 [&exe](const auto stem) noexcept { return exe.starts_with(stem); });
 }
 
 std::string TableService::startProducingStats(std::string_view tableWindowTitle,
-                                             const std::function<void(TableStatistics&&)>& observer) {
-  LOG.debug<"Starting to produce stats for table window: {}">(tableWindowTitle);
+                                              const std::function<void(TableStatistics&&)>& observerCb) {
+  LOG.info<"Starting to produce stats for table window: {}">(tableWindowTitle);
 
   if (!m_pImpl->m_pokerSiteHistory) {
     LOG.warn<"No poker site history available">();
     return "No poker site history available";
   }
 
-  const auto& h { m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->m_historyDir, tableWindowTitle) };
+  const auto& h {
+    m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->m_historyDir, tableWindowTitle)
+  };
 
   if (h.empty()) {
     LOG.warn<"Couldn't get history file for table '{}'">(tableWindowTitle);
@@ -104,8 +123,9 @@ std::string TableService::startProducingStats(std::string_view tableWindowTitle,
   }
 
   const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
-  LOG.debug<"Table name extracted: '{}', history file: {}">(tableName, h.string());
-  TableService::Implementation::watchHistoFile(*m_pImpl, h, std::string(tableName), observer);
+  LOG.info<"Table name: '{}', history file: '{}'">(tableName, h.string());
+  m_pImpl->m_fileWatcher = Implementation::watchHistoFile(m_pImpl->m_reloadTask, m_pImpl->m_pokerSiteHistory,
+                                                          m_pImpl->m_database, h, tableName, observerCb);
   return "";
 }
 

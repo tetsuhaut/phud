@@ -26,7 +26,7 @@ BOOST_AUTO_TEST_SUITE(StatsReaderTest)
       }),
       nullptr, nullptr, nullptr, nullptr, nullptr, nullptr, nullptr
     };
-    queue.push(TableStatistics { Seat::seatThree, std::move(playerStats) });
+    queue.push(TableStatistics { "someSite", "someTable", Seat::seatThree, std::move(playerStats) });
     auto nbNotified { 0 };
     std::condition_variable cv;
     consumer.consumeAndNotify([&nbNotified, &cv](TableStatistics&) {

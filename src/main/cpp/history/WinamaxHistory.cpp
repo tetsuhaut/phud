@@ -5,6 +5,7 @@
 #include "history/WinamaxHistory.hpp" // WinamaxHistory, std::filesystem::path, fs::*, Global::*, std::string, phud::strings
 
 
+
 #include "language/Either.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // concatLiteral
@@ -226,15 +227,15 @@ fs::path WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& dir,
   auto files { pf::listFilesMatchingPattern(dir / "history", tablePattern) };
 
   if (files.empty()) {
-    LOG.error<"No history file found for table '{}' in directory {}">(tableName, (dir / "history").string());
+    LOG.error<"No history file found for table '{}'">(tableName);
     return {};
   }
-
-  // Take the most recent file (or the first one found)
-  LOG.debug<"Found {} history file(s) for table '{}', using: {}">(files.size(), tableName, files[0].string());
-
-  if (1 == files.size()) { return files.front(); }
-
+  if (1 == files.size()) {
+    LOG.debug<"Found 1 history file for table '{}': {}">(tableName, files.front().string());
+    return files.front();
+  }
+  // Take the most recent file
   std::ranges::sort(files, pf::PathComparator {});
+  LOG.debug<"Found {} history files for table '{}', using: {}">(files.size(), tableName, files.back().string());
   return files.back();
 }

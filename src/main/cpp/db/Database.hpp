@@ -49,12 +49,11 @@ public:
   void save(std::span<const Player* const> players) const;
   // exported for unit tests
   [[nodiscard]] std::unique_ptr<PlayerStatistics> readPlayerStatistics(std::string_view site,
-      std::string_view playerName) const;
+                                                                       std::string_view playerName) const;
   /**
    * Retrieves the stats for each player of a given table.
    */
-  struct [[nodiscard]] ReadTableStatisticsArgs final { std::string_view site; std::string_view table; };
-  [[nodiscard]] TableStatistics readTableStatistics(const ReadTableStatisticsArgs& args) const;
+  [[nodiscard]] TableStatistics readTableStatistics(std::string_view site, std::string_view table) const;
   [[nodiscard]] std::string getDbName() const noexcept;
   [[nodiscard]] bool isInMemory() const noexcept;
 

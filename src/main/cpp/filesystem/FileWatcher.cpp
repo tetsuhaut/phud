@@ -1,6 +1,8 @@
 #include "filesystem/FileUtils.hpp"
 #include "filesystem/FileWatcher.hpp" // std::chrono, toMilliseconds, std::filesystem::path, std::string, toString, count
 
+
+
 #include "language/Validator.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "threads/PeriodicTask.hpp"
@@ -62,6 +64,8 @@ FileWatcher::~FileWatcher() = default;
 
 void FileWatcher::start(const std::function<void(const fs::path&)>& fileHasChangedCb) const {
   validation::requireNotNull(fileHasChangedCb, "null callback in FileWatcher::start()");
+  // debug : on appelle à la main car le fichier ne change pas
+  fileHasChangedCb(m_pImpl->m_file);
   m_pImpl->m_task.start([this, fileHasChangedCb]() {
     getLatestUpdatedFile(m_pImpl->m_file, m_pImpl->m_lastModifDate, fileHasChangedCb);
     return isStopped() ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;

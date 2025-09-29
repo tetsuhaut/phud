@@ -72,7 +72,7 @@ void HistoryService::importHistory(const fs::path& dir,
 
 void HistoryService::setHistoryDir(const fs::path& dir) {
   m_pImpl->m_historyDir = dir;
-  LOG.info<"Chose Poker Site History Directory: {}">(dir.string());
+  LOG.info<"Chosen Poker Site History Directory: {}">(dir.string());
   m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(m_pImpl->m_historyDir);
 }
 

@@ -498,29 +498,19 @@ static std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> 
     const auto pfr { p.getColumnAsDouble(6) };
     const auto nbHands { p.getColumnAsInt(7) };
     if (playerSeat != Seat::seatUnknown) {
-      playerStats.at(tableSeat::toArrayIndex(playerSeat)) = std::make_unique<PlayerStatistics>
-      (PlayerStatistics::Params {
-        .playerName = playerName, .siteName = siteName, .isHero = isHero, .nbHands = nbHands, .vpip = vpip, .pfr = pfr
-      });
+      playerStats.at(tableSeat::toArrayIndex(playerSeat)) =
+        std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+          .playerName = playerName, .siteName = siteName,
+          .isHero = isHero, .nbHands = nbHands, .vpip = vpip, .pfr = pfr
+        });
     }
     else {
-      LOG.warn<"Invalid seat {} for player {}">(static_cast<int>(playerSeat), playerName);
+      LOG.warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
     }
   }
   while (QueryResult::ONE_ROW_OR_MORE == p.execute());
 
   return playerStats;
-}
-
-TableStatistics Database::readTableStatistics(const ReadTableStatisticsArgs& args) const {
-  const auto& sql {
-    SqlSelector(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME)
-    .site(args.site)
-    .table(args.table)
-    .toString()
-  };
-  PreparedStatement p { m_pImpl->m_database, sql };
-  return TableStatistics { getTableMaxSeat(args.site, args.table), readTableStatisticsQuery(p) };
 }
 
 std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_view site,
@@ -547,6 +537,19 @@ std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_vie
     });
 }
 
-bool Database::isInMemory() const noexcept { return IN_MEMORY == getDbName(); }
+TableStatistics Database::readTableStatistics(std::string_view site, std::string_view table) const {
+  const auto& sql {
+    SqlSelector(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME)
+    .site(site)
+    .table(table)
+    .toString()
+  };
+  PreparedStatement p { m_pImpl->m_database, sql };
+  return TableStatistics {
+    site, table, getTableMaxSeat(site, table), readTableStatisticsQuery(p)
+  };
+}
 
 std::string Database::getDbName() const noexcept { return m_pImpl->m_dbName; }
+
+bool Database::isInMemory() const noexcept { return IN_MEMORY == getDbName(); }

@@ -12,6 +12,18 @@ static Logger LOG { CURRENT_FILE_NAME };
 namespace {
   constexpr std::chrono::milliseconds WATCH_INTERVAL { 3000 }; // 3 seconds
   constexpr std::string_view WINAMAX_TABLE_PATTERN { "Winamax" };
+
+  bool isPokerTable(std::string_view title) {
+    // the window title should be something like 'Winamax someName someOptionalNumber'
+    // e.g. 'Winamax Aalen 27', 'Winamax Athens'
+    const auto nbSpaces { std::ranges::count(title, ' ') };
+    return
+      title.starts_with(WINAMAX_TABLE_PATTERN) and
+      (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and
+      (' ' == title.at(WINAMAX_TABLE_PATTERN.length())) and
+      (' ' != title.at(WINAMAX_TABLE_PATTERN.length() + 1)) and
+      ((1 == nbSpaces) or (2 == nbSpaces));
+  }
 } // anonymous namespace
 
 struct [[nodiscard]] TableWatcher::Implementation final {
@@ -19,14 +31,14 @@ struct [[nodiscard]] TableWatcher::Implementation final {
   PeriodicTask m_periodicTask { WATCH_INTERVAL };
   std::vector<std::string> m_currentTableNames {};
 
-  explicit Implementation(TablesChangedCallback  onTablesChanged)
-    : m_onTablesChangedCb {std::move( onTablesChanged )} {
+  explicit Implementation(TablesChangedCallback onTablesChanged)
+    : m_onTablesChangedCb { std::move(onTablesChanged) } {
     validation::requireNotNull(m_onTablesChangedCb, "m_callbacks.onTablesChanged is null");
   }
 
   [[nodiscard]] static std::vector<std::string> findPokerTables() {
     return getWindowTitles()
-      | std::views::filter(TableWatcher::isPokerTable)
+      | std::views::filter(::isPokerTable)
       | std::ranges::to<std::vector<std::string>>();
   }
 
@@ -40,7 +52,8 @@ struct [[nodiscard]] TableWatcher::Implementation final {
         m_currentTableNames = foundTables;
         m_onTablesChangedCb(foundTables);
       }
-    } else {
+    }
+    else {
       // No table found
       if (!m_currentTableNames.empty()) {
         LOG.info<"All poker tables lost">();
@@ -50,18 +63,6 @@ struct [[nodiscard]] TableWatcher::Implementation final {
     }
   }
 }; // struct TableWatcher::Implementation
-
-bool TableWatcher::isPokerTable(std::string_view title) {
-  // the window title should be something like 'Winamax someName someOptionalNumber'
-  // e.g. 'Winamax Aalen 27', 'Winamax Athens'
-  const auto nbSpaces { std::ranges::count(title, ' ') };
-  return
-    title.starts_with(WINAMAX_TABLE_PATTERN) and
-    (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and
-    (' ' == title.at(WINAMAX_TABLE_PATTERN.length())) and
-    (' ' != title.at(WINAMAX_TABLE_PATTERN.length() + 1)) and
-    ((1 == nbSpaces) or (2 == nbSpaces));
-}
 
 TableWatcher::TableWatcher(const TablesChangedCallback& onTablesChanged)
   : m_pImpl { std::make_unique<Implementation>(onTablesChanged) } {}

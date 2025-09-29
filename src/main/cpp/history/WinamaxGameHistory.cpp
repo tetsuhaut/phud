@@ -56,7 +56,7 @@ struct [[nodiscard]] FileStem final {
 /* static */
 std::optional<FileStem> parseFileStem(
   std::string_view fileStem) {
-  LOG.debug<"Parsing the file stem {}.">(fileStem);
+  LOG.info<"Parsing the file stem {}.">(fileStem);
   FileStem ret {};
 
   if (12 > fileStem.size()) {
@@ -81,7 +81,7 @@ template <typename GAME_TYPE>
   requires(std::is_same_v<GAME_TYPE, CashGame>
     or std::is_same_v<GAME_TYPE, Tournament>)
 [[nodiscard]] static std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId,
-                                                               const GameData& gameData) {
+                                                        const GameData& gameData) {
   if constexpr (std::is_same_v<GAME_TYPE, CashGame>) {
     return std::make_unique<CashGame>(CashGame::Params {
       .id = gameId, .siteName = ProgramInfos::WINAMAX_SITE_NAME,

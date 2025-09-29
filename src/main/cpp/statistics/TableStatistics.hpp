@@ -10,17 +10,27 @@
 class PlayerStatistics;
 
 struct [[nodiscard]] TableStatistics final {
+  std::string m_site {};
+  std::string m_table {};
   Seat m_maxSeats { Seat::seatUnknown };
   std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> m_tableStats {};
-
   TableStatistics() = default;
-  TableStatistics(Seat maxSeats, std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats)
-    : m_maxSeats{maxSeats}, m_tableStats{std::move(tableStats)} {}
+
+  TableStatistics(std::string_view site, std::string_view table, Seat maxSeats,
+                  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats)
+    : m_site { site },
+      m_table { table },
+      m_maxSeats { maxSeats },
+      m_tableStats { std::move(tableStats) } {}
+
   TableStatistics(const TableStatistics&) = delete;
   TableStatistics(TableStatistics&&) = default;
   TableStatistics& operator=(const TableStatistics&) = delete;
   TableStatistics& operator=(TableStatistics&&) = default;
   ~TableStatistics();
+
+  [[nodiscard]] constexpr const std::string& getSite() { return m_site; }
+  [[nodiscard]] constexpr const std::string& getTable() { return m_table; }
 
   [[nodiscard]] constexpr bool isValid() const noexcept { return Seat::seatUnknown != m_maxSeats; }
 

@@ -28,8 +28,6 @@ private:
 
 public:
   explicit NoOpTableService(Database& db) : TableService(db) {}
-  // TableService interface
-  [[nodiscard]] bool isPokerApp(std::string_view /*executableName*/) const override { return true; }
 
   std::string startProducingStats(std::string_view /*table*/,
                                   const std::function<void(TableStatistics&& ts)>& /*observer*/) override {
@@ -64,7 +62,9 @@ public:
         }),
         nullptr, nullptr, nullptr, nullptr
       };
-      m_stats.push(TableStatistics { Seat::seatSix, std::move(fakeStats) });
+      m_stats.push(TableStatistics {
+        ProgramInfos::WINAMAX_SITE_NAME, "someTable", Seat::seatSix, std::move(fakeStats)
+      });
       LOG.debug<"the task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
       return m_continue; // run until the NoOpApp object is destroyed
     });

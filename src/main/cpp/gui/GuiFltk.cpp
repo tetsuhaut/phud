@@ -1,5 +1,3 @@
-#include <ranges>
-
 #include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
 #include "filesystem/FileUtils.hpp"
@@ -13,13 +11,14 @@
 #include "gui/Preferences.hpp"
 #include "gui/TableService.hpp"
 #include "gui/TableWatcher.hpp"
+#include "gui/WindowUtils.hpp" // setWindowOnTopMost
+#include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp"
 #include <gsl/gsl> // gsl::finally
 
-#include "history/PokerSiteHistory.hpp"
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
@@ -41,6 +40,7 @@
 #endif  // _MSC_VER
 
 #include <concepts> // requires
+#include <ranges>
 #include <unordered_map>
 
 /*
@@ -60,6 +60,27 @@ namespace {
   /* in anonymous namespace as type definitions can't be static */
   enum class [[nodiscard]] FileChoiceStatus : short { ok = 0, error = -1, cancel = 1 };
 
+  /**
+   * From Fl_get_system_colors.cxx :
+   * skin = scheme = look and feel
+  *
+  * - "none" - This is the default look-n-feel which resembles old
+  *            Windows (95/98/Me/NT/2000) and old GTK/KDE
+  *
+  * - "base" - This is an alias for "none"
+  *
+  * - "plastic" - This scheme is inspired by the Aqua user interface
+  *               on macOS
+  *
+  * - "gtk+" - This scheme is inspired by the Red Hat Bluecurve theme
+  *
+  * - "gleam" - This scheme is inspired by the Clearlooks Glossy scheme.
+  *             (Colin Jones and Edmanuel Torres).
+  *
+  * - "oxy" - This is a subset of Dmitrij K's oxy scheme (STR 2675, 3477)
+  *
+  *  If the given scheme name is unknown, the default scheme will be used.
+  */
   namespace FltkSkin {
     /* from the int Fl::scheme(const char * s) documentation */
     [[maybe_unused]] constexpr std::string_view none { "none" };
@@ -67,22 +88,27 @@ namespace {
     [[maybe_unused]] constexpr std::string_view gleam { "gleam" };
     [[maybe_unused]] constexpr std::string_view gtkplus { "gtk+" };
     [[maybe_unused]] constexpr std::string_view plastic { "plastic" };
+    [[maybe_unused]] constexpr std::string_view oxy { "oxy" };
   } // namespace FltkSkin
 
   template <typename T>
   [[nodiscard]] constexpr std::vector<T> toVector(std::span<const T> span) {
     return std::vector<T>(span.begin(), span.end());
   }
+
+  using TablePlayerIndicators = std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>;
+  using TableNameToTablePlayerIndicators = std::unordered_map<std::string, TablePlayerIndicators>;
+
+  /**
+   * Defines the concept of a function taking no argument and returning void
+   */
+  template <typename F>
+  concept VoidNullaryFunction = requires(F f) {
+    // calling f returns void
+    { f() } -> std::same_as<void>;
+  } and std::is_invocable_v<F> and !std::is_invocable_v<F, int>;
 } // anonymous namespace
 
-/**
- * Defines the concept of a function taking no argument and returning void
- */
-template <typename F>
-concept VoidNullaryFunction = requires(F f) {
-  // calling f returns void
-  { f() } -> std::same_as<void>;
-} and std::is_invocable_v<F> and !std::is_invocable_v<F, int>;
 
 /**
  * Schedules a function to be executed by the main GUI thread during the next message handling cycle.
@@ -142,8 +168,7 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Box* m_infoBar { nullptr };
   Fl_Menu_Bar* m_menuBar { nullptr };
   std::unique_ptr<TableWatcher> m_tableWatcher { nullptr };
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>>
-  m_playerIndicators {};
+  TableNameToTablePlayerIndicators m_playerIndicators {};
 
   explicit Implementation(TableService& tableService, HistoryService& historyService)
     : m_tableService { tableService }
@@ -193,22 +218,24 @@ static void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
   });
 }
 
+// TODO:  try window->stay_on_top(1) instead of this
 static void setWindowOnTopMost(const Fl_Window& above) {
-  /* from https://www.fltk.org/newsgroups.php?s39452+gfltk.general+v39464 */
-  SetWindowPos(fl_xid(&above), HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE | SWP_NOOWNERZORDER);
+  setWindowOnTopMost(fl_xid(&above));
 }
 
 static void updateTablePlayerIndicators(
-  std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>& playerIndicators,
+  TablePlayerIndicators& playerIndicators,
   const phud::Rectangle& tablePosition,
   TableStatistics tableStatistics) {
   const auto heroSeat { tableStatistics.getHeroSeat() };
   const auto& seats { tableStatistics.getSeats() };
-
   LOG.debug<"Processing {} seats for player indicators">(seats.size());
+
   for (const auto& seat : seats) {
+    const auto& seatStr { tableSeat::toString(seat) };
+    LOG.debug<"Checking seat {}">(seatStr);
     if (auto ps { tableStatistics.extractPlayerStatistics(seat) }; nullptr != ps) {
-      LOG.debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(), static_cast<int>(seat));
+      LOG.debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(), seatStr);
       const auto& pos { buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition) };
       // update the PlayerIndicators with the latest stats.
       // -1 < seat < nbSeats, 1 < nbSeats < 11
@@ -228,7 +255,7 @@ static void updateTablePlayerIndicators(
       LOG.debug<"PlayerIndicator shown for '{}'">(ps->getPlayerName());
     }
     else {
-      LOG.debug<"No player statistics for seat {}, clearing indicator">(static_cast<int>(seat));
+      LOG.debug<"No player statistics for seat {}, clearing indicator">(seatStr);
       // clear player indicators
       playerIndicators.at(tableSeat::toArrayIndex(seat)).reset();
     }
@@ -236,7 +263,7 @@ static void updateTablePlayerIndicators(
 }
 
 static void removeUselessPlayerIndicators(
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  TableNameToTablePlayerIndicators& playerIndicators,
   const std::span<const std::string> tableNames,
   TableService& tableService) {
   LOG.info<"Delete table indicators for removed table(s)">();
@@ -259,47 +286,49 @@ static void removeUselessPlayerIndicators(
 }
 
 static void updateUsefulPlayerIndicators(
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>>&
-  playerIndicators,
+  TableNameToTablePlayerIndicators& playerIndicators,
   const std::span<const std::string> tableNames,
   TableService& tableService) {
   LOG.info<"Create/Update table indicators for {} table(s)">(tableNames.size());
   for (const auto& tableName : tableNames) {
     // Create entry if it doesn't exist
     if (!playerIndicators.contains(tableName)) {
-      playerIndicators[tableName] = std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS> {};
-      LOG.debug<"Created player indicators array for table: {}">(tableName);
+      playerIndicators[tableName] = TablePlayerIndicators {};
 
       // Start monitoring this table for statistics
-      auto observer = [&playerIndicators, &tableName](TableStatistics&& stats) {
-        LOG.debug<"Observer called for table '{}'">(tableName);
-        scheduleUITask([&playerIndicators, tableName, stats = std::move(stats)]() mutable {
-          LOG.debug<"Scheduled UI task executing for table '{}'">(tableName);
-          // Find window position by title
-          if (const auto& hwnd { FindWindow(nullptr, tableName.c_str()) }; nullptr != hwnd) {
-            LOG.debug<"Found window for table '{}'">(tableName);
-            if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
-              phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
+      auto observerCb = [&playerIndicators](TableStatistics&& stats) {
+        LOG.debug<"Observer called for table '{}'">(stats.getTable());
+        LOG.debug<"About to schedule UI task for table '{}'">(stats.getTable());
+        // BUG: ici on a besoin du titre de la fenêtre, et on a le nom de la table
+        scheduleUITask([&playerIndicators,
+            tableWindowTitle = stats.getTable(), stats = std::move(stats)]() mutable {
+            LOG.debug<"Scheduled UI task executing for table '{}'">(tableWindowTitle);
+            // Find window position by title
+            if (const auto& hwnd { FindWindow(nullptr, tableWindowTitle.c_str()) };
+              nullptr != hwnd) {
+              LOG.debug<"Found window for table '{}'">(tableWindowTitle);
+              if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
+                phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
 
-              // Update PlayerIndicators with real statistics
-              if (playerIndicators.contains(tableName)) {
-                LOG.debug<"Updating player indicators for table '{}'">(tableName);
-                updateTablePlayerIndicators(playerIndicators[tableName], tableRect, std::move(stats));
+                // Update PlayerIndicators with real statistics
+                if (playerIndicators.contains(tableWindowTitle)) {
+                  LOG.debug<"Updating player indicators for table '{}'">(tableWindowTitle);
+                  updateTablePlayerIndicators(playerIndicators[tableWindowTitle], tableRect, std::move(stats));
+                }
+                else {
+                  LOG.warn<"Player indicators not found for table '{}'">(tableWindowTitle);
+                }
               }
               else {
-                LOG.warn<"Player indicators not found for table '{}'">(tableName);
+                LOG.warn<"Could not get window rect for table '{}'">(tableWindowTitle);
               }
             }
             else {
-              LOG.warn<"Could not get window rect for table '{}'">(tableName);
+              LOG.warn<"Window not found for table '{}'">(tableWindowTitle);
             }
-          }
-          else {
-            LOG.warn<"Window not found for table '{}'">(tableName);
-          }
-        });
+          });
       };
-      if (const auto& errorMsg { tableService.startProducingStats(tableName, observer) }; !errorMsg.empty()) {
+      if (const auto& errorMsg { tableService.startProducingStats(tableName, observerCb) }; !errorMsg.empty()) {
         LOG.error<"Failed to start monitoring table '{}': {}">(tableName, errorMsg);
       }
     }
@@ -307,7 +336,7 @@ static void updateUsefulPlayerIndicators(
 }
 
 static void managePlayerIndicatorsForTables(
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, 10>>& playerIndicators,
+  TableNameToTablePlayerIndicators& playerIndicators,
   const std::span<const std::string> tableNames,
   TableService& tableService) {
   // Remove indicators for tables no longer detected
@@ -581,8 +610,7 @@ static std::string getWatchedTableLabel(std::span<const std::string> tableNames)
 
 [[nodiscard]] static std::unique_ptr<TableWatcher> buildTableWatcher(
   Fl_Box* pWatchedTableLabel,
-  std::unordered_map<std::string, std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>>&
-  playerIndicators,
+  TableNameToTablePlayerIndicators& playerIndicators,
   TableService& tableService) {
   TableWatcher::TablesChangedCallback onTablesChangedCb {
     [pWatchedTableLabel, &playerIndicators, &tableService](std::span<const std::string> tableNames) {
@@ -603,6 +631,7 @@ static gsl::not_null<MyMainWindow*> buildMainWindow(Gui::Implementation* impl) {
   Fl::scheme(FltkSkin::gleam.data()); // select the look & feel
   Fl::visual(Fl_Mode::FL_DOUBLE | Fl_Mode::FL_INDEX); // enhance look where needed
   const auto [mx, my, mw, mh] { MainWindow::Screen::mainWindow };
+  // ReSharper disable once CppDFAMemoryLeak
   const auto ret { new MyMainWindow(mx, my, mw, mh, MainWindow::Label::mainWindowTitle.data()) };
   const auto [x, y] { impl->m_preferences->getMainWindowPosition() };
   ret->position(x, y);
@@ -622,6 +651,7 @@ Gui::Gui(TableService& tableService, HistoryService& historyService)
 
   if (const auto dir { m_pImpl->m_preferences->getPreferredHistoDir() }; PokerSiteHistory::isValidHistory(dir)) {
     m_pImpl->m_historyService.setHistoryDir(dir);
+    m_pImpl->m_tableService.setHistoryDir(dir);
     // Connect HistoryService and TableService
     if (const auto h { m_pImpl->m_historyService.getPokerSiteHistory() }) {
       m_pImpl->m_tableService.setPokerSiteHistory(h);

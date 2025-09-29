@@ -11,7 +11,9 @@ static Logger LOG { CURRENT_FILE_NAME };
 std::string getLastErrorMessageFromOS() {
   const auto localeId { LocaleNameToLCID(LOCALE_NAME_SYSTEM_DEFAULT, 0) };
   char err[MAX_PATH + 1] {};
-  const auto size { FormatMessage(FORMAT_MESSAGE_FROM_SYSTEM, nullptr, GetLastError(), localeId, &err[0], MAX_PATH, nullptr) };
+  const auto size {
+    FormatMessage(FORMAT_MESSAGE_FROM_SYSTEM, nullptr, GetLastError(), localeId, &err[0], MAX_PATH, nullptr)
+  };
   err[MAX_PATH] = '\0';
   return 0 == size ? "Failed to retrieve error message from system" : std::string(&err[0]);
 }
@@ -36,23 +38,23 @@ std::string getExecutableName(HWND window) {
   return "";
 }
 
-ErrorOrRectangleAndName getWindowRectangleAndName(const TableService& tableService, int x, int y) {
+ErrorOrRectangleAndName getWindowRectangleAndTitle(int x, int y) {
   LOG.debug<__func__>();
-  const auto& myWindowHandle { WindowFromPoint({x, y}) };
+  const auto& myWindowHandle { WindowFromPoint({ x, y }) };
 
   if (nullptr == myWindowHandle) {
     return ErrorOrRectangleAndName::err<"No window at the given position">();
   }
 
-  if (!tableService.isPokerApp(getExecutableName(myWindowHandle))) {
+  if (!TableService::isPokerApp(getExecutableName(myWindowHandle))) {
     return ErrorOrRectangleAndName::err<"The chosen window is not a poker table.">();
   }
 
   if (RECT r; 0 != GetWindowRect(myWindowHandle, &r)) {
-    char tableName[MAX_PATH + 1] {};
-    GetWindowText(myWindowHandle, &tableName[0], MAX_PATH);
-    tableName[MAX_PATH] = '\0';
-    return ErrorOrRectangleAndName::res({ toRectangle(r), tableName });
+    char tableWindowTitle[MAX_PATH + 1] {};
+    GetWindowText(myWindowHandle, &tableWindowTitle[0], MAX_PATH);
+    tableWindowTitle[MAX_PATH] = '\0';
+    return ErrorOrRectangleAndName::res({ toRectangle(r), tableWindowTitle });
   }
 
   return ErrorOrRectangleAndName::err<"Could not get the chosen window handle.">();
@@ -77,18 +79,23 @@ std::vector<std::string> getWindowTitles() {
     }
 
     return TRUE; // Continue enumeration
-    }, reinterpret_cast<LPARAM>(&titles));
+  }, reinterpret_cast<LPARAM>(&titles));
 
   return titles;
 }
 
-std::optional<phud::Rectangle> getTableWindowRectangle(std::string_view tableName) {
+std::optional<phud::Rectangle> getTableWindowRectangle(std::string_view tableWindowTitle) {
   // Find window position by title
-  if (const auto& hwnd { FindWindow(nullptr, tableName.data()) }; nullptr != hwnd) {
+  if (const auto& hwnd { FindWindow(nullptr, tableWindowTitle.data()) }; nullptr != hwnd) {
     if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
       phud::Rectangle tableRect = { rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top };
       return tableRect;
     }
   }
   return {};
+}
+
+void setWindowOnTopMost(HWND above) {
+  /* from https://www.fltk.org/newsgroups.php?s39452+gfltk.general+v39464 */
+  SetWindowPos(above, HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE | SWP_NOOWNERZORDER);
 }

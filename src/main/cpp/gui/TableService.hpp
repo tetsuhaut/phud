@@ -34,16 +34,16 @@ public:
    * @param executableName Name/path of the executable
    * @return True if it's a supported poker application
    */
-  [[nodiscard]] virtual bool isPokerApp(std::string_view executableName) const;
+  [[nodiscard]] static bool isPokerApp(std::string_view executableName);
 
   /**
    * Starts producing statistics for the given table.
    * @param tableWindowTitle Name of table to monitor
-   * @param observer Callback for statistics updates
+   * @param observerCb Callback for statistics updates
    * @return Error message if failed, empty string if success
    */
   [[nodiscard]] virtual std::string startProducingStats(std::string_view tableWindowTitle,
-                                                        const std::function<void(TableStatistics&&)>& observer);
+                                                        const std::function<void(TableStatistics&&)>& observerCb);
   /**
    * Stops producing statistics for the current table.
    */
