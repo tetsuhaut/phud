@@ -38,7 +38,7 @@ namespace {
     if (heroSeat == Seat::seatUnknown) { return seat; }
 
     const auto max { tableSeat::toInt(maxSeats) };
-    const auto seatTmp { tableSeat::toInt(seat) + max - tableSeat::toInt(heroSeat) };
+    const auto seatTmp { tableSeat::toInt(seat) - tableSeat::toInt(heroSeat) + max };
     return tableSeat::fromInt((seatTmp > max) ? (seatTmp - max) : seatTmp);
   }
 } // anonymous namespace
@@ -56,10 +56,15 @@ namespace {
 }
 
 /**
-* Returns the PlayerIndicator position, rotated so that heroSeat is at the bottom
-* -1 < seat < tableMaxSeats
-* 1 < tableMaxSeats < 11
-*/
+ * Gets the PlayerIndicator position, rotated so that heroSeat is at the bottom.
+ * -1 < seat < tableMaxSeats
+ * 1 < tableMaxSeats < 11
+ * @param seat The seat we want the PlayerIndicator position
+ * @param heroSeat The seat occupied by the hero
+ * @tableMaxSeats The maximum seat number
+ * @tablePos The table window coordinates and dimensions
+ * @returns the PlayerIndicator position, rotated so that heroSeat is at the bottom
+ */
 [[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat,
     Seat heroSeat, Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   assert(seat <= tableMaxSeats);

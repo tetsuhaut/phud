@@ -7,14 +7,13 @@ static constexpr auto IN_MEMORY { true };
 
 BOOST_AUTO_TEST_CASE(PreferencesTest_getDefaultValues) {
   const Preferences prefs(IN_MEMORY);
-  auto [x, y] = prefs.getMainWindowPosition();
-  const  auto historyDir = prefs.getPreferredHistoDir();
-  auto displayLabel = prefs.getHistoryDirectoryDisplayLabel();
+  const auto [x, y] { prefs.getMainWindowPosition() };
+  const  auto historyDir { prefs.getPreferredHistoDir() };
 
   // Vérifier que les valeurs par défaut sont cohérentes
   BOOST_CHECK(x >= 0);
   BOOST_CHECK(y >= 0);
-  BOOST_CHECK_NO_THROW(historyDir.string());
+  BOOST_CHECK_NO_THROW(std::ignore = historyDir.string());
 }
 
 BOOST_AUTO_TEST_CASE(TestPreferencesTest_saveAndLoad) {
@@ -43,7 +42,7 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_windowPositionAndSize) {
   prefs.saveWindowPosition(150, 200);
   prefs.saveWindowSize(800, 600);
 
-  auto [x, y] = prefs.getMainWindowPosition();
+  const auto [x, y] { prefs.getMainWindowPosition() };
   BOOST_CHECK_EQUAL(x, 150);
   BOOST_CHECK_EQUAL(y, 200);
 }

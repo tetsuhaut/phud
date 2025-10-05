@@ -56,12 +56,8 @@ namespace {
   [[nodiscard]] constexpr phud::Rectangle toRectangle(const RECT& r) noexcept {
     return { r.left, r.top, r.right - r.left, r.bottom - r.top };
   }
-} // anonymous namespace
 
-std::vector<std::string> getWindowTitles() {
-  std::vector<std::string> titles;
-
-  EnumWindows([](HWND hwnd, LPARAM hiddenTitles) -> BOOL {
+  BOOL windowTitleCallback(HWND hwnd, LPARAM hiddenTitles) {
     auto& localTitles { *reinterpret_cast<std::vector<std::string>*>(hiddenTitles) };
 
     if (IsWindowVisible(hwnd)) {
@@ -77,8 +73,12 @@ std::vector<std::string> getWindowTitles() {
     }
 
     return TRUE; // Continue enumeration
-  }, reinterpret_cast<LPARAM>(&titles));
+  }
+} // anonymous namespace
 
+std::vector<std::string> getWindowTitles() {
+  std::vector<std::string> titles;
+  EnumWindows(windowTitleCallback, reinterpret_cast<LPARAM>(&titles));
   return titles;
 }
 
