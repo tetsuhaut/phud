@@ -1,5 +1,4 @@
 *.db
-CLAUDE.md
 build-*/
 phud.7z
 src/test/resources/*.db
