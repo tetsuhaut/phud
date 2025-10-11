@@ -15,7 +15,7 @@ namespace fs = std::filesystem;
 
 namespace {
   struct [[nodiscard]] LoggingConfig final {
-    LoggingConfig() { Logger::setupConsoleDebugLogging("[%D %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v"); }
+    LoggingConfig() { Logger::setupConsoleDebugLogging("[%Y%m%d %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v"); }
     ~LoggingConfig() { Logger::shutdownLogging(); }
   };
 } // anonymous namespace

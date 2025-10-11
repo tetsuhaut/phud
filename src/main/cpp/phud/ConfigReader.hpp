@@ -14,6 +14,7 @@ namespace ConfigReader {
   struct Config {
     std::optional<LoggingLevel> loggingLevel = {};
     std::optional<std::filesystem::path> historyDirectory = {};
+    std::optional<std::string> loggingPattern = {};
   };
 
   /**

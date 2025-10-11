@@ -1,12 +1,9 @@
 #include "filesystem/TextFile.hpp" // TextFile
-#include "log/Logger.hpp"
 #include "log/LoggingLevel.hpp"
 #include "phud/ConfigReader.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::trim, std::string
 #include <format>
 #include <fstream> // std::ofstream
-
-static Logger LOG { CURRENT_FILE_NAME };
 
 namespace {
   constexpr std::string_view PROPERTIES_FILE { "phud-config.properties" };
@@ -34,7 +31,6 @@ namespace {
    * @return Configuration structure
    */
   [[nodiscard]] ConfigReader::Config parsePropertiesFile(const std::filesystem::path& configPath) {
-    LOG.info<"reading phud properties file {}">(configPath.string());
     ConfigReader::Config config;
     TextFile file(configPath);
 
@@ -42,22 +38,23 @@ namespace {
       if (!file.lineIsEmpty() and !file.startsWith('#')) {
         const auto [key, value] { readLine(file.getLine()) };
 
-        if (key != "logging.level" and key != "history.directory") {
+        /*if (key != "logging.level" and key != "history.directory" and key != "logging.pattern") {
           LOG.warn<"Unknown configuration key: '{}'">(key);
         }
-        else if (!value.empty()) {
+        else*/ if (!value.empty()) {
           if (key == "logging.level") {
             try {
               config.loggingLevel = toLoggingLevel(value);
-              LOG.debug<"Read parameter logging.level: {}">(value);
             } catch (const std::exception& e) {
               const auto& msg { std::format("Invalid logging level '{}': {}", value, e.what()) };
               throw ConfigReaderException(msg);
             }
           }
-          else { // key == "history.directory"
+          else if (key == "history.directory") {
             config.historyDirectory = std::filesystem::path(value);
-            LOG.debug<"Read parameter history.directory: {}">(value);
+          }
+          else { // key == "logging.pattern"
+            config.loggingPattern = value;
           }
         }
       }
@@ -76,10 +73,12 @@ namespace {
       file << "# Generated automatically with default values\n\n";
       file << "# Logging level: trace, debug, info, warn, error, critical, off\n";
       file << "logging.level=info\n\n";
+      file << "# Logging pattern (spdlog format): %Y-%m-%d for YYYY-MM-DD, %Y%m%d for YYYYMMDD\n";
+      file << "# See https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags\n";
+      file << "logging.pattern=[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v\n\n";
       file << "# History directory (leave empty if no directory configured)\n";
       file << "history.directory=\n";
       file.close();
-      LOG.info<"Default configuration file created: {}">(configPath.string());
     } else {
       throw ConfigReaderException(std::format("Failed to create configuration file: {}", configPath.string()));
     }
@@ -90,10 +89,7 @@ namespace {
 ConfigReader::Config ConfigReader::loadConfig(const std::filesystem::path& executablePath) {
   const auto& configPath { executablePath.parent_path() / PROPERTIES_FILE };
 
-  if (std::filesystem::exists(configPath)) {
-    LOG.info<"Found the configuration file {}">(configPath.string());
-  } else {
-    LOG.info<"Configuration file {} not found, creating default configuration">(configPath.string());
+  if (!std::filesystem::exists(configPath)) {
     createDefaultConfigFile(configPath);
   }
 

@@ -53,7 +53,7 @@ static void logErrorAndAbort(int signum) {
 }
 
 struct [[nodiscard]] LoggingConfig final {
-  LoggingConfig() { Logger::setupFileInfoLogging("[%D %H:%M:%S.%e] [%l] [%t] %v"); }
+  explicit LoggingConfig(std::string_view pattern) { Logger::setupFileInfoLogging(pattern); }
   LoggingConfig(const LoggingConfig&) = delete;
   LoggingConfig(LoggingConfig&&) = delete;
   LoggingConfig& operator=(const LoggingConfig&) = delete;
@@ -107,14 +107,14 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
   std::signal(SIGSEGV, logErrorAndAbort);
   std::signal(SIGABRT, logErrorAndAbort);
   std::signal(SIGINT, logErrorAndAbort);
-  LoggingConfig _;
-  LOG.info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
   auto nbErr { 0 };
 
   try {
     const auto args { std::span(argv, limits::toSizeT(argc)) };
-    const auto& [oHistoDir, loggingLevel] { ProgramConfiguration::readConfiguration(args) };
+    const auto& [oHistoDir, loggingLevel, loggingPattern] { ProgramConfiguration::readConfiguration(args) };
+    LoggingConfig _ { loggingPattern };
     Logger::setLoggingLevel(loggingLevel);
+    LOG.info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
     Database db(ProgramInfos::DATABASE_NAME);
     TableService ts(db);
     HistoryService hs(db);
@@ -128,6 +128,7 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
         const auto& strDir { oHistoDir.value().string() };
         throw PhudException(fmt::format("The provided hand history directory '{}' is invalid", strDir));
       }
+      LOG.info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(toString(loggingLevel), loggingPattern, oHistoDir.value().string());
     }
 
     Gui gui(ts, hs);

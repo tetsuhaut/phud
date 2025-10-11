@@ -8,7 +8,13 @@
 #include <utility> // std::pair
 
 namespace ProgramConfiguration {
-  [[nodiscard]] std::pair<std::optional<std::filesystem::path>, LoggingLevel> readConfiguration(std::span<const char* const> args);
+  struct Configuration {
+    std::optional<std::filesystem::path> historyDirectory;
+    LoggingLevel loggingLevel;
+    std::string loggingPattern;
+  };
+
+  [[nodiscard]] Configuration readConfiguration(std::span<const char* const> args);
 } // namespace ProgramConfiguration
 
 

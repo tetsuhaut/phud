@@ -33,7 +33,7 @@ class [[nodiscard]] GlobalFixture final {
 public:
   GlobalFixture() {
     boost::debug::detect_memory_leaks(false);
-    Logger::setupConsoleWarnLogging("[%D %H:%M:%S.%e] [%l] [%t] %v");
+    Logger::setupConsoleWarnLogging("[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v");
     namespace but = boost::unit_test;
 
     if (but::log_level::log_successful_tests ==

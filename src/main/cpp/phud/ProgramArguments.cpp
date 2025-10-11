@@ -1,5 +1,4 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::span
-#include "log/Logger.hpp"
 #include "phud/ProgramArguments.hpp"  // ProgramArguments::*, std::string, std::string_view, std::pair, std::optional, toLoggingLevel()
 
 #include "constants/ProgramInfos.hpp"  // ProgramInfos::*
@@ -8,8 +7,6 @@
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 #include <array>
-
-static Logger LOG { CURRENT_FILE_NAME };
 
 namespace fs = std::filesystem;
 namespace ps = phud::strings;
@@ -95,7 +92,7 @@ template <StringLiteral STR>
 /*[[nodiscard]]*/
 std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
 parseProgramArguments(std::span<const char* const> args) {
-  LOG.info<"reading phud program arguments">();
+  // NOTE: can't log yet
   const auto programName { gsl::at(args, 0) };
   constexpr auto USAGE_TEMPLATE {
     "Usage:\n{} [-d|--historyDir <directory>] "
