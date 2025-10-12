@@ -77,4 +77,10 @@ namespace phud::filesystem {
             return a.string() < b.string();
         }
     };
+
+    struct [[nodiscard]] PathModificationTimeComparator final {
+        bool operator()(const std::filesystem::path& a, const std::filesystem::path& b) const {
+            return std::filesystem::last_write_time(a) < std::filesystem::last_write_time(b);
+        }
+    };
 } // namespace phud::filesystem

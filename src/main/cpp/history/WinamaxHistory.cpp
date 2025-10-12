@@ -234,8 +234,8 @@ fs::path WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& dir,
     LOG.debug<"Found 1 history file for table '{}': {}">(tableName, files.front().string());
     return files.front();
   }
-  // Take the most recent file
-  std::ranges::sort(files, pf::PathComparator {});
-  LOG.debug<"Found {} history files for table '{}', using: {}">(files.size(), tableName, files.back().string());
+  // Take the most recent file (sort by modification time, most recent last)
+  std::ranges::sort(files, pf::PathModificationTimeComparator {});
+  LOG.debug<"Found {} history files for table '{}', using most recent: {}">(files.size(), tableName, files.back().string());
   return files.back();
 }

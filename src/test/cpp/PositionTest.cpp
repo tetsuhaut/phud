@@ -7,6 +7,22 @@
 #include <ranges> // std::views
 #include <set>
 
+namespace {
+  void buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat max) {
+    const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
+    for (int i = 0; i < tableSeat::toArrayIndex(max); ++i) {
+      const auto& [x, y] { buildPlayerIndicatorPosition(tableSeat::fromArrayIndex(i), max, tablePosition) };
+    }
+  }
+
+  void buildRotatedPlayerIndicatorPositionShouldSucceed(Seat max, Seat hero) {
+    const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
+    for (int i = 0; i < tableSeat::toArrayIndex(max); ++i) {
+      const auto& [x, y] { buildPlayerIndicatorPosition(tableSeat::fromArrayIndex(i), hero, max, tablePosition) };
+    }
+  }
+} // anonymous namespace
+
 BOOST_AUTO_TEST_SUITE(PositionTest)
 
 // 0---+ X
@@ -15,42 +31,17 @@ BOOST_AUTO_TEST_SUITE(PositionTest)
 // +
 // Y
 
-BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionFor6MAxShouldSucceed) {
-  const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
-  const auto tableMaxSeat { Seat::seatSix };
-  const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, tableMaxSeat, tablePosition) };
-  std::print("x1={}, y1={}\n", x1, y1);
-  const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, tableMaxSeat, tablePosition) };
-  std::print("x2={}, y2={}\n", x2, y2);
-  const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, tableMaxSeat, tablePosition) };
-  std::print("x3={}, y3={}\n", x3, y3);
-  const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, tableMaxSeat, tablePosition) };
-  std::print("x4={}, y4={}\n", x4, y4);
-  const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, tableMaxSeat, tablePosition) };
-  std::print("x5={}, y5={}\n", x5, y5);
-  const auto& [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, tableMaxSeat, tablePosition) };
-  std::print("x6={}, y6={}\n", x6, y6);
-}
-
-// 0---+ X
-// |
-// |
-// +
-// Y
-
-BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionFor5MAxShouldSucceed) {
-  const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
-  const auto tableMaxSeat { Seat::seatFive };
-  const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, tableMaxSeat, tablePosition) };
-  std::print("x1={}, y1={}\n", x1, y1);
-  const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, tableMaxSeat, tablePosition) };
-  std::print("x2={}, y2={}\n", x2, y2);
-  const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, tableMaxSeat, tablePosition) };
-  std::print("x3={}, y3={}\n", x3, y3);
-  const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, tableMaxSeat, tablePosition) };
-  std::print("x4={}, y4={}\n", x4, y4);
-  const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, tableMaxSeat, tablePosition) };
-  std::print("x5={}, y5={}\n", x5, y5);
+BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionShouldSucceed) {
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatOne);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatTwo);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatThree);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatFour);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatFive);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatSix);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatSeven);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatEight);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatNine);
+  buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat::seatTen);
 }
 
 // 0---+ X
@@ -60,21 +51,16 @@ BOOST_AUTO_TEST_CASE(PositionTest_buildAbsolutePlayerIndicatorPositionFor5MAxSho
 // Y
 
 BOOST_AUTO_TEST_CASE(PositionTest_buildPlayerIndicatorPositionShouldSucceed) {
-  const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
-  const auto heroSeat { Seat::seatOne };
-  const auto tableMaxSeat { Seat::seatSix };
-  const auto& [x1, y1] { buildPlayerIndicatorPosition(Seat::seatOne, heroSeat, tableMaxSeat, tablePosition) };
-  std::print("x1={}, y1={}\n", x1, y1);
-  const auto& [x2, y2] { buildPlayerIndicatorPosition(Seat::seatTwo, heroSeat, tableMaxSeat, tablePosition) };
-  std::print("x2={}, y2={}\n", x2, y2);
-  const auto& [x3, y3] { buildPlayerIndicatorPosition(Seat::seatThree, heroSeat, tableMaxSeat, tablePosition) };
-  std::print("x3={}, y3={}\n", x3, y3);
-  const auto& [x4, y4] { buildPlayerIndicatorPosition(Seat::seatFour, heroSeat, tableMaxSeat, tablePosition) };
-  std::print("x4={}, y4={}\n", x4, y4);
-  const auto& [x5, y5] { buildPlayerIndicatorPosition(Seat::seatFive, heroSeat, tableMaxSeat, tablePosition) };
-  std::print("x5={}, y5={}\n", x5, y5);
-  const auto& [x6, y6] { buildPlayerIndicatorPosition(Seat::seatSix, heroSeat, tableMaxSeat, tablePosition) };
-  std::print("x6={}, y6={}\n", x6, y6);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatOne, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatTwo, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatThree, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatFour, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatFive, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatSix, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatSeven, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatEight, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatNine, Seat::seatOne);
+  buildRotatedPlayerIndicatorPositionShouldSucceed(Seat::seatTen, Seat::seatOne);
 }
 
 BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldBeLocatedInsideTheTableWindow) {
@@ -162,6 +148,100 @@ BOOST_AUTO_TEST_CASE(PositionTest_testRotatePlayerIndicatorPosition_NoRotationWh
   const auto [origX, origY] { buildPlayerIndicatorPosition(Seat::seatTwo, maxSeats, tablePos) };
   BOOST_CHECK_EQUAL(noRotX, origX);
   BOOST_CHECK_EQUAL(noRotY, origY);
+}
+
+// Tests pour table à 5 joueurs
+BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat1_HeroAtBottom) {
+  // Table à 5 joueurs, hero au siège 1
+  // Le hero doit être en bas (position 4 pour une table à 5)
+  const auto maxSeats { Seat::seatFive };
+  const auto heroSeat { Seat::seatOne };
+  const phud::Rectangle tablePos { 0, 0, 600, 400 };
+
+  const auto [heroX, heroY] { buildPlayerIndicatorPosition(heroSeat, heroSeat, maxSeats, tablePos) };
+  const auto [expectedX, expectedY] { buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
+
+  BOOST_CHECK_EQUAL(heroX, expectedX);
+  BOOST_CHECK_EQUAL(heroY, expectedY);
+}
+
+BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat1_AllSeatsDistinct) {
+  // Table à 5 joueurs, hero au siège 1
+  // Tous les sièges doivent avoir des positions distinctes
+  const auto maxSeats { Seat::seatFive };
+  const auto heroSeat { Seat::seatOne };
+  const phud::Rectangle tablePos { 0, 0, 600, 400 };
+
+  const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive };
+  const auto positions { seats
+    | std::views::transform([heroSeat, maxSeats, &tablePos](auto seat) {
+        return buildPlayerIndicatorPosition(seat, heroSeat, maxSeats, tablePos); })
+    | std::ranges::to<std::vector>() };
+
+  std::set<std::pair<int, int>> uniquePositions(positions.begin(), positions.end());
+  BOOST_CHECK_EQUAL(uniquePositions.size(), positions.size());
+}
+
+BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat3_HeroAtBottom) {
+  // Table à 5 joueurs, hero au siège 3
+  // Le hero doit être en bas (position 4)
+  const auto maxSeats { Seat::seatFive };
+  const auto heroSeat { Seat::seatThree };
+  const phud::Rectangle tablePos { 0, 0, 600, 400 };
+
+  const auto [heroX, heroY] { buildPlayerIndicatorPosition(heroSeat, heroSeat, maxSeats, tablePos) };
+  const auto [expectedX, expectedY] { buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
+
+  BOOST_CHECK_EQUAL(heroX, expectedX);
+  BOOST_CHECK_EQUAL(heroY, expectedY);
+}
+
+BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat3_AllSeatsDistinct) {
+  // Table à 5 joueurs, hero au siège 3
+  // Tous les sièges doivent avoir des positions distinctes
+  const auto maxSeats { Seat::seatFive };
+  const auto heroSeat { Seat::seatThree };
+  const phud::Rectangle tablePos { 0, 0, 600, 400 };
+
+  const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive };
+  const auto positions { seats
+    | std::views::transform([heroSeat, maxSeats, &tablePos](auto seat) {
+        return buildPlayerIndicatorPosition(seat, heroSeat, maxSeats, tablePos); })
+    | std::ranges::to<std::vector>() };
+
+  std::set<std::pair<int, int>> uniquePositions(positions.begin(), positions.end());
+  BOOST_CHECK_EQUAL(uniquePositions.size(), positions.size());
+}
+
+BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat5_HeroAtBottom) {
+  // Table à 5 joueurs, hero au siège 5
+  // Le hero doit être en bas (position 4)
+  const auto maxSeats { Seat::seatFive };
+  const auto heroSeat { Seat::seatFive };
+  const phud::Rectangle tablePos { 0, 0, 600, 400 };
+
+  const auto [heroX, heroY] { buildPlayerIndicatorPosition(heroSeat, heroSeat, maxSeats, tablePos) };
+  const auto [expectedX, expectedY] { buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
+
+  BOOST_CHECK_EQUAL(heroX, expectedX);
+  BOOST_CHECK_EQUAL(heroY, expectedY);
+}
+
+BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat5_AllSeatsDistinct) {
+  // Table à 5 joueurs, hero au siège 5
+  // Tous les sièges doivent avoir des positions distinctes
+  const auto maxSeats { Seat::seatFive };
+  const auto heroSeat { Seat::seatFive };
+  const phud::Rectangle tablePos { 0, 0, 600, 400 };
+
+  const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive };
+  const auto positions { seats
+    | std::views::transform([heroSeat, maxSeats, &tablePos](auto seat) {
+        return buildPlayerIndicatorPosition(seat, heroSeat, maxSeats, tablePos); })
+    | std::ranges::to<std::vector>() };
+
+  std::set<std::pair<int, int>> uniquePositions(positions.begin(), positions.end());
+  BOOST_CHECK_EQUAL(uniquePositions.size(), positions.size());
 }
 
 BOOST_AUTO_TEST_SUITE_END()

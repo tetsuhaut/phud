@@ -2,7 +2,7 @@
 
 #include <string_view>
 
-enum class /*[[nodiscard]]*/ Seat : short {
+enum class [[nodiscard]] Seat  : short {
   seatOne, seatTwo, seatThree, seatFour, seatFive, seatSix, seatSeven,
   seatEight, seatNine, seatTen, seatUnknown
 };
@@ -26,9 +26,7 @@ namespace tableSeat {
   /*
    * Transforms Seat::SeatOne into 1 and so on.
    */
-  [[nodiscard]] constexpr int toInt(Seat seat) noexcept {
-    return static_cast<int>(seat) + 1;
-  }
+  [[nodiscard]] int toInt(Seat seat);
 
   /*
    * Transforms Seat::SeatOne into 1 and so on.
@@ -38,7 +36,5 @@ namespace tableSeat {
   /*
    * Transforms Seat::SeatOne into 0 and so on.
    */
-  [[nodiscard]] constexpr std::size_t toArrayIndex(Seat seat) noexcept {
-    return static_cast<std::size_t>(seat);
-  }
+  [[nodiscard]] std::size_t toArrayIndex(Seat seat);
 } // namespace tableSeat

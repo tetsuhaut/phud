@@ -38,8 +38,31 @@ namespace {
     if (heroSeat == Seat::seatUnknown) { return seat; }
 
     const auto max { tableSeat::toInt(maxSeats) };
-    const auto seatTmp { tableSeat::toInt(seat) - tableSeat::toInt(heroSeat) + max };
-    return tableSeat::fromInt((seatTmp > max) ? (seatTmp - max) : seatTmp);
+    const auto seatInt { tableSeat::toInt(seat) };
+    const auto heroInt { tableSeat::toInt(heroSeat) };
+
+    // Cas spécial : le hero va toujours à la position (max - 1)
+    if (seat == heroSeat) {
+      return tableSeat::fromInt(max - 1);
+    }
+
+    // Cas spécial : le dernier siège (seat == max) va toujours à la position max
+    if (seat == maxSeats) {
+      return tableSeat::fromInt(max);
+    }
+
+    // Pour les sièges après le hero (dans l'ordre circulaire), utilise offset = max
+    // Pour les sièges avant le hero, utilise offset = max - 1
+    const auto offset { seatInt > heroInt ? max : (max - 1) };
+    const auto seatTmp { seatInt - heroInt + offset };
+
+    // Gère les valeurs négatives (si seat < hero avec offset = max - 1)
+    const auto adjusted { seatTmp <= 0 ? seatTmp + max : seatTmp };
+
+    // Wrappe si > max
+    const auto wrapped { adjusted > max ? adjusted - max : adjusted };
+
+    return tableSeat::fromInt(wrapped);
   }
 } // anonymous namespace
 

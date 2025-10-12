@@ -1,6 +1,7 @@
 #include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
 #include "language/EnumMapper.hpp"
+#include "language/PhudException.hpp" // PhudException
 #include "language/Validator.hpp"
 
 static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
@@ -28,4 +29,38 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
 /*[[nodiscard]]*/ Seat tableSeat::fromInt(int i) {
   validation::require(0 < i and TableConstants::MAX_SEAT_NUMBER >= i, "Can't find a seat for that value");
   return static_cast<Seat>(i - 1);
+}
+
+/*[[nodiscard]]*/ int tableSeat::toInt(Seat seat) {
+  switch (seat) {
+  case Seat::seatOne: return 1;
+  case Seat::seatTwo: return 2;
+  case Seat::seatThree: return 3;
+  case Seat::seatFour: return 4;
+  case Seat::seatFive: return 5;
+  case Seat::seatSix: return 6;
+  case Seat::seatSeven: return 7;
+  case Seat::seatEight: return 8;
+  case Seat::seatNine: return 9;
+  case Seat::seatTen: return 10;
+  case Seat::seatUnknown: return 11;
+  default: throw PhudException("Unknown seat value");
+  }
+}
+
+/*[[nodiscard]]*/ std::size_t tableSeat::toArrayIndex(Seat seat) {
+  switch (seat) {
+  case Seat::seatOne: return 0;
+  case Seat::seatTwo: return 1;
+  case Seat::seatThree: return 2;
+  case Seat::seatFour: return 3;
+  case Seat::seatFive: return 4;
+  case Seat::seatSix: return 5;
+  case Seat::seatSeven: return 6;
+  case Seat::seatEight: return 7;
+  case Seat::seatNine: return 8;
+  case Seat::seatTen: return 9;
+  case Seat::seatUnknown: return 10;
+  default: throw PhudException("Unknown seat value");
+  }
 }
