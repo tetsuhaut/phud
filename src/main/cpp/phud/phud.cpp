@@ -68,11 +68,10 @@ private:
   bool m_hasConsole { false };
 
 public:
-  ConditionalConsole() {
+  ConditionalConsole() : m_hasConsole { TRUE == AttachConsole(ATTACH_PARENT_PROCESS) } {
     // if the app was launched in a console, do not create a new one
-    if (AttachConsole(ATTACH_PARENT_PROCESS)) {
-      m_hasConsole = true;
-      FILE* fp;
+    if (m_hasConsole) {
+      FILE* fp { nullptr };
       freopen_s(&fp, "CONOUT$", "w", stdout);
       freopen_s(&fp, "CONOUT$", "w", stderr);
       freopen_s(&fp, "CONIN$", "r", stdin);

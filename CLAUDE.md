@@ -98,6 +98,12 @@ static_check.bat
 - Use `constexpr` for compile-time constants and functions
 - Prefer brace initialization `{}` over assignment `=` for all variable declarations
   - Example: `const auto value { 42 };` instead of `const auto value = 42;`
+- **Yoda conditions**: In comparisons, always place constants on the left side to prevent accidental assignment
+  - Example: `if ("logging.level" == key)` instead of `if (key == "logging.level")`
+  - Example: `if (0 == value)` instead of `if (value == 0)`
+- **Always use braces**: All control structures (`if`, `else`, `for`, `while`, etc.) must use braces, even for single-line statements
+  - Example: `if (condition) { doSomething(); }` instead of `if (condition) doSomething();`
+  - This prevents errors when adding additional statements later
 
 ### Testing
 - Unit tests use Boost.Test framework

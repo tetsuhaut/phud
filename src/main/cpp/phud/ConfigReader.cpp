@@ -5,24 +5,23 @@
 #include <format>
 #include <fstream> // std::ofstream
 
+//
+// NOTE: we cannot log yet as the logging framework was not initialised
+//
+
 namespace {
   constexpr std::string_view PROPERTIES_FILE { "phud-config.properties" };
 
-  struct KeyValue {
-    std::string key;
-    std::string value;
-  };
-
-  [[nodiscard]] KeyValue readLine(std::string_view line) {
-    const auto trimmedLine { phud::strings::trim(line) };
+  [[nodiscard]] std::pair<std::string, std::string> readKeyValueFromLine(int lineNb, std::string_view line) {
+    const auto& trimmedLine { phud::strings::trim(line) };
 
     if (const auto equalPos { trimmedLine.find('=') }; !notFound(equalPos)) {
-      const std::string key { phud::strings::trim(trimmedLine.substr(0, equalPos)) };
-      const std::string value { phud::strings::trim(trimmedLine.substr(equalPos + 1)) };
-      return KeyValue{ .key = key, .value = value };
+      return {
+        std::string(phud::strings::trim(trimmedLine.substr(0, equalPos))),
+        std::string(phud::strings::trim(trimmedLine.substr(equalPos + 1)))
+      };
     }
-    const auto msg { std::format("Invalid configuration line (missing '='): {}", line) };
-    throw ConfigReaderException(msg);
+    throw ConfigReaderException(std::format("Error at line {}: invalid configuration line (missing '='): {}", lineNb, line));
   }
 
   /**
@@ -33,28 +32,28 @@ namespace {
   [[nodiscard]] ConfigReader::Config parsePropertiesFile(const std::filesystem::path& configPath) {
     ConfigReader::Config config;
     TextFile file(configPath);
+    auto lineNb { 0 };
 
     while (file.next()) {
-      if (!file.lineIsEmpty() and !file.startsWith('#')) {
-        const auto [key, value] { readLine(file.getLine()) };
+      ++lineNb;
 
-        /*if (key != "logging.level" and key != "history.directory" and key != "logging.pattern") {
-          LOG.warn<"Unknown configuration key: '{}'">(key);
-        }
-        else*/ if (!value.empty()) {
+      if (!file.lineIsEmpty() and !file.startsWith('#')) {
+        if (const auto [key, value] { readKeyValueFromLine(lineNb, file.getLine()) }; !value.empty()) {
           if (key == "logging.level") {
             try {
               config.loggingLevel = toLoggingLevel(value);
             } catch (const std::exception& e) {
-              const auto& msg { std::format("Invalid logging level '{}': {}", value, e.what()) };
-              throw ConfigReaderException(msg);
+              throw ConfigReaderException(std::format("Error at line {}: Invalid logging level '{}': {}", lineNb, value, e.what()));
             }
           }
           else if (key == "history.directory") {
             config.historyDirectory = std::filesystem::path(value);
           }
-          else { // key == "logging.pattern"
+          else if (key == "logging.pattern") {
             config.loggingPattern = value;
+          }
+          else {
+            throw ConfigReaderException(std::format("Error at line {}: unknown configuration key: '{}'", lineNb, key));
           }
         }
       }
