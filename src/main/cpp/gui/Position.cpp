@@ -33,38 +33,42 @@ namespace {
     return { limits::toInt(tablePos.x + coefX * tablePos.w),
              limits::toInt(tablePos.y + coefY * tablePos.h) };
   }
-
-  [[nodiscard]] constexpr Seat rotateRelativeToHero(Seat seat, Seat heroSeat, Seat maxSeats) {
-    if (heroSeat == Seat::seatUnknown) { return seat; }
-
-    const auto max { tableSeat::toInt(maxSeats) };
-    const auto seatInt { tableSeat::toInt(seat) };
-    const auto heroInt { tableSeat::toInt(heroSeat) };
-
-    // Cas spécial : le hero va toujours à la position (max - 1)
-    if (seat == heroSeat) {
-      return tableSeat::fromInt(max - 1);
-    }
-
-    // Cas spécial : le dernier siège (seat == max) va toujours à la position max
-    if (seat == maxSeats) {
-      return tableSeat::fromInt(max);
-    }
-
-    // Pour les sièges après le hero (dans l'ordre circulaire), utilise offset = max
-    // Pour les sièges avant le hero, utilise offset = max - 1
-    const auto offset { seatInt > heroInt ? max : (max - 1) };
-    const auto seatTmp { seatInt - heroInt + offset };
-
-    // Gère les valeurs négatives (si seat < hero avec offset = max - 1)
-    const auto adjusted { seatTmp <= 0 ? seatTmp + max : seatTmp };
-
-    // Wrappe si > max
-    const auto wrapped { adjusted > max ? adjusted - max : adjusted };
-
-    return tableSeat::fromInt(wrapped);
-  }
 } // anonymous namespace
+
+/*[[nodiscard]]*/ Seat gui::rotateRelativeToHero(Seat seat, Seat heroSeat, Seat maxSeats) {
+  assert(seat <= maxSeats);
+  assert(heroSeat <= maxSeats);
+  if (heroSeat == Seat::seatUnknown) { return seat; }
+  if (seat == Seat::seatUnknown) { return seat; }
+  if (maxSeats == Seat::seatUnknown) { return seat; }
+
+  const auto max { tableSeat::toInt(maxSeats) };
+  const auto seatInt { tableSeat::toInt(seat) };
+  const auto heroInt { tableSeat::toInt(heroSeat) };
+
+  // Cas spécial : le hero va toujours à la position (max - 1)
+  if (seat == heroSeat) {
+    return tableSeat::fromInt(max - 1);
+  }
+
+  // Cas spécial : le dernier siège (seat == max) va toujours à la position max
+  if (seat == maxSeats) {
+    return tableSeat::fromInt(max);
+  }
+
+  // Pour les sièges après le hero (dans l'ordre circulaire), utilise offset = max
+  // Pour les sièges avant le hero, utilise offset = max - 1
+  const auto offset { seatInt > heroInt ? max : (max - 1) };
+  const auto seatTmp { seatInt - heroInt + offset };
+
+  // Gère les valeurs négatives (si seat < hero avec offset = max - 1)
+  const auto adjusted { seatTmp <= 0 ? seatTmp + max : seatTmp };
+
+  // Wrappe si > max
+  const auto wrapped { adjusted > max ? adjusted - max : adjusted };
+
+  return tableSeat::fromInt(wrapped);
+}
 
 /**
   * Returns the PlayerIndicator position.
@@ -72,26 +76,8 @@ namespace {
   * 1 < tableMaxSeats < 11
   * Builds absolute seat position.
   */
-[[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat,
+[[nodiscard]] std::pair<int, int> gui::buildPlayerIndicatorPosition(Seat seat,
     Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   assert(seat <= tableMaxSeats);
   return calculatePosition(seat, tableMaxSeats, tablePos);
-}
-
-/**
- * Gets the PlayerIndicator position, rotated so that heroSeat is at the bottom.
- * -1 < seat < tableMaxSeats
- * 1 < tableMaxSeats < 11
- * @param seat The seat we want the PlayerIndicator position
- * @param heroSeat The seat occupied by the hero
- * @tableMaxSeats The maximum seat number
- * @tablePos The table window coordinates and dimensions
- * @returns the PlayerIndicator position, rotated so that heroSeat is at the bottom
- */
-[[nodiscard]] std::pair<int, int> buildPlayerIndicatorPosition(Seat seat,
-    Seat heroSeat, Seat tableMaxSeats, const phud::Rectangle& tablePos) {
-  assert(seat <= tableMaxSeats);
-  assert(heroSeat <= tableMaxSeats or heroSeat == Seat::seatUnknown);
-  const auto rotatedSeat { rotateRelativeToHero(seat, heroSeat, tableMaxSeats) };
-  return calculatePosition(rotatedSeat, tableMaxSeats, tablePos);
 }

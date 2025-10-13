@@ -238,7 +238,8 @@ static void updateTablePlayerIndicators(
     LOG.debug<"Checking seat {}">(seatStr);
     if (auto ps { tableStatistics.extractPlayerStatistics(seat) }; nullptr != ps) {
       LOG.debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(), seatStr);
-      const auto& pos { buildPlayerIndicatorPosition(seat, heroSeat, tableStatistics.getMaxSeat(), tablePosition) };
+      const auto rotatedSeat { gui::rotateRelativeToHero(seat, heroSeat, tableStatistics.getMaxSeat()) };
+      const auto& pos { gui::buildPlayerIndicatorPosition(rotatedSeat, tableStatistics.getMaxSeat(), tablePosition) };
       // update the PlayerIndicators with the latest stats.
       // -1 < seat < nbSeats, 1 < nbSeats < 11
       auto& playerIndicator { playerIndicators.at(tableSeat::toArrayIndex(seat)) };

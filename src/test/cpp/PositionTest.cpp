@@ -11,14 +11,15 @@ namespace {
   void buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat max) {
     const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
     for (int i = 0; i < tableSeat::toArrayIndex(max); ++i) {
-      const auto& [x, y] { buildPlayerIndicatorPosition(tableSeat::fromArrayIndex(i), max, tablePosition) };
+      const auto& [x, y] { gui::buildPlayerIndicatorPosition(tableSeat::fromArrayIndex(i), max, tablePosition) };
     }
   }
 
   void buildRotatedPlayerIndicatorPositionShouldSucceed(Seat max, Seat hero) {
     const auto tablePosition { phud::Rectangle{.x = 0, .y = 0, .w = 600, .h = 400 } };
     for (int i = 0; i < tableSeat::toArrayIndex(max); ++i) {
-      const auto& [x, y] { buildPlayerIndicatorPosition(tableSeat::fromArrayIndex(i), hero, max, tablePosition) };
+      const auto rotatedSeat { gui::rotateRelativeToHero(tableSeat::fromArrayIndex(i), hero, max) };
+      const auto& [x, y] { gui::buildPlayerIndicatorPosition(rotatedSeat, max, tablePosition) };
     }
   }
 } // anonymous namespace
@@ -69,7 +70,8 @@ BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldBeLocatedInsideTheTableW
   const auto tableMaxSeat { Seat::seatSix };
   const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive, Seat::seatSix };
   std::ranges::for_each(seats, [heroSeat, tableMaxSeat, &tablePosition](auto seat) {
-    auto [x, y] { buildPlayerIndicatorPosition(seat, heroSeat, tableMaxSeat, tablePosition) };
+    const auto rotatedSeat { gui::rotateRelativeToHero(seat, heroSeat, tableMaxSeat) };
+    auto [x, y] { gui::buildPlayerIndicatorPosition(rotatedSeat, tableMaxSeat, tablePosition) };
     BOOST_REQUIRE(tablePosition.x <= x and x <= (tablePosition.x + tablePosition.w));
     BOOST_REQUIRE(50 <= tablePosition.y and (tablePosition.y + tablePosition.h) <= 250);
   });
@@ -82,7 +84,8 @@ BOOST_AUTO_TEST_CASE(PositionTest_playerIndicatorsShouldHaveDistinctPositions) {
   const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive, Seat::seatSix };
   const auto positions { seats 
     | std::views::transform([heroSeat, tableMaxSeat, &tablePosition](auto seat) {
-        return buildPlayerIndicatorPosition(seat, heroSeat, tableMaxSeat, tablePosition); })
+        const auto rotatedSeat { gui::rotateRelativeToHero(seat, heroSeat, tableMaxSeat) };
+        return gui::buildPlayerIndicatorPosition(rotatedSeat, tableMaxSeat, tablePosition); })
     | std::ranges::to<std::vector>() };
   std::set<std::pair<int, int>> mySet(positions.begin(), positions.end());
   BOOST_REQUIRE(mySet.size() == positions.size());
@@ -94,8 +97,9 @@ BOOST_AUTO_TEST_CASE(PositionTest_testRotatePlayerIndicatorPosition_HeroAtBottom
   const auto maxSeats { Seat::seatSix };
   const auto heroSeat { Seat::seatThree };
   const phud::Rectangle tablePos { 0, 0, 600, 400 };
-  const auto [heroX, heroY] { buildPlayerIndicatorPosition(heroSeat, heroSeat, maxSeats, tablePos) };
-  const auto [expectedX, expectedY] { buildPlayerIndicatorPosition(Seat::seatFive, maxSeats, tablePos) };
+  const auto rotatedSeat { gui::rotateRelativeToHero(heroSeat, heroSeat, maxSeats) };
+  const auto [heroX, heroY] { gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos) };
+  const auto [expectedX, expectedY] { gui::buildPlayerIndicatorPosition(Seat::seatFive, maxSeats, tablePos) };
   BOOST_CHECK_EQUAL(heroX, expectedX);
   BOOST_CHECK_EQUAL(heroY, expectedY);
 }
@@ -106,9 +110,9 @@ BOOST_AUTO_TEST_CASE(PositionTest_testRotatePlayerIndicatorPosition_SeatLeftOfHe
   const auto maxSeats { Seat::seatSix };
   const auto heroSeat { Seat::seatThree };
   const phud::Rectangle tablePos { 0, 0, 600, 400 };
-
-  const auto [seat4X, seat4Y] { buildPlayerIndicatorPosition(Seat::seatFour, heroSeat, maxSeats, tablePos) };
-  const auto [expected4X, expected4Y] { buildPlayerIndicatorPosition(Seat::seatOne, maxSeats, tablePos) };
+  const auto rotatedSeat { gui::rotateRelativeToHero(Seat::seatFour, heroSeat, maxSeats) };
+  const auto [seat4X, seat4Y] { gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos) };
+  const auto [expected4X, expected4Y] { gui::buildPlayerIndicatorPosition(Seat::seatOne, maxSeats, tablePos) };
   BOOST_CHECK_EQUAL(seat4X, expected4X);
   BOOST_CHECK_EQUAL(seat4Y, expected4Y);
 }
@@ -119,9 +123,9 @@ BOOST_AUTO_TEST_CASE(PositionTest_testRotatePlayerIndicatorPosition_SeatRightOfH
   const auto maxSeats { Seat::seatSix };
   const auto heroSeat { Seat::seatThree };
   const phud::Rectangle tablePos { 0, 0, 600, 400 };
-
-  const auto [seat2X, seat2Y] { buildPlayerIndicatorPosition(Seat::seatTwo, heroSeat, maxSeats, tablePos) };
-  const auto [expected2X, expected2Y] { buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
+  const auto rotatedSeat { gui::rotateRelativeToHero(Seat::seatTwo, heroSeat, maxSeats) };
+  const auto [seat2X, seat2Y] { gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos) };
+  const auto [expected2X, expected2Y] { gui::buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
   BOOST_CHECK_EQUAL(seat2X, expected2X);
   BOOST_CHECK_EQUAL(seat2Y, expected2Y);
 }
@@ -132,22 +136,11 @@ BOOST_AUTO_TEST_CASE(PositionTest_testRotatePlayerIndicatorPosition_SeatOpposite
   const auto maxSeats { Seat::seatSix };
   const auto heroSeat { Seat::seatThree };
   const phud::Rectangle tablePos { 0, 0, 600, 400 };
-
-  const auto [seat0X, seat0Y] { buildPlayerIndicatorPosition(Seat::seatOne, heroSeat, maxSeats, tablePos) };
-  const auto [expected0X, expected0Y] { buildPlayerIndicatorPosition(Seat::seatThree, maxSeats, tablePos) };
+  const auto rotatedSeat { gui::rotateRelativeToHero(Seat::seatOne, heroSeat, maxSeats) };
+  const auto [seat0X, seat0Y] { gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos) };
+  const auto [expected0X, expected0Y] { gui::buildPlayerIndicatorPosition(Seat::seatThree, maxSeats, tablePos) };
   BOOST_CHECK_EQUAL(seat0X, expected0X);
   BOOST_CHECK_EQUAL(seat0Y, expected0Y);
-}
-
-BOOST_AUTO_TEST_CASE(PositionTest_testRotatePlayerIndicatorPosition_NoRotationWhenHeroUnknown) {
-  // Test avec hero en position inconnue (pas de rotation)
-  const auto maxSeats { Seat::seatSix };
-  const phud::Rectangle tablePos { 0, 0, 600, 400 };
-
-  const auto [noRotX, noRotY] { buildPlayerIndicatorPosition(Seat::seatTwo, Seat::seatUnknown, maxSeats, tablePos) };
-  const auto [origX, origY] { buildPlayerIndicatorPosition(Seat::seatTwo, maxSeats, tablePos) };
-  BOOST_CHECK_EQUAL(noRotX, origX);
-  BOOST_CHECK_EQUAL(noRotY, origY);
 }
 
 // Tests pour table à 5 joueurs
@@ -157,9 +150,9 @@ BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat1_HeroAtBottom) {
   const auto maxSeats { Seat::seatFive };
   const auto heroSeat { Seat::seatOne };
   const phud::Rectangle tablePos { 0, 0, 600, 400 };
-
-  const auto [heroX, heroY] { buildPlayerIndicatorPosition(heroSeat, heroSeat, maxSeats, tablePos) };
-  const auto [expectedX, expectedY] { buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
+  const auto rotatedSeat { gui::rotateRelativeToHero(heroSeat, heroSeat, maxSeats) };
+  const auto [heroX, heroY] { gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos) };
+  const auto [expectedX, expectedY] { gui::buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
 
   BOOST_CHECK_EQUAL(heroX, expectedX);
   BOOST_CHECK_EQUAL(heroY, expectedY);
@@ -175,7 +168,8 @@ BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat1_AllSeatsDistinct) {
   const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive };
   const auto positions { seats
     | std::views::transform([heroSeat, maxSeats, &tablePos](auto seat) {
-        return buildPlayerIndicatorPosition(seat, heroSeat, maxSeats, tablePos); })
+        const auto rotatedSeat { gui::rotateRelativeToHero(seat, heroSeat, maxSeats) };
+        return gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos); })
     | std::ranges::to<std::vector>() };
 
   std::set<std::pair<int, int>> uniquePositions(positions.begin(), positions.end());
@@ -188,9 +182,9 @@ BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat3_HeroAtBottom) {
   const auto maxSeats { Seat::seatFive };
   const auto heroSeat { Seat::seatThree };
   const phud::Rectangle tablePos { 0, 0, 600, 400 };
-
-  const auto [heroX, heroY] { buildPlayerIndicatorPosition(heroSeat, heroSeat, maxSeats, tablePos) };
-  const auto [expectedX, expectedY] { buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
+  const auto rotatedSeat { gui::rotateRelativeToHero(heroSeat, heroSeat, maxSeats) };
+  const auto [heroX, heroY] { gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos) };
+  const auto [expectedX, expectedY] { gui::buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
 
   BOOST_CHECK_EQUAL(heroX, expectedX);
   BOOST_CHECK_EQUAL(heroY, expectedY);
@@ -206,7 +200,8 @@ BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat3_AllSeatsDistinct) {
   const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive };
   const auto positions { seats
     | std::views::transform([heroSeat, maxSeats, &tablePos](auto seat) {
-        return buildPlayerIndicatorPosition(seat, heroSeat, maxSeats, tablePos); })
+        const auto rotatedSeat { gui::rotateRelativeToHero(seat, heroSeat, maxSeats) };
+        return gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos); })
     | std::ranges::to<std::vector>() };
 
   std::set<std::pair<int, int>> uniquePositions(positions.begin(), positions.end());
@@ -219,9 +214,9 @@ BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat5_HeroAtBottom) {
   const auto maxSeats { Seat::seatFive };
   const auto heroSeat { Seat::seatFive };
   const phud::Rectangle tablePos { 0, 0, 600, 400 };
-
-  const auto [heroX, heroY] { buildPlayerIndicatorPosition(heroSeat, heroSeat, maxSeats, tablePos) };
-  const auto [expectedX, expectedY] { buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
+  const auto rotatedSeat { gui::rotateRelativeToHero(heroSeat, heroSeat, maxSeats) };
+  const auto [heroX, heroY] { gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos) };
+  const auto [expectedX, expectedY] { gui::buildPlayerIndicatorPosition(Seat::seatFour, maxSeats, tablePos) };
 
   BOOST_CHECK_EQUAL(heroX, expectedX);
   BOOST_CHECK_EQUAL(heroY, expectedY);
@@ -237,7 +232,8 @@ BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat5_AllSeatsDistinct) {
   const std::array seats { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive };
   const auto positions { seats
     | std::views::transform([heroSeat, maxSeats, &tablePos](auto seat) {
-        return buildPlayerIndicatorPosition(seat, heroSeat, maxSeats, tablePos); })
+        const auto rotatedSeat { gui::rotateRelativeToHero(seat, heroSeat, maxSeats) };
+        return gui::buildPlayerIndicatorPosition(rotatedSeat, maxSeats, tablePos); })
     | std::ranges::to<std::vector>() };
 
   std::set<std::pair<int, int>> uniquePositions(positions.begin(), positions.end());
