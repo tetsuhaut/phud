@@ -3,9 +3,18 @@
 #include "gui/Rectangle.hpp"
 #include "gui/Position.hpp"
 #include <array>
+#include <ostream>
 #include <print>
 #include <ranges> // std::views
 #include <set>
+
+/**
+ * To be able to use the boost unit_test API with the Seat enum, we have to provide this.
+ * Note: it has to be in the global scope, putting it in the anonymous namespace won't work
+ */
+static std::ostream& operator<<(std::ostream& os, Seat s) {
+  return os << tableSeat::toString(s);
+}
 
 namespace {
   void buildAbsolutePlayerIndicatorPositionShouldSucceed(Seat max) {
@@ -238,6 +247,35 @@ BOOST_AUTO_TEST_CASE(PositionTest_Table5_HeroAtSeat5_AllSeatsDistinct) {
 
   std::set<std::pair<int, int>> uniquePositions(positions.begin(), positions.end());
   BOOST_CHECK_EQUAL(uniquePositions.size(), positions.size());
+}
+
+BOOST_AUTO_TEST_CASE(PositionTest_NoRotationNeededIfHeroIsAlreadyAtTheBottom) {
+  /**
+  * -if hero is at seat 1: rotate of 6 in 9 max table, 4 in 6 max table, 3 in 5 max table, 2 in 3 max table, 0 in 2 max table
+  * -if hero is at seat 2: rotate of 5 in 9 max table, 3 in 6 max table, 2 in 5 max table, 1 in 3 max table, 1 in 2 max table
+  * -if hero is at seat 3: rotate of 4 in 9 max table, 2 in 6 max table, 1 in 5 max table, 0 in 3 max table
+  * -if hero is at seat 4: rotate of 3 in 9 max table, 1 in 6 max table, 0 in 5 max table,
+  * -if hero is at seat 5: rotate of 2 in 9 max table, 0 in 6 max table, 4 in 5 max table,
+  * -if hero is at seat 6: rotate of 1 in 9 max table, 5 in 6 max table
+  * -if hero is at seat 7: rotate of 0 in 9 max table
+  * -if hero is at seat 8: rotate of 8 in 9 max table
+  * -if hero is at seat 9: rotate of 7 in 9 max table
+  */
+  for (const auto seat : {Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive, Seat::seatSix, Seat::seatSeven, Seat::seatEight, Seat::seatNine }) {
+    BOOST_CHECK_EQUAL(gui::rotateRelativeToHero(seat, Seat::seatSeven, Seat::seatNine), seat);
+  }
+  for (const auto seat : { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive, Seat::seatSix }) {
+    BOOST_CHECK_EQUAL(gui::rotateRelativeToHero(seat, Seat::seatFive, Seat::seatSix), seat);
+  }
+  for (const auto seat : { Seat::seatOne, Seat::seatTwo, Seat::seatThree, Seat::seatFour, Seat::seatFive }) {
+    BOOST_CHECK_EQUAL(gui::rotateRelativeToHero(seat, Seat::seatFour, Seat::seatFive), seat);
+  }
+  for (const auto seat : { Seat::seatOne, Seat::seatTwo, Seat::seatThree }) {
+    BOOST_CHECK_EQUAL(gui::rotateRelativeToHero(seat, Seat::seatThree, Seat::seatThree), seat);
+  }
+  for (const auto seat : { Seat::seatOne, Seat::seatTwo}) {
+    BOOST_CHECK_EQUAL(gui::rotateRelativeToHero(seat, Seat::seatTwo, Seat::seatTwo), seat);
+  }
 }
 
 BOOST_AUTO_TEST_SUITE_END()
