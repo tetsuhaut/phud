@@ -106,27 +106,27 @@ bool TableService::isPokerApp(std::string_view executableName) {
 
 std::string TableService::startProducingStats(std::string_view tableWindowTitle,
                                               const TableObserverCallback& observerCb) {
-  LOG.info<"Starting to produce stats for table window: {}">(tableWindowTitle);
+  LOG.info<"Starting to produce stats for table window with title: '{}'">(tableWindowTitle);
 
   if (!m_pImpl->m_pokerSiteHistory) {
     LOG.warn<"No poker site history available">();
     return "No poker site history available";
   }
 
-  const auto& h {
-    m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->m_historyDir, tableWindowTitle)
-  };
-
-  if (h.empty()) {
+  if (const auto& oHistoFile {
+        m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->m_historyDir, tableWindowTitle)
+      }; oHistoFile.has_value()) {
+    const auto& histoFile { oHistoFile.value() };
+    const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
+    LOG.info<"Table name: '{}', history file: '{}'">(tableName, histoFile.string());
+    m_pImpl->m_fileWatcher = Implementation::watchHistoFile(m_pImpl->m_reloadTask, m_pImpl->m_pokerSiteHistory,
+      m_pImpl->m_database, histoFile, tableName, observerCb);
+    return "";
+  }
+  else {
     LOG.warn<"Couldn't get history file for table '{}'">(tableWindowTitle);
     return fmt::format("Couldn't get history file for table '{}'", tableWindowTitle);
   }
-
-  const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
-  LOG.info<"Table name: '{}', history file: '{}'">(tableName, h.string());
-  m_pImpl->m_fileWatcher = Implementation::watchHistoFile(m_pImpl->m_reloadTask, m_pImpl->m_pokerSiteHistory,
-                                                          m_pImpl->m_database, h, tableName, observerCb);
-  return "";
 }
 
 void TableService::stopProducingStats() {

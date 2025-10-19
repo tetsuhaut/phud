@@ -187,7 +187,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldGuessSitngoTableNameFrowWindowTitl
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20220101FromTableWindowTitleShouldSucceed) {
   const auto& psh { WinamaxHistory() };
   const auto& p { psh.getHistoryFileFromTableWindowTitle((pt::getDirFromTestResources("Winamax/sabre_laser")),
-                  "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif") };
+                  "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif").value() };
   // only the latest is found
   BOOST_TEST("20200404_Wichita 05_play_holdem_no-limit.txt" == p.filename().string());
 }
@@ -195,7 +195,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20220101FromTableWindowTit
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20250924FromTableWindowTitleShouldSucceed) {
   const auto& wh { WinamaxHistory() };
   const auto& p { wh.getHistoryFileFromTableWindowTitle((pt::getDirFromTestResources("Winamax/sabre_laser")),
-                  "Wichita 09") };
+                  "Wichita 09").value() };
   // only the latest is found
   BOOST_TEST("20250924_Wichita 09_play_holdem_no-limit.txt" == p.filename().string());
 }

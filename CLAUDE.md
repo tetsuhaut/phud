@@ -90,7 +90,8 @@ static_check.bat
 
 ### Code Style
 - Uses AStyle with Java-style formatting
-- 2-space indentation, 100-character line limit
+- **Indentation**: Always use 2 spaces for indentation (no tabs)
+- 100-character line limit
 - Extensive compiler warnings enabled (-Wall, -Wextra, -Wpedantic for GCC)
 - Static linking preferred for deployment
 - Prefer `auto` for type deduction when the type is obvious from context

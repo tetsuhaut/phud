@@ -3,6 +3,7 @@
 #include <filesystem> // std::filesystem::path
 #include <functional> // std::function
 #include <memory> // std::unique_ptr
+#include <optional>
 
 // forward declarations
 class Site;
@@ -44,10 +45,10 @@ public:
   [[nodiscard]] virtual std::string_view getTableNameFromTableWindowTitle(
     std::string_view tableWindowTitle) const
     = 0;
-  [[nodiscard]] virtual std::filesystem::path getHistoryFileFromTableWindowTitle(
+  [[nodiscard]] virtual std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(
     const std::filesystem::path& historyDir,
     std::string_view tableWindowTitle) const = 0;
   // force the use of std::filesystem::path
-  std::filesystem::path getHistoryFileFromTableWindowTitle(auto historyDir,
+  std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(auto historyDir,
       std::string_view tableWindowTitle) const = delete;
 }; // class PokerSiteHistory

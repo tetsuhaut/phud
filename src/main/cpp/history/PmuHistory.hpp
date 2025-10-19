@@ -35,8 +35,8 @@ public:
   const
   override;
 
-  [[nodiscard]] std::filesystem::path getHistoryFileFromTableWindowTitle(
+  [[nodiscard]] std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(
     const std::filesystem::path& historyDir,
     std::string_view tableWindowTitle) const override;
-  std::filesystem::path getHistoryFileFromTableWindowTitle(auto, std::string_view) = delete;
+  std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(auto, std::string_view) = delete;
 }; // class PmuHistory

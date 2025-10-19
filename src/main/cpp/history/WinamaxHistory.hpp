@@ -1,6 +1,6 @@
 #pragma once
 
-#include "history/PokerSiteHistory.hpp" // std::filesystem::path, std::unique_ptr, std::function
+#include "history/PokerSiteHistory.hpp" // std::filesystem::path, std::unique_ptr, std::function, std::optional
 #include <functional>
 
 // forward declarations
@@ -43,8 +43,8 @@ public:
   const
   override;
 
-  [[nodiscard]] std::filesystem::path getHistoryFileFromTableWindowTitle(
+  [[nodiscard]] std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(
     const std::filesystem::path& dir,
     std::string_view tableWindowTitle) const override;
-  std::filesystem::path getHistoryFileFromTableWindowTitle(auto, std::string_view) const = delete;
+  std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(auto, std::string_view) const = delete;
 }; // class WinamaxHistory

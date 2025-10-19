@@ -32,7 +32,7 @@ const {
   return "";
 }
 
-fs::path PmuHistory::getHistoryFileFromTableWindowTitle(const fs::path& /*historyDir*/,
+std::optional<fs::path> PmuHistory::getHistoryFileFromTableWindowTitle(const fs::path& /*historyDir*/,
     std::string_view /*tableWindowTitle*/) const {
   return {};
 }
