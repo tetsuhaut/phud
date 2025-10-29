@@ -37,4 +37,9 @@ namespace tableSeat {
    * Transforms Seat::SeatOne into 0 and so on.
    */
   [[nodiscard]] std::size_t toArrayIndex(Seat seat);
+
+  /*
+   * Transforms one seat to the next one.
+   */
+  [[nodiscard]] Seat next(Seat current, Seat max);
 } // namespace tableSeat

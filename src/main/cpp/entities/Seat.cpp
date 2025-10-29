@@ -3,6 +3,7 @@
 #include "language/EnumMapper.hpp"
 #include "language/PhudException.hpp" // PhudException
 #include "language/Validator.hpp"
+#include <cassert> // assert
 
 static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
   std::pair{Seat::seatOne, "1"}, std::pair{Seat::seatTwo, "2"},
@@ -63,4 +64,11 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
   case Seat::seatUnknown: return 10;
   default: throw PhudException("Unknown seat value");
   }
+}
+
+/*[[nodiscard]]*/ Seat tableSeat::next(Seat current, Seat max) {
+  assert(current != Seat::seatUnknown);
+  assert(max != Seat::seatUnknown);
+  assert(tableSeat::toInt(current) <= tableSeat::toInt(max));
+  return (current == max) ? Seat::seatOne : tableSeat::fromInt(tableSeat::toInt(current) + 1);
 }

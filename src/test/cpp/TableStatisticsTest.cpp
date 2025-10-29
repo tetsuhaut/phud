@@ -26,6 +26,8 @@ BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
     BOOST_REQUIRE(nullptr == stats.m_tableStats[3]);
     BOOST_REQUIRE("sabre_laser" == stats.m_tableStats[4]->getPlayerName());
     BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == stats.m_tableStats[4]->getSiteName());
+    BOOST_REQUIRE(stats.m_tableStats[4]->isHero());
+    BOOST_REQUIRE(Seat::seatFive == stats.getHeroSeat());
     BOOST_REQUIRE("Gengispain" == stats.m_tableStats[5]->getPlayerName());
     BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == stats.m_tableStats[5]->getSiteName());
     BOOST_REQUIRE(nullptr == stats.m_tableStats[6]);
@@ -50,6 +52,8 @@ BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
     BOOST_REQUIRE(0 <= stats.m_tableStats[2]->getVoluntaryPutMoneyInPot());
     BOOST_REQUIRE("sabre_laser" == stats.m_tableStats[3]->getPlayerName());
     BOOST_REQUIRE(0 <= stats.m_tableStats[3]->getVoluntaryPutMoneyInPot());
+    BOOST_REQUIRE(stats.m_tableStats[3]->isHero());
+    BOOST_REQUIRE(Seat::seatFour == stats.getHeroSeat());
     BOOST_REQUIRE(stats.m_tableStats[3]->isHero());
     BOOST_REQUIRE("fanatic1980" == stats.m_tableStats[4]->getPlayerName());
     BOOST_REQUIRE(0 <= stats.m_tableStats[4]->getVoluntaryPutMoneyInPot());

@@ -31,23 +31,25 @@ namespace {
     })
   };
 
-  [[nodiscard]] std::pair<int, int> calculatePosition(Seat seat, Seat maxSeats, const phud::Rectangle& tablePos) {
+  [[nodiscard]] constexpr std::pair<int, int> calculatePosition(Seat seat, Seat maxSeats, const phud::Rectangle& tablePos) {
     const auto& [coefX, coefY] { NB_SEATS_TO_COEFF.find(maxSeats)->second.at(tableSeat::toArrayIndex(seat)) };
     return { limits::toInt(tablePos.x + coefX * tablePos.w),
              limits::toInt(tablePos.y + coefY * tablePos.h) };
   }
 
-  Seat rotate(Seat seat, int nbSeatsRotation, Seat max) noexcept {
-    const auto seatInt { tableSeat::toInt(seat) };
-    const auto maxInt { tableSeat::toInt(max) };
-    // Rotation modulaire pour valeurs 1-basées : convertir en 0-based, soustraire la rotation (sens inverse), appliquer modulo, reconvertir en 1-based
-    // On ajoute maxInt pour gérer les rotations négatives correctement
-    const auto rotated { ((seatInt - 1 - nbSeatsRotation + maxInt) % maxInt) + 1 };
-    return tableSeat::fromInt(rotated);
+  constexpr Seat rotate(Seat tobeRotated, int nbClicks, Seat maxSeats) {
+    for (int i = 0; i < nbClicks; ++i) {
+      tobeRotated = tableSeat::next(tobeRotated, maxSeats);
+    }
+    return tobeRotated;
   }
 } // anonymous namespace
 
 /**
+* table de 2 : siège 1 en bas au milieu
+* table de 3 : siège 1 en bas au milieu
+* table de 5 : siège 1 en bas au milieu
+* table de 6 : siège 1 en bas au milieu
 * -if hero is at seat 1: rotate of 6 in 9 max table, 4 in 6 max table, 3 in 5 max table, 2 in 3 max table, 1 in 2 max table
 * -if hero is at seat 2: rotate of 5 in 9 max table, 3 in 6 max table, 2 in 5 max table, 1 in 3 max table, 0 in 2 max table
 * -if hero is at seat 3: rotate of 4 in 9 max table, 2 in 6 max table, 1 in 5 max table, 0 in 3 max table
@@ -61,63 +63,16 @@ namespace {
 /*[[nodiscard]]*/ Seat gui::rotateRelativeToHero(Seat seat, Seat heroSeat, Seat maxSeats) {
   assert(seat <= maxSeats);
   assert(heroSeat <= maxSeats);
-  if (Seat::seatUnknown == heroSeat or Seat::seatUnknown == seat or Seat::seatUnknown == maxSeats) { return seat; }
+  assert(Seat::seatUnknown != heroSeat);
+  assert(Seat::seatUnknown != seat);
+  assert(Seat::seatUnknown != maxSeats);
 
-  if (Seat::seatOne == maxSeats) {
-    return Seat::seatOne;
+  if (Seat::seatOne == heroSeat) {
+    return seat;
   }
 
-  int rotation { 0 };
-
-  switch (heroSeat) {
-    case Seat::seatOne:
-      if (Seat::seatNine == maxSeats) { rotation = 6; }
-      else if (Seat::seatSix == maxSeats) { rotation = 4; }
-      else if (Seat::seatFive == maxSeats) { rotation = 3; }
-      else if (Seat::seatThree == maxSeats) { rotation = 2; }
-      else if (Seat::seatTwo == maxSeats) { rotation = 1; }
-      break;
-    case Seat::seatTwo:
-      if (Seat::seatNine == maxSeats) { rotation = 5; }
-      else if (Seat::seatSix == maxSeats) { rotation = 3; }
-      else if (Seat::seatFive == maxSeats) { rotation = 2; }
-      else if (Seat::seatThree == maxSeats) { rotation = 1; }
-      else if (Seat::seatTwo == maxSeats) { rotation = 0; }
-      break;
-    case Seat::seatThree:
-      if (Seat::seatNine == maxSeats) { rotation = 4; }
-      else if (Seat::seatSix == maxSeats) { rotation = 2; }
-      else if (Seat::seatFive == maxSeats) { rotation = 1; }
-      else if (Seat::seatThree == maxSeats) { rotation = 0; }
-      break;
-    case Seat::seatFour:
-      if (Seat::seatNine == maxSeats) { rotation = 3; }
-      else if (Seat::seatSix == maxSeats) { rotation = 1; }
-      else if (Seat::seatFive == maxSeats) { rotation = 0; }
-      break;
-    case Seat::seatFive:
-      if (Seat::seatNine == maxSeats) { rotation = 2; }
-      else if (Seat::seatSix == maxSeats) { rotation = 0; }
-      else if (Seat::seatFive == maxSeats) { rotation = 4; }
-      break;
-    case Seat::seatSix:
-      if (Seat::seatNine == maxSeats) { rotation = 1; }
-      else if (Seat::seatSix == maxSeats) { rotation = 5; }
-      break;
-    case Seat::seatSeven:
-      if (Seat::seatNine == maxSeats) { rotation = 0; }
-      break;
-    case Seat::seatEight:
-      if (Seat::seatNine == maxSeats) { rotation = 8; }
-      break;
-    case Seat::seatNine:
-      if (Seat::seatNine == maxSeats) { rotation = 7; }
-      break;
-    default:
-      break;
-  }
-
-  return rotate(seat, rotation, maxSeats);
+  const auto nbClicks { tableSeat::toInt(maxSeats) - tableSeat::toInt(heroSeat) + 1};
+  return rotate(seat, nbClicks, maxSeats);
 }
 
 /**

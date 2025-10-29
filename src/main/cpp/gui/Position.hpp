@@ -30,7 +30,7 @@ namespace gui {
       Seat tableMaxSeats, const phud::Rectangle& tablePos);*/
 
   /**
-   * @brief Rotates the given seat so that the hero seat always appears at the bottom
+   * @brief Rotates the given seat so that the hero seat always appears at the bottom.<br>
    * At the table, the seat 1 is top left. Since we want the hero to always be at the bottom:
    * - if hero is at seat 1 -> rotate of 6 in 9 max table, 4 in 6 max table, 3 in 5 max table, 2 in 3 max table, 0 in 2 max table
    * - if hero is at seat 2 -> rotate of 5 in 9 max table, 3 in 6 max table, 2 in 5 max table, 1 in 3 max table, 1 in 2 max table
