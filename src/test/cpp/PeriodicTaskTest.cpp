@@ -15,7 +15,7 @@ static constexpr std::chrono::milliseconds PT_PERIOD { 50 };
 BOOST_AUTO_TEST_SUITE(PeriodicTaskTest)
 
   BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
-    TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_launchingAPeriodicTaskShouldWork" };
+  auto willExplodeIn { TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_launchingAPeriodicTaskShouldWork") };
     const PeriodicTask pt { PT_PERIOD };
     std::vector<std::string> v { "yip" };
     pt.start([&v]() {
@@ -27,7 +27,7 @@ BOOST_AUTO_TEST_SUITE(PeriodicTaskTest)
   }
 
   BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
-    TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs" };
+    auto willExplodeIn { TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs") };
     const PeriodicTask pt { PT_PERIOD };
     const auto pMyStrContainer { std::make_unique<StrContainer>() };
     void* hidden { pMyStrContainer.get() };
@@ -50,7 +50,7 @@ BOOST_AUTO_TEST_SUITE(PeriodicTaskTest)
   };
 
   BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
-    TimeBomb willExplodeIn { TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeArrays" };
+    auto willExplodeIn { TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeArrays") };
     const PeriodicTask pt { PT_PERIOD };
     std::array<std::shared_ptr<StrContainer>, 2> myArray { std::make_shared<StrContainer>(), nullptr };
     auto pArray = std::make_shared<PassedInArray>(myArray);

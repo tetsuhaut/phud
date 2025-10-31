@@ -36,7 +36,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_doNotLookAtSummaries) {
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingBadEmptyFileShouldNotProduceGame) {
   pt::TmpDir root { "WinamaxHistoryTest_parsingBadEmptyFileShouldNotProduceGame" };
-  pt::TmpDir dir{ root / "history" }, _1{ root / "data/buddy" }, _2{ root / "data/players" };
+  pt::TmpDir dir { root / "history" }, _1{ root / "data/buddy" }, _2{ root / "data/players" };
   pt::TmpFile emptyFileWithBadName { dir / "toto.txt" };
   pt::TmpFile _3 { dir / "toto_summary.txt" };
   pt::TmpFile _4 { dir / "winamax_positioning_file.dat" };
@@ -73,7 +73,8 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingEmptyFileShouldNotProduceGame) {
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   /* looking at src\test\resources\Winamax\simpleCGHisto\history\20150309_Colorado 1_real_holdem_no-limit.txt */
-  const auto pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto")) };
+  const auto& dir { pt::getDirFromTestResources("Winamax/simpleCGHisto") };
+  const auto pSite { PokerSiteHistory::load(dir) };
   BOOST_REQUIRE(1 == pSite->viewCashGames().size());
   BOOST_REQUIRE(pSite->viewTournaments().empty());
   const auto& games { pSite->viewCashGames() };
@@ -130,7 +131,8 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodTournamentFileShouldSucceed) {
-  const auto pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto")) };
+  const auto& dir { pt::getDirFromTestResources("Winamax/simpleTHisto") };
+  const auto pSite { PokerSiteHistory::load(dir) };
   BOOST_REQUIRE(pSite->viewCashGames().empty());
   const auto& games { pSite->viewTournaments() };
   BOOST_REQUIRE(1 == games.size());
@@ -160,7 +162,8 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldDetectValidHistoryDirectory) {
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldNotHaveDuplicatedPlayers) {
-  const auto pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/sabre_laser")) };
+  const auto& dir { pt::getDirFromTestResources("Winamax/sabre_laser") };
+  const auto pSite { PokerSiteHistory::load(dir) };
   auto players { pSite->viewPlayers() };
   std::unordered_set<const Player*> uniquePlayers;
   std::ranges::for_each(players, [&uniquePlayers](auto p) { uniquePlayers.insert(p); });
@@ -186,18 +189,20 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldGuessSitngoTableNameFrowWindowTitl
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20220101FromTableWindowTitleShouldSucceed) {
   const auto& psh { WinamaxHistory() };
-  const auto& p { psh.getHistoryFileFromTableWindowTitle((pt::getDirFromTestResources("Winamax/sabre_laser")),
-                  "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif").value() };
+  const auto dir { pt::getDirFromTestResources("Winamax/sabre_laser") };
+  const auto oP { psh.getHistoryFileFromTableWindowTitle(dir, "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif") };
+  const auto& p { oP.value() };
   // only the latest is found
   BOOST_TEST("20200404_Wichita 05_play_holdem_no-limit.txt" == p.filename().string());
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20250924FromTableWindowTitleShouldSucceed) {
   const auto& wh { WinamaxHistory() };
-  const auto& p { wh.getHistoryFileFromTableWindowTitle((pt::getDirFromTestResources("Winamax/sabre_laser")),
-                  "Wichita 09").value() };
+  const auto& dir { pt::getDirFromTestResources("Winamax/sabre_laser") };
+  const auto oP { wh.getHistoryFileFromTableWindowTitle(dir, "Wichita 09") };
+  const auto file { oP.value() };
   // only the latest is found
-  BOOST_TEST("20250924_Wichita 09_play_holdem_no-limit.txt" == p.filename().string());
+  BOOST_TEST("20250924_Wichita 09_play_holdem_no-limit.txt" == file.filename().string());
 }
 
 BOOST_AUTO_TEST_SUITE_END()

@@ -27,7 +27,7 @@ BOOST_AUTO_TEST_CASE(
   const StatsProducer producer { {.reloadPeriod = SG_PERIOD, .site = ProgramInfos::WINAMAX_SITE_NAME, .tableWindowName = table, .db = db} };
   ThreadSafeQueue<TableStatistics> statsQueue;
   producer.start(statsQueue);
-  TimeBomb _ { COUNTDOWN_TO_EXPLOSION, "StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed" };
+  auto _ { TimeBomb::create(COUNTDOWN_TO_EXPLOSION, "StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed") };
   TableStatistics stats;
   statsQueue.waitPop(stats);
   producer.stop();

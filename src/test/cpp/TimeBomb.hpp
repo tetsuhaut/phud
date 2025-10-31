@@ -7,12 +7,8 @@
 /**
 * This class produces objects that will kill the program after a period of time.
 */
-class [[nodiscard]] TimeBomb final {
-private:
-  struct Implementation;
-  std::unique_ptr<Implementation> m_pImpl;
-
+class [[nodiscard]] TimeBomb /*final*/ {
 public:
-  TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_view testName);
-  ~TimeBomb();
+  static std::unique_ptr<TimeBomb> create(std::chrono::milliseconds countDownToExplosion, std::string_view testName);
+  virtual ~TimeBomb();
 }; // class TimeBomb

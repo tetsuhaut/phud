@@ -6,31 +6,34 @@
 #include <sstream> // std::ostringstream
 #include <thread>
 
-struct [[nodiscard]] TimeBomb::Implementation final {
+TimeBomb::~TimeBomb() = default;
+
+struct [[nodiscard]] TimeBombImpl final : TimeBomb {
   PeriodicTask m_task;
   std::string m_testName;
   std::atomic_bool m_isDefused { false };
 
-  Implementation(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
+  TimeBombImpl(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
     : m_task { countDownToExplosion, "TimeBomb" },
-      m_testName { testName } {}
+      m_testName { testName } {
+    m_task.start([this]() {
+      if (!m_isDefused) {
+        std::ostringstream oss;
+        oss << std::this_thread::get_id();
+        std::print("[{}] TimeBomb explodes in test {}\n", oss.str(), m_testName);
+        std::abort();
+      }
+
+      return PeriodicTaskStatus::stopTask;
+    });
+  }
+
+  ~TimeBombImpl() {
+    m_isDefused = true;
+    m_task.stop();
+  }
 };
 
-TimeBomb::~TimeBomb() {
-  m_pImpl->m_isDefused = true;
-  m_pImpl->m_task.stop();
-}
-
-TimeBomb::TimeBomb(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
-  : m_pImpl { std::make_unique<Implementation>(countDownToExplosion, testName) } {
-  m_pImpl->m_task.start([this]() {
-    if (!m_pImpl->m_isDefused) {
-      std::ostringstream oss;
-      oss << std::this_thread::get_id();
-      std::print("[{}] TimeBomb explodes in test {}\n", oss.str(), m_pImpl->m_testName);
-      std::abort();
-    }
-
-    return PeriodicTaskStatus::stopTask;
-  });
+std::unique_ptr<TimeBomb> TimeBomb::create(std::chrono::milliseconds countDownToExplosion, std::string_view testName) {
+  return std::make_unique<TimeBombImpl>(countDownToExplosion, testName);
 }

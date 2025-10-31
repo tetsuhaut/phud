@@ -3,14 +3,12 @@
 #include "filesystem/FileUtils.hpp" // phud::filesystem::*
 #include "history/WinamaxGameHistory.hpp" // parseGameHistory
 #include "history/WinamaxHistory.hpp" // WinamaxHistory, std::filesystem::path, fs::*, Global::*, std::string, phud::strings
-
-
-
 #include "language/Either.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // concatLiteral
 #include "threads/ThreadPool.hpp" // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await
+#include <expected>
 #include <ranges>
 
 static Logger LOG { CURRENT_FILE_NAME };
@@ -22,25 +20,23 @@ namespace ps = phud::strings;
 namespace {
   constexpr std::string_view ERR_MSG { "The chosen directory '{}' should contain a {} directory" };
 
-  [[nodiscard]] static Either<std::string, std::vector<fs::path>> getErrorMessageOrHistoryFiles(
+  [[nodiscard]] static std::expected<std::vector<fs::path>,std::string> getHistoryFilesOrErrorMessage(
     const fs::path& dir, const fs::path& histoDir) {
     if (!pf::isDir(histoDir)) {
-      return Either<std::string, std::vector<fs::path>>::left(fmt::format(ERR_MSG, dir.string(),
-        "'history'"));
+      return std::unexpected(fmt::format(ERR_MSG, dir.string(), "'history'"));
     }
 
     if (!pf::listSubDirs(histoDir).empty()) {
-      return Either<std::string, std::vector<fs::path>>::left(
+      return std::unexpected(
         fmt::format("The chosen directory '{}' should contain a {} directory that contains only files",
           dir.string(), "'history'"));
     }
 
     if (const auto& allFilesAndDirs { pf::listFilesAndDirs(histoDir) }; !allFilesAndDirs.empty()) {
-      return Either<std::string, std::vector<fs::path>>::right(allFilesAndDirs);
+      return allFilesAndDirs;
     }
 
-    return Either<std::string, std::vector<fs::path>>::left(
-      fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
+    return std::unexpected(fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
   }
 
   [[nodiscard]] std::vector<fs::path> getFiles(const fs::path& historyDir) {
@@ -98,15 +94,6 @@ namespace {
       });
     return ret;
   }
-
-  bool wasUpdatedLessThat2MinutesAgo(const fs::path& p) noexcept {
-    const auto& lastUpdateTime { std::chrono::time_point_cast<std::chrono::system_clock::duration>(
-      fs::last_write_time(p) - fs::file_time_type::clock::now() + std::chrono::system_clock::now()
-    ) };
-    const auto& now { std::chrono::system_clock::now() };
-    const auto age { std::chrono::duration_cast<std::chrono::minutes>(now - lastUpdateTime) };
-    return age < std::chrono::minutes(2);
-  }
 } // anonymous namespace
 
 struct [[nodiscard]] WinamaxHistory::Implementation final {
@@ -133,14 +120,14 @@ WinamaxHistory::~WinamaxHistory() {
 bool WinamaxHistory::isValidHistory(const fs::path& dir) {
   LOG.debug<__func__>();
   const auto& histoDir { (dir / "history").lexically_normal() };
-  const auto& either { getErrorMessageOrHistoryFiles(dir, histoDir) };
+  const auto& either { getHistoryFilesOrErrorMessage(dir, histoDir) };
 
-  if (either.isLeft()) {
-    LOG.error(either.getLeft());
+  if (!either) {
+    LOG.error(either.error());
     return false; // do not throw as functionnaly correct
   }
 
-  const auto& allFilesAndDirs { either.getRight() };
+  const auto& allFilesAndDirs { either.value() };
   return pf::containsAFileEndingWith(allFilesAndDirs, "winamax_positioning_file.dat");
 }
 
@@ -245,5 +232,5 @@ std::optional<fs::path> WinamaxHistory::getHistoryFileFromTableWindowTitle(const
   }
   const auto& candidate { files.back() };
   LOG.info<"Found {} history files for table '{}', using most recent: {}">(files.size(), tableName, candidate.string());
-  return wasUpdatedLessThat2MinutesAgo(candidate) ? std::optional<fs::path>{candidate} : std::nullopt;
+  return std::optional<fs::path>{candidate};
 }

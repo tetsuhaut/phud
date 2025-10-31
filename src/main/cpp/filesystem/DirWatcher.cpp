@@ -13,60 +13,62 @@ using FileTimes = std::unordered_map<std::string, fs::file_time_type>;
 
 static Logger LOG { CURRENT_FILE_NAME };
 
-struct [[nodiscard]] DirWatcher::Implementation final {
+DirWatcher::~DirWatcher() = default;
+
+struct [[nodiscard]] DirWatcherImpl final : DirWatcher {
   fs::path m_dir;
   // note: as of C++ 17, there is no portable way to unify std::filesystem::file_time_type and std::time :(
   // note: impossible to use std::filesystem::path as a map key
   FileTimes m_refFileToLastModifDate {};
   PeriodicTask m_task;
 
-  Implementation(std::same_as<std::chrono::milliseconds> auto reloadPeriod, fs::path dir) :
+  DirWatcherImpl(const DirWatcherImpl&) = delete;
+  DirWatcherImpl(DirWatcherImpl&&) = delete;
+  DirWatcherImpl& operator=(const DirWatcherImpl&) = delete;
+  DirWatcherImpl& operator=(DirWatcherImpl&&) = delete;
+
+  explicit DirWatcherImpl(std::chrono::milliseconds reloadPeriod, const fs::path& dir) :
     m_dir { std::move(dir) },
-    m_task { reloadPeriod, "DirWatcher" } {}
+    m_task { reloadPeriod, "DirWatcher" } {
+    validation::require(pf::isDir(m_dir),"the dir provided to DirWatcher() is not valid.");
+    LOG.info<"will watch directory {} every {}ms">(dir.string(), reloadPeriod.count());
+  }
+
+  void callCb(const fs::path& file, const std::filesystem::file_time_type& lasWriteTime,  const std::function<void(const fs::path&)>& fileHasChangedCb) {
+    if (!m_refFileToLastModifDate.contains(file.string()) or (m_refFileToLastModifDate[file.string()] != lasWriteTime)) {
+      m_refFileToLastModifDate[file.string()] = lasWriteTime;
+      LOG.info<"The file {} has changed, notify listener">(file.string());
+      fileHasChangedCb(file);
+    }
+  }
+
+  /** look at each file, take its last modification date, wait, do it again and compare
+   * for each modified file, notify the listener through the callback
+   */
+  void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
+    m_task.start([this, fileHasChangedCb]() {
+      LOG.trace<"Searching for file changes in dir {}">(m_dir.string());
+      const auto& files { pf::listTxtFilesInDir(m_dir) };
+      std::ranges::for_each(files, [this, &fileHasChangedCb](const auto& file) {
+        std::error_code ec;
+
+        if (const auto& lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
+          callCb(file, lasWriteTime, fileHasChangedCb);
+        }
+        else [[unlikely]] {
+          LOG.error<"Error getting last write time for file {} in directory {}: {}">(
+            file.string(), file.parent_path().string(), ec.message());
+        }
+      });
+      return PeriodicTaskStatus::repeatTask;
+    });
+}
+
+  void stop() const override { m_task.stop(); }
+
+  [[nodiscard]] bool isStopped() const noexcept override { return m_task.isStopped(); }
 };
 
-// look at each file, take its last modification date, wait, do it again and compare
-// for each modified file, notify the listener through the callback
-template <typename T> requires(std::same_as<T, fs::path>)
-[[nodiscard]] static PeriodicTaskStatus getLatestUpdatedFiles(const T& dir,
-                                                              FileTimes& ref, auto fileHasChangedCb) {
-  LOG.trace<"Searching for file changes in dir {}">(dir.string());
-  const auto& files { pf::listTxtFilesInDir(dir) };
-  std::ranges::for_each(files, [&ref, &fileHasChangedCb](const auto& file) {
-    std::error_code ec;
-    const auto& fileName { file.string() };
-
-    if (const auto& lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
-      if ((!ref.contains(fileName)) or (ref[fileName] != lasWriteTime)) {
-        ref[fileName] = lasWriteTime;
-        LOG.info<"The file {} has changed, notify listener">(fileName);
-        fileHasChangedCb(file);
-      }
-    }
-    else [[unlikely]] {
-      LOG.error<"Error getting last write time for file {} in directory {}: {}">(
-        fileName, file.parent_path().string(), ec.message());
-    }
-  });
-  return PeriodicTaskStatus::repeatTask;
+[[nodiscard]] std::unique_ptr<DirWatcher> DirWatcher::create(std::chrono::milliseconds reloadPeriod, const fs::path& dir) {
+  return std::make_unique<DirWatcherImpl>(reloadPeriod, dir);
 }
-
-DirWatcher::DirWatcher(std::chrono::milliseconds reloadPeriod, const fs::path& dir)
-  : m_pImpl { std::make_unique<Implementation>(reloadPeriod, dir) } {
-  validation::require(pf::isDir(m_pImpl->m_dir),
-                      "the dir provided to DirWatcher() is not valid.");
-  LOG.info<"will watch directory {} every {}ms">(dir.string(), reloadPeriod.count());
-}
-
-DirWatcher::~DirWatcher() = default;
-
-void DirWatcher::start(const std::function<void(const fs::path&)>& fileHasChangedCb) const {
-  m_pImpl->m_task.start([this, fileHasChangedCb]() {
-    return getLatestUpdatedFiles(m_pImpl->m_dir, m_pImpl->m_refFileToLastModifDate, fileHasChangedCb);
-  });
-}
-
-void DirWatcher::stop() const { m_pImpl->m_task.stop(); }
-
-/*[[nodiscard]]*/
-bool DirWatcher::isStopped() const noexcept { return m_pImpl->m_task.isStopped(); }

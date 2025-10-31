@@ -104,6 +104,16 @@ bool TableService::isPokerApp(std::string_view executableName) {
                                                  [&exe](const auto stem) noexcept { return exe.starts_with(stem); });
 }
 
+static bool wasUpdatedLessThat2MinutesAgo(const fs::path& p) noexcept {
+  const auto& lastUpdateTime { std::chrono::time_point_cast<std::chrono::system_clock::duration>(
+    fs::last_write_time(p) - fs::file_time_type::clock::now() + std::chrono::system_clock::now()
+  ) };
+  const auto& now { std::chrono::system_clock::now() };
+  const auto age { std::chrono::duration_cast<std::chrono::minutes>(now - lastUpdateTime) };
+  return age < std::chrono::minutes(2);
+}
+
+
 std::string TableService::startProducingStats(std::string_view tableWindowTitle,
                                               const TableObserverCallback& observerCb) {
   LOG.info<"Starting to produce stats for table window with title: '{}'">(tableWindowTitle);
@@ -115,7 +125,7 @@ std::string TableService::startProducingStats(std::string_view tableWindowTitle,
 
   if (const auto& oHistoFile {
         m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->m_historyDir, tableWindowTitle)
-      }; oHistoFile.has_value()) {
+      }; oHistoFile.has_value() and wasUpdatedLessThat2MinutesAgo(oHistoFile.value())) {
     const auto& histoFile { oHistoFile.value() };
     const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
     LOG.info<"Table name: '{}', history file: '{}'">(tableName, histoFile.string());

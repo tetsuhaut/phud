@@ -5,28 +5,17 @@
 #include <functional> // std::function
 #include <memory> // std::unique_ptr
 
-class [[nodiscard]] DirWatcher final {
-private:
-  struct Implementation;
-  std::unique_ptr<Implementation> m_pImpl;
-
+class [[nodiscard]] DirWatcher /*final*/ {
 public:
-  DirWatcher(std::chrono::milliseconds reloadPeriod, const std::filesystem::path& dir);
-  DirWatcher(int, auto) = delete; // use only std::filesystem::path
-
-  DirWatcher(const DirWatcher&) = delete;
-  DirWatcher(DirWatcher&&) = delete;
-  DirWatcher& operator=(const DirWatcher&) = delete;
-  DirWatcher& operator=(DirWatcher&&) = delete;
-  ~DirWatcher();
+  static [[nodiscard]] std::unique_ptr<DirWatcher> create(std::chrono::milliseconds reloadPeriod, const std::filesystem::path& dir);
+  virtual ~DirWatcher();
   /**
    * Watches periodically the previously provided directory. Each time a file
    * inside changes, @fileHasChangedCb is called.
    * Call stop() or destroy to stop the watching thread.
    * @param fileHasChangedCb called each time a file changes
    */
-  void start(const std::function<void(const std::filesystem::path&)>& fileHasChangedCb) const;
-
-  void stop() const;
-  [[nodiscard]] bool isStopped() const noexcept;
+  virtual void start(const std::function<void(const std::filesystem::path&)>& fileHasChangedCb) = 0;
+  virtual void stop() const = 0;
+  virtual [[nodiscard]] bool isStopped() const noexcept = 0;
 }; // class DirWatcher
