@@ -210,8 +210,7 @@ const {
   // Extract table name using existing logic
   const auto pos { workingTitle.find('#') };
   return (notFound(pos))
-           ? workingTitle.substr(0,
-                                 workingTitle.find(" / "))
+           ? workingTitle.substr(0, workingTitle.find(" / "))
            : workingTitle.substr(0, pos);
 }
 

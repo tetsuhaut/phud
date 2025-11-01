@@ -326,9 +326,13 @@ namespace {
           LOG.debug<"Creating new PlayerIndicator for '{}'">(ps->getPlayerName());
           playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName());
         }
-        else if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
-          LOG.debug<"Refreshing PlayerIndicator for '{}'">(ps->getPlayerName());
-          playerIndicator->refresh(ps->getPlayerName());
+        else {
+          if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
+            LOG.debug<"Refreshing PlayerIndicator for '{}'">(ps->getPlayerName());
+            playerIndicator->refresh(ps->getPlayerName());
+          }
+          // Repositionner le PlayerIndicator à chaque mise à jour pour suivre la fenêtre de table
+          playerIndicator->position(pos.first, pos.second);
         }
         playerIndicator->setStats(*ps);
         setWindowOnTopMost(*playerIndicator);
