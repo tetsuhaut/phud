@@ -1,6 +1,6 @@
 #include "TestInfrastructure.hpp" // std::filesystem::path, fs::*, phud::*
 #include "constants/ProgramInfos.hpp" // ProgramInfos::*
-#include "db/sqliteQueries.hpp"
+#include "db/sqlQueries.hpp"
 #include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "filesystem/TextFile.hpp" // Span
 #include "language/Validator.hpp"
@@ -211,8 +211,8 @@ namespace {
 } // anonymous namespace
 
 
-[[nodiscard]] static std::vector<std::string> getAllQueryNames(std::string_view
-  sourceFileContainingQueries) {
+[[nodiscard]] static std::vector<std::string>
+getAllQueryNames(std::string_view sourceFileContainingQueries) {
   const auto& sourceFileWithFullPath {
     *phud::algorithms::findIf(MY_SRC_FILES, [&](const auto& file) {
       return file.string().ends_with(sourceFileContainingQueries);
@@ -476,7 +476,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
   }
 
   BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesAreUsed) {
-    const auto& queryNames { getAllQueryNames("sqliteQueries.hpp") };
+    const auto& queryNames { getAllQueryNames("sqlQueries.hpp") };
     std::ranges::for_each(queryNames, [](std::string_view queryName) {
       if (!sourceFileContains("Database.cpp", queryName)) {
         LOG.warn<"The SQL query {} is not used in Database.cpp">(queryName);

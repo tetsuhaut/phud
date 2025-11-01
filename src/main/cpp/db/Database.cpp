@@ -5,7 +5,7 @@
 
 #include "db/SqlInsertor.hpp"  // Game
 #include "db/SqlSelector.hpp"
-#include "db/sqliteQueries.hpp" // all the SQL queries
+#include "db/sqlQueries.hpp" // all the SQL queries
 #include "entities/Action.hpp"
 #include "entities/Game.hpp" // Cashgame, Limit, Time, Tournament, Variant
 #include "entities/GameType.hpp"

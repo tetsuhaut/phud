@@ -241,21 +241,27 @@ WHERE
  */
 static constexpr std::string_view GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME { R"raw(
 SELECT
-  p.playerName, p.siteName, p.isHero, hp.playerSeat, p.comments,
-  100 * COUNT(CASE WHEN(a.actionType IN ('call','bet','raise')) then 1 END) / (1.0 * COUNT(1)) as VPIP,
-  100 * COUNT(CASE WHEN(a.actionType = 'raise') then 1 END) / (1.0 * COUNT(1)) as PFR,
-  COUNT(1) as nbHands
+  p.playerName, p.siteName, p.isHero, lastHand.playerSeat, p.comments,
+  100 * COUNT(DISTINCT CASE WHEN(a.actionType IN ('call','bet','raise')) then allHands.handId END) / (1.0 * COUNT(DISTINCT allHands.handId)) as VPIP,
+  100 * COUNT(DISTINCT CASE WHEN(a.actionType = 'raise') then allHands.handId END) / (1.0 * COUNT(DISTINCT allHands.handId)) as PFR,
+  COUNT(DISTINCT allHands.handId) as nbHands
 FROM (
   SELECT * FROM Hand h WHERE
   h.tableName = '?tableName' AND h.siteName = '?siteName'
   ORDER BY h.startDate DESC limit 1
 ) h
 JOIN Player p ON h.siteName = p.siteName
-JOIN HandPlayer hp ON hp.playerName = p.playerName AND hp.handId = h.handId
-LEFT JOIN Action a ON p.playerName = a.playerName AND a.street = 'preflop'
+JOIN (
+  SELECT hp.playerName, hp.playerSeat, hp.handId
+  FROM HandPlayer hp
+  WHERE hp.handId = (SELECT handId FROM Hand WHERE tableName = '?tableName' AND siteName = '?siteName' ORDER BY startDate DESC limit 1)
+) lastHand ON lastHand.playerName = p.playerName
+JOIN Hand allHands ON allHands.tableName = '?tableName' AND allHands.siteName = '?siteName'
+JOIN HandPlayer allHandsPlayers ON allHandsPlayers.playerName = p.playerName AND allHandsPlayers.handId = allHands.handId
+LEFT JOIN Action a ON p.playerName = a.playerName AND a.handId = allHands.handId AND a.street = 'preflop'
 WHERE
 h.siteName = '?siteName'
-GROUP BY p.playerName ORDER BY playerSeat;
+GROUP BY p.playerName ORDER BY lastHand.playerSeat;
 )raw" };
 
 static constexpr std::string_view GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME { R"raw(
