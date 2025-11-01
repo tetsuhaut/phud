@@ -42,8 +42,9 @@ static void getLatestUpdatedFile(const fs::path& file,
     if (lastModified != lasWriteTime) {
       lastModified = lasWriteTime;
       LOG.info<"The file\n{}\nhas changed, notify listener">(file.string());
-      std::forward<decltype(fileHasChangedCb)>(fileHasChangedCb)(file);
     }
+    // recalculate PlayerIndicators positions
+    std::forward<decltype(fileHasChangedCb)>(fileHasChangedCb)(file);
   }
   else [[unlikely]] {
     LOG.error<"Error checking if the file {} has changed: {}">(file.string(), ec.message());

@@ -331,8 +331,7 @@ namespace {
             LOG.debug<"Refreshing PlayerIndicator for '{}'">(ps->getPlayerName());
             playerIndicator->refresh(ps->getPlayerName());
           }
-          // Repositionner le PlayerIndicator à chaque mise à jour pour suivre la fenêtre de table
-          playerIndicator->position(pos.first, pos.second);
+          playerIndicator->updateBasePosition(pos);
         }
         playerIndicator->setStats(*ps);
         setWindowOnTopMost(*playerIndicator);
