@@ -65,26 +65,26 @@ https://msdn.microsoft.com/en-us/library/mt708821.aspx
 Functionnal specification
 ---------------------------------
 lecture de la log
-sauvegarde en base de donn�es
+sauvegarde en base de données
  SQLLite
 lecture de la base
-cr�ation des stats
-d�tection des joueurs en pr�sence � la table
+création des stats
+détection des joueurs en présence à la table
 affichage des stats par joueur
-mise � jour de la base r�guli�rement
-mise � jour des stats r�guli�rement
+mise à jour de la base régulièrement
+mise à jour des stats régulièrement
 
-au d�marrage,
-si abscence de hup.db, cr�ation + import complet
-si pr�sence, ouverture + lecture et cr�ation du Site tel que sauvegard� puis 
+au démarrage,
+si abscence de hup.db, création + import complet
+si présence, ouverture + lecture et création du Site tel que sauvegardé puis 
 import partiel:
-pour chaque jeu, regarder la date de la derni�re main jou�e.
-pour chaque main, si jeu sauvegard� et date post�rieure alors on cr�e la main
-si jeu d�j� existant on ne s'int�resse qu'aux mains post�rieures � la derni�re
-sauvegard�e.
+pour chaque jeu, regarder la date de la dernière main jouée.
+pour chaque main, si jeu sauvegardé et date postérieure alors on crée la main
+si jeu déjà existant on ne s'intéresse qu'aux mains postérieures à la dernière
+sauvegardée.
 
-Une table est toujours d�finie par son nom : pour d�tecter les joueurs d'une table,
-phud compte sur l'utilisateur pour lui indiquer quelle fen�tre windows est la table.
+Une table est toujours définie par son nom : pour détecter les joueurs d'une table,
+phud compte sur l'utilisateur pour lui indiquer quelle fenêtre windows est la table.
 
 Structure of a Winamax history file
 -----------------------------------
@@ -97,9 +97,9 @@ Statistics we want to compute
 -----------------------------
  voluntary put in pot par joueur
  pre flop raise par joueur
- nb mains jou�es contre chaque joueur
- agressivit� moyenne ?
- pourcentage de squeeze (relance preflop avec 1 relance call�e)
+ nb mains jouées contre chaque joueur
+ agressivité moyenne ?
+ pourcentage de squeeze (relance preflop avec 1 relance callée)
  pourcentage de 3bet preflop
  pourcentage de fold to 3bet preflop
  pourcentage de continuation bet au flop
@@ -107,7 +107,7 @@ Statistics we want to compute
  pourcentage de bet turn
  pourcentage de bet river
  pourcentage de fold to bet au turn
- pourcentage de fold to bet � la river
+ pourcentage de fold to bet à la river
  
 Les statistiques que vous allez utiliser preflop :
 
@@ -128,9 +128,9 @@ Fold to Cbet flop (se couche en cas de Cbet adverse)
 3rd barrel
  
 
-Statistiques plus g�n�rales :
+Statistiques plus générales :
 
-W$WSF : pourcentage de fois ou on gagne des $ en ayant vu le flop
-WTSD : pourcentage de fois ou on voit l'abattage en ayant vu le flop
-W$SD : pourcentage de fois ou on gagne de l'argent a l'abattage
+W$WSF : pourcentage de fois où on gagne des $ en ayant vu le flop
+WTSD : pourcentage de fois où on voit l'abattage en ayant vu le flop
+W$SD : pourcentage de fois où on gagne de l'argent à l'abattage
 --------------------------------------------------------------------------------
