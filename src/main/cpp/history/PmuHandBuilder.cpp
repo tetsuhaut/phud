@@ -4,6 +4,7 @@
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp" // Time
 #include "entities/Player.hpp"
+#include "entities/Seat.hpp"
 #include "history/GameData.hpp"
 #include "history/PmuHandBuilder.hpp"
 #include "history/PokerSiteHandBuilder.hpp" // ProgramInfos
@@ -85,9 +86,9 @@ static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
   return tableSeat::fromString(line.substr(line.find('/') + 1));
 }
 
-[[nodiscard]] static double parseAnte(TextFile& /*tf*/) {
-  return 0; // TODO
-}
+// [[nodiscard]] static long parseAnte(TextFile& /*tf*/) {
+  // return 0; // TODO
+// }
 
 [[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line,
                                                     std::string_view cardDelimiter) {
@@ -332,13 +333,14 @@ template <GameType gameType>
   LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
   const auto& seatPlayers { parseSeats(tf, cache) };
-  const auto ante { parseAnte(tf) };
+  //const auto ante { parseAnte(tf) };
+  const long ante { 0 };
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
   auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
   LOG.debug<"nb actions={}">(actions.size());
   Hand::Params params {
-    .id = handId, .gt = gameType, .siteName = ProgramInfos::PMU_SITE_NAME,
-    .tableName = tableName, .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = level,
+    .id = handId, .gameType = gameType, .siteName = ProgramInfos::PMU_SITE_NAME,
+    .tableName = tableName, .buttonSeat = tableSeat::fromInt(buttonSeat), .maxSeats = tableSeat::fromInt(nbMaxSeats), .level = level,
     .ante = ante, .startDate = date, .seatPlayers = seatPlayers, .heroCards = heroCards,
     .boardCards = boardCards, .actions = std::move(actions), .winners = winners
   };
