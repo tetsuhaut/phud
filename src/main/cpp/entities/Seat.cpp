@@ -1,7 +1,6 @@
 #include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
 #include "language/EnumMapper.hpp"
-#include "language/PhudException.hpp" // PhudException
 #include "language/Validator.hpp"
 #include <cassert> // assert
 
@@ -45,8 +44,8 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
   case Seat::seatNine: return 9;
   case Seat::seatTen: return 10;
   case Seat::seatUnknown: return 11;
-  default: throw PhudException("Unknown seat value");
   }
+  std::unreachable();
 }
 
 /*[[nodiscard]]*/ std::size_t tableSeat::toArrayIndex(Seat seat) {
@@ -62,8 +61,8 @@ static constexpr auto SEAT_MAPPER = makeEnumMapper<Seat>(
   case Seat::seatNine: return 8;
   case Seat::seatTen: return 9;
   case Seat::seatUnknown: return 10;
-  default: throw PhudException("Unknown seat value");
   }
+  std::unreachable();
 }
 
 /*[[nodiscard]]*/ Seat tableSeat::next(Seat current, Seat max) {

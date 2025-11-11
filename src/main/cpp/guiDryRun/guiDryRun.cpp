@@ -9,14 +9,17 @@
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadSafeQueue.hpp" // std::unique_ptr
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 
 namespace {
-  struct [[nodiscard]] LoggingConfig final {
-    LoggingConfig() { Logger::setupConsoleDebugLogging("[%Y%m%d %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v"); }
-    ~LoggingConfig() { Logger::shutdownLogging(); }
+  struct [[nodiscard]] MyLoggingConfig final {
+    MyLoggingConfig() { Logger::setupConsoleDebugLogging("[%Y%m%d %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v"); }
+    ~MyLoggingConfig() { Logger::shutdownLogging(); }
   };
 } // anonymous namespace
 
@@ -31,10 +34,10 @@ public:
 
   std::string startProducingStats(std::string_view /*table*/,
                                   const std::function<void(TableStatistics&& ts)>& /*observer*/) override {
-    LOG.debug<__func__>();
+    LOG().debug<__func__>();
     m_continue = PeriodicTaskStatus::repeatTask;
     m_task.start([this]() {
-      LOG.debug<"task in guiDryRun startProducingStats()">();
+      LOG().debug<"task in guiDryRun startProducingStats()">();
       std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> fakeStats {
         std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
           .playerName = "player0", .siteName = ProgramInfos::WINAMAX_SITE_NAME, .isHero = true, .nbHands = 10,
@@ -65,14 +68,14 @@ public:
       m_stats.push(TableStatistics {
         ProgramInfos::WINAMAX_SITE_NAME, "someTable", Seat::seatSix, std::move(fakeStats)
       });
-      LOG.debug<"the task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
+      LOG().debug<"the task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
       return m_continue; // run until the NoOpApp object is destroyed
     });
     return "";
   }
 
   void stopProducingStats() override {
-    LOG.debug<__func__>();
+    LOG().debug<__func__>();
     m_continue = PeriodicTaskStatus::stopTask;
     m_task.stop();
   }
@@ -95,7 +98,7 @@ public:
                      const std::function<void(std::size_t)>&,
                      const std::function<void()>&) = delete;
 
-  void stopImportingHistory() override { LOG.debug<__func__>(); }
+  void stopImportingHistory() override { LOG().debug<__func__>(); }
 
   void setHistoryDir(const fs::path& /*dir*/) override {}
 }; // NoOpHistoryService
@@ -103,7 +106,7 @@ void NoOpHistoryService::importHistory(const fs::path&,
                                        const std::function<void()>& onProgress,
                                        const std::function<void(std::size_t)>& onSetNbFiles,
                                        const std::function<void()>& onDone) {
-  LOG.debug<__func__>();
+  LOG().debug<__func__>();
   onSetNbFiles(3);
   onProgress();
   onProgress();
@@ -115,12 +118,12 @@ void NoOpHistoryService::importHistory(const fs::path&,
 /*[[nodiscard]] static*/
 int main() {
   std::setlocale(LC_ALL, "en_US.utf8");
-  LoggingConfig _;
-  LOG.debug<"guiDryRun is starting">();
+  MyLoggingConfig _;
+  LOG().debug<"guiDryRun is starting">();
   Database db;
   TableService ts(db);
   HistoryService hs(db);
   const auto ret { Gui(ts, hs).run() };
-  LOG.debug<"guiDryRun is stopping">();
+  LOG().debug<"guiDryRun is stopping">();
   return ret;
 }

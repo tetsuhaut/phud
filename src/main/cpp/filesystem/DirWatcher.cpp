@@ -11,7 +11,10 @@ namespace pf = phud::filesystem;
 
 using FileTimes = std::unordered_map<std::string, fs::file_time_type>;
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 DirWatcher::~DirWatcher() = default;
 
@@ -31,13 +34,13 @@ struct [[nodiscard]] DirWatcherImpl final : DirWatcher {
     m_dir { std::move(dir) },
     m_task { reloadPeriod, "DirWatcher" } {
     validation::require(pf::isDir(m_dir),"the dir provided to DirWatcher() is not valid.");
-    LOG.info<"will watch directory {} every {}ms">(dir.string(), reloadPeriod.count());
+    LOG().info<"will watch directory {} every {}ms">(dir.string(), reloadPeriod.count());
   }
 
   void callCb(const fs::path& file, const std::filesystem::file_time_type& lasWriteTime,  const std::function<void(const fs::path&)>& fileHasChangedCb) {
     if (!m_refFileToLastModifDate.contains(file.string()) or (m_refFileToLastModifDate[file.string()] != lasWriteTime)) {
       m_refFileToLastModifDate[file.string()] = lasWriteTime;
-      LOG.info<"The file {} has changed, notify listener">(file.string());
+      LOG().info<"The file {} has changed, notify listener">(file.string());
       fileHasChangedCb(file);
     }
   }
@@ -47,7 +50,7 @@ struct [[nodiscard]] DirWatcherImpl final : DirWatcher {
    */
   void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
     m_task.start([this, fileHasChangedCb]() {
-      LOG.trace<"Searching for file changes in dir {}">(m_dir.string());
+      LOG().trace<"Searching for file changes in dir {}">(m_dir.string());
       const auto& files { pf::listTxtFilesInDir(m_dir) };
       std::ranges::for_each(files, [this, &fileHasChangedCb](const auto& file) {
         std::error_code ec;
@@ -56,7 +59,7 @@ struct [[nodiscard]] DirWatcherImpl final : DirWatcher {
           callCb(file, lasWriteTime, fileHasChangedCb);
         }
         else [[unlikely]] {
-          LOG.error<"Error getting last write time for file {} in directory {}: {}">(
+          LOG().error<"Error getting last write time for file {} in directory {}: {}">(
             file.string(), file.parent_path().string(), ec.message());
         }
       });

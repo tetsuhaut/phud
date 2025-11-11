@@ -8,7 +8,10 @@
 #include <FL/Fl.H>
 #include <FL/Fl_Preferences.H>
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -86,13 +89,13 @@ void Preferences::saveWindowSize(int width, int height) const {
 
 void Preferences::saveStringPreference(std::string_view key, std::string_view value) const {
   if (0 == m_pImpl->m_preferences.set(key.data(), value.data())) {
-    LOG.error<"Couldn't save '{}' into the preferences repository.">(key);
+    LOG().error<"Couldn't save '{}' into the preferences repository.">(key);
   }
 }
 
 void Preferences::saveIntPreference(std::string_view key, int value) const {
   if (0 == m_pImpl->m_preferences.set(key.data(), value)) {
-    LOG.error<"Couldn't save '{}' into the preferences repository.">(key);
+    LOG().error<"Couldn't save '{}' into the preferences repository.">(key);
   }
 }
 

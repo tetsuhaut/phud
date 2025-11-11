@@ -4,12 +4,17 @@
 #include <spdlog/sinks/basic_file_sink.h> // spdlog::basic_logger_mt
 #include <spdlog/sinks/stdout_color_sinks.h> // spdlog::stdout_color_mt
 #include <spdlog/spdlog.h> // spdlog::level::level_enum, spdlog::logger
+#include <cassert> // assert
 #include <memory> // std::shared_ptr
 
 using LegacyLoggingLevel = spdlog::level::level_enum;
 
 namespace {
-std::shared_ptr<spdlog::logger> globalLogger;
+// use a lazy singleton to avoid the static initialization fiasco
+std::shared_ptr<spdlog::logger>& getGlobalLogger() {
+  static std::shared_ptr<spdlog::logger> instance;
+  return instance;
+}
 
 constexpr auto LEGACY_LOGGING_LEVEL_TO_LOGGING_LEVEL {
   frozen::make_unordered_map<LegacyLoggingLevel, LoggingLevel>({
@@ -45,42 +50,50 @@ constexpr auto LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL {
 }
 
 /*[[nodiscard]] static*/ LoggingLevel Logger::getCurrentLoggingLevel() {
+  auto& globalLogger { getGlobalLogger() };
+  assert(!globalLogger);
   return toLoggingLevel(globalLogger->level());
 }
 
 /*static*/ void Logger::setLoggingLevel(LoggingLevel l) {
+  auto& globalLogger { getGlobalLogger() };
+  assert(!globalLogger);
   globalLogger->set_level(toLegacyLoggingLevel(l));
 }
 
 /*static*/ void Logger::shutdownLogging() {
+  auto& globalLogger { getGlobalLogger() };
+  assert(!globalLogger);
   globalLogger->set_level(LegacyLoggingLevel::off);
   spdlog::drop_all();
 }
 
-void Logger::traceStr(std::string_view msg) { globalLogger->trace(msg); }
-void Logger::debugStr(std::string_view msg) { globalLogger->debug(msg); }
-void Logger::infoStr(std::string_view msg) { globalLogger->info(msg); globalLogger->flush(); }
-void Logger::warnStr(std::string_view msg) { globalLogger->warn(msg); globalLogger->flush(); }
-void Logger::errorStr(std::string_view msg) { globalLogger->error(msg); globalLogger->flush(); }
-void Logger::criticalStr(std::string_view msg) { globalLogger->critical(msg); globalLogger->flush(); }
+void Logger::traceStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->trace(msg); globalLogger->flush(); }
+void Logger::debugStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->debug(msg); globalLogger->flush(); }
+void Logger::infoStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->info(msg); globalLogger->flush(); }
+void Logger::warnStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->warn(msg); globalLogger->flush(); }
+void Logger::errorStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->error(msg); globalLogger->flush(); }
+void Logger::criticalStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->critical(msg); globalLogger->flush(); }
 
 //
 // note: *_mt means "multithread, i.e. all those factories create thread-safe loggers.
 //
 /*static*/ void Logger::setupFileInfoLogging(std::string_view pattern) {
+  auto& globalLogger { getGlobalLogger() };
   globalLogger = spdlog::basic_logger_mt<spdlog::async_factory>("fileInfoLogger", "log.txt");
-  //globalLogger = spdlog::basic_logger_mt<spdlog::synchronous_factory>("fileInfoLogger", "log.txt");
   globalLogger->set_pattern(pattern.data());
   globalLogger->set_level(LegacyLoggingLevel::info);
 }
 
 /*static*/ void Logger::setupConsoleWarnLogging(std::string_view pattern) {
+  auto& globalLogger { getGlobalLogger() };
   globalLogger = spdlog::stdout_color_mt<spdlog::async_factory>("consoleWarnLogger");
   globalLogger->set_pattern(pattern.data());
   globalLogger->set_level(LegacyLoggingLevel::warn);
 }
 
 /*static*/ void Logger::setupConsoleDebugLogging(std::string_view pattern) {
+  auto& globalLogger { getGlobalLogger() };
   globalLogger = spdlog::stdout_color_mt<spdlog::async_factory>("consoleDebugLogger");
   globalLogger->set_pattern(pattern.data());
   globalLogger->set_level(LegacyLoggingLevel::debug);

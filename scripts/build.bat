@@ -18,18 +18,14 @@ ENDLOCAL
 
 IF NOT EXIST %SCRIPTS_DIR%\timecmd.bat ECHO the script 'timecmd.bat' could not be found && EXIT /B 1
 
-SET BUILD_DIR=build-%COMPILER%
+SET BUILD_DIR=build-phud-%COMPILER%
 
 IF EXIST %BUILD_DIR% (ECHO deleting build dir '%BUILD_DIR%' && RMDIR /Q /S %BUILD_DIR%)
 ECHO creating build dir '%BUILD_DIR%'
 MKDIR %BUILD_DIR%
 PUSHD %BUILD_DIR%
 ECHO calling cmake
-IF DEFINED CMAKE_TOOLCHAIN_FILE (
-  cmake -G %CMAKE_GENERATOR% -DCMAKE_TOOLCHAIN_FILE=%CMAKE_TOOLCHAIN_FILE% %~dp0
-) ELSE (
-  cmake -G %CMAKE_GENERATOR% %~dp0
-)
+cmake -G %CMAKE_GENERATOR% %~dp0\..
 POPD
 ECHO ^pushd %CD% ^&^& ^format ^&^& ^popd > %BUILD_DIR%\format.bat
 ECHO ^color ^&^& ^cls ^&^& ^%BIN_DIR%\unitTests.exe %%* > %BUILD_DIR%\runAllTests.bat

@@ -18,7 +18,10 @@
 #include <optional>
 #include <string_view>
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace ps = phud::strings;
 
@@ -250,19 +253,22 @@ std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& card
                                   const std::array<Card, 5>& previous) {
   switch (street) {
   case Street::none: [[fallthrough]];
-
-  case Street::preflop: { return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), previous.at(4) }; }
-
-  case Street::flop: { return { cards.at(0), cards.at(1), cards.at(2), previous.at(3), previous.at(4) }; }
-
-  case Street::turn: { return { previous.at(0), previous.at(1), previous.at(2), cards.at(3), previous.at(4) }; }
-
-  case Street::river: { return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), cards.at(4) }; }
-
+  case Street::preflop: {
+    return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), previous.at(4) };
+  }
+  case Street::flop: {
+    return { cards.at(0), cards.at(1), cards.at(2), previous.at(3), previous.at(4) };
+  }
+  case Street::turn: {
+    return { previous.at(0), previous.at(1), previous.at(2), cards.at(3), previous.at(4) };
+  }
+  case Street::river: {
+    return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), cards.at(4) };
+  }
   default: { validation::require(false, "Unknown street !!!"); }
   }
 
-  return FIVE_NONE_CARDS;
+  std::unreachable();
 }
 
 struct [[nodiscard]] ActionsAndWinnersAndBoardCards final {
@@ -274,7 +280,7 @@ struct [[nodiscard]] ActionsAndWinnersAndBoardCards final {
 // actions, winners,board cards
 [[nodiscard]] static ActionsAndWinnersAndBoardCards
 parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
-  LOG.debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
+  LOG().debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;
   auto boardCards { FIVE_NONE_CARDS };
   auto lastStreet { Street::none };
@@ -310,7 +316,7 @@ struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat final {
 NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
   tf.next();
   const auto& line { tf.getLine() };
-  LOG.debug<"Parsing table line {}.">(line);
+  LOG().debug<"Parsing table line {}.">(line);
   // Table: 'Frankfurt 11' 9-max (real money) Seat #2 is the button
   // Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
   // ^Table: '(.*)' (.*)-max .* Seat #(.*) is the button$
@@ -330,14 +336,14 @@ NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(Text
 template <GameType gameType>
 [[nodiscard]] static std::unique_ptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
                                                    int level, const Time& date, std::string_view handId) {
-  LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
+  LOG().debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
   const auto& seatPlayers { parseSeats(tf, cache) };
   //const auto ante { parseAnte(tf) };
   const long ante { 0 };
   const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
   auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
-  LOG.debug<"nb actions={}">(actions.size());
+  LOG().debug<"nb actions={}">(actions.size());
   Hand::Params params {
     .id = handId, .gameType = gameType, .siteName = ProgramInfos::PMU_SITE_NAME,
     .tableName = tableName, .buttonSeat = tableSeat::fromInt(buttonSeat), .maxSeats = tableSeat::fromInt(nbMaxSeats), .level = level,
@@ -348,7 +354,7 @@ template <GameType gameType>
 }
 
 std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
-  LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
+  LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
   const auto handId { readHandId(tf.getLine()) };
   tf.next();
@@ -366,7 +372,7 @@ std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCach
   tf.next();
   const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
   auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
-  LOG.debug<"nb actions={}">(actions.size());
+  LOG().debug<"nb actions={}">(actions.size());
   Hand::Params p {
     .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
     .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate,
@@ -386,7 +392,7 @@ std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
 PmuHandBuilder::buildCashgameHandAndGameData(
   TextFile& tf,
   PlayerCache& pc) {
-  LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
+  LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   seekToHandStart(tf);
   tf.next(); // during the 1rst hand, we don't know the names of our opponents
   seekToHandStart(tf);
@@ -405,7 +411,7 @@ PmuHandBuilder::buildCashgameHandAndGameData(
   tf.next();
   const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
   auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
-  LOG.debug<"nb actions={}">(actions.size());
+  LOG().debug<"nb actions={}">(actions.size());
   Hand::Params params {
     .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
     .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate,
@@ -431,7 +437,7 @@ std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
 PmuHandBuilder::buildTournamentHandAndGameData(
   TextFile& /*tf*/,
   PlayerCache& /*cache*/) {
-  //LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
+  //LOG().debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   //const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };
   //auto pHand { getHand<GameType::tournament>(tf, pc, level, date, handId) };
   //return { std::move(pHand), std::make_unique<GameData>(pHand->getStartDate(), buyIn, 0, 0, pHand->getMaxSeats()) };

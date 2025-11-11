@@ -14,7 +14,10 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 namespace pt = phud::test;
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 /* algorithms to be moved to containers/algorithms.hpp if we use them elsewhere */
 namespace phud::algorithms {
@@ -259,7 +262,7 @@ static void logIfMySrcFilesContainToken(std::span<const fs::path> files,
 
     while (tfl.next()) {
       if (tfl.trim().contains(token)) {
-        LOG.warn<"The file {} contains the token '{}' instead of using '{}' at line {}.">(
+        LOG().warn<"The file {} contains the token '{}' instead of using '{}' at line {}.">(
           file.string(), token, replacement, tfl.getLineIndex());
       }
     }
@@ -292,7 +295,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
   BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHppHeaderFilesMustStartWithParagmaOnce) {
     std::ranges::for_each(H_HPP_FILES, [](const auto& file) {
       if (LineType::other == getFirstCodeLineType(file)) {
-        LOG.warn<"The header '{}' should start with '#pragma once'">(file.string());
+        LOG().warn<"The header '{}' should start with '#pragma once'">(file.string());
       }
     });
   }
@@ -300,7 +303,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
   BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noCppFilesShouldStartWithParagmaOnce) {
     std::ranges::for_each(CPP_FILES, [](const auto& file) {
       if (LineType::pragmaOnce == getFirstCodeLineType(file)) {
-        LOG.warn<"The cpp file '{}' should not contain '#pragma once'">(file.string());
+        LOG().warn<"The cpp file '{}' should not contain '#pragma once'">(file.string());
       }
     });
   }
@@ -315,7 +318,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
         std::ranges::for_each(inclusions, [&](const auto& h) { phud::algorithms::eraseValueFrom(headers, h); });
       }
     });
-    std::ranges::for_each(headers, [](const auto& h) { LOG.warn<"Unused header:\n{}">(h.string()); });
+    std::ranges::for_each(headers, [](const auto& h) { LOG().warn<"Unused header:\n{}">(h.string()); });
   }
 
   static std::vector<fs::path> getIncludes(const fs::path& p) {
@@ -334,7 +337,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
         const auto& others { getIncludes(incl) };
         std::ranges::for_each(others, [&](const auto& inclincl) {
           if (phud::algorithms::contains(currentIncludes, inclincl)) {
-            LOG.warn<"\nis in\n{}\nand in\n{}\n">(inclincl.string(), f.string(), incl.string());
+            LOG().warn<"\nis in\n{}\nand in\n{}\n">(inclincl.string(), f.string(), incl.string());
           }
         });
       });
@@ -359,7 +362,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
           and phud::algorithms::count(trimmedLine, ',') > phud::algorithms::count(trimmedLine, '=')
           /* it's not an explicit constructor */
           and trimmedLine.starts_with("explicit ")) {
-          LOG.warn<"In {} at line {} the constructor should be explicit: {}.">(
+          LOG().warn<"In {} at line {} the constructor should be explicit: {}.">(
             file.string(), tfl.getLineIndex(), tfl.getLine());
         }
       }
@@ -378,7 +381,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
         if (const auto& pos { tfl.find(constructor + "(") }; (std::string::npos != pos) and
           tfl.startsWith("explicit ") and !tfl.contains(" delete") and
           (')' == tfl.getLine()[pos + constructor.size() + 2])) {
-          LOG.warn<"In {} at line {} the default constructor should not be explicit:{}">(
+          LOG().warn<"In {} at line {} the default constructor should not be explicit:{}">(
             file.string(), tfl.getLineIndex(), tfl.getLine());
         }
       }
@@ -392,7 +395,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
 
       while (tfl.next()) {
         if (tfl.trim().startsWith('~') and tfl.contains(") noexcept")) {
-          LOG.warn<"The file '{}' contains a noexcept destructor at line {}.">(file.string(),
+          LOG().warn<"The file '{}' contains a noexcept destructor at line {}.">(file.string(),
                                                                                tfl.getLineIndex());
         }
       }
@@ -406,7 +409,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
       while (tfl.next()) {
         if (!isAComment(tfl.trim()) and tfl.contains(" get") and !tfl.contains('.')
           and !tfl.contains("->") and !tfl.contains('[') and tfl.contains(") const { return m_")) {
-          LOG.warn<"The file '{}' contains a simple getter that should be noexcept at line {}.">(
+          LOG().warn<"The file '{}' contains a simple getter that should be noexcept at line {}.">(
             file.string(), tfl.getLineIndex());
         }
       }
@@ -424,13 +427,13 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
 
           if (const auto& isOneOfMine { phud::algorithms::contains(MY_SRC_FILES, include) }; hasChevrons and
             isOneOfMine) {
-            LOG.warn<
+            LOG().warn<
               "The non library file '{}' is included in file {} with chevrons instead of double quotes at line {}.">
             (
               include.string(), file.string(), tfl.getLineIndex());
           }
           else if (!hasChevrons and !isOneOfMine) {
-            LOG.warn<
+            LOG().warn<
               "The library file '{}' is included in file '{}' with double quotes instead of chevrons at line {}.">
             (
               include.string(), file.string(), tfl.getLineIndex());
@@ -443,7 +446,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
   BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedTwice) {
     std::ranges::for_each(::FILE_INCLUSIONS, [](const auto& fileToIncludes) {
       if (!pt::isSet(fileToIncludes.second)) {
-        LOG.warn<"some files are included more than once in '{}'">(fileToIncludes.first.string());
+        LOG().warn<"some files are included more than once in '{}'">(fileToIncludes.first.string());
       }
     });
   }
@@ -457,7 +460,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
 
         if (const std::string includePath { extractInclude(tfl.getLine()) }; ps::contains(includePath,
           '\\')) {
-          LOG.warn<"The file {} contains an include path '{}' with anti slashes.">(
+          LOG().warn<"The file {} contains an include path '{}' with anti slashes.">(
             file.string(), includePath);
         }
       }
@@ -479,10 +482,10 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
     const auto& queryNames { getAllQueryNames("sqlQueries.hpp") };
     std::ranges::for_each(queryNames, [](std::string_view queryName) {
       if (!sourceFileContains("Database.cpp", queryName)) {
-        LOG.warn<"The SQL query {} is not used in Database.cpp">(queryName);
+        LOG().warn<"The SQL query {} is not used in Database.cpp">(queryName);
       }
       else {
-        LOG.info<"The SQL query {} is used in Database.cpp">(queryName);
+        LOG().info<"The SQL query {} is used in Database.cpp">(queryName);
       }
     });
   }
@@ -540,7 +543,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
       while (tfl.next()) {
         if (const auto& line { tfl.trim().getLine() };
           ps::contains(line, "constexpr ") and ps::contains(line, "inline ")) {
-          LOG.warn<
+          LOG().warn<
             "The file {} at line {} contains both the tokens 'constexpr' and 'inline', whereas constexpr implies inline.">
           (
             file.string(), tfl.getLineIndex());
@@ -556,7 +559,7 @@ BOOST_AUTO_TEST_SUITE(SourceStaticCheckTest)
       while (tfl.next()) {
         if (const auto& line { tfl.trim().getLine() };
           ps::contains(line, "static ") and ps::contains(line, "inline ")) {
-          LOG.warn<
+          LOG().warn<
             "The file {} at line {} contains both the tokens 'static' and 'inline', whereas inline is useless on static functions.">(
             file.string(), tfl.getLineIndex());
         }

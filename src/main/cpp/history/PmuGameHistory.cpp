@@ -10,7 +10,10 @@
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/PlayerCache.hpp"
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 namespace ps = phud::strings;
@@ -36,26 +39,26 @@ template <typename GAME_TYPE> requires(std::is_same_v<GAME_TYPE, CashGame>
 
 template <typename GAME_TYPE> [[nodiscard]] static
 std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
-  LOG.debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
+  LOG().debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
   const auto& fileStem { ps::sanitize(gameHistoryFile.stem().string()) };
   std::unique_ptr<GAME_TYPE> ret;
   TextFile tf { gameHistoryFile };
 
   while (tf.next()) {
     if (nullptr == ret) {
-      LOG.debug<"1st hand : get additional game data from the hand.">();
+      LOG().debug<"1st hand : get additional game data from the hand.">();
       auto [pHand, pGameData] { PmuHandBuilder::buildHandAndGameData<GAME_TYPE>(tf, cache) };
-      LOG.debug<"1st hand : creating new game history.">();
+      LOG().debug<"1st hand : creating new game history.">();
       ret = newGame<GAME_TYPE>(fileStem, *pGameData);
       ret->addHand(std::move(pHand));
       // no way to know when we finished reading winners -> pass to next hand directly
     } else {
-      LOG.debug<"not the 1st hand : adding the new hand to the existing game history.">();
+      LOG().debug<"not the 1st hand : adding the new hand to the existing game history.">();
       ret->addHand(PmuHandBuilder::buildHand<GAME_TYPE>(tf, cache));
     }
   }
 
-  LOG.debug<"Read {} line{} from file {}.">(tf.getLineIndex(), ps::plural(tf.getLineIndex()),
+  LOG().debug<"Read {} line{} from file {}.">(tf.getLineIndex(), ps::plural(tf.getLineIndex()),
       tf.getFileStem());
   return ret;
 }
@@ -66,14 +69,14 @@ std::unique_ptr<GAME_TYPE> createGame(auto,
 
 template<typename GAME_TYPE>
 [[nodiscard]] static std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile) {
-  LOG.debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
+  LOG().debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite { std::make_unique<Site>(ProgramInfos::PMU_SITE_NAME) };
   PlayerCache cache { ProgramInfos::PMU_SITE_NAME };
 
   if (auto g { createGame<GAME_TYPE>(gameHistoryFile, cache) }; nullptr != g) {
-    LOG.debug<"Game created for file {}.">(gameHistoryFile.filename().string());
+    LOG().debug<"Game created for file {}.">(gameHistoryFile.filename().string());
     pSite->addGame(std::move(g));
-  } else { LOG.info<"Game *not* created for file {}.">(gameHistoryFile.filename().string()); }
+  } else { LOG().info<"Game *not* created for file {}.">(gameHistoryFile.filename().string()); }
 
   auto players { cache.extractPlayers() };
   std::ranges::for_each(players, [&](auto & p) { pSite->addPlayer(std::move(p)); });
@@ -81,7 +84,7 @@ template<typename GAME_TYPE>
 }
 
 std::unique_ptr<Site> PmuGameHistory::parseGameHistory(const fs::path& gameHistoryFile) {
-  LOG.debug<"Parsing the {} game history file {}.">(ProgramInfos::PMU_SITE_NAME,
+  LOG().debug<"Parsing the {} game history file {}.">(ProgramInfos::PMU_SITE_NAME,
       gameHistoryFile.filename().string());
   return handleGame<CashGame>(gameHistoryFile);
 }

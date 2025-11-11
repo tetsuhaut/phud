@@ -5,7 +5,10 @@
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadSafeQueue.hpp"
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 struct [[nodiscard]] StatsConsumer::Implementation final {
   ThreadSafeQueue<TableStatistics>& m_statsQueue;
@@ -26,10 +29,10 @@ void StatsConsumer::consumeAndNotify(const std::function<void(TableStatistics&)>
   m_pImpl->m_task.start([this, observerCb]() {
     if (TableStatistics stats; m_pImpl->m_statsQueue.tryPop(stats)) {
       if (Seat::seatUnknown == stats.getMaxSeat()) {
-        LOG.debug<"Got no stats from db.">();
+        LOG().debug<"Got no stats from db.">();
       }
       else {
-        LOG.debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
+        LOG().debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
         observerCb(stats);
       }
     }

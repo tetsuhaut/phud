@@ -181,13 +181,13 @@ VALUES (
 )raw" };
 
 /**
-  * Inserts an Action entity into the Action table.
-  * @param street as std::string
-  * @param handId as std::string
-  * @param playerName as std::string
-  * @param actionType as std::string
-  * @param actionIndex as int
-  * @param betAmount as double
+  * This parameterized query inserts an Action entity into the Action table.
+  * param street as std::string
+  * param handId as std::string
+  * param playerName as std::string
+  * param actionType as std::string
+  * param actionIndex as int
+  * param betAmount as double
   */
 static constexpr std::string_view INSERT_ACTION { R"raw(
 INSERT OR IGNORE INTO Action (
@@ -209,12 +209,12 @@ VALUES ('?handId', '?playerName', ?playerSeat, ?isWinner);
 )raw" };
 
 /**
- * Retrieves the different statistics for a given player, currently
+ *  This parameterized query retrieves the different statistics for a given player, currently
  * - Voluntary Put Money In Pot
  * - Pre Flop Raise
- * @param siteName
- * @param playerName
- * @return columns isHero, comments, nbHands, VPIP, PFR
+ * param siteName
+ * param playerName
+ * return columns isHero, comments, nbHands, VPIP, PFR
  */
 static constexpr std::string_view GET_STATS_BY_SITE_AND_PLAYER_NAME { R"raw(
 SELECT
@@ -232,12 +232,12 @@ WHERE
 
 
 /**
- * Retrieves the different statistics for the given table, currently
+ * This parameterized query retrieves the different statistics for the given table, currently
  * - Voluntary Put Money In Pot
  * - Pre Flop Raise
- * @param siteName
- * @param tableName
- * @return columns isHero, comments, nbHands, VPIP, PFR
+ * param siteName
+ * param tableName
+ * return columns isHero, comments, nbHands, VPIP, PFR
  */
 static constexpr std::string_view GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME { R"raw(
 SELECT

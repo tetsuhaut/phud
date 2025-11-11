@@ -8,7 +8,10 @@
 #include <fstream> // std::ifstream
 #include <iomanip> // std::get_time
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -126,7 +129,7 @@ std::string phud::filesystem::toString(const fs::file_time_type& ft) {
   if (const auto errorCode { localtime_s(&calendarDateTime, &posixTime) }; 0 != errorCode) [[unlikely]] {
     char msg[256] { 0 };
     strerror_s(msg, std::size(msg), errorCode);
-    LOG.error(msg);
+    LOG().error(msg);
     return "";
   }
   oss << std::put_time(&calendarDateTime, "%Y/%m/%d %H:%M:%S");

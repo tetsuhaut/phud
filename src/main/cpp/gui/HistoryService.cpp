@@ -6,7 +6,10 @@
 #include "threads/ThreadPool.hpp" // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 
@@ -28,7 +31,7 @@ HistoryService::~HistoryService() {
     HistoryService::stopImportingHistory();
   }
   catch (...) {
-    LOG.error<"Unknown Error when stopping the history import in the HistoryService destruction.">();
+    LOG().error<"Unknown Error when stopping the history import in the HistoryService destruction.">();
   }
 }
 
@@ -50,10 +53,10 @@ void HistoryService::importHistory(const fs::path& dir,
                             }
                           }
                           catch (const std::exception& e) {
-                            LOG.error<"Unexpected exception during the history import: {}.">(e.what());
+                            LOG().error<"Unexpected exception during the history import: {}.">(e.what());
                           }
                           catch (...) {
-                            LOG.error<"Unknown Error during the history import.">();
+                            LOG().error<"Unknown Error during the history import.">();
                           }
 
                           return std::unique_ptr<Site>();
@@ -63,16 +66,16 @@ void HistoryService::importHistory(const fs::path& dir,
                             if (pSite) { m_pImpl->m_database.save(*pSite); }
                           }
                           catch (const DatabaseException& e) {
-                            LOG.error<"Exception during the database usage: {}.">(e.what());
+                            LOG().error<"Exception during the database usage: {}.">(e.what());
                           }
-                          catch (...) { LOG.error<"Unknown during the database usage.">(); }
+                          catch (...) { LOG().error<"Unknown during the database usage.">(); }
                         })
                         .then([onDone]() { if (onDone) { onDone(); } });
 }
 
 void HistoryService::setHistoryDir(const fs::path& dir) {
   m_pImpl->m_historyDir = dir;
-  LOG.info<"Chosen Poker Site History Directory: {}">(dir.string());
+  LOG().info<"Chosen Poker Site History Directory: {}">(dir.string());
   m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(m_pImpl->m_historyDir);
 }
 

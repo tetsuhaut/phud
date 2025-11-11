@@ -1,8 +1,5 @@
 #include "constants/TableConstants.hpp"
 #include "db/Database.hpp"  // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database), std::span
-
-
-
 #include "db/SqlInsertor.hpp"  // Game
 #include "db/SqlSelector.hpp"
 #include "db/sqlQueries.hpp" // all the SQL queries
@@ -30,7 +27,10 @@
 // FUTURE: the read query name, content, entity type, and callback should be linked.
 // FUTURE: use a cache
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -61,7 +61,7 @@ namespace {
    * @throws DatabaseException if an error occurs
    */
   void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_view sql) {
-    LOG.trace(sql);
+    LOG().trace(sql);
 
     if (SQLITE_OK != sqlite3_exec(pDb,
                                   sql.data(), /*callback*/nullptr, /*callbackParam*/nullptr, /*errorMsg*/nullptr)) {
@@ -81,19 +81,19 @@ namespace {
     const auto isDbCreation { !pf::isFile(dbFile) };
 
     if (isDbCreation) {
-      LOG.info<"Creating the database {}">(IN_MEMORY == name
+      LOG().info<"Creating the database {}">(IN_MEMORY == name
                                              ? "in memory"
                                              : pf::absolute(
                                                dbFile).string());
     }
-    else { LOG.info<"Opening the existing database file {}, no schema created.">(pf::absolute(dbFile).string()); }
+    else { LOG().info<"Opening the existing database file {}, no schema created.">(pf::absolute(dbFile).string()); }
 
     const auto& pDb { openDatabase(name) }; // will create the database file if needed
 
     if (isDbCreation) {
-      LOG.info<"creating the database schema {}">(name);
+      LOG().info<"creating the database schema {}">(name);
       std::ranges::for_each(phud::sql::CREATE_QUERIES, [pDb](const auto& query) { executeSql(pDb, query); });
-      LOG.info<"database created">();
+      LOG().info<"database created">();
     }
 
     return pDb;
@@ -123,7 +123,7 @@ namespace {
   }
 
   void insertSpecificGame(const gsl::not_null<sqlite3*> db, const Tournament& t) {
-    LOG.info<"saving the tournament with id={}">(t.getId());
+    LOG().info<"saving the tournament with id={}">(t.getId());
     static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT, '?'), "ill-formed SQL template");
     executeSql(db, SqlInsertor(phud::sql::INSERT_TOURNAMENT)
                    .tournamentId(t.getId())
@@ -132,10 +132,10 @@ namespace {
   }
 
   /**
-  * @throws DatabaseException
+  * @throws DatabaseException if an error occurs during the insert
   */
   void insertSpecificGame(const gsl::not_null<sqlite3*> db, const CashGame& cg) {
-    LOG.info<"saving the cash game with id={}">(cg.getId());
+    LOG().info<"saving the cash game with id={}">(cg.getId());
     static_assert(ps::contains(phud::sql::INSERT_CASHGAME, '?'), "ill-formed SQL template");
     executeSql(db, SqlInsertor(phud::sql::INSERT_CASHGAME)
                    .cashGameId(cg.getId())
@@ -145,7 +145,7 @@ namespace {
   }
 
   /**
-   * @throws DatabaseException
+   * @throws DatabaseException if an error occurs during the insert
    */
   void saveActions(const gsl::not_null<sqlite3*> db,
                    std::span<const Action* const> actions) {
@@ -167,17 +167,17 @@ namespace {
   }
 
   /**
-   * @throws DatabaseException
+   * @throws DatabaseException if an error occurs during the insert
    */
   void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) {
     const auto& hands { game.viewHands() };
     const auto& gameId { game.getId() };
     insertGame(db, game);
     insertSpecificGame(db, game);
-    LOG.info<"saving {} hands from the game with id={}">(hands.size(), gameId);
+    LOG().info<"saving {} hands from the game with id={}">(hands.size(), gameId);
     saveHands(db, gameId, hands);
     std::ranges::for_each(hands, [db](const auto& h) {
-      LOG.trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
+      LOG().trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
       const auto av { h->viewActions() };
       saveActions(db, av);
     });
@@ -202,7 +202,7 @@ private:
 public:
   explicit Transaction(gsl::not_null<sqlite3*> a_db)
     : m_db { a_db } {
-    const std::lock_guard lock { m_mutex };
+    const std::lock_guard<std::mutex> lock { m_mutex };
     executeSql(m_db, "BEGIN TRANSACTION;");
   }
 
@@ -218,10 +218,10 @@ public:
         executeSql(m_db, "ROLLBACK;");
       }
       catch (const DatabaseException& e) {
-        LOG.error<"Error rollbacking transaction: {}">(e.what());
+        LOG().error<"Error rollbacking transaction: {}">(e.what());
       }
       catch (...) { // can't throw in a destructor
-        LOG.error<"Unknown Error rollbacking transaction.">();
+        LOG().error<"Unknown Error rollbacking transaction.">();
       }
     }
   }
@@ -239,24 +239,24 @@ Database::Database(std::string_view name)
 
 Database::~Database() {
   if (SQLITE_OK != sqlite3_close(m_pImpl->m_database)) {
-    LOG.error<"Unknown error when closing the database. Fetching the error message...">();
+    LOG().error<"Unknown error when closing the database. Fetching the error message...">();
     try {
       const auto pErrMsg { sqlite3_errmsg(m_pImpl->m_database) };
-      LOG.error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
+      LOG().error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
     }
     catch (...) { // can't throw in a destructor
-      LOG.error<"Couldn't fetch the error message.">();
+      LOG().error<"Couldn't fetch the error message.">();
     }
   }
 }
 
 /**
- * @throws DatabaseException
+ * @throws DatabaseException if an error occurs during the insert
  */
 void Database::save(const CashGame& game) const { saveGame(m_pImpl->m_database, game); }
 
 /**
- * @throws DatabaseException
+ * @throws DatabaseException if an error occurs during the insert
  */
 void Database::save(const Tournament& game) const { saveGame(m_pImpl->m_database, game); }
 
@@ -277,10 +277,10 @@ void Database::save(std::span<const Player* const> players) const {
 }
 
 /**
-* @throws DatabaseException
+* @throws DatabaseException if an error occurs during the insert
 */
 static void saveSite(const gsl::not_null<sqlite3*> pDb, const Site& s) {
-  LOG.info<"saving the Site with name={}">(s.getName());
+  LOG().info<"saving the Site with name={}">(s.getName());
   static_assert(ps::contains(phud::sql::INSERT_SITE, '?'), "ill-formed SQL template");
   executeSql(pDb, SqlInsertor(phud::sql::INSERT_SITE).siteName(s.getName()).build());
 }
@@ -298,10 +298,10 @@ saveGamesAsync(std::span<const T* const> games, Database& self) {
         self.save(*pGame);
       }
       catch (const std::exception& e) {
-        LOG.error<"Couldn't save the game with id='{}': {}">(gameId, e.what());
+        LOG().error<"Couldn't save the game with id='{}': {}">(gameId, e.what());
       }
       catch (...) {
-        LOG.error<"Couldn't save the game with id='{}': unknown error">(gameId);
+        LOG().error<"Couldn't save the game with id='{}': unknown error">(gameId);
       }
     });
   });
@@ -309,7 +309,7 @@ saveGamesAsync(std::span<const T* const> games, Database& self) {
 }
 
 /**
- * @throws DatabaseException
+ * @throws DatabaseException if an error occurs during the insert
  */
 void Database::save(const Site& site) {
   Transaction transaction { m_pImpl->m_database };
@@ -324,7 +324,7 @@ void Database::save(const Site& site) {
   transaction.commit();
 }
 
-/*static*/
+static
 void insertHand(SqlInsertor& handInsert, const Hand& hand) {
   handInsert
     .handId(hand.getId())
@@ -349,13 +349,13 @@ void insertHand(SqlInsertor& handInsert, const Hand& hand) {
 }
 
 /**
- * @throws DatabaseException
+ * @throws DatabaseException if an error occurs during the insert
  */
 static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
                       std::span<const Hand* const> hands) {
   if (hands.empty()) { return; }
 
-  LOG.trace<"create insert queries">();
+  LOG().trace<"create insert queries">();
   static_assert(ps::contains(phud::sql::INSERT_HAND, '?'), "ill-formed SQL template");
   SqlInsertor handInsert { phud::sql::INSERT_HAND };
   static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER, '?'), "ill-formed SQL template");
@@ -385,12 +385,12 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
       .handId(pHand->getId())
       .newInsert();
   });
-  LOG.trace<"run insert queries">();
-  LOG.info<"insert hands for table {}">(hands.front()->getTableName());
+  LOG().trace<"run insert queries">();
+  LOG().info<"insert hands for table {}">(hands.front()->getTableName());
   executeSql(db, handInsert.build());
   executeSql(db, handPlayerInsert.build());
   executeSql(db, gameHandInsert.build());
-  LOG.trace<"exit saveHands()">();
+  LOG().trace<"exit saveHands()">();
 }
 
 enum class /*[[nodiscard]]*/ QueryResult : short { NO_MORE_ROWS, ONE_ROW_OR_MORE };
@@ -420,10 +420,10 @@ public:
   ~PreparedStatement() {
     if (SQLITE_OK != sqlite3_finalize(m_pStatement)) {
       try {
-        LOG.error<"Can't close a prepared statement, database error is:\n{}">(sqlite3_errmsg(m_pDatabase));
+        LOG().error<"Can't close a prepared statement, database error is:\n{}">(sqlite3_errmsg(m_pDatabase));
       }
       catch (...) { // can't throw in a destructor
-        LOG.error<"Can't close a prepared statement, database error is unknown.">();
+        LOG().error<"Can't close a prepared statement, database error is unknown.">();
       }
     }
   }
@@ -505,7 +505,7 @@ static std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> 
         });
     }
     else {
-      LOG.warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
+      LOG().warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
     }
   }
   while (QueryResult::ONE_ROW_OR_MORE == p.execute());

@@ -1,7 +1,18 @@
 #pragma once
 
 #include "gui/Rectangle.hpp"
+
+#if defined(__clang__)
+#  pragma clang diagnostic push
+#  pragma clang diagnostic ignored "-Wnonportable-system-include-path"
+#endif  // __clang__
+
 #include <windows.h> // HWND
+
+#if defined(__clang__)
+#  pragma clang diagnostic pop
+#endif  // __clang__
+
 #include <optional>
 #include <string>
 #include <string_view>

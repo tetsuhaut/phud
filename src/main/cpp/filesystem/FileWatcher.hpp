@@ -20,7 +20,7 @@ public:
   ~FileWatcher();
   /**
    * Watches periodically the file provided in the constructor. Each time it changes,
-   * calls @fileHasChangedCb.
+   * calls the fileHasChangedCb callback.
    * Call stop() or destroy to stop the watching thread.
    * @param fileHasChangedCb called each time the file changes
    */

@@ -41,25 +41,19 @@
 // TODO : détecteur d'historique pour que l'utilisateur sache quoi choisir
 // TODO : liste des historiques surveillés
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 static void logErrorAndAbort(int signum) {
   std::signal(signum, SIG_DFL);
   std::ostringstream oss;
   oss << boost::stacktrace::stacktrace();
   std::print(stderr, "{}\n", oss.str());
-  LOG.critical(oss.str());
+  LOG().critical(oss.str());
   std::raise(SIGABRT);
 }
-
-struct [[nodiscard]] LoggingConfig final {
-  explicit LoggingConfig(std::string_view pattern) { Logger::setupFileInfoLogging(pattern); }
-  LoggingConfig(const LoggingConfig&) = delete;
-  LoggingConfig(LoggingConfig&&) = delete;
-  LoggingConfig& operator=(const LoggingConfig&) = delete;
-  LoggingConfig& operator=(LoggingConfig&&) = delete;
-  ~LoggingConfig() { Logger::shutdownLogging(); }
-};
 
 #if defined(_WIN32)
 
@@ -103,9 +97,6 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
   int main(int argc, const char* const* const argv) {
 #endif  // _WIN32
   std::setlocale(LC_ALL, "en_US.utf8");
-  std::signal(SIGSEGV, logErrorAndAbort);
-  std::signal(SIGABRT, logErrorAndAbort);
-  std::signal(SIGINT, logErrorAndAbort);
   auto nbErr { 0 };
 
   try {
@@ -113,7 +104,10 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
     const auto& [oHistoDir, loggingLevel, loggingPattern] { ProgramConfiguration::readConfiguration(args) };
     LoggingConfig _ { loggingPattern };
     Logger::setLoggingLevel(loggingLevel);
-    LOG.info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
+    std::signal(SIGSEGV, logErrorAndAbort);
+    std::signal(SIGABRT, logErrorAndAbort);
+    std::signal(SIGINT, logErrorAndAbort);
+    LOG().info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
     Database db(ProgramInfos::DATABASE_NAME);
     TableService ts(db);
     HistoryService hs(db);
@@ -127,34 +121,34 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
         const auto& strDir { oHistoDir.value().string() };
         throw PhudException(fmt::format("The provided hand history directory '{}' is invalid", strDir));
       }
-      LOG.info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(toString(loggingLevel), loggingPattern, oHistoDir.value().string());
+      LOG().info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(toString(loggingLevel), loggingPattern, oHistoDir.value().string());
     }
 
     Gui gui(ts, hs);
     nbErr = gui.run();
-    LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
+    LOG().info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
   }
   catch (const UserAskedForHelpException& e) {
     // if user asks for help, he passed -h in the command line
     std::print("{}\n", e.what());
   }
   catch (const PhudException& e) {
-    LOG.error(e.what());
+    LOG().error(e.what());
     std::print(stderr, "{}\n", e.what());
     ++nbErr;
   }
   catch (const std::logic_error& e) {
-    LOG.error<"Unexpected exception: {}">(e.what());
+    LOG().error<"Unexpected exception: {}">(e.what());
     std::print(stderr, "{}\n", e.what());
     ++nbErr;
   }
   catch (const std::exception& e) {
-    LOG.error<"Unexpected exception: {}">(e.what());
+    LOG().error<"Unexpected exception: {}">(e.what());
     std::print(stderr, "{}\n", e.what());
     ++nbErr;
   }
   catch (...) {
-    LOG.error<"Unknown exception occurred.">();
+    LOG().error<"Unknown exception occurred.">();
     std::print(stderr, "Unknown exception occurred.\n");
     ++nbErr;
   }

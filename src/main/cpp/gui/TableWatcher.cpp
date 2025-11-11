@@ -7,7 +7,10 @@
 #include <utility>
 #include <vector>
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace {
   constexpr std::chrono::milliseconds WATCH_INTERVAL { 3000 }; // 3 seconds
@@ -41,7 +44,7 @@ struct [[nodiscard]] TableWatcher::Implementation final {
                             | std::views::filter(::isPokerTable)
                             | std::ranges::to<std::vector<std::string>>() }; !titles.empty()) {
       if (m_currentTableWindowTitles != titles) {
-        LOG.info<"Poker tables changed. Found {} table(s)">(titles.size());
+        LOG().info<"Poker tables changed. Found {} table(s)">(titles.size());
         m_currentTableWindowTitles = titles;
         m_onTablesChangedCb(titles);
       }
@@ -49,7 +52,7 @@ struct [[nodiscard]] TableWatcher::Implementation final {
     else {
       // No table found
       if (!m_currentTableWindowTitles.empty()) {
-        LOG.info<"All poker table windows lost">();
+        LOG().info<"All poker table windows lost">();
         m_currentTableWindowTitles.clear();
         m_onTablesChangedCb({});
       }
@@ -65,7 +68,7 @@ TableWatcher::~TableWatcher() {
 }
 
 void TableWatcher::start() const {
-  LOG.debug<"Starting table watcher">();
+  LOG().debug<"Starting table watcher">();
   m_pImpl->m_periodicTask.start([this]() {
     m_pImpl->checkForTables();
     return PeriodicTaskStatus::repeatTask; // Continue watching
@@ -73,7 +76,7 @@ void TableWatcher::start() const {
 }
 
 void TableWatcher::stop() const {
-  LOG.debug<"Stopping table watcher">();
+  LOG().debug<"Stopping table watcher">();
   m_pImpl->m_periodicTask.stop();
 }
 

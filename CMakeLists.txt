@@ -5,12 +5,6 @@ project(Poker_Head-Up_Display
  LANGUAGES CXX
 )
 
-# Force Clang to use Windows GNU target (MinGW ABI) if using Clang
-if(CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
-  add_compile_options(-target x86_64-pc-windows-gnu)
-  add_link_options(-target x86_64-pc-windows-gnu)
-endif()
-
 # uncomment in case we want to know where CMake is looking for packages
 #set(CMAKE_FIND_DEBUG_MODE 1)
 
@@ -35,7 +29,22 @@ option(CMAKE_ENCODING_UTF8 "Use UTF-8 encoding internally." ON)
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
-if(MSVC)
+
+message(STATUS "=== Environment Detection ===")
+message(STATUS "WIN32: ${WIN32}")
+message(STATUS "MSVC: ${MSVC}")
+message(STATUS "MSVC_IDE: ${MSVC_IDE}")
+message(STATUS "MSVC_VERSION: ${MSVC_VERSION}")
+message(STATUS "MINGW: ${MINGW}")
+message(STATUS "CYGWIN: ${CYGWIN}")
+message(STATUS "UNIX: ${UNIX}")
+message(STATUS "APPLE: ${APPLE}")
+message(STATUS "CMAKE_CXX_COMPILER_ID: ${CMAKE_CXX_COMPILER_ID}")
+message(STATUS "CMAKE_CXX_SIMULATE_ID: ${CMAKE_CXX_SIMULATE_ID}")
+message(STATUS "CMAKE_GENERATOR: ${CMAKE_GENERATOR}")
+
+if(MSVC AND NOT CMAKE_CXX_COMPILER_ID MATCHES "Clang")
+  message("detected Visual Studio 2022 compiler")
   # use UTF-8 for source and execution with the MSVC compiler
   add_compile_options(/utf-8)
   # /Zc:__cplusplus: ask the compiler to fix the __cplusplus macro
@@ -52,7 +61,6 @@ if(MSVC)
                       /w14263 # buffer overflow
                       /w14265 # missing virtual destructor
                       /w14287 # unexpected dependencies
-                      /we4289
                       /w14296
                       /w14311
                       /w14545
@@ -62,7 +70,6 @@ if(MSVC)
                       /w14555
                       /w14619
                       /w14640
-                      /w14640
                       /w14826
                       /w14905
                       /w14906
@@ -71,51 +78,99 @@ if(MSVC)
                       /we4289)
   # link statically with the compiler C runtime
   set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
-else()
+elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang") AND (CMAKE_CXX_SIMULATE_ID STREQUAL "MSVC"))
+  message("detected msvc + clang compiler")
+  add_compile_options(--target=x86_64-pc-windows-msvc)
+  add_link_options(--target=x86_64-pc-windows-msvc)
+  # compiling with clang + MSVC
+  # compile with lots of warnings
+  add_compile_options(-Wall # most common warnings
+                      -Wextra # additionnal warnings
+                      -Wpedantic # unnecessary warnings
+                      -Weverything # in addition, all of the Clang warnings
+                      -Wno-c++98-compat # disable C++98 compatibility warnings
+                      -Wno-c++98-compat-pedantic # disable C++98 compatibility warnings
+                      -Wno-padded # disable padding warnings as too verbose
+                      -Wno-switch-default) # disable switch default warning for enums with all cases covered
+  # link statically with the compiler C runtime
+  set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
+elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQUAL "GNU"))
+  message("detected GCC MinGW + clang compiler")
+  # compiling with clang + GCC MinGW
   # compile with lots of warnings
   add_compile_options(-Wall
-                      -Wextra
-                      -Wpedantic
-                      -Wconversion
-                      -Werror=unused-function
-                      -pedantic-errors
-                      -Wvla
-                      -Wextra-semi
-                      -Wnull-dereference
-                      -Wswitch-enum
-                      -Wno-deprecated
-                      -fno-elide-type
-                      -Wduplicated-cond
-                      -Wduplicated-branches
-                      -Wsuggest-override
-                      -Wshadow
-                      -Wnon-virtual-dtor
-                      -Wold-style-cast
                       -Wcast-align
-                      -Wunused
-                      -Woverloaded-virtual
-                      -pedantic
                       -Wconversion
-                      -Wsign-conversion
-                      -Wmisleading-indentation
-                      -Wduplicated-cond
-                      -Wduplicated-branches
-                      -Wlogical-op
-                      -Wnull-dereference
-                      -Wuseless-cast
                       -Wdouble-promotion
-                      -Wformat=2
+                      -Wduplicated-branches
+                      -Wduplicated-cond
                       -Weffc++
+                      -Werror=unused-function
+                      -Wextra
+                      -Wextra-semi
+                      -Wformat=2
+                      -Wlogical-op
+                      -Wmisleading-indentation
+                      -Wno-deprecated
+                      -Wnon-virtual-dtor
+                      -Wnull-dereference
+                      -Wold-style-cast
+                      -Woverloaded-virtual
+                      -Wpedantic
+                      -Wshadow
+                      -Wsign-conversion
+                      -Wsuggest-override
+                      -Wswitch-enum
+                      -Wno-switch-default
+                      -Wunused
+                      -Wuseless-cast
+                      -Wvla
+                      -fexec-charset=UTF-8
                       -finput-charset=UTF-8
-                      -fexec-charset=UTF-8)
-  # link statically with the compiler C runtime
-  if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU" OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
-    add_link_options(-static-libgcc -static-libstdc++)
-  endif()
-  if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-    add_link_options(-static -lstdc++exp)
-  endif()
-endif(MSVC)
+                      -fno-elide-type
+                      -pedantic
+                      -pedantic-errors)
+elseif(MINGW)
+  message("detected GCC MinGW compiler")
+  # compiling with GCC MinGW
+  # compile with lots of warnings
+  add_compile_options(-Wall
+                      -Wcast-align
+                      -Wconversion
+                      -Wdouble-promotion
+                      -Wduplicated-branches
+                      -Wduplicated-cond
+                      -Weffc++
+                      -Werror=unused-function
+                      -Wextra
+                      -Wextra-semi
+                      -Wformat=2
+                      -Wlogical-op
+                      -Wmisleading-indentation
+                      -Wno-deprecated
+                      -Wnon-virtual-dtor
+                      -Wnull-dereference
+                      -Wold-style-cast
+                      -Woverloaded-virtual
+                      -Wpedantic
+                      -Wshadow
+                      -Wsign-conversion
+                      -Wsuggest-override
+                      -Wswitch-enum
+                      -Wunused
+                      -Wuseless-cast
+                      -Wvla
+                      -fexec-charset=UTF-8
+                      -finput-charset=UTF-8
+                      -fno-elide-type
+                      -pedantic
+                      -pedantic-errors)
+else()
+  message(WARNING "Unknown compiler: ${CMAKE_CXX_COMPILER_ID}")
+  set(MY_COMPILER_TYPE "UNKNOWN")
+endif()
+
+message("Compiler detection done.")
 
 # where to produce executables and libraries
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin/${CMAKE_BUILD_TYPE})

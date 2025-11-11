@@ -11,7 +11,10 @@
 #include <expected>
 #include <ranges>
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -42,7 +45,7 @@ namespace {
   [[nodiscard]] std::vector<fs::path> getFiles(const fs::path& historyDir) {
     if (WinamaxHistory::isValidHistory(historyDir)) { return pf::listTxtFilesInDir(historyDir / "history"); }
 
-    LOG.error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
+    LOG().error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
     return {};
   }
 
@@ -55,7 +58,7 @@ namespace {
 
     if (onSetNbFiles) {
       const auto fileSize { files.size() };
-      LOG.info<"Notify observer of {} files.">(fileSize);
+      LOG().info<"Notify observer of {} files.">(fileSize);
 
       if (!files.empty()) { std::forward<decltype(onSetNbFiles)>(onSetNbFiles)(fileSize); }
     }
@@ -81,10 +84,10 @@ namespace {
             pSite = WinamaxGameHistory::parseGameHistory(file).release();
           }
           catch (const std::exception& e) {
-            LOG.error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
+            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
           }
           catch (const char* str) {
-            LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
+            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), str);
           }
 
           if (!stop.get() and onProgress) { onProgress(); }
@@ -108,7 +111,7 @@ WinamaxHistory::~WinamaxHistory() {
     stopLoading();
   }
   catch (...) { // can't throw in a destructor
-    LOG.error<"Unknown Error raised by WinamaxHistory::stopLoading().">();
+    LOG().error<"Unknown Error raised by WinamaxHistory::stopLoading().">();
   }
 }
 
@@ -118,12 +121,12 @@ WinamaxHistory::~WinamaxHistory() {
  */
 /*static*/
 bool WinamaxHistory::isValidHistory(const fs::path& dir) {
-  LOG.debug<__func__>();
+  LOG().debug<__func__>();
   const auto& histoDir { (dir / "history").lexically_normal() };
   const auto& either { getHistoryFilesOrErrorMessage(dir, histoDir) };
 
   if (!either) {
-    LOG.error(either.error());
+    LOG().error(either.error());
     return false; // do not throw as functionnaly correct
   }
 
@@ -137,18 +140,18 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir,
   m_pImpl->m_stop = false;
 
   try {
-    LOG.debug<"Loading the history dir '{}'.">(dir.string());
+    LOG().debug<"Loading the history dir '{}'.">(dir.string());
     const auto& files { getFilesAndNotify(dir, onSetNbFiles) };
     auto ret { std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
 
     if (files.empty()) {
-      LOG.error<"0 file found in the dir {}">(dir.string());
+      LOG().error<"0 file found in the dir {}">(dir.string());
       return ret;
     }
 
-    LOG.info<"{} file{} to load.">(files.size(), ps::plural(files.size()));
+    LOG().info<"{} file{} to load.">(files.size(), ps::plural(files.size()));
     m_pImpl->m_tasks = parseFilesAsync(files, m_pImpl->m_stop, onProgress);
-    LOG.info<"Waiting for the end of loading.">();
+    LOG().info<"Waiting for the end of loading.">();
     std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto& task) {
       if (task.valid()) {
         if (const auto site { std::unique_ptr<Site>(stlab::await(std::move(task))) };
@@ -156,11 +159,11 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir,
       }
     });
     m_pImpl->m_tasks.clear();
-    LOG.info<"Loading done.">();
+    LOG().info<"Loading done.">();
     return ret;
   }
   catch (const std::exception& e) {
-    LOG.error<"Exception in WinamaxHistory::load: {}">(e.what());
+    LOG().error<"Exception in WinamaxHistory::load: {}">(e.what());
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 }
@@ -186,14 +189,14 @@ void WinamaxHistory::stopLoading() {
 }
 
 std::unique_ptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
-  LOG.trace<"Reloading the history file '{}'.">(file.string());
+  LOG().trace<"Reloading the history file '{}'.">(file.string());
   std::unique_ptr<Site> ret { nullptr };
 
   try {
     ret = WinamaxGameHistory::parseGameHistory(file);
   }
   catch (const std::exception& e) {
-    LOG.error<"Exception loading the file {}: {}">(file.string(), e.what());
+    LOG().error<"Exception loading the file {}: {}">(file.string(), e.what());
   }
 
   return ret;
@@ -222,7 +225,7 @@ std::optional<fs::path> WinamaxHistory::getHistoryFileFromTableWindowTitle(const
   auto files { pf::listFilesMatchingPattern(dir / "history", tablePattern) };
 
   if (files.empty()) {
-    LOG.error<"No history file found for table '{}'">(tableName);
+    LOG().error<"No history file found for table '{}'">(tableName);
     return {};
   }
   else {
@@ -230,6 +233,6 @@ std::optional<fs::path> WinamaxHistory::getHistoryFileFromTableWindowTitle(const
     std::ranges::sort(files, pf::PathModificationTimeComparator {});
   }
   const auto& candidate { files.back() };
-  LOG.info<"Found {} history files for table '{}', using most recent: {}">(files.size(), tableName, candidate.string());
+  LOG().info<"Found {} history files for table '{}', using most recent: {}">(files.size(), tableName, candidate.string());
   return std::optional<fs::path>{candidate};
 }

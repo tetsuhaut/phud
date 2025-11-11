@@ -6,7 +6,10 @@
 #include <type_traits> // std::is_arithmetic_v, std::is_same_v
 #include <stdexcept> // std::invalid_argument
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace {
   template<typename T>
@@ -69,10 +72,10 @@ double phud::strings::toDouble(std::string_view amount) {
 
   if (const auto& [ptr, ec] { std::from_chars(str.data(), str.data() + amount.size(), ret) };
     ec == std::errc::result_out_of_range) {
-    LOG.error<"phud::strings::toDouble({})">(amount);
-    LOG.error<"amount in double: {}">(ret);
-    LOG.error<"Number of treated characters: {}">(ptr - str.data());
-    LOG.error<"Out of range value">();
+    LOG().error<"phud::strings::toDouble({})">(amount);
+    LOG().error<"amount in double: {}">(ret);
+    LOG().error<"Number of treated characters: {}">(ptr - str.data());
+    LOG().error<"Out of range value">();
     return 0;
   }
   return ret;

@@ -2,6 +2,7 @@
 
 #include "log/LoggingLevel.hpp" // std::string_view
 #include "strings/StringLiteral.hpp" // concatLiteral
+#include <span> // std::span
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to fmt
 #  pragma warning(push)
@@ -88,19 +89,30 @@ public:
  * @returns the position of the 1st character of the file name in a path,
  * 0 if the given path ends with a / or \.
  * Ex: C:/a/b/c.txt returns 7, a.txt returns 0
- * @param CHAR_TYPE the type of character, e.g. char or wchar or uchar
- * @param ARRAY_LENGTH the size of the char array containing the string
+ * @tparam CHAR_TYPE the type of character, e.g. char or wchar or uchar
+ * @tparam ARRAY_LENGTH the size of the char array containing the string
  * @param str the char array
- * @param position the position in str to start searching for the beginning of the file name
+ * @param startPos the position in str to start searching for the beginning of the file name
+ * @return position of the 1st file name character in str
  */
 template <typename CHAR_TYPE, std::size_t ARRAY_LENGTH>
 constexpr std::size_t getFileNameOffset(const CHAR_TYPE (&str)[ARRAY_LENGTH],
-                                        const std::size_t position = ARRAY_LENGTH - 1) {
+                                        const std::size_t startPos = ARRAY_LENGTH - 1) {
   if constexpr (ARRAY_LENGTH == 1) { return 0; }
-  // by construction, position cannot be out of scope
-  if ((str[position] == '/') or (str[position] == '\\')) { return position + 1; }
-  return (position > 0) ? getFileNameOffset(str, position - 1) : 0;
+  const std::span<const CHAR_TYPE, ARRAY_LENGTH> buffer { str };
+  // by construction, startPos cannot be out of scope
+  if (('/' == buffer[startPos]) or ('\\' == buffer[startPos])) { return startPos + 1; }
+  return (startPos > 0) ? getFileNameOffset(str, startPos - 1) : 0;
 }
+
+struct [[nodiscard]] LoggingConfig final {
+  explicit LoggingConfig(std::string_view pattern) { Logger::setupFileInfoLogging(pattern); }
+  LoggingConfig(const LoggingConfig&) = delete;
+  LoggingConfig(LoggingConfig&&) = delete;
+  LoggingConfig& operator=(const LoggingConfig&) = delete;
+  LoggingConfig& operator=(LoggingConfig&&) = delete;
+  ~LoggingConfig() { Logger::shutdownLogging(); }
+};
 
 // forces the compiler to do a compile time evaluation
 namespace utility {

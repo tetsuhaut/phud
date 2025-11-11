@@ -7,7 +7,10 @@
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadSafeQueue.hpp"
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 struct [[nodiscard]] StatsProducer::Implementation final {
   PeriodicTask m_task;
@@ -36,11 +39,11 @@ void StatsProducer::start(ThreadSafeQueue<TableStatistics>& statsQueue) const {
            if (auto stats {
              m_pImpl->m_db.readTableStatistics(m_pImpl->m_site, m_pImpl->m_table)
            }; stats.isValid()) {
-             LOG.debug<"Got stats from db.">();
+             LOG().debug<"Got stats from db.">();
              statsQueue.push(std::move(stats));
            }
            else {
-             LOG.debug<"Got no stats from db yet for table {} on site {}.">(m_pImpl->m_table, m_pImpl->m_site);
+             LOG().debug<"Got no stats from db yet for table {} on site {}.">(m_pImpl->m_table, m_pImpl->m_site);
            }
            return PeriodicTaskStatus::repeatTask;
          });

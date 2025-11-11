@@ -13,7 +13,7 @@ namespace clamp_cast {
       // clearer.
       T result { 1.0 };
       for (int i { 0 }; i < exp; ++i) {
-        result *= 2.0f;
+        result *= static_cast<T>(2.0);
       }
       return result;
     }

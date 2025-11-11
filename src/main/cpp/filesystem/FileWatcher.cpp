@@ -8,7 +8,10 @@
 #include "threads/PeriodicTask.hpp"
 #include <system_error> // std::error_code
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 namespace fs = std::filesystem;
 
@@ -24,7 +27,7 @@ struct [[nodiscard]] FileWatcher::Implementation final {
     m_lastModifDate { fs::last_write_time(file, m_errorCode) },
     m_task { reloadPeriod, CURRENT_FILE_NAME } {
     if (0 != m_errorCode.value()) {
-      LOG.error<"Error getting last write time for file {} in directory {}: {}">(
+      LOG().error<"Error getting last write time for file {} in directory {}: {}">(
         file.string(), file.parent_path().string(), m_errorCode.message());
     }
   }
@@ -41,13 +44,13 @@ static void getLatestUpdatedFile(const fs::path& file,
   if (const auto& lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
     if (lastModified != lasWriteTime) {
       lastModified = lasWriteTime;
-      LOG.info<"The file\n{}\nhas changed, notify listener">(file.string());
+      LOG().info<"The file\n{}\nhas changed, notify listener">(file.string());
     }
     // recalculate PlayerIndicators positions
     std::forward<decltype(fileHasChangedCb)>(fileHasChangedCb)(file);
   }
   else [[unlikely]] {
-    LOG.error<"Error checking if the file {} has changed: {}">(file.string(), ec.message());
+    LOG().error<"Error checking if the file {} has changed: {}">(file.string(), ec.message());
   }
 }
 
@@ -58,7 +61,7 @@ FileWatcher::FileWatcher(std::chrono::milliseconds reloadPeriod, const fs::path&
   : m_pImpl { std::make_unique<FileWatcher::Implementation>(reloadPeriod, file) } {
   validation::require(phud::filesystem::isFile(m_pImpl->m_file),
                       "the file provided to FileWatcher() is not valid.");
-  LOG.info<"will watch the file {} every {}ms">(m_pImpl->m_file.string(), reloadPeriod.count());
+  LOG().info<"will watch the file {} every {}ms">(m_pImpl->m_file.string(), reloadPeriod.count());
 }
 
 FileWatcher::~FileWatcher() = default;

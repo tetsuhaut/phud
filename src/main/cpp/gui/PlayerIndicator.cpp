@@ -17,7 +17,10 @@
 
 namespace piws = PlayerIndicatorWindow::surface;
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::string_view playerName)
   : DragAndDropWindow({ .x = position.first, .y = position.second, .w = piws::width, .h = piws::height },
@@ -26,12 +29,12 @@ PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::strin
                       [this](int newX, int newY) {
                         m_userOffsetX = newX - m_basePosition.first;
                         m_userOffsetY = newY - m_basePosition.second;
-                        LOG.debug<"User moved PlayerIndicator, offset: ({}, {})">(m_userOffsetX, m_userOffsetY);
+                        LOG().debug<"User moved PlayerIndicator, offset: ({}, {})">(m_userOffsetX, m_userOffsetY);
                       }),
     m_textStats { std::make_unique<Fl_Box>(0, 0, w(), piws::statsHeight) },
     m_textPlayerName { std::make_unique<Fl_Box>(0, piws::statsHeight + 2, w(), piws::playerNameHeight) },
     m_basePosition { position } {
-  LOG.debug<"creation du PlayerIndicator {}">(playerName);
+  LOG().debug<"creation du PlayerIndicator {}">(playerName);
   box(FL_FLAT_BOX);
   color(FL_WHITE);
   m_textStats->labelsize(piws::statsHeight);
@@ -40,7 +43,7 @@ PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::strin
   clear_border();
   end();
   Fl_Double_Window::show();
-  LOG.debug<"m_textPlayerName->label()={}">(m_textPlayerName->label());
+  LOG().debug<"m_textPlayerName->label()={}">(m_textPlayerName->label());
 }
 
 void PlayerIndicator::setStats(const PlayerStatistics& ps) const {
@@ -54,7 +57,7 @@ std::string PlayerIndicator::getPlayerName() const { return m_textPlayerName->la
 
 // TODO unused
 void PlayerIndicator::refresh(std::string_view playerName) const {
-  LOG.debug<"PlayerIndicator refresh={}">(playerName);
+  LOG().debug<"PlayerIndicator refresh={}">(playerName);
   m_textPlayerName->copy_label(playerName.data());
 }
 

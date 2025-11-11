@@ -11,7 +11,7 @@ public:
   virtual ~DirWatcher();
   /**
    * Watches periodically the previously provided directory. Each time a file
-   * inside changes, @fileHasChangedCb is called.
+   * inside changes, the callback fileHasChangedCb is called.
    * Call stop() or destroy to stop the watching thread.
    * @param fileHasChangedCb called each time a file changes
    */

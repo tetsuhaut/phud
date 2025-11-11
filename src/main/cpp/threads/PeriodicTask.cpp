@@ -5,7 +5,10 @@
 #include <condition_variable>
 #include <mutex>
 
-static Logger LOG { CURRENT_FILE_NAME };
+static Logger& LOG() {
+  static Logger logger { CURRENT_FILE_NAME };
+  return logger;
+}
 
 struct [[nodiscard]] PeriodicTask::Implementation final {
   Future<void> m_futureTaskResult {};
@@ -29,7 +32,7 @@ PeriodicTask::~PeriodicTask() {
     stop();
   }
   catch (...) {
-    LOG.error<"Unknown error during the stop of PeriodicTask.">();
+    LOG().error<"Unknown error during the stop of PeriodicTask.">();
   }
 }
 

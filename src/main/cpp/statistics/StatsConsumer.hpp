@@ -23,7 +23,7 @@ public:
   ~StatsConsumer();
   /**
    * @param observerCb the callback called
-   * Calls @param observerCb each time a new TableStatistics is found it the stats queue.
+   * Calls observerCb each time a new TableStatistics is found it the stats queue.
    */
   void consumeAndNotify(const std::function<void(TableStatistics&)>& observerCb) const;
   void stop() const;
