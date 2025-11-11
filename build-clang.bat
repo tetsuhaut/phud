@@ -5,6 +5,7 @@ REM SET CMAKE_GENERATOR="Eclipse CDT4 - MinGW Makefiles"
 SET CMAKE_GENERATOR="Ninja"
 SET BUILD_DIR=build
 SET BIN_DIR=bin\Debug
+SET CMAKE_TOOLCHAIN_FILE=%~dp0clang-cl-toolchain.cmake
 CALL build.bat
 @ECHO OFF
 IF ERRORLEVEL 1 ECHO Error building the phud Makefile. && EXIT /B 1

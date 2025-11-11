@@ -25,7 +25,11 @@ ECHO creating build dir '%BUILD_DIR%'
 MKDIR %BUILD_DIR%
 PUSHD %BUILD_DIR%
 ECHO calling cmake
-cmake -G %CMAKE_GENERATOR% %~dp0
+IF DEFINED CMAKE_TOOLCHAIN_FILE (
+  cmake -G %CMAKE_GENERATOR% -DCMAKE_TOOLCHAIN_FILE=%CMAKE_TOOLCHAIN_FILE% %~dp0
+) ELSE (
+  cmake -G %CMAKE_GENERATOR% %~dp0
+)
 POPD
 ECHO ^pushd %CD% ^&^& ^format ^&^& ^popd > %BUILD_DIR%\format.bat
 ECHO ^color ^&^& ^cls ^&^& ^%BIN_DIR%\unitTests.exe %%* > %BUILD_DIR%\runAllTests.bat

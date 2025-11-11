@@ -5,6 +5,12 @@ project(Poker_Head-Up_Display
  LANGUAGES CXX
 )
 
+# Force Clang to use Windows GNU target (MinGW ABI) if using Clang
+if(CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
+  add_compile_options(-target x86_64-pc-windows-gnu)
+  add_link_options(-target x86_64-pc-windows-gnu)
+endif()
+
 # uncomment in case we want to know where CMake is looking for packages
 #set(CMAKE_FIND_DEBUG_MODE 1)
 
@@ -103,8 +109,12 @@ else()
                       -finput-charset=UTF-8
                       -fexec-charset=UTF-8)
   # link statically with the compiler C runtime
-  # add_link_options(-static -static-libgcc -static-libstdc++)
-  add_link_options(-static -lstdc++exp)
+  if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU" OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
+    add_link_options(-static-libgcc -static-libstdc++)
+  endif()
+  if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    add_link_options(-static -lstdc++exp)
+  endif()
 endif(MSVC)
 
 # where to produce executables and libraries
@@ -179,7 +189,7 @@ set(Boost_NO_SYSTEM_PATHS ON)
 
 
 # specify which libraries to link with and corresponding include files
-find_package(Boost CONFIG 1.88.0 REQUIRED COMPONENTS unit_test_framework)
+find_package(Boost CONFIG 1.89.0 REQUIRED COMPONENTS unit_test_framework)
 include_directories(${Boost_INCLUDE_DIRS})
 target_link_libraries(unitTests PRIVATE ${Boost_UNIT_TEST_FRAMEWORK_LIBRARY})
 
@@ -330,7 +340,7 @@ if(MSVC)
 # https://sourceforge.net/p/mingw-w64/mailman/mingw-w64-public/thread/575d13dd.430ac20a.33013.1aa0@mx.google.com/
 ################################################################################
 else()
-  target_link_libraries(mainLib PRIVATE "-lpsapi -pthread -lstdc++exp")
+  target_link_libraries(mainLib PRIVATE "-lpsapi -pthread")
   #target_link_libraries(phud PRIVATE -mwindows)
   add_definitions(-DWIN32)
 endif(MSVC)
