@@ -1,5 +1,6 @@
 *.db
+.claude/
+.idea/
 build-*/
 phud.7z
 src/test/resources/*.db
-.idea/
