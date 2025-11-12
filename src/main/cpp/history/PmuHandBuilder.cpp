@@ -1,445 +1,440 @@
-#include "constants/ProgramInfos.hpp"
-#include "entities/Action.hpp"
-#include "entities/Card.hpp"
-#include "entities/GameType.hpp"
-#include "entities/Hand.hpp" // Time
-#include "entities/Player.hpp"
-#include "entities/Seat.hpp"
-#include "history/GameData.hpp"
-#include "history/PmuHandBuilder.hpp"
-#include "history/PokerSiteHandBuilder.hpp" // ProgramInfos
-#include "filesystem/TextFile.hpp"
-#include "language/Validator.hpp"
-#include "language/limits.hpp" // toInt
-#include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "strings/StringUtils.hpp"
-#include "threads/PlayerCache.hpp"
-#include <cctype> // std::isdigit
-#include <optional>
-#include <string_view>
+// #include "constants/ProgramInfos.hpp"
+// #include "entities/Action.hpp"
+// #include "entities/Card.hpp"
+// #include "entities/GameType.hpp"
+// #include "entities/Hand.hpp" // Time
+// #include "entities/Player.hpp"
+// #include "entities/Seat.hpp"
+// #include "history/GameData.hpp"
+// #include "history/PmuHandBuilder.hpp"
+// #include "history/PokerSiteHandBuilder.hpp" // ProgramInfos
+// #include "filesystem/TextFile.hpp"
+// #include "language/Validator.hpp"
+// #include "language/limits.hpp" // toInt
+// #include "log/Logger.hpp" // CURRENT_FILE_NAME
+// #include "strings/StringUtils.hpp"
+// #include "threads/PlayerCache.hpp"
+// #include <cctype> // std::isdigit
+// #include <optional>
+// #include <string_view>
 
-static Logger& LOG() {
-  static Logger logger { CURRENT_FILE_NAME };
-  return logger;
-}
+// static Logger& LOG() {
+  // static Logger logger { CURRENT_FILE_NAME };
+  // return logger;
+// }
 
-namespace ps = phud::strings;
+// namespace ps = phud::strings;
 
-static constexpr auto HAND_HISTORY_FOR_GAME_SIZE { ps::length("***** Hand History for Game ") };
+// namespace {
+  // struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat final {
+    // int m_nbMaxSeats;
+    // std::string m_tableName;
+    // int m_buttonSeat;
+  // };
+  
+  // constexpr auto TABLE_LENGTH { ps::length("Table ") };
+  // constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
+  // constexpr auto HAND_HISTORY_FOR_GAME_SIZE { ps::length("***** Hand History for Game ") };
+  // constexpr auto SEAT_LENGTH { ps::length("Seat ") };
+  // constexpr std::array FIVE_NONE_CARDS { Card::none, Card::none, Card::none, Card::none, Card::none };
+  // constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
 
-static void seekToHandStart(TextFile& tf) {
-  while (!tf.startsWith("***** Hand History for Game ")) { tf.next(); }
-}
+  
+  // std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& cards,
+                                    // const std::array<Card, 5>& previous) {
+    // switch (street) {
+    // case Street::none: [[fallthrough]];
+    // case Street::preflop: return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), previous.at(4) };
+    // case Street::flop: return { cards.at(0), cards.at(1), cards.at(2), previous.at(3), previous.at(4) };
+    // case Street::turn: return { previous.at(0), previous.at(1), previous.at(2), cards.at(3), previous.at(4) };
+    // case Street::river: return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), cards.at(4) };
+    // }
 
-static void seekToDealingDownCards(TextFile& tf) {
-  while (!tf.startsWith("** Dealing down cards **")) { tf.next(); }
-}
+    // std::unreachable();
+  // }
 
-[[nodiscard]] static std::string readHandId(std::string_view line) {
-  return std::string { line.substr(HAND_HISTORY_FOR_GAME_SIZE, line.rfind(" *****") - HAND_HISTORY_FOR_GAME_SIZE) };
-}
 
-[[nodiscard]] bool isDigit(const auto& someGenericChar) { return 0 != std::isdigit(someGenericChar); }
+// #if 0 // WIP - Function not yet used
+  //nbMaxSeats, tableName, buttonSeat
+  // NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
+    // tf.next();
+    // const auto& line { tf.getLine() };
+    // LOG().debug<"Parsing table line {}.">(line);
+    /*Table: 'Frankfurt 11' 9-max (real money) Seat #2 is the button
+    Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
+    ^Table: '(.*)' (.*)-max .* Seat #(.*) is the button$*/
+    // const auto pos { line.find("' ", TABLE_LENGTH) };
+    // const auto& tableName { ps::sanitize(line.substr(TABLE_LENGTH, pos - TABLE_LENGTH)) };
+    // const auto nbMaxSeats { ps::toInt(line.substr(pos + 2, line.find("-max") - pos - 2)) };
+    // const auto posSharp { line.find(" Seat #") + SEAT_NB_LENGTH };
+    // const auto& buttonSeatStr { line.substr(posSharp, line.find(" is the button") - posSharp) };
+    // const auto buttonSeat { ps::toInt(buttonSeatStr) };
 
-struct [[nodiscard]] InfosFromCashGamePmuPokerLine final {
-  double m_smallBlind;
-  double m_bigBlind;
-  Time m_startDate;
-  Limit m_limit;
-  Variant m_variant;
-};
+    // if (line.starts_with("Seat ")) { throw PhudException("a Table line should start with 'Seat '"); }
 
-// smallBlind, bigBlind, startDate, limit, variant
-[[nodiscard]] static InfosFromCashGamePmuPokerLine
-getInfosFromCashGamePmuPokerLine(std::string_view line) {
-  // €0.01/€0.02 EUR NL Texas Hold'em - Tuesday, September 21, 10:45:33 CEST 2021
-  const auto smallBlindPos { line.find_first_of(".0123456789", 1) };
-  const auto bigBlindPos { line.find_first_of(".0123456789", line.find('/') + 1) };
-  const auto smallBlind { ps::toAmount(line.substr(smallBlindPos, bigBlindPos - smallBlindPos - 1)) };
-  const auto bigBlind { ps::toAmount(line.substr(bigBlindPos, line.find(' '))) };
-  const auto limit { ps::contains(line, " NL ") ? Limit::noLimit : Limit::potLimit };
-  const auto variant { ps::contains(line, " Texas Hold'em ") ? Variant::holdem : Variant::omaha };
-  std::string dateStr { line.substr(line.find(" - ") + ps::length(" - ")) };
-  // remove the timezone as it is not parsable as of today
-  const auto lastSpacePos { dateStr.rfind(' ') };
-  const auto secondLastSpacePos { dateStr.rfind(' ', lastSpacePos - 1) };
-  dateStr.replace(secondLastSpacePos, lastSpacePos - secondLastSpacePos, "");
-  const Time date({ .strTime = dateStr, .format = PMU_HISTORY_TIME_FORMAT });
-  return {
-    .m_smallBlind = smallBlind, .m_bigBlind = bigBlind, .m_startDate = date, .m_limit = limit, .m_variant = variant
-  };
-}
+    // tf.next();
+    // return { .m_nbMaxSeats = nbMaxSeats, .m_tableName = tableName, .m_buttonSeat = buttonSeat };
+  // }
+// #endif // WIP
+// } // anonymous namespace
 
-static constexpr auto TABLE_LENGTH { ps::length("Table ") };
+// static void seekToHandStart(TextFile& tf) {
+  // while (!tf.startsWith("***** Hand History for Game ")) { tf.next(); }
+// }
 
-// tableName, isRealMoney
-[[nodiscard]] static std::pair<std::string, bool> parseTableLine(std::string_view line) {
-  const std::string tableName { line.substr(TABLE_LENGTH, line.find(" (") - TABLE_LENGTH) };
-  return { tableName, line.ends_with("(Real Money)") };
-}
+// static void seekToDealingDownCards(TextFile& tf) {
+  // while (!tf.startsWith("** Dealing down cards **")) { tf.next(); }
+// }
 
-static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
+// [[nodiscard]] static std::string readHandId(std::string_view line) {
+  // return std::string { line.substr(HAND_HISTORY_FOR_GAME_SIZE, line.rfind(" *****") - HAND_HISTORY_FOR_GAME_SIZE) };
+// }
 
-[[nodiscard]] static Seat parseButtonSeatLine(std::string_view line) {
-  return tableSeat::fromString(line.substr(SEAT_LENGTH,
-                                           line.find(" is the button") - SEAT_LENGTH));
-}
+// [[nodiscard]] bool isDigit(const auto& someGenericChar) { return 0 != std::isdigit(someGenericChar); }
 
-[[nodiscard]] static Seat parseTotalNumberOfPlayersLine(std::string_view line) {
-  return tableSeat::fromString(line.substr(line.find('/') + 1));
-}
+// struct [[nodiscard]] InfosFromCashGamePmuPokerLine final {
+  // double m_smallBlind;
+  // double m_bigBlind;
+  // Time m_startDate;
+  // Limit m_limit;
+  // Variant m_variant;
+// };
+
+//smallBlind, bigBlind, startDate, limit, variant
+// [[nodiscard]] static InfosFromCashGamePmuPokerLine
+// getInfosFromCashGamePmuPokerLine(std::string_view line) {
+  //€0.01/€0.02 EUR NL Texas Hold'em - Tuesday, September 21, 10:45:33 CEST 2021
+  // const auto smallBlindPos { line.find_first_of(".0123456789", 1) };
+  // const auto bigBlindPos { line.find_first_of(".0123456789", line.find('/') + 1) };
+  // const auto smallBlind { ps::toAmount(line.substr(smallBlindPos, bigBlindPos - smallBlindPos - 1)) };
+  // const auto bigBlind { ps::toAmount(line.substr(bigBlindPos, line.find(' '))) };
+  // const auto limit { ps::contains(line, " NL ") ? Limit::noLimit : Limit::potLimit };
+  // const auto variant { ps::contains(line, " Texas Hold'em ") ? Variant::holdem : Variant::omaha };
+  // std::string dateStr { line.substr(line.find(" - ") + ps::length(" - ")) };
+  //remove the timezone as it is not parsable as of today
+  // const auto lastSpacePos { dateStr.rfind(' ') };
+  // const auto secondLastSpacePos { dateStr.rfind(' ', lastSpacePos - 1) };
+  // dateStr.replace(secondLastSpacePos, lastSpacePos - secondLastSpacePos, "");
+  // const Time date({ .strTime = dateStr, .format = PMU_HISTORY_TIME_FORMAT });
+  // return {
+    // .m_smallBlind = smallBlind, .m_bigBlind = bigBlind, .m_startDate = date, .m_limit = limit, .m_variant = variant
+  // };
+// }
+
+//tableName, isRealMoney
+// [[nodiscard]] static std::pair<std::string, bool> parseTableLine(std::string_view line) {
+  // const std::string tableName { line.substr(TABLE_LENGTH, line.find(" (") - TABLE_LENGTH) };
+  // return { tableName, line.ends_with("(Real Money)") };
+// }
+
+// [[nodiscard]] static Seat parseButtonSeatLine(std::string_view line) {
+  // return tableSeat::fromString(line.substr(SEAT_LENGTH,
+                                           // line.find(" is the button") - SEAT_LENGTH));
+// }
+
+// [[nodiscard]] static Seat parseTotalNumberOfPlayersLine(std::string_view line) {
+  // return tableSeat::fromString(line.substr(line.find('/') + 1));
+// }
 
 // [[nodiscard]] static long parseAnte(TextFile& /*tf*/) {
   // return 0; // TODO
+//}
+
+// [[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line,
+                                                    // std::string_view cardDelimiter) {
+  //[  Jd 3c ] (yep, 2 spaces) or [ 4h, 3h, Jh ] or [ Kh ]
+  // const auto pos { line.find_first_not_of(' ', line.rfind('[') + 1) };
+  // const auto strCards { line.substr(pos, line.rfind(" ]") - pos) };
+  // const auto& cardsStr { split(strCards, cardDelimiter) };
+  // std::array<Card, 5> ret {};
+  // std::ranges::transform(cardsStr, ret.begin(), toCard);
+  // return ret;
 // }
 
-[[nodiscard]] static std::array<Card, 5> parseCards(std::string_view line,
-                                                    std::string_view cardDelimiter) {
-  // [  Jd 3c ] (yep, 2 spaces) or [ 4h, 3h, Jh ] or [ Kh ]
-  const auto pos { line.find_first_not_of(' ', line.rfind('[') + 1) };
-  const auto strCards { line.substr(pos, line.rfind(" ]") - pos) };
-  const auto& cardsStr { split(strCards, cardDelimiter) };
-  std::array<Card, 5> ret {};
-  std::ranges::transform(cardsStr, ret.begin(), toCard);
-  return ret;
-}
+// [[nodiscard]] static constexpr std::array<Card, 5> parseHeroCards(std::string_view line,
+                                                                  // const PlayerCache& cache) {
+  //it is possible that hero is present at the table but do not play
+  // if (line.starts_with("Dealt to ")) {
+    //"^Dealt to (.*) \\[(.*)\\]$"
+    // const auto playerName { line.substr(DEALT_TO_LENGTH, line.find(' ', DEALT_TO_LENGTH) - DEALT_TO_LENGTH) };
+    // cache.setIsHero(playerName);
+    // return parseCards(line, " ");
+  // }
 
-static constexpr std::array FIVE_NONE_CARDS { Card::none, Card::none, Card::none, Card::none, Card::none };
-static constexpr auto DEALT_TO_LENGTH { ps::length("Dealt to ") };
+  // return FIVE_NONE_CARDS;
+// }
 
-[[nodiscard]] static constexpr std::array<Card, 5> parseHeroCards(std::string_view line,
-                                                                  const PlayerCache& cache) {
-  // it is possible that hero is present at the table but do not play
-  if (line.starts_with("Dealt to ")) {
-    // "^Dealt to (.*) \\[(.*)\\]$"
-    const auto playerName { line.substr(DEALT_TO_LENGTH, line.find(' ', DEALT_TO_LENGTH) - DEALT_TO_LENGTH) };
-    cache.setIsHero(playerName);
-    return parseCards(line, " ");
-  }
+// [[nodiscard]] static std::pair<Street, std::array<Card, 5>> parseStreet(
+  // std::string_view line) {
+  // if (line.starts_with("** Dealing Flop **")) {
+    // return { Street::flop, parseCards(line, ", ") };
+  // }
+  // if (line.starts_with("** Dealing Turn **")) {
+    // auto cards { parseCards(line, " ") };
+    // std::rotate(cards.rbegin(), cards.rbegin() + 3, cards.rend());
+    // return { Street::turn, cards };
+  // }
+  // if (line.starts_with("** Dealing River **")) {
+    // auto cards { parseCards(line, " ") };
+    // std::rotate(cards.rbegin(), cards.rbegin() + 4, cards.rend());
+    // return { Street::river, cards };
+  // }
 
-  return FIVE_NONE_CARDS;
-}
+  // return { Street::preflop, FIVE_NONE_CARDS };
+// }
 
-[[nodiscard]] static std::pair<Street, std::array<Card, 5>> parseStreet(
-  std::string_view line) {
-  if (line.starts_with("** Dealing Flop **")) {
-    return { Street::flop, parseCards(line, ", ") };
-  }
-  if (line.starts_with("** Dealing Turn **")) {
-    auto cards { parseCards(line, " ") };
-    std::rotate(cards.rbegin(), cards.rbegin() + 3, cards.rend());
-    return { Street::turn, cards };
-  }
-  if (line.starts_with("** Dealing River **")) {
-    auto cards { parseCards(line, " ") };
-    std::rotate(cards.rbegin(), cards.rbegin() + 4, cards.rend());
-    return { Street::river, cards };
-  }
+// struct [[nodiscard]] LineForActionParams final {
+  // std::string_view m_playerName;
+  // ActionType m_type;
+  // double m_bet;
+// };
 
-  return { Street::preflop, FIVE_NONE_CARDS };
-}
+// [[nodiscard]] static std::optional<LineForActionParams>
+// parseLineForActionParams(std::string_view line) {
+  // std::optional<LineForActionParams> ret {};
 
-struct [[nodiscard]] LineForActionParams final {
-  std::string_view m_playerName;
-  ActionType m_type;
-  double m_bet;
-};
+  //TODO factoriser
+  // if (line.ends_with(" folds")) {
+    // ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::fold, .m_bet = 0.0 };
+  // }
+  // else if (line.ends_with(" checks")) {
+    // ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::check, .m_bet = 0.0 };
+  // }
+  // else if (ps::contains(line, " calls ")) {
+    // ret = {
+      // .m_playerName = line.substr(0, line.find(" calls ")), .m_type = ActionType::call,
+      // .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
+    // };
+  // }
+  // else if (ps::contains(line, " bets ")) {
+    // ret = {
+      // .m_playerName = line.substr(0, line.find(" bets ")), .m_type = ActionType::bet,
+      // .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
+    // };
+  // }
+  // else if (ps::contains(line, " raises ")) {
+    // ret = {
+      // .m_playerName = line.substr(0, line.find(" raises ")), .m_type = ActionType::raise,
+      // .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
+    // };
+  // }
+  // else if (ps::contains(line, " is all-In ")) {
+    // ret = {
+      // .m_playerName = line.substr(0, line.find(" is all-In ")), .m_type = ActionType::raise,
+      // .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
+    // };
+  // }
 
-[[nodiscard]] static std::optional<LineForActionParams>
-parseLineForActionParams(std::string_view line) {
-  std::optional<LineForActionParams> ret {};
+  // return ret;
+// }
 
-  // TODO factoriser
-  if (line.ends_with(" folds")) {
-    ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::fold, .m_bet = 0.0 };
-  }
-  else if (line.ends_with(" checks")) {
-    ret = { .m_playerName = line.substr(0, line.rfind(' ')), .m_type = ActionType::check, .m_bet = 0.0 };
-  }
-  else if (ps::contains(line, " calls ")) {
-    ret = {
-      .m_playerName = line.substr(0, line.find(" calls ")), .m_type = ActionType::call,
-      .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
-    };
-  }
-  else if (ps::contains(line, " bets ")) {
-    ret = {
-      .m_playerName = line.substr(0, line.find(" bets ")), .m_type = ActionType::bet,
-      .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
-    };
-  }
-  else if (ps::contains(line, " raises ")) {
-    ret = {
-      .m_playerName = line.substr(0, line.find(" raises ")), .m_type = ActionType::raise,
-      .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
-    };
-  }
-  else if (ps::contains(line, " is all-In ")) {
-    ret = {
-      .m_playerName = line.substr(0, line.find(" is all-In ")), .m_type = ActionType::raise,
-      .m_bet = ps::toAmount(line.substr(line.find_first_of(".0123456789"), line.rfind(' ')))
-    };
-  }
+// static constexpr std::array<std::string_view, 8> ACTION_TOKENS {
+  // " folds", " checks", " bets ", " calls ", " raises ", " is all-In ", " shows ", " doesn't show "
+// };
 
-  return ret;
-}
+// [[nodiscard]] static std::vector<std::unique_ptr<Action>>
+// parseActions(TextFile& tf, Street street, std::string_view handId) {
+  // std::vector<std::unique_ptr<Action>> actions;
 
-static constexpr std::array<std::string_view, 8> ACTION_TOKENS {
-  " folds", " checks", " bets ", " calls ", " raises ", " is all-In ", " shows ", " doesn't show "
-};
+  // while (tf.containsOneOf(ACTION_TOKENS)) {
+    // const auto& line { tf.getLine() };
 
-[[nodiscard]] static std::vector<std::unique_ptr<Action>>
-parseActions(TextFile& tf, Street street, std::string_view handId) {
-  std::vector<std::unique_ptr<Action>> actions;
+    // if (const auto& oActionParams { parseLineForActionParams(line) }; oActionParams.has_value()) {
+      // const auto [playerName, type, bet] { oActionParams.value() };
+      // actions.push_back(std::make_unique<Action>(Action::Params {
+        // .handId = handId,
+        // .playerName = playerName,
+        // .street = street,
+        // .type = type,
+        // .actionIndex = actions.size(),
+        // .betAmount = bet
+      // }));
+    // }
 
-  while (tf.containsOneOf(ACTION_TOKENS)) {
-    const auto& line { tf.getLine() };
+    // tf.next(); // nothing to do for 'shows' action
+  // }
 
-    if (const auto& oActionParams { parseLineForActionParams(line) }; oActionParams.has_value()) {
-      const auto [playerName, type, bet] { oActionParams.value() };
-      actions.push_back(std::make_unique<Action>(Action::Params {
-        .handId = handId,
-        .playerName = playerName,
-        .street = street,
-        .type = type,
-        .actionIndex = actions.size(),
-        .betAmount = bet
-      }));
-    }
+  // return actions;
+// }
 
-    tf.next(); // nothing to do for 'shows' action
-  }
+// [[nodiscard]] static std::array<std::string, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
+  // std::array<std::string, TableConstants::MAX_SEATS> winners;
+  // auto pos { std::string::npos };
+  // std::size_t i { 0 };
 
-  return actions;
-}
+  // while (std::string::npos != (pos = tf.find(" wins "))) {
+    // winners.at(i++) = tf.getLine().substr(0, pos);
+    // tf.next();
+  // }
 
-[[nodiscard]] static std::array<std::string, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
-  std::array<std::string, TableConstants::MAX_SEATS> winners;
-  auto pos { std::string::npos };
-  std::size_t i { 0 };
+  // return winners;
+// }
 
-  while (std::string::npos != (pos = tf.find(" wins "))) {
-    winners.at(i++) = tf.getLine().substr(0, pos);
-    tf.next();
-  }
+// [[nodiscard]] static std::vector<std::unique_ptr<Action>>
+// createActionForWinnersWithoutAction(
+  // std::span<const std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street,
+  // std::string_view handId) {
+  // std::vector<std::unique_ptr<Action>> ret;
+  // std::ranges::for_each(winners, [&](std::string_view winner) {
+    // if (!winner.empty() and (std::end(actions) == std::ranges::find_if(actions,
+                                                                       // [&](auto& pAction) {
+                                                                         // return winner == pAction->getPlayerName();
+                                                                       // }))) {
+      // ret.push_back(std::make_unique<Action>(Action::Params {
+        // .handId = handId,
+        // .playerName = winner,
+        // .street = street,
+        // .type = ActionType::none,
+        // .actionIndex = actions.size() + ret.size(),
+        // .betAmount = 0.0
+      // }));
+    // }
+  // });
+  // return ret;
+// }
 
-  return winners;
-}
+// struct [[nodiscard]] ActionsAndWinnersAndBoardCards final {
+  // std::vector<std::unique_ptr<Action>> m_actions;
+  // std::array<std::string, TableConstants::MAX_SEATS> m_winners;
+  // std::array<Card, TableConstants::MAX_CARDS> m_boardCards;
+// };
 
-[[nodiscard]] static std::vector<std::unique_ptr<Action>>
-createActionForWinnersWithoutAction(
-  std::span<const std::string> winners, std::span<std::unique_ptr<Action>> actions, Street street,
-  std::string_view handId) {
-  std::vector<std::unique_ptr<Action>> ret;
-  std::ranges::for_each(winners, [&](std::string_view winner) {
-    if (!winner.empty() and (std::end(actions) == std::ranges::find_if(actions,
-                                                                       [&](auto& pAction) {
-                                                                         return winner == pAction->getPlayerName();
-                                                                       }))) {
-      ret.push_back(std::make_unique<Action>(Action::Params {
-        .handId = handId,
-        .playerName = winner,
-        .street = street,
-        .type = ActionType::none,
-        .actionIndex = actions.size() + ret.size(),
-        .betAmount = 0.0
-      }));
-    }
-  });
-  return ret;
-}
+//actions, winners,board cards
+// [[nodiscard]] static ActionsAndWinnersAndBoardCards
+// parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
+  // LOG().debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
+  // std::vector<std::unique_ptr<Action>> actions;
+  // auto boardCards { FIVE_NONE_CARDS };
+  // auto lastStreet { Street::none };
 
-std::array<Card, 5> getBoardCards(Street street, const std::array<Card, 5>& cards,
-                                  const std::array<Card, 5>& previous) {
-  switch (street) {
-  case Street::none: [[fallthrough]];
-  case Street::preflop: {
-    return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), previous.at(4) };
-  }
-  case Street::flop: {
-    return { cards.at(0), cards.at(1), cards.at(2), previous.at(3), previous.at(4) };
-  }
-  case Street::turn: {
-    return { previous.at(0), previous.at(1), previous.at(2), cards.at(3), previous.at(4) };
-  }
-  case Street::river: {
-    return { previous.at(0), previous.at(1), previous.at(2), previous.at(3), cards.at(4) };
-  }
-  default: { validation::require(false, "Unknown street !!!"); }
-  }
+  // while (!tf.contains(" wins ")) {
+    // const auto& [currentStreet, streetCards] { parseStreet(tf.getLine()) };
 
-  std::unreachable();
-}
+    // if (Street::preflop != currentStreet) {
+      // boardCards = getBoardCards(currentStreet, streetCards, boardCards);
+    // }
 
-struct [[nodiscard]] ActionsAndWinnersAndBoardCards final {
-  std::vector<std::unique_ptr<Action>> m_actions;
-  std::array<std::string, TableConstants::MAX_SEATS> m_winners;
-  std::array<Card, TableConstants::MAX_CARDS> m_boardCards;
-};
+    // tf.next();
+    // auto currentActions { parseActions(tf, currentStreet, handId) };
+    // std::ranges::move(currentActions, std::back_inserter(actions));
+    // lastStreet = currentStreet;
+  // }
 
-// actions, winners,board cards
-[[nodiscard]] static ActionsAndWinnersAndBoardCards
-parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
-  LOG().debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
-  std::vector<std::unique_ptr<Action>> actions;
-  auto boardCards { FIVE_NONE_CARDS };
-  auto lastStreet { Street::none };
+  // const auto& winners { parseWinners(tf) };
+  // auto additionalActions { createActionForWinnersWithoutAction(winners, actions, lastStreet, handId) };
+  // std::ranges::move(additionalActions, std::back_inserter(actions));
+  // return { .m_actions = std::move(actions), .m_winners = winners, .m_boardCards = boardCards };
+// }
 
-  while (!tf.contains(" wins ")) {
-    const auto& [currentStreet, streetCards] { parseStreet(tf.getLine()) };
-
-    if (Street::preflop != currentStreet) {
-      boardCards = getBoardCards(currentStreet, streetCards, boardCards);
-    }
-
-    tf.next();
-    auto currentActions { parseActions(tf, currentStreet, handId) };
-    std::ranges::move(currentActions, std::back_inserter(actions));
-    lastStreet = currentStreet;
-  }
-
-  const auto& winners { parseWinners(tf) };
-  auto additionalActions { createActionForWinnersWithoutAction(winners, actions, lastStreet, handId) };
-  std::ranges::move(additionalActions, std::back_inserter(actions));
-  return { .m_actions = std::move(actions), .m_winners = winners, .m_boardCards = boardCards };
-}
-
-static constexpr auto SEAT_NB_LENGTH { ps::length(" Seat #") };
-
-struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat final {
-  int m_nbMaxSeats;
-  std::string m_tableName;
-  int m_buttonSeat;
-};
-
-// nbMaxSeats, tableName, buttonSeat
-NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
-  tf.next();
-  const auto& line { tf.getLine() };
-  LOG().debug<"Parsing table line {}.">(line);
-  // Table: 'Frankfurt 11' 9-max (real money) Seat #2 is the button
-  // Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
-  // ^Table: '(.*)' (.*)-max .* Seat #(.*) is the button$
-  const auto pos { line.find("' ", TABLE_LENGTH) };
-  const auto& tableName { ps::sanitize(line.substr(TABLE_LENGTH, pos - TABLE_LENGTH)) };
-  const auto nbMaxSeats { ps::toInt(line.substr(pos + 2, line.find("-max") - pos - 2)) };
-  const auto posSharp { line.find(" Seat #") + SEAT_NB_LENGTH };
-  const auto& buttonSeatStr { line.substr(posSharp, line.find(" is the button") - posSharp) };
-  const auto buttonSeat { ps::toInt(buttonSeatStr) };
-
-  if (line.starts_with("Seat ")) { throw PhudException("a Table line should start with 'Seat '"); }
-
-  tf.next();
-  return { .m_nbMaxSeats = nbMaxSeats, .m_tableName = tableName, .m_buttonSeat = buttonSeat };
-}
-
-template <GameType gameType>
-[[nodiscard]] static std::unique_ptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
-                                                   int level, const Time& date, std::string_view handId) {
-  LOG().debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
-  const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
-  const auto& seatPlayers { parseSeats(tf, cache) };
+// #if 0 // WIP - Template function not yet used
+// template <GameType gameType>
+// [[nodiscard]] static std::unique_ptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
+                                                   // int level, const Time& date, std::string_view handId) {
+  // LOG().debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
+  // const auto& [nbMaxSeats, tableName, buttonSeat] { getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) };
+  // const auto& seatPlayers { parseSeats(tf, cache) };
   //const auto ante { parseAnte(tf) };
-  const long ante { 0 };
-  const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
-  auto [actions, winners, boardCards] { std::move(parseActionsAndWinnersAndBoardCards(tf, handId)) };
-  LOG().debug<"nb actions={}">(actions.size());
-  Hand::Params params {
-    .id = handId, .gameType = gameType, .siteName = ProgramInfos::PMU_SITE_NAME,
-    .tableName = tableName, .buttonSeat = tableSeat::fromInt(buttonSeat), .maxSeats = tableSeat::fromInt(nbMaxSeats), .level = level,
-    .ante = ante, .startDate = date, .seatPlayers = seatPlayers, .heroCards = heroCards,
-    .boardCards = boardCards, .actions = std::move(actions), .winners = winners
-  };
-  return std::make_unique<Hand>(params);
-}
+  // const long ante { 0 };
+  // const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
+  // auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
+  // LOG().debug<"nb actions={}">(actions.size());
+  // Hand::Params params {
+    // .id = handId, .gameType = gameType, .siteName = ProgramInfos::PMU_SITE_NAME,
+    // .tableName = tableName, .buttonSeat = tableSeat::fromInt(buttonSeat), .maxSeats = tableSeat::fromInt(nbMaxSeats), .level = level,
+    // .ante = ante, .startDate = date, .seatPlayers = seatPlayers, .heroCards = heroCards,
+    // .boardCards = boardCards, .actions = std::move(actions), .winners = winners
+  // };
+  // return std::make_unique<Hand>(params);
+// }
+// #endif // WIP
 
-std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
-  LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
-  seekToHandStart(tf);
-  const auto handId { readHandId(tf.getLine()) };
-  tf.next();
-  const auto& [_1, _2, startDate, _3, _4] { getInfosFromCashGamePmuPokerLine(tf.getLine()) }; // TODO simplify
-  tf.next();
-  const auto& [tableName, _5] { parseTableLine(tf.getLine()) }; // TODO unneeded
-  tf.next();
-  const auto buttonSeat { parseButtonSeatLine(tf.getLine()) };
-  tf.next();
-  const auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) }; // TODO unneeded
-  tf.next();
-  const auto& seatPlayers { parseSeats(tf, pc) };
-  std::ranges::for_each(seatPlayers, [&pc](const auto& p) { if (!p.empty()) { pc.addIfMissing(p); } });
-  seekToDealingDownCards(tf);
-  tf.next();
-  const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
-  auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
-  LOG().debug<"nb actions={}">(actions.size());
-  Hand::Params p {
-    .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
-    .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate,
-    .seatPlayers = seatPlayers,
-    .heroCards = heroCards, .boardCards = boardCards, .actions = std::move(actions), .winners = winners
-  };
-  return std::make_unique<Hand>(p);
-}
+// std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
+  // LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
+  // seekToHandStart(tf);
+  // const auto handId { readHandId(tf.getLine()) };
+  // tf.next();
+  // const auto& [_1, _2, startDate, _3, _4] { getInfosFromCashGamePmuPokerLine(tf.getLine()) }; // TODO simplify
+  // tf.next();
+  // const auto& [tableName, _5] { parseTableLine(tf.getLine()) }; // TODO unneeded
+  // tf.next();
+  // const auto buttonSeat { parseButtonSeatLine(tf.getLine()) };
+  // tf.next();
+  // const auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) }; // TODO unneeded
+  // tf.next();
+  // const auto& seatPlayers { parseSeats(tf, pc) };
+  // std::ranges::for_each(seatPlayers, [&pc](const auto& p) { if (!p.empty()) { pc.addIfMissing(p); } });
+  // seekToDealingDownCards(tf);
+  // tf.next();
+  // const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
+  // auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
+  // LOG().debug<"nb actions={}">(actions.size());
+  // Hand::Params p {
+    // .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
+    // .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate,
+    // .seatPlayers = seatPlayers,
+    // .heroCards = heroCards, .boardCards = boardCards, .actions = std::move(actions), .winners = winners
+  // };
+  // return std::make_unique<Hand>(p);
+// }
 
-std::unique_ptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/,
-                                                          PlayerCache& /*cache*/) {
-  // not implemented
-  return nullptr;
-}
+// std::unique_ptr<Hand> PmuHandBuilder::buildTournamentHand(TextFile& /*tf*/,
+                                                          // PlayerCache& /*cache*/) {
+  //not implemented
+  // return nullptr;
+// }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
-PmuHandBuilder::buildCashgameHandAndGameData(
-  TextFile& tf,
-  PlayerCache& pc) {
-  LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
-  seekToHandStart(tf);
-  tf.next(); // during the 1rst hand, we don't know the names of our opponents
-  seekToHandStart(tf);
-  const auto handId { readHandId(tf.getLine()) };
-  tf.next();
-  const auto& [smallBlind, bigBlind, startDate, limit, variant] { getInfosFromCashGamePmuPokerLine(tf.getLine()) };
-  tf.next();
-  const auto& [tableName, isRealMoney] { parseTableLine(tf.getLine()) };
-  tf.next();
-  const auto buttonSeat { parseButtonSeatLine(tf.getLine()) };
-  tf.next();
-  const auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) };
-  tf.next();
-  const auto& seatPlayers { parseSeats(tf, pc) };
-  seekToDealingDownCards(tf);
-  tf.next();
-  const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
-  auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
-  LOG().debug<"nb actions={}">(actions.size());
-  Hand::Params params {
-    .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
-    .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate,
-    .seatPlayers = seatPlayers,
-    .heroCards = heroCards, .boardCards = boardCards, .actions = std::move(actions), .winners = winners
-  };
-  auto pHand { std::make_unique<Hand>(params) };
-  auto pGameData {
-    std::make_unique<GameData>(GameData::Args {
-      .nbMaxSeats = pHand->getMaxSeats(), .smallBlind = smallBlind, .bigBlind = bigBlind, .buyIn = 0,
-      .startDate = pHand->getStartDate()
-    })
-  };
-  pGameData->m_isRealMoney = isRealMoney;
-  pGameData->m_tableName = tableName;
-  pGameData->m_gameName = tableName;
-  pGameData->m_variant = variant;
-  pGameData->m_limit = limit;
-  return { std::move(pHand), std::move(pGameData) };
-}
+// std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
+// PmuHandBuilder::buildCashgameHandAndGameData(
+  // TextFile& tf,
+  // PlayerCache& pc) {
+  // LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
+  // seekToHandStart(tf);
+  // tf.next(); // during the 1rst hand, we don't know the names of our opponents
+  // seekToHandStart(tf);
+  // const auto handId { readHandId(tf.getLine()) };
+  // tf.next();
+  // const auto& [smallBlind, bigBlind, startDate, limit, variant] { getInfosFromCashGamePmuPokerLine(tf.getLine()) };
+  // tf.next();
+  // const auto& [tableName, isRealMoney] { parseTableLine(tf.getLine()) };
+  // tf.next();
+  // const auto buttonSeat { parseButtonSeatLine(tf.getLine()) };
+  // tf.next();
+  // const auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) };
+  // tf.next();
+  // const auto& seatPlayers { parseSeats(tf, pc) };
+  // seekToDealingDownCards(tf);
+  // tf.next();
+  // const auto& heroCards { parseHeroCards(tf.getLine(), pc) };
+  // auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
+  // LOG().debug<"nb actions={}">(actions.size());
+  // Hand::Params params {
+    // .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName = tableName,
+    // .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate = startDate,
+    // .seatPlayers = seatPlayers,
+    // .heroCards = heroCards, .boardCards = boardCards, .actions = std::move(actions), .winners = winners
+  // };
+  // auto pHand { std::make_unique<Hand>(params) };
+  // auto pGameData {
+    // std::make_unique<GameData>(GameData::Args {
+      // .nbMaxSeats = pHand->getMaxSeats(), .smallBlind = smallBlind, .bigBlind = bigBlind, .buyIn = 0,
+      // .startDate = pHand->getStartDate()
+    // })
+  // };
+  // pGameData->m_isRealMoney = isRealMoney;
+  // pGameData->m_tableName = tableName;
+  // pGameData->m_gameName = tableName;
+  // pGameData->m_variant = variant;
+  // pGameData->m_limit = limit;
+  // return { std::move(pHand), std::move(pGameData) };
+// }
 
-std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
-PmuHandBuilder::buildTournamentHandAndGameData(
-  TextFile& /*tf*/,
-  PlayerCache& /*cache*/) {
+// std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
+// PmuHandBuilder::buildTournamentHandAndGameData(
+  // TextFile& /*tf*/,
+  // PlayerCache& /*cache*/) {
   //LOG().debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   //const auto& [buyIn, level, date, handId] { getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) };
   //auto pHand { getHand<GameType::tournament>(tf, pc, level, date, handId) };
   //return { std::move(pHand), std::make_unique<GameData>(pHand->getStartDate(), buyIn, 0, 0, pHand->getMaxSeats()) };
-  return { nullptr, nullptr };
-}
+  // return { nullptr, nullptr };
+// }

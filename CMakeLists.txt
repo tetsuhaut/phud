@@ -84,14 +84,16 @@ elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang") AND (CMAKE_CXX_SIMULATE_ID STREQU
   add_link_options(--target=x86_64-pc-windows-msvc)
   # compiling with clang + MSVC
   # compile with lots of warnings
-  add_compile_options(-Wall # most common warnings
+  add_compile_options(/W4
+                      -Wall # most common warnings
                       -Wextra # additionnal warnings
                       -Wpedantic # unnecessary warnings
                       -Weverything # in addition, all of the Clang warnings
                       -Wno-c++98-compat # disable C++98 compatibility warnings
                       -Wno-c++98-compat-pedantic # disable C++98 compatibility warnings
                       -Wno-padded # disable padding warnings as too verbose
-                      -Wno-switch-default) # disable switch default warning for enums with all cases covered
+                      -Wno-switch-default # disable switch default warning for enums with all cases covered
+                      /sdl)
   # link statically with the compiler C runtime
   set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
 elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQUAL "GNU"))
@@ -128,6 +130,7 @@ elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQ
                       -fexec-charset=UTF-8
                       -finput-charset=UTF-8
                       -fno-elide-type
+                      -fsafe-buffer-usage-suggestions
                       -pedantic
                       -pedantic-errors)
 elseif(MINGW)
@@ -308,6 +311,9 @@ target_link_libraries(mainLib PRIVATE SQLite::SQLite3)
 # Note: we'll use fmt from this lib.
 # https://github.com/gabime/spdlog
 ################################################################################
+# Force spdlog to use static runtime library
+set(SPDLOG_USE_STD_FORMAT OFF)
+set(SPDLOG_FMT_EXTERNAL OFF)
 find_package(spdlog 1.15.3 REQUIRED)
 target_link_libraries(dbgen PRIVATE spdlog::spdlog)
 target_link_libraries(guiDryRun PRIVATE spdlog::spdlog)

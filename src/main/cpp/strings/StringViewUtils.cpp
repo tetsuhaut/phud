@@ -3,6 +3,7 @@
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 #include <charconv> // std::from_chars
+#include <span> // std::span
 #include <type_traits> // std::is_arithmetic_v, std::is_same_v
 #include <stdexcept> // std::invalid_argument
 
@@ -18,7 +19,9 @@ namespace {
     const auto& str { phud::strings::trim(s) };
     T result{};
     if (str.empty()) { return result; }
-    const auto [ptr, ec] { std::from_chars(str.data(), str.data() + str.size(), result) };
+    const std::span<const char> buffer { str.data(), str.size() };
+    const auto [ptr, ec] { std::from_chars(buffer.data(), buffer.data() + buffer.size(), result) };
+
     if (ec != std::errc{}) {
       throw std::invalid_argument(fmt::format("Failed to convert '{}' to {}", s, typeid(T).name()));
     }
@@ -69,8 +72,9 @@ std::string_view phud::strings::trim(std::string_view s) {
 double phud::strings::toDouble(std::string_view amount) {
   const auto str { phud::strings::trim(amount) };
   double ret { 0 };
+  const std::span<const char> buffer { str.data(), str.size() };
 
-  if (const auto& [ptr, ec] { std::from_chars(str.data(), str.data() + amount.size(), ret) };
+  if (const auto& [ptr, ec] { std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret) };
     ec == std::errc::result_out_of_range) {
     LOG().error<"phud::strings::toDouble({})">(amount);
     LOG().error<"amount in double: {}">(ret);

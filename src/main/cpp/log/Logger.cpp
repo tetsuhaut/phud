@@ -11,9 +11,10 @@ using LegacyLoggingLevel = spdlog::level::level_enum;
 
 namespace {
 // use a lazy singleton to avoid the static initialization fiasco
+// intentional leak to avoid exit-time destructor warning
 std::shared_ptr<spdlog::logger>& getGlobalLogger() {
-  static std::shared_ptr<spdlog::logger> instance;
-  return instance;
+  static auto* instance { new std::shared_ptr<spdlog::logger>() };
+  return *instance;
 }
 
 constexpr auto LEGACY_LOGGING_LEVEL_TO_LOGGING_LEVEL {

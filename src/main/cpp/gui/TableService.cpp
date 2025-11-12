@@ -48,12 +48,12 @@ struct [[nodiscard]] TableService::Implementation final {
                                                      std::shared_ptr<PokerSiteHistory> pokerSiteHistory, // NOLINT(*-unnecessary-value-param)
                                                      Database& database,
                                                      const fs::path& file,
-                                                     std::string_view table,
+                                                     std::string_view aTable,
                                                      const auto& observerCb) {
-    LOG().info<"Starting to watch history file: {} for table: {}">(file.string(), table);
+    LOG().info<"Starting to watch history file: {} for table: {}">(file.string(), aTable);
     auto fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
     fileWatcher->start(
-      [&reloadTask, &database, pokerSiteHistory, table = std::string(table), observerCb](const fs::path& f) {
+      [&reloadTask, &database, pokerSiteHistory, table = std::string(aTable), observerCb](const fs::path& f) {
         LOG().info<"File watcher triggered for: {}">(f.string());
         reloadTask = ThreadPool::submit([pokerSiteHistory, table, observerCb, f]() {
                        LOG().debug<"Notified, reloading the file\n{}">(f.string());

@@ -25,7 +25,8 @@ public:
   StatsProducer& operator=(StatsProducer&&) = delete;
   ~StatsProducer();
   /**
-   * Watches table data. Each time a new one is created put it in @statsQueue.
+   * Watches table data. Each time a new one is created put it in statsQueue.
+   * @statsQueue list of TableStatistics
    */
   void start(ThreadSafeQueue<TableStatistics>& statsQueue) const;
   void stop() const;

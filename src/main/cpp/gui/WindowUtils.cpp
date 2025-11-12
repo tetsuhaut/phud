@@ -3,7 +3,7 @@
 #include "language/limits.hpp"
 #include "language/Validator.hpp"
 #include "log/Logger.hpp"
-#include <psapi.h> // GetModuleFileNameEx
+#include <Psapi.h> // GetModuleFileNameEx
 #include <gsl/gsl>
 
 //static Logger& LOG() {

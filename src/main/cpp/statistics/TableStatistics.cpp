@@ -21,7 +21,7 @@ std::unique_ptr<PlayerStatistics> TableStatistics::extractPlayerStatistics(Seat 
   return std::exchange(m_tableStats.at(tableSeat::toArrayIndex(seat)), nullptr);
 }
 
-static const auto MAX_SEAT_TO_TABLE_SEATS {
+constexpr auto MAX_SEAT_TO_TABLE_SEATS {
   frozen::make_unordered_map<Seat, std::vector<Seat>>({
     {Seat::seatTwo, {Seat::seatOne, Seat::seatTwo}},
     {Seat::seatThree, {Seat::seatOne, Seat::seatTwo, Seat::seatThree}},
