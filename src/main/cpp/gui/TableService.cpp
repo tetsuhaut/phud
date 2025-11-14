@@ -13,6 +13,7 @@
 #include <stlab/concurrency/utility.hpp>
 #include <chrono>
 #include <filesystem>
+#include <optional>
 
 namespace fs = std::filesystem;
 
@@ -32,7 +33,7 @@ struct [[nodiscard]] TableService::Implementation final {
   explicit Implementation(Database& database)
     : m_database { database } {}
 
-  [[nodiscard]] static TableStatistics extractTableStatistics(const Database& database,
+  [[nodiscard]] static std::optional<TableStatistics> extractTableStatistics(const Database& database,
                                                               std::string_view table) {
     LOG().info<"Extracting table statistics for table: {}">(table);
     if (auto stats { database.readTableStatistics("Winamax", table) };
@@ -67,9 +68,14 @@ struct [[nodiscard]] TableService::Implementation final {
                        LOG().info<"in threadpool : Extracting table statistics for table: {}">(table);
                        return extractTableStatistics(database, table);
                      })
-                     .then([observerCb](TableStatistics&& ts) {
-                       LOG().info<"in threadpool : Notifying observer with table statistics">();
-                       notify(std::move(ts), observerCb);
+                     .then([observerCb](std::optional<TableStatistics>&& ots) {
+                        if (ots.has_value()) {
+                          LOG().info<"in threadpool : Notifying observer with table statistics">();
+                          notify(std::move(ots.value()), observerCb);
+                        }
+                        else {
+                          LOG().warn<"in threadpool : No statistics found">();
+                        }
                      });
       });
     return fileWatcher;

@@ -21,13 +21,6 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 namespace {
-  struct [[nodiscard]] FileStem final {
-    bool m_isRealMoney;
-    std::string m_gameName;
-    Variant m_variant;
-    Limit m_limit;
-  }; // struct FileStem
-
   [[nodiscard]] static constexpr Variant fileStemToVariant(std::string_view fileStem) noexcept {
     if (ps::contains(fileStem, "_holdem_")) { return Variant::holdem; }
 
@@ -47,39 +40,45 @@ namespace {
 
     return Limit::none;
   }
+} // anonymous namespace
 
-  // file: file name, without path and extension
-  // Fills gameData->m_gameName, gameData->m_isRealMoney, gameData->m_variant and gameData->m_limit
-  // should parse something like:
-  // 20141116_Double or Nothing(100679030)_real_holdem_no-limit
-  // 20150630_Super Freeroll Stade 1 - Déglingos _(123322389)_real_holdem_no-limit
-  // 20180304_Ferrare 04_real_omaha5_pot-limit
-  // 20170305_Memphis 06_play_omaha_pot-limit
-  // "\\d{ 8 }_(.*)_(real|play)?_(.*)_(.*)"
-  // exported for unit testing
-  /* static */
-  std::optional<FileStem> parseFileStem(std::string_view fileStem) {
-    LOG().info<"Parsing the file stem {}.">(fileStem);
-    FileStem ret {};
+struct [[nodiscard]] FileStem final {
+  bool m_isRealMoney;
+  std::string m_gameName;
+  Variant m_variant;
+  Limit m_limit;
+}; // struct FileStem
 
-    if (12 > fileStem.size()) {
-      LOG().error<"Couldn't parse the file stem '{}', too short!!!">(fileStem);
-      return ret;
-    }
+// file: file name, without path and extension
+// Fills gameData->m_gameName, gameData->m_isRealMoney, gameData->m_variant and gameData->m_limit
+// should parse something like:
+// 20141116_Double or Nothing(100679030)_real_holdem_no-limit
+// 20150630_Super Freeroll Stade 1 - Déglingos _(123322389)_real_holdem_no-limit
+// 20180304_Ferrare 04_real_omaha5_pot-limit
+// 20170305_Memphis 06_play_omaha_pot-limit
+// "\\d{ 8 }_(.*)_(real|play)?_(.*)_(.*)"
+// !!! exported for unit testing !!!
+std::optional<FileStem> parseFileStem(std::string_view fileStem) {
+  LOG().info<"Parsing the file stem {}.">(fileStem);
+  FileStem ret {};
 
-    const auto pos { fileStem.find("_real_", 9) }; // we ignore the date at the start of the file stem
-    ret.m_isRealMoney = (std::string_view::npos != pos);
-
-    if (!ret.m_isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
-      LOG().error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(fileStem);
-      return ret;
-    }
-    ret.m_gameName = fileStem.substr(9, pos - 9);
-    ret.m_variant = fileStemToVariant(fileStem);
-    ret.m_limit = fileStemToLimit(fileStem);
+  if (12 > fileStem.size()) {
+    LOG().error<"Couldn't parse the file stem '{}', too short!!!">(fileStem);
     return ret;
   }
-} // anonymous namespace
+
+  const auto pos { fileStem.find("_real_", 9) }; // we ignore the date at the start of the file stem
+  ret.m_isRealMoney = (std::string_view::npos != pos);
+
+  if (!ret.m_isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
+    LOG().error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(fileStem);
+    return ret;
+  }
+  ret.m_gameName = fileStem.substr(9, pos - 9);
+  ret.m_variant = fileStemToVariant(fileStem);
+  ret.m_limit = fileStemToLimit(fileStem);
+  return ret;
+}
 
 template <typename GAME_TYPE>
   requires(std::is_same_v<GAME_TYPE, CashGame>

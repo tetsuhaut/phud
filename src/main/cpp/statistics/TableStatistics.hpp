@@ -13,16 +13,12 @@ struct [[nodiscard]] TableStatistics final {
   std::string m_site {};
   std::string m_table {};
   Seat m_maxSeats { Seat::seatUnknown };
+  std::vector<Seat> m_seats {};
   std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> m_tableStats {};
-  TableStatistics() = default;
 
   TableStatistics(std::string_view site, std::string_view table, Seat maxSeats,
-                  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats)
-    : m_site { site },
-      m_table { table },
-      m_maxSeats { maxSeats },
-      m_tableStats { std::move(tableStats) } {}
-
+                  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats);
+  TableStatistics();
   TableStatistics(const TableStatistics&) = delete;
   TableStatistics(TableStatistics&&) = default;
   TableStatistics& operator=(const TableStatistics&) = delete;
@@ -31,12 +27,9 @@ struct [[nodiscard]] TableStatistics final {
 
   [[nodiscard]] constexpr const std::string& getSite() { return m_site; }
   [[nodiscard]] constexpr const std::string& getTable() { return m_table; }
-
   [[nodiscard]] constexpr bool isValid() const noexcept { return Seat::seatUnknown != m_maxSeats; }
-
   [[nodiscard]] constexpr Seat getMaxSeat() const noexcept { return m_maxSeats; }
-
-  [[nodiscard]] std::vector<Seat> getSeats() const;
+  [[nodiscard]] constexpr std::vector<Seat> getSeats() const noexcept { return m_seats; }
 
   /**
    * @returns the hero seat. 0 if error, else between 1 and 10 included.
