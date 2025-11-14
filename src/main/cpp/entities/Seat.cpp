@@ -33,13 +33,4 @@ namespace {
   return static_cast<Seat>(i - 1);
 }
 
-/*[[nodiscard]]*/ constexpr int tableSeat::toInt(Seat seat) noexcept {
-  return static_cast<int>(seat) + 1;
-}
 
-/*[[nodiscard]]*/ Seat tableSeat::next(Seat current, Seat max) {
-  assert(Seat::seatUnknown != current);
-  assert(Seat::seatUnknown != max);
-  assert(tableSeat::toInt(current) <= tableSeat::toInt(max));
-  return (current == max) ? Seat::seatOne : tableSeat::fromInt(tableSeat::toInt(current) + 1);
-}

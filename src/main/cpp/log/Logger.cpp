@@ -52,29 +52,29 @@ constexpr auto LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL {
 
 /*[[nodiscard]] static*/ LoggingLevel Logger::getCurrentLoggingLevel() {
   auto& globalLogger { getGlobalLogger() };
-  assert(!globalLogger);
+  assert(nullptr != globalLogger);
   return toLoggingLevel(globalLogger->level());
 }
 
 /*static*/ void Logger::setLoggingLevel(LoggingLevel l) {
   auto& globalLogger { getGlobalLogger() };
-  assert(!globalLogger);
+  assert(nullptr != globalLogger);
   globalLogger->set_level(toLegacyLoggingLevel(l));
 }
 
 /*static*/ void Logger::shutdownLogging() {
   auto& globalLogger { getGlobalLogger() };
-  assert(!globalLogger);
+  assert(nullptr != globalLogger);
   globalLogger->set_level(LegacyLoggingLevel::off);
   spdlog::drop_all();
 }
 
-void Logger::traceStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->trace(msg); globalLogger->flush(); }
-void Logger::debugStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->debug(msg); globalLogger->flush(); }
-void Logger::infoStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->info(msg); globalLogger->flush(); }
-void Logger::warnStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->warn(msg); globalLogger->flush(); }
-void Logger::errorStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->error(msg); globalLogger->flush(); }
-void Logger::criticalStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(!globalLogger); globalLogger->critical(msg); globalLogger->flush(); }
+void Logger::traceStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(nullptr != globalLogger); globalLogger->trace(msg); globalLogger->flush(); }
+void Logger::debugStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(nullptr != globalLogger); globalLogger->debug(msg); globalLogger->flush(); }
+void Logger::infoStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(nullptr != globalLogger); globalLogger->info(msg); globalLogger->flush(); }
+void Logger::warnStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(nullptr != globalLogger); globalLogger->warn(msg); globalLogger->flush(); }
+void Logger::errorStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(nullptr != globalLogger); globalLogger->error(msg); globalLogger->flush(); }
+void Logger::criticalStr(std::string_view msg) { auto& globalLogger { getGlobalLogger() }; assert(nullptr != globalLogger); globalLogger->critical(msg); globalLogger->flush(); }
 
 //
 // note: *_mt means "multithread, i.e. all those factories create thread-safe loggers.

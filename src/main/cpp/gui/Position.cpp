@@ -12,7 +12,6 @@ namespace {
   }
   constexpr auto ZERO { mkPair(0, 0) };
 
-  // TODO: mauvaises positions pour 3
   /**
    * The position of seats, if the window size is 1 x 1
    * seat one is considered middle bottom
@@ -88,16 +87,18 @@ namespace {
   };
 
   [[nodiscard]] constexpr std::pair<int, int> calculatePosition(Seat seat, Seat maxSeats, const phud::Rectangle& tablePos) {
-    const auto& [coefX, coefY] { NB_SEATS_TO_COEFF.find(maxSeats)->second.at(tableSeat::toArrayIndex(seat)) };
+    const auto it { NB_SEATS_TO_COEFF.find(maxSeats) };
+    assert(NB_SEATS_TO_COEFF.end() != it && "Invalid maxSeats");
+    const auto& [coefX, coefY] { it->second.at(tableSeat::toArrayIndex(seat)) };
     return { limits::toInt(tablePos.x + coefX * tablePos.w),
              limits::toInt(tablePos.y + coefY * tablePos.h) };
   }
 
-  constexpr Seat rotate(Seat tobeRotated, int nbClicks, Seat maxSeats) {
-    for (int i = 0; i < nbClicks; ++i) {
-      tobeRotated = tableSeat::next(tobeRotated, maxSeats);
-    }
-    return tobeRotated;
+  Seat rotate(Seat tobeRotated, int nbClicks, Seat maxSeats) {
+    const auto currentIndex { tableSeat::toInt(tobeRotated) };
+    const auto maxSeatIndex { tableSeat::toInt(maxSeats) };
+    const auto newIndex { ((currentIndex - 1 + nbClicks) % maxSeatIndex) + 1 };
+    return tableSeat::fromInt(newIndex);
   }
 } // anonymous namespace
 
