@@ -14,11 +14,11 @@ namespace pt = phud::test;
 static constexpr std::chrono::milliseconds COUNTDOWN_TO_EXPLOSION { 10000 };
 static constexpr std::chrono::milliseconds SG_PERIOD { 1 };
 
-BOOST_AUTO_TEST_SUITE(StatsGetterTest)
+BOOST_AUTO_TEST_SUITE(StatsProducerTest)
 
 BOOST_AUTO_TEST_CASE(
-  StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed) { // TODO: dure 10 secondes ???
-  const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed")) };
+  StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed) { // TODO: dure 10 secondes ???
+  const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed")) };
   BOOST_REQUIRE(nullptr != pSite);
   Database db;
   db.save(*pSite);
@@ -27,7 +27,7 @@ BOOST_AUTO_TEST_CASE(
   const StatsProducer producer { {.reloadPeriod = SG_PERIOD, .site = ProgramInfos::WINAMAX_SITE_NAME, .tableWindowName = table, .db = db} };
   ThreadSafeQueue<TableStatistics> statsQueue;
   producer.start(statsQueue);
-  auto _ { TimeBomb::create(COUNTDOWN_TO_EXPLOSION, "StatsGetterTest_parsingAnUpdatedHistoryShouldSucceed") };
+  auto _ { TimeBomb::create(COUNTDOWN_TO_EXPLOSION, "StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed") };
   TableStatistics stats;
   statsQueue.waitPop(stats);
   producer.stop();

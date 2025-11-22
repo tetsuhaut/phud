@@ -40,7 +40,7 @@ struct [[nodiscard]] TableWatcher::Implementation final {
   }
 
   void checkForTables() {
-    if (const auto& titles { getWindowTitles()
+    if (const auto& titles { mswindows::getWindowTitles()
                             | std::views::filter(::isPokerTable)
                             | std::ranges::to<std::vector<std::string>>() }; !titles.empty()) {
       if (m_currentTableWindowTitles != titles) {

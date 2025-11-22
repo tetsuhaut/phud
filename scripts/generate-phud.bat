@@ -1,6 +1,7 @@
 IF NOT DEFINED COMPILER ECHO need to set the COMPILER environment variable && EXIT /B 1
 IF NOT DEFINED CMAKE_GENERATOR ECHO call build-*.bat instead && EXIT /B 1
 IF NOT DEFINED BIN_DIR ECHO call build-*.bat instead && EXIT /B 1
+IF NOT DEFINED SCRIPTS_DIR ECHO need to set the SCRIPTS_DIR environment variable && EXIT /B 1
 
 ECHO checking for environment
 REM the *_DIR environment variables are hints to help CMake finding the libraries and include dirs

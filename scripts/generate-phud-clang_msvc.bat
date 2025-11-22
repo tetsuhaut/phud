@@ -6,7 +6,7 @@ where /q clang.exe || ECHO Could not find the clang.exe program. Check that it i
 where /q ninja.exe || ECHO Could not find the ninja.exe program. Check that it is in the path. && EXIT /B 1
 SET CMAKE_GENERATOR="Ninja" -DCMAKE_CXX_COMPILER=clang-cl
 SET BIN_DIR=bin\Debug\Debug
-CALL %~dp0build-phud.bat
+CALL %~dp0generate-phud.bat
 IF ERRORLEVEL 1 ECHO Error creating the phud build configuration for clang + msvc. && EXIT /B 1
 SET CMAKE_GENERATOR=
 SET BUILD_DIR=

@@ -11,7 +11,7 @@
 #include "gui/Preferences.hpp"
 #include "gui/TableService.hpp"
 #include "gui/TableWatcher.hpp"
-#include "gui/WindowUtils.hpp" // setWindowOnTopMost
+#include "gui/WindowUtils.hpp" // mswindows::
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "statistics/PlayerStatistics.hpp"
@@ -301,11 +301,6 @@ namespace {
       });
   }
 
-  // TODO:  try window->stay_on_top(1) instead of this
-  void setWindowOnTopMost(const Fl_Window& above) noexcept {
-    setWindowOnTopMost(fl_xid(&above));
-  }
-
   void updateTablePlayerIndicators(
     TablePlayerIndicators& playerIndicators,
     const phud::Rectangle& tablePosition,
@@ -337,7 +332,7 @@ namespace {
           playerIndicator->updateBasePosition(pos);
         }
         playerIndicator->setStats(*ps);
-        setWindowOnTopMost(*playerIndicator);
+        mswindows::setWindowOnTopMost(fl_xid(&*playerIndicator));
         playerIndicator->show();
         LOG().debug<"PlayerIndicator shown for '{}'">(ps->getPlayerName());
       }
@@ -379,7 +374,7 @@ namespace {
       scheduleUITask([&playerIndicators, title, stats = std::move(ts)]() mutable {
         LOG().debug<"Scheduled UI task executing for table window '{}'">(title);
 
-        if (const auto tableRect { getTableWindowRectangle(title) }) {
+        if (const auto tableRect { mswindows::getTableWindowRectangle(title) }) {
           LOG().debug<"Found table window '{}'">(title);
           // Update PlayerIndicators with real statistics
           if (playerIndicators.contains(title)) {

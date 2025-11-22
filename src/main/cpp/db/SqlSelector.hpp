@@ -24,12 +24,7 @@ public:
   }
 
   [[nodiscard]] SqlSelector& table(std::string_view table) {
-    m_query.replace(m_query.find("?tableName"), phud::strings::length("?tableName"), table);
-    return *this;
-  }
-
-  [[nodiscard]] SqlSelector& players(std::string_view players) {
-    m_query.replace(m_query.find("?playerNames"), phud::strings::length("?playerNames"), players);
+    m_query = phud::strings::replaceAll(m_query, "?tableName", table);
     return *this;
   }
 

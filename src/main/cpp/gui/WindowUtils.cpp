@@ -1,5 +1,5 @@
 #include "gui/TableService.hpp"
-#include "gui/WindowUtils.hpp"
+#include "gui/WindowUtils.hpp" // namespace mswindows
 #include "language/limits.hpp"
 #include "language/Validator.hpp"
 #include "log/Logger.hpp"
@@ -79,13 +79,13 @@ namespace {
   }
 } // anonymous namespace
 
-std::vector<std::string> getWindowTitles() {
+std::vector<std::string> mswindows::getWindowTitles() {
   std::vector<std::string> titles;
   EnumWindows(windowTitleCallback, reinterpret_cast<LPARAM>(&titles));
   return titles;
 }
 
-std::optional<phud::Rectangle> getTableWindowRectangle(std::string_view tableWindowTitle) {
+std::optional<phud::Rectangle> mswindows::getTableWindowRectangle(std::string_view tableWindowTitle) {
   // Find window position by title
   if (const auto& hwnd { FindWindow(nullptr, tableWindowTitle.data()) }; nullptr != hwnd) {
     if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
@@ -95,7 +95,7 @@ std::optional<phud::Rectangle> getTableWindowRectangle(std::string_view tableWin
   return {};
 }
 
-void setWindowOnTopMost(HWND above) noexcept {
+void mswindows::setWindowOnTopMost(HWND above) noexcept {
   /* from https://www.fltk.org/newsgroups.php?s39452+gfltk.general+v39464 */
   SetWindowPos(above, HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE | SWP_NOOWNERZORDER);
 }

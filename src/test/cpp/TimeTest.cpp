@@ -6,15 +6,15 @@
 BOOST_AUTO_TEST_SUITE(TimeTest)
 
   BOOST_AUTO_TEST_CASE(TimeTest_timeShouldBeInvalidByDefault) {
-    BOOST_CHECK_THROW((void)Time({ .strTime = "", .format = WINAMAX_HISTORY_TIME_FORMAT }),
+    BOOST_CHECK_THROW(std::ignore = Time({ .strTime = "", .format = WINAMAX_HISTORY_TIME_FORMAT }),
                       TimeException);
-    BOOST_CHECK_THROW((void)Time({ .strTime = "", .format = PMU_HISTORY_TIME_FORMAT }), TimeException);
+    BOOST_CHECK_THROW(std::ignore = Time({ .strTime = "", .format = PMU_HISTORY_TIME_FORMAT }), TimeException);
   }
 
   BOOST_AUTO_TEST_CASE(TimeTest_timeShouldBeCreatedWithACorrectFormat) {
-    BOOST_CHECK_THROW((void)Time({ .strTime = "2014/10/31 00:45:01", .format = PMU_HISTORY_TIME_FORMAT }),
+    BOOST_CHECK_THROW(std::ignore = Time({ .strTime = "2014/10/31 00:45:01", .format = PMU_HISTORY_TIME_FORMAT }),
                       TimeException);
-    BOOST_CHECK_THROW((void)Time({ .strTime = "Tuesday, September 14, 18:33:39 2021",
+    BOOST_CHECK_THROW(std::ignore = Time({ .strTime = "Tuesday, September 14, 18:33:39 2021",
                         .format = WINAMAX_HISTORY_TIME_FORMAT }), TimeException);
   }
 

@@ -9,7 +9,7 @@ where /q cmake || ECHO Could not find the cmake command. Check that it is in the
 
 SET VERSION=1.15.3
 SET LIB_NAME=spdlog
-SET SRC_DIR=%~dp0%LIB_NAME%-%VERSION%
+SET SRC_DIR=%LIB_NAME%-%VERSION%
 IF EXIST %SRC_DIR%\NUL goto :build
 IF EXIST %SRC_DIR%.tar.gz (
   tar -xvzf %SRC_DIR%.tar.gz
@@ -25,7 +25,7 @@ IF EXIST %SRC_DIR%.zip (
 )
 
 :build
-SET BUILD_DIR=%~dp0\%LIB_NAME%-build-%COMPILER%
+SET BUILD_DIR=%LIB_NAME%-build-%COMPILER%
 IF EXIST %BUILD_DIR% (RMDIR /Q /S %BUILD_DIR%)
 MKDIR %BUILD_DIR%
 PUSHD %BUILD_DIR%
@@ -36,9 +36,9 @@ cmake ^
   -D SPDLOG_FMT_EXTERNAL=OFF ^
   -D SPDLOG_BUILD_EXAMPLE=OFF ^
   -D SPDLOG_BUILD_TESTS=OFF ^
-  --install-prefix %BUILD_DIR%/install ^
+  -D CMAKE_INSTALL_PREFIX=../%BUILD_DIR%/install ^
   -D CMAKE_MSVC_RUNTIME_LIBRARY="MultiThreaded$<$<CONFIG:Debug>:Debug>" ^
-%SRC_DIR%
+..\%SRC_DIR%
 ninja && ninja install
 POPD
 ENDLOCAL
