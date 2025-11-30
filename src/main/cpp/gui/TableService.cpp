@@ -2,17 +2,19 @@
 #include "db/Database.hpp"
 #include "entities/Seat.hpp"
 #include "entities/Site.hpp"
-#include "filesystem/FileWatcher.hpp"
 #include "gui/TableService.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp" // Future
+#include <efsw/efsw.hpp>
 #include <spdlog/fmt/fmt.h>
 #include <stlab/concurrency/utility.hpp>
+#include <atomic>
 #include <chrono>
 #include <filesystem>
+#include <mutex>
 #include <optional>
 
 namespace fs = std::filesystem;
@@ -21,11 +23,88 @@ static Logger& LOG() {
   static Logger logger { CURRENT_FILE_NAME };
   return logger;
 }
-static constexpr std::chrono::milliseconds RELOAD_PERIOD { 2000 };
+
+/**
+ * EFSW-based file watcher for a single file.
+ * Monitors a specific file and triggers callback on modifications.
+ */
+class [[nodiscard]] EfswFileWatcher final : public efsw::FileWatchListener {
+private:
+  // Memory layout optimized: largest to smallest to minimize padding
+  efsw::FileWatcher m_watcher;
+  std::function<void(const fs::path&)> m_callback;
+  fs::path m_file;
+  std::string m_filename;  // Cache filename for fast comparison
+  std::mutex m_callbackMutex;
+  efsw::WatchID m_watchId;
+  std::atomic<bool> m_stopped { true };
+
+  void handleFileAction([[maybe_unused]] efsw::WatchID watchid,
+                       [[maybe_unused]] const std::string& dir,
+                       const std::string& filename,
+                       efsw::Action action,
+                       [[maybe_unused]] std::string oldFilename) override {
+    // Fast path: filter by action and filename before any expensive operations
+    if (efsw::Actions::Modified != action || filename != m_filename) {
+      return;
+    }
+
+    LOG().info<"The file {} has changed, notify listener">(m_file.string());
+
+    // Call user callback in thread-safe manner
+    std::lock_guard<std::mutex> lock { m_callbackMutex };
+    if (m_callback) {
+      m_callback(m_file);  // Reuse cached m_file instead of reconstructing path
+    }
+  }
+
+public:
+  explicit EfswFileWatcher(const fs::path& file)
+    : m_file { file },
+      m_filename { file.filename().string() },
+      m_watchId { -1 } {
+    LOG().info<"will watch file {} using EFSW (event-driven)">(file.string());
+  }
+
+  EfswFileWatcher(const EfswFileWatcher&) = delete;
+  EfswFileWatcher(EfswFileWatcher&&) = delete;
+  EfswFileWatcher& operator=(const EfswFileWatcher&) = delete;
+  EfswFileWatcher& operator=(EfswFileWatcher&&) = delete;
+
+  void start(const std::function<void(const fs::path&)>& fileHasChangedCb) {
+    std::lock_guard<std::mutex> lock { m_callbackMutex };
+    m_callback = fileHasChangedCb;
+
+    // Watch the parent directory of the file
+    const auto parentDir { m_file.parent_path().string() };
+    m_watchId = m_watcher.addWatch(parentDir, this, false);
+
+    if (0 > m_watchId) {
+      LOG().error<"Failed to add watch for file {}">(m_file.string());
+      return;
+    }
+
+    m_watcher.watch();
+    m_stopped = false;
+    LOG().info<"Started watching file {} (WatchID: {})">(m_file.string(), m_watchId);
+  }
+
+  void stop() {
+    if (!m_stopped.load()) {
+      m_watcher.removeWatch(m_watchId);
+      m_stopped.store(true);
+      LOG().info<"Stopped watching file {}">(m_file.string());
+    }
+  }
+
+  [[nodiscard]] bool isStopped() const noexcept {
+    return m_stopped.load();
+  }
+};
 
 struct [[nodiscard]] TableService::Implementation final {
   Database& m_database;
-  std::unique_ptr<FileWatcher> m_fileWatcher {};
+  std::unique_ptr<EfswFileWatcher> m_fileWatcher {};
   std::shared_ptr<PokerSiteHistory> m_pokerSiteHistory {};
   Future<void> m_reloadTask {};
   fs::path m_historyDir {};
@@ -45,14 +124,14 @@ struct [[nodiscard]] TableService::Implementation final {
     return {};
   }
 
-  static std::unique_ptr<FileWatcher> watchHistoFile(Future<void>& reloadTask,
-                                                     std::shared_ptr<PokerSiteHistory> pokerSiteHistory, // NOLINT(*-unnecessary-value-param)
-                                                     Database& database,
-                                                     const fs::path& file,
-                                                     std::string_view aTable,
-                                                     const auto& observerCb) {
+  static std::unique_ptr<EfswFileWatcher> watchHistoFile(Future<void>& reloadTask,
+                                                         std::shared_ptr<PokerSiteHistory> pokerSiteHistory, // NOLINT(*-unnecessary-value-param)
+                                                         Database& database,
+                                                         const fs::path& file,
+                                                         std::string_view aTable,
+                                                         const auto& observerCb) {
     LOG().info<"Starting to watch history file: {} for table: {}">(file.string(), aTable);
-    auto fileWatcher = std::make_unique<FileWatcher>(::RELOAD_PERIOD, file);
+    auto fileWatcher = std::make_unique<EfswFileWatcher>(file);
     fileWatcher->start(
       [&reloadTask, &database, pokerSiteHistory, table = std::string(aTable), observerCb](const fs::path& f) {
         LOG().info<"File watcher triggered for: {}">(f.string());

@@ -327,6 +327,16 @@ target_link_libraries(phud PRIVATE spdlog::spdlog)
 target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 
 ################################################################################
+# will use the EFSW library, so configure the project for it
+# needs to have EFSW_DIR as an environment variable pointing to the dir where
+# the library has been installed
+# https://github.com/SpartanJ/efsw
+################################################################################
+find_package(efsw REQUIRED CONFIG)
+target_link_libraries(mainLib PRIVATE efsw::efsw)
+target_link_libraries(unitTests PRIVATE efsw::efsw)
+
+################################################################################
 # will use the stlab library, so configure the project for it
 # needs to have stlab_DIR as an environment variable pointing to the dir where
 # the stlab 'libraries' library has been installed

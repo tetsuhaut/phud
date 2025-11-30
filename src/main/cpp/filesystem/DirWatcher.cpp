@@ -1,15 +1,13 @@
-#include "filesystem/DirWatcher.hpp" // std::chrono, toMilliseconds, FileTime, std::filesystem::path, std::string, toString
-
+#include "filesystem/DirWatcher.hpp" // std::chrono, std::filesystem::path, std::string
 #include "filesystem/FileUtils.hpp" // phud::filesystem::*
 #include "language/Validator.hpp" // validation::
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "threads/PeriodicTask.hpp" // NonCopyable
-#include <unordered_map>
+#include <efsw/efsw.hpp>
+#include <atomic>
+#include <mutex>
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
-
-using FileTimes = std::unordered_map<std::string, fs::file_time_type>;
 
 static Logger& LOG() {
   static Logger logger { CURRENT_FILE_NAME };
@@ -18,60 +16,85 @@ static Logger& LOG() {
 
 DirWatcher::~DirWatcher() = default;
 
-struct [[nodiscard]] DirWatcherImpl final : DirWatcher {
+struct [[nodiscard]] DirWatcherImpl final : DirWatcher, efsw::FileWatchListener {
+private:
+  // Memory layout optimized: largest to smallest to minimize padding
+  efsw::FileWatcher m_watcher;
+  std::function<void(const fs::path&)> m_callback;
   fs::path m_dir;
-  // note: as of C++ 17, there is no portable way to unify std::filesystem::file_time_type and std::time :(
-  // note: impossible to use std::filesystem::path as a map key
-  FileTimes m_refFileToLastModifDate {};
-  PeriodicTask m_task;
+  std::mutex m_callbackMutex;
+  efsw::WatchID m_watchId;
+  std::atomic<bool> m_stopped { true };
+
+  // Implementation of efsw::FileWatchListener interface
+  void handleFileAction([[maybe_unused]] efsw::WatchID watchid,
+                       const std::string& dir,
+                       const std::string& filename,
+                       efsw::Action action,
+                       [[maybe_unused]] std::string oldFilename) override {
+    // Fast path: early filter on action and extension before constructing fs::path
+    if ((efsw::Actions::Modified != action and efsw::Actions::Add != action) or
+        !filename.ends_with(".txt")) {
+      return;
+    }
+
+    // Construct path only when we know it's a valid event
+    const fs::path filePath { dir + "/" + filename };
+
+    const auto actionStr { efsw::Actions::Modified == action ? "Modified" : "Add" };
+    LOG().info<"The file {} has changed (action: {}), notify listener">(
+      filePath.string(), actionStr);
+
+    // Call user callback in thread-safe manner
+    std::lock_guard<std::mutex> lock { m_callbackMutex };
+    if (m_callback) {
+      m_callback(filePath);
+    }
+  }
+public:
+  explicit DirWatcherImpl(const fs::path& dir)
+    : m_dir { dir },
+      m_watchId { -1 } {
+    validation::require(pf::isDir(m_dir), "the dir provided to DirWatcher() is not valid.");
+    LOG().info<"will watch directory {} using EFSW (event-driven)">(dir.string());
+  }
 
   DirWatcherImpl(const DirWatcherImpl&) = delete;
   DirWatcherImpl(DirWatcherImpl&&) = delete;
   DirWatcherImpl& operator=(const DirWatcherImpl&) = delete;
   DirWatcherImpl& operator=(DirWatcherImpl&&) = delete;
 
-  explicit DirWatcherImpl(std::chrono::milliseconds reloadPeriod, const fs::path& dir) :
-    m_dir { std::move(dir) },
-    m_task { reloadPeriod, "DirWatcher" } {
-    validation::require(pf::isDir(m_dir),"the dir provided to DirWatcher() is not valid.");
-    LOG().info<"will watch directory {} every {}ms">(dir.string(), reloadPeriod.count());
+
+public:
+  void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
+    std::lock_guard<std::mutex> lock { m_callbackMutex };
+    m_callback = fileHasChangedCb;
+    const auto isRecursive { false };
+    m_watchId = m_watcher.addWatch(m_dir.string(), this, isRecursive);
+
+    if (0 > m_watchId) {
+      LOG().error<"Failed to add watch for directory {}">(m_dir.string());
+      return;
+    }
+
+    m_watcher.watch();
+    m_stopped = false;
+    LOG().info<"Started watching directory {} (WatchID: {})">(m_dir.string(), m_watchId);
   }
 
-  void callCb(const fs::path& file, const std::filesystem::file_time_type& lasWriteTime,  const std::function<void(const fs::path&)>& fileHasChangedCb) {
-    if (!m_refFileToLastModifDate.contains(file.string()) or (m_refFileToLastModifDate[file.string()] != lasWriteTime)) {
-      m_refFileToLastModifDate[file.string()] = lasWriteTime;
-      LOG().info<"The file {} has changed, notify listener">(file.string());
-      fileHasChangedCb(file);
+  void stop() override {
+    if (!m_stopped.load()) {
+      m_watcher.removeWatch(m_watchId);
+      m_stopped = true;
+      LOG().info<"Stopped watching directory {}">(m_dir.string());
     }
   }
 
-  /** look at each file, take its last modification date, wait, do it again and compare
-   * for each modified file, notify the listener through the callback
-   */
-  void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
-    m_task.start([this, fileHasChangedCb]() {
-      LOG().trace<"Searching for file changes in dir {}">(m_dir.string());
-      const auto& files { pf::listTxtFilesInDir(m_dir) };
-      std::ranges::for_each(files, [this, &fileHasChangedCb](const auto& file) {
-        std::error_code ec;
-
-        if (const auto& lasWriteTime { fs::last_write_time(file, ec) }; 0 == ec.value()) {
-          callCb(file, lasWriteTime, fileHasChangedCb);
-        }
-        else [[unlikely]] {
-          LOG().error<"Error getting last write time for file {} in directory {}: {}">(
-            file.string(), file.parent_path().string(), ec.message());
-        }
-      });
-      return PeriodicTaskStatus::repeatTask;
-    });
-}
-
-  void stop() const override { m_task.stop(); }
-
-  [[nodiscard]] bool isStopped() const noexcept override { return m_task.isStopped(); }
+  [[nodiscard]] bool isStopped() const noexcept override {
+    return m_stopped.load();
+  }
 };
 
-[[nodiscard]] std::unique_ptr<DirWatcher> DirWatcher::create(std::chrono::milliseconds reloadPeriod, const fs::path& dir) {
-  return std::make_unique<DirWatcherImpl>(reloadPeriod, dir);
+[[nodiscard]] std::unique_ptr<DirWatcher> DirWatcher::create(const fs::path& dir) {
+  return std::make_unique<DirWatcherImpl>(dir);
 }

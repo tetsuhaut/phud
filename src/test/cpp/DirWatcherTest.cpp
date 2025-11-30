@@ -4,12 +4,12 @@
 #include "filesystem/FileUtils.hpp"
 #include <condition_variable>
 #include <mutex>
+#include <thread>
 
 namespace fs = std::filesystem;
 namespace pt = phud::test;
 
 static constexpr std::chrono::milliseconds TB_PERIOD { 3000 };
-static constexpr std::chrono::milliseconds WATCH_PERIOD { 50 };
 
 BOOST_AUTO_TEST_SUITE(DirWatcherTest)
 
@@ -19,19 +19,26 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   const pt::TmpFile tmpFile { tmpDir / "someTmpFile.txt" };
   tmpFile.print("yop");
   BOOST_REQUIRE(1 == phud::filesystem::listTxtFilesInDir(tmpDir.path()).size());
-  const auto dw { DirWatcher::create(WATCH_PERIOD, tmpDir.path()) };
+  const auto dw { DirWatcher::create(tmpDir.path()) };
   std::vector<std::string> changedFiles;
   std::condition_variable cv;
+  std::mutex mutex;
   dw->start([&](const fs::path & file) {
+    std::lock_guard lock { mutex };
     changedFiles.push_back(file.stem().string());
     cv.notify_one();
   });
   auto tb { TimeBomb::create(TB_PERIOD, "DirWatcherTest_DetectingChangedFilesShouldWork") };
+
+  // With EFSW (event-driven), modifications are detected immediately
+  // Add a small delay between modifications to ensure they are processed
   tmpFile.print("yip");
+  std::this_thread::sleep_for(std::chrono::milliseconds(100));
   tmpFile.print("yip");
+  std::this_thread::sleep_for(std::chrono::milliseconds(100));
   tmpFile.print("yip");
+
   {
-    std::mutex mutex;
     std::unique_lock lock { mutex };
     cv.wait(lock);
   }
