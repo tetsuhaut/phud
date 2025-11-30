@@ -19,21 +19,21 @@
 #include <print>
 #include <sstream> // std::ostringstream
 
-// TODO: aligner les champs des classes en mémoire (padding)
+// TODO: padding: in a class, members must be ordered by type size, the biggest in
+//                1st position
 // TODO: inclure le siteName dans les id
 // TODO: tester toutes les sauvegardes en base
 // TODO: utiliser std::source_location pour contextualiser les messages d'exception
 //       cf. https://stackoverflow.com/questions/597078/file-line-and-function-usage-in-c
 // GOOD PRACTISE: apply https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 // GOOD PRACTISE: make internal functions static
-// GOOD PRACTISE: use pimpl for big classes
 // GOOD PRACTISE: use assert, static_assert
 // GOOD PRACTISE: ensure the required headers are included without relying on a specific STL implementation
 // GOOD PRACTISE: pour tous les constructeurs, vérifier que tous les attributs sont initialisés
 //                dans le constructeur ou dans la déclaration de classe.
 // GOOD PRACTISE: use [[nodiscard]] for all pure functions, or where return value must be examined
 // GOOD PRACTISE: no const class attribute
-// explicit for constructors callable with one parameter
+// GOOD PRACTISE: explicit for constructors callable with one parameter
 // FUTURE : try unity build
 // FUTURE add code documentation (Doxygen, compatible with Javadoc format)
 // BUG : crash à la sélection de la table : impossible de trouver l'historique pour table "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif"

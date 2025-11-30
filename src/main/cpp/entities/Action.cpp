@@ -16,10 +16,10 @@ static constexpr auto STREET_MAPPER = makeEnumMapper<Street>(
 Action::Action(const Params& p)
   : m_handId { p.handId },
     m_playerName { p.playerName },
-    m_street { p.street },
-    m_type { p.type },
     m_index { p.actionIndex },
-    m_betAmount { p.betAmount } {
+    m_betAmount { p.betAmount },
+    m_street { p.street },
+    m_type { p.type } {
   validation::require(Street::none != m_street, "Cannot create 'none' action");
   validation::requireNonEmpty(m_handId, "handId");
   validation::requireNonEmpty(m_playerName, "playerName");

@@ -18,13 +18,13 @@ enum class /*[[nodiscard]]*/ Street : short { none, preflop, flop, turn, river }
  */
 class [[nodiscard]] Action final {
 private:
+  // Memory layout optimized: largest to smallest to minimize padding
   std::string m_handId;
   std::string m_playerName;
-  Street m_street;
-  ActionType m_type;
-  std::size_t m_index;
-  double m_betAmount;
-
+  std::size_t m_index;      // 8 bytes
+  double m_betAmount;       // 8 bytes
+  Street m_street;          // 2 bytes (short)
+  ActionType m_type;        // 2 bytes (short)
 public:
 
   struct [[nodiscard]] Params final {

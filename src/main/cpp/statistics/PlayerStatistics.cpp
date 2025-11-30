@@ -1,12 +1,12 @@
 #include "statistics/PlayerStatistics.hpp" // PlayerStatistics, std::string_view, std::string, PlayerStatistics::Params
 
 PlayerStatistics::PlayerStatistics(const Params& p) noexcept
-  : m_nbHands { p.nbHands },
-m_playerName { p.playerName },
-m_siteName { p.siteName },
-m_isHero { p.isHero },
-m_voluntaryPutMoneyInPot { p.vpip },
-m_preflopRaise { p.pfr } {}
+  : m_playerName { p.playerName },
+    m_siteName { p.siteName },
+    m_voluntaryPutMoneyInPot { p.vpip },
+    m_preflopRaise { p.pfr },
+    m_nbHands { p.nbHands },
+    m_isHero { p.isHero } {}
 
 PlayerStatistics::~PlayerStatistics() = default;
 

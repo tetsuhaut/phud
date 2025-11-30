@@ -12,10 +12,12 @@
 // must be copiable to be used in another thread
 class [[nodiscard]] PlayerStatistics final {
 private:
-  int m_nbHands;
+  // Memory layout optimized: largest to smallest to minimize padding
+  // strings first (typically 32 bytes with SSO on MSVC x64)
   std::string m_playerName;
   std::string m_siteName;
-  bool m_isHero;
+
+  // All doubles together (8 bytes each, alignment 8)
   double m_voluntaryPutMoneyInPot;
   double m_preflopRaise;
   double m_aggressionFactor { 0 };
@@ -48,6 +50,12 @@ private:
   double m_flopCheckRaise { 0 };
   double m_callFlopCheckRaise { 0 };
   double m_foldToFlopCheckRaise { 0 };
+
+  // int (4 bytes, alignment 4)
+  int m_nbHands;
+
+  // bool last (1 byte, alignment 1) - minimizes total padding
+  bool m_isHero;
 
 public:
 
