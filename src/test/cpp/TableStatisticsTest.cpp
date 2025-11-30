@@ -1,4 +1,5 @@
 #include "TestInfrastructure.hpp"
+#include "SabreLaserFixture.hpp" // Shared fixture for sabre_laser test data
 #include "db/Database.hpp"
 #include "entities/Site.hpp"
 #include "history/PokerSiteHistory.hpp"
@@ -36,11 +37,11 @@ BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
     BOOST_REQUIRE(nullptr == stats.m_tableStats[9]);
   }
 
-  BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed) {
-    const auto& pSite { PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/sabre_laser")) };
-    BOOST_REQUIRE(nullptr != pSite);
+  BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed, SabreLaserFixture) {
+    // Use shared sabre_laser data loaded by fixture
+    BOOST_REQUIRE(nullptr != pSabreLaserSite);
     Database db;
-    db.save(*pSite);
+    db.save(*pSabreLaserSite);
     const auto& stats {
       db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Double or Nothing(102140685)#0")
     };

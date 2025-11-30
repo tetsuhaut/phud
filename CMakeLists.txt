@@ -43,64 +43,60 @@ message(STATUS "CMAKE_CXX_COMPILER_ID: ${CMAKE_CXX_COMPILER_ID}")
 message(STATUS "CMAKE_CXX_SIMULATE_ID: ${CMAKE_CXX_SIMULATE_ID}")
 message(STATUS "CMAKE_GENERATOR: ${CMAKE_GENERATOR}")
 
-if(MSVC AND NOT CMAKE_CXX_COMPILER_ID MATCHES "Clang")
-  message("detected Visual Studio 2022 compiler")
-  # use UTF-8 for source and execution with the MSVC compiler
-  add_compile_options(/utf-8)
-  # /Zc:__cplusplus: ask the compiler to fix the __cplusplus macro
-  add_compile_options(/MP # compile using multi processor
-                      /ZI # enable debug and continue
-                      /Gy # the linker will remove unused functions
-                      /EHsc # use standard exceptions
-                      /Zc:__cplusplus #ask the compiler to fix the __cplusplus macro
-                      /std:c++23preview)
-  # compile with lots of warnings
-  add_compile_options(/W4 # compile with lots of warnings
-                      /w14242 # implicit conversion
-                      /w14254 # type annotation
-                      /w14263 # buffer overflow
-                      /w14265 # missing virtual destructor
-                      /w14287 # unexpected dependencies
-                      /w14296
-                      /w14311
-                      /w14545
-                      /w14546
-                      /w14547
-                      /w14549
-                      /w14555
-                      /w14619
-                      /w14640
-                      /w14826
-                      /w14905
-                      /w14906
-                      /w14928
-                      /w35038
-                      /we4289)
+# Note: when using Ninja with MSVC, /showIncludes is required for dependency tracking
+
+if(MSVC)
+  message("detected MSVC compiler")
   # link statically with the compiler C runtime
   set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
-elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang") AND (CMAKE_CXX_SIMULATE_ID STREQUAL "MSVC"))
-  message("detected msvc + clang compiler")
-  add_compile_options(--target=x86_64-pc-windows-msvc)
-  add_link_options(--target=x86_64-pc-windows-msvc)
-  # compiling with clang + MSVC
-  # compile with lots of warnings
-  add_compile_options(/W4
-                      -Wall # most common warnings
-                      -Wextra # additionnal warnings
-                      -Wpedantic # unnecessary warnings
-                      -Weverything # in addition, all of the Clang warnings
-                      -Wno-c++98-compat # disable C++98 compatibility warnings
-                      -Wno-c++98-compat-pedantic # disable C++98 compatibility warnings
-                      -Wno-padded # disable padding warnings as too verbose
-                      -Wno-switch-default # disable switch default warning for enums with all cases covered
-                      /sdl)
-  # link statically with the compiler C runtime
-  set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
+  if(CMAKE_CXX_COMPILER_ID MATCHES "Clang")
+    message("detected MSVC + clang compiler")
+    add_compile_options()
+    add_link_options(--target=x86_64-pc-windows-msvc)
+    add_compile_options(--target=x86_64-pc-windows-msvc
+                        /W4 # compile with lots of warnings
+                        -Wall # most common warnings
+                        -Wextra # additionnal warnings
+                        -Wpedantic # unnecessary warnings
+                        -Weverything # in addition, all of the Clang warnings
+                        -Wno-c++98-compat # disable C++98 compatibility warnings
+                        -Wno-c++98-compat-pedantic # disable C++98 compatibility warnings
+                        -Wno-padded # disable padding warnings as too verbose
+                        -Wno-switch-default # disable switch default warning for enums with all cases covered
+                        /sdl)
+  else()
+    add_compile_options(/utf-8 # use UTF-8 for source and execution
+                        /MP # compile using multi processor
+                        /Gy # the linker will remove unused functions
+                        /EHsc # use standard exceptions
+                        /Zc:__cplusplus #ask the compiler to fix the __cplusplus macro
+                        /guard:cf # enable Control Flow Guard
+                        /sdl # enable additional security checks
+                        /W4 # compile with lots of warnings
+                        /w14242 # implicit conversion
+                        /w14254 # type annotation
+                        /w14263 # buffer overflow
+                        /w14265 # missing virtual destructor
+                        /w14287 # unexpected dependencies
+                        /w14296
+                        /w14311
+                        /w14545
+                        /w14546
+                        /w14547
+                        /w14549
+                        /w14555
+                        /w14619
+                        /w14640
+                        /w14826
+                        /w14905
+                        /w14906
+                        /w14928
+                        /w35038
+                        /we4289) # compile warnings configured
+  endif()
 elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQUAL "GNU"))
-  message("detected GCC MinGW + clang compiler")
-  # compiling with clang + GCC MinGW
-  # compile with lots of warnings
-  add_compile_options(-Wall
+  message("detected GCC + Clang compiler")
+  add_compile_options(-Wall # compile with lots of warnings
                       -Wcast-align
                       -Wconversion
                       -Wdouble-promotion
@@ -167,7 +163,16 @@ elseif(MINGW)
                       -finput-charset=UTF-8
                       -fno-elide-type
                       -pedantic
-                      -pedantic-errors)
+                      -pedantic-errors
+                      -fstack-protector-strong # stack overflow protection
+                      -D_FORTIFY_SOURCE=2 # buffer overflow detection
+                      -fPIE # Position Independent Executable
+                      )
+  # Security link options for GCC/MinGW
+  add_link_options(-Wl,--dynamicbase # ASLR
+                   -Wl,--nxcompat # DEP
+                   -pie # Position Independent Executable
+                   )
 else()
   message(WARNING "Unknown compiler: ${CMAKE_CXX_COMPILER_ID}")
   set(MY_COMPILER_TYPE "UNKNOWN")
@@ -377,6 +382,18 @@ if(MSVC)
   target_link_options(dbgen PRIVATE /DEBUG /SUBSYSTEM:CONSOLE)
   # set phud as the Visual Studio startup project
   set_property(DIRECTORY PROPERTY VS_STARTUP_PROJECT phud)
+
+  # Security hardening for all executables and libraries
+  # Control Flow Guard
+  add_link_options(/GUARD:CF)
+  # Data Execution Prevention (DEP)
+  add_link_options(/NXCOMPAT)
+  # Address Space Layout Randomization (ASLR)
+  add_link_options(/DYNAMICBASE)
+  # High entropy ASLR for 64-bit
+  if(CMAKE_SIZEOF_VOID_P EQUAL 8)
+    add_link_options(/HIGHENTROPYVA)
+  endif()
   # /fsanitize=address, /fsanitize=undefined, /fsanitize=memory, /fsanitize=thread, /fsanitize=leak, /fsanitize=hwaddress
   #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /utf-8 /MP /ZI /Gy /EHsc /Zc:__cplusplus /fsanitize=leak" CACHE STRING "" FORCE)
   #set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} /ignore:4099" CACHE STRING "" FORCE)
@@ -386,13 +403,27 @@ if(MSVC)
   # target_compile_options(guiDryRun PRIVATE -fsanitize=address,undefined)
   # target_compile_options(unitTests PRIVATE -fsanitize=address,undefined)
   #target_compile_options(${target_name} PRIVATE -fno-sanitize=signed-integer-overflow)
+  # STL hardening - enhanced runtime checks
   target_compile_definitions(mainLib PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(phud PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(dbgen PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(guiDryRun PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(unitTests PRIVATE _MSVC_STL_HARDENING=1)
-  # we want to statically link with the compiler runtime
-  set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
+
+  # Additional security definitions
+  # Disable insecure CRT functions warnings (use secure alternatives)
+  target_compile_definitions(mainLib PRIVATE _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES=1)
+  target_compile_definitions(mainLib PRIVATE _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES_COUNT=1)
+
+  # Enhanced security checks in Debug mode
+  if(CMAKE_BUILD_TYPE STREQUAL "Debug")
+    # Enable iterator debugging
+    target_compile_definitions(mainLib PRIVATE _ITERATOR_DEBUG_LEVEL=2)
+    target_compile_definitions(phud PRIVATE _ITERATOR_DEBUG_LEVEL=2)
+    target_compile_definitions(dbgen PRIVATE _ITERATOR_DEBUG_LEVEL=2)
+    target_compile_definitions(guiDryRun PRIVATE _ITERATOR_DEBUG_LEVEL=2)
+    target_compile_definitions(unitTests PRIVATE _ITERATOR_DEBUG_LEVEL=2)
+  endif()
 ################################################################################
 # if used with MinGW, link statically, compile with max warnings, do not show
 # the console window for phud.exe, use the Windows API, the thread API

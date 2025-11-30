@@ -6,10 +6,12 @@
 #include "language/Either.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // concatLiteral
+#include "threads/PlayerCache.hpp" // PlayerCache
 #include "threads/ThreadPool.hpp" // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await
 #include <expected>
 #include <ranges>
+#include <thread> // std::thread::hardware_concurrency
 
 static Logger& LOG() {
   static Logger logger { CURRENT_FILE_NAME };
@@ -97,6 +99,66 @@ namespace {
       });
     return ret;
   }
+
+  // Parse files in batches to limit concurrency and reduce memory pressure
+  // Uses a shared PlayerCache to avoid creating duplicate Player objects
+  std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> files,
+    std::atomic_bool& stop, const auto& onProgress, PlayerCache& sharedCache) {
+    // Batch size = 2x number of hardware threads to keep all cores busy
+    // while limiting memory usage from having too many files loaded at once
+    const std::size_t batchSize { std::max(2u, std::thread::hardware_concurrency() * 2) };
+
+    std::vector<Future<Site*>> allTasks;
+    allTasks.reserve(files.size());
+
+    LOG().debug<"Processing {} files in batches of {}">(files.size(), batchSize);
+
+    // Process files in batches
+    for (std::size_t batchStart { 0 }; batchStart < files.size() and !stop; batchStart += batchSize) {
+      const std::size_t batchEnd { std::min(batchStart + batchSize, files.size()) };
+      const std::size_t currentBatchSize { batchEnd - batchStart };
+
+      LOG().debug<"Processing batch {}-{} ({} files)">(batchStart, batchEnd - 1, currentBatchSize);
+
+      // Submit current batch
+      std::vector<Future<Site*>> batchTasks;
+      batchTasks.reserve(currentBatchSize);
+
+      for (std::size_t i { batchStart }; i < batchEnd and !stop; ++i) {
+        const auto& file { files[i] };
+        batchTasks.push_back(ThreadPool::submit([file, onProgress, stop = std::ref(stop), &sharedCache]() {
+          Site* pSite { nullptr };
+
+          try {
+            // Use shared cache to avoid creating duplicate players
+            pSite = WinamaxGameHistory::parseGameHistory(file, sharedCache).release();
+          }
+          catch (const std::exception& e) {
+            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
+          }
+          catch (const char* str) {
+            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), str);
+          }
+
+          if (!stop.get() and onProgress) { onProgress(); }
+
+          return pSite;
+        }));
+      }
+
+      // Wait for current batch to complete before starting next batch
+      std::ranges::for_each(batchTasks, [](auto& task) {
+        if (task.valid()) {
+          stlab::await(stlab::copy(task)); // Wait for task to complete
+        }
+      });
+
+      // Move completed tasks to result vector
+      std::ranges::move(batchTasks, std::back_inserter(allTasks));
+    }
+
+    return allTasks;
+  }
 } // anonymous namespace
 
 struct [[nodiscard]] WinamaxHistory::Implementation final {
@@ -150,8 +212,15 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir,
     }
 
     LOG().info<"{} file{} to load.">(files.size(), ps::plural(files.size()));
-    m_pImpl->m_tasks = parseFilesAsync(files, m_pImpl->m_stop, onProgress);
-    LOG().info<"Waiting for the end of loading.">();
+
+    // Create a shared PlayerCache to avoid creating duplicate Player objects
+    PlayerCache sharedCache { ProgramInfos::WINAMAX_SITE_NAME };
+
+    // Use batched parsing to limit concurrency and memory usage
+    m_pImpl->m_tasks = parseFilesAsyncBatched(files, m_pImpl->m_stop, onProgress, sharedCache);
+    LOG().info<"Merging results from {} tasks.">(m_pImpl->m_tasks.size());
+
+    // Merge all game data from parsed files
     std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto& task) {
       if (task.valid()) {
         if (const auto site { std::unique_ptr<Site>(stlab::await(std::move(task))) };
@@ -159,6 +228,12 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir,
       }
     });
     m_pImpl->m_tasks.clear();
+
+    // Extract all players from shared cache and add to result
+    auto players { sharedCache.extractPlayers() };
+    LOG().info<"Adding {} player{} from shared cache.">(players.size(), ps::plural(players.size()));
+    std::ranges::for_each(players, [&](auto& p) { ret->addPlayer(std::move(p)); });
+
     LOG().info<"Loading done.">();
     return ret;
   }

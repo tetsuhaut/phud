@@ -144,10 +144,10 @@ std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCac
 }
 
 template <typename GAME_TYPE>
-[[nodiscard]] static std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile) {
+[[nodiscard]] static std::unique_ptr<Site>
+handleGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
   LOG().debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite { std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
-  PlayerCache cache { ProgramInfos::WINAMAX_SITE_NAME };
 
   if (auto g { createGame<GAME_TYPE>(gameHistoryFile, cache) }; nullptr != g) {
     LOG().debug<"Game created for file {}.">(gameHistoryFile.filename().string());
@@ -155,13 +155,15 @@ template <typename GAME_TYPE>
   }
   else { LOG().info<"Game *not* created for file {}.">(gameHistoryFile.filename().string()); }
 
-  auto players { cache.extractPlayers() };
-  std::ranges::for_each(players, [&](auto& p) { pSite->addPlayer(std::move(p)); });
+  // Players are kept in the shared cache and extracted later
   return pSite;
 }
 
 // reminder: WinamaxGameHistory is a namespace
-std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile) {
+
+// Version with shared cache for better performance
+std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile,
+                                                            PlayerCache& cache) {
   LOG().debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
                                                     gameHistoryFile.filename().string());
   const auto& fileStem { gameHistoryFile.stem().string() };
@@ -184,5 +186,18 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
-  return ps::contains(fileStem, '(') ? handleGame<Tournament>(gameHistoryFile) : handleGame<CashGame>(gameHistoryFile);
+  return ps::contains(fileStem, '(') ? handleGame<Tournament>(gameHistoryFile, cache)
+                                     : handleGame<CashGame>(gameHistoryFile, cache);
+}
+
+// Legacy version without cache (creates its own local cache)
+std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile) {
+  PlayerCache cache { ProgramInfos::WINAMAX_SITE_NAME };
+  auto site { parseGameHistory(gameHistoryFile, cache) };
+
+  // Extract players from local cache and add to site
+  auto players { cache.extractPlayers() };
+  std::ranges::for_each(players, [&](auto& p) { site->addPlayer(std::move(p)); });
+
+  return site;
 }

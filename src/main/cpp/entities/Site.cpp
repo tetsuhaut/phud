@@ -25,9 +25,9 @@ std::vector<const Player*> Site::viewPlayers() const {
 void Site::addPlayer(std::unique_ptr<Player> p) {
   validation::require(p->getSiteName() == m_name, "player is on another site");
 
-  if (!m_players.contains(p->getName())) {
-    m_players[p->getName()] = std::move(p);
-  }
+  // Use try_emplace to avoid double lookup (contains + operator[])
+  // try_emplace only inserts if the key doesn't exist, avoiding the contains() call
+  m_players.try_emplace(p->getName(), std::move(p));
 }
 
 void Site::addGame(std::unique_ptr<CashGame> cg) {
@@ -54,7 +54,27 @@ std::vector<const Tournament*> Site::viewTournaments() const { return view(std::
 
 void Site::merge(Site& other) {
   validation::require(other.getName() == m_name, "Can't merge data from different poker sites");
-  std::ranges::for_each(other.m_players, [this](auto& pair) { addPlayer(std::move(pair.second)); });
+
+  // Pre-allocate space for players to reduce rehashing
+  // Reserve enough space for current + new players (assuming some duplicates)
+  if (0 == m_players.size()) {
+    // First merge: reserve exact size
+    m_players.reserve(other.m_players.size());
+  }
+  else if (!other.m_players.empty()) {
+    // Subsequent merges: reserve for worst case (no duplicates)
+    m_players.reserve(m_players.size() + other.m_players.size());
+  }
+
+  // Merge players using try_emplace for efficiency
+  std::ranges::for_each(other.m_players, [this](auto& pair) {
+    addPlayer(std::move(pair.second));
+  });
+
+  // Pre-allocate space for games
+  m_cashGames.reserve(m_cashGames.size() + other.m_cashGames.size());
+  m_tournaments.reserve(m_tournaments.size() + other.m_tournaments.size());
+
   std::ranges::move(other.m_cashGames, std::back_inserter(m_cashGames));
   std::ranges::move(other.m_tournaments, std::back_inserter(m_tournaments));
 }

@@ -44,4 +44,3 @@ Seat TableStatistics::getHeroSeat() const {
 std::unique_ptr<PlayerStatistics> TableStatistics::extractPlayerStatistics(Seat seat) {
   return std::exchange(m_tableStats.at(tableSeat::toArrayIndex(seat)), nullptr);
 }
-
