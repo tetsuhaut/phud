@@ -8,20 +8,20 @@
 namespace ps = phud::strings;
 
 Hand::Hand(Params& p)
-  : m_id { p.id },
-    m_gameType { p.gameType },
+  : m_seats { p.seatPlayers },
+    m_winners { p.winners },
+    m_id { p.id },
     m_siteName { p.siteName },
     m_tableName { p.tableName },
-    m_buttonSeat { p.buttonSeat },
-    m_maxSeats { p.maxSeats },
-    m_level { p.level },
-    m_ante { p.ante },
+    m_actions { std::move(p.actions) },
     m_date { p.startDate },
+    m_ante { p.ante },
+    m_level { p.level },
     m_heroCards { p.heroCards },
     m_boardCards { p.boardCards },
-    m_seats { p.seatPlayers },
-    m_actions { std::move(p.actions) },
-    m_winners { p.winners } {
+    m_gameType { p.gameType },
+    m_buttonSeat { p.buttonSeat },
+    m_maxSeats { p.maxSeats } {
   validation::requireNonEmpty(m_id, "id");
   validation::requireNonEmpty(m_siteName, "site");
   validation::requireNonEmpty(m_tableName, "table");

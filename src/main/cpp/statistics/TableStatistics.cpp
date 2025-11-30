@@ -26,11 +26,11 @@ TableStatistics::~TableStatistics() = default;
 
 TableStatistics::TableStatistics(std::string_view site, std::string_view table, Seat maxSeats,
   std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats)
-  : m_site { site },
+  : m_tableStats { std::move(tableStats) },
+  m_site { site },
   m_table { table },
-  m_maxSeats { maxSeats },
   m_seats { ::getSeats(maxSeats) },
-  m_tableStats { std::move(tableStats) } {
+  m_maxSeats { maxSeats } {
 }
 
 TableStatistics::TableStatistics() = default;

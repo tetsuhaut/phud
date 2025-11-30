@@ -27,15 +27,16 @@ enum class /*[[nodiscard]]*/ Limit : short {
  */
 class [[nodiscard]] Game final {
 private:
+  // Memory layout optimized: largest to smallest to minimize padding
   std::string m_id;
   std::string m_site;
   std::string m_name;
+  std::vector<std::unique_ptr<Hand>> m_hands;
+  Time m_startDate;
   Variant m_variant;
   Limit m_limitType;
-  bool m_isRealMoney;
   Seat m_nbMaxSeats;
-  Time m_startDate;
-  std::vector<std::unique_ptr<Hand>> m_hands;
+  bool m_isRealMoney;
 
 public:
 
@@ -72,8 +73,9 @@ public:
 
 class [[nodiscard]] Tournament final {
 private:
-  double m_buyIn;
+  // Memory layout optimized: largest to smallest to minimize padding
   std::unique_ptr<Game> m_game;
+  double m_buyIn;
 
 public:
 
@@ -111,9 +113,10 @@ public:
 
 class [[nodiscard]] CashGame final {
 private:
+  // Memory layout optimized: largest to smallest to minimize padding
+  std::unique_ptr<Game> m_game;
   double m_smallBlind;
   double m_bigBlind;
-  std::unique_ptr<Game> m_game;
 
 public:
 

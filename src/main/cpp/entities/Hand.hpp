@@ -13,20 +13,21 @@ enum class Seat : short;
 
 class [[nodiscard]] Hand final {
 private:
+  // Memory layout optimized: largest to smallest to minimize padding
+  std::array<std::string, TableConstants::MAX_SEATS> m_seats;
+  std::array<std::string, TableConstants::MAX_SEATS> m_winners;
   std::string m_id;
-  GameType m_gameType;
   std::string m_siteName;
   std::string m_tableName;
-  Seat m_buttonSeat;
-  Seat m_maxSeats;
-  int m_level;
-  long m_ante;
+  std::vector<std::unique_ptr<Action>> m_actions;
   Time m_date;
+  long m_ante;
+  int m_level;
   std::array<Card, TableConstants::MAX_CARDS> m_heroCards;
   std::array<Card, TableConstants::MAX_CARDS> m_boardCards;
-  std::array<std::string, TableConstants::MAX_SEATS> m_seats;
-  std::vector<std::unique_ptr<Action>> m_actions;
-  std::array<std::string, TableConstants::MAX_SEATS> m_winners;
+  GameType m_gameType;
+  Seat m_buttonSeat;
+  Seat m_maxSeats;
 
 public:
   struct [[nodiscard]] Params final {

@@ -10,11 +10,12 @@
 class PlayerStatistics;
 
 struct [[nodiscard]] TableStatistics final {
+  // Memory layout optimized: largest to smallest to minimize padding
+  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> m_tableStats {};
   std::string m_site {};
   std::string m_table {};
-  Seat m_maxSeats { Seat::seatUnknown };
   std::vector<Seat> m_seats {};
-  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> m_tableStats {};
+  Seat m_maxSeats { Seat::seatUnknown };
 
   TableStatistics(std::string_view site, std::string_view table, Seat maxSeats,
                   std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats);

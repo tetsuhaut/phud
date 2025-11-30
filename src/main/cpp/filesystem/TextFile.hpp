@@ -9,10 +9,11 @@
  */
 class [[nodiscard]] TextFile final {
 private:
+  // Memory layout optimized: largest to smallest to minimize padding
+  std::stringstream m_content;
   std::filesystem::path m_file;
   std::string m_line {};
   int m_lineNb { 0 };
-  std::stringstream m_content;
 
 public:
   explicit TextFile(const std::filesystem::path& file);

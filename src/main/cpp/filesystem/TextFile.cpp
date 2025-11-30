@@ -7,8 +7,8 @@ namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 
 TextFile::TextFile(const fs::path& file)
-  : m_file { file },
-    m_content { pf::readToString(file) } {}
+  : m_content { pf::readToString(file) },
+    m_file { file } {}
 
 TextFile::~TextFile() = default;
 
