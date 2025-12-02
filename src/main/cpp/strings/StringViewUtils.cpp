@@ -16,10 +16,10 @@ namespace {
   template<typename T>
   requires std::is_arithmetic_v<T> and (not std::is_same_v<T, bool>)
   [[nodiscard]] T fromStringView(std::string_view s) {
-    const auto& str { phud::strings::trim(s) };
+    const auto str = phud::strings::trim(s);
     T result{};
     if (str.empty()) { return result; }
-    const std::span<const char> buffer { str.data(), str.size() };
+    const std::span<const char> buffer = { str.data(), str.size() };
     const auto [ptr, ec] { std::from_chars(buffer.data(), buffer.data() + buffer.size(), result) };
 
     if (ec != std::errc{}) {
@@ -70,9 +70,9 @@ std::string_view phud::strings::trim(std::string_view s) {
  * toDouble("42€") returns 42.0
  */
 double phud::strings::toDouble(std::string_view amount) {
-  const auto str { phud::strings::trim(amount) };
-  double ret { 0 };
-  const std::span<const char> buffer { str.data(), str.size() };
+  const auto str = phud::strings::trim(amount);
+  double ret = 0;
+  const std::span<const char> buffer = { str.data(), str.size() };
 
   if (const auto& [ptr, ec] { std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret) };
     ec == std::errc::result_out_of_range) {
@@ -86,15 +86,15 @@ double phud::strings::toDouble(std::string_view amount) {
 }
 
 std::string phud::strings::replaceAll(std::string_view s, char oldC, char newC) {
-  std::string ret { s };
+  std::string ret(s);
   std::ranges::replace(ret, oldC, newC);
   return ret;
 }
 
 /*[[nodiscard]]*/ std::string phud::strings::replaceAll(std::string_view s, std::string_view oldStr,
     std::string_view newStr) {
-  std::string ret { s };
-  auto pos { ret.find(oldStr) };
+  std::string ret(s);
+  auto pos = ret.find(oldStr);
 
   while (std::string_view::npos != pos) { pos = ret.replace(pos, oldStr.size(), newStr).find(oldStr); }
 
@@ -114,7 +114,7 @@ double phud::strings::toAmount(std::string_view amount) {
 double phud::strings::toBuyIn(std::string_view buyIn) {
   std::string token;
   token.reserve(buyIn.size());
-  auto result { 0.0 };
+  auto result = 0.0;
 
   std::ranges::for_each(buyIn, [&token, &result](char c) {
     if (c == '+') {

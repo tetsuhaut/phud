@@ -10,12 +10,12 @@
 //
 
 namespace {
-  constexpr std::string_view PROPERTIES_FILE { "phud-config.properties" };
+  constexpr std::string_view PROPERTIES_FILE = "phud-config.properties";
 
   [[nodiscard]] std::pair<std::string, std::string> readKeyValueFromLine(int lineNb, std::string_view line) {
-    const auto& trimmedLine { phud::strings::trim(line) };
+    const auto& trimmedLine = phud::strings::trim(line);
 
-    if (const auto equalPos { trimmedLine.find('=') }; !notFound(equalPos)) {
+    if (const auto equalPos = trimmedLine.find('='); !notFound(equalPos)) {
       return {
         std::string(phud::strings::trim(trimmedLine.substr(0, equalPos))),
         std::string(phud::strings::trim(trimmedLine.substr(equalPos + 1)))
@@ -32,7 +32,7 @@ namespace {
   [[nodiscard]] ConfigReader::Config parsePropertiesFile(const std::filesystem::path& configPath) {
     ConfigReader::Config config;
     TextFile file(configPath);
-    auto lineNb { 0 };
+    auto lineNb = 0;
 
     while (file.next()) {
       ++lineNb;
@@ -86,7 +86,7 @@ namespace {
 } // anonymous namespace
 
 ConfigReader::Config ConfigReader::loadConfig(const std::filesystem::path& executablePath) {
-  const auto& configPath { executablePath.parent_path() / PROPERTIES_FILE };
+  const auto configPath = executablePath.parent_path() / PROPERTIES_FILE;
 
   if (!std::filesystem::exists(configPath)) {
     createDefaultConfigFile(configPath);

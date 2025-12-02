@@ -76,7 +76,7 @@ public:
     m_callback = fileHasChangedCb;
 
     // Watch the parent directory of the file
-    const auto parentDir { m_file.parent_path().string() };
+    const auto parentDir = m_file.parent_path().string();
     m_watchId = m_watcher.addWatch(parentDir, this, false);
 
     if (0 > m_watchId) {
@@ -197,7 +197,7 @@ static bool wasUpdatedLessThat2MinutesAgo(const fs::path& p) noexcept {
     fs::last_write_time(p) - fs::file_time_type::clock::now() + std::chrono::system_clock::now()
   ) };
   const auto& now { std::chrono::system_clock::now() };
-  const auto age { std::chrono::duration_cast<std::chrono::minutes>(now - lastUpdateTime) };
+  const auto age = std::chrono::duration_cast<std::chrono::minutes>(now - lastUpdateTime);
   return age < std::chrono::minutes(2);
 }
 
@@ -211,11 +211,10 @@ std::string TableService::startProducingStats(std::string_view tableWindowTitle,
     return "No poker site history available";
   }
 
-  if (const auto& oHistoFile {
-        m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->m_historyDir, tableWindowTitle)
-      }; oHistoFile.has_value() and wasUpdatedLessThat2MinutesAgo(oHistoFile.value())) {
-    const auto& histoFile { oHistoFile.value() };
-    const auto tableName { m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle) };
+  if (const auto oHistoFile = m_pImpl->m_pokerSiteHistory->getHistoryFileFromTableWindowTitle(m_pImpl->m_historyDir, tableWindowTitle);
+      oHistoFile.has_value() and wasUpdatedLessThat2MinutesAgo(oHistoFile.value())) {
+    const auto histoFile = oHistoFile.value();
+    const auto tableName = m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle);
     LOG().info<"Table name: '{}', history file: '{}'">(tableName, histoFile.string());
     m_pImpl->m_fileWatcher = Implementation::watchHistoFile(m_pImpl->m_reloadTask, m_pImpl->m_pokerSiteHistory,
       m_pImpl->m_database, histoFile, tableName, observerCb);

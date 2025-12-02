@@ -78,12 +78,12 @@ public:
    * Push a value into the queue. newValue will be moved into the queue, and can't be used afterward.
    */
   void push(T newValue) {
-    auto newData { std::make_shared<T>(std::move(newValue)) };
+    auto newData = std::make_shared<T>(std::move(newValue));
     {
-      auto pNode { std::make_unique<Node>() };
+      auto pNode = std::make_unique<Node>();
       const std::lock_guard<std::mutex> m_pTailLock(m_pTailMutex);
       m_pTail->data = newData;
-      Node* const newTail { pNode.get() };
+      Node* const newTail = pNode.get();
       m_pTail->next = std::move(pNode);
       m_pTail = newTail;
     }

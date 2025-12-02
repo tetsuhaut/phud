@@ -87,7 +87,7 @@ namespace {
   };
 
   [[nodiscard]] constexpr std::pair<int, int> calculatePosition(Seat seat, Seat maxSeats, const phud::Rectangle& tablePos) {
-    const auto it { NB_SEATS_TO_COEFF.find(maxSeats) };
+    const auto it = NB_SEATS_TO_COEFF.find(maxSeats);
     assert(NB_SEATS_TO_COEFF.end() != it && "Invalid maxSeats");
     const auto& [coefX, coefY] { it->second.at(tableSeat::toArrayIndex(seat)) };
     return { limits::toInt(tablePos.x + coefX * tablePos.w),
@@ -95,9 +95,9 @@ namespace {
   }
 
   Seat rotate(Seat tobeRotated, int nbClicks, Seat maxSeats) {
-    const auto currentIndex { tableSeat::toInt(tobeRotated) };
-    const auto maxSeatIndex { tableSeat::toInt(maxSeats) };
-    const auto newIndex { ((currentIndex - 1 + nbClicks) % maxSeatIndex) + 1 };
+    const auto currentIndex = tableSeat::toInt(tobeRotated);
+    const auto maxSeatIndex = tableSeat::toInt(maxSeats);
+    const auto newIndex = ((currentIndex - 1 + nbClicks) % maxSeatIndex) + 1;
     return tableSeat::fromInt(newIndex);
   }
 } // anonymous namespace
@@ -128,7 +128,7 @@ namespace {
     return seat;
   }
 
-  const auto nbClicks { tableSeat::toInt(maxSeats) - tableSeat::toInt(heroSeat) + 1};
+  const auto nbClicks = tableSeat::toInt(maxSeats) - tableSeat::toInt(heroSeat) + 1;
   return rotate(seat, nbClicks, maxSeats);
 }
 

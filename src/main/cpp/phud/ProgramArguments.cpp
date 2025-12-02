@@ -21,7 +21,8 @@ namespace ps = phud::strings;
   std::span<const char* const> arguments,
   std::string_view shortOption,
   std::string_view longOption) {
-  const auto begin { std::begin(arguments) }, end { std::end(arguments) };
+  const auto begin = std::begin(arguments);
+  const auto end = std::end(arguments);
 
   if (const auto it { std::find(begin, end, shortOption) }; end != it) { return gsl::at(arguments, it - begin + 1); }
 
@@ -32,8 +33,8 @@ namespace ps = phud::strings;
 
 [[nodiscard]] static std::optional<fs::path> parseHistoryDir(std::span<const char* const>
   arguments) {
-  if (const auto& oDir { getOptionValue(arguments, "-d", "--historyDir") }; oDir.has_value()) {
-    if (fs::path p { oDir.value() }; phud::filesystem::isDir(p)) { return p; }
+  if (const auto oDir = getOptionValue(arguments, "-d", "--historyDir"); oDir.has_value()) {
+    if (fs::path p = oDir.value(); phud::filesystem::isDir(p)) { return p; }
 
     throw ProgramArgumentsException { fmt::format("The directory '{}' does not exist.", oDir.value()) };
   }
@@ -52,7 +53,7 @@ namespace ps = phud::strings;
 
 [[nodiscard]] static std::optional<LoggingLevel> parseLoggingLevel(
   std::span<const char* const> arguments) {
-  if (const auto& oLogLevel { getOptionValue(arguments, "-l", "--logLevel") };
+  if (const auto oLogLevel = getOptionValue(arguments, "-l", "--logLevel");
     oLogLevel.has_value()) {
     return toLoggingLevel(toLowerCase(oLogLevel.value()));
   }
@@ -66,8 +67,8 @@ namespace ps = phud::strings;
   std::span<const char* const>
   arguments) {
   std::vector<std::string_view> ret;
-  constexpr std::array<std::string_view, 4> KNOWN_ARGS { "-d", "--historyDir", "-l", "--logLevel" };
-  auto index { 0 };
+  constexpr std::array<std::string_view, 4> KNOWN_ARGS = { "-d", "--historyDir", "-l", "--logLevel" };
+  auto index = 0;
   std::ranges::copy_if(arguments, std::back_inserter(ret),
                        [&KNOWN_ARGS, &index](std::string_view arg) {
                          return isOdd(index++) and (std::end(KNOWN_ARGS) == std::ranges::find(KNOWN_ARGS, arg));
@@ -93,28 +94,26 @@ template <StringLiteral STR>
 std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
 parseProgramArguments(std::span<const char* const> args) {
   // NOTE: can't log yet
-  const auto programName { gsl::at(args, 0) };
-  constexpr auto USAGE_TEMPLATE {
+  const auto programName = gsl::at(args, 0);
+  constexpr auto USAGE_TEMPLATE =
     "Usage:\n{} [-d|--historyDir <directory>] "
     "[-l|--logLevel none|trace|info|warning|error]\n"
     "Where:\n"
     "  <directory> is the directory containing the poker site hand history.\n"
-    "  <none|trace|info|warning|error> are the different values for the logging level.\n"
-  };
+    "  <none|trace|info|warning|error> are the different values for the logging level.\n";
 
   if ((std::end(args) != std::ranges::find_if(args, isEqualTo<"-h">)) or
     (std::end(args) != std::ranges::find_if(args, isEqualTo<"--help">))) {
-    const auto& PROGRAM_DESCRIPTION {
+    const auto PROGRAM_DESCRIPTION =
       fmt::format("Poker Heads-Up Dispay version {} \n"
-                  "Shows statistics on the players for the current poker table.\n", ProgramInfos::APP_VERSION)
-    };
+                  "Shows statistics on the players for the current poker table.\n", ProgramInfos::APP_VERSION);
     throw UserAskedForHelpException {
       fmt::format("{}{}", PROGRAM_DESCRIPTION,
                   fmt::format(USAGE_TEMPLATE, programName))
     };
   }
 
-  if (const auto& badArgs { listUnknownArguments(args) }; !badArgs.empty()) {
+  if (const auto badArgs = listUnknownArguments(args); !badArgs.empty()) {
     std::string argsList;
     std::ranges::for_each(badArgs, [&argsList](const auto& arg) { argsList.append(arg).append(", "); });
     argsList = argsList.substr(0, argsList.size() - ps::length(", "));

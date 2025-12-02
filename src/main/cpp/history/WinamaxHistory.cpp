@@ -56,10 +56,10 @@ namespace {
   // using auto&& enhances performances by inlining std::function's logic
   [[nodiscard]] std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
     auto&& onSetNbFiles) {
-    const auto& files { getFiles(historyDir) };
+    const auto files = getFiles(historyDir);
 
     if (onSetNbFiles) {
-      const auto fileSize { files.size() };
+      const auto fileSize = files.size();
       LOG().info<"Notify observer of {} files.">(fileSize);
 
       if (!files.empty()) { std::forward<decltype(onSetNbFiles)>(onSetNbFiles)(fileSize); }
@@ -106,28 +106,24 @@ namespace {
     std::atomic_bool& stop, const auto& onProgress, PlayerCache& sharedCache) {
     // Batch size = 2x number of hardware threads to keep all cores busy
     // while limiting memory usage from having too many files loaded at once
-    const std::size_t batchSize { std::max(2u, std::thread::hardware_concurrency() * 2) };
-
+    const std::size_t batchSize = std::max(2u, std::thread::hardware_concurrency() * 2);
     std::vector<Future<Site*>> allTasks;
     allTasks.reserve(files.size());
-
     LOG().debug<"Processing {} files in batches of {}">(files.size(), batchSize);
 
     // Process files in batches
-    for (std::size_t batchStart { 0 }; batchStart < files.size() and !stop; batchStart += batchSize) {
-      const std::size_t batchEnd { std::min(batchStart + batchSize, files.size()) };
-      const std::size_t currentBatchSize { batchEnd - batchStart };
-
+    for (std::size_t batchStart = 0; batchStart < files.size() and !stop; batchStart += batchSize) {
+      const std::size_t batchEnd = std::min(batchStart + batchSize, files.size());
+      const std::size_t currentBatchSize = batchEnd - batchStart;
       LOG().debug<"Processing batch {}-{} ({} files)">(batchStart, batchEnd - 1, currentBatchSize);
-
       // Submit current batch
       std::vector<Future<Site*>> batchTasks;
       batchTasks.reserve(currentBatchSize);
 
-      for (std::size_t i { batchStart }; i < batchEnd and !stop; ++i) {
-        const auto& file { files[i] };
+      for (std::size_t i = batchStart; i < batchEnd and !stop; ++i) {
+        const auto file = files[i];
         batchTasks.push_back(ThreadPool::submit([file, onProgress, stop = std::ref(stop), &sharedCache]() {
-          Site* pSite { nullptr };
+          Site* pSite = nullptr;
 
           try {
             // Use shared cache to avoid creating duplicate players
@@ -162,8 +158,8 @@ namespace {
 } // anonymous namespace
 
 struct [[nodiscard]] WinamaxHistory::Implementation final {
-  std::vector<Future<Site*>> m_tasks {};
-  std::atomic_bool m_stop { true };
+  std::vector<Future<Site*>> m_tasks = {};
+  std::atomic_bool m_stop = true ;
 }; // struct WinamaxHistory::Implementation
 
 WinamaxHistory::WinamaxHistory() noexcept : m_pImpl { std::make_unique<Implementation>() } {}
@@ -184,15 +180,15 @@ WinamaxHistory::~WinamaxHistory() {
 /*static*/
 bool WinamaxHistory::isValidHistory(const fs::path& dir) {
   LOG().debug<__func__>();
-  const auto& histoDir { (dir / "history").lexically_normal() };
-  const auto& either { getHistoryFilesOrErrorMessage(dir, histoDir) };
+  const auto histoDir = (dir / "history").lexically_normal();
+  const auto& either = getHistoryFilesOrErrorMessage(dir, histoDir);
 
   if (!either) {
     LOG().error(either.error());
     return false; // do not throw as functionnaly correct
   }
 
-  const auto& allFilesAndDirs { either.value() };
+  const auto allFilesAndDirs = either.value();
   return pf::containsAFileEndingWith(allFilesAndDirs, "winamax_positioning_file.dat");
 }
 
@@ -203,8 +199,8 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir,
 
   try {
     LOG().debug<"Loading the history dir '{}'.">(dir.string());
-    const auto& files { getFilesAndNotify(dir, onSetNbFiles) };
-    auto ret { std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
+    const auto files = getFilesAndNotify(dir, onSetNbFiles);
+    auto ret = std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
 
     if (files.empty()) {
       LOG().error<"0 file found in the dir {}">(dir.string());
@@ -223,17 +219,15 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir,
     // Merge all game data from parsed files
     std::ranges::for_each(m_pImpl->m_tasks, [&ret, this](auto& task) {
       if (task.valid()) {
-        if (const auto site { std::unique_ptr<Site>(stlab::await(std::move(task))) };
+        if (const auto site = std::unique_ptr<Site>(stlab::await(std::move(task)));
           !m_pImpl->m_stop and site) { ret->merge(*site); }
       }
     });
     m_pImpl->m_tasks.clear();
-
     // Extract all players from shared cache and add to result
-    auto players { sharedCache.extractPlayers() };
+    auto players = sharedCache.extractPlayers();
     LOG().info<"Adding {} player{} from shared cache.">(players.size(), ps::plural(players.size()));
     std::ranges::for_each(players, [&](auto& p) { ret->addPlayer(std::move(p)); });
-
     LOG().info<"Loading done.">();
     return ret;
   }
@@ -251,7 +245,7 @@ std::unique_ptr<Site> WinamaxHistory::load(const fs::path& dir) {
 
 void WinamaxHistory::stopLoading() {
   m_pImpl->m_stop = true;
-  std::size_t nbTasksFinished { 0 };
+  std::size_t nbTasksFinished = 0;
 
   while (nbTasksFinished != m_pImpl->m_tasks.size()) {
     std::ranges::for_each(m_pImpl->m_tasks, [&nbTasksFinished](auto& task) {
@@ -265,7 +259,7 @@ void WinamaxHistory::stopLoading() {
 
 std::unique_ptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
   LOG().trace<"Reloading the history file '{}'.">(file.string());
-  std::unique_ptr<Site> ret { nullptr };
+  std::unique_ptr<Site> ret = nullptr;
 
   try {
     ret = WinamaxGameHistory::parseGameHistory(file);
@@ -280,13 +274,13 @@ std::unique_ptr<Site> WinamaxHistory::reloadFile(const fs::path& file) {
 std::string_view WinamaxHistory::getTableNameFromTableWindowTitle(std::string_view tableWindowTitle)
 const {
   // Remove "Winamax " prefix if present (new format in 2025)
-  auto workingTitle { tableWindowTitle };
-  if (constexpr auto winamaxPrefix { std::string_view("Winamax ") }; workingTitle.starts_with(winamaxPrefix)) {
+  auto workingTitle = tableWindowTitle;
+  if (constexpr auto winamaxPrefix = std::string_view("Winamax "); workingTitle.starts_with(winamaxPrefix)) {
     workingTitle = workingTitle.substr(winamaxPrefix.size());
   }
 
   // Extract table name using existing logic
-  const auto pos { workingTitle.find('#') };
+  const auto pos = workingTitle.find('#');
   return (notFound(pos))
            ? workingTitle.substr(0, workingTitle.find(" / "))
            : workingTitle.substr(0, pos);
@@ -294,10 +288,10 @@ const {
 
 std::optional<fs::path> WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& dir,
                                                             std::string_view tableWindowTitle) const {
-  const auto tableName { getTableNameFromTableWindowTitle(tableWindowTitle) };
+  const auto tableName = getTableNameFromTableWindowTitle(tableWindowTitle);
   // Search for all files matching the table name, regardless of game type
-  const auto& tablePattern { fmt::format("*_{}_*.txt", tableName) };
-  auto files { pf::listFilesMatchingPattern(dir / "history", tablePattern) };
+  const auto tablePattern = fmt::format("*_{}_*.txt", tableName);
+  auto files = pf::listFilesMatchingPattern(dir / "history", tablePattern);
 
   if (files.empty()) {
     LOG().error<"No history file found for table '{}'">(tableName);

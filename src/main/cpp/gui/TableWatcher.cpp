@@ -19,7 +19,7 @@ namespace {
   bool isPokerTable(std::string_view title) {
     // the window title should be something like 'Winamax someName someOptionalNumber'
     // e.g. 'Winamax Aalen 27', 'Winamax Athens'
-    const auto nbSpaces { std::ranges::count(title, ' ') };
+    const auto nbSpaces = std::ranges::count(title, ' ');
     return
       title.starts_with(WINAMAX_TABLE_PATTERN) and
       (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and

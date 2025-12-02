@@ -14,8 +14,6 @@ static Logger& LOG() {
   return logger;
 }
 
-DirWatcher::~DirWatcher() = default;
-
 struct [[nodiscard]] DirWatcherImpl final : DirWatcher, efsw::FileWatchListener {
 private:
   // Memory layout optimized: largest to smallest to minimize padding
@@ -41,7 +39,7 @@ private:
     // Construct path only when we know it's a valid event
     const fs::path filePath { dir + "/" + filename };
 
-    const auto actionStr { efsw::Actions::Modified == action ? "Modified" : "Add" };
+    const auto actionStr = efsw::Actions::Modified == action ? "Modified" : "Add";
     LOG().info<"The file {} has changed (action: {}), notify listener">(
       filePath.string(), actionStr);
 
@@ -69,7 +67,7 @@ public:
   void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
     std::lock_guard<std::mutex> lock { m_callbackMutex };
     m_callback = fileHasChangedCb;
-    const auto isRecursive { false };
+    const auto isRecursive = false;
     m_watchId = m_watcher.addWatch(m_dir.string(), this, isRecursive);
 
     if (0 > m_watchId) {
@@ -93,7 +91,9 @@ public:
   [[nodiscard]] bool isStopped() const noexcept override {
     return m_stopped.load();
   }
-};
+}; // class DirWatcherImpl
+
+DirWatcher::~DirWatcher() = default;
 
 [[nodiscard]] std::unique_ptr<DirWatcher> DirWatcher::create(const fs::path& dir) {
   return std::make_unique<DirWatcherImpl>(dir);

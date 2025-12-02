@@ -178,7 +178,7 @@ namespace {
   void scheduleUITask(TASK&& aTask) {
     using TaskType = std::decay_t<TASK>;
     Fl::awake([](void* hiddenTask) {
-      const auto task { std::unique_ptr<TaskType>(static_cast<TaskType*>(hiddenTask)) };
+      const auto task = std::unique_ptr<TaskType>(static_cast<TaskType*>(hiddenTask));
       try {
         (*task)();
       }
@@ -248,7 +248,7 @@ namespace {
   template <typename WIDGET>
   [[nodiscard]] gsl::not_null<WIDGET*> createWidget(
     const phud::Rectangle& bounds, std::string_view label, auto setupFunction) {
-    auto widget { createWidget<WIDGET>(bounds, label) };
+    auto widget = createWidget<WIDGET>(bounds, label);
     setupFunction(widget);
     return widget;
   }
@@ -273,7 +273,7 @@ namespace {
   [[nodiscard]] inline std::unique_ptr<Fl_Native_File_Chooser> buildDirectoryChooser(
     const Preferences& preferences) {
     const auto& startDir { preferences.getPreferredHistoDir() };
-    auto pHistoryChoser { std::make_unique<Fl_Native_File_Chooser>() };
+    auto pHistoryChoser = std::make_unique<Fl_Native_File_Chooser>();
     pHistoryChoser->title(MainWindow::Label::chooseHistoryDirectory.data());
     pHistoryChoser->type(Fl_Native_File_Chooser::BROWSE_DIRECTORY);
     pHistoryChoser->directory(startDir.string().c_str());
@@ -305,7 +305,7 @@ namespace {
     TablePlayerIndicators& playerIndicators,
     const phud::Rectangle& tablePosition,
     TableStatistics tableStatistics) {
-    const auto heroSeat { tableStatistics.getHeroSeat() };
+    const auto heroSeat = tableStatistics.getHeroSeat();
     const auto& seats { tableStatistics.getSeats() };
     LOG().debug<"Processing {} seats for player indicators">(seats.size());
 
@@ -314,11 +314,11 @@ namespace {
       LOG().debug<"Checking seat {}">(seatStr);
       if (auto ps { tableStatistics.extractPlayerStatistics(seat) }; nullptr != ps) {
         LOG().debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(), seatStr);
-        const auto rotatedSeat { gui::rotateRelativeToHero(seat, heroSeat, tableStatistics.getMaxSeat()) };
-        const auto& pos { gui::buildPlayerIndicatorPosition(rotatedSeat, tableStatistics.getMaxSeat(), tablePosition) };
+        const auto rotatedSeat = gui::rotateRelativeToHero(seat, heroSeat, tableStatistics.getMaxSeat());
+        const auto pos = gui::buildPlayerIndicatorPosition(rotatedSeat, tableStatistics.getMaxSeat(), tablePosition);
         // update the PlayerIndicators with the latest stats.
         // -1 < seat < nbSeats, 1 < nbSeats < 11
-        auto& playerIndicator { playerIndicators.at(tableSeat::toArrayIndex(seat)) };
+        auto& playerIndicator = playerIndicators.at(tableSeat::toArrayIndex(seat));
 
         if (nullptr == playerIndicator) {
           LOG().debug<"Creating new PlayerIndicator for '{}'">(ps->getPlayerName());
@@ -351,11 +351,11 @@ namespace {
     LOG().info<"Delete table indicators for removed table window(s)">();
 
     for (auto it = tableToPlayerIndicators.begin(); it != tableToPlayerIndicators.end();) {
-      if (const auto& title { it->first }; !std::ranges::contains(tableWindowTitles, title)) {
+      if (const auto title = it->first; !std::ranges::contains(tableWindowTitles, title)) {
         // Stop monitoring this table
         tableService.stopProducingStats();
         // Clear all player indicators for this table
-        auto& playerIndicators { it->second };
+        auto& playerIndicators = it->second;
         std::ranges::for_each(playerIndicators, [](auto& pi) { pi.reset(); });
         LOG().debug<"Removed player indicators for table window: {}">(title);
         it = tableToPlayerIndicators.erase(it);
@@ -374,7 +374,7 @@ namespace {
       scheduleUITask([&playerIndicators, title, stats = std::move(ts)]() mutable {
         LOG().debug<"Scheduled UI task executing for table window '{}'">(title);
 
-        if (const auto tableRect { mswindows::getTableWindowRectangle(title) }) {
+        if (const auto tableRect = mswindows::getTableWindowRectangle(title)) {
           LOG().debug<"Found table window '{}'">(title);
           // Update PlayerIndicators with real statistics
           if (playerIndicators.contains(title)) {
@@ -526,8 +526,8 @@ static void handleDirectoryChoice(Gui::Implementation& self, const Fl_Native_Fil
     LOG().debug<"choseHistoDirCb">();
     auto& self { *static_cast<Gui::Implementation*>(hiddenSelf) };
     informUser<MainWindow::Label::chooseHistoDirText>(self);
-    const auto dirChoser { buildDirectoryChooser(*self.m_preferences) };
-    const auto choice { static_cast<FileChoiceStatus>(dirChoser->show()) };
+    const auto dirChoser = buildDirectoryChooser(*self.m_preferences);
+    const auto choice = static_cast<FileChoiceStatus>(dirChoser->show());
     handleDirectoryChoice(self, *dirChoser, choice);
   };
 
@@ -630,7 +630,7 @@ static gsl::not_null<MyMainWindow*> buildMainWindow(Gui::Implementation* impl) {
   Fl::visual(Fl_Mode::FL_DOUBLE | Fl_Mode::FL_INDEX); // enhance look where needed
   const auto [mx, my, mw, mh] { MainWindow::Screen::mainWindow };
   // ReSharper disable once CppDFAMemoryLeak
-  const auto ret { new MyMainWindow(mx, my, mw, mh, MainWindow::Label::mainWindowTitle.data()) };
+  const auto ret = new MyMainWindow(mx, my, mw, mh, MainWindow::Label::mainWindowTitle.data());
   const auto [x, y] { impl->m_preferences->getMainWindowPosition() };
   ret->position(x, y);
   ret->callback(exitCb, impl);

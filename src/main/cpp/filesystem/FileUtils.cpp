@@ -86,7 +86,7 @@ std::vector<fs::path> phud::filesystem::listFilesInDir(const fs::path& dir,
 }
 
 std::vector<fs::path> phud::filesystem::listTxtFilesInDir(const fs::path& dir) {
-  auto allFilesAndDirs { listFilesAndDirs(dir) };
+  auto allFilesAndDirs = listFilesAndDirs(dir);
   std::erase_if(allFilesAndDirs, [](const auto& p) {
     const auto& pstr { p.string() };
     return !isFile(p) or !pstr.ends_with(".txt") or pstr.ends_with("_summary.txt");
@@ -95,7 +95,7 @@ std::vector<fs::path> phud::filesystem::listTxtFilesInDir(const fs::path& dir) {
 }
 
 std::vector<fs::path> phud::filesystem::listSubDirs(const fs::path& dir) {
-  auto allFilesAndDirs { listFilesAndDirs(dir) };
+  auto allFilesAndDirs = listFilesAndDirs(dir);
   std::erase_if(allFilesAndDirs, [](const auto& p) noexcept {
     return isFile(p);
   });
@@ -185,7 +185,7 @@ namespace {
         }
         else {
           // Find this part anywhere in remaining filename
-          const auto foundPos { filename.substr(filenamePos).find(part) };
+          const auto foundPos = filename.substr(filenamePos).find(part);
           if (foundPos == std::string_view::npos) {
             return false;
           }
@@ -198,12 +198,12 @@ namespace {
           return filename.substr(filenamePos).ends_with(part);
         }
         // Find this part anywhere in remaining filename
-        const auto foundPos { filename.substr(filenamePos).find(part) };
+        const auto foundPos = filename.substr(filenamePos).find(part);
         return foundPos != std::string_view::npos;
       }
       else {
         // Middle part: find in remaining filename
-        const auto foundPos { filename.substr(filenamePos).find(part) };
+        const auto foundPos = filename.substr(filenamePos).find(part);
         if (foundPos == std::string_view::npos) {
           return false;
         }

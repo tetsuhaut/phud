@@ -20,6 +20,7 @@
 #include <sqlite3.h>  // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await
 #include <mutex>
+#include <ranges>
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
 // free the char* returned by sqlite3_errmsg().
@@ -48,7 +49,7 @@ namespace {
 
     if (SQLITE_OK != sqlite3_open(dbName.data(), &pDb)) {
       // sqlite3_errmsg() and sqlite3_close() are null safe
-      const auto& msg { (nullptr != pDb) ? sqlite3_errmsg(pDb) : "Failed to allocate database handle" };
+      const auto msg = (nullptr != pDb) ? sqlite3_errmsg(pDb) : "Failed to allocate database handle";
       sqlite3_close(pDb); // try to free pDb
       throw DatabaseException(fmt::format("Can't open database file '{}': {}", dbName, msg));
     }
@@ -77,8 +78,8 @@ namespace {
   */
   [[nodiscard]] gsl::not_null<sqlite3*> createDatabase(std::string_view name) {
     validation::requireNonEmpty(name, "db name");
-    const auto& dbFile { fs::path(name) };
-    const auto isDbCreation { !pf::isFile(dbFile) };
+    const auto dbFile = fs::path(name);
+    const auto isDbCreation = !pf::isFile(dbFile);
 
     if (isDbCreation) {
       LOG().info<"Creating the database {}">(IN_MEMORY == name
@@ -88,7 +89,7 @@ namespace {
     }
     else { LOG().info<"Opening the existing database file {}, no schema created.">(pf::absolute(dbFile).string()); }
 
-    const auto& pDb { openDatabase(name) }; // will create the database file if needed
+    const auto pDb = openDatabase(name); // will create the database file if needed
 
     if (isDbCreation) {
       LOG().info<"creating the database schema {}">(name);
@@ -170,16 +171,15 @@ namespace {
    * @throws DatabaseException if an error occurs during the insert
    */
   void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) {
-    const auto& hands { game.viewHands() };
-    const auto& gameId { game.getId() };
+    const auto hands = game.viewHands();
+    const auto gameId = game.getId();
     insertGame(db, game);
     insertSpecificGame(db, game);
     LOG().info<"saving {} hands from the game with id={}">(hands.size(), gameId);
     saveHands(db, gameId, hands);
     std::ranges::for_each(hands, [db](const auto& h) {
       LOG().trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
-      const auto av { h->viewActions() };
-      saveActions(db, av);
+      saveActions(db, h->viewActions());
     });
   }
 } // anonymous namespace
@@ -241,7 +241,7 @@ Database::~Database() {
   if (SQLITE_OK != sqlite3_close(m_pImpl->m_database)) {
     LOG().error<"Unknown error when closing the database. Fetching the error message...">();
     try {
-      const auto pErrMsg { sqlite3_errmsg(m_pImpl->m_database) };
+      const auto pErrMsg = sqlite3_errmsg(m_pImpl->m_database);
       LOG().error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
     }
     catch (...) { // can't throw in a destructor
@@ -292,7 +292,7 @@ saveGamesAsync(std::span<const T* const> games, Database& self) {
   ret.reserve(games.size());
   std::transform(games.cbegin(), games.cend(), std::back_inserter(ret), [&self](const auto& pGame) {
     return ThreadPool::submit([pGame, &self]() {
-      const auto& gameId { pGame->getId() };
+      const auto gameId = pGame->getId();
 
       try {
         self.save(*pGame);
@@ -315,10 +315,10 @@ void Database::save(const Site& site) {
   Transaction transaction { m_pImpl->m_database };
   saveSite(m_pImpl->m_database, site);
   save(site.viewPlayers());
-  const auto& cashGames { site.viewCashGames() };
-  const auto& tournaments { site.viewTournaments() };
-  auto tasks1 { saveGamesAsync(std::span { cashGames }, *this) };
-  auto tasks2 { saveGamesAsync(std::span { tournaments }, *this) };
+  const auto cashGames = site.viewCashGames();
+  const auto tournaments = site.viewTournaments();
+  auto tasks1 = saveGamesAsync(std::span { cashGames }, *this);
+  auto tasks2 = saveGamesAsync(std::span { tournaments }, *this);
   std::ranges::for_each(tasks1, [](auto&& task) { stlab::await(std::move(task)); });
   std::ranges::for_each(tasks2, [](auto&& task) { stlab::await(std::move(task)); });
   transaction.commit();
@@ -363,22 +363,20 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
   SqlInsertor gameHandInsert { GAME_TYPE_TO_ID_AND_COLUMN_NAME.find(gsl::at(hands, 0)->getGameType())->second };
   std::ranges::for_each(hands, [&](const auto& pHand) {
     insertHand(handInsert, *pHand);
-    const auto& seats { pHand->getSeats() };
+    const auto seats = pHand->getSeats();
     validation::require(!std::ranges::all_of(seats, [](const auto& p) { return p.empty(); }),
                         "trying to save a hand with no players");
-    auto i { 1 };
-    std::ranges::for_each(seats, [pHand, &handPlayerInsert, &i](const auto& playerName) {
+    std::ranges::for_each(seats | std::views::enumerate, [pHand, &handPlayerInsert](const auto& indexedPlayer) {
+      const auto& [index, playerName] { indexedPlayer };
       // we suppose the Player has been saved before this call
       if (!playerName.empty()) {
         handPlayerInsert
           .handId(pHand->getId())
           .playerName(playerName)
-          .playerSeat(tableSeat::fromInt(i))
+          .playerSeat(tableSeat::fromArrayIndex(index))
           .isWinner(pHand->isWinner(playerName))
           .newInsert();
       }
-
-      i++;
     });
     gameHandInsert
       .gameId(gameId)
@@ -434,7 +432,7 @@ public:
   * @throws DatabaseException if an error occurs
   */
   [[nodiscard]] QueryResult execute() {
-    const auto ret { sqlite3_step(m_pStatement) };
+    const auto ret = sqlite3_step(m_pStatement);
 
     if (SQLITE_DONE == ret) { return QueryResult::NO_MORE_ROWS; }
 
@@ -489,14 +487,14 @@ static std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> 
 
   do {
     validation::require(8 == p.getColumnCount(), "bad number of columns in readTablePlayersStatistics()");
-    const auto& playerName { p.getColumnAsString(0) };
-    const auto& siteName { p.getColumnAsString(1) };
-    const auto isHero { p.getColumnAsBool(2) };
-    const auto playerSeat { tableSeat::fromInt(p.getColumnAsInt(3)) };
-    // const auto& comment { gsl::at(columns, 4) };
-    const auto vpip { p.getColumnAsDouble(5) };
-    const auto pfr { p.getColumnAsDouble(6) };
-    const auto nbHands { p.getColumnAsInt(7) };
+    const auto playerName = p.getColumnAsString(0);
+    const auto siteName = p.getColumnAsString(1);
+    const auto isHero = p.getColumnAsBool(2);
+    const auto playerSeat = tableSeat::fromInt(p.getColumnAsInt(3));
+    // const auto comment = gsl::at(columns, 4);
+    const auto vpip = p.getColumnAsDouble(5);
+    const auto pfr = p.getColumnAsDouble(6);
+    const auto nbHands = p.getColumnAsInt(7);
     if (playerSeat != Seat::seatUnknown) {
       playerStats.at(tableSeat::toArrayIndex(playerSeat)) =
         std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
@@ -526,10 +524,10 @@ std::unique_ptr<PlayerStatistics> Database::readPlayerStatistics(std::string_vie
   if (QueryResult::NO_MORE_ROWS == p.execute()) { return nullptr; }
 
   validation::require(4 == p.getColumnCount(), "bad number of columns in Database::readPlayerStatistics()");
-  const auto isHero { 0 != p.getColumnAsInt(0) };
-  const auto vpip { p.getColumnAsDouble(1) };
-  const auto pfr { p.getColumnAsDouble(2) };
-  const auto nbHands { p.getColumnAsInt(3) };
+  const auto isHero = 0 != p.getColumnAsInt(0);
+  const auto vpip = p.getColumnAsDouble(1);
+  const auto pfr = p.getColumnAsDouble(2);
+  const auto nbHands = p.getColumnAsInt(3);
   return std::make_unique<PlayerStatistics>(
     PlayerStatistics::Params {
       .playerName = playerName, .siteName = site, .isHero = isHero,

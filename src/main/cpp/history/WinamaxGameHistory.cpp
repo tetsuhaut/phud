@@ -60,14 +60,14 @@ struct [[nodiscard]] FileStem final {
 // !!! exported for unit testing !!!
 std::optional<FileStem> parseFileStem(std::string_view fileStem) {
   LOG().info<"Parsing the file stem {}.">(fileStem);
-  FileStem ret {};
+  FileStem ret = {};
 
   if (12 > fileStem.size()) {
     LOG().error<"Couldn't parse the file stem '{}', too short!!!">(fileStem);
     return ret;
   }
 
-  const auto pos { fileStem.find("_real_", 9) }; // we ignore the date at the start of the file stem
+  const auto pos = fileStem.find("_real_", 9); // we ignore the date at the start of the file stem
   ret.m_isRealMoney = (std::string_view::npos != pos);
 
   if (!ret.m_isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
@@ -147,7 +147,7 @@ template <typename GAME_TYPE>
 [[nodiscard]] static std::unique_ptr<Site>
 handleGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
   LOG().debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
-  auto pSite { std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME) };
+  auto pSite = std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
 
   if (auto g { createGame<GAME_TYPE>(gameHistoryFile, cache) }; nullptr != g) {
     LOG().debug<"Game created for file {}.">(gameHistoryFile.filename().string());
@@ -166,7 +166,7 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
                                                             PlayerCache& cache) {
   LOG().debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
                                                     gameHistoryFile.filename().string());
-  const auto& fileStem { gameHistoryFile.stem().string() };
+  const auto fileStem = gameHistoryFile.stem().string();
 
   if (12 > fileStem.size()) {
     LOG().error<"Couldn't parse the file name '{}', too short!!!">(fileStem);
@@ -193,10 +193,10 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
 // Legacy version without cache (creates its own local cache)
 std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile) {
   PlayerCache cache { ProgramInfos::WINAMAX_SITE_NAME };
-  auto site { parseGameHistory(gameHistoryFile, cache) };
+  auto site = parseGameHistory(gameHistoryFile, cache);
 
   // Extract players from local cache and add to site
-  auto players { cache.extractPlayers() };
+  auto players = cache.extractPlayers();
   std::ranges::for_each(players, [&](auto& p) { site->addPlayer(std::move(p)); });
 
   return site;

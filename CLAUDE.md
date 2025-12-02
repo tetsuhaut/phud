@@ -97,8 +97,6 @@ static_check.bat
 - Prefer `auto` for type deduction when the type is obvious from context
 - Use `const` everywhere possible to ensure immutability
 - Use `constexpr` for compile-time constants and functions
-- Prefer brace initialization `{}` over assignment `=` for all variable declarations
-  - Example: `const auto value { 42 };` instead of `const auto value = 42;`
 - **Yoda conditions**: In comparisons, always place constants on the left side to prevent accidental assignment
   - Example: `if ("logging.level" == key)` instead of `if (key == "logging.level")`
   - Example: `if (0 == value)` instead of `if (value == 0)`

@@ -64,8 +64,8 @@ void PlayerIndicator::refresh(std::string_view playerName) const {
 void PlayerIndicator::updateBasePosition(const std::pair<int, int>& basePosition) {
   m_basePosition = basePosition;
   // Appliquer la nouvelle position de base + l'offset utilisateur
-  const auto finalX { basePosition.first + m_userOffsetX };
-  const auto finalY { basePosition.second + m_userOffsetY };
+  const auto finalX = basePosition.first + m_userOffsetX;
+  const auto finalY = basePosition.second + m_userOffsetY;
   position(finalX, finalY);
 }
 

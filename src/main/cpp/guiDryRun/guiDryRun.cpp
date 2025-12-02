@@ -123,7 +123,7 @@ int main() {
   Database db;
   TableService ts(db);
   HistoryService hs(db);
-  const auto ret { Gui(ts, hs).run() };
+  const auto ret = Gui(ts, hs).run();
   LOG().debug<"guiDryRun is stopping">();
   return ret;
 }

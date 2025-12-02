@@ -13,7 +13,7 @@ TextFile::TextFile(const fs::path& file)
 TextFile::~TextFile() = default;
 
 bool TextFile::next() {
-  const auto ret { !std::getline(m_content, m_line).fail() };
+  const auto ret = !std::getline(m_content, m_line).fail();
 
   if (ret) { ++m_lineNb; }
 
@@ -31,11 +31,11 @@ TextFile& TextFile::trim() {
 }
 
 bool TextFile::containsExact(std::string_view s) const noexcept {
-  const auto pos { m_line.find(s) };
+  const auto pos = m_line.find(s);
 
   if (std::string_view::npos == pos) { return false; }
 
-  const auto offset { pos + s.size() };
+  const auto offset = pos + s.size();
 
   // the token found is at the end of the string -> match is always exact
   if (m_line.size() <= offset) { return true; }
@@ -44,7 +44,7 @@ bool TextFile::containsExact(std::string_view s) const noexcept {
   if (' ' == m_line.at(offset - 1)) { return true; }
 
   // look at the character just after the found substring
-  const auto c { m_line.at(offset) };
+  const auto c = m_line.at(offset);
   return ('A' > c) or (c > 'z');
 }
 

@@ -123,7 +123,7 @@ SqlInsertor& SqlInsertor::newInsert() {
 
 // externalized for unit testing
 std::string formatSQL(std::string_view sql) {
-  auto ret { ps::replaceAll(sql, "FROM", "\nFROM") };
+  auto ret = ps::replaceAll(sql, "FROM", "\nFROM");
   ret = ps::replaceAll(ret, "WHERE", "\nWHERE");
   ret = ps::replaceAll(ret, ",", ",\n\t");
   ret = ps::replaceAll(ret, "AND", "AND\n\t");

@@ -11,10 +11,10 @@ static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
   std::array<std::string, TableConstants::MAX_SEATS> ret;
 
   while (tf.startsWith("Seat ")) {
-    const auto& line { tf.getLine() };
-    const auto pos { line.find(": ", SEAT_LENGTH) };
-    const auto seat { ps::toSizeT(line.substr(SEAT_LENGTH, pos - SEAT_LENGTH)) - 1 };
-    const auto& player { line.substr(pos + 2, line.rfind(" (") - pos - 2) };
+    const auto line = tf.getLine();
+    const auto pos = line.find(": ", SEAT_LENGTH);
+    const auto seat = ps::toSizeT(line.substr(SEAT_LENGTH, pos - SEAT_LENGTH)) - 1;
+    const auto player = line.substr(pos + 2, line.rfind(" (") - pos - 2);
     ret.at(seat) = player;
     tf.next();
   }
@@ -28,7 +28,7 @@ static constexpr auto SEAT_LENGTH { ps::length("Seat ") };
 // We assume there are always 5 tokens
 [[nodiscard]] /*static*/ std::array<std::string_view, 5> split(std::string_view str,
     std::string_view delimiter) {
-  std::array<std::string_view, 5> ret { "none", "none", "none", "none", "none" };
+  std::array<std::string_view, 5> ret = { "none", "none", "none", "none", "none" };
   std::size_t offset = 0, delimiterPosition = 0, arrayIndex = 0;
 
   while (std::string_view::npos != (delimiterPosition = str.find(delimiter, offset))) {

@@ -65,7 +65,7 @@ public:
   ConditionalConsole() : m_hasConsole { TRUE == AttachConsole(ATTACH_PARENT_PROCESS) } {
     // if the app was launched in a console, do not create a new one
     if (m_hasConsole) {
-      FILE* fp { nullptr };
+      FILE* fp = nullptr;
       freopen_s(&fp, "CONOUT$", "w", stdout);
       freopen_s(&fp, "CONOUT$", "w", stderr);
       freopen_s(&fp, "CONIN$", "r", stdin);
@@ -90,19 +90,19 @@ public:
  * Note : main or WinMain functions can't be static or [[nodiscard]]
  */
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
-  const auto& argc { __argc };
-  const auto& argv { __argv };
+  const auto argc = __argc;
+  const auto argv = __argv;
   ConditionalConsole attachToParentConsoleIfNeeded;
 #  else
   int main(int argc, const char* const* const argv) {
 #endif  // _WIN32
   std::setlocale(LC_ALL, "en_US.utf8");
-  auto nbErr { 0 };
+  auto nbErr = 0;
 
   try {
-    const auto args { std::span(argv, limits::toSizeT(argc)) };
+    const auto args = std::span(argv, limits::toSizeT(argc));
     const auto& [oHistoDir, loggingLevel, loggingPattern] { ProgramConfiguration::readConfiguration(args) };
-    LoggingConfig _ { loggingPattern };
+    LoggingConfig _(loggingPattern);
     Logger::setLoggingLevel(loggingLevel);
     std::signal(SIGSEGV, logErrorAndAbort);
     std::signal(SIGABRT, logErrorAndAbort);
@@ -113,12 +113,12 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
     HistoryService hs(db);
 
     if (oHistoDir.has_value()) {
-      if (const auto& historyDir { oHistoDir.value() }; PokerSiteHistory::isValidHistory(historyDir)) {
-        const auto& site { PokerSiteHistory::load(historyDir) };
+      if (const auto historyDir = oHistoDir.value(); PokerSiteHistory::isValidHistory(historyDir)) {
+        const auto site = PokerSiteHistory::load(historyDir);
         db.save(*site);
       }
       else {
-        const auto& strDir { oHistoDir.value().string() };
+        const auto strDir = oHistoDir.value().string();
         throw PhudException(fmt::format("The provided hand history directory '{}' is invalid", strDir));
       }
       LOG().info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(toString(loggingLevel), loggingPattern, oHistoDir.value().string());

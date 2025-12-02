@@ -66,8 +66,8 @@ std::pair<int, int> Preferences::getMainWindowPosition() const {
   /* compute the center position */
   int dummyX, dummyY, screenWidth, screenHeight;
   Fl::screen_xywh(dummyX, dummyY, screenWidth, screenHeight);
-  const auto initX { (screenWidth - width) / 2 };
-  const auto initY { (screenHeight - height) / 2 };
+  const auto initX = (screenWidth - width) / 2;
+  const auto initY = (screenHeight - height) / 2;
 
   /* get the previous position from preferences. if none, use the center position */
   int x, y;

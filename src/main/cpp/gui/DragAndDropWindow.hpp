@@ -56,8 +56,8 @@ protected:
 
       case Fl_Event::FL_RELEASE: {
         if (m_cb) {
-          const auto x { Fl_Double_Window::x() };
-          const auto y { Fl_Double_Window::y() };
+          const auto x = Fl_Double_Window::x();
+          const auto y = Fl_Double_Window::y();
           m_cb(x, y);
           return 1;
         }

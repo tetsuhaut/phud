@@ -40,9 +40,9 @@ template <typename GAME_TYPE> requires(std::is_same_v<GAME_TYPE, CashGame>
 template <typename GAME_TYPE> [[nodiscard]] static
 std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
   LOG().debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
-  const auto& fileStem { ps::sanitize(gameHistoryFile.stem().string()) };
+  const auto fileStem = ps::sanitize(gameHistoryFile.stem().string());
   std::unique_ptr<GAME_TYPE> ret;
-  TextFile tf { gameHistoryFile };
+  TextFile tf(gameHistoryFile);
 
   while (tf.next()) {
     if (nullptr == ret) {
@@ -70,7 +70,7 @@ std::unique_ptr<GAME_TYPE> createGame(auto,
 template<typename GAME_TYPE>
 [[nodiscard]] static std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile) {
   LOG().debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
-  auto pSite { std::make_unique<Site>(ProgramInfos::PMU_SITE_NAME) };
+  auto pSite = std::make_unique<Site>(ProgramInfos::PMU_SITE_NAME);
   PlayerCache cache { ProgramInfos::PMU_SITE_NAME };
 
   if (auto g { createGame<GAME_TYPE>(gameHistoryFile, cache) }; nullptr != g) {
@@ -78,7 +78,7 @@ template<typename GAME_TYPE>
     pSite->addGame(std::move(g));
   } else { LOG().info<"Game *not* created for file {}.">(gameHistoryFile.filename().string()); }
 
-  auto players { cache.extractPlayers() };
+  auto players = cache.extractPlayers();
   std::ranges::for_each(players, [&](auto & p) { pSite->addPlayer(std::move(p)); });
   return pSite;
 }

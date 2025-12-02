@@ -61,13 +61,13 @@ namespace {
   }
 
   BOOL windowTitleCallback(HWND hwnd, LPARAM hiddenTitles) {
-    auto& localTitles { *reinterpret_cast<std::vector<std::string>*>(hiddenTitles) };
+    auto& localTitles = *reinterpret_cast<std::vector<std::string>*>(hiddenTitles);
 
     if (IsWindowVisible(hwnd)) {
       // Get window title
-      const auto length { GetWindowTextLength(hwnd) };
-      const auto lengthPlusOne { length + 1 };
-      auto title { std::string(limits::toSizeT(lengthPlusOne), '\0') };
+      const auto length = GetWindowTextLength(hwnd);
+      const auto lengthPlusOne = length + 1;
+      auto title = std::string(limits::toSizeT(lengthPlusOne), '\0');
 
       if (const auto actualLength { GetWindowText(hwnd, title.data(), lengthPlusOne) }; actualLength > 0) {
         title.resize(limits::toSizeT(actualLength));
@@ -87,7 +87,7 @@ std::vector<std::string> mswindows::getWindowTitles() {
 
 std::optional<phud::Rectangle> mswindows::getTableWindowRectangle(std::string_view tableWindowTitle) {
   // Find window position by title
-  if (const auto& hwnd { FindWindow(nullptr, tableWindowTitle.data()) }; nullptr != hwnd) {
+  if (const auto hwnd = FindWindow(nullptr, tableWindowTitle.data()); nullptr != hwnd) {
     if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
       return toRectangle(rect);
     }
