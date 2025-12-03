@@ -12,7 +12,7 @@ enum class GameType : short;
 enum class Seat : short;
 
 class [[nodiscard]] Hand final {
-private:
+ private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::array<std::string, TableConstants::MAX_SEATS> m_seats;
   std::array<std::string, TableConstants::MAX_SEATS> m_winners;
@@ -29,7 +29,7 @@ private:
   Seat m_buttonSeat;
   Seat m_maxSeats;
 
-public:
+ public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     GameType gameType;
@@ -58,10 +58,13 @@ public:
   [[nodiscard]] constexpr GameType getGameType() const noexcept { return m_gameType; }
   [[nodiscard]] constexpr const std::string& getSiteName() const noexcept { return m_siteName; }
   [[nodiscard]] constexpr const std::string& getTableName() const noexcept { return m_tableName; }
-  [[nodiscard]] constexpr const std::array<std::string, TableConstants::MAX_SEATS>& getSeats() const noexcept { return m_seats; }
+  [[nodiscard]] constexpr const std::array<std::string, TableConstants::MAX_SEATS>&
+  getSeats() const noexcept {
+    return m_seats;
+  }
   [[nodiscard]] constexpr Seat getButtonSeat() const noexcept { return m_buttonSeat; }
   [[nodiscard]] constexpr Seat getMaxSeats() const noexcept { return m_maxSeats; }
-  [[nodiscard]] constexpr int getLevel()const noexcept { return m_level; }
+  [[nodiscard]] constexpr int getLevel() const noexcept { return m_level; }
   [[nodiscard]] constexpr long getAnte() const noexcept { return m_ante; }
   [[nodiscard]] Time getStartDate() const noexcept { return m_date; }
   [[nodiscard]] bool isPlayerInvolved(std::string_view name) const;

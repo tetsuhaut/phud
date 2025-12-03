@@ -9,7 +9,7 @@
 #include <FL/Fl_Preferences.H>
 
 static Logger& LOG() {
-  static Logger logger { CURRENT_FILE_NAME };
+  static Logger logger {CURRENT_FILE_NAME};
   return logger;
 }
 
@@ -17,35 +17,34 @@ namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 
 namespace {
-  constexpr std::string_view CHOSEN_DIR { "preferencesKeyChosenDir" };
-  constexpr auto MAX_PATH_LENGTH { 260 };
+constexpr std::string_view CHOSEN_DIR {"preferencesKeyChosenDir"};
+constexpr auto MAX_PATH_LENGTH {260};
 } // anonymous namespace
 
 struct [[nodiscard]] Preferences::Implementation final {
   Fl_Preferences m_preferences;
 
   explicit Implementation(bool isInMemory)
-  // see https://www.fltk.org/doc-1.4/classFl__Preferences.html#a0947b73d778ca66b9fbb97b75bbbd7cb
+    // see https://www.fltk.org/doc-1.4/classFl__Preferences.html#a0947b73d778ca66b9fbb97b75bbbd7cb
     : m_preferences(isInMemory ? Fl_Preferences::MEMORY : Fl_Preferences::USER_L,
-                    ProgramInfos::APP_SHORT_NAME.data(),
-                    ProgramInfos::APP_SHORT_NAME.data()) {}
+                    ProgramInfos::APP_SHORT_NAME.data(), ProgramInfos::APP_SHORT_NAME.data()) {}
 }; // struct Preferences::Implementation
 
 Preferences::Preferences(bool isInMemory)
-  : m_pImpl { std::make_unique<Implementation>(isInMemory) } {}
+  : m_pImpl {std::make_unique<Implementation>(isInMemory)} {}
 
 Preferences::~Preferences() = default;
 
 std::filesystem::path Preferences::getPreferredHistoDir() const {
-  const auto& dir { getStringPreference(::CHOSEN_DIR, "") };
-  const auto& pathDir { fs::path(dir) };
+  const auto& dir {getStringPreference(::CHOSEN_DIR, "")};
+  const auto& pathDir {fs::path(dir)};
   // Return path only if it's not empty and the directory exists
   return (!pathDir.empty() and pf::isDir(pathDir)) ? pathDir : "";
 }
 
 std::string Preferences::getHistoryDirectoryDisplayLabel() const {
-  if (const auto& historyDir { getPreferredHistoDir() }; !historyDir.empty()) {
-    if (const auto& dirString { historyDir.string() }; !dirString.empty()) {
+  if (const auto& historyDir {getPreferredHistoDir()}; !historyDir.empty()) {
+    if (const auto& dirString {historyDir.string()}; !dirString.empty()) {
       return dirString;
     }
   }
@@ -60,8 +59,10 @@ void Preferences::saveHistoryDirectory(const std::filesystem::path& dir) const {
 std::pair<int, int> Preferences::getMainWindowPosition() const {
   /* get the previous width and height from preferences, if any */
   int width, height;
-  m_pImpl->m_preferences.get(MainWindow::Label::width.data(), width, MainWindow::Screen::mainWindow.w);
-  m_pImpl->m_preferences.get(MainWindow::Label::height.data(), height, MainWindow::Screen::mainWindow.h);
+  m_pImpl->m_preferences.get(MainWindow::Label::width.data(), width,
+                             MainWindow::Screen::mainWindow.w);
+  m_pImpl->m_preferences.get(MainWindow::Label::height.data(), height,
+                             MainWindow::Screen::mainWindow.h);
 
   /* compute the center position */
   int dummyX, dummyY, screenWidth, screenHeight;
@@ -74,7 +75,7 @@ std::pair<int, int> Preferences::getMainWindowPosition() const {
   m_pImpl->m_preferences.get(MainWindow::Label::x.data(), x, initX);
   m_pImpl->m_preferences.get(MainWindow::Label::y.data(), y, initY);
 
-  return { x, y };
+  return {x, y};
 }
 
 void Preferences::saveWindowPosition(int x, int y) const {
@@ -99,7 +100,8 @@ void Preferences::saveIntPreference(std::string_view key, int value) const {
   }
 }
 
-std::string Preferences::getStringPreference(std::string_view key, std::string_view defaultValue) const {
+std::string Preferences::getStringPreference(std::string_view key,
+                                             std::string_view defaultValue) const {
   char buffer[MAX_PATH_LENGTH + 1] {};
   m_pImpl->m_preferences.get(key.data(), buffer, defaultValue.data(), MAX_PATH_LENGTH);
   buffer[MAX_PATH_LENGTH] = '\0';

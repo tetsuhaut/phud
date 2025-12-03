@@ -7,13 +7,13 @@
  * A tournament or cashgame poker player.
  */
 class [[nodiscard]] Player final {
-private:
+ private:
   std::string m_name;
   std::string m_site;
   std::string m_comments;
   bool m_isHero = false;
 
-public:
+ public:
   struct [[nodiscard]] Params final {
     std::string_view name;
     std::string_view site;

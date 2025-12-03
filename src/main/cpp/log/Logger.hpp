@@ -1,22 +1,22 @@
 #pragma once
 
-#include "log/LoggingLevel.hpp" // std::string_view
+#include "log/LoggingLevel.hpp"      // std::string_view
 #include "strings/StringLiteral.hpp" // concatLiteral
-#include <span> // std::span
+#include <span>                      // std::span
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to fmt
 #  pragma warning(push)
-#  pragma warning(disable : 4191 4244 4365 4514 4625 4626 4820 5026 5027 )
-#endif  // _MSC_VER
+#  pragma warning(disable : 4191 4244 4365 4514 4625 4626 4820 5026 5027)
+#endif // _MSC_VER
 
 #include <spdlog/fmt/bundled/format.h> // fmt::format()
 
-#if defined(_MSC_VER)  // end of specific msvc warnings removal
+#if defined(_MSC_VER) // end of specific msvc warnings removal
 #  pragma warning(pop)
 #endif
 
 class [[nodiscard]] Logger final {
-private:
+ private:
   std::string_view m_name;
   static void traceStr(std::string_view msg);
   static void debugStr(std::string_view msg);
@@ -25,8 +25,9 @@ private:
   static void errorStr(std::string_view msg);
   static void criticalStr(std::string_view msg);
 
-public:
-  explicit Logger(std::string_view name) : m_name { name } {}
+ public:
+  explicit Logger(std::string_view name)
+    : m_name {name} {}
 
   // to be constexpr, fmt::format requires a constexpr string as first parameter
   void trace(std::string_view msg) { traceStr(fmt::format("[{}]: {}", m_name, msg)); }
@@ -38,42 +39,52 @@ public:
 
   template <StringLiteral FMT, typename... Args>
   void trace(Args&&... args) {
-    //static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
+    // static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
     trace(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
   template <StringLiteral FMT, typename... Args>
-  void debug(Args&&... args) { debug(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void debug(Args&&... args) {
+    debug(fmt::format(FMT.value, std::forward<Args>(args)...));
+  }
 
   template <StringLiteral FMT, typename... Args>
-  void info(Args&&... args) { info(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void info(Args&&... args) {
+    info(fmt::format(FMT.value, std::forward<Args>(args)...));
+  }
 
   template <StringLiteral FMT, typename... Args>
-  void warn(Args&&... args) { warn(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void warn(Args&&... args) {
+    warn(fmt::format(FMT.value, std::forward<Args>(args)...));
+  }
 
   template <StringLiteral FMT, typename... Args>
-  void error(Args&&... args) { error(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void error(Args&&... args) {
+    error(fmt::format(FMT.value, std::forward<Args>(args)...));
+  }
 
   template <StringLiteral FMT, typename... Args>
-  void critical(Args&&... args) { critical(fmt::format(FMT.value, std::forward<Args>(args)...)); }
+  void critical(Args&&... args) {
+    critical(fmt::format(FMT.value, std::forward<Args>(args)...));
+  }
 
   /** Call one of those methods before any logging. */
   /**
-  * Place holders to use to format messages:
-  * %D: date
-  * %H: time hour
-  * %L: Short log level of the message
-  * %M: time minutes
-  * %S: time seconds
-  * %e: time milliseconds
-  * %l: log level
-  * %n: name of the logger, as provided in the constructor
-  * %t: thread identifier
-  * %v: message
-  * %z: time zone
-  * etc.
-  * see https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags
-  */
+   * Place holders to use to format messages:
+   * %D: date
+   * %H: time hour
+   * %L: Short log level of the message
+   * %M: time minutes
+   * %S: time seconds
+   * %e: time milliseconds
+   * %l: log level
+   * %n: name of the logger, as provided in the constructor
+   * %t: thread identifier
+   * %v: message
+   * %z: time zone
+   * etc.
+   * see https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags
+   */
   static void setupFileInfoLogging(std::string_view pattern);
   static void setupConsoleWarnLogging(std::string_view pattern);
   static void setupConsoleDebugLogging(std::string_view pattern);
@@ -98,10 +109,14 @@ public:
 template <typename CHAR_TYPE, std::size_t ARRAY_LENGTH>
 constexpr std::size_t getFileNameOffset(const CHAR_TYPE (&str)[ARRAY_LENGTH],
                                         const std::size_t startPos = ARRAY_LENGTH - 1) {
-  if constexpr (ARRAY_LENGTH == 1) { return 0; }
-  const std::span<const CHAR_TYPE, ARRAY_LENGTH> buffer { str };
+  if constexpr (ARRAY_LENGTH == 1) {
+    return 0;
+  }
+  const std::span<const CHAR_TYPE, ARRAY_LENGTH> buffer {str};
   // by construction, startPos cannot be out of scope
-  if (('/' == buffer[startPos]) or ('\\' == buffer[startPos])) { return startPos + 1; }
+  if (('/' == buffer[startPos]) or ('\\' == buffer[startPos])) {
+    return startPos + 1;
+  }
   return (startPos > 0) ? getFileNameOffset(str, startPos - 1) : 0;
 }
 
@@ -116,10 +131,11 @@ struct [[nodiscard]] LoggingConfig final {
 
 // forces the compiler to do a compile time evaluation
 namespace utility {
-  template <typename T, T v>
-  struct [[nodiscard]] ConstexprValue final {
-    static constexpr T value = v;
-  }; // struct ConstexprValue
+template <typename T, T v>
+struct [[nodiscard]] ConstexprValue final {
+  static constexpr T value = v;
+}; // struct ConstexprValue
 } // namespace utility
 
-#define CURRENT_FILE_NAME &__FILE__[::utility::ConstexprValue<std::size_t, getFileNameOffset(__FILE__)>::value]
+#define CURRENT_FILE_NAME \
+  &__FILE__[::utility::ConstexprValue<std::size_t, getFileNameOffset(__FILE__)>::value]

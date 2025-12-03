@@ -1,7 +1,7 @@
 #pragma once
 
 #include "entities/Player.hpp" // used in a std::unordered_map so must be a complete type
-#include <memory> // std::unique_ptr
+#include <memory>              // std::unique_ptr
 #include <string>
 #include <string_view>
 #include <unordered_map>
@@ -15,13 +15,13 @@ class Tournament;
  * statistics on encountered players behavior.
  */
 class [[nodiscard]] Site final {
-private:
+ private:
   std::string m_name;
   std::unordered_map<std::string, std::unique_ptr<Player>> m_players {};
   std::vector<std::unique_ptr<CashGame>> m_cashGames {};
   std::vector<std::unique_ptr<Tournament>> m_tournaments {};
 
-public:
+ public:
   explicit Site(std::string_view name);
   Site(const Site&) = delete;
   Site(Site&&) = delete;
@@ -36,7 +36,7 @@ public:
   [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_name; }
   [[nodiscard]] std::vector<const Player*> viewPlayers() const;
   [[nodiscard]] const Player* viewPlayer(std::string_view name) const {
-    const auto& p { m_players.find(std::string(name)) };
+    const auto& p {m_players.find(std::string(name))};
     return m_players.end() == p ? nullptr : p->second.get();
   }
   void merge(Site& other);

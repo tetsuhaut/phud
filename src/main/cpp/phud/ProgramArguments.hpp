@@ -16,15 +16,14 @@
  * @returns the hand history directory, and the logging level
  */
 [[nodiscard]] std::pair<std::optional<std::filesystem::path>, std::optional<LoggingLevel>>
-    parseProgramArguments(
-      std::span<const char* const> args);
+parseProgramArguments(std::span<const char* const> args);
 
 class [[nodiscard]] ProgramArgumentsException : public PhudException {
-public:
+ public:
   using PhudException::PhudException;
 };
 
 class [[nodiscard]] UserAskedForHelpException final : public ProgramArgumentsException {
-public:
+ public:
   using ProgramArgumentsException::ProgramArgumentsException;
 };

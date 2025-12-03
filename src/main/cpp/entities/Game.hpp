@@ -11,22 +11,18 @@ enum class Seat : short;
 /**
  * Game variants that phud understands.
  */
-enum class /*[[nodiscard]]*/ Variant : short {
-  none, holdem, omaha, omaha5
-};
+enum class /*[[nodiscard]]*/ Variant : short { none, holdem, omaha, omaha5 };
 
 /**
  * Game limits that phud understands.
  */
-enum class /*[[nodiscard]]*/ Limit : short {
-  none, noLimit, potLimit
-};
+enum class /*[[nodiscard]]*/ Limit : short { none, noLimit, potLimit };
 
 /**
  * A game.
  */
 class [[nodiscard]] Game final {
-private:
+ private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::string m_id;
   std::string m_site;
@@ -38,8 +34,7 @@ private:
   Seat m_nbMaxSeats;
   bool m_isRealMoney;
 
-public:
-
+ public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     std::string_view siteName;
@@ -72,13 +67,12 @@ public:
 }; // class Game
 
 class [[nodiscard]] Tournament final {
-private:
+ private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::unique_ptr<Game> m_game;
   double m_buyIn;
 
-public:
-
+ public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     std::string_view siteName;
@@ -102,8 +96,12 @@ public:
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
   [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }
   [[nodiscard]] std::vector<const Hand*> viewHands() const { return m_game->viewHands(); }
-  [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const { return m_game->viewHands(player); }
-  [[nodiscard]] constexpr const std::string& getSiteName() const noexcept { return m_game->getSiteName(); }
+  [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const {
+    return m_game->viewHands(player);
+  }
+  [[nodiscard]] constexpr const std::string& getSiteName() const noexcept {
+    return m_game->getSiteName();
+  }
   [[nodiscard]] constexpr const std::string& getId() const noexcept { return m_game->getId(); }
   [[nodiscard]] constexpr Variant getVariant() const noexcept { return m_game->getVariant(); }
   [[nodiscard]] constexpr Limit getLimitType() const noexcept { return m_game->getLimitType(); }
@@ -112,14 +110,13 @@ public:
 }; // class Tournament
 
 class [[nodiscard]] CashGame final {
-private:
+ private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::unique_ptr<Game> m_game;
   double m_smallBlind;
   double m_bigBlind;
 
-public:
-
+ public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     std::string_view siteName;
@@ -144,8 +141,12 @@ public:
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
   [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }
   [[nodiscard]] std::vector<const Hand*> viewHands() const { return m_game->viewHands(); }
-  [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const { return m_game->viewHands(player); }
-  [[nodiscard]] constexpr const std::string& getSiteName() const noexcept { return m_game->getSiteName(); }
+  [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const {
+    return m_game->viewHands(player);
+  }
+  [[nodiscard]] constexpr const std::string& getSiteName() const noexcept {
+    return m_game->getSiteName();
+  }
   [[nodiscard]] constexpr const std::string& getId() const noexcept { return m_game->getId(); }
   [[nodiscard]] constexpr Variant getVariant() const noexcept { return m_game->getVariant(); }
   [[nodiscard]] constexpr Limit getLimitType() const noexcept { return m_game->getLimitType(); }

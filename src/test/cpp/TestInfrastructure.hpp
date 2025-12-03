@@ -7,15 +7,15 @@
 #  pragma clang diagnostic push
 #  pragma clang diagnostic ignored "-Wglobal-constructors"
 #  pragma clang diagnostic ignored "-Wdisabled-macro-expansion"
-#endif  // _MSC_VER
+#endif // _MSC_VER
 
 #include <boost/test/unit_test.hpp>
 
-#if defined(_MSC_VER)  // end of specific msvc warnings removal
+#if defined(_MSC_VER) // end of specific msvc warnings removal
 #  pragma warning(pop)
 #elif defined(__clang__)
 #  pragma clang diagnostic pop
-#endif  // _MSC_VER
+#endif // _MSC_VER
 
 #include <filesystem> // std::filesystem::path
 
@@ -26,9 +26,9 @@ namespace phud::test {
 /**
  * @return the absolute path of src/test/resources.
  * @note We use std::filesystem::path to mix UTF-8 and UTF-16 file names.
-*/
+ */
 [[nodiscard]] std::filesystem::path loadDatabaseFromTestResources(std::string_view file,
-    std::string_view pokerSite);
+                                                                  std::string_view pokerSite);
 [[nodiscard]] std::filesystem::path getFileFromTestResources(std::u8string_view file);
 [[nodiscard]] std::filesystem::path getDirFromTestResources(std::u8string_view dir);
 [[nodiscard]] std::filesystem::path getFileFromTestResources(std::string_view file);
@@ -42,10 +42,10 @@ namespace phud::test {
  * If no name given, a random one is chosen.
  */
 class [[nodiscard]] TmpFile final {
-private:
+ private:
   std::string m_file;
 
-public:
+ public:
   /**
    * Creates a file that that disappears at the end of the scope. This file will be created in the
    * user's current temp dir.
@@ -60,7 +60,9 @@ public:
   void print(std::string_view s) const;
   void printLn(std::string_view s) const;
   [[nodiscard]] std::filesystem::path path() const noexcept { return m_file; }
-  [[nodiscard]] std::filesystem::path getParentDir() const { return std::filesystem::path(m_file).parent_path(); }
+  [[nodiscard]] std::filesystem::path getParentDir() const {
+    return std::filesystem::path(m_file).parent_path();
+  }
   [[nodiscard]] std::string string() const noexcept { return m_file; }
 }; // class TmpFile
 
@@ -69,10 +71,10 @@ public:
  * If already exist, will be deleted then re-created.
  */
 class [[nodiscard]] TmpDir final {
-private:
+ private:
   std::filesystem::path m_dir;
 
-public:
+ public:
   explicit TmpDir(std::string_view dirName);
   ~TmpDir();
   [[nodiscard]] std::string operator/(std::string_view file) const;
@@ -81,16 +83,16 @@ public:
 }; // class TmpDir
 
 class [[nodiscard]] LogDisabler final {
-private:
+ private:
   LoggingLevel m_beforeDisabling;
 
-public:
+ public:
   LogDisabler();
   ~LogDisabler();
 }; // class LogDisabler
 
 [[nodiscard]] bool isSet(const auto& container) {
-  auto copy { container };
+  auto copy {container};
   std::sort(std::begin(copy), std::end(copy));
   return std::end(copy) == std::adjacent_find(std::begin(copy), std::end(copy));
 }

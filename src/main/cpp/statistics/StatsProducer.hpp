@@ -6,17 +6,20 @@
 // forward declarations
 class Database;
 struct TableStatistics;
-template <typename T> class ThreadSafeQueue;
+template <typename T>
+class ThreadSafeQueue;
 
 class [[nodiscard]] StatsProducer final {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   struct [[nodiscard]] StatsProducerArgs final {
-    std::chrono::milliseconds reloadPeriod; std::string_view site;
-    std::string_view tableWindowName; const Database& db;
+    std::chrono::milliseconds reloadPeriod;
+    std::string_view site;
+    std::string_view tableWindowName;
+    const Database& db;
   };
   explicit StatsProducer(const StatsProducerArgs& args);
   StatsProducer(const StatsProducer&) = delete;

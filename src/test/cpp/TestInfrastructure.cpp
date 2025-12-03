@@ -3,10 +3,10 @@
 ///////////////////////////////////////////////////////////////////////////////////
 #define BOOST_TEST_MODULE (Unit Tests for the Poker Head-Up Dispay)
 
-#include "TestInfrastructure.hpp" // boost::unit_test::*
+#include "TestInfrastructure.hpp"   // boost::unit_test::*
 #include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "language/Validator.hpp"
-#include "log/Logger.hpp" // fmt::format(), LoggingLevel
+#include "log/Logger.hpp"          // fmt::format(), LoggingLevel
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include "threads/ThreadPool.hpp"
 #include <boost/test/debug.hpp> // detect_memory_leaks()
@@ -22,23 +22,23 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 namespace pt = phud::test;
 
-//#define BOOST_TEST_ALTERNATIVE_INIT_API
-//int main(int argc, char* argv[], char* /*envp*/[]) {
-//  std::setlocale(LC_ALL, "en_US.utf8");
-//  auto ret = boost::unit_test::unit_test_main(init_unit_test, argc, argv);
-//  return ret;
-//}
+// #define BOOST_TEST_ALTERNATIVE_INIT_API
+// int main(int argc, char* argv[], char* /*envp*/[]) {
+//   std::setlocale(LC_ALL, "en_US.utf8");
+//   auto ret = boost::unit_test::unit_test_main(init_unit_test, argc, argv);
+//   return ret;
+// }
 
 class [[nodiscard]] GlobalFixture final {
-public:
+ public:
   GlobalFixture() {
     boost::debug::detect_memory_leaks(false);
-    LoggingConfig _ { "[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v" };
+    LoggingConfig _ {"[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v"};
     Logger::setLoggingLevel(LoggingLevel::debug);
     namespace but = boost::unit_test;
 
     if (but::log_level::log_successful_tests ==
-      but::runtime_config::get<but::log_level>(but::runtime_config::btrt_log_level)) {
+        but::runtime_config::get<but::log_level>(but::runtime_config::btrt_log_level)) {
       /* if unit tests are launched with option -l all, set log to trace level */
       Logger::setLoggingLevel(LoggingLevel::trace);
     }
@@ -53,32 +53,35 @@ public:
 BOOST_GLOBAL_FIXTURE(GlobalFixture);
 
 namespace {
-  struct IsFile final {};
+struct IsFile final {};
 
-  struct IsDir final {};
+struct IsDir final {};
 } // anonymous namespace
 
-template <typename T> requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
+template <typename T>
+  requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
 [[nodiscard]] static fs::path getGenericFileFromTestResources(const auto& file) {
   validation::requireNonEmpty(file, "file or dir");
   validation::require('/' != file.front(), "file or dir can't start with '/'");
-  const auto& ret { (pt::getTestResourcesDir() / file) };
+  const auto& ret {(pt::getTestResourcesDir() / file)};
 
   if constexpr (std::is_same_v<T, ::IsFile>) {
-    if (pf::isFile(ret)) { return ret; }
+    if (pf::isFile(ret)) {
+      return ret;
+    }
   }
 
   if constexpr (std::is_same_v<T, ::IsDir>) {
-    if (pf::isDir(ret)) { return ret; }
+    if (pf::isDir(ret)) {
+      return ret;
+    }
   }
 
-  const auto sl { std::source_location::current() };
+  const auto sl {std::source_location::current()};
   throw std::runtime_error {
-    fmt::format("{} {} Couldn't find the file '{}' looking into '{}'.",
-                sl.file_name(), sl.line(),
-                reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
-                pt::getTestResourcesDir().string())
-  };
+      fmt::format("{} {} Couldn't find the file '{}' looking into '{}'.", sl.file_name(), sl.line(),
+                  reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
+                  pt::getTestResourcesDir().string())};
 }
 
 fs::path pt::getFileFromTestResources(std::u8string_view file) {
@@ -97,32 +100,33 @@ fs::path pt::getDirFromTestResources(std::string_view dir) {
   return getGenericFileFromTestResources<::IsDir>(dir);
 }
 
-[[nodiscard]] static fs::path throwIfNotADirectory(const fs::path& dir,
-                                                   std::string_view macro) {
-  if (pf::isDir(dir)) { return dir; }
+[[nodiscard]] static fs::path throwIfNotADirectory(const fs::path& dir, std::string_view macro) {
+  if (pf::isDir(dir)) {
+    return dir;
+  }
 
   throw std::runtime_error {
-    fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'", dir.string(), macro)
-  };
+      fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'",
+                  dir.string(), macro)};
 }
 
 fs::path pt::getTestResourcesDir() {
 #ifndef PHUD_TEST_RESOURCE_DIR
-#error The macro PHUD_TEST_RESOURCE_DIR should have been defined in CMakeLists.txt
+#  error The macro PHUD_TEST_RESOURCE_DIR should have been defined in CMakeLists.txt
 #endif // PHUD_TEST_RESOURCE_DIR
   return throwIfNotADirectory(PHUD_TEST_RESOURCE_DIR, "PHUD_TEST_RESOURCE_DIR");
 }
 
 fs::path pt::getMainCppDir() {
 #ifndef PHUD_MAIN_SRC_DIR
-#error The macro PHUD_MAIN_SRC_DIR should have been defined in CMakeLists.txt
+#  error The macro PHUD_MAIN_SRC_DIR should have been defined in CMakeLists.txt
 #endif // PHUD_MAIN_SRC_DIR
   return throwIfNotADirectory(PHUD_MAIN_SRC_DIR, "PHUD_MAIN_SRC_DIR");
 }
 
 fs::path pt::getTestCppDir() {
 #ifndef PHUD_TEST_SRC_DIR
-#error The macro PHUD_TEST_SRC_DIR should have been defined in CMakeLists.txt
+#  error The macro PHUD_TEST_SRC_DIR should have been defined in CMakeLists.txt
 #endif // PHUD_TEST_SRC_DIR
   return throwIfNotADirectory(PHUD_TEST_SRC_DIR, "PHUD_TEST_SRC_DIR");
 }
@@ -130,11 +134,11 @@ fs::path pt::getTestCppDir() {
 /**
  * @return the absolute path of a temp file.
  * @note We use Path to handle UTF-8 and UTF-16 file names.
-*/
+ */
 [[nodiscard]] static fs::path getTmpFilePath() {
   char ret[L_tmpnam] {};
 
-  if (const auto errorCode { tmpnam_s(ret, std::size(ret)) }; 0 != errorCode) [[unlikely]] {
+  if (const auto errorCode {tmpnam_s(ret, std::size(ret))}; 0 != errorCode) [[unlikely]] {
     strerror_s(ret, std::size(ret), errorCode);
     throw PhudException(ret);
   }
@@ -149,13 +153,13 @@ fs::path pt::getTestCppDir() {
 }
 
 static void removeWithMessage(const fs::path& file) {
-  const auto& fileType { pf::isFile(file) ? "file" : "directory" };
+  const auto& fileType {pf::isFile(file) ? "file" : "directory"};
 
   if (std::error_code ec; !fs::remove_all(file, ec)) {
     if (0 == ec.value()) {
-      BOOST_TEST_MESSAGE(fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
-    }
-    else [[unlikely]] {
+      BOOST_TEST_MESSAGE(
+          fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
+    } else [[unlikely]] {
       BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
       BOOST_TEST_MESSAGE(ec.message());
     }
@@ -163,7 +167,7 @@ static void removeWithMessage(const fs::path& file) {
 }
 
 pt::TmpFile::TmpFile(std::string_view fileName)
-  : m_file { fileName.empty() ? getTmpFilePath().string() : std::string(fileName) } {
+  : m_file {fileName.empty() ? getTmpFilePath().string() : std::string(fileName)} {
   fs::remove(m_file);
   this->print("");
 }
@@ -182,23 +186,29 @@ void pt::TmpFile::printLn(std::string_view s) const {
   writer << s << '\n';
 }
 
-pt::TmpDir::TmpDir(std::string_view dirName) :
-  m_dir { fs::temp_directory_path().append(dirName) } {
-  if (pf::isDir(m_dir)) { removeWithMessage(m_dir); }
+pt::TmpDir::TmpDir(std::string_view dirName)
+  : m_dir {fs::temp_directory_path().append(dirName)} {
+  if (pf::isDir(m_dir)) {
+    removeWithMessage(m_dir);
+  }
 
   fs::create_directories(m_dir);
 }
 
-pt::TmpDir::~TmpDir() { removeWithMessage(m_dir); }
+pt::TmpDir::~TmpDir() {
+  removeWithMessage(m_dir);
+}
 
 std::string pt::TmpDir::operator/(std::string_view file) const {
-  auto p { m_dir };
+  auto p {m_dir};
   return p.append(file).string();
 }
 
 pt::LogDisabler::LogDisabler()
-  : m_beforeDisabling { Logger::getCurrentLoggingLevel() } {
+  : m_beforeDisabling {Logger::getCurrentLoggingLevel()} {
   Logger::setLoggingLevel(LoggingLevel::none);
 }
 
-pt::LogDisabler::~LogDisabler() { Logger::setLoggingLevel(m_beforeDisabling); }
+pt::LogDisabler::~LogDisabler() {
+  Logger::setLoggingLevel(m_beforeDisabling);
+}

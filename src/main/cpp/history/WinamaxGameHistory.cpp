@@ -5,14 +5,14 @@
 #include "filesystem/TextFile.hpp"
 #include "history/GameData.hpp" // CashGame, Tournament, Variant, Time
 #include "history/WinamaxHandBuilder.hpp"
-#include "history/WinamaxGameHistory.hpp"  // std::filesystem::path
-#include "log/Logger.hpp" // CURRENT_FILE_NAME
-#include "strings/StringUtils.hpp" // phud::strings
+#include "history/WinamaxGameHistory.hpp" // std::filesystem::path
+#include "log/Logger.hpp"                 // CURRENT_FILE_NAME
+#include "strings/StringUtils.hpp"        // phud::strings
 #include "threads/PlayerCache.hpp"
 #include <optional>
 
 static Logger& LOG() {
-  static Logger logger { CURRENT_FILE_NAME };
+  static Logger logger {CURRENT_FILE_NAME};
   return logger;
 }
 
@@ -21,25 +21,37 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 namespace {
-  [[nodiscard]] static constexpr Variant fileStemToVariant(std::string_view fileStem) noexcept {
-    if (ps::contains(fileStem, "_holdem_")) { return Variant::holdem; }
-
-    if (ps::contains(fileStem, "_omaha_")) { return Variant::omaha; }
-
-    if (ps::contains(fileStem, "_omaha5_")) { return Variant::omaha5; }
-
-    return Variant::none;
+[[nodiscard]] static constexpr Variant fileStemToVariant(std::string_view fileStem) noexcept {
+  if (ps::contains(fileStem, "_holdem_")) {
+    return Variant::holdem;
   }
 
-  [[nodiscard]] static constexpr Limit fileStemToLimit(std::string_view fileStem) noexcept {
-    if (fileStem.size() < 11) { return Limit::none; }
+  if (ps::contains(fileStem, "_omaha_")) {
+    return Variant::omaha;
+  }
 
-    if (fileStem.ends_with("_pot-limit")) { return Limit::potLimit; }
+  if (ps::contains(fileStem, "_omaha5_")) {
+    return Variant::omaha5;
+  }
 
-    if (fileStem.ends_with("_no-limit")) { return Limit::noLimit; }
+  return Variant::none;
+}
 
+[[nodiscard]] static constexpr Limit fileStemToLimit(std::string_view fileStem) noexcept {
+  if (fileStem.size() < 11) {
     return Limit::none;
   }
+
+  if (fileStem.ends_with("_pot-limit")) {
+    return Limit::potLimit;
+  }
+
+  if (fileStem.ends_with("_no-limit")) {
+    return Limit::noLimit;
+  }
+
+  return Limit::none;
+}
 } // anonymous namespace
 
 struct [[nodiscard]] FileStem final {
@@ -71,7 +83,8 @@ std::optional<FileStem> parseFileStem(std::string_view fileStem) {
   ret.m_isRealMoney = (std::string_view::npos != pos);
 
   if (!ret.m_isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
-    LOG().error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(fileStem);
+    LOG().error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(
+        fileStem);
     return ret;
   }
   ret.m_gameName = fileStem.substr(9, pos - 9);
@@ -81,25 +94,32 @@ std::optional<FileStem> parseFileStem(std::string_view fileStem) {
 }
 
 template <typename GAME_TYPE>
-  requires(std::is_same_v<GAME_TYPE, CashGame>
-    or std::is_same_v<GAME_TYPE, Tournament>)
+  requires(std::is_same_v<GAME_TYPE, CashGame> or std::is_same_v<GAME_TYPE, Tournament>)
 [[nodiscard]] static std::unique_ptr<GAME_TYPE> newGame(std::string_view gameId,
                                                         const GameData& gameData) {
   if constexpr (std::is_same_v<GAME_TYPE, CashGame>) {
-    return std::make_unique<CashGame>(CashGame::Params {
-      .id = gameId, .siteName = ProgramInfos::WINAMAX_SITE_NAME,
-      .cashGameName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
-      .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats,
-      .smallBlind = gameData.m_smallBlind, .bigBlind = gameData.m_bigBlind, .startDate = gameData.m_startDate
-    });
+    return std::make_unique<CashGame>(CashGame::Params {.id = gameId,
+                                                        .siteName = ProgramInfos::WINAMAX_SITE_NAME,
+                                                        .cashGameName = gameData.m_gameName,
+                                                        .variant = gameData.m_variant,
+                                                        .limit = gameData.m_limit,
+                                                        .isRealMoney = gameData.m_isRealMoney,
+                                                        .nbMaxSeats = gameData.m_nbMaxSeats,
+                                                        .smallBlind = gameData.m_smallBlind,
+                                                        .bigBlind = gameData.m_bigBlind,
+                                                        .startDate = gameData.m_startDate});
   }
   if constexpr (std::is_same_v<GAME_TYPE, Tournament>) {
-    return std::make_unique<Tournament>(Tournament::Params {
-      .id = gameId, .siteName = ProgramInfos::WINAMAX_SITE_NAME,
-      .tournamentName = gameData.m_gameName, .variant = gameData.m_variant, .limit = gameData.m_limit,
-      .isRealMoney = gameData.m_isRealMoney, .nbMaxSeats = gameData.m_nbMaxSeats, .buyIn = gameData.m_buyIn,
-      .startDate = gameData.m_startDate
-      });
+    return std::make_unique<Tournament>(
+        Tournament::Params {.id = gameId,
+                            .siteName = ProgramInfos::WINAMAX_SITE_NAME,
+                            .tournamentName = gameData.m_gameName,
+                            .variant = gameData.m_variant,
+                            .limit = gameData.m_limit,
+                            .isRealMoney = gameData.m_isRealMoney,
+                            .nbMaxSeats = gameData.m_nbMaxSeats,
+                            .buyIn = gameData.m_buyIn,
+                            .startDate = gameData.m_startDate});
   }
 }
 
@@ -111,49 +131,49 @@ static void fillFromFileName(const FileStem& values, GameData& gameData) {
 }
 
 template <typename GAME_TYPE>
-[[nodiscard]] static
-std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
+[[nodiscard]] static std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile,
+                                                           PlayerCache& cache) {
   LOG().debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
-  const auto& fileStem { ps::sanitize(gameHistoryFile.stem().string()) };
+  const auto& fileStem {ps::sanitize(gameHistoryFile.stem().string())};
   std::unique_ptr<GAME_TYPE> ret;
 
-  if (const auto& oGameDataFromFileName { parseFileStem(fileStem) };
-    oGameDataFromFileName.has_value()) {
-    TextFile tfl { gameHistoryFile };
+  if (const auto& oGameDataFromFileName {parseFileStem(fileStem)};
+      oGameDataFromFileName.has_value()) {
+    TextFile tfl {gameHistoryFile};
 
     while (tfl.next()) {
       if (nullptr == ret) {
         LOG().debug<"1st hand : get additional game data from the hand.">();
-        auto [pHand, pGameData] { WinamaxHandBuilder::buildHandAndGameData<GAME_TYPE>(tfl, cache) };
+        auto [pHand, pGameData] {WinamaxHandBuilder::buildHandAndGameData<GAME_TYPE>(tfl, cache)};
         fillFromFileName(oGameDataFromFileName.value(), *pGameData);
         LOG().debug<"1st hand : creating new game history.">();
         ret = newGame<GAME_TYPE>(fileStem, *pGameData);
         ret->addHand(std::move(pHand));
-      }
-      else {
+      } else {
         LOG().debug<"not the 1st hand : adding the new hand to the existing game history.">();
         ret->addHand(WinamaxHandBuilder::buildHand<GAME_TYPE>(tfl, cache));
       }
     }
 
     LOG().debug<"Read {} line{} from file {}.">(tfl.getLineIndex(), ps::plural(tfl.getLineIndex()),
-                                              tfl.getFileStem());
+                                                tfl.getFileStem());
   }
 
   return ret;
 }
 
 template <typename GAME_TYPE>
-[[nodiscard]] static std::unique_ptr<Site>
-handleGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
+[[nodiscard]] static std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile,
+                                                      PlayerCache& cache) {
   LOG().debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite = std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
 
-  if (auto g { createGame<GAME_TYPE>(gameHistoryFile, cache) }; nullptr != g) {
+  if (auto g {createGame<GAME_TYPE>(gameHistoryFile, cache)}; nullptr != g) {
     LOG().debug<"Game created for file {}.">(gameHistoryFile.filename().string());
     pSite->addGame(std::move(g));
+  } else {
+    LOG().info<"Game *not* created for file {}.">(gameHistoryFile.filename().string());
   }
-  else { LOG().info<"Game *not* created for file {}.">(gameHistoryFile.filename().string()); }
 
   // Players are kept in the shared cache and extracted later
   return pSite;
@@ -163,9 +183,9 @@ handleGame(const fs::path& gameHistoryFile, PlayerCache& cache) {
 
 // Version with shared cache for better performance
 std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile,
-                                                            PlayerCache& cache) {
+                                                           PlayerCache& cache) {
   LOG().debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
-                                                    gameHistoryFile.filename().string());
+                                                      gameHistoryFile.filename().string());
   const auto fileStem = gameHistoryFile.stem().string();
 
   if (12 > fileStem.size()) {
@@ -176,13 +196,14 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
   // history files with an '!' in their title are duplicated with another name, so ignore it
   if (ps::contains(fileStem, '!')) {
     LOG().info<"Ignoring the file '{}' as it start with '!' and thus is duplicated.">(
-      gameHistoryFile.filename().string());
+        gameHistoryFile.filename().string());
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
-  if (std::string::npos == fileStem.find("_real_", 9)
-    and std::string::npos == fileStem.find("_play_", 9)) {
-    LOG().error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(fileStem);
+  if (std::string::npos == fileStem.find("_real_", 9) and
+      std::string::npos == fileStem.find("_play_", 9)) {
+    LOG().error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(
+        fileStem);
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
@@ -192,7 +213,7 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
 
 // Legacy version without cache (creates its own local cache)
 std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile) {
-  PlayerCache cache { ProgramInfos::WINAMAX_SITE_NAME };
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
   auto site = parseGameHistory(gameHistoryFile, cache);
 
   // Extract players from local cache and add to site

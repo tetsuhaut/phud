@@ -2,6 +2,6 @@
 #include <format>
 
 PhudException::PhudException(std::string_view msg, const boost::stacktrace::stacktrace& stacktrace)
-: std::runtime_error(std::format("{}\n{}", msg, boost::stacktrace::to_string(stacktrace))) {}
+  : std::runtime_error(std::format("{}\n{}", msg, boost::stacktrace::to_string(stacktrace))) {}
 
 PhudException::~PhudException() = default;

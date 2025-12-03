@@ -2,24 +2,21 @@
 
 #include <chrono>
 #include <functional> // std::function
-#include <memory> // std::unique_ptr
+#include <memory>     // std::unique_ptr
 #include <string_view>
 
-enum class /*[[nodiscard]]*/ PeriodicTaskStatus : short {
-  repeatTask,
-  stopTask
-};
+enum class /*[[nodiscard]]*/ PeriodicTaskStatus : short { repeatTask, stopTask };
 
 [[nodiscard]] constexpr std::string_view toString(PeriodicTaskStatus status) noexcept {
   return PeriodicTaskStatus::repeatTask == status ? "repeatTask" : "stopTask";
 }
 
 class [[nodiscard]] PeriodicTask final {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   explicit PeriodicTask(std::chrono::milliseconds period, std::string_view taskName = "");
   PeriodicTask(const PeriodicTask&) = delete;
   PeriodicTask(PeriodicTask&&) = delete;

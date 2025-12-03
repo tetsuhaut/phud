@@ -12,13 +12,13 @@ class PlayerStatistics;
  * The Graphical User Interface of the Poker Head Up Display program.
  */
 class [[nodiscard]] Gui final {
-public:
+ public:
   struct Implementation; // public to minimise the Gui API
 
-private:
+ private:
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   explicit Gui(TableService& tableService, HistoryService& historyService);
   Gui(const Gui&) = delete;
   Gui(Gui&&) = delete;
@@ -26,8 +26,8 @@ public:
   Gui& operator=(Gui&&) = delete;
   ~Gui();
   /**
-  * Starts the GUI.
-  * @returns 0 if OK
-  */
+   * Starts the GUI.
+   * @returns 0 if OK
+   */
   [[nodiscard]] int run();
 }; // class Gui

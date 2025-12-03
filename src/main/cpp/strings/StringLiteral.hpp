@@ -7,10 +7,10 @@
  * A compile time string type for template parameters.
  * inspired by https://ctrpeach.io/posts/cpp20-string-literal-template-parameters/
  */
-template<typename CHAR, auto N>
+template <typename CHAR, auto N>
 struct [[nodiscard]] StringLiteral final {
   CHAR value[N + 1] {};
-  static constexpr auto size { N };
+  static constexpr auto size {N};
 
   constexpr explicit(false) StringLiteral(const char (&str)[N + 1]) { std::copy_n(str, N, value); }
 
@@ -23,7 +23,8 @@ struct [[nodiscard]] StringLiteral final {
   }
 };
 
-template<typename CHAR, auto N> StringLiteral(const CHAR(&)[N]) -> StringLiteral < CHAR, N - 1 >;
+template <typename CHAR, auto N>
+StringLiteral(const CHAR (&)[N]) -> StringLiteral<CHAR, N - 1>;
 
 
 /*
@@ -31,14 +32,14 @@ template<typename CHAR, auto N> StringLiteral(const CHAR(&)[N]) -> StringLiteral
  * StringLiteral arguments
  * @returns a StringLiteral containing the concatenation
  */
-template<typename CHAR, std::size_t ...N>
-[[nodiscard]] constexpr auto concatLiteral(const CHAR(&...strings)[N]) {
+template <typename CHAR, std::size_t... N>
+[[nodiscard]] constexpr auto concatLiteral(const CHAR (&... strings)[N]) {
   constexpr auto len = (... + N) - sizeof...(N);
   StringLiteral<CHAR, len + 1> result {};
   result.value[len] = '\0';
-  CHAR* dst { result.value };
+  CHAR* dst {result.value};
 
-  for (const CHAR* src : { strings... }) {
+  for (const CHAR* src : {strings...}) {
     for (; *src != '\0'; ++src, ++dst) {
       *dst = *src;
     }

@@ -2,7 +2,7 @@
 
 #include <chrono>
 #include <functional> // std::function
-#include <memory> // std::unique_ptr
+#include <memory>     // std::unique_ptr
 
 // forward declarations
 struct TableStatistics;
@@ -10,11 +10,11 @@ template <typename T>
 class ThreadSafeQueue;
 
 class [[nodiscard]] StatsConsumer final {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   StatsConsumer(std::chrono::milliseconds reloadPeriod, ThreadSafeQueue<TableStatistics>& stats);
   StatsConsumer(const StatsConsumer&) = delete;
   StatsConsumer(StatsConsumer&&) = delete;

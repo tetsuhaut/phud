@@ -1,59 +1,65 @@
-#include "log/Logger.hpp" // CURRENT_FILE_NAME
+#include "log/Logger.hpp"          // CURRENT_FILE_NAME
 #include "strings/StringUtils.hpp" // std::string_view
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format
-#include <charconv> // std::from_chars
-#include <span> // std::span
-#include <type_traits> // std::is_arithmetic_v, std::is_same_v
-#include <stdexcept> // std::invalid_argument
+#include <charconv>                    // std::from_chars
+#include <span>                        // std::span
+#include <type_traits>                 // std::is_arithmetic_v, std::is_same_v
+#include <stdexcept>                   // std::invalid_argument
 
 static Logger& LOG() {
-  static Logger logger { CURRENT_FILE_NAME };
+  static Logger logger {CURRENT_FILE_NAME};
   return logger;
 }
 
 namespace {
-  template<typename T>
+template <typename T>
   requires std::is_arithmetic_v<T> and (not std::is_same_v<T, bool>)
-  [[nodiscard]] T fromStringView(std::string_view s) {
-    const auto str = phud::strings::trim(s);
-    T result{};
-    if (str.empty()) { return result; }
-    const std::span<const char> buffer = { str.data(), str.size() };
-    const auto [ptr, ec] { std::from_chars(buffer.data(), buffer.data() + buffer.size(), result) };
-
-    if (ec != std::errc{}) {
-      throw std::invalid_argument(fmt::format("Failed to convert '{}' to {}", s, typeid(T).name()));
-    }
+[[nodiscard]] T fromStringView(std::string_view s) {
+  const auto str = phud::strings::trim(s);
+  T result {};
+  if (str.empty()) {
     return result;
   }
+  const std::span<const char> buffer = {str.data(), str.size()};
+  const auto [ptr, ec] {std::from_chars(buffer.data(), buffer.data() + buffer.size(), result)};
 
- [[nodiscard]] constexpr bool isNumericCharOrDot(char c) noexcept {
-    return (c >= '0' and c <= '9') or c == '.';
+  if (ec != std::errc {}) {
+    throw std::invalid_argument(fmt::format("Failed to convert '{}' to {}", s, typeid(T).name()));
   }
+  return result;
+}
 
-  [[nodiscard]] constexpr char normalizeDecimalSeparator(char c) noexcept {
-    return (c == ',') ? '.' : c;
-  }
+[[nodiscard]] constexpr bool isNumericCharOrDot(char c) noexcept {
+  return (c >= '0' and c <= '9') or c == '.';
+}
 
-  [[nodiscard]] double processToken(std::string_view token) {
-    return token.empty() ? 0.0 : phud::strings::toDouble(token);
-  }
+[[nodiscard]] constexpr char normalizeDecimalSeparator(char c) noexcept {
+  return (c == ',') ? '.' : c;
+}
+
+[[nodiscard]] double processToken(std::string_view token) {
+  return token.empty() ? 0.0 : phud::strings::toDouble(token);
+}
 } // anonymous namespace
 
-int phud::strings::toInt(std::string_view s) { return fromStringView<int>(s); }
+int phud::strings::toInt(std::string_view s) {
+  return fromStringView<int>(s);
+}
 
-std::size_t phud::strings::toSizeT(std::string_view s) { return fromStringView<std::size_t>(s); }
+std::size_t phud::strings::toSizeT(std::string_view s) {
+  return fromStringView<std::size_t>(s);
+}
 
 [[nodiscard]] constexpr static bool isSpace(char c) noexcept {
   return c == ' ' or c == '\f' or c == '\n' or c == '\r' or c == '\t' or c == '\v';
 }
 
 std::string_view phud::strings::trim(std::string_view s) {
-  s.remove_prefix(gsl::narrow_cast<std::string_view::size_type>(std::distance(s.cbegin(),
-                  std::ranges::find_if_not(s, isSpace))));
-  s.remove_suffix(gsl::narrow_cast<std::string_view::size_type>(std::distance(s.crbegin(),
-                  std::ranges::find_if_not(s.crbegin(), s.crend(), isSpace))));
+  s.remove_prefix(gsl::narrow_cast<std::string_view::size_type>(
+      std::distance(s.cbegin(), std::ranges::find_if_not(s, isSpace))));
+  s.remove_suffix(gsl::narrow_cast<std::string_view::size_type>(
+      std::distance(s.crbegin(), std::ranges::find_if_not(s.crbegin(), s.crend(), isSpace))));
   return s;
 }
 
@@ -72,10 +78,10 @@ std::string_view phud::strings::trim(std::string_view s) {
 double phud::strings::toDouble(std::string_view amount) {
   const auto str = phud::strings::trim(amount);
   double ret = 0;
-  const std::span<const char> buffer = { str.data(), str.size() };
+  const std::span<const char> buffer = {str.data(), str.size()};
 
-  if (const auto& [ptr, ec] { std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret) };
-    ec == std::errc::result_out_of_range) {
+  if (const auto& [ptr, ec] {std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret)};
+      ec == std::errc::result_out_of_range) {
     LOG().error<"phud::strings::toDouble({})">(amount);
     LOG().error<"amount in double: {}">(ret);
     LOG().error<"Number of treated characters: {}">(ptr - str.data());
@@ -92,11 +98,13 @@ std::string phud::strings::replaceAll(std::string_view s, char oldC, char newC) 
 }
 
 /*[[nodiscard]]*/ std::string phud::strings::replaceAll(std::string_view s, std::string_view oldStr,
-    std::string_view newStr) {
+                                                        std::string_view newStr) {
   std::string ret(s);
   auto pos = ret.find(oldStr);
 
-  while (std::string_view::npos != pos) { pos = ret.replace(pos, oldStr.size(), newStr).find(oldStr); }
+  while (std::string_view::npos != pos) {
+    pos = ret.replace(pos, oldStr.size(), newStr).find(oldStr);
+  }
 
   return ret;
 }

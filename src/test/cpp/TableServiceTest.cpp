@@ -8,7 +8,7 @@ BOOST_AUTO_TEST_SUITE(TableServiceTest)
 
 BOOST_AUTO_TEST_CASE(TableServiceTest_isPokerAppShouldSucceed) {
   Database db;
-  const TableService ts { db };
+  const TableService ts {db};
   BOOST_REQUIRE(ts.isPokerApp("Winamax Poker"));
   BOOST_REQUIRE(ts.isPokerApp("PMU"));
   BOOST_REQUIRE(false == ts.isPokerApp("Some unimplemented site stem"));

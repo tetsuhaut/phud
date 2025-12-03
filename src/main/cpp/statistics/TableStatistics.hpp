@@ -15,10 +15,11 @@ struct [[nodiscard]] TableStatistics final {
   std::string m_site {};
   std::string m_table {};
   std::vector<Seat> m_seats {};
-  Seat m_maxSeats { Seat::seatUnknown };
+  Seat m_maxSeats {Seat::seatUnknown};
 
-  TableStatistics(std::string_view site, std::string_view table, Seat maxSeats,
-                  std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats);
+  TableStatistics(
+      std::string_view site, std::string_view table, Seat maxSeats,
+      std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> tableStats);
   TableStatistics();
   TableStatistics(const TableStatistics&) = delete;
   TableStatistics(TableStatistics&&) = default;
@@ -38,9 +39,9 @@ struct [[nodiscard]] TableStatistics final {
   [[nodiscard]] Seat getHeroSeat() const;
 
   /**
-  * @returns the statistics for the player at the given seat.
-  * If the seat is empty, the returned pointer is nullptr.
-  * 0 < seat < 11
-  */
+   * @returns the statistics for the player at the given seat.
+   * If the seat is empty, the returned pointer is nullptr.
+   * 0 < seat < 11
+   */
   [[nodiscard]] std::unique_ptr<PlayerStatistics> extractPlayerStatistics(Seat seat);
 }; // struct TableStatistics

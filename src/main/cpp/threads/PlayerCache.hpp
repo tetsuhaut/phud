@@ -8,11 +8,11 @@
 class Player;
 
 class [[nodiscard]] PlayerCache final {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   explicit PlayerCache(std::string_view siteName) noexcept;
   PlayerCache(const PlayerCache&) = delete;
   PlayerCache(PlayerCache&&) = delete;

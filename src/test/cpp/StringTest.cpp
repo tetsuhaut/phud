@@ -1,8 +1,8 @@
 #include "TestInfrastructure.hpp" // std::string
-#include "entities/Action.hpp" // toString(ActionType)
-#include "entities/Card.hpp" // toString(Card)
+#include "entities/Action.hpp"    // toString(ActionType)
+#include "entities/Card.hpp"      // toString(Card)
 #include "entities/GameType.hpp"
-#include "entities/Game.hpp" // toString(GameType)
+#include "entities/Game.hpp"       // toString(GameType)
 #include "strings/StringUtils.hpp" // phud::strings::*
 
 namespace ps = phud::strings;
@@ -76,12 +76,11 @@ struct [[nodiscard]] Params final {
 
 BOOST_AUTO_TEST_CASE(StringTest_passingStringViewStructAsParamShouldWork) {
   const auto& myFunction {
-    [](const Params & p) { return "myFunction returns " + std::string(p.value); }
-  };
+      [](const Params& p) { return "myFunction returns " + std::string(p.value); }};
   BOOST_TEST("myFunction returns a string" == myFunction({.value = "a string"}));
-  std::string var { "a string" };
+  std::string var {"a string"};
   BOOST_TEST("myFunction returns a string" == myFunction({.value = var}));
-  const char arr[] { "a string" };
+  const char arr[] {"a string"};
   BOOST_TEST("myFunction returns a string" == myFunction({.value = arr}));
 }
 

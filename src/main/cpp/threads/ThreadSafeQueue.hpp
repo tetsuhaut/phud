@@ -9,7 +9,7 @@
 // std::condition_variable does not take std::lock_guard<std::mutex>.
 template <typename T>
 class [[nodiscard]] ThreadSafeQueue final {
-private:
+ private:
   struct [[nodiscard]] Node final {
     std::shared_ptr<T> data {};
     std::unique_ptr<Node> next {};
@@ -22,13 +22,15 @@ private:
   std::condition_variable m_condition {};
 
   [[nodiscard]] std::unique_ptr<Node> popHead() noexcept {
-    std::unique_ptr<Node> pOldHead { std::move(m_pHead) };
+    std::unique_ptr<Node> pOldHead {std::move(m_pHead)};
     m_pHead = std::move(pOldHead->next);
     return pOldHead;
   }
 
-public:
-  ThreadSafeQueue() : m_pHead { std::make_unique<Node>() }, m_pTail { m_pHead.get() } {}
+ public:
+  ThreadSafeQueue()
+    : m_pHead {std::make_unique<Node>()},
+      m_pTail {m_pHead.get()} {}
   ThreadSafeQueue(const ThreadSafeQueue&) = delete;
   ThreadSafeQueue(ThreadSafeQueue&&) = delete;
   ThreadSafeQueue& operator=(const ThreadSafeQueue&) = delete;
@@ -75,7 +77,8 @@ public:
   }
 
   /**
-   * Push a value into the queue. newValue will be moved into the queue, and can't be used afterward.
+   * Push a value into the queue. newValue will be moved into the queue, and can't be used
+   * afterward.
    */
   void push(T newValue) {
     auto newData = std::make_shared<T>(std::move(newValue));

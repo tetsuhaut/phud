@@ -3,11 +3,11 @@
 #include "gui/HistoryService.hpp"
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp"
-#include "threads/ThreadPool.hpp" // Future
+#include "threads/ThreadPool.hpp"        // Future
 #include <stlab/concurrency/utility.hpp> // stlab::await
 
 static Logger& LOG() {
-  static Logger logger { CURRENT_FILE_NAME };
+  static Logger logger {CURRENT_FILE_NAME};
   return logger;
 }
 
@@ -20,18 +20,19 @@ struct [[nodiscard]] HistoryService::Implementation final {
   fs::path m_historyDir {};
 
   explicit Implementation(Database& database)
-    : m_database { database } {}
+    : m_database {database} {}
 };
 
 HistoryService::HistoryService(Database& database)
-  : m_pImpl { std::make_unique<Implementation>(database) } {}
+  : m_pImpl {std::make_unique<Implementation>(database)} {}
 
 HistoryService::~HistoryService() {
   try {
     HistoryService::stopImportingHistory();
-  }
-  catch (...) {
-    LOG().error<"Unknown Error when stopping the history import in the HistoryService destruction.">();
+  } catch (...) {
+    LOG()
+        .error<
+            "Unknown Error when stopping the history import in the HistoryService destruction.">();
   }
 }
 
@@ -39,38 +40,42 @@ bool HistoryService::isValidHistory(const fs::path& dir) {
   return PokerSiteHistory::isValidHistory(dir);
 }
 
-void HistoryService::importHistory(const fs::path& dir,
-                                   const std::function<void()>& onProgress,
+void HistoryService::importHistory(const fs::path& dir, const std::function<void()>& onProgress,
                                    const std::function<void(std::size_t)>& onSetNbFiles,
                                    const std::function<void()>& onDone) {
   m_pImpl->m_historyDir = dir.lexically_normal();
-  m_pImpl->m_loadTask = ThreadPool::submit([this, dir, onProgress, onSetNbFiles]() {
-                          // as this method will execute in another thread, it should not throw
-                          try {
-                            if (m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(dir);
-                              m_pImpl->m_pokerSiteHistory) {
-                              return m_pImpl->m_pokerSiteHistory->load(dir, onProgress, onSetNbFiles);
-                            }
-                          }
-                          catch (const std::exception& e) {
-                            LOG().error<"Unexpected exception during the history import: {}.">(e.what());
-                          }
-                          catch (...) {
-                            LOG().error<"Unknown Error during the history import.">();
-                          }
+  m_pImpl->m_loadTask =
+      ThreadPool::submit([this, dir, onProgress, onSetNbFiles]() {
+        // as this method will execute in another thread, it should not throw
+        try {
+          if (m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(dir);
+              m_pImpl->m_pokerSiteHistory) {
+            return m_pImpl->m_pokerSiteHistory->load(dir, onProgress, onSetNbFiles);
+          }
+        } catch (const std::exception& e) {
+          LOG().error<"Unexpected exception during the history import: {}.">(e.what());
+        } catch (...) {
+          LOG().error<"Unknown Error during the history import.">();
+        }
 
-                          return std::unique_ptr<Site>();
-                        })
-                        .then([this](const auto& pSite) {
-                          try {
-                            if (pSite) { m_pImpl->m_database.save(*pSite); }
-                          }
-                          catch (const DatabaseException& e) {
-                            LOG().error<"Exception during the database usage: {}.">(e.what());
-                          }
-                          catch (...) { LOG().error<"Unknown during the database usage.">(); }
-                        })
-                        .then([onDone]() { if (onDone) { onDone(); } });
+        return std::unique_ptr<Site>();
+      })
+          .then([this](const auto& pSite) {
+            try {
+              if (pSite) {
+                m_pImpl->m_database.save(*pSite);
+              }
+            } catch (const DatabaseException& e) {
+              LOG().error<"Exception during the database usage: {}.">(e.what());
+            } catch (...) {
+              LOG().error<"Unknown during the database usage.">();
+            }
+          })
+          .then([onDone]() {
+            if (onDone) {
+              onDone();
+            }
+          });
 }
 
 void HistoryService::setHistoryDir(const fs::path& dir) {

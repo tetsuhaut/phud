@@ -17,11 +17,11 @@ struct TableStatistics;
  * The database where each entity is persisted.
  */
 class [[nodiscard]] Database final {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   /**
    * Creates a data access layer object, in memory: no file is created.
    * The database will be deleted when the created object is destroyed.
@@ -29,14 +29,16 @@ public:
   Database();
 
   /**
-  * Creates a data access layer object, using the given file.
-  * @param name the database file name. If it is an empty file, the database and its schema will be created.
-  * @throws DatabaseException in case of problem getting the query SQL code or opeing the database
-  * file.
-  */
+   * Creates a data access layer object, using the given file.
+   * @param name the database file name. If it is an empty file, the database and its schema will be
+   * created.
+   * @throws DatabaseException in case of problem getting the query SQL code or opeing the database
+   * file.
+   */
   explicit Database(std::string_view name);
 
-  // if we define a default constructor and destructor, we should define all of the default operations
+  // if we define a default constructor and destructor, we should define all of the default
+  // operations
   Database(const Database&) = delete;
   Database(Database&&) = delete;
   Database& operator=(const Database&) = delete;
@@ -48,12 +50,13 @@ public:
   void save(const Tournament& game) const;
   void save(std::span<const Player* const> players) const;
   // exported for unit tests
-  [[nodiscard]] std::unique_ptr<PlayerStatistics> readPlayerStatistics(std::string_view site,
-                                                                       std::string_view playerName) const;
+  [[nodiscard]] std::unique_ptr<PlayerStatistics>
+  readPlayerStatistics(std::string_view site, std::string_view playerName) const;
   /**
    * Retrieves the stats for each player of a given table.
    */
-  [[nodiscard]] TableStatistics readTableStatistics(std::string_view site, std::string_view table) const;
+  [[nodiscard]] TableStatistics readTableStatistics(std::string_view site,
+                                                    std::string_view table) const;
   [[nodiscard]] std::string getDbName() const noexcept;
   [[nodiscard]] bool isInMemory() const noexcept;
 
@@ -62,6 +65,6 @@ public:
 }; // class Database
 
 class [[nodiscard]] DatabaseException final : public PhudException {
-public:
+ public:
   using PhudException::PhudException;
 };

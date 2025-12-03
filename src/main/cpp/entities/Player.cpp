@@ -4,9 +4,9 @@
 Player::~Player() = default;
 
 Player::Player(const Params& p)
-  : m_name { p.name },
-    m_site { p.site },
-    m_comments {p.comments } {
+  : m_name {p.name},
+    m_site {p.site},
+    m_comments {p.comments} {
   validation::requireNonEmpty(m_name, "name");
   validation::requireNonEmpty(m_site, "site");
 }

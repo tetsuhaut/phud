@@ -2,11 +2,13 @@
 #include "entities/Site.hpp" // Site, Player
 #include "language/Validator.hpp"
 #include <algorithm> // std::move, also needed for std::ranges::transform, std::ranges::for_each
-#include <iterator> // std::back_inserter
-#include <span> // std::span
+#include <iterator>  // std::back_inserter
+#include <span>      // std::span
 
 Site::Site(std::string_view name)
-  : m_name { name } { validation::requireNonEmpty(m_name, "name"); }
+  : m_name {name} {
+  validation::requireNonEmpty(m_name, "name");
+}
 
 Site::~Site() = default; // needed because Site owns private std::unique_ptr members
 
@@ -44,13 +46,18 @@ template <typename T>
 static std::vector<const T*> view(std::span<const std::unique_ptr<T>> source) {
   std::vector<const T*> ret;
   ret.reserve(source.size());
-  std::ranges::transform(source, std::back_inserter(ret), [](const auto& pointer) { return pointer.get(); });
+  std::ranges::transform(source, std::back_inserter(ret),
+                         [](const auto& pointer) { return pointer.get(); });
   return ret;
 }
 
-std::vector<const CashGame*> Site::viewCashGames() const { return view(std::span(m_cashGames)); }
+std::vector<const CashGame*> Site::viewCashGames() const {
+  return view(std::span(m_cashGames));
+}
 
-std::vector<const Tournament*> Site::viewTournaments() const { return view(std::span(m_tournaments)); }
+std::vector<const Tournament*> Site::viewTournaments() const {
+  return view(std::span(m_tournaments));
+}
 
 void Site::merge(Site& other) {
   validation::require(other.getName() == m_name, "Can't merge data from different poker sites");
@@ -60,16 +67,13 @@ void Site::merge(Site& other) {
   if (0 == m_players.size()) {
     // First merge: reserve exact size
     m_players.reserve(other.m_players.size());
-  }
-  else if (!other.m_players.empty()) {
+  } else if (!other.m_players.empty()) {
     // Subsequent merges: reserve for worst case (no duplicates)
     m_players.reserve(m_players.size() + other.m_players.size());
   }
 
   // Merge players using try_emplace for efficiency
-  std::ranges::for_each(other.m_players, [this](auto& pair) {
-    addPlayer(std::move(pair.second));
-  });
+  std::ranges::for_each(other.m_players, [this](auto& pair) { addPlayer(std::move(pair.second)); });
 
   // Pre-allocate space for games
   m_cashGames.reserve(m_cashGames.size() + other.m_cashGames.size());

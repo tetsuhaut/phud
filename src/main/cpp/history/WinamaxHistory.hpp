@@ -7,11 +7,11 @@
 class Site;
 
 class [[nodiscard]] WinamaxHistory final : public PokerSiteHistory {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   WinamaxHistory() noexcept;
   WinamaxHistory(const WinamaxHistory&) = delete;
   WinamaxHistory(WinamaxHistory&&) = delete;
@@ -25,26 +25,26 @@ public:
   [[nodiscard]] std::unique_ptr<Site> load(const std::filesystem::path& dir,
                                            std::function<void()> onProgress,
                                            std::function<void(std::size_t)> onSetNbFiles) override;
-  std::unique_ptr<Site> load(auto, std::function<void()>, std::function<void(std::size_t)>) = delete;
+  std::unique_ptr<Site> load(auto, std::function<void()>,
+                             std::function<void(std::size_t)>) = delete;
 
   [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& dir);
   std::unique_ptr<Site> load(auto) = delete;
 
   void stopLoading() override;
 
-  [[nodiscard]] std::unique_ptr<Site> reloadFile(const std::filesystem::path& file)
-  override;
+  [[nodiscard]] std::unique_ptr<Site> reloadFile(const std::filesystem::path& file) override;
   std::unique_ptr<Site> reloadFile(auto) = delete;
 
   [[nodiscard]] static bool isValidHistory(const std::filesystem::path& dir);
   static bool isValidHistory(auto) = delete;
 
-  [[nodiscard]] std::string_view getTableNameFromTableWindowTitle(std::string_view tableWindowTitle)
-  const
-  override;
+  [[nodiscard]] std::string_view
+  getTableNameFromTableWindowTitle(std::string_view tableWindowTitle) const override;
 
-  [[nodiscard]] std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(
-    const std::filesystem::path& dir,
-    std::string_view tableWindowTitle) const override;
-  std::optional<std::filesystem::path> getHistoryFileFromTableWindowTitle(auto, std::string_view) const = delete;
+  [[nodiscard]] std::optional<std::filesystem::path>
+  getHistoryFileFromTableWindowTitle(const std::filesystem::path& dir,
+                                     std::string_view tableWindowTitle) const override;
+  std::optional<std::filesystem::path>
+      getHistoryFileFromTableWindowTitle(auto, std::string_view) const = delete;
 }; // class WinamaxHistory

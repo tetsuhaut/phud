@@ -3,12 +3,12 @@
 
 BOOST_AUTO_TEST_SUITE(PreferencesTest)
 
-static constexpr auto IN_MEMORY { true };
+static constexpr auto IN_MEMORY {true};
 
 BOOST_AUTO_TEST_CASE(PreferencesTest_getDefaultValues) {
   const Preferences prefs(IN_MEMORY);
-  const auto [x, y] { prefs.getMainWindowPosition() };
-  const  auto historyDir { prefs.getPreferredHistoDir() };
+  const auto [x, y] {prefs.getMainWindowPosition()};
+  const auto historyDir {prefs.getPreferredHistoDir()};
 
   // Vérifier que les valeurs par défaut sont cohérentes
   BOOST_CHECK(x >= 0);
@@ -42,7 +42,7 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_windowPositionAndSize) {
   prefs.saveWindowPosition(150, 200);
   prefs.saveWindowSize(800, 600);
 
-  const auto [x, y] { prefs.getMainWindowPosition() };
+  const auto [x, y] {prefs.getMainWindowPosition()};
   BOOST_CHECK_EQUAL(x, 150);
   BOOST_CHECK_EQUAL(y, 200);
 }
@@ -52,11 +52,11 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_historyDirectory) {
 
   // Test avec un répertoire inexistant (retourne empty path)
   prefs.saveHistoryDirectory("/path/that/does/not/exist");
-  const auto& dir { prefs.getPreferredHistoDir() };
+  const auto& dir {prefs.getPreferredHistoDir()};
   BOOST_CHECK(dir.empty());
 
   // Test du label par défaut
-  const auto& label { prefs.getHistoryDirectoryDisplayLabel() };
+  const auto& label {prefs.getHistoryDirectoryDisplayLabel()};
   BOOST_CHECK(!label.empty());
 }
 

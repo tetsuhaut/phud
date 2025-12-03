@@ -10,11 +10,11 @@
  * @brief The application preferences
  */
 class [[nodiscard]] Preferences final {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   explicit Preferences(bool isInMemory = false);
   Preferences(const Preferences&) = delete;
   Preferences(Preferences&&) = delete;
@@ -36,6 +36,7 @@ public:
   void saveStringPreference(std::string_view key, std::string_view value) const;
   void saveIntPreference(std::string_view key, int value) const;
 
-  [[nodiscard]] std::string getStringPreference(std::string_view key, std::string_view defaultValue = "") const;
+  [[nodiscard]] std::string getStringPreference(std::string_view key,
+                                                std::string_view defaultValue = "") const;
   [[nodiscard]] int getIntPreference(std::string_view key, int defaultValue = 0) const;
 }; // class Preferences

@@ -2,7 +2,7 @@
 
 #include <filesystem> // std::filesystem::path
 #include <functional> // std::function
-#include <memory> // std::shared_ptr
+#include <memory>     // std::shared_ptr
 
 // forward declarations
 class Database;
@@ -14,11 +14,11 @@ class PokerSiteHistory;
  * This is a concrete sealed class - not polymorphic.
  */
 class [[nodiscard]] HistoryService /*final*/ {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   explicit HistoryService(Database& database);
   HistoryService(const HistoryService&) = delete;
   HistoryService(HistoryService&&) = delete;

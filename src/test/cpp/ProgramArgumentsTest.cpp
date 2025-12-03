@@ -6,7 +6,7 @@ namespace pt = phud::test;
 BOOST_AUTO_TEST_SUITE(ProgramArgumentsTest)
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpShortParamShouldDisplayHelp) {
-  const char* argv[] { "thisProgram.exe", "-h" };
+  const char* argv[] {"thisProgram.exe", "-h"};
   std::string msg;
 
   try {
@@ -19,35 +19,36 @@ BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpShortParamShouldDisplayHelp) {
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpLongParamShouldDisplayHelp) {
-  const char* argv[] { "thisProgram.exe", "--help" };
+  const char* argv[] {"thisProgram.exe", "--help"};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), UserAskedForHelpException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_unexistingDirShortParamShouldDisplayErrorMessage) {
-  const char* argv[] { "thisProgram.exe", "-d", "someUnexistingDir" };
+  const char* argv[] {"thisProgram.exe", "-d", "someUnexistingDir"};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_unexistingDirLongParamShouldDisplayErrorMessage) {
-  const char* argv[] { "thisProgram.exe", "--historyDir", "someUnexistingDir" };
+  const char* argv[] {"thisProgram.exe", "--historyDir", "someUnexistingDir"};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_unknownParamShouldDisplayErrorMessage) {
-  const char* argv[] { "thisProgram.exe", "-x" };
-  BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv),  ProgramArgumentsException);
+  const char* argv[] {"thisProgram.exe", "-x"};
+  BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_badParamShouldDisplayErrorMessage) {
-  const char* argv[] { "thisProgram.exe", "toto" "titi" };
+  const char* argv[] {"thisProgram.exe", "toto"
+                                         "titi"};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_correctParamShouldSucceed) {
-  const pt::TmpDir dir { "thisDirExists!!!" };
-  const auto& str { dir.string() };
+  const pt::TmpDir dir {"thisDirExists!!!"};
+  const auto& str {dir.string()};
   const char* argv[] {"thisProgram.exe", "-d", str.c_str()};
-  const auto& [oWinamaxDir, oLoggingLevel] { parseProgramArguments(argv) };
+  const auto& [oWinamaxDir, oLoggingLevel] {parseProgramArguments(argv)};
   BOOST_REQUIRE(dir.path() == oWinamaxDir.value());
   BOOST_REQUIRE(false == oLoggingLevel.has_value());
 }

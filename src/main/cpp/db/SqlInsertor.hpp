@@ -16,12 +16,12 @@ enum class Variant : short;
  * INSERT INTO someTable (column1, column2, column3) VALUES (1, 2, 3), (4, 5, 6);
  */
 class [[nodiscard]] SqlInsertor final {
-private:
+ private:
   std::string m_query;
   std::string m_valueModel;
   std::string m_values;
 
-public:
+ public:
   /**
    * @param sqlTemplate an SQL query model, such as
    *        INSERT INTO someTable (column1, column2, ...) VALUES (?, '?', ...);

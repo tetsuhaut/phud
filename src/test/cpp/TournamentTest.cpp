@@ -7,8 +7,9 @@
 BOOST_AUTO_TEST_SUITE(TournamentTest)
 
 BOOST_AUTO_TEST_CASE(TournamentTest_loadingDoubleOrNothingWithOnlyFoldsShouldSucceed) {
-  const auto& file { phud::test::getFileFromTestResources("Winamax/hands/20141031_Double or Nothing(98932321)_real_holdem_no-limit.txt") };
-  const auto& pSite { WinamaxGameHistory::parseGameHistory(file) };
+  const auto& file {phud::test::getFileFromTestResources(
+      "Winamax/hands/20141031_Double or Nothing(98932321)_real_holdem_no-limit.txt")};
+  const auto& pSite {WinamaxGameHistory::parseGameHistory(file)};
   BOOST_REQUIRE(nullptr != pSite);
   BOOST_REQUIRE("Winamax" == pSite->getName());
   BOOST_REQUIRE(10 == pSite->viewPlayers().size());
@@ -24,13 +25,13 @@ BOOST_AUTO_TEST_CASE(TournamentTest_loadingDoubleOrNothingWithOnlyFoldsShouldSuc
   BOOST_REQUIRE(nullptr != pSite->viewPlayer("djembe man"));
   BOOST_REQUIRE(nullptr == pSite->viewPlayer("toto"));
   BOOST_REQUIRE(pSite->viewCashGames().empty());
-  const auto& tournaments { pSite->viewTournaments() };
+  const auto& tournaments {pSite->viewTournaments()};
   BOOST_REQUIRE(1 == tournaments.size());
-  const auto& t { *tournaments[0] };
+  const auto& t {*tournaments[0]};
   BOOST_REQUIRE_MESSAGE("Double or Nothing(98932321)" == t.getName(),
                         "t.getName()='" << t.getName() << '\'');
   BOOST_REQUIRE(t.isRealMoney());
-  BOOST_REQUIRE(Time({ .strTime = "2014/10/31 00:45:01", .format = WINAMAX_HISTORY_TIME_FORMAT }) ==
+  BOOST_REQUIRE(Time({.strTime = "2014/10/31 00:45:01", .format = WINAMAX_HISTORY_TIME_FORMAT}) ==
                 t.getStartDate());
   BOOST_REQUIRE("Winamax" == t.getSiteName());
   BOOST_REQUIRE("20141031_Double or Nothing(98932321)_real_holdem_no-limit" == t.getId());

@@ -1,17 +1,17 @@
 #pragma once
 
 #include <functional> // std::function
-#include <memory> // std::unique_ptr
+#include <memory>     // std::unique_ptr
 #include <span>
 #include <string>
 #include <vector>
 
 class [[nodiscard]] TableWatcher final {
-private:
+ private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
-public:
+ public:
   using TableWindowsDetectedCallback = std::function<void(std::span<const std::string> tableNames)>;
 
   explicit TableWatcher(const TableWindowsDetectedCallback& onTablesChanged);

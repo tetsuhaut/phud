@@ -8,14 +8,14 @@
  * A text file reader.
  */
 class [[nodiscard]] TextFile final {
-private:
+ private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::stringstream m_content;
   std::filesystem::path m_file;
   std::string m_line {};
-  int m_lineNb { 0 };
+  int m_lineNb {0};
 
-public:
+ public:
   explicit TextFile(const std::filesystem::path& file);
   explicit TextFile(auto file) = delete; // use only std::filesystem::path
 
@@ -53,7 +53,9 @@ public:
   [[nodiscard]] bool startsWith(std::string_view s) const noexcept;
   [[nodiscard]] bool endsWith(std::string_view s) const noexcept;
   [[nodiscard]] bool endsWith(char c) const noexcept;
-  [[nodiscard]] bool contains(std::string_view s) const noexcept { return std::string_view::npos != find(s); }
+  [[nodiscard]] bool contains(std::string_view s) const noexcept {
+    return std::string_view::npos != find(s);
+  }
   [[nodiscard]] bool contains(char c) const noexcept { return std::string::npos != find(c); }
   [[nodiscard]] bool containsExact(std::string_view s) const noexcept;
   [[nodiscard]] bool containsOneOf(std::span<const std::string_view> patterns) const;

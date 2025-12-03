@@ -23,7 +23,7 @@
 #  pragma clang diagnostic ignored "-Wunused-exception-parameter"
 #  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #  pragma clang diagnostic ignored "-Wzero-as-null-pointer-constant"
-#endif  // __MINGW32__
+#endif // __MINGW32__
 
 #include <boost/stacktrace.hpp> // as std::stacktrace does not work with gcc 15.2 on Windows
 
@@ -31,11 +31,12 @@
 #  pragma GCC diagnostic pop
 #elif defined(__clang__)
 #  pragma clang diagnostic pop
-#endif  // __MINGW32__
+#endif // __MINGW32__
 
 class [[nodiscard]] PhudException : public std::runtime_error {
-public:
-  explicit PhudException(std::string_view msg, const boost::stacktrace::stacktrace& stacktrace = boost::stacktrace::stacktrace());
+ public:
+  explicit PhudException(std::string_view msg, const boost::stacktrace::stacktrace& stacktrace =
+                                                   boost::stacktrace::stacktrace());
   PhudException(const PhudException&) = default;
   PhudException(PhudException&&) = default;
   PhudException& operator=(const PhudException&) = default;
