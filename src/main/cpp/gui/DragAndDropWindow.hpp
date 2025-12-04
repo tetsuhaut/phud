@@ -23,8 +23,8 @@
  */
 class [[nodiscard]] DragAndDropWindow : public Fl_Double_Window {
  private:
-  int m_offsetX {0};
-  int m_offsetY {0};
+  int m_offsetX = 0;
+  int m_offsetY = 0;
   std::function<void(int, int)> m_cb;
 
  public:

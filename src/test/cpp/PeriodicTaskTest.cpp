@@ -56,7 +56,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
   std::array<std::shared_ptr<StrContainer>, 2> myArray {std::make_shared<StrContainer>(), nullptr};
   auto pArray = std::make_shared<PassedInArray>(myArray);
   pt.start([pArray]() {
-    const auto& args {*pArray};
+    const auto args = *pArray;
     args.m_array[0]->str = "yop";
     return PeriodicTaskStatus::stopTask;
   });

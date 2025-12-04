@@ -13,7 +13,7 @@ class [[nodiscard]] TextFile final {
   std::stringstream m_content;
   std::filesystem::path m_file;
   std::string m_line {};
-  int m_lineNb {0};
+  int m_lineNb = 0;
 
  public:
   explicit TextFile(const std::filesystem::path& file);

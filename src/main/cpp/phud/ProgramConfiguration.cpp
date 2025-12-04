@@ -10,7 +10,7 @@ ProgramConfiguration::Configuration
 ProgramConfiguration::readConfiguration(std::span<const char* const> args) {
   // Parse command line arguments (override config file)
   // NOTE: we cannot log yet as the logging framework was not created
-  const auto& [oHistoDirArg, oLoggingLevel] {parseProgramArguments(args)};
+  const auto [oHistoDirArg, oLoggingLevel] = parseProgramArguments(args);
   const auto executablePath = std::filesystem::path(args[0]);
   const auto config = ConfigReader::loadConfig(executablePath);
   const auto loggingLevel = [&oLoggingLevel, &config]() {

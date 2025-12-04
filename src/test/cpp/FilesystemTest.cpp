@@ -15,7 +15,7 @@ BOOST_AUTO_TEST_CASE(FilesystemTest_readingFileShouldSucceed) {
                                    u8"- Déglingos _(123322389)_real_holdem_no-limit.txt")};
   BOOST_REQUIRE(!pf::isDir(file));
   BOOST_REQUIRE(pf::isFile(file));
-  const auto& fileContent {pf::readToString(file)};
+  const auto fileContent = pf::readToString(file);
   BOOST_REQUIRE(!fileContent.empty());
   BOOST_REQUIRE(!pf::isDir(std::filesystem::path("")));
 }

@@ -13,7 +13,7 @@ template <typename T>
   // Alternatively we could use std::bit_cast but explicit exponentation is
   // clearer.
   T result {1.0};
-  for (int i {0}; i < exp; ++i) {
+  for (int i = 0; i < exp; ++i) {
     result *= static_cast<T>(2.0);
   }
   return result;

@@ -1,5 +1,6 @@
 #pragma once
 
+#include <array>
 #include <string_view>
 
 namespace ProgramInfos {
@@ -33,8 +34,7 @@ static constexpr std::string_view PMU_EXECUTABLE_STEM {"PMU"};
 
 static constexpr std::string_view PMU_SITE_NAME {"Pmu"};
 
-static constexpr std::string_view POKER_SITE_EXECUTABLE_STEMS[] {WINAMAX_EXECUTABLE_STEM,
-                                                                 PMU_EXECUTABLE_STEM};
+static constexpr std::array<std::string_view, 2> POKER_SITE_EXECUTABLE_STEMS = {WINAMAX_EXECUTABLE_STEM, PMU_EXECUTABLE_STEM};
 
 static constexpr std::string_view DATABASE_NAME {"phud.db"};
 } // namespace ProgramInfos

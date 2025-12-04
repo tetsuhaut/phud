@@ -80,7 +80,7 @@ double phud::strings::toDouble(std::string_view amount) {
   double ret = 0;
   const std::span<const char> buffer = {str.data(), str.size()};
 
-  if (const auto& [ptr, ec] {std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret)};
+  if (const auto [ptr, ec] = std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret);
       ec == std::errc::result_out_of_range) {
     LOG().error<"phud::strings::toDouble({})">(amount);
     LOG().error<"amount in double: {}">(ret);

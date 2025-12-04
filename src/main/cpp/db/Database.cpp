@@ -195,7 +195,7 @@ class [[nodiscard]] Transaction final {
  private:
   std::mutex m_mutex {};
   gsl::not_null<sqlite3*> m_db;
-  bool m_didCommit {false};
+  bool m_didCommit = false;
 
  public:
   explicit Transaction(gsl::not_null<sqlite3*> a_db)
@@ -367,7 +367,7 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
                         "trying to save a hand with no players");
     std::ranges::for_each(seats | std::views::enumerate,
                           [pHand, &handPlayerInsert](const auto& indexedPlayer) {
-                            const auto& [index, playerName] {indexedPlayer};
+                            const auto [index, playerName] = indexedPlayer;
                             // we suppose the Player has been saved before this call
                             if (!playerName.empty()) {
                               handPlayerInsert.handId(pHand->getId())

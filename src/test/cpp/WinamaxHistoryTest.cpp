@@ -77,17 +77,17 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingEmptyFileShouldNotProduceGame) {
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   /* looking at src\test\resources\Winamax\simpleCGHisto\history\20150309_Colorado
    * 1_real_holdem_no-limit.txt */
-  const auto& dir {pt::getDirFromTestResources("Winamax/simpleCGHisto")};
+  const auto dir = pt::getDirFromTestResources("Winamax/simpleCGHisto");
   const auto pSite {PokerSiteHistory::load(dir)};
   BOOST_REQUIRE(1 == pSite->viewCashGames().size());
   BOOST_REQUIRE(pSite->viewTournaments().empty());
-  const auto& games {pSite->viewCashGames()};
-  const auto& cashGame {*games[0]};
+  const auto games = pSite->viewCashGames();
+  const auto& cashGame = *games[0];
   BOOST_REQUIRE(cashGame.isRealMoney());
   BOOST_REQUIRE("2015-03-09 22:19:08" == cashGame.getStartDate().toSqliteDate());
   BOOST_REQUIRE("20150309_Colorado 1_real_holdem_no-limit" == cashGame.getId());
   BOOST_REQUIRE("Colorado 1" == cashGame.getName());
-  const auto& players {pSite->viewPlayers()};
+  const auto players = pSite->viewPlayers();
   BOOST_REQUIRE(21 == players.size());
   std::vector<std::string> actualPlayerNames;
   actualPlayerNames.reserve(players.size());
@@ -103,11 +103,11 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   std::sort(actualPlayerNames.begin(), actualPlayerNames.end());
   BOOST_REQUIRE(std::equal(expectedPlayerNames.begin(), expectedPlayerNames.end(),
                            actualPlayerNames.begin()));
-  const auto& hands {cashGame.viewHands()};
+  const auto hands = cashGame.viewHands();
   BOOST_REQUIRE(5 == hands.size());
   /* each hand has 6 players */
   std::ranges::for_each(hands, [](const auto& hand) {
-    const auto& seats {hand->getSeats()};
+    const auto seats = hand->getSeats();
     const std::span firstSix(seats.begin(), seats.begin() + 6);
     const auto isEmpty = [](auto s) {
       return s.empty();
@@ -118,13 +118,13 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   });
   const std::vector<std::string> sixPlayerNames {"Amntfs",    "tc1591", "KT-Laplume74",
                                                  "martinh06", "Akinos", "JOOL81"};
-  const auto& firstHandSeats {hands[0]->getSeats()};
+  const auto firstHandSeats = hands[0]->getSeats();
   BOOST_REQUIRE(std::equal(sixPlayerNames.begin(), sixPlayerNames.end(), firstHandSeats.begin()));
   BOOST_REQUIRE(16 == hands[0]->viewActions().size());
   BOOST_REQUIRE(6 == hands[1]->viewActions().size());
   /* check that the 5 first players folded preflop */
-  const auto& actions {hands[1]->viewActions()};
-  const auto& firstFive {std::span(&actions[0], &actions[5])};
+  const auto actions = hands[1]->viewActions();
+  const auto firstFive = std::span(&actions[0], &actions[5]);
   std::ranges::for_each(firstFive, [](const auto& action) {
     BOOST_REQUIRE(Street::preflop == action->getStreet());
     BOOST_REQUIRE(ActionType::fold == action->getType());
@@ -138,13 +138,13 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodTournamentFileShouldSucceed) {
-  const auto& dir {pt::getDirFromTestResources("Winamax/simpleTHisto")};
+  const auto dir = pt::getDirFromTestResources("Winamax/simpleTHisto");
   const auto pSite {PokerSiteHistory::load(dir)};
   BOOST_REQUIRE(pSite->viewCashGames().empty());
-  const auto& games {pSite->viewTournaments()};
+  const auto games = pSite->viewTournaments();
   BOOST_REQUIRE(1 == games.size());
-  const auto& tournament {*games[0]};
-  const auto& hands {tournament.viewHands()};
+  const auto& tournament = *games[0];
+  const auto hands = tournament.viewHands();
   BOOST_REQUIRE(216 == hands.size());
   BOOST_REQUIRE("Kill The Fish(152800689)" == tournament.getName());
   BOOST_REQUIRE(tournament.isRealMoney());
@@ -161,7 +161,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldDetectInvalidHistoryDirectory) {
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldDetectValidHistoryDirectory) {
   auto dir {pt::getDirFromTestResources("Winamax/tc1591")};
-  const auto& histoDir {dir.append("history").lexically_normal()};
+  const auto histoDir = dir.append("history").lexically_normal();
   auto subdirs = pf::listSubDirs(histoDir);
   BOOST_REQUIRE(PokerSiteHistory::isValidHistory(pt::getDirFromTestResources("Winamax/tc1591")));
   BOOST_REQUIRE(
@@ -177,7 +177,7 @@ BOOST_FIXTURE_TEST_CASE(WinamaxHistoryTest_shouldNotHaveDuplicatedPlayers, Sabre
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldGuessPlayMoneyCashGameTableNameFrowWindowTitle) {
-  const auto& psh {WinamaxHistory()};
+  const auto psh = WinamaxHistory();
   // title from Winamax in 2015
   const auto table {
       psh.getTableNameFromTableWindowTitle("Wichita 02 / 0,01-0,02 NL Holdem / Argent fictif")};
@@ -188,25 +188,25 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldGuessPlayMoneyCashGameTableNameFro
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldGuessSitngoTableNameFrowWindowTitle) {
-  const auto& psh {WinamaxHistory()};
+  const auto psh = WinamaxHistory();
   const auto table {psh.getTableNameFromTableWindowTitle(
       "Sit&Go Freeroll(538892397)#0 / Buy-in: 0 € / 40-80 (ante 10) NL Holdem")};
   BOOST_TEST("Sit&Go Freeroll(538892397)" == table);
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20220101FromTableWindowTitleShouldSucceed) {
-  const auto& psh {WinamaxHistory()};
+  const auto psh = WinamaxHistory();
   const auto dir {pt::getDirFromTestResources("Winamax/sabre_laser")};
   const auto oP {psh.getHistoryFileFromTableWindowTitle(
       dir, "Wichita 05 / 0,01-0,02 NL Holdem / Argent fictif")};
-  const auto& p {oP.value()};
+  const auto p = oP.value();
   // only the latest is found
   BOOST_TEST("20200404_Wichita 05_play_holdem_no-limit.txt" == p.filename().string());
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_getHistoryFile20250924FromTableWindowTitleShouldSucceed) {
-  const auto& wh {WinamaxHistory()};
-  const auto& dir {pt::getDirFromTestResources("Winamax/sabre_laser")};
+  const auto wh = WinamaxHistory();
+  const auto dir = pt::getDirFromTestResources("Winamax/sabre_laser");
   const auto oP {wh.getHistoryFileFromTableWindowTitle(dir, "Wichita 09")};
   const auto file {oP.value()};
   // only the latest is found

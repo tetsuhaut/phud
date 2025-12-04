@@ -223,7 +223,7 @@ void onImportDone(Fl_Button* chooseHistoDirBtn) {
 void exitCb(Fl_Widget* const mainWindow, void* hidden) {
   LOG().debug<__func__>();
   LOG().info<"Stopping the GUI.">();
-  const auto& impl {*static_cast<Gui::Implementation*>(hidden)};
+  const auto& impl = *static_cast<Gui::Implementation*>(hidden);
 
   // Stop watching for poker tables first
   if (impl.m_tableWatcher) {
@@ -244,7 +244,7 @@ void exitCb(Fl_Widget* const mainWindow, void* hidden) {
 template <typename WIDGET>
 [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
                                                   std::string_view label) {
-  const auto& [x, y, w, h] {bounds};
+  const auto [x, y, w, h] = bounds;
   return new WIDGET(x, y, w, h, label.data());
 }
 
@@ -259,7 +259,7 @@ template <typename WIDGET>
 template <typename WIDGET>
 [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
                                                   auto setupFunction) {
-  const auto& [x, y, w, h] {bounds};
+  const auto [x, y, w, h] = bounds;
   auto widget = new WIDGET(x, y, w, h);
   setupFunction(widget);
   return widget;
@@ -274,7 +274,7 @@ template <typename WIDGET>
 
 [[nodiscard]] inline std::unique_ptr<Fl_Native_File_Chooser>
 buildDirectoryChooser(const Preferences& preferences) {
-  const auto& startDir {preferences.getPreferredHistoDir()};
+  const auto startDir = preferences.getPreferredHistoDir();
   auto pHistoryChoser = std::make_unique<Fl_Native_File_Chooser>();
   pHistoryChoser->title(MainWindow::Label::chooseHistoryDirectory.data());
   pHistoryChoser->type(Fl_Native_File_Chooser::BROWSE_DIRECTORY);
@@ -305,11 +305,11 @@ void updateTablePlayerIndicators(TablePlayerIndicators& playerIndicators,
                                  const phud::Rectangle& tablePosition,
                                  TableStatistics tableStatistics) {
   const auto heroSeat = tableStatistics.getHeroSeat();
-  const auto& seats {tableStatistics.getSeats()};
+  const auto seats = tableStatistics.getSeats();
   LOG().debug<"Processing {} seats for player indicators">(seats.size());
 
   for (const auto& seat : seats) {
-    const auto& seatStr {tableSeat::toString(seat)};
+    const auto seatStr = tableSeat::toString(seat);
     LOG().debug<"Checking seat {}">(seatStr);
     if (auto ps {tableStatistics.extractPlayerStatistics(seat)}; nullptr != ps) {
       LOG().debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(),
@@ -403,8 +403,8 @@ void updateUsefulPlayerIndicators(TableWindowTitleToTablePlayerIndicators& playe
       tableTitleNotYetMonitored, [&playerIndicators, &tableService](const auto& title) {
         playerIndicators[title] = TablePlayerIndicators {};
         // Start monitoring this table for statistics
-        const auto& observerCb {buildTableObserver(playerIndicators, title)};
-        if (const auto& errorMsg {tableService.startProducingStats(title, observerCb)};
+        const auto observerCb = buildTableObserver(playerIndicators, title);
+        if (const auto errorMsg = tableService.startProducingStats(title, observerCb);
             !errorMsg.empty()) {
           LOG().error<"Failed to start monitoring table window '{}': {}">(title, errorMsg);
         }
@@ -451,7 +451,7 @@ void handleOk(std::string_view dirName, Gui::Implementation& self);
 void handleError(const Fl_Native_File_Chooser& chooser, Gui::Implementation& self);
 
 void handleOk(std::string_view dirName, Gui::Implementation& self) {
-  const auto& dir {fs::path {dirName}};
+  const auto dir = fs::path(dirName);
   LOG().info<"the user chose to import the directory '{}'">(dir.string());
 
   if (self.m_historyService.isValidHistory(dir)) {
@@ -516,7 +516,7 @@ static void handleDirectoryChoice(Gui::Implementation& self,
   // button. Displays a directory chooser window.
   auto choseHistoDirCb = [](Fl_Widget*, void* hiddenSelf) {
     LOG().debug<"choseHistoDirCb">();
-    auto& self {*static_cast<Gui::Implementation*>(hiddenSelf)};
+    auto& self = *static_cast<Gui::Implementation*>(hiddenSelf);
     informUser<MainWindow::Label::chooseHistoDirText>(self);
     const auto dirChoser = buildDirectoryChooser(*self.m_preferences);
     const auto choice = static_cast<FileChoiceStatus>(dirChoser->show());
@@ -535,7 +535,7 @@ static void handleDirectoryChoice(Gui::Implementation& self,
 [[nodiscard]] static gsl::not_null<Fl_Button*> buildStopHudBtn(Gui::Implementation& aSelf) {
   // Called by the GUI (button component) when the user clicks on the 'stop HUD'
   auto stopHudCb = [](Fl_Widget* button, void* hiddenSelf) {
-    auto& self {*static_cast<Gui::Implementation*>(hiddenSelf)};
+    auto& self = *static_cast<Gui::Implementation*>(hiddenSelf);
     LOG().debug<"stopHudCb">();
     // Use business service to stop monitoring
     self.m_tableService.stopProducingStats();
@@ -606,7 +606,7 @@ buildTableWatcher(Fl_Box* pWatchedTableLabel,
         scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService,
                         twt = toVector(tableWindowTitles)]() {
           // Update label and player indicators
-          const auto& label {getWatchedTableLabel(twt)};
+          const auto label = getWatchedTableLabel(twt);
           pWatchedTableLabel->copy_label(label.c_str());
           removeUselessPlayerIndicators(playerIndicators, twt, tableService);
           updateUsefulPlayerIndicators(playerIndicators, twt, tableService);

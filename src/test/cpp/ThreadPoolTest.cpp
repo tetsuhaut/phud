@@ -9,7 +9,7 @@ static constexpr double myFunction(double d) {
 BOOST_AUTO_TEST_SUITE(ThreadPoolTest)
 
 BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitFunctionShouldWork) {
-  auto futureResult {ThreadPool::submit(myFunction, 3)};
+  auto futureResult = ThreadPool::submit(myFunction, 3);
   stlab::await(stlab::copy(futureResult));
   BOOST_REQUIRE(futureResult.is_ready());
   BOOST_REQUIRE(futureResult.get_try().has_value());
@@ -17,7 +17,7 @@ BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitFunctionShouldWork) {
 }
 
 BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitLambdaWithParametersShouldWork) {
-  auto futureResult {ThreadPool::submit([](int a, int b) { return a / b; }, 3, 3)};
+  auto futureResult = ThreadPool::submit([](int a, int b) { return a / b; }, 3, 3);
   stlab::await(stlab::copy(futureResult));
   BOOST_REQUIRE(futureResult.is_ready());
   BOOST_REQUIRE(futureResult.get_try().has_value());
@@ -26,7 +26,7 @@ BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitLambdaWithParametersShouldWork) {
 
 BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitLambdaWithCapturedParametersShouldWork) {
   auto d {3};
-  auto futureResult {ThreadPool::submit([d]() { return d / 2; })};
+  auto futureResult = ThreadPool::submit([d]() { return d / 2; });
   stlab::await(stlab::copy(futureResult));
   BOOST_REQUIRE(futureResult.is_ready());
   BOOST_REQUIRE(futureResult.get_try().has_value());

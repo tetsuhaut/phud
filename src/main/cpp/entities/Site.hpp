@@ -36,7 +36,7 @@ class [[nodiscard]] Site final {
   [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_name; }
   [[nodiscard]] std::vector<const Player*> viewPlayers() const;
   [[nodiscard]] const Player* viewPlayer(std::string_view name) const {
-    const auto& p {m_players.find(std::string(name))};
+    const auto p = m_players.find(std::string(name));
     return m_players.end() == p ? nullptr : p->second.get();
   }
   void merge(Site& other);

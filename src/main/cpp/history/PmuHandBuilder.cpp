@@ -59,16 +59,16 @@
 // nbMaxSeats, tableName, buttonSeat
 // NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
 // tf.next();
-// const auto& line { tf.getLine() };
+// const auto line =  tf.getLine() ;
 // LOG().debug<"Parsing table line {}.">(line);
 /*Table: 'Frankfurt 11' 9-max (real money) Seat #2 is the button
 Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 ^Table: '(.*)' (.*)-max .* Seat #(.*) is the button$*/
 // const auto pos { line.find("' ", TABLE_LENGTH) };
-// const auto& tableName { ps::sanitize(line.substr(TABLE_LENGTH, pos - TABLE_LENGTH)) };
+// const auto tableName =  ps::sanitize(line.substr(TABLE_LENGTH, pos - TABLE_LENGTH)) ;
 // const auto nbMaxSeats { ps::toInt(line.substr(pos + 2, line.find("-max") - pos - 2)) };
 // const auto posSharp { line.find(" Seat #") + SEAT_NB_LENGTH };
-// const auto& buttonSeatStr { line.substr(posSharp, line.find(" is the button") - posSharp) };
+// const auto buttonSeatStr =  line.substr(posSharp, line.find(" is the button") - posSharp) ;
 // const auto buttonSeat { ps::toInt(buttonSeatStr) };
 
 // if (line.starts_with("Seat ")) { throw PhudException("a Table line should start with 'Seat '"); }
@@ -149,7 +149,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 //[  Jd 3c ] (yep, 2 spaces) or [ 4h, 3h, Jh ] or [ Kh ]
 // const auto pos { line.find_first_not_of(' ', line.rfind('[') + 1) };
 // const auto strCards { line.substr(pos, line.rfind(" ]") - pos) };
-// const auto& cardsStr { split(strCards, cardDelimiter) };
+// const auto cardsStr =  split(strCards, cardDelimiter) ;
 // std::array<Card, 5> ret {};
 // std::ranges::transform(cardsStr, ret.begin(), toCard);
 // return ret;
@@ -242,9 +242,9 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // std::vector<std::unique_ptr<Action>> actions;
 
 // while (tf.containsOneOf(ACTION_TOKENS)) {
-// const auto& line { tf.getLine() };
+// const auto line =  tf.getLine() ;
 
-// if (const auto& oActionParams { parseLineForActionParams(line) }; oActionParams.has_value()) {
+// if (const auto oActionParams =  parseLineForActionParams(line) ; oActionParams.has_value()) {
 // const auto [playerName, type, bet] { oActionParams.value() };
 // actions.push_back(std::make_unique<Action>(Action::Params {
 // .handId = handId,
@@ -312,7 +312,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 //  auto lastStreet { Street::none };
 
 // while (!tf.contains(" wins ")) {
-// const auto& [currentStreet, streetCards] { parseStreet(tf.getLine()) };
+// const auto [currentStreet, streetCards] =  parseStreet(tf.getLine()) ;
 
 // if (Street::preflop != currentStreet) {
 // boardCards = getBoardCards(currentStreet, streetCards, boardCards);
@@ -324,7 +324,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // lastStreet = currentStreet;
 // }
 
-// const auto& winners { parseWinners(tf) };
+// const auto winners =  parseWinners(tf) ;
 // auto additionalActions { createActionForWinnersWithoutAction(winners, actions, lastStreet,
 // handId) }; std::ranges::move(additionalActions, std::back_inserter(actions)); return { .m_actions
 // = std::move(actions), .m_winners = winners, .m_boardCards = boardCards };
@@ -340,7 +340,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // cache) };
 // const auto ante { parseAnte(tf) };
 // const long ante { 0 };
-// const auto& heroCards { parseHeroCards(tf.getLine(), cache) };
+// const auto heroCards =  parseHeroCards(tf.getLine(), cache) ;
 // auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
 // LOG().debug<"nb actions={}">(actions.size());
 // Hand::Params params {
@@ -359,11 +359,11 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // seekToHandStart(tf);
 // const auto handId { readHandId(tf.getLine()) };
 // tf.next();
-// const auto& [_1, _2, startDate, _3, _4] { getInfosFromCashGamePmuPokerLine(tf.getLine()) }; //
-// TODO simplify tf.next(); const auto& [tableName, _5] { parseTableLine(tf.getLine()) }; // TODO
+// const auto [_1, _2, startDate, _3, _4] =  getInfosFromCashGamePmuPokerLine(tf.getLine()) ; //
+// TODO simplify tf.next(); const auto [tableName, _5] =  parseTableLine(tf.getLine()) ; // TODO
 // unneeded tf.next(); const auto buttonSeat { parseButtonSeatLine(tf.getLine()) }; tf.next(); const
 // auto nbMaxSeats { parseTotalNumberOfPlayersLine(tf.getLine()) }; // TODO unneeded tf.next();
-// const auto& seatPlayers { parseSeats(tf, pc) };
+// const auto seatPlayers =  parseSeats(tf, pc) ;
 // std::ranges::for_each(seatPlayers, [&pc](const auto& p) { if (!p.empty()) { pc.addIfMissing(p); }
 // }); seekToDealingDownCards(tf); tf.next(); const auto& heroCards { parseHeroCards(tf.getLine(),
 // pc) }; auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };

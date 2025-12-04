@@ -15,8 +15,8 @@ struct [[nodiscard]] PeriodicTask::Implementation final {
   std::condition_variable m_cv {};
   std::mutex m_mutex {};
   std::string m_name;
-  std::atomic_bool m_stop {false};
-  std::atomic_bool m_taskIsStopped {true};
+  std::atomic_bool m_stop = false;
+  std::atomic_bool m_taskIsStopped = true;
   std::chrono::milliseconds m_period;
 
   explicit Implementation(std::chrono::milliseconds period, std::string_view taskName)
@@ -69,7 +69,7 @@ void PeriodicTask::start(const std::function<PeriodicTaskStatus()>& task) const 
   m_pImpl->m_futureTaskResult = ThreadPool::submit([this, task]() {
     do {
       std::unique_lock lock {m_pImpl->m_mutex};
-      const auto& timeout {std::chrono::steady_clock::now() + m_pImpl->m_period};
+      const auto timeout = std::chrono::steady_clock::now() + m_pImpl->m_period;
 
       // listen to spurious wakes
       while (!m_pImpl->m_stop) {

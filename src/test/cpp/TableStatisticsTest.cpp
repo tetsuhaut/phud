@@ -12,7 +12,7 @@ namespace pt = phud::test;
 BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
 
 BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed) {
-  const auto& pSite {PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto"))};
+  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto"));
   BOOST_REQUIRE(nullptr != pSite);
   Database db;
   db.save(*pSite);

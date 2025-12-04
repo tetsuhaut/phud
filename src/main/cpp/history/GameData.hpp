@@ -14,7 +14,7 @@ struct [[nodiscard]] GameData final {
   Seat m_nbMaxSeats {Seat::seatUnknown}; // 2 bytes (short)
   Variant m_variant {Variant::none};     // 2 bytes (short)
   Limit m_limit {Limit::none};           // 2 bytes (short)
-  bool m_isRealMoney {false};            // 1 byte
+  bool m_isRealMoney = false;            // 1 byte
   // 1 byte padding at end
 
   struct [[nodiscard]] Args final {

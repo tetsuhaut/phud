@@ -179,8 +179,8 @@ TableService::~TableService() {
 
 /*static*/
 bool TableService::isPokerApp(std::string_view executableName) {
-  const auto& exe {fs::path(executableName).filename().string()};
-  const auto& stems {ProgramInfos::POKER_SITE_EXECUTABLE_STEMS};
+  const auto exe = fs::path(executableName).filename().string();
+  const auto stems = ProgramInfos::POKER_SITE_EXECUTABLE_STEMS;
   return std::end(stems) != std::ranges::find_if(stems, [&exe](const auto stem) noexcept {
            return exe.starts_with(stem);
          });
@@ -190,7 +190,7 @@ static bool wasUpdatedLessThat2MinutesAgo(const fs::path& p) noexcept {
   const auto& lastUpdateTime {std::chrono::time_point_cast<std::chrono::system_clock::duration>(
       fs::last_write_time(p) - fs::file_time_type::clock::now() +
       std::chrono::system_clock::now())};
-  const auto& now {std::chrono::system_clock::now()};
+  const auto now = std::chrono::system_clock::now();
   const auto age = std::chrono::duration_cast<std::chrono::minutes>(now - lastUpdateTime);
   return age < std::chrono::minutes(2);
 }

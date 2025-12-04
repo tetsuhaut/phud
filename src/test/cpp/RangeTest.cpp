@@ -24,7 +24,7 @@ BOOST_AUTO_TEST_CASE(RangeTest_aViewShouldHaveTheSameContentAsRealContainer) {
   Owner o;
   o.v.push_back(std::make_unique<int>(0));
   o.v.push_back(std::make_unique<int>(666));
-  const auto& view {o.getIntView()};
+  const auto view = o.getIntView();
   BOOST_REQUIRE(view.size() == o.v.size());
 }
 

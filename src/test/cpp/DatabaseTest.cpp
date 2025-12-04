@@ -42,7 +42,7 @@ static void assertPlayersAreOk(const Site& site) {
 BOOST_AUTO_TEST_SUITE(DatabaseTest)
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameShouldSucceed) {
-  const auto& pSite {PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto"))};
+  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto"));
   BOOST_REQUIRE(nullptr != pSite);
   assertPlayersAreOk(*pSite);
   BOOST_REQUIRE(5 == pSite->viewCashGames().front()->viewHands("tc1591").size());
@@ -51,7 +51,7 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameShouldSucceed) {
 }
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameAsynchShouldSucceed) {
-  const auto& pSite {PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto"))};
+  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto"));
   BOOST_REQUIRE(nullptr != pSite);
   assertPlayersAreOk(*pSite);
   BOOST_REQUIRE(5 == pSite->viewCashGames().front()->viewHands("tc1591").size());
@@ -60,7 +60,7 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameAsynchShouldSucceed
 }
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_shouldGetCorrectTableMaxSeat) {
-  const auto& pSite {PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto"))};
+  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto"));
   BOOST_REQUIRE(nullptr != pSite);
   Database db;
   db.save(*pSite);
@@ -76,7 +76,7 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_creatingInMemoryDatabaseShouldNotCreateFile) {
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_createNamedDatabaseWhenFileAlreadyExistsShouldReuseDatabase) {
   pt::TmpFile dbFile;
-  const auto& dbFilePath {dbFile.path()};
+  const auto dbFilePath = dbFile.path();
   Database namedDb {dbFile.string()};
   BOOST_REQUIRE(pf::isFile(dbFilePath));
   BOOST_REQUIRE(pf::isFile(fs::path(namedDb.getDbName())));

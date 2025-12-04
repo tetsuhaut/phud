@@ -36,15 +36,15 @@ Preferences::Preferences(bool isInMemory)
 Preferences::~Preferences() = default;
 
 std::filesystem::path Preferences::getPreferredHistoDir() const {
-  const auto& dir {getStringPreference(::CHOSEN_DIR, "")};
-  const auto& pathDir {fs::path(dir)};
+  const auto dir = getStringPreference(::CHOSEN_DIR, "");
+  const auto pathDir = fs::path(dir);
   // Return path only if it's not empty and the directory exists
   return (!pathDir.empty() and pf::isDir(pathDir)) ? pathDir : "";
 }
 
 std::string Preferences::getHistoryDirectoryDisplayLabel() const {
-  if (const auto& historyDir {getPreferredHistoDir()}; !historyDir.empty()) {
-    if (const auto& dirString {historyDir.string()}; !dirString.empty()) {
+  if (const auto historyDir = getPreferredHistoDir(); !historyDir.empty()) {
+    if (const auto dirString = historyDir.string(); !dirString.empty()) {
       return dirString;
     }
   }

@@ -11,7 +11,7 @@ namespace pt = phud::test;
 BOOST_AUTO_TEST_SUITE(PlayerStatisticsTest)
 
 BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_computeVoluntaryPutMoneyInPotShouldSucceed) {
-  const auto& pSite {PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/tc1591"))};
+  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/tc1591"));
   BOOST_REQUIRE(nullptr != pSite);
   Database db;
   db.save(*pSite);

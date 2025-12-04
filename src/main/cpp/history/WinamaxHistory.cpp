@@ -37,7 +37,7 @@ getHistoryFilesOrErrorMessage(const fs::path& dir, const fs::path& histoDir) {
         dir.string(), "'history'"));
   }
 
-  if (const auto& allFilesAndDirs {pf::listFilesAndDirs(histoDir)}; !allFilesAndDirs.empty()) {
+  if (const auto allFilesAndDirs = pf::listFilesAndDirs(histoDir); !allFilesAndDirs.empty()) {
     return allFilesAndDirs;
   }
 
@@ -309,7 +309,7 @@ WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& dir,
     // Take the most recent file (sort by modification time, most recent last)
     std::ranges::sort(files, pf::PathModificationTimeComparator {});
   }
-  const auto& candidate {files.back()};
+  const auto candidate = files.back();
   LOG().info<"Found {} history files for table '{}', using most recent: {}">(
       files.size(), tableName, candidate.string());
   return std::optional<fs::path> {candidate};

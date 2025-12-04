@@ -17,7 +17,7 @@ namespace pt = phud::test;
 struct SabreLaserFixture {
   // Shared Site instance loaded once for all tests using this fixture
   inline static std::unique_ptr<Site> pSabreLaserSite {nullptr};
-  inline static bool isLoaded {false};
+  inline static bool isLoaded = false;
 
   SabreLaserFixture() {
     if (!isLoaded) {
@@ -27,7 +27,7 @@ struct SabreLaserFixture {
       }()};
 
       LOG.info<"Loading sabre_laser test data (one-time setup)...">();
-      const auto& dir {pt::getDirFromTestResources("Winamax/sabre_laser")};
+      const auto dir = pt::getDirFromTestResources("Winamax/sabre_laser");
       pSabreLaserSite = PokerSiteHistory::load(dir);
       isLoaded = true;
       LOG.info<"sabre_laser test data loaded successfully.">();

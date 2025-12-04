@@ -21,54 +21,21 @@ static Logger& LOG() {
 
 /* algorithms to be moved to containers/algorithms.hpp if we use them elsewhere */
 namespace phud::algorithms {
-template <typename CONTAINER, typename T>
-[[nodiscard]] auto count(const CONTAINER& c, const T& value) {
-  return std::count(std::begin(c), std::end(c), value);
-}
-
 template <typename MAP, typename KEY>
 [[nodiscard]] auto findOrDefault(const MAP& m, const KEY& k) {
-  using V = MAP::mapped_type;
-  const auto& ret {m.find(k)};
+  using V = typename MAP::mapped_type;
+  const auto ret = m.find(k);
   return (std::end(m) == ret) ? V() : ret->second;
-}
-
-template <typename CONTAINER, typename T>
-void eraseValueFrom(CONTAINER& c, const T& value) {
-  c.erase(std::remove(std::begin(c), std::end(c), value), std::end(c));
-}
-
-template <typename CONTAINER_SOURCE, typename CONTAINER_TARGET>
-void append(CONTAINER_TARGET& target, const CONTAINER_SOURCE& source) {
-  target.insert(std::end(target), std::begin(source), std::end(source));
 }
 
 template <typename CONTAINER, typename... Args>
 /*[[nodiscard]]*/ CONTAINER merge(const CONTAINER& c, Args&&... otherContainers) {
   CONTAINER ret {c};
-  const auto& allOtherContainers = {std::forward<Args>(otherContainers)...};
+  const auto allOtherContainers = {std::forward<Args>(otherContainers)...};
   std::ranges::for_each(allOtherContainers, [&ret](const auto& other) {
     ret.insert(std::end(ret), std::begin(other), std::end(other));
   });
   return ret;
-}
-
-template <typename CONTAINER_SOURCE, typename CONTAINER_TARGET, typename PREDICATE>
-void copyIf(const CONTAINER_SOURCE& source, CONTAINER_TARGET& target, PREDICATE p) {
-  std::copy_if(std::begin(source), std::end(source), std::back_inserter(target), p);
-}
-
-/**
- * Returns true if container contains value
- */
-template <typename CONTAINER, typename T>
-[[nodiscard]] constexpr bool contains(const CONTAINER& c, const T& value) noexcept {
-  return std::end(c) != std::find(std::begin(c), std::end(c), value);
-}
-
-template <typename CONTAINER, typename FUNCTOR>
-[[nodiscard]] auto findIf(const CONTAINER& c, FUNCTOR f) {
-  return std::find_if(c.begin(), c.end(), f);
 }
 
 /**
@@ -92,7 +59,7 @@ std::array<fs::path, 2> SRC_DIRS {pt::getMainCppDir(), pt::getTestCppDir()};
 auto SRC_FILES {[]() {
   return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<fs::path> {},
                          [](std::vector<fs::path>&& v, const fs::path& dir) {
-                           phud::algorithms::append(v, pf::listRecursiveFiles(dir));
+                           v.append_range(pf::listRecursiveFiles(dir));
                            return v;
                          });
 }()};
@@ -102,12 +69,12 @@ auto SRC_FILES {[]() {
  *         '#include "a/b" // c' into 'a/b'
  */
 [[nodiscard]] std::string_view extractInclude(std::string_view line) {
-  validation::require((1 < phud::algorithms::count(line, '"')) or
+  validation::require((1 < std::ranges::count(line, '"')) or
                           (std::end(line) != std::find(line.begin(), line.end(), '<') and
                            std::end(line) != std::find(line.begin(), line.end(), '>')),
                       "bad line");
-  const auto& startPos {line.find_first_of("\"<") + 1};
-  const auto& endPos {line.find_first_of("\">", startPos) - 1};
+  const auto startPos = line.find_first_of("\"<") + 1;
+  const auto endPos = line.find_first_of("\">", startPos) - 1;
   return line.substr(startPos, 1 + endPos - startPos);
 }
 
@@ -116,12 +83,12 @@ auto SRC_FILES {[]() {
  * found, or an std::filesystem::path formed from the the given file name.
  */
 [[nodiscard]] fs::path extractAbsolutePathIncludeIfPossible(std::string_view line) {
-  const auto& file {extractInclude(line)};
+  const auto file = extractInclude(line);
   using namespace phud;
   using namespace pf;
-  const auto& f {phud::algorithms::findIf(SRC_DIRS, [&file](const auto& dir) {
-    return phud::algorithms::contains(SRC_FILES, dir / file);
-  })};
+  const auto f = std::ranges::find_if(SRC_DIRS, [&file](const auto& dir) {
+    return std::ranges::contains(SRC_FILES, dir / file);
+  });
   return (SRC_DIRS.end() == f) ? file : fs::canonical(*f / file);
 }
 
@@ -140,16 +107,16 @@ auto SRC_FILES {[]() {
 [[nodiscard]] std::vector<fs::path> getSrcFiles(std::span<const fs::path> files,
                                                 std::string_view fileExtension) {
   std::vector<fs::path> ret;
-  phud::algorithms::copyIf(files, ret,
+  std::ranges::copy_if(files, std::back_inserter(ret),
                            [&](const auto& p) { return p.string().ends_with(fileExtension); });
   return ret;
 }
 
-const auto& CPP_FILES {getSrcFiles(SRC_FILES, ".cpp")};
-const auto& HPP_FILES {getSrcFiles(SRC_FILES, ".hpp")};
-const auto& H_FILES {getSrcFiles(SRC_FILES, ".h")};
+const auto CPP_FILES = getSrcFiles(SRC_FILES, ".cpp");
+const auto HPP_FILES = getSrcFiles(SRC_FILES, ".hpp");
+const auto H_FILES = getSrcFiles(SRC_FILES, ".h");
 auto MY_SRC_FILES {getMySrcFiles(SRC_FILES)};
-const auto& H_HPP_FILES {getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES))};
+const auto H_HPP_FILES = getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES));
 
 /**
  * Les fichiers cpp sauf SourceCodeStaticCheckTest.cpp.
@@ -168,7 +135,7 @@ const auto& FILE_INCLUSIONS = []() {
   std::ranges::for_each(SRC_FILES, [&ret](const auto& file) {
     auto& includes {ret[file]};
     /* we do not check includes from STL, or from thirdParty */
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
       if (tfl.trim().startsWith("#include ")) {
@@ -198,7 +165,7 @@ enum class LineType : short { none, pragmaOnce, other };
 }
 
 [[nodiscard]] LineType getFirstCodeLineType(const fs::path& file) {
-  TextFile tfl {file};
+  auto tfl = TextFile(file);
 
   while (tfl.next()) { /*find the first code line*/
     if (!tfl.trim().lineIsEmpty() and !isAComment(tfl)) {
@@ -213,30 +180,33 @@ enum class LineType : short { none, pragmaOnce, other };
 
 [[nodiscard]] static std::vector<std::string>
 getAllQueryNames(std::string_view sourceFileContainingQueries) {
-  const auto& sourceFileWithFullPath {
-      *phud::algorithms::findIf(MY_SRC_FILES, [&](const auto& file) {
-        return file.string().ends_with(sourceFileContainingQueries);
-      })};
-  TextFile tfl {sourceFileWithFullPath};
+  const auto it = std::ranges::find_if(MY_SRC_FILES, [&](const auto& file) {
+    return file.string().ends_with(sourceFileContainingQueries);
+  });
+  validation::require(MY_SRC_FILES.end() != it, "Source file not found");
+  const auto sourceFileWithFullPath = *it;
+  auto tfl = TextFile(sourceFileWithFullPath);
   std::vector<std::string> ret;
 
   while (tfl.next()) {
-    if (tfl.startsWith("static constexpr std::string_view ") and tfl.endsWith("[] {")) {
-      const auto& str {tfl.getLine()};
-      const auto& pos {ps::length("static constexpr std::string_view ")};
-      ret.push_back(str.substr(pos, str.size() - pos - ps::length("[] {")));
+    const auto posBegin = tfl.find("static constexpr std::string_view ");
+    const auto posEnd = tfl.find(" = ");
+    if (!notFound(posBegin) and !notFound(posEnd)) {
+      ret.push_back(tfl.getLine().substr(posBegin, posEnd-posBegin));
     }
   }
 
-  validation::requireNonEmpty(ret, "detected queries");
+  assert(!ret.empty() and "pas de requêtes SQL");
   return ret;
 }
 
 [[nodiscard]] static bool sourceFileContains(std::string_view sourceFile,
                                              std::string_view sqlQueryName) {
-  const auto& sourceFileWithFullPath {*phud::algorithms::findIf(
-      MY_SRC_FILES, [&](auto& file) { return file.string().ends_with(sourceFile); })};
-  TextFile tfl {sourceFileWithFullPath};
+  const auto it = std::ranges::find_if(
+      MY_SRC_FILES, [&](const auto& file) { return file.string().ends_with(sourceFile); });
+  validation::require(MY_SRC_FILES.end() != it, "Source file not found");
+  const auto sourceFileWithFullPath = *it;
+  auto tfl = TextFile(sourceFileWithFullPath);
 
   while (tfl.next()) {
     if (tfl.contains(sqlQueryName)) {
@@ -251,7 +221,7 @@ getAllQueryNames(std::string_view sourceFileContainingQueries) {
 static void logIfMySrcFilesContainToken(std::span<const fs::path> files, std::string_view token,
                                         std::string_view replacement) {
   std::ranges::for_each(files, [&](const auto& file) {
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
       if (tfl.trim().contains(token)) {
@@ -306,9 +276,9 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHeaderFilesShouldBeIncluded) {
   auto headers {::H_HPP_FILES};
   std::ranges::for_each(::MY_SRC_FILES, [&](const auto& file) {
     if (!headers.empty()) {
-      const auto& inclusions {phud::algorithms::findOrDefault(FILE_INCLUSIONS, file.string())};
+      const auto inclusions = phud::algorithms::findOrDefault(FILE_INCLUSIONS, file.string());
       std::ranges::for_each(inclusions,
-                            [&](const auto& h) { phud::algorithms::eraseValueFrom(headers, h); });
+                            [&](const auto& h) { std::erase(headers, h); });
     }
   });
   std::ranges::for_each(headers,
@@ -316,7 +286,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHeaderFilesShouldBeIncluded) {
 }
 
 static std::vector<fs::path> getIncludes(const fs::path& p) {
-  if (const auto& entry {::FILE_INCLUSIONS.find(p)}; ::FILE_INCLUSIONS.end() != entry) {
+  if (const auto entry = ::FILE_INCLUSIONS.find(p); ::FILE_INCLUSIONS.end() != entry) {
     return entry->second;
   }
 
@@ -325,13 +295,13 @@ static std::vector<fs::path> getIncludes(const fs::path& p) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedInAFileAndOneOfItsIncludedFiles) {
   std::ranges::for_each(::FILE_INCLUSIONS, [&](const auto& fileToIncludes) {
-    const auto& f {fileToIncludes.first};
-    const auto& currentIncludes {fileToIncludes.second};
+    const auto f = fileToIncludes.first;
+    const auto currentIncludes = fileToIncludes.second;
     std::ranges::for_each(currentIncludes, [&](const auto& incl) {
-      const auto& others {getIncludes(incl)};
+      const auto others = getIncludes(incl);
       std::ranges::for_each(others, [&](const auto& inclincl) {
-        if (phud::algorithms::contains(currentIncludes, inclincl)) {
-          LOG().warn<"\nis in\n{}\nand in\n{}\n">(inclincl.string(), f.string(), incl.string());
+        if (std::ranges::contains(currentIncludes, inclincl)) {
+          LOG().warn<"{}\nis in\n{}\nand in\n{}\n">(inclincl.string(), f.string(), incl.string());
         }
       });
     });
@@ -342,11 +312,11 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingArguments
   /* explicit is for forbidding implicit conversions for constructors callable with a single
    * parameter */
   std::ranges::for_each(::H_HPP_FILES, [](const auto& file) {
-    TextFile tfl {file};
-    const auto& constructor {tfl.getFileStem()};
+    auto tfl = TextFile(file);
+    const auto constructor = tfl.getFileStem();
 
     while (tfl.next()) {
-      if (const auto& trimmedLine {tfl.trim().getLine()};
+      if (const auto trimmedLine = tfl.trim().getLine();
           /* it's not a deleted constructor */
           trimmedLine.starts_with(constructor + "(") and !ps::contains(trimmedLine, " delete") and
           /* it's not a copy constructor */
@@ -354,9 +324,9 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingArguments
           /* it's not an empty constructor */
           !trimmedLine.starts_with(constructor + "()")
           /* it's a one parameter callable constructor */
-          and phud::algorithms::count(trimmedLine, ',') > phud::algorithms::count(trimmedLine, '=')
+          and std::ranges::count(trimmedLine, ',') > std::ranges::count(trimmedLine, '=')
           /* it's not an explicit constructor */
-          and trimmedLine.starts_with("explicit ")) {
+          and !trimmedLine.starts_with("explicit ")) {
         LOG().warn<"In {} at line {} the constructor should be explicit: {}.">(
             file.string(), tfl.getLineIndex(), tfl.getLine());
       }
@@ -367,17 +337,19 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingArguments
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShouldNotBeExplicit) {
   /* explicit is for forbidding constructor arguments conversion */
   std::ranges::for_each(::H_HPP_FILES, [](const auto& file) {
-    TextFile tfl {file};
-    const auto& constructor {tfl.getFileStem()};
+    auto tfl = TextFile(file);
+    const auto constructor = tfl.getFileStem();
 
     while (tfl.next()) {
       tfl.trim();
 
-      if (const auto& pos {tfl.find(constructor + "(")};
-          (std::string::npos != pos) and tfl.startsWith("explicit ") and
-          !tfl.contains(" delete") and (')' == tfl.getLine()[pos + constructor.size() + 2])) {
-        LOG().warn<"In {} at line {} the default constructor should not be explicit:{}">(
-            file.string(), tfl.getLineIndex(), tfl.getLine());
+      if (const auto pos = tfl.find(constructor + "(");
+          !notFound(pos) and tfl.startsWith("explicit ") and !tfl.contains(" delete")) {
+        if (const auto closingParenPos = pos + constructor.size() + 1;
+            closingParenPos < tfl.getLine().size() and (')' == tfl.getLine()[closingParenPos])) {
+          LOG().warn<"In {} at line {} the default constructor should not be explicit:{}">(
+              file.string(), tfl.getLineIndex(), tfl.getLine());
+        }
       }
     }
   });
@@ -386,7 +358,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_destructorShouldNotBeNoExcept) {
   /* C++11 made destructors noexcept by default, unless stated differently */
   std::ranges::for_each(::MY_SRC_FILES, [](const auto& file) {
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
       if (tfl.trim().startsWith('~') and tfl.contains(") noexcept")) {
@@ -399,7 +371,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_destructorShouldNotBeNoExcept) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_simpleGettersShouldBeNoExcept) {
   std::ranges::for_each(::H_HPP_FILES, [](const auto& file) {
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
       if (!isAComment(tfl.trim()) and tfl.contains(" get") and !tfl.contains('.') and
@@ -413,14 +385,14 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_simpleGettersShouldBeNoExcept) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useChevronsForLibraryHeadersOnly) {
   std::ranges::for_each(::MY_SRC_FILES, [](const auto& file) {
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
       if (tfl.trim().startsWith("#include ")) {
-        const auto& hasChevrons {tfl.startsWith("#include <")};
-        const auto& include {extractAbsolutePathIncludeIfPossible(tfl.getLine())};
+        const auto hasChevrons = tfl.startsWith("#include <");
+        const auto include = extractAbsolutePathIncludeIfPossible(tfl.getLine());
 
-        if (const auto& isOneOfMine {phud::algorithms::contains(MY_SRC_FILES, include)};
+        if (const auto isOneOfMine = std::ranges::contains(MY_SRC_FILES, include);
             hasChevrons and isOneOfMine) {
           LOG()
               .warn<"The non library file '{}' is included in file {} with chevrons instead of "
@@ -446,7 +418,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedTwice) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noIncludePathShouldHaveAntiSlashPathSeparator) {
   std::ranges::for_each(::MY_SRC_FILES, [](const auto& file) {
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
       if (!tfl.trim().startsWith("#include ")) {
@@ -469,12 +441,11 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_exceptionsShouldBeThrownByValue) {
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNoDiscardVoid) {
   logIfMySrcFilesContainToken("[[nodiscard]] void ", "void ");
   logIfMySrcFilesContainToken("[[nodiscard]] static void ", "static void ");
-  logIfMySrcFilesContainToken("[[nodiscard]] static void ", "static void ");
   logIfMySrcFilesContainToken("[[nodiscard]] inline void ", "inline void ");
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesAreUsed) {
-  const auto& queryNames {getAllQueryNames("sqlQueries.hpp")};
+  const auto queryNames = getAllQueryNames("sqlQueries.hpp");
   std::ranges::for_each(queryNames, [](std::string_view queryName) {
     if (!sourceFileContains("Database.cpp", queryName)) {
       LOG().warn<"The SQL query {} is not used in Database.cpp">(queryName);
@@ -512,10 +483,10 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useStdSizeT) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNULLInSourceCode) {
   /* NULL can only be used in SQL queries */
-  const auto& MY_SRC_FILES_EXCEPTED_CURRENT_AND_SQL {
+  const auto MY_SRC_FILES_EXCEPTED_CURRENT_AND_SQL =
       phud::algorithms::removeCopyIf<std::vector<fs::path>>(
           ::MY_SRC_FILES_WITH_EXCEPTION,
-          [](const auto& file) { return file.string().ends_with("sqliteQueries.hpp"); })};
+          [](const auto& file) { return file.string().ends_with("sqliteQueries.hpp"); });
   logIfMySrcFilesContainToken(MY_SRC_FILES_EXCEPTED_CURRENT_AND_SQL, "NULL", "nullptr");
 }
 
@@ -524,17 +495,17 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useAndAndOr) {
   logIfMySrcFilesContainToken(" && ", " and ");
 }
 
-// commenté car souci sur Either.hpp
-// BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_constexprImpliesConst) {
-//  logIfMySrcFilesContainToken("constexpr const", "constexpr");
-//}
+
+BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_constexprImpliesConst) {
+  logIfMySrcFilesContainToken("constexpr const", "constexpr");
+}
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_constexprImpliesInline) {
   std::ranges::for_each(::MY_SRC_FILES_WITH_EXCEPTION, [&](const auto& file) {
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
-      if (const auto& line {tfl.trim().getLine()};
+      if (const auto line = tfl.trim().getLine();
           ps::contains(line, "constexpr ") and ps::contains(line, "inline ")) {
         LOG()
             .warn<"The file {} at line {} contains both the tokens 'constexpr' and 'inline', "
@@ -546,14 +517,76 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_constexprImpliesInline) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_StaticInlineIsTheSameAsStatic) {
   std::ranges::for_each(::MY_SRC_FILES_WITH_EXCEPTION, [&](const auto& file) {
-    TextFile tfl {file};
+    auto tfl = TextFile(file);
 
     while (tfl.next()) {
-      if (const auto& line {tfl.trim().getLine()};
+      if (const auto line = tfl.trim().getLine();
           ps::contains(line, "static ") and ps::contains(line, "inline ")) {
         LOG()
             .warn<"The file {} at line {} contains both the tokens 'static' and 'inline', whereas "
                   "inline is useless on static functions.">(file.string(), tfl.getLineIndex());
+      }
+    }
+  });
+}
+
+BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noAutoPointer) {
+  /* auto* est redondant, utiliser auto ou T* directement */
+  logIfMySrcFilesContainToken("auto*", "auto");
+}
+
+BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noStdEndl) {
+  /* std::endl flush le buffer, préférer '\n' pour la performance */
+  logIfMySrcFilesContainToken("std::endl", "'\\n'");
+}
+
+BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noTrailingWhitespace) {
+  /* Les espaces en fin de ligne doivent être évités */
+  std::ranges::for_each(::MY_SRC_FILES_WITH_EXCEPTION, [&](const auto& file) {
+    auto tfl = TextFile(file);
+
+    while (tfl.next()) {
+      const auto line = tfl.getLine();
+      if (!line.empty() and ((' ' == line.back()) or ('\t' == line.back()))) {
+        LOG().warn<"The file {} at line {} contains trailing whitespace.">(file.string(),
+                                                                            tfl.getLineIndex());
+      }
+    }
+  });
+}
+
+BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noUsingNamespaceInGlobalScope) {
+  /* using namespace au niveau global pollue l'espace de noms */
+  std::ranges::for_each(::MY_SRC_FILES_WITH_EXCEPTION, [&](const auto& file) {
+    auto tfl = TextFile(file);
+    bool inNamespaceOrFunction = false;
+    int braceDepth = 0;
+
+    while (tfl.next()) {
+      const auto trimmed = tfl.trim().getLine();
+
+      if (trimmed.empty() or isAComment(tfl)) {
+        continue;
+      }
+
+      // Détecter l'entrée dans un namespace ou une fonction
+      if (trimmed.starts_with("namespace ") or trimmed.contains("(") and trimmed.contains("{")) {
+        inNamespaceOrFunction = true;
+      }
+
+      // Compter les accolades pour suivre la profondeur
+      braceDepth += std::ranges::count(trimmed, '{');
+      braceDepth -= std::ranges::count(trimmed, '}');
+
+      // Réinitialiser si on sort de tous les scopes
+      if (0 == braceDepth) {
+        inNamespaceOrFunction = false;
+      }
+
+      // Détecter using namespace au niveau global (hors namespace/fonction)
+      if (!inNamespaceOrFunction and trimmed.starts_with("using namespace ")) {
+        LOG().warn<"The file {} at line {} contains 'using namespace' at global scope.">(
+            file.string(), tfl.getLineIndex());
       }
     }
   });

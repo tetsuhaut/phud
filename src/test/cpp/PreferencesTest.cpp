@@ -52,11 +52,11 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_historyDirectory) {
 
   // Test avec un répertoire inexistant (retourne empty path)
   prefs.saveHistoryDirectory("/path/that/does/not/exist");
-  const auto& dir {prefs.getPreferredHistoDir()};
+  const auto dir = prefs.getPreferredHistoDir();
   BOOST_CHECK(dir.empty());
 
   // Test du label par défaut
-  const auto& label {prefs.getHistoryDirectoryDisplayLabel()};
+  const auto label = prefs.getHistoryDirectoryDisplayLabel();
   BOOST_CHECK(!label.empty());
 }
 

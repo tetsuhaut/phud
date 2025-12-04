@@ -108,7 +108,7 @@ constexpr auto NB_SEATS_TO_COEFF {
                                                               const phud::Rectangle& tablePos) {
   const auto it = NB_SEATS_TO_COEFF.find(maxSeats);
   assert(NB_SEATS_TO_COEFF.end() != it && "Invalid maxSeats");
-  const auto& [coefX, coefY] {it->second.at(tableSeat::toArrayIndex(seat))};
+  const auto [coefX, coefY] = it->second.at(tableSeat::toArrayIndex(seat));
   return {limits::toInt(tablePos.x + coefX * tablePos.w),
           limits::toInt(tablePos.y + coefY * tablePos.h)};
 }

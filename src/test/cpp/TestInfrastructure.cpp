@@ -63,7 +63,7 @@ template <typename T>
 [[nodiscard]] static fs::path getGenericFileFromTestResources(const auto& file) {
   validation::requireNonEmpty(file, "file or dir");
   validation::require('/' != file.front(), "file or dir can't start with '/'");
-  const auto& ret {(pt::getTestResourcesDir() / file)};
+  const auto ret = (pt::getTestResourcesDir() / file);
 
   if constexpr (std::is_same_v<T, ::IsFile>) {
     if (pf::isFile(ret)) {
@@ -153,7 +153,7 @@ fs::path pt::getTestCppDir() {
 }
 
 static void removeWithMessage(const fs::path& file) {
-  const auto& fileType {pf::isFile(file) ? "file" : "directory"};
+  const auto fileType = pf::isFile(file) ? "file" : "directory";
 
   if (std::error_code ec; !fs::remove_all(file, ec)) {
     if (0 == ec.value()) {

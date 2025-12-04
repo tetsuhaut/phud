@@ -39,7 +39,7 @@ using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
 // use std::filesystem::path as std needs it
 std::string phud::filesystem::readToString(const fs::path& p) {
   validation::require(!phud::filesystem::isDir(p), "given a dir instead of a file");
-  const auto& s {fmt::format("given a non exiting file '{}'", p.string())};
+  const auto s = fmt::format("given a non exiting file '{}'", p.string());
   validation::require(phud::filesystem::isFile(p), s);
   std::ifstream in {p};
   // decltype(std::ifstream::gcount()) is std::streamsize, which is signed.
@@ -82,7 +82,7 @@ std::vector<fs::path> phud::filesystem::listFilesInDir(const fs::path& dir,
   }
 
   for (const auto& dirEntry : fs::directory_iterator(dir)) {
-    if (const auto& entryPath {dirEntry.path()};
+    if (const auto entryPath = dirEntry.path();
         entryPath.filename().string().starts_with("20") // like the year 2022
         and entryPath.string().ends_with(postFix) and dirEntry.is_regular_file()) {
       ret.push_back(entryPath);
@@ -95,7 +95,7 @@ std::vector<fs::path> phud::filesystem::listFilesInDir(const fs::path& dir,
 std::vector<fs::path> phud::filesystem::listTxtFilesInDir(const fs::path& dir) {
   auto allFilesAndDirs = listFilesAndDirs(dir);
   std::erase_if(allFilesAndDirs, [](const auto& p) {
-    const auto& pstr {p.string()};
+    const auto pstr = p.string();
     return !isFile(p) or !pstr.ends_with(".txt") or pstr.ends_with("_summary.txt");
   });
   return allFilesAndDirs;
@@ -123,9 +123,9 @@ std::vector<fs::path> phud::filesystem::listRecursiveFiles(const fs::path& dir) 
 /*[[nodiscard]]*/
 std::string phud::filesystem::toString(const fs::file_time_type& ft) {
   namespace sc = std::chrono;
-  const auto& now {ft - fs::file_time_type::clock::now() + sc::system_clock::now()};
-  const auto& systemClockTimePoint {sc::time_point_cast<sc::system_clock::duration>(now)};
-  const auto& posixTime {sc::system_clock::to_time_t(systemClockTimePoint)};
+  const auto now = ft - fs::file_time_type::clock::now() + sc::system_clock::now();
+  const auto systemClockTimePoint = sc::time_point_cast<sc::system_clock::duration>(now);
+  const auto posixTime = sc::system_clock::to_time_t(systemClockTimePoint);
   std::ostringstream oss;
 #if defined(_MSC_VER) // use localtime_s instead of std::localtime with _MSC_VER
   std::tm calendarDateTime {.tm_sec = 0,
@@ -186,7 +186,7 @@ bool matchPatternParts(std::string_view filename, std::string_view pattern,
   std::size_t filenamePos {0};
 
   for (std::size_t i {0}; i < patternParts.size(); ++i) {
-    const auto& part {patternParts[i]};
+    const auto part = patternParts[i];
 
     if (i == 0) {
       // First part: must match at start (unless pattern starts with *)
@@ -232,7 +232,7 @@ bool matchesPattern(std::string_view filename, std::string_view pattern) {
   validation::requireNonEmpty(filename, "filename");
   validation::requireNonEmpty(pattern, "pattern");
 
-  const auto& patternParts {splitPatternByWildcards(pattern)};
+  const auto patternParts = splitPatternByWildcards(pattern);
 
   // If no wildcards, must match exactly
   if (patternParts.size() == 1 and pattern.find('*') == std::string_view::npos) {
@@ -254,7 +254,7 @@ std::vector<fs::path> phud::filesystem::listFilesMatchingPattern(const fs::path&
 
   for (const auto& dirEntry : fs::directory_iterator(dir)) {
     if (dirEntry.is_regular_file()) {
-      const auto& filename {dirEntry.path().filename().string()};
+      const auto filename = dirEntry.path().filename().string();
       if (!filename.empty()) {
         if (matchesPattern(filename, pattern)) {
           ret.push_back(dirEntry.path());

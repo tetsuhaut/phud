@@ -60,7 +60,7 @@ static void logErrorAndAbort(int signum) {
 
 class [[nodiscard]] ConditionalConsole final {
  private:
-  bool m_hasConsole {false};
+  bool m_hasConsole = false;
 
  public:
   ConditionalConsole()

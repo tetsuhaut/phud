@@ -67,7 +67,7 @@ int main(int argc, const char* const argv[]) {
   if (const auto optionalRet {getOptionalDbAndHistory(std::span(argv, limits::toSizeT(argc)))};
       optionalRet.has_value()) {
     const auto [dbFile, historyDir] {optionalRet.value()};
-    const auto& pSite {PokerSiteHistory::load(historyDir)};
+    const auto pSite = PokerSiteHistory::load(historyDir);
     Database db {dbFile.string()};
     db.save(*pSite);
     return 0;

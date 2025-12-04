@@ -23,7 +23,7 @@ BOOST_AUTO_TEST_CASE(
   BOOST_REQUIRE(nullptr != pSite);
   Database db;
   db.save(*pSite);
-  const auto& table {"Kill The Fish(152800689)#056"};
+  const auto table = "Kill The Fish(152800689)#056";
   /* create the timebomb after the database creation which can be slow */
   const StatsProducer producer {{.reloadPeriod = SG_PERIOD,
                                  .site = ProgramInfos::WINAMAX_SITE_NAME,
@@ -38,7 +38,7 @@ BOOST_AUTO_TEST_CASE(
   producer.stop();
   BOOST_REQUIRE(producer.isStopped());
   BOOST_REQUIRE(Seat::seatSix == stats.getMaxSeat());
-  const auto& ps1 {stats.extractPlayerStatistics(Seat::seatOne)};
+  const auto ps1 = stats.extractPlayerStatistics(Seat::seatOne);
   /* sabre_laser was at the table, but did not play (just arrived) */
   BOOST_REQUIRE("lemonchelo69" == ps1->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == ps1->getSiteName());
@@ -46,14 +46,14 @@ BOOST_AUTO_TEST_CASE(
   BOOST_REQUIRE_MESSAGE(0 == ps1->getVoluntaryPutMoneyInPot(), ps1->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE(0 == ps1->getPreFlopRaise());
   BOOST_REQUIRE(1 == ps1->getNbHands());
-  const auto& ps2 {stats.extractPlayerStatistics(Seat::seatTwo)};
+  const auto ps2 = stats.extractPlayerStatistics(Seat::seatTwo);
   BOOST_REQUIRE("Miraculum" == ps2->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == ps2->getSiteName());
   BOOST_REQUIRE(false == ps2->isHero());
   BOOST_REQUIRE(100 == ps2->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE(100 == ps2->getPreFlopRaise());
   BOOST_REQUIRE(1 == ps2->getNbHands());
-  const auto& ps3 {stats.extractPlayerStatistics(Seat::seatThree)};
+  const auto ps3 = stats.extractPlayerStatistics(Seat::seatThree);
   BOOST_REQUIRE("sabre_laser" == ps3->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == ps3->getSiteName());
   /* can't know yet since never got cards */
@@ -61,21 +61,21 @@ BOOST_AUTO_TEST_CASE(
   BOOST_REQUIRE(0 == ps3->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE(0 == ps3->getPreFlopRaise());
   BOOST_REQUIRE(1 == ps3->getNbHands());
-  const auto& ps4 {stats.extractPlayerStatistics(Seat::seatFour)};
+  const auto ps4 = stats.extractPlayerStatistics(Seat::seatFour);
   BOOST_REQUIRE("anyamfia88" == ps4->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == ps4->getSiteName());
   BOOST_REQUIRE(false == ps4->isHero());
   BOOST_REQUIRE(0 == ps4->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE(0 == ps4->getPreFlopRaise());
   BOOST_REQUIRE(1 == ps4->getNbHands());
-  const auto& ps5 {stats.extractPlayerStatistics(Seat::seatFive)};
+  const auto ps5 = stats.extractPlayerStatistics(Seat::seatFive);
   BOOST_REQUIRE("Duflux" == ps5->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == ps5->getSiteName());
   BOOST_REQUIRE(false == ps5->isHero());
   BOOST_REQUIRE(0 == ps5->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE(0 == ps5->getPreFlopRaise());
   BOOST_REQUIRE(1 == ps5->getNbHands());
-  const auto& ps6 {stats.extractPlayerStatistics(Seat::seatSix)};
+  const auto ps6 = stats.extractPlayerStatistics(Seat::seatSix);
   BOOST_REQUIRE("aline1803" == ps6->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == ps6->getSiteName());
   BOOST_REQUIRE(false == ps6->isHero());

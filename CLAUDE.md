@@ -26,12 +26,16 @@ The following environment variables must be set before building:
 
 **For GCC/Ninja (recommended):**
 ```batch
-build-gcc.bat
+scripts\generate-phud-gcc.bat
 ```
 
 **For Visual Studio 2022:**
 ```batch
-build-vs2022.bat
+scripts\generate-phud-vs2022.bat
+```
+**For MSVC:**
+```batch
+scripts\generate-phud-msvc.bat
 ```
 
 **Generated helper scripts (in build directory):**

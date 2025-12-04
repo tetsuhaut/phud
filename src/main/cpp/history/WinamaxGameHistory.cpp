@@ -134,10 +134,10 @@ template <typename GAME_TYPE>
 [[nodiscard]] static std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile,
                                                            PlayerCache& cache) {
   LOG().debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
-  const auto& fileStem {ps::sanitize(gameHistoryFile.stem().string())};
+  const auto fileStem = ps::sanitize(gameHistoryFile.stem().string());
   std::unique_ptr<GAME_TYPE> ret;
 
-  if (const auto& oGameDataFromFileName {parseFileStem(fileStem)};
+  if (const auto oGameDataFromFileName = parseFileStem(fileStem);
       oGameDataFromFileName.has_value()) {
     TextFile tfl {gameHistoryFile};
 

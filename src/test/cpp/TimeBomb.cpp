@@ -11,7 +11,7 @@ TimeBomb::~TimeBomb() = default;
 struct [[nodiscard]] TimeBombImpl final : TimeBomb {
   PeriodicTask m_task;
   std::string m_testName;
-  std::atomic_bool m_isDefused {false};
+  std::atomic_bool m_isDefused = false;
 
   TimeBombImpl(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
     : m_task {countDownToExplosion, "TimeBomb"},

@@ -43,12 +43,12 @@ BOOST_AUTO_TEST_SUITE(HandTest)
 BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   const auto& file {pt::getFileFromTestResources(
       "Winamax/hands/20150718_holdemTournament(123703551)_real_holdem_no-limit.txt")};
-  const auto& pSite {WinamaxGameHistory::parseGameHistory(file)};
+  const auto pSite = WinamaxGameHistory::parseGameHistory(file);
   BOOST_REQUIRE(nullptr != pSite);
   BOOST_REQUIRE(pSite->viewCashGames().empty());
-  const auto& tournaments {pSite->viewTournaments()};
+  const auto tournaments = pSite->viewTournaments();
   BOOST_REQUIRE(1 == tournaments.size());
-  const auto& t {tournaments.front()};
+  const auto t = tournaments.front();
   BOOST_REQUIRE(1 == t->viewHands().size());
   const auto pHand {t->viewHands().front()};
   BOOST_REQUIRE(5 == pHand->viewActions().size());
@@ -68,12 +68,12 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
 BOOST_AUTO_TEST_CASE(HandTest_loadingDoubleOrNothingWithOnlyFoldsShouldSucceed) {
   const auto& file {pt::getFileFromTestResources(
       "Winamax/hands/20141031_Double or Nothing(98932321)_real_holdem_no-limit.txt")};
-  const auto& pSite {WinamaxGameHistory::parseGameHistory(file)};
+  const auto pSite = WinamaxGameHistory::parseGameHistory(file);
   BOOST_REQUIRE(nullptr != pSite);
   BOOST_REQUIRE(pSite->viewCashGames().empty());
-  const auto& tournaments {pSite->viewTournaments()};
+  const auto tournaments = pSite->viewTournaments();
   BOOST_REQUIRE(1 == tournaments.size());
-  const auto& t {tournaments.front()};
+  const auto t = tournaments.front();
   BOOST_REQUIRE("Double or Nothing(98932321)" == t->getName());
   BOOST_REQUIRE(t->isRealMoney());
   BOOST_REQUIRE_MESSAGE(Time({.strTime = "2014/10/31 00:45:01",
@@ -87,7 +87,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingDoubleOrNothingWithOnlyFoldsShouldSucceed) 
   BOOST_REQUIRE(Seat::seatTen == t->getMaxNbSeats());
   BOOST_REQUIRE_EQUAL(2.0, t->getBuyIn());
   BOOST_REQUIRE(1 == t->viewHands().size());
-  const auto& h {*t->viewHands().front()};
+  const auto& h = *t->viewHands().front();
   BOOST_REQUIRE(10 == h.viewActions().size());
   BOOST_REQUIRE("424911083212374017-1-1414716301" == h.getId());
   BOOST_REQUIRE(GameType::tournament == h.getGameType());
@@ -143,7 +143,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingDoubleOrNothingWithOnlyFoldsShouldSucceed) 
 }
 
 BOOST_AUTO_TEST_CASE(HandTest_parsingDoubleOrNothingTournamentFileNameShouldSuceed) {
-  const auto& oTuple {parseFileStem("20141116_Double or Nothing(100679030)_real_holdem_no-limit")};
+  const auto oTuple = parseFileStem("20141116_Double or Nothing(100679030)_real_holdem_no-limit");
   BOOST_REQUIRE(oTuple.has_value());
   const auto [isRealMoney, gameName, variant, limit] {oTuple.value()};
   BOOST_REQUIRE("Double or Nothing(100679030)" == gameName);
@@ -225,7 +225,7 @@ BOOST_AUTO_TEST_CASE(HandTest_buildCashGameHandShouldSucceed) {
   TextFile line {file.path()};
   line.next();
   PlayerCache _ {ProgramInfos::WINAMAX_SITE_NAME};
-  const auto& hand {WinamaxHandBuilder::buildHand<Tournament>(line, _)};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, _);
   BOOST_REQUIRE(160 == hand->getAnte());
   BOOST_REQUIRE(Card::jackDiamond == hand->getBoardCard1());
   BOOST_REQUIRE(Card::tenClub == hand->getBoardCard2());
@@ -239,10 +239,10 @@ BOOST_AUTO_TEST_CASE(HandTest_buildTournamentHandOneRaiseBbIsAllInShouldSucceed)
       "Winamax/hands/20141119_Freeroll(99427750)_real_holdem_no-limit.txt"));
   line.next();
   PlayerCache _ {ProgramInfos::WINAMAX_SITE_NAME};
-  const auto& hand {WinamaxHandBuilder::buildHand<Tournament>(line, _)};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, _);
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == hand->getSiteName());
   BOOST_REQUIRE("2014-11-19 21:06:52" == hand->getStartDate().toSqliteDate());
-  const auto& playerNames {hand->getSeats()};
+  const auto playerNames = hand->getSeats();
   BOOST_REQUIRE(playerNames[0] == "kiki28700");
   BOOST_REQUIRE(playerNames[1] == "GuiGui.39");
   BOOST_REQUIRE(playerNames[2] == "sabre_laser");
@@ -275,7 +275,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingDoubleOrNothingWith2CallersShouldSucceed) {
       "Winamax/hands/20150115_Double or Nothing(106820182)_real_holdem_no-limit.txt"));
   line.next();
   PlayerCache _ {ProgramInfos::WINAMAX_SITE_NAME};
-  const auto& hand {WinamaxHandBuilder::buildHand<CashGame>(line, _)};
+  const auto hand = WinamaxHandBuilder::buildHand<CashGame>(line, _);
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == hand->getSiteName());
 }
 

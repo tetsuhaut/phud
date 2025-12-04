@@ -11,17 +11,17 @@ BOOST_AUTO_TEST_SUITE(PmuGameHistoryTest)
 
 BOOST_AUTO_TEST_CASE(PmuGameHistoryTest_loadingCashgameShouldSucceed) {
   // pas encore implémenté
-  // const auto& file { pt::getFileFromTestResources("Pmu/sabre_laser/20210914/Reims.txt") };
-  // const auto& pSite { PmuGameHistory::parseGameHistory(file) };
+  // const auto file =  pt::getFileFromTestResources("Pmu/sabre_laser/20210914/Reims.txt") ;
+  // const auto pSite =  PmuGameHistory::parseGameHistory(file) ;
   // BOOST_REQUIRE(nullptr != pSite);
   // BOOST_REQUIRE(pSite->viewTournaments().empty());
   // BOOST_REQUIRE(!pSite->viewCashGames().empty());
-  // const auto& cashgames { pSite->viewCashGames() };
+  // const auto cashgames =  pSite->viewCashGames() ;
   // BOOST_REQUIRE(1 == cashgames.size());
-  // const auto& cg { *cashgames[0] };
+  // const auto cg =  *cashgames[0] ;
   // BOOST_REQUIRE("Reims" == cg.getName());
   // BOOST_REQUIRE(true == cg.isRealMoney());
-  // const auto& sd { cg.getStartDate() };
+  // const auto sd =  cg.getStartDate() ;
   // BOOST_REQUIRE("2021-09-14 18:34:28" == sd.toSqliteDate());
   // BOOST_REQUIRE("Pmu" == cg.getSiteName());
   // BOOST_REQUIRE("Reims" == cg.getId());

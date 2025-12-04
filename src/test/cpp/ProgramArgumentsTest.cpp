@@ -46,9 +46,9 @@ BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_badParamShouldDisplayErrorMessage) {
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_correctParamShouldSucceed) {
   const pt::TmpDir dir {"thisDirExists!!!"};
-  const auto& str {dir.string()};
+  const auto str = dir.string();
   const char* argv[] {"thisProgram.exe", "-d", str.c_str()};
-  const auto& [oWinamaxDir, oLoggingLevel] {parseProgramArguments(argv)};
+  const auto [oWinamaxDir, oLoggingLevel] = parseProgramArguments(argv);
   BOOST_REQUIRE(dir.path() == oWinamaxDir.value());
   BOOST_REQUIRE(false == oLoggingLevel.has_value());
 }

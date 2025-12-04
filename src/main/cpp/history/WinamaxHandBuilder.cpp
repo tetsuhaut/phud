@@ -78,7 +78,7 @@ struct [[nodiscard]] BuyInLevelDateHandId final {
 
 [[nodiscard]] static BuyInLevelDateHandId
 getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
-  const auto& [handIdPos, handStartDate, handId] {parseStartOfWinamaxPokerLine(line)};
+  const auto [handIdPos, handStartDate, handId] = parseStartOfWinamaxPokerLine(line);
   // "^Winamax Poker - .* buyIn: (.*) level: (.*) - HandId: #(.*) - .* - (.*) UTC$"
   const auto buyInPos = line.find(" buyIn: ") + BUY_IN_LENGTH;
   const auto levelPos = line.find(" level: ") + LEVEL_LENGTH;
@@ -95,7 +95,7 @@ struct [[nodiscard]] LevelDateHandId final {
 
 [[nodiscard]] static LevelDateHandId
 getLevelDateHandIdFromTournamentWinamaxPokerLine(std::string_view line) {
-  const auto& [handIdPos, handStartDate, handId] {parseStartOfWinamaxPokerLine(line)};
+  const auto [handIdPos, handStartDate, handId] = parseStartOfWinamaxPokerLine(line);
   // "^Winamax Poker - .* buyIn: (.*) level: (.*) - HandId: #(.*) - .* - (.*) UTC$"
   const auto levelPos = line.find(" level: ") + LEVEL_LENGTH;
   const auto level = ps::toInt(line.substr(levelPos, handIdPos - HAND_ID_LENGTH - levelPos));
@@ -111,7 +111,7 @@ struct [[nodiscard]] SmallBlindBigBlindDateHandId final {
 
 [[nodiscard]] static SmallBlindBigBlindDateHandId
 getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(std::string_view line) {
-  const auto& [_, handStartDate, handId] {parseStartOfWinamaxPokerLine(line)};
+  const auto [_, handStartDate, handId] = parseStartOfWinamaxPokerLine(line);
   // "^Winamax Poker - .* - HandId: #(.*) - .* \\((.*)/(.*)\\) - (.*) UTC$"
   const auto smallBlindPos = line.find('(') + 1;
   const auto bigBlindPos = line.find('/') + 1;
@@ -379,7 +379,7 @@ template <GameType gameType>
 
 std::unique_ptr<Hand> WinamaxHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
   LOG().debug<"Building Cashgame from history file {}.">(tf.getFileStem());
-  const auto& [_, date, handId] {parseStartOfWinamaxPokerLine(tf.getLine())};
+  const auto [_, date, handId] = parseStartOfWinamaxPokerLine(tf.getLine());
   return getHand<GameType::cashGame>(tf, pc, 0, date, handId); // for cashGame, level is zero
 }
 
