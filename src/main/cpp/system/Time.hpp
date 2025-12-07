@@ -9,10 +9,10 @@ using ::tm; // NOLINT(*-dcl58-cpp)
 }
 
 class [[nodiscard]] Time final { /* copyable */
- private:
+private:
   std::unique_ptr<std::tm> m_pTimeData;
 
- public:
+public:
   struct [[nodiscard]] Args final {
     std::string_view strTime;
     std::string_view format;
@@ -28,7 +28,7 @@ class [[nodiscard]] Time final { /* copyable */
 }; // class Time
 
 class [[nodiscard]] TimeException final : public PhudException {
- public:
+public:
   using PhudException::PhudException;
 };
 

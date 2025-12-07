@@ -10,11 +10,11 @@ template <typename T>
 class ThreadSafeQueue;
 
 class [[nodiscard]] StatsProducer final {
- private:
+private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
- public:
+public:
   struct [[nodiscard]] StatsProducerArgs final {
     std::chrono::milliseconds reloadPeriod;
     std::string_view site;

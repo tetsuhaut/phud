@@ -9,7 +9,7 @@
  */
 template <typename RESULT>
 class [[nodiscard]] ErrOrRes final {
- private:
+private:
   std::optional<std::string> m_err;
   std::optional<RESULT> m_res;
   /**
@@ -26,7 +26,7 @@ class [[nodiscard]] ErrOrRes final {
     : m_err {s},
       m_res {} {}
 
- public:
+public:
   template <StringLiteral ERR_MSG>
   [[nodiscard]] static constexpr ErrOrRes err() {
     return ErrOrRes(std::in_place, ERR_MSG.value);

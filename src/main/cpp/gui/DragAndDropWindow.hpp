@@ -22,12 +22,12 @@
  * A drag and drop window.
  */
 class [[nodiscard]] DragAndDropWindow : public Fl_Double_Window {
- private:
+private:
   int m_offsetX = 0;
   int m_offsetY = 0;
   std::function<void(int, int)> m_cb;
 
- public:
+public:
   DragAndDropWindow(const phud::Rectangle& r, std::string_view label,
                     std::function<void(int, int)> cb = nullptr)
     : Fl_Double_Window(r.x, r.y, r.w, r.h, label.data()),
@@ -38,7 +38,7 @@ class [[nodiscard]] DragAndDropWindow : public Fl_Double_Window {
   DragAndDropWindow& operator=(DragAndDropWindow&&) = delete;
   ~DragAndDropWindow() override = default; // to be able to use std::unique_ptr<DragAndDropWindow>
 
- protected:
+protected:
   /**
    * The user clicked on the DragAndDropWindow widget.
    * @returns 0 if the event was not used or understood

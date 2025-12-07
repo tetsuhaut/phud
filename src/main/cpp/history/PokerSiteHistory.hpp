@@ -12,8 +12,8 @@ class Site;
  * @brief The hand history of all the games played on one poker site.
  */
 class [[nodiscard]] PokerSiteHistory {
- private:
- public:
+private:
+public:
   [[nodiscard]] static std::unique_ptr<PokerSiteHistory>
   newInstance(const std::filesystem::path& historyDir);
   static std::unique_ptr<PokerSiteHistory> newInstance(auto) = delete;

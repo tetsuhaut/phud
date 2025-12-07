@@ -12,7 +12,7 @@
 
 // must be copiable to be used in another thread
 class [[nodiscard]] PlayerStatistics final {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   // strings first (typically 32 bytes with SSO on MSVC x64)
   std::string m_playerName;
@@ -58,7 +58,7 @@ class [[nodiscard]] PlayerStatistics final {
   // bool last (1 byte, alignment 1) - minimizes total padding
   bool m_isHero;
 
- public:
+public:
   struct [[nodiscard]] Params final {
     std::string_view playerName;
     std::string_view siteName;

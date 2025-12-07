@@ -15,13 +15,13 @@ class Tournament;
  * statistics on encountered players behavior.
  */
 class [[nodiscard]] Site final {
- private:
+private:
   std::string m_name;
   std::unordered_map<std::string, std::unique_ptr<Player>> m_players {};
   std::vector<std::unique_ptr<CashGame>> m_cashGames {};
   std::vector<std::unique_ptr<Tournament>> m_tournaments {};
 
- public:
+public:
   explicit Site(std::string_view name);
   Site(const Site&) = delete;
   Site(Site&&) = delete;

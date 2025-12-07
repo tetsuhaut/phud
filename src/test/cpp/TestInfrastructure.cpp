@@ -30,7 +30,7 @@ namespace pt = phud::test;
 // }
 
 class [[nodiscard]] GlobalFixture final {
- public:
+public:
   GlobalFixture() {
     boost::debug::detect_memory_leaks(false);
     LoggingConfig _ {"[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v"};

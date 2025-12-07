@@ -12,11 +12,11 @@ enum class /*[[nodiscard]]*/ PeriodicTaskStatus : short { repeatTask, stopTask }
 }
 
 class [[nodiscard]] PeriodicTask final {
- private:
+private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
- public:
+public:
   explicit PeriodicTask(std::chrono::milliseconds period, std::string_view taskName = "");
   PeriodicTask(const PeriodicTask&) = delete;
   PeriodicTask(PeriodicTask&&) = delete;

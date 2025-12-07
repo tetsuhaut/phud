@@ -12,7 +12,7 @@ enum class GameType : short;
 enum class Seat : short;
 
 class [[nodiscard]] Hand final {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::array<std::string, TableConstants::MAX_SEATS> m_seats;
   std::array<std::string, TableConstants::MAX_SEATS> m_winners;
@@ -29,7 +29,7 @@ class [[nodiscard]] Hand final {
   Seat m_buttonSeat;
   Seat m_maxSeats;
 
- public:
+public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     GameType gameType;

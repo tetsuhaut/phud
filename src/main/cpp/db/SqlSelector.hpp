@@ -4,10 +4,10 @@
 #include "strings/StringUtils.hpp" // std::string_view
 
 class [[nodiscard]] SqlSelector final {
- private:
+private:
   std::string m_query;
 
- public:
+public:
   explicit SqlSelector(std::string_view sqlTemplate)
     : m_query {sqlTemplate} {
     validation::require(phud::strings::contains(sqlTemplate, '?'),

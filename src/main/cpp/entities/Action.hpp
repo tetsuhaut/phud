@@ -17,7 +17,7 @@ enum class /*[[nodiscard]]*/ Street : short { none, preflop, flop, turn, river }
  * The elementary move of a player.
  */
 class [[nodiscard]] Action final {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::string m_handId;
   std::string m_playerName;
@@ -25,7 +25,7 @@ class [[nodiscard]] Action final {
   double m_betAmount;  // 8 bytes
   Street m_street;     // 2 bytes (short)
   ActionType m_type;   // 2 bytes (short)
- public:
+public:
   struct [[nodiscard]] Params final {
     std::string_view handId;
     std::string_view playerName;

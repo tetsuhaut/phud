@@ -34,7 +34,7 @@
 #endif // __MINGW32__
 
 class [[nodiscard]] PhudException : public std::runtime_error {
- public:
+public:
   explicit PhudException(std::string_view msg, const boost::stacktrace::stacktrace& stacktrace =
                                                    boost::stacktrace::stacktrace());
   PhudException(const PhudException&) = default;

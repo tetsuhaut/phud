@@ -7,11 +7,11 @@
 class Site;
 
 class [[nodiscard]] WinamaxHistory final : public PokerSiteHistory {
- private:
+private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
- public:
+public:
   WinamaxHistory() noexcept;
   WinamaxHistory(const WinamaxHistory&) = delete;
   WinamaxHistory(WinamaxHistory&&) = delete;

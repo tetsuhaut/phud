@@ -10,11 +10,11 @@
  * @brief The application preferences
  */
 class [[nodiscard]] Preferences final {
- private:
+private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
- public:
+public:
   explicit Preferences(bool isInMemory = false);
   Preferences(const Preferences&) = delete;
   Preferences(Preferences&&) = delete;

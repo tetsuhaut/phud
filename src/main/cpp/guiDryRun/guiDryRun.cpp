@@ -26,12 +26,12 @@ struct [[nodiscard]] MyLoggingConfig final {
 } // anonymous namespace
 
 class [[nodiscard]] NoOpTableService final : public TableService {
- private:
+private:
   ThreadSafeQueue<TableStatistics> m_stats {};
   PeriodicTaskStatus m_continue {PeriodicTaskStatus::stopTask};
   PeriodicTask m_task {std::chrono::milliseconds(500), CURRENT_FILE_NAME};
 
- public:
+public:
   explicit NoOpTableService(Database& db)
     : TableService(db) {}
 
@@ -105,7 +105,7 @@ class [[nodiscard]] NoOpTableService final : public TableService {
 }; // class NoOpTableService
 
 class [[nodiscard]] NoOpHistoryService final : public HistoryService {
- public:
+public:
   explicit NoOpHistoryService(Database& db)
     : HistoryService(db) {}
   // HistoryService interface

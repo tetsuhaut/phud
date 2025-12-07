@@ -16,7 +16,7 @@
 #endif
 
 class [[nodiscard]] Logger final {
- private:
+private:
   std::string_view m_name;
   static void traceStr(std::string_view msg);
   static void debugStr(std::string_view msg);
@@ -25,7 +25,7 @@ class [[nodiscard]] Logger final {
   static void errorStr(std::string_view msg);
   static void criticalStr(std::string_view msg);
 
- public:
+public:
   explicit Logger(std::string_view name)
     : m_name {name} {}
 

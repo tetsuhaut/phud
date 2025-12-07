@@ -29,7 +29,7 @@ static Logger& LOG() {
  * Monitors a specific file and triggers callback on modifications.
  */
 class [[nodiscard]] EfswFileWatcher final : public efsw::FileWatchListener {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   efsw::FileWatcher m_watcher;
   std::function<void(const fs::path&)> m_callback;
@@ -56,7 +56,7 @@ class [[nodiscard]] EfswFileWatcher final : public efsw::FileWatchListener {
     }
   }
 
- public:
+public:
   explicit EfswFileWatcher(const fs::path& file)
     : m_file {file},
       m_filename {file.filename().string()},

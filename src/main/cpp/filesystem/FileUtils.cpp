@@ -19,10 +19,10 @@ namespace pf = phud::filesystem;
 namespace {
 template <typename Iterator>
 class [[nodiscard]] FilesInDir final {
- private:
+private:
   fs::path m_startDir {};
 
- public:
+public:
   explicit FilesInDir(fs::path startDir)
     : m_startDir {std::move(startDir)} {}
   explicit FilesInDir(auto) = delete; // use only std::filesystem::path

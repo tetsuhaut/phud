@@ -63,7 +63,7 @@ namespace pf = phud::filesystem;
  * An Fl_Double_Window with disabled 'close on Esc key' behavior
  */
 class [[nodiscard]] MyMainWindow final : public Fl_Double_Window {
- public:
+public:
   using Fl_Double_Window::Fl_Double_Window;
   MyMainWindow(const MyMainWindow&) = delete;
   MyMainWindow(MyMainWindow&&) = delete;

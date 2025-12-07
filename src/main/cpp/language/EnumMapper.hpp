@@ -8,11 +8,11 @@
 
 template <typename EnumType, std::size_t N>
 class EnumMapper {
- private:
+private:
   using EnumToString = std::pair<EnumType, std::string_view>;
   std::array<EnumToString, N> m_enumToStringList;
 
- public:
+public:
   explicit constexpr EnumMapper(std::array<EnumToString, N> pairs)
     : m_enumToStringList(std::move(pairs)) {}
 

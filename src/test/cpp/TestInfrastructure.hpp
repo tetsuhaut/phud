@@ -42,10 +42,10 @@ namespace phud::test {
  * If no name given, a random one is chosen.
  */
 class [[nodiscard]] TmpFile final {
- private:
+private:
   std::string m_file;
 
- public:
+public:
   /**
    * Creates a file that that disappears at the end of the scope. This file will be created in the
    * user's current temp dir.
@@ -71,10 +71,10 @@ class [[nodiscard]] TmpFile final {
  * If already exist, will be deleted then re-created.
  */
 class [[nodiscard]] TmpDir final {
- private:
+private:
   std::filesystem::path m_dir;
 
- public:
+public:
   explicit TmpDir(std::string_view dirName);
   ~TmpDir();
   [[nodiscard]] std::string operator/(std::string_view file) const;
@@ -83,10 +83,10 @@ class [[nodiscard]] TmpDir final {
 }; // class TmpDir
 
 class [[nodiscard]] LogDisabler final {
- private:
+private:
   LoggingLevel m_beforeDisabling;
 
- public:
+public:
   LogDisabler();
   ~LogDisabler();
 }; // class LogDisabler

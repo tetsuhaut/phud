@@ -19,6 +19,6 @@ struct Configuration {
 
 
 class [[nodiscard]] ProgramConfigurationException final : public PhudException {
- public:
+public:
   using PhudException::PhudException;
 };

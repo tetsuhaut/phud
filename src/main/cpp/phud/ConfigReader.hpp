@@ -27,6 +27,6 @@ struct Config {
 } // namespace ConfigReader
 
 class [[nodiscard]] ConfigReaderException final : public PhudException {
- public:
+public:
   using PhudException::PhudException;
 };

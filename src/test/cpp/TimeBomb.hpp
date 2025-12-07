@@ -8,7 +8,7 @@
  * This class produces objects that will kill the program after a period of time.
  */
 class [[nodiscard]] TimeBomb /*final*/ {
- public:
+public:
   static std::unique_ptr<TimeBomb> create(std::chrono::milliseconds countDownToExplosion,
                                           std::string_view testName);
   virtual ~TimeBomb();

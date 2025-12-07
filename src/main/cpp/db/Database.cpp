@@ -192,12 +192,12 @@ struct [[nodiscard]] Database::Implementation final {
 }; // struct  Database::Implementation
 
 class [[nodiscard]] Transaction final {
- private:
+private:
   std::mutex m_mutex {};
   gsl::not_null<sqlite3*> m_db;
   bool m_didCommit = false;
 
- public:
+public:
   explicit Transaction(gsl::not_null<sqlite3*> a_db)
     : m_db {a_db} {
     const std::lock_guard<std::mutex> lock {m_mutex};
@@ -390,12 +390,12 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
 enum class /*[[nodiscard]]*/ QueryResult : short { NO_MORE_ROWS, ONE_ROW_OR_MORE };
 
 class [[nodiscard]] PreparedStatement final {
- private:
+private:
   sqlite3_stmt* m_pStatement {nullptr};
   gsl::not_null<sqlite3*> m_pDatabase;
   std::string m_sql;
 
- public:
+public:
   PreparedStatement(const gsl::not_null<sqlite3*> pDatabase, std::string_view sql)
     : m_pDatabase {pDatabase},
       m_sql {sql} {

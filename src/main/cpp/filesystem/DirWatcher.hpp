@@ -6,7 +6,7 @@
 #include <memory>     // std::unique_ptr
 
 class [[nodiscard]] DirWatcher /*final*/ {
- public:
+public:
   /**
    * @param dir The directory to watch for file changes
    * @return A unique pointer to the DirWatcher instance

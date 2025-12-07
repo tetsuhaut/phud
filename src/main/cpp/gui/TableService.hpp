@@ -17,11 +17,11 @@ struct TableStatistics;
  * This is a concrete sealed class - not polymorphic.
  */
 class [[nodiscard]] TableService /*final*/ {
- private:
+private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
- public:
+public:
   using TableObserverCallback = std::function<void(TableStatistics&&)>;
 
   explicit TableService(Database& database);

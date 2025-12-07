@@ -59,10 +59,10 @@ static void logErrorAndAbort(int signum) {
 #if defined(_WIN32)
 
 class [[nodiscard]] ConditionalConsole final {
- private:
+private:
   bool m_hasConsole = false;
 
- public:
+public:
   ConditionalConsole()
     : m_hasConsole {TRUE == AttachConsole(ATTACH_PARENT_PROCESS)} {
     // if the app was launched in a console, do not create a new one

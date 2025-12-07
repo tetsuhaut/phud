@@ -15,7 +15,7 @@ static Logger& LOG() {
 }
 
 struct [[nodiscard]] DirWatcherImpl final : DirWatcher, efsw::FileWatchListener {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   efsw::FileWatcher m_watcher;
   std::function<void(const fs::path&)> m_callback;
@@ -48,7 +48,7 @@ struct [[nodiscard]] DirWatcherImpl final : DirWatcher, efsw::FileWatchListener 
     }
   }
 
- public:
+public:
   explicit DirWatcherImpl(const fs::path& dir)
     : m_dir {dir},
       m_watchId {-1} {
@@ -62,7 +62,7 @@ struct [[nodiscard]] DirWatcherImpl final : DirWatcher, efsw::FileWatchListener 
   DirWatcherImpl& operator=(DirWatcherImpl&&) = delete;
 
 
- public:
+public:
   void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
     std::lock_guard<std::mutex> lock {m_callbackMutex};
     m_callback = fileHasChangedCb;

@@ -17,11 +17,11 @@ struct TableStatistics;
  * The database where each entity is persisted.
  */
 class [[nodiscard]] Database final {
- private:
+private:
   struct Implementation;
   std::unique_ptr<Implementation> m_pImpl;
 
- public:
+public:
   /**
    * Creates a data access layer object, in memory: no file is created.
    * The database will be deleted when the created object is destroyed.
@@ -65,6 +65,6 @@ class [[nodiscard]] Database final {
 }; // class Database
 
 class [[nodiscard]] DatabaseException final : public PhudException {
- public:
+public:
   using PhudException::PhudException;
 };

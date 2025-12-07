@@ -4,7 +4,7 @@
 
 namespace {
 class [[nodiscard]] Owner final {
- public:
+public:
   std::vector<std::unique_ptr<int>> v {};
 
   boost::iterator_range<std::vector<std::unique_ptr<int>>::const_iterator> getIntView() {

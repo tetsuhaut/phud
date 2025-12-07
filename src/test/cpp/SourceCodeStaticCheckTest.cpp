@@ -40,7 +40,7 @@ void append(CONTAINER_TARGET& target, const CONTAINER_SOURCE& source) {
 
 template <typename CONTAINER, typename... Args>
 /*[[nodiscard]]*/ CONTAINER merge(const CONTAINER& c, Args&&... otherContainers) {
-  CONTAINER ret {c};
+  CONTAINER ret = c;
   const auto& allOtherContainers = {std::forward<Args>(otherContainers)...};
   std::ranges::for_each(allOtherContainers, [&ret](const auto& other) {
     ret.insert(std::end(ret), std::begin(other), std::end(other));
@@ -83,8 +83,8 @@ auto SRC_FILES {[]() {
                           (std::end(line) != std::find(line.begin(), line.end(), '<') and
                            std::end(line) != std::find(line.begin(), line.end(), '>')),
                       "bad line");
-  const auto& startPos {line.find_first_of("\"<") + 1};
-  const auto& endPos {line.find_first_of("\">", startPos) - 1};
+  const auto startPos = line.find_first_of("\"<") + 1;
+  const auto endPos = line.find_first_of("\">", startPos) - 1;
   return line.substr(startPos, 1 + endPos - startPos);
 }
 
@@ -93,11 +93,11 @@ auto SRC_FILES {[]() {
  * found, or an std::filesystem::path formed from the the given file name.
  */
 [[nodiscard]] fs::path extractAbsolutePathIncludeIfPossible(std::string_view line) {
-  const auto& file {extractInclude(line)};
+  const auto file = extractInclude(line);
   using namespace phud;
   using namespace pf;
-  const auto& f {std::ranges::find_if(
-      SRC_DIRS, [&file](const auto& dir) { return std::ranges::contains(SRC_FILES, dir / file); })};
+  const auto& f = std::ranges::find_if(
+      SRC_DIRS, [&file](const auto& dir) { return std::ranges::contains(SRC_FILES, dir / file); });
   return (SRC_DIRS.end() == f) ? file : fs::canonical(*f / file);
 }
 
@@ -121,11 +121,11 @@ auto SRC_FILES {[]() {
   return ret;
 }
 
-const auto& CPP_FILES {getSrcFiles(SRC_FILES, ".cpp")};
-const auto& HPP_FILES {getSrcFiles(SRC_FILES, ".hpp")};
-const auto& H_FILES {getSrcFiles(SRC_FILES, ".h")};
-auto MY_SRC_FILES {getMySrcFiles(SRC_FILES)};
-const auto& H_HPP_FILES {getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES))};
+const auto CPP_FILES = getSrcFiles(SRC_FILES, ".cpp");
+const auto HPP_FILES = getSrcFiles(SRC_FILES, ".hpp");
+const auto H_FILES = getSrcFiles(SRC_FILES, ".h");
+auto MY_SRC_FILES = getMySrcFiles(SRC_FILES);
+const auto H_HPP_FILES = getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES));
 
 /**
  * Les fichiers cpp sauf SourceCodeStaticCheckTest.cpp.
@@ -156,7 +156,7 @@ const auto& FILE_INCLUSIONS = []() {
 }();
 
 class [[nodiscard]] BeforeClass final {
- public:
+public:
   BeforeClass() {
     BOOST_REQUIRE(pt::isSet(CPP_FILES));
     BOOST_REQUIRE(pt::isSet(HPP_FILES));

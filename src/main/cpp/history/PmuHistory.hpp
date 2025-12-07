@@ -7,7 +7,7 @@
 class Site;
 
 class [[nodiscard]] PmuHistory final : public PokerSiteHistory {
- public:
+public:
   ~PmuHistory() override;
 
   /**

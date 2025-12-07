@@ -9,7 +9,7 @@
 // std::condition_variable does not take std::lock_guard<std::mutex>.
 template <typename T>
 class [[nodiscard]] ThreadSafeQueue final {
- private:
+private:
   struct [[nodiscard]] Node final {
     std::shared_ptr<T> data {};
     std::unique_ptr<Node> next {};
@@ -27,7 +27,7 @@ class [[nodiscard]] ThreadSafeQueue final {
     return pOldHead;
   }
 
- public:
+public:
   ThreadSafeQueue()
     : m_pHead {std::make_unique<Node>()},
       m_pTail {m_pHead.get()} {}

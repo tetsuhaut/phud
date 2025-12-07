@@ -22,7 +22,7 @@ enum class /*[[nodiscard]]*/ Limit : short { none, noLimit, potLimit };
  * A game.
  */
 class [[nodiscard]] Game final {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::string m_id;
   std::string m_site;
@@ -34,7 +34,7 @@ class [[nodiscard]] Game final {
   Seat m_nbMaxSeats;
   bool m_isRealMoney;
 
- public:
+public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     std::string_view siteName;
@@ -67,12 +67,12 @@ class [[nodiscard]] Game final {
 }; // class Game
 
 class [[nodiscard]] Tournament final {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::unique_ptr<Game> m_game;
   double m_buyIn;
 
- public:
+public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     std::string_view siteName;
@@ -110,13 +110,13 @@ class [[nodiscard]] Tournament final {
 }; // class Tournament
 
 class [[nodiscard]] CashGame final {
- private:
+private:
   // Memory layout optimized: largest to smallest to minimize padding
   std::unique_ptr<Game> m_game;
   double m_smallBlind;
   double m_bigBlind;
 
- public:
+public:
   struct [[nodiscard]] Params final {
     std::string_view id;
     std::string_view siteName;
