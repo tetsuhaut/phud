@@ -18,6 +18,7 @@ IndentPPDirectives: AfterHash
 NamespaceIndentation: None
 AccessModifierOffset: -2
 IndentAccessModifiers: false
+InsertNewlineAtEOF: true
 
 # Longueur de ligne
 ColumnLimit: 100
