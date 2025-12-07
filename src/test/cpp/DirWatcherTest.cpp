@@ -33,10 +33,6 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
 
   // Add a small delay between modifications to ensure they are processed
   tmpFile.print("yip");
-  std::this_thread::sleep_for(std::chrono::milliseconds(100));
-  tmpFile.print("yip");
-  std::this_thread::sleep_for(std::chrono::milliseconds(100));
-  tmpFile.print("yip");
 
   // wait until cv is notified, fails after 2 seconds
   {

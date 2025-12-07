@@ -9,15 +9,32 @@
 
 namespace pt = phud::test;
 
+/**
+ * Shared fixture for simpleTHisto test data.
+ * Loads once and reuses across tests for better performance.
+ */
+struct SimpleTHistoFixture {
+  inline static std::unique_ptr<Site> pSite {nullptr};
+  inline static std::unique_ptr<Database> pDatabase {nullptr};
+  inline static bool isLoaded = false;
+
+  SimpleTHistoFixture() {
+    if (!isLoaded) {
+      pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto"));
+      pDatabase = std::make_unique<Database>();
+      pDatabase->save(*pSite);
+      isLoaded = true;
+    }
+  }
+};
+
 BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
 
-BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed) {
-  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto"));
+BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed,
+                        SimpleTHistoFixture) {
   BOOST_REQUIRE(nullptr != pSite);
-  Database db;
-  db.save(*pSite);
-  const auto& stats {
-      db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Kill The Fish(152800689)#004")};
+  BOOST_REQUIRE(nullptr != pDatabase);
+  const auto& stats = pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Kill The Fish(152800689)#004");
   BOOST_REQUIRE(Seat::seatSix == stats.getMaxSeat());
   BOOST_REQUIRE("StopCallFish" == stats.m_tableStats[0]->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == stats.m_tableStats[0]->getSiteName());
@@ -39,12 +56,10 @@ BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentS
 }
 
 BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed, SabreLaserFixture) {
-  // Use shared sabre_laser data loaded by fixture
   BOOST_REQUIRE(nullptr != pSabreLaserSite);
-  Database db;
-  db.save(*pSabreLaserSite);
+  BOOST_REQUIRE(nullptr != pDatabase);
   const auto& stats {
-      db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Double or Nothing(102140685)#0")};
+      pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Double or Nothing(102140685)#0")};
   BOOST_REQUIRE("secretstar62" == stats.m_tableStats[0]->getPlayerName());
   BOOST_REQUIRE(0 <= stats.m_tableStats[0]->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE("LECOLOMBIER7" == stats.m_tableStats[1]->getPlayerName());
