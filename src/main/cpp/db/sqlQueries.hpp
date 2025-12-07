@@ -151,19 +151,22 @@ VALUES (
 );
 )raw";
 
-static constexpr std::string_view INSERT_TOURNAMENT =
-    "INSERT OR IGNORE INTO Tournament (tournamentId, buyIn) VALUES ('?tournamentId', ?buyIn);";
+static constexpr std::string_view INSERT_TOURNAMENT = R"raw(
+    INSERT OR IGNORE INTO Tournament (tournamentId, buyIn) VALUES ('?tournamentId', ?buyIn);
+)raw";
 
 static constexpr std::string_view INSERT_CASHGAME = R"raw(
 INSERT OR IGNORE INTO CashGame (cashGameId, smallBlind, bigBlind)
 VALUES ('?cashGameId', ?smallBlind, ?bigBlind);
 )raw";
 
-static constexpr std::string_view INSERT_TOURNAMENT_HAND =
-    "INSERT OR IGNORE INTO TournamentHand (tournamentId, handId) VALUES ('?gameId', '?handId');";
+static constexpr std::string_view INSERT_TOURNAMENT_HAND = R"raw(
+    INSERT OR IGNORE INTO TournamentHand (tournamentId, handId) VALUES ('?gameId', '?handId');
+)raw";
 
-static constexpr std::string_view INSERT_CASHGAME_HAND =
-    "INSERT OR IGNORE INTO CashGameHand (cashGameId, handId) VALUES ('?gameId', '?handId');";
+static constexpr std::string_view INSERT_CASHGAME_HAND = R"raw(
+    INSERT OR IGNORE INTO CashGameHand (cashGameId, handId) VALUES ('?gameId', '?handId');
+)raw";
 
 static constexpr std::string_view INSERT_HAND = R"raw(
 INSERT OR IGNORE INTO Hand (
