@@ -10,7 +10,7 @@ namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 
 static Logger& LOG() {
-  static Logger logger {CURRENT_FILE_NAME};
+  static auto logger = Logger(CURRENT_FILE_NAME);
   return logger;
 }
 

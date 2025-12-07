@@ -11,7 +11,7 @@
 #include "threads/PlayerCache.hpp"
 
 static Logger& LOG() {
-  static Logger logger {CURRENT_FILE_NAME};
+  static auto logger = Logger(CURRENT_FILE_NAME);
   return logger;
 }
 

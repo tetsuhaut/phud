@@ -9,7 +9,7 @@
 #include <iomanip>                  // std::get_time
 
 static Logger& LOG() {
-  static Logger logger {CURRENT_FILE_NAME};
+  static auto logger = Logger(CURRENT_FILE_NAME);
   return logger;
 }
 
