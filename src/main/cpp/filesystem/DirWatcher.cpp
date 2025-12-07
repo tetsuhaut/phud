@@ -35,15 +35,15 @@ private:
     }
 
     // Construct path only when we know it's a valid event
-    const fs::path filePath {dir + "/" + filename};
+    const fs::path filePath(dir + "/" + filename);
 
     const auto actionStr = efsw::Actions::Modified == action ? "Modified" : "Add";
     LOG().info<"The file {} has changed (action: {}), notify listener">(filePath.string(),
                                                                         actionStr);
 
     // Call user callback in thread-safe manner
-    std::lock_guard<std::mutex> lock {m_callbackMutex};
-    if (m_callback) {
+    std::lock_guard<std::mutex> lock(m_callbackMutex);
+    if (!m_stopped.load() and m_callback) {
       m_callback(filePath);
     }
   }
@@ -64,7 +64,7 @@ public:
 
 public:
   void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
-    std::lock_guard<std::mutex> lock {m_callbackMutex};
+    std::lock_guard<std::mutex> lock(m_callbackMutex);
     m_callback = fileHasChangedCb;
     const auto isRecursive = false;
     m_watchId = m_watcher.addWatch(m_dir.string(), this, isRecursive);
@@ -81,8 +81,13 @@ public:
 
   void stop() override {
     if (!m_stopped.load()) {
-      m_watcher.removeWatch(m_watchId);
       m_stopped = true;
+      m_watcher.removeWatch(m_watchId);
+
+      // Ensure all pending callbacks are finished before returning
+      // Lock and unlock the mutex to synchronize with any running callback
+      std::lock_guard<std::mutex> lock(m_callbackMutex);
+      m_callback = nullptr;
       LOG().info<"Stopped watching directory {}">(m_dir.string());
     }
   }

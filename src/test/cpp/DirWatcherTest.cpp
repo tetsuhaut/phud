@@ -46,12 +46,9 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
 
   dw->stop();
 
-  // Accès protégé à changedFiles après stop()
-  {
-    std::unique_lock<std::mutex> lock(mutex);
-    BOOST_REQUIRE(!changedFiles.empty());
-    BOOST_REQUIRE(tmpFile.path().stem().string() == changedFiles.front());
-  }
+  // stop() is now synchronous, so no need to lock after it returns
+  BOOST_REQUIRE(!changedFiles.empty());
+  BOOST_REQUIRE(tmpFile.path().stem().string() == changedFiles.front());
 }
 
 BOOST_AUTO_TEST_SUITE_END()
