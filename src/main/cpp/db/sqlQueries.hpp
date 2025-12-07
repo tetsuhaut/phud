@@ -272,16 +272,15 @@ WHERE
 ORDER BY h.startDate DESC limit 1
 )raw";
 
-static constexpr std::array<std::string_view, 10> CREATE_QUERIES = {
-                                                    CREATE_SITE,
-                                                    CREATE_HAND,
-                                                    CREATE_GAME,
-                                                    CREATE_CASH_GAME,
-                                                    CREATE_TOURNAMENT,
-                                                    CREATE_CASH_GAME_HAND,
-                                                    CREATE_TOURNAMENT_HAND,
-                                                    CREATE_ACTION,
-                                                    CREATE_PLAYER,
-                                                    CREATE_HAND_PLAYER};
+static constexpr std::array<std::string_view, 10> CREATE_QUERIES = {CREATE_SITE,
+                                                                    CREATE_HAND,
+                                                                    CREATE_GAME,
+                                                                    CREATE_CASH_GAME,
+                                                                    CREATE_TOURNAMENT,
+                                                                    CREATE_CASH_GAME_HAND,
+                                                                    CREATE_TOURNAMENT_HAND,
+                                                                    CREATE_ACTION,
+                                                                    CREATE_PLAYER,
+                                                                    CREATE_HAND_PLAYER};
 
 } // namespace phud::sql
