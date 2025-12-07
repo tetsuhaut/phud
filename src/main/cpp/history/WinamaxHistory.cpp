@@ -128,8 +128,10 @@ std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> file
     std::vector<Future<Site*>> batchTasks;
     batchTasks.reserve(currentBatchSize);
 
-    for (std::size_t i = batchStart; i < batchEnd and !stop; ++i) {
-      const auto file = files[i];
+    for (const auto& file : files | std::views::drop(batchStart) | std::views::take(currentBatchSize)) {
+      if (stop) {
+        break;
+      }
       batchTasks.push_back(
           ThreadPool::submit([file, onProgress, stop = std::ref(stop), &sharedCache]() {
             Site* pSite = nullptr;

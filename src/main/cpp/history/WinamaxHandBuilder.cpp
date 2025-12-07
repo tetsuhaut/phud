@@ -12,6 +12,7 @@
 #include "strings/StringUtils.hpp"          // phud::strings
 #include "threads/PlayerCache.hpp"
 #include <optional>
+#include <ranges>
 
 static Logger& LOG() {
   static auto logger = Logger(CURRENT_FILE_NAME);
@@ -288,9 +289,9 @@ static constexpr std::array<std::string_view, 6> ACTION_TOKENS = {" folds",  " c
 [[nodiscard]] static std::array<std::string, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
   std::array<std::string, TableConstants::MAX_SEATS> winners;
 
-  for (std::size_t i = 0; i < TableConstants::MAX_SEATS; ++i) {
-    if (const auto pos {tf.find(" collected ")}; pos != std::string::npos) {
-      winners.at(i) = tf.getLine().substr(0, pos);
+  for (auto& winner : winners) {
+    if (const auto pos = tf.find(" collected "); pos != std::string::npos) {
+      winner = tf.getLine().substr(0, pos);
       tf.next();
     } else {
       break;

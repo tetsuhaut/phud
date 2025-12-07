@@ -7,6 +7,7 @@
 #include <ctime>                    // localtime
 #include <fstream>                  // std::ifstream
 #include <iomanip>                  // std::get_time
+#include <ranges>
 
 static Logger& LOG() {
   static auto logger = Logger(CURRENT_FILE_NAME);
@@ -185,10 +186,8 @@ bool matchPatternParts(std::string_view filename, std::string_view pattern,
                        std::span<const std::string_view> patternParts) {
   std::size_t filenamePos {0};
 
-  for (std::size_t i {0}; i < patternParts.size(); ++i) {
-    const auto part = patternParts[i];
-
-    if (i == 0) {
+  for (auto [i, part] : patternParts | std::views::enumerate) {
+    if (0 == i) {
       // First part: must match at start (unless pattern starts with *)
       if (!pattern.starts_with('*')) {
         if (!filename.substr(filenamePos).starts_with(part)) {
@@ -203,7 +202,7 @@ bool matchPatternParts(std::string_view filename, std::string_view pattern,
         }
         filenamePos += foundPos + part.size();
       }
-    } else if (i == patternParts.size() - 1) {
+    } else if (i == std::make_unsigned_t<int>(patternParts.size() - 1)) {
       // Last part: must match at end (unless pattern ends with *)
       if (!pattern.ends_with('*')) {
         return filename.substr(filenamePos).ends_with(part);

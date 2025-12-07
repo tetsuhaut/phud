@@ -15,6 +15,7 @@
 #include "threads/PlayerCache.hpp"
 #include <thirdParties/utfcpp/utf8.h> // utf8::utf16to8
 #include <optional>
+#include <ranges>
 
 namespace ps = phud::strings;
 namespace pt = phud::test;
@@ -55,11 +56,10 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   BOOST_REQUIRE(Street::preflop == pHand->viewActions().front()->getStreet());
   BOOST_REQUIRE(ActionType::raise == pHand->viewActions().front()->getType());
   BOOST_REQUIRE("sabre_laser" == pHand->viewActions().front()->getPlayerName());
-  std::size_t i {0};
-  std::ranges::for_each(pHand->viewActions(), [&i](const auto pAction) {
-    BOOST_REQUIRE(i == pAction->getIndex());
+  std::ranges::for_each(std::ranges::views::enumerate(pHand->viewActions()), [](const auto& enumerated) {
+    const auto [i, pAction] = enumerated;
+    BOOST_REQUIRE(i == std::make_unsigned_t<int>(pAction->getIndex()));
     BOOST_REQUIRE("531302705944068104-65-1437230557" == pAction->getHandId());
-    i++;
   });
   BOOST_REQUIRE(3200 == pHand->viewActions().front()->getBetAmount());
   BOOST_REQUIRE(5 == pHand->viewActions().size());

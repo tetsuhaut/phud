@@ -1,0 +1,199 @@
+Checks: >
+  -*,
+  bugprone-*,
+  -bugprone-easily-swappable-parameters,
+  -bugprone-exception-escape,
+  cert-*,
+  -cert-err58-cpp,
+  -cert-dcl21-cpp,
+  clang-analyzer-*,
+  concurrency-*,
+  cppcoreguidelines-*,
+  -cppcoreguidelines-avoid-magic-numbers,
+  -cppcoreguidelines-avoid-const-or-ref-data-members,
+  -cppcoreguidelines-pro-type-reinterpret-cast,
+  -cppcoreguidelines-pro-bounds-pointer-arithmetic,
+  -cppcoreguidelines-pro-bounds-array-to-pointer-decay,
+  -cppcoreguidelines-avoid-do-while,
+  -cppcoreguidelines-macro-usage,
+  -cppcoreguidelines-non-private-member-variables-in-classes,
+  -cppcoreguidelines-use-default-member-init,
+  hicpp-*,
+  -hicpp-avoid-goto,
+  -hicpp-no-array-decay,
+  -hicpp-signed-bitwise,
+  -hicpp-braces-around-statements,
+  misc-*,
+  -misc-non-private-member-variables-in-classes,
+  -misc-use-anonymous-namespace,
+  modernize-*,
+  -modernize-use-trailing-return-type,
+  -modernize-use-default-member-init,
+  -modernize-avoid-c-arrays,
+  performance-*,
+  portability-*,
+  readability-*,
+  -readability-magic-numbers,
+  -readability-braces-around-statements,
+  -readability-identifier-length,
+  -readability-function-cognitive-complexity,
+  -readability-else-after-return,
+  -readability-uppercase-literal-suffix,
+  -readability-avoid-const-params-in-decls,
+  -readability-implicit-bool-conversion,
+
+WarningsAsErrors: ''
+
+CheckOptions:
+  # Nommage (basé sur le style actuel du code)
+  - key: readability-identifier-naming.ClassCase
+    value: CamelCase
+  - key: readability-identifier-naming.StructCase
+    value: CamelCase
+  - key: readability-identifier-naming.EnumCase
+    value: CamelCase
+  - key: readability-identifier-naming.EnumConstantCase
+    value: camelBack
+  - key: readability-identifier-naming.FunctionCase
+    value: camelBack
+  - key: readability-identifier-naming.MethodCase
+    value: camelBack
+  - key: readability-identifier-naming.VariableCase
+    value: camelBack
+  - key: readability-identifier-naming.ParameterCase
+    value: camelBack
+  - key: readability-identifier-naming.MemberCase
+    value: camelBack
+  - key: readability-identifier-naming.MemberPrefix
+    value: m_
+  - key: readability-identifier-naming.PrivateMemberPrefix
+    value: m_
+  - key: readability-identifier-naming.ProtectedMemberPrefix
+    value: m_
+  - key: readability-identifier-naming.ConstantCase
+    value: UPPER_CASE
+  - key: readability-identifier-naming.ConstexprVariableCase
+    value: UPPER_CASE
+  - key: readability-identifier-naming.GlobalConstantCase
+    value: UPPER_CASE
+  - key: readability-identifier-naming.StaticConstantCase
+    value: UPPER_CASE
+  - key: readability-identifier-naming.NamespaceCase
+    value: lower_case
+  - key: readability-identifier-naming.TypeAliasCase
+    value: CamelCase
+  - key: readability-identifier-naming.TypedefCase
+    value: CamelCase
+  - key: readability-identifier-naming.TemplateParameterCase
+    value: CamelCase
+
+  # Limites de complexité
+  - key: readability-function-size.LineThreshold
+    value: 150
+  - key: readability-function-size.StatementThreshold
+    value: 150
+  - key: readability-function-size.BranchThreshold
+    value: 30
+  - key: readability-function-size.ParameterThreshold
+    value: 8
+
+  # Performance
+  - key: performance-move-const-arg.CheckTriviallyCopyableMove
+    value: true
+  - key: performance-unnecessary-value-param.AllowedTypes
+    value: ''
+
+  # Modernize
+  - key: modernize-use-nullptr.NullMacros
+    value: 'NULL'
+  - key: modernize-use-auto.MinTypeNameLength
+    value: 5
+  - key: modernize-loop-convert.MinConfidence
+    value: reasonable
+  - key: modernize-pass-by-value.IncludeStyle
+    value: google
+  - key: modernize-replace-auto-ptr.IncludeStyle
+    value: google
+
+  # Bugprone
+  - key: bugprone-assert-side-effect.AssertMacros
+    value: 'assert'
+  - key: bugprone-string-constructor.WarnOnLargeLength
+    value: true
+  - key: bugprone-suspicious-string-compare.WarnOnLogicalNotComparison
+    value: true
+  - key: bugprone-too-small-loop-variable.MagnitudeBitsUpperLimit
+    value: 16
+
+  # CERT
+  - key: cert-oop54-cpp.WarnOnlyIfThisHasSuspiciousField
+    value: false
+  - key: cert-str34-c.DiagnoseSignedUnsignedCharComparisons
+    value: true
+
+  # C++ Core Guidelines
+  - key: cppcoreguidelines-special-member-functions.AllowSoleDefaultDtor
+    value: true
+  - key: cppcoreguidelines-special-member-functions.AllowMissingMoveFunctions
+    value: false
+  - key: cppcoreguidelines-explicit-virtual-functions.IgnoreDestructors
+    value: true
+  - key: cppcoreguidelines-avoid-non-const-global-variables.AllowInternalLinkage
+    value: true
+
+  # Misc
+  - key: misc-non-copyable-objects.CheckObjectTypes
+    value: true
+  - key: misc-throw-by-value-catch-by-reference.CheckThrowTemporaries
+    value: true
+
+  # Readability
+  - key: readability-simplify-boolean-expr.ChainedConditionalReturn
+    value: true
+  - key: readability-simplify-boolean-expr.ChainedConditionalAssignment
+    value: true
+  - key: readability-static-accessed-through-instance.NameSpecifierNestingThreshold
+    value: 3
+  - key: readability-inconsistent-declaration-parameter-name.Strict
+    value: true
+
+  # Longueur des lignes
+  - key: readability-line-length.MaxLineLength
+    value: 100
+
+  # Constness
+  - key: readability-const-return-type.IgnoreMacros
+    value: true
+  - key: misc-const-correctness.WarnPointersAsValues
+    value: true
+  - key: misc-const-correctness.TransformPointersAsValues
+    value: false
+  - key: misc-const-correctness.TransformValues
+    value: true
+  - key: misc-const-correctness.TransformReferences
+    value: true
+
+  # Headers
+  - key: misc-header-include-cycle.IgnoredFilesList
+    value: ''
+
+  # Container safety
+  - key: readability-container-size-empty.EnableContainerSizeEmpty
+    value: true
+
+  # Casting
+  - key: readability-avoid-unconditional-preprocessor-if.WarnOnIntegerLiterals
+    value: true
+
+HeaderFilterRegex: 'src/.*'
+FormatStyle: file
+
+# Options du compilateur
+# clang-tidy ne comprend pas -std:c++latest (syntaxe MSVC), on force -std=c++23
+ExtraArgs:
+  - '-std=c++23'
+  - '-IC:/prog/workspaceGit/phud/src/main/cpp'
+  - '-DNOMINMAX'
+  - '-DPHUD_APP_VERSION="0.0.2"'
+  - '-DPHUD_APP_NAME_SHORT="phud"'
+  - '-DPHUD_APP_NAME_LONG="Poker Head-Up Display"'
