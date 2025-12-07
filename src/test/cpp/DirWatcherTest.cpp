@@ -23,14 +23,14 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   std::vector<std::string> changedFiles;
   std::condition_variable cv;
   std::mutex mutex;
-  dw->start([&](const fs::path& file) {
-    std::lock_guard lock {mutex};
+  // each time the file is modified, its name is added to changedFiles
+  dw->start([&cv, &mutex, &changedFiles](const fs::path& file) {
+    std::lock_guard<std::mutex> lock(mutex);
     changedFiles.push_back(file.stem().string());
     cv.notify_one();
   });
   auto tb = TimeBomb::create(TB_PERIOD, "DirWatcherTest_DetectingChangedFilesShouldWork");
 
-  // With EFSW (event-driven), modifications are detected immediately
   // Add a small delay between modifications to ensure they are processed
   tmpFile.print("yip");
   std::this_thread::sleep_for(std::chrono::milliseconds(100));
@@ -38,19 +38,17 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
   std::this_thread::sleep_for(std::chrono::milliseconds(100));
   tmpFile.print("yip");
 
-  // Attendre avec un prédicat et un timeout
+  // wait until cv is notified, fails after 2 seconds
   {
-    std::unique_lock lock {mutex};
-    cv.wait_for(lock, std::chrono::seconds(2), [&]() {
-      return !changedFiles.empty();
-    });
+    std::unique_lock<std::mutex> lock(mutex);
+    cv.wait_for(lock, std::chrono::seconds(2), [&]() { return !changedFiles.empty(); });
   }
 
   dw->stop();
 
   // Accès protégé à changedFiles après stop()
   {
-    std::lock_guard lock {mutex};
+    std::unique_lock<std::mutex> lock(mutex);
     BOOST_REQUIRE(!changedFiles.empty());
     BOOST_REQUIRE(tmpFile.path().stem().string() == changedFiles.front());
   }
