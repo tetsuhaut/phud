@@ -2,7 +2,7 @@
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
-#  pragma warning(disable : 4619 26495)
+#  pragma warning(disable : 4365 4619 26495)
 #elif defined(__clang__)
 #  pragma clang diagnostic push
 #  pragma clang diagnostic ignored "-Wglobal-constructors"

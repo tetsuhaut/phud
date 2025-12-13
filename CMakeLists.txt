@@ -51,29 +51,40 @@ if(MSVC)
   set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
   if(CMAKE_CXX_COMPILER_ID MATCHES "Clang")
     message("detected MSVC + clang compiler")
-    add_compile_options()
     add_link_options(--target=x86_64-pc-windows-msvc)
-    add_compile_options(--target=x86_64-pc-windows-msvc
+    # Store warning flags in a variable to apply only to project targets
+    set(PROJECT_WARNING_FLAGS
+                        --target=x86_64-pc-windows-msvc
                         /W4 # compile with lots of warnings
                         -Wall # most common warnings
                         -Wextra # additionnal warnings
                         -Wpedantic # unnecessary warnings
                         -Weverything # in addition, all of the Clang warnings
+                        -Werror=conversion # implicit conversion as ERROR
+                        -Werror=sign-conversion # signed/unsigned conversion as ERROR
+                        -Werror=float-conversion # float conversion as ERROR
+                        -Werror=implicit-int-conversion # implicit int conversion as ERROR
                         -Wno-c++98-compat # disable C++98 compatibility warnings
                         -Wno-c++98-compat-pedantic # disable C++98 compatibility warnings
                         -Wno-padded # disable padding warnings as too verbose
                         -Wno-switch-default # disable switch default warning for enums with all cases covered
                         /sdl)
+    # Apply basic compilation options globally
+    add_compile_options(/utf-8 /MP /Gy /EHsc /Zc:__cplusplus /guard:cf
+                        /experimental:external # enable external headers support
+                        /external:anglebrackets # treat angle-bracket includes as external
+                        /external:W0 # no warnings for external headers
+                        /external:templates-) # do not propagate warnings from external templates
   else()
-    add_compile_options(/utf-8 # use UTF-8 for source and execution
-                        /MP # compile using multi processor
-                        /Gy # the linker will remove unused functions
-                        /EHsc # use standard exceptions
-                        /Zc:__cplusplus #ask the compiler to fix the __cplusplus macro
-                        /guard:cf # enable Control Flow Guard
-                        /sdl # enable additional security checks
+    # Store warning flags in a variable to apply only to project targets
+    set(PROJECT_WARNING_FLAGS
                         /W4 # compile with lots of warnings
-                        /w14242 # implicit conversion
+                        /we4242 # implicit conversion - treat as ERROR
+                        /we4244 # conversion from 'type1' to 'type2', possible loss of data - ERROR
+                        /we4245 # signed/unsigned mismatch - ERROR
+                        /we4267 # conversion from 'size_t' to 'type', possible loss of data - ERROR
+                        # Note: /we4365 removed as it causes errors in Boost headers even when marked as external
+                        /w14365 # signed/unsigned mismatch in action - WARNING only (not error)
                         /w14254 # type annotation
                         /w14263 # buffer overflow
                         /w14265 # missing virtual destructor
@@ -93,12 +104,28 @@ if(MSVC)
                         /w14928
                         /w35038
                         /we4289) # compile warnings configured
+    # Apply basic compilation options globally (non-warning related)
+    add_compile_options(/utf-8 # use UTF-8 for source and execution
+                        /MP # compile using multi processor
+                        /Gy # the linker will remove unused functions
+                        /EHsc # use standard exceptions
+                        /Zc:__cplusplus #ask the compiler to fix the __cplusplus macro
+                        /guard:cf # enable Control Flow Guard
+                        /sdl # enable additional security checks
+                        /experimental:external # enable external headers support
+                        /external:anglebrackets # treat angle-bracket includes as external
+                        /external:W0 # no warnings for external headers
+                        /external:templates-) # do not propagate warnings from external templates
   endif()
 elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQUAL "GNU"))
   message("detected GCC + Clang compiler")
-  add_compile_options(-Wall # compile with lots of warnings
+  # Store warning flags in a variable to apply only to project targets
+  set(PROJECT_WARNING_FLAGS
+                      -Wall # compile with lots of warnings
                       -Wcast-align
-                      -Wconversion
+                      -Werror=conversion # implicit conversion as ERROR
+                      -Werror=sign-conversion # signed/unsigned conversion as ERROR
+                      -Werror=float-conversion # float conversion as ERROR
                       -Wdouble-promotion
                       -Wduplicated-branches
                       -Wduplicated-cond
@@ -116,26 +143,28 @@ elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQ
                       -Woverloaded-virtual
                       -Wpedantic
                       -Wshadow
-                      -Wsign-conversion
                       -Wsuggest-override
                       -Wswitch-enum
                       -Wno-switch-default
                       -Wunused
                       -Wuseless-cast
                       -Wvla
-                      -fexec-charset=UTF-8
-                      -finput-charset=UTF-8
-                      -fno-elide-type
-                      -fsafe-buffer-usage-suggestions
                       -pedantic
                       -pedantic-errors)
+  # Apply encoding and other non-warning options globally
+  add_compile_options(-fexec-charset=UTF-8
+                      -finput-charset=UTF-8
+                      -fno-elide-type
+                      -fsafe-buffer-usage-suggestions)
 elseif(MINGW)
   message("detected GCC MinGW compiler")
-  # compiling with GCC MinGW
-  # compile with lots of warnings
-  add_compile_options(-Wall
+  # Store warning flags in a variable to apply only to project targets
+  set(PROJECT_WARNING_FLAGS
+                      -Wall
                       -Wcast-align
-                      -Wconversion
+                      -Werror=conversion # implicit conversion as ERROR
+                      -Werror=sign-conversion # signed/unsigned conversion as ERROR
+                      -Werror=float-conversion # float conversion as ERROR
                       -Wdouble-promotion
                       -Wduplicated-branches
                       -Wduplicated-cond
@@ -153,26 +182,24 @@ elseif(MINGW)
                       -Woverloaded-virtual
                       -Wpedantic
                       -Wshadow
-                      -Wsign-conversion
                       -Wsuggest-override
                       -Wswitch-enum
                       -Wunused
                       -Wuseless-cast
                       -Wvla
-                      -fexec-charset=UTF-8
+                      -pedantic
+                      -pedantic-errors)
+  # Apply encoding and security options globally (non-warning related)
+  add_compile_options(-fexec-charset=UTF-8
                       -finput-charset=UTF-8
                       -fno-elide-type
-                      -pedantic
-                      -pedantic-errors
                       -fstack-protector-strong # stack overflow protection
                       -D_FORTIFY_SOURCE=2 # buffer overflow detection
-                      -fPIE # Position Independent Executable
-                      )
+                      -fPIE) # Position Independent Executable
   # Security link options for GCC/MinGW
   add_link_options(-Wl,--dynamicbase # ASLR
                    -Wl,--nxcompat # DEP
-                   -pie # Position Independent Executable
-                   )
+                   -pie) # Position Independent Executable
 else()
   message(WARNING "Unknown compiler: ${CMAKE_CXX_COMPILER_ID}")
   set(MY_COMPILER_TYPE "UNKNOWN")
@@ -191,6 +218,10 @@ list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/dbgen/dbgen
 list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/guiDryRun/guiDryRun.cpp)
 add_library(mainLib ${mainLibSourceFiles})
 target_include_directories(mainLib PRIVATE src/main/cpp)
+# Apply warning flags only to this target (not to dependencies like Boost)
+if(DEFINED PROJECT_WARNING_FLAGS)
+  target_compile_options(mainLib PRIVATE ${PROJECT_WARNING_FLAGS})
+endif()
 
 # build the phud GUI executable, it uses the main lib
 file(GLOB_RECURSE phudSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/phud/*)
@@ -199,24 +230,40 @@ add_executable(phud WIN32 ${phudSourceFiles})
 # add_executable(phud ${phudSourceFiles})
 target_include_directories(phud PRIVATE src/main/cpp)
 target_link_libraries(phud PRIVATE mainLib)
+# Apply warning flags only to this target (not to dependencies like Boost)
+if(DEFINED PROJECT_WARNING_FLAGS)
+  target_compile_options(phud PRIVATE ${PROJECT_WARNING_FLAGS})
+endif()
 
 # build the dbgen database generator executable, it uses the main lib
 file(GLOB_RECURSE dbgenSourceFiles src/main/cpp/dbgen/*)
 add_executable(dbgen ${dbgenSourceFiles})
 target_include_directories(dbgen PRIVATE src/main/cpp)
 target_link_libraries(dbgen PRIVATE mainLib)
+# Apply warning flags only to this target (not to dependencies like Boost)
+if(DEFINED PROJECT_WARNING_FLAGS)
+  target_compile_options(dbgen PRIVATE ${PROJECT_WARNING_FLAGS})
+endif()
 
 # build the guiDryRun executable, it uses the main lib
 file(GLOB_RECURSE guiDryRunSourceFiles src/main/cpp/guiDryRun/*)
 add_executable(guiDryRun ${guiDryRunSourceFiles})
 target_include_directories(guiDryRun PRIVATE src/main/cpp)
 target_link_libraries(guiDryRun PRIVATE mainLib)
+# Apply warning flags only to this target (not to dependencies like Boost)
+if(DEFINED PROJECT_WARNING_FLAGS)
+  target_compile_options(guiDryRun PRIVATE ${PROJECT_WARNING_FLAGS})
+endif()
 
 # build the unitTests executable, it uses the main lib
 file(GLOB_RECURSE testSourceFiles src/test/cpp/*)
 add_executable(unitTests ${testSourceFiles})
 target_include_directories(unitTests PRIVATE src/main/cpp)
 target_link_libraries(unitTests PRIVATE mainLib)
+# Apply warning flags only to this target (not to dependencies like Boost)
+if(DEFINED PROJECT_WARNING_FLAGS)
+  target_compile_options(unitTests PRIVATE ${PROJECT_WARNING_FLAGS})
+endif()
 
 # pass informations to the source code
 # on Windows, avoid interference between min and max macros and std::numeric_limits<>
@@ -253,7 +300,12 @@ set(Boost_NO_SYSTEM_PATHS ON)
 
 # specify which libraries to link with and corresponding include files
 find_package(Boost CONFIG 1.89.0 REQUIRED COMPONENTS unit_test_framework)
-include_directories(${Boost_INCLUDE_DIRS})
+# Mark Boost headers as SYSTEM to suppress warnings from external code
+target_include_directories(mainLib SYSTEM PRIVATE ${Boost_INCLUDE_DIRS})
+target_include_directories(phud SYSTEM PRIVATE ${Boost_INCLUDE_DIRS})
+target_include_directories(dbgen SYSTEM PRIVATE ${Boost_INCLUDE_DIRS})
+target_include_directories(guiDryRun SYSTEM PRIVATE ${Boost_INCLUDE_DIRS})
+target_include_directories(unitTests SYSTEM PRIVATE ${Boost_INCLUDE_DIRS})
 target_link_libraries(unitTests PRIVATE ${Boost_UNIT_TEST_FRAMEWORK_LIBRARY})
 
 ################################################################################
@@ -273,7 +325,8 @@ find_package(FLTK 1.4.4 REQUIRED)
 if(FLTK_VERSION VERSION_LESS "1.4.4")
   message(FATAL_ERROR "FLTK version '${FLTK_VERSION}' is too old")
 endif()
-target_include_directories(mainLib PRIVATE ${FLTK_INCLUDE_DIRS})
+# Mark FLTK headers as SYSTEM to suppress warnings from external code
+target_include_directories(mainLib SYSTEM PRIVATE ${FLTK_INCLUDE_DIRS})
 target_link_libraries(mainLib PRIVATE ${FLTK_LIBRARIES})
 
 ################################################################################

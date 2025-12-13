@@ -372,7 +372,7 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
                             if (!playerName.empty()) {
                               handPlayerInsert.handId(pHand->getId())
                                   .playerName(playerName)
-                                  .playerSeat(tableSeat::fromArrayIndex(index))
+                                  .playerSeat(tableSeat::fromArrayIndex(static_cast<std::int64_t>(index)))
                                   .isWinner(pHand->isWinner(playerName))
                                   .newInsert();
                             }
@@ -391,7 +391,7 @@ enum class /*[[nodiscard]]*/ QueryResult : short { NO_MORE_ROWS, ONE_ROW_OR_MORE
 
 class [[nodiscard]] PreparedStatement final {
 private:
-  sqlite3_stmt* m_pStatement {nullptr};
+  sqlite3_stmt* m_pStatement = nullptr;
   gsl::not_null<sqlite3*> m_pDatabase;
   std::string m_sql;
 

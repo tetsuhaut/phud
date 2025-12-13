@@ -25,7 +25,7 @@ namespace tableSeat {
 /*
  * Transforms 0 into Seat::SeatOne and so on.
  */
-[[nodiscard]] Seat fromArrayIndex(std::size_t i);
+[[nodiscard]] Seat fromArrayIndex(std::int64_t i);
 
 /*
  * Transforms 1 into Seat::SeatOne and so on.

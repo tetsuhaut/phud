@@ -38,7 +38,7 @@ Seat TableStatistics::getHeroSeat() const {
   const auto it = std::ranges::find_if(m_tableStats, isHero);
   return (m_tableStats.end() == it)
              ? Seat::seatUnknown
-             : tableSeat::fromArrayIndex(limits::toSizeT(it - m_tableStats.begin()));
+             : tableSeat::fromArrayIndex(static_cast<std::int64_t>(it - m_tableStats.begin()));
 }
 
 std::unique_ptr<PlayerStatistics> TableStatistics::extractPlayerStatistics(Seat seat) {

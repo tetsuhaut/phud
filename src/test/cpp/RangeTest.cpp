@@ -1,5 +1,16 @@
 #include "TestInfrastructure.hpp"
+
+#if defined(_MSC_VER) // removal of specific compiler warnings due to Boost
+#  pragma warning(push)
+#  pragma warning(disable : 4365)  // signed/unsigned mismatch
+#endif // _MSC_VER
+
 #include <boost/range.hpp>
+
+#if defined(_MSC_VER) // end of specific compiler warnings removal
+#  pragma warning(pop)
+#endif // _MSC_VER
+
 #include <memory> // std::unique_ptr
 
 namespace {

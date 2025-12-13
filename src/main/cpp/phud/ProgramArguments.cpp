@@ -51,8 +51,9 @@ parseHistoryDir(std::span<const char* const> arguments) {
 [[nodiscard]] static std::string toLowerCase(std::string_view str) {
   std::string lowerCase;
   lowerCase.reserve(str.size());
-  std::ranges::transform(str, lowerCase.begin(),
-                         [](unsigned char c) { return gsl::narrow_cast<char>(std::tolower(c)); });
+  std::ranges::transform(str, lowerCase.begin(), [](auto c) {
+    return static_cast<char>(std::tolower(static_cast<unsigned char>(c)));
+  });
   return lowerCase;
 }
 

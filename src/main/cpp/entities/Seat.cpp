@@ -18,7 +18,7 @@ constexpr auto SEAT_MAPPER {
   return SEAT_MAPPER.fromString(seatStr);
 }
 
-/*[[nodiscard]]*/ Seat tableSeat::fromArrayIndex(std::size_t i) {
+/*[[nodiscard]]*/ Seat tableSeat::fromArrayIndex(std::int64_t i) {
   validation::require(TableConstants::MAX_SEATS > i, "Can't find a seat for that value");
   return static_cast<Seat>(i);
 }

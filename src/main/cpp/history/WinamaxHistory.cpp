@@ -128,7 +128,9 @@ std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> file
     std::vector<Future<Site*>> batchTasks;
     batchTasks.reserve(currentBatchSize);
 
-    for (const auto& file : files | std::views::drop(batchStart) | std::views::take(currentBatchSize)) {
+    // Use std::span to create a view of the current batch
+    const auto batch = std::span(files).subspan(batchStart, currentBatchSize);
+    for (const auto& file : batch) {
       if (stop) {
         break;
       }
