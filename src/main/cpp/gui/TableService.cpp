@@ -50,7 +50,7 @@ private:
     LOG().info<"The file {} has changed, notify listener">(m_file.string());
 
     // Call user callback in thread-safe manner
-    std::lock_guard<std::mutex> lock {m_callbackMutex};
+    std::scoped_lock lock {m_callbackMutex};
     if (m_callback) {
       m_callback(m_file); // Reuse cached m_file instead of reconstructing path
     }
@@ -70,7 +70,7 @@ public:
   EfswFileWatcher& operator=(EfswFileWatcher&&) = delete;
 
   void start(const std::function<void(const fs::path&)>& fileHasChangedCb) {
-    std::lock_guard<std::mutex> lock {m_callbackMutex};
+    std::scoped_lock lock {m_callbackMutex};
     m_callback = fileHasChangedCb;
 
     // Watch the parent directory of the file

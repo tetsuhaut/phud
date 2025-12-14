@@ -42,7 +42,8 @@ private:
                                                                         actionStr);
 
     // Call user callback in thread-safe manner
-    std::lock_guard<std::mutex> lock(m_callbackMutex);
+    const std::scoped_lock lock(m_callbackMutex);
+    
     if (!m_stopped.load() and m_callback) {
       m_callback(filePath);
     }
@@ -60,11 +61,10 @@ public:
   DirWatcherImpl(DirWatcherImpl&&) = delete;
   DirWatcherImpl& operator=(const DirWatcherImpl&) = delete;
   DirWatcherImpl& operator=(DirWatcherImpl&&) = delete;
+  ~DirWatcherImpl() = default;
 
-
-public:
   void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
-    std::lock_guard<std::mutex> lock(m_callbackMutex);
+    std::scoped_lock lock(m_callbackMutex);
     m_callback = fileHasChangedCb;
     const auto isRecursive = false;
     m_watchId = m_watcher.addWatch(m_dir.string(), this, isRecursive);
@@ -86,7 +86,7 @@ public:
 
       // Ensure all pending callbacks are finished before returning
       // Lock and unlock the mutex to synchronize with any running callback
-      std::lock_guard<std::mutex> lock(m_callbackMutex);
+      const std::scoped_lock lock(m_callbackMutex);
       m_callback = nullptr;
       LOG().info<"Stopped watching directory {}">(m_dir.string());
     }

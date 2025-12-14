@@ -47,7 +47,7 @@ inline std::string toString<double>(double s) {
 
 template <>
 inline std::string toString<Seat>(Seat seat) {
-  return tableSeat::toString(seat).data();
+  return std::string(tableSeat::toString(seat));
 }
 
 static std::string_view isOk(std::string_view s) {

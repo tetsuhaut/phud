@@ -15,7 +15,6 @@ static Logger& LOG() {
 }
 
 namespace fs = std::filesystem;
-namespace pf = phud::filesystem;
 
 namespace {
 template <typename Iterator>
@@ -83,7 +82,7 @@ std::vector<fs::path> phud::filesystem::listFilesInDir(const fs::path& dir,
   }
 
   for (const auto& dirEntry : fs::directory_iterator(dir)) {
-    if (const auto entryPath = dirEntry.path();
+    if (const auto& entryPath = dirEntry.path();
         entryPath.filename().string().starts_with("20") // like the year 2022
         and entryPath.string().ends_with(postFix) and dirEntry.is_regular_file()) {
       ret.push_back(entryPath);
@@ -141,14 +140,14 @@ std::string phud::filesystem::toString(const fs::file_time_type& ft) {
 
   if (const auto errorCode {localtime_s(&calendarDateTime, &posixTime)}; 0 != errorCode)
       [[unlikely]] {
-    char msg[256] {0};
-    strerror_s(msg, std::size(msg), errorCode);
-    LOG().error(msg);
+    std::array<char, 256> msg {0};
+    std::ignore = strerror_s(msg.data(), msg.size(), errorCode);
+    LOG().error(msg.data());
     return "";
   }
   oss << std::put_time(&calendarDateTime, "%Y/%m/%d %H:%M:%S");
 #else
-  oss << std::put_time(std::localtime(&posixTime), "%Y/%m/%d %H:%M:%S");
+  oss << std::put_time(std::format("{}...", std::local."time(&posixTime), "%Y/%m/%d %H:%M:%S");
 #endif
   return oss.str();
 }
@@ -186,7 +185,7 @@ bool matchPatternParts(std::string_view filename, std::string_view pattern,
                        std::span<const std::string_view> patternParts) {
   std::size_t filenamePos {0};
 
-  for (auto [i, part] : patternParts | std::views::enumerate) {
+  for (const auto& [i, part] : patternParts | std::views::enumerate) {
     if (0 == i) {
       // First part: must match at start (unless pattern starts with *)
       if (!pattern.starts_with('*')) {
@@ -202,7 +201,7 @@ bool matchPatternParts(std::string_view filename, std::string_view pattern,
         }
         filenamePos += foundPos + part.size();
       }
-    } else if (i == std::make_unsigned_t<int>(patternParts.size() - 1)) {
+    } else if (std::cmp_equal(i, patternParts.size() - 1)) {
       // Last part: must match at end (unless pattern ends with *)
       if (!pattern.ends_with('*')) {
         return filename.substr(filenamePos).ends_with(part);

@@ -5,8 +5,8 @@
 #include <mutex>
 #include <queue>
 
-// std::lock_guard<std::mutex> unlocks only when destroyed.
-// std::condition_variable does not take std::lock_guard<std::mutex>.
+// std::scoped_lock unlocks when destroyed and can lock multiple mutexes atomically.
+// std::condition_variable requires std::unique_lock, not std::scoped_lock.
 template <typename T>
 class [[nodiscard]] ThreadSafeQueue final {
 private:
@@ -42,13 +42,10 @@ public:
    * @returns true If the queue contains a value
    */
   [[nodiscard]] bool tryPop(T& value) {
-    const std::lock_guard<std::mutex> headLock(m_pHeadMutex);
-    {
-      const std::lock_guard<std::mutex> tailLock(m_pTailMutex);
-      if (m_pHead.get() == m_pTail) {
-        // the queue is empty
-        return false;
-      }
+    const std::scoped_lock lock(m_pHeadMutex, m_pTailMutex);
+    if (m_pHead.get() == m_pTail) {
+      // the queue is empty
+      return false;
     }
     value = std::move(*m_pHead->data);
     popHead().reset();
@@ -94,9 +91,7 @@ public:
   }
 
   [[nodiscard]] bool isEmpty() {
-    // Acquire mutexes in consistent order: tail first, then head (prevents deadlock)
-    const std::lock_guard<std::mutex> tailLock(m_pTailMutex);
-    const std::lock_guard<std::mutex> headLock(m_pHeadMutex);
+    const std::scoped_lock lock(m_pTailMutex, m_pHeadMutex);
     return m_pHead.get() == m_pTail;
   }
 }; // class ThreadSafeQueue

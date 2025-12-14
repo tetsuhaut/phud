@@ -1,5 +1,8 @@
 #pragma once
 
+#include <concepts>
+#include <cstddef>
+#include <cstdint>
 #include <string_view>
 
 enum class [[nodiscard]] Seat : short {
@@ -24,8 +27,15 @@ namespace tableSeat {
 
 /*
  * Transforms 0 into Seat::SeatOne and so on.
+ * Accepts any integral type (int, size_t, ptrdiff_t, int64_t, etc.)
  */
-[[nodiscard]] Seat fromArrayIndex(std::int64_t i);
+template<std::integral T>
+[[nodiscard]] Seat fromArrayIndex(T i);
+
+// Explicit instantiation declaration for common types
+extern template Seat fromArrayIndex<std::int64_t>(std::int64_t);
+extern template Seat fromArrayIndex<std::size_t>(std::size_t);
+extern template Seat fromArrayIndex<std::ptrdiff_t>(std::ptrdiff_t);
 
 /*
  * Transforms 1 into Seat::SeatOne and so on.

@@ -26,6 +26,7 @@ Checks: >
   misc-*,
   -misc-non-private-member-variables-in-classes,
   -misc-use-anonymous-namespace,
+  -misc-include-cleaner,
   modernize-*,
   -modernize-use-trailing-return-type,
   -modernize-use-default-member-init,
@@ -197,3 +198,24 @@ ExtraArgs:
   - '-DPHUD_APP_VERSION="0.0.2"'
   - '-DPHUD_APP_NAME_SHORT="phud"'
   - '-DPHUD_APP_NAME_LONG="Poker Head-Up Display"'
+  # Bibliothèques externes
+  - '-isystem'
+  - 'C:/prog/lib/boost/boost-build-msvc/include'
+  - '-isystem'
+  - 'C:/prog/lib/frozen/frozen-build-msvc/install/include'
+  - '-isystem'
+  - 'C:/prog/lib/gsl/GSL-build-msvc/install/include'
+  - '-isystem'
+  - 'C:/prog/lib/spdlog/spdlog-build-msvc/install/include'
+  - '-isystem'
+  - 'C:/prog/lib/efsw/efsw-build-msvc/install/include'
+  - '-isystem'
+  - 'C:/prog/lib/stlab/stlab-libraries-build-msvc/include'
+  - '-isystem'
+  - 'C:/prog/lib/stlab/stlab-libraries-build-msvc/../libraries-2.1.4/include'
+  - '-isystem'
+  - 'C:/prog/lib/fltk/fltk-build-msvc'
+  - '-isystem'
+  - 'C:/prog/lib/fltk/fltk-release-1.4.4'
+  - '-isystem'
+  - 'C:/prog/lib/sqlite/sqlite-build-msvc/install/include'

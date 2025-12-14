@@ -48,12 +48,20 @@ parseHistoryDir(std::span<const char* const> arguments) {
   return {};
 }
 
+namespace {
+[[nodiscard]] constexpr char toLowerChar(char c) noexcept {
+  // Simple implementation that avoids std::tolower and its int->char cast
+  if (c >= 'A' && c <= 'Z') {
+    return c + ('a' - 'A');
+  }
+  return c;
+}
+} // anonymous namespace
+
 [[nodiscard]] static std::string toLowerCase(std::string_view str) {
   std::string lowerCase;
   lowerCase.reserve(str.size());
-  std::ranges::transform(str, lowerCase.begin(), [](auto c) {
-    return static_cast<char>(std::tolower(static_cast<unsigned char>(c)));
-  });
+  std::ranges::transform(str, lowerCase.begin(), toLowerChar);
   return lowerCase;
 }
 

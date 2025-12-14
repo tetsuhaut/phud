@@ -4,7 +4,7 @@
 
 #include <algorithm> // std::ranges::for_each
 #include <map>
-#include <mutex> // std::lock_guard
+#include <mutex> // std::scoped_lock
 #include <vector>
 
 struct [[nodiscard]] PlayerCache::Implementation final {
@@ -22,33 +22,33 @@ PlayerCache::PlayerCache(std::string_view siteName) noexcept
 PlayerCache::~PlayerCache() = default;
 
 void PlayerCache::setIsHero(std::string_view playerName) const {
-  const std::lock_guard lock(m_pImpl->m_mutex);
+  const std::scoped_lock lock(m_pImpl->m_mutex);
   const auto it = m_pImpl->m_players.find(playerName);
   validation::require(m_pImpl->m_players.end() != it, "Setting hero on a bad player");
   it->second->setIsHero(true);
 }
 
 void PlayerCache::erase(std::string_view playerName) const {
-  const std::lock_guard lock(m_pImpl->m_mutex);
+  const std::scoped_lock lock(m_pImpl->m_mutex);
   const auto it = m_pImpl->m_players.find(playerName);
   validation::require(m_pImpl->m_players.end() != it, "Erasing a bad player");
   m_pImpl->m_players.erase(it);
 }
 
 void PlayerCache::addIfMissing(std::string_view playerName) const {
-  const std::lock_guard lock(m_pImpl->m_mutex);
+  const std::scoped_lock lock(m_pImpl->m_mutex);
   m_pImpl->m_players.emplace(playerName,
                              std::make_unique<Player>(Player::Params {
                                  .name = playerName, .site = m_pImpl->m_siteName, .comments = ""}));
 }
 
 bool PlayerCache::isEmpty() const {
-  const std::lock_guard lock(m_pImpl->m_mutex);
+  const std::scoped_lock lock(m_pImpl->m_mutex);
   return m_pImpl->m_players.empty();
 }
 
 std::vector<std::unique_ptr<Player>> PlayerCache::extractPlayers() {
-  const std::lock_guard lock(m_pImpl->m_mutex);
+  const std::scoped_lock lock(m_pImpl->m_mutex);
   std::vector<std::unique_ptr<Player>> ret;
   ret.reserve(m_pImpl->m_players.size());
   std::ranges::for_each(m_pImpl->m_players,

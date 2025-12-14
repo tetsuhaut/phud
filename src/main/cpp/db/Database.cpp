@@ -21,6 +21,7 @@
 #include <stlab/concurrency/utility.hpp> // stlab::await
 #include <mutex>
 #include <ranges>
+#include <utility> // std::forward
 
 // from sqlite3.h: 'The application does not need to worry about freeing the result.' So no need to
 // free the char* returned by sqlite3_errmsg().
@@ -200,7 +201,7 @@ private:
 public:
   explicit Transaction(gsl::not_null<sqlite3*> a_db)
     : m_db {a_db} {
-    const std::lock_guard<std::mutex> lock {m_mutex};
+    const std::scoped_lock lock {m_mutex};
     executeSql(m_db, "BEGIN TRANSACTION;");
   }
 
@@ -317,8 +318,8 @@ void Database::save(const Site& site) {
   const auto tournaments = site.viewTournaments();
   auto tasks1 = saveGamesAsync(std::span {cashGames}, *this);
   auto tasks2 = saveGamesAsync(std::span {tournaments}, *this);
-  std::ranges::for_each(tasks1, [](auto&& task) { stlab::await(std::move(task)); });
-  std::ranges::for_each(tasks2, [](auto&& task) { stlab::await(std::move(task)); });
+  std::ranges::for_each(tasks1, [](auto&& task) { stlab::await(std::forward<Future<void>>(task)); });
+  std::ranges::for_each(tasks2, [](auto&& task) { stlab::await(std::forward<Future<void>>(task)); });
   transaction.commit();
 }
 
@@ -372,7 +373,7 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
                             if (!playerName.empty()) {
                               handPlayerInsert.handId(pHand->getId())
                                   .playerName(playerName)
-                                  .playerSeat(tableSeat::fromArrayIndex(static_cast<std::int64_t>(index)))
+                                  .playerSeat(tableSeat::fromArrayIndex(index))
                                   .isWinner(pHand->isWinner(playerName))
                                   .newInsert();
                             }
@@ -387,7 +388,7 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
   LOG().trace<"exit saveHands()">();
 }
 
-enum class /*[[nodiscard]]*/ QueryResult : short { NO_MORE_ROWS, ONE_ROW_OR_MORE };
+enum class /*[[nodiscard]]*/ QueryResult : std::uint8_t { NO_MORE_ROWS, ONE_ROW_OR_MORE };
 
 class [[nodiscard]] PreparedStatement final {
 private:
