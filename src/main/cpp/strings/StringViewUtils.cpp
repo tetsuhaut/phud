@@ -21,8 +21,17 @@ template <typename T>
   if (str.empty()) {
     return result;
   }
-  const std::span<const char> buffer = {str.data(), str.size()};
-  const auto [ptr, ec] {std::from_chars(buffer.data(), buffer.data() + buffer.size(), result)};
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#endif
+
+  const auto [ptr, ec] = std::from_chars(str.data(), str.data() + str.size(), result);
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
 
   if (ec != std::errc {}) {
     throw std::invalid_argument(fmt::format("Failed to convert '{}' to {}", s, typeid(T).name()));
@@ -80,6 +89,11 @@ double phud::strings::toDouble(std::string_view amount) {
   double ret = 0;
   const std::span<const char> buffer = {str.data(), str.size()};
 
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#endif
+
   if (const auto [ptr, ec] = std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret);
       ec == std::errc::result_out_of_range) {
     LOG().error<"phud::strings::toDouble({})">(amount);
@@ -88,6 +102,11 @@ double phud::strings::toDouble(std::string_view amount) {
     LOG().error<"Out of range value">();
     return 0;
   }
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
   return ret;
 }
 

@@ -39,10 +39,7 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
     std::unique_lock<std::mutex> lock(mutex);
     cv.wait_for(lock, std::chrono::seconds(2), [&]() { return !changedFiles.empty(); });
   }
-
   dw->stop();
-
-  // stop() is now synchronous, so no need to lock after it returns
   BOOST_REQUIRE(!changedFiles.empty());
   BOOST_REQUIRE(tmpFile.path().stem().string() == changedFiles.front());
 }

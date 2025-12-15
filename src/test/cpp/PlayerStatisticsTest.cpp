@@ -26,35 +26,35 @@ BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_computeVoluntaryPutMoneyInPotShouldSuc
   /* TODO à finir
   BOOST_REQUIRE(0 < pHero->getAggressionFactor());
   BOOST_REQUIRE(4 >= pHero->getAggressionFactor());  */
-  BOOST_REQUIRE(0 == pHero->getCallFlopCheckRaise());
-  BOOST_REQUIRE(0 == pHero->getCallDonkBet());
-  BOOST_REQUIRE(0 == pHero->getCallFlopContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getCallRiverContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getCallThreeBet());
-  BOOST_REQUIRE(0 == pHero->getCallTurnContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getDonkBet());
-  BOOST_REQUIRE(0 == pHero->getFlopCheckRaise());
-  BOOST_REQUIRE(0 == pHero->getFlopContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToDonkBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToFlopCheckRaise());
-  BOOST_REQUIRE(0 == pHero->getFoldToFlopContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToPreFlopRaise());
-  BOOST_REQUIRE(0 == pHero->getFoldToRaiseAfterDonkBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToRaiseAfterFlopContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToRaiseAfterRiverContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToRaiseAfterTurnContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToRiverContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToThreeBet());
-  BOOST_REQUIRE(0 == pHero->getFoldToTurnContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getLimpOrCallPreFlopRaise());
-  BOOST_REQUIRE(0 == pHero->getRaiseAfterDonkBet());
-  BOOST_REQUIRE(0 == pHero->getRaiseAfterFlopContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getRaiseAfterRiverContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getRaiseAfterTurnContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getRiverContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getPreflopThreeBet());
-  BOOST_REQUIRE(0 == pHero->getTurnContinuationBet());
-  BOOST_REQUIRE(0 == pHero->getWentToShowDown());
+  BOOST_REQUIRE_SMALL(pHero->getCallFlopCheckRaise(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getCallDonkBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getCallFlopContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getCallRiverContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getCallThreeBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getCallTurnContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getDonkBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFlopCheckRaise(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFlopContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToDonkBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToFlopCheckRaise(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToFlopContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToPreFlopRaise(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToRaiseAfterDonkBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToRaiseAfterFlopContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToRaiseAfterRiverContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToRaiseAfterTurnContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToRiverContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToThreeBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getFoldToTurnContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getLimpOrCallPreFlopRaise(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getRaiseAfterDonkBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getRaiseAfterFlopContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getRaiseAfterRiverContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getRaiseAfterTurnContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getRiverContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getPreflopThreeBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getTurnContinuationBet(), 1e-6);
+  BOOST_REQUIRE_SMALL(pHero->getWentToShowDown(), 1e-6);
 }
 
 BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_computePreflopRaiseShouldSucceed) { /*TODO*/ }

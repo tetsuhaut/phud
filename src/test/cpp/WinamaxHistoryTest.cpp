@@ -124,7 +124,18 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   BOOST_REQUIRE(6 == hands[1]->viewActions().size());
   /* check that the 5 first players folded preflop */
   const auto actions = hands[1]->viewActions();
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#endif
+
   const auto firstFive = std::span(&actions[0], &actions[5]);
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
   std::ranges::for_each(firstFive, [](const auto& action) {
     BOOST_REQUIRE(Street::preflop == action->getStreet());
     BOOST_REQUIRE(ActionType::fold == action->getType());

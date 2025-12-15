@@ -29,7 +29,7 @@ public:
   ~StatsProducer();
   /**
    * Watches table data. Each time a new one is created put it in statsQueue.
-   * @statsQueue list of TableStatistics
+   * @param statsQueue list of TableStatistics
    */
   void start(ThreadSafeQueue<TableStatistics>& statsQueue) const;
   void stop() const;

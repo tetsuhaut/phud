@@ -61,7 +61,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
     BOOST_REQUIRE(i == std::make_unsigned_t<int>(pAction->getIndex()));
     BOOST_REQUIRE("531302705944068104-65-1437230557" == pAction->getHandId());
   });
-  BOOST_REQUIRE(3200 == pHand->viewActions().front()->getBetAmount());
+  BOOST_REQUIRE_CLOSE(pHand->viewActions().front()->getBetAmount(), 3200.0, 0.01);
   BOOST_REQUIRE(5 == pHand->viewActions().size());
 }
 

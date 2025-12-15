@@ -33,17 +33,17 @@ getOptionalDbAndHistory(std::span<const char* const> args) {
     return {};
   }
 
-  const std::string_view flag1 {args[1]};
+  const std::string_view flag1 = args[1];
 
-  if (const std::string_view flag2 {args[3]};
+  if (const std::string_view flag2 = args[3];
       ("-b" != flag1 and "-d" != flag1) or ("-b" != flag2 and "-d" != flag2)) {
     LOG().error<"Wrong arguments.">();
     LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
     return {};
   }
 
-  const fs::path dbFile {("-b" == flag1) ? args[2] : args[4]};
-  const fs::path historyDir {("-b" == flag1) ? args[4] : args[2]};
+  const fs::path dbFile = ("-b" == flag1) ? args[2] : args[4];
+  const fs::path historyDir = ("-b" == flag1) ? args[4] : args[2];
 
   if (phud::filesystem::isFile(dbFile)) {
     LOG().error<"The database file\n{}\nalready exists and is in the way.">(dbFile.string());
@@ -64,11 +64,21 @@ int main(int argc, const char* const argv[]) {
   std::setlocale(LC_ALL, "en_US.utf8");
   MyLoggingConfig _;
 
-  if (const auto optionalRet {getOptionalDbAndHistory(std::span(argv, limits::toSizeT(argc)))};
-      optionalRet.has_value()) {
-    const auto [dbFile, historyDir] {optionalRet.value()};
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#endif
+
+  const std::span args = {argv, argv + argc};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
+  if (const auto oRet = getOptionalDbAndHistory(args); oRet.has_value()) {
+    const auto [dbFile, historyDir] = oRet.value();
     const auto pSite = PokerSiteHistory::load(historyDir);
-    Database db {dbFile.string()};
+    auto db = Database(dbFile.string());
     db.save(*pSite);
     return 0;
   }

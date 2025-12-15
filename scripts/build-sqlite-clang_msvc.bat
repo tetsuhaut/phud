@@ -6,35 +6,40 @@ IF NOT DEFINED COMPILER ECHO need to define COMPILER && EXIT /B 1
 where /q ninja || ECHO Could not find the ninja command. Check that it is in the path. && EXIT /B 1
 
 SET LIB_NAME=sqlite
-SET SRC_DIR=%~dp0\%LIB_NAME%-amalgamation-3.38.0
+SET SRC_DIR=%LIB_NAME%-amalgamation-3.51.1
 IF EXIST %SRC_DIR% goto :build
 IF EXIST %SRC_DIR%.zip (
   7z x %SRC_DIR%.zip
   goto :build
 )
+ECHO Could not find the archive file %SRC_DIR%.zip
+
 IF EXIST %SRC_DIR%.tar.gz (
   7z x %SRC_DIR%.tar.gz
   7z x %SRC_DIR%.tar
   DEL %SRC_DIR%.tar
   goto :build
 )
+
 ECHO Could not find the archive file %SRC_DIR%.tar.gz
 EXIT /B 1
 
 :build
-SET BUILD_DIR=%~dp0\%LIB_NAME%-build-%COMPILER%
+SET BUILD_DIR=%LIB_NAME%-build-%COMPILER%
 IF EXIST %BUILD_DIR% (RMDIR /Q /S %BUILD_DIR%)
 MKDIR %BUILD_DIR%
 PUSHD %BUILD_DIR%
+
 cmake ^
   -G "Ninja" ^
   -DCMAKE_C_COMPILER=clang ^
-  -DCMAKE_CXX_COMPILER=clang++ ^
   -D CMAKE_BUILD_TYPE=Debug ^
-  -D CMAKE_INSTALL_PREFIX=%BUILD_DIR%/install ^
-%SRC_DIR%
-powershell -Command "(gc CMakeCache.txt) -replace '/MD', '/MT' | Out-File -encoding ASCII CMakeCache.txt"
-REM powershell -Command "(gc CMakeCache.txt) -replace '/W3', '/W4' | Out-File -encoding ASCII CMakeCache.txt"
+  -D CMAKE_INSTALL_PREFIX=install ^
+  -D ENABLE_SHARED=OFF ^
+  -D ENABLE_STATIC=ON ^
+  -D BUILD_SHELL=OFF ^
+  -D CMAKE_MSVC_RUNTIME_LIBRARY="MultiThreaded$<$<CONFIG:Debug>:Debug>" ^
+../%SRC_DIR%
 ninja install
 POPD
 ENDLOCAL

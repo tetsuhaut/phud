@@ -75,38 +75,6 @@ getHistoryFilesOrErrorMessage(const fs::path& dir, const fs::path& histoDir) {
 // disable other types than const std::filesystem::path&
 std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
 
-std::vector<Future<Site*>> parseFilesAsync(std::span<const fs::path> files, std::atomic_bool& stop,
-                                           const auto& onProgress) {
-  std::vector<Future<Site*>> ret;
-  ret.reserve(files.size());
-  std::transform(
-      files.cbegin(), files.cend(), std::back_inserter(ret),
-      [&onProgress, &stop](const auto& file) {
-        if (stop) {
-          return Future<Site*>();
-        }
-
-        return ThreadPool::submit([file, onProgress, stop = std::ref(stop)]() {
-          Site* pSite {nullptr};
-
-          try {
-            pSite = WinamaxGameHistory::parseGameHistory(file).release();
-          } catch (const std::exception& e) {
-            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
-          } catch (const char* str) {
-            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), str);
-          }
-
-          if (!stop.get() and onProgress) {
-            onProgress();
-          }
-
-          return pSite;
-        });
-      });
-  return ret;
-}
-
 // Parse files in batches to limit concurrency and reduce memory pressure
 // Uses a shared PlayerCache to avoid creating duplicate Player objects
 std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> files,
@@ -135,25 +103,25 @@ std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> file
         break;
       }
       batchTasks.push_back(
-          ThreadPool::submit([file, onProgress, stop = std::ref(stop), &sharedCache]() {
-            Site* pSite = nullptr;
+        ThreadPool::submit([file, onProgress, aStop = std::ref(stop), &sharedCache]() {
+          Site* pSite = nullptr;
 
-            try {
-              // Use shared cache to avoid creating duplicate players
-              pSite = WinamaxGameHistory::parseGameHistory(file, sharedCache).release();
-            } catch (const std::exception& e) {
-              LOG().error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
-            } catch (const char* str) {
-              LOG().error<"Exception loading the file {}: {}">(file.filename().string(), str);
-            }
+          try {
+            // Use shared cache to avoid creating duplicate players
+            pSite = WinamaxGameHistory::parseGameHistory(file, sharedCache).release();
+          } catch (const std::exception& e) {
+            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
+          } catch (const char* str) {
+            LOG().error<"Exception loading the file {}: {}">(file.filename().string(), str);
+          }
 
-            if (!stop.get() and onProgress) {
-              onProgress();
-            }
+          if (!aStop.get() and onProgress) {
+            onProgress();
+          }
 
-            return pSite;
-          }));
-    }
+          return pSite;
+        }));
+    } // for
 
     // Wait for current batch to complete before starting next batch
     std::ranges::for_each(batchTasks, [](auto& task) {

@@ -25,7 +25,7 @@ namespace phud::algorithms {
 template <typename MAP, typename KEY>
 [[nodiscard]] auto findOrDefault(const MAP& m, const KEY& k) {
   const auto& ret {m.find(k)};
-  return (std::end(m) == ret) ? MAP::mapped_type() : ret->second;
+  return (std::end(m) == ret) ? typename MAP::mapped_type() : ret->second;
 }
 
 template <typename CONTAINER, typename T>
@@ -125,7 +125,7 @@ auto SRC_FILES {[]() {
 const auto CPP_FILES = getSrcFiles(SRC_FILES, ".cpp");
 const auto HPP_FILES = getSrcFiles(SRC_FILES, ".hpp");
 const auto H_FILES = getSrcFiles(SRC_FILES, ".h");
-auto MY_SRC_FILES = getMySrcFiles(SRC_FILES);
+const auto MY_SRC_FILES = getMySrcFiles(SRC_FILES);
 const auto H_HPP_FILES = getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES));
 
 /**
@@ -142,7 +142,7 @@ const auto& FILE_INCLUSIONS = []() {
   // std::unordered_map doesn't accept fs::path as a key
   std::map<fs::path, std::vector<fs::path>, pf::PathComparator> ret;
   std::ranges::for_each(SRC_FILES, [&ret](const auto& file) {
-    auto includes = ret[file];
+    auto& includes = ret[file];
     /* we do not check includes from STL, or from thirdParty */
     auto tfl = TextFile(file);
 
@@ -434,8 +434,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noIncludePathShouldHaveAntiSlashPathS
         continue;
       }
 
-      if (const auto includePath = extractInclude(tfl.getLine());
-          ps::contains(includePath, '\\')) {
+      if (const auto includePath = extractInclude(tfl.getLine()); ps::contains(includePath, '\\')) {
         LOG().warn<"The file {} contains an include path '{}' with anti slashes.">(file.string(),
                                                                                    includePath);
       }

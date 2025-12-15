@@ -11,7 +11,7 @@
 #include "phud/ProgramArguments.hpp" // ProgramArgumentsException, UserAskedForHelpException
 
 #if defined(_WIN32)
-#  include <windows.h> // WinMain. must be included before tlhelp32.h
+#  include <Windows.h> // WinMain. must be included before tlhelp32.h
 #endif                 // _WIN32
 
 #include <csignal> // std::signal(), SIG_DFL, SIGABRT
@@ -102,7 +102,17 @@ int main(int argc, const char* const* const argv) {
   auto nbErr = 0;
 
   try {
-    const auto args = std::span(argv, limits::toSizeT(argc));
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#endif
+
+  const std::span args = {argv, argv + argc};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
     const auto& [oHistoDir, loggingLevel,
                  loggingPattern] {ProgramConfiguration::readConfiguration(args)};
     LoggingConfig _(loggingPattern);

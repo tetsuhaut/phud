@@ -70,6 +70,7 @@ struct [[nodiscard]] FileStem final {
 // 20170305_Memphis 06_play_omaha_pot-limit
 // "\\d{ 8 }_(.*)_(real|play)?_(.*)_(.*)"
 // !!! exported for unit testing !!!
+std::optional<FileStem> parseFileStem(std::string_view fileStem);
 std::optional<FileStem> parseFileStem(std::string_view fileStem) {
   LOG().info<"Parsing the file stem {}.">(fileStem);
   FileStem ret = {};

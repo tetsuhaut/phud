@@ -360,7 +360,7 @@ target_link_libraries(unitTests PRIVATE Microsoft.GSL::GSL)
 # https://github.com/azadkuh/sqlite-amalgamation
 ################################################################################
 find_package(SQLite3 REQUIRED CONFIG) # see https://github.com/rhuijben/sqlite-amalgamation/issues/8 for getting the version
-target_link_libraries(mainLib PRIVATE SQLite::SQLite3)
+target_link_libraries(mainLib PRIVATE SQLite::sqlite3-static)
 
 ################################################################################
 # will use the spdlog library, so configure the project for it

@@ -12,4 +12,6 @@ SET CMAKE_GENERATOR=
 SET BUILD_DIR=
 SET BIN_DIR=
 ENDLOCAL
+pushd build-phud-%COMPILER%
+ECHO ^cls ^&^& ^ninja ^clean ^&^& ^ninja > %BUILD_DIR%\build.bat
 @ECHO ON

@@ -38,7 +38,7 @@ PeriodicTask::~PeriodicTask() {
 void PeriodicTask::stop() const {
   if (!m_pImpl->m_taskIsStopped) {
     {
-      std::unique_lock lock {m_pImpl->m_mutex}; // noexcept
+      auto lock = std::unique_lock<std::mutex>(m_pImpl->m_mutex); // noexcept
       m_pImpl->m_futureTaskResult.reset();      // noexcept
       m_pImpl->m_stop = true;
       m_pImpl->m_cv.notify_all(); // noexcept
@@ -49,7 +49,7 @@ void PeriodicTask::stop() const {
 
 void PeriodicTask::join() const {
   if (!m_pImpl->m_taskIsStopped) {
-    std::unique_lock lock {m_pImpl->m_mutex};
+    auto lock = std::unique_lock<std::mutex>(m_pImpl->m_mutex);
     // wait is not noexcept
     m_pImpl->m_cv.wait(lock, [this]() noexcept { return m_pImpl->m_taskIsStopped.load(); });
   }
@@ -68,7 +68,7 @@ void PeriodicTask::start(const std::function<PeriodicTaskStatus()>& task) const 
   m_pImpl->m_taskIsStopped = false;
   m_pImpl->m_futureTaskResult = ThreadPool::submit([this, task]() {
     do {
-      std::unique_lock lock {m_pImpl->m_mutex};
+      auto lock = std::unique_lock<std::mutex>(m_pImpl->m_mutex);
       const auto timeout = std::chrono::steady_clock::now() + m_pImpl->m_period;
 
       // listen to spurious wakes

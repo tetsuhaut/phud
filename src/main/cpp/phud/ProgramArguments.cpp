@@ -91,8 +91,8 @@ listUnknownArguments(std::span<const char* const> arguments) {
 }
 
 template <StringLiteral STR>
-[[nodiscard]] constexpr static bool isEqualTo(const char* const str) noexcept {
-  return 0 == std::strcmp(str, &STR.value[0]);
+[[nodiscard]] constexpr static bool isEqualTo(std::string_view str) noexcept {
+  return str == &STR.value[0];
 }
 
 /**
@@ -102,7 +102,7 @@ template <StringLiteral STR>
  * - Else, understands -d or --winamaxDir <dir>: import the history into the database.
  *                     -l or --log_level <log_level> : defines the logging level.
  * @returns the hand history directory, and the logging level
- * @throws UserAskedForHelpException
+ * @throws UserAskedForHelpException if args contains "-h" or "--help"
  */
 /*[[nodiscard]]*/
 std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
