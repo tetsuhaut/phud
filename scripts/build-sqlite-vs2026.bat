@@ -4,6 +4,9 @@ SETLOCAL
 
 IF NOT DEFINED COMPILER ECHO need to define COMPILER && EXIT /B 1
 where /q ninja || ECHO Could not find the ninja command. Check that it is in the path. && EXIT /B 1
+where /q cl || ECHO Could not find the cl command. Check that it is in the path. && EXIT /B 1
+WHERE /q clang && (echo ERROR: clang is in the PATH! && EXIT /B 1)
+WHERE /q gcc && (echo ERROR: gcc is in the PATH! && EXIT /B 1)
 
 SET LIB_NAME=sqlite
 SET SRC_DIR=%LIB_NAME%-amalgamation-3.51.1
@@ -37,6 +40,7 @@ cmake ^
   -D ENABLE_SHARED=OFF ^
   -D ENABLE_STATIC=ON ^
   -D BUILD_SHELL=OFF ^
+  -D ENABLE_DYNAMIC_EXTENSIONS=OFF ^
   -D CMAKE_MSVC_RUNTIME_LIBRARY="MultiThreaded$<$<CONFIG:Debug>:Debug>" ^
 ../%SRC_DIR%
 ninja install

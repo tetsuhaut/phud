@@ -7,6 +7,10 @@ REM copy b2.exe ..\..\..\..\b2.exe
 REM -static : Link statique complet
 REM -static-libgcc : Runtime GCC statique
 REM -static-libstdc++ : Librairie C++ statique
+REM avoid mixing compilers
+WHERE clang >nul 2>&1 && (echo ERROR: clang is in the PATH! && EXIT /B 1)
+WHERE cl >nul 2>&1 && (echo ERROR: cl is in the PATH! && EXIT /B 1)
+
 SETLOCAL
 SET TOOLSET=gcc
 SET MAKE_EXECUTABLE=ninja

@@ -4,6 +4,8 @@ SETLOCAL
 
 IF NOT DEFINED COMPILER ECHO need to define COMPILER && EXIT /B 1
 where /q ninja || ECHO Could not find the ninja command. Check that it is in the path. && EXIT /B 1
+WHERE /q clang && (echo ERROR: clang is in the PATH! && EXIT /B 1)
+WHERE /q gcc && (echo ERROR: gcc is in the PATH! && EXIT /B 1)
 
 SET LIB_NAME=libraries
 SET SRC_DIR=%LIB_NAME%-2.1.4

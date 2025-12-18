@@ -1,7 +1,10 @@
 @ECHO OFF
 REM no SETLOCAL to stay in the build dir so that "test" works
-where /q cl.exe || ECHO Could not find the devenv.exe program. Check that it is in the path. && EXIT /B 1
-where /q ninja.exe || ECHO Could not find the devenv.exe program. Check that it is in the path. && EXIT /B 1
+WHERE /q cl.exe || ECHO Could not find the devenv.exe program. Check that it is in the path. && EXIT /B 1
+WHERE /q ninja.exe || ECHO Could not find the devenv.exe program. Check that it is in the path. && EXIT /B 1
+WHERE /q clang && (echo ERROR: clang is in the PATH! && EXIT /B 1)
+WHERE /q gcc && (echo ERROR: gcc is in the PATH! && EXIT /B 1)
+
 SET CMAKE_GENERATOR=Ninja
 SET BUILD_DIR=build
 SET BIN_DIR=bin\Debug
