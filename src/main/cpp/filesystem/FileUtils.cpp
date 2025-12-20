@@ -1,6 +1,7 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::string_view, std::vector
 #include "language/Validator.hpp"   // validation::
 #include "log/Logger.hpp"           // CURRENT_FILE_NAME
+#include "system/Time.hpp" // WINAMAX_HISTORY_TIME_FORMAT
 #include <gsl/gsl>                  // std::streamsize
 #include <chrono>                   // to_time_t
 #include <cstring>                  // std::strerror, strerror_s
@@ -145,10 +146,10 @@ std::string phud::filesystem::toString(const fs::file_time_type& ft) {
     LOG().error(msg.data());
     return "";
   }
-  oss << std::put_time(&calendarDateTime, "%Y/%m/%d %H:%M:%S");
+  oss << std::put_time(&calendarDateTime, WINAMAX_HISTORY_TIME_FORMAT);
 #else
-  oss << std::put_time(std::format("{}...", std::local."time(&posixTime), "%Y/%m/%d %H:%M:%S");
-#endif
+  oss << std::put_time(std::format("{}...", std::localtime(&posixTime), WINAMAX_HISTORY_TIME_FORMAT);
+#endif // _MSC_VER
   return oss.str();
 }
 
