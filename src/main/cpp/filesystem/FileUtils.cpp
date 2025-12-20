@@ -129,19 +129,19 @@ std::string phud::filesystem::toString(const fs::file_time_type& ft) {
   const auto posixTime = sc::system_clock::to_time_t(systemClockTimePoint);
   std::ostringstream oss;
 #if defined(_MSC_VER) // use localtime_s instead of std::localtime with _MSC_VER
-  std::tm calendarDateTime {.tm_sec = 0,
-                            .tm_min = 0,
-                            .tm_hour = 0,
-                            .tm_mday = 0,
-                            .tm_mon = 0,
-                            .tm_year = 0,
-                            .tm_wday = 0,
-                            .tm_yday = 0,
-                            .tm_isdst = 0};
+  std::tm calendarDateTime = {.tm_sec = 0,
+                              .tm_min = 0,
+                              .tm_hour = 0,
+                              .tm_mday = 0,
+                              .tm_mon = 0,
+                              .tm_year = 0,
+                              .tm_wday = 0,
+                              .tm_yday = 0,
+                              .tm_isdst = 0};
 
   if (const auto errorCode {localtime_s(&calendarDateTime, &posixTime)}; 0 != errorCode)
       [[unlikely]] {
-    std::array<char, 256> msg {0};
+    std::array<char, 256> msg = {0};
     std::ignore = strerror_s(msg.data(), msg.size(), errorCode);
     LOG().error(msg.data());
     return "";
@@ -253,11 +253,9 @@ std::vector<fs::path> phud::filesystem::listFilesMatchingPattern(const fs::path&
 
   for (const auto& dirEntry : fs::directory_iterator(dir)) {
     if (dirEntry.is_regular_file()) {
-      const auto filename = dirEntry.path().filename().string();
-      if (!filename.empty()) {
-        if (matchesPattern(filename, pattern)) {
-          ret.push_back(dirEntry.path());
-        }
+      if (const auto filename = dirEntry.path().filename().string();
+        !filename.empty() && matchesPattern(filename, pattern)) {
+        ret.push_back(dirEntry.path());
       }
     }
   }
