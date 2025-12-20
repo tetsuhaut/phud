@@ -18,6 +18,11 @@ public:
   newInstance(const std::filesystem::path& historyDir);
   static std::unique_ptr<PokerSiteHistory> newInstance(auto) = delete;
   virtual ~PokerSiteHistory();
+  PokerSiteHistory() = default;
+  PokerSiteHistory(const PokerSiteHistory&) = delete;
+  PokerSiteHistory& operator=(const PokerSiteHistory&) = delete;
+  PokerSiteHistory(PokerSiteHistory&&) noexcept = default;
+  PokerSiteHistory& operator=(PokerSiteHistory&&) noexcept = default;
 
   /**
    * @returns a Site containing all the games which history files are located in

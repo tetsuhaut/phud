@@ -57,7 +57,6 @@ static Logger& LOG() {
 }
 
 namespace fs = std::filesystem;
-namespace pf = phud::filesystem;
 
 /**
  * An Fl_Double_Window with disabled 'close on Esc key' behavior
@@ -121,7 +120,7 @@ struct [[nodiscard]] Gui::Implementation final {
 
 namespace {
   /* in anonymous namespace as type definitions can't be static */
-  enum class [[nodiscard]] FileChoiceStatus : short { ok = 0, error = -1, cancel = 1 };
+  enum class [[nodiscard]] FileChoiceStatus : std::int8_t { ok = 0, error = -1, cancel = 1 };
 
   /**
    * From Fl_get_system_colors.cxx :
@@ -601,7 +600,7 @@ namespace {
   buildTableWatcher(Fl_Box* pWatchedTableLabel,
                     TableWindowTitleToTablePlayerIndicators& playerIndicators,
                     TableService& tableService) {
-    TableWatcher::TableWindowsDetectedCallback onTableWindowsDetectedCb {
+    const TableWatcher::TableWindowsDetectedCallback onTableWindowsDetectedCb =
         [pWatchedTableLabel, &playerIndicators,
          &tableService](std::span<const std::string> tableWindowTitles) {
           scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService,
@@ -612,7 +611,7 @@ namespace {
             removeUselessPlayerIndicators(playerIndicators, twt, tableService);
             updateUsefulPlayerIndicators(playerIndicators, twt, tableService);
           });
-        }};
+        };
 
     return std::make_unique<TableWatcher>(onTableWindowsDetectedCb);
   }

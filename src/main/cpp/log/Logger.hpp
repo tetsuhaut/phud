@@ -107,17 +107,17 @@ public:
  * @return position of the 1st file name character in str
  */
 template <typename CHAR_TYPE, std::size_t ARRAY_LENGTH>
-constexpr std::size_t getFileNameOffset(const CHAR_TYPE (&str)[ARRAY_LENGTH],
-                                        const std::size_t startPos = ARRAY_LENGTH - 1) {
+constexpr std::size_t getFileNameOffset(const CHAR_TYPE (&str)[ARRAY_LENGTH]) {
   if constexpr (ARRAY_LENGTH == 1) {
     return 0;
   }
   const std::span<const CHAR_TYPE, ARRAY_LENGTH> buffer {str};
-  // by construction, startPos cannot be out of scope
-  if (('/' == buffer[startPos]) or ('\\' == buffer[startPos])) {
-    return startPos + 1;
+  for (std::size_t i = ARRAY_LENGTH - 1; i > 0; --i) {
+    if (('/' == buffer[i]) or ('\\' == buffer[i])) {
+      return i + 1;
+    }
   }
-  return (startPos > 0) ? getFileNameOffset(str, startPos - 1) : 0;
+  return 0;
 }
 
 struct [[nodiscard]] LoggingConfig final {

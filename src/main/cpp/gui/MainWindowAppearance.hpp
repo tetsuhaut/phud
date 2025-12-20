@@ -39,15 +39,15 @@ namespace MainWindow::Screen {
   constexpr phud::Rectangle histoDirTextField {.x = chooseHistoDirBtn.w + 2 * space,
                                                .y = chooseHistoDirBtn.y,
                                                .w = mainWindowWidth - chooseHistoDirBtn.w -
-                                                    3 * space,
+                                                    (3 * space),
                                                .h = elemHeight};
   constexpr phud::Rectangle progressBar {.x = space,
                                          .y = chooseHistoDirBtn.y + chooseHistoDirBtn.h + space,
-                                         .w = mainWindowWidth - 2 * space,
+                                         .w = mainWindowWidth - (2 * space),
                                          .h = elemHeight};
   constexpr phud::Rectangle watchedTableLabel {.x = space,
                                                .y = progressBar.y + progressBar.h + space,
-                                               .w = mainWindowWidth - buttonWidth - 3 * space,
+                                               .w = mainWindowWidth - buttonWidth - (3 * space),
                                                .h = elemHeight};
   constexpr phud::Rectangle stopHudBtn {.x = mainWindowWidth - buttonWidth - space,
                                         .y = progressBar.y + progressBar.h + space,

@@ -360,11 +360,12 @@ target_link_libraries(unitTests PRIVATE Microsoft.GSL::GSL)
 # https://github.com/azadkuh/sqlite-amalgamation
 ################################################################################
 find_package(SQLite3 REQUIRED CONFIG) # see https://github.com/rhuijben/sqlite-amalgamation/issues/8 for getting the version
+target_link_libraries(mainLib PRIVATE SQLite::sqlite3-static)
+target_link_libraries(unitTests PRIVATE SQLite::sqlite3-static)
 if(MSVC)
-    # a bug in sqlite3 CmakeLists.txt file makes us do this horror
-    target_link_libraries(unitTests PRIVATE sqlite3_s Rpcrt4)
-else()
-    target_link_libraries(unitTests PRIVATE sqlite3_s)
+    # the sqlite3 cmake package is bugged for msvc
+    target_link_libraries(mainLib PRIVATE Rpcrt4)
+    target_link_libraries(unitTests PRIVATE Rpcrt4)
 endif()
 
 ################################################################################
