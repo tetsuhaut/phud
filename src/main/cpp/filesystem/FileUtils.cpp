@@ -148,7 +148,7 @@ std::string phud::filesystem::toString(const fs::file_time_type& ft) {
   }
   oss << std::put_time(&calendarDateTime, WINAMAX_HISTORY_TIME_FORMAT);
 #else
-  oss << std::put_time(std::format("{}...", std::localtime(&posixTime), WINAMAX_HISTORY_TIME_FORMAT);
+  oss << std::put_time(std::localtime(&posixTime), WINAMAX_HISTORY_TIME_FORMAT);
 #endif // _MSC_VER
   return oss.str();
 }
