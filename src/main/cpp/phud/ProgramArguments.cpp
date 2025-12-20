@@ -49,13 +49,13 @@ parseHistoryDir(std::span<const char* const> arguments) {
 }
 
 namespace {
-[[nodiscard]] constexpr char toLowerChar(char c) noexcept {
-  // Simple implementation that avoids std::tolower and its int->char cast
-  if (c >= 'A' && c <= 'Z') {
-    return c + ('a' - 'A');
+  [[nodiscard]] constexpr char toLowerChar(char c) noexcept {
+    // Simple implementation that avoids std::tolower and its int->char cast
+    if (c >= 'A' && c <= 'Z') {
+      return c + ('a' - 'A');
+    }
+    return c;
   }
-  return c;
-}
 } // anonymous namespace
 
 [[nodiscard]] static std::string toLowerCase(std::string_view str) {

@@ -39,148 +39,149 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 namespace {
-constexpr std::string_view IN_MEMORY {":memory:"};
+  constexpr std::string_view IN_MEMORY {":memory:"};
 
-/**
- * Opens the database, this will create the database file if needed.
- * @throws DatabaseException in case of error
- */
-gsl::not_null<sqlite3*> openDatabase(std::string_view dbName) {
-  sqlite3* pDb {nullptr};
+  /**
+   * Opens the database, this will create the database file if needed.
+   * @throws DatabaseException in case of error
+   */
+  gsl::not_null<sqlite3*> openDatabase(std::string_view dbName) {
+    sqlite3* pDb {nullptr};
 
-  if (SQLITE_OK != sqlite3_open(dbName.data(), &pDb)) {
-    // sqlite3_errmsg() and sqlite3_close() are null safe
-    const auto msg = (nullptr != pDb) ? sqlite3_errmsg(pDb) : "Failed to allocate database handle";
-    sqlite3_close(pDb); // try to free pDb
-    throw DatabaseException(fmt::format("Can't open database file '{}': {}", dbName, msg));
+    if (SQLITE_OK != sqlite3_open(dbName.data(), &pDb)) {
+      // sqlite3_errmsg() and sqlite3_close() are null safe
+      const auto msg =
+          (nullptr != pDb) ? sqlite3_errmsg(pDb) : "Failed to allocate database handle";
+      sqlite3_close(pDb); // try to free pDb
+      throw DatabaseException(fmt::format("Can't open database file '{}': {}", dbName, msg));
+    }
+
+    return pDb;
   }
 
-  return pDb;
-}
+  /**
+   * Runs a query against the database.
+   * @throws DatabaseException if an error occurs
+   */
+  void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_view sql) {
+    LOG().trace(sql);
 
-/**
- * Runs a query against the database.
- * @throws DatabaseException if an error occurs
- */
-void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_view sql) {
-  LOG().trace(sql);
-
-  if (SQLITE_OK != sqlite3_exec(pDb, sql.data(), /*callback*/ nullptr, /*callbackParam*/ nullptr,
-                                /*errorMsg*/ nullptr)) {
-    throw DatabaseException(
-        fmt::format("Can't execute the query\n{}\nerror message:\n{}\n", sql, sqlite3_errmsg(pDb)));
-  }
-}
-
-/**
- * @throws DatabaseException in case of problem getting the query SQL code or opening the database
- * file
- */
-[[nodiscard]] gsl::not_null<sqlite3*> createDatabase(std::string_view name) {
-  validation::requireNonEmpty(name, "db name");
-  const auto dbFile = fs::path(name);
-  const auto isDbCreation = !pf::isFile(dbFile);
-
-  if (isDbCreation) {
-    LOG().info<"Creating the database {}">(IN_MEMORY == name ? "in memory"
-                                                             : pf::absolute(dbFile).string());
-  } else {
-    LOG().info<"Opening the existing database file {}, no schema created.">(
-        pf::absolute(dbFile).string());
+    if (SQLITE_OK != sqlite3_exec(pDb, sql.data(), /*callback*/ nullptr, /*callbackParam*/ nullptr,
+                                  /*errorMsg*/ nullptr)) {
+      throw DatabaseException(fmt::format("Can't execute the query\n{}\nerror message:\n{}\n", sql,
+                                          sqlite3_errmsg(pDb)));
+    }
   }
 
-  const auto pDb = openDatabase(name); // will create the database file if needed
+  /**
+   * @throws DatabaseException in case of problem getting the query SQL code or opening the database
+   * file
+   */
+  [[nodiscard]] gsl::not_null<sqlite3*> createDatabase(std::string_view name) {
+    validation::requireNonEmpty(name, "db name");
+    const auto dbFile = fs::path(name);
+    const auto isDbCreation = !pf::isFile(dbFile);
 
-  if (isDbCreation) {
-    LOG().info<"creating the database schema {}">(name);
-    std::ranges::for_each(phud::sql::CREATE_QUERIES,
-                          [pDb](const auto& query) { executeSql(pDb, query); });
-    LOG().info<"database created">();
+    if (isDbCreation) {
+      LOG().info<"Creating the database {}">(IN_MEMORY == name ? "in memory"
+                                                               : pf::absolute(dbFile).string());
+    } else {
+      LOG().info<"Opening the existing database file {}, no schema created.">(
+          pf::absolute(dbFile).string());
+    }
+
+    const auto pDb = openDatabase(name); // will create the database file if needed
+
+    if (isDbCreation) {
+      LOG().info<"creating the database schema {}">(name);
+      std::ranges::for_each(phud::sql::CREATE_QUERIES,
+                            [pDb](const auto& query) { executeSql(pDb, query); });
+      LOG().info<"database created">();
+    }
+
+    return pDb;
   }
 
-  return pDb;
-}
+  static_assert(ps::contains(phud::sql::INSERT_CASHGAME_HAND, '?'), "ill-formed SQL template");
+  static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT_HAND, '?'), "ill-formed SQL template");
+  constexpr auto GAME_TYPE_TO_ID_AND_COLUMN_NAME {
+      frozen::make_unordered_map<GameType, std::string_view>(
+          {{GameType::cashGame, phud::sql::INSERT_CASHGAME_HAND},
+           {GameType::tournament, phud::sql::INSERT_TOURNAMENT_HAND}})};
 
-static_assert(ps::contains(phud::sql::INSERT_CASHGAME_HAND, '?'), "ill-formed SQL template");
-static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT_HAND, '?'), "ill-formed SQL template");
-constexpr auto GAME_TYPE_TO_ID_AND_COLUMN_NAME {
-    frozen::make_unordered_map<GameType, std::string_view>(
-        {{GameType::cashGame, phud::sql::INSERT_CASHGAME_HAND},
-         {GameType::tournament, phud::sql::INSERT_TOURNAMENT_HAND}})};
-
-void insertGame(const gsl::not_null<sqlite3*> db, const auto& g) {
-  static_assert(ps::contains(phud::sql::INSERT_GAME, '?'), "ill-formed SQL template");
-  executeSql(db, SqlInsertor(phud::sql::INSERT_GAME)
-                     .gameId(g.getId()) // use the tournament ID for the Game
-                     .siteName(g.getSiteName())
-                     .gameName(g.getName())
-                     .variant(g.getVariant())
-                     .limitType(g.getLimitType())
-                     .isRealMoney(g.isRealMoney())
-                     .nbMaxSeats(g.getMaxNbSeats())
-                     .startDate(g.getStartDate().toSqliteDate())
-                     .build());
-}
-
-void insertSpecificGame(const gsl::not_null<sqlite3*> db, const Tournament& t) {
-  LOG().info<"saving the tournament with id={}">(t.getId());
-  static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT, '?'), "ill-formed SQL template");
-  executeSql(db, SqlInsertor(phud::sql::INSERT_TOURNAMENT)
-                     .tournamentId(t.getId())
-                     .buyIn(t.getBuyIn())
-                     .build());
-}
-
-/**
- * @throws DatabaseException if an error occurs during the insert
- */
-void insertSpecificGame(const gsl::not_null<sqlite3*> db, const CashGame& cg) {
-  LOG().info<"saving the cash game with id={}">(cg.getId());
-  static_assert(ps::contains(phud::sql::INSERT_CASHGAME, '?'), "ill-formed SQL template");
-  executeSql(db, SqlInsertor(phud::sql::INSERT_CASHGAME)
-                     .cashGameId(cg.getId())
-                     .smallBlind(cg.getSmallBlind())
-                     .bigBlind(cg.getBigBlind())
-                     .build());
-}
-
-/**
- * @throws DatabaseException if an error occurs during the insert
- */
-void saveActions(const gsl::not_null<sqlite3*> db, std::span<const Action* const> actions) {
-  if (actions.empty()) {
-    return;
+  void insertGame(const gsl::not_null<sqlite3*> db, const auto& g) {
+    static_assert(ps::contains(phud::sql::INSERT_GAME, '?'), "ill-formed SQL template");
+    executeSql(db, SqlInsertor(phud::sql::INSERT_GAME)
+                       .gameId(g.getId()) // use the tournament ID for the Game
+                       .siteName(g.getSiteName())
+                       .gameName(g.getName())
+                       .variant(g.getVariant())
+                       .limitType(g.getLimitType())
+                       .isRealMoney(g.isRealMoney())
+                       .nbMaxSeats(g.getMaxNbSeats())
+                       .startDate(g.getStartDate().toSqliteDate())
+                       .build());
   }
 
-  static_assert(ps::contains(phud::sql::INSERT_ACTION, '?'), "ill-formed SQL template");
-  SqlInsertor query {phud::sql::INSERT_ACTION};
-  std::ranges::for_each(actions, [&query](const auto& pAction) {
-    query.street(pAction->getStreet())
-        .handId(pAction->getHandId())
-        .playerName(pAction->getPlayerName())
-        .actionType(pAction->getType())
-        .actionIndex(pAction->getIndex())
-        .betAmount(pAction->getBetAmount())
-        .newInsert();
-  });
-  executeSql(db, query.build());
-}
+  void insertSpecificGame(const gsl::not_null<sqlite3*> db, const Tournament& t) {
+    LOG().info<"saving the tournament with id={}">(t.getId());
+    static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT, '?'), "ill-formed SQL template");
+    executeSql(db, SqlInsertor(phud::sql::INSERT_TOURNAMENT)
+                       .tournamentId(t.getId())
+                       .buyIn(t.getBuyIn())
+                       .build());
+  }
 
-/**
- * @throws DatabaseException if an error occurs during the insert
- */
-void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) {
-  const auto hands = game.viewHands();
-  const auto gameId = game.getId();
-  insertGame(db, game);
-  insertSpecificGame(db, game);
-  LOG().info<"saving {} hands from the game with id={}">(hands.size(), gameId);
-  saveHands(db, gameId, hands);
-  std::ranges::for_each(hands, [db](const auto& h) {
-    LOG().trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
-    saveActions(db, h->viewActions());
-  });
-}
+  /**
+   * @throws DatabaseException if an error occurs during the insert
+   */
+  void insertSpecificGame(const gsl::not_null<sqlite3*> db, const CashGame& cg) {
+    LOG().info<"saving the cash game with id={}">(cg.getId());
+    static_assert(ps::contains(phud::sql::INSERT_CASHGAME, '?'), "ill-formed SQL template");
+    executeSql(db, SqlInsertor(phud::sql::INSERT_CASHGAME)
+                       .cashGameId(cg.getId())
+                       .smallBlind(cg.getSmallBlind())
+                       .bigBlind(cg.getBigBlind())
+                       .build());
+  }
+
+  /**
+   * @throws DatabaseException if an error occurs during the insert
+   */
+  void saveActions(const gsl::not_null<sqlite3*> db, std::span<const Action* const> actions) {
+    if (actions.empty()) {
+      return;
+    }
+
+    static_assert(ps::contains(phud::sql::INSERT_ACTION, '?'), "ill-formed SQL template");
+    SqlInsertor query {phud::sql::INSERT_ACTION};
+    std::ranges::for_each(actions, [&query](const auto& pAction) {
+      query.street(pAction->getStreet())
+          .handId(pAction->getHandId())
+          .playerName(pAction->getPlayerName())
+          .actionType(pAction->getType())
+          .actionIndex(pAction->getIndex())
+          .betAmount(pAction->getBetAmount())
+          .newInsert();
+    });
+    executeSql(db, query.build());
+  }
+
+  /**
+   * @throws DatabaseException if an error occurs during the insert
+   */
+  void saveGame(const gsl::not_null<sqlite3*> db, const auto& game) {
+    const auto hands = game.viewHands();
+    const auto gameId = game.getId();
+    insertGame(db, game);
+    insertSpecificGame(db, game);
+    LOG().info<"saving {} hands from the game with id={}">(hands.size(), gameId);
+    saveHands(db, gameId, hands);
+    std::ranges::for_each(hands, [db](const auto& h) {
+      LOG().trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
+      saveActions(db, h->viewActions());
+    });
+  }
 } // anonymous namespace
 
 struct [[nodiscard]] Database::Implementation final {
@@ -318,8 +319,10 @@ void Database::save(const Site& site) {
   const auto tournaments = site.viewTournaments();
   auto tasks1 = saveGamesAsync(std::span {cashGames}, *this);
   auto tasks2 = saveGamesAsync(std::span {tournaments}, *this);
-  std::ranges::for_each(tasks1, [](auto&& task) { stlab::await(std::forward<Future<void>>(task)); });
-  std::ranges::for_each(tasks2, [](auto&& task) { stlab::await(std::forward<Future<void>>(task)); });
+  std::ranges::for_each(tasks1,
+                        [](auto&& task) { stlab::await(std::forward<Future<void>>(task)); });
+  std::ranges::for_each(tasks2,
+                        [](auto&& task) { stlab::await(std::forward<Future<void>>(task)); });
   transaction.commit();
 }
 

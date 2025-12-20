@@ -17,8 +17,8 @@ namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 
 namespace {
-constexpr std::string_view CHOSEN_DIR {"preferencesKeyChosenDir"};
-constexpr auto MAX_PATH_LENGTH {260};
+  constexpr std::string_view CHOSEN_DIR {"preferencesKeyChosenDir"};
+  constexpr auto MAX_PATH_LENGTH {260};
 } // anonymous namespace
 
 struct [[nodiscard]] Preferences::Implementation final {

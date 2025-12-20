@@ -13,43 +13,43 @@ static Logger& LOG() {
 }
 
 namespace {
-template <typename T>
-  requires std::is_arithmetic_v<T> and (not std::is_same_v<T, bool>)
-[[nodiscard]] T fromStringView(std::string_view s) {
-  const auto str = phud::strings::trim(s);
-  T result {};
-  if (str.empty()) {
+  template <typename T>
+    requires std::is_arithmetic_v<T> and (not std::is_same_v<T, bool>)
+  [[nodiscard]] T fromStringView(std::string_view s) {
+    const auto str = phud::strings::trim(s);
+    T result {};
+    if (str.empty()) {
+      return result;
+    }
+
+#ifdef __clang__
+#  pragma clang diagnostic push
+#  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#endif
+
+    const auto [ptr, ec] = std::from_chars(str.data(), str.data() + str.size(), result);
+
+#ifdef __clang__
+#  pragma clang diagnostic pop
+#endif
+
+    if (ec != std::errc {}) {
+      throw std::invalid_argument(fmt::format("Failed to convert '{}' to {}", s, typeid(T).name()));
+    }
     return result;
   }
 
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
-#endif
-
-  const auto [ptr, ec] = std::from_chars(str.data(), str.data() + str.size(), result);
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-
-  if (ec != std::errc {}) {
-    throw std::invalid_argument(fmt::format("Failed to convert '{}' to {}", s, typeid(T).name()));
+  [[nodiscard]] constexpr bool isNumericCharOrDot(char c) noexcept {
+    return (c >= '0' and c <= '9') or c == '.';
   }
-  return result;
-}
 
-[[nodiscard]] constexpr bool isNumericCharOrDot(char c) noexcept {
-  return (c >= '0' and c <= '9') or c == '.';
-}
+  [[nodiscard]] constexpr char normalizeDecimalSeparator(char c) noexcept {
+    return (c == ',') ? '.' : c;
+  }
 
-[[nodiscard]] constexpr char normalizeDecimalSeparator(char c) noexcept {
-  return (c == ',') ? '.' : c;
-}
-
-[[nodiscard]] double processToken(std::string_view token) {
-  return token.empty() ? 0.0 : phud::strings::toDouble(token);
-}
+  [[nodiscard]] double processToken(std::string_view token) {
+    return token.empty() ? 0.0 : phud::strings::toDouble(token);
+  }
 } // anonymous namespace
 
 int phud::strings::toInt(std::string_view s) {
@@ -90,8 +90,8 @@ double phud::strings::toDouble(std::string_view amount) {
   const std::span<const char> buffer = {str.data(), str.size()};
 
 #ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#  pragma clang diagnostic push
+#  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #endif
 
   if (const auto [ptr, ec] = std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret);
@@ -104,7 +104,7 @@ double phud::strings::toDouble(std::string_view amount) {
   }
 
 #ifdef __clang__
-#pragma clang diagnostic pop
+#  pragma clang diagnostic pop
 #endif
 
   return ret;

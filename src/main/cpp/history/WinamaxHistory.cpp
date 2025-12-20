@@ -23,87 +23,87 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 namespace {
-constexpr std::string_view ERR_MSG {"The chosen directory '{}' should contain a {} directory"};
+  constexpr std::string_view ERR_MSG {"The chosen directory '{}' should contain a {} directory"};
 
-[[nodiscard]] static std::expected<std::vector<fs::path>, std::string>
-getHistoryFilesOrErrorMessage(const fs::path& dir, const fs::path& histoDir) {
-  if (!pf::isDir(histoDir)) {
-    return std::unexpected(fmt::format(ERR_MSG, dir.string(), "'history'"));
-  }
-
-  if (!pf::listSubDirs(histoDir).empty()) {
-    return std::unexpected(fmt::format(
-        "The chosen directory '{}' should contain a {} directory that contains only files",
-        dir.string(), "'history'"));
-  }
-
-  if (const auto allFilesAndDirs = pf::listFilesAndDirs(histoDir); !allFilesAndDirs.empty()) {
-    return allFilesAndDirs;
-  }
-
-  return std::unexpected(fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
-}
-
-[[nodiscard]] std::vector<fs::path> getFiles(const fs::path& historyDir) {
-  if (WinamaxHistory::isValidHistory(historyDir)) {
-    return pf::listTxtFilesInDir(historyDir / "history");
-  }
-
-  LOG().error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
-  return {};
-}
-
-[[nodiscard]] std::vector<fs::path> getFiles(auto) = delete; // use only std::filesystem::path
-
-// using auto&& enhances performances by inlining std::function's logic
-[[nodiscard]] std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
-                                                      auto&& onSetNbFiles) {
-  const auto files = getFiles(historyDir);
-
-  if (onSetNbFiles) {
-    const auto fileSize = files.size();
-    LOG().info<"Notify observer of {} files.">(fileSize);
-
-    if (!files.empty()) {
-      std::forward<decltype(onSetNbFiles)>(onSetNbFiles)(fileSize);
+  [[nodiscard]] static std::expected<std::vector<fs::path>, std::string>
+  getHistoryFilesOrErrorMessage(const fs::path& dir, const fs::path& histoDir) {
+    if (!pf::isDir(histoDir)) {
+      return std::unexpected(fmt::format(ERR_MSG, dir.string(), "'history'"));
     }
+
+    if (!pf::listSubDirs(histoDir).empty()) {
+      return std::unexpected(fmt::format(
+          "The chosen directory '{}' should contain a {} directory that contains only files",
+          dir.string(), "'history'"));
+    }
+
+    if (const auto allFilesAndDirs = pf::listFilesAndDirs(histoDir); !allFilesAndDirs.empty()) {
+      return allFilesAndDirs;
+    }
+
+    return std::unexpected(fmt::format(ERR_MSG, dir.string(), "non empty 'history'"));
   }
 
-  return files;
-}
+  [[nodiscard]] std::vector<fs::path> getFiles(const fs::path& historyDir) {
+    if (WinamaxHistory::isValidHistory(historyDir)) {
+      return pf::listTxtFilesInDir(historyDir / "history");
+    }
 
-// disable other types than const std::filesystem::path&
-std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
+    LOG().error<"The directory '{}' is not a valid Winamax history directory">(historyDir.string());
+    return {};
+  }
 
-// Parse files in batches to limit concurrency and reduce memory pressure
-// Uses a shared PlayerCache to avoid creating duplicate Player objects
-std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> files,
-                                                  std::atomic_bool& stop, const auto& onProgress,
-                                                  PlayerCache& sharedCache) {
-  // Batch size = 2x number of hardware threads to keep all cores busy
-  // while limiting memory usage from having too many files loaded at once
-  const std::size_t batchSize = std::max(2u, std::thread::hardware_concurrency() * 2);
-  std::vector<Future<Site*>> allTasks;
-  allTasks.reserve(files.size());
-  LOG().debug<"Processing {} files in batches of {}">(files.size(), batchSize);
+  [[nodiscard]] std::vector<fs::path> getFiles(auto) = delete; // use only std::filesystem::path
 
-  // Process files in batches
-  for (std::size_t batchStart = 0; batchStart < files.size() and !stop; batchStart += batchSize) {
-    const std::size_t batchEnd = std::min(batchStart + batchSize, files.size());
-    const std::size_t currentBatchSize = batchEnd - batchStart;
-    LOG().debug<"Processing batch {}-{} ({} files)">(batchStart, batchEnd - 1, currentBatchSize);
-    // Submit current batch
-    std::vector<Future<Site*>> batchTasks;
-    batchTasks.reserve(currentBatchSize);
+  // using auto&& enhances performances by inlining std::function's logic
+  [[nodiscard]] std::vector<fs::path> getFilesAndNotify(const fs::path& historyDir,
+                                                        auto&& onSetNbFiles) {
+    const auto files = getFiles(historyDir);
 
-    // Use std::span to create a view of the current batch
-    const auto batch = std::span(files).subspan(batchStart, currentBatchSize);
-    for (const auto& file : batch) {
-      if (stop) {
-        break;
+    if (onSetNbFiles) {
+      const auto fileSize = files.size();
+      LOG().info<"Notify observer of {} files.">(fileSize);
+
+      if (!files.empty()) {
+        std::forward<decltype(onSetNbFiles)>(onSetNbFiles)(fileSize);
       }
-      batchTasks.push_back(
-        ThreadPool::submit([file, onProgress, aStop = std::ref(stop), &sharedCache]() {
+    }
+
+    return files;
+  }
+
+  // disable other types than const std::filesystem::path&
+  std::vector<fs::path> getFilesAndNotify(auto, auto) = delete;
+
+  // Parse files in batches to limit concurrency and reduce memory pressure
+  // Uses a shared PlayerCache to avoid creating duplicate Player objects
+  std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> files,
+                                                    std::atomic_bool& stop, const auto& onProgress,
+                                                    PlayerCache& sharedCache) {
+    // Batch size = 2x number of hardware threads to keep all cores busy
+    // while limiting memory usage from having too many files loaded at once
+    const std::size_t batchSize = std::max(2u, std::thread::hardware_concurrency() * 2);
+    std::vector<Future<Site*>> allTasks;
+    allTasks.reserve(files.size());
+    LOG().debug<"Processing {} files in batches of {}">(files.size(), batchSize);
+
+    // Process files in batches
+    for (std::size_t batchStart = 0; batchStart < files.size() and !stop; batchStart += batchSize) {
+      const std::size_t batchEnd = std::min(batchStart + batchSize, files.size());
+      const std::size_t currentBatchSize = batchEnd - batchStart;
+      LOG().debug<"Processing batch {}-{} ({} files)">(batchStart, batchEnd - 1, currentBatchSize);
+      // Submit current batch
+      std::vector<Future<Site*>> batchTasks;
+      batchTasks.reserve(currentBatchSize);
+
+      // Use std::span to create a view of the current batch
+      const auto batch = std::span(files).subspan(batchStart, currentBatchSize);
+      for (const auto& file : batch) {
+        if (stop) {
+          break;
+        }
+        batchTasks.push_back(ThreadPool::submit([file, onProgress, aStop = std::ref(stop),
+                                                 &sharedCache]() {
           Site* pSite = nullptr;
 
           try {
@@ -121,21 +121,21 @@ std::vector<Future<Site*>> parseFilesAsyncBatched(std::span<const fs::path> file
 
           return pSite;
         }));
-    } // for
+      } // for
 
-    // Wait for current batch to complete before starting next batch
-    std::ranges::for_each(batchTasks, [](auto& task) {
-      if (task.valid()) {
-        stlab::await(stlab::copy(task)); // Wait for task to complete
-      }
-    });
+      // Wait for current batch to complete before starting next batch
+      std::ranges::for_each(batchTasks, [](auto& task) {
+        if (task.valid()) {
+          stlab::await(stlab::copy(task)); // Wait for task to complete
+        }
+      });
 
-    // Move completed tasks to result vector
-    std::ranges::move(batchTasks, std::back_inserter(allTasks));
+      // Move completed tasks to result vector
+      std::ranges::move(batchTasks, std::back_inserter(allTasks));
+    }
+
+    return allTasks;
   }
-
-  return allTasks;
-}
 } // anonymous namespace
 
 struct [[nodiscard]] WinamaxHistory::Implementation final {

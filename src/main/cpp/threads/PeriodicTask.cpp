@@ -39,7 +39,7 @@ void PeriodicTask::stop() const {
   if (!m_pImpl->m_taskIsStopped) {
     {
       auto lock = std::unique_lock<std::mutex>(m_pImpl->m_mutex); // noexcept
-      m_pImpl->m_futureTaskResult.reset();      // noexcept
+      m_pImpl->m_futureTaskResult.reset();                        // noexcept
       m_pImpl->m_stop = true;
       m_pImpl->m_cv.notify_all(); // noexcept
     }

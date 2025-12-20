@@ -20,44 +20,44 @@ enum class [[nodiscard]] Seat : short {
 };
 
 namespace tableSeat {
-/*
- * Transforms "1" into Seat::SeatOne and so on.
- */
-[[nodiscard]] Seat fromString(std::string_view seatStr);
+  /*
+   * Transforms "1" into Seat::SeatOne and so on.
+   */
+  [[nodiscard]] Seat fromString(std::string_view seatStr);
 
-/*
- * Transforms 0 into Seat::SeatOne and so on.
- * Accepts any integral type (int, size_t, ptrdiff_t, int64_t, etc.)
- */
-template<std::integral T>
-[[nodiscard]] Seat fromArrayIndex(T i);
+  /*
+   * Transforms 0 into Seat::SeatOne and so on.
+   * Accepts any integral type (int, size_t, ptrdiff_t, int64_t, etc.)
+   */
+  template <std::integral T>
+  [[nodiscard]] Seat fromArrayIndex(T i);
 
-// Explicit instantiation declaration for common types
-extern template Seat fromArrayIndex<std::int64_t>(std::int64_t);
-extern template Seat fromArrayIndex<std::size_t>(std::size_t);
-extern template Seat fromArrayIndex<std::ptrdiff_t>(std::ptrdiff_t);
+  // Explicit instantiation declaration for common types
+  extern template Seat fromArrayIndex<std::int64_t>(std::int64_t);
+  extern template Seat fromArrayIndex<std::size_t>(std::size_t);
+  extern template Seat fromArrayIndex<std::ptrdiff_t>(std::ptrdiff_t);
 
-/*
- * Transforms 1 into Seat::SeatOne and so on.
- */
-[[nodiscard]] Seat fromInt(int i);
+  /*
+   * Transforms 1 into Seat::SeatOne and so on.
+   */
+  [[nodiscard]] Seat fromInt(int i);
 
-/*
- * Transforms Seat::SeatOne into 1 and so on.
- */
-[[nodiscard]] constexpr int toInt(Seat seat) noexcept {
-  return static_cast<int>(seat) + 1;
-}
+  /*
+   * Transforms Seat::SeatOne into 1 and so on.
+   */
+  [[nodiscard]] constexpr int toInt(Seat seat) noexcept {
+    return static_cast<int>(seat) + 1;
+  }
 
-/*
- * Transforms Seat::SeatOne into 1 and so on.
- */
-[[nodiscard]] std::string_view toString(Seat seat);
+  /*
+   * Transforms Seat::SeatOne into 1 and so on.
+   */
+  [[nodiscard]] std::string_view toString(Seat seat);
 
-/*
- * Transforms Seat::SeatOne into 0 and so on.
- */
-[[nodiscard]] constexpr std::size_t toArrayIndex(Seat seat) noexcept {
-  return static_cast<std::size_t>(seat);
-}
+  /*
+   * Transforms Seat::SeatOne into 0 and so on.
+   */
+  [[nodiscard]] constexpr std::size_t toArrayIndex(Seat seat) noexcept {
+    return static_cast<std::size_t>(seat);
+  }
 } // namespace tableSeat

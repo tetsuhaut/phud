@@ -131,10 +131,10 @@ struct [[nodiscard]] LoggingConfig final {
 
 // forces the compiler to do a compile time evaluation
 namespace utility {
-template <typename T, T v>
-struct [[nodiscard]] ConstexprValue final {
-  static constexpr T value = v;
-}; // struct ConstexprValue
+  template <typename T, T v>
+  struct [[nodiscard]] ConstexprValue final {
+    static constexpr T value = v;
+  }; // struct ConstexprValue
 } // namespace utility
 
 #define CURRENT_FILE_NAME \

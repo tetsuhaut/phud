@@ -4,9 +4,9 @@
 #include <array>
 
 namespace {
-struct [[nodiscard]] StrContainer final {
-  std::string str {};
-}; // struct StrContainer
+  struct [[nodiscard]] StrContainer final {
+    std::string str {};
+  }; // struct StrContainer
 } // anonymous namespace
 
 static constexpr std::chrono::milliseconds TB_PERIOD {3000};

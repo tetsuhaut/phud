@@ -15,49 +15,49 @@ static Logger& LOG() {
 namespace fs = std::filesystem;
 
 namespace {
-struct [[nodiscard]] MyLoggingConfig final {
-  MyLoggingConfig() { Logger::setupConsoleWarnLogging("%v"); }
-  ~MyLoggingConfig() { Logger::shutdownLogging(); }
-}; // struct MyLoggingConfig
+  struct [[nodiscard]] MyLoggingConfig final {
+    MyLoggingConfig() { Logger::setupConsoleWarnLogging("%v"); }
+    ~MyLoggingConfig() { Logger::shutdownLogging(); }
+  }; // struct MyLoggingConfig
 
-[[nodiscard]] std::optional<std::pair<fs::path, fs::path>>
-getOptionalDbAndHistory(std::span<const char* const> args) {
-  if (5 != args.size()) {
-    if ((1 == args.size())) {
-      LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
-    } else {
-      LOG().error<"Wrong arguments.">();
-      LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
+  [[nodiscard]] std::optional<std::pair<fs::path, fs::path>>
+  getOptionalDbAndHistory(std::span<const char* const> args) {
+    if (5 != args.size()) {
+      if ((1 == args.size())) {
+        LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
+      } else {
+        LOG().error<"Wrong arguments.">();
+        LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
+      }
+
+      return {};
     }
 
-    return {};
+    const std::string_view flag1 = args[1];
+
+    if (const std::string_view flag2 = args[3];
+        ("-b" != flag1 and "-d" != flag1) or ("-b" != flag2 and "-d" != flag2)) {
+      LOG().error<"Wrong arguments.">();
+      LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
+      return {};
+    }
+
+    const fs::path dbFile = ("-b" == flag1) ? args[2] : args[4];
+    const fs::path historyDir = ("-b" == flag1) ? args[4] : args[2];
+
+    if (phud::filesystem::isFile(dbFile)) {
+      LOG().error<"The database file\n{}\nalready exists and is in the way.">(dbFile.string());
+      return {};
+    }
+
+    if (!PokerSiteHistory::isValidHistory(historyDir)) {
+      LOG().error<"'{}' is not a valid history directory">(historyDir.string());
+      LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
+      return {};
+    }
+
+    return std::make_pair(dbFile, historyDir);
   }
-
-  const std::string_view flag1 = args[1];
-
-  if (const std::string_view flag2 = args[3];
-      ("-b" != flag1 and "-d" != flag1) or ("-b" != flag2 and "-d" != flag2)) {
-    LOG().error<"Wrong arguments.">();
-    LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
-    return {};
-  }
-
-  const fs::path dbFile = ("-b" == flag1) ? args[2] : args[4];
-  const fs::path historyDir = ("-b" == flag1) ? args[4] : args[2];
-
-  if (phud::filesystem::isFile(dbFile)) {
-    LOG().error<"The database file\n{}\nalready exists and is in the way.">(dbFile.string());
-    return {};
-  }
-
-  if (!PokerSiteHistory::isValidHistory(historyDir)) {
-    LOG().error<"'{}' is not a valid history directory">(historyDir.string());
-    LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
-    return {};
-  }
-
-  return std::make_pair(dbFile, historyDir);
-}
 } // anonymous namespace
 
 int main(int argc, const char* const argv[]) {
@@ -65,14 +65,14 @@ int main(int argc, const char* const argv[]) {
   MyLoggingConfig _;
 
 #ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#  pragma clang diagnostic push
+#  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #endif
 
   const std::span args = {argv, argv + argc};
 
 #ifdef __clang__
-#pragma clang diagnostic pop
+#  pragma clang diagnostic pop
 #endif
 
   if (const auto oRet = getOptionalDbAndHistory(args); oRet.has_value()) {

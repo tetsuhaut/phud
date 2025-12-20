@@ -12,13 +12,6 @@ namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 namespace pt = phud::test;
 
-namespace phud::algorithms {
-template <typename CONTAINER, typename FUNCTION>
-[[nodiscard]] bool noneOf(const CONTAINER& c, FUNCTION f) noexcept {
-  return std::none_of(std::begin(c), std::end(c), f);
-}
-} // namespace phud::algorithms
-
 BOOST_AUTO_TEST_SUITE(WinamaxHistoryTest)
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_doNotLookAtSummaries) {
@@ -126,14 +119,14 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
   const auto actions = hands[1]->viewActions();
 
 #ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#  pragma clang diagnostic push
+#  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #endif
 
   const auto firstFive = std::span(&actions[0], &actions[5]);
 
 #ifdef __clang__
-#pragma clang diagnostic pop
+#  pragma clang diagnostic pop
 #endif
 
   std::ranges::for_each(firstFive, [](const auto& action) {

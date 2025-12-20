@@ -34,7 +34,8 @@ BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTourname
                         SimpleTHistoFixture) {
   BOOST_REQUIRE(nullptr != pSite);
   BOOST_REQUIRE(nullptr != pDatabase);
-  const auto& stats = pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Kill The Fish(152800689)#004");
+  const auto& stats = pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME,
+                                                     "Kill The Fish(152800689)#004");
   BOOST_REQUIRE(Seat::seatSix == stats.getMaxSeat());
   BOOST_REQUIRE("StopCallFish" == stats.m_tableStats[0]->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == stats.m_tableStats[0]->getSiteName());
@@ -58,8 +59,8 @@ BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTourname
 BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed, SabreLaserFixture) {
   BOOST_REQUIRE(nullptr != pSabreLaserSite);
   BOOST_REQUIRE(nullptr != pDatabase);
-  const auto& stats {
-      pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Double or Nothing(102140685)#0")};
+  const auto& stats {pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME,
+                                                    "Double or Nothing(102140685)#0")};
   BOOST_REQUIRE("secretstar62" == stats.m_tableStats[0]->getPlayerName());
   BOOST_REQUIRE(0 <= stats.m_tableStats[0]->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE("LECOLOMBIER7" == stats.m_tableStats[1]->getPlayerName());

@@ -43,7 +43,7 @@ private:
 
     // Call user callback in thread-safe manner
     const std::scoped_lock lock(m_callbackMutex);
-    
+
     if (!m_stopped.load() and m_callback) {
       m_callback(filePath);
     }

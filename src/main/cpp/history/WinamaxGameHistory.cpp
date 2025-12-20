@@ -21,37 +21,37 @@ namespace pf = phud::filesystem;
 namespace ps = phud::strings;
 
 namespace {
-[[nodiscard]] static constexpr Variant fileStemToVariant(std::string_view fileStem) noexcept {
-  if (ps::contains(fileStem, "_holdem_")) {
-    return Variant::holdem;
+  [[nodiscard]] static constexpr Variant fileStemToVariant(std::string_view fileStem) noexcept {
+    if (ps::contains(fileStem, "_holdem_")) {
+      return Variant::holdem;
+    }
+
+    if (ps::contains(fileStem, "_omaha_")) {
+      return Variant::omaha;
+    }
+
+    if (ps::contains(fileStem, "_omaha5_")) {
+      return Variant::omaha5;
+    }
+
+    return Variant::none;
   }
 
-  if (ps::contains(fileStem, "_omaha_")) {
-    return Variant::omaha;
-  }
+  [[nodiscard]] static constexpr Limit fileStemToLimit(std::string_view fileStem) noexcept {
+    if (fileStem.size() < 11) {
+      return Limit::none;
+    }
 
-  if (ps::contains(fileStem, "_omaha5_")) {
-    return Variant::omaha5;
-  }
+    if (fileStem.ends_with("_pot-limit")) {
+      return Limit::potLimit;
+    }
 
-  return Variant::none;
-}
+    if (fileStem.ends_with("_no-limit")) {
+      return Limit::noLimit;
+    }
 
-[[nodiscard]] static constexpr Limit fileStemToLimit(std::string_view fileStem) noexcept {
-  if (fileStem.size() < 11) {
     return Limit::none;
   }
-
-  if (fileStem.ends_with("_pot-limit")) {
-    return Limit::potLimit;
-  }
-
-  if (fileStem.ends_with("_no-limit")) {
-    return Limit::noLimit;
-  }
-
-  return Limit::none;
-}
 } // anonymous namespace
 
 struct [[nodiscard]] FileStem final {

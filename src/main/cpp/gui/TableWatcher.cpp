@@ -13,19 +13,19 @@ static Logger& LOG() {
 }
 
 namespace {
-constexpr std::chrono::milliseconds WATCH_INTERVAL {3000}; // 3 seconds
-constexpr std::string_view WINAMAX_TABLE_PATTERN {"Winamax"};
+  constexpr std::chrono::milliseconds WATCH_INTERVAL {3000}; // 3 seconds
+  constexpr std::string_view WINAMAX_TABLE_PATTERN {"Winamax"};
 
-bool isPokerTable(std::string_view title) {
-  // the window title should be something like 'Winamax someName someOptionalNumber'
-  // e.g. 'Winamax Aalen 27', 'Winamax Athens'
-  const auto nbSpaces = std::ranges::count(title, ' ');
-  return title.starts_with(WINAMAX_TABLE_PATTERN) and
-         (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and
-         (' ' == title.at(WINAMAX_TABLE_PATTERN.length())) and
-         (' ' != title.at(WINAMAX_TABLE_PATTERN.length() + 1)) and
-         ((1 == nbSpaces) or (2 == nbSpaces));
-}
+  bool isPokerTable(std::string_view title) {
+    // the window title should be something like 'Winamax someName someOptionalNumber'
+    // e.g. 'Winamax Aalen 27', 'Winamax Athens'
+    const auto nbSpaces = std::ranges::count(title, ' ');
+    return title.starts_with(WINAMAX_TABLE_PATTERN) and
+           (title.length() > WINAMAX_TABLE_PATTERN.length() + 3) and
+           (' ' == title.at(WINAMAX_TABLE_PATTERN.length())) and
+           (' ' != title.at(WINAMAX_TABLE_PATTERN.length() + 1)) and
+           ((1 == nbSpaces) or (2 == nbSpaces));
+  }
 } // anonymous namespace
 
 struct [[nodiscard]] TableWatcher::Implementation final {

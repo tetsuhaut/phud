@@ -3,7 +3,7 @@
 #include "phud/ProgramConfiguration.hpp" // std::pair, std::filesystem::path, LoggingLevel
 
 namespace {
-constexpr auto DEFAULT_LOGGING_PATTERN {"[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v"};
+  constexpr auto DEFAULT_LOGGING_PATTERN {"[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v"};
 }
 
 ProgramConfiguration::Configuration

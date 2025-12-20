@@ -17,12 +17,12 @@ static Logger& LOG() {
 namespace fs = std::filesystem;
 
 namespace {
-struct [[nodiscard]] MyLoggingConfig final {
-  MyLoggingConfig() {
-    Logger::setupConsoleDebugLogging("[%Y%m%d %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v");
-  }
-  ~MyLoggingConfig() { Logger::shutdownLogging(); }
-};
+  struct [[nodiscard]] MyLoggingConfig final {
+    MyLoggingConfig() {
+      Logger::setupConsoleDebugLogging("[%Y%m%d %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v");
+    }
+    ~MyLoggingConfig() { Logger::shutdownLogging(); }
+  };
 } // anonymous namespace
 
 class [[nodiscard]] NoOpTableService final : public TableService {

@@ -18,13 +18,13 @@
 #include <string_view>
 
 namespace mswindows {
-/**
- * @return the list the currently visible top level windows titles
- */
-[[nodiscard]] std::vector<std::string> getWindowTitles();
+  /**
+   * @return the list the currently visible top level windows titles
+   */
+  [[nodiscard]] std::vector<std::string> getWindowTitles();
 
-[[nodiscard]] std::optional<phud::Rectangle>
-getTableWindowRectangle(std::string_view tableWindowTitle);
+  [[nodiscard]] std::optional<phud::Rectangle>
+  getTableWindowRectangle(std::string_view tableWindowTitle);
 
-void setWindowOnTopMost(HWND above) noexcept;
+  void setWindowOnTopMost(HWND above) noexcept;
 } // namespace mswindows

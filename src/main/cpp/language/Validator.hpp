@@ -12,26 +12,26 @@ void phudMacroAssert(const char* expression, bool expressionReturnValue, const c
 #endif // NDEBUG
 
 namespace validation {
-template <typename T>
-void requireNonEmpty(const T& value, std::string_view fieldName) {
-  phudAssert(!value.empty(), fmt::format("{} cannot be empty", fieldName));
-}
+  template <typename T>
+  void requireNonEmpty(const T& value, std::string_view fieldName) {
+    phudAssert(!value.empty(), fmt::format("{} cannot be empty", fieldName));
+  }
 
-template <typename T>
-void requirePositive(T value, std::string_view fieldName) {
-  phudAssert(value >= 0, fmt::format("{} must be non-negative", fieldName));
-}
+  template <typename T>
+  void requirePositive(T value, std::string_view fieldName) {
+    phudAssert(value >= 0, fmt::format("{} must be non-negative", fieldName));
+  }
 
-template <typename T>
-void requireNotNull(T value, std::string_view errorMessage) {
-  phudAssert(nullptr != value, errorMessage);
-}
+  template <typename T>
+  void requireNotNull(T value, std::string_view errorMessage) {
+    phudAssert(nullptr != value, errorMessage);
+  }
 
-template <typename T>
-void requireInRange(T value, T min, T max, std::string_view fieldName) {
-  phudAssert(value >= min and value <= max,
-             fmt::format("{} must be between {} and {}", fieldName, min, max));
-}
+  template <typename T>
+  void requireInRange(T value, T min, T max, std::string_view fieldName) {
+    phudAssert(value >= min and value <= max,
+               fmt::format("{} must be between {} and {}", fieldName, min, max));
+  }
 
-void require(bool mustBeTrue, std::string_view errorMessage);
+  void require(bool mustBeTrue, std::string_view errorMessage);
 } // namespace validation

@@ -103,14 +103,14 @@ int main(int argc, const char* const* const argv) {
 
   try {
 #ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
+#  pragma clang diagnostic push
+#  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #endif
 
-  const std::span args = {argv, argv + argc};
+    const std::span args = {argv, argv + argc};
 
 #ifdef __clang__
-#pragma clang diagnostic pop
+#  pragma clang diagnostic pop
 #endif
 
     const auto& [oHistoDir, loggingLevel,

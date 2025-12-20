@@ -27,38 +27,41 @@
 // Y axis
 
 namespace MainWindow::Screen {
-constexpr auto elemHeight {30};
-constexpr auto buttonWidth {170};
-constexpr auto mainWindowDefaultX {10};
-constexpr auto mainWindowDefaultY {elemHeight};
-constexpr auto space {5};
-constexpr auto mainWindowWidth {600};
-constexpr phud::Rectangle menuBar {.x = 0, .y = 0, .w = mainWindowWidth, .h = elemHeight};
-constexpr phud::Rectangle chooseHistoDirBtn {
-    .x = space, .y = menuBar.y + menuBar.h + space, .w = buttonWidth, .h = elemHeight};
-constexpr phud::Rectangle histoDirTextField {.x = chooseHistoDirBtn.w + 2 * space,
-                                             .y = chooseHistoDirBtn.y,
-                                             .w = mainWindowWidth - chooseHistoDirBtn.w - 3 * space,
-                                             .h = elemHeight};
-constexpr phud::Rectangle progressBar {.x = space,
-                                       .y = chooseHistoDirBtn.y + chooseHistoDirBtn.h + space,
-                                       .w = mainWindowWidth - 2 * space,
-                                       .h = elemHeight};
-constexpr phud::Rectangle watchedTableLabel {.x = space,
-                                             .y = progressBar.y + progressBar.h + space,
-                                             .w = mainWindowWidth - buttonWidth - 3 * space,
-                                             .h = elemHeight};
-constexpr phud::Rectangle stopHudBtn {.x = mainWindowWidth - buttonWidth - space,
-                                      .y = progressBar.y + progressBar.h + space,
-                                      .w = buttonWidth,
-                                      .h = elemHeight};
-constexpr phud::Rectangle infoBar {.x = 0,
-                                   .y = progressBar.y + progressBar.h + space + elemHeight + space,
-                                   .w = mainWindowWidth,
-                                   .h = elemHeight};
-constexpr phud::Rectangle mainWindow {.x = 0,
-                                      .y = 0,
-                                      .w = mainWindowWidth,
-                                      .h = menuBar.h + space + chooseHistoDirBtn.h + space +
-                                           progressBar.h + space + elemHeight + space + infoBar.h};
+  constexpr auto elemHeight {30};
+  constexpr auto buttonWidth {170};
+  constexpr auto mainWindowDefaultX {10};
+  constexpr auto mainWindowDefaultY {elemHeight};
+  constexpr auto space {5};
+  constexpr auto mainWindowWidth {600};
+  constexpr phud::Rectangle menuBar {.x = 0, .y = 0, .w = mainWindowWidth, .h = elemHeight};
+  constexpr phud::Rectangle chooseHistoDirBtn {
+      .x = space, .y = menuBar.y + menuBar.h + space, .w = buttonWidth, .h = elemHeight};
+  constexpr phud::Rectangle histoDirTextField {.x = chooseHistoDirBtn.w + 2 * space,
+                                               .y = chooseHistoDirBtn.y,
+                                               .w = mainWindowWidth - chooseHistoDirBtn.w -
+                                                    3 * space,
+                                               .h = elemHeight};
+  constexpr phud::Rectangle progressBar {.x = space,
+                                         .y = chooseHistoDirBtn.y + chooseHistoDirBtn.h + space,
+                                         .w = mainWindowWidth - 2 * space,
+                                         .h = elemHeight};
+  constexpr phud::Rectangle watchedTableLabel {.x = space,
+                                               .y = progressBar.y + progressBar.h + space,
+                                               .w = mainWindowWidth - buttonWidth - 3 * space,
+                                               .h = elemHeight};
+  constexpr phud::Rectangle stopHudBtn {.x = mainWindowWidth - buttonWidth - space,
+                                        .y = progressBar.y + progressBar.h + space,
+                                        .w = buttonWidth,
+                                        .h = elemHeight};
+  constexpr phud::Rectangle infoBar {.x = 0,
+                                     .y =
+                                         progressBar.y + progressBar.h + space + elemHeight + space,
+                                     .w = mainWindowWidth,
+                                     .h = elemHeight};
+  constexpr phud::Rectangle mainWindow {.x = 0,
+                                        .y = 0,
+                                        .w = mainWindowWidth,
+                                        .h = menuBar.h + space + chooseHistoDirBtn.h + space +
+                                             progressBar.h + space + elemHeight + space +
+                                             infoBar.h};
 } // namespace MainWindow::Screen

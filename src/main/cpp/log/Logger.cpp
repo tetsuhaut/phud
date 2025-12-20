@@ -10,32 +10,32 @@
 using LegacyLoggingLevel = spdlog::level::level_enum;
 
 namespace {
-// use a lazy singleton to avoid the static initialization fiasco
-// intentional leak to avoid exit-time destructor warning
-std::shared_ptr<spdlog::logger>& getGlobalLogger() {
-  static auto* instance {new std::shared_ptr<spdlog::logger>()};
-  return *instance;
-}
+  // use a lazy singleton to avoid the static initialization fiasco
+  // intentional leak to avoid exit-time destructor warning
+  std::shared_ptr<spdlog::logger>& getGlobalLogger() {
+    static auto* instance {new std::shared_ptr<spdlog::logger>()};
+    return *instance;
+  }
 
-constexpr auto LEGACY_LOGGING_LEVEL_TO_LOGGING_LEVEL {
-    frozen::make_unordered_map<LegacyLoggingLevel, LoggingLevel>(
-        {{LegacyLoggingLevel::critical, LoggingLevel::critical},
-         {LegacyLoggingLevel::debug, LoggingLevel::debug},
-         {LegacyLoggingLevel::err, LoggingLevel::error},
-         {LegacyLoggingLevel::info, LoggingLevel::info},
-         {LegacyLoggingLevel::trace, LoggingLevel::trace},
-         {LegacyLoggingLevel::warn, LoggingLevel::warn},
-         {LegacyLoggingLevel::off, LoggingLevel::none}})};
+  constexpr auto LEGACY_LOGGING_LEVEL_TO_LOGGING_LEVEL {
+      frozen::make_unordered_map<LegacyLoggingLevel, LoggingLevel>(
+          {{LegacyLoggingLevel::critical, LoggingLevel::critical},
+           {LegacyLoggingLevel::debug, LoggingLevel::debug},
+           {LegacyLoggingLevel::err, LoggingLevel::error},
+           {LegacyLoggingLevel::info, LoggingLevel::info},
+           {LegacyLoggingLevel::trace, LoggingLevel::trace},
+           {LegacyLoggingLevel::warn, LoggingLevel::warn},
+           {LegacyLoggingLevel::off, LoggingLevel::none}})};
 
-constexpr auto LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL {
-    frozen::make_unordered_map<LoggingLevel, LegacyLoggingLevel>(
-        {{LoggingLevel::critical, LegacyLoggingLevel::critical},
-         {LoggingLevel::debug, LegacyLoggingLevel::debug},
-         {LoggingLevel::error, LegacyLoggingLevel::err},
-         {LoggingLevel::info, LegacyLoggingLevel::info},
-         {LoggingLevel::trace, LegacyLoggingLevel::trace},
-         {LoggingLevel::warn, LegacyLoggingLevel::warn},
-         {LoggingLevel::none, LegacyLoggingLevel::off}})};
+  constexpr auto LOGGING_LEVEL_TO_LEGACCY_LOGGING_LEVEL {
+      frozen::make_unordered_map<LoggingLevel, LegacyLoggingLevel>(
+          {{LoggingLevel::critical, LegacyLoggingLevel::critical},
+           {LoggingLevel::debug, LegacyLoggingLevel::debug},
+           {LoggingLevel::error, LegacyLoggingLevel::err},
+           {LoggingLevel::info, LegacyLoggingLevel::info},
+           {LoggingLevel::trace, LegacyLoggingLevel::trace},
+           {LoggingLevel::warn, LegacyLoggingLevel::warn},
+           {LoggingLevel::none, LegacyLoggingLevel::off}})};
 } // anonymous namespace
 
 [[nodiscard]] static LoggingLevel toLoggingLevel(LegacyLoggingLevel l) {

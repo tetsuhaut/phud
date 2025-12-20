@@ -2,8 +2,8 @@
 
 #if defined(_MSC_VER) // removal of specific compiler warnings due to Boost
 #  pragma warning(push)
-#  pragma warning(disable : 4365)  // signed/unsigned mismatch
-#endif // _MSC_VER
+#  pragma warning(disable : 4365) // signed/unsigned mismatch
+#endif                            // _MSC_VER
 
 #include <boost/range.hpp>
 
@@ -14,14 +14,14 @@
 #include <memory> // std::unique_ptr
 
 namespace {
-class [[nodiscard]] Owner final {
-public:
-  std::vector<std::unique_ptr<int>> v {};
+  class [[nodiscard]] Owner final {
+  public:
+    std::vector<std::unique_ptr<int>> v {};
 
-  boost::iterator_range<std::vector<std::unique_ptr<int>>::const_iterator> getIntView() {
-    return boost::make_iterator_range(v.begin(), v.end());
-  }
-}; // class Owner
+    boost::iterator_range<std::vector<std::unique_ptr<int>>::const_iterator> getIntView() {
+      return boost::make_iterator_range(v.begin(), v.end());
+    }
+  }; // class Owner
 } // anonymous namespace
 
 BOOST_AUTO_TEST_SUITE(RangeTest)

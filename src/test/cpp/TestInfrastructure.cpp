@@ -53,9 +53,9 @@ public:
 BOOST_GLOBAL_FIXTURE(GlobalFixture);
 
 namespace {
-struct IsFile final {};
+  struct IsFile final {};
 
-struct IsDir final {};
+  struct IsDir final {};
 } // anonymous namespace
 
 template <typename T>

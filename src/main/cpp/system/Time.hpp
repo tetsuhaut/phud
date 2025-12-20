@@ -5,7 +5,7 @@
 
 // forward declaration
 namespace std {
-using ::tm; // NOLINT(*-dcl58-cpp)
+  using ::tm; // NOLINT(*-dcl58-cpp)
 }
 
 class [[nodiscard]] Time final { /* copyable */

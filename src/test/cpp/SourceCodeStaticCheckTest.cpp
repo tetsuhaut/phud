@@ -22,168 +22,169 @@ static Logger& LOG() {
 /* algorithms to be moved to containers/algorithms.hpp if we use them elsewhere */
 namespace phud::algorithms {
 
-template <typename MAP, typename KEY>
-[[nodiscard]] auto findOrDefault(const MAP& m, const KEY& k) {
-  const auto& ret {m.find(k)};
-  return (std::end(m) == ret) ? typename MAP::mapped_type() : ret->second;
-}
+  template <typename MAP, typename KEY>
+  [[nodiscard]] auto findOrDefault(const MAP& m, const KEY& k) {
+    const auto& ret {m.find(k)};
+    return (std::end(m) == ret) ? typename MAP::mapped_type() : ret->second;
+  }
 
-template <typename CONTAINER, typename T>
-void eraseAllValueOccurencesFrom(CONTAINER& c, const T& value) {
-  c.erase(std::remove(std::begin(c), std::end(c), value), std::end(c));
-}
+  template <typename CONTAINER, typename T>
+  void eraseAllValueOccurencesFrom(CONTAINER& c, const T& value) {
+    c.erase(std::remove(std::begin(c), std::end(c), value), std::end(c));
+  }
 
-template <typename CONTAINER_SOURCE, typename CONTAINER_TARGET>
-void append(CONTAINER_TARGET& target, const CONTAINER_SOURCE& source) {
-  target.insert(std::end(target), std::begin(source), std::end(source));
-}
+  template <typename CONTAINER_SOURCE, typename CONTAINER_TARGET>
+  void append(CONTAINER_TARGET& target, const CONTAINER_SOURCE& source) {
+    target.insert(std::end(target), std::begin(source), std::end(source));
+  }
 
-template <typename CONTAINER, typename... Args>
-/*[[nodiscard]]*/ CONTAINER merge(const CONTAINER& c, Args&&... otherContainers) {
-  CONTAINER ret = c;
-  const auto& allOtherContainers = {std::forward<Args>(otherContainers)...};
-  std::ranges::for_each(allOtherContainers, [&ret](const auto& other) {
-    ret.insert(std::end(ret), std::begin(other), std::end(other));
-  });
-  return ret;
-}
+  template <typename CONTAINER, typename... Args>
+  /*[[nodiscard]]*/ CONTAINER merge(const CONTAINER& c, Args&&... otherContainers) {
+    CONTAINER ret = c;
+    const auto& allOtherContainers = {std::forward<Args>(otherContainers)...};
+    std::ranges::for_each(allOtherContainers, [&ret](const auto& other) {
+      ret.insert(std::end(ret), std::begin(other), std::end(other));
+    });
+    return ret;
+  }
 
-/**
- * Returns a copy of c, not containing the possible values for which p is true
- */
-template <typename CONTAINER_OUTPUT, typename CONTAINER_INPUT, typename UNARY_PREDICATE>
-[[nodiscard]] CONTAINER_OUTPUT removeCopyIf(const CONTAINER_INPUT& c, UNARY_PREDICATE p) {
-  CONTAINER_OUTPUT ret;
-  ret.reserve(c.size());
-  std::ranges::remove_copy_if(c, std::back_inserter(ret), p);
-  ret.shrink_to_fit();
-  return ret;
-}
+  /**
+   * Returns a copy of c, not containing the possible values for which p is true
+   */
+  template <typename CONTAINER_OUTPUT, typename CONTAINER_INPUT, typename UNARY_PREDICATE>
+  [[nodiscard]] CONTAINER_OUTPUT removeCopyIf(const CONTAINER_INPUT& c, UNARY_PREDICATE p) {
+    CONTAINER_OUTPUT ret;
+    ret.reserve(c.size());
+    std::ranges::remove_copy_if(c, std::back_inserter(ret), p);
+    ret.shrink_to_fit();
+    return ret;
+  }
 } // namespace phud::algorithms
 
 namespace {
-std::array<fs::path, 2> SRC_DIRS {pt::getMainCppDir(), pt::getTestCppDir()};
+  std::array<fs::path, 2> SRC_DIRS {pt::getMainCppDir(), pt::getTestCppDir()};
 
-/** all of the cpp and hpp (and potentially other) files in src/main/cpp and src/test/cpp
- * directories */
-auto SRC_FILES {[]() {
-  return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<fs::path> {},
-                         [](std::vector<fs::path>&& v, const fs::path& dir) {
-                           phud::algorithms::append(v, pf::listRecursiveFiles(dir));
-                           return v;
-                         });
-}()};
+  /** all of the cpp and hpp (and potentially other) files in src/main/cpp and src/test/cpp
+   * directories */
+  auto SRC_FILES {[]() {
+    return std::accumulate(SRC_DIRS.begin(), SRC_DIRS.end(), std::vector<fs::path> {},
+                           [](std::vector<fs::path>&& v, const fs::path& dir) {
+                             phud::algorithms::append(v, pf::listRecursiveFiles(dir));
+                             return v;
+                           });
+  }()};
 
-/**
- * Changes '#include <a/b> // c' into 'a/b'
- *         '#include "a/b" // c' into 'a/b'
- */
-[[nodiscard]] std::string_view extractInclude(std::string_view line) {
-  validation::require((1 < std::ranges::count(line, '"')) or
-                          (std::end(line) != std::find(line.begin(), line.end(), '<') and
-                           std::end(line) != std::find(line.begin(), line.end(), '>')),
-                      "bad line");
-  const auto startPos = line.find_first_of("\"<") + 1;
-  const auto endPos = line.find_first_of("\">", startPos) - 1;
-  return line.substr(startPos, 1 + endPos - startPos);
-}
+  /**
+   * Changes '#include <a/b> // c' into 'a/b'
+   *         '#include "a/b" // c' into 'a/b'
+   */
+  [[nodiscard]] std::string_view extractInclude(std::string_view line) {
+    validation::require((1 < std::ranges::count(line, '"')) or
+                            (std::end(line) != std::find(line.begin(), line.end(), '<') and
+                             std::end(line) != std::find(line.begin(), line.end(), '>')),
+                        "bad line");
+    const auto startPos = line.find_first_of("\"<") + 1;
+    const auto endPos = line.find_first_of("\">", startPos) - 1;
+    return line.substr(startPos, 1 + endPos - startPos);
+  }
 
-/**
- * @returns either an std::filesystem::path from SRC_FILES representing the given file name if
- * found, or an std::filesystem::path formed from the the given file name.
- */
-[[nodiscard]] fs::path extractAbsolutePathIncludeIfPossible(std::string_view line) {
-  const auto file = extractInclude(line);
-  using namespace phud;
-  using namespace pf;
-  const auto& f = std::ranges::find_if(
-      SRC_DIRS, [&file](const auto& dir) { return std::ranges::contains(SRC_FILES, dir / file); });
-  return (SRC_DIRS.end() == f) ? file : fs::canonical(*f / file);
-}
+  /**
+   * @returns either an std::filesystem::path from SRC_FILES representing the given file name if
+   * found, or an std::filesystem::path formed from the the given file name.
+   */
+  [[nodiscard]] fs::path extractAbsolutePathIncludeIfPossible(std::string_view line) {
+    const auto file = extractInclude(line);
+    using namespace phud;
+    using namespace pf;
+    const auto& f = std::ranges::find_if(SRC_DIRS, [&file](const auto& dir) {
+      return std::ranges::contains(SRC_FILES, dir / file);
+    });
+    return (SRC_DIRS.end() == f) ? file : fs::canonical(*f / file);
+  }
 
-/** @returns all of the files that are nor in the src/main/cpp/thirdparty directory */
-[[nodiscard]] std::vector<fs::path> getMySrcFiles(std::span<const fs::path> files) {
-  return phud::algorithms::removeCopyIf<std::vector<fs::path>>(
-      files, [](const auto& f) { return ps::contains(f.string(), "thirdParties"); });
-}
+  /** @returns all of the files that are nor in the src/main/cpp/thirdparty directory */
+  [[nodiscard]] std::vector<fs::path> getMySrcFiles(std::span<const fs::path> files) {
+    return phud::algorithms::removeCopyIf<std::vector<fs::path>>(
+        files, [](const auto& f) { return ps::contains(f.string(), "thirdParties"); });
+  }
 
-/**
- * @param files the files in which we search for source files
- * @param fileExtension the source file extension
- * @returns a vector containing all of the files in the given files that end with the given
- * fileExtension.
- */
-[[nodiscard]] std::vector<fs::path> getSrcFiles(std::span<const fs::path> files,
-                                                std::string_view fileExtension) {
-  std::vector<fs::path> ret;
-  std::ranges::copy_if(files, std::back_inserter(ret), [&](const auto& p) {
-    return p.string().ends_with(fileExtension);
-  });
-  return ret;
-}
+  /**
+   * @param files the files in which we search for source files
+   * @param fileExtension the source file extension
+   * @returns a vector containing all of the files in the given files that end with the given
+   * fileExtension.
+   */
+  [[nodiscard]] std::vector<fs::path> getSrcFiles(std::span<const fs::path> files,
+                                                  std::string_view fileExtension) {
+    std::vector<fs::path> ret;
+    std::ranges::copy_if(files, std::back_inserter(ret),
+                         [&](const auto& p) { return p.string().ends_with(fileExtension); });
+    return ret;
+  }
 
-const auto CPP_FILES = getSrcFiles(SRC_FILES, ".cpp");
-const auto HPP_FILES = getSrcFiles(SRC_FILES, ".hpp");
-const auto H_FILES = getSrcFiles(SRC_FILES, ".h");
-const auto MY_SRC_FILES = getMySrcFiles(SRC_FILES);
-const auto H_HPP_FILES = getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES));
+  const auto CPP_FILES = getSrcFiles(SRC_FILES, ".cpp");
+  const auto HPP_FILES = getSrcFiles(SRC_FILES, ".hpp");
+  const auto H_FILES = getSrcFiles(SRC_FILES, ".h");
+  const auto MY_SRC_FILES = getMySrcFiles(SRC_FILES);
+  const auto H_HPP_FILES = getMySrcFiles(phud::algorithms::merge(HPP_FILES, H_FILES));
 
-/**
- * Les fichiers cpp sauf SourceCodeStaticCheckTest.cpp.
- */
-const auto& MY_SRC_FILES_WITH_EXCEPTION = phud::algorithms::removeCopyIf<std::vector<fs::path>>(MY_SRC_FILES,
- [](const auto& file) { return file.string().ends_with("SourceCodeStaticCheckTest.cpp"); }
-);
+  /**
+   * Les fichiers cpp sauf SourceCodeStaticCheckTest.cpp.
+   */
+  const auto& MY_SRC_FILES_WITH_EXCEPTION =
+      phud::algorithms::removeCopyIf<std::vector<fs::path>>(MY_SRC_FILES, [](const auto& file) {
+        return file.string().ends_with("SourceCodeStaticCheckTest.cpp");
+      });
 
-/**
- * Map of file <-> vector of its included files
- */
-const auto& FILE_INCLUSIONS = []() {
-  // std::unordered_map doesn't accept fs::path as a key
-  std::map<fs::path, std::vector<fs::path>, pf::PathComparator> ret;
-  std::ranges::for_each(SRC_FILES, [&ret](const auto& file) {
-    auto& includes = ret[file];
-    /* we do not check includes from STL, or from thirdParty */
+  /**
+   * Map of file <-> vector of its included files
+   */
+  const auto& FILE_INCLUSIONS = []() {
+    // std::unordered_map doesn't accept fs::path as a key
+    std::map<fs::path, std::vector<fs::path>, pf::PathComparator> ret;
+    std::ranges::for_each(SRC_FILES, [&ret](const auto& file) {
+      auto& includes = ret[file];
+      /* we do not check includes from STL, or from thirdParty */
+      auto tfl = TextFile(file);
+
+      while (tfl.next()) {
+        if (tfl.trim().startsWith("#include ")) {
+          includes.push_back(extractAbsolutePathIncludeIfPossible(tfl.getLine()));
+        }
+      }
+    });
+    return ret;
+  }();
+
+  class [[nodiscard]] BeforeClass final {
+  public:
+    BeforeClass() {
+      BOOST_REQUIRE(pt::isSet(CPP_FILES));
+      BOOST_REQUIRE(pt::isSet(HPP_FILES));
+      BOOST_REQUIRE(pt::isSet(H_FILES));
+      BOOST_REQUIRE(pt::isSet(SRC_FILES));
+      BOOST_REQUIRE(pt::isSet(MY_SRC_FILES));
+      BOOST_REQUIRE(pt::isSet(H_HPP_FILES));
+    }
+  }; // class BeforeClass
+
+  enum class LineType : short { none, pragmaOnce, other };
+
+  [[nodiscard]] bool isAComment(const TextFile& tfl) {
+    return tfl.startsWith("//") or tfl.startsWith("/*");
+  }
+
+  [[nodiscard]] LineType getFirstCodeLineType(const fs::path& file) {
     auto tfl = TextFile(file);
 
-    while (tfl.next()) {
-      if (tfl.trim().startsWith("#include ")) {
-        includes.push_back(extractAbsolutePathIncludeIfPossible(tfl.getLine()));
+    while (tfl.next()) { /*find the first code line*/
+      if (!tfl.trim().lineIsEmpty() and !isAComment(tfl)) {
+        return tfl.startsWith("#pragma once") ? LineType::pragmaOnce : LineType::other;
       }
     }
-  });
-  return ret;
-}();
 
-class [[nodiscard]] BeforeClass final {
-public:
-  BeforeClass() {
-    BOOST_REQUIRE(pt::isSet(CPP_FILES));
-    BOOST_REQUIRE(pt::isSet(HPP_FILES));
-    BOOST_REQUIRE(pt::isSet(H_FILES));
-    BOOST_REQUIRE(pt::isSet(SRC_FILES));
-    BOOST_REQUIRE(pt::isSet(MY_SRC_FILES));
-    BOOST_REQUIRE(pt::isSet(H_HPP_FILES));
+    return LineType::none; // the file is either empty or commented
   }
-}; // class BeforeClass
-
-enum class LineType : short { none, pragmaOnce, other };
-
-[[nodiscard]] bool isAComment(const TextFile& tfl) {
-  return tfl.startsWith("//") or tfl.startsWith("/*");
-}
-
-[[nodiscard]] LineType getFirstCodeLineType(const fs::path& file) {
-  auto tfl = TextFile(file);
-
-  while (tfl.next()) { /*find the first code line*/
-    if (!tfl.trim().lineIsEmpty() and !isAComment(tfl)) {
-      return tfl.startsWith("#pragma once") ? LineType::pragmaOnce : LineType::other;
-    }
-  }
-
-  return LineType::none; // the file is either empty or commented
-}
 } // anonymous namespace
 
 [[nodiscard]] static std::vector<std::string>
@@ -193,7 +194,8 @@ getAllQueryNames(std::string_view sourceFileContainingQueries) {
   const auto it = std::ranges::find_if(MY_SRC_FILES, [&](const auto& file) {
     return file.string().ends_with(sourceFileContainingQueries);
   });
-  assert(std::end(MY_SRC_FILES) != it and "aucun fichier source trouvé correspondant à sourceFileContainingQueries");
+  assert(std::end(MY_SRC_FILES) != it and
+         "aucun fichier source trouvé correspondant à sourceFileContainingQueries");
   const auto sourceFileWithFullPath = *it;
   auto tfl = TextFile(sourceFileWithFullPath);
   std::vector<std::string> ret;
@@ -201,7 +203,8 @@ getAllQueryNames(std::string_view sourceFileContainingQueries) {
   while (tfl.next()) {
     if (tfl.startsWith("static constexpr std::string_view ") and tfl.endsWith("raw(")) {
       const auto str = tfl.getLine();
-      ret.push_back(str.substr(PATTERN_BEGIN_LENGTH, str.size() - PATTERN_BEGIN_LENGTH - PATTERN_END_LENGTH - 1));
+      ret.push_back(str.substr(PATTERN_BEGIN_LENGTH,
+                               str.size() - PATTERN_BEGIN_LENGTH - PATTERN_END_LENGTH - 1));
     }
   }
 
@@ -211,9 +214,9 @@ getAllQueryNames(std::string_view sourceFileContainingQueries) {
 
 [[nodiscard]] static bool sourceFileContains(std::string_view sourceFile,
                                              std::string_view sqlQueryName) {
-  const auto it = std::ranges::find_if(MY_SRC_FILES,
-    [&](auto& file) { return file.string().ends_with(sourceFile); });
-      assert(std::end(MY_SRC_FILES) != it);
+  const auto it = std::ranges::find_if(
+      MY_SRC_FILES, [&](auto& file) { return file.string().ends_with(sourceFile); });
+  assert(std::end(MY_SRC_FILES) != it);
   const auto sourceFileWithFullPath = *it;
   auto tfl = TextFile(sourceFileWithFullPath);
 
@@ -306,7 +309,7 @@ static std::vector<fs::path> getIncludes(const fs::path& p) {
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noFileShouldBeIncludedInAFileAndOneOfItsIncludedFiles) {
   std::ranges::for_each(::FILE_INCLUSIONS, [&](const auto& fileToIncludes) {
     const auto [f, currentIncludes] = fileToIncludes;
-    
+
     std::ranges::for_each(currentIncludes, [&](const auto& incl) {
       const auto others = getIncludes(incl);
 

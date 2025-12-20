@@ -5,12 +5,12 @@
 #include <cassert> // assert
 
 namespace {
-constexpr auto SEAT_MAPPER {
-    makeEnumMapper<Seat>(std::pair {Seat::seatOne, "1"}, std::pair {Seat::seatTwo, "2"},
-                         std::pair {Seat::seatThree, "3"}, std::pair {Seat::seatFour, "4"},
-                         std::pair {Seat::seatFive, "5"}, std::pair {Seat::seatSix, "6"},
-                         std::pair {Seat::seatSeven, "7"}, std::pair {Seat::seatEight, "8"},
-                         std::pair {Seat::seatNine, "9"}, std::pair {Seat::seatTen, "10"})};
+  constexpr auto SEAT_MAPPER {
+      makeEnumMapper<Seat>(std::pair {Seat::seatOne, "1"}, std::pair {Seat::seatTwo, "2"},
+                           std::pair {Seat::seatThree, "3"}, std::pair {Seat::seatFour, "4"},
+                           std::pair {Seat::seatFive, "5"}, std::pair {Seat::seatSix, "6"},
+                           std::pair {Seat::seatSeven, "7"}, std::pair {Seat::seatEight, "8"},
+                           std::pair {Seat::seatNine, "9"}, std::pair {Seat::seatTen, "10"})};
 } // anonymous namespace
 
 /*[[nodiscard]]*/ Seat tableSeat::fromString(std::string_view seatStr) {
@@ -19,10 +19,9 @@ constexpr auto SEAT_MAPPER {
 }
 
 // Template implementation
-template<std::integral T>
+template <std::integral T>
 /*[[nodiscard]]*/ Seat tableSeat::fromArrayIndex(T i) {
-  validation::require(i >= 0 && i < TableConstants::MAX_SEATS,
-                      "Can't find a seat for that value");
+  validation::require(i >= 0 && i < TableConstants::MAX_SEATS, "Can't find a seat for that value");
   return static_cast<Seat>(i);
 }
 

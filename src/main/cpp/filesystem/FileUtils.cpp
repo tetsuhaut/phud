@@ -1,7 +1,7 @@
 #include "filesystem/FileUtils.hpp" // std::filesystem::path, std::string_view, std::vector
 #include "language/Validator.hpp"   // validation::
 #include "log/Logger.hpp"           // CURRENT_FILE_NAME
-#include "system/Time.hpp" // WINAMAX_HISTORY_TIME_FORMAT
+#include "system/Time.hpp"          // WINAMAX_HISTORY_TIME_FORMAT
 #include <gsl/gsl>                  // std::streamsize
 #include <chrono>                   // to_time_t
 #include <cstring>                  // std::strerror, strerror_s
@@ -18,23 +18,23 @@ static Logger& LOG() {
 namespace fs = std::filesystem;
 
 namespace {
-template <typename Iterator>
-class [[nodiscard]] FilesInDir final {
-private:
-  fs::path m_startDir {};
+  template <typename Iterator>
+  class [[nodiscard]] FilesInDir final {
+  private:
+    fs::path m_startDir {};
 
-public:
-  explicit FilesInDir(fs::path startDir)
-    : m_startDir {std::move(startDir)} {}
-  explicit FilesInDir(auto) = delete; // use only std::filesystem::path
-  [[nodiscard]] Iterator begin() const { return Iterator(m_startDir); }
-  [[nodiscard]] Iterator end() const noexcept { return Iterator(); }
-  [[nodiscard]] Iterator begin() { return Iterator(m_startDir); }
-  [[nodiscard]] Iterator end() noexcept { return Iterator(); }
-}; // class FilesInDir
+  public:
+    explicit FilesInDir(fs::path startDir)
+      : m_startDir {std::move(startDir)} {}
+    explicit FilesInDir(auto) = delete; // use only std::filesystem::path
+    [[nodiscard]] Iterator begin() const { return Iterator(m_startDir); }
+    [[nodiscard]] Iterator end() const noexcept { return Iterator(); }
+    [[nodiscard]] Iterator begin() { return Iterator(m_startDir); }
+    [[nodiscard]] Iterator end() noexcept { return Iterator(); }
+  }; // class FilesInDir
 
-using DirIt = FilesInDir<fs::directory_iterator>;
-using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
+  using DirIt = FilesInDir<fs::directory_iterator>;
+  using RecursDirIt = FilesInDir<fs::recursive_directory_iterator>;
 } // anonymous namespace
 
 // use std::filesystem::path as std needs it
@@ -146,9 +146,9 @@ std::string phud::filesystem::toString(const fs::file_time_type& ft) {
     LOG().error(msg.data());
     return "";
   }
-  oss << std::put_time(&calendarDateTime, WINAMAX_HISTORY_TIME_FORMAT);
+  oss << std::put_time(&calendarDateTime, WINAMAX_HISTORY_TIME_FORMAT.data());
 #else
-  oss << std::put_time(std::localtime(&posixTime), WINAMAX_HISTORY_TIME_FORMAT);
+  oss << std::put_time(std::localtime(&posixTime), WINAMAX_HISTORY_TIME_FORMAT.data());
 #endif // _MSC_VER
   return oss.str();
 }
@@ -160,86 +160,86 @@ bool phud::filesystem::containsAFileEndingWith(std::span<const fs::path> files,
 }
 
 namespace {
-/**
- * Split pattern by '*' to get literal parts.
- */
-std::vector<std::string_view> splitPatternByWildcards(std::string_view pattern) {
-  std::vector<std::string_view> patternParts;
-  std::size_t start {0};
+  /**
+   * Split pattern by '*' to get literal parts.
+   */
+  std::vector<std::string_view> splitPatternByWildcards(std::string_view pattern) {
+    std::vector<std::string_view> patternParts;
+    std::size_t start {0};
 
-  for (std::size_t pos {0}; pos <= pattern.size(); ++pos) {
-    if (pos == pattern.size() or pattern[pos] == '*') {
-      if (pos > start) {
-        patternParts.push_back(pattern.substr(start, pos - start));
+    for (std::size_t pos {0}; pos <= pattern.size(); ++pos) {
+      if (pos == pattern.size() or pattern[pos] == '*') {
+        if (pos > start) {
+          patternParts.push_back(pattern.substr(start, pos - start));
+        }
+        start = pos + 1;
       }
-      start = pos + 1;
     }
+
+    return patternParts;
   }
 
-  return patternParts;
-}
+  /**
+   * Check each pattern part sequentially against filename.
+   */
+  bool matchPatternParts(std::string_view filename, std::string_view pattern,
+                         std::span<const std::string_view> patternParts) {
+    std::size_t filenamePos {0};
 
-/**
- * Check each pattern part sequentially against filename.
- */
-bool matchPatternParts(std::string_view filename, std::string_view pattern,
-                       std::span<const std::string_view> patternParts) {
-  std::size_t filenamePos {0};
-
-  for (const auto& [i, part] : patternParts | std::views::enumerate) {
-    if (0 == i) {
-      // First part: must match at start (unless pattern starts with *)
-      if (!pattern.starts_with('*')) {
-        if (!filename.substr(filenamePos).starts_with(part)) {
-          return false;
+    for (const auto& [i, part] : patternParts | std::views::enumerate) {
+      if (0 == i) {
+        // First part: must match at start (unless pattern starts with *)
+        if (!pattern.starts_with('*')) {
+          if (!filename.substr(filenamePos).starts_with(part)) {
+            return false;
+          }
+          filenamePos += part.size();
+        } else {
+          // Find this part anywhere in remaining filename
+          const auto foundPos = filename.substr(filenamePos).find(part);
+          if (foundPos == std::string_view::npos) {
+            return false;
+          }
+          filenamePos += foundPos + part.size();
         }
-        filenamePos += part.size();
-      } else {
+      } else if (std::cmp_equal(i, patternParts.size() - 1)) {
+        // Last part: must match at end (unless pattern ends with *)
+        if (!pattern.ends_with('*')) {
+          return filename.substr(filenamePos).ends_with(part);
+        }
         // Find this part anywhere in remaining filename
+        const auto foundPos = filename.substr(filenamePos).find(part);
+        return foundPos != std::string_view::npos;
+      } else {
+        // Middle part: find in remaining filename
         const auto foundPos = filename.substr(filenamePos).find(part);
         if (foundPos == std::string_view::npos) {
           return false;
         }
         filenamePos += foundPos + part.size();
       }
-    } else if (std::cmp_equal(i, patternParts.size() - 1)) {
-      // Last part: must match at end (unless pattern ends with *)
-      if (!pattern.ends_with('*')) {
-        return filename.substr(filenamePos).ends_with(part);
-      }
-      // Find this part anywhere in remaining filename
-      const auto foundPos = filename.substr(filenamePos).find(part);
-      return foundPos != std::string_view::npos;
-    } else {
-      // Middle part: find in remaining filename
-      const auto foundPos = filename.substr(filenamePos).find(part);
-      if (foundPos == std::string_view::npos) {
-        return false;
-      }
-      filenamePos += foundPos + part.size();
     }
+
+    return true;
   }
 
-  return true;
-}
+  /**
+   * Check if a filename matches a simple wildcard pattern.
+   * Supports * as wildcard (matches any sequence of characters).
+   */
+  bool matchesPattern(std::string_view filename, std::string_view pattern) {
+    validation::requireNonEmpty(filename, "filename");
+    validation::requireNonEmpty(pattern, "pattern");
 
-/**
- * Check if a filename matches a simple wildcard pattern.
- * Supports * as wildcard (matches any sequence of characters).
- */
-bool matchesPattern(std::string_view filename, std::string_view pattern) {
-  validation::requireNonEmpty(filename, "filename");
-  validation::requireNonEmpty(pattern, "pattern");
+    const auto patternParts = splitPatternByWildcards(pattern);
 
-  const auto patternParts = splitPatternByWildcards(pattern);
+    // If no wildcards, must match exactly
+    if (patternParts.size() == 1 and pattern.find('*') == std::string_view::npos) {
+      return filename == pattern;
+    }
 
-  // If no wildcards, must match exactly
-  if (patternParts.size() == 1 and pattern.find('*') == std::string_view::npos) {
-    return filename == pattern;
+    return matchPatternParts(filename, pattern, patternParts);
   }
-
-  return matchPatternParts(filename, pattern, patternParts);
-}
 } // anonymous namespace
 
 std::vector<fs::path> phud::filesystem::listFilesMatchingPattern(const fs::path& dir,
@@ -254,7 +254,7 @@ std::vector<fs::path> phud::filesystem::listFilesMatchingPattern(const fs::path&
   for (const auto& dirEntry : fs::directory_iterator(dir)) {
     if (dirEntry.is_regular_file()) {
       if (const auto filename = dirEntry.path().filename().string();
-        !filename.empty() && matchesPattern(filename, pattern)) {
+          !filename.empty() && matchesPattern(filename, pattern)) {
         ret.push_back(dirEntry.path());
       }
     }

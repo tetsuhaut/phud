@@ -7,118 +7,118 @@
 
 
 namespace {
-[[nodiscard]] constexpr std::pair<double, double> mkPair(double x, double y) noexcept {
-  return std::make_pair(x, y);
-}
-constexpr auto ZERO {mkPair(0, 0)};
+  [[nodiscard]] constexpr std::pair<double, double> mkPair(double x, double y) noexcept {
+    return std::make_pair(x, y);
+  }
+  constexpr auto ZERO {mkPair(0, 0)};
 
-/**
- * The position of seats, if the window size is 1 x 1
- * seat one is considered middle bottom
- */
-constexpr auto NB_SEATS_TO_COEFF {
-    frozen::make_unordered_map<Seat,
-                               std::array<std::pair<double, double>, TableConstants::MAX_SEATS>>(
-        {// 2
-         // |
-         // 1
-         {Seat::seatTwo,
-          {mkPair(0.5, 0.9), mkPair(0.5, 0.1), ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO}},
+  /**
+   * The position of seats, if the window size is 1 x 1
+   * seat one is considered middle bottom
+   */
+  constexpr auto NB_SEATS_TO_COEFF {
+      frozen::make_unordered_map<Seat,
+                                 std::array<std::pair<double, double>, TableConstants::MAX_SEATS>>(
+          {// 2
+           // |
+           // 1
+           {Seat::seatTwo,
+            {mkPair(0.5, 0.9), mkPair(0.5, 0.1), ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO, ZERO}},
 
-         // 2---3
-         //  \ /
-         //   1
-         {Seat::seatThree,
-          {mkPair(0.5, 0.9), mkPair(0.3333, 0.3333), mkPair(0.6666, 0.3333), ZERO, ZERO, ZERO, ZERO,
-           ZERO, ZERO, ZERO}},
+           // 2---3
+           //  \ /
+           //   1
+           {Seat::seatThree,
+            {mkPair(0.5, 0.9), mkPair(0.3333, 0.3333), mkPair(0.6666, 0.3333), ZERO, ZERO, ZERO,
+             ZERO, ZERO, ZERO, ZERO}},
 
-         // 2-3-4
-         //   1
-         {Seat::seatFour,
-          {mkPair(0.5, 0.5), mkPair(0.25, 0.25), mkPair(0.5, 0.25), mkPair(0.75, 0.25), ZERO, ZERO,
-           ZERO, ZERO, ZERO, ZERO}},
+           // 2-3-4
+           //   1
+           {Seat::seatFour,
+            {mkPair(0.5, 0.5), mkPair(0.25, 0.25), mkPair(0.5, 0.25), mkPair(0.75, 0.25), ZERO,
+             ZERO, ZERO, ZERO, ZERO, ZERO}},
 
-         // 3---4
-         // |   |
-         // 2   5
-         //  \ /
-         //   1
-         {Seat::seatFive,
-          {mkPair(0.5, 1), mkPair(0.25, 0.75), mkPair(0.25, 0.25), mkPair(0.75, 0.25),
-           mkPair(0.75, 0.75), ZERO, ZERO, ZERO, ZERO, ZERO}},
+           // 3---4
+           // |   |
+           // 2   5
+           //  \ /
+           //   1
+           {Seat::seatFive,
+            {mkPair(0.5, 1), mkPair(0.25, 0.75), mkPair(0.25, 0.25), mkPair(0.75, 0.25),
+             mkPair(0.75, 0.75), ZERO, ZERO, ZERO, ZERO, ZERO}},
 
-         //   4
-         //  / \
+           //   4
+           //  / \
          // 3   5
-         // |   |
-         // 2   6
-         //  \ /
-         //   1
-         {Seat::seatSix,
-          {mkPair(0.5, 0.9), mkPair(0.2, 0.75), mkPair(0.2, 0.25), mkPair(0.5, 0.1),
-           mkPair(0.8, 0.25), mkPair(0.8, 0.75), ZERO, ZERO, ZERO, ZERO}},
+           // |   |
+           // 2   6
+           //  \ /
+           //   1
+           {Seat::seatSix,
+            {mkPair(0.5, 0.9), mkPair(0.2, 0.75), mkPair(0.2, 0.25), mkPair(0.5, 0.1),
+             mkPair(0.8, 0.25), mkPair(0.8, 0.75), ZERO, ZERO, ZERO, ZERO}},
 
-         //   4-5
-         //  /   \
+           //   4-5
+           //  /   \
          // 3     6
-         // |     |
-         // 2     7
-         //  \   /
-         //    1
-         {Seat::seatSeven,
-          {mkPair(1, 0.5), mkPair(0.1, 0.75), mkPair(0.1, 0.25), mkPair(0.25, 0.25),
-           mkPair(0.25, 0.75), mkPair(0.75, 0.25), mkPair(0.75, 0.75), ZERO, ZERO, ZERO}},
+           // |     |
+           // 2     7
+           //  \   /
+           //    1
+           {Seat::seatSeven,
+            {mkPair(1, 0.5), mkPair(0.1, 0.75), mkPair(0.1, 0.25), mkPair(0.25, 0.25),
+             mkPair(0.25, 0.75), mkPair(0.75, 0.25), mkPair(0.75, 0.75), ZERO, ZERO, ZERO}},
 
-         //   4-5-6
-         //  /     \
+           //   4-5-6
+           //  /     \
          // 3       7
-         // |       |
-         // 2       8
-         //  \     /
-         //     1
-         {Seat::seatEight,
-          {mkPair(0, 0.5), mkPair(0.25, 0.25), mkPair(0.5, 0), mkPair(0.75, 0.25), mkPair(1, 0.5),
-           mkPair(0.75, 0.75), mkPair(0.5, 1), mkPair(0.25, 0.75), ZERO, ZERO}},
+           // |       |
+           // 2       8
+           //  \     /
+           //     1
+           {Seat::seatEight,
+            {mkPair(0, 0.5), mkPair(0.25, 0.25), mkPair(0.5, 0), mkPair(0.75, 0.25), mkPair(1, 0.5),
+             mkPair(0.75, 0.75), mkPair(0.5, 1), mkPair(0.25, 0.75), ZERO, ZERO}},
 
-         //    5--6
-         //   /    \
+           //    5--6
+           //   /    \
          //  4       7
-         //  |       |
-         //  3       8
-         //   \     /
-         //    2-1-9
-         {Seat::seatNine,
-          {mkPair(0.5, 1), mkPair(0.35, 0.85), mkPair(0.125, 0.635), mkPair(0.125, 0.35),
-           mkPair(0.35, 0.125), mkPair(0.625, 0.125), mkPair(0.85, 0.35), mkPair(0.85, 0.635),
-           mkPair(0.625, 0.85), ZERO}},
+           //  |       |
+           //  3       8
+           //   \     /
+           //    2-1-9
+           {Seat::seatNine,
+            {mkPair(0.5, 1), mkPair(0.35, 0.85), mkPair(0.125, 0.635), mkPair(0.125, 0.35),
+             mkPair(0.35, 0.125), mkPair(0.625, 0.125), mkPair(0.85, 0.35), mkPair(0.85, 0.635),
+             mkPair(0.625, 0.85), ZERO}},
 
-         //    5-6-7
-         //   /     \
+           //    5-6-7
+           //   /     \
          //  4       8
-         //  |       |
-         //  3       9
-         //   \     /
-         //    2-1-10
-         {Seat::seatTen,
-          {mkPair(0.5, 1), mkPair(0.35, 0.85), mkPair(0.125, 0.635), mkPair(0.125, 0.35),
-           mkPair(0.35, 0.125), mkPair(0.5, 0), mkPair(0.625, 0.125), mkPair(0.85, 0.35),
-           mkPair(0.85, 0.635), mkPair(0.625, 0.85)}}})};
+           //  |       |
+           //  3       9
+           //   \     /
+           //    2-1-10
+           {Seat::seatTen,
+            {mkPair(0.5, 1), mkPair(0.35, 0.85), mkPair(0.125, 0.635), mkPair(0.125, 0.35),
+             mkPair(0.35, 0.125), mkPair(0.5, 0), mkPair(0.625, 0.125), mkPair(0.85, 0.35),
+             mkPair(0.85, 0.635), mkPair(0.625, 0.85)}}})};
 
-[[nodiscard]] constexpr std::pair<int, int> calculatePosition(Seat seat, Seat maxSeats,
-                                                              const phud::Rectangle& tablePos) {
-  const auto it = NB_SEATS_TO_COEFF.find(maxSeats);
-  assert(NB_SEATS_TO_COEFF.end() != it && "Invalid maxSeats");
-  const auto [coefX, coefY] = it->second.at(tableSeat::toArrayIndex(seat));
-  return {limits::toInt(tablePos.x + coefX * tablePos.w),
-          limits::toInt(tablePos.y + coefY * tablePos.h)};
-}
+  [[nodiscard]] constexpr std::pair<int, int> calculatePosition(Seat seat, Seat maxSeats,
+                                                                const phud::Rectangle& tablePos) {
+    const auto it = NB_SEATS_TO_COEFF.find(maxSeats);
+    assert(NB_SEATS_TO_COEFF.end() != it && "Invalid maxSeats");
+    const auto [coefX, coefY] = it->second.at(tableSeat::toArrayIndex(seat));
+    return {limits::toInt(tablePos.x + coefX * tablePos.w),
+            limits::toInt(tablePos.y + coefY * tablePos.h)};
+  }
 
-Seat rotate(Seat tobeRotated, int nbClicks, Seat maxSeats) {
-  const auto currentIndex = tableSeat::toInt(tobeRotated);
-  const auto maxSeatIndex = tableSeat::toInt(maxSeats);
-  const auto newIndex = ((currentIndex - 1 + nbClicks) % maxSeatIndex) + 1;
-  return tableSeat::fromInt(newIndex);
-}
+  Seat rotate(Seat tobeRotated, int nbClicks, Seat maxSeats) {
+    const auto currentIndex = tableSeat::toInt(tobeRotated);
+    const auto maxSeatIndex = tableSeat::toInt(maxSeats);
+    const auto newIndex = ((currentIndex - 1 + nbClicks) % maxSeatIndex) + 1;
+    return tableSeat::fromInt(newIndex);
+  }
 } // anonymous namespace
 
 /**

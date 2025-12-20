@@ -69,9 +69,9 @@ BOOST_AUTO_TEST_CASE(StringTest_replaceShouldWork) {
 }
 
 namespace {
-struct [[nodiscard]] Params final {
-  std::string_view value;
-}; // struct Params
+  struct [[nodiscard]] Params final {
+    std::string_view value;
+  }; // struct Params
 } // anonymous namespace
 
 BOOST_AUTO_TEST_CASE(StringTest_passingStringViewStructAsParamShouldWork) {

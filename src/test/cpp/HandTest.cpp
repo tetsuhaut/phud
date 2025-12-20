@@ -56,11 +56,12 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   BOOST_REQUIRE(Street::preflop == pHand->viewActions().front()->getStreet());
   BOOST_REQUIRE(ActionType::raise == pHand->viewActions().front()->getType());
   BOOST_REQUIRE("sabre_laser" == pHand->viewActions().front()->getPlayerName());
-  std::ranges::for_each(std::ranges::views::enumerate(pHand->viewActions()), [](const auto& enumerated) {
-    const auto [i, pAction] = enumerated;
-    BOOST_REQUIRE(i == std::make_unsigned_t<int>(pAction->getIndex()));
-    BOOST_REQUIRE("531302705944068104-65-1437230557" == pAction->getHandId());
-  });
+  std::ranges::for_each(std::ranges::views::enumerate(pHand->viewActions()),
+                        [](const auto& enumerated) {
+                          const auto [i, pAction] = enumerated;
+                          BOOST_REQUIRE(i == std::make_unsigned_t<int>(pAction->getIndex()));
+                          BOOST_REQUIRE("531302705944068104-65-1437230557" == pAction->getHandId());
+                        });
   BOOST_REQUIRE_CLOSE(pHand->viewActions().front()->getBetAmount(), 3200.0, 0.01);
   BOOST_REQUIRE(5 == pHand->viewActions().size());
 }

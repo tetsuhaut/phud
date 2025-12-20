@@ -5,7 +5,7 @@
 
 #if defined(_MSC_VER) // removal of specific compiler warnings due to Boost
 #  pragma warning(push)
-#  pragma warning(disable : 4365)  // signed/unsigned mismatch
+#  pragma warning(disable : 4365) // signed/unsigned mismatch
 #elif defined(__MINGW32__)
 #  pragma GCC diagnostic push
 #  pragma GCC diagnostic ignored "-Weffc++"
