@@ -201,7 +201,7 @@ getAllQueryNames(std::string_view sourceFileContainingQueries) {
   std::vector<std::string> ret;
 
   while (tfl.next()) {
-    if (tfl.startsWith("static constexpr std::string_view ") and tfl.endsWith("raw(")) {
+    if (tfl.trim().startsWith("static constexpr std::string_view ") and tfl.endsWith("raw(")) {
       const auto str = tfl.getLine();
       ret.push_back(str.substr(PATTERN_BEGIN_LENGTH,
                                str.size() - PATTERN_BEGIN_LENGTH - PATTERN_END_LENGTH - 1));
@@ -458,7 +458,8 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noNoDiscardVoid) {
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesAreUsed) {
   // this test relies on the way sqlQueries.hpp is written, watch out!!!
-  const auto& queryNames {getAllQueryNames("sqlQueries.hpp")};
+  const auto queryNames = getAllQueryNames("sqlQueries.hpp");
+  assert(!queryNames.empty() && "no SQL query found!!!");
   std::ranges::for_each(queryNames, [](std::string_view queryName) {
     if (!sourceFileContains("Database.cpp", queryName)) {
       LOG().warn<"The SQL query {} is not used in Database.cpp">(queryName);
