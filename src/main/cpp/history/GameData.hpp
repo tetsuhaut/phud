@@ -18,11 +18,11 @@ struct [[nodiscard]] GameData final {
   // 1 byte padding at end
 
   struct [[nodiscard]] Args final {
+    Time startDate;
     double smallBlind;
     double bigBlind;
     double buyIn;
     Seat nbMaxSeats;
-    const Time& startDate;
   };
 
   explicit GameData(const Args& args) noexcept

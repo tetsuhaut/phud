@@ -1,10 +1,13 @@
+#include "constants/TableConstants.hpp" // TableConstants::
 #include "filesystem/TextFile.hpp"
 #include "history/PokerSiteHandBuilder.hpp"
 #include "strings/StringUtils.hpp"
+#include <array>
+#include <string>
 
 namespace ps = phud::strings;
 
-static constexpr auto SEAT_LENGTH {ps::length("Seat ")};
+static constexpr auto SEAT_LENGTH = ps::length("Seat ");
 
 [[nodiscard]] /*static*/ std::array<std::string, TableConstants::MAX_SEATS>
 parseSeats(TextFile& tf, PlayerCache& /*cache*/) {

@@ -398,11 +398,11 @@ WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf, PlayerCache& pc) 
                handId] {getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(tf.getLine())};
   auto pHand = getHand<GameType::cashGame>(tf, pc, 0, date, handId);
   return {std::move(pHand), std::make_unique<GameData>(GameData::Args {
+                                .startDate = pHand->getStartDate(),
                                 .smallBlind = smallBlind,
                                 .bigBlind = bigBlind,
                                 .buyIn = 0,
                                 .nbMaxSeats = pHand->getMaxSeats(),
-                                .startDate = pHand->getStartDate(),
                             })};
 }
 
@@ -413,9 +413,11 @@ WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf, PlayerCache& pc
                handId] {getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine())};
   auto pHand = getHand<GameType::tournament>(tf, pc, level, date, handId);
   return {std::move(pHand),
-          std::make_unique<GameData>(GameData::Args {.smallBlind = 0,
+          std::make_unique<GameData>(GameData::Args {
+                                                     .startDate = pHand->getStartDate(),
+                                                     .smallBlind = 0,
                                                      .bigBlind = 0,
                                                      .buyIn = buyIn,
                                                      .nbMaxSeats = pHand->getMaxSeats(),
-                                                     .startDate = pHand->getStartDate()})};
+                                                   })};
 }
