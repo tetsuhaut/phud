@@ -1,5 +1,5 @@
 #include "language/Validator.hpp"
-#include <print> // std::print, stderr, std::abort()
+#include <print> // std::print, stderr, std::terminate()
 
 void phudMacroAssert(const char* const expression, const bool expressionReturnValue,
                      const char* const fileName, const char* const functionName, int line,
@@ -8,7 +8,7 @@ void phudMacroAssert(const char* const expression, const bool expressionReturnVa
     std::print(stderr,
                "Assertion failed in file {}: {}\nFunction {}\nExpression:\t{}\nExpected:\t{}\n",
                fileName, line, functionName, expression, errorMessage);
-    std::abort();
+    std::terminate(); // stops the program with cleaning up
   }
 }
 

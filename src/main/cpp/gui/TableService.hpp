@@ -14,7 +14,6 @@ struct TableStatistics;
 /**
  * Unified service for all table-related operations.
  * Combines table selection, monitoring, and validation concerns.
- * This is a concrete sealed class - not polymorphic.
  */
 class [[nodiscard]] TableService /*final*/ {
 private:

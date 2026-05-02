@@ -1,5 +1,5 @@
 #include "phud/ConfigReader.hpp"
-#include "phud/ProgramArguments.hpp"     // std::pair, std::filesystem::path, LoggingLevel
+#include "phud/ProgramArguments.hpp"     // parseProgramArguments, std::pair, std::filesystem::path, LoggingLevel
 #include "phud/ProgramConfiguration.hpp" // std::pair, std::filesystem::path, LoggingLevel
 
 namespace {

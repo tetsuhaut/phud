@@ -14,7 +14,7 @@ enum class Seat : short;
 struct TableStatistics;
 
 /**
- * The database where each entity is persisted.
+ * The database where we persist all the entities: poker hands and players.
  */
 class [[nodiscard]] Database final {
 private:

@@ -11,7 +11,7 @@
 #include "phud/ProgramArguments.hpp" // ProgramArgumentsException, UserAskedForHelpException
 
 #if defined(_WIN32)
-#  include <Windows.h> // WinMain. must be included before tlhelp32.h
+#  include <Windows.h> // WinMain, AttachConsole, FILE
 #endif                 // _WIN32
 
 #include <csignal> // std::signal(), SIG_DFL, SIGABRT
@@ -51,13 +51,12 @@ static void logErrorAndAbort(int signum) {
   std::signal(signum, SIG_DFL);
   std::ostringstream oss;
   oss << boost::stacktrace::stacktrace();
-  std::print(stderr, "{}\n", oss.str());
+  std::println(stderr, "{}", oss.str());
   LOG().critical(oss.str());
   std::raise(SIGABRT);
 }
 
 #if defined(_WIN32)
-
 class [[nodiscard]] ConditionalConsole final {
 private:
   bool m_hasConsole = false;
@@ -75,13 +74,12 @@ public:
       std::cout.clear();
       std::cerr.clear();
       std::cin.clear();
-      std::print("\n");
+      std::print(stderr, "\n");
     }
   }
 
   ~ConditionalConsole() {
     if (m_hasConsole) {
-      std::print("\n");
       FreeConsole();
     }
   }
@@ -98,6 +96,7 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ INT) {
 #else
 int main(int argc, const char* const* const argv) {
 #endif // _WIN32
+
   std::setlocale(LC_ALL, "en_US.utf8");
   auto nbErr = 0;
 
@@ -115,8 +114,10 @@ int main(int argc, const char* const* const argv) {
 
     const auto& [oHistoDir, loggingLevel,
                  loggingPattern] {ProgramConfiguration::readConfiguration(args)};
+    // start the logging framework
     LoggingConfig _(loggingPattern);
     Logger::setLoggingLevel(loggingLevel);
+    // log an error when the program crashes
     std::signal(SIGSEGV, logErrorAndAbort);
     std::signal(SIGABRT, logErrorAndAbort);
     std::signal(SIGINT, logErrorAndAbort);
@@ -144,23 +145,26 @@ int main(int argc, const char* const* const argv) {
     nbErr = gui.run();
     LOG().info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
   } catch (const UserAskedForHelpException& e) {
-    // if user asks for help, he passed -h in the command line
-    std::print("{}\n", e.what());
+    // if user asks for help, this is not an error
+    std::print("{}", e.what());
+  } catch (const ProgramArgumentsException& e) {
+    std::println(stderr , "{}", e.what());
+    ++nbErr;
   } catch (const PhudException& e) {
     LOG().error(e.what());
-    std::print(stderr, "{}\n", e.what());
+    std::println(stderr, "{}", e.what());
     ++nbErr;
   } catch (const std::logic_error& e) {
     LOG().error<"Unexpected exception: {}">(e.what());
-    std::print(stderr, "{}\n", e.what());
+    std::println(stderr, "{}", e.what());
     ++nbErr;
   } catch (const std::exception& e) {
     LOG().error<"Unexpected exception: {}">(e.what());
-    std::print(stderr, "{}\n", e.what());
+    std::println(stderr, "{}", e.what());
     ++nbErr;
   } catch (...) {
     LOG().error<"Unknown exception occurred.">();
-    std::print(stderr, "Unknown exception occurred.\n");
+    std::println(stderr, "Unknown exception occurred.\n");
     ++nbErr;
   }
 

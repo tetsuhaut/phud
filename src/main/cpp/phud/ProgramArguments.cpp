@@ -7,9 +7,43 @@
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 #include <array>
+#include <format>
+#include <ranges> // std::ranges, std::views
 
 namespace fs = std::filesystem;
 namespace ps = phud::strings;
+
+namespace {
+  constexpr auto USAGE_TEMPLATE =
+      "Usage:\n{} [-d|--historyDir <directory>] "
+      "[-l|--logLevel none|trace|info|warning|error]\n"
+      "Where <directory> is the directory containing the poker site hands history.\n";
+
+/**
+ * This implementation to avoid std::tolower which forces us to use a cast from int to char.
+ */ 
+  [[nodiscard]] constexpr char toLowerChar(char c) noexcept {
+    // we know that in ASCII, characters are ordered alphabetically and
+    // lowercase are just before upper case
+    return (c >= 'A' && c <= 'Z') ? (c + ('a' - 'A')): (c);
+  }
+
+  [[nodiscard]] std::string strToLowerCase(std::string_view str) {
+    std::string lowerCase;
+    lowerCase.reserve(str.size());
+    std::ranges::transform(str, std::back_inserter(lowerCase), toLowerChar);
+    return lowerCase;
+  }
+
+  [[nodiscard]] std::vector<std::string> toLowerCase(std::span<const char* const> input) {
+    return input | std::views::transform(strToLowerCase) | std::ranges::to<std::vector>();
+  }
+
+  template <StringLiteral STR>
+  [[nodiscard]] constexpr bool isEqualTo(std::string_view str) noexcept {
+    return str == &STR.value[0];
+  }
+} // anonymous namespace
 
 /**
  * @returns the value, from arguments, corresponding to one of the given options.
@@ -48,27 +82,10 @@ parseHistoryDir(std::span<const char* const> arguments) {
   return {};
 }
 
-namespace {
-  [[nodiscard]] constexpr char toLowerChar(char c) noexcept {
-    // Simple implementation that avoids std::tolower and its int->char cast
-    if (c >= 'A' && c <= 'Z') {
-      return c + ('a' - 'A');
-    }
-    return c;
-  }
-} // anonymous namespace
-
-[[nodiscard]] static std::string toLowerCase(std::string_view str) {
-  std::string lowerCase;
-  lowerCase.reserve(str.size());
-  std::ranges::transform(str, lowerCase.begin(), toLowerChar);
-  return lowerCase;
-}
-
 [[nodiscard]] static std::optional<LoggingLevel>
 parseLoggingLevel(std::span<const char* const> arguments) {
   if (const auto oLogLevel = getOptionValue(arguments, "-l", "--logLevel"); oLogLevel.has_value()) {
-    return toLoggingLevel(toLowerCase(oLogLevel.value()));
+    return toLoggingLevel(strToLowerCase(oLogLevel.value()));
   }
 
   return {};
@@ -90,11 +107,6 @@ listUnknownArguments(std::span<const char* const> arguments) {
   return ret;
 }
 
-template <StringLiteral STR>
-[[nodiscard]] constexpr static bool isEqualTo(std::string_view str) noexcept {
-  return str == &STR.value[0];
-}
-
 /**
  * The phud.exe program takes arguments. This function handles these arguments.
  * - No arguments passed in: typical usage, launches the graphical user interface.
@@ -109,21 +121,16 @@ std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
 parseProgramArguments(std::span<const char* const> args) {
   // NOTE: can't log yet
   const auto programName = gsl::at(args, 0);
-  constexpr auto USAGE_TEMPLATE =
-      "Usage:\n{} [-d|--historyDir <directory>] "
-      "[-l|--logLevel none|trace|info|warning|error]\n"
-      "Where:\n"
-      "  <directory> is the directory containing the poker site hand history.\n"
-      "  <none|trace|info|warning|error> are the different values for the logging level.\n";
+  const auto usageMsg = fmt::format(::USAGE_TEMPLATE, programName);
+  const auto progArgs = ::toLowerCase(args.subspan(1));
 
-  if ((std::end(args) != std::ranges::find_if(args, isEqualTo<"-h">)) or
-      (std::end(args) != std::ranges::find_if(args, isEqualTo<"--help">))) {
+  if ((std::end(progArgs) != std::ranges::find_if(progArgs, ::isEqualTo<"-h">)) or
+      (std::end(progArgs) != std::ranges::find_if(progArgs, ::isEqualTo<"--help">))) {
     const auto PROGRAM_DESCRIPTION =
-        fmt::format("Poker Heads-Up Dispay version {} \n"
+        fmt::format("\nPoker Heads-Up Dispay version {} \n"
                     "Shows statistics on the players for the current poker table.\n",
                     ProgramInfos::APP_VERSION);
-    throw UserAskedForHelpException {
-        fmt::format("{}{}", PROGRAM_DESCRIPTION, fmt::format(USAGE_TEMPLATE, programName))};
+    throw UserAskedForHelpException(fmt::format("{}\n{}", PROGRAM_DESCRIPTION, usageMsg));
   }
 
   if (const auto badArgs = listUnknownArguments(args); !badArgs.empty()) {
@@ -131,10 +138,19 @@ parseProgramArguments(std::span<const char* const> args) {
     std::ranges::for_each(badArgs,
                           [&argsList](const auto& arg) { argsList.append(arg).append(", "); });
     argsList = argsList.substr(0, argsList.size() - ps::length(", "));
-    throw ProgramArgumentsException {fmt::format("Unknown argument{}: {}\n{}",
-                                                 ps::plural(badArgs.size()), argsList,
-                                                 fmt::format(USAGE_TEMPLATE, programName))};
+    const auto errMsg = fmt::format("Unknown argument{}: {}\n{}", ps::plural(badArgs.size()), argsList, usageMsg);
+    throw ProgramArgumentsException {errMsg};
   }
 
   return {parseHistoryDir(args), parseLoggingLevel(args)};
 }
+
+ProgramArgumentsException::ProgramArgumentsException(std::string_view msg)
+  : std::exception(std::format("{}", msg).c_str()) {}
+
+ProgramArgumentsException::~ProgramArgumentsException() = default;
+
+UserAskedForHelpException::UserAskedForHelpException(std::string_view msg)
+  : std::exception(std::format("{}", msg).c_str()) {}
+
+UserAskedForHelpException::~UserAskedForHelpException() = default;

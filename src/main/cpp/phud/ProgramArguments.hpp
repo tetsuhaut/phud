@@ -18,12 +18,31 @@
 [[nodiscard]] std::pair<std::optional<std::filesystem::path>, std::optional<LoggingLevel>>
 parseProgramArguments(std::span<const char* const> args);
 
-class [[nodiscard]] ProgramArgumentsException : public PhudException {
+/**
+ * An exception thrown by the program argument parsing.
+ */
+class [[nodiscard]] ProgramArgumentsException final : public std::exception {
 public:
-  using PhudException::PhudException;
+  explicit ProgramArgumentsException(std::string_view msg);
+  ProgramArgumentsException(const ProgramArgumentsException&) = default;
+  ProgramArgumentsException(ProgramArgumentsException&&) = default;
+  ProgramArgumentsException& operator=(const ProgramArgumentsException&) = default;
+  ProgramArgumentsException& operator=(ProgramArgumentsException&&) = default;
+  ~ProgramArgumentsException() override;
 };
 
-class [[nodiscard]] UserAskedForHelpException final : public ProgramArgumentsException {
+
+/**
+ * The exception thrown when user asks for help.
+ * When user asks for help, we don't need to show the stack trace so we
+ * inherit from std::exception instead of PhudException.
+ */
+class [[nodiscard]] UserAskedForHelpException final : public std::exception {
 public:
-  using ProgramArgumentsException::ProgramArgumentsException;
+  explicit UserAskedForHelpException(std::string_view msg);
+  UserAskedForHelpException(const UserAskedForHelpException&) = default;
+  UserAskedForHelpException(UserAskedForHelpException&&) = default;
+  UserAskedForHelpException& operator=(const UserAskedForHelpException&) = default;
+  UserAskedForHelpException& operator=(UserAskedForHelpException&&) = default;
+  ~UserAskedForHelpException() override;
 };

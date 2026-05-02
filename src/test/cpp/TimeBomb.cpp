@@ -20,7 +20,7 @@ struct [[nodiscard]] TimeBombImpl final : TimeBomb {
       if (!m_isDefused) {
         std::ostringstream oss;
         oss << std::this_thread::get_id();
-        std::print("[{}] TimeBomb explodes in test {}\n", oss.str(), m_testName);
+        std::println("[{}] TimeBomb explodes in test {}", oss.str(), m_testName);
         std::abort();
       }
 

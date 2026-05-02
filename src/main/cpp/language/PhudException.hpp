@@ -38,6 +38,10 @@
 #  pragma clang diagnostic pop
 #endif // _MSC_VER
 
+/**
+ * The generic exception type thrown by the program.
+ * Will display the call stack after the error message.
+ */
 class [[nodiscard]] PhudException : public std::runtime_error {
 public:
   explicit PhudException(std::string_view msg, const boost::stacktrace::stacktrace& stacktrace =
