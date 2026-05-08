@@ -1,11 +1,16 @@
+#include "constants/ProgramInfos.hpp"
 #include "db/Database.hpp" // std::string
 #include "entities/Site.hpp"
 #include "filesystem/FileUtils.hpp"     // phud::filesystem::*
 #include "history/PokerSiteHistory.hpp" // std::filesystem::path
 #include "language/limits.hpp"          // toSizeT
 #include "log/Logger.hpp"               // CURRENT_FILE_NAME
+#include "strings/StringUtils.hpp"
 #include <optional>
+#include <print>
 #include <utility> // std::pair
+
+namespace ps = phud::strings;
 
 static Logger& LOG() {
   static auto logger = Logger(CURRENT_FILE_NAME);
@@ -20,43 +25,39 @@ namespace {
     ~MyLoggingConfig() { Logger::shutdownLogging(); }
   }; // struct MyLoggingConfig
 
-  [[nodiscard]] std::optional<std::pair<fs::path, fs::path>>
-  getOptionalDbAndHistory(std::span<const char* const> args) {
-    if (5 != args.size()) {
-      if ((1 == args.size())) {
-        LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
-      } else {
-        LOG().error<"Wrong arguments.">();
-        LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
-      }
+  [[nodiscard]] bool nonCaseSentitiveEquals(std::string_view a, std::string_view b) noexcept {
+    return std::ranges::equal(a, b, [](char ca, char cb) { return ps::toLowerChar(ca) == ps::toLowerChar(cb); });
+  }
 
+  [[nodiscard]] std::optional<fs::path>
+  getOptionalDbHistory(std::span<const char* const> args) {
+    const auto askForHelp = (1 == args.size()) or std::ranges::any_of(args, [](auto arg) {
+      return nonCaseSentitiveEquals(arg, "-h") or nonCaseSentitiveEquals(arg, "--help");
+    });
+
+    const auto programName = std::string_view(args[0]);
+
+    if (askForHelp) {
+      std::println("Generates the Poker Head Up Display database.");
+      std::println("{} -d <history directory>", programName);
+      return {};
+    }
+    if ((3 != args.size()) or ("-d" != std::string_view(args[1]))) {
+      std::println(stderr, "Wrong arguments.");
+      std::println(stderr, "{} -d <history directory>", programName);
       return {};
     }
 
-    const std::string_view flag1 = args[1];
-
-    if (const std::string_view flag2 = args[3];
-        ("-b" != flag1 and "-d" != flag1) or ("-b" != flag2 and "-d" != flag2)) {
-      LOG().error<"Wrong arguments.">();
-      LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
-      return {};
-    }
-
-    const fs::path dbFile = ("-b" == flag1) ? args[2] : args[4];
-    const fs::path historyDir = ("-b" == flag1) ? args[4] : args[2];
-
-    if (phud::filesystem::isFile(dbFile)) {
-      LOG().error<"The database file\n{}\nalready exists and is in the way.">(dbFile.string());
-      return {};
-    }
+    const auto flag = std::string_view(args[1]);
+    const auto historyDir = fs::path(args[2]);
 
     if (!PokerSiteHistory::isValidHistory(historyDir)) {
       LOG().error<"'{}' is not a valid history directory">(historyDir.string());
-      LOG().error<"{} -b <database file name> -d <history directory>\n">(args[0]);
+      LOG().error<"{} -d <history directory>\n">(programName);
       return {};
     }
 
-    return std::make_pair(dbFile, historyDir);
+    return historyDir;
   }
 } // anonymous namespace
 
@@ -75,10 +76,10 @@ int main(int argc, const char* const argv[]) {
 #  pragma clang diagnostic pop
 #endif
 
-  if (const auto oRet = getOptionalDbAndHistory(args); oRet.has_value()) {
-    const auto [dbFile, historyDir] = oRet.value();
+  if (const auto oRet = getOptionalDbHistory(args); oRet.has_value()) {
+    const auto historyDir = oRet.value();
     const auto pSite = PokerSiteHistory::load(historyDir);
-    auto db = Database(dbFile.string());
+    auto db = Database(ProgramInfos::DATABASE_NAME);
     db.save(*pSite);
     return 0;
   }

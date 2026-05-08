@@ -16,7 +16,7 @@ namespace {
                                                                          std::string_view line) {
     const auto& trimmedLine = phud::strings::trim(line);
 
-    if (const auto equalPos = trimmedLine.find('='); !notFound(equalPos)) {
+    if (const auto equalPos = trimmedLine.find('='); !phud::strings::notFound(equalPos)) {
       return {std::string(phud::strings::trim(trimmedLine.substr(0, equalPos))),
               std::string(phud::strings::trim(trimmedLine.substr(equalPos + 1)))};
     }

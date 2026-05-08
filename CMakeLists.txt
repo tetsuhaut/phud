@@ -24,7 +24,7 @@ endif()
 # use the UTF-8 encoding internally
 option(CMAKE_ENCODING_UTF8 "Use UTF-8 encoding internally." ON)
 
-# use C++ 23
+# use C++ 26
 # target_compile_features(lib PRIVATE c++ compile feature) ?
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -45,6 +45,7 @@ message(STATUS "CMAKE_GENERATOR: ${CMAKE_GENERATOR}")
 
 # Note: when using Ninja with MSVC, /showIncludes is required for dependency tracking
 
+# Configure the compiler with the maximum number of warnings
 if(MSVC)
   message("detected MSVC compiler")
   # link statically with the compiler C runtime
@@ -74,7 +75,8 @@ if(MSVC)
                         /experimental:external # enable external headers support
                         /external:anglebrackets # treat angle-bracket includes as external
                         /external:W0 # no warnings for external headers
-                        /external:templates-) # do not propagate warnings from external templates
+                        /external:templates- # do not propagate warnings from external templates
+                        /std:c++latest) # use the latest features
   else()
     # Store warning flags in a variable to apply only to project targets
     set(PROJECT_WARNING_FLAGS
@@ -225,7 +227,7 @@ endif()
 
 # build the phud GUI executable, it uses the main lib
 file(GLOB_RECURSE phudSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/phud/*)
-# if on Windows, 'WIN32' makes the program not show console
+# if on Windows, 'WIN32' makes the program not show console (/SUBSYSTEM:WINDOWS)
 add_executable(phud WIN32 ${phudSourceFiles})
 # add_executable(phud ${phudSourceFiles})
 target_include_directories(phud PRIVATE src/main/cpp)

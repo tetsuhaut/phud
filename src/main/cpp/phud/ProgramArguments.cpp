@@ -19,19 +19,10 @@ namespace {
       "[-l|--logLevel none|trace|info|warning|error]\n"
       "Where <directory> is the directory containing the poker site hands history.\n";
 
-/**
- * This implementation to avoid std::tolower which forces us to use a cast from int to char.
- */ 
-  [[nodiscard]] constexpr char toLowerChar(char c) noexcept {
-    // we know that in ASCII, characters are ordered alphabetically and
-    // lowercase are just before upper case
-    return (c >= 'A' && c <= 'Z') ? (c + ('a' - 'A')): (c);
-  }
-
   [[nodiscard]] std::string strToLowerCase(std::string_view str) {
     std::string lowerCase;
     lowerCase.reserve(str.size());
-    std::ranges::transform(str, std::back_inserter(lowerCase), toLowerChar);
+    std::ranges::transform(str, std::back_inserter(lowerCase), ps::toLowerChar);
     return lowerCase;
   }
 

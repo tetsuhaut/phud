@@ -112,8 +112,7 @@ int main(int argc, const char* const* const argv) {
 #  pragma clang diagnostic pop
 #endif
 
-    const auto& [oHistoDir, loggingLevel,
-                 loggingPattern] {ProgramConfiguration::readConfiguration(args)};
+    const auto& [oHistoDir, loggingLevel, loggingPattern] = ProgramConfiguration::readConfiguration(args);
     // start the logging framework
     LoggingConfig _(loggingPattern);
     Logger::setLoggingLevel(loggingLevel);
@@ -123,34 +122,37 @@ int main(int argc, const char* const* const argv) {
     std::signal(SIGINT, logErrorAndAbort);
     LOG().info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
     Database db(ProgramInfos::DATABASE_NAME);
-    TableService ts(db);
-    HistoryService hs(db);
 
     if (oHistoDir.has_value()) {
-      if (const auto historyDir = oHistoDir.value(); PokerSiteHistory::isValidHistory(historyDir)) {
+      const auto historyDir = oHistoDir.value();
+
+      if (PokerSiteHistory::isValidHistory(historyDir)) {
         const auto site = PokerSiteHistory::load(historyDir);
         db.save(*site);
       } else {
-        const auto strDir = oHistoDir.value().string();
-        throw PhudException(
-            fmt::format("The provided hand history directory '{}' is invalid", strDir));
+        const auto errMsg =
+            fmt::format("The provided hand history directory '{}' is invalid", historyDir.string());
+        throw PhudException(errMsg);
       }
-      LOG()
-          .info<
-              "phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(
-              toString(loggingLevel), loggingPattern, oHistoDir.value().string());
+      LOG().info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(
+              toString(loggingLevel), loggingPattern, historyDir.string());
     }
 
-    Gui gui(ts, hs);
+    TableService tableService(db);
+    HistoryService handService(db);
+    Gui gui(tableService, handService);
     nbErr = gui.run();
     LOG().info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
   } catch (const UserAskedForHelpException& e) {
+    // the logging framework is not initialized yet
     // if user asks for help, this is not an error
     std::print("{}", e.what());
   } catch (const ProgramArgumentsException& e) {
+    // the logging framework is not initialized yet
     std::println(stderr , "{}", e.what());
     ++nbErr;
   } catch (const PhudException& e) {
+    // now the logging framework is initialized
     LOG().error(e.what());
     std::println(stderr, "{}", e.what());
     ++nbErr;

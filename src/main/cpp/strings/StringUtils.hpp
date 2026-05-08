@@ -52,8 +52,18 @@ namespace phud::strings {
   [[nodiscard]] std::string_view trim(std::string_view s);
   [[nodiscard]] double toAmount(std::string_view amount);
   [[nodiscard]] double toBuyIn(std::string_view buyIn);
+
+  [[nodiscard]] constexpr bool notFound(std::string_view::size_type st) noexcept {
+    return std::string_view::npos == st;
+  }
+
+  /**
+   * This implementation to avoid std::tolower which forces us to use a cast from int to char.
+   */
+  [[nodiscard]] constexpr char toLowerChar(char c) noexcept {
+    // we know that in ASCII, characters are ordered alphabetically and
+    // lowercase are just before upper case
+    return (c >= 'A' && c <= 'Z') ? (c + ('a' - 'A')) : (c);
+  }
 } // namespace phud::strings
 
-[[nodiscard]] constexpr bool notFound(std::string_view::size_type st) noexcept {
-  return std::string_view::npos == st;
-}
