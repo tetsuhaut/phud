@@ -217,8 +217,8 @@ static constexpr auto POSTS_ANTE_LENGTH = ps::length(" posts ante ");
   // "^(.*) posts m_ante (.*).*$"
   long ret = 0;
 
-  if (const auto posAnte {tf.find(" posts ante ")}; std::string::npos != posAnte) {
-    ret = ps::toInt(tf.getLine().substr(posAnte + POSTS_ANTE_LENGTH));
+  if (const auto posAnte {tf.find(" posts ante ")}; posAnte.has_value()) {
+    ret = ps::toInt(tf.getLine().substr(posAnte.value() + POSTS_ANTE_LENGTH));
   }
 
   while (tf.contains(" posts ")) {
@@ -290,8 +290,8 @@ static constexpr std::array<std::string_view, 6> ACTION_TOKENS = {" folds",  " c
   std::array<std::string, TableConstants::MAX_SEATS> winners;
 
   for (auto& winner : winners) {
-    if (const auto pos = tf.find(" collected "); pos != std::string::npos) {
-      winner = tf.getLine().substr(0, pos);
+    if (const auto pos = tf.find(" collected "); pos.has_value()) {
+      winner = tf.getLine().substr(0, pos.value());
       tf.next();
     } else {
       break;

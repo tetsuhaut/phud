@@ -25,6 +25,9 @@
 // TODO: tester toutes les sauvegardes en base
 // TODO: utiliser std::source_location pour contextualiser les messages d'exception
 //       cf. https://stackoverflow.com/questions/597078/file-line-and-function-usage-in-c
+// TODO : détecteur d'historique pour que l'utilisateur sache quoi choisir
+// TODO : liste des historiques surveillés
+// TODO : le montant gagné par un joueur sur une main doit être enregistré en BDD
 // GOOD PRACTISE: apply https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 // GOOD PRACTISE: make internal functions static
 // GOOD PRACTISE: use assert, static_assert
@@ -39,8 +42,6 @@
 // FUTURE add code documentation (Doxygen, compatible with Javadoc format)
 // BUG : crash à la sélection de la table : impossible de trouver l'historique pour table "Wichita
 // 05 / 0,01-0,02 NL Holdem / Argent fictif" BUG : au 2eme choix d'historique
-// TODO : détecteur d'historique pour que l'utilisateur sache quoi choisir
-// TODO : liste des historiques surveillés
 
 static Logger& LOG() {
   static auto logger = Logger(CURRENT_FILE_NAME);

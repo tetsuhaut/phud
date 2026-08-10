@@ -138,7 +138,6 @@ namespace {
 /*[[nodiscard]]*/ Seat gui::rotateRelativeToHero(Seat seat, Seat heroSeat, Seat maxSeats) {
   assert(seat <= maxSeats);
   assert(heroSeat <= maxSeats);
-  assert(Seat::seatUnknown != heroSeat);
   assert(Seat::seatUnknown != seat);
   assert(Seat::seatUnknown != maxSeats);
 

@@ -87,6 +87,7 @@ public:
    */
   static void setupFileInfoLogging(std::string_view pattern);
   static void setupConsoleWarnLogging(std::string_view pattern);
+  static void setupConsoleInfoLogging(std::string_view pattern);
   static void setupConsoleDebugLogging(std::string_view pattern);
   static void shutdownLogging();
   static void setLoggingLevel(LoggingLevel l);

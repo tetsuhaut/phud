@@ -121,7 +121,7 @@ std::string phud::strings::replaceAll(std::string_view s, char oldC, char newC) 
   std::string ret(s);
   auto pos = ret.find(oldStr);
 
-  while (std::string_view::npos != pos) {
+  while (ret.npos != pos) {
     pos = ret.replace(pos, oldStr.size(), newStr).find(oldStr);
   }
 

@@ -6,6 +6,7 @@
 #include "log/Logger.hpp" // Logger::*
 #include "language/limits.hpp"          // toSizeT
 #include "strings/StringUtils.hpp"
+#include "threads/ThreadPool.hpp"
 #include <optional>
 #include <print>
 #include <utility> // std::pair
@@ -15,7 +16,7 @@ namespace ps = phud::strings;
 
 namespace {
   struct [[nodiscard]] MyLoggingConfig final {
-    MyLoggingConfig() { Logger::setupConsoleWarnLogging("%v"); }
+    MyLoggingConfig() { Logger::setupConsoleInfoLogging("%v"); }
     ~MyLoggingConfig() { Logger::shutdownLogging(); }
   }; // struct MyLoggingConfig
 
@@ -34,7 +35,13 @@ namespace {
       std::println("{} -d <history directory>", programName);
       return {};
     }
-    if ((3 != args.size()) or ("-d" != std::string_view(args[1]))) {
+    if (3 != args.size()) {
+      std::println(stderr,
+                   "Wrong number of arguments: Needed 3, got {}.\n{} -d <history directory>",
+                   args.size() , programName);
+      return {};
+    }
+    if ("-d" != std::string_view(args[1])) {
       std::println(stderr, "Wrong arguments.");
       std::println(stderr, "{} -d <history directory>", programName);
       return {};
@@ -68,11 +75,17 @@ int main(int argc, const char* const argv[]) {
 
   if (const auto oRet = getOptionalDbHistory(args); oRet.has_value()) {
     const auto historyDir = oRet.value();
+    std::println("Loading the history dir '{}'", historyDir.string());
     const auto pSite = PokerSiteHistory::load(historyDir);
+    std::println("Building the database '{}'", ProgramInfos::DATABASE_NAME);
     auto db = Database(ProgramInfos::DATABASE_NAME);
     db.save(*pSite);
+    ThreadPool::stop();
+    std::println("Done.");
     return 0;
   }
 
   return 1;
 }
+// bug stlab #575 : un assert échoue à la destruction car une tâche est encore en cours.
+// upgrade stlab, et appeler la fonction de stlab permettant de détruire la queue.

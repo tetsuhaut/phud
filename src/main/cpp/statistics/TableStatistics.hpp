@@ -5,6 +5,7 @@
 
 #include <array>
 #include <memory> // std::unique_ptr
+#include <optional>
 #include <vector>
 
 class PlayerStatistics;
@@ -34,9 +35,9 @@ struct [[nodiscard]] TableStatistics final {
   [[nodiscard]] constexpr std::vector<Seat> getSeats() const noexcept { return m_seats; }
 
   /**
-   * @returns the hero seat. 0 if error, else between 1 and 10 included.
+   * @returns the hero seat.
    */
-  [[nodiscard]] Seat getHeroSeat() const;
+  [[nodiscard]] std::optional<Seat> getHeroSeat() const;
 
   /**
    * @returns the statistics for the player at the given seat.

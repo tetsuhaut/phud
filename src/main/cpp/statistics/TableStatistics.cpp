@@ -34,10 +34,10 @@ TableStatistics::TableStatistics(
 
 TableStatistics::TableStatistics() = default;
 
-Seat TableStatistics::getHeroSeat() const {
+std::optional<Seat> TableStatistics::getHeroSeat() const {
   const auto it = std::ranges::find_if(m_tableStats, isHero);
-  return (m_tableStats.end() == it) ? Seat::seatUnknown
-                                    : tableSeat::fromArrayIndex(it - m_tableStats.begin());
+  return (m_tableStats.end() == it) ? std::nullopt
+                                    : std::optional(tableSeat::fromArrayIndex(it - m_tableStats.begin()));
 }
 
 std::unique_ptr<PlayerStatistics> TableStatistics::extractPlayerStatistics(Seat seat) {

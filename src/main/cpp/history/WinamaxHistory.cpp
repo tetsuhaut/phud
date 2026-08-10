@@ -262,7 +262,7 @@ WinamaxHistory::getTableNameFromTableWindowTitle(std::string_view tableWindowTit
 
   // Extract table name using existing logic
   const auto pos = workingTitle.find('#');
-  return (ps::notFound(pos)) ? workingTitle.substr(0, workingTitle.find(" / "))
+  return (workingTitle.npos == pos) ? workingTitle.substr(0, workingTitle.find(" / "))
                          : workingTitle.substr(0, pos);
 }
 

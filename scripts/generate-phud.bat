@@ -7,16 +7,16 @@ IF NOT DEFINED SCRIPTS_DIR ECHO need to set the SCRIPTS_DIR environment variable
 ECHO checking for environment
 REM the *_DIR environment variables are hints to help CMake finding the libraries and include dirs
 REM one letter for the loop variable
-SETLOCAL enabledelayedexpansion
-SET "error_found=0"
-FOR %%i IN (Boost_DIR FLTK_DIR frozen_DIR Microsoft.GSL_DIR SCRIPTS_DIR SPDLOG_DIR SQLite3_DIR stlab_DIR) DO (
-  IF NOT DEFINED %%i ECHO need to set the %%i environment variable && EXIT /B 1
-  FOR /F %%j IN ('ECHO %%i') DO (
-    IF NOT EXIST !%%j!\NUL ECHO %%i refers to a non existing directory '!%%j!' && SET "error_found=1"
-  )
-)
-IF %error_found% EQU 1 (EXIT /B 1)
-ENDLOCAL
+REM SETLOCAL enabledelayedexpansion
+REM SET "error_found=0"
+REM FOR %%i IN (Boost_DIR FLTK_DIR frozen_DIR Microsoft.GSL_DIR SCRIPTS_DIR SPDLOG_DIR SQLite3_DIR stlab_DIR) DO (
+  REM IF NOT DEFINED %%i ECHO need to set the %%i environment variable && EXIT /B 1
+  REM FOR /F %%j IN ('ECHO %%i') DO (
+    REM IF NOT EXIST !%%j!\NUL ECHO %%i refers to a non existing directory '!%%j!' && SET "error_found=1"
+  REM )
+REM )
+REM IF %error_found% EQU 1 (EXIT /B 1)
+REM ENDLOCAL
 
 IF NOT EXIST %SCRIPTS_DIR%\timecmd.bat ECHO the script 'timecmd.bat' could not be found && EXIT /B 1
 

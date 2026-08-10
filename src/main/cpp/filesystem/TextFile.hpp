@@ -2,6 +2,7 @@
 
 #include <filesystem>
 #include <memory> // std::unique_ptr
+#include <optional>
 #include <span>
 
 /**
@@ -46,17 +47,15 @@ public:
    * @returns the current line of text.
    */
   [[nodiscard]] std::string getLine() const noexcept;
-  [[nodiscard]] std::size_t find(std::string_view s) const noexcept;
-  [[nodiscard]] std::size_t find(char c) const noexcept;
+  [[nodiscard]] std::optional<std::size_t> find(std::string_view s) const noexcept;
+  [[nodiscard]] std::optional<std::size_t> find(char c) const noexcept;
   [[nodiscard]] bool lineIsEmpty() const noexcept;
   [[nodiscard]] bool startsWith(char c) const noexcept;
   [[nodiscard]] bool startsWith(std::string_view s) const noexcept;
   [[nodiscard]] bool endsWith(std::string_view s) const noexcept;
   [[nodiscard]] bool endsWith(char c) const noexcept;
-  [[nodiscard]] bool contains(std::string_view s) const noexcept {
-    return std::string_view::npos != find(s);
-  }
-  [[nodiscard]] bool contains(char c) const noexcept { return std::string::npos != find(c); }
+  [[nodiscard]] bool contains(std::string_view s) const noexcept { return find(s).has_value(); }
+  [[nodiscard]] bool contains(char c) const noexcept { return find(c).has_value(); }
   [[nodiscard]] bool containsExact(std::string_view s) const noexcept;
   [[nodiscard]] bool containsOneOf(std::span<const std::string_view> patterns) const;
   /*[[nodiscard]]*/ TextFile& trim(); // can be discarded

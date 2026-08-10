@@ -29,12 +29,12 @@ StatsConsumer::~StatsConsumer() = default;
 void StatsConsumer::consumeAndNotify(
     const std::function<void(TableStatistics&)>& observerCb) const {
   m_pImpl->m_task.start([this, observerCb]() {
-    if (TableStatistics stats; m_pImpl->m_statsQueue.tryPop(stats)) {
-      if (Seat::seatUnknown == stats.getMaxSeat()) {
+    if (auto oStats = m_pImpl->m_statsQueue.tryPop(); oStats.has_value()) {
+      if (Seat::seatUnknown == oStats->getMaxSeat()) {
         LOG().debug<"Got no stats from db.">();
       } else {
-        LOG().debug<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
-        observerCb(stats);
+        LOG().debug<"Got {} player stats objects.">(tableSeat::toInt(oStats->getMaxSeat()));
+        observerCb(*oStats);
       }
     }
 

@@ -36,7 +36,7 @@ parseSeats(TextFile& tf, PlayerCache& /*cache*/) {
   std::array<std::string_view, 5> ret = {"none", "none", "none", "none", "none"};
   std::size_t offset = 0, delimiterPosition = 0, arrayIndex = 0;
 
-  while (std::string_view::npos != (delimiterPosition = str.find(delimiter, offset))) {
+  while (str.npos != (delimiterPosition = str.find(delimiter, offset))) {
     ret.at(arrayIndex) = str.substr(offset, delimiterPosition - offset);
     offset = delimiterPosition + delimiter.size();
     arrayIndex++;

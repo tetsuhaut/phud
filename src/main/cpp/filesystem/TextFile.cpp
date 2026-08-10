@@ -36,7 +36,7 @@ TextFile& TextFile::trim() {
 bool TextFile::containsExact(std::string_view s) const noexcept {
   const auto pos = m_line.find(s);
 
-  if (std::string_view::npos == pos) {
+  if (s.npos == pos) {
     return false;
   }
 
@@ -69,11 +69,20 @@ std::string TextFile::getFileStem() const {
 std::string TextFile::getLine() const noexcept {
   return m_line;
 }
-std::size_t TextFile::find(std::string_view s) const noexcept {
-  return m_line.find(s);
+
+std::optional<std::size_t> TextFile::find(std::string_view s) const noexcept {
+  const auto pos = m_line.find(s);
+  return (s.npos == pos) ? std::nullopt : std::optional(pos);
 }
-std::size_t TextFile::find(char c) const noexcept {
-  return m_line.find(c);
+
+std::optional<std::size_t> TextFile::find(char c) const noexcept {
+  const auto pos = m_line.find(c);
+
+  if (m_line.npos == pos) {
+    return std::nullopt;
+  }
+
+  return pos;
 }
 bool TextFile::lineIsEmpty() const noexcept {
   return m_line.empty();

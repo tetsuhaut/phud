@@ -119,6 +119,13 @@ void Logger::criticalStr(std::string_view msg) {
   globalLogger->set_level(LegacyLoggingLevel::warn);
 }
 
+/*static*/ void Logger::setupConsoleInfoLogging(std::string_view pattern) {
+  auto& globalLogger {getGlobalLogger()};
+  globalLogger = spdlog::stdout_color_mt<spdlog::async_factory>("consoleInfoLogger");
+  globalLogger->set_pattern(pattern.data());
+  globalLogger->set_level(LegacyLoggingLevel::info);
+}
+
 /*static*/ void Logger::setupConsoleDebugLogging(std::string_view pattern) {
   auto& globalLogger {getGlobalLogger()};
   globalLogger = spdlog::stdout_color_mt<spdlog::async_factory>("consoleDebugLogger");

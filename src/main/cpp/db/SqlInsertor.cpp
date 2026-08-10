@@ -82,7 +82,7 @@ std::string SqlInsertor::build() {
 
 #define REPLACE_IN_VALUES(PLACE_HOLDER)                                                       \
   do {                                                                                        \
-    validation::require(std::string::npos != m_values.find(PLACE_HOLDER),                     \
+    validation::require(m_values.npos != m_values.find(PLACE_HOLDER),                     \
                         "m_values should contain " #PLACE_HOLDER);                            \
     m_values.replace(m_values.find(PLACE_HOLDER), ps::length(PLACE_HOLDER), toString(value)); \
     return *this;                                                                             \

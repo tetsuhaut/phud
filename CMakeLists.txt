@@ -24,9 +24,8 @@ endif()
 # use the UTF-8 encoding internally
 option(CMAKE_ENCODING_UTF8 "Use UTF-8 encoding internally." ON)
 
-# use C++ 26
-# target_compile_features(lib PRIVATE c++ compile feature) ?
-set(CMAKE_CXX_STANDARD 23)
+# use C++ 23
+# set(CMAKE_CXX_STANDARD latest)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
@@ -117,7 +116,8 @@ if(MSVC)
                         /experimental:external # enable external headers support
                         /external:anglebrackets # treat angle-bracket includes as external
                         /external:W0 # no warnings for external headers
-                        /external:templates-) # do not propagate warnings from external templates
+                        /external:templates- # do not propagate warnings from external templates
+                        /std:c++latest) # use the latest features
   endif()
 elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQUAL "GNU"))
   message("detected GCC + Clang compiler")
@@ -299,9 +299,9 @@ set(Boost_USE_MULTITHREADED ON)
 set(Boost_USE_STATIC_RUNTIME ON)
 set(Boost_NO_SYSTEM_PATHS ON)
 
-
 # specify which libraries to link with and corresponding include files
 find_package(Boost CONFIG 1.89.0 REQUIRED COMPONENTS unit_test_framework)
+
 # Mark Boost headers as SYSTEM to suppress warnings from external code
 target_include_directories(mainLib SYSTEM PRIVATE ${Boost_INCLUDE_DIRS})
 target_include_directories(phud SYSTEM PRIVATE ${Boost_INCLUDE_DIRS})
@@ -337,7 +337,7 @@ target_link_libraries(mainLib PRIVATE ${FLTK_LIBRARIES})
 # the library has been installed
 # https://github.com/serge-sans-paille/frozen
 ################################################################################
-# the version exported by the lib is erroneously 1.1.0 so use it anyway
+# the version exported by the 1.2.0 lib is erroneously 1.1.0 so use it anyway
 find_package(frozen 1.1.0 REQUIRED)
 target_link_libraries(mainLib PRIVATE frozen::frozen-headers)
 target_link_libraries(unitTests PRIVATE frozen::frozen-headers)
@@ -388,7 +388,8 @@ target_link_libraries(phud PRIVATE spdlog::spdlog)
 target_link_libraries(unitTests PRIVATE spdlog::spdlog)
 
 ################################################################################
-# will use the EFSW library, so configure the project for it
+# will use the EFSW (Entropia File System Watcher) library, so configure the
+# project for it
 # needs to have EFSW_DIR as an environment variable pointing to the dir where
 # the library has been installed
 # https://github.com/SpartanJ/efsw
@@ -403,38 +404,10 @@ target_link_libraries(unitTests PRIVATE efsw::efsw)
 # the stlab 'libraries' library has been installed
 # https://github.com/stlab/libraries
 ################################################################################
-# bugged since 2.1.1 :-(
-# bug : https://github.com/stlab/libraries/issues/575
-# find_package(stlab 2.1.4 REQUIRED)
-# target_link_libraries(mainLib PRIVATE stlab::stlab)
-# target_link_libraries(unitTests PRIVATE stlab::stlab)
-
-set(STLAB_BUILD_DIR $ENV{stlab_DIR})
-
-if(NOT STLAB_BUILD_DIR)
-  message(FATAL_ERROR "The env variable stlab_DIR is missing")
-endif()
-if(NOT EXISTS "${STLAB_BUILD_DIR}")
-  message(FATAL_ERROR "The $stlab_DIR dir does not exist: ${STLAB_BUILD_DIR}")
-endif()
-
-set(STLAB_INCLUDE_DIR1 "${STLAB_BUILD_DIR}/include")
-set(STLAB_INCLUDE_DIR2 "${STLAB_BUILD_DIR}/../libraries-2.1.4/include")
-find_library(STLAB_LIBRARY
-    NAMES stlab libstlab
-    PATHS "${STLAB_BUILD_DIR}"
-    NO_DEFAULT_PATH
-)
-if(NOT STLAB_LIBRARY)
-  message(FATAL_ERROR "Did not find the stlab library in ${STLAB_BUILD_DIR}")
-endif()
-add_library(stlab STATIC IMPORTED)
-set_target_properties(stlab PROPERTIES
-    IMPORTED_LOCATION "${STLAB_LIBRARY}"
-    INTERFACE_INCLUDE_DIRECTORIES "${STLAB_INCLUDE_DIR1};${STLAB_INCLUDE_DIR2}"
-)
-target_link_libraries(mainLib PRIVATE stlab)
-target_link_libraries(unitTests PRIVATE stlab)
+find_package(stlab REQUIRED)
+target_link_libraries(dbgen PRIVATE stlab::stlab)
+target_link_libraries(mainLib PRIVATE stlab::stlab)
+target_link_libraries(unitTests PRIVATE stlab::stlab)
 
 ################################################################################
 # will use the utf8cpp library, which is a copy and paste header-only library.
@@ -453,14 +426,10 @@ if(MSVC)
   target_link_options(dbgen PRIVATE /DEBUG /SUBSYSTEM:CONSOLE)
   # set phud as the Visual Studio startup project
   set_property(DIRECTORY PROPERTY VS_STARTUP_PROJECT phud)
-
   # Security hardening for all executables and libraries
-  # Control Flow Guard
-  add_link_options(/GUARD:CF)
-  # Data Execution Prevention (DEP)
-  add_link_options(/NXCOMPAT)
-  # Address Space Layout Randomization (ASLR)
-  add_link_options(/DYNAMICBASE)
+  add_link_options(/GUARD:CF)   # Control Flow Guard
+  add_link_options(/NXCOMPAT)   # Data Execution Prevention (DEP)
+  add_link_options(/DYNAMICBASE) # Address Space Layout Randomization (ASLR)
   # High entropy ASLR for 64-bit
   if(CMAKE_SIZEOF_VOID_P EQUAL 8)
     add_link_options(/HIGHENTROPYVA)

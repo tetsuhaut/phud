@@ -41,21 +41,17 @@ namespace phud::strings {
   [[nodiscard]] std::size_t toSizeT(std::string_view s);
 
   [[nodiscard]] constexpr bool contains(std::string_view s, char c) noexcept {
-    return std::string_view::npos != s.find(c);
+    return s.npos != s.find(c);
   }
 
   [[nodiscard]] constexpr bool contains(std::string_view contains,
                                         std::string_view searched) noexcept {
-    return std::string_view::npos != contains.find(searched);
+    return contains.npos != contains.find(searched);
   }
 
   [[nodiscard]] std::string_view trim(std::string_view s);
   [[nodiscard]] double toAmount(std::string_view amount);
   [[nodiscard]] double toBuyIn(std::string_view buyIn);
-
-  [[nodiscard]] constexpr bool notFound(std::string_view::size_type st) noexcept {
-    return std::string_view::npos == st;
-  }
 
   /**
    * This implementation to avoid std::tolower which forces us to use a cast from int to char.

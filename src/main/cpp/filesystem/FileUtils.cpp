@@ -197,7 +197,7 @@ namespace {
         } else {
           // Find this part anywhere in remaining filename
           const auto foundPos = filename.substr(filenamePos).find(part);
-          if (foundPos == std::string_view::npos) {
+          if (filename.npos == foundPos) {
             return false;
           }
           filenamePos += foundPos + part.size();
@@ -209,11 +209,11 @@ namespace {
         }
         // Find this part anywhere in remaining filename
         const auto foundPos = filename.substr(filenamePos).find(part);
-        return foundPos != std::string_view::npos;
+        return foundPos != filename.npos;
       } else {
         // Middle part: find in remaining filename
         const auto foundPos = filename.substr(filenamePos).find(part);
-        if (foundPos == std::string_view::npos) {
+        if (filename.npos == foundPos) {
           return false;
         }
         filenamePos += foundPos + part.size();
@@ -234,7 +234,7 @@ namespace {
     const auto patternParts = splitPatternByWildcards(pattern);
 
     // If no wildcards, must match exactly
-    if (patternParts.size() == 1 and pattern.find('*') == std::string_view::npos) {
+    if (1 == patternParts.size() and pattern.npos == pattern.find('*')) {
       return filename == pattern;
     }
 

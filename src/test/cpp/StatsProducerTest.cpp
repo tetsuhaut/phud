@@ -32,8 +32,7 @@ BOOST_AUTO_TEST_CASE(StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed) {
   producer.start(statsQueue);
   auto _ {TimeBomb::create(COUNTDOWN_TO_EXPLOSION,
                            "StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed")};
-  TableStatistics stats;
-  statsQueue.waitPop(stats);
+  auto stats = statsQueue.waitPop();
   producer.stop();
   BOOST_REQUIRE(producer.isStopped());
   BOOST_REQUIRE(Seat::seatSix == stats.getMaxSeat());

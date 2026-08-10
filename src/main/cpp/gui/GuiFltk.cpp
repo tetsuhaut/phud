@@ -305,7 +305,13 @@ namespace {
   void updateTablePlayerIndicators(TablePlayerIndicators& playerIndicators,
                                    const phud::Rectangle& tablePosition,
                                    TableStatistics tableStatistics) {
-    const auto heroSeat = tableStatistics.getHeroSeat();
+    const auto oHeroSeat = tableStatistics.getHeroSeat();
+
+    if (!oHeroSeat.has_value()) {
+      LOG().warn<"Hero seat unknown for table '{}', can't update the player indicators.">(tableStatistics.m_table);
+      return;
+    }
+    const auto heroSeat = oHeroSeat.value();
     const auto seats = tableStatistics.getSeats();
     LOG().debug<"Processing {} seats for player indicators">(seats.size());
 

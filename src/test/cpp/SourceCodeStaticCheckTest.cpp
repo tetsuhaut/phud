@@ -359,8 +359,8 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
       tfl.trim();
 
       if (const auto pos = tfl.find(constructor + "(");
-          (std::string::npos != pos) and tfl.startsWith("explicit ") and
-          !tfl.contains(" delete") and (')' == tfl.getLine()[pos + constructor.size() + 2])) {
+          pos.has_value() and tfl.startsWith("explicit ") and
+          !tfl.contains(" delete") and (')' == tfl.getLine()[*pos + constructor.size() + 2])) {
         LOG().warn<"In {} at line {} the default constructor should not be explicit:{}">(
             file.string(), tfl.getLineIndex(), tfl.getLine());
       }

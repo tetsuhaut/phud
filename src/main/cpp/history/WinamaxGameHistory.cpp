@@ -81,9 +81,9 @@ std::optional<FileStem> parseFileStem(std::string_view fileStem) {
   }
 
   const auto pos = fileStem.find("_real_", 9); // we ignore the date at the start of the file stem
-  ret.m_isRealMoney = (std::string_view::npos != pos);
+  ret.m_isRealMoney = (fileStem.npos != pos);
 
-  if (!ret.m_isRealMoney and (std::string_view::npos == fileStem.find("_play_", 9))) [[unlikely]] {
+  if (!ret.m_isRealMoney and (fileStem.npos == fileStem.find("_play_", 9))) [[unlikely]] {
     LOG().error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(
         fileStem);
     return ret;
@@ -201,8 +201,7 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
-  if (std::string::npos == fileStem.find("_real_", 9) and
-      std::string::npos == fileStem.find("_play_", 9)) {
+  if (fileStem.npos == fileStem.find("_real_", 9) and fileStem.npos == fileStem.find("_play_", 9)) {
     LOG().error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(
         fileStem);
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);

@@ -3,6 +3,7 @@
 #include <condition_variable>
 #include <memory> // std::unique_ptr
 #include <mutex>
+#include <optional>
 #include <queue>
 
 // std::scoped_lock unlocks when destroyed and can lock multiple mutexes atomically.
@@ -38,24 +39,24 @@ public:
   ~ThreadSafeQueue() = default;
 
   /**
-   * Pop a value and return true, unless the queue is empty, then return false.
-   * @returns true If the queue contains a value
+   * Pop a value, unless the queue is empty.
+   * @returns the popped value, or std::nullopt if the queue is empty
    */
-  [[nodiscard]] bool tryPop(T& value) {
+  [[nodiscard]] std::optional<T> tryPop() {
     const std::scoped_lock lock(m_pHeadMutex, m_pTailMutex);
     if (m_pHead.get() == m_pTail) {
       // the queue is empty
-      return false;
+      return std::nullopt;
     }
-    value = std::move(*m_pHead->data);
+    std::optional<T> ret {std::move(*m_pHead->data)};
     popHead().reset();
-    return true;
+    return ret;
   }
 
   /**
    * Wait forever until there is a value to pop, then pop it.
    */
-  void waitPop(T& value) {
+  [[nodiscard]] T waitPop() {
     std::unique_lock<std::mutex> headLock(m_pHeadMutex);
 
     // Use simple while loop to avoid complex lock ordering in predicate
@@ -69,8 +70,9 @@ public:
       m_condition.wait(headLock);
     }
 
-    value = std::move(*m_pHead->data);
+    T ret {std::move(*m_pHead->data)};
     popHead().reset();
+    return ret;
   }
 
   /**
