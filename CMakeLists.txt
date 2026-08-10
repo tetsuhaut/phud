@@ -68,9 +68,11 @@ if(MSVC)
                         -Wno-c++98-compat-pedantic # disable C++98 compatibility warnings
                         -Wno-padded # disable padding warnings as too verbose
                         -Wno-switch-default # disable switch default warning for enums with all cases covered
-                        /sdl)
+                        /sdl) # add the Security Development Lifecycle checks : more warnings
     # Apply basic compilation options globally
-    add_compile_options(/utf-8 /MP /Gy /EHsc /Zc:__cplusplus /guard:cf
+    add_compile_options(/utf-8
+                        /MP
+						/Gy /EHsc /Zc:__cplusplus /guard:cf
                         /experimental:external # enable external headers support
                         /external:anglebrackets # treat angle-bracket includes as external
                         /external:W0 # no warnings for external headers
