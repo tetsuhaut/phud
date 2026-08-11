@@ -233,6 +233,8 @@ BOOST_AUTO_TEST_CASE(HandTest_buildCashGameHandShouldSucceed) {
   BOOST_REQUIRE(Card::fiveDiamond == hand->getBoardCard3());
   BOOST_REQUIRE(Card::fiveClub == hand->getBoardCard4());
   BOOST_REQUIRE(Card::tenHeart == hand->getBoardCard5());
+  BOOST_REQUIRE(160 == hand->getAnte());
+  BOOST_REQUIRE(Seat::seatFour == hand->getButtonSeat());
 }
 
 BOOST_AUTO_TEST_CASE(HandTest_buildTournamentHandOneRaiseBbIsAllInShouldSucceed) {
