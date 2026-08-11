@@ -9,7 +9,6 @@ namespace ps = phud::strings;
 
 Hand::Hand(Params& p)
   : m_seats {p.seatPlayers},
-    m_winners {p.winners},
     m_id {p.id},
     m_siteName {p.siteName},
     m_tableName {p.tableName},

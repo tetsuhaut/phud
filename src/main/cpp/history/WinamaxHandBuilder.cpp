@@ -257,8 +257,7 @@ struct [[nodiscard]] ActionParams final {
            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1))};
   } else if (const auto pos = line.find(" collected "); line.npos != pos) {
     static constexpr auto lengthC = std::size(" collected ") - 1;
-    const auto posF = line.find(" from ");
-    const auto rawAmount = line.substr(pos + lengthC, posF - pos - lengthC);
+    const auto rawAmount = line.substr(pos + lengthC, line.find(" from ") - pos - lengthC);
     ret = {.m_playerName = line.substr(0, pos),
            .m_type = ActionType::win,
         // strip any trailing currency symbol (e.g. '€'), which may be absent or multi-byte in UTF-8
@@ -268,8 +267,8 @@ struct [[nodiscard]] ActionParams final {
   return ret;
 }
 
-static constexpr std::array<std::string_view, 6> ACTION_TOKENS = {" folds",  " checks",  " bets ",
-                                                                  " calls ", " raises ", " shows "};
+static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
+    {" folds", " checks", " bets ", " calls ", " raises ", " shows ", " collected "});
 
 [[nodiscard]] static std::vector<std::unique_ptr<Action>> parseActions(TextFile& tf, Street street,
                                                                        std::string_view handId) {
@@ -294,76 +293,19 @@ static constexpr std::array<std::string_view, 6> ACTION_TOKENS = {" folds",  " c
   return actions;
 }
 
-struct [[nodiscard]] Winner final {
-  std::string name;
-  double amount;
-};
-
-[[nodiscard]] static std::array<Winner, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
-  std::array<Winner, TableConstants::MAX_SEATS> winners;
-  constexpr auto lengthC = std::size(" collected ") - 1;
-
-  for (auto& winner : winners) {
-    if (const auto pos = tf.find(" collected "); pos.has_value()) {
-      const auto posC = pos.value();
-      const auto line = tf.getLine();
-      winner.name = line.substr(0, posC);
-      const auto posF = tf.find(" from ").value();
-      const auto rawAmount = line.substr(posC + lengthC, posF - posC - lengthC);
-      // strip any trailing currency symbol (e.g. '€'), which may be absent or multi-byte in UTF-8
-      winner.amount = ps::toAmount(rawAmount.substr(0, rawAmount.find_last_of("0123456789") + 1));
-      tf.next();
-    } else {
-      break; // the break means we must use a classic for loop, no range/algorithm style
-    }
-  }
-
-  return winners;
-}
-
 [[nodiscard]] static std::vector<std::unique_ptr<Action>>
-createActionForWinnersWithoutAction(std::span<Winner> winners,
-                                    std::span<std::unique_ptr<Action>> actions, Street street,
-                                    std::string_view handId) {
-  // if the current winner has no action then create an action for them
-  std::vector<std::unique_ptr<Action>> ret;
-  std::ranges::for_each(winners, [&](const auto& winner) {
-    if (auto isPlayerName =
-            [&](auto& pAction) {
-              return winner.name == pAction->getPlayerName();
-            };
-        !winner.name.empty() and
-        (std::end(actions) == std::ranges::find_if(actions, isPlayerName))) {
-      ret.push_back(
-          std::make_unique<Action>(Action::Params {.handId = handId,
-                                                   .playerName = winner.name,
-                                                   .street = street,
-                                                   .type = ActionType::none,
-                                                   .actionIndex = actions.size() + ret.size(),
-                                                   .betAmount = winner.amount}));
-    }
-  });
-  return ret;
-}
-
-[[nodiscard]] static std::pair<std::vector<std::unique_ptr<Action>>,
-                               std::array<Winner, TableConstants::MAX_SEATS>>
 parseActionsAndWinners(TextFile& tf, std::string_view handId) {
   LOG().debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;
   auto currentStreet = Street::none;
 
-  while (!tf.contains(" collected ")) {
+  while (!tf.contains("*** SUMMARY ***")) {
     currentStreet = parseStreet(tf);
     auto currentActions = parseActions(tf, currentStreet, handId);
     std::ranges::move(currentActions, std::back_inserter(actions));
   }
 
-  auto winners = parseWinners(tf);
-  auto additionalActions =
-      createActionForWinnersWithoutAction(winners, actions, currentStreet, handId);
-  std::ranges::move(additionalActions, std::back_inserter(actions));
-  return {std::move(actions), winners};
+  return actions;
 }
 
 template <GameType gameType>
@@ -380,7 +322,7 @@ template <GameType gameType>
   });
   const auto ante = parseAnte(tf);
   const auto heroCards = parseHeroCards(tf, cache);
-  auto [actions, winners] {parseActionsAndWinners(tf, handId)};
+  auto actions = parseActionsAndWinners(tf, handId);
   const auto boardCards = parseBoardCards(tf);
   LOG().debug<"nb actions={}">(actions.size());
   Hand::Params params {.id = handId,
@@ -395,8 +337,7 @@ template <GameType gameType>
                        .seatPlayers = seatPlayers,
                        .heroCards = heroCards,
                        .boardCards = boardCards,
-                       .actions = std::move(actions),
-                       .winners = winners};
+                       .actions = std::move(actions)};
   return std::make_unique<Hand>(params);
 }
 

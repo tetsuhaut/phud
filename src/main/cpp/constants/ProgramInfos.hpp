@@ -34,8 +34,9 @@ namespace ProgramInfos {
 
   static constexpr std::string_view PMU_SITE_NAME = "Pmu";
 
-  static constexpr std::array<std::string_view, 2> POKER_SITE_EXECUTABLE_STEMS = {
-      WINAMAX_EXECUTABLE_STEM, PMU_EXECUTABLE_STEM};
+  static constexpr auto POKER_SITE_EXECUTABLE_STEMS = std::to_array<std::string_view> (
+    {WINAMAX_EXECUTABLE_STEM, PMU_EXECUTABLE_STEM}
+  );
 
   static constexpr std::string_view DATABASE_NAME = "phud.db";
 } // namespace ProgramInfos

@@ -86,14 +86,15 @@ parseLoggingLevel(std::span<const char* const> arguments) {
   return value % 2 != 0;
 }
 
+static constexpr auto KNOWN_ARGS = std::to_array<std::string_view>({"-d", "--historyDir", "-l", "--logLevel"});
+
 [[nodiscard]] static std::vector<std::string_view>
 listUnknownArguments(std::span<const char* const> arguments) {
   std::vector<std::string_view> ret;
-  constexpr std::array<std::string_view, 4> KNOWN_ARGS = {"-d", "--historyDir", "-l", "--logLevel"};
   auto index = 0;
   std::ranges::copy_if(
-      arguments, std::back_inserter(ret), [&KNOWN_ARGS, &index](std::string_view arg) {
-        return isOdd(index++) and (std::end(KNOWN_ARGS) == std::ranges::find(KNOWN_ARGS, arg));
+      arguments, std::back_inserter(ret), [&index](auto arg) {
+        return isOdd(index++) and (std::end(::KNOWN_ARGS) == std::ranges::find(KNOWN_ARGS, arg));
       });
   return ret;
 }

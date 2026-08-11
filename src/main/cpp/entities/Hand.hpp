@@ -44,7 +44,6 @@ public:
     const std::array<Card, TableConstants::MAX_CARDS>& heroCards;
     const std::array<Card, TableConstants::MAX_CARDS>& boardCards;
     std::vector<std::unique_ptr<Action>> actions;
-    const std::array<std::string, TableConstants::MAX_SEATS>& winners;
   }; // struct Params
 
   explicit Hand(Params& p);
