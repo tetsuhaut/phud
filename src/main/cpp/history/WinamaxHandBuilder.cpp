@@ -255,6 +255,14 @@ struct [[nodiscard]] ActionParams final {
     ret = {.m_playerName = line.substr(0, line.find(" raises ")),
            .m_type = ActionType::raise,
            .m_bet = ps::toAmount(line.substr(line.rfind(' ') + 1))};
+  } else if (const auto pos = line.find(" collected "); line.npos != pos) {
+    static constexpr auto lengthC = std::size(" collected ") - 1;
+    const auto posF = line.find(" from ");
+    const auto rawAmount = line.substr(pos + lengthC, posF - pos - lengthC);
+    ret = {.m_playerName = line.substr(0, pos),
+           .m_type = ActionType::win,
+        // strip any trailing currency symbol (e.g. '€'), which may be absent or multi-byte in UTF-8
+           .m_bet = ps::toAmount(rawAmount.substr(0, rawAmount.find_last_of("0123456789") + 1))};
   }
 
   return ret;
@@ -286,15 +294,27 @@ static constexpr std::array<std::string_view, 6> ACTION_TOKENS = {" folds",  " c
   return actions;
 }
 
-[[nodiscard]] static std::array<std::string, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
-  std::array<std::string, TableConstants::MAX_SEATS> winners;
+struct [[nodiscard]] Winner final {
+  std::string name;
+  double amount;
+};
+
+[[nodiscard]] static std::array<Winner, TableConstants::MAX_SEATS> parseWinners(TextFile& tf) {
+  std::array<Winner, TableConstants::MAX_SEATS> winners;
+  constexpr auto lengthC = std::size(" collected ") - 1;
 
   for (auto& winner : winners) {
     if (const auto pos = tf.find(" collected "); pos.has_value()) {
-      winner = tf.getLine().substr(0, pos.value());
+      const auto posC = pos.value();
+      const auto line = tf.getLine();
+      winner.name = line.substr(0, posC);
+      const auto posF = tf.find(" from ").value();
+      const auto rawAmount = line.substr(posC + lengthC, posF - posC - lengthC);
+      // strip any trailing currency symbol (e.g. '€'), which may be absent or multi-byte in UTF-8
+      winner.amount = ps::toAmount(rawAmount.substr(0, rawAmount.find_last_of("0123456789") + 1));
       tf.next();
     } else {
-      break;
+      break; // the break means we must use a classic for loop, no range/algorithm style
     }
   }
 
@@ -302,30 +322,32 @@ static constexpr std::array<std::string_view, 6> ACTION_TOKENS = {" folds",  " c
 }
 
 [[nodiscard]] static std::vector<std::unique_ptr<Action>>
-createActionForWinnersWithoutAction(std::span<std::string> winners,
+createActionForWinnersWithoutAction(std::span<Winner> winners,
                                     std::span<std::unique_ptr<Action>> actions, Street street,
                                     std::string_view handId) {
+  // if the current winner has no action then create an action for them
   std::vector<std::unique_ptr<Action>> ret;
-  std::ranges::for_each(winners, [&](std::string_view winner) {
+  std::ranges::for_each(winners, [&](const auto& winner) {
     if (auto isPlayerName =
             [&](auto& pAction) {
-              return winner == pAction->getPlayerName();
+              return winner.name == pAction->getPlayerName();
             };
-        !winner.empty() and (std::end(actions) == std::ranges::find_if(actions, isPlayerName))) {
+        !winner.name.empty() and
+        (std::end(actions) == std::ranges::find_if(actions, isPlayerName))) {
       ret.push_back(
           std::make_unique<Action>(Action::Params {.handId = handId,
-                                                   .playerName = winner,
+                                                   .playerName = winner.name,
                                                    .street = street,
                                                    .type = ActionType::none,
                                                    .actionIndex = actions.size() + ret.size(),
-                                                   .betAmount = 0.0}));
+                                                   .betAmount = winner.amount}));
     }
   });
   return ret;
 }
 
 [[nodiscard]] static std::pair<std::vector<std::unique_ptr<Action>>,
-                               std::array<std::string, TableConstants::MAX_SEATS>>
+                               std::array<Winner, TableConstants::MAX_SEATS>>
 parseActionsAndWinners(TextFile& tf, std::string_view handId) {
   LOG().debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;

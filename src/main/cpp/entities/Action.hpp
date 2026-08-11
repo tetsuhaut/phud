@@ -6,7 +6,7 @@
 /**
  * The elementary move a player can do during the game.
  */
-enum /*[[nodiscard]]*/ class ActionType : short { none, fold, check, call, bet, raise };
+enum /*[[nodiscard]]*/ class ActionType : short { none, fold, check, call, bet, raise, win };
 
 /**
  * The name of the current game board configuration.

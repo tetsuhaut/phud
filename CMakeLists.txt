@@ -70,9 +70,12 @@ if(MSVC)
                         -Wno-switch-default # disable switch default warning for enums with all cases covered
                         /sdl) # add the Security Development Lifecycle checks : more warnings
     # Apply basic compilation options globally
-    add_compile_options(/utf-8
-                        /MP
-						/Gy /EHsc /Zc:__cplusplus /guard:cf
+    add_compile_options(/utf-8 # use UTF-8 for source and execution
+                        /MP # compile using multi processor
+                        /Gy # the linker will remove unused functions
+                        /EHsc # use standard exceptions
+                        /Zc:__cplusplus #ask the compiler to fix the __cplusplus macro
+                        /guard:cf # enable Control Flow Guard
                         /experimental:external # enable external headers support
                         /external:anglebrackets # treat angle-bracket includes as external
                         /external:W0 # no warnings for external headers
