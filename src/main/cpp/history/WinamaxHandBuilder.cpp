@@ -271,7 +271,8 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
     {" folds", " checks", " bets ", " calls ", " raises ", " shows ", " collected "});
 
 [[nodiscard]] static std::vector<std::unique_ptr<Action>> parseActions(TextFile& tf, Street street,
-                                                                       std::string_view handId) {
+                                                                       std::string_view handId,
+                                                                       std::size_t startIndex) {
   std::vector<std::unique_ptr<Action>> actions;
 
   while (tf.containsOneOf(ACTION_TOKENS)) {
@@ -283,8 +284,8 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
                                                                  .playerName = playerName,
                                                                  .street = street,
                                                                  .type = type,
-                                                                 .actionIndex = actions.size(),
-                                                                 .betAmount = bet}));
+                                                                 .actionIndex = startIndex + actions.size(),
+                                                                 .amount = bet}));
     }
 
     tf.next(); // nothing to do for 'shows' action
@@ -301,7 +302,7 @@ parseActionsAndWinners(TextFile& tf, std::string_view handId) {
 
   while (!tf.contains("*** SUMMARY ***")) {
     currentStreet = parseStreet(tf);
-    auto currentActions = parseActions(tf, currentStreet, handId);
+    auto currentActions = parseActions(tf, currentStreet, handId, actions.size());
     std::ranges::move(currentActions, std::back_inserter(actions));
   }
 

@@ -5,7 +5,8 @@
 static constexpr auto ACTION_TYPE_MAPPER = makeEnumMapper<ActionType>(
     std::pair {ActionType::bet, "bet"}, std::pair {ActionType::call, "call"},
     std::pair {ActionType::check, "check"}, std::pair {ActionType::fold, "fold"},
-    std::pair {ActionType::raise, "raise"}, std::pair {ActionType::none, "none"});
+    std::pair {ActionType::raise, "raise"}, std::pair {ActionType::win, "win"},
+    std::pair {ActionType::none, "none"});
 
 static constexpr auto STREET_MAPPER =
     makeEnumMapper<Street>(std::pair {Street::preflop, "preflop"}, std::pair {Street::flop, "flop"},
@@ -15,13 +16,13 @@ Action::Action(const Params& p)
   : m_handId {p.handId},
     m_playerName {p.playerName},
     m_index {p.actionIndex},
-    m_betAmount {p.betAmount},
+    m_amount {p.amount},
     m_street {p.street},
     m_type {p.type} {
   validation::require(Street::none != m_street, "Cannot create 'none' action");
   validation::requireNonEmpty(m_handId, "handId");
   validation::requireNonEmpty(m_playerName, "playerName");
-  validation::requirePositive(m_betAmount, "betAmount");
+  validation::requirePositive(m_amount, "amount");
 }
 
 Action::~Action() = default;

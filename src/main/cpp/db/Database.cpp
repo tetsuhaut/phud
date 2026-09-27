@@ -161,7 +161,7 @@ namespace {
           .playerName(pAction->getPlayerName())
           .actionType(pAction->getType())
           .actionIndex(pAction->getIndex())
-          .betAmount(pAction->getBetAmount())
+          .amount(pAction->getAmount())
           .newInsert();
     });
     executeSql(db, query.build());

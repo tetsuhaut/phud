@@ -252,7 +252,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // .street = street,
 // .type = type,
 // .actionIndex = actions.size(),
-// .betAmount = bet
+// .amount = bet
 // }));
 // }
 
@@ -290,7 +290,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // .street = street,
 // .type = ActionType::none,
 // .actionIndex = actions.size() + ret.size(),
-// .betAmount = 0.0
+// .amount = 0.0
 // }));
 // }
 // });

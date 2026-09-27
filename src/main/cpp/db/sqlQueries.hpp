@@ -109,8 +109,8 @@ CREATE TABLE Action (
   handId TEXT NOT NULL, 
   playerName TEXT NOT NULL, 
   actionType TEXT NOT NULL, 
-  actionIndex INT NOT NULL, 
-  betAmount REAL NOT NULL, 
+  actionIndex INT NOT NULL,
+  amount REAL NOT NULL,
   FOREIGN KEY(handId) REFERENCES Hand(handId)
 );
 )raw";
@@ -188,14 +188,14 @@ VALUES (
    * param playerName as std::string
    * param actionType as std::string
    * param actionIndex as int
-   * param betAmount as double
+   * param amount as double
    */
   static constexpr std::string_view INSERT_ACTION = R"raw(
 INSERT OR IGNORE INTO Action (
-  street, handId, playerName, actionType, actionIndex, betAmount
+  street, handId, playerName, actionType, actionIndex, amount
 )
 VALUES (
-  '?street', '?handId', '?playerName', '?actionType', ?actionIndex, ?betAmount
+  '?street', '?handId', '?playerName', '?actionType', ?actionIndex, ?amount
 );
 )raw";
 

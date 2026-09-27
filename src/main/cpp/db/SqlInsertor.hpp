@@ -68,7 +68,7 @@ public:
   [[nodiscard]] SqlInsertor& street(Street value);
   [[nodiscard]] SqlInsertor& actionType(ActionType value);
   [[nodiscard]] SqlInsertor& actionIndex(std::size_t value);
-  [[nodiscard]] SqlInsertor& betAmount(double value);
+  [[nodiscard]] SqlInsertor& amount(double value);
   [[nodiscard]] SqlInsertor& variant(Variant value);
   [[nodiscard]] SqlInsertor& limitType(Limit value);
   [[nodiscard]] SqlInsertor& isRealMoney(bool value);

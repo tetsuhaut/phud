@@ -52,7 +52,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   const auto t = tournaments.front();
   BOOST_REQUIRE(1 == t->viewHands().size());
   const auto pHand {t->viewHands().front()};
-  BOOST_REQUIRE(5 == pHand->viewActions().size());
+  BOOST_REQUIRE(6 == pHand->viewActions().size());
   BOOST_REQUIRE(Street::preflop == pHand->viewActions().front()->getStreet());
   BOOST_REQUIRE(ActionType::raise == pHand->viewActions().front()->getType());
   BOOST_REQUIRE("sabre_laser" == pHand->viewActions().front()->getPlayerName());
@@ -62,8 +62,8 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
                           BOOST_REQUIRE(i == std::make_unsigned_t<int>(pAction->getIndex()));
                           BOOST_REQUIRE("531302705944068104-65-1437230557" == pAction->getHandId());
                         });
-  BOOST_REQUIRE_CLOSE(pHand->viewActions().front()->getBetAmount(), 3200.0, 0.01);
-  BOOST_REQUIRE(5 == pHand->viewActions().size());
+  BOOST_REQUIRE_CLOSE(pHand->viewActions().front()->getAmount(), 3200.0, 0.01);
+  BOOST_REQUIRE(6 == pHand->viewActions().size());
 }
 
 BOOST_AUTO_TEST_CASE(HandTest_loadingDoubleOrNothingWithOnlyFoldsShouldSucceed) {
@@ -89,7 +89,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingDoubleOrNothingWithOnlyFoldsShouldSucceed) 
   BOOST_REQUIRE_EQUAL(2.0, t->getBuyIn());
   BOOST_REQUIRE(1 == t->viewHands().size());
   const auto& h = *t->viewHands().front();
-  BOOST_REQUIRE(10 == h.viewActions().size());
+  BOOST_REQUIRE(11 == h.viewActions().size());
   BOOST_REQUIRE("424911083212374017-1-1414716301" == h.getId());
   BOOST_REQUIRE(GameType::tournament == h.getGameType());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == h.getSiteName());
@@ -306,6 +306,339 @@ BOOST_AUTO_TEST_CASE(HandTest_passingAUniquePtrShouldBeOk) {
   auto myString {std::make_unique<std::string>("my string")};
   MyStruct1 param {.str = std::move(myString)};
   BOOST_REQUIRE("my string" == func(param));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_oneWinnerAtPreflopShouldBeIdentifiedWithItsAmount) {
+  const pt::TmpFile file {"test_1w_preflop.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P1-0001 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 2-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerA posts small blind 10");
+  file.printLn("PlayerB posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerA folds");
+  file.printLn("PlayerB collected 20 from pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 20 | No rake");
+  file.printLn("Seat 2: PlayerB (big blind) collected 20");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerA"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 20.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerA"));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_oneWinnerAtFlopShouldBeIdentifiedWithItsAmount) {
+  const pt::TmpFile file {"test_1w_flop.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P1-0002 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 2-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerA posts small blind 10");
+  file.printLn("PlayerB posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerA calls 10");
+  file.printLn("PlayerB checks");
+  file.printLn("*** FLOP *** [Ac Js Ah]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB bets 20");
+  file.printLn("PlayerA folds");
+  file.printLn("PlayerB collected 40 from pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 40 | No rake");
+  file.printLn("Board: [Ac Js Ah]");
+  file.printLn("Seat 2: PlayerB (big blind) collected 40");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerA"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 40.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerA"));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_oneWinnerAtTurnShouldBeIdentifiedWithItsAmount) {
+  const pt::TmpFile file {"test_1w_turn.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P1-0003 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 2-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerA posts small blind 10");
+  file.printLn("PlayerB posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerA calls 10");
+  file.printLn("PlayerB checks");
+  file.printLn("*** FLOP *** [Ac Js Ah]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB checks");
+  file.printLn("*** TURN *** [Ac Js Ah][7c]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB bets 20");
+  file.printLn("PlayerA folds");
+  file.printLn("PlayerB collected 40 from pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 40 | No rake");
+  file.printLn("Board: [Ac Js Ah 7c]");
+  file.printLn("Seat 2: PlayerB (big blind) collected 40");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerA"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 40.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerA"));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_oneWinnerAtRiverShouldBeIdentifiedWithItsAmount) {
+  const pt::TmpFile file {"test_1w_river.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P1-0004 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 2-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerA posts small blind 10");
+  file.printLn("PlayerB posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerA calls 10");
+  file.printLn("PlayerB checks");
+  file.printLn("*** FLOP *** [Ac Js Ah]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB checks");
+  file.printLn("*** TURN *** [Ac Js Ah][7c]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB checks");
+  file.printLn("*** RIVER *** [Ac Js Ah 7c][9s]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB bets 20");
+  file.printLn("PlayerA folds");
+  file.printLn("PlayerB collected 40 from pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 40 | No rake");
+  file.printLn("Board: [Ac Js Ah 7c 9s]");
+  file.printLn("Seat 2: PlayerB (big blind) collected 40");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerA"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 40.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerA"));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_threeWinnersAtPreflopShouldBeIdentifiedWithTheirAmounts) {
+  const pt::TmpFile file {"test_3w_preflop.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P3-0001 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 4-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("Seat 3: PlayerC (2000)");
+  file.printLn("Seat 4: PlayerD (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerC posts small blind 10");
+  file.printLn("PlayerD posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerD folds");
+  file.printLn("PlayerA calls 100");
+  file.printLn("PlayerB calls 100");
+  file.printLn("PlayerC checks");
+  file.printLn("PlayerA collected 30 from side pot 2");
+  file.printLn("PlayerB collected 20 from side pot 1");
+  file.printLn("PlayerC collected 10 from main pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 60 | No rake");
+  file.printLn("Seat 1: PlayerA collected 30");
+  file.printLn("Seat 2: PlayerB collected 20");
+  file.printLn("Seat 3: PlayerC collected 10");
+  file.printLn("Seat 4: PlayerD folded before Flop");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerA"));
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(hand->isWinner("PlayerC"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerD"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerA"), 30.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 20.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerC"), 10.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerD"));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_threeWinnersAtFlopShouldBeIdentifiedWithTheirAmounts) {
+  const pt::TmpFile file {"test_3w_flop.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P3-0002 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 4-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("Seat 3: PlayerC (2000)");
+  file.printLn("Seat 4: PlayerD (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerC posts small blind 10");
+  file.printLn("PlayerD posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerD folds");
+  file.printLn("PlayerA calls 100");
+  file.printLn("PlayerB calls 100");
+  file.printLn("PlayerC checks");
+  file.printLn("*** FLOP *** [Ac Js Ah]");
+  file.printLn("PlayerA collected 30 from side pot 2");
+  file.printLn("PlayerB collected 20 from side pot 1");
+  file.printLn("PlayerC collected 10 from main pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 60 | No rake");
+  file.printLn("Board: [Ac Js Ah]");
+  file.printLn("Seat 1: PlayerA collected 30");
+  file.printLn("Seat 2: PlayerB collected 20");
+  file.printLn("Seat 3: PlayerC collected 10");
+  file.printLn("Seat 4: PlayerD folded before Flop");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerA"));
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(hand->isWinner("PlayerC"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerD"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerA"), 30.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 20.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerC"), 10.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerD"));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_threeWinnersAtTurnShouldBeIdentifiedWithTheirAmounts) {
+  const pt::TmpFile file {"test_3w_turn.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P3-0003 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 4-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("Seat 3: PlayerC (2000)");
+  file.printLn("Seat 4: PlayerD (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerC posts small blind 10");
+  file.printLn("PlayerD posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerD folds");
+  file.printLn("PlayerA calls 100");
+  file.printLn("PlayerB calls 100");
+  file.printLn("PlayerC checks");
+  file.printLn("*** FLOP *** [Ac Js Ah]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB checks");
+  file.printLn("PlayerC checks");
+  file.printLn("*** TURN *** [Ac Js Ah][7c]");
+  file.printLn("PlayerA collected 30 from side pot 2");
+  file.printLn("PlayerB collected 20 from side pot 1");
+  file.printLn("PlayerC collected 10 from main pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 60 | No rake");
+  file.printLn("Board: [Ac Js Ah 7c]");
+  file.printLn("Seat 1: PlayerA collected 30");
+  file.printLn("Seat 2: PlayerB collected 20");
+  file.printLn("Seat 3: PlayerC collected 10");
+  file.printLn("Seat 4: PlayerD folded before Flop");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerA"));
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(hand->isWinner("PlayerC"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerD"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerA"), 30.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 20.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerC"), 10.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerD"));
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_threeWinnersAtRiverShouldBeIdentifiedWithTheirAmounts) {
+  const pt::TmpFile file {"test_3w_river.txt"};
+  file.printLn("Winamax Poker - Tournament \"T\" buyIn: 4,50 + 0,50 level: 1 - HandId: "
+               "#TEST-P3-0004 - Holdem no limit (0/10/20) - 2015/07/18 14:42:37 UTC");
+  file.printLn("Table: 'T' 4-max (play money) Seat #1 is the button");
+  file.printLn("Seat 1: PlayerA (2000)");
+  file.printLn("Seat 2: PlayerB (2000)");
+  file.printLn("Seat 3: PlayerC (2000)");
+  file.printLn("Seat 4: PlayerD (2000)");
+  file.printLn("*** ANTE/BLINDS ***");
+  file.printLn("PlayerC posts small blind 10");
+  file.printLn("PlayerD posts big blind 20");
+  file.printLn("Dealt to PlayerA [2d 2c]");
+  file.printLn("*** PRE-FLOP *** ");
+  file.printLn("PlayerD folds");
+  file.printLn("PlayerA calls 100");
+  file.printLn("PlayerB calls 100");
+  file.printLn("PlayerC checks");
+  file.printLn("*** FLOP *** [Ac Js Ah]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB checks");
+  file.printLn("PlayerC checks");
+  file.printLn("*** TURN *** [Ac Js Ah][7c]");
+  file.printLn("PlayerA checks");
+  file.printLn("PlayerB checks");
+  file.printLn("PlayerC checks");
+  file.printLn("*** RIVER *** [Ac Js Ah 7c][9s]");
+  file.printLn("PlayerA collected 30 from side pot 2");
+  file.printLn("PlayerB collected 20 from side pot 1");
+  file.printLn("PlayerC collected 10 from main pot");
+  file.printLn("*** SUMMARY ***");
+  file.printLn("Total pot 60 | No rake");
+  file.printLn("Board: [Ac Js Ah 7c 9s]");
+  file.printLn("Seat 1: PlayerA collected 30");
+  file.printLn("Seat 2: PlayerB collected 20");
+  file.printLn("Seat 3: PlayerC collected 10");
+  file.printLn("Seat 4: PlayerD folded before Flop");
+  file.printLn("");
+  file.printLn("");
+  TextFile line {file.path()};
+  line.next();
+  PlayerCache cache {ProgramInfos::WINAMAX_SITE_NAME};
+  const auto hand = WinamaxHandBuilder::buildHand<Tournament>(line, cache);
+  BOOST_REQUIRE(hand->isWinner("PlayerA"));
+  BOOST_REQUIRE(hand->isWinner("PlayerB"));
+  BOOST_REQUIRE(hand->isWinner("PlayerC"));
+  BOOST_REQUIRE(!hand->isWinner("PlayerD"));
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerA"), 30.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerB"), 20.0, 0.01);
+  BOOST_REQUIRE_CLOSE(hand->getWinAmount("PlayerC"), 10.0, 0.01);
+  BOOST_REQUIRE(0.0 == hand->getWinAmount("PlayerD"));
 }
 
 BOOST_AUTO_TEST_SUITE_END()

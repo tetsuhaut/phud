@@ -78,4 +78,5 @@ public:
   [[nodiscard]] constexpr Card getBoardCard4() const noexcept { return m_boardCards.at(3); }
   [[nodiscard]] constexpr Card getBoardCard5() const noexcept { return m_boardCards.at(4); }
   [[nodiscard]] bool isWinner(std::string_view playerName) const noexcept;
+  [[nodiscard]] double getWinAmount(std::string_view playerName) const noexcept;
 }; // class Hand

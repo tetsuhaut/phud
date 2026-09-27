@@ -169,8 +169,8 @@ SqlInsertor& SqlInsertor::actionType(ActionType value) {
 SqlInsertor& SqlInsertor::actionIndex(std::size_t value) {
   REPLACE_IN_VALUES("?actionIndex");
 }
-SqlInsertor& SqlInsertor::betAmount(double value) {
-  REPLACE_IN_VALUES("?betAmount");
+SqlInsertor& SqlInsertor::amount(double value) {
+  REPLACE_IN_VALUES("?amount");
 }
 SqlInsertor& SqlInsertor::variant(Variant value) {
   REPLACE_IN_VALUES("?variant");

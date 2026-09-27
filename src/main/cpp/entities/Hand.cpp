@@ -2,7 +2,8 @@
 #include "entities/Hand.hpp"
 #include "language/Validator.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
-#include <ranges>                  // std::ranges::find_if, std::views
+#include <algorithm>               // std::ranges::find_if, std::ranges::any_of
+#include <ranges>                  // std::views
 #include <vector>
 
 namespace ps = phud::strings;
@@ -25,6 +26,22 @@ Hand::Hand(Params& p)
   validation::requireNonEmpty(m_siteName, "site");
   validation::requireNonEmpty(m_tableName, "table");
   validation::requirePositive(m_ante, "ante");
+
+  std::size_t nbWinners = 0;
+
+  for (const auto& pAction : m_actions) {
+    if (ActionType::win == pAction->getType()) {
+      const auto& winnerName = pAction->getPlayerName();
+      const auto knownWinners = m_winners | std::views::take(nbWinners);
+      const auto isAlreadyKnown = std::ranges::any_of(
+          knownWinners, [&winnerName](const auto& known) { return winnerName == known; });
+
+      if (!isAlreadyKnown) {
+        m_winners.at(nbWinners) = winnerName;
+        nbWinners++;
+      }
+    }
+  }
 }
 
 Hand::~Hand() = default; // needed because Hand owns a private std::shared_ptr member
@@ -36,6 +53,14 @@ bool Hand::isPlayerInvolved(std::string_view name) const {
 
 bool Hand::isWinner(std::string_view playerName) const noexcept {
   return std::ranges::find(m_winners, playerName.data()) != m_winners.end();
+}
+
+double Hand::getWinAmount(std::string_view playerName) const noexcept {
+  const auto isWinningActionForPlayer = [playerName](const auto& pAction) {
+    return ActionType::win == pAction->getType() and playerName == pAction->getPlayerName();
+  };
+  const auto it = std::ranges::find_if(m_actions, isWinningActionForPlayer);
+  return m_actions.end() == it ? 0.0 : (*it)->getAmount();
 }
 
 [[nodiscard]] std::vector<const Action*> Hand::viewActions() const {

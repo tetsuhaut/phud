@@ -113,7 +113,7 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
                                                  "martinh06", "Akinos", "JOOL81"};
   const auto firstHandSeats = hands[0]->getSeats();
   BOOST_REQUIRE(std::equal(sixPlayerNames.begin(), sixPlayerNames.end(), firstHandSeats.begin()));
-  BOOST_REQUIRE(16 == hands[0]->viewActions().size());
+  BOOST_REQUIRE(17 == hands[0]->viewActions().size());
   BOOST_REQUIRE(6 == hands[1]->viewActions().size());
   /* check that the 5 first players folded preflop */
   const auto actions = hands[1]->viewActions();
@@ -133,12 +133,12 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodCashGameFileShouldSucceed) {
     BOOST_REQUIRE(Street::preflop == action->getStreet());
     BOOST_REQUIRE(ActionType::fold == action->getType());
   });
-  /* the winner of the hand did not do anything, check that a none Action exists */
+  /* the winner of the hand did not do anything except collect the pot */
   BOOST_REQUIRE(Street::preflop == hands[1]->viewActions()[5]->getStreet());
-  BOOST_REQUIRE(ActionType::none == hands[1]->viewActions()[5]->getType());
-  BOOST_REQUIRE(16 == hands[2]->viewActions().size());
-  BOOST_REQUIRE(9 == hands[3]->viewActions().size());
-  BOOST_REQUIRE(12 == hands[4]->viewActions().size());
+  BOOST_REQUIRE(ActionType::win == hands[1]->viewActions()[5]->getType());
+  BOOST_REQUIRE(17 == hands[2]->viewActions().size());
+  BOOST_REQUIRE(10 == hands[3]->viewActions().size());
+  BOOST_REQUIRE(13 == hands[4]->viewActions().size());
 }
 
 BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_parsingGoodTournamentFileShouldSucceed) {

@@ -19,10 +19,10 @@ BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_computeVoluntaryPutMoneyInPotShouldSuc
   BOOST_REQUIRE(nullptr != pHero);
   BOOST_TEST(ProgramInfos::WINAMAX_SITE_NAME == pHero->getSiteName());
   BOOST_REQUIRE(pHero->isHero());
-  BOOST_REQUIRE(379 == pHero->getNbHands());
-  BOOST_REQUIRE(45 == pHero->getVoluntaryPutMoneyInPot());
+  BOOST_REQUIRE(410 == pHero->getNbHands());
+  BOOST_REQUIRE(42 == pHero->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE(pHero->getVoluntaryPutMoneyInPot() > pHero->getPreFlopRaise());
-  BOOST_REQUIRE(22 == pHero->getPreFlopRaise());
+  BOOST_REQUIRE(20 == pHero->getPreFlopRaise());
   /* TODO à finir
   BOOST_REQUIRE(0 < pHero->getAggressionFactor());
   BOOST_REQUIRE(4 >= pHero->getAggressionFactor());  */

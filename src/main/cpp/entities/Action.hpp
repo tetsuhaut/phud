@@ -22,9 +22,10 @@ private:
   std::string m_handId;
   std::string m_playerName;
   std::size_t m_index; // 8 bytes
-  double m_betAmount;  // 8 bytes
-  Street m_street;     // 2 bytes (short)
-  ActionType m_type;   // 2 bytes (short)
+  // the bet amount for fold/check/call/bet/raise, or the amount won for win
+  double m_amount;   // 8 bytes
+  Street m_street;   // 2 bytes (short)
+  ActionType m_type; // 2 bytes (short)
 public:
   struct [[nodiscard]] Params final {
     std::string_view handId;
@@ -32,7 +33,7 @@ public:
     Street street;
     ActionType type;
     std::size_t actionIndex;
-    double betAmount;
+    double amount;
   };
 
   explicit Action(const Params& p);
@@ -46,7 +47,7 @@ public:
   [[nodiscard]] constexpr const std::string& getPlayerName() const noexcept { return m_playerName; }
   [[nodiscard]] constexpr ActionType getType() const noexcept { return m_type; }
   [[nodiscard]] constexpr std::size_t getIndex() const noexcept { return m_index; }
-  [[nodiscard]] constexpr double getBetAmount() const noexcept { return m_betAmount; }
+  [[nodiscard]] constexpr double getAmount() const noexcept { return m_amount; }
 }; // class Action
 
 // exported methods
