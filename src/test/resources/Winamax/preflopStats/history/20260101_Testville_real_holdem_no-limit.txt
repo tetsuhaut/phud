@@ -1,0 +1,153 @@
+Winamax Poker - CashGame - HandId: #100-1-1767297600 - Holdem no limit (0.02€/0.05€) - 2026/01/01 20:00:00 UTC
+Table: 'Testville' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (5€)
+Seat 2: alice (5€)
+Seat 3: bob (5€)
+*** ANTE/BLINDS ***
+alice posts small blind 0.02€
+bob posts big blind 0.05€
+Dealt to sabre_laser [Ah Kd]
+*** PRE-FLOP ***
+sabre_laser raises 0.10€ to 0.15€
+alice folds
+bob folds
+sabre_laser collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 1: sabre_laser (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #100-2-1767297660 - Holdem no limit (0.02€/0.05€) - 2026/01/01 20:01:00 UTC
+Table: 'Testville' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (5.07€)
+Seat 2: alice (4.98€)
+Seat 3: bob (4.95€)
+*** ANTE/BLINDS ***
+bob posts small blind 0.02€
+sabre_laser posts big blind 0.05€
+Dealt to sabre_laser [7c 2d]
+*** PRE-FLOP ***
+alice calls 0.05€
+bob folds
+sabre_laser checks
+*** FLOP *** [Kc 8d 3s]
+sabre_laser checks
+alice bets 0.10€
+sabre_laser folds
+alice collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Board: [Kc 8d 3s]
+Seat 2: alice (button) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #100-3-1767297720 - Holdem no limit (0.02€/0.05€) - 2026/01/01 20:02:00 UTC
+Table: 'Testville' 3-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (5.02€)
+Seat 2: alice (5.15€)
+Seat 3: bob (4.93€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.02€
+alice posts big blind 0.05€
+Dealt to sabre_laser [9c 4d]
+*** PRE-FLOP ***
+bob folds
+sabre_laser folds
+alice collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 2: alice (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #100-4-1767297780 - Holdem no limit (0.02€/0.05€) - 2026/01/01 20:03:00 UTC
+Table: 'Testville' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (5€)
+Seat 2: alice (5.20€)
+Seat 3: bob (4.93€)
+*** ANTE/BLINDS ***
+alice posts small blind 0.02€
+bob posts big blind 0.05€
+Dealt to sabre_laser [Qh Qd]
+*** PRE-FLOP ***
+sabre_laser raises 0.10€ to 0.15€
+alice raises 0.30€ to 0.45€
+bob folds
+sabre_laser calls 0.30€
+*** FLOP *** [Ac Kd 2s]
+alice bets 0.50€
+sabre_laser folds
+alice collected 1.45€ from pot
+*** SUMMARY ***
+Total pot 1.45€ | No rake
+Board: [Ac Kd 2s]
+Seat 2: alice (small blind) won 1.45€
+
+
+Winamax Poker - CashGame - HandId: #100-5-1767297840 - Holdem no limit (0.02€/0.05€) - 2026/01/01 20:04:00 UTC
+Table: 'Testville' 3-max (real money) Seat #2 is the button
+Seat 1: sabre_laser (4.55€)
+Seat 2: alice (6.20€)
+Seat 3: bob (4.88€)
+*** ANTE/BLINDS ***
+bob posts small blind 0.02€
+sabre_laser posts big blind 0.05€
+Dealt to sabre_laser [Td 3h]
+*** PRE-FLOP ***
+alice folds
+bob folds
+sabre_laser collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 1: sabre_laser (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #100-6-1767297900 - Holdem no limit (0.02€/0.05€) - 2026/01/01 20:05:00 UTC
+Table: 'Testville' 3-max (real money) Seat #3 is the button
+Seat 1: sabre_laser (4.57€)
+Seat 2: alice (6.20€)
+Seat 3: bob (4.86€)
+*** ANTE/BLINDS ***
+sabre_laser posts small blind 0.02€
+alice posts big blind 0.05€
+Dealt to sabre_laser [Jh Tc]
+*** PRE-FLOP ***
+bob raises 0.10€ to 0.15€
+sabre_laser calls 0.13€
+alice raises 0.45€ to 0.60€
+bob folds
+sabre_laser calls 0.45€
+*** FLOP *** [9d 5c 2h]
+sabre_laser checks
+alice bets 0.80€
+sabre_laser folds
+alice collected 2.15€ from pot
+*** SUMMARY ***
+Total pot 2.15€ | No rake
+Board: [9d 5c 2h]
+Seat 2: alice (big blind) won 2.15€
+
+
+Winamax Poker - CashGame - HandId: #100-7-1767297960 - Holdem no limit (0.02€/0.05€) - 2026/01/01 20:06:00 UTC
+Table: 'Testville' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (3.97€)
+Seat 2: alice (7.55€)
+Seat 3: bob (4.71€)
+*** ANTE/BLINDS ***
+alice posts small blind 0.02€
+bob posts big blind 0.05€
+Dealt to sabre_laser [8s 3d]
+*** PRE-FLOP ***
+sabre_laser folds
+alice raises 0.10€ to 0.15€
+bob calls 0.10€
+*** FLOP *** [Qc 7h 4d]
+alice checks
+bob bets 0.15€
+alice folds
+bob collected 0.45€ from pot
+*** SUMMARY ***
+Total pot 0.45€ | No rake
+Board: [Qc 7h 4d]
+Seat 3: bob (big blind) won 0.45€
+
+

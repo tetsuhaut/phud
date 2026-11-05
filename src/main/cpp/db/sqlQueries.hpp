@@ -213,22 +213,25 @@ VALUES ('?handId', '?playerName', ?playerSeat, ?isWinner);
    *  This parameterized query retrieves the different statistics for a given player, currently
    * - Voluntary Put Money In Pot
    * - Pre Flop Raise
+   * Each hand of the site where the player was seated counts once.
    * param siteName
    * param playerName
-   * return columns isHero, comments, nbHands, VPIP, PFR
+   * return columns isHero, VPIP, PFR, nbHands
    */
   static constexpr std::string_view GET_STATS_BY_SITE_AND_PLAYER_NAME = R"raw(
 SELECT
   p.isHero,
-  100 * COUNT(CASE WHEN(a.actionType in('call','bet','raise')) then 1 END) / (1.0 * COUNT(1)) as VPIP,
-  100 * COUNT(CASE WHEN(a.actionType = 'raise') then 1 END) / (1.0 * COUNT(1)) as PFR,
-  COUNT(1) as nbHands 
-FROM Action a 
-JOIN Player p ON p.playerName = a.playerName
+  100 * COUNT(DISTINCT CASE WHEN(a.actionType IN ('call','bet','raise')) then h.handId END) / (1.0 * COUNT(DISTINCT h.handId)) as VPIP,
+  100 * COUNT(DISTINCT CASE WHEN(a.actionType = 'raise') then h.handId END) / (1.0 * COUNT(DISTINCT h.handId)) as PFR,
+  COUNT(DISTINCT h.handId) as nbHands
+FROM Player p
+JOIN HandPlayer hp ON hp.playerName = p.playerName
+JOIN Hand h ON h.handId = hp.handId AND h.siteName = p.siteName
+LEFT JOIN Action a ON a.handId = h.handId AND a.playerName = p.playerName AND a.street = 'preflop'
 WHERE
   p.playerName = '?playerName' AND
-  p.siteName = '?siteName' AND
-  a.street = 'preflop';
+  p.siteName = '?siteName'
+GROUP BY p.playerName;
 )raw";
 
 

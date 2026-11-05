@@ -28,7 +28,69 @@ struct SimpleTHistoFixture {
   }
 };
 
+static void assertStats(const PlayerStatistics* pStats, std::string_view name, int nbHands, int vpip,
+                        int pfr) {
+  BOOST_REQUIRE(nullptr != pStats);
+  BOOST_TEST(name == pStats->getPlayerName());
+  BOOST_TEST(nbHands == pStats->getNbHands());
+  BOOST_TEST(vpip == pStats->getVoluntaryPutMoneyInPot());
+  BOOST_TEST(pfr == pStats->getPreFlopRaise());
+}
+
 BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
+
+/*
+ * Winamax/preflopStats est un jeu de mains ecrit a la main : les valeurs attendues se calculent de
+ * tete, independamment du code. Chaque joueur est assis a toutes les mains.
+ *
+ * Regles (cf. doc/spec_stat.txt) :
+ *   VPIP = mains avec call ou raise preflop / mains jouees
+ *   PFR  = mains avec raise preflop / mains jouees
+ *   Une main compte une seule fois, quel que soit le nombre d'actions du joueur.
+ *   Les blindes postees et les pots ramasses ne comptent pas.
+ *
+ * Testville (7 mains)
+ *   main  bouton       sabre_laser      alice            bob
+ *   1     sabre_laser  raise, gagne     fold             fold
+ *   2     alice        check            call             fold
+ *   3     bob          fold             walk (gagne)     fold
+ *   4     sabre_laser  raise, call      3-bet            fold
+ *   5     alice        walk (gagne)     fold             fold
+ *   6     bob          call, call       squeeze          raise, fold
+ *   7     sabre_laser  fold             raise            call
+ *
+ *   sabre_laser  VPIP 3/7 = 42.86  PFR 2/7 = 28.57
+ *   alice        VPIP 4/7 = 57.14  PFR 3/7 = 42.86
+ *   bob          VPIP 2/7 = 28.57  PFR 1/7 = 14.29
+ *
+ * Autreville (4 mains)
+ *   main  bouton       sabre_laser      alice            bob
+ *   1     sabre_laser  raise, gagne     fold             fold
+ *   2     alice        call             raise            fold
+ *   3     bob          call             check            fold
+ *   4     sabre_laser  fold             fold             walk (gagne)
+ *
+ *   sabre_laser  VPIP 3/4 = 75  PFR 1/4 = 25
+ *   alice        VPIP 1/4 = 25  PFR 1/4 = 25
+ *   bob          VPIP 0/4 = 0   PFR 0/4 = 0
+ *
+ * Les pourcentages sont tronques a l'affichage : 57.14 donne 57 et 28.57 donne 28.
+ */
+BOOST_AUTO_TEST_CASE(TableStatisticsTest_statsShouldBeComputedByHandForTheGivenTableOnly) {
+  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/preflopStats"));
+  BOOST_REQUIRE(nullptr != pSite);
+  Database db;
+  db.save(*pSite);
+  const auto& testville = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Testville");
+  BOOST_REQUIRE(Seat::seatThree == testville.getMaxSeat());
+  assertStats(testville.m_tableStats[0].get(), "sabre_laser", 7, 42, 28);
+  assertStats(testville.m_tableStats[1].get(), "alice", 7, 57, 42);
+  assertStats(testville.m_tableStats[2].get(), "bob", 7, 28, 14);
+  const auto& autreville = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Autreville");
+  assertStats(autreville.m_tableStats[0].get(), "sabre_laser", 4, 75, 25);
+  assertStats(autreville.m_tableStats[1].get(), "alice", 4, 25, 25);
+  assertStats(autreville.m_tableStats[2].get(), "bob", 4, 0, 0);
+}
 
 BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed,
                         SimpleTHistoFixture) {

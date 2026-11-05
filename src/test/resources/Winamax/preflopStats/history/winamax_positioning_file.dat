@@ -1,0 +1,1 @@
+this file exist so that preflopStats is considered as a valid Winamax history directory, and WinamaxHistory::isValidHistory() returns true
