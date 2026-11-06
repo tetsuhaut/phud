@@ -309,9 +309,18 @@ parseActionsAndWinners(TextFile& tf, std::string_view handId) {
   return actions;
 }
 
-template <GameType gameType>
-[[nodiscard]] static std::unique_ptr<Hand> getHand(TextFile& tf, PlayerCache& cache, int level,
-                                                   const Time& date, std::string_view handId) {
+/**
+ * @param line the first line of a hand from a cash game history file
+ */
+[[nodiscard]] static GameType toCashGameType(std::string_view line) {
+  return (ps::contains(line, " - ESCAPE ") or ps::contains(line, " - Go Fast "))
+             ? GameType::fastFold
+             : GameType::cashGame;
+}
+
+[[nodiscard]] static std::unique_ptr<Hand> getHand(GameType gameType, TextFile& tf,
+                                                   PlayerCache& cache, int level, const Time& date,
+                                                   std::string_view handId) {
   LOG().debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName,
                buttonSeat] {getNbMaxSeatsTableNameButtonSeatFromTableLine(tf)};
@@ -345,14 +354,15 @@ template <GameType gameType>
 std::unique_ptr<Hand> WinamaxHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
   LOG().debug<"Building Cashgame from history file {}.">(tf.getFileStem());
   const auto [_, date, handId] = parseStartOfWinamaxPokerLine(tf.getLine());
-  return getHand<GameType::cashGame>(tf, pc, 0, date, handId); // for cashGame, level is zero
+  // for cashGame, level is zero
+  return getHand(toCashGameType(tf.getLine()), tf, pc, 0, date, handId);
 }
 
 std::unique_ptr<Hand> WinamaxHandBuilder::buildTournamentHand(TextFile& tf, PlayerCache& pc) {
   LOG().debug<"Building Tournament from history file {}.">(tf.getFileStem());
   const auto& [level, date,
                handId] {getLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine())};
-  return getHand<GameType::tournament>(tf, pc, level, date, handId);
+  return getHand(GameType::tournament, tf, pc, level, date, handId);
 }
 
 std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
@@ -360,7 +370,7 @@ WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf, PlayerCache& pc) 
   LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   const auto& [smallBlind, bigBlind, date,
                handId] {getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(tf.getLine())};
-  auto pHand = getHand<GameType::cashGame>(tf, pc, 0, date, handId);
+  auto pHand = getHand(toCashGameType(tf.getLine()), tf, pc, 0, date, handId);
   return {std::move(pHand), std::make_unique<GameData>(GameData::Args {
                                 .startDate = pHand->getStartDate(),
                                 .smallBlind = smallBlind,
@@ -375,7 +385,7 @@ WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf, PlayerCache& pc
   LOG().debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   const auto& [buyIn, level, date,
                handId] {getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine())};
-  auto pHand = getHand<GameType::tournament>(tf, pc, level, date, handId);
+  auto pHand = getHand(GameType::tournament, tf, pc, level, date, handId);
   return {std::move(pHand),
           std::make_unique<GameData>(GameData::Args {
                                                      .startDate = pHand->getStartDate(),

@@ -12,6 +12,7 @@
 #include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "language/Validator.hpp"
 #include "log/Logger.hpp" // fmt::format(), CURRENT_FILE_NAME
+#include "statistics/HandPlayerStats.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp" // ThreadPool, Future
@@ -107,6 +108,7 @@ namespace {
   constexpr auto GAME_TYPE_TO_ID_AND_COLUMN_NAME {
       frozen::make_unordered_map<GameType, std::string_view>(
           {{GameType::cashGame, phud::sql::INSERT_CASHGAME_HAND},
+           {GameType::fastFold, phud::sql::INSERT_CASHGAME_HAND},
            {GameType::tournament, phud::sql::INSERT_TOURNAMENT_HAND}})};
 
   void insertGame(const gsl::not_null<sqlite3*> db, const auto& g) {
@@ -348,6 +350,28 @@ static void insertHand(SqlInsertor& handInsert, const Hand& hand) {
       .newInsert();
 }
 
+static void insertHandPlayerStats(SqlInsertor& statsInsert, const Hand& hand,
+                                  const HandPlayerStats& stats) {
+  statsInsert.handId(hand.getId())
+      .playerName(stats.playerName)
+      .siteName(hand.getSiteName())
+      .gameType(hand.getGameType())
+      .vpip(stats.vpip)
+      .pfr(stats.pfr)
+      .limp(stats.limp)
+      .facedRaise(stats.facedRaise)
+      .foldToRaise(stats.foldToRaise)
+      .callRaise(stats.callRaise)
+      .threeBet(stats.threeBet)
+      .couldSqueeze(stats.couldSqueeze)
+      .squeeze(stats.squeeze)
+      .facedThreeBet(stats.facedThreeBet)
+      .foldToThreeBet(stats.foldToThreeBet)
+      .callThreeBet(stats.callThreeBet)
+      .fourBet(stats.fourBet)
+      .newInsert();
+}
+
 /**
  * @throws DatabaseException if an error occurs during the insert
  */
@@ -362,6 +386,8 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
   SqlInsertor handInsert {phud::sql::INSERT_HAND};
   static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER, '?'), "ill-formed SQL template");
   SqlInsertor handPlayerInsert {phud::sql::INSERT_HAND_PLAYER};
+  static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER_STATS, '?'), "ill-formed SQL template");
+  SqlInsertor statsInsert {phud::sql::INSERT_HAND_PLAYER_STATS};
   SqlInsertor gameHandInsert {
       GAME_TYPE_TO_ID_AND_COLUMN_NAME.find(gsl::at(hands, 0)->getGameType())->second};
   std::ranges::for_each(hands, [&](const auto& pHand) {
@@ -381,12 +407,16 @@ static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
                                   .newInsert();
                             }
                           });
+    std::ranges::for_each(computeHandPlayerStats(*pHand), [pHand, &statsInsert](const auto& stats) {
+      insertHandPlayerStats(statsInsert, *pHand, stats);
+    });
     gameHandInsert.gameId(gameId).handId(pHand->getId()).newInsert();
   });
   LOG().trace<"run insert queries">();
   LOG().info<"insert hands for table {}">(hands.front()->getTableName());
   executeSql(db, handInsert.build());
   executeSql(db, handPlayerInsert.build());
+  executeSql(db, statsInsert.build());
   executeSql(db, gameHandInsert.build());
   LOG().trace<"exit saveHands()">();
 }
@@ -499,7 +529,7 @@ readTableStatisticsQuery(PreparedStatement& p) {
   }
 
   do {
-    validation::require(8 == p.getColumnCount(),
+    validation::require(18 == p.getColumnCount(),
                         "bad number of columns in readTablePlayersStatistics()");
     const auto playerName = p.getColumnAsString(0);
     const auto siteName = p.getColumnAsString(1);
@@ -511,12 +541,23 @@ readTableStatisticsQuery(PreparedStatement& p) {
     const auto nbHands = p.getColumnAsInt(7);
     if (playerSeat != Seat::seatUnknown) {
       playerStats.at(tableSeat::toArrayIndex(playerSeat)) =
-          std::make_unique<PlayerStatistics>(PlayerStatistics::Params {.playerName = playerName,
-                                                                       .siteName = siteName,
-                                                                       .isHero = isHero,
-                                                                       .nbHands = nbHands,
-                                                                       .vpip = vpip,
-                                                                       .pfr = pfr});
+          std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
+              .playerName = playerName,
+              .siteName = siteName,
+              .isHero = isHero,
+              .nbHands = nbHands,
+              .vpip = vpip,
+              .pfr = pfr,
+              .limp = p.getColumnAsDouble(8),
+              .nbFacedRaise = p.getColumnAsInt(9),
+              .foldToRaise = p.getColumnAsDouble(10),
+              .callRaise = p.getColumnAsDouble(11),
+              .threeBet = p.getColumnAsDouble(12),
+              .squeeze = p.getColumnAsDouble(13),
+              .nbFacedThreeBet = p.getColumnAsInt(14),
+              .foldToThreeBet = p.getColumnAsDouble(15),
+              .callThreeBet = p.getColumnAsDouble(16),
+              .fourBet = p.getColumnAsDouble(17)});
     } else {
       LOG().warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
     }

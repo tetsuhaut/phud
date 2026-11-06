@@ -5,6 +5,7 @@
 
 enum class ActionType : short;
 enum class Card : short;
+enum class GameType : short;
 enum class Limit : short;
 enum class Seat : short;
 enum class Street : short;
@@ -79,6 +80,20 @@ public:
   [[nodiscard]] SqlInsertor& cashGameId(std::string_view value);
   [[nodiscard]] SqlInsertor& smallBlind(double value);
   [[nodiscard]] SqlInsertor& bigBlind(double value);
+  [[nodiscard]] SqlInsertor& gameType(GameType value);
+  [[nodiscard]] SqlInsertor& vpip(bool value);
+  [[nodiscard]] SqlInsertor& pfr(bool value);
+  [[nodiscard]] SqlInsertor& limp(bool value);
+  [[nodiscard]] SqlInsertor& facedRaise(bool value);
+  [[nodiscard]] SqlInsertor& foldToRaise(bool value);
+  [[nodiscard]] SqlInsertor& callRaise(bool value);
+  [[nodiscard]] SqlInsertor& threeBet(bool value);
+  [[nodiscard]] SqlInsertor& couldSqueeze(bool value);
+  [[nodiscard]] SqlInsertor& squeeze(bool value);
+  [[nodiscard]] SqlInsertor& facedThreeBet(bool value);
+  [[nodiscard]] SqlInsertor& foldToThreeBet(bool value);
+  [[nodiscard]] SqlInsertor& callThreeBet(bool value);
+  [[nodiscard]] SqlInsertor& fourBet(bool value);
 }; // class SqlInsertor
 
 [[nodiscard]] std::string formatSQL(std::string_view sql);

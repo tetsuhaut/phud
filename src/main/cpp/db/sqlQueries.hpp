@@ -111,6 +111,7 @@ CREATE TABLE Action (
   actionType TEXT NOT NULL, 
   actionIndex INT NOT NULL,
   amount REAL NOT NULL,
+  UNIQUE(handId, actionIndex),
   FOREIGN KEY(handId) REFERENCES Hand(handId)
 );
 )raw";
@@ -136,6 +137,39 @@ CREATE TABLE HandPlayer (
   FOREIGN KEY(handId) REFERENCES Hand(handId), 
   FOREIGN KEY(playerName) REFERENCES Player(playerName)
 );
+)raw";
+
+  /**
+   * What each player did in each hand, filled when saving the hands and thus never updated. The
+   * primary key makes saving the same hand again harmless.
+   */
+  static constexpr std::string_view CREATE_HAND_PLAYER_STATS = R"raw(
+CREATE TABLE HandPlayerStats (
+  handId TEXT NOT NULL,
+  playerName TEXT NOT NULL,
+  siteName TEXT NOT NULL,
+  gameType TEXT NOT NULL,
+  vpip BOOLEAN NOT NULL,
+  pfr BOOLEAN NOT NULL,
+  limp BOOLEAN NOT NULL,
+  facedRaise BOOLEAN NOT NULL,
+  foldToRaise BOOLEAN NOT NULL,
+  callRaise BOOLEAN NOT NULL,
+  threeBet BOOLEAN NOT NULL,
+  couldSqueeze BOOLEAN NOT NULL,
+  squeeze BOOLEAN NOT NULL,
+  facedThreeBet BOOLEAN NOT NULL,
+  foldToThreeBet BOOLEAN NOT NULL,
+  callThreeBet BOOLEAN NOT NULL,
+  fourBet BOOLEAN NOT NULL,
+  PRIMARY KEY(handId, playerName),
+  FOREIGN KEY(handId) REFERENCES Hand(handId),
+  FOREIGN KEY(playerName) REFERENCES Player(playerName)
+);
+)raw";
+
+  static constexpr std::string_view CREATE_HAND_PLAYER_STATS_INDEX = R"raw(
+CREATE INDEX HandPlayerStatsByPlayer ON HandPlayerStats (playerName, siteName, gameType);
 )raw";
 
   static constexpr std::string_view INSERT_SITE = R"raw(
@@ -210,10 +244,26 @@ VALUES ('?handId', '?playerName', ?playerSeat, ?isWinner);
 )raw";
 
   /**
+   * Write the player statistics that are shown by the HUD
+   */
+  static constexpr std::string_view INSERT_HAND_PLAYER_STATS = R"raw(
+INSERT OR IGNORE INTO HandPlayerStats (
+  handId, playerName, siteName, gameType, vpip, pfr, limp,
+  facedRaise, foldToRaise, callRaise, threeBet, couldSqueeze, squeeze,
+  facedThreeBet, foldToThreeBet, callThreeBet, fourBet
+)
+VALUES (
+  '?handId', '?playerName', '?siteName', '?gameType', ?vpip, ?pfr, ?limp,
+  ?facedRaise, ?foldToRaise, ?callRaise, ?threeBet, ?couldSqueeze, ?squeeze,
+  ?facedThreeBet, ?foldToThreeBet, ?callThreeBet, ?fourBet
+);
+)raw";
+
+  /**
    *  This parameterized query retrieves the different statistics for a given player, currently
    * - Voluntary Put Money In Pot
    * - Pre Flop Raise
-   * Each hand of the site where the player was seated counts once.
+   * Each hand of the site where the player was seated counts once, whatever the game type.
    * param siteName
    * param playerName
    * return columns isHero, VPIP, PFR, nbHands
@@ -221,13 +271,11 @@ VALUES ('?handId', '?playerName', ?playerSeat, ?isWinner);
   static constexpr std::string_view GET_STATS_BY_SITE_AND_PLAYER_NAME = R"raw(
 SELECT
   p.isHero,
-  100 * COUNT(DISTINCT CASE WHEN(a.actionType IN ('call','bet','raise')) then h.handId END) / (1.0 * COUNT(DISTINCT h.handId)) as VPIP,
-  100 * COUNT(DISTINCT CASE WHEN(a.actionType = 'raise') then h.handId END) / (1.0 * COUNT(DISTINCT h.handId)) as PFR,
-  COUNT(DISTINCT h.handId) as nbHands
+  100.0 * SUM(s.vpip) / COUNT(*) AS VPIP,
+  100.0 * SUM(s.pfr) / COUNT(*) AS PFR,
+  COUNT(*) AS nbHands
 FROM Player p
-JOIN HandPlayer hp ON hp.playerName = p.playerName
-JOIN Hand h ON h.handId = hp.handId AND h.siteName = p.siteName
-LEFT JOIN Action a ON a.handId = h.handId AND a.playerName = p.playerName AND a.street = 'preflop'
+JOIN HandPlayerStats s ON s.playerName = p.playerName AND s.siteName = p.siteName
 WHERE
   p.playerName = '?playerName' AND
   p.siteName = '?siteName'
@@ -236,36 +284,42 @@ GROUP BY p.playerName;
 
 
   /**
-   * This parameterized query retrieves the different statistics for the given table, currently
-   * - Voluntary Put Money In Pot
-   * - Pre Flop Raise
+   * This parameterized query retrieves the preflop statistics of the players seated at the last
+   * hand of the given table. The statistics cover the whole history of each player on that site,
+   * for the game type of that table: all its tables, not only the given one.
+   * A percentage is NULL when the player had no opportunity: see nbFacedRaise and nbFacedThreeBet.
    * param siteName
    * param tableName
-   * return columns isHero, comments, nbHands, VPIP, PFR
+   * return columns playerName, siteName, isHero, playerSeat, comments, VPIP, PFR, nbHands, limp,
+   * nbFacedRaise, foldToRaise, callRaise, threeBet, squeeze, nbFacedThreeBet, foldToThreeBet,
+   * callThreeBet, fourBet
    */
   static constexpr std::string_view GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME = R"raw(
 SELECT
-  p.playerName, p.siteName, p.isHero, lastHand.playerSeat, p.comments,
-  100 * COUNT(DISTINCT CASE WHEN(a.actionType IN ('call','bet','raise')) then allHands.handId END) / (1.0 * COUNT(DISTINCT allHands.handId)) as VPIP,
-  100 * COUNT(DISTINCT CASE WHEN(a.actionType = 'raise') then allHands.handId END) / (1.0 * COUNT(DISTINCT allHands.handId)) as PFR,
-  COUNT(DISTINCT allHands.handId) as nbHands
-FROM (
-  SELECT * FROM Hand h WHERE
-  h.tableName = '?tableName' AND h.siteName = '?siteName'
-  ORDER BY h.startDate DESC limit 1
-) h
-JOIN Player p ON h.siteName = p.siteName
-JOIN (
-  SELECT hp.playerName, hp.playerSeat, hp.handId
-  FROM HandPlayer hp
-  WHERE hp.handId = (SELECT handId FROM Hand WHERE tableName = '?tableName' AND siteName = '?siteName' ORDER BY startDate DESC limit 1)
-) lastHand ON lastHand.playerName = p.playerName
-JOIN Hand allHands ON allHands.tableName = '?tableName' AND allHands.siteName = '?siteName'
-JOIN HandPlayer allHandsPlayers ON allHandsPlayers.playerName = p.playerName AND allHandsPlayers.handId = allHands.handId
-LEFT JOIN Action a ON p.playerName = a.playerName AND a.handId = allHands.handId AND a.street = 'preflop'
-WHERE
-h.siteName = '?siteName'
-GROUP BY p.playerName ORDER BY lastHand.playerSeat;
+  p.playerName, p.siteName, p.isHero, seated.playerSeat, p.comments,
+  100.0 * SUM(s.vpip) / COUNT(*) AS VPIP,
+  100.0 * SUM(s.pfr) / COUNT(*) AS PFR,
+  COUNT(*) AS nbHands,
+  100.0 * SUM(s.limp) / COUNT(*) AS limp,
+  SUM(s.facedRaise) AS nbFacedRaise,
+  100.0 * SUM(s.foldToRaise) / NULLIF(SUM(s.facedRaise), 0) AS foldToRaise,
+  100.0 * SUM(s.callRaise) / NULLIF(SUM(s.facedRaise), 0) AS callRaise,
+  100.0 * SUM(s.threeBet) / NULLIF(SUM(s.facedRaise), 0) AS threeBet,
+  100.0 * SUM(s.squeeze) / NULLIF(SUM(s.couldSqueeze), 0) AS squeeze,
+  SUM(s.facedThreeBet) AS nbFacedThreeBet,
+  100.0 * SUM(s.foldToThreeBet) / NULLIF(SUM(s.facedThreeBet), 0) AS foldToThreeBet,
+  100.0 * SUM(s.callThreeBet) / NULLIF(SUM(s.facedThreeBet), 0) AS callThreeBet,
+  100.0 * SUM(s.fourBet) / NULLIF(SUM(s.facedThreeBet), 0) AS fourBet
+FROM HandPlayer seated
+JOIN HandPlayerStats currentHand ON currentHand.handId = seated.handId AND currentHand.playerName = seated.playerName
+JOIN Player p ON p.playerName = seated.playerName AND p.siteName = currentHand.siteName
+JOIN HandPlayerStats s ON s.playerName = p.playerName AND s.siteName = p.siteName AND s.gameType = currentHand.gameType
+WHERE seated.handId = (
+  SELECT handId FROM Hand WHERE tableName = '?tableName' AND siteName = '?siteName'
+  ORDER BY startDate DESC LIMIT 1
+)
+GROUP BY p.playerName
+ORDER BY seated.playerSeat;
 )raw";
 
   static constexpr std::string_view GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME = R"raw(
@@ -278,15 +332,18 @@ WHERE
 ORDER BY h.startDate DESC limit 1
 )raw";
 
-  static constexpr std::array<std::string_view, 10> CREATE_QUERIES = {CREATE_SITE,
-                                                                      CREATE_HAND,
-                                                                      CREATE_GAME,
-                                                                      CREATE_CASH_GAME,
-                                                                      CREATE_TOURNAMENT,
-                                                                      CREATE_CASH_GAME_HAND,
-                                                                      CREATE_TOURNAMENT_HAND,
-                                                                      CREATE_ACTION,
-                                                                      CREATE_PLAYER,
-                                                                      CREATE_HAND_PLAYER};
+  static constexpr std::array<std::string_view, 12> CREATE_QUERIES = {
+      CREATE_SITE,
+      CREATE_HAND,
+      CREATE_GAME,
+      CREATE_CASH_GAME,
+      CREATE_TOURNAMENT,
+      CREATE_CASH_GAME_HAND,
+      CREATE_TOURNAMENT_HAND,
+      CREATE_ACTION,
+      CREATE_PLAYER,
+      CREATE_HAND_PLAYER,
+      CREATE_HAND_PLAYER_STATS,
+      CREATE_HAND_PLAYER_STATS_INDEX};
 
 } // namespace phud::sql

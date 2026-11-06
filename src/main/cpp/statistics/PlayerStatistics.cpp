@@ -5,7 +5,17 @@ PlayerStatistics::PlayerStatistics(const Params& p) noexcept
     m_siteName {p.siteName},
     m_voluntaryPutMoneyInPot {p.vpip},
     m_preflopRaise {p.pfr},
+    m_foldToPreFlopRaise {p.foldToRaise},
+    m_preFlopThreeBet {p.threeBet},
+    m_foldToPreFlopThreeBet {p.foldToThreeBet},
+    m_callPreFlopThreeBet {p.callThreeBet},
+    m_limp {p.limp},
+    m_callPreFlopRaise {p.callRaise},
+    m_squeeze {p.squeeze},
+    m_fourBet {p.fourBet},
     m_nbHands {p.nbHands},
+    m_nbFacedRaise {p.nbFacedRaise},
+    m_nbFacedThreeBet {p.nbFacedThreeBet},
     m_isHero {p.isHero} {}
 
 PlayerStatistics::~PlayerStatistics() = default;

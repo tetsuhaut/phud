@@ -1,0 +1,19 @@
+Winamax Poker - Tournament "Tournoi" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #300-1-1767470400 - Holdem no limit (25/50) - 2026/01/03 20:00:00 UTC
+Table: 'Tournoi(123456)#001' 3-max (real money) Seat #1 is the button
+Seat 1: sabre_laser (10000)
+Seat 2: alice (10000)
+Seat 3: bob (10000)
+*** ANTE/BLINDS ***
+alice posts small blind 25
+bob posts big blind 50
+Dealt to sabre_laser [As Kd]
+*** PRE-FLOP ***
+sabre_laser raises 50 to 100
+alice folds
+bob folds
+sabre_laser collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Seat 1: sabre_laser (button) won 175
+
+

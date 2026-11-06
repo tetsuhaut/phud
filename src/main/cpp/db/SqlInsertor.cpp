@@ -2,6 +2,7 @@
 #include "entities/Action.hpp"
 #include "entities/Card.hpp"
 #include "entities/Game.hpp" // Limit, Variant
+#include "entities/GameType.hpp"
 #include "entities/Seat.hpp" // tableSeat
 #include "language/Validator.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
@@ -201,6 +202,48 @@ SqlInsertor& SqlInsertor::smallBlind(double value) {
 }
 SqlInsertor& SqlInsertor::bigBlind(double value) {
   REPLACE_IN_VALUES("?bigBlind");
+}
+SqlInsertor& SqlInsertor::gameType(GameType value) {
+  REPLACE_IN_VALUES("?gameType");
+}
+SqlInsertor& SqlInsertor::vpip(bool value) {
+  REPLACE_IN_VALUES("?vpip");
+}
+SqlInsertor& SqlInsertor::pfr(bool value) {
+  REPLACE_IN_VALUES("?pfr");
+}
+SqlInsertor& SqlInsertor::limp(bool value) {
+  REPLACE_IN_VALUES("?limp");
+}
+SqlInsertor& SqlInsertor::facedRaise(bool value) {
+  REPLACE_IN_VALUES("?facedRaise");
+}
+SqlInsertor& SqlInsertor::foldToRaise(bool value) {
+  REPLACE_IN_VALUES("?foldToRaise");
+}
+SqlInsertor& SqlInsertor::callRaise(bool value) {
+  REPLACE_IN_VALUES("?callRaise");
+}
+SqlInsertor& SqlInsertor::threeBet(bool value) {
+  REPLACE_IN_VALUES("?threeBet");
+}
+SqlInsertor& SqlInsertor::couldSqueeze(bool value) {
+  REPLACE_IN_VALUES("?couldSqueeze");
+}
+SqlInsertor& SqlInsertor::squeeze(bool value) {
+  REPLACE_IN_VALUES("?squeeze");
+}
+SqlInsertor& SqlInsertor::facedThreeBet(bool value) {
+  REPLACE_IN_VALUES("?facedThreeBet");
+}
+SqlInsertor& SqlInsertor::foldToThreeBet(bool value) {
+  REPLACE_IN_VALUES("?foldToThreeBet");
+}
+SqlInsertor& SqlInsertor::callThreeBet(bool value) {
+  REPLACE_IN_VALUES("?callThreeBet");
+}
+SqlInsertor& SqlInsertor::fourBet(bool value) {
+  REPLACE_IN_VALUES("?fourBet");
 }
 
 #undef REPLACE_IN_VALUES

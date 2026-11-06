@@ -8,10 +8,26 @@
 #include "history/PokerSiteHistory.hpp"
 #include "constants/ProgramInfos.hpp"
 #include <gsl/gsl> // gsl::finally
+#include <sqlite3.h>
 
 namespace fs = std::filesystem;
 namespace pt = phud::test;
 namespace pf = phud::filesystem;
+
+/**
+ * Reads directly the database file: Database has no need to expose this.
+ */
+[[nodiscard]] static int countRows(const fs::path& dbFile, std::string_view table) {
+  sqlite3* pDb {nullptr};
+  BOOST_REQUIRE(SQLITE_OK == sqlite3_open(dbFile.string().c_str(), &pDb));
+  const auto _ {gsl::finally([pDb] { sqlite3_close(pDb); })};
+  const auto sql = std::format("SELECT COUNT(*) FROM {};", table);
+  sqlite3_stmt* pStatement {nullptr};
+  BOOST_REQUIRE(SQLITE_OK == sqlite3_prepare_v2(pDb, sql.c_str(), -1, &pStatement, nullptr));
+  const auto __ {gsl::finally([pStatement] { sqlite3_finalize(pStatement); })};
+  BOOST_REQUIRE(SQLITE_ROW == sqlite3_step(pStatement));
+  return sqlite3_column_int(pStatement, 0);
+}
 
 static void assertPlayersAreOk(const Site& site) {
   BOOST_REQUIRE(21 == site.viewPlayers().size());
@@ -57,6 +73,20 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameAsynchShouldSucceed
   BOOST_REQUIRE(5 == pSite->viewCashGames().front()->viewHands("tc1591").size());
   Database db;
   db.save(*pSite);
+}
+
+/* the whole history file is saved again each time a new hand is written in it */
+BOOST_AUTO_TEST_CASE(DatabaseTest_savingTheSameHistoryTwiceShouldNotDuplicateActions) {
+  const fs::path dbFile {"DatabaseTest_savingTwice.db"};
+  const auto _ {gsl::finally([&] { fs::remove(dbFile); })};
+  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto"));
+  BOOST_REQUIRE(nullptr != pSite);
+  Database db {dbFile.string()};
+  db.save(*pSite);
+  const auto nbActions = countRows(dbFile, "Action");
+  BOOST_REQUIRE(0 < nbActions);
+  db.save(*pSite);
+  BOOST_TEST(nbActions == countRows(dbFile, "Action"));
 }
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_shouldGetCorrectTableMaxSeat) {

@@ -478,6 +478,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesContainVariables) {
   static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, '?'),
                 "ill-formed SQL template");
   static_assert(ps::contains(phud::sql::INSERT_ACTION, '?'), "ill-formed SQL template");
+  static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER_STATS, '?'), "ill-formed SQL template");
   static_assert(ps::contains(phud::sql::INSERT_CASHGAME, '?'), "ill-formed SQL template");
   static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT, '?'), "ill-formed SQL template");
   static_assert(ps::contains(phud::sql::INSERT_GAME, '?'), "ill-formed SQL template");

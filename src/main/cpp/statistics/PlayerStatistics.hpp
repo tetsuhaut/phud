@@ -51,9 +51,15 @@ private:
   double m_flopCheckRaise {0};
   double m_callFlopCheckRaise {0};
   double m_foldToFlopCheckRaise {0};
+  double m_limp;
+  double m_callPreFlopRaise;
+  double m_squeeze;
+  double m_fourBet;
 
   // int (4 bytes, alignment 4)
   int m_nbHands;
+  int m_nbFacedRaise;
+  int m_nbFacedThreeBet;
 
   // bool last (1 byte, alignment 1) - minimizes total padding
   bool m_isHero;
@@ -66,6 +72,16 @@ public:
     int nbHands;
     double vpip;
     double pfr;
+    double limp {0};
+    int nbFacedRaise {0};
+    double foldToRaise {0};
+    double callRaise {0};
+    double threeBet {0};
+    double squeeze {0};
+    int nbFacedThreeBet {0};
+    double foldToThreeBet {0};
+    double callThreeBet {0};
+    double fourBet {0};
   };
 
   explicit PlayerStatistics(const Params& p) noexcept;
@@ -104,6 +120,23 @@ public:
     return m_limpOrCallPreFlopRaise;
   }
 
+  /** @return The percentage of hands where the player is the first to call the big blind.
+   */
+  [[nodiscard]] constexpr double getLimp() const noexcept { return m_limp; }
+
+  /** @return The number of hands where the player faced one raise without having raised. It is
+   * the denominator of fold to raise, call raise, and 3-bet: 0% means nothing if it is low.
+   */
+  [[nodiscard]] constexpr int getNbFacedRaise() const noexcept { return m_nbFacedRaise; }
+
+  /** @return The number of hands where the player raised, then has been 3-bet. It is the
+   * denominator of fold to 3-bet, call 3-bet, and 4-bet: 0% means nothing if it is low.
+   */
+  [[nodiscard]] constexpr int getNbFacedThreeBet() const noexcept { return m_nbFacedThreeBet; }
+
+  [[nodiscard]] constexpr double getCallPreFlopRaise() const noexcept { return m_callPreFlopRaise; }
+  [[nodiscard]] constexpr double getSqueeze() const noexcept { return m_squeeze; }
+  [[nodiscard]] constexpr double getFourBet() const noexcept { return m_fourBet; }
   [[nodiscard]] constexpr double getFoldToPreFlopRaise() const noexcept {
     return m_foldToPreFlopRaise;
   }

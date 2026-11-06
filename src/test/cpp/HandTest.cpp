@@ -41,6 +41,29 @@ static std::string utf16To8(std::wstring_view utf16String) {
 
 BOOST_AUTO_TEST_SUITE(HandTest)
 
+BOOST_AUTO_TEST_CASE(HandTest_escapeAndGoFastHandsShouldBeFastFold) {
+  for (const auto* name : {"Winamax/preflopStatsOtherGames/history/"
+                           "20260104_Fastville_real_holdem_no-limit.txt",
+                           "Winamax/simpleCGHisto/history/"
+                           "20150309_Colorado 1_real_holdem_no-limit.txt"}) {
+    const auto pSite = WinamaxGameHistory::parseGameHistory(pt::getFileFromTestResources(name));
+    BOOST_REQUIRE(nullptr != pSite);
+    BOOST_REQUIRE(1 == pSite->viewCashGames().size());
+    const auto hands = pSite->viewCashGames().front()->viewHands();
+    BOOST_REQUIRE(!hands.empty());
+    BOOST_REQUIRE(GameType::fastFold == hands.front()->getGameType());
+  }
+}
+
+BOOST_AUTO_TEST_CASE(HandTest_classicCashGameHandShouldBeCashGame) {
+  const auto pSite = WinamaxGameHistory::parseGameHistory(pt::getFileFromTestResources(
+      "Winamax/preflopStats/history/20260101_Testville_real_holdem_no-limit.txt"));
+  BOOST_REQUIRE(nullptr != pSite);
+  BOOST_REQUIRE(1 == pSite->viewCashGames().size());
+  BOOST_REQUIRE(GameType::cashGame ==
+                pSite->viewCashGames().front()->viewHands().front()->getGameType());
+}
+
 BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   const auto& file {pt::getFileFromTestResources(
       "Winamax/hands/20150718_holdemTournament(123703551)_real_holdem_no-limit.txt")};
