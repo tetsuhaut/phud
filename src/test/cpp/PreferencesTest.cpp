@@ -1,4 +1,6 @@
 #include "TestInfrastructure.hpp"
+#include "gui/HudElement.hpp"
+#include "gui/HudLayout.hpp"
 #include "gui/Preferences.hpp"
 
 BOOST_AUTO_TEST_SUITE(PreferencesTest)
@@ -58,6 +60,33 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_historyDirectory) {
   // Test du label par défaut
   const auto label = prefs.getHistoryDirectoryDisplayLabel();
   BOOST_CHECK(!label.empty());
+}
+
+BOOST_AUTO_TEST_CASE(PreferencesTest_longStringShouldNotBeTruncated) {
+  const Preferences prefs(IN_MEMORY);
+  const std::string longValue(5000, 'x');
+  prefs.saveStringPreference("long_key", longValue);
+  BOOST_CHECK_EQUAL(prefs.getStringPreference("long_key"), longValue);
+}
+
+BOOST_AUTO_TEST_CASE(PreferencesTest_hudLayoutShouldBeTheDefaultOneIfNeverSaved) {
+  const Preferences prefs(IN_MEMORY);
+  BOOST_TEST((HudLayout::defaultLayout() == prefs.getHudLayout()));
+}
+
+BOOST_AUTO_TEST_CASE(PreferencesTest_hudLayoutShouldBeSavedAndLoaded) {
+  const Preferences prefs(IN_MEMORY);
+  HudLayout layout;
+  std::ranges::for_each(getHudElements(),
+                        [&layout](const HudElement& e) { BOOST_REQUIRE(layout.addElement(e)); });
+  prefs.saveHudLayout(layout);
+  BOOST_TEST((layout == prefs.getHudLayout()));
+}
+
+BOOST_AUTO_TEST_CASE(PreferencesTest_emptyHudLayoutShouldNotBecomeTheDefaultOne) {
+  const Preferences prefs(IN_MEMORY);
+  prefs.saveHudLayout(HudLayout {});
+  BOOST_TEST(prefs.getHudLayout().getItems().empty());
 }
 
 BOOST_AUTO_TEST_SUITE_END()

@@ -28,6 +28,14 @@ private:
     return pOldHead;
   }
 
+  /**
+   * The caller must own m_pHeadMutex. m_pTailMutex is released when this function returns.
+   */
+  [[nodiscard]] bool hasValueToPop() {
+    const std::lock_guard<std::mutex> tailLock(m_pTailMutex);
+    return m_pHead.get() != m_pTail;
+  }
+
 public:
   ThreadSafeQueue()
     : m_pHead {std::make_unique<Node>()},
@@ -60,13 +68,7 @@ public:
     std::unique_lock<std::mutex> headLock(m_pHeadMutex);
 
     // Use simple while loop to avoid complex lock ordering in predicate
-    while (true) {
-      {
-        std::lock_guard<std::mutex> tailLock(m_pTailMutex);
-        if (m_pHead.get() != m_pTail) {
-          break; // Data available
-        }
-      }
+    while (!hasValueToPop()) {
       m_condition.wait(headLock);
     }
 
@@ -88,6 +90,11 @@ public:
       Node* const newTail = pNode.get();
       m_pTail->next = std::move(pNode);
       m_pTail = newTail;
+    }
+    {
+      // waitPop() owns m_pHeadMutex from its check until it sleeps: waiting for this mutex
+      // guarantees that it is either sleeping and notified, or that it will see the new value
+      const std::lock_guard<std::mutex> m_pHeadLock(m_pHeadMutex);
     }
     m_condition.notify_one();
   }

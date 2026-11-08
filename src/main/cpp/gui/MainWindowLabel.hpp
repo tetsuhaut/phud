@@ -12,6 +12,7 @@ namespace MainWindow::Label {
   constexpr std::string_view chooseHistoDir {"Choose History Directory"};
   constexpr std::string_view chooseHistoDirText {"Choose a directory containing history files"};
   constexpr std::string_view stopHud {"Stop HUD"};
+  constexpr std::string_view customizeHudMenu {"&HUD/&Customize..."};
   constexpr std::string_view invalidChoice {
       "The chosen entry is not a valid Winamax history directory"};
   constexpr std::string_view chooseHistoryDirectory {"Choose the hand history directory"};

@@ -98,10 +98,9 @@ namespace {
 
       // Use std::span to create a view of the current batch
       const auto batch = std::span(files).subspan(batchStart, currentBatchSize);
-      for (const auto& file : batch) {
-        if (stop) {
-          break;
-        }
+      const auto whileNotStopped = [&stop](const auto&) { return !stop; };
+
+      for (const auto& file : batch | std::views::take_while(whileNotStopped)) {
         batchTasks.push_back(ThreadPool::submit([file, onProgress, aStop = std::ref(stop),
                                                  &sharedCache]() {
           Site* pSite = nullptr;

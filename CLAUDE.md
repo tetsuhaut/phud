@@ -107,6 +107,7 @@ static_check.bat
 - **Always use braces**: All control structures (`if`, `else`, `for`, `while`, etc.) must use braces, even for single-line statements
   - Example: `if (condition) { doSomething(); }` instead of `if (condition) doSomething();`
   - This prevents errors when adding additional statements later
+- no continue or break in loops
 
 ### Testing
 - Unit tests use Boost.Test framework

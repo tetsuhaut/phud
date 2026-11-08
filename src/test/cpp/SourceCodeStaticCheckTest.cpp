@@ -434,13 +434,12 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noIncludePathShouldHaveAntiSlashPathS
     auto tfl = TextFile(file);
 
     while (tfl.next()) {
-      if (!tfl.trim().startsWith("#include ")) {
-        continue;
-      }
-
-      if (const auto includePath = extractInclude(tfl.getLine()); ps::contains(includePath, '\\')) {
-        LOG().warn<"The file {} contains an include path '{}' with anti slashes.">(file.string(),
-                                                                                   includePath);
+      if (tfl.trim().startsWith("#include ")) {
+        if (const auto includePath = extractInclude(tfl.getLine());
+            ps::contains(includePath, '\\')) {
+          LOG().warn<"The file {} contains an include path '{}' with anti slashes.">(file.string(),
+                                                                                     includePath);
+        }
       }
     }
   });

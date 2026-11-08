@@ -4,6 +4,7 @@
 
 #include <condition_variable>
 #include <mutex>
+#include <tuple> // std::ignore
 
 static Logger& LOG() {
   static auto logger = Logger(CURRENT_FILE_NAME);
@@ -71,12 +72,9 @@ void PeriodicTask::start(const std::function<PeriodicTaskStatus()>& task) const 
       auto lock = std::unique_lock<std::mutex>(m_pImpl->m_mutex);
       const auto timeout = std::chrono::steady_clock::now() + m_pImpl->m_period;
 
-      // listen to spurious wakes
-      while (!m_pImpl->m_stop) {
-        if (std::cv_status::timeout == m_pImpl->m_cv.wait_until(lock, timeout)) {
-          break;
-        }
-      }
+      // the predicate handles the spurious wakes. The result is useless as m_stop is read below
+      std::ignore = m_pImpl->m_cv.wait_until(lock, timeout,
+                                             [this]() noexcept { return m_pImpl->m_stop.load(); });
     } while (!m_pImpl->m_stop and PeriodicTaskStatus::repeatTask == task());
 
     m_pImpl->m_taskIsStopped = true;

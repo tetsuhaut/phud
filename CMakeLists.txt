@@ -375,6 +375,12 @@ if(MSVC)
     target_link_libraries(unitTests PRIVATE Rpcrt4)
 endif()
 
+# DwmSetWindowAttribute, used to color the title bars
+if(WIN32)
+    target_link_libraries(mainLib PRIVATE dwmapi)
+    target_link_libraries(unitTests PRIVATE dwmapi)
+endif()
+
 ################################################################################
 # will use the spdlog library, so configure the project for it
 # needs to have Spdlog_DIR as an environment variable pointing to the dir where

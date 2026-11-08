@@ -10,14 +10,8 @@ class Hand;
  * What a player did during one hand. Computed once when the hand is saved, so that reading the
  * statistics of a player is a simple sum over its hands.
  * The 'faced' and 'could' fields are the opportunities: the denominators of the statistics.
+ * statistic = nb of action done / nb of action opportunities
  */
-//+---------------------------------------------------------------------------------------------------------------------------------------+
-//¦       Type        ¦     Rôle      ¦                                             Exemples                                              ¦
-//+-------------------+---------------+---------------------------------------------------------------------------------------------------¦
-//¦ Actions réalisées ¦ Numérateurs   ¦ vpip, pfr, limp, threeBet, squeeze, fourBet, foldToRaise, callRaise, foldToThreeBet, callThreeBet ¦
-//+-------------------+---------------+---------------------------------------------------------------------------------------------------¦
-//¦ Occasions d'agir  ¦ Dénominateurs ¦ facedRaise, couldSqueeze, facedThreeBet                                                           ¦
-//+---------------------------------------------------------------------------------------------------------------------------------------+
 struct [[nodiscard]] HandPlayerStats final {
   std::string playerName;
   bool vpip {false};

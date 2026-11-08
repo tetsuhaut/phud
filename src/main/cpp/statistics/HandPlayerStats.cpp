@@ -3,6 +3,7 @@
 #include "statistics/HandPlayerStats.hpp"
 #include <algorithm> // std::ranges::find_if, std::ranges::transform
 #include <iterator>  // std::back_inserter
+#include <ranges>    // std::views::filter
 
 namespace {
   /**
@@ -83,19 +84,19 @@ namespace {
       table.nbRaises++;
     }
   }
+
+  [[nodiscard]] bool isPreflopDecision(const Action* pAction) {
+    return Street::preflop == pAction->getStreet() and ActionType::win != pAction->getType();
+  }
 } // anonymous namespace
 
 std::vector<HandPlayerStats> computeHandPlayerStats(const Hand& hand) {
   auto players = newPlayerProgresses(hand);
   TableProgress table;
+  const auto actions = hand.viewActions();
 
-  for (const auto* pAction : hand.viewActions()) {
+  for (const auto* pAction : actions | std::views::filter(isPreflopDecision)) {
     const auto type = pAction->getType();
-
-    if (Street::preflop != pAction->getStreet() or ActionType::win == type) {
-      continue;
-    }
-
     const auto it = std::ranges::find_if(players, [pAction](const auto& p) {
       return pAction->getPlayerName() == p.stats.playerName;
     });

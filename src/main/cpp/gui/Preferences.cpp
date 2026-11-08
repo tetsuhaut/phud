@@ -1,9 +1,12 @@
 #include "filesystem/FileUtils.hpp"
+#include "gui/HudLayout.hpp"
 #include "gui/MainWindowAppearance.hpp"
 #include "gui/MainWindowLabel.hpp"
 #include "gui/Preferences.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "constants/ProgramInfos.hpp"
+#include <cstdlib> // std::free
+#include <gsl/gsl> // gsl::finally
 
 #include <FL/Fl.H>
 #include <FL/Fl_Preferences.H>
@@ -18,7 +21,7 @@ namespace pf = phud::filesystem;
 
 namespace {
   constexpr std::string_view CHOSEN_DIR {"preferencesKeyChosenDir"};
-  constexpr auto MAX_PATH_LENGTH {260};
+  constexpr std::string_view HUD_LAYOUT {"preferencesKeyHudLayout"};
 } // anonymous namespace
 
 struct [[nodiscard]] Preferences::Implementation final {
@@ -88,6 +91,14 @@ void Preferences::saveWindowSize(int width, int height) const {
   saveIntPreference(MainWindow::Label::height, height);
 }
 
+HudLayout Preferences::getHudLayout() const {
+  return HudLayout::parse(getStringPreference(HUD_LAYOUT, HudLayout::defaultLayout().serialize()));
+}
+
+void Preferences::saveHudLayout(const HudLayout& layout) const {
+  saveStringPreference(HUD_LAYOUT, layout.serialize());
+}
+
 void Preferences::saveStringPreference(std::string_view key, std::string_view value) const {
   if (0 == m_pImpl->m_preferences.set(key.data(), value.data())) {
     LOG().error<"Couldn't save '{}' into the preferences repository.">(key);
@@ -102,10 +113,10 @@ void Preferences::saveIntPreference(std::string_view key, int value) const {
 
 std::string Preferences::getStringPreference(std::string_view key,
                                              std::string_view defaultValue) const {
-  char buffer[MAX_PATH_LENGTH + 1] {};
-  m_pImpl->m_preferences.get(key.data(), buffer, defaultValue.data(), MAX_PATH_LENGTH);
-  buffer[MAX_PATH_LENGTH] = '\0';
-  return buffer;
+  char* pBuffer {nullptr};
+  const auto _ {gsl::finally([&pBuffer] { std::free(pBuffer); })};
+  m_pImpl->m_preferences.get(key.data(), pBuffer, std::string(defaultValue).c_str());
+  return (nullptr == pBuffer) ? "" : pBuffer;
 }
 
 int Preferences::getIntPreference(std::string_view key, int defaultValue) const {

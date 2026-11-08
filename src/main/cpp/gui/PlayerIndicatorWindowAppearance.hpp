@@ -1,11 +1,12 @@
 #pragma once
 
 /*
- * Position of the graphical elements on the player indicator window
+ * A player indicator window is a grid of cells, in which the user places what is displayed.
+ * Default layout (see HudLayout):
  */
 // +------------------------> X
 // | ---------------------|
-// | Nb hands|VPIP/PFR/AF |
+// | Nb hands|VPIP|PFR|AF |
 // |----------------------|
 // |     player name      |
 // +----------------------+
@@ -14,9 +15,9 @@
 // Y
 
 namespace PlayerIndicatorWindow::surface {
-  constexpr auto width {100};
-  constexpr auto statsHeight {12};
-  constexpr auto playerNameHeight {12};
-  constexpr auto height {1 + statsHeight + 1 + playerNameHeight + 1};
-  // constexpr int
+  constexpr auto cellWidth {22};
+  constexpr auto cellHeight {14};
+  constexpr auto nbColumns {10};
+  constexpr auto nbRows {6};
+  constexpr auto fontSize {12};
 } // namespace PlayerIndicatorWindow::surface

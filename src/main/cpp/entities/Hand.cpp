@@ -4,6 +4,7 @@
 #include "strings/StringUtils.hpp" // phud::strings::*
 #include <algorithm>               // std::ranges::find_if, std::ranges::any_of
 #include <ranges>                  // std::views
+#include <span>
 #include <vector>
 
 namespace ps = phud::strings;
@@ -32,7 +33,7 @@ Hand::Hand(Params& p)
   for (const auto& pAction : m_actions) {
     if (ActionType::win == pAction->getType()) {
       const auto& winnerName = pAction->getPlayerName();
-      const auto knownWinners = m_winners | std::views::take(nbWinners);
+      const auto knownWinners = std::span(m_winners).first(nbWinners);
       const auto isAlreadyKnown = std::ranges::any_of(
           knownWinners, [&winnerName](const auto& known) { return winnerName == known; });
 

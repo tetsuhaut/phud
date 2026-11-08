@@ -3,6 +3,7 @@
 #include "filesystem/FileUtils.hpp"
 #include "gui/Gui.hpp" // std::unique_ptr, std::make_unique
 #include "gui/HistoryService.hpp"
+#include "gui/HudEditor.hpp"
 #include "gui/MainWindowAppearance.hpp" // Surface::
 #include "gui/MainWindowColor.hpp"      // Color::
 #include "gui/MainWindowLabel.hpp"      // Label::
@@ -11,13 +12,14 @@
 #include "gui/Preferences.hpp"
 #include "gui/TableService.hpp"
 #include "gui/TableWatcher.hpp"
+#include "gui/TitleBar.hpp"
 #include "gui/WindowUtils.hpp" // mswindows::
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp"
-#include <gsl/gsl> // gsl::finally
+#include <gsl/gsl> // 
 
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
@@ -87,6 +89,8 @@ struct [[nodiscard]] Gui::Implementation final {
   Fl_Tabs* m_tabs {nullptr};
   MyMainWindow* m_mainWindow {nullptr};
   std::unique_ptr<Preferences> m_preferences {std::make_unique<Preferences>()};
+  HudLayout m_hudLayout {m_preferences->getHudLayout()};
+  std::unique_ptr<HudEditor> m_hudEditor {nullptr}; // built when the user opens it
   Fl_Button* m_chooseHistoDirBtn {nullptr};
   Fl_Button* m_stopHudBtn {nullptr};
   Fl_Box* m_histoDirTextField {nullptr};
@@ -264,9 +268,39 @@ namespace {
     return widget;
   }
 
+  void onHudLayoutValidated(Gui::Implementation& impl, const HudLayout& layout) {
+    LOG().debug<__func__>();
+    impl.m_hudLayout = layout;
+    impl.m_preferences->saveHudLayout(layout);
+
+    for (const auto& indicators : impl.m_playerIndicators | std::views::values) {
+      for (const auto& pIndicator : indicators) {
+        if (nullptr != pIndicator) {
+          pIndicator->setLayout(layout);
+        }
+      }
+    }
+  }
+
+  /**
+   * Called by the GUI (menu bar) when the user wants to customize the HUD.
+   */
+  void customizeHudCb(Fl_Widget*, void* hidden) {
+    LOG().debug<__func__>();
+    auto& impl = *static_cast<Gui::Implementation*>(hidden);
+
+    if (nullptr == impl.m_hudEditor) {
+      impl.m_hudEditor = std::make_unique<HudEditor>(
+          [&impl](const HudLayout& layout) { onHudLayoutValidated(impl, layout); });
+    }
+
+    impl.m_hudEditor->open(impl.m_hudLayout);
+  }
+
   [[nodiscard]] gsl::not_null<Fl_Menu_Bar*> buildMenuBar(Gui::Implementation* impl) {
     return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [impl](Fl_Menu_Bar* menu) {
       menu->add("&File/E&xit", 0, exitCb, impl);
+      menu->add(MainWindow::Label::customizeHudMenu.data(), 0, customizeHudCb, impl);
       menu->box(FL_NO_BOX);
     });
   }
@@ -304,7 +338,7 @@ namespace {
 
   void updateTablePlayerIndicators(TablePlayerIndicators& playerIndicators,
                                    const phud::Rectangle& tablePosition,
-                                   TableStatistics tableStatistics) {
+                                   TableStatistics tableStatistics, const HudLayout& layout) {
     const auto oHeroSeat = tableStatistics.getHeroSeat();
 
     if (!oHeroSeat.has_value()) {
@@ -331,18 +365,14 @@ namespace {
 
         if (nullptr == playerIndicator) {
           LOG().debug<"Creating new PlayerIndicator for '{}'">(ps->getPlayerName());
-          playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName());
+          playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName(), layout);
         } else {
-          if (ps->getPlayerName() != playerIndicator->getPlayerName()) {
-            LOG().debug<"Refreshing PlayerIndicator for '{}'">(ps->getPlayerName());
-            playerIndicator->refresh(ps->getPlayerName());
-          }
           playerIndicator->updateBasePosition(pos);
         }
-        playerIndicator->setStats(*ps);
+        playerIndicator->setStats(std::move(ps));
         mswindows::setWindowOnTopMost(fl_xid(&*playerIndicator));
         playerIndicator->show();
-        LOG().debug<"PlayerIndicator shown for '{}'">(ps->getPlayerName());
+        LOG().debug<"PlayerIndicator shown for '{}'">(playerIndicator->getPlayerName());
       } else {
         LOG().debug<"No player statistics for seat {}, clearing indicator">(seatStr);
         // clear player indicators
@@ -374,11 +404,12 @@ namespace {
 
   TableService::TableObserverCallback
   buildTableObserver(TableWindowTitleToTablePlayerIndicators& playerIndicators,
-                     std::string_view tableWindowTitle) {
-    return [&playerIndicators, title = std::string(tableWindowTitle)](TableStatistics&& ts) {
+                     std::string_view tableWindowTitle, const HudLayout& layout) {
+    return [&playerIndicators, &layout,
+            title = std::string(tableWindowTitle)](TableStatistics&& ts) {
       LOG().debug<"Observer called for table '{}'">(ts.getTable());
       LOG().debug<"About to schedule UI task for table '{}'">(ts.getTable());
-      scheduleUITask([&playerIndicators, title, stats = std::move(ts)]() mutable {
+      scheduleUITask([&playerIndicators, &layout, title, stats = std::move(ts)]() mutable {
         LOG().debug<"Scheduled UI task executing for table window '{}'">(title);
 
         if (const auto tableRect = mswindows::getTableWindowRectangle(title)) {
@@ -386,7 +417,8 @@ namespace {
           // Update PlayerIndicators with real statistics
           if (playerIndicators.contains(title)) {
             LOG().debug<"Updating player indicators for table window '{}'">(title);
-            updateTablePlayerIndicators(playerIndicators[title], *tableRect, std::move(stats));
+            updateTablePlayerIndicators(playerIndicators[title], *tableRect, std::move(stats),
+                                        layout);
           } else {
             LOG().warn<"Player indicators not found for table '{}'">(title);
           }
@@ -399,7 +431,7 @@ namespace {
 
   void updateUsefulPlayerIndicators(TableWindowTitleToTablePlayerIndicators& playerIndicators,
                                     const std::span<const std::string> tableWindowTitles,
-                                    TableService& tableService) {
+                                    TableService& tableService, const HudLayout& layout) {
     LOG().info<"Create/Update table indicators for {} table(s)">(tableWindowTitles.size());
     const auto& tableTitleNotYetMonitored {
         tableWindowTitles | std::views::filter([&playerIndicators](const auto& title) {
@@ -408,10 +440,10 @@ namespace {
         std::ranges::to<std::vector<std::string>>()};
     // Create entry if it doesn't exist
     std::ranges::for_each(
-        tableTitleNotYetMonitored, [&playerIndicators, &tableService](const auto& title) {
+        tableTitleNotYetMonitored, [&playerIndicators, &tableService, &layout](const auto& title) {
           playerIndicators[title] = TablePlayerIndicators {};
           // Start monitoring this table for statistics
-          const auto observerCb = buildTableObserver(playerIndicators, title);
+          const auto observerCb = buildTableObserver(playerIndicators, title, layout);
           if (const auto errorMsg = tableService.startProducingStats(title, observerCb);
               !errorMsg.empty()) {
             LOG().error<"Failed to start monitoring table window '{}': {}">(title, errorMsg);
@@ -605,17 +637,17 @@ namespace {
   [[nodiscard]] std::unique_ptr<TableWatcher>
   buildTableWatcher(Fl_Box* pWatchedTableLabel,
                     TableWindowTitleToTablePlayerIndicators& playerIndicators,
-                    TableService& tableService) {
+                    TableService& tableService, const HudLayout& layout) {
     const TableWatcher::TableWindowsDetectedCallback onTableWindowsDetectedCb =
-        [pWatchedTableLabel, &playerIndicators,
-         &tableService](std::span<const std::string> tableWindowTitles) {
-          scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService,
+        [pWatchedTableLabel, &playerIndicators, &tableService,
+         &layout](std::span<const std::string> tableWindowTitles) {
+          scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, &layout,
                           twt = toVector(tableWindowTitles)]() {
             // Update label and player indicators
             const auto label = getWatchedTableLabel(twt);
             pWatchedTableLabel->copy_label(label.c_str());
             removeUselessPlayerIndicators(playerIndicators, twt, tableService);
-            updateUsefulPlayerIndicators(playerIndicators, twt, tableService);
+            updateUsefulPlayerIndicators(playerIndicators, twt, tableService, layout);
           });
         };
 
@@ -657,8 +689,9 @@ Gui::Gui(TableService& tableService, HistoryService& historyService)
   m_pImpl->m_stopHudBtn = buildStopHudBtn(*m_pImpl);
   m_pImpl->m_infoBar = buildInfoBar();
   // Create and start table watcher
-  m_pImpl->m_tableWatcher = buildTableWatcher(m_pImpl->m_watchedTablesLabel,
-                                              m_pImpl->m_playerIndicators, m_pImpl->m_tableService);
+  m_pImpl->m_tableWatcher =
+      buildTableWatcher(m_pImpl->m_watchedTablesLabel, m_pImpl->m_playerIndicators,
+                        m_pImpl->m_tableService, m_pImpl->m_hudLayout);
   m_pImpl->m_tableWatcher->start();
   m_pImpl->m_mainWindow->end();
 }
@@ -672,14 +705,15 @@ Gui::~Gui() = default;
 int Gui::run() {
   LOG().debug<__func__>();
   m_pImpl->m_mainWindow->show(); // display the main window
-  Fl::lock();                    // enable multi-thread support
+  // the title bar exists only once the window is shown
+  matchTitleBarToBackground(*m_pImpl->m_mainWindow);
+  Fl::lock(); // enable multi-thread support
   return Fl::run();              // listen to awake() calls
 }
 
 // BUG : le stop HUD les cache mais ils réapparaissent
 // BUG : filtrer plus la validation du répertoire de l'historique
 // TODO : fonctionnalité de suppression des préférences utilisateurs
-// TODO : sauvegarde des types de stat selectionnees
 // TODO : remplacer le choix du répertoire d'historique à charger par un menu listant tous les
 // répertoires connus
 // TODO : remplacer les periodic task des StatProducer/StatReader par une requête exécutée si le

@@ -6,6 +6,9 @@
 #include <string_view>
 #include <utility> // std::pair
 
+// forward declaration
+class HudLayout;
+
 /**
  * @brief The application preferences
  */
@@ -31,6 +34,10 @@ public:
   [[nodiscard]] std::pair<int, int> getMainWindowPosition() const;
   void saveWindowPosition(int x, int y) const;
   void saveWindowSize(int width, int height) const;
+
+  // What the player indicators display: the default layout if the user customized nothing
+  [[nodiscard]] HudLayout getHudLayout() const;
+  void saveHudLayout(const HudLayout& layout) const;
 
   // Generic preference operations
   void saveStringPreference(std::string_view key, std::string_view value) const;
