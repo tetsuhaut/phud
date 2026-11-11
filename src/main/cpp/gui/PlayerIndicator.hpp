@@ -1,9 +1,10 @@
 #pragma once
 
 #include "gui/DragAndDropWindow.hpp"
-#include "gui/HudLayout.hpp" // std::string, std::string_view, std::pair, std::vector
+#include "gui/HudLayout.hpp" // std::string, std::string_view, std::vector
 
-#include <memory> // std::unique_ptr
+#include <memory>  // std::unique_ptr
+#include <utility> // std::pair
 
 // forward declarations
 class Fl_Box;

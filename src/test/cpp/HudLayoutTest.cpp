@@ -23,10 +23,17 @@ BOOST_AUTO_TEST_CASE(HudLayoutTest_defaultLayoutShouldDisplayNameHandsAndMainSta
   BOOST_TEST(layout.contains(get("af")));
 }
 
+BOOST_AUTO_TEST_CASE(HudLayoutTest_savedFormatShouldBeIdColumnRow) {
+  const auto layout = HudLayout::parse("vpip:3:1");
+  BOOST_REQUIRE(1 == layout.getItems().size());
+  BOOST_TEST((CellPosition {.row = 1, .column = 3} == layout.getItems().front().position));
+  BOOST_TEST("vpip:3:1" == layout.serialize());
+}
+
 BOOST_AUTO_TEST_CASE(HudLayoutTest_serializeThenParseShouldGiveTheSameLayout) {
   auto layout = HudLayout::defaultLayout();
   BOOST_REQUIRE(layout.addElement(get("threeBet")));
-  BOOST_REQUIRE(layout.moveElement(get("threeBet"), 7, 4));
+  BOOST_REQUIRE(layout.moveElement(get("threeBet"), {.row = 4, .column = 7}));
   BOOST_TEST((layout == HudLayout::parse(layout.serialize())));
 }
 
@@ -52,7 +59,7 @@ BOOST_AUTO_TEST_CASE(HudLayoutTest_parseShouldIgnoreWhatItCantRead) {
 BOOST_AUTO_TEST_CASE(HudLayoutTest_parseShouldIgnoreDuplicates) {
   const auto layout = HudLayout::parse("vpip:0:0;vpip:3:3");
   BOOST_REQUIRE(1 == layout.getItems().size());
-  BOOST_TEST(0 == layout.getItems().front().column);
+  BOOST_TEST((CellPosition {.row = 0, .column = 0} == layout.getItems().front().position));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_addShouldUseTheFirstFreePlace) {
@@ -61,8 +68,8 @@ BOOST_AUTO_TEST_CASE(HudLayoutTest_addShouldUseTheFirstFreePlace) {
   BOOST_REQUIRE(layout.addElement(get("vpip")));
   const auto* const pItem = layout.find(get("vpip"));
   BOOST_REQUIRE(nullptr != pItem);
-  BOOST_TEST(get("playerName").widthInCells == pItem->column);
-  BOOST_TEST(0 == pItem->row);
+  BOOST_TEST((CellPosition {.row = 0, .column = get("playerName").widthInCells} ==
+              pItem->position));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_addingTwiceShouldBeRefused) {
@@ -75,54 +82,57 @@ BOOST_AUTO_TEST_CASE(HudLayoutTest_addingTwiceShouldBeRefused) {
 BOOST_AUTO_TEST_CASE(HudLayoutTest_moveShouldBeRefusedOverAnotherElement) {
   auto layout = HudLayout::parse("playerName:0:0;vpip:6:0");
   // the name covers the columns from 0 to 4
-  BOOST_TEST(!layout.moveElement(get("vpip"), 4, 0));
-  BOOST_TEST(6 == layout.find(get("vpip"))->column);
-  BOOST_TEST(layout.moveElement(get("vpip"), 5, 0));
-  BOOST_TEST(5 == layout.find(get("vpip"))->column);
+  BOOST_TEST(!layout.moveElement(get("vpip"), {.row = 0, .column = 4}));
+  BOOST_TEST(6 == layout.find(get("vpip"))->position.column);
+  BOOST_TEST(layout.moveElement(get("vpip"), {.row = 0, .column = 5}));
+  BOOST_TEST(5 == layout.find(get("vpip"))->position.column);
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_wideElementShouldNotOverlapByItsRightSide) {
   auto layout = HudLayout::parse("vpip:4:0;playerName:0:1");
-  BOOST_TEST(!layout.moveElement(get("playerName"), 0, 0));
-  BOOST_TEST(layout.moveElement(get("playerName"), 5, 0));
+  BOOST_TEST(!layout.moveElement(get("playerName"), {.row = 0, .column = 0}));
+  BOOST_TEST(layout.moveElement(get("playerName"), {.row = 0, .column = 5}));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_moveShouldBeAllowedOverItself) {
   auto layout = HudLayout::parse("playerName:0:0");
-  BOOST_TEST(layout.moveElement(get("playerName"), 2, 0));
+  BOOST_TEST(layout.moveElement(get("playerName"), {.row = 0, .column = 2}));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_moveShouldBeRefusedOutOfTheGrid) {
   auto layout = HudLayout::parse("playerName:0:0");
-  BOOST_TEST(!layout.moveElement(get("playerName"), -1, 0));
-  BOOST_TEST(!layout.moveElement(get("playerName"), 0, -1));
-  BOOST_TEST(!layout.moveElement(get("playerName"), 0, piws::nbRows));
-  BOOST_TEST(!layout.moveElement(get("playerName"), piws::nbColumns - 4, 0));
-  BOOST_TEST(layout.moveElement(get("playerName"), piws::nbColumns - 5, piws::nbRows - 1));
+  const auto& name = get("playerName");
+  BOOST_TEST(!layout.moveElement(name, {.row = 0, .column = -1}));
+  BOOST_TEST(!layout.moveElement(name, {.row = -1, .column = 0}));
+  BOOST_TEST(!layout.moveElement(name, {.row = piws::nbRows, .column = 0}));
+  BOOST_TEST(!layout.moveElement(name, {.row = 0, .column = piws::nbColumns - 4}));
+  BOOST_TEST(layout.moveElement(name, {.row = piws::nbRows - 1, .column = piws::nbColumns - 5}));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_moveShouldBeRefusedForAnElementNotDisplayed) {
   HudLayout layout;
-  BOOST_TEST(!layout.moveElement(get("vpip"), 0, 0));
+  BOOST_TEST(!layout.moveElement(get("vpip"), {.row = 0, .column = 0}));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_elementAtShouldFindEveryCellOfAnElement) {
+  // two cells wide, at row 2, columns 3 and 4
   const auto layout = HudLayout::parse("nbHands:3:2");
-  BOOST_TEST(nullptr == layout.elementAt(2, 2));
-  BOOST_TEST(&get("nbHands") == layout.elementAt(3, 2));
-  BOOST_TEST(&get("nbHands") == layout.elementAt(4, 2));
-  BOOST_TEST(nullptr == layout.elementAt(5, 2));
-  BOOST_TEST(nullptr == layout.elementAt(3, 3));
+  BOOST_TEST(nullptr == layout.elementAt({.row = 2, .column = 2}));
+  BOOST_TEST(&get("nbHands") == layout.elementAt({.row = 2, .column = 3}));
+  BOOST_TEST(&get("nbHands") == layout.elementAt({.row = 2, .column = 4}));
+  BOOST_TEST(nullptr == layout.elementAt({.row = 2, .column = 5}));
+  BOOST_TEST(nullptr == layout.elementAt({.row = 3, .column = 3}));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_removeShouldFreeThePlace) {
   auto layout = HudLayout::parse("vpip:0:0");
   layout.removeElement(get("vpip"));
   BOOST_TEST(layout.getItems().empty());
-  BOOST_TEST(nullptr == layout.elementAt(0, 0));
+  BOOST_TEST(nullptr == layout.elementAt({.row = 0, .column = 0}));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_sizeShouldBeTheBottomRightCorner) {
+  // five cells wide, at row 3, columns 2 to 6
   const auto layout = HudLayout::parse("playerName:2:3");
   BOOST_TEST(7 * piws::cellWidth == layout.getWidth());
   BOOST_TEST(4 * piws::cellHeight == layout.getHeight());

@@ -4,20 +4,30 @@
 #include <span>
 #include <string>
 #include <string_view>
-#include <utility> // std::pair
 #include <vector>
 
 // forward declaration
 struct HudElement;
 
 /**
+ * A cell of the grid of a PlayerIndicator. Row 0 is at the top, column 0 is on the left.
+ * Use designated initializers, so that the row and the column can't be swapped:
+ * CellPosition {.row = 1, .column = 3}
+ */
+struct [[nodiscard]] CellPosition final {
+  int row;
+  int column;
+
+  [[nodiscard]] bool operator==(const CellPosition&) const noexcept = default;
+};
+
+/**
  * A HudElement at a given place of the grid of cells of a PlayerIndicator. It is one row high, and
- * starts at the given column.
+ * starts at the column of its position.
  */
 struct [[nodiscard]] HudItem final {
   const HudElement* pElement;
-  int column;
-  int row;
+  CellPosition position;
 
   [[nodiscard]] bool operator==(const HudItem&) const noexcept = default;
 };
@@ -52,7 +62,7 @@ public:
   /**
    * @returns the element covering the given cell, or nullptr if the cell is free.
    */
-  [[nodiscard]] const HudElement* elementAt(int column, int row) const noexcept;
+  [[nodiscard]] const HudElement* elementAt(CellPosition cell) const noexcept;
 
   /**
    * @returns the item of the given element, or nullptr if it is not in the layout.
@@ -60,16 +70,15 @@ public:
   [[nodiscard]] const HudItem* find(const HudElement& element) const noexcept;
 
   /**
-   * @returns true if the element fits in the grid at the given place, without overlapping another
-   * element. The cells it already covers count as free, so it can be moved a little.
+   * @returns true if the element fits in the grid at the given position, without overlapping
+   * another element. The cells it already covers count as free, so it can be moved a little.
    */
-  [[nodiscard]] bool canPlace(const HudElement& element, int column, int row) const noexcept;
+  [[nodiscard]] bool canPlace(const HudElement& element, CellPosition position) const noexcept;
 
   /**
-   * @returns the first {column, row} where the element fits, if any.
+   * @returns the first position where the element fits, searching row by row, if any.
    */
-  [[nodiscard]] std::optional<std::pair<int, int>>
-  findFreePlace(const HudElement& element) const noexcept;
+  [[nodiscard]] std::optional<CellPosition> findFreePlace(const HudElement& element) const noexcept;
 
   /**
    * Adds the element at the first free place.
@@ -80,7 +89,7 @@ public:
   /**
    * @returns false if the element is not there, or if canPlace() is false. Nothing changes then.
    */
-  bool moveElement(const HudElement& element, int column, int row) noexcept;
+  bool moveElement(const HudElement& element, CellPosition position) noexcept;
 
   void removeElement(const HudElement& element);
 

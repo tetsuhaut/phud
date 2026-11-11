@@ -89,9 +89,9 @@ namespace {
   constexpr Fl_Color INVALID_TARGET_COLOR {FL_RED};
 
   [[nodiscard]] constexpr phud::Rectangle toRectangle(int x, int y, const HudElement& element,
-                                                      int column, int row) noexcept {
-    return {.x = x + column * PREVIEW_CELL_WIDTH,
-            .y = y + row * PREVIEW_CELL_HEIGHT,
+                                                      CellPosition position) noexcept {
+    return {.x = x + position.column * PREVIEW_CELL_WIDTH,
+            .y = y + position.row * PREVIEW_CELL_HEIGHT,
             .w = element.widthInCells * PREVIEW_CELL_WIDTH,
             .h = PREVIEW_CELL_HEIGHT};
   }
@@ -106,15 +106,16 @@ namespace {
     const HudElement* m_pSelected {nullptr};
     bool m_isDragging {false};
     int m_grabbedColumn {0}; // where the element has been grabbed, relative to its first column
-    int m_targetColumn {0};
-    int m_targetRow {0};
+    CellPosition m_target {.row = 0, .column = 0};
 
-    [[nodiscard]] int eventColumn() const {
-      return std::clamp((Fl::event_x() - x()) / PREVIEW_CELL_WIDTH, 0, piws::nbColumns - 1);
-    }
-
-    [[nodiscard]] int eventRow() const {
-      return std::clamp((Fl::event_y() - y()) / PREVIEW_CELL_HEIGHT, 0, piws::nbRows - 1);
+    /**
+     * @returns the cell under the mouse.
+     */
+    [[nodiscard]] CellPosition eventCell() const {
+      return {
+          .row = std::clamp((Fl::event_y() - y()) / PREVIEW_CELL_HEIGHT, 0, piws::nbRows - 1),
+          .column =
+              std::clamp((Fl::event_x() - x()) / PREVIEW_CELL_WIDTH, 0, piws::nbColumns - 1)};
     }
 
     void drawGrid() const {
@@ -133,7 +134,7 @@ namespace {
     }
 
     void drawItem(const HudItem& item) const {
-      const auto [ix, iy, iw, ih] = toRectangle(x(), y(), *item.pElement, item.column, item.row);
+      const auto [ix, iy, iw, ih] = toRectangle(x(), y(), *item.pElement, item.position);
       fl_rectf(ix, iy, iw, ih, (item.pElement == m_pSelected) ? SELECTED_ITEM_COLOR : ITEM_COLOR);
       fl_rect(ix, iy, iw, ih, FL_DARK3);
       fl_color(FL_BLACK);
@@ -142,25 +143,22 @@ namespace {
     }
 
     void drawTarget() const {
-      const auto [tx, ty, tw, th] =
-          toRectangle(x(), y(), *m_pSelected, m_targetColumn, m_targetRow);
-      const auto isValid = m_layout.canPlace(*m_pSelected, m_targetColumn, m_targetRow);
+      const auto [tx, ty, tw, th] = toRectangle(x(), y(), *m_pSelected, m_target);
+      const auto isValid = m_layout.canPlace(*m_pSelected, m_target);
       fl_rect(tx, ty, tw, th, isValid ? VALID_TARGET_COLOR : INVALID_TARGET_COLOR);
       fl_rect(tx + 1, ty + 1, tw - 2, th - 2,
               isValid ? VALID_TARGET_COLOR : INVALID_TARGET_COLOR);
     }
 
     void onPush() {
-      const auto column = eventColumn();
-      const auto row = eventRow();
-      m_pSelected = m_layout.elementAt(column, row);
+      const auto cell = eventCell();
+      m_pSelected = m_layout.elementAt(cell);
       m_isDragging = nullptr != m_pSelected;
 
       if (m_isDragging) {
         const auto* const pItem = m_layout.find(*m_pSelected);
-        m_grabbedColumn = column - pItem->column;
-        m_targetColumn = pItem->column;
-        m_targetRow = pItem->row;
+        m_grabbedColumn = cell.column - pItem->position.column;
+        m_target = pItem->position;
       }
 
       redraw();
@@ -168,15 +166,15 @@ namespace {
     }
 
     void onDrag() {
-      m_targetColumn = eventColumn() - m_grabbedColumn;
-      m_targetRow = eventRow();
+      const auto cell = eventCell();
+      m_target = {.row = cell.row, .column = cell.column - m_grabbedColumn};
       redraw();
     }
 
     void onRelease() {
       m_isDragging = false;
       // a refused move leaves the element at its previous place
-      m_layout.moveElement(*m_pSelected, m_targetColumn, m_targetRow);
+      m_layout.moveElement(*m_pSelected, m_target);
       redraw();
       do_callback();
     }

@@ -19,7 +19,7 @@
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp"
-#include <gsl/gsl> // 
+#include <gsl/gsl> // gsl::finally
 
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK

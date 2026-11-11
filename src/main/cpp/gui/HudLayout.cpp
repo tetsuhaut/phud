@@ -1,5 +1,5 @@
 #include "gui/HudElement.hpp"
-#include "gui/HudLayout.hpp" // std::optional, std::span, std::string, std::vector
+#include "gui/HudLayout.hpp" // CellPosition, std::optional, std::span, std::string, std::vector
 #include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface
 #include <algorithm>                               // std::ranges::*
 #include <charconv>                                // std::from_chars
@@ -11,18 +11,23 @@ namespace piws = PlayerIndicatorWindow::surface;
 namespace {
   constexpr char ITEM_SEPARATOR {';'};
   constexpr char FIELD_SEPARATOR {':'};
+  // the saved format is 'id:column:row', kept as is to read the preferences already saved
   constexpr std::string_view DEFAULT_LAYOUT {
       "nbHands:0:0;vpip:2:0;pfr:3:0;af:4:0;playerName:0:1"};
 
-  [[nodiscard]] bool covers(const HudItem& item, int column, int row) noexcept {
-    return row == item.row and item.column <= column and
-           column < item.column + item.pElement->widthInCells;
+  [[nodiscard]] int endColumn(const HudItem& item) noexcept {
+    return item.position.column + item.pElement->widthInCells;
   }
 
-  [[nodiscard]] bool overlaps(const HudItem& item, const HudElement& element, int column,
-                              int row) noexcept {
-    return row == item.row and column < item.column + item.pElement->widthInCells and
-           item.column < column + element.widthInCells;
+  [[nodiscard]] bool covers(const HudItem& item, CellPosition cell) noexcept {
+    return cell.row == item.position.row and item.position.column <= cell.column and
+           cell.column < endColumn(item);
+  }
+
+  [[nodiscard]] bool overlaps(const HudItem& item, const HudElement& element,
+                              CellPosition position) noexcept {
+    return position.row == item.position.row and position.column < endColumn(item) and
+           item.position.column < position.column + element.widthInCells;
   }
 
   [[nodiscard]] std::optional<int> toInt(std::string_view text) noexcept {
@@ -52,7 +57,7 @@ namespace {
       return std::nullopt;
     }
 
-    return HudItem {.pElement = pElement, .column = *column, .row = *row};
+    return HudItem {.pElement = pElement, .position = {.row = *row, .column = *column}};
   }
 } // anonymous namespace
 
@@ -67,7 +72,7 @@ HudLayout HudLayout::parse(std::string_view text) {
     const auto oItem = parseItem(std::string_view(chunk));
 
     if (oItem.has_value() and !ret.contains(*oItem->pElement) and
-        ret.canPlace(*oItem->pElement, oItem->column, oItem->row)) {
+        ret.canPlace(*oItem->pElement, oItem->position)) {
       ret.m_items.push_back(*oItem);
     }
   }
@@ -83,8 +88,8 @@ std::string HudLayout::serialize() const {
       ret += ITEM_SEPARATOR;
     }
 
-    ret += std::format("{}{}{}{}{}", item.pElement->id, FIELD_SEPARATOR, item.column,
-                       FIELD_SEPARATOR, item.row);
+    ret += std::format("{}{}{}{}{}", item.pElement->id, FIELD_SEPARATOR, item.position.column,
+                       FIELD_SEPARATOR, item.position.row);
   }
 
   return ret;
@@ -99,29 +104,29 @@ bool HudLayout::contains(const HudElement& element) const noexcept {
   return nullptr != find(element);
 }
 
-const HudElement* HudLayout::elementAt(int column, int row) const noexcept {
-  const auto it = std::ranges::find_if(
-      m_items, [column, row](const auto& item) { return covers(item, column, row); });
+const HudElement* HudLayout::elementAt(CellPosition cell) const noexcept {
+  const auto it =
+      std::ranges::find_if(m_items, [cell](const auto& item) { return covers(item, cell); });
   return (m_items.end() == it) ? nullptr : it->pElement;
 }
 
-bool HudLayout::canPlace(const HudElement& element, int column, int row) const noexcept {
-  if (0 > column or 0 > row or piws::nbRows <= row or
-      piws::nbColumns < column + element.widthInCells) {
+bool HudLayout::canPlace(const HudElement& element, CellPosition position) const noexcept {
+  if (0 > position.row or piws::nbRows <= position.row or 0 > position.column or
+      piws::nbColumns < position.column + element.widthInCells) {
     return false;
   }
 
-  return std::ranges::none_of(m_items, [&element, column, row](const auto& item) {
-    return &element != item.pElement and overlaps(item, element, column, row);
+  return std::ranges::none_of(m_items, [&element, position](const auto& item) {
+    return &element != item.pElement and overlaps(item, element, position);
   });
 }
 
-std::optional<std::pair<int, int>>
-HudLayout::findFreePlace(const HudElement& element) const noexcept {
+std::optional<CellPosition> HudLayout::findFreePlace(const HudElement& element) const noexcept {
   for (auto row = 0; piws::nbRows > row; ++row) {
     for (auto column = 0; piws::nbColumns > column; ++column) {
-      if (canPlace(element, column, row)) {
-        return std::pair {column, row};
+      if (const CellPosition position {.row = row, .column = column};
+          canPlace(element, position)) {
+        return position;
       }
     }
   }
@@ -130,25 +135,24 @@ HudLayout::findFreePlace(const HudElement& element) const noexcept {
 }
 
 bool HudLayout::addElement(const HudElement& element) {
-  const auto oPlace = findFreePlace(element);
+  const auto oPosition = findFreePlace(element);
 
-  if (contains(element) or !oPlace.has_value()) {
+  if (contains(element) or !oPosition.has_value()) {
     return false;
   }
 
-  m_items.push_back({.pElement = &element, .column = oPlace->first, .row = oPlace->second});
+  m_items.push_back({.pElement = &element, .position = *oPosition});
   return true;
 }
 
-bool HudLayout::moveElement(const HudElement& element, int column, int row) noexcept {
+bool HudLayout::moveElement(const HudElement& element, CellPosition position) noexcept {
   const auto it = std::ranges::find(m_items, &element, &HudItem::pElement);
 
-  if (m_items.end() == it or !canPlace(element, column, row)) {
+  if (m_items.end() == it or !canPlace(element, position)) {
     return false;
   }
 
-  it->column = column;
-  it->row = row;
+  it->position = position;
   return true;
 }
 
@@ -160,7 +164,7 @@ int HudLayout::getWidth() const noexcept {
   auto nbColumns {1};
 
   for (const auto& item : m_items) {
-    nbColumns = std::max(nbColumns, item.column + item.pElement->widthInCells);
+    nbColumns = std::max(nbColumns, endColumn(item));
   }
 
   return nbColumns * piws::cellWidth;
@@ -170,7 +174,7 @@ int HudLayout::getHeight() const noexcept {
   auto nbRows {1};
 
   for (const auto& item : m_items) {
-    nbRows = std::max(nbRows, item.row + 1);
+    nbRows = std::max(nbRows, item.position.row + 1);
   }
 
   return nbRows * piws::cellHeight;

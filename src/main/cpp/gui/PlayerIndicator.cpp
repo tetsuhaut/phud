@@ -58,7 +58,8 @@ void PlayerIndicator::buildBoxes() {
   begin();
 
   for (const auto& item : m_layout.getItems()) {
-    auto* const pBox = new Fl_Box(item.column * piws::cellWidth, item.row * piws::cellHeight,
+    auto* const pBox = new Fl_Box(item.position.column * piws::cellWidth,
+                                  item.position.row * piws::cellHeight,
                                   item.pElement->widthInCells * piws::cellWidth, piws::cellHeight);
     pBox->labelsize(piws::fontSize);
     pBox->align(FL_ALIGN_CENTER | FL_ALIGN_INSIDE | FL_ALIGN_CLIP);
@@ -103,7 +104,7 @@ std::string PlayerIndicator::getPlayerName() const {
 
 void PlayerIndicator::updateBasePosition(const std::pair<int, int>& basePosition) {
   m_basePosition = basePosition;
-  // Appliquer la nouvelle position de base + l'offset utilisateur
+  // Applique la nouvelle position de base + l'offset utilisateur
   const auto finalX = basePosition.first + m_userOffsetX;
   const auto finalY = basePosition.second + m_userOffsetY;
   position(finalX, finalY);

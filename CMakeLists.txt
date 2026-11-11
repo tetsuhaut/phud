@@ -375,7 +375,10 @@ if(MSVC)
     target_link_libraries(unitTests PRIVATE Rpcrt4)
 endif()
 
-# DwmSetWindowAttribute, used to color the title bars
+################################################################################
+# On windows 11, we'll use the DwmSetWindowAttribute function to change the
+# title bars color. This method is provided by the dwmapi library, so use it
+################################################################################
 if(WIN32)
     target_link_libraries(mainLib PRIVATE dwmapi)
     target_link_libraries(unitTests PRIVATE dwmapi)
