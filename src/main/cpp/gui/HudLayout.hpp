@@ -15,6 +15,7 @@ struct HudElement;
  * CellPosition {.row = 1, .column = 3}
  */
 struct [[nodiscard]] CellPosition final {
+  // note: as it is only 2 ints, it is faster to pass this structure to functions by value
   int row;
   int column;
 
@@ -47,12 +48,16 @@ public:
   [[nodiscard]] static HudLayout defaultLayout();
 
   /**
-   * Ignores what can't be read, so that the preferences saved by another version of the program
-   * can't prevent it from working.
+   * Builds a new HudLayout from a text coming from the preferences. Ignores what can't be read, so that the
+   * preferences saved by another version of the program can't prevent it from working.
    * @param text the result of serialize()
    */
   [[nodiscard]] static HudLayout parse(std::string_view text);
 
+  /**
+   * @returns a std::string that represents the current layout. Used to save the layout in user's preferences.
+   * The default layout is "nbHands:0:0;vpip:2:0;pfr:3:0;af:4:0;playerName:0:1".
+   */
   [[nodiscard]] std::string serialize() const;
 
   [[nodiscard]] std::span<const HudItem> getItems() const noexcept { return m_items; }

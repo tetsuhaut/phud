@@ -15,18 +15,37 @@ namespace {
   constexpr std::string_view DEFAULT_LAYOUT {
       "nbHands:0:0;vpip:2:0;pfr:3:0;af:4:0;playerName:0:1"};
 
+  /**
+   * @returns the 1st column after the item
+   */
   [[nodiscard]] int endColumn(const HudItem& item) noexcept {
     return item.position.column + item.pElement->widthInCells;
+  }
+  /**
+   * @returns the 1st line after the item. as an item is always 1 line high, it is always
+   * current item row + 1.
+   */
+  [[nodiscard]] int endRow(const HudItem& item) noexcept {
+    return item.position.row + 1;
+  }
+
+  /**
+   * @returns the number of cells needed along one axis (width or height), at least 1.
+   * @param end where an item ends along this axis: endColumn or endRow
+   */
+  [[nodiscard]] int countCells(std::span<const HudItem> items, auto end) {
+    // max(max(max(1, end(item0)), end(item1)), end(item2))... returns 1 if there is no item.
+    return std::ranges::fold_left(items | std::views::transform(end), 1, std::ranges::max);
   }
 
   [[nodiscard]] bool covers(const HudItem& item, CellPosition cell) noexcept {
     return cell.row == item.position.row and item.position.column <= cell.column and
-           cell.column < endColumn(item);
+           cell.column < ::endColumn(item);
   }
 
   [[nodiscard]] bool overlaps(const HudItem& item, const HudElement& element,
                               CellPosition position) noexcept {
-    return position.row == item.position.row and position.column < endColumn(item) and
+    return position.row == item.position.row and position.column < ::endColumn(item) and
            item.position.column < position.column + element.widthInCells;
   }
 
@@ -161,21 +180,9 @@ void HudLayout::removeElement(const HudElement& element) {
 }
 
 int HudLayout::getWidth() const noexcept {
-  auto nbColumns {1};
-
-  for (const auto& item : m_items) {
-    nbColumns = std::max(nbColumns, endColumn(item));
-  }
-
-  return nbColumns * piws::cellWidth;
+  return countCells(m_items, ::endColumn) * piws::cellWidth;
 }
 
 int HudLayout::getHeight() const noexcept {
-  auto nbRows {1};
-
-  for (const auto& item : m_items) {
-    nbRows = std::max(nbRows, item.position.row + 1);
-  }
-
-  return nbRows * piws::cellHeight;
+  return countCells(m_items, ::endRow) * piws::cellHeight;
 }

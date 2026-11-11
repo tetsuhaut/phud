@@ -342,7 +342,8 @@ namespace {
     const auto oHeroSeat = tableStatistics.getHeroSeat();
 
     if (!oHeroSeat.has_value()) {
-      LOG().warn<"Hero seat unknown for table '{}', can't update the player indicators.">(tableStatistics.m_table);
+      LOG().warn<"Hero seat unknown for table '{}', can't update the player indicators.">(
+          tableStatistics.m_table);
       return;
     }
     const auto heroSeat = oHeroSeat.value();
@@ -484,64 +485,67 @@ namespace {
       LOG().error<"Unknown exception in importDirAwakeCb">();
     }
   }
-  namespace DirectoryChoiceHandler {
-    void handleOk(std::string_view dirName, Gui::Implementation& self);
-    void handleError(const Fl_Native_File_Chooser& chooser, Gui::Implementation& self);
 
-    void handleOk(std::string_view dirName, Gui::Implementation& self) {
-      const auto dir = fs::path(dirName);
-      LOG().info<"the user chose to import the directory '{}'">(dir.string());
+  /**
+   * Called when the user chose a history directory: imports it if it is valid.
+   */
+  void onHistoryDirChosen(std::string_view dirName, Gui::Implementation& self) {
+    const auto dir = fs::path(dirName);
+    LOG().info<"the user chose to import the directory '{}'">(dir.string());
 
-      if (self.m_historyService.isValidHistory(dir)) {
-        self.m_preferences->saveHistoryDirectory(dir);
-        self.m_historyService.setHistoryDir(dir); // Set the history directory in the service
+    if (self.m_historyService.isValidHistory(dir)) {
+      self.m_preferences->saveHistoryDirectory(dir);
+      self.m_historyService.setHistoryDir(dir); // Set the history directory in the service
 
-        // Connect HistoryService and TableService
-        if (const auto pokerSiteHistory = self.m_historyService.getPokerSiteHistory();
-            nullptr != pokerSiteHistory) {
-          self.m_tableService.setPokerSiteHistory(pokerSiteHistory);
+      // Connect HistoryService and TableService
+      if (const auto pokerSiteHistory = self.m_historyService.getPokerSiteHistory();
+          nullptr != pokerSiteHistory) {
+        self.m_tableService.setPokerSiteHistory(pokerSiteHistory);
+      }
+
+      // Update directory label immediately (synchronously) to avoid pointer issues
+      const auto& label = self.m_preferences->getHistoryDirectoryDisplayLabel();
+      self.m_histoDirTextField->copy_label(label.c_str());
+
+      // Schedule the rest of the UI updates and import
+      scheduleUITask([pb = self.m_progressBar, chb = self.m_chooseHistoDirBtn,
+                      historyService = &self.m_historyService, dir]() {
+        try {
+          LOG().info<"About to start import process">();
+          // Start import
+          importDirAwakeCb(pb, chb, *historyService, dir);
+          LOG().info<"Import process started successfully">();
+        } catch (const std::exception& e) {
+          LOG().error<"Exception in UI task: {}">(e.what());
+        } catch (...) {
+          LOG().error<"Unknown exception in UI task">();
         }
-
-        // Update directory label immediately (synchronously) to avoid pointer issues
-        const auto& label = self.m_preferences->getHistoryDirectoryDisplayLabel();
-        self.m_histoDirTextField->copy_label(label.c_str());
-
-        // Schedule the rest of the UI updates and import
-        scheduleUITask([pb = self.m_progressBar, chb = self.m_chooseHistoDirBtn,
-                        historyService = &self.m_historyService, dir]() {
-          try {
-            LOG().info<"About to start import process">();
-            // Start import
-            importDirAwakeCb(pb, chb, *historyService, dir);
-            LOG().info<"Import process started successfully">();
-          } catch (const std::exception& e) {
-            LOG().error<"Exception in UI task: {}">(e.what());
-          } catch (...) {
-            LOG().error<"Unknown exception in UI task">();
-          }
-        });
-      } else {
-        LOG().info<"the chosen directory '{}' is not a valid history dir">(dir.string());
-        informUser<MainWindow::Label::invalidChoice>(self);
-      }
+      });
+    } else {
+      LOG().info<"the chosen directory '{}' is not a valid history dir">(dir.string());
+      informUser<MainWindow::Label::invalidChoice>(self);
     }
+  }
 
-    void handleError(const Fl_Native_File_Chooser& chooser, Gui::Implementation& self) {
-      if (nullptr == chooser.errmsg()) {
-        informUser<MainWindow::Label::fileChoiceError>(self);
-      } else {
-        informUser(self, chooser.errmsg());
-      }
+  /**
+   * Called when the directory chooser failed: displays the reason in the info bar.
+   */
+  void onHistoryDirChoiceError(const Fl_Native_File_Chooser& chooser, Gui::Implementation& self) {
+    if (nullptr == chooser.errmsg()) {
+      informUser<MainWindow::Label::fileChoiceError>(self);
+    } else {
+      informUser(self, chooser.errmsg());
     }
-  } // namespace DirectoryChoiceHandler
+  }
+
   void handleDirectoryChoice(Gui::Implementation& self,
                              const Fl_Native_File_Chooser& dirChoser, FileChoiceStatus fcs) {
     switch (fcs) {
       case FileChoiceStatus::ok:
-        DirectoryChoiceHandler::handleOk(dirChoser.filename(), self);
+        onHistoryDirChosen(dirChoser.filename(), self);
         return;
       case FileChoiceStatus::error:
-        [[unlikely]] DirectoryChoiceHandler::handleError(dirChoser, self);
+        [[unlikely]] onHistoryDirChoiceError(dirChoser, self);
         return;
       case FileChoiceStatus::cancel: /* nothing to do */
         return;

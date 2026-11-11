@@ -1,7 +1,6 @@
 #pragma once
 
 #include <memory> // std::unique_ptr
-#include <string_view>
 
 // forward declarations
 class TableService;
