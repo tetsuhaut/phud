@@ -12,6 +12,13 @@ namespace MainWindow::Label {
   constexpr std::string_view chooseHistoDir {"Choose History Directory"};
   constexpr std::string_view chooseHistoDirText {"Choose a directory containing history files"};
   constexpr std::string_view stopHud {"Stop HUD"};
+  constexpr std::string_view startHud {"Start HUD"};
+  constexpr std::string_view hudStopped {"HUD stopped"};
+  constexpr std::string_view reimportHistoryMenu {"&File/&Reimport history"};
+  constexpr std::string_view noHistoryDirToReimport {"Choose a history directory first"};
+  constexpr std::string_view importInProgress {"An import is already in progress"};
+  constexpr std::string_view savingIntoDatabase {"Saving into the database..."};
+  constexpr std::string_view historyImported {"History imported"};
   constexpr std::string_view customizeHudMenu {"&HUD/&Customize..."};
   constexpr std::string_view invalidChoice {
       "The chosen entry is not a valid Winamax history directory"};

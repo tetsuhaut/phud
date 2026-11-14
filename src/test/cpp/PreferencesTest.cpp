@@ -89,4 +89,24 @@ BOOST_AUTO_TEST_CASE(PreferencesTest_emptyHudLayoutShouldNotBecomeTheDefaultOne)
   BOOST_TEST(prefs.getHudLayout().getItems().empty());
 }
 
+BOOST_AUTO_TEST_CASE(PreferencesTest_lastHistoryCheckShouldBeEmptyIfNeverSaved) {
+  const Preferences prefs(IN_MEMORY);
+  BOOST_TEST(!prefs.getLastHistoryCheck().has_value());
+}
+
+BOOST_AUTO_TEST_CASE(PreferencesTest_lastHistoryCheckShouldBeSavedToTheSecond) {
+  const Preferences prefs(IN_MEMORY);
+  const auto now = std::chrono::system_clock::now();
+  prefs.saveLastHistoryCheck(now);
+  const auto oLoaded = prefs.getLastHistoryCheck();
+  BOOST_REQUIRE(oLoaded.has_value());
+  BOOST_TEST((std::chrono::floor<std::chrono::seconds>(now) == *oLoaded));
+}
+
+BOOST_AUTO_TEST_CASE(PreferencesTest_invalidLastHistoryCheckShouldBeIgnored) {
+  const Preferences prefs(IN_MEMORY);
+  prefs.saveStringPreference("preferencesKeyLastHistoryCheck", "not a number");
+  BOOST_TEST(!prefs.getLastHistoryCheck().has_value());
+}
+
 BOOST_AUTO_TEST_SUITE_END()

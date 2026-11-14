@@ -191,6 +191,8 @@ namespace {
 struct [[nodiscard]] Database::Implementation final {
   std::string m_dbName;
   gsl::not_null<sqlite3*> m_database;
+  // the history import and the history watching can save at the same time
+  std::mutex m_saveMutex {};
 
   explicit Implementation(std::string_view dbName)
     : m_dbName {dbName},
@@ -316,6 +318,7 @@ static std::vector<Future<void>> saveGamesAsync(std::span<const T* const> games,
  * @throws DatabaseException if an error occurs during the insert
  */
 void Database::save(const Site& site) {
+  const std::scoped_lock lock {m_pImpl->m_saveMutex};
   Transaction transaction {m_pImpl->m_database};
   saveSite(m_pImpl->m_database, site);
   save(site.viewPlayers());

@@ -67,6 +67,8 @@ TableWatcher::~TableWatcher() {
 
 void TableWatcher::start() const {
   LOG().debug<"Starting table watcher">();
+  // forget the tables seen before a stop, so that those still opened are notified again
+  m_pImpl->m_currentTableWindowTitles.clear();
   m_pImpl->m_periodicTask.start([this]() {
     m_pImpl->checkForTables();
     return PeriodicTaskStatus::repeatTask; // Continue watching

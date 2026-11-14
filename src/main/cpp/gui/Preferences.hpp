@@ -1,7 +1,9 @@
 #pragma once
 
+#include <chrono>
 #include <filesystem>
 #include <memory>
+#include <optional>
 #include <string>
 #include <string_view>
 #include <utility> // std::pair
@@ -34,6 +36,10 @@ public:
   [[nodiscard]] std::pair<int, int> getMainWindowPosition() const;
   void saveWindowPosition(int x, int y) const;
   void saveWindowSize(int width, int height) const;
+
+  // When the history files were last checked, to import at startup only those modified since
+  [[nodiscard]] std::optional<std::chrono::system_clock::time_point> getLastHistoryCheck() const;
+  void saveLastHistoryCheck(std::chrono::system_clock::time_point time) const;
 
   // What the player indicators display: the default layout if the user customized nothing
   [[nodiscard]] HudLayout getHudLayout() const;

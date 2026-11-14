@@ -40,11 +40,11 @@ void PeriodicTask::stop() const {
   if (!m_pImpl->m_taskIsStopped) {
     {
       auto lock = std::unique_lock<std::mutex>(m_pImpl->m_mutex); // noexcept
-      m_pImpl->m_futureTaskResult.reset();                        // noexcept
       m_pImpl->m_stop = true;
       m_pImpl->m_cv.notify_all(); // noexcept
     }
     join(); // not nexcept
+    m_pImpl->m_futureTaskResult.reset(); // noexcept
   }
 }
 
@@ -66,6 +66,8 @@ bool PeriodicTask::isRunning() const noexcept {
 }
 
 void PeriodicTask::start(const std::function<PeriodicTaskStatus()>& task) const {
+  // a previous stop() must not prevent this new start
+  m_pImpl->m_stop = false;
   m_pImpl->m_taskIsStopped = false;
   m_pImpl->m_futureTaskResult = ThreadPool::submit([this, task]() {
     do {

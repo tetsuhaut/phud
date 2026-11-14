@@ -41,6 +41,7 @@
 #  pragma warning(pop)
 #endif // _MSC_VER
 
+#include <chrono>
 #include <concepts> // requires
 #include <ranges>
 #include <unordered_map>
@@ -92,7 +93,7 @@ struct [[nodiscard]] Gui::Implementation final {
   HudLayout m_hudLayout {m_preferences->getHudLayout()};
   std::unique_ptr<HudEditor> m_hudEditor {nullptr}; // built when the user opens it
   Fl_Button* m_chooseHistoDirBtn {nullptr};
-  Fl_Button* m_stopHudBtn {nullptr};
+  Fl_Button* m_hudBtn {nullptr}; // 'Start HUD' or 'Stop HUD'
   Fl_Box* m_histoDirTextField {nullptr};
   Fl_Progress* m_progressBar {nullptr};
   Fl_Box* m_watchedTablesLabel {nullptr};
@@ -102,6 +103,9 @@ struct [[nodiscard]] Gui::Implementation final {
   std::unordered_map<std::string,
                      std::array<std::unique_ptr<PlayerIndicator>, TableConstants::MAX_SEATS>>
       m_playerIndicators {};
+  bool m_isHudStarted {false};
+  // false while an import is in progress: the last history check time must not be saved then
+  bool m_isHistoryCaughtUp {false};
 
   explicit Implementation(TableService& tableService, HistoryService& historyService)
     : m_tableService {tableService},
@@ -113,6 +117,7 @@ struct [[nodiscard]] Gui::Implementation final {
   Implementation& operator=(Implementation&&) = delete;
 
   ~Implementation() {
+    m_historyService.stopWatchingHistory();
     m_historyService.stopImportingHistory();
     if (m_tableWatcher) {
       m_tableWatcher->stop();
@@ -198,11 +203,23 @@ namespace {
         std::make_unique<TaskType>(std::forward<TASK>(aTask)).release());
   }
 
+  [[nodiscard]] std::string toProgressLabel(const Fl_Progress& progressBar) {
+    return fmt::format("{}/{}", limits::toInt(progressBar.value()),
+                       limits::toInt(progressBar.maximum()));
+  }
+
+  /**
+   * Called once for each file read, successfully or not. Once every file is read, the import still
+   * has to save them into the database, which is long: the progress bar says so, or the user would
+   * think that the import is done.
+   */
   void onImportProgress(Fl_Progress* progressBar) {
     scheduleUITask([pb = progressBar]() {
       pb->value(pb->value() + 1);
-      pb->copy_label(
-          fmt::format("{}/{}", limits::toInt(pb->value()), limits::toInt(pb->maximum())).c_str());
+      const auto label = (pb->maximum() <= pb->value())
+                             ? std::string(MainWindow::Label::savingIntoDatabase)
+                             : toProgressLabel(*pb);
+      pb->copy_label(label.c_str());
     });
   }
 
@@ -213,8 +230,40 @@ namespace {
     });
   }
 
-  void onImportDone(Fl_Button* chooseHistoDirBtn) {
-    scheduleUITask([chb = chooseHistoDirBtn]() { chb->activate(); });
+  /**
+   * Remembers that every history file modified before the given time is in the database, so that
+   * the next startup only imports the files modified after.
+   */
+  void markHistoryAsCaughtUp(Gui::Implementation& self,
+                             std::chrono::system_clock::time_point checkTime) {
+    self.m_preferences->saveLastHistoryCheck(checkTime);
+    self.m_isHistoryCaughtUp = true;
+  }
+
+  /**
+   * Allows or forbids the actions starting an import: only one import can run at a time.
+   */
+  void setImportActionsActive(Gui::Implementation& self, bool isActive) {
+    if (isActive) {
+      self.m_chooseHistoDirBtn->activate();
+    } else {
+      self.m_chooseHistoDirBtn->deactivate();
+    }
+
+    const auto* const reimportPath = MainWindow::Label::reimportHistoryMenu.data();
+
+    if (const auto index = self.m_menuBar->find_index(reimportPath); 0 <= index) {
+      self.m_menuBar->mode(index, isActive ? 0 : FL_MENU_INACTIVE);
+    }
+  }
+
+  void onImportDone(Gui::Implementation& self, std::chrono::system_clock::time_point importStart) {
+    scheduleUITask([&self, importStart]() {
+      self.m_progressBar->copy_label(toProgressLabel(*self.m_progressBar).c_str());
+      self.m_infoBar->copy_label(MainWindow::Label::historyImported.data());
+      setImportActionsActive(self, true);
+      markHistoryAsCaughtUp(self, importStart);
+    });
   }
 
   /**
@@ -226,11 +275,16 @@ namespace {
   void exitCb(Fl_Widget* const mainWindow, void* hidden) {
     LOG().debug<__func__>();
     LOG().info<"Stopping the GUI.">();
-    const auto& impl = *static_cast<Gui::Implementation*>(hidden);
+    auto& impl = *static_cast<Gui::Implementation*>(hidden);
 
     // Stop watching for poker tables first
     if (impl.m_tableWatcher) {
       impl.m_tableWatcher->stop();
+    }
+
+    // the history has been watched until now: the next startup imports only what changes after
+    if (impl.m_isHistoryCaughtUp) {
+      markHistoryAsCaughtUp(impl, std::chrono::system_clock::now());
     }
 
     /* save the main window position */
@@ -297,8 +351,12 @@ namespace {
     impl.m_hudEditor->open(impl.m_hudLayout);
   }
 
+  // defined below, as it uses the import functions
+  void reimportHistoryCb(Fl_Widget*, void* hidden);
+
   [[nodiscard]] gsl::not_null<Fl_Menu_Bar*> buildMenuBar(Gui::Implementation* impl) {
     return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [impl](Fl_Menu_Bar* menu) {
+      menu->add(MainWindow::Label::reimportHistoryMenu.data(), 0, reimportHistoryCb, impl);
       menu->add("&File/E&xit", 0, exitCb, impl);
       menu->add(MainWindow::Label::customizeHudMenu.data(), 0, customizeHudCb, impl);
       menu->box(FL_NO_BOX);
@@ -390,8 +448,8 @@ namespace {
 
     for (auto it = tableToPlayerIndicators.begin(); it != tableToPlayerIndicators.end();) {
       if (const auto title = it->first; !std::ranges::contains(tableWindowTitles, title)) {
-        // Stop monitoring this table
-        tableService.stopProducingStats();
+        // Stop monitoring this table only: the other ones are still displayed
+        tableService.stopProducingStatsForTable(title);
         // Clear all player indicators for this table
         auto& playerIndicators = it->second;
         std::ranges::for_each(playerIndicators, [](auto& pi) { pi.reset(); });
@@ -453,36 +511,88 @@ namespace {
   }
 
   /**
-   * Called by the GUI event loop when the user chosed a valid history dir.
-   * Starts the import process for a valid history directory.
+   * Called by the GUI event loop to import the whole given valid history dir.
    * Updates UI components and starts the background import.
    */
-  void importDirAwakeCb(Fl_Progress* progressBar, Fl_Button* chooseHistoDirBtn,
-                        HistoryService& historyService, const fs::path& dir) {
+  void importDirAwakeCb(Gui::Implementation& self, const fs::path& dir) {
     LOG().debug<__func__>();
 
     try {
       LOG().info<"The import directory '{}' is valid">(dir.string());
+      // the files modified from now on are saved by the history watching
+      const auto importStart = std::chrono::system_clock::now();
+      auto* const progressBar = self.m_progressBar;
 
       // UI update - already running in UI thread, no need for scheduleUITask
+      progressBar->value(0); // the progress bar can have been used by a previous import
       progressBar->activate();
-      chooseHistoDirBtn->deactivate();
+      setImportActionsActive(self, false);
+      self.m_isHistoryCaughtUp = false;
 
       // Start import through business service
       LOG().info<"About to call historyService.startImport">();
-      historyService.importHistory(
+      self.m_historyService.importHistory(
           dir,
           // update the progress bar during the import
           [progressBar]() { onImportProgress(progressBar); },
           // when we know the number of files to import, setup the progress bar
           [progressBar](std::size_t nb) { onSetNbFiles(progressBar, nb); },
           // import completion callback
-          [chooseHistoDirBtn]() { onImportDone(chooseHistoDirBtn); });
+          [&self, importStart]() { onImportDone(self, importStart); });
       LOG().info<"historyService.importHistory completed">();
     } catch (const std::exception& e) {
       LOG().error<"Exception in importDirAwakeCb: {}">(e.what());
     } catch (...) {
       LOG().error<"Unknown exception in importDirAwakeCb">();
+    }
+  }
+
+  [[nodiscard]] HistoryService::FileSavedCallback buildOnHistoryFileSaved(TableService& service) {
+    return [&service](const fs::path& file) { service.onHistoryFileSaved(file); };
+  }
+
+  /**
+   * Watches the given history dir permanently, so that the database and the HUD are always up to
+   * date.
+   */
+  void watchHistory(Gui::Implementation& self, const fs::path& dir) {
+    self.m_historyService.watchHistory(dir, buildOnHistoryFileSaved(self.m_tableService));
+  }
+
+  /**
+   * Imports the history files modified since the last check, which were not watched as phud was not
+   * running. The first time, there is no last check: the user imports the whole history with the
+   * 'Choose History Directory' button or the 'Reimport history' menu.
+   */
+  void catchUpHistory(Gui::Implementation& self, const fs::path& dir) {
+    // the files modified from now on are saved by the history watching
+    const auto checkTime = std::chrono::system_clock::now();
+    const auto oLastCheck = self.m_preferences->getLastHistoryCheck();
+
+    if (!oLastCheck.has_value()) {
+      markHistoryAsCaughtUp(self, checkTime);
+      return;
+    }
+
+    self.m_historyService.importFilesModifiedSince(
+        dir, *oLastCheck, buildOnHistoryFileSaved(self.m_tableService), [&self, checkTime]() {
+          scheduleUITask([&self, checkTime]() { markHistoryAsCaughtUp(self, checkTime); });
+        });
+  }
+
+  /**
+   * Called by the GUI (menu bar) when the user wants to import the whole history again.
+   */
+  void reimportHistoryCb(Fl_Widget*, void* hidden) {
+    LOG().debug<__func__>();
+    auto& self = *static_cast<Gui::Implementation*>(hidden);
+
+    if (const auto dir = self.m_preferences->getPreferredHistoDir(); dir.empty()) {
+      informUser<MainWindow::Label::noHistoryDirToReimport>(self);
+    } else if (!self.m_chooseHistoDirBtn->active()) {
+      informUser<MainWindow::Label::importInProgress>(self);
+    } else {
+      importDirAwakeCb(self, dir);
     }
   }
 
@@ -507,13 +617,15 @@ namespace {
       const auto& label = self.m_preferences->getHistoryDirectoryDisplayLabel();
       self.m_histoDirTextField->copy_label(label.c_str());
 
+      // the changes made to the new history dir are saved from now on
+      watchHistory(self, dir);
+
       // Schedule the rest of the UI updates and import
-      scheduleUITask([pb = self.m_progressBar, chb = self.m_chooseHistoDirBtn,
-                      historyService = &self.m_historyService, dir]() {
+      scheduleUITask([&self, dir]() {
         try {
           LOG().info<"About to start import process">();
           // Start import
-          importDirAwakeCb(pb, chb, *historyService, dir);
+          importDirAwakeCb(self, dir);
           LOG().info<"Import process started successfully">();
         } catch (const std::exception& e) {
           LOG().error<"Exception in UI task: {}">(e.what());
@@ -574,28 +686,54 @@ namespace {
                                    });
   }
 
-  [[nodiscard]] gsl::not_null<Fl_Button*> buildStopHudBtn(Gui::Implementation& aSelf) {
-    // Called by the GUI (button component) when the user clicks on the 'stop HUD'
-    auto stopHudCb = [](Fl_Widget* button, void* hiddenSelf) {
+  /**
+   * Starts detecting the poker tables, and displaying their statistics.
+   */
+  void startHud(Gui::Implementation& self) {
+    LOG().info<"Starting the HUD">();
+    self.m_isHudStarted = true;
+    self.m_watchedTablesLabel->copy_label(MainWindow::Label::noPokerTableDetected.data());
+    self.m_hudBtn->label(MainWindow::Label::stopHud.data());
+    self.m_tableWatcher->start();
+  }
+
+  /**
+   * Stops detecting the poker tables, and removes the player indicators. The history is still
+   * watched.
+   */
+  void stopHud(Gui::Implementation& self) {
+    LOG().info<"Stopping the HUD">();
+    self.m_isHudStarted = false;
+    // stop detecting the tables first, so that they can't be followed again
+    self.m_tableWatcher->stop();
+    self.m_tableService.stopProducingStats();
+
+    for (auto& indicators : self.m_playerIndicators | std::views::values) {
+      std::ranges::for_each(indicators, [](auto& pi) { pi.reset(); });
+    }
+
+    self.m_playerIndicators.clear();
+    self.m_watchedTablesLabel->copy_label(MainWindow::Label::hudStopped.data());
+    self.m_hudBtn->label(MainWindow::Label::startHud.data());
+    Fl::redraw();
+  }
+
+  [[nodiscard]] gsl::not_null<Fl_Button*> buildHudBtn(Gui::Implementation& aSelf) {
+    // Called by the GUI (button component) when the user clicks on 'Start HUD' or 'Stop HUD'
+    auto hudCb = [](Fl_Widget*, void* hiddenSelf) {
       auto& self = *static_cast<Gui::Implementation*>(hiddenSelf);
-      LOG().debug<"stopHudCb">();
-      // Use business service to stop monitoring
-      self.m_tableService.stopProducingStats();
-      // kill PlayerIndicators
-      for (auto& indicators : self.m_playerIndicators | std::views::values) {
-        std::ranges::for_each(indicators, [](auto& pi) { pi.reset(); });
+      LOG().debug<"hudCb">();
+
+      if (self.m_isHudStarted) {
+        stopHud(self);
+      } else {
+        startHud(self);
       }
-      self.m_playerIndicators.clear();
-      button->deactivate();
-      informUser<MainWindow::Label::noPlayerIndicators>(self);
-      Fl::redraw();
     };
 
-    return createWidget<Fl_Button>(MainWindow::Screen::stopHudBtn, MainWindow::Label::stopHud,
-                                   [&aSelf, stopHudCb](Fl_Button* btn) {
-                                     btn->callback(stopHudCb, &aSelf);
-                                     btn->deactivate();
-                                   });
+    return createWidget<Fl_Button>(
+        MainWindow::Screen::stopHudBtn, MainWindow::Label::startHud,
+        [&aSelf, hudCb](Fl_Button* btn) { btn->callback(hudCb, &aSelf); });
   }
 
   [[nodiscard]] gsl::not_null<Fl_Box*> buildHistoDirTextField(const Preferences& pref) {
@@ -620,7 +758,7 @@ namespace {
 
   [[nodiscard]] gsl::not_null<Fl_Box*> buildWatchedTablesLabel() {
     return createWidget<Fl_Box>(MainWindow::Screen::watchedTableLabel,
-                                MainWindow::Label::noPokerTableDetected,
+                                MainWindow::Label::hudStopped,
                                 [](Fl_Box* box) { box->align(FL_ALIGN_LEFT | FL_ALIGN_INSIDE); });
   }
 
@@ -638,20 +776,28 @@ namespace {
     return fmt::format(MainWindow::Label::watchingMultipleTables, tableNames.size());
   }
 
-  [[nodiscard]] std::unique_ptr<TableWatcher>
-  buildTableWatcher(Fl_Box* pWatchedTableLabel,
-                    TableWindowTitleToTablePlayerIndicators& playerIndicators,
-                    TableService& tableService, const HudLayout& layout) {
+  /**
+   * Updates the label and the player indicators when the opened tables change.
+   */
+  void onTableWindowsDetected(Gui::Implementation& self, std::span<const std::string> titles) {
+    // this task can have been scheduled just before the user stopped the HUD
+    if (self.m_isHudStarted) {
+      const auto label = getWatchedTableLabel(titles);
+      self.m_watchedTablesLabel->copy_label(label.c_str());
+      removeUselessPlayerIndicators(self.m_playerIndicators, titles, self.m_tableService);
+      updateUsefulPlayerIndicators(self.m_playerIndicators, titles, self.m_tableService,
+                                   self.m_hudLayout);
+    }
+  }
+
+  /**
+   * @returns a TableWatcher which is not started: it starts with the HUD.
+   */
+  [[nodiscard]] std::unique_ptr<TableWatcher> buildTableWatcher(Gui::Implementation& self) {
     const TableWatcher::TableWindowsDetectedCallback onTableWindowsDetectedCb =
-        [pWatchedTableLabel, &playerIndicators, &tableService,
-         &layout](std::span<const std::string> tableWindowTitles) {
-          scheduleUITask([pWatchedTableLabel, &playerIndicators, &tableService, &layout,
-                          twt = toVector(tableWindowTitles)]() {
-            // Update label and player indicators
-            const auto label = getWatchedTableLabel(twt);
-            pWatchedTableLabel->copy_label(label.c_str());
-            removeUselessPlayerIndicators(playerIndicators, twt, tableService);
-            updateUsefulPlayerIndicators(playerIndicators, twt, tableService, layout);
+        [&self](std::span<const std::string> tableWindowTitles) {
+          scheduleUITask([&self, twt = toVector(tableWindowTitles)]() {
+            onTableWindowsDetected(self, twt);
           });
         };
 
@@ -684,19 +830,17 @@ Gui::Gui(TableService& tableService, HistoryService& historyService)
   if (const auto dir {m_pImpl->m_preferences->getPreferredHistoDir()};
       PokerSiteHistory::isValidHistory(dir)) {
     m_pImpl->m_historyService.setHistoryDir(dir);
-    m_pImpl->m_tableService.setHistoryDir(dir);
     // Connect HistoryService and TableService
     if (const auto h {m_pImpl->m_historyService.getPokerSiteHistory()}) {
       m_pImpl->m_tableService.setPokerSiteHistory(h);
     }
+    // the history is watched permanently, the tables only while the HUD is started
+    watchHistory(*m_pImpl, dir);
+    catchUpHistory(*m_pImpl, dir);
   }
-  m_pImpl->m_stopHudBtn = buildStopHudBtn(*m_pImpl);
+  m_pImpl->m_hudBtn = buildHudBtn(*m_pImpl);
   m_pImpl->m_infoBar = buildInfoBar();
-  // Create and start table watcher
-  m_pImpl->m_tableWatcher =
-      buildTableWatcher(m_pImpl->m_watchedTablesLabel, m_pImpl->m_playerIndicators,
-                        m_pImpl->m_tableService, m_pImpl->m_hudLayout);
-  m_pImpl->m_tableWatcher->start();
+  m_pImpl->m_tableWatcher = buildTableWatcher(*m_pImpl);
   m_pImpl->m_mainWindow->end();
 }
 
@@ -715,7 +859,6 @@ int Gui::run() {
   return Fl::run();              // listen to awake() calls
 }
 
-// BUG : le stop HUD les cache mais ils réapparaissent
 // BUG : filtrer plus la validation du répertoire de l'historique
 // TODO : fonctionnalité de suppression des préférences utilisateurs
 // TODO : remplacer le choix du répertoire d'historique à charger par un menu listant tous les

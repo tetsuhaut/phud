@@ -65,4 +65,20 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
   BOOST_REQUIRE(nullptr == myArray[1]);
 }
 
+BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldRestartAfterAStop) {
+  auto willExplodeIn {
+      TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldRestartAfterAStop")};
+  const PeriodicTask pt {PT_PERIOD};
+  pt.start([]() { return PeriodicTaskStatus::repeatTask; });
+  pt.stop();
+  BOOST_REQUIRE(pt.isStopped());
+  auto nbRuns {0};
+  pt.start([&nbRuns]() {
+    ++nbRuns;
+    return 3 == nbRuns ? PeriodicTaskStatus::stopTask : PeriodicTaskStatus::repeatTask;
+  });
+  pt.join();
+  BOOST_TEST(3 == nbRuns);
+}
+
 BOOST_AUTO_TEST_SUITE_END()

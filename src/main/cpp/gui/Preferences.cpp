@@ -5,7 +5,8 @@
 #include "gui/Preferences.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME
 #include "constants/ProgramInfos.hpp"
-#include <cstdlib> // std::free
+#include <charconv> // std::from_chars
+#include <cstdlib>  // std::free
 #include <gsl/gsl> // gsl::finally
 
 #include <FL/Fl.H>
@@ -22,6 +23,8 @@ namespace pf = phud::filesystem;
 namespace {
   constexpr std::string_view CHOSEN_DIR {"preferencesKeyChosenDir"};
   constexpr std::string_view HUD_LAYOUT {"preferencesKeyHudLayout"};
+  // saved as a number of seconds since 1970-01-01
+  constexpr std::string_view LAST_HISTORY_CHECK {"preferencesKeyLastHistoryCheck"};
 } // anonymous namespace
 
 struct [[nodiscard]] Preferences::Implementation final {
@@ -89,6 +92,25 @@ void Preferences::saveWindowPosition(int x, int y) const {
 void Preferences::saveWindowSize(int width, int height) const {
   saveIntPreference(MainWindow::Label::width, width);
   saveIntPreference(MainWindow::Label::height, height);
+}
+
+std::optional<std::chrono::system_clock::time_point> Preferences::getLastHistoryCheck() const {
+  const auto text = getStringPreference(LAST_HISTORY_CHECK);
+  long long nbSeconds {0};
+  const auto end = text.data() + text.size();
+
+  if (const auto [ptr, ec] = std::from_chars(text.data(), end, nbSeconds);
+      text.empty() or std::errc {} != ec or end != ptr) {
+    return std::nullopt;
+  }
+
+  return std::chrono::system_clock::time_point {std::chrono::seconds {nbSeconds}};
+}
+
+void Preferences::saveLastHistoryCheck(std::chrono::system_clock::time_point time) const {
+  const auto nbSeconds =
+      std::chrono::duration_cast<std::chrono::seconds>(time.time_since_epoch()).count();
+  saveStringPreference(LAST_HISTORY_CHECK, std::to_string(nbSeconds));
 }
 
 HudLayout Preferences::getHudLayout() const {
