@@ -271,7 +271,6 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
     {" folds", " checks", " bets ", " calls ", " raises ", " shows ", " collected "});
 
 [[nodiscard]] static std::vector<std::unique_ptr<Action>> parseActions(TextFile& tf, Street street,
-                                                                       std::string_view handId,
                                                                        std::size_t startIndex) {
   std::vector<std::unique_ptr<Action>> actions;
 
@@ -280,8 +279,7 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
 
     if (const auto oActionParams = parseLineForActionParams(line); oActionParams.has_value()) {
       const auto [playerName, type, bet] {oActionParams.value()};
-      actions.push_back(std::make_unique<Action>(Action::Params {.handId = handId,
-                                                                 .playerName = playerName,
+      actions.push_back(std::make_unique<Action>(Action::Params {.playerName = playerName,
                                                                  .street = street,
                                                                  .type = type,
                                                                  .actionIndex = startIndex + actions.size(),
@@ -295,14 +293,14 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
 }
 
 [[nodiscard]] static std::vector<std::unique_ptr<Action>>
-parseActionsAndWinners(TextFile& tf, std::string_view handId) {
+parseActionsAndWinners(TextFile& tf) {
   LOG().debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;
   auto currentStreet = Street::none;
 
   while (!tf.contains("*** SUMMARY ***")) {
     currentStreet = parseStreet(tf);
-    auto currentActions = parseActions(tf, currentStreet, handId, actions.size());
+    auto currentActions = parseActions(tf, currentStreet, actions.size());
     std::ranges::move(currentActions, std::back_inserter(actions));
   }
 
@@ -332,7 +330,7 @@ parseActionsAndWinners(TextFile& tf, std::string_view handId) {
   });
   const auto ante = parseAnte(tf);
   const auto heroCards = parseHeroCards(tf, cache);
-  auto actions = parseActionsAndWinners(tf, handId);
+  auto actions = parseActionsAndWinners(tf);
   const auto boardCards = parseBoardCards(tf);
   LOG().debug<"nb actions={}">(actions.size());
   Hand::Params params {.id = handId,

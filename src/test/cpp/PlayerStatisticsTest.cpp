@@ -30,8 +30,7 @@ static constexpr std::string_view HERO = "sabre_laser";
   const std::array<Card, TableConstants::MAX_CARDS> noCards {Card::none, Card::none, Card::none,
                                                              Card::none, Card::none};
   std::vector<std::unique_ptr<Action>> actions;
-  actions.push_back(std::make_unique<Action>(Action::Params {.handId = HAND_ID,
-                                                             .playerName = HERO,
+  actions.push_back(std::make_unique<Action>(Action::Params {.playerName = HERO,
                                                              .street = Street::preflop,
                                                              .type = ActionType::raise,
                                                              .actionIndex = 0,

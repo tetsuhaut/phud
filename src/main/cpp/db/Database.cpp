@@ -150,16 +150,18 @@ namespace {
   /**
    * @throws DatabaseException if an error occurs during the insert
    */
-  void saveActions(const gsl::not_null<sqlite3*> db, std::span<const Action* const> actions) {
+  void saveActions(const gsl::not_null<sqlite3*> db, const Hand& hand) {
+    const auto actions = hand.viewActions();
+
     if (actions.empty()) {
       return;
     }
 
     static_assert(ps::contains(phud::sql::INSERT_ACTION, '?'), "ill-formed SQL template");
     SqlInsertor query {phud::sql::INSERT_ACTION};
-    std::ranges::for_each(actions, [&query](const auto& pAction) {
+    std::ranges::for_each(actions, [&query, &hand](const auto& pAction) {
       query.street(pAction->getStreet())
-          .handId(pAction->getHandId())
+          .handId(hand.getId())
           .playerName(pAction->getPlayerName())
           .actionType(pAction->getType())
           .actionIndex(pAction->getIndex())
@@ -181,7 +183,7 @@ namespace {
     saveHands(db, gameId, hands);
     std::ranges::for_each(hands, [db](const auto& h) {
       LOG().trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
-      saveActions(db, h->viewActions());
+      saveActions(db, *h);
     });
   }
 } // anonymous namespace

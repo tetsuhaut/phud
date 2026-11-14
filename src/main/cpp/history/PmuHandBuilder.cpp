@@ -247,7 +247,6 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // if (const auto oActionParams =  parseLineForActionParams(line) ; oActionParams.has_value()) {
 // const auto [playerName, type, bet] { oActionParams.value() };
 // actions.push_back(std::make_unique<Action>(Action::Params {
-// .handId = handId,
 // .playerName = playerName,
 // .street = street,
 // .type = type,
@@ -285,7 +284,6 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // return winner == pAction->getPlayerName();
 // }))) {
 // ret.push_back(std::make_unique<Action>(Action::Params {
-// .handId = handId,
 // .playerName = winner,
 // .street = street,
 // .type = ActionType::none,

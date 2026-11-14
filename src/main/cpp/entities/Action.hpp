@@ -19,7 +19,6 @@ enum class /*[[nodiscard]]*/ Street : short { none, preflop, flop, turn, river }
 class [[nodiscard]] Action final {
 private:
   // Memory layout optimized: largest to smallest to minimize padding
-  std::string m_handId;
   std::string m_playerName;
   std::size_t m_index; // 8 bytes
   // the bet amount for fold/check/call/bet/raise, or the amount won for win
@@ -28,7 +27,6 @@ private:
   ActionType m_type; // 2 bytes (short)
 public:
   struct [[nodiscard]] Params final {
-    std::string_view handId;
     std::string_view playerName;
     Street street;
     ActionType type;
@@ -43,7 +41,6 @@ public:
   Action& operator=(Action&&) = delete;
   ~Action();
   [[nodiscard]] constexpr Street getStreet() const noexcept { return m_street; }
-  [[nodiscard]] constexpr const std::string& getHandId() const noexcept { return m_handId; }
   [[nodiscard]] constexpr const std::string& getPlayerName() const noexcept { return m_playerName; }
   [[nodiscard]] constexpr ActionType getType() const noexcept { return m_type; }
   [[nodiscard]] constexpr std::size_t getIndex() const noexcept { return m_index; }

@@ -75,6 +75,7 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   const auto t = tournaments.front();
   BOOST_REQUIRE(1 == t->viewHands().size());
   const auto pHand {t->viewHands().front()};
+  BOOST_REQUIRE("531302705944068104-65-1437230557" == pHand->getId());
   BOOST_REQUIRE(6 == pHand->viewActions().size());
   BOOST_REQUIRE(Street::preflop == pHand->viewActions().front()->getStreet());
   BOOST_REQUIRE(ActionType::raise == pHand->viewActions().front()->getType());
@@ -83,7 +84,6 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
                         [](const auto& enumerated) {
                           const auto [i, pAction] = enumerated;
                           BOOST_REQUIRE(i == std::make_unsigned_t<int>(pAction->getIndex()));
-                          BOOST_REQUIRE("531302705944068104-65-1437230557" == pAction->getHandId());
                         });
   BOOST_REQUIRE_CLOSE(pHand->viewActions().front()->getAmount(), 3200.0, 0.01);
   BOOST_REQUIRE(6 == pHand->viewActions().size());
