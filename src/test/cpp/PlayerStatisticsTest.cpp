@@ -70,14 +70,13 @@ static constexpr std::string_view HERO = "sabre_laser";
   return pSite;
 }
 
-static void assertStats(const PlayerStatistics& stats, int nbHands, int vpip, int pfr) {
-  BOOST_TEST(nbHands == stats.getNbHands());
-  BOOST_TEST(vpip == stats.getVoluntaryPutMoneyInPot());
-  BOOST_TEST(pfr == stats.getPreFlopRaise());
-}
+using PreflopStats = pt::LoadedHistory<"Winamax/preflopStats">;
+
+/* We need to be able to get all the stats for one given player */
+BOOST_AUTO_TEST_SUITE(PlayerStatisticsTest)
 
 /**
- * Loads once Winamax/preflopStats, the hand-written hands detailed hand by hand with the rules in
+ * Winamax/preflopStats contains hand-written hands, detailed hand by hand with the rules in
  * TableStatisticsTest.cpp.
  *
  * Valeurs attendues, toutes tables confondues (Testville + Autreville = 7 + 4 = 11 mains) :
@@ -87,40 +86,21 @@ static void assertStats(const PlayerStatistics& stats, int nbHands, int vpip, in
  *
  * Les pourcentages sont tronques a l'affichage : 54.55 donne 54.
  */
-struct PreflopStatsFixture {
-  inline static std::unique_ptr<Site> pSite {nullptr};
-  inline static std::unique_ptr<Database> pDatabase {nullptr};
-
-  PreflopStatsFixture() {
-    if (nullptr == pDatabase) {
-      pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/preflopStats"));
-      BOOST_REQUIRE(nullptr != pSite);
-      pDatabase = std::make_unique<Database>();
-      pDatabase->save(*pSite);
-    }
-  }
-};
-
-/* We need to be able to get all the stats for one given player */
-BOOST_AUTO_TEST_SUITE(PlayerStatisticsTest)
-
-BOOST_FIXTURE_TEST_CASE(PlayerStatisticsTest_statsShouldBeComputedByHandOverAllTables,
-                        PreflopStatsFixture) {
-  const auto pHero = pDatabase->readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, HERO);
-  BOOST_REQUIRE(nullptr != pHero);
+BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_statsShouldBeComputedByHandOverAllTables) {
+  const auto& db = PreflopStats::database();
+  const auto pHero = db.readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, HERO);
+  pt::assertStats(pHero.get(), HERO, 11, 54, 27);
   BOOST_TEST(pHero->isHero());
-  assertStats(*pHero, 11, 54, 27);
-  const auto pAlice = pDatabase->readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "alice");
-  BOOST_REQUIRE(nullptr != pAlice);
+  const auto pAlice = db.readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "alice");
+  pt::assertStats(pAlice.get(), "alice", 11, 45, 36);
   BOOST_TEST(!pAlice->isHero());
-  assertStats(*pAlice, 11, 45, 36);
-  const auto pBob = pDatabase->readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "bob");
-  BOOST_REQUIRE(nullptr != pBob);
-  assertStats(*pBob, 11, 18, 9);
+  const auto pBob = db.readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "bob");
+  pt::assertStats(pBob.get(), "bob", 11, 18, 9);
 }
 
-BOOST_FIXTURE_TEST_CASE(PlayerStatisticsTest_unknownPlayerShouldHaveNoStats, PreflopStatsFixture) {
-  BOOST_TEST(nullptr == pDatabase->readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "nobody"));
+BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_unknownPlayerShouldHaveNoStats) {
+  const auto& db = PreflopStats::database();
+  BOOST_TEST(nullptr == db.readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "nobody"));
 }
 
 BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_statsShouldNotMixSites) {
@@ -131,11 +111,9 @@ BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_statsShouldNotMixSites) {
   db.save(*pWinamax);
   db.save(*pPmu);
   const auto pOnWinamax = db.readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, HERO);
-  BOOST_REQUIRE(nullptr != pOnWinamax);
-  assertStats(*pOnWinamax, 11, 54, 27);
+  pt::assertStats(pOnWinamax.get(), HERO, 11, 54, 27);
   const auto pOnPmu = db.readPlayerStatistics(ProgramInfos::PMU_SITE_NAME, HERO);
-  BOOST_REQUIRE(nullptr != pOnPmu);
-  assertStats(*pOnPmu, 1, 100, 100);
+  pt::assertStats(pOnPmu.get(), HERO, 1, 100, 100);
 }
 
 BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_computeVoluntaryPutMoneyInPotShouldSucceed) {

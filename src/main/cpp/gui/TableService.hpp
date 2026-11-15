@@ -37,8 +37,9 @@ public:
   [[nodiscard]] static bool isPokerApp(std::string_view executableName);
 
   /**
-   * Starts producing statistics for the given table: observerCb will be called each time the
-   * history file of this table is saved. Several tables can be followed at the same time.
+   * Starts producing statistics for the given table: observerCb is called at once if the database
+   * already has statistics for this table, then each time the history file of this table is saved.
+   * Several tables can be followed at the same time.
    * @param tableWindowTitle title of the window of the table to follow
    * @param observerCb Callback for statistics updates, called from another thread
    * @return Error message if failed, empty string if success

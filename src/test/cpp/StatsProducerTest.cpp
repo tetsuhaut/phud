@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp"
-#include "TimeBomb.hpp" // std::chrono::*
 #include "db/Database.hpp"
 #include "entities/Site.hpp"
 #include "history/PokerSiteHistory.hpp"
@@ -11,17 +10,16 @@
 
 namespace pt = phud::test;
 
+using UpdatedHistory =
+    pt::LoadedHistory<"Winamax/StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed">;
+
 static constexpr std::chrono::milliseconds COUNTDOWN_TO_EXPLOSION {10000};
 static constexpr std::chrono::milliseconds SG_PERIOD {1};
 
 BOOST_AUTO_TEST_SUITE(StatsProducerTest)
 
 BOOST_AUTO_TEST_CASE(StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed) {
-  const auto& pSite {PokerSiteHistory::load(pt::getDirFromTestResources(
-      "Winamax/StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed"))};
-  BOOST_REQUIRE(nullptr != pSite);
-  Database db;
-  db.save(*pSite);
+  const auto& db = UpdatedHistory::database();
   const auto& table {"Kill The Fish(152800689)#056"};
   /* create the timebomb after the database creation which can be slow */
   const StatsProducer producer {{.reloadPeriod = SG_PERIOD,
@@ -30,7 +28,7 @@ BOOST_AUTO_TEST_CASE(StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed) {
                                  .db = db}};
   ThreadSafeQueue<TableStatistics> statsQueue;
   producer.start(statsQueue);
-  auto _ {TimeBomb::create(COUNTDOWN_TO_EXPLOSION,
+  auto _ {pt::TimeBomb::create(COUNTDOWN_TO_EXPLOSION,
                            "StatsProducerTest_parsingAnUpdatedHistoryShouldSucceed")};
   auto stats = statsQueue.waitPop();
   producer.stop();

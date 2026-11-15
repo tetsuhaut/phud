@@ -1,7 +1,8 @@
 #include "TestInfrastructure.hpp"
-#include "TimeBomb.hpp"
 #include "threads/PeriodicTask.hpp"
 #include <array>
+
+namespace pt = phud::test;
 
 namespace {
   struct [[nodiscard]] StrContainer final {
@@ -16,7 +17,7 @@ BOOST_AUTO_TEST_SUITE(PeriodicTaskTest)
 
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
   auto willExplodeIn {
-      TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_launchingAPeriodicTaskShouldWork")};
+      pt::TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_launchingAPeriodicTaskShouldWork")};
   const PeriodicTask pt {PT_PERIOD};
   std::vector<std::string> v {"yip"};
   pt.start([&v]() {
@@ -29,7 +30,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_launchingAPeriodicTaskShouldWork) {
 
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
   auto willExplodeIn {
-      TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs")};
+      pt::TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs")};
   const PeriodicTask pt {PT_PERIOD};
   const auto pMyStrContainer {std::make_unique<StrContainer>()};
   void* hidden {pMyStrContainer.get()};
@@ -51,7 +52,8 @@ struct [[nodiscard]] PassedInArray final {
 };
 
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
-  auto willExplodeIn {TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeArrays")};
+  auto willExplodeIn {
+      pt::TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeArrays")};
   const PeriodicTask pt {PT_PERIOD};
   std::array<std::shared_ptr<StrContainer>, 2> myArray {std::make_shared<StrContainer>(), nullptr};
   auto pArray = std::make_shared<PassedInArray>(myArray);
@@ -67,7 +69,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeArrays) {
 
 BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldRestartAfterAStop) {
   auto willExplodeIn {
-      TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldRestartAfterAStop")};
+      pt::TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldRestartAfterAStop")};
   const PeriodicTask pt {PT_PERIOD};
   pt.start([]() { return PeriodicTaskStatus::repeatTask; });
   pt.stop();

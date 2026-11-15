@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp"
-#include "TimeBomb.hpp"
 #include "filesystem/DirWatcher.hpp"
 #include "filesystem/FileUtils.hpp"
 #include <condition_variable>
@@ -29,7 +28,7 @@ BOOST_AUTO_TEST_CASE(DirWatcherTest_DetectingChangedFilesShouldWork) {
     changedFiles.push_back(file.stem().string());
     cv.notify_one();
   });
-  auto tb = TimeBomb::create(TB_PERIOD, "DirWatcherTest_DetectingChangedFilesShouldWork");
+  auto tb = pt::TimeBomb::create(TB_PERIOD, "DirWatcherTest_DetectingChangedFilesShouldWork");
 
   // Add a small delay between modifications to ensure they are processed
   tmpFile.print("yip");

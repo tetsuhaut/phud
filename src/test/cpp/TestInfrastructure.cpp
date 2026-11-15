@@ -4,16 +4,26 @@
 #define BOOST_TEST_MODULE (Unit Tests for the Poker Head-Up Dispay)
 
 #include "TestInfrastructure.hpp"   // boost::unit_test::*
+#include "db/Database.hpp"
+#include "entities/Site.hpp"
 #include "filesystem/FileUtils.hpp" // phud::filesystem
+#include "history/PokerSiteHistory.hpp"
 #include "language/Validator.hpp"
-#include "log/Logger.hpp"          // fmt::format(), LoggingLevel
+#include "log/Logger.hpp" // fmt::format(), LoggingLevel
+#include "statistics/PlayerStatistics.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::*
+#include "threads/PeriodicTask.hpp"
 #include "threads/ThreadPool.hpp"
 #include <boost/test/debug.hpp> // detect_memory_leaks()
 #include <boost/test/unit_test_parameters.hpp>
+#include <atomic>
 #include <fstream> // std::ofstream
+#include <map>
+#include <print>
 #include <source_location>
+#include <sstream>      // std::ostringstream
 #include <system_error> // std::error_code
+#include <thread>       // std::this_thread
 
 #include "language/PhudException.hpp"
 
@@ -29,85 +39,184 @@ namespace pt = phud::test;
 //   return ret;
 // }
 
-class [[nodiscard]] GlobalFixture final {
-public:
-  GlobalFixture() {
-    boost::debug::detect_memory_leaks(false);
-    LoggingConfig _ {"[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v"};
-    Logger::setLoggingLevel(LoggingLevel::debug);
-    namespace but = boost::unit_test;
-
-    if (but::log_level::log_successful_tests ==
-        but::runtime_config::get<but::log_level>(but::runtime_config::btrt_log_level)) {
-      /* if unit tests are launched with option -l all, set log to trace level */
-      Logger::setLoggingLevel(LoggingLevel::trace);
-    }
-  }
-
-  ~GlobalFixture() {
-    Logger::shutdownLogging();
-    ThreadPool::stop();
-  }
-}; /* GlobalFixture */
-
-BOOST_GLOBAL_FIXTURE(GlobalFixture);
-
+// everything which is not declared in TestInfrastructure.hpp is private to this file
 namespace {
+  class [[nodiscard]] GlobalFixture final {
+  public:
+    GlobalFixture() {
+      boost::debug::detect_memory_leaks(false);
+      LoggingConfig _ {"[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v"};
+      Logger::setLoggingLevel(LoggingLevel::debug);
+      namespace but = boost::unit_test;
+
+      if (but::log_level::log_successful_tests ==
+          but::runtime_config::get<but::log_level>(but::runtime_config::btrt_log_level)) {
+        /* if unit tests are launched with option -l all, set log to trace level */
+        Logger::setLoggingLevel(LoggingLevel::trace);
+      }
+    }
+
+    GlobalFixture(const GlobalFixture&) = delete;
+    GlobalFixture(GlobalFixture&&) = delete;
+    GlobalFixture& operator=(const GlobalFixture&) = delete;
+    GlobalFixture& operator=(GlobalFixture&&) = delete;
+
+    ~GlobalFixture() {
+      Logger::shutdownLogging();
+      ThreadPool::stop();
+    }
+  }; /* GlobalFixture */
+
   struct IsFile final {};
 
   struct IsDir final {};
+
+  template <typename T>
+    requires(std::same_as<T, IsFile> or std::same_as<T, IsDir>)
+  [[nodiscard]] fs::path getGenericFileFromTestResources(const auto& file) {
+    validation::requireNonEmpty(file, "file or dir");
+    validation::require('/' != file.front(), "file or dir can't start with '/'");
+    const auto ret = (pt::getTestResourcesDir() / file);
+
+    if constexpr (std::is_same_v<T, IsFile>) {
+      if (pf::isFile(ret)) {
+        return ret;
+      }
+    }
+
+    if constexpr (std::is_same_v<T, IsDir>) {
+      if (pf::isDir(ret)) {
+        return ret;
+      }
+    }
+
+    const auto sl {std::source_location::current()};
+    throw std::runtime_error {fmt::format(
+        "{} {} Couldn't find the file '{}' looking into '{}'.", sl.file_name(), sl.line(),
+        reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
+        pt::getTestResourcesDir().string())};
+  }
+
+  [[nodiscard]] fs::path throwIfNotADirectory(const fs::path& dir, std::string_view macro) {
+    if (pf::isDir(dir)) {
+      return dir;
+    }
+
+    throw std::runtime_error {
+        fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'",
+                    dir.string(), macro)};
+  }
+
+  /**
+   * @return the absolute path of a temp file.
+   * @note We use Path to handle UTF-8 and UTF-16 file names.
+   */
+  [[nodiscard]] fs::path getTmpFilePath() {
+    char ret[L_tmpnam] {};
+
+    if (const auto errorCode {tmpnam_s(ret, std::size(ret))}; 0 != errorCode) [[unlikely]] {
+      strerror_s(ret, std::size(ret), errorCode);
+      throw PhudException(ret);
+    }
+
+    // with gcc lhmouse, fs::temp_directory_path() returns an empty path and
+    // tmpnam_s gives a relative file name
+    if (fs::path(ret).is_relative()) {
+      return fs::temp_directory_path() / fs::path(ret).filename();
+    }
+
+    return ret;
+  }
+
+  void removeWithMessage(const fs::path& file) {
+    const auto fileType = pf::isFile(file) ? "file" : "directory";
+
+    if (std::error_code ec; !fs::remove_all(file, ec)) {
+      if (0 == ec.value()) {
+        BOOST_TEST_MESSAGE(
+            fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
+      } else [[unlikely]] {
+        BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
+        BOOST_TEST_MESSAGE(ec.message());
+      }
+    }
+  }
+
+  struct [[nodiscard]] SiteAndDatabase final {
+    std::unique_ptr<Site> pSite;
+    std::unique_ptr<Database> pDatabase;
+  };
+
+  /**
+   * @returns the given history, loaded and saved at the first call only. The tests run in one
+   * thread: no lock is needed.
+   */
+  [[nodiscard]] const SiteAndDatabase& getLoadedHistory(std::string_view historyDir) {
+    static std::map<std::string, SiteAndDatabase, std::less<>> loadedHistories {};
+    auto it = loadedHistories.find(historyDir);
+
+    if (loadedHistories.end() == it) {
+      auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources(historyDir));
+      BOOST_REQUIRE(nullptr != pSite);
+      auto pDatabase = std::make_unique<Database>();
+      pDatabase->save(*pSite);
+      it = loadedHistories
+               .emplace(historyDir, SiteAndDatabase {.pSite = std::move(pSite),
+                                                     .pDatabase = std::move(pDatabase)})
+               .first;
+    }
+
+    return it->second;
+  }
+
+  struct [[nodiscard]] TimeBombImpl final : pt::TimeBomb {
+    PeriodicTask m_task;
+    std::string m_testName;
+    std::atomic_bool m_isDefused = false;
+
+    TimeBombImpl(std::chrono::milliseconds countDownToExplosion, std::string_view testName)
+      : m_task {countDownToExplosion, "TimeBomb"},
+        m_testName {testName} {
+      m_task.start([this]() {
+        if (!m_isDefused) {
+          std::ostringstream oss;
+          oss << std::this_thread::get_id();
+          std::println("[{}] TimeBomb explodes in test {}", oss.str(), m_testName);
+          std::abort();
+        }
+
+        return PeriodicTaskStatus::stopTask;
+      });
+    }
+
+    TimeBombImpl(const TimeBombImpl&) = delete;
+    TimeBombImpl(TimeBombImpl&&) = delete;
+    TimeBombImpl& operator=(const TimeBombImpl&) = delete;
+    TimeBombImpl& operator=(TimeBombImpl&&) = delete;
+
+    ~TimeBombImpl() override {
+      m_isDefused = true;
+      m_task.stop();
+    }
+  }; // struct TimeBombImpl
 } // anonymous namespace
 
-template <typename T>
-  requires(std::same_as<T, ::IsFile> or std::same_as<T, ::IsDir>)
-[[nodiscard]] static fs::path getGenericFileFromTestResources(const auto& file) {
-  validation::requireNonEmpty(file, "file or dir");
-  validation::require('/' != file.front(), "file or dir can't start with '/'");
-  const auto ret = (pt::getTestResourcesDir() / file);
-
-  if constexpr (std::is_same_v<T, ::IsFile>) {
-    if (pf::isFile(ret)) {
-      return ret;
-    }
-  }
-
-  if constexpr (std::is_same_v<T, ::IsDir>) {
-    if (pf::isDir(ret)) {
-      return ret;
-    }
-  }
-
-  const auto sl {std::source_location::current()};
-  throw std::runtime_error {
-      fmt::format("{} {} Couldn't find the file '{}' looking into '{}'.", sl.file_name(), sl.line(),
-                  reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
-                  pt::getTestResourcesDir().string())};
-}
+BOOST_GLOBAL_FIXTURE(GlobalFixture);
 
 fs::path pt::getFileFromTestResources(std::u8string_view file) {
-  return getGenericFileFromTestResources<::IsFile>(file);
+  return getGenericFileFromTestResources<IsFile>(file);
 }
 
 fs::path pt::getDirFromTestResources(std::u8string_view dir) {
-  return getGenericFileFromTestResources<::IsDir>(dir);
+  return getGenericFileFromTestResources<IsDir>(dir);
 }
 
 fs::path pt::getFileFromTestResources(std::string_view file) {
-  return getGenericFileFromTestResources<::IsFile>(file);
+  return getGenericFileFromTestResources<IsFile>(file);
 }
 
 fs::path pt::getDirFromTestResources(std::string_view dir) {
-  return getGenericFileFromTestResources<::IsDir>(dir);
-}
-
-[[nodiscard]] static fs::path throwIfNotADirectory(const fs::path& dir, std::string_view macro) {
-  if (pf::isDir(dir)) {
-    return dir;
-  }
-
-  throw std::runtime_error {
-      fmt::format("Couldn't find the directory '{}' whereas it is the value of the macro '{}'",
-                  dir.string(), macro)};
+  return getGenericFileFromTestResources<IsDir>(dir);
 }
 
 fs::path pt::getTestResourcesDir() {
@@ -129,41 +238,6 @@ fs::path pt::getTestCppDir() {
 #  error The macro PHUD_TEST_SRC_DIR should have been defined in CMakeLists.txt
 #endif // PHUD_TEST_SRC_DIR
   return throwIfNotADirectory(PHUD_TEST_SRC_DIR, "PHUD_TEST_SRC_DIR");
-}
-
-/**
- * @return the absolute path of a temp file.
- * @note We use Path to handle UTF-8 and UTF-16 file names.
- */
-[[nodiscard]] static fs::path getTmpFilePath() {
-  char ret[L_tmpnam] {};
-
-  if (const auto errorCode {tmpnam_s(ret, std::size(ret))}; 0 != errorCode) [[unlikely]] {
-    strerror_s(ret, std::size(ret), errorCode);
-    throw PhudException(ret);
-  }
-
-  // with gcc lhmouse, fs::temp_directory_path() returns an empty path and
-  // tmpnam_s gives a relative file name
-  if (fs::path(ret).is_relative()) {
-    return fs::temp_directory_path() / fs::path(ret).filename();
-  }
-
-  return ret;
-}
-
-static void removeWithMessage(const fs::path& file) {
-  const auto fileType = pf::isFile(file) ? "file" : "directory";
-
-  if (std::error_code ec; !fs::remove_all(file, ec)) {
-    if (0 == ec.value()) {
-      BOOST_TEST_MESSAGE(
-          fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
-    } else [[unlikely]] {
-      BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
-      BOOST_TEST_MESSAGE(ec.message());
-    }
-  }
 }
 
 pt::TmpFile::TmpFile(std::string_view fileName)
@@ -211,4 +285,28 @@ pt::LogDisabler::LogDisabler()
 
 pt::LogDisabler::~LogDisabler() {
   Logger::setLoggingLevel(m_beforeDisabling);
+}
+
+const Site& pt::getLoadedSite(std::string_view historyDir) {
+  return *getLoadedHistory(historyDir).pSite;
+}
+
+Database& pt::getLoadedDatabase(std::string_view historyDir) {
+  return *getLoadedHistory(historyDir).pDatabase;
+}
+
+void pt::assertStats(const PlayerStatistics* pStats, std::string_view playerName, int nbHands,
+                     int vpip, int pfr) {
+  BOOST_REQUIRE(nullptr != pStats);
+  BOOST_TEST(playerName == pStats->getPlayerName());
+  BOOST_TEST(nbHands == pStats->getNbHands());
+  BOOST_TEST(vpip == pStats->getVoluntaryPutMoneyInPot());
+  BOOST_TEST(pfr == pStats->getPreFlopRaise());
+}
+
+pt::TimeBomb::~TimeBomb() = default;
+
+std::unique_ptr<pt::TimeBomb> pt::TimeBomb::create(std::chrono::milliseconds countDownToExplosion,
+                                                   std::string_view testName) {
+  return std::make_unique<TimeBombImpl>(countDownToExplosion, testName);
 }

@@ -17,10 +17,17 @@
 #  pragma clang diagnostic pop
 #endif // _MSC_VER
 
+#include "strings/StringLiteral.hpp"
+#include <chrono>
 #include <filesystem> // std::filesystem::path
+#include <memory>     // std::unique_ptr
+#include <string_view>
 
-/* forward declaration */
+/* forward declarations */
 enum class LoggingLevel : short;
+class Database;
+class PlayerStatistics;
+class Site;
 
 namespace phud::test {
   /**
@@ -96,5 +103,51 @@ namespace phud::test {
     std::sort(std::begin(copy), std::end(copy));
     return std::end(copy) == std::adjacent_find(std::begin(copy), std::end(copy));
   }
+
+  /**
+   * @returns the site loaded from the given dir of the test resources, saved into an in-memory
+   * database. Both are built at the first call only, then shared: they must not be modified.
+   * @param historyDir relative to src/test/resources, e.g. "Winamax/preflopStats"
+   */
+  [[nodiscard]] const Site& getLoadedSite(std::string_view historyDir);
+  [[nodiscard]] Database& getLoadedDatabase(std::string_view historyDir);
+
+  /**
+   * The history of the given dir of the test resources, loaded and saved into an in-memory
+   * database only once for all the tests. It is a named scope, not a fixture: the tests call it
+   * with its name, so that the origin of the symbols is visible. Usage:
+   *   using PreflopStats = pt::LoadedHistory<"Winamax/preflopStats">;
+   *   const auto& stats = PreflopStats::database().readTableStatistics(...);
+   * @tparam HISTORY_DIR relative to src/test/resources
+   */
+  template <StringLiteral HISTORY_DIR>
+  struct [[nodiscard]] LoadedHistory final {
+    LoadedHistory() = delete;
+
+    [[nodiscard]] static const Site& site() {
+      return getLoadedSite(std::string_view(HISTORY_DIR));
+    }
+
+    [[nodiscard]] static Database& database() {
+      return getLoadedDatabase(std::string_view(HISTORY_DIR));
+    }
+  }; // struct LoadedHistory
+
+  /**
+   * Checks the name, the number of hands, the VPIP and the PFR of the given player statistics.
+   */
+  void assertStats(const PlayerStatistics* pStats, std::string_view playerName, int nbHands,
+                   int vpip, int pfr);
+
+  /**
+   * Kills the program if not destroyed before the given period: Boost.Test timeouts don't stop a
+   * test that hangs under Windows, they are only checked when the test ends.
+   */
+  class [[nodiscard]] TimeBomb /*final*/ {
+  public:
+    static std::unique_ptr<TimeBomb> create(std::chrono::milliseconds countDownToExplosion,
+                                            std::string_view testName);
+    virtual ~TimeBomb();
+  }; // class TimeBomb
 
 } // namespace phud::test

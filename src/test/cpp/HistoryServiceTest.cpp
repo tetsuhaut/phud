@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp"
-#include "TimeBomb.hpp"
 #include "constants/ProgramInfos.hpp"
 #include "db/Database.hpp"
 #include "gui/HistoryService.hpp"
@@ -71,7 +70,7 @@ namespace {
 BOOST_AUTO_TEST_SUITE(HistoryServiceTest)
 
 BOOST_AUTO_TEST_CASE(HistoryServiceTest_catchUpShouldImportOnlyTheFilesModifiedSince) {
-  const auto tb = TimeBomb::create(TB_PERIOD, "HistoryServiceTest_catchUp");
+  const auto tb = pt::TimeBomb::create(TB_PERIOD, "HistoryServiceTest_catchUp");
   const pt::TmpDir dir("HistoryServiceTest_catchUp");
   copyHistory(dir);
   const auto now = fs::file_time_type::clock::now();
@@ -92,7 +91,7 @@ BOOST_AUTO_TEST_CASE(HistoryServiceTest_catchUpShouldImportOnlyTheFilesModifiedS
 }
 
 BOOST_AUTO_TEST_CASE(HistoryServiceTest_importShouldSaveEveryFile) {
-  const auto tb = TimeBomb::create(TB_PERIOD, "HistoryServiceTest_import");
+  const auto tb = pt::TimeBomb::create(TB_PERIOD, "HistoryServiceTest_import");
   const pt::TmpDir dir("HistoryServiceTest_import");
   copyHistory(dir);
   Database db;
@@ -110,7 +109,7 @@ BOOST_AUTO_TEST_CASE(HistoryServiceTest_importShouldSaveEveryFile) {
 }
 
 BOOST_AUTO_TEST_CASE(HistoryServiceTest_watchingShouldSaveAModifiedFile) {
-  const auto tb = TimeBomb::create(TB_PERIOD, "HistoryServiceTest_watching");
+  const auto tb = pt::TimeBomb::create(TB_PERIOD, "HistoryServiceTest_watching");
   const pt::TmpDir dir("HistoryServiceTest_watching");
   copyHistory(dir);
   Database db;

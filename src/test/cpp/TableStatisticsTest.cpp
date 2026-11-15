@@ -1,5 +1,4 @@
 #include "TestInfrastructure.hpp"
-#include "SabreLaserFixture.hpp" // Shared fixture for sabre_laser test data
 #include "db/Database.hpp"
 #include "entities/Site.hpp"
 #include "history/PokerSiteHistory.hpp"
@@ -9,33 +8,9 @@
 
 namespace pt = phud::test;
 
-/**
- * Shared fixture for simpleTHisto test data.
- * Loads once and reuses across tests for better performance.
- */
-struct SimpleTHistoFixture {
-  inline static std::unique_ptr<Site> pSite {nullptr};
-  inline static std::unique_ptr<Database> pDatabase {nullptr};
-  inline static bool isLoaded = false;
-
-  SimpleTHistoFixture() {
-    if (!isLoaded) {
-      pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleTHisto"));
-      pDatabase = std::make_unique<Database>();
-      pDatabase->save(*pSite);
-      isLoaded = true;
-    }
-  }
-};
-
-static void assertStats(const PlayerStatistics* pStats, std::string_view name, int nbHands,
-                        int vpip, int pfr) {
-  BOOST_REQUIRE(nullptr != pStats);
-  BOOST_TEST(name == pStats->getPlayerName());
-  BOOST_TEST(nbHands == pStats->getNbHands());
-  BOOST_TEST(vpip == pStats->getVoluntaryPutMoneyInPot());
-  BOOST_TEST(pfr == pStats->getPreFlopRaise());
-}
+using PreflopStats = pt::LoadedHistory<"Winamax/preflopStats">;
+using SimpleTHisto = pt::LoadedHistory<"Winamax/simpleTHisto">;
+using SabreLaser = pt::LoadedHistory<"Winamax/sabre_laser">;
 
 BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
 
@@ -95,26 +70,20 @@ BOOST_AUTO_TEST_SUITE(TableStatisticsTest)
  * VPIP et PFR sont tronques a l'affichage : 54.55 donne 54 et 27.27 donne 27.
  */
 BOOST_AUTO_TEST_CASE(TableStatisticsTest_statsShouldCoverTheWholeHistoryOfThePlayers) {
-  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/preflopStats"));
-  BOOST_REQUIRE(nullptr != pSite);
-  Database db;
-  db.save(*pSite);
+  const auto& db = PreflopStats::database();
   const auto& testville = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Testville");
   BOOST_REQUIRE(Seat::seatThree == testville.getMaxSeat());
-  assertStats(testville.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
-  assertStats(testville.m_tableStats[1].get(), "alice", 11, 45, 36);
-  assertStats(testville.m_tableStats[2].get(), "bob", 11, 18, 9);
+  pt::assertStats(testville.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
+  pt::assertStats(testville.m_tableStats[1].get(), "alice", 11, 45, 36);
+  pt::assertStats(testville.m_tableStats[2].get(), "bob", 11, 18, 9);
   const auto& autreville = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Autreville");
-  assertStats(autreville.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
-  assertStats(autreville.m_tableStats[1].get(), "alice", 11, 45, 36);
-  assertStats(autreville.m_tableStats[2].get(), "bob", 11, 18, 9);
+  pt::assertStats(autreville.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
+  pt::assertStats(autreville.m_tableStats[1].get(), "alice", 11, 45, 36);
+  pt::assertStats(autreville.m_tableStats[2].get(), "bob", 11, 18, 9);
 }
 
 BOOST_AUTO_TEST_CASE(TableStatisticsTest_preflopStatsShouldBeTheHandComputedValues) {
-  const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/preflopStats"));
-  BOOST_REQUIRE(nullptr != pSite);
-  Database db;
-  db.save(*pSite);
+  const auto& db = PreflopStats::database();
   const auto& stats = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Testville");
   const auto tolerance = boost::test_tools::tolerance(1e-6);
 
@@ -162,12 +131,12 @@ BOOST_AUTO_TEST_CASE(TableStatisticsTest_statsShouldNotMixGameTypes) {
   db.save(*pCashGames);
   db.save(*pOtherGames);
   const auto& cashGame = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Testville");
-  assertStats(cashGame.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
+  pt::assertStats(cashGame.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
   const auto& tournament =
       db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Tournoi(123456)#001");
-  assertStats(tournament.m_tableStats[0].get(), "sabre_laser", 1, 100, 100);
+  pt::assertStats(tournament.m_tableStats[0].get(), "sabre_laser", 1, 100, 100);
   const auto& fastFold = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Fastville");
-  assertStats(fastFold.m_tableStats[0].get(), "sabre_laser", 1, 0, 0);
+  pt::assertStats(fastFold.m_tableStats[0].get(), "sabre_laser", 1, 0, 0);
 }
 
 /* the whole history file is saved again each time a new hand is written in it */
@@ -178,16 +147,13 @@ BOOST_AUTO_TEST_CASE(TableStatisticsTest_savingTheSameHistoryTwiceShouldNotChang
   db.save(*pSite);
   db.save(*pSite);
   const auto& stats = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Testville");
-  assertStats(stats.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
+  pt::assertStats(stats.m_tableStats[0].get(), "sabre_laser", 11, 54, 27);
   BOOST_TEST(2 == stats.m_tableStats[0]->getNbFacedRaise());
 }
 
-BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed,
-                        SimpleTHistoFixture) {
-  BOOST_REQUIRE(nullptr != pSite);
-  BOOST_REQUIRE(nullptr != pDatabase);
-  const auto& stats = pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME,
-                                                     "Kill The Fish(152800689)#004");
+BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTournamentShouldSucceed) {
+  const auto& stats = SimpleTHisto::database().readTableStatistics(
+      ProgramInfos::WINAMAX_SITE_NAME, "Kill The Fish(152800689)#004");
   BOOST_REQUIRE(Seat::seatSix == stats.getMaxSeat());
   BOOST_REQUIRE("StopCallFish" == stats.m_tableStats[0]->getPlayerName());
   BOOST_REQUIRE(ProgramInfos::WINAMAX_SITE_NAME == stats.m_tableStats[0]->getSiteName());
@@ -208,11 +174,9 @@ BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingStatisticsFromWinamaxTourname
   BOOST_REQUIRE(nullptr == stats.m_tableStats[9]);
 }
 
-BOOST_FIXTURE_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed, SabreLaserFixture) {
-  BOOST_REQUIRE(nullptr != pSabreLaserSite);
-  BOOST_REQUIRE(nullptr != pDatabase);
-  const auto& stats {pDatabase->readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME,
-                                                    "Double or Nothing(102140685)#0")};
+BOOST_AUTO_TEST_CASE(TableStatisticsTest_readingTablePlayersShouldSucceed) {
+  const auto& stats {SabreLaser::database().readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME,
+                                                                "Double or Nothing(102140685)#0")};
   BOOST_REQUIRE("secretstar62" == stats.m_tableStats[0]->getPlayerName());
   BOOST_REQUIRE(0 <= stats.m_tableStats[0]->getVoluntaryPutMoneyInPot());
   BOOST_REQUIRE("LECOLOMBIER7" == stats.m_tableStats[1]->getPlayerName());

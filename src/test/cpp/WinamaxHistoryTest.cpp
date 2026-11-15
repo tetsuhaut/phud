@@ -1,5 +1,4 @@
-#include "TestInfrastructure.hpp" // TmpFile, std::string_view, LogDisabler
-#include "SabreLaserFixture.hpp"  // Shared fixture for sabre_laser test data
+#include "TestInfrastructure.hpp" // TmpFile, std::string_view, LogDisabler, LoadedHistory
 #include "entities/Action.hpp"    // ActionType, Street
 #include "entities/Game.hpp"      // CashGame, Tournament
 #include "entities/Hand.hpp"
@@ -11,6 +10,8 @@
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 namespace pt = phud::test;
+
+using SabreLaser = pt::LoadedHistory<"Winamax/sabre_laser">;
 
 BOOST_AUTO_TEST_SUITE(WinamaxHistoryTest)
 
@@ -172,9 +173,8 @@ BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldDetectValidHistoryDirectory) {
       PokerSiteHistory::isValidHistory(pt::getDirFromTestResources("Winamax/sabre_laser")));
 }
 
-BOOST_FIXTURE_TEST_CASE(WinamaxHistoryTest_shouldNotHaveDuplicatedPlayers, SabreLaserFixture) {
-  // Use shared sabre_laser data loaded by fixture
-  auto players {pSabreLaserSite->viewPlayers()};
+BOOST_AUTO_TEST_CASE(WinamaxHistoryTest_shouldNotHaveDuplicatedPlayers) {
+  auto players {SabreLaser::site().viewPlayers()};
   std::unordered_set<const Player*> uniquePlayers;
   std::ranges::for_each(players, [&uniquePlayers](auto p) { uniquePlayers.insert(p); });
   BOOST_REQUIRE(players.size() == uniquePlayers.size());

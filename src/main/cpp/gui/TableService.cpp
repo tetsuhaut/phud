@@ -56,6 +56,15 @@ namespace {
       observerCb(std::move(stats));
     }
   }
+
+  /**
+   * Notifies the observer of the given table with its statistics, if the database has some.
+   */
+  void notifyIfStatsAvailable(const Database& database, const FollowedTable& table) {
+    if (auto oStats = extractTableStatistics(database, table.tableName)) {
+      notify(std::move(*oStats), table.observerCb);
+    }
+  }
 } // anonymous namespace
 
 struct [[nodiscard]] TableService::Implementation final {
@@ -101,9 +110,12 @@ std::string TableService::startProducingStats(std::string_view tableWindowTitle,
   const auto tableName =
       m_pImpl->m_pokerSiteHistory->getTableNameFromTableWindowTitle(tableWindowTitle);
   const std::scoped_lock lock {m_pImpl->m_mutex};
-  m_pImpl->m_tables.insert_or_assign(
+  // ignore if the insertion happened or not
+  const auto& [it, _] {m_pImpl->m_tables.insert_or_assign(
       std::string(tableWindowTitle),
-      FollowedTable {.tableName = std::string(tableName), .observerCb = observerCb});
+      FollowedTable {.tableName = std::string(tableName), .observerCb = observerCb})};
+  // the statistics already known are shown at once, without waiting for the next hand
+  notifyIfStatsAvailable(m_pImpl->m_database, it->second);
   return "";
 }
 
@@ -126,9 +138,7 @@ void TableService::onHistoryFileSaved(const fs::path& file) {
 
   for (const auto& table :
        m_pImpl->m_tables | std::views::values | std::views::filter(isTableOfThisFile)) {
-    if (auto oStats = extractTableStatistics(m_pImpl->m_database, table.tableName)) {
-      notify(std::move(*oStats), table.observerCb);
-    }
+    notifyIfStatsAvailable(m_pImpl->m_database, table);
   }
 }
 
