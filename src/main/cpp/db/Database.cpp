@@ -1,5 +1,6 @@
 #include "constants/TableConstants.hpp"
 #include "db/Database.hpp" // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database), std::span
+#include "db/PreparedInsert.hpp"
 #include "db/SqlSelector.hpp"
 #include "db/sqlQueries.hpp" // all the SQL queries
 #include "entities/Action.hpp"
@@ -19,8 +20,6 @@
 #include <gsl/gsl>                       // gsl::not_null
 #include <sqlite3.h>                     // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await
-#include <bit>                           // std::popcount
-#include <cstdint>                       // std::uint64_t
 #include <mutex>
 #include <ranges>
 #include <utility> // std::forward
@@ -105,126 +104,6 @@ namespace {
     
     return pDb;
   }
-
-  /**
-   * An insertion prepared once, then executed for each row. Building then parsing a SQL text for
-   * each row took most of the import time. The values are bound, so they need no escaping: a
-   * player name can contain a quote.
-   * Each value is bound to a named parameter of the query, in any order, then execute() inserts the
-   * row:
-   *   insert.text(":handId", handId).integer(":actionIndex", index).execute();
-   * The texts are not copied: they must stay valid until execute() returns.
-   */
-  class [[nodiscard]] PreparedInsert final {
-  private:
-    // the bound parameters are remembered as the bits of an integer
-    static constexpr int MAX_NB_PARAMETERS {64};
-
-    gsl::not_null<sqlite3*> m_db;
-    std::string_view m_sql;
-    // prepared at the first insertion: an existing database file can have no schema yet
-    sqlite3_stmt* m_pStatement {nullptr};
-    // the bit (position - 1) is set when the parameter at this position is bound
-    std::uint64_t m_boundPositions {0};
-
-    void require(int returnCode, int expected, std::string_view what) const {
-      if (expected != returnCode) {
-        throw DatabaseException(fmt::format("Can't {} the query\n{}\nerror message:\n{}\n", what,
-                                            m_sql, sqlite3_errmsg(m_db)));
-      }
-    }
-
-    [[noreturn]] void fail(std::string_view problem) const {
-      throw DatabaseException(fmt::format("{} in the query\n{}\n", problem, m_sql));
-    }
-
-    /**
-     * Prepares the statement if needed, and marks the parameter as bound.
-     * @param name the name of the parameter in the query, with its prefix, e.g. ":handId"
-     * @returns the position of the parameter in the query
-     * @throws DatabaseException if the statement can't be prepared, if the query has no parameter
-     * with this name, or if the parameter is already bound for this row
-     */
-    [[nodiscard]] int bindingPosition(gsl::not_null<const char*> name) {
-      if (nullptr == m_pStatement) {
-        require(sqlite3_prepare_v3(m_db, m_sql.data(), static_cast<int>(m_sql.size()),
-                                   SQLITE_PREPARE_PERSISTENT, &m_pStatement, nullptr),
-                SQLITE_OK, "prepare");
-      }
-
-      const auto position = sqlite3_bind_parameter_index(m_pStatement, name);
-
-      if (0 == position) {
-        fail(fmt::format("No parameter named '{}'", name.get()));
-      }
-
-      if (MAX_NB_PARAMETERS < position) {
-        fail(fmt::format("More than {} parameters", MAX_NB_PARAMETERS));
-      }
-
-      const auto bit = std::uint64_t {1} << (position - 1);
-
-      if (0 != (m_boundPositions & bit)) {
-        fail(fmt::format("The parameter '{}' is bound twice", name.get()));
-      }
-
-      m_boundPositions |= bit;
-      return position;
-    }
-
-  public:
-    PreparedInsert(gsl::not_null<sqlite3*> db, std::string_view sql)
-      : m_db {db},
-        m_sql {sql} {}
-
-    PreparedInsert(const PreparedInsert&) = delete;
-    PreparedInsert(PreparedInsert&&) = delete;
-    PreparedInsert& operator=(const PreparedInsert&) = delete;
-    PreparedInsert& operator=(PreparedInsert&&) = delete;
-
-    // must be destroyed before the database is closed
-    ~PreparedInsert() { sqlite3_finalize(m_pStatement); }
-
-    PreparedInsert& text(gsl::not_null<const char*> name, std::string_view value) {
-      const auto position = bindingPosition(name);
-      require(sqlite3_bind_text(m_pStatement, position, value.data(),
-                                static_cast<int>(value.size()), SQLITE_STATIC),
-              SQLITE_OK, "bind a value of");
-      return *this;
-    }
-
-    PreparedInsert& integer(gsl::not_null<const char*> name, long long value) {
-      const auto position = bindingPosition(name);
-      require(sqlite3_bind_int64(m_pStatement, position, value), SQLITE_OK, "bind a value of");
-      return *this;
-    }
-
-    PreparedInsert& real(gsl::not_null<const char*> name, double value) {
-      const auto position = bindingPosition(name);
-      require(sqlite3_bind_double(m_pStatement, position, value), SQLITE_OK, "bind a value of");
-      return *this;
-    }
-
-    // stored as 1 or 0
-    PreparedInsert& boolean(gsl::not_null<const char*> name, bool value) {
-      return integer(name, value ? 1 : 0);
-    }
-
-    /**
-     * Inserts the row with the bound values, then gets ready for the next row.
-     * @throws DatabaseException if not every value is bound, or if an error occurs
-     */
-    void execute() {
-      // SQLite keeps the values of the previous row: an unbound parameter would silently reuse it
-      const auto nbBoundValues = std::popcount(m_boundPositions);
-      m_boundPositions = 0;
-      require(nbBoundValues, sqlite3_bind_parameter_count(m_pStatement), "bind every value of");
-      const auto returnCode = sqlite3_step(m_pStatement);
-      // reset even after an error, so that the statement can be used again
-      sqlite3_reset(m_pStatement);
-      require(returnCode, SQLITE_DONE, "execute");
-    }
-  }; // class PreparedInsert
 
   /**
    * Every insertion of the database, prepared once for the database connection.
