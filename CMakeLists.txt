@@ -95,20 +95,20 @@ if(MSVC)
                         /w14263 # buffer overflow
                         /w14265 # missing virtual destructor
                         /w14287 # unexpected dependencies
-                        /w14296
-                        /w14311
-                        /w14545
-                        /w14546
-                        /w14547
-                        /w14549
-                        /w14555
-                        /w14619
-                        /w14640
-                        /w14826
-                        /w14905
-                        /w14906
-                        /w14928
-                        /w35038
+                        /w14296 # say when an expression is always false
+                        /w14311 # pointer truncation
+                        /w14545 # ill-formed comma expression
+                        /w14546 # another ill-formed comma expression
+                        /w14547 # yet another ill-formed comma expression
+                        /w14549 # yet another ill-formed comma expression
+                        /w14555 # expression has no effect
+                        /w14619 # #pragma warning : there is no warning number 'number'
+                        /w14640 # construction of local static object is not thread-safe
+                        /w14826 # conversion from 'type1' to 'type2' is sign-extended
+                        /w14905 # wide string literal cast to 'LPSTR'
+                        /w14906 # unsafe cast
+                        /w14928 # illegal copy-initialization
+                        /w35038 # members are ordered differently from their initialization order
                         /we4289) # compile warnings configured
     # Apply basic compilation options globally (non-warning related)
     add_compile_options(/utf-8 # use UTF-8 for source and execution
