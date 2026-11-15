@@ -2,14 +2,11 @@
 
 #include "log/LoggingLevel.hpp"
 #include "language/PhudException.hpp" // PhudException
-#include <filesystem>
-#include <optional>
 #include <span>
-#include <utility> // std::pair
+#include <string>
 
 namespace ProgramConfiguration {
   struct Configuration {
-    std::optional<std::filesystem::path> historyDirectory;
     LoggingLevel loggingLevel;
     std::string loggingPattern;
   };

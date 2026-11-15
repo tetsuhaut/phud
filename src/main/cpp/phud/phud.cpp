@@ -1,9 +1,7 @@
 #include "db/Database.hpp" // std::span
-#include "entities/Site.hpp"
 #include "gui/Gui.hpp"
 #include "gui/HistoryService.hpp"
 #include "gui/TableService.hpp"
-#include "history/PokerSiteHistory.hpp"
 #include "language/limits.hpp" // toSizeT
 #include "log/Logger.hpp"      // CURRENT_FILE_NAME
 #include "constants/ProgramInfos.hpp"
@@ -55,6 +53,9 @@ static void logErrorAndAbort(int signum) {
 }
 
 #if defined(_WIN32)
+/**
+ * Under Windows, if the app was launched in a console, do not create a new one.
+ */
 class [[nodiscard]] ConditionalConsole final {
 private:
   bool m_hasConsole = false;
@@ -62,8 +63,8 @@ private:
 public:
   ConditionalConsole()
     : m_hasConsole {TRUE == AttachConsole(ATTACH_PARENT_PROCESS)} {
-    // if the app was launched in a console, do not create a new one
     if (m_hasConsole) {
+      // attach to parent console
       FILE* fp = nullptr;
       freopen_s(&fp, "CONOUT$", "w", stdout);
       freopen_s(&fp, "CONOUT$", "w", stderr);
@@ -110,7 +111,7 @@ int main(int argc, const char* const* const argv) {
 #  pragma clang diagnostic pop
 #endif
 
-    const auto& [oHistoDir, loggingLevel, loggingPattern] = ProgramConfiguration::readConfiguration(args);
+    const auto& [loggingLevel, loggingPattern] = ProgramConfiguration::readConfiguration(args);
     // start the logging framework
     LoggingConfig _(loggingPattern);
     Logger::setLoggingLevel(loggingLevel);
@@ -119,23 +120,9 @@ int main(int argc, const char* const* const argv) {
     std::signal(SIGABRT, logErrorAndAbort);
     std::signal(SIGINT, logErrorAndAbort);
     LOG.info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
+    LOG.info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}">(
+        toString(loggingLevel), loggingPattern);
     Database db(ProgramInfos::DATABASE_NAME);
-
-    if (oHistoDir.has_value()) {
-      const auto historyDir = oHistoDir.value();
-
-      if (PokerSiteHistory::isValidHistory(historyDir)) {
-        const auto site = PokerSiteHistory::load(historyDir);
-        db.save(*site);
-      } else {
-        const auto errMsg =
-            fmt::format("The provided hand history directory '{}' is invalid", historyDir.string());
-        throw PhudException(errMsg);
-      }
-      LOG.info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(
-              toString(loggingLevel), loggingPattern, historyDir.string());
-    }
-
     TableService tableService(db);
     HistoryService handService(db);
     Gui gui(tableService, handService);

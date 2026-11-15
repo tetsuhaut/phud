@@ -23,13 +23,11 @@ BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpLongParamShouldDisplayHelp) {
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), UserAskedForHelpException);
 }
 
-BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_unexistingDirShortParamShouldDisplayErrorMessage) {
-  const char* argv[] {"thisProgram.exe", "-d", "someUnexistingDir"};
-  BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
-}
-
-BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_unexistingDirLongParamShouldDisplayErrorMessage) {
-  const char* argv[] {"thisProgram.exe", "--historyDir", "someUnexistingDir"};
+BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_historyDirParamShouldBeUnknown) {
+  // the history directory is chosen in the user interface
+  const pt::TmpDir dir {"thisDirExists!!!"};
+  const auto str = dir.string();
+  const char* argv[] {"thisProgram.exe", "-d", str.c_str()};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
@@ -45,12 +43,15 @@ BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_badParamShouldDisplayErrorMessage) {
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_correctParamShouldSucceed) {
-  const pt::TmpDir dir {"thisDirExists!!!"};
-  const auto str = dir.string();
-  const char* argv[] {"thisProgram.exe", "-d", str.c_str()};
-  const auto [oWinamaxDir, oLoggingLevel] = parseProgramArguments(argv);
-  BOOST_REQUIRE(dir.path() == oWinamaxDir.value());
-  BOOST_REQUIRE(false == oLoggingLevel.has_value());
+  const char* argv[] {"thisProgram.exe", "--logLevel", "debug"};
+  const auto oLoggingLevel = parseProgramArguments(argv);
+  BOOST_REQUIRE(oLoggingLevel.has_value());
+  BOOST_REQUIRE(LoggingLevel::debug == oLoggingLevel.value());
+}
+
+BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_noParamShouldSucceed) {
+  const char* argv[] {"thisProgram.exe"};
+  BOOST_REQUIRE(false == parseProgramArguments(argv).has_value());
 }
 
 BOOST_AUTO_TEST_SUITE_END()

@@ -1,5 +1,4 @@
-#include "filesystem/FileUtils.hpp" // std::filesystem::path, std::span
-#include "phud/ProgramArguments.hpp" // ProgramArguments::*, std::string, std::string_view, std::pair, std::optional, toLoggingLevel()
+#include "phud/ProgramArguments.hpp" // std::string_view, std::optional, std::span, toLoggingLevel()
 
 #include "constants/ProgramInfos.hpp" // ProgramInfos::*
 #include "strings/StringLiteral.hpp"
@@ -10,14 +9,10 @@
 #include <format>
 #include <ranges> // std::ranges, std::views
 
-namespace fs = std::filesystem;
 namespace ps = phud::strings;
 
 namespace {
-  constexpr auto USAGE_TEMPLATE =
-      "Usage:\n{} [-d|--historyDir <directory>] "
-      "[-l|--logLevel none|trace|info|warning|error]\n"
-      "Where <directory> is the directory containing the poker site hands history.\n";
+  constexpr auto USAGE_TEMPLATE = "Usage:\n{} [-l|--logLevel none|trace|info|warning|error]\n";
 
   [[nodiscard]] std::string strToLowerCase(std::string_view str) {
     std::string lowerCase;
@@ -59,20 +54,6 @@ getOptionValue(std::span<const char* const> arguments, std::string_view shortOpt
   return {};
 }
 
-[[nodiscard]] static std::optional<fs::path>
-parseHistoryDir(std::span<const char* const> arguments) {
-  if (const auto oDir = getOptionValue(arguments, "-d", "--historyDir"); oDir.has_value()) {
-    if (fs::path p = oDir.value(); phud::filesystem::isDir(p)) {
-      return p;
-    }
-
-    throw ProgramArgumentsException {
-        fmt::format("The directory '{}' does not exist.", oDir.value())};
-  }
-
-  return {};
-}
-
 [[nodiscard]] static std::optional<LoggingLevel>
 parseLoggingLevel(std::span<const char* const> arguments) {
   if (const auto oLogLevel = getOptionValue(arguments, "-l", "--logLevel"); oLogLevel.has_value()) {
@@ -86,7 +67,7 @@ parseLoggingLevel(std::span<const char* const> arguments) {
   return value % 2 != 0;
 }
 
-static constexpr auto KNOWN_ARGS = std::to_array<std::string_view>({"-d", "--historyDir", "-l", "--logLevel"});
+static constexpr auto KNOWN_ARGS = std::to_array<std::string_view>({"-l", "--logLevel"});
 
 [[nodiscard]] static std::vector<std::string_view>
 listUnknownArguments(std::span<const char* const> arguments) {
@@ -103,14 +84,12 @@ listUnknownArguments(std::span<const char* const> arguments) {
  * The phud.exe program takes arguments. This function handles these arguments.
  * - No arguments passed in: typical usage, launches the graphical user interface.
  * - Any number of arguments passed in, one of which is -h or --help: shows a help message.
- * - Else, understands -d or --winamaxDir <dir>: import the history into the database.
- *                     -l or --log_level <log_level> : defines the logging level.
- * @returns the hand history directory, and the logging level
+ * - Else, understands -l or --logLevel <log_level> : defines the logging level.
+ * @returns the logging level, if given
  * @throws UserAskedForHelpException if args contains "-h" or "--help"
  */
 /*[[nodiscard]]*/
-std::pair<std::optional<fs::path>, std::optional<LoggingLevel>>
-parseProgramArguments(std::span<const char* const> args) {
+std::optional<LoggingLevel> parseProgramArguments(std::span<const char* const> args) {
   // NOTE: can't log yet
   const auto programName = gsl::at(args, 0);
   const auto usageMsg = fmt::format(::USAGE_TEMPLATE, programName);
@@ -134,7 +113,7 @@ parseProgramArguments(std::span<const char* const> args) {
     throw ProgramArgumentsException {errMsg};
   }
 
-  return {parseHistoryDir(args), parseLoggingLevel(args)};
+  return parseLoggingLevel(args);
 }
 
 ProgramArgumentsException::ProgramArgumentsException(std::string_view msg)

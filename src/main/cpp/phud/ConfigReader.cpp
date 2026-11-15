@@ -40,16 +40,14 @@ namespace {
       if (!file.lineIsEmpty() and !file.startsWith('#')) {
         if (const auto [key, value] {readKeyValueFromLine(lineNb, file.getLine())};
             !value.empty()) {
-          if (key == "logging.level") {
+          if ("logging.level" == key) {
             try {
               config.loggingLevel = toLoggingLevel(value);
             } catch (const std::exception& e) {
               throw ConfigReaderException(std::format(
                   "Error at line {}: Invalid logging level '{}': {}", lineNb, value, e.what()));
             }
-          } else if (key == "history.directory") {
-            config.historyDirectory = std::filesystem::path(value);
-          } else if (key == "logging.pattern") {
+          } else if ("logging.pattern" == key) {
             config.loggingPattern = value;
           } else {
             throw ConfigReaderException(
@@ -74,9 +72,7 @@ namespace {
       file << "logging.level=info\n\n";
       file << "# Logging pattern (spdlog format): %Y-%m-%d for YYYY-MM-DD, %Y%m%d for YYYYMMDD\n";
       file << "# See https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags\n";
-      file << "logging.pattern=[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v\n\n";
-      file << "# History directory (leave empty if no directory configured)\n";
-      file << "history.directory=\n";
+      file << "logging.pattern=[%Y%m%d %H:%M:%S.%e] [%l] [%t] %v\n";
       file.close();
     } else {
       throw ConfigReaderException(
