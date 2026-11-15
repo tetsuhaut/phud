@@ -12,8 +12,7 @@ class PokerSiteHistory;
 struct TableStatistics;
 
 /**
- * Produces the statistics of the tables displayed by the HUD. It doesn't watch any file: the
- * history is watched by the HistoryService, which calls onHistoryFileSaved() after each save.
+ * Produces the statistics of the tables displayed by the HUD.
  */
 class [[nodiscard]] TableService /*final*/ {
 private:
