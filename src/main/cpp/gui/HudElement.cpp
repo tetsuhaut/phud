@@ -9,7 +9,9 @@ namespace {
 
   constexpr std::string_view NO_DATA {"-"};
 
-  [[nodiscard]] std::string playerName(const PS& ps) { return ps.getPlayerName(); }
+  [[nodiscard]] std::string playerName(const PS& ps) {
+    return ps.getPlayerName();
+  }
 
   template <auto GET_NUMBER>
   [[nodiscard]] std::string number(const PS& ps) {

@@ -76,9 +76,7 @@ TableService::~TableService() {
   try {
     TableService::stopProducingStats();
   } catch (...) {
-    LOG
-        .error<
-            "Unknown Error when stopping the stat production in the TableService destruction.">();
+    LOG.error<"Unknown Error when stopping the stat production in the TableService destruction.">();
   }
 }
 
@@ -126,8 +124,8 @@ void TableService::onHistoryFileSaved(const fs::path& file) {
   };
   const std::scoped_lock lock {m_pImpl->m_mutex};
 
-  for (const auto& table : m_pImpl->m_tables | std::views::values |
-                               std::views::filter(isTableOfThisFile)) {
+  for (const auto& table :
+       m_pImpl->m_tables | std::views::values | std::views::filter(isTableOfThisFile)) {
     if (auto oStats = extractTableStatistics(m_pImpl->m_database, table.tableName)) {
       notify(std::move(*oStats), table.observerCb);
     }

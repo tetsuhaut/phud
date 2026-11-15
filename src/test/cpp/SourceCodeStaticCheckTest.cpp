@@ -292,8 +292,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allHeaderFilesShouldBeIncluded) {
       });
     }
   });
-  std::ranges::for_each(headers,
-                        [](const auto& h) { LOG.warn<"Unused header:\n{}">(h.string()); });
+  std::ranges::for_each(headers, [](const auto& h) { LOG.warn<"Unused header:\n{}">(h.string()); });
 }
 
 static std::vector<fs::path> getIncludes(const fs::path& p) {
@@ -356,8 +355,8 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_nonDeletedConstructorsTakingNoArgShou
       tfl.trim();
 
       if (const auto pos = tfl.find(constructor + "(");
-          pos.has_value() and tfl.startsWith("explicit ") and
-          !tfl.contains(" delete") and (')' == tfl.getLine()[*pos + constructor.size() + 2])) {
+          pos.has_value() and tfl.startsWith("explicit ") and !tfl.contains(" delete") and
+          (')' == tfl.getLine()[*pos + constructor.size() + 2])) {
         LOG.warn<"In {} at line {} the default constructor should not be explicit:{}">(
             file.string(), tfl.getLineIndex(), tfl.getLine());
       }
@@ -373,7 +372,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_destructorShouldNotBeNoExcept) {
     while (tfl.next()) {
       if (tfl.trim().startsWith('~') and tfl.contains(") noexcept")) {
         LOG.warn<"The file '{}' contains a noexcept destructor at line {}.">(file.string(),
-                                                                               tfl.getLineIndex());
+                                                                             tfl.getLineIndex());
       }
     }
   });
@@ -404,14 +403,12 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_useChevronsForLibraryHeadersOnly) {
 
         if (const auto& isOneOfMine {std::ranges::contains(MY_SRC_FILES, include)};
             hasChevrons and isOneOfMine) {
-          LOG
-              .warn<"The non library file '{}' is included in file {} with chevrons instead of "
-                    "double quotes at line {}.">(include.string(), file.string(),
-                                                 tfl.getLineIndex());
+          LOG.warn<"The non library file '{}' is included in file {} with chevrons instead of "
+                   "double quotes at line {}.">(include.string(), file.string(),
+                                                tfl.getLineIndex());
         } else if (!hasChevrons and !isOneOfMine) {
-          LOG
-              .warn<"The library file '{}' is included in file '{}' with double quotes instead of "
-                    "chevrons at line {}.">(include.string(), file.string(), tfl.getLineIndex());
+          LOG.warn<"The library file '{}' is included in file '{}' with double quotes instead of "
+                   "chevrons at line {}.">(include.string(), file.string(), tfl.getLineIndex());
         }
       }
     }
@@ -435,7 +432,7 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_noIncludePathShouldHaveAntiSlashPathS
         if (const auto includePath = extractInclude(tfl.getLine());
             ps::contains(includePath, '\\')) {
           LOG.warn<"The file {} contains an include path '{}' with anti slashes.">(file.string(),
-                                                                                     includePath);
+                                                                                   includePath);
         }
       }
     }
@@ -516,9 +513,8 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_constexprImpliesInline) {
     while (tfl.next()) {
       if (const auto line = tfl.trim().getLine();
           ps::contains(line, "constexpr ") and ps::contains(line, "inline ")) {
-        LOG
-            .warn<"The file {} at line {} contains both the tokens 'constexpr' and 'inline', "
-                  "whereas constexpr implies inline.">(file.string(), tfl.getLineIndex());
+        LOG.warn<"The file {} at line {} contains both the tokens 'constexpr' and 'inline', "
+                 "whereas constexpr implies inline.">(file.string(), tfl.getLineIndex());
       }
     }
   });
@@ -531,9 +527,8 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_StaticInlineIsTheSameAsStatic) {
     while (tfl.next()) {
       if (const auto line = tfl.trim().getLine();
           ps::contains(line, "static ") and ps::contains(line, "inline ")) {
-        LOG
-            .warn<"The file {} at line {} contains both the tokens 'static' and 'inline', whereas "
-                  "inline is useless on static functions.">(file.string(), tfl.getLineIndex());
+        LOG.warn<"The file {} at line {} contains both the tokens 'static' and 'inline', whereas "
+                 "inline is useless on static functions.">(file.string(), tfl.getLineIndex());
       }
     }
   });

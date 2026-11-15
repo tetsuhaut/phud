@@ -35,8 +35,7 @@ private:
     const fs::path filePath(dir + "/" + filename);
 
     const auto actionStr = efsw::Actions::Modified == action ? "Modified" : "Add";
-    LOG.info<"The file {} has changed (action: {}), notify listener">(filePath.string(),
-                                                                        actionStr);
+    LOG.info<"The file {} has changed (action: {}), notify listener">(filePath.string(), actionStr);
 
     // Call user callback in thread-safe manner
     const std::scoped_lock lock(m_callbackMutex);

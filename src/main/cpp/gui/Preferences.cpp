@@ -7,7 +7,7 @@
 #include "constants/ProgramInfos.hpp"
 #include <charconv> // std::from_chars
 #include <cstdlib>  // std::free
-#include <gsl/gsl> // gsl::finally
+#include <gsl/gsl>  // gsl::finally
 
 #include <FL/Fl.H>
 #include <FL/Fl_Preferences.H>

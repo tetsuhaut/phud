@@ -60,8 +60,8 @@ static constexpr std::string_view HERO = "sabre_laser";
                                                             .startDate = date});
   pGame->addHand(std::make_unique<Hand>(handParams));
   auto pSite = std::make_unique<Site>(ProgramInfos::PMU_SITE_NAME);
-  auto pHero = std::make_unique<Player>(Player::Params {
-      .name = HERO, .site = ProgramInfos::PMU_SITE_NAME, .comments = ""});
+  auto pHero = std::make_unique<Player>(
+      Player::Params {.name = HERO, .site = ProgramInfos::PMU_SITE_NAME, .comments = ""});
   pHero->setIsHero(true);
   pSite->addPlayer(std::move(pHero));
   pSite->addPlayer(std::make_unique<Player>(
@@ -120,8 +120,7 @@ BOOST_FIXTURE_TEST_CASE(PlayerStatisticsTest_statsShouldBeComputedByHandOverAllT
 }
 
 BOOST_FIXTURE_TEST_CASE(PlayerStatisticsTest_unknownPlayerShouldHaveNoStats, PreflopStatsFixture) {
-  BOOST_TEST(nullptr ==
-             pDatabase->readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "nobody"));
+  BOOST_TEST(nullptr == pDatabase->readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "nobody"));
 }
 
 BOOST_AUTO_TEST_CASE(PlayerStatisticsTest_statsShouldNotMixSites) {

@@ -12,8 +12,7 @@ namespace {
   constexpr char ITEM_SEPARATOR {';'};
   constexpr char FIELD_SEPARATOR {':'};
   // the saved format is 'id:column:row', kept as is to read the preferences already saved
-  constexpr std::string_view DEFAULT_LAYOUT {
-      "nbHands:0:0;vpip:2:0;pfr:3:0;af:4:0;playerName:0:1"};
+  constexpr std::string_view DEFAULT_LAYOUT {"nbHands:0:0;vpip:2:0;pfr:3:0;af:4:0;playerName:0:1"};
 
   /**
    * @returns the 1st column after the item
@@ -143,8 +142,7 @@ bool HudLayout::canPlace(const HudElement& element, CellPosition position) const
 std::optional<CellPosition> HudLayout::findFreePlace(const HudElement& element) const noexcept {
   for (auto row = 0; piws::nbRows > row; ++row) {
     for (auto column = 0; piws::nbColumns > column; ++column) {
-      if (const CellPosition position {.row = row, .column = column};
-          canPlace(element, position)) {
+      if (const CellPosition position {.row = row, .column = column}; canPlace(element, position)) {
         return position;
       }
     }

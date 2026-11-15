@@ -81,8 +81,7 @@ std::optional<FileStem> parseFileStem(std::string_view fileStem) {
   ret.m_isRealMoney = (fileStem.npos != pos);
 
   if (!ret.m_isRealMoney and (fileStem.npos == fileStem.find("_play_", 9))) [[unlikely]] {
-    LOG.error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(
-        fileStem);
+    LOG.error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(fileStem);
     return ret;
   }
   ret.m_gameName = fileStem.substr(9, pos - 9);
@@ -154,7 +153,7 @@ template <typename GAME_TYPE>
     }
 
     LOG.debug<"Read {} line{} from file {}.">(tfl.getLineIndex(), ps::plural(tfl.getLineIndex()),
-                                                tfl.getFileStem());
+                                              tfl.getFileStem());
   }
 
   return ret;
@@ -183,7 +182,7 @@ template <typename GAME_TYPE>
 std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile,
                                                            PlayerCache& cache) {
   LOG.debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
-                                                      gameHistoryFile.filename().string());
+                                                    gameHistoryFile.filename().string());
   const auto fileStem = gameHistoryFile.stem().string();
 
   if (12 > fileStem.size()) {
@@ -199,8 +198,7 @@ std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameH
   }
 
   if (fileStem.npos == fileStem.find("_real_", 9) and fileStem.npos == fileStem.find("_play_", 9)) {
-    LOG.error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(
-        fileStem);
+    LOG.error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(fileStem);
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 

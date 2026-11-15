@@ -16,7 +16,7 @@
 #if defined(_WIN32)
 #  include <dwmapi.h> // DwmSetWindowAttribute
 #  include <tuple>    // std::ignore
-#endif // _WIN32
+#endif                // _WIN32
 
 void matchTitleBarToBackground([[maybe_unused]] const Fl_Window& window) {
 #if defined(_WIN32)

@@ -41,8 +41,8 @@ public:
 
   /**
    * Imports in the background every file of <dir>/history. The files are read in parallel, and each
-   * one is saved as soon as it is read, in its own transaction: stopImportingHistory() returns after
-   * the file being saved, and keeps the files already saved.
+   * one is saved as soon as it is read, in its own transaction: stopImportingHistory() returns
+   * after the file being saved, and keeps the files already saved.
    * @param dir Directory containing history files
    * @param onProgress Callback called for each file processed, saved or not
    * @param onSetNbFiles Callback called when total file count is known

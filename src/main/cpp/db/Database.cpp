@@ -15,7 +15,7 @@
 #include "statistics/HandPlayerStats.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
-#include "threads/ThreadPool.hpp" // ThreadPool, Future
+#include "threads/ThreadPool.hpp"        // ThreadPool, Future
 #include <gsl/gsl>                       // gsl::not_null
 #include <sqlite3.h>                     // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await
@@ -81,7 +81,7 @@ namespace {
 
     if (isDbCreation) {
       LOG.info<"Creating the database {}">(IN_MEMORY == name ? "in memory"
-                                                               : pf::absolute(dbFile).string());
+                                                             : pf::absolute(dbFile).string());
     } else {
       LOG.info<"Opening the existing database file {}, no schema created.">(
           pf::absolute(dbFile).string());
@@ -159,8 +159,8 @@ namespace {
 
     const PreparedInsert& text(std::string_view value) const {
       const auto [pStatement, position] = nextBinding();
-      require(sqlite3_bind_text(pStatement, position, value.data(),
-                                static_cast<int>(value.size()), SQLITE_STATIC),
+      require(sqlite3_bind_text(pStatement, position, value.data(), static_cast<int>(value.size()),
+                                SQLITE_STATIC),
               SQLITE_OK, "bind a value of");
       return *this;
     }
@@ -234,7 +234,8 @@ namespace {
 
   void insertGame(const PreparedInsert& insert, const auto& game) {
     const auto startDate = game.getStartDate().toSqliteDate(); // must live until execute()
-    insert.text(game.getId()) // use the tournament ID for the Game
+    insert
+        .text(game.getId()) // use the tournament ID for the Game
         .text(game.getSiteName())
         .text(game.getName())
         .text(toString(game.getVariant()))
@@ -290,8 +291,8 @@ namespace {
     };
 
     // we suppose the Player has been saved before this call
-    for (const auto& [index, playerName] : seats | std::views::enumerate |
-                                               std::views::filter(isSeated)) {
+    for (const auto& [index, playerName] :
+         seats | std::views::enumerate | std::views::filter(isSeated)) {
       insert.text(hand.getId())
           .text(playerName)
           .text(tableSeat::toString(tableSeat::fromArrayIndex(index)))
@@ -358,9 +359,8 @@ namespace {
     insertGame(inserts.game, game);
     insertSpecificGame(inserts, game);
     LOG.debug<"saving {} hands from the game with id={}">(hands.size(), gameId);
-    std::ranges::for_each(hands, [&inserts, &gameId](const auto* pHand) {
-      saveHand(inserts, gameId, *pHand);
-    });
+    std::ranges::for_each(
+        hands, [&inserts, &gameId](const auto* pHand) { saveHand(inserts, gameId, *pHand); });
   }
 } // anonymous namespace
 
@@ -624,24 +624,23 @@ readTableStatisticsQuery(PreparedStatement& p) {
     const auto pfr = p.getColumnAsDouble(6);
     const auto nbHands = p.getColumnAsInt(7);
     if (playerSeat != Seat::seatUnknown) {
-      playerStats.at(tableSeat::toArrayIndex(playerSeat)) =
-          std::make_unique<PlayerStatistics>(PlayerStatistics::Params {
-              .playerName = playerName,
-              .siteName = siteName,
-              .isHero = isHero,
-              .nbHands = nbHands,
-              .vpip = vpip,
-              .pfr = pfr,
-              .limp = p.getColumnAsDouble(8),
-              .nbFacedRaise = p.getColumnAsInt(9),
-              .foldToRaise = p.getColumnAsDouble(10),
-              .callRaise = p.getColumnAsDouble(11),
-              .threeBet = p.getColumnAsDouble(12),
-              .squeeze = p.getColumnAsDouble(13),
-              .nbFacedThreeBet = p.getColumnAsInt(14),
-              .foldToThreeBet = p.getColumnAsDouble(15),
-              .callThreeBet = p.getColumnAsDouble(16),
-              .fourBet = p.getColumnAsDouble(17)});
+      playerStats.at(tableSeat::toArrayIndex(playerSeat)) = std::make_unique<PlayerStatistics>(
+          PlayerStatistics::Params {.playerName = playerName,
+                                    .siteName = siteName,
+                                    .isHero = isHero,
+                                    .nbHands = nbHands,
+                                    .vpip = vpip,
+                                    .pfr = pfr,
+                                    .limp = p.getColumnAsDouble(8),
+                                    .nbFacedRaise = p.getColumnAsInt(9),
+                                    .foldToRaise = p.getColumnAsDouble(10),
+                                    .callRaise = p.getColumnAsDouble(11),
+                                    .threeBet = p.getColumnAsDouble(12),
+                                    .squeeze = p.getColumnAsDouble(13),
+                                    .nbFacedThreeBet = p.getColumnAsInt(14),
+                                    .foldToThreeBet = p.getColumnAsDouble(15),
+                                    .callThreeBet = p.getColumnAsDouble(16),
+                                    .fourBet = p.getColumnAsDouble(17)});
     } else {
       LOG.warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
     }

@@ -75,8 +75,8 @@ namespace {
     const auto readNextFile = [&pendingReads, &nextFile, &pHistory]() {
       // Site* and not std::unique_ptr<Site>, as a stlab future result must be copyable
       pendingReads.emplace_back(*nextFile, ThreadPool::submit([pHistory, file = *nextFile]() {
-                                  return pHistory->reloadFile(file).release();
-                                }));
+        return pHistory->reloadFile(file).release();
+      }));
       ++nextFile;
     };
     const auto nbFilesReadInAdvance = getNbFilesReadInAdvance();
@@ -131,9 +131,8 @@ HistoryService::~HistoryService() {
     stopWatchingHistory();
     HistoryService::stopImportingHistory();
   } catch (...) {
-    LOG
-        .error<
-            "Unknown Error when stopping the history import in the HistoryService destruction.">();
+    LOG.error<
+        "Unknown Error when stopping the history import in the HistoryService destruction.">();
   }
 }
 
@@ -154,7 +153,7 @@ void HistoryService::importHistory(const fs::path& dir, const std::function<void
         try {
           const auto files = pf::listTxtFilesInDir(dir / "history");
           LOG.info<"Importing the {} files of the history directory '{}'">(files.size(),
-                                                                             dir.string());
+                                                                           dir.string());
 
           if (onSetNbFiles and !files.empty()) {
             onSetNbFiles(files.size());
@@ -193,11 +192,10 @@ void HistoryService::importFilesModifiedSince(const fs::path& dir,
 
   m_pImpl->m_stopImports = false;
   m_pImpl->m_catchUpTask = ThreadPool::submit([this, pHistory, dir, since, onFileSaved, onDone]() {
-    const auto files = pf::listTxtFilesInDir(dir / "history") |
-                       std::views::filter([since](const auto& f) {
-                         return wasModifiedAfter(f, since);
-                       }) |
-                       std::ranges::to<std::vector>();
+    const auto files =
+        pf::listTxtFilesInDir(dir / "history") |
+        std::views::filter([since](const auto& f) { return wasModifiedAfter(f, since); }) |
+        std::ranges::to<std::vector>();
     LOG.info<"Importing {} history files modified since the last check">(files.size());
     readAndSaveFiles(pHistory, m_pImpl->m_database, files, m_pImpl->m_stopImports,
                      [&onFileSaved](const fs::path& file, bool isSaved) {

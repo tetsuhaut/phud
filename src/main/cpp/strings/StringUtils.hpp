@@ -62,4 +62,3 @@ namespace phud::strings {
     return (c >= 'A' && c <= 'Z') ? (c + ('a' - 'A')) : (c);
   }
 } // namespace phud::strings
-

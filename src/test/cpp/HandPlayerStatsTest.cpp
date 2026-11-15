@@ -19,9 +19,10 @@ namespace pt = phud::test;
  * @returns the stats of each hand of Winamax/preflopStats/history/<fileName>, in the file order.
  * The hands are detailed in TableStatisticsTest.cpp.
  */
-[[nodiscard]] static std::vector<std::vector<HandPlayerStats>> readHands(std::string_view fileName) {
-  const auto file = pt::getFileFromTestResources(
-      std::format("Winamax/preflopStats/history/{}", fileName));
+[[nodiscard]] static std::vector<std::vector<HandPlayerStats>>
+readHands(std::string_view fileName) {
+  const auto file =
+      pt::getFileFromTestResources(std::format("Winamax/preflopStats/history/{}", fileName));
   const auto pSite = WinamaxGameHistory::parseGameHistory(file);
   BOOST_REQUIRE(nullptr != pSite);
   BOOST_REQUIRE(1 == pSite->viewCashGames().size());

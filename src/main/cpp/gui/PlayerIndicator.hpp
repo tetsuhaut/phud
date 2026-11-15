@@ -15,7 +15,7 @@ class PlayerStatistics;
  */
 class [[nodiscard]] PlayerIndicator final : public DragAndDropWindow {
 private:
-  HudLayout m_layout; // how elements are positionned on the PlayerIndicator window
+  HudLayout m_layout;              // how elements are positionned on the PlayerIndicator window
   std::vector<Fl_Box*> m_boxes {}; // one for each item of m_layout, owned by this window
   std::string m_playerName;
   std::unique_ptr<PlayerStatistics> m_pStats {nullptr};

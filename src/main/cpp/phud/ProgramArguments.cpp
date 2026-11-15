@@ -73,10 +73,9 @@ static constexpr auto KNOWN_ARGS = std::to_array<std::string_view>({"-l", "--log
 listUnknownArguments(std::span<const char* const> arguments) {
   std::vector<std::string_view> ret;
   auto index = 0;
-  std::ranges::copy_if(
-      arguments, std::back_inserter(ret), [&index](auto arg) {
-        return isOdd(index++) and (std::end(::KNOWN_ARGS) == std::ranges::find(KNOWN_ARGS, arg));
-      });
+  std::ranges::copy_if(arguments, std::back_inserter(ret), [&index](auto arg) {
+    return isOdd(index++) and (std::end(::KNOWN_ARGS) == std::ranges::find(KNOWN_ARGS, arg));
+  });
   return ret;
 }
 
@@ -109,7 +108,8 @@ std::optional<LoggingLevel> parseProgramArguments(std::span<const char* const> a
     std::ranges::for_each(badArgs,
                           [&argsList](const auto& arg) { argsList.append(arg).append(", "); });
     argsList = argsList.substr(0, argsList.size() - ps::length(", "));
-    const auto errMsg = fmt::format("Unknown argument{}: {}\n{}", ps::plural(badArgs.size()), argsList, usageMsg);
+    const auto errMsg =
+        fmt::format("Unknown argument{}: {}\n{}", ps::plural(badArgs.size()), argsList, usageMsg);
     throw ProgramArgumentsException {errMsg};
   }
 

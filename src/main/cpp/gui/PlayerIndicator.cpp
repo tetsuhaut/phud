@@ -1,4 +1,4 @@
-#include "gui/HudElement.hpp" // formatHudElement
+#include "gui/HudElement.hpp"                      // formatHudElement
 #include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface
 #include "gui/PlayerIndicator.hpp" // Fl_Double_Window, HudLayout, std::string, std::string_view
 #include "log/Logger.hpp"          // fmt::*, Logger, CURRENT_FILE_NAME
@@ -23,18 +23,18 @@ static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::string_view playerName,
                                  const HudLayout& layout)
-  : DragAndDropWindow(
-        {.x = position.first,
-         .y = position.second,
-         .w = layout.getWidth(),
-         .h = layout.getHeight()},
-        "",
-        // Callback called when the user moves manually the PlayerIndicator
-        [this](int newX, int newY) {
-          m_userOffsetX = newX - m_basePosition.first;
-          m_userOffsetY = newY - m_basePosition.second;
-          LOG.debug<"User moved PlayerIndicator, offset: ({}, {})">(m_userOffsetX, m_userOffsetY);
-        }),
+  : DragAndDropWindow({.x = position.first,
+                       .y = position.second,
+                       .w = layout.getWidth(),
+                       .h = layout.getHeight()},
+                      "",
+                      // Callback called when the user moves manually the PlayerIndicator
+                      [this](int newX, int newY) {
+                        m_userOffsetX = newX - m_basePosition.first;
+                        m_userOffsetY = newY - m_basePosition.second;
+                        LOG.debug<"User moved PlayerIndicator, offset: ({}, {})">(m_userOffsetX,
+                                                                                  m_userOffsetY);
+                      }),
     m_layout {layout},
     m_playerName {playerName},
     m_basePosition {position} {
@@ -55,9 +55,9 @@ void PlayerIndicator::buildBoxes() {
   begin();
 
   for (const auto& item : m_layout.getItems()) {
-    auto* const pBox = new Fl_Box(item.position.column * piws::cellWidth,
-                                  item.position.row * piws::cellHeight,
-                                  item.pElement->widthInCells * piws::cellWidth, piws::cellHeight);
+    auto* const pBox =
+        new Fl_Box(item.position.column * piws::cellWidth, item.position.row * piws::cellHeight,
+                   item.pElement->widthInCells * piws::cellWidth, piws::cellHeight);
     pBox->labelsize(piws::fontSize);
     pBox->align(FL_ALIGN_CENTER | FL_ALIGN_INSIDE | FL_ALIGN_CLIP);
     m_boxes.push_back(pBox);

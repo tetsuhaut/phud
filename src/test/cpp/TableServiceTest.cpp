@@ -27,7 +27,9 @@ namespace {
     }
 
     [[nodiscard]] TableService::TableObserverCallback observer() {
-      return [this](TableStatistics&& ts) { notifiedTables.emplace_back(ts.getTable()); };
+      return [this](TableStatistics&& ts) {
+        notifiedTables.emplace_back(ts.getTable());
+      };
     }
 
     void saved(std::string_view fileName) {

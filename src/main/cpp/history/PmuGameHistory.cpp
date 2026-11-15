@@ -69,7 +69,7 @@ template <typename GAME_TYPE>
   }
 
   LOG.debug<"Read {} line{} from file {}.">(tf.getLineIndex(), ps::plural(tf.getLineIndex()),
-                                              tf.getFileStem());
+                                            tf.getFileStem());
   return ret;
 }
 
@@ -98,6 +98,6 @@ template <typename GAME_TYPE>
 
 std::unique_ptr<Site> PmuGameHistory::parseGameHistory(const fs::path& gameHistoryFile) {
   LOG.debug<"Parsing the {} game history file {}.">(ProgramInfos::PMU_SITE_NAME,
-                                                      gameHistoryFile.filename().string());
+                                                    gameHistoryFile.filename().string());
   return handleGame<CashGame>(gameHistoryFile);
 }

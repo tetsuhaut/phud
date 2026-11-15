@@ -4,7 +4,7 @@
 #include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface
 #include "gui/Rectangle.hpp"                       // phud::Rectangle
 #include "gui/TitleBar.hpp"
-#include <algorithm>                               // std::clamp, std::ranges::for_each
+#include <algorithm> // std::clamp, std::ranges::for_each
 #include <format>
 #include <gsl/gsl> // gsl::not_null
 
@@ -112,10 +112,9 @@ namespace {
      * @returns the cell under the mouse.
      */
     [[nodiscard]] CellPosition eventCell() const {
-      return {
-          .row = std::clamp((Fl::event_y() - y()) / PREVIEW_CELL_HEIGHT, 0, piws::nbRows - 1),
-          .column =
-              std::clamp((Fl::event_x() - x()) / PREVIEW_CELL_WIDTH, 0, piws::nbColumns - 1)};
+      return {.row = std::clamp((Fl::event_y() - y()) / PREVIEW_CELL_HEIGHT, 0, piws::nbRows - 1),
+              .column =
+                  std::clamp((Fl::event_x() - x()) / PREVIEW_CELL_WIDTH, 0, piws::nbColumns - 1)};
     }
 
     void drawGrid() const {
@@ -146,8 +145,7 @@ namespace {
       const auto [tx, ty, tw, th] = toRectangle(x(), y(), *m_pSelected, m_target);
       const auto isValid = m_layout.canPlace(*m_pSelected, m_target);
       fl_rect(tx, ty, tw, th, isValid ? VALID_TARGET_COLOR : INVALID_TARGET_COLOR);
-      fl_rect(tx + 1, ty + 1, tw - 2, th - 2,
-              isValid ? VALID_TARGET_COLOR : INVALID_TARGET_COLOR);
+      fl_rect(tx + 1, ty + 1, tw - 2, th - 2, isValid ? VALID_TARGET_COLOR : INVALID_TARGET_COLOR);
     }
 
     void onPush() {
@@ -236,8 +234,8 @@ namespace {
    * @returns the text of the element in the list, with the formatting of Fl_Browser.
    */
   [[nodiscard]] std::string toListLine(const HudElement& element, const HudLayout& layout) {
-    return std::format("{}{}{}", layout.contains(element) ? "@b" : "",
-                       hasData(element) ? "" : "@i", element.name);
+    return std::format("{}{}{}", layout.contains(element) ? "@b" : "", hasData(element) ? "" : "@i",
+                       element.name);
   }
 
   [[nodiscard]] std::string toDescription(const HudElement& element) {
@@ -272,9 +270,8 @@ struct [[nodiscard]] HudEditor::Implementation final {
     m_list = new Fl_Hold_Browser(lx, ly, lw, lh);
     m_list->when(FL_WHEN_RELEASE_ALWAYS);
     m_list->callback(onListChanged, this);
-    std::ranges::for_each(getHudElements(), [this](const auto& e) {
-      m_list->add(std::string(e.name).c_str());
-    });
+    std::ranges::for_each(getHudElements(),
+                          [this](const auto& e) { m_list->add(std::string(e.name).c_str()); });
 
     const auto [hx, hy, hw, hh] = HINT;
     auto* const pHint = new Fl_Box(hx, hy, hw, hh, HINT_TEXT);
@@ -291,8 +288,7 @@ struct [[nodiscard]] HudEditor::Implementation final {
     m_addBtn->callback(onAdd, this);
     m_removeBtn = newButton(HINT.x + BUTTON_WIDTH + SPACE, EDIT_BUTTONS_Y, "Remove");
     m_removeBtn->callback(onRemove, this);
-    newButton(HINT.x + HINT.w - BUTTON_WIDTH, EDIT_BUTTONS_Y, "Default")
-        ->callback(onDefault, this);
+    newButton(HINT.x + HINT.w - BUTTON_WIDTH, EDIT_BUTTONS_Y, "Default")->callback(onDefault, this);
     newButton(HINT.x + HINT.w - 2 * BUTTON_WIDTH - SPACE, VALIDATION_BUTTONS_Y, "OK")
         ->callback(onOk, this);
     newButton(HINT.x + HINT.w - BUTTON_WIDTH, VALIDATION_BUTTONS_Y, "Cancel")

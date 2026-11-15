@@ -34,9 +34,8 @@ BOOST_AUTO_TEST_CASE(HudElementTest_idsShouldBeUnique) {
 
 BOOST_AUTO_TEST_CASE(HudElementTest_everyElementShouldFitInTheGridAtTheSameTime) {
   auto nbCells {0};
-  std::ranges::for_each(getHudElements(), [&nbCells](const HudElement& element) {
-    nbCells += element.widthInCells;
-  });
+  std::ranges::for_each(getHudElements(),
+                        [&nbCells](const HudElement& element) { nbCells += element.widthInCells; });
   BOOST_TEST(piws::nbColumns * piws::nbRows >= nbCells);
 }
 

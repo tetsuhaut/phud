@@ -28,8 +28,8 @@ struct SimpleTHistoFixture {
   }
 };
 
-static void assertStats(const PlayerStatistics* pStats, std::string_view name, int nbHands, int vpip,
-                        int pfr) {
+static void assertStats(const PlayerStatistics* pStats, std::string_view name, int nbHands,
+                        int vpip, int pfr) {
   BOOST_REQUIRE(nullptr != pStats);
   BOOST_TEST(name == pStats->getPlayerName());
   BOOST_TEST(nbHands == pStats->getNbHands());

@@ -68,8 +68,8 @@ BOOST_AUTO_TEST_CASE(HudLayoutTest_addShouldUseTheFirstFreePlace) {
   BOOST_REQUIRE(layout.addElement(get("vpip")));
   const auto* const pItem = layout.find(get("vpip"));
   BOOST_REQUIRE(nullptr != pItem);
-  BOOST_TEST((CellPosition {.row = 0, .column = get("playerName").widthInCells} ==
-              pItem->position));
+  BOOST_TEST(
+      (CellPosition {.row = 0, .column = get("playerName").widthInCells} == pItem->position));
 }
 
 BOOST_AUTO_TEST_CASE(HudLayoutTest_addingTwiceShouldBeRefused) {

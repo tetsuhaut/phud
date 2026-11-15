@@ -404,7 +404,7 @@ namespace {
       LOG.debug<"Checking seat {}">(seatStr);
       if (auto ps {tableStatistics.extractPlayerStatistics(seat)}; nullptr != ps) {
         LOG.debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(),
-                                                                              seatStr);
+                                                                            seatStr);
         const auto rotatedSeat =
             gui::rotateRelativeToHero(seat, heroSeat, tableStatistics.getMaxSeat());
         const auto pos = gui::buildPlayerIndicatorPosition(
@@ -455,28 +455,28 @@ namespace {
   TableService::TableObserverCallback
   buildTableObserver(TableWindowTitleToTablePlayerIndicators& playerIndicators,
                      std::string_view tableWindowTitle, const HudLayout& layout) {
-    return [&playerIndicators, &layout,
-            title = std::string(tableWindowTitle)](TableStatistics&& ts) {
-      LOG.debug<"Observer called for table '{}'">(ts.getTable());
-      LOG.debug<"About to schedule UI task for table '{}'">(ts.getTable());
-      scheduleUITask([&playerIndicators, &layout, title, stats = std::move(ts)]() mutable {
-        LOG.debug<"Scheduled UI task executing for table window '{}'">(title);
+    return
+        [&playerIndicators, &layout, title = std::string(tableWindowTitle)](TableStatistics&& ts) {
+          LOG.debug<"Observer called for table '{}'">(ts.getTable());
+          LOG.debug<"About to schedule UI task for table '{}'">(ts.getTable());
+          scheduleUITask([&playerIndicators, &layout, title, stats = std::move(ts)]() mutable {
+            LOG.debug<"Scheduled UI task executing for table window '{}'">(title);
 
-        if (const auto tableRect = mswindows::getTableWindowRectangle(title)) {
-          LOG.debug<"Found table window '{}'">(title);
-          // Update PlayerIndicators with real statistics
-          if (playerIndicators.contains(title)) {
-            LOG.debug<"Updating player indicators for table window '{}'">(title);
-            updateTablePlayerIndicators(playerIndicators[title], *tableRect, std::move(stats),
-                                        layout);
-          } else {
-            LOG.warn<"Player indicators not found for table '{}'">(title);
-          }
-        } else {
-          LOG.warn<"Could not get window rect for table window '{}'">(title);
-        }
-      });
-    };
+            if (const auto tableRect = mswindows::getTableWindowRectangle(title)) {
+              LOG.debug<"Found table window '{}'">(title);
+              // Update PlayerIndicators with real statistics
+              if (playerIndicators.contains(title)) {
+                LOG.debug<"Updating player indicators for table window '{}'">(title);
+                updateTablePlayerIndicators(playerIndicators[title], *tableRect, std::move(stats),
+                                            layout);
+              } else {
+                LOG.warn<"Player indicators not found for table '{}'">(title);
+              }
+            } else {
+              LOG.warn<"Could not get window rect for table window '{}'">(title);
+            }
+          });
+        };
   }
 
   void updateUsefulPlayerIndicators(TableWindowTitleToTablePlayerIndicators& playerIndicators,
@@ -539,7 +539,9 @@ namespace {
   }
 
   [[nodiscard]] HistoryService::FileSavedCallback buildOnHistoryFileSaved(TableService& service) {
-    return [&service](const fs::path& file) { service.onHistoryFileSaved(file); };
+    return [&service](const fs::path& file) {
+      service.onHistoryFileSaved(file);
+    };
   }
 
   /**
@@ -641,8 +643,8 @@ namespace {
     }
   }
 
-  void handleDirectoryChoice(Gui::Implementation& self,
-                             const Fl_Native_File_Chooser& dirChoser, FileChoiceStatus fcs) {
+  void handleDirectoryChoice(Gui::Implementation& self, const Fl_Native_File_Chooser& dirChoser,
+                             FileChoiceStatus fcs) {
     switch (fcs) {
       case FileChoiceStatus::ok:
         onHistoryDirChosen(dirChoser.filename(), self);
@@ -787,9 +789,8 @@ namespace {
   [[nodiscard]] std::unique_ptr<TableWatcher> buildTableWatcher(Gui::Implementation& self) {
     const TableWatcher::TableWindowsDetectedCallback onTableWindowsDetectedCb =
         [&self](std::span<const std::string> tableWindowTitles) {
-          scheduleUITask([&self, twt = toVector(tableWindowTitles)]() {
-            onTableWindowsDetected(self, twt);
-          });
+          scheduleUITask(
+              [&self, twt = toVector(tableWindowTitles)]() { onTableWindowsDetected(self, twt); });
         };
 
     return std::make_unique<TableWatcher>(onTableWindowsDetectedCb);
@@ -846,8 +847,8 @@ int Gui::run() {
   m_pImpl->m_mainWindow->show(); // display the main window
   // the title bar exists only once the window is shown
   matchTitleBarToBackground(*m_pImpl->m_mainWindow);
-  Fl::lock(); // enable multi-thread support
-  return Fl::run();              // listen to awake() calls
+  Fl::lock();       // enable multi-thread support
+  return Fl::run(); // listen to awake() calls
 }
 
 // BUG : filtrer plus la validation du répertoire de l'historique

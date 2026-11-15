@@ -255,10 +255,11 @@ struct [[nodiscard]] ActionParams final {
   } else if (const auto pos = line.find(" collected "); line.npos != pos) {
     static constexpr auto lengthC = std::size(" collected ") - 1;
     const auto rawAmount = line.substr(pos + lengthC, line.find(" from ") - pos - lengthC);
-    ret = {.m_playerName = line.substr(0, pos),
-           .m_type = ActionType::win,
+    ret = {
+        .m_playerName = line.substr(0, pos),
+        .m_type = ActionType::win,
         // strip any trailing currency symbol (e.g. '€'), which may be absent or multi-byte in UTF-8
-           .m_bet = ps::toAmount(rawAmount.substr(0, rawAmount.find_last_of("0123456789") + 1))};
+        .m_bet = ps::toAmount(rawAmount.substr(0, rawAmount.find_last_of("0123456789") + 1))};
   }
 
   return ret;
@@ -276,11 +277,12 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
 
     if (const auto oActionParams = parseLineForActionParams(line); oActionParams.has_value()) {
       const auto [playerName, type, bet] {oActionParams.value()};
-      actions.push_back(std::make_unique<Action>(Action::Params {.playerName = playerName,
-                                                                 .street = street,
-                                                                 .type = type,
-                                                                 .actionIndex = startIndex + actions.size(),
-                                                                 .amount = bet}));
+      actions.push_back(
+          std::make_unique<Action>(Action::Params {.playerName = playerName,
+                                                   .street = street,
+                                                   .type = type,
+                                                   .actionIndex = startIndex + actions.size(),
+                                                   .amount = bet}));
     }
 
     tf.next(); // nothing to do for 'shows' action
@@ -289,8 +291,7 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
   return actions;
 }
 
-[[nodiscard]] static std::vector<std::unique_ptr<Action>>
-parseActionsAndWinners(TextFile& tf) {
+[[nodiscard]] static std::vector<std::unique_ptr<Action>> parseActionsAndWinners(TextFile& tf) {
   LOG.debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;
   auto currentStreet = Street::none;
@@ -381,12 +382,11 @@ WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf, PlayerCache& pc
   const auto& [buyIn, level, date,
                handId] {getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine())};
   auto pHand = getHand(GameType::tournament, tf, pc, level, date, handId);
-  return {std::move(pHand),
-          std::make_unique<GameData>(GameData::Args {
-                                                     .startDate = pHand->getStartDate(),
-                                                     .smallBlind = 0,
-                                                     .bigBlind = 0,
-                                                     .buyIn = buyIn,
-                                                     .nbMaxSeats = pHand->getMaxSeats(),
-                                                   })};
+  return {std::move(pHand), std::make_unique<GameData>(GameData::Args {
+                                .startDate = pHand->getStartDate(),
+                                .smallBlind = 0,
+                                .bigBlind = 0,
+                                .buyIn = buyIn,
+                                .nbMaxSeats = pHand->getMaxSeats(),
+                            })};
 }

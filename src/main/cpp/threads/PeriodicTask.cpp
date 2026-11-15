@@ -39,7 +39,7 @@ void PeriodicTask::stop() const {
       m_pImpl->m_stop = true;
       m_pImpl->m_cv.notify_all(); // noexcept
     }
-    join(); // can throw :(
+    join();                              // can throw :(
     m_pImpl->m_futureTaskResult.reset(); // noexcept
   }
 }

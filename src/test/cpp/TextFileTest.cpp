@@ -88,9 +88,9 @@ BOOST_AUTO_TEST_CASE(TextFileTest_containsExactShouldOnlyMatchWholeTokens) {
   TextFile tf {file.path()};
   BOOST_REQUIRE(tf.next());
 
-  BOOST_REQUIRE(tf.containsExact("folds"));  // token found at the end of the line
-  BOOST_REQUIRE(!tf.containsExact("fold"));  // followed by 's' -> not an exact token
-  BOOST_REQUIRE(!tf.containsExact("xyz"));   // not present at all
+  BOOST_REQUIRE(tf.containsExact("folds")); // token found at the end of the line
+  BOOST_REQUIRE(!tf.containsExact("fold")); // followed by 's' -> not an exact token
+  BOOST_REQUIRE(!tf.containsExact("xyz"));  // not present at all
 }
 
 BOOST_AUTO_TEST_CASE(TextFileTest_containsOneOfShouldSucceed) {

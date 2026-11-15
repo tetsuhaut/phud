@@ -95,28 +95,30 @@ namespace {
 
       // Use std::span to create a view of the current batch
       const auto batch = std::span(files).subspan(batchStart, currentBatchSize);
-      const auto whileNotStopped = [&stop](const auto&) { return !stop; };
+      const auto whileNotStopped = [&stop](const auto&) {
+        return !stop;
+      };
 
       for (const auto& file : batch | std::views::take_while(whileNotStopped)) {
-        batchTasks.push_back(ThreadPool::submit([file, onProgress, aStop = std::ref(stop),
-                                                 &sharedCache]() {
-          Site* pSite = nullptr;
+        batchTasks.push_back(
+            ThreadPool::submit([file, onProgress, aStop = std::ref(stop), &sharedCache]() {
+              Site* pSite = nullptr;
 
-          try {
-            // Use shared cache to avoid creating duplicate players
-            pSite = WinamaxGameHistory::parseGameHistory(file, sharedCache).release();
-          } catch (const std::exception& e) {
-            LOG.error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
-          } catch (const char* str) {
-            LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
-          }
+              try {
+                // Use shared cache to avoid creating duplicate players
+                pSite = WinamaxGameHistory::parseGameHistory(file, sharedCache).release();
+              } catch (const std::exception& e) {
+                LOG.error<"Exception loading the file {}: {}">(file.filename().string(), e.what());
+              } catch (const char* str) {
+                LOG.error<"Exception loading the file {}: {}">(file.filename().string(), str);
+              }
 
-          if (!aStop.get() and onProgress) {
-            onProgress();
-          }
+              if (!aStop.get() and onProgress) {
+                onProgress();
+              }
 
-          return pSite;
-        }));
+              return pSite;
+            }));
       } // for
 
       // Wait for current batch to complete before starting next batch
@@ -259,7 +261,7 @@ WinamaxHistory::getTableNameFromTableWindowTitle(std::string_view tableWindowTit
   // Extract table name using existing logic
   const auto pos = workingTitle.find('#');
   return (workingTitle.npos == pos) ? workingTitle.substr(0, workingTitle.find(" / "))
-                         : workingTitle.substr(0, pos);
+                                    : workingTitle.substr(0, pos);
 }
 
 std::optional<fs::path>
@@ -278,7 +280,7 @@ WinamaxHistory::getHistoryFileFromTableWindowTitle(const fs::path& dir,
     std::ranges::sort(files, pf::PathModificationTimeComparator {});
   }
   const auto candidate = files.back();
-  LOG.info<"Found {} history files for table '{}', using most recent: {}">(
-      files.size(), tableName, candidate.string());
+  LOG.info<"Found {} history files for table '{}', using most recent: {}">(files.size(), tableName,
+                                                                           candidate.string());
   return std::optional<fs::path> {candidate};
 }

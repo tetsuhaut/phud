@@ -120,8 +120,8 @@ int main(int argc, const char* const* const argv) {
     std::signal(SIGABRT, logErrorAndAbort);
     std::signal(SIGINT, logErrorAndAbort);
     LOG.info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
-    LOG.info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}">(
-        toString(loggingLevel), loggingPattern);
+    LOG.info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}">(toString(loggingLevel),
+                                                                            loggingPattern);
     Database db(ProgramInfos::DATABASE_NAME);
     TableService tableService(db);
     HistoryService handService(db);
@@ -134,7 +134,7 @@ int main(int argc, const char* const* const argv) {
     std::print("{}", e.what());
   } catch (const ProgramArgumentsException& e) {
     // the logging framework is not initialized yet
-    std::println(stderr , "{}", e.what());
+    std::println(stderr, "{}", e.what());
     ++nbErr;
   } catch (const PhudException& e) {
     // now the logging framework is initialized
