@@ -224,13 +224,12 @@ VALUES (
    * param actionIndex as int
    * param amount as double
    */
+  // a prepared statement: the values are bound by position, see ActionInsertStatement
   static constexpr std::string_view INSERT_ACTION = R"raw(
 INSERT OR IGNORE INTO Action (
   street, handId, playerName, actionType, actionIndex, amount
 )
-VALUES (
-  '?street', '?handId', '?playerName', '?actionType', ?actionIndex, ?amount
-);
+VALUES (?1, ?2, ?3, ?4, ?5, ?6);
 )raw";
 
   static constexpr std::string_view INSERT_PLAYER = R"raw(

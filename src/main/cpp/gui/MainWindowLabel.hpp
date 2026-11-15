@@ -17,7 +17,6 @@ namespace MainWindow::Label {
   constexpr std::string_view reimportHistoryMenu {"&File/&Reimport history"};
   constexpr std::string_view noHistoryDirToReimport {"Choose a history directory first"};
   constexpr std::string_view importInProgress {"An import is already in progress"};
-  constexpr std::string_view savingIntoDatabase {"Saving into the database..."};
   constexpr std::string_view historyImported {"History imported"};
   constexpr std::string_view customizeHudMenu {"&HUD/&Customize..."};
   constexpr std::string_view invalidChoice {

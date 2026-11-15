@@ -91,6 +91,24 @@ BOOST_AUTO_TEST_CASE(HistoryServiceTest_catchUpShouldImportOnlyTheFilesModifiedS
   BOOST_TEST(!hasStats(db, "Autreville"));
 }
 
+BOOST_AUTO_TEST_CASE(HistoryServiceTest_importShouldSaveEveryFile) {
+  const auto tb = TimeBomb::create(TB_PERIOD, "HistoryServiceTest_import");
+  const pt::TmpDir dir("HistoryServiceTest_import");
+  copyHistory(dir);
+  Database db;
+  HistoryService service {db};
+  SavedFiles progress;
+  std::size_t nbFiles {0};
+  service.importHistory(
+      dir.path(), [&progress]() { progress.add("one more file"); },
+      [&nbFiles](std::size_t nb) { nbFiles = nb; }, [&progress]() { progress.done(); });
+  const auto names = progress.waitUntilDone();
+  BOOST_TEST(2 == nbFiles);
+  BOOST_TEST(2 == names.size());
+  BOOST_TEST(hasStats(db, "Testville"));
+  BOOST_TEST(hasStats(db, "Autreville"));
+}
+
 BOOST_AUTO_TEST_CASE(HistoryServiceTest_watchingShouldSaveAModifiedFile) {
   const auto tb = TimeBomb::create(TB_PERIOD, "HistoryServiceTest_watching");
   const pt::TmpDir dir("HistoryServiceTest_watching");

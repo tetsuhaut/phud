@@ -209,17 +209,12 @@ namespace {
   }
 
   /**
-   * Called once for each file read, successfully or not. Once every file is read, the import still
-   * has to save them into the database, which is long: the progress bar says so, or the user would
-   * think that the import is done.
+   * Called once for each file saved into the database, successfully or not.
    */
   void onImportProgress(Fl_Progress* progressBar) {
     scheduleUITask([pb = progressBar]() {
       pb->value(pb->value() + 1);
-      const auto label = (pb->maximum() <= pb->value())
-                             ? std::string(MainWindow::Label::savingIntoDatabase)
-                             : toProgressLabel(*pb);
-      pb->copy_label(label.c_str());
+      pb->copy_label(toProgressLabel(*pb).c_str());
     });
   }
 
@@ -259,7 +254,6 @@ namespace {
 
   void onImportDone(Gui::Implementation& self, std::chrono::system_clock::time_point importStart) {
     scheduleUITask([&self, importStart]() {
-      self.m_progressBar->copy_label(toProgressLabel(*self.m_progressBar).c_str());
       self.m_infoBar->copy_label(MainWindow::Label::historyImported.data());
       setImportActionsActive(self, true);
       markHistoryAsCaughtUp(self, importStart);
