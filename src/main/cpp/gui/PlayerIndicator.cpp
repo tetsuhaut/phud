@@ -19,10 +19,7 @@
 
 namespace piws = PlayerIndicatorWindow::surface;
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::string_view playerName,
                                  const HudLayout& layout)
@@ -36,12 +33,12 @@ PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::strin
         [this](int newX, int newY) {
           m_userOffsetX = newX - m_basePosition.first;
           m_userOffsetY = newY - m_basePosition.second;
-          LOG().debug<"User moved PlayerIndicator, offset: ({}, {})">(m_userOffsetX, m_userOffsetY);
+          LOG.debug<"User moved PlayerIndicator, offset: ({}, {})">(m_userOffsetX, m_userOffsetY);
         }),
     m_layout {layout},
     m_playerName {playerName},
     m_basePosition {position} {
-  LOG().debug<"creation du PlayerIndicator {}">(playerName);
+  LOG.debug<"creation du PlayerIndicator {}">(playerName);
   copy_label(m_playerName.c_str());
   box(FL_FLAT_BOX);
   color(FL_WHITE);

@@ -54,10 +54,7 @@
  *   method is less risky as lock()/unlock() blocks the main thread.
  */
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace fs = std::filesystem;
 
@@ -195,9 +192,9 @@ namespace {
           try {
             (*task)();
           } catch (const std::exception& e) {
-            LOG().error<"Error in UI task: {}">(e.what());
+            LOG.error<"Error in UI task: {}">(e.what());
           } catch (...) {
-            LOG().error<"Unknown error in UI task">();
+            LOG.error<"Unknown error in UI task">();
           }
         },
         std::make_unique<TaskType>(std::forward<TASK>(aTask)).release());
@@ -267,8 +264,8 @@ namespace {
   // ReSharper disable once CppParameterMayBeConstPtrOrRef
   // as this function has to be an Fl_Callback
   void exitCb(Fl_Widget* const mainWindow, void* hidden) {
-    LOG().debug<__func__>();
-    LOG().info<"Stopping the GUI.">();
+    LOG.debug<__func__>();
+    LOG.info<"Stopping the GUI.">();
     auto& impl = *static_cast<Gui::Implementation*>(hidden);
 
     // Stop watching for poker tables first
@@ -317,7 +314,7 @@ namespace {
   }
 
   void onHudLayoutValidated(Gui::Implementation& impl, const HudLayout& layout) {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
     impl.m_hudLayout = layout;
     impl.m_preferences->saveHudLayout(layout);
 
@@ -334,7 +331,7 @@ namespace {
    * Called by the GUI (menu bar) when the user wants to customize the HUD.
    */
   void customizeHudCb(Fl_Widget*, void* hidden) {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
     auto& impl = *static_cast<Gui::Implementation*>(hidden);
 
     if (nullptr == impl.m_hudEditor) {
@@ -372,7 +369,7 @@ namespace {
    */
   template <const std::string_view& MSG>
   void informUser(Gui::Implementation& aSelf) {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
     scheduleUITask([infoBar = aSelf.m_infoBar, msg = std::string(MSG)]() {
       infoBar->copy_label(msg.c_str());
     });
@@ -382,7 +379,7 @@ namespace {
    * Displays a message in the info bar.
    */
   void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
     scheduleUITask([infoBar = aSelf.m_infoBar, msg = std::string(aMsg)]() {
       infoBar->copy_label(msg.c_str());
     });
@@ -394,19 +391,19 @@ namespace {
     const auto oHeroSeat = tableStatistics.getHeroSeat();
 
     if (!oHeroSeat.has_value()) {
-      LOG().warn<"Hero seat unknown for table '{}', can't update the player indicators.">(
+      LOG.warn<"Hero seat unknown for table '{}', can't update the player indicators.">(
           tableStatistics.m_table);
       return;
     }
     const auto heroSeat = oHeroSeat.value();
     const auto seats = tableStatistics.getSeats();
-    LOG().debug<"Processing {} seats for player indicators">(seats.size());
+    LOG.debug<"Processing {} seats for player indicators">(seats.size());
 
     for (const auto& seat : seats) {
       const auto seatStr = tableSeat::toString(seat);
-      LOG().debug<"Checking seat {}">(seatStr);
+      LOG.debug<"Checking seat {}">(seatStr);
       if (auto ps {tableStatistics.extractPlayerStatistics(seat)}; nullptr != ps) {
-        LOG().debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(),
+        LOG.debug<"Creating/updating indicator for player '{}' at seat {}">(ps->getPlayerName(),
                                                                               seatStr);
         const auto rotatedSeat =
             gui::rotateRelativeToHero(seat, heroSeat, tableStatistics.getMaxSeat());
@@ -417,7 +414,7 @@ namespace {
         auto& playerIndicator = playerIndicators.at(tableSeat::toArrayIndex(seat));
 
         if (nullptr == playerIndicator) {
-          LOG().debug<"Creating new PlayerIndicator for '{}'">(ps->getPlayerName());
+          LOG.debug<"Creating new PlayerIndicator for '{}'">(ps->getPlayerName());
           playerIndicator = std::make_unique<PlayerIndicator>(pos, ps->getPlayerName(), layout);
         } else {
           playerIndicator->updateBasePosition(pos);
@@ -425,9 +422,9 @@ namespace {
         playerIndicator->setStats(std::move(ps));
         mswindows::setWindowOnTopMost(fl_xid(&*playerIndicator));
         playerIndicator->show();
-        LOG().debug<"PlayerIndicator shown for '{}'">(playerIndicator->getPlayerName());
+        LOG.debug<"PlayerIndicator shown for '{}'">(playerIndicator->getPlayerName());
       } else {
-        LOG().debug<"No player statistics for seat {}, clearing indicator">(seatStr);
+        LOG.debug<"No player statistics for seat {}, clearing indicator">(seatStr);
         // clear player indicators
         playerIndicators.at(tableSeat::toArrayIndex(seat)).reset();
       }
@@ -438,7 +435,7 @@ namespace {
   removeUselessPlayerIndicators(TableWindowTitleToTablePlayerIndicators& tableToPlayerIndicators,
                                 const std::span<const std::string> tableWindowTitles,
                                 TableService& tableService) {
-    LOG().info<"Delete table indicators for removed table window(s)">();
+    LOG.info<"Delete table indicators for removed table window(s)">();
 
     for (auto it = tableToPlayerIndicators.begin(); it != tableToPlayerIndicators.end();) {
       if (const auto title = it->first; !std::ranges::contains(tableWindowTitles, title)) {
@@ -447,7 +444,7 @@ namespace {
         // Clear all player indicators for this table
         auto& playerIndicators = it->second;
         std::ranges::for_each(playerIndicators, [](auto& pi) { pi.reset(); });
-        LOG().debug<"Removed player indicators for table window: {}">(title);
+        LOG.debug<"Removed player indicators for table window: {}">(title);
         it = tableToPlayerIndicators.erase(it);
       } else {
         ++it;
@@ -460,23 +457,23 @@ namespace {
                      std::string_view tableWindowTitle, const HudLayout& layout) {
     return [&playerIndicators, &layout,
             title = std::string(tableWindowTitle)](TableStatistics&& ts) {
-      LOG().debug<"Observer called for table '{}'">(ts.getTable());
-      LOG().debug<"About to schedule UI task for table '{}'">(ts.getTable());
+      LOG.debug<"Observer called for table '{}'">(ts.getTable());
+      LOG.debug<"About to schedule UI task for table '{}'">(ts.getTable());
       scheduleUITask([&playerIndicators, &layout, title, stats = std::move(ts)]() mutable {
-        LOG().debug<"Scheduled UI task executing for table window '{}'">(title);
+        LOG.debug<"Scheduled UI task executing for table window '{}'">(title);
 
         if (const auto tableRect = mswindows::getTableWindowRectangle(title)) {
-          LOG().debug<"Found table window '{}'">(title);
+          LOG.debug<"Found table window '{}'">(title);
           // Update PlayerIndicators with real statistics
           if (playerIndicators.contains(title)) {
-            LOG().debug<"Updating player indicators for table window '{}'">(title);
+            LOG.debug<"Updating player indicators for table window '{}'">(title);
             updateTablePlayerIndicators(playerIndicators[title], *tableRect, std::move(stats),
                                         layout);
           } else {
-            LOG().warn<"Player indicators not found for table '{}'">(title);
+            LOG.warn<"Player indicators not found for table '{}'">(title);
           }
         } else {
-          LOG().warn<"Could not get window rect for table window '{}'">(title);
+          LOG.warn<"Could not get window rect for table window '{}'">(title);
         }
       });
     };
@@ -485,7 +482,7 @@ namespace {
   void updateUsefulPlayerIndicators(TableWindowTitleToTablePlayerIndicators& playerIndicators,
                                     const std::span<const std::string> tableWindowTitles,
                                     TableService& tableService, const HudLayout& layout) {
-    LOG().info<"Create/Update table indicators for {} table(s)">(tableWindowTitles.size());
+    LOG.info<"Create/Update table indicators for {} table(s)">(tableWindowTitles.size());
     const auto& tableTitleNotYetMonitored {
         tableWindowTitles | std::views::filter([&playerIndicators](const auto& title) {
           return !playerIndicators.contains(title);
@@ -499,7 +496,7 @@ namespace {
           const auto observerCb = buildTableObserver(playerIndicators, title, layout);
           if (const auto errorMsg = tableService.startProducingStats(title, observerCb);
               !errorMsg.empty()) {
-            LOG().error<"Failed to start monitoring table window '{}': {}">(title, errorMsg);
+            LOG.error<"Failed to start monitoring table window '{}': {}">(title, errorMsg);
           }
         });
   }
@@ -509,10 +506,10 @@ namespace {
    * Updates UI components and starts the background import.
    */
   void importDirAwakeCb(Gui::Implementation& self, const fs::path& dir) {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
 
     try {
-      LOG().info<"The import directory '{}' is valid">(dir.string());
+      LOG.info<"The import directory '{}' is valid">(dir.string());
       // the files modified from now on are saved by the history watching
       const auto importStart = std::chrono::system_clock::now();
       auto* const progressBar = self.m_progressBar;
@@ -524,7 +521,7 @@ namespace {
       self.m_isHistoryCaughtUp = false;
 
       // Start import through business service
-      LOG().info<"About to call historyService.startImport">();
+      LOG.info<"About to call historyService.startImport">();
       self.m_historyService.importHistory(
           dir,
           // update the progress bar during the import
@@ -533,11 +530,11 @@ namespace {
           [progressBar](std::size_t nb) { onSetNbFiles(progressBar, nb); },
           // import completion callback
           [&self, importStart]() { onImportDone(self, importStart); });
-      LOG().info<"historyService.importHistory completed">();
+      LOG.info<"historyService.importHistory completed">();
     } catch (const std::exception& e) {
-      LOG().error<"Exception in importDirAwakeCb: {}">(e.what());
+      LOG.error<"Exception in importDirAwakeCb: {}">(e.what());
     } catch (...) {
-      LOG().error<"Unknown exception in importDirAwakeCb">();
+      LOG.error<"Unknown exception in importDirAwakeCb">();
     }
   }
 
@@ -578,7 +575,7 @@ namespace {
    * Called by the GUI (menu bar) when the user wants to import the whole history again.
    */
   void reimportHistoryCb(Fl_Widget*, void* hidden) {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
     auto& self = *static_cast<Gui::Implementation*>(hidden);
 
     if (const auto dir = self.m_preferences->getPreferredHistoDir(); dir.empty()) {
@@ -595,7 +592,7 @@ namespace {
    */
   void onHistoryDirChosen(std::string_view dirName, Gui::Implementation& self) {
     const auto dir = fs::path(dirName);
-    LOG().info<"the user chose to import the directory '{}'">(dir.string());
+    LOG.info<"the user chose to import the directory '{}'">(dir.string());
 
     if (self.m_historyService.isValidHistory(dir)) {
       self.m_preferences->saveHistoryDirectory(dir);
@@ -617,18 +614,18 @@ namespace {
       // Schedule the rest of the UI updates and import
       scheduleUITask([&self, dir]() {
         try {
-          LOG().info<"About to start import process">();
+          LOG.info<"About to start import process">();
           // Start import
           importDirAwakeCb(self, dir);
-          LOG().info<"Import process started successfully">();
+          LOG.info<"Import process started successfully">();
         } catch (const std::exception& e) {
-          LOG().error<"Exception in UI task: {}">(e.what());
+          LOG.error<"Exception in UI task: {}">(e.what());
         } catch (...) {
-          LOG().error<"Unknown exception in UI task">();
+          LOG.error<"Unknown exception in UI task">();
         }
       });
     } else {
-      LOG().info<"the chosen directory '{}' is not a valid history dir">(dir.string());
+      LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());
       informUser<MainWindow::Label::invalidChoice>(self);
     }
   }
@@ -663,7 +660,7 @@ namespace {
     // Called by the GUI (button component) when the user clicks on the 'choose history directory'
     // button. Displays a directory chooser window.
     auto choseHistoDirCb = [](Fl_Widget*, void* hiddenSelf) {
-      LOG().debug<"choseHistoDirCb">();
+      LOG.debug<"choseHistoDirCb">();
       auto& self = *static_cast<Gui::Implementation*>(hiddenSelf);
       informUser<MainWindow::Label::chooseHistoDirText>(self);
       const auto dirChoser = buildDirectoryChooser(*self.m_preferences);
@@ -684,7 +681,7 @@ namespace {
    * Starts detecting the poker tables, and displaying their statistics.
    */
   void startHud(Gui::Implementation& self) {
-    LOG().info<"Starting the HUD">();
+    LOG.info<"Starting the HUD">();
     self.m_isHudStarted = true;
     self.m_watchedTablesLabel->copy_label(MainWindow::Label::noPokerTableDetected.data());
     self.m_hudBtn->label(MainWindow::Label::stopHud.data());
@@ -696,7 +693,7 @@ namespace {
    * watched.
    */
   void stopHud(Gui::Implementation& self) {
-    LOG().info<"Stopping the HUD">();
+    LOG.info<"Stopping the HUD">();
     self.m_isHudStarted = false;
     // stop detecting the tables first, so that they can't be followed again
     self.m_tableWatcher->stop();
@@ -716,7 +713,7 @@ namespace {
     // Called by the GUI (button component) when the user clicks on 'Start HUD' or 'Stop HUD'
     auto hudCb = [](Fl_Widget*, void* hiddenSelf) {
       auto& self = *static_cast<Gui::Implementation*>(hiddenSelf);
-      LOG().debug<"hudCb">();
+      LOG.debug<"hudCb">();
 
       if (self.m_isHudStarted) {
         stopHud(self);
@@ -813,7 +810,7 @@ namespace {
 
 Gui::Gui(TableService& tableService, HistoryService& historyService)
   : m_pImpl {std::make_unique<Gui::Implementation>(tableService, historyService)} {
-  LOG().debug<__func__>();
+  LOG.debug<__func__>();
   m_pImpl->m_mainWindow = buildMainWindow(m_pImpl.get());
   m_pImpl->m_menuBar = buildMenuBar(m_pImpl.get());
   m_pImpl->m_chooseHistoDirBtn = buildChooseHistoDirBtn(*m_pImpl);
@@ -845,7 +842,7 @@ Gui::~Gui() = default;
  */
 /*[[nodiscard]]*/
 int Gui::run() {
-  LOG().debug<__func__>();
+  LOG.debug<__func__>();
   m_pImpl->m_mainWindow->show(); // display the main window
   // the title bar exists only once the window is shown
   matchTitleBarToBackground(*m_pImpl->m_mainWindow);

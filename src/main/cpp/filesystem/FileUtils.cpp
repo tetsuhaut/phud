@@ -10,10 +10,7 @@
 #include <iomanip>                  // std::get_time
 #include <ranges>
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace fs = std::filesystem;
 
@@ -143,7 +140,7 @@ std::string phud::filesystem::toString(const fs::file_time_type& ft) {
       [[unlikely]] {
     std::array<char, 256> msg = {0};
     std::ignore = strerror_s(msg.data(), msg.size(), errorCode);
-    LOG().error(msg.data());
+    LOG.error(msg.data());
     return "";
   }
   oss << std::put_time(&calendarDateTime, WINAMAX_HISTORY_TIME_FORMAT.data());

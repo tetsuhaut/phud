@@ -11,10 +11,7 @@
 #include "threads/PlayerCache.hpp"
 #include <optional>
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -72,11 +69,11 @@ struct [[nodiscard]] FileStem final {
 // !!! exported for unit testing !!!
 std::optional<FileStem> parseFileStem(std::string_view fileStem);
 std::optional<FileStem> parseFileStem(std::string_view fileStem) {
-  LOG().info<"Parsing the file stem {}.">(fileStem);
+  LOG.info<"Parsing the file stem {}.">(fileStem);
   FileStem ret = {};
 
   if (12 > fileStem.size()) {
-    LOG().error<"Couldn't parse the file stem '{}', too short!!!">(fileStem);
+    LOG.error<"Couldn't parse the file stem '{}', too short!!!">(fileStem);
     return ret;
   }
 
@@ -84,7 +81,7 @@ std::optional<FileStem> parseFileStem(std::string_view fileStem) {
   ret.m_isRealMoney = (fileStem.npos != pos);
 
   if (!ret.m_isRealMoney and (fileStem.npos == fileStem.find("_play_", 9))) [[unlikely]] {
-    LOG().error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(
+    LOG.error<"Couldn't parse the file stem '{}', unable to guess real or play money!!!">(
         fileStem);
     return ret;
   }
@@ -134,7 +131,7 @@ static void fillFromFileName(const FileStem& values, GameData& gameData) {
 template <typename GAME_TYPE>
 [[nodiscard]] static std::unique_ptr<GAME_TYPE> createGame(const fs::path& gameHistoryFile,
                                                            PlayerCache& cache) {
-  LOG().debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
+  LOG.debug<"Creating the game history from {}.">(gameHistoryFile.filename().string());
   const auto fileStem = ps::sanitize(gameHistoryFile.stem().string());
   std::unique_ptr<GAME_TYPE> ret;
 
@@ -144,19 +141,19 @@ template <typename GAME_TYPE>
 
     while (tfl.next()) {
       if (nullptr == ret) {
-        LOG().debug<"1st hand : get additional game data from the hand.">();
+        LOG.debug<"1st hand : get additional game data from the hand.">();
         auto [pHand, pGameData] {WinamaxHandBuilder::buildHandAndGameData<GAME_TYPE>(tfl, cache)};
         fillFromFileName(oGameDataFromFileName.value(), *pGameData);
-        LOG().debug<"1st hand : creating new game history.">();
+        LOG.debug<"1st hand : creating new game history.">();
         ret = newGame<GAME_TYPE>(fileStem, *pGameData);
         ret->addHand(std::move(pHand));
       } else {
-        LOG().debug<"not the 1st hand : adding the new hand to the existing game history.">();
+        LOG.debug<"not the 1st hand : adding the new hand to the existing game history.">();
         ret->addHand(WinamaxHandBuilder::buildHand<GAME_TYPE>(tfl, cache));
       }
     }
 
-    LOG().debug<"Read {} line{} from file {}.">(tfl.getLineIndex(), ps::plural(tfl.getLineIndex()),
+    LOG.debug<"Read {} line{} from file {}.">(tfl.getLineIndex(), ps::plural(tfl.getLineIndex()),
                                                 tfl.getFileStem());
   }
 
@@ -166,14 +163,14 @@ template <typename GAME_TYPE>
 template <typename GAME_TYPE>
 [[nodiscard]] static std::unique_ptr<Site> handleGame(const fs::path& gameHistoryFile,
                                                       PlayerCache& cache) {
-  LOG().debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
+  LOG.debug<"Handling the game history from {}.">(gameHistoryFile.filename().string());
   auto pSite = std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
 
   if (auto g {createGame<GAME_TYPE>(gameHistoryFile, cache)}; nullptr != g) {
-    LOG().debug<"Game created for file {}.">(gameHistoryFile.filename().string());
+    LOG.debug<"Game created for file {}.">(gameHistoryFile.filename().string());
     pSite->addGame(std::move(g));
   } else {
-    LOG().info<"Game *not* created for file {}.">(gameHistoryFile.filename().string());
+    LOG.info<"Game *not* created for file {}.">(gameHistoryFile.filename().string());
   }
 
   // Players are kept in the shared cache and extracted later
@@ -185,24 +182,24 @@ template <typename GAME_TYPE>
 // Version with shared cache for better performance
 std::unique_ptr<Site> WinamaxGameHistory::parseGameHistory(const fs::path& gameHistoryFile,
                                                            PlayerCache& cache) {
-  LOG().debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
+  LOG.debug<"Parsing the {} game history file {}.">(ProgramInfos::WINAMAX_SITE_NAME,
                                                       gameHistoryFile.filename().string());
   const auto fileStem = gameHistoryFile.stem().string();
 
   if (12 > fileStem.size()) {
-    LOG().error<"Couldn't parse the file name '{}', too short!!!">(fileStem);
+    LOG.error<"Couldn't parse the file name '{}', too short!!!">(fileStem);
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
   // history files with an '!' in their title are duplicated with another name, so ignore it
   if (ps::contains(fileStem, '!')) {
-    LOG().info<"Ignoring the file '{}' as it start with '!' and thus is duplicated.">(
+    LOG.info<"Ignoring the file '{}' as it start with '!' and thus is duplicated.">(
         gameHistoryFile.filename().string());
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }
 
   if (fileStem.npos == fileStem.find("_real_", 9) and fileStem.npos == fileStem.find("_play_", 9)) {
-    LOG().error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(
+    LOG.error<"Couldn't parse the file name '{}', unable to guess real or play money!!!">(
         fileStem);
     return std::make_unique<Site>(ProgramInfos::WINAMAX_SITE_NAME);
   }

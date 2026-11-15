@@ -43,17 +43,14 @@
 // BUG : crash à la sélection de la table : impossible de trouver l'historique pour table "Wichita
 // 05 / 0,01-0,02 NL Holdem / Argent fictif" BUG : au 2eme choix d'historique
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 static void logErrorAndAbort(int signum) {
   std::signal(signum, SIG_DFL);
   std::ostringstream oss;
   oss << boost::stacktrace::stacktrace();
   std::println(stderr, "{}", oss.str());
-  LOG().critical(oss.str());
+  LOG.critical(oss.str());
   std::raise(SIGABRT);
 }
 
@@ -121,7 +118,7 @@ int main(int argc, const char* const* const argv) {
     std::signal(SIGSEGV, logErrorAndAbort);
     std::signal(SIGABRT, logErrorAndAbort);
     std::signal(SIGINT, logErrorAndAbort);
-    LOG().info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
+    LOG.info<"{} is starting">(ProgramInfos::APP_SHORT_NAME);
     Database db(ProgramInfos::DATABASE_NAME);
 
     if (oHistoDir.has_value()) {
@@ -135,7 +132,7 @@ int main(int argc, const char* const* const argv) {
             fmt::format("The provided hand history directory '{}' is invalid", historyDir.string());
         throw PhudException(errMsg);
       }
-      LOG().info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(
+      LOG.info<"phud configuration:\n  loggingLevel={}\n  loggingPattern={}\n  historyDirectory={}">(
               toString(loggingLevel), loggingPattern, historyDir.string());
     }
 
@@ -143,7 +140,7 @@ int main(int argc, const char* const* const argv) {
     HistoryService handService(db);
     Gui gui(tableService, handService);
     nbErr = gui.run();
-    LOG().info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
+    LOG.info<"{} is exiting">(ProgramInfos::APP_SHORT_NAME);
   } catch (const UserAskedForHelpException& e) {
     // the logging framework is not initialized yet
     // if user asks for help, this is not an error
@@ -154,19 +151,19 @@ int main(int argc, const char* const* const argv) {
     ++nbErr;
   } catch (const PhudException& e) {
     // now the logging framework is initialized
-    LOG().error(e.what());
+    LOG.error(e.what());
     std::println(stderr, "{}", e.what());
     ++nbErr;
   } catch (const std::logic_error& e) {
-    LOG().error<"Unexpected exception: {}">(e.what());
+    LOG.error<"Unexpected exception: {}">(e.what());
     std::println(stderr, "{}", e.what());
     ++nbErr;
   } catch (const std::exception& e) {
-    LOG().error<"Unexpected exception: {}">(e.what());
+    LOG.error<"Unexpected exception: {}">(e.what());
     std::println(stderr, "{}", e.what());
     ++nbErr;
   } catch (...) {
-    LOG().error<"Unknown exception occurred.">();
+    LOG.error<"Unknown exception occurred.">();
     std::println(stderr, "Unknown exception occurred.\n");
     ++nbErr;
   }

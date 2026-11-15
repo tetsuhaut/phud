@@ -9,10 +9,7 @@
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 struct [[nodiscard]] DirWatcherImpl final : DirWatcher, efsw::FileWatchListener {
 private:
@@ -38,7 +35,7 @@ private:
     const fs::path filePath(dir + "/" + filename);
 
     const auto actionStr = efsw::Actions::Modified == action ? "Modified" : "Add";
-    LOG().info<"The file {} has changed (action: {}), notify listener">(filePath.string(),
+    LOG.info<"The file {} has changed (action: {}), notify listener">(filePath.string(),
                                                                         actionStr);
 
     // Call user callback in thread-safe manner
@@ -54,7 +51,7 @@ public:
     : m_dir {dir},
       m_watchId {-1} {
     validation::require(pf::isDir(m_dir), "the dir provided to DirWatcher() is not valid.");
-    LOG().info<"will watch directory {} using EFSW (event-driven)">(dir.string());
+    LOG.info<"will watch directory {} using EFSW (event-driven)">(dir.string());
   }
 
   DirWatcherImpl(const DirWatcherImpl&) = delete;
@@ -70,13 +67,13 @@ public:
     m_watchId = m_watcher.addWatch(m_dir.string(), this, isRecursive);
 
     if (0 > m_watchId) {
-      LOG().error<"Failed to add watch for directory {}">(m_dir.string());
+      LOG.error<"Failed to add watch for directory {}">(m_dir.string());
       return;
     }
 
     m_watcher.watch();
     m_stopped = false;
-    LOG().info<"Started watching directory {} (WatchID: {})">(m_dir.string(), m_watchId);
+    LOG.info<"Started watching directory {} (WatchID: {})">(m_dir.string(), m_watchId);
   }
 
   void stop() override {
@@ -88,7 +85,7 @@ public:
       // Lock and unlock the mutex to synchronize with any running callback
       const std::scoped_lock lock(m_callbackMutex);
       m_callback = nullptr;
-      LOG().info<"Stopped watching directory {}">(m_dir.string());
+      LOG.info<"Stopped watching directory {}">(m_dir.string());
     }
   }
 

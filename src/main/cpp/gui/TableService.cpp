@@ -16,10 +16,7 @@
 
 namespace fs = std::filesystem;
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace {
   /**
@@ -40,22 +37,22 @@ namespace {
 
   [[nodiscard]] std::optional<TableStatistics> extractTableStatistics(const Database& database,
                                                                       std::string_view table) {
-    LOG().info<"Extracting table statistics for table: {}">(table);
+    LOG.info<"Extracting table statistics for table: {}">(table);
 
     if (auto stats {database.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, table)};
         stats.isValid()) {
       return stats;
     }
 
-    LOG().info<"Got no stats from db yet for table {}.">(table);
+    LOG.info<"Got no stats from db yet for table {}.">(table);
     return {};
   }
 
   void notify(TableStatistics&& stats, const TableService::TableObserverCallback& observerCb) {
     if (Seat::seatUnknown == stats.getMaxSeat()) {
-      LOG().info<"Got no stats from db.">();
+      LOG.info<"Got no stats from db.">();
     } else {
-      LOG().info<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
+      LOG.info<"Got {} player stats objects.">(tableSeat::toInt(stats.getMaxSeat()));
       observerCb(std::move(stats));
     }
   }
@@ -79,7 +76,7 @@ TableService::~TableService() {
   try {
     TableService::stopProducingStats();
   } catch (...) {
-    LOG()
+    LOG
         .error<
             "Unknown Error when stopping the stat production in the TableService destruction.">();
   }
@@ -96,10 +93,10 @@ bool TableService::isPokerApp(std::string_view executableName) {
 
 std::string TableService::startProducingStats(std::string_view tableWindowTitle,
                                               const TableObserverCallback& observerCb) {
-  LOG().info<"Starting to produce stats for table window with title: '{}'">(tableWindowTitle);
+  LOG.info<"Starting to produce stats for table window with title: '{}'">(tableWindowTitle);
 
   if (!m_pImpl->m_pokerSiteHistory) {
-    LOG().warn<"No poker site history available">();
+    LOG.warn<"No poker site history available">();
     return "No poker site history available";
   }
 

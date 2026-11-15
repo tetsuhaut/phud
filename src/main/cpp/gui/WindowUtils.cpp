@@ -6,10 +6,7 @@
 #include <Psapi.h> // GetModuleFileNameEx
 #include <gsl/gsl>
 
-// static Logger& LOG() {
-//   static Logger logger { CURRENT_FILE_NAME };
-//   return logger;
-// }
+// static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace {
   /**
@@ -33,7 +30,7 @@ namespace {
    * @return Executable name or empty string on error
    */
   // std::string getExecutableName(HWND window) {
-  //   LOG().debug<__func__>();
+  //   LOG.debug<__func__>();
   //
   //   if (nullptr == window) { return ""; }
   //
@@ -49,7 +46,7 @@ namespace {
   //     process[MAX_PATH] = '\0';
   //     return &process[0];
   //   }
-  //   LOG().error<"Can't retrieve the executable name: {}">(getLastErrorMessageFromOS());
+  //   LOG.error<"Can't retrieve the executable name: {}">(getLastErrorMessageFromOS());
   //   return "";
   // }
 

@@ -18,10 +18,7 @@
 // #include <optional>
 // #include <string_view>
 
-// static Logger& LOG() {
-// static Logger logger { CURRENT_FILE_NAME };
-// return logger;
-// }
+// static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 // namespace ps = phud::strings;
 
@@ -60,7 +57,7 @@
 // NbMaxSeatsTableNameButtonSeat getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
 // tf.next();
 // const auto line =  tf.getLine() ;
-// LOG().debug<"Parsing table line {}.">(line);
+// LOG.debug<"Parsing table line {}.">(line);
 /*Table: 'Frankfurt 11' 9-max (real money) Seat #2 is the button
 Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 ^Table: '(.*)' (.*)-max .* Seat #(.*) is the button$*/
@@ -304,7 +301,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // actions, winners,board cards
 //  [[nodiscard]] static ActionsAndWinnersAndBoardCards
 //  parseActionsAndWinnersAndBoardCards(TextFile& tf, std::string_view handId) {
-//  LOG().debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
+//  LOG.debug<"Parsing actions and winners and boardcards for file {}.">(tf.getFileStem());
 //  std::vector<std::unique_ptr<Action>> actions;
 //  auto boardCards { FIVE_NONE_CARDS };
 //  auto lastStreet { Street::none };
@@ -332,7 +329,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // template <GameType gameType>
 // [[nodiscard]] static std::unique_ptr<Hand> getHand(TextFile& tf, PlayerCache& cache,
 // int level, const Time& date, std::string_view handId) {
-// LOG().debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
+// LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
 // const auto& [nbMaxSeats, tableName, buttonSeat] {
 // getNbMaxSeatsTableNameButtonSeatFromTableLine(tf) }; const auto& seatPlayers { parseSeats(tf,
 // cache) };
@@ -340,7 +337,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // const long ante { 0 };
 // const auto heroCards =  parseHeroCards(tf.getLine(), cache) ;
 // auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
-// LOG().debug<"nb actions={}">(actions.size());
+// LOG.debug<"nb actions={}">(actions.size());
 // Hand::Params params {
 // .id = handId, .gameType = gameType, .siteName = ProgramInfos::PMU_SITE_NAME,
 // .tableName = tableName, .buttonSeat = tableSeat::fromInt(buttonSeat), .maxSeats =
@@ -353,7 +350,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // #endif // WIP
 
 // std::unique_ptr<Hand> PmuHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
-// LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
+// LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
 // seekToHandStart(tf);
 // const auto handId { readHandId(tf.getLine()) };
 // tf.next();
@@ -365,7 +362,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // std::ranges::for_each(seatPlayers, [&pc](const auto& p) { if (!p.empty()) { pc.addIfMissing(p); }
 // }); seekToDealingDownCards(tf); tf.next(); const auto& heroCards { parseHeroCards(tf.getLine(),
 // pc) }; auto [actions, winners, boardCards] { parseActionsAndWinnersAndBoardCards(tf, handId) };
-// LOG().debug<"nb actions={}">(actions.size());
+// LOG.debug<"nb actions={}">(actions.size());
 // Hand::Params p {
 // .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName
 // = tableName, .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate
@@ -385,7 +382,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // PmuHandBuilder::buildCashgameHandAndGameData(
 // TextFile& tf,
 // PlayerCache& pc) {
-// LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
+// LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
 // seekToHandStart(tf);
 // tf.next(); // during the 1rst hand, we don't know the names of our opponents
 // seekToHandStart(tf);
@@ -398,7 +395,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // parseTotalNumberOfPlayersLine(tf.getLine()) }; tf.next(); const auto& seatPlayers {
 // parseSeats(tf, pc) }; seekToDealingDownCards(tf); tf.next(); const auto& heroCards {
 // parseHeroCards(tf.getLine(), pc) }; auto [actions, winners, boardCards] {
-// parseActionsAndWinnersAndBoardCards(tf, handId) }; LOG().debug<"nb actions={}">(actions.size());
+// parseActionsAndWinnersAndBoardCards(tf, handId) }; LOG.debug<"nb actions={}">(actions.size());
 // Hand::Params params {
 // .id = handId, .gameType = GameType::cashGame, .siteName = ProgramInfos::PMU_SITE_NAME, .tableName
 // = tableName, .buttonSeat = buttonSeat, .maxSeats = nbMaxSeats, .level = 0, .ante = 0, .startDate
@@ -424,7 +421,7 @@ Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
 // PmuHandBuilder::buildTournamentHandAndGameData(
 // TextFile& /*tf*/,
 // PlayerCache& /*cache*/) {
-// LOG().debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
+// LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
 // const auto& [buyIn, level, date, handId] {
 // getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine()) }; auto pHand {
 // getHand<GameType::tournament>(tf, pc, level, date, handId) }; return { std::move(pHand),

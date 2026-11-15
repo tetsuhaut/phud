@@ -29,10 +29,7 @@
 // FUTURE: the read query name, content, entity type, and callback should be linked.
 // FUTURE: use a cache
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -64,7 +61,7 @@ namespace {
    * @throws DatabaseException if an error occurs
    */
   void executeSql(const gsl::not_null<sqlite3*> pDb, std::string_view sql) {
-    LOG().trace(sql);
+    LOG.trace(sql);
 
     if (SQLITE_OK != sqlite3_exec(pDb, sql.data(), /*callback*/ nullptr, /*callbackParam*/ nullptr,
                                   /*errorMsg*/ nullptr)) {
@@ -83,10 +80,10 @@ namespace {
     const auto isDbCreation = !pf::isFile(dbFile);
 
     if (isDbCreation) {
-      LOG().info<"Creating the database {}">(IN_MEMORY == name ? "in memory"
+      LOG.info<"Creating the database {}">(IN_MEMORY == name ? "in memory"
                                                                : pf::absolute(dbFile).string());
     } else {
-      LOG().info<"Opening the existing database file {}, no schema created.">(
+      LOG.info<"Opening the existing database file {}, no schema created.">(
           pf::absolute(dbFile).string());
     }
 
@@ -101,10 +98,10 @@ namespace {
     }
 
     if (isDbCreation) {
-      LOG().info<"creating the database schema {}">(name);
+      LOG.info<"creating the database schema {}">(name);
       std::ranges::for_each(phud::sql::CREATE_QUERIES,
                             [pDb](const auto& query) { executeSql(pDb, query); });
-      LOG().info<"database created">();
+      LOG.info<"database created">();
     }
 
     return pDb;
@@ -249,12 +246,12 @@ namespace {
   }
 
   void insertSpecificGame(const PreparedInserts& inserts, const Tournament& tournament) {
-    LOG().debug<"saving the tournament with id={}">(tournament.getId());
+    LOG.debug<"saving the tournament with id={}">(tournament.getId());
     inserts.tournament.text(tournament.getId()).real(tournament.getBuyIn()).execute();
   }
 
   void insertSpecificGame(const PreparedInserts& inserts, const CashGame& cashGame) {
-    LOG().debug<"saving the cash game with id={}">(cashGame.getId());
+    LOG.debug<"saving the cash game with id={}">(cashGame.getId());
     inserts.cashGame.text(cashGame.getId())
         .real(cashGame.getSmallBlind())
         .real(cashGame.getBigBlind())
@@ -346,7 +343,7 @@ namespace {
       insertHandPlayerStats(inserts.handPlayerStats, hand, stats);
     });
     inserts.gameHand(hand.getGameType()).text(gameId).text(hand.getId()).execute();
-    LOG().trace<"saving {} actions from hand with id={}">(hand.viewActions().size(), hand.getId());
+    LOG.trace<"saving {} actions from hand with id={}">(hand.viewActions().size(), hand.getId());
     std::ranges::for_each(hand.viewActions(), [&inserts, &hand](const auto* pAction) {
       insertAction(inserts.action, hand, *pAction);
     });
@@ -360,7 +357,7 @@ namespace {
     const auto gameId = game.getId();
     insertGame(inserts.game, game);
     insertSpecificGame(inserts, game);
-    LOG().debug<"saving {} hands from the game with id={}">(hands.size(), gameId);
+    LOG.debug<"saving {} hands from the game with id={}">(hands.size(), gameId);
     std::ranges::for_each(hands, [&inserts, &gameId](const auto* pHand) {
       saveHand(inserts, gameId, *pHand);
     });
@@ -404,9 +401,9 @@ public:
       try {
         executeSql(m_db, "ROLLBACK;");
       } catch (const DatabaseException& e) {
-        LOG().error<"Error rollbacking transaction: {}">(e.what());
+        LOG.error<"Error rollbacking transaction: {}">(e.what());
       } catch (...) { // can't throw in a destructor
-        LOG().error<"Unknown Error rollbacking transaction.">();
+        LOG.error<"Unknown Error rollbacking transaction.">();
       }
     }
   }
@@ -428,12 +425,12 @@ Database::~Database() {
   m_pImpl->m_inserts.reset();
 
   if (SQLITE_OK != sqlite3_close(m_pImpl->m_database)) {
-    LOG().error<"Unknown error when closing the database. Fetching the error message...">();
+    LOG.error<"Unknown error when closing the database. Fetching the error message...">();
     try {
       const auto pErrMsg = sqlite3_errmsg(m_pImpl->m_database);
-      LOG().error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
+      LOG.error<"Can't close the database file '{}: {}">(m_pImpl->m_dbName, pErrMsg);
     } catch (...) { // can't throw in a destructor
-      LOG().error<"Couldn't fetch the error message.">();
+      LOG.error<"Couldn't fetch the error message.">();
     }
   }
 }
@@ -471,7 +468,7 @@ void Database::save(std::span<const Player* const> players) const {
  * @throws DatabaseException if an error occurs during the insert
  */
 static void saveSite(const PreparedInsert& insert, const Site& s) {
-  LOG().debug<"saving the Site with name={}">(s.getName());
+  LOG.debug<"saving the Site with name={}">(s.getName());
   insert.text(s.getName()).execute();
 }
 
@@ -486,9 +483,9 @@ static void saveGames(std::span<const T* const> games, Database& self) {
     try {
       self.save(*pGame);
     } catch (const std::exception& e) {
-      LOG().error<"Couldn't save the game with id='{}': {}">(pGame->getId(), e.what());
+      LOG.error<"Couldn't save the game with id='{}': {}">(pGame->getId(), e.what());
     } catch (...) {
-      LOG().error<"Couldn't save the game with id='{}': unknown error">(pGame->getId());
+      LOG.error<"Couldn't save the game with id='{}': unknown error">(pGame->getId());
     }
   });
 }
@@ -536,10 +533,10 @@ public:
   ~PreparedStatement() {
     if (SQLITE_OK != sqlite3_finalize(m_pStatement)) {
       try {
-        LOG().error<"Can't close a prepared statement, database error is:\n{}">(
+        LOG.error<"Can't close a prepared statement, database error is:\n{}">(
             sqlite3_errmsg(m_pDatabase));
       } catch (...) { // can't throw in a destructor
-        LOG().error<"Can't close a prepared statement, database error is unknown.">();
+        LOG.error<"Can't close a prepared statement, database error is unknown.">();
       }
     }
   }
@@ -646,7 +643,7 @@ readTableStatisticsQuery(PreparedStatement& p) {
               .callThreeBet = p.getColumnAsDouble(16),
               .fourBet = p.getColumnAsDouble(17)});
     } else {
-      LOG().warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
+      LOG.warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
     }
   } while (QueryResult::ONE_ROW_OR_MORE == p.execute());
 

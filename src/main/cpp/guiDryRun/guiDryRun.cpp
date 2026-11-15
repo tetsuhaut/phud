@@ -9,10 +9,7 @@
 #include "threads/PeriodicTask.hpp"
 #include "threads/ThreadSafeQueue.hpp" // std::unique_ptr
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace fs = std::filesystem;
 
@@ -38,10 +35,10 @@ public:
   std::string
   startProducingStats(std::string_view /*table*/,
                       const std::function<void(TableStatistics&& ts)>& /*observer*/) override {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
     m_continue = PeriodicTaskStatus::repeatTask;
     m_task.start([this]() {
-      LOG().debug<"task in guiDryRun startProducingStats()">();
+      LOG.debug<"task in guiDryRun startProducingStats()">();
       std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> fakeStats {
           std::make_unique<PlayerStatistics>(
               PlayerStatistics::Params {.playerName = "player0",
@@ -91,14 +88,14 @@ public:
           nullptr};
       m_stats.push(TableStatistics {ProgramInfos::WINAMAX_SITE_NAME, "someTable", Seat::seatSix,
                                     std::move(fakeStats)});
-      LOG().debug<"the task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
+      LOG.debug<"the task in guiDryRun startObservingTable() returns {}">(toString(m_continue));
       return m_continue; // run until the NoOpApp object is destroyed
     });
     return "";
   }
 
   void stopProducingStats() override {
-    LOG().debug<__func__>();
+    LOG.debug<__func__>();
     m_continue = PeriodicTaskStatus::stopTask;
     m_task.stop();
   }
@@ -119,14 +116,14 @@ public:
   void importHistory(auto, const std::function<void()>&, const std::function<void(std::size_t)>&,
                      const std::function<void()>&) = delete;
 
-  void stopImportingHistory() override { LOG().debug<__func__>(); }
+  void stopImportingHistory() override { LOG.debug<__func__>(); }
 
   void setHistoryDir(const fs::path& /*dir*/) override {}
 }; // NoOpHistoryService
 void NoOpHistoryService::importHistory(const fs::path&, const std::function<void()>& onProgress,
                                        const std::function<void(std::size_t)>& onSetNbFiles,
                                        const std::function<void()>& onDone) {
-  LOG().debug<__func__>();
+  LOG.debug<__func__>();
   onSetNbFiles(3);
   onProgress();
   onProgress();
@@ -139,11 +136,11 @@ void NoOpHistoryService::importHistory(const fs::path&, const std::function<void
 int main() {
   std::setlocale(LC_ALL, "en_US.utf8");
   MyLoggingConfig _;
-  LOG().debug<"guiDryRun is starting">();
+  LOG.debug<"guiDryRun is starting">();
   Database db;
   TableService ts(db);
   HistoryService hs(db);
   const auto ret = Gui(ts, hs).run();
-  LOG().debug<"guiDryRun is stopping">();
+  LOG.debug<"guiDryRun is stopping">();
   return ret;
 }

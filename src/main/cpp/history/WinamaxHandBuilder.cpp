@@ -14,10 +14,7 @@
 #include <optional>
 #include <ranges>
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace ps = phud::strings;
 
@@ -127,7 +124,7 @@ getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(std::string_view lin
 static constexpr auto DEALT_TO_LENGTH = ps::length("Dealt to ");
 
 [[nodiscard]] static std::array<Card, 5> parseHeroCards(TextFile& tf, const PlayerCache& cache) {
-  LOG().debug<"Parsing hero cards for file {}.">(tf.getFileStem());
+  LOG.debug<"Parsing hero cards for file {}.">(tf.getFileStem());
 
   if (tf.startsWith("Dealt to ")) {
     const auto line = tf.getLine();
@@ -144,7 +141,7 @@ static constexpr auto DEALT_TO_LENGTH = ps::length("Dealt to ");
 }
 
 [[nodiscard]] static std::array<Card, 5> parseBoardCards(TextFile& tf) {
-  LOG().debug<"Parsing board cards for file {}.">(tf.getFileStem());
+  LOG.debug<"Parsing board cards for file {}.">(tf.getFileStem());
   auto ret = FIVE_NONE_CARDS;
 
   while (!tf.lineIsEmpty()) {
@@ -191,7 +188,7 @@ struct [[nodiscard]] NbMaxSeatsTableNameButtonSeat final {
 getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
   tf.next();
   const auto line = tf.getLine();
-  LOG().debug<"Parsing table line {}.">(line);
+  LOG.debug<"Parsing table line {}.">(line);
   // Table: 'Frankfurt 11' 9-max (real money) Seat #2 is the button
   // Table: 'Expresso(111550795)#0' 3-max (real money) Seat #1 is the button
   // ^Table: '(.*)' (.*)-max .* Seat #(.*) is the button$
@@ -213,7 +210,7 @@ getNbMaxSeatsTableNameButtonSeatFromTableLine(TextFile& tf) {
 static constexpr auto POSTS_ANTE_LENGTH = ps::length(" posts ante ");
 
 [[nodiscard]] static long parseAnte(TextFile& tf) {
-  LOG().debug<"Parsing ante for file {}.">(tf.getFileStem());
+  LOG.debug<"Parsing ante for file {}.">(tf.getFileStem());
   // "^(.*) posts m_ante (.*).*$"
   long ret = 0;
 
@@ -294,7 +291,7 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
 
 [[nodiscard]] static std::vector<std::unique_ptr<Action>>
 parseActionsAndWinners(TextFile& tf) {
-  LOG().debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
+  LOG.debug<"Parsing actions and winners for file {}.">(tf.getFileStem());
   std::vector<std::unique_ptr<Action>> actions;
   auto currentStreet = Street::none;
 
@@ -319,7 +316,7 @@ parseActionsAndWinners(TextFile& tf) {
 [[nodiscard]] static std::unique_ptr<Hand> getHand(GameType gameType, TextFile& tf,
                                                    PlayerCache& cache, int level, const Time& date,
                                                    std::string_view handId) {
-  LOG().debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
+  LOG.debug<"Building hand and maxSeats from history file {}.">(tf.getFileStem());
   const auto& [nbMaxSeats, tableName,
                buttonSeat] {getNbMaxSeatsTableNameButtonSeatFromTableLine(tf)};
   const auto seatPlayers = parseSeats(tf, cache);
@@ -332,7 +329,7 @@ parseActionsAndWinners(TextFile& tf) {
   const auto heroCards = parseHeroCards(tf, cache);
   auto actions = parseActionsAndWinners(tf);
   const auto boardCards = parseBoardCards(tf);
-  LOG().debug<"nb actions={}">(actions.size());
+  LOG.debug<"nb actions={}">(actions.size());
   Hand::Params params {.id = handId,
                        .gameType = gameType,
                        .siteName = ProgramInfos::WINAMAX_SITE_NAME,
@@ -350,14 +347,14 @@ parseActionsAndWinners(TextFile& tf) {
 }
 
 std::unique_ptr<Hand> WinamaxHandBuilder::buildCashgameHand(TextFile& tf, PlayerCache& pc) {
-  LOG().debug<"Building Cashgame from history file {}.">(tf.getFileStem());
+  LOG.debug<"Building Cashgame from history file {}.">(tf.getFileStem());
   const auto [_, date, handId] = parseStartOfWinamaxPokerLine(tf.getLine());
   // for cashGame, level is zero
   return getHand(toCashGameType(tf.getLine()), tf, pc, 0, date, handId);
 }
 
 std::unique_ptr<Hand> WinamaxHandBuilder::buildTournamentHand(TextFile& tf, PlayerCache& pc) {
-  LOG().debug<"Building Tournament from history file {}.">(tf.getFileStem());
+  LOG.debug<"Building Tournament from history file {}.">(tf.getFileStem());
   const auto& [level, date,
                handId] {getLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine())};
   return getHand(GameType::tournament, tf, pc, level, date, handId);
@@ -365,7 +362,7 @@ std::unique_ptr<Hand> WinamaxHandBuilder::buildTournamentHand(TextFile& tf, Play
 
 std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
 WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf, PlayerCache& pc) {
-  LOG().debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
+  LOG.debug<"Building Cashgame and game data from history file {}.">(tf.getFileStem());
   const auto& [smallBlind, bigBlind, date,
                handId] {getSmallBlindBigBlindDateHandIdFromCashGameWinamaxPokerLine(tf.getLine())};
   auto pHand = getHand(toCashGameType(tf.getLine()), tf, pc, 0, date, handId);
@@ -380,7 +377,7 @@ WinamaxHandBuilder::buildCashgameHandAndGameData(TextFile& tf, PlayerCache& pc) 
 
 std::pair<std::unique_ptr<Hand>, std::unique_ptr<GameData>>
 WinamaxHandBuilder::buildTournamentHandAndGameData(TextFile& tf, PlayerCache& pc) {
-  LOG().debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
+  LOG.debug<"Building Tournament and game data from history file {}.">(tf.getFileStem());
   const auto& [buyIn, level, date,
                handId] {getBuyInLevelDateHandIdFromTournamentWinamaxPokerLine(tf.getLine())};
   auto pHand = getHand(GameType::tournament, tf, pc, level, date, handId);

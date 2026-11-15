@@ -15,10 +15,7 @@
 #include <thread>       // std::thread::hardware_concurrency
 #include <utility>      // std::pair
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -40,7 +37,7 @@ namespace {
         return true;
       }
     } catch (const std::exception& e) {
-      LOG().error<"Couldn't save the history file '{}': {}">(file.string(), e.what());
+      LOG.error<"Couldn't save the history file '{}': {}">(file.string(), e.what());
     }
 
     return false;
@@ -134,7 +131,7 @@ HistoryService::~HistoryService() {
     stopWatchingHistory();
     HistoryService::stopImportingHistory();
   } catch (...) {
-    LOG()
+    LOG
         .error<
             "Unknown Error when stopping the history import in the HistoryService destruction.">();
   }
@@ -156,7 +153,7 @@ void HistoryService::importHistory(const fs::path& dir, const std::function<void
         // as this method will execute in another thread, it should not throw
         try {
           const auto files = pf::listTxtFilesInDir(dir / "history");
-          LOG().info<"Importing the {} files of the history directory '{}'">(files.size(),
+          LOG.info<"Importing the {} files of the history directory '{}'">(files.size(),
                                                                              dir.string());
 
           if (onSetNbFiles and !files.empty()) {
@@ -172,9 +169,9 @@ void HistoryService::importHistory(const fs::path& dir, const std::function<void
                              });
           }
         } catch (const std::exception& e) {
-          LOG().error<"Unexpected exception during the history import: {}.">(e.what());
+          LOG.error<"Unexpected exception during the history import: {}.">(e.what());
         } catch (...) {
-          LOG().error<"Unknown Error during the history import.">();
+          LOG.error<"Unknown Error during the history import.">();
         }
       }).then([this, onDone]() {
         if (!m_pImpl->m_stopImports and onDone) {
@@ -190,7 +187,7 @@ void HistoryService::importFilesModifiedSince(const fs::path& dir,
   const std::shared_ptr<PokerSiteHistory> pHistory = PokerSiteHistory::newInstance(dir);
 
   if (nullptr == pHistory) {
-    LOG().error<"Can't catch up with the history directory '{}'">(dir.string());
+    LOG.error<"Can't catch up with the history directory '{}'">(dir.string());
     return;
   }
 
@@ -201,7 +198,7 @@ void HistoryService::importFilesModifiedSince(const fs::path& dir,
                          return wasModifiedAfter(f, since);
                        }) |
                        std::ranges::to<std::vector>();
-    LOG().info<"Importing {} history files modified since the last check">(files.size());
+    LOG.info<"Importing {} history files modified since the last check">(files.size());
     readAndSaveFiles(pHistory, m_pImpl->m_database, files, m_pImpl->m_stopImports,
                      [&onFileSaved](const fs::path& file, bool isSaved) {
                        if (isSaved and onFileSaved) {
@@ -220,11 +217,11 @@ void HistoryService::watchHistory(const fs::path& dir, const FileSavedCallback& 
   const std::shared_ptr<PokerSiteHistory> pHistory = PokerSiteHistory::newInstance(dir);
 
   if (nullptr == pHistory) {
-    LOG().error<"Can't watch the history directory '{}'">(dir.string());
+    LOG.error<"Can't watch the history directory '{}'">(dir.string());
     return;
   }
 
-  LOG().info<"Watching the history directory '{}'">(dir.string());
+  LOG.info<"Watching the history directory '{}'">(dir.string());
   m_pImpl->m_dirWatcher = DirWatcher::create(dir / "history");
   m_pImpl->m_dirWatcher->start(
       [pHistory, &database = m_pImpl->m_database, onFileSaved](const fs::path& file) {
@@ -243,7 +240,7 @@ void HistoryService::stopWatchingHistory() {
 
 void HistoryService::setHistoryDir(const fs::path& dir) {
   m_pImpl->m_historyDir = dir;
-  LOG().info<"Chosen Poker Site History Directory: {}">(dir.string());
+  LOG.info<"Chosen Poker Site History Directory: {}">(dir.string());
   m_pImpl->m_pokerSiteHistory = PokerSiteHistory::newInstance(m_pImpl->m_historyDir);
 }
 

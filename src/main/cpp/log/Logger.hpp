@@ -26,45 +26,45 @@ private:
   static void criticalStr(std::string_view msg);
 
 public:
-  explicit Logger(std::string_view name)
+  constexpr explicit Logger(std::string_view name) noexcept
     : m_name {name} {}
 
   // to be constexpr, fmt::format requires a constexpr string as first parameter
-  void trace(std::string_view msg) { traceStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void debug(std::string_view msg) { debugStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void info(std::string_view msg) { infoStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void warn(std::string_view msg) { warnStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void error(std::string_view msg) { errorStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void critical(std::string_view msg) { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void trace(std::string_view msg) const { traceStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void debug(std::string_view msg) const { debugStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void info(std::string_view msg) const { infoStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void warn(std::string_view msg) const { warnStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void error(std::string_view msg) const { errorStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void critical(std::string_view msg) const { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
 
   template <StringLiteral FMT, typename... Args>
-  void trace(Args&&... args) {
+  void trace(Args&&... args) const {
     // static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
     trace(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
   template <StringLiteral FMT, typename... Args>
-  void debug(Args&&... args) {
+  void debug(Args&&... args) const {
     debug(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
   template <StringLiteral FMT, typename... Args>
-  void info(Args&&... args) {
+  void info(Args&&... args) const {
     info(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
   template <StringLiteral FMT, typename... Args>
-  void warn(Args&&... args) {
+  void warn(Args&&... args) const {
     warn(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
   template <StringLiteral FMT, typename... Args>
-  void error(Args&&... args) {
+  void error(Args&&... args) const {
     error(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 
   template <StringLiteral FMT, typename... Args>
-  void critical(Args&&... args) {
+  void critical(Args&&... args) const {
     critical(fmt::format(FMT.value, std::forward<Args>(args)...));
   }
 

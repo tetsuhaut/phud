@@ -12,10 +12,7 @@
 #include <FL/Fl.H>
 #include <FL/Fl_Preferences.H>
 
-static Logger& LOG() {
-  static auto logger = Logger(CURRENT_FILE_NAME);
-  return logger;
-}
+static constexpr Logger LOG {CURRENT_FILE_NAME};
 
 namespace fs = std::filesystem;
 namespace pf = phud::filesystem;
@@ -123,13 +120,13 @@ void Preferences::saveHudLayout(const HudLayout& layout) const {
 
 void Preferences::saveStringPreference(std::string_view key, std::string_view value) const {
   if (0 == m_pImpl->m_preferences.set(key.data(), value.data())) {
-    LOG().error<"Couldn't save '{}' into the preferences repository.">(key);
+    LOG.error<"Couldn't save '{}' into the preferences repository.">(key);
   }
 }
 
 void Preferences::saveIntPreference(std::string_view key, int value) const {
   if (0 == m_pImpl->m_preferences.set(key.data(), value)) {
-    LOG().error<"Couldn't save '{}' into the preferences repository.">(key);
+    LOG.error<"Couldn't save '{}' into the preferences repository.">(key);
   }
 }
 
