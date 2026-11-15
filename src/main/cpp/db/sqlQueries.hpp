@@ -172,34 +172,34 @@ CREATE TABLE HandPlayerStats (
 CREATE INDEX HandPlayerStatsByPlayer ON HandPlayerStats (playerName, siteName, gameType);
 )raw";
 
+  // the queries with ?1, ?2... are prepared statements: their values are bound in the order of the
+  // columns, see PreparedInsert in Database.cpp
+
   static constexpr std::string_view INSERT_SITE = R"raw(
-INSERT OR IGNORE INTO Site (siteName) VALUES ('?siteName');
+INSERT OR IGNORE INTO Site (siteName) VALUES (?1);
 )raw";
 
   static constexpr std::string_view INSERT_GAME = R"raw(
 INSERT OR IGNORE INTO Game (
   gameId, siteName, gameName, variant, limitType, isRealMoney, nbMaxSeats, startDate
 )
-VALUES (
-  '?gameId', '?siteName', '?gameName', '?variant', '?limitType', ?isRealMoney, ?nbMaxSeats, '?startDate'
-);
+VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8);
 )raw";
 
   static constexpr std::string_view INSERT_TOURNAMENT = R"raw(
-    INSERT OR IGNORE INTO Tournament (tournamentId, buyIn) VALUES ('?tournamentId', ?buyIn);
+    INSERT OR IGNORE INTO Tournament (tournamentId, buyIn) VALUES (?1, ?2);
 )raw";
 
   static constexpr std::string_view INSERT_CASHGAME = R"raw(
-INSERT OR IGNORE INTO CashGame (cashGameId, smallBlind, bigBlind)
-VALUES ('?cashGameId', ?smallBlind, ?bigBlind);
+INSERT OR IGNORE INTO CashGame (cashGameId, smallBlind, bigBlind) VALUES (?1, ?2, ?3);
 )raw";
 
   static constexpr std::string_view INSERT_TOURNAMENT_HAND = R"raw(
-    INSERT OR IGNORE INTO TournamentHand (tournamentId, handId) VALUES ('?gameId', '?handId');
+    INSERT OR IGNORE INTO TournamentHand (tournamentId, handId) VALUES (?1, ?2);
 )raw";
 
   static constexpr std::string_view INSERT_CASHGAME_HAND = R"raw(
-    INSERT OR IGNORE INTO CashGameHand (cashGameId, handId) VALUES ('?gameId', '?handId');
+    INSERT OR IGNORE INTO CashGameHand (cashGameId, handId) VALUES (?1, ?2);
 )raw";
 
   static constexpr std::string_view INSERT_HAND = R"raw(
@@ -209,9 +209,7 @@ INSERT OR IGNORE INTO Hand (
   boardCard1, boardCard2, boardCard3, boardCard4, boardCard5
 )
 VALUES (
-  '?handId', '?siteName', '?tableName', ?buttonSeat, ?maxSeats, ?ante, ?level,
-  '?startDate', '?heroCard1', '?heroCard2', '?heroCard3', '?heroCard4', '?heroCard5',
-  '?boardCard1', '?boardCard2', '?boardCard3', '?boardCard4', '?boardCard5'
+  ?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18
 );
 )raw";
 
@@ -224,7 +222,6 @@ VALUES (
    * param actionIndex as int
    * param amount as double
    */
-  // a prepared statement: the values are bound by position, see ActionInsertStatement
   static constexpr std::string_view INSERT_ACTION = R"raw(
 INSERT OR IGNORE INTO Action (
   street, handId, playerName, actionType, actionIndex, amount
@@ -233,13 +230,12 @@ VALUES (?1, ?2, ?3, ?4, ?5, ?6);
 )raw";
 
   static constexpr std::string_view INSERT_PLAYER = R"raw(
-INSERT OR IGNORE INTO Player (playerName, siteName, isHero, comments)
-VALUES ('?playerName', '?siteName', ?isHero, '?comments');
+INSERT OR IGNORE INTO Player (playerName, siteName, isHero, comments) VALUES (?1, ?2, ?3, ?4);
 )raw";
 
   static constexpr std::string_view INSERT_HAND_PLAYER = R"raw(
 INSERT OR IGNORE INTO HandPlayer (handId, playerName, playerSeat, isWinner)
-VALUES ('?handId', '?playerName', ?playerSeat, ?isWinner);
+VALUES (?1, ?2, ?3, ?4);
 )raw";
 
   /**
@@ -252,9 +248,7 @@ INSERT OR IGNORE INTO HandPlayerStats (
   facedThreeBet, foldToThreeBet, callThreeBet, fourBet
 )
 VALUES (
-  '?handId', '?playerName', '?siteName', '?gameType', ?vpip, ?pfr, ?limp,
-  ?facedRaise, ?foldToRaise, ?callRaise, ?threeBet, ?couldSqueeze, ?squeeze,
-  ?facedThreeBet, ?foldToThreeBet, ?callThreeBet, ?fourBet
+  ?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17
 );
 )raw";
 

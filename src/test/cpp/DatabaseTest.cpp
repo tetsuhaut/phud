@@ -7,8 +7,11 @@
 #include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "history/PokerSiteHistory.hpp"
 #include "constants/ProgramInfos.hpp"
-#include <gsl/gsl> // gsl::finally
+#include "strings/StringUtils.hpp" // phud::strings::replaceAll
+#include <gsl/gsl>                 // gsl::finally
 #include <sqlite3.h>
+#include <fstream>
+#include <iterator> // std::istreambuf_iterator
 
 namespace fs = std::filesystem;
 namespace pt = phud::test;
@@ -56,6 +59,30 @@ static void assertPlayersAreOk(const Site& site) {
 }
 
 BOOST_AUTO_TEST_SUITE(DatabaseTest)
+
+BOOST_AUTO_TEST_CASE(DatabaseTest_playerNameWithAQuoteShouldBeSaved) {
+  // the values are bound to prepared statements: they need no escaping
+  const pt::TmpDir dir {"DatabaseTest_playerNameWithAQuote"};
+  const auto source = pt::getDirFromTestResources("Winamax/preflopStats/history");
+  fs::create_directories(dir.path() / "history");
+  fs::copy_file(source / "winamax_positioning_file.dat",
+                dir.path() / "history" / "winamax_positioning_file.dat");
+  std::ifstream in {source / "20260101_Testville_real_holdem_no-limit.txt", std::ios::binary};
+  const std::string content {std::istreambuf_iterator<char>(in), {}};
+  std::ofstream {dir.path() / "history" / "20260101_Testville_real_holdem_no-limit.txt",
+                 std::ios::binary}
+      << phud::strings::replaceAll(content, "alice", "O'Neil");
+  // a new file, as the schema is not created in an existing one
+  const auto dbFile = dir.path() / "phud.db";
+  {
+    Database db {dbFile.string()};
+    db.save(*PokerSiteHistory::load(dir.path()));
+  }
+  BOOST_TEST(1 == countRows(dbFile, "Player WHERE playerName = 'O''Neil'"));
+  BOOST_TEST(0 < countRows(dbFile, "HandPlayer WHERE playerName = 'O''Neil'"));
+  BOOST_TEST(0 < countRows(dbFile, "HandPlayerStats WHERE playerName = 'O''Neil'"));
+  BOOST_TEST(0 < countRows(dbFile, "Action WHERE playerName = 'O''Neil'"));
+}
 
 BOOST_AUTO_TEST_CASE(DatabaseTest_savingSimpleWinamaxCashGameShouldSucceed) {
   const auto pSite = PokerSiteHistory::load(pt::getDirFromTestResources("Winamax/simpleCGHisto"));

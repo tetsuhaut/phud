@@ -1,9 +1,9 @@
 #include "constants/TableConstants.hpp"
 #include "db/Database.hpp" // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database), std::span
-#include "db/SqlInsertor.hpp" // Game
 #include "db/SqlSelector.hpp"
 #include "db/sqlQueries.hpp" // all the SQL queries
 #include "entities/Action.hpp"
+#include "entities/Card.hpp" // toString(Card)
 #include "entities/Game.hpp" // Cashgame, Limit, Time, Tournament, Variant
 #include "entities/GameType.hpp"
 #include "entities/Hand.hpp" // std::array
@@ -16,7 +16,6 @@
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
 #include "threads/ThreadPool.hpp" // ThreadPool, Future
-#include <frozen/unordered_map.h>
 #include <gsl/gsl>                       // gsl::not_null
 #include <sqlite3.h>                     // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await
@@ -111,145 +110,259 @@ namespace {
     return pDb;
   }
 
-  static_assert(ps::contains(phud::sql::INSERT_CASHGAME_HAND, '?'), "ill-formed SQL template");
-  static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT_HAND, '?'), "ill-formed SQL template");
-  constexpr auto GAME_TYPE_TO_ID_AND_COLUMN_NAME {
-      frozen::make_unordered_map<GameType, std::string_view>(
-          {{GameType::cashGame, phud::sql::INSERT_CASHGAME_HAND},
-           {GameType::fastFold, phud::sql::INSERT_CASHGAME_HAND},
-           {GameType::tournament, phud::sql::INSERT_TOURNAMENT_HAND}})};
-
-  void insertGame(const gsl::not_null<sqlite3*> db, const auto& g) {
-    static_assert(ps::contains(phud::sql::INSERT_GAME, '?'), "ill-formed SQL template");
-    executeSql(db, SqlInsertor(phud::sql::INSERT_GAME)
-                       .gameId(g.getId()) // use the tournament ID for the Game
-                       .siteName(g.getSiteName())
-                       .gameName(g.getName())
-                       .variant(g.getVariant())
-                       .limitType(g.getLimitType())
-                       .isRealMoney(g.isRealMoney())
-                       .nbMaxSeats(g.getMaxNbSeats())
-                       .startDate(g.getStartDate().toSqliteDate())
-                       .build());
-  }
-
-  void insertSpecificGame(const gsl::not_null<sqlite3*> db, const Tournament& t) {
-    LOG().debug<"saving the tournament with id={}">(t.getId());
-    static_assert(ps::contains(phud::sql::INSERT_TOURNAMENT, '?'), "ill-formed SQL template");
-    executeSql(db, SqlInsertor(phud::sql::INSERT_TOURNAMENT)
-                       .tournamentId(t.getId())
-                       .buyIn(t.getBuyIn())
-                       .build());
-  }
-
   /**
-   * @throws DatabaseException if an error occurs during the insert
+   * An insertion prepared once, then executed for each row. Building then parsing a SQL text for
+   * each row took most of the import time. The values are bound, so they need no escaping: a
+   * player name can contain a quote.
+   * The values are bound in the order of the columns of the query, then execute() inserts the row:
+   *   insert.text(handId).integer(index).execute();
+   * The texts are not copied: they must stay valid until execute() returns.
    */
-  void insertSpecificGame(const gsl::not_null<sqlite3*> db, const CashGame& cg) {
-    LOG().debug<"saving the cash game with id={}">(cg.getId());
-    static_assert(ps::contains(phud::sql::INSERT_CASHGAME, '?'), "ill-formed SQL template");
-    executeSql(db, SqlInsertor(phud::sql::INSERT_CASHGAME)
-                       .cashGameId(cg.getId())
-                       .smallBlind(cg.getSmallBlind())
-                       .bigBlind(cg.getBigBlind())
-                       .build());
-  }
-
-  /**
-   * The insertion of an action, prepared once and executed for each action. Building then parsing
-   * a SQL text for the actions took 30% of the import time. The values are bound, so they need no
-   * escaping: a player name can contain a quote.
-   */
-  class [[nodiscard]] ActionInsertStatement final {
+  class [[nodiscard]] PreparedInsert final {
   private:
     gsl::not_null<sqlite3*> m_db;
+    std::string_view m_sql;
     // prepared at the first insertion: an existing database file can have no schema yet
     mutable sqlite3_stmt* m_pStatement {nullptr};
+    mutable int m_nextPosition {1};
 
     void require(int returnCode, int expected, std::string_view what) const {
       if (expected != returnCode) {
-        throw DatabaseException(
-            fmt::format("Can't {} the action insertion: {}", what, sqlite3_errmsg(m_db)));
+        throw DatabaseException(fmt::format("Can't {} the query\n{}\nerror message:\n{}\n", what,
+                                            m_sql, sqlite3_errmsg(m_db)));
       }
     }
 
     /**
-     * The text must stay valid until the statement is executed, as it is not copied.
-     */
-    void bindText(int position, std::string_view text) const {
-      require(sqlite3_bind_text(m_pStatement, position, text.data(),
-                                static_cast<int>(text.size()), SQLITE_STATIC),
-              SQLITE_OK, "bind a value of");
-    }
-
-    /**
+     * @returns the statement, prepared if needed, and the position of the value to bind next.
      * @throws DatabaseException if the statement can't be prepared
      */
-    void prepareIfNeeded() const {
+    [[nodiscard]] std::pair<sqlite3_stmt*, int> nextBinding() const {
       if (nullptr == m_pStatement) {
-        static_assert(ps::contains(phud::sql::INSERT_ACTION, '?'), "ill-formed SQL template");
-        require(sqlite3_prepare_v3(m_db, phud::sql::INSERT_ACTION.data(),
-                                   static_cast<int>(phud::sql::INSERT_ACTION.size()),
+        require(sqlite3_prepare_v3(m_db, m_sql.data(), static_cast<int>(m_sql.size()),
                                    SQLITE_PREPARE_PERSISTENT, &m_pStatement, nullptr),
                 SQLITE_OK, "prepare");
       }
+
+      return {m_pStatement, m_nextPosition++};
     }
 
   public:
-    explicit ActionInsertStatement(gsl::not_null<sqlite3*> db)
-      : m_db {db} {}
+    PreparedInsert(gsl::not_null<sqlite3*> db, std::string_view sql)
+      : m_db {db},
+        m_sql {sql} {}
 
-    ActionInsertStatement(const ActionInsertStatement&) = delete;
-    ActionInsertStatement(ActionInsertStatement&&) = delete;
-    ActionInsertStatement& operator=(const ActionInsertStatement&) = delete;
-    ActionInsertStatement& operator=(ActionInsertStatement&&) = delete;
+    PreparedInsert(const PreparedInsert&) = delete;
+    PreparedInsert(PreparedInsert&&) = delete;
+    PreparedInsert& operator=(const PreparedInsert&) = delete;
+    PreparedInsert& operator=(PreparedInsert&&) = delete;
 
     // must be destroyed before the database is closed
-    ~ActionInsertStatement() { sqlite3_finalize(m_pStatement); }
+    ~PreparedInsert() { sqlite3_finalize(m_pStatement); }
+
+    const PreparedInsert& text(std::string_view value) const {
+      const auto [pStatement, position] = nextBinding();
+      require(sqlite3_bind_text(pStatement, position, value.data(),
+                                static_cast<int>(value.size()), SQLITE_STATIC),
+              SQLITE_OK, "bind a value of");
+      return *this;
+    }
+
+    const PreparedInsert& integer(long long value) const {
+      const auto [pStatement, position] = nextBinding();
+      require(sqlite3_bind_int64(pStatement, position, value), SQLITE_OK, "bind a value of");
+      return *this;
+    }
+
+    const PreparedInsert& real(double value) const {
+      const auto [pStatement, position] = nextBinding();
+      require(sqlite3_bind_double(pStatement, position, value), SQLITE_OK, "bind a value of");
+      return *this;
+    }
+
+    // stored as 1 or 0
+    const PreparedInsert& boolean(bool value) const { return integer(value ? 1 : 0); }
 
     /**
-     * @throws DatabaseException if an error occurs during the insert
+     * Inserts the row with the bound values, then gets ready for the next row.
+     * @throws DatabaseException if not every value is bound, or if an error occurs
      */
-    void insert(std::string_view handId, const Action& action) const {
-      prepareIfNeeded();
-      bindText(1, toString(action.getStreet()));
-      bindText(2, handId);
-      bindText(3, action.getPlayerName());
-      bindText(4, toString(action.getType()));
-      require(sqlite3_bind_int64(m_pStatement, 5, static_cast<sqlite3_int64>(action.getIndex())),
-              SQLITE_OK, "bind a value of");
-      require(sqlite3_bind_double(m_pStatement, 6, action.getAmount()), SQLITE_OK,
-              "bind a value of");
+    void execute() const {
+      const auto nbBoundValues = m_nextPosition - 1;
+      m_nextPosition = 1;
+      require(nbBoundValues, sqlite3_bind_parameter_count(m_pStatement), "bind every value of");
       const auto returnCode = sqlite3_step(m_pStatement);
       // reset even after an error, so that the statement can be used again
       sqlite3_reset(m_pStatement);
       require(returnCode, SQLITE_DONE, "execute");
     }
-  }; // class ActionInsertStatement
+  }; // class PreparedInsert
 
   /**
+   * Every insertion of the database, prepared once for the database connection.
+   */
+  struct [[nodiscard]] PreparedInserts final {
+    PreparedInsert site;
+    PreparedInsert player;
+    PreparedInsert game;
+    PreparedInsert tournament;
+    PreparedInsert cashGame;
+    PreparedInsert hand;
+    PreparedInsert handPlayer;
+    PreparedInsert handPlayerStats;
+    PreparedInsert cashGameHand;
+    PreparedInsert tournamentHand;
+    PreparedInsert action;
+
+    explicit PreparedInserts(gsl::not_null<sqlite3*> db)
+      : site {db, phud::sql::INSERT_SITE},
+        player {db, phud::sql::INSERT_PLAYER},
+        game {db, phud::sql::INSERT_GAME},
+        tournament {db, phud::sql::INSERT_TOURNAMENT},
+        cashGame {db, phud::sql::INSERT_CASHGAME},
+        hand {db, phud::sql::INSERT_HAND},
+        handPlayer {db, phud::sql::INSERT_HAND_PLAYER},
+        handPlayerStats {db, phud::sql::INSERT_HAND_PLAYER_STATS},
+        cashGameHand {db, phud::sql::INSERT_CASHGAME_HAND},
+        tournamentHand {db, phud::sql::INSERT_TOURNAMENT_HAND},
+        action {db, phud::sql::INSERT_ACTION} {}
+
+    /**
+     * @returns the insertion linking a hand to its game
+     */
+    [[nodiscard]] const PreparedInsert& gameHand(GameType gameType) const noexcept {
+      return (GameType::tournament == gameType) ? tournamentHand : cashGameHand;
+    }
+  }; // struct PreparedInserts
+
+  void insertGame(const PreparedInsert& insert, const auto& game) {
+    const auto startDate = game.getStartDate().toSqliteDate(); // must live until execute()
+    insert.text(game.getId()) // use the tournament ID for the Game
+        .text(game.getSiteName())
+        .text(game.getName())
+        .text(toString(game.getVariant()))
+        .text(toString(game.getLimitType()))
+        .boolean(game.isRealMoney())
+        .text(tableSeat::toString(game.getMaxNbSeats()))
+        .text(startDate)
+        .execute();
+  }
+
+  void insertSpecificGame(const PreparedInserts& inserts, const Tournament& tournament) {
+    LOG().debug<"saving the tournament with id={}">(tournament.getId());
+    inserts.tournament.text(tournament.getId()).real(tournament.getBuyIn()).execute();
+  }
+
+  void insertSpecificGame(const PreparedInserts& inserts, const CashGame& cashGame) {
+    LOG().debug<"saving the cash game with id={}">(cashGame.getId());
+    inserts.cashGame.text(cashGame.getId())
+        .real(cashGame.getSmallBlind())
+        .real(cashGame.getBigBlind())
+        .execute();
+  }
+
+  void insertHand(const PreparedInsert& insert, const Hand& hand) {
+    const auto startDate = hand.getStartDate().toSqliteDate(); // must live until execute()
+    insert.text(hand.getId())
+        .text(hand.getSiteName())
+        .text(hand.getTableName())
+        .text(tableSeat::toString(hand.getButtonSeat()))
+        .text(tableSeat::toString(hand.getMaxSeats()))
+        .integer(hand.getAnte())
+        .integer(hand.getLevel())
+        .text(startDate)
+        .text(toString(hand.getHeroCard1()))
+        .text(toString(hand.getHeroCard2()))
+        .text(toString(hand.getHeroCard3()))
+        .text(toString(hand.getHeroCard4()))
+        .text(toString(hand.getHeroCard5()))
+        .text(toString(hand.getBoardCard1()))
+        .text(toString(hand.getBoardCard2()))
+        .text(toString(hand.getBoardCard3()))
+        .text(toString(hand.getBoardCard4()))
+        .text(toString(hand.getBoardCard5()))
+        .execute();
+  }
+
+  void insertHandPlayers(const PreparedInsert& insert, const Hand& hand) {
+    const auto seats = hand.getSeats();
+    validation::require(!std::ranges::all_of(seats, [](const auto& p) { return p.empty(); }),
+                        "trying to save a hand with no players");
+    const auto isSeated = [](const auto& indexedPlayer) {
+      return !std::get<1>(indexedPlayer).empty();
+    };
+
+    // we suppose the Player has been saved before this call
+    for (const auto& [index, playerName] : seats | std::views::enumerate |
+                                               std::views::filter(isSeated)) {
+      insert.text(hand.getId())
+          .text(playerName)
+          .text(tableSeat::toString(tableSeat::fromArrayIndex(index)))
+          .boolean(hand.isWinner(playerName))
+          .execute();
+    }
+  }
+
+  void insertHandPlayerStats(const PreparedInsert& insert, const Hand& hand,
+                             const HandPlayerStats& stats) {
+    insert.text(hand.getId())
+        .text(stats.playerName)
+        .text(hand.getSiteName())
+        .text(toString(hand.getGameType()))
+        .boolean(stats.vpip)
+        .boolean(stats.pfr)
+        .boolean(stats.limp)
+        .boolean(stats.facedRaise)
+        .boolean(stats.foldToRaise)
+        .boolean(stats.callRaise)
+        .boolean(stats.threeBet)
+        .boolean(stats.couldSqueeze)
+        .boolean(stats.squeeze)
+        .boolean(stats.facedThreeBet)
+        .boolean(stats.foldToThreeBet)
+        .boolean(stats.callThreeBet)
+        .boolean(stats.fourBet)
+        .execute();
+  }
+
+  void insertAction(const PreparedInsert& insert, const Hand& hand, const Action& action) {
+    insert.text(toString(action.getStreet()))
+        .text(hand.getId())
+        .text(action.getPlayerName())
+        .text(toString(action.getType()))
+        .integer(static_cast<long long>(action.getIndex()))
+        .real(action.getAmount())
+        .execute();
+  }
+
+  /**
+   * Saves a hand, its players, their statistics and actions, and links it to its game.
    * @throws DatabaseException if an error occurs during the insert
    */
-  void saveActions(const ActionInsertStatement& actionInsert, const Hand& hand) {
-    std::ranges::for_each(hand.viewActions(), [&actionInsert, &hand](const auto* pAction) {
-      actionInsert.insert(hand.getId(), *pAction);
+  void saveHand(const PreparedInserts& inserts, std::string_view gameId, const Hand& hand) {
+    insertHand(inserts.hand, hand);
+    insertHandPlayers(inserts.handPlayer, hand);
+    std::ranges::for_each(computeHandPlayerStats(hand), [&inserts, &hand](const auto& stats) {
+      insertHandPlayerStats(inserts.handPlayerStats, hand, stats);
+    });
+    inserts.gameHand(hand.getGameType()).text(gameId).text(hand.getId()).execute();
+    LOG().trace<"saving {} actions from hand with id={}">(hand.viewActions().size(), hand.getId());
+    std::ranges::for_each(hand.viewActions(), [&inserts, &hand](const auto* pAction) {
+      insertAction(inserts.action, hand, *pAction);
     });
   }
 
   /**
    * @throws DatabaseException if an error occurs during the insert
    */
-  void saveGame(const gsl::not_null<sqlite3*> db, const ActionInsertStatement& actionInsert,
-                const auto& game) {
+  void saveGame(const PreparedInserts& inserts, const auto& game) {
     const auto hands = game.viewHands();
     const auto gameId = game.getId();
-    insertGame(db, game);
-    insertSpecificGame(db, game);
+    insertGame(inserts.game, game);
+    insertSpecificGame(inserts, game);
     LOG().debug<"saving {} hands from the game with id={}">(hands.size(), gameId);
-    saveHands(db, gameId, hands);
-    std::ranges::for_each(hands, [&actionInsert](const auto& h) {
-      LOG().trace<"saving {} actions from hand with id={}">(h->viewActions().size(), h->getId());
-      saveActions(actionInsert, *h);
+    std::ranges::for_each(hands, [&inserts, &gameId](const auto* pHand) {
+      saveHand(inserts, gameId, *pHand);
     });
   }
 } // anonymous namespace
@@ -259,12 +372,12 @@ struct [[nodiscard]] Database::Implementation final {
   gsl::not_null<sqlite3*> m_database;
   // the history import and the history watching can save at the same time
   std::mutex m_saveMutex {};
-  std::unique_ptr<ActionInsertStatement> m_actionInsert;
+  std::unique_ptr<PreparedInserts> m_inserts;
 
   explicit Implementation(std::string_view dbName)
     : m_dbName {dbName},
       m_database {createDatabase(dbName)},
-      m_actionInsert {std::make_unique<ActionInsertStatement>(m_database)} {}
+      m_inserts {std::make_unique<PreparedInserts>(m_database)} {}
 }; // struct  Database::Implementation
 
 class [[nodiscard]] Transaction final {
@@ -312,7 +425,7 @@ Database::Database(std::string_view name)
 
 Database::~Database() {
   // a database can't be closed while it has prepared statements
-  m_pImpl->m_actionInsert.reset();
+  m_pImpl->m_inserts.reset();
 
   if (SQLITE_OK != sqlite3_close(m_pImpl->m_database)) {
     LOG().error<"Unknown error when closing the database. Fetching the error message...">();
@@ -329,14 +442,14 @@ Database::~Database() {
  * @throws DatabaseException if an error occurs during the insert
  */
 void Database::save(const CashGame& game) const {
-  saveGame(m_pImpl->m_database, *m_pImpl->m_actionInsert, game);
+  saveGame(*m_pImpl->m_inserts, game);
 }
 
 /**
  * @throws DatabaseException if an error occurs during the insert
  */
 void Database::save(const Tournament& game) const {
-  saveGame(m_pImpl->m_database, *m_pImpl->m_actionInsert, game);
+  saveGame(*m_pImpl->m_inserts, game);
 }
 
 void Database::save(std::span<const Player* const> players) const {
@@ -344,25 +457,22 @@ void Database::save(std::span<const Player* const> players) const {
     return;
   }
 
-  static_assert(ps::contains(phud::sql::INSERT_PLAYER, '?'), "ill-formed SQL template");
-  SqlInsertor query {phud::sql::INSERT_PLAYER};
-  std::ranges::for_each(players, [&query](const auto& p) {
-    query.playerName(p->getName())
-        .siteName(p->getSiteName())
-        .isHero(p->isHero())
-        .comments(p->getComments())
-        .newInsert();
+  const auto& insert = m_pImpl->m_inserts->player;
+  std::ranges::for_each(players, [&insert](const auto* pPlayer) {
+    insert.text(pPlayer->getName())
+        .text(pPlayer->getSiteName())
+        .boolean(pPlayer->isHero())
+        .text(pPlayer->getComments())
+        .execute();
   });
-  executeSql(m_pImpl->m_database, query.build());
 }
 
 /**
  * @throws DatabaseException if an error occurs during the insert
  */
-static void saveSite(const gsl::not_null<sqlite3*> pDb, const Site& s) {
+static void saveSite(const PreparedInsert& insert, const Site& s) {
   LOG().debug<"saving the Site with name={}">(s.getName());
-  static_assert(ps::contains(phud::sql::INSERT_SITE, '?'), "ill-formed SQL template");
-  executeSql(pDb, SqlInsertor(phud::sql::INSERT_SITE).siteName(s.getName()).build());
+  insert.text(s.getName()).execute();
 }
 
 /**
@@ -389,106 +499,13 @@ static void saveGames(std::span<const T* const> games, Database& self) {
 void Database::save(const Site& site) {
   const std::scoped_lock lock {m_pImpl->m_saveMutex};
   Transaction transaction {m_pImpl->m_database};
-  saveSite(m_pImpl->m_database, site);
+  saveSite(m_pImpl->m_inserts->site, site);
   save(site.viewPlayers());
   const auto cashGames = site.viewCashGames();
   const auto tournaments = site.viewTournaments();
   saveGames(std::span {cashGames}, *this);
   saveGames(std::span {tournaments}, *this);
   transaction.commit();
-}
-
-static void insertHand(SqlInsertor& handInsert, const Hand& hand) {
-  handInsert.handId(hand.getId())
-      .siteName(hand.getSiteName())
-      .tableName(hand.getTableName())
-      .buttonSeat(hand.getButtonSeat())
-      .maxSeats(hand.getMaxSeats())
-      .level(hand.getLevel())
-      .ante(hand.getAnte())
-      .startDate(hand.getStartDate().toSqliteDate())
-      .heroCard1(hand.getHeroCard1())
-      .heroCard2(hand.getHeroCard2())
-      .heroCard3(hand.getHeroCard3())
-      .heroCard4(hand.getHeroCard4())
-      .heroCard5(hand.getHeroCard5())
-      .boardCard1(hand.getBoardCard1())
-      .boardCard2(hand.getBoardCard2())
-      .boardCard3(hand.getBoardCard3())
-      .boardCard4(hand.getBoardCard4())
-      .boardCard5(hand.getBoardCard5())
-      .newInsert();
-}
-
-static void insertHandPlayerStats(SqlInsertor& statsInsert, const Hand& hand,
-                                  const HandPlayerStats& stats) {
-  statsInsert.handId(hand.getId())
-      .playerName(stats.playerName)
-      .siteName(hand.getSiteName())
-      .gameType(hand.getGameType())
-      .vpip(stats.vpip)
-      .pfr(stats.pfr)
-      .limp(stats.limp)
-      .facedRaise(stats.facedRaise)
-      .foldToRaise(stats.foldToRaise)
-      .callRaise(stats.callRaise)
-      .threeBet(stats.threeBet)
-      .couldSqueeze(stats.couldSqueeze)
-      .squeeze(stats.squeeze)
-      .facedThreeBet(stats.facedThreeBet)
-      .foldToThreeBet(stats.foldToThreeBet)
-      .callThreeBet(stats.callThreeBet)
-      .fourBet(stats.fourBet)
-      .newInsert();
-}
-
-/**
- * @throws DatabaseException if an error occurs during the insert
- */
-static void saveHands(const gsl::not_null<sqlite3*> db, std::string_view gameId,
-                      std::span<const Hand* const> hands) {
-  if (hands.empty()) {
-    return;
-  }
-
-  LOG().trace<"create insert queries">();
-  static_assert(ps::contains(phud::sql::INSERT_HAND, '?'), "ill-formed SQL template");
-  SqlInsertor handInsert {phud::sql::INSERT_HAND};
-  static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER, '?'), "ill-formed SQL template");
-  SqlInsertor handPlayerInsert {phud::sql::INSERT_HAND_PLAYER};
-  static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER_STATS, '?'), "ill-formed SQL template");
-  SqlInsertor statsInsert {phud::sql::INSERT_HAND_PLAYER_STATS};
-  SqlInsertor gameHandInsert {
-      GAME_TYPE_TO_ID_AND_COLUMN_NAME.find(gsl::at(hands, 0)->getGameType())->second};
-  std::ranges::for_each(hands, [&](const auto& pHand) {
-    insertHand(handInsert, *pHand);
-    const auto seats = pHand->getSeats();
-    validation::require(!std::ranges::all_of(seats, [](const auto& p) { return p.empty(); }),
-                        "trying to save a hand with no players");
-    std::ranges::for_each(seats | std::views::enumerate,
-                          [pHand, &handPlayerInsert](const auto& indexedPlayer) {
-                            const auto [index, playerName] = indexedPlayer;
-                            // we suppose the Player has been saved before this call
-                            if (!playerName.empty()) {
-                              handPlayerInsert.handId(pHand->getId())
-                                  .playerName(playerName)
-                                  .playerSeat(tableSeat::fromArrayIndex(index))
-                                  .isWinner(pHand->isWinner(playerName))
-                                  .newInsert();
-                            }
-                          });
-    std::ranges::for_each(computeHandPlayerStats(*pHand), [pHand, &statsInsert](const auto& stats) {
-      insertHandPlayerStats(statsInsert, *pHand, stats);
-    });
-    gameHandInsert.gameId(gameId).handId(pHand->getId()).newInsert();
-  });
-  LOG().trace<"run insert queries">();
-  LOG().debug<"insert hands for table {}">(hands.front()->getTableName());
-  executeSql(db, handInsert.build());
-  executeSql(db, handPlayerInsert.build());
-  executeSql(db, statsInsert.build());
-  executeSql(db, gameHandInsert.build());
-  LOG().trace<"exit saveHands()">();
 }
 
 enum class /*[[nodiscard]]*/ QueryResult : std::uint8_t { NO_MORE_ROWS, ONE_ROW_OR_MORE };
