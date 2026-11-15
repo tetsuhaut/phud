@@ -464,13 +464,13 @@ BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesAreUsed) {
 }
 
 BOOST_AUTO_TEST_CASE(SourceStaticCheckTest_allSqlQueriesContainVariables) {
-  static_assert(ps::contains(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME, '?'),
+  // the queries use named parameters :xxx
+  static_assert(ps::contains(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME, ':'),
                 "ill-formed SQL template");
-  static_assert(ps::contains(phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME, '?'),
+  static_assert(ps::contains(phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME, ':'),
                 "ill-formed SQL template");
-  static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, '?'),
+  static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, ':'),
                 "ill-formed SQL template");
-  // the INSERT queries use named parameters :xxx
   static_assert(ps::contains(phud::sql::INSERT_ACTION, ':'), "ill-formed SQL template");
   static_assert(ps::contains(phud::sql::INSERT_HAND_PLAYER_STATS, ':'), "ill-formed SQL template");
   static_assert(ps::contains(phud::sql::INSERT_CASHGAME, ':'), "ill-formed SQL template");

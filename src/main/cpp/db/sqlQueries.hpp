@@ -172,8 +172,8 @@ CREATE TABLE HandPlayerStats (
 CREATE INDEX HandPlayerStatsByPlayer ON HandPlayerStats (playerName, siteName, gameType);
 )raw";
 
-  // the INSERT queries are prepared statements: their values are bound to the named parameters
-  // :xxx, see PreparedInsert in Database.cpp
+  // the queries are prepared statements: their values are bound to the named parameters
+  // :xxx, see PreparedStatement.hpp
 
   static constexpr std::string_view INSERT_SITE = R"raw(
 INSERT OR IGNORE INTO Site (siteName) VALUES (:siteName);
@@ -279,8 +279,8 @@ SELECT
 FROM Player p
 JOIN HandPlayerStats s ON s.playerName = p.playerName AND s.siteName = p.siteName
 WHERE
-  p.playerName = '?playerName' AND
-  p.siteName = '?siteName'
+  p.playerName = :playerName AND
+  p.siteName = :siteName
 GROUP BY p.playerName;
 )raw";
 
@@ -317,7 +317,7 @@ JOIN HandPlayerStats currentHand ON currentHand.handId = seated.handId AND curre
 JOIN Player p ON p.playerName = seated.playerName AND p.siteName = currentHand.siteName
 JOIN HandPlayerStats s ON s.playerName = p.playerName AND s.siteName = p.siteName AND s.gameType = currentHand.gameType
 WHERE seated.handId = (
-  SELECT handId FROM Hand WHERE tableName = '?tableName' AND siteName = '?siteName'
+  SELECT handId FROM Hand WHERE tableName = :tableName AND siteName = :siteName
   ORDER BY startDate DESC LIMIT 1
 )
 GROUP BY p.playerName
@@ -330,7 +330,7 @@ SELECT
 FROM
   Hand h
 WHERE
-  h.tableName = '?tableName' AND h.siteName = '?siteName'
+  h.tableName = :tableName AND h.siteName = :siteName
 ORDER BY h.startDate DESC limit 1
 )raw";
 

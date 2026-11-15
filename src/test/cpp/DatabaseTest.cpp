@@ -7,11 +7,14 @@
 #include "filesystem/FileUtils.hpp" // phud::filesystem
 #include "history/PokerSiteHistory.hpp"
 #include "constants/ProgramInfos.hpp"
+#include "statistics/PlayerStatistics.hpp"
+#include "statistics/TableStatistics.hpp"
 #include "strings/StringUtils.hpp" // phud::strings::replaceAll
 #include <gsl/gsl>                 // gsl::finally
 #include <sqlite3.h>
 #include <fstream>
-#include <iterator> // std::istreambuf_iterator
+#include <iterator>  // std::istreambuf_iterator
+#include <algorithm> // std::ranges::any_of
 
 namespace fs = std::filesystem;
 namespace pt = phud::test;
@@ -77,6 +80,14 @@ BOOST_AUTO_TEST_CASE(DatabaseTest_playerNameWithAQuoteShouldBeSaved) {
   {
     Database db {dbFile.string()};
     db.save(*PokerSiteHistory::load(dir.path()));
+    // the values are also bound when reading
+    const auto pStats = db.readPlayerStatistics(ProgramInfos::WINAMAX_SITE_NAME, "O'Neil");
+    BOOST_REQUIRE(nullptr != pStats);
+    BOOST_TEST("O'Neil" == pStats->getPlayerName());
+    const auto tableStats = db.readTableStatistics(ProgramInfos::WINAMAX_SITE_NAME, "Testville");
+    BOOST_TEST(std::ranges::any_of(tableStats.m_tableStats, [](const auto& pPlayerStats) {
+      return (nullptr != pPlayerStats) && ("O'Neil" == pPlayerStats->getPlayerName());
+    }));
   }
   BOOST_TEST(1 == countRows(dbFile, "Player WHERE playerName = 'O''Neil'"));
   BOOST_TEST(0 < countRows(dbFile, "HandPlayer WHERE playerName = 'O''Neil'"));

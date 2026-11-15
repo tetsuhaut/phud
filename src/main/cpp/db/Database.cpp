@@ -1,7 +1,6 @@
 #include "constants/TableConstants.hpp"
 #include "db/Database.hpp" // DatabaseException, std::string, std::vector, std::ostream (specialized by fmt to use operator<< with Database), std::span
-#include "db/PreparedInsert.hpp"
-#include "db/SqlSelector.hpp"
+#include "db/PreparedStatement.hpp"
 #include "db/sqlQueries.hpp" // all the SQL queries
 #include "entities/Action.hpp"
 #include "entities/Card.hpp" // toString(Card)
@@ -16,6 +15,7 @@
 #include "statistics/HandPlayerStats.hpp"
 #include "statistics/PlayerStatistics.hpp"
 #include "statistics/TableStatistics.hpp"
+#include "strings/StringUtils.hpp" // phud::strings::contains
 #include "threads/ThreadPool.hpp"        // ThreadPool, Future
 #include <gsl/gsl>                       // gsl::not_null
 #include <sqlite3.h>                     // sqlite3*
@@ -109,17 +109,17 @@ namespace {
    * Every insertion of the database, prepared once for the database connection.
    */
   struct [[nodiscard]] PreparedInserts final {
-    PreparedInsert site;
-    PreparedInsert player;
-    PreparedInsert game;
-    PreparedInsert tournament;
-    PreparedInsert cashGame;
-    PreparedInsert hand;
-    PreparedInsert handPlayer;
-    PreparedInsert handPlayerStats;
-    PreparedInsert cashGameHand;
-    PreparedInsert tournamentHand;
-    PreparedInsert action;
+    PreparedStatement site;
+    PreparedStatement player;
+    PreparedStatement game;
+    PreparedStatement tournament;
+    PreparedStatement cashGame;
+    PreparedStatement hand;
+    PreparedStatement handPlayer;
+    PreparedStatement handPlayerStats;
+    PreparedStatement cashGameHand;
+    PreparedStatement tournamentHand;
+    PreparedStatement action;
 
     explicit PreparedInserts(gsl::not_null<sqlite3*> db)
       : site {db, phud::sql::INSERT_SITE},
@@ -137,12 +137,12 @@ namespace {
     /**
      * @returns the insertion linking a hand to its game
      */
-    [[nodiscard]] PreparedInsert& gameHand(GameType gameType) noexcept {
+    [[nodiscard]] PreparedStatement& gameHand(GameType gameType) noexcept {
       return (GameType::tournament == gameType) ? tournamentHand : cashGameHand;
     }
   }; // struct PreparedInserts
 
-  void insertGame(PreparedInsert& insert, const auto& game) {
+  void insertGame(PreparedStatement& insert, const auto& game) {
     const auto startDate = game.getStartDate().toSqliteDate(); // must live until execute()
     insert
         .text(":gameId", game.getId()) // use the tournament ID for the Game
@@ -171,7 +171,7 @@ namespace {
         .execute();
   }
 
-  void insertHand(PreparedInsert& insert, const Hand& hand) {
+  void insertHand(PreparedStatement& insert, const Hand& hand) {
     const auto startDate = hand.getStartDate().toSqliteDate(); // must live until execute()
     insert.text(":handId", hand.getId())
         .text(":siteName", hand.getSiteName())
@@ -194,7 +194,7 @@ namespace {
         .execute();
   }
 
-  void insertHandPlayers(PreparedInsert& insert, const Hand& hand) {
+  void insertHandPlayers(PreparedStatement& insert, const Hand& hand) {
     const auto seats = hand.getSeats();
     validation::require(!std::ranges::all_of(seats, [](const auto& p) { return p.empty(); }),
                         "trying to save a hand with no players");
@@ -213,7 +213,7 @@ namespace {
     }
   }
 
-  void insertHandPlayerStats(PreparedInsert& insert, const Hand& hand,
+  void insertHandPlayerStats(PreparedStatement& insert, const Hand& hand,
                              const HandPlayerStats& stats) {
     insert.text(":handId", hand.getId())
         .text(":playerName", stats.playerName)
@@ -235,7 +235,7 @@ namespace {
         .execute();
   }
 
-  void insertAction(PreparedInsert& insert, const Hand& hand, const Action& action) {
+  void insertAction(PreparedStatement& insert, const Hand& hand, const Action& action) {
     insert.text(":street", toString(action.getStreet()))
         .text(":handId", hand.getId())
         .text(":playerName", action.getPlayerName())
@@ -382,7 +382,7 @@ void Database::save(std::span<const Player* const> players) {
 /**
  * @throws DatabaseException if an error occurs during the insert
  */
-static void saveSite(PreparedInsert& insert, const Site& s) {
+static void saveSite(PreparedStatement& insert, const Site& s) {
   LOG.debug<"saving the Site with name={}">(s.getName());
   insert.text(":siteName", s.getName()).execute();
 }
@@ -420,95 +420,13 @@ void Database::save(const Site& site) {
   transaction.commit();
 }
 
-enum class /*[[nodiscard]]*/ QueryResult : std::uint8_t { NO_MORE_ROWS, ONE_ROW_OR_MORE };
-
-class [[nodiscard]] PreparedStatement final {
-private:
-  sqlite3_stmt* m_pStatement = nullptr;
-  gsl::not_null<sqlite3*> m_pDatabase;
-  std::string m_sql;
-
-public:
-  PreparedStatement(const gsl::not_null<sqlite3*> pDatabase, std::string_view sql)
-    : m_pDatabase {pDatabase},
-      m_sql {sql} {
-    if (SQLITE_OK != sqlite3_prepare_v2(m_pDatabase, sql.data(), -1, &m_pStatement, nullptr)) {
-      throw DatabaseException(
-          fmt::format("Can't prepare the statement for query:\n{}\nDatabase error is:\n{}", m_sql,
-                      sqlite3_errmsg(m_pDatabase)));
-    }
-  }
-
-  // if we define a default constructor, we should define all of the default operations
-  PreparedStatement(const PreparedStatement&) = delete;
-  PreparedStatement(PreparedStatement&&) = delete;
-  PreparedStatement& operator=(const PreparedStatement&) = delete;
-  PreparedStatement& operator=(PreparedStatement&&) = delete;
-
-  ~PreparedStatement() {
-    if (SQLITE_OK != sqlite3_finalize(m_pStatement)) {
-      try {
-        LOG.error<"Can't close a prepared statement, database error is:\n{}">(
-            sqlite3_errmsg(m_pDatabase));
-      } catch (...) { // can't throw in a destructor
-        LOG.error<"Can't close a prepared statement, database error is unknown.">();
-      }
-    }
-  }
-
-  /**
-   * @returns QueryResult::ONE_ROW_OR_MORE when the executed SQL prepared statement returned one or
-   * more rows. else returns QueryResult::NO_MORE_ROWS.
-   * @throws DatabaseException if an error occurs
-   */
-  [[nodiscard]] QueryResult execute() {
-    const auto ret = sqlite3_step(m_pStatement);
-
-    if (SQLITE_DONE == ret) {
-      return QueryResult::NO_MORE_ROWS;
-    }
-
-    if (SQLITE_ROW == ret) {
-      return QueryResult::ONE_ROW_OR_MORE;
-    }
-
-    throw DatabaseException(
-        fmt::format("Can't execute the prepared statement\n{}\nDatabase error is:\n{}", m_sql,
-                    sqlite3_errmsg(m_pDatabase)));
-  }
-
-  [[nodiscard]] int getColumnCount() const noexcept { return sqlite3_column_count(m_pStatement); }
-  [[nodiscard]] int getColumnAsInt(int column) const noexcept {
-    return sqlite3_column_int(m_pStatement, column);
-  }
-
-  [[nodiscard]] double getColumnAsDouble(int column) const noexcept {
-    return sqlite3_column_double(m_pStatement, column);
-  }
-
-  [[nodiscard]] std::string getColumnAsString(int column) {
-    if (const auto* text {sqlite3_column_text(m_pStatement, column)}; nullptr != text) {
-      return reinterpret_cast<const char*>(text);
-    }
-    throw DatabaseException(
-        fmt::format("Got a null column name for column {} preparing statement {}", column, m_sql));
-  }
-
-  [[nodiscard]] bool getColumnAsBool(int column) const noexcept {
-    return 0 != getColumnAsInt(column);
-  }
-}; // class PreparedStatement
-
 Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) const {
-  static_assert(ps::contains(phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME, '?'),
+  static_assert(ps::contains(phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME, ':'),
                 "ill-formed SQL template");
-  const auto& sql {SqlSelector(phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME)
-                       .site(site)
-                       .table(table)
-                       .toString()};
-  PreparedStatement p {m_pImpl->m_database, sql};
+  PreparedStatement p {m_pImpl->m_database, phud::sql::GET_MAX_SEATS_BY_SITE_AND_TABLE_NAME};
+  p.text(":siteName", site).text(":tableName", table);
 
-  if (QueryResult::NO_MORE_ROWS == p.execute()) {
+  if (QueryResult::NO_MORE_ROWS == p.nextRow()) {
     return Seat::seatUnknown;
   }
 
@@ -519,11 +437,11 @@ Seat Database::getTableMaxSeat(std::string_view site, std::string_view table) co
 
 static std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS>
 readTableStatisticsQuery(PreparedStatement& p) {
-  static_assert(ps::contains(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME, '?'),
+  static_assert(ps::contains(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME, ':'),
                 "ill-formed SQL template");
   std::array<std::unique_ptr<PlayerStatistics>, TableConstants::MAX_SEATS> playerStats {};
 
-  if (QueryResult::NO_MORE_ROWS == p.execute()) {
+  if (QueryResult::NO_MORE_ROWS == p.nextRow()) {
     return playerStats;
   }
 
@@ -559,22 +477,19 @@ readTableStatisticsQuery(PreparedStatement& p) {
     } else {
       LOG.warn<"Invalid seat '{}' for player {}">(static_cast<int>(playerSeat), playerName);
     }
-  } while (QueryResult::ONE_ROW_OR_MORE == p.execute());
+  } while (QueryResult::ONE_ROW_OR_MORE == p.nextRow());
 
   return playerStats;
 }
 
 std::unique_ptr<PlayerStatistics>
 Database::readPlayerStatistics(std::string_view site, std::string_view playerName) const {
-  static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, '?'),
+  static_assert(ps::contains(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME, ':'),
                 "ill-formed SQL template");
-  const auto& sql {SqlSelector(phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME)
-                       .site(site)
-                       .player(playerName)
-                       .toString()};
-  PreparedStatement p {m_pImpl->m_database, sql};
+  PreparedStatement p {m_pImpl->m_database, phud::sql::GET_STATS_BY_SITE_AND_PLAYER_NAME};
+  p.text(":siteName", site).text(":playerName", playerName);
 
-  if (QueryResult::NO_MORE_ROWS == p.execute()) {
+  if (QueryResult::NO_MORE_ROWS == p.nextRow()) {
     return nullptr;
   }
 
@@ -593,11 +508,8 @@ Database::readPlayerStatistics(std::string_view site, std::string_view playerNam
 }
 
 TableStatistics Database::readTableStatistics(std::string_view site, std::string_view table) const {
-  const auto& sql {SqlSelector(phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME)
-                       .site(site)
-                       .table(table)
-                       .toString()};
-  PreparedStatement p {m_pImpl->m_database, sql};
+  PreparedStatement p {m_pImpl->m_database, phud::sql::GET_PREFLOP_STATS_BY_SITE_AND_TABLE_NAME};
+  p.text(":siteName", site).text(":tableName", table);
   return TableStatistics {site, table, getTableMaxSeat(site, table), readTableStatisticsQuery(p)};
 }
 
