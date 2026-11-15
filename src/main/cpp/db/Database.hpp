@@ -14,7 +14,7 @@ enum class Seat : short;
 struct TableStatistics;
 
 /**
- * The database where we persist all the entities: poker hands and players.
+ * The database where we persist all the entities: poker hands, players, games, actions.
  */
 class [[nodiscard]] Database final {
 private:
@@ -29,26 +29,25 @@ public:
   Database();
 
   /**
-   * Creates a data access layer object, using the given file.
+   * Creates a data access layer object, using the given file name to store the data.
    * @param name the database file name. If it is an empty file, the database and its schema will be
    * created.
    * @throws DatabaseException in case of problem getting the query SQL code or opeing the database
    * file.
    */
   explicit Database(std::string_view name);
+  ~Database();
 
-  // if we define a default constructor and destructor, we should define all of the default
-  // operations
+  // as we have defined a default constructor and destructor, we must define all of the default operations
   Database(const Database&) = delete;
   Database(Database&&) = delete;
   Database& operator=(const Database&) = delete;
   Database& operator=(Database&&) = delete;
 
-  ~Database();
   void save(const Site& site);
-  void save(const CashGame& game) const;
-  void save(const Tournament& game) const;
-  void save(std::span<const Player* const> players) const;
+  void save(const CashGame& game);
+  void save(const Tournament& game);
+  void save(std::span<const Player* const> players);
   // exported for unit tests
   [[nodiscard]] std::unique_ptr<PlayerStatistics>
   readPlayerStatistics(std::string_view site, std::string_view playerName) const;

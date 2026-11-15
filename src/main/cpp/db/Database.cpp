@@ -19,6 +19,8 @@
 #include <gsl/gsl>                       // gsl::not_null
 #include <sqlite3.h>                     // sqlite3*
 #include <stlab/concurrency/utility.hpp> // stlab::await
+#include <bit>                           // std::popcount
+#include <cstdint>                       // std::uint64_t
 #include <mutex>
 #include <ranges>
 #include <utility> // std::forward
@@ -89,11 +91,8 @@ namespace {
 
     const auto pDb = openDatabase(name); // will create the database file if needed
 
-    if (IN_MEMORY != name) {
-      // the history is saved file by file: with the default settings, each commit waits for the
-      // disk, 23 s for a whole history instead of 0.3 s. WAL stays consistent after a crash, and
-      // only loses the last commits after a power failure, which a reimport recovers.
-      executeSql(pDb, "PRAGMA journal_mode=WAL;");
+    if (IN_MEMORY != name) { // use Write-Ahead Logging for better performance
+      executeSql(pDb, "PRAGMA journal_mode=WAL;"); 
       executeSql(pDb, "PRAGMA synchronous=NORMAL;");
     }
 
@@ -103,7 +102,7 @@ namespace {
                             [pDb](const auto& query) { executeSql(pDb, query); });
       LOG.info<"database created">();
     }
-
+    
     return pDb;
   }
 
@@ -111,17 +110,22 @@ namespace {
    * An insertion prepared once, then executed for each row. Building then parsing a SQL text for
    * each row took most of the import time. The values are bound, so they need no escaping: a
    * player name can contain a quote.
-   * The values are bound in the order of the columns of the query, then execute() inserts the row:
-   *   insert.text(handId).integer(index).execute();
+   * Each value is bound to a named parameter of the query, in any order, then execute() inserts the
+   * row:
+   *   insert.text(":handId", handId).integer(":actionIndex", index).execute();
    * The texts are not copied: they must stay valid until execute() returns.
    */
   class [[nodiscard]] PreparedInsert final {
   private:
+    // the bound parameters are remembered as the bits of an integer
+    static constexpr int MAX_NB_PARAMETERS {64};
+
     gsl::not_null<sqlite3*> m_db;
     std::string_view m_sql;
     // prepared at the first insertion: an existing database file can have no schema yet
-    mutable sqlite3_stmt* m_pStatement {nullptr};
-    mutable int m_nextPosition {1};
+    sqlite3_stmt* m_pStatement {nullptr};
+    // the bit (position - 1) is set when the parameter at this position is bound
+    std::uint64_t m_boundPositions {0};
 
     void require(int returnCode, int expected, std::string_view what) const {
       if (expected != returnCode) {
@@ -130,18 +134,42 @@ namespace {
       }
     }
 
+    [[noreturn]] void fail(std::string_view problem) const {
+      throw DatabaseException(fmt::format("{} in the query\n{}\n", problem, m_sql));
+    }
+
     /**
-     * @returns the statement, prepared if needed, and the position of the value to bind next.
-     * @throws DatabaseException if the statement can't be prepared
+     * Prepares the statement if needed, and marks the parameter as bound.
+     * @param name the name of the parameter in the query, with its prefix, e.g. ":handId"
+     * @returns the position of the parameter in the query
+     * @throws DatabaseException if the statement can't be prepared, if the query has no parameter
+     * with this name, or if the parameter is already bound for this row
      */
-    [[nodiscard]] std::pair<sqlite3_stmt*, int> nextBinding() const {
+    [[nodiscard]] int bindingPosition(gsl::not_null<const char*> name) {
       if (nullptr == m_pStatement) {
         require(sqlite3_prepare_v3(m_db, m_sql.data(), static_cast<int>(m_sql.size()),
                                    SQLITE_PREPARE_PERSISTENT, &m_pStatement, nullptr),
                 SQLITE_OK, "prepare");
       }
 
-      return {m_pStatement, m_nextPosition++};
+      const auto position = sqlite3_bind_parameter_index(m_pStatement, name);
+
+      if (0 == position) {
+        fail(fmt::format("No parameter named '{}'", name.get()));
+      }
+
+      if (MAX_NB_PARAMETERS < position) {
+        fail(fmt::format("More than {} parameters", MAX_NB_PARAMETERS));
+      }
+
+      const auto bit = std::uint64_t {1} << (position - 1);
+
+      if (0 != (m_boundPositions & bit)) {
+        fail(fmt::format("The parameter '{}' is bound twice", name.get()));
+      }
+
+      m_boundPositions |= bit;
+      return position;
     }
 
   public:
@@ -157,36 +185,39 @@ namespace {
     // must be destroyed before the database is closed
     ~PreparedInsert() { sqlite3_finalize(m_pStatement); }
 
-    const PreparedInsert& text(std::string_view value) const {
-      const auto [pStatement, position] = nextBinding();
-      require(sqlite3_bind_text(pStatement, position, value.data(), static_cast<int>(value.size()),
-                                SQLITE_STATIC),
+    PreparedInsert& text(gsl::not_null<const char*> name, std::string_view value) {
+      const auto position = bindingPosition(name);
+      require(sqlite3_bind_text(m_pStatement, position, value.data(),
+                                static_cast<int>(value.size()), SQLITE_STATIC),
               SQLITE_OK, "bind a value of");
       return *this;
     }
 
-    const PreparedInsert& integer(long long value) const {
-      const auto [pStatement, position] = nextBinding();
-      require(sqlite3_bind_int64(pStatement, position, value), SQLITE_OK, "bind a value of");
+    PreparedInsert& integer(gsl::not_null<const char*> name, long long value) {
+      const auto position = bindingPosition(name);
+      require(sqlite3_bind_int64(m_pStatement, position, value), SQLITE_OK, "bind a value of");
       return *this;
     }
 
-    const PreparedInsert& real(double value) const {
-      const auto [pStatement, position] = nextBinding();
-      require(sqlite3_bind_double(pStatement, position, value), SQLITE_OK, "bind a value of");
+    PreparedInsert& real(gsl::not_null<const char*> name, double value) {
+      const auto position = bindingPosition(name);
+      require(sqlite3_bind_double(m_pStatement, position, value), SQLITE_OK, "bind a value of");
       return *this;
     }
 
     // stored as 1 or 0
-    const PreparedInsert& boolean(bool value) const { return integer(value ? 1 : 0); }
+    PreparedInsert& boolean(gsl::not_null<const char*> name, bool value) {
+      return integer(name, value ? 1 : 0);
+    }
 
     /**
      * Inserts the row with the bound values, then gets ready for the next row.
      * @throws DatabaseException if not every value is bound, or if an error occurs
      */
-    void execute() const {
-      const auto nbBoundValues = m_nextPosition - 1;
-      m_nextPosition = 1;
+    void execute() {
+      // SQLite keeps the values of the previous row: an unbound parameter would silently reuse it
+      const auto nbBoundValues = std::popcount(m_boundPositions);
+      m_boundPositions = 0;
       require(nbBoundValues, sqlite3_bind_parameter_count(m_pStatement), "bind every value of");
       const auto returnCode = sqlite3_step(m_pStatement);
       // reset even after an error, so that the statement can be used again
@@ -227,62 +258,64 @@ namespace {
     /**
      * @returns the insertion linking a hand to its game
      */
-    [[nodiscard]] const PreparedInsert& gameHand(GameType gameType) const noexcept {
+    [[nodiscard]] PreparedInsert& gameHand(GameType gameType) noexcept {
       return (GameType::tournament == gameType) ? tournamentHand : cashGameHand;
     }
   }; // struct PreparedInserts
 
-  void insertGame(const PreparedInsert& insert, const auto& game) {
+  void insertGame(PreparedInsert& insert, const auto& game) {
     const auto startDate = game.getStartDate().toSqliteDate(); // must live until execute()
     insert
-        .text(game.getId()) // use the tournament ID for the Game
-        .text(game.getSiteName())
-        .text(game.getName())
-        .text(toString(game.getVariant()))
-        .text(toString(game.getLimitType()))
-        .boolean(game.isRealMoney())
-        .text(tableSeat::toString(game.getMaxNbSeats()))
-        .text(startDate)
+        .text(":gameId", game.getId()) // use the tournament ID for the Game
+        .text(":siteName", game.getSiteName())
+        .text(":gameName", game.getName())
+        .text(":variant", toString(game.getVariant()))
+        .text(":limitType", toString(game.getLimitType()))
+        .boolean(":isRealMoney", game.isRealMoney())
+        .text(":nbMaxSeats", tableSeat::toString(game.getMaxNbSeats()))
+        .text(":startDate", startDate)
         .execute();
   }
 
-  void insertSpecificGame(const PreparedInserts& inserts, const Tournament& tournament) {
+  void insertSpecificGame(PreparedInserts& inserts, const Tournament& tournament) {
     LOG.debug<"saving the tournament with id={}">(tournament.getId());
-    inserts.tournament.text(tournament.getId()).real(tournament.getBuyIn()).execute();
+    inserts.tournament.text(":tournamentId", tournament.getId())
+        .real(":buyIn", tournament.getBuyIn())
+        .execute();
   }
 
-  void insertSpecificGame(const PreparedInserts& inserts, const CashGame& cashGame) {
+  void insertSpecificGame(PreparedInserts& inserts, const CashGame& cashGame) {
     LOG.debug<"saving the cash game with id={}">(cashGame.getId());
-    inserts.cashGame.text(cashGame.getId())
-        .real(cashGame.getSmallBlind())
-        .real(cashGame.getBigBlind())
+    inserts.cashGame.text(":cashGameId", cashGame.getId())
+        .real(":smallBlind", cashGame.getSmallBlind())
+        .real(":bigBlind", cashGame.getBigBlind())
         .execute();
   }
 
-  void insertHand(const PreparedInsert& insert, const Hand& hand) {
+  void insertHand(PreparedInsert& insert, const Hand& hand) {
     const auto startDate = hand.getStartDate().toSqliteDate(); // must live until execute()
-    insert.text(hand.getId())
-        .text(hand.getSiteName())
-        .text(hand.getTableName())
-        .text(tableSeat::toString(hand.getButtonSeat()))
-        .text(tableSeat::toString(hand.getMaxSeats()))
-        .integer(hand.getAnte())
-        .integer(hand.getLevel())
-        .text(startDate)
-        .text(toString(hand.getHeroCard1()))
-        .text(toString(hand.getHeroCard2()))
-        .text(toString(hand.getHeroCard3()))
-        .text(toString(hand.getHeroCard4()))
-        .text(toString(hand.getHeroCard5()))
-        .text(toString(hand.getBoardCard1()))
-        .text(toString(hand.getBoardCard2()))
-        .text(toString(hand.getBoardCard3()))
-        .text(toString(hand.getBoardCard4()))
-        .text(toString(hand.getBoardCard5()))
+    insert.text(":handId", hand.getId())
+        .text(":siteName", hand.getSiteName())
+        .text(":tableName", hand.getTableName())
+        .text(":buttonSeat", tableSeat::toString(hand.getButtonSeat()))
+        .text(":maxSeats", tableSeat::toString(hand.getMaxSeats()))
+        .integer(":ante", hand.getAnte())
+        .integer(":level", hand.getLevel())
+        .text(":startDate", startDate)
+        .text(":heroCard1", toString(hand.getHeroCard1()))
+        .text(":heroCard2", toString(hand.getHeroCard2()))
+        .text(":heroCard3", toString(hand.getHeroCard3()))
+        .text(":heroCard4", toString(hand.getHeroCard4()))
+        .text(":heroCard5", toString(hand.getHeroCard5()))
+        .text(":boardCard1", toString(hand.getBoardCard1()))
+        .text(":boardCard2", toString(hand.getBoardCard2()))
+        .text(":boardCard3", toString(hand.getBoardCard3()))
+        .text(":boardCard4", toString(hand.getBoardCard4()))
+        .text(":boardCard5", toString(hand.getBoardCard5()))
         .execute();
   }
 
-  void insertHandPlayers(const PreparedInsert& insert, const Hand& hand) {
+  void insertHandPlayers(PreparedInsert& insert, const Hand& hand) {
     const auto seats = hand.getSeats();
     validation::require(!std::ranges::all_of(seats, [](const auto& p) { return p.empty(); }),
                         "trying to save a hand with no players");
@@ -293,43 +326,43 @@ namespace {
     // we suppose the Player has been saved before this call
     for (const auto& [index, playerName] :
          seats | std::views::enumerate | std::views::filter(isSeated)) {
-      insert.text(hand.getId())
-          .text(playerName)
-          .text(tableSeat::toString(tableSeat::fromArrayIndex(index)))
-          .boolean(hand.isWinner(playerName))
+      insert.text(":handId", hand.getId())
+          .text(":playerName", playerName)
+          .text(":playerSeat", tableSeat::toString(tableSeat::fromArrayIndex(index)))
+          .boolean(":isWinner", hand.isWinner(playerName))
           .execute();
     }
   }
 
-  void insertHandPlayerStats(const PreparedInsert& insert, const Hand& hand,
+  void insertHandPlayerStats(PreparedInsert& insert, const Hand& hand,
                              const HandPlayerStats& stats) {
-    insert.text(hand.getId())
-        .text(stats.playerName)
-        .text(hand.getSiteName())
-        .text(toString(hand.getGameType()))
-        .boolean(stats.vpip)
-        .boolean(stats.pfr)
-        .boolean(stats.limp)
-        .boolean(stats.facedRaise)
-        .boolean(stats.foldToRaise)
-        .boolean(stats.callRaise)
-        .boolean(stats.threeBet)
-        .boolean(stats.couldSqueeze)
-        .boolean(stats.squeeze)
-        .boolean(stats.facedThreeBet)
-        .boolean(stats.foldToThreeBet)
-        .boolean(stats.callThreeBet)
-        .boolean(stats.fourBet)
+    insert.text(":handId", hand.getId())
+        .text(":playerName", stats.playerName)
+        .text(":siteName", hand.getSiteName())
+        .text(":gameType", toString(hand.getGameType()))
+        .boolean(":vpip", stats.vpip)
+        .boolean(":pfr", stats.pfr)
+        .boolean(":limp", stats.limp)
+        .boolean(":facedRaise", stats.facedRaise)
+        .boolean(":foldToRaise", stats.foldToRaise)
+        .boolean(":callRaise", stats.callRaise)
+        .boolean(":threeBet", stats.threeBet)
+        .boolean(":couldSqueeze", stats.couldSqueeze)
+        .boolean(":squeeze", stats.squeeze)
+        .boolean(":facedThreeBet", stats.facedThreeBet)
+        .boolean(":foldToThreeBet", stats.foldToThreeBet)
+        .boolean(":callThreeBet", stats.callThreeBet)
+        .boolean(":fourBet", stats.fourBet)
         .execute();
   }
 
-  void insertAction(const PreparedInsert& insert, const Hand& hand, const Action& action) {
-    insert.text(toString(action.getStreet()))
-        .text(hand.getId())
-        .text(action.getPlayerName())
-        .text(toString(action.getType()))
-        .integer(static_cast<long long>(action.getIndex()))
-        .real(action.getAmount())
+  void insertAction(PreparedInsert& insert, const Hand& hand, const Action& action) {
+    insert.text(":street", toString(action.getStreet()))
+        .text(":handId", hand.getId())
+        .text(":playerName", action.getPlayerName())
+        .text(":actionType", toString(action.getType()))
+        .integer(":actionIndex", static_cast<long long>(action.getIndex()))
+        .real(":amount", action.getAmount())
         .execute();
   }
 
@@ -337,13 +370,16 @@ namespace {
    * Saves a hand, its players, their statistics and actions, and links it to its game.
    * @throws DatabaseException if an error occurs during the insert
    */
-  void saveHand(const PreparedInserts& inserts, std::string_view gameId, const Hand& hand) {
+  void saveHand(PreparedInserts& inserts, std::string_view gameId, const Hand& hand) {
     insertHand(inserts.hand, hand);
     insertHandPlayers(inserts.handPlayer, hand);
     std::ranges::for_each(computeHandPlayerStats(hand), [&inserts, &hand](const auto& stats) {
       insertHandPlayerStats(inserts.handPlayerStats, hand, stats);
     });
-    inserts.gameHand(hand.getGameType()).text(gameId).text(hand.getId()).execute();
+    inserts.gameHand(hand.getGameType())
+        .text(":gameId", gameId)
+        .text(":handId", hand.getId())
+        .execute();
     LOG.trace<"saving {} actions from hand with id={}">(hand.viewActions().size(), hand.getId());
     std::ranges::for_each(hand.viewActions(), [&inserts, &hand](const auto* pAction) {
       insertAction(inserts.action, hand, *pAction);
@@ -353,7 +389,7 @@ namespace {
   /**
    * @throws DatabaseException if an error occurs during the insert
    */
-  void saveGame(const PreparedInserts& inserts, const auto& game) {
+  void saveGame(PreparedInserts& inserts, const auto& game) {
     const auto hands = game.viewHands();
     const auto gameId = game.getId();
     insertGame(inserts.game, game);
@@ -438,28 +474,28 @@ Database::~Database() {
 /**
  * @throws DatabaseException if an error occurs during the insert
  */
-void Database::save(const CashGame& game) const {
+void Database::save(const CashGame& game) {
   saveGame(*m_pImpl->m_inserts, game);
 }
 
 /**
  * @throws DatabaseException if an error occurs during the insert
  */
-void Database::save(const Tournament& game) const {
+void Database::save(const Tournament& game) {
   saveGame(*m_pImpl->m_inserts, game);
 }
 
-void Database::save(std::span<const Player* const> players) const {
+void Database::save(std::span<const Player* const> players) {
   if (players.empty()) {
     return;
   }
 
-  const auto& insert = m_pImpl->m_inserts->player;
+  auto& insert = m_pImpl->m_inserts->player;
   std::ranges::for_each(players, [&insert](const auto* pPlayer) {
-    insert.text(pPlayer->getName())
-        .text(pPlayer->getSiteName())
-        .boolean(pPlayer->isHero())
-        .text(pPlayer->getComments())
+    insert.text(":playerName", pPlayer->getName())
+        .text(":siteName", pPlayer->getSiteName())
+        .boolean(":isHero", pPlayer->isHero())
+        .text(":comments", pPlayer->getComments())
         .execute();
   });
 }
@@ -467,9 +503,9 @@ void Database::save(std::span<const Player* const> players) const {
 /**
  * @throws DatabaseException if an error occurs during the insert
  */
-static void saveSite(const PreparedInsert& insert, const Site& s) {
+static void saveSite(PreparedInsert& insert, const Site& s) {
   LOG.debug<"saving the Site with name={}">(s.getName());
-  insert.text(s.getName()).execute();
+  insert.text(":siteName", s.getName()).execute();
 }
 
 /**
