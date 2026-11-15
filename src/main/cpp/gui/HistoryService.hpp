@@ -10,9 +10,8 @@ class Database;
 class PokerSiteHistory;
 
 /**
- * Unified service for all history-related operations.
- * Combines history import, validation, and management concerns.
- * This is a concrete sealed class - not polymorphic.
+ * Validates the history directory, import the history directory, and
+ * notifies observer after each new history save.
  */
 class [[nodiscard]] HistoryService /*final*/ {
 private:
