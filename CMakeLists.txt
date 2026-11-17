@@ -24,8 +24,7 @@ endif()
 # use the UTF-8 encoding internally
 option(CMAKE_ENCODING_UTF8 "Use UTF-8 encoding internally." ON)
 
-# use C++ 23
-# set(CMAKE_CXX_STANDARD latest)
+# use ISO C++
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
@@ -224,6 +223,10 @@ list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/phud/phud.c
 list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/dbgen/dbgen.cpp)
 list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/guiDryRun/guiDryRun.cpp)
 add_library(mainLib ${mainLibSourceFiles})
+# use C++23 in the whole program
+target_compile_features(mainLib PUBLIC cxx_std_23)
+# with libstdc++, std::print() is implemented in the separate libstdc++exp library
+target_link_libraries(mainLib PUBLIC $<$<CXX_COMPILER_ID:GNU>:stdc++exp>)
 target_include_directories(mainLib PRIVATE src/main/cpp)
 # Apply warning flags only to this target (not to dependencies like Boost)
 if(DEFINED PROJECT_WARNING_FLAGS)
@@ -369,11 +372,8 @@ target_link_libraries(unitTests PRIVATE Microsoft.GSL::GSL)
 find_package(SQLite3 REQUIRED CONFIG) # see https://github.com/rhuijben/sqlite-amalgamation/issues/8 for getting the version
 target_link_libraries(mainLib PRIVATE SQLite::sqlite3-static)
 target_link_libraries(unitTests PRIVATE SQLite::sqlite3-static)
-if(MSVC)
-    # the sqlite3 cmake package is bugged for msvc
-    target_link_libraries(mainLib PRIVATE Rpcrt4)
-    target_link_libraries(unitTests PRIVATE Rpcrt4)
-endif()
+# the sqlite3 cmake package forgets that SQLite uses UuidCreate() from Rpcrt4 under Windows
+target_link_libraries(mainLib PUBLIC $<$<PLATFORM_ID:Windows>:Rpcrt4>)
 
 ################################################################################
 # On windows 11, we'll use the DwmSetWindowAttribute function to change the
@@ -468,16 +468,6 @@ if(MSVC)
   # Disable insecure CRT functions warnings (use secure alternatives)
   target_compile_definitions(mainLib PRIVATE _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES=1)
   target_compile_definitions(mainLib PRIVATE _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES_COUNT=1)
-
-  # Enhanced security checks in Debug mode
-  if(CMAKE_BUILD_TYPE STREQUAL "Debug")
-    # Enable iterator debugging
-    target_compile_definitions(mainLib PRIVATE _ITERATOR_DEBUG_LEVEL=2)
-    target_compile_definitions(phud PRIVATE _ITERATOR_DEBUG_LEVEL=2)
-    target_compile_definitions(dbgen PRIVATE _ITERATOR_DEBUG_LEVEL=2)
-    target_compile_definitions(guiDryRun PRIVATE _ITERATOR_DEBUG_LEVEL=2)
-    target_compile_definitions(unitTests PRIVATE _ITERATOR_DEBUG_LEVEL=2)
-  endif()
 ################################################################################
 # if used with MinGW, link statically, compile with max warnings, do not show
 # the console window for phud.exe, use the Windows API, the thread API

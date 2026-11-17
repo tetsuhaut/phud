@@ -117,11 +117,11 @@ std::optional<LoggingLevel> parseProgramArguments(std::span<const char* const> a
 }
 
 ProgramArgumentsException::ProgramArgumentsException(std::string_view msg)
-  : std::exception(std::format("{}", msg).c_str()) {}
+  : std::runtime_error(std::string(msg)) {}
 
 ProgramArgumentsException::~ProgramArgumentsException() = default;
 
 UserAskedForHelpException::UserAskedForHelpException(std::string_view msg)
-  : std::exception(std::format("{}", msg).c_str()) {}
+  : std::runtime_error(std::string(msg)) {}
 
 UserAskedForHelpException::~UserAskedForHelpException() = default;

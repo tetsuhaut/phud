@@ -4,6 +4,8 @@
 #include "language/PhudException.hpp" // PhudException
 #include <optional>
 #include <span>
+#include <stdexcept> // std::runtime_error
+#include <string_view>
 
 /**
  * The phud.exe program takes arguments. This function handles these arguments.
@@ -18,7 +20,7 @@
 /**
  * An exception thrown by the program argument parsing.
  */
-class [[nodiscard]] ProgramArgumentsException final : public std::exception {
+class [[nodiscard]] ProgramArgumentsException final : public std::runtime_error {
 public:
   explicit ProgramArgumentsException(std::string_view msg);
   ProgramArgumentsException(const ProgramArgumentsException&) = default;
@@ -32,9 +34,9 @@ public:
 /**
  * The exception thrown when user asks for help.
  * When user asks for help, we don't need to show the stack trace so we
- * inherit from std::exception instead of PhudException.
+ * inherit from std::runtime_error instead of PhudException.
  */
-class [[nodiscard]] UserAskedForHelpException final : public std::exception {
+class [[nodiscard]] UserAskedForHelpException final : public std::runtime_error {
 public:
   explicit UserAskedForHelpException(std::string_view msg);
   UserAskedForHelpException(const UserAskedForHelpException&) = default;

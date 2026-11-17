@@ -11,7 +11,7 @@ WHERE /q cl && (echo ERROR: cl is in the PATH! && EXIT /B 1)
 
 SET VERSION=1.15.3
 SET LIB_NAME=spdlog
-SET SRC_DIR=%~dp0%LIB_NAME%-%VERSION%
+SET SRC_DIR=%CD%\%LIB_NAME%-%VERSION%
 IF EXIST %SRC_DIR%\NUL goto :build
 IF EXIST %SRC_DIR%.tar.gz (
   tar -xvzf %SRC_DIR%.tar.gz
@@ -27,7 +27,7 @@ IF EXIST %SRC_DIR%.zip (
 )
 
 :build
-SET BUILD_DIR=%~dp0\%LIB_NAME%-build-%COMPILER%
+SET BUILD_DIR=%CD%\%LIB_NAME%-build-%COMPILER%
 IF EXIST %BUILD_DIR% (RMDIR /Q /S %BUILD_DIR%)
 MKDIR %BUILD_DIR%
 PUSHD %BUILD_DIR%

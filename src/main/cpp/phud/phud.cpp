@@ -12,10 +12,17 @@
 #  include <Windows.h> // WinMain, AttachConsole, FILE
 #endif                 // _WIN32
 
-#include <csignal> // std::signal(), SIG_DFL, SIGABRT
-#include <iostream>
-#include <print>
-#include <sstream> // std::ostringstream
+// no 'import std': with gcc, mixing it with the standard headers included by the phud headers
+// defines some symbols twice (link error)
+#include <clocale>   // std::setlocale(), LC_ALL
+#include <csignal>   // std::signal(), SIG_DFL, SIGABRT
+#include <cstdio>    // stderr, freopen_s()
+#include <exception> // std::exception
+#include <iostream>  // std::cout, std::cerr, std::cin, std::ios
+#include <print>     // std::print(), std::println()
+#include <span>
+#include <sstream>   // std::ostringstream
+#include <stdexcept> // std::logic_error
 
 // TODO: padding: in a class, members must be ordered by type size, the biggest in
 //                1st position

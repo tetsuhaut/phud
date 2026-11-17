@@ -8,9 +8,9 @@ where /q ninja || ECHO Could not find the ninja command. Check that it is in the
 SET VERSION=1.4.4
 REM SET VERSION=master
 SET LIB_NAME=fltk
-SET SRC_DIR=%~dp0%LIB_NAME%-%VERSION%
-SET ZIP_NAME_FROM_FLTK_WEB_SITE=%~dp0%LIB_NAME%-%VERSION%-source
-REM SET ZIP_NAME_FROM_FLTK_WEB_SITE=%~dp0%LIB_NAME%-%VERSION%
+SET SRC_DIR=%CD%\%LIB_NAME%-%VERSION%
+SET ZIP_NAME_FROM_FLTK_WEB_SITE=%CD%\%LIB_NAME%-%VERSION%-source
+REM SET ZIP_NAME_FROM_FLTK_WEB_SITE=%CD%\%LIB_NAME%-%VERSION%
 IF EXIST %SRC_DIR% GOTO :build
 REM look for fltk-a.b.c-source.zip
 IF EXIST %ZIP_NAME_FROM_FLTK_WEB_SITE%.zip (
@@ -38,7 +38,7 @@ IF EXIST %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar.gz (
   ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar.gz
 )
 REM look for release-a.b.c.zip
-SET ZIP_NAME_FROM_FLTK_GITHUB=%~dp0release-%VERSION%
+SET ZIP_NAME_FROM_FLTK_GITHUB=%CD%\release-%VERSION%
 IF EXIST %ZIP_NAME_FROM_FLTK_GITHUB%.zip (
   7z x %ZIP_NAME_FROM_FLTK_GITHUB%.tar.zip
   GOTO :build
@@ -55,10 +55,10 @@ IF EXIST %ZIP_NAME_FROM_FLTK_GITHUB%.tar.gz (
   ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_GITHUB%.tar.gz
 )
 REM look for fltk-release-a.b.c.zip
-SET ZIP_NAME_FROM_FLTK_GITHUB=%~dp0%LIB_NAME%-release-%VERSION%
+SET ZIP_NAME_FROM_FLTK_GITHUB=%CD%\%LIB_NAME%-release-%VERSION%
 IF EXIST %ZIP_NAME_FROM_FLTK_GITHUB%.zip (
   7z x %ZIP_NAME_FROM_FLTK_GITHUB%.zip
-  SET SRC_DIR=%~dp0%LIB_NAME%-release-%VERSION%
+  SET SRC_DIR=%CD%\%LIB_NAME%-release-%VERSION%
   GOTO :build
 ) ELSE (
   ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_GITHUB%.tar.gz
@@ -66,7 +66,7 @@ IF EXIST %ZIP_NAME_FROM_FLTK_GITHUB%.zip (
 EXIT /B 1
 
 :build
-SET BUILD_DIR=%~dp0\%LIB_NAME%-build-%COMPILER%
+SET BUILD_DIR=%CD%\%LIB_NAME%-build-%COMPILER%
 IF EXIST %BUILD_DIR% (RMDIR /Q /S %BUILD_DIR%)
 MKDIR %BUILD_DIR%
 PUSHD %BUILD_DIR%

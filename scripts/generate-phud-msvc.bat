@@ -8,6 +8,8 @@ WHERE /q gcc && (echo ERROR: gcc is in the PATH! && EXIT /B 1)
 SET CMAKE_GENERATOR=Ninja
 SET BUILD_DIR=build
 SET BIN_DIR=bin\Debug
+REM avoid ninja to display a message at each include
+SET VSLANG=1033
 CALL %~dp0generate-phud.bat
 IF ERRORLEVEL 1 ECHO Error creating the phud build configuration for Visual Studio. && EXIT /B 1
 SET CMAKE_GENERATOR=

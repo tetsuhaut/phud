@@ -59,7 +59,9 @@ namespace {
     const auto source = pt::getDirFromTestResources("Winamax/preflopStats/history");
     const auto target = dir.path() / "history";
     fs::create_directories(target);
-    fs::copy(source, target, fs::copy_options::overwrite_existing);
+    // use recursive as it is needed for gcc
+    fs::copy(source, target,
+             fs::copy_options::recursive | fs::copy_options::overwrite_existing);
   }
 
   [[nodiscard]] bool hasStats(const Database& db, std::string_view table) {

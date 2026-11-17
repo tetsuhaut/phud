@@ -18,18 +18,6 @@ namespace {
   return SEAT_MAPPER.fromString(seatStr);
 }
 
-// Template implementation
-template <std::integral T>
-/*[[nodiscard]]*/ Seat tableSeat::fromArrayIndex(T i) {
-  validation::require(i >= 0 && i < TableConstants::MAX_SEATS, "Can't find a seat for that value");
-  return static_cast<Seat>(i);
-}
-
-// Explicit template instantiations
-template Seat tableSeat::fromArrayIndex<std::int64_t>(std::int64_t);
-template Seat tableSeat::fromArrayIndex<std::size_t>(std::size_t);
-template Seat tableSeat::fromArrayIndex<std::ptrdiff_t>(std::ptrdiff_t);
-
 /*[[nodiscard]]*/ std::string_view tableSeat::toString(Seat seat) {
   return SEAT_MAPPER.toString(seat);
 }
