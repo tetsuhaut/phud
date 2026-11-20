@@ -2,6 +2,7 @@
 
 #include "entities/Game.hpp" // std::string, std::string_view, Time, Variant, Limit
 #include "entities/Seat.hpp"
+#include <utility> // std::move
 
 struct [[nodiscard]] GameData final {
   // Memory layout optimized: largest to smallest to minimize padding
@@ -25,8 +26,9 @@ struct [[nodiscard]] GameData final {
     Seat nbMaxSeats;
   };
 
-  explicit GameData(const Args& args) // not noexcept because of Time
-    : m_startDate {args.startDate},
+  // args by value: the Time is copied by the caller when building args, then moved (noexcept)
+  explicit GameData(Args args) noexcept
+    : m_startDate {std::move(args.startDate)},
       m_smallBlind {args.smallBlind},
       m_bigBlind {args.bigBlind},
       m_buyIn {args.buyIn},

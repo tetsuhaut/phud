@@ -39,6 +39,7 @@
 
 #if defined(_MSC_VER) // end of specific msvc warnings removal
 #  pragma warning(pop)
+#  pragma warning(disable : 26403 26409)
 #endif // _MSC_VER
 
 #include <chrono>

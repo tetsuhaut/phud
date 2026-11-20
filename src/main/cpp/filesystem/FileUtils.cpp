@@ -184,6 +184,9 @@ namespace {
     std::size_t filenamePos {0};
 
     // 'part' is a std::string_view, so no need to use a reference
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26445)
+#endif // _MSC_VER
     for (const auto [i, part] : patternParts | std::views::enumerate) {
       if (0 == i) {
         // First part: must match at start (unless pattern starts with *)
