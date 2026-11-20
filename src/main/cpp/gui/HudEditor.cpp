@@ -265,6 +265,12 @@ struct [[nodiscard]] HudEditor::Implementation final {
     m_window->end();
   }
 
+  Implementation(const Implementation&) = delete;
+  Implementation(Implementation&&) = delete;
+  Implementation& operator=(const Implementation&) = delete;
+  Implementation& operator=(Implementation&&) = delete;
+  ~Implementation() = default;
+
   void buildWidgets() {
     const auto [lx, ly, lw, lh] = LIST;
     m_list = new Fl_Hold_Browser(lx, ly, lw, lh);

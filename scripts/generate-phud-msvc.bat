@@ -12,6 +12,12 @@ REM avoid ninja to display a message at each include
 SET VSLANG=1033
 CALL %~dp0generate-phud.bat
 IF ERRORLEVEL 1 ECHO Error creating the phud build configuration for Visual Studio. && EXIT /B 1
+REM build.bat: usual build, without static analysis
+ECHO ^ninja %%* > build-phud-%COMPILER%\build.bat
+REM build-analyze.bat: build with /analyze and the C++ Core Check, in the 'analyze' sub dir
+REM so that switching between both builds does not trigger a full rebuild
+ECHO ^@IF NOT EXIST analyze\build.ninja ^cmake -G %CMAKE_GENERATOR% -S "%~dp0.." -B analyze -DPHUD_MSVC_ANALYZE=ON ^|^| ^EXIT /B 1 > build-phud-%COMPILER%\build-analyze.bat
+ECHO ^ninja -C analyze %%* >> build-phud-%COMPILER%\build-analyze.bat
 SET CMAKE_GENERATOR=
 SET BUILD_DIR=
 SET BIN_DIR=

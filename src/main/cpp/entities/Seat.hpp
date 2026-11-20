@@ -7,7 +7,7 @@
 #include <string_view>
 #include <utility> // std::in_range()
 
-enum class [[nodiscard]] Seat : short {
+enum class Seat : short {
   seatOne,
   seatTwo,
   seatThree,

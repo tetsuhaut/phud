@@ -47,7 +47,10 @@ private:
 
 public:
   explicit DirWatcherImpl(const fs::path& dir)
-    : m_dir {dir},
+    : m_watcher {},
+      m_callback {},
+      m_dir {dir},
+      m_callbackMutex {},
       m_watchId {-1} {
     validation::require(pf::isDir(m_dir), "the dir provided to DirWatcher() is not valid.");
     LOG.info<"will watch directory {} using EFSW (event-driven)">(dir.string());

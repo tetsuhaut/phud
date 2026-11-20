@@ -167,5 +167,7 @@ namespace {
 [[nodiscard]] std::pair<int, int>
 gui::buildPlayerIndicatorPosition(Seat seat, Seat tableMaxSeats, const phud::Rectangle& tablePos) {
   assert(seat <= tableMaxSeats);
+  assert(Seat::seatUnknown != seat);
+  assert(Seat::seatUnknown != tableMaxSeats);
   return calculatePosition(seat, tableMaxSeats, tablePos);
 }

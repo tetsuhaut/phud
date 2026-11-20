@@ -23,10 +23,15 @@ endif()
 
 # use the UTF-8 encoding internally
 option(CMAKE_ENCODING_UTF8 "Use UTF-8 encoding internally." ON)
+option(PHUD_MSVC_ANALYZE "MSVC only: static analysis with /analyze and the C++ Core Check" OFF)
 
 # use ISO C++
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
+# set C++ version
+set(CMAKE_CXX_STANDARD 23)
+# use C++23 modules
+set(CMAKE_CXX_SCAN_FOR_MODULES ON)
 
 message(STATUS "=== Environment Detection ===")
 message(STATUS "WIN32: ${WIN32}")
@@ -78,7 +83,6 @@ if(MSVC)
                         /experimental:external # enable external headers support
                         /external:anglebrackets # treat angle-bracket includes as external
                         /external:W0 # no warnings for external headers
-                        /external:templates- # do not propagate warnings from external templates
                         /std:c++latest) # use the latest features
   else()
     # Store warning flags in a variable to apply only to project targets
@@ -109,6 +113,13 @@ if(MSVC)
                         /w14928 # illegal copy-initialization
                         /w35038 # members are ordered differently from their initialization order
                         /we4289) # compile warnings configured
+    if(PHUD_MSVC_ANALYZE)
+      message("MSVC static analysis enabled")
+      list(APPEND PROJECT_WARNING_FLAGS
+                  /analyze # static code analysis (C6xxx: uninitialized memory, null pointer...)
+                  /analyze:external- # no static analysis for external headers
+                  "SHELL:/analyze:plugin EspXEngine.dll") # C++ Core Check (C26xxx)
+    endif()
     # Apply basic compilation options globally (non-warning related)
     add_compile_options(/utf-8 # use UTF-8 for source and execution
                         /MP # compile using multi processor
@@ -120,7 +131,6 @@ if(MSVC)
                         /experimental:external # enable external headers support
                         /external:anglebrackets # treat angle-bracket includes as external
                         /external:W0 # no warnings for external headers
-                        /external:templates- # do not propagate warnings from external templates
                         /std:c++latest) # use the latest features
   endif()
 elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQUAL "GNU"))
@@ -223,8 +233,7 @@ list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/phud/phud.c
 list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/dbgen/dbgen.cpp)
 list(REMOVE_ITEM mainLibSourceFiles ${CMAKE_SOURCE_DIR}/src/main/cpp/guiDryRun/guiDryRun.cpp)
 add_library(mainLib ${mainLibSourceFiles})
-# use C++23 in the whole program
-target_compile_features(mainLib PUBLIC cxx_std_23)
+
 # with libstdc++, std::print() is implemented in the separate libstdc++exp library
 target_link_libraries(mainLib PUBLIC $<$<CXX_COMPILER_ID:GNU>:stdc++exp>)
 target_include_directories(mainLib PRIVATE src/main/cpp)
