@@ -240,7 +240,7 @@ namespace {
         .text(":handId", hand.getId())
         .text(":playerName", action.getPlayerName())
         .text(":actionType", toString(action.getType()))
-        .integer(":actionIndex", static_cast<long long>(action.getIndex()))
+        .integer(":actionIndex", gsl::narrow<long long>(action.getIndex()))
         .real(":amount", action.getAmount())
         .execute();
   }
@@ -316,6 +316,10 @@ public:
       try {
         executeSql(m_db, "ROLLBACK;");
       } catch (const DatabaseException& e) {
+        // msvc declares std::exception::what() without noexcept
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26447) // a noexcept function calls a function that may throw
+#endif // _MSC_VER
         LOG.error<"Error rollbacking transaction: {}">(e.what());
       } catch (...) { // can't throw in a destructor
         LOG.error<"Unknown Error rollbacking transaction.">();

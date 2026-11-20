@@ -25,7 +25,7 @@ struct [[nodiscard]] GameData final {
     Seat nbMaxSeats;
   };
 
-  explicit GameData(const Args& args) noexcept
+  explicit GameData(const Args& args) // not noexcept because of Time
     : m_startDate {args.startDate},
       m_smallBlind {args.smallBlind},
       m_bigBlind {args.bigBlind},

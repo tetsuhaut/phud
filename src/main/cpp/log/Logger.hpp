@@ -15,57 +15,68 @@
 #  pragma warning(pop)
 #endif
 
+/**
+ * Logging never throws: it is used in destructors and in other noexcept functions. If something
+ * goes wrong while logging (e.g. a memory allocation failure), the message is lost.
+ */
 class [[nodiscard]] Logger final {
 private:
   std::string_view m_name;
-  static void traceStr(std::string_view msg);
-  static void debugStr(std::string_view msg);
-  static void infoStr(std::string_view msg);
-  static void warnStr(std::string_view msg);
-  static void errorStr(std::string_view msg);
-  static void criticalStr(std::string_view msg);
+  void logMessage(LoggingLevel level, std::string_view msg) const noexcept;
+
+  template <StringLiteral FMT, typename... Args>
+  void logFormatted(LoggingLevel level, Args&&... args) const noexcept {
+    try {
+      // static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
+      // to be constexpr, fmt::format requires a constexpr string as first parameter
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26485) // a StringLiteral is a C array of characters
+#endif // _MSC_VER
+      logMessage(level, fmt::format(FMT.value, std::forward<Args>(args)...));
+    } catch (...) {
+      // logging must never throw: the message is lost
+    }
+  }
 
 public:
   constexpr explicit Logger(std::string_view name) noexcept
     : m_name {name} {}
 
-  // to be constexpr, fmt::format requires a constexpr string as first parameter
-  void trace(std::string_view msg) const { traceStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void debug(std::string_view msg) const { debugStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void info(std::string_view msg) const { infoStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void warn(std::string_view msg) const { warnStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void error(std::string_view msg) const { errorStr(fmt::format("[{}]: {}", m_name, msg)); }
-  void critical(std::string_view msg) const { criticalStr(fmt::format("[{}]: {}", m_name, msg)); }
+  void trace(std::string_view msg) const noexcept { logMessage(LoggingLevel::trace, msg); }
+  void debug(std::string_view msg) const noexcept { logMessage(LoggingLevel::debug, msg); }
+  void info(std::string_view msg) const noexcept { logMessage(LoggingLevel::info, msg); }
+  void warn(std::string_view msg) const noexcept { logMessage(LoggingLevel::warn, msg); }
+  void error(std::string_view msg) const noexcept { logMessage(LoggingLevel::error, msg); }
+  void critical(std::string_view msg) const noexcept { logMessage(LoggingLevel::critical, msg); }
 
   template <StringLiteral FMT, typename... Args>
-  void trace(Args&&... args) const {
-    // static_assert(allTypesAreFormattable<FMT, Args...>()); // TODO
-    trace(fmt::format(FMT.value, std::forward<Args>(args)...));
+  void trace(Args&&... args) const noexcept {
+    logFormatted<FMT>(LoggingLevel::trace, std::forward<Args>(args)...);
   }
 
   template <StringLiteral FMT, typename... Args>
-  void debug(Args&&... args) const {
-    debug(fmt::format(FMT.value, std::forward<Args>(args)...));
+  void debug(Args&&... args) const noexcept {
+    logFormatted<FMT>(LoggingLevel::debug, std::forward<Args>(args)...);
   }
 
   template <StringLiteral FMT, typename... Args>
-  void info(Args&&... args) const {
-    info(fmt::format(FMT.value, std::forward<Args>(args)...));
+  void info(Args&&... args) const noexcept {
+    logFormatted<FMT>(LoggingLevel::info, std::forward<Args>(args)...);
   }
 
   template <StringLiteral FMT, typename... Args>
-  void warn(Args&&... args) const {
-    warn(fmt::format(FMT.value, std::forward<Args>(args)...));
+  void warn(Args&&... args) const noexcept {
+    logFormatted<FMT>(LoggingLevel::warn, std::forward<Args>(args)...);
   }
 
   template <StringLiteral FMT, typename... Args>
-  void error(Args&&... args) const {
-    error(fmt::format(FMT.value, std::forward<Args>(args)...));
+  void error(Args&&... args) const noexcept {
+    logFormatted<FMT>(LoggingLevel::error, std::forward<Args>(args)...);
   }
 
   template <StringLiteral FMT, typename... Args>
-  void critical(Args&&... args) const {
-    critical(fmt::format(FMT.value, std::forward<Args>(args)...));
+  void critical(Args&&... args) const noexcept {
+    logFormatted<FMT>(LoggingLevel::critical, std::forward<Args>(args)...);
   }
 
   /** Call one of those methods before any logging. */
@@ -89,8 +100,8 @@ public:
   static void setupConsoleWarnLogging(std::string_view pattern);
   static void setupConsoleInfoLogging(std::string_view pattern);
   static void setupConsoleDebugLogging(std::string_view pattern);
-  static void shutdownLogging();
-  static void setLoggingLevel(LoggingLevel l);
+  static void shutdownLogging() noexcept;
+  static void setLoggingLevel(LoggingLevel l) noexcept;
   [[nodiscard]] static LoggingLevel getCurrentLoggingLevel();
 }; // class Logger
 

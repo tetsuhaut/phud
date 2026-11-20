@@ -142,6 +142,7 @@ void TableService::onHistoryFileSaved(const fs::path& file) {
   }
 }
 
-void TableService::setPokerSiteHistory(std::shared_ptr<PokerSiteHistory> pokerSiteHistory) const {
+void TableService::setPokerSiteHistory(
+    std::shared_ptr<PokerSiteHistory> pokerSiteHistory) const noexcept {
   m_pImpl->m_pokerSiteHistory = std::move(pokerSiteHistory);
 }

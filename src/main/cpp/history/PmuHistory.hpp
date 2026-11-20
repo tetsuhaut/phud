@@ -16,28 +16,28 @@ public:
    */
   [[nodiscard]] std::unique_ptr<Site> load(const std::filesystem::path& historyDir,
                                            std::function<void()> onProgress,
-                                           std::function<void(std::size_t)> onSetNbFiles) override;
+                                           std::function<void(std::size_t)> onSetNbFiles) noexcept override;
   std::unique_ptr<Site> load(auto, std::function<void()>,
                              std::function<void(std::size_t)>) = delete;
 
-  [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir);
+  [[nodiscard]] static std::unique_ptr<Site> load(const std::filesystem::path& historyDir) noexcept;
   std::unique_ptr<Site> load(auto) = delete;
 
-  void stopLoading() override;
+  void stopLoading() noexcept override;
 
   [[nodiscard]] std::unique_ptr<Site>
-  reloadFile(const std::filesystem::path& winamaxHistoryFile) override;
+  reloadFile(const std::filesystem::path& winamaxHistoryFile) noexcept override;
   std::unique_ptr<Site> reloadFile(auto) = delete;
 
-  [[nodiscard]] static bool isValidHistory(const std::filesystem::path& historyDir);
+  [[nodiscard]] static bool isValidHistory(const std::filesystem::path& historyDir) noexcept;
   static bool isValidHistory(auto) = delete;
 
   [[nodiscard]] std::string_view
-  getTableNameFromTableWindowTitle(std::string_view tableWindowTitle) const override;
+  getTableNameFromTableWindowTitle(std::string_view tableWindowTitle) const noexcept override;
 
   [[nodiscard]] std::optional<std::filesystem::path>
   getHistoryFileFromTableWindowTitle(const std::filesystem::path& historyDir,
-                                     std::string_view tableWindowTitle) const override;
+                                     std::string_view tableWindowTitle) const noexcept override;
   std::optional<std::filesystem::path>
       getHistoryFileFromTableWindowTitle(auto, std::string_view) = delete;
 }; // class PmuHistory

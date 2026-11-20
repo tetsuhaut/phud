@@ -25,7 +25,11 @@ BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitLambdaWithParametersShouldWork) {
 }
 
 BOOST_AUTO_TEST_CASE(ThreadPoolTest_submitLambdaWithCapturedParametersShouldWork) {
-  auto d {3};
+  // not constexpr: the test needs a captured variable
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26814) // the variable could be constexpr
+#endif // _MSC_VER
+  const auto d {3};
   auto futureResult = ThreadPool::submit([d]() { return d / 2; });
   stlab::await(stlab::copy(futureResult));
   BOOST_REQUIRE(futureResult.is_ready());

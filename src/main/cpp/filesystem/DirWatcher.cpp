@@ -65,7 +65,7 @@ public:
   void start(const std::function<void(const fs::path&)>& fileHasChangedCb) override {
     std::scoped_lock lock(m_callbackMutex);
     m_callback = fileHasChangedCb;
-    const auto isRecursive = false;
+    constexpr auto isRecursive = false;
     m_watchId = m_watcher.addWatch(m_dir.string(), this, isRecursive);
 
     if (0 > m_watchId) {

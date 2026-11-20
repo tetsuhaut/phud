@@ -17,6 +17,10 @@ namespace ps = phud::strings;
 namespace {
   struct [[nodiscard]] MyLoggingConfig final {
     MyLoggingConfig() { Logger::setupConsoleInfoLogging("%v"); }
+    MyLoggingConfig(const MyLoggingConfig&) = delete;
+    MyLoggingConfig(MyLoggingConfig&&) = delete;
+    MyLoggingConfig& operator=(const MyLoggingConfig&) = delete;
+    MyLoggingConfig& operator=(MyLoggingConfig&&) = delete;
     ~MyLoggingConfig() { Logger::shutdownLogging(); }
   }; // struct MyLoggingConfig
 
@@ -28,7 +32,7 @@ namespace {
   [[nodiscard]] std::optional<fs::path> getOptionalDbHistory(std::span<const char* const> args) {
     const auto programName = std::string_view(args[0]);
     const auto askForHelp =
-        (1 == args.size()) or std::ranges::any_of(args, [](auto arg) {
+        (1 == args.size()) or std::ranges::any_of(args, [](auto arg) noexcept {
           return nonCaseSentitiveEquals(arg, "-h") or nonCaseSentitiveEquals(arg, "--help");
         });
     if (askForHelp) {
@@ -68,7 +72,7 @@ int main(int argc, const char* const argv[]) {
 #  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #endif
 
-  const auto args = std::span(argv, argv + argc);
+  const auto args = std::span(argv, limits::toSizeT(argc));
 
 #ifdef __clang__
 #  pragma clang diagnostic pop

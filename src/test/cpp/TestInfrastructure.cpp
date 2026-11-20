@@ -16,7 +16,9 @@
 #include "threads/ThreadPool.hpp"
 #include <boost/test/debug.hpp> // detect_memory_leaks()
 #include <boost/test/unit_test_parameters.hpp>
+#include <array>
 #include <atomic>
+#include <cstdio> // std::fputs
 #include <fstream> // std::ofstream
 #include <map>
 #include <print>
@@ -63,7 +65,12 @@ namespace {
 
     ~GlobalFixture() {
       Logger::shutdownLogging();
-      ThreadPool::stop();
+
+      try {
+        ThreadPool::stop();
+      } catch (...) { // can't throw in a destructor
+        std::fputs("Unknown Error when stopping the thread pool.\n", stderr);
+      }
     }
   }; /* GlobalFixture */
 
@@ -93,6 +100,9 @@ namespace {
     const auto sl {std::source_location::current()};
     throw std::runtime_error {fmt::format(
         "{} {} Couldn't find the file '{}' looking into '{}'.", sl.file_name(), sl.line(),
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26473 26490) // don't use reinterpret_cast
+#endif // _MSC_VER
         reinterpret_cast<const char*>(file.data()), // fmt won't handle char8_t
         pt::getTestResourcesDir().string())};
   }
@@ -112,33 +122,40 @@ namespace {
    * @note We use Path to handle UTF-8 and UTF-16 file names.
    */
   [[nodiscard]] fs::path getTmpFilePath() {
-    char ret[L_tmpnam] {};
+    std::array<char, L_tmpnam> ret {};
 
-    if (const auto errorCode {tmpnam_s(ret, std::size(ret))}; 0 != errorCode) [[unlikely]] {
-      strerror_s(ret, std::size(ret), errorCode);
-      throw PhudException(ret);
+    if (const auto errorCode {tmpnam_s(ret.data(), ret.size())}; 0 != errorCode) [[unlikely]] {
+      strerror_s(ret.data(), ret.size(), errorCode);
+      throw PhudException(ret.data());
     }
 
     // with gcc lhmouse, fs::temp_directory_path() returns an empty path and
     // tmpnam_s gives a relative file name
-    if (fs::path(ret).is_relative()) {
-      return fs::temp_directory_path() / fs::path(ret).filename();
+    if (fs::path(ret.data()).is_relative()) {
+      return fs::temp_directory_path() / fs::path(ret.data()).filename();
     }
 
-    return ret;
+    return ret.data();
   }
 
-  void removeWithMessage(const fs::path& file) {
-    const auto fileType = pf::isFile(file) ? "file" : "directory";
+  // noexcept, as it is called by destructors
+  void removeWithMessage(const auto& fileOrDir) noexcept {
+    try {
+      const fs::path file {fileOrDir};
+      const auto fileType = pf::isFile(file) ? "file" : "directory";
 
-    if (std::error_code ec; !fs::remove_all(file, ec)) {
-      if (0 == ec.value()) {
-        BOOST_TEST_MESSAGE(
-            fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
-      } else [[unlikely]] {
-        BOOST_TEST_MESSAGE(fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
-        BOOST_TEST_MESSAGE(ec.message());
+      if (std::error_code ec; !fs::remove_all(file, ec)) {
+        if (0 == ec.value()) {
+          BOOST_TEST_MESSAGE(
+              fmt::format("tried to remove the unexising {} '{}'", fileType, file.string()));
+        } else [[unlikely]] {
+          BOOST_TEST_MESSAGE(
+              fmt::format("couldn't remove the {} '{}'", fileType, file.string()));
+          BOOST_TEST_MESSAGE(ec.message());
+        }
       }
+    } catch (...) {
+      std::fputs("Unknown Error when removing a temporary file or directory.\n", stderr);
     }
   }
 
@@ -196,7 +213,12 @@ namespace {
 
     ~TimeBombImpl() override {
       m_isDefused = true;
-      m_task.stop();
+
+      try {
+        m_task.stop();
+      } catch (...) { // can't throw in a destructor
+        std::fputs("Unknown Error when stopping the time bomb.\n", stderr);
+      }
     }
   }; // struct TimeBombImpl
 } // anonymous namespace

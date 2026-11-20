@@ -56,7 +56,7 @@ public:
   void addHand(std::unique_ptr<Hand> hand);
   [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_name; }
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_isRealMoney; }
-  [[nodiscard]] Time getStartDate() const noexcept { return m_startDate; }
+  [[nodiscard]] const Time& getStartDate() const noexcept { return m_startDate; }
   [[nodiscard]] std::vector<const Hand*> viewHands() const;
   [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const;
   [[nodiscard]] constexpr const std::string& getSiteName() const noexcept { return m_site; }
@@ -94,7 +94,7 @@ public:
   void addHand(std::unique_ptr<Hand> hand) const;
   [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_game->getName(); }
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
-  [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }
+  [[nodiscard]] const Time& getStartDate() const noexcept { return m_game->getStartDate(); }
   [[nodiscard]] std::vector<const Hand*> viewHands() const { return m_game->viewHands(); }
   [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const {
     return m_game->viewHands(player);
@@ -139,7 +139,7 @@ public:
   void addHand(std::unique_ptr<Hand> hand) const;
   [[nodiscard]] constexpr const std::string& getName() const noexcept { return m_game->getName(); }
   [[nodiscard]] constexpr bool isRealMoney() const noexcept { return m_game->isRealMoney(); }
-  [[nodiscard]] Time getStartDate() const noexcept { return m_game->getStartDate(); }
+  [[nodiscard]] const Time& getStartDate() const noexcept { return m_game->getStartDate(); }
   [[nodiscard]] std::vector<const Hand*> viewHands() const { return m_game->viewHands(); }
   [[nodiscard]] std::vector<const Hand*> viewHands(std::string_view player) const {
     return m_game->viewHands(player);

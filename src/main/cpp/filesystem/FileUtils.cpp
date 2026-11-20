@@ -21,7 +21,7 @@ namespace {
     fs::path m_startDir {};
 
   public:
-    explicit FilesInDir(fs::path startDir)
+    explicit FilesInDir(fs::path startDir) noexcept
       : m_startDir {std::move(startDir)} {}
     explicit FilesInDir(auto) = delete; // use only std::filesystem::path
     [[nodiscard]] Iterator begin() const { return Iterator(m_startDir); }
@@ -183,7 +183,8 @@ namespace {
                          std::span<const std::string_view> patternParts) {
     std::size_t filenamePos {0};
 
-    for (const auto& [i, part] : patternParts | std::views::enumerate) {
+    // 'part' is a std::string_view, so no need to use a reference
+    for (const auto [i, part] : patternParts | std::views::enumerate) {
       if (0 == i) {
         // First part: must match at start (unless pattern starts with *)
         if (!pattern.starts_with('*')) {

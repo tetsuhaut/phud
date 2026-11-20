@@ -29,7 +29,7 @@ private:
 public:
   template <StringLiteral ERR_MSG>
   [[nodiscard]] static constexpr ErrOrRes err() {
-    return ErrOrRes(std::in_place, ERR_MSG.value);
+    return ErrOrRes(std::in_place, std::string_view(ERR_MSG));
   }
 
   [[nodiscard]] static constexpr ErrOrRes err(std::string_view s) {

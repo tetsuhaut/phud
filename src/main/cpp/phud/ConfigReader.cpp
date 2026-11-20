@@ -14,7 +14,7 @@ namespace {
 
   [[nodiscard]] std::pair<std::string, std::string> readKeyValueFromLine(int lineNb,
                                                                          std::string_view line) {
-    const auto& trimmedLine = phud::strings::trim(line);
+    const auto trimmedLine = phud::strings::trim(line);
 
     if (const auto equalPos = trimmedLine.find('='); trimmedLine.npos != equalPos) {
       return {std::string(phud::strings::trim(trimmedLine.substr(0, equalPos))),

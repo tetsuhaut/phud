@@ -57,8 +57,8 @@ namespace {
    * @returns how many files are read in advance while the previous ones are saved: enough to keep
    * all the cores busy, without loading the whole history in memory.
    */
-  [[nodiscard]] std::size_t getNbFilesReadInAdvance() {
-    return std::max<std::size_t>(2, 2 * std::thread::hardware_concurrency());
+  [[nodiscard]] std::size_t getNbFilesReadInAdvance() noexcept {
+    return std::max<std::size_t>(2, 2 * std::size_t {std::thread::hardware_concurrency()});
   }
 
   /**
@@ -119,7 +119,7 @@ struct [[nodiscard]] HistoryService::Implementation final {
   fs::path m_historyDir {};
   std::atomic_bool m_stopImports {false};
 
-  explicit Implementation(Database& database)
+  explicit Implementation(Database& database) noexcept
     : m_database {database} {}
 };
 
@@ -259,6 +259,6 @@ void HistoryService::stopImportingHistory() {
   m_pImpl->m_catchUpTask.reset();
 }
 
-std::shared_ptr<PokerSiteHistory> HistoryService::getPokerSiteHistory() const {
+std::shared_ptr<PokerSiteHistory> HistoryService::getPokerSiteHistory() const noexcept {
   return m_pImpl->m_pokerSiteHistory;
 }

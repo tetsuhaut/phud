@@ -3,6 +3,7 @@
 #include <gsl/gsl>
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 #include <charconv>                    // std::from_chars
+#include <memory>                      // std::to_address
 #include <span>                        // std::span
 #include <type_traits>                 // std::is_arithmetic_v, std::is_same_v
 #include <stdexcept>                   // std::invalid_argument
@@ -24,7 +25,7 @@ namespace {
 #  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #endif
 
-    const auto [ptr, ec] = std::from_chars(str.data(), str.data() + str.size(), result);
+    const auto [ptr, ec] = std::from_chars(str.data(), std::to_address(str.end()), result);
 
 #ifdef __clang__
 #  pragma clang diagnostic pop
@@ -91,7 +92,7 @@ double phud::strings::toDouble(std::string_view amount) {
 #  pragma clang diagnostic ignored "-Wunsafe-buffer-usage"
 #endif
 
-  if (const auto [ptr, ec] = std::from_chars(buffer.data(), buffer.data() + buffer.size(), ret);
+  if (const auto [ptr, ec] = std::from_chars(buffer.data(), std::to_address(buffer.end()), ret);
       ec == std::errc::result_out_of_range) {
     LOG.error<"phud::strings::toDouble({})">(amount);
     LOG.error<"amount in double: {}">(ret);

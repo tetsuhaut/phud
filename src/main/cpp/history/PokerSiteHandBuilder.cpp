@@ -31,6 +31,10 @@ parseSeats(TextFile& tf, PlayerCache& /*cache*/) {
 
 // splits the given str into tokens, separated by delimiters.
 // We assume there are always 5 tokens
+// not constexpr, as it is used in other files: it would have to be defined in the header
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26497) // the function could be constexpr
+#endif // _MSC_VER
 [[nodiscard]] /*static*/ std::array<std::string_view, 5> split(std::string_view str,
                                                                std::string_view delimiter) {
   std::array<std::string_view, 5> ret = {"none", "none", "none", "none", "none"};

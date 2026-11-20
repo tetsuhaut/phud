@@ -84,6 +84,11 @@ public:
     }
   }
 
+  ConditionalConsole(const ConditionalConsole&) = delete;
+  ConditionalConsole(ConditionalConsole&&) = delete;
+  ConditionalConsole& operator=(const ConditionalConsole&) = delete;
+  ConditionalConsole& operator=(ConditionalConsole&&) = delete;
+
   ~ConditionalConsole() {
     if (m_hasConsole) {
       FreeConsole();

@@ -4,6 +4,7 @@
 #include <algorithm>                               // std::ranges::*
 #include <charconv>                                // std::from_chars
 #include <format>
+#include <memory> // std::to_address
 #include <ranges>
 
 namespace piws = PlayerIndicatorWindow::surface;
@@ -32,7 +33,7 @@ namespace {
    * @returns the number of cells needed along one axis (width or height), at least 1.
    * @param end where an item ends along this axis: endColumn or endRow
    */
-  [[nodiscard]] int countCells(std::span<const HudItem> items, auto end) {
+  [[nodiscard]] int countCells(std::span<const HudItem> items, auto end) noexcept {
     // max(max(max(1, end(item0)), end(item1)), end(item2))... returns 1 if there is no item.
     return std::ranges::fold_left(items | std::views::transform(end), 1, std::ranges::max);
   }
@@ -50,7 +51,7 @@ namespace {
 
   [[nodiscard]] std::optional<int> toInt(std::string_view text) noexcept {
     int ret {0};
-    const auto end = text.data() + text.size();
+    const auto* const end = std::to_address(text.end());
     const auto [ptr, ec] = std::from_chars(text.data(), end, ret);
     return (std::errc {} == ec and end == ptr) ? std::optional(ret) : std::nullopt;
   }
@@ -86,7 +87,7 @@ HudLayout HudLayout::defaultLayout() {
 HudLayout HudLayout::parse(std::string_view text) {
   HudLayout ret;
 
-  for (const auto chunk : text | std::views::split(ITEM_SEPARATOR)) {
+  for (const auto& chunk : text | std::views::split(ITEM_SEPARATOR)) {
     const auto oItem = parseItem(std::string_view(chunk));
 
     if (oItem.has_value() and !ret.contains(*oItem->pElement) and
@@ -124,7 +125,8 @@ bool HudLayout::contains(const HudElement& element) const noexcept {
 
 const HudElement* HudLayout::elementAt(CellPosition cell) const noexcept {
   const auto it =
-      std::ranges::find_if(m_items, [cell](const auto& item) { return covers(item, cell); });
+      std::ranges::find_if(m_items,
+                           [cell](const auto& item) noexcept { return covers(item, cell); });
   return (m_items.end() == it) ? nullptr : it->pElement;
 }
 

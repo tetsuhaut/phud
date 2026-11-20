@@ -2,6 +2,7 @@
 #include "db/Database.hpp"             // DatabaseException
 #include <spdlog/fmt/bundled/format.h> // fmt::format
 #include <sqlite3.h>                   // sqlite3_*
+#include <gsl/narrow>                  // gsl::narrow
 #include <bit>                         // std::popcount
 
 namespace {
@@ -33,7 +34,7 @@ void PreparedStatement::fail(std::string_view problem) const {
  */
 void PreparedStatement::prepareIfNeeded() {
   if (nullptr == m_pStatement) {
-    require(sqlite3_prepare_v3(m_db, m_sql.data(), static_cast<int>(m_sql.size()),
+    require(sqlite3_prepare_v3(m_db, m_sql.data(), gsl::narrow<int>(m_sql.size()),
                                SQLITE_PREPARE_PERSISTENT, &m_pStatement, nullptr),
             SQLITE_OK, "prepare");
   }
@@ -90,7 +91,7 @@ void PreparedStatement::requireEveryValueIsBound() {
 PreparedStatement& PreparedStatement::text(gsl::not_null<const char*> name,
                                            std::string_view value) {
   const auto position = bindingPosition(name);
-  require(sqlite3_bind_text(m_pStatement, position, value.data(), static_cast<int>(value.size()),
+  require(sqlite3_bind_text(m_pStatement, position, value.data(), gsl::narrow<int>(value.size()),
                             SQLITE_STATIC),
           SQLITE_OK, "bind a value of");
   return *this;
@@ -165,6 +166,10 @@ bool PreparedStatement::getColumnAsBool(int column) const noexcept {
 
 std::string PreparedStatement::getColumnAsString(int column) const {
   if (const auto* text {sqlite3_column_text(m_pStatement, column)}; nullptr != text) {
+    // sqlite3 returns the UTF-8 text as unsigned char*
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26490) // don't use reinterpret_cast
+#endif // _MSC_VER
     return reinterpret_cast<const char*>(text);
   }
 

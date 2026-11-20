@@ -23,6 +23,7 @@
 
 #if defined(_MSC_VER) // end of specific msvc warnings removal
 #  pragma warning(pop)
+#  pragma warning(disable : 26403 26409)
 #endif // _MSC_VER
 
 /*
@@ -224,7 +225,7 @@ namespace {
 
     [[nodiscard]] const HudElement* getSelected() const noexcept { return m_pSelected; }
 
-    void select(const HudElement* pElement) noexcept {
+    void select(const HudElement* pElement) {
       m_pSelected = pElement;
       redraw();
     }
@@ -305,7 +306,7 @@ struct [[nodiscard]] HudEditor::Implementation final {
     const auto elements = getHudElements();
 
     for (auto line = 1; m_list->size() >= line; ++line) {
-      const auto& element = elements[static_cast<std::size_t>(line - 1)];
+      const auto& element = elements[static_cast<std::size_t>(line) - 1];
       m_list->text(line, toListLine(element, m_layout).c_str());
     }
   }
@@ -315,7 +316,7 @@ struct [[nodiscard]] HudEditor::Implementation final {
 
     if (nullptr != pElement) {
       const auto index = pElement - getHudElements().data();
-      m_list->select(static_cast<int>(index) + 1);
+      m_list->select(gsl::narrow<int>(index) + 1);
     }
   }
 
@@ -354,7 +355,7 @@ struct [[nodiscard]] HudEditor::Implementation final {
     auto& self = *static_cast<Implementation*>(hiddenSelf);
     const auto line = self.m_list->value();
     self.m_preview->select((0 == line) ? nullptr
-                                       : &getHudElements()[static_cast<std::size_t>(line - 1)]);
+                                       : &getHudElements()[static_cast<std::size_t>(line) - 1]);
 
     if (0 != Fl::event_clicks()) { // double click
       self.addSelected();
@@ -364,7 +365,8 @@ struct [[nodiscard]] HudEditor::Implementation final {
   }
 
   static void onPreviewChanged(Fl_Widget*, void* hiddenSelf) {
-    static_cast<Implementation*>(hiddenSelf)->refresh();
+    const auto& self = *static_cast<Implementation*>(hiddenSelf);
+    self.refresh();
   }
 
   static void onAdd(Fl_Widget*, void* hiddenSelf) {
@@ -390,7 +392,7 @@ struct [[nodiscard]] HudEditor::Implementation final {
   }
 
   static void onOk(Fl_Widget*, void* hiddenSelf) {
-    auto& self = *static_cast<Implementation*>(hiddenSelf);
+    const auto& self = *static_cast<Implementation*>(hiddenSelf);
     self.m_window->hide();
     self.m_onValidate(self.m_layout);
   }

@@ -8,6 +8,7 @@
 #include <charconv> // std::from_chars
 #include <cstdlib>  // std::free
 #include <gsl/gsl>  // gsl::finally
+#include <memory>   // std::to_address
 
 #include <FL/Fl.H>
 #include <FL/Fl_Preferences.H>
@@ -94,9 +95,9 @@ void Preferences::saveWindowSize(int width, int height) const {
 std::optional<std::chrono::system_clock::time_point> Preferences::getLastHistoryCheck() const {
   const auto text = getStringPreference(LAST_HISTORY_CHECK);
   long long nbSeconds {0};
-  const auto end = text.data() + text.size();
+  const auto* const end = std::to_address(text.end());
 
-  if (const auto [ptr, ec] = std::from_chars(text.data(), end, nbSeconds);
+  if (const auto [ptr, ec] = std::from_chars(std::to_address(text.begin()), end, nbSeconds);
       text.empty() or std::errc {} != ec or end != ptr) {
     return std::nullopt;
   }
@@ -133,7 +134,11 @@ void Preferences::saveIntPreference(std::string_view key, int value) const {
 std::string Preferences::getStringPreference(std::string_view key,
                                              std::string_view defaultValue) const {
   char* pBuffer {nullptr};
-  const auto _ {gsl::finally([&pBuffer] { std::free(pBuffer); })};
+  // Fl_Preferences::get() allocates the buffer with malloc(): it must be freed with free()
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26408) // avoid malloc() and free()
+#endif // _MSC_VER
+  const auto _ {gsl::finally([&pBuffer]() noexcept { std::free(pBuffer); })};
   m_pImpl->m_preferences.get(key.data(), pBuffer, std::string(defaultValue).c_str());
   return (nullptr == pBuffer) ? "" : pBuffer;
 }

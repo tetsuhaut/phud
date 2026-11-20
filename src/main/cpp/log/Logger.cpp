@@ -13,6 +13,9 @@ namespace {
   // use a lazy singleton to avoid the static initialization fiasco
   // intentional leak to avoid exit-time destructor warning
   std::shared_ptr<spdlog::logger>& getGlobalLogger() {
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26409) // intentional leak, see above
+#endif // _MSC_VER
     static auto* instance {new std::shared_ptr<spdlog::logger>()};
     return *instance;
   }
@@ -47,59 +50,41 @@ namespace {
 }
 
 /*[[nodiscard]] static*/ LoggingLevel Logger::getCurrentLoggingLevel() {
-  auto& globalLogger {getGlobalLogger()};
+  const auto& globalLogger {getGlobalLogger()};
   assert(nullptr != globalLogger);
   return toLoggingLevel(globalLogger->level());
 }
 
-/*static*/ void Logger::setLoggingLevel(LoggingLevel l) {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->set_level(toLegacyLoggingLevel(l));
+/*static*/ void Logger::setLoggingLevel(LoggingLevel l) noexcept {
+  try {
+    const auto& globalLogger {getGlobalLogger()};
+    assert(nullptr != globalLogger);
+    globalLogger->set_level(toLegacyLoggingLevel(l));
+  } catch (...) {
+    // logging must never throw
+  }
 }
 
-/*static*/ void Logger::shutdownLogging() {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->set_level(LegacyLoggingLevel::off);
-  spdlog::drop_all();
+/*static*/ void Logger::shutdownLogging() noexcept {
+  try {
+    const auto& globalLogger {getGlobalLogger()};
+    assert(nullptr != globalLogger);
+    globalLogger->set_level(LegacyLoggingLevel::off);
+    spdlog::drop_all();
+  } catch (...) {
+    // logging must never throw
+  }
 }
 
-void Logger::traceStr(std::string_view msg) {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->trace(msg);
-  globalLogger->flush();
-}
-void Logger::debugStr(std::string_view msg) {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->debug(msg);
-  globalLogger->flush();
-}
-void Logger::infoStr(std::string_view msg) {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->info(msg);
-  globalLogger->flush();
-}
-void Logger::warnStr(std::string_view msg) {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->warn(msg);
-  globalLogger->flush();
-}
-void Logger::errorStr(std::string_view msg) {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->error(msg);
-  globalLogger->flush();
-}
-void Logger::criticalStr(std::string_view msg) {
-  auto& globalLogger {getGlobalLogger()};
-  assert(nullptr != globalLogger);
-  globalLogger->critical(msg);
-  globalLogger->flush();
+void Logger::logMessage(LoggingLevel level, std::string_view msg) const noexcept {
+  try {
+    const auto& globalLogger {getGlobalLogger()};
+    assert(nullptr != globalLogger);
+    globalLogger->log(toLegacyLoggingLevel(level), fmt::format("[{}]: {}", m_name, msg));
+    globalLogger->flush();
+  } catch (...) {
+    // logging must never throw: the message is lost
+  }
 }
 
 //

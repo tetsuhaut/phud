@@ -6,7 +6,7 @@ namespace pt = phud::test;
 BOOST_AUTO_TEST_SUITE(ProgramArgumentsTest)
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpShortParamShouldDisplayHelp) {
-  const char* argv[] {"thisProgram.exe", "-h"};
+  const char* const argv[] {"thisProgram.exe", "-h"};
   std::string msg;
 
   try {
@@ -19,7 +19,7 @@ BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpShortParamShouldDisplayHelp) {
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_helpLongParamShouldDisplayHelp) {
-  const char* argv[] {"thisProgram.exe", "--help"};
+  const char* const argv[] {"thisProgram.exe", "--help"};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), UserAskedForHelpException);
 }
 
@@ -27,30 +27,30 @@ BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_historyDirParamShouldBeUnknown) {
   // the history directory is chosen in the user interface
   const pt::TmpDir dir {"thisDirExists!!!"};
   const auto str = dir.string();
-  const char* argv[] {"thisProgram.exe", "-d", str.c_str()};
+  const char* const argv[] {"thisProgram.exe", "-d", str.c_str()};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_unknownParamShouldDisplayErrorMessage) {
-  const char* argv[] {"thisProgram.exe", "-x"};
+  const char* const argv[] {"thisProgram.exe", "-x"};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_badParamShouldDisplayErrorMessage) {
-  const char* argv[] {"thisProgram.exe", "toto"
+  const char* const argv[] {"thisProgram.exe", "toto"
                                          "titi"};
   BOOST_CHECK_THROW(std::ignore = parseProgramArguments(argv), ProgramArgumentsException);
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_correctParamShouldSucceed) {
-  const char* argv[] {"thisProgram.exe", "--logLevel", "debug"};
+  const char* const argv[] {"thisProgram.exe", "--logLevel", "debug"};
   const auto oLoggingLevel = parseProgramArguments(argv);
   BOOST_REQUIRE(oLoggingLevel.has_value());
   BOOST_REQUIRE(LoggingLevel::debug == oLoggingLevel.value());
 }
 
 BOOST_AUTO_TEST_CASE(ProgramArgumentsTest_noParamShouldSucceed) {
-  const char* argv[] {"thisProgram.exe"};
+  const char* const argv[] {"thisProgram.exe"};
   BOOST_REQUIRE(false == parseProgramArguments(argv).has_value());
 }
 

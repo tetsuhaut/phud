@@ -64,6 +64,10 @@ namespace {
       const auto _ {gsl::finally([pStatement] { sqlite3_finalize(pStatement); })};
       BOOST_REQUIRE(SQLITE_OK == sqlite3_bind_int64(pStatement, 1, i));
       BOOST_REQUIRE(SQLITE_ROW == sqlite3_step(pStatement));
+      // sqlite3 returns the UTF-8 text as unsigned char*
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26490) // don't use reinterpret_cast
+#endif // _MSC_VER
       return {reinterpret_cast<const char*>(sqlite3_column_text(pStatement, 0)),
               sqlite3_column_int64(pStatement, 1), sqlite3_column_double(pStatement, 2),
               sqlite3_column_int64(pStatement, 3)};

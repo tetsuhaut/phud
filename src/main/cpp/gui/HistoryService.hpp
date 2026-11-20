@@ -86,5 +86,5 @@ public:
    * Gets the poker site history instance.
    * @return Shared pointer to poker site history
    */
-  [[nodiscard]] std::shared_ptr<PokerSiteHistory> getPokerSiteHistory() const;
+  [[nodiscard]] std::shared_ptr<PokerSiteHistory> getPokerSiteHistory() const noexcept;
 };

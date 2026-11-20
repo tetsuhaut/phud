@@ -2,7 +2,7 @@
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
-#  pragma warning(disable : 4365 4619 26495)
+#  pragma warning(disable : 4365 4619 26426 26495)
 #elif defined(__clang__)
 #  pragma clang diagnostic push
 #  pragma clang diagnostic ignored "-Wglobal-constructors"
@@ -15,6 +15,10 @@
 #  pragma warning(pop)
 #elif defined(__clang__)
 #  pragma clang diagnostic pop
+#endif // _MSC_VER
+
+#if defined(_MSC_VER)
+#  pragma warning(disable : 26426 26440 26830 26860)
 #endif // _MSC_VER
 
 #include "strings/StringLiteral.hpp"
@@ -66,11 +70,11 @@ namespace phud::test {
     ~TmpFile();
     void print(std::string_view s) const;
     void printLn(std::string_view s) const;
-    [[nodiscard]] std::filesystem::path path() const noexcept { return m_file; }
+    [[nodiscard]] std::filesystem::path path() const { return m_file; }
     [[nodiscard]] std::filesystem::path getParentDir() const {
       return std::filesystem::path(m_file).parent_path();
     }
-    [[nodiscard]] std::string string() const noexcept { return m_file; }
+    [[nodiscard]] std::string string() const { return m_file; }
   }; // class TmpFile
 
   /**
@@ -83,10 +87,14 @@ namespace phud::test {
 
   public:
     explicit TmpDir(std::string_view dirName);
+    TmpDir(const TmpDir&) = delete;
+    TmpDir(TmpDir&&) = delete;
+    TmpDir& operator=(const TmpDir&) = delete;
+    TmpDir& operator=(TmpDir&&) = delete;
     ~TmpDir();
     [[nodiscard]] std::string operator/(std::string_view file) const;
-    [[nodiscard]] std::string string() const noexcept { return m_dir.string(); }
-    [[nodiscard]] std::filesystem::path path() const noexcept { return m_dir; }
+    [[nodiscard]] std::string string() const { return m_dir.string(); }
+    [[nodiscard]] std::filesystem::path path() const { return m_dir; }
   }; // class TmpDir
 
   class [[nodiscard]] LogDisabler final {
@@ -95,6 +103,10 @@ namespace phud::test {
 
   public:
     LogDisabler();
+    LogDisabler(const LogDisabler&) = delete;
+    LogDisabler(LogDisabler&&) = delete;
+    LogDisabler& operator=(const LogDisabler&) = delete;
+    LogDisabler& operator=(LogDisabler&&) = delete;
     ~LogDisabler();
   }; // class LogDisabler
 

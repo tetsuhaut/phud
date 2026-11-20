@@ -5,7 +5,7 @@
 #include <concepts>
 #include <cstddef>
 #include <string_view>
-#include <utility> // std::in_range()
+#include <utility> // std::cmp_less_equal(), std::cmp_greater()
 
 enum class Seat : short {
   seatOne,
@@ -33,9 +33,9 @@ namespace tableSeat {
    */
   template <std::integral T>
   [[nodiscard]] Seat fromArrayIndex(T i) {
-    // std::in_range() compares signed and unsigned values safely
-    validation::require(std::in_range<int>(i) and 0 <= static_cast<int>(i) and
-                            TableConstants::MAX_SEATS > static_cast<int>(i),
+    // std::cmp_*() compare signed and unsigned values safely
+    validation::require(std::cmp_less_equal(0, i) and
+                            std::cmp_greater(TableConstants::MAX_SEATS, i),
                         "Can't find a seat for that value");
     return static_cast<Seat>(i);
   }

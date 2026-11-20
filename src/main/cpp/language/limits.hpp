@@ -39,6 +39,10 @@ namespace limits {
       return std::numeric_limits<int>::min();
     }
 
+    // value is in the int range
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26472) // don't use static_cast for arithmetic conversions
+#endif // _MSC_VER
     return static_cast<int>(value);
   }
 

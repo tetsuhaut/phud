@@ -19,10 +19,11 @@ public:
   };
 
   explicit Time(const Args& args);
-  Time(const Time&) noexcept;
+  Time(const Time&);
   Time(Time&&) noexcept;
-  Time& operator=(const Time&) noexcept;
+  Time& operator=(const Time&);
   Time& operator=(Time&&) noexcept;
+  ~Time();
   [[nodiscard]] bool operator==(const Time&) const noexcept;
   [[nodiscard]] std::string toSqliteDate() const;
 }; // class Time

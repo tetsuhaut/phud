@@ -95,7 +95,7 @@ namespace {
 
       // Use std::span to create a view of the current batch
       const auto batch = std::span(files).subspan(batchStart, currentBatchSize);
-      const auto whileNotStopped = [&stop](const auto&) {
+      const auto whileNotStopped = [&stop](const auto&) noexcept {
         return !stop;
       };
 

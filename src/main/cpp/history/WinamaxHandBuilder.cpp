@@ -308,7 +308,7 @@ static constexpr auto ACTION_TOKENS = std::to_array<std::string_view>(
 /**
  * @param line the first line of a hand from a cash game history file
  */
-[[nodiscard]] static GameType toCashGameType(std::string_view line) {
+[[nodiscard]] static GameType toCashGameType(std::string_view line) noexcept {
   return (ps::contains(line, " - ESCAPE ") or ps::contains(line, " - Go Fast "))
              ? GameType::fastFold
              : GameType::cashGame;

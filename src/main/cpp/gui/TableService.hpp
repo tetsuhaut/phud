@@ -66,5 +66,5 @@ public:
    * Sets the poker site history instance to use.
    * @param pokerSiteHistory Shared pointer to poker site history
    */
-  void setPokerSiteHistory(std::shared_ptr<PokerSiteHistory> pokerSiteHistory) const;
+  void setPokerSiteHistory(std::shared_ptr<PokerSiteHistory> pokerSiteHistory) const noexcept;
 }; // class TableService

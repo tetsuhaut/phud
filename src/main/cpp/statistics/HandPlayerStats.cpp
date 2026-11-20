@@ -1,7 +1,8 @@
 #include "entities/Action.hpp"
 #include "entities/Hand.hpp" // std::array
 #include "statistics/HandPlayerStats.hpp"
-#include <algorithm> // std::ranges::find_if, std::ranges::transform
+#include <gsl/pointers> // gsl::not_null
+#include <algorithm>    // std::ranges::find_if, std::ranges::transform
 #include <iterator>  // std::back_inserter
 #include <ranges>    // std::views::filter
 
@@ -35,7 +36,8 @@ namespace {
     return ret;
   }
 
-  void updateWhenFacingRaise(HandPlayerStats& stats, ActionType type, const TableProgress& table) {
+  void updateWhenFacingRaise(HandPlayerStats& stats, ActionType type,
+                             const TableProgress& table) noexcept {
     const auto isRaise = ActionType::raise == type;
     stats.facedRaise = true;
     stats.foldToRaise = stats.foldToRaise or ActionType::fold == type;
@@ -48,14 +50,14 @@ namespace {
     }
   }
 
-  void updateWhenFacingThreeBet(HandPlayerStats& stats, ActionType type) {
+  void updateWhenFacingThreeBet(HandPlayerStats& stats, ActionType type) noexcept {
     stats.facedThreeBet = true;
     stats.foldToThreeBet = stats.foldToThreeBet or ActionType::fold == type;
     stats.callThreeBet = stats.callThreeBet or ActionType::call == type;
     stats.fourBet = stats.fourBet or ActionType::raise == type;
   }
 
-  void updatePlayer(PlayerProgress& player, ActionType type, const TableProgress& table) {
+  void updatePlayer(PlayerProgress& player, ActionType type, const TableProgress& table) noexcept {
     auto& stats = player.stats;
     const auto isCall = ActionType::call == type;
     const auto isRaise = ActionType::raise == type;
@@ -75,7 +77,7 @@ namespace {
     player.hasActed = true;
   }
 
-  void updateTable(TableProgress& table, ActionType type) {
+  void updateTable(TableProgress& table, ActionType type) noexcept {
     if (ActionType::call == type and 1 == table.nbRaises) {
       table.nbCallersOfRaise++;
     }
@@ -85,7 +87,7 @@ namespace {
     }
   }
 
-  [[nodiscard]] bool isPreflopDecision(const Action* pAction) {
+  [[nodiscard]] constexpr bool isPreflopDecision(gsl::not_null<const Action*> pAction) noexcept {
     return Street::preflop == pAction->getStreet() and ActionType::win != pAction->getType();
   }
 } // anonymous namespace
@@ -95,7 +97,8 @@ std::vector<HandPlayerStats> computeHandPlayerStats(const Hand& hand) {
   TableProgress table;
   const auto actions = hand.viewActions();
 
-  for (const auto* pAction : actions | std::views::filter(isPreflopDecision)) {
+  for (const gsl::not_null<const Action*> pAction :
+       actions | std::views::filter(isPreflopDecision)) {
     const auto type = pAction->getType();
     const auto it = std::ranges::find_if(players, [pAction](const auto& p) {
       return pAction->getPlayerName() == p.stats.playerName;

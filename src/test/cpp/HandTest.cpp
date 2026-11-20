@@ -73,8 +73,10 @@ BOOST_AUTO_TEST_CASE(HandTest_loadingTournamentHandWithoutActionShouldSucceed) {
   const auto tournaments = pSite->viewTournaments();
   BOOST_REQUIRE(1 == tournaments.size());
   const auto t = tournaments.front();
+  BOOST_REQUIRE(nullptr != t);
   BOOST_REQUIRE(1 == t->viewHands().size());
   const auto pHand {t->viewHands().front()};
+  BOOST_REQUIRE(nullptr != pHand);
   BOOST_REQUIRE("531302705944068104-65-1437230557" == pHand->getId());
   BOOST_REQUIRE(6 == pHand->viewActions().size());
   BOOST_REQUIRE(Street::preflop == pHand->viewActions().front()->getStreet());

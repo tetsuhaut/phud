@@ -27,13 +27,15 @@
 Time::Time(const Args& args)
   : m_pTimeData {std::make_unique<std::tm>(toTm(args))} {}
 
-Time::Time(const Time& other) noexcept
+Time::Time(const Time& other)
   : m_pTimeData {std::make_unique<std::tm>(*other.m_pTimeData)} {}
 
 Time::Time(Time&& other) noexcept
   : m_pTimeData {std::exchange(other.m_pTimeData, {})} {}
 
-Time& Time::operator=(const Time& other) noexcept {
+Time::~Time() = default;
+
+Time& Time::operator=(const Time& other) {
   if (this != &other) {
     m_pTimeData = std::make_unique<std::tm>(*other.m_pTimeData);
   }

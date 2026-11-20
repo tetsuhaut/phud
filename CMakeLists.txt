@@ -118,7 +118,11 @@ if(MSVC)
       list(APPEND PROJECT_WARNING_FLAGS
                   /analyze # static code analysis (C6xxx: uninitialized memory, null pointer...)
                   /analyze:external- # no static analysis for external headers
-                  "SHELL:/analyze:plugin EspXEngine.dll") # C++ Core Check (C26xxx)
+                  "SHELL:/analyze:plugin EspXEngine.dll" # C++ Core Check (C26xxx)
+                  /wd26446 # disable prefer gsl::at() to operator[]: the STL hardening checks bounds
+                  /wd26821 # disable prefer gsl::span to std::span: the STL hardening checks bounds
+                  /wd26455 # disable default constructors should not throw: ours allocate memory
+                  )
     endif()
     # Apply basic compilation options globally (non-warning related)
     add_compile_options(/utf-8 # use UTF-8 for source and execution
@@ -171,7 +175,20 @@ elseif((CMAKE_CXX_COMPILER_ID MATCHES "Clang")  AND (CMAKE_CXX_SIMULATE_ID STREQ
   add_compile_options(-fexec-charset=UTF-8
                       -finput-charset=UTF-8
                       -fno-elide-type
-                      -fsafe-buffer-usage-suggestions)
+                      -fsafe-buffer-usage-suggestions
+                      # security options: same as for GCC MinGW
+                      -fstack-protector-strong # stack overflow protection
+                      # buffer overflow detection. Only active with optimization (-O1 or more)
+                      -D_FORTIFY_SOURCE=3
+                      # STL hardening: bounds checks for operator[], front()... like _MSVC_STL_HARDENING
+                      -D_GLIBCXX_ASSERTIONS
+                      -ftrivial-auto-var-init=zero # uninitialized local variables are set to 0
+                      -fPIE) # Position Independent Executable
+  # Security link options: same as for GCC MinGW
+  add_link_options(-Wl,--dynamicbase # ASLR
+                   -Wl,--high-entropy-va # 64-bit ASLR
+                   -Wl,--nxcompat # DEP
+                   -pie) # Position Independent Executable
 elseif(MINGW)
   message("detected GCC MinGW compiler")
   # Store warning flags in a variable to apply only to project targets
@@ -210,10 +227,15 @@ elseif(MINGW)
                       -finput-charset=UTF-8
                       -fno-elide-type
                       -fstack-protector-strong # stack overflow protection
-                      -D_FORTIFY_SOURCE=2 # buffer overflow detection
+                      # buffer overflow detection. Only active with optimization (-O1 or more)
+                      -D_FORTIFY_SOURCE=3
+                      # STL hardening: bounds checks for operator[], front()...
+                      -D_GLIBCXX_ASSERTIONS
+                      -ftrivial-auto-var-init=zero # uninitialized local variables are set to 0
                       -fPIE) # Position Independent Executable
   # Security link options for GCC/MinGW
   add_link_options(-Wl,--dynamicbase # ASLR
+                   -Wl,--high-entropy-va # 64-bit ASLR
                    -Wl,--nxcompat # DEP
                    -pie) # Position Independent Executable
 else()
@@ -449,14 +471,20 @@ if(MSVC)
   target_link_options(dbgen PRIVATE /DEBUG /SUBSYSTEM:CONSOLE)
   # set phud as the Visual Studio startup project
   set_property(DIRECTORY PROPERTY VS_STARTUP_PROJECT phud)
-  # Security hardening for all executables and libraries
-  add_link_options(/GUARD:CF)   # Control Flow Guard
-  add_link_options(/NXCOMPAT)   # Data Execution Prevention (DEP)
-  add_link_options(/DYNAMICBASE) # Address Space Layout Randomization (ASLR)
-  # High entropy ASLR for 64-bit
-  if(CMAKE_SIZEOF_VOID_P EQUAL 8)
-    add_link_options(/HIGHENTROPYVA)
-  endif()
+  # Security hardening for all executables.
+  # Note: add_link_options() would only apply to the targets created after it, i.e. none here
+  foreach(target_name IN ITEMS phud dbgen guiDryRun unitTests)
+    target_link_options(${target_name} PRIVATE
+                        /GUARD:CF # Control Flow Guard
+                        /NXCOMPAT # Data Execution Prevention (DEP)
+                        /DYNAMICBASE # Address Space Layout Randomization (ASLR)
+                        # /GUARD:EHCONT would require all the libraries to be compiled with /guard:ehcont
+                        /CETCOMPAT) # CET shadow stack: protects the return addresses
+    # High entropy ASLR for 64-bit
+    if(CMAKE_SIZEOF_VOID_P EQUAL 8)
+      target_link_options(${target_name} PRIVATE /HIGHENTROPYVA)
+    endif()
+  endforeach()
   # /fsanitize=address, /fsanitize=undefined, /fsanitize=memory, /fsanitize=thread, /fsanitize=leak, /fsanitize=hwaddress
   #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /utf-8 /MP /ZI /Gy /EHsc /Zc:__cplusplus /fsanitize=leak" CACHE STRING "" FORCE)
   #set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} /ignore:4099" CACHE STRING "" FORCE)
@@ -466,7 +494,7 @@ if(MSVC)
   # target_compile_options(guiDryRun PRIVATE -fsanitize=address,undefined)
   # target_compile_options(unitTests PRIVATE -fsanitize=address,undefined)
   #target_compile_options(${target_name} PRIVATE -fno-sanitize=signed-integer-overflow)
-  # STL hardening - enhanced runtime checks
+  # STL hardening - enhanced runtime checks (like operator[])
   target_compile_definitions(mainLib PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(phud PRIVATE _MSVC_STL_HARDENING=1)
   target_compile_definitions(dbgen PRIVATE _MSVC_STL_HARDENING=1)

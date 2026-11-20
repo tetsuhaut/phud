@@ -7,6 +7,11 @@
  * A compile time string type for template parameters.
  * inspired by https://ctrpeach.io/posts/cpp20-string-literal-template-parameters/
  */
+#if defined(_MSC_VER)
+#  pragma warning(push)
+#  pragma warning(disable : 26459 26485)
+#endif // _MSC_VER
+
 template <typename CHAR, auto N>
 struct [[nodiscard]] StringLiteral final {
   CHAR value[N + 1] {};
@@ -22,6 +27,10 @@ struct [[nodiscard]] StringLiteral final {
     std::copy_n(str, str.size() + 1, value);
   }
 };
+
+#if defined(_MSC_VER)
+#  pragma warning(pop)
+#endif // _MSC_VER
 
 template <typename CHAR, auto N>
 StringLiteral(const CHAR (&)[N]) -> StringLiteral<CHAR, N - 1>;

@@ -81,6 +81,10 @@ BOOST_AUTO_TEST_CASE(StringTest_passingStringViewStructAsParamShouldWork) {
   std::string var {"a string"};
   BOOST_TEST("myFunction returns a string" == myFunction({.value = var}));
   const char arr[] {"a string"};
+  // tests the conversion of a char array
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26485) // an array is converted to a pointer
+#endif // _MSC_VER
   BOOST_TEST("myFunction returns a string" == myFunction({.value = arr}));
 }
 

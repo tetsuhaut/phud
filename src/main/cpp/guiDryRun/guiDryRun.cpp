@@ -18,6 +18,10 @@ namespace {
     MyLoggingConfig() {
       Logger::setupConsoleDebugLogging("[%Y%m%d %H:%M:%S.%e] [%n] [%^%l%$] [%t] %v");
     }
+    MyLoggingConfig(const MyLoggingConfig&) = delete;
+    MyLoggingConfig(MyLoggingConfig&&) = delete;
+    MyLoggingConfig& operator=(const MyLoggingConfig&) = delete;
+    MyLoggingConfig& operator=(MyLoggingConfig&&) = delete;
     ~MyLoggingConfig() { Logger::shutdownLogging(); }
   };
 } // anonymous namespace
@@ -106,7 +110,7 @@ public:
   explicit NoOpHistoryService(Database& db)
     : HistoryService(db) {}
   // HistoryService interface
-  bool isValidHistory(const fs::path& /*dir*/) override { return true; }
+  bool isValidHistory(const fs::path& /*dir*/) noexcept override { return true; }
 
   void importHistory(const fs::path& /*historyDir*/, const std::function<void()>& onProgress,
                      const std::function<void(std::size_t)>& onSetNbFiles,
@@ -116,9 +120,9 @@ public:
   void importHistory(auto, const std::function<void()>&, const std::function<void(std::size_t)>&,
                      const std::function<void()>&) = delete;
 
-  void stopImportingHistory() override { LOG.debug<__func__>(); }
+  void stopImportingHistory() noexcept override { LOG.debug<__func__>(); }
 
-  void setHistoryDir(const fs::path& /*dir*/) override {}
+  void setHistoryDir(const fs::path& /*dir*/) noexcept override {}
 }; // NoOpHistoryService
 void NoOpHistoryService::importHistory(const fs::path&, const std::function<void()>& onProgress,
                                        const std::function<void(std::size_t)>& onSetNbFiles,

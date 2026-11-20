@@ -114,13 +114,17 @@ struct [[nodiscard]] Gui::Implementation final {
   Implementation& operator=(Implementation&&) = delete;
 
   ~Implementation() {
-    m_historyService.stopWatchingHistory();
-    m_historyService.stopImportingHistory();
-    if (m_tableWatcher) {
-      m_tableWatcher->stop();
+    try {
+      m_historyService.stopWatchingHistory();
+      m_historyService.stopImportingHistory();
+      if (m_tableWatcher) {
+        m_tableWatcher->stop();
+      }
+      m_tableService.stopProducingStats();
+      ThreadPool::stop();
+    } catch (...) { // can't throw in a destructor
+      LOG.error<"Unknown Error when stopping the services in the GUI destruction.">();
     }
-    m_tableService.stopProducingStats();
-    ThreadPool::stop();
   }
 }; // struct Gui::Implementation
 
@@ -263,9 +267,13 @@ namespace {
    */
   // ReSharper disable once CppParameterMayBeConstPtrOrRef
   // as this function has to be an Fl_Callback
-  void exitCb(Fl_Widget* const mainWindow, void* hidden) {
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26461) // as this function has to be an Fl_Callback
+#endif // _MSC_VER
+  void exitCb(Fl_Widget* const widget, void* hidden) {
     LOG.debug<__func__>();
     LOG.info<"Stopping the GUI.">();
+    const gsl::not_null<Fl_Widget*> mainWindow {widget};
     auto& impl = *static_cast<Gui::Implementation*>(hidden);
 
     // Stop watching for poker tables first
@@ -299,7 +307,7 @@ namespace {
   template <typename WIDGET>
   [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
                                                     std::string_view label, auto setupFunction) {
-    auto widget = createWidget<WIDGET>(bounds, label);
+    const auto widget = createWidget<WIDGET>(bounds, label);
     setupFunction(widget);
     return widget;
   }
@@ -308,7 +316,7 @@ namespace {
   [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
                                                     auto setupFunction) {
     const auto [x, y, w, h] = bounds;
-    auto widget = new WIDGET(x, y, w, h);
+    const gsl::not_null<WIDGET*> widget {new WIDGET(x, y, w, h)};
     setupFunction(widget);
     return widget;
   }
@@ -346,7 +354,7 @@ namespace {
   void reimportHistoryCb(Fl_Widget*, void* hidden);
 
   [[nodiscard]] gsl::not_null<Fl_Menu_Bar*> buildMenuBar(Gui::Implementation* impl) {
-    return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [impl](Fl_Menu_Bar* menu) {
+    return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [impl](gsl::not_null<Fl_Menu_Bar*> menu) {
       menu->add(MainWindow::Label::reimportHistoryMenu.data(), 0, reimportHistoryCb, impl);
       menu->add("&File/E&xit", 0, exitCb, impl);
       menu->add(MainWindow::Label::customizeHudMenu.data(), 0, customizeHudCb, impl);
@@ -512,7 +520,7 @@ namespace {
       LOG.info<"The import directory '{}' is valid">(dir.string());
       // the files modified from now on are saved by the history watching
       const auto importStart = std::chrono::system_clock::now();
-      auto* const progressBar = self.m_progressBar;
+      const gsl::not_null<Fl_Progress*> progressBar {self.m_progressBar};
 
       // UI update - already running in UI thread, no need for scheduleUITask
       progressBar->value(0); // the progress bar can have been used by a previous import
@@ -672,7 +680,7 @@ namespace {
 
     return createWidget<Fl_Button>(MainWindow::Screen::chooseHistoDirBtn,
                                    MainWindow::Label::chooseHistoDir,
-                                   [&aSelf, choseHistoDirCb](Fl_Button* btn) {
+                                   [&aSelf, choseHistoDirCb](gsl::not_null<Fl_Button*> btn) {
                                      /* setup the button for choosing which history directory to
                                       * import into database */
                                      btn->callback(choseHistoDirCb, &aSelf);
@@ -726,11 +734,11 @@ namespace {
 
     return createWidget<Fl_Button>(
         MainWindow::Screen::stopHudBtn, MainWindow::Label::startHud,
-        [&aSelf, hudCb](Fl_Button* btn) { btn->callback(hudCb, &aSelf); });
+        [&aSelf, hudCb](gsl::not_null<Fl_Button*> btn) { btn->callback(hudCb, &aSelf); });
   }
 
   [[nodiscard]] gsl::not_null<Fl_Box*> buildHistoDirTextField(const Preferences& pref) {
-    return createWidget<Fl_Box>(MainWindow::Screen::histoDirTextField, [&pref](Fl_Box* box) {
+    return createWidget<Fl_Box>(MainWindow::Screen::histoDirTextField, [&pref](gsl::not_null<Fl_Box*> box) {
       /* setup the text box to display the chosen directory */
       const auto& label = pref.getHistoryDirectoryDisplayLabel();
       box->copy_label(label.c_str());
@@ -738,7 +746,7 @@ namespace {
   }
 
   [[nodiscard]] gsl::not_null<Fl_Progress*> buildProgressBar() {
-    return createWidget<Fl_Progress>(MainWindow::Screen::progressBar, [](Fl_Progress* progress) {
+    return createWidget<Fl_Progress>(MainWindow::Screen::progressBar, [](gsl::not_null<Fl_Progress*> progress) {
       progress->color(MainWindow::Color::progressBarBackgroundColor);
       progress->selection_color(MainWindow::Color::progressBarForegroundColor);
       progress->labelcolor(MainWindow::Color::progressBarTextColor);
@@ -752,7 +760,7 @@ namespace {
   [[nodiscard]] gsl::not_null<Fl_Box*> buildWatchedTablesLabel() {
     return createWidget<Fl_Box>(MainWindow::Screen::watchedTableLabel,
                                 MainWindow::Label::hudStopped,
-                                [](Fl_Box* box) { box->align(FL_ALIGN_LEFT | FL_ALIGN_INSIDE); });
+                                [](gsl::not_null<Fl_Box*> box) { box->align(FL_ALIGN_LEFT | FL_ALIGN_INSIDE); });
   }
 
   [[nodiscard]] gsl::not_null<Fl_Box*> buildInfoBar() {

@@ -32,8 +32,8 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
   auto willExplodeIn {
       pt::TimeBomb::create(TB_PERIOD, "PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs")};
   const PeriodicTask pt {PT_PERIOD};
-  const auto pMyStrContainer {std::make_unique<StrContainer>()};
-  void* hidden {pMyStrContainer.get()};
+  StrContainer myStrContainer;
+  void* hidden {&myStrContainer};
   pt.start([hidden]() {
     const auto pStrContainer {static_cast<StrContainer*>(hidden)};
     pStrContainer->str += "yop";
@@ -41,7 +41,7 @@ BOOST_AUTO_TEST_CASE(PeriodicTaskTest_periodicTaskShouldTakeHiddenArgs) {
                                           : PeriodicTaskStatus::repeatTask;
   });
   pt.join();
-  BOOST_REQUIRE("yopyop" == pMyStrContainer->str);
+  BOOST_REQUIRE("yopyop" == myStrContainer.str);
 }
 
 struct [[nodiscard]] PassedInArray final {

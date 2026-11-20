@@ -59,7 +59,11 @@ TableWatcher::TableWatcher(const TableWindowsDetectedCallback& onTablesChanged)
   : m_pImpl {std::make_unique<Implementation>(onTablesChanged)} {}
 
 TableWatcher::~TableWatcher() {
-  stop();
+  try {
+    stop();
+  } catch (...) { // can't throw in a destructor
+    LOG.error<"Unknown Error when stopping the table watcher in its destruction.">();
+  }
 }
 
 void TableWatcher::start() const {

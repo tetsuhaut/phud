@@ -39,7 +39,7 @@ BOOST_AUTO_TEST_CASE(RectangleTest_assignment) {
 }
 
 BOOST_AUTO_TEST_CASE(RectangleTest_structuredBinding) {
-  phud::Rectangle rect {10, 20, 100, 50};
+  const phud::Rectangle rect {10, 20, 100, 50};
   auto [x, y, w, h] = rect;
 
   BOOST_CHECK_EQUAL(x, 10);

@@ -15,6 +15,7 @@
 
 #if defined(_MSC_VER) // end of specific msvc warnings removal
 #  pragma warning(pop)
+#  pragma warning(disable : 26403 26409)
 #endif // _MSC_VER
 
 namespace piws = PlayerIndicatorWindow::surface;
@@ -29,7 +30,7 @@ PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::strin
                        .h = layout.getHeight()},
                       "",
                       // Callback called when the user moves manually the PlayerIndicator
-                      [this](int newX, int newY) {
+                      [this](int newX, int newY) noexcept {
                         m_userOffsetX = newX - m_basePosition.first;
                         m_userOffsetY = newY - m_basePosition.second;
                         LOG.debug<"User moved PlayerIndicator, offset: ({}, {})">(m_userOffsetX,

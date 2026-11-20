@@ -3,7 +3,7 @@
 #include <ranges>
 
 namespace {
-  bool isHero(const std::unique_ptr<PlayerStatistics>& pPlayerStat) noexcept {
+  bool isHero(const PlayerStatistics* pPlayerStat) noexcept {
     return pPlayerStat and pPlayerStat->isHero();
   }
 
@@ -35,7 +35,8 @@ TableStatistics::TableStatistics(
 TableStatistics::TableStatistics() = default;
 
 std::optional<Seat> TableStatistics::getHeroSeat() const {
-  const auto it = std::ranges::find_if(m_tableStats, isHero);
+  const auto it = std::ranges::find_if(m_tableStats, isHero,
+                                       [](const auto& pStats) noexcept { return pStats.get(); });
   return (m_tableStats.end() == it)
              ? std::nullopt
              : std::optional(tableSeat::fromArrayIndex(it - m_tableStats.begin()));

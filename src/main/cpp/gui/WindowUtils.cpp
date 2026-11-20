@@ -59,34 +59,47 @@ namespace {
     return {r.left, r.top, r.right - r.left, r.bottom - r.top};
   }
 
-  BOOL windowTitleCallback(HWND hwnd, LPARAM hiddenTitles) {
-    auto& localTitles = *reinterpret_cast<std::vector<std::string>*>(hiddenTitles);
+  // noexcept: an exception can't go through the Windows API that calls this function
+  BOOL windowTitleCallback(HWND hwnd, LPARAM hiddenTitles) noexcept {
+    try {
+      // the Windows API passes the user data as an integer
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26490) // don't use reinterpret_cast
+#endif // _MSC_VER
+      auto& localTitles = *reinterpret_cast<std::vector<std::string>*>(hiddenTitles);
 
-    if (IsWindowVisible(hwnd)) {
-      // Get window title
-      const auto length = GetWindowTextLength(hwnd);
-      const auto lengthPlusOne = length + 1;
-      auto title = std::string(limits::toSizeT(lengthPlusOne), '\0');
+      if (IsWindowVisible(hwnd)) {
+        // Get window title
+        const auto length = GetWindowTextLength(hwnd);
+        const auto lengthPlusOne = length + 1;
+        auto title = std::string(limits::toSizeT(lengthPlusOne), '\0');
 
-      if (const auto actualLength {GetWindowText(hwnd, title.data(), lengthPlusOne)};
-          actualLength > 0) {
-        title.resize(limits::toSizeT(actualLength));
-        localTitles.emplace_back(title);
+        if (const auto actualLength {GetWindowText(hwnd, title.data(), lengthPlusOne)};
+            actualLength > 0) {
+          title.resize(limits::toSizeT(actualLength));
+          localTitles.emplace_back(title);
+        }
       }
-    }
 
-    return TRUE; // Continue enumeration
+      return TRUE; // Continue enumeration
+    } catch (...) {
+      return FALSE; // Stop enumeration
+    }
   }
 } // anonymous namespace
 
-std::vector<std::string> mswindows::getWindowTitles() {
+std::vector<std::string> mswindows::getWindowTitles() noexcept {
   std::vector<std::string> titles;
+  // the Windows API passes the user data as an integer
+#if defined(_MSC_VER)
+#  pragma warning(suppress : 26490) // don't use reinterpret_cast
+#endif // _MSC_VER
   EnumWindows(windowTitleCallback, reinterpret_cast<LPARAM>(&titles));
   return titles;
 }
 
 std::optional<phud::Rectangle>
-mswindows::getTableWindowRectangle(std::string_view tableWindowTitle) {
+mswindows::getTableWindowRectangle(std::string_view tableWindowTitle) noexcept {
   // Find window position by title
   if (const auto hwnd = FindWindow(nullptr, tableWindowTitle.data()); nullptr != hwnd) {
     if (RECT rect; 0 != GetWindowRect(hwnd, &rect)) {
