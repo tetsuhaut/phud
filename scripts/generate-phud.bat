@@ -30,7 +30,8 @@ ECHO calling cmake
 cmake -G %CMAKE_GENERATOR% %~dp0\..
 POPD
 COPY "%~dp0formatCode.bat" %BUILD_DIR%\formatCode.bat
-ECHO ^color ^&^& ^cls ^&^& ^%BIN_DIR%\unitTests.exe %%* > %BUILD_DIR%\runAllTests.bat
+rem if a leak is detected, launch unitTests.exe --detect_memory_leaks=<id of the leak>
+ECHO ^color ^&^& ^cls ^&^& ^%BIN_DIR%\unitTests.exe --detect_memory_leaks=1 %%* > %BUILD_DIR%\runAllTests.bat
 ECHO ^color ^&^& ^cls ^&^& ^%BIN_DIR%\unitTests.exe --run_test=%%* -l all > %BUILD_DIR%\runOneTest.bat
 ECHO ^%BIN_DIR%\unitTests.exe --log_level=unit_scope > %BUILD_DIR%\measure.bat
 ECHO ^%BIN_DIR%\dbgen.exe -b %BIN_DIR%\tc1591.db -d %CD%\src\test\resources\tc1591 > %BUILD_DIR%\updateDb.bat
