@@ -271,11 +271,11 @@ namespace {
 #if defined(_MSC_VER)
 #  pragma warning(suppress : 26461) // as this function has to be an Fl_Callback
 #endif // _MSC_VER
-  void exitCb(Fl_Widget* const widget, void* hidden) {
+  void exitCb(Fl_Widget* const /*widget*/, void* const hidden) {
     LOG.debug<__func__>();
     LOG.info<"Stopping the GUI.">();
-    const gsl::not_null<Fl_Widget*> mainWindow {widget};
     auto& impl = *static_cast<Gui::Implementation*>(hidden);
+    const auto& mainWindow = *impl.m_mainWindow;
 
     // Stop watching for poker tables first
     if (impl.m_tableWatcher) {
@@ -288,8 +288,8 @@ namespace {
     }
 
     /* save the main window position */
-    impl.m_preferences->saveWindowPosition(mainWindow->x(), mainWindow->y());
-    impl.m_preferences->saveWindowSize(mainWindow->w(), mainWindow->h());
+    impl.m_preferences->saveWindowPosition(mainWindow.x(), mainWindow.y());
+    impl.m_preferences->saveWindowSize(mainWindow.w(), mainWindow.h());
 
     /* close all subwindows */
     while (Fl::first_window()) {
