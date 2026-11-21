@@ -12,14 +12,15 @@ namespace piws = PlayerIndicatorWindow::surface;
 namespace {
   constexpr char ITEM_SEPARATOR {';'};
   constexpr char FIELD_SEPARATOR {':'};
-  // the saved format is 'id:column:row', kept as is to read the preferences already saved
+  // the saved format is 'id:column:row' or 'id:column:row:width', so that the preferences saved
+  // before the width could be changed are still read
   constexpr std::string_view DEFAULT_LAYOUT {"nbHands:0:0;vpip:2:0;pfr:3:0;af:4:0;playerName:0:1"};
 
   /**
    * @returns the 1st column after the item
    */
   [[nodiscard]] int endColumn(const HudItem& item) noexcept {
-    return item.position.column + item.pElement->widthInCells;
+    return item.position.column + item.width;
   }
   /**
    * @returns the 1st line after the item. as an item is always 1 line high, it is always
@@ -43,10 +44,9 @@ namespace {
            cell.column < ::endColumn(item);
   }
 
-  [[nodiscard]] bool overlaps(const HudItem& item, const HudElement& element,
-                              CellPosition position) noexcept {
+  [[nodiscard]] bool overlaps(const HudItem& item, CellPosition position, int width) noexcept {
     return position.row == item.position.row and position.column < ::endColumn(item) and
-           item.position.column < position.column + element.widthInCells;
+           item.position.column < position.column + width;
   }
 
   [[nodiscard]] std::optional<int> toInt(std::string_view text) noexcept {
@@ -57,14 +57,15 @@ namespace {
   }
 
   /**
-   * @returns the item described by 'id:column:row', with no guarantee that it can be placed.
+   * @returns the item described by 'id:column:row' or 'id:column:row:width', with no guarantee
+   * that it can be placed.
    */
   [[nodiscard]] std::optional<HudItem> parseItem(std::string_view text) {
     const auto fields = text | std::views::split(FIELD_SEPARATOR) |
                         std::views::transform([](auto&& s) { return std::string_view(s); }) |
                         std::ranges::to<std::vector>();
 
-    if (3 != fields.size()) {
+    if (3 != fields.size() and 4 != fields.size()) {
       return std::nullopt;
     }
 
@@ -76,7 +77,15 @@ namespace {
       return std::nullopt;
     }
 
-    return HudItem {.pElement = pElement, .position = {.row = *row, .column = *column}};
+    const auto width =
+        (4 == fields.size()) ? toInt(fields[3]) : std::optional(pElement->widthInCells);
+
+    if (!width.has_value()) {
+      return std::nullopt;
+    }
+
+    return HudItem {
+        .pElement = pElement, .position = {.row = *row, .column = *column}, .width = *width};
   }
 } // anonymous namespace
 
@@ -91,7 +100,7 @@ HudLayout HudLayout::parse(std::string_view text) {
     const auto oItem = parseItem(std::string_view(chunk));
 
     if (oItem.has_value() and !ret.contains(*oItem->pElement) and
-        ret.canPlace(*oItem->pElement, oItem->position)) {
+        ret.canPlace(*oItem->pElement, oItem->position, oItem->width)) {
       ret.m_items.push_back(*oItem);
     }
   }
@@ -109,6 +118,10 @@ std::string HudLayout::serialize() const {
 
     ret += std::format("{}{}{}{}{}", item.pElement->id, FIELD_SEPARATOR, item.position.column,
                        FIELD_SEPARATOR, item.position.row);
+
+    if (item.pElement->widthInCells != item.width) {
+      ret += std::format("{}{}", FIELD_SEPARATOR, item.width);
+    }
   }
 
   return ret;
@@ -131,13 +144,19 @@ const HudElement* HudLayout::elementAt(CellPosition cell) const noexcept {
 }
 
 bool HudLayout::canPlace(const HudElement& element, CellPosition position) const noexcept {
-  if (0 > position.row or piws::nbRows <= position.row or 0 > position.column or
-      piws::nbColumns < position.column + element.widthInCells) {
+  const auto* const pItem = find(element);
+  return canPlace(element, position, (nullptr == pItem) ? element.widthInCells : pItem->width);
+}
+
+bool HudLayout::canPlace(const HudElement& element, CellPosition position,
+                         int width) const noexcept {
+  if (1 > width or 0 > position.row or piws::nbRows <= position.row or 0 > position.column or
+      piws::nbColumns < position.column + width) {
     return false;
   }
 
-  return std::ranges::none_of(m_items, [&element, position](const auto& item) {
-    return &element != item.pElement and overlaps(item, element, position);
+  return std::ranges::none_of(m_items, [&element, position, width](const auto& item) {
+    return &element != item.pElement and overlaps(item, position, width);
   });
 }
 
@@ -160,18 +179,25 @@ bool HudLayout::addElement(const HudElement& element) {
     return false;
   }
 
-  m_items.push_back({.pElement = &element, .position = *oPosition});
+  m_items.push_back({.pElement = &element, .position = *oPosition, .width = element.widthInCells});
   return true;
 }
 
 bool HudLayout::moveElement(const HudElement& element, CellPosition position) noexcept {
+  const auto* const pItem = find(element);
+  return (nullptr != pItem) and resizeElement(element, position, pItem->width);
+}
+
+bool HudLayout::resizeElement(const HudElement& element, CellPosition position,
+                              int width) noexcept {
   const auto it = std::ranges::find(m_items, &element, &HudItem::pElement);
 
-  if (m_items.end() == it or !canPlace(element, position)) {
+  if (m_items.end() == it or !canPlace(element, position, width)) {
     return false;
   }
 
   it->position = position;
+  it->width = width;
   return true;
 }
 

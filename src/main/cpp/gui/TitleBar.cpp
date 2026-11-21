@@ -16,16 +16,28 @@
 #if defined(_WIN32)
 #  include <dwmapi.h> // DwmSetWindowAttribute
 #  include <tuple>    // std::ignore
-#endif                // _WIN32
 
-void matchTitleBarToBackground([[maybe_unused]] const Fl_Window& window) {
+namespace {
+  [[nodiscard]] COLORREF toColorRef(Fl_Color flColor) {
+    unsigned char red {0};
+    unsigned char green {0};
+    unsigned char blue {0};
+    Fl::get_color(flColor, red, green, blue);
+    return RGB(red, green, blue);
+  }
+
+  void setTitleBarAttribute(const Fl_Window& window, DWMWINDOWATTRIBUTE attribute,
+                            Fl_Color flColor) {
+    const auto color = toColorRef(flColor);
+    // the result is ignored: an error only means that Windows is too old to change this color
+    std::ignore = DwmSetWindowAttribute(fl_xid(&window), attribute, &color, sizeof(color));
+  }
+} // anonymous namespace
+#endif // _WIN32
+
+void matchTitleBarToWindow([[maybe_unused]] const Fl_Window& window) {
 #if defined(_WIN32)
-  unsigned char red {0};
-  unsigned char green {0};
-  unsigned char blue {0};
-  Fl::get_color(window.color(), red, green, blue);
-  const COLORREF color = RGB(red, green, blue);
-  // the result is ignored: an error only means that Windows is too old to change this color
-  std::ignore = DwmSetWindowAttribute(fl_xid(&window), DWMWA_CAPTION_COLOR, &color, sizeof(color));
+  setTitleBarAttribute(window, DWMWA_CAPTION_COLOR, window.color());
+  setTitleBarAttribute(window, DWMWA_TEXT_COLOR, window.labelcolor());
 #endif // _WIN32
 }

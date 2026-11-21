@@ -29,6 +29,7 @@ struct [[nodiscard]] CellPosition final {
 struct [[nodiscard]] HudItem final {
   const HudElement* pElement;
   CellPosition position;
+  int width; // in cells, at least 1. HudElement::widthInCells when the element is added
 
   [[nodiscard]] bool operator==(const HudItem&) const noexcept = default;
 };
@@ -57,6 +58,7 @@ public:
   /**
    * @returns a std::string that represents the current layout. Used to save the layout in user's
    * preferences. The default layout is "nbHands:0:0;vpip:2:0;pfr:3:0;af:4:0;playerName:0:1".
+   * Each item is 'id:column:row', followed by ':width' when the width is not the default one.
    */
   [[nodiscard]] std::string serialize() const;
 
@@ -81,6 +83,12 @@ public:
   [[nodiscard]] bool canPlace(const HudElement& element, CellPosition position) const noexcept;
 
   /**
+   * @returns true if the element fits with the given width (in cells, at least 1), see above.
+   */
+  [[nodiscard]] bool canPlace(const HudElement& element, CellPosition position,
+                              int width) const noexcept;
+
+  /**
    * @returns the first position where the element fits, searching row by row, if any.
    */
   [[nodiscard]] std::optional<CellPosition> findFreePlace(const HudElement& element) const noexcept;
@@ -95,6 +103,12 @@ public:
    * @returns false if the element is not there, or if canPlace() is false. Nothing changes then.
    */
   bool moveElement(const HudElement& element, CellPosition position) noexcept;
+
+  /**
+   * Moves and resizes the element: resizing it by its left side changes its column too.
+   * @returns false if the element is not there, or if canPlace() is false. Nothing changes then.
+   */
+  bool resizeElement(const HudElement& element, CellPosition position, int width) noexcept;
 
   void removeElement(const HudElement& element);
 

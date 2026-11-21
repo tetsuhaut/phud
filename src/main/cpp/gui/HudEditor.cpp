@@ -1,12 +1,18 @@
-#include "gui/HudEditor.hpp" // std::function, std::unique_ptr
+#include "gui/FltkCallback.hpp" // callbackOn
+#include "gui/HudEditor.hpp"    // std::function, std::unique_ptr
 #include "gui/HudElement.hpp"
 #include "gui/HudLayout.hpp"
-#include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface
+#include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface, toRectangle
+#include "gui/PlayerIndicatorWindowStyle.hpp"      // PlayerIndicatorWindow::style
 #include "gui/Rectangle.hpp"                       // phud::Rectangle
 #include "gui/TitleBar.hpp"
+#include "gui/WidgetFactory.hpp" // createWidget
 #include <algorithm> // std::clamp, std::ranges::for_each
 #include <format>
 #include <gsl/gsl> // gsl::not_null
+#include <string>
+#include <string_view>
+#include <tuple> // std::ignore
 
 #if defined(_MSC_VER) // removal of specific msvc warnings due to FLTK
 #  pragma warning(push)
@@ -38,24 +44,30 @@
 // | |          |  ---------------------------------
 // | |          |  [Add] [Remove]          [Default]
 // | |          |  description of the element
-// | |          |
+// | |          |  sample title
+// | |          |  -----------
+// | |          |  | sample  |
+// | |          |  -----------
 // | ------------                      [OK] [Cancel]
 // V
 // Y
 
 namespace piws = PlayerIndicatorWindow::surface;
+namespace style = PlayerIndicatorWindow::style;
 
 namespace {
   constexpr auto SPACE {5};
   constexpr auto BUTTON_WIDTH {80};
   constexpr auto BUTTON_HEIGHT {25};
-  constexpr auto HINT_HEIGHT {60};
+  constexpr auto HINT_HEIGHT {90};
   constexpr auto DESCRIPTION_HEIGHT {120};
+  constexpr auto SAMPLE_TITLE_HEIGHT {20};
   constexpr auto LIST_WIDTH {230};
   constexpr auto PREVIEW_ZOOM {2};
   constexpr auto PREVIEW_CELL_WIDTH {piws::cellWidth * PREVIEW_ZOOM};
   constexpr auto PREVIEW_CELL_HEIGHT {piws::cellHeight * PREVIEW_ZOOM};
   constexpr auto PREVIEW_FONT_SIZE {12};
+  constexpr auto RESIZE_MARGIN {6}; // pixels near a side of an element where it can be resized
 
   constexpr phud::Rectangle HINT {.x = LIST_WIDTH + 2 * SPACE,
                                   .y = SPACE,
@@ -70,7 +82,16 @@ namespace {
                                          .y = EDIT_BUTTONS_Y + BUTTON_HEIGHT + SPACE,
                                          .w = HINT.w,
                                          .h = DESCRIPTION_HEIGHT};
-  constexpr auto VALIDATION_BUTTONS_Y {DESCRIPTION.y + DESCRIPTION.h + SPACE};
+  constexpr phud::Rectangle SAMPLE_TITLE {.x = HINT.x,
+                                          .y = DESCRIPTION.y + DESCRIPTION.h + SPACE,
+                                          .w = HINT.w,
+                                          .h = SAMPLE_TITLE_HEIGHT};
+  // at the real size of a PlayerIndicator, with room for its border
+  constexpr phud::Rectangle SAMPLE {.x = HINT.x + 1,
+                                    .y = SAMPLE_TITLE.y + SAMPLE_TITLE.h + 1,
+                                    .w = piws::nbColumns * piws::cellWidth,
+                                    .h = piws::nbRows * piws::cellHeight};
+  constexpr auto VALIDATION_BUTTONS_Y {SAMPLE.y + SAMPLE.h + 1 + SPACE};
   constexpr auto WINDOW_WIDTH {HINT.x + HINT.w + SPACE};
   constexpr auto WINDOW_HEIGHT {VALIDATION_BUTTONS_Y + BUTTON_HEIGHT + SPACE};
   constexpr phud::Rectangle LIST {
@@ -79,9 +100,13 @@ namespace {
   constexpr auto TITLE {"Customize the HUD"};
   constexpr auto HINT_TEXT {
       "Select an element in the list and add it, then drag it to its place in the grid.\n"
+      "Drag the left or right side of an element to change its width.\n"
       "In bold: displayed on the HUD. In italic: no data yet, the HUD displays a dash."};
   constexpr auto NO_DATA_TEXT {"\n\nNo data yet: this statistic is not computed."};
   constexpr auto NO_SELECTION_TEXT {"Select an element to see its description."};
+  constexpr auto SAMPLE_TITLE_TEXT {"Sample of a player indicator:"};
+  constexpr std::string_view SAMPLE_PLAYER_NAME {"name"};
+  constexpr std::string_view SAMPLE_STAT {"99"};
 
   constexpr Fl_Color FREE_CELL_LINE_COLOR {FL_LIGHT2};
   constexpr Fl_Color ITEM_COLOR {FL_LIGHT1};
@@ -89,25 +114,44 @@ namespace {
   constexpr Fl_Color VALID_TARGET_COLOR {FL_DARK_GREEN};
   constexpr Fl_Color INVALID_TARGET_COLOR {FL_RED};
 
-  [[nodiscard]] constexpr phud::Rectangle toRectangle(int x, int y, const HudElement& element,
-                                                      CellPosition position) noexcept {
-    return {.x = x + position.column * PREVIEW_CELL_WIDTH,
-            .y = y + position.row * PREVIEW_CELL_HEIGHT,
-            .w = element.widthInCells * PREVIEW_CELL_WIDTH,
-            .h = PREVIEW_CELL_HEIGHT};
+  /**
+   * @returns the rectangle moved by (dx, dy): from coordinates relative to a widget to coordinates
+   * relative to its window, as FLTK draws.
+   */
+  [[nodiscard]] constexpr phud::Rectangle translate(const phud::Rectangle& r, int dx,
+                                                    int dy) noexcept {
+    return {.x = r.x + dx, .y = r.y + dy, .w = r.w, .h = r.h};
   }
 
   /**
-   * The grid of a PlayerIndicator, where the user selects the elements and moves them.
+   * What the user does with the mouse button pressed on the grid.
+   */
+  enum class [[nodiscard]] Drag : short { NONE, MOVE, RESIZE_LEFT, RESIZE_RIGHT };
+
+  [[nodiscard]] constexpr bool isResizing(Drag drag) noexcept {
+    return Drag::RESIZE_LEFT == drag or Drag::RESIZE_RIGHT == drag;
+  }
+
+  /**
+   * The grid of a PlayerIndicator, where the user selects the elements, moves them, and changes
+   * their width by dragging their left or right side.
    * Its callback is called when the selection or the layout changes.
    */
   class [[nodiscard]] HudPreview final : public Fl_Widget {
   private:
     HudLayout& m_layout;
     const HudElement* m_pSelected {nullptr};
-    bool m_isDragging {false};
+    Drag m_drag {Drag::NONE};
     int m_grabbedColumn {0}; // where the element has been grabbed, relative to its first column
     CellPosition m_target {.row = 0, .column = 0};
+    int m_targetWidth {1};
+
+    /**
+     * @returns where an element is drawn on the grid.
+     */
+    [[nodiscard]] phud::Rectangle toRectangle(CellPosition position, int width) const {
+      return translate(PlayerIndicatorWindow::toRectangle(position, width, PREVIEW_ZOOM), x(), y());
+    }
 
     /**
      * @returns the cell under the mouse.
@@ -116,6 +160,44 @@ namespace {
       return {.row = std::clamp((Fl::event_y() - y()) / PREVIEW_CELL_HEIGHT, 0, piws::nbRows - 1),
               .column =
                   std::clamp((Fl::event_x() - x()) / PREVIEW_CELL_WIDTH, 0, piws::nbColumns - 1)};
+    }
+
+    /**
+     * @returns the limit between two columns which is the closest to the mouse.
+     */
+    [[nodiscard]] int eventColumnLimit() const {
+      return std::clamp((Fl::event_x() - x() + PREVIEW_CELL_WIDTH / 2) / PREVIEW_CELL_WIDTH, 0,
+                        piws::nbColumns);
+    }
+
+    [[nodiscard]] const HudItem* itemUnderMouse() const {
+      const auto* const pElement = m_layout.elementAt(eventCell());
+      return (nullptr == pElement) ? nullptr : m_layout.find(*pElement);
+    }
+
+    /**
+     * @returns what a click at the mouse position would do: near a side of the item, it resizes it.
+     */
+    [[nodiscard]] Drag dragUnderMouse(const HudItem* pItem) const {
+      if (nullptr == pItem) {
+        return Drag::NONE;
+      }
+
+      const auto [ix, iy, iw, ih] = toRectangle(pItem->position, pItem->width);
+      const auto mouseX = Fl::event_x();
+
+      if (ix + RESIZE_MARGIN > mouseX) {
+        return Drag::RESIZE_LEFT;
+      }
+
+      return (ix + iw - RESIZE_MARGIN <= mouseX) ? Drag::RESIZE_RIGHT : Drag::MOVE;
+    }
+
+    /**
+     * Shows the user that a side of an element can be dragged.
+     */
+    void updateCursor(Drag drag) const {
+      window()->cursor(isResizing(drag) ? FL_CURSOR_WE : FL_CURSOR_DEFAULT);
     }
 
     void drawGrid() const {
@@ -134,7 +216,7 @@ namespace {
     }
 
     void drawItem(const HudItem& item) const {
-      const auto [ix, iy, iw, ih] = toRectangle(x(), y(), *item.pElement, item.position);
+      const auto [ix, iy, iw, ih] = toRectangle(item.position, item.width);
       fl_rectf(ix, iy, iw, ih, (item.pElement == m_pSelected) ? SELECTED_ITEM_COLOR : ITEM_COLOR);
       fl_rect(ix, iy, iw, ih, FL_DARK3);
       fl_color(FL_BLACK);
@@ -143,37 +225,61 @@ namespace {
     }
 
     void drawTarget() const {
-      const auto [tx, ty, tw, th] = toRectangle(x(), y(), *m_pSelected, m_target);
-      const auto isValid = m_layout.canPlace(*m_pSelected, m_target);
+      const auto [tx, ty, tw, th] = toRectangle(m_target, m_targetWidth);
+      const auto isValid = m_layout.canPlace(*m_pSelected, m_target, m_targetWidth);
       fl_rect(tx, ty, tw, th, isValid ? VALID_TARGET_COLOR : INVALID_TARGET_COLOR);
       fl_rect(tx + 1, ty + 1, tw - 2, th - 2, isValid ? VALID_TARGET_COLOR : INVALID_TARGET_COLOR);
     }
 
     void onPush() {
-      const auto cell = eventCell();
-      m_pSelected = m_layout.elementAt(cell);
-      m_isDragging = nullptr != m_pSelected;
+      const auto* const pItem = itemUnderMouse();
+      m_pSelected = (nullptr == pItem) ? nullptr : pItem->pElement;
+      m_drag = dragUnderMouse(pItem);
 
-      if (m_isDragging) {
-        const auto* const pItem = m_layout.find(*m_pSelected);
-        m_grabbedColumn = cell.column - pItem->position.column;
+      if (nullptr != pItem) {
+        m_grabbedColumn = eventCell().column - pItem->position.column;
         m_target = pItem->position;
+        m_targetWidth = pItem->width;
       }
 
       redraw();
       do_callback();
     }
 
+    /**
+     * Moves the dragged side to the closest column limit, keeping at least one cell.
+     */
+    void onResize() {
+      const auto& item = *m_layout.find(*m_pSelected);
+      const auto start = item.position.column;
+      const auto end = start + item.width;
+
+      if (Drag::RESIZE_LEFT == m_drag) {
+        const auto newStart = std::min(eventColumnLimit(), end - 1);
+        m_target = {.row = item.position.row, .column = newStart};
+        m_targetWidth = end - newStart;
+      } else {
+        m_target = item.position;
+        m_targetWidth = std::max(eventColumnLimit(), start + 1) - start;
+      }
+    }
+
     void onDrag() {
-      const auto cell = eventCell();
-      m_target = {.row = cell.row, .column = cell.column - m_grabbedColumn};
+      if (isResizing(m_drag)) {
+        onResize();
+      } else {
+        const auto cell = eventCell();
+        m_target = {.row = cell.row, .column = cell.column - m_grabbedColumn};
+      }
+
       redraw();
     }
 
     void onRelease() {
-      m_isDragging = false;
-      // a refused move leaves the element at its previous place
-      m_layout.moveElement(*m_pSelected, m_target);
+      // a refused move or resize leaves the element as it was
+      m_layout.resizeElement(*m_pSelected, m_target, m_targetWidth);
+      m_drag = Drag::NONE;
+      updateCursor(dragUnderMouse(itemUnderMouse()));
       redraw();
       do_callback();
     }
@@ -183,7 +289,7 @@ namespace {
       drawGrid();
       std::ranges::for_each(m_layout.getItems(), [this](const auto& item) { drawItem(item); });
 
-      if (m_isDragging) {
+      if (Drag::NONE != m_drag) {
         drawTarget();
       }
 
@@ -192,18 +298,30 @@ namespace {
 
     int handle(int e) override {
       switch (e) {
+        case Fl_Event::FL_ENTER:
+        case Fl_Event::FL_MOVE:
+          // returning 1 to FL_ENTER is needed to receive FL_MOVE
+          updateCursor(dragUnderMouse(itemUnderMouse()));
+          return 1;
+
+        case Fl_Event::FL_LEAVE:
+          if (Drag::NONE == m_drag) {
+            updateCursor(Drag::NONE);
+          }
+          return 1;
+
         case Fl_Event::FL_PUSH:
           onPush();
           return 1;
 
         case Fl_Event::FL_DRAG:
-          if (m_isDragging) {
+          if (Drag::NONE != m_drag) {
             onDrag();
           }
           return 1;
 
         case Fl_Event::FL_RELEASE:
-          if (m_isDragging) {
+          if (Drag::NONE != m_drag) {
             onRelease();
           }
           return 1;
@@ -232,6 +350,53 @@ namespace {
   }; // class HudPreview
 
   /**
+   * @returns the sample text displayed for the element: what a PlayerIndicator would display.
+   */
+  [[nodiscard]] constexpr std::string_view toSampleText(const HudElement& element) noexcept {
+    return ("playerName" == element.id) ? SAMPLE_PLAYER_NAME : SAMPLE_STAT;
+  }
+
+  /**
+   * A PlayerIndicator at its real size, displaying sample values, so that the user sees what the
+   * layout looks like on a table.
+   */
+  class [[nodiscard]] HudSample final : public Fl_Widget {
+  private:
+    const HudLayout& m_layout;
+
+    void drawItem(const HudItem& item) const {
+      const auto [ix, iy, iw, ih] = translate(PlayerIndicatorWindow::toRectangle(item), x(), y());
+      fl_draw(std::string(toSampleText(*item.pElement)).c_str(), ix, iy, iw, ih, style::textAlign,
+              nullptr, 0);
+    }
+
+  protected:
+    void draw() override {
+      // the free part of the grid is not displayed on the table
+      fl_rectf(x(), y(), w(), h(), FL_BACKGROUND_COLOR);
+      const auto indicatorWidth = m_layout.getWidth();
+      const auto indicatorHeight = m_layout.getHeight();
+      fl_rectf(x(), y(), indicatorWidth, indicatorHeight, style::backgroundColor);
+      fl_rect(x() - 1, y() - 1, indicatorWidth + 2, indicatorHeight + 2, FL_DARK3);
+      fl_push_clip(x(), y(), w(), h());
+      fl_color(style::textColor);
+      fl_font(style::font, piws::fontSize);
+      std::ranges::for_each(m_layout.getItems(), [this](const auto& item) { drawItem(item); });
+      fl_pop_clip();
+    }
+
+  public:
+    HudSample(const phud::Rectangle& r, const HudLayout& layout)
+      : Fl_Widget(r.x, r.y, r.w, r.h),
+        m_layout {layout} {}
+    HudSample(const HudSample&) = delete;
+    HudSample(HudSample&&) = delete;
+    HudSample& operator=(const HudSample&) = delete;
+    HudSample& operator=(HudSample&&) = delete;
+    ~HudSample() override = default;
+  }; // class HudSample
+
+  /**
    * @returns the text of the element in the list, with the formatting of Fl_Browser.
    */
   [[nodiscard]] std::string toListLine(const HudElement& element, const HudLayout& layout) {
@@ -244,9 +409,17 @@ namespace {
                        hasData(element) ? "" : NO_DATA_TEXT);
   }
 
-  [[nodiscard]] gsl::not_null<Fl_Button*> newButton(int x, int y, const char* label) {
-    return new Fl_Button(x, y, BUTTON_WIDTH, BUTTON_HEIGHT, label);
+  /**
+   * @param callback called on the HudEditor implementation, see callbackOn
+   */
+  [[nodiscard]] gsl::not_null<Fl_Button*> newButton(int x, int y, std::string_view label,
+                                                    Fl_Callback* callback, void* pTarget) {
+    return createWidget<Fl_Button>(
+        {.x = x, .y = y, .w = BUTTON_WIDTH, .h = BUTTON_HEIGHT}, label,
+        [callback, pTarget](gsl::not_null<Fl_Button*> button) { button->callback(callback, pTarget); });
   }
+
+  constexpr auto TEXT_ALIGN {FL_ALIGN_LEFT | FL_ALIGN_TOP | FL_ALIGN_INSIDE | FL_ALIGN_WRAP};
 } // anonymous namespace
 
 struct [[nodiscard]] HudEditor::Implementation final {
@@ -256,12 +429,14 @@ struct [[nodiscard]] HudEditor::Implementation final {
       std::make_unique<Fl_Double_Window>(WINDOW_WIDTH, WINDOW_HEIGHT, TITLE)};
   Fl_Hold_Browser* m_list {nullptr};
   HudPreview* m_preview {nullptr};
+  HudSample* m_sample {nullptr};
   Fl_Box* m_description {nullptr};
   Fl_Button* m_addBtn {nullptr};
   Fl_Button* m_removeBtn {nullptr};
 
   explicit Implementation(OnValidate onValidate)
     : m_onValidate {std::move(onValidate)} {
+    m_window->begin(); // make explicit that every allocated memory will be freed by the parent
     buildWidgets();
     m_window->end();
   }
@@ -273,33 +448,36 @@ struct [[nodiscard]] HudEditor::Implementation final {
   ~Implementation() = default;
 
   void buildWidgets() {
-    const auto [lx, ly, lw, lh] = LIST;
-    m_list = new Fl_Hold_Browser(lx, ly, lw, lh);
-    m_list->when(FL_WHEN_RELEASE_ALWAYS);
-    m_list->callback(onListChanged, this);
-    std::ranges::for_each(getHudElements(),
-                          [this](const auto& e) { m_list->add(std::string(e.name).c_str()); });
+    m_list = createWidget<Fl_Hold_Browser>(LIST, [this](gsl::not_null<Fl_Hold_Browser*> list) {
+      list->when(FL_WHEN_RELEASE_ALWAYS);
+      list->callback(callbackOn<&Implementation::onListChanged>, this);
+      std::ranges::for_each(getHudElements(),
+                            [list](const auto& e) { list->add(std::string(e.name).c_str()); });
+    });
 
-    const auto [hx, hy, hw, hh] = HINT;
-    auto* const pHint = new Fl_Box(hx, hy, hw, hh, HINT_TEXT);
-    pHint->align(FL_ALIGN_LEFT | FL_ALIGN_TOP | FL_ALIGN_INSIDE | FL_ALIGN_WRAP);
+    std::ignore = createWidget<Fl_Box>(HINT, HINT_TEXT,
+                                       [](gsl::not_null<Fl_Box*> box) { box->align(TEXT_ALIGN); });
 
     m_preview = new HudPreview(PREVIEW, m_layout);
-    m_preview->callback(onPreviewChanged, this);
+    m_preview->callback(callbackOn<&Implementation::refresh>, this);
 
-    const auto [dx, dy, dw, dh] = DESCRIPTION;
-    m_description = new Fl_Box(dx, dy, dw, dh);
-    m_description->align(FL_ALIGN_LEFT | FL_ALIGN_TOP | FL_ALIGN_INSIDE | FL_ALIGN_WRAP);
+    m_description = createWidget<Fl_Box>(
+        DESCRIPTION, [](gsl::not_null<Fl_Box*> box) { box->align(TEXT_ALIGN); });
 
-    m_addBtn = newButton(HINT.x, EDIT_BUTTONS_Y, "Add");
-    m_addBtn->callback(onAdd, this);
-    m_removeBtn = newButton(HINT.x + BUTTON_WIDTH + SPACE, EDIT_BUTTONS_Y, "Remove");
-    m_removeBtn->callback(onRemove, this);
-    newButton(HINT.x + HINT.w - BUTTON_WIDTH, EDIT_BUTTONS_Y, "Default")->callback(onDefault, this);
-    newButton(HINT.x + HINT.w - 2 * BUTTON_WIDTH - SPACE, VALIDATION_BUTTONS_Y, "OK")
-        ->callback(onOk, this);
-    newButton(HINT.x + HINT.w - BUTTON_WIDTH, VALIDATION_BUTTONS_Y, "Cancel")
-        ->callback(onCancel, this);
+    std::ignore = createWidget<Fl_Box>(SAMPLE_TITLE, SAMPLE_TITLE_TEXT, [](gsl::not_null<Fl_Box*> box) {
+      box->align(FL_ALIGN_LEFT | FL_ALIGN_INSIDE);
+    });
+    m_sample = new HudSample(SAMPLE, m_layout);
+
+    m_addBtn = newButton(HINT.x, EDIT_BUTTONS_Y, "Add", callbackOn<&Implementation::onAdd>, this);
+    m_removeBtn = newButton(HINT.x + BUTTON_WIDTH + SPACE, EDIT_BUTTONS_Y, "Remove",
+                            callbackOn<&Implementation::onRemove>, this);
+    std::ignore = newButton(HINT.x + HINT.w - BUTTON_WIDTH, EDIT_BUTTONS_Y, "Default",
+                            callbackOn<&Implementation::onDefault>, this);
+    std::ignore = newButton(HINT.x + HINT.w - 2 * BUTTON_WIDTH - SPACE, VALIDATION_BUTTONS_Y, "OK",
+                            callbackOn<&Implementation::onOk>, this);
+    std::ignore = newButton(HINT.x + HINT.w - BUTTON_WIDTH, VALIDATION_BUTTONS_Y, "Cancel",
+                            callbackOn<&Implementation::onCancel>, this);
   }
 
   void refreshList() const {
@@ -342,6 +520,7 @@ struct [[nodiscard]] HudEditor::Implementation final {
     selectInList(m_preview->getSelected());
     refreshSelection();
     m_preview->redraw();
+    m_sample->redraw();
     m_window->redraw();
   }
 
@@ -351,55 +530,42 @@ struct [[nodiscard]] HudEditor::Implementation final {
     }
   }
 
-  static void onListChanged(Fl_Widget*, void* hiddenSelf) {
-    auto& self = *static_cast<Implementation*>(hiddenSelf);
-    const auto line = self.m_list->value();
-    self.m_preview->select((0 == line) ? nullptr
-                                       : &getHudElements()[static_cast<std::size_t>(line) - 1]);
+  void onListChanged() {
+    const auto line = m_list->value();
+    m_preview->select((0 == line) ? nullptr
+                                  : &getHudElements()[static_cast<std::size_t>(line) - 1]);
 
     if (0 != Fl::event_clicks()) { // double click
-      self.addSelected();
+      addSelected();
     }
 
-    self.refresh();
+    refresh();
   }
 
-  static void onPreviewChanged(Fl_Widget*, void* hiddenSelf) {
-    const auto& self = *static_cast<Implementation*>(hiddenSelf);
-    self.refresh();
+  void onAdd() {
+    addSelected();
+    refresh();
   }
 
-  static void onAdd(Fl_Widget*, void* hiddenSelf) {
-    auto& self = *static_cast<Implementation*>(hiddenSelf);
-    self.addSelected();
-    self.refresh();
-  }
-
-  static void onRemove(Fl_Widget*, void* hiddenSelf) {
-    auto& self = *static_cast<Implementation*>(hiddenSelf);
-
-    if (const auto* const pSelected = self.m_preview->getSelected(); nullptr != pSelected) {
-      self.m_layout.removeElement(*pSelected);
+  void onRemove() {
+    if (const auto* const pSelected = m_preview->getSelected(); nullptr != pSelected) {
+      m_layout.removeElement(*pSelected);
     }
 
-    self.refresh();
+    refresh();
   }
 
-  static void onDefault(Fl_Widget*, void* hiddenSelf) {
-    auto& self = *static_cast<Implementation*>(hiddenSelf);
-    self.m_layout = HudLayout::defaultLayout();
-    self.refresh();
+  void onDefault() {
+    m_layout = HudLayout::defaultLayout();
+    refresh();
   }
 
-  static void onOk(Fl_Widget*, void* hiddenSelf) {
-    const auto& self = *static_cast<Implementation*>(hiddenSelf);
-    self.m_window->hide();
-    self.m_onValidate(self.m_layout);
+  void onOk() const {
+    m_window->hide();
+    m_onValidate(m_layout);
   }
 
-  static void onCancel(Fl_Widget*, void* hiddenSelf) {
-    static_cast<Implementation*>(hiddenSelf)->m_window->hide();
-  }
+  void onCancel() const { m_window->hide(); }
 }; // struct HudEditor::Implementation
 
 HudEditor::HudEditor(OnValidate onValidate)
@@ -415,5 +581,5 @@ void HudEditor::open(const HudLayout& layout) {
   }
 
   m_pImpl->m_window->show();
-  matchTitleBarToBackground(*m_pImpl->m_window);
+  matchTitleBarToWindow(*m_pImpl->m_window);
 }

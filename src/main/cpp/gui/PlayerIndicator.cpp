@@ -1,6 +1,8 @@
 #include "gui/HudElement.hpp"                      // formatHudElement
-#include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface
+#include "gui/PlayerIndicatorWindowAppearance.hpp" // PlayerIndicatorWindow::surface, toRectangle
+#include "gui/PlayerIndicatorWindowStyle.hpp"      // PlayerIndicatorWindow::style
 #include "gui/PlayerIndicator.hpp" // Fl_Double_Window, HudLayout, std::string, std::string_view
+#include "gui/WidgetFactory.hpp"   // createWidget
 #include "log/Logger.hpp"          // fmt::*, Logger, CURRENT_FILE_NAME
 #include "statistics/PlayerStatistics.hpp"
 #include <ranges> // std::views::zip
@@ -19,6 +21,7 @@
 #endif // _MSC_VER
 
 namespace piws = PlayerIndicatorWindow::surface;
+namespace style = PlayerIndicatorWindow::style;
 
 static constexpr Logger LOG {CURRENT_FILE_NAME};
 
@@ -42,7 +45,7 @@ PlayerIndicator::PlayerIndicator(const std::pair<int, int>& position, std::strin
   LOG.debug<"creation du PlayerIndicator {}">(playerName);
   copy_label(m_playerName.c_str());
   box(FL_FLAT_BOX);
-  color(FL_WHITE);
+  color(style::backgroundColor);
   clear_border();
   end();
   buildBoxes();
@@ -53,18 +56,19 @@ void PlayerIndicator::buildBoxes() {
   clear(); // deletes the boxes
   m_boxes.clear();
   size(m_layout.getWidth(), m_layout.getHeight());
-  begin();
+  this->begin();
 
   for (const auto& item : m_layout.getItems()) {
-    auto* const pBox =
-        new Fl_Box(item.position.column * piws::cellWidth, item.position.row * piws::cellHeight,
-                   item.pElement->widthInCells * piws::cellWidth, piws::cellHeight);
-    pBox->labelsize(piws::fontSize);
-    pBox->align(FL_ALIGN_CENTER | FL_ALIGN_INSIDE | FL_ALIGN_CLIP);
-    m_boxes.push_back(pBox);
+    m_boxes.push_back(
+        createWidget<Fl_Box>(PlayerIndicatorWindow::toRectangle(item), [](gsl::not_null<Fl_Box*> box) {
+          box->labelfont(style::font);
+          box->labelsize(piws::fontSize);
+          box->labelcolor(style::textColor);
+          box->align(style::textAlign);
+        }));
   }
 
-  end();
+  this->end();
 }
 
 void PlayerIndicator::displayStats() const {

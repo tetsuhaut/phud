@@ -138,6 +138,69 @@ BOOST_AUTO_TEST_CASE(HudLayoutTest_sizeShouldBeTheBottomRightCorner) {
   BOOST_TEST(4 * piws::cellHeight == layout.getHeight());
 }
 
+BOOST_AUTO_TEST_CASE(HudLayoutTest_addedElementShouldHaveItsDefaultWidth) {
+  HudLayout layout;
+  BOOST_REQUIRE(layout.addElement(get("playerName")));
+  BOOST_TEST(get("playerName").widthInCells == layout.find(get("playerName"))->width);
+}
+
+BOOST_AUTO_TEST_CASE(HudLayoutTest_widthShouldBeSavedOnlyWhenItIsNotTheDefaultOne) {
+  auto layout = HudLayout::parse("playerName:0:1");
+  BOOST_TEST("playerName:0:1" == layout.serialize());
+  BOOST_REQUIRE(layout.resizeElement(get("playerName"), {.row = 1, .column = 0}, 3));
+  BOOST_TEST("playerName:0:1:3" == layout.serialize());
+  BOOST_TEST((layout == HudLayout::parse(layout.serialize())));
+}
+
+BOOST_AUTO_TEST_CASE(HudLayoutTest_parseShouldIgnoreAWrongWidth) {
+  const auto layout =
+      HudLayout::parse("vpip:0:0:0;pfr:0:1:x;af:0:2:11;limp:0:3:1:1;playerName:0:4:2");
+  BOOST_REQUIRE(1 == layout.getItems().size());
+  BOOST_TEST(2 == layout.find(get("playerName"))->width);
+}
+
+BOOST_AUTO_TEST_CASE(HudLayoutTest_resizeByTheLeftSideShouldMoveTheElement) {
+  auto layout = HudLayout::parse("playerName:0:0");
+  BOOST_TEST(layout.resizeElement(get("playerName"), {.row = 0, .column = 2}, 3));
+  const auto& item = *layout.find(get("playerName"));
+  BOOST_TEST(2 == item.position.column);
+  BOOST_TEST(3 == item.width);
+  BOOST_TEST(5 * piws::cellWidth == layout.getWidth());
+}
+
+BOOST_AUTO_TEST_CASE(HudLayoutTest_resizeShouldBeRefusedOverAnotherElementOrOutOfTheGrid) {
+  auto layout = HudLayout::parse("playerName:0:0;vpip:6:0");
+  const auto& name = get("playerName");
+  BOOST_TEST(!layout.resizeElement(name, {.row = 0, .column = 0}, 7));
+  BOOST_TEST(!layout.resizeElement(name, {.row = 0, .column = 0}, 0));
+  BOOST_TEST(!layout.resizeElement(name, {.row = 0, .column = 7}, 4));
+  BOOST_TEST(5 == layout.find(name)->width);
+  BOOST_TEST(layout.resizeElement(name, {.row = 0, .column = 0}, 6));
+  BOOST_TEST(&name == layout.elementAt({.row = 0, .column = 5}));
+}
+
+BOOST_AUTO_TEST_CASE(HudLayoutTest_moveShouldKeepTheWidth) {
+  auto layout = HudLayout::parse("playerName:0:0:2;vpip:3:0");
+  BOOST_TEST(layout.moveElement(get("playerName"), {.row = 0, .column = 1}));
+  BOOST_TEST(2 == layout.find(get("playerName"))->width);
+  BOOST_TEST(!layout.moveElement(get("playerName"), {.row = 0, .column = 2}));
+}
+
+BOOST_AUTO_TEST_CASE(HudLayoutTest_itemRectangleShouldDependOnItsCellsAndTheZoom) {
+  const auto layout = HudLayout::parse("playerName:2:3:4");
+  const auto& item = layout.getItems().front();
+  const auto [x, y, w, h] = PlayerIndicatorWindow::toRectangle(item);
+  BOOST_TEST(2 * piws::cellWidth == x);
+  BOOST_TEST(3 * piws::cellHeight == y);
+  BOOST_TEST(4 * piws::cellWidth == w);
+  BOOST_TEST(piws::cellHeight == h);
+  const auto [zx, zy, zw, zh] = PlayerIndicatorWindow::toRectangle(item, 2);
+  BOOST_TEST(2 * x == zx);
+  BOOST_TEST(2 * y == zy);
+  BOOST_TEST(2 * w == zw);
+  BOOST_TEST(2 * h == zh);
+}
+
 BOOST_AUTO_TEST_CASE(HudLayoutTest_emptyLayoutShouldKeepOneCell) {
   const HudLayout layout;
   BOOST_TEST(piws::cellWidth == layout.getWidth());

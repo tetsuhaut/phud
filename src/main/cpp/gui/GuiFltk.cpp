@@ -1,7 +1,8 @@
 #include "constants/TableConstants.hpp"
 #include "entities/Seat.hpp"
 #include "filesystem/FileUtils.hpp"
-#include "gui/Gui.hpp" // std::unique_ptr, std::make_unique
+#include "gui/FltkCallback.hpp" // callbackOn
+#include "gui/Gui.hpp"          // std::unique_ptr, std::make_unique
 #include "gui/HistoryService.hpp"
 #include "gui/HudEditor.hpp"
 #include "gui/MainWindowAppearance.hpp" // Surface::
@@ -13,7 +14,8 @@
 #include "gui/TableService.hpp"
 #include "gui/TableWatcher.hpp"
 #include "gui/TitleBar.hpp"
-#include "gui/WindowUtils.hpp" // mswindows::
+#include "gui/WidgetFactory.hpp" // createWidget
+#include "gui/WindowUtils.hpp"   // mswindows::
 #include "history/PokerSiteHistory.hpp"
 #include "log/Logger.hpp" // CURRENT_FILE_NAME, fmt::*, Logger, StringLiteral
 #include "statistics/PlayerStatistics.hpp"
@@ -263,18 +265,11 @@ namespace {
   }
 
   /**
-   * Called by the GUI (button component) when the user clicks on the 'exit'
-   * button.
+   * Called by the GUI when the user closes the main window, or chooses File > Exit.
    */
-  // ReSharper disable once CppParameterMayBeConstPtrOrRef
-  // as this function has to be an Fl_Callback
-#if defined(_MSC_VER)
-#  pragma warning(suppress : 26461) // as this function has to be an Fl_Callback
-#endif // _MSC_VER
-  void exitCb(Fl_Widget* const /*widget*/, void* const hidden) {
+  void exitGui(Gui::Implementation& impl) {
     LOG.debug<__func__>();
     LOG.info<"Stopping the GUI.">();
-    auto& impl = *static_cast<Gui::Implementation*>(hidden);
     const auto& mainWindow = *impl.m_mainWindow;
 
     // Stop watching for poker tables first
@@ -287,7 +282,7 @@ namespace {
       markHistoryAsCaughtUp(impl, std::chrono::system_clock::now());
     }
 
-    /* save the main window position */
+    /* remember the main window position */
     impl.m_preferences->saveWindowPosition(mainWindow.x(), mainWindow.y());
     impl.m_preferences->saveWindowSize(mainWindow.w(), mainWindow.h());
 
@@ -296,30 +291,6 @@ namespace {
       Fl::first_window()->hide();
       Fl::check(); // Force FLTK to treat events
     }
-  }
-
-  template <typename WIDGET>
-  [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
-                                                    std::string_view label) {
-    const auto [x, y, w, h] = bounds;
-    return new WIDGET(x, y, w, h, label.data());
-  }
-
-  template <typename WIDGET>
-  [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
-                                                    std::string_view label, auto setupFunction) {
-    const auto widget = createWidget<WIDGET>(bounds, label);
-    setupFunction(widget);
-    return widget;
-  }
-
-  template <typename WIDGET>
-  [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
-                                                    auto setupFunction) {
-    const auto [x, y, w, h] = bounds;
-    const gsl::not_null<WIDGET*> widget {new WIDGET(x, y, w, h)};
-    setupFunction(widget);
-    return widget;
   }
 
   void onHudLayoutValidated(Gui::Implementation& impl, const HudLayout& layout) {
@@ -339,9 +310,8 @@ namespace {
   /**
    * Called by the GUI (menu bar) when the user wants to customize the HUD.
    */
-  void customizeHudCb(Fl_Widget*, void* hidden) {
+  void customizeHud(Gui::Implementation& impl) {
     LOG.debug<__func__>();
-    auto& impl = *static_cast<Gui::Implementation*>(hidden);
 
     if (nullptr == impl.m_hudEditor) {
       impl.m_hudEditor = std::make_unique<HudEditor>(
@@ -352,14 +322,18 @@ namespace {
   }
 
   // defined below, as it uses the import functions
-  void reimportHistoryCb(Fl_Widget*, void* hidden);
+  void reimportHistory(Gui::Implementation& self);
 
   [[nodiscard]] gsl::not_null<Fl_Menu_Bar*> buildMenuBar(Gui::Implementation* impl) {
     return createWidget<Fl_Menu_Bar>(MainWindow::Screen::menuBar, [impl](gsl::not_null<Fl_Menu_Bar*> menu) {
-      menu->add(MainWindow::Label::reimportHistoryMenu.data(), 0, reimportHistoryCb, impl);
-      menu->add("&File/E&xit", 0, exitCb, impl);
-      menu->add(MainWindow::Label::customizeHudMenu.data(), 0, customizeHudCb, impl);
+      menu->add(MainWindow::Label::reimportHistoryMenu.data(), 0, callbackOn<&reimportHistory>,
+                impl);
+      menu->add("&File/E&xit", 0, callbackOn<&exitGui>, impl);
+      menu->add(MainWindow::Label::customizeHudMenu.data(), 0, callbackOn<&customizeHud>, impl);
       menu->box(FL_NO_BOX);
+      menu->textcolor(MainWindow::Color::textColor);
+      // the background of the drop-down menus, on which the items are written with textcolor()
+      menu->color(MainWindow::Color::backgroundColor);
     });
   }
 
@@ -376,14 +350,6 @@ namespace {
   /**
    * Displays a message in the info bar, when the message is known at compile time.
    */
-  template <const std::string_view& MSG>
-  void informUser(Gui::Implementation& aSelf) {
-    LOG.debug<__func__>();
-    scheduleUITask([infoBar = aSelf.m_infoBar, msg = std::string(MSG)]() {
-      infoBar->copy_label(msg.c_str());
-    });
-  }
-
   /**
    * Displays a message in the info bar.
    */
@@ -392,6 +358,11 @@ namespace {
     scheduleUITask([infoBar = aSelf.m_infoBar, msg = std::string(aMsg)]() {
       infoBar->copy_label(msg.c_str());
     });
+  }
+
+  template <const std::string_view& MSG>
+  void informUser(Gui::Implementation& aSelf) {
+    informUser(aSelf, MSG);
   }
 
   void updateTablePlayerIndicators(TablePlayerIndicators& playerIndicators,
@@ -450,11 +421,9 @@ namespace {
       if (const auto title = it->first; !std::ranges::contains(tableWindowTitles, title)) {
         // Stop monitoring this table only: the other ones are still displayed
         tableService.stopProducingStatsForTable(title);
-        // Clear all player indicators for this table
-        auto& playerIndicators = it->second;
-        std::ranges::for_each(playerIndicators, [](auto& pi) { pi.reset(); });
-        LOG.debug<"Removed player indicators for table window: {}">(title);
+        // erasing the entry deletes the player indicators of this table
         it = tableToPlayerIndicators.erase(it);
+        LOG.debug<"Removed player indicators for table window: {}">(title);
       } else {
         ++it;
       }
@@ -585,9 +554,8 @@ namespace {
   /**
    * Called by the GUI (menu bar) when the user wants to import the whole history again.
    */
-  void reimportHistoryCb(Fl_Widget*, void* hidden) {
+  void reimportHistory(Gui::Implementation& self) {
     LOG.debug<__func__>();
-    auto& self = *static_cast<Gui::Implementation*>(hidden);
 
     if (const auto dir = self.m_preferences->getPreferredHistoDir(); dir.empty()) {
       informUser<MainWindow::Label::noHistoryDirToReimport>(self);
@@ -622,19 +590,8 @@ namespace {
       // the changes made to the new history dir are saved from now on
       watchHistory(self, dir);
 
-      // Schedule the rest of the UI updates and import
-      scheduleUITask([&self, dir]() {
-        try {
-          LOG.info<"About to start import process">();
-          // Start import
-          importDirAwakeCb(self, dir);
-          LOG.info<"Import process started successfully">();
-        } catch (const std::exception& e) {
-          LOG.error<"Exception in UI task: {}">(e.what());
-        } catch (...) {
-          LOG.error<"Unknown exception in UI task">();
-        }
-      });
+      // Schedule the import. importDirAwakeCb() and scheduleUITask() log the exceptions
+      scheduleUITask([&self, dir]() { importDirAwakeCb(self, dir); });
     } else {
       LOG.info<"the chosen directory '{}' is not a valid history dir">(dir.string());
       informUser<MainWindow::Label::invalidChoice>(self);
@@ -667,24 +624,23 @@ namespace {
     std::unreachable();
   }
 
-  [[nodiscard]] gsl::not_null<Fl_Button*> buildChooseHistoDirBtn(Gui::Implementation& aSelf) {
-    // Called by the GUI (button component) when the user clicks on the 'choose history directory'
-    // button. Displays a directory chooser window.
-    auto choseHistoDirCb = [](Fl_Widget*, void* hiddenSelf) {
-      LOG.debug<"choseHistoDirCb">();
-      auto& self = *static_cast<Gui::Implementation*>(hiddenSelf);
-      informUser<MainWindow::Label::chooseHistoDirText>(self);
-      const auto dirChoser = buildDirectoryChooser(*self.m_preferences);
-      const auto choice = static_cast<FileChoiceStatus>(dirChoser->show());
-      handleDirectoryChoice(self, *dirChoser, choice);
-    };
+  /**
+   * Called by the GUI when the user clicks on the 'choose history directory' button. Displays a
+   * directory chooser window.
+   */
+  void chooseHistoryDir(Gui::Implementation& self) {
+    LOG.debug<__func__>();
+    informUser<MainWindow::Label::chooseHistoDirText>(self);
+    const auto dirChoser = buildDirectoryChooser(*self.m_preferences);
+    const auto choice = static_cast<FileChoiceStatus>(dirChoser->show());
+    handleDirectoryChoice(self, *dirChoser, choice);
+  }
 
+  [[nodiscard]] gsl::not_null<Fl_Button*> buildChooseHistoDirBtn(Gui::Implementation& aSelf) {
     return createWidget<Fl_Button>(MainWindow::Screen::chooseHistoDirBtn,
                                    MainWindow::Label::chooseHistoDir,
-                                   [&aSelf, choseHistoDirCb](gsl::not_null<Fl_Button*> btn) {
-                                     /* setup the button for choosing which history directory to
-                                      * import into database */
-                                     btn->callback(choseHistoDirCb, &aSelf);
+                                   [&aSelf](gsl::not_null<Fl_Button*> btn) {
+                                     btn->callback(callbackOn<&chooseHistoryDir>, &aSelf);
                                    });
   }
 
@@ -709,33 +665,30 @@ namespace {
     // stop detecting the tables first, so that they can't be followed again
     self.m_tableWatcher->stop();
     self.m_tableService.stopProducingStats();
-
-    for (auto& indicators : self.m_playerIndicators | std::views::values) {
-      std::ranges::for_each(indicators, [](auto& pi) { pi.reset(); });
-    }
-
-    self.m_playerIndicators.clear();
+    self.m_playerIndicators.clear(); // deletes the player indicators
     self.m_watchedTablesLabel->copy_label(MainWindow::Label::hudStopped.data());
     self.m_hudBtn->label(MainWindow::Label::startHud.data());
     Fl::redraw();
   }
 
+  /**
+   * Called by the GUI when the user clicks on 'Start HUD' or 'Stop HUD'.
+   */
+  void toggleHud(Gui::Implementation& self) {
+    LOG.debug<__func__>();
+
+    if (self.m_isHudStarted) {
+      stopHud(self);
+    } else {
+      startHud(self);
+    }
+  }
+
   [[nodiscard]] gsl::not_null<Fl_Button*> buildHudBtn(Gui::Implementation& aSelf) {
-    // Called by the GUI (button component) when the user clicks on 'Start HUD' or 'Stop HUD'
-    auto hudCb = [](Fl_Widget*, void* hiddenSelf) {
-      auto& self = *static_cast<Gui::Implementation*>(hiddenSelf);
-      LOG.debug<"hudCb">();
-
-      if (self.m_isHudStarted) {
-        stopHud(self);
-      } else {
-        startHud(self);
-      }
-    };
-
-    return createWidget<Fl_Button>(
-        MainWindow::Screen::stopHudBtn, MainWindow::Label::startHud,
-        [&aSelf, hudCb](gsl::not_null<Fl_Button*> btn) { btn->callback(hudCb, &aSelf); });
+    return createWidget<Fl_Button>(MainWindow::Screen::stopHudBtn, MainWindow::Label::startHud,
+                                   [&aSelf](gsl::not_null<Fl_Button*> btn) {
+                                     btn->callback(callbackOn<&toggleHud>, &aSelf);
+                                   });
   }
 
   [[nodiscard]] gsl::not_null<Fl_Box*> buildHistoDirTextField(const Preferences& pref) {
@@ -743,6 +696,7 @@ namespace {
       /* setup the text box to display the chosen directory */
       const auto& label = pref.getHistoryDirectoryDisplayLabel();
       box->copy_label(label.c_str());
+      box->labelcolor(MainWindow::Color::textColor);
     });
   }
 
@@ -761,11 +715,17 @@ namespace {
   [[nodiscard]] gsl::not_null<Fl_Box*> buildWatchedTablesLabel() {
     return createWidget<Fl_Box>(MainWindow::Screen::watchedTableLabel,
                                 MainWindow::Label::hudStopped,
-                                [](gsl::not_null<Fl_Box*> box) { box->align(FL_ALIGN_LEFT | FL_ALIGN_INSIDE); });
+                                [](gsl::not_null<Fl_Box*> box) {
+                                  box->align(FL_ALIGN_LEFT | FL_ALIGN_INSIDE);
+                                  box->labelcolor(MainWindow::Color::textColor);
+                                });
   }
 
   [[nodiscard]] gsl::not_null<Fl_Box*> buildInfoBar() {
-    return createWidget<Fl_Box>(MainWindow::Screen::infoBar, MainWindow::Label::WELCOME);
+    return createWidget<Fl_Box>(MainWindow::Screen::infoBar, MainWindow::Label::WELCOME,
+                                [](gsl::not_null<Fl_Box*> box) {
+                                  box->labelcolor(MainWindow::Color::textColor);
+                                });
   }
 
   std::string getWatchedTableLabel(std::span<const std::string> tableNames) {
@@ -813,7 +773,9 @@ namespace {
     const auto ret = new MyMainWindow(mx, my, mw, mh, MainWindow::Label::mainWindowTitle.data());
     const auto [x, y] {impl->m_preferences->getMainWindowPosition()};
     ret->position(x, y);
-    ret->callback(exitCb, impl);
+    ret->callback(callbackOn<&exitGui>, impl);
+    ret->color(MainWindow::Color::backgroundColor);
+    ret->labelcolor(MainWindow::Color::textColor); // the title, see matchTitleBarToWindow()
     return ret;
   }
 } // anonymous namespace
@@ -822,6 +784,7 @@ Gui::Gui(TableService& tableService, HistoryService& historyService)
   : m_pImpl {std::make_unique<Gui::Implementation>(tableService, historyService)} {
   LOG.debug<__func__>();
   m_pImpl->m_mainWindow = buildMainWindow(m_pImpl.get());
+  m_pImpl->m_mainWindow->begin();
   m_pImpl->m_menuBar = buildMenuBar(m_pImpl.get());
   m_pImpl->m_chooseHistoDirBtn = buildChooseHistoDirBtn(*m_pImpl);
   m_pImpl->m_histoDirTextField = buildHistoDirTextField(*m_pImpl->m_preferences);
@@ -855,7 +818,7 @@ int Gui::run() {
   LOG.debug<__func__>();
   m_pImpl->m_mainWindow->show(); // display the main window
   // the title bar exists only once the window is shown
-  matchTitleBarToBackground(*m_pImpl->m_mainWindow);
+  matchTitleBarToWindow(*m_pImpl->m_mainWindow);
   Fl::lock();       // enable multi-thread support
   return Fl::run(); // listen to awake() calls
 }
