@@ -143,7 +143,7 @@ int main(int argc, const char* const* const argv) {
   } catch (const UserAskedForHelpException& e) {
     // the logging framework is not initialized yet
     // if user asks for help, this is not an error
-    std::print("{}", e.what());
+    std::println("{}", e.what());
   } catch (const ProgramArgumentsException& e) {
     // the logging framework is not initialized yet
     std::println(stderr, "{}", e.what());

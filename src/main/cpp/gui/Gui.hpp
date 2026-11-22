@@ -26,7 +26,7 @@ public:
   ~Gui();
   /**
    * Starts the GUI.
-   * @returns 0 if OK
+   * @returns when the GUI exits ; 0 if OK
    */
   [[nodiscard]] int run();
 }; // class Gui

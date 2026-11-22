@@ -361,9 +361,9 @@ set(FLTK_SKIP_FORMS true)
 set(FLTK_SKIP_FLUID true)
 set(FLTK_SKIP_IMAGES true)
 set(FLTK_SKIP_OPENGL true)
-find_package(FLTK 1.4.4 REQUIRED)
+find_package(FLTK 1.4.5 REQUIRED)
 # - FLTK cmake conf does not handle version :(
-if(FLTK_VERSION VERSION_LESS "1.4.4")
+if(FLTK_VERSION VERSION_LESS "1.4.5")
   message(FATAL_ERROR "FLTK version '${FLTK_VERSION}' is too old")
 endif()
 # Mark FLTK headers as SYSTEM to suppress warnings from external code

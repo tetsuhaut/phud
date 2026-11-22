@@ -8,7 +8,7 @@ where /q ninja || ECHO Could not find the ninja command. Check that it is in the
 WHERE /q clang && (echo ERROR: clang is in the PATH! && EXIT /B 1)
 WHERE /q gcc && (echo ERROR: gcc is in the PATH! && EXIT /B 1)
 
-SET VERSION=1.4.4
+SET VERSION=1.4.5
 REM SET VERSION=master
 SET LIB_NAME=fltk
 SET SRC_DIR=%LIB_NAME%-%VERSION%

@@ -31,7 +31,7 @@ clang-tidy %1 ^
 -isystem %EFSW_DIR%\include ^
 -isystem %stlab_DIR%\include ^
 -isystem %FLTK_DIR% ^
--isystem C:\prog\lib\fltk\fltk-release-1.4.4 ^
+-isystem C:\prog\lib\fltk\fltk-1.4.5 ^
 -isystem %SQLite3_DIR%\include ^
 -fms-extensions ^
 -fms-compatibility ^

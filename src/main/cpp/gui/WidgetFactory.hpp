@@ -26,7 +26,7 @@ template <typename WIDGET, std::invocable<gsl::not_null<WIDGET*>> SETUP>
 [[nodiscard]] gsl::not_null<WIDGET*> createWidget(const phud::Rectangle& bounds,
                                                   std::string_view label, SETUP&& setup) {
   const auto widget = createWidget<WIDGET>(bounds, label);
-  std::forward<SETUP>(setup)(widget);
+  setup(widget);
   return widget;
 }
 

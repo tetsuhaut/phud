@@ -5,7 +5,7 @@ IF NOT DEFINED COMPILER ECHO need to define COMPILER && EXIT /B 1
 where /q 7z || ECHO Could not find the 7z command. Check that it is in the path. && EXIT /B 1
 where /q cmake || ECHO Could not find the cmake command. Check that it is in the path. && EXIT /B 1
 where /q ninja || ECHO Could not find the ninja command. Check that it is in the path. && EXIT /B 1SET LIB_NAME=fltk
-SET VERSION=1.4.4
+SET VERSION=1.4.5
 REM SET VERSION=master
 SET LIB_NAME=fltk
 SET SRC_DIR=%CD%\%LIB_NAME%-%VERSION%

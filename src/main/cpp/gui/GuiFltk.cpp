@@ -348,9 +348,6 @@ namespace {
   }
 
   /**
-   * Displays a message in the info bar, when the message is known at compile time.
-   */
-  /**
    * Displays a message in the info bar.
    */
   void informUser(Gui::Implementation& aSelf, std::string_view aMsg) {
@@ -360,6 +357,9 @@ namespace {
     });
   }
 
+  /**
+   * Displays a message in the info bar, when the message is known at compile time.
+   */
   template <const std::string_view& MSG>
   void informUser(Gui::Implementation& aSelf) {
     informUser(aSelf, MSG);
@@ -538,17 +538,15 @@ namespace {
   void catchUpHistory(Gui::Implementation& self, const fs::path& dir) {
     // the files modified from now on are saved by the history watching
     const auto checkTime = std::chrono::system_clock::now();
-    const auto oLastCheck = self.m_preferences->getLastHistoryCheck();
 
-    if (!oLastCheck.has_value()) {
+    if (const auto oLastCheck = self.m_preferences->getLastHistoryCheck(); oLastCheck.has_value()) {
+      self.m_historyService.importFilesModifiedSince(
+          dir, *oLastCheck, buildOnHistoryFileSaved(self.m_tableService), [&self, checkTime]() {
+            scheduleUITask([&self, checkTime]() { markHistoryAsCaughtUp(self, checkTime); });
+          });
+    } else {
       markHistoryAsCaughtUp(self, checkTime);
-      return;
     }
-
-    self.m_historyService.importFilesModifiedSince(
-        dir, *oLastCheck, buildOnHistoryFileSaved(self.m_tableService), [&self, checkTime]() {
-          scheduleUITask([&self, checkTime]() { markHistoryAsCaughtUp(self, checkTime); });
-        });
   }
 
   /**
@@ -795,8 +793,8 @@ Gui::Gui(TableService& tableService, HistoryService& historyService)
       PokerSiteHistory::isValidHistory(dir)) {
     m_pImpl->m_historyService.setHistoryDir(dir);
     // Connect HistoryService and TableService
-    if (const auto h {m_pImpl->m_historyService.getPokerSiteHistory()}) {
-      m_pImpl->m_tableService.setPokerSiteHistory(h);
+    if (const auto pPsh {m_pImpl->m_historyService.getPokerSiteHistory()}) {
+      m_pImpl->m_tableService.setPokerSiteHistory(pPsh);
     }
     // the history is watched permanently, the tables only while the HUD is started
     watchHistory(*m_pImpl, dir);
