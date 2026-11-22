@@ -35,7 +35,7 @@ REM look for fltk-a.b.c-source.tar.gz
 IF EXIST %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar.gz (
   7z x %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar.gz
   7z x %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar
-  DEL %ZIP_NAME_FROM_FLTK_GITHUB%.tar
+  DEL %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar
   GOTO :build
 ) ELSE (
   ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar.gz
@@ -43,7 +43,8 @@ IF EXIST %ZIP_NAME_FROM_FLTK_WEB_SITE%.tar.gz (
 REM look for release-a.b.c.zip
 SET ZIP_NAME_FROM_FLTK_GITHUB=release-%VERSION%
 IF EXIST %ZIP_NAME_FROM_FLTK_GITHUB%.zip (
-  7z x %ZIP_NAME_FROM_FLTK_GITHUB%.tar.zip
+  7z x %ZIP_NAME_FROM_FLTK_GITHUB%.zip
+  SET SRC_DIR=%LIB_NAME%-release-%VERSION%
   GOTO :build
 ) ELSE (
   ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_GITHUB%.zip
@@ -53,6 +54,7 @@ IF EXIST %ZIP_NAME_FROM_FLTK_GITHUB%.tar.gz (
   7z x %ZIP_NAME_FROM_FLTK_GITHUB%.tar.gz
   7z x %ZIP_NAME_FROM_FLTK_GITHUB%.tar
   DEL %ZIP_NAME_FROM_FLTK_GITHUB%.tar
+  SET SRC_DIR=%LIB_NAME%-release-%VERSION%
   GOTO :build
 ) ELSE (
   ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_GITHUB%.tar.gz
@@ -64,7 +66,7 @@ IF EXIST %ZIP_NAME_FROM_FLTK_GITHUB%.zip (
   SET SRC_DIR=%LIB_NAME%-release-%VERSION%
   GOTO :build
 ) ELSE (
-  ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_GITHUB%.tar.gz
+  ECHO Could not find the archive file %ZIP_NAME_FROM_FLTK_GITHUB%.zip
 )
 EXIT /B 1
 
